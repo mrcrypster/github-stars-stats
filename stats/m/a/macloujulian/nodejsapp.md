@@ -1,12 +1,12 @@
-# macloujulian/nodejsapp / stars & forks statistics
-
-[Open repository/macloujulian/nodejsapp](https://github.com/macloujulian/nodejsapp)
+# macloujulian/nodejsapp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 53
 
 ★ Stars: 1
+
+[Open repository](https://github.com/macloujulian/nodejsapp)
 
 ## Historical data
 | Date | Stars | Forks |

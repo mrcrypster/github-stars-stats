@@ -1,12 +1,12 @@
-# Blankwonder/SGNetworkTest / stars & forks statistics
-
-[Open repository/Blankwonder/SGNetworkTest](https://github.com/Blankwonder/SGNetworkTest)
+# Blankwonder/SGNetworkTest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 94
+
+[Open repository](https://github.com/Blankwonder/SGNetworkTest)
 
 ## Historical data
 | Date | Stars | Forks |

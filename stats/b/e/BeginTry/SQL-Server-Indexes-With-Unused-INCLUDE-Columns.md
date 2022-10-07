@@ -1,12 +1,12 @@
-# BeginTry/SQL-Server-Indexes-With-Unused-INCLUDE-Columns / stars & forks statistics
-
-[Open repository/BeginTry/SQL-Server-Indexes-With-Unused-INCLUDE-Columns](https://github.com/BeginTry/SQL-Server-Indexes-With-Unused-INCLUDE-Columns)
+# BeginTry/SQL-Server-Indexes-With-Unused-INCLUDE-Columns - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 4
+
+[Open repository](https://github.com/BeginTry/SQL-Server-Indexes-With-Unused-INCLUDE-Columns)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# laminar-markets/flow / stars & forks statistics
-
-[Open repository/laminar-markets/flow](https://github.com/laminar-markets/flow)
+# laminar-markets/flow - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/laminar-markets/flow)
 
 ## Historical data
 | Date | Stars | Forks |

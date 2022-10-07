@@ -1,12 +1,12 @@
-# etrepum/emacs.d / stars & forks statistics
-
-[Open repository/etrepum/emacs.d](https://github.com/etrepum/emacs.d)
+# etrepum/emacs.d - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
+
+[Open repository](https://github.com/etrepum/emacs.d)
 
 ## Historical data
 | Date | Stars | Forks |

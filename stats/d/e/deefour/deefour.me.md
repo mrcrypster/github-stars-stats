@@ -1,12 +1,12 @@
-# deefour/deefour.me / stars & forks statistics
-
-[Open repository/deefour/deefour.me](https://github.com/deefour/deefour.me)
+# deefour/deefour.me - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/deefour/deefour.me)
 
 ## Historical data
 | Date | Stars | Forks |

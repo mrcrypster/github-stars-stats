@@ -1,6 +1,4 @@
-# leecannon/zig-sbi / stars & forks statistics
-
-[Open repository/leecannon/zig-sbi](https://github.com/leecannon/zig-sbi)
+# leecannon/zig-sbi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/leecannon/zig-sbi)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 5 | 3 | 
+| 2022-10-06 | 5 | 3 | 
+| 2022-10-05 | 5 | 3 | 
+| 2022-10-04 | 5 | 3 | 
+| 2022-10-03 | 5 | 3 | 
+| 2022-10-02 | 5 | 3 | 
+| 2022-10-01 | 5 | 3 | 
+| 2022-09-30 | 5 | 3 | 
+| 2022-09-29 | 5 | 3 | 
+| 2022-09-28 | 5 | 3 | 
 | 2022-09-27 | 5 | 3 | 
 | 2022-09-26 | 5 | 3 | 
 | 2022-09-25 | 5 | 3 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 5 | 3 | 
 | 2022-09-08 | 5 | 3 | 
 | 2022-09-07 | 5 | 3 | 
-| 2022-09-06 | 5 | 3 | 
-| 2022-09-05 | 5 | 3 | 
-| 2022-09-04 | 5 | 3 | 
-| 2022-09-03 | 5 | 3 | 
-| 2022-09-02 | 5 | 3 | 
-| 2022-09-01 | 5 | 3 | 
-| 2022-08-31 | 5 | 3 | 
-| 2022-08-30 | 4 | 3 | 
-| 2022-08-29 | 4 | 3 | 
-| 2022-08-28 | 4 | 3 | 
 
 
 [Detailed charts & statistics for leecannon/zig-sbi](https://reviewgithub.com/rep/leecannon/zig-sbi)

@@ -1,6 +1,4 @@
-# abrochard/kubel / stars & forks statistics
-
-[Open repository/abrochard/kubel](https://github.com/abrochard/kubel)
+# abrochard/kubel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 221
 
+[Open repository](https://github.com/abrochard/kubel)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 221 | 36 | 
+| 2022-10-05 | 221 | 36 | 
+| 2022-10-04 | 221 | 36 | 
+| 2022-10-03 | 221 | 36 | 
+| 2022-10-02 | 221 | 36 | 
+| 2022-10-01 | 221 | 36 | 
+| 2022-09-30 | 221 | 36 | 
+| 2022-09-29 | 221 | 36 | 
+| 2022-09-28 | 221 | 36 | 
+| 2022-09-27 | 221 | 36 | 
 | 2022-09-26 | 221 | 36 | 
 | 2022-09-25 | 221 | 36 | 
 | 2022-09-24 | 221 | 36 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 221 | 36 | 
 | 2022-09-08 | 221 | 36 | 
 | 2022-09-07 | 222 | 36 | 
-| 2022-09-06 | 222 | 35 | 
-| 2022-09-05 | 222 | 35 | 
-| 2022-09-04 | 222 | 35 | 
-| 2022-09-03 | 222 | 35 | 
-| 2022-09-02 | 222 | 35 | 
-| 2022-09-01 | 222 | 35 | 
-| 2022-08-31 | 222 | 35 | 
-| 2022-08-30 | 222 | 35 | 
-| 2022-08-29 | 222 | 35 | 
-| 2022-08-28 | 222 | 35 | 
 
 
 [Detailed charts & statistics for abrochard/kubel](https://reviewgithub.com/rep/abrochard/kubel)

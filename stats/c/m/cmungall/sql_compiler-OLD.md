@@ -1,6 +1,4 @@
-# cmungall/sql_compiler-OLD / stars & forks statistics
-
-[Open repository/cmungall/sql_compiler-OLD](https://github.com/cmungall/sql_compiler-OLD)
+# cmungall/sql_compiler-OLD - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/cmungall/sql_compiler-OLD)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | - | 
+| 2022-10-05 | 4 | - | 
+| 2022-10-04 | 4 | - | 
+| 2022-10-03 | 4 | - | 
+| 2022-10-02 | 4 | - | 
+| 2022-10-01 | 4 | - | 
 | 2022-09-30 | 4 | - | 
 | 2022-09-29 | 4 | - | 
 | 2022-09-28 | 4 | - | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | - | 
 | 2022-09-09 | 4 | - | 
 | 2022-09-08 | 4 | - | 
-| 2022-09-07 | 4 | - | 
-| 2022-09-06 | 4 | - | 
-| 2022-09-05 | 4 | - | 
-| 2022-09-04 | 4 | - | 
-| 2022-09-03 | 4 | - | 
-| 2022-09-02 | 4 | - | 
-| 2022-09-01 | 4 | - | 
 
 
 [Detailed charts & statistics for cmungall/sql_compiler-OLD](https://reviewgithub.com/rep/cmungall/sql_compiler-OLD)

@@ -1,16 +1,29 @@
-# jacobeisenstein/gt-nlp-class / stars & forks statistics
-
-[Open repository/jacobeisenstein/gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class)
+# jacobeisenstein/gt-nlp-class - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1037
 
-★ Stars: 4638
+★ Stars: 4644
+
+[Open repository](https://github.com/jacobeisenstein/gt-nlp-class)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4644 | 1037 | 
+| 2022-10-05 | 4643 | 1037 | 
+| 2022-10-04 | 4641 | 1037 | 
+| 2022-10-03 | 4641 | 1037 | 
+| 2022-10-02 | 4641 | 1037 | 
+| 2022-10-01 | 4641 | 1037 | 
+| 2022-09-30 | 4641 | 1037 | 
+| 2022-09-29 | 4641 | 1037 | 
+| 2022-09-28 | 4642 | 1037 | 
+| 2022-09-27 | 4642 | 1037 | 
+| 2022-09-26 | 4641 | 1037 | 
+| 2022-09-25 | 4641 | 1038 | 
+| 2022-09-24 | 4638 | 1037 | 
 | 2022-09-23 | 4638 | 1037 | 
 | 2022-09-22 | 4638 | 1037 | 
 | 2022-09-21 | 4638 | 1037 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4632 | 1038 | 
 | 2022-09-08 | 4632 | 1038 | 
 | 2022-09-07 | 4632 | 1038 | 
-| 2022-09-06 | 4630 | 1038 | 
-| 2022-09-05 | 4630 | 1038 | 
-| 2022-09-04 | 4628 | 1038 | 
-| 2022-09-03 | 4627 | 1037 | 
-| 2022-09-02 | 4628 | 1037 | 
-| 2022-08-31 | 4628 | 1037 | 
-| 2022-08-30 | 4626 | 1037 | 
-| 2022-08-29 | 4626 | 1037 | 
-| 2022-08-28 | 4625 | 1037 | 
-| 2022-08-27 | 4624 | 1037 | 
-| 2022-08-26 | 4624 | 1037 | 
-| 2022-08-25 | 4623 | 1037 | 
-| 2022-08-24 | 4622 | 1036 | 
 
 
 [Detailed charts & statistics for jacobeisenstein/gt-nlp-class](https://reviewgithub.com/rep/jacobeisenstein/gt-nlp-class)

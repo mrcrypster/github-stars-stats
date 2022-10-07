@@ -1,12 +1,12 @@
-# prysmaticlabs/prysm-web-ui / stars & forks statistics
-
-[Open repository/prysmaticlabs/prysm-web-ui](https://github.com/prysmaticlabs/prysm-web-ui)
+# prysmaticlabs/prysm-web-ui - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 35
+
+[Open repository](https://github.com/prysmaticlabs/prysm-web-ui)
 
 ## Historical data
 | Date | Stars | Forks |

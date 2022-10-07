@@ -1,12 +1,12 @@
-# GenXProject/GenX / stars & forks statistics
-
-[Open repository/GenXProject/GenX](https://github.com/GenXProject/GenX)
+# GenXProject/GenX - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 132
+
+[Open repository](https://github.com/GenXProject/GenX)
 
 ## Historical data
 | Date | Stars | Forks |

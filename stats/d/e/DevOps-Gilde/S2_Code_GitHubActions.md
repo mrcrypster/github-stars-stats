@@ -1,12 +1,12 @@
-# DevOps-Gilde/S2_Code_GitHubActions / stars & forks statistics
-
-[Open repository/DevOps-Gilde/S2_Code_GitHubActions](https://github.com/DevOps-Gilde/S2_Code_GitHubActions)
+# DevOps-Gilde/S2_Code_GitHubActions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 0
+
+[Open repository](https://github.com/DevOps-Gilde/S2_Code_GitHubActions)
 
 ## Historical data
 | Date | Stars | Forks |

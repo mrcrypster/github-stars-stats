@@ -1,12 +1,12 @@
-# eastpavillion/Scala / stars & forks statistics
-
-[Open repository/eastpavillion/Scala](https://github.com/eastpavillion/Scala)
+# eastpavillion/Scala - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/eastpavillion/Scala)
 
 ## Historical data
 | Date | Stars | Forks |

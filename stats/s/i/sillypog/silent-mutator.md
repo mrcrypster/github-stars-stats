@@ -1,12 +1,12 @@
-# sillypog/silent-mutator / stars & forks statistics
-
-[Open repository/sillypog/silent-mutator](https://github.com/sillypog/silent-mutator)
+# sillypog/silent-mutator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/sillypog/silent-mutator)
 
 ## Historical data
 | Date | Stars | Forks |

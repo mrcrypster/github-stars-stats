@@ -1,16 +1,27 @@
-# horsicq/Detect-It-Easy / stars & forks statistics
-
-[Open repository/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
+# horsicq/Detect-It-Easy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 499
+☋ Forks: 507
 
-★ Stars: 4017
+★ Stars: 4062
+
+[Open repository](https://github.com/horsicq/Detect-It-Easy)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4062 | 507 | 
+| 2022-10-05 | 4048 | 505 | 
+| 2022-10-04 | 4046 | 503 | 
+| 2022-10-03 | 4044 | 503 | 
+| 2022-10-02 | 4042 | 503 | 
+| 2022-10-01 | 4041 | 503 | 
+| 2022-09-30 | 4040 | 503 | 
+| 2022-09-29 | 4034 | 501 | 
+| 2022-09-28 | 4030 | 500 | 
+| 2022-09-27 | 4025 | 501 | 
+| 2022-09-26 | 4022 | 499 | 
 | 2022-09-25 | 4017 | 499 | 
 | 2022-09-24 | 4015 | 499 | 
 | 2022-09-23 | 4012 | 499 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3940 | 491 | 
 | 2022-09-08 | 3934 | 491 | 
 | 2022-09-07 | 3930 | 492 | 
-| 2022-09-06 | 3929 | 492 | 
-| 2022-09-05 | 3926 | 492 | 
-| 2022-09-04 | 3921 | 492 | 
-| 2022-09-03 | 3919 | 492 | 
-| 2022-09-02 | 3916 | 493 | 
-| 2022-09-01 | 3915 | 492 | 
-| 2022-08-31 | 3908 | 491 | 
-| 2022-08-30 | 3898 | 491 | 
-| 2022-08-29 | 3892 | 490 | 
-| 2022-08-28 | 3891 | 489 | 
-| 2022-08-27 | 3886 | 489 | 
-| 2022-08-26 | 3886 | 489 | 
 
 
 [Detailed charts & statistics for horsicq/Detect-It-Easy](https://reviewgithub.com/rep/horsicq/Detect-It-Easy)

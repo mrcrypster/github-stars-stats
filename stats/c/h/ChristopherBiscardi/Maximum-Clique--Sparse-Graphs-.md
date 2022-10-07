@@ -1,6 +1,4 @@
-# ChristopherBiscardi/Maximum-Clique--Sparse-Graphs- / stars & forks statistics
-
-[Open repository/ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-](https://github.com/ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-)
+# ChristopherBiscardi/Maximum-Clique--Sparse-Graphs- - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2 | - | 
+| 2022-10-06 | 2 | - | 
+| 2022-10-05 | 2 | - | 
+| 2022-10-04 | 2 | - | 
+| 2022-10-03 | 2 | - | 
+| 2022-10-02 | 2 | - | 
+| 2022-10-01 | 2 | - | 
+| 2022-09-30 | 2 | - | 
+| 2022-09-29 | 2 | - | 
+| 2022-09-28 | 2 | - | 
+| 2022-09-27 | 2 | - | 
 | 2022-09-26 | 2 | - | 
 | 2022-09-25 | 2 | - | 
 | 2022-09-24 | 2 | - | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
-| 2022-09-06 | 2 | - | 
-| 2022-09-05 | 2 | - | 
-| 2022-09-04 | 2 | - | 
-| 2022-09-03 | 2 | - | 
-| 2022-09-02 | 2 | - | 
-| 2022-09-01 | 2 | - | 
-| 2022-08-31 | 2 | - | 
-| 2022-08-30 | 2 | - | 
-| 2022-08-29 | 2 | - | 
-| 2022-08-28 | 2 | - | 
-| 2022-08-27 | 2 | - | 
 
 
 [Detailed charts & statistics for ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-](https://reviewgithub.com/rep/ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-)

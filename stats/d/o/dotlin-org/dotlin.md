@@ -1,6 +1,4 @@
-# dotlin-org/dotlin / stars & forks statistics
-
-[Open repository/dotlin-org/dotlin](https://github.com/dotlin-org/dotlin)
+# dotlin-org/dotlin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 149
 
+[Open repository](https://github.com/dotlin-org/dotlin)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 149 | 3 | 
 | 2022-10-05 | 149 | 3 | 
 | 2022-10-04 | 148 | 3 | 
 | 2022-10-03 | 147 | 3 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 123 | 2 | 
 | 2022-09-09 | 120 | 2 | 
 | 2022-09-08 | 118 | 2 | 
-| 2022-09-07 | 115 | 1 | 
-| 2022-09-06 | 107 | 1 | 
 
 
 [Detailed charts & statistics for dotlin-org/dotlin](https://reviewgithub.com/rep/dotlin-org/dotlin)

@@ -1,12 +1,12 @@
-# thezaorish/cucumber-jvm-geb-example / stars & forks statistics
-
-[Open repository/thezaorish/cucumber-jvm-geb-example](https://github.com/thezaorish/cucumber-jvm-geb-example)
+# thezaorish/cucumber-jvm-geb-example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 4
+
+[Open repository](https://github.com/thezaorish/cucumber-jvm-geb-example)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# Gabattal/Scripts-LeagueOfLegends / stars & forks statistics
-
-[Open repository/Gabattal/Scripts-LeagueOfLegends](https://github.com/Gabattal/Scripts-LeagueOfLegends)
+# Gabattal/Scripts-LeagueOfLegends - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 25
 
+[Open repository](https://github.com/Gabattal/Scripts-LeagueOfLegends)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 25 | 6 | 
+| 2022-10-05 | 25 | 6 | 
+| 2022-10-04 | 25 | 6 | 
+| 2022-10-03 | 25 | 6 | 
 | 2022-10-02 | 25 | 6 | 
 | 2022-10-01 | 24 | 6 | 
 | 2022-09-30 | 23 | 6 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 19 | 6 | 
 | 2022-09-09 | 19 | 6 | 
 | 2022-09-08 | 18 | 5 | 
-| 2022-09-07 | 17 | 5 | 
-| 2022-09-06 | 17 | 5 | 
-| 2022-09-05 | 17 | 5 | 
-| 2022-09-04 | 16 | 5 | 
-| 2022-09-03 | 12 | 5 | 
 
 
 [Detailed charts & statistics for Gabattal/Scripts-LeagueOfLegends](https://reviewgithub.com/rep/Gabattal/Scripts-LeagueOfLegends)

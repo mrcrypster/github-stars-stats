@@ -1,16 +1,23 @@
-# eriklindernoren/ML-From-Scratch / stars & forks statistics
-
-[Open repository/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+# eriklindernoren/ML-From-Scratch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 4226
+☋ Forks: 4233
 
-★ Stars: 21540
+★ Stars: 21558
+
+[Open repository](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 21558 | 4233 | 
+| 2022-10-05 | 21557 | 4231 | 
+| 2022-10-04 | 21557 | 4229 | 
+| 2022-10-03 | 21556 | 4229 | 
+| 2022-10-02 | 21553 | 4228 | 
+| 2022-10-01 | 21549 | 4227 | 
+| 2022-09-30 | 21542 | 4227 | 
 | 2022-09-29 | 21540 | 4226 | 
 | 2022-09-28 | 21539 | 4223 | 
 | 2022-09-27 | 21533 | 4221 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 21469 | 4225 | 
 | 2022-09-09 | 21467 | 4225 | 
 | 2022-09-08 | 21458 | 4222 | 
-| 2022-09-07 | 21432 | 4217 | 
-| 2022-09-06 | 21428 | 4216 | 
-| 2022-09-05 | 21425 | 4214 | 
-| 2022-09-04 | 21422 | 4214 | 
-| 2022-09-03 | 21420 | 4212 | 
-| 2022-09-02 | 21416 | 4207 | 
-| 2022-09-01 | 21411 | 4207 | 
-| 2022-08-31 | 21382 | 4204 | 
 
 
 [Detailed charts & statistics for eriklindernoren/ML-From-Scratch](https://reviewgithub.com/rep/eriklindernoren/ML-From-Scratch)

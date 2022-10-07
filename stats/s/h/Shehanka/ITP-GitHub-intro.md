@@ -1,6 +1,4 @@
-# Shehanka/ITP-GitHub-intro / stars & forks statistics
-
-[Open repository/Shehanka/ITP-GitHub-intro](https://github.com/Shehanka/ITP-GitHub-intro)
+# Shehanka/ITP-GitHub-intro - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/Shehanka/ITP-GitHub-intro)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 44 | 
+| 2022-10-05 | 1 | 44 | 
+| 2022-10-04 | 1 | 44 | 
+| 2022-10-03 | 1 | 44 | 
+| 2022-10-02 | 1 | 44 | 
+| 2022-10-01 | 1 | 44 | 
+| 2022-09-30 | 1 | 44 | 
 | 2022-09-29 | 1 | 44 | 
 | 2022-09-28 | 1 | 45 | 
 | 2022-09-27 | 1 | 45 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 42 | 
 | 2022-09-09 | 1 | 42 | 
 | 2022-09-08 | 1 | 42 | 
-| 2022-09-07 | 1 | 42 | 
-| 2022-09-06 | 1 | 42 | 
-| 2022-09-05 | 1 | 42 | 
-| 2022-09-04 | 1 | 42 | 
-| 2022-09-03 | 1 | 42 | 
-| 2022-09-02 | 1 | 42 | 
-| 2022-09-01 | 1 | 42 | 
-| 2022-08-31 | 1 | 42 | 
 
 
 [Detailed charts & statistics for Shehanka/ITP-GitHub-intro](https://reviewgithub.com/rep/Shehanka/ITP-GitHub-intro)

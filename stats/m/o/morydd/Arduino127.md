@@ -1,12 +1,12 @@
-# morydd/Arduino127 / stars & forks statistics
-
-[Open repository/morydd/Arduino127](https://github.com/morydd/Arduino127)
+# morydd/Arduino127 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/morydd/Arduino127)
 
 ## Historical data
 | Date | Stars | Forks |

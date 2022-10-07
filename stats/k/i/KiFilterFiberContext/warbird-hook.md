@@ -1,16 +1,30 @@
-# KiFilterFiberContext/warbird-hook / stars & forks statistics
-
-[Open repository/KiFilterFiberContext/warbird-hook](https://github.com/KiFilterFiberContext/warbird-hook)
+# KiFilterFiberContext/warbird-hook - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
-★ Stars: 160
+★ Stars: 166
+
+[Open repository](https://github.com/KiFilterFiberContext/warbird-hook)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 166 | 18 | 
+| 2022-10-06 | 166 | 18 | 
+| 2022-10-05 | 166 | 18 | 
+| 2022-10-04 | 166 | 18 | 
+| 2022-10-03 | 166 | 18 | 
+| 2022-10-02 | 165 | 18 | 
+| 2022-10-01 | 165 | 18 | 
+| 2022-09-30 | 164 | 18 | 
+| 2022-09-29 | 163 | 18 | 
+| 2022-09-28 | 163 | 18 | 
+| 2022-09-27 | 162 | 18 | 
+| 2022-09-26 | 161 | 18 | 
+| 2022-09-25 | 160 | 18 | 
+| 2022-09-23 | 160 | 18 | 
 | 2022-09-22 | 160 | 18 | 
 | 2022-09-21 | 159 | 18 | 
 | 2022-09-20 | 159 | 18 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 151 | 15 | 
 | 2022-09-08 | 151 | 15 | 
 | 2022-09-07 | 151 | 15 | 
-| 2022-09-06 | 150 | 15 | 
-| 2022-09-05 | 150 | 15 | 
-| 2022-09-04 | 149 | 14 | 
-| 2022-09-03 | 150 | 14 | 
-| 2022-09-02 | 150 | 14 | 
-| 2022-09-01 | 148 | 14 | 
-| 2022-08-31 | 148 | 14 | 
-| 2022-08-30 | 145 | 14 | 
-| 2022-08-29 | 142 | 14 | 
-| 2022-08-28 | 131 | 14 | 
-| 2022-08-27 | 94 | 11 | 
-| 2022-08-26 | 83 | 10 | 
-| 2022-08-25 | 76 | 10 | 
-| 2022-08-24 | 75 | 10 | 
 
 
 [Detailed charts & statistics for KiFilterFiberContext/warbird-hook](https://reviewgithub.com/rep/KiFilterFiberContext/warbird-hook)

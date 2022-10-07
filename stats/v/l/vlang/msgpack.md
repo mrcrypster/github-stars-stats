@@ -1,12 +1,12 @@
-# vlang/msgpack / stars & forks statistics
-
-[Open repository/vlang/msgpack](https://github.com/vlang/msgpack)
+# vlang/msgpack - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 14
+
+[Open repository](https://github.com/vlang/msgpack)
 
 ## Historical data
 | Date | Stars | Forks |

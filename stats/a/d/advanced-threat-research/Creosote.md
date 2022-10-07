@@ -1,12 +1,12 @@
-# advanced-threat-research/Creosote / stars & forks statistics
-
-[Open repository/advanced-threat-research/Creosote](https://github.com/advanced-threat-research/Creosote)
+# advanced-threat-research/Creosote - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 71
+
+[Open repository](https://github.com/advanced-threat-research/Creosote)
 
 ## Historical data
 | Date | Stars | Forks |

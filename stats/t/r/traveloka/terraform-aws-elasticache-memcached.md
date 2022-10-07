@@ -1,6 +1,4 @@
-# traveloka/terraform-aws-elasticache-memcached / stars & forks statistics
-
-[Open repository/traveloka/terraform-aws-elasticache-memcached](https://github.com/traveloka/terraform-aws-elasticache-memcached)
+# traveloka/terraform-aws-elasticache-memcached - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/traveloka/terraform-aws-elasticache-memcached)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 10 | 
+| 2022-10-05 | 1 | 10 | 
+| 2022-10-04 | 1 | 10 | 
+| 2022-10-03 | 1 | 10 | 
 | 2022-10-02 | 1 | 10 | 
 | 2022-10-01 | 1 | 10 | 
 | 2022-09-30 | 1 | 10 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 10 | 
 | 2022-09-09 | 1 | 10 | 
 | 2022-09-08 | 1 | 10 | 
-| 2022-09-07 | 1 | 10 | 
-| 2022-09-06 | 1 | 10 | 
-| 2022-09-05 | 1 | 10 | 
-| 2022-09-04 | 1 | 10 | 
-| 2022-09-03 | 1 | 10 | 
 
 
 [Detailed charts & statistics for traveloka/terraform-aws-elasticache-memcached](https://reviewgithub.com/rep/traveloka/terraform-aws-elasticache-memcached)

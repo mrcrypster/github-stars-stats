@@ -1,16 +1,25 @@
-# helloflask/bootstrap-flask / stars & forks statistics
-
-[Open repository/helloflask/bootstrap-flask](https://github.com/helloflask/bootstrap-flask)
+# helloflask/bootstrap-flask - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 148
 
-★ Stars: 752
+★ Stars: 756
+
+[Open repository](https://github.com/helloflask/bootstrap-flask)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 756 | 148 | 
+| 2022-10-06 | 756 | 148 | 
+| 2022-10-05 | 756 | 147 | 
+| 2022-10-04 | 756 | 147 | 
+| 2022-10-03 | 756 | 147 | 
+| 2022-10-02 | 756 | 147 | 
+| 2022-10-01 | 756 | 147 | 
+| 2022-09-30 | 755 | 147 | 
+| 2022-09-29 | 753 | 147 | 
 | 2022-09-28 | 752 | 148 | 
 | 2022-09-27 | 751 | 147 | 
 | 2022-09-26 | 750 | 147 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 745 | 148 | 
 | 2022-09-08 | 744 | 148 | 
 | 2022-09-07 | 742 | 148 | 
-| 2022-09-06 | 742 | 148 | 
-| 2022-09-05 | 741 | 148 | 
-| 2022-09-04 | 741 | 148 | 
-| 2022-09-03 | 741 | 148 | 
-| 2022-09-02 | 741 | 148 | 
-| 2022-09-01 | 741 | 148 | 
-| 2022-08-31 | 740 | 148 | 
-| 2022-08-30 | 738 | 147 | 
-| 2022-08-29 | 738 | 147 | 
 
 
 [Detailed charts & statistics for helloflask/bootstrap-flask](https://reviewgithub.com/rep/helloflask/bootstrap-flask)

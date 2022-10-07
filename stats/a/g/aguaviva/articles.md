@@ -1,6 +1,4 @@
-# aguaviva/articles / stars & forks statistics
-
-[Open repository/aguaviva/articles](https://github.com/aguaviva/articles)
+# aguaviva/articles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 68
 
+[Open repository](https://github.com/aguaviva/articles)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 68 | 4 | 
+| 2022-10-05 | 68 | 4 | 
+| 2022-10-04 | 68 | 4 | 
+| 2022-10-03 | 68 | 4 | 
+| 2022-10-02 | 68 | 4 | 
+| 2022-10-01 | 68 | 4 | 
+| 2022-09-30 | 68 | 4 | 
 | 2022-09-29 | 68 | 4 | 
 | 2022-09-28 | 68 | 4 | 
 | 2022-09-27 | 68 | 4 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 69 | 4 | 
 | 2022-09-09 | 69 | 4 | 
 | 2022-09-08 | 68 | 4 | 
-| 2022-09-07 | 67 | 4 | 
-| 2022-09-06 | 67 | 4 | 
-| 2022-09-05 | 67 | 6 | 
-| 2022-09-04 | 66 | 6 | 
-| 2022-09-03 | 66 | 6 | 
-| 2022-09-02 | 61 | 4 | 
-| 2022-09-01 | 58 | 4 | 
-| 2022-08-31 | 58 | 4 | 
 
 
 [Detailed charts & statistics for aguaviva/articles](https://reviewgithub.com/rep/aguaviva/articles)

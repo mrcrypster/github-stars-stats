@@ -1,12 +1,12 @@
-# SnowflakeDefinitiveGuide/1st-Edition / stars & forks statistics
-
-[Open repository/SnowflakeDefinitiveGuide/1st-Edition](https://github.com/SnowflakeDefinitiveGuide/1st-Edition)
+# SnowflakeDefinitiveGuide/1st-Edition - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 23
+
+[Open repository](https://github.com/SnowflakeDefinitiveGuide/1st-Edition)
 
 ## Historical data
 | Date | Stars | Forks |

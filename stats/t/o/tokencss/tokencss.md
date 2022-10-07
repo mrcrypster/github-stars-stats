@@ -1,12 +1,12 @@
-# tokencss/tokencss / stars & forks statistics
-
-[Open repository/tokencss/tokencss](https://github.com/tokencss/tokencss)
+# tokencss/tokencss - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 961
+
+[Open repository](https://github.com/tokencss/tokencss)
 
 ## Historical data
 | Date | Stars | Forks |

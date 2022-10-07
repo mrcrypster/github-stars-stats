@@ -1,12 +1,12 @@
-# sinshu/ziggysynth / stars & forks statistics
-
-[Open repository/sinshu/ziggysynth](https://github.com/sinshu/ziggysynth)
+# sinshu/ziggysynth - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 18
+
+[Open repository](https://github.com/sinshu/ziggysynth)
 
 ## Historical data
 | Date | Stars | Forks |

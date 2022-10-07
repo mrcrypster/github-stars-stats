@@ -1,12 +1,12 @@
-# mayank127/9-Ball-Pool / stars & forks statistics
-
-[Open repository/mayank127/9-Ball-Pool](https://github.com/mayank127/9-Ball-Pool)
+# mayank127/9-Ball-Pool - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mayank127/9-Ball-Pool)
 
 ## Historical data
 | Date | Stars | Forks |

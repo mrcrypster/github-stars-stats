@@ -1,12 +1,12 @@
-# binary-com/perl-Math-Util-CalculatedValue / stars & forks statistics
-
-[Open repository/binary-com/perl-Math-Util-CalculatedValue](https://github.com/binary-com/perl-Math-Util-CalculatedValue)
+# binary-com/perl-Math-Util-CalculatedValue - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/binary-com/perl-Math-Util-CalculatedValue)
 
 ## Historical data
 | Date | Stars | Forks |

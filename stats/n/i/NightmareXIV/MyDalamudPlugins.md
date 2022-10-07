@@ -1,16 +1,22 @@
-# NightmareXIV/MyDalamudPlugins / stars & forks statistics
-
-[Open repository/NightmareXIV/MyDalamudPlugins](https://github.com/NightmareXIV/MyDalamudPlugins)
+# NightmareXIV/MyDalamudPlugins - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 43
+
+[Open repository](https://github.com/NightmareXIV/MyDalamudPlugins)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 43 | 4 | 
+| 2022-10-05 | 43 | 4 | 
+| 2022-10-04 | 43 | 4 | 
+| 2022-10-03 | 43 | 4 | 
+| 2022-10-02 | 43 | 3 | 
+| 2022-10-01 | 43 | 3 | 
 | 2022-09-30 | 43 | 3 | 
 | 2022-09-29 | 43 | 3 | 
 | 2022-09-28 | 43 | 3 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 40 | 3 | 
 | 2022-09-09 | 40 | 3 | 
 | 2022-09-08 | 40 | 3 | 
-| 2022-09-07 | 40 | 3 | 
-| 2022-09-06 | 40 | 3 | 
-| 2022-09-05 | 40 | 3 | 
-| 2022-09-04 | 40 | 3 | 
-| 2022-09-03 | 40 | 3 | 
-| 2022-09-02 | 40 | 3 | 
-| 2022-09-01 | 40 | 3 | 
 
 
 [Detailed charts & statistics for NightmareXIV/MyDalamudPlugins](https://reviewgithub.com/rep/NightmareXIV/MyDalamudPlugins)

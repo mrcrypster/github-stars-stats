@@ -1,12 +1,12 @@
-# rustd/LTAF / stars & forks statistics
-
-[Open repository/rustd/LTAF](https://github.com/rustd/LTAF)
+# rustd/LTAF - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/rustd/LTAF)
 
 ## Historical data
 | Date | Stars | Forks |

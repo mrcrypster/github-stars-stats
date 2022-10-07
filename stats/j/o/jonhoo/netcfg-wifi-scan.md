@@ -1,12 +1,12 @@
-# jonhoo/netcfg-wifi-scan / stars & forks statistics
-
-[Open repository/jonhoo/netcfg-wifi-scan](https://github.com/jonhoo/netcfg-wifi-scan)
+# jonhoo/netcfg-wifi-scan - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/jonhoo/netcfg-wifi-scan)
 
 ## Historical data
 | Date | Stars | Forks |

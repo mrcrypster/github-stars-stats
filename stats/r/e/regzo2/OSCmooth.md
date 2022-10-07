@@ -1,16 +1,25 @@
-# regzo2/OSCmooth / stars & forks statistics
-
-[Open repository/regzo2/OSCmooth](https://github.com/regzo2/OSCmooth)
+# regzo2/OSCmooth - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 39
+★ Stars: 40
+
+[Open repository](https://github.com/regzo2/OSCmooth)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 40 | 4 | 
+| 2022-10-06 | 39 | 4 | 
+| 2022-10-05 | 39 | 4 | 
+| 2022-10-04 | 39 | 4 | 
+| 2022-10-03 | 39 | 4 | 
+| 2022-10-02 | 39 | 4 | 
+| 2022-10-01 | 39 | 4 | 
+| 2022-09-30 | 39 | 4 | 
+| 2022-09-29 | 39 | 4 | 
 | 2022-09-28 | 39 | 4 | 
 | 2022-09-27 | 39 | 4 | 
 | 2022-09-26 | 39 | 4 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 37 | 3 | 
 | 2022-09-08 | 37 | 3 | 
 | 2022-09-07 | 37 | 3 | 
-| 2022-09-06 | 37 | 3 | 
-| 2022-09-05 | 37 | 3 | 
-| 2022-09-04 | 37 | 3 | 
-| 2022-09-03 | 37 | 3 | 
-| 2022-09-02 | 37 | 3 | 
-| 2022-09-01 | 37 | 3 | 
-| 2022-08-31 | 37 | 3 | 
-| 2022-08-30 | 34 | 3 | 
-| 2022-08-29 | 33 | 3 | 
 
 
 [Detailed charts & statistics for regzo2/OSCmooth](https://reviewgithub.com/rep/regzo2/OSCmooth)

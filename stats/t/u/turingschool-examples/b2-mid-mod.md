@@ -1,12 +1,12 @@
-# turingschool-examples/b2-mid-mod / stars & forks statistics
-
-[Open repository/turingschool-examples/b2-mid-mod](https://github.com/turingschool-examples/b2-mid-mod)
+# turingschool-examples/b2-mid-mod - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 1
+
+[Open repository](https://github.com/turingschool-examples/b2-mid-mod)
 
 ## Historical data
 | Date | Stars | Forks |

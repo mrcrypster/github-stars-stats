@@ -1,12 +1,12 @@
-# jtigger/Groovy-DevNotebook / stars & forks statistics
-
-[Open repository/jtigger/Groovy-DevNotebook](https://github.com/jtigger/Groovy-DevNotebook)
+# jtigger/Groovy-DevNotebook - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/jtigger/Groovy-DevNotebook)
 
 ## Historical data
 | Date | Stars | Forks |

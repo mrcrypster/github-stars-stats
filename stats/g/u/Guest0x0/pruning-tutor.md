@@ -1,12 +1,12 @@
-# Guest0x0/pruning-tutor / stars & forks statistics
-
-[Open repository/Guest0x0/pruning-tutor](https://github.com/Guest0x0/pruning-tutor)
+# Guest0x0/pruning-tutor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 11
+
+[Open repository](https://github.com/Guest0x0/pruning-tutor)
 
 ## Historical data
 | Date | Stars | Forks |

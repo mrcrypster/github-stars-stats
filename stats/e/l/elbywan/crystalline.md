@@ -1,12 +1,12 @@
-# elbywan/crystalline / stars & forks statistics
-
-[Open repository/elbywan/crystalline](https://github.com/elbywan/crystalline)
+# elbywan/crystalline - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 277
+
+[Open repository](https://github.com/elbywan/crystalline)
 
 ## Historical data
 | Date | Stars | Forks |

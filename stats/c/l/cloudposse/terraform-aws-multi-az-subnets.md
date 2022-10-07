@@ -1,16 +1,24 @@
-# cloudposse/terraform-aws-multi-az-subnets / stars & forks statistics
-
-[Open repository/cloudposse/terraform-aws-multi-az-subnets](https://github.com/cloudposse/terraform-aws-multi-az-subnets)
+# cloudposse/terraform-aws-multi-az-subnets - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 87
+★ Stars: 86
+
+[Open repository](https://github.com/cloudposse/terraform-aws-multi-az-subnets)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 86 | 68 | 
+| 2022-10-05 | 87 | 68 | 
+| 2022-10-04 | 87 | 68 | 
+| 2022-10-03 | 87 | 68 | 
+| 2022-10-02 | 87 | 68 | 
+| 2022-10-01 | 87 | 67 | 
+| 2022-09-30 | 87 | 67 | 
+| 2022-09-29 | 87 | 67 | 
 | 2022-09-28 | 87 | 67 | 
 | 2022-09-27 | 87 | 67 | 
 | 2022-09-26 | 87 | 67 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 86 | 67 | 
 | 2022-09-08 | 86 | 67 | 
 | 2022-09-07 | 86 | 67 | 
-| 2022-09-06 | 87 | 67 | 
-| 2022-09-05 | 86 | 67 | 
-| 2022-09-04 | 86 | 67 | 
-| 2022-09-03 | 86 | 67 | 
-| 2022-09-02 | 86 | 67 | 
-| 2022-09-01 | 86 | 67 | 
-| 2022-08-31 | 86 | 67 | 
-| 2022-08-30 | 86 | 67 | 
 
 
 [Detailed charts & statistics for cloudposse/terraform-aws-multi-az-subnets](https://reviewgithub.com/rep/cloudposse/terraform-aws-multi-az-subnets)

@@ -1,12 +1,12 @@
-# cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms / stars & forks statistics
-
-[Open repository/cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms](https://github.com/cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms)
+# cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 28
+
+[Open repository](https://github.com/cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms)
 
 ## Historical data
 | Date | Stars | Forks |

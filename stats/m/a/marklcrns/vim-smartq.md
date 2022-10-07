@@ -1,12 +1,12 @@
-# marklcrns/vim-smartq / stars & forks statistics
-
-[Open repository/marklcrns/vim-smartq](https://github.com/marklcrns/vim-smartq)
+# marklcrns/vim-smartq - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 38
+
+[Open repository](https://github.com/marklcrns/vim-smartq)
 
 ## Historical data
 | Date | Stars | Forks |

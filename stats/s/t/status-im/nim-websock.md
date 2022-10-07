@@ -1,12 +1,12 @@
-# status-im/nim-websock / stars & forks statistics
-
-[Open repository/status-im/nim-websock](https://github.com/status-im/nim-websock)
+# status-im/nim-websock - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 52
+
+[Open repository](https://github.com/status-im/nim-websock)
 
 ## Historical data
 | Date | Stars | Forks |

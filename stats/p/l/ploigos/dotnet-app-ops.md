@@ -1,12 +1,12 @@
-# ploigos/dotnet-app-ops / stars & forks statistics
-
-[Open repository/ploigos/dotnet-app-ops](https://github.com/ploigos/dotnet-app-ops)
+# ploigos/dotnet-app-ops - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ploigos/dotnet-app-ops)
 
 ## Historical data
 | Date | Stars | Forks |

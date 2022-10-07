@@ -1,12 +1,12 @@
-# Uko/metamodels-support-files / stars & forks statistics
-
-[Open repository/Uko/metamodels-support-files](https://github.com/Uko/metamodels-support-files)
+# Uko/metamodels-support-files - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Uko/metamodels-support-files)
 
 ## Historical data
 | Date | Stars | Forks |

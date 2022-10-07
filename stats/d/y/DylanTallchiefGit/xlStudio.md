@@ -1,16 +1,30 @@
-# DylanTallchiefGit/xlStudio / stars & forks statistics
-
-[Open repository/DylanTallchiefGit/xlStudio](https://github.com/DylanTallchiefGit/xlStudio)
+# DylanTallchiefGit/xlStudio - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 14
+☋ Forks: 13
 
-★ Stars: 216
+★ Stars: 217
+
+[Open repository](https://github.com/DylanTallchiefGit/xlStudio)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 217 | 13 | 
+| 2022-10-06 | 217 | 13 | 
+| 2022-10-05 | 217 | 13 | 
+| 2022-10-04 | 217 | 13 | 
+| 2022-10-03 | 217 | 13 | 
+| 2022-10-02 | 217 | 13 | 
+| 2022-10-01 | 217 | 13 | 
+| 2022-09-30 | 217 | 14 | 
+| 2022-09-29 | 217 | 14 | 
+| 2022-09-28 | 217 | 14 | 
+| 2022-09-27 | 217 | 14 | 
+| 2022-09-26 | 217 | 14 | 
+| 2022-09-25 | 216 | 14 | 
+| 2022-09-24 | 216 | 14 | 
 | 2022-09-23 | 216 | 14 | 
 | 2022-09-22 | 215 | 14 | 
 | 2022-09-21 | 215 | 14 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 212 | 14 | 
 | 2022-09-08 | 212 | 14 | 
 | 2022-09-07 | 212 | 14 | 
-| 2022-09-06 | 212 | 14 | 
-| 2022-09-05 | 211 | 14 | 
-| 2022-09-04 | 210 | 14 | 
-| 2022-09-03 | 210 | 14 | 
-| 2022-09-02 | 210 | 14 | 
-| 2022-09-01 | 208 | 14 | 
-| 2022-08-31 | 208 | 14 | 
-| 2022-08-30 | 208 | 14 | 
-| 2022-08-29 | 208 | 14 | 
-| 2022-08-28 | 208 | 14 | 
-| 2022-08-27 | 208 | 14 | 
-| 2022-08-26 | 208 | 14 | 
-| 2022-08-25 | 207 | 14 | 
-| 2022-08-24 | 207 | 14 | 
 
 
 [Detailed charts & statistics for DylanTallchiefGit/xlStudio](https://reviewgithub.com/rep/DylanTallchiefGit/xlStudio)

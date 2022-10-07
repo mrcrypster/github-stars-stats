@@ -1,12 +1,12 @@
-# SphereII/7D2DModLauncher / stars & forks statistics
-
-[Open repository/SphereII/7D2DModLauncher](https://github.com/SphereII/7D2DModLauncher)
+# SphereII/7D2DModLauncher - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 15
+
+[Open repository](https://github.com/SphereII/7D2DModLauncher)
 
 ## Historical data
 | Date | Stars | Forks |

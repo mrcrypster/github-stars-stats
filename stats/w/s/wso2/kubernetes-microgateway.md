@@ -1,6 +1,4 @@
-# wso2/kubernetes-microgateway / stars & forks statistics
-
-[Open repository/wso2/kubernetes-microgateway](https://github.com/wso2/kubernetes-microgateway)
+# wso2/kubernetes-microgateway - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/wso2/kubernetes-microgateway)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 3 | 12 | 
 | 2022-10-05 | 3 | 12 | 
 | 2022-10-04 | 4 | 12 | 
 | 2022-10-03 | 4 | 12 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 12 | 
 | 2022-09-09 | 4 | 12 | 
 | 2022-09-08 | 4 | 12 | 
-| 2022-09-07 | 4 | 12 | 
-| 2022-09-06 | 4 | 12 | 
 
 
 [Detailed charts & statistics for wso2/kubernetes-microgateway](https://reviewgithub.com/rep/wso2/kubernetes-microgateway)

@@ -1,12 +1,12 @@
-# mir-hussain/debugging-project-3 / stars & forks statistics
-
-[Open repository/mir-hussain/debugging-project-3](https://github.com/mir-hussain/debugging-project-3)
+# mir-hussain/debugging-project-3 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
+
+[Open repository](https://github.com/mir-hussain/debugging-project-3)
 
 ## Historical data
 | Date | Stars | Forks |

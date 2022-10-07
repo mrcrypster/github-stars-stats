@@ -1,6 +1,4 @@
-# Zakrok09/RoTUer / stars & forks statistics
-
-[Open repository/Zakrok09/RoTUer](https://github.com/Zakrok09/RoTUer)
+# Zakrok09/RoTUer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 9
 
+[Open repository](https://github.com/Zakrok09/RoTUer)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 9 | 1 | 
+| 2022-10-05 | 9 | 1 | 
+| 2022-10-04 | 9 | 1 | 
+| 2022-10-03 | 9 | 1 | 
+| 2022-10-02 | 9 | 1 | 
+| 2022-10-01 | 9 | 1 | 
 | 2022-09-30 | 9 | 1 | 
 | 2022-09-29 | 9 | 1 | 
 | 2022-09-28 | 9 | 1 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 9 | 1 | 
 | 2022-09-09 | 9 | 1 | 
 | 2022-09-08 | 9 | 1 | 
-| 2022-09-07 | 9 | 1 | 
-| 2022-09-06 | 9 | 1 | 
-| 2022-09-05 | 9 | - | 
-| 2022-09-04 | 9 | - | 
-| 2022-09-03 | 9 | - | 
-| 2022-09-02 | 8 | - | 
-| 2022-09-01 | 8 | - | 
 
 
 [Detailed charts & statistics for Zakrok09/RoTUer](https://reviewgithub.com/rep/Zakrok09/RoTUer)

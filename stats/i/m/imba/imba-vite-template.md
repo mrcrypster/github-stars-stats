@@ -1,12 +1,12 @@
-# imba/imba-vite-template / stars & forks statistics
-
-[Open repository/imba/imba-vite-template](https://github.com/imba/imba-vite-template)
+# imba/imba-vite-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 36
+
+[Open repository](https://github.com/imba/imba-vite-template)
 
 ## Historical data
 | Date | Stars | Forks |

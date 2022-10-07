@@ -1,12 +1,12 @@
-# paulwoods/groovychallenges / stars & forks statistics
-
-[Open repository/paulwoods/groovychallenges](https://github.com/paulwoods/groovychallenges)
+# paulwoods/groovychallenges - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/paulwoods/groovychallenges)
 
 ## Historical data
 | Date | Stars | Forks |

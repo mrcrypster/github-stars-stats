@@ -1,12 +1,12 @@
-# DaoChen6/Heroku-v2ray / stars & forks statistics
-
-[Open repository/DaoChen6/Heroku-v2ray](https://github.com/DaoChen6/Heroku-v2ray)
+# DaoChen6/Heroku-v2ray - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/DaoChen6/Heroku-v2ray)
 
 ## Historical data
 | Date | Stars | Forks |

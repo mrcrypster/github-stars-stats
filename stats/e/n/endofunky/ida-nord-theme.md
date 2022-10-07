@@ -1,6 +1,4 @@
-# endofunky/ida-nord-theme / stars & forks statistics
-
-[Open repository/endofunky/ida-nord-theme](https://github.com/endofunky/ida-nord-theme)
+# endofunky/ida-nord-theme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,28 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 73
 
+[Open repository](https://github.com/endofunky/ida-nord-theme)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 73 | 3 | 
+| 2022-10-06 | 73 | 3 | 
+| 2022-10-05 | 73 | 3 | 
+| 2022-10-04 | 73 | 3 | 
+| 2022-10-03 | 73 | 3 | 
+| 2022-10-02 | 73 | 3 | 
+| 2022-10-01 | 73 | 3 | 
+| 2022-09-30 | 73 | 3 | 
+| 2022-09-29 | 73 | 3 | 
+| 2022-09-28 | 73 | 3 | 
+| 2022-09-27 | 73 | 3 | 
+| 2022-09-26 | 73 | 3 | 
+| 2022-09-25 | 73 | 3 | 
+| 2022-09-24 | 73 | 3 | 
+| 2022-09-23 | 73 | 3 | 
+| 2022-09-22 | 73 | 3 | 
+| 2022-09-21 | 73 | 3 | 
 | 2022-09-20 | 73 | 3 | 
 | 2022-09-19 | 73 | 3 | 
 | 2022-09-18 | 73 | 3 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 73 | 3 | 
 | 2022-09-08 | 73 | 3 | 
 | 2022-09-07 | 73 | 3 | 
-| 2022-09-06 | 72 | 3 | 
-| 2022-09-05 | 72 | 3 | 
-| 2022-09-04 | 72 | 3 | 
-| 2022-09-03 | 72 | 3 | 
-| 2022-09-02 | 70 | 3 | 
-| 2022-09-01 | 70 | 3 | 
-| 2022-08-31 | 70 | 3 | 
-| 2022-08-30 | 70 | 3 | 
-| 2022-08-29 | 69 | 3 | 
-| 2022-08-28 | 69 | 3 | 
-| 2022-08-27 | 64 | 3 | 
-| 2022-08-26 | 61 | 3 | 
-| 2022-08-25 | 59 | 3 | 
-| 2022-08-24 | 58 | 2 | 
-| 2022-08-23 | 59 | 2 | 
-| 2022-08-22 | 57 | 2 | 
-| 2022-08-21 | 55 | 1 | 
 
 
 [Detailed charts & statistics for endofunky/ida-nord-theme](https://reviewgithub.com/rep/endofunky/ida-nord-theme)

@@ -1,12 +1,12 @@
-# mov-rax/zig-validate / stars & forks statistics
-
-[Open repository/mov-rax/zig-validate](https://github.com/mov-rax/zig-validate)
+# mov-rax/zig-validate - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 26
+
+[Open repository](https://github.com/mov-rax/zig-validate)
 
 ## Historical data
 | Date | Stars | Forks |

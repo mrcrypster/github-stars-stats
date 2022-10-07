@@ -1,12 +1,12 @@
-# akhil-aggarwal/cookie / stars & forks statistics
-
-[Open repository/akhil-aggarwal/cookie](https://github.com/akhil-aggarwal/cookie)
+# akhil-aggarwal/cookie - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 12
+
+[Open repository](https://github.com/akhil-aggarwal/cookie)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# XREAL-3rd/DevQuest / stars & forks statistics
-
-[Open repository/XREAL-3rd/DevQuest](https://github.com/XREAL-3rd/DevQuest)
+# XREAL-3rd/DevQuest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 0
+
+[Open repository](https://github.com/XREAL-3rd/DevQuest)
 
 ## Historical data
 | Date | Stars | Forks |

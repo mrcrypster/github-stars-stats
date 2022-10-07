@@ -1,16 +1,20 @@
-# mustfaibra/RoFFu / stars & forks statistics
-
-[Open repository/mustfaibra/RoFFu](https://github.com/mustfaibra/RoFFu)
+# mustfaibra/RoFFu - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
-★ Stars: 94
+★ Stars: 96
+
+[Open repository](https://github.com/mustfaibra/RoFFu)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 96 | 13 | 
+| 2022-10-05 | 95 | 13 | 
+| 2022-10-04 | 94 | 13 | 
+| 2022-10-03 | 94 | 13 | 
 | 2022-10-02 | 94 | 13 | 
 | 2022-10-01 | 93 | 13 | 
 | 2022-09-30 | 93 | 13 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 81 | 10 | 
 | 2022-09-09 | 79 | 10 | 
 | 2022-09-08 | 75 | 9 | 
-| 2022-09-07 | 74 | 9 | 
-| 2022-09-06 | 74 | 9 | 
-| 2022-09-05 | 69 | 8 | 
-| 2022-09-04 | 65 | 8 | 
-| 2022-09-03 | 52 | 6 | 
 
 
 [Detailed charts & statistics for mustfaibra/RoFFu](https://reviewgithub.com/rep/mustfaibra/RoFFu)

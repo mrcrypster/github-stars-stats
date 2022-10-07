@@ -1,6 +1,4 @@
-# stineje/dldfall2022 / stars & forks statistics
-
-[Open repository/stineje/dldfall2022](https://github.com/stineje/dldfall2022)
+# stineje/dldfall2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 6
 
+[Open repository](https://github.com/stineje/dldfall2022)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 6 | 
+| 2022-10-05 | 6 | 6 | 
+| 2022-10-04 | 6 | 6 | 
+| 2022-10-03 | 6 | 6 | 
 | 2022-10-02 | 6 | 6 | 
 | 2022-10-01 | 6 | 6 | 
 | 2022-09-30 | 6 | 6 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 6 | 
 | 2022-09-09 | 6 | 6 | 
 | 2022-09-08 | 6 | 5 | 
-| 2022-09-07 | 6 | 5 | 
-| 2022-09-06 | 6 | 5 | 
-| 2022-09-05 | 6 | 5 | 
-| 2022-09-04 | 6 | 5 | 
-| 2022-09-03 | 6 | 5 | 
 
 
 [Detailed charts & statistics for stineje/dldfall2022](https://reviewgithub.com/rep/stineje/dldfall2022)

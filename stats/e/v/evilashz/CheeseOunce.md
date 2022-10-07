@@ -1,12 +1,12 @@
-# evilashz/CheeseOunce / stars & forks statistics
-
-[Open repository/evilashz/CheeseOunce](https://github.com/evilashz/CheeseOunce)
+# evilashz/CheeseOunce - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 112
+
+[Open repository](https://github.com/evilashz/CheeseOunce)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# OpenPLi-meta/meta-miraclebox / stars & forks statistics
-
-[Open repository/OpenPLi-meta/meta-miraclebox](https://github.com/OpenPLi-meta/meta-miraclebox)
+# OpenPLi-meta/meta-miraclebox - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/OpenPLi-meta/meta-miraclebox)
 
 ## Historical data
 | Date | Stars | Forks |

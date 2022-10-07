@@ -1,16 +1,18 @@
-# hamsternz/MMCM_GPSDO / stars & forks statistics
-
-[Open repository/hamsternz/MMCM_GPSDO](https://github.com/hamsternz/MMCM_GPSDO)
+# hamsternz/MMCM_GPSDO - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
+
+[Open repository](https://github.com/hamsternz/MMCM_GPSDO)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 24 | 1 | 
+| 2022-10-05 | 24 | 1 | 
 | 2022-10-04 | 23 | 1 | 
 | 2022-10-03 | 23 | 1 | 
 | 2022-10-02 | 23 | 1 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 21 | - | 
 | 2022-09-09 | 21 | - | 
 | 2022-09-08 | 20 | - | 
-| 2022-09-07 | 20 | - | 
-| 2022-09-06 | 20 | - | 
-| 2022-09-05 | 20 | - | 
 
 
 [Detailed charts & statistics for hamsternz/MMCM_GPSDO](https://reviewgithub.com/rep/hamsternz/MMCM_GPSDO)

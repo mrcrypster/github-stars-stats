@@ -1,6 +1,4 @@
-# trevorjay/Bondis-Heaps-of-Air / stars & forks statistics
-
-[Open repository/trevorjay/Bondis-Heaps-of-Air](https://github.com/trevorjay/Bondis-Heaps-of-Air)
+# trevorjay/Bondis-Heaps-of-Air - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,28 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 10
 
+[Open repository](https://github.com/trevorjay/Bondis-Heaps-of-Air)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 10 | 1 | 
+| 2022-10-06 | 10 | 1 | 
+| 2022-10-05 | 10 | 1 | 
+| 2022-10-04 | 10 | 1 | 
+| 2022-10-03 | 10 | 1 | 
+| 2022-10-02 | 10 | 1 | 
+| 2022-10-01 | 10 | 1 | 
+| 2022-09-30 | 10 | 1 | 
+| 2022-09-29 | 10 | 1 | 
+| 2022-09-28 | 10 | 1 | 
+| 2022-09-27 | 10 | 1 | 
+| 2022-09-26 | 10 | 1 | 
+| 2022-09-25 | 10 | 1 | 
+| 2022-09-24 | 10 | 1 | 
+| 2022-09-23 | 10 | 1 | 
+| 2022-09-22 | 10 | 1 | 
+| 2022-09-20 | 10 | 1 | 
 | 2022-09-19 | 10 | 1 | 
 | 2022-09-18 | 10 | 1 | 
 | 2022-09-17 | 10 | 1 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 10 | 1 | 
 | 2022-09-08 | 10 | 1 | 
 | 2022-09-07 | 10 | 1 | 
-| 2022-09-06 | 10 | 1 | 
-| 2022-09-05 | 10 | 1 | 
-| 2022-09-04 | 10 | 1 | 
-| 2022-09-03 | 10 | 1 | 
-| 2022-09-02 | 10 | 1 | 
-| 2022-09-01 | 10 | 1 | 
-| 2022-08-31 | 10 | 1 | 
-| 2022-08-30 | 10 | 1 | 
-| 2022-08-29 | 10 | 1 | 
-| 2022-08-28 | 10 | 1 | 
-| 2022-08-27 | 10 | 1 | 
-| 2022-08-26 | 10 | 1 | 
-| 2022-08-25 | 9 | 1 | 
-| 2022-08-24 | 9 | 1 | 
-| 2022-08-23 | 8 | 1 | 
-| 2022-08-22 | 7 | 1 | 
-| 2022-08-21 | 6 | 1 | 
 
 
 [Detailed charts & statistics for trevorjay/Bondis-Heaps-of-Air](https://reviewgithub.com/rep/trevorjay/Bondis-Heaps-of-Air)

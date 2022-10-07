@@ -1,12 +1,12 @@
-# nulpunkt/configs / stars & forks statistics
-
-[Open repository/nulpunkt/configs](https://github.com/nulpunkt/configs)
+# nulpunkt/configs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/nulpunkt/configs)
 
 ## Historical data
 | Date | Stars | Forks |

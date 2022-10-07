@@ -1,12 +1,12 @@
-# micronode/feedhabit / stars & forks statistics
-
-[Open repository/micronode/feedhabit](https://github.com/micronode/feedhabit)
+# micronode/feedhabit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/micronode/feedhabit)
 
 ## Historical data
 | Date | Stars | Forks |

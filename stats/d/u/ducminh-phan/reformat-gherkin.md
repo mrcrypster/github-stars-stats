@@ -1,6 +1,4 @@
-# ducminh-phan/reformat-gherkin / stars & forks statistics
-
-[Open repository/ducminh-phan/reformat-gherkin](https://github.com/ducminh-phan/reformat-gherkin)
+# ducminh-phan/reformat-gherkin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 16
 
+[Open repository](https://github.com/ducminh-phan/reformat-gherkin)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 16 | 13 | 
+| 2022-10-06 | 16 | 13 | 
+| 2022-10-05 | 16 | 13 | 
+| 2022-10-04 | 16 | 13 | 
+| 2022-10-03 | 16 | 13 | 
+| 2022-10-02 | 16 | 13 | 
+| 2022-10-01 | 16 | 13 | 
+| 2022-09-30 | 16 | 13 | 
+| 2022-09-29 | 16 | 13 | 
+| 2022-09-28 | 16 | 13 | 
+| 2022-09-27 | 16 | 13 | 
+| 2022-09-26 | 16 | 13 | 
+| 2022-09-25 | 16 | 13 | 
 | 2022-09-24 | 16 | 13 | 
 | 2022-09-23 | 16 | 13 | 
 | 2022-09-22 | 16 | 13 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 16 | 13 | 
 | 2022-09-08 | 16 | 13 | 
 | 2022-09-07 | 16 | 13 | 
-| 2022-09-06 | 16 | 13 | 
-| 2022-09-05 | 16 | 13 | 
-| 2022-09-04 | 16 | 13 | 
-| 2022-09-03 | 16 | 13 | 
-| 2022-09-02 | 16 | 13 | 
-| 2022-09-01 | 16 | 13 | 
-| 2022-08-31 | 16 | 13 | 
-| 2022-08-30 | 16 | 13 | 
-| 2022-08-29 | 16 | 13 | 
-| 2022-08-28 | 16 | 13 | 
-| 2022-08-27 | 16 | 13 | 
-| 2022-08-26 | 16 | 13 | 
-| 2022-08-25 | 16 | 13 | 
 
 
 [Detailed charts & statistics for ducminh-phan/reformat-gherkin](https://reviewgithub.com/rep/ducminh-phan/reformat-gherkin)

@@ -1,12 +1,12 @@
-# cnf-testsuite/kubectl_client / stars & forks statistics
-
-[Open repository/cnf-testsuite/kubectl_client](https://github.com/cnf-testsuite/kubectl_client)
+# cnf-testsuite/kubectl_client - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/cnf-testsuite/kubectl_client)
 
 ## Historical data
 | Date | Stars | Forks |

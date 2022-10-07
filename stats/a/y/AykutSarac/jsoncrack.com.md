@@ -1,16 +1,24 @@
-# AykutSarac/jsoncrack.com / stars & forks statistics
-
-[Open repository/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+# AykutSarac/jsoncrack.com - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 721
+☋ Forks: 772
 
-★ Stars: 15581
+★ Stars: 16280
+
+[Open repository](https://github.com/AykutSarac/jsoncrack.com)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 16280 | 772 | 
+| 2022-10-05 | 16217 | 767 | 
+| 2022-10-04 | 16149 | 766 | 
+| 2022-10-03 | 16056 | 761 | 
+| 2022-10-02 | 15984 | 754 | 
+| 2022-10-01 | 15913 | 749 | 
+| 2022-09-30 | 15841 | 743 | 
+| 2022-09-29 | 15728 | 733 | 
 | 2022-09-28 | 15581 | 721 | 
 | 2022-09-27 | 15374 | 711 | 
 | 2022-09-26 | 15198 | 706 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10344 | 455 | 
 | 2022-09-09 | 9854 | 431 | 
 | 2022-09-08 | 9075 | 383 | 
-| 2022-09-07 | 8879 | 370 | 
-| 2022-09-06 | 8717 | 365 | 
-| 2022-09-05 | 8477 | 357 | 
-| 2022-09-04 | 8255 | 351 | 
-| 2022-09-03 | 8005 | 339 | 
-| 2022-09-02 | 7805 | 333 | 
-| 2022-09-01 | 7772 | 334 | 
-| 2022-08-31 | 7508 | 325 | 
-| 2022-08-30 | 6640 | 292 | 
 
 
 [Detailed charts & statistics for AykutSarac/jsoncrack.com](https://reviewgithub.com/rep/AykutSarac/jsoncrack.com)

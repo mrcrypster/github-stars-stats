@@ -1,12 +1,12 @@
-# deepin-community/dose3 / stars & forks statistics
-
-[Open repository/deepin-community/dose3](https://github.com/deepin-community/dose3)
+# deepin-community/dose3 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/dose3)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,28 @@
-# zhanymkanov/fastapi-best-practices / stars & forks statistics
-
-[Open repository/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)
+# zhanymkanov/fastapi-best-practices - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 91
+☋ Forks: 95
 
-★ Stars: 1521
+★ Stars: 1614
+
+[Open repository](https://github.com/zhanymkanov/fastapi-best-practices)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1614 | 95 | 
+| 2022-10-05 | 1610 | 95 | 
+| 2022-10-04 | 1603 | 94 | 
+| 2022-10-03 | 1591 | 94 | 
+| 2022-10-02 | 1585 | 94 | 
+| 2022-10-01 | 1579 | 94 | 
+| 2022-09-30 | 1577 | 94 | 
+| 2022-09-29 | 1574 | 93 | 
+| 2022-09-28 | 1562 | 92 | 
+| 2022-09-27 | 1555 | 92 | 
+| 2022-09-26 | 1545 | 92 | 
+| 2022-09-25 | 1535 | 91 | 
 | 2022-09-24 | 1521 | 91 | 
 | 2022-09-23 | 1508 | 89 | 
 | 2022-09-22 | 1485 | 85 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1063 | 58 | 
 | 2022-09-08 | 966 | 55 | 
 | 2022-09-07 | 872 | 52 | 
-| 2022-09-06 | 626 | 26 | 
-| 2022-09-05 | 612 | 25 | 
-| 2022-09-04 | 599 | 25 | 
-| 2022-09-03 | 589 | 23 | 
-| 2022-09-02 | 585 | 23 | 
-| 2022-09-01 | 560 | 23 | 
-| 2022-08-31 | 472 | 16 | 
-| 2022-08-30 | 335 | 11 | 
-| 2022-08-29 | 265 | 7 | 
-| 2022-08-28 | 257 | 6 | 
-| 2022-08-27 | 247 | 6 | 
-| 2022-08-26 | 242 | 6 | 
 
 
 [Detailed charts & statistics for zhanymkanov/fastapi-best-practices](https://reviewgithub.com/rep/zhanymkanov/fastapi-best-practices)

@@ -1,12 +1,12 @@
-# muhammedAnjoom/netflix-clone / stars & forks statistics
-
-[Open repository/muhammedAnjoom/netflix-clone](https://github.com/muhammedAnjoom/netflix-clone)
+# muhammedAnjoom/netflix-clone - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 35
+
+[Open repository](https://github.com/muhammedAnjoom/netflix-clone)
 
 ## Historical data
 | Date | Stars | Forks |

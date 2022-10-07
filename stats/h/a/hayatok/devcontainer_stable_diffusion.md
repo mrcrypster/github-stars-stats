@@ -1,6 +1,4 @@
-# hayatok/devcontainer_stable_diffusion / stars & forks statistics
-
-[Open repository/hayatok/devcontainer_stable_diffusion](https://github.com/hayatok/devcontainer_stable_diffusion)
+# hayatok/devcontainer_stable_diffusion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 6
 
+[Open repository](https://github.com/hayatok/devcontainer_stable_diffusion)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6 | 3 | 
+| 2022-10-06 | 6 | 3 | 
+| 2022-10-05 | 6 | 3 | 
+| 2022-10-04 | 6 | 3 | 
+| 2022-10-03 | 6 | 3 | 
+| 2022-10-02 | 6 | 3 | 
+| 2022-10-01 | 6 | 3 | 
+| 2022-09-30 | 6 | 3 | 
+| 2022-09-29 | 6 | 3 | 
+| 2022-09-28 | 6 | 3 | 
+| 2022-09-27 | 6 | 3 | 
 | 2022-09-26 | 6 | 3 | 
 | 2022-09-25 | 6 | 3 | 
 | 2022-09-24 | 6 | 3 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 6 | 3 | 
 | 2022-09-08 | 6 | 3 | 
 | 2022-09-07 | 6 | 3 | 
-| 2022-09-06 | 6 | 3 | 
-| 2022-09-05 | 6 | 3 | 
-| 2022-09-04 | 6 | 3 | 
-| 2022-09-03 | 6 | 3 | 
-| 2022-09-02 | 6 | 3 | 
-| 2022-09-01 | 6 | 3 | 
-| 2022-08-31 | 5 | 3 | 
-| 2022-08-30 | 5 | 3 | 
-| 2022-08-29 | 5 | 3 | 
-| 2022-08-28 | 5 | 3 | 
-| 2022-08-27 | 5 | 3 | 
 
 
 [Detailed charts & statistics for hayatok/devcontainer_stable_diffusion](https://reviewgithub.com/rep/hayatok/devcontainer_stable_diffusion)

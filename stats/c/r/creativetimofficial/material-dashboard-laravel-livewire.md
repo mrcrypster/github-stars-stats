@@ -1,6 +1,4 @@
-# creativetimofficial/material-dashboard-laravel-livewire / stars & forks statistics
-
-[Open repository/creativetimofficial/material-dashboard-laravel-livewire](https://github.com/creativetimofficial/material-dashboard-laravel-livewire)
+# creativetimofficial/material-dashboard-laravel-livewire - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/creativetimofficial/material-dashboard-laravel-livewire)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | 15 | 
+| 2022-10-05 | 2 | 15 | 
+| 2022-10-04 | 2 | 15 | 
+| 2022-10-03 | 2 | 15 | 
+| 2022-10-02 | 2 | 15 | 
+| 2022-10-01 | 2 | 15 | 
+| 2022-09-30 | 2 | 15 | 
 | 2022-09-29 | 2 | 15 | 
 | 2022-09-28 | 2 | 15 | 
 | 2022-09-27 | 2 | 15 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | 12 | 
 | 2022-09-09 | 2 | 12 | 
 | 2022-09-08 | 2 | 12 | 
-| 2022-09-07 | 2 | 12 | 
-| 2022-09-06 | 2 | 12 | 
-| 2022-09-05 | 2 | 11 | 
-| 2022-09-04 | 2 | 11 | 
-| 2022-09-03 | 2 | 11 | 
-| 2022-09-02 | 2 | 11 | 
-| 2022-09-01 | 2 | 11 | 
-| 2022-08-31 | 2 | 11 | 
 
 
 [Detailed charts & statistics for creativetimofficial/material-dashboard-laravel-livewire](https://reviewgithub.com/rep/creativetimofficial/material-dashboard-laravel-livewire)

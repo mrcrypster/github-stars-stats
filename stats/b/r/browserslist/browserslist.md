@@ -1,16 +1,28 @@
-# browserslist/browserslist / stars & forks statistics
-
-[Open repository/browserslist/browserslist](https://github.com/browserslist/browserslist)
+# browserslist/browserslist - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 656
+☋ Forks: 658
 
-★ Stars: 11176
+★ Stars: 11211
+
+[Open repository](https://github.com/browserslist/browserslist)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11211 | 658 | 
+| 2022-10-05 | 11209 | 658 | 
+| 2022-10-04 | 11207 | 658 | 
+| 2022-10-03 | 11206 | 658 | 
+| 2022-10-02 | 11201 | 658 | 
+| 2022-10-01 | 11199 | 658 | 
+| 2022-09-30 | 11196 | 658 | 
+| 2022-09-29 | 11191 | 659 | 
+| 2022-09-28 | 11187 | 658 | 
+| 2022-09-27 | 11180 | 658 | 
+| 2022-09-26 | 11178 | 656 | 
+| 2022-09-25 | 11178 | 656 | 
 | 2022-09-24 | 11176 | 656 | 
 | 2022-09-23 | 11175 | 656 | 
 | 2022-09-22 | 11168 | 656 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11097 | 651 | 
 | 2022-09-09 | 11093 | 652 | 
 | 2022-09-08 | 11092 | 652 | 
-| 2022-09-07 | 11091 | 652 | 
-| 2022-09-06 | 11083 | 650 | 
-| 2022-09-05 | 11082 | 650 | 
-| 2022-09-04 | 11076 | 650 | 
-| 2022-09-03 | 11074 | 650 | 
-| 2022-09-02 | 11072 | 650 | 
-| 2022-09-01 | 11069 | 649 | 
-| 2022-08-31 | 11064 | 649 | 
-| 2022-08-30 | 11062 | 649 | 
-| 2022-08-29 | 11049 | 648 | 
-| 2022-08-28 | 11045 | 648 | 
-| 2022-08-27 | 11043 | 648 | 
-| 2022-08-26 | 11041 | 648 | 
 
 
 [Detailed charts & statistics for browserslist/browserslist](https://reviewgithub.com/rep/browserslist/browserslist)

@@ -1,6 +1,4 @@
-# vinayrayapati/iiitb_rv32i / stars & forks statistics
-
-[Open repository/vinayrayapati/iiitb_rv32i](https://github.com/vinayrayapati/iiitb_rv32i)
+# vinayrayapati/iiitb_rv32i - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/vinayrayapati/iiitb_rv32i)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
+| 2022-10-01 | - | - | 
+| 2022-09-30 | - | - | 
 | 2022-09-29 | - | - | 
 | 2022-09-28 | - | - | 
 | 2022-09-27 | - | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 3 | 
 | 2022-09-09 | - | 3 | 
 | 2022-09-08 | - | 3 | 
-| 2022-09-07 | - | 3 | 
-| 2022-09-06 | - | 3 | 
-| 2022-09-05 | - | 3 | 
-| 2022-09-04 | - | 3 | 
-| 2022-09-03 | - | 3 | 
-| 2022-09-02 | - | 3 | 
-| 2022-09-01 | - | 3 | 
-| 2022-08-31 | - | 3 | 
 
 
 [Detailed charts & statistics for vinayrayapati/iiitb_rv32i](https://reviewgithub.com/rep/vinayrayapati/iiitb_rv32i)

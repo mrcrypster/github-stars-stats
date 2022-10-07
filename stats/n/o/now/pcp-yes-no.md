@@ -1,12 +1,12 @@
-# now/pcp-yes-no / stars & forks statistics
-
-[Open repository/now/pcp-yes-no](https://github.com/now/pcp-yes-no)
+# now/pcp-yes-no - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/now/pcp-yes-no)
 
 ## Historical data
 | Date | Stars | Forks |

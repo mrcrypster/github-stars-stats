@@ -1,12 +1,12 @@
-# piercefreeman/cloud-gpu-reliability / stars & forks statistics
-
-[Open repository/piercefreeman/cloud-gpu-reliability](https://github.com/piercefreeman/cloud-gpu-reliability)
+# piercefreeman/cloud-gpu-reliability - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 52
+
+[Open repository](https://github.com/piercefreeman/cloud-gpu-reliability)
 
 ## Historical data
 | Date | Stars | Forks |

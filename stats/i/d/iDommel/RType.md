@@ -1,12 +1,12 @@
-# iDommel/RType / stars & forks statistics
-
-[Open repository/iDommel/RType](https://github.com/iDommel/RType)
+# iDommel/RType - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/iDommel/RType)
 
 ## Historical data
 | Date | Stars | Forks |

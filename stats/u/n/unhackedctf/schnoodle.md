@@ -1,6 +1,4 @@
-# unhackedctf/schnoodle / stars & forks statistics
-
-[Open repository/unhackedctf/schnoodle](https://github.com/unhackedctf/schnoodle)
+# unhackedctf/schnoodle - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 19
 
+[Open repository](https://github.com/unhackedctf/schnoodle)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 19 | 10 | 
+| 2022-10-05 | 19 | 10 | 
+| 2022-10-04 | 19 | 10 | 
+| 2022-10-03 | 19 | 10 | 
+| 2022-10-02 | 19 | 10 | 
+| 2022-10-01 | 19 | 10 | 
+| 2022-09-30 | 19 | 10 | 
 | 2022-09-29 | 19 | 10 | 
 | 2022-09-28 | 19 | 10 | 
 | 2022-09-27 | 19 | 10 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 18 | 10 | 
 | 2022-09-09 | 16 | 10 | 
 | 2022-09-08 | 16 | 10 | 
-| 2022-09-07 | 16 | 10 | 
-| 2022-09-06 | 15 | 10 | 
-| 2022-09-05 | 15 | 10 | 
-| 2022-09-04 | 15 | 10 | 
-| 2022-09-03 | 15 | 9 | 
-| 2022-09-02 | 15 | 9 | 
-| 2022-09-01 | 15 | 8 | 
-| 2022-08-31 | 15 | 7 | 
 
 
 [Detailed charts & statistics for unhackedctf/schnoodle](https://reviewgithub.com/rep/unhackedctf/schnoodle)

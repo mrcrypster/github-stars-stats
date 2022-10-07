@@ -1,12 +1,12 @@
-# francois24/Capstone-project-laravel / stars & forks statistics
-
-[Open repository/francois24/Capstone-project-laravel](https://github.com/francois24/Capstone-project-laravel)
+# francois24/Capstone-project-laravel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/francois24/Capstone-project-laravel)
 
 ## Historical data
 | Date | Stars | Forks |

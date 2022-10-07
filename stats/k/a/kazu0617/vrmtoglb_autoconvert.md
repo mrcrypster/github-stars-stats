@@ -1,6 +1,4 @@
-# kazu0617/vrmtoglb_autoconvert / stars & forks statistics
-
-[Open repository/kazu0617/vrmtoglb_autoconvert](https://github.com/kazu0617/vrmtoglb_autoconvert)
+# kazu0617/vrmtoglb_autoconvert - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 18
 
+[Open repository](https://github.com/kazu0617/vrmtoglb_autoconvert)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 18 | 1 | 
+| 2022-10-05 | 18 | 1 | 
+| 2022-10-04 | 18 | 1 | 
+| 2022-10-03 | 18 | 1 | 
+| 2022-10-02 | 18 | 1 | 
+| 2022-10-01 | 18 | 1 | 
+| 2022-09-30 | 18 | 1 | 
+| 2022-09-29 | 18 | 1 | 
+| 2022-09-28 | 18 | 1 | 
+| 2022-09-27 | 18 | 1 | 
+| 2022-09-26 | 18 | 1 | 
+| 2022-09-25 | 18 | 1 | 
+| 2022-09-24 | 18 | 1 | 
+| 2022-09-23 | 18 | 1 | 
 | 2022-09-22 | 18 | 1 | 
 | 2022-09-21 | 18 | 1 | 
 | 2022-09-20 | 18 | 1 | 
@@ -26,21 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 17 | 1 | 
 | 2022-09-09 | 17 | 1 | 
 | 2022-09-08 | 17 | 1 | 
-| 2022-09-07 | 17 | 1 | 
-| 2022-09-06 | 17 | 1 | 
-| 2022-09-05 | 17 | 1 | 
-| 2022-09-04 | 17 | 1 | 
-| 2022-09-03 | 17 | 1 | 
-| 2022-09-02 | 17 | 1 | 
-| 2022-09-01 | 17 | 1 | 
-| 2022-08-31 | 16 | 1 | 
-| 2022-08-30 | 12 | 1 | 
-| 2022-08-29 | 12 | 1 | 
-| 2022-08-28 | 12 | 1 | 
-| 2022-08-27 | 12 | 1 | 
-| 2022-08-26 | 11 | 1 | 
-| 2022-08-25 | 9 | 1 | 
-| 2022-08-24 | 8 | 1 | 
 
 
 [Detailed charts & statistics for kazu0617/vrmtoglb_autoconvert](https://reviewgithub.com/rep/kazu0617/vrmtoglb_autoconvert)

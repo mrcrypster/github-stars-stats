@@ -1,12 +1,12 @@
-# djs55/ocaml-gpt / stars & forks statistics
-
-[Open repository/djs55/ocaml-gpt](https://github.com/djs55/ocaml-gpt)
+# djs55/ocaml-gpt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
+
+[Open repository](https://github.com/djs55/ocaml-gpt)
 
 ## Historical data
 | Date | Stars | Forks |

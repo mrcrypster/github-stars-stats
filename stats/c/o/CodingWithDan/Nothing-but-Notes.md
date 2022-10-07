@@ -1,12 +1,12 @@
-# CodingWithDan/Nothing-but-Notes / stars & forks statistics
-
-[Open repository/CodingWithDan/Nothing-but-Notes](https://github.com/CodingWithDan/Nothing-but-Notes)
+# CodingWithDan/Nothing-but-Notes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 3
+
+[Open repository](https://github.com/CodingWithDan/Nothing-but-Notes)
 
 ## Historical data
 | Date | Stars | Forks |

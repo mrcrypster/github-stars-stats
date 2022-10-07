@@ -1,6 +1,4 @@
-# stefan-hoeck/idris2-elab-util / stars & forks statistics
-
-[Open repository/stefan-hoeck/idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util)
+# stefan-hoeck/idris2-elab-util - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 68
 
+[Open repository](https://github.com/stefan-hoeck/idris2-elab-util)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 68 | 13 | 
+| 2022-10-05 | 68 | 13 | 
+| 2022-10-04 | 68 | 13 | 
+| 2022-10-03 | 68 | 13 | 
+| 2022-10-02 | 68 | 13 | 
+| 2022-10-01 | 68 | 13 | 
 | 2022-09-30 | 68 | 13 | 
 | 2022-09-29 | 68 | 13 | 
 | 2022-09-28 | 68 | 13 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 68 | 13 | 
 | 2022-09-09 | 68 | 13 | 
 | 2022-09-08 | 68 | 13 | 
-| 2022-09-07 | 68 | 13 | 
-| 2022-09-06 | 68 | 13 | 
-| 2022-09-05 | 68 | 13 | 
-| 2022-09-04 | 68 | 13 | 
-| 2022-09-03 | 68 | 13 | 
-| 2022-09-02 | 68 | 13 | 
-| 2022-09-01 | 67 | 13 | 
 
 
 [Detailed charts & statistics for stefan-hoeck/idris2-elab-util](https://reviewgithub.com/rep/stefan-hoeck/idris2-elab-util)

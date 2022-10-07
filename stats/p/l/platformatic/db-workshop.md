@@ -1,12 +1,12 @@
-# platformatic/db-workshop / stars & forks statistics
-
-[Open repository/platformatic/db-workshop](https://github.com/platformatic/db-workshop)
+# platformatic/db-workshop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/platformatic/db-workshop)
 
 ## Historical data
 | Date | Stars | Forks |

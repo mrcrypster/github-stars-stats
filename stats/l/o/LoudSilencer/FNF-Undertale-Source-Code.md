@@ -1,16 +1,35 @@
-# LoudSilencer/FNF-Undertale-Source-Code / stars & forks statistics
-
-[Open repository/LoudSilencer/FNF-Undertale-Source-Code](https://github.com/LoudSilencer/FNF-Undertale-Source-Code)
+# LoudSilencer/FNF-Undertale-Source-Code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 17
+☋ Forks: 15
 
 ★ Stars: 11
+
+[Open repository](https://github.com/LoudSilencer/FNF-Undertale-Source-Code)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11 | 15 | 
+| 2022-10-05 | 11 | 15 | 
+| 2022-10-04 | 11 | 15 | 
+| 2022-10-03 | 11 | 15 | 
+| 2022-10-02 | 11 | 16 | 
+| 2022-10-01 | 11 | 16 | 
+| 2022-09-30 | 11 | 16 | 
+| 2022-09-29 | 11 | 16 | 
+| 2022-09-28 | 11 | 16 | 
+| 2022-09-27 | 11 | 16 | 
+| 2022-09-26 | 11 | 16 | 
+| 2022-09-25 | 11 | 16 | 
+| 2022-09-24 | 11 | 16 | 
+| 2022-09-23 | 11 | 16 | 
+| 2022-09-22 | 11 | 16 | 
+| 2022-09-21 | 11 | 17 | 
+| 2022-09-20 | 11 | 17 | 
+| 2022-09-19 | 11 | 17 | 
+| 2022-09-18 | 11 | 17 | 
 | 2022-09-17 | 11 | 17 | 
 | 2022-09-16 | 11 | 17 | 
 | 2022-09-15 | 11 | 17 | 
@@ -21,26 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 16 | 
 | 2022-09-09 | 10 | 16 | 
 | 2022-09-08 | 10 | 16 | 
-| 2022-09-07 | 10 | 16 | 
-| 2022-09-06 | 10 | 16 | 
-| 2022-09-05 | 10 | 16 | 
-| 2022-09-04 | 10 | 16 | 
-| 2022-09-03 | 10 | 16 | 
-| 2022-09-02 | 10 | 15 | 
-| 2022-08-31 | 10 | 14 | 
-| 2022-08-30 | 10 | 14 | 
-| 2022-08-29 | 10 | 14 | 
-| 2022-08-28 | 10 | 14 | 
-| 2022-08-27 | 10 | 14 | 
-| 2022-08-26 | 10 | 14 | 
-| 2022-08-25 | 10 | 14 | 
-| 2022-08-24 | 10 | 14 | 
-| 2022-08-23 | 10 | 14 | 
-| 2022-08-22 | 10 | 14 | 
-| 2022-08-21 | 10 | 14 | 
-| 2022-08-20 | 10 | 14 | 
-| 2022-08-19 | 10 | 14 | 
-| 2022-08-18 | 10 | 14 | 
 
 
 [Detailed charts & statistics for LoudSilencer/FNF-Undertale-Source-Code](https://reviewgithub.com/rep/LoudSilencer/FNF-Undertale-Source-Code)

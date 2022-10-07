@@ -1,6 +1,4 @@
-# datadicts/Intro-to-R-2ed / stars & forks statistics
-
-[Open repository/datadicts/Intro-to-R-2ed](https://github.com/datadicts/Intro-to-R-2ed)
+# datadicts/Intro-to-R-2ed - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/datadicts/Intro-to-R-2ed)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 550 | 
+| 2022-10-06 | 3 | 550 | 
+| 2022-10-05 | 3 | 550 | 
+| 2022-10-04 | 3 | 550 | 
+| 2022-10-02 | 3 | 550 | 
+| 2022-10-01 | 3 | 550 | 
+| 2022-09-30 | 3 | 550 | 
+| 2022-09-29 | 3 | 550 | 
+| 2022-09-28 | 3 | 550 | 
+| 2022-09-27 | 3 | 550 | 
+| 2022-09-26 | 3 | 550 | 
+| 2022-09-25 | 3 | 550 | 
+| 2022-09-24 | 3 | 550 | 
 | 2022-09-23 | 3 | 550 | 
 | 2022-09-22 | 3 | 550 | 
 | 2022-09-21 | 3 | 550 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3 | 550 | 
 | 2022-09-08 | 3 | 550 | 
 | 2022-09-07 | 3 | 550 | 
-| 2022-09-06 | 3 | 549 | 
-| 2022-09-05 | 3 | 549 | 
-| 2022-09-04 | 3 | 549 | 
-| 2022-09-03 | 3 | 549 | 
-| 2022-09-02 | 3 | 548 | 
-| 2022-09-01 | 3 | 548 | 
-| 2022-08-31 | 3 | 547 | 
-| 2022-08-30 | 3 | 547 | 
-| 2022-08-29 | 3 | 545 | 
-| 2022-08-28 | 3 | 540 | 
-| 2022-08-27 | 3 | 540 | 
-| 2022-08-26 | 3 | 536 | 
-| 2022-08-25 | 3 | 535 | 
 
 
 [Detailed charts & statistics for datadicts/Intro-to-R-2ed](https://reviewgithub.com/rep/datadicts/Intro-to-R-2ed)

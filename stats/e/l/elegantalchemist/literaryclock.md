@@ -1,12 +1,12 @@
-# elegantalchemist/literaryclock / stars & forks statistics
-
-[Open repository/elegantalchemist/literaryclock](https://github.com/elegantalchemist/literaryclock)
+# elegantalchemist/literaryclock - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 30
+
+[Open repository](https://github.com/elegantalchemist/literaryclock)
 
 ## Historical data
 | Date | Stars | Forks |

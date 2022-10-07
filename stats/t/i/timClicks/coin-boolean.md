@@ -1,6 +1,4 @@
-# timClicks/coin-boolean / stars & forks statistics
-
-[Open repository/timClicks/coin-boolean](https://github.com/timClicks/coin-boolean)
+# timClicks/coin-boolean - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 49
 
+[Open repository](https://github.com/timClicks/coin-boolean)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 49 | - | 
+| 2022-10-05 | 49 | - | 
+| 2022-10-04 | 49 | - | 
+| 2022-10-03 | 49 | - | 
+| 2022-10-02 | 49 | - | 
+| 2022-10-01 | 49 | - | 
+| 2022-09-30 | 49 | - | 
+| 2022-09-29 | 49 | - | 
+| 2022-09-28 | 49 | - | 
+| 2022-09-27 | 49 | - | 
+| 2022-09-26 | 49 | - | 
+| 2022-09-25 | 49 | - | 
+| 2022-09-24 | 49 | - | 
+| 2022-09-23 | 49 | - | 
+| 2022-09-22 | 49 | - | 
 | 2022-09-21 | 49 | - | 
 | 2022-09-20 | 49 | - | 
 | 2022-09-19 | 49 | - | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 49 | - | 
 | 2022-09-09 | 49 | - | 
 | 2022-09-08 | 49 | - | 
-| 2022-09-07 | 49 | - | 
-| 2022-09-06 | 49 | - | 
-| 2022-09-05 | 49 | - | 
-| 2022-09-04 | 49 | - | 
-| 2022-09-03 | 49 | - | 
-| 2022-09-02 | 48 | - | 
-| 2022-08-31 | 47 | - | 
-| 2022-08-30 | 47 | - | 
-| 2022-08-29 | 47 | - | 
-| 2022-08-28 | 47 | - | 
-| 2022-08-27 | 47 | - | 
-| 2022-08-26 | 47 | - | 
-| 2022-08-25 | 47 | - | 
-| 2022-08-24 | 47 | - | 
-| 2022-08-23 | 44 | - | 
-| 2022-08-22 | 40 | - | 
 
 
 [Detailed charts & statistics for timClicks/coin-boolean](https://reviewgithub.com/rep/timClicks/coin-boolean)

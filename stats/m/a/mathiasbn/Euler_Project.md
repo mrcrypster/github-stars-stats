@@ -1,12 +1,12 @@
-# mathiasbn/Euler_Project / stars & forks statistics
-
-[Open repository/mathiasbn/Euler_Project](https://github.com/mathiasbn/Euler_Project)
+# mathiasbn/Euler_Project - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mathiasbn/Euler_Project)
 
 ## Historical data
 | Date | Stars | Forks |

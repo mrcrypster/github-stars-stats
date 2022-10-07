@@ -1,12 +1,12 @@
-# woodybrood/FitnesseSeleniumTests / stars & forks statistics
-
-[Open repository/woodybrood/FitnesseSeleniumTests](https://github.com/woodybrood/FitnesseSeleniumTests)
+# woodybrood/FitnesseSeleniumTests - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/woodybrood/FitnesseSeleniumTests)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,23 @@
-# The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool / stars & forks statistics
-
-[Open repository/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
+# The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 113
+☋ Forks: 114
 
-★ Stars: 419
+★ Stars: 421
+
+[Open repository](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 421 | 114 | 
+| 2022-10-05 | 421 | 113 | 
+| 2022-10-04 | 421 | 113 | 
+| 2022-10-03 | 420 | 113 | 
+| 2022-10-02 | 419 | 113 | 
+| 2022-10-01 | 419 | 113 | 
+| 2022-09-30 | 419 | 113 | 
 | 2022-09-29 | 419 | 113 | 
 | 2022-09-28 | 419 | 113 | 
 | 2022-09-27 | 419 | 111 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 416 | 110 | 
 | 2022-09-09 | 412 | 110 | 
 | 2022-09-08 | 412 | 110 | 
-| 2022-09-07 | 411 | 110 | 
-| 2022-09-06 | 410 | 110 | 
-| 2022-09-05 | 409 | 110 | 
-| 2022-09-04 | 408 | 110 | 
-| 2022-09-03 | 406 | 110 | 
-| 2022-09-02 | 405 | 110 | 
-| 2022-09-01 | 404 | 110 | 
-| 2022-08-31 | 404 | 110 | 
 
 
 [Detailed charts & statistics for The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://reviewgithub.com/rep/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool)

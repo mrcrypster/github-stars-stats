@@ -1,16 +1,21 @@
-# TheOdinProject/ruby_testing / stars & forks statistics
-
-[Open repository/TheOdinProject/ruby_testing](https://github.com/TheOdinProject/ruby_testing)
+# TheOdinProject/ruby_testing - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 107
+☋ Forks: 106
 
 ★ Stars: 15
+
+[Open repository](https://github.com/TheOdinProject/ruby_testing)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 15 | 106 | 
+| 2022-10-05 | 15 | 106 | 
+| 2022-10-04 | 15 | 106 | 
+| 2022-10-03 | 15 | 107 | 
+| 2022-10-02 | 15 | 107 | 
 | 2022-10-01 | 15 | 107 | 
 | 2022-09-30 | 16 | 106 | 
 | 2022-09-29 | 16 | 106 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 16 | 99 | 
 | 2022-09-09 | 16 | 99 | 
 | 2022-09-08 | 16 | 98 | 
-| 2022-09-07 | 16 | 97 | 
-| 2022-09-06 | 16 | 97 | 
-| 2022-09-05 | 16 | 97 | 
-| 2022-09-04 | 16 | 97 | 
-| 2022-09-03 | 16 | 97 | 
-| 2022-09-02 | 16 | 97 | 
 
 
 [Detailed charts & statistics for TheOdinProject/ruby_testing](https://reviewgithub.com/rep/TheOdinProject/ruby_testing)

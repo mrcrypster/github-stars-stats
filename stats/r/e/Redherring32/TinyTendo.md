@@ -1,12 +1,12 @@
-# Redherring32/TinyTendo / stars & forks statistics
-
-[Open repository/Redherring32/TinyTendo](https://github.com/Redherring32/TinyTendo)
+# Redherring32/TinyTendo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 39
+
+[Open repository](https://github.com/Redherring32/TinyTendo)
 
 ## Historical data
 | Date | Stars | Forks |

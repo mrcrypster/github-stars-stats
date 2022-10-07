@@ -1,12 +1,12 @@
-# anmonteiro/piaf / stars & forks statistics
-
-[Open repository/anmonteiro/piaf](https://github.com/anmonteiro/piaf)
+# anmonteiro/piaf - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 137
+
+[Open repository](https://github.com/anmonteiro/piaf)
 
 ## Historical data
 | Date | Stars | Forks |

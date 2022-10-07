@@ -1,12 +1,12 @@
-# durgesh2001/Hacktoberfest_2022 / stars & forks statistics
-
-[Open repository/durgesh2001/Hacktoberfest_2022](https://github.com/durgesh2001/Hacktoberfest_2022)
+# durgesh2001/Hacktoberfest_2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 58
 
 ★ Stars: 18
+
+[Open repository](https://github.com/durgesh2001/Hacktoberfest_2022)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# JCSDA-internal/soca / stars & forks statistics
-
-[Open repository/JCSDA-internal/soca](https://github.com/JCSDA-internal/soca)
+# JCSDA-internal/soca - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
+
+[Open repository](https://github.com/JCSDA-internal/soca)
 
 ## Historical data
 | Date | Stars | Forks |

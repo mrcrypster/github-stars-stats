@@ -1,12 +1,12 @@
-# maxpert/marmot / stars & forks statistics
-
-[Open repository/maxpert/marmot](https://github.com/maxpert/marmot)
+# maxpert/marmot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 444
+
+[Open repository](https://github.com/maxpert/marmot)
 
 ## Historical data
 | Date | Stars | Forks |

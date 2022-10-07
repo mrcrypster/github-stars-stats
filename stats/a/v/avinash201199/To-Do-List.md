@@ -1,12 +1,12 @@
-# avinash201199/To-Do-List / stars & forks statistics
-
-[Open repository/avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+# avinash201199/To-Do-List - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 97
 
 ★ Stars: 41
+
+[Open repository](https://github.com/avinash201199/To-Do-List)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# manakai/perl-json-ps / stars & forks statistics
-
-[Open repository/manakai/perl-json-ps](https://github.com/manakai/perl-json-ps)
+# manakai/perl-json-ps - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/manakai/perl-json-ps)
 
 ## Historical data
 | Date | Stars | Forks |

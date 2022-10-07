@@ -1,12 +1,12 @@
-# DARPA-ASKEM/model-transform / stars & forks statistics
-
-[Open repository/DARPA-ASKEM/model-transform](https://github.com/DARPA-ASKEM/model-transform)
+# DARPA-ASKEM/model-transform - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/DARPA-ASKEM/model-transform)
 
 ## Historical data
 | Date | Stars | Forks |

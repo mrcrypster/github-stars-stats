@@ -1,12 +1,12 @@
-# ivannotes/dotfiles / stars & forks statistics
-
-[Open repository/ivannotes/dotfiles](https://github.com/ivannotes/dotfiles)
+# ivannotes/dotfiles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/ivannotes/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |

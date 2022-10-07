@@ -1,6 +1,4 @@
-# anders88/clojureSweeperSolver / stars & forks statistics
-
-[Open repository/anders88/clojureSweeperSolver](https://github.com/anders88/clojureSweeperSolver)
+# anders88/clojureSweeperSolver - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/anders88/clojureSweeperSolver)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
 | 2022-10-02 | - | - | 
 | 2022-10-01 | - | - | 
 | 2022-09-30 | - | - | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
-| 2022-09-07 | - | - | 
-| 2022-09-06 | - | - | 
-| 2022-09-05 | - | - | 
-| 2022-09-04 | - | - | 
-| 2022-09-03 | - | - | 
 
 
 [Detailed charts & statistics for anders88/clojureSweeperSolver](https://reviewgithub.com/rep/anders88/clojureSweeperSolver)

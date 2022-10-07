@@ -1,12 +1,12 @@
-# abhijitmondal121/Hacktoberfest2022-profileCardGenerator / stars & forks statistics
-
-[Open repository/abhijitmondal121/Hacktoberfest2022-profileCardGenerator](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator)
+# abhijitmondal121/Hacktoberfest2022-profileCardGenerator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 28
+
+[Open repository](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator)
 
 ## Historical data
 | Date | Stars | Forks |

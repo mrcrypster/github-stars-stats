@@ -1,6 +1,4 @@
-# fredrequin/verilator_xilinx / stars & forks statistics
-
-[Open repository/fredrequin/verilator_xilinx](https://github.com/fredrequin/verilator_xilinx)
+# fredrequin/verilator_xilinx - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 10
 
+[Open repository](https://github.com/fredrequin/verilator_xilinx)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 10 | - | 
+| 2022-10-05 | 10 | - | 
+| 2022-10-04 | 10 | - | 
+| 2022-10-03 | 10 | - | 
+| 2022-10-02 | 10 | - | 
+| 2022-10-01 | 10 | - | 
 | 2022-09-30 | 10 | - | 
 | 2022-09-29 | 10 | - | 
 | 2022-09-28 | 10 | - | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | - | 
 | 2022-09-09 | 10 | - | 
 | 2022-09-08 | 9 | - | 
-| 2022-09-07 | 9 | - | 
-| 2022-09-06 | 9 | - | 
-| 2022-09-05 | 8 | - | 
-| 2022-09-04 | 8 | - | 
-| 2022-09-03 | 8 | - | 
-| 2022-09-02 | 8 | - | 
-| 2022-09-01 | 8 | - | 
 
 
 [Detailed charts & statistics for fredrequin/verilator_xilinx](https://reviewgithub.com/rep/fredrequin/verilator_xilinx)

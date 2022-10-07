@@ -1,12 +1,12 @@
-# yeungegs/holberton-system_engineering-devops / stars & forks statistics
-
-[Open repository/yeungegs/holberton-system_engineering-devops](https://github.com/yeungegs/holberton-system_engineering-devops)
+# yeungegs/holberton-system_engineering-devops - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 5
+
+[Open repository](https://github.com/yeungegs/holberton-system_engineering-devops)
 
 ## Historical data
 | Date | Stars | Forks |

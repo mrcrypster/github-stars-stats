@@ -1,6 +1,4 @@
-# Echo3ToEcho7/RallyRestAPI.js / stars & forks statistics
-
-[Open repository/Echo3ToEcho7/RallyRestAPI.js](https://github.com/Echo3ToEcho7/RallyRestAPI.js)
+# Echo3ToEcho7/RallyRestAPI.js - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/Echo3ToEcho7/RallyRestAPI.js)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
 | 2022-10-01 | - | - | 
 | 2022-09-30 | - | - | 
 | 2022-09-29 | - | - | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
-| 2022-09-07 | - | - | 
-| 2022-09-06 | - | - | 
-| 2022-09-05 | - | - | 
-| 2022-09-04 | - | - | 
-| 2022-09-03 | - | - | 
-| 2022-09-02 | - | - | 
 
 
 [Detailed charts & statistics for Echo3ToEcho7/RallyRestAPI.js](https://reviewgithub.com/rep/Echo3ToEcho7/RallyRestAPI.js)

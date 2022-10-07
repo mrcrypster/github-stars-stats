@@ -1,12 +1,12 @@
-# msurguy/arduino-wiichuck-laser / stars & forks statistics
-
-[Open repository/msurguy/arduino-wiichuck-laser](https://github.com/msurguy/arduino-wiichuck-laser)
+# msurguy/arduino-wiichuck-laser - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
+
+[Open repository](https://github.com/msurguy/arduino-wiichuck-laser)
 
 ## Historical data
 | Date | Stars | Forks |

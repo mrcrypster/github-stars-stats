@@ -1,12 +1,12 @@
-# pontem-network/overflowing-math / stars & forks statistics
-
-[Open repository/pontem-network/overflowing-math](https://github.com/pontem-network/overflowing-math)
+# pontem-network/overflowing-math - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/pontem-network/overflowing-math)
 
 ## Historical data
 | Date | Stars | Forks |

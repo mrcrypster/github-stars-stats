@@ -1,6 +1,4 @@
-# jasmin456mulyani/FreeRDP / stars & forks statistics
-
-[Open repository/jasmin456mulyani/FreeRDP](https://github.com/jasmin456mulyani/FreeRDP)
+# jasmin456mulyani/FreeRDP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/jasmin456mulyani/FreeRDP)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 60 | 
+| 2022-10-05 | 1 | 59 | 
 | 2022-10-04 | 1 | 60 | 
 | 2022-10-03 | 1 | 59 | 
 | 2022-10-02 | 1 | 59 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 51 | 
 | 2022-09-09 | - | 51 | 
 | 2022-09-08 | - | 51 | 
-| 2022-09-07 | - | 51 | 
-| 2022-09-06 | - | 50 | 
-| 2022-09-05 | - | 50 | 
 
 
 [Detailed charts & statistics for jasmin456mulyani/FreeRDP](https://reviewgithub.com/rep/jasmin456mulyani/FreeRDP)

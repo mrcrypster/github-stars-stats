@@ -1,12 +1,12 @@
-# sauterl/VBS22-AVS-Analysis / stars & forks statistics
-
-[Open repository/sauterl/VBS22-AVS-Analysis](https://github.com/sauterl/VBS22-AVS-Analysis)
+# sauterl/VBS22-AVS-Analysis - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/sauterl/VBS22-AVS-Analysis)
 
 ## Historical data
 | Date | Stars | Forks |

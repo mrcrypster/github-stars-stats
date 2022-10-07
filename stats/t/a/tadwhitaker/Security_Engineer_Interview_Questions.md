@@ -1,16 +1,31 @@
-# tadwhitaker/Security_Engineer_Interview_Questions / stars & forks statistics
-
-[Open repository/tadwhitaker/Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions)
+# tadwhitaker/Security_Engineer_Interview_Questions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 181
+☋ Forks: 182
 
-★ Stars: 874
+★ Stars: 878
+
+[Open repository](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 878 | 182 | 
+| 2022-10-06 | 877 | 182 | 
+| 2022-10-05 | 877 | 182 | 
+| 2022-10-04 | 877 | 182 | 
+| 2022-10-03 | 876 | 182 | 
+| 2022-10-02 | 875 | 182 | 
+| 2022-10-01 | 875 | 182 | 
+| 2022-09-30 | 875 | 182 | 
+| 2022-09-29 | 875 | 182 | 
+| 2022-09-28 | 875 | 182 | 
+| 2022-09-27 | 874 | 182 | 
+| 2022-09-26 | 874 | 182 | 
+| 2022-09-24 | 874 | 182 | 
+| 2022-09-23 | 874 | 182 | 
+| 2022-09-22 | 875 | 182 | 
 | 2022-09-21 | 874 | 181 | 
 | 2022-09-20 | 873 | 181 | 
 | 2022-09-19 | 873 | 181 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 870 | 182 | 
 | 2022-09-08 | 869 | 182 | 
 | 2022-09-07 | 869 | 182 | 
-| 2022-09-06 | 869 | 182 | 
-| 2022-09-05 | 868 | 182 | 
-| 2022-09-04 | 868 | 182 | 
-| 2022-09-03 | 868 | 182 | 
-| 2022-09-02 | 867 | 181 | 
-| 2022-09-01 | 866 | 181 | 
-| 2022-08-31 | 866 | 180 | 
-| 2022-08-30 | 866 | 180 | 
-| 2022-08-29 | 862 | 180 | 
-| 2022-08-28 | 862 | 180 | 
-| 2022-08-27 | 860 | 180 | 
-| 2022-08-26 | 860 | 180 | 
-| 2022-08-25 | 859 | 177 | 
-| 2022-08-24 | 854 | 176 | 
-| 2022-08-23 | 851 | 174 | 
 
 
 [Detailed charts & statistics for tadwhitaker/Security_Engineer_Interview_Questions](https://reviewgithub.com/rep/tadwhitaker/Security_Engineer_Interview_Questions)

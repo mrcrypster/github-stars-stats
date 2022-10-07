@@ -1,16 +1,26 @@
-# MFDGaming/ubuntu-in-termux / stars & forks statistics
-
-[Open repository/MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux)
+# MFDGaming/ubuntu-in-termux - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 293
 
-★ Stars: 970
+★ Stars: 976
+
+[Open repository](https://github.com/MFDGaming/ubuntu-in-termux)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 976 | 293 | 
+| 2022-10-06 | 976 | 293 | 
+| 2022-10-05 | 978 | 293 | 
+| 2022-10-04 | 977 | 293 | 
+| 2022-10-03 | 976 | 294 | 
+| 2022-10-02 | 976 | 294 | 
+| 2022-10-01 | 974 | 294 | 
+| 2022-09-30 | 973 | 294 | 
+| 2022-09-29 | 971 | 293 | 
+| 2022-09-28 | 970 | 293 | 
 | 2022-09-27 | 970 | 293 | 
 | 2022-09-26 | 968 | 293 | 
 | 2022-09-25 | 968 | 292 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 943 | 292 | 
 | 2022-09-08 | 943 | 292 | 
 | 2022-09-07 | 943 | 291 | 
-| 2022-09-06 | 942 | 291 | 
-| 2022-09-05 | 941 | 291 | 
-| 2022-09-04 | 940 | 290 | 
-| 2022-09-03 | 938 | 290 | 
-| 2022-09-02 | 937 | 289 | 
-| 2022-09-01 | 937 | 289 | 
-| 2022-08-31 | 937 | 289 | 
-| 2022-08-30 | 934 | 290 | 
-| 2022-08-29 | 931 | 290 | 
-| 2022-08-28 | 933 | 290 | 
 
 
 [Detailed charts & statistics for MFDGaming/ubuntu-in-termux](https://reviewgithub.com/rep/MFDGaming/ubuntu-in-termux)

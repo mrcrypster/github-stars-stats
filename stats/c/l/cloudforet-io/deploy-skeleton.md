@@ -1,12 +1,12 @@
-# cloudforet-io/deploy-skeleton / stars & forks statistics
-
-[Open repository/cloudforet-io/deploy-skeleton](https://github.com/cloudforet-io/deploy-skeleton)
+# cloudforet-io/deploy-skeleton - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/cloudforet-io/deploy-skeleton)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# upenn-cis5520/01-basics / stars & forks statistics
-
-[Open repository/upenn-cis5520/01-basics](https://github.com/upenn-cis5520/01-basics)
+# upenn-cis5520/01-basics - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/upenn-cis5520/01-basics)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 31 | 
+| 2022-10-05 | - | 31 | 
+| 2022-10-04 | - | 31 | 
+| 2022-10-03 | - | 31 | 
+| 2022-10-02 | - | 31 | 
 | 2022-10-01 | - | 31 | 
 | 2022-09-30 | - | 31 | 
 | 2022-09-29 | - | 31 | 
@@ -36,11 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 33 | 
 | 2022-09-08 | - | 33 | 
 | 2022-09-07 | - | 33 | 
-| 2022-09-06 | - | 29 | 
-| 2022-09-05 | - | 23 | 
-| 2022-09-04 | - | 16 | 
-| 2022-09-03 | - | 14 | 
-| 2022-09-02 | - | 14 | 
 
 
 [Detailed charts & statistics for upenn-cis5520/01-basics](https://reviewgithub.com/rep/upenn-cis5520/01-basics)

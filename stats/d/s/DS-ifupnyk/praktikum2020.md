@@ -1,12 +1,12 @@
-# DS-ifupnyk/praktikum2020 / stars & forks statistics
-
-[Open repository/DS-ifupnyk/praktikum2020](https://github.com/DS-ifupnyk/praktikum2020)
+# DS-ifupnyk/praktikum2020 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 267
 
 ★ Stars: 5
+
+[Open repository](https://github.com/DS-ifupnyk/praktikum2020)
 
 ## Historical data
 | Date | Stars | Forks |

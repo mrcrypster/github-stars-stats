@@ -1,12 +1,12 @@
-# devfile-samples/devfile-sample-python-basic / stars & forks statistics
-
-[Open repository/devfile-samples/devfile-sample-python-basic](https://github.com/devfile-samples/devfile-sample-python-basic)
+# devfile-samples/devfile-sample-python-basic - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 56
 
 ★ Stars: 1
+
+[Open repository](https://github.com/devfile-samples/devfile-sample-python-basic)
 
 ## Historical data
 | Date | Stars | Forks |

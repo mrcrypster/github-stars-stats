@@ -1,12 +1,12 @@
-# findmypast/vaultex / stars & forks statistics
-
-[Open repository/findmypast/vaultex](https://github.com/findmypast/vaultex)
+# findmypast/vaultex - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 101
+
+[Open repository](https://github.com/findmypast/vaultex)
 
 ## Historical data
 | Date | Stars | Forks |

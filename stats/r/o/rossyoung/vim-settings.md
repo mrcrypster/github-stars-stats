@@ -1,12 +1,12 @@
-# rossyoung/vim-settings / stars & forks statistics
-
-[Open repository/rossyoung/vim-settings](https://github.com/rossyoung/vim-settings)
+# rossyoung/vim-settings - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/rossyoung/vim-settings)
 
 ## Historical data
 | Date | Stars | Forks |

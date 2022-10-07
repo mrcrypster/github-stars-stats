@@ -1,12 +1,12 @@
-# ace-n/ContexType / stars & forks statistics
-
-[Open repository/ace-n/ContexType](https://github.com/ace-n/ContexType)
+# ace-n/ContexType - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ace-n/ContexType)
 
 ## Historical data
 | Date | Stars | Forks |

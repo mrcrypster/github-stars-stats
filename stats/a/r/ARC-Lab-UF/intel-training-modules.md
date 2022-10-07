@@ -1,12 +1,12 @@
-# ARC-Lab-UF/intel-training-modules / stars & forks statistics
-
-[Open repository/ARC-Lab-UF/intel-training-modules](https://github.com/ARC-Lab-UF/intel-training-modules)
+# ARC-Lab-UF/intel-training-modules - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 17
+
+[Open repository](https://github.com/ARC-Lab-UF/intel-training-modules)
 
 ## Historical data
 | Date | Stars | Forks |

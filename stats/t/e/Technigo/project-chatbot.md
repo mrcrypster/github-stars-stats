@@ -1,16 +1,31 @@
-# Technigo/project-chatbot / stars & forks statistics
-
-[Open repository/Technigo/project-chatbot](https://github.com/Technigo/project-chatbot)
+# Technigo/project-chatbot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 245
+☋ Forks: 244
 
 ★ Stars: 4
+
+[Open repository](https://github.com/Technigo/project-chatbot)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4 | 244 | 
+| 2022-10-06 | 4 | 244 | 
+| 2022-10-05 | 4 | 244 | 
+| 2022-10-04 | 4 | 244 | 
+| 2022-10-03 | 4 | 245 | 
+| 2022-10-02 | 4 | 245 | 
+| 2022-10-01 | 4 | 245 | 
+| 2022-09-30 | 4 | 245 | 
+| 2022-09-29 | 4 | 245 | 
+| 2022-09-28 | 4 | 245 | 
+| 2022-09-27 | 4 | 245 | 
+| 2022-09-26 | 4 | 245 | 
+| 2022-09-25 | 4 | 245 | 
+| 2022-09-24 | 4 | 245 | 
+| 2022-09-23 | 4 | 245 | 
 | 2022-09-22 | 4 | 245 | 
 | 2022-09-21 | 4 | 245 | 
 | 2022-09-20 | 4 | 245 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4 | 243 | 
 | 2022-09-08 | 4 | 243 | 
 | 2022-09-07 | 4 | 243 | 
-| 2022-09-06 | 4 | 243 | 
-| 2022-09-05 | 4 | 243 | 
-| 2022-09-04 | 4 | 242 | 
-| 2022-09-03 | 4 | 242 | 
-| 2022-09-02 | 4 | 242 | 
-| 2022-09-01 | 4 | 242 | 
-| 2022-08-31 | 4 | 242 | 
-| 2022-08-30 | 3 | 240 | 
-| 2022-08-29 | 3 | 239 | 
-| 2022-08-28 | 3 | 237 | 
-| 2022-08-27 | 3 | 237 | 
-| 2022-08-26 | 3 | 235 | 
-| 2022-08-25 | 3 | 232 | 
-| 2022-08-24 | 3 | 229 | 
-| 2022-08-23 | 3 | 229 | 
 
 
 [Detailed charts & statistics for Technigo/project-chatbot](https://reviewgithub.com/rep/Technigo/project-chatbot)

@@ -1,12 +1,12 @@
-# jagoanstore/RDP-FREE-JAGOAN-STORE / stars & forks statistics
-
-[Open repository/jagoanstore/RDP-FREE-JAGOAN-STORE](https://github.com/jagoanstore/RDP-FREE-JAGOAN-STORE)
+# jagoanstore/RDP-FREE-JAGOAN-STORE - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 0
+
+[Open repository](https://github.com/jagoanstore/RDP-FREE-JAGOAN-STORE)
 
 ## Historical data
 | Date | Stars | Forks |

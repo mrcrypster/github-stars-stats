@@ -1,12 +1,12 @@
-# vim-scripts/pb.vim / stars & forks statistics
-
-[Open repository/vim-scripts/pb.vim](https://github.com/vim-scripts/pb.vim)
+# vim-scripts/pb.vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/vim-scripts/pb.vim)
 
 ## Historical data
 | Date | Stars | Forks |

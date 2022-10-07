@@ -1,12 +1,12 @@
-# oliverspryn/Epoch-CMS / stars & forks statistics
-
-[Open repository/oliverspryn/Epoch-CMS](https://github.com/oliverspryn/Epoch-CMS)
+# oliverspryn/Epoch-CMS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/oliverspryn/Epoch-CMS)
 
 ## Historical data
 | Date | Stars | Forks |

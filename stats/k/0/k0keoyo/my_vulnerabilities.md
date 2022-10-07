@@ -1,16 +1,29 @@
-# k0keoyo/my_vulnerabilities / stars & forks statistics
-
-[Open repository/k0keoyo/my_vulnerabilities](https://github.com/k0keoyo/my_vulnerabilities)
+# k0keoyo/my_vulnerabilities - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 114
+★ Stars: 115
+
+[Open repository](https://github.com/k0keoyo/my_vulnerabilities)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 115 | 27 | 
+| 2022-10-06 | 115 | 27 | 
+| 2022-10-05 | 115 | 27 | 
+| 2022-10-04 | 115 | 27 | 
+| 2022-10-03 | 115 | 27 | 
+| 2022-10-02 | 115 | 26 | 
+| 2022-10-01 | 115 | 26 | 
+| 2022-09-30 | 115 | 26 | 
+| 2022-09-29 | 115 | 26 | 
+| 2022-09-28 | 115 | 26 | 
+| 2022-09-27 | 114 | 26 | 
+| 2022-09-26 | 114 | 26 | 
+| 2022-09-25 | 114 | 26 | 
 | 2022-09-24 | 114 | 26 | 
 | 2022-09-23 | 114 | 26 | 
 | 2022-09-22 | 110 | 25 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 109 | 25 | 
 | 2022-09-08 | 109 | 25 | 
 | 2022-09-07 | 108 | 25 | 
-| 2022-09-06 | 108 | 24 | 
-| 2022-09-05 | 107 | 24 | 
-| 2022-09-04 | 107 | 24 | 
-| 2022-09-03 | 107 | 24 | 
-| 2022-09-02 | 106 | 24 | 
-| 2022-09-01 | 106 | 24 | 
-| 2022-08-31 | 105 | 23 | 
-| 2022-08-30 | 104 | 23 | 
-| 2022-08-29 | 104 | 23 | 
-| 2022-08-28 | 100 | 23 | 
-| 2022-08-27 | 100 | 23 | 
-| 2022-08-26 | 100 | 23 | 
-| 2022-08-25 | 98 | 23 | 
 
 
 [Detailed charts & statistics for k0keoyo/my_vulnerabilities](https://reviewgithub.com/rep/k0keoyo/my_vulnerabilities)

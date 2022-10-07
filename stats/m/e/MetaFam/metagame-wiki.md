@@ -1,12 +1,12 @@
-# MetaFam/metagame-wiki / stars & forks statistics
-
-[Open repository/MetaFam/metagame-wiki](https://github.com/MetaFam/metagame-wiki)
+# MetaFam/metagame-wiki - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 18
+
+[Open repository](https://github.com/MetaFam/metagame-wiki)
 
 ## Historical data
 | Date | Stars | Forks |

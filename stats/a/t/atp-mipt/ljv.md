@@ -1,6 +1,4 @@
-# atp-mipt/ljv / stars & forks statistics
-
-[Open repository/atp-mipt/ljv](https://github.com/atp-mipt/ljv)
+# atp-mipt/ljv - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 241
 
+[Open repository](https://github.com/atp-mipt/ljv)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 241 | 9 | 
+| 2022-10-06 | 241 | 9 | 
+| 2022-10-05 | 241 | 9 | 
+| 2022-10-04 | 241 | 9 | 
+| 2022-10-03 | 241 | 9 | 
+| 2022-10-02 | 241 | 9 | 
+| 2022-10-01 | 241 | 9 | 
+| 2022-09-30 | 241 | 9 | 
+| 2022-09-29 | 241 | 9 | 
 | 2022-09-28 | 241 | 9 | 
 | 2022-09-27 | 242 | 9 | 
 | 2022-09-26 | 242 | 9 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 239 | 9 | 
 | 2022-09-08 | 239 | 9 | 
 | 2022-09-07 | 238 | 9 | 
-| 2022-09-06 | 238 | 9 | 
-| 2022-09-05 | 238 | 9 | 
-| 2022-09-04 | 238 | 9 | 
-| 2022-09-03 | 238 | 9 | 
-| 2022-09-02 | 238 | 9 | 
-| 2022-09-01 | 238 | 9 | 
-| 2022-08-31 | 238 | 9 | 
-| 2022-08-30 | 238 | 9 | 
-| 2022-08-29 | 238 | 9 | 
 
 
 [Detailed charts & statistics for atp-mipt/ljv](https://reviewgithub.com/rep/atp-mipt/ljv)

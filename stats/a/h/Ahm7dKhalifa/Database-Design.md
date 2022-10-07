@@ -1,12 +1,12 @@
-# Ahm7dKhalifa/Database-Design / stars & forks statistics
-
-[Open repository/Ahm7dKhalifa/Database-Design](https://github.com/Ahm7dKhalifa/Database-Design)
+# Ahm7dKhalifa/Database-Design - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 13
+
+[Open repository](https://github.com/Ahm7dKhalifa/Database-Design)
 
 ## Historical data
 | Date | Stars | Forks |

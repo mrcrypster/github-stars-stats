@@ -1,6 +1,4 @@
-# awesome-kusion/rust-code-book / stars & forks statistics
-
-[Open repository/awesome-kusion/rust-code-book](https://github.com/awesome-kusion/rust-code-book)
+# awesome-kusion/rust-code-book - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 183
 
+[Open repository](https://github.com/awesome-kusion/rust-code-book)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 183 | 8 | 
+| 2022-10-05 | 183 | 8 | 
+| 2022-10-04 | 183 | 8 | 
+| 2022-10-03 | 183 | 8 | 
 | 2022-10-02 | 183 | 8 | 
 | 2022-10-01 | 184 | 8 | 
 | 2022-09-30 | 184 | 8 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 180 | 8 | 
 | 2022-09-09 | 179 | 8 | 
 | 2022-09-08 | 179 | 8 | 
-| 2022-09-07 | 176 | 8 | 
-| 2022-09-06 | 172 | 8 | 
-| 2022-09-05 | 170 | 7 | 
-| 2022-09-04 | 165 | 7 | 
-| 2022-09-03 | 159 | 7 | 
 
 
 [Detailed charts & statistics for awesome-kusion/rust-code-book](https://reviewgithub.com/rep/awesome-kusion/rust-code-book)

@@ -1,12 +1,12 @@
-# dliocode/horse-utils-clientip / stars & forks statistics
-
-[Open repository/dliocode/horse-utils-clientip](https://github.com/dliocode/horse-utils-clientip)
+# dliocode/horse-utils-clientip - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 15
+
+[Open repository](https://github.com/dliocode/horse-utils-clientip)
 
 ## Historical data
 | Date | Stars | Forks |

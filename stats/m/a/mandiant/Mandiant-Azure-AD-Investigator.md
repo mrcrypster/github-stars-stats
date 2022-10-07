@@ -1,16 +1,33 @@
-# mandiant/Mandiant-Azure-AD-Investigator / stars & forks statistics
-
-[Open repository/mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator)
+# mandiant/Mandiant-Azure-AD-Investigator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 520
+★ Stars: 524
+
+[Open repository](https://github.com/mandiant/Mandiant-Azure-AD-Investigator)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 524 | 86 | 
+| 2022-10-06 | 523 | 85 | 
+| 2022-10-05 | 523 | 85 | 
+| 2022-10-04 | 523 | 85 | 
+| 2022-10-03 | 523 | 85 | 
+| 2022-10-02 | 523 | 85 | 
+| 2022-10-01 | 523 | 85 | 
+| 2022-09-30 | 523 | 85 | 
+| 2022-09-29 | 523 | 85 | 
+| 2022-09-28 | 523 | 85 | 
+| 2022-09-27 | 523 | 85 | 
+| 2022-09-26 | 522 | 85 | 
+| 2022-09-25 | 522 | 85 | 
+| 2022-09-24 | 522 | 85 | 
+| 2022-09-23 | 522 | 85 | 
+| 2022-09-22 | 522 | 85 | 
+| 2022-09-21 | 520 | 85 | 
 | 2022-09-20 | 520 | 85 | 
 | 2022-09-18 | 520 | 85 | 
 | 2022-09-17 | 520 | 85 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 518 | 83 | 
 | 2022-09-08 | 518 | 83 | 
 | 2022-09-07 | 517 | 83 | 
-| 2022-09-06 | 516 | 83 | 
-| 2022-09-05 | 516 | 83 | 
-| 2022-09-04 | 515 | 83 | 
-| 2022-09-03 | 516 | 83 | 
-| 2022-09-02 | 516 | 83 | 
-| 2022-09-01 | 515 | 83 | 
-| 2022-08-31 | 515 | 83 | 
-| 2022-08-30 | 515 | 83 | 
-| 2022-08-29 | 514 | 82 | 
-| 2022-08-28 | 514 | 82 | 
-| 2022-08-27 | 514 | 82 | 
-| 2022-08-26 | 514 | 82 | 
-| 2022-08-25 | 513 | 81 | 
-| 2022-08-24 | 512 | 81 | 
-| 2022-08-23 | 512 | 81 | 
-| 2022-08-22 | 511 | 80 | 
-| 2022-08-21 | 510 | 80 | 
 
 
 [Detailed charts & statistics for mandiant/Mandiant-Azure-AD-Investigator](https://reviewgithub.com/rep/mandiant/Mandiant-Azure-AD-Investigator)

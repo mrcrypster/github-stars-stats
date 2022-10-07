@@ -1,12 +1,12 @@
-# website-template/html5-simple-personal-website / stars & forks statistics
-
-[Open repository/website-template/html5-simple-personal-website](https://github.com/website-template/html5-simple-personal-website)
+# website-template/html5-simple-personal-website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 69
 
 ★ Stars: 31
+
+[Open repository](https://github.com/website-template/html5-simple-personal-website)
 
 ## Historical data
 | Date | Stars | Forks |

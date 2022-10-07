@@ -1,6 +1,4 @@
-# bortexz/resocket / stars & forks statistics
-
-[Open repository/bortexz/resocket](https://github.com/bortexz/resocket)
+# bortexz/resocket - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/bortexz/resocket)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 23 | - | 
+| 2022-10-05 | 23 | - | 
+| 2022-10-04 | 23 | - | 
+| 2022-10-03 | 23 | - | 
+| 2022-10-02 | 23 | - | 
+| 2022-10-01 | 23 | - | 
+| 2022-09-30 | 23 | - | 
 | 2022-09-29 | 23 | - | 
 | 2022-09-28 | 23 | - | 
 | 2022-09-27 | 23 | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 21 | - | 
 | 2022-09-09 | 21 | - | 
 | 2022-09-08 | 21 | - | 
-| 2022-09-07 | 21 | - | 
-| 2022-09-06 | 21 | - | 
-| 2022-09-05 | 21 | - | 
-| 2022-09-04 | 20 | - | 
-| 2022-09-03 | 20 | - | 
-| 2022-09-02 | 19 | - | 
-| 2022-09-01 | 19 | - | 
-| 2022-08-31 | 18 | - | 
 
 
 [Detailed charts & statistics for bortexz/resocket](https://reviewgithub.com/rep/bortexz/resocket)

@@ -1,12 +1,12 @@
-# scruss/Russell-s-Modern-Logarithms / stars & forks statistics
-
-[Open repository/scruss/Russell-s-Modern-Logarithms](https://github.com/scruss/Russell-s-Modern-Logarithms)
+# scruss/Russell-s-Modern-Logarithms - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/scruss/Russell-s-Modern-Logarithms)
 
 ## Historical data
 | Date | Stars | Forks |

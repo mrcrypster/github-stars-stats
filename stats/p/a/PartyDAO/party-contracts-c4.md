@@ -1,12 +1,12 @@
-# PartyDAO/party-contracts-c4 / stars & forks statistics
-
-[Open repository/PartyDAO/party-contracts-c4](https://github.com/PartyDAO/party-contracts-c4)
+# PartyDAO/party-contracts-c4 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 12
+
+[Open repository](https://github.com/PartyDAO/party-contracts-c4)
 
 ## Historical data
 | Date | Stars | Forks |

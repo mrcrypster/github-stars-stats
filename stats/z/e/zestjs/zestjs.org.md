@@ -1,6 +1,4 @@
-# zestjs/zestjs.org / stars & forks statistics
-
-[Open repository/zestjs/zestjs.org](https://github.com/zestjs/zestjs.org)
+# zestjs/zestjs.org - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/zestjs/zestjs.org)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 7 | 1 | 
+| 2022-10-06 | 7 | 1 | 
+| 2022-10-05 | 7 | 1 | 
+| 2022-10-04 | 7 | 1 | 
+| 2022-10-03 | 7 | 1 | 
+| 2022-10-02 | 7 | 1 | 
+| 2022-10-01 | 7 | 1 | 
+| 2022-09-30 | 7 | 1 | 
+| 2022-09-29 | 7 | 1 | 
+| 2022-09-27 | 7 | 1 | 
+| 2022-09-26 | 7 | 1 | 
+| 2022-09-25 | 7 | 1 | 
 | 2022-09-24 | 7 | 1 | 
 | 2022-09-23 | 7 | 1 | 
 | 2022-09-22 | 7 | 1 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 6 | 1 | 
 | 2022-09-08 | 6 | 1 | 
 | 2022-09-07 | 6 | 1 | 
-| 2022-09-06 | 6 | 1 | 
-| 2022-09-05 | 6 | 1 | 
-| 2022-09-04 | 6 | 1 | 
-| 2022-09-03 | 6 | 1 | 
-| 2022-09-02 | 6 | 1 | 
-| 2022-09-01 | 6 | 1 | 
-| 2022-08-31 | 6 | 1 | 
-| 2022-08-30 | 6 | 1 | 
-| 2022-08-29 | 6 | 1 | 
-| 2022-08-28 | 6 | 1 | 
-| 2022-08-27 | 6 | 1 | 
-| 2022-08-26 | 6 | 1 | 
 
 
 [Detailed charts & statistics for zestjs/zestjs.org](https://reviewgithub.com/rep/zestjs/zestjs.org)

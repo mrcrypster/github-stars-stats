@@ -1,6 +1,4 @@
-# beduExpert/Programacion-R-Santander-2021 / stars & forks statistics
-
-[Open repository/beduExpert/Programacion-R-Santander-2021](https://github.com/beduExpert/Programacion-R-Santander-2021)
+# beduExpert/Programacion-R-Santander-2021 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,29 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 19
 
+[Open repository](https://github.com/beduExpert/Programacion-R-Santander-2021)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 54 | 
+| 2022-10-06 | 19 | 54 | 
+| 2022-10-05 | 19 | 54 | 
+| 2022-10-04 | 19 | 54 | 
+| 2022-10-03 | 19 | 54 | 
+| 2022-10-02 | 19 | 54 | 
+| 2022-10-01 | 19 | 54 | 
+| 2022-09-30 | 19 | 54 | 
+| 2022-09-29 | 19 | 54 | 
+| 2022-09-28 | 19 | 54 | 
+| 2022-09-27 | 19 | 54 | 
+| 2022-09-26 | 19 | 54 | 
+| 2022-09-25 | 19 | 54 | 
+| 2022-09-24 | 19 | 54 | 
+| 2022-09-23 | 19 | 54 | 
+| 2022-09-22 | 19 | 54 | 
+| 2022-09-21 | 19 | 54 | 
+| 2022-09-20 | 19 | 54 | 
 | 2022-09-19 | 19 | 54 | 
 | 2022-09-18 | 19 | 54 | 
 | 2022-09-17 | 19 | 54 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 18 | 54 | 
 | 2022-09-08 | 18 | 54 | 
 | 2022-09-07 | 18 | 54 | 
-| 2022-09-06 | 18 | 54 | 
-| 2022-09-05 | 18 | 54 | 
-| 2022-09-04 | 18 | 54 | 
-| 2022-09-03 | 18 | 54 | 
-| 2022-09-02 | 18 | 54 | 
-| 2022-09-01 | 18 | 54 | 
-| 2022-08-31 | 18 | 54 | 
-| 2022-08-30 | 18 | 54 | 
-| 2022-08-29 | 18 | 54 | 
-| 2022-08-28 | 18 | 54 | 
-| 2022-08-27 | 18 | 54 | 
-| 2022-08-26 | 17 | 54 | 
-| 2022-08-25 | 17 | 54 | 
-| 2022-08-24 | 17 | 54 | 
-| 2022-08-23 | 17 | 54 | 
-| 2022-08-22 | 17 | 54 | 
-| 2022-08-21 | 17 | 54 | 
-| 2022-08-20 | 17 | 54 | 
 
 
 [Detailed charts & statistics for beduExpert/Programacion-R-Santander-2021](https://reviewgithub.com/rep/beduExpert/Programacion-R-Santander-2021)

@@ -1,12 +1,12 @@
-# camilaDiToro/MNA-scripts / stars & forks statistics
-
-[Open repository/camilaDiToro/MNA-scripts](https://github.com/camilaDiToro/MNA-scripts)
+# camilaDiToro/MNA-scripts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/camilaDiToro/MNA-scripts)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# nix-community/nur-packages-template / stars & forks statistics
-
-[Open repository/nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template)
+# nix-community/nur-packages-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 90
 
 ★ Stars: 57
+
+[Open repository](https://github.com/nix-community/nur-packages-template)
 
 ## Historical data
 | Date | Stars | Forks |

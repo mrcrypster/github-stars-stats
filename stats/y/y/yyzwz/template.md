@@ -1,12 +1,12 @@
-# yyzwz/template / stars & forks statistics
-
-[Open repository/yyzwz/template](https://github.com/yyzwz/template)
+# yyzwz/template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 5
+
+[Open repository](https://github.com/yyzwz/template)
 
 ## Historical data
 | Date | Stars | Forks |

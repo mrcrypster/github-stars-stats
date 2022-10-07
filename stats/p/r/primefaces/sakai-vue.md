@@ -1,12 +1,12 @@
-# primefaces/sakai-vue / stars & forks statistics
-
-[Open repository/primefaces/sakai-vue](https://github.com/primefaces/sakai-vue)
+# primefaces/sakai-vue - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 193
 
 ★ Stars: 394
+
+[Open repository](https://github.com/primefaces/sakai-vue)
 
 ## Historical data
 | Date | Stars | Forks |

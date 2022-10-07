@@ -1,12 +1,12 @@
-# TheDatumOrg/grail-matlab / stars & forks statistics
-
-[Open repository/TheDatumOrg/grail-matlab](https://github.com/TheDatumOrg/grail-matlab)
+# TheDatumOrg/grail-matlab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 46
+
+[Open repository](https://github.com/TheDatumOrg/grail-matlab)
 
 ## Historical data
 | Date | Stars | Forks |

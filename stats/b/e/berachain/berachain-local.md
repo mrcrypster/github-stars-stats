@@ -1,12 +1,12 @@
-# berachain/berachain-local / stars & forks statistics
-
-[Open repository/berachain/berachain-local](https://github.com/berachain/berachain-local)
+# berachain/berachain-local - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 18
+
+[Open repository](https://github.com/berachain/berachain-local)
 
 ## Historical data
 | Date | Stars | Forks |

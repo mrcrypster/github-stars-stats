@@ -1,6 +1,4 @@
-# Queuete/ExileApi / stars & forks statistics
-
-[Open repository/Queuete/ExileApi](https://github.com/Queuete/ExileApi)
+# Queuete/ExileApi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 155
 
+[Open repository](https://github.com/Queuete/ExileApi)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 155 | 109 | 
+| 2022-10-06 | 155 | 109 | 
+| 2022-10-05 | 155 | 109 | 
+| 2022-10-04 | 155 | 109 | 
+| 2022-10-03 | 155 | 109 | 
+| 2022-10-02 | 155 | 109 | 
+| 2022-10-01 | 155 | 109 | 
+| 2022-09-30 | 155 | 109 | 
+| 2022-09-29 | 155 | 109 | 
+| 2022-09-28 | 155 | 109 | 
+| 2022-09-27 | 155 | 109 | 
 | 2022-09-26 | 155 | 109 | 
 | 2022-09-25 | 155 | 109 | 
 | 2022-09-24 | 155 | 108 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 155 | 106 | 
 | 2022-09-08 | 154 | 106 | 
 | 2022-09-07 | 154 | 106 | 
-| 2022-09-06 | 154 | 106 | 
-| 2022-09-05 | 154 | 106 | 
-| 2022-09-04 | 154 | 106 | 
-| 2022-09-03 | 154 | 106 | 
-| 2022-09-02 | 154 | 106 | 
-| 2022-09-01 | 154 | 105 | 
-| 2022-08-31 | 154 | 105 | 
-| 2022-08-30 | 154 | 105 | 
-| 2022-08-29 | 154 | 104 | 
-| 2022-08-28 | 154 | 101 | 
-| 2022-08-27 | 152 | 100 | 
 
 
 [Detailed charts & statistics for Queuete/ExileApi](https://reviewgithub.com/rep/Queuete/ExileApi)

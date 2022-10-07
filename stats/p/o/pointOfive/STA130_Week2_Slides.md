@@ -1,12 +1,12 @@
-# pointOfive/STA130_Week2_Slides / stars & forks statistics
-
-[Open repository/pointOfive/STA130_Week2_Slides](https://github.com/pointOfive/STA130_Week2_Slides)
+# pointOfive/STA130_Week2_Slides - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/pointOfive/STA130_Week2_Slides)
 
 ## Historical data
 | Date | Stars | Forks |

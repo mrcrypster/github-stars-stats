@@ -1,16 +1,27 @@
-# wuba/Antenna / stars & forks statistics
-
-[Open repository/wuba/Antenna](https://github.com/wuba/Antenna)
+# wuba/Antenna - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 509
+★ Stars: 513
+
+[Open repository](https://github.com/wuba/Antenna)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 513 | 63 | 
+| 2022-10-06 | 511 | 63 | 
+| 2022-10-05 | 511 | 63 | 
+| 2022-10-04 | 511 | 63 | 
+| 2022-10-03 | 511 | 63 | 
+| 2022-10-02 | 511 | 63 | 
+| 2022-10-01 | 511 | 63 | 
+| 2022-09-30 | 510 | 62 | 
+| 2022-09-29 | 510 | 61 | 
+| 2022-09-28 | 509 | 62 | 
+| 2022-09-27 | 509 | 62 | 
 | 2022-09-26 | 509 | 62 | 
 | 2022-09-25 | 509 | 62 | 
 | 2022-09-24 | 507 | 62 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 440 | 57 | 
 | 2022-09-08 | 427 | 56 | 
 | 2022-09-07 | 406 | 54 | 
-| 2022-09-06 | 404 | 54 | 
-| 2022-09-05 | 392 | 53 | 
-| 2022-09-04 | 385 | 51 | 
-| 2022-09-03 | 384 | 51 | 
-| 2022-09-02 | 381 | 50 | 
-| 2022-09-01 | 372 | 48 | 
-| 2022-08-31 | 363 | 48 | 
-| 2022-08-30 | 338 | 47 | 
-| 2022-08-29 | 306 | 46 | 
-| 2022-08-28 | 293 | 43 | 
-| 2022-08-27 | 286 | 42 | 
 
 
 [Detailed charts & statistics for wuba/Antenna](https://reviewgithub.com/rep/wuba/Antenna)

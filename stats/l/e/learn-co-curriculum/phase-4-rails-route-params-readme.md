@@ -1,16 +1,25 @@
-# learn-co-curriculum/phase-4-rails-route-params-readme / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-4-rails-route-params-readme](https://github.com/learn-co-curriculum/phase-4-rails-route-params-readme)
+# learn-co-curriculum/phase-4-rails-route-params-readme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1212
+☋ Forks: 1284
 
 ★ Stars: 0
+
+[Open repository](https://github.com/learn-co-curriculum/phase-4-rails-route-params-readme)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 1284 | 
+| 2022-10-06 | - | 1280 | 
+| 2022-10-05 | - | 1279 | 
+| 2022-10-04 | - | 1273 | 
+| 2022-10-03 | - | 1269 | 
+| 2022-10-02 | - | 1264 | 
+| 2022-10-01 | - | 1259 | 
+| 2022-09-30 | - | 1248 | 
+| 2022-09-29 | - | 1241 | 
 | 2022-09-28 | - | 1212 | 
 | 2022-09-27 | - | 1154 | 
 | 2022-09-26 | - | 1092 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 985 | 
 | 2022-09-08 | - | 985 | 
 | 2022-09-07 | - | 986 | 
-| 2022-09-06 | - | 983 | 
-| 2022-09-05 | - | 982 | 
-| 2022-09-04 | - | 983 | 
-| 2022-09-03 | - | 983 | 
-| 2022-09-02 | - | 983 | 
-| 2022-09-01 | - | 982 | 
-| 2022-08-31 | - | 979 | 
-| 2022-08-30 | - | 971 | 
-| 2022-08-29 | - | 969 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-4-rails-route-params-readme](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-route-params-readme)

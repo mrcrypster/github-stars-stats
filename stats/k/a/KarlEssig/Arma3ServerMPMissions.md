@@ -1,12 +1,12 @@
-# KarlEssig/Arma3ServerMPMissions / stars & forks statistics
-
-[Open repository/KarlEssig/Arma3ServerMPMissions](https://github.com/KarlEssig/Arma3ServerMPMissions)
+# KarlEssig/Arma3ServerMPMissions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/KarlEssig/Arma3ServerMPMissions)
 
 ## Historical data
 | Date | Stars | Forks |

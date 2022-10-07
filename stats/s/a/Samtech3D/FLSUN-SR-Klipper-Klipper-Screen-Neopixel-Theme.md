@@ -1,46 +1,46 @@
-# Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme / stars & forks statistics
-
-[Open repository/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme](https://github.com/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme)
+# Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 6
+
+[Open repository](https://github.com/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-06 | 4 | 4 | 
-| 2022-08-05 | 4 | 4 | 
-| 2022-08-04 | 4 | 4 | 
-| 2022-08-03 | 4 | 4 | 
-| 2022-08-02 | 4 | 4 | 
-| 2022-08-01 | 4 | 4 | 
-| 2022-07-31 | 4 | 4 | 
-| 2022-07-30 | 4 | 4 | 
-| 2022-07-29 | 4 | 4 | 
-| 2022-07-28 | 4 | 4 | 
-| 2022-07-27 | 4 | 4 | 
-| 2022-07-26 | 4 | 4 | 
-| 2022-07-25 | 4 | 4 | 
-| 2022-07-24 | 4 | 4 | 
-| 2022-07-23 | 4 | 4 | 
-| 2022-07-22 | 4 | 4 | 
-| 2022-07-21 | 4 | 4 | 
-| 2022-07-20 | 4 | 4 | 
-| 2022-07-19 | 4 | 4 | 
-| 2022-07-18 | 4 | 4 | 
-| 2022-07-17 | 4 | 4 | 
-| 2022-07-16 | 4 | 4 | 
-| 2022-07-15 | 4 | 4 | 
-| 2022-07-14 | 3 | 4 | 
-| 2022-07-13 | 4 | 4 | 
-| 2022-07-12 | 4 | 4 | 
-| 2022-07-11 | 4 | 4 | 
-| 2022-07-10 | 4 | 4 | 
-| 2022-07-09 | 4 | 4 | 
-| 2022-07-08 | 4 | 4 | 
+| 2022-10-07 | 6 | 4 | 
+| 2022-10-06 | 6 | 4 | 
+| 2022-10-05 | 6 | 4 | 
+| 2022-10-04 | 6 | 4 | 
+| 2022-10-03 | 5 | 4 | 
+| 2022-10-02 | 5 | 4 | 
+| 2022-10-01 | 5 | 4 | 
+| 2022-09-30 | 5 | 4 | 
+| 2022-09-28 | 5 | 4 | 
+| 2022-09-27 | 5 | 4 | 
+| 2022-09-26 | 5 | 4 | 
+| 2022-09-25 | 5 | 4 | 
+| 2022-09-24 | 5 | 4 | 
+| 2022-09-23 | 5 | 4 | 
+| 2022-09-22 | 5 | 4 | 
+| 2022-09-21 | 5 | 4 | 
+| 2022-09-20 | 5 | 4 | 
+| 2022-09-19 | 5 | 4 | 
+| 2022-09-18 | 5 | 4 | 
+| 2022-09-17 | 5 | 4 | 
+| 2022-09-16 | 5 | 4 | 
+| 2022-09-15 | 5 | 4 | 
+| 2022-09-14 | 5 | 4 | 
+| 2022-09-13 | 5 | 4 | 
+| 2022-09-12 | 5 | 4 | 
+| 2022-09-11 | 5 | 4 | 
+| 2022-09-10 | 5 | 4 | 
+| 2022-09-09 | 5 | 4 | 
+| 2022-09-08 | 5 | 4 | 
+| 2022-09-07 | 5 | 4 | 
 
 
 [Detailed charts & statistics for Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme](https://reviewgithub.com/rep/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme)

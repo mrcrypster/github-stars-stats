@@ -1,12 +1,12 @@
-# IObundle/iob-eth / stars & forks statistics
-
-[Open repository/IObundle/iob-eth](https://github.com/IObundle/iob-eth)
+# IObundle/iob-eth - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 3
+
+[Open repository](https://github.com/IObundle/iob-eth)
 
 ## Historical data
 | Date | Stars | Forks |

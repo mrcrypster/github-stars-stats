@@ -1,12 +1,12 @@
-# corretto/corretto-8 / stars & forks statistics
-
-[Open repository/corretto/corretto-8](https://github.com/corretto/corretto-8)
+# corretto/corretto-8 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 209
 
 ★ Stars: 2012
+
+[Open repository](https://github.com/corretto/corretto-8)
 
 ## Historical data
 | Date | Stars | Forks |

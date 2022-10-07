@@ -1,12 +1,12 @@
-# petlove/slack_elixir / stars & forks statistics
-
-[Open repository/petlove/slack_elixir](https://github.com/petlove/slack_elixir)
+# petlove/slack_elixir - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/petlove/slack_elixir)
 
 ## Historical data
 | Date | Stars | Forks |

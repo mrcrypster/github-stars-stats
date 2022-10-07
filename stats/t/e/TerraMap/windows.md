@@ -1,12 +1,12 @@
-# TerraMap/windows / stars & forks statistics
-
-[Open repository/TerraMap/windows](https://github.com/TerraMap/windows)
+# TerraMap/windows - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 63
+
+[Open repository](https://github.com/TerraMap/windows)
 
 ## Historical data
 | Date | Stars | Forks |

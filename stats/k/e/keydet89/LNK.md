@@ -1,12 +1,12 @@
-# keydet89/LNK / stars & forks statistics
-
-[Open repository/keydet89/LNK](https://github.com/keydet89/LNK)
+# keydet89/LNK - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 24
+
+[Open repository](https://github.com/keydet89/LNK)
 
 ## Historical data
 | Date | Stars | Forks |

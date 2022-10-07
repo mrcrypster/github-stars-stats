@@ -1,46 +1,45 @@
-# aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust / stars & forks statistics
-
-[Open repository/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust)
+# aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 23
+★ Stars: 26
+
+[Open repository](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 23 | 3 | 
-| 2022-07-29 | 23 | 3 | 
-| 2022-07-28 | 23 | 3 | 
-| 2022-07-27 | 23 | 3 | 
-| 2022-07-26 | 23 | 3 | 
-| 2022-07-25 | 23 | 3 | 
-| 2022-07-24 | 23 | 3 | 
-| 2022-07-22 | 23 | 3 | 
-| 2022-07-21 | 23 | 3 | 
-| 2022-07-20 | 23 | 3 | 
-| 2022-07-19 | 23 | 3 | 
-| 2022-07-18 | 23 | 3 | 
-| 2022-07-17 | 23 | 3 | 
-| 2022-07-16 | 23 | 3 | 
-| 2022-07-15 | 23 | 3 | 
-| 2022-07-14 | 23 | 3 | 
-| 2022-07-13 | 23 | 3 | 
-| 2022-07-12 | 23 | 3 | 
-| 2022-07-11 | 23 | 3 | 
-| 2022-07-10 | 23 | 3 | 
-| 2022-07-09 | 23 | 3 | 
-| 2022-07-08 | 23 | 3 | 
-| 2022-07-07 | 23 | 3 | 
-| 2022-07-06 | 23 | 3 | 
-| 2022-07-05 | 23 | 3 | 
-| 2022-07-04 | 22 | 3 | 
-| 2022-07-03 | 22 | 2 | 
-| 2022-07-02 | 21 | 2 | 
-| 2022-07-01 | 21 | 2 | 
-| 2022-06-30 | 21 | 2 | 
+| 2022-10-06 | 26 | 5 | 
+| 2022-10-05 | 26 | 5 | 
+| 2022-10-04 | 26 | 5 | 
+| 2022-10-03 | 26 | 5 | 
+| 2022-10-02 | 26 | 5 | 
+| 2022-10-01 | 26 | 5 | 
+| 2022-09-30 | 26 | 5 | 
+| 2022-09-29 | 26 | 5 | 
+| 2022-09-28 | 25 | 5 | 
+| 2022-09-27 | 25 | 5 | 
+| 2022-09-26 | 25 | 5 | 
+| 2022-09-25 | 25 | 5 | 
+| 2022-09-24 | 25 | 4 | 
+| 2022-09-23 | 25 | 4 | 
+| 2022-09-22 | 25 | 4 | 
+| 2022-09-21 | 25 | 4 | 
+| 2022-09-20 | 25 | 4 | 
+| 2022-09-19 | 25 | 4 | 
+| 2022-09-18 | 25 | 4 | 
+| 2022-09-17 | 25 | 4 | 
+| 2022-09-16 | 25 | 4 | 
+| 2022-09-15 | 24 | 3 | 
+| 2022-09-14 | 24 | 3 | 
+| 2022-09-13 | 24 | 3 | 
+| 2022-09-12 | 24 | 3 | 
+| 2022-09-11 | 24 | 3 | 
+| 2022-09-10 | 24 | 3 | 
+| 2022-09-09 | 24 | 3 | 
+| 2022-09-08 | 24 | 3 | 
 
 
 [Detailed charts & statistics for aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust](https://reviewgithub.com/rep/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust)

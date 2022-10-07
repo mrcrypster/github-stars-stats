@@ -1,16 +1,30 @@
-# slavistan/lf-gadgets / stars & forks statistics
-
-[Open repository/slavistan/lf-gadgets](https://github.com/slavistan/lf-gadgets)
+# slavistan/lf-gadgets - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
-★ Stars: 58
+★ Stars: 63
+
+[Open repository](https://github.com/slavistan/lf-gadgets)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 63 | 13 | 
+| 2022-10-06 | 63 | 13 | 
+| 2022-10-05 | 62 | 13 | 
+| 2022-10-04 | 62 | 13 | 
+| 2022-10-03 | 62 | 13 | 
+| 2022-10-02 | 62 | 13 | 
+| 2022-10-01 | 62 | 13 | 
+| 2022-09-30 | 62 | 13 | 
+| 2022-09-29 | 61 | 13 | 
+| 2022-09-28 | 60 | 13 | 
+| 2022-09-27 | 59 | 13 | 
+| 2022-09-26 | 59 | 13 | 
+| 2022-09-25 | 59 | 13 | 
+| 2022-09-24 | 58 | 13 | 
 | 2022-09-23 | 58 | 13 | 
 | 2022-09-22 | 57 | 13 | 
 | 2022-09-21 | 57 | 13 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 56 | 13 | 
 | 2022-09-08 | 56 | 13 | 
 | 2022-09-07 | 56 | 13 | 
-| 2022-09-06 | 55 | 13 | 
-| 2022-09-05 | 55 | 13 | 
-| 2022-09-04 | 55 | 13 | 
-| 2022-09-03 | 55 | 12 | 
-| 2022-09-02 | 54 | 12 | 
-| 2022-09-01 | 54 | 12 | 
-| 2022-08-31 | 54 | 12 | 
-| 2022-08-30 | 54 | 12 | 
-| 2022-08-29 | 54 | 12 | 
-| 2022-08-28 | 54 | 12 | 
-| 2022-08-27 | 54 | 12 | 
-| 2022-08-26 | 54 | 12 | 
-| 2022-08-25 | 54 | 12 | 
-| 2022-08-24 | 54 | 12 | 
 
 
 [Detailed charts & statistics for slavistan/lf-gadgets](https://reviewgithub.com/rep/slavistan/lf-gadgets)

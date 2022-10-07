@@ -1,16 +1,28 @@
-# rest-nvim/rest.nvim / stars & forks statistics
-
-[Open repository/rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)
+# rest-nvim/rest.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 44
+☋ Forks: 46
 
-★ Stars: 504
+★ Stars: 511
+
+[Open repository](https://github.com/rest-nvim/rest.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 511 | 46 | 
+| 2022-10-05 | 511 | 46 | 
+| 2022-10-04 | 511 | 46 | 
+| 2022-10-03 | 510 | 45 | 
+| 2022-10-02 | 509 | 45 | 
+| 2022-10-01 | 509 | 45 | 
+| 2022-09-30 | 509 | 45 | 
+| 2022-09-29 | 508 | 45 | 
+| 2022-09-28 | 508 | 45 | 
+| 2022-09-27 | 508 | 45 | 
+| 2022-09-26 | 506 | 45 | 
+| 2022-09-25 | 505 | 45 | 
 | 2022-09-24 | 504 | 44 | 
 | 2022-09-23 | 503 | 44 | 
 | 2022-09-22 | 501 | 44 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 483 | 44 | 
 | 2022-09-09 | 481 | 44 | 
 | 2022-09-08 | 481 | 44 | 
-| 2022-09-07 | 479 | 44 | 
-| 2022-09-06 | 476 | 44 | 
-| 2022-09-05 | 476 | 44 | 
-| 2022-09-04 | 476 | 43 | 
-| 2022-09-03 | 476 | 43 | 
-| 2022-09-02 | 476 | 43 | 
-| 2022-09-01 | 476 | 43 | 
-| 2022-08-31 | 475 | 42 | 
-| 2022-08-30 | 475 | 42 | 
-| 2022-08-29 | 475 | 41 | 
-| 2022-08-28 | 474 | 41 | 
-| 2022-08-27 | 474 | 40 | 
-| 2022-08-26 | 471 | 40 | 
 
 
 [Detailed charts & statistics for rest-nvim/rest.nvim](https://reviewgithub.com/rep/rest-nvim/rest.nvim)

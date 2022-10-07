@@ -1,12 +1,12 @@
-# revmischa/test-bot / stars & forks statistics
-
-[Open repository/revmischa/test-bot](https://github.com/revmischa/test-bot)
+# revmischa/test-bot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/revmischa/test-bot)
 
 ## Historical data
 | Date | Stars | Forks |

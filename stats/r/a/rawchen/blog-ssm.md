@@ -1,12 +1,12 @@
-# rawchen/blog-ssm / stars & forks statistics
-
-[Open repository/rawchen/blog-ssm](https://github.com/rawchen/blog-ssm)
+# rawchen/blog-ssm - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 466
+
+[Open repository](https://github.com/rawchen/blog-ssm)
 
 ## Historical data
 | Date | Stars | Forks |

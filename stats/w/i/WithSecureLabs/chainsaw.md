@@ -1,16 +1,29 @@
-# WithSecureLabs/chainsaw / stars & forks statistics
-
-[Open repository/WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw)
+# WithSecureLabs/chainsaw - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 147
+☋ Forks: 148
 
-★ Stars: 1646
+★ Stars: 1672
+
+[Open repository](https://github.com/WithSecureLabs/chainsaw)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1672 | 148 | 
+| 2022-10-05 | 1671 | 148 | 
+| 2022-10-04 | 1666 | 148 | 
+| 2022-10-03 | 1664 | 148 | 
+| 2022-10-02 | 1663 | 148 | 
+| 2022-10-01 | 1660 | 148 | 
+| 2022-09-30 | 1659 | 148 | 
+| 2022-09-29 | 1659 | 148 | 
+| 2022-09-28 | 1656 | 148 | 
+| 2022-09-27 | 1653 | 148 | 
+| 2022-09-26 | 1650 | 148 | 
+| 2022-09-25 | 1646 | 148 | 
+| 2022-09-24 | 1646 | 147 | 
 | 2022-09-23 | 1646 | 147 | 
 | 2022-09-22 | 1644 | 147 | 
 | 2022-09-21 | 1640 | 146 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1597 | 142 | 
 | 2022-09-08 | 1596 | 142 | 
 | 2022-09-07 | 1595 | 141 | 
-| 2022-09-06 | 1594 | 141 | 
-| 2022-09-05 | 1591 | 141 | 
-| 2022-09-04 | 1590 | 141 | 
-| 2022-09-03 | 1589 | 139 | 
-| 2022-09-02 | 1588 | 139 | 
-| 2022-09-01 | 1585 | 139 | 
-| 2022-08-31 | 1584 | 139 | 
-| 2022-08-30 | 1580 | 140 | 
-| 2022-08-29 | 1578 | 139 | 
-| 2022-08-28 | 1573 | 139 | 
-| 2022-08-27 | 1566 | 139 | 
-| 2022-08-26 | 1557 | 139 | 
-| 2022-08-25 | 1551 | 139 | 
-| 2022-08-24 | 1530 | 136 | 
 
 
 [Detailed charts & statistics for WithSecureLabs/chainsaw](https://reviewgithub.com/rep/WithSecureLabs/chainsaw)

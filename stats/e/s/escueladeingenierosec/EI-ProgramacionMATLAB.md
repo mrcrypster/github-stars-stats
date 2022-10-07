@@ -1,12 +1,12 @@
-# escueladeingenierosec/EI-ProgramacionMATLAB / stars & forks statistics
-
-[Open repository/escueladeingenierosec/EI-ProgramacionMATLAB](https://github.com/escueladeingenierosec/EI-ProgramacionMATLAB)
+# escueladeingenierosec/EI-ProgramacionMATLAB - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 4
+
+[Open repository](https://github.com/escueladeingenierosec/EI-ProgramacionMATLAB)
 
 ## Historical data
 | Date | Stars | Forks |

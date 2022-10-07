@@ -1,12 +1,12 @@
-# eeveelo/SexLab / stars & forks statistics
-
-[Open repository/eeveelo/SexLab](https://github.com/eeveelo/SexLab)
+# eeveelo/SexLab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 18
+
+[Open repository](https://github.com/eeveelo/SexLab)
 
 ## Historical data
 | Date | Stars | Forks |

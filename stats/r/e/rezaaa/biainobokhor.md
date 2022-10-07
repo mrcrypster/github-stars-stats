@@ -1,6 +1,4 @@
-# rezaaa/biainobokhor / stars & forks statistics
-
-[Open repository/rezaaa/biainobokhor](https://github.com/rezaaa/biainobokhor)
+# rezaaa/biainobokhor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 19
 
+[Open repository](https://github.com/rezaaa/biainobokhor)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 19 | - | 
+| 2022-10-05 | 19 | - | 
+| 2022-10-04 | 19 | - | 
+| 2022-10-03 | 19 | - | 
 | 2022-10-02 | 19 | - | 
 | 2022-10-01 | 19 | - | 
 | 2022-09-30 | 19 | - | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 16 | - | 
 | 2022-09-09 | 16 | - | 
 | 2022-09-08 | 16 | - | 
-| 2022-09-07 | 16 | - | 
-| 2022-09-06 | 16 | - | 
-| 2022-09-05 | 16 | - | 
-| 2022-09-04 | 15 | - | 
-| 2022-09-03 | 15 | - | 
 
 
 [Detailed charts & statistics for rezaaa/biainobokhor](https://reviewgithub.com/rep/rezaaa/biainobokhor)

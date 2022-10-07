@@ -1,6 +1,4 @@
-# oceansystemslab/auv_msgs / stars & forks statistics
-
-[Open repository/oceansystemslab/auv_msgs](https://github.com/oceansystemslab/auv_msgs)
+# oceansystemslab/auv_msgs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/oceansystemslab/auv_msgs)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | 4 | 
+| 2022-10-05 | 7 | 4 | 
+| 2022-10-04 | 7 | 4 | 
+| 2022-10-03 | 7 | 4 | 
+| 2022-10-02 | 7 | 4 | 
 | 2022-10-01 | 7 | 4 | 
 | 2022-09-30 | 7 | 4 | 
 | 2022-09-29 | 7 | 4 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 7 | 4 | 
 | 2022-09-09 | 7 | 4 | 
 | 2022-09-08 | 7 | 4 | 
-| 2022-09-07 | 7 | 4 | 
-| 2022-09-06 | 7 | 4 | 
-| 2022-09-05 | 7 | 4 | 
-| 2022-09-04 | 7 | 4 | 
-| 2022-09-03 | 7 | 4 | 
-| 2022-09-02 | 7 | 4 | 
 
 
 [Detailed charts & statistics for oceansystemslab/auv_msgs](https://reviewgithub.com/rep/oceansystemslab/auv_msgs)

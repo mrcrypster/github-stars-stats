@@ -1,16 +1,23 @@
-# iam-NVN/SDMN_CheckerBot / stars & forks statistics
-
-[Open repository/iam-NVN/SDMN_CheckerBot](https://github.com/iam-NVN/SDMN_CheckerBot)
+# iam-NVN/SDMN_CheckerBot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 294
+☋ Forks: 297
 
-★ Stars: 157
+★ Stars: 162
+
+[Open repository](https://github.com/iam-NVN/SDMN_CheckerBot)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 162 | 297 | 
+| 2022-10-05 | 162 | 296 | 
+| 2022-10-04 | 160 | 295 | 
+| 2022-10-03 | 160 | 295 | 
+| 2022-10-02 | 159 | 293 | 
+| 2022-10-01 | 159 | 293 | 
+| 2022-09-30 | 158 | 294 | 
 | 2022-09-29 | 157 | 294 | 
 | 2022-09-28 | 156 | 293 | 
 | 2022-09-27 | 155 | 293 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 150 | 284 | 
 | 2022-09-09 | 148 | 281 | 
 | 2022-09-08 | 147 | 281 | 
-| 2022-09-07 | 147 | 280 | 
-| 2022-09-06 | 146 | 280 | 
-| 2022-09-05 | 146 | 280 | 
-| 2022-09-04 | 144 | 277 | 
-| 2022-09-03 | 144 | 276 | 
-| 2022-09-02 | 144 | 275 | 
-| 2022-09-01 | 143 | 274 | 
-| 2022-08-31 | 143 | 274 | 
 
 
 [Detailed charts & statistics for iam-NVN/SDMN_CheckerBot](https://reviewgithub.com/rep/iam-NVN/SDMN_CheckerBot)

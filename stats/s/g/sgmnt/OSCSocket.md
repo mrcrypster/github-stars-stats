@@ -1,12 +1,12 @@
-# sgmnt/OSCSocket / stars & forks statistics
-
-[Open repository/sgmnt/OSCSocket](https://github.com/sgmnt/OSCSocket)
+# sgmnt/OSCSocket - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/sgmnt/OSCSocket)
 
 ## Historical data
 | Date | Stars | Forks |

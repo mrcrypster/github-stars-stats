@@ -1,16 +1,26 @@
-# WheatBox/WheatCloudSleep / stars & forks statistics
-
-[Open repository/WheatBox/WheatCloudSleep](https://github.com/WheatBox/WheatCloudSleep)
+# WheatBox/WheatCloudSleep - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 290
+★ Stars: 296
+
+[Open repository](https://github.com/WheatBox/WheatCloudSleep)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 296 | 35 | 
+| 2022-10-05 | 295 | 35 | 
+| 2022-10-04 | 295 | 35 | 
+| 2022-10-03 | 294 | 35 | 
+| 2022-10-02 | 294 | 35 | 
+| 2022-10-01 | 294 | 35 | 
+| 2022-09-30 | 293 | 35 | 
+| 2022-09-29 | 293 | 35 | 
+| 2022-09-28 | 292 | 35 | 
+| 2022-09-27 | 292 | 35 | 
 | 2022-09-26 | 290 | 34 | 
 | 2022-09-25 | 286 | 34 | 
 | 2022-09-24 | 286 | 34 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 190 | 22 | 
 | 2022-09-08 | 185 | 21 | 
 | 2022-09-07 | 185 | 21 | 
-| 2022-09-06 | 176 | 20 | 
-| 2022-09-05 | 173 | 19 | 
-| 2022-09-04 | 162 | 19 | 
-| 2022-09-03 | 154 | 19 | 
-| 2022-09-02 | 152 | 19 | 
-| 2022-09-01 | 152 | 19 | 
-| 2022-08-31 | 149 | 19 | 
-| 2022-08-30 | 141 | 18 | 
-| 2022-08-29 | 132 | 15 | 
-| 2022-08-28 | 105 | 14 | 
 
 
 [Detailed charts & statistics for WheatBox/WheatCloudSleep](https://reviewgithub.com/rep/WheatBox/WheatCloudSleep)

@@ -1,16 +1,26 @@
-# kagurazakasanae/Mhyprot2DrvControl / stars & forks statistics
-
-[Open repository/kagurazakasanae/Mhyprot2DrvControl](https://github.com/kagurazakasanae/Mhyprot2DrvControl)
+# kagurazakasanae/Mhyprot2DrvControl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 62
 
-★ Stars: 241
+★ Stars: 245
+
+[Open repository](https://github.com/kagurazakasanae/Mhyprot2DrvControl)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 245 | 62 | 
+| 2022-10-06 | 243 | 62 | 
+| 2022-10-05 | 243 | 62 | 
+| 2022-10-04 | 241 | 62 | 
+| 2022-10-03 | 241 | 62 | 
+| 2022-10-02 | 241 | 62 | 
+| 2022-10-01 | 241 | 62 | 
+| 2022-09-30 | 241 | 62 | 
+| 2022-09-29 | 241 | 62 | 
+| 2022-09-28 | 241 | 62 | 
 | 2022-09-27 | 241 | 62 | 
 | 2022-09-25 | 240 | 62 | 
 | 2022-09-24 | 239 | 62 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 232 | 60 | 
 | 2022-09-08 | 232 | 60 | 
 | 2022-09-07 | 232 | 60 | 
-| 2022-09-06 | 227 | 57 | 
-| 2022-09-05 | 225 | 57 | 
-| 2022-09-04 | 225 | 54 | 
-| 2022-09-03 | 223 | 54 | 
-| 2022-09-02 | 219 | 52 | 
-| 2022-09-01 | 217 | 52 | 
-| 2022-08-31 | 214 | 51 | 
-| 2022-08-30 | 208 | 51 | 
-| 2022-08-29 | 204 | 51 | 
-| 2022-08-28 | 199 | 49 | 
 
 
 [Detailed charts & statistics for kagurazakasanae/Mhyprot2DrvControl](https://reviewgithub.com/rep/kagurazakasanae/Mhyprot2DrvControl)

@@ -1,12 +1,12 @@
-# inspiradanacomputacao/tecnologistas-contra-bolsonaro / stars & forks statistics
-
-[Open repository/inspiradanacomputacao/tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro)
+# inspiradanacomputacao/tecnologistas-contra-bolsonaro - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 174
 
 ★ Stars: 161
+
+[Open repository](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro)
 
 ## Historical data
 | Date | Stars | Forks |

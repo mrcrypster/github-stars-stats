@@ -1,16 +1,30 @@
-# para-space/paraspace-core / stars & forks statistics
-
-[Open repository/para-space/paraspace-core](https://github.com/para-space/paraspace-core)
+# para-space/paraspace-core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 7
+
+[Open repository](https://github.com/para-space/paraspace-core)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | 2 | 
+| 2022-10-05 | 7 | 2 | 
+| 2022-10-04 | 7 | 2 | 
+| 2022-10-03 | 7 | 2 | 
+| 2022-10-02 | 7 | 2 | 
+| 2022-10-01 | 6 | 2 | 
+| 2022-09-30 | 6 | 2 | 
+| 2022-09-29 | 6 | 2 | 
+| 2022-09-28 | 6 | 2 | 
+| 2022-09-27 | 6 | 2 | 
+| 2022-09-26 | 6 | 2 | 
+| 2022-09-25 | 6 | 1 | 
+| 2022-09-24 | 6 | 1 | 
+| 2022-09-23 | 6 | 1 | 
 | 2022-09-22 | 6 | 1 | 
 | 2022-09-21 | 5 | 1 | 
 | 2022-09-20 | 5 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 5 | 1 | 
 | 2022-09-08 | 5 | 1 | 
 | 2022-09-07 | 5 | 1 | 
-| 2022-09-06 | 3 | 1 | 
-| 2022-09-05 | 3 | 1 | 
-| 2022-09-04 | 3 | 1 | 
-| 2022-09-03 | 3 | 1 | 
-| 2022-09-02 | 3 | 1 | 
-| 2022-09-01 | 3 | 1 | 
-| 2022-08-31 | 3 | 1 | 
-| 2022-08-30 | 3 | 1 | 
-| 2022-08-29 | 3 | 1 | 
-| 2022-08-28 | 2 | - | 
-| 2022-08-27 | 2 | - | 
-| 2022-08-26 | 2 | - | 
-| 2022-08-25 | 2 | - | 
-| 2022-08-24 | 2 | - | 
 
 
 [Detailed charts & statistics for para-space/paraspace-core](https://reviewgithub.com/rep/para-space/paraspace-core)

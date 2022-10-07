@@ -1,6 +1,4 @@
-# nbuntsch/exercice-maquette-mobile-cook / stars & forks statistics
-
-[Open repository/nbuntsch/exercice-maquette-mobile-cook](https://github.com/nbuntsch/exercice-maquette-mobile-cook)
+# nbuntsch/exercice-maquette-mobile-cook - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/nbuntsch/exercice-maquette-mobile-cook)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 38 | 
+| 2022-10-05 | - | 38 | 
+| 2022-10-04 | - | 38 | 
+| 2022-10-03 | - | 38 | 
+| 2022-10-02 | - | 38 | 
+| 2022-10-01 | - | 38 | 
 | 2022-09-30 | - | 38 | 
 | 2022-09-29 | - | 38 | 
 | 2022-09-28 | - | 38 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 38 | 
 | 2022-09-09 | - | 38 | 
 | 2022-09-08 | - | 38 | 
-| 2022-09-07 | - | 38 | 
-| 2022-09-06 | - | 38 | 
-| 2022-09-05 | - | 38 | 
-| 2022-09-04 | - | 38 | 
-| 2022-09-03 | - | 38 | 
-| 2022-09-02 | - | 38 | 
-| 2022-09-01 | - | 38 | 
 
 
 [Detailed charts & statistics for nbuntsch/exercice-maquette-mobile-cook](https://reviewgithub.com/rep/nbuntsch/exercice-maquette-mobile-cook)

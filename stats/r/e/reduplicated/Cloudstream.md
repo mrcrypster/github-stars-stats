@@ -1,18 +1,16 @@
-# reduplicated/Cloudstream / stars & forks statistics
-
-[Open repository/reduplicated/Cloudstream](https://github.com/reduplicated/Cloudstream)
+# reduplicated/Cloudstream - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 12
+☋ Forks: 
 
-★ Stars: 93
+★ Stars: 
+
+[Open repository](https://github.com/reduplicated/Cloudstream)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-09 | 93 | 12 | 
-| 2022-08-08 | 77 | 11 | 
 
 
 [Detailed charts & statistics for reduplicated/Cloudstream](https://reviewgithub.com/rep/reduplicated/Cloudstream)

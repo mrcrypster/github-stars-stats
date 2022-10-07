@@ -1,12 +1,12 @@
-# dsasaank-369/Pokemon / stars & forks statistics
-
-[Open repository/dsasaank-369/Pokemon](https://github.com/dsasaank-369/Pokemon)
+# dsasaank-369/Pokemon - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 105
 
 ★ Stars: 34
+
+[Open repository](https://github.com/dsasaank-369/Pokemon)
 
 ## Historical data
 | Date | Stars | Forks |

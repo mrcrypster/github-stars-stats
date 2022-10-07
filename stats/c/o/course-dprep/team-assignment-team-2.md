@@ -1,12 +1,12 @@
-# course-dprep/team-assignment-team-2 / stars & forks statistics
-
-[Open repository/course-dprep/team-assignment-team-2](https://github.com/course-dprep/team-assignment-team-2)
+# course-dprep/team-assignment-team-2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
+
+[Open repository](https://github.com/course-dprep/team-assignment-team-2)
 
 ## Historical data
 | Date | Stars | Forks |

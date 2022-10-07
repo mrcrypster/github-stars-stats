@@ -1,12 +1,12 @@
-# KiranAminPanjwani/Randomized-Color-Lab / stars & forks statistics
-
-[Open repository/KiranAminPanjwani/Randomized-Color-Lab](https://github.com/KiranAminPanjwani/Randomized-Color-Lab)
+# KiranAminPanjwani/Randomized-Color-Lab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 13
+
+[Open repository](https://github.com/KiranAminPanjwani/Randomized-Color-Lab)
 
 ## Historical data
 | Date | Stars | Forks |

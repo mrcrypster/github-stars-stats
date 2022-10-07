@@ -1,12 +1,12 @@
-# thomcom/vim / stars & forks statistics
-
-[Open repository/thomcom/vim](https://github.com/thomcom/vim)
+# thomcom/vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/thomcom/vim)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# k0ekk0ek/firefox-branding / stars & forks statistics
-
-[Open repository/k0ekk0ek/firefox-branding](https://github.com/k0ekk0ek/firefox-branding)
+# k0ekk0ek/firefox-branding - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/k0ekk0ek/firefox-branding)
 
 ## Historical data
 | Date | Stars | Forks |

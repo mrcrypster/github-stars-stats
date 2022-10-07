@@ -1,12 +1,12 @@
-# soulwire/Plasmatic-Isosurface / stars & forks statistics
-
-[Open repository/soulwire/Plasmatic-Isosurface](https://github.com/soulwire/Plasmatic-Isosurface)
+# soulwire/Plasmatic-Isosurface - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 133
+
+[Open repository](https://github.com/soulwire/Plasmatic-Isosurface)
 
 ## Historical data
 | Date | Stars | Forks |

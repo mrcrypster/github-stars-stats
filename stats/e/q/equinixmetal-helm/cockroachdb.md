@@ -1,12 +1,12 @@
-# equinixmetal-helm/cockroachdb / stars & forks statistics
-
-[Open repository/equinixmetal-helm/cockroachdb](https://github.com/equinixmetal-helm/cockroachdb)
+# equinixmetal-helm/cockroachdb - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/equinixmetal-helm/cockroachdb)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# IObundle/iob-soc-tester / stars & forks statistics
-
-[Open repository/IObundle/iob-soc-tester](https://github.com/IObundle/iob-soc-tester)
+# IObundle/iob-soc-tester - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/IObundle/iob-soc-tester)
 
 ## Historical data
 | Date | Stars | Forks |

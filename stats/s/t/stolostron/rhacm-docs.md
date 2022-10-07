@@ -1,16 +1,30 @@
-# stolostron/rhacm-docs / stars & forks statistics
-
-[Open repository/stolostron/rhacm-docs](https://github.com/stolostron/rhacm-docs)
+# stolostron/rhacm-docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 43
+★ Stars: 45
+
+[Open repository](https://github.com/stolostron/rhacm-docs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 45 | 62 | 
+| 2022-10-06 | 45 | 62 | 
+| 2022-10-05 | 45 | 62 | 
+| 2022-10-04 | 45 | 62 | 
+| 2022-10-03 | 45 | 62 | 
+| 2022-10-02 | 45 | 62 | 
+| 2022-10-01 | 45 | 62 | 
+| 2022-09-30 | 45 | 62 | 
+| 2022-09-29 | 45 | 61 | 
+| 2022-09-28 | 44 | 61 | 
+| 2022-09-27 | 44 | 61 | 
+| 2022-09-26 | 44 | 61 | 
+| 2022-09-25 | 43 | 61 | 
+| 2022-09-24 | 43 | 61 | 
 | 2022-09-23 | 43 | 61 | 
 | 2022-09-22 | 43 | 61 | 
 | 2022-09-21 | 43 | 61 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 43 | 60 | 
 | 2022-09-08 | 43 | 60 | 
 | 2022-09-07 | 43 | 60 | 
-| 2022-09-06 | 43 | 60 | 
-| 2022-09-05 | 43 | 60 | 
-| 2022-09-04 | 43 | 60 | 
-| 2022-09-03 | 43 | 60 | 
-| 2022-09-02 | 43 | 60 | 
-| 2022-09-01 | 43 | 60 | 
-| 2022-08-31 | 43 | 60 | 
-| 2022-08-30 | 43 | 60 | 
-| 2022-08-29 | 43 | 59 | 
-| 2022-08-28 | 43 | 59 | 
-| 2022-08-27 | 43 | 59 | 
-| 2022-08-26 | 43 | 59 | 
-| 2022-08-25 | 43 | 59 | 
-| 2022-08-24 | 43 | 59 | 
 
 
 [Detailed charts & statistics for stolostron/rhacm-docs](https://reviewgithub.com/rep/stolostron/rhacm-docs)

@@ -1,12 +1,12 @@
-# hehonghui/the-economist-ebooks / stars & forks statistics
-
-[Open repository/hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)
+# hehonghui/the-economist-ebooks - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/hehonghui/the-economist-ebooks)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# t4sk/sol-best-practices / stars & forks statistics
-
-[Open repository/t4sk/sol-best-practices](https://github.com/t4sk/sol-best-practices)
+# t4sk/sol-best-practices - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 24
+
+[Open repository](https://github.com/t4sk/sol-best-practices)
 
 ## Historical data
 | Date | Stars | Forks |

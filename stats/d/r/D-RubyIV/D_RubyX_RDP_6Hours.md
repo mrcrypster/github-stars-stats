@@ -1,6 +1,4 @@
-# D-RubyIV/D_RubyX_RDP_6Hours / stars & forks statistics
-
-[Open repository/D-RubyIV/D_RubyX_RDP_6Hours](https://github.com/D-RubyIV/D_RubyX_RDP_6Hours)
+# D-RubyIV/D_RubyX_RDP_6Hours - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/D-RubyIV/D_RubyX_RDP_6Hours)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 14 | 
+| 2022-10-05 | - | 14 | 
+| 2022-10-04 | - | 14 | 
+| 2022-10-03 | - | 14 | 
+| 2022-10-02 | - | 14 | 
+| 2022-10-01 | - | 14 | 
+| 2022-09-30 | - | 14 | 
+| 2022-09-29 | - | 14 | 
 | 2022-09-28 | - | 14 | 
 | 2022-09-27 | - | 14 | 
 | 2022-09-26 | - | 14 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 14 | 
 | 2022-09-09 | - | 14 | 
 | 2022-09-08 | - | 14 | 
-| 2022-09-07 | - | 14 | 
-| 2022-09-06 | - | 14 | 
-| 2022-09-05 | - | 10 | 
-| 2022-09-04 | - | 8 | 
-| 2022-09-03 | - | 8 | 
-| 2022-09-02 | - | 8 | 
-| 2022-09-01 | - | 6 | 
-| 2022-08-31 | - | 5 | 
-| 2022-08-30 | - | 5 | 
 
 
 [Detailed charts & statistics for D-RubyIV/D_RubyX_RDP_6Hours](https://reviewgithub.com/rep/D-RubyIV/D_RubyX_RDP_6Hours)

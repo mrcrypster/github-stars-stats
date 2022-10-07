@@ -1,46 +1,46 @@
-# guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB / stars & forks statistics
-
-[Open repository/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB](https://github.com/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB)
+# guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 29
+☋ Forks: 33
 
-★ Stars: 57
+★ Stars: 63
+
+[Open repository](https://github.com/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 57 | 29 | 
-| 2022-07-29 | 57 | 29 | 
-| 2022-07-28 | 57 | 29 | 
-| 2022-07-27 | 57 | 29 | 
-| 2022-07-26 | 56 | 29 | 
-| 2022-07-25 | 56 | 29 | 
-| 2022-07-24 | 56 | 29 | 
-| 2022-07-23 | 56 | 29 | 
-| 2022-07-22 | 56 | 28 | 
-| 2022-07-21 | 56 | 28 | 
-| 2022-07-20 | 56 | 28 | 
-| 2022-07-19 | 56 | 28 | 
-| 2022-07-18 | 56 | 28 | 
-| 2022-07-17 | 56 | 28 | 
-| 2022-07-16 | 55 | 28 | 
-| 2022-07-15 | 55 | 28 | 
-| 2022-07-14 | 55 | 28 | 
-| 2022-07-13 | 55 | 28 | 
-| 2022-07-12 | 55 | 28 | 
-| 2022-07-11 | 54 | 28 | 
-| 2022-07-10 | 54 | 28 | 
-| 2022-07-09 | 54 | 28 | 
-| 2022-07-08 | 54 | 28 | 
-| 2022-07-07 | 54 | 28 | 
-| 2022-07-06 | 54 | 28 | 
-| 2022-07-05 | 53 | 28 | 
-| 2022-07-04 | 53 | 28 | 
-| 2022-07-03 | 53 | 28 | 
-| 2022-07-02 | 53 | 28 | 
-| 2022-07-01 | 53 | 28 | 
+| 2022-10-06 | 63 | 33 | 
+| 2022-10-05 | 63 | 33 | 
+| 2022-10-04 | 63 | 33 | 
+| 2022-10-03 | 63 | 33 | 
+| 2022-10-02 | 63 | 33 | 
+| 2022-10-01 | 63 | 33 | 
+| 2022-09-30 | 63 | 33 | 
+| 2022-09-29 | 63 | 33 | 
+| 2022-09-28 | 63 | 33 | 
+| 2022-09-27 | 63 | 33 | 
+| 2022-09-26 | 63 | 32 | 
+| 2022-09-25 | 63 | 32 | 
+| 2022-09-24 | 64 | 32 | 
+| 2022-09-23 | 64 | 32 | 
+| 2022-09-22 | 64 | 32 | 
+| 2022-09-21 | 64 | 32 | 
+| 2022-09-20 | 64 | 32 | 
+| 2022-09-19 | 64 | 32 | 
+| 2022-09-18 | 64 | 32 | 
+| 2022-09-17 | 64 | 32 | 
+| 2022-09-16 | 64 | 32 | 
+| 2022-09-15 | 64 | 32 | 
+| 2022-09-14 | 64 | 32 | 
+| 2022-09-13 | 64 | 32 | 
+| 2022-09-12 | 64 | 32 | 
+| 2022-09-11 | 64 | 32 | 
+| 2022-09-10 | 64 | 32 | 
+| 2022-09-09 | 64 | 32 | 
+| 2022-09-08 | 64 | 32 | 
+| 2022-09-07 | 63 | 32 | 
 
 
 [Detailed charts & statistics for guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB](https://reviewgithub.com/rep/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB)

@@ -1,16 +1,28 @@
-# numToStr/FTerm.nvim / stars & forks statistics
-
-[Open repository/numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)
+# numToStr/FTerm.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
-★ Stars: 474
+★ Stars: 480
+
+[Open repository](https://github.com/numToStr/FTerm.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 480 | 16 | 
+| 2022-10-06 | 480 | 16 | 
+| 2022-10-05 | 480 | 16 | 
+| 2022-10-04 | 479 | 16 | 
+| 2022-10-03 | 479 | 16 | 
+| 2022-10-02 | 477 | 16 | 
+| 2022-10-01 | 477 | 16 | 
+| 2022-09-30 | 478 | 16 | 
+| 2022-09-29 | 478 | 16 | 
+| 2022-09-28 | 478 | 16 | 
+| 2022-09-27 | 476 | 16 | 
+| 2022-09-26 | 475 | 16 | 
 | 2022-09-25 | 474 | 16 | 
 | 2022-09-24 | 473 | 16 | 
 | 2022-09-23 | 473 | 16 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 469 | 16 | 
 | 2022-09-08 | 469 | 15 | 
 | 2022-09-07 | 469 | 15 | 
-| 2022-09-06 | 469 | 15 | 
-| 2022-09-05 | 469 | 15 | 
-| 2022-09-04 | 469 | 15 | 
-| 2022-09-03 | 469 | 15 | 
-| 2022-09-02 | 469 | 15 | 
-| 2022-09-01 | 468 | 15 | 
-| 2022-08-31 | 465 | 16 | 
-| 2022-08-30 | 465 | 16 | 
-| 2022-08-29 | 464 | 16 | 
-| 2022-08-28 | 464 | 16 | 
-| 2022-08-27 | 463 | 16 | 
-| 2022-08-26 | 463 | 16 | 
 
 
 [Detailed charts & statistics for numToStr/FTerm.nvim](https://reviewgithub.com/rep/numToStr/FTerm.nvim)

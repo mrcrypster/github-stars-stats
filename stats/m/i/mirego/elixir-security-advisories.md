@@ -1,16 +1,35 @@
-# mirego/elixir-security-advisories / stars & forks statistics
-
-[Open repository/mirego/elixir-security-advisories](https://github.com/mirego/elixir-security-advisories)
+# mirego/elixir-security-advisories - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 33
+
+[Open repository](https://github.com/mirego/elixir-security-advisories)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 33 | 1 | 
+| 2022-10-05 | 33 | 1 | 
+| 2022-10-04 | 32 | 1 | 
+| 2022-10-03 | 32 | 1 | 
+| 2022-10-02 | 32 | 1 | 
+| 2022-10-01 | 32 | 1 | 
+| 2022-09-30 | 32 | 1 | 
+| 2022-09-29 | 32 | 1 | 
+| 2022-09-28 | 32 | 1 | 
+| 2022-09-27 | 32 | 1 | 
+| 2022-09-26 | 32 | 1 | 
+| 2022-09-25 | 32 | 1 | 
+| 2022-09-24 | 32 | 1 | 
+| 2022-09-23 | 32 | 1 | 
+| 2022-09-22 | 32 | 1 | 
+| 2022-09-21 | 32 | 1 | 
+| 2022-09-20 | 32 | 1 | 
+| 2022-09-19 | 31 | 1 | 
+| 2022-09-18 | 31 | 1 | 
 | 2022-09-17 | 31 | 1 | 
 | 2022-09-16 | 31 | 1 | 
 | 2022-09-15 | 31 | 1 | 
@@ -21,26 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 31 | 1 | 
 | 2022-09-09 | 31 | 1 | 
 | 2022-09-08 | 31 | 1 | 
-| 2022-09-07 | 31 | 1 | 
-| 2022-09-06 | 31 | 1 | 
-| 2022-09-05 | 31 | 1 | 
-| 2022-09-04 | 31 | 1 | 
-| 2022-09-03 | 30 | 1 | 
-| 2022-09-02 | 29 | 1 | 
-| 2022-09-01 | 29 | 1 | 
-| 2022-08-31 | 29 | 1 | 
-| 2022-08-30 | 28 | 1 | 
-| 2022-08-29 | 28 | 1 | 
-| 2022-08-28 | 28 | 1 | 
-| 2022-08-27 | 28 | 1 | 
-| 2022-08-26 | 28 | 1 | 
-| 2022-08-25 | 28 | 1 | 
-| 2022-08-24 | 28 | 1 | 
-| 2022-08-23 | 28 | - | 
-| 2022-08-22 | 28 | - | 
-| 2022-08-21 | 28 | - | 
-| 2022-08-20 | 28 | - | 
-| 2022-08-19 | 28 | - | 
 
 
 [Detailed charts & statistics for mirego/elixir-security-advisories](https://reviewgithub.com/rep/mirego/elixir-security-advisories)

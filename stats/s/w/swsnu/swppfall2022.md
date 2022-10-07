@@ -1,6 +1,4 @@
-# swsnu/swppfall2022 / stars & forks statistics
-
-[Open repository/swsnu/swppfall2022](https://github.com/swsnu/swppfall2022)
+# swsnu/swppfall2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 34
 
+[Open repository](https://github.com/swsnu/swppfall2022)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 34 | 5 | 
+| 2022-10-05 | 34 | 5 | 
 | 2022-10-04 | 34 | 5 | 
 | 2022-10-03 | 34 | 5 | 
 | 2022-10-02 | 34 | 5 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 30 | 2 | 
 | 2022-09-09 | 29 | 2 | 
 | 2022-09-08 | 27 | 1 | 
-| 2022-09-07 | 25 | 1 | 
-| 2022-09-06 | 24 | 1 | 
-| 2022-09-05 | 21 | 1 | 
 
 
 [Detailed charts & statistics for swsnu/swppfall2022](https://reviewgithub.com/rep/swsnu/swppfall2022)

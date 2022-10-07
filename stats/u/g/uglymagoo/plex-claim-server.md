@@ -1,16 +1,28 @@
-# uglymagoo/plex-claim-server / stars & forks statistics
-
-[Open repository/uglymagoo/plex-claim-server](https://github.com/uglymagoo/plex-claim-server)
+# uglymagoo/plex-claim-server - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
-★ Stars: 64
+★ Stars: 65
+
+[Open repository](https://github.com/uglymagoo/plex-claim-server)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 65 | 9 | 
+| 2022-10-06 | 65 | 9 | 
+| 2022-10-05 | 65 | 9 | 
+| 2022-10-04 | 64 | 9 | 
+| 2022-10-03 | 64 | 9 | 
+| 2022-10-02 | 64 | 9 | 
+| 2022-10-01 | 64 | 9 | 
+| 2022-09-30 | 64 | 9 | 
+| 2022-09-29 | 64 | 9 | 
+| 2022-09-28 | 64 | 9 | 
+| 2022-09-27 | 64 | 9 | 
+| 2022-09-26 | 64 | 9 | 
 | 2022-09-24 | 64 | 9 | 
 | 2022-09-23 | 64 | 9 | 
 | 2022-09-22 | 63 | 9 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 61 | 9 | 
 | 2022-09-08 | 61 | 9 | 
 | 2022-09-07 | 61 | 9 | 
-| 2022-09-06 | 61 | 9 | 
-| 2022-09-05 | 61 | 9 | 
-| 2022-09-04 | 61 | 9 | 
-| 2022-09-03 | 61 | 9 | 
-| 2022-09-02 | 61 | 9 | 
-| 2022-09-01 | 61 | 9 | 
-| 2022-08-31 | 60 | 9 | 
-| 2022-08-30 | 60 | 9 | 
-| 2022-08-29 | 60 | 9 | 
-| 2022-08-28 | 60 | 9 | 
-| 2022-08-27 | 60 | 8 | 
-| 2022-08-26 | 59 | 8 | 
 
 
 [Detailed charts & statistics for uglymagoo/plex-claim-server](https://reviewgithub.com/rep/uglymagoo/plex-claim-server)

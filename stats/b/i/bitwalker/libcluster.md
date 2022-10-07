@@ -1,16 +1,28 @@
-# bitwalker/libcluster / stars & forks statistics
-
-[Open repository/bitwalker/libcluster](https://github.com/bitwalker/libcluster)
+# bitwalker/libcluster - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 168
+☋ Forks: 169
 
-★ Stars: 1613
+★ Stars: 1617
+
+[Open repository](https://github.com/bitwalker/libcluster)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1617 | 169 | 
+| 2022-10-05 | 1617 | 169 | 
+| 2022-10-04 | 1617 | 168 | 
+| 2022-10-03 | 1616 | 168 | 
+| 2022-10-02 | 1616 | 168 | 
+| 2022-10-01 | 1616 | 167 | 
+| 2022-09-30 | 1615 | 167 | 
+| 2022-09-29 | 1614 | 167 | 
+| 2022-09-28 | 1613 | 167 | 
+| 2022-09-27 | 1613 | 167 | 
+| 2022-09-26 | 1613 | 167 | 
+| 2022-09-25 | 1613 | 167 | 
 | 2022-09-24 | 1613 | 168 | 
 | 2022-09-23 | 1614 | 168 | 
 | 2022-09-22 | 1614 | 167 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1610 | 165 | 
 | 2022-09-09 | 1609 | 165 | 
 | 2022-09-08 | 1609 | 165 | 
-| 2022-09-07 | 1609 | 165 | 
-| 2022-09-05 | 1609 | 165 | 
-| 2022-09-04 | 1609 | 164 | 
-| 2022-09-03 | 1609 | 164 | 
-| 2022-09-02 | 1608 | 164 | 
-| 2022-09-01 | 1607 | 164 | 
-| 2022-08-31 | 1606 | 164 | 
-| 2022-08-30 | 1606 | 164 | 
-| 2022-08-29 | 1606 | 164 | 
-| 2022-08-28 | 1607 | 164 | 
-| 2022-08-27 | 1606 | 164 | 
-| 2022-08-26 | 1606 | 164 | 
-| 2022-08-25 | 1605 | 164 | 
 
 
 [Detailed charts & statistics for bitwalker/libcluster](https://reviewgithub.com/rep/bitwalker/libcluster)

@@ -1,12 +1,12 @@
-# fabriziosestito/contracts / stars & forks statistics
-
-[Open repository/fabriziosestito/contracts](https://github.com/fabriziosestito/contracts)
+# fabriziosestito/contracts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/fabriziosestito/contracts)
 
 ## Historical data
 | Date | Stars | Forks |

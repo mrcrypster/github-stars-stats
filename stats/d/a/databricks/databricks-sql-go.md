@@ -1,6 +1,4 @@
-# databricks/databricks-sql-go / stars & forks statistics
-
-[Open repository/databricks/databricks-sql-go](https://github.com/databricks/databricks-sql-go)
+# databricks/databricks-sql-go - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 15
 
+[Open repository](https://github.com/databricks/databricks-sql-go)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 15 | 9 | 
+| 2022-10-06 | 15 | 9 | 
+| 2022-10-05 | 15 | 9 | 
+| 2022-10-04 | 15 | 9 | 
+| 2022-10-03 | 15 | 9 | 
+| 2022-10-02 | 15 | 9 | 
+| 2022-10-01 | 15 | 9 | 
+| 2022-09-30 | 15 | 9 | 
+| 2022-09-29 | 15 | 9 | 
+| 2022-09-28 | 15 | 9 | 
 | 2022-09-27 | 15 | 9 | 
 | 2022-09-26 | 15 | 8 | 
 | 2022-09-25 | 15 | 8 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 15 | 8 | 
 | 2022-09-08 | 15 | 8 | 
 | 2022-09-07 | 15 | 8 | 
-| 2022-09-06 | 15 | 7 | 
-| 2022-09-05 | 15 | 7 | 
-| 2022-09-04 | 15 | 7 | 
-| 2022-09-03 | 15 | 7 | 
-| 2022-09-02 | 15 | 7 | 
-| 2022-09-01 | 15 | 7 | 
-| 2022-08-31 | 15 | 7 | 
-| 2022-08-30 | 15 | 7 | 
-| 2022-08-29 | 15 | 7 | 
-| 2022-08-28 | 15 | 7 | 
 
 
 [Detailed charts & statistics for databricks/databricks-sql-go](https://reviewgithub.com/rep/databricks/databricks-sql-go)

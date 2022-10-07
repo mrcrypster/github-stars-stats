@@ -1,12 +1,12 @@
-# deepin-community/camlzip / stars & forks statistics
-
-[Open repository/deepin-community/camlzip](https://github.com/deepin-community/camlzip)
+# deepin-community/camlzip - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/camlzip)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,27 @@
-# olcf/cuda-training-series / stars & forks statistics
-
-[Open repository/olcf/cuda-training-series](https://github.com/olcf/cuda-training-series)
+# olcf/cuda-training-series - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 77
+☋ Forks: 80
 
-★ Stars: 156
+★ Stars: 162
+
+[Open repository](https://github.com/olcf/cuda-training-series)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 162 | 80 | 
+| 2022-10-05 | 161 | 80 | 
+| 2022-10-04 | 161 | 80 | 
+| 2022-10-03 | 161 | 80 | 
+| 2022-10-02 | 161 | 80 | 
+| 2022-10-01 | 161 | 80 | 
+| 2022-09-30 | 161 | 80 | 
+| 2022-09-29 | 160 | 79 | 
+| 2022-09-28 | 159 | 79 | 
+| 2022-09-27 | 158 | 79 | 
+| 2022-09-26 | 158 | 78 | 
 | 2022-09-25 | 156 | 77 | 
 | 2022-09-24 | 156 | 77 | 
 | 2022-09-23 | 156 | 77 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 141 | 74 | 
 | 2022-09-09 | 141 | 74 | 
 | 2022-09-08 | 141 | 74 | 
-| 2022-09-07 | 141 | 74 | 
-| 2022-09-06 | 141 | 73 | 
-| 2022-09-05 | 141 | 73 | 
-| 2022-09-04 | 141 | 73 | 
-| 2022-09-03 | 141 | 73 | 
-| 2022-09-02 | 141 | 73 | 
-| 2022-09-01 | 141 | 73 | 
-| 2022-08-31 | 141 | 73 | 
-| 2022-08-30 | 139 | 73 | 
-| 2022-08-29 | 138 | 73 | 
-| 2022-08-28 | 138 | 73 | 
-| 2022-08-27 | 137 | 73 | 
 
 
 [Detailed charts & statistics for olcf/cuda-training-series](https://reviewgithub.com/rep/olcf/cuda-training-series)

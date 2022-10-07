@@ -1,6 +1,4 @@
-# AmirulAndalib/MLTB-ALPINE-DOCKER / stars & forks statistics
-
-[Open repository/AmirulAndalib/MLTB-ALPINE-DOCKER](https://github.com/AmirulAndalib/MLTB-ALPINE-DOCKER)
+# AmirulAndalib/MLTB-ALPINE-DOCKER - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 13
 
+[Open repository](https://github.com/AmirulAndalib/MLTB-ALPINE-DOCKER)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 13 | 20 | 
+| 2022-10-05 | 13 | 20 | 
+| 2022-10-04 | 13 | 20 | 
+| 2022-10-03 | 13 | 20 | 
+| 2022-10-02 | 13 | 20 | 
+| 2022-10-01 | 13 | 20 | 
+| 2022-09-30 | 13 | 20 | 
 | 2022-09-29 | 13 | 20 | 
 | 2022-09-28 | 13 | 20 | 
 | 2022-09-27 | 13 | 20 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 17 | 
 | 2022-09-09 | 10 | 17 | 
 | 2022-09-08 | 10 | 17 | 
-| 2022-09-07 | 10 | 16 | 
-| 2022-09-06 | 10 | 15 | 
-| 2022-09-05 | 10 | 15 | 
-| 2022-09-04 | 10 | 15 | 
-| 2022-09-03 | 10 | 14 | 
-| 2022-09-02 | 10 | 14 | 
-| 2022-09-01 | 10 | 14 | 
-| 2022-08-31 | 10 | 14 | 
 
 
 [Detailed charts & statistics for AmirulAndalib/MLTB-ALPINE-DOCKER](https://reviewgithub.com/rep/AmirulAndalib/MLTB-ALPINE-DOCKER)

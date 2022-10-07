@@ -1,12 +1,12 @@
-# JuliaMath/Bessels.jl / stars & forks statistics
-
-[Open repository/JuliaMath/Bessels.jl](https://github.com/JuliaMath/Bessels.jl)
+# JuliaMath/Bessels.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 48
+
+[Open repository](https://github.com/JuliaMath/Bessels.jl)
 
 ## Historical data
 | Date | Stars | Forks |

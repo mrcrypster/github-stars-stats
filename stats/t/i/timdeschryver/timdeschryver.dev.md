@@ -1,16 +1,32 @@
-# timdeschryver/timdeschryver.dev / stars & forks statistics
-
-[Open repository/timdeschryver/timdeschryver.dev](https://github.com/timdeschryver/timdeschryver.dev)
+# timdeschryver/timdeschryver.dev - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
-★ Stars: 29
+★ Stars: 30
+
+[Open repository](https://github.com/timdeschryver/timdeschryver.dev)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 30 | 26 | 
+| 2022-10-06 | 30 | 26 | 
+| 2022-10-05 | 30 | 26 | 
+| 2022-10-04 | 29 | 26 | 
+| 2022-10-03 | 29 | 26 | 
+| 2022-10-02 | 29 | 26 | 
+| 2022-10-01 | 29 | 26 | 
+| 2022-09-30 | 29 | 26 | 
+| 2022-09-29 | 29 | 26 | 
+| 2022-09-28 | 29 | 26 | 
+| 2022-09-27 | 29 | 26 | 
+| 2022-09-26 | 29 | 26 | 
+| 2022-09-25 | 29 | 26 | 
+| 2022-09-24 | 29 | 26 | 
+| 2022-09-23 | 29 | 26 | 
+| 2022-09-22 | 29 | 26 | 
 | 2022-09-21 | 29 | 26 | 
 | 2022-09-20 | 29 | 26 | 
 | 2022-09-19 | 28 | 26 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 28 | 26 | 
 | 2022-09-08 | 28 | 26 | 
 | 2022-09-07 | 28 | 26 | 
-| 2022-09-06 | 28 | 26 | 
-| 2022-09-05 | 28 | 26 | 
-| 2022-09-04 | 28 | 26 | 
-| 2022-09-03 | 28 | 26 | 
-| 2022-09-02 | 28 | 26 | 
-| 2022-09-01 | 28 | 26 | 
-| 2022-08-31 | 28 | 26 | 
-| 2022-08-30 | 28 | 26 | 
-| 2022-08-29 | 28 | 26 | 
-| 2022-08-28 | 28 | 26 | 
-| 2022-08-27 | 28 | 26 | 
-| 2022-08-26 | 28 | 26 | 
-| 2022-08-25 | 28 | 26 | 
-| 2022-08-24 | 28 | 26 | 
-| 2022-08-23 | 28 | 26 | 
-| 2022-08-22 | 28 | 26 | 
 
 
 [Detailed charts & statistics for timdeschryver/timdeschryver.dev](https://reviewgithub.com/rep/timdeschryver/timdeschryver.dev)

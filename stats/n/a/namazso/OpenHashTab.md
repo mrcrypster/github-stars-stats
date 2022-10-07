@@ -1,16 +1,28 @@
-# namazso/OpenHashTab / stars & forks statistics
-
-[Open repository/namazso/OpenHashTab](https://github.com/namazso/OpenHashTab)
+# namazso/OpenHashTab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 72
+☋ Forks: 74
 
-★ Stars: 1486
+★ Stars: 1517
+
+[Open repository](https://github.com/namazso/OpenHashTab)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1517 | 74 | 
+| 2022-10-06 | 1515 | 73 | 
+| 2022-10-05 | 1513 | 73 | 
+| 2022-10-04 | 1510 | 73 | 
+| 2022-10-03 | 1507 | 73 | 
+| 2022-10-02 | 1505 | 73 | 
+| 2022-10-01 | 1502 | 73 | 
+| 2022-09-30 | 1502 | 73 | 
+| 2022-09-28 | 1499 | 72 | 
+| 2022-09-27 | 1495 | 72 | 
+| 2022-09-26 | 1493 | 72 | 
+| 2022-09-25 | 1490 | 72 | 
 | 2022-09-24 | 1486 | 72 | 
 | 2022-09-23 | 1484 | 72 | 
 | 2022-09-22 | 1484 | 72 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1451 | 71 | 
 | 2022-09-08 | 1448 | 71 | 
 | 2022-09-07 | 1445 | 71 | 
-| 2022-09-06 | 1445 | 71 | 
-| 2022-09-05 | 1444 | 71 | 
-| 2022-09-04 | 1443 | 71 | 
-| 2022-09-03 | 1442 | 71 | 
-| 2022-09-02 | 1436 | 71 | 
-| 2022-09-01 | 1434 | 71 | 
-| 2022-08-31 | 1434 | 71 | 
-| 2022-08-30 | 1425 | 71 | 
-| 2022-08-29 | 1421 | 70 | 
-| 2022-08-28 | 1418 | 70 | 
-| 2022-08-27 | 1414 | 70 | 
-| 2022-08-26 | 1411 | 70 | 
 
 
 [Detailed charts & statistics for namazso/OpenHashTab](https://reviewgithub.com/rep/namazso/OpenHashTab)

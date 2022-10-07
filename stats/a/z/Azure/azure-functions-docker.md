@@ -1,12 +1,12 @@
-# Azure/azure-functions-docker / stars & forks statistics
-
-[Open repository/Azure/azure-functions-docker](https://github.com/Azure/azure-functions-docker)
+# Azure/azure-functions-docker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 101
 
 ★ Stars: 186
+
+[Open repository](https://github.com/Azure/azure-functions-docker)
 
 ## Historical data
 | Date | Stars | Forks |

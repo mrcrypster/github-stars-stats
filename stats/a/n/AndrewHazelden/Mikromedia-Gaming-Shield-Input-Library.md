@@ -1,12 +1,12 @@
-# AndrewHazelden/Mikromedia-Gaming-Shield-Input-Library / stars & forks statistics
-
-[Open repository/AndrewHazelden/Mikromedia-Gaming-Shield-Input-Library](https://github.com/AndrewHazelden/Mikromedia-Gaming-Shield-Input-Library)
+# AndrewHazelden/Mikromedia-Gaming-Shield-Input-Library - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/AndrewHazelden/Mikromedia-Gaming-Shield-Input-Library)
 
 ## Historical data
 | Date | Stars | Forks |

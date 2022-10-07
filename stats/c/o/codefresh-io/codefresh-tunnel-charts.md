@@ -1,12 +1,12 @@
-# codefresh-io/codefresh-tunnel-charts / stars & forks statistics
-
-[Open repository/codefresh-io/codefresh-tunnel-charts](https://github.com/codefresh-io/codefresh-tunnel-charts)
+# codefresh-io/codefresh-tunnel-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/codefresh-io/codefresh-tunnel-charts)
 
 ## Historical data
 | Date | Stars | Forks |

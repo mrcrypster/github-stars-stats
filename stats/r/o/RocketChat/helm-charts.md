@@ -1,16 +1,30 @@
-# RocketChat/helm-charts / stars & forks statistics
-
-[Open repository/RocketChat/helm-charts](https://github.com/RocketChat/helm-charts)
+# RocketChat/helm-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 37
+☋ Forks: 39
 
-★ Stars: 21
+★ Stars: 22
+
+[Open repository](https://github.com/RocketChat/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 22 | 39 | 
+| 2022-10-06 | 22 | 39 | 
+| 2022-10-05 | 22 | 39 | 
+| 2022-10-04 | 22 | 39 | 
+| 2022-10-03 | 22 | 39 | 
+| 2022-10-02 | 22 | 38 | 
+| 2022-10-01 | 22 | 38 | 
+| 2022-09-30 | 21 | 37 | 
+| 2022-09-29 | 21 | 37 | 
+| 2022-09-28 | 21 | 37 | 
+| 2022-09-27 | 21 | 37 | 
+| 2022-09-26 | 21 | 37 | 
+| 2022-09-25 | 21 | 37 | 
+| 2022-09-24 | 21 | 37 | 
 | 2022-09-23 | 21 | 37 | 
 | 2022-09-22 | 21 | 37 | 
 | 2022-09-21 | 21 | 37 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 20 | 37 | 
 | 2022-09-08 | 20 | 37 | 
 | 2022-09-07 | 20 | 36 | 
-| 2022-09-06 | 20 | 36 | 
-| 2022-09-05 | 19 | 36 | 
-| 2022-09-04 | 19 | 36 | 
-| 2022-09-03 | 19 | 36 | 
-| 2022-09-02 | 19 | 36 | 
-| 2022-09-01 | 19 | 36 | 
-| 2022-08-31 | 19 | 36 | 
-| 2022-08-30 | 19 | 36 | 
-| 2022-08-29 | 20 | 36 | 
-| 2022-08-28 | 20 | 36 | 
-| 2022-08-27 | 20 | 36 | 
-| 2022-08-26 | 20 | 36 | 
-| 2022-08-25 | 20 | 35 | 
-| 2022-08-24 | 20 | 35 | 
 
 
 [Detailed charts & statistics for RocketChat/helm-charts](https://reviewgithub.com/rep/RocketChat/helm-charts)

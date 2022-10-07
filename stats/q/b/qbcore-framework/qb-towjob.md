@@ -1,12 +1,12 @@
-# qbcore-framework/qb-towjob / stars & forks statistics
-
-[Open repository/qbcore-framework/qb-towjob](https://github.com/qbcore-framework/qb-towjob)
+# qbcore-framework/qb-towjob - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 144
 
 ★ Stars: 18
+
+[Open repository](https://github.com/qbcore-framework/qb-towjob)
 
 ## Historical data
 | Date | Stars | Forks |

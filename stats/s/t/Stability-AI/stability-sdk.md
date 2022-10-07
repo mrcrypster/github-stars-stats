@@ -1,16 +1,29 @@
-# Stability-AI/stability-sdk / stars & forks statistics
-
-[Open repository/Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk)
+# Stability-AI/stability-sdk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 55
+☋ Forks: 97
 
-★ Stars: 543
+★ Stars: 862
+
+[Open repository](https://github.com/Stability-AI/stability-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 862 | 97 | 
+| 2022-10-05 | 825 | 93 | 
+| 2022-10-04 | 815 | 92 | 
+| 2022-10-03 | 778 | 89 | 
+| 2022-10-02 | 742 | 82 | 
+| 2022-10-01 | 733 | 80 | 
+| 2022-09-30 | 699 | 77 | 
+| 2022-09-29 | 683 | 77 | 
+| 2022-09-28 | 635 | 74 | 
+| 2022-09-27 | 631 | 72 | 
+| 2022-09-26 | 617 | 70 | 
+| 2022-09-25 | 598 | 61 | 
+| 2022-09-24 | 574 | 57 | 
 | 2022-09-23 | 543 | 55 | 
 | 2022-09-22 | 509 | 53 | 
 | 2022-09-21 | 492 | 49 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 414 | 36 | 
 | 2022-09-08 | 400 | 32 | 
 | 2022-09-07 | 396 | 31 | 
-| 2022-09-06 | 372 | 30 | 
-| 2022-09-05 | 349 | 25 | 
-| 2022-09-04 | 340 | 25 | 
-| 2022-09-03 | 330 | 24 | 
-| 2022-09-02 | 325 | 22 | 
-| 2022-09-01 | 313 | 20 | 
-| 2022-08-31 | 303 | 20 | 
-| 2022-08-30 | 285 | 19 | 
-| 2022-08-29 | 272 | 19 | 
-| 2022-08-28 | 268 | 19 | 
-| 2022-08-27 | 246 | 19 | 
-| 2022-08-26 | 212 | 16 | 
-| 2022-08-25 | 153 | 12 | 
 
 
 [Detailed charts & statistics for Stability-AI/stability-sdk](https://reviewgithub.com/rep/Stability-AI/stability-sdk)

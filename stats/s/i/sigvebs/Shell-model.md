@@ -1,12 +1,12 @@
-# sigvebs/Shell-model / stars & forks statistics
-
-[Open repository/sigvebs/Shell-model](https://github.com/sigvebs/Shell-model)
+# sigvebs/Shell-model - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/sigvebs/Shell-model)
 
 ## Historical data
 | Date | Stars | Forks |

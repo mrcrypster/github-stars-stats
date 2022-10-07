@@ -1,12 +1,12 @@
-# psm14/node_nyancat / stars & forks statistics
-
-[Open repository/psm14/node_nyancat](https://github.com/psm14/node_nyancat)
+# psm14/node_nyancat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/psm14/node_nyancat)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# mgigor/exerc2 / stars & forks statistics
-
-[Open repository/mgigor/exerc2](https://github.com/mgigor/exerc2)
+# mgigor/exerc2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mgigor/exerc2)
 
 ## Historical data
 | Date | Stars | Forks |

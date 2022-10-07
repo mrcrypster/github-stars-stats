@@ -1,6 +1,4 @@
-# tashapiro/tanya-data-viz / stars & forks statistics
-
-[Open repository/tashapiro/tanya-data-viz](https://github.com/tashapiro/tanya-data-viz)
+# tashapiro/tanya-data-viz - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 206
 
+[Open repository](https://github.com/tashapiro/tanya-data-viz)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 206 | 34 | 
+| 2022-10-05 | 206 | 34 | 
+| 2022-10-04 | 206 | 34 | 
+| 2022-10-03 | 206 | 34 | 
+| 2022-10-02 | 206 | 34 | 
 | 2022-10-01 | 206 | 34 | 
 | 2022-09-30 | 206 | 34 | 
 | 2022-09-29 | 206 | 34 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 182 | 32 | 
 | 2022-09-09 | 180 | 33 | 
 | 2022-09-08 | 172 | 31 | 
-| 2022-09-07 | 169 | 31 | 
-| 2022-09-06 | 167 | 30 | 
-| 2022-09-05 | 163 | 30 | 
-| 2022-09-04 | 162 | 29 | 
-| 2022-09-03 | 158 | 28 | 
-| 2022-09-02 | 148 | 26 | 
 
 
 [Detailed charts & statistics for tashapiro/tanya-data-viz](https://reviewgithub.com/rep/tashapiro/tanya-data-viz)

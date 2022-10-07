@@ -1,12 +1,12 @@
-# elementary/iconbrowser / stars & forks statistics
-
-[Open repository/elementary/iconbrowser](https://github.com/elementary/iconbrowser)
+# elementary/iconbrowser - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
+
+[Open repository](https://github.com/elementary/iconbrowser)
 
 ## Historical data
 | Date | Stars | Forks |

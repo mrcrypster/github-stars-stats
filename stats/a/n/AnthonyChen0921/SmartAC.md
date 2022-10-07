@@ -1,12 +1,12 @@
-# AnthonyChen0921/SmartAC / stars & forks statistics
-
-[Open repository/AnthonyChen0921/SmartAC](https://github.com/AnthonyChen0921/SmartAC)
+# AnthonyChen0921/SmartAC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 95
+
+[Open repository](https://github.com/AnthonyChen0921/SmartAC)
 
 ## Historical data
 | Date | Stars | Forks |

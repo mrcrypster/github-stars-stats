@@ -1,6 +1,4 @@
-# sambacha/Procedural-Approaches-Towards-MEV / stars & forks statistics
-
-[Open repository/sambacha/Procedural-Approaches-Towards-MEV](https://github.com/sambacha/Procedural-Approaches-Towards-MEV)
+# sambacha/Procedural-Approaches-Towards-MEV - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 39
 
+[Open repository](https://github.com/sambacha/Procedural-Approaches-Towards-MEV)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 39 | 1 | 
+| 2022-10-06 | 39 | 1 | 
+| 2022-10-05 | 39 | 1 | 
+| 2022-10-04 | 39 | 1 | 
+| 2022-10-03 | 39 | 1 | 
+| 2022-10-02 | 39 | 1 | 
+| 2022-10-01 | 39 | 1 | 
+| 2022-09-30 | 39 | 1 | 
+| 2022-09-29 | 39 | 1 | 
+| 2022-09-28 | 39 | 1 | 
 | 2022-09-27 | 39 | 1 | 
 | 2022-09-26 | 39 | 1 | 
 | 2022-09-25 | 39 | 1 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 39 | 1 | 
 | 2022-09-08 | 38 | 1 | 
 | 2022-09-07 | 38 | 1 | 
-| 2022-09-06 | 38 | 1 | 
-| 2022-09-05 | 38 | 1 | 
-| 2022-09-04 | 38 | 1 | 
-| 2022-09-03 | 38 | 1 | 
-| 2022-09-02 | 38 | 1 | 
-| 2022-09-01 | 38 | 1 | 
-| 2022-08-31 | 38 | 1 | 
-| 2022-08-30 | 38 | 1 | 
-| 2022-08-29 | 38 | 1 | 
-| 2022-08-28 | 38 | 1 | 
 
 
 [Detailed charts & statistics for sambacha/Procedural-Approaches-Towards-MEV](https://reviewgithub.com/rep/sambacha/Procedural-Approaches-Towards-MEV)

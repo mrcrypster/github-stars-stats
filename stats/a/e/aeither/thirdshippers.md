@@ -1,12 +1,12 @@
-# aeither/thirdshippers / stars & forks statistics
-
-[Open repository/aeither/thirdshippers](https://github.com/aeither/thirdshippers)
+# aeither/thirdshippers - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/aeither/thirdshippers)
 
 ## Historical data
 | Date | Stars | Forks |

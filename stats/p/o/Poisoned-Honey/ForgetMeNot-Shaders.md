@@ -1,12 +1,12 @@
-# Poisoned-Honey/ForgetMeNot-Shaders / stars & forks statistics
-
-[Open repository/Poisoned-Honey/ForgetMeNot-Shaders](https://github.com/Poisoned-Honey/ForgetMeNot-Shaders)
+# Poisoned-Honey/ForgetMeNot-Shaders - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 16
+
+[Open repository](https://github.com/Poisoned-Honey/ForgetMeNot-Shaders)
 
 ## Historical data
 | Date | Stars | Forks |

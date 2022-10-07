@@ -1,12 +1,12 @@
-# johncharles98/Food-web / stars & forks statistics
-
-[Open repository/johncharles98/Food-web](https://github.com/johncharles98/Food-web)
+# johncharles98/Food-web - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 15
+
+[Open repository](https://github.com/johncharles98/Food-web)
 
 ## Historical data
 | Date | Stars | Forks |

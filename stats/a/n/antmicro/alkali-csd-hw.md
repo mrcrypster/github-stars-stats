@@ -1,12 +1,12 @@
-# antmicro/alkali-csd-hw / stars & forks statistics
-
-[Open repository/antmicro/alkali-csd-hw](https://github.com/antmicro/alkali-csd-hw)
+# antmicro/alkali-csd-hw - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/antmicro/alkali-csd-hw)
 
 ## Historical data
 | Date | Stars | Forks |

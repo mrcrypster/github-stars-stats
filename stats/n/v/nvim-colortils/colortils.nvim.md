@@ -1,16 +1,23 @@
-# nvim-colortils/colortils.nvim / stars & forks statistics
-
-[Open repository/nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim)
+# nvim-colortils/colortils.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
-★ Stars: 158
+★ Stars: 159
+
+[Open repository](https://github.com/nvim-colortils/colortils.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 159 | 5 | 
+| 2022-10-05 | 159 | 5 | 
+| 2022-10-04 | 159 | 5 | 
+| 2022-10-03 | 159 | 5 | 
+| 2022-10-02 | 159 | 5 | 
+| 2022-10-01 | 159 | 5 | 
+| 2022-09-30 | 158 | 5 | 
 | 2022-09-29 | 158 | 5 | 
 | 2022-09-28 | 158 | 5 | 
 | 2022-09-27 | 158 | 6 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 154 | 5 | 
 | 2022-09-09 | 154 | 5 | 
 | 2022-09-08 | 153 | 5 | 
-| 2022-09-07 | 144 | 5 | 
-| 2022-09-06 | 140 | 5 | 
-| 2022-09-05 | 124 | 5 | 
-| 2022-09-04 | 123 | 5 | 
-| 2022-09-03 | 120 | 4 | 
-| 2022-09-02 | 119 | 4 | 
-| 2022-09-01 | 112 | 4 | 
-| 2022-08-31 | 110 | 4 | 
 
 
 [Detailed charts & statistics for nvim-colortils/colortils.nvim](https://reviewgithub.com/rep/nvim-colortils/colortils.nvim)

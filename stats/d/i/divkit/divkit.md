@@ -1,16 +1,26 @@
-# divkit/divkit / stars & forks statistics
-
-[Open repository/divkit/divkit](https://github.com/divkit/divkit)
+# divkit/divkit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 61
+☋ Forks: 62
 
-★ Stars: 1502
+★ Stars: 1521
+
+[Open repository](https://github.com/divkit/divkit)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1521 | 62 | 
+| 2022-10-05 | 1519 | 62 | 
+| 2022-10-04 | 1517 | 62 | 
+| 2022-10-03 | 1514 | 62 | 
+| 2022-10-02 | 1514 | 62 | 
+| 2022-10-01 | 1513 | 62 | 
+| 2022-09-30 | 1513 | 62 | 
+| 2022-09-29 | 1509 | 62 | 
+| 2022-09-28 | 1507 | 62 | 
+| 2022-09-27 | 1506 | 61 | 
 | 2022-09-26 | 1502 | 61 | 
 | 2022-09-25 | 1498 | 61 | 
 | 2022-09-24 | 1497 | 61 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1450 | 56 | 
 | 2022-09-08 | 1441 | 56 | 
 | 2022-09-07 | 1432 | 56 | 
-| 2022-09-06 | 1423 | 56 | 
-| 2022-09-05 | 1412 | 55 | 
-| 2022-09-04 | 1375 | 54 | 
-| 2022-09-03 | 1364 | 54 | 
-| 2022-09-02 | 1345 | 54 | 
-| 2022-09-01 | 1281 | 50 | 
-| 2022-08-31 | 1243 | 48 | 
-| 2022-08-30 | 1051 | 47 | 
-| 2022-08-29 | 902 | 41 | 
-| 2022-08-28 | 612 | 26 | 
 
 
 [Detailed charts & statistics for divkit/divkit](https://reviewgithub.com/rep/divkit/divkit)

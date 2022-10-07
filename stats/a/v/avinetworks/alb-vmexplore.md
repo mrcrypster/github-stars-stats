@@ -1,12 +1,12 @@
-# avinetworks/alb-vmexplore / stars & forks statistics
-
-[Open repository/avinetworks/alb-vmexplore](https://github.com/avinetworks/alb-vmexplore)
+# avinetworks/alb-vmexplore - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/avinetworks/alb-vmexplore)
 
 ## Historical data
 | Date | Stars | Forks |

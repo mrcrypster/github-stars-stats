@@ -1,12 +1,12 @@
-# memN0ps/srdi-rs / stars & forks statistics
-
-[Open repository/memN0ps/srdi-rs](https://github.com/memN0ps/srdi-rs)
+# memN0ps/srdi-rs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 148
+
+[Open repository](https://github.com/memN0ps/srdi-rs)
 
 ## Historical data
 | Date | Stars | Forks |

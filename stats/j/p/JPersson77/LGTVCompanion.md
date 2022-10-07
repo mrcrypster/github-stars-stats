@@ -1,16 +1,29 @@
-# JPersson77/LGTVCompanion / stars & forks statistics
-
-[Open repository/JPersson77/LGTVCompanion](https://github.com/JPersson77/LGTVCompanion)
+# JPersson77/LGTVCompanion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
-★ Stars: 335
+★ Stars: 352
+
+[Open repository](https://github.com/JPersson77/LGTVCompanion)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 352 | 18 | 
+| 2022-10-06 | 351 | 18 | 
+| 2022-10-05 | 351 | 18 | 
+| 2022-10-04 | 350 | 18 | 
+| 2022-10-03 | 350 | 18 | 
+| 2022-10-02 | 350 | 18 | 
+| 2022-10-01 | 349 | 18 | 
+| 2022-09-30 | 349 | 18 | 
+| 2022-09-29 | 347 | 18 | 
+| 2022-09-28 | 345 | 18 | 
+| 2022-09-27 | 344 | 18 | 
+| 2022-09-26 | 344 | 18 | 
+| 2022-09-25 | 338 | 18 | 
 | 2022-09-24 | 335 | 18 | 
 | 2022-09-23 | 333 | 18 | 
 | 2022-09-22 | 332 | 18 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 303 | 16 | 
 | 2022-09-08 | 302 | 16 | 
 | 2022-09-07 | 301 | 16 | 
-| 2022-09-06 | 301 | 16 | 
-| 2022-09-05 | 301 | 16 | 
-| 2022-09-04 | 298 | 16 | 
-| 2022-09-03 | 296 | 16 | 
-| 2022-09-02 | 293 | 16 | 
-| 2022-09-01 | 291 | 16 | 
-| 2022-08-31 | 291 | 16 | 
-| 2022-08-30 | 289 | 16 | 
-| 2022-08-29 | 282 | 16 | 
-| 2022-08-28 | 279 | 16 | 
-| 2022-08-27 | 269 | 16 | 
-| 2022-08-26 | 264 | 16 | 
-| 2022-08-25 | 262 | 16 | 
 
 
 [Detailed charts & statistics for JPersson77/LGTVCompanion](https://reviewgithub.com/rep/JPersson77/LGTVCompanion)

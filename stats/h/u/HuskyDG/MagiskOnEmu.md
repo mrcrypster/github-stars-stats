@@ -1,16 +1,27 @@
-# HuskyDG/MagiskOnEmu / stars & forks statistics
-
-[Open repository/HuskyDG/MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu)
+# HuskyDG/MagiskOnEmu - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 91
+☋ Forks: 96
 
-★ Stars: 279
+★ Stars: 282
+
+[Open repository](https://github.com/HuskyDG/MagiskOnEmu)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 282 | 96 | 
+| 2022-10-06 | 282 | 96 | 
+| 2022-10-05 | 281 | 95 | 
+| 2022-10-04 | 280 | 95 | 
+| 2022-10-03 | 280 | 95 | 
+| 2022-10-02 | 279 | 94 | 
+| 2022-10-01 | 279 | 94 | 
+| 2022-09-30 | 279 | 93 | 
+| 2022-09-29 | 279 | 93 | 
+| 2022-09-28 | 279 | 92 | 
+| 2022-09-27 | 280 | 91 | 
 | 2022-09-26 | 279 | 91 | 
 | 2022-09-25 | 279 | 91 | 
 | 2022-09-24 | 278 | 91 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 276 | 91 | 
 | 2022-09-08 | 276 | 91 | 
 | 2022-09-07 | 276 | 91 | 
-| 2022-09-06 | 276 | 91 | 
-| 2022-09-05 | 276 | 91 | 
-| 2022-09-04 | 274 | 91 | 
-| 2022-09-03 | 275 | 90 | 
-| 2022-09-02 | 273 | 90 | 
-| 2022-09-01 | 272 | 90 | 
-| 2022-08-31 | 272 | 90 | 
-| 2022-08-30 | 271 | 90 | 
-| 2022-08-29 | 270 | 90 | 
-| 2022-08-28 | 270 | 90 | 
-| 2022-08-27 | 269 | 90 | 
 
 
 [Detailed charts & statistics for HuskyDG/MagiskOnEmu](https://reviewgithub.com/rep/HuskyDG/MagiskOnEmu)

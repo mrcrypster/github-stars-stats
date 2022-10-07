@@ -1,12 +1,12 @@
-# viduraakalanka/HDL-Bits-Solutions / stars & forks statistics
-
-[Open repository/viduraakalanka/HDL-Bits-Solutions](https://github.com/viduraakalanka/HDL-Bits-Solutions)
+# viduraakalanka/HDL-Bits-Solutions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 144
+
+[Open repository](https://github.com/viduraakalanka/HDL-Bits-Solutions)
 
 ## Historical data
 | Date | Stars | Forks |

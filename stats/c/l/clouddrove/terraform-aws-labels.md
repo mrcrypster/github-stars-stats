@@ -1,12 +1,12 @@
-# clouddrove/terraform-aws-labels / stars & forks statistics
-
-[Open repository/clouddrove/terraform-aws-labels](https://github.com/clouddrove/terraform-aws-labels)
+# clouddrove/terraform-aws-labels - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 29
+
+[Open repository](https://github.com/clouddrove/terraform-aws-labels)
 
 ## Historical data
 | Date | Stars | Forks |

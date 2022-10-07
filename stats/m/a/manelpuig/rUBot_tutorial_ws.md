@@ -1,12 +1,12 @@
-# manelpuig/rUBot_tutorial_ws / stars & forks statistics
-
-[Open repository/manelpuig/rUBot_tutorial_ws](https://github.com/manelpuig/rUBot_tutorial_ws)
+# manelpuig/rUBot_tutorial_ws - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 1
+
+[Open repository](https://github.com/manelpuig/rUBot_tutorial_ws)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# yura-pepsicola/PepsiBay13 / stars & forks statistics
-
-[Open repository/yura-pepsicola/PepsiBay13](https://github.com/yura-pepsicola/PepsiBay13)
+# yura-pepsicola/PepsiBay13 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/yura-pepsicola/PepsiBay13)
 
 ## Historical data
 | Date | Stars | Forks |

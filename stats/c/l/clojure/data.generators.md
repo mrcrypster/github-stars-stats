@@ -1,12 +1,12 @@
-# clojure/data.generators / stars & forks statistics
-
-[Open repository/clojure/data.generators](https://github.com/clojure/data.generators)
+# clojure/data.generators - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 81
+
+[Open repository](https://github.com/clojure/data.generators)
 
 ## Historical data
 | Date | Stars | Forks |

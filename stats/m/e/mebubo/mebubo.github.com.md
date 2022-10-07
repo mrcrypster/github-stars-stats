@@ -1,12 +1,12 @@
-# mebubo/mebubo.github.com / stars & forks statistics
-
-[Open repository/mebubo/mebubo.github.com](https://github.com/mebubo/mebubo.github.com)
+# mebubo/mebubo.github.com - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/mebubo/mebubo.github.com)
 
 ## Historical data
 | Date | Stars | Forks |

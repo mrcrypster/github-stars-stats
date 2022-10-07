@@ -1,16 +1,17 @@
-# JoshuaKimsey/Linux-StableDiffusion-Script / stars & forks statistics
-
-[Open repository/JoshuaKimsey/Linux-StableDiffusion-Script](https://github.com/JoshuaKimsey/Linux-StableDiffusion-Script)
+# JoshuaKimsey/Linux-StableDiffusion-Script - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 26
+
+[Open repository](https://github.com/JoshuaKimsey/Linux-StableDiffusion-Script)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 26 | 29 | 
 | 2022-10-05 | 26 | 28 | 
 | 2022-10-04 | 26 | 28 | 
 | 2022-10-03 | 26 | 28 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | 14 | 
 | 2022-09-09 | 12 | 14 | 
 | 2022-09-08 | 12 | 15 | 
-| 2022-09-07 | 8 | 13 | 
-| 2022-09-06 | 8 | 11 | 
 
 
 [Detailed charts & statistics for JoshuaKimsey/Linux-StableDiffusion-Script](https://reviewgithub.com/rep/JoshuaKimsey/Linux-StableDiffusion-Script)

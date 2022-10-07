@@ -1,12 +1,12 @@
-# yyzwz/bill-system / stars & forks statistics
-
-[Open repository/yyzwz/bill-system](https://github.com/yyzwz/bill-system)
+# yyzwz/bill-system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 6
+
+[Open repository](https://github.com/yyzwz/bill-system)
 
 ## Historical data
 | Date | Stars | Forks |

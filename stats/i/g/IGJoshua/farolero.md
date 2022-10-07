@@ -1,6 +1,4 @@
-# IGJoshua/farolero / stars & forks statistics
-
-[Open repository/IGJoshua/farolero](https://github.com/IGJoshua/farolero)
+# IGJoshua/farolero - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 278
 
+[Open repository](https://github.com/IGJoshua/farolero)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 278 | 2 | 
+| 2022-10-05 | 278 | 2 | 
+| 2022-10-04 | 278 | 2 | 
+| 2022-10-03 | 278 | 2 | 
+| 2022-10-02 | 278 | 2 | 
+| 2022-10-01 | 278 | 2 | 
+| 2022-09-30 | 278 | 2 | 
+| 2022-09-29 | 278 | 2 | 
 | 2022-09-28 | 278 | 2 | 
 | 2022-09-27 | 278 | 2 | 
 | 2022-09-26 | 278 | 2 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 276 | 2 | 
 | 2022-09-09 | 276 | 2 | 
 | 2022-09-08 | 276 | 2 | 
-| 2022-09-07 | 276 | 2 | 
-| 2022-09-06 | 276 | 2 | 
-| 2022-09-05 | 275 | 2 | 
-| 2022-09-04 | 275 | 2 | 
-| 2022-09-03 | 275 | 2 | 
-| 2022-09-02 | 275 | 2 | 
-| 2022-09-01 | 275 | 2 | 
-| 2022-08-31 | 275 | 2 | 
-| 2022-08-30 | 275 | 2 | 
 
 
 [Detailed charts & statistics for IGJoshua/farolero](https://reviewgithub.com/rep/IGJoshua/farolero)

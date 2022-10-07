@@ -1,12 +1,12 @@
-# pantelis/data-science / stars & forks statistics
-
-[Open repository/pantelis/data-science](https://github.com/pantelis/data-science)
+# pantelis/data-science - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 5
+
+[Open repository](https://github.com/pantelis/data-science)
 
 ## Historical data
 | Date | Stars | Forks |

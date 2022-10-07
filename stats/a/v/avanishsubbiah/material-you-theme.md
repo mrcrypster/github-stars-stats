@@ -1,16 +1,34 @@
-# avanishsubbiah/material-you-theme / stars & forks statistics
-
-[Open repository/avanishsubbiah/material-you-theme](https://github.com/avanishsubbiah/material-you-theme)
+# avanishsubbiah/material-you-theme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
-★ Stars: 169
+★ Stars: 171
+
+[Open repository](https://github.com/avanishsubbiah/material-you-theme)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 171 | 14 | 
+| 2022-10-06 | 171 | 14 | 
+| 2022-10-05 | 171 | 14 | 
+| 2022-10-04 | 170 | 14 | 
+| 2022-10-03 | 170 | 14 | 
+| 2022-10-02 | 170 | 14 | 
+| 2022-10-01 | 170 | 14 | 
+| 2022-09-30 | 170 | 14 | 
+| 2022-09-29 | 170 | 14 | 
+| 2022-09-28 | 170 | 14 | 
+| 2022-09-27 | 170 | 14 | 
+| 2022-09-26 | 169 | 14 | 
+| 2022-09-25 | 169 | 14 | 
+| 2022-09-24 | 169 | 14 | 
+| 2022-09-23 | 169 | 14 | 
+| 2022-09-22 | 169 | 14 | 
+| 2022-09-21 | 169 | 14 | 
+| 2022-09-20 | 169 | 14 | 
 | 2022-09-19 | 169 | 14 | 
 | 2022-09-18 | 169 | 14 | 
 | 2022-09-17 | 168 | 14 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 161 | 12 | 
 | 2022-09-08 | 161 | 12 | 
 | 2022-09-07 | 161 | 12 | 
-| 2022-09-06 | 160 | 12 | 
-| 2022-09-05 | 159 | 12 | 
-| 2022-09-04 | 159 | 13 | 
-| 2022-09-03 | 159 | 12 | 
-| 2022-09-02 | 154 | 12 | 
-| 2022-09-01 | 154 | 12 | 
-| 2022-08-31 | 152 | 12 | 
-| 2022-08-30 | 151 | 12 | 
-| 2022-08-29 | 151 | 11 | 
-| 2022-08-28 | 149 | 11 | 
-| 2022-08-27 | 149 | 11 | 
-| 2022-08-26 | 147 | 11 | 
-| 2022-08-25 | 144 | 11 | 
-| 2022-08-24 | 143 | 11 | 
-| 2022-08-23 | 142 | 11 | 
-| 2022-08-22 | 139 | 11 | 
-| 2022-08-21 | 138 | 11 | 
-| 2022-08-20 | 136 | 11 | 
 
 
 [Detailed charts & statistics for avanishsubbiah/material-you-theme](https://reviewgithub.com/rep/avanishsubbiah/material-you-theme)

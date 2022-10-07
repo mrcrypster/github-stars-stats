@@ -1,12 +1,12 @@
-# 0xfoobar/delegation-registry / stars & forks statistics
-
-[Open repository/0xfoobar/delegation-registry](https://github.com/0xfoobar/delegation-registry)
+# 0xfoobar/delegation-registry - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 71
+
+[Open repository](https://github.com/0xfoobar/delegation-registry)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# DoctorMcKay/sourcemod-plugins / stars & forks statistics
-
-[Open repository/DoctorMcKay/sourcemod-plugins](https://github.com/DoctorMcKay/sourcemod-plugins)
+# DoctorMcKay/sourcemod-plugins - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 55
 
 ★ Stars: 20
+
+[Open repository](https://github.com/DoctorMcKay/sourcemod-plugins)
 
 ## Historical data
 | Date | Stars | Forks |

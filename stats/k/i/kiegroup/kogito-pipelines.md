@@ -1,12 +1,12 @@
-# kiegroup/kogito-pipelines / stars & forks statistics
-
-[Open repository/kiegroup/kogito-pipelines](https://github.com/kiegroup/kogito-pipelines)
+# kiegroup/kogito-pipelines - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 6
+
+[Open repository](https://github.com/kiegroup/kogito-pipelines)
 
 ## Historical data
 | Date | Stars | Forks |

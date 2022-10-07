@@ -1,12 +1,12 @@
-# robocorp/example-mfa-otp / stars & forks statistics
-
-[Open repository/robocorp/example-mfa-otp](https://github.com/robocorp/example-mfa-otp)
+# robocorp/example-mfa-otp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/robocorp/example-mfa-otp)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# piccolo-lang/piccolo / stars & forks statistics
-
-[Open repository/piccolo-lang/piccolo](https://github.com/piccolo-lang/piccolo)
+# piccolo-lang/piccolo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
+
+[Open repository](https://github.com/piccolo-lang/piccolo)
 
 ## Historical data
 | Date | Stars | Forks |

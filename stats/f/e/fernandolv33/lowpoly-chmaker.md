@@ -1,12 +1,12 @@
-# fernandolv33/lowpoly-chmaker / stars & forks statistics
-
-[Open repository/fernandolv33/lowpoly-chmaker](https://github.com/fernandolv33/lowpoly-chmaker)
+# fernandolv33/lowpoly-chmaker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 29
+
+[Open repository](https://github.com/fernandolv33/lowpoly-chmaker)
 
 ## Historical data
 | Date | Stars | Forks |

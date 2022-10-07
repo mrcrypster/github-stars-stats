@@ -1,12 +1,12 @@
-# narasimhareddyprostack/fs-sept-Gold / stars & forks statistics
-
-[Open repository/narasimhareddyprostack/fs-sept-Gold](https://github.com/narasimhareddyprostack/fs-sept-Gold)
+# narasimhareddyprostack/fs-sept-Gold - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 0
+
+[Open repository](https://github.com/narasimhareddyprostack/fs-sept-Gold)
 
 ## Historical data
 | Date | Stars | Forks |

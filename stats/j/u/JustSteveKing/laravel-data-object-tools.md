@@ -1,16 +1,39 @@
-# JustSteveKing/laravel-data-object-tools / stars & forks statistics
-
-[Open repository/JustSteveKing/laravel-data-object-tools](https://github.com/JustSteveKing/laravel-data-object-tools)
+# JustSteveKing/laravel-data-object-tools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 36
+★ Stars: 42
+
+[Open repository](https://github.com/JustSteveKing/laravel-data-object-tools)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 42 | 4 | 
+| 2022-10-06 | 40 | 4 | 
+| 2022-10-05 | 40 | 4 | 
+| 2022-10-04 | 40 | 4 | 
+| 2022-10-03 | 39 | 4 | 
+| 2022-10-02 | 39 | 4 | 
+| 2022-10-01 | 39 | 4 | 
+| 2022-09-30 | 38 | 4 | 
+| 2022-09-29 | 38 | 4 | 
+| 2022-09-28 | 38 | 3 | 
+| 2022-09-27 | 38 | 3 | 
+| 2022-09-26 | 38 | 3 | 
+| 2022-09-25 | 38 | 3 | 
+| 2022-09-24 | 38 | 3 | 
+| 2022-09-23 | 38 | 3 | 
+| 2022-09-22 | 38 | 3 | 
+| 2022-09-21 | 36 | 3 | 
+| 2022-09-20 | 36 | 3 | 
+| 2022-09-19 | 36 | 3 | 
+| 2022-09-18 | 36 | 3 | 
+| 2022-09-17 | 36 | 3 | 
+| 2022-09-16 | 36 | 3 | 
+| 2022-09-15 | 36 | 3 | 
 | 2022-09-13 | 36 | 3 | 
 | 2022-09-12 | 36 | 3 | 
 | 2022-09-11 | 36 | 3 | 
@@ -18,29 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 36 | 3 | 
 | 2022-09-08 | 36 | 3 | 
 | 2022-09-07 | 36 | 2 | 
-| 2022-09-06 | 36 | 2 | 
-| 2022-09-05 | 36 | 2 | 
-| 2022-09-04 | 36 | 2 | 
-| 2022-09-03 | 36 | 2 | 
-| 2022-09-02 | 36 | 2 | 
-| 2022-09-01 | 36 | 2 | 
-| 2022-08-31 | 36 | 2 | 
-| 2022-08-30 | 34 | 2 | 
-| 2022-08-29 | 34 | 2 | 
-| 2022-08-28 | 34 | 2 | 
-| 2022-08-27 | 33 | 2 | 
-| 2022-08-26 | 33 | 2 | 
-| 2022-08-25 | 33 | 2 | 
-| 2022-08-24 | 33 | 2 | 
-| 2022-08-23 | 33 | 2 | 
-| 2022-08-22 | 32 | 2 | 
-| 2022-08-21 | 32 | 2 | 
-| 2022-08-20 | 31 | 2 | 
-| 2022-08-19 | 31 | 2 | 
-| 2022-08-18 | 31 | 2 | 
-| 2022-08-17 | 27 | 2 | 
-| 2022-08-16 | 25 | 2 | 
-| 2022-08-15 | 24 | 2 | 
 
 
 [Detailed charts & statistics for JustSteveKing/laravel-data-object-tools](https://reviewgithub.com/rep/JustSteveKing/laravel-data-object-tools)

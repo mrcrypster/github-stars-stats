@@ -1,12 +1,12 @@
-# tshinbum/clapp / stars & forks statistics
-
-[Open repository/tshinbum/clapp](https://github.com/tshinbum/clapp)
+# tshinbum/clapp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/tshinbum/clapp)
 
 ## Historical data
 | Date | Stars | Forks |

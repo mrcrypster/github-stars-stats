@@ -1,12 +1,12 @@
-# PierTwo/The-Chiefdom-Blog / stars & forks statistics
-
-[Open repository/PierTwo/The-Chiefdom-Blog](https://github.com/PierTwo/The-Chiefdom-Blog)
+# PierTwo/The-Chiefdom-Blog - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/PierTwo/The-Chiefdom-Blog)
 
 ## Historical data
 | Date | Stars | Forks |

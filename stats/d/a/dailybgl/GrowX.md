@@ -1,16 +1,29 @@
-# dailybgl/GrowX / stars & forks statistics
-
-[Open repository/dailybgl/GrowX](https://github.com/dailybgl/GrowX)
+# dailybgl/GrowX - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 0
+
+[Open repository](https://github.com/dailybgl/GrowX)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 9 | 
+| 2022-10-06 | - | 9 | 
+| 2022-10-05 | - | 9 | 
+| 2022-10-04 | - | 9 | 
+| 2022-10-03 | - | 8 | 
+| 2022-10-02 | - | 8 | 
+| 2022-10-01 | - | 8 | 
+| 2022-09-30 | - | 8 | 
+| 2022-09-29 | - | 8 | 
+| 2022-09-28 | - | 8 | 
+| 2022-09-27 | - | 8 | 
+| 2022-09-26 | - | 8 | 
+| 2022-09-25 | - | 8 | 
 | 2022-09-24 | - | 8 | 
 | 2022-09-23 | - | 8 | 
 | 2022-09-22 | - | 8 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 7 | 
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
-| 2022-09-06 | - | 7 | 
-| 2022-09-05 | - | 7 | 
-| 2022-09-04 | - | 7 | 
-| 2022-09-03 | - | 6 | 
-| 2022-09-02 | - | 6 | 
-| 2022-09-01 | - | 6 | 
-| 2022-08-31 | - | 6 | 
-| 2022-08-30 | - | 6 | 
-| 2022-08-29 | - | 6 | 
-| 2022-08-28 | - | 6 | 
-| 2022-08-27 | - | 6 | 
-| 2022-08-26 | - | 6 | 
-| 2022-08-25 | - | 6 | 
 
 
 [Detailed charts & statistics for dailybgl/GrowX](https://reviewgithub.com/rep/dailybgl/GrowX)

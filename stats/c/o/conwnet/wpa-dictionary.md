@@ -1,16 +1,26 @@
-# conwnet/wpa-dictionary / stars & forks statistics
-
-[Open repository/conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary)
+# conwnet/wpa-dictionary - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 471
+☋ Forks: 476
 
-★ Stars: 1552
+★ Stars: 1569
+
+[Open repository](https://github.com/conwnet/wpa-dictionary)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1569 | 476 | 
+| 2022-10-06 | 1567 | 475 | 
+| 2022-10-05 | 1564 | 475 | 
+| 2022-10-04 | 1561 | 474 | 
+| 2022-10-03 | 1559 | 474 | 
+| 2022-10-02 | 1556 | 473 | 
+| 2022-10-01 | 1554 | 473 | 
+| 2022-09-30 | 1554 | 472 | 
+| 2022-09-29 | 1552 | 472 | 
+| 2022-09-28 | 1552 | 472 | 
 | 2022-09-27 | 1552 | 471 | 
 | 2022-09-26 | 1549 | 471 | 
 | 2022-09-25 | 1545 | 470 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1476 | 462 | 
 | 2022-09-08 | 1471 | 463 | 
 | 2022-09-07 | 1467 | 462 | 
-| 2022-09-06 | 1462 | 460 | 
-| 2022-09-05 | 1449 | 460 | 
-| 2022-09-04 | 1442 | 459 | 
-| 2022-09-03 | 1429 | 455 | 
-| 2022-09-02 | 1419 | 453 | 
-| 2022-09-01 | 1410 | 454 | 
-| 2022-08-31 | 1405 | 454 | 
-| 2022-08-30 | 1388 | 453 | 
-| 2022-08-29 | 1369 | 451 | 
-| 2022-08-28 | 1329 | 448 | 
 
 
 [Detailed charts & statistics for conwnet/wpa-dictionary](https://reviewgithub.com/rep/conwnet/wpa-dictionary)

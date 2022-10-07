@@ -1,12 +1,12 @@
-# sigprof/nur-packages / stars & forks statistics
-
-[Open repository/sigprof/nur-packages](https://github.com/sigprof/nur-packages)
+# sigprof/nur-packages - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/sigprof/nur-packages)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# dash-docs-el/helm-dash / stars & forks statistics
-
-[Open repository/dash-docs-el/helm-dash](https://github.com/dash-docs-el/helm-dash)
+# dash-docs-el/helm-dash - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
 ★ Stars: 499
+
+[Open repository](https://github.com/dash-docs-el/helm-dash)
 
 ## Historical data
 | Date | Stars | Forks |

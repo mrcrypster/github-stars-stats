@@ -1,16 +1,34 @@
-# mtremsal/pihole-fly-tailscale / stars & forks statistics
-
-[Open repository/mtremsal/pihole-fly-tailscale](https://github.com/mtremsal/pihole-fly-tailscale)
+# mtremsal/pihole-fly-tailscale - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 91
+★ Stars: 93
+
+[Open repository](https://github.com/mtremsal/pihole-fly-tailscale)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 93 | 2 | 
+| 2022-10-06 | 93 | 2 | 
+| 2022-10-05 | 92 | 2 | 
+| 2022-10-04 | 92 | 2 | 
+| 2022-10-03 | 92 | 2 | 
+| 2022-10-02 | 91 | 2 | 
+| 2022-10-01 | 91 | 2 | 
+| 2022-09-30 | 91 | 2 | 
+| 2022-09-29 | 91 | 2 | 
+| 2022-09-28 | 91 | 2 | 
+| 2022-09-27 | 91 | 2 | 
+| 2022-09-26 | 91 | 2 | 
+| 2022-09-25 | 91 | 2 | 
+| 2022-09-24 | 91 | 2 | 
+| 2022-09-23 | 91 | 2 | 
+| 2022-09-22 | 91 | 2 | 
+| 2022-09-21 | 91 | 2 | 
+| 2022-09-20 | 91 | 2 | 
 | 2022-09-19 | 91 | 2 | 
 | 2022-09-18 | 91 | 2 | 
 | 2022-09-17 | 90 | 2 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 88 | 2 | 
 | 2022-09-08 | 88 | 2 | 
 | 2022-09-07 | 88 | 2 | 
-| 2022-09-06 | 87 | 2 | 
-| 2022-09-05 | 86 | 2 | 
-| 2022-09-04 | 86 | 2 | 
-| 2022-09-03 | 86 | 2 | 
-| 2022-09-02 | 85 | 2 | 
-| 2022-09-01 | 85 | 2 | 
-| 2022-08-31 | 84 | 2 | 
-| 2022-08-30 | 84 | 2 | 
-| 2022-08-29 | 83 | 2 | 
-| 2022-08-28 | 83 | 2 | 
-| 2022-08-27 | 81 | 2 | 
-| 2022-08-26 | 80 | 2 | 
-| 2022-08-25 | 80 | 2 | 
-| 2022-08-24 | 77 | 2 | 
-| 2022-08-23 | 75 | 2 | 
-| 2022-08-22 | 70 | 2 | 
-| 2022-08-21 | 68 | 2 | 
-| 2022-08-20 | 66 | 2 | 
 
 
 [Detailed charts & statistics for mtremsal/pihole-fly-tailscale](https://reviewgithub.com/rep/mtremsal/pihole-fly-tailscale)

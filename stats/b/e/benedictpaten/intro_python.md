@@ -1,16 +1,32 @@
-# benedictpaten/intro_python / stars & forks statistics
-
-[Open repository/benedictpaten/intro_python](https://github.com/benedictpaten/intro_python)
+# benedictpaten/intro_python - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 24
+☋ Forks: 51
 
-★ Stars: 41
+★ Stars: 49
+
+[Open repository](https://github.com/benedictpaten/intro_python)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 49 | 51 | 
+| 2022-10-05 | 49 | 51 | 
+| 2022-10-04 | 49 | 51 | 
+| 2022-10-03 | 47 | 50 | 
+| 2022-10-02 | 47 | 50 | 
+| 2022-10-01 | 47 | 50 | 
+| 2022-09-30 | 47 | 50 | 
+| 2022-09-29 | 46 | 49 | 
+| 2022-09-28 | 45 | 49 | 
+| 2022-09-27 | 44 | 37 | 
+| 2022-09-26 | 44 | 36 | 
+| 2022-09-25 | 44 | 32 | 
+| 2022-09-24 | 44 | 32 | 
+| 2022-09-23 | 42 | 31 | 
+| 2022-09-22 | 41 | 24 | 
+| 2022-09-21 | 41 | 24 | 
 | 2022-09-20 | 41 | 24 | 
 | 2022-09-19 | 41 | 24 | 
 | 2022-09-18 | 41 | 24 | 
@@ -24,23 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 41 | 24 | 
 | 2022-09-09 | 41 | 24 | 
 | 2022-09-08 | 41 | 24 | 
-| 2022-09-07 | 41 | 24 | 
-| 2022-09-06 | 41 | 24 | 
-| 2022-09-05 | 41 | 24 | 
-| 2022-09-04 | 40 | 24 | 
-| 2022-09-03 | 40 | 24 | 
-| 2022-09-02 | 40 | 24 | 
-| 2022-08-31 | 40 | 24 | 
-| 2022-08-30 | 40 | 24 | 
-| 2022-08-29 | 40 | 24 | 
-| 2022-08-28 | 40 | 24 | 
-| 2022-08-27 | 40 | 24 | 
-| 2022-08-26 | 40 | 24 | 
-| 2022-08-25 | 39 | 24 | 
-| 2022-08-24 | 39 | 24 | 
-| 2022-08-23 | 39 | 23 | 
-| 2022-08-22 | 35 | 23 | 
-| 2022-08-21 | 35 | 23 | 
 
 
 [Detailed charts & statistics for benedictpaten/intro_python](https://reviewgithub.com/rep/benedictpaten/intro_python)

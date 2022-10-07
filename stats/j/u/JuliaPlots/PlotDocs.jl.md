@@ -1,12 +1,12 @@
-# JuliaPlots/PlotDocs.jl / stars & forks statistics
-
-[Open repository/JuliaPlots/PlotDocs.jl](https://github.com/JuliaPlots/PlotDocs.jl)
+# JuliaPlots/PlotDocs.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 89
 
 ★ Stars: 75
+
+[Open repository](https://github.com/JuliaPlots/PlotDocs.jl)
 
 ## Historical data
 | Date | Stars | Forks |

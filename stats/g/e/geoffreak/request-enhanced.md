@@ -1,12 +1,12 @@
-# geoffreak/request-enhanced / stars & forks statistics
-
-[Open repository/geoffreak/request-enhanced](https://github.com/geoffreak/request-enhanced)
+# geoffreak/request-enhanced - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 12
+
+[Open repository](https://github.com/geoffreak/request-enhanced)
 
 ## Historical data
 | Date | Stars | Forks |

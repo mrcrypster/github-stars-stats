@@ -1,12 +1,12 @@
-# msilva913/ECON-7800-Programs / stars & forks statistics
-
-[Open repository/msilva913/ECON-7800-Programs](https://github.com/msilva913/ECON-7800-Programs)
+# msilva913/ECON-7800-Programs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 2
+
+[Open repository](https://github.com/msilva913/ECON-7800-Programs)
 
 ## Historical data
 | Date | Stars | Forks |

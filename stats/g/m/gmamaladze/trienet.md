@@ -1,12 +1,12 @@
-# gmamaladze/trienet / stars & forks statistics
-
-[Open repository/gmamaladze/trienet](https://github.com/gmamaladze/trienet)
+# gmamaladze/trienet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 59
 
 ★ Stars: 360
+
+[Open repository](https://github.com/gmamaladze/trienet)
 
 ## Historical data
 | Date | Stars | Forks |

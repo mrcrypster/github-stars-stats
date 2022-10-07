@@ -1,12 +1,12 @@
-# pimbrouwers/Falco.Markup / stars & forks statistics
-
-[Open repository/pimbrouwers/Falco.Markup](https://github.com/pimbrouwers/Falco.Markup)
+# pimbrouwers/Falco.Markup - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 17
+
+[Open repository](https://github.com/pimbrouwers/Falco.Markup)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# lilyinstarlight/foosteros / stars & forks statistics
-
-[Open repository/lilyinstarlight/foosteros](https://github.com/lilyinstarlight/foosteros)
+# lilyinstarlight/foosteros - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
+
+[Open repository](https://github.com/lilyinstarlight/foosteros)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# cloudnative-pg/pgbouncer-containers / stars & forks statistics
-
-[Open repository/cloudnative-pg/pgbouncer-containers](https://github.com/cloudnative-pg/pgbouncer-containers)
+# cloudnative-pg/pgbouncer-containers - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/cloudnative-pg/pgbouncer-containers)
 
 ## Historical data
 | Date | Stars | Forks |

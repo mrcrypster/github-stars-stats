@@ -1,6 +1,4 @@
-# sony/meta-flutter / stars & forks statistics
-
-[Open repository/sony/meta-flutter](https://github.com/sony/meta-flutter)
+# sony/meta-flutter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 41
 
+[Open repository](https://github.com/sony/meta-flutter)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 41 | 12 | 
+| 2022-10-05 | 41 | 12 | 
+| 2022-10-04 | 41 | 12 | 
+| 2022-10-03 | 41 | 12 | 
+| 2022-10-02 | 41 | 12 | 
 | 2022-10-01 | 41 | 12 | 
 | 2022-09-30 | 41 | 12 | 
 | 2022-09-29 | 41 | 12 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 41 | 12 | 
 | 2022-09-09 | 41 | 12 | 
 | 2022-09-08 | 40 | 12 | 
-| 2022-09-07 | 40 | 12 | 
-| 2022-09-06 | 40 | 12 | 
-| 2022-09-05 | 40 | 12 | 
-| 2022-09-04 | 40 | 12 | 
-| 2022-09-03 | 40 | 12 | 
-| 2022-09-02 | 40 | 12 | 
 
 
 [Detailed charts & statistics for sony/meta-flutter](https://reviewgithub.com/rep/sony/meta-flutter)

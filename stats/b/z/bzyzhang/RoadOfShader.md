@@ -1,6 +1,4 @@
-# bzyzhang/RoadOfShader / stars & forks statistics
-
-[Open repository/bzyzhang/RoadOfShader](https://github.com/bzyzhang/RoadOfShader)
+# bzyzhang/RoadOfShader - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 49
 
+[Open repository](https://github.com/bzyzhang/RoadOfShader)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 49 | 11 | 
+| 2022-10-06 | 49 | 11 | 
+| 2022-10-05 | 49 | 11 | 
+| 2022-10-04 | 49 | 11 | 
+| 2022-10-03 | 49 | 11 | 
+| 2022-10-02 | 49 | 11 | 
+| 2022-09-30 | 49 | 11 | 
+| 2022-09-29 | 49 | 11 | 
+| 2022-09-28 | 49 | 11 | 
+| 2022-09-27 | 49 | 11 | 
 | 2022-09-26 | 49 | 11 | 
 | 2022-09-25 | 49 | 10 | 
 | 2022-09-24 | 49 | 10 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 49 | 10 | 
 | 2022-09-08 | 49 | 10 | 
 | 2022-09-07 | 49 | 10 | 
-| 2022-09-06 | 49 | 10 | 
-| 2022-09-05 | 49 | 10 | 
-| 2022-09-04 | 48 | 10 | 
-| 2022-09-03 | 48 | 10 | 
-| 2022-09-02 | 48 | 10 | 
-| 2022-09-01 | 48 | 10 | 
-| 2022-08-31 | 48 | 10 | 
-| 2022-08-30 | 48 | 10 | 
-| 2022-08-29 | 48 | 10 | 
-| 2022-08-28 | 46 | 10 | 
 
 
 [Detailed charts & statistics for bzyzhang/RoadOfShader](https://reviewgithub.com/rep/bzyzhang/RoadOfShader)

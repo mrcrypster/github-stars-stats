@@ -1,16 +1,27 @@
-# heroku/roadmap / stars & forks statistics
-
-[Open repository/heroku/roadmap](https://github.com/heroku/roadmap)
+# heroku/roadmap - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 120
+★ Stars: 124
+
+[Open repository](https://github.com/heroku/roadmap)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 124 | 1 | 
+| 2022-10-06 | 121 | 1 | 
+| 2022-10-05 | 120 | 1 | 
+| 2022-10-04 | 120 | 1 | 
+| 2022-10-03 | 120 | 1 | 
+| 2022-10-02 | 120 | 1 | 
+| 2022-10-01 | 120 | 1 | 
+| 2022-09-30 | 120 | 1 | 
+| 2022-09-29 | 120 | 1 | 
+| 2022-09-28 | 120 | - | 
+| 2022-09-27 | 120 | - | 
 | 2022-09-26 | 120 | - | 
 | 2022-09-25 | 120 | - | 
 | 2022-09-24 | 120 | - | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 113 | - | 
 | 2022-09-09 | 111 | - | 
 | 2022-09-07 | 110 | - | 
-| 2022-09-06 | 110 | - | 
-| 2022-09-05 | 108 | - | 
-| 2022-09-04 | 108 | - | 
-| 2022-09-03 | 108 | - | 
-| 2022-09-02 | 107 | - | 
-| 2022-09-01 | 105 | - | 
-| 2022-08-31 | 101 | - | 
-| 2022-08-30 | 97 | - | 
-| 2022-08-29 | 94 | - | 
-| 2022-08-28 | 91 | - | 
-| 2022-08-27 | 89 | - | 
 
 
 [Detailed charts & statistics for heroku/roadmap](https://reviewgithub.com/rep/heroku/roadmap)

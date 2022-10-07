@@ -1,12 +1,12 @@
-# Fnoberz/Valorant.Spoofer / stars & forks statistics
-
-[Open repository/Fnoberz/Valorant.Spoofer](https://github.com/Fnoberz/Valorant.Spoofer)
+# Fnoberz/Valorant.Spoofer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 68
+
+[Open repository](https://github.com/Fnoberz/Valorant.Spoofer)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,25 @@
-# inponomarev/java-mipt / stars & forks statistics
-
-[Open repository/inponomarev/java-mipt](https://github.com/inponomarev/java-mipt)
+# inponomarev/java-mipt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 56
+★ Stars: 58
+
+[Open repository](https://github.com/inponomarev/java-mipt)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 58 | 19 | 
+| 2022-10-06 | 57 | 18 | 
+| 2022-10-05 | 56 | 18 | 
+| 2022-10-04 | 56 | 18 | 
+| 2022-10-03 | 56 | 18 | 
+| 2022-10-02 | 56 | 18 | 
+| 2022-10-01 | 56 | 18 | 
+| 2022-09-30 | 56 | 18 | 
+| 2022-09-29 | 56 | 18 | 
 | 2022-09-28 | 56 | 18 | 
 | 2022-09-27 | 56 | 18 | 
 | 2022-09-26 | 56 | 18 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 55 | 18 | 
 | 2022-09-08 | 55 | 18 | 
 | 2022-09-07 | 55 | 18 | 
-| 2022-09-06 | 55 | 18 | 
-| 2022-09-05 | 55 | 18 | 
-| 2022-09-04 | 55 | 18 | 
-| 2022-09-03 | 55 | 18 | 
-| 2022-09-02 | 55 | 18 | 
-| 2022-09-01 | 55 | 18 | 
-| 2022-08-31 | 55 | 18 | 
-| 2022-08-30 | 55 | 18 | 
-| 2022-08-29 | 55 | 18 | 
 
 
 [Detailed charts & statistics for inponomarev/java-mipt](https://reviewgithub.com/rep/inponomarev/java-mipt)

@@ -1,12 +1,12 @@
-# opengateware/arcade-galaga / stars & forks statistics
-
-[Open repository/opengateware/arcade-galaga](https://github.com/opengateware/arcade-galaga)
+# opengateware/arcade-galaga - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 27
+
+[Open repository](https://github.com/opengateware/arcade-galaga)
 
 ## Historical data
 | Date | Stars | Forks |

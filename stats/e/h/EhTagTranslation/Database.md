@@ -1,16 +1,26 @@
-# EhTagTranslation/Database / stars & forks statistics
-
-[Open repository/EhTagTranslation/Database](https://github.com/EhTagTranslation/Database)
+# EhTagTranslation/Database - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
-★ Stars: 411
+★ Stars: 414
+
+[Open repository](https://github.com/EhTagTranslation/Database)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 414 | 47 | 
+| 2022-10-06 | 414 | 47 | 
+| 2022-10-05 | 414 | 47 | 
+| 2022-10-04 | 414 | 47 | 
+| 2022-10-03 | 414 | 47 | 
+| 2022-10-02 | 413 | 47 | 
+| 2022-10-01 | 413 | 47 | 
+| 2022-09-30 | 412 | 47 | 
+| 2022-09-29 | 412 | 47 | 
+| 2022-09-28 | 412 | 47 | 
 | 2022-09-27 | 411 | 47 | 
 | 2022-09-26 | 409 | 47 | 
 | 2022-09-25 | 409 | 47 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 405 | 47 | 
 | 2022-09-08 | 404 | 47 | 
 | 2022-09-07 | 403 | 47 | 
-| 2022-09-06 | 403 | 47 | 
-| 2022-09-05 | 403 | 47 | 
-| 2022-09-04 | 403 | 47 | 
-| 2022-09-03 | 402 | 47 | 
-| 2022-09-02 | 400 | 47 | 
-| 2022-09-01 | 398 | 47 | 
-| 2022-08-31 | 398 | 47 | 
-| 2022-08-30 | 397 | 47 | 
-| 2022-08-29 | 397 | 47 | 
-| 2022-08-28 | 396 | 47 | 
 
 
 [Detailed charts & statistics for EhTagTranslation/Database](https://reviewgithub.com/rep/EhTagTranslation/Database)

@@ -1,16 +1,25 @@
-# akbaryahya/DockerGS / stars & forks statistics
-
-[Open repository/akbaryahya/DockerGS](https://github.com/akbaryahya/DockerGS)
+# akbaryahya/DockerGS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 79
+☋ Forks: 80
 
-★ Stars: 268
+★ Stars: 271
+
+[Open repository](https://github.com/akbaryahya/DockerGS)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 271 | 80 | 
+| 2022-10-05 | 270 | 80 | 
+| 2022-10-04 | 270 | 80 | 
+| 2022-10-03 | 270 | 80 | 
+| 2022-10-02 | 270 | 80 | 
+| 2022-10-01 | 269 | 80 | 
+| 2022-09-30 | 269 | 80 | 
+| 2022-09-29 | 268 | 80 | 
+| 2022-09-28 | 268 | 80 | 
 | 2022-09-27 | 268 | 79 | 
 | 2022-09-26 | 269 | 79 | 
 | 2022-09-25 | 269 | 79 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 257 | 75 | 
 | 2022-09-09 | 255 | 72 | 
 | 2022-09-08 | 255 | 71 | 
-| 2022-09-07 | 255 | 71 | 
-| 2022-09-06 | 256 | 71 | 
-| 2022-09-05 | 255 | 71 | 
-| 2022-09-04 | 255 | 71 | 
-| 2022-09-03 | 252 | 69 | 
-| 2022-09-02 | 250 | 68 | 
-| 2022-09-01 | 250 | 67 | 
-| 2022-08-31 | 249 | 66 | 
-| 2022-08-30 | 246 | 66 | 
-| 2022-08-29 | 243 | 65 | 
 
 
 [Detailed charts & statistics for akbaryahya/DockerGS](https://reviewgithub.com/rep/akbaryahya/DockerGS)

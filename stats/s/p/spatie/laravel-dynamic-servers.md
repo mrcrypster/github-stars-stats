@@ -1,16 +1,25 @@
-# spatie/laravel-dynamic-servers / stars & forks statistics
-
-[Open repository/spatie/laravel-dynamic-servers](https://github.com/spatie/laravel-dynamic-servers)
+# spatie/laravel-dynamic-servers - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
-★ Stars: 130
+★ Stars: 149
+
+[Open repository](https://github.com/spatie/laravel-dynamic-servers)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 149 | 8 | 
+| 2022-10-05 | 149 | 8 | 
+| 2022-10-04 | 147 | 8 | 
+| 2022-10-03 | 141 | 8 | 
+| 2022-10-02 | 138 | 8 | 
+| 2022-10-01 | 137 | 8 | 
+| 2022-09-30 | 136 | 8 | 
+| 2022-09-29 | 136 | 8 | 
+| 2022-09-28 | 135 | 8 | 
 | 2022-09-27 | 130 | 8 | 
 | 2022-09-26 | 125 | 8 | 
 | 2022-09-25 | 111 | 8 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 101 | 7 | 
 | 2022-09-09 | 100 | 6 | 
 | 2022-09-08 | 94 | 6 | 
-| 2022-09-07 | 91 | 6 | 
-| 2022-09-06 | 86 | 4 | 
-| 2022-09-05 | 85 | 4 | 
-| 2022-09-04 | 83 | 4 | 
-| 2022-09-03 | 83 | 4 | 
-| 2022-09-02 | 83 | 4 | 
-| 2022-09-01 | 74 | 4 | 
-| 2022-08-31 | 52 | 2 | 
-| 2022-08-30 | 34 | 1 | 
-| 2022-08-29 | 27 | 1 | 
 
 
 [Detailed charts & statistics for spatie/laravel-dynamic-servers](https://reviewgithub.com/rep/spatie/laravel-dynamic-servers)

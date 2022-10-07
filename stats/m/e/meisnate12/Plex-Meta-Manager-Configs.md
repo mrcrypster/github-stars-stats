@@ -1,16 +1,23 @@
-# meisnate12/Plex-Meta-Manager-Configs / stars & forks statistics
-
-[Open repository/meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs)
+# meisnate12/Plex-Meta-Manager-Configs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 285
+☋ Forks: 288
 
-★ Stars: 297
+★ Stars: 300
+
+[Open repository](https://github.com/meisnate12/Plex-Meta-Manager-Configs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 300 | 288 | 
+| 2022-10-05 | 300 | 288 | 
+| 2022-10-04 | 299 | 288 | 
+| 2022-10-03 | 299 | 289 | 
+| 2022-10-02 | 298 | 288 | 
+| 2022-10-01 | 298 | 286 | 
+| 2022-09-30 | 298 | 286 | 
 | 2022-09-29 | 297 | 285 | 
 | 2022-09-28 | 295 | 285 | 
 | 2022-09-27 | 295 | 285 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 284 | 271 | 
 | 2022-09-09 | 282 | 268 | 
 | 2022-09-08 | 282 | 269 | 
-| 2022-09-07 | 282 | 269 | 
-| 2022-09-06 | 282 | 269 | 
-| 2022-09-05 | 282 | 268 | 
-| 2022-09-04 | 280 | 268 | 
-| 2022-09-03 | 278 | 268 | 
-| 2022-09-02 | 277 | 267 | 
-| 2022-09-01 | 277 | 266 | 
-| 2022-08-31 | 277 | 266 | 
 
 
 [Detailed charts & statistics for meisnate12/Plex-Meta-Manager-Configs](https://reviewgithub.com/rep/meisnate12/Plex-Meta-Manager-Configs)

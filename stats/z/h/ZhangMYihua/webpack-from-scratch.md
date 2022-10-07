@@ -1,16 +1,31 @@
-# ZhangMYihua/webpack-from-scratch / stars & forks statistics
-
-[Open repository/ZhangMYihua/webpack-from-scratch](https://github.com/ZhangMYihua/webpack-from-scratch)
+# ZhangMYihua/webpack-from-scratch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 398
+☋ Forks: 403
 
 ★ Stars: 8
+
+[Open repository](https://github.com/ZhangMYihua/webpack-from-scratch)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8 | 403 | 
+| 2022-10-06 | 8 | 402 | 
+| 2022-10-05 | 8 | 401 | 
+| 2022-10-04 | 8 | 401 | 
+| 2022-10-03 | 8 | 401 | 
+| 2022-10-02 | 8 | 401 | 
+| 2022-10-01 | 8 | 401 | 
+| 2022-09-30 | 8 | 400 | 
+| 2022-09-29 | 8 | 400 | 
+| 2022-09-28 | 8 | 400 | 
+| 2022-09-27 | 8 | 399 | 
+| 2022-09-26 | 8 | 399 | 
+| 2022-09-25 | 8 | 399 | 
+| 2022-09-24 | 8 | 399 | 
+| 2022-09-23 | 8 | 399 | 
 | 2022-09-22 | 8 | 398 | 
 | 2022-09-21 | 8 | 396 | 
 | 2022-09-20 | 8 | 396 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 8 | 393 | 
 | 2022-09-08 | 8 | 392 | 
 | 2022-09-07 | 8 | 392 | 
-| 2022-09-06 | 8 | 391 | 
-| 2022-09-05 | 8 | 391 | 
-| 2022-09-04 | 8 | 390 | 
-| 2022-09-03 | 8 | 390 | 
-| 2022-09-02 | 8 | 390 | 
-| 2022-09-01 | 8 | 387 | 
-| 2022-08-31 | 8 | 387 | 
-| 2022-08-30 | 8 | 385 | 
-| 2022-08-29 | 8 | 384 | 
-| 2022-08-28 | 8 | 384 | 
-| 2022-08-27 | 8 | 383 | 
-| 2022-08-26 | 8 | 382 | 
-| 2022-08-25 | 8 | 381 | 
-| 2022-08-24 | 8 | 381 | 
-| 2022-08-23 | 8 | 381 | 
 
 
 [Detailed charts & statistics for ZhangMYihua/webpack-from-scratch](https://reviewgithub.com/rep/ZhangMYihua/webpack-from-scratch)

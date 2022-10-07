@@ -1,6 +1,4 @@
-# mparticle-integrations/mparticle-apple-integration-apptentive / stars & forks statistics
-
-[Open repository/mparticle-integrations/mparticle-apple-integration-apptentive](https://github.com/mparticle-integrations/mparticle-apple-integration-apptentive)
+# mparticle-integrations/mparticle-apple-integration-apptentive - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/mparticle-integrations/mparticle-apple-integration-apptentive)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 10 | 
+| 2022-10-05 | - | 10 | 
 | 2022-10-04 | - | 10 | 
 | 2022-10-03 | - | 10 | 
 | 2022-10-02 | - | 10 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 10 | 
 | 2022-09-09 | - | 10 | 
 | 2022-09-08 | - | 10 | 
-| 2022-09-07 | - | 10 | 
-| 2022-09-06 | - | 10 | 
-| 2022-09-05 | - | 10 | 
 
 
 [Detailed charts & statistics for mparticle-integrations/mparticle-apple-integration-apptentive](https://reviewgithub.com/rep/mparticle-integrations/mparticle-apple-integration-apptentive)

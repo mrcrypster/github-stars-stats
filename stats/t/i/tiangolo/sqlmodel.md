@@ -1,16 +1,25 @@
-# tiangolo/sqlmodel / stars & forks statistics
-
-[Open repository/tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+# tiangolo/sqlmodel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 366
+☋ Forks: 367
 
-★ Stars: 8665
+★ Stars: 8706
+
+[Open repository](https://github.com/tiangolo/sqlmodel)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 8706 | 367 | 
+| 2022-10-05 | 8700 | 367 | 
+| 2022-10-04 | 8699 | 368 | 
+| 2022-10-03 | 8695 | 368 | 
+| 2022-10-02 | 8687 | 368 | 
+| 2022-10-01 | 8683 | 368 | 
+| 2022-09-30 | 8682 | 368 | 
+| 2022-09-29 | 8677 | 368 | 
+| 2022-09-28 | 8672 | 367 | 
 | 2022-09-27 | 8665 | 366 | 
 | 2022-09-26 | 8656 | 366 | 
 | 2022-09-25 | 8650 | 365 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 8547 | 360 | 
 | 2022-09-09 | 8536 | 360 | 
 | 2022-09-08 | 8529 | 359 | 
-| 2022-09-07 | 8505 | 359 | 
-| 2022-09-06 | 8490 | 359 | 
-| 2022-09-05 | 8479 | 359 | 
-| 2022-09-04 | 8461 | 358 | 
-| 2022-09-03 | 8447 | 357 | 
-| 2022-09-02 | 8423 | 358 | 
-| 2022-09-01 | 8322 | 357 | 
-| 2022-08-31 | 8240 | 355 | 
-| 2022-08-30 | 8071 | 350 | 
-| 2022-08-29 | 8022 | 349 | 
 
 
 [Detailed charts & statistics for tiangolo/sqlmodel](https://reviewgithub.com/rep/tiangolo/sqlmodel)

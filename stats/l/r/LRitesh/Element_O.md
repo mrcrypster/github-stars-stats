@@ -1,12 +1,12 @@
-# LRitesh/Element_O / stars & forks statistics
-
-[Open repository/LRitesh/Element_O](https://github.com/LRitesh/Element_O)
+# LRitesh/Element_O - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/LRitesh/Element_O)
 
 ## Historical data
 | Date | Stars | Forks |

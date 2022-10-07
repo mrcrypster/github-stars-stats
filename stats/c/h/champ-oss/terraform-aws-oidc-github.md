@@ -1,12 +1,12 @@
-# champ-oss/terraform-aws-oidc-github / stars & forks statistics
-
-[Open repository/champ-oss/terraform-aws-oidc-github](https://github.com/champ-oss/terraform-aws-oidc-github)
+# champ-oss/terraform-aws-oidc-github - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/champ-oss/terraform-aws-oidc-github)
 
 ## Historical data
 | Date | Stars | Forks |

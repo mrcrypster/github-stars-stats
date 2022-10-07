@@ -1,12 +1,12 @@
-# shahednasser/awesome-resources / stars & forks statistics
-
-[Open repository/shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
+# shahednasser/awesome-resources - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 325
 
 ★ Stars: 391
+
+[Open repository](https://github.com/shahednasser/awesome-resources)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,31 @@
-# fengdu78/WZU-machine-learning-course / stars & forks statistics
-
-[Open repository/fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)
+# fengdu78/WZU-machine-learning-course - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 510
+☋ Forks: 520
 
-★ Stars: 1157
+★ Stars: 1171
+
+[Open repository](https://github.com/fengdu78/WZU-machine-learning-course)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1171 | 520 | 
+| 2022-10-06 | 1170 | 520 | 
+| 2022-10-05 | 1168 | 519 | 
+| 2022-10-04 | 1167 | 519 | 
+| 2022-10-03 | 1167 | 519 | 
+| 2022-10-02 | 1166 | 519 | 
+| 2022-10-01 | 1166 | 518 | 
+| 2022-09-30 | 1166 | 518 | 
+| 2022-09-29 | 1165 | 516 | 
+| 2022-09-28 | 1165 | 516 | 
+| 2022-09-27 | 1163 | 515 | 
+| 2022-09-26 | 1160 | 511 | 
+| 2022-09-25 | 1158 | 511 | 
+| 2022-09-24 | 1158 | 511 | 
+| 2022-09-23 | 1158 | 511 | 
 | 2022-09-22 | 1157 | 510 | 
 | 2022-09-21 | 1157 | 510 | 
 | 2022-09-20 | 1157 | 509 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1140 | 497 | 
 | 2022-09-08 | 1139 | 497 | 
 | 2022-09-07 | 1138 | 497 | 
-| 2022-09-06 | 1138 | 497 | 
-| 2022-09-05 | 1138 | 497 | 
-| 2022-09-04 | 1136 | 497 | 
-| 2022-09-03 | 1136 | 497 | 
-| 2022-09-02 | 1135 | 497 | 
-| 2022-09-01 | 1132 | 495 | 
-| 2022-08-31 | 1130 | 495 | 
-| 2022-08-30 | 1129 | 493 | 
-| 2022-08-29 | 1127 | 493 | 
-| 2022-08-28 | 1127 | 493 | 
-| 2022-08-27 | 1127 | 493 | 
-| 2022-08-26 | 1127 | 494 | 
-| 2022-08-25 | 1127 | 494 | 
-| 2022-08-24 | 1126 | 493 | 
-| 2022-08-23 | 1123 | 493 | 
 
 
 [Detailed charts & statistics for fengdu78/WZU-machine-learning-course](https://reviewgithub.com/rep/fengdu78/WZU-machine-learning-course)

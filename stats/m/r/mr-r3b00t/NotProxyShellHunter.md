@@ -1,12 +1,12 @@
-# mr-r3b00t/NotProxyShellHunter / stars & forks statistics
-
-[Open repository/mr-r3b00t/NotProxyShellHunter](https://github.com/mr-r3b00t/NotProxyShellHunter)
+# mr-r3b00t/NotProxyShellHunter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 22
+
+[Open repository](https://github.com/mr-r3b00t/NotProxyShellHunter)
 
 ## Historical data
 | Date | Stars | Forks |

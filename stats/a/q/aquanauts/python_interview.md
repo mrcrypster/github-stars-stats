@@ -1,12 +1,12 @@
-# aquanauts/python_interview / stars & forks statistics
-
-[Open repository/aquanauts/python_interview](https://github.com/aquanauts/python_interview)
+# aquanauts/python_interview - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 22
+
+[Open repository](https://github.com/aquanauts/python_interview)
 
 ## Historical data
 | Date | Stars | Forks |

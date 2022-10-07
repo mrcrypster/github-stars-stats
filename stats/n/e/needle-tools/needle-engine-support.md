@@ -1,16 +1,28 @@
-# needle-tools/needle-engine-support / stars & forks statistics
-
-[Open repository/needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support)
+# needle-tools/needle-engine-support - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 13
+☋ Forks: 17
 
-★ Stars: 269
+★ Stars: 297
+
+[Open repository](https://github.com/needle-tools/needle-engine-support)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 297 | 17 | 
+| 2022-10-06 | 295 | 16 | 
+| 2022-10-05 | 294 | 15 | 
+| 2022-10-04 | 291 | 15 | 
+| 2022-10-03 | 290 | 15 | 
+| 2022-10-02 | 289 | 15 | 
+| 2022-10-01 | 288 | 15 | 
+| 2022-09-30 | 283 | 14 | 
+| 2022-09-29 | 278 | 13 | 
+| 2022-09-28 | 274 | 13 | 
+| 2022-09-27 | 272 | 13 | 
+| 2022-09-26 | 270 | 13 | 
 | 2022-09-25 | 269 | 13 | 
 | 2022-09-24 | 269 | 13 | 
 | 2022-09-23 | 269 | 13 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 246 | 10 | 
 | 2022-09-08 | 241 | 10 | 
 | 2022-09-07 | 237 | 7 | 
-| 2022-09-06 | 236 | 7 | 
-| 2022-09-05 | 232 | 6 | 
-| 2022-09-04 | 224 | 6 | 
-| 2022-09-03 | 220 | 5 | 
-| 2022-09-02 | 216 | 5 | 
-| 2022-09-01 | 213 | 5 | 
-| 2022-08-31 | 207 | 5 | 
-| 2022-08-30 | 200 | 5 | 
-| 2022-08-29 | 175 | 5 | 
-| 2022-08-28 | 163 | 5 | 
-| 2022-08-27 | 155 | 4 | 
-| 2022-08-26 | 149 | 4 | 
 
 
 [Detailed charts & statistics for needle-tools/needle-engine-support](https://reviewgithub.com/rep/needle-tools/needle-engine-support)

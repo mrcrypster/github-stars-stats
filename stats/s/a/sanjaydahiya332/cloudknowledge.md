@@ -1,16 +1,32 @@
-# sanjaydahiya332/cloudknowledge / stars & forks statistics
-
-[Open repository/sanjaydahiya332/cloudknowledge](https://github.com/sanjaydahiya332/cloudknowledge)
+# sanjaydahiya332/cloudknowledge - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 0
+
+[Open repository](https://github.com/sanjaydahiya332/cloudknowledge)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 74 | 
+| 2022-10-06 | - | 74 | 
+| 2022-10-05 | - | 74 | 
+| 2022-10-04 | - | 74 | 
+| 2022-10-03 | - | 74 | 
+| 2022-10-02 | - | 74 | 
+| 2022-10-01 | - | 74 | 
+| 2022-09-30 | - | 74 | 
+| 2022-09-29 | - | 74 | 
+| 2022-09-28 | - | 74 | 
+| 2022-09-27 | - | 74 | 
+| 2022-09-26 | - | 74 | 
+| 2022-09-25 | - | 74 | 
+| 2022-09-24 | - | 74 | 
+| 2022-09-23 | - | 73 | 
+| 2022-09-21 | - | 73 | 
 | 2022-09-20 | - | 73 | 
 | 2022-09-19 | - | 73 | 
 | 2022-09-18 | - | 73 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 71 | 
 | 2022-09-08 | - | 71 | 
 | 2022-09-07 | - | 71 | 
-| 2022-09-06 | - | 71 | 
-| 2022-09-05 | - | 71 | 
-| 2022-09-04 | - | 70 | 
-| 2022-09-03 | - | 70 | 
-| 2022-09-02 | - | 69 | 
-| 2022-09-01 | - | 69 | 
-| 2022-08-31 | - | 69 | 
-| 2022-08-30 | - | 69 | 
-| 2022-08-29 | - | 69 | 
-| 2022-08-28 | - | 69 | 
-| 2022-08-27 | - | 69 | 
-| 2022-08-26 | - | 69 | 
-| 2022-08-25 | - | 69 | 
-| 2022-08-24 | - | 69 | 
-| 2022-08-23 | - | 69 | 
-| 2022-08-22 | - | 69 | 
 
 
 [Detailed charts & statistics for sanjaydahiya332/cloudknowledge](https://reviewgithub.com/rep/sanjaydahiya332/cloudknowledge)

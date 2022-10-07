@@ -1,12 +1,12 @@
-# beacon-biosignals/Onda.jl / stars & forks statistics
-
-[Open repository/beacon-biosignals/Onda.jl](https://github.com/beacon-biosignals/Onda.jl)
+# beacon-biosignals/Onda.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 29
+
+[Open repository](https://github.com/beacon-biosignals/Onda.jl)
 
 ## Historical data
 | Date | Stars | Forks |

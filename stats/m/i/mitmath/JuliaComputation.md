@@ -1,12 +1,12 @@
-# mitmath/JuliaComputation / stars & forks statistics
-
-[Open repository/mitmath/JuliaComputation](https://github.com/mitmath/JuliaComputation)
+# mitmath/JuliaComputation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 25
+
+[Open repository](https://github.com/mitmath/JuliaComputation)
 
 ## Historical data
 | Date | Stars | Forks |

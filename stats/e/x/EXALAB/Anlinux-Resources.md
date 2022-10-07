@@ -1,16 +1,25 @@
-# EXALAB/Anlinux-Resources / stars & forks statistics
-
-[Open repository/EXALAB/Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources)
+# EXALAB/Anlinux-Resources - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 506
 
-★ Stars: 515
+★ Stars: 516
+
+[Open repository](https://github.com/EXALAB/Anlinux-Resources)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 516 | 506 | 
+| 2022-10-06 | 517 | 506 | 
+| 2022-10-05 | 517 | 506 | 
+| 2022-10-04 | 517 | 506 | 
+| 2022-10-03 | 517 | 506 | 
+| 2022-10-02 | 517 | 506 | 
+| 2022-10-01 | 517 | 506 | 
+| 2022-09-30 | 517 | 506 | 
+| 2022-09-29 | 516 | 506 | 
 | 2022-09-28 | 515 | 506 | 
 | 2022-09-27 | 515 | 506 | 
 | 2022-09-26 | 515 | 506 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 506 | 499 | 
 | 2022-09-08 | 506 | 499 | 
 | 2022-09-07 | 505 | 499 | 
-| 2022-09-06 | 505 | 498 | 
-| 2022-09-05 | 504 | 500 | 
-| 2022-09-04 | 504 | 501 | 
-| 2022-09-03 | 504 | 499 | 
-| 2022-09-02 | 502 | 499 | 
-| 2022-09-01 | 502 | 499 | 
-| 2022-08-31 | 502 | 499 | 
-| 2022-08-30 | 501 | 499 | 
-| 2022-08-29 | 501 | 499 | 
 
 
 [Detailed charts & statistics for EXALAB/Anlinux-Resources](https://reviewgithub.com/rep/EXALAB/Anlinux-Resources)

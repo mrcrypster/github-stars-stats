@@ -1,16 +1,26 @@
-# craftcms/spoke-and-chain / stars & forks statistics
-
-[Open repository/craftcms/spoke-and-chain](https://github.com/craftcms/spoke-and-chain)
+# craftcms/spoke-and-chain - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 32
+★ Stars: 33
+
+[Open repository](https://github.com/craftcms/spoke-and-chain)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 33 | 19 | 
+| 2022-10-05 | 33 | 19 | 
+| 2022-10-04 | 33 | 19 | 
+| 2022-10-03 | 33 | 19 | 
+| 2022-10-02 | 33 | 19 | 
+| 2022-10-01 | 33 | 19 | 
+| 2022-09-30 | 33 | 19 | 
+| 2022-09-29 | 33 | 19 | 
+| 2022-09-28 | 33 | 18 | 
+| 2022-09-27 | 32 | 18 | 
 | 2022-09-26 | 32 | 18 | 
 | 2022-09-25 | 32 | 18 | 
 | 2022-09-24 | 32 | 18 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 32 | 17 | 
 | 2022-09-09 | 32 | 17 | 
 | 2022-09-08 | 32 | 17 | 
-| 2022-09-07 | 32 | 17 | 
-| 2022-09-06 | 32 | 17 | 
-| 2022-09-05 | 32 | 17 | 
-| 2022-09-04 | 32 | 17 | 
-| 2022-09-03 | 32 | 17 | 
-| 2022-09-02 | 32 | 18 | 
-| 2022-09-01 | 32 | 18 | 
-| 2022-08-31 | 32 | 18 | 
-| 2022-08-30 | 31 | 17 | 
-| 2022-08-29 | 31 | 17 | 
-| 2022-08-28 | 31 | 17 | 
 
 
 [Detailed charts & statistics for craftcms/spoke-and-chain](https://reviewgithub.com/rep/craftcms/spoke-and-chain)

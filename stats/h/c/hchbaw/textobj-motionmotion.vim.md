@@ -1,12 +1,12 @@
-# hchbaw/textobj-motionmotion.vim / stars & forks statistics
-
-[Open repository/hchbaw/textobj-motionmotion.vim](https://github.com/hchbaw/textobj-motionmotion.vim)
+# hchbaw/textobj-motionmotion.vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
+
+[Open repository](https://github.com/hchbaw/textobj-motionmotion.vim)
 
 ## Historical data
 | Date | Stars | Forks |

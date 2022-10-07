@@ -1,6 +1,4 @@
-# aagustini/ExercicioLinq20222 / stars & forks statistics
-
-[Open repository/aagustini/ExercicioLinq20222](https://github.com/aagustini/ExercicioLinq20222)
+# aagustini/ExercicioLinq20222 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/aagustini/ExercicioLinq20222)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 12 | 
+| 2022-10-05 | - | 12 | 
+| 2022-10-04 | - | 12 | 
+| 2022-10-03 | - | 12 | 
+| 2022-10-02 | - | 12 | 
+| 2022-10-01 | - | 12 | 
+| 2022-09-30 | - | 12 | 
+| 2022-09-29 | - | 12 | 
+| 2022-09-28 | - | 12 | 
+| 2022-09-27 | - | 12 | 
 | 2022-09-26 | - | 12 | 
 | 2022-09-25 | - | 12 | 
 | 2022-09-24 | - | 12 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 12 | 
 | 2022-09-09 | - | 12 | 
 | 2022-09-08 | - | 12 | 
-| 2022-09-07 | - | 12 | 
-| 2022-09-06 | - | 12 | 
-| 2022-09-05 | - | 12 | 
-| 2022-09-04 | - | 10 | 
-| 2022-09-03 | - | 10 | 
-| 2022-09-02 | - | 10 | 
-| 2022-09-01 | - | 10 | 
-| 2022-08-31 | - | 10 | 
-| 2022-08-30 | - | 10 | 
-| 2022-08-29 | - | 9 | 
-| 2022-08-28 | - | 7 | 
 
 
 [Detailed charts & statistics for aagustini/ExercicioLinq20222](https://reviewgithub.com/rep/aagustini/ExercicioLinq20222)

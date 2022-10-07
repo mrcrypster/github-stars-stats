@@ -1,12 +1,12 @@
-# ros2/python_cmake_module / stars & forks statistics
-
-[Open repository/ros2/python_cmake_module](https://github.com/ros2/python_cmake_module)
+# ros2/python_cmake_module - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 3
+
+[Open repository](https://github.com/ros2/python_cmake_module)
 
 ## Historical data
 | Date | Stars | Forks |

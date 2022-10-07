@@ -1,12 +1,12 @@
-# InvisiblePro/Hacktoberfest-2022 / stars & forks statistics
-
-[Open repository/InvisiblePro/Hacktoberfest-2022](https://github.com/InvisiblePro/Hacktoberfest-2022)
+# InvisiblePro/Hacktoberfest-2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 71
 
 ★ Stars: 14
+
+[Open repository](https://github.com/InvisiblePro/Hacktoberfest-2022)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,30 @@
-# cdpierse/transformers-interpret / stars & forks statistics
-
-[Open repository/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)
+# cdpierse/transformers-interpret - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 74
+☋ Forks: 73
 
-★ Stars: 803
+★ Stars: 813
+
+[Open repository](https://github.com/cdpierse/transformers-interpret)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 813 | 73 | 
+| 2022-10-06 | 813 | 73 | 
+| 2022-10-05 | 812 | 74 | 
+| 2022-10-04 | 812 | 74 | 
+| 2022-10-03 | 812 | 74 | 
+| 2022-10-02 | 811 | 74 | 
+| 2022-10-01 | 811 | 74 | 
+| 2022-09-30 | 809 | 74 | 
+| 2022-09-29 | 809 | 74 | 
+| 2022-09-28 | 809 | 74 | 
+| 2022-09-27 | 808 | 74 | 
+| 2022-09-26 | 807 | 74 | 
+| 2022-09-25 | 805 | 74 | 
+| 2022-09-24 | 803 | 74 | 
 | 2022-09-23 | 803 | 74 | 
 | 2022-09-22 | 802 | 74 | 
 | 2022-09-21 | 800 | 74 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 788 | 75 | 
 | 2022-09-08 | 788 | 75 | 
 | 2022-09-07 | 784 | 75 | 
-| 2022-09-06 | 782 | 75 | 
-| 2022-09-05 | 782 | 75 | 
-| 2022-09-04 | 781 | 75 | 
-| 2022-09-03 | 781 | 75 | 
-| 2022-09-02 | 779 | 74 | 
-| 2022-09-01 | 776 | 74 | 
-| 2022-08-31 | 775 | 74 | 
-| 2022-08-30 | 772 | 74 | 
-| 2022-08-29 | 770 | 73 | 
-| 2022-08-28 | 767 | 73 | 
-| 2022-08-27 | 766 | 73 | 
-| 2022-08-26 | 766 | 73 | 
-| 2022-08-25 | 757 | 73 | 
-| 2022-08-24 | 754 | 73 | 
 
 
 [Detailed charts & statistics for cdpierse/transformers-interpret](https://reviewgithub.com/rep/cdpierse/transformers-interpret)

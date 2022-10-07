@@ -1,46 +1,46 @@
-# AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet / stars & forks statistics
-
-[Open repository/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet)
+# AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 328
+☋ Forks: 330
 
-★ Stars: 868
+★ Stars: 887
+
+[Open repository](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 868 | 328 | 
-| 2022-07-29 | 868 | 328 | 
-| 2022-07-28 | 868 | 328 | 
-| 2022-07-27 | 868 | 328 | 
-| 2022-07-26 | 867 | 328 | 
-| 2022-07-25 | 867 | 327 | 
-| 2022-07-24 | 867 | 327 | 
-| 2022-07-23 | 867 | 327 | 
-| 2022-07-22 | 867 | 327 | 
-| 2022-07-21 | 867 | 326 | 
-| 2022-07-20 | 866 | 326 | 
-| 2022-07-19 | 865 | 326 | 
-| 2022-07-18 | 865 | 326 | 
-| 2022-07-17 | 865 | 326 | 
-| 2022-07-16 | 865 | 326 | 
-| 2022-07-15 | 865 | 325 | 
-| 2022-07-14 | 865 | 325 | 
-| 2022-07-13 | 864 | 325 | 
-| 2022-07-12 | 864 | 325 | 
-| 2022-07-11 | 864 | 325 | 
-| 2022-07-10 | 864 | 325 | 
-| 2022-07-09 | 862 | 325 | 
-| 2022-07-08 | 862 | 325 | 
-| 2022-07-07 | 861 | 325 | 
-| 2022-07-06 | 860 | 325 | 
-| 2022-07-05 | 859 | 325 | 
-| 2022-07-04 | 859 | 325 | 
-| 2022-07-03 | 859 | 325 | 
-| 2022-07-02 | 859 | 325 | 
-| 2022-07-01 | 858 | 325 | 
+| 2022-10-07 | 887 | 330 | 
+| 2022-10-06 | 887 | 330 | 
+| 2022-10-05 | 886 | 330 | 
+| 2022-10-04 | 886 | 330 | 
+| 2022-10-03 | 886 | 330 | 
+| 2022-10-02 | 886 | 330 | 
+| 2022-10-01 | 886 | 330 | 
+| 2022-09-30 | 885 | 330 | 
+| 2022-09-29 | 885 | 330 | 
+| 2022-09-28 | 885 | 330 | 
+| 2022-09-27 | 885 | 330 | 
+| 2022-09-25 | 885 | 330 | 
+| 2022-09-24 | 885 | 330 | 
+| 2022-09-23 | 884 | 330 | 
+| 2022-09-22 | 884 | 330 | 
+| 2022-09-21 | 884 | 329 | 
+| 2022-09-20 | 884 | 329 | 
+| 2022-09-19 | 884 | 329 | 
+| 2022-09-18 | 884 | 329 | 
+| 2022-09-17 | 883 | 329 | 
+| 2022-09-16 | 883 | 329 | 
+| 2022-09-15 | 882 | 329 | 
+| 2022-09-14 | 882 | 329 | 
+| 2022-09-13 | 882 | 329 | 
+| 2022-09-12 | 882 | 329 | 
+| 2022-09-11 | 882 | 329 | 
+| 2022-09-10 | 882 | 329 | 
+| 2022-09-09 | 882 | 329 | 
+| 2022-09-08 | 882 | 329 | 
+| 2022-09-07 | 881 | 329 | 
 
 
 [Detailed charts & statistics for AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet](https://reviewgithub.com/rep/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet)

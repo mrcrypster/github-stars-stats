@@ -1,12 +1,12 @@
-# myanzik/example-contracts / stars & forks statistics
-
-[Open repository/myanzik/example-contracts](https://github.com/myanzik/example-contracts)
+# myanzik/example-contracts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 1
+
+[Open repository](https://github.com/myanzik/example-contracts)
 
 ## Historical data
 | Date | Stars | Forks |

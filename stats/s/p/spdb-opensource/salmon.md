@@ -1,12 +1,12 @@
-# spdb-opensource/salmon / stars & forks statistics
-
-[Open repository/spdb-opensource/salmon](https://github.com/spdb-opensource/salmon)
+# spdb-opensource/salmon - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 32
+
+[Open repository](https://github.com/spdb-opensource/salmon)
 
 ## Historical data
 | Date | Stars | Forks |

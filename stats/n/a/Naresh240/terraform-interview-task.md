@@ -1,12 +1,12 @@
-# Naresh240/terraform-interview-task / stars & forks statistics
-
-[Open repository/Naresh240/terraform-interview-task](https://github.com/Naresh240/terraform-interview-task)
+# Naresh240/terraform-interview-task - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Naresh240/terraform-interview-task)
 
 ## Historical data
 | Date | Stars | Forks |

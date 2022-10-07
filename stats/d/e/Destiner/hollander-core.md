@@ -1,12 +1,12 @@
-# Destiner/hollander-core / stars & forks statistics
-
-[Open repository/Destiner/hollander-core](https://github.com/Destiner/hollander-core)
+# Destiner/hollander-core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 39
+
+[Open repository](https://github.com/Destiner/hollander-core)
 
 ## Historical data
 | Date | Stars | Forks |

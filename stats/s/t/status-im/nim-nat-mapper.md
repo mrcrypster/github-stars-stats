@@ -1,12 +1,12 @@
-# status-im/nim-nat-mapper / stars & forks statistics
-
-[Open repository/status-im/nim-nat-mapper](https://github.com/status-im/nim-nat-mapper)
+# status-im/nim-nat-mapper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/status-im/nim-nat-mapper)
 
 ## Historical data
 | Date | Stars | Forks |

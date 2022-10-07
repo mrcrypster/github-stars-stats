@@ -1,12 +1,12 @@
-# daniilidis-group/ffmpeg_image_transport_msgs / stars & forks statistics
-
-[Open repository/daniilidis-group/ffmpeg_image_transport_msgs](https://github.com/daniilidis-group/ffmpeg_image_transport_msgs)
+# daniilidis-group/ffmpeg_image_transport_msgs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
+
+[Open repository](https://github.com/daniilidis-group/ffmpeg_image_transport_msgs)
 
 ## Historical data
 | Date | Stars | Forks |

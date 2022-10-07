@@ -1,12 +1,12 @@
-# samn/auto-rt / stars & forks statistics
-
-[Open repository/samn/auto-rt](https://github.com/samn/auto-rt)
+# samn/auto-rt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/samn/auto-rt)
 
 ## Historical data
 | Date | Stars | Forks |

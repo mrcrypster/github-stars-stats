@@ -1,16 +1,25 @@
-# WeijieH/D3keyHelper / stars & forks statistics
-
-[Open repository/WeijieH/D3keyHelper](https://github.com/WeijieH/D3keyHelper)
+# WeijieH/D3keyHelper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
-★ Stars: 177
+★ Stars: 180
+
+[Open repository](https://github.com/WeijieH/D3keyHelper)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 180 | 40 | 
+| 2022-10-05 | 180 | 40 | 
+| 2022-10-04 | 180 | 40 | 
+| 2022-10-03 | 180 | 40 | 
+| 2022-10-02 | 180 | 40 | 
+| 2022-10-01 | 180 | 40 | 
+| 2022-09-30 | 179 | 40 | 
+| 2022-09-29 | 179 | 40 | 
+| 2022-09-28 | 177 | 40 | 
 | 2022-09-27 | 177 | 40 | 
 | 2022-09-26 | 177 | 40 | 
 | 2022-09-25 | 176 | 40 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 166 | 36 | 
 | 2022-09-08 | 165 | 35 | 
 | 2022-09-07 | 165 | 35 | 
-| 2022-09-06 | 164 | 34 | 
-| 2022-09-05 | 162 | 34 | 
-| 2022-09-04 | 160 | 34 | 
-| 2022-09-03 | 157 | 34 | 
-| 2022-09-02 | 157 | 34 | 
-| 2022-09-01 | 156 | 34 | 
-| 2022-08-31 | 155 | 34 | 
-| 2022-08-30 | 153 | 33 | 
-| 2022-08-29 | 149 | 31 | 
 
 
 [Detailed charts & statistics for WeijieH/D3keyHelper](https://reviewgithub.com/rep/WeijieH/D3keyHelper)

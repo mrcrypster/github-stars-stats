@@ -1,12 +1,12 @@
-# goes-funky/workflows / stars & forks statistics
-
-[Open repository/goes-funky/workflows](https://github.com/goes-funky/workflows)
+# goes-funky/workflows - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/goes-funky/workflows)
 
 ## Historical data
 | Date | Stars | Forks |

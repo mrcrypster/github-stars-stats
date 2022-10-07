@@ -1,12 +1,12 @@
-# jhickner/minions / stars & forks statistics
-
-[Open repository/jhickner/minions](https://github.com/jhickner/minions)
+# jhickner/minions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 22
+
+[Open repository](https://github.com/jhickner/minions)
 
 ## Historical data
 | Date | Stars | Forks |

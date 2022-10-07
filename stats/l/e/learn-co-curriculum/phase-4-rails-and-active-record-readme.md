@@ -1,16 +1,24 @@
-# learn-co-curriculum/phase-4-rails-and-active-record-readme / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-4-rails-and-active-record-readme](https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-readme)
+# learn-co-curriculum/phase-4-rails-and-active-record-readme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1381
+☋ Forks: 1425
 
 ★ Stars: 1
+
+[Open repository](https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-readme)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 1425 | 
+| 2022-10-05 | 1 | 1424 | 
+| 2022-10-04 | 1 | 1420 | 
+| 2022-10-03 | 1 | 1412 | 
+| 2022-10-02 | 1 | 1405 | 
+| 2022-10-01 | 1 | 1404 | 
+| 2022-09-30 | 1 | 1401 | 
+| 2022-09-29 | 1 | 1390 | 
 | 2022-09-28 | 1 | 1381 | 
 | 2022-09-27 | 1 | 1355 | 
 | 2022-09-26 | - | 1280 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 1109 | 
 | 2022-09-08 | - | 1108 | 
 | 2022-09-07 | - | 1109 | 
-| 2022-09-06 | - | 1106 | 
-| 2022-09-05 | - | 1105 | 
-| 2022-09-04 | - | 1106 | 
-| 2022-09-03 | - | 1106 | 
-| 2022-09-02 | - | 1106 | 
-| 2022-09-01 | - | 1106 | 
-| 2022-08-31 | - | 1106 | 
-| 2022-08-30 | - | 1099 | 
-| 2022-08-29 | - | 1096 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-4-rails-and-active-record-readme](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-and-active-record-readme)

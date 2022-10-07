@@ -1,16 +1,26 @@
-# pytorch/opacus / stars & forks statistics
-
-[Open repository/pytorch/opacus](https://github.com/pytorch/opacus)
+# pytorch/opacus - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 232
+☋ Forks: 235
 
-★ Stars: 1240
+★ Stars: 1251
+
+[Open repository](https://github.com/pytorch/opacus)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1251 | 235 | 
+| 2022-10-06 | 1250 | 235 | 
+| 2022-10-05 | 1249 | 234 | 
+| 2022-10-04 | 1247 | 235 | 
+| 2022-10-02 | 1246 | 235 | 
+| 2022-10-01 | 1246 | 235 | 
+| 2022-09-30 | 1246 | 235 | 
+| 2022-09-29 | 1243 | 233 | 
+| 2022-09-28 | 1241 | 232 | 
+| 2022-09-27 | 1240 | 232 | 
 | 2022-09-26 | 1240 | 232 | 
 | 2022-09-25 | 1239 | 232 | 
 | 2022-09-24 | 1236 | 232 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1219 | 229 | 
 | 2022-09-08 | 1219 | 229 | 
 | 2022-09-07 | 1219 | 229 | 
-| 2022-09-06 | 1220 | 229 | 
-| 2022-09-05 | 1219 | 229 | 
-| 2022-09-04 | 1219 | 229 | 
-| 2022-09-03 | 1219 | 229 | 
-| 2022-09-02 | 1219 | 228 | 
-| 2022-09-01 | 1219 | 228 | 
-| 2022-08-31 | 1220 | 227 | 
-| 2022-08-30 | 1220 | 227 | 
-| 2022-08-29 | 1220 | 227 | 
-| 2022-08-28 | 1220 | 227 | 
 
 
 [Detailed charts & statistics for pytorch/opacus](https://reviewgithub.com/rep/pytorch/opacus)

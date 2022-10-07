@@ -1,12 +1,12 @@
-# Accenture/Codecepticon / stars & forks statistics
-
-[Open repository/Accenture/Codecepticon](https://github.com/Accenture/Codecepticon)
+# Accenture/Codecepticon - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 184
+
+[Open repository](https://github.com/Accenture/Codecepticon)
 
 ## Historical data
 | Date | Stars | Forks |

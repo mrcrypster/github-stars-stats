@@ -1,12 +1,12 @@
-# eve-autonomy/shutdown_manager_msgs / stars & forks statistics
-
-[Open repository/eve-autonomy/shutdown_manager_msgs](https://github.com/eve-autonomy/shutdown_manager_msgs)
+# eve-autonomy/shutdown_manager_msgs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/eve-autonomy/shutdown_manager_msgs)
 
 ## Historical data
 | Date | Stars | Forks |

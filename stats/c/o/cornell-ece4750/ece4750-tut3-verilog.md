@@ -1,6 +1,4 @@
-# cornell-ece4750/ece4750-tut3-verilog / stars & forks statistics
-
-[Open repository/cornell-ece4750/ece4750-tut3-verilog](https://github.com/cornell-ece4750/ece4750-tut3-verilog)
+# cornell-ece4750/ece4750-tut3-verilog - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/cornell-ece4750/ece4750-tut3-verilog)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 74 | 
+| 2022-10-05 | - | 74 | 
+| 2022-10-04 | - | 74 | 
+| 2022-10-03 | - | 74 | 
+| 2022-10-02 | - | 74 | 
 | 2022-10-01 | - | 74 | 
 | 2022-09-30 | - | 74 | 
 | 2022-09-29 | - | 74 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 71 | 
 | 2022-09-09 | - | 70 | 
 | 2022-09-08 | - | 69 | 
-| 2022-09-07 | - | 68 | 
-| 2022-09-06 | - | 60 | 
-| 2022-09-05 | - | 60 | 
-| 2022-09-04 | - | 55 | 
-| 2022-09-03 | - | 50 | 
-| 2022-09-02 | - | 49 | 
 
 
 [Detailed charts & statistics for cornell-ece4750/ece4750-tut3-verilog](https://reviewgithub.com/rep/cornell-ece4750/ece4750-tut3-verilog)

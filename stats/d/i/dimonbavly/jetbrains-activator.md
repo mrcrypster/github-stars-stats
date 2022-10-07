@@ -1,16 +1,22 @@
-# dimonbavly/jetbrains-activator / stars & forks statistics
-
-[Open repository/dimonbavly/jetbrains-activator](https://github.com/dimonbavly/jetbrains-activator)
+# dimonbavly/jetbrains-activator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 5
+★ Stars: 6
+
+[Open repository](https://github.com/dimonbavly/jetbrains-activator)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 13 | 
+| 2022-10-05 | 6 | 13 | 
+| 2022-10-04 | 6 | 13 | 
+| 2022-10-03 | 5 | 12 | 
+| 2022-10-02 | 5 | 12 | 
+| 2022-10-01 | 5 | 12 | 
 | 2022-09-30 | 5 | 12 | 
 | 2022-09-29 | 4 | 12 | 
 | 2022-09-28 | 4 | 11 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 8 | 
 | 2022-09-09 | 1 | 8 | 
 | 2022-09-08 | - | 8 | 
-| 2022-09-07 | - | 8 | 
-| 2022-09-06 | - | 8 | 
-| 2022-09-05 | - | 8 | 
-| 2022-09-04 | - | 7 | 
-| 2022-09-03 | - | 6 | 
-| 2022-09-02 | - | 6 | 
-| 2022-09-01 | - | 6 | 
 
 
 [Detailed charts & statistics for dimonbavly/jetbrains-activator](https://reviewgithub.com/rep/dimonbavly/jetbrains-activator)

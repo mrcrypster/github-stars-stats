@@ -1,6 +1,4 @@
-# MiSTer-devel/PokemonMini_MiSTer / stars & forks statistics
-
-[Open repository/MiSTer-devel/PokemonMini_MiSTer](https://github.com/MiSTer-devel/PokemonMini_MiSTer)
+# MiSTer-devel/PokemonMini_MiSTer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/MiSTer-devel/PokemonMini_MiSTer)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | - | 
 | 2022-10-05 | 7 | - | 
 | 2022-10-04 | 7 | - | 
 | 2022-10-03 | 7 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 7 | - | 
 | 2022-09-09 | 7 | - | 
 | 2022-09-08 | 6 | - | 
-| 2022-09-07 | 5 | - | 
-| 2022-09-06 | 5 | - | 
 
 
 [Detailed charts & statistics for MiSTer-devel/PokemonMini_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/PokemonMini_MiSTer)

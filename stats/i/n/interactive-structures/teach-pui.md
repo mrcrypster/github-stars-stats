@@ -1,16 +1,22 @@
-# interactive-structures/teach-pui / stars & forks statistics
-
-[Open repository/interactive-structures/teach-pui](https://github.com/interactive-structures/teach-pui)
+# interactive-structures/teach-pui - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 6
+
+[Open repository](https://github.com/interactive-structures/teach-pui)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 70 | 
+| 2022-10-05 | 6 | 70 | 
+| 2022-10-04 | 6 | 70 | 
+| 2022-10-03 | 6 | 70 | 
+| 2022-10-02 | 6 | 69 | 
+| 2022-10-01 | 6 | 69 | 
 | 2022-09-30 | 6 | 69 | 
 | 2022-09-29 | 6 | 68 | 
 | 2022-09-28 | 6 | 67 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 5 | 59 | 
 | 2022-09-09 | 5 | 58 | 
 | 2022-09-08 | 5 | 58 | 
-| 2022-09-07 | 5 | 55 | 
-| 2022-09-06 | 5 | 52 | 
-| 2022-09-05 | 5 | 49 | 
-| 2022-09-04 | 4 | 49 | 
-| 2022-09-03 | 4 | 48 | 
-| 2022-09-02 | 4 | 46 | 
-| 2022-09-01 | 4 | 47 | 
 
 
 [Detailed charts & statistics for interactive-structures/teach-pui](https://reviewgithub.com/rep/interactive-structures/teach-pui)

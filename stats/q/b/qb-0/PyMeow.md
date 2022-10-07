@@ -1,12 +1,12 @@
-# qb-0/PyMeow / stars & forks statistics
-
-[Open repository/qb-0/PyMeow](https://github.com/qb-0/PyMeow)
+# qb-0/PyMeow - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 6
+
+[Open repository](https://github.com/qb-0/PyMeow)
 
 ## Historical data
 | Date | Stars | Forks |

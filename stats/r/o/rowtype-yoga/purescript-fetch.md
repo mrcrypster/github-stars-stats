@@ -1,6 +1,4 @@
-# rowtype-yoga/purescript-fetch / stars & forks statistics
-
-[Open repository/rowtype-yoga/purescript-fetch](https://github.com/rowtype-yoga/purescript-fetch)
+# rowtype-yoga/purescript-fetch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 14
 
+[Open repository](https://github.com/rowtype-yoga/purescript-fetch)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 14 | 1 | 
+| 2022-10-06 | 14 | 1 | 
+| 2022-10-05 | 14 | 1 | 
+| 2022-10-04 | 14 | 1 | 
+| 2022-10-03 | 14 | 1 | 
+| 2022-10-02 | 14 | 1 | 
+| 2022-10-01 | 14 | 1 | 
+| 2022-09-30 | 14 | 1 | 
+| 2022-09-29 | 14 | 1 | 
+| 2022-09-28 | 14 | 1 | 
+| 2022-09-27 | 14 | 1 | 
+| 2022-09-26 | 14 | 1 | 
 | 2022-09-25 | 14 | 1 | 
 | 2022-09-24 | 14 | 1 | 
 | 2022-09-23 | 14 | 1 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 12 | 1 | 
 | 2022-09-08 | 12 | 1 | 
 | 2022-09-07 | 12 | - | 
-| 2022-09-06 | 12 | - | 
-| 2022-09-05 | 12 | - | 
-| 2022-09-04 | 12 | - | 
-| 2022-09-03 | 12 | - | 
-| 2022-09-02 | 12 | - | 
-| 2022-09-01 | 12 | - | 
-| 2022-08-31 | 12 | - | 
-| 2022-08-30 | 12 | - | 
-| 2022-08-29 | 12 | - | 
-| 2022-08-28 | 12 | - | 
-| 2022-08-27 | 11 | - | 
-| 2022-08-26 | 10 | - | 
 
 
 [Detailed charts & statistics for rowtype-yoga/purescript-fetch](https://reviewgithub.com/rep/rowtype-yoga/purescript-fetch)

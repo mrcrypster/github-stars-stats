@@ -1,6 +1,4 @@
-# camsaul/humane-are / stars & forks statistics
-
-[Open repository/camsaul/humane-are](https://github.com/camsaul/humane-are)
+# camsaul/humane-are - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 15
 
+[Open repository](https://github.com/camsaul/humane-are)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 15 | - | 
+| 2022-10-05 | 15 | - | 
 | 2022-10-04 | 15 | - | 
 | 2022-10-03 | 15 | - | 
 | 2022-10-02 | 15 | - | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 14 | - | 
 | 2022-09-09 | 13 | - | 
 | 2022-09-08 | 13 | - | 
-| 2022-09-07 | 13 | - | 
-| 2022-09-06 | 13 | - | 
-| 2022-09-05 | 13 | - | 
 
 
 [Detailed charts & statistics for camsaul/humane-are](https://reviewgithub.com/rep/camsaul/humane-are)

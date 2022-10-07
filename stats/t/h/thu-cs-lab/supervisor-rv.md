@@ -1,12 +1,12 @@
-# thu-cs-lab/supervisor-rv / stars & forks statistics
-
-[Open repository/thu-cs-lab/supervisor-rv](https://github.com/thu-cs-lab/supervisor-rv)
+# thu-cs-lab/supervisor-rv - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 78
+
+[Open repository](https://github.com/thu-cs-lab/supervisor-rv)
 
 ## Historical data
 | Date | Stars | Forks |

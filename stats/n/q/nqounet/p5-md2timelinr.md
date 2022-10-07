@@ -1,12 +1,12 @@
-# nqounet/p5-md2timelinr / stars & forks statistics
-
-[Open repository/nqounet/p5-md2timelinr](https://github.com/nqounet/p5-md2timelinr)
+# nqounet/p5-md2timelinr - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/nqounet/p5-md2timelinr)
 
 ## Historical data
 | Date | Stars | Forks |

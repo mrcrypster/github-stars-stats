@@ -1,12 +1,12 @@
-# OhMyGuus/I-Dont-Care-About-Cookies / stars & forks statistics
-
-[Open repository/OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
+# OhMyGuus/I-Dont-Care-About-Cookies - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 1312
+
+[Open repository](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
 
 ## Historical data
 | Date | Stars | Forks |

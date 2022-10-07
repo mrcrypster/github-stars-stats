@@ -1,12 +1,12 @@
-# jtobin/mighty-metropolis / stars & forks statistics
-
-[Open repository/jtobin/mighty-metropolis](https://github.com/jtobin/mighty-metropolis)
+# jtobin/mighty-metropolis - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 10
+
+[Open repository](https://github.com/jtobin/mighty-metropolis)
 
 ## Historical data
 | Date | Stars | Forks |

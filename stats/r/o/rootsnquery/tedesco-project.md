@@ -1,12 +1,12 @@
-# rootsnquery/tedesco-project / stars & forks statistics
-
-[Open repository/rootsnquery/tedesco-project](https://github.com/rootsnquery/tedesco-project)
+# rootsnquery/tedesco-project - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/rootsnquery/tedesco-project)
 
 ## Historical data
 | Date | Stars | Forks |

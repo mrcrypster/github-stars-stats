@@ -1,16 +1,23 @@
-# PrajwalCH/yazap / stars & forks statistics
-
-[Open repository/PrajwalCH/yazap](https://github.com/PrajwalCH/yazap)
+# PrajwalCH/yazap - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 55
+★ Stars: 58
+
+[Open repository](https://github.com/PrajwalCH/yazap)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 58 | 2 | 
+| 2022-10-05 | 56 | 2 | 
+| 2022-10-04 | 56 | 2 | 
+| 2022-10-03 | 55 | 2 | 
+| 2022-10-02 | 55 | 2 | 
+| 2022-10-01 | 55 | 2 | 
+| 2022-09-30 | 55 | 2 | 
 | 2022-09-29 | 55 | 2 | 
 | 2022-09-28 | 55 | 2 | 
 | 2022-09-27 | 55 | 2 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 47 | 2 | 
 | 2022-09-09 | 47 | 2 | 
 | 2022-09-08 | 47 | 2 | 
-| 2022-09-07 | 47 | 2 | 
-| 2022-09-06 | 47 | 1 | 
-| 2022-09-05 | 47 | 1 | 
-| 2022-09-04 | 47 | 1 | 
-| 2022-09-03 | 47 | 1 | 
-| 2022-09-02 | 47 | 1 | 
-| 2022-09-01 | 47 | 1 | 
-| 2022-08-30 | 46 | 1 | 
 
 
 [Detailed charts & statistics for PrajwalCH/yazap](https://reviewgithub.com/rep/PrajwalCH/yazap)

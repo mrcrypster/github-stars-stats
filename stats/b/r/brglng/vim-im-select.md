@@ -1,6 +1,4 @@
-# brglng/vim-im-select / stars & forks statistics
-
-[Open repository/brglng/vim-im-select](https://github.com/brglng/vim-im-select)
+# brglng/vim-im-select - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 88
 
+[Open repository](https://github.com/brglng/vim-im-select)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 88 | 9 | 
+| 2022-10-05 | 88 | 9 | 
 | 2022-10-04 | 88 | 9 | 
 | 2022-10-03 | 88 | 9 | 
 | 2022-10-02 | 88 | 9 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 85 | 9 | 
 | 2022-09-09 | 85 | 9 | 
 | 2022-09-08 | 84 | 9 | 
-| 2022-09-07 | 84 | 9 | 
-| 2022-09-06 | 84 | 9 | 
-| 2022-09-05 | 84 | 9 | 
 
 
 [Detailed charts & statistics for brglng/vim-im-select](https://reviewgithub.com/rep/brglng/vim-im-select)

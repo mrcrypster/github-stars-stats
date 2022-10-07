@@ -1,12 +1,12 @@
-# rahulgoel/gl / stars & forks statistics
-
-[Open repository/rahulgoel/gl](https://github.com/rahulgoel/gl)
+# rahulgoel/gl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/rahulgoel/gl)
 
 ## Historical data
 | Date | Stars | Forks |

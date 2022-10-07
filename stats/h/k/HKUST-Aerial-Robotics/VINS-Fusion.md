@@ -1,12 +1,12 @@
-# HKUST-Aerial-Robotics/VINS-Fusion / stars & forks statistics
-
-[Open repository/HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
+# HKUST-Aerial-Robotics/VINS-Fusion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1070
 
 ★ Stars: 2413
+
+[Open repository](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
 
 ## Historical data
 | Date | Stars | Forks |

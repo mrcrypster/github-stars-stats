@@ -1,12 +1,12 @@
-# dotnet/project-system / stars & forks statistics
-
-[Open repository/dotnet/project-system](https://github.com/dotnet/project-system)
+# dotnet/project-system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 358
 
 ★ Stars: 818
+
+[Open repository](https://github.com/dotnet/project-system)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# linguo2625469/YangLeGeYang_web / stars & forks statistics
-
-[Open repository/linguo2625469/YangLeGeYang_web](https://github.com/linguo2625469/YangLeGeYang_web)
+# linguo2625469/YangLeGeYang_web - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 47
+
+[Open repository](https://github.com/linguo2625469/YangLeGeYang_web)
 
 ## Historical data
 | Date | Stars | Forks |

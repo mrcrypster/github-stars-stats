@@ -1,12 +1,12 @@
-# Abyssaledge/TorchEx / stars & forks statistics
-
-[Open repository/Abyssaledge/TorchEx](https://github.com/Abyssaledge/TorchEx)
+# Abyssaledge/TorchEx - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 30
+
+[Open repository](https://github.com/Abyssaledge/TorchEx)
 
 ## Historical data
 | Date | Stars | Forks |

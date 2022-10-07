@@ -1,12 +1,12 @@
-# tmehta813/androidinternviewsquestions / stars & forks statistics
-
-[Open repository/tmehta813/androidinternviewsquestions](https://github.com/tmehta813/androidinternviewsquestions)
+# tmehta813/androidinternviewsquestions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 88
+
+[Open repository](https://github.com/tmehta813/androidinternviewsquestions)
 
 ## Historical data
 | Date | Stars | Forks |

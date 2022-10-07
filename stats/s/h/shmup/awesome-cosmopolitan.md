@@ -1,6 +1,4 @@
-# shmup/awesome-cosmopolitan / stars & forks statistics
-
-[Open repository/shmup/awesome-cosmopolitan](https://github.com/shmup/awesome-cosmopolitan)
+# shmup/awesome-cosmopolitan - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 183
 
+[Open repository](https://github.com/shmup/awesome-cosmopolitan)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 183 | 3 | 
+| 2022-10-06 | 183 | 3 | 
+| 2022-10-05 | 183 | 3 | 
+| 2022-10-04 | 183 | 3 | 
+| 2022-10-03 | 183 | 3 | 
+| 2022-10-02 | 183 | 3 | 
+| 2022-10-01 | 183 | 3 | 
+| 2022-09-30 | 183 | 3 | 
+| 2022-09-29 | 184 | 3 | 
+| 2022-09-28 | 184 | 3 | 
+| 2022-09-27 | 183 | 3 | 
+| 2022-09-26 | 183 | 3 | 
+| 2022-09-25 | 183 | 3 | 
 | 2022-09-24 | 183 | 3 | 
 | 2022-09-23 | 182 | 3 | 
 | 2022-09-22 | 181 | 3 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 170 | 1 | 
 | 2022-09-08 | 170 | 1 | 
 | 2022-09-07 | 170 | 1 | 
-| 2022-09-06 | 170 | 1 | 
-| 2022-09-05 | 168 | 1 | 
-| 2022-09-04 | 168 | 1 | 
-| 2022-09-03 | 168 | 1 | 
-| 2022-09-02 | 167 | 1 | 
-| 2022-09-01 | 165 | 1 | 
-| 2022-08-31 | 165 | 1 | 
-| 2022-08-30 | 151 | 1 | 
-| 2022-08-29 | 149 | 1 | 
-| 2022-08-28 | 145 | 1 | 
-| 2022-08-27 | 142 | 1 | 
-| 2022-08-26 | 130 | 1 | 
-| 2022-08-25 | 128 | 1 | 
 
 
 [Detailed charts & statistics for shmup/awesome-cosmopolitan](https://reviewgithub.com/rep/shmup/awesome-cosmopolitan)

@@ -1,12 +1,12 @@
-# rafaelvleite/fide_crawler / stars & forks statistics
-
-[Open repository/rafaelvleite/fide_crawler](https://github.com/rafaelvleite/fide_crawler)
+# rafaelvleite/fide_crawler - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 93
+
+[Open repository](https://github.com/rafaelvleite/fide_crawler)
 
 ## Historical data
 | Date | Stars | Forks |

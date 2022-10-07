@@ -1,12 +1,12 @@
-# Xilinx/qemu-devicetrees / stars & forks statistics
-
-[Open repository/Xilinx/qemu-devicetrees](https://github.com/Xilinx/qemu-devicetrees)
+# Xilinx/qemu-devicetrees - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 27
+
+[Open repository](https://github.com/Xilinx/qemu-devicetrees)
 
 ## Historical data
 | Date | Stars | Forks |

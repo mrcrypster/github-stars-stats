@@ -1,12 +1,12 @@
-# tbnobody/OpenDTU / stars & forks statistics
-
-[Open repository/tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU)
+# tbnobody/OpenDTU - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 175
+
+[Open repository](https://github.com/tbnobody/OpenDTU)
 
 ## Historical data
 | Date | Stars | Forks |

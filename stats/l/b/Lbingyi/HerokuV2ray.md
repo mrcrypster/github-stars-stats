@@ -1,12 +1,12 @@
-# Lbingyi/HerokuV2ray / stars & forks statistics
-
-[Open repository/Lbingyi/HerokuV2ray](https://github.com/Lbingyi/HerokuV2ray)
+# Lbingyi/HerokuV2ray - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/Lbingyi/HerokuV2ray)
 
 ## Historical data
 | Date | Stars | Forks |

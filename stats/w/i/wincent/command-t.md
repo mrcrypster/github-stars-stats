@@ -1,6 +1,4 @@
-# wincent/command-t / stars & forks statistics
-
-[Open repository/wincent/command-t](https://github.com/wincent/command-t)
+# wincent/command-t - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2645
 
+[Open repository](https://github.com/wincent/command-t)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2645 | 327 | 
+| 2022-10-05 | 2645 | 327 | 
+| 2022-10-04 | 2645 | 327 | 
+| 2022-10-03 | 2645 | 327 | 
+| 2022-10-02 | 2645 | 327 | 
+| 2022-10-01 | 2645 | 327 | 
+| 2022-09-30 | 2645 | 327 | 
+| 2022-09-29 | 2645 | 327 | 
 | 2022-09-28 | 2645 | 327 | 
 | 2022-09-27 | 2645 | 326 | 
 | 2022-09-26 | 2645 | 326 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2635 | 327 | 
 | 2022-09-08 | 2636 | 327 | 
 | 2022-09-07 | 2636 | 327 | 
-| 2022-09-06 | 2634 | 327 | 
-| 2022-09-05 | 2627 | 327 | 
-| 2022-09-04 | 2624 | 326 | 
-| 2022-09-03 | 2624 | 326 | 
-| 2022-09-02 | 2624 | 326 | 
-| 2022-09-01 | 2624 | 326 | 
-| 2022-08-31 | 2623 | 326 | 
-| 2022-08-30 | 2623 | 326 | 
 
 
 [Detailed charts & statistics for wincent/command-t](https://reviewgithub.com/rep/wincent/command-t)

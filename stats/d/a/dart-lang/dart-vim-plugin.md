@@ -1,16 +1,28 @@
-# dart-lang/dart-vim-plugin / stars & forks statistics
-
-[Open repository/dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
+# dart-lang/dart-vim-plugin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
-★ Stars: 592
+★ Stars: 593
+
+[Open repository](https://github.com/dart-lang/dart-vim-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 593 | 57 | 
+| 2022-10-05 | 593 | 57 | 
+| 2022-10-04 | 593 | 57 | 
+| 2022-10-03 | 593 | 57 | 
+| 2022-10-02 | 593 | 57 | 
+| 2022-10-01 | 593 | 57 | 
+| 2022-09-30 | 593 | 57 | 
+| 2022-09-29 | 593 | 57 | 
+| 2022-09-28 | 593 | 57 | 
+| 2022-09-27 | 592 | 57 | 
+| 2022-09-26 | 592 | 57 | 
+| 2022-09-25 | 592 | 57 | 
 | 2022-09-24 | 592 | 57 | 
 | 2022-09-23 | 591 | 56 | 
 | 2022-09-22 | 591 | 56 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 586 | 56 | 
 | 2022-09-09 | 586 | 56 | 
 | 2022-09-08 | 586 | 56 | 
-| 2022-09-07 | 586 | 56 | 
-| 2022-09-06 | 586 | 56 | 
-| 2022-09-05 | 586 | 56 | 
-| 2022-09-04 | 586 | 56 | 
-| 2022-09-03 | 586 | 56 | 
-| 2022-09-02 | 586 | 56 | 
-| 2022-09-01 | 586 | 56 | 
-| 2022-08-31 | 586 | 56 | 
-| 2022-08-30 | 586 | 56 | 
-| 2022-08-29 | 586 | 56 | 
-| 2022-08-28 | 586 | 56 | 
-| 2022-08-27 | 586 | 56 | 
-| 2022-08-26 | 586 | 56 | 
 
 
 [Detailed charts & statistics for dart-lang/dart-vim-plugin](https://reviewgithub.com/rep/dart-lang/dart-vim-plugin)

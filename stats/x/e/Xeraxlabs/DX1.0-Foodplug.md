@@ -1,12 +1,12 @@
-# Xeraxlabs/DX1.0-Foodplug / stars & forks statistics
-
-[Open repository/Xeraxlabs/DX1.0-Foodplug](https://github.com/Xeraxlabs/DX1.0-Foodplug)
+# Xeraxlabs/DX1.0-Foodplug - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Xeraxlabs/DX1.0-Foodplug)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# webonyx/graphql-php / stars & forks statistics
-
-[Open repository/webonyx/graphql-php](https://github.com/webonyx/graphql-php)
+# webonyx/graphql-php - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 539
 
 ★ Stars: 4384
+
+[Open repository](https://github.com/webonyx/graphql-php)
 
 ## Historical data
 | Date | Stars | Forks |

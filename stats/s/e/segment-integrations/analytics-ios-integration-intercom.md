@@ -1,6 +1,4 @@
-# segment-integrations/analytics-ios-integration-intercom / stars & forks statistics
-
-[Open repository/segment-integrations/analytics-ios-integration-intercom](https://github.com/segment-integrations/analytics-ios-integration-intercom)
+# segment-integrations/analytics-ios-integration-intercom - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/segment-integrations/analytics-ios-integration-intercom)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2 | 12 | 
+| 2022-10-06 | 2 | 12 | 
+| 2022-10-05 | 2 | 12 | 
+| 2022-10-04 | 2 | 12 | 
+| 2022-10-03 | 2 | 12 | 
+| 2022-10-02 | 2 | 12 | 
+| 2022-10-01 | 2 | 12 | 
+| 2022-09-30 | 2 | 12 | 
+| 2022-09-29 | 2 | 12 | 
 | 2022-09-28 | 2 | 12 | 
 | 2022-09-26 | 2 | 12 | 
 | 2022-09-25 | 2 | 12 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2 | 12 | 
 | 2022-09-08 | 2 | 12 | 
 | 2022-09-07 | 2 | 12 | 
-| 2022-09-06 | 2 | 12 | 
-| 2022-09-05 | 2 | 12 | 
-| 2022-09-04 | 2 | 12 | 
-| 2022-09-03 | 2 | 12 | 
-| 2022-09-02 | 2 | 12 | 
-| 2022-09-01 | 2 | 12 | 
-| 2022-08-31 | 2 | 12 | 
-| 2022-08-30 | 2 | 12 | 
-| 2022-08-29 | 2 | 12 | 
 
 
 [Detailed charts & statistics for segment-integrations/analytics-ios-integration-intercom](https://reviewgithub.com/rep/segment-integrations/analytics-ios-integration-intercom)

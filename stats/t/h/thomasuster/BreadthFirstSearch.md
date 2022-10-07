@@ -1,12 +1,12 @@
-# thomasuster/BreadthFirstSearch / stars & forks statistics
-
-[Open repository/thomasuster/BreadthFirstSearch](https://github.com/thomasuster/BreadthFirstSearch)
+# thomasuster/BreadthFirstSearch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/thomasuster/BreadthFirstSearch)
 
 ## Historical data
 | Date | Stars | Forks |

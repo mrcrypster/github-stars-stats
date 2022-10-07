@@ -1,12 +1,12 @@
-# aditya14-7/git-finder / stars & forks statistics
-
-[Open repository/aditya14-7/git-finder](https://github.com/aditya14-7/git-finder)
+# aditya14-7/git-finder - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 0
+
+[Open repository](https://github.com/aditya14-7/git-finder)
 
 ## Historical data
 | Date | Stars | Forks |

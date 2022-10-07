@@ -1,12 +1,12 @@
-# seriyps/mtproto_proxy / stars & forks statistics
-
-[Open repository/seriyps/mtproto_proxy](https://github.com/seriyps/mtproto_proxy)
+# seriyps/mtproto_proxy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 62
 
 ★ Stars: 303
+
+[Open repository](https://github.com/seriyps/mtproto_proxy)
 
 ## Historical data
 | Date | Stars | Forks |

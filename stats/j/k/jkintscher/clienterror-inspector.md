@@ -1,6 +1,4 @@
-# jkintscher/clienterror-inspector / stars & forks statistics
-
-[Open repository/jkintscher/clienterror-inspector](https://github.com/jkintscher/clienterror-inspector)
+# jkintscher/clienterror-inspector - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,31 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/jkintscher/clienterror-inspector)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 1 | 
+| 2022-10-06 | 3 | 1 | 
+| 2022-10-05 | 3 | 1 | 
+| 2022-10-04 | 3 | 1 | 
+| 2022-10-03 | 3 | 1 | 
+| 2022-10-02 | 3 | 1 | 
+| 2022-10-01 | 3 | 1 | 
+| 2022-09-30 | 3 | 1 | 
+| 2022-09-29 | 3 | 1 | 
+| 2022-09-28 | 3 | 1 | 
+| 2022-09-27 | 3 | 1 | 
+| 2022-09-26 | 3 | 1 | 
+| 2022-09-25 | 3 | 1 | 
+| 2022-09-24 | 3 | 1 | 
+| 2022-09-23 | 3 | 1 | 
+| 2022-09-22 | 3 | 1 | 
+| 2022-09-21 | 3 | 1 | 
+| 2022-09-20 | 3 | 1 | 
+| 2022-09-19 | 3 | 1 | 
+| 2022-09-18 | 3 | 1 | 
 | 2022-09-17 | 3 | 1 | 
 | 2022-09-16 | 3 | 1 | 
 | 2022-09-15 | 3 | 1 | 
@@ -21,26 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3 | 1 | 
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
-| 2022-09-06 | 3 | 1 | 
-| 2022-09-05 | 3 | 1 | 
-| 2022-09-04 | 3 | 1 | 
-| 2022-09-03 | 3 | 1 | 
-| 2022-09-02 | 3 | 1 | 
-| 2022-09-01 | 3 | 1 | 
-| 2022-08-31 | 3 | 1 | 
-| 2022-08-30 | 3 | 1 | 
-| 2022-08-29 | 3 | 1 | 
-| 2022-08-28 | 3 | 1 | 
-| 2022-08-27 | 3 | 1 | 
-| 2022-08-26 | 3 | 1 | 
-| 2022-08-25 | 3 | 1 | 
-| 2022-08-24 | 3 | 1 | 
-| 2022-08-23 | 3 | 1 | 
-| 2022-08-22 | 3 | 1 | 
-| 2022-08-21 | 3 | 1 | 
-| 2022-08-20 | 3 | 1 | 
-| 2022-08-19 | 3 | 1 | 
-| 2022-08-18 | 3 | 1 | 
 
 
 [Detailed charts & statistics for jkintscher/clienterror-inspector](https://reviewgithub.com/rep/jkintscher/clienterror-inspector)

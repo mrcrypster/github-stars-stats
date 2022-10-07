@@ -1,12 +1,12 @@
-# Jodlar98/social-insecurity-master / stars & forks statistics
-
-[Open repository/Jodlar98/social-insecurity-master](https://github.com/Jodlar98/social-insecurity-master)
+# Jodlar98/social-insecurity-master - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Jodlar98/social-insecurity-master)
 
 ## Historical data
 | Date | Stars | Forks |

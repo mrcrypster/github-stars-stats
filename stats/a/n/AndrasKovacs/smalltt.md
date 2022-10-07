@@ -1,16 +1,29 @@
-# AndrasKovacs/smalltt / stars & forks statistics
-
-[Open repository/AndrasKovacs/smalltt](https://github.com/AndrasKovacs/smalltt)
+# AndrasKovacs/smalltt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
-★ Stars: 406
+★ Stars: 408
+
+[Open repository](https://github.com/AndrasKovacs/smalltt)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 408 | 20 | 
+| 2022-10-06 | 408 | 20 | 
+| 2022-10-05 | 408 | 20 | 
+| 2022-10-04 | 408 | 20 | 
+| 2022-10-03 | 408 | 20 | 
+| 2022-10-02 | 408 | 20 | 
+| 2022-10-01 | 408 | 20 | 
+| 2022-09-30 | 408 | 20 | 
+| 2022-09-29 | 408 | 20 | 
+| 2022-09-27 | 408 | 20 | 
+| 2022-09-26 | 407 | 20 | 
+| 2022-09-25 | 407 | 20 | 
+| 2022-09-24 | 407 | 20 | 
 | 2022-09-23 | 406 | 20 | 
 | 2022-09-22 | 406 | 20 | 
 | 2022-09-21 | 406 | 20 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 401 | 20 | 
 | 2022-09-08 | 398 | 19 | 
 | 2022-09-07 | 398 | 19 | 
-| 2022-09-06 | 398 | 19 | 
-| 2022-09-05 | 398 | 19 | 
-| 2022-09-04 | 398 | 19 | 
-| 2022-09-03 | 397 | 19 | 
-| 2022-09-02 | 396 | 18 | 
-| 2022-09-01 | 396 | 18 | 
-| 2022-08-31 | 396 | 18 | 
-| 2022-08-30 | 396 | 18 | 
-| 2022-08-29 | 395 | 18 | 
-| 2022-08-28 | 395 | 18 | 
-| 2022-08-27 | 395 | 18 | 
-| 2022-08-26 | 394 | 18 | 
-| 2022-08-25 | 394 | 18 | 
 
 
 [Detailed charts & statistics for AndrasKovacs/smalltt](https://reviewgithub.com/rep/AndrasKovacs/smalltt)

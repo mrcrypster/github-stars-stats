@@ -1,12 +1,12 @@
-# mattt/InflectorKit / stars & forks statistics
-
-[Open repository/mattt/InflectorKit](https://github.com/mattt/InflectorKit)
+# mattt/InflectorKit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 468
+
+[Open repository](https://github.com/mattt/InflectorKit)
 
 ## Historical data
 | Date | Stars | Forks |

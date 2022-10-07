@@ -1,46 +1,46 @@
-# redhat-openshift-ecosystem/redhat-marketplace-operators / stars & forks statistics
-
-[Open repository/redhat-openshift-ecosystem/redhat-marketplace-operators](https://github.com/redhat-openshift-ecosystem/redhat-marketplace-operators)
+# redhat-openshift-ecosystem/redhat-marketplace-operators - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 71
+☋ Forks: 78
 
-★ Stars: 3
+★ Stars: 4
+
+[Open repository](https://github.com/redhat-openshift-ecosystem/redhat-marketplace-operators)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-07 | 3 | 71 | 
-| 2022-08-06 | 3 | 71 | 
-| 2022-08-05 | 3 | 71 | 
-| 2022-08-04 | 3 | 71 | 
-| 2022-08-03 | 3 | 71 | 
-| 2022-08-02 | 3 | 70 | 
-| 2022-08-01 | 3 | 70 | 
-| 2022-07-31 | 3 | 70 | 
-| 2022-07-30 | 3 | 70 | 
-| 2022-07-29 | 3 | 70 | 
-| 2022-07-28 | 3 | 70 | 
-| 2022-07-27 | 3 | 70 | 
-| 2022-07-26 | 3 | 70 | 
-| 2022-07-25 | 3 | 70 | 
-| 2022-07-24 | 3 | 70 | 
-| 2022-07-23 | 3 | 70 | 
-| 2022-07-22 | 3 | 70 | 
-| 2022-07-21 | 3 | 70 | 
-| 2022-07-20 | 3 | 69 | 
-| 2022-07-19 | 3 | 69 | 
-| 2022-07-18 | 3 | 69 | 
-| 2022-07-17 | 3 | 69 | 
-| 2022-07-16 | 3 | 69 | 
-| 2022-07-15 | 3 | 69 | 
-| 2022-07-14 | 3 | 69 | 
-| 2022-07-13 | 3 | 69 | 
-| 2022-07-12 | 3 | 69 | 
-| 2022-07-11 | 3 | 67 | 
-| 2022-07-10 | 3 | 67 | 
-| 2022-07-09 | 3 | 67 | 
+| 2022-10-07 | 4 | 78 | 
+| 2022-10-06 | 4 | 77 | 
+| 2022-10-05 | 4 | 77 | 
+| 2022-10-04 | 4 | 77 | 
+| 2022-10-03 | 4 | 77 | 
+| 2022-10-02 | 4 | 77 | 
+| 2022-10-01 | 4 | 77 | 
+| 2022-09-30 | 4 | 77 | 
+| 2022-09-29 | 4 | 77 | 
+| 2022-09-28 | 4 | 77 | 
+| 2022-09-26 | 4 | 77 | 
+| 2022-09-25 | 4 | 77 | 
+| 2022-09-24 | 4 | 77 | 
+| 2022-09-23 | 4 | 77 | 
+| 2022-09-22 | 4 | 77 | 
+| 2022-09-21 | 4 | 77 | 
+| 2022-09-20 | 4 | 77 | 
+| 2022-09-19 | 4 | 77 | 
+| 2022-09-18 | 4 | 77 | 
+| 2022-09-17 | 4 | 77 | 
+| 2022-09-16 | 4 | 77 | 
+| 2022-09-15 | 4 | 77 | 
+| 2022-09-14 | 3 | 77 | 
+| 2022-09-13 | 3 | 77 | 
+| 2022-09-12 | 3 | 77 | 
+| 2022-09-11 | 3 | 77 | 
+| 2022-09-10 | 3 | 77 | 
+| 2022-09-09 | 3 | 77 | 
+| 2022-09-08 | 3 | 77 | 
+| 2022-09-07 | 3 | 77 | 
 
 
 [Detailed charts & statistics for redhat-openshift-ecosystem/redhat-marketplace-operators](https://reviewgithub.com/rep/redhat-openshift-ecosystem/redhat-marketplace-operators)

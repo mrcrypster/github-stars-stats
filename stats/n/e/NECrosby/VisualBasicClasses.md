@@ -1,6 +1,4 @@
-# NECrosby/VisualBasicClasses / stars & forks statistics
-
-[Open repository/NECrosby/VisualBasicClasses](https://github.com/NECrosby/VisualBasicClasses)
+# NECrosby/VisualBasicClasses - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,30 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/NECrosby/VisualBasicClasses)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 4 | 
+| 2022-10-06 | 3 | 4 | 
+| 2022-10-05 | 3 | 4 | 
+| 2022-10-04 | 3 | 4 | 
+| 2022-10-03 | 3 | 4 | 
+| 2022-10-02 | 3 | 4 | 
+| 2022-10-01 | 3 | 4 | 
+| 2022-09-30 | 3 | 4 | 
+| 2022-09-29 | 3 | 4 | 
+| 2022-09-28 | 3 | 4 | 
+| 2022-09-27 | 3 | 4 | 
+| 2022-09-26 | 3 | 4 | 
+| 2022-09-24 | 3 | 4 | 
+| 2022-09-23 | 3 | 4 | 
+| 2022-09-22 | 3 | 4 | 
+| 2022-09-21 | 3 | 4 | 
+| 2022-09-20 | 3 | 4 | 
+| 2022-09-19 | 3 | 4 | 
+| 2022-09-18 | 3 | 4 | 
 | 2022-09-17 | 3 | 4 | 
 | 2022-09-16 | 3 | 4 | 
 | 2022-09-15 | 3 | 4 | 
@@ -22,25 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3 | 4 | 
 | 2022-09-08 | 3 | 4 | 
 | 2022-09-07 | 3 | 4 | 
-| 2022-09-06 | 3 | 4 | 
-| 2022-09-05 | 3 | 4 | 
-| 2022-09-04 | 3 | 4 | 
-| 2022-09-03 | 3 | 4 | 
-| 2022-09-02 | 3 | 4 | 
-| 2022-09-01 | 3 | 4 | 
-| 2022-08-31 | 3 | 4 | 
-| 2022-08-30 | 3 | 4 | 
-| 2022-08-29 | 3 | 4 | 
-| 2022-08-28 | 3 | 4 | 
-| 2022-08-27 | 3 | 4 | 
-| 2022-08-26 | 3 | 4 | 
-| 2022-08-25 | 3 | 4 | 
-| 2022-08-24 | 3 | 4 | 
-| 2022-08-23 | 3 | 4 | 
-| 2022-08-22 | 3 | 4 | 
-| 2022-08-21 | 3 | 4 | 
-| 2022-08-20 | 3 | 4 | 
-| 2022-08-19 | 3 | 4 | 
 
 
 [Detailed charts & statistics for NECrosby/VisualBasicClasses](https://reviewgithub.com/rep/NECrosby/VisualBasicClasses)

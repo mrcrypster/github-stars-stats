@@ -1,6 +1,4 @@
-# gbrrestoration/coral-bleaching-model / stars & forks statistics
-
-[Open repository/gbrrestoration/coral-bleaching-model](https://github.com/gbrrestoration/coral-bleaching-model)
+# gbrrestoration/coral-bleaching-model - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/gbrrestoration/coral-bleaching-model)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 1 | 
+| 2022-10-05 | 1 | 1 | 
+| 2022-10-04 | 1 | 1 | 
+| 2022-10-03 | 1 | 1 | 
 | 2022-10-02 | 1 | 1 | 
 | 2022-10-01 | 1 | 1 | 
 | 2022-09-30 | 1 | 1 | 
@@ -37,10 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
-| 2022-09-06 | - | 1 | 
-| 2022-09-05 | - | 1 | 
-| 2022-09-04 | - | 1 | 
-| 2022-09-03 | - | 1 | 
 
 
 [Detailed charts & statistics for gbrrestoration/coral-bleaching-model](https://reviewgithub.com/rep/gbrrestoration/coral-bleaching-model)

@@ -1,12 +1,12 @@
-# geoffrich/star-wars-demo-svelte / stars & forks statistics
-
-[Open repository/geoffrich/star-wars-demo-svelte](https://github.com/geoffrich/star-wars-demo-svelte)
+# geoffrich/star-wars-demo-svelte - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 19
+
+[Open repository](https://github.com/geoffrich/star-wars-demo-svelte)
 
 ## Historical data
 | Date | Stars | Forks |

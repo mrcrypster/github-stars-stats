@@ -1,6 +1,4 @@
-# status-im/status-electron / stars & forks statistics
-
-[Open repository/status-im/status-electron](https://github.com/status-im/status-electron)
+# status-im/status-electron - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 27
 
+[Open repository](https://github.com/status-im/status-electron)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 27 | 10 | 
+| 2022-10-05 | 27 | 10 | 
+| 2022-10-04 | 27 | 10 | 
+| 2022-10-03 | 27 | 10 | 
+| 2022-10-02 | 27 | 10 | 
+| 2022-10-01 | 27 | 10 | 
+| 2022-09-30 | 27 | 10 | 
 | 2022-09-29 | 27 | 10 | 
 | 2022-09-28 | 27 | 10 | 
 | 2022-09-27 | 27 | 10 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 27 | 10 | 
 | 2022-09-09 | 27 | 10 | 
 | 2022-09-08 | 27 | 10 | 
-| 2022-09-07 | 27 | 10 | 
-| 2022-09-06 | 27 | 10 | 
-| 2022-09-05 | 27 | 10 | 
-| 2022-09-04 | 27 | 10 | 
-| 2022-09-03 | 27 | 10 | 
-| 2022-09-02 | 27 | 10 | 
-| 2022-09-01 | 27 | 10 | 
-| 2022-08-31 | 27 | 10 | 
 
 
 [Detailed charts & statistics for status-im/status-electron](https://reviewgithub.com/rep/status-im/status-electron)

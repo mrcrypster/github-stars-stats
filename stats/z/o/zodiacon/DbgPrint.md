@@ -1,16 +1,24 @@
-# zodiacon/DbgPrint / stars & forks statistics
-
-[Open repository/zodiacon/DbgPrint](https://github.com/zodiacon/DbgPrint)
+# zodiacon/DbgPrint - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
-★ Stars: 42
+★ Stars: 41
+
+[Open repository](https://github.com/zodiacon/DbgPrint)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 41 | 10 | 
+| 2022-10-05 | 41 | 10 | 
+| 2022-10-04 | 41 | 10 | 
+| 2022-10-03 | 41 | 10 | 
+| 2022-10-02 | 42 | 10 | 
+| 2022-10-01 | 42 | 10 | 
+| 2022-09-30 | 42 | 10 | 
+| 2022-09-29 | 42 | 10 | 
 | 2022-09-28 | 42 | 10 | 
 | 2022-09-27 | 42 | 10 | 
 | 2022-09-26 | 42 | 10 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 41 | 10 | 
 | 2022-09-09 | 41 | 10 | 
 | 2022-09-08 | 41 | 10 | 
-| 2022-09-07 | 41 | 10 | 
-| 2022-09-06 | 40 | 10 | 
-| 2022-09-05 | 37 | 10 | 
-| 2022-09-04 | 37 | 10 | 
-| 2022-09-03 | 37 | 10 | 
-| 2022-09-02 | 37 | 10 | 
-| 2022-09-01 | 35 | 10 | 
-| 2022-08-31 | 34 | 9 | 
-| 2022-08-30 | 33 | 8 | 
 
 
 [Detailed charts & statistics for zodiacon/DbgPrint](https://reviewgithub.com/rep/zodiacon/DbgPrint)

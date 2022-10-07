@@ -1,16 +1,24 @@
-# snoobi-seggs/nilou_seggs / stars & forks statistics
-
-[Open repository/snoobi-seggs/nilou_seggs](https://github.com/snoobi-seggs/nilou_seggs)
+# snoobi-seggs/nilou_seggs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
-★ Stars: 60
+★ Stars: 59
+
+[Open repository](https://github.com/snoobi-seggs/nilou_seggs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 59 | 25 | 
+| 2022-10-05 | 59 | 25 | 
+| 2022-10-04 | 60 | 25 | 
+| 2022-10-03 | 61 | 25 | 
+| 2022-10-02 | 61 | 25 | 
+| 2022-10-01 | 61 | 25 | 
+| 2022-09-30 | 61 | 25 | 
+| 2022-09-29 | 60 | 25 | 
 | 2022-09-28 | 60 | 25 | 
 | 2022-09-27 | 59 | 25 | 
 | 2022-09-26 | 58 | 25 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 44 | 21 | 
 | 2022-09-08 | 44 | 20 | 
 | 2022-09-07 | 43 | 20 | 
-| 2022-09-06 | 39 | 20 | 
-| 2022-09-05 | 37 | 19 | 
-| 2022-09-04 | 36 | 18 | 
-| 2022-09-03 | 33 | 18 | 
-| 2022-09-02 | 32 | 17 | 
-| 2022-09-01 | 32 | 16 | 
-| 2022-08-31 | 28 | 15 | 
-| 2022-08-30 | 27 | 15 | 
 
 
 [Detailed charts & statistics for snoobi-seggs/nilou_seggs](https://reviewgithub.com/rep/snoobi-seggs/nilou_seggs)

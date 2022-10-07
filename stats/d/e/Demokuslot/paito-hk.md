@@ -1,12 +1,12 @@
-# Demokuslot/paito-hk / stars & forks statistics
-
-[Open repository/Demokuslot/paito-hk](https://github.com/Demokuslot/paito-hk)
+# Demokuslot/paito-hk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Demokuslot/paito-hk)
 
 ## Historical data
 | Date | Stars | Forks |

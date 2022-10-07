@@ -1,6 +1,4 @@
-# MSF-OCB/NixOS / stars & forks statistics
-
-[Open repository/MSF-OCB/NixOS](https://github.com/MSF-OCB/NixOS)
+# MSF-OCB/NixOS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 13
 
+[Open repository](https://github.com/MSF-OCB/NixOS)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 13 | 7 | 
+| 2022-10-05 | 13 | 7 | 
+| 2022-10-04 | 13 | 7 | 
+| 2022-10-03 | 13 | 7 | 
+| 2022-10-02 | 13 | 7 | 
+| 2022-10-01 | 13 | 7 | 
+| 2022-09-30 | 13 | 7 | 
+| 2022-09-29 | 13 | 7 | 
+| 2022-09-28 | 13 | 7 | 
+| 2022-09-27 | 13 | 7 | 
 | 2022-09-26 | 13 | 7 | 
 | 2022-09-25 | 13 | 7 | 
 | 2022-09-24 | 13 | 7 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 13 | 7 | 
 | 2022-09-09 | 13 | 7 | 
 | 2022-09-08 | 13 | 7 | 
-| 2022-09-07 | 13 | 7 | 
-| 2022-09-06 | 13 | 7 | 
-| 2022-09-05 | 13 | 7 | 
-| 2022-09-04 | 13 | 7 | 
-| 2022-09-03 | 13 | 7 | 
-| 2022-09-02 | 13 | 7 | 
-| 2022-09-01 | 13 | 7 | 
-| 2022-08-31 | 13 | 7 | 
-| 2022-08-30 | 13 | 7 | 
-| 2022-08-29 | 13 | 7 | 
-| 2022-08-28 | 13 | 7 | 
 
 
 [Detailed charts & statistics for MSF-OCB/NixOS](https://reviewgithub.com/rep/MSF-OCB/NixOS)

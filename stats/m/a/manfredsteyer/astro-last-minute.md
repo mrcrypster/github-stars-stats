@@ -1,12 +1,12 @@
-# manfredsteyer/astro-last-minute / stars & forks statistics
-
-[Open repository/manfredsteyer/astro-last-minute](https://github.com/manfredsteyer/astro-last-minute)
+# manfredsteyer/astro-last-minute - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 15
+
+[Open repository](https://github.com/manfredsteyer/astro-last-minute)
 
 ## Historical data
 | Date | Stars | Forks |

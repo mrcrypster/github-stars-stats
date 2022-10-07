@@ -1,12 +1,12 @@
-# Philogy/erc721h / stars & forks statistics
-
-[Open repository/Philogy/erc721h](https://github.com/Philogy/erc721h)
+# Philogy/erc721h - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 27
+
+[Open repository](https://github.com/Philogy/erc721h)
 
 ## Historical data
 | Date | Stars | Forks |

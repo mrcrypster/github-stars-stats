@@ -1,16 +1,24 @@
-# devxoul/UITextView-Placeholder / stars & forks statistics
-
-[Open repository/devxoul/UITextView-Placeholder](https://github.com/devxoul/UITextView-Placeholder)
+# devxoul/UITextView-Placeholder - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 245
+☋ Forks: 246
 
 ★ Stars: 1424
+
+[Open repository](https://github.com/devxoul/UITextView-Placeholder)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1424 | 246 | 
+| 2022-10-05 | 1424 | 246 | 
+| 2022-10-04 | 1424 | 246 | 
+| 2022-10-03 | 1424 | 246 | 
+| 2022-10-02 | 1424 | 246 | 
+| 2022-10-01 | 1424 | 246 | 
+| 2022-09-30 | 1424 | 246 | 
+| 2022-09-29 | 1424 | 246 | 
 | 2022-09-28 | 1424 | 245 | 
 | 2022-09-27 | 1423 | 246 | 
 | 2022-09-26 | 1423 | 246 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1421 | 245 | 
 | 2022-09-08 | 1421 | 245 | 
 | 2022-09-07 | 1420 | 245 | 
-| 2022-09-06 | 1420 | 245 | 
-| 2022-09-05 | 1420 | 245 | 
-| 2022-09-04 | 1420 | 245 | 
-| 2022-09-03 | 1420 | 245 | 
-| 2022-09-02 | 1420 | 245 | 
-| 2022-09-01 | 1420 | 245 | 
-| 2022-08-31 | 1420 | 245 | 
-| 2022-08-30 | 1420 | 245 | 
-| 2022-08-29 | 1420 | 245 | 
 
 
 [Detailed charts & statistics for devxoul/UITextView-Placeholder](https://reviewgithub.com/rep/devxoul/UITextView-Placeholder)

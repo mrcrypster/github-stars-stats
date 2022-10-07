@@ -1,12 +1,12 @@
-# Uko-TAL/TCB-Star-Wars-Scroller-Reverse-Engineering / stars & forks statistics
-
-[Open repository/Uko-TAL/TCB-Star-Wars-Scroller-Reverse-Engineering](https://github.com/Uko-TAL/TCB-Star-Wars-Scroller-Reverse-Engineering)
+# Uko-TAL/TCB-Star-Wars-Scroller-Reverse-Engineering - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
+
+[Open repository](https://github.com/Uko-TAL/TCB-Star-Wars-Scroller-Reverse-Engineering)
 
 ## Historical data
 | Date | Stars | Forks |

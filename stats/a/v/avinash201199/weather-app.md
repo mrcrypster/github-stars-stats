@@ -1,12 +1,12 @@
-# avinash201199/weather-app / stars & forks statistics
-
-[Open repository/avinash201199/weather-app](https://github.com/avinash201199/weather-app)
+# avinash201199/weather-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 50
 
 ★ Stars: 27
+
+[Open repository](https://github.com/avinash201199/weather-app)
 
 ## Historical data
 | Date | Stars | Forks |

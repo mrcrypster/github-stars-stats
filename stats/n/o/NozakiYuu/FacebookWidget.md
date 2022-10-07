@@ -1,12 +1,12 @@
-# NozakiYuu/FacebookWidget / stars & forks statistics
-
-[Open repository/NozakiYuu/FacebookWidget](https://github.com/NozakiYuu/FacebookWidget)
+# NozakiYuu/FacebookWidget - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 13
+
+[Open repository](https://github.com/NozakiYuu/FacebookWidget)
 
 ## Historical data
 | Date | Stars | Forks |

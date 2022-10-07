@@ -1,12 +1,12 @@
-# vinhkhoa/cftrigger / stars & forks statistics
-
-[Open repository/vinhkhoa/cftrigger](https://github.com/vinhkhoa/cftrigger)
+# vinhkhoa/cftrigger - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/vinhkhoa/cftrigger)
 
 ## Historical data
 | Date | Stars | Forks |

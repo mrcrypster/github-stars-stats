@@ -1,12 +1,12 @@
-# COMP30019/Workshop-7 / stars & forks statistics
-
-[Open repository/COMP30019/Workshop-7](https://github.com/COMP30019/Workshop-7)
+# COMP30019/Workshop-7 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 34
 
 ★ Stars: 0
+
+[Open repository](https://github.com/COMP30019/Workshop-7)
 
 ## Historical data
 | Date | Stars | Forks |

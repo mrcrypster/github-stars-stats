@@ -1,12 +1,12 @@
-# nheidloff/test / stars & forks statistics
-
-[Open repository/nheidloff/test](https://github.com/nheidloff/test)
+# nheidloff/test - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/nheidloff/test)
 
 ## Historical data
 | Date | Stars | Forks |

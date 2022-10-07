@@ -1,12 +1,12 @@
-# bazelbuild/rules_android_ndk / stars & forks statistics
-
-[Open repository/bazelbuild/rules_android_ndk](https://github.com/bazelbuild/rules_android_ndk)
+# bazelbuild/rules_android_ndk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 11
+
+[Open repository](https://github.com/bazelbuild/rules_android_ndk)
 
 ## Historical data
 | Date | Stars | Forks |

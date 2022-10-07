@@ -1,6 +1,4 @@
-# hacl-star/hacl-star / stars & forks statistics
-
-[Open repository/hacl-star/hacl-star](https://github.com/hacl-star/hacl-star)
+# hacl-star/hacl-star - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1449
 
+[Open repository](https://github.com/hacl-star/hacl-star)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1449 | 147 | 
+| 2022-10-05 | 1449 | 147 | 
 | 2022-10-04 | 1449 | 147 | 
 | 2022-10-03 | 1449 | 147 | 
 | 2022-10-02 | 1449 | 147 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1447 | 146 | 
 | 2022-09-09 | 1447 | 146 | 
 | 2022-09-08 | 1447 | 146 | 
-| 2022-09-07 | 1447 | 146 | 
-| 2022-09-06 | 1446 | 146 | 
-| 2022-09-05 | 1446 | 146 | 
 
 
 [Detailed charts & statistics for hacl-star/hacl-star](https://reviewgithub.com/rep/hacl-star/hacl-star)

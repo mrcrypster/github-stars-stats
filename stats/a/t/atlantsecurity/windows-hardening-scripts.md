@@ -1,12 +1,12 @@
-# atlantsecurity/windows-hardening-scripts / stars & forks statistics
-
-[Open repository/atlantsecurity/windows-hardening-scripts](https://github.com/atlantsecurity/windows-hardening-scripts)
+# atlantsecurity/windows-hardening-scripts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 65
+
+[Open repository](https://github.com/atlantsecurity/windows-hardening-scripts)
 
 ## Historical data
 | Date | Stars | Forks |

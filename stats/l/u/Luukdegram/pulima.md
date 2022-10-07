@@ -1,12 +1,12 @@
-# Luukdegram/pulima / stars & forks statistics
-
-[Open repository/Luukdegram/pulima](https://github.com/Luukdegram/pulima)
+# Luukdegram/pulima - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
+
+[Open repository](https://github.com/Luukdegram/pulima)
 
 ## Historical data
 | Date | Stars | Forks |

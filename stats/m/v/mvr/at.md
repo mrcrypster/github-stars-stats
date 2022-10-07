@@ -1,12 +1,12 @@
-# mvr/at / stars & forks statistics
-
-[Open repository/mvr/at](https://github.com/mvr/at)
+# mvr/at - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 49
+
+[Open repository](https://github.com/mvr/at)
 
 ## Historical data
 | Date | Stars | Forks |

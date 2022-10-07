@@ -1,16 +1,32 @@
-# ydzhao-reyes/weixin-tuisong / stars & forks statistics
-
-[Open repository/ydzhao-reyes/weixin-tuisong](https://github.com/ydzhao-reyes/weixin-tuisong)
+# ydzhao-reyes/weixin-tuisong - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 81
+☋ Forks: 82
 
-★ Stars: 67
+★ Stars: 68
+
+[Open repository](https://github.com/ydzhao-reyes/weixin-tuisong)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 68 | 82 | 
+| 2022-10-06 | 68 | 82 | 
+| 2022-10-05 | 68 | 82 | 
+| 2022-10-04 | 68 | 82 | 
+| 2022-10-03 | 68 | 82 | 
+| 2022-10-02 | 68 | 82 | 
+| 2022-10-01 | 68 | 82 | 
+| 2022-09-30 | 68 | 82 | 
+| 2022-09-29 | 67 | 82 | 
+| 2022-09-28 | 67 | 82 | 
+| 2022-09-27 | 67 | 81 | 
+| 2022-09-26 | 67 | 81 | 
+| 2022-09-25 | 67 | 81 | 
+| 2022-09-24 | 67 | 81 | 
+| 2022-09-23 | 67 | 81 | 
+| 2022-09-21 | 67 | 81 | 
 | 2022-09-20 | 67 | 81 | 
 | 2022-09-19 | 67 | 81 | 
 | 2022-09-18 | 67 | 81 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 67 | 79 | 
 | 2022-09-08 | 67 | 79 | 
 | 2022-09-07 | 67 | 79 | 
-| 2022-09-06 | 67 | 79 | 
-| 2022-09-05 | 67 | 78 | 
-| 2022-09-04 | 67 | 77 | 
-| 2022-09-03 | 67 | 78 | 
-| 2022-09-02 | 67 | 78 | 
-| 2022-09-01 | 67 | 78 | 
-| 2022-08-31 | 67 | 78 | 
-| 2022-08-30 | 66 | 76 | 
-| 2022-08-29 | 65 | 74 | 
-| 2022-08-28 | 63 | 76 | 
-| 2022-08-27 | 63 | 74 | 
-| 2022-08-26 | 61 | 67 | 
-| 2022-08-25 | 60 | 65 | 
-| 2022-08-24 | 57 | 60 | 
-| 2022-08-23 | 52 | 57 | 
-| 2022-08-22 | 46 | 54 | 
 
 
 [Detailed charts & statistics for ydzhao-reyes/weixin-tuisong](https://reviewgithub.com/rep/ydzhao-reyes/weixin-tuisong)

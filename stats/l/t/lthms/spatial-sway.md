@@ -1,6 +1,4 @@
-# lthms/spatial-sway / stars & forks statistics
-
-[Open repository/lthms/spatial-sway](https://github.com/lthms/spatial-sway)
+# lthms/spatial-sway - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 14
 
+[Open repository](https://github.com/lthms/spatial-sway)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 14 | - | 
+| 2022-10-06 | 14 | - | 
+| 2022-10-05 | 14 | - | 
+| 2022-10-04 | 14 | - | 
+| 2022-10-03 | 14 | - | 
+| 2022-10-02 | 14 | - | 
+| 2022-10-01 | 14 | - | 
+| 2022-09-30 | 14 | - | 
+| 2022-09-29 | 14 | - | 
 | 2022-09-28 | 14 | - | 
 | 2022-09-27 | 14 | - | 
 | 2022-09-26 | 14 | - | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 | 2022-09-07 | 14 | - | 
-| 2022-09-06 | 14 | - | 
-| 2022-09-05 | 14 | - | 
-| 2022-09-04 | 14 | - | 
-| 2022-09-03 | 14 | - | 
-| 2022-09-02 | 14 | - | 
-| 2022-09-01 | 14 | - | 
-| 2022-08-31 | 13 | - | 
-| 2022-08-30 | 13 | - | 
-| 2022-08-29 | 12 | - | 
 
 
 [Detailed charts & statistics for lthms/spatial-sway](https://reviewgithub.com/rep/lthms/spatial-sway)

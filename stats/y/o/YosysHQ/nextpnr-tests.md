@@ -1,6 +1,4 @@
-# YosysHQ/nextpnr-tests / stars & forks statistics
-
-[Open repository/YosysHQ/nextpnr-tests](https://github.com/YosysHQ/nextpnr-tests)
+# YosysHQ/nextpnr-tests - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/YosysHQ/nextpnr-tests)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 3 | 
+| 2022-10-05 | 4 | 3 | 
+| 2022-10-04 | 4 | 3 | 
+| 2022-10-03 | 4 | 3 | 
+| 2022-10-02 | 4 | 3 | 
+| 2022-10-01 | 4 | 3 | 
+| 2022-09-30 | 4 | 3 | 
+| 2022-09-29 | 4 | 3 | 
+| 2022-09-28 | 4 | 3 | 
+| 2022-09-27 | 4 | 3 | 
+| 2022-09-26 | 4 | 3 | 
+| 2022-09-25 | 4 | 3 | 
+| 2022-09-24 | 4 | 3 | 
+| 2022-09-23 | 4 | 3 | 
+| 2022-09-22 | 4 | 3 | 
 | 2022-09-21 | 4 | 3 | 
 | 2022-09-20 | 4 | 3 | 
 | 2022-09-19 | 4 | 3 | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 3 | 
 | 2022-09-09 | 4 | 3 | 
 | 2022-09-08 | 4 | 3 | 
-| 2022-09-07 | 4 | 3 | 
-| 2022-09-06 | 4 | 3 | 
-| 2022-09-05 | 4 | 3 | 
-| 2022-09-04 | 4 | 3 | 
-| 2022-09-03 | 4 | 3 | 
-| 2022-09-02 | 4 | 3 | 
-| 2022-08-31 | 4 | 3 | 
-| 2022-08-30 | 4 | 3 | 
-| 2022-08-29 | 4 | 3 | 
-| 2022-08-28 | 4 | 3 | 
-| 2022-08-27 | 4 | 3 | 
-| 2022-08-26 | 4 | 3 | 
-| 2022-08-25 | 4 | 3 | 
-| 2022-08-24 | 4 | 3 | 
-| 2022-08-23 | 4 | 3 | 
-| 2022-08-22 | 4 | 3 | 
 
 
 [Detailed charts & statistics for YosysHQ/nextpnr-tests](https://reviewgithub.com/rep/YosysHQ/nextpnr-tests)

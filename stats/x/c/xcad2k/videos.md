@@ -1,16 +1,23 @@
-# xcad2k/videos / stars & forks statistics
-
-[Open repository/xcad2k/videos](https://github.com/xcad2k/videos)
+# xcad2k/videos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 32
+☋ Forks: 38
 
-★ Stars: 64
+★ Stars: 76
+
+[Open repository](https://github.com/xcad2k/videos)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 76 | 38 | 
+| 2022-10-06 | 74 | 38 | 
+| 2022-10-05 | 71 | 37 | 
+| 2022-10-04 | 70 | 36 | 
+| 2022-10-03 | 68 | 35 | 
+| 2022-10-02 | 66 | 35 | 
+| 2022-10-01 | 64 | 34 | 
 | 2022-09-30 | 64 | 32 | 
 | 2022-09-29 | 63 | 31 | 
 | 2022-09-28 | 62 | 29 | 
@@ -34,13 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 39 | 19 | 
 | 2022-09-09 | 39 | 19 | 
 | 2022-09-08 | 35 | 19 | 
-| 2022-09-07 | 34 | 19 | 
-| 2022-09-06 | 33 | 18 | 
-| 2022-09-05 | 33 | 16 | 
-| 2022-09-04 | 33 | 16 | 
-| 2022-09-03 | 30 | 16 | 
-| 2022-09-02 | 30 | 16 | 
-| 2022-09-01 | 28 | 15 | 
 
 
 [Detailed charts & statistics for xcad2k/videos](https://reviewgithub.com/rep/xcad2k/videos)

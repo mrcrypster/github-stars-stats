@@ -1,12 +1,12 @@
-# deepin-community/fcode-utils / stars & forks statistics
-
-[Open repository/deepin-community/fcode-utils](https://github.com/deepin-community/fcode-utils)
+# deepin-community/fcode-utils - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/fcode-utils)
 
 ## Historical data
 | Date | Stars | Forks |

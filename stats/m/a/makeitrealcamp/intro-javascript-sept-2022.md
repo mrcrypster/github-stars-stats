@@ -1,12 +1,12 @@
-# makeitrealcamp/intro-javascript-sept-2022 / stars & forks statistics
-
-[Open repository/makeitrealcamp/intro-javascript-sept-2022](https://github.com/makeitrealcamp/intro-javascript-sept-2022)
+# makeitrealcamp/intro-javascript-sept-2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 33
+
+[Open repository](https://github.com/makeitrealcamp/intro-javascript-sept-2022)
 
 ## Historical data
 | Date | Stars | Forks |

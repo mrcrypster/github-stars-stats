@@ -1,6 +1,4 @@
-# josevalim/nested-map-reduce-traversal / stars & forks statistics
-
-[Open repository/josevalim/nested-map-reduce-traversal](https://github.com/josevalim/nested-map-reduce-traversal)
+# josevalim/nested-map-reduce-traversal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,28 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/josevalim/nested-map-reduce-traversal)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11 | - | 
+| 2022-10-05 | 11 | - | 
+| 2022-10-04 | 11 | - | 
+| 2022-10-03 | 11 | - | 
+| 2022-10-02 | 11 | - | 
+| 2022-10-01 | 11 | - | 
+| 2022-09-30 | 11 | - | 
+| 2022-09-29 | 11 | - | 
+| 2022-09-28 | 11 | - | 
+| 2022-09-27 | 11 | - | 
+| 2022-09-26 | 11 | - | 
+| 2022-09-25 | 11 | - | 
+| 2022-09-24 | 11 | - | 
+| 2022-09-23 | 11 | - | 
+| 2022-09-22 | 11 | - | 
+| 2022-09-21 | 11 | - | 
+| 2022-09-20 | 11 | - | 
 | 2022-09-19 | 11 | - | 
 | 2022-09-18 | 11 | - | 
 | 2022-09-17 | 11 | - | 
@@ -23,24 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11 | - | 
 | 2022-09-09 | 11 | - | 
 | 2022-09-08 | 11 | - | 
-| 2022-09-07 | 11 | - | 
-| 2022-09-06 | 11 | - | 
-| 2022-09-05 | 11 | - | 
-| 2022-09-04 | 10 | - | 
-| 2022-09-03 | 10 | - | 
-| 2022-09-02 | 10 | - | 
-| 2022-08-31 | 10 | - | 
-| 2022-08-30 | 10 | - | 
-| 2022-08-29 | 10 | - | 
-| 2022-08-28 | 10 | - | 
-| 2022-08-27 | 10 | - | 
-| 2022-08-26 | 10 | - | 
-| 2022-08-25 | 10 | - | 
-| 2022-08-24 | 10 | - | 
-| 2022-08-23 | 10 | - | 
-| 2022-08-22 | 10 | - | 
-| 2022-08-21 | 10 | - | 
-| 2022-08-20 | 10 | - | 
 
 
 [Detailed charts & statistics for josevalim/nested-map-reduce-traversal](https://reviewgithub.com/rep/josevalim/nested-map-reduce-traversal)

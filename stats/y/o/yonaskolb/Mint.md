@@ -1,12 +1,12 @@
-# yonaskolb/Mint / stars & forks statistics
-
-[Open repository/yonaskolb/Mint](https://github.com/yonaskolb/Mint)
+# yonaskolb/Mint - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 91
 
 ★ Stars: 1923
+
+[Open repository](https://github.com/yonaskolb/Mint)
 
 ## Historical data
 | Date | Stars | Forks |

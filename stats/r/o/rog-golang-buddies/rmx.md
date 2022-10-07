@@ -1,12 +1,12 @@
-# rog-golang-buddies/rmx / stars & forks statistics
-
-[Open repository/rog-golang-buddies/rmx](https://github.com/rog-golang-buddies/rmx)
+# rog-golang-buddies/rmx - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/rog-golang-buddies/rmx)
 
 ## Historical data
 | Date | Stars | Forks |

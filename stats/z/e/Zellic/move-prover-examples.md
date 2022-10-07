@@ -1,12 +1,12 @@
-# Zellic/move-prover-examples / stars & forks statistics
-
-[Open repository/Zellic/move-prover-examples](https://github.com/Zellic/move-prover-examples)
+# Zellic/move-prover-examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 14
+
+[Open repository](https://github.com/Zellic/move-prover-examples)
 
 ## Historical data
 | Date | Stars | Forks |

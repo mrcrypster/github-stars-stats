@@ -1,12 +1,12 @@
-# fboulnois/stable-diffusion-docker / stars & forks statistics
-
-[Open repository/fboulnois/stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
+# fboulnois/stable-diffusion-docker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 147
+
+[Open repository](https://github.com/fboulnois/stable-diffusion-docker)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,23 @@
-# EcoForecast/EF_Activities / stars & forks statistics
-
-[Open repository/EcoForecast/EF_Activities](https://github.com/EcoForecast/EF_Activities)
+# EcoForecast/EF_Activities - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 151
+☋ Forks: 152
 
 ★ Stars: 67
+
+[Open repository](https://github.com/EcoForecast/EF_Activities)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 67 | 152 | 
+| 2022-10-05 | 67 | 152 | 
+| 2022-10-04 | 67 | 152 | 
+| 2022-10-03 | 67 | 152 | 
+| 2022-10-02 | 67 | 151 | 
+| 2022-10-01 | 67 | 151 | 
+| 2022-09-30 | 67 | 151 | 
 | 2022-09-29 | 67 | 151 | 
 | 2022-09-28 | 67 | 150 | 
 | 2022-09-27 | 67 | 150 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 67 | 149 | 
 | 2022-09-09 | 67 | 149 | 
 | 2022-09-08 | 67 | 149 | 
-| 2022-09-07 | 67 | 149 | 
-| 2022-09-06 | 67 | 149 | 
-| 2022-09-05 | 67 | 149 | 
-| 2022-09-04 | 67 | 149 | 
-| 2022-09-03 | 67 | 149 | 
-| 2022-09-02 | 67 | 149 | 
-| 2022-09-01 | 67 | 149 | 
-| 2022-08-31 | 67 | 149 | 
 
 
 [Detailed charts & statistics for EcoForecast/EF_Activities](https://reviewgithub.com/rep/EcoForecast/EF_Activities)

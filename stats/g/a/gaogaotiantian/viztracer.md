@@ -1,16 +1,25 @@
-# gaogaotiantian/viztracer / stars & forks statistics
-
-[Open repository/gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
+# gaogaotiantian/viztracer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 249
+☋ Forks: 255
 
-★ Stars: 2544
+★ Stars: 2571
+
+[Open repository](https://github.com/gaogaotiantian/viztracer)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2571 | 255 | 
+| 2022-10-06 | 2571 | 255 | 
+| 2022-10-05 | 2566 | 253 | 
+| 2022-10-04 | 2563 | 253 | 
+| 2022-10-03 | 2561 | 252 | 
+| 2022-10-02 | 2560 | 251 | 
+| 2022-10-01 | 2553 | 251 | 
+| 2022-09-30 | 2552 | 250 | 
+| 2022-09-29 | 2548 | 249 | 
 | 2022-09-28 | 2544 | 249 | 
 | 2022-09-27 | 2539 | 247 | 
 | 2022-09-26 | 2538 | 246 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2496 | 234 | 
 | 2022-09-08 | 2492 | 234 | 
 | 2022-09-07 | 2490 | 232 | 
-| 2022-09-06 | 2486 | 231 | 
-| 2022-09-05 | 2483 | 229 | 
-| 2022-09-04 | 2476 | 224 | 
-| 2022-09-03 | 2471 | 221 | 
-| 2022-09-02 | 2465 | 220 | 
-| 2022-09-01 | 2459 | 218 | 
-| 2022-08-31 | 2451 | 214 | 
-| 2022-08-30 | 2444 | 207 | 
-| 2022-08-29 | 2438 | 203 | 
 
 
 [Detailed charts & statistics for gaogaotiantian/viztracer](https://reviewgithub.com/rep/gaogaotiantian/viztracer)

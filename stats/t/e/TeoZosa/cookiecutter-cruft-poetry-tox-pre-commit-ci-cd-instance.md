@@ -1,12 +1,12 @@
-# TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance / stars & forks statistics
-
-[Open repository/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance](https://github.com/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance)
+# TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance)
 
 ## Historical data
 | Date | Stars | Forks |

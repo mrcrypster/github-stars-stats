@@ -1,12 +1,12 @@
-# GaloisInc/what4-serialize / stars & forks statistics
-
-[Open repository/GaloisInc/what4-serialize](https://github.com/GaloisInc/what4-serialize)
+# GaloisInc/what4-serialize - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
+
+[Open repository](https://github.com/GaloisInc/what4-serialize)
 
 ## Historical data
 | Date | Stars | Forks |

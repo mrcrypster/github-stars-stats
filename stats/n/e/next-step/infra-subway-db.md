@@ -1,12 +1,12 @@
-# next-step/infra-subway-db / stars & forks statistics
-
-[Open repository/next-step/infra-subway-db](https://github.com/next-step/infra-subway-db)
+# next-step/infra-subway-db - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 0
+
+[Open repository](https://github.com/next-step/infra-subway-db)
 
 ## Historical data
 | Date | Stars | Forks |

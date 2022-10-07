@@ -1,6 +1,4 @@
-# micronaut-projects/static-website / stars & forks statistics
-
-[Open repository/micronaut-projects/static-website](https://github.com/micronaut-projects/static-website)
+# micronaut-projects/static-website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,32 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/micronaut-projects/static-website)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 21 | 
+| 2022-10-06 | 3 | 21 | 
+| 2022-10-05 | 3 | 21 | 
+| 2022-10-04 | 3 | 21 | 
+| 2022-10-03 | 3 | 21 | 
+| 2022-10-02 | 3 | 21 | 
+| 2022-10-01 | 3 | 21 | 
+| 2022-09-30 | 3 | 21 | 
+| 2022-09-29 | 3 | 21 | 
+| 2022-09-28 | 3 | 21 | 
+| 2022-09-26 | 3 | 21 | 
+| 2022-09-25 | 3 | 21 | 
+| 2022-09-24 | 3 | 21 | 
+| 2022-09-23 | 3 | 21 | 
+| 2022-09-22 | 3 | 21 | 
+| 2022-09-21 | 3 | 21 | 
+| 2022-09-20 | 3 | 21 | 
+| 2022-09-19 | 3 | 21 | 
+| 2022-09-18 | 3 | 21 | 
+| 2022-09-17 | 3 | 21 | 
+| 2022-09-16 | 3 | 21 | 
 | 2022-09-15 | 3 | 21 | 
 | 2022-09-14 | 3 | 21 | 
 | 2022-09-13 | 3 | 21 | 
@@ -20,27 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3 | 21 | 
 | 2022-09-08 | 3 | 21 | 
 | 2022-09-07 | 3 | 21 | 
-| 2022-09-06 | 3 | 21 | 
-| 2022-09-05 | 3 | 21 | 
-| 2022-09-04 | 3 | 21 | 
-| 2022-09-03 | 3 | 21 | 
-| 2022-09-02 | 3 | 21 | 
-| 2022-09-01 | 3 | 21 | 
-| 2022-08-31 | 3 | 21 | 
-| 2022-08-30 | 3 | 21 | 
-| 2022-08-29 | 3 | 21 | 
-| 2022-08-28 | 3 | 21 | 
-| 2022-08-27 | 3 | 21 | 
-| 2022-08-26 | 3 | 21 | 
-| 2022-08-25 | 3 | 21 | 
-| 2022-08-24 | 3 | 21 | 
-| 2022-08-23 | 3 | 21 | 
-| 2022-08-22 | 3 | 21 | 
-| 2022-08-21 | 3 | 21 | 
-| 2022-08-20 | 3 | 21 | 
-| 2022-08-19 | 3 | 21 | 
-| 2022-08-18 | 3 | 21 | 
-| 2022-08-17 | 3 | 21 | 
 
 
 [Detailed charts & statistics for micronaut-projects/static-website](https://reviewgithub.com/rep/micronaut-projects/static-website)

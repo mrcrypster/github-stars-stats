@@ -1,12 +1,12 @@
-# diagrams/diagrams-core / stars & forks statistics
-
-[Open repository/diagrams/diagrams-core](https://github.com/diagrams/diagrams-core)
+# diagrams/diagrams-core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 78
+
+[Open repository](https://github.com/diagrams/diagrams-core)
 
 ## Historical data
 | Date | Stars | Forks |

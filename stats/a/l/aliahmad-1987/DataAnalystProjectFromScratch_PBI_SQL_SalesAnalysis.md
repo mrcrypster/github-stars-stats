@@ -1,46 +1,46 @@
-# aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis / stars & forks statistics
-
-[Open repository/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis](https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis)
+# aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 37
+☋ Forks: 39
 
-★ Stars: 21
+★ Stars: 25
+
+[Open repository](https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-10 | 21 | 37 | 
-| 2022-08-09 | 21 | 37 | 
-| 2022-08-08 | 21 | 36 | 
-| 2022-08-07 | 21 | 36 | 
-| 2022-08-06 | 21 | 36 | 
-| 2022-08-05 | 21 | 36 | 
-| 2022-08-04 | 21 | 36 | 
-| 2022-08-03 | 21 | 36 | 
-| 2022-08-02 | 21 | 36 | 
-| 2022-08-01 | 20 | 36 | 
-| 2022-07-31 | 20 | 36 | 
-| 2022-07-30 | 20 | 36 | 
-| 2022-07-29 | 20 | 36 | 
-| 2022-07-28 | 20 | 36 | 
-| 2022-07-27 | 20 | 36 | 
-| 2022-07-26 | 20 | 36 | 
-| 2022-07-25 | 20 | 36 | 
-| 2022-07-24 | 20 | 36 | 
-| 2022-07-23 | 20 | 36 | 
-| 2022-07-22 | 20 | 36 | 
-| 2022-07-21 | 20 | 36 | 
-| 2022-07-20 | 20 | 35 | 
-| 2022-07-19 | 20 | 35 | 
-| 2022-07-18 | 20 | 35 | 
-| 2022-07-17 | 20 | 35 | 
-| 2022-07-16 | 20 | 36 | 
-| 2022-07-15 | 20 | 36 | 
-| 2022-07-14 | 20 | 36 | 
-| 2022-07-13 | 20 | 36 | 
-| 2022-07-12 | 20 | 36 | 
+| 2022-10-07 | 25 | 39 | 
+| 2022-10-06 | 25 | 39 | 
+| 2022-10-05 | 25 | 39 | 
+| 2022-10-03 | 25 | 39 | 
+| 2022-10-02 | 25 | 39 | 
+| 2022-10-01 | 25 | 39 | 
+| 2022-09-30 | 25 | 39 | 
+| 2022-09-29 | 25 | 39 | 
+| 2022-09-28 | 25 | 39 | 
+| 2022-09-27 | 25 | 39 | 
+| 2022-09-26 | 25 | 39 | 
+| 2022-09-25 | 25 | 39 | 
+| 2022-09-24 | 25 | 39 | 
+| 2022-09-23 | 25 | 39 | 
+| 2022-09-22 | 25 | 39 | 
+| 2022-09-21 | 25 | 39 | 
+| 2022-09-20 | 25 | 39 | 
+| 2022-09-19 | 23 | 39 | 
+| 2022-09-18 | 23 | 39 | 
+| 2022-09-17 | 23 | 39 | 
+| 2022-09-16 | 23 | 39 | 
+| 2022-09-15 | 23 | 39 | 
+| 2022-09-14 | 23 | 39 | 
+| 2022-09-13 | 23 | 39 | 
+| 2022-09-12 | 22 | 39 | 
+| 2022-09-11 | 22 | 39 | 
+| 2022-09-10 | 22 | 39 | 
+| 2022-09-09 | 22 | 39 | 
+| 2022-09-08 | 22 | 39 | 
+| 2022-09-07 | 22 | 38 | 
 
 
 [Detailed charts & statistics for aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis](https://reviewgithub.com/rep/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis)

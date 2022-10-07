@@ -1,16 +1,30 @@
-# microsoft/ALAppExtensions / stars & forks statistics
-
-[Open repository/microsoft/ALAppExtensions](https://github.com/microsoft/ALAppExtensions)
+# microsoft/ALAppExtensions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 417
+☋ Forks: 429
 
-★ Stars: 462
+★ Stars: 468
+
+[Open repository](https://github.com/microsoft/ALAppExtensions)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 468 | 429 | 
+| 2022-10-05 | 467 | 428 | 
+| 2022-10-04 | 467 | 427 | 
+| 2022-10-03 | 466 | 426 | 
+| 2022-10-02 | 466 | 426 | 
+| 2022-10-01 | 466 | 426 | 
+| 2022-09-30 | 466 | 426 | 
+| 2022-09-29 | 465 | 424 | 
+| 2022-09-28 | 463 | 424 | 
+| 2022-09-27 | 463 | 421 | 
+| 2022-09-26 | 463 | 419 | 
+| 2022-09-25 | 462 | 419 | 
+| 2022-09-24 | 462 | 419 | 
+| 2022-09-23 | 462 | 418 | 
 | 2022-09-22 | 462 | 417 | 
 | 2022-09-21 | 462 | 417 | 
 | 2022-09-20 | 462 | 416 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 458 | 411 | 
 | 2022-09-08 | 458 | 411 | 
 | 2022-09-07 | 458 | 411 | 
-| 2022-09-06 | 458 | 411 | 
-| 2022-09-05 | 457 | 410 | 
-| 2022-09-04 | 457 | 410 | 
-| 2022-09-03 | 457 | 410 | 
-| 2022-09-02 | 457 | 410 | 
-| 2022-09-01 | 456 | 410 | 
-| 2022-08-31 | 454 | 410 | 
-| 2022-08-30 | 453 | 407 | 
-| 2022-08-29 | 453 | 407 | 
-| 2022-08-28 | 453 | 407 | 
-| 2022-08-27 | 453 | 407 | 
-| 2022-08-26 | 453 | 407 | 
-| 2022-08-25 | 452 | 406 | 
-| 2022-08-24 | 452 | 404 | 
 
 
 [Detailed charts & statistics for microsoft/ALAppExtensions](https://reviewgithub.com/rep/microsoft/ALAppExtensions)

@@ -1,12 +1,12 @@
-# nietaki/sbttest / stars & forks statistics
-
-[Open repository/nietaki/sbttest](https://github.com/nietaki/sbttest)
+# nietaki/sbttest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/nietaki/sbttest)
 
 ## Historical data
 | Date | Stars | Forks |

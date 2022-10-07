@@ -1,12 +1,12 @@
-# Akanksha2805/SalesforceWeb / stars & forks statistics
-
-[Open repository/Akanksha2805/SalesforceWeb](https://github.com/Akanksha2805/SalesforceWeb)
+# Akanksha2805/SalesforceWeb - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Akanksha2805/SalesforceWeb)
 
 ## Historical data
 | Date | Stars | Forks |

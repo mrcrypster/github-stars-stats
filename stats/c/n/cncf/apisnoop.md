@@ -1,12 +1,12 @@
-# cncf/apisnoop / stars & forks statistics
-
-[Open repository/cncf/apisnoop](https://github.com/cncf/apisnoop)
+# cncf/apisnoop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 79
+
+[Open repository](https://github.com/cncf/apisnoop)
 
 ## Historical data
 | Date | Stars | Forks |

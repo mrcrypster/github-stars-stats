@@ -1,16 +1,27 @@
-# imthenachoman/How-To-Secure-A-Linux-Server / stars & forks statistics
-
-[Open repository/imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+# imthenachoman/How-To-Secure-A-Linux-Server - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 861
+☋ Forks: 865
 
-★ Stars: 13096
+★ Stars: 13141
+
+[Open repository](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 13141 | 865 | 
+| 2022-10-05 | 13134 | 862 | 
+| 2022-10-04 | 13129 | 861 | 
+| 2022-10-03 | 13125 | 861 | 
+| 2022-10-02 | 13121 | 861 | 
+| 2022-10-01 | 13120 | 861 | 
+| 2022-09-30 | 13115 | 861 | 
+| 2022-09-29 | 13111 | 861 | 
+| 2022-09-28 | 13108 | 861 | 
+| 2022-09-27 | 13105 | 861 | 
+| 2022-09-26 | 13103 | 861 | 
 | 2022-09-25 | 13096 | 861 | 
 | 2022-09-24 | 13091 | 861 | 
 | 2022-09-23 | 13087 | 861 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 13013 | 856 | 
 | 2022-09-08 | 13009 | 856 | 
 | 2022-09-07 | 13006 | 856 | 
-| 2022-09-06 | 13004 | 854 | 
-| 2022-09-05 | 12998 | 855 | 
-| 2022-09-04 | 12990 | 854 | 
-| 2022-09-03 | 12987 | 853 | 
-| 2022-09-02 | 12981 | 852 | 
-| 2022-09-01 | 12976 | 851 | 
-| 2022-08-31 | 12969 | 851 | 
-| 2022-08-30 | 12962 | 851 | 
-| 2022-08-29 | 12952 | 851 | 
-| 2022-08-28 | 12931 | 846 | 
-| 2022-08-27 | 12775 | 841 | 
-| 2022-08-26 | 12654 | 833 | 
 
 
 [Detailed charts & statistics for imthenachoman/How-To-Secure-A-Linux-Server](https://reviewgithub.com/rep/imthenachoman/How-To-Secure-A-Linux-Server)

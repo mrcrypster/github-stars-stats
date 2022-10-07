@@ -1,6 +1,4 @@
-# kaiware007/UnityHexTilingShader / stars & forks statistics
-
-[Open repository/kaiware007/UnityHexTilingShader](https://github.com/kaiware007/UnityHexTilingShader)
+# kaiware007/UnityHexTilingShader - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 26
 
+[Open repository](https://github.com/kaiware007/UnityHexTilingShader)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 26 | - | 
 | 2022-10-05 | 26 | - | 
 | 2022-10-04 | 26 | - | 
 | 2022-10-03 | 26 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 23 | - | 
 | 2022-09-09 | 23 | - | 
 | 2022-09-08 | 18 | - | 
-| 2022-09-07 | 17 | - | 
-| 2022-09-06 | 17 | - | 
 
 
 [Detailed charts & statistics for kaiware007/UnityHexTilingShader](https://reviewgithub.com/rep/kaiware007/UnityHexTilingShader)

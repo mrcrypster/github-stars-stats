@@ -1,16 +1,28 @@
-# FastEndpoints/Library / stars & forks statistics
-
-[Open repository/FastEndpoints/Library](https://github.com/FastEndpoints/Library)
+# FastEndpoints/Library - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 124
+☋ Forks: 129
 
-★ Stars: 2068
+★ Stars: 2112
+
+[Open repository](https://github.com/FastEndpoints/Library)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2112 | 129 | 
+| 2022-10-06 | 2107 | 129 | 
+| 2022-10-05 | 2105 | 129 | 
+| 2022-10-04 | 2101 | 127 | 
+| 2022-10-03 | 2095 | 127 | 
+| 2022-10-02 | 2090 | 127 | 
+| 2022-10-01 | 2090 | 127 | 
+| 2022-09-30 | 2088 | 127 | 
+| 2022-09-29 | 2085 | 127 | 
+| 2022-09-28 | 2074 | 124 | 
+| 2022-09-27 | 2068 | 124 | 
+| 2022-09-26 | 2068 | 124 | 
 | 2022-09-25 | 2068 | 124 | 
 | 2022-09-24 | 2064 | 124 | 
 | 2022-09-23 | 2059 | 124 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1992 | 112 | 
 | 2022-09-08 | 1986 | 112 | 
 | 2022-09-07 | 1984 | 112 | 
-| 2022-09-06 | 1981 | 112 | 
-| 2022-09-05 | 1978 | 111 | 
-| 2022-09-04 | 1974 | 111 | 
-| 2022-09-03 | 1973 | 110 | 
-| 2022-09-02 | 1971 | 109 | 
-| 2022-09-01 | 1966 | 110 | 
-| 2022-08-31 | 1957 | 110 | 
-| 2022-08-30 | 1953 | 111 | 
-| 2022-08-29 | 1944 | 109 | 
-| 2022-08-28 | 1938 | 109 | 
-| 2022-08-27 | 1936 | 109 | 
-| 2022-08-26 | 1927 | 107 | 
 
 
 [Detailed charts & statistics for FastEndpoints/Library](https://reviewgithub.com/rep/FastEndpoints/Library)

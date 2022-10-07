@@ -1,12 +1,12 @@
-# Gismo1337/vue-cookie-consent-banner / stars & forks statistics
-
-[Open repository/Gismo1337/vue-cookie-consent-banner](https://github.com/Gismo1337/vue-cookie-consent-banner)
+# Gismo1337/vue-cookie-consent-banner - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 4
+
+[Open repository](https://github.com/Gismo1337/vue-cookie-consent-banner)
 
 ## Historical data
 | Date | Stars | Forks |

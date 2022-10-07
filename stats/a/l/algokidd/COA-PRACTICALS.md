@@ -1,12 +1,12 @@
-# algokidd/COA-PRACTICALS / stars & forks statistics
-
-[Open repository/algokidd/COA-PRACTICALS](https://github.com/algokidd/COA-PRACTICALS)
+# algokidd/COA-PRACTICALS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/algokidd/COA-PRACTICALS)
 
 ## Historical data
 | Date | Stars | Forks |

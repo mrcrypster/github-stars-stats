@@ -1,12 +1,12 @@
-# sj5027052/Hactoberfest2022 / stars & forks statistics
-
-[Open repository/sj5027052/Hactoberfest2022](https://github.com/sj5027052/Hactoberfest2022)
+# sj5027052/Hactoberfest2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 253
 
 ★ Stars: 69
+
+[Open repository](https://github.com/sj5027052/Hactoberfest2022)
 
 ## Historical data
 | Date | Stars | Forks |

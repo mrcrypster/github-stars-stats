@@ -1,16 +1,28 @@
-# aristanetworks/purescript-backend-optimizer / stars & forks statistics
-
-[Open repository/aristanetworks/purescript-backend-optimizer](https://github.com/aristanetworks/purescript-backend-optimizer)
+# aristanetworks/purescript-backend-optimizer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 108
+★ Stars: 111
+
+[Open repository](https://github.com/aristanetworks/purescript-backend-optimizer)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 111 | 3 | 
+| 2022-10-05 | 110 | 3 | 
+| 2022-10-04 | 109 | 3 | 
+| 2022-10-03 | 109 | 3 | 
+| 2022-10-02 | 108 | 3 | 
+| 2022-10-01 | 108 | 3 | 
+| 2022-09-30 | 108 | 3 | 
+| 2022-09-29 | 108 | 3 | 
+| 2022-09-28 | 108 | 3 | 
+| 2022-09-27 | 108 | 3 | 
+| 2022-09-26 | 108 | 3 | 
+| 2022-09-25 | 108 | 3 | 
 | 2022-09-24 | 108 | 3 | 
 | 2022-09-23 | 108 | 3 | 
 | 2022-09-22 | 108 | 3 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 105 | 3 | 
 | 2022-09-09 | 103 | 3 | 
 | 2022-09-08 | 102 | 3 | 
-| 2022-09-07 | 102 | 3 | 
-| 2022-09-06 | 102 | 3 | 
-| 2022-09-05 | 99 | 3 | 
-| 2022-09-04 | 99 | 3 | 
-| 2022-09-03 | 99 | 3 | 
-| 2022-09-02 | 99 | 3 | 
-| 2022-09-01 | 98 | 3 | 
-| 2022-08-31 | 95 | 3 | 
-| 2022-08-30 | 91 | 3 | 
-| 2022-08-29 | 85 | 3 | 
-| 2022-08-28 | 77 | 3 | 
-| 2022-08-27 | 77 | 3 | 
-| 2022-08-26 | 63 | 2 | 
 
 
 [Detailed charts & statistics for aristanetworks/purescript-backend-optimizer](https://reviewgithub.com/rep/aristanetworks/purescript-backend-optimizer)

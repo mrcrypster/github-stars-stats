@@ -1,12 +1,12 @@
-# deepin-community/cl-alexandria / stars & forks statistics
-
-[Open repository/deepin-community/cl-alexandria](https://github.com/deepin-community/cl-alexandria)
+# deepin-community/cl-alexandria - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/cl-alexandria)
 
 ## Historical data
 | Date | Stars | Forks |

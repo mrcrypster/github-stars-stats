@@ -1,16 +1,30 @@
-# ZiuChen/ClipboardManager / stars & forks statistics
-
-[Open repository/ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager)
+# ZiuChen/ClipboardManager - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 15
+☋ Forks: 18
 
-★ Stars: 50
+★ Stars: 62
+
+[Open repository](https://github.com/ZiuChen/ClipboardManager)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 62 | 18 | 
+| 2022-10-06 | 61 | 18 | 
+| 2022-10-05 | 61 | 18 | 
+| 2022-10-04 | 60 | 17 | 
+| 2022-10-03 | 59 | 17 | 
+| 2022-10-02 | 57 | 17 | 
+| 2022-10-01 | 56 | 17 | 
+| 2022-09-30 | 56 | 17 | 
+| 2022-09-29 | 54 | 16 | 
+| 2022-09-28 | 54 | 15 | 
+| 2022-09-27 | 53 | 15 | 
+| 2022-09-26 | 53 | 15 | 
+| 2022-09-24 | 53 | 15 | 
+| 2022-09-23 | 52 | 15 | 
 | 2022-09-22 | 50 | 15 | 
 | 2022-09-21 | 49 | 15 | 
 | 2022-09-20 | 48 | 13 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 45 | 13 | 
 | 2022-09-08 | 45 | 13 | 
 | 2022-09-07 | 43 | 13 | 
-| 2022-09-06 | 42 | 13 | 
-| 2022-09-05 | 42 | 13 | 
-| 2022-09-04 | 39 | 13 | 
-| 2022-09-03 | 39 | 13 | 
-| 2022-09-02 | 38 | 13 | 
-| 2022-09-01 | 36 | 13 | 
-| 2022-08-31 | 34 | 13 | 
-| 2022-08-30 | 31 | 12 | 
-| 2022-08-29 | 27 | 10 | 
-| 2022-08-28 | 26 | 9 | 
-| 2022-08-27 | 25 | 8 | 
-| 2022-08-26 | 24 | 8 | 
-| 2022-08-25 | 23 | 8 | 
-| 2022-08-24 | 23 | 8 | 
 
 
 [Detailed charts & statistics for ZiuChen/ClipboardManager](https://reviewgithub.com/rep/ZiuChen/ClipboardManager)

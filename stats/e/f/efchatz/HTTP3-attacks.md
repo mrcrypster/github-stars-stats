@@ -1,6 +1,4 @@
-# efchatz/HTTP3-attacks / stars & forks statistics
-
-[Open repository/efchatz/HTTP3-attacks](https://github.com/efchatz/HTTP3-attacks)
+# efchatz/HTTP3-attacks - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 53
 
+[Open repository](https://github.com/efchatz/HTTP3-attacks)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 53 | 11 | 
+| 2022-10-05 | 53 | 11 | 
 | 2022-10-04 | 53 | 11 | 
 | 2022-10-03 | 53 | 11 | 
 | 2022-10-02 | 53 | 11 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 46 | 8 | 
 | 2022-09-09 | 46 | 8 | 
 | 2022-09-08 | 46 | 8 | 
-| 2022-09-07 | 46 | 8 | 
-| 2022-09-06 | 46 | 8 | 
-| 2022-09-05 | 43 | 8 | 
 
 
 [Detailed charts & statistics for efchatz/HTTP3-attacks](https://reviewgithub.com/rep/efchatz/HTTP3-attacks)

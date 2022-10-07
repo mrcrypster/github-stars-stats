@@ -1,12 +1,12 @@
-# kshyam/flask-blog-with-db / stars & forks statistics
-
-[Open repository/kshyam/flask-blog-with-db](https://github.com/kshyam/flask-blog-with-db)
+# kshyam/flask-blog-with-db - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 29
+
+[Open repository](https://github.com/kshyam/flask-blog-with-db)
 
 ## Historical data
 | Date | Stars | Forks |

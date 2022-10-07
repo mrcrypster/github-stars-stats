@@ -1,12 +1,12 @@
-# Dovgalyuk/Algorithms / stars & forks statistics
-
-[Open repository/Dovgalyuk/Algorithms](https://github.com/Dovgalyuk/Algorithms)
+# Dovgalyuk/Algorithms - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 137
 
 ★ Stars: 10
+
+[Open repository](https://github.com/Dovgalyuk/Algorithms)
 
 ## Historical data
 | Date | Stars | Forks |

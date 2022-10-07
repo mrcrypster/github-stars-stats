@@ -1,6 +1,4 @@
-# OCamlPro/gedcom-anonymizer / stars & forks statistics
-
-[Open repository/OCamlPro/gedcom-anonymizer](https://github.com/OCamlPro/gedcom-anonymizer)
+# OCamlPro/gedcom-anonymizer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/OCamlPro/gedcom-anonymizer)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 1 | 
+| 2022-10-05 | - | 1 | 
+| 2022-10-04 | - | 1 | 
+| 2022-10-03 | - | 1 | 
+| 2022-10-02 | - | 1 | 
+| 2022-10-01 | - | 1 | 
+| 2022-09-30 | - | 1 | 
 | 2022-09-29 | - | 1 | 
 | 2022-09-28 | - | 1 | 
 | 2022-09-27 | - | 1 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 1 | 
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
-| 2022-09-07 | - | 1 | 
-| 2022-09-06 | - | 1 | 
-| 2022-09-05 | - | 1 | 
-| 2022-09-04 | - | 1 | 
-| 2022-09-03 | - | 1 | 
-| 2022-09-02 | - | 1 | 
-| 2022-09-01 | - | 1 | 
-| 2022-08-31 | - | 1 | 
 
 
 [Detailed charts & statistics for OCamlPro/gedcom-anonymizer](https://reviewgithub.com/rep/OCamlPro/gedcom-anonymizer)

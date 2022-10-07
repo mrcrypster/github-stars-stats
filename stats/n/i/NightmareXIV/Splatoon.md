@@ -1,12 +1,12 @@
-# NightmareXIV/Splatoon / stars & forks statistics
-
-[Open repository/NightmareXIV/Splatoon](https://github.com/NightmareXIV/Splatoon)
+# NightmareXIV/Splatoon - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 84
+
+[Open repository](https://github.com/NightmareXIV/Splatoon)
 
 ## Historical data
 | Date | Stars | Forks |

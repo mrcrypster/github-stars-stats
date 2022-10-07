@@ -1,16 +1,29 @@
-# daac-tools/vibrato / stars & forks statistics
-
-[Open repository/daac-tools/vibrato](https://github.com/daac-tools/vibrato)
+# daac-tools/vibrato - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 6
 
-★ Stars: 176
+★ Stars: 189
+
+[Open repository](https://github.com/daac-tools/vibrato)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 189 | 6 | 
+| 2022-10-06 | 189 | 5 | 
+| 2022-10-05 | 188 | 5 | 
+| 2022-10-04 | 182 | 5 | 
+| 2022-10-03 | 182 | 5 | 
+| 2022-10-02 | 182 | 5 | 
+| 2022-10-01 | 180 | 5 | 
+| 2022-09-30 | 180 | 5 | 
+| 2022-09-29 | 179 | 4 | 
+| 2022-09-28 | 179 | 4 | 
+| 2022-09-27 | 178 | 4 | 
+| 2022-09-26 | 177 | 4 | 
+| 2022-09-25 | 177 | 4 | 
 | 2022-09-24 | 176 | 3 | 
 | 2022-09-23 | 174 | 3 | 
 | 2022-09-22 | 173 | 3 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 155 | 3 | 
 | 2022-09-08 | 155 | 3 | 
 | 2022-09-07 | 155 | 3 | 
-| 2022-09-06 | 155 | 3 | 
-| 2022-09-05 | 155 | 3 | 
-| 2022-09-04 | 155 | 3 | 
-| 2022-09-03 | 155 | 3 | 
-| 2022-09-02 | 155 | 3 | 
-| 2022-09-01 | 155 | 3 | 
-| 2022-08-31 | 155 | 3 | 
-| 2022-08-30 | 153 | 3 | 
-| 2022-08-29 | 152 | 3 | 
-| 2022-08-28 | 151 | 3 | 
-| 2022-08-27 | 142 | 3 | 
-| 2022-08-26 | 138 | 3 | 
-| 2022-08-25 | 132 | 2 | 
 
 
 [Detailed charts & statistics for daac-tools/vibrato](https://reviewgithub.com/rep/daac-tools/vibrato)

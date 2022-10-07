@@ -1,12 +1,12 @@
-# dundalek/lazy-lsp.nvim / stars & forks statistics
-
-[Open repository/dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim)
+# dundalek/lazy-lsp.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 91
+
+[Open repository](https://github.com/dundalek/lazy-lsp.nvim)
 
 ## Historical data
 | Date | Stars | Forks |

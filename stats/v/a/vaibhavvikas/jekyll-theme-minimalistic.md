@@ -1,16 +1,30 @@
-# vaibhavvikas/jekyll-theme-minimalistic / stars & forks statistics
-
-[Open repository/vaibhavvikas/jekyll-theme-minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic)
+# vaibhavvikas/jekyll-theme-minimalistic - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 13
+★ Stars: 14
+
+[Open repository](https://github.com/vaibhavvikas/jekyll-theme-minimalistic)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 14 | 12 | 
+| 2022-10-06 | 14 | 11 | 
+| 2022-10-05 | 14 | 11 | 
+| 2022-10-04 | 14 | 11 | 
+| 2022-10-03 | 14 | 11 | 
+| 2022-10-02 | 14 | 11 | 
+| 2022-10-01 | 14 | 11 | 
+| 2022-09-30 | 14 | 11 | 
+| 2022-09-29 | 14 | 11 | 
+| 2022-09-28 | 14 | 11 | 
+| 2022-09-27 | 14 | 11 | 
+| 2022-09-26 | 14 | 11 | 
+| 2022-09-25 | 14 | 11 | 
+| 2022-09-24 | 13 | 11 | 
 | 2022-09-23 | 13 | 11 | 
 | 2022-09-22 | 13 | 11 | 
 | 2022-09-21 | 13 | 11 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 11 | 10 | 
 | 2022-09-08 | 11 | 10 | 
 | 2022-09-07 | 11 | 10 | 
-| 2022-09-06 | 12 | 9 | 
-| 2022-09-05 | 12 | 9 | 
-| 2022-09-04 | 11 | 9 | 
-| 2022-09-03 | 11 | 7 | 
-| 2022-09-02 | 11 | 7 | 
-| 2022-09-01 | 11 | 7 | 
-| 2022-08-31 | 11 | 6 | 
-| 2022-08-30 | 11 | 6 | 
-| 2022-08-29 | 11 | 6 | 
-| 2022-08-28 | 11 | 6 | 
-| 2022-08-27 | 11 | 5 | 
-| 2022-08-26 | 11 | 5 | 
-| 2022-08-25 | 11 | 5 | 
-| 2022-08-24 | 11 | 5 | 
 
 
 [Detailed charts & statistics for vaibhavvikas/jekyll-theme-minimalistic](https://reviewgithub.com/rep/vaibhavvikas/jekyll-theme-minimalistic)

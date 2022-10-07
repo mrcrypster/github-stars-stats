@@ -1,12 +1,12 @@
-# djhaled/Uiana-MapImporter / stars & forks statistics
-
-[Open repository/djhaled/Uiana-MapImporter](https://github.com/djhaled/Uiana-MapImporter)
+# djhaled/Uiana-MapImporter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 70
+
+[Open repository](https://github.com/djhaled/Uiana-MapImporter)
 
 ## Historical data
 | Date | Stars | Forks |

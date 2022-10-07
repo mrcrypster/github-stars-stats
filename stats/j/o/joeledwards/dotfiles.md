@@ -1,12 +1,12 @@
-# joeledwards/dotfiles / stars & forks statistics
-
-[Open repository/joeledwards/dotfiles](https://github.com/joeledwards/dotfiles)
+# joeledwards/dotfiles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
+
+[Open repository](https://github.com/joeledwards/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |

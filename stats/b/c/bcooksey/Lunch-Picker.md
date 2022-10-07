@@ -1,12 +1,12 @@
-# bcooksey/Lunch-Picker / stars & forks statistics
-
-[Open repository/bcooksey/Lunch-Picker](https://github.com/bcooksey/Lunch-Picker)
+# bcooksey/Lunch-Picker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bcooksey/Lunch-Picker)
 
 ## Historical data
 | Date | Stars | Forks |

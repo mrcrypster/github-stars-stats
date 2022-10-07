@@ -1,16 +1,25 @@
-# friend-nicen/nicen-localize-image / stars & forks statistics
-
-[Open repository/friend-nicen/nicen-localize-image](https://github.com/friend-nicen/nicen-localize-image)
+# friend-nicen/nicen-localize-image - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
-★ Stars: 44
+★ Stars: 45
+
+[Open repository](https://github.com/friend-nicen/nicen-localize-image)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 45 | 8 | 
+| 2022-10-06 | 45 | 8 | 
+| 2022-10-05 | 45 | 8 | 
+| 2022-10-04 | 45 | 8 | 
+| 2022-10-03 | 45 | 8 | 
+| 2022-10-02 | 45 | 8 | 
+| 2022-10-01 | 45 | 8 | 
+| 2022-09-30 | 44 | 8 | 
+| 2022-09-29 | 44 | 8 | 
 | 2022-09-28 | 44 | 8 | 
 | 2022-09-27 | 44 | 8 | 
 | 2022-09-26 | 44 | 8 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 40 | 8 | 
 | 2022-09-08 | 40 | 8 | 
 | 2022-09-07 | 40 | 8 | 
-| 2022-09-06 | 39 | 8 | 
-| 2022-09-05 | 39 | 8 | 
-| 2022-09-04 | 39 | 8 | 
-| 2022-09-03 | 39 | 8 | 
-| 2022-09-02 | 39 | 8 | 
-| 2022-09-01 | 38 | 8 | 
-| 2022-08-31 | 38 | 8 | 
-| 2022-08-30 | 38 | 8 | 
-| 2022-08-29 | 36 | 8 | 
 
 
 [Detailed charts & statistics for friend-nicen/nicen-localize-image](https://reviewgithub.com/rep/friend-nicen/nicen-localize-image)

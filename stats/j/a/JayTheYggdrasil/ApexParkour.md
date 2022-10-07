@@ -1,12 +1,12 @@
-# JayTheYggdrasil/ApexParkour / stars & forks statistics
-
-[Open repository/JayTheYggdrasil/ApexParkour](https://github.com/JayTheYggdrasil/ApexParkour)
+# JayTheYggdrasil/ApexParkour - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 10
+
+[Open repository](https://github.com/JayTheYggdrasil/ApexParkour)
 
 ## Historical data
 | Date | Stars | Forks |

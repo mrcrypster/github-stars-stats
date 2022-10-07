@@ -1,16 +1,25 @@
-# NYAN-x-CAT/AsyncRAT-C-Sharp / stars & forks statistics
-
-[Open repository/NYAN-x-CAT/AsyncRAT-C-Sharp](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
+# NYAN-x-CAT/AsyncRAT-C-Sharp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 589
+☋ Forks: 593
 
-★ Stars: 1423
+★ Stars: 1453
+
+[Open repository](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1453 | 593 | 
+| 2022-10-06 | 1442 | 591 | 
+| 2022-10-05 | 1434 | 589 | 
+| 2022-10-04 | 1434 | 589 | 
+| 2022-10-03 | 1433 | 589 | 
+| 2022-10-02 | 1432 | 589 | 
+| 2022-10-01 | 1429 | 588 | 
+| 2022-09-30 | 1426 | 589 | 
+| 2022-09-29 | 1426 | 589 | 
 | 2022-09-28 | 1423 | 589 | 
 | 2022-09-27 | 1418 | 589 | 
 | 2022-09-26 | 1414 | 589 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1393 | 585 | 
 | 2022-09-08 | 1392 | 583 | 
 | 2022-09-07 | 1390 | 583 | 
-| 2022-09-06 | 1388 | 583 | 
-| 2022-09-05 | 1387 | 583 | 
-| 2022-09-04 | 1384 | 583 | 
-| 2022-09-03 | 1383 | 583 | 
-| 2022-09-02 | 1383 | 583 | 
-| 2022-09-01 | 1381 | 582 | 
-| 2022-08-31 | 1379 | 582 | 
-| 2022-08-30 | 1375 | 580 | 
-| 2022-08-29 | 1372 | 580 | 
 
 
 [Detailed charts & statistics for NYAN-x-CAT/AsyncRAT-C-Sharp](https://reviewgithub.com/rep/NYAN-x-CAT/AsyncRAT-C-Sharp)

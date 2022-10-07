@@ -1,6 +1,4 @@
-# kunchalavikram1427/jenkins-end-to-end-pipeline / stars & forks statistics
-
-[Open repository/kunchalavikram1427/jenkins-end-to-end-pipeline](https://github.com/kunchalavikram1427/jenkins-end-to-end-pipeline)
+# kunchalavikram1427/jenkins-end-to-end-pipeline - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 10
 
+[Open repository](https://github.com/kunchalavikram1427/jenkins-end-to-end-pipeline)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 10 | 37 | 
 | 2022-10-05 | 10 | 37 | 
 | 2022-10-04 | 10 | 37 | 
 | 2022-10-03 | 10 | 37 | 
@@ -40,7 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 6 | 20 | 
 | 2022-09-08 | 6 | 19 | 
 | 2022-09-07 | 6 | 18 | 
-| 2022-09-06 | 5 | 15 | 
 
 
 [Detailed charts & statistics for kunchalavikram1427/jenkins-end-to-end-pipeline](https://reviewgithub.com/rep/kunchalavikram1427/jenkins-end-to-end-pipeline)

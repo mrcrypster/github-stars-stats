@@ -1,12 +1,12 @@
-# movefuns/move-by-example / stars & forks statistics
-
-[Open repository/movefuns/move-by-example](https://github.com/movefuns/move-by-example)
+# movefuns/move-by-example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 116
+
+[Open repository](https://github.com/movefuns/move-by-example)
 
 ## Historical data
 | Date | Stars | Forks |

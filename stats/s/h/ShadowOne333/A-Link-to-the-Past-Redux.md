@@ -1,16 +1,32 @@
-# ShadowOne333/A-Link-to-the-Past-Redux / stars & forks statistics
-
-[Open repository/ShadowOne333/A-Link-to-the-Past-Redux](https://github.com/ShadowOne333/A-Link-to-the-Past-Redux)
+# ShadowOne333/A-Link-to-the-Past-Redux - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 26
+
+[Open repository](https://github.com/ShadowOne333/A-Link-to-the-Past-Redux)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 26 | - | 
+| 2022-10-06 | 26 | - | 
+| 2022-10-05 | 26 | - | 
+| 2022-10-04 | 26 | - | 
+| 2022-10-03 | 26 | - | 
+| 2022-10-02 | 26 | - | 
+| 2022-10-01 | 26 | - | 
+| 2022-09-30 | 26 | - | 
+| 2022-09-29 | 26 | - | 
+| 2022-09-28 | 26 | - | 
+| 2022-09-27 | 25 | - | 
+| 2022-09-26 | 25 | - | 
+| 2022-09-25 | 25 | - | 
+| 2022-09-24 | 24 | - | 
+| 2022-09-23 | 24 | - | 
+| 2022-09-21 | 24 | - | 
 | 2022-09-20 | 22 | - | 
 | 2022-09-19 | 22 | - | 
 | 2022-09-18 | 22 | - | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 20 | - | 
 | 2022-09-08 | 20 | - | 
 | 2022-09-07 | 20 | - | 
-| 2022-09-06 | 20 | - | 
-| 2022-09-05 | 20 | - | 
-| 2022-09-04 | 20 | - | 
-| 2022-09-03 | 19 | - | 
-| 2022-09-02 | 19 | - | 
-| 2022-09-01 | 19 | - | 
-| 2022-08-31 | 18 | - | 
-| 2022-08-30 | 18 | - | 
-| 2022-08-29 | 18 | - | 
-| 2022-08-28 | 18 | - | 
-| 2022-08-27 | 18 | - | 
-| 2022-08-26 | 18 | - | 
-| 2022-08-25 | 17 | - | 
-| 2022-08-24 | 16 | - | 
-| 2022-08-23 | 16 | - | 
-| 2022-08-22 | 16 | - | 
 
 
 [Detailed charts & statistics for ShadowOne333/A-Link-to-the-Past-Redux](https://reviewgithub.com/rep/ShadowOne333/A-Link-to-the-Past-Redux)

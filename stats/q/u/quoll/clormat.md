@@ -1,12 +1,12 @@
-# quoll/clormat / stars & forks statistics
-
-[Open repository/quoll/clormat](https://github.com/quoll/clormat)
+# quoll/clormat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 11
+
+[Open repository](https://github.com/quoll/clormat)
 
 ## Historical data
 | Date | Stars | Forks |

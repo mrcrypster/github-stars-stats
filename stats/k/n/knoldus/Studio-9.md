@@ -1,6 +1,4 @@
-# knoldus/Studio-9 / stars & forks statistics
-
-[Open repository/knoldus/Studio-9](https://github.com/knoldus/Studio-9)
+# knoldus/Studio-9 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 103
 
+[Open repository](https://github.com/knoldus/Studio-9)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 103 | 4 | 
 | 2022-10-05 | 103 | 4 | 
 | 2022-10-04 | 103 | 4 | 
 | 2022-10-03 | 103 | 4 | 
@@ -40,7 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 102 | 4 | 
 | 2022-09-08 | 102 | 4 | 
 | 2022-09-07 | 102 | 4 | 
-| 2022-09-06 | 91 | 4 | 
 
 
 [Detailed charts & statistics for knoldus/Studio-9](https://reviewgithub.com/rep/knoldus/Studio-9)

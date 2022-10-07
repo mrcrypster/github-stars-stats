@@ -1,12 +1,12 @@
-# dbolser/GCal-Upcoming / stars & forks statistics
-
-[Open repository/dbolser/GCal-Upcoming](https://github.com/dbolser/GCal-Upcoming)
+# dbolser/GCal-Upcoming - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/dbolser/GCal-Upcoming)
 
 ## Historical data
 | Date | Stars | Forks |

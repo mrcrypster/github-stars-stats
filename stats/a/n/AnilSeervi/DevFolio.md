@@ -1,16 +1,27 @@
-# AnilSeervi/DevFolio / stars & forks statistics
-
-[Open repository/AnilSeervi/DevFolio](https://github.com/AnilSeervi/DevFolio)
+# AnilSeervi/DevFolio - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 32
+☋ Forks: 34
 
-★ Stars: 125
+★ Stars: 129
+
+[Open repository](https://github.com/AnilSeervi/DevFolio)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 129 | 34 | 
+| 2022-10-05 | 129 | 34 | 
+| 2022-10-04 | 129 | 33 | 
+| 2022-10-03 | 128 | 33 | 
+| 2022-10-02 | 126 | 33 | 
+| 2022-10-01 | 126 | 33 | 
+| 2022-09-30 | 126 | 32 | 
+| 2022-09-29 | 126 | 32 | 
+| 2022-09-28 | 126 | 32 | 
+| 2022-09-27 | 126 | 32 | 
+| 2022-09-26 | 126 | 32 | 
 | 2022-09-24 | 125 | 32 | 
 | 2022-09-23 | 125 | 32 | 
 | 2022-09-22 | 125 | 31 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 115 | 29 | 
 | 2022-09-08 | 113 | 29 | 
 | 2022-09-07 | 113 | 29 | 
-| 2022-09-06 | 112 | 29 | 
-| 2022-09-05 | 112 | 29 | 
-| 2022-09-04 | 112 | 29 | 
-| 2022-09-03 | 112 | 29 | 
-| 2022-09-02 | 113 | 29 | 
-| 2022-09-01 | 112 | 29 | 
-| 2022-08-31 | 112 | 29 | 
-| 2022-08-30 | 112 | 30 | 
-| 2022-08-29 | 112 | 31 | 
-| 2022-08-28 | 112 | 30 | 
-| 2022-08-27 | 112 | 30 | 
-| 2022-08-26 | 108 | 31 | 
 
 
 [Detailed charts & statistics for AnilSeervi/DevFolio](https://reviewgithub.com/rep/AnilSeervi/DevFolio)

@@ -1,6 +1,4 @@
-# joelongstreet/Gyro-Socket / stars & forks statistics
-
-[Open repository/joelongstreet/Gyro-Socket](https://github.com/joelongstreet/Gyro-Socket)
+# joelongstreet/Gyro-Socket - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/joelongstreet/Gyro-Socket)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 1 | 
 | 2022-10-05 | 4 | 1 | 
 | 2022-10-04 | 4 | 1 | 
 | 2022-10-03 | 4 | 1 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 1 | 
 | 2022-09-09 | 4 | 1 | 
 | 2022-09-08 | 4 | 1 | 
-| 2022-09-07 | 4 | 1 | 
-| 2022-09-06 | 4 | 1 | 
 
 
 [Detailed charts & statistics for joelongstreet/Gyro-Socket](https://reviewgithub.com/rep/joelongstreet/Gyro-Socket)

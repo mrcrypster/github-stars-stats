@@ -1,12 +1,12 @@
-# mctuva/ccl-armv8-early-experiments / stars & forks statistics
-
-[Open repository/mctuva/ccl-armv8-early-experiments](https://github.com/mctuva/ccl-armv8-early-experiments)
+# mctuva/ccl-armv8-early-experiments - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/mctuva/ccl-armv8-early-experiments)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# ExTBH/JodelEmproved / stars & forks statistics
-
-[Open repository/ExTBH/JodelEmproved](https://github.com/ExTBH/JodelEmproved)
+# ExTBH/JodelEmproved - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
+
+[Open repository](https://github.com/ExTBH/JodelEmproved)
 
 ## Historical data
 | Date | Stars | Forks |

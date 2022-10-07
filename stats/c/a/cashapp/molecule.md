@@ -1,16 +1,27 @@
-# cashapp/molecule / stars & forks statistics
-
-[Open repository/cashapp/molecule](https://github.com/cashapp/molecule)
+# cashapp/molecule - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 40
+☋ Forks: 42
 
-★ Stars: 1033
+★ Stars: 1097
+
+[Open repository](https://github.com/cashapp/molecule)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1097 | 42 | 
+| 2022-10-05 | 1083 | 42 | 
+| 2022-10-04 | 1080 | 42 | 
+| 2022-10-03 | 1074 | 41 | 
+| 2022-10-02 | 1070 | 41 | 
+| 2022-10-01 | 1064 | 41 | 
+| 2022-09-30 | 1062 | 41 | 
+| 2022-09-29 | 1056 | 41 | 
+| 2022-09-28 | 1054 | 41 | 
+| 2022-09-27 | 1048 | 40 | 
+| 2022-09-26 | 1040 | 40 | 
 | 2022-09-25 | 1033 | 40 | 
 | 2022-09-24 | 1033 | 40 | 
 | 2022-09-23 | 1027 | 40 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 951 | 36 | 
 | 2022-09-08 | 945 | 36 | 
 | 2022-09-07 | 931 | 36 | 
-| 2022-09-06 | 926 | 36 | 
-| 2022-09-05 | 924 | 36 | 
-| 2022-09-04 | 919 | 36 | 
-| 2022-09-03 | 918 | 36 | 
-| 2022-09-02 | 916 | 36 | 
-| 2022-09-01 | 913 | 35 | 
-| 2022-08-31 | 909 | 34 | 
-| 2022-08-30 | 901 | 33 | 
-| 2022-08-29 | 897 | 32 | 
-| 2022-08-28 | 889 | 32 | 
-| 2022-08-27 | 877 | 32 | 
 
 
 [Detailed charts & statistics for cashapp/molecule](https://reviewgithub.com/rep/cashapp/molecule)

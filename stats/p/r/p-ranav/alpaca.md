@@ -1,12 +1,12 @@
-# p-ranav/alpaca / stars & forks statistics
-
-[Open repository/p-ranav/alpaca](https://github.com/p-ranav/alpaca)
+# p-ranav/alpaca - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 245
+
+[Open repository](https://github.com/p-ranav/alpaca)
 
 ## Historical data
 | Date | Stars | Forks |

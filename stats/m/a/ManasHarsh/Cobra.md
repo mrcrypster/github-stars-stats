@@ -1,12 +1,12 @@
-# ManasHarsh/Cobra / stars & forks statistics
-
-[Open repository/ManasHarsh/Cobra](https://github.com/ManasHarsh/Cobra)
+# ManasHarsh/Cobra - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 165
+
+[Open repository](https://github.com/ManasHarsh/Cobra)
 
 ## Historical data
 | Date | Stars | Forks |

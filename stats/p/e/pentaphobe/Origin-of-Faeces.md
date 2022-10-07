@@ -1,12 +1,12 @@
-# pentaphobe/Origin-of-Faeces / stars & forks statistics
-
-[Open repository/pentaphobe/Origin-of-Faeces](https://github.com/pentaphobe/Origin-of-Faeces)
+# pentaphobe/Origin-of-Faeces - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/pentaphobe/Origin-of-Faeces)
 
 ## Historical data
 | Date | Stars | Forks |

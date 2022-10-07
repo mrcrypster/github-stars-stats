@@ -1,12 +1,12 @@
-# JakobOvrum/Dirk / stars & forks statistics
-
-[Open repository/JakobOvrum/Dirk](https://github.com/JakobOvrum/Dirk)
+# JakobOvrum/Dirk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 26
+
+[Open repository](https://github.com/JakobOvrum/Dirk)
 
 ## Historical data
 | Date | Stars | Forks |

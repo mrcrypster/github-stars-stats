@@ -1,6 +1,4 @@
-# nrennie/PrettyCols / stars & forks statistics
-
-[Open repository/nrennie/PrettyCols](https://github.com/nrennie/PrettyCols)
+# nrennie/PrettyCols - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 18
 
+[Open repository](https://github.com/nrennie/PrettyCols)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 18 | 1 | 
 | 2022-10-05 | 18 | 1 | 
 | 2022-10-04 | 18 | 1 | 
 | 2022-10-03 | 18 | 1 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 15 | 1 | 
 | 2022-09-09 | 15 | 1 | 
 | 2022-09-08 | 13 | 1 | 
-| 2022-09-07 | 13 | 1 | 
-| 2022-09-06 | 13 | 1 | 
 
 
 [Detailed charts & statistics for nrennie/PrettyCols](https://reviewgithub.com/rep/nrennie/PrettyCols)

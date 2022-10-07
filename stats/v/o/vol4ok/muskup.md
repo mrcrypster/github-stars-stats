@@ -1,12 +1,12 @@
-# vol4ok/muskup / stars & forks statistics
-
-[Open repository/vol4ok/muskup](https://github.com/vol4ok/muskup)
+# vol4ok/muskup - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/vol4ok/muskup)
 
 ## Historical data
 | Date | Stars | Forks |

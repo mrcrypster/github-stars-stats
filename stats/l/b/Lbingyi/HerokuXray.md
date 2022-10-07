@@ -1,12 +1,12 @@
-# Lbingyi/HerokuXray / stars & forks statistics
-
-[Open repository/Lbingyi/HerokuXray](https://github.com/Lbingyi/HerokuXray)
+# Lbingyi/HerokuXray - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/Lbingyi/HerokuXray)
 
 ## Historical data
 | Date | Stars | Forks |

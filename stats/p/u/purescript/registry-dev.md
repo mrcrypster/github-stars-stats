@@ -1,12 +1,12 @@
-# purescript/registry-dev / stars & forks statistics
-
-[Open repository/purescript/registry-dev](https://github.com/purescript/registry-dev)
+# purescript/registry-dev - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 88
+
+[Open repository](https://github.com/purescript/registry-dev)
 
 ## Historical data
 | Date | Stars | Forks |

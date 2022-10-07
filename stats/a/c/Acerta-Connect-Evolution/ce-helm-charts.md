@@ -1,12 +1,12 @@
-# Acerta-Connect-Evolution/ce-helm-charts / stars & forks statistics
-
-[Open repository/Acerta-Connect-Evolution/ce-helm-charts](https://github.com/Acerta-Connect-Evolution/ce-helm-charts)
+# Acerta-Connect-Evolution/ce-helm-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Acerta-Connect-Evolution/ce-helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |

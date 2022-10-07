@@ -1,12 +1,12 @@
-# Sanster/lama-cleaner / stars & forks statistics
-
-[Open repository/Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
+# Sanster/lama-cleaner - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 156
 
 ★ Stars: 1429
+
+[Open repository](https://github.com/Sanster/lama-cleaner)
 
 ## Historical data
 | Date | Stars | Forks |

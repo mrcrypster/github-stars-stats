@@ -1,16 +1,25 @@
-# yousefkotp/Movies-and-Series-Scraper / stars & forks statistics
-
-[Open repository/yousefkotp/Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper)
+# yousefkotp/Movies-and-Series-Scraper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
-★ Stars: 84
+★ Stars: 86
+
+[Open repository](https://github.com/yousefkotp/Movies-and-Series-Scraper)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 86 | 15 | 
+| 2022-10-06 | 86 | 15 | 
+| 2022-10-05 | 85 | 15 | 
+| 2022-10-04 | 85 | 15 | 
+| 2022-10-02 | 84 | 15 | 
+| 2022-10-01 | 84 | 15 | 
+| 2022-09-30 | 84 | 15 | 
+| 2022-09-29 | 84 | 15 | 
+| 2022-09-28 | 84 | 15 | 
 | 2022-09-27 | 84 | 15 | 
 | 2022-09-26 | 84 | 15 | 
 | 2022-09-25 | 84 | 15 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 79 | 13 | 
 | 2022-09-08 | 79 | 13 | 
 | 2022-09-07 | 79 | 13 | 
-| 2022-09-06 | 77 | 13 | 
-| 2022-09-05 | 76 | 13 | 
-| 2022-09-04 | 76 | 13 | 
-| 2022-09-03 | 75 | 13 | 
-| 2022-09-02 | 73 | 12 | 
-| 2022-09-01 | 72 | 12 | 
-| 2022-08-31 | 72 | 12 | 
-| 2022-08-30 | 62 | 10 | 
-| 2022-08-29 | 52 | 9 | 
 
 
 [Detailed charts & statistics for yousefkotp/Movies-and-Series-Scraper](https://reviewgithub.com/rep/yousefkotp/Movies-and-Series-Scraper)

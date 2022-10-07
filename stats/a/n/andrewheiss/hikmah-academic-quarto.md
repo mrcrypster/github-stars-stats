@@ -1,6 +1,4 @@
-# andrewheiss/hikmah-academic-quarto / stars & forks statistics
-
-[Open repository/andrewheiss/hikmah-academic-quarto](https://github.com/andrewheiss/hikmah-academic-quarto)
+# andrewheiss/hikmah-academic-quarto - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 36
 
+[Open repository](https://github.com/andrewheiss/hikmah-academic-quarto)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 36 | 4 | 
+| 2022-10-05 | 36 | 4 | 
 | 2022-10-04 | 36 | 4 | 
 | 2022-10-03 | 36 | 4 | 
 | 2022-10-02 | 36 | 4 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 31 | 3 | 
 | 2022-09-09 | 30 | 3 | 
 | 2022-09-08 | 30 | 3 | 
-| 2022-09-07 | 29 | 3 | 
-| 2022-09-06 | 29 | 3 | 
-| 2022-09-05 | 29 | 3 | 
 
 
 [Detailed charts & statistics for andrewheiss/hikmah-academic-quarto](https://reviewgithub.com/rep/andrewheiss/hikmah-academic-quarto)

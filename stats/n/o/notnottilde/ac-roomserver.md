@@ -1,12 +1,12 @@
-# notnottilde/ac-roomserver / stars & forks statistics
-
-[Open repository/notnottilde/ac-roomserver](https://github.com/notnottilde/ac-roomserver)
+# notnottilde/ac-roomserver - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/notnottilde/ac-roomserver)
 
 ## Historical data
 | Date | Stars | Forks |

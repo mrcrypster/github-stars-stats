@@ -1,16 +1,30 @@
-# codiume/the-tap-stack / stars & forks statistics
-
-[Open repository/codiume/the-tap-stack](https://github.com/codiume/the-tap-stack)
+# codiume/the-tap-stack - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 18
+★ Stars: 19
+
+[Open repository](https://github.com/codiume/the-tap-stack)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | - | 
+| 2022-10-06 | 19 | - | 
+| 2022-10-05 | 19 | - | 
+| 2022-10-04 | 18 | - | 
+| 2022-10-03 | 18 | - | 
+| 2022-10-02 | 18 | - | 
+| 2022-10-01 | 18 | - | 
+| 2022-09-30 | 18 | - | 
+| 2022-09-29 | 18 | - | 
+| 2022-09-28 | 18 | - | 
+| 2022-09-27 | 18 | - | 
+| 2022-09-26 | 18 | - | 
+| 2022-09-25 | 18 | - | 
+| 2022-09-24 | 18 | - | 
 | 2022-09-23 | 18 | - | 
 | 2022-09-22 | 18 | - | 
 | 2022-09-21 | 18 | - | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 18 | - | 
 | 2022-09-08 | 18 | - | 
 | 2022-09-07 | 18 | - | 
-| 2022-09-06 | 18 | - | 
-| 2022-09-05 | 17 | - | 
-| 2022-09-04 | 17 | - | 
-| 2022-09-03 | 17 | - | 
-| 2022-09-02 | 17 | - | 
-| 2022-09-01 | 17 | - | 
-| 2022-08-31 | 17 | - | 
-| 2022-08-30 | 17 | - | 
-| 2022-08-29 | 15 | - | 
-| 2022-08-28 | 15 | - | 
-| 2022-08-27 | 15 | - | 
-| 2022-08-26 | 8 | - | 
-| 2022-08-25 | 8 | - | 
-| 2022-08-24 | 8 | - | 
 
 
 [Detailed charts & statistics for codiume/the-tap-stack](https://reviewgithub.com/rep/codiume/the-tap-stack)

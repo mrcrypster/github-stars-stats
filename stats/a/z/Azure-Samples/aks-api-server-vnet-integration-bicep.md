@@ -1,12 +1,12 @@
-# Azure-Samples/aks-api-server-vnet-integration-bicep / stars & forks statistics
-
-[Open repository/Azure-Samples/aks-api-server-vnet-integration-bicep](https://github.com/Azure-Samples/aks-api-server-vnet-integration-bicep)
+# Azure-Samples/aks-api-server-vnet-integration-bicep - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/Azure-Samples/aks-api-server-vnet-integration-bicep)
 
 ## Historical data
 | Date | Stars | Forks |

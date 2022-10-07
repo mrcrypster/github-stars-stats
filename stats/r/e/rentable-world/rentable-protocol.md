@@ -1,12 +1,12 @@
-# rentable-world/rentable-protocol / stars & forks statistics
-
-[Open repository/rentable-world/rentable-protocol](https://github.com/rentable-world/rentable-protocol)
+# rentable-world/rentable-protocol - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 13
+
+[Open repository](https://github.com/rentable-world/rentable-protocol)
 
 ## Historical data
 | Date | Stars | Forks |

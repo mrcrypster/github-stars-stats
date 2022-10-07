@@ -1,12 +1,12 @@
-# frank-nhatvm/fatherofapps-android-mvvm / stars & forks statistics
-
-[Open repository/frank-nhatvm/fatherofapps-android-mvvm](https://github.com/frank-nhatvm/fatherofapps-android-mvvm)
+# frank-nhatvm/fatherofapps-android-mvvm - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 31
+
+[Open repository](https://github.com/frank-nhatvm/fatherofapps-android-mvvm)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# roybylon/gitcse152 / stars & forks statistics
-
-[Open repository/roybylon/gitcse152](https://github.com/roybylon/gitcse152)
+# roybylon/gitcse152 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/roybylon/gitcse152)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 11 | 
+| 2022-10-05 | - | 11 | 
+| 2022-10-04 | - | 11 | 
+| 2022-10-03 | - | 11 | 
+| 2022-10-02 | - | 11 | 
+| 2022-10-01 | - | 11 | 
+| 2022-09-30 | - | 11 | 
+| 2022-09-29 | - | 11 | 
+| 2022-09-28 | - | 11 | 
+| 2022-09-27 | - | 11 | 
+| 2022-09-26 | - | 11 | 
 | 2022-09-25 | - | 11 | 
 | 2022-09-24 | - | 11 | 
 | 2022-09-23 | - | 11 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 11 | 
 | 2022-09-09 | - | 11 | 
 | 2022-09-08 | - | 11 | 
-| 2022-09-07 | - | 11 | 
-| 2022-09-06 | - | 11 | 
-| 2022-09-05 | - | 11 | 
-| 2022-09-04 | - | 11 | 
-| 2022-09-03 | - | 11 | 
-| 2022-09-02 | - | 11 | 
-| 2022-09-01 | - | 11 | 
-| 2022-08-31 | - | 10 | 
-| 2022-08-30 | - | 10 | 
-| 2022-08-29 | - | 10 | 
-| 2022-08-28 | - | 10 | 
-| 2022-08-27 | - | 10 | 
 
 
 [Detailed charts & statistics for roybylon/gitcse152](https://reviewgithub.com/rep/roybylon/gitcse152)

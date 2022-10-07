@@ -1,16 +1,29 @@
-# mudgen/diamond-3-hardhat / stars & forks statistics
-
-[Open repository/mudgen/diamond-3-hardhat](https://github.com/mudgen/diamond-3-hardhat)
+# mudgen/diamond-3-hardhat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 71
+☋ Forks: 74
 
-★ Stars: 117
+★ Stars: 123
+
+[Open repository](https://github.com/mudgen/diamond-3-hardhat)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 123 | 74 | 
+| 2022-10-05 | 122 | 74 | 
+| 2022-10-04 | 122 | 73 | 
+| 2022-10-03 | 121 | 73 | 
+| 2022-10-02 | 120 | 73 | 
+| 2022-10-01 | 120 | 73 | 
+| 2022-09-30 | 120 | 73 | 
+| 2022-09-29 | 120 | 73 | 
+| 2022-09-28 | 120 | 73 | 
+| 2022-09-27 | 120 | 72 | 
+| 2022-09-26 | 119 | 71 | 
+| 2022-09-25 | 118 | 71 | 
+| 2022-09-24 | 117 | 71 | 
 | 2022-09-23 | 117 | 71 | 
 | 2022-09-22 | 116 | 67 | 
 | 2022-09-21 | 115 | 65 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 111 | 55 | 
 | 2022-09-08 | 111 | 55 | 
 | 2022-09-07 | 110 | 56 | 
-| 2022-09-06 | 110 | 56 | 
-| 2022-09-05 | 110 | 56 | 
-| 2022-09-04 | 110 | 56 | 
-| 2022-09-03 | 110 | 56 | 
-| 2022-09-02 | 110 | 56 | 
-| 2022-09-01 | 110 | 57 | 
-| 2022-08-31 | 109 | 57 | 
-| 2022-08-30 | 108 | 57 | 
-| 2022-08-29 | 108 | 57 | 
-| 2022-08-28 | 108 | 56 | 
-| 2022-08-27 | 107 | 56 | 
-| 2022-08-26 | 107 | 56 | 
-| 2022-08-25 | 107 | 56 | 
 
 
 [Detailed charts & statistics for mudgen/diamond-3-hardhat](https://reviewgithub.com/rep/mudgen/diamond-3-hardhat)

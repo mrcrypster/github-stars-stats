@@ -1,12 +1,12 @@
-# MISS-ABMS/firefighters / stars & forks statistics
-
-[Open repository/MISS-ABMS/firefighters](https://github.com/MISS-ABMS/firefighters)
+# MISS-ABMS/firefighters - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/MISS-ABMS/firefighters)
 
 ## Historical data
 | Date | Stars | Forks |

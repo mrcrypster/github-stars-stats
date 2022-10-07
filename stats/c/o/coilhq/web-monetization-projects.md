@@ -1,12 +1,12 @@
-# coilhq/web-monetization-projects / stars & forks statistics
-
-[Open repository/coilhq/web-monetization-projects](https://github.com/coilhq/web-monetization-projects)
+# coilhq/web-monetization-projects - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 74
+
+[Open repository](https://github.com/coilhq/web-monetization-projects)
 
 ## Historical data
 | Date | Stars | Forks |

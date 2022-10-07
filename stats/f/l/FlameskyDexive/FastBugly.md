@@ -1,12 +1,12 @@
-# FlameskyDexive/FastBugly / stars & forks statistics
-
-[Open repository/FlameskyDexive/FastBugly](https://github.com/FlameskyDexive/FastBugly)
+# FlameskyDexive/FastBugly - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 40
+
+[Open repository](https://github.com/FlameskyDexive/FastBugly)
 
 ## Historical data
 | Date | Stars | Forks |

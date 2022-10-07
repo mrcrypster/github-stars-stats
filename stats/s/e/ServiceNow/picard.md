@@ -1,12 +1,12 @@
-# ServiceNow/picard / stars & forks statistics
-
-[Open repository/ServiceNow/picard](https://github.com/ServiceNow/picard)
+# ServiceNow/picard - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 66
 
 ★ Stars: 191
+
+[Open repository](https://github.com/ServiceNow/picard)
 
 ## Historical data
 | Date | Stars | Forks |

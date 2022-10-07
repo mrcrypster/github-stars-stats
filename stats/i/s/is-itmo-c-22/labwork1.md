@@ -1,12 +1,12 @@
-# is-itmo-c-22/labwork1 / stars & forks statistics
-
-[Open repository/is-itmo-c-22/labwork1](https://github.com/is-itmo-c-22/labwork1)
+# is-itmo-c-22/labwork1 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 2
+
+[Open repository](https://github.com/is-itmo-c-22/labwork1)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# theblockchainchief/web3-hub / stars & forks statistics
-
-[Open repository/theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+# theblockchainchief/web3-hub - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/theblockchainchief/web3-hub)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 23 | 16 | 
+| 2022-10-05 | 23 | 16 | 
+| 2022-10-04 | 23 | 16 | 
+| 2022-10-03 | 23 | 16 | 
+| 2022-10-02 | 23 | 16 | 
+| 2022-10-01 | 23 | 16 | 
 | 2022-09-30 | 23 | 16 | 
 | 2022-09-29 | 23 | 16 | 
 | 2022-09-28 | 23 | 16 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 21 | 15 | 
 | 2022-09-09 | 21 | 15 | 
 | 2022-09-08 | 21 | 15 | 
-| 2022-09-07 | 19 | 15 | 
-| 2022-09-06 | 19 | 15 | 
-| 2022-09-05 | 18 | 15 | 
-| 2022-09-04 | 18 | 15 | 
-| 2022-09-03 | 18 | 15 | 
-| 2022-09-02 | 18 | 15 | 
-| 2022-09-01 | 17 | 15 | 
 
 
 [Detailed charts & statistics for theblockchainchief/web3-hub](https://reviewgithub.com/rep/theblockchainchief/web3-hub)

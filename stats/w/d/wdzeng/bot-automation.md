@@ -1,19 +1,16 @@
-# wdzeng/bot-automation / stars & forks statistics
-
-[Open repository/wdzeng/bot-automation](https://github.com/wdzeng/bot-automation)
+# wdzeng/bot-automation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2206
+☋ Forks: 
 
-★ Stars: 585
+★ Stars: 
+
+[Open repository](https://github.com/wdzeng/bot-automation)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-03 | 585 | 2206 | 
-| 2022-07-02 | 576 | 2184 | 
-| 2022-07-01 | 572 | 2156 | 
 
 
 [Detailed charts & statistics for wdzeng/bot-automation](https://reviewgithub.com/rep/wdzeng/bot-automation)

@@ -1,12 +1,12 @@
-# bigsky77/hyperion / stars & forks statistics
-
-[Open repository/bigsky77/hyperion](https://github.com/bigsky77/hyperion)
+# bigsky77/hyperion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
+
+[Open repository](https://github.com/bigsky77/hyperion)
 
 ## Historical data
 | Date | Stars | Forks |

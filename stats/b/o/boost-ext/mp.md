@@ -1,12 +1,12 @@
-# boost-ext/mp / stars & forks statistics
-
-[Open repository/boost-ext/mp](https://github.com/boost-ext/mp)
+# boost-ext/mp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 114
+
+[Open repository](https://github.com/boost-ext/mp)
 
 ## Historical data
 | Date | Stars | Forks |

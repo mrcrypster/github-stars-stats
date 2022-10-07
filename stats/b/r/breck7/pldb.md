@@ -1,16 +1,25 @@
-# breck7/pldb / stars & forks statistics
-
-[Open repository/breck7/pldb](https://github.com/breck7/pldb)
+# breck7/pldb - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 61
+☋ Forks: 64
 
-★ Stars: 576
+★ Stars: 579
+
+[Open repository](https://github.com/breck7/pldb)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 579 | 64 | 
+| 2022-10-06 | 579 | 64 | 
+| 2022-10-05 | 579 | 64 | 
+| 2022-10-04 | 579 | 64 | 
+| 2022-10-03 | 579 | 64 | 
+| 2022-10-02 | 579 | 64 | 
+| 2022-10-01 | 579 | 64 | 
+| 2022-09-30 | 579 | 63 | 
+| 2022-09-29 | 576 | 62 | 
 | 2022-09-28 | 576 | 61 | 
 | 2022-09-27 | 574 | 59 | 
 | 2022-09-26 | 574 | 59 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 541 | 54 | 
 | 2022-09-08 | 537 | 54 | 
 | 2022-09-07 | 531 | 54 | 
-| 2022-09-06 | 516 | 53 | 
-| 2022-09-05 | 514 | 53 | 
-| 2022-09-04 | 510 | 52 | 
-| 2022-09-03 | 503 | 50 | 
-| 2022-09-02 | 495 | 47 | 
-| 2022-09-01 | 487 | 47 | 
-| 2022-08-31 | 478 | 47 | 
-| 2022-08-30 | 468 | 47 | 
-| 2022-08-29 | 426 | 46 | 
 
 
 [Detailed charts & statistics for breck7/pldb](https://reviewgithub.com/rep/breck7/pldb)

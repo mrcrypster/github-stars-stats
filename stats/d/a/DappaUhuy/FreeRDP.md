@@ -1,16 +1,31 @@
-# DappaUhuy/FreeRDP / stars & forks statistics
-
-[Open repository/DappaUhuy/FreeRDP](https://github.com/DappaUhuy/FreeRDP)
+# DappaUhuy/FreeRDP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 26
+☋ Forks: 30
 
 ★ Stars: 0
+
+[Open repository](https://github.com/DappaUhuy/FreeRDP)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 30 | 
+| 2022-10-05 | - | 30 | 
+| 2022-10-04 | - | 28 | 
+| 2022-10-03 | - | 27 | 
+| 2022-10-02 | - | 26 | 
+| 2022-10-01 | - | 26 | 
+| 2022-09-30 | - | 26 | 
+| 2022-09-29 | - | 26 | 
+| 2022-09-28 | - | 26 | 
+| 2022-09-27 | - | 26 | 
+| 2022-09-26 | - | 26 | 
+| 2022-09-25 | - | 26 | 
+| 2022-09-24 | - | 26 | 
+| 2022-09-23 | - | 26 | 
+| 2022-09-22 | - | 26 | 
 | 2022-09-21 | - | 26 | 
 | 2022-09-20 | - | 26 | 
 | 2022-09-19 | - | 25 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 21 | 
 | 2022-09-08 | - | 21 | 
 | 2022-09-07 | - | 21 | 
-| 2022-09-06 | - | 19 | 
-| 2022-09-05 | - | 17 | 
-| 2022-09-04 | - | 17 | 
-| 2022-09-03 | - | 16 | 
-| 2022-09-02 | - | 13 | 
-| 2022-09-01 | - | 12 | 
-| 2022-08-31 | - | 12 | 
-| 2022-08-30 | - | 11 | 
-| 2022-08-29 | - | 11 | 
-| 2022-08-28 | - | 8 | 
-| 2022-08-27 | - | 7 | 
-| 2022-08-26 | - | 7 | 
-| 2022-08-25 | - | 7 | 
-| 2022-08-24 | - | 7 | 
-| 2022-08-23 | - | 7 | 
 
 
 [Detailed charts & statistics for DappaUhuy/FreeRDP](https://reviewgithub.com/rep/DappaUhuy/FreeRDP)

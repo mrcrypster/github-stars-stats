@@ -1,12 +1,12 @@
-# atlas-engineer/cl-xmpp / stars & forks statistics
-
-[Open repository/atlas-engineer/cl-xmpp](https://github.com/atlas-engineer/cl-xmpp)
+# atlas-engineer/cl-xmpp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
+
+[Open repository](https://github.com/atlas-engineer/cl-xmpp)
 
 ## Historical data
 | Date | Stars | Forks |

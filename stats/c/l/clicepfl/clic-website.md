@@ -1,12 +1,12 @@
-# clicepfl/clic-website / stars & forks statistics
-
-[Open repository/clicepfl/clic-website](https://github.com/clicepfl/clic-website)
+# clicepfl/clic-website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 6
+
+[Open repository](https://github.com/clicepfl/clic-website)
 
 ## Historical data
 | Date | Stars | Forks |

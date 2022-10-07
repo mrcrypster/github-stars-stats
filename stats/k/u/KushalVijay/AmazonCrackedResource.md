@@ -1,16 +1,29 @@
-# KushalVijay/AmazonCrackedResource / stars & forks statistics
-
-[Open repository/KushalVijay/AmazonCrackedResource](https://github.com/KushalVijay/AmazonCrackedResource)
+# KushalVijay/AmazonCrackedResource - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 325
+☋ Forks: 327
 
-★ Stars: 304
+★ Stars: 311
+
+[Open repository](https://github.com/KushalVijay/AmazonCrackedResource)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 311 | 327 | 
+| 2022-10-06 | 310 | 327 | 
+| 2022-10-05 | 310 | 327 | 
+| 2022-10-04 | 309 | 327 | 
+| 2022-10-03 | 309 | 327 | 
+| 2022-10-02 | 309 | 327 | 
+| 2022-10-01 | 309 | 327 | 
+| 2022-09-30 | 309 | 327 | 
+| 2022-09-29 | 308 | 327 | 
+| 2022-09-28 | 308 | 327 | 
+| 2022-09-27 | 307 | 326 | 
+| 2022-09-26 | 305 | 325 | 
+| 2022-09-24 | 304 | 325 | 
 | 2022-09-23 | 304 | 325 | 
 | 2022-09-22 | 304 | 324 | 
 | 2022-09-21 | 303 | 324 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 300 | 316 | 
 | 2022-09-08 | 299 | 315 | 
 | 2022-09-07 | 297 | 314 | 
-| 2022-09-06 | 296 | 314 | 
-| 2022-09-05 | 295 | 315 | 
-| 2022-09-04 | 295 | 315 | 
-| 2022-09-03 | 295 | 314 | 
-| 2022-09-02 | 295 | 313 | 
-| 2022-09-01 | 295 | 312 | 
-| 2022-08-31 | 295 | 312 | 
-| 2022-08-30 | 294 | 312 | 
-| 2022-08-29 | 293 | 311 | 
-| 2022-08-28 | 290 | 309 | 
-| 2022-08-27 | 290 | 307 | 
-| 2022-08-26 | 288 | 305 | 
-| 2022-08-25 | 288 | 304 | 
 
 
 [Detailed charts & statistics for KushalVijay/AmazonCrackedResource](https://reviewgithub.com/rep/KushalVijay/AmazonCrackedResource)

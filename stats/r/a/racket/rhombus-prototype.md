@@ -1,6 +1,4 @@
-# racket/rhombus-prototype / stars & forks statistics
-
-[Open repository/racket/rhombus-prototype](https://github.com/racket/rhombus-prototype)
+# racket/rhombus-prototype - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 213
 
+[Open repository](https://github.com/racket/rhombus-prototype)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 213 | 32 | 
+| 2022-10-05 | 213 | 32 | 
+| 2022-10-04 | 213 | 32 | 
+| 2022-10-03 | 213 | 32 | 
+| 2022-10-02 | 213 | 32 | 
+| 2022-10-01 | 213 | 32 | 
+| 2022-09-30 | 213 | 32 | 
 | 2022-09-29 | 213 | 32 | 
 | 2022-09-28 | 213 | 32 | 
 | 2022-09-27 | 213 | 32 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 213 | 32 | 
 | 2022-09-09 | 213 | 32 | 
 | 2022-09-08 | 212 | 32 | 
-| 2022-09-07 | 212 | 32 | 
-| 2022-09-06 | 213 | 32 | 
-| 2022-09-05 | 211 | 32 | 
-| 2022-09-04 | 210 | 31 | 
-| 2022-09-03 | 208 | 31 | 
-| 2022-09-02 | 208 | 31 | 
-| 2022-09-01 | 208 | 31 | 
-| 2022-08-31 | 207 | 31 | 
 
 
 [Detailed charts & statistics for racket/rhombus-prototype](https://reviewgithub.com/rep/racket/rhombus-prototype)

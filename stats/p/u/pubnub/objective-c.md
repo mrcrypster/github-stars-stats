@@ -1,12 +1,12 @@
-# pubnub/objective-c / stars & forks statistics
-
-[Open repository/pubnub/objective-c](https://github.com/pubnub/objective-c)
+# pubnub/objective-c - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 195
 
 ★ Stars: 177
+
+[Open repository](https://github.com/pubnub/objective-c)
 
 ## Historical data
 | Date | Stars | Forks |

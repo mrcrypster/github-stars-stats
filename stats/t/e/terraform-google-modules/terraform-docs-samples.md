@@ -1,16 +1,22 @@
-# terraform-google-modules/terraform-docs-samples / stars & forks statistics
-
-[Open repository/terraform-google-modules/terraform-docs-samples](https://github.com/terraform-google-modules/terraform-docs-samples)
+# terraform-google-modules/terraform-docs-samples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 60
+☋ Forks: 63
 
-★ Stars: 52
+★ Stars: 56
+
+[Open repository](https://github.com/terraform-google-modules/terraform-docs-samples)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 56 | 63 | 
+| 2022-10-05 | 55 | 61 | 
+| 2022-10-04 | 54 | 61 | 
+| 2022-10-03 | 54 | 61 | 
+| 2022-10-02 | 54 | 61 | 
+| 2022-10-01 | 53 | 61 | 
 | 2022-09-30 | 52 | 60 | 
 | 2022-09-29 | 51 | 60 | 
 | 2022-09-28 | 51 | 60 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 44 | 47 | 
 | 2022-09-09 | 43 | 47 | 
 | 2022-09-08 | 42 | 43 | 
-| 2022-09-07 | 40 | 42 | 
-| 2022-09-06 | 40 | 41 | 
-| 2022-09-05 | 40 | 41 | 
-| 2022-09-04 | 40 | 40 | 
-| 2022-09-03 | 39 | 39 | 
-| 2022-09-02 | 38 | 39 | 
-| 2022-09-01 | 34 | 39 | 
 
 
 [Detailed charts & statistics for terraform-google-modules/terraform-docs-samples](https://reviewgithub.com/rep/terraform-google-modules/terraform-docs-samples)

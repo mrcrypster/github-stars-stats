@@ -1,16 +1,31 @@
-# LedgerHQ/Starknet-wallet-contracts / stars & forks statistics
-
-[Open repository/LedgerHQ/Starknet-wallet-contracts](https://github.com/LedgerHQ/Starknet-wallet-contracts)
+# LedgerHQ/Starknet-wallet-contracts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 7
+
+[Open repository](https://github.com/LedgerHQ/Starknet-wallet-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 7 | 2 | 
+| 2022-10-06 | 7 | 2 | 
+| 2022-10-05 | 7 | 2 | 
+| 2022-10-04 | 7 | 2 | 
+| 2022-10-03 | 7 | 2 | 
+| 2022-10-02 | 7 | 2 | 
+| 2022-10-01 | 7 | 2 | 
+| 2022-09-30 | 7 | 1 | 
+| 2022-09-29 | 7 | 1 | 
+| 2022-09-28 | 7 | 1 | 
+| 2022-09-27 | 7 | 1 | 
+| 2022-09-26 | 7 | 1 | 
+| 2022-09-25 | 7 | 1 | 
+| 2022-09-24 | 7 | 1 | 
+| 2022-09-23 | 7 | 1 | 
 | 2022-09-22 | 7 | 1 | 
 | 2022-09-21 | 7 | 1 | 
 | 2022-09-20 | 7 | 1 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 7 | 1 | 
 | 2022-09-08 | 7 | 1 | 
 | 2022-09-07 | 7 | 1 | 
-| 2022-09-06 | 7 | 1 | 
-| 2022-09-05 | 7 | 1 | 
-| 2022-09-04 | 7 | 1 | 
-| 2022-09-03 | 7 | 1 | 
-| 2022-09-02 | 7 | 1 | 
-| 2022-09-01 | 7 | 1 | 
-| 2022-08-31 | 7 | 1 | 
-| 2022-08-30 | 7 | 1 | 
-| 2022-08-29 | 7 | 1 | 
-| 2022-08-28 | 7 | 1 | 
-| 2022-08-27 | 7 | 1 | 
-| 2022-08-26 | 7 | 1 | 
-| 2022-08-25 | 7 | 1 | 
-| 2022-08-24 | 7 | 1 | 
-| 2022-08-23 | 7 | 1 | 
 
 
 [Detailed charts & statistics for LedgerHQ/Starknet-wallet-contracts](https://reviewgithub.com/rep/LedgerHQ/Starknet-wallet-contracts)

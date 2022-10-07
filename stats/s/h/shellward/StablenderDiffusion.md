@@ -1,16 +1,23 @@
-# shellward/StablenderDiffusion / stars & forks statistics
-
-[Open repository/shellward/StablenderDiffusion](https://github.com/shellward/StablenderDiffusion)
+# shellward/StablenderDiffusion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
-★ Stars: 69
+★ Stars: 68
+
+[Open repository](https://github.com/shellward/StablenderDiffusion)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 68 | 10 | 
+| 2022-10-05 | 68 | 10 | 
+| 2022-10-04 | 68 | 10 | 
+| 2022-10-03 | 68 | 10 | 
+| 2022-10-02 | 68 | 10 | 
+| 2022-10-01 | 68 | 10 | 
+| 2022-09-30 | 68 | 10 | 
 | 2022-09-29 | 69 | 10 | 
 | 2022-09-28 | 68 | 10 | 
 | 2022-09-27 | 64 | 10 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 56 | 11 | 
 | 2022-09-09 | 55 | 11 | 
 | 2022-09-08 | 52 | 10 | 
-| 2022-09-07 | 52 | 9 | 
-| 2022-09-06 | 52 | 8 | 
-| 2022-09-05 | 51 | 7 | 
-| 2022-09-04 | 48 | 7 | 
-| 2022-09-03 | 44 | 7 | 
-| 2022-09-02 | 40 | 7 | 
-| 2022-09-01 | 40 | 7 | 
-| 2022-08-31 | 36 | 7 | 
 
 
 [Detailed charts & statistics for shellward/StablenderDiffusion](https://reviewgithub.com/rep/shellward/StablenderDiffusion)

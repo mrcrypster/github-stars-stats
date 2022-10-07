@@ -1,12 +1,12 @@
-# status-im/nim-dnsdisc / stars & forks statistics
-
-[Open repository/status-im/nim-dnsdisc](https://github.com/status-im/nim-dnsdisc)
+# status-im/nim-dnsdisc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/status-im/nim-dnsdisc)
 
 ## Historical data
 | Date | Stars | Forks |

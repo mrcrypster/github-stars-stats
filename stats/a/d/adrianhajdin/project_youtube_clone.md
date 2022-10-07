@@ -1,16 +1,26 @@
-# adrianhajdin/project_youtube_clone / stars & forks statistics
-
-[Open repository/adrianhajdin/project_youtube_clone](https://github.com/adrianhajdin/project_youtube_clone)
+# adrianhajdin/project_youtube_clone - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 85
+☋ Forks: 97
 
-★ Stars: 303
+★ Stars: 327
+
+[Open repository](https://github.com/adrianhajdin/project_youtube_clone)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 327 | 97 | 
+| 2022-10-05 | 324 | 97 | 
+| 2022-10-04 | 322 | 93 | 
+| 2022-10-03 | 321 | 92 | 
+| 2022-10-02 | 319 | 92 | 
+| 2022-10-01 | 314 | 90 | 
+| 2022-09-30 | 314 | 87 | 
+| 2022-09-29 | 312 | 85 | 
+| 2022-09-28 | 309 | 85 | 
+| 2022-09-27 | 307 | 86 | 
 | 2022-09-26 | 303 | 85 | 
 | 2022-09-25 | 299 | 80 | 
 | 2022-09-24 | 295 | 80 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 218 | 61 | 
 | 2022-09-09 | 212 | 61 | 
 | 2022-09-08 | 205 | 60 | 
-| 2022-09-07 | 200 | 59 | 
-| 2022-09-06 | 192 | 57 | 
-| 2022-09-05 | 181 | 53 | 
-| 2022-09-04 | 172 | 48 | 
-| 2022-09-03 | 162 | 47 | 
-| 2022-09-02 | 152 | 45 | 
-| 2022-09-01 | 144 | 41 | 
-| 2022-08-31 | 135 | 39 | 
-| 2022-08-30 | 120 | 37 | 
-| 2022-08-29 | 103 | 28 | 
-| 2022-08-28 | 84 | 21 | 
 
 
 [Detailed charts & statistics for adrianhajdin/project_youtube_clone](https://reviewgithub.com/rep/adrianhajdin/project_youtube_clone)

@@ -1,12 +1,12 @@
-# taozhiyu/TyProAction / stars & forks statistics
-
-[Open repository/taozhiyu/TyProAction](https://github.com/taozhiyu/TyProAction)
+# taozhiyu/TyProAction - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/taozhiyu/TyProAction)
 
 ## Historical data
 | Date | Stars | Forks |

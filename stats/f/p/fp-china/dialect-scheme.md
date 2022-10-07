@@ -1,12 +1,12 @@
-# fp-china/dialect-scheme / stars & forks statistics
-
-[Open repository/fp-china/dialect-scheme](https://github.com/fp-china/dialect-scheme)
+# fp-china/dialect-scheme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/fp-china/dialect-scheme)
 
 ## Historical data
 | Date | Stars | Forks |

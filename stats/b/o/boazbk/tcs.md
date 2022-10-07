@@ -1,12 +1,12 @@
-# boazbk/tcs / stars & forks statistics
-
-[Open repository/boazbk/tcs](https://github.com/boazbk/tcs)
+# boazbk/tcs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 155
 
 ★ Stars: 787
+
+[Open repository](https://github.com/boazbk/tcs)
 
 ## Historical data
 | Date | Stars | Forks |

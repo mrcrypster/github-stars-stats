@@ -1,16 +1,25 @@
-# samuelclay/NewsBlur / stars & forks statistics
-
-[Open repository/samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur)
+# samuelclay/NewsBlur - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 960
+☋ Forks: 959
 
-★ Stars: 6088
+★ Stars: 6100
+
+[Open repository](https://github.com/samuelclay/NewsBlur)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6100 | 959 | 
+| 2022-10-06 | 6099 | 959 | 
+| 2022-10-05 | 6099 | 959 | 
+| 2022-10-04 | 6096 | 959 | 
+| 2022-10-03 | 6093 | 960 | 
+| 2022-10-02 | 6091 | 960 | 
+| 2022-10-01 | 6092 | 960 | 
+| 2022-09-30 | 6090 | 960 | 
+| 2022-09-29 | 6089 | 960 | 
 | 2022-09-28 | 6088 | 960 | 
 | 2022-09-27 | 6089 | 960 | 
 | 2022-09-26 | 6086 | 960 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 6070 | 959 | 
 | 2022-09-08 | 6069 | 959 | 
 | 2022-09-07 | 6069 | 959 | 
-| 2022-09-06 | 6069 | 959 | 
-| 2022-09-05 | 6068 | 959 | 
-| 2022-09-04 | 6064 | 959 | 
-| 2022-09-03 | 6064 | 959 | 
-| 2022-09-02 | 6063 | 959 | 
-| 2022-09-01 | 6062 | 959 | 
-| 2022-08-31 | 6060 | 959 | 
-| 2022-08-30 | 6056 | 958 | 
-| 2022-08-29 | 6056 | 958 | 
 
 
 [Detailed charts & statistics for samuelclay/NewsBlur](https://reviewgithub.com/rep/samuelclay/NewsBlur)

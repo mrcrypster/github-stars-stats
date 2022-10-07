@@ -1,16 +1,30 @@
-# tayganr/purviewlab / stars & forks statistics
-
-[Open repository/tayganr/purviewlab](https://github.com/tayganr/purviewlab)
+# tayganr/purviewlab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 96
+☋ Forks: 102
 
-★ Stars: 80
+★ Stars: 81
+
+[Open repository](https://github.com/tayganr/purviewlab)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 81 | 102 | 
+| 2022-10-05 | 81 | 102 | 
+| 2022-10-04 | 81 | 100 | 
+| 2022-10-03 | 81 | 99 | 
+| 2022-10-02 | 81 | 99 | 
+| 2022-10-01 | 81 | 99 | 
+| 2022-09-30 | 81 | 99 | 
+| 2022-09-29 | 81 | 97 | 
+| 2022-09-28 | 81 | 97 | 
+| 2022-09-27 | 81 | 97 | 
+| 2022-09-26 | 81 | 97 | 
+| 2022-09-25 | 81 | 97 | 
+| 2022-09-24 | 81 | 97 | 
+| 2022-09-23 | 81 | 97 | 
 | 2022-09-22 | 80 | 96 | 
 | 2022-09-21 | 80 | 95 | 
 | 2022-09-20 | 80 | 94 | 
@@ -26,21 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 76 | 90 | 
 | 2022-09-08 | 76 | 89 | 
 | 2022-09-07 | 75 | 89 | 
-| 2022-09-06 | 75 | 89 | 
-| 2022-09-05 | 75 | 90 | 
-| 2022-09-04 | 75 | 90 | 
-| 2022-09-03 | 75 | 90 | 
-| 2022-09-02 | 75 | 90 | 
-| 2022-09-01 | 75 | 90 | 
-| 2022-08-31 | 74 | 90 | 
-| 2022-08-30 | 74 | 90 | 
-| 2022-08-29 | 74 | 90 | 
-| 2022-08-28 | 74 | 90 | 
-| 2022-08-27 | 74 | 90 | 
-| 2022-08-26 | 74 | 90 | 
-| 2022-08-25 | 74 | 89 | 
-| 2022-08-24 | 74 | 89 | 
-| 2022-08-23 | 74 | 89 | 
 
 
 [Detailed charts & statistics for tayganr/purviewlab](https://reviewgithub.com/rep/tayganr/purviewlab)

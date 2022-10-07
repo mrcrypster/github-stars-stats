@@ -1,12 +1,12 @@
-# seono1google/theme / stars & forks statistics
-
-[Open repository/seono1google/theme](https://github.com/seono1google/theme)
+# seono1google/theme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/seono1google/theme)
 
 ## Historical data
 | Date | Stars | Forks |

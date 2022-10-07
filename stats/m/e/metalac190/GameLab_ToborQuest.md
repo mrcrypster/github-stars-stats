@@ -1,6 +1,4 @@
-# metalac190/GameLab_ToborQuest / stars & forks statistics
-
-[Open repository/metalac190/GameLab_ToborQuest](https://github.com/metalac190/GameLab_ToborQuest)
+# metalac190/GameLab_ToborQuest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/metalac190/GameLab_ToborQuest)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | - | 
+| 2022-10-05 | 4 | - | 
+| 2022-10-04 | 4 | - | 
+| 2022-10-03 | 4 | - | 
+| 2022-10-02 | 4 | - | 
 | 2022-10-01 | 4 | - | 
 | 2022-09-30 | 4 | - | 
 | 2022-09-29 | 4 | - | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | - | 
 | 2022-09-09 | 3 | - | 
 | 2022-09-08 | 3 | - | 
-| 2022-09-07 | 3 | - | 
-| 2022-09-06 | 3 | - | 
-| 2022-09-05 | 3 | - | 
-| 2022-09-04 | 3 | - | 
-| 2022-09-03 | 3 | - | 
-| 2022-09-02 | 3 | - | 
 
 
 [Detailed charts & statistics for metalac190/GameLab_ToborQuest](https://reviewgithub.com/rep/metalac190/GameLab_ToborQuest)

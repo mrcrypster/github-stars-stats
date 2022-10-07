@@ -1,12 +1,12 @@
-# hackclub/sprig-gallery / stars & forks statistics
-
-[Open repository/hackclub/sprig-gallery](https://github.com/hackclub/sprig-gallery)
+# hackclub/sprig-gallery - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 12
+
+[Open repository](https://github.com/hackclub/sprig-gallery)
 
 ## Historical data
 | Date | Stars | Forks |

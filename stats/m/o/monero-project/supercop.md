@@ -1,12 +1,12 @@
-# monero-project/supercop / stars & forks statistics
-
-[Open repository/monero-project/supercop](https://github.com/monero-project/supercop)
+# monero-project/supercop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 8
+
+[Open repository](https://github.com/monero-project/supercop)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# edemaine/hardness-book-site / stars & forks statistics
-
-[Open repository/edemaine/hardness-book-site](https://github.com/edemaine/hardness-book-site)
+# edemaine/hardness-book-site - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 10
 
+[Open repository](https://github.com/edemaine/hardness-book-site)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 10 | - | 
+| 2022-10-06 | 10 | - | 
+| 2022-10-05 | 10 | - | 
+| 2022-10-04 | 10 | - | 
+| 2022-10-03 | 10 | - | 
+| 2022-10-02 | 10 | - | 
+| 2022-10-01 | 10 | - | 
+| 2022-09-30 | 10 | - | 
+| 2022-09-29 | 10 | - | 
+| 2022-09-28 | 10 | - | 
 | 2022-09-27 | 10 | - | 
 | 2022-09-26 | 10 | - | 
 | 2022-09-25 | 10 | - | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 10 | - | 
 | 2022-09-08 | 10 | - | 
 | 2022-09-07 | 10 | - | 
-| 2022-09-06 | 10 | - | 
-| 2022-09-05 | 10 | - | 
-| 2022-09-04 | 10 | - | 
-| 2022-09-03 | 10 | - | 
-| 2022-09-02 | 10 | - | 
-| 2022-09-01 | 10 | - | 
-| 2022-08-31 | 10 | - | 
-| 2022-08-30 | 10 | - | 
-| 2022-08-29 | 10 | - | 
-| 2022-08-28 | 9 | - | 
 
 
 [Detailed charts & statistics for edemaine/hardness-book-site](https://reviewgithub.com/rep/edemaine/hardness-book-site)

@@ -1,12 +1,12 @@
-# gear-dapps/oracle / stars & forks statistics
-
-[Open repository/gear-dapps/oracle](https://github.com/gear-dapps/oracle)
+# gear-dapps/oracle - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/gear-dapps/oracle)
 
 ## Historical data
 | Date | Stars | Forks |

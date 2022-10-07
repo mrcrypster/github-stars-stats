@@ -1,12 +1,12 @@
-# supaflare/supaflare / stars & forks statistics
-
-[Open repository/supaflare/supaflare](https://github.com/supaflare/supaflare)
+# supaflare/supaflare - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 84
+
+[Open repository](https://github.com/supaflare/supaflare)
 
 ## Historical data
 | Date | Stars | Forks |

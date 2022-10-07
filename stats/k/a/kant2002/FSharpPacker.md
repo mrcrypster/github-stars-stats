@@ -1,12 +1,12 @@
-# kant2002/FSharpPacker / stars & forks statistics
-
-[Open repository/kant2002/FSharpPacker](https://github.com/kant2002/FSharpPacker)
+# kant2002/FSharpPacker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 17
+
+[Open repository](https://github.com/kant2002/FSharpPacker)
 
 ## Historical data
 | Date | Stars | Forks |

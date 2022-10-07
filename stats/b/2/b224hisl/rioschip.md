@@ -1,12 +1,12 @@
-# b224hisl/rioschip / stars & forks statistics
-
-[Open repository/b224hisl/rioschip](https://github.com/b224hisl/rioschip)
+# b224hisl/rioschip - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/b224hisl/rioschip)
 
 ## Historical data
 | Date | Stars | Forks |

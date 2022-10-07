@@ -1,16 +1,26 @@
-# egovernments/DIGIT-DevOps / stars & forks statistics
-
-[Open repository/egovernments/DIGIT-DevOps](https://github.com/egovernments/DIGIT-DevOps)
+# egovernments/DIGIT-DevOps - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 4
+
+[Open repository](https://github.com/egovernments/DIGIT-DevOps)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 38 | 
+| 2022-10-05 | 4 | 38 | 
+| 2022-10-04 | 4 | 38 | 
+| 2022-10-03 | 4 | 38 | 
+| 2022-10-02 | 4 | 38 | 
+| 2022-10-01 | 4 | 37 | 
+| 2022-09-30 | 4 | 37 | 
+| 2022-09-29 | 4 | 37 | 
+| 2022-09-28 | 4 | 37 | 
+| 2022-09-27 | 4 | 37 | 
 | 2022-09-26 | 4 | 37 | 
 | 2022-09-25 | 4 | 37 | 
 | 2022-09-24 | 4 | 37 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 36 | 
 | 2022-09-09 | 4 | 36 | 
 | 2022-09-08 | 4 | 36 | 
-| 2022-09-07 | 4 | 36 | 
-| 2022-09-06 | 4 | 36 | 
-| 2022-09-05 | 4 | 37 | 
-| 2022-09-04 | 4 | 35 | 
-| 2022-09-03 | 4 | 35 | 
-| 2022-09-02 | 4 | 35 | 
-| 2022-09-01 | 3 | 34 | 
-| 2022-08-31 | 3 | 34 | 
-| 2022-08-30 | 3 | 32 | 
-| 2022-08-29 | 3 | 31 | 
-| 2022-08-28 | 3 | 31 | 
 
 
 [Detailed charts & statistics for egovernments/DIGIT-DevOps](https://reviewgithub.com/rep/egovernments/DIGIT-DevOps)

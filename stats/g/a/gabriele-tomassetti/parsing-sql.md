@@ -1,6 +1,4 @@
-# gabriele-tomassetti/parsing-sql / stars & forks statistics
-
-[Open repository/gabriele-tomassetti/parsing-sql](https://github.com/gabriele-tomassetti/parsing-sql)
+# gabriele-tomassetti/parsing-sql - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 29
 
+[Open repository](https://github.com/gabriele-tomassetti/parsing-sql)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 29 | 4 | 
+| 2022-10-06 | 29 | 4 | 
+| 2022-10-05 | 29 | 4 | 
+| 2022-10-04 | 29 | 4 | 
+| 2022-10-03 | 29 | 4 | 
+| 2022-10-02 | 29 | 4 | 
+| 2022-10-01 | 29 | 4 | 
+| 2022-09-30 | 29 | 4 | 
+| 2022-09-29 | 29 | 4 | 
+| 2022-09-28 | 29 | 4 | 
+| 2022-09-27 | 29 | 4 | 
+| 2022-09-26 | 29 | 4 | 
+| 2022-09-25 | 29 | 4 | 
 | 2022-09-24 | 29 | 4 | 
 | 2022-09-23 | 29 | 4 | 
 | 2022-09-22 | 29 | 4 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 4 | 
 | 2022-09-08 | 29 | 4 | 
 | 2022-09-07 | 29 | 4 | 
-| 2022-09-06 | 29 | 4 | 
-| 2022-09-05 | 29 | 4 | 
-| 2022-09-04 | 28 | 4 | 
-| 2022-09-03 | 28 | 4 | 
-| 2022-09-02 | 28 | 4 | 
-| 2022-09-01 | 27 | 4 | 
-| 2022-08-31 | 27 | 4 | 
-| 2022-08-30 | 27 | 4 | 
-| 2022-08-29 | 27 | 4 | 
-| 2022-08-28 | 27 | 4 | 
-| 2022-08-27 | 27 | 4 | 
-| 2022-08-26 | 27 | 4 | 
-| 2022-08-25 | 27 | 4 | 
 
 
 [Detailed charts & statistics for gabriele-tomassetti/parsing-sql](https://reviewgithub.com/rep/gabriele-tomassetti/parsing-sql)

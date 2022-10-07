@@ -1,12 +1,12 @@
-# Guavka/TextQuest / stars & forks statistics
-
-[Open repository/Guavka/TextQuest](https://github.com/Guavka/TextQuest)
+# Guavka/TextQuest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Guavka/TextQuest)
 
 ## Historical data
 | Date | Stars | Forks |

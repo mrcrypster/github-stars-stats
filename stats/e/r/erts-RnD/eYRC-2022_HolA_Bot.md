@@ -1,12 +1,12 @@
-# erts-RnD/eYRC-2022_HolA_Bot / stars & forks statistics
-
-[Open repository/erts-RnD/eYRC-2022_HolA_Bot](https://github.com/erts-RnD/eYRC-2022_HolA_Bot)
+# erts-RnD/eYRC-2022_HolA_Bot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/erts-RnD/eYRC-2022_HolA_Bot)
 
 ## Historical data
 | Date | Stars | Forks |

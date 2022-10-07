@@ -1,12 +1,12 @@
-# supabase/pg_netstat / stars & forks statistics
-
-[Open repository/supabase/pg_netstat](https://github.com/supabase/pg_netstat)
+# supabase/pg_netstat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 215
+
+[Open repository](https://github.com/supabase/pg_netstat)
 
 ## Historical data
 | Date | Stars | Forks |

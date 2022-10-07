@@ -1,12 +1,12 @@
-# lifeware-sa/C-API / stars & forks statistics
-
-[Open repository/lifeware-sa/C-API](https://github.com/lifeware-sa/C-API)
+# lifeware-sa/C-API - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/lifeware-sa/C-API)
 
 ## Historical data
 | Date | Stars | Forks |

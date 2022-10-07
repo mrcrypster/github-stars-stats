@@ -1,12 +1,12 @@
-# elrincondeisma/laravel-init / stars & forks statistics
-
-[Open repository/elrincondeisma/laravel-init](https://github.com/elrincondeisma/laravel-init)
+# elrincondeisma/laravel-init - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
+
+[Open repository](https://github.com/elrincondeisma/laravel-init)
 
 ## Historical data
 | Date | Stars | Forks |

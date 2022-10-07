@@ -1,12 +1,12 @@
-# 0xBeans/GenesisAndConclusion / stars & forks statistics
-
-[Open repository/0xBeans/GenesisAndConclusion](https://github.com/0xBeans/GenesisAndConclusion)
+# 0xBeans/GenesisAndConclusion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 28
+
+[Open repository](https://github.com/0xBeans/GenesisAndConclusion)
 
 ## Historical data
 | Date | Stars | Forks |

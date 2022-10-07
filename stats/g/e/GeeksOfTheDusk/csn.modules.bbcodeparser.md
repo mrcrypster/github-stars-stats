@@ -1,12 +1,12 @@
-# GeeksOfTheDusk/csn.modules.bbcodeparser / stars & forks statistics
-
-[Open repository/GeeksOfTheDusk/csn.modules.bbcodeparser](https://github.com/GeeksOfTheDusk/csn.modules.bbcodeparser)
+# GeeksOfTheDusk/csn.modules.bbcodeparser - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/GeeksOfTheDusk/csn.modules.bbcodeparser)
 
 ## Historical data
 | Date | Stars | Forks |

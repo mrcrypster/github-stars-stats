@@ -1,12 +1,12 @@
-# wix/ObjCCLIInfra / stars & forks statistics
-
-[Open repository/wix/ObjCCLIInfra](https://github.com/wix/ObjCCLIInfra)
+# wix/ObjCCLIInfra - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 8
+
+[Open repository](https://github.com/wix/ObjCCLIInfra)
 
 ## Historical data
 | Date | Stars | Forks |

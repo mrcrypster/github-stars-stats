@@ -1,12 +1,12 @@
-# tmcw/zig-raytracer / stars & forks statistics
-
-[Open repository/tmcw/zig-raytracer](https://github.com/tmcw/zig-raytracer)
+# tmcw/zig-raytracer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
+
+[Open repository](https://github.com/tmcw/zig-raytracer)
 
 ## Historical data
 | Date | Stars | Forks |

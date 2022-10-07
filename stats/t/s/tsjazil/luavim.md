@@ -1,16 +1,29 @@
-# tsjazil/luavim / stars & forks statistics
-
-[Open repository/tsjazil/luavim](https://github.com/tsjazil/luavim)
+# tsjazil/luavim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 62
+★ Stars: 63
+
+[Open repository](https://github.com/tsjazil/luavim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 63 | 1 | 
+| 2022-10-06 | 63 | 1 | 
+| 2022-10-05 | 63 | 1 | 
+| 2022-10-04 | 63 | 1 | 
+| 2022-10-03 | 63 | 1 | 
+| 2022-10-02 | 63 | 1 | 
+| 2022-10-01 | 63 | 1 | 
+| 2022-09-30 | 63 | 1 | 
+| 2022-09-29 | 63 | 1 | 
+| 2022-09-28 | 63 | 1 | 
+| 2022-09-27 | 63 | 1 | 
+| 2022-09-26 | 63 | 1 | 
+| 2022-09-25 | 62 | 1 | 
 | 2022-09-24 | 62 | 1 | 
 | 2022-09-23 | 62 | 1 | 
 | 2022-09-22 | 62 | 1 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 60 | 1 | 
 | 2022-09-08 | 60 | 1 | 
 | 2022-09-07 | 59 | 1 | 
-| 2022-09-06 | 58 | 1 | 
-| 2022-09-05 | 58 | 1 | 
-| 2022-09-04 | 58 | 1 | 
-| 2022-09-03 | 58 | 1 | 
-| 2022-09-02 | 58 | 1 | 
-| 2022-09-01 | 58 | 1 | 
-| 2022-08-31 | 58 | 1 | 
-| 2022-08-30 | 57 | 1 | 
-| 2022-08-29 | 56 | - | 
-| 2022-08-28 | 55 | - | 
-| 2022-08-27 | 52 | - | 
-| 2022-08-26 | 51 | - | 
-| 2022-08-25 | 51 | - | 
 
 
 [Detailed charts & statistics for tsjazil/luavim](https://reviewgithub.com/rep/tsjazil/luavim)

@@ -1,12 +1,12 @@
-# leeoniya/uFuzzy / stars & forks statistics
-
-[Open repository/leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy)
+# leeoniya/uFuzzy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 1272
+
+[Open repository](https://github.com/leeoniya/uFuzzy)
 
 ## Historical data
 | Date | Stars | Forks |

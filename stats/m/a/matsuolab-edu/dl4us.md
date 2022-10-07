@@ -1,16 +1,25 @@
-# matsuolab-edu/dl4us / stars & forks statistics
-
-[Open repository/matsuolab-edu/dl4us](https://github.com/matsuolab-edu/dl4us)
+# matsuolab-edu/dl4us - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 230
+☋ Forks: 231
 
-★ Stars: 1006
+★ Stars: 1009
+
+[Open repository](https://github.com/matsuolab-edu/dl4us)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1009 | 231 | 
+| 2022-10-06 | 1009 | 231 | 
+| 2022-10-05 | 1008 | 231 | 
+| 2022-10-04 | 1008 | 231 | 
+| 2022-10-03 | 1008 | 231 | 
+| 2022-10-02 | 1007 | 231 | 
+| 2022-10-01 | 1007 | 230 | 
+| 2022-09-30 | 1007 | 230 | 
+| 2022-09-29 | 1006 | 230 | 
 | 2022-09-28 | 1006 | 230 | 
 | 2022-09-27 | 1006 | 230 | 
 | 2022-09-26 | 1006 | 230 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1005 | 229 | 
 | 2022-09-08 | 1005 | 229 | 
 | 2022-09-07 | 1005 | 229 | 
-| 2022-09-06 | 1005 | 229 | 
-| 2022-09-05 | 1005 | 230 | 
-| 2022-09-04 | 1005 | 229 | 
-| 2022-09-03 | 1005 | 229 | 
-| 2022-09-02 | 1005 | 229 | 
-| 2022-09-01 | 1005 | 229 | 
-| 2022-08-31 | 1003 | 229 | 
-| 2022-08-30 | 999 | 230 | 
-| 2022-08-29 | 997 | 230 | 
 
 
 [Detailed charts & statistics for matsuolab-edu/dl4us](https://reviewgithub.com/rep/matsuolab-edu/dl4us)

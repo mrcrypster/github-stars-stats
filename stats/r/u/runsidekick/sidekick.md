@@ -1,16 +1,29 @@
-# runsidekick/sidekick / stars & forks statistics
-
-[Open repository/runsidekick/sidekick](https://github.com/runsidekick/sidekick)
+# runsidekick/sidekick - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 54
+☋ Forks: 57
 
-★ Stars: 1449
+★ Stars: 1473
+
+[Open repository](https://github.com/runsidekick/sidekick)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1473 | 57 | 
+| 2022-10-05 | 1469 | 57 | 
+| 2022-10-04 | 1469 | 57 | 
+| 2022-10-03 | 1469 | 57 | 
+| 2022-10-02 | 1468 | 57 | 
+| 2022-10-01 | 1467 | 57 | 
+| 2022-09-30 | 1466 | 57 | 
+| 2022-09-29 | 1466 | 55 | 
+| 2022-09-28 | 1464 | 54 | 
+| 2022-09-27 | 1461 | 54 | 
+| 2022-09-26 | 1455 | 54 | 
+| 2022-09-25 | 1451 | 54 | 
+| 2022-09-24 | 1449 | 54 | 
 | 2022-09-23 | 1449 | 54 | 
 | 2022-09-22 | 1450 | 54 | 
 | 2022-09-21 | 1447 | 54 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1403 | 51 | 
 | 2022-09-09 | 1395 | 51 | 
 | 2022-09-08 | 1387 | 51 | 
-| 2022-09-07 | 1383 | 50 | 
-| 2022-09-06 | 1365 | 49 | 
-| 2022-09-05 | 1342 | 48 | 
-| 2022-09-04 | 1271 | 44 | 
-| 2022-09-03 | 1266 | 44 | 
-| 2022-09-02 | 1250 | 44 | 
-| 2022-09-01 | 1221 | 43 | 
-| 2022-08-31 | 1184 | 43 | 
-| 2022-08-30 | 1120 | 41 | 
-| 2022-08-29 | 856 | 31 | 
-| 2022-08-28 | 818 | 31 | 
-| 2022-08-27 | 688 | 27 | 
-| 2022-08-26 | 534 | 22 | 
-| 2022-08-25 | 332 | 12 | 
 
 
 [Detailed charts & statistics for runsidekick/sidekick](https://reviewgithub.com/rep/runsidekick/sidekick)

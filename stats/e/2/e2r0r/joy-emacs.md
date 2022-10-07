@@ -1,6 +1,4 @@
-# e2r0r/joy-emacs / stars & forks statistics
-
-[Open repository/e2r0r/joy-emacs](https://github.com/e2r0r/joy-emacs)
+# e2r0r/joy-emacs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/e2r0r/joy-emacs)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | - | 
+| 2022-10-06 | 1 | - | 
+| 2022-10-05 | 1 | - | 
+| 2022-10-04 | 1 | - | 
+| 2022-10-03 | 1 | - | 
 | 2022-10-02 | 1 | - | 
 | 2022-10-01 | 1 | - | 
 | 2022-09-30 | 1 | - | 
@@ -36,11 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | - | 
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
-| 2022-09-07 | 1 | - | 
-| 2022-09-06 | 1 | - | 
-| 2022-09-05 | 1 | - | 
-| 2022-09-04 | 1 | - | 
-| 2022-09-03 | 1 | - | 
 
 
 [Detailed charts & statistics for e2r0r/joy-emacs](https://reviewgithub.com/rep/e2r0r/joy-emacs)

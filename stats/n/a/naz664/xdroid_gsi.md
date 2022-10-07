@@ -1,12 +1,12 @@
-# naz664/xdroid_gsi / stars & forks statistics
-
-[Open repository/naz664/xdroid_gsi](https://github.com/naz664/xdroid_gsi)
+# naz664/xdroid_gsi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 4
+
+[Open repository](https://github.com/naz664/xdroid_gsi)
 
 ## Historical data
 | Date | Stars | Forks |

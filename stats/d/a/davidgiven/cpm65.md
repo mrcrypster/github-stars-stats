@@ -1,12 +1,12 @@
-# davidgiven/cpm65 / stars & forks statistics
-
-[Open repository/davidgiven/cpm65](https://github.com/davidgiven/cpm65)
+# davidgiven/cpm65 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 99
+
+[Open repository](https://github.com/davidgiven/cpm65)
 
 ## Historical data
 | Date | Stars | Forks |

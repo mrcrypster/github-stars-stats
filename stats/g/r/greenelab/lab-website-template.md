@@ -1,16 +1,20 @@
-# greenelab/lab-website-template / stars & forks statistics
-
-[Open repository/greenelab/lab-website-template](https://github.com/greenelab/lab-website-template)
+# greenelab/lab-website-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 111
+☋ Forks: 116
 
-★ Stars: 107
+★ Stars: 110
+
+[Open repository](https://github.com/greenelab/lab-website-template)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 110 | 116 | 
+| 2022-10-05 | 110 | 116 | 
+| 2022-10-04 | 109 | 113 | 
+| 2022-10-03 | 108 | 111 | 
 | 2022-10-02 | 107 | 111 | 
 | 2022-10-01 | 107 | 111 | 
 | 2022-09-30 | 107 | 111 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 89 | 102 | 
 | 2022-09-09 | 89 | 100 | 
 | 2022-09-08 | 88 | 100 | 
-| 2022-09-07 | 88 | 100 | 
-| 2022-09-06 | 88 | 100 | 
-| 2022-09-05 | 88 | 100 | 
-| 2022-09-04 | 88 | 100 | 
-| 2022-09-03 | 88 | 100 | 
 
 
 [Detailed charts & statistics for greenelab/lab-website-template](https://reviewgithub.com/rep/greenelab/lab-website-template)

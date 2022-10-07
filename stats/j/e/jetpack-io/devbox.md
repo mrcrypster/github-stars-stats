@@ -1,16 +1,27 @@
-# jetpack-io/devbox / stars & forks statistics
-
-[Open repository/jetpack-io/devbox](https://github.com/jetpack-io/devbox)
+# jetpack-io/devbox - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 47
+☋ Forks: 50
 
-★ Stars: 3839
+★ Stars: 3907
+
+[Open repository](https://github.com/jetpack-io/devbox)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3907 | 50 | 
+| 2022-10-06 | 3901 | 50 | 
+| 2022-10-05 | 3877 | 49 | 
+| 2022-10-04 | 3876 | 49 | 
+| 2022-10-03 | 3874 | 49 | 
+| 2022-10-02 | 3869 | 49 | 
+| 2022-10-01 | 3868 | 49 | 
+| 2022-09-30 | 3865 | 48 | 
+| 2022-09-29 | 3861 | 47 | 
+| 2022-09-28 | 3854 | 47 | 
+| 2022-09-27 | 3848 | 47 | 
 | 2022-09-26 | 3839 | 47 | 
 | 2022-09-25 | 3828 | 47 | 
 | 2022-09-23 | 3817 | 47 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3528 | 43 | 
 | 2022-09-08 | 3512 | 43 | 
 | 2022-09-07 | 3475 | 43 | 
-| 2022-09-06 | 3415 | 40 | 
-| 2022-09-05 | 3340 | 38 | 
-| 2022-09-04 | 3256 | 37 | 
-| 2022-09-03 | 3166 | 37 | 
-| 2022-09-02 | 3109 | 37 | 
-| 2022-09-01 | 2981 | 37 | 
-| 2022-08-31 | 2853 | 35 | 
-| 2022-08-30 | 2737 | 34 | 
-| 2022-08-29 | 2674 | 33 | 
-| 2022-08-28 | 2303 | 24 | 
-| 2022-08-27 | 1987 | 17 | 
 
 
 [Detailed charts & statistics for jetpack-io/devbox](https://reviewgithub.com/rep/jetpack-io/devbox)

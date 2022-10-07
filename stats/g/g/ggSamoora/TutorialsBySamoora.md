@@ -1,6 +1,4 @@
-# ggSamoora/TutorialsBySamoora / stars & forks statistics
-
-[Open repository/ggSamoora/TutorialsBySamoora](https://github.com/ggSamoora/TutorialsBySamoora)
+# ggSamoora/TutorialsBySamoora - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/ggSamoora/TutorialsBySamoora)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | 6 | 
+| 2022-10-05 | 7 | 6 | 
+| 2022-10-04 | 7 | 6 | 
+| 2022-10-03 | 7 | 6 | 
 | 2022-10-02 | 7 | 6 | 
 | 2022-10-01 | 7 | 6 | 
 | 2022-09-30 | 7 | 6 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 5 | 6 | 
 | 2022-09-09 | 5 | 6 | 
 | 2022-09-08 | 5 | 5 | 
-| 2022-09-07 | 5 | 5 | 
-| 2022-09-06 | 5 | 5 | 
-| 2022-09-05 | 4 | 5 | 
-| 2022-09-04 | 4 | 5 | 
-| 2022-09-03 | 4 | 5 | 
 
 
 [Detailed charts & statistics for ggSamoora/TutorialsBySamoora](https://reviewgithub.com/rep/ggSamoora/TutorialsBySamoora)

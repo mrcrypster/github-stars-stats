@@ -1,12 +1,12 @@
-# Funky-Punky/FPV_SS22_Repetitorium / stars & forks statistics
-
-[Open repository/Funky-Punky/FPV_SS22_Repetitorium](https://github.com/Funky-Punky/FPV_SS22_Repetitorium)
+# Funky-Punky/FPV_SS22_Repetitorium - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 5
+
+[Open repository](https://github.com/Funky-Punky/FPV_SS22_Repetitorium)
 
 ## Historical data
 | Date | Stars | Forks |

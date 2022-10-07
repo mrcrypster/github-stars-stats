@@ -1,12 +1,12 @@
-# TylerPottsDev/yt-js-task-list-2021 / stars & forks statistics
-
-[Open repository/TylerPottsDev/yt-js-task-list-2021](https://github.com/TylerPottsDev/yt-js-task-list-2021)
+# TylerPottsDev/yt-js-task-list-2021 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 68
 
 ★ Stars: 42
+
+[Open repository](https://github.com/TylerPottsDev/yt-js-task-list-2021)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# W4118/f22-tester-hmwk1 / stars & forks statistics
-
-[Open repository/W4118/f22-tester-hmwk1](https://github.com/W4118/f22-tester-hmwk1)
+# W4118/f22-tester-hmwk1 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/W4118/f22-tester-hmwk1)
 
 ## Historical data
 | Date | Stars | Forks |

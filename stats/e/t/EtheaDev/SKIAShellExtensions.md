@@ -1,12 +1,12 @@
-# EtheaDev/SKIAShellExtensions / stars & forks statistics
-
-[Open repository/EtheaDev/SKIAShellExtensions](https://github.com/EtheaDev/SKIAShellExtensions)
+# EtheaDev/SKIAShellExtensions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 21
+
+[Open repository](https://github.com/EtheaDev/SKIAShellExtensions)
 
 ## Historical data
 | Date | Stars | Forks |

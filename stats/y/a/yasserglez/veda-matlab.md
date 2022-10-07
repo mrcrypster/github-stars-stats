@@ -1,12 +1,12 @@
-# yasserglez/veda-matlab / stars & forks statistics
-
-[Open repository/yasserglez/veda-matlab](https://github.com/yasserglez/veda-matlab)
+# yasserglez/veda-matlab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/yasserglez/veda-matlab)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,26 @@
-# denilsonbonatti/toshiro-shibakita / stars & forks statistics
-
-[Open repository/denilsonbonatti/toshiro-shibakita](https://github.com/denilsonbonatti/toshiro-shibakita)
+# denilsonbonatti/toshiro-shibakita - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 470
+☋ Forks: 467
 
-★ Stars: 31
+★ Stars: 32
+
+[Open repository](https://github.com/denilsonbonatti/toshiro-shibakita)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 32 | 467 | 
+| 2022-10-06 | 32 | 468 | 
+| 2022-10-05 | 32 | 467 | 
+| 2022-10-04 | 32 | 468 | 
+| 2022-10-03 | 32 | 468 | 
+| 2022-10-02 | 32 | 468 | 
+| 2022-10-01 | 32 | 469 | 
+| 2022-09-30 | 31 | 469 | 
+| 2022-09-29 | 31 | 470 | 
+| 2022-09-28 | 31 | 470 | 
 | 2022-09-27 | 31 | 470 | 
 | 2022-09-26 | 31 | 471 | 
 | 2022-09-25 | 31 | 470 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 468 | 
 | 2022-09-08 | 29 | 469 | 
 | 2022-09-07 | 29 | 470 | 
-| 2022-09-06 | 28 | 471 | 
-| 2022-09-05 | 28 | 472 | 
-| 2022-09-04 | 28 | 472 | 
-| 2022-09-03 | 28 | 472 | 
-| 2022-09-02 | 28 | 472 | 
-| 2022-09-01 | 28 | 472 | 
-| 2022-08-31 | 28 | 473 | 
-| 2022-08-30 | 28 | 473 | 
-| 2022-08-29 | 28 | 473 | 
-| 2022-08-28 | 23 | 405 | 
 
 
 [Detailed charts & statistics for denilsonbonatti/toshiro-shibakita](https://reviewgithub.com/rep/denilsonbonatti/toshiro-shibakita)

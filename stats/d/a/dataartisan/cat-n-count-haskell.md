@@ -1,12 +1,12 @@
-# dataartisan/cat-n-count-haskell / stars & forks statistics
-
-[Open repository/dataartisan/cat-n-count-haskell](https://github.com/dataartisan/cat-n-count-haskell)
+# dataartisan/cat-n-count-haskell - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/dataartisan/cat-n-count-haskell)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# jimshobe/desktoptest / stars & forks statistics
-
-[Open repository/jimshobe/desktoptest](https://github.com/jimshobe/desktoptest)
+# jimshobe/desktoptest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/jimshobe/desktoptest)
 
 ## Historical data
 | Date | Stars | Forks |

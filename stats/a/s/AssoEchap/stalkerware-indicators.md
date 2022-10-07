@@ -1,16 +1,26 @@
-# AssoEchap/stalkerware-indicators / stars & forks statistics
-
-[Open repository/AssoEchap/stalkerware-indicators](https://github.com/AssoEchap/stalkerware-indicators)
+# AssoEchap/stalkerware-indicators - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
-★ Stars: 122
+★ Stars: 127
+
+[Open repository](https://github.com/AssoEchap/stalkerware-indicators)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 127 | 21 | 
+| 2022-10-06 | 127 | 21 | 
+| 2022-10-05 | 127 | 21 | 
+| 2022-10-04 | 127 | 21 | 
+| 2022-10-03 | 127 | 21 | 
+| 2022-10-02 | 127 | 21 | 
+| 2022-10-01 | 127 | 21 | 
+| 2022-09-30 | 127 | 21 | 
+| 2022-09-29 | 125 | 21 | 
+| 2022-09-28 | 123 | 21 | 
 | 2022-09-27 | 122 | 21 | 
 | 2022-09-26 | 122 | 21 | 
 | 2022-09-25 | 122 | 21 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 118 | 21 | 
 | 2022-09-08 | 118 | 21 | 
 | 2022-09-07 | 118 | 21 | 
-| 2022-09-06 | 118 | 21 | 
-| 2022-09-05 | 118 | 21 | 
-| 2022-09-04 | 118 | 21 | 
-| 2022-09-03 | 118 | 21 | 
-| 2022-09-02 | 118 | 21 | 
-| 2022-09-01 | 118 | 21 | 
-| 2022-08-31 | 117 | 19 | 
-| 2022-08-30 | 118 | 19 | 
-| 2022-08-29 | 117 | 19 | 
-| 2022-08-28 | 117 | 19 | 
 
 
 [Detailed charts & statistics for AssoEchap/stalkerware-indicators](https://reviewgithub.com/rep/AssoEchap/stalkerware-indicators)

@@ -1,12 +1,12 @@
-# emacs-straight/compat / stars & forks statistics
-
-[Open repository/emacs-straight/compat](https://github.com/emacs-straight/compat)
+# emacs-straight/compat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/emacs-straight/compat)
 
 ## Historical data
 | Date | Stars | Forks |

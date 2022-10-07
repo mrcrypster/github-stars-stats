@@ -1,12 +1,12 @@
-# mend/unified-agent / stars & forks statistics
-
-[Open repository/mend/unified-agent](https://github.com/mend/unified-agent)
+# mend/unified-agent - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 50
+
+[Open repository](https://github.com/mend/unified-agent)
 
 ## Historical data
 | Date | Stars | Forks |

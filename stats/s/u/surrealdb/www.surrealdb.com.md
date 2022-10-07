@@ -1,12 +1,12 @@
-# surrealdb/www.surrealdb.com / stars & forks statistics
-
-[Open repository/surrealdb/www.surrealdb.com](https://github.com/surrealdb/www.surrealdb.com)
+# surrealdb/www.surrealdb.com - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 16
+
+[Open repository](https://github.com/surrealdb/www.surrealdb.com)
 
 ## Historical data
 | Date | Stars | Forks |

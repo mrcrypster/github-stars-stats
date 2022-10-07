@@ -1,12 +1,12 @@
-# emacs-straight/corfu / stars & forks statistics
-
-[Open repository/emacs-straight/corfu](https://github.com/emacs-straight/corfu)
+# emacs-straight/corfu - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/emacs-straight/corfu)
 
 ## Historical data
 | Date | Stars | Forks |

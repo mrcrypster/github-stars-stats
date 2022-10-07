@@ -1,12 +1,12 @@
-# Daddeee/FOR_Labs_22-23 / stars & forks statistics
-
-[Open repository/Daddeee/FOR_Labs_22-23](https://github.com/Daddeee/FOR_Labs_22-23)
+# Daddeee/FOR_Labs_22-23 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 16
+
+[Open repository](https://github.com/Daddeee/FOR_Labs_22-23)
 
 ## Historical data
 | Date | Stars | Forks |

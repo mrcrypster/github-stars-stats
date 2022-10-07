@@ -1,12 +1,12 @@
-# delahee/volute / stars & forks statistics
-
-[Open repository/delahee/volute](https://github.com/delahee/volute)
+# delahee/volute - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
+
+[Open repository](https://github.com/delahee/volute)
 
 ## Historical data
 | Date | Stars | Forks |

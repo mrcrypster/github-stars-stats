@@ -1,12 +1,12 @@
-# tylerjl/benchmarking-proxies / stars & forks statistics
-
-[Open repository/tylerjl/benchmarking-proxies](https://github.com/tylerjl/benchmarking-proxies)
+# tylerjl/benchmarking-proxies - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 20
+
+[Open repository](https://github.com/tylerjl/benchmarking-proxies)
 
 ## Historical data
 | Date | Stars | Forks |

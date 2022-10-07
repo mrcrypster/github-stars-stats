@@ -1,16 +1,27 @@
-# LandmakTechnology/package-management / stars & forks statistics
-
-[Open repository/LandmakTechnology/package-management](https://github.com/LandmakTechnology/package-management)
+# LandmakTechnology/package-management - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2328
+☋ Forks: 2357
 
-★ Stars: 16
+★ Stars: 17
+
+[Open repository](https://github.com/LandmakTechnology/package-management)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 17 | 2357 | 
+| 2022-10-05 | 17 | 2356 | 
+| 2022-10-04 | 17 | 2355 | 
+| 2022-10-03 | 17 | 2354 | 
+| 2022-10-02 | 17 | 2353 | 
+| 2022-10-01 | 17 | 2350 | 
+| 2022-09-30 | 16 | 2343 | 
+| 2022-09-29 | 16 | 2345 | 
+| 2022-09-28 | 16 | 2340 | 
+| 2022-09-27 | 16 | 2336 | 
+| 2022-09-26 | 16 | 2331 | 
 | 2022-09-25 | 16 | 2328 | 
 | 2022-09-24 | 16 | 2324 | 
 | 2022-09-23 | 16 | 2318 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 13 | 2053 | 
 | 2022-09-09 | 13 | 2036 | 
 | 2022-09-08 | 13 | 2026 | 
-| 2022-09-07 | 13 | 2006 | 
-| 2022-09-06 | 13 | 1980 | 
-| 2022-09-05 | 13 | 1921 | 
-| 2022-09-04 | 13 | 1903 | 
-| 2022-09-03 | 13 | 1883 | 
-| 2022-09-02 | 13 | 1873 | 
-| 2022-09-01 | 12 | 1846 | 
-| 2022-08-31 | 12 | 1834 | 
-| 2022-08-30 | 12 | 1786 | 
-| 2022-08-29 | 12 | 1718 | 
-| 2022-08-28 | 11 | 1705 | 
-| 2022-08-27 | 11 | 1695 | 
 
 
 [Detailed charts & statistics for LandmakTechnology/package-management](https://reviewgithub.com/rep/LandmakTechnology/package-management)

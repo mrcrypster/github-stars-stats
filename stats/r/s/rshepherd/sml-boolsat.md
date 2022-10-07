@@ -1,12 +1,12 @@
-# rshepherd/sml-boolsat / stars & forks statistics
-
-[Open repository/rshepherd/sml-boolsat](https://github.com/rshepherd/sml-boolsat)
+# rshepherd/sml-boolsat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/rshepherd/sml-boolsat)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# 34306/JailedSpeedAds / stars & forks statistics
-
-[Open repository/34306/JailedSpeedAds](https://github.com/34306/JailedSpeedAds)
+# 34306/JailedSpeedAds - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 13
+
+[Open repository](https://github.com/34306/JailedSpeedAds)
 
 ## Historical data
 | Date | Stars | Forks |

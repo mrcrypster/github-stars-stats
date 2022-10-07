@@ -1,16 +1,29 @@
-# geerlingguy/pi-router / stars & forks statistics
-
-[Open repository/geerlingguy/pi-router](https://github.com/geerlingguy/pi-router)
+# geerlingguy/pi-router - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 54
+★ Stars: 57
+
+[Open repository](https://github.com/geerlingguy/pi-router)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 57 | 1 | 
+| 2022-10-06 | 57 | 1 | 
+| 2022-10-05 | 56 | 1 | 
+| 2022-10-04 | 56 | 1 | 
+| 2022-10-03 | 56 | 1 | 
+| 2022-10-02 | 56 | 1 | 
+| 2022-10-01 | 55 | 1 | 
+| 2022-09-30 | 55 | 1 | 
+| 2022-09-29 | 54 | 1 | 
+| 2022-09-28 | 54 | 1 | 
+| 2022-09-27 | 54 | 1 | 
+| 2022-09-26 | 54 | 1 | 
+| 2022-09-25 | 54 | 1 | 
 | 2022-09-24 | 54 | 1 | 
 | 2022-09-23 | 54 | 1 | 
 | 2022-09-22 | 53 | 1 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 51 | 1 | 
 | 2022-09-08 | 50 | 1 | 
 | 2022-09-07 | 50 | 1 | 
-| 2022-09-06 | 50 | 1 | 
-| 2022-09-05 | 49 | 1 | 
-| 2022-09-04 | 49 | 1 | 
-| 2022-09-03 | 49 | 1 | 
-| 2022-09-02 | 49 | 1 | 
-| 2022-09-01 | 49 | 1 | 
-| 2022-08-31 | 48 | 1 | 
-| 2022-08-30 | 45 | 1 | 
-| 2022-08-29 | 45 | 1 | 
-| 2022-08-28 | 44 | 1 | 
-| 2022-08-27 | 40 | 1 | 
-| 2022-08-26 | 39 | 1 | 
-| 2022-08-25 | 39 | 1 | 
 
 
 [Detailed charts & statistics for geerlingguy/pi-router](https://reviewgithub.com/rep/geerlingguy/pi-router)

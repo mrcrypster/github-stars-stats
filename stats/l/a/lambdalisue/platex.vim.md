@@ -1,12 +1,12 @@
-# lambdalisue/platex.vim / stars & forks statistics
-
-[Open repository/lambdalisue/platex.vim](https://github.com/lambdalisue/platex.vim)
+# lambdalisue/platex.vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/lambdalisue/platex.vim)
 
 ## Historical data
 | Date | Stars | Forks |

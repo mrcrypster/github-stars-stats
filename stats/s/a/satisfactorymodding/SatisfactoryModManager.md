@@ -1,6 +1,4 @@
-# satisfactorymodding/SatisfactoryModManager / stars & forks statistics
-
-[Open repository/satisfactorymodding/SatisfactoryModManager](https://github.com/satisfactorymodding/SatisfactoryModManager)
+# satisfactorymodding/SatisfactoryModManager - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 237
 
+[Open repository](https://github.com/satisfactorymodding/SatisfactoryModManager)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 237 | 69 | 
+| 2022-10-05 | 237 | 69 | 
 | 2022-10-04 | 237 | 69 | 
 | 2022-10-03 | 237 | 69 | 
 | 2022-10-02 | 237 | 69 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 234 | 69 | 
 | 2022-09-09 | 234 | 69 | 
 | 2022-09-08 | 234 | 69 | 
-| 2022-09-07 | 234 | 69 | 
-| 2022-09-06 | 234 | 69 | 
-| 2022-09-05 | 234 | 69 | 
 
 
 [Detailed charts & statistics for satisfactorymodding/SatisfactoryModManager](https://reviewgithub.com/rep/satisfactorymodding/SatisfactoryModManager)

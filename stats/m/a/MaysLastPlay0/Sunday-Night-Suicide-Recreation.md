@@ -1,12 +1,12 @@
-# MaysLastPlay0/Sunday-Night-Suicide-Recreation / stars & forks statistics
-
-[Open repository/MaysLastPlay0/Sunday-Night-Suicide-Recreation](https://github.com/MaysLastPlay0/Sunday-Night-Suicide-Recreation)
+# MaysLastPlay0/Sunday-Night-Suicide-Recreation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 2
+
+[Open repository](https://github.com/MaysLastPlay0/Sunday-Night-Suicide-Recreation)
 
 ## Historical data
 | Date | Stars | Forks |

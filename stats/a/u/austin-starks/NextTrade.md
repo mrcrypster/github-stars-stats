@@ -1,12 +1,12 @@
-# austin-starks/NextTrade / stars & forks statistics
-
-[Open repository/austin-starks/NextTrade](https://github.com/austin-starks/NextTrade)
+# austin-starks/NextTrade - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 189
+
+[Open repository](https://github.com/austin-starks/NextTrade)
 
 ## Historical data
 | Date | Stars | Forks |

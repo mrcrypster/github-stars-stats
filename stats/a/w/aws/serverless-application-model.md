@@ -1,16 +1,31 @@
-# aws/serverless-application-model / stars & forks statistics
-
-[Open repository/aws/serverless-application-model](https://github.com/aws/serverless-application-model)
+# aws/serverless-application-model - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2240
+☋ Forks: 2251
 
-★ Stars: 8732
+★ Stars: 8759
+
+[Open repository](https://github.com/aws/serverless-application-model)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8759 | 2251 | 
+| 2022-10-06 | 8758 | 2251 | 
+| 2022-10-05 | 8756 | 2250 | 
+| 2022-10-04 | 8755 | 2247 | 
+| 2022-10-03 | 8755 | 2246 | 
+| 2022-10-02 | 8755 | 2246 | 
+| 2022-10-01 | 8752 | 2246 | 
+| 2022-09-30 | 8750 | 2245 | 
+| 2022-09-29 | 8744 | 2243 | 
+| 2022-09-28 | 8742 | 2242 | 
+| 2022-09-27 | 8741 | 2243 | 
+| 2022-09-26 | 8739 | 2241 | 
+| 2022-09-25 | 8738 | 2241 | 
+| 2022-09-24 | 8738 | 2241 | 
+| 2022-09-23 | 8735 | 2241 | 
 | 2022-09-22 | 8732 | 2240 | 
 | 2022-09-21 | 8731 | 2240 | 
 | 2022-09-20 | 8729 | 2242 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 8718 | 2237 | 
 | 2022-09-08 | 8718 | 2237 | 
 | 2022-09-07 | 8716 | 2236 | 
-| 2022-09-06 | 8714 | 2236 | 
-| 2022-09-05 | 8711 | 2235 | 
-| 2022-09-04 | 8711 | 2235 | 
-| 2022-09-03 | 8709 | 2234 | 
-| 2022-09-02 | 8710 | 2234 | 
-| 2022-09-01 | 8707 | 2233 | 
-| 2022-08-31 | 8704 | 2233 | 
-| 2022-08-30 | 8704 | 2231 | 
-| 2022-08-29 | 8700 | 2231 | 
-| 2022-08-28 | 8697 | 2231 | 
-| 2022-08-27 | 8697 | 2231 | 
-| 2022-08-26 | 8696 | 2230 | 
-| 2022-08-25 | 8695 | 2230 | 
-| 2022-08-24 | 8692 | 2230 | 
-| 2022-08-23 | 8690 | 2230 | 
 
 
 [Detailed charts & statistics for aws/serverless-application-model](https://reviewgithub.com/rep/aws/serverless-application-model)

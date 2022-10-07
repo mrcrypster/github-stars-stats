@@ -1,16 +1,27 @@
-# laravel/vapor-docs / stars & forks statistics
-
-[Open repository/laravel/vapor-docs](https://github.com/laravel/vapor-docs)
+# laravel/vapor-docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 44
+
+[Open repository](https://github.com/laravel/vapor-docs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 44 | 48 | 
+| 2022-10-06 | 44 | 48 | 
+| 2022-10-05 | 44 | 48 | 
+| 2022-10-04 | 44 | 48 | 
+| 2022-10-03 | 44 | 48 | 
+| 2022-10-02 | 44 | 48 | 
+| 2022-10-01 | 44 | 48 | 
+| 2022-09-30 | 44 | 47 | 
+| 2022-09-29 | 44 | 47 | 
+| 2022-09-28 | 44 | 47 | 
+| 2022-09-27 | 44 | 47 | 
 | 2022-09-26 | 44 | 47 | 
 | 2022-09-25 | 44 | 47 | 
 | 2022-09-24 | 44 | 47 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 44 | 47 | 
 | 2022-09-08 | 44 | 47 | 
 | 2022-09-07 | 44 | 47 | 
-| 2022-09-06 | 44 | 47 | 
-| 2022-09-05 | 44 | 47 | 
-| 2022-09-04 | 44 | 47 | 
-| 2022-09-03 | 44 | 47 | 
-| 2022-09-02 | 44 | 47 | 
-| 2022-09-01 | 44 | 47 | 
-| 2022-08-31 | 44 | 47 | 
-| 2022-08-30 | 43 | 47 | 
-| 2022-08-29 | 43 | 47 | 
-| 2022-08-28 | 43 | 47 | 
-| 2022-08-27 | 43 | 47 | 
 
 
 [Detailed charts & statistics for laravel/vapor-docs](https://reviewgithub.com/rep/laravel/vapor-docs)

@@ -1,34 +1,16 @@
-# Zusyaku/Database-Leak / stars & forks statistics
-
-[Open repository/Zusyaku/Database-Leak](https://github.com/Zusyaku/Database-Leak)
+# Zusyaku/Database-Leak - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 28
+☋ Forks: 
 
-★ Stars: 42
+★ Stars: 
+
+[Open repository](https://github.com/Zusyaku/Database-Leak)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-22 | 42 | 28 | 
-| 2022-07-21 | 41 | 28 | 
-| 2022-07-20 | 41 | 28 | 
-| 2022-07-19 | 41 | 28 | 
-| 2022-07-18 | 40 | 28 | 
-| 2022-07-17 | 39 | 28 | 
-| 2022-07-16 | 39 | 28 | 
-| 2022-07-15 | 39 | 28 | 
-| 2022-07-14 | 39 | 28 | 
-| 2022-07-13 | 39 | 28 | 
-| 2022-07-12 | 39 | 28 | 
-| 2022-07-11 | 39 | 28 | 
-| 2022-07-10 | 38 | 28 | 
-| 2022-07-09 | 38 | 28 | 
-| 2022-07-08 | 38 | 28 | 
-| 2022-07-07 | 36 | 28 | 
-| 2022-07-06 | 35 | 28 | 
-| 2022-07-05 | 34 | 27 | 
 
 
 [Detailed charts & statistics for Zusyaku/Database-Leak](https://reviewgithub.com/rep/Zusyaku/Database-Leak)

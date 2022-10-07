@@ -1,12 +1,12 @@
-# JacquiM/CMPG-323-IOT-Device-Management / stars & forks statistics
-
-[Open repository/JacquiM/CMPG-323-IOT-Device-Management](https://github.com/JacquiM/CMPG-323-IOT-Device-Management)
+# JacquiM/CMPG-323-IOT-Device-Management - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 224
 
 ★ Stars: 5
+
+[Open repository](https://github.com/JacquiM/CMPG-323-IOT-Device-Management)
 
 ## Historical data
 | Date | Stars | Forks |

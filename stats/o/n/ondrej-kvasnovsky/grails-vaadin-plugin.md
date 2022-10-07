@@ -1,6 +1,4 @@
-# ondrej-kvasnovsky/grails-vaadin-plugin / stars & forks statistics
-
-[Open repository/ondrej-kvasnovsky/grails-vaadin-plugin](https://github.com/ondrej-kvasnovsky/grails-vaadin-plugin)
+# ondrej-kvasnovsky/grails-vaadin-plugin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 51
 
+[Open repository](https://github.com/ondrej-kvasnovsky/grails-vaadin-plugin)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 51 | 28 | 
+| 2022-10-05 | 51 | 28 | 
+| 2022-10-04 | 51 | 28 | 
+| 2022-10-03 | 51 | 28 | 
+| 2022-10-02 | 51 | 28 | 
+| 2022-10-01 | 51 | 28 | 
+| 2022-09-30 | 51 | 28 | 
 | 2022-09-29 | 51 | 28 | 
 | 2022-09-28 | 51 | 28 | 
 | 2022-09-27 | 51 | 28 | 
@@ -34,13 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 51 | 28 | 
 | 2022-09-08 | 51 | 28 | 
 | 2022-09-07 | 51 | 28 | 
-| 2022-09-06 | 51 | 28 | 
-| 2022-09-05 | 51 | 28 | 
-| 2022-09-04 | 51 | 28 | 
-| 2022-09-03 | 51 | 28 | 
-| 2022-09-02 | 51 | 28 | 
-| 2022-09-01 | 51 | 28 | 
-| 2022-08-31 | 51 | 28 | 
 
 
 [Detailed charts & statistics for ondrej-kvasnovsky/grails-vaadin-plugin](https://reviewgithub.com/rep/ondrej-kvasnovsky/grails-vaadin-plugin)

@@ -1,16 +1,29 @@
-# rougier/org-bib-mode / stars & forks statistics
-
-[Open repository/rougier/org-bib-mode](https://github.com/rougier/org-bib-mode)
+# rougier/org-bib-mode - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
-★ Stars: 110
+★ Stars: 112
+
+[Open repository](https://github.com/rougier/org-bib-mode)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 112 | 7 | 
+| 2022-10-06 | 112 | 7 | 
+| 2022-10-05 | 112 | 7 | 
+| 2022-10-04 | 112 | 7 | 
+| 2022-10-03 | 112 | 7 | 
+| 2022-10-02 | 112 | 7 | 
+| 2022-10-01 | 112 | 7 | 
+| 2022-09-30 | 111 | 7 | 
+| 2022-09-29 | 111 | 7 | 
+| 2022-09-28 | 111 | 7 | 
+| 2022-09-27 | 111 | 7 | 
+| 2022-09-26 | 110 | 7 | 
+| 2022-09-25 | 110 | 7 | 
 | 2022-09-24 | 110 | 7 | 
 | 2022-09-23 | 110 | 7 | 
 | 2022-09-22 | 110 | 7 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 109 | 7 | 
 | 2022-09-08 | 109 | 7 | 
 | 2022-09-07 | 109 | 7 | 
-| 2022-09-06 | 109 | 7 | 
-| 2022-09-05 | 109 | 7 | 
-| 2022-09-04 | 109 | 7 | 
-| 2022-09-03 | 109 | 7 | 
-| 2022-09-02 | 108 | 7 | 
-| 2022-09-01 | 107 | 7 | 
-| 2022-08-31 | 107 | 7 | 
-| 2022-08-30 | 106 | 7 | 
-| 2022-08-29 | 105 | 7 | 
-| 2022-08-28 | 103 | 7 | 
-| 2022-08-27 | 103 | 7 | 
-| 2022-08-26 | 101 | 7 | 
-| 2022-08-25 | 101 | 7 | 
 
 
 [Detailed charts & statistics for rougier/org-bib-mode](https://reviewgithub.com/rep/rougier/org-bib-mode)

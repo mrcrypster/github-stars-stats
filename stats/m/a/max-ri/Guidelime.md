@@ -1,6 +1,4 @@
-# max-ri/Guidelime / stars & forks statistics
-
-[Open repository/max-ri/Guidelime](https://github.com/max-ri/Guidelime)
+# max-ri/Guidelime - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 141
 
+[Open repository](https://github.com/max-ri/Guidelime)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 141 | 32 | 
+| 2022-10-05 | 141 | 32 | 
+| 2022-10-04 | 141 | 32 | 
+| 2022-10-03 | 141 | 32 | 
+| 2022-10-02 | 141 | 32 | 
+| 2022-10-01 | 141 | 32 | 
+| 2022-09-30 | 141 | 32 | 
 | 2022-09-29 | 141 | 32 | 
 | 2022-09-28 | 141 | 32 | 
 | 2022-09-27 | 141 | 32 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 140 | 32 | 
 | 2022-09-09 | 140 | 32 | 
 | 2022-09-08 | 140 | 32 | 
-| 2022-09-07 | 140 | 32 | 
-| 2022-09-06 | 140 | 32 | 
-| 2022-09-05 | 139 | 30 | 
-| 2022-09-04 | 139 | 30 | 
-| 2022-09-03 | 138 | 30 | 
-| 2022-09-02 | 138 | 30 | 
-| 2022-09-01 | 139 | 30 | 
-| 2022-08-31 | 139 | 30 | 
 
 
 [Detailed charts & statistics for max-ri/Guidelime](https://reviewgithub.com/rep/max-ri/Guidelime)

@@ -1,12 +1,12 @@
-# samcrow/Challenger604Plugin / stars & forks statistics
-
-[Open repository/samcrow/Challenger604Plugin](https://github.com/samcrow/Challenger604Plugin)
+# samcrow/Challenger604Plugin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/samcrow/Challenger604Plugin)
 
 ## Historical data
 | Date | Stars | Forks |

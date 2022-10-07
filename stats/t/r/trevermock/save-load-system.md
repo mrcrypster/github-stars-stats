@@ -1,16 +1,33 @@
-# trevermock/save-load-system / stars & forks statistics
-
-[Open repository/trevermock/save-load-system](https://github.com/trevermock/save-load-system)
+# trevermock/save-load-system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 17
+★ Stars: 20
+
+[Open repository](https://github.com/trevermock/save-load-system)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | 14 | 
+| 2022-10-06 | 20 | 13 | 
+| 2022-10-05 | 20 | 13 | 
+| 2022-10-04 | 19 | 13 | 
+| 2022-10-03 | 18 | 13 | 
+| 2022-10-02 | 18 | 13 | 
+| 2022-10-01 | 18 | 13 | 
+| 2022-09-30 | 18 | 13 | 
+| 2022-09-29 | 18 | 13 | 
+| 2022-09-28 | 18 | 13 | 
+| 2022-09-27 | 18 | 13 | 
+| 2022-09-26 | 18 | 13 | 
+| 2022-09-25 | 18 | 13 | 
+| 2022-09-24 | 18 | 13 | 
+| 2022-09-23 | 18 | 13 | 
+| 2022-09-22 | 18 | 13 | 
+| 2022-09-21 | 17 | 13 | 
 | 2022-09-20 | 17 | 13 | 
 | 2022-09-19 | 17 | 13 | 
 | 2022-09-18 | 17 | 13 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 14 | 13 | 
 | 2022-09-08 | 14 | 13 | 
 | 2022-09-07 | 13 | 13 | 
-| 2022-09-06 | 13 | 13 | 
-| 2022-09-05 | 13 | 13 | 
-| 2022-09-04 | 13 | 13 | 
-| 2022-09-03 | 13 | 13 | 
-| 2022-09-02 | 13 | 13 | 
-| 2022-09-01 | 13 | 13 | 
-| 2022-08-31 | 13 | 13 | 
-| 2022-08-30 | 13 | 12 | 
-| 2022-08-29 | 13 | 12 | 
-| 2022-08-28 | 12 | 12 | 
-| 2022-08-27 | 12 | 12 | 
-| 2022-08-26 | 12 | 12 | 
-| 2022-08-25 | 12 | 12 | 
-| 2022-08-24 | 12 | 12 | 
-| 2022-08-23 | 12 | 12 | 
-| 2022-08-22 | 11 | 12 | 
-| 2022-08-21 | 11 | 12 | 
 
 
 [Detailed charts & statistics for trevermock/save-load-system](https://reviewgithub.com/rep/trevermock/save-load-system)

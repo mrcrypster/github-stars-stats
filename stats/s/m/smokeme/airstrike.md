@@ -1,12 +1,12 @@
-# smokeme/airstrike / stars & forks statistics
-
-[Open repository/smokeme/airstrike](https://github.com/smokeme/airstrike)
+# smokeme/airstrike - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 59
+
+[Open repository](https://github.com/smokeme/airstrike)
 
 ## Historical data
 | Date | Stars | Forks |

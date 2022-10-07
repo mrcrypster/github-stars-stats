@@ -1,6 +1,4 @@
-# human-se/rails-demos-n-deets-2023-apps / stars & forks statistics
-
-[Open repository/human-se/rails-demos-n-deets-2023-apps](https://github.com/human-se/rails-demos-n-deets-2023-apps)
+# human-se/rails-demos-n-deets-2023-apps - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/human-se/rails-demos-n-deets-2023-apps)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 5 | 
+| 2022-10-05 | - | 5 | 
+| 2022-10-04 | - | 5 | 
+| 2022-10-03 | - | 5 | 
+| 2022-10-02 | - | 5 | 
+| 2022-10-01 | - | 5 | 
+| 2022-09-30 | - | 5 | 
+| 2022-09-29 | - | 5 | 
+| 2022-09-28 | - | 5 | 
 | 2022-09-27 | - | 5 | 
 | 2022-09-26 | - | 5 | 
 | 2022-09-25 | - | 5 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 5 | 
 | 2022-09-09 | - | 5 | 
 | 2022-09-08 | - | 5 | 
-| 2022-09-07 | - | 4 | 
-| 2022-09-06 | - | 4 | 
-| 2022-09-05 | - | 4 | 
-| 2022-09-04 | - | 4 | 
-| 2022-09-03 | - | 4 | 
-| 2022-09-02 | - | 4 | 
-| 2022-09-01 | - | 4 | 
-| 2022-08-31 | - | 2 | 
-| 2022-08-30 | - | 1 | 
-| 2022-08-29 | - | 1 | 
 
 
 [Detailed charts & statistics for human-se/rails-demos-n-deets-2023-apps](https://reviewgithub.com/rep/human-se/rails-demos-n-deets-2023-apps)

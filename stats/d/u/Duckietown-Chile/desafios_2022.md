@@ -1,12 +1,12 @@
-# Duckietown-Chile/desafios_2022 / stars & forks statistics
-
-[Open repository/Duckietown-Chile/desafios_2022](https://github.com/Duckietown-Chile/desafios_2022)
+# Duckietown-Chile/desafios_2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Duckietown-Chile/desafios_2022)
 
 ## Historical data
 | Date | Stars | Forks |

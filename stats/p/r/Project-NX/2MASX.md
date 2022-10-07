@@ -1,16 +1,29 @@
-# Project-NX/2MASX / stars & forks statistics
-
-[Open repository/Project-NX/2MASX](https://github.com/Project-NX/2MASX)
+# Project-NX/2MASX - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 1
+★ Stars: 3
+
+[Open repository](https://github.com/Project-NX/2MASX)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 5 | 
+| 2022-10-06 | 1 | 3 | 
+| 2022-10-05 | 1 | 3 | 
+| 2022-10-04 | 1 | 3 | 
+| 2022-10-03 | 1 | 3 | 
+| 2022-10-02 | 1 | 3 | 
+| 2022-10-01 | 1 | 3 | 
+| 2022-09-30 | 1 | 3 | 
+| 2022-09-29 | 1 | 3 | 
+| 2022-09-28 | 1 | 3 | 
+| 2022-09-27 | 1 | 3 | 
+| 2022-09-26 | 1 | 3 | 
+| 2022-09-25 | 1 | 3 | 
 | 2022-09-24 | 1 | 3 | 
 | 2022-09-23 | 1 | 3 | 
 | 2022-09-22 | 1 | 3 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1 | 3 | 
 | 2022-09-08 | 1 | 3 | 
 | 2022-09-07 | 1 | 3 | 
-| 2022-09-06 | 1 | 3 | 
-| 2022-09-05 | 1 | 3 | 
-| 2022-09-04 | 1 | 3 | 
-| 2022-09-03 | 1 | 3 | 
-| 2022-09-02 | 1 | 3 | 
-| 2022-09-01 | 1 | 3 | 
-| 2022-08-31 | 1 | 3 | 
-| 2022-08-30 | 1 | 3 | 
-| 2022-08-29 | 1 | 3 | 
-| 2022-08-28 | 1 | 3 | 
-| 2022-08-27 | 1 | 3 | 
-| 2022-08-26 | - | 3 | 
-| 2022-08-25 | - | 3 | 
 
 
 [Detailed charts & statistics for Project-NX/2MASX](https://reviewgithub.com/rep/Project-NX/2MASX)

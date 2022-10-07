@@ -1,16 +1,27 @@
-# EdOverflow/can-i-take-over-xyz / stars & forks statistics
-
-[Open repository/EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+# EdOverflow/can-i-take-over-xyz - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 579
+☋ Forks: 580
 
-★ Stars: 3318
+★ Stars: 3342
+
+[Open repository](https://github.com/EdOverflow/can-i-take-over-xyz)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3342 | 580 | 
+| 2022-10-06 | 3339 | 579 | 
+| 2022-10-05 | 3335 | 579 | 
+| 2022-10-04 | 3333 | 579 | 
+| 2022-10-03 | 3332 | 578 | 
+| 2022-10-02 | 3329 | 578 | 
+| 2022-10-01 | 3329 | 578 | 
+| 2022-09-30 | 3326 | 577 | 
+| 2022-09-29 | 3325 | 578 | 
+| 2022-09-28 | 3324 | 578 | 
+| 2022-09-27 | 3320 | 579 | 
 | 2022-09-26 | 3318 | 579 | 
 | 2022-09-25 | 3317 | 579 | 
 | 2022-09-24 | 3314 | 579 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3287 | 573 | 
 | 2022-09-08 | 3284 | 573 | 
 | 2022-09-07 | 3284 | 573 | 
-| 2022-09-06 | 3284 | 571 | 
-| 2022-09-05 | 3281 | 571 | 
-| 2022-09-04 | 3274 | 568 | 
-| 2022-09-03 | 3272 | 568 | 
-| 2022-09-02 | 3270 | 568 | 
-| 2022-09-01 | 3269 | 567 | 
-| 2022-08-31 | 3266 | 567 | 
-| 2022-08-30 | 3263 | 567 | 
-| 2022-08-29 | 3260 | 566 | 
-| 2022-08-28 | 3259 | 566 | 
-| 2022-08-27 | 3258 | 566 | 
 
 
 [Detailed charts & statistics for EdOverflow/can-i-take-over-xyz](https://reviewgithub.com/rep/EdOverflow/can-i-take-over-xyz)

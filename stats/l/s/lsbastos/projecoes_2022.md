@@ -1,12 +1,12 @@
-# lsbastos/projecoes_2022 / stars & forks statistics
-
-[Open repository/lsbastos/projecoes_2022](https://github.com/lsbastos/projecoes_2022)
+# lsbastos/projecoes_2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 12
+
+[Open repository](https://github.com/lsbastos/projecoes_2022)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# puruagarwal1/hacktoberfest-2022-directory / stars & forks statistics
-
-[Open repository/puruagarwal1/hacktoberfest-2022-directory](https://github.com/puruagarwal1/hacktoberfest-2022-directory)
+# puruagarwal1/hacktoberfest-2022-directory - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 88
 
 ★ Stars: 32
+
+[Open repository](https://github.com/puruagarwal1/hacktoberfest-2022-directory)
 
 ## Historical data
 | Date | Stars | Forks |

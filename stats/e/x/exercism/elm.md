@@ -1,12 +1,12 @@
-# exercism/elm / stars & forks statistics
-
-[Open repository/exercism/elm](https://github.com/exercism/elm)
+# exercism/elm - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 100
 
 ★ Stars: 127
+
+[Open repository](https://github.com/exercism/elm)
 
 ## Historical data
 | Date | Stars | Forks |

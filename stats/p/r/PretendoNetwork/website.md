@@ -1,12 +1,12 @@
-# PretendoNetwork/website / stars & forks statistics
-
-[Open repository/PretendoNetwork/website](https://github.com/PretendoNetwork/website)
+# PretendoNetwork/website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 19
+
+[Open repository](https://github.com/PretendoNetwork/website)
 
 ## Historical data
 | Date | Stars | Forks |

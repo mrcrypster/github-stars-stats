@@ -1,12 +1,12 @@
-# vipo/bimaru-client / stars & forks statistics
-
-[Open repository/vipo/bimaru-client](https://github.com/vipo/bimaru-client)
+# vipo/bimaru-client - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/vipo/bimaru-client)
 
 ## Historical data
 | Date | Stars | Forks |

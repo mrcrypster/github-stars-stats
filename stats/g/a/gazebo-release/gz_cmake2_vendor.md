@@ -1,12 +1,12 @@
-# gazebo-release/gz_cmake2_vendor / stars & forks statistics
-
-[Open repository/gazebo-release/gz_cmake2_vendor](https://github.com/gazebo-release/gz_cmake2_vendor)
+# gazebo-release/gz_cmake2_vendor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 1
+
+[Open repository](https://github.com/gazebo-release/gz_cmake2_vendor)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,32 @@
-# sandhikagalih/belajar-webpack-code / stars & forks statistics
-
-[Open repository/sandhikagalih/belajar-webpack-code](https://github.com/sandhikagalih/belajar-webpack-code)
+# sandhikagalih/belajar-webpack-code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 28
+☋ Forks: 33
 
-★ Stars: 47
+★ Stars: 52
+
+[Open repository](https://github.com/sandhikagalih/belajar-webpack-code)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 52 | 33 | 
+| 2022-10-06 | 52 | 33 | 
+| 2022-10-05 | 51 | 33 | 
+| 2022-10-04 | 51 | 32 | 
+| 2022-10-03 | 50 | 32 | 
+| 2022-10-02 | 50 | 31 | 
+| 2022-10-01 | 50 | 30 | 
+| 2022-09-30 | 49 | 30 | 
+| 2022-09-29 | 49 | 30 | 
+| 2022-09-28 | 49 | 30 | 
+| 2022-09-27 | 49 | 30 | 
+| 2022-09-26 | 48 | 30 | 
+| 2022-09-25 | 48 | 30 | 
+| 2022-09-24 | 48 | 30 | 
+| 2022-09-23 | 48 | 31 | 
+| 2022-09-21 | 48 | 29 | 
 | 2022-09-20 | 47 | 28 | 
 | 2022-09-19 | 47 | 27 | 
 | 2022-09-18 | 45 | 26 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 39 | 19 | 
 | 2022-09-08 | 38 | 18 | 
 | 2022-09-07 | 38 | 18 | 
-| 2022-09-06 | 38 | 18 | 
-| 2022-09-05 | 38 | 18 | 
-| 2022-09-04 | 37 | 18 | 
-| 2022-09-03 | 36 | 16 | 
-| 2022-09-02 | 35 | 16 | 
-| 2022-09-01 | 35 | 16 | 
-| 2022-08-31 | 34 | 15 | 
-| 2022-08-30 | 34 | 12 | 
-| 2022-08-29 | 32 | 11 | 
-| 2022-08-28 | 31 | 11 | 
-| 2022-08-27 | 30 | 11 | 
-| 2022-08-26 | 27 | 10 | 
-| 2022-08-25 | 26 | 10 | 
-| 2022-08-24 | 25 | 10 | 
-| 2022-08-23 | 24 | 7 | 
-| 2022-08-22 | 21 | 7 | 
 
 
 [Detailed charts & statistics for sandhikagalih/belajar-webpack-code](https://reviewgithub.com/rep/sandhikagalih/belajar-webpack-code)

@@ -1,12 +1,12 @@
-# DaoChen6/IF-XTW / stars & forks statistics
-
-[Open repository/DaoChen6/IF-XTW](https://github.com/DaoChen6/IF-XTW)
+# DaoChen6/IF-XTW - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/DaoChen6/IF-XTW)
 
 ## Historical data
 | Date | Stars | Forks |

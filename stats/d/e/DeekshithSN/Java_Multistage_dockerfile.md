@@ -1,16 +1,33 @@
-# DeekshithSN/Java_Multistage_dockerfile / stars & forks statistics
-
-[Open repository/DeekshithSN/Java_Multistage_dockerfile](https://github.com/DeekshithSN/Java_Multistage_dockerfile)
+# DeekshithSN/Java_Multistage_dockerfile - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 143
+☋ Forks: 147
 
 ★ Stars: 3
+
+[Open repository](https://github.com/DeekshithSN/Java_Multistage_dockerfile)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 147 | 
+| 2022-10-06 | 3 | 147 | 
+| 2022-10-05 | 3 | 147 | 
+| 2022-10-04 | 3 | 147 | 
+| 2022-10-03 | 3 | 147 | 
+| 2022-10-02 | 3 | 147 | 
+| 2022-10-01 | 3 | 146 | 
+| 2022-09-30 | 3 | 146 | 
+| 2022-09-29 | 3 | 146 | 
+| 2022-09-28 | 3 | 146 | 
+| 2022-09-27 | 3 | 146 | 
+| 2022-09-26 | 3 | 146 | 
+| 2022-09-25 | 3 | 145 | 
+| 2022-09-24 | 3 | 145 | 
+| 2022-09-23 | 3 | 145 | 
+| 2022-09-22 | 3 | 144 | 
+| 2022-09-21 | 3 | 144 | 
 | 2022-09-20 | 3 | 143 | 
 | 2022-09-19 | 3 | 143 | 
 | 2022-09-18 | 3 | 143 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3 | 141 | 
 | 2022-09-08 | 3 | 141 | 
 | 2022-09-07 | 3 | 140 | 
-| 2022-09-06 | 3 | 140 | 
-| 2022-09-05 | 3 | 140 | 
-| 2022-09-04 | 3 | 140 | 
-| 2022-09-03 | 3 | 140 | 
-| 2022-09-02 | 3 | 140 | 
-| 2022-09-01 | 3 | 140 | 
-| 2022-08-31 | 3 | 140 | 
-| 2022-08-30 | 3 | 140 | 
-| 2022-08-29 | 3 | 140 | 
-| 2022-08-28 | 3 | 140 | 
-| 2022-08-27 | 3 | 140 | 
-| 2022-08-26 | 3 | 140 | 
-| 2022-08-25 | 3 | 138 | 
-| 2022-08-24 | 3 | 138 | 
-| 2022-08-23 | 3 | 138 | 
-| 2022-08-22 | 3 | 138 | 
-| 2022-08-21 | 3 | 138 | 
 
 
 [Detailed charts & statistics for DeekshithSN/Java_Multistage_dockerfile](https://reviewgithub.com/rep/DeekshithSN/Java_Multistage_dockerfile)

@@ -1,16 +1,28 @@
-# transmissions11/VRGDAs / stars & forks statistics
-
-[Open repository/transmissions11/VRGDAs](https://github.com/transmissions11/VRGDAs)
+# transmissions11/VRGDAs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 214
+★ Stars: 219
+
+[Open repository](https://github.com/transmissions11/VRGDAs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 219 | 27 | 
+| 2022-10-05 | 219 | 27 | 
+| 2022-10-04 | 219 | 27 | 
+| 2022-10-03 | 219 | 27 | 
+| 2022-10-02 | 219 | 27 | 
+| 2022-10-01 | 219 | 27 | 
+| 2022-09-30 | 219 | 27 | 
+| 2022-09-29 | 219 | 27 | 
+| 2022-09-28 | 218 | 26 | 
+| 2022-09-27 | 216 | 26 | 
+| 2022-09-26 | 215 | 26 | 
+| 2022-09-25 | 215 | 26 | 
 | 2022-09-24 | 214 | 26 | 
 | 2022-09-23 | 214 | 26 | 
 | 2022-09-22 | 213 | 26 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 200 | 23 | 
 | 2022-09-08 | 196 | 23 | 
 | 2022-09-07 | 196 | 23 | 
-| 2022-09-06 | 184 | 21 | 
-| 2022-09-05 | 175 | 19 | 
-| 2022-09-04 | 163 | 19 | 
-| 2022-09-03 | 161 | 18 | 
-| 2022-09-02 | 157 | 16 | 
-| 2022-09-01 | 152 | 14 | 
-| 2022-08-31 | 149 | 13 | 
-| 2022-08-30 | 142 | 12 | 
-| 2022-08-29 | 140 | 9 | 
-| 2022-08-28 | 124 | 7 | 
-| 2022-08-27 | 122 | 7 | 
-| 2022-08-26 | 121 | 7 | 
 
 
 [Detailed charts & statistics for transmissions11/VRGDAs](https://reviewgithub.com/rep/transmissions11/VRGDAs)

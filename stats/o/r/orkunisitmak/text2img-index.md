@@ -1,12 +1,12 @@
-# orkunisitmak/text2img-index / stars & forks statistics
-
-[Open repository/orkunisitmak/text2img-index](https://github.com/orkunisitmak/text2img-index)
+# orkunisitmak/text2img-index - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 22
+
+[Open repository](https://github.com/orkunisitmak/text2img-index)
 
 ## Historical data
 | Date | Stars | Forks |

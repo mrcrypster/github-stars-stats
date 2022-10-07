@@ -1,12 +1,12 @@
-# bld/bld-orbit / stars & forks statistics
-
-[Open repository/bld/bld-orbit](https://github.com/bld/bld-orbit)
+# bld/bld-orbit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/bld/bld-orbit)
 
 ## Historical data
 | Date | Stars | Forks |

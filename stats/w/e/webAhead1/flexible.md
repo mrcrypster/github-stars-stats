@@ -1,12 +1,12 @@
-# webAhead1/flexible / stars & forks statistics
-
-[Open repository/webAhead1/flexible](https://github.com/webAhead1/flexible)
+# webAhead1/flexible - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/webAhead1/flexible)
 
 ## Historical data
 | Date | Stars | Forks |

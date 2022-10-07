@@ -1,16 +1,31 @@
-# UniCourt/DataEngineering-Workshop1 / stars & forks statistics
-
-[Open repository/UniCourt/DataEngineering-Workshop1](https://github.com/UniCourt/DataEngineering-Workshop1)
+# UniCourt/DataEngineering-Workshop1 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 175
+☋ Forks: 182
 
 ★ Stars: 15
+
+[Open repository](https://github.com/UniCourt/DataEngineering-Workshop1)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 15 | 182 | 
+| 2022-10-06 | 15 | 182 | 
+| 2022-10-05 | 15 | 182 | 
+| 2022-10-04 | 15 | 182 | 
+| 2022-10-03 | 15 | 182 | 
+| 2022-10-02 | 15 | 182 | 
+| 2022-10-01 | 15 | 182 | 
+| 2022-09-30 | 15 | 182 | 
+| 2022-09-29 | 15 | 182 | 
+| 2022-09-28 | 15 | 182 | 
+| 2022-09-27 | 15 | 182 | 
+| 2022-09-26 | 15 | 182 | 
+| 2022-09-25 | 15 | 182 | 
+| 2022-09-24 | 15 | 181 | 
+| 2022-09-23 | 15 | 176 | 
 | 2022-09-22 | 15 | 175 | 
 | 2022-09-21 | 15 | 175 | 
 | 2022-09-20 | 15 | 175 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 15 | 175 | 
 | 2022-09-08 | 15 | 175 | 
 | 2022-09-07 | 15 | 175 | 
-| 2022-09-06 | 15 | 175 | 
-| 2022-09-05 | 15 | 175 | 
-| 2022-09-04 | 15 | 175 | 
-| 2022-09-03 | 15 | 175 | 
-| 2022-09-02 | 15 | 175 | 
-| 2022-09-01 | 15 | 175 | 
-| 2022-08-31 | 15 | 175 | 
-| 2022-08-30 | 15 | 175 | 
-| 2022-08-29 | 15 | 175 | 
-| 2022-08-28 | 15 | 175 | 
-| 2022-08-27 | 15 | 175 | 
-| 2022-08-26 | 14 | 175 | 
-| 2022-08-25 | 14 | 174 | 
-| 2022-08-24 | 14 | 109 | 
-| 2022-08-23 | 14 | 109 | 
 
 
 [Detailed charts & statistics for UniCourt/DataEngineering-Workshop1](https://reviewgithub.com/rep/UniCourt/DataEngineering-Workshop1)

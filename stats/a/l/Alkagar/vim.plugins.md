@@ -1,12 +1,12 @@
-# Alkagar/vim.plugins / stars & forks statistics
-
-[Open repository/Alkagar/vim.plugins](https://github.com/Alkagar/vim.plugins)
+# Alkagar/vim.plugins - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Alkagar/vim.plugins)
 
 ## Historical data
 | Date | Stars | Forks |

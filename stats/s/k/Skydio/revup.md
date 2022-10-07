@@ -1,12 +1,12 @@
-# Skydio/revup / stars & forks statistics
-
-[Open repository/Skydio/revup](https://github.com/Skydio/revup)
+# Skydio/revup - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 215
+
+[Open repository](https://github.com/Skydio/revup)
 
 ## Historical data
 | Date | Stars | Forks |

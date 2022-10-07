@@ -1,16 +1,25 @@
-# koknat/callGraph / stars & forks statistics
-
-[Open repository/koknat/callGraph](https://github.com/koknat/callGraph)
+# koknat/callGraph - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
-★ Stars: 56
+★ Stars: 60
+
+[Open repository](https://github.com/koknat/callGraph)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 60 | 8 | 
+| 2022-10-06 | 60 | 8 | 
+| 2022-10-05 | 59 | 8 | 
+| 2022-10-04 | 59 | 8 | 
+| 2022-10-03 | 59 | 8 | 
+| 2022-10-02 | 59 | 8 | 
+| 2022-10-01 | 59 | 8 | 
+| 2022-09-30 | 57 | 8 | 
+| 2022-09-29 | 56 | 8 | 
 | 2022-09-28 | 56 | 8 | 
 | 2022-09-27 | 55 | 8 | 
 | 2022-09-26 | 55 | 8 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 51 | 8 | 
 | 2022-09-09 | 51 | 8 | 
 | 2022-09-08 | 51 | 8 | 
-| 2022-09-07 | 51 | 8 | 
-| 2022-09-06 | 50 | 8 | 
-| 2022-09-05 | 50 | 8 | 
-| 2022-09-04 | 50 | 8 | 
-| 2022-09-03 | 50 | 8 | 
-| 2022-09-02 | 50 | 7 | 
-| 2022-09-01 | 50 | 7 | 
-| 2022-08-31 | 50 | 7 | 
-| 2022-08-30 | 50 | 7 | 
 
 
 [Detailed charts & statistics for koknat/callGraph](https://reviewgithub.com/rep/koknat/callGraph)

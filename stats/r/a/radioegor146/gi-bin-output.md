@@ -1,12 +1,12 @@
-# radioegor146/gi-bin-output / stars & forks statistics
-
-[Open repository/radioegor146/gi-bin-output](https://github.com/radioegor146/gi-bin-output)
+# radioegor146/gi-bin-output - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/radioegor146/gi-bin-output)
 
 ## Historical data
 | Date | Stars | Forks |

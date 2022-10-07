@@ -1,12 +1,12 @@
-# NightlyColt/MidtermProject / stars & forks statistics
-
-[Open repository/NightlyColt/MidtermProject](https://github.com/NightlyColt/MidtermProject)
+# NightlyColt/MidtermProject - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/NightlyColt/MidtermProject)
 
 ## Historical data
 | Date | Stars | Forks |

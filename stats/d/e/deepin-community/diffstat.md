@@ -1,12 +1,12 @@
-# deepin-community/diffstat / stars & forks statistics
-
-[Open repository/deepin-community/diffstat](https://github.com/deepin-community/diffstat)
+# deepin-community/diffstat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/diffstat)
 
 ## Historical data
 | Date | Stars | Forks |

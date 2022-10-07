@@ -1,6 +1,4 @@
-# roymanigley/nerd-slides-vim-plugin / stars & forks statistics
-
-[Open repository/roymanigley/nerd-slides-vim-plugin](https://github.com/roymanigley/nerd-slides-vim-plugin)
+# roymanigley/nerd-slides-vim-plugin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 20
 
+[Open repository](https://github.com/roymanigley/nerd-slides-vim-plugin)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | - | 
+| 2022-10-06 | 20 | - | 
+| 2022-10-05 | 20 | - | 
+| 2022-10-04 | 20 | - | 
+| 2022-10-03 | 20 | - | 
+| 2022-10-02 | 20 | - | 
+| 2022-10-01 | 20 | - | 
+| 2022-09-30 | 20 | - | 
+| 2022-09-29 | 20 | - | 
 | 2022-09-28 | 20 | - | 
 | 2022-09-27 | 20 | - | 
 | 2022-09-26 | 20 | - | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 20 | - | 
 | 2022-09-08 | 20 | - | 
 | 2022-09-07 | 20 | - | 
-| 2022-09-06 | 20 | - | 
-| 2022-09-05 | 20 | - | 
-| 2022-09-04 | 19 | - | 
-| 2022-09-03 | 19 | - | 
-| 2022-09-02 | 19 | - | 
-| 2022-09-01 | 18 | - | 
-| 2022-08-31 | 18 | - | 
-| 2022-08-30 | 18 | - | 
-| 2022-08-29 | 18 | - | 
 
 
 [Detailed charts & statistics for roymanigley/nerd-slides-vim-plugin](https://reviewgithub.com/rep/roymanigley/nerd-slides-vim-plugin)

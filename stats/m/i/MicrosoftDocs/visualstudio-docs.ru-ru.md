@@ -1,12 +1,12 @@
-# MicrosoftDocs/visualstudio-docs.ru-ru / stars & forks statistics
-
-[Open repository/MicrosoftDocs/visualstudio-docs.ru-ru](https://github.com/MicrosoftDocs/visualstudio-docs.ru-ru)
+# MicrosoftDocs/visualstudio-docs.ru-ru - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 15
+
+[Open repository](https://github.com/MicrosoftDocs/visualstudio-docs.ru-ru)
 
 ## Historical data
 | Date | Stars | Forks |

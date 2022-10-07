@@ -1,12 +1,12 @@
-# realodix/AdBlockID / stars & forks statistics
-
-[Open repository/realodix/AdBlockID](https://github.com/realodix/AdBlockID)
+# realodix/AdBlockID - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 112
+
+[Open repository](https://github.com/realodix/AdBlockID)
 
 ## Historical data
 | Date | Stars | Forks |

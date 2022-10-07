@@ -1,16 +1,32 @@
-# sorrycc/chinese-f2e-developer / stars & forks statistics
-
-[Open repository/sorrycc/chinese-f2e-developer](https://github.com/sorrycc/chinese-f2e-developer)
+# sorrycc/chinese-f2e-developer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 45
+☋ Forks: 44
 
-★ Stars: 714
+★ Stars: 724
+
+[Open repository](https://github.com/sorrycc/chinese-f2e-developer)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 724 | 44 | 
+| 2022-10-05 | 722 | 44 | 
+| 2022-10-04 | 722 | 44 | 
+| 2022-10-03 | 721 | 44 | 
+| 2022-10-02 | 720 | 44 | 
+| 2022-10-01 | 720 | 44 | 
+| 2022-09-30 | 720 | 44 | 
+| 2022-09-29 | 719 | 44 | 
+| 2022-09-28 | 719 | 44 | 
+| 2022-09-27 | 717 | 44 | 
+| 2022-09-26 | 716 | 44 | 
+| 2022-09-25 | 716 | 45 | 
+| 2022-09-24 | 716 | 45 | 
+| 2022-09-23 | 716 | 45 | 
+| 2022-09-22 | 714 | 45 | 
+| 2022-09-21 | 712 | 45 | 
 | 2022-09-20 | 714 | 45 | 
 | 2022-09-19 | 714 | 45 | 
 | 2022-09-18 | 712 | 45 | 
@@ -24,23 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 675 | 42 | 
 | 2022-09-09 | 671 | 42 | 
 | 2022-09-08 | 672 | 42 | 
-| 2022-09-07 | 670 | 42 | 
-| 2022-09-06 | 668 | 42 | 
-| 2022-09-05 | 660 | 42 | 
-| 2022-09-04 | 658 | 42 | 
-| 2022-09-03 | 658 | 42 | 
-| 2022-09-02 | 657 | 42 | 
-| 2022-08-31 | 655 | 43 | 
-| 2022-08-30 | 648 | 43 | 
-| 2022-08-29 | 633 | 43 | 
-| 2022-08-28 | 617 | 41 | 
-| 2022-08-27 | 612 | 40 | 
-| 2022-08-26 | 608 | 40 | 
-| 2022-08-25 | 587 | 39 | 
-| 2022-08-24 | 535 | 38 | 
-| 2022-08-23 | 424 | 33 | 
-| 2022-08-22 | 344 | 30 | 
-| 2022-08-21 | 226 | 24 | 
 
 
 [Detailed charts & statistics for sorrycc/chinese-f2e-developer](https://reviewgithub.com/rep/sorrycc/chinese-f2e-developer)

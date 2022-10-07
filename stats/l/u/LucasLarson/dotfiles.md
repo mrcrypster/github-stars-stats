@@ -1,16 +1,28 @@
-# LucasLarson/dotfiles / stars & forks statistics
-
-[Open repository/LucasLarson/dotfiles](https://github.com/LucasLarson/dotfiles)
+# LucasLarson/dotfiles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
-★ Stars: 516
+★ Stars: 521
+
+[Open repository](https://github.com/LucasLarson/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 521 | 16 | 
+| 2022-10-06 | 521 | 16 | 
+| 2022-10-05 | 521 | 16 | 
+| 2022-10-04 | 520 | 16 | 
+| 2022-10-03 | 519 | 16 | 
+| 2022-10-02 | 519 | 16 | 
+| 2022-10-01 | 519 | 16 | 
+| 2022-09-30 | 519 | 16 | 
+| 2022-09-29 | 517 | 16 | 
+| 2022-09-28 | 517 | 16 | 
+| 2022-09-27 | 517 | 16 | 
+| 2022-09-26 | 516 | 16 | 
 | 2022-09-25 | 516 | 16 | 
 | 2022-09-24 | 516 | 16 | 
 | 2022-09-22 | 516 | 16 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 508 | 16 | 
 | 2022-09-08 | 508 | 16 | 
 | 2022-09-07 | 508 | 16 | 
-| 2022-09-06 | 507 | 16 | 
-| 2022-09-05 | 505 | 16 | 
-| 2022-09-04 | 504 | 16 | 
-| 2022-09-03 | 502 | 16 | 
-| 2022-09-02 | 454 | 16 | 
-| 2022-09-01 | 318 | 16 | 
-| 2022-08-31 | 317 | 16 | 
-| 2022-08-30 | 263 | 16 | 
-| 2022-08-29 | 196 | 16 | 
-| 2022-08-28 | 172 | 16 | 
-| 2022-08-27 | 164 | 16 | 
-| 2022-08-26 | 154 | 16 | 
 
 
 [Detailed charts & statistics for LucasLarson/dotfiles](https://reviewgithub.com/rep/LucasLarson/dotfiles)

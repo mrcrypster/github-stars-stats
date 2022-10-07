@@ -1,6 +1,4 @@
-# PixelPounce/NMEXAndroidFix / stars & forks statistics
-
-[Open repository/PixelPounce/NMEXAndroidFix](https://github.com/PixelPounce/NMEXAndroidFix)
+# PixelPounce/NMEXAndroidFix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 6
 
+[Open repository](https://github.com/PixelPounce/NMEXAndroidFix)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 2 | 
+| 2022-10-05 | 6 | 2 | 
+| 2022-10-04 | 6 | 2 | 
+| 2022-10-03 | 6 | 2 | 
 | 2022-10-02 | 6 | 2 | 
 | 2022-10-01 | 6 | 2 | 
 | 2022-09-30 | 6 | 2 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 2 | 
 | 2022-09-09 | 6 | 2 | 
 | 2022-09-08 | 6 | 2 | 
-| 2022-09-07 | 6 | 2 | 
-| 2022-09-06 | 6 | 2 | 
-| 2022-09-05 | 6 | 2 | 
-| 2022-09-04 | 6 | 2 | 
-| 2022-09-03 | 6 | 2 | 
 
 
 [Detailed charts & statistics for PixelPounce/NMEXAndroidFix](https://reviewgithub.com/rep/PixelPounce/NMEXAndroidFix)

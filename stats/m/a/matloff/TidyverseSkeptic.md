@@ -1,16 +1,28 @@
-# matloff/TidyverseSkeptic / stars & forks statistics
-
-[Open repository/matloff/TidyverseSkeptic](https://github.com/matloff/TidyverseSkeptic)
+# matloff/TidyverseSkeptic - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 428
+★ Stars: 431
+
+[Open repository](https://github.com/matloff/TidyverseSkeptic)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 431 | 41 | 
+| 2022-10-05 | 431 | 41 | 
+| 2022-10-04 | 431 | 41 | 
+| 2022-10-03 | 431 | 41 | 
+| 2022-10-02 | 430 | 41 | 
+| 2022-10-01 | 430 | 41 | 
+| 2022-09-30 | 430 | 41 | 
+| 2022-09-29 | 430 | 41 | 
+| 2022-09-28 | 430 | 41 | 
+| 2022-09-27 | 430 | 41 | 
+| 2022-09-26 | 429 | 41 | 
+| 2022-09-25 | 428 | 41 | 
 | 2022-09-24 | 428 | 40 | 
 | 2022-09-23 | 428 | 40 | 
 | 2022-09-22 | 427 | 40 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 424 | 40 | 
 | 2022-09-09 | 423 | 40 | 
 | 2022-09-08 | 423 | 40 | 
-| 2022-09-07 | 423 | 40 | 
-| 2022-09-06 | 423 | 40 | 
-| 2022-09-05 | 422 | 40 | 
-| 2022-09-04 | 421 | 40 | 
-| 2022-09-03 | 420 | 40 | 
-| 2022-09-02 | 420 | 40 | 
-| 2022-08-31 | 420 | 40 | 
-| 2022-08-30 | 419 | 40 | 
-| 2022-08-29 | 416 | 39 | 
-| 2022-08-28 | 415 | 39 | 
-| 2022-08-27 | 415 | 39 | 
-| 2022-08-26 | 415 | 39 | 
-| 2022-08-25 | 411 | 39 | 
 
 
 [Detailed charts & statistics for matloff/TidyverseSkeptic](https://reviewgithub.com/rep/matloff/TidyverseSkeptic)

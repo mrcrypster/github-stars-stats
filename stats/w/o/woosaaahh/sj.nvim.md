@@ -1,12 +1,12 @@
-# woosaaahh/sj.nvim / stars & forks statistics
-
-[Open repository/woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim)
+# woosaaahh/sj.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 48
+
+[Open repository](https://github.com/woosaaahh/sj.nvim)
 
 ## Historical data
 | Date | Stars | Forks |

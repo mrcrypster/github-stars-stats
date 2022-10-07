@@ -1,16 +1,24 @@
-# Kl4rry/simp / stars & forks statistics
-
-[Open repository/Kl4rry/simp](https://github.com/Kl4rry/simp)
+# Kl4rry/simp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 201
+★ Stars: 202
+
+[Open repository](https://github.com/Kl4rry/simp)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 202 | 8 | 
+| 2022-10-05 | 201 | 7 | 
+| 2022-10-04 | 201 | 7 | 
+| 2022-10-03 | 201 | 7 | 
+| 2022-10-02 | 201 | 7 | 
+| 2022-10-01 | 201 | 7 | 
+| 2022-09-30 | 201 | 7 | 
+| 2022-09-29 | 202 | 7 | 
 | 2022-09-28 | 201 | 7 | 
 | 2022-09-27 | 201 | 7 | 
 | 2022-09-26 | 200 | 7 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 190 | 7 | 
 | 2022-09-09 | 190 | 7 | 
 | 2022-09-08 | 190 | 7 | 
-| 2022-09-07 | 190 | 7 | 
-| 2022-09-06 | 190 | 7 | 
-| 2022-09-05 | 182 | 6 | 
-| 2022-09-04 | 177 | 6 | 
-| 2022-09-03 | 176 | 6 | 
-| 2022-09-02 | 171 | 6 | 
-| 2022-09-01 | 164 | 6 | 
-| 2022-08-31 | 155 | 6 | 
-| 2022-08-30 | 128 | 4 | 
 
 
 [Detailed charts & statistics for Kl4rry/simp](https://reviewgithub.com/rep/Kl4rry/simp)

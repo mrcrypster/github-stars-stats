@@ -1,12 +1,12 @@
-# TheMuppets/proprietary_vendor_fairphone_FP4 / stars & forks statistics
-
-[Open repository/TheMuppets/proprietary_vendor_fairphone_FP4](https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4)
+# TheMuppets/proprietary_vendor_fairphone_FP4 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4)
 
 ## Historical data
 | Date | Stars | Forks |

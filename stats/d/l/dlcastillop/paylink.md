@@ -1,12 +1,12 @@
-# dlcastillop/paylink / stars & forks statistics
-
-[Open repository/dlcastillop/paylink](https://github.com/dlcastillop/paylink)
+# dlcastillop/paylink - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 23
+
+[Open repository](https://github.com/dlcastillop/paylink)
 
 ## Historical data
 | Date | Stars | Forks |

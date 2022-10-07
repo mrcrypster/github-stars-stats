@@ -1,12 +1,12 @@
-# collisonchris/play-by-play / stars & forks statistics
-
-[Open repository/collisonchris/play-by-play](https://github.com/collisonchris/play-by-play)
+# collisonchris/play-by-play - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/collisonchris/play-by-play)
 
 ## Historical data
 | Date | Stars | Forks |

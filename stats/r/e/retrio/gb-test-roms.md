@@ -1,6 +1,4 @@
-# retrio/gb-test-roms / stars & forks statistics
-
-[Open repository/retrio/gb-test-roms](https://github.com/retrio/gb-test-roms)
+# retrio/gb-test-roms - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 295
 
+[Open repository](https://github.com/retrio/gb-test-roms)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 295 | 39 | 
+| 2022-10-05 | 295 | 39 | 
 | 2022-10-04 | 295 | 39 | 
 | 2022-10-03 | 295 | 39 | 
 | 2022-10-02 | 295 | 39 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 293 | 38 | 
 | 2022-09-09 | 293 | 38 | 
 | 2022-09-08 | 293 | 38 | 
-| 2022-09-07 | 293 | 38 | 
-| 2022-09-06 | 293 | 38 | 
-| 2022-09-05 | 293 | 38 | 
 
 
 [Detailed charts & statistics for retrio/gb-test-roms](https://reviewgithub.com/rep/retrio/gb-test-roms)

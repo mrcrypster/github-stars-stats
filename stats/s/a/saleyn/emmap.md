@@ -1,16 +1,26 @@
-# saleyn/emmap / stars & forks statistics
-
-[Open repository/saleyn/emmap](https://github.com/saleyn/emmap)
+# saleyn/emmap - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 20
+
+[Open repository](https://github.com/saleyn/emmap)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | 3 | 
+| 2022-10-06 | 20 | 3 | 
+| 2022-10-05 | 20 | 3 | 
+| 2022-10-04 | 20 | 3 | 
+| 2022-10-03 | 20 | 3 | 
+| 2022-10-02 | 20 | 3 | 
+| 2022-10-01 | 20 | 2 | 
+| 2022-09-30 | 20 | 2 | 
+| 2022-09-29 | 20 | 2 | 
+| 2022-09-28 | 20 | 2 | 
 | 2022-09-27 | 20 | 2 | 
 | 2022-09-26 | 20 | 2 | 
 | 2022-09-25 | 20 | 2 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 20 | 2 | 
 | 2022-09-08 | 20 | 2 | 
 | 2022-09-07 | 20 | 2 | 
-| 2022-09-06 | 20 | 2 | 
-| 2022-09-05 | 20 | 2 | 
-| 2022-09-04 | 20 | 2 | 
-| 2022-09-03 | 20 | 2 | 
-| 2022-09-02 | 20 | 2 | 
-| 2022-09-01 | 20 | 2 | 
-| 2022-08-31 | 20 | 2 | 
-| 2022-08-30 | 20 | 2 | 
-| 2022-08-29 | 19 | 2 | 
-| 2022-08-28 | 19 | 2 | 
 
 
 [Detailed charts & statistics for saleyn/emmap](https://reviewgithub.com/rep/saleyn/emmap)

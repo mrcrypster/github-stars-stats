@@ -1,12 +1,12 @@
-# verypossible/nerves_system_onlogic_da1000_atom / stars & forks statistics
-
-[Open repository/verypossible/nerves_system_onlogic_da1000_atom](https://github.com/verypossible/nerves_system_onlogic_da1000_atom)
+# verypossible/nerves_system_onlogic_da1000_atom - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/verypossible/nerves_system_onlogic_da1000_atom)
 
 ## Historical data
 | Date | Stars | Forks |

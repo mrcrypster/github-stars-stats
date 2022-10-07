@@ -1,16 +1,23 @@
-# evryfs/helm-charts / stars & forks statistics
-
-[Open repository/evryfs/helm-charts](https://github.com/evryfs/helm-charts)
+# evryfs/helm-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 50
+☋ Forks: 52
 
 ★ Stars: 30
+
+[Open repository](https://github.com/evryfs/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 30 | 52 | 
+| 2022-10-05 | 30 | 51 | 
+| 2022-10-04 | 30 | 51 | 
+| 2022-10-03 | 30 | 51 | 
+| 2022-10-02 | 30 | 51 | 
+| 2022-10-01 | 30 | 51 | 
+| 2022-09-30 | 30 | 51 | 
 | 2022-09-29 | 30 | 50 | 
 | 2022-09-28 | 30 | 50 | 
 | 2022-09-27 | 30 | 50 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 29 | 48 | 
 | 2022-09-09 | 29 | 48 | 
 | 2022-09-08 | 29 | 48 | 
-| 2022-09-07 | 29 | 48 | 
-| 2022-09-06 | 29 | 48 | 
-| 2022-09-05 | 29 | 48 | 
-| 2022-09-04 | 29 | 48 | 
-| 2022-09-03 | 29 | 48 | 
-| 2022-09-02 | 29 | 48 | 
-| 2022-09-01 | 29 | 48 | 
-| 2022-08-31 | 29 | 48 | 
 
 
 [Detailed charts & statistics for evryfs/helm-charts](https://reviewgithub.com/rep/evryfs/helm-charts)

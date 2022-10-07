@@ -1,6 +1,4 @@
-# wangzyon/NVIDIA_SGEMM_PRACTICE / stars & forks statistics
-
-[Open repository/wangzyon/NVIDIA_SGEMM_PRACTICE](https://github.com/wangzyon/NVIDIA_SGEMM_PRACTICE)
+# wangzyon/NVIDIA_SGEMM_PRACTICE - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/wangzyon/NVIDIA_SGEMM_PRACTICE)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 23 | 7 | 
+| 2022-10-06 | 23 | 7 | 
+| 2022-10-05 | 23 | 7 | 
+| 2022-10-04 | 23 | 7 | 
+| 2022-10-03 | 23 | 7 | 
+| 2022-10-02 | 23 | 7 | 
+| 2022-10-01 | 23 | 7 | 
+| 2022-09-30 | 23 | 7 | 
+| 2022-09-29 | 23 | 7 | 
+| 2022-09-28 | 23 | 7 | 
+| 2022-09-27 | 23 | 7 | 
+| 2022-09-26 | 23 | 7 | 
+| 2022-09-25 | 23 | 7 | 
 | 2022-09-24 | 23 | 7 | 
 | 2022-09-22 | 23 | 7 | 
 | 2022-09-21 | 23 | 7 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 22 | 5 | 
 | 2022-09-08 | 22 | 5 | 
 | 2022-09-07 | 22 | 5 | 
-| 2022-09-06 | 22 | 5 | 
-| 2022-09-05 | 22 | 5 | 
-| 2022-09-04 | 22 | 5 | 
-| 2022-09-03 | 22 | 5 | 
-| 2022-09-02 | 22 | 5 | 
-| 2022-09-01 | 21 | 5 | 
-| 2022-08-31 | 21 | 5 | 
-| 2022-08-30 | 21 | 5 | 
-| 2022-08-29 | 21 | 5 | 
-| 2022-08-28 | 21 | 5 | 
-| 2022-08-27 | 21 | 5 | 
-| 2022-08-26 | 21 | 5 | 
-| 2022-08-25 | 21 | 5 | 
 
 
 [Detailed charts & statistics for wangzyon/NVIDIA_SGEMM_PRACTICE](https://reviewgithub.com/rep/wangzyon/NVIDIA_SGEMM_PRACTICE)

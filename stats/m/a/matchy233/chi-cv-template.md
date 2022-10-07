@@ -1,16 +1,28 @@
-# matchy233/chi-cv-template / stars & forks statistics
-
-[Open repository/matchy233/chi-cv-template](https://github.com/matchy233/chi-cv-template)
+# matchy233/chi-cv-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
-★ Stars: 170
+★ Stars: 171
+
+[Open repository](https://github.com/matchy233/chi-cv-template)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 171 | 11 | 
+| 2022-10-05 | 171 | 11 | 
+| 2022-10-04 | 171 | 11 | 
+| 2022-10-03 | 171 | 11 | 
+| 2022-10-02 | 171 | 11 | 
+| 2022-10-01 | 171 | 11 | 
+| 2022-09-30 | 171 | 11 | 
+| 2022-09-29 | 171 | 11 | 
+| 2022-09-28 | 170 | 11 | 
+| 2022-09-27 | 170 | 11 | 
+| 2022-09-26 | 170 | 11 | 
+| 2022-09-25 | 170 | 11 | 
 | 2022-09-24 | 170 | 11 | 
 | 2022-09-23 | 169 | 11 | 
 | 2022-09-22 | 169 | 11 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 160 | 11 | 
 | 2022-09-09 | 159 | 11 | 
 | 2022-09-08 | 159 | 11 | 
-| 2022-09-07 | 159 | 11 | 
-| 2022-09-06 | 159 | 11 | 
-| 2022-09-05 | 159 | 11 | 
-| 2022-09-04 | 159 | 11 | 
-| 2022-09-03 | 158 | 11 | 
-| 2022-09-02 | 158 | 10 | 
-| 2022-09-01 | 158 | 10 | 
-| 2022-08-31 | 158 | 10 | 
-| 2022-08-30 | 158 | 10 | 
-| 2022-08-29 | 157 | 10 | 
-| 2022-08-28 | 156 | 9 | 
-| 2022-08-27 | 152 | 9 | 
-| 2022-08-26 | 144 | 9 | 
 
 
 [Detailed charts & statistics for matchy233/chi-cv-template](https://reviewgithub.com/rep/matchy233/chi-cv-template)

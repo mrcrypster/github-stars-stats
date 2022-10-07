@@ -1,16 +1,24 @@
-# armink/EasyLogger / stars & forks statistics
-
-[Open repository/armink/EasyLogger](https://github.com/armink/EasyLogger)
+# armink/EasyLogger - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 927
+☋ Forks: 930
 
-★ Stars: 2518
+★ Stars: 2531
+
+[Open repository](https://github.com/armink/EasyLogger)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2531 | 930 | 
+| 2022-10-05 | 2530 | 930 | 
+| 2022-10-04 | 2530 | 930 | 
+| 2022-10-03 | 2529 | 930 | 
+| 2022-10-02 | 2527 | 930 | 
+| 2022-10-01 | 2526 | 929 | 
+| 2022-09-30 | 2525 | 928 | 
+| 2022-09-29 | 2522 | 927 | 
 | 2022-09-28 | 2518 | 927 | 
 | 2022-09-27 | 2515 | 926 | 
 | 2022-09-26 | 2514 | 926 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2472 | 923 | 
 | 2022-09-09 | 2472 | 923 | 
 | 2022-09-08 | 2467 | 923 | 
-| 2022-09-07 | 2465 | 922 | 
-| 2022-09-06 | 2460 | 919 | 
-| 2022-09-05 | 2456 | 919 | 
-| 2022-09-04 | 2448 | 917 | 
-| 2022-09-03 | 2441 | 917 | 
-| 2022-09-02 | 2437 | 918 | 
-| 2022-09-01 | 2432 | 916 | 
-| 2022-08-31 | 2428 | 915 | 
-| 2022-08-30 | 2422 | 915 | 
 
 
 [Detailed charts & statistics for armink/EasyLogger](https://reviewgithub.com/rep/armink/EasyLogger)

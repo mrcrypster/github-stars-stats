@@ -1,16 +1,29 @@
-# Dullage/flatnotes / stars & forks statistics
-
-[Open repository/Dullage/flatnotes](https://github.com/Dullage/flatnotes)
+# Dullage/flatnotes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 94
+★ Stars: 101
+
+[Open repository](https://github.com/Dullage/flatnotes)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 101 | 3 | 
+| 2022-10-06 | 101 | 3 | 
+| 2022-10-05 | 101 | 3 | 
+| 2022-10-04 | 100 | 3 | 
+| 2022-10-03 | 96 | 3 | 
+| 2022-10-02 | 94 | 3 | 
+| 2022-10-01 | 93 | 3 | 
+| 2022-09-30 | 93 | 3 | 
+| 2022-09-29 | 93 | 3 | 
+| 2022-09-28 | 93 | 3 | 
+| 2022-09-27 | 93 | 3 | 
+| 2022-09-26 | 93 | 3 | 
+| 2022-09-25 | 94 | 3 | 
 | 2022-09-24 | 94 | 3 | 
 | 2022-09-23 | 94 | 3 | 
 | 2022-09-22 | 94 | 3 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 89 | 2 | 
 | 2022-09-08 | 89 | 2 | 
 | 2022-09-07 | 89 | 2 | 
-| 2022-09-06 | 88 | 2 | 
-| 2022-09-05 | 88 | 2 | 
-| 2022-09-04 | 88 | 2 | 
-| 2022-09-03 | 87 | 2 | 
-| 2022-09-02 | 86 | 2 | 
-| 2022-09-01 | 86 | 2 | 
-| 2022-08-31 | 86 | 2 | 
-| 2022-08-30 | 84 | 1 | 
-| 2022-08-29 | 83 | 1 | 
-| 2022-08-28 | 79 | 1 | 
-| 2022-08-27 | 78 | 1 | 
-| 2022-08-26 | 77 | 1 | 
-| 2022-08-25 | 75 | 1 | 
 
 
 [Detailed charts & statistics for Dullage/flatnotes](https://reviewgithub.com/rep/Dullage/flatnotes)

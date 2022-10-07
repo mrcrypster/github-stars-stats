@@ -1,6 +1,4 @@
-# ducn/Repository-Pattern-in-Objective-C / stars & forks statistics
-
-[Open repository/ducn/Repository-Pattern-in-Objective-C](https://github.com/ducn/Repository-Pattern-in-Objective-C)
+# ducn/Repository-Pattern-in-Objective-C - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 20
 
+[Open repository](https://github.com/ducn/Repository-Pattern-in-Objective-C)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | 1 | 
+| 2022-10-06 | 20 | 1 | 
+| 2022-10-05 | 20 | 1 | 
+| 2022-10-04 | 20 | 1 | 
+| 2022-10-03 | 20 | 1 | 
+| 2022-10-02 | 20 | 1 | 
+| 2022-10-01 | 20 | 1 | 
+| 2022-09-30 | 20 | 1 | 
+| 2022-09-29 | 20 | 1 | 
 | 2022-09-28 | 20 | 1 | 
 | 2022-09-27 | 20 | 1 | 
 | 2022-09-26 | 20 | 1 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 20 | 1 | 
 | 2022-09-08 | 20 | 1 | 
 | 2022-09-07 | 20 | 1 | 
-| 2022-09-06 | 20 | 1 | 
-| 2022-09-05 | 20 | 1 | 
-| 2022-09-04 | 20 | 1 | 
-| 2022-09-03 | 20 | 1 | 
-| 2022-09-02 | 20 | 1 | 
-| 2022-09-01 | 20 | 1 | 
-| 2022-08-31 | 20 | 1 | 
-| 2022-08-30 | 20 | 1 | 
-| 2022-08-29 | 20 | 1 | 
 
 
 [Detailed charts & statistics for ducn/Repository-Pattern-in-Objective-C](https://reviewgithub.com/rep/ducn/Repository-Pattern-in-Objective-C)

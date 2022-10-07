@@ -1,12 +1,12 @@
-# GNSPS/solidity-bytes-utils / stars & forks statistics
-
-[Open repository/GNSPS/solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
+# GNSPS/solidity-bytes-utils - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
 ★ Stars: 344
+
+[Open repository](https://github.com/GNSPS/solidity-bytes-utils)
 
 ## Historical data
 | Date | Stars | Forks |

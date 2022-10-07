@@ -1,6 +1,4 @@
-# hellotham/hello-astro / stars & forks statistics
-
-[Open repository/hellotham/hello-astro](https://github.com/hellotham/hello-astro)
+# hellotham/hello-astro - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 9
 
+[Open repository](https://github.com/hellotham/hello-astro)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 9 | 7 | 
+| 2022-10-05 | 9 | 7 | 
+| 2022-10-04 | 9 | 7 | 
+| 2022-10-03 | 9 | 7 | 
+| 2022-10-02 | 9 | 7 | 
+| 2022-10-01 | 9 | 7 | 
+| 2022-09-30 | 9 | 7 | 
 | 2022-09-29 | 9 | 7 | 
 | 2022-09-28 | 9 | 6 | 
 | 2022-09-27 | 9 | 5 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 7 | 5 | 
 | 2022-09-09 | 7 | 5 | 
 | 2022-09-08 | 7 | 5 | 
-| 2022-09-07 | 6 | 3 | 
-| 2022-09-06 | 6 | 3 | 
-| 2022-09-05 | 6 | 3 | 
-| 2022-09-04 | 5 | 3 | 
-| 2022-09-03 | 4 | 3 | 
-| 2022-09-02 | 4 | 4 | 
-| 2022-09-01 | 3 | 4 | 
-| 2022-08-31 | 3 | 4 | 
 
 
 [Detailed charts & statistics for hellotham/hello-astro](https://reviewgithub.com/rep/hellotham/hello-astro)

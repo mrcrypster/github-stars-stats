@@ -1,12 +1,12 @@
-# joaoaccaldeira/goblinSuiWarriorNFT / stars & forks statistics
-
-[Open repository/joaoaccaldeira/goblinSuiWarriorNFT](https://github.com/joaoaccaldeira/goblinSuiWarriorNFT)
+# joaoaccaldeira/goblinSuiWarriorNFT - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 4
+
+[Open repository](https://github.com/joaoaccaldeira/goblinSuiWarriorNFT)
 
 ## Historical data
 | Date | Stars | Forks |

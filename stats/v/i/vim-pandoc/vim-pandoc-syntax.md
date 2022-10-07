@@ -1,12 +1,12 @@
-# vim-pandoc/vim-pandoc-syntax / stars & forks statistics
-
-[Open repository/vim-pandoc/vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax)
+# vim-pandoc/vim-pandoc-syntax - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 58
 
 ★ Stars: 386
+
+[Open repository](https://github.com/vim-pandoc/vim-pandoc-syntax)
 
 ## Historical data
 | Date | Stars | Forks |

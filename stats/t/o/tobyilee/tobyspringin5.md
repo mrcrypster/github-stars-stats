@@ -1,16 +1,23 @@
-# tobyilee/tobyspringin5 / stars & forks statistics
-
-[Open repository/tobyilee/tobyspringin5](https://github.com/tobyilee/tobyspringin5)
+# tobyilee/tobyspringin5 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 58
+★ Stars: 62
+
+[Open repository](https://github.com/tobyilee/tobyspringin5)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 62 | 17 | 
+| 2022-10-05 | 62 | 17 | 
+| 2022-10-04 | 62 | 17 | 
+| 2022-10-03 | 60 | 17 | 
+| 2022-10-02 | 60 | 17 | 
+| 2022-10-01 | 60 | 17 | 
+| 2022-09-30 | 60 | 17 | 
 | 2022-09-29 | 58 | 16 | 
 | 2022-09-28 | 58 | 16 | 
 | 2022-09-27 | 57 | 16 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 51 | 14 | 
 | 2022-09-09 | 51 | 14 | 
 | 2022-09-08 | 51 | 14 | 
-| 2022-09-07 | 51 | 14 | 
-| 2022-09-06 | 51 | 13 | 
-| 2022-09-05 | 48 | 13 | 
-| 2022-09-04 | 34 | 10 | 
-| 2022-09-03 | 33 | 7 | 
-| 2022-09-02 | 33 | 6 | 
-| 2022-09-01 | 31 | 6 | 
-| 2022-08-31 | 31 | 5 | 
 
 
 [Detailed charts & statistics for tobyilee/tobyspringin5](https://reviewgithub.com/rep/tobyilee/tobyspringin5)

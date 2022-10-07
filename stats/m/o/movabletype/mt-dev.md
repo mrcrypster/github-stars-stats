@@ -1,6 +1,4 @@
-# movabletype/mt-dev / stars & forks statistics
-
-[Open repository/movabletype/mt-dev](https://github.com/movabletype/mt-dev)
+# movabletype/mt-dev - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/movabletype/mt-dev)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11 | 4 | 
+| 2022-10-05 | 11 | 4 | 
 | 2022-10-04 | 11 | 4 | 
 | 2022-10-03 | 11 | 4 | 
 | 2022-10-02 | 11 | 4 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11 | 4 | 
 | 2022-09-09 | 11 | 4 | 
 | 2022-09-08 | 11 | 4 | 
-| 2022-09-07 | 11 | 4 | 
-| 2022-09-06 | 11 | 4 | 
-| 2022-09-05 | 11 | 4 | 
 
 
 [Detailed charts & statistics for movabletype/mt-dev](https://reviewgithub.com/rep/movabletype/mt-dev)

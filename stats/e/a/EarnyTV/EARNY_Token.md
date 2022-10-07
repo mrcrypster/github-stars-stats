@@ -1,12 +1,12 @@
-# EarnyTV/EARNY_Token / stars & forks statistics
-
-[Open repository/EarnyTV/EARNY_Token](https://github.com/EarnyTV/EARNY_Token)
+# EarnyTV/EARNY_Token - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 40
+
+[Open repository](https://github.com/EarnyTV/EARNY_Token)
 
 ## Historical data
 | Date | Stars | Forks |

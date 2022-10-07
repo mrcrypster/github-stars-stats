@@ -1,12 +1,12 @@
-# chris-taylor/RugbyUnion / stars & forks statistics
-
-[Open repository/chris-taylor/RugbyUnion](https://github.com/chris-taylor/RugbyUnion)
+# chris-taylor/RugbyUnion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/chris-taylor/RugbyUnion)
 
 ## Historical data
 | Date | Stars | Forks |

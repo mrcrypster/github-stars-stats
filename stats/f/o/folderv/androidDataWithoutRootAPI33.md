@@ -1,16 +1,31 @@
-# folderv/androidDataWithoutRootAPI33 / stars & forks statistics
-
-[Open repository/folderv/androidDataWithoutRootAPI33](https://github.com/folderv/androidDataWithoutRootAPI33)
+# folderv/androidDataWithoutRootAPI33 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
-★ Stars: 33
+★ Stars: 36
+
+[Open repository](https://github.com/folderv/androidDataWithoutRootAPI33)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 36 | 12 | 
+| 2022-10-06 | 36 | 12 | 
+| 2022-10-05 | 35 | 12 | 
+| 2022-10-04 | 35 | 12 | 
+| 2022-10-03 | 35 | 12 | 
+| 2022-10-02 | 35 | 12 | 
+| 2022-10-01 | 36 | 12 | 
+| 2022-09-30 | 36 | 12 | 
+| 2022-09-29 | 35 | 12 | 
+| 2022-09-28 | 35 | 12 | 
+| 2022-09-27 | 34 | 12 | 
+| 2022-09-26 | 34 | 12 | 
+| 2022-09-25 | 34 | 12 | 
+| 2022-09-24 | 34 | 12 | 
+| 2022-09-23 | 33 | 12 | 
 | 2022-09-22 | 33 | 12 | 
 | 2022-09-21 | 34 | 12 | 
 | 2022-09-19 | 33 | 12 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 10 | 
 | 2022-09-08 | 29 | 10 | 
 | 2022-09-07 | 29 | 10 | 
-| 2022-09-06 | 29 | 10 | 
-| 2022-09-05 | 29 | 10 | 
-| 2022-09-04 | 29 | 10 | 
-| 2022-09-03 | 29 | 10 | 
-| 2022-09-02 | 29 | 10 | 
-| 2022-09-01 | 29 | 10 | 
-| 2022-08-31 | 29 | 10 | 
-| 2022-08-30 | 28 | 10 | 
-| 2022-08-29 | 28 | 10 | 
-| 2022-08-28 | 28 | 10 | 
-| 2022-08-27 | 28 | 10 | 
-| 2022-08-26 | 27 | 10 | 
-| 2022-08-25 | 25 | 9 | 
-| 2022-08-24 | 23 | 8 | 
-| 2022-08-23 | 22 | 8 | 
 
 
 [Detailed charts & statistics for folderv/androidDataWithoutRootAPI33](https://reviewgithub.com/rep/folderv/androidDataWithoutRootAPI33)

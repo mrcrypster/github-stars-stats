@@ -1,6 +1,4 @@
-# neulab/explainaboard_web / stars & forks statistics
-
-[Open repository/neulab/explainaboard_web](https://github.com/neulab/explainaboard_web)
+# neulab/explainaboard_web - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/neulab/explainaboard_web)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 5 | 2 | 
+| 2022-10-05 | 5 | 2 | 
 | 2022-10-04 | 5 | 2 | 
 | 2022-10-03 | 5 | 2 | 
 | 2022-10-02 | 5 | 2 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 5 | 2 | 
 | 2022-09-09 | 5 | 2 | 
 | 2022-09-08 | 5 | 3 | 
-| 2022-09-07 | 5 | 3 | 
-| 2022-09-06 | 5 | 3 | 
-| 2022-09-05 | 5 | 3 | 
 
 
 [Detailed charts & statistics for neulab/explainaboard_web](https://reviewgithub.com/rep/neulab/explainaboard_web)

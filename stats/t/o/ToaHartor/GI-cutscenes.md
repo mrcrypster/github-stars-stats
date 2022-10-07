@@ -1,16 +1,28 @@
-# ToaHartor/GI-cutscenes / stars & forks statistics
-
-[Open repository/ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
+# ToaHartor/GI-cutscenes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 34
+☋ Forks: 37
 
-★ Stars: 205
+★ Stars: 221
+
+[Open repository](https://github.com/ToaHartor/GI-cutscenes)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 221 | 37 | 
+| 2022-10-06 | 219 | 37 | 
+| 2022-10-05 | 219 | 36 | 
+| 2022-10-04 | 217 | 36 | 
+| 2022-10-03 | 217 | 36 | 
+| 2022-10-02 | 216 | 35 | 
+| 2022-10-01 | 216 | 35 | 
+| 2022-09-30 | 214 | 34 | 
+| 2022-09-29 | 212 | 34 | 
+| 2022-09-28 | 210 | 34 | 
+| 2022-09-27 | 208 | 34 | 
+| 2022-09-26 | 205 | 34 | 
 | 2022-09-25 | 205 | 34 | 
 | 2022-09-23 | 204 | 34 | 
 | 2022-09-22 | 202 | 33 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 199 | 29 | 
 | 2022-09-08 | 198 | 29 | 
 | 2022-09-07 | 197 | 29 | 
-| 2022-09-06 | 195 | 29 | 
-| 2022-09-05 | 195 | 29 | 
-| 2022-09-04 | 193 | 29 | 
-| 2022-09-03 | 192 | 29 | 
-| 2022-09-02 | 190 | 29 | 
-| 2022-09-01 | 187 | 29 | 
-| 2022-08-31 | 185 | 27 | 
-| 2022-08-30 | 180 | 27 | 
-| 2022-08-29 | 178 | 27 | 
-| 2022-08-28 | 176 | 27 | 
-| 2022-08-27 | 175 | 27 | 
-| 2022-08-26 | 174 | 27 | 
 
 
 [Detailed charts & statistics for ToaHartor/GI-cutscenes](https://reviewgithub.com/rep/ToaHartor/GI-cutscenes)

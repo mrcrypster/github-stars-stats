@@ -1,6 +1,4 @@
-# e36freak/pac_removed / stars & forks statistics
-
-[Open repository/e36freak/pac_removed](https://github.com/e36freak/pac_removed)
+# e36freak/pac_removed - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/e36freak/pac_removed)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | - | 
 | 2022-10-05 | 2 | - | 
 | 2022-10-04 | 2 | - | 
 | 2022-10-03 | 2 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | - | 
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
-| 2022-09-07 | 2 | - | 
-| 2022-09-06 | 2 | - | 
 
 
 [Detailed charts & statistics for e36freak/pac_removed](https://reviewgithub.com/rep/e36freak/pac_removed)

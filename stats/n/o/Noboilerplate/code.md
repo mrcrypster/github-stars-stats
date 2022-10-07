@@ -1,16 +1,28 @@
-# Noboilerplate/code / stars & forks statistics
-
-[Open repository/Noboilerplate/code](https://github.com/Noboilerplate/code)
+# Noboilerplate/code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 163
+★ Stars: 186
+
+[Open repository](https://github.com/Noboilerplate/code)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 186 | 14 | 
+| 2022-10-06 | 177 | 14 | 
+| 2022-10-05 | 177 | 14 | 
+| 2022-10-04 | 177 | 14 | 
+| 2022-10-03 | 175 | 14 | 
+| 2022-10-02 | 173 | 14 | 
+| 2022-10-01 | 172 | 14 | 
+| 2022-09-30 | 170 | 14 | 
+| 2022-09-29 | 169 | 14 | 
+| 2022-09-28 | 166 | 13 | 
+| 2022-09-27 | 166 | 13 | 
+| 2022-09-26 | 163 | 12 | 
 | 2022-09-25 | 163 | 12 | 
 | 2022-09-24 | 162 | 12 | 
 | 2022-09-23 | 161 | 12 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 140 | 11 | 
 | 2022-09-08 | 138 | 10 | 
 | 2022-09-07 | 136 | 10 | 
-| 2022-09-06 | 136 | 10 | 
-| 2022-09-05 | 136 | 10 | 
-| 2022-09-04 | 136 | 10 | 
-| 2022-09-03 | 136 | 9 | 
-| 2022-09-02 | 135 | 9 | 
-| 2022-09-01 | 134 | 10 | 
-| 2022-08-31 | 133 | 10 | 
-| 2022-08-30 | 130 | 10 | 
-| 2022-08-29 | 129 | 11 | 
-| 2022-08-28 | 125 | 11 | 
-| 2022-08-27 | 120 | 10 | 
-| 2022-08-26 | 118 | 10 | 
 
 
 [Detailed charts & statistics for Noboilerplate/code](https://reviewgithub.com/rep/Noboilerplate/code)

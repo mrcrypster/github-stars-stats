@@ -1,46 +1,45 @@
-# ComplementaryDevelopment/ComplementaryReimagined / stars & forks statistics
-
-[Open repository/ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined)
+# ComplementaryDevelopment/ComplementaryReimagined - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 40
+★ Stars: 47
+
+[Open repository](https://github.com/ComplementaryDevelopment/ComplementaryReimagined)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-15 | 40 | 3 | 
-| 2022-08-14 | 40 | 3 | 
-| 2022-08-13 | 40 | 3 | 
-| 2022-08-12 | 39 | 3 | 
-| 2022-08-11 | 39 | 3 | 
-| 2022-08-10 | 37 | 3 | 
-| 2022-08-09 | 36 | 3 | 
-| 2022-08-08 | 35 | 2 | 
-| 2022-08-07 | 33 | 2 | 
-| 2022-08-06 | 33 | 2 | 
-| 2022-08-05 | 33 | 2 | 
-| 2022-08-04 | 32 | 2 | 
-| 2022-08-03 | 32 | 2 | 
-| 2022-08-02 | 32 | 2 | 
-| 2022-08-01 | 32 | 2 | 
-| 2022-07-31 | 32 | 2 | 
-| 2022-07-30 | 31 | 2 | 
-| 2022-07-29 | 30 | 2 | 
-| 2022-07-28 | 28 | 1 | 
-| 2022-07-27 | 24 | 1 | 
-| 2022-07-26 | 24 | 1 | 
-| 2022-07-25 | 24 | 1 | 
-| 2022-07-24 | 23 | 1 | 
-| 2022-07-23 | 20 | 1 | 
-| 2022-07-22 | 20 | 1 | 
-| 2022-07-21 | 19 | 1 | 
-| 2022-07-20 | 18 | 1 | 
-| 2022-07-19 | 18 | 1 | 
-| 2022-07-18 | 17 | 1 | 
-| 2022-07-17 | 16 | 1 | 
+| 2022-10-06 | 47 | 5 | 
+| 2022-10-05 | 47 | 5 | 
+| 2022-10-04 | 47 | 5 | 
+| 2022-10-03 | 46 | 5 | 
+| 2022-10-02 | 46 | 4 | 
+| 2022-10-01 | 46 | 4 | 
+| 2022-09-30 | 46 | 4 | 
+| 2022-09-29 | 46 | 4 | 
+| 2022-09-28 | 46 | 4 | 
+| 2022-09-27 | 46 | 4 | 
+| 2022-09-26 | 46 | 4 | 
+| 2022-09-25 | 46 | 4 | 
+| 2022-09-24 | 45 | 4 | 
+| 2022-09-23 | 45 | 4 | 
+| 2022-09-22 | 45 | 4 | 
+| 2022-09-21 | 45 | 4 | 
+| 2022-09-20 | 45 | 4 | 
+| 2022-09-19 | 45 | 4 | 
+| 2022-09-18 | 45 | 4 | 
+| 2022-09-17 | 45 | 4 | 
+| 2022-09-16 | 45 | 4 | 
+| 2022-09-15 | 45 | 4 | 
+| 2022-09-14 | 45 | 4 | 
+| 2022-09-13 | 45 | 4 | 
+| 2022-09-12 | 45 | 4 | 
+| 2022-09-11 | 45 | 4 | 
+| 2022-09-10 | 45 | 4 | 
+| 2022-09-09 | 45 | 4 | 
+| 2022-09-08 | 45 | 4 | 
 
 
 [Detailed charts & statistics for ComplementaryDevelopment/ComplementaryReimagined](https://reviewgithub.com/rep/ComplementaryDevelopment/ComplementaryReimagined)

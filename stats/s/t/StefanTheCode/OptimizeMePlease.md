@@ -1,12 +1,12 @@
-# StefanTheCode/OptimizeMePlease / stars & forks statistics
-
-[Open repository/StefanTheCode/OptimizeMePlease](https://github.com/StefanTheCode/OptimizeMePlease)
+# StefanTheCode/OptimizeMePlease - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 38
 
 ★ Stars: 20
+
+[Open repository](https://github.com/StefanTheCode/OptimizeMePlease)
 
 ## Historical data
 | Date | Stars | Forks |

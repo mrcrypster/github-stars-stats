@@ -1,12 +1,12 @@
-# apache/fineract / stars & forks statistics
-
-[Open repository/apache/fineract](https://github.com/apache/fineract)
+# apache/fineract - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1084
 
 ★ Stars: 800
+
+[Open repository](https://github.com/apache/fineract)
 
 ## Historical data
 | Date | Stars | Forks |

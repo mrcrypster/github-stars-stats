@@ -1,12 +1,12 @@
-# yourcelf/firestarter / stars & forks statistics
-
-[Open repository/yourcelf/firestarter](https://github.com/yourcelf/firestarter)
+# yourcelf/firestarter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/yourcelf/firestarter)
 
 ## Historical data
 | Date | Stars | Forks |

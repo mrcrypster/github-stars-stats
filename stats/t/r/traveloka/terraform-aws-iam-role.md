@@ -1,16 +1,31 @@
-# traveloka/terraform-aws-iam-role / stars & forks statistics
-
-[Open repository/traveloka/terraform-aws-iam-role](https://github.com/traveloka/terraform-aws-iam-role)
+# traveloka/terraform-aws-iam-role - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 46
+☋ Forks: 45
 
 ★ Stars: 40
+
+[Open repository](https://github.com/traveloka/terraform-aws-iam-role)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 40 | 45 | 
+| 2022-10-06 | 40 | 45 | 
+| 2022-10-05 | 40 | 45 | 
+| 2022-10-04 | 40 | 45 | 
+| 2022-10-03 | 40 | 45 | 
+| 2022-10-02 | 40 | 45 | 
+| 2022-10-01 | 40 | 45 | 
+| 2022-09-30 | 40 | 45 | 
+| 2022-09-29 | 40 | 45 | 
+| 2022-09-28 | 40 | 45 | 
+| 2022-09-27 | 40 | 46 | 
+| 2022-09-26 | 40 | 46 | 
+| 2022-09-25 | 40 | 46 | 
+| 2022-09-24 | 40 | 46 | 
+| 2022-09-23 | 40 | 46 | 
 | 2022-09-22 | 40 | 46 | 
 | 2022-09-21 | 40 | 46 | 
 | 2022-09-20 | 40 | 46 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 40 | 46 | 
 | 2022-09-08 | 40 | 46 | 
 | 2022-09-07 | 40 | 46 | 
-| 2022-09-06 | 40 | 46 | 
-| 2022-09-05 | 40 | 46 | 
-| 2022-09-04 | 40 | 46 | 
-| 2022-09-03 | 40 | 46 | 
-| 2022-09-02 | 40 | 46 | 
-| 2022-09-01 | 40 | 46 | 
-| 2022-08-31 | 40 | 46 | 
-| 2022-08-30 | 40 | 46 | 
-| 2022-08-29 | 40 | 46 | 
-| 2022-08-28 | 40 | 46 | 
-| 2022-08-27 | 40 | 46 | 
-| 2022-08-26 | 40 | 46 | 
-| 2022-08-25 | 40 | 46 | 
-| 2022-08-24 | 40 | 46 | 
-| 2022-08-23 | 40 | 46 | 
 
 
 [Detailed charts & statistics for traveloka/terraform-aws-iam-role](https://reviewgithub.com/rep/traveloka/terraform-aws-iam-role)

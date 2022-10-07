@@ -1,16 +1,34 @@
-# cyberdefenders/email-header-analyzer / stars & forks statistics
-
-[Open repository/cyberdefenders/email-header-analyzer](https://github.com/cyberdefenders/email-header-analyzer)
+# cyberdefenders/email-header-analyzer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 135
+☋ Forks: 136
 
-★ Stars: 481
+★ Stars: 487
+
+[Open repository](https://github.com/cyberdefenders/email-header-analyzer)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 487 | 136 | 
+| 2022-10-05 | 486 | 136 | 
+| 2022-10-04 | 486 | 136 | 
+| 2022-10-03 | 486 | 136 | 
+| 2022-10-02 | 486 | 136 | 
+| 2022-10-01 | 486 | 136 | 
+| 2022-09-30 | 486 | 136 | 
+| 2022-09-29 | 486 | 136 | 
+| 2022-09-28 | 486 | 136 | 
+| 2022-09-27 | 485 | 136 | 
+| 2022-09-26 | 485 | 136 | 
+| 2022-09-25 | 485 | 136 | 
+| 2022-09-24 | 485 | 136 | 
+| 2022-09-23 | 484 | 136 | 
+| 2022-09-22 | 484 | 136 | 
+| 2022-09-21 | 483 | 136 | 
+| 2022-09-20 | 483 | 135 | 
+| 2022-09-19 | 482 | 135 | 
 | 2022-09-18 | 481 | 135 | 
 | 2022-09-17 | 480 | 135 | 
 | 2022-09-16 | 480 | 135 | 
@@ -22,25 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 477 | 134 | 
 | 2022-09-09 | 477 | 134 | 
 | 2022-09-08 | 478 | 134 | 
-| 2022-09-07 | 478 | 134 | 
-| 2022-09-06 | 478 | 134 | 
-| 2022-09-05 | 478 | 134 | 
-| 2022-09-04 | 478 | 134 | 
-| 2022-09-03 | 478 | 134 | 
-| 2022-09-02 | 477 | 134 | 
-| 2022-08-31 | 475 | 134 | 
-| 2022-08-30 | 474 | 134 | 
-| 2022-08-29 | 473 | 134 | 
-| 2022-08-28 | 473 | 134 | 
-| 2022-08-27 | 472 | 134 | 
-| 2022-08-26 | 470 | 134 | 
-| 2022-08-25 | 468 | 134 | 
-| 2022-08-24 | 466 | 133 | 
-| 2022-08-23 | 466 | 132 | 
-| 2022-08-22 | 463 | 131 | 
-| 2022-08-21 | 452 | 129 | 
-| 2022-08-20 | 436 | 127 | 
-| 2022-08-19 | 432 | 127 | 
 
 
 [Detailed charts & statistics for cyberdefenders/email-header-analyzer](https://reviewgithub.com/rep/cyberdefenders/email-header-analyzer)

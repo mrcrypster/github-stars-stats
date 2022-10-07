@@ -1,6 +1,4 @@
-# chipsalliance/rocket-chip-fpga-shells / stars & forks statistics
-
-[Open repository/chipsalliance/rocket-chip-fpga-shells](https://github.com/chipsalliance/rocket-chip-fpga-shells)
+# chipsalliance/rocket-chip-fpga-shells - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 6
 
+[Open repository](https://github.com/chipsalliance/rocket-chip-fpga-shells)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 1 | 
+| 2022-10-05 | 6 | 1 | 
+| 2022-10-04 | 6 | 1 | 
+| 2022-10-03 | 6 | 1 | 
+| 2022-10-02 | 6 | 1 | 
+| 2022-10-01 | 6 | 1 | 
+| 2022-09-30 | 6 | 1 | 
+| 2022-09-29 | 6 | 1 | 
+| 2022-09-28 | 6 | 1 | 
 | 2022-09-27 | 6 | 1 | 
 | 2022-09-26 | 6 | 1 | 
 | 2022-09-25 | 6 | 1 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 1 | 
 | 2022-09-09 | 6 | 1 | 
 | 2022-09-08 | 6 | 1 | 
-| 2022-09-07 | 6 | 1 | 
-| 2022-09-06 | 6 | 1 | 
-| 2022-09-05 | 6 | 1 | 
-| 2022-09-04 | 6 | 1 | 
-| 2022-09-03 | 6 | 1 | 
-| 2022-09-02 | 6 | 1 | 
-| 2022-09-01 | 6 | 1 | 
-| 2022-08-31 | 6 | 1 | 
-| 2022-08-30 | 5 | 1 | 
-| 2022-08-29 | 4 | 1 | 
 
 
 [Detailed charts & statistics for chipsalliance/rocket-chip-fpga-shells](https://reviewgithub.com/rep/chipsalliance/rocket-chip-fpga-shells)

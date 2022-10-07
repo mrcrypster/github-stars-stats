@@ -1,12 +1,12 @@
-# Sanakan8472/copy-dialog-lunar-lander / stars & forks statistics
-
-[Open repository/Sanakan8472/copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander)
+# Sanakan8472/copy-dialog-lunar-lander - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 55
 
 ★ Stars: 3075
+
+[Open repository](https://github.com/Sanakan8472/copy-dialog-lunar-lander)
 
 ## Historical data
 | Date | Stars | Forks |

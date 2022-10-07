@@ -1,46 +1,46 @@
-# sergejhorvat/TensorFlow-Data-and-Deployment-Specialization / stars & forks statistics
-
-[Open repository/sergejhorvat/TensorFlow-Data-and-Deployment-Specialization](https://github.com/sergejhorvat/TensorFlow-Data-and-Deployment-Specialization)
+# sergejhorvat/TensorFlow-Data-and-Deployment-Specialization - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 42
+☋ Forks: 44
 
-★ Stars: 23
+★ Stars: 24
+
+[Open repository](https://github.com/sergejhorvat/TensorFlow-Data-and-Deployment-Specialization)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-31 | 23 | 42 | 
-| 2022-07-30 | 23 | 42 | 
-| 2022-07-29 | 23 | 42 | 
-| 2022-07-28 | 23 | 42 | 
-| 2022-07-27 | 23 | 43 | 
-| 2022-07-26 | 23 | 43 | 
-| 2022-07-25 | 23 | 43 | 
-| 2022-07-24 | 23 | 43 | 
-| 2022-07-22 | 23 | 43 | 
-| 2022-07-21 | 23 | 43 | 
-| 2022-07-20 | 23 | 43 | 
-| 2022-07-19 | 23 | 43 | 
-| 2022-07-18 | 24 | 43 | 
-| 2022-07-17 | 24 | 43 | 
-| 2022-07-16 | 23 | 43 | 
-| 2022-07-15 | 23 | 43 | 
-| 2022-07-14 | 23 | 43 | 
-| 2022-07-13 | 22 | 43 | 
-| 2022-07-12 | 22 | 43 | 
-| 2022-07-11 | 21 | 43 | 
-| 2022-07-10 | 21 | 43 | 
-| 2022-07-09 | 21 | 43 | 
-| 2022-07-08 | 21 | 43 | 
-| 2022-07-07 | 21 | 43 | 
-| 2022-07-06 | 21 | 43 | 
-| 2022-07-05 | 21 | 43 | 
-| 2022-07-04 | 21 | 43 | 
-| 2022-07-03 | 21 | 43 | 
-| 2022-07-02 | 21 | 43 | 
-| 2022-07-01 | 21 | 43 | 
+| 2022-10-07 | 24 | 44 | 
+| 2022-10-06 | 24 | 44 | 
+| 2022-10-05 | 24 | 44 | 
+| 2022-10-04 | 24 | 44 | 
+| 2022-10-03 | 24 | 44 | 
+| 2022-10-02 | 24 | 43 | 
+| 2022-10-01 | 24 | 43 | 
+| 2022-09-30 | 24 | 43 | 
+| 2022-09-29 | 24 | 43 | 
+| 2022-09-28 | 24 | 43 | 
+| 2022-09-27 | 24 | 43 | 
+| 2022-09-26 | 24 | 43 | 
+| 2022-09-25 | 24 | 43 | 
+| 2022-09-24 | 24 | 43 | 
+| 2022-09-23 | 24 | 43 | 
+| 2022-09-22 | 24 | 43 | 
+| 2022-09-21 | 24 | 43 | 
+| 2022-09-20 | 24 | 43 | 
+| 2022-09-18 | 24 | 43 | 
+| 2022-09-17 | 24 | 43 | 
+| 2022-09-16 | 24 | 43 | 
+| 2022-09-15 | 24 | 43 | 
+| 2022-09-14 | 24 | 43 | 
+| 2022-09-13 | 24 | 43 | 
+| 2022-09-12 | 24 | 43 | 
+| 2022-09-11 | 24 | 43 | 
+| 2022-09-10 | 24 | 43 | 
+| 2022-09-09 | 24 | 43 | 
+| 2022-09-08 | 24 | 43 | 
+| 2022-09-07 | 24 | 43 | 
 
 
 [Detailed charts & statistics for sergejhorvat/TensorFlow-Data-and-Deployment-Specialization](https://reviewgithub.com/rep/sergejhorvat/TensorFlow-Data-and-Deployment-Specialization)

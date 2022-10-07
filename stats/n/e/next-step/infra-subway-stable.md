@@ -1,6 +1,4 @@
-# next-step/infra-subway-stable / stars & forks statistics
-
-[Open repository/next-step/infra-subway-stable](https://github.com/next-step/infra-subway-stable)
+# next-step/infra-subway-stable - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/next-step/infra-subway-stable)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 19 | 
+| 2022-10-05 | - | 19 | 
+| 2022-10-04 | - | 19 | 
+| 2022-10-03 | - | 19 | 
+| 2022-10-02 | - | 19 | 
 | 2022-10-01 | - | 19 | 
 | 2022-09-30 | - | 19 | 
 | 2022-09-29 | - | 19 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 19 | 
 | 2022-09-09 | - | 19 | 
 | 2022-09-08 | - | 18 | 
-| 2022-09-07 | - | 18 | 
-| 2022-09-06 | - | 18 | 
-| 2022-09-05 | - | 17 | 
-| 2022-09-04 | - | 15 | 
-| 2022-09-03 | - | 13 | 
-| 2022-09-02 | - | 13 | 
 
 
 [Detailed charts & statistics for next-step/infra-subway-stable](https://reviewgithub.com/rep/next-step/infra-subway-stable)

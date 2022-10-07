@@ -1,12 +1,12 @@
-# Kurispy/ecs50hw3 / stars & forks statistics
-
-[Open repository/Kurispy/ecs50hw3](https://github.com/Kurispy/ecs50hw3)
+# Kurispy/ecs50hw3 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Kurispy/ecs50hw3)
 
 ## Historical data
 | Date | Stars | Forks |

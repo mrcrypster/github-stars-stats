@@ -1,12 +1,12 @@
-# JesseLu/lset-opt / stars & forks statistics
-
-[Open repository/JesseLu/lset-opt](https://github.com/JesseLu/lset-opt)
+# JesseLu/lset-opt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/JesseLu/lset-opt)
 
 ## Historical data
 | Date | Stars | Forks |

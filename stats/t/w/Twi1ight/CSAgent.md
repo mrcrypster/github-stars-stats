@@ -1,42 +1,16 @@
-# Twi1ight/CSAgent / stars & forks statistics
-
-[Open repository/Twi1ight/CSAgent](https://github.com/Twi1ight/CSAgent)
+# Twi1ight/CSAgent - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 294
+☋ Forks: 
 
-★ Stars: 1189
+★ Stars: 
+
+[Open repository](https://github.com/Twi1ight/CSAgent)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-25 | 1189 | 294 | 
-| 2022-07-24 | 1186 | 294 | 
-| 2022-07-23 | 1186 | 294 | 
-| 2022-07-22 | 1181 | 293 | 
-| 2022-07-21 | 1178 | 293 | 
-| 2022-07-20 | 1176 | 292 | 
-| 2022-07-19 | 1175 | 292 | 
-| 2022-07-18 | 1172 | 292 | 
-| 2022-07-17 | 1171 | 291 | 
-| 2022-07-16 | 1170 | 291 | 
-| 2022-07-15 | 1168 | 291 | 
-| 2022-07-14 | 1166 | 291 | 
-| 2022-07-13 | 1166 | 290 | 
-| 2022-07-12 | 1165 | 290 | 
-| 2022-07-11 | 1161 | 290 | 
-| 2022-07-10 | 1157 | 289 | 
-| 2022-07-09 | 1157 | 289 | 
-| 2022-07-08 | 1153 | 289 | 
-| 2022-07-07 | 1152 | 289 | 
-| 2022-07-06 | 1145 | 287 | 
-| 2022-07-05 | 1139 | 287 | 
-| 2022-07-04 | 1130 | 287 | 
-| 2022-07-03 | 1127 | 287 | 
-| 2022-07-02 | 1126 | 286 | 
-| 2022-07-01 | 1124 | 285 | 
-| 2022-06-30 | 1119 | 284 | 
 
 
 [Detailed charts & statistics for Twi1ight/CSAgent](https://reviewgithub.com/rep/Twi1ight/CSAgent)

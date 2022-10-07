@@ -1,12 +1,12 @@
-# Wall-Brew-Co/common-beer-format / stars & forks statistics
-
-[Open repository/Wall-Brew-Co/common-beer-format](https://github.com/Wall-Brew-Co/common-beer-format)
+# Wall-Brew-Co/common-beer-format - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/Wall-Brew-Co/common-beer-format)
 
 ## Historical data
 | Date | Stars | Forks |

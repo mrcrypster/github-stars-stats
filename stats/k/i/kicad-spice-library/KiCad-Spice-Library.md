@@ -1,6 +1,4 @@
-# kicad-spice-library/KiCad-Spice-Library / stars & forks statistics
-
-[Open repository/kicad-spice-library/KiCad-Spice-Library](https://github.com/kicad-spice-library/KiCad-Spice-Library)
+# kicad-spice-library/KiCad-Spice-Library - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 114
 
+[Open repository](https://github.com/kicad-spice-library/KiCad-Spice-Library)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 114 | 34 | 
+| 2022-10-06 | 114 | 34 | 
+| 2022-10-05 | 114 | 34 | 
+| 2022-10-04 | 114 | 34 | 
+| 2022-10-03 | 114 | 34 | 
+| 2022-10-02 | 114 | 34 | 
+| 2022-09-30 | 114 | 34 | 
+| 2022-09-29 | 114 | 34 | 
+| 2022-09-28 | 114 | 34 | 
+| 2022-09-27 | 114 | 34 | 
 | 2022-09-26 | 114 | 34 | 
 | 2022-09-25 | 114 | 34 | 
 | 2022-09-24 | 114 | 34 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 108 | 34 | 
 | 2022-09-08 | 107 | 34 | 
 | 2022-09-07 | 107 | 34 | 
-| 2022-09-06 | 107 | 34 | 
-| 2022-09-05 | 107 | 34 | 
-| 2022-09-04 | 107 | 34 | 
-| 2022-09-03 | 107 | 34 | 
-| 2022-09-02 | 107 | 34 | 
-| 2022-09-01 | 107 | 34 | 
-| 2022-08-31 | 105 | 35 | 
-| 2022-08-30 | 104 | 35 | 
-| 2022-08-29 | 104 | 35 | 
-| 2022-08-28 | 104 | 35 | 
 
 
 [Detailed charts & statistics for kicad-spice-library/KiCad-Spice-Library](https://reviewgithub.com/rep/kicad-spice-library/KiCad-Spice-Library)

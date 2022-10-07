@@ -1,12 +1,12 @@
-# Zmegolaz/frogesport / stars & forks statistics
-
-[Open repository/Zmegolaz/frogesport](https://github.com/Zmegolaz/frogesport)
+# Zmegolaz/frogesport - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
+
+[Open repository](https://github.com/Zmegolaz/frogesport)
 
 ## Historical data
 | Date | Stars | Forks |

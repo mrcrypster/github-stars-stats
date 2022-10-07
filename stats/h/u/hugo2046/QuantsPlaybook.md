@@ -1,12 +1,12 @@
-# hugo2046/QuantsPlaybook / stars & forks statistics
-
-[Open repository/hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook)
+# hugo2046/QuantsPlaybook - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 229
 
 ★ Stars: 669
+
+[Open repository](https://github.com/hugo2046/QuantsPlaybook)
 
 ## Historical data
 | Date | Stars | Forks |

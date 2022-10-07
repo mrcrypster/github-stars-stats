@@ -1,12 +1,12 @@
-# matti/terraform-shell-resource / stars & forks statistics
-
-[Open repository/matti/terraform-shell-resource](https://github.com/matti/terraform-shell-resource)
+# matti/terraform-shell-resource - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
 ★ Stars: 228
+
+[Open repository](https://github.com/matti/terraform-shell-resource)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,32 @@
-# learn-co-curriculum/phase-3-ruby-building-applications-requiring-files / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-3-ruby-building-applications-requiring-files](https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-requiring-files)
+# learn-co-curriculum/phase-3-ruby-building-applications-requiring-files - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1047
+☋ Forks: 1085
 
 ★ Stars: 1
+
+[Open repository](https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-requiring-files)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | 1085 | 
+| 2022-10-06 | 1 | 1085 | 
+| 2022-10-05 | 1 | 1083 | 
+| 2022-10-04 | 1 | 1079 | 
+| 2022-10-03 | 1 | 1075 | 
+| 2022-10-02 | 1 | 1074 | 
+| 2022-10-01 | 1 | 1072 | 
+| 2022-09-30 | 1 | 1071 | 
+| 2022-09-29 | 1 | 1068 | 
+| 2022-09-28 | 1 | 1067 | 
+| 2022-09-27 | 1 | 1064 | 
+| 2022-09-26 | 1 | 1058 | 
+| 2022-09-25 | 1 | 1057 | 
+| 2022-09-24 | 1 | 1056 | 
+| 2022-09-23 | 1 | 1054 | 
+| 2022-09-22 | 1 | 1050 | 
 | 2022-09-21 | 1 | 1047 | 
 | 2022-09-20 | 1 | 1043 | 
 | 2022-09-19 | 1 | 1036 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 1023 | 
 | 2022-09-09 | 1 | 1020 | 
 | 2022-09-08 | 1 | 1022 | 
-| 2022-09-07 | 1 | 1018 | 
-| 2022-09-05 | 1 | 1013 | 
-| 2022-09-04 | 1 | 1008 | 
-| 2022-09-03 | 1 | 1005 | 
-| 2022-09-02 | 1 | 1004 | 
-| 2022-09-01 | 1 | 1000 | 
-| 2022-08-31 | 1 | 987 | 
-| 2022-08-30 | 1 | 972 | 
-| 2022-08-29 | 1 | 957 | 
-| 2022-08-28 | 1 | 934 | 
-| 2022-08-27 | 1 | 928 | 
-| 2022-08-26 | 1 | 916 | 
-| 2022-08-25 | 1 | 906 | 
-| 2022-08-24 | 1 | 886 | 
-| 2022-08-23 | 1 | 868 | 
-| 2022-08-22 | 1 | 856 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-3-ruby-building-applications-requiring-files](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-ruby-building-applications-requiring-files)

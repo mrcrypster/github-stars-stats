@@ -1,16 +1,26 @@
-# AUTOMATIC1111/stable-diffusion-webui / stars & forks statistics
-
-[Open repository/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+# AUTOMATIC1111/stable-diffusion-webui - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 533
+☋ Forks: 840
 
-★ Stars: 4590
+★ Stars: 6585
+
+[Open repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6585 | 840 | 
+| 2022-10-05 | 6219 | 786 | 
+| 2022-10-04 | 6138 | 771 | 
+| 2022-10-03 | 5915 | 738 | 
+| 2022-10-02 | 5704 | 703 | 
+| 2022-10-01 | 5486 | 668 | 
+| 2022-09-30 | 5313 | 639 | 
+| 2022-09-29 | 5116 | 607 | 
+| 2022-09-28 | 4816 | 572 | 
+| 2022-09-27 | 4727 | 558 | 
 | 2022-09-26 | 4590 | 533 | 
 | 2022-09-25 | 4413 | 509 | 
 | 2022-09-24 | 4218 | 484 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1532 | 140 | 
 | 2022-09-08 | 1196 | 110 | 
 | 2022-09-07 | 956 | 85 | 
-| 2022-09-06 | 749 | 66 | 
-| 2022-09-05 | 589 | 52 | 
-| 2022-09-04 | 554 | 48 | 
-| 2022-09-03 | 530 | 43 | 
-| 2022-09-02 | 509 | 39 | 
-| 2022-09-01 | 476 | 34 | 
-| 2022-08-31 | 470 | 34 | 
-| 2022-08-30 | 380 | 29 | 
-| 2022-08-29 | 289 | 24 | 
-| 2022-08-28 | 135 | 89 | 
 
 
 [Detailed charts & statistics for AUTOMATIC1111/stable-diffusion-webui](https://reviewgithub.com/rep/AUTOMATIC1111/stable-diffusion-webui)

@@ -1,12 +1,12 @@
-# HashLoad/handle-exception / stars & forks statistics
-
-[Open repository/HashLoad/handle-exception](https://github.com/HashLoad/handle-exception)
+# HashLoad/handle-exception - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 26
+
+[Open repository](https://github.com/HashLoad/handle-exception)
 
 ## Historical data
 | Date | Stars | Forks |

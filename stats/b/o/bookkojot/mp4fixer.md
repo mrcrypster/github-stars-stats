@@ -1,12 +1,12 @@
-# bookkojot/mp4fixer / stars & forks statistics
-
-[Open repository/bookkojot/mp4fixer](https://github.com/bookkojot/mp4fixer)
+# bookkojot/mp4fixer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 59
 
 ★ Stars: 268
+
+[Open repository](https://github.com/bookkojot/mp4fixer)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# hcarty/imagelib / stars & forks statistics
-
-[Open repository/hcarty/imagelib](https://github.com/hcarty/imagelib)
+# hcarty/imagelib - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
+
+[Open repository](https://github.com/hcarty/imagelib)
 
 ## Historical data
 | Date | Stars | Forks |

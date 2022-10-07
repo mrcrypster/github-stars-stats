@@ -1,16 +1,23 @@
-# klarna/erlavro / stars & forks statistics
-
-[Open repository/klarna/erlavro](https://github.com/klarna/erlavro)
+# klarna/erlavro - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
-★ Stars: 126
+★ Stars: 127
+
+[Open repository](https://github.com/klarna/erlavro)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 127 | 36 | 
+| 2022-10-05 | 127 | 36 | 
+| 2022-10-04 | 126 | 36 | 
+| 2022-10-03 | 126 | 36 | 
+| 2022-10-02 | 126 | 36 | 
+| 2022-10-01 | 126 | 36 | 
+| 2022-09-30 | 126 | 36 | 
 | 2022-09-29 | 126 | 36 | 
 | 2022-09-28 | 126 | 36 | 
 | 2022-09-27 | 126 | 36 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 126 | 36 | 
 | 2022-09-09 | 126 | 36 | 
 | 2022-09-08 | 126 | 36 | 
-| 2022-09-07 | 126 | 36 | 
-| 2022-09-06 | 126 | 36 | 
-| 2022-09-05 | 126 | 36 | 
-| 2022-09-04 | 126 | 36 | 
-| 2022-09-03 | 126 | 36 | 
-| 2022-09-02 | 126 | 36 | 
-| 2022-09-01 | 126 | 36 | 
-| 2022-08-31 | 126 | 36 | 
 
 
 [Detailed charts & statistics for klarna/erlavro](https://reviewgithub.com/rep/klarna/erlavro)

@@ -1,12 +1,12 @@
-# qierkang/yang-server / stars & forks statistics
-
-[Open repository/qierkang/yang-server](https://github.com/qierkang/yang-server)
+# qierkang/yang-server - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 37
+
+[Open repository](https://github.com/qierkang/yang-server)
 
 ## Historical data
 | Date | Stars | Forks |

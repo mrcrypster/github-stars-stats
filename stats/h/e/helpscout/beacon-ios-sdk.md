@@ -1,16 +1,26 @@
-# helpscout/beacon-ios-sdk / stars & forks statistics
-
-[Open repository/helpscout/beacon-ios-sdk](https://github.com/helpscout/beacon-ios-sdk)
+# helpscout/beacon-ios-sdk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
-★ Stars: 17
+★ Stars: 18
+
+[Open repository](https://github.com/helpscout/beacon-ios-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 18 | 8 | 
+| 2022-10-06 | 18 | 8 | 
+| 2022-10-05 | 17 | 8 | 
+| 2022-10-04 | 17 | 8 | 
+| 2022-10-03 | 17 | 8 | 
+| 2022-10-02 | 17 | 8 | 
+| 2022-10-01 | 17 | 8 | 
+| 2022-09-30 | 17 | 8 | 
+| 2022-09-29 | 17 | 8 | 
+| 2022-09-28 | 17 | 8 | 
 | 2022-09-27 | 17 | 8 | 
 | 2022-09-26 | 17 | 8 | 
 | 2022-09-25 | 17 | 8 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 17 | 8 | 
 | 2022-09-08 | 17 | 8 | 
 | 2022-09-07 | 17 | 8 | 
-| 2022-09-06 | 17 | 8 | 
-| 2022-09-05 | 17 | 8 | 
-| 2022-09-04 | 17 | 8 | 
-| 2022-09-03 | 17 | 8 | 
-| 2022-09-02 | 17 | 8 | 
-| 2022-09-01 | 17 | 8 | 
-| 2022-08-31 | 17 | 8 | 
-| 2022-08-30 | 17 | 8 | 
-| 2022-08-29 | 17 | 8 | 
-| 2022-08-28 | 16 | 8 | 
 
 
 [Detailed charts & statistics for helpscout/beacon-ios-sdk](https://reviewgithub.com/rep/helpscout/beacon-ios-sdk)

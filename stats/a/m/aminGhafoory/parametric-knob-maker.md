@@ -1,16 +1,22 @@
-# aminGhafoory/parametric-knob-maker / stars & forks statistics
-
-[Open repository/aminGhafoory/parametric-knob-maker](https://github.com/aminGhafoory/parametric-knob-maker)
+# aminGhafoory/parametric-knob-maker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 38
+
+[Open repository](https://github.com/aminGhafoory/parametric-knob-maker)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 38 | - | 
+| 2022-10-05 | 37 | - | 
+| 2022-10-04 | 37 | - | 
+| 2022-10-03 | 37 | - | 
+| 2022-10-02 | 37 | - | 
+| 2022-10-01 | 37 | - | 
 | 2022-09-30 | 37 | - | 
 | 2022-09-29 | 37 | - | 
 | 2022-09-28 | 37 | - | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 37 | - | 
 | 2022-09-09 | 37 | - | 
 | 2022-09-08 | 37 | - | 
-| 2022-09-07 | 37 | - | 
-| 2022-09-06 | 37 | - | 
-| 2022-09-05 | 36 | - | 
-| 2022-09-04 | 35 | - | 
-| 2022-09-03 | 35 | - | 
-| 2022-09-02 | 33 | - | 
-| 2022-09-01 | 33 | - | 
 
 
 [Detailed charts & statistics for aminGhafoory/parametric-knob-maker](https://reviewgithub.com/rep/aminGhafoory/parametric-knob-maker)

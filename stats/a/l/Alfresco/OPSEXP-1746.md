@@ -1,12 +1,12 @@
-# Alfresco/OPSEXP-1746 / stars & forks statistics
-
-[Open repository/Alfresco/OPSEXP-1746](https://github.com/Alfresco/OPSEXP-1746)
+# Alfresco/OPSEXP-1746 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Alfresco/OPSEXP-1746)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# giantswarm/gatling-app / stars & forks statistics
-
-[Open repository/giantswarm/gatling-app](https://github.com/giantswarm/gatling-app)
+# giantswarm/gatling-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/giantswarm/gatling-app)
 
 ## Historical data
 | Date | Stars | Forks |

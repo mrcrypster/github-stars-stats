@@ -1,12 +1,12 @@
-# wikimedia/puppet-kafka-0.7.2 / stars & forks statistics
-
-[Open repository/wikimedia/puppet-kafka-0.7.2](https://github.com/wikimedia/puppet-kafka-0.7.2)
+# wikimedia/puppet-kafka-0.7.2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
+
+[Open repository](https://github.com/wikimedia/puppet-kafka-0.7.2)
 
 ## Historical data
 | Date | Stars | Forks |

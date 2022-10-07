@@ -1,6 +1,4 @@
-# OCamlPro/ocp-index / stars & forks statistics
-
-[Open repository/OCamlPro/ocp-index](https://github.com/OCamlPro/ocp-index)
+# OCamlPro/ocp-index - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 60
 
+[Open repository](https://github.com/OCamlPro/ocp-index)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 60 | 24 | 
+| 2022-10-05 | 60 | 24 | 
+| 2022-10-04 | 60 | 24 | 
+| 2022-10-03 | 60 | 24 | 
+| 2022-10-02 | 60 | 24 | 
+| 2022-10-01 | 60 | 24 | 
+| 2022-09-30 | 60 | 24 | 
 | 2022-09-29 | 60 | 24 | 
 | 2022-09-28 | 60 | 24 | 
 | 2022-09-27 | 60 | 24 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 60 | 24 | 
 | 2022-09-09 | 60 | 24 | 
 | 2022-09-08 | 60 | 24 | 
-| 2022-09-07 | 60 | 24 | 
-| 2022-09-06 | 60 | 24 | 
-| 2022-09-05 | 60 | 24 | 
-| 2022-09-04 | 60 | 24 | 
-| 2022-09-03 | 60 | 24 | 
-| 2022-09-02 | 60 | 24 | 
-| 2022-09-01 | 60 | 24 | 
-| 2022-08-31 | 60 | 24 | 
 
 
 [Detailed charts & statistics for OCamlPro/ocp-index](https://reviewgithub.com/rep/OCamlPro/ocp-index)

@@ -1,12 +1,12 @@
-# overextended/ox_target / stars & forks statistics
-
-[Open repository/overextended/ox_target](https://github.com/overextended/ox_target)
+# overextended/ox_target - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 15
+
+[Open repository](https://github.com/overextended/ox_target)
 
 ## Historical data
 | Date | Stars | Forks |

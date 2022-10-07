@@ -1,12 +1,12 @@
-# ThinkR-open/mariobox / stars & forks statistics
-
-[Open repository/ThinkR-open/mariobox](https://github.com/ThinkR-open/mariobox)
+# ThinkR-open/mariobox - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 31
+
+[Open repository](https://github.com/ThinkR-open/mariobox)
 
 ## Historical data
 | Date | Stars | Forks |

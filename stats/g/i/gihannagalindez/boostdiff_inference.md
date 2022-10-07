@@ -1,12 +1,12 @@
-# gihannagalindez/boostdiff_inference / stars & forks statistics
-
-[Open repository/gihannagalindez/boostdiff_inference](https://github.com/gihannagalindez/boostdiff_inference)
+# gihannagalindez/boostdiff_inference - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
+
+[Open repository](https://github.com/gihannagalindez/boostdiff_inference)
 
 ## Historical data
 | Date | Stars | Forks |

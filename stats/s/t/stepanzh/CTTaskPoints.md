@@ -1,12 +1,12 @@
-# stepanzh/CTTaskPoints / stars & forks statistics
-
-[Open repository/stepanzh/CTTaskPoints](https://github.com/stepanzh/CTTaskPoints)
+# stepanzh/CTTaskPoints - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
+
+[Open repository](https://github.com/stepanzh/CTTaskPoints)
 
 ## Historical data
 | Date | Stars | Forks |

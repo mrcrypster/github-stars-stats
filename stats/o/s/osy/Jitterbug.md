@@ -1,16 +1,26 @@
-# osy/Jitterbug / stars & forks statistics
-
-[Open repository/osy/Jitterbug](https://github.com/osy/Jitterbug)
+# osy/Jitterbug - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
-★ Stars: 518
+★ Stars: 532
+
+[Open repository](https://github.com/osy/Jitterbug)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 532 | 44 | 
+| 2022-10-06 | 529 | 44 | 
+| 2022-10-05 | 527 | 44 | 
+| 2022-10-04 | 527 | 44 | 
+| 2022-10-03 | 526 | 44 | 
+| 2022-10-02 | 523 | 44 | 
+| 2022-10-01 | 521 | 44 | 
+| 2022-09-30 | 520 | 44 | 
+| 2022-09-29 | 520 | 44 | 
+| 2022-09-28 | 518 | 44 | 
 | 2022-09-27 | 518 | 44 | 
 | 2022-09-26 | 518 | 44 | 
 | 2022-09-25 | 516 | 43 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 484 | 43 | 
 | 2022-09-09 | 483 | 43 | 
 | 2022-09-08 | 482 | 43 | 
-| 2022-09-07 | 482 | 43 | 
-| 2022-09-06 | 481 | 43 | 
-| 2022-09-05 | 480 | 43 | 
-| 2022-09-04 | 478 | 43 | 
-| 2022-09-03 | 476 | 44 | 
-| 2022-09-02 | 475 | 44 | 
-| 2022-09-01 | 475 | 44 | 
-| 2022-08-31 | 474 | 44 | 
-| 2022-08-30 | 473 | 44 | 
-| 2022-08-29 | 471 | 44 | 
 
 
 [Detailed charts & statistics for osy/Jitterbug](https://reviewgithub.com/rep/osy/Jitterbug)

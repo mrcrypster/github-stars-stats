@@ -1,12 +1,12 @@
-# grrbbi5/shakrdp / stars & forks statistics
-
-[Open repository/grrbbi5/shakrdp](https://github.com/grrbbi5/shakrdp)
+# grrbbi5/shakrdp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 81
 
 ★ Stars: 1
+
+[Open repository](https://github.com/grrbbi5/shakrdp)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,21 @@
-# aritram1/Superbadge-Data-Integration-Specialist / stars & forks statistics
-
-[Open repository/aritram1/Superbadge-Data-Integration-Specialist](https://github.com/aritram1/Superbadge-Data-Integration-Specialist)
+# aritram1/Superbadge-Data-Integration-Specialist - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 16
+
+[Open repository](https://github.com/aritram1/Superbadge-Data-Integration-Specialist)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 16 | 45 | 
+| 2022-10-05 | 16 | 44 | 
+| 2022-10-04 | 16 | 44 | 
+| 2022-10-03 | 16 | 44 | 
+| 2022-10-02 | 16 | 44 | 
 | 2022-10-01 | 16 | 44 | 
 | 2022-09-30 | 16 | 44 | 
 | 2022-09-29 | 16 | 44 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 15 | 44 | 
 | 2022-09-09 | 15 | 44 | 
 | 2022-09-08 | 15 | 44 | 
-| 2022-09-07 | 15 | 44 | 
-| 2022-09-06 | 15 | 44 | 
-| 2022-09-05 | 15 | 43 | 
-| 2022-09-04 | 15 | 43 | 
-| 2022-09-03 | 15 | 43 | 
-| 2022-09-02 | 15 | 43 | 
 
 
 [Detailed charts & statistics for aritram1/Superbadge-Data-Integration-Specialist](https://reviewgithub.com/rep/aritram1/Superbadge-Data-Integration-Specialist)

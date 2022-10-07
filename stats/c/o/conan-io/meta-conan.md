@@ -1,12 +1,12 @@
-# conan-io/meta-conan / stars & forks statistics
-
-[Open repository/conan-io/meta-conan](https://github.com/conan-io/meta-conan)
+# conan-io/meta-conan - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 13
+
+[Open repository](https://github.com/conan-io/meta-conan)
 
 ## Historical data
 | Date | Stars | Forks |

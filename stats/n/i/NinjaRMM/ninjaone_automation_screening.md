@@ -1,6 +1,4 @@
-# NinjaRMM/ninjaone_automation_screening / stars & forks statistics
-
-[Open repository/NinjaRMM/ninjaone_automation_screening](https://github.com/NinjaRMM/ninjaone_automation_screening)
+# NinjaRMM/ninjaone_automation_screening - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,29 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/NinjaRMM/ninjaone_automation_screening)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | 10 | 
+| 2022-10-06 | 1 | 10 | 
+| 2022-10-05 | 1 | 10 | 
+| 2022-10-04 | 1 | 11 | 
+| 2022-10-03 | 1 | 10 | 
+| 2022-10-02 | 1 | 10 | 
+| 2022-10-01 | 1 | 10 | 
+| 2022-09-30 | 1 | 10 | 
+| 2022-09-29 | 1 | 10 | 
+| 2022-09-28 | 1 | 11 | 
+| 2022-09-26 | 1 | 11 | 
+| 2022-09-25 | 1 | 11 | 
+| 2022-09-24 | 1 | 10 | 
+| 2022-09-23 | 1 | 10 | 
+| 2022-09-22 | 1 | 10 | 
+| 2022-09-21 | 1 | 10 | 
+| 2022-09-20 | 1 | 10 | 
+| 2022-09-19 | 1 | 10 | 
 | 2022-09-18 | 1 | 10 | 
 | 2022-09-17 | 1 | 10 | 
 | 2022-09-16 | 1 | 10 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1 | 9 | 
 | 2022-09-08 | 1 | 9 | 
 | 2022-09-07 | 1 | 9 | 
-| 2022-09-06 | 1 | 9 | 
-| 2022-09-05 | 1 | 8 | 
-| 2022-09-04 | 1 | 8 | 
-| 2022-09-03 | 1 | 8 | 
-| 2022-09-02 | 1 | 8 | 
-| 2022-09-01 | 1 | 8 | 
-| 2022-08-31 | 1 | 7 | 
-| 2022-08-30 | 1 | 7 | 
-| 2022-08-29 | 1 | 7 | 
-| 2022-08-28 | 1 | 7 | 
-| 2022-08-27 | 1 | 7 | 
-| 2022-08-26 | 1 | 7 | 
-| 2022-08-25 | 1 | 7 | 
-| 2022-08-24 | 1 | 7 | 
-| 2022-08-23 | 1 | 7 | 
-| 2022-08-22 | 1 | 7 | 
-| 2022-08-21 | 1 | 6 | 
-| 2022-08-20 | 1 | 6 | 
 
 
 [Detailed charts & statistics for NinjaRMM/ninjaone_automation_screening](https://reviewgithub.com/rep/NinjaRMM/ninjaone_automation_screening)

@@ -1,12 +1,12 @@
-# kmille36/Go-Deploy-Windows-11-NGROK-RDP / stars & forks statistics
-
-[Open repository/kmille36/Go-Deploy-Windows-11-NGROK-RDP](https://github.com/kmille36/Go-Deploy-Windows-11-NGROK-RDP)
+# kmille36/Go-Deploy-Windows-11-NGROK-RDP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 10
+
+[Open repository](https://github.com/kmille36/Go-Deploy-Windows-11-NGROK-RDP)
 
 ## Historical data
 | Date | Stars | Forks |

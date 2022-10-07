@@ -1,12 +1,12 @@
-# nextcloud/nextcloudpi / stars & forks statistics
-
-[Open repository/nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi)
+# nextcloud/nextcloudpi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 261
 
 ★ Stars: 1772
+
+[Open repository](https://github.com/nextcloud/nextcloudpi)
 
 ## Historical data
 | Date | Stars | Forks |

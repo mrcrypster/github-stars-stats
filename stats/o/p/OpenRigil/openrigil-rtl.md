@@ -1,16 +1,27 @@
-# OpenRigil/openrigil-rtl / stars & forks statistics
-
-[Open repository/OpenRigil/openrigil-rtl](https://github.com/OpenRigil/openrigil-rtl)
+# OpenRigil/openrigil-rtl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
+
+[Open repository](https://github.com/OpenRigil/openrigil-rtl)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 15 | - | 
+| 2022-10-06 | 15 | - | 
+| 2022-10-05 | 15 | - | 
+| 2022-10-04 | 15 | - | 
+| 2022-10-03 | 15 | - | 
+| 2022-10-02 | 15 | - | 
+| 2022-10-01 | 15 | - | 
+| 2022-09-30 | 15 | - | 
+| 2022-09-29 | 15 | - | 
+| 2022-09-28 | 14 | - | 
+| 2022-09-27 | 14 | - | 
 | 2022-09-26 | 14 | - | 
 | 2022-09-25 | 14 | - | 
 | 2022-09-24 | 14 | - | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 13 | - | 
 | 2022-09-08 | 12 | - | 
 | 2022-09-07 | 12 | - | 
-| 2022-09-06 | 12 | - | 
-| 2022-09-05 | 12 | - | 
-| 2022-09-04 | 12 | - | 
-| 2022-09-03 | 12 | - | 
-| 2022-09-02 | 12 | - | 
-| 2022-09-01 | 12 | - | 
-| 2022-08-31 | 12 | - | 
-| 2022-08-30 | 12 | - | 
-| 2022-08-29 | 12 | - | 
-| 2022-08-28 | 12 | - | 
-| 2022-08-27 | 12 | - | 
 
 
 [Detailed charts & statistics for OpenRigil/openrigil-rtl](https://reviewgithub.com/rep/OpenRigil/openrigil-rtl)

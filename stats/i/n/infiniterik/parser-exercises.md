@@ -1,12 +1,12 @@
-# infiniterik/parser-exercises / stars & forks statistics
-
-[Open repository/infiniterik/parser-exercises](https://github.com/infiniterik/parser-exercises)
+# infiniterik/parser-exercises - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 0
+
+[Open repository](https://github.com/infiniterik/parser-exercises)
 
 ## Historical data
 | Date | Stars | Forks |

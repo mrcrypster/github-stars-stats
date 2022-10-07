@@ -1,12 +1,12 @@
-# dmihal/ens-everywhere-contracts / stars & forks statistics
-
-[Open repository/dmihal/ens-everywhere-contracts](https://github.com/dmihal/ens-everywhere-contracts)
+# dmihal/ens-everywhere-contracts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 10
+
+[Open repository](https://github.com/dmihal/ens-everywhere-contracts)
 
 ## Historical data
 | Date | Stars | Forks |

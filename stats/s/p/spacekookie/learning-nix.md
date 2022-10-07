@@ -1,6 +1,4 @@
-# spacekookie/learning-nix / stars & forks statistics
-
-[Open repository/spacekookie/learning-nix](https://github.com/spacekookie/learning-nix)
+# spacekookie/learning-nix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/spacekookie/learning-nix)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 23 | 1 | 
+| 2022-10-06 | 23 | 1 | 
+| 2022-10-05 | 23 | 1 | 
+| 2022-10-04 | 23 | 1 | 
+| 2022-10-03 | 23 | 1 | 
+| 2022-10-02 | 23 | 1 | 
+| 2022-10-01 | 23 | 1 | 
+| 2022-09-30 | 23 | 1 | 
+| 2022-09-29 | 23 | 1 | 
+| 2022-09-28 | 23 | 1 | 
+| 2022-09-27 | 23 | 1 | 
+| 2022-09-26 | 23 | 1 | 
+| 2022-09-25 | 23 | 1 | 
 | 2022-09-24 | 23 | 1 | 
 | 2022-09-23 | 23 | 1 | 
 | 2022-09-22 | 23 | 1 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 23 | 1 | 
 | 2022-09-08 | 23 | 1 | 
 | 2022-09-07 | 23 | 1 | 
-| 2022-09-06 | 23 | 1 | 
-| 2022-09-05 | 23 | 1 | 
-| 2022-09-04 | 23 | 1 | 
-| 2022-09-03 | 23 | 1 | 
-| 2022-09-02 | 23 | 1 | 
-| 2022-09-01 | 22 | 1 | 
-| 2022-08-31 | 22 | 1 | 
-| 2022-08-30 | 22 | 1 | 
-| 2022-08-29 | 22 | 1 | 
-| 2022-08-28 | 21 | 1 | 
-| 2022-08-27 | 19 | 1 | 
-| 2022-08-26 | 19 | 1 | 
-| 2022-08-25 | 18 | 1 | 
 
 
 [Detailed charts & statistics for spacekookie/learning-nix](https://reviewgithub.com/rep/spacekookie/learning-nix)

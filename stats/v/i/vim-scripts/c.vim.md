@@ -1,6 +1,4 @@
-# vim-scripts/c.vim / stars & forks statistics
-
-[Open repository/vim-scripts/c.vim](https://github.com/vim-scripts/c.vim)
+# vim-scripts/c.vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 149
 
+[Open repository](https://github.com/vim-scripts/c.vim)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 149 | 70 | 
+| 2022-10-05 | 149 | 70 | 
+| 2022-10-04 | 149 | 70 | 
+| 2022-10-03 | 149 | 70 | 
+| 2022-10-02 | 149 | 70 | 
 | 2022-10-01 | 149 | 70 | 
 | 2022-09-30 | 149 | 70 | 
 | 2022-09-29 | 149 | 70 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 148 | 70 | 
 | 2022-09-09 | 148 | 70 | 
 | 2022-09-08 | 148 | 70 | 
-| 2022-09-07 | 148 | 70 | 
-| 2022-09-06 | 148 | 70 | 
-| 2022-09-05 | 148 | 70 | 
-| 2022-09-04 | 148 | 70 | 
-| 2022-09-03 | 148 | 70 | 
-| 2022-09-02 | 148 | 70 | 
 
 
 [Detailed charts & statistics for vim-scripts/c.vim](https://reviewgithub.com/rep/vim-scripts/c.vim)

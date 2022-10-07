@@ -1,6 +1,4 @@
-# micronaut-projects/micronaut-groovy / stars & forks statistics
-
-[Open repository/micronaut-projects/micronaut-groovy](https://github.com/micronaut-projects/micronaut-groovy)
+# micronaut-projects/micronaut-groovy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,32 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 15
 
+[Open repository](https://github.com/micronaut-projects/micronaut-groovy)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 15 | 7 | 
+| 2022-10-06 | 15 | 7 | 
+| 2022-10-05 | 15 | 7 | 
+| 2022-10-04 | 15 | 7 | 
+| 2022-10-03 | 15 | 7 | 
+| 2022-10-02 | 15 | 7 | 
+| 2022-10-01 | 15 | 7 | 
+| 2022-09-30 | 15 | 7 | 
+| 2022-09-29 | 15 | 7 | 
+| 2022-09-28 | 15 | 7 | 
+| 2022-09-27 | 15 | 7 | 
+| 2022-09-26 | 15 | 7 | 
+| 2022-09-25 | 15 | 7 | 
+| 2022-09-24 | 15 | 7 | 
+| 2022-09-23 | 15 | 7 | 
+| 2022-09-22 | 15 | 7 | 
+| 2022-09-21 | 15 | 7 | 
+| 2022-09-20 | 15 | 7 | 
+| 2022-09-19 | 15 | 7 | 
+| 2022-09-18 | 15 | 7 | 
+| 2022-09-17 | 15 | 7 | 
 | 2022-09-16 | 15 | 7 | 
 | 2022-09-14 | 15 | 7 | 
 | 2022-09-13 | 15 | 7 | 
@@ -20,27 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 15 | 7 | 
 | 2022-09-08 | 15 | 7 | 
 | 2022-09-07 | 15 | 7 | 
-| 2022-09-06 | 15 | 7 | 
-| 2022-09-05 | 15 | 7 | 
-| 2022-09-04 | 15 | 7 | 
-| 2022-09-03 | 15 | 7 | 
-| 2022-09-02 | 15 | 7 | 
-| 2022-09-01 | 15 | 7 | 
-| 2022-08-31 | 15 | 7 | 
-| 2022-08-30 | 15 | 7 | 
-| 2022-08-29 | 15 | 7 | 
-| 2022-08-28 | 15 | 7 | 
-| 2022-08-27 | 15 | 7 | 
-| 2022-08-26 | 15 | 7 | 
-| 2022-08-25 | 15 | 7 | 
-| 2022-08-24 | 15 | 7 | 
-| 2022-08-23 | 15 | 7 | 
-| 2022-08-22 | 15 | 7 | 
-| 2022-08-21 | 15 | 7 | 
-| 2022-08-20 | 15 | 7 | 
-| 2022-08-19 | 15 | 7 | 
-| 2022-08-18 | 15 | 7 | 
-| 2022-08-17 | 15 | 7 | 
 
 
 [Detailed charts & statistics for micronaut-projects/micronaut-groovy](https://reviewgithub.com/rep/micronaut-projects/micronaut-groovy)

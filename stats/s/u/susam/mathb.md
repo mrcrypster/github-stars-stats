@@ -1,12 +1,12 @@
-# susam/mathb / stars & forks statistics
-
-[Open repository/susam/mathb](https://github.com/susam/mathb)
+# susam/mathb - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 222
+
+[Open repository](https://github.com/susam/mathb)
 
 ## Historical data
 | Date | Stars | Forks |

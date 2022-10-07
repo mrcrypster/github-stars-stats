@@ -1,6 +1,4 @@
-# elixir-ecto/db_connection / stars & forks statistics
-
-[Open repository/elixir-ecto/db_connection](https://github.com/elixir-ecto/db_connection)
+# elixir-ecto/db_connection - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 264
 
+[Open repository](https://github.com/elixir-ecto/db_connection)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 264 | 104 | 
+| 2022-10-05 | 264 | 104 | 
+| 2022-10-04 | 264 | 104 | 
+| 2022-10-03 | 264 | 104 | 
 | 2022-10-02 | 264 | 104 | 
 | 2022-10-01 | 264 | 104 | 
 | 2022-09-30 | 264 | 104 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 263 | 103 | 
 | 2022-09-09 | 263 | 103 | 
 | 2022-09-08 | 263 | 103 | 
-| 2022-09-07 | 263 | 103 | 
-| 2022-09-06 | 262 | 103 | 
-| 2022-09-05 | 262 | 103 | 
-| 2022-09-04 | 262 | 103 | 
-| 2022-09-03 | 262 | 103 | 
 
 
 [Detailed charts & statistics for elixir-ecto/db_connection](https://reviewgithub.com/rep/elixir-ecto/db_connection)

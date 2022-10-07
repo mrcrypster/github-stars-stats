@@ -1,6 +1,4 @@
-# polymerdao/plonky2-solidity-verifier / stars & forks statistics
-
-[Open repository/polymerdao/plonky2-solidity-verifier](https://github.com/polymerdao/plonky2-solidity-verifier)
+# polymerdao/plonky2-solidity-verifier - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/polymerdao/plonky2-solidity-verifier)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 23 | - | 
+| 2022-10-05 | 23 | - | 
+| 2022-10-04 | 23 | - | 
+| 2022-10-03 | 23 | - | 
+| 2022-10-02 | 23 | - | 
+| 2022-10-01 | 23 | - | 
+| 2022-09-30 | 23 | - | 
 | 2022-09-29 | 23 | - | 
 | 2022-09-28 | 23 | - | 
 | 2022-09-27 | 23 | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 22 | - | 
 | 2022-09-09 | 22 | - | 
 | 2022-09-08 | 22 | - | 
-| 2022-09-07 | 22 | - | 
-| 2022-09-06 | 22 | - | 
-| 2022-09-05 | 21 | - | 
-| 2022-09-04 | 21 | - | 
-| 2022-09-03 | 21 | - | 
-| 2022-09-02 | 20 | - | 
-| 2022-09-01 | 20 | - | 
-| 2022-08-31 | 20 | - | 
 
 
 [Detailed charts & statistics for polymerdao/plonky2-solidity-verifier](https://reviewgithub.com/rep/polymerdao/plonky2-solidity-verifier)

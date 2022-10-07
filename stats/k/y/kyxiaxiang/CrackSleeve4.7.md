@@ -1,12 +1,12 @@
-# kyxiaxiang/CrackSleeve4.7 / stars & forks statistics
-
-[Open repository/kyxiaxiang/CrackSleeve4.7](https://github.com/kyxiaxiang/CrackSleeve4.7)
+# kyxiaxiang/CrackSleeve4.7 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 79
+
+[Open repository](https://github.com/kyxiaxiang/CrackSleeve4.7)
 
 ## Historical data
 | Date | Stars | Forks |

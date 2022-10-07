@@ -1,12 +1,12 @@
-# Lorys89/Lenovo_ThinkPad_E570 / stars & forks statistics
-
-[Open repository/Lorys89/Lenovo_ThinkPad_E570](https://github.com/Lorys89/Lenovo_ThinkPad_E570)
+# Lorys89/Lenovo_ThinkPad_E570 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
+
+[Open repository](https://github.com/Lorys89/Lenovo_ThinkPad_E570)
 
 ## Historical data
 | Date | Stars | Forks |

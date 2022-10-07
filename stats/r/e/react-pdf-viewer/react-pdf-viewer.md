@@ -1,16 +1,31 @@
-# react-pdf-viewer/react-pdf-viewer / stars & forks statistics
-
-[Open repository/react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer)
+# react-pdf-viewer/react-pdf-viewer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 1262
+★ Stars: 1289
+
+[Open repository](https://github.com/react-pdf-viewer/react-pdf-viewer)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1289 | 124 | 
+| 2022-10-06 | 1275 | 124 | 
+| 2022-10-05 | 1271 | 124 | 
+| 2022-10-04 | 1270 | 124 | 
+| 2022-10-03 | 1270 | 124 | 
+| 2022-10-02 | 1270 | 124 | 
+| 2022-10-01 | 1270 | 124 | 
+| 2022-09-30 | 1270 | 124 | 
+| 2022-09-29 | 1269 | 124 | 
+| 2022-09-28 | 1268 | 124 | 
+| 2022-09-27 | 1267 | 124 | 
+| 2022-09-26 | 1266 | 123 | 
+| 2022-09-25 | 1264 | 123 | 
+| 2022-09-24 | 1263 | 123 | 
+| 2022-09-23 | 1263 | 123 | 
 | 2022-09-22 | 1262 | 123 | 
 | 2022-09-21 | 1262 | 123 | 
 | 2022-09-20 | 1262 | 123 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1254 | 121 | 
 | 2022-09-08 | 1254 | 121 | 
 | 2022-09-07 | 1251 | 121 | 
-| 2022-09-06 | 1251 | 121 | 
-| 2022-09-05 | 1247 | 121 | 
-| 2022-09-04 | 1242 | 121 | 
-| 2022-09-03 | 1242 | 121 | 
-| 2022-09-02 | 1242 | 121 | 
-| 2022-09-01 | 1242 | 121 | 
-| 2022-08-31 | 1241 | 120 | 
-| 2022-08-30 | 1235 | 119 | 
-| 2022-08-29 | 1235 | 119 | 
-| 2022-08-28 | 1224 | 119 | 
-| 2022-08-27 | 1222 | 119 | 
-| 2022-08-26 | 1219 | 119 | 
-| 2022-08-25 | 1206 | 119 | 
-| 2022-08-24 | 1193 | 119 | 
-| 2022-08-23 | 1172 | 119 | 
 
 
 [Detailed charts & statistics for react-pdf-viewer/react-pdf-viewer](https://reviewgithub.com/rep/react-pdf-viewer/react-pdf-viewer)

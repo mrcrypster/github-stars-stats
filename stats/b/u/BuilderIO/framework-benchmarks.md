@@ -1,16 +1,32 @@
-# BuilderIO/framework-benchmarks / stars & forks statistics
-
-[Open repository/BuilderIO/framework-benchmarks](https://github.com/BuilderIO/framework-benchmarks)
+# BuilderIO/framework-benchmarks - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 322
+★ Stars: 331
+
+[Open repository](https://github.com/BuilderIO/framework-benchmarks)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 331 | 15 | 
+| 2022-10-05 | 331 | 15 | 
+| 2022-10-04 | 330 | 14 | 
+| 2022-10-03 | 329 | 14 | 
+| 2022-10-02 | 328 | 14 | 
+| 2022-10-01 | 327 | 14 | 
+| 2022-09-30 | 326 | 14 | 
+| 2022-09-29 | 326 | 14 | 
+| 2022-09-28 | 326 | 14 | 
+| 2022-09-27 | 326 | 14 | 
+| 2022-09-26 | 326 | 14 | 
+| 2022-09-25 | 326 | 14 | 
+| 2022-09-24 | 325 | 14 | 
+| 2022-09-23 | 324 | 14 | 
+| 2022-09-22 | 322 | 14 | 
+| 2022-09-21 | 322 | 14 | 
 | 2022-09-20 | 322 | 14 | 
 | 2022-09-19 | 321 | 14 | 
 | 2022-09-18 | 320 | 14 | 
@@ -24,23 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 313 | 13 | 
 | 2022-09-09 | 312 | 13 | 
 | 2022-09-08 | 308 | 13 | 
-| 2022-09-07 | 305 | 13 | 
-| 2022-09-06 | 301 | 13 | 
-| 2022-09-05 | 300 | 13 | 
-| 2022-09-04 | 301 | 13 | 
-| 2022-09-03 | 300 | 13 | 
-| 2022-09-02 | 300 | 13 | 
-| 2022-08-31 | 297 | 13 | 
-| 2022-08-30 | 295 | 13 | 
-| 2022-08-29 | 288 | 13 | 
-| 2022-08-28 | 286 | 13 | 
-| 2022-08-27 | 284 | 13 | 
-| 2022-08-26 | 280 | 13 | 
-| 2022-08-25 | 270 | 12 | 
-| 2022-08-24 | 262 | 11 | 
-| 2022-08-23 | 254 | 11 | 
-| 2022-08-22 | 201 | 9 | 
-| 2022-08-21 | 183 | 8 | 
 
 
 [Detailed charts & statistics for BuilderIO/framework-benchmarks](https://reviewgithub.com/rep/BuilderIO/framework-benchmarks)

@@ -1,12 +1,12 @@
-# rollbar/rollbar-ios / stars & forks statistics
-
-[Open repository/rollbar/rollbar-ios](https://github.com/rollbar/rollbar-ios)
+# rollbar/rollbar-ios - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 60
 
 ★ Stars: 65
+
+[Open repository](https://github.com/rollbar/rollbar-ios)
 
 ## Historical data
 | Date | Stars | Forks |

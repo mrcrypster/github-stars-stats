@@ -1,12 +1,12 @@
-# pybind/pybind11_bazel / stars & forks statistics
-
-[Open repository/pybind/pybind11_bazel](https://github.com/pybind/pybind11_bazel)
+# pybind/pybind11_bazel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 60
+
+[Open repository](https://github.com/pybind/pybind11_bazel)
 
 ## Historical data
 | Date | Stars | Forks |

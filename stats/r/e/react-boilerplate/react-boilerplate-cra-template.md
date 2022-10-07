@@ -1,16 +1,24 @@
-# react-boilerplate/react-boilerplate-cra-template / stars & forks statistics
-
-[Open repository/react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template)
+# react-boilerplate/react-boilerplate-cra-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 326
+☋ Forks: 328
 
-★ Stars: 1585
+★ Stars: 1598
+
+[Open repository](https://github.com/react-boilerplate/react-boilerplate-cra-template)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1598 | 328 | 
+| 2022-10-05 | 1594 | 327 | 
+| 2022-10-04 | 1592 | 327 | 
+| 2022-10-03 | 1592 | 327 | 
+| 2022-10-02 | 1590 | 327 | 
+| 2022-10-01 | 1590 | 327 | 
+| 2022-09-30 | 1589 | 327 | 
+| 2022-09-29 | 1588 | 327 | 
 | 2022-09-28 | 1585 | 326 | 
 | 2022-09-27 | 1583 | 326 | 
 | 2022-09-26 | 1583 | 326 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1565 | 322 | 
 | 2022-09-09 | 1562 | 322 | 
 | 2022-09-08 | 1559 | 321 | 
-| 2022-09-07 | 1558 | 321 | 
-| 2022-09-06 | 1552 | 317 | 
-| 2022-09-05 | 1549 | 316 | 
-| 2022-09-04 | 1548 | 316 | 
-| 2022-09-03 | 1544 | 316 | 
-| 2022-09-02 | 1539 | 316 | 
-| 2022-08-31 | 1533 | 315 | 
-| 2022-08-30 | 1522 | 313 | 
-| 2022-08-29 | 1511 | 313 | 
 
 
 [Detailed charts & statistics for react-boilerplate/react-boilerplate-cra-template](https://reviewgithub.com/rep/react-boilerplate/react-boilerplate-cra-template)

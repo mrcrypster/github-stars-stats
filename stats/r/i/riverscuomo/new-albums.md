@@ -1,6 +1,4 @@
-# riverscuomo/new-albums / stars & forks statistics
-
-[Open repository/riverscuomo/new-albums](https://github.com/riverscuomo/new-albums)
+# riverscuomo/new-albums - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 113
 
+[Open repository](https://github.com/riverscuomo/new-albums)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 113 | 18 | 
+| 2022-10-05 | 113 | 18 | 
 | 2022-10-04 | 113 | 18 | 
 | 2022-10-03 | 113 | 18 | 
 | 2022-10-02 | 113 | 18 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 108 | 17 | 
 | 2022-09-09 | 108 | 17 | 
 | 2022-09-08 | 103 | 17 | 
-| 2022-09-07 | 100 | 17 | 
-| 2022-09-06 | 95 | 16 | 
-| 2022-09-05 | 94 | 16 | 
 
 
 [Detailed charts & statistics for riverscuomo/new-albums](https://reviewgithub.com/rep/riverscuomo/new-albums)

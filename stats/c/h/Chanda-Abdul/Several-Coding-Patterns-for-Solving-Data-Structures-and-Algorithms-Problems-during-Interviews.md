@@ -1,46 +1,45 @@
-# Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews / stars & forks statistics
-
-[Open repository/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
+# Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 109
+☋ Forks: 127
 
-★ Stars: 235
+★ Stars: 281
+
+[Open repository](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 235 | 109 | 
-| 2022-07-29 | 234 | 109 | 
-| 2022-07-28 | 234 | 109 | 
-| 2022-07-27 | 232 | 108 | 
-| 2022-07-26 | 230 | 108 | 
-| 2022-07-25 | 228 | 106 | 
-| 2022-07-24 | 225 | 106 | 
-| 2022-07-23 | 225 | 106 | 
-| 2022-07-22 | 226 | 106 | 
-| 2022-07-21 | 224 | 106 | 
-| 2022-07-20 | 224 | 106 | 
-| 2022-07-19 | 224 | 106 | 
-| 2022-07-18 | 224 | 106 | 
-| 2022-07-17 | 223 | 107 | 
-| 2022-07-16 | 223 | 107 | 
-| 2022-07-15 | 223 | 107 | 
-| 2022-07-14 | 222 | 107 | 
-| 2022-07-12 | 223 | 107 | 
-| 2022-07-11 | 223 | 107 | 
-| 2022-07-10 | 222 | 107 | 
-| 2022-07-09 | 221 | 105 | 
-| 2022-07-08 | 219 | 104 | 
-| 2022-07-07 | 217 | 104 | 
-| 2022-07-06 | 217 | 103 | 
-| 2022-07-05 | 216 | 103 | 
-| 2022-07-04 | 216 | 104 | 
-| 2022-07-03 | 216 | 104 | 
-| 2022-07-02 | 216 | 104 | 
-| 2022-07-01 | 214 | 103 | 
-| 2022-06-30 | 213 | 102 | 
+| 2022-10-06 | 281 | 127 | 
+| 2022-10-05 | 281 | 127 | 
+| 2022-10-04 | 281 | 127 | 
+| 2022-10-03 | 281 | 127 | 
+| 2022-10-02 | 281 | 126 | 
+| 2022-10-01 | 281 | 125 | 
+| 2022-09-30 | 280 | 126 | 
+| 2022-09-29 | 279 | 125 | 
+| 2022-09-28 | 278 | 125 | 
+| 2022-09-27 | 277 | 124 | 
+| 2022-09-26 | 276 | 124 | 
+| 2022-09-25 | 276 | 124 | 
+| 2022-09-24 | 276 | 124 | 
+| 2022-09-23 | 275 | 124 | 
+| 2022-09-22 | 275 | 124 | 
+| 2022-09-21 | 273 | 124 | 
+| 2022-09-20 | 273 | 122 | 
+| 2022-09-19 | 273 | 122 | 
+| 2022-09-18 | 273 | 120 | 
+| 2022-09-17 | 272 | 120 | 
+| 2022-09-16 | 271 | 120 | 
+| 2022-09-15 | 271 | 119 | 
+| 2022-09-14 | 271 | 119 | 
+| 2022-09-13 | 270 | 119 | 
+| 2022-09-12 | 269 | 119 | 
+| 2022-09-11 | 269 | 119 | 
+| 2022-09-10 | 269 | 119 | 
+| 2022-09-09 | 268 | 119 | 
+| 2022-09-08 | 267 | 119 | 
 
 
 [Detailed charts & statistics for Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://reviewgithub.com/rep/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)

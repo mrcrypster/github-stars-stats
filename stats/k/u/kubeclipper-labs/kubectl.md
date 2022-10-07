@@ -1,6 +1,4 @@
-# kubeclipper-labs/kubectl / stars & forks statistics
-
-[Open repository/kubeclipper-labs/kubectl](https://github.com/kubeclipper-labs/kubectl)
+# kubeclipper-labs/kubectl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/kubeclipper-labs/kubectl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 23 | - | 
+| 2022-10-06 | 23 | - | 
+| 2022-10-05 | 23 | - | 
+| 2022-10-04 | 23 | - | 
+| 2022-10-03 | 23 | - | 
+| 2022-10-02 | 23 | - | 
+| 2022-10-01 | 23 | - | 
+| 2022-09-30 | 23 | - | 
+| 2022-09-29 | 23 | - | 
+| 2022-09-28 | 23 | - | 
+| 2022-09-27 | 23 | - | 
+| 2022-09-26 | 23 | - | 
+| 2022-09-25 | 23 | - | 
+| 2022-09-24 | 23 | - | 
+| 2022-09-23 | 23 | - | 
 | 2022-09-22 | 23 | - | 
 | 2022-09-21 | 23 | - | 
 | 2022-09-20 | 23 | - | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 23 | - | 
 | 2022-09-08 | 23 | - | 
 | 2022-09-07 | 23 | - | 
-| 2022-09-06 | 23 | - | 
-| 2022-09-05 | 19 | - | 
-| 2022-09-04 | 19 | - | 
-| 2022-09-03 | 19 | - | 
-| 2022-09-02 | 19 | - | 
-| 2022-09-01 | 19 | - | 
-| 2022-08-31 | 19 | - | 
-| 2022-08-30 | 19 | - | 
-| 2022-08-29 | 19 | - | 
-| 2022-08-28 | 19 | - | 
-| 2022-08-27 | 19 | - | 
-| 2022-08-26 | 19 | - | 
-| 2022-08-25 | 19 | - | 
-| 2022-08-24 | 19 | - | 
-| 2022-08-23 | 19 | - | 
 
 
 [Detailed charts & statistics for kubeclipper-labs/kubectl](https://reviewgithub.com/rep/kubeclipper-labs/kubectl)

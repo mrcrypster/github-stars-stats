@@ -1,12 +1,12 @@
-# penpot/penpot-docs / stars & forks statistics
-
-[Open repository/penpot/penpot-docs](https://github.com/penpot/penpot-docs)
+# penpot/penpot-docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 76
+
+[Open repository](https://github.com/penpot/penpot-docs)
 
 ## Historical data
 | Date | Stars | Forks |

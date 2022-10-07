@@ -1,16 +1,30 @@
-# 0voice/audio_video_streaming / stars & forks statistics
-
-[Open repository/0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)
+# 0voice/audio_video_streaming - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 720
+☋ Forks: 728
 
-★ Stars: 3372
+★ Stars: 3394
+
+[Open repository](https://github.com/0voice/audio_video_streaming)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3394 | 728 | 
+| 2022-10-06 | 3395 | 728 | 
+| 2022-10-05 | 3394 | 728 | 
+| 2022-10-04 | 3392 | 727 | 
+| 2022-10-03 | 3392 | 727 | 
+| 2022-10-02 | 3391 | 726 | 
+| 2022-10-01 | 3391 | 726 | 
+| 2022-09-30 | 3389 | 725 | 
+| 2022-09-29 | 3387 | 724 | 
+| 2022-09-28 | 3383 | 724 | 
+| 2022-09-27 | 3382 | 723 | 
+| 2022-09-26 | 3376 | 722 | 
+| 2022-09-25 | 3373 | 722 | 
+| 2022-09-24 | 3373 | 722 | 
 | 2022-09-23 | 3372 | 720 | 
 | 2022-09-22 | 3368 | 719 | 
 | 2022-09-21 | 3365 | 719 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3340 | 713 | 
 | 2022-09-08 | 3338 | 713 | 
 | 2022-09-07 | 3332 | 712 | 
-| 2022-09-06 | 3330 | 712 | 
-| 2022-09-05 | 3328 | 711 | 
-| 2022-09-04 | 3327 | 711 | 
-| 2022-09-03 | 3328 | 710 | 
-| 2022-09-02 | 3325 | 709 | 
-| 2022-09-01 | 3322 | 708 | 
-| 2022-08-31 | 3317 | 709 | 
-| 2022-08-30 | 3315 | 709 | 
-| 2022-08-29 | 3310 | 707 | 
-| 2022-08-28 | 3305 | 706 | 
-| 2022-08-27 | 3305 | 706 | 
-| 2022-08-26 | 3300 | 704 | 
-| 2022-08-25 | 3294 | 703 | 
-| 2022-08-24 | 3290 | 703 | 
 
 
 [Detailed charts & statistics for 0voice/audio_video_streaming](https://reviewgithub.com/rep/0voice/audio_video_streaming)

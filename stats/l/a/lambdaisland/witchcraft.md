@@ -1,6 +1,4 @@
-# lambdaisland/witchcraft / stars & forks statistics
-
-[Open repository/lambdaisland/witchcraft](https://github.com/lambdaisland/witchcraft)
+# lambdaisland/witchcraft - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 117
 
+[Open repository](https://github.com/lambdaisland/witchcraft)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 117 | 7 | 
+| 2022-10-05 | 117 | 7 | 
+| 2022-10-04 | 117 | 7 | 
+| 2022-10-03 | 117 | 7 | 
+| 2022-10-02 | 117 | 7 | 
+| 2022-10-01 | 117 | 7 | 
 | 2022-09-30 | 117 | 7 | 
 | 2022-09-29 | 117 | 7 | 
 | 2022-09-28 | 117 | 7 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 117 | 7 | 
 | 2022-09-09 | 117 | 7 | 
 | 2022-09-08 | 117 | 7 | 
-| 2022-09-07 | 117 | 7 | 
-| 2022-09-06 | 117 | 7 | 
-| 2022-09-05 | 117 | 7 | 
-| 2022-09-04 | 117 | 7 | 
-| 2022-09-03 | 117 | 7 | 
-| 2022-09-02 | 116 | 7 | 
-| 2022-09-01 | 116 | 7 | 
 
 
 [Detailed charts & statistics for lambdaisland/witchcraft](https://reviewgithub.com/rep/lambdaisland/witchcraft)

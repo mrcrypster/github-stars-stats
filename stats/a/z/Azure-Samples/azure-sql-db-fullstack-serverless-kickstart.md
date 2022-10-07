@@ -1,46 +1,46 @@
-# Azure-Samples/azure-sql-db-fullstack-serverless-kickstart / stars & forks statistics
-
-[Open repository/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart)
+# Azure-Samples/azure-sql-db-fullstack-serverless-kickstart - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 38
+☋ Forks: 44
 
-★ Stars: 21
+★ Stars: 26
+
+[Open repository](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 21 | 38 | 
-| 2022-07-29 | 21 | 38 | 
-| 2022-07-28 | 21 | 37 | 
-| 2022-07-27 | 21 | 37 | 
-| 2022-07-26 | 21 | 37 | 
-| 2022-07-25 | 21 | 37 | 
-| 2022-07-23 | 21 | 37 | 
-| 2022-07-22 | 21 | 37 | 
-| 2022-07-21 | 21 | 37 | 
-| 2022-07-20 | 21 | 37 | 
-| 2022-07-19 | 20 | 37 | 
-| 2022-07-18 | 19 | 37 | 
-| 2022-07-17 | 19 | 37 | 
-| 2022-07-16 | 19 | 37 | 
-| 2022-07-15 | 19 | 36 | 
-| 2022-07-14 | 19 | 36 | 
-| 2022-07-13 | 18 | 37 | 
-| 2022-07-12 | 18 | 37 | 
-| 2022-07-11 | 18 | 37 | 
-| 2022-07-10 | 17 | 37 | 
-| 2022-07-09 | 17 | 37 | 
-| 2022-07-08 | 17 | 37 | 
-| 2022-07-07 | 17 | 37 | 
-| 2022-07-06 | 17 | 37 | 
-| 2022-07-05 | 17 | 37 | 
-| 2022-07-04 | 17 | 37 | 
-| 2022-07-03 | 17 | 37 | 
-| 2022-07-02 | 17 | 37 | 
-| 2022-07-01 | 17 | 37 | 
-| 2022-06-30 | 17 | 37 | 
+| 2022-10-07 | 26 | 44 | 
+| 2022-10-06 | 25 | 44 | 
+| 2022-10-05 | 25 | 44 | 
+| 2022-10-04 | 25 | 44 | 
+| 2022-10-03 | 25 | 44 | 
+| 2022-10-02 | 25 | 44 | 
+| 2022-10-01 | 25 | 44 | 
+| 2022-09-30 | 25 | 44 | 
+| 2022-09-29 | 25 | 44 | 
+| 2022-09-28 | 25 | 44 | 
+| 2022-09-27 | 25 | 44 | 
+| 2022-09-26 | 25 | 44 | 
+| 2022-09-25 | 25 | 44 | 
+| 2022-09-24 | 25 | 44 | 
+| 2022-09-23 | 25 | 44 | 
+| 2022-09-22 | 25 | 44 | 
+| 2022-09-21 | 25 | 44 | 
+| 2022-09-20 | 25 | 44 | 
+| 2022-09-19 | 25 | 44 | 
+| 2022-09-18 | 25 | 44 | 
+| 2022-09-17 | 25 | 44 | 
+| 2022-09-16 | 25 | 44 | 
+| 2022-09-15 | 25 | 44 | 
+| 2022-09-14 | 25 | 44 | 
+| 2022-09-12 | 25 | 44 | 
+| 2022-09-11 | 25 | 44 | 
+| 2022-09-10 | 24 | 44 | 
+| 2022-09-09 | 24 | 44 | 
+| 2022-09-08 | 24 | 44 | 
+| 2022-09-07 | 24 | 44 | 
 
 
 [Detailed charts & statistics for Azure-Samples/azure-sql-db-fullstack-serverless-kickstart](https://reviewgithub.com/rep/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart)

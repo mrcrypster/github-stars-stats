@@ -1,12 +1,12 @@
-# starknet-id/contract / stars & forks statistics
-
-[Open repository/starknet-id/contract](https://github.com/starknet-id/contract)
+# starknet-id/contract - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 77
+
+[Open repository](https://github.com/starknet-id/contract)
 
 ## Historical data
 | Date | Stars | Forks |

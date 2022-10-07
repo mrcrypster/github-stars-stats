@@ -1,12 +1,12 @@
-# npx08/nlw-flix / stars & forks statistics
-
-[Open repository/npx08/nlw-flix](https://github.com/npx08/nlw-flix)
+# npx08/nlw-flix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
+
+[Open repository](https://github.com/npx08/nlw-flix)
 
 ## Historical data
 | Date | Stars | Forks |

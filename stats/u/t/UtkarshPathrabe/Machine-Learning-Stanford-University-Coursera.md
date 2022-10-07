@@ -1,46 +1,46 @@
-# UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera / stars & forks statistics
-
-[Open repository/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)
+# UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 90
 
-★ Stars: 166
+★ Stars: 169
+
+[Open repository](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-29 | 166 | 90 | 
-| 2022-07-28 | 166 | 90 | 
-| 2022-07-27 | 166 | 90 | 
-| 2022-07-26 | 166 | 90 | 
-| 2022-07-25 | 166 | 90 | 
-| 2022-07-24 | 166 | 90 | 
-| 2022-07-23 | 166 | 90 | 
-| 2022-07-22 | 166 | 90 | 
-| 2022-07-21 | 166 | 90 | 
-| 2022-07-20 | 166 | 90 | 
-| 2022-07-19 | 166 | 90 | 
-| 2022-07-18 | 166 | 90 | 
-| 2022-07-17 | 165 | 90 | 
-| 2022-07-16 | 165 | 90 | 
-| 2022-07-15 | 165 | 90 | 
-| 2022-07-14 | 165 | 90 | 
-| 2022-07-13 | 165 | 90 | 
-| 2022-07-12 | 165 | 90 | 
-| 2022-07-11 | 165 | 90 | 
-| 2022-07-10 | 165 | 91 | 
-| 2022-07-09 | 165 | 91 | 
-| 2022-07-08 | 165 | 91 | 
-| 2022-07-07 | 165 | 91 | 
-| 2022-07-06 | 165 | 91 | 
-| 2022-07-05 | 165 | 91 | 
-| 2022-07-04 | 165 | 91 | 
-| 2022-07-03 | 165 | 91 | 
-| 2022-07-02 | 165 | 91 | 
-| 2022-07-01 | 165 | 91 | 
-| 2022-06-30 | 165 | 91 | 
+| 2022-10-06 | 169 | 90 | 
+| 2022-10-05 | 169 | 90 | 
+| 2022-10-04 | 169 | 90 | 
+| 2022-10-03 | 169 | 90 | 
+| 2022-10-02 | 169 | 90 | 
+| 2022-10-01 | 168 | 89 | 
+| 2022-09-30 | 168 | 89 | 
+| 2022-09-29 | 168 | 89 | 
+| 2022-09-28 | 168 | 89 | 
+| 2022-09-27 | 168 | 89 | 
+| 2022-09-26 | 168 | 89 | 
+| 2022-09-25 | 168 | 89 | 
+| 2022-09-24 | 168 | 89 | 
+| 2022-09-23 | 168 | 89 | 
+| 2022-09-22 | 168 | 89 | 
+| 2022-09-21 | 168 | 89 | 
+| 2022-09-20 | 168 | 89 | 
+| 2022-09-19 | 168 | 90 | 
+| 2022-09-18 | 168 | 90 | 
+| 2022-09-17 | 168 | 90 | 
+| 2022-09-16 | 168 | 90 | 
+| 2022-09-15 | 168 | 90 | 
+| 2022-09-14 | 167 | 90 | 
+| 2022-09-13 | 167 | 90 | 
+| 2022-09-12 | 167 | 90 | 
+| 2022-09-11 | 167 | 90 | 
+| 2022-09-10 | 167 | 90 | 
+| 2022-09-09 | 167 | 90 | 
+| 2022-09-08 | 167 | 90 | 
+| 2022-09-07 | 167 | 90 | 
 
 
 [Detailed charts & statistics for UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera](https://reviewgithub.com/rep/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)

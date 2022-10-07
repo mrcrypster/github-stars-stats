@@ -1,12 +1,12 @@
-# xieyu33333/badwords / stars & forks statistics
-
-[Open repository/xieyu33333/badwords](https://github.com/xieyu33333/badwords)
+# xieyu33333/badwords - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/xieyu33333/badwords)
 
 ## Historical data
 | Date | Stars | Forks |

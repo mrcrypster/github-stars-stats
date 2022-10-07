@@ -1,12 +1,12 @@
-# WeAreMahsaAmini/Core / stars & forks statistics
-
-[Open repository/WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core)
+# WeAreMahsaAmini/Core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 1634
+
+[Open repository](https://github.com/WeAreMahsaAmini/Core)
 
 ## Historical data
 | Date | Stars | Forks |

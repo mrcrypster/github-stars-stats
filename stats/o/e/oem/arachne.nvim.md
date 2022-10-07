@@ -1,12 +1,12 @@
-# oem/arachne.nvim / stars & forks statistics
-
-[Open repository/oem/arachne.nvim](https://github.com/oem/arachne.nvim)
+# oem/arachne.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 23
+
+[Open repository](https://github.com/oem/arachne.nvim)
 
 ## Historical data
 | Date | Stars | Forks |

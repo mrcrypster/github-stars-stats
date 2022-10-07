@@ -1,12 +1,12 @@
-# hiradimir/ForceComInspection / stars & forks statistics
-
-[Open repository/hiradimir/ForceComInspection](https://github.com/hiradimir/ForceComInspection)
+# hiradimir/ForceComInspection - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/hiradimir/ForceComInspection)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# nex3/haml-mode / stars & forks statistics
-
-[Open repository/nex3/haml-mode](https://github.com/nex3/haml-mode)
+# nex3/haml-mode - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 142
+
+[Open repository](https://github.com/nex3/haml-mode)
 
 ## Historical data
 | Date | Stars | Forks |

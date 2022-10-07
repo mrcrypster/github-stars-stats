@@ -1,12 +1,12 @@
-# actboy168/luamake / stars & forks statistics
-
-[Open repository/actboy168/luamake](https://github.com/actboy168/luamake)
+# actboy168/luamake - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 69
+
+[Open repository](https://github.com/actboy168/luamake)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# JulienMalka/Linkal / stars & forks statistics
-
-[Open repository/JulienMalka/Linkal](https://github.com/JulienMalka/Linkal)
+# JulienMalka/Linkal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 77
+
+[Open repository](https://github.com/JulienMalka/Linkal)
 
 ## Historical data
 | Date | Stars | Forks |

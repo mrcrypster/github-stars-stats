@@ -1,12 +1,12 @@
-# status-im/nimbus-security-resources / stars & forks statistics
-
-[Open repository/status-im/nimbus-security-resources](https://github.com/status-im/nimbus-security-resources)
+# status-im/nimbus-security-resources - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/status-im/nimbus-security-resources)
 
 ## Historical data
 | Date | Stars | Forks |

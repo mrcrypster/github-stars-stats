@@ -1,12 +1,12 @@
-# gleam-lang/example-lisp-interpreter / stars & forks statistics
-
-[Open repository/gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter)
+# gleam-lang/example-lisp-interpreter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
+
+[Open repository](https://github.com/gleam-lang/example-lisp-interpreter)
 
 ## Historical data
 | Date | Stars | Forks |

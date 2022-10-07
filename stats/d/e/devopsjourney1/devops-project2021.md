@@ -1,12 +1,12 @@
-# devopsjourney1/devops-project2021 / stars & forks statistics
-
-[Open repository/devopsjourney1/devops-project2021](https://github.com/devopsjourney1/devops-project2021)
+# devopsjourney1/devops-project2021 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 21
+
+[Open repository](https://github.com/devopsjourney1/devops-project2021)
 
 ## Historical data
 | Date | Stars | Forks |

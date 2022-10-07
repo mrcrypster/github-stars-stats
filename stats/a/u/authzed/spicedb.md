@@ -1,16 +1,27 @@
-# authzed/spicedb / stars & forks statistics
-
-[Open repository/authzed/spicedb](https://github.com/authzed/spicedb)
+# authzed/spicedb - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 137
+☋ Forks: 140
 
-★ Stars: 2793
+★ Stars: 2846
+
+[Open repository](https://github.com/authzed/spicedb)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2846 | 140 | 
+| 2022-10-06 | 2846 | 140 | 
+| 2022-10-05 | 2842 | 138 | 
+| 2022-10-04 | 2836 | 138 | 
+| 2022-10-03 | 2835 | 138 | 
+| 2022-10-02 | 2833 | 138 | 
+| 2022-10-01 | 2833 | 138 | 
+| 2022-09-30 | 2831 | 139 | 
+| 2022-09-29 | 2816 | 139 | 
+| 2022-09-28 | 2803 | 138 | 
+| 2022-09-27 | 2798 | 138 | 
 | 2022-09-26 | 2793 | 137 | 
 | 2022-09-25 | 2790 | 137 | 
 | 2022-09-24 | 2787 | 137 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2750 | 134 | 
 | 2022-09-08 | 2744 | 134 | 
 | 2022-09-07 | 2735 | 134 | 
-| 2022-09-06 | 2727 | 134 | 
-| 2022-09-05 | 2722 | 134 | 
-| 2022-09-04 | 2719 | 134 | 
-| 2022-09-03 | 2717 | 134 | 
-| 2022-09-02 | 2710 | 134 | 
-| 2022-09-01 | 2702 | 133 | 
-| 2022-08-31 | 2696 | 133 | 
-| 2022-08-30 | 2681 | 132 | 
-| 2022-08-29 | 2678 | 132 | 
-| 2022-08-28 | 2666 | 132 | 
-| 2022-08-27 | 2618 | 130 | 
 
 
 [Detailed charts & statistics for authzed/spicedb](https://reviewgithub.com/rep/authzed/spicedb)

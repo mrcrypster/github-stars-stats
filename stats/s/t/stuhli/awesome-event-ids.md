@@ -1,16 +1,30 @@
-# stuhli/awesome-event-ids / stars & forks statistics
-
-[Open repository/stuhli/awesome-event-ids](https://github.com/stuhli/awesome-event-ids)
+# stuhli/awesome-event-ids - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 374
+★ Stars: 376
+
+[Open repository](https://github.com/stuhli/awesome-event-ids)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 376 | 61 | 
+| 2022-10-06 | 376 | 61 | 
+| 2022-10-05 | 376 | 61 | 
+| 2022-10-04 | 376 | 61 | 
+| 2022-10-03 | 376 | 61 | 
+| 2022-10-02 | 376 | 61 | 
+| 2022-10-01 | 376 | 61 | 
+| 2022-09-30 | 376 | 61 | 
+| 2022-09-29 | 376 | 61 | 
+| 2022-09-28 | 375 | 61 | 
+| 2022-09-27 | 375 | 61 | 
+| 2022-09-26 | 375 | 60 | 
+| 2022-09-25 | 375 | 60 | 
+| 2022-09-24 | 374 | 60 | 
 | 2022-09-23 | 374 | 60 | 
 | 2022-09-22 | 374 | 60 | 
 | 2022-09-21 | 374 | 59 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 352 | 55 | 
 | 2022-09-08 | 350 | 55 | 
 | 2022-09-07 | 350 | 55 | 
-| 2022-09-06 | 350 | 55 | 
-| 2022-09-05 | 350 | 55 | 
-| 2022-09-04 | 349 | 55 | 
-| 2022-09-03 | 347 | 54 | 
-| 2022-09-02 | 344 | 54 | 
-| 2022-09-01 | 344 | 54 | 
-| 2022-08-31 | 343 | 54 | 
-| 2022-08-30 | 342 | 54 | 
-| 2022-08-29 | 341 | 53 | 
-| 2022-08-28 | 341 | 53 | 
-| 2022-08-27 | 338 | 51 | 
-| 2022-08-26 | 336 | 50 | 
-| 2022-08-25 | 332 | 49 | 
-| 2022-08-24 | 328 | 47 | 
 
 
 [Detailed charts & statistics for stuhli/awesome-event-ids](https://reviewgithub.com/rep/stuhli/awesome-event-ids)

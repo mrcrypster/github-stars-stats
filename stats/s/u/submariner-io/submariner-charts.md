@@ -1,12 +1,12 @@
-# submariner-io/submariner-charts / stars & forks statistics
-
-[Open repository/submariner-io/submariner-charts](https://github.com/submariner-io/submariner-charts)
+# submariner-io/submariner-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 14
+
+[Open repository](https://github.com/submariner-io/submariner-charts)
 
 ## Historical data
 | Date | Stars | Forks |

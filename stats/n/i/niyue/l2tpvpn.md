@@ -1,12 +1,12 @@
-# niyue/l2tpvpn / stars & forks statistics
-
-[Open repository/niyue/l2tpvpn](https://github.com/niyue/l2tpvpn)
+# niyue/l2tpvpn - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 9
+
+[Open repository](https://github.com/niyue/l2tpvpn)
 
 ## Historical data
 | Date | Stars | Forks |

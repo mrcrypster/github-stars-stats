@@ -1,12 +1,12 @@
-# IBM/oc-docker-s2i / stars & forks statistics
-
-[Open repository/IBM/oc-docker-s2i](https://github.com/IBM/oc-docker-s2i)
+# IBM/oc-docker-s2i - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 0
+
+[Open repository](https://github.com/IBM/oc-docker-s2i)
 
 ## Historical data
 | Date | Stars | Forks |

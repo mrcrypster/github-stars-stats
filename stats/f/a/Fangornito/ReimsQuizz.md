@@ -1,12 +1,12 @@
-# Fangornito/ReimsQuizz / stars & forks statistics
-
-[Open repository/Fangornito/ReimsQuizz](https://github.com/Fangornito/ReimsQuizz)
+# Fangornito/ReimsQuizz - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/Fangornito/ReimsQuizz)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,28 @@
-# cyberark/RPCMon / stars & forks statistics
-
-[Open repository/cyberark/RPCMon](https://github.com/cyberark/RPCMon)
+# cyberark/RPCMon - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 198
+★ Stars: 200
+
+[Open repository](https://github.com/cyberark/RPCMon)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 200 | 18 | 
+| 2022-10-05 | 200 | 18 | 
+| 2022-10-04 | 200 | 18 | 
+| 2022-10-03 | 200 | 18 | 
+| 2022-10-02 | 199 | 17 | 
+| 2022-10-01 | 199 | 17 | 
+| 2022-09-30 | 199 | 17 | 
+| 2022-09-29 | 199 | 17 | 
+| 2022-09-28 | 198 | 17 | 
+| 2022-09-27 | 198 | 17 | 
+| 2022-09-26 | 198 | 17 | 
+| 2022-09-25 | 198 | 17 | 
 | 2022-09-24 | 198 | 17 | 
 | 2022-09-23 | 198 | 17 | 
 | 2022-09-22 | 196 | 17 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 148 | 13 | 
 | 2022-09-08 | 107 | 9 | 
 | 2022-09-07 | 103 | 9 | 
-| 2022-09-06 | 103 | 9 | 
-| 2022-09-05 | 102 | 9 | 
-| 2022-09-04 | 100 | 9 | 
-| 2022-09-03 | 99 | 7 | 
-| 2022-09-02 | 97 | 7 | 
-| 2022-09-01 | 97 | 7 | 
-| 2022-08-31 | 94 | 6 | 
-| 2022-08-30 | 91 | 6 | 
-| 2022-08-29 | 88 | 6 | 
-| 2022-08-28 | 87 | 6 | 
-| 2022-08-27 | 79 | 6 | 
-| 2022-08-26 | 76 | 6 | 
 
 
 [Detailed charts & statistics for cyberark/RPCMon](https://reviewgithub.com/rep/cyberark/RPCMon)

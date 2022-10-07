@@ -1,12 +1,12 @@
-# TheRetroSpecter/VsRetro-Psych-Public / stars & forks statistics
-
-[Open repository/TheRetroSpecter/VsRetro-Psych-Public](https://github.com/TheRetroSpecter/VsRetro-Psych-Public)
+# TheRetroSpecter/VsRetro-Psych-Public - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 11
+
+[Open repository](https://github.com/TheRetroSpecter/VsRetro-Psych-Public)
 
 ## Historical data
 | Date | Stars | Forks |

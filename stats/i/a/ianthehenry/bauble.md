@@ -1,12 +1,12 @@
-# ianthehenry/bauble / stars & forks statistics
-
-[Open repository/ianthehenry/bauble](https://github.com/ianthehenry/bauble)
+# ianthehenry/bauble - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 202
+
+[Open repository](https://github.com/ianthehenry/bauble)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# OpenAsar/capybara / stars & forks statistics
-
-[Open repository/OpenAsar/capybara](https://github.com/OpenAsar/capybara)
+# OpenAsar/capybara - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 16
 
+[Open repository](https://github.com/OpenAsar/capybara)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 16 | 2 | 
+| 2022-10-05 | 16 | 2 | 
+| 2022-10-04 | 16 | 2 | 
+| 2022-10-03 | 16 | 2 | 
+| 2022-10-02 | 16 | 2 | 
 | 2022-10-01 | 16 | 2 | 
 | 2022-09-30 | 16 | 2 | 
 | 2022-09-29 | 16 | 2 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 16 | 2 | 
 | 2022-09-09 | 16 | 2 | 
 | 2022-09-08 | 15 | 2 | 
-| 2022-09-07 | 15 | 2 | 
-| 2022-09-06 | 15 | 2 | 
-| 2022-09-05 | 15 | 2 | 
-| 2022-09-04 | 15 | 2 | 
-| 2022-09-03 | 13 | 2 | 
-| 2022-09-02 | 13 | 2 | 
 
 
 [Detailed charts & statistics for OpenAsar/capybara](https://reviewgithub.com/rep/OpenAsar/capybara)

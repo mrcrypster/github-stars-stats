@@ -1,16 +1,28 @@
-# patrickt/codespaces.el / stars & forks statistics
-
-[Open repository/patrickt/codespaces.el](https://github.com/patrickt/codespaces.el)
+# patrickt/codespaces.el - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 25
+
+[Open repository](https://github.com/patrickt/codespaces.el)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 25 | 4 | 
+| 2022-10-06 | 25 | 4 | 
+| 2022-10-05 | 25 | 4 | 
+| 2022-10-04 | 25 | 4 | 
+| 2022-10-03 | 25 | 4 | 
+| 2022-10-02 | 25 | 4 | 
+| 2022-10-01 | 25 | 4 | 
+| 2022-09-30 | 25 | 3 | 
+| 2022-09-29 | 25 | 3 | 
+| 2022-09-28 | 25 | 3 | 
+| 2022-09-27 | 24 | 3 | 
+| 2022-09-26 | 23 | 3 | 
 | 2022-09-25 | 23 | 3 | 
 | 2022-09-24 | 23 | 3 | 
 | 2022-09-23 | 23 | 3 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 21 | 3 | 
 | 2022-09-08 | 21 | 3 | 
 | 2022-09-07 | 21 | 3 | 
-| 2022-09-06 | 21 | 3 | 
-| 2022-09-05 | 20 | 3 | 
-| 2022-09-04 | 20 | 3 | 
-| 2022-09-03 | 20 | 3 | 
-| 2022-09-02 | 20 | 3 | 
-| 2022-09-01 | 20 | 3 | 
-| 2022-08-31 | 20 | 3 | 
-| 2022-08-30 | 20 | 3 | 
-| 2022-08-29 | 19 | 3 | 
-| 2022-08-28 | 17 | 3 | 
-| 2022-08-27 | 17 | 3 | 
-| 2022-08-26 | 16 | 3 | 
 
 
 [Detailed charts & statistics for patrickt/codespaces.el](https://reviewgithub.com/rep/patrickt/codespaces.el)

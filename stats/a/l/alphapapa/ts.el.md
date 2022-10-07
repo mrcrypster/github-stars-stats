@@ -1,6 +1,4 @@
-# alphapapa/ts.el / stars & forks statistics
-
-[Open repository/alphapapa/ts.el](https://github.com/alphapapa/ts.el)
+# alphapapa/ts.el - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 150
 
+[Open repository](https://github.com/alphapapa/ts.el)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 150 | 11 | 
+| 2022-10-05 | 150 | 11 | 
+| 2022-10-04 | 150 | 11 | 
+| 2022-10-03 | 150 | 11 | 
+| 2022-10-02 | 150 | 11 | 
+| 2022-10-01 | 150 | 11 | 
+| 2022-09-30 | 150 | 11 | 
+| 2022-09-29 | 150 | 11 | 
 | 2022-09-28 | 150 | 11 | 
 | 2022-09-27 | 150 | 11 | 
 | 2022-09-26 | 150 | 11 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 150 | 11 | 
 | 2022-09-08 | 150 | 11 | 
 | 2022-09-07 | 150 | 11 | 
-| 2022-09-06 | 150 | 11 | 
-| 2022-09-05 | 150 | 11 | 
-| 2022-09-04 | 149 | 11 | 
-| 2022-09-03 | 149 | 11 | 
-| 2022-09-02 | 149 | 11 | 
-| 2022-09-01 | 149 | 11 | 
-| 2022-08-31 | 149 | 11 | 
-| 2022-08-30 | 149 | 11 | 
 
 
 [Detailed charts & statistics for alphapapa/ts.el](https://reviewgithub.com/rep/alphapapa/ts.el)

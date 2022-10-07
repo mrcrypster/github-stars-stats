@@ -1,12 +1,12 @@
-# quentint/as3-WeatherBug-API / stars & forks statistics
-
-[Open repository/quentint/as3-WeatherBug-API](https://github.com/quentint/as3-WeatherBug-API)
+# quentint/as3-WeatherBug-API - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/quentint/as3-WeatherBug-API)
 
 ## Historical data
 | Date | Stars | Forks |

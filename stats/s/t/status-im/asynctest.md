@@ -1,6 +1,4 @@
-# status-im/asynctest / stars & forks statistics
-
-[Open repository/status-im/asynctest](https://github.com/status-im/asynctest)
+# status-im/asynctest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/status-im/asynctest)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | 2 | 
+| 2022-10-05 | 7 | 2 | 
+| 2022-10-04 | 7 | 2 | 
+| 2022-10-03 | 7 | 2 | 
+| 2022-10-02 | 7 | 2 | 
+| 2022-10-01 | 7 | 2 | 
+| 2022-09-30 | 7 | 2 | 
 | 2022-09-29 | 7 | 2 | 
 | 2022-09-28 | 7 | 2 | 
 | 2022-09-27 | 7 | 2 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 7 | 2 | 
 | 2022-09-09 | 7 | 2 | 
 | 2022-09-08 | 7 | 2 | 
-| 2022-09-07 | 7 | 2 | 
-| 2022-09-06 | 7 | 2 | 
-| 2022-09-05 | 7 | 2 | 
-| 2022-09-04 | 7 | 2 | 
-| 2022-09-03 | 7 | 2 | 
-| 2022-09-02 | 7 | 2 | 
-| 2022-09-01 | 7 | 2 | 
-| 2022-08-31 | 7 | 2 | 
 
 
 [Detailed charts & statistics for status-im/asynctest](https://reviewgithub.com/rep/status-im/asynctest)

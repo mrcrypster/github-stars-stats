@@ -1,12 +1,12 @@
-# lidangzzz/canada-run / stars & forks statistics
-
-[Open repository/lidangzzz/canada-run](https://github.com/lidangzzz/canada-run)
+# lidangzzz/canada-run - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 131
+
+[Open repository](https://github.com/lidangzzz/canada-run)
 
 ## Historical data
 | Date | Stars | Forks |

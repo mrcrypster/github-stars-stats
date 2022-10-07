@@ -1,16 +1,29 @@
-# react-native-cameraroll/react-native-cameraroll / stars & forks statistics
-
-[Open repository/react-native-cameraroll/react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll)
+# react-native-cameraroll/react-native-cameraroll - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 343
 
-★ Stars: 619
+★ Stars: 628
+
+[Open repository](https://github.com/react-native-cameraroll/react-native-cameraroll)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 628 | 343 | 
+| 2022-10-05 | 628 | 343 | 
+| 2022-10-04 | 624 | 343 | 
+| 2022-10-03 | 624 | 344 | 
+| 2022-10-02 | 624 | 344 | 
+| 2022-10-01 | 621 | 344 | 
+| 2022-09-30 | 621 | 344 | 
+| 2022-09-29 | 621 | 344 | 
+| 2022-09-28 | 621 | 343 | 
+| 2022-09-27 | 621 | 343 | 
+| 2022-09-26 | 620 | 343 | 
+| 2022-09-25 | 619 | 343 | 
+| 2022-09-24 | 619 | 343 | 
 | 2022-09-23 | 619 | 343 | 
 | 2022-09-22 | 618 | 343 | 
 | 2022-09-21 | 618 | 339 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 614 | 338 | 
 | 2022-09-09 | 614 | 338 | 
 | 2022-09-08 | 614 | 338 | 
-| 2022-09-07 | 614 | 338 | 
-| 2022-09-06 | 614 | 338 | 
-| 2022-09-05 | 613 | 337 | 
-| 2022-09-04 | 613 | 336 | 
-| 2022-09-03 | 613 | 336 | 
-| 2022-09-02 | 612 | 335 | 
-| 2022-09-01 | 611 | 335 | 
-| 2022-08-31 | 610 | 334 | 
-| 2022-08-30 | 610 | 331 | 
-| 2022-08-29 | 610 | 331 | 
-| 2022-08-28 | 610 | 331 | 
-| 2022-08-27 | 610 | 330 | 
-| 2022-08-26 | 610 | 331 | 
-| 2022-08-25 | 610 | 331 | 
 
 
 [Detailed charts & statistics for react-native-cameraroll/react-native-cameraroll](https://reviewgithub.com/rep/react-native-cameraroll/react-native-cameraroll)

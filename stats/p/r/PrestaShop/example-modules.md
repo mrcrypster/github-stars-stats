@@ -1,16 +1,28 @@
-# PrestaShop/example-modules / stars & forks statistics
-
-[Open repository/PrestaShop/example-modules](https://github.com/PrestaShop/example-modules)
+# PrestaShop/example-modules - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 70
+☋ Forks: 71
 
-★ Stars: 106
+★ Stars: 107
+
+[Open repository](https://github.com/PrestaShop/example-modules)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 107 | 71 | 
+| 2022-10-06 | 107 | 71 | 
+| 2022-10-05 | 107 | 71 | 
+| 2022-10-04 | 106 | 71 | 
+| 2022-10-03 | 106 | 71 | 
+| 2022-10-02 | 106 | 71 | 
+| 2022-10-01 | 106 | 70 | 
+| 2022-09-30 | 106 | 70 | 
+| 2022-09-29 | 106 | 70 | 
+| 2022-09-28 | 106 | 70 | 
+| 2022-09-27 | 106 | 70 | 
+| 2022-09-25 | 106 | 70 | 
 | 2022-09-24 | 106 | 70 | 
 | 2022-09-23 | 106 | 70 | 
 | 2022-09-22 | 106 | 70 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 107 | 69 | 
 | 2022-09-08 | 107 | 69 | 
 | 2022-09-07 | 107 | 67 | 
-| 2022-09-06 | 107 | 67 | 
-| 2022-09-05 | 107 | 67 | 
-| 2022-09-04 | 107 | 68 | 
-| 2022-09-03 | 107 | 68 | 
-| 2022-09-02 | 107 | 68 | 
-| 2022-09-01 | 107 | 68 | 
-| 2022-08-31 | 107 | 68 | 
-| 2022-08-30 | 107 | 68 | 
-| 2022-08-29 | 107 | 68 | 
-| 2022-08-28 | 107 | 68 | 
-| 2022-08-27 | 107 | 68 | 
-| 2022-08-26 | 107 | 68 | 
 
 
 [Detailed charts & statistics for PrestaShop/example-modules](https://reviewgithub.com/rep/PrestaShop/example-modules)

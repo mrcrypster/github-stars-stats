@@ -1,12 +1,12 @@
-# deepin-community/cm-super / stars & forks statistics
-
-[Open repository/deepin-community/cm-super](https://github.com/deepin-community/cm-super)
+# deepin-community/cm-super - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/cm-super)
 
 ## Historical data
 | Date | Stars | Forks |

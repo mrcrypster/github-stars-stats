@@ -1,6 +1,4 @@
-# cassidyjames/dippi / stars & forks statistics
-
-[Open repository/cassidyjames/dippi](https://github.com/cassidyjames/dippi)
+# cassidyjames/dippi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 57
 
+[Open repository](https://github.com/cassidyjames/dippi)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 57 | 24 | 
 | 2022-10-05 | 57 | 24 | 
 | 2022-10-04 | 57 | 24 | 
 | 2022-10-03 | 57 | 24 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 52 | 23 | 
 | 2022-09-09 | 52 | 23 | 
 | 2022-09-08 | 52 | 23 | 
-| 2022-09-07 | 52 | 23 | 
-| 2022-09-06 | 52 | 23 | 
 
 
 [Detailed charts & statistics for cassidyjames/dippi](https://reviewgithub.com/rep/cassidyjames/dippi)

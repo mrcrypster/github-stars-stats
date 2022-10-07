@@ -1,16 +1,25 @@
-# YorCreative/Laravel-UrlShortener / stars & forks statistics
-
-[Open repository/YorCreative/Laravel-UrlShortener](https://github.com/YorCreative/Laravel-UrlShortener)
+# YorCreative/Laravel-UrlShortener - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 42
+★ Stars: 46
+
+[Open repository](https://github.com/YorCreative/Laravel-UrlShortener)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 46 | 3 | 
+| 2022-10-06 | 46 | 3 | 
+| 2022-10-05 | 45 | 3 | 
+| 2022-10-04 | 44 | 3 | 
+| 2022-10-03 | 42 | 3 | 
+| 2022-10-02 | 42 | 3 | 
+| 2022-10-01 | 42 | 3 | 
+| 2022-09-30 | 42 | 3 | 
+| 2022-09-29 | 42 | 3 | 
 | 2022-09-28 | 42 | 3 | 
 | 2022-09-27 | 42 | 3 | 
 | 2022-09-26 | 42 | 3 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 40 | 4 | 
 | 2022-09-08 | 37 | 4 | 
 | 2022-09-07 | 37 | 4 | 
-| 2022-09-06 | 37 | 4 | 
-| 2022-09-05 | 36 | 4 | 
-| 2022-09-04 | 36 | 4 | 
-| 2022-09-03 | 35 | 4 | 
-| 2022-09-02 | 36 | 4 | 
-| 2022-09-01 | 36 | 4 | 
-| 2022-08-31 | 36 | 4 | 
-| 2022-08-30 | 36 | 4 | 
-| 2022-08-29 | 33 | 4 | 
 
 
 [Detailed charts & statistics for YorCreative/Laravel-UrlShortener](https://reviewgithub.com/rep/YorCreative/Laravel-UrlShortener)

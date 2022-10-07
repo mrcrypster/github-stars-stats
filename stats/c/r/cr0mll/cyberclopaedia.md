@@ -1,12 +1,12 @@
-# cr0mll/cyberclopaedia / stars & forks statistics
-
-[Open repository/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)
+# cr0mll/cyberclopaedia - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 41
+
+[Open repository](https://github.com/cr0mll/cyberclopaedia)
 
 ## Historical data
 | Date | Stars | Forks |

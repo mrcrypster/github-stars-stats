@@ -1,12 +1,12 @@
-# eikon-frontend/starterkit / stars & forks statistics
-
-[Open repository/eikon-frontend/starterkit](https://github.com/eikon-frontend/starterkit)
+# eikon-frontend/starterkit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 0
+
+[Open repository](https://github.com/eikon-frontend/starterkit)
 
 ## Historical data
 | Date | Stars | Forks |

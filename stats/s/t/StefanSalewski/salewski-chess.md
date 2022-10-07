@@ -1,6 +1,4 @@
-# StefanSalewski/salewski-chess / stars & forks statistics
-
-[Open repository/StefanSalewski/salewski-chess](https://github.com/StefanSalewski/salewski-chess)
+# StefanSalewski/salewski-chess - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 18
 
+[Open repository](https://github.com/StefanSalewski/salewski-chess)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 18 | - | 
+| 2022-10-05 | 18 | - | 
+| 2022-10-04 | 18 | - | 
+| 2022-10-03 | 18 | - | 
+| 2022-10-02 | 18 | - | 
+| 2022-10-01 | 18 | - | 
+| 2022-09-30 | 18 | - | 
+| 2022-09-29 | 18 | - | 
+| 2022-09-28 | 18 | - | 
+| 2022-09-27 | 18 | - | 
+| 2022-09-26 | 18 | - | 
 | 2022-09-25 | 18 | - | 
 | 2022-09-24 | 18 | - | 
 | 2022-09-23 | 17 | - | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 17 | - | 
 | 2022-09-09 | 17 | - | 
 | 2022-09-08 | 17 | - | 
-| 2022-09-07 | 17 | - | 
-| 2022-09-06 | 18 | - | 
-| 2022-09-05 | 18 | - | 
-| 2022-09-04 | 18 | - | 
-| 2022-09-03 | 18 | - | 
-| 2022-09-02 | 18 | - | 
-| 2022-09-01 | 18 | - | 
-| 2022-08-31 | 17 | - | 
-| 2022-08-30 | 17 | - | 
-| 2022-08-29 | 17 | - | 
-| 2022-08-28 | 16 | - | 
-| 2022-08-27 | 16 | - | 
 
 
 [Detailed charts & statistics for StefanSalewski/salewski-chess](https://reviewgithub.com/rep/StefanSalewski/salewski-chess)

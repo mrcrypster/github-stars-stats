@@ -1,16 +1,27 @@
-# thufv/CMinor-Verifier / stars & forks statistics
-
-[Open repository/thufv/CMinor-Verifier](https://github.com/thufv/CMinor-Verifier)
+# thufv/CMinor-Verifier - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 11
+☋ Forks: 10
 
-★ Stars: 106
+★ Stars: 110
+
+[Open repository](https://github.com/thufv/CMinor-Verifier)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 110 | 10 | 
+| 2022-10-06 | 110 | 10 | 
+| 2022-10-05 | 110 | 10 | 
+| 2022-10-04 | 109 | 10 | 
+| 2022-10-03 | 109 | 10 | 
+| 2022-10-02 | 108 | 10 | 
+| 2022-10-01 | 107 | 10 | 
+| 2022-09-30 | 107 | 10 | 
+| 2022-09-29 | 107 | 10 | 
+| 2022-09-28 | 107 | 10 | 
+| 2022-09-27 | 107 | 11 | 
 | 2022-09-26 | 106 | 11 | 
 | 2022-09-25 | 106 | 11 | 
 | 2022-09-24 | 106 | 11 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 83 | 9 | 
 | 2022-09-08 | 83 | 9 | 
 | 2022-09-07 | 83 | 9 | 
-| 2022-09-06 | 80 | 9 | 
-| 2022-09-05 | 76 | 9 | 
-| 2022-09-04 | 73 | 9 | 
-| 2022-09-03 | 73 | 9 | 
-| 2022-09-02 | 73 | 9 | 
-| 2022-09-01 | 70 | 9 | 
-| 2022-08-31 | 66 | 8 | 
-| 2022-08-30 | 65 | 8 | 
-| 2022-08-29 | 62 | 8 | 
-| 2022-08-28 | 61 | 7 | 
-| 2022-08-27 | 60 | 7 | 
 
 
 [Detailed charts & statistics for thufv/CMinor-Verifier](https://reviewgithub.com/rep/thufv/CMinor-Verifier)

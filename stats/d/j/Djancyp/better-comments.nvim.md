@@ -1,16 +1,29 @@
-# Djancyp/better-comments.nvim / stars & forks statistics
-
-[Open repository/Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim)
+# Djancyp/better-comments.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 83
+★ Stars: 84
+
+[Open repository](https://github.com/Djancyp/better-comments.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 84 | 2 | 
+| 2022-10-06 | 84 | 2 | 
+| 2022-10-05 | 84 | 2 | 
+| 2022-10-04 | 84 | 2 | 
+| 2022-10-03 | 84 | 2 | 
+| 2022-10-02 | 84 | 2 | 
+| 2022-10-01 | 84 | 2 | 
+| 2022-09-30 | 84 | 2 | 
+| 2022-09-29 | 84 | 2 | 
+| 2022-09-28 | 83 | 2 | 
+| 2022-09-27 | 83 | 2 | 
+| 2022-09-26 | 83 | 2 | 
+| 2022-09-25 | 83 | 2 | 
 | 2022-09-24 | 83 | 2 | 
 | 2022-09-23 | 82 | 2 | 
 | 2022-09-22 | 82 | 2 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 83 | 2 | 
 | 2022-09-08 | 83 | 2 | 
 | 2022-09-07 | 83 | 2 | 
-| 2022-09-06 | 81 | 2 | 
-| 2022-09-05 | 81 | 2 | 
-| 2022-09-04 | 81 | 2 | 
-| 2022-09-03 | 81 | 2 | 
-| 2022-09-02 | 80 | 2 | 
-| 2022-09-01 | 79 | 2 | 
-| 2022-08-31 | 75 | 2 | 
-| 2022-08-30 | 71 | 2 | 
-| 2022-08-29 | 53 | 2 | 
-| 2022-08-28 | 52 | 2 | 
-| 2022-08-27 | 52 | 2 | 
-| 2022-08-26 | 52 | 2 | 
-| 2022-08-25 | 50 | 2 | 
 
 
 [Detailed charts & statistics for Djancyp/better-comments.nvim](https://reviewgithub.com/rep/Djancyp/better-comments.nvim)

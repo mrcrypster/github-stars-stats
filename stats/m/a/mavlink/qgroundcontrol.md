@@ -1,16 +1,27 @@
-# mavlink/qgroundcontrol / stars & forks statistics
-
-[Open repository/mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol)
+# mavlink/qgroundcontrol - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2760
+☋ Forks: 2776
 
-★ Stars: 2266
+★ Stars: 2279
+
+[Open repository](https://github.com/mavlink/qgroundcontrol)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2279 | 2776 | 
+| 2022-10-06 | 2279 | 2776 | 
+| 2022-10-05 | 2279 | 2776 | 
+| 2022-10-04 | 2277 | 2774 | 
+| 2022-10-03 | 2277 | 2772 | 
+| 2022-10-02 | 2276 | 2772 | 
+| 2022-10-01 | 2274 | 2773 | 
+| 2022-09-30 | 2273 | 2773 | 
+| 2022-09-29 | 2270 | 2769 | 
+| 2022-09-28 | 2269 | 2765 | 
+| 2022-09-27 | 2266 | 2763 | 
 | 2022-09-26 | 2266 | 2760 | 
 | 2022-09-25 | 2265 | 2759 | 
 | 2022-09-24 | 2265 | 2759 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2253 | 2748 | 
 | 2022-09-08 | 2252 | 2747 | 
 | 2022-09-07 | 2250 | 2747 | 
-| 2022-09-06 | 2249 | 2745 | 
-| 2022-09-05 | 2246 | 2745 | 
-| 2022-09-04 | 2244 | 2745 | 
-| 2022-09-03 | 2242 | 2744 | 
-| 2022-09-02 | 2242 | 2742 | 
-| 2022-09-01 | 2242 | 2741 | 
-| 2022-08-31 | 2242 | 2739 | 
-| 2022-08-30 | 2240 | 2740 | 
-| 2022-08-29 | 2239 | 2740 | 
-| 2022-08-28 | 2238 | 2740 | 
-| 2022-08-27 | 2238 | 2740 | 
 
 
 [Detailed charts & statistics for mavlink/qgroundcontrol](https://reviewgithub.com/rep/mavlink/qgroundcontrol)

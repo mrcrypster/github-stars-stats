@@ -1,12 +1,12 @@
-# e-riff/portfolio-lucky-luke / stars & forks statistics
-
-[Open repository/e-riff/portfolio-lucky-luke](https://github.com/e-riff/portfolio-lucky-luke)
+# e-riff/portfolio-lucky-luke - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/e-riff/portfolio-lucky-luke)
 
 ## Historical data
 | Date | Stars | Forks |

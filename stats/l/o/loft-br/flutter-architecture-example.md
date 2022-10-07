@@ -1,12 +1,12 @@
-# loft-br/flutter-architecture-example / stars & forks statistics
-
-[Open repository/loft-br/flutter-architecture-example](https://github.com/loft-br/flutter-architecture-example)
+# loft-br/flutter-architecture-example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
+
+[Open repository](https://github.com/loft-br/flutter-architecture-example)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# tpope/vim-tbone / stars & forks statistics
-
-[Open repository/tpope/vim-tbone](https://github.com/tpope/vim-tbone)
+# tpope/vim-tbone - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 367
+
+[Open repository](https://github.com/tpope/vim-tbone)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,25 @@
-# dlandahl/theos / stars & forks statistics
-
-[Open repository/dlandahl/theos](https://github.com/dlandahl/theos)
+# dlandahl/theos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 20
+
+[Open repository](https://github.com/dlandahl/theos)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | - | 
+| 2022-10-06 | 20 | - | 
+| 2022-10-05 | 20 | - | 
+| 2022-10-04 | 18 | - | 
+| 2022-10-03 | 18 | - | 
+| 2022-10-02 | 17 | - | 
+| 2022-10-01 | 17 | - | 
+| 2022-09-30 | 17 | - | 
+| 2022-09-29 | 17 | - | 
 | 2022-09-28 | 17 | - | 
 | 2022-09-27 | 17 | - | 
 | 2022-09-26 | 17 | - | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 16 | - | 
 | 2022-09-08 | 15 | - | 
 | 2022-09-07 | 15 | - | 
-| 2022-09-06 | 15 | - | 
-| 2022-09-05 | 15 | - | 
-| 2022-09-04 | 15 | - | 
-| 2022-09-03 | 15 | - | 
-| 2022-09-02 | 14 | - | 
-| 2022-09-01 | 14 | - | 
-| 2022-08-31 | 14 | - | 
-| 2022-08-30 | 14 | - | 
-| 2022-08-29 | 14 | - | 
 
 
 [Detailed charts & statistics for dlandahl/theos](https://reviewgithub.com/rep/dlandahl/theos)

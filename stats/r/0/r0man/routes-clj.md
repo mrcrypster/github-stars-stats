@@ -1,12 +1,12 @@
-# r0man/routes-clj / stars & forks statistics
-
-[Open repository/r0man/routes-clj](https://github.com/r0man/routes-clj)
+# r0man/routes-clj - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
+
+[Open repository](https://github.com/r0man/routes-clj)
 
 ## Historical data
 | Date | Stars | Forks |

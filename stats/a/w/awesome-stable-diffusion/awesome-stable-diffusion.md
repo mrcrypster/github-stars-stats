@@ -1,16 +1,20 @@
-# awesome-stable-diffusion/awesome-stable-diffusion / stars & forks statistics
-
-[Open repository/awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+# awesome-stable-diffusion/awesome-stable-diffusion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 486
+★ Stars: 539
+
+[Open repository](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 539 | 21 | 
+| 2022-10-05 | 534 | 21 | 
+| 2022-10-04 | 520 | 21 | 
+| 2022-10-03 | 507 | 20 | 
 | 2022-10-02 | 486 | 20 | 
 | 2022-10-01 | 479 | 20 | 
 | 2022-09-30 | 476 | 20 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 192 | 6 | 
 | 2022-09-09 | 185 | 6 | 
 | 2022-09-08 | 173 | 5 | 
-| 2022-09-07 | 164 | 4 | 
-| 2022-09-06 | 146 | 4 | 
-| 2022-09-05 | 132 | 4 | 
-| 2022-09-04 | 126 | 4 | 
-| 2022-09-03 | 116 | 4 | 
 
 
 [Detailed charts & statistics for awesome-stable-diffusion/awesome-stable-diffusion](https://reviewgithub.com/rep/awesome-stable-diffusion/awesome-stable-diffusion)

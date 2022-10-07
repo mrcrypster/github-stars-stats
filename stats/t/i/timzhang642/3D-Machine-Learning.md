@@ -1,16 +1,29 @@
-# timzhang642/3D-Machine-Learning / stars & forks statistics
-
-[Open repository/timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
+# timzhang642/3D-Machine-Learning - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1681
+☋ Forks: 1682
 
-★ Stars: 8340
+★ Stars: 8379
+
+[Open repository](https://github.com/timzhang642/3D-Machine-Learning)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8379 | 1682 | 
+| 2022-10-06 | 8378 | 1682 | 
+| 2022-10-05 | 8376 | 1682 | 
+| 2022-10-04 | 8371 | 1681 | 
+| 2022-10-03 | 8367 | 1681 | 
+| 2022-10-02 | 8364 | 1681 | 
+| 2022-10-01 | 8364 | 1681 | 
+| 2022-09-30 | 8363 | 1681 | 
+| 2022-09-29 | 8358 | 1681 | 
+| 2022-09-28 | 8356 | 1681 | 
+| 2022-09-27 | 8351 | 1681 | 
+| 2022-09-26 | 8345 | 1681 | 
+| 2022-09-25 | 8342 | 1681 | 
 | 2022-09-24 | 8340 | 1681 | 
 | 2022-09-23 | 8336 | 1682 | 
 | 2022-09-22 | 8334 | 1682 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 8310 | 1677 | 
 | 2022-09-08 | 8306 | 1677 | 
 | 2022-09-07 | 8303 | 1677 | 
-| 2022-09-06 | 8303 | 1677 | 
-| 2022-09-05 | 8302 | 1677 | 
-| 2022-09-04 | 8295 | 1679 | 
-| 2022-09-03 | 8292 | 1679 | 
-| 2022-09-02 | 8290 | 1679 | 
-| 2022-09-01 | 8282 | 1680 | 
-| 2022-08-31 | 8279 | 1680 | 
-| 2022-08-30 | 8274 | 1680 | 
-| 2022-08-29 | 8271 | 1678 | 
-| 2022-08-28 | 8266 | 1677 | 
-| 2022-08-27 | 8259 | 1678 | 
-| 2022-08-26 | 8255 | 1678 | 
-| 2022-08-25 | 8254 | 1678 | 
 
 
 [Detailed charts & statistics for timzhang642/3D-Machine-Learning](https://reviewgithub.com/rep/timzhang642/3D-Machine-Learning)

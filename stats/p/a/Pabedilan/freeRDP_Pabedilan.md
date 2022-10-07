@@ -1,12 +1,12 @@
-# Pabedilan/freeRDP_Pabedilan / stars & forks statistics
-
-[Open repository/Pabedilan/freeRDP_Pabedilan](https://github.com/Pabedilan/freeRDP_Pabedilan)
+# Pabedilan/freeRDP_Pabedilan - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Pabedilan/freeRDP_Pabedilan)
 
 ## Historical data
 | Date | Stars | Forks |

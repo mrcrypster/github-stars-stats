@@ -1,12 +1,12 @@
-# bartlomiejborzucki/haskellSimpleProblems / stars & forks statistics
-
-[Open repository/bartlomiejborzucki/haskellSimpleProblems](https://github.com/bartlomiejborzucki/haskellSimpleProblems)
+# bartlomiejborzucki/haskellSimpleProblems - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bartlomiejborzucki/haskellSimpleProblems)
 
 ## Historical data
 | Date | Stars | Forks |

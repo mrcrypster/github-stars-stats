@@ -1,12 +1,12 @@
-# Coolc4t/Coolc4tWebsite / stars & forks statistics
-
-[Open repository/Coolc4t/Coolc4tWebsite](https://github.com/Coolc4t/Coolc4tWebsite)
+# Coolc4t/Coolc4tWebsite - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Coolc4t/Coolc4tWebsite)
 
 ## Historical data
 | Date | Stars | Forks |

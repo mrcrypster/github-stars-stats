@@ -1,12 +1,12 @@
-# hu-snail/vue-sheep / stars & forks statistics
-
-[Open repository/hu-snail/vue-sheep](https://github.com/hu-snail/vue-sheep)
+# hu-snail/vue-sheep - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 19
+
+[Open repository](https://github.com/hu-snail/vue-sheep)
 
 ## Historical data
 | Date | Stars | Forks |

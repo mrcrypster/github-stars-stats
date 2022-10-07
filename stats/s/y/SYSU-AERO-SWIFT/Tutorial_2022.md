@@ -1,12 +1,12 @@
-# SYSU-AERO-SWIFT/Tutorial_2022 / stars & forks statistics
-
-[Open repository/SYSU-AERO-SWIFT/Tutorial_2022](https://github.com/SYSU-AERO-SWIFT/Tutorial_2022)
+# SYSU-AERO-SWIFT/Tutorial_2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 11
+
+[Open repository](https://github.com/SYSU-AERO-SWIFT/Tutorial_2022)
 
 ## Historical data
 | Date | Stars | Forks |

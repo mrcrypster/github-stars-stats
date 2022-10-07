@@ -1,12 +1,12 @@
-# rcjara/Haskell-Euler / stars & forks statistics
-
-[Open repository/rcjara/Haskell-Euler](https://github.com/rcjara/Haskell-Euler)
+# rcjara/Haskell-Euler - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/rcjara/Haskell-Euler)
 
 ## Historical data
 | Date | Stars | Forks |

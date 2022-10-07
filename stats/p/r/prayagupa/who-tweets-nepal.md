@@ -1,12 +1,12 @@
-# prayagupa/who-tweets-nepal / stars & forks statistics
-
-[Open repository/prayagupa/who-tweets-nepal](https://github.com/prayagupa/who-tweets-nepal)
+# prayagupa/who-tweets-nepal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/prayagupa/who-tweets-nepal)
 
 ## Historical data
 | Date | Stars | Forks |

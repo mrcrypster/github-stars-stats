@@ -1,12 +1,12 @@
-# Gemil/Studium_Pascal / stars & forks statistics
-
-[Open repository/Gemil/Studium_Pascal](https://github.com/Gemil/Studium_Pascal)
+# Gemil/Studium_Pascal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Gemil/Studium_Pascal)
 
 ## Historical data
 | Date | Stars | Forks |

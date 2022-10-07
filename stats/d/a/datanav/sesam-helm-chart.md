@@ -1,12 +1,12 @@
-# datanav/sesam-helm-chart / stars & forks statistics
-
-[Open repository/datanav/sesam-helm-chart](https://github.com/datanav/sesam-helm-chart)
+# datanav/sesam-helm-chart - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/datanav/sesam-helm-chart)
 
 ## Historical data
 | Date | Stars | Forks |

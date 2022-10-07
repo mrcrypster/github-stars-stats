@@ -1,12 +1,12 @@
-# wangzaixiang/scala-commons / stars & forks statistics
-
-[Open repository/wangzaixiang/scala-commons](https://github.com/wangzaixiang/scala-commons)
+# wangzaixiang/scala-commons - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
+
+[Open repository](https://github.com/wangzaixiang/scala-commons)
 
 ## Historical data
 | Date | Stars | Forks |

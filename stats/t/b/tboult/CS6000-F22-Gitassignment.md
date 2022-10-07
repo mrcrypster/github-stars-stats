@@ -1,12 +1,12 @@
-# tboult/CS6000-F22-Gitassignment / stars & forks statistics
-
-[Open repository/tboult/CS6000-F22-Gitassignment](https://github.com/tboult/CS6000-F22-Gitassignment)
+# tboult/CS6000-F22-Gitassignment - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 0
+
+[Open repository](https://github.com/tboult/CS6000-F22-Gitassignment)
 
 ## Historical data
 | Date | Stars | Forks |

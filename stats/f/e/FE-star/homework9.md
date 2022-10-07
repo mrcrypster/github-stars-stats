@@ -1,6 +1,4 @@
-# FE-star/homework9 / stars & forks statistics
-
-[Open repository/FE-star/homework9](https://github.com/FE-star/homework9)
+# FE-star/homework9 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/FE-star/homework9)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 30 | 
+| 2022-10-05 | - | 30 | 
 | 2022-10-04 | - | 30 | 
 | 2022-10-03 | - | 30 | 
 | 2022-10-02 | - | 30 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 29 | 
 | 2022-09-09 | - | 29 | 
 | 2022-09-08 | - | 29 | 
-| 2022-09-07 | - | 29 | 
-| 2022-09-06 | - | 29 | 
-| 2022-09-05 | - | 29 | 
 
 
 [Detailed charts & statistics for FE-star/homework9](https://reviewgithub.com/rep/FE-star/homework9)

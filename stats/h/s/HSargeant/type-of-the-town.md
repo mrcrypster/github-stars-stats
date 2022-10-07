@@ -1,12 +1,12 @@
-# HSargeant/type-of-the-town / stars & forks statistics
-
-[Open repository/HSargeant/type-of-the-town](https://github.com/HSargeant/type-of-the-town)
+# HSargeant/type-of-the-town - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
+
+[Open repository](https://github.com/HSargeant/type-of-the-town)
 
 ## Historical data
 | Date | Stars | Forks |

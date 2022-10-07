@@ -1,12 +1,12 @@
-# samadpls/salary-managment / stars & forks statistics
-
-[Open repository/samadpls/salary-managment](https://github.com/samadpls/salary-managment)
+# samadpls/salary-managment - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 7
+
+[Open repository](https://github.com/samadpls/salary-managment)
 
 ## Historical data
 | Date | Stars | Forks |

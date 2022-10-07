@@ -1,12 +1,12 @@
-# MithunTechnologiesDevOps/jekins-ansible-dynimc-inv / stars & forks statistics
-
-[Open repository/MithunTechnologiesDevOps/jekins-ansible-dynimc-inv](https://github.com/MithunTechnologiesDevOps/jekins-ansible-dynimc-inv)
+# MithunTechnologiesDevOps/jekins-ansible-dynimc-inv - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
 ★ Stars: 0
+
+[Open repository](https://github.com/MithunTechnologiesDevOps/jekins-ansible-dynimc-inv)
 
 ## Historical data
 | Date | Stars | Forks |

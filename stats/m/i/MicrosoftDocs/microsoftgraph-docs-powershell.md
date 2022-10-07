@@ -1,12 +1,12 @@
-# MicrosoftDocs/microsoftgraph-docs-powershell / stars & forks statistics
-
-[Open repository/MicrosoftDocs/microsoftgraph-docs-powershell](https://github.com/MicrosoftDocs/microsoftgraph-docs-powershell)
+# MicrosoftDocs/microsoftgraph-docs-powershell - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 6
+
+[Open repository](https://github.com/MicrosoftDocs/microsoftgraph-docs-powershell)
 
 ## Historical data
 | Date | Stars | Forks |

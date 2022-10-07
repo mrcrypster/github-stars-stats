@@ -1,12 +1,12 @@
-# apexcharts/apexcharts.js / stars & forks statistics
-
-[Open repository/apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+# apexcharts/apexcharts.js - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1006
 
 ★ Stars: 11845
+
+[Open repository](https://github.com/apexcharts/apexcharts.js)
 
 ## Historical data
 | Date | Stars | Forks |

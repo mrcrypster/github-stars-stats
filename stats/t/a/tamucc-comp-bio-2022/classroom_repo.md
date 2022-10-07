@@ -1,12 +1,12 @@
-# tamucc-comp-bio-2022/classroom_repo / stars & forks statistics
-
-[Open repository/tamucc-comp-bio-2022/classroom_repo](https://github.com/tamucc-comp-bio-2022/classroom_repo)
+# tamucc-comp-bio-2022/classroom_repo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 3
+
+[Open repository](https://github.com/tamucc-comp-bio-2022/classroom_repo)
 
 ## Historical data
 | Date | Stars | Forks |

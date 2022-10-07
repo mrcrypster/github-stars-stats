@@ -1,12 +1,12 @@
-# nahmii/nb-sandbox-contracts / stars & forks statistics
-
-[Open repository/nahmii/nb-sandbox-contracts](https://github.com/nahmii/nb-sandbox-contracts)
+# nahmii/nb-sandbox-contracts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 30
+
+[Open repository](https://github.com/nahmii/nb-sandbox-contracts)
 
 ## Historical data
 | Date | Stars | Forks |

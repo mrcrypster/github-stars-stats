@@ -1,12 +1,12 @@
-# fazt/nodejs-notes-app / stars & forks statistics
-
-[Open repository/fazt/nodejs-notes-app](https://github.com/fazt/nodejs-notes-app)
+# fazt/nodejs-notes-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 169
 
 ★ Stars: 202
+
+[Open repository](https://github.com/fazt/nodejs-notes-app)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# bbggname/dedic-top / stars & forks statistics
-
-[Open repository/bbggname/dedic-top](https://github.com/bbggname/dedic-top)
+# bbggname/dedic-top - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 123
 
 ★ Stars: 2
+
+[Open repository](https://github.com/bbggname/dedic-top)
 
 ## Historical data
 | Date | Stars | Forks |

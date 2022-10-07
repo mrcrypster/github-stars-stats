@@ -1,6 +1,4 @@
-# Smokey555/FNF-HD-Open-Source / stars & forks statistics
-
-[Open repository/Smokey555/FNF-HD-Open-Source](https://github.com/Smokey555/FNF-HD-Open-Source)
+# Smokey555/FNF-HD-Open-Source - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 27
 
+[Open repository](https://github.com/Smokey555/FNF-HD-Open-Source)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 27 | 56 | 
+| 2022-10-05 | 27 | 56 | 
+| 2022-10-04 | 27 | 56 | 
+| 2022-10-03 | 27 | 56 | 
+| 2022-10-02 | 27 | 56 | 
+| 2022-10-01 | 27 | 56 | 
+| 2022-09-30 | 27 | 56 | 
 | 2022-09-29 | 27 | 56 | 
 | 2022-09-28 | 27 | 56 | 
 | 2022-09-27 | 27 | 56 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 25 | 55 | 
 | 2022-09-09 | 25 | 55 | 
 | 2022-09-08 | 25 | 55 | 
-| 2022-09-07 | 25 | 54 | 
-| 2022-09-06 | 25 | 54 | 
-| 2022-09-05 | 25 | 54 | 
-| 2022-09-04 | 24 | 54 | 
-| 2022-09-03 | 24 | 54 | 
-| 2022-09-02 | 24 | 54 | 
-| 2022-09-01 | 24 | 54 | 
-| 2022-08-31 | 24 | 54 | 
 
 
 [Detailed charts & statistics for Smokey555/FNF-HD-Open-Source](https://reviewgithub.com/rep/Smokey555/FNF-HD-Open-Source)

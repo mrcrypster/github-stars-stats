@@ -1,12 +1,12 @@
-# XdpCS/SolidityLearning / stars & forks statistics
-
-[Open repository/XdpCS/SolidityLearning](https://github.com/XdpCS/SolidityLearning)
+# XdpCS/SolidityLearning - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 19
+
+[Open repository](https://github.com/XdpCS/SolidityLearning)
 
 ## Historical data
 | Date | Stars | Forks |

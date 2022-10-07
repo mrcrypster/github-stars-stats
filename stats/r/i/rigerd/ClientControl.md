@@ -1,12 +1,12 @@
-# rigerd/ClientControl / stars & forks statistics
-
-[Open repository/rigerd/ClientControl](https://github.com/rigerd/ClientControl)
+# rigerd/ClientControl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/rigerd/ClientControl)
 
 ## Historical data
 | Date | Stars | Forks |

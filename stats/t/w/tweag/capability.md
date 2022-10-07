@@ -1,12 +1,12 @@
-# tweag/capability / stars & forks statistics
-
-[Open repository/tweag/capability](https://github.com/tweag/capability)
+# tweag/capability - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 207
+
+[Open repository](https://github.com/tweag/capability)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# iamkishore0/Jenkins_scripts / stars & forks statistics
-
-[Open repository/iamkishore0/Jenkins_scripts](https://github.com/iamkishore0/Jenkins_scripts)
+# iamkishore0/Jenkins_scripts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 1
+
+[Open repository](https://github.com/iamkishore0/Jenkins_scripts)
 
 ## Historical data
 | Date | Stars | Forks |

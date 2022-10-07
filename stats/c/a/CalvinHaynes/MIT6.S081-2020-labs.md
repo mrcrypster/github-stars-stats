@@ -1,12 +1,12 @@
-# CalvinHaynes/MIT6.S081-2020-labs / stars & forks statistics
-
-[Open repository/CalvinHaynes/MIT6.S081-2020-labs](https://github.com/CalvinHaynes/MIT6.S081-2020-labs)
+# CalvinHaynes/MIT6.S081-2020-labs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 10
+
+[Open repository](https://github.com/CalvinHaynes/MIT6.S081-2020-labs)
 
 ## Historical data
 | Date | Stars | Forks |

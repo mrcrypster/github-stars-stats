@@ -1,12 +1,12 @@
-# epfl-theos/koopmans-qe-utils / stars & forks statistics
-
-[Open repository/epfl-theos/koopmans-qe-utils](https://github.com/epfl-theos/koopmans-qe-utils)
+# epfl-theos/koopmans-qe-utils - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/epfl-theos/koopmans-qe-utils)
 
 ## Historical data
 | Date | Stars | Forks |

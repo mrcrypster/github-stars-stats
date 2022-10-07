@@ -1,16 +1,27 @@
-# RangiLyu/nanodet / stars & forks statistics
-
-[Open repository/RangiLyu/nanodet](https://github.com/RangiLyu/nanodet)
+# RangiLyu/nanodet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 879
+☋ Forks: 883
 
-★ Stars: 4645
+★ Stars: 4660
+
+[Open repository](https://github.com/RangiLyu/nanodet)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4660 | 883 | 
+| 2022-10-06 | 4659 | 883 | 
+| 2022-10-04 | 4659 | 883 | 
+| 2022-10-03 | 4658 | 883 | 
+| 2022-10-02 | 4657 | 883 | 
+| 2022-10-01 | 4657 | 882 | 
+| 2022-09-30 | 4658 | 882 | 
+| 2022-09-29 | 4657 | 882 | 
+| 2022-09-28 | 4653 | 882 | 
+| 2022-09-27 | 4652 | 881 | 
+| 2022-09-26 | 4649 | 880 | 
 | 2022-09-25 | 4645 | 879 | 
 | 2022-09-24 | 4645 | 878 | 
 | 2022-09-23 | 4644 | 878 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4622 | 873 | 
 | 2022-09-08 | 4618 | 871 | 
 | 2022-09-07 | 4616 | 870 | 
-| 2022-09-06 | 4613 | 870 | 
-| 2022-09-05 | 4611 | 870 | 
-| 2022-09-04 | 4609 | 869 | 
-| 2022-09-03 | 4608 | 868 | 
-| 2022-09-02 | 4608 | 868 | 
-| 2022-09-01 | 4605 | 866 | 
-| 2022-08-31 | 4597 | 866 | 
-| 2022-08-30 | 4585 | 866 | 
-| 2022-08-29 | 4573 | 866 | 
-| 2022-08-28 | 4563 | 865 | 
-| 2022-08-27 | 4560 | 865 | 
 
 
 [Detailed charts & statistics for RangiLyu/nanodet](https://reviewgithub.com/rep/RangiLyu/nanodet)

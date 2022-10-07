@@ -1,12 +1,12 @@
-# oist/PPL_Builder / stars & forks statistics
-
-[Open repository/oist/PPL_Builder](https://github.com/oist/PPL_Builder)
+# oist/PPL_Builder - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/oist/PPL_Builder)
 
 ## Historical data
 | Date | Stars | Forks |

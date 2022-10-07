@@ -1,6 +1,4 @@
-# n4kz/crixalis / stars & forks statistics
-
-[Open repository/n4kz/crixalis](https://github.com/n4kz/crixalis)
+# n4kz/crixalis - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/n4kz/crixalis)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 1 | 
 | 2022-10-05 | 4 | 1 | 
 | 2022-10-04 | 4 | 1 | 
 | 2022-10-03 | 4 | 1 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 1 | 
 | 2022-09-09 | 4 | 1 | 
 | 2022-09-08 | 4 | 1 | 
-| 2022-09-07 | 4 | 1 | 
-| 2022-09-06 | 4 | 1 | 
 
 
 [Detailed charts & statistics for n4kz/crixalis](https://reviewgithub.com/rep/n4kz/crixalis)

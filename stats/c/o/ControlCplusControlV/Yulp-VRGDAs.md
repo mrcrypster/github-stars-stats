@@ -1,12 +1,12 @@
-# ControlCplusControlV/Yulp-VRGDAs / stars & forks statistics
-
-[Open repository/ControlCplusControlV/Yulp-VRGDAs](https://github.com/ControlCplusControlV/Yulp-VRGDAs)
+# ControlCplusControlV/Yulp-VRGDAs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 15
+
+[Open repository](https://github.com/ControlCplusControlV/Yulp-VRGDAs)
 
 ## Historical data
 | Date | Stars | Forks |

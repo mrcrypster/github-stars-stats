@@ -1,6 +1,4 @@
-# haskell-effectful/time-effectful / stars & forks statistics
-
-[Open repository/haskell-effectful/time-effectful](https://github.com/haskell-effectful/time-effectful)
+# haskell-effectful/time-effectful - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/haskell-effectful/time-effectful)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4 | 1 | 
+| 2022-10-05 | 4 | 1 | 
+| 2022-10-04 | 4 | 1 | 
+| 2022-10-03 | 4 | 1 | 
+| 2022-10-02 | 4 | 1 | 
+| 2022-10-01 | 4 | 1 | 
+| 2022-09-30 | 4 | 1 | 
+| 2022-09-29 | 4 | 1 | 
 | 2022-09-28 | 4 | 1 | 
 | 2022-09-27 | 4 | 1 | 
 | 2022-09-26 | 4 | 1 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4 | 1 | 
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
-| 2022-09-06 | 4 | 1 | 
-| 2022-09-05 | 4 | 1 | 
-| 2022-09-04 | 4 | 1 | 
-| 2022-09-03 | 4 | 1 | 
-| 2022-09-02 | 4 | 1 | 
-| 2022-09-01 | 4 | 1 | 
-| 2022-08-31 | 4 | 1 | 
-| 2022-08-30 | 4 | 1 | 
 
 
 [Detailed charts & statistics for haskell-effectful/time-effectful](https://reviewgithub.com/rep/haskell-effectful/time-effectful)

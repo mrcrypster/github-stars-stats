@@ -1,6 +1,4 @@
-# AppMana/holotable-example / stars & forks statistics
-
-[Open repository/AppMana/holotable-example](https://github.com/AppMana/holotable-example)
+# AppMana/holotable-example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/AppMana/holotable-example)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 3 | 
+| 2022-10-05 | - | 3 | 
+| 2022-10-04 | - | 3 | 
+| 2022-10-03 | - | 3 | 
+| 2022-10-02 | - | 3 | 
+| 2022-10-01 | - | 3 | 
 | 2022-09-30 | - | 3 | 
 | 2022-09-29 | - | 3 | 
 | 2022-09-28 | - | 3 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 2 | 
 | 2022-09-09 | - | 2 | 
 | 2022-09-08 | - | 2 | 
-| 2022-09-07 | - | 2 | 
-| 2022-09-06 | - | 2 | 
-| 2022-09-05 | - | 2 | 
-| 2022-09-04 | - | 2 | 
-| 2022-09-03 | - | 2 | 
-| 2022-09-02 | - | 2 | 
-| 2022-09-01 | - | 2 | 
 
 
 [Detailed charts & statistics for AppMana/holotable-example](https://reviewgithub.com/rep/AppMana/holotable-example)

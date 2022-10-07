@@ -1,16 +1,30 @@
-# creativetimofficial/vue-soft-ui-dashboard / stars & forks statistics
-
-[Open repository/creativetimofficial/vue-soft-ui-dashboard](https://github.com/creativetimofficial/vue-soft-ui-dashboard)
+# creativetimofficial/vue-soft-ui-dashboard - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 49
+☋ Forks: 57
 
 ★ Stars: 45
+
+[Open repository](https://github.com/creativetimofficial/vue-soft-ui-dashboard)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 45 | 57 | 
+| 2022-10-05 | 45 | 57 | 
+| 2022-10-04 | 45 | 57 | 
+| 2022-10-03 | 45 | 55 | 
+| 2022-10-02 | 45 | 55 | 
+| 2022-10-01 | 45 | 55 | 
+| 2022-09-30 | 45 | 54 | 
+| 2022-09-29 | 45 | 53 | 
+| 2022-09-28 | 45 | 53 | 
+| 2022-09-27 | 45 | 53 | 
+| 2022-09-26 | 45 | 53 | 
+| 2022-09-25 | 45 | 53 | 
+| 2022-09-24 | 45 | 53 | 
+| 2022-09-23 | 45 | 50 | 
 | 2022-09-22 | 45 | 49 | 
 | 2022-09-21 | 45 | 48 | 
 | 2022-09-20 | 44 | 48 | 
@@ -26,21 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 41 | 44 | 
 | 2022-09-08 | 41 | 44 | 
 | 2022-09-07 | 41 | 44 | 
-| 2022-09-06 | 41 | 43 | 
-| 2022-09-05 | 41 | 42 | 
-| 2022-09-04 | 41 | 42 | 
-| 2022-09-03 | 41 | 41 | 
-| 2022-09-02 | 41 | 39 | 
-| 2022-09-01 | 41 | 39 | 
-| 2022-08-31 | 41 | 39 | 
-| 2022-08-30 | 41 | 39 | 
-| 2022-08-29 | 41 | 39 | 
-| 2022-08-28 | 40 | 39 | 
-| 2022-08-27 | 41 | 39 | 
-| 2022-08-26 | 41 | 38 | 
-| 2022-08-25 | 41 | 37 | 
-| 2022-08-24 | 41 | 37 | 
-| 2022-08-23 | 41 | 37 | 
 
 
 [Detailed charts & statistics for creativetimofficial/vue-soft-ui-dashboard](https://reviewgithub.com/rep/creativetimofficial/vue-soft-ui-dashboard)

@@ -1,6 +1,4 @@
-# mracos/mermaid.vim / stars & forks statistics
-
-[Open repository/mracos/mermaid.vim](https://github.com/mracos/mermaid.vim)
+# mracos/mermaid.vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 18
 
+[Open repository](https://github.com/mracos/mermaid.vim)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 18 | 1 | 
+| 2022-10-06 | 18 | 1 | 
+| 2022-10-05 | 18 | 1 | 
+| 2022-10-04 | 18 | 1 | 
+| 2022-10-03 | 18 | 1 | 
+| 2022-10-02 | 18 | 1 | 
+| 2022-10-01 | 18 | 1 | 
+| 2022-09-30 | 18 | 1 | 
+| 2022-09-29 | 18 | 1 | 
+| 2022-09-28 | 18 | 1 | 
+| 2022-09-27 | 18 | 1 | 
+| 2022-09-26 | 18 | 1 | 
+| 2022-09-25 | 18 | 1 | 
+| 2022-09-24 | 18 | 1 | 
 | 2022-09-23 | 18 | 1 | 
 | 2022-09-22 | 18 | 1 | 
 | 2022-09-21 | 18 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 18 | 1 | 
 | 2022-09-08 | 18 | 1 | 
 | 2022-09-07 | 18 | 1 | 
-| 2022-09-06 | 18 | 1 | 
-| 2022-09-05 | 18 | 1 | 
-| 2022-09-04 | 18 | 1 | 
-| 2022-09-03 | 18 | 1 | 
-| 2022-09-02 | 18 | 1 | 
-| 2022-09-01 | 18 | 1 | 
-| 2022-08-31 | 18 | 1 | 
-| 2022-08-30 | 18 | 1 | 
-| 2022-08-29 | 18 | 1 | 
-| 2022-08-28 | 18 | 1 | 
-| 2022-08-27 | 18 | 1 | 
-| 2022-08-26 | 17 | 1 | 
-| 2022-08-25 | 17 | 1 | 
-| 2022-08-24 | 16 | 1 | 
 
 
 [Detailed charts & statistics for mracos/mermaid.vim](https://reviewgithub.com/rep/mracos/mermaid.vim)

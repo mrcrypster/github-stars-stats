@@ -1,6 +1,4 @@
-# status-im/status-lib-archived / stars & forks statistics
-
-[Open repository/status-im/status-lib-archived](https://github.com/status-im/status-lib-archived)
+# status-im/status-lib-archived - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 6
 
+[Open repository](https://github.com/status-im/status-lib-archived)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 3 | 
+| 2022-10-05 | 6 | 3 | 
+| 2022-10-04 | 6 | 3 | 
+| 2022-10-03 | 6 | 3 | 
+| 2022-10-02 | 6 | 3 | 
+| 2022-10-01 | 6 | 3 | 
+| 2022-09-30 | 6 | 3 | 
 | 2022-09-29 | 6 | 3 | 
 | 2022-09-28 | 6 | 3 | 
 | 2022-09-27 | 6 | 3 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 3 | 
 | 2022-09-09 | 6 | 3 | 
 | 2022-09-08 | 6 | 3 | 
-| 2022-09-07 | 6 | 3 | 
-| 2022-09-06 | 6 | 3 | 
-| 2022-09-05 | 6 | 3 | 
-| 2022-09-04 | 6 | 3 | 
-| 2022-09-03 | 6 | 3 | 
-| 2022-09-02 | 6 | 3 | 
-| 2022-09-01 | 6 | 3 | 
-| 2022-08-31 | 6 | 3 | 
 
 
 [Detailed charts & statistics for status-im/status-lib-archived](https://reviewgithub.com/rep/status-im/status-lib-archived)

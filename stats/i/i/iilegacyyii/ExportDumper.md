@@ -1,16 +1,31 @@
-# iilegacyyii/ExportDumper / stars & forks statistics
-
-[Open repository/iilegacyyii/ExportDumper](https://github.com/iilegacyyii/ExportDumper)
+# iilegacyyii/ExportDumper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
-★ Stars: 54
+★ Stars: 56
+
+[Open repository](https://github.com/iilegacyyii/ExportDumper)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 56 | 7 | 
+| 2022-10-06 | 56 | 7 | 
+| 2022-10-05 | 56 | 7 | 
+| 2022-10-04 | 56 | 7 | 
+| 2022-10-03 | 56 | 7 | 
+| 2022-10-02 | 56 | 7 | 
+| 2022-10-01 | 56 | 7 | 
+| 2022-09-30 | 56 | 7 | 
+| 2022-09-29 | 56 | 7 | 
+| 2022-09-28 | 56 | 7 | 
+| 2022-09-27 | 56 | 7 | 
+| 2022-09-26 | 55 | 7 | 
+| 2022-09-25 | 55 | 7 | 
+| 2022-09-24 | 55 | 7 | 
+| 2022-09-23 | 55 | 7 | 
 | 2022-09-22 | 54 | 7 | 
 | 2022-09-21 | 54 | 7 | 
 | 2022-09-20 | 54 | 7 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 54 | 7 | 
 | 2022-09-08 | 54 | 7 | 
 | 2022-09-07 | 53 | 6 | 
-| 2022-09-06 | 52 | 6 | 
-| 2022-09-05 | 52 | 6 | 
-| 2022-09-04 | 51 | 6 | 
-| 2022-09-03 | 49 | 6 | 
-| 2022-09-02 | 48 | 6 | 
-| 2022-09-01 | 48 | 6 | 
-| 2022-08-31 | 47 | 6 | 
-| 2022-08-30 | 44 | 6 | 
-| 2022-08-29 | 44 | 6 | 
-| 2022-08-28 | 43 | 6 | 
-| 2022-08-27 | 43 | 6 | 
-| 2022-08-26 | 43 | 6 | 
-| 2022-08-25 | 41 | 5 | 
-| 2022-08-24 | 39 | 5 | 
-| 2022-08-23 | 38 | 5 | 
 
 
 [Detailed charts & statistics for iilegacyyii/ExportDumper](https://reviewgithub.com/rep/iilegacyyii/ExportDumper)

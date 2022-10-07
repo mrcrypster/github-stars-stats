@@ -1,12 +1,12 @@
-# pavelsavara/dotnet-wasm-todo-mvc / stars & forks statistics
-
-[Open repository/pavelsavara/dotnet-wasm-todo-mvc](https://github.com/pavelsavara/dotnet-wasm-todo-mvc)
+# pavelsavara/dotnet-wasm-todo-mvc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 31
+
+[Open repository](https://github.com/pavelsavara/dotnet-wasm-todo-mvc)
 
 ## Historical data
 | Date | Stars | Forks |

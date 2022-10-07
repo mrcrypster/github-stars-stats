@@ -1,12 +1,12 @@
-# deepin-community/extlib / stars & forks statistics
-
-[Open repository/deepin-community/extlib](https://github.com/deepin-community/extlib)
+# deepin-community/extlib - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/extlib)
 
 ## Historical data
 | Date | Stars | Forks |

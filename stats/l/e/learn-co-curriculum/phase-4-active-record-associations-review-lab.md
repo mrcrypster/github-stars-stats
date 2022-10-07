@@ -1,16 +1,25 @@
-# learn-co-curriculum/phase-4-active-record-associations-review-lab / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-4-active-record-associations-review-lab](https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-lab)
+# learn-co-curriculum/phase-4-active-record-associations-review-lab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 905
+☋ Forks: 1037
 
 ★ Stars: 0
+
+[Open repository](https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-lab)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 1037 | 
+| 2022-10-06 | - | 1032 | 
+| 2022-10-05 | - | 1025 | 
+| 2022-10-04 | - | 1015 | 
+| 2022-10-03 | - | 993 | 
+| 2022-10-02 | - | 979 | 
+| 2022-10-01 | - | 966 | 
+| 2022-09-30 | - | 949 | 
+| 2022-09-29 | - | 922 | 
 | 2022-09-28 | - | 905 | 
 | 2022-09-27 | - | 891 | 
 | 2022-09-26 | - | 885 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 849 | 
 | 2022-09-08 | - | 849 | 
 | 2022-09-07 | - | 849 | 
-| 2022-09-06 | - | 842 | 
-| 2022-09-05 | - | 834 | 
-| 2022-09-04 | - | 834 | 
-| 2022-09-03 | - | 831 | 
-| 2022-09-02 | - | 829 | 
-| 2022-09-01 | - | 821 | 
-| 2022-08-31 | - | 810 | 
-| 2022-08-30 | - | 802 | 
-| 2022-08-29 | - | 802 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-4-active-record-associations-review-lab](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-active-record-associations-review-lab)

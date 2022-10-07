@@ -1,12 +1,12 @@
-# Onturenio/WEB / stars & forks statistics
-
-[Open repository/Onturenio/WEB](https://github.com/Onturenio/WEB)
+# Onturenio/WEB - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Onturenio/WEB)
 
 ## Historical data
 | Date | Stars | Forks |

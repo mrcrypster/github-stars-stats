@@ -1,12 +1,12 @@
-# LingDong-/VisionOSC / stars & forks statistics
-
-[Open repository/LingDong-/VisionOSC](https://github.com/LingDong-/VisionOSC)
+# LingDong-/VisionOSC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 44
+
+[Open repository](https://github.com/LingDong-/VisionOSC)
 
 ## Historical data
 | Date | Stars | Forks |

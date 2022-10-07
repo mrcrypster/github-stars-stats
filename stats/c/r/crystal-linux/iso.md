@@ -1,16 +1,21 @@
-# crystal-linux/iso / stars & forks statistics
-
-[Open repository/crystal-linux/iso](https://github.com/crystal-linux/iso)
+# crystal-linux/iso - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
-★ Stars: 93
+★ Stars: 94
+
+[Open repository](https://github.com/crystal-linux/iso)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 94 | 11 | 
+| 2022-10-05 | 94 | 11 | 
+| 2022-10-04 | 94 | 11 | 
+| 2022-10-03 | 94 | 11 | 
+| 2022-10-02 | 93 | 11 | 
 | 2022-10-01 | 93 | 11 | 
 | 2022-09-30 | 93 | 11 | 
 | 2022-09-29 | 93 | 11 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 36 | 8 | 
 | 2022-09-09 | 35 | 8 | 
 | 2022-09-08 | 35 | 8 | 
-| 2022-09-07 | 34 | 8 | 
-| 2022-09-06 | 34 | 8 | 
-| 2022-09-05 | 33 | 8 | 
-| 2022-09-04 | 33 | 8 | 
-| 2022-09-03 | 32 | 8 | 
-| 2022-09-02 | 28 | 8 | 
 
 
 [Detailed charts & statistics for crystal-linux/iso](https://reviewgithub.com/rep/crystal-linux/iso)

@@ -1,12 +1,12 @@
-# hellofresh/kangal-jmeter / stars & forks statistics
-
-[Open repository/hellofresh/kangal-jmeter](https://github.com/hellofresh/kangal-jmeter)
+# hellofresh/kangal-jmeter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
+
+[Open repository](https://github.com/hellofresh/kangal-jmeter)
 
 ## Historical data
 | Date | Stars | Forks |

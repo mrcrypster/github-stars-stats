@@ -1,12 +1,12 @@
-# moneyforward/rspecq / stars & forks statistics
-
-[Open repository/moneyforward/rspecq](https://github.com/moneyforward/rspecq)
+# moneyforward/rspecq - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
+
+[Open repository](https://github.com/moneyforward/rspecq)
 
 ## Historical data
 | Date | Stars | Forks |

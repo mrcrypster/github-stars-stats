@@ -1,16 +1,23 @@
-# PProvost/vim-ps1 / stars & forks statistics
-
-[Open repository/PProvost/vim-ps1](https://github.com/PProvost/vim-ps1)
+# PProvost/vim-ps1 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
-★ Stars: 295
+★ Stars: 297
+
+[Open repository](https://github.com/PProvost/vim-ps1)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 297 | 44 | 
+| 2022-10-05 | 297 | 44 | 
+| 2022-10-04 | 296 | 44 | 
+| 2022-10-03 | 296 | 44 | 
+| 2022-10-02 | 296 | 44 | 
+| 2022-10-01 | 295 | 44 | 
+| 2022-09-30 | 295 | 44 | 
 | 2022-09-29 | 295 | 44 | 
 | 2022-09-28 | 295 | 44 | 
 | 2022-09-27 | 295 | 44 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 295 | 44 | 
 | 2022-09-09 | 295 | 44 | 
 | 2022-09-08 | 295 | 44 | 
-| 2022-09-07 | 295 | 44 | 
-| 2022-09-06 | 295 | 44 | 
-| 2022-09-05 | 295 | 44 | 
-| 2022-09-04 | 295 | 44 | 
-| 2022-09-03 | 295 | 44 | 
-| 2022-09-02 | 295 | 44 | 
-| 2022-09-01 | 295 | 44 | 
-| 2022-08-31 | 295 | 44 | 
 
 
 [Detailed charts & statistics for PProvost/vim-ps1](https://reviewgithub.com/rep/PProvost/vim-ps1)

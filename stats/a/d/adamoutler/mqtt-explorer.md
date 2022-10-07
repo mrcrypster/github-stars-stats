@@ -1,12 +1,12 @@
-# adamoutler/mqtt-explorer / stars & forks statistics
-
-[Open repository/adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer)
+# adamoutler/mqtt-explorer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 21
+
+[Open repository](https://github.com/adamoutler/mqtt-explorer)
 
 ## Historical data
 | Date | Stars | Forks |

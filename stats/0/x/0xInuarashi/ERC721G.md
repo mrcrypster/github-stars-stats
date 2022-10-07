@@ -1,12 +1,12 @@
-# 0xInuarashi/ERC721G / stars & forks statistics
-
-[Open repository/0xInuarashi/ERC721G](https://github.com/0xInuarashi/ERC721G)
+# 0xInuarashi/ERC721G - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 31
+
+[Open repository](https://github.com/0xInuarashi/ERC721G)
 
 ## Historical data
 | Date | Stars | Forks |

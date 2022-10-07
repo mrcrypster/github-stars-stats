@@ -1,6 +1,4 @@
-# BetaFilter/Sonic-1-MDO / stars & forks statistics
-
-[Open repository/BetaFilter/Sonic-1-MDO](https://github.com/BetaFilter/Sonic-1-MDO)
+# BetaFilter/Sonic-1-MDO - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/BetaFilter/Sonic-1-MDO)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | - | 
 | 2022-10-05 | 2 | - | 
 | 2022-10-04 | 2 | - | 
 | 2022-10-03 | 2 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | - | 
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
-| 2022-09-07 | 2 | - | 
-| 2022-09-06 | 2 | - | 
 
 
 [Detailed charts & statistics for BetaFilter/Sonic-1-MDO](https://reviewgithub.com/rep/BetaFilter/Sonic-1-MDO)

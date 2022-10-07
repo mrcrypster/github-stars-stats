@@ -1,16 +1,31 @@
-# sailfishos/docs.sailfishos.org / stars & forks statistics
-
-[Open repository/sailfishos/docs.sailfishos.org](https://github.com/sailfishos/docs.sailfishos.org)
+# sailfishos/docs.sailfishos.org - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 20
+☋ Forks: 19
 
-★ Stars: 8
+★ Stars: 9
+
+[Open repository](https://github.com/sailfishos/docs.sailfishos.org)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 9 | 19 | 
+| 2022-10-06 | 9 | 19 | 
+| 2022-10-05 | 9 | 19 | 
+| 2022-10-04 | 9 | 19 | 
+| 2022-10-03 | 9 | 19 | 
+| 2022-10-02 | 9 | 19 | 
+| 2022-10-01 | 9 | 19 | 
+| 2022-09-30 | 9 | 19 | 
+| 2022-09-29 | 8 | 19 | 
+| 2022-09-28 | 8 | 19 | 
+| 2022-09-27 | 8 | 19 | 
+| 2022-09-26 | 8 | 19 | 
+| 2022-09-25 | 8 | 19 | 
+| 2022-09-24 | 8 | 19 | 
+| 2022-09-23 | 8 | 19 | 
 | 2022-09-22 | 8 | 20 | 
 | 2022-09-21 | 8 | 20 | 
 | 2022-09-20 | 8 | 20 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 8 | 20 | 
 | 2022-09-08 | 8 | 20 | 
 | 2022-09-07 | 8 | 20 | 
-| 2022-09-06 | 8 | 20 | 
-| 2022-09-05 | 8 | 20 | 
-| 2022-09-04 | 8 | 20 | 
-| 2022-09-03 | 8 | 20 | 
-| 2022-09-02 | 8 | 20 | 
-| 2022-09-01 | 8 | 20 | 
-| 2022-08-31 | 8 | 20 | 
-| 2022-08-30 | 8 | 20 | 
-| 2022-08-29 | 8 | 20 | 
-| 2022-08-28 | 8 | 20 | 
-| 2022-08-27 | 8 | 20 | 
-| 2022-08-26 | 8 | 20 | 
-| 2022-08-25 | 8 | 20 | 
-| 2022-08-24 | 8 | 20 | 
-| 2022-08-23 | 8 | 20 | 
 
 
 [Detailed charts & statistics for sailfishos/docs.sailfishos.org](https://reviewgithub.com/rep/sailfishos/docs.sailfishos.org)

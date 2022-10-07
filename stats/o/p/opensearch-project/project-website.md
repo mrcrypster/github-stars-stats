@@ -1,12 +1,12 @@
-# opensearch-project/project-website / stars & forks statistics
-
-[Open repository/opensearch-project/project-website](https://github.com/opensearch-project/project-website)
+# opensearch-project/project-website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 163
 
 ★ Stars: 22
+
+[Open repository](https://github.com/opensearch-project/project-website)
 
 ## Historical data
 | Date | Stars | Forks |

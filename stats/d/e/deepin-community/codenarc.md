@@ -1,12 +1,12 @@
-# deepin-community/codenarc / stars & forks statistics
-
-[Open repository/deepin-community/codenarc](https://github.com/deepin-community/codenarc)
+# deepin-community/codenarc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/codenarc)
 
 ## Historical data
 | Date | Stars | Forks |

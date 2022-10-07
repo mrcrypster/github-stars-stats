@@ -1,6 +1,4 @@
-# palantir/gradle-processors / stars & forks statistics
-
-[Open repository/palantir/gradle-processors](https://github.com/palantir/gradle-processors)
+# palantir/gradle-processors - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 63
 
+[Open repository](https://github.com/palantir/gradle-processors)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 63 | 20 | 
+| 2022-10-05 | 63 | 20 | 
+| 2022-10-04 | 63 | 20 | 
+| 2022-10-03 | 63 | 20 | 
+| 2022-10-02 | 63 | 20 | 
+| 2022-10-01 | 63 | 20 | 
+| 2022-09-30 | 63 | 20 | 
+| 2022-09-29 | 63 | 20 | 
+| 2022-09-28 | 63 | 20 | 
+| 2022-09-27 | 63 | 20 | 
+| 2022-09-26 | 63 | 20 | 
+| 2022-09-25 | 63 | 20 | 
+| 2022-09-24 | 63 | 20 | 
+| 2022-09-23 | 63 | 20 | 
 | 2022-09-22 | 63 | 20 | 
 | 2022-09-21 | 63 | 20 | 
 | 2022-09-20 | 63 | 20 | 
@@ -26,21 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 63 | 20 | 
 | 2022-09-09 | 63 | 20 | 
 | 2022-09-08 | 63 | 20 | 
-| 2022-09-06 | 63 | 20 | 
-| 2022-09-05 | 63 | 20 | 
-| 2022-09-04 | 63 | 20 | 
-| 2022-09-03 | 63 | 20 | 
-| 2022-09-02 | 63 | 20 | 
-| 2022-09-01 | 63 | 20 | 
-| 2022-08-31 | 63 | 20 | 
-| 2022-08-30 | 63 | 20 | 
-| 2022-08-29 | 63 | 20 | 
-| 2022-08-28 | 63 | 20 | 
-| 2022-08-27 | 63 | 20 | 
-| 2022-08-26 | 63 | 20 | 
-| 2022-08-25 | 63 | 20 | 
-| 2022-08-24 | 63 | 20 | 
-| 2022-08-23 | 63 | 20 | 
 
 
 [Detailed charts & statistics for palantir/gradle-processors](https://reviewgithub.com/rep/palantir/gradle-processors)

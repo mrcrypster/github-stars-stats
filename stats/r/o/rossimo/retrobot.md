@@ -1,12 +1,12 @@
-# rossimo/retrobot / stars & forks statistics
-
-[Open repository/rossimo/retrobot](https://github.com/rossimo/retrobot)
+# rossimo/retrobot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 254
+
+[Open repository](https://github.com/rossimo/retrobot)
 
 ## Historical data
 | Date | Stars | Forks |

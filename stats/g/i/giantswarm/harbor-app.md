@@ -1,12 +1,12 @@
-# giantswarm/harbor-app / stars & forks statistics
-
-[Open repository/giantswarm/harbor-app](https://github.com/giantswarm/harbor-app)
+# giantswarm/harbor-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/giantswarm/harbor-app)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,21 @@
-# petejohanson/technikable-zmk-config / stars & forks statistics
-
-[Open repository/petejohanson/technikable-zmk-config](https://github.com/petejohanson/technikable-zmk-config)
+# petejohanson/technikable-zmk-config - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 27
+☋ Forks: 32
 
-★ Stars: 2
+★ Stars: 3
+
+[Open repository](https://github.com/petejohanson/technikable-zmk-config)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | 32 | 
+| 2022-10-06 | 3 | 30 | 
+| 2022-10-05 | 3 | 30 | 
+| 2022-10-04 | 3 | 30 | 
+| 2022-10-03 | 3 | 29 | 
 | 2022-10-02 | 2 | 27 | 
 | 2022-10-01 | 2 | 27 | 
 | 2022-09-30 | 2 | 26 | 
@@ -36,11 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | 9 | 
 | 2022-09-09 | 2 | 9 | 
 | 2022-09-08 | 2 | 9 | 
-| 2022-09-07 | 2 | 9 | 
-| 2022-09-06 | 2 | 9 | 
-| 2022-09-05 | 2 | 8 | 
-| 2022-09-04 | 2 | 8 | 
-| 2022-09-03 | 2 | 8 | 
 
 
 [Detailed charts & statistics for petejohanson/technikable-zmk-config](https://reviewgithub.com/rep/petejohanson/technikable-zmk-config)

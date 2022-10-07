@@ -1,12 +1,12 @@
-# NoahZinsmeister/ProveIt / stars & forks statistics
-
-[Open repository/NoahZinsmeister/ProveIt](https://github.com/NoahZinsmeister/ProveIt)
+# NoahZinsmeister/ProveIt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 58
+
+[Open repository](https://github.com/NoahZinsmeister/ProveIt)
 
 ## Historical data
 | Date | Stars | Forks |

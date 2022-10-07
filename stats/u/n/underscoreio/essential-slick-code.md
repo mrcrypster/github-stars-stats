@@ -1,6 +1,4 @@
-# underscoreio/essential-slick-code / stars & forks statistics
-
-[Open repository/underscoreio/essential-slick-code](https://github.com/underscoreio/essential-slick-code)
+# underscoreio/essential-slick-code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 82
 
+[Open repository](https://github.com/underscoreio/essential-slick-code)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 82 | 50 | 
+| 2022-10-05 | 82 | 50 | 
 | 2022-10-04 | 82 | 50 | 
 | 2022-10-03 | 82 | 50 | 
 | 2022-10-02 | 82 | 50 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 82 | 50 | 
 | 2022-09-09 | 82 | 50 | 
 | 2022-09-08 | 82 | 50 | 
-| 2022-09-07 | 82 | 50 | 
-| 2022-09-06 | 82 | 50 | 
-| 2022-09-05 | 82 | 50 | 
 
 
 [Detailed charts & statistics for underscoreio/essential-slick-code](https://reviewgithub.com/rep/underscoreio/essential-slick-code)

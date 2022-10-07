@@ -1,12 +1,12 @@
-# projectsyn/component-vertical-pod-autoscaler / stars & forks statistics
-
-[Open repository/projectsyn/component-vertical-pod-autoscaler](https://github.com/projectsyn/component-vertical-pod-autoscaler)
+# projectsyn/component-vertical-pod-autoscaler - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/projectsyn/component-vertical-pod-autoscaler)
 
 ## Historical data
 | Date | Stars | Forks |

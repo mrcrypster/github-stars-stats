@@ -1,12 +1,12 @@
-# wlaurance/shopify-oauth-tool / stars & forks statistics
-
-[Open repository/wlaurance/shopify-oauth-tool](https://github.com/wlaurance/shopify-oauth-tool)
+# wlaurance/shopify-oauth-tool - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/wlaurance/shopify-oauth-tool)
 
 ## Historical data
 | Date | Stars | Forks |

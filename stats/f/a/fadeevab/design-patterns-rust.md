@@ -1,16 +1,29 @@
-# fadeevab/design-patterns-rust / stars & forks statistics
-
-[Open repository/fadeevab/design-patterns-rust](https://github.com/fadeevab/design-patterns-rust)
+# fadeevab/design-patterns-rust - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 27
+☋ Forks: 29
 
-★ Stars: 634
+★ Stars: 650
+
+[Open repository](https://github.com/fadeevab/design-patterns-rust)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 650 | 29 | 
+| 2022-10-06 | 650 | 29 | 
+| 2022-10-05 | 649 | 29 | 
+| 2022-10-04 | 649 | 29 | 
+| 2022-10-03 | 648 | 29 | 
+| 2022-10-02 | 648 | 29 | 
+| 2022-10-01 | 647 | 29 | 
+| 2022-09-30 | 645 | 29 | 
+| 2022-09-29 | 644 | 28 | 
+| 2022-09-28 | 643 | 28 | 
+| 2022-09-27 | 641 | 28 | 
+| 2022-09-26 | 639 | 28 | 
+| 2022-09-25 | 637 | 27 | 
 | 2022-09-24 | 634 | 27 | 
 | 2022-09-23 | 634 | 26 | 
 | 2022-09-22 | 633 | 26 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 615 | 26 | 
 | 2022-09-08 | 615 | 26 | 
 | 2022-09-07 | 613 | 26 | 
-| 2022-09-06 | 611 | 26 | 
-| 2022-09-05 | 609 | 26 | 
-| 2022-09-04 | 601 | 26 | 
-| 2022-09-03 | 594 | 26 | 
-| 2022-09-02 | 581 | 24 | 
-| 2022-09-01 | 574 | 24 | 
-| 2022-08-31 | 565 | 24 | 
-| 2022-08-30 | 559 | 24 | 
-| 2022-08-29 | 546 | 21 | 
-| 2022-08-28 | 526 | 21 | 
-| 2022-08-27 | 502 | 21 | 
-| 2022-08-26 | 387 | 19 | 
-| 2022-08-25 | 275 | 16 | 
 
 
 [Detailed charts & statistics for fadeevab/design-patterns-rust](https://reviewgithub.com/rep/fadeevab/design-patterns-rust)

@@ -1,12 +1,12 @@
-# SPX372928/MyIPTV / stars & forks statistics
-
-[Open repository/SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV)
+# SPX372928/MyIPTV - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 475
 
 ★ Stars: 1685
+
+[Open repository](https://github.com/SPX372928/MyIPTV)
 
 ## Historical data
 | Date | Stars | Forks |

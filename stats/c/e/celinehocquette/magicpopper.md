@@ -1,6 +1,4 @@
-# celinehocquette/magicpopper / stars & forks statistics
-
-[Open repository/celinehocquette/magicpopper](https://github.com/celinehocquette/magicpopper)
+# celinehocquette/magicpopper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/celinehocquette/magicpopper)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 11 | 1 | 
+| 2022-10-06 | 11 | 1 | 
+| 2022-10-05 | 11 | 1 | 
+| 2022-10-04 | 11 | 1 | 
+| 2022-10-02 | 11 | 1 | 
+| 2022-10-01 | 11 | 1 | 
+| 2022-09-30 | 11 | 1 | 
+| 2022-09-29 | 11 | 1 | 
 | 2022-09-28 | 11 | 1 | 
 | 2022-09-27 | 11 | 1 | 
 | 2022-09-26 | 11 | 1 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 10 | 1 | 
 | 2022-09-08 | 10 | 1 | 
 | 2022-09-07 | 10 | 1 | 
-| 2022-09-06 | 10 | 1 | 
-| 2022-09-05 | 10 | 1 | 
-| 2022-09-04 | 10 | 1 | 
-| 2022-09-03 | 10 | 1 | 
-| 2022-09-02 | 10 | 1 | 
-| 2022-09-01 | 10 | 1 | 
-| 2022-08-31 | 10 | 1 | 
-| 2022-08-30 | 10 | 1 | 
 
 
 [Detailed charts & statistics for celinehocquette/magicpopper](https://reviewgithub.com/rep/celinehocquette/magicpopper)

@@ -1,12 +1,12 @@
-# the-little-prover/j-bob / stars & forks statistics
-
-[Open repository/the-little-prover/j-bob](https://github.com/the-little-prover/j-bob)
+# the-little-prover/j-bob - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
 ★ Stars: 398
+
+[Open repository](https://github.com/the-little-prover/j-bob)
 
 ## Historical data
 | Date | Stars | Forks |

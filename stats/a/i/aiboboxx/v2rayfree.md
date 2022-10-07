@@ -1,12 +1,12 @@
-# aiboboxx/v2rayfree / stars & forks statistics
-
-[Open repository/aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree)
+# aiboboxx/v2rayfree - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 92
 
 ★ Stars: 708
+
+[Open repository](https://github.com/aiboboxx/v2rayfree)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# grails/grails-spring-security-ui / stars & forks statistics
-
-[Open repository/grails/grails-spring-security-ui](https://github.com/grails/grails-spring-security-ui)
+# grails/grails-spring-security-ui - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 97
 
 ★ Stars: 70
+
+[Open repository](https://github.com/grails/grails-spring-security-ui)
 
 ## Historical data
 | Date | Stars | Forks |

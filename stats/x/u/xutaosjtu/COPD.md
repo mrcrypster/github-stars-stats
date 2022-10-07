@@ -1,12 +1,12 @@
-# xutaosjtu/COPD / stars & forks statistics
-
-[Open repository/xutaosjtu/COPD](https://github.com/xutaosjtu/COPD)
+# xutaosjtu/COPD - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/xutaosjtu/COPD)
 
 ## Historical data
 | Date | Stars | Forks |

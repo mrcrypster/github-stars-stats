@@ -1,16 +1,25 @@
-# mattvenn/wokwi-verilog-gds-test / stars & forks statistics
-
-[Open repository/mattvenn/wokwi-verilog-gds-test](https://github.com/mattvenn/wokwi-verilog-gds-test)
+# mattvenn/wokwi-verilog-gds-test - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 52
+
+[Open repository](https://github.com/mattvenn/wokwi-verilog-gds-test)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 52 | 18 | 
+| 2022-10-05 | 52 | 18 | 
+| 2022-10-04 | 52 | 18 | 
+| 2022-10-03 | 52 | 18 | 
+| 2022-10-02 | 52 | 18 | 
+| 2022-10-01 | 52 | 17 | 
+| 2022-09-30 | 52 | 17 | 
+| 2022-09-29 | 52 | 17 | 
+| 2022-09-28 | 52 | 17 | 
 | 2022-09-27 | 52 | 17 | 
 | 2022-09-26 | 52 | 17 | 
 | 2022-09-25 | 52 | 17 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 48 | 14 | 
 | 2022-09-08 | 48 | 14 | 
 | 2022-09-07 | 47 | 14 | 
-| 2022-09-06 | 47 | 13 | 
-| 2022-09-05 | 44 | 13 | 
-| 2022-09-04 | 38 | 13 | 
-| 2022-09-03 | 38 | 13 | 
-| 2022-09-02 | 37 | 12 | 
-| 2022-09-01 | 34 | 11 | 
-| 2022-08-31 | 32 | 11 | 
-| 2022-08-30 | 30 | 9 | 
-| 2022-08-29 | 30 | 7 | 
 
 
 [Detailed charts & statistics for mattvenn/wokwi-verilog-gds-test](https://reviewgithub.com/rep/mattvenn/wokwi-verilog-gds-test)

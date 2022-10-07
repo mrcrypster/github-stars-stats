@@ -1,12 +1,12 @@
-# giantswarm/capa-app-collection / stars & forks statistics
-
-[Open repository/giantswarm/capa-app-collection](https://github.com/giantswarm/capa-app-collection)
+# giantswarm/capa-app-collection - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/giantswarm/capa-app-collection)
 
 ## Historical data
 | Date | Stars | Forks |

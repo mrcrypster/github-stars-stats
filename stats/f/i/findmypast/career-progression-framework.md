@@ -1,12 +1,12 @@
-# findmypast/career-progression-framework / stars & forks statistics
-
-[Open repository/findmypast/career-progression-framework](https://github.com/findmypast/career-progression-framework)
+# findmypast/career-progression-framework - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/findmypast/career-progression-framework)
 
 ## Historical data
 | Date | Stars | Forks |

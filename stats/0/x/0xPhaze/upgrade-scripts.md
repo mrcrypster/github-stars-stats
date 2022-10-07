@@ -1,6 +1,4 @@
-# 0xPhaze/upgrade-scripts / stars & forks statistics
-
-[Open repository/0xPhaze/upgrade-scripts](https://github.com/0xPhaze/upgrade-scripts)
+# 0xPhaze/upgrade-scripts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 54
 
+[Open repository](https://github.com/0xPhaze/upgrade-scripts)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 54 | - | 
+| 2022-10-05 | 54 | - | 
+| 2022-10-04 | 54 | - | 
+| 2022-10-03 | 54 | - | 
+| 2022-10-02 | 54 | - | 
 | 2022-10-01 | 54 | - | 
 | 2022-09-30 | 54 | - | 
 | 2022-09-29 | 54 | - | 
@@ -36,11 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 40 | - | 
 | 2022-09-08 | 40 | - | 
 | 2022-09-07 | 40 | - | 
-| 2022-09-06 | 30 | - | 
-| 2022-09-05 | 30 | - | 
-| 2022-09-04 | 28 | - | 
-| 2022-09-03 | 23 | - | 
-| 2022-09-02 | 22 | - | 
 
 
 [Detailed charts & statistics for 0xPhaze/upgrade-scripts](https://reviewgithub.com/rep/0xPhaze/upgrade-scripts)

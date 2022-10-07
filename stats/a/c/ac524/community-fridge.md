@@ -1,12 +1,12 @@
-# ac524/community-fridge / stars & forks statistics
-
-[Open repository/ac524/community-fridge](https://github.com/ac524/community-fridge)
+# ac524/community-fridge - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ac524/community-fridge)
 
 ## Historical data
 | Date | Stars | Forks |

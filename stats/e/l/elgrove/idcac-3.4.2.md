@@ -1,12 +1,12 @@
-# elgrove/idcac-3.4.2 / stars & forks statistics
-
-[Open repository/elgrove/idcac-3.4.2](https://github.com/elgrove/idcac-3.4.2)
+# elgrove/idcac-3.4.2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 14
+
+[Open repository](https://github.com/elgrove/idcac-3.4.2)
 
 ## Historical data
 | Date | Stars | Forks |

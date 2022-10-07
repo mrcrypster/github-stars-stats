@@ -1,12 +1,12 @@
-# yaelahaiz/hacktober-project2 / stars & forks statistics
-
-[Open repository/yaelahaiz/hacktober-project2](https://github.com/yaelahaiz/hacktober-project2)
+# yaelahaiz/hacktober-project2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
+
+[Open repository](https://github.com/yaelahaiz/hacktober-project2)
 
 ## Historical data
 | Date | Stars | Forks |

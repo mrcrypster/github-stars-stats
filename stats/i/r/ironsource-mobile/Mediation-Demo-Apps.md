@@ -1,16 +1,30 @@
-# ironsource-mobile/Mediation-Demo-Apps / stars & forks statistics
-
-[Open repository/ironsource-mobile/Mediation-Demo-Apps](https://github.com/ironsource-mobile/Mediation-Demo-Apps)
+# ironsource-mobile/Mediation-Demo-Apps - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 21
+☋ Forks: 17
 
 ★ Stars: 19
+
+[Open repository](https://github.com/ironsource-mobile/Mediation-Demo-Apps)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 17 | 
+| 2022-10-06 | 19 | 16 | 
+| 2022-10-05 | 19 | 17 | 
+| 2022-10-04 | 19 | 17 | 
+| 2022-10-03 | 19 | 17 | 
+| 2022-10-02 | 19 | 17 | 
+| 2022-10-01 | 19 | 18 | 
+| 2022-09-30 | 19 | 18 | 
+| 2022-09-29 | 19 | 18 | 
+| 2022-09-28 | 19 | 18 | 
+| 2022-09-27 | 19 | 18 | 
+| 2022-09-26 | 19 | 18 | 
+| 2022-09-25 | 19 | 18 | 
+| 2022-09-24 | 19 | 18 | 
 | 2022-09-23 | 19 | 21 | 
 | 2022-09-22 | 19 | 21 | 
 | 2022-09-21 | 19 | 21 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 19 | 20 | 
 | 2022-09-08 | 19 | 20 | 
 | 2022-09-07 | 19 | 20 | 
-| 2022-09-06 | 19 | 20 | 
-| 2022-09-05 | 19 | 20 | 
-| 2022-09-04 | 19 | 20 | 
-| 2022-09-03 | 19 | 20 | 
-| 2022-09-02 | 19 | 20 | 
-| 2022-09-01 | 19 | 20 | 
-| 2022-08-31 | 19 | 20 | 
-| 2022-08-30 | 19 | 20 | 
-| 2022-08-29 | 19 | 20 | 
-| 2022-08-28 | 19 | 20 | 
-| 2022-08-27 | 19 | 20 | 
-| 2022-08-26 | 19 | 20 | 
-| 2022-08-25 | 19 | 20 | 
-| 2022-08-24 | 19 | 20 | 
 
 
 [Detailed charts & statistics for ironsource-mobile/Mediation-Demo-Apps](https://reviewgithub.com/rep/ironsource-mobile/Mediation-Demo-Apps)

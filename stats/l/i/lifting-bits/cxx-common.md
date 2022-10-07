@@ -1,12 +1,12 @@
-# lifting-bits/cxx-common / stars & forks statistics
-
-[Open repository/lifting-bits/cxx-common](https://github.com/lifting-bits/cxx-common)
+# lifting-bits/cxx-common - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 19
+
+[Open repository](https://github.com/lifting-bits/cxx-common)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# faaiz-space/hut-calci / stars & forks statistics
-
-[Open repository/faaiz-space/hut-calci](https://github.com/faaiz-space/hut-calci)
+# faaiz-space/hut-calci - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 15
+
+[Open repository](https://github.com/faaiz-space/hut-calci)
 
 ## Historical data
 | Date | Stars | Forks |

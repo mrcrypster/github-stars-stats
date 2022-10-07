@@ -1,12 +1,12 @@
-# MichelMuemboIlunga/inventory-system / stars & forks statistics
-
-[Open repository/MichelMuemboIlunga/inventory-system](https://github.com/MichelMuemboIlunga/inventory-system)
+# MichelMuemboIlunga/inventory-system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
+
+[Open repository](https://github.com/MichelMuemboIlunga/inventory-system)
 
 ## Historical data
 | Date | Stars | Forks |

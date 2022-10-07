@@ -1,12 +1,12 @@
-# irshadmd/Awesome-CSS-Projects / stars & forks statistics
-
-[Open repository/irshadmd/Awesome-CSS-Projects](https://github.com/irshadmd/Awesome-CSS-Projects)
+# irshadmd/Awesome-CSS-Projects - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 103
 
 ★ Stars: 33
+
+[Open repository](https://github.com/irshadmd/Awesome-CSS-Projects)
 
 ## Historical data
 | Date | Stars | Forks |

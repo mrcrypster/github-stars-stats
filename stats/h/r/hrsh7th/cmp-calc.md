@@ -1,6 +1,4 @@
-# hrsh7th/cmp-calc / stars & forks statistics
-
-[Open repository/hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc)
+# hrsh7th/cmp-calc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 61
 
+[Open repository](https://github.com/hrsh7th/cmp-calc)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 61 | 1 | 
+| 2022-10-06 | 61 | 1 | 
+| 2022-10-05 | 61 | 1 | 
+| 2022-10-04 | 61 | 1 | 
+| 2022-10-03 | 61 | 1 | 
+| 2022-10-02 | 61 | 1 | 
+| 2022-10-01 | 61 | 1 | 
+| 2022-09-30 | 61 | 1 | 
+| 2022-09-29 | 61 | 1 | 
+| 2022-09-28 | 61 | 1 | 
+| 2022-09-27 | 61 | 1 | 
+| 2022-09-26 | 61 | 1 | 
 | 2022-09-25 | 61 | 1 | 
 | 2022-09-24 | 61 | 1 | 
 | 2022-09-23 | 61 | 1 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 61 | 1 | 
 | 2022-09-08 | 61 | 1 | 
 | 2022-09-07 | 61 | 1 | 
-| 2022-09-06 | 61 | 1 | 
-| 2022-09-05 | 61 | 1 | 
-| 2022-09-04 | 61 | 1 | 
-| 2022-09-03 | 61 | 1 | 
-| 2022-09-02 | 61 | 1 | 
-| 2022-09-01 | 61 | 1 | 
-| 2022-08-31 | 61 | 1 | 
-| 2022-08-30 | 61 | 1 | 
-| 2022-08-29 | 61 | 1 | 
-| 2022-08-28 | 61 | 1 | 
-| 2022-08-27 | 61 | 1 | 
-| 2022-08-26 | 61 | 1 | 
 
 
 [Detailed charts & statistics for hrsh7th/cmp-calc](https://reviewgithub.com/rep/hrsh7th/cmp-calc)

@@ -1,12 +1,12 @@
-# verypossible/elixir-starter-kit / stars & forks statistics
-
-[Open repository/verypossible/elixir-starter-kit](https://github.com/verypossible/elixir-starter-kit)
+# verypossible/elixir-starter-kit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/verypossible/elixir-starter-kit)
 
 ## Historical data
 | Date | Stars | Forks |

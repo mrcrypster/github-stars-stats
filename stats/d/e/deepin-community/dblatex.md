@@ -1,12 +1,12 @@
-# deepin-community/dblatex / stars & forks statistics
-
-[Open repository/deepin-community/dblatex](https://github.com/deepin-community/dblatex)
+# deepin-community/dblatex - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/dblatex)
 
 ## Historical data
 | Date | Stars | Forks |

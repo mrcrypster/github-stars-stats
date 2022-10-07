@@ -1,12 +1,12 @@
-# mremarchant/ExampleSite / stars & forks statistics
-
-[Open repository/mremarchant/ExampleSite](https://github.com/mremarchant/ExampleSite)
+# mremarchant/ExampleSite - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mremarchant/ExampleSite)
 
 ## Historical data
 | Date | Stars | Forks |

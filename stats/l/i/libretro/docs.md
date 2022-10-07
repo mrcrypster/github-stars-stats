@@ -1,16 +1,23 @@
-# libretro/docs / stars & forks statistics
-
-[Open repository/libretro/docs](https://github.com/libretro/docs)
+# libretro/docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 195
+☋ Forks: 198
 
 ★ Stars: 161
+
+[Open repository](https://github.com/libretro/docs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 161 | 198 | 
+| 2022-10-05 | 161 | 198 | 
+| 2022-10-04 | 161 | 198 | 
+| 2022-10-03 | 161 | 198 | 
+| 2022-10-02 | 161 | 198 | 
+| 2022-10-01 | 161 | 197 | 
+| 2022-09-30 | 161 | 196 | 
 | 2022-09-29 | 161 | 195 | 
 | 2022-09-28 | 161 | 195 | 
 | 2022-09-27 | 161 | 194 | 
@@ -34,13 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 159 | 192 | 
 | 2022-09-08 | 158 | 192 | 
 | 2022-09-07 | 158 | 192 | 
-| 2022-09-06 | 158 | 192 | 
-| 2022-09-05 | 158 | 191 | 
-| 2022-09-04 | 158 | 190 | 
-| 2022-09-03 | 158 | 190 | 
-| 2022-09-02 | 158 | 190 | 
-| 2022-09-01 | 158 | 190 | 
-| 2022-08-31 | 158 | 190 | 
 
 
 [Detailed charts & statistics for libretro/docs](https://reviewgithub.com/rep/libretro/docs)

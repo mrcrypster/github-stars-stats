@@ -1,46 +1,45 @@
-# linuxacademy/content-hashicorp-certified-terraform-associate-foundations / stars & forks statistics
-
-[Open repository/linuxacademy/content-hashicorp-certified-terraform-associate-foundations](https://github.com/linuxacademy/content-hashicorp-certified-terraform-associate-foundations)
+# linuxacademy/content-hashicorp-certified-terraform-associate-foundations - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 326
+☋ Forks: 358
 
-★ Stars: 84
+★ Stars: 93
+
+[Open repository](https://github.com/linuxacademy/content-hashicorp-certified-terraform-associate-foundations)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 84 | 326 | 
-| 2022-07-29 | 84 | 326 | 
-| 2022-07-28 | 84 | 325 | 
-| 2022-07-27 | 84 | 326 | 
-| 2022-07-26 | 84 | 327 | 
-| 2022-07-25 | 83 | 325 | 
-| 2022-07-24 | 83 | 324 | 
-| 2022-07-23 | 83 | 324 | 
-| 2022-07-22 | 83 | 324 | 
-| 2022-07-21 | 83 | 323 | 
-| 2022-07-20 | 83 | 322 | 
-| 2022-07-19 | 83 | 322 | 
-| 2022-07-18 | 83 | 322 | 
-| 2022-07-17 | 83 | 322 | 
-| 2022-07-16 | 83 | 321 | 
-| 2022-07-15 | 83 | 321 | 
-| 2022-07-14 | 83 | 320 | 
-| 2022-07-13 | 83 | 319 | 
-| 2022-07-12 | 83 | 318 | 
-| 2022-07-11 | 83 | 317 | 
-| 2022-07-10 | 83 | 317 | 
-| 2022-07-09 | 83 | 316 | 
-| 2022-07-08 | 83 | 315 | 
-| 2022-07-07 | 83 | 315 | 
-| 2022-07-06 | 83 | 315 | 
-| 2022-07-05 | 83 | 313 | 
-| 2022-07-04 | 83 | 312 | 
-| 2022-07-03 | 83 | 312 | 
-| 2022-07-02 | 83 | 311 | 
-| 2022-07-01 | 83 | 311 | 
+| 2022-10-06 | 93 | 358 | 
+| 2022-10-05 | 93 | 358 | 
+| 2022-10-04 | 93 | 356 | 
+| 2022-10-03 | 92 | 354 | 
+| 2022-10-02 | 92 | 354 | 
+| 2022-10-01 | 92 | 354 | 
+| 2022-09-30 | 92 | 354 | 
+| 2022-09-29 | 92 | 354 | 
+| 2022-09-28 | 92 | 353 | 
+| 2022-09-27 | 92 | 353 | 
+| 2022-09-26 | 92 | 352 | 
+| 2022-09-25 | 92 | 351 | 
+| 2022-09-24 | 92 | 351 | 
+| 2022-09-23 | 92 | 351 | 
+| 2022-09-22 | 92 | 350 | 
+| 2022-09-21 | 92 | 350 | 
+| 2022-09-20 | 92 | 348 | 
+| 2022-09-19 | 92 | 348 | 
+| 2022-09-18 | 92 | 348 | 
+| 2022-09-17 | 92 | 348 | 
+| 2022-09-16 | 92 | 348 | 
+| 2022-09-15 | 92 | 346 | 
+| 2022-09-14 | 92 | 346 | 
+| 2022-09-13 | 91 | 346 | 
+| 2022-09-12 | 91 | 345 | 
+| 2022-09-11 | 91 | 345 | 
+| 2022-09-10 | 91 | 345 | 
+| 2022-09-09 | 91 | 345 | 
+| 2022-09-08 | 91 | 345 | 
 
 
 [Detailed charts & statistics for linuxacademy/content-hashicorp-certified-terraform-associate-foundations](https://reviewgithub.com/rep/linuxacademy/content-hashicorp-certified-terraform-associate-foundations)

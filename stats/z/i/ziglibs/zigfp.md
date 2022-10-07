@@ -1,12 +1,12 @@
-# ziglibs/zigfp / stars & forks statistics
-
-[Open repository/ziglibs/zigfp](https://github.com/ziglibs/zigfp)
+# ziglibs/zigfp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
+
+[Open repository](https://github.com/ziglibs/zigfp)
 
 ## Historical data
 | Date | Stars | Forks |

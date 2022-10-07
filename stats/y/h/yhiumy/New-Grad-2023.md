@@ -1,6 +1,4 @@
-# yhiumy/New-Grad-2023 / stars & forks statistics
-
-[Open repository/yhiumy/New-Grad-2023](https://github.com/yhiumy/New-Grad-2023)
+# yhiumy/New-Grad-2023 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 98
 
+[Open repository](https://github.com/yhiumy/New-Grad-2023)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 98 | 5 | 
+| 2022-10-06 | 97 | 5 | 
+| 2022-10-05 | 97 | 5 | 
+| 2022-10-04 | 98 | 5 | 
+| 2022-10-03 | 98 | 5 | 
+| 2022-10-02 | 98 | 5 | 
+| 2022-10-01 | 98 | 5 | 
+| 2022-09-30 | 98 | 5 | 
+| 2022-09-29 | 98 | 5 | 
 | 2022-09-28 | 98 | 5 | 
 | 2022-09-27 | 98 | 5 | 
 | 2022-09-26 | 97 | 4 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 86 | 3 | 
 | 2022-09-08 | 86 | 3 | 
 | 2022-09-07 | 81 | 3 | 
-| 2022-09-06 | 78 | 2 | 
-| 2022-09-05 | 76 | 2 | 
-| 2022-09-04 | 76 | 2 | 
-| 2022-09-03 | 76 | 2 | 
-| 2022-09-02 | 73 | 2 | 
-| 2022-09-01 | 69 | 2 | 
-| 2022-08-31 | 62 | 2 | 
-| 2022-08-30 | 61 | 2 | 
-| 2022-08-29 | 57 | 2 | 
 
 
 [Detailed charts & statistics for yhiumy/New-Grad-2023](https://reviewgithub.com/rep/yhiumy/New-Grad-2023)

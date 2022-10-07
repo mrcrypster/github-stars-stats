@@ -1,6 +1,4 @@
-# status-im/nim-rlp / stars & forks statistics
-
-[Open repository/status-im/nim-rlp](https://github.com/status-im/nim-rlp)
+# status-im/nim-rlp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/status-im/nim-rlp)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 6 | 
+| 2022-10-05 | 4 | 6 | 
+| 2022-10-04 | 4 | 6 | 
+| 2022-10-03 | 4 | 6 | 
+| 2022-10-02 | 4 | 6 | 
+| 2022-10-01 | 4 | 6 | 
+| 2022-09-30 | 4 | 6 | 
 | 2022-09-29 | 4 | 6 | 
 | 2022-09-28 | 4 | 6 | 
 | 2022-09-27 | 4 | 6 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 6 | 
 | 2022-09-09 | 4 | 6 | 
 | 2022-09-08 | 4 | 6 | 
-| 2022-09-07 | 4 | 6 | 
-| 2022-09-06 | 4 | 6 | 
-| 2022-09-05 | 4 | 6 | 
-| 2022-09-04 | 4 | 6 | 
-| 2022-09-03 | 4 | 6 | 
-| 2022-09-02 | 4 | 6 | 
-| 2022-09-01 | 4 | 6 | 
-| 2022-08-31 | 4 | 6 | 
 
 
 [Detailed charts & statistics for status-im/nim-rlp](https://reviewgithub.com/rep/status-im/nim-rlp)

@@ -1,6 +1,4 @@
-# HigashiSan/Next-Generation-Character-Rendering / stars & forks statistics
-
-[Open repository/HigashiSan/Next-Generation-Character-Rendering](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
+# HigashiSan/Next-Generation-Character-Rendering - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 12
 
+[Open repository](https://github.com/HigashiSan/Next-Generation-Character-Rendering)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12 | 5 | 
+| 2022-10-05 | 12 | 5 | 
+| 2022-10-04 | 12 | 5 | 
+| 2022-10-03 | 12 | 5 | 
+| 2022-10-02 | 12 | 5 | 
+| 2022-10-01 | 12 | 5 | 
+| 2022-09-30 | 12 | 5 | 
+| 2022-09-29 | 12 | 5 | 
+| 2022-09-28 | 12 | 5 | 
 | 2022-09-27 | 12 | 5 | 
 | 2022-09-26 | 12 | 5 | 
 | 2022-09-25 | 12 | 5 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 5 | 
 | 2022-09-09 | 10 | 5 | 
 | 2022-09-08 | 10 | 5 | 
-| 2022-09-07 | 10 | 5 | 
-| 2022-09-06 | 8 | 5 | 
-| 2022-09-05 | 8 | 5 | 
-| 2022-09-04 | 8 | 5 | 
-| 2022-09-03 | 8 | 5 | 
-| 2022-09-02 | 7 | 5 | 
-| 2022-09-01 | 7 | 5 | 
-| 2022-08-31 | 7 | 5 | 
-| 2022-08-30 | 6 | 4 | 
-| 2022-08-29 | 6 | 4 | 
 
 
 [Detailed charts & statistics for HigashiSan/Next-Generation-Character-Rendering](https://reviewgithub.com/rep/HigashiSan/Next-Generation-Character-Rendering)

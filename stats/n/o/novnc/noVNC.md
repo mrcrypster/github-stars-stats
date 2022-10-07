@@ -1,12 +1,12 @@
-# novnc/noVNC / stars & forks statistics
-
-[Open repository/novnc/noVNC](https://github.com/novnc/noVNC)
+# novnc/noVNC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1890
 
 ★ Stars: 9099
+
+[Open repository](https://github.com/novnc/noVNC)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,26 @@
-# megaease/easegress / stars & forks statistics
-
-[Open repository/megaease/easegress](https://github.com/megaease/easegress)
+# megaease/easegress - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 415
+☋ Forks: 418
 
-★ Stars: 4792
+★ Stars: 4805
+
+[Open repository](https://github.com/megaease/easegress)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4805 | 418 | 
+| 2022-10-06 | 4803 | 418 | 
+| 2022-10-05 | 4803 | 418 | 
+| 2022-10-04 | 4803 | 418 | 
+| 2022-10-03 | 4802 | 418 | 
+| 2022-10-02 | 4801 | 418 | 
+| 2022-10-01 | 4800 | 418 | 
+| 2022-09-30 | 4799 | 418 | 
+| 2022-09-29 | 4797 | 417 | 
+| 2022-09-28 | 4794 | 417 | 
 | 2022-09-27 | 4792 | 415 | 
 | 2022-09-26 | 4789 | 415 | 
 | 2022-09-25 | 4788 | 415 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4751 | 409 | 
 | 2022-09-08 | 4750 | 409 | 
 | 2022-09-07 | 4748 | 409 | 
-| 2022-09-06 | 4746 | 407 | 
-| 2022-09-05 | 4742 | 407 | 
-| 2022-09-04 | 4739 | 408 | 
-| 2022-09-03 | 4735 | 408 | 
-| 2022-09-02 | 4734 | 408 | 
-| 2022-09-01 | 4728 | 408 | 
-| 2022-08-31 | 4715 | 407 | 
-| 2022-08-30 | 4710 | 406 | 
-| 2022-08-29 | 4699 | 405 | 
-| 2022-08-28 | 4695 | 404 | 
 
 
 [Detailed charts & statistics for megaease/easegress](https://reviewgithub.com/rep/megaease/easegress)

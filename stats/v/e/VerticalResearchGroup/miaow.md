@@ -1,16 +1,28 @@
-# VerticalResearchGroup/miaow / stars & forks statistics
-
-[Open repository/VerticalResearchGroup/miaow](https://github.com/VerticalResearchGroup/miaow)
+# VerticalResearchGroup/miaow - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 210
+☋ Forks: 211
 
-★ Stars: 766
+★ Stars: 768
+
+[Open repository](https://github.com/VerticalResearchGroup/miaow)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 768 | 211 | 
+| 2022-10-06 | 768 | 211 | 
+| 2022-10-05 | 768 | 211 | 
+| 2022-10-04 | 768 | 211 | 
+| 2022-10-03 | 768 | 211 | 
+| 2022-10-02 | 768 | 211 | 
+| 2022-10-01 | 768 | 210 | 
+| 2022-09-30 | 767 | 210 | 
+| 2022-09-29 | 766 | 210 | 
+| 2022-09-28 | 766 | 210 | 
+| 2022-09-27 | 766 | 210 | 
+| 2022-09-26 | 766 | 210 | 
 | 2022-09-25 | 766 | 210 | 
 | 2022-09-24 | 766 | 210 | 
 | 2022-09-23 | 766 | 210 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 763 | 210 | 
 | 2022-09-08 | 763 | 210 | 
 | 2022-09-07 | 763 | 210 | 
-| 2022-09-06 | 763 | 210 | 
-| 2022-09-05 | 763 | 210 | 
-| 2022-09-04 | 762 | 210 | 
-| 2022-09-03 | 762 | 210 | 
-| 2022-09-02 | 762 | 210 | 
-| 2022-09-01 | 761 | 210 | 
-| 2022-08-31 | 759 | 210 | 
-| 2022-08-30 | 759 | 210 | 
-| 2022-08-29 | 759 | 210 | 
-| 2022-08-28 | 759 | 210 | 
-| 2022-08-27 | 760 | 210 | 
-| 2022-08-26 | 760 | 210 | 
 
 
 [Detailed charts & statistics for VerticalResearchGroup/miaow](https://reviewgithub.com/rep/VerticalResearchGroup/miaow)

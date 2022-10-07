@@ -1,6 +1,4 @@
-# wso2/integration-studio-examples / stars & forks statistics
-
-[Open repository/wso2/integration-studio-examples](https://github.com/wso2/integration-studio-examples)
+# wso2/integration-studio-examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/wso2/integration-studio-examples)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 21 | 
 | 2022-10-05 | 1 | 21 | 
 | 2022-10-04 | 1 | 21 | 
 | 2022-10-03 | 1 | 21 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 21 | 
 | 2022-09-09 | 1 | 21 | 
 | 2022-09-08 | 1 | 21 | 
-| 2022-09-07 | 1 | 21 | 
-| 2022-09-06 | 1 | 21 | 
 
 
 [Detailed charts & statistics for wso2/integration-studio-examples](https://reviewgithub.com/rep/wso2/integration-studio-examples)

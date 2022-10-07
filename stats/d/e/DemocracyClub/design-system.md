@@ -1,12 +1,12 @@
-# DemocracyClub/design-system / stars & forks statistics
-
-[Open repository/DemocracyClub/design-system](https://github.com/DemocracyClub/design-system)
+# DemocracyClub/design-system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
+
+[Open repository](https://github.com/DemocracyClub/design-system)
 
 ## Historical data
 | Date | Stars | Forks |

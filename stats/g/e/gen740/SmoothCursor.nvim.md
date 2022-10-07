@@ -1,12 +1,12 @@
-# gen740/SmoothCursor.nvim / stars & forks statistics
-
-[Open repository/gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim)
+# gen740/SmoothCursor.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 144
+
+[Open repository](https://github.com/gen740/SmoothCursor.nvim)
 
 ## Historical data
 | Date | Stars | Forks |

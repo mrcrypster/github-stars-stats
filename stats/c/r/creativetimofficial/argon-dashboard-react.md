@@ -1,16 +1,24 @@
-# creativetimofficial/argon-dashboard-react / stars & forks statistics
-
-[Open repository/creativetimofficial/argon-dashboard-react](https://github.com/creativetimofficial/argon-dashboard-react)
+# creativetimofficial/argon-dashboard-react - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 258
+☋ Forks: 264
 
-★ Stars: 370
+★ Stars: 371
+
+[Open repository](https://github.com/creativetimofficial/argon-dashboard-react)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 371 | 264 | 
+| 2022-10-05 | 371 | 264 | 
+| 2022-10-04 | 371 | 261 | 
+| 2022-10-03 | 370 | 260 | 
+| 2022-10-02 | 370 | 259 | 
+| 2022-10-01 | 370 | 258 | 
+| 2022-09-30 | 370 | 258 | 
+| 2022-09-29 | 370 | 258 | 
 | 2022-09-28 | 370 | 258 | 
 | 2022-09-27 | 371 | 256 | 
 | 2022-09-26 | 371 | 256 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 371 | 248 | 
 | 2022-09-09 | 370 | 246 | 
 | 2022-09-08 | 370 | 245 | 
-| 2022-09-07 | 370 | 244 | 
-| 2022-09-06 | 370 | 243 | 
-| 2022-09-05 | 370 | 242 | 
-| 2022-09-04 | 370 | 241 | 
-| 2022-09-03 | 371 | 242 | 
-| 2022-09-02 | 371 | 242 | 
-| 2022-09-01 | 371 | 242 | 
-| 2022-08-31 | 370 | 240 | 
-| 2022-08-30 | 369 | 240 | 
 
 
 [Detailed charts & statistics for creativetimofficial/argon-dashboard-react](https://reviewgithub.com/rep/creativetimofficial/argon-dashboard-react)

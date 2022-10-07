@@ -1,12 +1,12 @@
-# masukomi/private_comments / stars & forks statistics
-
-[Open repository/masukomi/private_comments](https://github.com/masukomi/private_comments)
+# masukomi/private_comments - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 32
+
+[Open repository](https://github.com/masukomi/private_comments)
 
 ## Historical data
 | Date | Stars | Forks |

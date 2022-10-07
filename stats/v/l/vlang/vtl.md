@@ -1,6 +1,4 @@
-# vlang/vtl / stars & forks statistics
-
-[Open repository/vlang/vtl](https://github.com/vlang/vtl)
+# vlang/vtl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 84
 
+[Open repository](https://github.com/vlang/vtl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 84 | 15 | 
+| 2022-10-06 | 84 | 15 | 
+| 2022-10-05 | 84 | 15 | 
+| 2022-10-04 | 84 | 15 | 
+| 2022-10-03 | 84 | 15 | 
+| 2022-10-02 | 84 | 15 | 
+| 2022-10-01 | 84 | 15 | 
+| 2022-09-30 | 84 | 15 | 
+| 2022-09-29 | 84 | 15 | 
+| 2022-09-28 | 84 | 15 | 
 | 2022-09-27 | 84 | 15 | 
 | 2022-09-26 | 84 | 15 | 
 | 2022-09-25 | 84 | 15 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 82 | 14 | 
 | 2022-09-08 | 81 | 14 | 
 | 2022-09-07 | 81 | 14 | 
-| 2022-09-06 | 81 | 14 | 
-| 2022-09-05 | 81 | 14 | 
-| 2022-09-04 | 81 | 14 | 
-| 2022-09-03 | 81 | 14 | 
-| 2022-09-02 | 81 | 14 | 
-| 2022-09-01 | 81 | 14 | 
-| 2022-08-31 | 81 | 14 | 
-| 2022-08-30 | 81 | 14 | 
-| 2022-08-29 | 80 | 14 | 
-| 2022-08-28 | 80 | 14 | 
 
 
 [Detailed charts & statistics for vlang/vtl](https://reviewgithub.com/rep/vlang/vtl)

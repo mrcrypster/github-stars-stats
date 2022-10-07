@@ -1,16 +1,29 @@
-# plastinin/diagramobject / stars & forks statistics
-
-[Open repository/plastinin/diagramobject](https://github.com/plastinin/diagramobject)
+# plastinin/diagramobject - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
-★ Stars: 43
+★ Stars: 45
+
+[Open repository](https://github.com/plastinin/diagramobject)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 45 | 12 | 
+| 2022-10-05 | 45 | 12 | 
+| 2022-10-04 | 45 | 12 | 
+| 2022-10-03 | 45 | 12 | 
+| 2022-10-02 | 45 | 12 | 
+| 2022-10-01 | 45 | 12 | 
+| 2022-09-30 | 45 | 12 | 
+| 2022-09-29 | 45 | 12 | 
+| 2022-09-28 | 45 | 12 | 
+| 2022-09-27 | 44 | 12 | 
+| 2022-09-26 | 44 | 12 | 
+| 2022-09-25 | 44 | 12 | 
+| 2022-09-24 | 44 | 12 | 
 | 2022-09-23 | 43 | 12 | 
 | 2022-09-22 | 42 | 12 | 
 | 2022-09-21 | 42 | 12 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 36 | 12 | 
 | 2022-09-09 | 36 | 12 | 
 | 2022-09-08 | 36 | 12 | 
-| 2022-09-07 | 35 | 12 | 
-| 2022-09-06 | 35 | 12 | 
-| 2022-09-05 | 33 | 12 | 
-| 2022-09-04 | 33 | 12 | 
-| 2022-09-03 | 33 | 12 | 
-| 2022-09-02 | 31 | 11 | 
-| 2022-09-01 | 31 | 11 | 
-| 2022-08-31 | 31 | 11 | 
-| 2022-08-30 | 29 | 10 | 
-| 2022-08-29 | 27 | 6 | 
-| 2022-08-28 | 25 | 6 | 
-| 2022-08-27 | 23 | 6 | 
-| 2022-08-26 | 23 | 6 | 
-| 2022-08-25 | 21 | 6 | 
 
 
 [Detailed charts & statistics for plastinin/diagramobject](https://reviewgithub.com/rep/plastinin/diagramobject)

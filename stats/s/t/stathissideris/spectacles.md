@@ -1,12 +1,12 @@
-# stathissideris/spectacles / stars & forks statistics
-
-[Open repository/stathissideris/spectacles](https://github.com/stathissideris/spectacles)
+# stathissideris/spectacles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 87
+
+[Open repository](https://github.com/stathissideris/spectacles)
 
 ## Historical data
 | Date | Stars | Forks |

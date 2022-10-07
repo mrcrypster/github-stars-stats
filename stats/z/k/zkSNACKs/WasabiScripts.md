@@ -1,12 +1,12 @@
-# zkSNACKs/WasabiScripts / stars & forks statistics
-
-[Open repository/zkSNACKs/WasabiScripts](https://github.com/zkSNACKs/WasabiScripts)
+# zkSNACKs/WasabiScripts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 6
+
+[Open repository](https://github.com/zkSNACKs/WasabiScripts)
 
 ## Historical data
 | Date | Stars | Forks |

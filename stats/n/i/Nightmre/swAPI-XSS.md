@@ -1,16 +1,27 @@
-# Nightmre/swAPI-XSS / stars & forks statistics
-
-[Open repository/Nightmre/swAPI-XSS](https://github.com/Nightmre/swAPI-XSS)
+# Nightmre/swAPI-XSS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 35
+
+[Open repository](https://github.com/Nightmre/swAPI-XSS)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 35 | 7 | 
+| 2022-10-06 | 36 | 7 | 
+| 2022-10-05 | 36 | 7 | 
+| 2022-10-04 | 34 | 6 | 
+| 2022-10-03 | 33 | 6 | 
+| 2022-10-02 | 33 | 6 | 
+| 2022-10-01 | 33 | 6 | 
+| 2022-09-30 | 33 | 6 | 
+| 2022-09-29 | 33 | 6 | 
+| 2022-09-28 | 33 | 6 | 
+| 2022-09-27 | 33 | 6 | 
 | 2022-09-26 | 33 | 6 | 
 | 2022-09-25 | 33 | 6 | 
 | 2022-09-24 | 33 | 6 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 6 | 
 | 2022-09-08 | 29 | 6 | 
 | 2022-09-07 | 29 | 5 | 
-| 2022-09-06 | 29 | 5 | 
-| 2022-09-05 | 29 | 5 | 
-| 2022-09-04 | 29 | 5 | 
-| 2022-09-03 | 29 | 5 | 
-| 2022-09-02 | 29 | 5 | 
-| 2022-09-01 | 29 | 5 | 
-| 2022-08-31 | 29 | 5 | 
-| 2022-08-30 | 28 | 5 | 
-| 2022-08-29 | 28 | 4 | 
-| 2022-08-28 | 28 | 4 | 
-| 2022-08-27 | 27 | 4 | 
 
 
 [Detailed charts & statistics for Nightmre/swAPI-XSS](https://reviewgithub.com/rep/Nightmre/swAPI-XSS)

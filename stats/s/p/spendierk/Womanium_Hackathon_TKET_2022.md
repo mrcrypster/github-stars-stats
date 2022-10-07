@@ -1,6 +1,4 @@
-# spendierk/Womanium_Hackathon_TKET_2022 / stars & forks statistics
-
-[Open repository/spendierk/Womanium_Hackathon_TKET_2022](https://github.com/spendierk/Womanium_Hackathon_TKET_2022)
+# spendierk/Womanium_Hackathon_TKET_2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,29 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/spendierk/Womanium_Hackathon_TKET_2022)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 5 | 6 | 
+| 2022-10-06 | 5 | 6 | 
+| 2022-10-05 | 5 | 6 | 
+| 2022-10-04 | 5 | 6 | 
+| 2022-10-03 | 5 | 6 | 
+| 2022-10-02 | 5 | 6 | 
+| 2022-10-01 | 5 | 6 | 
+| 2022-09-30 | 5 | 6 | 
+| 2022-09-29 | 5 | 6 | 
+| 2022-09-28 | 5 | 6 | 
+| 2022-09-27 | 5 | 6 | 
+| 2022-09-26 | 5 | 6 | 
+| 2022-09-25 | 5 | 6 | 
+| 2022-09-24 | 5 | 6 | 
+| 2022-09-23 | 5 | 6 | 
+| 2022-09-22 | 5 | 6 | 
+| 2022-09-21 | 5 | 6 | 
+| 2022-09-20 | 5 | 6 | 
 | 2022-09-19 | 5 | 6 | 
 | 2022-09-18 | 5 | 6 | 
 | 2022-09-17 | 5 | 6 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 5 | 6 | 
 | 2022-09-08 | 5 | 6 | 
 | 2022-09-07 | 5 | 6 | 
-| 2022-09-06 | 5 | 6 | 
-| 2022-09-05 | 5 | 6 | 
-| 2022-09-04 | 5 | 6 | 
-| 2022-09-03 | 5 | 6 | 
-| 2022-09-02 | 5 | 6 | 
-| 2022-09-01 | 5 | 6 | 
-| 2022-08-31 | 5 | 6 | 
-| 2022-08-30 | 5 | 6 | 
-| 2022-08-29 | 5 | 6 | 
-| 2022-08-28 | 5 | 6 | 
-| 2022-08-27 | 5 | 6 | 
-| 2022-08-26 | 5 | 6 | 
-| 2022-08-25 | 5 | 6 | 
-| 2022-08-24 | 5 | 6 | 
-| 2022-08-23 | 5 | 6 | 
-| 2022-08-22 | 5 | 6 | 
-| 2022-08-21 | 4 | 5 | 
-| 2022-08-20 | 4 | 5 | 
 
 
 [Detailed charts & statistics for spendierk/Womanium_Hackathon_TKET_2022](https://reviewgithub.com/rep/spendierk/Womanium_Hackathon_TKET_2022)

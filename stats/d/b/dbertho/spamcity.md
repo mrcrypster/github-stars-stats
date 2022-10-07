@@ -1,12 +1,12 @@
-# dbertho/spamcity / stars & forks statistics
-
-[Open repository/dbertho/spamcity](https://github.com/dbertho/spamcity)
+# dbertho/spamcity - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 80
+
+[Open repository](https://github.com/dbertho/spamcity)
 
 ## Historical data
 | Date | Stars | Forks |

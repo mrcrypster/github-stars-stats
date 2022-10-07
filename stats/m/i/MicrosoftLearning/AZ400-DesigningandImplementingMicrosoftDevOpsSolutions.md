@@ -1,46 +1,46 @@
-# MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions / stars & forks statistics
-
-[Open repository/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions)
+# MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 591
+☋ Forks: 654
 
-★ Stars: 284
+★ Stars: 322
+
+[Open repository](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 284 | 591 | 
-| 2022-07-29 | 284 | 589 | 
-| 2022-07-28 | 283 | 588 | 
-| 2022-07-27 | 282 | 587 | 
-| 2022-07-26 | 282 | 584 | 
-| 2022-07-25 | 282 | 581 | 
-| 2022-07-24 | 282 | 582 | 
-| 2022-07-23 | 282 | 582 | 
-| 2022-07-22 | 281 | 582 | 
-| 2022-07-21 | 281 | 582 | 
-| 2022-07-20 | 281 | 582 | 
-| 2022-07-19 | 281 | 580 | 
-| 2022-07-18 | 280 | 580 | 
-| 2022-07-17 | 280 | 580 | 
-| 2022-07-16 | 279 | 578 | 
-| 2022-07-15 | 279 | 578 | 
-| 2022-07-14 | 279 | 577 | 
-| 2022-07-13 | 279 | 574 | 
-| 2022-07-12 | 278 | 571 | 
-| 2022-07-11 | 278 | 568 | 
-| 2022-07-10 | 278 | 568 | 
-| 2022-07-09 | 278 | 567 | 
-| 2022-07-08 | 278 | 567 | 
-| 2022-07-07 | 278 | 567 | 
-| 2022-07-06 | 278 | 568 | 
-| 2022-07-05 | 277 | 566 | 
-| 2022-07-04 | 277 | 566 | 
-| 2022-07-03 | 277 | 566 | 
-| 2022-07-02 | 277 | 566 | 
-| 2022-07-01 | 276 | 565 | 
+| 2022-10-06 | 322 | 654 | 
+| 2022-10-05 | 321 | 653 | 
+| 2022-10-04 | 321 | 653 | 
+| 2022-10-03 | 321 | 654 | 
+| 2022-10-02 | 321 | 653 | 
+| 2022-10-01 | 321 | 653 | 
+| 2022-09-30 | 321 | 653 | 
+| 2022-09-29 | 320 | 653 | 
+| 2022-09-28 | 319 | 649 | 
+| 2022-09-27 | 318 | 647 | 
+| 2022-09-26 | 318 | 646 | 
+| 2022-09-25 | 317 | 643 | 
+| 2022-09-24 | 317 | 643 | 
+| 2022-09-23 | 317 | 643 | 
+| 2022-09-22 | 318 | 642 | 
+| 2022-09-21 | 316 | 639 | 
+| 2022-09-20 | 317 | 638 | 
+| 2022-09-19 | 316 | 635 | 
+| 2022-09-18 | 315 | 635 | 
+| 2022-09-17 | 315 | 634 | 
+| 2022-09-16 | 315 | 634 | 
+| 2022-09-15 | 315 | 631 | 
+| 2022-09-14 | 315 | 630 | 
+| 2022-09-13 | 311 | 627 | 
+| 2022-09-12 | 310 | 624 | 
+| 2022-09-11 | 310 | 625 | 
+| 2022-09-10 | 310 | 625 | 
+| 2022-09-09 | 309 | 626 | 
+| 2022-09-08 | 309 | 626 | 
+| 2022-09-07 | 308 | 626 | 
 
 
 [Detailed charts & statistics for MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions](https://reviewgithub.com/rep/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions)

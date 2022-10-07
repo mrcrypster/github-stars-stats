@@ -1,12 +1,12 @@
-# CSC207-UofT/207-course-notes / stars & forks statistics
-
-[Open repository/CSC207-UofT/207-course-notes](https://github.com/CSC207-UofT/207-course-notes)
+# CSC207-UofT/207-course-notes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 189
 
 ★ Stars: 118
+
+[Open repository](https://github.com/CSC207-UofT/207-course-notes)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# n3wt0n/ActionsTest / stars & forks statistics
-
-[Open repository/n3wt0n/ActionsTest](https://github.com/n3wt0n/ActionsTest)
+# n3wt0n/ActionsTest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 75
 
 ★ Stars: 36
+
+[Open repository](https://github.com/n3wt0n/ActionsTest)
 
 ## Historical data
 | Date | Stars | Forks |

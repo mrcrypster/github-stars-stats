@@ -1,12 +1,12 @@
-# pillarone/risk-analytics-property-casualty / stars & forks statistics
-
-[Open repository/pillarone/risk-analytics-property-casualty](https://github.com/pillarone/risk-analytics-property-casualty)
+# pillarone/risk-analytics-property-casualty - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 3
+
+[Open repository](https://github.com/pillarone/risk-analytics-property-casualty)
 
 ## Historical data
 | Date | Stars | Forks |

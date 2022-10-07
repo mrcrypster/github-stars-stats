@@ -1,16 +1,33 @@
-# Orama-Interactive/VoxeloramaExtension / stars & forks statistics
-
-[Open repository/Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+# Orama-Interactive/VoxeloramaExtension - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 34
+★ Stars: 36
+
+[Open repository](https://github.com/Orama-Interactive/VoxeloramaExtension)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 36 | 1 | 
+| 2022-10-05 | 36 | 1 | 
+| 2022-10-04 | 36 | 1 | 
+| 2022-10-03 | 36 | 1 | 
+| 2022-10-02 | 36 | 1 | 
+| 2022-10-01 | 36 | 1 | 
+| 2022-09-30 | 35 | 1 | 
+| 2022-09-29 | 34 | 1 | 
+| 2022-09-28 | 34 | 1 | 
+| 2022-09-27 | 34 | 1 | 
+| 2022-09-26 | 34 | 1 | 
+| 2022-09-25 | 34 | 1 | 
+| 2022-09-24 | 34 | 1 | 
+| 2022-09-23 | 34 | 1 | 
+| 2022-09-22 | 34 | 1 | 
+| 2022-09-21 | 34 | 1 | 
+| 2022-09-20 | 34 | 1 | 
 | 2022-09-19 | 34 | 1 | 
 | 2022-09-18 | 34 | 1 | 
 | 2022-09-17 | 34 | 1 | 
@@ -23,24 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 32 | 1 | 
 | 2022-09-09 | 32 | 1 | 
 | 2022-09-08 | 32 | 1 | 
-| 2022-09-07 | 32 | 1 | 
-| 2022-09-06 | 32 | 1 | 
-| 2022-09-05 | 30 | 1 | 
-| 2022-09-04 | 30 | 1 | 
-| 2022-09-02 | 30 | 1 | 
-| 2022-09-01 | 30 | 1 | 
-| 2022-08-31 | 30 | 1 | 
-| 2022-08-30 | 30 | 1 | 
-| 2022-08-29 | 30 | 1 | 
-| 2022-08-28 | 30 | 1 | 
-| 2022-08-27 | 30 | 1 | 
-| 2022-08-26 | 28 | 1 | 
-| 2022-08-25 | 28 | 1 | 
-| 2022-08-24 | 28 | 1 | 
-| 2022-08-23 | 28 | 1 | 
-| 2022-08-22 | 28 | 1 | 
-| 2022-08-21 | 25 | 1 | 
-| 2022-08-20 | 25 | 1 | 
 
 
 [Detailed charts & statistics for Orama-Interactive/VoxeloramaExtension](https://reviewgithub.com/rep/Orama-Interactive/VoxeloramaExtension)

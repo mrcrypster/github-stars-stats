@@ -1,16 +1,29 @@
-# ikostrikov/walk_in_the_park / stars & forks statistics
-
-[Open repository/ikostrikov/walk_in_the_park](https://github.com/ikostrikov/walk_in_the_park)
+# ikostrikov/walk_in_the_park - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 141
+★ Stars: 146
+
+[Open repository](https://github.com/ikostrikov/walk_in_the_park)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 146 | 18 | 
+| 2022-10-06 | 146 | 17 | 
+| 2022-10-05 | 146 | 17 | 
+| 2022-10-04 | 146 | 17 | 
+| 2022-10-03 | 145 | 17 | 
+| 2022-10-02 | 144 | 17 | 
+| 2022-10-01 | 143 | 17 | 
+| 2022-09-30 | 143 | 17 | 
+| 2022-09-29 | 143 | 17 | 
+| 2022-09-28 | 143 | 17 | 
+| 2022-09-27 | 142 | 17 | 
+| 2022-09-26 | 141 | 17 | 
+| 2022-09-25 | 141 | 17 | 
 | 2022-09-24 | 141 | 17 | 
 | 2022-09-23 | 141 | 17 | 
 | 2022-09-22 | 141 | 17 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 130 | 16 | 
 | 2022-09-08 | 130 | 15 | 
 | 2022-09-07 | 128 | 15 | 
-| 2022-09-06 | 122 | 15 | 
-| 2022-09-05 | 120 | 15 | 
-| 2022-09-04 | 120 | 15 | 
-| 2022-09-03 | 118 | 15 | 
-| 2022-09-02 | 118 | 15 | 
-| 2022-09-01 | 117 | 15 | 
-| 2022-08-31 | 117 | 15 | 
-| 2022-08-30 | 116 | 14 | 
-| 2022-08-29 | 116 | 14 | 
-| 2022-08-28 | 115 | 14 | 
-| 2022-08-27 | 114 | 14 | 
-| 2022-08-26 | 112 | 14 | 
-| 2022-08-25 | 108 | 13 | 
 
 
 [Detailed charts & statistics for ikostrikov/walk_in_the_park](https://reviewgithub.com/rep/ikostrikov/walk_in_the_park)

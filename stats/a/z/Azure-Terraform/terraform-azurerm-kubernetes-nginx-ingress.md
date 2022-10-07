@@ -1,12 +1,12 @@
-# Azure-Terraform/terraform-azurerm-kubernetes-nginx-ingress / stars & forks statistics
-
-[Open repository/Azure-Terraform/terraform-azurerm-kubernetes-nginx-ingress](https://github.com/Azure-Terraform/terraform-azurerm-kubernetes-nginx-ingress)
+# Azure-Terraform/terraform-azurerm-kubernetes-nginx-ingress - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Azure-Terraform/terraform-azurerm-kubernetes-nginx-ingress)
 
 ## Historical data
 | Date | Stars | Forks |

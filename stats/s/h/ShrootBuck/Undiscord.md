@@ -1,12 +1,12 @@
-# ShrootBuck/Undiscord / stars & forks statistics
-
-[Open repository/ShrootBuck/Undiscord](https://github.com/ShrootBuck/Undiscord)
+# ShrootBuck/Undiscord - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 104
+
+[Open repository](https://github.com/ShrootBuck/Undiscord)
 
 ## Historical data
 | Date | Stars | Forks |

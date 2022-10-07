@@ -1,12 +1,12 @@
-# polybiusproxy/Endor / stars & forks statistics
-
-[Open repository/polybiusproxy/Endor](https://github.com/polybiusproxy/Endor)
+# polybiusproxy/Endor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 11
+
+[Open repository](https://github.com/polybiusproxy/Endor)
 
 ## Historical data
 | Date | Stars | Forks |

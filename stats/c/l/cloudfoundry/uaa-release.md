@@ -1,12 +1,12 @@
-# cloudfoundry/uaa-release / stars & forks statistics
-
-[Open repository/cloudfoundry/uaa-release](https://github.com/cloudfoundry/uaa-release)
+# cloudfoundry/uaa-release - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 75
 
 ★ Stars: 28
+
+[Open repository](https://github.com/cloudfoundry/uaa-release)
 
 ## Historical data
 | Date | Stars | Forks |

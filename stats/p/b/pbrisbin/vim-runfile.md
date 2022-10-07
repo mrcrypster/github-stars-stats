@@ -1,12 +1,12 @@
-# pbrisbin/vim-runfile / stars & forks statistics
-
-[Open repository/pbrisbin/vim-runfile](https://github.com/pbrisbin/vim-runfile)
+# pbrisbin/vim-runfile - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/pbrisbin/vim-runfile)
 
 ## Historical data
 | Date | Stars | Forks |

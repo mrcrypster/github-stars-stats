@@ -1,12 +1,12 @@
-# 8212369/WPR / stars & forks statistics
-
-[Open repository/8212369/WPR](https://github.com/8212369/WPR)
+# 8212369/WPR - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 125
+
+[Open repository](https://github.com/8212369/WPR)
 
 ## Historical data
 | Date | Stars | Forks |

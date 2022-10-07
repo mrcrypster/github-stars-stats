@@ -1,6 +1,4 @@
-# JuliaNLSolvers/LsqFit.jl / stars & forks statistics
-
-[Open repository/JuliaNLSolvers/LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl)
+# JuliaNLSolvers/LsqFit.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 243
 
+[Open repository](https://github.com/JuliaNLSolvers/LsqFit.jl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 243 | 73 | 
+| 2022-10-05 | 243 | 73 | 
 | 2022-10-04 | 243 | 73 | 
 | 2022-10-03 | 243 | 73 | 
 | 2022-10-02 | 243 | 73 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 238 | 72 | 
 | 2022-09-09 | 238 | 72 | 
 | 2022-09-08 | 237 | 71 | 
-| 2022-09-07 | 237 | 71 | 
-| 2022-09-06 | 237 | 71 | 
-| 2022-09-05 | 237 | 71 | 
 
 
 [Detailed charts & statistics for JuliaNLSolvers/LsqFit.jl](https://reviewgithub.com/rep/JuliaNLSolvers/LsqFit.jl)

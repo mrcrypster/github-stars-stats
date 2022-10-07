@@ -1,16 +1,33 @@
-# Nomamuk/subconverter-vercel / stars & forks statistics
-
-[Open repository/Nomamuk/subconverter-vercel](https://github.com/Nomamuk/subconverter-vercel)
+# Nomamuk/subconverter-vercel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 25
+☋ Forks: 24
 
 ★ Stars: 13
+
+[Open repository](https://github.com/Nomamuk/subconverter-vercel)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 13 | 24 | 
+| 2022-10-05 | 13 | 24 | 
+| 2022-10-04 | 13 | 24 | 
+| 2022-10-03 | 13 | 24 | 
+| 2022-10-02 | 13 | 24 | 
+| 2022-10-01 | 13 | 24 | 
+| 2022-09-30 | 13 | 24 | 
+| 2022-09-29 | 13 | 24 | 
+| 2022-09-28 | 13 | 24 | 
+| 2022-09-27 | 13 | 24 | 
+| 2022-09-26 | 13 | 24 | 
+| 2022-09-25 | 13 | 24 | 
+| 2022-09-24 | 13 | 24 | 
+| 2022-09-23 | 13 | 25 | 
+| 2022-09-22 | 13 | 25 | 
+| 2022-09-21 | 13 | 25 | 
+| 2022-09-20 | 13 | 25 | 
 | 2022-09-19 | 13 | 25 | 
 | 2022-09-18 | 13 | 25 | 
 | 2022-09-17 | 12 | 25 | 
@@ -23,24 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 25 | 
 | 2022-09-09 | 10 | 25 | 
 | 2022-09-08 | 10 | 25 | 
-| 2022-09-07 | 10 | 25 | 
-| 2022-09-06 | 10 | 25 | 
-| 2022-09-05 | 10 | 25 | 
-| 2022-09-04 | 10 | 25 | 
-| 2022-09-03 | 10 | 25 | 
-| 2022-09-02 | 10 | 25 | 
-| 2022-09-01 | 10 | 26 | 
-| 2022-08-30 | 10 | 26 | 
-| 2022-08-29 | 10 | 26 | 
-| 2022-08-28 | 10 | 26 | 
-| 2022-08-27 | 10 | 26 | 
-| 2022-08-26 | 10 | 26 | 
-| 2022-08-25 | 10 | 26 | 
-| 2022-08-24 | 10 | 25 | 
-| 2022-08-23 | 10 | 25 | 
-| 2022-08-22 | 10 | 25 | 
-| 2022-08-21 | 10 | 25 | 
-| 2022-08-20 | 10 | 25 | 
 
 
 [Detailed charts & statistics for Nomamuk/subconverter-vercel](https://reviewgithub.com/rep/Nomamuk/subconverter-vercel)

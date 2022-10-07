@@ -1,12 +1,12 @@
-# open-mpi/oac / stars & forks statistics
-
-[Open repository/open-mpi/oac](https://github.com/open-mpi/oac)
+# open-mpi/oac - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/open-mpi/oac)
 
 ## Historical data
 | Date | Stars | Forks |

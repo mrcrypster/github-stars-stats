@@ -1,12 +1,12 @@
-# status-im/nim-json-rpc / stars & forks statistics
-
-[Open repository/status-im/nim-json-rpc](https://github.com/status-im/nim-json-rpc)
+# status-im/nim-json-rpc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 73
+
+[Open repository](https://github.com/status-im/nim-json-rpc)
 
 ## Historical data
 | Date | Stars | Forks |

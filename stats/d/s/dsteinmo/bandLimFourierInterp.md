@@ -1,12 +1,12 @@
-# dsteinmo/bandLimFourierInterp / stars & forks statistics
-
-[Open repository/dsteinmo/bandLimFourierInterp](https://github.com/dsteinmo/bandLimFourierInterp)
+# dsteinmo/bandLimFourierInterp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/dsteinmo/bandLimFourierInterp)
 
 ## Historical data
 | Date | Stars | Forks |

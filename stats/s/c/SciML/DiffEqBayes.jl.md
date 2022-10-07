@@ -1,12 +1,12 @@
-# SciML/DiffEqBayes.jl / stars & forks statistics
-
-[Open repository/SciML/DiffEqBayes.jl](https://github.com/SciML/DiffEqBayes.jl)
+# SciML/DiffEqBayes.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 106
+
+[Open repository](https://github.com/SciML/DiffEqBayes.jl)
 
 ## Historical data
 | Date | Stars | Forks |

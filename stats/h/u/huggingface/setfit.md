@@ -1,12 +1,12 @@
-# huggingface/setfit / stars & forks statistics
-
-[Open repository/huggingface/setfit](https://github.com/huggingface/setfit)
+# huggingface/setfit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 466
+
+[Open repository](https://github.com/huggingface/setfit)
 
 ## Historical data
 | Date | Stars | Forks |

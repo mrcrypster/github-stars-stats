@@ -1,12 +1,12 @@
-# game-lecture/2DGP / stars & forks statistics
-
-[Open repository/game-lecture/2DGP](https://github.com/game-lecture/2DGP)
+# game-lecture/2DGP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 2
+
+[Open repository](https://github.com/game-lecture/2DGP)
 
 ## Historical data
 | Date | Stars | Forks |

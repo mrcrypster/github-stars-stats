@@ -1,6 +1,4 @@
-# renxh4/CompressPng / stars & forks statistics
-
-[Open repository/renxh4/CompressPng](https://github.com/renxh4/CompressPng)
+# renxh4/CompressPng - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 22
 
+[Open repository](https://github.com/renxh4/CompressPng)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 22 | 1 | 
+| 2022-10-05 | 22 | 1 | 
+| 2022-10-04 | 22 | 1 | 
+| 2022-10-03 | 22 | 1 | 
+| 2022-10-02 | 22 | 1 | 
 | 2022-10-01 | 22 | 1 | 
 | 2022-09-30 | 22 | 1 | 
 | 2022-09-29 | 22 | 1 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | 1 | 
 | 2022-09-09 | 12 | 1 | 
 | 2022-09-08 | 12 | 1 | 
-| 2022-09-07 | 12 | 1 | 
-| 2022-09-06 | 10 | 1 | 
-| 2022-09-05 | 10 | 1 | 
-| 2022-09-04 | 10 | 1 | 
-| 2022-09-03 | 10 | - | 
-| 2022-09-02 | 10 | - | 
 
 
 [Detailed charts & statistics for renxh4/CompressPng](https://reviewgithub.com/rep/renxh4/CompressPng)

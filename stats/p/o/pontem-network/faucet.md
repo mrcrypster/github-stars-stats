@@ -1,12 +1,12 @@
-# pontem-network/faucet / stars & forks statistics
-
-[Open repository/pontem-network/faucet](https://github.com/pontem-network/faucet)
+# pontem-network/faucet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 8
+
+[Open repository](https://github.com/pontem-network/faucet)
 
 ## Historical data
 | Date | Stars | Forks |

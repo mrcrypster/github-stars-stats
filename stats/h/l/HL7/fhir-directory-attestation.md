@@ -1,12 +1,12 @@
-# HL7/fhir-directory-attestation / stars & forks statistics
-
-[Open repository/HL7/fhir-directory-attestation](https://github.com/HL7/fhir-directory-attestation)
+# HL7/fhir-directory-attestation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
+
+[Open repository](https://github.com/HL7/fhir-directory-attestation)
 
 ## Historical data
 | Date | Stars | Forks |

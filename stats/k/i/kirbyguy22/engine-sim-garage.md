@@ -1,16 +1,25 @@
-# kirbyguy22/engine-sim-garage / stars & forks statistics
-
-[Open repository/kirbyguy22/engine-sim-garage](https://github.com/kirbyguy22/engine-sim-garage)
+# kirbyguy22/engine-sim-garage - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 23
+☋ Forks: 25
 
-★ Stars: 42
+★ Stars: 43
+
+[Open repository](https://github.com/kirbyguy22/engine-sim-garage)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 43 | 25 | 
+| 2022-10-05 | 43 | 24 | 
+| 2022-10-04 | 42 | 24 | 
+| 2022-10-03 | 42 | 24 | 
+| 2022-10-02 | 42 | 24 | 
+| 2022-10-01 | 42 | 24 | 
+| 2022-09-30 | 42 | 24 | 
+| 2022-09-29 | 42 | 24 | 
+| 2022-09-28 | 42 | 24 | 
 | 2022-09-27 | 42 | 23 | 
 | 2022-09-26 | 42 | 23 | 
 | 2022-09-25 | 42 | 23 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 39 | 21 | 
 | 2022-09-09 | 39 | 21 | 
 | 2022-09-08 | 38 | 21 | 
-| 2022-09-07 | 37 | 21 | 
-| 2022-09-06 | 37 | 21 | 
-| 2022-09-05 | 37 | 21 | 
-| 2022-09-04 | 36 | 20 | 
-| 2022-09-03 | 33 | 19 | 
-| 2022-09-02 | 33 | 19 | 
-| 2022-09-01 | 28 | 18 | 
-| 2022-08-31 | 26 | 17 | 
-| 2022-08-30 | 22 | 16 | 
-| 2022-08-29 | 22 | 15 | 
 
 
 [Detailed charts & statistics for kirbyguy22/engine-sim-garage](https://reviewgithub.com/rep/kirbyguy22/engine-sim-garage)

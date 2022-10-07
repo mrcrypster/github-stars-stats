@@ -1,16 +1,37 @@
-# SinicaGroup/Class-agnostic-Few-shot-Object-Counting / stars & forks statistics
-
-[Open repository/SinicaGroup/Class-agnostic-Few-shot-Object-Counting](https://github.com/SinicaGroup/Class-agnostic-Few-shot-Object-Counting)
+# SinicaGroup/Class-agnostic-Few-shot-Object-Counting - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 93
+★ Stars: 98
+
+[Open repository](https://github.com/SinicaGroup/Class-agnostic-Few-shot-Object-Counting)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 98 | 7 | 
+| 2022-10-06 | 97 | 6 | 
+| 2022-10-05 | 97 | 6 | 
+| 2022-10-04 | 97 | 6 | 
+| 2022-10-03 | 97 | 6 | 
+| 2022-10-02 | 97 | 6 | 
+| 2022-10-01 | 97 | 6 | 
+| 2022-09-30 | 96 | 6 | 
+| 2022-09-29 | 96 | 6 | 
+| 2022-09-28 | 96 | 6 | 
+| 2022-09-27 | 96 | 6 | 
+| 2022-09-26 | 96 | 6 | 
+| 2022-09-25 | 95 | 6 | 
+| 2022-09-24 | 95 | 6 | 
+| 2022-09-23 | 95 | 6 | 
+| 2022-09-22 | 95 | 6 | 
+| 2022-09-21 | 94 | 6 | 
+| 2022-09-20 | 93 | 6 | 
+| 2022-09-19 | 93 | 6 | 
+| 2022-09-18 | 93 | 6 | 
+| 2022-09-17 | 93 | 6 | 
 | 2022-09-16 | 93 | 6 | 
 | 2022-09-15 | 93 | 6 | 
 | 2022-09-14 | 93 | 6 | 
@@ -20,27 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 92 | 6 | 
 | 2022-09-09 | 92 | 6 | 
 | 2022-09-07 | 92 | 6 | 
-| 2022-09-06 | 92 | 6 | 
-| 2022-09-05 | 92 | 6 | 
-| 2022-09-04 | 92 | 6 | 
-| 2022-09-03 | 92 | 6 | 
-| 2022-09-02 | 92 | 6 | 
-| 2022-09-01 | 92 | 6 | 
-| 2022-08-31 | 91 | 6 | 
-| 2022-08-30 | 90 | 6 | 
-| 2022-08-29 | 90 | 6 | 
-| 2022-08-28 | 90 | 6 | 
-| 2022-08-27 | 90 | 6 | 
-| 2022-08-26 | 90 | 6 | 
-| 2022-08-25 | 89 | 6 | 
-| 2022-08-24 | 89 | 6 | 
-| 2022-08-23 | 89 | 6 | 
-| 2022-08-22 | 88 | 6 | 
-| 2022-08-21 | 87 | 6 | 
-| 2022-08-20 | 85 | 6 | 
-| 2022-08-19 | 83 | 6 | 
-| 2022-08-18 | 81 | 6 | 
-| 2022-08-17 | 71 | 6 | 
 
 
 [Detailed charts & statistics for SinicaGroup/Class-agnostic-Few-shot-Object-Counting](https://reviewgithub.com/rep/SinicaGroup/Class-agnostic-Few-shot-Object-Counting)

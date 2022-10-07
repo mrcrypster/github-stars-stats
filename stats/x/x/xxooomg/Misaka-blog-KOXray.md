@@ -1,16 +1,33 @@
-# xxooomg/Misaka-blog-KOXray / stars & forks statistics
-
-[Open repository/xxooomg/Misaka-blog-KOXray](https://github.com/xxooomg/Misaka-blog-KOXray)
+# xxooomg/Misaka-blog-KOXray - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 21
+☋ Forks: 25
 
 ★ Stars: 0
+
+[Open repository](https://github.com/xxooomg/Misaka-blog-KOXray)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 25 | 
+| 2022-10-06 | - | 25 | 
+| 2022-10-05 | - | 25 | 
+| 2022-10-04 | - | 25 | 
+| 2022-10-03 | - | 25 | 
+| 2022-10-02 | - | 24 | 
+| 2022-10-01 | - | 24 | 
+| 2022-09-30 | - | 24 | 
+| 2022-09-29 | - | 24 | 
+| 2022-09-28 | - | 24 | 
+| 2022-09-27 | - | 24 | 
+| 2022-09-26 | - | 24 | 
+| 2022-09-25 | - | 24 | 
+| 2022-09-24 | - | 22 | 
+| 2022-09-23 | - | 22 | 
+| 2022-09-22 | - | 22 | 
+| 2022-09-21 | - | 21 | 
 | 2022-09-20 | - | 21 | 
 | 2022-09-19 | - | 21 | 
 | 2022-09-18 | - | 21 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 20 | 
 | 2022-09-08 | - | 20 | 
 | 2022-09-07 | - | 20 | 
-| 2022-09-06 | - | 18 | 
-| 2022-09-05 | - | 18 | 
-| 2022-09-04 | - | 18 | 
-| 2022-09-03 | - | 17 | 
-| 2022-09-02 | - | 17 | 
-| 2022-09-01 | - | 17 | 
-| 2022-08-31 | - | 17 | 
-| 2022-08-30 | - | 17 | 
-| 2022-08-29 | - | 17 | 
-| 2022-08-28 | - | 17 | 
-| 2022-08-27 | - | 17 | 
-| 2022-08-26 | - | 17 | 
-| 2022-08-25 | - | 17 | 
-| 2022-08-24 | - | 17 | 
-| 2022-08-23 | - | 17 | 
-| 2022-08-22 | - | 17 | 
-| 2022-08-21 | - | 17 | 
 
 
 [Detailed charts & statistics for xxooomg/Misaka-blog-KOXray](https://reviewgithub.com/rep/xxooomg/Misaka-blog-KOXray)

@@ -1,12 +1,12 @@
-# infobigsteptech/React-Challenge-2 / stars & forks statistics
-
-[Open repository/infobigsteptech/React-Challenge-2](https://github.com/infobigsteptech/React-Challenge-2)
+# infobigsteptech/React-Challenge-2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 0
+
+[Open repository](https://github.com/infobigsteptech/React-Challenge-2)
 
 ## Historical data
 | Date | Stars | Forks |

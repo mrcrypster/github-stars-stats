@@ -1,12 +1,12 @@
-# aptos-labs/ait3-governance / stars & forks statistics
-
-[Open repository/aptos-labs/ait3-governance](https://github.com/aptos-labs/ait3-governance)
+# aptos-labs/ait3-governance - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
+
+[Open repository](https://github.com/aptos-labs/ait3-governance)
 
 ## Historical data
 | Date | Stars | Forks |

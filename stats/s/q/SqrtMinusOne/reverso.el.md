@@ -1,6 +1,4 @@
-# SqrtMinusOne/reverso.el / stars & forks statistics
-
-[Open repository/SqrtMinusOne/reverso.el](https://github.com/SqrtMinusOne/reverso.el)
+# SqrtMinusOne/reverso.el - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 15
 
+[Open repository](https://github.com/SqrtMinusOne/reverso.el)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 15 | - | 
 | 2022-10-05 | 15 | - | 
 | 2022-10-04 | 15 | - | 
 | 2022-10-03 | 15 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 14 | - | 
 | 2022-09-09 | 13 | - | 
 | 2022-09-08 | 13 | - | 
-| 2022-09-07 | 13 | - | 
-| 2022-09-06 | 13 | - | 
 
 
 [Detailed charts & statistics for SqrtMinusOne/reverso.el](https://reviewgithub.com/rep/SqrtMinusOne/reverso.el)

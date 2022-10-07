@@ -1,12 +1,12 @@
-# dfm/araa-gps / stars & forks statistics
-
-[Open repository/dfm/araa-gps](https://github.com/dfm/araa-gps)
+# dfm/araa-gps - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 22
+
+[Open repository](https://github.com/dfm/araa-gps)
 
 ## Historical data
 | Date | Stars | Forks |

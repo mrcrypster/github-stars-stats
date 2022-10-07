@@ -1,12 +1,12 @@
-# nedap/formatting-stack / stars & forks statistics
-
-[Open repository/nedap/formatting-stack](https://github.com/nedap/formatting-stack)
+# nedap/formatting-stack - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 87
+
+[Open repository](https://github.com/nedap/formatting-stack)
 
 ## Historical data
 | Date | Stars | Forks |

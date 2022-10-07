@@ -1,12 +1,12 @@
-# sisl/SBO_AIPPMS / stars & forks statistics
-
-[Open repository/sisl/SBO_AIPPMS](https://github.com/sisl/SBO_AIPPMS)
+# sisl/SBO_AIPPMS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/sisl/SBO_AIPPMS)
 
 ## Historical data
 | Date | Stars | Forks |

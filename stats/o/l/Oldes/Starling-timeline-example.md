@@ -1,12 +1,12 @@
-# Oldes/Starling-timeline-example / stars & forks statistics
-
-[Open repository/Oldes/Starling-timeline-example](https://github.com/Oldes/Starling-timeline-example)
+# Oldes/Starling-timeline-example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 6
+
+[Open repository](https://github.com/Oldes/Starling-timeline-example)
 
 ## Historical data
 | Date | Stars | Forks |

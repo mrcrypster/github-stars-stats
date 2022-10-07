@@ -1,12 +1,12 @@
-# gardener/website-generator / stars & forks statistics
-
-[Open repository/gardener/website-generator](https://github.com/gardener/website-generator)
+# gardener/website-generator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 8
+
+[Open repository](https://github.com/gardener/website-generator)
 
 ## Historical data
 | Date | Stars | Forks |

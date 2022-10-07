@@ -1,16 +1,28 @@
-# nix-community/disko / stars & forks statistics
-
-[Open repository/nix-community/disko](https://github.com/nix-community/disko)
+# nix-community/disko - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
-★ Stars: 85
+★ Stars: 101
+
+[Open repository](https://github.com/nix-community/disko)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 101 | 6 | 
+| 2022-10-05 | 99 | 6 | 
+| 2022-10-04 | 96 | 6 | 
+| 2022-10-03 | 96 | 6 | 
+| 2022-10-02 | 91 | 6 | 
+| 2022-10-01 | 90 | 6 | 
+| 2022-09-30 | 89 | 6 | 
+| 2022-09-29 | 88 | 6 | 
+| 2022-09-28 | 88 | 6 | 
+| 2022-09-27 | 87 | 6 | 
+| 2022-09-26 | 86 | 6 | 
+| 2022-09-25 | 85 | 6 | 
 | 2022-09-24 | 85 | 6 | 
 | 2022-09-23 | 85 | 6 | 
 | 2022-09-22 | 84 | 6 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 75 | 6 | 
 | 2022-09-08 | 75 | 6 | 
 | 2022-09-07 | 72 | 6 | 
-| 2022-09-06 | 70 | 6 | 
-| 2022-09-05 | 70 | 6 | 
-| 2022-09-04 | 70 | 6 | 
-| 2022-09-03 | 69 | 6 | 
-| 2022-09-02 | 69 | 6 | 
-| 2022-09-01 | 68 | 6 | 
-| 2022-08-31 | 68 | 6 | 
-| 2022-08-30 | 67 | 6 | 
-| 2022-08-29 | 65 | 5 | 
-| 2022-08-28 | 65 | 5 | 
-| 2022-08-27 | 64 | 5 | 
-| 2022-08-26 | 61 | 5 | 
 
 
 [Detailed charts & statistics for nix-community/disko](https://reviewgithub.com/rep/nix-community/disko)

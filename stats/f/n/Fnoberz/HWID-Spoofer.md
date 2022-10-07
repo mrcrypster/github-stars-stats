@@ -1,12 +1,12 @@
-# Fnoberz/HWID-Spoofer / stars & forks statistics
-
-[Open repository/Fnoberz/HWID-Spoofer](https://github.com/Fnoberz/HWID-Spoofer)
+# Fnoberz/HWID-Spoofer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 76
+
+[Open repository](https://github.com/Fnoberz/HWID-Spoofer)
 
 ## Historical data
 | Date | Stars | Forks |

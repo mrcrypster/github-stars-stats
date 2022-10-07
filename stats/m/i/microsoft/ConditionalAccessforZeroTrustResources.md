@@ -1,46 +1,45 @@
-# microsoft/ConditionalAccessforZeroTrustResources / stars & forks statistics
-
-[Open repository/microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources)
+# microsoft/ConditionalAccessforZeroTrustResources - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 41
+
+[Open repository](https://github.com/microsoft/ConditionalAccessforZeroTrustResources)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-31 | 30 | 3 | 
-| 2022-07-30 | 30 | 3 | 
-| 2022-07-29 | 30 | 3 | 
-| 2022-07-28 | 30 | 3 | 
-| 2022-07-27 | 30 | 3 | 
-| 2022-07-26 | 30 | 3 | 
-| 2022-07-25 | 30 | 3 | 
-| 2022-07-24 | 30 | 3 | 
-| 2022-07-22 | 30 | 3 | 
-| 2022-07-21 | 30 | 3 | 
-| 2022-07-20 | 30 | 3 | 
-| 2022-07-19 | 30 | 3 | 
-| 2022-07-18 | 30 | 3 | 
-| 2022-07-17 | 30 | 3 | 
-| 2022-07-16 | 30 | 3 | 
-| 2022-07-15 | 30 | 3 | 
-| 2022-07-14 | 30 | 3 | 
-| 2022-07-13 | 30 | 3 | 
-| 2022-07-12 | 30 | 3 | 
-| 2022-07-11 | 30 | 3 | 
-| 2022-07-10 | 30 | 3 | 
-| 2022-07-09 | 30 | 3 | 
-| 2022-07-08 | 30 | 3 | 
-| 2022-07-07 | 30 | 3 | 
-| 2022-07-06 | 30 | 3 | 
-| 2022-07-05 | 30 | 3 | 
-| 2022-07-04 | 30 | 3 | 
-| 2022-07-03 | 30 | 3 | 
-| 2022-07-02 | 29 | 3 | 
-| 2022-07-01 | 29 | 3 | 
+| 2022-10-06 | 41 | 3 | 
+| 2022-10-05 | 41 | 3 | 
+| 2022-10-04 | 41 | 3 | 
+| 2022-10-03 | 41 | 3 | 
+| 2022-10-02 | 41 | 3 | 
+| 2022-10-01 | 41 | 3 | 
+| 2022-09-30 | 41 | 3 | 
+| 2022-09-29 | 40 | 3 | 
+| 2022-09-28 | 40 | 3 | 
+| 2022-09-27 | 40 | 3 | 
+| 2022-09-26 | 40 | 3 | 
+| 2022-09-25 | 40 | 3 | 
+| 2022-09-24 | 40 | 3 | 
+| 2022-09-23 | 40 | 3 | 
+| 2022-09-22 | 39 | 3 | 
+| 2022-09-21 | 39 | 3 | 
+| 2022-09-20 | 39 | 3 | 
+| 2022-09-19 | 39 | 3 | 
+| 2022-09-18 | 39 | 3 | 
+| 2022-09-17 | 39 | 3 | 
+| 2022-09-16 | 39 | 3 | 
+| 2022-09-15 | 39 | 3 | 
+| 2022-09-14 | 39 | 3 | 
+| 2022-09-13 | 38 | 3 | 
+| 2022-09-12 | 37 | 3 | 
+| 2022-09-11 | 35 | 3 | 
+| 2022-09-10 | 35 | 3 | 
+| 2022-09-09 | 35 | 3 | 
+| 2022-09-08 | 35 | 3 | 
 
 
 [Detailed charts & statistics for microsoft/ConditionalAccessforZeroTrustResources](https://reviewgithub.com/rep/microsoft/ConditionalAccessforZeroTrustResources)

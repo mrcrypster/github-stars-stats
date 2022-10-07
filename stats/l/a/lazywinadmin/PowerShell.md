@@ -1,16 +1,26 @@
-# lazywinadmin/PowerShell / stars & forks statistics
-
-[Open repository/lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell)
+# lazywinadmin/PowerShell - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 606
+☋ Forks: 612
 
-★ Stars: 1865
+★ Stars: 1876
+
+[Open repository](https://github.com/lazywinadmin/PowerShell)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1876 | 612 | 
+| 2022-10-05 | 1876 | 610 | 
+| 2022-10-04 | 1874 | 610 | 
+| 2022-10-03 | 1872 | 609 | 
+| 2022-10-02 | 1870 | 608 | 
+| 2022-10-01 | 1869 | 608 | 
+| 2022-09-30 | 1868 | 608 | 
+| 2022-09-29 | 1867 | 607 | 
+| 2022-09-28 | 1866 | 606 | 
+| 2022-09-27 | 1865 | 606 | 
 | 2022-09-26 | 1865 | 606 | 
 | 2022-09-25 | 1864 | 606 | 
 | 2022-09-24 | 1864 | 605 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1828 | 600 | 
 | 2022-09-08 | 1828 | 598 | 
 | 2022-09-07 | 1826 | 598 | 
-| 2022-09-06 | 1823 | 597 | 
-| 2022-09-05 | 1823 | 597 | 
-| 2022-09-04 | 1823 | 597 | 
-| 2022-09-03 | 1821 | 597 | 
-| 2022-09-02 | 1821 | 597 | 
-| 2022-09-01 | 1818 | 596 | 
-| 2022-08-31 | 1818 | 596 | 
-| 2022-08-30 | 1812 | 595 | 
-| 2022-08-29 | 1811 | 595 | 
-| 2022-08-28 | 1809 | 595 | 
-| 2022-08-27 | 1808 | 595 | 
 
 
 [Detailed charts & statistics for lazywinadmin/PowerShell](https://reviewgithub.com/rep/lazywinadmin/PowerShell)

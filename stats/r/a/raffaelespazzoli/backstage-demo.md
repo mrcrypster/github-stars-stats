@@ -1,6 +1,4 @@
-# raffaelespazzoli/backstage-demo / stars & forks statistics
-
-[Open repository/raffaelespazzoli/backstage-demo](https://github.com/raffaelespazzoli/backstage-demo)
+# raffaelespazzoli/backstage-demo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,30 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 8
 
+[Open repository](https://github.com/raffaelespazzoli/backstage-demo)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 8 | 15 | 
+| 2022-10-05 | 8 | 15 | 
+| 2022-10-04 | 8 | 15 | 
+| 2022-10-03 | 8 | 15 | 
+| 2022-10-02 | 8 | 15 | 
+| 2022-10-01 | 8 | 15 | 
+| 2022-09-30 | 8 | 15 | 
+| 2022-09-29 | 8 | 15 | 
+| 2022-09-28 | 8 | 15 | 
+| 2022-09-27 | 8 | 15 | 
+| 2022-09-26 | 8 | 15 | 
+| 2022-09-25 | 8 | 15 | 
+| 2022-09-24 | 8 | 15 | 
+| 2022-09-23 | 8 | 15 | 
+| 2022-09-22 | 8 | 15 | 
+| 2022-09-21 | 8 | 15 | 
+| 2022-09-20 | 8 | 15 | 
+| 2022-09-19 | 8 | 15 | 
+| 2022-09-18 | 8 | 15 | 
 | 2022-09-17 | 8 | 15 | 
 | 2022-09-16 | 8 | 15 | 
 | 2022-09-15 | 8 | 15 | 
@@ -21,26 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 8 | 14 | 
 | 2022-09-09 | 8 | 14 | 
 | 2022-09-08 | 8 | 14 | 
-| 2022-09-07 | 8 | 14 | 
-| 2022-09-06 | 8 | 14 | 
-| 2022-09-05 | 8 | 14 | 
-| 2022-09-04 | 8 | 14 | 
-| 2022-09-03 | 8 | 14 | 
-| 2022-09-02 | 8 | 14 | 
-| 2022-08-31 | 8 | 14 | 
-| 2022-08-30 | 7 | 13 | 
-| 2022-08-29 | 7 | 13 | 
-| 2022-08-28 | 7 | 13 | 
-| 2022-08-27 | 7 | 13 | 
-| 2022-08-26 | 7 | 13 | 
-| 2022-08-25 | 7 | 13 | 
-| 2022-08-24 | 7 | 13 | 
-| 2022-08-23 | 7 | 13 | 
-| 2022-08-22 | 7 | 12 | 
-| 2022-08-21 | 7 | 12 | 
-| 2022-08-20 | 7 | 12 | 
-| 2022-08-19 | 7 | 12 | 
-| 2022-08-18 | 7 | 12 | 
 
 
 [Detailed charts & statistics for raffaelespazzoli/backstage-demo](https://reviewgithub.com/rep/raffaelespazzoli/backstage-demo)

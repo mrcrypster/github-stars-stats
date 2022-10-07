@@ -1,12 +1,12 @@
-# CadetEditor/CadetEngine-as / stars & forks statistics
-
-[Open repository/CadetEditor/CadetEngine-as](https://github.com/CadetEditor/CadetEngine-as)
+# CadetEditor/CadetEngine-as - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 67
+
+[Open repository](https://github.com/CadetEditor/CadetEngine-as)
 
 ## Historical data
 | Date | Stars | Forks |

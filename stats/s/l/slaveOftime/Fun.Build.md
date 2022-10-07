@@ -1,12 +1,12 @@
-# slaveOftime/Fun.Build / stars & forks statistics
-
-[Open repository/slaveOftime/Fun.Build](https://github.com/slaveOftime/Fun.Build)
+# slaveOftime/Fun.Build - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 30
+
+[Open repository](https://github.com/slaveOftime/Fun.Build)
 
 ## Historical data
 | Date | Stars | Forks |

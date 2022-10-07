@@ -1,12 +1,12 @@
-# casualsnek/onethespot / stars & forks statistics
-
-[Open repository/casualsnek/onethespot](https://github.com/casualsnek/onethespot)
+# casualsnek/onethespot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/casualsnek/onethespot)
 
 ## Historical data
 | Date | Stars | Forks |

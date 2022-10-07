@@ -1,12 +1,12 @@
-# jingyue202205/SE-SSD-AI-TRT / stars & forks statistics
-
-[Open repository/jingyue202205/SE-SSD-AI-TRT](https://github.com/jingyue202205/SE-SSD-AI-TRT)
+# jingyue202205/SE-SSD-AI-TRT - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 44
+
+[Open repository](https://github.com/jingyue202205/SE-SSD-AI-TRT)
 
 ## Historical data
 | Date | Stars | Forks |

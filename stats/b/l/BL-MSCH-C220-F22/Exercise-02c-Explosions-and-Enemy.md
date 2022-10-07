@@ -1,12 +1,12 @@
-# BL-MSCH-C220-F22/Exercise-02c-Explosions-and-Enemy / stars & forks statistics
-
-[Open repository/BL-MSCH-C220-F22/Exercise-02c-Explosions-and-Enemy](https://github.com/BL-MSCH-C220-F22/Exercise-02c-Explosions-and-Enemy)
+# BL-MSCH-C220-F22/Exercise-02c-Explosions-and-Enemy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 0
+
+[Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-02c-Explosions-and-Enemy)
 
 ## Historical data
 | Date | Stars | Forks |

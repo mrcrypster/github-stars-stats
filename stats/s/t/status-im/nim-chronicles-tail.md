@@ -1,12 +1,12 @@
-# status-im/nim-chronicles-tail / stars & forks statistics
-
-[Open repository/status-im/nim-chronicles-tail](https://github.com/status-im/nim-chronicles-tail)
+# status-im/nim-chronicles-tail - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
+
+[Open repository](https://github.com/status-im/nim-chronicles-tail)
 
 ## Historical data
 | Date | Stars | Forks |

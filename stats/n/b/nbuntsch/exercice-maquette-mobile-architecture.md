@@ -1,6 +1,4 @@
-# nbuntsch/exercice-maquette-mobile-architecture / stars & forks statistics
-
-[Open repository/nbuntsch/exercice-maquette-mobile-architecture](https://github.com/nbuntsch/exercice-maquette-mobile-architecture)
+# nbuntsch/exercice-maquette-mobile-architecture - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/nbuntsch/exercice-maquette-mobile-architecture)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 37 | 
+| 2022-10-05 | - | 37 | 
+| 2022-10-04 | - | 37 | 
+| 2022-10-03 | - | 37 | 
+| 2022-10-02 | - | 37 | 
+| 2022-10-01 | - | 37 | 
 | 2022-09-30 | - | 37 | 
 | 2022-09-29 | - | 37 | 
 | 2022-09-28 | - | 37 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 37 | 
 | 2022-09-09 | - | 37 | 
 | 2022-09-08 | - | 37 | 
-| 2022-09-07 | - | 31 | 
-| 2022-09-06 | - | 31 | 
-| 2022-09-05 | - | 29 | 
-| 2022-09-04 | - | 29 | 
-| 2022-09-03 | - | 29 | 
-| 2022-09-02 | - | 29 | 
-| 2022-09-01 | - | 28 | 
 
 
 [Detailed charts & statistics for nbuntsch/exercice-maquette-mobile-architecture](https://reviewgithub.com/rep/nbuntsch/exercice-maquette-mobile-architecture)

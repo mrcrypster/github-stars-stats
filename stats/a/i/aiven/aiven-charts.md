@@ -1,12 +1,12 @@
-# aiven/aiven-charts / stars & forks statistics
-
-[Open repository/aiven/aiven-charts](https://github.com/aiven/aiven-charts)
+# aiven/aiven-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/aiven/aiven-charts)
 
 ## Historical data
 | Date | Stars | Forks |

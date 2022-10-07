@@ -1,16 +1,24 @@
-# flashlight/flashlight / stars & forks statistics
-
-[Open repository/flashlight/flashlight](https://github.com/flashlight/flashlight)
+# flashlight/flashlight - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 430
+☋ Forks: 431
 
-★ Stars: 4502
+★ Stars: 4520
+
+[Open repository](https://github.com/flashlight/flashlight)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4520 | 431 | 
+| 2022-10-05 | 4519 | 431 | 
+| 2022-10-04 | 4519 | 430 | 
+| 2022-10-03 | 4518 | 430 | 
+| 2022-10-02 | 4515 | 430 | 
+| 2022-10-01 | 4508 | 430 | 
+| 2022-09-30 | 4506 | 430 | 
+| 2022-09-29 | 4503 | 430 | 
 | 2022-09-28 | 4502 | 430 | 
 | 2022-09-27 | 4501 | 430 | 
 | 2022-09-26 | 4500 | 430 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4446 | 425 | 
 | 2022-09-09 | 4440 | 424 | 
 | 2022-09-08 | 4438 | 423 | 
-| 2022-09-06 | 4434 | 423 | 
-| 2022-09-05 | 4427 | 422 | 
-| 2022-09-04 | 4425 | 423 | 
-| 2022-09-03 | 4426 | 423 | 
-| 2022-09-02 | 4422 | 422 | 
-| 2022-09-01 | 4420 | 422 | 
-| 2022-08-31 | 4418 | 422 | 
-| 2022-08-30 | 4413 | 422 | 
-| 2022-08-29 | 4409 | 422 | 
 
 
 [Detailed charts & statistics for flashlight/flashlight](https://reviewgithub.com/rep/flashlight/flashlight)

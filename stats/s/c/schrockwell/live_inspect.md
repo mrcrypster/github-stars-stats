@@ -1,12 +1,12 @@
-# schrockwell/live_inspect / stars & forks statistics
-
-[Open repository/schrockwell/live_inspect](https://github.com/schrockwell/live_inspect)
+# schrockwell/live_inspect - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 12
+
+[Open repository](https://github.com/schrockwell/live_inspect)
 
 ## Historical data
 | Date | Stars | Forks |

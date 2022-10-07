@@ -1,16 +1,35 @@
-# berkcangumusisik/YazilimcilarIcinKaynaklar / stars & forks statistics
-
-[Open repository/berkcangumusisik/YazilimcilarIcinKaynaklar](https://github.com/berkcangumusisik/YazilimcilarIcinKaynaklar)
+# berkcangumusisik/YazilimcilarIcinKaynaklar - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
-★ Stars: 86
+★ Stars: 87
+
+[Open repository](https://github.com/berkcangumusisik/YazilimcilarIcinKaynaklar)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 87 | 9 | 
+| 2022-10-05 | 87 | 9 | 
+| 2022-10-04 | 87 | 9 | 
+| 2022-10-03 | 87 | 9 | 
+| 2022-10-02 | 87 | 9 | 
+| 2022-10-01 | 87 | 9 | 
+| 2022-09-30 | 87 | 9 | 
+| 2022-09-29 | 87 | 9 | 
+| 2022-09-28 | 87 | 9 | 
+| 2022-09-27 | 88 | 9 | 
+| 2022-09-26 | 88 | 9 | 
+| 2022-09-25 | 88 | 9 | 
+| 2022-09-24 | 87 | 9 | 
+| 2022-09-23 | 87 | 9 | 
+| 2022-09-22 | 87 | 9 | 
+| 2022-09-21 | 87 | 9 | 
+| 2022-09-20 | 87 | 9 | 
+| 2022-09-19 | 87 | 9 | 
+| 2022-09-18 | 87 | 9 | 
 | 2022-09-17 | 86 | 9 | 
 | 2022-09-16 | 86 | 9 | 
 | 2022-09-15 | 86 | 9 | 
@@ -21,26 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 83 | 8 | 
 | 2022-09-09 | 82 | 8 | 
 | 2022-09-08 | 81 | 8 | 
-| 2022-09-07 | 80 | 8 | 
-| 2022-09-06 | 80 | 8 | 
-| 2022-09-05 | 78 | 8 | 
-| 2022-09-04 | 78 | 8 | 
-| 2022-09-03 | 77 | 8 | 
-| 2022-09-02 | 77 | 8 | 
-| 2022-08-31 | 77 | 8 | 
-| 2022-08-30 | 75 | 8 | 
-| 2022-08-29 | 74 | 8 | 
-| 2022-08-28 | 70 | 8 | 
-| 2022-08-27 | 70 | 7 | 
-| 2022-08-26 | 70 | 7 | 
-| 2022-08-25 | 70 | 7 | 
-| 2022-08-24 | 70 | 7 | 
-| 2022-08-23 | 70 | 7 | 
-| 2022-08-22 | 70 | 7 | 
-| 2022-08-21 | 70 | 7 | 
-| 2022-08-20 | 69 | 7 | 
-| 2022-08-19 | 68 | 7 | 
-| 2022-08-18 | 66 | 7 | 
 
 
 [Detailed charts & statistics for berkcangumusisik/YazilimcilarIcinKaynaklar](https://reviewgithub.com/rep/berkcangumusisik/YazilimcilarIcinKaynaklar)

@@ -1,12 +1,12 @@
-# aws-beam/aws_credentials / stars & forks statistics
-
-[Open repository/aws-beam/aws_credentials](https://github.com/aws-beam/aws_credentials)
+# aws-beam/aws_credentials - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 16
+
+[Open repository](https://github.com/aws-beam/aws_credentials)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# cloudfoundry/cflinuxfs4 / stars & forks statistics
-
-[Open repository/cloudfoundry/cflinuxfs4](https://github.com/cloudfoundry/cflinuxfs4)
+# cloudfoundry/cflinuxfs4 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/cloudfoundry/cflinuxfs4)
 
 ## Historical data
 | Date | Stars | Forks |

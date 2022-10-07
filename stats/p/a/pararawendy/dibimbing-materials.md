@@ -1,16 +1,26 @@
-# pararawendy/dibimbing-materials / stars & forks statistics
-
-[Open repository/pararawendy/dibimbing-materials](https://github.com/pararawendy/dibimbing-materials)
+# pararawendy/dibimbing-materials - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 19
+☋ Forks: 25
 
 ★ Stars: 0
+
+[Open repository](https://github.com/pararawendy/dibimbing-materials)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 25 | 
+| 2022-10-06 | - | 25 | 
+| 2022-10-05 | - | 25 | 
+| 2022-10-04 | - | 25 | 
+| 2022-10-03 | - | 25 | 
+| 2022-10-02 | - | 25 | 
+| 2022-10-01 | - | 23 | 
+| 2022-09-30 | - | 23 | 
+| 2022-09-29 | - | 22 | 
+| 2022-09-28 | - | 19 | 
 | 2022-09-27 | - | 19 | 
 | 2022-09-26 | - | 19 | 
 | 2022-09-25 | - | 19 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 19 | 
 | 2022-09-08 | - | 19 | 
 | 2022-09-07 | - | 20 | 
-| 2022-09-06 | - | 20 | 
-| 2022-09-05 | - | 20 | 
-| 2022-09-04 | - | 20 | 
-| 2022-09-03 | - | 20 | 
-| 2022-09-02 | - | 20 | 
-| 2022-09-01 | - | 20 | 
-| 2022-08-31 | - | 20 | 
-| 2022-08-30 | - | 19 | 
-| 2022-08-29 | - | 19 | 
-| 2022-08-28 | - | 19 | 
 
 
 [Detailed charts & statistics for pararawendy/dibimbing-materials](https://reviewgithub.com/rep/pararawendy/dibimbing-materials)

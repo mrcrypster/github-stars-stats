@@ -1,12 +1,12 @@
-# abbbe/qubes-kernel / stars & forks statistics
-
-[Open repository/abbbe/qubes-kernel](https://github.com/abbbe/qubes-kernel)
+# abbbe/qubes-kernel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/abbbe/qubes-kernel)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# ongmanibaimihong/book / stars & forks statistics
-
-[Open repository/ongmanibaimihong/book](https://github.com/ongmanibaimihong/book)
+# ongmanibaimihong/book - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/ongmanibaimihong/book)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# AnaluzSantos/TecnicoInformaticaParaInternet / stars & forks statistics
-
-[Open repository/AnaluzSantos/TecnicoInformaticaParaInternet](https://github.com/AnaluzSantos/TecnicoInformaticaParaInternet)
+# AnaluzSantos/TecnicoInformaticaParaInternet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/AnaluzSantos/TecnicoInformaticaParaInternet)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 11 | - | 
+| 2022-10-06 | 11 | - | 
+| 2022-10-05 | 11 | - | 
+| 2022-10-04 | 11 | - | 
+| 2022-10-03 | 11 | - | 
+| 2022-10-02 | 11 | - | 
+| 2022-10-01 | 11 | - | 
+| 2022-09-30 | 11 | - | 
+| 2022-09-29 | 11 | - | 
+| 2022-09-28 | 11 | - | 
+| 2022-09-27 | 11 | - | 
+| 2022-09-26 | 11 | - | 
 | 2022-09-25 | 11 | - | 
 | 2022-09-24 | 11 | - | 
 | 2022-09-23 | 11 | - | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11 | - | 
 | 2022-09-09 | 11 | - | 
 | 2022-09-07 | 11 | - | 
-| 2022-09-06 | 11 | - | 
-| 2022-09-05 | 11 | - | 
-| 2022-09-04 | 11 | - | 
-| 2022-09-03 | 11 | - | 
-| 2022-09-02 | 11 | - | 
-| 2022-09-01 | 11 | - | 
-| 2022-08-31 | 11 | - | 
-| 2022-08-30 | 12 | - | 
-| 2022-08-29 | 12 | - | 
-| 2022-08-28 | 12 | - | 
-| 2022-08-27 | 12 | - | 
-| 2022-08-26 | 12 | - | 
 
 
 [Detailed charts & statistics for AnaluzSantos/TecnicoInformaticaParaInternet](https://reviewgithub.com/rep/AnaluzSantos/TecnicoInformaticaParaInternet)

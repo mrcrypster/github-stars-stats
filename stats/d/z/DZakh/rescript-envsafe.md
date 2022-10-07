@@ -1,12 +1,12 @@
-# DZakh/rescript-envsafe / stars & forks statistics
-
-[Open repository/DZakh/rescript-envsafe](https://github.com/DZakh/rescript-envsafe)
+# DZakh/rescript-envsafe - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
+
+[Open repository](https://github.com/DZakh/rescript-envsafe)
 
 ## Historical data
 | Date | Stars | Forks |

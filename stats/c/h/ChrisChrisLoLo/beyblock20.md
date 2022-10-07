@@ -1,16 +1,30 @@
-# ChrisChrisLoLo/beyblock20 / stars & forks statistics
-
-[Open repository/ChrisChrisLoLo/beyblock20](https://github.com/ChrisChrisLoLo/beyblock20)
+# ChrisChrisLoLo/beyblock20 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 186
+★ Stars: 192
+
+[Open repository](https://github.com/ChrisChrisLoLo/beyblock20)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 192 | 2 | 
+| 2022-10-06 | 192 | 2 | 
+| 2022-10-05 | 192 | 2 | 
+| 2022-10-04 | 192 | 2 | 
+| 2022-10-03 | 192 | 2 | 
+| 2022-10-02 | 191 | 1 | 
+| 2022-10-01 | 189 | 1 | 
+| 2022-09-30 | 189 | 1 | 
+| 2022-09-29 | 188 | 1 | 
+| 2022-09-28 | 187 | 1 | 
+| 2022-09-27 | 187 | 1 | 
+| 2022-09-26 | 186 | 1 | 
+| 2022-09-25 | 186 | 1 | 
+| 2022-09-24 | 186 | 1 | 
 | 2022-09-23 | 186 | 1 | 
 | 2022-09-22 | 185 | 1 | 
 | 2022-09-21 | 185 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 178 | 1 | 
 | 2022-09-08 | 178 | 1 | 
 | 2022-09-07 | 178 | 1 | 
-| 2022-09-06 | 176 | 1 | 
-| 2022-09-05 | 176 | 1 | 
-| 2022-09-04 | 175 | 1 | 
-| 2022-09-03 | 174 | 1 | 
-| 2022-09-02 | 174 | 1 | 
-| 2022-09-01 | 174 | 1 | 
-| 2022-08-31 | 169 | 1 | 
-| 2022-08-30 | 166 | 1 | 
-| 2022-08-29 | 165 | 1 | 
-| 2022-08-28 | 162 | - | 
-| 2022-08-27 | 160 | - | 
-| 2022-08-26 | 154 | - | 
-| 2022-08-25 | 149 | - | 
-| 2022-08-24 | 149 | - | 
 
 
 [Detailed charts & statistics for ChrisChrisLoLo/beyblock20](https://reviewgithub.com/rep/ChrisChrisLoLo/beyblock20)

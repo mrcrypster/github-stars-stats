@@ -1,12 +1,12 @@
-# WagameDAO/forked-multisig-wallet / stars & forks statistics
-
-[Open repository/WagameDAO/forked-multisig-wallet](https://github.com/WagameDAO/forked-multisig-wallet)
+# WagameDAO/forked-multisig-wallet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 14
+
+[Open repository](https://github.com/WagameDAO/forked-multisig-wallet)
 
 ## Historical data
 | Date | Stars | Forks |

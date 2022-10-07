@@ -1,16 +1,27 @@
-# antoniandre/splitpanes / stars & forks statistics
-
-[Open repository/antoniandre/splitpanes](https://github.com/antoniandre/splitpanes)
+# antoniandre/splitpanes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 119
+☋ Forks: 121
 
-★ Stars: 1142
+★ Stars: 1148
+
+[Open repository](https://github.com/antoniandre/splitpanes)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1148 | 121 | 
+| 2022-10-06 | 1147 | 121 | 
+| 2022-10-05 | 1147 | 121 | 
+| 2022-10-04 | 1146 | 121 | 
+| 2022-10-03 | 1146 | 121 | 
+| 2022-10-02 | 1146 | 121 | 
+| 2022-10-01 | 1146 | 121 | 
+| 2022-09-30 | 1145 | 120 | 
+| 2022-09-29 | 1145 | 120 | 
+| 2022-09-28 | 1143 | 119 | 
+| 2022-09-27 | 1143 | 119 | 
 | 2022-09-26 | 1142 | 119 | 
 | 2022-09-25 | 1141 | 119 | 
 | 2022-09-24 | 1141 | 119 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1126 | 118 | 
 | 2022-09-08 | 1125 | 118 | 
 | 2022-09-07 | 1123 | 118 | 
-| 2022-09-06 | 1121 | 118 | 
-| 2022-09-05 | 1120 | 118 | 
-| 2022-09-04 | 1118 | 118 | 
-| 2022-09-03 | 1117 | 118 | 
-| 2022-09-02 | 1117 | 118 | 
-| 2022-09-01 | 1116 | 120 | 
-| 2022-08-31 | 1115 | 120 | 
-| 2022-08-30 | 1114 | 120 | 
-| 2022-08-29 | 1114 | 120 | 
-| 2022-08-28 | 1113 | 120 | 
-| 2022-08-27 | 1112 | 120 | 
 
 
 [Detailed charts & statistics for antoniandre/splitpanes](https://reviewgithub.com/rep/antoniandre/splitpanes)

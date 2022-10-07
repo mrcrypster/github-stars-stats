@@ -1,12 +1,12 @@
-# kaylagordon/number-guesser-vocalization / stars & forks statistics
-
-[Open repository/kaylagordon/number-guesser-vocalization](https://github.com/kaylagordon/number-guesser-vocalization)
+# kaylagordon/number-guesser-vocalization - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
 ★ Stars: 1
+
+[Open repository](https://github.com/kaylagordon/number-guesser-vocalization)
 
 ## Historical data
 | Date | Stars | Forks |

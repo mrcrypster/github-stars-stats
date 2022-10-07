@@ -1,12 +1,12 @@
-# upenn-cis5520/05-quickcheck / stars & forks statistics
-
-[Open repository/upenn-cis5520/05-quickcheck](https://github.com/upenn-cis5520/05-quickcheck)
+# upenn-cis5520/05-quickcheck - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 0
+
+[Open repository](https://github.com/upenn-cis5520/05-quickcheck)
 
 ## Historical data
 | Date | Stars | Forks |

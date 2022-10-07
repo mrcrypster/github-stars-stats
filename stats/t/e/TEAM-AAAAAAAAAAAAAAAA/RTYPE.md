@@ -1,12 +1,12 @@
-# TEAM-AAAAAAAAAAAAAAAA/RTYPE / stars & forks statistics
-
-[Open repository/TEAM-AAAAAAAAAAAAAAAA/RTYPE](https://github.com/TEAM-AAAAAAAAAAAAAAAA/RTYPE)
+# TEAM-AAAAAAAAAAAAAAAA/RTYPE - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/TEAM-AAAAAAAAAAAAAAAA/RTYPE)
 
 ## Historical data
 | Date | Stars | Forks |

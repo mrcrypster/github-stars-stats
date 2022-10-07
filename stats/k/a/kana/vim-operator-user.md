@@ -1,6 +1,4 @@
-# kana/vim-operator-user / stars & forks statistics
-
-[Open repository/kana/vim-operator-user](https://github.com/kana/vim-operator-user)
+# kana/vim-operator-user - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 187
 
+[Open repository](https://github.com/kana/vim-operator-user)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 187 | 12 | 
+| 2022-10-05 | 187 | 12 | 
+| 2022-10-04 | 187 | 12 | 
+| 2022-10-03 | 187 | 12 | 
 | 2022-10-02 | 187 | 12 | 
 | 2022-10-01 | 187 | 12 | 
 | 2022-09-30 | 187 | 12 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 187 | 12 | 
 | 2022-09-09 | 187 | 12 | 
 | 2022-09-08 | 187 | 12 | 
-| 2022-09-07 | 187 | 12 | 
-| 2022-09-06 | 187 | 12 | 
-| 2022-09-05 | 187 | 12 | 
-| 2022-09-04 | 187 | 12 | 
-| 2022-09-03 | 186 | 12 | 
 
 
 [Detailed charts & statistics for kana/vim-operator-user](https://reviewgithub.com/rep/kana/vim-operator-user)

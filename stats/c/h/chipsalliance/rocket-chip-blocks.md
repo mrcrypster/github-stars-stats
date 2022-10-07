@@ -1,12 +1,12 @@
-# chipsalliance/rocket-chip-blocks / stars & forks statistics
-
-[Open repository/chipsalliance/rocket-chip-blocks](https://github.com/chipsalliance/rocket-chip-blocks)
+# chipsalliance/rocket-chip-blocks - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
+
+[Open repository](https://github.com/chipsalliance/rocket-chip-blocks)
 
 ## Historical data
 | Date | Stars | Forks |

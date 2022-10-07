@@ -1,12 +1,12 @@
-# sjiangster/settings / stars & forks statistics
-
-[Open repository/sjiangster/settings](https://github.com/sjiangster/settings)
+# sjiangster/settings - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/sjiangster/settings)
 
 ## Historical data
 | Date | Stars | Forks |

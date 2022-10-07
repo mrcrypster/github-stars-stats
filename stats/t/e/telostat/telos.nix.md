@@ -1,12 +1,12 @@
-# telostat/telos.nix / stars & forks statistics
-
-[Open repository/telostat/telos.nix](https://github.com/telostat/telos.nix)
+# telostat/telos.nix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/telostat/telos.nix)
 
 ## Historical data
 | Date | Stars | Forks |

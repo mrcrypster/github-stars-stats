@@ -1,6 +1,4 @@
-# mkpoli/word-order / stars & forks statistics
-
-[Open repository/mkpoli/word-order](https://github.com/mkpoli/word-order)
+# mkpoli/word-order - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 9
 
+[Open repository](https://github.com/mkpoli/word-order)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 9 | 2 | 
+| 2022-10-05 | 9 | 2 | 
+| 2022-10-04 | 9 | 2 | 
+| 2022-10-03 | 9 | 2 | 
+| 2022-10-02 | 9 | 2 | 
+| 2022-10-01 | 9 | 2 | 
 | 2022-09-30 | 9 | 2 | 
 | 2022-09-29 | 9 | 2 | 
 | 2022-09-28 | 9 | 2 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 9 | 2 | 
 | 2022-09-09 | 9 | 2 | 
 | 2022-09-08 | 9 | 2 | 
-| 2022-09-07 | 9 | 2 | 
-| 2022-09-06 | 8 | 2 | 
-| 2022-09-05 | 8 | 2 | 
-| 2022-09-04 | 8 | 2 | 
-| 2022-09-03 | 8 | 2 | 
-| 2022-09-02 | 8 | 2 | 
-| 2022-09-01 | 8 | 2 | 
 
 
 [Detailed charts & statistics for mkpoli/word-order](https://reviewgithub.com/rep/mkpoli/word-order)

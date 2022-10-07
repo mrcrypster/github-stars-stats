@@ -1,16 +1,30 @@
-# deep-learning-indaba/indaba-pracs-2022 / stars & forks statistics
-
-[Open repository/deep-learning-indaba/indaba-pracs-2022](https://github.com/deep-learning-indaba/indaba-pracs-2022)
+# deep-learning-indaba/indaba-pracs-2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
-★ Stars: 146
+★ Stars: 148
+
+[Open repository](https://github.com/deep-learning-indaba/indaba-pracs-2022)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 148 | 23 | 
+| 2022-10-06 | 148 | 23 | 
+| 2022-10-05 | 148 | 23 | 
+| 2022-10-04 | 148 | 23 | 
+| 2022-10-03 | 148 | 23 | 
+| 2022-10-02 | 148 | 23 | 
+| 2022-10-01 | 148 | 23 | 
+| 2022-09-30 | 148 | 23 | 
+| 2022-09-29 | 147 | 22 | 
+| 2022-09-28 | 147 | 22 | 
+| 2022-09-27 | 147 | 22 | 
+| 2022-09-26 | 147 | 22 | 
+| 2022-09-25 | 147 | 23 | 
+| 2022-09-24 | 146 | 23 | 
 | 2022-09-23 | 146 | 23 | 
 | 2022-09-22 | 145 | 23 | 
 | 2022-09-21 | 145 | 23 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 132 | 21 | 
 | 2022-09-08 | 132 | 21 | 
 | 2022-09-07 | 131 | 21 | 
-| 2022-09-06 | 130 | 20 | 
-| 2022-09-05 | 131 | 20 | 
-| 2022-09-04 | 128 | 19 | 
-| 2022-09-03 | 128 | 19 | 
-| 2022-09-02 | 127 | 18 | 
-| 2022-09-01 | 127 | 18 | 
-| 2022-08-31 | 122 | 18 | 
-| 2022-08-30 | 112 | 16 | 
-| 2022-08-29 | 108 | 15 | 
-| 2022-08-28 | 106 | 14 | 
-| 2022-08-27 | 105 | 14 | 
-| 2022-08-26 | 94 | 12 | 
-| 2022-08-25 | 93 | 11 | 
-| 2022-08-24 | 84 | 10 | 
 
 
 [Detailed charts & statistics for deep-learning-indaba/indaba-pracs-2022](https://reviewgithub.com/rep/deep-learning-indaba/indaba-pracs-2022)

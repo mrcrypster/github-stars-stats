@@ -1,6 +1,4 @@
-# TejasBN28/iiitb_gc / stars & forks statistics
-
-[Open repository/TejasBN28/iiitb_gc](https://github.com/TejasBN28/iiitb_gc)
+# TejasBN28/iiitb_gc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/TejasBN28/iiitb_gc)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 3 | 
+| 2022-10-05 | - | 3 | 
+| 2022-10-04 | - | 3 | 
+| 2022-10-03 | - | 3 | 
+| 2022-10-02 | - | 3 | 
+| 2022-10-01 | - | 3 | 
 | 2022-09-30 | - | 3 | 
 | 2022-09-29 | - | 3 | 
 | 2022-09-28 | - | 3 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 3 | 
 | 2022-09-09 | - | 3 | 
 | 2022-09-08 | - | 3 | 
-| 2022-09-07 | - | 3 | 
-| 2022-09-06 | - | 3 | 
-| 2022-09-05 | - | 3 | 
-| 2022-09-04 | - | 3 | 
-| 2022-09-03 | - | 3 | 
-| 2022-09-02 | - | 3 | 
-| 2022-09-01 | - | 3 | 
 
 
 [Detailed charts & statistics for TejasBN28/iiitb_gc](https://reviewgithub.com/rep/TejasBN28/iiitb_gc)

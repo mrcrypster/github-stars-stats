@@ -1,12 +1,12 @@
-# Artraxon/tihibot / stars & forks statistics
-
-[Open repository/Artraxon/tihibot](https://github.com/Artraxon/tihibot)
+# Artraxon/tihibot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 41
+
+[Open repository](https://github.com/Artraxon/tihibot)
 
 ## Historical data
 | Date | Stars | Forks |

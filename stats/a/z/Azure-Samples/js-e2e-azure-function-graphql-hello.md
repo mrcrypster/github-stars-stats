@@ -1,12 +1,12 @@
-# Azure-Samples/js-e2e-azure-function-graphql-hello / stars & forks statistics
-
-[Open repository/Azure-Samples/js-e2e-azure-function-graphql-hello](https://github.com/Azure-Samples/js-e2e-azure-function-graphql-hello)
+# Azure-Samples/js-e2e-azure-function-graphql-hello - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 11
+
+[Open repository](https://github.com/Azure-Samples/js-e2e-azure-function-graphql-hello)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# etc5523-2022/cwdata / stars & forks statistics
-
-[Open repository/etc5523-2022/cwdata](https://github.com/etc5523-2022/cwdata)
+# etc5523-2022/cwdata - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/etc5523-2022/cwdata)
 
 ## Historical data
 | Date | Stars | Forks |

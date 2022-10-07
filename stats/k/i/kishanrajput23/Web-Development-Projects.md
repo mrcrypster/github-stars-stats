@@ -1,12 +1,12 @@
-# kishanrajput23/Web-Development-Projects / stars & forks statistics
-
-[Open repository/kishanrajput23/Web-Development-Projects](https://github.com/kishanrajput23/Web-Development-Projects)
+# kishanrajput23/Web-Development-Projects - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 99
 
 ★ Stars: 38
+
+[Open repository](https://github.com/kishanrajput23/Web-Development-Projects)
 
 ## Historical data
 | Date | Stars | Forks |

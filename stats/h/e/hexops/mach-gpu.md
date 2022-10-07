@@ -1,12 +1,12 @@
-# hexops/mach-gpu / stars & forks statistics
-
-[Open repository/hexops/mach-gpu](https://github.com/hexops/mach-gpu)
+# hexops/mach-gpu - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 30
+
+[Open repository](https://github.com/hexops/mach-gpu)
 
 ## Historical data
 | Date | Stars | Forks |

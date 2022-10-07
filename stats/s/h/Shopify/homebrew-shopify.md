@@ -1,6 +1,4 @@
-# Shopify/homebrew-shopify / stars & forks statistics
-
-[Open repository/Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify)
+# Shopify/homebrew-shopify - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 33
 
+[Open repository](https://github.com/Shopify/homebrew-shopify)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 33 | 18 | 
+| 2022-10-05 | 33 | 18 | 
+| 2022-10-04 | 33 | 18 | 
+| 2022-10-03 | 33 | 18 | 
+| 2022-10-02 | 33 | 18 | 
+| 2022-10-01 | 33 | 18 | 
 | 2022-09-30 | 33 | 18 | 
 | 2022-09-29 | 33 | 18 | 
 | 2022-09-28 | 33 | 18 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 32 | 17 | 
 | 2022-09-09 | 32 | 17 | 
 | 2022-09-08 | 32 | 17 | 
-| 2022-09-07 | 32 | 17 | 
-| 2022-09-06 | 32 | 17 | 
-| 2022-09-05 | 31 | 17 | 
-| 2022-09-04 | 31 | 17 | 
-| 2022-09-03 | 31 | 17 | 
-| 2022-09-02 | 31 | 17 | 
-| 2022-09-01 | 30 | 17 | 
 
 
 [Detailed charts & statistics for Shopify/homebrew-shopify](https://reviewgithub.com/rep/Shopify/homebrew-shopify)

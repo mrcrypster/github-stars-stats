@@ -1,12 +1,12 @@
-# open-contracting/deploy / stars & forks statistics
-
-[Open repository/open-contracting/deploy](https://github.com/open-contracting/deploy)
+# open-contracting/deploy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
+
+[Open repository](https://github.com/open-contracting/deploy)
 
 ## Historical data
 | Date | Stars | Forks |

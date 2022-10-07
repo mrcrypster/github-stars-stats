@@ -1,12 +1,12 @@
-# doehm/cropcircles / stars & forks statistics
-
-[Open repository/doehm/cropcircles](https://github.com/doehm/cropcircles)
+# doehm/cropcircles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 15
+
+[Open repository](https://github.com/doehm/cropcircles)
 
 ## Historical data
 | Date | Stars | Forks |

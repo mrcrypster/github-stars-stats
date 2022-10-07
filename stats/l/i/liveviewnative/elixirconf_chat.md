@@ -1,6 +1,4 @@
-# liveviewnative/elixirconf_chat / stars & forks statistics
-
-[Open repository/liveviewnative/elixirconf_chat](https://github.com/liveviewnative/elixirconf_chat)
+# liveviewnative/elixirconf_chat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 67
 
+[Open repository](https://github.com/liveviewnative/elixirconf_chat)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 67 | 9 | 
+| 2022-10-05 | 67 | 9 | 
+| 2022-10-04 | 67 | 9 | 
+| 2022-10-03 | 67 | 9 | 
 | 2022-10-02 | 67 | 9 | 
 | 2022-10-01 | 67 | 8 | 
 | 2022-09-30 | 67 | 8 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 59 | 7 | 
 | 2022-09-09 | 59 | 7 | 
 | 2022-09-08 | 54 | 6 | 
-| 2022-09-07 | 50 | 6 | 
-| 2022-09-06 | 45 | 6 | 
-| 2022-09-05 | 45 | 5 | 
-| 2022-09-04 | 44 | 5 | 
-| 2022-09-03 | 40 | 5 | 
 
 
 [Detailed charts & statistics for liveviewnative/elixirconf_chat](https://reviewgithub.com/rep/liveviewnative/elixirconf_chat)

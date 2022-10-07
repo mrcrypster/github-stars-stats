@@ -1,12 +1,12 @@
-# rmanocha/Euler-Solutions / stars & forks statistics
-
-[Open repository/rmanocha/Euler-Solutions](https://github.com/rmanocha/Euler-Solutions)
+# rmanocha/Euler-Solutions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/rmanocha/Euler-Solutions)
 
 ## Historical data
 | Date | Stars | Forks |

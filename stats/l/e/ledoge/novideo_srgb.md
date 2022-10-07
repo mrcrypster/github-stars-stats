@@ -1,16 +1,20 @@
-# ledoge/novideo_srgb / stars & forks statistics
-
-[Open repository/ledoge/novideo_srgb](https://github.com/ledoge/novideo_srgb)
+# ledoge/novideo_srgb - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
-★ Stars: 373
+★ Stars: 376
+
+[Open repository](https://github.com/ledoge/novideo_srgb)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 376 | 15 | 
+| 2022-10-05 | 376 | 15 | 
+| 2022-10-04 | 374 | 15 | 
+| 2022-10-03 | 373 | 15 | 
 | 2022-10-02 | 373 | 15 | 
 | 2022-10-01 | 373 | 15 | 
 | 2022-09-30 | 373 | 15 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 359 | 15 | 
 | 2022-09-09 | 359 | 15 | 
 | 2022-09-08 | 358 | 15 | 
-| 2022-09-07 | 358 | 15 | 
-| 2022-09-06 | 356 | 15 | 
-| 2022-09-05 | 356 | 15 | 
-| 2022-09-04 | 355 | 15 | 
-| 2022-09-03 | 354 | 14 | 
 
 
 [Detailed charts & statistics for ledoge/novideo_srgb](https://reviewgithub.com/rep/ledoge/novideo_srgb)

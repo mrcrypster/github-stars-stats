@@ -1,12 +1,12 @@
-# KikiLetGo/MyDisk / stars & forks statistics
-
-[Open repository/KikiLetGo/MyDisk](https://github.com/KikiLetGo/MyDisk)
+# KikiLetGo/MyDisk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 118
+
+[Open repository](https://github.com/KikiLetGo/MyDisk)
 
 ## Historical data
 | Date | Stars | Forks |

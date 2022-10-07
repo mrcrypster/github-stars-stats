@@ -1,12 +1,12 @@
-# maromalo/DefinitelyNotSHC / stars & forks statistics
-
-[Open repository/maromalo/DefinitelyNotSHC](https://github.com/maromalo/DefinitelyNotSHC)
+# maromalo/DefinitelyNotSHC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 49
+
+[Open repository](https://github.com/maromalo/DefinitelyNotSHC)
 
 ## Historical data
 | Date | Stars | Forks |

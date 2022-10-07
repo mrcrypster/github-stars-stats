@@ -1,12 +1,12 @@
-# Gisithj/testQ / stars & forks statistics
-
-[Open repository/Gisithj/testQ](https://github.com/Gisithj/testQ)
+# Gisithj/testQ - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Gisithj/testQ)
 
 ## Historical data
 | Date | Stars | Forks |

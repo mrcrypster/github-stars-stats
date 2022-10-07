@@ -1,12 +1,12 @@
-# dpo/mth6412b-starter-code / stars & forks statistics
-
-[Open repository/dpo/mth6412b-starter-code](https://github.com/dpo/mth6412b-starter-code)
+# dpo/mth6412b-starter-code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 1
+
+[Open repository](https://github.com/dpo/mth6412b-starter-code)
 
 ## Historical data
 | Date | Stars | Forks |

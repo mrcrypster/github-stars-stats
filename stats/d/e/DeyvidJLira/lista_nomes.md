@@ -1,12 +1,12 @@
-# DeyvidJLira/lista_nomes / stars & forks statistics
-
-[Open repository/DeyvidJLira/lista_nomes](https://github.com/DeyvidJLira/lista_nomes)
+# DeyvidJLira/lista_nomes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 1
+
+[Open repository](https://github.com/DeyvidJLira/lista_nomes)
 
 ## Historical data
 | Date | Stars | Forks |

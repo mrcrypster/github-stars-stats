@@ -1,6 +1,4 @@
-# status-im/keycard-site / stars & forks statistics
-
-[Open repository/status-im/keycard-site](https://github.com/status-im/keycard-site)
+# status-im/keycard-site - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/status-im/keycard-site)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 5 | 5 | 
+| 2022-10-05 | 5 | 5 | 
+| 2022-10-04 | 5 | 5 | 
+| 2022-10-03 | 5 | 5 | 
+| 2022-10-02 | 5 | 5 | 
+| 2022-10-01 | 5 | 5 | 
+| 2022-09-30 | 5 | 5 | 
 | 2022-09-29 | 5 | 5 | 
 | 2022-09-28 | 5 | 5 | 
 | 2022-09-27 | 5 | 5 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 5 | 4 | 
 | 2022-09-09 | 5 | 4 | 
 | 2022-09-08 | 5 | 4 | 
-| 2022-09-07 | 5 | 4 | 
-| 2022-09-06 | 5 | 4 | 
-| 2022-09-05 | 5 | 4 | 
-| 2022-09-04 | 5 | 4 | 
-| 2022-09-03 | 5 | 4 | 
-| 2022-09-02 | 5 | 4 | 
-| 2022-09-01 | 5 | 4 | 
-| 2022-08-31 | 5 | 4 | 
 
 
 [Detailed charts & statistics for status-im/keycard-site](https://reviewgithub.com/rep/status-im/keycard-site)

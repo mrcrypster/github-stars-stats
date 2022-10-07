@@ -1,6 +1,4 @@
-# MilesMcBain/rmdgh / stars & forks statistics
-
-[Open repository/MilesMcBain/rmdgh](https://github.com/MilesMcBain/rmdgh)
+# MilesMcBain/rmdgh - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 49
 
+[Open repository](https://github.com/MilesMcBain/rmdgh)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 49 | 1 | 
+| 2022-10-05 | 49 | 1 | 
 | 2022-10-04 | 49 | 1 | 
 | 2022-10-03 | 49 | 1 | 
 | 2022-10-02 | 49 | 1 | 
@@ -39,8 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 44 | 1 | 
 | 2022-09-08 | 43 | 1 | 
 | 2022-09-07 | 42 | 1 | 
-| 2022-09-06 | 42 | 1 | 
-| 2022-09-05 | 36 | 1 | 
 
 
 [Detailed charts & statistics for MilesMcBain/rmdgh](https://reviewgithub.com/rep/MilesMcBain/rmdgh)

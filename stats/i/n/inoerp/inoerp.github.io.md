@@ -1,12 +1,12 @@
-# inoerp/inoerp.github.io / stars & forks statistics
-
-[Open repository/inoerp/inoerp.github.io](https://github.com/inoerp/inoerp.github.io)
+# inoerp/inoerp.github.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 1
+
+[Open repository](https://github.com/inoerp/inoerp.github.io)
 
 ## Historical data
 | Date | Stars | Forks |

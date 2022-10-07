@@ -1,16 +1,28 @@
-# XPixelGroup/BasicSR / stars & forks statistics
-
-[Open repository/XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
+# XPixelGroup/BasicSR - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 823
+☋ Forks: 829
 
-★ Stars: 3822
+★ Stars: 3866
+
+[Open repository](https://github.com/XPixelGroup/BasicSR)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3866 | 829 | 
+| 2022-10-06 | 3862 | 829 | 
+| 2022-10-05 | 3855 | 827 | 
+| 2022-10-04 | 3853 | 826 | 
+| 2022-10-03 | 3849 | 826 | 
+| 2022-10-02 | 3847 | 827 | 
+| 2022-10-01 | 3845 | 827 | 
+| 2022-09-30 | 3841 | 828 | 
+| 2022-09-29 | 3842 | 828 | 
+| 2022-09-28 | 3835 | 826 | 
+| 2022-09-27 | 3831 | 825 | 
+| 2022-09-26 | 3826 | 823 | 
 | 2022-09-25 | 3822 | 823 | 
 | 2022-09-24 | 3818 | 822 | 
 | 2022-09-23 | 3812 | 821 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3752 | 813 | 
 | 2022-09-08 | 3747 | 813 | 
 | 2022-09-07 | 3741 | 812 | 
-| 2022-09-06 | 3736 | 811 | 
-| 2022-09-05 | 3729 | 809 | 
-| 2022-09-04 | 3724 | 807 | 
-| 2022-09-03 | 3723 | 806 | 
-| 2022-09-02 | 3718 | 804 | 
-| 2022-09-01 | 3712 | 803 | 
-| 2022-08-31 | 3703 | 803 | 
-| 2022-08-30 | 3692 | 800 | 
-| 2022-08-29 | 3690 | 798 | 
-| 2022-08-28 | 3689 | 798 | 
-| 2022-08-27 | 3685 | 798 | 
-| 2022-08-26 | 3680 | 798 | 
 
 
 [Detailed charts & statistics for XPixelGroup/BasicSR](https://reviewgithub.com/rep/XPixelGroup/BasicSR)

@@ -1,12 +1,12 @@
-# TheDatumOrg/TSB-UAD / stars & forks statistics
-
-[Open repository/TheDatumOrg/TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD)
+# TheDatumOrg/TSB-UAD - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 67
+
+[Open repository](https://github.com/TheDatumOrg/TSB-UAD)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# pentagonxyz/dpd-assembly / stars & forks statistics
-
-[Open repository/pentagonxyz/dpd-assembly](https://github.com/pentagonxyz/dpd-assembly)
+# pentagonxyz/dpd-assembly - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 24
+
+[Open repository](https://github.com/pentagonxyz/dpd-assembly)
 
 ## Historical data
 | Date | Stars | Forks |

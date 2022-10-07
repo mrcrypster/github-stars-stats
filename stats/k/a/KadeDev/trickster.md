@@ -1,6 +1,4 @@
-# KadeDev/trickster / stars & forks statistics
-
-[Open repository/KadeDev/trickster](https://github.com/KadeDev/trickster)
+# KadeDev/trickster - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 58
 
+[Open repository](https://github.com/KadeDev/trickster)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 58 | 129 | 
+| 2022-10-06 | 58 | 129 | 
+| 2022-10-05 | 58 | 129 | 
+| 2022-10-04 | 58 | 129 | 
+| 2022-10-03 | 58 | 129 | 
+| 2022-10-02 | 58 | 129 | 
+| 2022-10-01 | 58 | 129 | 
+| 2022-09-30 | 58 | 129 | 
+| 2022-09-29 | 58 | 129 | 
+| 2022-09-28 | 58 | 129 | 
+| 2022-09-27 | 58 | 129 | 
+| 2022-09-26 | 58 | 129 | 
+| 2022-09-25 | 58 | 129 | 
 | 2022-09-24 | 58 | 129 | 
 | 2022-09-23 | 58 | 129 | 
 | 2022-09-22 | 58 | 129 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 57 | 129 | 
 | 2022-09-08 | 57 | 129 | 
 | 2022-09-07 | 57 | 129 | 
-| 2022-09-06 | 56 | 128 | 
-| 2022-09-05 | 56 | 128 | 
-| 2022-09-04 | 56 | 128 | 
-| 2022-09-03 | 56 | 128 | 
-| 2022-09-02 | 56 | 128 | 
-| 2022-09-01 | 56 | 128 | 
-| 2022-08-31 | 56 | 128 | 
-| 2022-08-30 | 56 | 128 | 
-| 2022-08-29 | 56 | 128 | 
-| 2022-08-28 | 56 | 128 | 
-| 2022-08-27 | 56 | 128 | 
-| 2022-08-26 | 56 | 128 | 
-| 2022-08-25 | 56 | 128 | 
 
 
 [Detailed charts & statistics for KadeDev/trickster](https://reviewgithub.com/rep/KadeDev/trickster)

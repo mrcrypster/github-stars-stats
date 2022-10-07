@@ -1,16 +1,27 @@
-# LineageOS/android_vendor_lineage / stars & forks statistics
-
-[Open repository/LineageOS/android_vendor_lineage](https://github.com/LineageOS/android_vendor_lineage)
+# LineageOS/android_vendor_lineage - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 494
 
-★ Stars: 165
+★ Stars: 166
+
+[Open repository](https://github.com/LineageOS/android_vendor_lineage)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 166 | 494 | 
+| 2022-10-06 | 166 | 494 | 
+| 2022-10-05 | 166 | 495 | 
+| 2022-10-04 | 166 | 496 | 
+| 2022-10-03 | 166 | 497 | 
+| 2022-10-02 | 165 | 496 | 
+| 2022-10-01 | 165 | 495 | 
+| 2022-09-30 | 165 | 494 | 
+| 2022-09-29 | 165 | 494 | 
+| 2022-09-28 | 165 | 494 | 
+| 2022-09-27 | 165 | 494 | 
 | 2022-09-26 | 165 | 494 | 
 | 2022-09-25 | 165 | 496 | 
 | 2022-09-24 | 165 | 495 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 164 | 492 | 
 | 2022-09-08 | 164 | 492 | 
 | 2022-09-07 | 164 | 492 | 
-| 2022-09-06 | 164 | 491 | 
-| 2022-09-05 | 163 | 489 | 
-| 2022-09-04 | 163 | 489 | 
-| 2022-09-03 | 162 | 489 | 
-| 2022-09-02 | 162 | 488 | 
-| 2022-09-01 | 162 | 488 | 
-| 2022-08-31 | 162 | 489 | 
-| 2022-08-30 | 162 | 488 | 
-| 2022-08-29 | 162 | 488 | 
-| 2022-08-28 | 162 | 488 | 
-| 2022-08-27 | 160 | 488 | 
 
 
 [Detailed charts & statistics for LineageOS/android_vendor_lineage](https://reviewgithub.com/rep/LineageOS/android_vendor_lineage)

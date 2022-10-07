@@ -1,16 +1,31 @@
-# oceanbaichuan/my-uniswap-v2-core / stars & forks statistics
-
-[Open repository/oceanbaichuan/my-uniswap-v2-core](https://github.com/oceanbaichuan/my-uniswap-v2-core)
+# oceanbaichuan/my-uniswap-v2-core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 224
+☋ Forks: 225
 
-★ Stars: 23
+★ Stars: 25
+
+[Open repository](https://github.com/oceanbaichuan/my-uniswap-v2-core)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 25 | 225 | 
+| 2022-10-05 | 25 | 225 | 
+| 2022-10-04 | 25 | 225 | 
+| 2022-10-03 | 25 | 225 | 
+| 2022-10-02 | 24 | 225 | 
+| 2022-10-01 | 24 | 225 | 
+| 2022-09-30 | 24 | 225 | 
+| 2022-09-29 | 24 | 225 | 
+| 2022-09-28 | 23 | 225 | 
+| 2022-09-27 | 23 | 225 | 
+| 2022-09-26 | 23 | 225 | 
+| 2022-09-25 | 23 | 225 | 
+| 2022-09-24 | 23 | 225 | 
+| 2022-09-23 | 23 | 225 | 
+| 2022-09-22 | 23 | 225 | 
 | 2022-09-21 | 23 | 224 | 
 | 2022-09-20 | 23 | 224 | 
 | 2022-09-19 | 23 | 224 | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 23 | 225 | 
 | 2022-09-09 | 23 | 226 | 
 | 2022-09-08 | 23 | 225 | 
-| 2022-09-07 | 23 | 225 | 
-| 2022-09-06 | 23 | 224 | 
-| 2022-09-05 | 22 | 224 | 
-| 2022-09-04 | 22 | 224 | 
-| 2022-09-03 | 22 | 224 | 
-| 2022-09-02 | 22 | 224 | 
-| 2022-08-31 | 22 | 223 | 
-| 2022-08-30 | 22 | 223 | 
-| 2022-08-29 | 22 | 222 | 
-| 2022-08-28 | 22 | 222 | 
-| 2022-08-27 | 22 | 221 | 
-| 2022-08-26 | 21 | 221 | 
-| 2022-08-25 | 21 | 221 | 
-| 2022-08-24 | 21 | 221 | 
-| 2022-08-23 | 21 | 220 | 
-| 2022-08-22 | 21 | 220 | 
 
 
 [Detailed charts & statistics for oceanbaichuan/my-uniswap-v2-core](https://reviewgithub.com/rep/oceanbaichuan/my-uniswap-v2-core)

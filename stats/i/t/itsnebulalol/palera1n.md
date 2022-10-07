@@ -1,12 +1,12 @@
-# itsnebulalol/palera1n / stars & forks statistics
-
-[Open repository/itsnebulalol/palera1n](https://github.com/itsnebulalol/palera1n)
+# itsnebulalol/palera1n - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 327
+
+[Open repository](https://github.com/itsnebulalol/palera1n)
 
 ## Historical data
 | Date | Stars | Forks |

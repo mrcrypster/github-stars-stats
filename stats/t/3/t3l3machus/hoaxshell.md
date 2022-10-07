@@ -1,16 +1,28 @@
-# t3l3machus/hoaxshell / stars & forks statistics
-
-[Open repository/t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell)
+# t3l3machus/hoaxshell - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 152
+☋ Forks: 158
 
-★ Stars: 1026
+★ Stars: 1048
+
+[Open repository](https://github.com/t3l3machus/hoaxshell)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1048 | 158 | 
+| 2022-10-06 | 1046 | 158 | 
+| 2022-10-05 | 1044 | 158 | 
+| 2022-10-04 | 1043 | 158 | 
+| 2022-10-03 | 1042 | 157 | 
+| 2022-10-02 | 1041 | 157 | 
+| 2022-10-01 | 1040 | 157 | 
+| 2022-09-30 | 1040 | 157 | 
+| 2022-09-29 | 1036 | 154 | 
+| 2022-09-28 | 1032 | 154 | 
+| 2022-09-27 | 1031 | 153 | 
+| 2022-09-26 | 1029 | 152 | 
 | 2022-09-25 | 1026 | 152 | 
 | 2022-09-24 | 1022 | 151 | 
 | 2022-09-23 | 1020 | 151 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 955 | 139 | 
 | 2022-09-08 | 944 | 137 | 
 | 2022-09-07 | 932 | 137 | 
-| 2022-09-06 | 926 | 136 | 
-| 2022-09-05 | 910 | 132 | 
-| 2022-09-04 | 898 | 131 | 
-| 2022-09-03 | 892 | 128 | 
-| 2022-09-02 | 883 | 126 | 
-| 2022-09-01 | 848 | 121 | 
-| 2022-08-31 | 823 | 113 | 
-| 2022-08-30 | 786 | 107 | 
-| 2022-08-29 | 751 | 105 | 
-| 2022-08-28 | 679 | 98 | 
-| 2022-08-27 | 597 | 91 | 
-| 2022-08-26 | 469 | 81 | 
 
 
 [Detailed charts & statistics for t3l3machus/hoaxshell](https://reviewgithub.com/rep/t3l3machus/hoaxshell)

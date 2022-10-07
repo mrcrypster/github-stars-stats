@@ -1,12 +1,12 @@
-# learn-co-curriculum/phase-4-rails-putting-it-all-together-auth / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-4-rails-putting-it-all-together-auth](https://github.com/learn-co-curriculum/phase-4-rails-putting-it-all-together-auth)
+# learn-co-curriculum/phase-4-rails-putting-it-all-together-auth - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 959
 
 ★ Stars: 1
+
+[Open repository](https://github.com/learn-co-curriculum/phase-4-rails-putting-it-all-together-auth)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# Djancyp/regex.nvim / stars & forks statistics
-
-[Open repository/Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim)
+# Djancyp/regex.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 24
 
+[Open repository](https://github.com/Djancyp/regex.nvim)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 24 | - | 
+| 2022-10-05 | 24 | - | 
+| 2022-10-04 | 24 | - | 
+| 2022-10-03 | 24 | - | 
+| 2022-10-02 | 24 | - | 
+| 2022-10-01 | 24 | - | 
+| 2022-09-30 | 24 | - | 
+| 2022-09-29 | 24 | - | 
 | 2022-09-28 | 24 | - | 
 | 2022-09-27 | 24 | - | 
 | 2022-09-26 | 24 | - | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 22 | - | 
 | 2022-09-09 | 22 | - | 
 | 2022-09-08 | 22 | - | 
-| 2022-09-07 | 22 | - | 
-| 2022-09-06 | 20 | - | 
-| 2022-09-05 | 20 | - | 
-| 2022-09-04 | 20 | - | 
-| 2022-09-03 | 20 | - | 
-| 2022-09-02 | 20 | - | 
-| 2022-09-01 | 19 | - | 
-| 2022-08-31 | 16 | - | 
-| 2022-08-30 | 15 | - | 
 
 
 [Detailed charts & statistics for Djancyp/regex.nvim](https://reviewgithub.com/rep/Djancyp/regex.nvim)

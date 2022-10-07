@@ -1,6 +1,4 @@
-# Shopify/identity_cache / stars & forks statistics
-
-[Open repository/Shopify/identity_cache](https://github.com/Shopify/identity_cache)
+# Shopify/identity_cache - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1802
 
+[Open repository](https://github.com/Shopify/identity_cache)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1802 | 171 | 
+| 2022-10-05 | 1802 | 171 | 
+| 2022-10-04 | 1802 | 171 | 
+| 2022-10-03 | 1802 | 171 | 
+| 2022-10-02 | 1802 | 171 | 
+| 2022-10-01 | 1802 | 171 | 
 | 2022-09-30 | 1802 | 171 | 
 | 2022-09-29 | 1802 | 171 | 
 | 2022-09-28 | 1802 | 171 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1798 | 171 | 
 | 2022-09-09 | 1798 | 171 | 
 | 2022-09-08 | 1797 | 171 | 
-| 2022-09-07 | 1796 | 171 | 
-| 2022-09-06 | 1796 | 171 | 
-| 2022-09-05 | 1796 | 171 | 
-| 2022-09-04 | 1795 | 171 | 
-| 2022-09-03 | 1795 | 171 | 
-| 2022-09-02 | 1794 | 171 | 
-| 2022-09-01 | 1793 | 171 | 
 
 
 [Detailed charts & statistics for Shopify/identity_cache](https://reviewgithub.com/rep/Shopify/identity_cache)

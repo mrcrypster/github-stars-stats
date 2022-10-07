@@ -1,12 +1,12 @@
-# SauravMukherjee44/Aec-Library-Website / stars & forks statistics
-
-[Open repository/SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
+# SauravMukherjee44/Aec-Library-Website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 36
+
+[Open repository](https://github.com/SauravMukherjee44/Aec-Library-Website)
 
 ## Historical data
 | Date | Stars | Forks |

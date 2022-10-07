@@ -1,12 +1,12 @@
-# antmicro/nvme-verilog-pcie / stars & forks statistics
-
-[Open repository/antmicro/nvme-verilog-pcie](https://github.com/antmicro/nvme-verilog-pcie)
+# antmicro/nvme-verilog-pcie - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/antmicro/nvme-verilog-pcie)
 
 ## Historical data
 | Date | Stars | Forks |

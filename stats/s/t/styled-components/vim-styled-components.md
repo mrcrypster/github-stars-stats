@@ -1,12 +1,12 @@
-# styled-components/vim-styled-components / stars & forks statistics
-
-[Open repository/styled-components/vim-styled-components](https://github.com/styled-components/vim-styled-components)
+# styled-components/vim-styled-components - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 292
+
+[Open repository](https://github.com/styled-components/vim-styled-components)
 
 ## Historical data
 | Date | Stars | Forks |

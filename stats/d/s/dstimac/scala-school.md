@@ -1,6 +1,4 @@
-# dstimac/scala-school / stars & forks statistics
-
-[Open repository/dstimac/scala-school](https://github.com/dstimac/scala-school)
+# dstimac/scala-school - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/dstimac/scala-school)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | - | 
+| 2022-10-05 | 1 | - | 
+| 2022-10-04 | 1 | - | 
+| 2022-10-03 | 1 | - | 
+| 2022-10-02 | 1 | - | 
+| 2022-10-01 | 1 | - | 
+| 2022-09-30 | 1 | - | 
 | 2022-09-29 | 1 | - | 
 | 2022-09-28 | 1 | - | 
 | 2022-09-27 | 1 | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | - | 
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
-| 2022-09-07 | 1 | - | 
-| 2022-09-06 | 1 | - | 
-| 2022-09-05 | 1 | - | 
-| 2022-09-04 | 1 | - | 
-| 2022-09-03 | 1 | - | 
-| 2022-09-02 | 1 | - | 
-| 2022-09-01 | 1 | - | 
-| 2022-08-31 | 1 | - | 
 
 
 [Detailed charts & statistics for dstimac/scala-school](https://reviewgithub.com/rep/dstimac/scala-school)

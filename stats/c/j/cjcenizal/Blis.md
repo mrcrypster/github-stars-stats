@@ -1,12 +1,12 @@
-# cjcenizal/Blis / stars & forks statistics
-
-[Open repository/cjcenizal/Blis](https://github.com/cjcenizal/Blis)
+# cjcenizal/Blis - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
+
+[Open repository](https://github.com/cjcenizal/Blis)
 
 ## Historical data
 | Date | Stars | Forks |

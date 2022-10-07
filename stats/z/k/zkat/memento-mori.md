@@ -1,12 +1,12 @@
-# zkat/memento-mori / stars & forks statistics
-
-[Open repository/zkat/memento-mori](https://github.com/zkat/memento-mori)
+# zkat/memento-mori - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 30
+
+[Open repository](https://github.com/zkat/memento-mori)
 
 ## Historical data
 | Date | Stars | Forks |

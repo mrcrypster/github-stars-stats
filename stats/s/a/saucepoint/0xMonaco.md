@@ -1,16 +1,30 @@
-# saucepoint/0xMonaco / stars & forks statistics
-
-[Open repository/saucepoint/0xMonaco](https://github.com/saucepoint/0xMonaco)
+# saucepoint/0xMonaco - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 53
+★ Stars: 54
+
+[Open repository](https://github.com/saucepoint/0xMonaco)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 54 | 1 | 
+| 2022-10-06 | 54 | 1 | 
+| 2022-10-05 | 54 | 1 | 
+| 2022-10-04 | 54 | 1 | 
+| 2022-10-03 | 54 | 1 | 
+| 2022-10-02 | 54 | 1 | 
+| 2022-10-01 | 54 | 1 | 
+| 2022-09-30 | 54 | 1 | 
+| 2022-09-29 | 53 | 1 | 
+| 2022-09-28 | 53 | 1 | 
+| 2022-09-27 | 53 | 1 | 
+| 2022-09-25 | 53 | 1 | 
+| 2022-09-24 | 53 | 1 | 
+| 2022-09-23 | 53 | 1 | 
 | 2022-09-22 | 53 | 1 | 
 | 2022-09-21 | 53 | 1 | 
 | 2022-09-20 | 51 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 51 | 1 | 
 | 2022-09-08 | 51 | 1 | 
 | 2022-09-07 | 51 | 1 | 
-| 2022-09-06 | 51 | 1 | 
-| 2022-09-05 | 51 | 1 | 
-| 2022-09-04 | 51 | 1 | 
-| 2022-09-03 | 51 | 1 | 
-| 2022-09-02 | 50 | 1 | 
-| 2022-09-01 | 50 | 1 | 
-| 2022-08-31 | 50 | 1 | 
-| 2022-08-30 | 49 | 1 | 
-| 2022-08-29 | 47 | 1 | 
-| 2022-08-28 | 46 | 1 | 
-| 2022-08-27 | 46 | 1 | 
-| 2022-08-26 | 46 | 1 | 
-| 2022-08-25 | 44 | 1 | 
-| 2022-08-24 | 41 | 1 | 
 
 
 [Detailed charts & statistics for saucepoint/0xMonaco](https://reviewgithub.com/rep/saucepoint/0xMonaco)

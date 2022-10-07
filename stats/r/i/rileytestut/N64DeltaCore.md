@@ -1,12 +1,12 @@
-# rileytestut/N64DeltaCore / stars & forks statistics
-
-[Open repository/rileytestut/N64DeltaCore](https://github.com/rileytestut/N64DeltaCore)
+# rileytestut/N64DeltaCore - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 15
+
+[Open repository](https://github.com/rileytestut/N64DeltaCore)
 
 ## Historical data
 | Date | Stars | Forks |

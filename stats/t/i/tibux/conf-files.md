@@ -1,12 +1,12 @@
-# tibux/conf-files / stars & forks statistics
-
-[Open repository/tibux/conf-files](https://github.com/tibux/conf-files)
+# tibux/conf-files - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/tibux/conf-files)
 
 ## Historical data
 | Date | Stars | Forks |

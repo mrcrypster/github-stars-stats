@@ -1,12 +1,12 @@
-# DarKWinGTM/aw-express / stars & forks statistics
-
-[Open repository/DarKWinGTM/aw-express](https://github.com/DarKWinGTM/aw-express)
+# DarKWinGTM/aw-express - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
+
+[Open repository](https://github.com/DarKWinGTM/aw-express)
 
 ## Historical data
 | Date | Stars | Forks |

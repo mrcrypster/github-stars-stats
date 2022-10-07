@@ -1,12 +1,12 @@
-# Darlington02/circom-next-starter / stars & forks statistics
-
-[Open repository/Darlington02/circom-next-starter](https://github.com/Darlington02/circom-next-starter)
+# Darlington02/circom-next-starter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 28
+
+[Open repository](https://github.com/Darlington02/circom-next-starter)
 
 ## Historical data
 | Date | Stars | Forks |

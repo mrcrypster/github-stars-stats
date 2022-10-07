@@ -1,12 +1,12 @@
-# djust270/IntuneEndpointTools / stars & forks statistics
-
-[Open repository/djust270/IntuneEndpointTools](https://github.com/djust270/IntuneEndpointTools)
+# djust270/IntuneEndpointTools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 27
+
+[Open repository](https://github.com/djust270/IntuneEndpointTools)
 
 ## Historical data
 | Date | Stars | Forks |

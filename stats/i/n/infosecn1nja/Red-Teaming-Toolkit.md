@@ -1,12 +1,12 @@
-# infosecn1nja/Red-Teaming-Toolkit / stars & forks statistics
-
-[Open repository/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+# infosecn1nja/Red-Teaming-Toolkit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1829
 
 ★ Stars: 6647
+
+[Open repository](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 
 ## Historical data
 | Date | Stars | Forks |

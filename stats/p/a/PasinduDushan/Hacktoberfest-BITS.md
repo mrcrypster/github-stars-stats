@@ -1,12 +1,12 @@
-# PasinduDushan/Hacktoberfest-BITS / stars & forks statistics
-
-[Open repository/PasinduDushan/Hacktoberfest-BITS](https://github.com/PasinduDushan/Hacktoberfest-BITS)
+# PasinduDushan/Hacktoberfest-BITS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 1
+
+[Open repository](https://github.com/PasinduDushan/Hacktoberfest-BITS)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,30 @@
-# rhobs/configuration / stars & forks statistics
-
-[Open repository/rhobs/configuration](https://github.com/rhobs/configuration)
+# rhobs/configuration - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 19
+★ Stars: 20
+
+[Open repository](https://github.com/rhobs/configuration)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | 40 | 
+| 2022-10-06 | 20 | 40 | 
+| 2022-10-05 | 20 | 39 | 
+| 2022-10-04 | 20 | 39 | 
+| 2022-10-03 | 20 | 39 | 
+| 2022-10-02 | 20 | 39 | 
+| 2022-10-01 | 20 | 39 | 
+| 2022-09-30 | 20 | 39 | 
+| 2022-09-29 | 19 | 39 | 
+| 2022-09-28 | 19 | 39 | 
+| 2022-09-27 | 19 | 39 | 
+| 2022-09-26 | 19 | 39 | 
+| 2022-09-25 | 19 | 39 | 
+| 2022-09-24 | 19 | 39 | 
 | 2022-09-23 | 19 | 39 | 
 | 2022-09-22 | 19 | 38 | 
 | 2022-09-21 | 19 | 38 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 18 | 38 | 
 | 2022-09-08 | 17 | 38 | 
 | 2022-09-07 | 17 | 38 | 
-| 2022-09-06 | 17 | 38 | 
-| 2022-09-05 | 17 | 38 | 
-| 2022-09-04 | 17 | 37 | 
-| 2022-09-03 | 17 | 37 | 
-| 2022-09-02 | 17 | 37 | 
-| 2022-09-01 | 17 | 37 | 
-| 2022-08-31 | 17 | 37 | 
-| 2022-08-30 | 17 | 37 | 
-| 2022-08-29 | 17 | 37 | 
-| 2022-08-28 | 17 | 37 | 
-| 2022-08-27 | 17 | 37 | 
-| 2022-08-26 | 17 | 37 | 
-| 2022-08-25 | 17 | 36 | 
-| 2022-08-24 | 17 | 36 | 
 
 
 [Detailed charts & statistics for rhobs/configuration](https://reviewgithub.com/rep/rhobs/configuration)

@@ -1,16 +1,27 @@
-# campusx-official/ML-Roadmap-for-2022 / stars & forks statistics
-
-[Open repository/campusx-official/ML-Roadmap-for-2022](https://github.com/campusx-official/ML-Roadmap-for-2022)
+# campusx-official/ML-Roadmap-for-2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 158
+☋ Forks: 168
 
-★ Stars: 228
+★ Stars: 236
+
+[Open repository](https://github.com/campusx-official/ML-Roadmap-for-2022)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 236 | 168 | 
+| 2022-10-05 | 235 | 165 | 
+| 2022-10-04 | 233 | 164 | 
+| 2022-10-03 | 230 | 164 | 
+| 2022-10-02 | 230 | 162 | 
+| 2022-10-01 | 229 | 162 | 
+| 2022-09-30 | 229 | 162 | 
+| 2022-09-29 | 229 | 161 | 
+| 2022-09-28 | 228 | 160 | 
+| 2022-09-27 | 228 | 160 | 
+| 2022-09-26 | 228 | 158 | 
 | 2022-09-25 | 228 | 158 | 
 | 2022-09-24 | 228 | 158 | 
 | 2022-09-23 | 225 | 157 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 198 | 142 | 
 | 2022-09-08 | 198 | 142 | 
 | 2022-09-07 | 195 | 142 | 
-| 2022-09-06 | 194 | 142 | 
-| 2022-09-05 | 193 | 142 | 
-| 2022-09-04 | 192 | 141 | 
-| 2022-09-03 | 192 | 141 | 
-| 2022-09-02 | 192 | 139 | 
-| 2022-09-01 | 191 | 139 | 
-| 2022-08-31 | 189 | 139 | 
-| 2022-08-30 | 187 | 136 | 
-| 2022-08-29 | 186 | 136 | 
-| 2022-08-28 | 185 | 136 | 
-| 2022-08-27 | 182 | 136 | 
-| 2022-08-26 | 182 | 135 | 
 
 
 [Detailed charts & statistics for campusx-official/ML-Roadmap-for-2022](https://reviewgithub.com/rep/campusx-official/ML-Roadmap-for-2022)

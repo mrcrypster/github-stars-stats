@@ -1,12 +1,12 @@
-# CodegirlSchool/pets-shop / stars & forks statistics
-
-[Open repository/CodegirlSchool/pets-shop](https://github.com/CodegirlSchool/pets-shop)
+# CodegirlSchool/pets-shop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 1
+
+[Open repository](https://github.com/CodegirlSchool/pets-shop)
 
 ## Historical data
 | Date | Stars | Forks |

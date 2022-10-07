@@ -1,12 +1,12 @@
-# bengm/RocketSentry / stars & forks statistics
-
-[Open repository/bengm/RocketSentry](https://github.com/bengm/RocketSentry)
+# bengm/RocketSentry - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bengm/RocketSentry)
 
 ## Historical data
 | Date | Stars | Forks |

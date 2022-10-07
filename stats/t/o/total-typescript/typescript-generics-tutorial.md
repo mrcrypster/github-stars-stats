@@ -1,16 +1,22 @@
-# total-typescript/typescript-generics-tutorial / stars & forks statistics
-
-[Open repository/total-typescript/typescript-generics-tutorial](https://github.com/total-typescript/typescript-generics-tutorial)
+# total-typescript/typescript-generics-tutorial - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 55
+☋ Forks: 63
 
-★ Stars: 908
+★ Stars: 991
+
+[Open repository](https://github.com/total-typescript/typescript-generics-tutorial)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 991 | 63 | 
+| 2022-10-05 | 985 | 63 | 
+| 2022-10-04 | 979 | 61 | 
+| 2022-10-03 | 977 | 61 | 
+| 2022-10-02 | 973 | 59 | 
+| 2022-10-01 | 962 | 58 | 
 | 2022-09-30 | 908 | 55 | 
 | 2022-09-29 | 867 | 54 | 
 | 2022-09-28 | 775 | 47 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 678 | 27 | 
 | 2022-09-09 | 666 | 25 | 
 | 2022-09-08 | 641 | 24 | 
-| 2022-09-07 | 623 | 23 | 
-| 2022-09-06 | 610 | 21 | 
-| 2022-09-05 | 595 | 20 | 
-| 2022-09-04 | 510 | 17 | 
-| 2022-09-03 | 406 | 14 | 
-| 2022-09-02 | 332 | 14 | 
-| 2022-09-01 | 207 | 9 | 
 
 
 [Detailed charts & statistics for total-typescript/typescript-generics-tutorial](https://reviewgithub.com/rep/total-typescript/typescript-generics-tutorial)

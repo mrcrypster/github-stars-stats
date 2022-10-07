@@ -1,12 +1,12 @@
-# TeamStepping/Stepping.NET / stars & forks statistics
-
-[Open repository/TeamStepping/Stepping.NET](https://github.com/TeamStepping/Stepping.NET)
+# TeamStepping/Stepping.NET - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 84
+
+[Open repository](https://github.com/TeamStepping/Stepping.NET)
 
 ## Historical data
 | Date | Stars | Forks |

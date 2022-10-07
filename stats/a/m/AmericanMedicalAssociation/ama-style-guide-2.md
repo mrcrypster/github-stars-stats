@@ -1,12 +1,12 @@
-# AmericanMedicalAssociation/ama-style-guide-2 / stars & forks statistics
-
-[Open repository/AmericanMedicalAssociation/ama-style-guide-2](https://github.com/AmericanMedicalAssociation/ama-style-guide-2)
+# AmericanMedicalAssociation/ama-style-guide-2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
+
+[Open repository](https://github.com/AmericanMedicalAssociation/ama-style-guide-2)
 
 ## Historical data
 | Date | Stars | Forks |

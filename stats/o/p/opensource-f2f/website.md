@@ -1,16 +1,20 @@
-# opensource-f2f/website / stars & forks statistics
-
-[Open repository/opensource-f2f/website](https://github.com/opensource-f2f/website)
+# opensource-f2f/website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 23
+
+[Open repository](https://github.com/opensource-f2f/website)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 23 | 11 | 
+| 2022-10-05 | 23 | 11 | 
+| 2022-10-04 | 23 | 10 | 
+| 2022-10-03 | 23 | 10 | 
 | 2022-10-02 | 23 | 10 | 
 | 2022-10-01 | 23 | 10 | 
 | 2022-09-30 | 23 | 10 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 17 | 8 | 
 | 2022-09-09 | 17 | 8 | 
 | 2022-09-08 | 17 | 8 | 
-| 2022-09-07 | 17 | 8 | 
-| 2022-09-06 | 16 | 8 | 
-| 2022-09-05 | 16 | 7 | 
-| 2022-09-04 | 16 | 6 | 
-| 2022-09-03 | 16 | 6 | 
 
 
 [Detailed charts & statistics for opensource-f2f/website](https://reviewgithub.com/rep/opensource-f2f/website)

@@ -1,6 +1,4 @@
-# SciML/JumpProcesses.jl / stars & forks statistics
-
-[Open repository/SciML/JumpProcesses.jl](https://github.com/SciML/JumpProcesses.jl)
+# SciML/JumpProcesses.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 94
 
+[Open repository](https://github.com/SciML/JumpProcesses.jl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 94 | 23 | 
+| 2022-10-05 | 94 | 23 | 
+| 2022-10-04 | 94 | 23 | 
+| 2022-10-03 | 94 | 23 | 
 | 2022-10-02 | 94 | 23 | 
 | 2022-10-01 | 94 | 23 | 
 | 2022-09-30 | 94 | 23 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 92 | 23 | 
 | 2022-09-09 | 92 | 24 | 
 | 2022-09-08 | 92 | 24 | 
-| 2022-09-07 | 92 | 23 | 
-| 2022-09-06 | 92 | 23 | 
-| 2022-09-05 | 92 | 23 | 
-| 2022-09-04 | 92 | 23 | 
-| 2022-09-03 | 91 | 23 | 
 
 
 [Detailed charts & statistics for SciML/JumpProcesses.jl](https://reviewgithub.com/rep/SciML/JumpProcesses.jl)

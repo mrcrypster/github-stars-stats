@@ -1,12 +1,12 @@
-# StrangerealIntel/EternalLiberty / stars & forks statistics
-
-[Open repository/StrangerealIntel/EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty)
+# StrangerealIntel/EternalLiberty - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 123
+
+[Open repository](https://github.com/StrangerealIntel/EternalLiberty)
 
 ## Historical data
 | Date | Stars | Forks |

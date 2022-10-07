@@ -1,12 +1,12 @@
-# ahennequ/cuda-tensorcores-register-mapping / stars & forks statistics
-
-[Open repository/ahennequ/cuda-tensorcores-register-mapping](https://github.com/ahennequ/cuda-tensorcores-register-mapping)
+# ahennequ/cuda-tensorcores-register-mapping - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 14
+
+[Open repository](https://github.com/ahennequ/cuda-tensorcores-register-mapping)
 
 ## Historical data
 | Date | Stars | Forks |

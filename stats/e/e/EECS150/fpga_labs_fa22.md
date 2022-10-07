@@ -1,12 +1,12 @@
-# EECS150/fpga_labs_fa22 / stars & forks statistics
-
-[Open repository/EECS150/fpga_labs_fa22](https://github.com/EECS150/fpga_labs_fa22)
+# EECS150/fpga_labs_fa22 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 2
+
+[Open repository](https://github.com/EECS150/fpga_labs_fa22)
 
 ## Historical data
 | Date | Stars | Forks |

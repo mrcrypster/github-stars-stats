@@ -1,6 +1,4 @@
-# squarefrog/UIDeviceIdentifier / stars & forks statistics
-
-[Open repository/squarefrog/UIDeviceIdentifier](https://github.com/squarefrog/UIDeviceIdentifier)
+# squarefrog/UIDeviceIdentifier - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 237
 
+[Open repository](https://github.com/squarefrog/UIDeviceIdentifier)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 237 | 56 | 
+| 2022-10-05 | 237 | 56 | 
+| 2022-10-04 | 237 | 56 | 
+| 2022-10-03 | 237 | 56 | 
+| 2022-10-02 | 237 | 56 | 
+| 2022-10-01 | 237 | 56 | 
+| 2022-09-30 | 237 | 56 | 
+| 2022-09-29 | 237 | 56 | 
 | 2022-09-28 | 237 | 56 | 
 | 2022-09-27 | 237 | 56 | 
 | 2022-09-26 | 237 | 56 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 232 | 55 | 
 | 2022-09-08 | 232 | 55 | 
 | 2022-09-07 | 232 | 55 | 
-| 2022-09-06 | 232 | 55 | 
-| 2022-09-05 | 232 | 55 | 
-| 2022-09-04 | 232 | 55 | 
-| 2022-09-03 | 232 | 55 | 
-| 2022-09-02 | 232 | 55 | 
-| 2022-09-01 | 232 | 55 | 
-| 2022-08-31 | 232 | 55 | 
-| 2022-08-30 | 232 | 55 | 
-| 2022-08-29 | 232 | 55 | 
 
 
 [Detailed charts & statistics for squarefrog/UIDeviceIdentifier](https://reviewgithub.com/rep/squarefrog/UIDeviceIdentifier)

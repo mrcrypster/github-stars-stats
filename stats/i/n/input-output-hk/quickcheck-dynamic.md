@@ -1,12 +1,12 @@
-# input-output-hk/quickcheck-dynamic / stars & forks statistics
-
-[Open repository/input-output-hk/quickcheck-dynamic](https://github.com/input-output-hk/quickcheck-dynamic)
+# input-output-hk/quickcheck-dynamic - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 7
+
+[Open repository](https://github.com/input-output-hk/quickcheck-dynamic)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# cbh123/charl-e / stars & forks statistics
-
-[Open repository/cbh123/charl-e](https://github.com/cbh123/charl-e)
+# cbh123/charl-e - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 356
+
+[Open repository](https://github.com/cbh123/charl-e)
 
 ## Historical data
 | Date | Stars | Forks |

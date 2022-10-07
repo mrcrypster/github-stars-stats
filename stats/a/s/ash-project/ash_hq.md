@@ -1,12 +1,12 @@
-# ash-project/ash_hq / stars & forks statistics
-
-[Open repository/ash-project/ash_hq](https://github.com/ash-project/ash_hq)
+# ash-project/ash_hq - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 3
+
+[Open repository](https://github.com/ash-project/ash_hq)
 
 ## Historical data
 | Date | Stars | Forks |

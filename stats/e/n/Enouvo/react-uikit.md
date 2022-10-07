@@ -1,12 +1,12 @@
-# Enouvo/react-uikit / stars & forks statistics
-
-[Open repository/Enouvo/react-uikit](https://github.com/Enouvo/react-uikit)
+# Enouvo/react-uikit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Enouvo/react-uikit)
 
 ## Historical data
 | Date | Stars | Forks |

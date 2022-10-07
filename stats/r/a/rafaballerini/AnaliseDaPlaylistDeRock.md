@@ -1,12 +1,12 @@
-# rafaballerini/AnaliseDaPlaylistDeRock / stars & forks statistics
-
-[Open repository/rafaballerini/AnaliseDaPlaylistDeRock](https://github.com/rafaballerini/AnaliseDaPlaylistDeRock)
+# rafaballerini/AnaliseDaPlaylistDeRock - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 77
+
+[Open repository](https://github.com/rafaballerini/AnaliseDaPlaylistDeRock)
 
 ## Historical data
 | Date | Stars | Forks |

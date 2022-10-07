@@ -1,6 +1,4 @@
-# lgatto/RforProteomics / stars & forks statistics
-
-[Open repository/lgatto/RforProteomics](https://github.com/lgatto/RforProteomics)
+# lgatto/RforProteomics - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 64
 
+[Open repository](https://github.com/lgatto/RforProteomics)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 64 | 32 | 
+| 2022-10-06 | 64 | 32 | 
+| 2022-10-05 | 64 | 32 | 
+| 2022-10-04 | 64 | 32 | 
+| 2022-10-03 | 64 | 32 | 
+| 2022-10-02 | 64 | 32 | 
+| 2022-10-01 | 64 | 32 | 
+| 2022-09-30 | 64 | 32 | 
+| 2022-09-29 | 64 | 32 | 
+| 2022-09-28 | 64 | 32 | 
 | 2022-09-27 | 64 | 32 | 
 | 2022-09-26 | 64 | 32 | 
 | 2022-09-25 | 64 | 32 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 63 | 32 | 
 | 2022-09-08 | 63 | 32 | 
 | 2022-09-07 | 63 | 32 | 
-| 2022-09-06 | 62 | 32 | 
-| 2022-09-05 | 62 | 32 | 
-| 2022-09-04 | 60 | 32 | 
-| 2022-09-03 | 60 | 32 | 
-| 2022-09-02 | 60 | 32 | 
-| 2022-09-01 | 60 | 32 | 
-| 2022-08-31 | 60 | 32 | 
-| 2022-08-30 | 60 | 32 | 
-| 2022-08-29 | 60 | 32 | 
-| 2022-08-28 | 60 | 32 | 
 
 
 [Detailed charts & statistics for lgatto/RforProteomics](https://reviewgithub.com/rep/lgatto/RforProteomics)

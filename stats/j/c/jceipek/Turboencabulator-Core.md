@@ -1,12 +1,12 @@
-# jceipek/Turboencabulator-Core / stars & forks statistics
-
-[Open repository/jceipek/Turboencabulator-Core](https://github.com/jceipek/Turboencabulator-Core)
+# jceipek/Turboencabulator-Core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/jceipek/Turboencabulator-Core)
 
 ## Historical data
 | Date | Stars | Forks |

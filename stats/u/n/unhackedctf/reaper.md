@@ -1,16 +1,30 @@
-# unhackedctf/reaper / stars & forks statistics
-
-[Open repository/unhackedctf/reaper](https://github.com/unhackedctf/reaper)
+# unhackedctf/reaper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
-★ Stars: 35
+★ Stars: 34
+
+[Open repository](https://github.com/unhackedctf/reaper)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 34 | 16 | 
+| 2022-10-06 | 34 | 16 | 
+| 2022-10-05 | 34 | 16 | 
+| 2022-10-04 | 34 | 16 | 
+| 2022-10-03 | 34 | 16 | 
+| 2022-10-02 | 34 | 16 | 
+| 2022-10-01 | 34 | 16 | 
+| 2022-09-30 | 34 | 16 | 
+| 2022-09-29 | 34 | 16 | 
+| 2022-09-28 | 34 | 16 | 
+| 2022-09-27 | 34 | 16 | 
+| 2022-09-26 | 34 | 16 | 
+| 2022-09-25 | 35 | 16 | 
+| 2022-09-24 | 35 | 16 | 
 | 2022-09-23 | 35 | 16 | 
 | 2022-09-22 | 35 | 16 | 
 | 2022-09-21 | 35 | 16 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 33 | 13 | 
 | 2022-09-08 | 33 | 13 | 
 | 2022-09-07 | 33 | 13 | 
-| 2022-09-06 | 33 | 13 | 
-| 2022-09-05 | 33 | 13 | 
-| 2022-09-04 | 33 | 13 | 
-| 2022-09-03 | 33 | 13 | 
-| 2022-09-02 | 32 | 13 | 
-| 2022-09-01 | 32 | 13 | 
-| 2022-08-31 | 32 | 13 | 
-| 2022-08-30 | 32 | 12 | 
-| 2022-08-29 | 32 | 12 | 
-| 2022-08-28 | 31 | 12 | 
-| 2022-08-27 | 27 | 11 | 
-| 2022-08-26 | 27 | 10 | 
-| 2022-08-25 | 26 | 8 | 
-| 2022-08-24 | 20 | 3 | 
 
 
 [Detailed charts & statistics for unhackedctf/reaper](https://reviewgithub.com/rep/unhackedctf/reaper)

@@ -1,12 +1,12 @@
-# vigoux/azy.nvim / stars & forks statistics
-
-[Open repository/vigoux/azy.nvim](https://github.com/vigoux/azy.nvim)
+# vigoux/azy.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 30
+
+[Open repository](https://github.com/vigoux/azy.nvim)
 
 ## Historical data
 | Date | Stars | Forks |

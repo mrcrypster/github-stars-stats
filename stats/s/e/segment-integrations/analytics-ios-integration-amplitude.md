@@ -1,12 +1,12 @@
-# segment-integrations/analytics-ios-integration-amplitude / stars & forks statistics
-
-[Open repository/segment-integrations/analytics-ios-integration-amplitude](https://github.com/segment-integrations/analytics-ios-integration-amplitude)
+# segment-integrations/analytics-ios-integration-amplitude - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 11
+
+[Open repository](https://github.com/segment-integrations/analytics-ios-integration-amplitude)
 
 ## Historical data
 | Date | Stars | Forks |

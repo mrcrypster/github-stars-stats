@@ -1,12 +1,12 @@
-# Cluain/resTest / stars & forks statistics
-
-[Open repository/Cluain/resTest](https://github.com/Cluain/resTest)
+# Cluain/resTest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/Cluain/resTest)
 
 ## Historical data
 | Date | Stars | Forks |

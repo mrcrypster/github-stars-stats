@@ -1,12 +1,12 @@
-# transmissions11/goo-issuance / stars & forks statistics
-
-[Open repository/transmissions11/goo-issuance](https://github.com/transmissions11/goo-issuance)
+# transmissions11/goo-issuance - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 110
+
+[Open repository](https://github.com/transmissions11/goo-issuance)
 
 ## Historical data
 | Date | Stars | Forks |

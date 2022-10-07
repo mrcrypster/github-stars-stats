@@ -1,12 +1,12 @@
-# bhutley/emacs / stars & forks statistics
-
-[Open repository/bhutley/emacs](https://github.com/bhutley/emacs)
+# bhutley/emacs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bhutley/emacs)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# LindaEng/swe2.0-workshop-sample-code / stars & forks statistics
-
-[Open repository/LindaEng/swe2.0-workshop-sample-code](https://github.com/LindaEng/swe2.0-workshop-sample-code)
+# LindaEng/swe2.0-workshop-sample-code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 0
+
+[Open repository](https://github.com/LindaEng/swe2.0-workshop-sample-code)
 
 ## Historical data
 | Date | Stars | Forks |

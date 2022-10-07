@@ -1,12 +1,12 @@
-# geoserver/geoserver / stars & forks statistics
-
-[Open repository/geoserver/geoserver](https://github.com/geoserver/geoserver)
+# geoserver/geoserver - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1938
 
 ★ Stars: 2881
+
+[Open repository](https://github.com/geoserver/geoserver)
 
 ## Historical data
 | Date | Stars | Forks |

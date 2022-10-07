@@ -1,12 +1,12 @@
-# byrnereese/mt-plugin-autoprefs / stars & forks statistics
-
-[Open repository/byrnereese/mt-plugin-autoprefs](https://github.com/byrnereese/mt-plugin-autoprefs)
+# byrnereese/mt-plugin-autoprefs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 7
+
+[Open repository](https://github.com/byrnereese/mt-plugin-autoprefs)
 
 ## Historical data
 | Date | Stars | Forks |

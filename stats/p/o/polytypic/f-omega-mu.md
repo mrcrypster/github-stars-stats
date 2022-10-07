@@ -1,12 +1,12 @@
-# polytypic/f-omega-mu / stars & forks statistics
-
-[Open repository/polytypic/f-omega-mu](https://github.com/polytypic/f-omega-mu)
+# polytypic/f-omega-mu - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 37
+
+[Open repository](https://github.com/polytypic/f-omega-mu)
 
 ## Historical data
 | Date | Stars | Forks |

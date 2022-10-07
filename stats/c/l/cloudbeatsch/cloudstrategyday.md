@@ -1,12 +1,12 @@
-# cloudbeatsch/cloudstrategyday / stars & forks statistics
-
-[Open repository/cloudbeatsch/cloudstrategyday](https://github.com/cloudbeatsch/cloudstrategyday)
+# cloudbeatsch/cloudstrategyday - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/cloudbeatsch/cloudstrategyday)
 
 ## Historical data
 | Date | Stars | Forks |

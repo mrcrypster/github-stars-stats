@@ -1,12 +1,12 @@
-# MrAnonymous09/hacktoberfest-solutions-submissions / stars & forks statistics
-
-[Open repository/MrAnonymous09/hacktoberfest-solutions-submissions](https://github.com/MrAnonymous09/hacktoberfest-solutions-submissions)
+# MrAnonymous09/hacktoberfest-solutions-submissions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 12
+
+[Open repository](https://github.com/MrAnonymous09/hacktoberfest-solutions-submissions)
 
 ## Historical data
 | Date | Stars | Forks |

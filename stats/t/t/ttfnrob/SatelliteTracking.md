@@ -1,12 +1,12 @@
-# ttfnrob/SatelliteTracking / stars & forks statistics
-
-[Open repository/ttfnrob/SatelliteTracking](https://github.com/ttfnrob/SatelliteTracking)
+# ttfnrob/SatelliteTracking - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/ttfnrob/SatelliteTracking)
 
 ## Historical data
 | Date | Stars | Forks |

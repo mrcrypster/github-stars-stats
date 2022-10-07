@@ -1,12 +1,12 @@
-# jameskeane/livetransit / stars & forks statistics
-
-[Open repository/jameskeane/livetransit](https://github.com/jameskeane/livetransit)
+# jameskeane/livetransit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/jameskeane/livetransit)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# dlsyscourse/hw0 / stars & forks statistics
-
-[Open repository/dlsyscourse/hw0](https://github.com/dlsyscourse/hw0)
+# dlsyscourse/hw0 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 28
+
+[Open repository](https://github.com/dlsyscourse/hw0)
 
 ## Historical data
 | Date | Stars | Forks |

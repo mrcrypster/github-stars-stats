@@ -1,16 +1,29 @@
-# RayeRen/rayeren.github.io / stars & forks statistics
-
-[Open repository/RayeRen/rayeren.github.io](https://github.com/RayeRen/rayeren.github.io)
+# RayeRen/rayeren.github.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 22
+☋ Forks: 26
 
 ★ Stars: 10
+
+[Open repository](https://github.com/RayeRen/rayeren.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 10 | 26 | 
+| 2022-10-05 | 10 | 26 | 
+| 2022-10-04 | 10 | 26 | 
+| 2022-10-03 | 10 | 25 | 
+| 2022-10-02 | 10 | 25 | 
+| 2022-10-01 | 10 | 25 | 
+| 2022-09-30 | 10 | 25 | 
+| 2022-09-29 | 10 | 24 | 
+| 2022-09-28 | 10 | 24 | 
+| 2022-09-27 | 10 | 24 | 
+| 2022-09-26 | 10 | 23 | 
+| 2022-09-25 | 10 | 23 | 
+| 2022-09-24 | 10 | 23 | 
 | 2022-09-23 | 10 | 22 | 
 | 2022-09-22 | 10 | 22 | 
 | 2022-09-21 | 10 | 22 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 9 | 17 | 
 | 2022-09-08 | 9 | 16 | 
 | 2022-09-07 | 9 | 16 | 
-| 2022-09-06 | 9 | 17 | 
-| 2022-09-05 | 9 | 16 | 
-| 2022-09-04 | 9 | 16 | 
-| 2022-09-03 | 9 | 16 | 
-| 2022-09-02 | 9 | 16 | 
-| 2022-09-01 | 9 | 15 | 
-| 2022-08-31 | 9 | 15 | 
-| 2022-08-30 | 9 | 15 | 
-| 2022-08-29 | 9 | 15 | 
-| 2022-08-28 | 9 | 15 | 
-| 2022-08-27 | 9 | 15 | 
-| 2022-08-26 | 9 | 16 | 
-| 2022-08-25 | 9 | 16 | 
-| 2022-08-24 | 9 | 16 | 
 
 
 [Detailed charts & statistics for RayeRen/rayeren.github.io](https://reviewgithub.com/rep/RayeRen/rayeren.github.io)

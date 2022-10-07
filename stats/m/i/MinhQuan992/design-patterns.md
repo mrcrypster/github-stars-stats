@@ -1,12 +1,12 @@
-# MinhQuan992/design-patterns / stars & forks statistics
-
-[Open repository/MinhQuan992/design-patterns](https://github.com/MinhQuan992/design-patterns)
+# MinhQuan992/design-patterns - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 17
+
+[Open repository](https://github.com/MinhQuan992/design-patterns)
 
 ## Historical data
 | Date | Stars | Forks |

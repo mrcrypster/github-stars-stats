@@ -1,16 +1,31 @@
-# LibreTranslate/LibreTranslate / stars & forks statistics
-
-[Open repository/LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+# LibreTranslate/LibreTranslate - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 282
+☋ Forks: 289
 
-★ Stars: 2748
+★ Stars: 2839
+
+[Open repository](https://github.com/LibreTranslate/LibreTranslate)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2839 | 289 | 
+| 2022-10-05 | 2830 | 288 | 
+| 2022-10-04 | 2822 | 287 | 
+| 2022-10-03 | 2812 | 287 | 
+| 2022-10-02 | 2805 | 287 | 
+| 2022-10-01 | 2796 | 287 | 
+| 2022-09-30 | 2793 | 285 | 
+| 2022-09-29 | 2791 | 285 | 
+| 2022-09-28 | 2784 | 285 | 
+| 2022-09-27 | 2780 | 283 | 
+| 2022-09-26 | 2777 | 283 | 
+| 2022-09-25 | 2774 | 282 | 
+| 2022-09-24 | 2768 | 282 | 
+| 2022-09-23 | 2763 | 282 | 
+| 2022-09-22 | 2757 | 282 | 
 | 2022-09-21 | 2748 | 282 | 
 | 2022-09-20 | 2744 | 283 | 
 | 2022-09-19 | 2741 | 283 | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2715 | 277 | 
 | 2022-09-09 | 2714 | 276 | 
 | 2022-09-08 | 2713 | 276 | 
-| 2022-09-07 | 2709 | 275 | 
-| 2022-09-06 | 2706 | 274 | 
-| 2022-09-05 | 2700 | 274 | 
-| 2022-09-04 | 2693 | 273 | 
-| 2022-09-03 | 2690 | 273 | 
-| 2022-09-02 | 2689 | 273 | 
-| 2022-09-01 | 2688 | 273 | 
-| 2022-08-30 | 2683 | 273 | 
-| 2022-08-29 | 2681 | 273 | 
-| 2022-08-28 | 2677 | 273 | 
-| 2022-08-27 | 2673 | 273 | 
-| 2022-08-26 | 2670 | 272 | 
-| 2022-08-25 | 2669 | 271 | 
-| 2022-08-24 | 2665 | 272 | 
-| 2022-08-23 | 2661 | 271 | 
-| 2022-08-22 | 2655 | 270 | 
 
 
 [Detailed charts & statistics for LibreTranslate/LibreTranslate](https://reviewgithub.com/rep/LibreTranslate/LibreTranslate)

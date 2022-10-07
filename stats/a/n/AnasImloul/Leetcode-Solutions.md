@@ -1,16 +1,33 @@
-# AnasImloul/Leetcode-Solutions / stars & forks statistics
-
-[Open repository/AnasImloul/Leetcode-Solutions](https://github.com/AnasImloul/Leetcode-Solutions)
+# AnasImloul/Leetcode-Solutions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 68
+☋ Forks: 83
 
-★ Stars: 201
+★ Stars: 245
+
+[Open repository](https://github.com/AnasImloul/Leetcode-Solutions)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 245 | 83 | 
+| 2022-10-06 | 243 | 83 | 
+| 2022-10-05 | 242 | 83 | 
+| 2022-10-04 | 240 | 82 | 
+| 2022-10-03 | 240 | 82 | 
+| 2022-10-02 | 240 | 82 | 
+| 2022-10-01 | 240 | 82 | 
+| 2022-09-30 | 240 | 82 | 
+| 2022-09-29 | 239 | 82 | 
+| 2022-09-28 | 234 | 79 | 
+| 2022-09-27 | 231 | 79 | 
+| 2022-09-26 | 224 | 77 | 
+| 2022-09-25 | 221 | 76 | 
+| 2022-09-24 | 218 | 77 | 
+| 2022-09-23 | 213 | 73 | 
+| 2022-09-22 | 206 | 70 | 
+| 2022-09-21 | 203 | 69 | 
 | 2022-09-20 | 201 | 68 | 
 | 2022-09-19 | 196 | 66 | 
 | 2022-09-18 | 191 | 64 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 156 | 56 | 
 | 2022-09-08 | 152 | 56 | 
 | 2022-09-07 | 145 | 54 | 
-| 2022-09-06 | 144 | 53 | 
-| 2022-09-05 | 137 | 53 | 
-| 2022-09-04 | 127 | 46 | 
-| 2022-09-03 | 124 | 41 | 
-| 2022-09-02 | 121 | 40 | 
-| 2022-09-01 | 113 | 38 | 
-| 2022-08-31 | 105 | 35 | 
-| 2022-08-30 | 97 | 32 | 
-| 2022-08-29 | 91 | 30 | 
-| 2022-08-28 | 78 | 28 | 
-| 2022-08-27 | 71 | 27 | 
-| 2022-08-26 | 60 | 25 | 
-| 2022-08-25 | 56 | 23 | 
-| 2022-08-24 | 48 | 17 | 
-| 2022-08-23 | 44 | 16 | 
-| 2022-08-22 | 41 | 14 | 
-| 2022-08-21 | 33 | 12 | 
 
 
 [Detailed charts & statistics for AnasImloul/Leetcode-Solutions](https://reviewgithub.com/rep/AnasImloul/Leetcode-Solutions)

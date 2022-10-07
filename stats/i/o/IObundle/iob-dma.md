@@ -1,12 +1,12 @@
-# IObundle/iob-dma / stars & forks statistics
-
-[Open repository/IObundle/iob-dma](https://github.com/IObundle/iob-dma)
+# IObundle/iob-dma - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/IObundle/iob-dma)
 
 ## Historical data
 | Date | Stars | Forks |

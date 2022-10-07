@@ -1,16 +1,26 @@
-# srid/haskell-template / stars & forks statistics
-
-[Open repository/srid/haskell-template](https://github.com/srid/haskell-template)
+# srid/haskell-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 100
+★ Stars: 102
+
+[Open repository](https://github.com/srid/haskell-template)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 102 | 12 | 
+| 2022-10-05 | 102 | 12 | 
+| 2022-10-04 | 101 | 12 | 
+| 2022-10-03 | 101 | 12 | 
+| 2022-10-02 | 101 | 12 | 
+| 2022-10-01 | 101 | 12 | 
+| 2022-09-30 | 101 | 12 | 
+| 2022-09-29 | 101 | 12 | 
+| 2022-09-28 | 101 | 12 | 
+| 2022-09-27 | 101 | 12 | 
 | 2022-09-26 | 100 | 11 | 
 | 2022-09-25 | 101 | 11 | 
 | 2022-09-24 | 101 | 11 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 98 | 11 | 
 | 2022-09-09 | 97 | 11 | 
 | 2022-09-08 | 97 | 11 | 
-| 2022-09-07 | 95 | 10 | 
-| 2022-09-06 | 93 | 10 | 
-| 2022-09-05 | 93 | 10 | 
-| 2022-09-04 | 93 | 10 | 
-| 2022-09-03 | 93 | 10 | 
-| 2022-09-02 | 93 | 10 | 
-| 2022-09-01 | 93 | 9 | 
-| 2022-08-31 | 93 | 9 | 
-| 2022-08-30 | 93 | 9 | 
-| 2022-08-29 | 93 | 9 | 
-| 2022-08-28 | 93 | 9 | 
 
 
 [Detailed charts & statistics for srid/haskell-template](https://reviewgithub.com/rep/srid/haskell-template)

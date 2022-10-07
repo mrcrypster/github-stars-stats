@@ -1,16 +1,25 @@
-# apache/hbase-connectors / stars & forks statistics
-
-[Open repository/apache/hbase-connectors](https://github.com/apache/hbase-connectors)
+# apache/hbase-connectors - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 158
 
-★ Stars: 199
+★ Stars: 198
+
+[Open repository](https://github.com/apache/hbase-connectors)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 198 | 158 | 
+| 2022-10-06 | 198 | 158 | 
+| 2022-10-05 | 198 | 158 | 
+| 2022-10-04 | 198 | 158 | 
+| 2022-10-03 | 198 | 158 | 
+| 2022-10-02 | 198 | 158 | 
+| 2022-10-01 | 198 | 158 | 
+| 2022-09-30 | 198 | 158 | 
+| 2022-09-29 | 199 | 158 | 
 | 2022-09-28 | 199 | 158 | 
 | 2022-09-27 | 199 | 157 | 
 | 2022-09-26 | 199 | 157 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 199 | 156 | 
 | 2022-09-08 | 198 | 156 | 
 | 2022-09-07 | 198 | 156 | 
-| 2022-09-06 | 198 | 156 | 
-| 2022-09-05 | 198 | 156 | 
-| 2022-09-04 | 198 | 156 | 
-| 2022-09-03 | 198 | 156 | 
-| 2022-09-02 | 198 | 156 | 
-| 2022-09-01 | 198 | 156 | 
-| 2022-08-31 | 198 | 155 | 
-| 2022-08-30 | 198 | 155 | 
-| 2022-08-29 | 198 | 155 | 
 
 
 [Detailed charts & statistics for apache/hbase-connectors](https://reviewgithub.com/rep/apache/hbase-connectors)

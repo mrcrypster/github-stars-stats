@@ -1,16 +1,24 @@
-# peng1999/PkgDependency.jl / stars & forks statistics
-
-[Open repository/peng1999/PkgDependency.jl](https://github.com/peng1999/PkgDependency.jl)
+# peng1999/PkgDependency.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 58
+★ Stars: 59
+
+[Open repository](https://github.com/peng1999/PkgDependency.jl)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 59 | 1 | 
+| 2022-10-05 | 59 | 1 | 
+| 2022-10-04 | 59 | 1 | 
+| 2022-10-03 | 59 | - | 
+| 2022-10-02 | 59 | - | 
+| 2022-10-01 | 58 | - | 
+| 2022-09-30 | 58 | - | 
+| 2022-09-29 | 58 | - | 
 | 2022-09-28 | 58 | - | 
 | 2022-09-27 | 58 | - | 
 | 2022-09-26 | 58 | - | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 41 | - | 
 | 2022-09-09 | 41 | - | 
 | 2022-09-08 | 41 | - | 
-| 2022-09-07 | 41 | - | 
-| 2022-09-06 | 41 | - | 
-| 2022-09-05 | 41 | - | 
-| 2022-09-04 | 40 | - | 
-| 2022-09-03 | 38 | - | 
-| 2022-09-02 | 38 | - | 
-| 2022-09-01 | 37 | - | 
-| 2022-08-31 | 34 | - | 
-| 2022-08-30 | 34 | - | 
 
 
 [Detailed charts & statistics for peng1999/PkgDependency.jl](https://reviewgithub.com/rep/peng1999/PkgDependency.jl)

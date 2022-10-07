@@ -1,12 +1,12 @@
-# aws-samples/aws-mainframe-modernization-carddemo / stars & forks statistics
-
-[Open repository/aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo)
+# aws-samples/aws-mainframe-modernization-carddemo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 35
+
+[Open repository](https://github.com/aws-samples/aws-mainframe-modernization-carddemo)
 
 ## Historical data
 | Date | Stars | Forks |

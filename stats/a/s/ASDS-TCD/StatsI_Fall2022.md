@@ -1,12 +1,12 @@
-# ASDS-TCD/StatsI_Fall2022 / stars & forks statistics
-
-[Open repository/ASDS-TCD/StatsI_Fall2022](https://github.com/ASDS-TCD/StatsI_Fall2022)
+# ASDS-TCD/StatsI_Fall2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ASDS-TCD/StatsI_Fall2022)
 
 ## Historical data
 | Date | Stars | Forks |

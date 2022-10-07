@@ -1,12 +1,12 @@
-# glowabio/hydrographr / stars & forks statistics
-
-[Open repository/glowabio/hydrographr](https://github.com/glowabio/hydrographr)
+# glowabio/hydrographr - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/glowabio/hydrographr)
 
 ## Historical data
 | Date | Stars | Forks |

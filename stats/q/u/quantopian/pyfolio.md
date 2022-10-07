@@ -1,16 +1,24 @@
-# quantopian/pyfolio / stars & forks statistics
-
-[Open repository/quantopian/pyfolio](https://github.com/quantopian/pyfolio)
+# quantopian/pyfolio - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1479
+☋ Forks: 1481
 
-★ Stars: 4598
+★ Stars: 4609
+
+[Open repository](https://github.com/quantopian/pyfolio)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4609 | 1481 | 
+| 2022-10-05 | 4608 | 1481 | 
+| 2022-10-04 | 4609 | 1481 | 
+| 2022-10-03 | 4608 | 1481 | 
+| 2022-10-02 | 4603 | 1479 | 
+| 2022-10-01 | 4603 | 1479 | 
+| 2022-09-30 | 4599 | 1479 | 
+| 2022-09-29 | 4599 | 1479 | 
 | 2022-09-28 | 4598 | 1479 | 
 | 2022-09-27 | 4595 | 1478 | 
 | 2022-09-26 | 4593 | 1478 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4573 | 1472 | 
 | 2022-09-08 | 4572 | 1472 | 
 | 2022-09-07 | 4571 | 1472 | 
-| 2022-09-06 | 4568 | 1472 | 
-| 2022-09-05 | 4566 | 1472 | 
-| 2022-09-04 | 4565 | 1472 | 
-| 2022-09-03 | 4565 | 1473 | 
-| 2022-09-02 | 4566 | 1473 | 
-| 2022-09-01 | 4564 | 1473 | 
-| 2022-08-31 | 4562 | 1473 | 
-| 2022-08-30 | 4560 | 1473 | 
-| 2022-08-29 | 4559 | 1473 | 
 
 
 [Detailed charts & statistics for quantopian/pyfolio](https://reviewgithub.com/rep/quantopian/pyfolio)

@@ -1,12 +1,12 @@
-# 0xBeans/FontRegistry / stars & forks statistics
-
-[Open repository/0xBeans/FontRegistry](https://github.com/0xBeans/FontRegistry)
+# 0xBeans/FontRegistry - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 22
+
+[Open repository](https://github.com/0xBeans/FontRegistry)
 
 ## Historical data
 | Date | Stars | Forks |

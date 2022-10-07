@@ -1,6 +1,4 @@
-# pages-themes/tactile / stars & forks statistics
-
-[Open repository/pages-themes/tactile](https://github.com/pages-themes/tactile)
+# pages-themes/tactile - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 80
 
+[Open repository](https://github.com/pages-themes/tactile)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 80 | 265 | 
+| 2022-10-06 | 80 | 265 | 
+| 2022-10-05 | 80 | 265 | 
+| 2022-10-04 | 80 | 265 | 
+| 2022-10-02 | 80 | 264 | 
+| 2022-10-01 | 80 | 264 | 
+| 2022-09-30 | 80 | 264 | 
+| 2022-09-29 | 80 | 265 | 
 | 2022-09-28 | 80 | 265 | 
 | 2022-09-27 | 80 | 265 | 
 | 2022-09-26 | 80 | 265 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 80 | 261 | 
 | 2022-09-08 | 80 | 261 | 
 | 2022-09-07 | 79 | 260 | 
-| 2022-09-06 | 79 | 260 | 
-| 2022-09-05 | 79 | 260 | 
-| 2022-09-04 | 79 | 260 | 
-| 2022-09-03 | 79 | 260 | 
-| 2022-09-02 | 79 | 261 | 
-| 2022-09-01 | 79 | 261 | 
-| 2022-08-31 | 78 | 261 | 
-| 2022-08-30 | 78 | 261 | 
 
 
 [Detailed charts & statistics for pages-themes/tactile](https://reviewgithub.com/rep/pages-themes/tactile)

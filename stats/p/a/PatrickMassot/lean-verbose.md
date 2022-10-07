@@ -1,6 +1,4 @@
-# PatrickMassot/lean-verbose / stars & forks statistics
-
-[Open repository/PatrickMassot/lean-verbose](https://github.com/PatrickMassot/lean-verbose)
+# PatrickMassot/lean-verbose - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 48
 
+[Open repository](https://github.com/PatrickMassot/lean-verbose)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 48 | 1 | 
 | 2022-10-05 | 48 | 1 | 
 | 2022-10-04 | 48 | 1 | 
 | 2022-10-03 | 48 | 1 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 48 | 1 | 
 | 2022-09-09 | 48 | 1 | 
 | 2022-09-08 | 48 | 1 | 
-| 2022-09-07 | 48 | 1 | 
-| 2022-09-06 | 48 | 1 | 
 
 
 [Detailed charts & statistics for PatrickMassot/lean-verbose](https://reviewgithub.com/rep/PatrickMassot/lean-verbose)

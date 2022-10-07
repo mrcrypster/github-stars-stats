@@ -1,12 +1,12 @@
-# jaw-sh/ruforo / stars & forks statistics
-
-[Open repository/jaw-sh/ruforo](https://github.com/jaw-sh/ruforo)
+# jaw-sh/ruforo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 22
+
+[Open repository](https://github.com/jaw-sh/ruforo)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# KarlisZ/Fighting / stars & forks statistics
-
-[Open repository/KarlisZ/Fighting](https://github.com/KarlisZ/Fighting)
+# KarlisZ/Fighting - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/KarlisZ/Fighting)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# cask/epl / stars & forks statistics
-
-[Open repository/cask/epl](https://github.com/cask/epl)
+# cask/epl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 61
+
+[Open repository](https://github.com/cask/epl)
 
 ## Historical data
 | Date | Stars | Forks |

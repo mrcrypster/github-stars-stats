@@ -1,12 +1,12 @@
-# wolftankk/dWowPatch / stars & forks statistics
-
-[Open repository/wolftankk/dWowPatch](https://github.com/wolftankk/dWowPatch)
+# wolftankk/dWowPatch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/wolftankk/dWowPatch)
 
 ## Historical data
 | Date | Stars | Forks |

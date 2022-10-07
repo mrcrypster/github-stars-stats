@@ -1,12 +1,12 @@
-# monodyle/saigon-coffee / stars & forks statistics
-
-[Open repository/monodyle/saigon-coffee](https://github.com/monodyle/saigon-coffee)
+# monodyle/saigon-coffee - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 19
+
+[Open repository](https://github.com/monodyle/saigon-coffee)
 
 ## Historical data
 | Date | Stars | Forks |

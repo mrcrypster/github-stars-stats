@@ -1,12 +1,12 @@
-# alvareztech/InventariosInformatica / stars & forks statistics
-
-[Open repository/alvareztech/InventariosInformatica](https://github.com/alvareztech/InventariosInformatica)
+# alvareztech/InventariosInformatica - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/alvareztech/InventariosInformatica)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# lynqme/FlappySubShellHacks / stars & forks statistics
-
-[Open repository/lynqme/FlappySubShellHacks](https://github.com/lynqme/FlappySubShellHacks)
+# lynqme/FlappySubShellHacks - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/lynqme/FlappySubShellHacks)
 
 ## Historical data
 | Date | Stars | Forks |

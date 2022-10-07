@@ -1,12 +1,12 @@
-# emacs-straight/org-mode / stars & forks statistics
-
-[Open repository/emacs-straight/org-mode](https://github.com/emacs-straight/org-mode)
+# emacs-straight/org-mode - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 17
+
+[Open repository](https://github.com/emacs-straight/org-mode)
 
 ## Historical data
 | Date | Stars | Forks |

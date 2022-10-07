@@ -1,12 +1,12 @@
-# pliugithub/MachineLearning / stars & forks statistics
-
-[Open repository/pliugithub/MachineLearning](https://github.com/pliugithub/MachineLearning)
+# pliugithub/MachineLearning - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 98
 
 ★ Stars: 76
+
+[Open repository](https://github.com/pliugithub/MachineLearning)
 
 ## Historical data
 | Date | Stars | Forks |

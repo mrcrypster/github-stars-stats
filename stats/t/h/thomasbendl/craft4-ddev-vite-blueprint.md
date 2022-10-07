@@ -1,12 +1,12 @@
-# thomasbendl/craft4-ddev-vite-blueprint / stars & forks statistics
-
-[Open repository/thomasbendl/craft4-ddev-vite-blueprint](https://github.com/thomasbendl/craft4-ddev-vite-blueprint)
+# thomasbendl/craft4-ddev-vite-blueprint - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 13
+
+[Open repository](https://github.com/thomasbendl/craft4-ddev-vite-blueprint)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# VRCreatorAcademy/vr-creator-academy-collab / stars & forks statistics
-
-[Open repository/VRCreatorAcademy/vr-creator-academy-collab](https://github.com/VRCreatorAcademy/vr-creator-academy-collab)
+# VRCreatorAcademy/vr-creator-academy-collab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 11
+
+[Open repository](https://github.com/VRCreatorAcademy/vr-creator-academy-collab)
 
 ## Historical data
 | Date | Stars | Forks |

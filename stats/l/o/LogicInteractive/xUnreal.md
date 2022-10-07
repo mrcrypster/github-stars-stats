@@ -1,12 +1,12 @@
-# LogicInteractive/xUnreal / stars & forks statistics
-
-[Open repository/LogicInteractive/xUnreal](https://github.com/LogicInteractive/xUnreal)
+# LogicInteractive/xUnreal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 12
+
+[Open repository](https://github.com/LogicInteractive/xUnreal)
 
 ## Historical data
 | Date | Stars | Forks |

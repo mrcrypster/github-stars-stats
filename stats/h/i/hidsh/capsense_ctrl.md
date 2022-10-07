@@ -1,12 +1,12 @@
-# hidsh/capsense_ctrl / stars & forks statistics
-
-[Open repository/hidsh/capsense_ctrl](https://github.com/hidsh/capsense_ctrl)
+# hidsh/capsense_ctrl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/hidsh/capsense_ctrl)
 
 ## Historical data
 | Date | Stars | Forks |

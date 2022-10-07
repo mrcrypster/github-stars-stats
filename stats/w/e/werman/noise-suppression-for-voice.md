@@ -1,16 +1,25 @@
-# werman/noise-suppression-for-voice / stars & forks statistics
-
-[Open repository/werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice)
+# werman/noise-suppression-for-voice - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 146
+☋ Forks: 148
 
-★ Stars: 2864
+★ Stars: 2885
+
+[Open repository](https://github.com/werman/noise-suppression-for-voice)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2885 | 148 | 
+| 2022-10-05 | 2883 | 147 | 
+| 2022-10-04 | 2879 | 147 | 
+| 2022-10-03 | 2879 | 147 | 
+| 2022-10-02 | 2876 | 147 | 
+| 2022-10-01 | 2873 | 147 | 
+| 2022-09-30 | 2871 | 147 | 
+| 2022-09-29 | 2868 | 146 | 
+| 2022-09-28 | 2867 | 146 | 
 | 2022-09-27 | 2864 | 146 | 
 | 2022-09-26 | 2858 | 146 | 
 | 2022-09-25 | 2853 | 146 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2786 | 143 | 
 | 2022-09-09 | 2783 | 143 | 
 | 2022-09-08 | 2779 | 143 | 
-| 2022-09-07 | 2776 | 143 | 
-| 2022-09-06 | 2771 | 143 | 
-| 2022-09-05 | 2765 | 143 | 
-| 2022-09-04 | 2762 | 143 | 
-| 2022-09-03 | 2760 | 143 | 
-| 2022-09-02 | 2756 | 143 | 
-| 2022-09-01 | 2750 | 143 | 
-| 2022-08-31 | 2744 | 143 | 
-| 2022-08-30 | 2739 | 143 | 
-| 2022-08-29 | 2736 | 143 | 
 
 
 [Detailed charts & statistics for werman/noise-suppression-for-voice](https://reviewgithub.com/rep/werman/noise-suppression-for-voice)

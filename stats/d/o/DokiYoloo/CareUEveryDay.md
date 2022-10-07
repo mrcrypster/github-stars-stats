@@ -1,16 +1,29 @@
-# DokiYoloo/CareUEveryDay / stars & forks statistics
-
-[Open repository/DokiYoloo/CareUEveryDay](https://github.com/DokiYoloo/CareUEveryDay)
+# DokiYoloo/CareUEveryDay - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 129
+☋ Forks: 132
 
-★ Stars: 74
+★ Stars: 76
+
+[Open repository](https://github.com/DokiYoloo/CareUEveryDay)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 76 | 132 | 
+| 2022-10-06 | 76 | 132 | 
+| 2022-10-05 | 76 | 132 | 
+| 2022-10-04 | 74 | 132 | 
+| 2022-10-03 | 74 | 132 | 
+| 2022-10-02 | 74 | 131 | 
+| 2022-10-01 | 75 | 131 | 
+| 2022-09-30 | 75 | 131 | 
+| 2022-09-29 | 75 | 131 | 
+| 2022-09-28 | 75 | 131 | 
+| 2022-09-27 | 75 | 131 | 
+| 2022-09-26 | 74 | 129 | 
+| 2022-09-25 | 74 | 129 | 
 | 2022-09-24 | 74 | 129 | 
 | 2022-09-23 | 74 | 129 | 
 | 2022-09-22 | 72 | 129 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 70 | 124 | 
 | 2022-09-08 | 70 | 124 | 
 | 2022-09-07 | 70 | 123 | 
-| 2022-09-06 | 70 | 121 | 
-| 2022-09-05 | 70 | 121 | 
-| 2022-09-04 | 69 | 122 | 
-| 2022-09-03 | 69 | 122 | 
-| 2022-09-02 | 69 | 124 | 
-| 2022-09-01 | 69 | 123 | 
-| 2022-08-31 | 69 | 118 | 
-| 2022-08-30 | 67 | 118 | 
-| 2022-08-29 | 65 | 115 | 
-| 2022-08-28 | 61 | 113 | 
-| 2022-08-27 | 59 | 109 | 
-| 2022-08-26 | 53 | 102 | 
-| 2022-08-25 | 51 | 99 | 
 
 
 [Detailed charts & statistics for DokiYoloo/CareUEveryDay](https://reviewgithub.com/rep/DokiYoloo/CareUEveryDay)

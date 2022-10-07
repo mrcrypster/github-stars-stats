@@ -1,12 +1,12 @@
-# apache/iceberg-docs / stars & forks statistics
-
-[Open repository/apache/iceberg-docs](https://github.com/apache/iceberg-docs)
+# apache/iceberg-docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 26
+
+[Open repository](https://github.com/apache/iceberg-docs)
 
 ## Historical data
 | Date | Stars | Forks |

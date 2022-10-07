@@ -1,12 +1,12 @@
-# atlas-engineer/njson / stars & forks statistics
-
-[Open repository/atlas-engineer/njson](https://github.com/atlas-engineer/njson)
+# atlas-engineer/njson - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/atlas-engineer/njson)
 
 ## Historical data
 | Date | Stars | Forks |

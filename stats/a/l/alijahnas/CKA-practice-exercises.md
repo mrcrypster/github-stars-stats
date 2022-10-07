@@ -1,16 +1,32 @@
-# alijahnas/CKA-practice-exercises / stars & forks statistics
-
-[Open repository/alijahnas/CKA-practice-exercises](https://github.com/alijahnas/CKA-practice-exercises)
+# alijahnas/CKA-practice-exercises - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 322
+☋ Forks: 329
 
-★ Stars: 631
+★ Stars: 640
+
+[Open repository](https://github.com/alijahnas/CKA-practice-exercises)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 640 | 329 | 
+| 2022-10-05 | 640 | 329 | 
+| 2022-10-04 | 640 | 328 | 
+| 2022-10-03 | 640 | 329 | 
+| 2022-10-02 | 640 | 329 | 
+| 2022-10-01 | 640 | 329 | 
+| 2022-09-30 | 640 | 329 | 
+| 2022-09-29 | 639 | 328 | 
+| 2022-09-28 | 639 | 327 | 
+| 2022-09-27 | 639 | 326 | 
+| 2022-09-26 | 639 | 324 | 
+| 2022-09-25 | 638 | 324 | 
+| 2022-09-24 | 636 | 324 | 
+| 2022-09-23 | 636 | 323 | 
+| 2022-09-22 | 635 | 323 | 
+| 2022-09-21 | 634 | 323 | 
 | 2022-09-20 | 631 | 322 | 
 | 2022-09-19 | 632 | 322 | 
 | 2022-09-18 | 632 | 321 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 623 | 317 | 
 | 2022-09-08 | 622 | 316 | 
 | 2022-09-07 | 622 | 316 | 
-| 2022-09-06 | 621 | 316 | 
-| 2022-09-05 | 621 | 317 | 
-| 2022-09-04 | 621 | 316 | 
-| 2022-09-03 | 620 | 316 | 
-| 2022-09-02 | 620 | 315 | 
-| 2022-09-01 | 620 | 315 | 
-| 2022-08-31 | 619 | 315 | 
-| 2022-08-30 | 618 | 315 | 
-| 2022-08-29 | 618 | 315 | 
-| 2022-08-28 | 617 | 313 | 
-| 2022-08-27 | 617 | 312 | 
-| 2022-08-26 | 615 | 311 | 
-| 2022-08-25 | 615 | 311 | 
-| 2022-08-24 | 614 | 311 | 
-| 2022-08-23 | 614 | 310 | 
-| 2022-08-22 | 614 | 310 | 
 
 
 [Detailed charts & statistics for alijahnas/CKA-practice-exercises](https://reviewgithub.com/rep/alijahnas/CKA-practice-exercises)

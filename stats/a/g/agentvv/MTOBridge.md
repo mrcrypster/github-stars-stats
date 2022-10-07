@@ -1,12 +1,12 @@
-# agentvv/MTOBridge / stars & forks statistics
-
-[Open repository/agentvv/MTOBridge](https://github.com/agentvv/MTOBridge)
+# agentvv/MTOBridge - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/agentvv/MTOBridge)
 
 ## Historical data
 | Date | Stars | Forks |

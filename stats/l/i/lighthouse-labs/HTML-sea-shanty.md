@@ -1,12 +1,12 @@
-# lighthouse-labs/HTML-sea-shanty / stars & forks statistics
-
-[Open repository/lighthouse-labs/HTML-sea-shanty](https://github.com/lighthouse-labs/HTML-sea-shanty)
+# lighthouse-labs/HTML-sea-shanty - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 56
 
 ★ Stars: 0
+
+[Open repository](https://github.com/lighthouse-labs/HTML-sea-shanty)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# chipsalliance/rocket-chip-inclusive-cache / stars & forks statistics
-
-[Open repository/chipsalliance/rocket-chip-inclusive-cache](https://github.com/chipsalliance/rocket-chip-inclusive-cache)
+# chipsalliance/rocket-chip-inclusive-cache - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
+
+[Open repository](https://github.com/chipsalliance/rocket-chip-inclusive-cache)
 
 ## Historical data
 | Date | Stars | Forks |

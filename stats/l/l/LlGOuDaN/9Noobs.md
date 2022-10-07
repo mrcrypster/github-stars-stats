@@ -1,12 +1,12 @@
-# LlGOuDaN/9Noobs / stars & forks statistics
-
-[Open repository/LlGOuDaN/9Noobs](https://github.com/LlGOuDaN/9Noobs)
+# LlGOuDaN/9Noobs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/LlGOuDaN/9Noobs)
 
 ## Historical data
 | Date | Stars | Forks |

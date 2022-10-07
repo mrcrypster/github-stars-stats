@@ -1,12 +1,12 @@
-# opa334/IGSideloadFix / stars & forks statistics
-
-[Open repository/opa334/IGSideloadFix](https://github.com/opa334/IGSideloadFix)
+# opa334/IGSideloadFix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 44
+
+[Open repository](https://github.com/opa334/IGSideloadFix)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,29 @@
-# AdrienTorris/awesome-blazor / stars & forks statistics
-
-[Open repository/AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
+# AdrienTorris/awesome-blazor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 836
+☋ Forks: 839
 
-★ Stars: 7028
+★ Stars: 7060
+
+[Open repository](https://github.com/AdrienTorris/awesome-blazor)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 7060 | 839 | 
+| 2022-10-06 | 7057 | 838 | 
+| 2022-10-05 | 7056 | 838 | 
+| 2022-10-04 | 7052 | 837 | 
+| 2022-10-03 | 7048 | 836 | 
+| 2022-10-02 | 7048 | 836 | 
+| 2022-10-01 | 7043 | 837 | 
+| 2022-09-30 | 7040 | 837 | 
+| 2022-09-29 | 7039 | 837 | 
+| 2022-09-28 | 7034 | 837 | 
+| 2022-09-27 | 7031 | 838 | 
+| 2022-09-26 | 7029 | 838 | 
+| 2022-09-25 | 7028 | 836 | 
 | 2022-09-24 | 7028 | 836 | 
 | 2022-09-23 | 7026 | 835 | 
 | 2022-09-21 | 7022 | 835 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 6993 | 827 | 
 | 2022-09-08 | 6992 | 827 | 
 | 2022-09-07 | 6989 | 828 | 
-| 2022-09-06 | 6982 | 828 | 
-| 2022-09-05 | 6977 | 828 | 
-| 2022-09-04 | 6970 | 829 | 
-| 2022-09-03 | 6968 | 829 | 
-| 2022-09-02 | 6965 | 828 | 
-| 2022-09-01 | 6954 | 827 | 
-| 2022-08-31 | 6946 | 827 | 
-| 2022-08-30 | 6944 | 827 | 
-| 2022-08-29 | 6943 | 826 | 
-| 2022-08-28 | 6942 | 825 | 
-| 2022-08-27 | 6941 | 824 | 
-| 2022-08-26 | 6937 | 823 | 
-| 2022-08-25 | 6935 | 823 | 
 
 
 [Detailed charts & statistics for AdrienTorris/awesome-blazor](https://reviewgithub.com/rep/AdrienTorris/awesome-blazor)

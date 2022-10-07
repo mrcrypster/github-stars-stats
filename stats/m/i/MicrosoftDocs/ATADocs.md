@@ -1,6 +1,4 @@
-# MicrosoftDocs/ATADocs / stars & forks statistics
-
-[Open repository/MicrosoftDocs/ATADocs](https://github.com/MicrosoftDocs/ATADocs)
+# MicrosoftDocs/ATADocs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 53
 
+[Open repository](https://github.com/MicrosoftDocs/ATADocs)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 53 | 88 | 
+| 2022-10-06 | 53 | 88 | 
+| 2022-10-05 | 53 | 88 | 
+| 2022-10-04 | 53 | 88 | 
+| 2022-10-03 | 53 | 88 | 
+| 2022-10-02 | 53 | 88 | 
+| 2022-10-01 | 53 | 88 | 
+| 2022-09-30 | 53 | 88 | 
+| 2022-09-29 | 53 | 88 | 
 | 2022-09-28 | 53 | 88 | 
 | 2022-09-27 | 53 | 88 | 
 | 2022-09-26 | 53 | 88 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 53 | 88 | 
 | 2022-09-08 | 53 | 88 | 
 | 2022-09-07 | 53 | 88 | 
-| 2022-09-06 | 53 | 88 | 
-| 2022-09-05 | 53 | 88 | 
-| 2022-09-04 | 53 | 88 | 
-| 2022-09-03 | 53 | 88 | 
-| 2022-09-02 | 53 | 88 | 
-| 2022-09-01 | 53 | 88 | 
-| 2022-08-31 | 53 | 88 | 
-| 2022-08-30 | 53 | 88 | 
-| 2022-08-29 | 53 | 88 | 
 
 
 [Detailed charts & statistics for MicrosoftDocs/ATADocs](https://reviewgithub.com/rep/MicrosoftDocs/ATADocs)

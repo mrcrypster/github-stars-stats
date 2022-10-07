@@ -1,6 +1,4 @@
-# laytan/cloak.nvim / stars & forks statistics
-
-[Open repository/laytan/cloak.nvim](https://github.com/laytan/cloak.nvim)
+# laytan/cloak.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 97
 
+[Open repository](https://github.com/laytan/cloak.nvim)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 97 | 1 | 
+| 2022-10-05 | 97 | 1 | 
+| 2022-10-04 | 97 | 1 | 
+| 2022-10-03 | 97 | 1 | 
+| 2022-10-02 | 97 | 1 | 
+| 2022-10-01 | 97 | 1 | 
 | 2022-09-30 | 97 | 1 | 
 | 2022-09-29 | 97 | 1 | 
 | 2022-09-28 | 97 | 1 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 93 | 1 | 
 | 2022-09-09 | 92 | 1 | 
 | 2022-09-08 | 92 | 1 | 
-| 2022-09-07 | 91 | 1 | 
-| 2022-09-06 | 90 | 1 | 
-| 2022-09-05 | 89 | 1 | 
-| 2022-09-04 | 88 | 1 | 
-| 2022-09-03 | 88 | 1 | 
-| 2022-09-02 | 84 | - | 
-| 2022-09-01 | 84 | - | 
 
 
 [Detailed charts & statistics for laytan/cloak.nvim](https://reviewgithub.com/rep/laytan/cloak.nvim)

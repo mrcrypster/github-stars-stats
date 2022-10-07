@@ -1,16 +1,28 @@
-# daem0nc0re/TangledWinExec / stars & forks statistics
-
-[Open repository/daem0nc0re/TangledWinExec](https://github.com/daem0nc0re/TangledWinExec)
+# daem0nc0re/TangledWinExec - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 43
+☋ Forks: 52
 
-★ Stars: 265
+★ Stars: 319
+
+[Open repository](https://github.com/daem0nc0re/TangledWinExec)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 319 | 52 | 
+| 2022-10-05 | 319 | 52 | 
+| 2022-10-04 | 316 | 52 | 
+| 2022-10-03 | 313 | 52 | 
+| 2022-10-02 | 311 | 52 | 
+| 2022-10-01 | 310 | 52 | 
+| 2022-09-30 | 310 | 52 | 
+| 2022-09-29 | 303 | 51 | 
+| 2022-09-28 | 298 | 50 | 
+| 2022-09-27 | 296 | 49 | 
+| 2022-09-26 | 271 | 43 | 
+| 2022-09-25 | 265 | 43 | 
 | 2022-09-24 | 265 | 43 | 
 | 2022-09-23 | 263 | 42 | 
 | 2022-09-22 | 260 | 41 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 138 | 19 | 
 | 2022-09-08 | 138 | 19 | 
 | 2022-09-07 | 135 | 19 | 
-| 2022-09-06 | 129 | 19 | 
-| 2022-09-05 | 98 | 17 | 
-| 2022-09-04 | 93 | 17 | 
-| 2022-09-03 | 93 | 17 | 
-| 2022-09-02 | 93 | 17 | 
-| 2022-09-01 | 91 | 16 | 
-| 2022-08-31 | 91 | 16 | 
-| 2022-08-30 | 89 | 15 | 
-| 2022-08-29 | 89 | 15 | 
-| 2022-08-28 | 81 | 14 | 
-| 2022-08-27 | 80 | 14 | 
-| 2022-08-26 | 78 | 14 | 
-| 2022-08-25 | 76 | 12 | 
 
 
 [Detailed charts & statistics for daem0nc0re/TangledWinExec](https://reviewgithub.com/rep/daem0nc0re/TangledWinExec)

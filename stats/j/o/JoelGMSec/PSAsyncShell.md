@@ -1,12 +1,12 @@
-# JoelGMSec/PSAsyncShell / stars & forks statistics
-
-[Open repository/JoelGMSec/PSAsyncShell](https://github.com/JoelGMSec/PSAsyncShell)
+# JoelGMSec/PSAsyncShell - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 94
+
+[Open repository](https://github.com/JoelGMSec/PSAsyncShell)
 
 ## Historical data
 | Date | Stars | Forks |

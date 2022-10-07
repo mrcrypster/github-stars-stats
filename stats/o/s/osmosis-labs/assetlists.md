@@ -1,12 +1,12 @@
-# osmosis-labs/assetlists / stars & forks statistics
-
-[Open repository/osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists)
+# osmosis-labs/assetlists - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 99
 
 ★ Stars: 43
+
+[Open repository](https://github.com/osmosis-labs/assetlists)
 
 ## Historical data
 | Date | Stars | Forks |

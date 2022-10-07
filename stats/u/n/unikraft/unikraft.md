@@ -1,16 +1,24 @@
-# unikraft/unikraft / stars & forks statistics
-
-[Open repository/unikraft/unikraft](https://github.com/unikraft/unikraft)
+# unikraft/unikraft - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 624
 
-★ Stars: 1023
+★ Stars: 1035
+
+[Open repository](https://github.com/unikraft/unikraft)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1035 | 624 | 
+| 2022-10-05 | 1034 | 624 | 
+| 2022-10-04 | 1030 | 624 | 
+| 2022-10-03 | 1030 | 624 | 
+| 2022-10-02 | 1028 | 624 | 
+| 2022-10-01 | 1027 | 623 | 
+| 2022-09-30 | 1025 | 623 | 
+| 2022-09-29 | 1024 | 623 | 
 | 2022-09-28 | 1023 | 624 | 
 | 2022-09-27 | 1019 | 623 | 
 | 2022-09-26 | 1018 | 623 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 932 | 623 | 
 | 2022-09-09 | 933 | 621 | 
 | 2022-09-08 | 931 | 621 | 
-| 2022-09-07 | 930 | 620 | 
-| 2022-09-06 | 929 | 621 | 
-| 2022-09-05 | 929 | 621 | 
-| 2022-09-04 | 929 | 621 | 
-| 2022-09-03 | 929 | 621 | 
-| 2022-09-02 | 929 | 621 | 
-| 2022-09-01 | 928 | 621 | 
-| 2022-08-31 | 927 | 622 | 
-| 2022-08-30 | 920 | 622 | 
 
 
 [Detailed charts & statistics for unikraft/unikraft](https://reviewgithub.com/rep/unikraft/unikraft)

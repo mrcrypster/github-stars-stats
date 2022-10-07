@@ -1,6 +1,4 @@
-# subham2728/Bypass-Idle-Detection / stars & forks statistics
-
-[Open repository/subham2728/Bypass-Idle-Detection](https://github.com/subham2728/Bypass-Idle-Detection)
+# subham2728/Bypass-Idle-Detection - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 13
 
+[Open repository](https://github.com/subham2728/Bypass-Idle-Detection)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13 | - | 
+| 2022-10-06 | 13 | - | 
+| 2022-10-05 | 13 | - | 
+| 2022-10-04 | 13 | - | 
+| 2022-10-03 | 13 | - | 
+| 2022-10-02 | 13 | - | 
+| 2022-10-01 | 13 | - | 
+| 2022-09-30 | 13 | - | 
+| 2022-09-29 | 13 | - | 
+| 2022-09-28 | 13 | - | 
+| 2022-09-27 | 13 | - | 
 | 2022-09-26 | 13 | - | 
 | 2022-09-25 | 13 | - | 
 | 2022-09-24 | 13 | - | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 11 | - | 
 | 2022-09-08 | 11 | - | 
 | 2022-09-07 | 11 | - | 
-| 2022-09-06 | 11 | - | 
-| 2022-09-05 | 11 | - | 
-| 2022-09-04 | 11 | - | 
-| 2022-09-03 | 11 | - | 
-| 2022-09-02 | 11 | - | 
-| 2022-09-01 | 11 | - | 
-| 2022-08-31 | 11 | - | 
-| 2022-08-30 | 11 | - | 
-| 2022-08-29 | 11 | - | 
-| 2022-08-28 | 11 | - | 
-| 2022-08-27 | 11 | - | 
 
 
 [Detailed charts & statistics for subham2728/Bypass-Idle-Detection](https://reviewgithub.com/rep/subham2728/Bypass-Idle-Detection)

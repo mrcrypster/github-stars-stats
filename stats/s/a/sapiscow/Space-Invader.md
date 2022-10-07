@@ -1,6 +1,4 @@
-# sapiscow/Space-Invader / stars & forks statistics
-
-[Open repository/sapiscow/Space-Invader](https://github.com/sapiscow/Space-Invader)
+# sapiscow/Space-Invader - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,28 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/sapiscow/Space-Invader)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | 20 | 
+| 2022-10-06 | 1 | 20 | 
+| 2022-10-05 | 1 | 20 | 
+| 2022-10-04 | 1 | 20 | 
+| 2022-10-03 | 1 | 20 | 
+| 2022-10-02 | 1 | 20 | 
+| 2022-10-01 | 1 | 20 | 
+| 2022-09-30 | 1 | 20 | 
+| 2022-09-29 | 1 | 20 | 
+| 2022-09-28 | 1 | 20 | 
+| 2022-09-27 | 1 | 20 | 
+| 2022-09-26 | 1 | 20 | 
+| 2022-09-25 | 1 | 20 | 
+| 2022-09-24 | 1 | 20 | 
+| 2022-09-23 | 1 | 20 | 
+| 2022-09-22 | 1 | 20 | 
+| 2022-09-21 | 1 | 20 | 
 | 2022-09-20 | 1 | 20 | 
 | 2022-09-19 | 1 | 20 | 
 | 2022-09-17 | 1 | 20 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1 | 20 | 
 | 2022-09-08 | 1 | 20 | 
 | 2022-09-07 | 1 | 20 | 
-| 2022-09-06 | 1 | 20 | 
-| 2022-09-05 | 1 | 20 | 
-| 2022-09-04 | 1 | 20 | 
-| 2022-09-03 | 1 | 20 | 
-| 2022-09-02 | 1 | 20 | 
-| 2022-09-01 | 1 | 20 | 
-| 2022-08-31 | 1 | 20 | 
-| 2022-08-30 | 1 | 20 | 
-| 2022-08-29 | 1 | 20 | 
-| 2022-08-28 | 1 | 20 | 
-| 2022-08-27 | 1 | 20 | 
-| 2022-08-26 | 1 | 20 | 
-| 2022-08-25 | 1 | 20 | 
-| 2022-08-24 | 1 | 7 | 
-| 2022-08-23 | 1 | 7 | 
-| 2022-08-22 | 1 | 7 | 
-| 2022-08-21 | 1 | 7 | 
 
 
 [Detailed charts & statistics for sapiscow/Space-Invader](https://reviewgithub.com/rep/sapiscow/Space-Invader)

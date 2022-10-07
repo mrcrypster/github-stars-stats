@@ -1,12 +1,12 @@
-# NRC-Lund/ct-tools / stars & forks statistics
-
-[Open repository/NRC-Lund/ct-tools](https://github.com/NRC-Lund/ct-tools)
+# NRC-Lund/ct-tools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/NRC-Lund/ct-tools)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,30 @@
-# arpitbansal297/Cold-Diffusion-Models / stars & forks statistics
-
-[Open repository/arpitbansal297/Cold-Diffusion-Models](https://github.com/arpitbansal297/Cold-Diffusion-Models)
+# arpitbansal297/Cold-Diffusion-Models - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 35
+☋ Forks: 38
 
-★ Stars: 496
+★ Stars: 527
+
+[Open repository](https://github.com/arpitbansal297/Cold-Diffusion-Models)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 527 | 38 | 
+| 2022-10-06 | 526 | 38 | 
+| 2022-10-05 | 524 | 37 | 
+| 2022-10-04 | 520 | 37 | 
+| 2022-10-03 | 519 | 37 | 
+| 2022-10-02 | 516 | 37 | 
+| 2022-10-01 | 514 | 37 | 
+| 2022-09-30 | 512 | 37 | 
+| 2022-09-29 | 511 | 37 | 
+| 2022-09-28 | 509 | 36 | 
+| 2022-09-27 | 508 | 36 | 
+| 2022-09-26 | 503 | 36 | 
+| 2022-09-25 | 500 | 36 | 
+| 2022-09-24 | 499 | 35 | 
 | 2022-09-23 | 496 | 35 | 
 | 2022-09-22 | 495 | 35 | 
 | 2022-09-21 | 490 | 33 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 423 | 28 | 
 | 2022-09-08 | 418 | 26 | 
 | 2022-09-07 | 412 | 26 | 
-| 2022-09-06 | 403 | 24 | 
-| 2022-09-05 | 390 | 24 | 
-| 2022-09-04 | 377 | 24 | 
-| 2022-09-03 | 373 | 23 | 
-| 2022-09-02 | 370 | 22 | 
-| 2022-09-01 | 363 | 20 | 
-| 2022-08-31 | 355 | 21 | 
-| 2022-08-30 | 338 | 21 | 
-| 2022-08-29 | 326 | 20 | 
-| 2022-08-28 | 317 | 19 | 
-| 2022-08-27 | 307 | 19 | 
-| 2022-08-26 | 288 | 17 | 
-| 2022-08-25 | 243 | 15 | 
-| 2022-08-24 | 217 | 14 | 
 
 
 [Detailed charts & statistics for arpitbansal297/Cold-Diffusion-Models](https://reviewgithub.com/rep/arpitbansal297/Cold-Diffusion-Models)

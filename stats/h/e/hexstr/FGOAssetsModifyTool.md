@@ -1,16 +1,27 @@
-# hexstr/FGOAssetsModifyTool / stars & forks statistics
-
-[Open repository/hexstr/FGOAssetsModifyTool](https://github.com/hexstr/FGOAssetsModifyTool)
+# hexstr/FGOAssetsModifyTool - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 53
+☋ Forks: 55
 
-★ Stars: 353
+★ Stars: 362
+
+[Open repository](https://github.com/hexstr/FGOAssetsModifyTool)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 362 | 55 | 
+| 2022-10-06 | 361 | 55 | 
+| 2022-10-05 | 359 | 55 | 
+| 2022-10-04 | 359 | 55 | 
+| 2022-10-03 | 359 | 55 | 
+| 2022-10-02 | 358 | 55 | 
+| 2022-10-01 | 356 | 54 | 
+| 2022-09-30 | 355 | 54 | 
+| 2022-09-29 | 355 | 54 | 
+| 2022-09-28 | 354 | 53 | 
+| 2022-09-27 | 354 | 53 | 
 | 2022-09-26 | 353 | 53 | 
 | 2022-09-25 | 353 | 53 | 
 | 2022-09-23 | 352 | 53 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 338 | 51 | 
 | 2022-09-08 | 336 | 51 | 
 | 2022-09-07 | 335 | 51 | 
-| 2022-09-06 | 334 | 51 | 
-| 2022-09-05 | 333 | 51 | 
-| 2022-09-04 | 332 | 51 | 
-| 2022-09-03 | 325 | 51 | 
-| 2022-09-02 | 321 | 51 | 
-| 2022-09-01 | 319 | 51 | 
-| 2022-08-31 | 312 | 50 | 
-| 2022-08-30 | 306 | 51 | 
-| 2022-08-29 | 302 | 51 | 
-| 2022-08-28 | 295 | 49 | 
-| 2022-08-27 | 276 | 49 | 
 
 
 [Detailed charts & statistics for hexstr/FGOAssetsModifyTool](https://reviewgithub.com/rep/hexstr/FGOAssetsModifyTool)

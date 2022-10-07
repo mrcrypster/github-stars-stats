@@ -1,12 +1,12 @@
-# findmypast/rabbit-common / stars & forks statistics
-
-[Open repository/findmypast/rabbit-common](https://github.com/findmypast/rabbit-common)
+# findmypast/rabbit-common - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/findmypast/rabbit-common)
 
 ## Historical data
 | Date | Stars | Forks |

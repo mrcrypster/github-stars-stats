@@ -1,12 +1,12 @@
-# Yuki2718/adblock / stars & forks statistics
-
-[Open repository/Yuki2718/adblock](https://github.com/Yuki2718/adblock)
+# Yuki2718/adblock - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 116
+
+[Open repository](https://github.com/Yuki2718/adblock)
 
 ## Historical data
 | Date | Stars | Forks |

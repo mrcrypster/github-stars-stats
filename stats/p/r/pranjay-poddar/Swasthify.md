@@ -1,12 +1,12 @@
-# pranjay-poddar/Swasthify / stars & forks statistics
-
-[Open repository/pranjay-poddar/Swasthify](https://github.com/pranjay-poddar/Swasthify)
+# pranjay-poddar/Swasthify - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 24
+
+[Open repository](https://github.com/pranjay-poddar/Swasthify)
 
 ## Historical data
 | Date | Stars | Forks |

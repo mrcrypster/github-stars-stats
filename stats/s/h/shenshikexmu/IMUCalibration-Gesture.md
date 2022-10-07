@@ -1,16 +1,22 @@
-# shenshikexmu/IMUCalibration-Gesture / stars & forks statistics
-
-[Open repository/shenshikexmu/IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture)
+# shenshikexmu/IMUCalibration-Gesture - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 231
+☋ Forks: 232
 
 ★ Stars: 556
+
+[Open repository](https://github.com/shenshikexmu/IMUCalibration-Gesture)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 556 | 232 | 
+| 2022-10-05 | 556 | 232 | 
+| 2022-10-04 | 556 | 232 | 
+| 2022-10-03 | 556 | 232 | 
+| 2022-10-02 | 556 | 231 | 
+| 2022-10-01 | 556 | 231 | 
 | 2022-09-30 | 556 | 231 | 
 | 2022-09-29 | 556 | 231 | 
 | 2022-09-28 | 555 | 230 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 549 | 229 | 
 | 2022-09-09 | 549 | 229 | 
 | 2022-09-08 | 548 | 229 | 
-| 2022-09-07 | 548 | 228 | 
-| 2022-09-06 | 548 | 228 | 
-| 2022-09-05 | 548 | 228 | 
-| 2022-09-04 | 548 | 228 | 
-| 2022-09-03 | 548 | 228 | 
-| 2022-09-02 | 548 | 228 | 
-| 2022-09-01 | 547 | 228 | 
 
 
 [Detailed charts & statistics for shenshikexmu/IMUCalibration-Gesture](https://reviewgithub.com/rep/shenshikexmu/IMUCalibration-Gesture)

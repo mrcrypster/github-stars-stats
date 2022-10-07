@@ -1,12 +1,12 @@
-# rsksmart/tokenbridge / stars & forks statistics
-
-[Open repository/rsksmart/tokenbridge](https://github.com/rsksmart/tokenbridge)
+# rsksmart/tokenbridge - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 53
 
 ★ Stars: 83
+
+[Open repository](https://github.com/rsksmart/tokenbridge)
 
 ## Historical data
 | Date | Stars | Forks |

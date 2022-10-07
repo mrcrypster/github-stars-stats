@@ -1,16 +1,20 @@
-# liquidx/CoreBluetoothPeripheral / stars & forks statistics
-
-[Open repository/liquidx/CoreBluetoothPeripheral](https://github.com/liquidx/CoreBluetoothPeripheral)
+# liquidx/CoreBluetoothPeripheral - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 87
 
-★ Stars: 385
+★ Stars: 384
+
+[Open repository](https://github.com/liquidx/CoreBluetoothPeripheral)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 384 | 87 | 
+| 2022-10-05 | 384 | 87 | 
+| 2022-10-04 | 384 | 87 | 
+| 2022-10-03 | 385 | 87 | 
 | 2022-10-02 | 385 | 87 | 
 | 2022-10-01 | 385 | 87 | 
 | 2022-09-30 | 385 | 87 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 385 | 87 | 
 | 2022-09-09 | 384 | 87 | 
 | 2022-09-08 | 384 | 87 | 
-| 2022-09-07 | 384 | 87 | 
-| 2022-09-06 | 384 | 87 | 
-| 2022-09-05 | 384 | 87 | 
-| 2022-09-04 | 384 | 87 | 
-| 2022-09-03 | 384 | 87 | 
 
 
 [Detailed charts & statistics for liquidx/CoreBluetoothPeripheral](https://reviewgithub.com/rep/liquidx/CoreBluetoothPeripheral)

@@ -1,6 +1,4 @@
-# MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP / stars & forks statistics
-
-[Open repository/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP)
+# MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,39 +6,40 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 3 | 3 | 
-| 2022-07-29 | 3 | 3 | 
-| 2022-07-28 | 3 | 3 | 
-| 2022-07-27 | 3 | 3 | 
-| 2022-07-26 | 3 | 3 | 
-| 2022-07-25 | 3 | 3 | 
-| 2022-07-24 | 3 | 3 | 
-| 2022-07-22 | 3 | 3 | 
-| 2022-07-21 | 3 | 3 | 
-| 2022-07-20 | 3 | 3 | 
-| 2022-07-19 | 3 | 3 | 
-| 2022-07-18 | 3 | 3 | 
-| 2022-07-17 | 3 | 3 | 
-| 2022-07-16 | 3 | 3 | 
-| 2022-07-15 | 3 | 3 | 
-| 2022-07-14 | 3 | 3 | 
-| 2022-07-13 | 3 | 3 | 
-| 2022-07-12 | 3 | 3 | 
-| 2022-07-11 | 3 | 3 | 
-| 2022-07-10 | 3 | 3 | 
-| 2022-07-09 | 3 | 3 | 
-| 2022-07-08 | 3 | 3 | 
-| 2022-07-07 | 3 | 3 | 
-| 2022-07-06 | 3 | 3 | 
-| 2022-07-05 | 3 | 3 | 
-| 2022-07-04 | 3 | 3 | 
-| 2022-07-03 | 3 | 3 | 
-| 2022-07-02 | 3 | 3 | 
-| 2022-07-01 | 3 | 3 | 
-| 2022-06-30 | 3 | 3 | 
+| 2022-10-06 | 3 | 3 | 
+| 2022-10-05 | 3 | 3 | 
+| 2022-10-04 | 3 | 3 | 
+| 2022-10-03 | 3 | 3 | 
+| 2022-10-02 | 3 | 3 | 
+| 2022-10-01 | 3 | 3 | 
+| 2022-09-30 | 3 | 3 | 
+| 2022-09-29 | 3 | 3 | 
+| 2022-09-28 | 3 | 3 | 
+| 2022-09-27 | 3 | 3 | 
+| 2022-09-26 | 3 | 3 | 
+| 2022-09-25 | 3 | 3 | 
+| 2022-09-24 | 3 | 3 | 
+| 2022-09-23 | 3 | 3 | 
+| 2022-09-22 | 3 | 3 | 
+| 2022-09-21 | 3 | 3 | 
+| 2022-09-20 | 3 | 3 | 
+| 2022-09-19 | 3 | 3 | 
+| 2022-09-18 | 3 | 3 | 
+| 2022-09-17 | 3 | 3 | 
+| 2022-09-16 | 3 | 3 | 
+| 2022-09-15 | 3 | 3 | 
+| 2022-09-14 | 3 | 3 | 
+| 2022-09-13 | 3 | 3 | 
+| 2022-09-12 | 3 | 3 | 
+| 2022-09-11 | 3 | 3 | 
+| 2022-09-10 | 3 | 3 | 
+| 2022-09-09 | 3 | 3 | 
+| 2022-09-08 | 3 | 3 | 
 
 
 [Detailed charts & statistics for MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP)

@@ -1,12 +1,12 @@
-# ja-netfilter/ja-netfilter / stars & forks statistics
-
-[Open repository/ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)
+# ja-netfilter/ja-netfilter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/ja-netfilter/ja-netfilter)
 
 ## Historical data
 | Date | Stars | Forks |

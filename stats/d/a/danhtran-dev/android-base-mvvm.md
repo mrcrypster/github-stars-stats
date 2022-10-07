@@ -1,12 +1,12 @@
-# danhtran-dev/android-base-mvvm / stars & forks statistics
-
-[Open repository/danhtran-dev/android-base-mvvm](https://github.com/danhtran-dev/android-base-mvvm)
+# danhtran-dev/android-base-mvvm - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 29
+
+[Open repository](https://github.com/danhtran-dev/android-base-mvvm)
 
 ## Historical data
 | Date | Stars | Forks |

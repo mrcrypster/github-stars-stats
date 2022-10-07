@@ -1,12 +1,12 @@
-# soyHenry/Datathon / stars & forks statistics
-
-[Open repository/soyHenry/Datathon](https://github.com/soyHenry/Datathon)
+# soyHenry/Datathon - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 146
 
 ★ Stars: 5
+
+[Open repository](https://github.com/soyHenry/Datathon)
 
 ## Historical data
 | Date | Stars | Forks |

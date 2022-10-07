@@ -1,12 +1,12 @@
-# Ebri/ks_praktikum / stars & forks statistics
-
-[Open repository/Ebri/ks_praktikum](https://github.com/Ebri/ks_praktikum)
+# Ebri/ks_praktikum - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Ebri/ks_praktikum)
 
 ## Historical data
 | Date | Stars | Forks |

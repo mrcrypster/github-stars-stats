@@ -1,12 +1,12 @@
-# rxsweet/getAirport / stars & forks statistics
-
-[Open repository/rxsweet/getAirport](https://github.com/rxsweet/getAirport)
+# rxsweet/getAirport - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 1
+
+[Open repository](https://github.com/rxsweet/getAirport)
 
 ## Historical data
 | Date | Stars | Forks |

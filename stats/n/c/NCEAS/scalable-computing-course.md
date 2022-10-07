@@ -1,12 +1,12 @@
-# NCEAS/scalable-computing-course / stars & forks statistics
-
-[Open repository/NCEAS/scalable-computing-course](https://github.com/NCEAS/scalable-computing-course)
+# NCEAS/scalable-computing-course - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 6
+
+[Open repository](https://github.com/NCEAS/scalable-computing-course)
 
 ## Historical data
 | Date | Stars | Forks |

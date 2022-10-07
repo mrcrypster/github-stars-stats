@@ -1,12 +1,12 @@
-# mparticle-integrations/mparticle-apple-integration-appsflyer / stars & forks statistics
-
-[Open repository/mparticle-integrations/mparticle-apple-integration-appsflyer](https://github.com/mparticle-integrations/mparticle-apple-integration-appsflyer)
+# mparticle-integrations/mparticle-apple-integration-appsflyer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 4
+
+[Open repository](https://github.com/mparticle-integrations/mparticle-apple-integration-appsflyer)
 
 ## Historical data
 | Date | Stars | Forks |

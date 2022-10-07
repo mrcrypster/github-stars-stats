@@ -1,16 +1,26 @@
-# micheleambrosio/semana-frontend-mundo-invertido / stars & forks statistics
-
-[Open repository/micheleambrosio/semana-frontend-mundo-invertido](https://github.com/micheleambrosio/semana-frontend-mundo-invertido)
+# micheleambrosio/semana-frontend-mundo-invertido - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 28
+☋ Forks: 30
 
-★ Stars: 18
+★ Stars: 19
+
+[Open repository](https://github.com/micheleambrosio/semana-frontend-mundo-invertido)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 30 | 
+| 2022-10-06 | 19 | 29 | 
+| 2022-10-05 | 19 | 29 | 
+| 2022-10-04 | 18 | 29 | 
+| 2022-10-03 | 18 | 29 | 
+| 2022-10-02 | 18 | 29 | 
+| 2022-10-01 | 19 | 29 | 
+| 2022-09-30 | 19 | 29 | 
+| 2022-09-29 | 19 | 28 | 
+| 2022-09-28 | 18 | 28 | 
 | 2022-09-27 | 18 | 28 | 
 | 2022-09-26 | 18 | 28 | 
 | 2022-09-25 | 18 | 28 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 16 | 27 | 
 | 2022-09-08 | 16 | 27 | 
 | 2022-09-07 | 16 | 28 | 
-| 2022-09-06 | 16 | 29 | 
-| 2022-09-05 | 16 | 29 | 
-| 2022-09-04 | 16 | 29 | 
-| 2022-09-03 | 16 | 30 | 
-| 2022-09-02 | 16 | 30 | 
-| 2022-09-01 | 16 | 30 | 
-| 2022-08-31 | 16 | 30 | 
-| 2022-08-30 | 16 | 29 | 
-| 2022-08-29 | 16 | 28 | 
-| 2022-08-28 | 16 | 27 | 
 
 
 [Detailed charts & statistics for micheleambrosio/semana-frontend-mundo-invertido](https://reviewgithub.com/rep/micheleambrosio/semana-frontend-mundo-invertido)

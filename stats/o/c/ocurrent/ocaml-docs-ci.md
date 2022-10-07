@@ -1,6 +1,4 @@
-# ocurrent/ocaml-docs-ci / stars & forks statistics
-
-[Open repository/ocurrent/ocaml-docs-ci](https://github.com/ocurrent/ocaml-docs-ci)
+# ocurrent/ocaml-docs-ci - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 15
 
+[Open repository](https://github.com/ocurrent/ocaml-docs-ci)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 15 | 8 | 
 | 2022-10-05 | 15 | 8 | 
 | 2022-10-04 | 15 | 8 | 
 | 2022-10-03 | 15 | 8 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 15 | 8 | 
 | 2022-09-09 | 15 | 8 | 
 | 2022-09-08 | 15 | 8 | 
-| 2022-09-07 | 15 | 8 | 
-| 2022-09-06 | 15 | 8 | 
 
 
 [Detailed charts & statistics for ocurrent/ocaml-docs-ci](https://reviewgithub.com/rep/ocurrent/ocaml-docs-ci)

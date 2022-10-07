@@ -1,16 +1,34 @@
-# Michael-OvO/Burn-Detection-Classification / stars & forks statistics
-
-[Open repository/Michael-OvO/Burn-Detection-Classification](https://github.com/Michael-OvO/Burn-Detection-Classification)
+# Michael-OvO/Burn-Detection-Classification - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 33
+☋ Forks: 38
 
-★ Stars: 133
+★ Stars: 158
+
+[Open repository](https://github.com/Michael-OvO/Burn-Detection-Classification)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 158 | 38 | 
+| 2022-10-05 | 155 | 38 | 
+| 2022-10-04 | 153 | 37 | 
+| 2022-10-03 | 153 | 37 | 
+| 2022-10-02 | 153 | 37 | 
+| 2022-10-01 | 153 | 37 | 
+| 2022-09-30 | 151 | 37 | 
+| 2022-09-29 | 150 | 36 | 
+| 2022-09-28 | 148 | 36 | 
+| 2022-09-27 | 148 | 36 | 
+| 2022-09-26 | 147 | 36 | 
+| 2022-09-25 | 144 | 36 | 
+| 2022-09-24 | 144 | 36 | 
+| 2022-09-23 | 142 | 35 | 
+| 2022-09-22 | 142 | 35 | 
+| 2022-09-21 | 141 | 34 | 
+| 2022-09-20 | 141 | 33 | 
+| 2022-09-19 | 134 | 33 | 
 | 2022-09-18 | 133 | 33 | 
 | 2022-09-17 | 132 | 33 | 
 | 2022-09-16 | 132 | 33 | 
@@ -22,25 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 122 | 32 | 
 | 2022-09-09 | 118 | 32 | 
 | 2022-09-08 | 114 | 32 | 
-| 2022-09-07 | 108 | 32 | 
-| 2022-09-06 | 105 | 32 | 
-| 2022-09-05 | 103 | 32 | 
-| 2022-09-04 | 100 | 30 | 
-| 2022-09-03 | 96 | 28 | 
-| 2022-09-02 | 94 | 27 | 
-| 2022-09-01 | 91 | 27 | 
-| 2022-08-31 | 90 | 26 | 
-| 2022-08-30 | 85 | 24 | 
-| 2022-08-29 | 83 | 24 | 
-| 2022-08-28 | 77 | 22 | 
-| 2022-08-27 | 74 | 22 | 
-| 2022-08-26 | 70 | 22 | 
-| 2022-08-25 | 64 | 20 | 
-| 2022-08-24 | 59 | 16 | 
-| 2022-08-23 | 58 | 15 | 
-| 2022-08-22 | 52 | 13 | 
-| 2022-08-21 | 42 | 12 | 
-| 2022-08-20 | 37 | 10 | 
 
 
 [Detailed charts & statistics for Michael-OvO/Burn-Detection-Classification](https://reviewgithub.com/rep/Michael-OvO/Burn-Detection-Classification)

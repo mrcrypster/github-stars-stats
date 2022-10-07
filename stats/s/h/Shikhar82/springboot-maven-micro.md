@@ -1,12 +1,12 @@
-# Shikhar82/springboot-maven-micro / stars & forks statistics
-
-[Open repository/Shikhar82/springboot-maven-micro](https://github.com/Shikhar82/springboot-maven-micro)
+# Shikhar82/springboot-maven-micro - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Shikhar82/springboot-maven-micro)
 
 ## Historical data
 | Date | Stars | Forks |

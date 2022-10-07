@@ -1,12 +1,12 @@
-# FECrash/TodoMVC / stars & forks statistics
-
-[Open repository/FECrash/TodoMVC](https://github.com/FECrash/TodoMVC)
+# FECrash/TodoMVC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 2
+
+[Open repository](https://github.com/FECrash/TodoMVC)
 
 ## Historical data
 | Date | Stars | Forks |

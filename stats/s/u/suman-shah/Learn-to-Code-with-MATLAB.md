@@ -1,12 +1,12 @@
-# suman-shah/Learn-to-Code-with-MATLAB / stars & forks statistics
-
-[Open repository/suman-shah/Learn-to-Code-with-MATLAB](https://github.com/suman-shah/Learn-to-Code-with-MATLAB)
+# suman-shah/Learn-to-Code-with-MATLAB - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 52
 
 ★ Stars: 50
+
+[Open repository](https://github.com/suman-shah/Learn-to-Code-with-MATLAB)
 
 ## Historical data
 | Date | Stars | Forks |

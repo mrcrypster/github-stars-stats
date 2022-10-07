@@ -1,12 +1,12 @@
-# MAUDigitalContentsExpression/ParticleSampleURP2022 / stars & forks statistics
-
-[Open repository/MAUDigitalContentsExpression/ParticleSampleURP2022](https://github.com/MAUDigitalContentsExpression/ParticleSampleURP2022)
+# MAUDigitalContentsExpression/ParticleSampleURP2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/MAUDigitalContentsExpression/ParticleSampleURP2022)
 
 ## Historical data
 | Date | Stars | Forks |

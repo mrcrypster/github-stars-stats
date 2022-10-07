@@ -1,12 +1,12 @@
-# gtri-iead/org.gtri.util.iteratee / stars & forks statistics
-
-[Open repository/gtri-iead/org.gtri.util.iteratee](https://github.com/gtri-iead/org.gtri.util.iteratee)
+# gtri-iead/org.gtri.util.iteratee - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/gtri-iead/org.gtri.util.iteratee)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# status-im/nim-drchaos / stars & forks statistics
-
-[Open repository/status-im/nim-drchaos](https://github.com/status-im/nim-drchaos)
+# status-im/nim-drchaos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 53
 
+[Open repository](https://github.com/status-im/nim-drchaos)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 53 | 1 | 
+| 2022-10-05 | 53 | 1 | 
+| 2022-10-04 | 53 | 1 | 
+| 2022-10-03 | 53 | 1 | 
+| 2022-10-02 | 53 | 1 | 
+| 2022-10-01 | 53 | 1 | 
+| 2022-09-30 | 53 | 1 | 
+| 2022-09-29 | 53 | 1 | 
+| 2022-09-28 | 53 | 1 | 
 | 2022-09-27 | 53 | 1 | 
 | 2022-09-26 | 53 | 1 | 
 | 2022-09-25 | 53 | 1 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 52 | 1 | 
 | 2022-09-09 | 52 | 1 | 
 | 2022-09-08 | 52 | 1 | 
-| 2022-09-07 | 49 | 1 | 
-| 2022-09-06 | 49 | 1 | 
-| 2022-09-05 | 49 | 1 | 
-| 2022-09-04 | 45 | - | 
-| 2022-09-03 | 43 | - | 
-| 2022-09-02 | 41 | - | 
-| 2022-09-01 | 41 | - | 
-| 2022-08-31 | 41 | - | 
-| 2022-08-30 | 40 | - | 
-| 2022-08-29 | 37 | - | 
 
 
 [Detailed charts & statistics for status-im/nim-drchaos](https://reviewgithub.com/rep/status-im/nim-drchaos)

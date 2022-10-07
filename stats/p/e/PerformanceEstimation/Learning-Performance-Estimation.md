@@ -1,46 +1,46 @@
-# PerformanceEstimation/Learning-Performance-Estimation / stars & forks statistics
-
-[Open repository/PerformanceEstimation/Learning-Performance-Estimation](https://github.com/PerformanceEstimation/Learning-Performance-Estimation)
+# PerformanceEstimation/Learning-Performance-Estimation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 10
+
+[Open repository](https://github.com/PerformanceEstimation/Learning-Performance-Estimation)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-02 | 11 | 1 | 
-| 2022-09-01 | 11 | 1 | 
-| 2022-08-31 | 11 | 1 | 
-| 2022-08-30 | 11 | 1 | 
-| 2022-08-29 | 11 | 1 | 
-| 2022-08-28 | 11 | 1 | 
-| 2022-08-27 | 11 | 1 | 
-| 2022-08-26 | 11 | 1 | 
-| 2022-08-25 | 11 | 1 | 
-| 2022-08-24 | 11 | 1 | 
-| 2022-08-23 | 11 | 1 | 
-| 2022-08-22 | 11 | 1 | 
-| 2022-08-21 | 11 | 1 | 
-| 2022-08-20 | 11 | 1 | 
-| 2022-08-19 | 11 | 1 | 
-| 2022-08-18 | 11 | 1 | 
-| 2022-08-17 | 11 | 1 | 
-| 2022-08-16 | 11 | 1 | 
-| 2022-08-15 | 10 | 1 | 
-| 2022-08-14 | 10 | 1 | 
-| 2022-08-13 | 10 | 1 | 
-| 2022-08-12 | 10 | 1 | 
-| 2022-08-11 | 10 | 1 | 
-| 2022-08-10 | 10 | - | 
-| 2022-08-09 | 10 | - | 
-| 2022-08-08 | 10 | - | 
-| 2022-08-07 | 10 | - | 
-| 2022-08-06 | 10 | - | 
-| 2022-08-05 | 10 | - | 
-| 2022-08-04 | 10 | - | 
+| 2022-10-07 | 10 | 1 | 
+| 2022-10-06 | 10 | 1 | 
+| 2022-10-05 | 10 | 1 | 
+| 2022-10-04 | 10 | 1 | 
+| 2022-10-03 | 10 | 1 | 
+| 2022-10-02 | 10 | 1 | 
+| 2022-10-01 | 10 | 1 | 
+| 2022-09-30 | 10 | 1 | 
+| 2022-09-29 | 10 | 1 | 
+| 2022-09-28 | 10 | 1 | 
+| 2022-09-27 | 10 | 1 | 
+| 2022-09-26 | 10 | 1 | 
+| 2022-09-25 | 10 | 1 | 
+| 2022-09-24 | 10 | 1 | 
+| 2022-09-23 | 10 | 1 | 
+| 2022-09-22 | 10 | 1 | 
+| 2022-09-21 | 10 | 1 | 
+| 2022-09-20 | 11 | 1 | 
+| 2022-09-19 | 11 | 1 | 
+| 2022-09-18 | 11 | 1 | 
+| 2022-09-17 | 11 | 1 | 
+| 2022-09-16 | 11 | 1 | 
+| 2022-09-15 | 11 | 1 | 
+| 2022-09-14 | 11 | 1 | 
+| 2022-09-13 | 11 | 1 | 
+| 2022-09-12 | 11 | 1 | 
+| 2022-09-11 | 11 | 1 | 
+| 2022-09-10 | 11 | 1 | 
+| 2022-09-09 | 11 | 1 | 
+| 2022-09-08 | 11 | 1 | 
 
 
 [Detailed charts & statistics for PerformanceEstimation/Learning-Performance-Estimation](https://reviewgithub.com/rep/PerformanceEstimation/Learning-Performance-Estimation)

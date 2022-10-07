@@ -1,16 +1,21 @@
-# s3fs-fuse/s3fs-fuse / stars & forks statistics
-
-[Open repository/s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)
+# s3fs-fuse/s3fs-fuse - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 895
+☋ Forks: 894
 
-★ Stars: 6476
+★ Stars: 6482
+
+[Open repository](https://github.com/s3fs-fuse/s3fs-fuse)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6482 | 894 | 
+| 2022-10-05 | 6482 | 894 | 
+| 2022-10-04 | 6479 | 894 | 
+| 2022-10-03 | 6478 | 895 | 
+| 2022-10-02 | 6477 | 895 | 
 | 2022-10-01 | 6476 | 895 | 
 | 2022-09-30 | 6475 | 895 | 
 | 2022-09-29 | 6474 | 894 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6411 | 894 | 
 | 2022-09-09 | 6411 | 894 | 
 | 2022-09-08 | 6410 | 894 | 
-| 2022-09-07 | 6407 | 894 | 
-| 2022-09-06 | 6405 | 894 | 
-| 2022-09-05 | 6399 | 894 | 
-| 2022-09-04 | 6399 | 894 | 
-| 2022-09-03 | 6396 | 893 | 
-| 2022-09-02 | 6395 | 892 | 
 
 
 [Detailed charts & statistics for s3fs-fuse/s3fs-fuse](https://reviewgithub.com/rep/s3fs-fuse/s3fs-fuse)

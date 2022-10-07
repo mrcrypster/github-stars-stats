@@ -1,12 +1,12 @@
-# immattdavison/NoMoreDomains / stars & forks statistics
-
-[Open repository/immattdavison/NoMoreDomains](https://github.com/immattdavison/NoMoreDomains)
+# immattdavison/NoMoreDomains - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 36
+
+[Open repository](https://github.com/immattdavison/NoMoreDomains)
 
 ## Historical data
 | Date | Stars | Forks |

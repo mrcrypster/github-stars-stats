@@ -1,12 +1,12 @@
-# azmistudio/simtia / stars & forks statistics
-
-[Open repository/azmistudio/simtia](https://github.com/azmistudio/simtia)
+# azmistudio/simtia - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 6
+
+[Open repository](https://github.com/azmistudio/simtia)
 
 ## Historical data
 | Date | Stars | Forks |

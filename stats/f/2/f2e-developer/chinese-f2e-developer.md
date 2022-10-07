@@ -1,16 +1,31 @@
-# f2e-developer/chinese-f2e-developer / stars & forks statistics
-
-[Open repository/f2e-developer/chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer)
+# f2e-developer/chinese-f2e-developer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 45
+☋ Forks: 44
 
-★ Stars: 713
+★ Stars: 724
+
+[Open repository](https://github.com/f2e-developer/chinese-f2e-developer)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 724 | 44 | 
+| 2022-10-06 | 724 | 44 | 
+| 2022-10-05 | 722 | 44 | 
+| 2022-10-04 | 722 | 44 | 
+| 2022-10-03 | 721 | 44 | 
+| 2022-10-02 | 720 | 44 | 
+| 2022-10-01 | 720 | 44 | 
+| 2022-09-30 | 719 | 44 | 
+| 2022-09-29 | 720 | 44 | 
+| 2022-09-28 | 718 | 44 | 
+| 2022-09-27 | 717 | 44 | 
+| 2022-09-26 | 716 | 45 | 
+| 2022-09-25 | 717 | 45 | 
+| 2022-09-24 | 716 | 45 | 
+| 2022-09-23 | 715 | 45 | 
 | 2022-09-21 | 713 | 45 | 
 | 2022-09-20 | 713 | 45 | 
 | 2022-09-19 | 714 | 45 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 675 | 42 | 
 | 2022-09-08 | 671 | 42 | 
 | 2022-09-07 | 671 | 42 | 
-| 2022-09-06 | 670 | 42 | 
-| 2022-09-05 | 668 | 42 | 
-| 2022-09-04 | 659 | 42 | 
-| 2022-09-03 | 658 | 42 | 
-| 2022-09-02 | 658 | 42 | 
-| 2022-09-01 | 657 | 42 | 
-| 2022-08-31 | 655 | 43 | 
-| 2022-08-30 | 647 | 43 | 
-| 2022-08-29 | 633 | 43 | 
-| 2022-08-28 | 616 | 40 | 
-| 2022-08-27 | 612 | 40 | 
-| 2022-08-26 | 606 | 40 | 
-| 2022-08-25 | 583 | 39 | 
-| 2022-08-24 | 533 | 38 | 
-| 2022-08-23 | 442 | 35 | 
 
 
 [Detailed charts & statistics for f2e-developer/chinese-f2e-developer](https://reviewgithub.com/rep/f2e-developer/chinese-f2e-developer)

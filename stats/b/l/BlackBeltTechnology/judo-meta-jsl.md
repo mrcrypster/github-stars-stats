@@ -1,12 +1,12 @@
-# BlackBeltTechnology/judo-meta-jsl / stars & forks statistics
-
-[Open repository/BlackBeltTechnology/judo-meta-jsl](https://github.com/BlackBeltTechnology/judo-meta-jsl)
+# BlackBeltTechnology/judo-meta-jsl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/BlackBeltTechnology/judo-meta-jsl)
 
 ## Historical data
 | Date | Stars | Forks |

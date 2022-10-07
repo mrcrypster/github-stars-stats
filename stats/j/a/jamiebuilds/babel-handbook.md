@@ -1,16 +1,24 @@
-# jamiebuilds/babel-handbook / stars & forks statistics
-
-[Open repository/jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+# jamiebuilds/babel-handbook - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1707
 
-★ Stars: 11254
+★ Stars: 11265
+
+[Open repository](https://github.com/jamiebuilds/babel-handbook)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11265 | 1707 | 
+| 2022-10-05 | 11264 | 1708 | 
+| 2022-10-04 | 11263 | 1708 | 
+| 2022-10-03 | 11261 | 1708 | 
+| 2022-10-02 | 11260 | 1707 | 
+| 2022-10-01 | 11257 | 1707 | 
+| 2022-09-30 | 11257 | 1707 | 
+| 2022-09-29 | 11257 | 1707 | 
 | 2022-09-28 | 11254 | 1707 | 
 | 2022-09-27 | 11251 | 1707 | 
 | 2022-09-26 | 11249 | 1705 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11217 | 1693 | 
 | 2022-09-09 | 11213 | 1691 | 
 | 2022-09-08 | 11210 | 1689 | 
-| 2022-09-07 | 11210 | 1688 | 
-| 2022-09-06 | 11204 | 1688 | 
-| 2022-09-05 | 11202 | 1688 | 
-| 2022-09-04 | 11196 | 1688 | 
-| 2022-09-03 | 11193 | 1687 | 
-| 2022-09-02 | 11193 | 1687 | 
-| 2022-09-01 | 11190 | 1687 | 
-| 2022-08-31 | 11185 | 1686 | 
-| 2022-08-30 | 11182 | 1687 | 
 
 
 [Detailed charts & statistics for jamiebuilds/babel-handbook](https://reviewgithub.com/rep/jamiebuilds/babel-handbook)

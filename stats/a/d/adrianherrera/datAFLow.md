@@ -1,6 +1,4 @@
-# adrianherrera/datAFLow / stars & forks statistics
-
-[Open repository/adrianherrera/datAFLow](https://github.com/adrianherrera/datAFLow)
+# adrianherrera/datAFLow - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 33
 
+[Open repository](https://github.com/adrianherrera/datAFLow)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 33 | 3 | 
+| 2022-10-05 | 33 | 3 | 
+| 2022-10-04 | 33 | 3 | 
+| 2022-10-03 | 33 | 3 | 
+| 2022-10-02 | 33 | 3 | 
 | 2022-10-01 | 33 | 3 | 
 | 2022-09-30 | 33 | 3 | 
 | 2022-09-29 | 33 | 3 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 33 | 3 | 
 | 2022-09-09 | 33 | 3 | 
 | 2022-09-08 | 33 | 3 | 
-| 2022-09-07 | 33 | 3 | 
-| 2022-09-06 | 33 | 3 | 
-| 2022-09-05 | 33 | 3 | 
-| 2022-09-04 | 33 | 3 | 
-| 2022-09-03 | 33 | 3 | 
-| 2022-09-02 | 33 | 3 | 
 
 
 [Detailed charts & statistics for adrianherrera/datAFLow](https://reviewgithub.com/rep/adrianherrera/datAFLow)

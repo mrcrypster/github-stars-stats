@@ -1,6 +1,4 @@
-# elfmaster/maya / stars & forks statistics
-
-[Open repository/elfmaster/maya](https://github.com/elfmaster/maya)
+# elfmaster/maya - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 125
 
+[Open repository](https://github.com/elfmaster/maya)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 125 | 13 | 
+| 2022-10-05 | 125 | 13 | 
+| 2022-10-04 | 125 | 13 | 
+| 2022-10-03 | 125 | 13 | 
+| 2022-10-02 | 125 | 13 | 
+| 2022-10-01 | 125 | 13 | 
 | 2022-09-30 | 125 | 13 | 
 | 2022-09-29 | 125 | 13 | 
 | 2022-09-28 | 125 | 13 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 120 | 11 | 
 | 2022-09-09 | 119 | 10 | 
 | 2022-09-08 | 119 | 10 | 
-| 2022-09-07 | 118 | 9 | 
-| 2022-09-06 | 115 | 9 | 
-| 2022-09-05 | 110 | 8 | 
-| 2022-09-04 | 108 | 7 | 
-| 2022-09-03 | 107 | 7 | 
-| 2022-09-02 | 106 | 7 | 
-| 2022-09-01 | 106 | 7 | 
 
 
 [Detailed charts & statistics for elfmaster/maya](https://reviewgithub.com/rep/elfmaster/maya)

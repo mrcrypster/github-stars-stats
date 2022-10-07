@@ -1,12 +1,12 @@
-# bracke/Text2HTML / stars & forks statistics
-
-[Open repository/bracke/Text2HTML](https://github.com/bracke/Text2HTML)
+# bracke/Text2HTML - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/bracke/Text2HTML)
 
 ## Historical data
 | Date | Stars | Forks |

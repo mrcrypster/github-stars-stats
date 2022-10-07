@@ -1,12 +1,12 @@
-# ericlewis/openfpga-dominos / stars & forks statistics
-
-[Open repository/ericlewis/openfpga-dominos](https://github.com/ericlewis/openfpga-dominos)
+# ericlewis/openfpga-dominos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 15
+
+[Open repository](https://github.com/ericlewis/openfpga-dominos)
 
 ## Historical data
 | Date | Stars | Forks |

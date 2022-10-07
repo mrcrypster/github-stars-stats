@@ -1,12 +1,12 @@
-# JaggerJo/WPF.FuncUI / stars & forks statistics
-
-[Open repository/JaggerJo/WPF.FuncUI](https://github.com/JaggerJo/WPF.FuncUI)
+# JaggerJo/WPF.FuncUI - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
+
+[Open repository](https://github.com/JaggerJo/WPF.FuncUI)
 
 ## Historical data
 | Date | Stars | Forks |

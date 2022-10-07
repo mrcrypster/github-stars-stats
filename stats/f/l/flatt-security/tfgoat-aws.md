@@ -1,12 +1,12 @@
-# flatt-security/tfgoat-aws / stars & forks statistics
-
-[Open repository/flatt-security/tfgoat-aws](https://github.com/flatt-security/tfgoat-aws)
+# flatt-security/tfgoat-aws - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 181
 
 ★ Stars: 3
+
+[Open repository](https://github.com/flatt-security/tfgoat-aws)
 
 ## Historical data
 | Date | Stars | Forks |

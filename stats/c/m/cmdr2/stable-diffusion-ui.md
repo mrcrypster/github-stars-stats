@@ -1,16 +1,28 @@
-# cmdr2/stable-diffusion-ui / stars & forks statistics
-
-[Open repository/cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui)
+# cmdr2/stable-diffusion-ui - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 106
+☋ Forks: 146
 
-★ Stars: 1445
+★ Stars: 1885
+
+[Open repository](https://github.com/cmdr2/stable-diffusion-ui)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1885 | 146 | 
+| 2022-10-05 | 1815 | 145 | 
+| 2022-10-04 | 1781 | 137 | 
+| 2022-10-03 | 1745 | 136 | 
+| 2022-10-02 | 1725 | 134 | 
+| 2022-10-01 | 1688 | 128 | 
+| 2022-09-30 | 1657 | 127 | 
+| 2022-09-29 | 1627 | 122 | 
+| 2022-09-28 | 1597 | 118 | 
+| 2022-09-27 | 1561 | 116 | 
+| 2022-09-26 | 1527 | 112 | 
+| 2022-09-25 | 1505 | 111 | 
 | 2022-09-24 | 1445 | 106 | 
 | 2022-09-23 | 1401 | 101 | 
 | 2022-09-22 | 1368 | 99 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 729 | 56 | 
 | 2022-09-08 | 635 | 51 | 
 | 2022-09-07 | 580 | 48 | 
-| 2022-09-06 | 521 | 38 | 
-| 2022-09-05 | 509 | 38 | 
-| 2022-09-04 | 458 | 35 | 
-| 2022-09-03 | 436 | 30 | 
-| 2022-09-02 | 417 | 29 | 
-| 2022-09-01 | 399 | 28 | 
-| 2022-08-31 | 365 | 28 | 
-| 2022-08-30 | 352 | 26 | 
-| 2022-08-29 | 333 | 24 | 
-| 2022-08-28 | 281 | 21 | 
-| 2022-08-27 | 229 | 21 | 
-| 2022-08-26 | 131 | 15 | 
 
 
 [Detailed charts & statistics for cmdr2/stable-diffusion-ui](https://reviewgithub.com/rep/cmdr2/stable-diffusion-ui)

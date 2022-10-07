@@ -1,6 +1,4 @@
-# aead/chacha20 / stars & forks statistics
-
-[Open repository/aead/chacha20](https://github.com/aead/chacha20)
+# aead/chacha20 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 54
 
+[Open repository](https://github.com/aead/chacha20)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 54 | 20 | 
+| 2022-10-06 | 54 | 20 | 
+| 2022-10-05 | 54 | 20 | 
+| 2022-10-04 | 54 | 20 | 
+| 2022-10-03 | 54 | 20 | 
+| 2022-10-02 | 54 | 20 | 
+| 2022-10-01 | 54 | 20 | 
+| 2022-09-30 | 54 | 20 | 
 | 2022-09-29 | 54 | 20 | 
 | 2022-09-28 | 54 | 20 | 
 | 2022-09-27 | 54 | 20 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 54 | 20 | 
 | 2022-09-09 | 54 | 20 | 
 | 2022-09-08 | 54 | 20 | 
-| 2022-09-07 | 54 | 20 | 
-| 2022-09-06 | 54 | 20 | 
-| 2022-09-05 | 54 | 20 | 
-| 2022-09-04 | 54 | 20 | 
-| 2022-09-03 | 54 | 20 | 
-| 2022-09-02 | 54 | 20 | 
-| 2022-09-01 | 54 | 20 | 
-| 2022-08-31 | 54 | 20 | 
 
 
 [Detailed charts & statistics for aead/chacha20](https://reviewgithub.com/rep/aead/chacha20)

@@ -1,12 +1,12 @@
-# NodesBlocks/testnet-examples / stars & forks statistics
-
-[Open repository/NodesBlocks/testnet-examples](https://github.com/NodesBlocks/testnet-examples)
+# NodesBlocks/testnet-examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 68
+
+[Open repository](https://github.com/NodesBlocks/testnet-examples)
 
 ## Historical data
 | Date | Stars | Forks |

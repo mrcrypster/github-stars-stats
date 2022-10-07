@@ -1,6 +1,4 @@
-# Axonify/muffin.io / stars & forks statistics
-
-[Open repository/Axonify/muffin.io](https://github.com/Axonify/muffin.io)
+# Axonify/muffin.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 37
 
+[Open repository](https://github.com/Axonify/muffin.io)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 37 | 3 | 
+| 2022-10-06 | 37 | 3 | 
+| 2022-10-05 | 37 | 3 | 
+| 2022-10-04 | 37 | 3 | 
+| 2022-10-03 | 37 | 3 | 
+| 2022-10-02 | 37 | 3 | 
+| 2022-10-01 | 37 | 3 | 
+| 2022-09-30 | 37 | 3 | 
+| 2022-09-29 | 37 | 3 | 
+| 2022-09-28 | 37 | 3 | 
+| 2022-09-27 | 37 | 3 | 
+| 2022-09-26 | 37 | 3 | 
+| 2022-09-25 | 37 | 3 | 
 | 2022-09-24 | 37 | 3 | 
 | 2022-09-23 | 37 | 3 | 
 | 2022-09-22 | 37 | 3 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 37 | 3 | 
 | 2022-09-08 | 37 | 3 | 
 | 2022-09-07 | 37 | 3 | 
-| 2022-09-06 | 37 | 3 | 
-| 2022-09-05 | 37 | 3 | 
-| 2022-09-04 | 37 | 3 | 
-| 2022-09-03 | 37 | 3 | 
-| 2022-09-02 | 37 | 3 | 
-| 2022-09-01 | 37 | 3 | 
-| 2022-08-31 | 37 | 3 | 
-| 2022-08-30 | 37 | 3 | 
-| 2022-08-29 | 37 | 3 | 
-| 2022-08-28 | 37 | 3 | 
-| 2022-08-27 | 37 | 3 | 
-| 2022-08-26 | 37 | 3 | 
-| 2022-08-25 | 37 | 3 | 
 
 
 [Detailed charts & statistics for Axonify/muffin.io](https://reviewgithub.com/rep/Axonify/muffin.io)

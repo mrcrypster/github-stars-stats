@@ -1,12 +1,12 @@
-# deepin-community/antlr-maven-plugin / stars & forks statistics
-
-[Open repository/deepin-community/antlr-maven-plugin](https://github.com/deepin-community/antlr-maven-plugin)
+# deepin-community/antlr-maven-plugin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/antlr-maven-plugin)
 
 ## Historical data
 | Date | Stars | Forks |

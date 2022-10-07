@@ -1,12 +1,12 @@
-# jonameron/kraken_tradebot / stars & forks statistics
-
-[Open repository/jonameron/kraken_tradebot](https://github.com/jonameron/kraken_tradebot)
+# jonameron/kraken_tradebot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
+
+[Open repository](https://github.com/jonameron/kraken_tradebot)
 
 ## Historical data
 | Date | Stars | Forks |

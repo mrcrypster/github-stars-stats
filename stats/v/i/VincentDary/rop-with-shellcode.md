@@ -1,6 +1,4 @@
-# VincentDary/rop-with-shellcode / stars & forks statistics
-
-[Open repository/VincentDary/rop-with-shellcode](https://github.com/VincentDary/rop-with-shellcode)
+# VincentDary/rop-with-shellcode - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/VincentDary/rop-with-shellcode)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 5 | 1 | 
 | 2022-10-05 | 5 | 1 | 
 | 2022-10-04 | 5 | 1 | 
 | 2022-10-03 | 5 | 1 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 5 | 1 | 
 | 2022-09-09 | 5 | 1 | 
 | 2022-09-08 | 5 | 2 | 
-| 2022-09-07 | 5 | 2 | 
-| 2022-09-06 | 5 | 1 | 
 
 
 [Detailed charts & statistics for VincentDary/rop-with-shellcode](https://reviewgithub.com/rep/VincentDary/rop-with-shellcode)

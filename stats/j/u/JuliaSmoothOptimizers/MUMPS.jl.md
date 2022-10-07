@@ -1,6 +1,4 @@
-# JuliaSmoothOptimizers/MUMPS.jl / stars & forks statistics
-
-[Open repository/JuliaSmoothOptimizers/MUMPS.jl](https://github.com/JuliaSmoothOptimizers/MUMPS.jl)
+# JuliaSmoothOptimizers/MUMPS.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 30
 
+[Open repository](https://github.com/JuliaSmoothOptimizers/MUMPS.jl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 30 | 10 | 
+| 2022-10-06 | 30 | 10 | 
+| 2022-10-05 | 30 | 10 | 
+| 2022-10-04 | 30 | 10 | 
+| 2022-10-03 | 30 | 10 | 
+| 2022-10-02 | 30 | 10 | 
+| 2022-10-01 | 30 | 10 | 
+| 2022-09-30 | 30 | 10 | 
+| 2022-09-29 | 30 | 10 | 
+| 2022-09-28 | 30 | 10 | 
+| 2022-09-27 | 30 | 10 | 
 | 2022-09-26 | 30 | 10 | 
 | 2022-09-25 | 30 | 10 | 
 | 2022-09-24 | 30 | 10 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 10 | 
 | 2022-09-08 | 29 | 10 | 
 | 2022-09-07 | 29 | 10 | 
-| 2022-09-06 | 29 | 10 | 
-| 2022-09-05 | 29 | 10 | 
-| 2022-09-04 | 28 | 10 | 
-| 2022-09-03 | 28 | 10 | 
-| 2022-09-02 | 28 | 10 | 
-| 2022-09-01 | 28 | 10 | 
-| 2022-08-31 | 28 | 10 | 
-| 2022-08-30 | 28 | 10 | 
-| 2022-08-29 | 28 | 10 | 
-| 2022-08-28 | 28 | 10 | 
-| 2022-08-27 | 28 | 10 | 
 
 
 [Detailed charts & statistics for JuliaSmoothOptimizers/MUMPS.jl](https://reviewgithub.com/rep/JuliaSmoothOptimizers/MUMPS.jl)

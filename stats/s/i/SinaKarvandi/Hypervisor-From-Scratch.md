@@ -1,16 +1,33 @@
-# SinaKarvandi/Hypervisor-From-Scratch / stars & forks statistics
-
-[Open repository/SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)
+# SinaKarvandi/Hypervisor-From-Scratch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 210
 
-★ Stars: 1306
+★ Stars: 1322
+
+[Open repository](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1322 | 210 | 
+| 2022-10-06 | 1320 | 210 | 
+| 2022-10-05 | 1320 | 210 | 
+| 2022-10-04 | 1316 | 210 | 
+| 2022-10-03 | 1316 | 210 | 
+| 2022-10-02 | 1315 | 210 | 
+| 2022-10-01 | 1313 | 210 | 
+| 2022-09-30 | 1312 | 210 | 
+| 2022-09-29 | 1310 | 210 | 
+| 2022-09-28 | 1308 | 210 | 
+| 2022-09-27 | 1308 | 210 | 
+| 2022-09-26 | 1308 | 210 | 
+| 2022-09-25 | 1308 | 210 | 
+| 2022-09-24 | 1308 | 210 | 
+| 2022-09-23 | 1308 | 210 | 
+| 2022-09-22 | 1308 | 210 | 
+| 2022-09-21 | 1308 | 210 | 
 | 2022-09-20 | 1306 | 210 | 
 | 2022-09-19 | 1305 | 209 | 
 | 2022-09-18 | 1303 | 209 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1290 | 206 | 
 | 2022-09-08 | 1289 | 206 | 
 | 2022-09-07 | 1289 | 206 | 
-| 2022-09-06 | 1284 | 205 | 
-| 2022-09-05 | 1281 | 204 | 
-| 2022-09-04 | 1279 | 203 | 
-| 2022-09-03 | 1277 | 202 | 
-| 2022-09-02 | 1276 | 202 | 
-| 2022-09-01 | 1274 | 201 | 
-| 2022-08-31 | 1270 | 201 | 
-| 2022-08-30 | 1267 | 200 | 
-| 2022-08-29 | 1261 | 200 | 
-| 2022-08-28 | 1257 | 198 | 
-| 2022-08-27 | 1249 | 197 | 
-| 2022-08-26 | 1242 | 197 | 
-| 2022-08-25 | 1235 | 196 | 
-| 2022-08-24 | 1230 | 196 | 
-| 2022-08-23 | 1215 | 193 | 
-| 2022-08-22 | 1209 | 193 | 
-| 2022-08-21 | 1160 | 191 | 
 
 
 [Detailed charts & statistics for SinaKarvandi/Hypervisor-From-Scratch](https://reviewgithub.com/rep/SinaKarvandi/Hypervisor-From-Scratch)

@@ -1,12 +1,12 @@
-# JuliaPackaging/PkgServer.jl / stars & forks statistics
-
-[Open repository/JuliaPackaging/PkgServer.jl](https://github.com/JuliaPackaging/PkgServer.jl)
+# JuliaPackaging/PkgServer.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 32
+
+[Open repository](https://github.com/JuliaPackaging/PkgServer.jl)
 
 ## Historical data
 | Date | Stars | Forks |

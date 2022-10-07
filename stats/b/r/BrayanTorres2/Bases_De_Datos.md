@@ -1,12 +1,12 @@
-# BrayanTorres2/Bases_De_Datos / stars & forks statistics
-
-[Open repository/BrayanTorres2/Bases_De_Datos](https://github.com/BrayanTorres2/Bases_De_Datos)
+# BrayanTorres2/Bases_De_Datos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 17
+
+[Open repository](https://github.com/BrayanTorres2/Bases_De_Datos)
 
 ## Historical data
 | Date | Stars | Forks |

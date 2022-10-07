@@ -1,12 +1,12 @@
-# pages-themes/time-machine / stars & forks statistics
-
-[Open repository/pages-themes/time-machine](https://github.com/pages-themes/time-machine)
+# pages-themes/time-machine - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 184
 
 ★ Stars: 62
+
+[Open repository](https://github.com/pages-themes/time-machine)
 
 ## Historical data
 | Date | Stars | Forks |

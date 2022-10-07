@@ -1,16 +1,32 @@
-# RamiKrispin/deploy-flex-actions / stars & forks statistics
-
-[Open repository/RamiKrispin/deploy-flex-actions](https://github.com/RamiKrispin/deploy-flex-actions)
+# RamiKrispin/deploy-flex-actions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 14
+☋ Forks: 17
 
-★ Stars: 117
+★ Stars: 148
+
+[Open repository](https://github.com/RamiKrispin/deploy-flex-actions)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 148 | 17 | 
+| 2022-10-05 | 148 | 17 | 
+| 2022-10-04 | 147 | 17 | 
+| 2022-10-03 | 146 | 17 | 
+| 2022-10-02 | 146 | 17 | 
+| 2022-10-01 | 145 | 17 | 
+| 2022-09-30 | 143 | 17 | 
+| 2022-09-29 | 142 | 17 | 
+| 2022-09-28 | 139 | 17 | 
+| 2022-09-27 | 139 | 17 | 
+| 2022-09-26 | 138 | 17 | 
+| 2022-09-25 | 138 | 17 | 
+| 2022-09-24 | 136 | 17 | 
+| 2022-09-23 | 136 | 17 | 
+| 2022-09-22 | 135 | 17 | 
+| 2022-09-21 | 128 | 15 | 
 | 2022-09-20 | 117 | 14 | 
 | 2022-09-19 | 117 | 14 | 
 | 2022-09-18 | 118 | 13 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 90 | 8 | 
 | 2022-09-08 | 90 | 8 | 
 | 2022-09-07 | 90 | 8 | 
-| 2022-09-06 | 86 | 8 | 
-| 2022-09-05 | 86 | 8 | 
-| 2022-09-04 | 81 | 7 | 
-| 2022-09-03 | 81 | 7 | 
-| 2022-09-02 | 81 | 7 | 
-| 2022-09-01 | 80 | 7 | 
-| 2022-08-31 | 80 | 7 | 
-| 2022-08-30 | 80 | 7 | 
-| 2022-08-29 | 80 | 7 | 
-| 2022-08-28 | 80 | 7 | 
-| 2022-08-27 | 79 | 7 | 
-| 2022-08-26 | 79 | 7 | 
-| 2022-08-25 | 77 | 7 | 
-| 2022-08-24 | 76 | 7 | 
-| 2022-08-23 | 76 | 7 | 
-| 2022-08-22 | 73 | 6 | 
 
 
 [Detailed charts & statistics for RamiKrispin/deploy-flex-actions](https://reviewgithub.com/rep/RamiKrispin/deploy-flex-actions)

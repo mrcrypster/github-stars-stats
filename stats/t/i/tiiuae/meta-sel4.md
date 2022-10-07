@@ -1,12 +1,12 @@
-# tiiuae/meta-sel4 / stars & forks statistics
-
-[Open repository/tiiuae/meta-sel4](https://github.com/tiiuae/meta-sel4)
+# tiiuae/meta-sel4 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/tiiuae/meta-sel4)
 
 ## Historical data
 | Date | Stars | Forks |

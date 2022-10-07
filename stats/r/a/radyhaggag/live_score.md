@@ -1,6 +1,4 @@
-# radyhaggag/live_score / stars & forks statistics
-
-[Open repository/radyhaggag/live_score](https://github.com/radyhaggag/live_score)
+# radyhaggag/live_score - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 39
 
+[Open repository](https://github.com/radyhaggag/live_score)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 39 | 5 | 
+| 2022-10-06 | 39 | 5 | 
+| 2022-10-05 | 39 | 5 | 
+| 2022-10-04 | 39 | 5 | 
+| 2022-10-03 | 39 | 5 | 
+| 2022-10-02 | 39 | 5 | 
+| 2022-10-01 | 39 | 5 | 
+| 2022-09-30 | 39 | 5 | 
+| 2022-09-29 | 39 | 5 | 
 | 2022-09-28 | 39 | 5 | 
 | 2022-09-27 | 39 | 5 | 
 | 2022-09-26 | 39 | 5 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 35 | 5 | 
 | 2022-09-08 | 35 | 5 | 
 | 2022-09-07 | 35 | 5 | 
-| 2022-09-06 | 35 | 5 | 
-| 2022-09-05 | 35 | 5 | 
-| 2022-09-04 | 35 | 5 | 
-| 2022-09-03 | 34 | 5 | 
-| 2022-09-02 | 33 | 5 | 
-| 2022-09-01 | 32 | 4 | 
-| 2022-08-31 | 31 | 4 | 
-| 2022-08-30 | 28 | 3 | 
-| 2022-08-29 | 26 | 3 | 
 
 
 [Detailed charts & statistics for radyhaggag/live_score](https://reviewgithub.com/rep/radyhaggag/live_score)

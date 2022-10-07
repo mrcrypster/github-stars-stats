@@ -1,12 +1,12 @@
-# DrewWham/PSU_Stat_380 / stars & forks statistics
-
-[Open repository/DrewWham/PSU_Stat_380](https://github.com/DrewWham/PSU_Stat_380)
+# DrewWham/PSU_Stat_380 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 16
+
+[Open repository](https://github.com/DrewWham/PSU_Stat_380)
 
 ## Historical data
 | Date | Stars | Forks |

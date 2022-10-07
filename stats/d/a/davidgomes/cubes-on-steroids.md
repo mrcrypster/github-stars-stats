@@ -1,12 +1,12 @@
-# davidgomes/cubes-on-steroids / stars & forks statistics
-
-[Open repository/davidgomes/cubes-on-steroids](https://github.com/davidgomes/cubes-on-steroids)
+# davidgomes/cubes-on-steroids - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/davidgomes/cubes-on-steroids)
 
 ## Historical data
 | Date | Stars | Forks |

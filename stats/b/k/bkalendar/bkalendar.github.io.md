@@ -1,6 +1,4 @@
-# bkalendar/bkalendar.github.io / stars & forks statistics
-
-[Open repository/bkalendar/bkalendar.github.io](https://github.com/bkalendar/bkalendar.github.io)
+# bkalendar/bkalendar.github.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 24
 
+[Open repository](https://github.com/bkalendar/bkalendar.github.io)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 24 | 6 | 
+| 2022-10-06 | 24 | 6 | 
+| 2022-10-05 | 24 | 6 | 
+| 2022-10-04 | 24 | 6 | 
+| 2022-10-03 | 24 | 6 | 
+| 2022-10-02 | 24 | 6 | 
 | 2022-10-01 | 24 | 6 | 
 | 2022-09-30 | 24 | 6 | 
 | 2022-09-29 | 22 | 5 | 
@@ -35,12 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 21 | 5 | 
 | 2022-09-09 | 21 | 5 | 
 | 2022-09-08 | 21 | 5 | 
-| 2022-09-07 | 21 | 5 | 
-| 2022-09-06 | 21 | 5 | 
-| 2022-09-05 | 20 | 5 | 
-| 2022-09-04 | 20 | 5 | 
-| 2022-09-03 | 20 | 5 | 
-| 2022-09-02 | 18 | 5 | 
 
 
 [Detailed charts & statistics for bkalendar/bkalendar.github.io](https://reviewgithub.com/rep/bkalendar/bkalendar.github.io)

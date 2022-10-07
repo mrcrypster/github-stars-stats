@@ -1,12 +1,12 @@
-# jgodstime/laravel-error-notifier / stars & forks statistics
-
-[Open repository/jgodstime/laravel-error-notifier](https://github.com/jgodstime/laravel-error-notifier)
+# jgodstime/laravel-error-notifier - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 38
+
+[Open repository](https://github.com/jgodstime/laravel-error-notifier)
 
 ## Historical data
 | Date | Stars | Forks |

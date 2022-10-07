@@ -1,12 +1,12 @@
-# kalidao/rage-router / stars & forks statistics
-
-[Open repository/kalidao/rage-router](https://github.com/kalidao/rage-router)
+# kalidao/rage-router - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
+
+[Open repository](https://github.com/kalidao/rage-router)
 
 ## Historical data
 | Date | Stars | Forks |

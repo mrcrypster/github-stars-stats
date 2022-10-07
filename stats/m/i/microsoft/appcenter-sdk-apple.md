@@ -1,12 +1,12 @@
-# microsoft/appcenter-sdk-apple / stars & forks statistics
-
-[Open repository/microsoft/appcenter-sdk-apple](https://github.com/microsoft/appcenter-sdk-apple)
+# microsoft/appcenter-sdk-apple - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 218
 
 ★ Stars: 475
+
+[Open repository](https://github.com/microsoft/appcenter-sdk-apple)
 
 ## Historical data
 | Date | Stars | Forks |

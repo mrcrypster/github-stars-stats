@@ -1,12 +1,12 @@
-# nomasystems/ncalendar / stars & forks statistics
-
-[Open repository/nomasystems/ncalendar](https://github.com/nomasystems/ncalendar)
+# nomasystems/ncalendar - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/nomasystems/ncalendar)
 
 ## Historical data
 | Date | Stars | Forks |

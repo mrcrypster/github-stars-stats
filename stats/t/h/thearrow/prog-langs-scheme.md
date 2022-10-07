@@ -1,12 +1,12 @@
-# thearrow/prog-langs-scheme / stars & forks statistics
-
-[Open repository/thearrow/prog-langs-scheme](https://github.com/thearrow/prog-langs-scheme)
+# thearrow/prog-langs-scheme - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/thearrow/prog-langs-scheme)
 
 ## Historical data
 | Date | Stars | Forks |

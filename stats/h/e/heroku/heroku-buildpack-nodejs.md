@@ -1,6 +1,4 @@
-# heroku/heroku-buildpack-nodejs / stars & forks statistics
-
-[Open repository/heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs)
+# heroku/heroku-buildpack-nodejs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1233
 
+[Open repository](https://github.com/heroku/heroku-buildpack-nodejs)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1233 | 2629 | 
+| 2022-10-05 | 1233 | 2632 | 
+| 2022-10-04 | 1233 | 2630 | 
+| 2022-10-03 | 1233 | 2629 | 
 | 2022-10-02 | 1233 | 2629 | 
 | 2022-10-01 | 1233 | 2629 | 
 | 2022-09-30 | 1232 | 2629 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1231 | 2623 | 
 | 2022-09-09 | 1231 | 2623 | 
 | 2022-09-08 | 1231 | 2625 | 
-| 2022-09-07 | 1231 | 2625 | 
-| 2022-09-06 | 1232 | 2624 | 
-| 2022-09-05 | 1231 | 2623 | 
-| 2022-09-04 | 1231 | 2622 | 
-| 2022-09-03 | 1231 | 2621 | 
 
 
 [Detailed charts & statistics for heroku/heroku-buildpack-nodejs](https://reviewgithub.com/rep/heroku/heroku-buildpack-nodejs)

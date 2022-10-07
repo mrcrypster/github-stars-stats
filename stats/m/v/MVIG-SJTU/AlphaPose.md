@@ -1,16 +1,27 @@
-# MVIG-SJTU/AlphaPose / stars & forks statistics
-
-[Open repository/MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
+# MVIG-SJTU/AlphaPose - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1771
+☋ Forks: 1775
 
-★ Stars: 6433
+★ Stars: 6459
+
+[Open repository](https://github.com/MVIG-SJTU/AlphaPose)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6459 | 1775 | 
+| 2022-10-06 | 6458 | 1776 | 
+| 2022-10-05 | 6457 | 1776 | 
+| 2022-10-04 | 6453 | 1775 | 
+| 2022-10-03 | 6453 | 1775 | 
+| 2022-10-02 | 6453 | 1776 | 
+| 2022-10-01 | 6450 | 1776 | 
+| 2022-09-30 | 6446 | 1776 | 
+| 2022-09-29 | 6445 | 1774 | 
+| 2022-09-28 | 6442 | 1774 | 
+| 2022-09-27 | 6437 | 1772 | 
 | 2022-09-26 | 6433 | 1771 | 
 | 2022-09-25 | 6431 | 1769 | 
 | 2022-09-24 | 6430 | 1767 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 6398 | 1761 | 
 | 2022-09-08 | 6396 | 1761 | 
 | 2022-09-07 | 6393 | 1761 | 
-| 2022-09-06 | 6393 | 1760 | 
-| 2022-09-05 | 6389 | 1760 | 
-| 2022-09-04 | 6383 | 1760 | 
-| 2022-09-03 | 6383 | 1760 | 
-| 2022-09-02 | 6379 | 1760 | 
-| 2022-09-01 | 6377 | 1759 | 
-| 2022-08-31 | 6370 | 1758 | 
-| 2022-08-30 | 6368 | 1754 | 
-| 2022-08-29 | 6366 | 1753 | 
-| 2022-08-28 | 6362 | 1753 | 
-| 2022-08-27 | 6360 | 1753 | 
 
 
 [Detailed charts & statistics for MVIG-SJTU/AlphaPose](https://reviewgithub.com/rep/MVIG-SJTU/AlphaPose)

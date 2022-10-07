@@ -1,12 +1,12 @@
-# somebasj/ParallelsDesktopCrack / stars & forks statistics
-
-[Open repository/somebasj/ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack)
+# somebasj/ParallelsDesktopCrack - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 381
 
 ★ Stars: 1426
+
+[Open repository](https://github.com/somebasj/ParallelsDesktopCrack)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# crate-crypto/proto-danksharding-crypto / stars & forks statistics
-
-[Open repository/crate-crypto/proto-danksharding-crypto](https://github.com/crate-crypto/proto-danksharding-crypto)
+# crate-crypto/proto-danksharding-crypto - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
+
+[Open repository](https://github.com/crate-crypto/proto-danksharding-crypto)
 
 ## Historical data
 | Date | Stars | Forks |

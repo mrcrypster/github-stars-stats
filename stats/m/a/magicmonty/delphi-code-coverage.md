@@ -1,6 +1,4 @@
-# magicmonty/delphi-code-coverage / stars & forks statistics
-
-[Open repository/magicmonty/delphi-code-coverage](https://github.com/magicmonty/delphi-code-coverage)
+# magicmonty/delphi-code-coverage - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,28 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 63
 
+[Open repository](https://github.com/magicmonty/delphi-code-coverage)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 63 | 54 | 
+| 2022-10-06 | 63 | 54 | 
+| 2022-10-05 | 63 | 54 | 
+| 2022-10-04 | 63 | 54 | 
+| 2022-10-03 | 63 | 54 | 
+| 2022-10-02 | 63 | 54 | 
+| 2022-10-01 | 63 | 54 | 
+| 2022-09-30 | 63 | 54 | 
+| 2022-09-29 | 63 | 54 | 
+| 2022-09-28 | 63 | 54 | 
+| 2022-09-27 | 63 | 54 | 
+| 2022-09-26 | 63 | 54 | 
+| 2022-09-25 | 63 | 54 | 
+| 2022-09-24 | 63 | 54 | 
+| 2022-09-23 | 63 | 54 | 
+| 2022-09-22 | 63 | 54 | 
+| 2022-09-21 | 63 | 54 | 
 | 2022-09-20 | 63 | 54 | 
 | 2022-09-19 | 63 | 54 | 
 | 2022-09-18 | 63 | 54 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 63 | 54 | 
 | 2022-09-08 | 63 | 54 | 
 | 2022-09-07 | 63 | 54 | 
-| 2022-09-06 | 63 | 54 | 
-| 2022-09-05 | 63 | 54 | 
-| 2022-09-04 | 63 | 54 | 
-| 2022-09-03 | 63 | 54 | 
-| 2022-09-02 | 63 | 54 | 
-| 2022-09-01 | 63 | 54 | 
-| 2022-08-31 | 63 | 54 | 
-| 2022-08-30 | 63 | 54 | 
-| 2022-08-29 | 63 | 54 | 
-| 2022-08-28 | 63 | 54 | 
-| 2022-08-27 | 63 | 54 | 
-| 2022-08-26 | 63 | 54 | 
-| 2022-08-25 | 63 | 54 | 
-| 2022-08-24 | 63 | 54 | 
-| 2022-08-23 | 63 | 54 | 
-| 2022-08-22 | 63 | 54 | 
-| 2022-08-21 | 63 | 54 | 
 
 
 [Detailed charts & statistics for magicmonty/delphi-code-coverage](https://reviewgithub.com/rep/magicmonty/delphi-code-coverage)

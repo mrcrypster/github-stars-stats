@@ -1,12 +1,12 @@
-# codedamn/projects / stars & forks statistics
-
-[Open repository/codedamn/projects](https://github.com/codedamn/projects)
+# codedamn/projects - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 94
 
 ★ Stars: 70
+
+[Open repository](https://github.com/codedamn/projects)
 
 ## Historical data
 | Date | Stars | Forks |

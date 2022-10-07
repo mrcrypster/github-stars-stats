@@ -1,46 +1,45 @@
-# Your-First-Open-Source-Project/Your-First-Open-Source-Project / stars & forks statistics
-
-[Open repository/Your-First-Open-Source-Project/Your-First-Open-Source-Project](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project)
+# Your-First-Open-Source-Project/Your-First-Open-Source-Project - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 45
+☋ Forks: 61
 
-★ Stars: 58
+★ Stars: 67
+
+[Open repository](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-05 | 58 | 45 | 
-| 2022-09-04 | 58 | 45 | 
-| 2022-09-03 | 58 | 44 | 
-| 2022-09-02 | 57 | 44 | 
-| 2022-09-01 | 56 | 41 | 
-| 2022-08-31 | 55 | 40 | 
-| 2022-08-30 | 55 | 39 | 
-| 2022-08-29 | 54 | 39 | 
-| 2022-08-28 | 54 | 38 | 
-| 2022-08-27 | 54 | 36 | 
-| 2022-08-26 | 53 | 36 | 
-| 2022-08-25 | 53 | 36 | 
-| 2022-08-24 | 52 | 36 | 
-| 2022-08-23 | 51 | 35 | 
-| 2022-08-22 | 51 | 35 | 
-| 2022-08-21 | 47 | 33 | 
-| 2022-08-20 | 47 | 33 | 
-| 2022-08-19 | 47 | 33 | 
-| 2022-08-18 | 47 | 33 | 
-| 2022-08-17 | 46 | 33 | 
-| 2022-08-16 | 47 | 34 | 
-| 2022-08-15 | 47 | 34 | 
-| 2022-08-14 | 47 | 33 | 
-| 2022-08-13 | 46 | 31 | 
-| 2022-08-12 | 45 | 30 | 
-| 2022-08-11 | 44 | 28 | 
-| 2022-08-10 | 44 | 27 | 
-| 2022-08-09 | 44 | 27 | 
-| 2022-08-08 | 44 | 27 | 
-| 2022-08-07 | 41 | 25 | 
+| 2022-10-06 | 67 | 61 | 
+| 2022-10-05 | 67 | 59 | 
+| 2022-10-04 | 66 | 58 | 
+| 2022-10-03 | 66 | 58 | 
+| 2022-10-02 | 66 | 57 | 
+| 2022-10-01 | 66 | 57 | 
+| 2022-09-30 | 66 | 56 | 
+| 2022-09-29 | 65 | 55 | 
+| 2022-09-28 | 65 | 55 | 
+| 2022-09-27 | 64 | 55 | 
+| 2022-09-26 | 64 | 55 | 
+| 2022-09-25 | 64 | 55 | 
+| 2022-09-24 | 62 | 54 | 
+| 2022-09-23 | 62 | 54 | 
+| 2022-09-22 | 62 | 54 | 
+| 2022-09-21 | 62 | 54 | 
+| 2022-09-20 | 61 | 52 | 
+| 2022-09-19 | 61 | 51 | 
+| 2022-09-18 | 61 | 52 | 
+| 2022-09-17 | 61 | 51 | 
+| 2022-09-16 | 61 | 51 | 
+| 2022-09-15 | 61 | 51 | 
+| 2022-09-14 | 60 | 51 | 
+| 2022-09-13 | 58 | 50 | 
+| 2022-09-12 | 59 | 49 | 
+| 2022-09-11 | 58 | 46 | 
+| 2022-09-10 | 58 | 45 | 
+| 2022-09-09 | 58 | 45 | 
+| 2022-09-08 | 58 | 45 | 
 
 
 [Detailed charts & statistics for Your-First-Open-Source-Project/Your-First-Open-Source-Project](https://reviewgithub.com/rep/Your-First-Open-Source-Project/Your-First-Open-Source-Project)

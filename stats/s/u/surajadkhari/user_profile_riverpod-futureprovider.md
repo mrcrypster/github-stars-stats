@@ -1,6 +1,4 @@
-# surajadkhari/user_profile_riverpod-futureprovider / stars & forks statistics
-
-[Open repository/surajadkhari/user_profile_riverpod-futureprovider](https://github.com/surajadkhari/user_profile_riverpod-futureprovider)
+# surajadkhari/user_profile_riverpod-futureprovider - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,39 +6,40 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 51
 
+[Open repository](https://github.com/surajadkhari/user_profile_riverpod-futureprovider)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-30 | 51 | 8 | 
-| 2022-08-29 | 51 | 8 | 
-| 2022-08-28 | 51 | 8 | 
-| 2022-08-27 | 51 | 8 | 
-| 2022-08-26 | 50 | 8 | 
-| 2022-08-25 | 50 | 8 | 
-| 2022-08-24 | 50 | 8 | 
-| 2022-08-23 | 50 | 8 | 
-| 2022-08-22 | 50 | 8 | 
-| 2022-08-21 | 50 | 8 | 
-| 2022-08-20 | 50 | 8 | 
-| 2022-08-19 | 50 | 8 | 
-| 2022-08-18 | 50 | 8 | 
-| 2022-08-17 | 42 | 6 | 
-| 2022-08-16 | 42 | 6 | 
-| 2022-08-15 | 42 | 6 | 
-| 2022-08-14 | 42 | 6 | 
-| 2022-08-13 | 42 | 6 | 
-| 2022-08-12 | 42 | 6 | 
-| 2022-08-11 | 42 | 6 | 
-| 2022-08-10 | 42 | 6 | 
-| 2022-08-09 | 40 | 6 | 
-| 2022-08-08 | 40 | 6 | 
-| 2022-08-07 | 40 | 6 | 
-| 2022-08-06 | 40 | 6 | 
-| 2022-08-05 | 40 | 6 | 
-| 2022-08-04 | 39 | 6 | 
-| 2022-08-03 | 39 | 6 | 
-| 2022-08-02 | 34 | 3 | 
-| 2022-08-01 | 28 | 1 | 
+| 2022-10-06 | 51 | 8 | 
+| 2022-10-05 | 51 | 8 | 
+| 2022-10-04 | 51 | 8 | 
+| 2022-10-03 | 51 | 8 | 
+| 2022-10-02 | 51 | 8 | 
+| 2022-10-01 | 51 | 8 | 
+| 2022-09-30 | 51 | 8 | 
+| 2022-09-29 | 51 | 8 | 
+| 2022-09-28 | 51 | 8 | 
+| 2022-09-27 | 51 | 8 | 
+| 2022-09-26 | 51 | 8 | 
+| 2022-09-25 | 51 | 8 | 
+| 2022-09-24 | 51 | 8 | 
+| 2022-09-23 | 51 | 8 | 
+| 2022-09-22 | 51 | 8 | 
+| 2022-09-21 | 51 | 8 | 
+| 2022-09-20 | 51 | 8 | 
+| 2022-09-19 | 51 | 8 | 
+| 2022-09-18 | 51 | 8 | 
+| 2022-09-17 | 51 | 8 | 
+| 2022-09-16 | 51 | 8 | 
+| 2022-09-15 | 51 | 8 | 
+| 2022-09-14 | 51 | 8 | 
+| 2022-09-13 | 51 | 8 | 
+| 2022-09-12 | 51 | 8 | 
+| 2022-09-11 | 51 | 8 | 
+| 2022-09-10 | 51 | 8 | 
+| 2022-09-09 | 51 | 8 | 
+| 2022-09-08 | 51 | 8 | 
 
 
 [Detailed charts & statistics for surajadkhari/user_profile_riverpod-futureprovider](https://reviewgithub.com/rep/surajadkhari/user_profile_riverpod-futureprovider)

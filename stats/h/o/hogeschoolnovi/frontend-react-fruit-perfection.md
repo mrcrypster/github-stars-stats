@@ -1,46 +1,45 @@
-# hogeschoolnovi/frontend-react-fruit-perfection / stars & forks statistics
-
-[Open repository/hogeschoolnovi/frontend-react-fruit-perfection](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection)
+# hogeschoolnovi/frontend-react-fruit-perfection - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-29 | - | - | 
-| 2022-07-28 | - | - | 
-| 2022-07-27 | - | - | 
-| 2022-07-26 | - | - | 
-| 2022-07-25 | - | - | 
-| 2022-07-24 | - | - | 
-| 2022-07-23 | - | - | 
-| 2022-07-22 | - | - | 
-| 2022-07-21 | - | 21 | 
-| 2022-07-20 | - | 21 | 
-| 2022-07-19 | - | 21 | 
-| 2022-07-18 | - | 21 | 
-| 2022-07-17 | - | 21 | 
-| 2022-07-16 | - | 21 | 
-| 2022-07-15 | - | 21 | 
-| 2022-07-14 | - | 21 | 
-| 2022-07-13 | - | 21 | 
-| 2022-07-12 | - | 21 | 
-| 2022-07-11 | - | 21 | 
-| 2022-07-10 | - | 21 | 
-| 2022-07-09 | - | 21 | 
-| 2022-07-08 | - | 21 | 
-| 2022-07-07 | - | 21 | 
-| 2022-07-06 | - | 21 | 
-| 2022-07-05 | - | 21 | 
-| 2022-07-04 | - | 21 | 
-| 2022-07-03 | - | 21 | 
-| 2022-07-02 | - | 21 | 
-| 2022-07-01 | - | 21 | 
-| 2022-06-30 | - | 21 | 
+| 2022-10-06 | - | 1 | 
+| 2022-10-05 | - | 1 | 
+| 2022-10-04 | - | 1 | 
+| 2022-10-03 | - | 1 | 
+| 2022-10-02 | - | 1 | 
+| 2022-10-01 | - | 1 | 
+| 2022-09-30 | - | 1 | 
+| 2022-09-29 | - | 1 | 
+| 2022-09-28 | - | 1 | 
+| 2022-09-27 | - | 1 | 
+| 2022-09-26 | - | 1 | 
+| 2022-09-25 | - | 1 | 
+| 2022-09-24 | - | 1 | 
+| 2022-09-23 | - | 1 | 
+| 2022-09-22 | - | 1 | 
+| 2022-09-21 | - | 1 | 
+| 2022-09-20 | - | 1 | 
+| 2022-09-19 | - | 1 | 
+| 2022-09-18 | - | 1 | 
+| 2022-09-17 | - | 1 | 
+| 2022-09-16 | - | 1 | 
+| 2022-09-15 | - | 1 | 
+| 2022-09-14 | - | 1 | 
+| 2022-09-13 | - | 1 | 
+| 2022-09-12 | - | 1 | 
+| 2022-09-11 | - | 1 | 
+| 2022-09-10 | - | 1 | 
+| 2022-09-09 | - | 1 | 
+| 2022-09-08 | - | 1 | 
 
 
 [Detailed charts & statistics for hogeschoolnovi/frontend-react-fruit-perfection](https://reviewgithub.com/rep/hogeschoolnovi/frontend-react-fruit-perfection)

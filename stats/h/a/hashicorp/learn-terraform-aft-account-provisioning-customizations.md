@@ -1,46 +1,46 @@
-# hashicorp/learn-terraform-aft-account-provisioning-customizations / stars & forks statistics
-
-[Open repository/hashicorp/learn-terraform-aft-account-provisioning-customizations](https://github.com/hashicorp/learn-terraform-aft-account-provisioning-customizations)
+# hashicorp/learn-terraform-aft-account-provisioning-customizations - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 222
+☋ Forks: 278
 
 ★ Stars: 2
+
+[Open repository](https://github.com/hashicorp/learn-terraform-aft-account-provisioning-customizations)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 2 | 222 | 
-| 2022-07-29 | 2 | 221 | 
-| 2022-07-28 | 2 | 220 | 
-| 2022-07-27 | 2 | 218 | 
-| 2022-07-26 | 2 | 217 | 
-| 2022-07-25 | 2 | 217 | 
-| 2022-07-24 | 2 | 214 | 
-| 2022-07-23 | 2 | 213 | 
-| 2022-07-22 | 2 | 210 | 
-| 2022-07-21 | 1 | 209 | 
-| 2022-07-20 | 1 | 207 | 
-| 2022-07-19 | 1 | 208 | 
-| 2022-07-18 | 1 | 208 | 
-| 2022-07-17 | 1 | 208 | 
-| 2022-07-16 | 1 | 207 | 
-| 2022-07-15 | 1 | 206 | 
-| 2022-07-14 | 1 | 206 | 
-| 2022-07-13 | 1 | 204 | 
-| 2022-07-12 | 1 | 203 | 
-| 2022-07-11 | 1 | 201 | 
-| 2022-07-10 | 1 | 199 | 
-| 2022-07-09 | 1 | 199 | 
-| 2022-07-08 | 1 | 198 | 
-| 2022-07-07 | 1 | 195 | 
-| 2022-07-06 | 1 | 193 | 
-| 2022-07-05 | 1 | 193 | 
-| 2022-07-04 | 1 | 193 | 
-| 2022-07-03 | 1 | 194 | 
-| 2022-07-02 | 1 | 194 | 
-| 2022-07-01 | 1 | 193 | 
+| 2022-10-06 | 2 | 278 | 
+| 2022-10-05 | 2 | 277 | 
+| 2022-10-04 | 2 | 275 | 
+| 2022-10-03 | 2 | 272 | 
+| 2022-10-02 | 2 | 271 | 
+| 2022-10-01 | 2 | 271 | 
+| 2022-09-30 | 2 | 271 | 
+| 2022-09-29 | 2 | 269 | 
+| 2022-09-28 | 2 | 265 | 
+| 2022-09-27 | 2 | 265 | 
+| 2022-09-26 | 2 | 262 | 
+| 2022-09-25 | 2 | 261 | 
+| 2022-09-24 | 2 | 259 | 
+| 2022-09-23 | 2 | 259 | 
+| 2022-09-22 | 2 | 258 | 
+| 2022-09-21 | 2 | 257 | 
+| 2022-09-20 | 2 | 258 | 
+| 2022-09-19 | 2 | 258 | 
+| 2022-09-18 | 2 | 256 | 
+| 2022-09-17 | 2 | 256 | 
+| 2022-09-16 | 2 | 256 | 
+| 2022-09-15 | 2 | 254 | 
+| 2022-09-14 | 2 | 254 | 
+| 2022-09-13 | 2 | 251 | 
+| 2022-09-12 | 2 | 248 | 
+| 2022-09-11 | 2 | 247 | 
+| 2022-09-10 | 2 | 247 | 
+| 2022-09-09 | 2 | 246 | 
+| 2022-09-08 | 2 | 244 | 
+| 2022-09-07 | 2 | 245 | 
 
 
 [Detailed charts & statistics for hashicorp/learn-terraform-aft-account-provisioning-customizations](https://reviewgithub.com/rep/hashicorp/learn-terraform-aft-account-provisioning-customizations)

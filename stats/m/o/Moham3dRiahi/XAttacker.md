@@ -1,12 +1,12 @@
-# Moham3dRiahi/XAttacker / stars & forks statistics
-
-[Open repository/Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker)
+# Moham3dRiahi/XAttacker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/Moham3dRiahi/XAttacker)
 
 ## Historical data
 | Date | Stars | Forks |

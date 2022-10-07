@@ -1,6 +1,4 @@
-# MinchinWeb/openttd-wmdot / stars & forks statistics
-
-[Open repository/MinchinWeb/openttd-wmdot](https://github.com/MinchinWeb/openttd-wmdot)
+# MinchinWeb/openttd-wmdot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 8
 
+[Open repository](https://github.com/MinchinWeb/openttd-wmdot)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 8 | - | 
+| 2022-10-05 | 8 | - | 
+| 2022-10-04 | 8 | - | 
+| 2022-10-03 | 8 | - | 
 | 2022-10-02 | 8 | - | 
 | 2022-10-01 | 8 | - | 
 | 2022-09-30 | 8 | - | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 8 | - | 
 | 2022-09-09 | 8 | - | 
 | 2022-09-08 | 8 | - | 
-| 2022-09-07 | 8 | - | 
-| 2022-09-06 | 8 | - | 
-| 2022-09-05 | 8 | - | 
-| 2022-09-04 | 8 | - | 
-| 2022-09-03 | 8 | - | 
 
 
 [Detailed charts & statistics for MinchinWeb/openttd-wmdot](https://reviewgithub.com/rep/MinchinWeb/openttd-wmdot)

@@ -1,6 +1,4 @@
-# Ancientkingg/shader-shenanigans / stars & forks statistics
-
-[Open repository/Ancientkingg/shader-shenanigans](https://github.com/Ancientkingg/shader-shenanigans)
+# Ancientkingg/shader-shenanigans - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 61
 
+[Open repository](https://github.com/Ancientkingg/shader-shenanigans)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 61 | 17 | 
+| 2022-10-06 | 61 | 17 | 
+| 2022-10-05 | 61 | 17 | 
+| 2022-10-04 | 61 | 17 | 
+| 2022-10-03 | 61 | 17 | 
+| 2022-10-02 | 61 | 17 | 
+| 2022-10-01 | 61 | 17 | 
+| 2022-09-30 | 61 | 17 | 
+| 2022-09-29 | 61 | 17 | 
 | 2022-09-28 | 61 | 17 | 
 | 2022-09-27 | 61 | 17 | 
 | 2022-09-26 | 61 | 17 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 60 | 16 | 
 | 2022-09-08 | 58 | 16 | 
 | 2022-09-07 | 58 | 16 | 
-| 2022-09-06 | 58 | 16 | 
-| 2022-09-05 | 58 | 16 | 
-| 2022-09-04 | 58 | 16 | 
-| 2022-09-03 | 58 | 16 | 
-| 2022-09-02 | 58 | 16 | 
-| 2022-09-01 | 58 | 16 | 
-| 2022-08-31 | 57 | 16 | 
-| 2022-08-30 | 57 | 15 | 
-| 2022-08-29 | 57 | 15 | 
 
 
 [Detailed charts & statistics for Ancientkingg/shader-shenanigans](https://reviewgithub.com/rep/Ancientkingg/shader-shenanigans)

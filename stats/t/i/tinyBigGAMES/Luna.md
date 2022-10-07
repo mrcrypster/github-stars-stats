@@ -1,12 +1,12 @@
-# tinyBigGAMES/Luna / stars & forks statistics
-
-[Open repository/tinyBigGAMES/Luna](https://github.com/tinyBigGAMES/Luna)
+# tinyBigGAMES/Luna - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 7
+
+[Open repository](https://github.com/tinyBigGAMES/Luna)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# samrids/CustomCalendar / stars & forks statistics
-
-[Open repository/samrids/CustomCalendar](https://github.com/samrids/CustomCalendar)
+# samrids/CustomCalendar - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 4
+
+[Open repository](https://github.com/samrids/CustomCalendar)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# yanu102/doScript / stars & forks statistics
-
-[Open repository/yanu102/doScript](https://github.com/yanu102/doScript)
+# yanu102/doScript - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/yanu102/doScript)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,27 @@
-# FuShaoLei/hexo-theme-white / stars & forks statistics
-
-[Open repository/FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white)
+# FuShaoLei/hexo-theme-white - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 60
+☋ Forks: 65
 
-★ Stars: 123
+★ Stars: 127
+
+[Open repository](https://github.com/FuShaoLei/hexo-theme-white)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 127 | 65 | 
+| 2022-10-06 | 125 | 64 | 
+| 2022-10-05 | 125 | 63 | 
+| 2022-10-04 | 125 | 62 | 
+| 2022-10-03 | 125 | 63 | 
+| 2022-10-02 | 124 | 64 | 
+| 2022-10-01 | 124 | 63 | 
+| 2022-09-30 | 124 | 61 | 
+| 2022-09-29 | 124 | 61 | 
+| 2022-09-28 | 124 | 60 | 
+| 2022-09-27 | 124 | 60 | 
 | 2022-09-26 | 123 | 60 | 
 | 2022-09-25 | 123 | 59 | 
 | 2022-09-24 | 123 | 59 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 123 | 57 | 
 | 2022-09-09 | 123 | 57 | 
 | 2022-09-08 | 123 | 56 | 
-| 2022-09-07 | 123 | 56 | 
-| 2022-09-06 | 123 | 56 | 
-| 2022-09-05 | 123 | 56 | 
-| 2022-09-04 | 121 | 54 | 
-| 2022-09-03 | 119 | 51 | 
-| 2022-09-02 | 119 | 51 | 
-| 2022-09-01 | 119 | 52 | 
-| 2022-08-31 | 119 | 51 | 
-| 2022-08-30 | 118 | 51 | 
-| 2022-08-29 | 118 | 50 | 
-| 2022-08-28 | 117 | 49 | 
 
 
 [Detailed charts & statistics for FuShaoLei/hexo-theme-white](https://reviewgithub.com/rep/FuShaoLei/hexo-theme-white)

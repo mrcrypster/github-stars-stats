@@ -1,12 +1,12 @@
-# MineralsCloud/Express.jl / stars & forks statistics
-
-[Open repository/MineralsCloud/Express.jl](https://github.com/MineralsCloud/Express.jl)
+# MineralsCloud/Express.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
+
+[Open repository](https://github.com/MineralsCloud/Express.jl)
 
 ## Historical data
 | Date | Stars | Forks |

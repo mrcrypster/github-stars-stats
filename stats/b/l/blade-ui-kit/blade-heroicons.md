@@ -1,16 +1,25 @@
-# blade-ui-kit/blade-heroicons / stars & forks statistics
-
-[Open repository/blade-ui-kit/blade-heroicons](https://github.com/blade-ui-kit/blade-heroicons)
+# blade-ui-kit/blade-heroicons - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
-★ Stars: 352
+★ Stars: 355
+
+[Open repository](https://github.com/blade-ui-kit/blade-heroicons)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 355 | 40 | 
+| 2022-10-06 | 354 | 40 | 
+| 2022-10-05 | 353 | 40 | 
+| 2022-10-04 | 353 | 40 | 
+| 2022-10-03 | 353 | 40 | 
+| 2022-10-02 | 354 | 40 | 
+| 2022-10-01 | 354 | 40 | 
+| 2022-09-30 | 352 | 40 | 
+| 2022-09-29 | 352 | 40 | 
 | 2022-09-28 | 352 | 40 | 
 | 2022-09-27 | 351 | 40 | 
 | 2022-09-26 | 351 | 40 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 342 | 36 | 
 | 2022-09-09 | 342 | 36 | 
 | 2022-09-08 | 342 | 36 | 
-| 2022-09-06 | 342 | 36 | 
-| 2022-09-05 | 342 | 36 | 
-| 2022-09-04 | 343 | 36 | 
-| 2022-09-03 | 343 | 36 | 
-| 2022-09-02 | 343 | 36 | 
-| 2022-09-01 | 342 | 36 | 
-| 2022-08-31 | 341 | 36 | 
-| 2022-08-30 | 339 | 36 | 
-| 2022-08-29 | 339 | 36 | 
 
 
 [Detailed charts & statistics for blade-ui-kit/blade-heroicons](https://reviewgithub.com/rep/blade-ui-kit/blade-heroicons)

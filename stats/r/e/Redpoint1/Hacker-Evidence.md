@@ -1,12 +1,12 @@
-# Redpoint1/Hacker-Evidence / stars & forks statistics
-
-[Open repository/Redpoint1/Hacker-Evidence](https://github.com/Redpoint1/Hacker-Evidence)
+# Redpoint1/Hacker-Evidence - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Redpoint1/Hacker-Evidence)
 
 ## Historical data
 | Date | Stars | Forks |

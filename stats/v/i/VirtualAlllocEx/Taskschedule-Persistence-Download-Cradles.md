@@ -1,46 +1,46 @@
-# VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles / stars & forks statistics
-
-[Open repository/VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles](https://github.com/VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles)
+# VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
-★ Stars: 74
+★ Stars: 75
+
+[Open repository](https://github.com/VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-31 | 74 | 14 | 
-| 2022-07-30 | 74 | 14 | 
-| 2022-07-29 | 74 | 14 | 
-| 2022-07-28 | 74 | 14 | 
-| 2022-07-27 | 74 | 14 | 
-| 2022-07-26 | 74 | 14 | 
-| 2022-07-25 | 74 | 14 | 
-| 2022-07-24 | 74 | 14 | 
-| 2022-07-22 | 74 | 14 | 
-| 2022-07-21 | 74 | 14 | 
-| 2022-07-20 | 74 | 14 | 
-| 2022-07-19 | 74 | 14 | 
-| 2022-07-18 | 74 | 14 | 
-| 2022-07-17 | 74 | 14 | 
-| 2022-07-16 | 74 | 14 | 
-| 2022-07-15 | 74 | 14 | 
-| 2022-07-14 | 74 | 14 | 
-| 2022-07-13 | 74 | 14 | 
-| 2022-07-12 | 74 | 14 | 
-| 2022-07-11 | 74 | 14 | 
-| 2022-07-10 | 74 | 14 | 
-| 2022-07-09 | 74 | 14 | 
-| 2022-07-08 | 72 | 13 | 
-| 2022-07-07 | 61 | 12 | 
-| 2022-07-06 | 58 | 12 | 
-| 2022-07-05 | 58 | 12 | 
-| 2022-07-04 | 58 | 12 | 
-| 2022-07-03 | 58 | 12 | 
-| 2022-07-02 | 58 | 12 | 
-| 2022-07-01 | 58 | 12 | 
+| 2022-10-07 | 75 | 14 | 
+| 2022-10-06 | 75 | 14 | 
+| 2022-10-05 | 75 | 14 | 
+| 2022-10-04 | 75 | 14 | 
+| 2022-10-03 | 75 | 14 | 
+| 2022-10-02 | 75 | 14 | 
+| 2022-10-01 | 75 | 14 | 
+| 2022-09-30 | 75 | 14 | 
+| 2022-09-29 | 75 | 14 | 
+| 2022-09-28 | 75 | 14 | 
+| 2022-09-27 | 75 | 14 | 
+| 2022-09-26 | 75 | 14 | 
+| 2022-09-25 | 75 | 14 | 
+| 2022-09-24 | 75 | 14 | 
+| 2022-09-23 | 75 | 14 | 
+| 2022-09-21 | 75 | 14 | 
+| 2022-09-20 | 75 | 14 | 
+| 2022-09-19 | 75 | 14 | 
+| 2022-09-18 | 75 | 14 | 
+| 2022-09-17 | 75 | 14 | 
+| 2022-09-16 | 75 | 14 | 
+| 2022-09-15 | 75 | 14 | 
+| 2022-09-14 | 75 | 14 | 
+| 2022-09-13 | 75 | 14 | 
+| 2022-09-12 | 75 | 14 | 
+| 2022-09-11 | 75 | 14 | 
+| 2022-09-10 | 75 | 14 | 
+| 2022-09-09 | 75 | 14 | 
+| 2022-09-08 | 75 | 14 | 
+| 2022-09-07 | 74 | 14 | 
 
 
 [Detailed charts & statistics for VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles](https://reviewgithub.com/rep/VirtualAlllocEx/Taskschedule-Persistence-Download-Cradles)

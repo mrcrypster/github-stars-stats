@@ -1,12 +1,12 @@
-# pharo-nosql/mongotalk / stars & forks statistics
-
-[Open repository/pharo-nosql/mongotalk](https://github.com/pharo-nosql/mongotalk)
+# pharo-nosql/mongotalk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 18
+
+[Open repository](https://github.com/pharo-nosql/mongotalk)
 
 ## Historical data
 | Date | Stars | Forks |

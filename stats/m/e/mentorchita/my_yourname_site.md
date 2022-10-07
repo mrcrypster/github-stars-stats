@@ -1,12 +1,12 @@
-# mentorchita/my_yourname_site / stars & forks statistics
-
-[Open repository/mentorchita/my_yourname_site](https://github.com/mentorchita/my_yourname_site)
+# mentorchita/my_yourname_site - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 70
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mentorchita/my_yourname_site)
 
 ## Historical data
 | Date | Stars | Forks |

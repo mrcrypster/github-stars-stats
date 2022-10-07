@@ -1,12 +1,12 @@
-# gematik/spec-ISiP / stars & forks statistics
-
-[Open repository/gematik/spec-ISiP](https://github.com/gematik/spec-ISiP)
+# gematik/spec-ISiP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
+
+[Open repository](https://github.com/gematik/spec-ISiP)
 
 ## Historical data
 | Date | Stars | Forks |

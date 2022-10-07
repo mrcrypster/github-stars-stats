@@ -1,12 +1,12 @@
-# thumbtack/datadog-petshop / stars & forks statistics
-
-[Open repository/thumbtack/datadog-petshop](https://github.com/thumbtack/datadog-petshop)
+# thumbtack/datadog-petshop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/thumbtack/datadog-petshop)
 
 ## Historical data
 | Date | Stars | Forks |

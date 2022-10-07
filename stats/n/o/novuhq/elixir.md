@@ -1,6 +1,4 @@
-# novuhq/elixir / stars & forks statistics
-
-[Open repository/novuhq/elixir](https://github.com/novuhq/elixir)
+# novuhq/elixir - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 15
 
+[Open repository](https://github.com/novuhq/elixir)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 15 | 3 | 
+| 2022-10-05 | 15 | 3 | 
+| 2022-10-04 | 15 | 3 | 
+| 2022-10-03 | 15 | 3 | 
+| 2022-10-02 | 15 | 3 | 
+| 2022-10-01 | 15 | 3 | 
 | 2022-09-30 | 15 | 3 | 
 | 2022-09-29 | 15 | 3 | 
 | 2022-09-28 | 15 | 3 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 15 | 3 | 
 | 2022-09-09 | 15 | 3 | 
 | 2022-09-08 | 15 | 3 | 
-| 2022-09-07 | 15 | 3 | 
-| 2022-09-06 | 15 | 3 | 
-| 2022-09-05 | 14 | 2 | 
-| 2022-09-04 | 14 | 2 | 
-| 2022-09-03 | 13 | 2 | 
-| 2022-09-02 | 13 | 1 | 
-| 2022-09-01 | 13 | 1 | 
 
 
 [Detailed charts & statistics for novuhq/elixir](https://reviewgithub.com/rep/novuhq/elixir)

@@ -1,16 +1,26 @@
-# learn-co-curriculum/phase-3-active-record-associations-many-to-many / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-3-active-record-associations-many-to-many](https://github.com/learn-co-curriculum/phase-3-active-record-associations-many-to-many)
+# learn-co-curriculum/phase-3-active-record-associations-many-to-many - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1219
+☋ Forks: 1234
 
 ★ Stars: 0
+
+[Open repository](https://github.com/learn-co-curriculum/phase-3-active-record-associations-many-to-many)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 1234 | 
+| 2022-10-06 | - | 1234 | 
+| 2022-10-05 | - | 1232 | 
+| 2022-10-04 | - | 1232 | 
+| 2022-10-03 | - | 1232 | 
+| 2022-10-02 | - | 1232 | 
+| 2022-10-01 | - | 1231 | 
+| 2022-09-30 | - | 1230 | 
+| 2022-09-29 | - | 1230 | 
+| 2022-09-28 | - | 1227 | 
 | 2022-09-27 | - | 1219 | 
 | 2022-09-26 | - | 1211 | 
 | 2022-09-25 | - | 1206 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 1170 | 
 | 2022-09-08 | - | 1165 | 
 | 2022-09-07 | - | 1155 | 
-| 2022-09-06 | - | 1146 | 
-| 2022-09-05 | - | 1133 | 
-| 2022-09-04 | - | 1122 | 
-| 2022-09-03 | - | 1111 | 
-| 2022-09-02 | - | 1098 | 
-| 2022-09-01 | - | 1071 | 
-| 2022-08-31 | - | 1043 | 
-| 2022-08-30 | - | 1002 | 
-| 2022-08-29 | - | 968 | 
-| 2022-08-28 | - | 961 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-3-active-record-associations-many-to-many](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-active-record-associations-many-to-many)

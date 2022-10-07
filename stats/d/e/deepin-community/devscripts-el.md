@@ -1,12 +1,12 @@
-# deepin-community/devscripts-el / stars & forks statistics
-
-[Open repository/deepin-community/devscripts-el](https://github.com/deepin-community/devscripts-el)
+# deepin-community/devscripts-el - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/devscripts-el)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,23 @@
-# elastic/docs / stars & forks statistics
-
-[Open repository/elastic/docs](https://github.com/elastic/docs)
+# elastic/docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 309
+☋ Forks: 308
 
 ★ Stars: 221
+
+[Open repository](https://github.com/elastic/docs)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 221 | 308 | 
+| 2022-10-05 | 221 | 309 | 
+| 2022-10-04 | 221 | 309 | 
+| 2022-10-03 | 220 | 309 | 
+| 2022-10-02 | 220 | 309 | 
+| 2022-10-01 | 220 | 309 | 
+| 2022-09-30 | 221 | 309 | 
 | 2022-09-29 | 221 | 309 | 
 | 2022-09-28 | 221 | 309 | 
 | 2022-09-27 | 221 | 309 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 221 | 308 | 
 | 2022-09-09 | 221 | 308 | 
 | 2022-09-08 | 221 | 308 | 
-| 2022-09-07 | 221 | 308 | 
-| 2022-09-06 | 221 | 308 | 
-| 2022-09-05 | 221 | 308 | 
-| 2022-09-04 | 221 | 308 | 
-| 2022-09-03 | 221 | 308 | 
-| 2022-09-02 | 221 | 308 | 
-| 2022-09-01 | 221 | 308 | 
-| 2022-08-31 | 221 | 308 | 
 
 
 [Detailed charts & statistics for elastic/docs](https://reviewgithub.com/rep/elastic/docs)

@@ -1,12 +1,12 @@
-# kerams/Fable.SqlJs / stars & forks statistics
-
-[Open repository/kerams/Fable.SqlJs](https://github.com/kerams/Fable.SqlJs)
+# kerams/Fable.SqlJs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 11
+
+[Open repository](https://github.com/kerams/Fable.SqlJs)
 
 ## Historical data
 | Date | Stars | Forks |

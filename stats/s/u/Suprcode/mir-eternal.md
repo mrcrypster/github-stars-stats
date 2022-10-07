@@ -1,12 +1,12 @@
-# Suprcode/mir-eternal / stars & forks statistics
-
-[Open repository/Suprcode/mir-eternal](https://github.com/Suprcode/mir-eternal)
+# Suprcode/mir-eternal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 105
+
+[Open repository](https://github.com/Suprcode/mir-eternal)
 
 ## Historical data
 | Date | Stars | Forks |

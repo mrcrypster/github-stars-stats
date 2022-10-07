@@ -1,16 +1,27 @@
-# vmware-samples/euc-samples / stars & forks statistics
-
-[Open repository/vmware-samples/euc-samples](https://github.com/vmware-samples/euc-samples)
+# vmware-samples/euc-samples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 131
+☋ Forks: 132
 
-★ Stars: 221
+★ Stars: 223
+
+[Open repository](https://github.com/vmware-samples/euc-samples)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 223 | 132 | 
+| 2022-10-06 | 223 | 132 | 
+| 2022-10-05 | 223 | 132 | 
+| 2022-10-04 | 223 | 131 | 
+| 2022-10-03 | 221 | 131 | 
+| 2022-10-02 | 221 | 131 | 
+| 2022-10-01 | 221 | 131 | 
+| 2022-09-30 | 221 | 131 | 
+| 2022-09-29 | 221 | 131 | 
+| 2022-09-28 | 221 | 131 | 
+| 2022-09-27 | 221 | 131 | 
 | 2022-09-26 | 221 | 131 | 
 | 2022-09-25 | 221 | 131 | 
 | 2022-09-24 | 221 | 131 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 220 | 130 | 
 | 2022-09-08 | 220 | 130 | 
 | 2022-09-07 | 220 | 130 | 
-| 2022-09-06 | 220 | 130 | 
-| 2022-09-05 | 220 | 130 | 
-| 2022-09-04 | 220 | 130 | 
-| 2022-09-03 | 220 | 130 | 
-| 2022-09-02 | 220 | 130 | 
-| 2022-09-01 | 220 | 130 | 
-| 2022-08-31 | 220 | 130 | 
-| 2022-08-30 | 220 | 130 | 
-| 2022-08-29 | 219 | 130 | 
-| 2022-08-28 | 219 | 130 | 
-| 2022-08-27 | 219 | 130 | 
 
 
 [Detailed charts & statistics for vmware-samples/euc-samples](https://reviewgithub.com/rep/vmware-samples/euc-samples)

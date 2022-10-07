@@ -1,12 +1,12 @@
-# CamHenlin/FocusedEdit / stars & forks statistics
-
-[Open repository/CamHenlin/FocusedEdit](https://github.com/CamHenlin/FocusedEdit)
+# CamHenlin/FocusedEdit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 46
+
+[Open repository](https://github.com/CamHenlin/FocusedEdit)
 
 ## Historical data
 | Date | Stars | Forks |

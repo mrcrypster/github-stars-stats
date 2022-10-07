@@ -1,12 +1,12 @@
-# timholy/MethodAnalysis.jl / stars & forks statistics
-
-[Open repository/timholy/MethodAnalysis.jl](https://github.com/timholy/MethodAnalysis.jl)
+# timholy/MethodAnalysis.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 80
+
+[Open repository](https://github.com/timholy/MethodAnalysis.jl)
 
 ## Historical data
 | Date | Stars | Forks |

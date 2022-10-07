@@ -1,12 +1,12 @@
-# ThomasHintz/stock-green / stars & forks statistics
-
-[Open repository/ThomasHintz/stock-green](https://github.com/ThomasHintz/stock-green)
+# ThomasHintz/stock-green - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/ThomasHintz/stock-green)
 
 ## Historical data
 | Date | Stars | Forks |

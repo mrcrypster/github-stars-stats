@@ -1,12 +1,12 @@
-# learn-co-curriculum/phase-4-rails-resources-update / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-4-rails-resources-update](https://github.com/learn-co-curriculum/phase-4-rails-resources-update)
+# learn-co-curriculum/phase-4-rails-resources-update - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1176
 
 ★ Stars: 0
+
+[Open repository](https://github.com/learn-co-curriculum/phase-4-rails-resources-update)
 
 ## Historical data
 | Date | Stars | Forks |

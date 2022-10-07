@@ -1,12 +1,12 @@
-# tdenc/TDEnc / stars & forks statistics
-
-[Open repository/tdenc/TDEnc](https://github.com/tdenc/TDEnc)
+# tdenc/TDEnc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 23
+
+[Open repository](https://github.com/tdenc/TDEnc)
 
 ## Historical data
 | Date | Stars | Forks |

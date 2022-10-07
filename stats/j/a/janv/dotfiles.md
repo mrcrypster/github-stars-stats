@@ -1,12 +1,12 @@
-# janv/dotfiles / stars & forks statistics
-
-[Open repository/janv/dotfiles](https://github.com/janv/dotfiles)
+# janv/dotfiles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/janv/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# vincentdchan/CubyText / stars & forks statistics
-
-[Open repository/vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
+# vincentdchan/CubyText - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 481
+
+[Open repository](https://github.com/vincentdchan/CubyText)
 
 ## Historical data
 | Date | Stars | Forks |

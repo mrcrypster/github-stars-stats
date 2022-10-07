@@ -1,6 +1,4 @@
-# cloudposse/terraform-github-repository-webhooks / stars & forks statistics
-
-[Open repository/cloudposse/terraform-github-repository-webhooks](https://github.com/cloudposse/terraform-github-repository-webhooks)
+# cloudposse/terraform-github-repository-webhooks - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,27 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 23
 
+[Open repository](https://github.com/cloudposse/terraform-github-repository-webhooks)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 23 | 23 | 
+| 2022-10-05 | 23 | 23 | 
+| 2022-10-04 | 23 | 23 | 
+| 2022-10-03 | 23 | 23 | 
+| 2022-10-02 | 23 | 23 | 
+| 2022-10-01 | 23 | 23 | 
+| 2022-09-30 | 23 | 23 | 
+| 2022-09-29 | 23 | 23 | 
+| 2022-09-28 | 23 | 23 | 
+| 2022-09-27 | 23 | 23 | 
+| 2022-09-26 | 23 | 23 | 
+| 2022-09-25 | 23 | 23 | 
+| 2022-09-24 | 23 | 23 | 
+| 2022-09-23 | 23 | 23 | 
+| 2022-09-22 | 23 | 23 | 
+| 2022-09-21 | 23 | 23 | 
 | 2022-09-20 | 23 | 23 | 
 | 2022-09-19 | 23 | 23 | 
 | 2022-09-18 | 23 | 23 | 
@@ -24,23 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 23 | 23 | 
 | 2022-09-09 | 23 | 23 | 
 | 2022-09-08 | 23 | 23 | 
-| 2022-09-07 | 23 | 23 | 
-| 2022-09-06 | 23 | 23 | 
-| 2022-09-05 | 23 | 23 | 
-| 2022-09-04 | 23 | 23 | 
-| 2022-09-03 | 23 | 23 | 
-| 2022-09-02 | 23 | 23 | 
-| 2022-09-01 | 23 | 23 | 
-| 2022-08-30 | 23 | 23 | 
-| 2022-08-29 | 23 | 23 | 
-| 2022-08-28 | 23 | 23 | 
-| 2022-08-27 | 23 | 23 | 
-| 2022-08-26 | 23 | 23 | 
-| 2022-08-25 | 23 | 23 | 
-| 2022-08-24 | 23 | 23 | 
-| 2022-08-23 | 23 | 23 | 
-| 2022-08-22 | 23 | 23 | 
-| 2022-08-21 | 23 | 23 | 
 
 
 [Detailed charts & statistics for cloudposse/terraform-github-repository-webhooks](https://reviewgithub.com/rep/cloudposse/terraform-github-repository-webhooks)

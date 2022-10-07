@@ -1,12 +1,12 @@
-# dubiouspotions/DubiousWare / stars & forks statistics
-
-[Open repository/dubiouspotions/DubiousWare](https://github.com/dubiouspotions/DubiousWare)
+# dubiouspotions/DubiousWare - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/dubiouspotions/DubiousWare)
 
 ## Historical data
 | Date | Stars | Forks |

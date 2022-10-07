@@ -1,6 +1,4 @@
-# obsidiansystems/rhyolite / stars & forks statistics
-
-[Open repository/obsidiansystems/rhyolite](https://github.com/obsidiansystems/rhyolite)
+# obsidiansystems/rhyolite - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 20
 
+[Open repository](https://github.com/obsidiansystems/rhyolite)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 20 | 18 | 
+| 2022-10-05 | 20 | 18 | 
+| 2022-10-04 | 20 | 18 | 
+| 2022-10-03 | 20 | 18 | 
+| 2022-10-02 | 20 | 18 | 
+| 2022-10-01 | 20 | 18 | 
+| 2022-09-30 | 20 | 18 | 
+| 2022-09-29 | 20 | 18 | 
 | 2022-09-28 | 20 | 18 | 
 | 2022-09-27 | 20 | 18 | 
 | 2022-09-26 | 20 | 18 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 20 | 16 | 
 | 2022-09-09 | 20 | 16 | 
 | 2022-09-08 | 20 | 16 | 
-| 2022-09-07 | 20 | 16 | 
-| 2022-09-06 | 20 | 16 | 
-| 2022-09-05 | 20 | 16 | 
-| 2022-09-04 | 20 | 16 | 
-| 2022-09-03 | 20 | 16 | 
-| 2022-09-02 | 19 | 16 | 
-| 2022-09-01 | 19 | 16 | 
-| 2022-08-31 | 19 | 16 | 
-| 2022-08-30 | 19 | 16 | 
 
 
 [Detailed charts & statistics for obsidiansystems/rhyolite](https://reviewgithub.com/rep/obsidiansystems/rhyolite)

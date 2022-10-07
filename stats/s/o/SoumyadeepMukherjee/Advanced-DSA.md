@@ -1,12 +1,12 @@
-# SoumyadeepMukherjee/Advanced-DSA / stars & forks statistics
-
-[Open repository/SoumyadeepMukherjee/Advanced-DSA](https://github.com/SoumyadeepMukherjee/Advanced-DSA)
+# SoumyadeepMukherjee/Advanced-DSA - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 62
 
 ★ Stars: 14
+
+[Open repository](https://github.com/SoumyadeepMukherjee/Advanced-DSA)
 
 ## Historical data
 | Date | Stars | Forks |

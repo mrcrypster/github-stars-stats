@@ -1,12 +1,12 @@
-# fin3ss3g0d/evilgophish / stars & forks statistics
-
-[Open repository/fin3ss3g0d/evilgophish](https://github.com/fin3ss3g0d/evilgophish)
+# fin3ss3g0d/evilgophish - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 78
 
 ★ Stars: 570
+
+[Open repository](https://github.com/fin3ss3g0d/evilgophish)
 
 ## Historical data
 | Date | Stars | Forks |

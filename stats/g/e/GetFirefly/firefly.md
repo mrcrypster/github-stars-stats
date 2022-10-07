@@ -1,12 +1,12 @@
-# GetFirefly/firefly / stars & forks statistics
-
-[Open repository/GetFirefly/firefly](https://github.com/GetFirefly/firefly)
+# GetFirefly/firefly - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 93
 
 ★ Stars: 3044
+
+[Open repository](https://github.com/GetFirefly/firefly)
 
 ## Historical data
 | Date | Stars | Forks |

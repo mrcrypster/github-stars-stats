@@ -1,12 +1,12 @@
-# thomas-fossati/draft-ftbs-rats-msg-wrap / stars & forks statistics
-
-[Open repository/thomas-fossati/draft-ftbs-rats-msg-wrap](https://github.com/thomas-fossati/draft-ftbs-rats-msg-wrap)
+# thomas-fossati/draft-ftbs-rats-msg-wrap - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/thomas-fossati/draft-ftbs-rats-msg-wrap)
 
 ## Historical data
 | Date | Stars | Forks |

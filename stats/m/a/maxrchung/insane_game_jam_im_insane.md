@@ -1,12 +1,12 @@
-# maxrchung/insane_game_jam_im_insane / stars & forks statistics
-
-[Open repository/maxrchung/insane_game_jam_im_insane](https://github.com/maxrchung/insane_game_jam_im_insane)
+# maxrchung/insane_game_jam_im_insane - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/maxrchung/insane_game_jam_im_insane)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# amanusk/cairo-paradigm-ctf / stars & forks statistics
-
-[Open repository/amanusk/cairo-paradigm-ctf](https://github.com/amanusk/cairo-paradigm-ctf)
+# amanusk/cairo-paradigm-ctf - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 10
 
+[Open repository](https://github.com/amanusk/cairo-paradigm-ctf)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 10 | - | 
+| 2022-10-05 | 10 | - | 
+| 2022-10-04 | 10 | - | 
+| 2022-10-03 | 10 | - | 
+| 2022-10-02 | 10 | - | 
+| 2022-10-01 | 10 | - | 
 | 2022-09-30 | 10 | - | 
 | 2022-09-29 | 10 | - | 
 | 2022-09-28 | 10 | - | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 8 | - | 
 | 2022-09-09 | 8 | - | 
 | 2022-09-08 | 8 | - | 
-| 2022-09-07 | 8 | - | 
-| 2022-09-06 | 8 | - | 
-| 2022-09-05 | 8 | - | 
-| 2022-09-04 | 8 | - | 
-| 2022-09-03 | 8 | - | 
-| 2022-09-02 | 8 | - | 
-| 2022-09-01 | 8 | - | 
 
 
 [Detailed charts & statistics for amanusk/cairo-paradigm-ctf](https://reviewgithub.com/rep/amanusk/cairo-paradigm-ctf)

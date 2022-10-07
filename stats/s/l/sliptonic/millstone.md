@@ -1,12 +1,12 @@
-# sliptonic/millstone / stars & forks statistics
-
-[Open repository/sliptonic/millstone](https://github.com/sliptonic/millstone)
+# sliptonic/millstone - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/sliptonic/millstone)
 
 ## Historical data
 | Date | Stars | Forks |

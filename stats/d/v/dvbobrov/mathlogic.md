@@ -1,12 +1,12 @@
-# dvbobrov/mathlogic / stars & forks statistics
-
-[Open repository/dvbobrov/mathlogic](https://github.com/dvbobrov/mathlogic)
+# dvbobrov/mathlogic - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/dvbobrov/mathlogic)
 
 ## Historical data
 | Date | Stars | Forks |

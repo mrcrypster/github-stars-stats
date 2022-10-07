@@ -1,12 +1,12 @@
-# lab-project-02/nomad-graffiti-project / stars & forks statistics
-
-[Open repository/lab-project-02/nomad-graffiti-project](https://github.com/lab-project-02/nomad-graffiti-project)
+# lab-project-02/nomad-graffiti-project - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/lab-project-02/nomad-graffiti-project)
 
 ## Historical data
 | Date | Stars | Forks |

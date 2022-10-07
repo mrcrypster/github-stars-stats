@@ -1,12 +1,12 @@
-# ertugrulcetin/procedure.async / stars & forks statistics
-
-[Open repository/ertugrulcetin/procedure.async](https://github.com/ertugrulcetin/procedure.async)
+# ertugrulcetin/procedure.async - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 13
+
+[Open repository](https://github.com/ertugrulcetin/procedure.async)
 
 ## Historical data
 | Date | Stars | Forks |

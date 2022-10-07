@@ -1,6 +1,4 @@
-# bitoid/bksi / stars & forks statistics
-
-[Open repository/bitoid/bksi](https://github.com/bitoid/bksi)
+# bitoid/bksi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/bitoid/bksi)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3 | - | 
+| 2022-10-06 | 3 | - | 
+| 2022-10-05 | 3 | - | 
+| 2022-10-04 | 3 | - | 
+| 2022-10-03 | 3 | - | 
+| 2022-10-02 | 3 | - | 
 | 2022-10-01 | 3 | - | 
 | 2022-09-30 | 3 | - | 
 | 2022-09-29 | 3 | - | 
@@ -35,12 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | - | 
 | 2022-09-09 | 3 | - | 
 | 2022-09-08 | 3 | - | 
-| 2022-09-07 | 3 | - | 
-| 2022-09-06 | 3 | - | 
-| 2022-09-05 | 3 | - | 
-| 2022-09-04 | 3 | - | 
-| 2022-09-03 | 3 | - | 
-| 2022-09-02 | 3 | - | 
 
 
 [Detailed charts & statistics for bitoid/bksi](https://reviewgithub.com/rep/bitoid/bksi)

@@ -1,12 +1,12 @@
-# halkyonio/assemble-platforms / stars & forks statistics
-
-[Open repository/halkyonio/assemble-platforms](https://github.com/halkyonio/assemble-platforms)
+# halkyonio/assemble-platforms - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
+
+[Open repository](https://github.com/halkyonio/assemble-platforms)
 
 ## Historical data
 | Date | Stars | Forks |

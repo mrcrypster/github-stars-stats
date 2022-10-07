@@ -1,46 +1,46 @@
-# JamesRavenlake/The-New-Order-Unfinished-Businesses / stars & forks statistics
-
-[Open repository/JamesRavenlake/The-New-Order-Unfinished-Businesses](https://github.com/JamesRavenlake/The-New-Order-Unfinished-Businesses)
+# JamesRavenlake/The-New-Order-Unfinished-Businesses - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 2
+
+[Open repository](https://github.com/JamesRavenlake/The-New-Order-Unfinished-Businesses)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-13 | 2 | 4 | 
-| 2022-08-12 | 2 | 4 | 
-| 2022-08-11 | 2 | 4 | 
-| 2022-08-10 | 2 | 4 | 
-| 2022-08-09 | 2 | 4 | 
-| 2022-08-08 | 2 | 4 | 
-| 2022-08-07 | 2 | 4 | 
-| 2022-08-06 | 2 | 4 | 
-| 2022-08-05 | 2 | 4 | 
-| 2022-08-04 | 2 | 4 | 
-| 2022-08-03 | 2 | 4 | 
-| 2022-08-02 | 2 | 4 | 
-| 2022-08-01 | 2 | 4 | 
-| 2022-07-31 | 2 | 4 | 
-| 2022-07-30 | 2 | 4 | 
-| 2022-07-29 | 2 | 4 | 
-| 2022-07-28 | 2 | 4 | 
-| 2022-07-27 | 2 | 4 | 
-| 2022-07-26 | 2 | 4 | 
-| 2022-07-25 | 2 | 4 | 
-| 2022-07-24 | 2 | 4 | 
-| 2022-07-23 | 2 | 4 | 
-| 2022-07-22 | 2 | 4 | 
-| 2022-07-21 | 2 | 4 | 
-| 2022-07-20 | 2 | 4 | 
-| 2022-07-19 | 2 | 4 | 
-| 2022-07-18 | 1 | 4 | 
-| 2022-07-17 | 1 | 4 | 
-| 2022-07-16 | 1 | 4 | 
-| 2022-07-15 | 1 | 4 | 
+| 2022-10-07 | 2 | 5 | 
+| 2022-10-06 | 2 | 5 | 
+| 2022-10-05 | 2 | 5 | 
+| 2022-10-04 | 2 | 5 | 
+| 2022-10-03 | 2 | 5 | 
+| 2022-10-02 | 2 | 5 | 
+| 2022-10-01 | 2 | 5 | 
+| 2022-09-30 | 2 | 5 | 
+| 2022-09-29 | 2 | 5 | 
+| 2022-09-28 | 2 | 5 | 
+| 2022-09-27 | 2 | 5 | 
+| 2022-09-25 | 2 | 5 | 
+| 2022-09-24 | 2 | 5 | 
+| 2022-09-23 | 2 | 5 | 
+| 2022-09-22 | 2 | 5 | 
+| 2022-09-21 | 2 | 5 | 
+| 2022-09-20 | 2 | 5 | 
+| 2022-09-19 | 2 | 5 | 
+| 2022-09-18 | 2 | 5 | 
+| 2022-09-17 | 2 | 5 | 
+| 2022-09-16 | 2 | 5 | 
+| 2022-09-15 | 2 | 5 | 
+| 2022-09-14 | 2 | 5 | 
+| 2022-09-13 | 2 | 5 | 
+| 2022-09-12 | 2 | 5 | 
+| 2022-09-11 | 2 | 5 | 
+| 2022-09-10 | 2 | 5 | 
+| 2022-09-09 | 2 | 5 | 
+| 2022-09-08 | 2 | 5 | 
+| 2022-09-07 | 2 | 5 | 
 
 
 [Detailed charts & statistics for JamesRavenlake/The-New-Order-Unfinished-Businesses](https://reviewgithub.com/rep/JamesRavenlake/The-New-Order-Unfinished-Businesses)

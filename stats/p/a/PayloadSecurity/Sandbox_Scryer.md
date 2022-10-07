@@ -1,12 +1,12 @@
-# PayloadSecurity/Sandbox_Scryer / stars & forks statistics
-
-[Open repository/PayloadSecurity/Sandbox_Scryer](https://github.com/PayloadSecurity/Sandbox_Scryer)
+# PayloadSecurity/Sandbox_Scryer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 167
+
+[Open repository](https://github.com/PayloadSecurity/Sandbox_Scryer)
 
 ## Historical data
 | Date | Stars | Forks |

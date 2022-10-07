@@ -1,12 +1,12 @@
-# ginqi7/global-interactive-emacs / stars & forks statistics
-
-[Open repository/ginqi7/global-interactive-emacs](https://github.com/ginqi7/global-interactive-emacs)
+# ginqi7/global-interactive-emacs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 45
+
+[Open repository](https://github.com/ginqi7/global-interactive-emacs)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# Crystal123-123/docker-compose / stars & forks statistics
-
-[Open repository/Crystal123-123/docker-compose](https://github.com/Crystal123-123/docker-compose)
+# Crystal123-123/docker-compose - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Crystal123-123/docker-compose)
 
 ## Historical data
 | Date | Stars | Forks |

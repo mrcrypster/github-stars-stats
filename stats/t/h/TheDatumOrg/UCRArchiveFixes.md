@@ -1,12 +1,12 @@
-# TheDatumOrg/UCRArchiveFixes / stars & forks statistics
-
-[Open repository/TheDatumOrg/UCRArchiveFixes](https://github.com/TheDatumOrg/UCRArchiveFixes)
+# TheDatumOrg/UCRArchiveFixes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
 ★ Stars: 46
+
+[Open repository](https://github.com/TheDatumOrg/UCRArchiveFixes)
 
 ## Historical data
 | Date | Stars | Forks |

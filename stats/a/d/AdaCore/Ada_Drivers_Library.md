@@ -1,16 +1,30 @@
-# AdaCore/Ada_Drivers_Library / stars & forks statistics
-
-[Open repository/AdaCore/Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library)
+# AdaCore/Ada_Drivers_Library - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 129
 
-★ Stars: 195
+★ Stars: 196
+
+[Open repository](https://github.com/AdaCore/Ada_Drivers_Library)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 196 | 129 | 
+| 2022-10-06 | 196 | 129 | 
+| 2022-10-05 | 196 | 129 | 
+| 2022-10-04 | 196 | 129 | 
+| 2022-10-03 | 196 | 129 | 
+| 2022-10-02 | 196 | 129 | 
+| 2022-10-01 | 196 | 129 | 
+| 2022-09-30 | 196 | 129 | 
+| 2022-09-29 | 196 | 129 | 
+| 2022-09-28 | 196 | 129 | 
+| 2022-09-27 | 196 | 129 | 
+| 2022-09-26 | 196 | 129 | 
+| 2022-09-25 | 196 | 129 | 
+| 2022-09-24 | 195 | 129 | 
 | 2022-09-23 | 195 | 129 | 
 | 2022-09-22 | 195 | 128 | 
 | 2022-09-20 | 195 | 128 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 195 | 128 | 
 | 2022-09-08 | 195 | 128 | 
 | 2022-09-07 | 195 | 128 | 
-| 2022-09-06 | 195 | 128 | 
-| 2022-09-05 | 195 | 128 | 
-| 2022-09-04 | 195 | 128 | 
-| 2022-09-03 | 195 | 128 | 
-| 2022-09-02 | 194 | 128 | 
-| 2022-09-01 | 194 | 128 | 
-| 2022-08-31 | 194 | 128 | 
-| 2022-08-30 | 194 | 128 | 
-| 2022-08-29 | 194 | 128 | 
-| 2022-08-28 | 194 | 128 | 
-| 2022-08-27 | 194 | 128 | 
-| 2022-08-26 | 194 | 128 | 
-| 2022-08-25 | 192 | 127 | 
-| 2022-08-24 | 192 | 127 | 
 
 
 [Detailed charts & statistics for AdaCore/Ada_Drivers_Library](https://reviewgithub.com/rep/AdaCore/Ada_Drivers_Library)

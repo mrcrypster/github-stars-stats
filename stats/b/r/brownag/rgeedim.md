@@ -1,12 +1,12 @@
-# brownag/rgeedim / stars & forks statistics
-
-[Open repository/brownag/rgeedim](https://github.com/brownag/rgeedim)
+# brownag/rgeedim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 13
+
+[Open repository](https://github.com/brownag/rgeedim)
 
 ## Historical data
 | Date | Stars | Forks |

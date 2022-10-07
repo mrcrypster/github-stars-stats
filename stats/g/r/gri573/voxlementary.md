@@ -1,16 +1,30 @@
-# gri573/voxlementary / stars & forks statistics
-
-[Open repository/gri573/voxlementary](https://github.com/gri573/voxlementary)
+# gri573/voxlementary - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 70
+
+[Open repository](https://github.com/gri573/voxlementary)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 70 | 9 | 
+| 2022-10-06 | 70 | 9 | 
+| 2022-10-05 | 70 | 9 | 
+| 2022-10-04 | 70 | 9 | 
+| 2022-10-03 | 70 | 8 | 
+| 2022-10-02 | 70 | 8 | 
+| 2022-10-01 | 70 | 8 | 
+| 2022-09-30 | 70 | 8 | 
+| 2022-09-29 | 70 | 8 | 
+| 2022-09-28 | 70 | 8 | 
+| 2022-09-27 | 70 | 8 | 
+| 2022-09-26 | 70 | 8 | 
+| 2022-09-25 | 70 | 8 | 
+| 2022-09-24 | 70 | 8 | 
 | 2022-09-23 | 70 | 8 | 
 | 2022-09-22 | 70 | 8 | 
 | 2022-09-21 | 71 | 8 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 71 | 8 | 
 | 2022-09-08 | 71 | 8 | 
 | 2022-09-07 | 71 | 8 | 
-| 2022-09-06 | 71 | 8 | 
-| 2022-09-05 | 71 | 8 | 
-| 2022-09-04 | 71 | 8 | 
-| 2022-09-03 | 71 | 8 | 
-| 2022-09-02 | 71 | 8 | 
-| 2022-09-01 | 71 | 8 | 
-| 2022-08-31 | 71 | 8 | 
-| 2022-08-30 | 71 | 8 | 
-| 2022-08-29 | 71 | 8 | 
-| 2022-08-28 | 71 | 8 | 
-| 2022-08-27 | 71 | 8 | 
-| 2022-08-26 | 71 | 8 | 
-| 2022-08-25 | 71 | 8 | 
-| 2022-08-24 | 71 | 8 | 
 
 
 [Detailed charts & statistics for gri573/voxlementary](https://reviewgithub.com/rep/gri573/voxlementary)

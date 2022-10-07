@@ -1,6 +1,4 @@
-# cookieforpres/spaceship / stars & forks statistics
-
-[Open repository/cookieforpres/spaceship](https://github.com/cookieforpres/spaceship)
+# cookieforpres/spaceship - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 20
 
+[Open repository](https://github.com/cookieforpres/spaceship)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 20 | - | 
 | 2022-10-05 | 20 | - | 
 | 2022-10-04 | 20 | - | 
 | 2022-10-03 | 19 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 17 | - | 
 | 2022-09-09 | 17 | - | 
 | 2022-09-08 | 17 | - | 
-| 2022-09-07 | 17 | - | 
-| 2022-09-06 | 17 | - | 
 
 
 [Detailed charts & statistics for cookieforpres/spaceship](https://reviewgithub.com/rep/cookieforpres/spaceship)

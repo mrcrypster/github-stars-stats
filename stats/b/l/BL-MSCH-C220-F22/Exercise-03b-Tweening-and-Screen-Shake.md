@@ -1,12 +1,12 @@
-# BL-MSCH-C220-F22/Exercise-03b-Tweening-and-Screen-Shake / stars & forks statistics
-
-[Open repository/BL-MSCH-C220-F22/Exercise-03b-Tweening-and-Screen-Shake](https://github.com/BL-MSCH-C220-F22/Exercise-03b-Tweening-and-Screen-Shake)
+# BL-MSCH-C220-F22/Exercise-03b-Tweening-and-Screen-Shake - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 0
+
+[Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-03b-Tweening-and-Screen-Shake)
 
 ## Historical data
 | Date | Stars | Forks |

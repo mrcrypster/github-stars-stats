@@ -1,16 +1,27 @@
-# peter-tharwat/countries / stars & forks statistics
-
-[Open repository/peter-tharwat/countries](https://github.com/peter-tharwat/countries)
+# peter-tharwat/countries - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 81
+
+[Open repository](https://github.com/peter-tharwat/countries)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 81 | 29 | 
+| 2022-10-06 | 81 | 29 | 
+| 2022-10-05 | 81 | 29 | 
+| 2022-10-04 | 81 | 29 | 
+| 2022-10-03 | 81 | 29 | 
+| 2022-10-02 | 81 | 29 | 
+| 2022-10-01 | 81 | 29 | 
+| 2022-09-30 | 81 | 29 | 
+| 2022-09-29 | 81 | 28 | 
+| 2022-09-28 | 81 | 28 | 
+| 2022-09-27 | 81 | 28 | 
 | 2022-09-26 | 81 | 28 | 
 | 2022-09-25 | 81 | 28 | 
 | 2022-09-24 | 81 | 28 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 79 | 28 | 
 | 2022-09-08 | 78 | 28 | 
 | 2022-09-07 | 78 | 28 | 
-| 2022-09-06 | 78 | 28 | 
-| 2022-09-05 | 78 | 28 | 
-| 2022-09-04 | 78 | 28 | 
-| 2022-09-03 | 76 | 28 | 
-| 2022-09-02 | 76 | 27 | 
-| 2022-09-01 | 76 | 27 | 
-| 2022-08-31 | 76 | 27 | 
-| 2022-08-30 | 74 | 26 | 
-| 2022-08-29 | 72 | 26 | 
-| 2022-08-28 | 72 | 23 | 
-| 2022-08-27 | 67 | 23 | 
 
 
 [Detailed charts & statistics for peter-tharwat/countries](https://reviewgithub.com/rep/peter-tharwat/countries)

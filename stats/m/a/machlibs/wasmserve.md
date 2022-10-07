@@ -1,12 +1,12 @@
-# machlibs/wasmserve / stars & forks statistics
-
-[Open repository/machlibs/wasmserve](https://github.com/machlibs/wasmserve)
+# machlibs/wasmserve - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
+
+[Open repository](https://github.com/machlibs/wasmserve)
 
 ## Historical data
 | Date | Stars | Forks |

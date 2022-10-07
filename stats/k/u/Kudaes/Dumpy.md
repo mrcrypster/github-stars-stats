@@ -1,12 +1,12 @@
-# Kudaes/Dumpy / stars & forks statistics
-
-[Open repository/Kudaes/Dumpy](https://github.com/Kudaes/Dumpy)
+# Kudaes/Dumpy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 105
+
+[Open repository](https://github.com/Kudaes/Dumpy)
 
 ## Historical data
 | Date | Stars | Forks |

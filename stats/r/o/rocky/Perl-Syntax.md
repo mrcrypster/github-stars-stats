@@ -1,12 +1,12 @@
-# rocky/Perl-Syntax / stars & forks statistics
-
-[Open repository/rocky/Perl-Syntax](https://github.com/rocky/Perl-Syntax)
+# rocky/Perl-Syntax - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/rocky/Perl-Syntax)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# likamrat/hello_arc / stars & forks statistics
-
-[Open repository/likamrat/hello_arc](https://github.com/likamrat/hello_arc)
+# likamrat/hello_arc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 12
 
+[Open repository](https://github.com/likamrat/hello_arc)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12 | 148 | 
+| 2022-10-05 | 12 | 148 | 
+| 2022-10-04 | 12 | 148 | 
+| 2022-10-03 | 12 | 148 | 
+| 2022-10-02 | 12 | 148 | 
+| 2022-10-01 | 12 | 148 | 
+| 2022-09-30 | 12 | 148 | 
+| 2022-09-29 | 12 | 148 | 
 | 2022-09-28 | 12 | 148 | 
 | 2022-09-27 | 12 | 149 | 
 | 2022-09-26 | 12 | 149 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | 147 | 
 | 2022-09-09 | 12 | 147 | 
 | 2022-09-08 | 12 | 147 | 
-| 2022-09-07 | 12 | 147 | 
-| 2022-09-06 | 12 | 147 | 
-| 2022-09-05 | 12 | 147 | 
-| 2022-09-04 | 12 | 147 | 
-| 2022-09-03 | 12 | 147 | 
-| 2022-09-02 | 12 | 148 | 
-| 2022-09-01 | 12 | 149 | 
-| 2022-08-31 | 12 | 149 | 
-| 2022-08-30 | 12 | 148 | 
 
 
 [Detailed charts & statistics for likamrat/hello_arc](https://reviewgithub.com/rep/likamrat/hello_arc)

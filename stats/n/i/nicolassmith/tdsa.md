@@ -1,12 +1,12 @@
-# nicolassmith/tdsa / stars & forks statistics
-
-[Open repository/nicolassmith/tdsa](https://github.com/nicolassmith/tdsa)
+# nicolassmith/tdsa - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/nicolassmith/tdsa)
 
 ## Historical data
 | Date | Stars | Forks |

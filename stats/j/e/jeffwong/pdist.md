@@ -1,12 +1,12 @@
-# jeffwong/pdist / stars & forks statistics
-
-[Open repository/jeffwong/pdist](https://github.com/jeffwong/pdist)
+# jeffwong/pdist - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 7
+
+[Open repository](https://github.com/jeffwong/pdist)
 
 ## Historical data
 | Date | Stars | Forks |

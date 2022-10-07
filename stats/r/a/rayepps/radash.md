@@ -1,16 +1,25 @@
-# rayepps/radash / stars & forks statistics
-
-[Open repository/rayepps/radash](https://github.com/rayepps/radash)
+# rayepps/radash - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 52
+☋ Forks: 54
 
-★ Stars: 1630
+★ Stars: 1655
+
+[Open repository](https://github.com/rayepps/radash)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1655 | 54 | 
+| 2022-10-05 | 1652 | 53 | 
+| 2022-10-04 | 1648 | 53 | 
+| 2022-10-03 | 1646 | 54 | 
+| 2022-10-02 | 1647 | 54 | 
+| 2022-10-01 | 1643 | 53 | 
+| 2022-09-30 | 1642 | 53 | 
+| 2022-09-29 | 1637 | 52 | 
+| 2022-09-28 | 1633 | 52 | 
 | 2022-09-27 | 1630 | 52 | 
 | 2022-09-26 | 1625 | 52 | 
 | 2022-09-25 | 1621 | 52 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1431 | 41 | 
 | 2022-09-09 | 1412 | 40 | 
 | 2022-09-08 | 1377 | 38 | 
-| 2022-09-07 | 1340 | 36 | 
-| 2022-09-06 | 1309 | 34 | 
-| 2022-09-05 | 1269 | 32 | 
-| 2022-09-04 | 1251 | 32 | 
-| 2022-09-03 | 1232 | 29 | 
-| 2022-09-02 | 1186 | 26 | 
-| 2022-08-31 | 1121 | 25 | 
-| 2022-08-30 | 1008 | 18 | 
-| 2022-08-29 | 905 | 18 | 
-| 2022-08-28 | 567 | 13 | 
 
 
 [Detailed charts & statistics for rayepps/radash](https://reviewgithub.com/rep/rayepps/radash)

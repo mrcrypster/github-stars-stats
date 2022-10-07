@@ -1,16 +1,28 @@
-# jdavis/latex-homework-template / stars & forks statistics
-
-[Open repository/jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template)
+# jdavis/latex-homework-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 392
+☋ Forks: 391
 
-★ Stars: 925
+★ Stars: 931
+
+[Open repository](https://github.com/jdavis/latex-homework-template)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 931 | 391 | 
+| 2022-10-05 | 930 | 391 | 
+| 2022-10-04 | 930 | 392 | 
+| 2022-10-03 | 930 | 392 | 
+| 2022-10-02 | 930 | 392 | 
+| 2022-10-01 | 928 | 392 | 
+| 2022-09-30 | 927 | 392 | 
+| 2022-09-29 | 927 | 392 | 
+| 2022-09-28 | 926 | 392 | 
+| 2022-09-27 | 926 | 392 | 
+| 2022-09-26 | 926 | 392 | 
+| 2022-09-25 | 926 | 392 | 
 | 2022-09-24 | 925 | 392 | 
 | 2022-09-23 | 924 | 391 | 
 | 2022-09-22 | 924 | 391 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 906 | 371 | 
 | 2022-09-08 | 906 | 362 | 
 | 2022-09-07 | 904 | 360 | 
-| 2022-09-06 | 902 | 359 | 
-| 2022-09-05 | 901 | 359 | 
-| 2022-09-04 | 901 | 359 | 
-| 2022-09-03 | 901 | 359 | 
-| 2022-09-02 | 898 | 359 | 
-| 2022-09-01 | 897 | 359 | 
-| 2022-08-31 | 896 | 359 | 
-| 2022-08-30 | 896 | 359 | 
-| 2022-08-29 | 896 | 359 | 
-| 2022-08-28 | 895 | 358 | 
-| 2022-08-27 | 895 | 358 | 
-| 2022-08-26 | 895 | 358 | 
-| 2022-08-25 | 894 | 358 | 
 
 
 [Detailed charts & statistics for jdavis/latex-homework-template](https://reviewgithub.com/rep/jdavis/latex-homework-template)

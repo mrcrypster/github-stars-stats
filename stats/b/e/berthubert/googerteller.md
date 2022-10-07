@@ -1,16 +1,30 @@
-# berthubert/googerteller / stars & forks statistics
-
-[Open repository/berthubert/googerteller](https://github.com/berthubert/googerteller)
+# berthubert/googerteller - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 99
+☋ Forks: 101
 
-★ Stars: 1954
+★ Stars: 1976
+
+[Open repository](https://github.com/berthubert/googerteller)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1976 | 101 | 
+| 2022-10-06 | 1972 | 101 | 
+| 2022-10-05 | 1966 | 101 | 
+| 2022-10-04 | 1963 | 101 | 
+| 2022-10-03 | 1961 | 101 | 
+| 2022-10-02 | 1960 | 101 | 
+| 2022-10-01 | 1961 | 101 | 
+| 2022-09-30 | 1960 | 101 | 
+| 2022-09-29 | 1959 | 101 | 
+| 2022-09-28 | 1960 | 101 | 
+| 2022-09-27 | 1960 | 101 | 
+| 2022-09-26 | 1960 | 101 | 
+| 2022-09-25 | 1956 | 101 | 
+| 2022-09-24 | 1957 | 100 | 
 | 2022-09-23 | 1954 | 99 | 
 | 2022-09-22 | 1953 | 99 | 
 | 2022-09-21 | 1949 | 97 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1885 | 95 | 
 | 2022-09-08 | 1877 | 95 | 
 | 2022-09-07 | 1875 | 94 | 
-| 2022-09-06 | 1864 | 92 | 
-| 2022-09-05 | 1856 | 91 | 
-| 2022-09-04 | 1844 | 90 | 
-| 2022-09-03 | 1837 | 89 | 
-| 2022-09-02 | 1822 | 88 | 
-| 2022-09-01 | 1807 | 87 | 
-| 2022-08-31 | 1772 | 86 | 
-| 2022-08-30 | 1583 | 74 | 
-| 2022-08-29 | 1532 | 74 | 
-| 2022-08-28 | 1489 | 72 | 
-| 2022-08-27 | 1328 | 67 | 
-| 2022-08-26 | 1296 | 65 | 
-| 2022-08-25 | 1239 | 63 | 
-| 2022-08-24 | 1198 | 62 | 
 
 
 [Detailed charts & statistics for berthubert/googerteller](https://reviewgithub.com/rep/berthubert/googerteller)

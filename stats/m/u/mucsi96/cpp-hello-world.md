@@ -1,6 +1,4 @@
-# mucsi96/cpp-hello-world / stars & forks statistics
-
-[Open repository/mucsi96/cpp-hello-world](https://github.com/mucsi96/cpp-hello-world)
+# mucsi96/cpp-hello-world - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/mucsi96/cpp-hello-world)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | 9 | 
+| 2022-10-05 | 2 | 9 | 
+| 2022-10-04 | 2 | 9 | 
+| 2022-10-03 | 2 | 9 | 
+| 2022-10-02 | 2 | 9 | 
+| 2022-10-01 | 2 | 9 | 
+| 2022-09-30 | 2 | 9 | 
+| 2022-09-29 | 2 | 9 | 
 | 2022-09-28 | 2 | 9 | 
 | 2022-09-27 | 2 | 9 | 
 | 2022-09-26 | 2 | 9 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | 9 | 
 | 2022-09-09 | 2 | 9 | 
 | 2022-09-08 | 2 | 9 | 
-| 2022-09-07 | 2 | 9 | 
-| 2022-09-06 | 2 | 9 | 
-| 2022-09-05 | 2 | 9 | 
-| 2022-09-04 | 2 | 9 | 
-| 2022-09-03 | 2 | 9 | 
-| 2022-09-02 | 2 | 9 | 
-| 2022-09-01 | 2 | 9 | 
-| 2022-08-31 | 2 | 9 | 
-| 2022-08-30 | 2 | 9 | 
 
 
 [Detailed charts & statistics for mucsi96/cpp-hello-world](https://reviewgithub.com/rep/mucsi96/cpp-hello-world)

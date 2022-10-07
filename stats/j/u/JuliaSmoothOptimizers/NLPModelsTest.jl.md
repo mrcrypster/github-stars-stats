@@ -1,6 +1,4 @@
-# JuliaSmoothOptimizers/NLPModelsTest.jl / stars & forks statistics
-
-[Open repository/JuliaSmoothOptimizers/NLPModelsTest.jl](https://github.com/JuliaSmoothOptimizers/NLPModelsTest.jl)
+# JuliaSmoothOptimizers/NLPModelsTest.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/JuliaSmoothOptimizers/NLPModelsTest.jl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | 3 | 
+| 2022-10-05 | 7 | 3 | 
+| 2022-10-04 | 7 | 3 | 
+| 2022-10-03 | 7 | 3 | 
+| 2022-10-02 | 7 | 3 | 
+| 2022-10-01 | 7 | 3 | 
 | 2022-09-30 | 7 | 3 | 
 | 2022-09-29 | 7 | 3 | 
 | 2022-09-28 | 7 | 3 | 
@@ -35,12 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 7 | 3 | 
 | 2022-09-08 | 6 | 3 | 
 | 2022-09-07 | 6 | 3 | 
-| 2022-09-06 | 5 | 3 | 
-| 2022-09-05 | 5 | 3 | 
-| 2022-09-04 | 5 | 3 | 
-| 2022-09-03 | 5 | 3 | 
-| 2022-09-02 | 5 | 3 | 
-| 2022-09-01 | 5 | 3 | 
 
 
 [Detailed charts & statistics for JuliaSmoothOptimizers/NLPModelsTest.jl](https://reviewgithub.com/rep/JuliaSmoothOptimizers/NLPModelsTest.jl)

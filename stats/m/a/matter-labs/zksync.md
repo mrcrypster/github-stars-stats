@@ -1,16 +1,24 @@
-# matter-labs/zksync / stars & forks statistics
-
-[Open repository/matter-labs/zksync](https://github.com/matter-labs/zksync)
+# matter-labs/zksync - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 397
+☋ Forks: 400
 
-★ Stars: 1554
+★ Stars: 1566
+
+[Open repository](https://github.com/matter-labs/zksync)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1566 | 400 | 
+| 2022-10-06 | 1565 | 400 | 
+| 2022-10-04 | 1564 | 400 | 
+| 2022-10-03 | 1563 | 400 | 
+| 2022-10-02 | 1563 | 400 | 
+| 2022-10-01 | 1562 | 399 | 
+| 2022-09-30 | 1561 | 399 | 
+| 2022-09-29 | 1559 | 398 | 
 | 2022-09-28 | 1554 | 397 | 
 | 2022-09-27 | 1551 | 397 | 
 | 2022-09-26 | 1549 | 396 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1525 | 386 | 
 | 2022-09-08 | 1525 | 386 | 
 | 2022-09-07 | 1522 | 386 | 
-| 2022-09-06 | 1521 | 385 | 
-| 2022-09-05 | 1520 | 383 | 
-| 2022-09-04 | 1520 | 382 | 
-| 2022-09-03 | 1520 | 382 | 
-| 2022-09-02 | 1520 | 382 | 
-| 2022-09-01 | 1518 | 380 | 
-| 2022-08-31 | 1509 | 380 | 
-| 2022-08-30 | 1505 | 379 | 
 
 
 [Detailed charts & statistics for matter-labs/zksync](https://reviewgithub.com/rep/matter-labs/zksync)

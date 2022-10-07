@@ -1,12 +1,12 @@
-# autowarefoundation/autoware_adapi_msgs / stars & forks statistics
-
-[Open repository/autowarefoundation/autoware_adapi_msgs](https://github.com/autowarefoundation/autoware_adapi_msgs)
+# autowarefoundation/autoware_adapi_msgs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 1
+
+[Open repository](https://github.com/autowarefoundation/autoware_adapi_msgs)
 
 ## Historical data
 | Date | Stars | Forks |

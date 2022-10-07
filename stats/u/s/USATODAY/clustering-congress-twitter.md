@@ -1,12 +1,12 @@
-# USATODAY/clustering-congress-twitter / stars & forks statistics
-
-[Open repository/USATODAY/clustering-congress-twitter](https://github.com/USATODAY/clustering-congress-twitter)
+# USATODAY/clustering-congress-twitter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 22
+
+[Open repository](https://github.com/USATODAY/clustering-congress-twitter)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common / stars & forks statistics
-
-[Open repository/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common](https://github.com/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common)
+# Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# Hapenia-Lans/gdextension-nim / stars & forks statistics
-
-[Open repository/Hapenia-Lans/gdextension-nim](https://github.com/Hapenia-Lans/gdextension-nim)
+# Hapenia-Lans/gdextension-nim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
+
+[Open repository](https://github.com/Hapenia-Lans/gdextension-nim)
 
 ## Historical data
 | Date | Stars | Forks |

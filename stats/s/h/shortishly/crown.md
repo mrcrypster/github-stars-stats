@@ -1,12 +1,12 @@
-# shortishly/crown / stars & forks statistics
-
-[Open repository/shortishly/crown](https://github.com/shortishly/crown)
+# shortishly/crown - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/shortishly/crown)
 
 ## Historical data
 | Date | Stars | Forks |

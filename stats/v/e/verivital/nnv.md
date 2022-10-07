@@ -1,12 +1,12 @@
-# verivital/nnv / stars & forks statistics
-
-[Open repository/verivital/nnv](https://github.com/verivital/nnv)
+# verivital/nnv - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 74
+
+[Open repository](https://github.com/verivital/nnv)
 
 ## Historical data
 | Date | Stars | Forks |

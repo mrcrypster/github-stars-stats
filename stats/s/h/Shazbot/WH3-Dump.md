@@ -1,6 +1,4 @@
-# Shazbot/WH3-Dump / stars & forks statistics
-
-[Open repository/Shazbot/WH3-Dump](https://github.com/Shazbot/WH3-Dump)
+# Shazbot/WH3-Dump - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/Shazbot/WH3-Dump)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 8 | 
+| 2022-10-05 | 1 | 8 | 
+| 2022-10-04 | 1 | 8 | 
+| 2022-10-03 | 1 | 8 | 
+| 2022-10-02 | 1 | 8 | 
 | 2022-10-01 | 1 | 8 | 
 | 2022-09-30 | 1 | 8 | 
 | 2022-09-29 | 1 | 8 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 4 | 
 | 2022-09-09 | 1 | 4 | 
 | 2022-09-08 | 1 | 4 | 
-| 2022-09-07 | 1 | 4 | 
-| 2022-09-06 | 1 | 4 | 
-| 2022-09-05 | 1 | 4 | 
-| 2022-09-04 | 1 | 3 | 
-| 2022-09-03 | 1 | 2 | 
-| 2022-09-02 | 1 | 2 | 
 
 
 [Detailed charts & statistics for Shazbot/WH3-Dump](https://reviewgithub.com/rep/Shazbot/WH3-Dump)

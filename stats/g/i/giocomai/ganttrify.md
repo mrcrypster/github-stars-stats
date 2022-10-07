@@ -1,16 +1,28 @@
-# giocomai/ganttrify / stars & forks statistics
-
-[Open repository/giocomai/ganttrify](https://github.com/giocomai/ganttrify)
+# giocomai/ganttrify - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 460
+★ Stars: 461
+
+[Open repository](https://github.com/giocomai/ganttrify)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 461 | 45 | 
+| 2022-10-06 | 461 | 45 | 
+| 2022-10-05 | 461 | 45 | 
+| 2022-10-04 | 460 | 45 | 
+| 2022-10-03 | 460 | 45 | 
+| 2022-10-02 | 460 | 45 | 
+| 2022-10-01 | 460 | 45 | 
+| 2022-09-30 | 460 | 45 | 
+| 2022-09-29 | 460 | 44 | 
+| 2022-09-28 | 460 | 44 | 
+| 2022-09-27 | 460 | 44 | 
+| 2022-09-26 | 460 | 44 | 
 | 2022-09-25 | 460 | 44 | 
 | 2022-09-24 | 460 | 44 | 
 | 2022-09-23 | 459 | 44 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 453 | 43 | 
 | 2022-09-08 | 452 | 43 | 
 | 2022-09-07 | 452 | 43 | 
-| 2022-09-06 | 452 | 42 | 
-| 2022-09-05 | 451 | 42 | 
-| 2022-09-04 | 447 | 42 | 
-| 2022-09-03 | 447 | 42 | 
-| 2022-09-02 | 447 | 42 | 
-| 2022-09-01 | 447 | 42 | 
-| 2022-08-31 | 446 | 42 | 
-| 2022-08-30 | 444 | 42 | 
-| 2022-08-29 | 442 | 41 | 
-| 2022-08-28 | 442 | 41 | 
-| 2022-08-27 | 442 | 41 | 
-| 2022-08-26 | 440 | 41 | 
 
 
 [Detailed charts & statistics for giocomai/ganttrify](https://reviewgithub.com/rep/giocomai/ganttrify)

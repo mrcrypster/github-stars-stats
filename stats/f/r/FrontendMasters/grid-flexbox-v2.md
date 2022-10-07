@@ -1,16 +1,31 @@
-# FrontendMasters/grid-flexbox-v2 / stars & forks statistics
-
-[Open repository/FrontendMasters/grid-flexbox-v2](https://github.com/FrontendMasters/grid-flexbox-v2)
+# FrontendMasters/grid-flexbox-v2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 206
+☋ Forks: 210
 
-★ Stars: 101
+★ Stars: 102
+
+[Open repository](https://github.com/FrontendMasters/grid-flexbox-v2)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 102 | 210 | 
+| 2022-10-06 | 102 | 209 | 
+| 2022-10-05 | 102 | 209 | 
+| 2022-10-04 | 102 | 209 | 
+| 2022-10-03 | 102 | 208 | 
+| 2022-10-02 | 102 | 208 | 
+| 2022-10-01 | 102 | 208 | 
+| 2022-09-30 | 102 | 208 | 
+| 2022-09-29 | 102 | 208 | 
+| 2022-09-28 | 102 | 208 | 
+| 2022-09-27 | 101 | 208 | 
+| 2022-09-26 | 101 | 208 | 
+| 2022-09-25 | 101 | 208 | 
+| 2022-09-24 | 101 | 207 | 
+| 2022-09-23 | 101 | 206 | 
 | 2022-09-22 | 101 | 206 | 
 | 2022-09-21 | 101 | 205 | 
 | 2022-09-20 | 99 | 204 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 99 | 197 | 
 | 2022-09-08 | 99 | 197 | 
 | 2022-09-07 | 99 | 198 | 
-| 2022-09-06 | 99 | 198 | 
-| 2022-09-05 | 99 | 198 | 
-| 2022-09-04 | 99 | 198 | 
-| 2022-09-03 | 99 | 198 | 
-| 2022-09-02 | 99 | 198 | 
-| 2022-09-01 | 99 | 198 | 
-| 2022-08-31 | 97 | 198 | 
-| 2022-08-30 | 97 | 198 | 
-| 2022-08-29 | 97 | 198 | 
-| 2022-08-28 | 96 | 198 | 
-| 2022-08-27 | 96 | 198 | 
-| 2022-08-26 | 96 | 197 | 
-| 2022-08-25 | 96 | 197 | 
-| 2022-08-24 | 96 | 196 | 
-| 2022-08-23 | 96 | 196 | 
 
 
 [Detailed charts & statistics for FrontendMasters/grid-flexbox-v2](https://reviewgithub.com/rep/FrontendMasters/grid-flexbox-v2)

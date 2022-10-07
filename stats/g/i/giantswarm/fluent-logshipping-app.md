@@ -1,6 +1,4 @@
-# giantswarm/fluent-logshipping-app / stars & forks statistics
-
-[Open repository/giantswarm/fluent-logshipping-app](https://github.com/giantswarm/fluent-logshipping-app)
+# giantswarm/fluent-logshipping-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/giantswarm/fluent-logshipping-app)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 1 | 
 | 2022-10-06 | - | 1 | 
 | 2022-10-05 | - | 1 | 
 | 2022-10-04 | - | 1 | 

@@ -1,12 +1,12 @@
-# lovechoudoufu/cobaltstrike4.4_cdf / stars & forks statistics
-
-[Open repository/lovechoudoufu/cobaltstrike4.4_cdf](https://github.com/lovechoudoufu/cobaltstrike4.4_cdf)
+# lovechoudoufu/cobaltstrike4.4_cdf - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/lovechoudoufu/cobaltstrike4.4_cdf)
 
 ## Historical data
 | Date | Stars | Forks |

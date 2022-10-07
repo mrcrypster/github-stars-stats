@@ -1,12 +1,12 @@
-# amacy/aaronmacy.com / stars & forks statistics
-
-[Open repository/amacy/aaronmacy.com](https://github.com/amacy/aaronmacy.com)
+# amacy/aaronmacy.com - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/amacy/aaronmacy.com)
 
 ## Historical data
 | Date | Stars | Forks |

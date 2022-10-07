@@ -1,12 +1,12 @@
-# quantum-sec/package-azure / stars & forks statistics
-
-[Open repository/quantum-sec/package-azure](https://github.com/quantum-sec/package-azure)
+# quantum-sec/package-azure - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/quantum-sec/package-azure)
 
 ## Historical data
 | Date | Stars | Forks |

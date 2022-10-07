@@ -1,16 +1,18 @@
-# haqq-network/validators-contest / stars & forks statistics
-
-[Open repository/haqq-network/validators-contest](https://github.com/haqq-network/validators-contest)
+# haqq-network/validators-contest - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1142
+☋ Forks: 1143
 
-★ Stars: 63
+★ Stars: 64
+
+[Open repository](https://github.com/haqq-network/validators-contest)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 64 | 1143 | 
+| 2022-10-05 | 64 | 1142 | 
 | 2022-10-04 | 63 | 1142 | 
 | 2022-10-03 | 63 | 1142 | 
 | 2022-10-02 | 63 | 1141 | 
@@ -39,8 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 61 | 1123 | 
 | 2022-09-08 | 58 | 1110 | 
 | 2022-09-07 | 57 | 1110 | 
-| 2022-09-06 | 53 | 1069 | 
-| 2022-09-05 | 42 | 926 | 
 
 
 [Detailed charts & statistics for haqq-network/validators-contest](https://reviewgithub.com/rep/haqq-network/validators-contest)

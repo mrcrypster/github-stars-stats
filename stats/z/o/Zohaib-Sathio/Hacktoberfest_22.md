@@ -1,12 +1,12 @@
-# Zohaib-Sathio/Hacktoberfest_22 / stars & forks statistics
-
-[Open repository/Zohaib-Sathio/Hacktoberfest_22](https://github.com/Zohaib-Sathio/Hacktoberfest_22)
+# Zohaib-Sathio/Hacktoberfest_22 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 23
+
+[Open repository](https://github.com/Zohaib-Sathio/Hacktoberfest_22)
 
 ## Historical data
 | Date | Stars | Forks |

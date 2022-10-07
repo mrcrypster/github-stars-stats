@@ -1,12 +1,12 @@
-# WeAreMahsaAmini/TwitterScraper / stars & forks statistics
-
-[Open repository/WeAreMahsaAmini/TwitterScraper](https://github.com/WeAreMahsaAmini/TwitterScraper)
+# WeAreMahsaAmini/TwitterScraper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 71
+
+[Open repository](https://github.com/WeAreMahsaAmini/TwitterScraper)
 
 ## Historical data
 | Date | Stars | Forks |

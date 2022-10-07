@@ -1,12 +1,12 @@
-# roman01la/cljs-worklet / stars & forks statistics
-
-[Open repository/roman01la/cljs-worklet](https://github.com/roman01la/cljs-worklet)
+# roman01la/cljs-worklet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
+
+[Open repository](https://github.com/roman01la/cljs-worklet)
 
 ## Historical data
 | Date | Stars | Forks |

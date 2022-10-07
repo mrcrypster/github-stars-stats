@@ -1,12 +1,12 @@
-# unimtrx/dcpu16-assembler / stars & forks statistics
-
-[Open repository/unimtrx/dcpu16-assembler](https://github.com/unimtrx/dcpu16-assembler)
+# unimtrx/dcpu16-assembler - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/unimtrx/dcpu16-assembler)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# dirle/Chip8 / stars & forks statistics
-
-[Open repository/dirle/Chip8](https://github.com/dirle/Chip8)
+# dirle/Chip8 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/dirle/Chip8)
 
 ## Historical data
 | Date | Stars | Forks |

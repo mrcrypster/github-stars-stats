@@ -1,12 +1,12 @@
-# ralferoo/sugarlumps / stars & forks statistics
-
-[Open repository/ralferoo/sugarlumps](https://github.com/ralferoo/sugarlumps)
+# ralferoo/sugarlumps - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
+
+[Open repository](https://github.com/ralferoo/sugarlumps)
 
 ## Historical data
 | Date | Stars | Forks |

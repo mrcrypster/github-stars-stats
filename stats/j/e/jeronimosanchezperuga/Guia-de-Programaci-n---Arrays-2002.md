@@ -1,6 +1,4 @@
-# jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002 / stars & forks statistics
-
-[Open repository/jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002](https://github.com/jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002)
+# jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,29 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 24 | 
+| 2022-10-06 | - | 24 | 
+| 2022-10-05 | - | 24 | 
+| 2022-10-04 | - | 24 | 
+| 2022-10-03 | - | 24 | 
+| 2022-10-02 | - | 24 | 
+| 2022-10-01 | - | 24 | 
+| 2022-09-30 | - | 24 | 
+| 2022-09-29 | - | 24 | 
+| 2022-09-28 | - | 24 | 
+| 2022-09-27 | - | 24 | 
+| 2022-09-26 | - | 24 | 
+| 2022-09-25 | - | 24 | 
+| 2022-09-24 | - | 24 | 
+| 2022-09-23 | - | 24 | 
+| 2022-09-22 | - | 24 | 
+| 2022-09-21 | - | 24 | 
+| 2022-09-20 | - | 24 | 
 | 2022-09-19 | - | 24 | 
 | 2022-09-18 | - | 24 | 
 | 2022-09-17 | - | 24 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 24 | 
 | 2022-09-08 | - | 24 | 
 | 2022-09-07 | - | 24 | 
-| 2022-09-06 | - | 24 | 
-| 2022-09-05 | - | 24 | 
-| 2022-09-04 | - | 24 | 
-| 2022-09-03 | - | 24 | 
-| 2022-09-02 | - | 24 | 
-| 2022-09-01 | - | 24 | 
-| 2022-08-31 | - | 24 | 
-| 2022-08-30 | - | 24 | 
-| 2022-08-29 | - | 24 | 
-| 2022-08-28 | - | 24 | 
-| 2022-08-27 | - | 24 | 
-| 2022-08-26 | - | 24 | 
-| 2022-08-25 | - | 24 | 
-| 2022-08-24 | - | 24 | 
-| 2022-08-23 | - | 24 | 
-| 2022-08-22 | - | 24 | 
-| 2022-08-21 | - | 24 | 
-| 2022-08-20 | - | 24 | 
 
 
 [Detailed charts & statistics for jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002](https://reviewgithub.com/rep/jeronimosanchezperuga/Guia-de-Programaci-n---Arrays-2002)

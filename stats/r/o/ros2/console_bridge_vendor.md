@@ -1,12 +1,12 @@
-# ros2/console_bridge_vendor / stars & forks statistics
-
-[Open repository/ros2/console_bridge_vendor](https://github.com/ros2/console_bridge_vendor)
+# ros2/console_bridge_vendor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ros2/console_bridge_vendor)
 
 ## Historical data
 | Date | Stars | Forks |

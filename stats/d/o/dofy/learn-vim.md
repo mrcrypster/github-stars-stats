@@ -1,12 +1,12 @@
-# dofy/learn-vim / stars & forks statistics
-
-[Open repository/dofy/learn-vim](https://github.com/dofy/learn-vim)
+# dofy/learn-vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 218
 
 ★ Stars: 1433
+
+[Open repository](https://github.com/dofy/learn-vim)
 
 ## Historical data
 | Date | Stars | Forks |

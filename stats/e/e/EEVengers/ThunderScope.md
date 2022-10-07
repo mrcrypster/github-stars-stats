@@ -1,16 +1,30 @@
-# EEVengers/ThunderScope / stars & forks statistics
-
-[Open repository/EEVengers/ThunderScope](https://github.com/EEVengers/ThunderScope)
+# EEVengers/ThunderScope - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 71
+☋ Forks: 70
 
-★ Stars: 232
+★ Stars: 239
+
+[Open repository](https://github.com/EEVengers/ThunderScope)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 239 | 70 | 
+| 2022-10-06 | 239 | 70 | 
+| 2022-10-05 | 239 | 70 | 
+| 2022-10-04 | 239 | 70 | 
+| 2022-10-03 | 239 | 70 | 
+| 2022-10-02 | 239 | 70 | 
+| 2022-10-01 | 238 | 70 | 
+| 2022-09-30 | 236 | 70 | 
+| 2022-09-29 | 236 | 70 | 
+| 2022-09-28 | 235 | 70 | 
+| 2022-09-27 | 235 | 70 | 
+| 2022-09-26 | 234 | 70 | 
+| 2022-09-25 | 233 | 70 | 
+| 2022-09-24 | 231 | 70 | 
 | 2022-09-23 | 232 | 71 | 
 | 2022-09-22 | 231 | 71 | 
 | 2022-09-21 | 231 | 71 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 229 | 69 | 
 | 2022-09-08 | 228 | 69 | 
 | 2022-09-07 | 227 | 69 | 
-| 2022-09-06 | 226 | 69 | 
-| 2022-09-05 | 225 | 69 | 
-| 2022-09-04 | 225 | 69 | 
-| 2022-09-03 | 225 | 69 | 
-| 2022-09-02 | 225 | 69 | 
-| 2022-09-01 | 225 | 69 | 
-| 2022-08-31 | 225 | 69 | 
-| 2022-08-30 | 225 | 69 | 
-| 2022-08-29 | 225 | 69 | 
-| 2022-08-28 | 225 | 68 | 
-| 2022-08-27 | 225 | 68 | 
-| 2022-08-26 | 225 | 67 | 
-| 2022-08-25 | 225 | 67 | 
-| 2022-08-24 | 225 | 67 | 
 
 
 [Detailed charts & statistics for EEVengers/ThunderScope](https://reviewgithub.com/rep/EEVengers/ThunderScope)

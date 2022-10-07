@@ -1,16 +1,31 @@
-# TakosThings/Fluent-Discord / stars & forks statistics
-
-[Open repository/TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
+# TakosThings/Fluent-Discord - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 174
+★ Stars: 178
+
+[Open repository](https://github.com/TakosThings/Fluent-Discord)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 178 | 12 | 
+| 2022-10-05 | 178 | 12 | 
+| 2022-10-04 | 178 | 12 | 
+| 2022-10-03 | 178 | 12 | 
+| 2022-10-02 | 178 | 12 | 
+| 2022-10-01 | 179 | 11 | 
+| 2022-09-30 | 178 | 11 | 
+| 2022-09-29 | 178 | 11 | 
+| 2022-09-28 | 177 | 11 | 
+| 2022-09-27 | 177 | 11 | 
+| 2022-09-26 | 176 | 11 | 
+| 2022-09-25 | 175 | 11 | 
+| 2022-09-24 | 174 | 11 | 
+| 2022-09-23 | 174 | 11 | 
+| 2022-09-22 | 174 | 11 | 
 | 2022-09-21 | 174 | 11 | 
 | 2022-09-20 | 174 | 11 | 
 | 2022-09-19 | 173 | 11 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 167 | 11 | 
 | 2022-09-08 | 167 | 11 | 
 | 2022-09-07 | 167 | 11 | 
-| 2022-09-06 | 167 | 11 | 
-| 2022-09-05 | 167 | 11 | 
-| 2022-09-04 | 166 | 11 | 
-| 2022-09-03 | 165 | 11 | 
-| 2022-09-02 | 164 | 11 | 
-| 2022-09-01 | 164 | 11 | 
-| 2022-08-31 | 164 | 11 | 
-| 2022-08-30 | 164 | 11 | 
-| 2022-08-29 | 162 | 11 | 
-| 2022-08-28 | 161 | 11 | 
-| 2022-08-27 | 160 | 10 | 
-| 2022-08-26 | 160 | 10 | 
-| 2022-08-25 | 158 | 10 | 
-| 2022-08-24 | 157 | 10 | 
-| 2022-08-23 | 156 | 10 | 
 
 
 [Detailed charts & statistics for TakosThings/Fluent-Discord](https://reviewgithub.com/rep/TakosThings/Fluent-Discord)

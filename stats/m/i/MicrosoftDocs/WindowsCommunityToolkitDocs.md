@@ -1,12 +1,12 @@
-# MicrosoftDocs/WindowsCommunityToolkitDocs / stars & forks statistics
-
-[Open repository/MicrosoftDocs/WindowsCommunityToolkitDocs](https://github.com/MicrosoftDocs/WindowsCommunityToolkitDocs)
+# MicrosoftDocs/WindowsCommunityToolkitDocs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 146
 
 ★ Stars: 144
+
+[Open repository](https://github.com/MicrosoftDocs/WindowsCommunityToolkitDocs)
 
 ## Historical data
 | Date | Stars | Forks |

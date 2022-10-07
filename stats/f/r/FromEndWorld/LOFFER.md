@@ -1,16 +1,29 @@
-# FromEndWorld/LOFFER / stars & forks statistics
-
-[Open repository/FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)
+# FromEndWorld/LOFFER - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 389
+☋ Forks: 391
 
-★ Stars: 330
+★ Stars: 331
+
+[Open repository](https://github.com/FromEndWorld/LOFFER)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 331 | 391 | 
+| 2022-10-06 | 331 | 390 | 
+| 2022-10-05 | 331 | 391 | 
+| 2022-10-04 | 331 | 391 | 
+| 2022-10-03 | 331 | 391 | 
+| 2022-10-02 | 330 | 391 | 
+| 2022-10-01 | 330 | 389 | 
+| 2022-09-30 | 330 | 389 | 
+| 2022-09-29 | 330 | 389 | 
+| 2022-09-28 | 330 | 389 | 
+| 2022-09-27 | 330 | 389 | 
+| 2022-09-26 | 330 | 389 | 
+| 2022-09-25 | 330 | 389 | 
 | 2022-09-24 | 330 | 389 | 
 | 2022-09-23 | 330 | 389 | 
 | 2022-09-22 | 330 | 390 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 332 | 389 | 
 | 2022-09-09 | 332 | 389 | 
 | 2022-09-07 | 332 | 389 | 
-| 2022-09-06 | 332 | 389 | 
-| 2022-09-05 | 332 | 389 | 
-| 2022-09-04 | 332 | 389 | 
-| 2022-09-03 | 332 | 389 | 
-| 2022-09-02 | 332 | 389 | 
-| 2022-09-01 | 331 | 389 | 
-| 2022-08-31 | 331 | 389 | 
-| 2022-08-30 | 331 | 388 | 
-| 2022-08-29 | 331 | 388 | 
-| 2022-08-28 | 331 | 388 | 
-| 2022-08-27 | 330 | 388 | 
-| 2022-08-26 | 330 | 388 | 
-| 2022-08-25 | 330 | 388 | 
 
 
 [Detailed charts & statistics for FromEndWorld/LOFFER](https://reviewgithub.com/rep/FromEndWorld/LOFFER)

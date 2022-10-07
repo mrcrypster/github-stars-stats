@@ -1,46 +1,46 @@
-# PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition / stars & forks statistics
-
-[Open repository/PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition](https://github.com/PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition)
+# PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
-★ Stars: 23
+★ Stars: 27
+
+[Open repository](https://github.com/PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 23 | 14 | 
-| 2022-07-29 | 23 | 14 | 
-| 2022-07-28 | 23 | 14 | 
-| 2022-07-27 | 23 | 14 | 
-| 2022-07-26 | 23 | 14 | 
-| 2022-07-25 | 23 | 14 | 
-| 2022-07-24 | 23 | 14 | 
-| 2022-07-22 | 23 | 14 | 
-| 2022-07-21 | 23 | 14 | 
-| 2022-07-20 | 23 | 14 | 
-| 2022-07-19 | 23 | 14 | 
-| 2022-07-18 | 23 | 13 | 
-| 2022-07-17 | 23 | 13 | 
-| 2022-07-16 | 23 | 13 | 
-| 2022-07-15 | 23 | 13 | 
-| 2022-07-14 | 23 | 13 | 
-| 2022-07-13 | 23 | 13 | 
-| 2022-07-12 | 23 | 13 | 
-| 2022-07-11 | 23 | 13 | 
-| 2022-07-10 | 23 | 13 | 
-| 2022-07-09 | 23 | 13 | 
-| 2022-07-08 | 23 | 13 | 
-| 2022-07-07 | 23 | 13 | 
-| 2022-07-06 | 23 | 13 | 
-| 2022-07-05 | 23 | 13 | 
-| 2022-07-04 | 23 | 13 | 
-| 2022-07-03 | 23 | 13 | 
-| 2022-07-02 | 22 | 13 | 
-| 2022-07-01 | 22 | 13 | 
-| 2022-06-30 | 22 | 13 | 
+| 2022-10-07 | 27 | 14 | 
+| 2022-10-06 | 26 | 15 | 
+| 2022-10-05 | 26 | 15 | 
+| 2022-10-04 | 26 | 15 | 
+| 2022-10-03 | 25 | 15 | 
+| 2022-10-02 | 25 | 15 | 
+| 2022-10-01 | 25 | 15 | 
+| 2022-09-30 | 25 | 15 | 
+| 2022-09-29 | 25 | 15 | 
+| 2022-09-28 | 25 | 15 | 
+| 2022-09-27 | 25 | 15 | 
+| 2022-09-26 | 24 | 15 | 
+| 2022-09-25 | 24 | 15 | 
+| 2022-09-24 | 24 | 15 | 
+| 2022-09-23 | 24 | 15 | 
+| 2022-09-22 | 24 | 15 | 
+| 2022-09-21 | 24 | 15 | 
+| 2022-09-20 | 24 | 15 | 
+| 2022-09-19 | 24 | 15 | 
+| 2022-09-18 | 24 | 15 | 
+| 2022-09-17 | 24 | 15 | 
+| 2022-09-16 | 24 | 15 | 
+| 2022-09-15 | 24 | 15 | 
+| 2022-09-14 | 24 | 15 | 
+| 2022-09-13 | 24 | 15 | 
+| 2022-09-12 | 23 | 15 | 
+| 2022-09-10 | 23 | 15 | 
+| 2022-09-09 | 23 | 15 | 
+| 2022-09-08 | 23 | 15 | 
+| 2022-09-07 | 23 | 15 | 
 
 
 [Detailed charts & statistics for PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition](https://reviewgithub.com/rep/PacktPublishing/Hands-On-Unity-2021-Game-Development-Second-Edition)

@@ -1,12 +1,12 @@
-# vjt/puppet-nginx / stars & forks statistics
-
-[Open repository/vjt/puppet-nginx](https://github.com/vjt/puppet-nginx)
+# vjt/puppet-nginx - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/vjt/puppet-nginx)
 
 ## Historical data
 | Date | Stars | Forks |

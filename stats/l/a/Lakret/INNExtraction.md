@@ -1,12 +1,12 @@
-# Lakret/INNExtraction / stars & forks statistics
-
-[Open repository/Lakret/INNExtraction](https://github.com/Lakret/INNExtraction)
+# Lakret/INNExtraction - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/Lakret/INNExtraction)
 
 ## Historical data
 | Date | Stars | Forks |

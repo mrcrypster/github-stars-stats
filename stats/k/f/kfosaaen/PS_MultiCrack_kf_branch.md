@@ -1,12 +1,12 @@
-# kfosaaen/PS_MultiCrack_kf_branch / stars & forks statistics
-
-[Open repository/kfosaaen/PS_MultiCrack_kf_branch](https://github.com/kfosaaen/PS_MultiCrack_kf_branch)
+# kfosaaen/PS_MultiCrack_kf_branch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/kfosaaen/PS_MultiCrack_kf_branch)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# platformatic/tutorial-movie-quotes-app / stars & forks statistics
-
-[Open repository/platformatic/tutorial-movie-quotes-app](https://github.com/platformatic/tutorial-movie-quotes-app)
+# platformatic/tutorial-movie-quotes-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
+
+[Open repository](https://github.com/platformatic/tutorial-movie-quotes-app)
 
 ## Historical data
 | Date | Stars | Forks |

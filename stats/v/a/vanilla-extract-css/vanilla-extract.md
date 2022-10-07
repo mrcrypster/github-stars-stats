@@ -1,12 +1,12 @@
-# vanilla-extract-css/vanilla-extract / stars & forks statistics
-
-[Open repository/vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract)
+# vanilla-extract-css/vanilla-extract - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 171
 
 ★ Stars: 6379
+
+[Open repository](https://github.com/vanilla-extract-css/vanilla-extract)
 
 ## Historical data
 | Date | Stars | Forks |

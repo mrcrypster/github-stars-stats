@@ -1,12 +1,12 @@
-# verypossible/scrub / stars & forks statistics
-
-[Open repository/verypossible/scrub](https://github.com/verypossible/scrub)
+# verypossible/scrub - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
+
+[Open repository](https://github.com/verypossible/scrub)
 
 ## Historical data
 | Date | Stars | Forks |

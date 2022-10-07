@@ -1,12 +1,12 @@
-# duongnhhtc/RDPngrokkk / stars & forks statistics
-
-[Open repository/duongnhhtc/RDPngrokkk](https://github.com/duongnhhtc/RDPngrokkk)
+# duongnhhtc/RDPngrokkk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/duongnhhtc/RDPngrokkk)
 
 ## Historical data
 | Date | Stars | Forks |

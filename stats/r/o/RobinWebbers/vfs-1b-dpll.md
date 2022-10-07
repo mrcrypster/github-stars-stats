@@ -1,12 +1,12 @@
-# RobinWebbers/vfs-1b-dpll / stars & forks statistics
-
-[Open repository/RobinWebbers/vfs-1b-dpll](https://github.com/RobinWebbers/vfs-1b-dpll)
+# RobinWebbers/vfs-1b-dpll - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/RobinWebbers/vfs-1b-dpll)
 
 ## Historical data
 | Date | Stars | Forks |

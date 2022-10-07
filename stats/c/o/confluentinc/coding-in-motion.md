@@ -1,16 +1,27 @@
-# confluentinc/coding-in-motion / stars & forks statistics
-
-[Open repository/confluentinc/coding-in-motion](https://github.com/confluentinc/coding-in-motion)
+# confluentinc/coding-in-motion - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 4
+★ Stars: 7
+
+[Open repository](https://github.com/confluentinc/coding-in-motion)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 7 | 1 | 
+| 2022-10-05 | 7 | 1 | 
+| 2022-10-04 | 6 | 1 | 
+| 2022-10-03 | 5 | 1 | 
+| 2022-10-02 | 5 | 1 | 
+| 2022-10-01 | 5 | 1 | 
+| 2022-09-30 | 5 | 1 | 
+| 2022-09-29 | 5 | 1 | 
+| 2022-09-28 | 4 | 1 | 
+| 2022-09-27 | 4 | 1 | 
+| 2022-09-26 | 4 | 1 | 
 | 2022-09-25 | 4 | 1 | 
 | 2022-09-24 | 4 | 1 | 
 | 2022-09-23 | 2 | 1 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
-| 2022-09-06 | 1 | 1 | 
-| 2022-09-05 | 1 | 1 | 
-| 2022-09-04 | 1 | 1 | 
-| 2022-09-03 | 1 | 1 | 
-| 2022-09-02 | 1 | 1 | 
-| 2022-09-01 | 1 | 1 | 
-| 2022-08-31 | 1 | 1 | 
-| 2022-08-30 | 1 | 1 | 
-| 2022-08-29 | 1 | 1 | 
-| 2022-08-28 | 1 | 1 | 
-| 2022-08-27 | 1 | 1 | 
 
 
 [Detailed charts & statistics for confluentinc/coding-in-motion](https://reviewgithub.com/rep/confluentinc/coding-in-motion)

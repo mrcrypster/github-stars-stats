@@ -1,12 +1,12 @@
-# walison17/devpro-django-queryset / stars & forks statistics
-
-[Open repository/walison17/devpro-django-queryset](https://github.com/walison17/devpro-django-queryset)
+# walison17/devpro-django-queryset - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
+
+[Open repository](https://github.com/walison17/devpro-django-queryset)
 
 ## Historical data
 | Date | Stars | Forks |

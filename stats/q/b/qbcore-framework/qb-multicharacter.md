@@ -1,16 +1,22 @@
-# qbcore-framework/qb-multicharacter / stars & forks statistics
-
-[Open repository/qbcore-framework/qb-multicharacter](https://github.com/qbcore-framework/qb-multicharacter)
+# qbcore-framework/qb-multicharacter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 199
+☋ Forks: 196
 
 ★ Stars: 23
+
+[Open repository](https://github.com/qbcore-framework/qb-multicharacter)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 23 | 196 | 
+| 2022-10-05 | 23 | 196 | 
+| 2022-10-04 | 23 | 197 | 
+| 2022-10-03 | 23 | 198 | 
+| 2022-10-02 | 23 | 198 | 
+| 2022-10-01 | 23 | 199 | 
 | 2022-09-30 | 23 | 199 | 
 | 2022-09-29 | 23 | 199 | 
 | 2022-09-28 | 23 | 198 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 23 | 190 | 
 | 2022-09-09 | 23 | 190 | 
 | 2022-09-08 | 23 | 190 | 
-| 2022-09-07 | 23 | 189 | 
-| 2022-09-06 | 23 | 190 | 
-| 2022-09-05 | 23 | 189 | 
-| 2022-09-04 | 22 | 186 | 
-| 2022-09-03 | 21 | 186 | 
-| 2022-09-02 | 21 | 186 | 
-| 2022-09-01 | 21 | 186 | 
 
 
 [Detailed charts & statistics for qbcore-framework/qb-multicharacter](https://reviewgithub.com/rep/qbcore-framework/qb-multicharacter)

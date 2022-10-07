@@ -1,16 +1,37 @@
-# digitalinnovationone/trilha-net-banco-de-dados-desafio / stars & forks statistics
-
-[Open repository/digitalinnovationone/trilha-net-banco-de-dados-desafio](https://github.com/digitalinnovationone/trilha-net-banco-de-dados-desafio)
+# digitalinnovationone/trilha-net-banco-de-dados-desafio - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 16
+☋ Forks: 25
 
 ★ Stars: 0
+
+[Open repository](https://github.com/digitalinnovationone/trilha-net-banco-de-dados-desafio)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 25 | 
+| 2022-10-05 | - | 24 | 
+| 2022-10-04 | - | 24 | 
+| 2022-10-03 | - | 24 | 
+| 2022-10-02 | - | 24 | 
+| 2022-10-01 | - | 24 | 
+| 2022-09-30 | - | 23 | 
+| 2022-09-29 | - | 23 | 
+| 2022-09-28 | - | 23 | 
+| 2022-09-27 | - | 22 | 
+| 2022-09-26 | - | 20 | 
+| 2022-09-25 | - | 20 | 
+| 2022-09-24 | - | 20 | 
+| 2022-09-23 | - | 20 | 
+| 2022-09-22 | - | 20 | 
+| 2022-09-21 | - | 19 | 
+| 2022-09-20 | - | 17 | 
+| 2022-09-19 | - | 17 | 
+| 2022-09-18 | - | 17 | 
+| 2022-09-17 | - | 16 | 
+| 2022-09-16 | - | 16 | 
 | 2022-09-15 | - | 16 | 
 | 2022-09-14 | - | 16 | 
 | 2022-09-13 | - | 16 | 
@@ -19,28 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 12 | 
 | 2022-09-08 | - | 12 | 
 | 2022-09-07 | - | 12 | 
-| 2022-09-06 | - | 12 | 
-| 2022-09-05 | - | 12 | 
-| 2022-09-04 | - | 11 | 
-| 2022-09-03 | - | 11 | 
-| 2022-09-02 | - | 11 | 
-| 2022-09-01 | - | 11 | 
-| 2022-08-31 | - | 11 | 
-| 2022-08-30 | - | 11 | 
-| 2022-08-29 | - | 10 | 
-| 2022-08-28 | - | 10 | 
-| 2022-08-27 | - | 10 | 
-| 2022-08-26 | - | 9 | 
-| 2022-08-25 | - | 9 | 
-| 2022-08-24 | - | 8 | 
-| 2022-08-23 | - | 8 | 
-| 2022-08-22 | - | 8 | 
-| 2022-08-21 | - | 8 | 
-| 2022-08-20 | - | 8 | 
-| 2022-08-19 | - | 7 | 
-| 2022-08-18 | - | 7 | 
-| 2022-08-17 | - | 7 | 
-| 2022-08-16 | - | 7 | 
 
 
 [Detailed charts & statistics for digitalinnovationone/trilha-net-banco-de-dados-desafio](https://reviewgithub.com/rep/digitalinnovationone/trilha-net-banco-de-dados-desafio)

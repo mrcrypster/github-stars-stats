@@ -1,12 +1,12 @@
-# tbakerx/react-resume-template / stars & forks statistics
-
-[Open repository/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template)
+# tbakerx/react-resume-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 718
 
 ★ Stars: 1046
+
+[Open repository](https://github.com/tbakerx/react-resume-template)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# gematik/spec-ISiK-Terminplanung / stars & forks statistics
-
-[Open repository/gematik/spec-ISiK-Terminplanung](https://github.com/gematik/spec-ISiK-Terminplanung)
+# gematik/spec-ISiK-Terminplanung - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/gematik/spec-ISiK-Terminplanung)
 
 ## Historical data
 | Date | Stars | Forks |

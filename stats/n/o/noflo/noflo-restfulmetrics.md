@@ -1,12 +1,12 @@
-# noflo/noflo-restfulmetrics / stars & forks statistics
-
-[Open repository/noflo/noflo-restfulmetrics](https://github.com/noflo/noflo-restfulmetrics)
+# noflo/noflo-restfulmetrics - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 1
+
+[Open repository](https://github.com/noflo/noflo-restfulmetrics)
 
 ## Historical data
 | Date | Stars | Forks |

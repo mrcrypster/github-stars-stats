@@ -1,16 +1,24 @@
-# akinsho/flutter-tools.nvim / stars & forks statistics
-
-[Open repository/akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+# akinsho/flutter-tools.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
-★ Stars: 374
+★ Stars: 381
+
+[Open repository](https://github.com/akinsho/flutter-tools.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 381 | 35 | 
+| 2022-10-05 | 379 | 35 | 
+| 2022-10-04 | 377 | 35 | 
+| 2022-10-03 | 376 | 35 | 
+| 2022-10-02 | 376 | 35 | 
+| 2022-10-01 | 375 | 35 | 
+| 2022-09-30 | 374 | 35 | 
+| 2022-09-29 | 374 | 35 | 
 | 2022-09-28 | 374 | 35 | 
 | 2022-09-27 | 374 | 35 | 
 | 2022-09-26 | 374 | 35 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 367 | 35 | 
 | 2022-09-09 | 367 | 36 | 
 | 2022-09-08 | 366 | 36 | 
-| 2022-09-07 | 366 | 36 | 
-| 2022-09-06 | 366 | 36 | 
-| 2022-09-05 | 366 | 35 | 
-| 2022-09-04 | 365 | 35 | 
-| 2022-09-03 | 364 | 35 | 
-| 2022-09-02 | 363 | 34 | 
-| 2022-09-01 | 360 | 34 | 
-| 2022-08-31 | 359 | 33 | 
-| 2022-08-30 | 357 | 33 | 
 
 
 [Detailed charts & statistics for akinsho/flutter-tools.nvim](https://reviewgithub.com/rep/akinsho/flutter-tools.nvim)

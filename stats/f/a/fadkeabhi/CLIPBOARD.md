@@ -1,12 +1,12 @@
-# fadkeabhi/CLIPBOARD / stars & forks statistics
-
-[Open repository/fadkeabhi/CLIPBOARD](https://github.com/fadkeabhi/CLIPBOARD)
+# fadkeabhi/CLIPBOARD - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 14
+
+[Open repository](https://github.com/fadkeabhi/CLIPBOARD)
 
 ## Historical data
 | Date | Stars | Forks |

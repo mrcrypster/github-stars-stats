@@ -1,16 +1,27 @@
-# ElmerCSC/elmerfem / stars & forks statistics
-
-[Open repository/ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem)
+# ElmerCSC/elmerfem - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 242
+☋ Forks: 243
 
-★ Stars: 745
+★ Stars: 747
+
+[Open repository](https://github.com/ElmerCSC/elmerfem)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 747 | 243 | 
+| 2022-10-05 | 747 | 243 | 
+| 2022-10-04 | 747 | 243 | 
+| 2022-10-03 | 747 | 243 | 
+| 2022-10-02 | 747 | 243 | 
+| 2022-10-01 | 747 | 243 | 
+| 2022-09-30 | 747 | 243 | 
+| 2022-09-29 | 747 | 242 | 
+| 2022-09-28 | 746 | 242 | 
+| 2022-09-27 | 746 | 242 | 
+| 2022-09-26 | 745 | 242 | 
 | 2022-09-25 | 745 | 242 | 
 | 2022-09-24 | 743 | 242 | 
 | 2022-09-23 | 743 | 242 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 733 | 242 | 
 | 2022-09-08 | 732 | 242 | 
 | 2022-09-07 | 731 | 242 | 
-| 2022-09-06 | 731 | 242 | 
-| 2022-09-05 | 731 | 242 | 
-| 2022-09-04 | 730 | 242 | 
-| 2022-09-03 | 730 | 241 | 
-| 2022-09-02 | 729 | 241 | 
-| 2022-09-01 | 729 | 241 | 
-| 2022-08-31 | 730 | 240 | 
-| 2022-08-30 | 729 | 240 | 
-| 2022-08-29 | 728 | 240 | 
-| 2022-08-28 | 728 | 240 | 
-| 2022-08-27 | 728 | 240 | 
-| 2022-08-26 | 728 | 240 | 
 
 
 [Detailed charts & statistics for ElmerCSC/elmerfem](https://reviewgithub.com/rep/ElmerCSC/elmerfem)

@@ -1,12 +1,12 @@
-# patricoferris/clarke / stars & forks statistics
-
-[Open repository/patricoferris/clarke](https://github.com/patricoferris/clarke)
+# patricoferris/clarke - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 14
+
+[Open repository](https://github.com/patricoferris/clarke)
 
 ## Historical data
 | Date | Stars | Forks |

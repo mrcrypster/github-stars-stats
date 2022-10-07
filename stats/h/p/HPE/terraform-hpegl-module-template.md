@@ -1,12 +1,12 @@
-# HPE/terraform-hpegl-module-template / stars & forks statistics
-
-[Open repository/HPE/terraform-hpegl-module-template](https://github.com/HPE/terraform-hpegl-module-template)
+# HPE/terraform-hpegl-module-template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/HPE/terraform-hpegl-module-template)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,25 @@
-# wangxinleo/wechat-public-account-push / stars & forks statistics
-
-[Open repository/wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)
+# wangxinleo/wechat-public-account-push - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2767
+☋ Forks: 3077
 
-★ Stars: 574
+★ Stars: 666
+
+[Open repository](https://github.com/wangxinleo/wechat-public-account-push)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 666 | 3077 | 
+| 2022-10-05 | 657 | 3053 | 
+| 2022-10-04 | 648 | 3015 | 
+| 2022-10-03 | 638 | 2989 | 
+| 2022-10-02 | 636 | 2960 | 
+| 2022-10-01 | 632 | 2937 | 
+| 2022-09-30 | 624 | 2913 | 
+| 2022-09-29 | 614 | 2859 | 
+| 2022-09-28 | 592 | 2818 | 
 | 2022-09-27 | 574 | 2767 | 
 | 2022-09-26 | 548 | 2706 | 
 | 2022-09-25 | 508 | 2576 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 247 | 1110 | 
 | 2022-09-09 | 241 | 1062 | 
 | 2022-09-08 | 239 | 983 | 
-| 2022-09-07 | 234 | 907 | 
-| 2022-09-06 | 229 | 818 | 
-| 2022-09-05 | 216 | 697 | 
-| 2022-09-04 | 202 | 625 | 
-| 2022-09-03 | 192 | 560 | 
-| 2022-09-02 | 176 | 516 | 
-| 2022-09-01 | 131 | 446 | 
-| 2022-08-31 | 97 | 381 | 
-| 2022-08-30 | 70 | 305 | 
-| 2022-08-29 | 49 | 252 | 
 
 
 [Detailed charts & statistics for wangxinleo/wechat-public-account-push](https://reviewgithub.com/rep/wangxinleo/wechat-public-account-push)

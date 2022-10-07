@@ -1,12 +1,12 @@
-# jaimezzapata/productos / stars & forks statistics
-
-[Open repository/jaimezzapata/productos](https://github.com/jaimezzapata/productos)
+# jaimezzapata/productos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
+
+[Open repository](https://github.com/jaimezzapata/productos)
 
 ## Historical data
 | Date | Stars | Forks |

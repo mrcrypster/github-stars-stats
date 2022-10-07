@@ -1,46 +1,16 @@
-# vgstation-coders/vgstation13 / stars & forks statistics
-
-[Open repository/vgstation-coders/vgstation13](https://github.com/vgstation-coders/vgstation13)
+# vgstation-coders/vgstation13 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 555
+☋ Forks: 
 
-★ Stars: 255
+★ Stars: 
+
+[Open repository](https://github.com/vgstation-coders/vgstation13)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 255 | 555 | 
-| 2022-07-29 | 255 | 556 | 
-| 2022-07-28 | 255 | 555 | 
-| 2022-07-27 | 255 | 555 | 
-| 2022-07-26 | 255 | 555 | 
-| 2022-07-25 | 255 | 554 | 
-| 2022-07-24 | 255 | 554 | 
-| 2022-07-23 | 255 | 554 | 
-| 2022-07-22 | 255 | 554 | 
-| 2022-07-21 | 255 | 554 | 
-| 2022-07-20 | 255 | 554 | 
-| 2022-07-19 | 255 | 554 | 
-| 2022-07-18 | 255 | 554 | 
-| 2022-07-17 | 255 | 554 | 
-| 2022-07-16 | 255 | 554 | 
-| 2022-07-15 | 254 | 554 | 
-| 2022-07-14 | 254 | 554 | 
-| 2022-07-13 | 254 | 553 | 
-| 2022-07-12 | 254 | 553 | 
-| 2022-07-11 | 254 | 553 | 
-| 2022-07-10 | 254 | 553 | 
-| 2022-07-09 | 254 | 553 | 
-| 2022-07-08 | 254 | 553 | 
-| 2022-07-07 | 254 | 553 | 
-| 2022-07-06 | 254 | 552 | 
-| 2022-07-05 | 254 | 552 | 
-| 2022-07-04 | 254 | 552 | 
-| 2022-07-03 | 254 | 552 | 
-| 2022-07-02 | 254 | 551 | 
-| 2022-07-01 | 254 | 551 | 
 
 
 [Detailed charts & statistics for vgstation-coders/vgstation13](https://reviewgithub.com/rep/vgstation-coders/vgstation13)

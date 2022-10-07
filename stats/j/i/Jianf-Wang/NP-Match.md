@@ -1,12 +1,12 @@
-# Jianf-Wang/NP-Match / stars & forks statistics
-
-[Open repository/Jianf-Wang/NP-Match](https://github.com/Jianf-Wang/NP-Match)
+# Jianf-Wang/NP-Match - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 120
+
+[Open repository](https://github.com/Jianf-Wang/NP-Match)
 
 ## Historical data
 | Date | Stars | Forks |

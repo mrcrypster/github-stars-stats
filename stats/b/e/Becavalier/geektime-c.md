@@ -1,12 +1,12 @@
-# Becavalier/geektime-c / stars & forks statistics
-
-[Open repository/Becavalier/geektime-c](https://github.com/Becavalier/geektime-c)
+# Becavalier/geektime-c - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 60
+
+[Open repository](https://github.com/Becavalier/geektime-c)
 
 ## Historical data
 | Date | Stars | Forks |

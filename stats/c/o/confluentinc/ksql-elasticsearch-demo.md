@@ -1,6 +1,4 @@
-# confluentinc/ksql-elasticsearch-demo / stars & forks statistics
-
-[Open repository/confluentinc/ksql-elasticsearch-demo](https://github.com/confluentinc/ksql-elasticsearch-demo)
+# confluentinc/ksql-elasticsearch-demo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/confluentinc/ksql-elasticsearch-demo)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 4 | 
+| 2022-10-05 | 4 | 4 | 
+| 2022-10-04 | 4 | 4 | 
+| 2022-10-03 | 4 | 4 | 
+| 2022-10-02 | 4 | 4 | 
+| 2022-10-01 | 4 | 4 | 
+| 2022-09-30 | 4 | 4 | 
+| 2022-09-29 | 4 | 4 | 
+| 2022-09-28 | 4 | 4 | 
+| 2022-09-27 | 4 | 4 | 
+| 2022-09-26 | 4 | 4 | 
 | 2022-09-25 | 4 | 4 | 
 | 2022-09-24 | 4 | 4 | 
 | 2022-09-23 | 4 | 4 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4 | 4 | 
 | 2022-09-08 | 4 | 4 | 
 | 2022-09-07 | 4 | 4 | 
-| 2022-09-06 | 4 | 4 | 
-| 2022-09-05 | 4 | 4 | 
-| 2022-09-04 | 4 | 4 | 
-| 2022-09-03 | 4 | 4 | 
-| 2022-09-02 | 4 | 4 | 
-| 2022-09-01 | 4 | 4 | 
-| 2022-08-31 | 4 | 4 | 
-| 2022-08-30 | 4 | 4 | 
-| 2022-08-29 | 4 | 4 | 
-| 2022-08-28 | 4 | 4 | 
-| 2022-08-27 | 4 | 4 | 
 
 
 [Detailed charts & statistics for confluentinc/ksql-elasticsearch-demo](https://reviewgithub.com/rep/confluentinc/ksql-elasticsearch-demo)

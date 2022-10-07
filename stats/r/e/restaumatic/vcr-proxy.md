@@ -1,12 +1,12 @@
-# restaumatic/vcr-proxy / stars & forks statistics
-
-[Open repository/restaumatic/vcr-proxy](https://github.com/restaumatic/vcr-proxy)
+# restaumatic/vcr-proxy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
+
+[Open repository](https://github.com/restaumatic/vcr-proxy)
 
 ## Historical data
 | Date | Stars | Forks |

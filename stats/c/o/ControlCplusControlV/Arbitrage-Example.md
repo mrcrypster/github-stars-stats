@@ -1,16 +1,31 @@
-# ControlCplusControlV/Arbitrage-Example / stars & forks statistics
-
-[Open repository/ControlCplusControlV/Arbitrage-Example](https://github.com/ControlCplusControlV/Arbitrage-Example)
+# ControlCplusControlV/Arbitrage-Example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 78
+★ Stars: 84
+
+[Open repository](https://github.com/ControlCplusControlV/Arbitrage-Example)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 84 | 11 | 
+| 2022-10-06 | 82 | 10 | 
+| 2022-10-05 | 81 | 10 | 
+| 2022-10-04 | 80 | 10 | 
+| 2022-10-03 | 80 | 10 | 
+| 2022-10-02 | 80 | 10 | 
+| 2022-10-01 | 79 | 10 | 
+| 2022-09-30 | 79 | 10 | 
+| 2022-09-29 | 79 | 10 | 
+| 2022-09-28 | 79 | 10 | 
+| 2022-09-27 | 79 | 10 | 
+| 2022-09-26 | 79 | 10 | 
+| 2022-09-25 | 79 | 10 | 
+| 2022-09-24 | 79 | 10 | 
+| 2022-09-23 | 79 | 10 | 
 | 2022-09-22 | 78 | 9 | 
 | 2022-09-21 | 78 | 9 | 
 | 2022-09-20 | 78 | 9 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 72 | 9 | 
 | 2022-09-09 | 72 | 9 | 
 | 2022-09-07 | 71 | 9 | 
-| 2022-09-06 | 71 | 9 | 
-| 2022-09-05 | 71 | 9 | 
-| 2022-09-04 | 71 | 9 | 
-| 2022-09-03 | 71 | 7 | 
-| 2022-09-02 | 71 | 7 | 
-| 2022-09-01 | 71 | 7 | 
-| 2022-08-31 | 70 | 7 | 
-| 2022-08-30 | 70 | 7 | 
-| 2022-08-29 | 68 | 7 | 
-| 2022-08-28 | 68 | 7 | 
-| 2022-08-27 | 66 | 6 | 
-| 2022-08-26 | 67 | 6 | 
-| 2022-08-25 | 67 | 6 | 
-| 2022-08-24 | 66 | 6 | 
-| 2022-08-23 | 66 | 6 | 
 
 
 [Detailed charts & statistics for ControlCplusControlV/Arbitrage-Example](https://reviewgithub.com/rep/ControlCplusControlV/Arbitrage-Example)

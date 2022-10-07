@@ -1,12 +1,12 @@
-# codeNiuMa/yanglegeyang / stars & forks statistics
-
-[Open repository/codeNiuMa/yanglegeyang](https://github.com/codeNiuMa/yanglegeyang)
+# codeNiuMa/yanglegeyang - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 110
 
 ★ Stars: 66
+
+[Open repository](https://github.com/codeNiuMa/yanglegeyang)
 
 ## Historical data
 | Date | Stars | Forks |

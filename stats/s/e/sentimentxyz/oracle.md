@@ -1,6 +1,4 @@
-# sentimentxyz/oracle / stars & forks statistics
-
-[Open repository/sentimentxyz/oracle](https://github.com/sentimentxyz/oracle)
+# sentimentxyz/oracle - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 9
 
+[Open repository](https://github.com/sentimentxyz/oracle)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 9 | - | 
+| 2022-10-06 | 9 | - | 
+| 2022-10-05 | 9 | - | 
+| 2022-10-04 | 9 | - | 
+| 2022-10-03 | 9 | - | 
+| 2022-10-02 | 9 | - | 
+| 2022-10-01 | 9 | - | 
+| 2022-09-30 | 9 | - | 
+| 2022-09-29 | 9 | - | 
 | 2022-09-28 | 9 | - | 
 | 2022-09-27 | 9 | - | 
 | 2022-09-26 | 9 | - | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 9 | - | 
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
-| 2022-09-06 | 9 | - | 
-| 2022-09-05 | 9 | - | 
-| 2022-09-04 | 9 | - | 
-| 2022-09-03 | 9 | - | 
-| 2022-09-02 | 9 | - | 
-| 2022-09-01 | 8 | - | 
-| 2022-08-31 | 7 | - | 
-| 2022-08-30 | 7 | - | 
-| 2022-08-29 | 6 | - | 
 
 
 [Detailed charts & statistics for sentimentxyz/oracle](https://reviewgithub.com/rep/sentimentxyz/oracle)

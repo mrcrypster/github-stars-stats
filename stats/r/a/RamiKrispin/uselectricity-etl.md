@@ -1,12 +1,12 @@
-# RamiKrispin/uselectricity-etl / stars & forks statistics
-
-[Open repository/RamiKrispin/uselectricity-etl](https://github.com/RamiKrispin/uselectricity-etl)
+# RamiKrispin/uselectricity-etl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 23
+
+[Open repository](https://github.com/RamiKrispin/uselectricity-etl)
 
 ## Historical data
 | Date | Stars | Forks |

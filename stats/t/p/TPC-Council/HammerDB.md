@@ -1,12 +1,12 @@
-# TPC-Council/HammerDB / stars & forks statistics
-
-[Open repository/TPC-Council/HammerDB](https://github.com/TPC-Council/HammerDB)
+# TPC-Council/HammerDB - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 67
 
 ★ Stars: 324
+
+[Open repository](https://github.com/TPC-Council/HammerDB)
 
 ## Historical data
 | Date | Stars | Forks |

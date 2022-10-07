@@ -1,12 +1,12 @@
-# jntrnr/jaktnesmonster / stars & forks statistics
-
-[Open repository/jntrnr/jaktnesmonster](https://github.com/jntrnr/jaktnesmonster)
+# jntrnr/jaktnesmonster - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 62
+
+[Open repository](https://github.com/jntrnr/jaktnesmonster)
 
 ## Historical data
 | Date | Stars | Forks |

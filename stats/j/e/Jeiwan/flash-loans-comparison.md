@@ -1,6 +1,4 @@
-# Jeiwan/flash-loans-comparison / stars & forks statistics
-
-[Open repository/Jeiwan/flash-loans-comparison](https://github.com/Jeiwan/flash-loans-comparison)
+# Jeiwan/flash-loans-comparison - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 181
 
+[Open repository](https://github.com/Jeiwan/flash-loans-comparison)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 181 | 12 | 
+| 2022-10-06 | 181 | 12 | 
+| 2022-10-05 | 181 | 12 | 
+| 2022-10-04 | 181 | 12 | 
+| 2022-10-03 | 181 | 12 | 
+| 2022-10-02 | 181 | 12 | 
+| 2022-10-01 | 181 | 12 | 
+| 2022-09-30 | 180 | 12 | 
+| 2022-09-29 | 180 | 12 | 
+| 2022-09-28 | 181 | 12 | 
+| 2022-09-27 | 181 | 12 | 
 | 2022-09-26 | 181 | 12 | 
 | 2022-09-25 | 181 | 12 | 
 | 2022-09-24 | 181 | 12 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 173 | 11 | 
 | 2022-09-08 | 173 | 11 | 
 | 2022-09-07 | 173 | 11 | 
-| 2022-09-06 | 172 | 11 | 
-| 2022-09-05 | 171 | 11 | 
-| 2022-09-04 | 170 | 9 | 
-| 2022-09-03 | 170 | 9 | 
-| 2022-09-02 | 168 | 9 | 
-| 2022-09-01 | 167 | 9 | 
-| 2022-08-31 | 158 | 9 | 
-| 2022-08-30 | 134 | 9 | 
-| 2022-08-29 | 125 | 9 | 
-| 2022-08-28 | 122 | 8 | 
-| 2022-08-27 | 118 | 7 | 
 
 
 [Detailed charts & statistics for Jeiwan/flash-loans-comparison](https://reviewgithub.com/rep/Jeiwan/flash-loans-comparison)

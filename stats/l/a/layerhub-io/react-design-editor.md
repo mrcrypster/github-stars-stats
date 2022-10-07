@@ -1,16 +1,29 @@
-# layerhub-io/react-design-editor / stars & forks statistics
-
-[Open repository/layerhub-io/react-design-editor](https://github.com/layerhub-io/react-design-editor)
+# layerhub-io/react-design-editor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 88
+☋ Forks: 105
 
-★ Stars: 1047
+★ Stars: 1074
+
+[Open repository](https://github.com/layerhub-io/react-design-editor)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1074 | 105 | 
+| 2022-10-06 | 1072 | 103 | 
+| 2022-10-05 | 1071 | 102 | 
+| 2022-10-04 | 1068 | 102 | 
+| 2022-10-03 | 1067 | 100 | 
+| 2022-10-02 | 1065 | 97 | 
+| 2022-10-01 | 1064 | 96 | 
+| 2022-09-30 | 1062 | 93 | 
+| 2022-09-29 | 1060 | 91 | 
+| 2022-09-28 | 1057 | 90 | 
+| 2022-09-27 | 1053 | 88 | 
+| 2022-09-26 | 1050 | 88 | 
+| 2022-09-25 | 1048 | 88 | 
 | 2022-09-24 | 1047 | 88 | 
 | 2022-09-23 | 1046 | 87 | 
 | 2022-09-22 | 1042 | 84 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 995 | 73 | 
 | 2022-09-08 | 991 | 73 | 
 | 2022-09-07 | 987 | 71 | 
-| 2022-09-06 | 985 | 70 | 
-| 2022-09-05 | 978 | 69 | 
-| 2022-09-04 | 965 | 68 | 
-| 2022-09-03 | 949 | 67 | 
-| 2022-09-02 | 942 | 67 | 
-| 2022-09-01 | 915 | 66 | 
-| 2022-08-31 | 904 | 65 | 
-| 2022-08-30 | 888 | 62 | 
-| 2022-08-29 | 870 | 60 | 
-| 2022-08-28 | 845 | 60 | 
-| 2022-08-27 | 831 | 60 | 
-| 2022-08-26 | 730 | 56 | 
-| 2022-08-25 | 658 | 49 | 
 
 
 [Detailed charts & statistics for layerhub-io/react-design-editor](https://reviewgithub.com/rep/layerhub-io/react-design-editor)

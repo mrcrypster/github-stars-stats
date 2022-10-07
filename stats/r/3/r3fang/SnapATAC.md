@@ -1,12 +1,12 @@
-# r3fang/SnapATAC / stars & forks statistics
-
-[Open repository/r3fang/SnapATAC](https://github.com/r3fang/SnapATAC)
+# r3fang/SnapATAC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 111
 
 ★ Stars: 239
+
+[Open repository](https://github.com/r3fang/SnapATAC)
 
 ## Historical data
 | Date | Stars | Forks |

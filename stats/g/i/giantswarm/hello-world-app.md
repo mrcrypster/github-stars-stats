@@ -1,12 +1,12 @@
-# giantswarm/hello-world-app / stars & forks statistics
-
-[Open repository/giantswarm/hello-world-app](https://github.com/giantswarm/hello-world-app)
+# giantswarm/hello-world-app - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/giantswarm/hello-world-app)
 
 ## Historical data
 | Date | Stars | Forks |

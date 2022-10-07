@@ -1,12 +1,12 @@
-# CronUp/Vulnerabilidades / stars & forks statistics
-
-[Open repository/CronUp/Vulnerabilidades](https://github.com/CronUp/Vulnerabilidades)
+# CronUp/Vulnerabilidades - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 89
+
+[Open repository](https://github.com/CronUp/Vulnerabilidades)
 
 ## Historical data
 | Date | Stars | Forks |

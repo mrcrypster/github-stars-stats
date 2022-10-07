@@ -1,16 +1,29 @@
-# input-output-hk/cardano-graphql / stars & forks statistics
-
-[Open repository/input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql)
+# input-output-hk/cardano-graphql - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 238
+★ Stars: 239
+
+[Open repository](https://github.com/input-output-hk/cardano-graphql)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 239 | 95 | 
+| 2022-10-06 | 239 | 95 | 
+| 2022-10-05 | 239 | 95 | 
+| 2022-10-04 | 239 | 95 | 
+| 2022-10-03 | 239 | 95 | 
+| 2022-10-02 | 239 | 95 | 
+| 2022-10-01 | 239 | 94 | 
+| 2022-09-30 | 239 | 94 | 
+| 2022-09-29 | 239 | 95 | 
+| 2022-09-28 | 239 | 95 | 
+| 2022-09-27 | 239 | 95 | 
+| 2022-09-26 | 238 | 95 | 
+| 2022-09-25 | 239 | 95 | 
 | 2022-09-24 | 238 | 94 | 
 | 2022-09-23 | 238 | 94 | 
 | 2022-09-22 | 238 | 94 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 236 | 92 | 
 | 2022-09-08 | 236 | 92 | 
 | 2022-09-07 | 236 | 91 | 
-| 2022-09-06 | 236 | 91 | 
-| 2022-09-05 | 236 | 91 | 
-| 2022-09-04 | 236 | 91 | 
-| 2022-09-03 | 236 | 92 | 
-| 2022-09-02 | 236 | 92 | 
-| 2022-09-01 | 236 | 92 | 
-| 2022-08-31 | 236 | 92 | 
-| 2022-08-30 | 235 | 92 | 
-| 2022-08-29 | 235 | 92 | 
-| 2022-08-28 | 235 | 92 | 
-| 2022-08-27 | 235 | 92 | 
-| 2022-08-26 | 234 | 92 | 
-| 2022-08-25 | 234 | 92 | 
 
 
 [Detailed charts & statistics for input-output-hk/cardano-graphql](https://reviewgithub.com/rep/input-output-hk/cardano-graphql)

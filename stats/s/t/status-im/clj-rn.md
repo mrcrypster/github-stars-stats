@@ -1,6 +1,4 @@
-# status-im/clj-rn / stars & forks statistics
-
-[Open repository/status-im/clj-rn](https://github.com/status-im/clj-rn)
+# status-im/clj-rn - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 56
 
+[Open repository](https://github.com/status-im/clj-rn)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 56 | 8 | 
+| 2022-10-05 | 56 | 8 | 
+| 2022-10-04 | 56 | 8 | 
+| 2022-10-03 | 56 | 8 | 
+| 2022-10-02 | 56 | 8 | 
+| 2022-10-01 | 56 | 8 | 
+| 2022-09-30 | 56 | 8 | 
 | 2022-09-29 | 56 | 8 | 
 | 2022-09-28 | 56 | 8 | 
 | 2022-09-27 | 56 | 8 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 56 | 8 | 
 | 2022-09-09 | 56 | 8 | 
 | 2022-09-08 | 56 | 8 | 
-| 2022-09-07 | 56 | 8 | 
-| 2022-09-06 | 56 | 8 | 
-| 2022-09-05 | 56 | 8 | 
-| 2022-09-04 | 56 | 8 | 
-| 2022-09-03 | 56 | 8 | 
-| 2022-09-02 | 56 | 8 | 
-| 2022-09-01 | 55 | 8 | 
-| 2022-08-31 | 55 | 8 | 
 
 
 [Detailed charts & statistics for status-im/clj-rn](https://reviewgithub.com/rep/status-im/clj-rn)

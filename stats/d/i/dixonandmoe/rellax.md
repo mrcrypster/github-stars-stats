@@ -1,12 +1,12 @@
-# dixonandmoe/rellax / stars & forks statistics
-
-[Open repository/dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
+# dixonandmoe/rellax - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 892
 
 ★ Stars: 6629
+
+[Open repository](https://github.com/dixonandmoe/rellax)
 
 ## Historical data
 | Date | Stars | Forks |

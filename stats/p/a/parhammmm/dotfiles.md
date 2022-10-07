@@ -1,12 +1,12 @@
-# parhammmm/dotfiles / stars & forks statistics
-
-[Open repository/parhammmm/dotfiles](https://github.com/parhammmm/dotfiles)
+# parhammmm/dotfiles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/parhammmm/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |

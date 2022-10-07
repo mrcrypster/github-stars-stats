@@ -1,12 +1,12 @@
-# MurrellGroup/MolecularEvolution.jl / stars & forks statistics
-
-[Open repository/MurrellGroup/MolecularEvolution.jl](https://github.com/MurrellGroup/MolecularEvolution.jl)
+# MurrellGroup/MolecularEvolution.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/MurrellGroup/MolecularEvolution.jl)
 
 ## Historical data
 | Date | Stars | Forks |

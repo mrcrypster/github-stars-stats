@@ -1,16 +1,29 @@
-# smallnest/go_test_workshop / stars & forks statistics
-
-[Open repository/smallnest/go_test_workshop](https://github.com/smallnest/go_test_workshop)
+# smallnest/go_test_workshop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 91
+
+[Open repository](https://github.com/smallnest/go_test_workshop)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 91 | 20 | 
+| 2022-10-06 | 91 | 20 | 
+| 2022-10-05 | 91 | 20 | 
+| 2022-10-04 | 91 | 20 | 
+| 2022-10-03 | 91 | 20 | 
+| 2022-10-02 | 91 | 20 | 
+| 2022-10-01 | 91 | 20 | 
+| 2022-09-30 | 91 | 20 | 
+| 2022-09-29 | 91 | 20 | 
+| 2022-09-28 | 91 | 19 | 
+| 2022-09-27 | 91 | 19 | 
+| 2022-09-26 | 91 | 19 | 
+| 2022-09-25 | 91 | 19 | 
 | 2022-09-24 | 91 | 19 | 
 | 2022-09-23 | 91 | 19 | 
 | 2022-09-22 | 91 | 19 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 89 | 18 | 
 | 2022-09-08 | 88 | 18 | 
 | 2022-09-07 | 87 | 18 | 
-| 2022-09-06 | 87 | 18 | 
-| 2022-09-05 | 86 | 18 | 
-| 2022-09-04 | 85 | 18 | 
-| 2022-09-03 | 85 | 18 | 
-| 2022-09-02 | 85 | 18 | 
-| 2022-09-01 | 84 | 18 | 
-| 2022-08-31 | 84 | 18 | 
-| 2022-08-30 | 81 | 17 | 
-| 2022-08-29 | 77 | 16 | 
-| 2022-08-28 | 74 | 16 | 
-| 2022-08-27 | 74 | 16 | 
-| 2022-08-26 | 73 | 15 | 
-| 2022-08-25 | 70 | 15 | 
 
 
 [Detailed charts & statistics for smallnest/go_test_workshop](https://reviewgithub.com/rep/smallnest/go_test_workshop)

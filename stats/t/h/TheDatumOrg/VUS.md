@@ -1,12 +1,12 @@
-# TheDatumOrg/VUS / stars & forks statistics
-
-[Open repository/TheDatumOrg/VUS](https://github.com/TheDatumOrg/VUS)
+# TheDatumOrg/VUS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
 ★ Stars: 49
+
+[Open repository](https://github.com/TheDatumOrg/VUS)
 
 ## Historical data
 | Date | Stars | Forks |

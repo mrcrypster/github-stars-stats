@@ -1,12 +1,12 @@
-# Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Docker / stars & forks statistics
-
-[Open repository/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Docker](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Docker)
+# Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Docker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 5
+
+[Open repository](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Docker)
 
 ## Historical data
 | Date | Stars | Forks |

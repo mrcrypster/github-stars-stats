@@ -1,6 +1,4 @@
-# alt-romes/hegg / stars & forks statistics
-
-[Open repository/alt-romes/hegg](https://github.com/alt-romes/hegg)
+# alt-romes/hegg - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 40
 
+[Open repository](https://github.com/alt-romes/hegg)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 40 | 3 | 
+| 2022-10-05 | 40 | 3 | 
+| 2022-10-04 | 40 | 3 | 
+| 2022-10-03 | 40 | 3 | 
+| 2022-10-02 | 40 | 3 | 
+| 2022-10-01 | 40 | 3 | 
+| 2022-09-30 | 40 | 3 | 
+| 2022-09-29 | 40 | 3 | 
+| 2022-09-28 | 40 | 3 | 
+| 2022-09-27 | 40 | 3 | 
 | 2022-09-26 | 40 | 3 | 
 | 2022-09-25 | 40 | 3 | 
 | 2022-09-24 | 40 | 3 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 39 | 2 | 
 | 2022-09-08 | 39 | 2 | 
 | 2022-09-07 | 39 | 2 | 
-| 2022-09-06 | 39 | 2 | 
-| 2022-09-05 | 36 | 2 | 
-| 2022-09-04 | 36 | 2 | 
-| 2022-09-03 | 36 | 2 | 
-| 2022-09-02 | 36 | 2 | 
-| 2022-09-01 | 36 | 2 | 
-| 2022-08-31 | 33 | 2 | 
-| 2022-08-30 | 31 | 2 | 
-| 2022-08-29 | 30 | 2 | 
-| 2022-08-28 | 28 | 2 | 
 
 
 [Detailed charts & statistics for alt-romes/hegg](https://reviewgithub.com/rep/alt-romes/hegg)

@@ -1,12 +1,12 @@
-# ministryofjustice/laa-crown-court-proceeding / stars & forks statistics
-
-[Open repository/ministryofjustice/laa-crown-court-proceeding](https://github.com/ministryofjustice/laa-crown-court-proceeding)
+# ministryofjustice/laa-crown-court-proceeding - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ministryofjustice/laa-crown-court-proceeding)
 
 ## Historical data
 | Date | Stars | Forks |

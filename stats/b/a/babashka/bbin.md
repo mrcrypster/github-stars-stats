@@ -1,16 +1,26 @@
-# babashka/bbin / stars & forks statistics
-
-[Open repository/babashka/bbin](https://github.com/babashka/bbin)
+# babashka/bbin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 55
+★ Stars: 59
+
+[Open repository](https://github.com/babashka/bbin)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 59 | 3 | 
+| 2022-10-05 | 59 | 3 | 
+| 2022-10-04 | 59 | 3 | 
+| 2022-10-03 | 58 | 3 | 
+| 2022-10-02 | 58 | 3 | 
+| 2022-10-01 | 58 | 3 | 
+| 2022-09-30 | 58 | 3 | 
+| 2022-09-29 | 58 | 3 | 
+| 2022-09-28 | 58 | 3 | 
+| 2022-09-27 | 56 | 2 | 
 | 2022-09-26 | 55 | 2 | 
 | 2022-09-25 | 54 | 2 | 
 | 2022-09-24 | 54 | 1 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 1 | 
 | 2022-09-08 | 28 | 1 | 
 | 2022-09-07 | 28 | 1 | 
-| 2022-09-06 | 28 | 1 | 
-| 2022-09-05 | 27 | 1 | 
-| 2022-09-04 | 25 | 1 | 
-| 2022-09-03 | 22 | 1 | 
-| 2022-09-02 | 22 | 1 | 
-| 2022-09-01 | 22 | 1 | 
-| 2022-08-31 | 22 | 1 | 
-| 2022-08-30 | 22 | 1 | 
-| 2022-08-29 | 22 | - | 
-| 2022-08-28 | 22 | - | 
 
 
 [Detailed charts & statistics for babashka/bbin](https://reviewgithub.com/rep/babashka/bbin)

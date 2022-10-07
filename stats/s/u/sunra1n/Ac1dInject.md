@@ -1,12 +1,12 @@
-# sunra1n/Ac1dInject / stars & forks statistics
-
-[Open repository/sunra1n/Ac1dInject](https://github.com/sunra1n/Ac1dInject)
+# sunra1n/Ac1dInject - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/sunra1n/Ac1dInject)
 
 ## Historical data
 | Date | Stars | Forks |

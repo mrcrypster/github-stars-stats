@@ -1,46 +1,46 @@
-# stacksimplify/hashicorp-certified-terraform-associate-on-azure / stars & forks statistics
-
-[Open repository/stacksimplify/hashicorp-certified-terraform-associate-on-azure](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure)
+# stacksimplify/hashicorp-certified-terraform-associate-on-azure - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 786
+☋ Forks: 891
 
-★ Stars: 101
+★ Stars: 115
+
+[Open repository](https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 101 | 786 | 
-| 2022-07-29 | 101 | 785 | 
-| 2022-07-28 | 101 | 784 | 
-| 2022-07-27 | 101 | 785 | 
-| 2022-07-26 | 100 | 783 | 
-| 2022-07-25 | 99 | 778 | 
-| 2022-07-24 | 99 | 778 | 
-| 2022-07-23 | 98 | 777 | 
-| 2022-07-22 | 98 | 775 | 
-| 2022-07-21 | 98 | 773 | 
-| 2022-07-20 | 98 | 771 | 
-| 2022-07-19 | 97 | 767 | 
-| 2022-07-18 | 97 | 764 | 
-| 2022-07-17 | 96 | 764 | 
-| 2022-07-16 | 96 | 764 | 
-| 2022-07-15 | 96 | 763 | 
-| 2022-07-14 | 96 | 762 | 
-| 2022-07-13 | 96 | 755 | 
-| 2022-07-12 | 96 | 753 | 
-| 2022-07-11 | 94 | 748 | 
-| 2022-07-10 | 94 | 747 | 
-| 2022-07-09 | 92 | 746 | 
-| 2022-07-08 | 92 | 743 | 
-| 2022-07-07 | 92 | 742 | 
-| 2022-07-06 | 91 | 742 | 
-| 2022-07-05 | 91 | 740 | 
-| 2022-07-04 | 91 | 738 | 
-| 2022-07-03 | 90 | 734 | 
-| 2022-07-02 | 90 | 732 | 
-| 2022-07-01 | 90 | 731 | 
+| 2022-10-07 | 115 | 891 | 
+| 2022-10-06 | 115 | 891 | 
+| 2022-10-05 | 113 | 890 | 
+| 2022-10-04 | 113 | 889 | 
+| 2022-10-03 | 113 | 887 | 
+| 2022-10-02 | 113 | 884 | 
+| 2022-10-01 | 113 | 884 | 
+| 2022-09-30 | 113 | 884 | 
+| 2022-09-29 | 113 | 883 | 
+| 2022-09-28 | 112 | 883 | 
+| 2022-09-27 | 112 | 882 | 
+| 2022-09-26 | 112 | 881 | 
+| 2022-09-25 | 112 | 881 | 
+| 2022-09-24 | 112 | 880 | 
+| 2022-09-23 | 112 | 880 | 
+| 2022-09-22 | 112 | 879 | 
+| 2022-09-21 | 112 | 876 | 
+| 2022-09-20 | 111 | 876 | 
+| 2022-09-19 | 111 | 875 | 
+| 2022-09-18 | 111 | 875 | 
+| 2022-09-17 | 110 | 875 | 
+| 2022-09-16 | 110 | 874 | 
+| 2022-09-15 | 110 | 873 | 
+| 2022-09-14 | 110 | 869 | 
+| 2022-09-13 | 110 | 867 | 
+| 2022-09-12 | 110 | 866 | 
+| 2022-09-11 | 110 | 864 | 
+| 2022-09-09 | 110 | 862 | 
+| 2022-09-08 | 110 | 856 | 
+| 2022-09-07 | 110 | 856 | 
 
 
 [Detailed charts & statistics for stacksimplify/hashicorp-certified-terraform-associate-on-azure](https://reviewgithub.com/rep/stacksimplify/hashicorp-certified-terraform-associate-on-azure)

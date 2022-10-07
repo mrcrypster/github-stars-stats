@@ -1,12 +1,12 @@
-# qiayuanliao/legged_control / stars & forks statistics
-
-[Open repository/qiayuanliao/legged_control](https://github.com/qiayuanliao/legged_control)
+# qiayuanliao/legged_control - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 152
+
+[Open repository](https://github.com/qiayuanliao/legged_control)
 
 ## Historical data
 | Date | Stars | Forks |

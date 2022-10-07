@@ -1,12 +1,12 @@
-# olcai/fsal / stars & forks statistics
-
-[Open repository/olcai/fsal](https://github.com/olcai/fsal)
+# olcai/fsal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/olcai/fsal)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,29 @@
-# Azure/Service-Fabric-Troubleshooting-Guides / stars & forks statistics
-
-[Open repository/Azure/Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)
+# Azure/Service-Fabric-Troubleshooting-Guides - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 89
+☋ Forks: 90
 
 ★ Stars: 98
+
+[Open repository](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 98 | 90 | 
+| 2022-10-05 | 98 | 90 | 
+| 2022-10-04 | 98 | 90 | 
+| 2022-10-03 | 98 | 90 | 
+| 2022-10-02 | 98 | 90 | 
+| 2022-10-01 | 98 | 90 | 
+| 2022-09-30 | 98 | 90 | 
+| 2022-09-29 | 98 | 90 | 
+| 2022-09-28 | 98 | 89 | 
+| 2022-09-27 | 98 | 89 | 
+| 2022-09-26 | 98 | 89 | 
+| 2022-09-25 | 98 | 89 | 
+| 2022-09-24 | 98 | 89 | 
 | 2022-09-23 | 98 | 89 | 
 | 2022-09-22 | 98 | 88 | 
 | 2022-09-21 | 98 | 88 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 97 | 86 | 
 | 2022-09-08 | 97 | 85 | 
 | 2022-09-07 | 97 | 85 | 
-| 2022-09-06 | 97 | 85 | 
-| 2022-09-05 | 97 | 85 | 
-| 2022-09-04 | 97 | 85 | 
-| 2022-09-03 | 97 | 85 | 
-| 2022-09-02 | 97 | 85 | 
-| 2022-09-01 | 96 | 85 | 
-| 2022-08-31 | 96 | 85 | 
-| 2022-08-30 | 96 | 85 | 
-| 2022-08-29 | 96 | 85 | 
-| 2022-08-28 | 96 | 85 | 
-| 2022-08-27 | 96 | 85 | 
-| 2022-08-26 | 96 | 85 | 
-| 2022-08-25 | 96 | 85 | 
 
 
 [Detailed charts & statistics for Azure/Service-Fabric-Troubleshooting-Guides](https://reviewgithub.com/rep/Azure/Service-Fabric-Troubleshooting-Guides)

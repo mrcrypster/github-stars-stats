@@ -1,16 +1,20 @@
-# whitenois3/huff-snark-verifier / stars & forks statistics
-
-[Open repository/whitenois3/huff-snark-verifier](https://github.com/whitenois3/huff-snark-verifier)
+# whitenois3/huff-snark-verifier - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 85
+★ Stars: 90
+
+[Open repository](https://github.com/whitenois3/huff-snark-verifier)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 90 | 2 | 
+| 2022-10-05 | 90 | 2 | 
+| 2022-10-04 | 90 | 2 | 
+| 2022-10-03 | 88 | 2 | 
 | 2022-10-02 | 85 | 2 | 
 | 2022-10-01 | 85 | 2 | 
 | 2022-09-30 | 85 | 2 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 70 | 1 | 
 | 2022-09-09 | 63 | 1 | 
 | 2022-09-08 | 63 | 1 | 
-| 2022-09-07 | 62 | 1 | 
-| 2022-09-06 | 60 | 1 | 
-| 2022-09-05 | 56 | 1 | 
-| 2022-09-04 | 54 | 1 | 
-| 2022-09-03 | 54 | - | 
 
 
 [Detailed charts & statistics for whitenois3/huff-snark-verifier](https://reviewgithub.com/rep/whitenois3/huff-snark-verifier)

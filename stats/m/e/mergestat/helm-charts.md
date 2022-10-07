@@ -1,12 +1,12 @@
-# mergestat/helm-charts / stars & forks statistics
-
-[Open repository/mergestat/helm-charts](https://github.com/mergestat/helm-charts)
+# mergestat/helm-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mergestat/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |

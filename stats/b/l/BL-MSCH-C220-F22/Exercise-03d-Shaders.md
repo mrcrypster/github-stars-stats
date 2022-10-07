@@ -1,12 +1,12 @@
-# BL-MSCH-C220-F22/Exercise-03d-Shaders / stars & forks statistics
-
-[Open repository/BL-MSCH-C220-F22/Exercise-03d-Shaders](https://github.com/BL-MSCH-C220-F22/Exercise-03d-Shaders)
+# BL-MSCH-C220-F22/Exercise-03d-Shaders - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 0
+
+[Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-03d-Shaders)
 
 ## Historical data
 | Date | Stars | Forks |

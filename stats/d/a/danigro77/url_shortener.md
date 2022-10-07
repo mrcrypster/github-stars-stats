@@ -1,12 +1,12 @@
-# danigro77/url_shortener / stars & forks statistics
-
-[Open repository/danigro77/url_shortener](https://github.com/danigro77/url_shortener)
+# danigro77/url_shortener - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/danigro77/url_shortener)
 
 ## Historical data
 | Date | Stars | Forks |

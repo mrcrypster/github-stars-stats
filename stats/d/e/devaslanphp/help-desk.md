@@ -1,12 +1,12 @@
-# devaslanphp/help-desk / stars & forks statistics
-
-[Open repository/devaslanphp/help-desk](https://github.com/devaslanphp/help-desk)
+# devaslanphp/help-desk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 96
+
+[Open repository](https://github.com/devaslanphp/help-desk)
 
 ## Historical data
 | Date | Stars | Forks |

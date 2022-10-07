@@ -1,6 +1,4 @@
-# kubeclipper-labs/test-infra / stars & forks statistics
-
-[Open repository/kubeclipper-labs/test-infra](https://github.com/kubeclipper-labs/test-infra)
+# kubeclipper-labs/test-infra - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 19
 
+[Open repository](https://github.com/kubeclipper-labs/test-infra)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 1 | 
+| 2022-10-06 | 19 | 1 | 
+| 2022-10-05 | 19 | 1 | 
+| 2022-10-04 | 19 | 1 | 
+| 2022-10-03 | 19 | 1 | 
+| 2022-10-02 | 19 | 1 | 
+| 2022-10-01 | 19 | 1 | 
+| 2022-09-30 | 19 | 1 | 
+| 2022-09-29 | 19 | 1 | 
+| 2022-09-28 | 19 | 1 | 
+| 2022-09-27 | 19 | 1 | 
+| 2022-09-26 | 19 | 1 | 
+| 2022-09-25 | 19 | 1 | 
+| 2022-09-24 | 19 | 1 | 
+| 2022-09-23 | 19 | 1 | 
 | 2022-09-22 | 19 | 1 | 
 | 2022-09-21 | 19 | 1 | 
 | 2022-09-20 | 19 | 1 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 19 | 1 | 
 | 2022-09-08 | 19 | 1 | 
 | 2022-09-07 | 19 | 1 | 
-| 2022-09-06 | 19 | 1 | 
-| 2022-09-05 | 16 | 1 | 
-| 2022-09-04 | 16 | 1 | 
-| 2022-09-03 | 16 | 1 | 
-| 2022-09-02 | 16 | 1 | 
-| 2022-09-01 | 16 | 1 | 
-| 2022-08-31 | 16 | 1 | 
-| 2022-08-30 | 16 | 1 | 
-| 2022-08-29 | 16 | 1 | 
-| 2022-08-28 | 16 | 1 | 
-| 2022-08-27 | 16 | 1 | 
-| 2022-08-26 | 16 | 1 | 
-| 2022-08-25 | 16 | 1 | 
-| 2022-08-24 | 16 | 1 | 
-| 2022-08-23 | 16 | 1 | 
 
 
 [Detailed charts & statistics for kubeclipper-labs/test-infra](https://reviewgithub.com/rep/kubeclipper-labs/test-infra)

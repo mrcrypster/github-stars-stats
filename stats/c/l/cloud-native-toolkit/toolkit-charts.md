@@ -1,6 +1,4 @@
-# cloud-native-toolkit/toolkit-charts / stars & forks statistics
-
-[Open repository/cloud-native-toolkit/toolkit-charts](https://github.com/cloud-native-toolkit/toolkit-charts)
+# cloud-native-toolkit/toolkit-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 13
 
+[Open repository](https://github.com/cloud-native-toolkit/toolkit-charts)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 13 | 30 | 
+| 2022-10-05 | 13 | 30 | 
+| 2022-10-04 | 13 | 30 | 
+| 2022-10-03 | 13 | 30 | 
+| 2022-10-02 | 13 | 30 | 
+| 2022-10-01 | 13 | 30 | 
+| 2022-09-30 | 13 | 30 | 
 | 2022-09-29 | 13 | 30 | 
 | 2022-09-28 | 13 | 29 | 
 | 2022-09-27 | 13 | 29 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 13 | 28 | 
 | 2022-09-09 | 13 | 28 | 
 | 2022-09-08 | 13 | 28 | 
-| 2022-09-07 | 13 | 28 | 
-| 2022-09-06 | 13 | 28 | 
-| 2022-09-05 | 13 | 28 | 
-| 2022-09-04 | 13 | 28 | 
-| 2022-09-03 | 13 | 28 | 
-| 2022-09-02 | 13 | 28 | 
-| 2022-09-01 | 13 | 28 | 
-| 2022-08-31 | 13 | 28 | 
 
 
 [Detailed charts & statistics for cloud-native-toolkit/toolkit-charts](https://reviewgithub.com/rep/cloud-native-toolkit/toolkit-charts)

@@ -1,12 +1,12 @@
-# TInyBoards/Learn-Energia / stars & forks statistics
-
-[Open repository/TInyBoards/Learn-Energia](https://github.com/TInyBoards/Learn-Energia)
+# TInyBoards/Learn-Energia - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/TInyBoards/Learn-Energia)
 
 ## Historical data
 | Date | Stars | Forks |

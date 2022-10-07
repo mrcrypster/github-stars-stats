@@ -1,12 +1,12 @@
-# imajaydwivedi/SQLMonitor / stars & forks statistics
-
-[Open repository/imajaydwivedi/SQLMonitor](https://github.com/imajaydwivedi/SQLMonitor)
+# imajaydwivedi/SQLMonitor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 19
+
+[Open repository](https://github.com/imajaydwivedi/SQLMonitor)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,23 @@
-# lunduniversity/introprog / stars & forks statistics
-
-[Open repository/lunduniversity/introprog](https://github.com/lunduniversity/introprog)
+# lunduniversity/introprog - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 137
+☋ Forks: 140
 
-★ Stars: 118
+★ Stars: 121
+
+[Open repository](https://github.com/lunduniversity/introprog)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 121 | 140 | 
+| 2022-10-05 | 121 | 139 | 
+| 2022-10-04 | 120 | 138 | 
+| 2022-10-03 | 120 | 138 | 
+| 2022-10-02 | 120 | 138 | 
+| 2022-10-01 | 120 | 138 | 
+| 2022-09-30 | 120 | 137 | 
 | 2022-09-29 | 118 | 137 | 
 | 2022-09-28 | 118 | 137 | 
 | 2022-09-27 | 118 | 137 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 116 | 133 | 
 | 2022-09-09 | 116 | 133 | 
 | 2022-09-08 | 115 | 133 | 
-| 2022-09-07 | 113 | 132 | 
-| 2022-09-06 | 113 | 132 | 
-| 2022-09-05 | 112 | 132 | 
-| 2022-09-03 | 112 | 132 | 
-| 2022-09-02 | 112 | 132 | 
-| 2022-09-01 | 112 | 132 | 
-| 2022-08-31 | 112 | 132 | 
-| 2022-08-30 | 110 | 132 | 
 
 
 [Detailed charts & statistics for lunduniversity/introprog](https://reviewgithub.com/rep/lunduniversity/introprog)

@@ -1,12 +1,12 @@
-# TheDatumOrg/kshape-matlab / stars & forks statistics
-
-[Open repository/TheDatumOrg/kshape-matlab](https://github.com/TheDatumOrg/kshape-matlab)
+# TheDatumOrg/kshape-matlab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 50
+
+[Open repository](https://github.com/TheDatumOrg/kshape-matlab)
 
 ## Historical data
 | Date | Stars | Forks |

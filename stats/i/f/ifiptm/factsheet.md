@@ -1,12 +1,12 @@
-# ifiptm/factsheet / stars & forks statistics
-
-[Open repository/ifiptm/factsheet](https://github.com/ifiptm/factsheet)
+# ifiptm/factsheet - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ifiptm/factsheet)
 
 ## Historical data
 | Date | Stars | Forks |

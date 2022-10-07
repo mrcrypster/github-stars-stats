@@ -1,12 +1,12 @@
-# status-im/nim-snappy / stars & forks statistics
-
-[Open repository/status-im/nim-snappy](https://github.com/status-im/nim-snappy)
+# status-im/nim-snappy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 20
+
+[Open repository](https://github.com/status-im/nim-snappy)
 
 ## Historical data
 | Date | Stars | Forks |

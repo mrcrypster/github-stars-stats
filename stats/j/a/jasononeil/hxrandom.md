@@ -1,12 +1,12 @@
-# jasononeil/hxrandom / stars & forks statistics
-
-[Open repository/jasononeil/hxrandom](https://github.com/jasononeil/hxrandom)
+# jasononeil/hxrandom - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 39
+
+[Open repository](https://github.com/jasononeil/hxrandom)
 
 ## Historical data
 | Date | Stars | Forks |

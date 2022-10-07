@@ -1,12 +1,12 @@
-# ericlewis/openfpga-asteroids / stars & forks statistics
-
-[Open repository/ericlewis/openfpga-asteroids](https://github.com/ericlewis/openfpga-asteroids)
+# ericlewis/openfpga-asteroids - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
+
+[Open repository](https://github.com/ericlewis/openfpga-asteroids)
 
 ## Historical data
 | Date | Stars | Forks |

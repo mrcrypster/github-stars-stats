@@ -1,12 +1,12 @@
-# with-tech-guy/hacktoberfest-2022-2 / stars & forks statistics
-
-[Open repository/with-tech-guy/hacktoberfest-2022-2](https://github.com/with-tech-guy/hacktoberfest-2022-2)
+# with-tech-guy/hacktoberfest-2022-2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 1
+
+[Open repository](https://github.com/with-tech-guy/hacktoberfest-2022-2)
 
 ## Historical data
 | Date | Stars | Forks |

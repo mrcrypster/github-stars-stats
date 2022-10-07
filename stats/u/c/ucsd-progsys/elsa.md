@@ -1,12 +1,12 @@
-# ucsd-progsys/elsa / stars & forks statistics
-
-[Open repository/ucsd-progsys/elsa](https://github.com/ucsd-progsys/elsa)
+# ucsd-progsys/elsa - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 158
+
+[Open repository](https://github.com/ucsd-progsys/elsa)
 
 ## Historical data
 | Date | Stars | Forks |

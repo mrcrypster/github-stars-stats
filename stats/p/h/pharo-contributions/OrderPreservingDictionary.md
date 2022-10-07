@@ -1,6 +1,4 @@
-# pharo-contributions/OrderPreservingDictionary / stars & forks statistics
-
-[Open repository/pharo-contributions/OrderPreservingDictionary](https://github.com/pharo-contributions/OrderPreservingDictionary)
+# pharo-contributions/OrderPreservingDictionary - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,39 +6,41 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/pharo-contributions/OrderPreservingDictionary)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 3 | 6 | 
-| 2022-07-29 | 3 | 6 | 
-| 2022-07-28 | 3 | 6 | 
-| 2022-07-27 | 3 | 6 | 
-| 2022-07-26 | 3 | 6 | 
-| 2022-07-25 | 3 | 6 | 
-| 2022-07-24 | 3 | 6 | 
-| 2022-07-23 | 3 | 6 | 
-| 2022-07-22 | 3 | 6 | 
-| 2022-07-21 | 3 | 6 | 
-| 2022-07-20 | 3 | 6 | 
-| 2022-07-19 | 3 | 6 | 
-| 2022-07-18 | 3 | 6 | 
-| 2022-07-17 | 3 | 6 | 
-| 2022-07-16 | 3 | 6 | 
-| 2022-07-15 | 3 | 6 | 
-| 2022-07-14 | 3 | 6 | 
-| 2022-07-13 | 3 | 6 | 
-| 2022-07-12 | 3 | 6 | 
-| 2022-07-11 | 3 | 6 | 
-| 2022-07-10 | 3 | 6 | 
-| 2022-07-09 | 3 | 6 | 
-| 2022-07-08 | 3 | 6 | 
-| 2022-07-07 | 3 | 6 | 
-| 2022-07-06 | 3 | 6 | 
-| 2022-07-05 | 3 | 6 | 
-| 2022-07-04 | 3 | 6 | 
-| 2022-07-03 | 3 | 6 | 
-| 2022-07-02 | 3 | 6 | 
-| 2022-07-01 | 3 | 6 | 
+| 2022-10-07 | 3 | 6 | 
+| 2022-10-06 | 3 | 6 | 
+| 2022-10-05 | 3 | 6 | 
+| 2022-10-04 | 3 | 6 | 
+| 2022-10-03 | 3 | 6 | 
+| 2022-10-02 | 3 | 6 | 
+| 2022-10-01 | 3 | 6 | 
+| 2022-09-30 | 3 | 6 | 
+| 2022-09-29 | 3 | 6 | 
+| 2022-09-28 | 3 | 6 | 
+| 2022-09-27 | 3 | 6 | 
+| 2022-09-26 | 3 | 6 | 
+| 2022-09-25 | 3 | 6 | 
+| 2022-09-24 | 3 | 6 | 
+| 2022-09-23 | 3 | 6 | 
+| 2022-09-22 | 3 | 6 | 
+| 2022-09-21 | 3 | 6 | 
+| 2022-09-20 | 3 | 6 | 
+| 2022-09-19 | 3 | 6 | 
+| 2022-09-18 | 3 | 6 | 
+| 2022-09-17 | 3 | 6 | 
+| 2022-09-16 | 3 | 6 | 
+| 2022-09-15 | 3 | 6 | 
+| 2022-09-14 | 3 | 6 | 
+| 2022-09-13 | 3 | 6 | 
+| 2022-09-12 | 3 | 6 | 
+| 2022-09-11 | 3 | 6 | 
+| 2022-09-10 | 3 | 6 | 
+| 2022-09-09 | 3 | 6 | 
+| 2022-09-08 | 3 | 6 | 
 
 
 [Detailed charts & statistics for pharo-contributions/OrderPreservingDictionary](https://reviewgithub.com/rep/pharo-contributions/OrderPreservingDictionary)

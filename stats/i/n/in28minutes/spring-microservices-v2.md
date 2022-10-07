@@ -1,16 +1,29 @@
-# in28minutes/spring-microservices-v2 / stars & forks statistics
-
-[Open repository/in28minutes/spring-microservices-v2](https://github.com/in28minutes/spring-microservices-v2)
+# in28minutes/spring-microservices-v2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 572
+☋ Forks: 586
 
-★ Stars: 325
+★ Stars: 333
+
+[Open repository](https://github.com/in28minutes/spring-microservices-v2)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 333 | 586 | 
+| 2022-10-06 | 332 | 584 | 
+| 2022-10-05 | 332 | 581 | 
+| 2022-10-04 | 331 | 582 | 
+| 2022-10-03 | 331 | 582 | 
+| 2022-10-02 | 331 | 582 | 
+| 2022-10-01 | 331 | 582 | 
+| 2022-09-30 | 331 | 580 | 
+| 2022-09-29 | 330 | 579 | 
+| 2022-09-28 | 330 | 577 | 
+| 2022-09-27 | 328 | 576 | 
+| 2022-09-26 | 327 | 573 | 
+| 2022-09-25 | 325 | 571 | 
 | 2022-09-24 | 325 | 572 | 
 | 2022-09-23 | 325 | 571 | 
 | 2022-09-22 | 324 | 571 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 311 | 550 | 
 | 2022-09-08 | 311 | 550 | 
 | 2022-09-07 | 310 | 549 | 
-| 2022-09-06 | 308 | 547 | 
-| 2022-09-05 | 308 | 547 | 
-| 2022-09-04 | 308 | 546 | 
-| 2022-09-03 | 306 | 544 | 
-| 2022-09-02 | 306 | 543 | 
-| 2022-09-01 | 306 | 544 | 
-| 2022-08-31 | 304 | 544 | 
-| 2022-08-30 | 303 | 542 | 
-| 2022-08-29 | 300 | 539 | 
-| 2022-08-28 | 300 | 536 | 
-| 2022-08-27 | 300 | 536 | 
-| 2022-08-26 | 300 | 536 | 
-| 2022-08-25 | 298 | 534 | 
 
 
 [Detailed charts & statistics for in28minutes/spring-microservices-v2](https://reviewgithub.com/rep/in28minutes/spring-microservices-v2)

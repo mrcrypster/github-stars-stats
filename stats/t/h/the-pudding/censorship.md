@@ -1,6 +1,4 @@
-# the-pudding/censorship / stars & forks statistics
-
-[Open repository/the-pudding/censorship](https://github.com/the-pudding/censorship)
+# the-pudding/censorship - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 43
 
+[Open repository](https://github.com/the-pudding/censorship)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 43 | - | 
+| 2022-10-05 | 43 | - | 
+| 2022-10-04 | 43 | - | 
+| 2022-10-03 | 43 | - | 
+| 2022-10-02 | 43 | - | 
+| 2022-10-01 | 43 | - | 
+| 2022-09-30 | 43 | - | 
 | 2022-09-29 | 43 | - | 
 | 2022-09-28 | 43 | - | 
 | 2022-09-27 | 43 | - | 
@@ -34,13 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 42 | - | 
 | 2022-09-08 | 42 | - | 
 | 2022-09-07 | 42 | - | 
-| 2022-09-06 | 42 | - | 
-| 2022-09-05 | 42 | - | 
-| 2022-09-04 | 42 | - | 
-| 2022-09-03 | 41 | - | 
-| 2022-09-02 | 40 | - | 
-| 2022-09-01 | 39 | - | 
-| 2022-08-31 | 38 | - | 
 
 
 [Detailed charts & statistics for the-pudding/censorship](https://reviewgithub.com/rep/the-pudding/censorship)

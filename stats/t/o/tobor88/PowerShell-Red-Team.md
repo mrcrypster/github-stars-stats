@@ -1,16 +1,29 @@
-# tobor88/PowerShell-Red-Team / stars & forks statistics
-
-[Open repository/tobor88/PowerShell-Red-Team](https://github.com/tobor88/PowerShell-Red-Team)
+# tobor88/PowerShell-Red-Team - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 275
+★ Stars: 278
+
+[Open repository](https://github.com/tobor88/PowerShell-Red-Team)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 278 | 68 | 
+| 2022-10-06 | 278 | 67 | 
+| 2022-10-05 | 278 | 67 | 
+| 2022-10-04 | 278 | 67 | 
+| 2022-10-03 | 278 | 67 | 
+| 2022-10-02 | 277 | 67 | 
+| 2022-10-01 | 277 | 67 | 
+| 2022-09-30 | 277 | 67 | 
+| 2022-09-29 | 276 | 67 | 
+| 2022-09-28 | 275 | 67 | 
+| 2022-09-27 | 275 | 67 | 
+| 2022-09-26 | 275 | 67 | 
+| 2022-09-25 | 275 | 67 | 
 | 2022-09-24 | 275 | 67 | 
 | 2022-09-23 | 275 | 67 | 
 | 2022-09-22 | 275 | 67 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 268 | 66 | 
 | 2022-09-08 | 268 | 66 | 
 | 2022-09-07 | 268 | 66 | 
-| 2022-09-06 | 268 | 66 | 
-| 2022-09-05 | 266 | 66 | 
-| 2022-09-04 | 265 | 66 | 
-| 2022-09-03 | 265 | 66 | 
-| 2022-09-02 | 265 | 66 | 
-| 2022-09-01 | 265 | 66 | 
-| 2022-08-31 | 265 | 66 | 
-| 2022-08-30 | 265 | 66 | 
-| 2022-08-29 | 265 | 65 | 
-| 2022-08-28 | 265 | 65 | 
-| 2022-08-27 | 265 | 65 | 
-| 2022-08-26 | 265 | 65 | 
-| 2022-08-25 | 265 | 65 | 
 
 
 [Detailed charts & statistics for tobor88/PowerShell-Red-Team](https://reviewgithub.com/rep/tobor88/PowerShell-Red-Team)

@@ -1,16 +1,26 @@
-# ryoppippi/zigcv / stars & forks statistics
-
-[Open repository/ryoppippi/zigcv](https://github.com/ryoppippi/zigcv)
+# ryoppippi/zigcv - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 26
+★ Stars: 45
+
+[Open repository](https://github.com/ryoppippi/zigcv)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 45 | 2 | 
+| 2022-10-06 | 40 | 2 | 
+| 2022-10-05 | 38 | 2 | 
+| 2022-10-04 | 38 | 2 | 
+| 2022-10-03 | 35 | 2 | 
+| 2022-10-02 | 35 | 2 | 
+| 2022-10-01 | 27 | 2 | 
+| 2022-09-30 | 27 | 2 | 
+| 2022-09-29 | 26 | 2 | 
+| 2022-09-28 | 26 | 2 | 
 | 2022-09-27 | 26 | 2 | 
 | 2022-09-26 | 26 | 2 | 
 | 2022-09-25 | 26 | 2 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 26 | 2 | 
 | 2022-09-09 | 26 | 2 | 
 | 2022-09-08 | 24 | 2 | 
-| 2022-09-07 | 24 | 2 | 
-| 2022-09-06 | 24 | 2 | 
-| 2022-09-05 | 24 | 2 | 
-| 2022-09-04 | 22 | 2 | 
-| 2022-09-03 | 22 | 2 | 
-| 2022-09-02 | 22 | 2 | 
-| 2022-08-31 | 22 | 2 | 
-| 2022-08-30 | 22 | 2 | 
-| 2022-08-29 | 22 | 2 | 
-| 2022-08-28 | 17 | 2 | 
 
 
 [Detailed charts & statistics for ryoppippi/zigcv](https://reviewgithub.com/rep/ryoppippi/zigcv)

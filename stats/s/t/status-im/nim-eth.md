@@ -1,12 +1,12 @@
-# status-im/nim-eth / stars & forks statistics
-
-[Open repository/status-im/nim-eth](https://github.com/status-im/nim-eth)
+# status-im/nim-eth - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 58
+
+[Open repository](https://github.com/status-im/nim-eth)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# TheDatumOrg/TSDistEval / stars & forks statistics
-
-[Open repository/TheDatumOrg/TSDistEval](https://github.com/TheDatumOrg/TSDistEval)
+# TheDatumOrg/TSDistEval - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 46
+
+[Open repository](https://github.com/TheDatumOrg/TSDistEval)
 
 ## Historical data
 | Date | Stars | Forks |

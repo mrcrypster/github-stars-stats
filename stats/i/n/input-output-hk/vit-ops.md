@@ -1,12 +1,12 @@
-# input-output-hk/vit-ops / stars & forks statistics
-
-[Open repository/input-output-hk/vit-ops](https://github.com/input-output-hk/vit-ops)
+# input-output-hk/vit-ops - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 5
+
+[Open repository](https://github.com/input-output-hk/vit-ops)
 
 ## Historical data
 | Date | Stars | Forks |

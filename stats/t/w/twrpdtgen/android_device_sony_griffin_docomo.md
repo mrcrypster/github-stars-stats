@@ -1,12 +1,12 @@
-# twrpdtgen/android_device_sony_griffin_docomo / stars & forks statistics
-
-[Open repository/twrpdtgen/android_device_sony_griffin_docomo](https://github.com/twrpdtgen/android_device_sony_griffin_docomo)
+# twrpdtgen/android_device_sony_griffin_docomo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/twrpdtgen/android_device_sony_griffin_docomo)
 
 ## Historical data
 | Date | Stars | Forks |

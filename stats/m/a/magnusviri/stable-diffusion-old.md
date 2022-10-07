@@ -1,16 +1,23 @@
-# magnusviri/stable-diffusion-old / stars & forks statistics
-
-[Open repository/magnusviri/stable-diffusion-old](https://github.com/magnusviri/stable-diffusion-old)
+# magnusviri/stable-diffusion-old - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 8
+☋ Forks: 7
 
 ★ Stars: 90
+
+[Open repository](https://github.com/magnusviri/stable-diffusion-old)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 90 | 7 | 
+| 2022-10-05 | 90 | 7 | 
+| 2022-10-04 | 90 | 8 | 
+| 2022-10-03 | 90 | 8 | 
+| 2022-10-02 | 90 | 8 | 
+| 2022-10-01 | 90 | 8 | 
+| 2022-09-30 | 90 | 8 | 
 | 2022-09-29 | 90 | 8 | 
 | 2022-09-28 | 90 | 8 | 
 | 2022-09-27 | 90 | 8 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 91 | 8 | 
 | 2022-09-09 | 91 | 8 | 
 | 2022-09-08 | 91 | 8 | 
-| 2022-09-07 | 91 | 8 | 
-| 2022-09-06 | 90 | 8 | 
-| 2022-09-05 | 90 | 8 | 
-| 2022-09-04 | 91 | 8 | 
-| 2022-09-03 | 91 | 8 | 
-| 2022-09-02 | 91 | 8 | 
-| 2022-09-01 | 90 | 7 | 
-| 2022-08-31 | 87 | 7 | 
 
 
 [Detailed charts & statistics for magnusviri/stable-diffusion-old](https://reviewgithub.com/rep/magnusviri/stable-diffusion-old)

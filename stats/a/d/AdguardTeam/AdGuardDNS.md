@@ -1,16 +1,25 @@
-# AdguardTeam/AdGuardDNS / stars & forks statistics
-
-[Open repository/AdguardTeam/AdGuardDNS](https://github.com/AdguardTeam/AdGuardDNS)
+# AdguardTeam/AdGuardDNS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
-★ Stars: 519
+★ Stars: 526
+
+[Open repository](https://github.com/AdguardTeam/AdGuardDNS)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 526 | 47 | 
+| 2022-10-06 | 526 | 47 | 
+| 2022-10-05 | 525 | 47 | 
+| 2022-10-04 | 525 | 47 | 
+| 2022-10-03 | 523 | 47 | 
+| 2022-10-02 | 523 | 47 | 
+| 2022-10-01 | 523 | 47 | 
+| 2022-09-30 | 521 | 47 | 
+| 2022-09-29 | 520 | 47 | 
 | 2022-09-28 | 519 | 47 | 
 | 2022-09-27 | 519 | 47 | 
 | 2022-09-26 | 519 | 47 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 502 | 43 | 
 | 2022-09-08 | 501 | 43 | 
 | 2022-09-07 | 502 | 43 | 
-| 2022-09-06 | 502 | 43 | 
-| 2022-09-05 | 502 | 43 | 
-| 2022-09-04 | 499 | 42 | 
-| 2022-09-03 | 498 | 42 | 
-| 2022-09-02 | 494 | 42 | 
-| 2022-09-01 | 488 | 42 | 
-| 2022-08-31 | 482 | 42 | 
-| 2022-08-30 | 477 | 42 | 
-| 2022-08-29 | 472 | 40 | 
 
 
 [Detailed charts & statistics for AdguardTeam/AdGuardDNS](https://reviewgithub.com/rep/AdguardTeam/AdGuardDNS)

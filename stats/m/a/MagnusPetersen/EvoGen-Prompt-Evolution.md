@@ -1,12 +1,12 @@
-# MagnusPetersen/EvoGen-Prompt-Evolution / stars & forks statistics
-
-[Open repository/MagnusPetersen/EvoGen-Prompt-Evolution](https://github.com/MagnusPetersen/EvoGen-Prompt-Evolution)
+# MagnusPetersen/EvoGen-Prompt-Evolution - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 91
+
+[Open repository](https://github.com/MagnusPetersen/EvoGen-Prompt-Evolution)
 
 ## Historical data
 | Date | Stars | Forks |

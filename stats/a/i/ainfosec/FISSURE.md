@@ -1,16 +1,28 @@
-# ainfosec/FISSURE / stars & forks statistics
-
-[Open repository/ainfosec/FISSURE](https://github.com/ainfosec/FISSURE)
+# ainfosec/FISSURE - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 47
+☋ Forks: 50
 
-★ Stars: 1134
+★ Stars: 1175
+
+[Open repository](https://github.com/ainfosec/FISSURE)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1175 | 50 | 
+| 2022-10-05 | 1173 | 50 | 
+| 2022-10-04 | 1173 | 50 | 
+| 2022-10-03 | 1168 | 50 | 
+| 2022-10-02 | 1165 | 50 | 
+| 2022-10-01 | 1164 | 50 | 
+| 2022-09-30 | 1160 | 49 | 
+| 2022-09-29 | 1158 | 49 | 
+| 2022-09-28 | 1153 | 48 | 
+| 2022-09-27 | 1142 | 47 | 
+| 2022-09-26 | 1137 | 47 | 
+| 2022-09-25 | 1134 | 47 | 
 | 2022-09-24 | 1134 | 47 | 
 | 2022-09-23 | 1132 | 46 | 
 | 2022-09-22 | 1129 | 46 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1063 | 36 | 
 | 2022-09-09 | 1058 | 36 | 
 | 2022-09-08 | 1054 | 36 | 
-| 2022-09-07 | 1045 | 34 | 
-| 2022-09-06 | 1035 | 33 | 
-| 2022-09-05 | 1025 | 31 | 
-| 2022-09-04 | 997 | 29 | 
-| 2022-09-03 | 987 | 29 | 
-| 2022-09-02 | 969 | 28 | 
-| 2022-09-01 | 946 | 28 | 
-| 2022-08-31 | 934 | 28 | 
-| 2022-08-30 | 829 | 25 | 
-| 2022-08-29 | 684 | 22 | 
-| 2022-08-28 | 98 | 6 | 
-| 2022-08-27 | 59 | 6 | 
-| 2022-08-26 | 58 | 5 | 
 
 
 [Detailed charts & statistics for ainfosec/FISSURE](https://reviewgithub.com/rep/ainfosec/FISSURE)

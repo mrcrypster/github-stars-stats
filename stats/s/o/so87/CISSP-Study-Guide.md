@@ -1,12 +1,12 @@
-# so87/CISSP-Study-Guide / stars & forks statistics
-
-[Open repository/so87/CISSP-Study-Guide](https://github.com/so87/CISSP-Study-Guide)
+# so87/CISSP-Study-Guide - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 237
 
 ★ Stars: 496
+
+[Open repository](https://github.com/so87/CISSP-Study-Guide)
 
 ## Historical data
 | Date | Stars | Forks |

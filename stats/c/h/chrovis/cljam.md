@@ -1,12 +1,12 @@
-# chrovis/cljam / stars & forks statistics
-
-[Open repository/chrovis/cljam](https://github.com/chrovis/cljam)
+# chrovis/cljam - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 83
+
+[Open repository](https://github.com/chrovis/cljam)
 
 ## Historical data
 | Date | Stars | Forks |

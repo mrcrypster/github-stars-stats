@@ -1,6 +1,4 @@
-# UtkuJS/botclub-website / stars & forks statistics
-
-[Open repository/UtkuJS/botclub-website](https://github.com/UtkuJS/botclub-website)
+# UtkuJS/botclub-website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 28
 
+[Open repository](https://github.com/UtkuJS/botclub-website)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 28 | 17 | 
+| 2022-10-05 | 28 | 17 | 
 | 2022-10-04 | 28 | 17 | 
 | 2022-10-03 | 28 | 17 | 
 | 2022-10-02 | 28 | 17 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 29 | 15 | 
 | 2022-09-09 | 29 | 15 | 
 | 2022-09-08 | 29 | 15 | 
-| 2022-09-07 | 29 | 15 | 
-| 2022-09-06 | 29 | 16 | 
-| 2022-09-05 | 29 | 16 | 
 
 
 [Detailed charts & statistics for UtkuJS/botclub-website](https://reviewgithub.com/rep/UtkuJS/botclub-website)

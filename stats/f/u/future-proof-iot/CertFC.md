@@ -1,6 +1,4 @@
-# future-proof-iot/CertFC / stars & forks statistics
-
-[Open repository/future-proof-iot/CertFC](https://github.com/future-proof-iot/CertFC)
+# future-proof-iot/CertFC - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/future-proof-iot/CertFC)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
+| 2022-10-01 | - | - | 
+| 2022-09-30 | - | - | 
+| 2022-09-29 | - | - | 
 | 2022-09-28 | - | - | 
 | 2022-09-27 | - | - | 
 | 2022-09-26 | - | - | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
-| 2022-09-07 | - | - | 
-| 2022-09-06 | - | - | 
-| 2022-09-05 | - | - | 
-| 2022-09-04 | - | - | 
-| 2022-09-03 | - | - | 
-| 2022-09-02 | - | - | 
-| 2022-09-01 | - | - | 
-| 2022-08-31 | - | - | 
-| 2022-08-30 | - | - | 
 
 
 [Detailed charts & statistics for future-proof-iot/CertFC](https://reviewgithub.com/rep/future-proof-iot/CertFC)

@@ -1,12 +1,12 @@
-# ja-ford/delaytrain.nvim / stars & forks statistics
-
-[Open repository/ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim)
+# ja-ford/delaytrain.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 50
+
+[Open repository](https://github.com/ja-ford/delaytrain.nvim)
 
 ## Historical data
 | Date | Stars | Forks |

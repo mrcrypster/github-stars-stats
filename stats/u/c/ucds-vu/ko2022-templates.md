@@ -1,12 +1,12 @@
-# ucds-vu/ko2022-templates / stars & forks statistics
-
-[Open repository/ucds-vu/ko2022-templates](https://github.com/ucds-vu/ko2022-templates)
+# ucds-vu/ko2022-templates - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 1
+
+[Open repository](https://github.com/ucds-vu/ko2022-templates)
 
 ## Historical data
 | Date | Stars | Forks |

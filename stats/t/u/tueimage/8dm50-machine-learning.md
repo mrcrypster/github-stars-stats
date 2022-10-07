@@ -1,12 +1,12 @@
-# tueimage/8dm50-machine-learning / stars & forks statistics
-
-[Open repository/tueimage/8dm50-machine-learning](https://github.com/tueimage/8dm50-machine-learning)
+# tueimage/8dm50-machine-learning - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 76
 
 ★ Stars: 10
+
+[Open repository](https://github.com/tueimage/8dm50-machine-learning)
 
 ## Historical data
 | Date | Stars | Forks |

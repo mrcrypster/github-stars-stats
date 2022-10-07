@@ -1,12 +1,12 @@
-# optiv/Freeze / stars & forks statistics
-
-[Open repository/optiv/Freeze](https://github.com/optiv/Freeze)
+# optiv/Freeze - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 80
 
 ★ Stars: 734
+
+[Open repository](https://github.com/optiv/Freeze)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# CXXPLOIDBOT/RDP-FREE- / stars & forks statistics
-
-[Open repository/CXXPLOIDBOT/RDP-FREE-](https://github.com/CXXPLOIDBOT/RDP-FREE-)
+# CXXPLOIDBOT/RDP-FREE- - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
 ★ Stars: 3
+
+[Open repository](https://github.com/CXXPLOIDBOT/RDP-FREE-)
 
 ## Historical data
 | Date | Stars | Forks |

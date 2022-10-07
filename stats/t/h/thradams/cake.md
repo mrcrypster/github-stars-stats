@@ -1,12 +1,12 @@
-# thradams/cake / stars & forks statistics
-
-[Open repository/thradams/cake](https://github.com/thradams/cake)
+# thradams/cake - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 321
+
+[Open repository](https://github.com/thradams/cake)
 
 ## Historical data
 | Date | Stars | Forks |

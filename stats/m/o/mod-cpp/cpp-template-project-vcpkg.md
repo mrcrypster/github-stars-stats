@@ -1,12 +1,12 @@
-# mod-cpp/cpp-template-project-vcpkg / stars & forks statistics
-
-[Open repository/mod-cpp/cpp-template-project-vcpkg](https://github.com/mod-cpp/cpp-template-project-vcpkg)
+# mod-cpp/cpp-template-project-vcpkg - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 30
+
+[Open repository](https://github.com/mod-cpp/cpp-template-project-vcpkg)
 
 ## Historical data
 | Date | Stars | Forks |

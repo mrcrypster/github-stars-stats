@@ -1,12 +1,12 @@
-# jwjjgs/ylgy / stars & forks statistics
-
-[Open repository/jwjjgs/ylgy](https://github.com/jwjjgs/ylgy)
+# jwjjgs/ylgy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 28
+
+[Open repository](https://github.com/jwjjgs/ylgy)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# AlexTiTanium/cockroach-engine / stars & forks statistics
-
-[Open repository/AlexTiTanium/cockroach-engine](https://github.com/AlexTiTanium/cockroach-engine)
+# AlexTiTanium/cockroach-engine - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/AlexTiTanium/cockroach-engine)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 3 | - | 
+| 2022-10-05 | 3 | - | 
+| 2022-10-04 | 3 | - | 
+| 2022-10-03 | 3 | - | 
+| 2022-10-02 | 3 | - | 
+| 2022-10-01 | 3 | - | 
+| 2022-09-30 | 3 | - | 
 | 2022-09-29 | 3 | - | 
 | 2022-09-28 | 3 | - | 
 | 2022-09-27 | 3 | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | - | 
 | 2022-09-09 | 3 | - | 
 | 2022-09-08 | 3 | - | 
-| 2022-09-07 | 3 | - | 
-| 2022-09-06 | 3 | - | 
-| 2022-09-05 | 3 | - | 
-| 2022-09-04 | 3 | - | 
-| 2022-09-03 | 3 | - | 
-| 2022-09-02 | 3 | - | 
-| 2022-09-01 | 3 | - | 
-| 2022-08-31 | 3 | - | 
 
 
 [Detailed charts & statistics for AlexTiTanium/cockroach-engine](https://reviewgithub.com/rep/AlexTiTanium/cockroach-engine)

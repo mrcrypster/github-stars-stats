@@ -1,12 +1,12 @@
-# crdroidandroid/proprietary_vendor_xiaomi / stars & forks statistics
-
-[Open repository/crdroidandroid/proprietary_vendor_xiaomi](https://github.com/crdroidandroid/proprietary_vendor_xiaomi)
+# crdroidandroid/proprietary_vendor_xiaomi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/crdroidandroid/proprietary_vendor_xiaomi)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# OCamlPro/digodoc / stars & forks statistics
-
-[Open repository/OCamlPro/digodoc](https://github.com/OCamlPro/digodoc)
+# OCamlPro/digodoc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 12
 
+[Open repository](https://github.com/OCamlPro/digodoc)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12 | 9 | 
+| 2022-10-05 | 12 | 9 | 
+| 2022-10-04 | 12 | 9 | 
+| 2022-10-03 | 12 | 9 | 
+| 2022-10-02 | 12 | 9 | 
+| 2022-10-01 | 12 | 9 | 
+| 2022-09-30 | 12 | 9 | 
 | 2022-09-29 | 12 | 9 | 
 | 2022-09-28 | 12 | 9 | 
 | 2022-09-27 | 12 | 9 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | 9 | 
 | 2022-09-09 | 12 | 9 | 
 | 2022-09-08 | 12 | 9 | 
-| 2022-09-07 | 12 | 9 | 
-| 2022-09-06 | 12 | 9 | 
-| 2022-09-05 | 12 | 9 | 
-| 2022-09-04 | 12 | 9 | 
-| 2022-09-03 | 12 | 9 | 
-| 2022-09-02 | 12 | 9 | 
-| 2022-09-01 | 12 | 9 | 
-| 2022-08-31 | 12 | 9 | 
 
 
 [Detailed charts & statistics for OCamlPro/digodoc](https://reviewgithub.com/rep/OCamlPro/digodoc)

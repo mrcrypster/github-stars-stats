@@ -1,12 +1,12 @@
-# google/silifuzz / stars & forks statistics
-
-[Open repository/google/silifuzz](https://github.com/google/silifuzz)
+# google/silifuzz - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 318
+
+[Open repository](https://github.com/google/silifuzz)
 
 ## Historical data
 | Date | Stars | Forks |

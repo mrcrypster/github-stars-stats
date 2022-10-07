@@ -1,6 +1,4 @@
-# adutilleul/tigress-deobfuscation / stars & forks statistics
-
-[Open repository/adutilleul/tigress-deobfuscation](https://github.com/adutilleul/tigress-deobfuscation)
+# adutilleul/tigress-deobfuscation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 13
 
+[Open repository](https://github.com/adutilleul/tigress-deobfuscation)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13 | - | 
+| 2022-10-06 | 13 | - | 
+| 2022-10-05 | 13 | - | 
+| 2022-10-04 | 13 | - | 
+| 2022-10-03 | 13 | - | 
+| 2022-10-02 | 13 | - | 
+| 2022-10-01 | 13 | - | 
+| 2022-09-30 | 13 | - | 
+| 2022-09-29 | 13 | - | 
 | 2022-09-28 | 13 | - | 
 | 2022-09-27 | 13 | - | 
 | 2022-09-26 | 13 | - | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 13 | - | 
 | 2022-09-08 | 13 | - | 
 | 2022-09-07 | 13 | - | 
-| 2022-09-06 | 12 | - | 
-| 2022-09-05 | 12 | - | 
-| 2022-09-04 | 12 | - | 
-| 2022-09-03 | 12 | - | 
-| 2022-09-02 | 12 | - | 
-| 2022-09-01 | 12 | - | 
-| 2022-08-31 | 12 | - | 
-| 2022-08-30 | 12 | - | 
-| 2022-08-29 | 12 | - | 
 
 
 [Detailed charts & statistics for adutilleul/tigress-deobfuscation](https://reviewgithub.com/rep/adutilleul/tigress-deobfuscation)

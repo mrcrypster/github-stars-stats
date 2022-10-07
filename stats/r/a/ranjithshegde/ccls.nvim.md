@@ -1,16 +1,31 @@
-# ranjithshegde/ccls.nvim / stars & forks statistics
-
-[Open repository/ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim)
+# ranjithshegde/ccls.nvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 30
+
+[Open repository](https://github.com/ranjithshegde/ccls.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 30 | 1 | 
+| 2022-10-06 | 30 | 1 | 
+| 2022-10-05 | 30 | 1 | 
+| 2022-10-04 | 30 | 1 | 
+| 2022-10-03 | 30 | 1 | 
+| 2022-10-02 | 30 | 1 | 
+| 2022-10-01 | 30 | 1 | 
+| 2022-09-30 | 30 | 1 | 
+| 2022-09-29 | 30 | 1 | 
+| 2022-09-28 | 30 | 1 | 
+| 2022-09-27 | 29 | 1 | 
+| 2022-09-26 | 29 | 1 | 
+| 2022-09-25 | 29 | 1 | 
+| 2022-09-24 | 29 | 1 | 
+| 2022-09-23 | 29 | 1 | 
 | 2022-09-22 | 29 | 1 | 
 | 2022-09-21 | 29 | 1 | 
 | 2022-09-20 | 29 | 1 | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | 1 | 
 | 2022-09-08 | 29 | 1 | 
 | 2022-09-07 | 29 | 1 | 
-| 2022-09-06 | 28 | 1 | 
-| 2022-09-05 | 28 | 1 | 
-| 2022-09-04 | 28 | 1 | 
-| 2022-09-03 | 28 | 1 | 
-| 2022-09-02 | 28 | 1 | 
-| 2022-09-01 | 28 | 1 | 
-| 2022-08-31 | 28 | 1 | 
-| 2022-08-30 | 27 | 1 | 
-| 2022-08-29 | 27 | 1 | 
-| 2022-08-28 | 26 | 1 | 
-| 2022-08-27 | 26 | 1 | 
-| 2022-08-26 | 26 | 1 | 
-| 2022-08-25 | 26 | 1 | 
-| 2022-08-24 | 25 | 1 | 
-| 2022-08-23 | 24 | - | 
 
 
 [Detailed charts & statistics for ranjithshegde/ccls.nvim](https://reviewgithub.com/rep/ranjithshegde/ccls.nvim)

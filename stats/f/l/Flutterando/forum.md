@@ -1,12 +1,12 @@
-# Flutterando/forum / stars & forks statistics
-
-[Open repository/Flutterando/forum](https://github.com/Flutterando/forum)
+# Flutterando/forum - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 117
+
+[Open repository](https://github.com/Flutterando/forum)
 
 ## Historical data
 | Date | Stars | Forks |

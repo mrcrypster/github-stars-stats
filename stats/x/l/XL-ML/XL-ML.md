@@ -1,12 +1,12 @@
-# XL-ML/XL-ML / stars & forks statistics
-
-[Open repository/XL-ML/XL-ML](https://github.com/XL-ML/XL-ML)
+# XL-ML/XL-ML - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 22
+
+[Open repository](https://github.com/XL-ML/XL-ML)
 
 ## Historical data
 | Date | Stars | Forks |

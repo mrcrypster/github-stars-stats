@@ -1,12 +1,12 @@
-# Anti-AliasLabs/gps_shoes / stars & forks statistics
-
-[Open repository/Anti-AliasLabs/gps_shoes](https://github.com/Anti-AliasLabs/gps_shoes)
+# Anti-AliasLabs/gps_shoes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Anti-AliasLabs/gps_shoes)
 
 ## Historical data
 | Date | Stars | Forks |

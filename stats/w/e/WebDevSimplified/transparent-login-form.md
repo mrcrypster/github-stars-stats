@@ -1,16 +1,29 @@
-# WebDevSimplified/transparent-login-form / stars & forks statistics
-
-[Open repository/WebDevSimplified/transparent-login-form](https://github.com/WebDevSimplified/transparent-login-form)
+# WebDevSimplified/transparent-login-form - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
-★ Stars: 35
+★ Stars: 37
+
+[Open repository](https://github.com/WebDevSimplified/transparent-login-form)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 37 | 15 | 
+| 2022-10-06 | 37 | 15 | 
+| 2022-10-05 | 37 | 15 | 
+| 2022-10-04 | 37 | 15 | 
+| 2022-10-03 | 37 | 15 | 
+| 2022-10-02 | 37 | 15 | 
+| 2022-10-01 | 37 | 15 | 
+| 2022-09-30 | 37 | 15 | 
+| 2022-09-29 | 37 | 15 | 
+| 2022-09-28 | 36 | 15 | 
+| 2022-09-27 | 36 | 15 | 
+| 2022-09-26 | 35 | 15 | 
+| 2022-09-25 | 35 | 15 | 
 | 2022-09-24 | 35 | 15 | 
 | 2022-09-23 | 34 | 15 | 
 | 2022-09-21 | 34 | 15 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 32 | 16 | 
 | 2022-09-08 | 31 | 15 | 
 | 2022-09-07 | 30 | 15 | 
-| 2022-09-06 | 30 | 15 | 
-| 2022-09-05 | 30 | 15 | 
-| 2022-09-04 | 29 | 15 | 
-| 2022-09-03 | 29 | 15 | 
-| 2022-09-02 | 29 | 15 | 
-| 2022-09-01 | 29 | 14 | 
-| 2022-08-31 | 29 | 13 | 
-| 2022-08-30 | 28 | 13 | 
-| 2022-08-29 | 28 | 13 | 
-| 2022-08-28 | 28 | 13 | 
-| 2022-08-27 | 28 | 11 | 
-| 2022-08-26 | 28 | 11 | 
-| 2022-08-25 | 27 | 10 | 
 
 
 [Detailed charts & statistics for WebDevSimplified/transparent-login-form](https://reviewgithub.com/rep/WebDevSimplified/transparent-login-form)

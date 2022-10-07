@@ -1,12 +1,12 @@
-# xinranwang/LEDWithVoiceControl / stars & forks statistics
-
-[Open repository/xinranwang/LEDWithVoiceControl](https://github.com/xinranwang/LEDWithVoiceControl)
+# xinranwang/LEDWithVoiceControl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/xinranwang/LEDWithVoiceControl)
 
 ## Historical data
 | Date | Stars | Forks |

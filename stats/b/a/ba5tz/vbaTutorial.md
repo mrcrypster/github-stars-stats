@@ -1,12 +1,12 @@
-# ba5tz/vbaTutorial / stars & forks statistics
-
-[Open repository/ba5tz/vbaTutorial](https://github.com/ba5tz/vbaTutorial)
+# ba5tz/vbaTutorial - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 7
+
+[Open repository](https://github.com/ba5tz/vbaTutorial)
 
 ## Historical data
 | Date | Stars | Forks |

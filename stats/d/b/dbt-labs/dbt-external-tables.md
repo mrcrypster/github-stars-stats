@@ -1,12 +1,12 @@
-# dbt-labs/dbt-external-tables / stars & forks statistics
-
-[Open repository/dbt-labs/dbt-external-tables](https://github.com/dbt-labs/dbt-external-tables)
+# dbt-labs/dbt-external-tables - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 65
 
 ★ Stars: 157
+
+[Open repository](https://github.com/dbt-labs/dbt-external-tables)
 
 ## Historical data
 | Date | Stars | Forks |

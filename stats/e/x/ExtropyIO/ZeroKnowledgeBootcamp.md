@@ -1,12 +1,12 @@
-# ExtropyIO/ZeroKnowledgeBootcamp / stars & forks statistics
-
-[Open repository/ExtropyIO/ZeroKnowledgeBootcamp](https://github.com/ExtropyIO/ZeroKnowledgeBootcamp)
+# ExtropyIO/ZeroKnowledgeBootcamp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 4
+
+[Open repository](https://github.com/ExtropyIO/ZeroKnowledgeBootcamp)
 
 ## Historical data
 | Date | Stars | Forks |

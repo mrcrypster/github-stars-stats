@@ -1,6 +1,4 @@
-# YoshiCrafter29/Yoshi-Engine-code-samples / stars & forks statistics
-
-[Open repository/YoshiCrafter29/Yoshi-Engine-code-samples](https://github.com/YoshiCrafter29/Yoshi-Engine-code-samples)
+# YoshiCrafter29/Yoshi-Engine-code-samples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 12
 
+[Open repository](https://github.com/YoshiCrafter29/Yoshi-Engine-code-samples)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12 | 14 | 
+| 2022-10-05 | 12 | 14 | 
+| 2022-10-04 | 12 | 14 | 
+| 2022-10-03 | 12 | 14 | 
 | 2022-10-02 | 12 | 14 | 
 | 2022-10-01 | 12 | 14 | 
 | 2022-09-30 | 12 | 13 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | 12 | 
 | 2022-09-09 | 12 | 12 | 
 | 2022-09-08 | 11 | 12 | 
-| 2022-09-07 | 11 | 12 | 
-| 2022-09-06 | 11 | 12 | 
-| 2022-09-05 | 11 | 12 | 
-| 2022-09-04 | 11 | 12 | 
-| 2022-09-03 | 11 | 12 | 
 
 
 [Detailed charts & statistics for YoshiCrafter29/Yoshi-Engine-code-samples](https://reviewgithub.com/rep/YoshiCrafter29/Yoshi-Engine-code-samples)

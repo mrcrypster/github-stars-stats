@@ -1,12 +1,12 @@
-# kclejeune/system / stars & forks statistics
-
-[Open repository/kclejeune/system](https://github.com/kclejeune/system)
+# kclejeune/system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 34
 
 ★ Stars: 256
+
+[Open repository](https://github.com/kclejeune/system)
 
 ## Historical data
 | Date | Stars | Forks |

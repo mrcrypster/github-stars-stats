@@ -1,12 +1,12 @@
-# Shopify/unite-workshop-online-store-performance / stars & forks statistics
-
-[Open repository/Shopify/unite-workshop-online-store-performance](https://github.com/Shopify/unite-workshop-online-store-performance)
+# Shopify/unite-workshop-online-store-performance - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Shopify/unite-workshop-online-store-performance)
 
 ## Historical data
 | Date | Stars | Forks |

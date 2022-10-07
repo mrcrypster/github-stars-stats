@@ -1,6 +1,4 @@
-# Kindelia/Wikind / stars & forks statistics
-
-[Open repository/Kindelia/Wikind](https://github.com/Kindelia/Wikind)
+# Kindelia/Wikind - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 20
 
+[Open repository](https://github.com/Kindelia/Wikind)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 20 | 18 | 
+| 2022-10-05 | 20 | 18 | 
+| 2022-10-04 | 20 | 18 | 
+| 2022-10-03 | 20 | 18 | 
+| 2022-10-02 | 20 | 18 | 
+| 2022-10-01 | 20 | 18 | 
+| 2022-09-30 | 20 | 18 | 
 | 2022-09-29 | 20 | 18 | 
 | 2022-09-28 | 20 | 18 | 
 | 2022-09-27 | 20 | 18 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 20 | 15 | 
 | 2022-09-09 | 19 | 15 | 
 | 2022-09-08 | 19 | 15 | 
-| 2022-09-07 | 19 | 15 | 
-| 2022-09-06 | 19 | 15 | 
-| 2022-09-05 | 19 | 15 | 
-| 2022-09-04 | 19 | 15 | 
-| 2022-09-03 | 19 | 15 | 
-| 2022-09-02 | 19 | 15 | 
-| 2022-09-01 | 19 | 15 | 
-| 2022-08-31 | 19 | 15 | 
 
 
 [Detailed charts & statistics for Kindelia/Wikind](https://reviewgithub.com/rep/Kindelia/Wikind)

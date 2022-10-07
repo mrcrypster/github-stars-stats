@@ -1,6 +1,4 @@
-# rentpath/slack_queue_bot / stars & forks statistics
-
-[Open repository/rentpath/slack_queue_bot](https://github.com/rentpath/slack_queue_bot)
+# rentpath/slack_queue_bot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/rentpath/slack_queue_bot)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | - | 
+| 2022-10-05 | 2 | - | 
+| 2022-10-04 | 2 | - | 
+| 2022-10-03 | 2 | - | 
+| 2022-10-02 | 2 | - | 
+| 2022-10-01 | 2 | - | 
 | 2022-09-30 | 2 | - | 
 | 2022-09-29 | 2 | - | 
 | 2022-09-28 | 2 | - | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | - | 
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
-| 2022-09-07 | 2 | - | 
-| 2022-09-06 | 2 | - | 
-| 2022-09-05 | 2 | - | 
-| 2022-09-04 | 2 | - | 
-| 2022-09-03 | 2 | - | 
-| 2022-09-02 | 2 | - | 
-| 2022-09-01 | 2 | - | 
 
 
 [Detailed charts & statistics for rentpath/slack_queue_bot](https://reviewgithub.com/rep/rentpath/slack_queue_bot)

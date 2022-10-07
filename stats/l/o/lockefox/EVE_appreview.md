@@ -1,6 +1,4 @@
-# lockefox/EVE_appreview / stars & forks statistics
-
-[Open repository/lockefox/EVE_appreview](https://github.com/lockefox/EVE_appreview)
+# lockefox/EVE_appreview - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/lockefox/EVE_appreview)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | - | 
+| 2022-10-05 | 2 | - | 
+| 2022-10-04 | 2 | - | 
+| 2022-10-03 | 2 | - | 
+| 2022-10-02 | 2 | - | 
+| 2022-10-01 | 2 | - | 
+| 2022-09-30 | 2 | - | 
+| 2022-09-29 | 2 | - | 
+| 2022-09-28 | 2 | - | 
+| 2022-09-27 | 2 | - | 
+| 2022-09-26 | 2 | - | 
 | 2022-09-25 | 2 | - | 
 | 2022-09-24 | 2 | - | 
 | 2022-09-23 | 2 | - | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | - | 
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
-| 2022-09-07 | 2 | - | 
-| 2022-09-06 | 2 | - | 
-| 2022-09-05 | 2 | - | 
-| 2022-09-04 | 2 | - | 
-| 2022-09-03 | 2 | - | 
-| 2022-09-02 | 1 | - | 
-| 2022-09-01 | 1 | - | 
-| 2022-08-31 | 1 | - | 
-| 2022-08-30 | 1 | - | 
-| 2022-08-29 | 1 | - | 
-| 2022-08-28 | 1 | - | 
-| 2022-08-27 | 1 | - | 
 
 
 [Detailed charts & statistics for lockefox/EVE_appreview](https://reviewgithub.com/rep/lockefox/EVE_appreview)

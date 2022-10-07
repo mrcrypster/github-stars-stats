@@ -1,12 +1,12 @@
-# kadena-io/chainweaver / stars & forks statistics
-
-[Open repository/kadena-io/chainweaver](https://github.com/kadena-io/chainweaver)
+# kadena-io/chainweaver - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 56
+
+[Open repository](https://github.com/kadena-io/chainweaver)
 
 ## Historical data
 | Date | Stars | Forks |

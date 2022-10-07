@@ -1,12 +1,12 @@
-# HPE/terraform-hpegl-metal-hosts-with-logz / stars & forks statistics
-
-[Open repository/HPE/terraform-hpegl-metal-hosts-with-logz](https://github.com/HPE/terraform-hpegl-metal-hosts-with-logz)
+# HPE/terraform-hpegl-metal-hosts-with-logz - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/HPE/terraform-hpegl-metal-hosts-with-logz)
 
 ## Historical data
 | Date | Stars | Forks |

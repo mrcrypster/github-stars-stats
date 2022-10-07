@@ -1,12 +1,12 @@
-# 1904labs/streaming-data-pipeline / stars & forks statistics
-
-[Open repository/1904labs/streaming-data-pipeline](https://github.com/1904labs/streaming-data-pipeline)
+# 1904labs/streaming-data-pipeline - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 1
+
+[Open repository](https://github.com/1904labs/streaming-data-pipeline)
 
 ## Historical data
 | Date | Stars | Forks |

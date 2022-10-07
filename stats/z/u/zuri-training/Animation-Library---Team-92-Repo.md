@@ -1,6 +1,4 @@
-# zuri-training/Animation-Library---Team-92-Repo / stars & forks statistics
-
-[Open repository/zuri-training/Animation-Library---Team-92-Repo](https://github.com/zuri-training/Animation-Library---Team-92-Repo)
+# zuri-training/Animation-Library---Team-92-Repo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,33 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/zuri-training/Animation-Library---Team-92-Repo)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2 | 8 | 
+| 2022-10-06 | 2 | 8 | 
+| 2022-10-05 | 2 | 8 | 
+| 2022-10-04 | 2 | 8 | 
+| 2022-10-03 | 2 | 8 | 
+| 2022-10-02 | 2 | 8 | 
+| 2022-10-01 | 2 | 8 | 
+| 2022-09-30 | 2 | 8 | 
+| 2022-09-29 | 2 | 8 | 
+| 2022-09-28 | 2 | 8 | 
+| 2022-09-27 | 2 | 8 | 
+| 2022-09-26 | 2 | 8 | 
+| 2022-09-25 | 2 | 8 | 
+| 2022-09-24 | 2 | 8 | 
+| 2022-09-23 | 2 | 8 | 
+| 2022-09-21 | 2 | 8 | 
+| 2022-09-20 | 2 | 8 | 
+| 2022-09-19 | 2 | 8 | 
+| 2022-09-18 | 2 | 8 | 
+| 2022-09-17 | 2 | 8 | 
+| 2022-09-16 | 2 | 8 | 
+| 2022-09-15 | 2 | 8 | 
 | 2022-09-14 | 2 | 8 | 
 | 2022-09-13 | 2 | 8 | 
 | 2022-09-12 | 2 | 8 | 
@@ -19,28 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2 | 8 | 
 | 2022-09-08 | 2 | 8 | 
 | 2022-09-07 | 2 | 8 | 
-| 2022-09-06 | 2 | 8 | 
-| 2022-09-05 | 2 | 8 | 
-| 2022-09-04 | 2 | 8 | 
-| 2022-09-03 | 2 | 8 | 
-| 2022-09-02 | 2 | 8 | 
-| 2022-09-01 | 2 | 8 | 
-| 2022-08-31 | 2 | 8 | 
-| 2022-08-30 | 2 | 8 | 
-| 2022-08-29 | 2 | 8 | 
-| 2022-08-28 | 2 | 8 | 
-| 2022-08-27 | 2 | 8 | 
-| 2022-08-26 | 2 | 8 | 
-| 2022-08-25 | 2 | 8 | 
-| 2022-08-24 | 2 | 8 | 
-| 2022-08-23 | 2 | 8 | 
-| 2022-08-22 | 2 | 8 | 
-| 2022-08-21 | 2 | 8 | 
-| 2022-08-20 | 2 | 8 | 
-| 2022-08-19 | 2 | 8 | 
-| 2022-08-18 | 2 | 8 | 
-| 2022-08-17 | 2 | 8 | 
-| 2022-08-16 | 2 | 8 | 
 
 
 [Detailed charts & statistics for zuri-training/Animation-Library---Team-92-Repo](https://reviewgithub.com/rep/zuri-training/Animation-Library---Team-92-Repo)

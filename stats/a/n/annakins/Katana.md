@@ -1,6 +1,4 @@
-# annakins/Katana / stars & forks statistics
-
-[Open repository/annakins/Katana](https://github.com/annakins/Katana)
+# annakins/Katana - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/annakins/Katana)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | 1 | 
+| 2022-10-05 | 2 | 1 | 
 | 2022-10-04 | 2 | 1 | 
 | 2022-10-03 | 2 | 1 | 
 | 2022-10-02 | 2 | 1 | 
@@ -39,8 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
-| 2022-09-06 | 2 | - | 
-| 2022-09-05 | 1 | - | 
 
 
 [Detailed charts & statistics for annakins/Katana](https://reviewgithub.com/rep/annakins/Katana)

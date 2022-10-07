@@ -1,6 +1,4 @@
-# status-im/universal-links-handler / stars & forks statistics
-
-[Open repository/status-im/universal-links-handler](https://github.com/status-im/universal-links-handler)
+# status-im/universal-links-handler - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/status-im/universal-links-handler)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 5 | 3 | 
+| 2022-10-05 | 5 | 3 | 
+| 2022-10-04 | 5 | 3 | 
+| 2022-10-03 | 5 | 3 | 
+| 2022-10-02 | 5 | 3 | 
+| 2022-10-01 | 5 | 3 | 
+| 2022-09-30 | 5 | 3 | 
 | 2022-09-29 | 5 | 3 | 
 | 2022-09-28 | 5 | 3 | 
 | 2022-09-27 | 5 | 3 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 5 | 3 | 
 | 2022-09-09 | 5 | 3 | 
 | 2022-09-08 | 5 | 3 | 
-| 2022-09-07 | 5 | 3 | 
-| 2022-09-06 | 5 | 3 | 
-| 2022-09-05 | 5 | 3 | 
-| 2022-09-04 | 5 | 3 | 
-| 2022-09-03 | 5 | 3 | 
-| 2022-09-02 | 5 | 3 | 
-| 2022-09-01 | 5 | 3 | 
-| 2022-08-31 | 5 | 3 | 
 
 
 [Detailed charts & statistics for status-im/universal-links-handler](https://reviewgithub.com/rep/status-im/universal-links-handler)

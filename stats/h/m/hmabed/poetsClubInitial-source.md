@@ -1,12 +1,12 @@
-# hmabed/poetsClubInitial-source / stars & forks statistics
-
-[Open repository/hmabed/poetsClubInitial-source](https://github.com/hmabed/poetsClubInitial-source)
+# hmabed/poetsClubInitial-source - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/hmabed/poetsClubInitial-source)
 
 ## Historical data
 | Date | Stars | Forks |

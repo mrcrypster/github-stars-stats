@@ -1,12 +1,12 @@
-# xmos/lib_trycatch / stars & forks statistics
-
-[Open repository/xmos/lib_trycatch](https://github.com/xmos/lib_trycatch)
+# xmos/lib_trycatch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 1
+
+[Open repository](https://github.com/xmos/lib_trycatch)
 
 ## Historical data
 | Date | Stars | Forks |

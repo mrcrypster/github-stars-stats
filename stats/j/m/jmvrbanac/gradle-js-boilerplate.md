@@ -1,12 +1,12 @@
-# jmvrbanac/gradle-js-boilerplate / stars & forks statistics
-
-[Open repository/jmvrbanac/gradle-js-boilerplate](https://github.com/jmvrbanac/gradle-js-boilerplate)
+# jmvrbanac/gradle-js-boilerplate - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/jmvrbanac/gradle-js-boilerplate)
 
 ## Historical data
 | Date | Stars | Forks |

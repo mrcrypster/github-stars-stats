@@ -1,12 +1,12 @@
-# ericlewis/openfpga-spacerace / stars & forks statistics
-
-[Open repository/ericlewis/openfpga-spacerace](https://github.com/ericlewis/openfpga-spacerace)
+# ericlewis/openfpga-spacerace - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 26
+
+[Open repository](https://github.com/ericlewis/openfpga-spacerace)
 
 ## Historical data
 | Date | Stars | Forks |

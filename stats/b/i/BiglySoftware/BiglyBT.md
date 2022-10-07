@@ -1,16 +1,26 @@
-# BiglySoftware/BiglyBT / stars & forks statistics
-
-[Open repository/BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT)
+# BiglySoftware/BiglyBT - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 125
+☋ Forks: 126
 
-★ Stars: 1116
+★ Stars: 1122
+
+[Open repository](https://github.com/BiglySoftware/BiglyBT)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1122 | 126 | 
+| 2022-10-05 | 1121 | 126 | 
+| 2022-10-04 | 1118 | 125 | 
+| 2022-10-03 | 1118 | 125 | 
+| 2022-10-02 | 1118 | 125 | 
+| 2022-10-01 | 1118 | 125 | 
+| 2022-09-30 | 1118 | 125 | 
+| 2022-09-29 | 1118 | 125 | 
+| 2022-09-28 | 1117 | 125 | 
+| 2022-09-27 | 1115 | 126 | 
 | 2022-09-26 | 1116 | 125 | 
 | 2022-09-25 | 1115 | 125 | 
 | 2022-09-24 | 1113 | 124 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1102 | 122 | 
 | 2022-09-09 | 1103 | 122 | 
 | 2022-09-08 | 1101 | 121 | 
-| 2022-09-07 | 1101 | 121 | 
-| 2022-09-06 | 1099 | 121 | 
-| 2022-09-05 | 1099 | 121 | 
-| 2022-09-04 | 1099 | 121 | 
-| 2022-09-03 | 1099 | 121 | 
-| 2022-09-02 | 1097 | 121 | 
-| 2022-09-01 | 1092 | 121 | 
-| 2022-08-31 | 1088 | 121 | 
-| 2022-08-30 | 1088 | 121 | 
-| 2022-08-29 | 1085 | 120 | 
-| 2022-08-28 | 1083 | 119 | 
 
 
 [Detailed charts & statistics for BiglySoftware/BiglyBT](https://reviewgithub.com/rep/BiglySoftware/BiglyBT)

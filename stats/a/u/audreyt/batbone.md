@@ -1,12 +1,12 @@
-# audreyt/batbone / stars & forks statistics
-
-[Open repository/audreyt/batbone](https://github.com/audreyt/batbone)
+# audreyt/batbone - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/audreyt/batbone)
 
 ## Historical data
 | Date | Stars | Forks |

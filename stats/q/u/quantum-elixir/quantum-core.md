@@ -1,16 +1,29 @@
-# quantum-elixir/quantum-core / stars & forks statistics
-
-[Open repository/quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core)
+# quantum-elixir/quantum-core - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 2006
+★ Stars: 2015
+
+[Open repository](https://github.com/quantum-elixir/quantum-core)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2015 | 141 | 
+| 2022-10-06 | 2015 | 141 | 
+| 2022-10-05 | 2015 | 141 | 
+| 2022-10-04 | 2013 | 141 | 
+| 2022-10-03 | 2012 | 140 | 
+| 2022-10-02 | 2012 | 140 | 
+| 2022-10-01 | 2012 | 140 | 
+| 2022-09-30 | 2012 | 140 | 
+| 2022-09-29 | 2012 | 140 | 
+| 2022-09-28 | 2011 | 140 | 
+| 2022-09-27 | 2010 | 140 | 
+| 2022-09-26 | 2010 | 140 | 
+| 2022-09-25 | 2009 | 140 | 
 | 2022-09-23 | 2006 | 140 | 
 | 2022-09-22 | 2005 | 140 | 
 | 2022-09-21 | 2004 | 140 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1995 | 140 | 
 | 2022-09-08 | 1995 | 140 | 
 | 2022-09-07 | 1995 | 140 | 
-| 2022-09-06 | 1994 | 140 | 
-| 2022-09-05 | 1993 | 139 | 
-| 2022-09-04 | 1993 | 139 | 
-| 2022-09-03 | 1992 | 139 | 
-| 2022-09-02 | 1991 | 139 | 
-| 2022-09-01 | 1991 | 139 | 
-| 2022-08-31 | 1991 | 139 | 
-| 2022-08-30 | 1990 | 139 | 
-| 2022-08-29 | 1990 | 139 | 
-| 2022-08-28 | 1988 | 139 | 
-| 2022-08-27 | 1989 | 139 | 
-| 2022-08-26 | 1989 | 139 | 
-| 2022-08-25 | 1989 | 139 | 
 
 
 [Detailed charts & statistics for quantum-elixir/quantum-core](https://reviewgithub.com/rep/quantum-elixir/quantum-core)

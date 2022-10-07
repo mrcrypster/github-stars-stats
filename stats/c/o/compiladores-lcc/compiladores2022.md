@@ -1,6 +1,4 @@
-# compiladores-lcc/compiladores2022 / stars & forks statistics
-
-[Open repository/compiladores-lcc/compiladores2022](https://github.com/compiladores-lcc/compiladores2022)
+# compiladores-lcc/compiladores2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,28 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/compiladores-lcc/compiladores2022)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | 9 | 
+| 2022-10-05 | 4 | 9 | 
+| 2022-10-04 | 4 | 9 | 
+| 2022-10-03 | 4 | 9 | 
+| 2022-10-02 | 4 | 9 | 
+| 2022-10-01 | 4 | 9 | 
+| 2022-09-30 | 4 | 9 | 
+| 2022-09-29 | 4 | 9 | 
+| 2022-09-28 | 4 | 9 | 
+| 2022-09-27 | 4 | 9 | 
+| 2022-09-26 | 4 | 9 | 
+| 2022-09-25 | 4 | 9 | 
+| 2022-09-24 | 4 | 9 | 
+| 2022-09-23 | 4 | 9 | 
+| 2022-09-22 | 4 | 9 | 
+| 2022-09-21 | 4 | 9 | 
+| 2022-09-20 | 4 | 9 | 
 | 2022-09-19 | 4 | 9 | 
 | 2022-09-18 | 4 | 9 | 
 | 2022-09-17 | 4 | 9 | 
@@ -23,24 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | 9 | 
 | 2022-09-09 | 4 | 9 | 
 | 2022-09-08 | 4 | 8 | 
-| 2022-09-07 | 4 | 8 | 
-| 2022-09-06 | 4 | 8 | 
-| 2022-09-05 | 3 | 8 | 
-| 2022-09-04 | 3 | 8 | 
-| 2022-09-03 | 3 | 8 | 
-| 2022-09-02 | 3 | 8 | 
-| 2022-08-31 | 3 | 8 | 
-| 2022-08-30 | 3 | 8 | 
-| 2022-08-29 | 3 | 7 | 
-| 2022-08-28 | 3 | 7 | 
-| 2022-08-27 | 3 | 7 | 
-| 2022-08-26 | 3 | 7 | 
-| 2022-08-25 | 3 | 7 | 
-| 2022-08-24 | 3 | 7 | 
-| 2022-08-23 | 2 | 7 | 
-| 2022-08-22 | 2 | 7 | 
-| 2022-08-21 | 2 | 7 | 
-| 2022-08-20 | 1 | 7 | 
 
 
 [Detailed charts & statistics for compiladores-lcc/compiladores2022](https://reviewgithub.com/rep/compiladores-lcc/compiladores2022)

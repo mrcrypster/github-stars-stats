@@ -1,12 +1,12 @@
-# WillMuijrers/will-wacky-website / stars & forks statistics
-
-[Open repository/WillMuijrers/will-wacky-website](https://github.com/WillMuijrers/will-wacky-website)
+# WillMuijrers/will-wacky-website - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 336
 
 ★ Stars: 1
+
+[Open repository](https://github.com/WillMuijrers/will-wacky-website)
 
 ## Historical data
 | Date | Stars | Forks |

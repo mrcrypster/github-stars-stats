@@ -1,12 +1,12 @@
-# SoniaSpindt/DrawColorfulPixelArt / stars & forks statistics
-
-[Open repository/SoniaSpindt/DrawColorfulPixelArt](https://github.com/SoniaSpindt/DrawColorfulPixelArt)
+# SoniaSpindt/DrawColorfulPixelArt - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 0
+
+[Open repository](https://github.com/SoniaSpindt/DrawColorfulPixelArt)
 
 ## Historical data
 | Date | Stars | Forks |

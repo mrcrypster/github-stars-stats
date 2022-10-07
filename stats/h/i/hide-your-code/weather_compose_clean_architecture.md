@@ -1,12 +1,12 @@
-# hide-your-code/weather_compose_clean_architecture / stars & forks statistics
-
-[Open repository/hide-your-code/weather_compose_clean_architecture](https://github.com/hide-your-code/weather_compose_clean_architecture)
+# hide-your-code/weather_compose_clean_architecture - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 26
+
+[Open repository](https://github.com/hide-your-code/weather_compose_clean_architecture)
 
 ## Historical data
 | Date | Stars | Forks |

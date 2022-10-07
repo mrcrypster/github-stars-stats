@@ -1,12 +1,12 @@
-# ngs/TextUtils.codaplugin / stars & forks statistics
-
-[Open repository/ngs/TextUtils.codaplugin](https://github.com/ngs/TextUtils.codaplugin)
+# ngs/TextUtils.codaplugin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ngs/TextUtils.codaplugin)
 
 ## Historical data
 | Date | Stars | Forks |

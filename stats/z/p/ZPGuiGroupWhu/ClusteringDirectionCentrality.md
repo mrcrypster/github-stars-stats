@@ -1,12 +1,12 @@
-# ZPGuiGroupWhu/ClusteringDirectionCentrality / stars & forks statistics
-
-[Open repository/ZPGuiGroupWhu/ClusteringDirectionCentrality](https://github.com/ZPGuiGroupWhu/ClusteringDirectionCentrality)
+# ZPGuiGroupWhu/ClusteringDirectionCentrality - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 28
+
+[Open repository](https://github.com/ZPGuiGroupWhu/ClusteringDirectionCentrality)
 
 ## Historical data
 | Date | Stars | Forks |

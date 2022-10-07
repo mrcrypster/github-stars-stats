@@ -1,12 +1,12 @@
-# code-423n4/2022-09-nouns-builder / stars & forks statistics
-
-[Open repository/code-423n4/2022-09-nouns-builder](https://github.com/code-423n4/2022-09-nouns-builder)
+# code-423n4/2022-09-nouns-builder - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 13
+
+[Open repository](https://github.com/code-423n4/2022-09-nouns-builder)
 
 ## Historical data
 | Date | Stars | Forks |

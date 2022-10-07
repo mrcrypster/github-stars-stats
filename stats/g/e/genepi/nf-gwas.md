@@ -1,16 +1,28 @@
-# genepi/nf-gwas / stars & forks statistics
-
-[Open repository/genepi/nf-gwas](https://github.com/genepi/nf-gwas)
+# genepi/nf-gwas - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
-★ Stars: 23
+★ Stars: 24
+
+[Open repository](https://github.com/genepi/nf-gwas)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 24 | 7 | 
+| 2022-10-06 | 24 | 7 | 
+| 2022-10-05 | 23 | 7 | 
+| 2022-10-04 | 23 | 7 | 
+| 2022-10-03 | 23 | 7 | 
+| 2022-10-02 | 23 | 7 | 
+| 2022-10-01 | 23 | 7 | 
+| 2022-09-30 | 23 | 7 | 
+| 2022-09-29 | 23 | 7 | 
+| 2022-09-28 | 23 | 7 | 
+| 2022-09-27 | 23 | 7 | 
+| 2022-09-26 | 23 | 7 | 
 | 2022-09-25 | 23 | 7 | 
 | 2022-09-24 | 23 | 7 | 
 | 2022-09-23 | 23 | 7 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 22 | 8 | 
 | 2022-09-08 | 22 | 8 | 
 | 2022-09-07 | 22 | 8 | 
-| 2022-09-06 | 22 | 8 | 
-| 2022-09-05 | 22 | 8 | 
-| 2022-09-04 | 22 | 8 | 
-| 2022-09-03 | 22 | 8 | 
-| 2022-09-02 | 22 | 8 | 
-| 2022-09-01 | 22 | 8 | 
-| 2022-08-31 | 22 | 8 | 
-| 2022-08-30 | 22 | 8 | 
-| 2022-08-29 | 22 | 8 | 
-| 2022-08-28 | 22 | 8 | 
-| 2022-08-27 | 22 | 8 | 
-| 2022-08-26 | 22 | 8 | 
 
 
 [Detailed charts & statistics for genepi/nf-gwas](https://reviewgithub.com/rep/genepi/nf-gwas)

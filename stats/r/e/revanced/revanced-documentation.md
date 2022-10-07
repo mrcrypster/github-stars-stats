@@ -1,16 +1,25 @@
-# revanced/revanced-documentation / stars & forks statistics
-
-[Open repository/revanced/revanced-documentation](https://github.com/revanced/revanced-documentation)
+# revanced/revanced-documentation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
-★ Stars: 365
+★ Stars: 367
+
+[Open repository](https://github.com/revanced/revanced-documentation)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 367 | 20 | 
+| 2022-10-06 | 367 | 20 | 
+| 2022-10-05 | 368 | 20 | 
+| 2022-10-04 | 367 | 20 | 
+| 2022-10-03 | 367 | 20 | 
+| 2022-10-02 | 365 | 20 | 
+| 2022-10-01 | 365 | 20 | 
+| 2022-09-30 | 365 | 20 | 
+| 2022-09-29 | 364 | 20 | 
 | 2022-09-28 | 365 | 20 | 
 | 2022-09-27 | 363 | 20 | 
 | 2022-09-26 | 362 | 20 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 334 | 16 | 
 | 2022-09-09 | 332 | 16 | 
 | 2022-09-08 | 331 | 16 | 
-| 2022-09-06 | 329 | 16 | 
-| 2022-09-05 | 327 | 16 | 
-| 2022-09-04 | 327 | 16 | 
-| 2022-09-03 | 326 | 16 | 
-| 2022-09-02 | 321 | 16 | 
-| 2022-09-01 | 320 | 16 | 
-| 2022-08-31 | 317 | 16 | 
-| 2022-08-30 | 312 | 16 | 
-| 2022-08-29 | 312 | 16 | 
 
 
 [Detailed charts & statistics for revanced/revanced-documentation](https://reviewgithub.com/rep/revanced/revanced-documentation)

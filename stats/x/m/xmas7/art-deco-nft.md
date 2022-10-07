@@ -1,6 +1,4 @@
-# xmas7/art-deco-nft / stars & forks statistics
-
-[Open repository/xmas7/art-deco-nft](https://github.com/xmas7/art-deco-nft)
+# xmas7/art-deco-nft - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/xmas7/art-deco-nft)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11 | - | 
+| 2022-10-05 | 11 | - | 
+| 2022-10-04 | 11 | - | 
+| 2022-10-03 | 11 | - | 
+| 2022-10-02 | 11 | - | 
 | 2022-10-01 | 11 | - | 
 | 2022-09-30 | 11 | - | 
 | 2022-09-29 | 11 | - | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11 | - | 
 | 2022-09-09 | 11 | - | 
 | 2022-09-08 | 11 | - | 
-| 2022-09-07 | 11 | - | 
-| 2022-09-06 | 11 | - | 
-| 2022-09-05 | 11 | - | 
-| 2022-09-04 | 11 | - | 
-| 2022-09-03 | 11 | - | 
-| 2022-09-02 | 11 | - | 
 
 
 [Detailed charts & statistics for xmas7/art-deco-nft](https://reviewgithub.com/rep/xmas7/art-deco-nft)

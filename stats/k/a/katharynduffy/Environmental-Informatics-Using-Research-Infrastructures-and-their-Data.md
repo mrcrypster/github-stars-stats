@@ -1,6 +1,4 @@
-# katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data / stars & forks statistics
-
-[Open repository/katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data](https://github.com/katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data)
+# katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 3 | 33 | 
 | 2022-10-05 | 3 | 33 | 
 | 2022-10-04 | 3 | 33 | 
 | 2022-10-03 | 3 | 33 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | 31 | 
 | 2022-09-09 | 3 | 31 | 
 | 2022-09-08 | 3 | 31 | 
-| 2022-09-07 | 3 | 27 | 
-| 2022-09-06 | 3 | 23 | 
 
 
 [Detailed charts & statistics for katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data](https://reviewgithub.com/rep/katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data)

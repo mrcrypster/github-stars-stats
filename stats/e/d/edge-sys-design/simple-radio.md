@@ -1,12 +1,12 @@
-# edge-sys-design/simple-radio / stars & forks statistics
-
-[Open repository/edge-sys-design/simple-radio](https://github.com/edge-sys-design/simple-radio)
+# edge-sys-design/simple-radio - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/edge-sys-design/simple-radio)
 
 ## Historical data
 | Date | Stars | Forks |

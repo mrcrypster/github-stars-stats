@@ -1,12 +1,12 @@
-# Zack-Dx/Twitter-Landing-Page / stars & forks statistics
-
-[Open repository/Zack-Dx/Twitter-Landing-Page](https://github.com/Zack-Dx/Twitter-Landing-Page)
+# Zack-Dx/Twitter-Landing-Page - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 28
+
+[Open repository](https://github.com/Zack-Dx/Twitter-Landing-Page)
 
 ## Historical data
 | Date | Stars | Forks |

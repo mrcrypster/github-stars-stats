@@ -1,12 +1,12 @@
-# BL-MSCH-C220-F22/Exercise-03a-Colors-and-Particles / stars & forks statistics
-
-[Open repository/BL-MSCH-C220-F22/Exercise-03a-Colors-and-Particles](https://github.com/BL-MSCH-C220-F22/Exercise-03a-Colors-and-Particles)
+# BL-MSCH-C220-F22/Exercise-03a-Colors-and-Particles - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 0
+
+[Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-03a-Colors-and-Particles)
 
 ## Historical data
 | Date | Stars | Forks |

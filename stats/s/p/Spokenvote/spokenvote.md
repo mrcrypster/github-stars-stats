@@ -1,12 +1,12 @@
-# Spokenvote/spokenvote / stars & forks statistics
-
-[Open repository/Spokenvote/spokenvote](https://github.com/Spokenvote/spokenvote)
+# Spokenvote/spokenvote - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 45
 
 ★ Stars: 42
+
+[Open repository](https://github.com/Spokenvote/spokenvote)
 
 ## Historical data
 | Date | Stars | Forks |

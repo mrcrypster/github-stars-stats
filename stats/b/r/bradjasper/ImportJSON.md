@@ -1,12 +1,12 @@
-# bradjasper/ImportJSON / stars & forks statistics
-
-[Open repository/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)
+# bradjasper/ImportJSON - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1013
 
 ★ Stars: 1894
+
+[Open repository](https://github.com/bradjasper/ImportJSON)
 
 ## Historical data
 | Date | Stars | Forks |

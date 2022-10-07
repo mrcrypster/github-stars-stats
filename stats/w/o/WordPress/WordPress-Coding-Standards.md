@@ -1,16 +1,29 @@
-# WordPress/WordPress-Coding-Standards / stars & forks statistics
-
-[Open repository/WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards)
+# WordPress/WordPress-Coding-Standards - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 415
+☋ Forks: 419
 
-★ Stars: 2173
+★ Stars: 2182
+
+[Open repository](https://github.com/WordPress/WordPress-Coding-Standards)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2182 | 419 | 
+| 2022-10-06 | 2181 | 418 | 
+| 2022-10-05 | 2181 | 417 | 
+| 2022-10-04 | 2178 | 417 | 
+| 2022-10-03 | 2177 | 416 | 
+| 2022-10-02 | 2177 | 416 | 
+| 2022-10-01 | 2177 | 416 | 
+| 2022-09-30 | 2177 | 416 | 
+| 2022-09-29 | 2177 | 416 | 
+| 2022-09-28 | 2177 | 416 | 
+| 2022-09-27 | 2175 | 416 | 
+| 2022-09-26 | 2174 | 415 | 
+| 2022-09-25 | 2173 | 415 | 
 | 2022-09-24 | 2173 | 415 | 
 | 2022-09-23 | 2173 | 415 | 
 | 2022-09-22 | 2173 | 415 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2167 | 412 | 
 | 2022-09-08 | 2167 | 412 | 
 | 2022-09-07 | 2167 | 412 | 
-| 2022-09-06 | 2166 | 412 | 
-| 2022-09-05 | 2166 | 412 | 
-| 2022-09-04 | 2164 | 412 | 
-| 2022-09-03 | 2164 | 411 | 
-| 2022-09-02 | 2162 | 411 | 
-| 2022-09-01 | 2160 | 409 | 
-| 2022-08-31 | 2160 | 409 | 
-| 2022-08-30 | 2159 | 409 | 
-| 2022-08-29 | 2159 | 409 | 
-| 2022-08-28 | 2159 | 409 | 
-| 2022-08-27 | 2159 | 409 | 
-| 2022-08-26 | 2159 | 409 | 
-| 2022-08-25 | 2160 | 410 | 
 
 
 [Detailed charts & statistics for WordPress/WordPress-Coding-Standards](https://reviewgithub.com/rep/WordPress/WordPress-Coding-Standards)

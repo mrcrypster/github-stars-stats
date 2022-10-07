@@ -1,6 +1,4 @@
-# kstephens/tinyclos / stars & forks statistics
-
-[Open repository/kstephens/tinyclos](https://github.com/kstephens/tinyclos)
+# kstephens/tinyclos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 44
 
+[Open repository](https://github.com/kstephens/tinyclos)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 44 | 7 | 
+| 2022-10-06 | 44 | 7 | 
+| 2022-10-05 | 44 | 7 | 
+| 2022-10-04 | 44 | 7 | 
+| 2022-10-03 | 44 | 7 | 
+| 2022-10-02 | 44 | 7 | 
+| 2022-10-01 | 44 | 7 | 
+| 2022-09-30 | 44 | 7 | 
+| 2022-09-29 | 44 | 7 | 
+| 2022-09-28 | 44 | 7 | 
+| 2022-09-27 | 44 | 7 | 
 | 2022-09-26 | 44 | 7 | 
 | 2022-09-25 | 44 | 7 | 
 | 2022-09-24 | 43 | 7 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 43 | 7 | 
 | 2022-09-08 | 43 | 7 | 
 | 2022-09-07 | 43 | 7 | 
-| 2022-09-06 | 43 | 7 | 
-| 2022-09-05 | 43 | 7 | 
-| 2022-09-04 | 43 | 7 | 
-| 2022-09-03 | 43 | 7 | 
-| 2022-09-02 | 43 | 7 | 
-| 2022-09-01 | 43 | 7 | 
-| 2022-08-31 | 43 | 7 | 
-| 2022-08-30 | 43 | 7 | 
-| 2022-08-29 | 43 | 7 | 
-| 2022-08-28 | 43 | 7 | 
-| 2022-08-27 | 43 | 7 | 
 
 
 [Detailed charts & statistics for kstephens/tinyclos](https://reviewgithub.com/rep/kstephens/tinyclos)

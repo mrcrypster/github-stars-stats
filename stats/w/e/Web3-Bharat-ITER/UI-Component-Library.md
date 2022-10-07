@@ -1,12 +1,12 @@
-# Web3-Bharat-ITER/UI-Component-Library / stars & forks statistics
-
-[Open repository/Web3-Bharat-ITER/UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
+# Web3-Bharat-ITER/UI-Component-Library - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 13
+
+[Open repository](https://github.com/Web3-Bharat-ITER/UI-Component-Library)
 
 ## Historical data
 | Date | Stars | Forks |

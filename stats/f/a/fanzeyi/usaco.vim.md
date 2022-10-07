@@ -1,12 +1,12 @@
-# fanzeyi/usaco.vim / stars & forks statistics
-
-[Open repository/fanzeyi/usaco.vim](https://github.com/fanzeyi/usaco.vim)
+# fanzeyi/usaco.vim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/fanzeyi/usaco.vim)
 
 ## Historical data
 | Date | Stars | Forks |

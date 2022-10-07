@@ -1,12 +1,12 @@
-# CallowBlack/genshin-cheat / stars & forks statistics
-
-[Open repository/CallowBlack/genshin-cheat](https://github.com/CallowBlack/genshin-cheat)
+# CallowBlack/genshin-cheat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/CallowBlack/genshin-cheat)
 
 ## Historical data
 | Date | Stars | Forks |

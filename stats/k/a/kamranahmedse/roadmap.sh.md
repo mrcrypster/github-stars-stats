@@ -1,16 +1,24 @@
-# kamranahmedse/roadmap.sh / stars & forks statistics
-
-[Open repository/kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
+# kamranahmedse/roadmap.sh - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 319
+☋ Forks: 324
 
-★ Stars: 1876
+★ Stars: 1897
+
+[Open repository](https://github.com/kamranahmedse/roadmap.sh)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1897 | 324 | 
+| 2022-10-06 | 1896 | 324 | 
+| 2022-10-05 | 1892 | 323 | 
+| 2022-10-04 | 1888 | 324 | 
+| 2022-10-03 | 1887 | 323 | 
+| 2022-10-02 | 1879 | 320 | 
+| 2022-10-01 | 1879 | 320 | 
+| 2022-09-30 | 1876 | 319 | 
 | 2022-09-29 | 1876 | 319 | 
 | 2022-09-28 | 1874 | 318 | 
 | 2022-09-27 | 1870 | 317 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1837 | 318 | 
 | 2022-09-09 | 1837 | 319 | 
 | 2022-09-08 | 1832 | 319 | 
-| 2022-09-07 | 1832 | 319 | 
-| 2022-09-06 | 1832 | 319 | 
-| 2022-09-05 | 1830 | 318 | 
-| 2022-09-04 | 1830 | 318 | 
-| 2022-09-03 | 1831 | 318 | 
-| 2022-09-02 | 1827 | 318 | 
-| 2022-09-01 | 1826 | 318 | 
-| 2022-08-31 | 1826 | 318 | 
 
 
 [Detailed charts & statistics for kamranahmedse/roadmap.sh](https://reviewgithub.com/rep/kamranahmedse/roadmap.sh)

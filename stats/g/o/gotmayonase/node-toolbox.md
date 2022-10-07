@@ -1,12 +1,12 @@
-# gotmayonase/node-toolbox / stars & forks statistics
-
-[Open repository/gotmayonase/node-toolbox](https://github.com/gotmayonase/node-toolbox)
+# gotmayonase/node-toolbox - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/gotmayonase/node-toolbox)
 
 ## Historical data
 | Date | Stars | Forks |

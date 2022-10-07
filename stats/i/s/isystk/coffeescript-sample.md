@@ -1,12 +1,12 @@
-# isystk/coffeescript-sample / stars & forks statistics
-
-[Open repository/isystk/coffeescript-sample](https://github.com/isystk/coffeescript-sample)
+# isystk/coffeescript-sample - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/isystk/coffeescript-sample)
 
 ## Historical data
 | Date | Stars | Forks |

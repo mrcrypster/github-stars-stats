@@ -1,12 +1,12 @@
-# OCamlPro/ocplib-endian / stars & forks statistics
-
-[Open repository/OCamlPro/ocplib-endian](https://github.com/OCamlPro/ocplib-endian)
+# OCamlPro/ocplib-endian - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 14
+
+[Open repository](https://github.com/OCamlPro/ocplib-endian)
 
 ## Historical data
 | Date | Stars | Forks |

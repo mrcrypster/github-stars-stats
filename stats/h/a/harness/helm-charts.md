@@ -1,12 +1,12 @@
-# harness/helm-charts / stars & forks statistics
-
-[Open repository/harness/helm-charts](https://github.com/harness/helm-charts)
+# harness/helm-charts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 5
+
+[Open repository](https://github.com/harness/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |

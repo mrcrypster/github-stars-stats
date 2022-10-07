@@ -1,12 +1,12 @@
-# Hairic95/Godot-WebSocket-Multiplayer-Template / stars & forks statistics
-
-[Open repository/Hairic95/Godot-WebSocket-Multiplayer-Template](https://github.com/Hairic95/Godot-WebSocket-Multiplayer-Template)
+# Hairic95/Godot-WebSocket-Multiplayer-Template - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 30
+
+[Open repository](https://github.com/Hairic95/Godot-WebSocket-Multiplayer-Template)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,27 @@
-# MLNLP-World/Paper-Picture-Writing-Code / stars & forks statistics
-
-[Open repository/MLNLP-World/Paper-Picture-Writing-Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
+# MLNLP-World/Paper-Picture-Writing-Code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
-★ Stars: 312
+★ Stars: 317
+
+[Open repository](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 317 | 28 | 
+| 2022-10-05 | 317 | 28 | 
+| 2022-10-04 | 317 | 28 | 
+| 2022-10-03 | 317 | 28 | 
+| 2022-10-02 | 314 | 28 | 
+| 2022-10-01 | 314 | 28 | 
+| 2022-09-30 | 314 | 28 | 
+| 2022-09-29 | 314 | 28 | 
+| 2022-09-28 | 314 | 28 | 
+| 2022-09-27 | 313 | 28 | 
+| 2022-09-26 | 313 | 28 | 
 | 2022-09-25 | 312 | 28 | 
 | 2022-09-24 | 311 | 27 | 
 | 2022-09-23 | 311 | 27 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 297 | 27 | 
 | 2022-09-08 | 295 | 27 | 
 | 2022-09-07 | 292 | 27 | 
-| 2022-09-06 | 289 | 27 | 
-| 2022-09-05 | 279 | 27 | 
-| 2022-09-04 | 271 | 27 | 
-| 2022-09-03 | 269 | 26 | 
-| 2022-09-02 | 262 | 26 | 
-| 2022-09-01 | 256 | 26 | 
-| 2022-08-31 | 248 | 26 | 
-| 2022-08-30 | 237 | 24 | 
-| 2022-08-29 | 153 | 9 | 
-| 2022-08-28 | 130 | 7 | 
-| 2022-08-27 | 118 | 5 | 
 
 
 [Detailed charts & statistics for MLNLP-World/Paper-Picture-Writing-Code](https://reviewgithub.com/rep/MLNLP-World/Paper-Picture-Writing-Code)

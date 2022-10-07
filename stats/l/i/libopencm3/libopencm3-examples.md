@@ -1,12 +1,12 @@
-# libopencm3/libopencm3-examples / stars & forks statistics
-
-[Open repository/libopencm3/libopencm3-examples](https://github.com/libopencm3/libopencm3-examples)
+# libopencm3/libopencm3-examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 309
 
 ★ Stars: 429
+
+[Open repository](https://github.com/libopencm3/libopencm3-examples)
 
 ## Historical data
 | Date | Stars | Forks |

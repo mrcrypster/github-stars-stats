@@ -1,12 +1,12 @@
-# rostar/rostar / stars & forks statistics
-
-[Open repository/rostar/rostar](https://github.com/rostar/rostar)
+# rostar/rostar - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/rostar/rostar)
 
 ## Historical data
 | Date | Stars | Forks |

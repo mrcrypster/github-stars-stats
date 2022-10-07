@@ -1,12 +1,12 @@
-# openziti/goroutine-analyzer / stars & forks statistics
-
-[Open repository/openziti/goroutine-analyzer](https://github.com/openziti/goroutine-analyzer)
+# openziti/goroutine-analyzer - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 119
+
+[Open repository](https://github.com/openziti/goroutine-analyzer)
 
 ## Historical data
 | Date | Stars | Forks |

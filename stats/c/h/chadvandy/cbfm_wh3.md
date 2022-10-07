@@ -1,6 +1,4 @@
-# chadvandy/cbfm_wh3 / stars & forks statistics
-
-[Open repository/chadvandy/cbfm_wh3](https://github.com/chadvandy/cbfm_wh3)
+# chadvandy/cbfm_wh3 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/chadvandy/cbfm_wh3)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11 | 15 | 
 | 2022-10-05 | 11 | 15 | 
 | 2022-10-04 | 11 | 15 | 
 | 2022-10-03 | 11 | 15 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 9 | 
 | 2022-09-09 | 10 | 9 | 
 | 2022-09-08 | 10 | 8 | 
-| 2022-09-07 | 10 | 8 | 
-| 2022-09-06 | 10 | 8 | 
 
 
 [Detailed charts & statistics for chadvandy/cbfm_wh3](https://reviewgithub.com/rep/chadvandy/cbfm_wh3)

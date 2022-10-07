@@ -1,12 +1,12 @@
-# lnishan/awesome-competitive-programming / stars & forks statistics
-
-[Open repository/lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+# lnishan/awesome-competitive-programming - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2429
 
 ★ Stars: 10313
+
+[Open repository](https://github.com/lnishan/awesome-competitive-programming)
 
 ## Historical data
 | Date | Stars | Forks |

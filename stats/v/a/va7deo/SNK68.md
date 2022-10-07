@@ -1,12 +1,12 @@
-# va7deo/SNK68 / stars & forks statistics
-
-[Open repository/va7deo/SNK68](https://github.com/va7deo/SNK68)
+# va7deo/SNK68 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
+
+[Open repository](https://github.com/va7deo/SNK68)
 
 ## Historical data
 | Date | Stars | Forks |

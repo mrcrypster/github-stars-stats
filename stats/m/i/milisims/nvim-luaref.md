@@ -1,6 +1,4 @@
-# milisims/nvim-luaref / stars & forks statistics
-
-[Open repository/milisims/nvim-luaref](https://github.com/milisims/nvim-luaref)
+# milisims/nvim-luaref - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 106
 
+[Open repository](https://github.com/milisims/nvim-luaref)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 106 | 3 | 
+| 2022-10-05 | 106 | 3 | 
+| 2022-10-04 | 106 | 3 | 
+| 2022-10-03 | 106 | 3 | 
+| 2022-10-02 | 106 | 3 | 
 | 2022-10-01 | 106 | 3 | 
 | 2022-09-30 | 105 | 3 | 
 | 2022-09-29 | 105 | 3 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 105 | 3 | 
 | 2022-09-09 | 105 | 3 | 
 | 2022-09-08 | 105 | 3 | 
-| 2022-09-07 | 105 | 3 | 
-| 2022-09-06 | 105 | 3 | 
-| 2022-09-05 | 105 | 3 | 
-| 2022-09-04 | 105 | 3 | 
-| 2022-09-03 | 105 | 3 | 
-| 2022-09-02 | 105 | 3 | 
 
 
 [Detailed charts & statistics for milisims/nvim-luaref](https://reviewgithub.com/rep/milisims/nvim-luaref)

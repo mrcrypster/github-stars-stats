@@ -1,12 +1,12 @@
-# luminosity-group/packager / stars & forks statistics
-
-[Open repository/luminosity-group/packager](https://github.com/luminosity-group/packager)
+# luminosity-group/packager - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/luminosity-group/packager)
 
 ## Historical data
 | Date | Stars | Forks |

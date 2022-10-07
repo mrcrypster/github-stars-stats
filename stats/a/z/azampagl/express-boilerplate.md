@@ -1,12 +1,12 @@
-# azampagl/express-boilerplate / stars & forks statistics
-
-[Open repository/azampagl/express-boilerplate](https://github.com/azampagl/express-boilerplate)
+# azampagl/express-boilerplate - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/azampagl/express-boilerplate)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,23 @@
-# QianMo/Real-Time-Rendering-4th-Bibliography-Collection / stars & forks statistics
-
-[Open repository/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
+# QianMo/Real-Time-Rendering-4th-Bibliography-Collection - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 862
+☋ Forks: 863
 
-★ Stars: 2657
+★ Stars: 2665
+
+[Open repository](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2665 | 863 | 
+| 2022-10-05 | 2665 | 863 | 
+| 2022-10-04 | 2664 | 863 | 
+| 2022-10-03 | 2663 | 863 | 
+| 2022-10-02 | 2661 | 863 | 
+| 2022-10-01 | 2660 | 863 | 
+| 2022-09-30 | 2658 | 863 | 
 | 2022-09-29 | 2657 | 862 | 
 | 2022-09-28 | 2654 | 862 | 
 | 2022-09-27 | 2654 | 860 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2634 | 853 | 
 | 2022-09-09 | 2633 | 852 | 
 | 2022-09-08 | 2632 | 852 | 
-| 2022-09-07 | 2632 | 852 | 
-| 2022-09-06 | 2631 | 850 | 
-| 2022-09-05 | 2629 | 850 | 
-| 2022-09-04 | 2628 | 850 | 
-| 2022-09-03 | 2627 | 850 | 
-| 2022-09-02 | 2627 | 849 | 
-| 2022-09-01 | 2625 | 849 | 
-| 2022-08-31 | 2624 | 848 | 
 
 
 [Detailed charts & statistics for QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://reviewgithub.com/rep/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)

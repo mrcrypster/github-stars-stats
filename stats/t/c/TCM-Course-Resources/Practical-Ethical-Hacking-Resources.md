@@ -1,16 +1,37 @@
-# TCM-Course-Resources/Practical-Ethical-Hacking-Resources / stars & forks statistics
-
-[Open repository/TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
+# TCM-Course-Resources/Practical-Ethical-Hacking-Resources - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1028
+☋ Forks: 1069
 
-★ Stars: 4294
+★ Stars: 4392
+
+[Open repository](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4392 | 1069 | 
+| 2022-10-05 | 4390 | 1066 | 
+| 2022-10-04 | 4388 | 1065 | 
+| 2022-10-03 | 4388 | 1063 | 
+| 2022-10-02 | 4387 | 1059 | 
+| 2022-10-01 | 4387 | 1059 | 
+| 2022-09-30 | 4385 | 1057 | 
+| 2022-09-29 | 4380 | 1056 | 
+| 2022-09-28 | 4378 | 1056 | 
+| 2022-09-27 | 4372 | 1054 | 
+| 2022-09-26 | 4370 | 1054 | 
+| 2022-09-25 | 4366 | 1053 | 
+| 2022-09-24 | 4359 | 1052 | 
+| 2022-09-23 | 4355 | 1051 | 
+| 2022-09-22 | 4342 | 1048 | 
+| 2022-09-21 | 4324 | 1040 | 
+| 2022-09-20 | 4320 | 1038 | 
+| 2022-09-19 | 4316 | 1036 | 
+| 2022-09-18 | 4310 | 1036 | 
+| 2022-09-17 | 4306 | 1036 | 
+| 2022-09-16 | 4301 | 1032 | 
 | 2022-09-14 | 4294 | 1028 | 
 | 2022-09-13 | 4290 | 1029 | 
 | 2022-09-12 | 4287 | 1028 | 
@@ -19,28 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 4276 | 1022 | 
 | 2022-09-08 | 4272 | 1022 | 
 | 2022-09-07 | 4264 | 1021 | 
-| 2022-09-06 | 4256 | 1021 | 
-| 2022-09-05 | 4249 | 1020 | 
-| 2022-09-04 | 4238 | 1020 | 
-| 2022-09-03 | 4237 | 1018 | 
-| 2022-09-02 | 4232 | 1018 | 
-| 2022-09-01 | 4228 | 1016 | 
-| 2022-08-31 | 4221 | 1016 | 
-| 2022-08-30 | 4214 | 1014 | 
-| 2022-08-29 | 4206 | 1012 | 
-| 2022-08-28 | 4199 | 1011 | 
-| 2022-08-27 | 4194 | 1011 | 
-| 2022-08-26 | 4183 | 1010 | 
-| 2022-08-25 | 4172 | 1010 | 
-| 2022-08-24 | 4160 | 1008 | 
-| 2022-08-23 | 4152 | 1004 | 
-| 2022-08-22 | 4110 | 999 | 
-| 2022-08-21 | 4099 | 998 | 
-| 2022-08-20 | 4079 | 994 | 
-| 2022-08-19 | 4008 | 985 | 
-| 2022-08-18 | 3925 | 977 | 
-| 2022-08-17 | 3905 | 972 | 
-| 2022-08-16 | 3853 | 963 | 
 
 
 [Detailed charts & statistics for TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://reviewgithub.com/rep/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)

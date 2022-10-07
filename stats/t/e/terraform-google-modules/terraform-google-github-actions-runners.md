@@ -1,46 +1,45 @@
-# terraform-google-modules/terraform-google-github-actions-runners / stars & forks statistics
-
-[Open repository/terraform-google-modules/terraform-google-github-actions-runners](https://github.com/terraform-google-modules/terraform-google-github-actions-runners)
+# terraform-google-modules/terraform-google-github-actions-runners - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 50
+☋ Forks: 58
 
-★ Stars: 86
+★ Stars: 99
+
+[Open repository](https://github.com/terraform-google-modules/terraform-google-github-actions-runners)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 86 | 50 | 
-| 2022-07-29 | 86 | 50 | 
-| 2022-07-28 | 85 | 50 | 
-| 2022-07-27 | 84 | 49 | 
-| 2022-07-26 | 83 | 49 | 
-| 2022-07-25 | 83 | 48 | 
-| 2022-07-24 | 83 | 48 | 
-| 2022-07-23 | 83 | 48 | 
-| 2022-07-22 | 82 | 48 | 
-| 2022-07-21 | 82 | 48 | 
-| 2022-07-20 | 82 | 47 | 
-| 2022-07-19 | 82 | 46 | 
-| 2022-07-18 | 82 | 46 | 
-| 2022-07-17 | 82 | 46 | 
-| 2022-07-16 | 82 | 46 | 
-| 2022-07-15 | 81 | 46 | 
-| 2022-07-14 | 81 | 46 | 
-| 2022-07-13 | 81 | 46 | 
-| 2022-07-12 | 81 | 46 | 
-| 2022-07-11 | 81 | 46 | 
-| 2022-07-10 | 81 | 46 | 
-| 2022-07-09 | 80 | 46 | 
-| 2022-07-08 | 80 | 46 | 
-| 2022-07-07 | 80 | 46 | 
-| 2022-07-06 | 80 | 46 | 
-| 2022-07-05 | 79 | 45 | 
-| 2022-07-04 | 79 | 45 | 
-| 2022-07-03 | 79 | 45 | 
-| 2022-07-02 | 79 | 45 | 
-| 2022-07-01 | 79 | 45 | 
+| 2022-10-06 | 99 | 58 | 
+| 2022-10-05 | 99 | 58 | 
+| 2022-10-04 | 98 | 58 | 
+| 2022-10-03 | 98 | 58 | 
+| 2022-10-02 | 98 | 57 | 
+| 2022-10-01 | 97 | 57 | 
+| 2022-09-30 | 97 | 57 | 
+| 2022-09-29 | 97 | 57 | 
+| 2022-09-28 | 97 | 57 | 
+| 2022-09-27 | 97 | 57 | 
+| 2022-09-26 | 97 | 56 | 
+| 2022-09-25 | 97 | 56 | 
+| 2022-09-24 | 97 | 56 | 
+| 2022-09-23 | 97 | 56 | 
+| 2022-09-22 | 97 | 56 | 
+| 2022-09-21 | 96 | 56 | 
+| 2022-09-20 | 96 | 54 | 
+| 2022-09-19 | 94 | 54 | 
+| 2022-09-18 | 94 | 54 | 
+| 2022-09-17 | 93 | 54 | 
+| 2022-09-16 | 93 | 54 | 
+| 2022-09-15 | 93 | 54 | 
+| 2022-09-14 | 92 | 54 | 
+| 2022-09-13 | 92 | 53 | 
+| 2022-09-12 | 92 | 53 | 
+| 2022-09-11 | 92 | 53 | 
+| 2022-09-10 | 92 | 53 | 
+| 2022-09-09 | 92 | 53 | 
+| 2022-09-08 | 91 | 53 | 
 
 
 [Detailed charts & statistics for terraform-google-modules/terraform-google-github-actions-runners](https://reviewgithub.com/rep/terraform-google-modules/terraform-google-github-actions-runners)

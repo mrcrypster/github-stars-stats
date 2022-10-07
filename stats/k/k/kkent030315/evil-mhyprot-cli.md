@@ -1,16 +1,26 @@
-# kkent030315/evil-mhyprot-cli / stars & forks statistics
-
-[Open repository/kkent030315/evil-mhyprot-cli](https://github.com/kkent030315/evil-mhyprot-cli)
+# kkent030315/evil-mhyprot-cli - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 53
+☋ Forks: 54
 
-★ Stars: 196
+★ Stars: 201
+
+[Open repository](https://github.com/kkent030315/evil-mhyprot-cli)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 201 | 54 | 
+| 2022-10-06 | 200 | 54 | 
+| 2022-10-05 | 199 | 54 | 
+| 2022-10-04 | 197 | 54 | 
+| 2022-10-03 | 197 | 54 | 
+| 2022-10-02 | 197 | 54 | 
+| 2022-10-01 | 197 | 54 | 
+| 2022-09-30 | 197 | 54 | 
+| 2022-09-29 | 197 | 54 | 
+| 2022-09-27 | 197 | 53 | 
 | 2022-09-26 | 196 | 53 | 
 | 2022-09-25 | 196 | 53 | 
 | 2022-09-24 | 196 | 53 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 184 | 51 | 
 | 2022-09-08 | 184 | 51 | 
 | 2022-09-07 | 184 | 51 | 
-| 2022-09-06 | 182 | 51 | 
-| 2022-09-05 | 181 | 51 | 
-| 2022-09-04 | 181 | 50 | 
-| 2022-09-03 | 181 | 49 | 
-| 2022-09-02 | 178 | 49 | 
-| 2022-09-01 | 174 | 49 | 
-| 2022-08-31 | 173 | 49 | 
-| 2022-08-30 | 170 | 49 | 
-| 2022-08-29 | 165 | 49 | 
-| 2022-08-28 | 159 | 47 | 
 
 
 [Detailed charts & statistics for kkent030315/evil-mhyprot-cli](https://reviewgithub.com/rep/kkent030315/evil-mhyprot-cli)

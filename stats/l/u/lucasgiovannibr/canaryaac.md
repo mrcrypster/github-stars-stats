@@ -1,12 +1,12 @@
-# lucasgiovannibr/canaryaac / stars & forks statistics
-
-[Open repository/lucasgiovannibr/canaryaac](https://github.com/lucasgiovannibr/canaryaac)
+# lucasgiovannibr/canaryaac - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 9
+
+[Open repository](https://github.com/lucasgiovannibr/canaryaac)
 
 ## Historical data
 | Date | Stars | Forks |

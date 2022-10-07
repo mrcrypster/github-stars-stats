@@ -1,12 +1,12 @@
-# nushio3/pkwiki / stars & forks statistics
-
-[Open repository/nushio3/pkwiki](https://github.com/nushio3/pkwiki)
+# nushio3/pkwiki - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/nushio3/pkwiki)
 
 ## Historical data
 | Date | Stars | Forks |

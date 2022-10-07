@@ -1,12 +1,12 @@
-# sczhou/Awesome-Face-Restoration / stars & forks statistics
-
-[Open repository/sczhou/Awesome-Face-Restoration](https://github.com/sczhou/Awesome-Face-Restoration)
+# sczhou/Awesome-Face-Restoration - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
+
+[Open repository](https://github.com/sczhou/Awesome-Face-Restoration)
 
 ## Historical data
 | Date | Stars | Forks |

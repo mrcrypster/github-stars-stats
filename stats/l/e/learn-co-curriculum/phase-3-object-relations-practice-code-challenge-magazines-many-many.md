@@ -1,46 +1,46 @@
-# learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many](https://github.com/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many)
+# learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 281
+☋ Forks: 296
 
-★ Stars: 1
+★ Stars: 0
+
+[Open repository](https://github.com/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-31 | 1 | 281 | 
-| 2022-07-30 | 1 | 281 | 
-| 2022-07-29 | 1 | 281 | 
-| 2022-07-27 | 1 | 281 | 
-| 2022-07-26 | 1 | 281 | 
-| 2022-07-25 | 1 | 281 | 
-| 2022-07-24 | 1 | 281 | 
-| 2022-07-23 | 1 | 281 | 
-| 2022-07-22 | 1 | 280 | 
-| 2022-07-21 | 1 | 280 | 
-| 2022-07-20 | 1 | 280 | 
-| 2022-07-19 | 1 | 280 | 
-| 2022-07-18 | 1 | 280 | 
-| 2022-07-17 | 1 | 280 | 
-| 2022-07-16 | 1 | 280 | 
-| 2022-07-15 | 1 | 280 | 
-| 2022-07-14 | 1 | 280 | 
-| 2022-07-13 | 1 | 280 | 
-| 2022-07-12 | 1 | 281 | 
-| 2022-07-11 | 1 | 281 | 
-| 2022-07-10 | 1 | 281 | 
-| 2022-07-09 | 1 | 281 | 
-| 2022-07-08 | 1 | 281 | 
-| 2022-07-07 | 1 | 276 | 
-| 2022-07-06 | 1 | 276 | 
-| 2022-07-05 | 1 | 276 | 
-| 2022-07-04 | 1 | 276 | 
-| 2022-07-03 | 1 | 276 | 
-| 2022-07-02 | 1 | 276 | 
-| 2022-07-01 | 1 | 276 | 
+| 2022-10-06 | - | 296 | 
+| 2022-10-05 | - | 296 | 
+| 2022-10-04 | - | 296 | 
+| 2022-10-03 | - | 296 | 
+| 2022-10-02 | - | 296 | 
+| 2022-10-01 | - | 296 | 
+| 2022-09-30 | - | 296 | 
+| 2022-09-29 | - | 296 | 
+| 2022-09-28 | - | 287 | 
+| 2022-09-27 | - | 287 | 
+| 2022-09-26 | - | 286 | 
+| 2022-09-25 | - | 286 | 
+| 2022-09-24 | - | 286 | 
+| 2022-09-23 | - | 286 | 
+| 2022-09-22 | - | 286 | 
+| 2022-09-21 | - | 286 | 
+| 2022-09-20 | - | 286 | 
+| 2022-09-19 | - | 286 | 
+| 2022-09-18 | - | 286 | 
+| 2022-09-17 | - | 286 | 
+| 2022-09-16 | - | 287 | 
+| 2022-09-15 | - | 287 | 
+| 2022-09-14 | - | 287 | 
+| 2022-09-13 | - | 287 | 
+| 2022-09-12 | - | 287 | 
+| 2022-09-11 | - | 287 | 
+| 2022-09-10 | - | 287 | 
+| 2022-09-09 | - | 287 | 
+| 2022-09-08 | - | 286 | 
+| 2022-09-07 | - | 286 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many)

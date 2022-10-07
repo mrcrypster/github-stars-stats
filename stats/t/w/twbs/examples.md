@@ -1,12 +1,12 @@
-# twbs/examples / stars & forks statistics
-
-[Open repository/twbs/examples](https://github.com/twbs/examples)
+# twbs/examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 68
+
+[Open repository](https://github.com/twbs/examples)
 
 ## Historical data
 | Date | Stars | Forks |

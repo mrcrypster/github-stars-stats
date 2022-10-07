@@ -1,12 +1,12 @@
-# moengage/MoEngage-iOS-SDK / stars & forks statistics
-
-[Open repository/moengage/MoEngage-iOS-SDK](https://github.com/moengage/MoEngage-iOS-SDK)
+# moengage/MoEngage-iOS-SDK - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 10
+
+[Open repository](https://github.com/moengage/MoEngage-iOS-SDK)
 
 ## Historical data
 | Date | Stars | Forks |

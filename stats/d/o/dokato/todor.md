@@ -1,16 +1,20 @@
-# dokato/todor / stars & forks statistics
-
-[Open repository/dokato/todor](https://github.com/dokato/todor)
+# dokato/todor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 203
+★ Stars: 204
+
+[Open repository](https://github.com/dokato/todor)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 204 | 11 | 
+| 2022-10-05 | 204 | 10 | 
+| 2022-10-04 | 203 | 10 | 
+| 2022-10-03 | 203 | 10 | 
 | 2022-10-02 | 203 | 10 | 
 | 2022-10-01 | 203 | 10 | 
 | 2022-09-30 | 203 | 10 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 198 | 10 | 
 | 2022-09-09 | 198 | 10 | 
 | 2022-09-08 | 197 | 9 | 
-| 2022-09-07 | 197 | 9 | 
-| 2022-09-06 | 196 | 9 | 
-| 2022-09-05 | 195 | 9 | 
-| 2022-09-04 | 195 | 9 | 
-| 2022-09-03 | 195 | 9 | 
 
 
 [Detailed charts & statistics for dokato/todor](https://reviewgithub.com/rep/dokato/todor)

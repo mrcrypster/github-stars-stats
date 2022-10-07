@@ -1,12 +1,12 @@
-# secdim/play-sdk / stars & forks statistics
-
-[Open repository/secdim/play-sdk](https://github.com/secdim/play-sdk)
+# secdim/play-sdk - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 6
+
+[Open repository](https://github.com/secdim/play-sdk)
 
 ## Historical data
 | Date | Stars | Forks |

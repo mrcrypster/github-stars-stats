@@ -1,16 +1,29 @@
-# digitalinnovationone/semana-frontend-mundo-invertido / stars & forks statistics
-
-[Open repository/digitalinnovationone/semana-frontend-mundo-invertido](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido)
+# digitalinnovationone/semana-frontend-mundo-invertido - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 217
+☋ Forks: 214
 
 ★ Stars: 275
+
+[Open repository](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 275 | 214 | 
+| 2022-10-06 | 275 | 215 | 
+| 2022-10-05 | 275 | 216 | 
+| 2022-10-04 | 275 | 216 | 
+| 2022-10-03 | 275 | 216 | 
+| 2022-10-02 | 275 | 216 | 
+| 2022-10-01 | 276 | 217 | 
+| 2022-09-30 | 275 | 217 | 
+| 2022-09-29 | 275 | 218 | 
+| 2022-09-28 | 276 | 218 | 
+| 2022-09-27 | 277 | 219 | 
+| 2022-09-26 | 277 | 217 | 
+| 2022-09-25 | 277 | 218 | 
 | 2022-09-24 | 275 | 217 | 
 | 2022-09-23 | 275 | 217 | 
 | 2022-09-22 | 275 | 214 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 272 | 215 | 
 | 2022-09-08 | 272 | 214 | 
 | 2022-09-07 | 272 | 215 | 
-| 2022-09-06 | 269 | 215 | 
-| 2022-09-05 | 267 | 213 | 
-| 2022-09-04 | 265 | 212 | 
-| 2022-09-03 | 264 | 212 | 
-| 2022-09-02 | 263 | 211 | 
-| 2022-09-01 | 263 | 211 | 
-| 2022-08-31 | 261 | 210 | 
-| 2022-08-30 | 261 | 203 | 
-| 2022-08-29 | 255 | 197 | 
-| 2022-08-28 | 250 | 193 | 
-| 2022-08-27 | 246 | 191 | 
-| 2022-08-26 | 229 | 172 | 
-| 2022-08-25 | 196 | 148 | 
 
 
 [Detailed charts & statistics for digitalinnovationone/semana-frontend-mundo-invertido](https://reviewgithub.com/rep/digitalinnovationone/semana-frontend-mundo-invertido)

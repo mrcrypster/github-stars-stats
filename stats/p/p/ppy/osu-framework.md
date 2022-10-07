@@ -1,16 +1,27 @@
-# ppy/osu-framework / stars & forks statistics
-
-[Open repository/ppy/osu-framework](https://github.com/ppy/osu-framework)
+# ppy/osu-framework - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 338
+☋ Forks: 341
 
-★ Stars: 1186
+★ Stars: 1196
+
+[Open repository](https://github.com/ppy/osu-framework)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1196 | 341 | 
+| 2022-10-06 | 1194 | 341 | 
+| 2022-10-05 | 1194 | 341 | 
+| 2022-10-04 | 1194 | 339 | 
+| 2022-10-03 | 1193 | 339 | 
+| 2022-10-02 | 1191 | 339 | 
+| 2022-10-01 | 1191 | 339 | 
+| 2022-09-30 | 1190 | 339 | 
+| 2022-09-29 | 1188 | 339 | 
+| 2022-09-28 | 1188 | 339 | 
+| 2022-09-27 | 1187 | 338 | 
 | 2022-09-26 | 1186 | 338 | 
 | 2022-09-25 | 1186 | 338 | 
 | 2022-09-24 | 1184 | 338 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1175 | 334 | 
 | 2022-09-08 | 1173 | 334 | 
 | 2022-09-07 | 1172 | 332 | 
-| 2022-09-06 | 1172 | 332 | 
-| 2022-09-05 | 1172 | 332 | 
-| 2022-09-04 | 1170 | 332 | 
-| 2022-09-03 | 1168 | 332 | 
-| 2022-09-02 | 1164 | 331 | 
-| 2022-09-01 | 1163 | 331 | 
-| 2022-08-31 | 1160 | 331 | 
-| 2022-08-30 | 1158 | 330 | 
-| 2022-08-29 | 1157 | 330 | 
-| 2022-08-28 | 1157 | 330 | 
-| 2022-08-27 | 1156 | 330 | 
 
 
 [Detailed charts & statistics for ppy/osu-framework](https://reviewgithub.com/rep/ppy/osu-framework)

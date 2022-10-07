@@ -1,6 +1,4 @@
-# spotinst/terraform-spotinst-ocean-controller / stars & forks statistics
-
-[Open repository/spotinst/terraform-spotinst-ocean-controller](https://github.com/spotinst/terraform-spotinst-ocean-controller)
+# spotinst/terraform-spotinst-ocean-controller - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 10
 
+[Open repository](https://github.com/spotinst/terraform-spotinst-ocean-controller)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 10 | 10 | 
+| 2022-10-05 | 10 | 10 | 
+| 2022-10-04 | 10 | 10 | 
+| 2022-10-03 | 10 | 10 | 
+| 2022-10-02 | 10 | 10 | 
+| 2022-10-01 | 10 | 10 | 
+| 2022-09-30 | 10 | 10 | 
 | 2022-09-29 | 10 | 10 | 
 | 2022-09-28 | 10 | 10 | 
 | 2022-09-27 | 10 | 9 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 9 | 
 | 2022-09-09 | 10 | 9 | 
 | 2022-09-08 | 10 | 9 | 
-| 2022-09-07 | 10 | 9 | 
-| 2022-09-06 | 10 | 9 | 
-| 2022-09-05 | 10 | 9 | 
-| 2022-09-04 | 10 | 9 | 
-| 2022-09-03 | 10 | 9 | 
-| 2022-09-02 | 10 | 9 | 
-| 2022-09-01 | 10 | 9 | 
-| 2022-08-31 | 10 | 9 | 
 
 
 [Detailed charts & statistics for spotinst/terraform-spotinst-ocean-controller](https://reviewgithub.com/rep/spotinst/terraform-spotinst-ocean-controller)

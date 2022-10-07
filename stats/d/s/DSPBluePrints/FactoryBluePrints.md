@@ -1,12 +1,12 @@
-# DSPBluePrints/FactoryBluePrints / stars & forks statistics
-
-[Open repository/DSPBluePrints/FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints)
+# DSPBluePrints/FactoryBluePrints - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 61
+
+[Open repository](https://github.com/DSPBluePrints/FactoryBluePrints)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# kubkon/zcoff / stars & forks statistics
-
-[Open repository/kubkon/zcoff](https://github.com/kubkon/zcoff)
+# kubkon/zcoff - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 18
 
+[Open repository](https://github.com/kubkon/zcoff)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 18 | - | 
+| 2022-10-05 | 18 | - | 
+| 2022-10-04 | 18 | - | 
+| 2022-10-03 | 18 | - | 
+| 2022-10-02 | 18 | - | 
+| 2022-10-01 | 18 | - | 
+| 2022-09-30 | 18 | - | 
+| 2022-09-29 | 18 | - | 
+| 2022-09-28 | 18 | - | 
+| 2022-09-27 | 18 | - | 
+| 2022-09-26 | 18 | - | 
+| 2022-09-25 | 18 | - | 
 | 2022-09-24 | 18 | - | 
 | 2022-09-23 | 18 | - | 
 | 2022-09-22 | 18 | - | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 18 | - | 
 | 2022-09-09 | 18 | - | 
 | 2022-09-08 | 18 | - | 
-| 2022-09-07 | 18 | - | 
-| 2022-09-06 | 18 | - | 
-| 2022-09-05 | 18 | - | 
-| 2022-09-04 | 18 | - | 
-| 2022-09-03 | 18 | - | 
-| 2022-09-02 | 18 | - | 
-| 2022-09-01 | 16 | - | 
-| 2022-08-31 | 12 | - | 
-| 2022-08-30 | 10 | - | 
-| 2022-08-29 | 10 | - | 
-| 2022-08-28 | 10 | - | 
-| 2022-08-27 | 10 | - | 
-| 2022-08-26 | 10 | - | 
 
 
 [Detailed charts & statistics for kubkon/zcoff](https://reviewgithub.com/rep/kubkon/zcoff)

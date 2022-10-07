@@ -1,12 +1,12 @@
-# FractonProtocol/FractonV1 / stars & forks statistics
-
-[Open repository/FractonProtocol/FractonV1](https://github.com/FractonProtocol/FractonV1)
+# FractonProtocol/FractonV1 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 204
+
+[Open repository](https://github.com/FractonProtocol/FractonV1)
 
 ## Historical data
 | Date | Stars | Forks |

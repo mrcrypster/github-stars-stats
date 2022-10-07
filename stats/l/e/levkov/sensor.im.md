@@ -1,12 +1,12 @@
-# levkov/sensor.im / stars & forks statistics
-
-[Open repository/levkov/sensor.im](https://github.com/levkov/sensor.im)
+# levkov/sensor.im - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 5
+
+[Open repository](https://github.com/levkov/sensor.im)
 
 ## Historical data
 | Date | Stars | Forks |

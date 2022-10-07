@@ -1,12 +1,12 @@
-# SurfVaporizer/xPerf / stars & forks statistics
-
-[Open repository/SurfVaporizer/xPerf](https://github.com/SurfVaporizer/xPerf)
+# SurfVaporizer/xPerf - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/SurfVaporizer/xPerf)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# sdretu/Shruthi-1-Editor / stars & forks statistics
-
-[Open repository/sdretu/Shruthi-1-Editor](https://github.com/sdretu/Shruthi-1-Editor)
+# sdretu/Shruthi-1-Editor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 8
 
+[Open repository](https://github.com/sdretu/Shruthi-1-Editor)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8 | 1 | 
+| 2022-10-06 | 8 | 1 | 
+| 2022-10-05 | 8 | 1 | 
+| 2022-10-04 | 8 | 1 | 
+| 2022-10-03 | 8 | 1 | 
+| 2022-10-02 | 8 | 1 | 
+| 2022-10-01 | 8 | 1 | 
+| 2022-09-30 | 8 | 1 | 
+| 2022-09-29 | 8 | 1 | 
+| 2022-09-28 | 8 | 1 | 
+| 2022-09-27 | 8 | 1 | 
+| 2022-09-26 | 8 | 1 | 
+| 2022-09-25 | 8 | 1 | 
+| 2022-09-24 | 8 | 1 | 
 | 2022-09-23 | 8 | 1 | 
 | 2022-09-22 | 8 | 1 | 
 | 2022-09-21 | 8 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 8 | 1 | 
 | 2022-09-08 | 8 | 1 | 
 | 2022-09-07 | 8 | 1 | 
-| 2022-09-06 | 8 | 1 | 
-| 2022-09-05 | 8 | 1 | 
-| 2022-09-04 | 8 | 1 | 
-| 2022-09-03 | 8 | 1 | 
-| 2022-09-02 | 8 | 1 | 
-| 2022-09-01 | 8 | 1 | 
-| 2022-08-31 | 8 | 1 | 
-| 2022-08-30 | 8 | 1 | 
-| 2022-08-29 | 8 | 1 | 
-| 2022-08-28 | 8 | 1 | 
-| 2022-08-27 | 8 | 1 | 
-| 2022-08-26 | 8 | 1 | 
-| 2022-08-25 | 8 | 1 | 
-| 2022-08-24 | 8 | 1 | 
 
 
 [Detailed charts & statistics for sdretu/Shruthi-1-Editor](https://reviewgithub.com/rep/sdretu/Shruthi-1-Editor)

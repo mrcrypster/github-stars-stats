@@ -1,6 +1,4 @@
-# LexirIO/lexir-io-challenge / stars & forks statistics
-
-[Open repository/LexirIO/lexir-io-challenge](https://github.com/LexirIO/lexir-io-challenge)
+# LexirIO/lexir-io-challenge - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/LexirIO/lexir-io-challenge)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | 52 | 
+| 2022-10-05 | 2 | 52 | 
+| 2022-10-04 | 2 | 52 | 
+| 2022-10-03 | 2 | 52 | 
+| 2022-10-02 | 2 | 52 | 
+| 2022-10-01 | 2 | 52 | 
+| 2022-09-30 | 2 | 52 | 
 | 2022-09-29 | 2 | 52 | 
 | 2022-09-28 | 2 | 52 | 
 | 2022-09-27 | 2 | 53 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 57 | 
 | 2022-09-09 | 1 | 57 | 
 | 2022-09-08 | 1 | 58 | 
-| 2022-09-07 | 1 | 58 | 
-| 2022-09-06 | 1 | 58 | 
-| 2022-09-05 | 1 | 54 | 
-| 2022-09-04 | 1 | 52 | 
-| 2022-09-03 | 1 | 50 | 
-| 2022-09-02 | 1 | 24 | 
-| 2022-09-01 | 1 | 21 | 
-| 2022-08-31 | 1 | 21 | 
 
 
 [Detailed charts & statistics for LexirIO/lexir-io-challenge](https://reviewgithub.com/rep/LexirIO/lexir-io-challenge)

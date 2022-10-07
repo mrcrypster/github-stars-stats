@@ -1,12 +1,12 @@
-# XDC-Community/docs / stars & forks statistics
-
-[Open repository/XDC-Community/docs](https://github.com/XDC-Community/docs)
+# XDC-Community/docs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 4
+
+[Open repository](https://github.com/XDC-Community/docs)
 
 ## Historical data
 | Date | Stars | Forks |

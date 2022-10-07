@@ -1,12 +1,12 @@
-# mathworks/bloombergHypermedia / stars & forks statistics
-
-[Open repository/mathworks/bloombergHypermedia](https://github.com/mathworks/bloombergHypermedia)
+# mathworks/bloombergHypermedia - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/mathworks/bloombergHypermedia)
 
 ## Historical data
 | Date | Stars | Forks |

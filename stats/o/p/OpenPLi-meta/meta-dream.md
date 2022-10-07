@@ -1,12 +1,12 @@
-# OpenPLi-meta/meta-dream / stars & forks statistics
-
-[Open repository/OpenPLi-meta/meta-dream](https://github.com/OpenPLi-meta/meta-dream)
+# OpenPLi-meta/meta-dream - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/OpenPLi-meta/meta-dream)
 
 ## Historical data
 | Date | Stars | Forks |

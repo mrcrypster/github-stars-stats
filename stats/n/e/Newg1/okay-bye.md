@@ -1,6 +1,4 @@
-# Newg1/okay-bye / stars & forks statistics
-
-[Open repository/Newg1/okay-bye](https://github.com/Newg1/okay-bye)
+# Newg1/okay-bye - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/Newg1/okay-bye)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 6 | 
+| 2022-10-05 | - | 6 | 
+| 2022-10-04 | - | 6 | 
+| 2022-10-03 | - | 6 | 
+| 2022-10-02 | - | 6 | 
+| 2022-10-01 | - | 6 | 
+| 2022-09-30 | - | 6 | 
+| 2022-09-29 | - | 6 | 
+| 2022-09-28 | - | 6 | 
+| 2022-09-27 | - | 6 | 
 | 2022-09-26 | - | 6 | 
 | 2022-09-25 | - | 6 | 
 | 2022-09-24 | - | 6 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 6 | 
 | 2022-09-09 | - | 6 | 
 | 2022-09-08 | - | 6 | 
-| 2022-09-07 | - | 6 | 
-| 2022-09-06 | - | 6 | 
-| 2022-09-05 | - | 6 | 
-| 2022-09-04 | - | 6 | 
-| 2022-09-03 | - | 6 | 
-| 2022-09-02 | - | 6 | 
-| 2022-09-01 | - | 6 | 
-| 2022-08-31 | - | 6 | 
-| 2022-08-30 | - | 6 | 
-| 2022-08-29 | - | 6 | 
-| 2022-08-28 | - | 6 | 
 
 
 [Detailed charts & statistics for Newg1/okay-bye](https://reviewgithub.com/rep/Newg1/okay-bye)

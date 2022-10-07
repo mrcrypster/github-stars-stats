@@ -1,6 +1,4 @@
-# OneCloudService/MicrosoftAzureRDP / stars & forks statistics
-
-[Open repository/OneCloudService/MicrosoftAzureRDP](https://github.com/OneCloudService/MicrosoftAzureRDP)
+# OneCloudService/MicrosoftAzureRDP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,19 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/OneCloudService/MicrosoftAzureRDP)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 9 | 
+| 2022-10-05 | 1 | 9 | 
+| 2022-10-04 | 1 | 9 | 
+| 2022-10-03 | 1 | 9 | 
+| 2022-10-02 | 1 | 9 | 
+| 2022-10-01 | 1 | 9 | 
+| 2022-09-30 | 1 | 9 | 
+| 2022-09-29 | 1 | 9 | 
 | 2022-09-28 | 1 | 9 | 
 | 2022-09-27 | 1 | 9 | 
 | 2022-09-26 | 1 | 9 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 8 | 
 | 2022-09-09 | 1 | 8 | 
 | 2022-09-08 | 1 | 8 | 
-| 2022-09-07 | 1 | 8 | 
-| 2022-09-06 | 1 | 8 | 
-| 2022-09-05 | 1 | 8 | 
-| 2022-09-04 | 1 | 8 | 
-| 2022-09-03 | - | 7 | 
-| 2022-09-02 | - | 7 | 
-| 2022-09-01 | - | 7 | 
-| 2022-08-31 | - | 7 | 
-| 2022-08-30 | - | 7 | 
 
 
 [Detailed charts & statistics for OneCloudService/MicrosoftAzureRDP](https://reviewgithub.com/rep/OneCloudService/MicrosoftAzureRDP)

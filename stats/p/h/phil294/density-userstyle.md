@@ -1,16 +1,24 @@
-# phil294/density-userstyle / stars & forks statistics
-
-[Open repository/phil294/density-userstyle](https://github.com/phil294/density-userstyle)
+# phil294/density-userstyle - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 49
+★ Stars: 50
+
+[Open repository](https://github.com/phil294/density-userstyle)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 50 | 4 | 
+| 2022-10-05 | 50 | 4 | 
+| 2022-10-04 | 49 | 4 | 
+| 2022-10-03 | 49 | 4 | 
+| 2022-10-02 | 49 | 4 | 
+| 2022-10-01 | 49 | 4 | 
+| 2022-09-30 | 49 | 4 | 
+| 2022-09-29 | 49 | 4 | 
 | 2022-09-28 | 49 | 4 | 
 | 2022-09-27 | 49 | 4 | 
 | 2022-09-26 | 49 | 4 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 48 | 3 | 
 | 2022-09-09 | 48 | 3 | 
 | 2022-09-08 | 48 | 3 | 
-| 2022-09-07 | 48 | 3 | 
-| 2022-09-06 | 47 | 3 | 
-| 2022-09-05 | 47 | 3 | 
-| 2022-09-04 | 47 | 3 | 
-| 2022-09-03 | 47 | 3 | 
-| 2022-09-02 | 47 | 3 | 
-| 2022-09-01 | 47 | 3 | 
-| 2022-08-31 | 46 | 3 | 
-| 2022-08-30 | 45 | 3 | 
 
 
 [Detailed charts & statistics for phil294/density-userstyle](https://reviewgithub.com/rep/phil294/density-userstyle)

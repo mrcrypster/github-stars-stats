@@ -1,6 +1,4 @@
-# LearnDelphiorg/BootCamp2022 / stars & forks statistics
-
-[Open repository/LearnDelphiorg/BootCamp2022](https://github.com/LearnDelphiorg/BootCamp2022)
+# LearnDelphiorg/BootCamp2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 16
 
+[Open repository](https://github.com/LearnDelphiorg/BootCamp2022)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 16 | 2 | 
+| 2022-10-06 | 16 | 2 | 
+| 2022-10-05 | 16 | 2 | 
+| 2022-10-04 | 16 | 2 | 
+| 2022-10-03 | 16 | 2 | 
+| 2022-10-02 | 16 | 2 | 
+| 2022-10-01 | 16 | 2 | 
+| 2022-09-30 | 16 | 2 | 
+| 2022-09-29 | 16 | 2 | 
+| 2022-09-28 | 16 | 2 | 
+| 2022-09-27 | 16 | 2 | 
+| 2022-09-26 | 16 | 2 | 
 | 2022-09-25 | 16 | 2 | 
 | 2022-09-24 | 16 | 2 | 
 | 2022-09-23 | 16 | 2 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 14 | 2 | 
 | 2022-09-08 | 14 | 2 | 
 | 2022-09-07 | 14 | 2 | 
-| 2022-09-06 | 14 | 2 | 
-| 2022-09-05 | 14 | 2 | 
-| 2022-09-04 | 14 | 2 | 
-| 2022-09-03 | 14 | 2 | 
-| 2022-09-02 | 14 | 2 | 
-| 2022-09-01 | 14 | 2 | 
-| 2022-08-31 | 13 | 2 | 
-| 2022-08-30 | 13 | 2 | 
-| 2022-08-29 | 12 | 2 | 
-| 2022-08-28 | 11 | - | 
-| 2022-08-27 | 11 | - | 
-| 2022-08-26 | 11 | - | 
 
 
 [Detailed charts & statistics for LearnDelphiorg/BootCamp2022](https://reviewgithub.com/rep/LearnDelphiorg/BootCamp2022)

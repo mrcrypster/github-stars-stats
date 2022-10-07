@@ -1,12 +1,12 @@
-# verypossible/very_laser / stars & forks statistics
-
-[Open repository/verypossible/very_laser](https://github.com/verypossible/very_laser)
+# verypossible/very_laser - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/verypossible/very_laser)
 
 ## Historical data
 | Date | Stars | Forks |

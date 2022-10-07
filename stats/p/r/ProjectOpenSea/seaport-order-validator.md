@@ -1,16 +1,34 @@
-# ProjectOpenSea/seaport-order-validator / stars & forks statistics
-
-[Open repository/ProjectOpenSea/seaport-order-validator](https://github.com/ProjectOpenSea/seaport-order-validator)
+# ProjectOpenSea/seaport-order-validator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 36
+
+[Open repository](https://github.com/ProjectOpenSea/seaport-order-validator)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 36 | - | 
+| 2022-10-06 | 36 | - | 
+| 2022-10-05 | 36 | - | 
+| 2022-10-04 | 36 | - | 
+| 2022-10-03 | 35 | - | 
+| 2022-10-02 | 35 | - | 
+| 2022-10-01 | 35 | - | 
+| 2022-09-30 | 35 | - | 
+| 2022-09-29 | 35 | - | 
+| 2022-09-28 | 34 | - | 
+| 2022-09-27 | 34 | - | 
+| 2022-09-26 | 34 | - | 
+| 2022-09-25 | 34 | - | 
+| 2022-09-24 | 34 | - | 
+| 2022-09-23 | 34 | - | 
+| 2022-09-22 | 34 | - | 
+| 2022-09-21 | 34 | - | 
+| 2022-09-20 | 33 | - | 
 | 2022-09-19 | 33 | - | 
 | 2022-09-18 | 33 | - | 
 | 2022-09-17 | 33 | - | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 33 | - | 
 | 2022-09-08 | 33 | - | 
 | 2022-09-07 | 33 | - | 
-| 2022-09-06 | 33 | - | 
-| 2022-09-05 | 33 | - | 
-| 2022-09-04 | 33 | - | 
-| 2022-09-03 | 33 | - | 
-| 2022-09-02 | 33 | - | 
-| 2022-09-01 | 32 | - | 
-| 2022-08-31 | 30 | - | 
-| 2022-08-30 | 28 | - | 
-| 2022-08-29 | 28 | - | 
-| 2022-08-28 | 27 | - | 
-| 2022-08-27 | 26 | - | 
-| 2022-08-26 | 26 | - | 
-| 2022-08-25 | 26 | - | 
-| 2022-08-24 | 26 | - | 
-| 2022-08-23 | 26 | - | 
-| 2022-08-22 | 25 | - | 
-| 2022-08-21 | 22 | - | 
-| 2022-08-20 | 22 | - | 
 
 
 [Detailed charts & statistics for ProjectOpenSea/seaport-order-validator](https://reviewgithub.com/rep/ProjectOpenSea/seaport-order-validator)

@@ -1,12 +1,12 @@
-# AmorimEmanuell/10seconds / stars & forks statistics
-
-[Open repository/AmorimEmanuell/10seconds](https://github.com/AmorimEmanuell/10seconds)
+# AmorimEmanuell/10seconds - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/AmorimEmanuell/10seconds)
 
 ## Historical data
 | Date | Stars | Forks |

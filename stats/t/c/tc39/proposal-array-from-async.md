@@ -1,12 +1,12 @@
-# tc39/proposal-array-from-async / stars & forks statistics
-
-[Open repository/tc39/proposal-array-from-async](https://github.com/tc39/proposal-array-from-async)
+# tc39/proposal-array-from-async - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 102
+
+[Open repository](https://github.com/tc39/proposal-array-from-async)
 
 ## Historical data
 | Date | Stars | Forks |

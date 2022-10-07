@@ -1,16 +1,30 @@
-# balajidharma/laravel-vue-admin-panel / stars & forks statistics
-
-[Open repository/balajidharma/laravel-vue-admin-panel](https://github.com/balajidharma/laravel-vue-admin-panel)
+# balajidharma/laravel-vue-admin-panel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 14
+☋ Forks: 18
 
-★ Stars: 62
+★ Stars: 66
+
+[Open repository](https://github.com/balajidharma/laravel-vue-admin-panel)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 66 | 18 | 
+| 2022-10-06 | 65 | 18 | 
+| 2022-10-05 | 64 | 18 | 
+| 2022-10-04 | 63 | 17 | 
+| 2022-10-03 | 63 | 17 | 
+| 2022-10-02 | 63 | 16 | 
+| 2022-10-01 | 63 | 16 | 
+| 2022-09-30 | 63 | 16 | 
+| 2022-09-29 | 63 | 16 | 
+| 2022-09-28 | 62 | 16 | 
+| 2022-09-27 | 62 | 16 | 
+| 2022-09-26 | 62 | 16 | 
+| 2022-09-25 | 62 | 16 | 
+| 2022-09-24 | 62 | 15 | 
 | 2022-09-23 | 62 | 14 | 
 | 2022-09-22 | 61 | 14 | 
 | 2022-09-20 | 58 | 14 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 54 | 14 | 
 | 2022-09-08 | 54 | 13 | 
 | 2022-09-07 | 53 | 12 | 
-| 2022-09-06 | 52 | 12 | 
-| 2022-09-05 | 52 | 11 | 
-| 2022-09-04 | 52 | 11 | 
-| 2022-09-03 | 51 | 11 | 
-| 2022-09-02 | 51 | 11 | 
-| 2022-09-01 | 51 | 11 | 
-| 2022-08-31 | 50 | 11 | 
-| 2022-08-30 | 49 | 11 | 
-| 2022-08-29 | 48 | 11 | 
-| 2022-08-28 | 44 | 11 | 
-| 2022-08-27 | 43 | 10 | 
-| 2022-08-26 | 41 | 9 | 
-| 2022-08-25 | 38 | 9 | 
-| 2022-08-24 | 38 | 9 | 
 
 
 [Detailed charts & statistics for balajidharma/laravel-vue-admin-panel](https://reviewgithub.com/rep/balajidharma/laravel-vue-admin-panel)

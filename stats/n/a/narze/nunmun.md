@@ -1,12 +1,12 @@
-# narze/nunmun / stars & forks statistics
-
-[Open repository/narze/nunmun](https://github.com/narze/nunmun)
+# narze/nunmun - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 2
+
+[Open repository](https://github.com/narze/nunmun)
 
 ## Historical data
 | Date | Stars | Forks |

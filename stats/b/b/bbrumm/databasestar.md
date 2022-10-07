@@ -1,12 +1,12 @@
-# bbrumm/databasestar / stars & forks statistics
-
-[Open repository/bbrumm/databasestar](https://github.com/bbrumm/databasestar)
+# bbrumm/databasestar - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 11
+
+[Open repository](https://github.com/bbrumm/databasestar)
 
 ## Historical data
 | Date | Stars | Forks |

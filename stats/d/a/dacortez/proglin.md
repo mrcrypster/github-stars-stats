@@ -1,12 +1,12 @@
-# dacortez/proglin / stars & forks statistics
-
-[Open repository/dacortez/proglin](https://github.com/dacortez/proglin)
+# dacortez/proglin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/dacortez/proglin)
 
 ## Historical data
 | Date | Stars | Forks |

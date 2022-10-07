@@ -1,12 +1,12 @@
-# DuskieWhy/exe-2.5-code / stars & forks statistics
-
-[Open repository/DuskieWhy/exe-2.5-code](https://github.com/DuskieWhy/exe-2.5-code)
+# DuskieWhy/exe-2.5-code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 19
+
+[Open repository](https://github.com/DuskieWhy/exe-2.5-code)
 
 ## Historical data
 | Date | Stars | Forks |

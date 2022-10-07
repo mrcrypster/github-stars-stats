@@ -1,16 +1,25 @@
-# chriscrowe/docker-pihole-unbound / stars & forks statistics
-
-[Open repository/chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound)
+# chriscrowe/docker-pihole-unbound - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 161
+☋ Forks: 166
 
-★ Stars: 596
+★ Stars: 610
+
+[Open repository](https://github.com/chriscrowe/docker-pihole-unbound)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 610 | 166 | 
+| 2022-10-05 | 609 | 165 | 
+| 2022-10-04 | 608 | 164 | 
+| 2022-10-03 | 606 | 163 | 
+| 2022-10-02 | 604 | 161 | 
+| 2022-10-01 | 603 | 161 | 
+| 2022-09-30 | 600 | 160 | 
+| 2022-09-29 | 599 | 160 | 
+| 2022-09-28 | 598 | 160 | 
 | 2022-09-27 | 596 | 161 | 
 | 2022-09-26 | 595 | 160 | 
 | 2022-09-25 | 593 | 159 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 577 | 159 | 
 | 2022-09-09 | 576 | 158 | 
 | 2022-09-08 | 573 | 158 | 
-| 2022-09-07 | 573 | 157 | 
-| 2022-09-06 | 571 | 156 | 
-| 2022-09-05 | 571 | 156 | 
-| 2022-09-04 | 570 | 157 | 
-| 2022-09-03 | 568 | 156 | 
-| 2022-09-02 | 568 | 155 | 
-| 2022-09-01 | 566 | 154 | 
-| 2022-08-31 | 564 | 154 | 
-| 2022-08-30 | 563 | 154 | 
-| 2022-08-29 | 563 | 154 | 
 
 
 [Detailed charts & statistics for chriscrowe/docker-pihole-unbound](https://reviewgithub.com/rep/chriscrowe/docker-pihole-unbound)

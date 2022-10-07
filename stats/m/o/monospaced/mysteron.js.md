@@ -1,12 +1,12 @@
-# monospaced/mysteron.js / stars & forks statistics
-
-[Open repository/monospaced/mysteron.js](https://github.com/monospaced/mysteron.js)
+# monospaced/mysteron.js - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
+
+[Open repository](https://github.com/monospaced/mysteron.js)
 
 ## Historical data
 | Date | Stars | Forks |

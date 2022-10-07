@@ -1,6 +1,4 @@
-# matalangilbert/mats-bash-scripts / stars & forks statistics
-
-[Open repository/matalangilbert/mats-bash-scripts](https://github.com/matalangilbert/mats-bash-scripts)
+# matalangilbert/mats-bash-scripts - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/matalangilbert/mats-bash-scripts)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 1 | 
+| 2022-10-05 | 1 | 1 | 
 | 2022-10-04 | 1 | 1 | 
 | 2022-10-03 | 1 | 1 | 
 | 2022-10-02 | 1 | 1 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 1 | 
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
-| 2022-09-07 | 1 | 1 | 
-| 2022-09-06 | 1 | 1 | 
-| 2022-09-05 | 1 | 1 | 
 
 
 [Detailed charts & statistics for matalangilbert/mats-bash-scripts](https://reviewgithub.com/rep/matalangilbert/mats-bash-scripts)

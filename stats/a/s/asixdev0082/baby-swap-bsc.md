@@ -1,12 +1,12 @@
-# asixdev0082/baby-swap-bsc / stars & forks statistics
-
-[Open repository/asixdev0082/baby-swap-bsc](https://github.com/asixdev0082/baby-swap-bsc)
+# asixdev0082/baby-swap-bsc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 16
+
+[Open repository](https://github.com/asixdev0082/baby-swap-bsc)
 
 ## Historical data
 | Date | Stars | Forks |

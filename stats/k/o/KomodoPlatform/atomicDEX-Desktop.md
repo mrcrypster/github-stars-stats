@@ -1,16 +1,33 @@
-# KomodoPlatform/atomicDEX-Desktop / stars & forks statistics
-
-[Open repository/KomodoPlatform/atomicDEX-Desktop](https://github.com/KomodoPlatform/atomicDEX-Desktop)
+# KomodoPlatform/atomicDEX-Desktop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 151
+☋ Forks: 158
 
 ★ Stars: 206
+
+[Open repository](https://github.com/KomodoPlatform/atomicDEX-Desktop)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 206 | 158 | 
+| 2022-10-06 | 206 | 158 | 
+| 2022-10-05 | 206 | 158 | 
+| 2022-10-04 | 206 | 157 | 
+| 2022-10-03 | 206 | 157 | 
+| 2022-10-02 | 206 | 157 | 
+| 2022-10-01 | 206 | 157 | 
+| 2022-09-30 | 206 | 156 | 
+| 2022-09-28 | 206 | 156 | 
+| 2022-09-27 | 206 | 154 | 
+| 2022-09-26 | 206 | 153 | 
+| 2022-09-25 | 206 | 152 | 
+| 2022-09-24 | 206 | 152 | 
+| 2022-09-23 | 206 | 152 | 
+| 2022-09-22 | 206 | 152 | 
+| 2022-09-21 | 206 | 152 | 
+| 2022-09-20 | 206 | 152 | 
 | 2022-09-19 | 206 | 151 | 
 | 2022-09-18 | 206 | 151 | 
 | 2022-09-17 | 206 | 151 | 
@@ -24,23 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 206 | 152 | 
 | 2022-09-08 | 206 | 151 | 
 | 2022-09-07 | 206 | 151 | 
-| 2022-09-06 | 205 | 151 | 
-| 2022-09-05 | 205 | 151 | 
-| 2022-09-04 | 205 | 151 | 
-| 2022-09-03 | 205 | 151 | 
-| 2022-09-02 | 204 | 151 | 
-| 2022-09-01 | 204 | 151 | 
-| 2022-08-31 | 203 | 150 | 
-| 2022-08-30 | 203 | 150 | 
-| 2022-08-29 | 203 | 149 | 
-| 2022-08-28 | 203 | 149 | 
-| 2022-08-27 | 203 | 149 | 
-| 2022-08-26 | 203 | 149 | 
-| 2022-08-25 | 203 | 149 | 
-| 2022-08-24 | 203 | 149 | 
-| 2022-08-23 | 203 | 149 | 
-| 2022-08-22 | 203 | 149 | 
-| 2022-08-21 | 203 | 149 | 
 
 
 [Detailed charts & statistics for KomodoPlatform/atomicDEX-Desktop](https://reviewgithub.com/rep/KomodoPlatform/atomicDEX-Desktop)

@@ -1,12 +1,12 @@
-# susanli2016/NLP-with-Python / stars & forks statistics
-
-[Open repository/susanli2016/NLP-with-Python](https://github.com/susanli2016/NLP-with-Python)
+# susanli2016/NLP-with-Python - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1923
 
 ★ Stars: 2411
+
+[Open repository](https://github.com/susanli2016/NLP-with-Python)
 
 ## Historical data
 | Date | Stars | Forks |

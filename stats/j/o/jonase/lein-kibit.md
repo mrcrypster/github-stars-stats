@@ -1,12 +1,12 @@
-# jonase/lein-kibit / stars & forks statistics
-
-[Open repository/jonase/lein-kibit](https://github.com/jonase/lein-kibit)
+# jonase/lein-kibit - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 11
+
+[Open repository](https://github.com/jonase/lein-kibit)
 
 ## Historical data
 | Date | Stars | Forks |

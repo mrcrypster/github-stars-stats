@@ -1,12 +1,12 @@
-# InjectiveLabs/sdk-cpp / stars & forks statistics
-
-[Open repository/InjectiveLabs/sdk-cpp](https://github.com/InjectiveLabs/sdk-cpp)
+# InjectiveLabs/sdk-cpp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/InjectiveLabs/sdk-cpp)
 
 ## Historical data
 | Date | Stars | Forks |

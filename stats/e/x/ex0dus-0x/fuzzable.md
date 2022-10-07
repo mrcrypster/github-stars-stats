@@ -1,12 +1,12 @@
-# ex0dus-0x/fuzzable / stars & forks statistics
-
-[Open repository/ex0dus-0x/fuzzable](https://github.com/ex0dus-0x/fuzzable)
+# ex0dus-0x/fuzzable - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 317
+
+[Open repository](https://github.com/ex0dus-0x/fuzzable)
 
 ## Historical data
 | Date | Stars | Forks |

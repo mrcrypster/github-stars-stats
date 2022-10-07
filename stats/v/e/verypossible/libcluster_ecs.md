@@ -1,12 +1,12 @@
-# verypossible/libcluster_ecs / stars & forks statistics
-
-[Open repository/verypossible/libcluster_ecs](https://github.com/verypossible/libcluster_ecs)
+# verypossible/libcluster_ecs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
+
+[Open repository](https://github.com/verypossible/libcluster_ecs)
 
 ## Historical data
 | Date | Stars | Forks |

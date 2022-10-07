@@ -1,12 +1,12 @@
-# besstiolle/Timeline / stars & forks statistics
-
-[Open repository/besstiolle/Timeline](https://github.com/besstiolle/Timeline)
+# besstiolle/Timeline - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
+
+[Open repository](https://github.com/besstiolle/Timeline)
 
 ## Historical data
 | Date | Stars | Forks |

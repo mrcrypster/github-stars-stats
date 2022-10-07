@@ -1,12 +1,12 @@
-# rewinfrey/visual-selection-sort / stars & forks statistics
-
-[Open repository/rewinfrey/visual-selection-sort](https://github.com/rewinfrey/visual-selection-sort)
+# rewinfrey/visual-selection-sort - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/rewinfrey/visual-selection-sort)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# NorfairKing/really-safe-money / stars & forks statistics
-
-[Open repository/NorfairKing/really-safe-money](https://github.com/NorfairKing/really-safe-money)
+# NorfairKing/really-safe-money - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 31
 
+[Open repository](https://github.com/NorfairKing/really-safe-money)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 31 | 1 | 
+| 2022-10-06 | 31 | 1 | 
+| 2022-10-05 | 31 | 1 | 
+| 2022-10-04 | 31 | 1 | 
+| 2022-10-03 | 31 | 1 | 
+| 2022-10-02 | 31 | 1 | 
+| 2022-10-01 | 31 | 1 | 
+| 2022-09-30 | 31 | 1 | 
+| 2022-09-29 | 31 | 1 | 
+| 2022-09-28 | 31 | 1 | 
+| 2022-09-27 | 31 | 1 | 
+| 2022-09-26 | 31 | 1 | 
+| 2022-09-25 | 31 | 1 | 
+| 2022-09-23 | 31 | 1 | 
 | 2022-09-22 | 31 | 1 | 
 | 2022-09-21 | 31 | 1 | 
 | 2022-09-20 | 31 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 31 | 1 | 
 | 2022-09-08 | 31 | 1 | 
 | 2022-09-07 | 31 | 1 | 
-| 2022-09-06 | 30 | 1 | 
-| 2022-09-05 | 30 | 1 | 
-| 2022-09-04 | 30 | 1 | 
-| 2022-09-03 | 30 | 1 | 
-| 2022-09-02 | 30 | 1 | 
-| 2022-09-01 | 30 | 1 | 
-| 2022-08-31 | 29 | 1 | 
-| 2022-08-30 | 29 | 1 | 
-| 2022-08-29 | 29 | 1 | 
-| 2022-08-28 | 29 | 1 | 
-| 2022-08-27 | 29 | 1 | 
-| 2022-08-26 | 26 | 1 | 
-| 2022-08-25 | 26 | 1 | 
-| 2022-08-24 | 23 | 1 | 
 
 
 [Detailed charts & statistics for NorfairKing/really-safe-money](https://reviewgithub.com/rep/NorfairKing/really-safe-money)

@@ -1,12 +1,12 @@
-# Shopify/unite-workshop-learning-liquid / stars & forks statistics
-
-[Open repository/Shopify/unite-workshop-learning-liquid](https://github.com/Shopify/unite-workshop-learning-liquid)
+# Shopify/unite-workshop-learning-liquid - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Shopify/unite-workshop-learning-liquid)
 
 ## Historical data
 | Date | Stars | Forks |

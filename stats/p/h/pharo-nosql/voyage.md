@@ -1,12 +1,12 @@
-# pharo-nosql/voyage / stars & forks statistics
-
-[Open repository/pharo-nosql/voyage](https://github.com/pharo-nosql/voyage)
+# pharo-nosql/voyage - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 31
+
+[Open repository](https://github.com/pharo-nosql/voyage)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,34 @@
-# Chase1803/UCMiraka-ValorantExternal / stars & forks statistics
-
-[Open repository/Chase1803/UCMiraka-ValorantExternal](https://github.com/Chase1803/UCMiraka-ValorantExternal)
+# Chase1803/UCMiraka-ValorantExternal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 22
+☋ Forks: 31
 
-★ Stars: 43
+★ Stars: 48
+
+[Open repository](https://github.com/Chase1803/UCMiraka-ValorantExternal)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 48 | 31 | 
+| 2022-10-06 | 48 | 31 | 
+| 2022-10-05 | 48 | 31 | 
+| 2022-10-04 | 49 | 31 | 
+| 2022-10-03 | 48 | 31 | 
+| 2022-10-02 | 48 | 31 | 
+| 2022-10-01 | 47 | 31 | 
+| 2022-09-30 | 47 | 31 | 
+| 2022-09-29 | 47 | 30 | 
+| 2022-09-28 | 47 | 29 | 
+| 2022-09-27 | 44 | 28 | 
+| 2022-09-26 | 44 | 27 | 
+| 2022-09-25 | 44 | 26 | 
+| 2022-09-24 | 44 | 25 | 
+| 2022-09-23 | 44 | 23 | 
+| 2022-09-22 | 44 | 23 | 
+| 2022-09-21 | 43 | 22 | 
+| 2022-09-20 | 43 | 22 | 
 | 2022-09-19 | 43 | 22 | 
 | 2022-09-18 | 42 | 21 | 
 | 2022-09-17 | 42 | 21 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 38 | 21 | 
 | 2022-09-08 | 36 | 21 | 
 | 2022-09-07 | 36 | 21 | 
-| 2022-09-06 | 35 | 21 | 
-| 2022-09-05 | 35 | 20 | 
-| 2022-09-04 | 33 | 20 | 
-| 2022-09-03 | 32 | 20 | 
-| 2022-09-02 | 32 | 20 | 
-| 2022-09-01 | 32 | 19 | 
-| 2022-08-31 | 32 | 19 | 
-| 2022-08-30 | 30 | 19 | 
-| 2022-08-29 | 28 | 18 | 
-| 2022-08-28 | 28 | 18 | 
-| 2022-08-27 | 25 | 18 | 
-| 2022-08-26 | 24 | 17 | 
-| 2022-08-25 | 22 | 17 | 
-| 2022-08-24 | 20 | 16 | 
-| 2022-08-23 | 20 | 16 | 
-| 2022-08-22 | 19 | 17 | 
-| 2022-08-21 | 18 | 16 | 
-| 2022-08-20 | 15 | 15 | 
 
 
 [Detailed charts & statistics for Chase1803/UCMiraka-ValorantExternal](https://reviewgithub.com/rep/Chase1803/UCMiraka-ValorantExternal)

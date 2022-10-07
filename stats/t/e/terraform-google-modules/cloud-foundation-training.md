@@ -1,16 +1,38 @@
-# terraform-google-modules/cloud-foundation-training / stars & forks statistics
-
-[Open repository/terraform-google-modules/cloud-foundation-training](https://github.com/terraform-google-modules/cloud-foundation-training)
+# terraform-google-modules/cloud-foundation-training - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 80
+☋ Forks: 82
 
-★ Stars: 65
+★ Stars: 68
+
+[Open repository](https://github.com/terraform-google-modules/cloud-foundation-training)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 68 | 82 | 
+| 2022-10-05 | 68 | 82 | 
+| 2022-10-04 | 68 | 82 | 
+| 2022-10-03 | 68 | 82 | 
+| 2022-10-02 | 68 | 82 | 
+| 2022-10-01 | 68 | 82 | 
+| 2022-09-30 | 68 | 82 | 
+| 2022-09-29 | 68 | 82 | 
+| 2022-09-28 | 68 | 82 | 
+| 2022-09-27 | 68 | 82 | 
+| 2022-09-26 | 68 | 82 | 
+| 2022-09-25 | 68 | 82 | 
+| 2022-09-24 | 68 | 82 | 
+| 2022-09-23 | 67 | 81 | 
+| 2022-09-22 | 67 | 81 | 
+| 2022-09-21 | 67 | 81 | 
+| 2022-09-20 | 67 | 81 | 
+| 2022-09-19 | 67 | 81 | 
+| 2022-09-18 | 67 | 81 | 
+| 2022-09-17 | 67 | 80 | 
+| 2022-09-16 | 67 | 80 | 
+| 2022-09-15 | 67 | 80 | 
 | 2022-09-14 | 65 | 80 | 
 | 2022-09-13 | 65 | 80 | 
 | 2022-09-12 | 65 | 80 | 
@@ -18,29 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 65 | 80 | 
 | 2022-09-09 | 65 | 80 | 
 | 2022-09-08 | 65 | 80 | 
-| 2022-09-07 | 65 | 80 | 
-| 2022-09-06 | 64 | 80 | 
-| 2022-09-04 | 64 | 80 | 
-| 2022-09-03 | 64 | 80 | 
-| 2022-09-02 | 64 | 80 | 
-| 2022-09-01 | 64 | 81 | 
-| 2022-08-31 | 64 | 81 | 
-| 2022-08-30 | 64 | 81 | 
-| 2022-08-29 | 64 | 81 | 
-| 2022-08-28 | 64 | 80 | 
-| 2022-08-27 | 64 | 80 | 
-| 2022-08-26 | 64 | 80 | 
-| 2022-08-25 | 64 | 80 | 
-| 2022-08-24 | 64 | 80 | 
-| 2022-08-23 | 64 | 80 | 
-| 2022-08-22 | 63 | 80 | 
-| 2022-08-21 | 63 | 80 | 
-| 2022-08-20 | 63 | 80 | 
-| 2022-08-19 | 63 | 80 | 
-| 2022-08-18 | 62 | 78 | 
-| 2022-08-17 | 62 | 77 | 
-| 2022-08-16 | 62 | 77 | 
-| 2022-08-15 | 62 | 77 | 
 
 
 [Detailed charts & statistics for terraform-google-modules/cloud-foundation-training](https://reviewgithub.com/rep/terraform-google-modules/cloud-foundation-training)

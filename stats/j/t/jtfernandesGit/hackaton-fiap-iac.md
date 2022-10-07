@@ -1,12 +1,12 @@
-# jtfernandesGit/hackaton-fiap-iac / stars & forks statistics
-
-[Open repository/jtfernandesGit/hackaton-fiap-iac](https://github.com/jtfernandesGit/hackaton-fiap-iac)
+# jtfernandesGit/hackaton-fiap-iac - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/jtfernandesGit/hackaton-fiap-iac)
 
 ## Historical data
 | Date | Stars | Forks |

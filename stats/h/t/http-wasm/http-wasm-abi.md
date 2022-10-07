@@ -1,12 +1,12 @@
-# http-wasm/http-wasm-abi / stars & forks statistics
-
-[Open repository/http-wasm/http-wasm-abi](https://github.com/http-wasm/http-wasm-abi)
+# http-wasm/http-wasm-abi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
+
+[Open repository](https://github.com/http-wasm/http-wasm-abi)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# Adrien-Kourganoff/TP2_WEB_OCRES / stars & forks statistics
-
-[Open repository/Adrien-Kourganoff/TP2_WEB_OCRES](https://github.com/Adrien-Kourganoff/TP2_WEB_OCRES)
+# Adrien-Kourganoff/TP2_WEB_OCRES - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 287
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Adrien-Kourganoff/TP2_WEB_OCRES)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# Octanium91/NFS_Heat_CPU_Load_FIX / stars & forks statistics
-
-[Open repository/Octanium91/NFS_Heat_CPU_Load_FIX](https://github.com/Octanium91/NFS_Heat_CPU_Load_FIX)
+# Octanium91/NFS_Heat_CPU_Load_FIX - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 89
+
+[Open repository](https://github.com/Octanium91/NFS_Heat_CPU_Load_FIX)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,22 @@
-# VEuPathDB/CBIL / stars & forks statistics
-
-[Open repository/VEuPathDB/CBIL](https://github.com/VEuPathDB/CBIL)
+# VEuPathDB/CBIL - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 0
+
+[Open repository](https://github.com/VEuPathDB/CBIL)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 1 | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
+| 2022-10-01 | - | - | 
 | 2022-09-30 | - | - | 
 | 2022-09-29 | - | - | 
 | 2022-09-28 | - | - | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
-| 2022-09-07 | - | - | 
-| 2022-09-06 | - | - | 
-| 2022-09-05 | - | - | 
-| 2022-09-04 | - | - | 
-| 2022-09-03 | - | - | 
-| 2022-09-02 | - | - | 
-| 2022-09-01 | - | - | 
 
 
 [Detailed charts & statistics for VEuPathDB/CBIL](https://reviewgithub.com/rep/VEuPathDB/CBIL)

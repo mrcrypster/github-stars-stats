@@ -1,16 +1,27 @@
-# benphelps/homepage / stars & forks statistics
-
-[Open repository/benphelps/homepage](https://github.com/benphelps/homepage)
+# benphelps/homepage - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 76
+☋ Forks: 92
 
-★ Stars: 1390
+★ Stars: 1535
+
+[Open repository](https://github.com/benphelps/homepage)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1535 | 92 | 
+| 2022-10-05 | 1502 | 91 | 
+| 2022-10-04 | 1465 | 92 | 
+| 2022-10-03 | 1461 | 91 | 
+| 2022-10-02 | 1460 | 89 | 
+| 2022-10-01 | 1451 | 89 | 
+| 2022-09-30 | 1445 | 87 | 
+| 2022-09-29 | 1438 | 86 | 
+| 2022-09-28 | 1431 | 84 | 
+| 2022-09-27 | 1420 | 81 | 
+| 2022-09-26 | 1405 | 80 | 
 | 2022-09-25 | 1390 | 76 | 
 | 2022-09-24 | 1375 | 75 | 
 | 2022-09-23 | 1355 | 75 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 421 | 21 | 
 | 2022-09-08 | 381 | 18 | 
 | 2022-09-07 | 344 | 15 | 
-| 2022-09-06 | 338 | 16 | 
-| 2022-09-05 | 332 | 15 | 
-| 2022-09-04 | 330 | 13 | 
-| 2022-09-03 | 322 | 12 | 
-| 2022-09-02 | 321 | 12 | 
-| 2022-09-01 | 317 | 11 | 
-| 2022-08-31 | 310 | 11 | 
-| 2022-08-30 | 291 | 9 | 
-| 2022-08-29 | 285 | 8 | 
-| 2022-08-28 | 275 | 8 | 
-| 2022-08-27 | 207 | 7 | 
 
 
 [Detailed charts & statistics for benphelps/homepage](https://reviewgithub.com/rep/benphelps/homepage)

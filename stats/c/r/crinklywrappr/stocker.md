@@ -1,12 +1,12 @@
-# crinklywrappr/stocker / stars & forks statistics
-
-[Open repository/crinklywrappr/stocker](https://github.com/crinklywrappr/stocker)
+# crinklywrappr/stocker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/crinklywrappr/stocker)
 
 ## Historical data
 | Date | Stars | Forks |

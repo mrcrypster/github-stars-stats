@@ -1,12 +1,12 @@
-# wikimedia/puppet-storm / stars & forks statistics
-
-[Open repository/wikimedia/puppet-storm](https://github.com/wikimedia/puppet-storm)
+# wikimedia/puppet-storm - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/wikimedia/puppet-storm)
 
 ## Historical data
 | Date | Stars | Forks |

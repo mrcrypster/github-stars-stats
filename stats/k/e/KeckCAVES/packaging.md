@@ -1,12 +1,12 @@
-# KeckCAVES/packaging / stars & forks statistics
-
-[Open repository/KeckCAVES/packaging](https://github.com/KeckCAVES/packaging)
+# KeckCAVES/packaging - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
+
+[Open repository](https://github.com/KeckCAVES/packaging)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,21 @@
-# bitcoin-stark/khepri / stars & forks statistics
-
-[Open repository/bitcoin-stark/khepri](https://github.com/bitcoin-stark/khepri)
+# bitcoin-stark/khepri - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
-★ Stars: 50
+★ Stars: 51
+
+[Open repository](https://github.com/bitcoin-stark/khepri)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 51 | 14 | 
+| 2022-10-05 | 51 | 14 | 
+| 2022-10-04 | 51 | 14 | 
+| 2022-10-03 | 50 | 14 | 
+| 2022-10-02 | 50 | 14 | 
 | 2022-10-01 | 50 | 14 | 
 | 2022-09-30 | 50 | 14 | 
 | 2022-09-29 | 49 | 14 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 42 | 11 | 
 | 2022-09-09 | 42 | 11 | 
 | 2022-09-08 | 42 | 11 | 
-| 2022-09-07 | 40 | 10 | 
-| 2022-09-06 | 40 | 10 | 
-| 2022-09-05 | 40 | 10 | 
-| 2022-09-04 | 40 | 10 | 
-| 2022-09-03 | 38 | 10 | 
-| 2022-09-02 | 36 | 10 | 
 
 
 [Detailed charts & statistics for bitcoin-stark/khepri](https://reviewgithub.com/rep/bitcoin-stark/khepri)

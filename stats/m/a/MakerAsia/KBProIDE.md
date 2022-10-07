@@ -1,12 +1,12 @@
-# MakerAsia/KBProIDE / stars & forks statistics
-
-[Open repository/MakerAsia/KBProIDE](https://github.com/MakerAsia/KBProIDE)
+# MakerAsia/KBProIDE - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 123
+
+[Open repository](https://github.com/MakerAsia/KBProIDE)
 
 ## Historical data
 | Date | Stars | Forks |

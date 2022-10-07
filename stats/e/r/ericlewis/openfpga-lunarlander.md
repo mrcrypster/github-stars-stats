@@ -1,12 +1,12 @@
-# ericlewis/openfpga-lunarlander / stars & forks statistics
-
-[Open repository/ericlewis/openfpga-lunarlander](https://github.com/ericlewis/openfpga-lunarlander)
+# ericlewis/openfpga-lunarlander - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
+
+[Open repository](https://github.com/ericlewis/openfpga-lunarlander)
 
 ## Historical data
 | Date | Stars | Forks |

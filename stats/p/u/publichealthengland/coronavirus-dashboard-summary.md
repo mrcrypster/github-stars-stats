@@ -1,6 +1,4 @@
-# publichealthengland/coronavirus-dashboard-summary / stars & forks statistics
-
-[Open repository/publichealthengland/coronavirus-dashboard-summary](https://github.com/publichealthengland/coronavirus-dashboard-summary)
+# publichealthengland/coronavirus-dashboard-summary - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,39 +6,40 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 48
 
+[Open repository](https://github.com/publichealthengland/coronavirus-dashboard-summary)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-30 | 48 | 1 | 
-| 2022-07-29 | 48 | 1 | 
-| 2022-07-28 | 48 | 1 | 
-| 2022-07-27 | 48 | 1 | 
-| 2022-07-26 | 48 | 1 | 
-| 2022-07-25 | 47 | 1 | 
-| 2022-07-24 | 47 | 1 | 
-| 2022-07-23 | 47 | 1 | 
-| 2022-07-22 | 47 | 1 | 
-| 2022-07-21 | 47 | 1 | 
-| 2022-07-20 | 47 | 1 | 
-| 2022-07-19 | 47 | 1 | 
-| 2022-07-18 | 47 | 1 | 
-| 2022-07-17 | 47 | 1 | 
-| 2022-07-16 | 47 | 1 | 
-| 2022-07-15 | 47 | 1 | 
-| 2022-07-14 | 47 | 1 | 
-| 2022-07-13 | 47 | 1 | 
-| 2022-07-12 | 47 | 1 | 
-| 2022-07-11 | 47 | 1 | 
-| 2022-07-10 | 47 | 1 | 
-| 2022-07-09 | 47 | 1 | 
-| 2022-07-08 | 47 | 1 | 
-| 2022-07-07 | 47 | 1 | 
-| 2022-07-06 | 47 | 1 | 
-| 2022-07-05 | 47 | 1 | 
-| 2022-07-04 | 47 | 1 | 
-| 2022-07-03 | 47 | 1 | 
-| 2022-07-02 | 47 | 1 | 
-| 2022-07-01 | 47 | 1 | 
+| 2022-10-06 | 48 | 1 | 
+| 2022-10-05 | 48 | 1 | 
+| 2022-10-04 | 48 | 1 | 
+| 2022-10-03 | 48 | 1 | 
+| 2022-10-02 | 48 | 1 | 
+| 2022-10-01 | 48 | 1 | 
+| 2022-09-30 | 48 | 1 | 
+| 2022-09-29 | 48 | 1 | 
+| 2022-09-28 | 48 | 1 | 
+| 2022-09-27 | 48 | 1 | 
+| 2022-09-26 | 48 | 1 | 
+| 2022-09-25 | 48 | 1 | 
+| 2022-09-24 | 48 | 1 | 
+| 2022-09-23 | 48 | 1 | 
+| 2022-09-22 | 48 | 1 | 
+| 2022-09-21 | 48 | 1 | 
+| 2022-09-20 | 48 | 1 | 
+| 2022-09-19 | 48 | 1 | 
+| 2022-09-18 | 48 | 1 | 
+| 2022-09-17 | 48 | 1 | 
+| 2022-09-16 | 48 | 1 | 
+| 2022-09-15 | 48 | 1 | 
+| 2022-09-14 | 48 | 1 | 
+| 2022-09-13 | 48 | 1 | 
+| 2022-09-12 | 48 | 1 | 
+| 2022-09-11 | 48 | 1 | 
+| 2022-09-10 | 48 | 1 | 
+| 2022-09-09 | 48 | 1 | 
+| 2022-09-08 | 48 | 1 | 
 
 
 [Detailed charts & statistics for publichealthengland/coronavirus-dashboard-summary](https://reviewgithub.com/rep/publichealthengland/coronavirus-dashboard-summary)

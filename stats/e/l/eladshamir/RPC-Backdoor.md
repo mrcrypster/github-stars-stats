@@ -1,16 +1,29 @@
-# eladshamir/RPC-Backdoor / stars & forks statistics
-
-[Open repository/eladshamir/RPC-Backdoor](https://github.com/eladshamir/RPC-Backdoor)
+# eladshamir/RPC-Backdoor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
-★ Stars: 163
+★ Stars: 168
+
+[Open repository](https://github.com/eladshamir/RPC-Backdoor)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 168 | 35 | 
+| 2022-10-06 | 168 | 35 | 
+| 2022-10-05 | 168 | 35 | 
+| 2022-10-04 | 168 | 35 | 
+| 2022-10-03 | 168 | 35 | 
+| 2022-10-02 | 168 | 35 | 
+| 2022-10-01 | 168 | 35 | 
+| 2022-09-30 | 168 | 35 | 
+| 2022-09-29 | 167 | 35 | 
+| 2022-09-28 | 166 | 35 | 
+| 2022-09-27 | 166 | 35 | 
+| 2022-09-26 | 165 | 35 | 
+| 2022-09-25 | 165 | 35 | 
 | 2022-09-24 | 163 | 35 | 
 | 2022-09-23 | 163 | 33 | 
 | 2022-09-22 | 163 | 33 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 153 | 30 | 
 | 2022-09-09 | 150 | 27 | 
 | 2022-09-07 | 150 | 27 | 
-| 2022-09-06 | 149 | 27 | 
-| 2022-09-05 | 145 | 26 | 
-| 2022-09-04 | 145 | 26 | 
-| 2022-09-03 | 144 | 26 | 
-| 2022-09-02 | 142 | 26 | 
-| 2022-09-01 | 142 | 26 | 
-| 2022-08-31 | 140 | 26 | 
-| 2022-08-30 | 137 | 26 | 
-| 2022-08-29 | 137 | 26 | 
-| 2022-08-28 | 133 | 26 | 
-| 2022-08-27 | 129 | 25 | 
-| 2022-08-26 | 125 | 25 | 
-| 2022-08-25 | 114 | 22 | 
 
 
 [Detailed charts & statistics for eladshamir/RPC-Backdoor](https://reviewgithub.com/rep/eladshamir/RPC-Backdoor)

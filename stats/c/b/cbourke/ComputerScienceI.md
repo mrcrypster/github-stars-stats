@@ -1,16 +1,28 @@
-# cbourke/ComputerScienceI / stars & forks statistics
-
-[Open repository/cbourke/ComputerScienceI](https://github.com/cbourke/ComputerScienceI)
+# cbourke/ComputerScienceI - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 178
+☋ Forks: 179
 
-★ Stars: 80
+★ Stars: 82
+
+[Open repository](https://github.com/cbourke/ComputerScienceI)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 82 | 179 | 
+| 2022-10-05 | 82 | 177 | 
+| 2022-10-04 | 81 | 177 | 
+| 2022-10-03 | 81 | 177 | 
+| 2022-10-02 | 81 | 177 | 
+| 2022-10-01 | 81 | 177 | 
+| 2022-09-30 | 81 | 177 | 
+| 2022-09-29 | 81 | 178 | 
+| 2022-09-28 | 81 | 178 | 
+| 2022-09-27 | 81 | 178 | 
+| 2022-09-26 | 81 | 178 | 
+| 2022-09-25 | 81 | 178 | 
 | 2022-09-24 | 80 | 178 | 
 | 2022-09-23 | 80 | 178 | 
 | 2022-09-22 | 80 | 178 | 
@@ -28,19 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 80 | 178 | 
 | 2022-09-09 | 80 | 178 | 
 | 2022-09-08 | 80 | 178 | 
-| 2022-09-07 | 79 | 178 | 
-| 2022-09-06 | 79 | 178 | 
-| 2022-09-05 | 79 | 178 | 
-| 2022-09-04 | 79 | 178 | 
-| 2022-09-03 | 79 | 178 | 
-| 2022-09-02 | 79 | 178 | 
-| 2022-09-01 | 79 | 178 | 
-| 2022-08-31 | 79 | 178 | 
-| 2022-08-30 | 78 | 177 | 
-| 2022-08-29 | 78 | 177 | 
-| 2022-08-28 | 78 | 177 | 
-| 2022-08-27 | 78 | 176 | 
-| 2022-08-26 | 78 | 176 | 
 
 
 [Detailed charts & statistics for cbourke/ComputerScienceI](https://reviewgithub.com/rep/cbourke/ComputerScienceI)

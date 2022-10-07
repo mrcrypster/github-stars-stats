@@ -1,16 +1,28 @@
-# wolfenrain/stateless / stars & forks statistics
-
-[Open repository/wolfenrain/stateless](https://github.com/wolfenrain/stateless)
+# wolfenrain/stateless - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 38
+
+[Open repository](https://github.com/wolfenrain/stateless)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 38 | 2 | 
+| 2022-10-06 | 38 | 2 | 
+| 2022-10-05 | 38 | 2 | 
+| 2022-10-04 | 38 | 2 | 
+| 2022-10-03 | 37 | 2 | 
+| 2022-10-02 | 37 | 2 | 
+| 2022-10-01 | 37 | 2 | 
+| 2022-09-30 | 37 | 2 | 
+| 2022-09-29 | 37 | 2 | 
+| 2022-09-28 | 37 | 2 | 
+| 2022-09-27 | 37 | 2 | 
+| 2022-09-26 | 37 | 2 | 
 | 2022-09-25 | 37 | 2 | 
 | 2022-09-24 | 37 | 2 | 
 | 2022-09-23 | 37 | 2 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 37 | 2 | 
 | 2022-09-08 | 37 | 2 | 
 | 2022-09-07 | 37 | 2 | 
-| 2022-09-06 | 37 | 2 | 
-| 2022-09-05 | 36 | 2 | 
-| 2022-09-04 | 36 | 2 | 
-| 2022-09-03 | 35 | 2 | 
-| 2022-09-02 | 34 | 2 | 
-| 2022-09-01 | 30 | 2 | 
-| 2022-08-31 | 29 | 2 | 
-| 2022-08-30 | 28 | 2 | 
-| 2022-08-29 | 27 | 2 | 
-| 2022-08-28 | 25 | 2 | 
-| 2022-08-27 | 25 | 2 | 
-| 2022-08-26 | 25 | 2 | 
 
 
 [Detailed charts & statistics for wolfenrain/stateless](https://reviewgithub.com/rep/wolfenrain/stateless)

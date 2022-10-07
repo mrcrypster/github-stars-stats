@@ -1,16 +1,31 @@
-# allisonhorst/palmerpenguins / stars & forks statistics
-
-[Open repository/allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins)
+# allisonhorst/palmerpenguins - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 146
 
-★ Stars: 711
+★ Stars: 713
+
+[Open repository](https://github.com/allisonhorst/palmerpenguins)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 713 | 146 | 
+| 2022-10-05 | 713 | 146 | 
+| 2022-10-04 | 713 | 146 | 
+| 2022-10-03 | 713 | 145 | 
+| 2022-10-02 | 713 | 145 | 
+| 2022-10-01 | 713 | 145 | 
+| 2022-09-30 | 713 | 145 | 
+| 2022-09-29 | 713 | 145 | 
+| 2022-09-28 | 713 | 145 | 
+| 2022-09-27 | 713 | 145 | 
+| 2022-09-26 | 713 | 146 | 
+| 2022-09-25 | 712 | 146 | 
+| 2022-09-24 | 712 | 146 | 
+| 2022-09-23 | 712 | 146 | 
+| 2022-09-22 | 712 | 146 | 
 | 2022-09-21 | 711 | 146 | 
 | 2022-09-20 | 711 | 146 | 
 | 2022-09-19 | 710 | 146 | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 707 | 146 | 
 | 2022-09-09 | 707 | 146 | 
 | 2022-09-08 | 707 | 146 | 
-| 2022-09-07 | 707 | 145 | 
-| 2022-09-06 | 707 | 145 | 
-| 2022-09-05 | 706 | 145 | 
-| 2022-09-04 | 706 | 145 | 
-| 2022-09-03 | 706 | 145 | 
-| 2022-09-02 | 706 | 145 | 
-| 2022-09-01 | 706 | 145 | 
-| 2022-08-30 | 705 | 146 | 
-| 2022-08-29 | 704 | 145 | 
-| 2022-08-28 | 702 | 145 | 
-| 2022-08-27 | 702 | 145 | 
-| 2022-08-26 | 701 | 145 | 
-| 2022-08-25 | 700 | 145 | 
-| 2022-08-24 | 700 | 145 | 
-| 2022-08-23 | 699 | 145 | 
-| 2022-08-22 | 699 | 145 | 
 
 
 [Detailed charts & statistics for allisonhorst/palmerpenguins](https://reviewgithub.com/rep/allisonhorst/palmerpenguins)

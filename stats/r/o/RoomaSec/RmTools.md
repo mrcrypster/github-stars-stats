@@ -1,16 +1,28 @@
-# RoomaSec/RmTools / stars & forks statistics
-
-[Open repository/RoomaSec/RmTools](https://github.com/RoomaSec/RmTools)
+# RoomaSec/RmTools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 19
+
+[Open repository](https://github.com/RoomaSec/RmTools)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 3 | 
+| 2022-10-06 | 17 | 2 | 
+| 2022-10-05 | 17 | 2 | 
+| 2022-10-04 | 17 | 2 | 
+| 2022-10-03 | 17 | 2 | 
+| 2022-10-02 | 17 | 2 | 
+| 2022-10-01 | 17 | 2 | 
+| 2022-09-30 | 17 | 2 | 
+| 2022-09-29 | 17 | 2 | 
+| 2022-09-28 | 16 | 2 | 
+| 2022-09-27 | 15 | 2 | 
+| 2022-09-26 | 15 | 2 | 
 | 2022-09-25 | 15 | 2 | 
 | 2022-09-24 | 15 | 2 | 
 | 2022-09-23 | 14 | 2 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 9 | 2 | 
 | 2022-09-08 | 7 | 2 | 
 | 2022-09-07 | 6 | 2 | 
-| 2022-09-06 | 5 | - | 
-| 2022-09-05 | 3 | - | 
-| 2022-09-04 | 1 | - | 
-| 2022-09-03 | 1 | - | 
-| 2022-09-02 | 1 | - | 
-| 2022-09-01 | 1 | - | 
-| 2022-08-31 | 1 | - | 
-| 2022-08-30 | 1 | - | 
-| 2022-08-29 | 1 | - | 
-| 2022-08-28 | 1 | - | 
-| 2022-08-27 | - | - | 
-| 2022-08-26 | - | - | 
 
 
 [Detailed charts & statistics for RoomaSec/RmTools](https://reviewgithub.com/rep/RoomaSec/RmTools)

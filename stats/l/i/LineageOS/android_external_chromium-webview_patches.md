@@ -1,12 +1,12 @@
-# LineageOS/android_external_chromium-webview_patches / stars & forks statistics
-
-[Open repository/LineageOS/android_external_chromium-webview_patches](https://github.com/LineageOS/android_external_chromium-webview_patches)
+# LineageOS/android_external_chromium-webview_patches - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/LineageOS/android_external_chromium-webview_patches)
 
 ## Historical data
 | Date | Stars | Forks |

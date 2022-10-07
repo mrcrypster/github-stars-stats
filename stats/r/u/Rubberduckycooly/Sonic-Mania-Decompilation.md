@@ -1,16 +1,36 @@
-# Rubberduckycooly/Sonic-Mania-Decompilation / stars & forks statistics
-
-[Open repository/Rubberduckycooly/Sonic-Mania-Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
+# Rubberduckycooly/Sonic-Mania-Decompilation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 53
+☋ Forks: 63
 
-★ Stars: 328
+★ Stars: 341
+
+[Open repository](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 341 | 63 | 
+| 2022-10-06 | 341 | 62 | 
+| 2022-10-05 | 341 | 62 | 
+| 2022-10-04 | 340 | 62 | 
+| 2022-10-03 | 340 | 62 | 
+| 2022-10-02 | 339 | 62 | 
+| 2022-10-01 | 339 | 62 | 
+| 2022-09-30 | 338 | 62 | 
+| 2022-09-29 | 338 | 62 | 
+| 2022-09-28 | 337 | 62 | 
+| 2022-09-27 | 336 | 60 | 
+| 2022-09-26 | 335 | 59 | 
+| 2022-09-25 | 335 | 57 | 
+| 2022-09-24 | 334 | 57 | 
+| 2022-09-23 | 333 | 56 | 
+| 2022-09-22 | 333 | 56 | 
+| 2022-09-21 | 333 | 55 | 
+| 2022-09-20 | 333 | 55 | 
+| 2022-09-19 | 332 | 55 | 
+| 2022-09-18 | 331 | 55 | 
 | 2022-09-17 | 328 | 53 | 
 | 2022-09-16 | 326 | 52 | 
 | 2022-09-15 | 324 | 51 | 
@@ -21,26 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 319 | 48 | 
 | 2022-09-08 | 316 | 46 | 
 | 2022-09-07 | 314 | 46 | 
-| 2022-09-06 | 313 | 46 | 
-| 2022-09-05 | 308 | 44 | 
-| 2022-09-04 | 307 | 43 | 
-| 2022-09-03 | 305 | 43 | 
-| 2022-09-02 | 303 | 41 | 
-| 2022-09-01 | 301 | 41 | 
-| 2022-08-31 | 299 | 40 | 
-| 2022-08-30 | 295 | 40 | 
-| 2022-08-29 | 292 | 40 | 
-| 2022-08-28 | 289 | 39 | 
-| 2022-08-27 | 280 | 36 | 
-| 2022-08-26 | 277 | 35 | 
-| 2022-08-25 | 271 | 34 | 
-| 2022-08-24 | 268 | 32 | 
-| 2022-08-23 | 262 | 32 | 
-| 2022-08-22 | 253 | 29 | 
-| 2022-08-21 | 238 | 26 | 
-| 2022-08-20 | 235 | 25 | 
-| 2022-08-19 | 212 | 22 | 
-| 2022-08-18 | 170 | 20 | 
 
 
 [Detailed charts & statistics for Rubberduckycooly/Sonic-Mania-Decompilation](https://reviewgithub.com/rep/Rubberduckycooly/Sonic-Mania-Decompilation)

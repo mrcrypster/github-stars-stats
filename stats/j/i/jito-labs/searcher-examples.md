@@ -1,12 +1,12 @@
-# jito-labs/searcher-examples / stars & forks statistics
-
-[Open repository/jito-labs/searcher-examples](https://github.com/jito-labs/searcher-examples)
+# jito-labs/searcher-examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 77
+
+[Open repository](https://github.com/jito-labs/searcher-examples)
 
 ## Historical data
 | Date | Stars | Forks |

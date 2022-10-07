@@ -1,12 +1,12 @@
-# zhangchuangiie/SimpleKafka / stars & forks statistics
-
-[Open repository/zhangchuangiie/SimpleKafka](https://github.com/zhangchuangiie/SimpleKafka)
+# zhangchuangiie/SimpleKafka - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 197
+
+[Open repository](https://github.com/zhangchuangiie/SimpleKafka)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# coral-xyz/backpack / stars & forks statistics
-
-[Open repository/coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+# coral-xyz/backpack - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 299
+
+[Open repository](https://github.com/coral-xyz/backpack)
 
 ## Historical data
 | Date | Stars | Forks |

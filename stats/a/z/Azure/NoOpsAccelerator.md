@@ -1,12 +1,12 @@
-# Azure/NoOpsAccelerator / stars & forks statistics
-
-[Open repository/Azure/NoOpsAccelerator](https://github.com/Azure/NoOpsAccelerator)
+# Azure/NoOpsAccelerator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 23
+
+[Open repository](https://github.com/Azure/NoOpsAccelerator)
 
 ## Historical data
 | Date | Stars | Forks |

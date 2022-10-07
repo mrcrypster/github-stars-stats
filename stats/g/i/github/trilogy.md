@@ -1,16 +1,24 @@
-# github/trilogy / stars & forks statistics
-
-[Open repository/github/trilogy](https://github.com/github/trilogy)
+# github/trilogy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 22
+☋ Forks: 24
 
 ★ Stars: 467
+
+[Open repository](https://github.com/github/trilogy)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 467 | 24 | 
+| 2022-10-05 | 467 | 24 | 
+| 2022-10-04 | 468 | 22 | 
+| 2022-10-03 | 467 | 22 | 
+| 2022-10-02 | 467 | 22 | 
+| 2022-10-01 | 467 | 22 | 
+| 2022-09-30 | 467 | 22 | 
+| 2022-09-29 | 467 | 22 | 
 | 2022-09-28 | 467 | 22 | 
 | 2022-09-27 | 467 | 22 | 
 | 2022-09-26 | 467 | 22 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 453 | 21 | 
 | 2022-09-09 | 451 | 21 | 
 | 2022-09-08 | 448 | 21 | 
-| 2022-09-07 | 444 | 21 | 
-| 2022-09-06 | 439 | 20 | 
-| 2022-09-05 | 430 | 20 | 
-| 2022-09-04 | 428 | 20 | 
-| 2022-09-03 | 423 | 19 | 
-| 2022-09-02 | 415 | 19 | 
-| 2022-09-01 | 412 | 19 | 
-| 2022-08-31 | 370 | 19 | 
-| 2022-08-30 | 332 | 18 | 
 
 
 [Detailed charts & statistics for github/trilogy](https://reviewgithub.com/rep/github/trilogy)

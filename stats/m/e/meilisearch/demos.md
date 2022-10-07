@@ -1,12 +1,12 @@
-# meilisearch/demos / stars & forks statistics
-
-[Open repository/meilisearch/demos](https://github.com/meilisearch/demos)
+# meilisearch/demos - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 24
+
+[Open repository](https://github.com/meilisearch/demos)
 
 ## Historical data
 | Date | Stars | Forks |

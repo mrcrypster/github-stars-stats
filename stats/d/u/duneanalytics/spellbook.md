@@ -1,16 +1,30 @@
-# duneanalytics/spellbook / stars & forks statistics
-
-[Open repository/duneanalytics/spellbook](https://github.com/duneanalytics/spellbook)
+# duneanalytics/spellbook - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 460
+☋ Forks: 471
 
-★ Stars: 536
+★ Stars: 555
+
+[Open repository](https://github.com/duneanalytics/spellbook)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 555 | 471 | 
+| 2022-10-05 | 554 | 471 | 
+| 2022-10-04 | 554 | 470 | 
+| 2022-10-03 | 554 | 467 | 
+| 2022-10-02 | 553 | 467 | 
+| 2022-10-01 | 552 | 468 | 
+| 2022-09-30 | 549 | 467 | 
+| 2022-09-29 | 548 | 466 | 
+| 2022-09-28 | 544 | 464 | 
+| 2022-09-27 | 542 | 465 | 
+| 2022-09-26 | 540 | 464 | 
+| 2022-09-25 | 539 | 464 | 
+| 2022-09-24 | 538 | 463 | 
+| 2022-09-23 | 538 | 461 | 
 | 2022-09-22 | 536 | 460 | 
 | 2022-09-21 | 534 | 457 | 
 | 2022-09-20 | 534 | 454 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 521 | 423 | 
 | 2022-09-08 | 519 | 417 | 
 | 2022-09-07 | 519 | 417 | 
-| 2022-09-06 | 519 | 416 | 
-| 2022-09-05 | 520 | 416 | 
-| 2022-09-04 | 518 | 415 | 
-| 2022-09-03 | 516 | 415 | 
-| 2022-09-02 | 516 | 415 | 
-| 2022-09-01 | 513 | 414 | 
-| 2022-08-31 | 512 | 414 | 
-| 2022-08-30 | 510 | 414 | 
-| 2022-08-29 | 510 | 412 | 
-| 2022-08-28 | 508 | 408 | 
-| 2022-08-27 | 508 | 408 | 
-| 2022-08-26 | 508 | 408 | 
-| 2022-08-25 | 506 | 407 | 
-| 2022-08-24 | 506 | 406 | 
 
 
 [Detailed charts & statistics for duneanalytics/spellbook](https://reviewgithub.com/rep/duneanalytics/spellbook)

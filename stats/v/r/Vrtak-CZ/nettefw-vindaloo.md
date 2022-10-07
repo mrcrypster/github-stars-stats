@@ -1,12 +1,12 @@
-# Vrtak-CZ/nettefw-vindaloo / stars & forks statistics
-
-[Open repository/Vrtak-CZ/nettefw-vindaloo](https://github.com/Vrtak-CZ/nettefw-vindaloo)
+# Vrtak-CZ/nettefw-vindaloo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Vrtak-CZ/nettefw-vindaloo)
 
 ## Historical data
 | Date | Stars | Forks |

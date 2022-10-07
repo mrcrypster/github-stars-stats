@@ -1,6 +1,4 @@
-# respack-dev/wan2respack / stars & forks statistics
-
-[Open repository/respack-dev/wan2respack](https://github.com/respack-dev/wan2respack)
+# respack-dev/wan2respack - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/respack-dev/wan2respack)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2 | 1 | 
+| 2022-10-06 | 2 | 1 | 
+| 2022-10-05 | 2 | 1 | 
+| 2022-10-04 | 2 | 1 | 
+| 2022-10-03 | 2 | 1 | 
+| 2022-10-02 | 2 | 1 | 
+| 2022-10-01 | 2 | 1 | 
+| 2022-09-30 | 2 | 1 | 
+| 2022-09-29 | 2 | 1 | 
+| 2022-09-28 | 2 | 1 | 
+| 2022-09-27 | 2 | 1 | 
 | 2022-09-26 | 2 | 1 | 
 | 2022-09-25 | 2 | 1 | 
 | 2022-09-24 | 2 | 1 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
-| 2022-09-06 | - | 1 | 
-| 2022-09-05 | - | 1 | 
-| 2022-09-04 | - | 1 | 
-| 2022-09-03 | - | 1 | 
-| 2022-09-02 | - | 1 | 
-| 2022-09-01 | - | 1 | 
-| 2022-08-31 | - | 1 | 
-| 2022-08-30 | - | 1 | 
-| 2022-08-29 | - | - | 
-| 2022-08-28 | - | - | 
-| 2022-08-27 | - | - | 
 
 
 [Detailed charts & statistics for respack-dev/wan2respack](https://reviewgithub.com/rep/respack-dev/wan2respack)

@@ -1,16 +1,26 @@
-# privacy-protection-tools/anti-AD / stars & forks statistics
-
-[Open repository/privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)
+# privacy-protection-tools/anti-AD - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 589
+☋ Forks: 590
 
-★ Stars: 5123
+★ Stars: 5180
+
+[Open repository](https://github.com/privacy-protection-tools/anti-AD)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 5180 | 590 | 
+| 2022-10-06 | 5176 | 590 | 
+| 2022-10-05 | 5173 | 589 | 
+| 2022-10-04 | 5171 | 589 | 
+| 2022-10-03 | 5167 | 589 | 
+| 2022-10-02 | 5164 | 588 | 
+| 2022-10-01 | 5161 | 588 | 
+| 2022-09-30 | 5153 | 588 | 
+| 2022-09-29 | 5147 | 589 | 
+| 2022-09-28 | 5138 | 589 | 
 | 2022-09-27 | 5123 | 589 | 
 | 2022-09-26 | 5110 | 589 | 
 | 2022-09-25 | 5105 | 589 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 5042 | 588 | 
 | 2022-09-08 | 5039 | 588 | 
 | 2022-09-07 | 5037 | 589 | 
-| 2022-09-06 | 5035 | 589 | 
-| 2022-09-05 | 5033 | 588 | 
-| 2022-09-04 | 5028 | 588 | 
-| 2022-09-03 | 5025 | 588 | 
-| 2022-09-02 | 5019 | 588 | 
-| 2022-09-01 | 5012 | 588 | 
-| 2022-08-31 | 5005 | 588 | 
-| 2022-08-30 | 4998 | 588 | 
-| 2022-08-29 | 4994 | 587 | 
-| 2022-08-28 | 4992 | 587 | 
 
 
 [Detailed charts & statistics for privacy-protection-tools/anti-AD](https://reviewgithub.com/rep/privacy-protection-tools/anti-AD)

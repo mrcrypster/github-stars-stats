@@ -1,16 +1,29 @@
-# HolographicHat/YaeAchievement / stars & forks statistics
-
-[Open repository/HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement)
+# HolographicHat/YaeAchievement - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 26
+☋ Forks: 30
 
-★ Stars: 330
+★ Stars: 365
+
+[Open repository](https://github.com/HolographicHat/YaeAchievement)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 365 | 30 | 
+| 2022-10-05 | 362 | 30 | 
+| 2022-10-04 | 359 | 30 | 
+| 2022-10-03 | 356 | 30 | 
+| 2022-10-02 | 354 | 28 | 
+| 2022-10-01 | 350 | 27 | 
+| 2022-09-30 | 345 | 27 | 
+| 2022-09-29 | 346 | 28 | 
+| 2022-09-28 | 342 | 28 | 
+| 2022-09-27 | 338 | 28 | 
+| 2022-09-26 | 336 | 26 | 
+| 2022-09-25 | 335 | 26 | 
+| 2022-09-24 | 331 | 26 | 
 | 2022-09-23 | 330 | 26 | 
 | 2022-09-22 | 330 | 26 | 
 | 2022-09-21 | 330 | 26 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 312 | 27 | 
 | 2022-09-09 | 310 | 26 | 
 | 2022-09-08 | 309 | 26 | 
-| 2022-09-07 | 305 | 26 | 
-| 2022-09-06 | 302 | 26 | 
-| 2022-09-05 | 301 | 26 | 
-| 2022-09-04 | 299 | 26 | 
-| 2022-09-03 | 294 | 25 | 
-| 2022-09-02 | 289 | 25 | 
-| 2022-09-01 | 287 | 25 | 
-| 2022-08-31 | 283 | 24 | 
-| 2022-08-30 | 278 | 24 | 
-| 2022-08-29 | 275 | 23 | 
-| 2022-08-28 | 272 | 23 | 
-| 2022-08-27 | 267 | 22 | 
-| 2022-08-26 | 263 | 22 | 
-| 2022-08-25 | 262 | 22 | 
 
 
 [Detailed charts & statistics for HolographicHat/YaeAchievement](https://reviewgithub.com/rep/HolographicHat/YaeAchievement)

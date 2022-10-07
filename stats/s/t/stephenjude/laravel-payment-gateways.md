@@ -1,6 +1,4 @@
-# stephenjude/laravel-payment-gateways / stars & forks statistics
-
-[Open repository/stephenjude/laravel-payment-gateways](https://github.com/stephenjude/laravel-payment-gateways)
+# stephenjude/laravel-payment-gateways - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 57
 
+[Open repository](https://github.com/stephenjude/laravel-payment-gateways)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 57 | 6 | 
+| 2022-10-05 | 57 | 6 | 
+| 2022-10-04 | 57 | 6 | 
+| 2022-10-03 | 57 | 6 | 
 | 2022-10-02 | 57 | 6 | 
 | 2022-10-01 | 57 | 6 | 
 | 2022-09-30 | 57 | 6 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 55 | 6 | 
 | 2022-09-09 | 54 | 6 | 
 | 2022-09-08 | 52 | 6 | 
-| 2022-09-07 | 49 | 6 | 
-| 2022-09-06 | 47 | 6 | 
-| 2022-09-05 | 45 | 6 | 
-| 2022-09-04 | 39 | 6 | 
-| 2022-09-03 | 30 | 5 | 
 
 
 [Detailed charts & statistics for stephenjude/laravel-payment-gateways](https://reviewgithub.com/rep/stephenjude/laravel-payment-gateways)

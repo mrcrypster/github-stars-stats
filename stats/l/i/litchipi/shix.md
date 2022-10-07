@@ -1,6 +1,4 @@
-# litchipi/shix / stars & forks statistics
-
-[Open repository/litchipi/shix](https://github.com/litchipi/shix)
+# litchipi/shix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 13
 
+[Open repository](https://github.com/litchipi/shix)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 13 | - | 
+| 2022-10-05 | 13 | - | 
+| 2022-10-04 | 13 | - | 
+| 2022-10-03 | 13 | - | 
+| 2022-10-02 | 13 | - | 
+| 2022-10-01 | 13 | - | 
+| 2022-09-30 | 13 | - | 
 | 2022-09-29 | 13 | - | 
 | 2022-09-28 | 13 | - | 
 | 2022-09-27 | 13 | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | - | 
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
-| 2022-09-07 | 12 | - | 
-| 2022-09-06 | 12 | - | 
-| 2022-09-05 | 12 | - | 
-| 2022-09-04 | 12 | - | 
-| 2022-09-03 | 12 | - | 
-| 2022-09-02 | 12 | - | 
-| 2022-09-01 | 10 | - | 
-| 2022-08-31 | 10 | - | 
 
 
 [Detailed charts & statistics for litchipi/shix](https://reviewgithub.com/rep/litchipi/shix)

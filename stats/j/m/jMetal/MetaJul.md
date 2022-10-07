@@ -1,12 +1,12 @@
-# jMetal/MetaJul / stars & forks statistics
-
-[Open repository/jMetal/MetaJul](https://github.com/jMetal/MetaJul)
+# jMetal/MetaJul - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/jMetal/MetaJul)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# 14islands/iscroll-floating-headers / stars & forks statistics
-
-[Open repository/14islands/iscroll-floating-headers](https://github.com/14islands/iscroll-floating-headers)
+# 14islands/iscroll-floating-headers - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 24
+
+[Open repository](https://github.com/14islands/iscroll-floating-headers)
 
 ## Historical data
 | Date | Stars | Forks |

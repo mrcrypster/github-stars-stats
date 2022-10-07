@@ -1,16 +1,25 @@
-# varadbhogayata/varadbhogayata.github.io / stars & forks statistics
-
-[Open repository/varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io)
+# varadbhogayata/varadbhogayata.github.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 233
+☋ Forks: 235
 
-★ Stars: 375
+★ Stars: 379
+
+[Open repository](https://github.com/varadbhogayata/varadbhogayata.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 379 | 235 | 
+| 2022-10-06 | 377 | 235 | 
+| 2022-10-05 | 377 | 235 | 
+| 2022-10-04 | 376 | 235 | 
+| 2022-10-03 | 376 | 235 | 
+| 2022-10-02 | 376 | 235 | 
+| 2022-10-01 | 375 | 234 | 
+| 2022-09-30 | 375 | 235 | 
+| 2022-09-29 | 375 | 235 | 
 | 2022-09-28 | 375 | 233 | 
 | 2022-09-27 | 374 | 234 | 
 | 2022-09-26 | 374 | 233 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 366 | 225 | 
 | 2022-09-08 | 366 | 225 | 
 | 2022-09-07 | 366 | 223 | 
-| 2022-09-06 | 366 | 224 | 
-| 2022-09-05 | 364 | 224 | 
-| 2022-09-04 | 363 | 223 | 
-| 2022-09-03 | 363 | 223 | 
-| 2022-09-02 | 363 | 224 | 
-| 2022-09-01 | 363 | 224 | 
-| 2022-08-31 | 361 | 226 | 
-| 2022-08-30 | 361 | 224 | 
-| 2022-08-29 | 362 | 224 | 
 
 
 [Detailed charts & statistics for varadbhogayata/varadbhogayata.github.io](https://reviewgithub.com/rep/varadbhogayata/varadbhogayata.github.io)

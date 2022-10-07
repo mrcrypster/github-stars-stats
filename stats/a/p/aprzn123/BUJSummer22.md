@@ -1,12 +1,12 @@
-# aprzn123/BUJSummer22 / stars & forks statistics
-
-[Open repository/aprzn123/BUJSummer22](https://github.com/aprzn123/BUJSummer22)
+# aprzn123/BUJSummer22 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/aprzn123/BUJSummer22)
 
 ## Historical data
 | Date | Stars | Forks |

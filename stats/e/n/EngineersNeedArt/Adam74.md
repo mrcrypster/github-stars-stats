@@ -1,16 +1,30 @@
-# EngineersNeedArt/Adam74 / stars & forks statistics
-
-[Open repository/EngineersNeedArt/Adam74](https://github.com/EngineersNeedArt/Adam74)
+# EngineersNeedArt/Adam74 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 38
+
+[Open repository](https://github.com/EngineersNeedArt/Adam74)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 38 | - | 
+| 2022-10-06 | 38 | - | 
+| 2022-10-05 | 38 | - | 
+| 2022-10-04 | 38 | - | 
+| 2022-10-03 | 38 | - | 
+| 2022-10-02 | 38 | - | 
+| 2022-10-01 | 38 | - | 
+| 2022-09-30 | 38 | - | 
+| 2022-09-29 | 38 | - | 
+| 2022-09-28 | 38 | - | 
+| 2022-09-27 | 38 | - | 
+| 2022-09-26 | 38 | - | 
+| 2022-09-25 | 38 | - | 
+| 2022-09-24 | 37 | - | 
 | 2022-09-23 | 37 | - | 
 | 2022-09-22 | 37 | - | 
 | 2022-09-21 | 37 | - | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 37 | - | 
 | 2022-09-08 | 37 | - | 
 | 2022-09-07 | 37 | - | 
-| 2022-09-06 | 37 | - | 
-| 2022-09-05 | 37 | - | 
-| 2022-09-04 | 37 | - | 
-| 2022-09-03 | 37 | - | 
-| 2022-09-02 | 37 | - | 
-| 2022-09-01 | 37 | - | 
-| 2022-08-31 | 36 | - | 
-| 2022-08-30 | 36 | - | 
-| 2022-08-29 | 35 | - | 
-| 2022-08-28 | 35 | - | 
-| 2022-08-27 | 35 | - | 
-| 2022-08-26 | 35 | - | 
-| 2022-08-25 | 35 | - | 
-| 2022-08-24 | 34 | - | 
 
 
 [Detailed charts & statistics for EngineersNeedArt/Adam74](https://reviewgithub.com/rep/EngineersNeedArt/Adam74)

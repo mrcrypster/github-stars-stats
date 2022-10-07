@@ -1,12 +1,12 @@
-# DiegoDBLe/Python-Basico-Lets-Code / stars & forks statistics
-
-[Open repository/DiegoDBLe/Python-Basico-Lets-Code](https://github.com/DiegoDBLe/Python-Basico-Lets-Code)
+# DiegoDBLe/Python-Basico-Lets-Code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 33
+
+[Open repository](https://github.com/DiegoDBLe/Python-Basico-Lets-Code)
 
 ## Historical data
 | Date | Stars | Forks |

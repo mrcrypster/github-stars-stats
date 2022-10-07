@@ -1,12 +1,12 @@
-# digitalblossom/alternative-frontends / stars & forks statistics
-
-[Open repository/digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends)
+# digitalblossom/alternative-frontends - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 978
+
+[Open repository](https://github.com/digitalblossom/alternative-frontends)
 
 ## Historical data
 | Date | Stars | Forks |

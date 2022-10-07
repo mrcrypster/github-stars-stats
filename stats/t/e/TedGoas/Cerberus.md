@@ -1,12 +1,12 @@
-# TedGoas/Cerberus / stars & forks statistics
-
-[Open repository/TedGoas/Cerberus](https://github.com/TedGoas/Cerberus)
+# TedGoas/Cerberus - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 706
 
 ★ Stars: 4551
+
+[Open repository](https://github.com/TedGoas/Cerberus)
 
 ## Historical data
 | Date | Stars | Forks |

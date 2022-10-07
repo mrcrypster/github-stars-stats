@@ -1,12 +1,12 @@
-# Azure-Samples/aci-availability-zones / stars & forks statistics
-
-[Open repository/Azure-Samples/aci-availability-zones](https://github.com/Azure-Samples/aci-availability-zones)
+# Azure-Samples/aci-availability-zones - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/Azure-Samples/aci-availability-zones)
 
 ## Historical data
 | Date | Stars | Forks |

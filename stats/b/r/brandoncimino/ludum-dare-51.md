@@ -1,12 +1,12 @@
-# brandoncimino/ludum-dare-51 / stars & forks statistics
-
-[Open repository/brandoncimino/ludum-dare-51](https://github.com/brandoncimino/ludum-dare-51)
+# brandoncimino/ludum-dare-51 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/brandoncimino/ludum-dare-51)
 
 ## Historical data
 | Date | Stars | Forks |

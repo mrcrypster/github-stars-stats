@@ -1,12 +1,12 @@
-# erikdarlingdata/DarlingData / stars & forks statistics
-
-[Open repository/erikdarlingdata/DarlingData](https://github.com/erikdarlingdata/DarlingData)
+# erikdarlingdata/DarlingData - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
 ★ Stars: 264
+
+[Open repository](https://github.com/erikdarlingdata/DarlingData)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# LaVieon/GrasshopperTetris / stars & forks statistics
-
-[Open repository/LaVieon/GrasshopperTetris](https://github.com/LaVieon/GrasshopperTetris)
+# LaVieon/GrasshopperTetris - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 106
 
+[Open repository](https://github.com/LaVieon/GrasshopperTetris)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 106 | 30 | 
+| 2022-10-05 | 106 | 30 | 
+| 2022-10-04 | 106 | 30 | 
+| 2022-10-03 | 106 | 30 | 
+| 2022-10-02 | 106 | 30 | 
+| 2022-10-01 | 106 | 30 | 
+| 2022-09-30 | 106 | 30 | 
 | 2022-09-29 | 106 | 30 | 
 | 2022-09-28 | 106 | 30 | 
 | 2022-09-27 | 106 | 30 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 106 | 30 | 
 | 2022-09-09 | 106 | 30 | 
 | 2022-09-08 | 106 | 30 | 
-| 2022-09-07 | 106 | 30 | 
-| 2022-09-06 | 106 | 30 | 
-| 2022-09-05 | 105 | 30 | 
-| 2022-09-04 | 104 | 30 | 
-| 2022-09-03 | 91 | 27 | 
-| 2022-09-02 | 65 | 18 | 
-| 2022-09-01 | 61 | 17 | 
-| 2022-08-31 | 43 | 14 | 
 
 
 [Detailed charts & statistics for LaVieon/GrasshopperTetris](https://reviewgithub.com/rep/LaVieon/GrasshopperTetris)

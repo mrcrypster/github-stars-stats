@@ -1,6 +1,4 @@
-# traveloka/terraform-aws-vpc-peering / stars & forks statistics
-
-[Open repository/traveloka/terraform-aws-vpc-peering](https://github.com/traveloka/terraform-aws-vpc-peering)
+# traveloka/terraform-aws-vpc-peering - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/traveloka/terraform-aws-vpc-peering)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 3 | 13 | 
 | 2022-10-05 | 3 | 13 | 
 | 2022-10-04 | 3 | 13 | 
 | 2022-10-03 | 3 | 13 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | 13 | 
 | 2022-09-09 | 3 | 13 | 
 | 2022-09-08 | 3 | 13 | 
-| 2022-09-07 | 3 | 13 | 
-| 2022-09-06 | 2 | 13 | 
 
 
 [Detailed charts & statistics for traveloka/terraform-aws-vpc-peering](https://reviewgithub.com/rep/traveloka/terraform-aws-vpc-peering)

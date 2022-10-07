@@ -1,12 +1,12 @@
-# Zer0d/jrepo / stars & forks statistics
-
-[Open repository/Zer0d/jrepo](https://github.com/Zer0d/jrepo)
+# Zer0d/jrepo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Zer0d/jrepo)
 
 ## Historical data
 | Date | Stars | Forks |

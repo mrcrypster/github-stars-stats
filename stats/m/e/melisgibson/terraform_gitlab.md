@@ -1,12 +1,12 @@
-# melisgibson/terraform_gitlab / stars & forks statistics
-
-[Open repository/melisgibson/terraform_gitlab](https://github.com/melisgibson/terraform_gitlab)
+# melisgibson/terraform_gitlab - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 3
+
+[Open repository](https://github.com/melisgibson/terraform_gitlab)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# kids-first/clovoc-app-fhir-tabulator / stars & forks statistics
-
-[Open repository/kids-first/clovoc-app-fhir-tabulator](https://github.com/kids-first/clovoc-app-fhir-tabulator)
+# kids-first/clovoc-app-fhir-tabulator - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/kids-first/clovoc-app-fhir-tabulator)
 
 ## Historical data
 | Date | Stars | Forks |

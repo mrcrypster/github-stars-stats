@@ -1,6 +1,4 @@
-# uq-its-ss/design-system / stars & forks statistics
-
-[Open repository/uq-its-ss/design-system](https://github.com/uq-its-ss/design-system)
+# uq-its-ss/design-system - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 8
 
+[Open repository](https://github.com/uq-its-ss/design-system)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 8 | 4 | 
 | 2022-10-05 | 8 | 4 | 
 | 2022-10-04 | 8 | 4 | 
 | 2022-10-03 | 8 | 4 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 8 | 4 | 
 | 2022-09-09 | 8 | 4 | 
 | 2022-09-08 | 8 | 4 | 
-| 2022-09-07 | 8 | 4 | 
-| 2022-09-06 | 8 | 4 | 
 
 
 [Detailed charts & statistics for uq-its-ss/design-system](https://reviewgithub.com/rep/uq-its-ss/design-system)

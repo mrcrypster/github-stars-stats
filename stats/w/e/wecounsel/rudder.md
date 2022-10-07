@@ -1,12 +1,12 @@
-# wecounsel/rudder / stars & forks statistics
-
-[Open repository/wecounsel/rudder](https://github.com/wecounsel/rudder)
+# wecounsel/rudder - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/wecounsel/rudder)
 
 ## Historical data
 | Date | Stars | Forks |

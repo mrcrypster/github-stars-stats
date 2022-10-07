@@ -1,6 +1,4 @@
-# caliphdev/filezone-v2 / stars & forks statistics
-
-[Open repository/caliphdev/filezone-v2](https://github.com/caliphdev/filezone-v2)
+# caliphdev/filezone-v2 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 6
 
+[Open repository](https://github.com/caliphdev/filezone-v2)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6 | 7 | 
+| 2022-10-05 | 6 | 7 | 
+| 2022-10-04 | 6 | 7 | 
+| 2022-10-03 | 6 | 7 | 
+| 2022-10-02 | 6 | 7 | 
 | 2022-10-01 | 6 | 7 | 
 | 2022-09-30 | 6 | 7 | 
 | 2022-09-29 | 6 | 7 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 8 | 
 | 2022-09-09 | 6 | 8 | 
 | 2022-09-08 | 6 | 8 | 
-| 2022-09-07 | 6 | 8 | 
-| 2022-09-06 | 6 | 8 | 
-| 2022-09-05 | 6 | 8 | 
-| 2022-09-04 | 6 | 8 | 
-| 2022-09-03 | 5 | 7 | 
-| 2022-09-02 | 5 | 7 | 
 
 
 [Detailed charts & statistics for caliphdev/filezone-v2](https://reviewgithub.com/rep/caliphdev/filezone-v2)

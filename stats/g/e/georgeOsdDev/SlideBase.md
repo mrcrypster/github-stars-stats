@@ -1,12 +1,12 @@
-# georgeOsdDev/SlideBase / stars & forks statistics
-
-[Open repository/georgeOsdDev/SlideBase](https://github.com/georgeOsdDev/SlideBase)
+# georgeOsdDev/SlideBase - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/georgeOsdDev/SlideBase)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# mbainter/momentum-tools / stars & forks statistics
-
-[Open repository/mbainter/momentum-tools](https://github.com/mbainter/momentum-tools)
+# mbainter/momentum-tools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 6
+
+[Open repository](https://github.com/mbainter/momentum-tools)
 
 ## Historical data
 | Date | Stars | Forks |

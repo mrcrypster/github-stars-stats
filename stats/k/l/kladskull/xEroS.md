@@ -1,12 +1,12 @@
-# kladskull/xEroS / stars & forks statistics
-
-[Open repository/kladskull/xEroS](https://github.com/kladskull/xEroS)
+# kladskull/xEroS - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 62
+
+[Open repository](https://github.com/kladskull/xEroS)
 
 ## Historical data
 | Date | Stars | Forks |

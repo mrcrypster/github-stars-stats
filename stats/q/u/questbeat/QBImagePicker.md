@@ -1,12 +1,12 @@
-# questbeat/QBImagePicker / stars & forks statistics
-
-[Open repository/questbeat/QBImagePicker](https://github.com/questbeat/QBImagePicker)
+# questbeat/QBImagePicker - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 555
 
 ★ Stars: 1792
+
+[Open repository](https://github.com/questbeat/QBImagePicker)
 
 ## Historical data
 | Date | Stars | Forks |

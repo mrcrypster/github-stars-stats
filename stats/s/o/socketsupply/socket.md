@@ -1,12 +1,12 @@
-# socketsupply/socket / stars & forks statistics
-
-[Open repository/socketsupply/socket](https://github.com/socketsupply/socket)
+# socketsupply/socket - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 106
+
+[Open repository](https://github.com/socketsupply/socket)
 
 ## Historical data
 | Date | Stars | Forks |

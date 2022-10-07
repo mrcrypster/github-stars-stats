@@ -1,12 +1,12 @@
-# frontlinesms/flip / stars & forks statistics
-
-[Open repository/frontlinesms/flip](https://github.com/frontlinesms/flip)
+# frontlinesms/flip - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/frontlinesms/flip)
 
 ## Historical data
 | Date | Stars | Forks |

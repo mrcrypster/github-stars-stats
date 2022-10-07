@@ -1,16 +1,26 @@
-# kageurufu/steamdeck_startup_animations / stars & forks statistics
-
-[Open repository/kageurufu/steamdeck_startup_animations](https://github.com/kageurufu/steamdeck_startup_animations)
+# kageurufu/steamdeck_startup_animations - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 11
+☋ Forks: 15
 
-★ Stars: 123
+★ Stars: 163
+
+[Open repository](https://github.com/kageurufu/steamdeck_startup_animations)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 163 | 15 | 
+| 2022-10-06 | 157 | 14 | 
+| 2022-10-05 | 153 | 14 | 
+| 2022-10-04 | 151 | 12 | 
+| 2022-10-03 | 151 | 12 | 
+| 2022-10-02 | 134 | 12 | 
+| 2022-10-01 | 132 | 12 | 
+| 2022-09-30 | 130 | 12 | 
+| 2022-09-29 | 128 | 12 | 
+| 2022-09-28 | 123 | 11 | 
 | 2022-09-27 | 123 | 11 | 
 | 2022-09-26 | 119 | 11 | 
 | 2022-09-25 | 117 | 11 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 86 | 5 | 
 | 2022-09-08 | 84 | 5 | 
 | 2022-09-07 | 84 | 5 | 
-| 2022-09-06 | 84 | 5 | 
-| 2022-09-05 | 83 | 5 | 
-| 2022-09-04 | 82 | 5 | 
-| 2022-09-03 | 82 | 5 | 
-| 2022-09-02 | 82 | 4 | 
-| 2022-09-01 | 79 | 4 | 
-| 2022-08-31 | 78 | 4 | 
-| 2022-08-30 | 76 | 3 | 
-| 2022-08-29 | 76 | 3 | 
-| 2022-08-28 | 75 | 3 | 
 
 
 [Detailed charts & statistics for kageurufu/steamdeck_startup_animations](https://reviewgithub.com/rep/kageurufu/steamdeck_startup_animations)

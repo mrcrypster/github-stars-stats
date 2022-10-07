@@ -1,6 +1,4 @@
-# input-output-hk/marlowe-hydra-poc / stars & forks statistics
-
-[Open repository/input-output-hk/marlowe-hydra-poc](https://github.com/input-output-hk/marlowe-hydra-poc)
+# input-output-hk/marlowe-hydra-poc - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 4
 
+[Open repository](https://github.com/input-output-hk/marlowe-hydra-poc)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 4 | - | 
+| 2022-10-05 | 4 | - | 
+| 2022-10-04 | 4 | - | 
+| 2022-10-03 | 4 | - | 
+| 2022-10-02 | 4 | - | 
+| 2022-10-01 | 4 | - | 
+| 2022-09-30 | 4 | - | 
 | 2022-09-29 | 4 | - | 
 | 2022-09-28 | 4 | - | 
 | 2022-09-27 | 4 | - | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4 | - | 
 | 2022-09-09 | 4 | - | 
 | 2022-09-08 | 4 | - | 
-| 2022-09-07 | 4 | - | 
-| 2022-09-06 | 4 | - | 
-| 2022-09-05 | 4 | - | 
-| 2022-09-04 | 4 | - | 
-| 2022-09-03 | 4 | - | 
-| 2022-09-02 | 4 | - | 
-| 2022-09-01 | 4 | - | 
-| 2022-08-31 | 4 | - | 
 
 
 [Detailed charts & statistics for input-output-hk/marlowe-hydra-poc](https://reviewgithub.com/rep/input-output-hk/marlowe-hydra-poc)

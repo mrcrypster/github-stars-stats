@@ -1,46 +1,45 @@
-# Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng / stars & forks statistics
-
-[Open repository/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
+# Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 95
+★ Stars: 109
+
+[Open repository](https://github.com/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-24 | 95 | 4 | 
-| 2022-08-23 | 95 | 4 | 
-| 2022-08-22 | 95 | 4 | 
-| 2022-08-21 | 94 | 4 | 
-| 2022-08-20 | 92 | 4 | 
-| 2022-08-19 | 92 | 4 | 
-| 2022-08-18 | 92 | 4 | 
-| 2022-08-17 | 92 | 4 | 
-| 2022-08-16 | 92 | 4 | 
-| 2022-08-15 | 89 | 4 | 
-| 2022-08-14 | 88 | 4 | 
-| 2022-08-13 | 87 | 4 | 
-| 2022-08-12 | 86 | 4 | 
-| 2022-08-11 | 83 | 4 | 
-| 2022-08-10 | 81 | 3 | 
-| 2022-08-09 | 67 | 1 | 
-| 2022-08-08 | 57 | 1 | 
-| 2022-08-07 | 56 | 1 | 
-| 2022-08-06 | 55 | 1 | 
-| 2022-08-05 | 55 | 1 | 
-| 2022-08-04 | 55 | 1 | 
-| 2022-08-03 | 55 | 1 | 
-| 2022-08-02 | 55 | 1 | 
-| 2022-08-01 | 55 | 1 | 
-| 2022-07-31 | 55 | 1 | 
-| 2022-07-30 | 55 | 1 | 
-| 2022-07-29 | 52 | 1 | 
-| 2022-07-28 | 50 | 1 | 
-| 2022-07-27 | 45 | 1 | 
-| 2022-07-26 | 43 | 1 | 
+| 2022-10-06 | 109 | 4 | 
+| 2022-10-05 | 109 | 4 | 
+| 2022-10-04 | 109 | 4 | 
+| 2022-10-03 | 109 | 4 | 
+| 2022-10-02 | 109 | 4 | 
+| 2022-10-01 | 109 | 4 | 
+| 2022-09-30 | 109 | 4 | 
+| 2022-09-29 | 109 | 4 | 
+| 2022-09-28 | 109 | 4 | 
+| 2022-09-27 | 108 | 4 | 
+| 2022-09-26 | 108 | 4 | 
+| 2022-09-25 | 108 | 4 | 
+| 2022-09-24 | 107 | 4 | 
+| 2022-09-23 | 106 | 4 | 
+| 2022-09-22 | 105 | 4 | 
+| 2022-09-21 | 105 | 4 | 
+| 2022-09-20 | 105 | 4 | 
+| 2022-09-19 | 105 | 4 | 
+| 2022-09-18 | 105 | 4 | 
+| 2022-09-17 | 104 | 4 | 
+| 2022-09-16 | 103 | 4 | 
+| 2022-09-15 | 103 | 4 | 
+| 2022-09-14 | 103 | 4 | 
+| 2022-09-13 | 103 | 4 | 
+| 2022-09-12 | 103 | 4 | 
+| 2022-09-11 | 103 | 4 | 
+| 2022-09-10 | 103 | 4 | 
+| 2022-09-09 | 103 | 4 | 
+| 2022-09-08 | 103 | 4 | 
 
 
 [Detailed charts & statistics for Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng](https://reviewgithub.com/rep/Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng)

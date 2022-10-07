@@ -1,16 +1,25 @@
-# ZDoom/gzdoom / stars & forks statistics
-
-[Open repository/ZDoom/gzdoom](https://github.com/ZDoom/gzdoom)
+# ZDoom/gzdoom - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 414
+☋ Forks: 416
 
-★ Stars: 1577
+★ Stars: 1584
+
+[Open repository](https://github.com/ZDoom/gzdoom)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1584 | 416 | 
+| 2022-10-06 | 1583 | 416 | 
+| 2022-10-05 | 1582 | 416 | 
+| 2022-10-04 | 1581 | 416 | 
+| 2022-10-03 | 1579 | 415 | 
+| 2022-10-02 | 1579 | 414 | 
+| 2022-10-01 | 1579 | 414 | 
+| 2022-09-30 | 1578 | 414 | 
+| 2022-09-29 | 1578 | 414 | 
 | 2022-09-28 | 1577 | 414 | 
 | 2022-09-27 | 1577 | 414 | 
 | 2022-09-26 | 1577 | 414 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1557 | 407 | 
 | 2022-09-08 | 1557 | 407 | 
 | 2022-09-07 | 1558 | 407 | 
-| 2022-09-06 | 1554 | 407 | 
-| 2022-09-05 | 1549 | 407 | 
-| 2022-09-04 | 1548 | 407 | 
-| 2022-09-03 | 1545 | 406 | 
-| 2022-09-02 | 1541 | 404 | 
-| 2022-09-01 | 1537 | 403 | 
-| 2022-08-31 | 1535 | 403 | 
-| 2022-08-30 | 1532 | 403 | 
-| 2022-08-29 | 1531 | 403 | 
 
 
 [Detailed charts & statistics for ZDoom/gzdoom](https://reviewgithub.com/rep/ZDoom/gzdoom)

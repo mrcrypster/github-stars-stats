@@ -1,16 +1,24 @@
-# Azure/azure-sdk-for-go / stars & forks statistics
-
-[Open repository/Azure/azure-sdk-for-go](https://github.com/Azure/azure-sdk-for-go)
+# Azure/azure-sdk-for-go - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 676
+☋ Forks: 682
 
-★ Stars: 1145
+★ Stars: 1152
+
+[Open repository](https://github.com/Azure/azure-sdk-for-go)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1152 | 682 | 
+| 2022-10-05 | 1151 | 681 | 
+| 2022-10-04 | 1148 | 680 | 
+| 2022-10-03 | 1148 | 680 | 
+| 2022-10-02 | 1147 | 680 | 
+| 2022-10-01 | 1146 | 680 | 
+| 2022-09-30 | 1144 | 678 | 
+| 2022-09-29 | 1144 | 676 | 
 | 2022-09-28 | 1145 | 676 | 
 | 2022-09-27 | 1144 | 676 | 
 | 2022-09-26 | 1143 | 674 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1138 | 665 | 
 | 2022-09-09 | 1137 | 665 | 
 | 2022-09-08 | 1135 | 664 | 
-| 2022-09-07 | 1134 | 663 | 
-| 2022-09-06 | 1133 | 663 | 
-| 2022-09-05 | 1132 | 664 | 
-| 2022-09-04 | 1132 | 664 | 
-| 2022-09-03 | 1132 | 664 | 
-| 2022-09-02 | 1133 | 664 | 
-| 2022-09-01 | 1132 | 664 | 
-| 2022-08-31 | 1131 | 663 | 
-| 2022-08-30 | 1128 | 663 | 
 
 
 [Detailed charts & statistics for Azure/azure-sdk-for-go](https://reviewgithub.com/rep/Azure/azure-sdk-for-go)

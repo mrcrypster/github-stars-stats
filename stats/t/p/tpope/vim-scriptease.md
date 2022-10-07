@@ -1,16 +1,29 @@
-# tpope/vim-scriptease / stars & forks statistics
-
-[Open repository/tpope/vim-scriptease](https://github.com/tpope/vim-scriptease)
+# tpope/vim-scriptease - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
-★ Stars: 616
+★ Stars: 619
+
+[Open repository](https://github.com/tpope/vim-scriptease)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 619 | 46 | 
+| 2022-10-06 | 619 | 46 | 
+| 2022-10-05 | 619 | 46 | 
+| 2022-10-04 | 619 | 46 | 
+| 2022-10-03 | 619 | 46 | 
+| 2022-10-02 | 618 | 46 | 
+| 2022-10-01 | 618 | 46 | 
+| 2022-09-30 | 618 | 46 | 
+| 2022-09-29 | 618 | 46 | 
+| 2022-09-28 | 618 | 46 | 
+| 2022-09-27 | 617 | 46 | 
+| 2022-09-26 | 617 | 46 | 
+| 2022-09-25 | 616 | 46 | 
 | 2022-09-23 | 616 | 46 | 
 | 2022-09-22 | 616 | 46 | 
 | 2022-09-21 | 616 | 46 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 614 | 46 | 
 | 2022-09-08 | 614 | 46 | 
 | 2022-09-07 | 614 | 46 | 
-| 2022-09-06 | 614 | 47 | 
-| 2022-09-05 | 614 | 47 | 
-| 2022-09-04 | 614 | 47 | 
-| 2022-09-03 | 614 | 47 | 
-| 2022-09-02 | 614 | 47 | 
-| 2022-09-01 | 614 | 47 | 
-| 2022-08-31 | 614 | 47 | 
-| 2022-08-30 | 614 | 47 | 
-| 2022-08-29 | 614 | 47 | 
-| 2022-08-28 | 614 | 47 | 
-| 2022-08-27 | 614 | 47 | 
-| 2022-08-26 | 614 | 47 | 
-| 2022-08-25 | 614 | 47 | 
 
 
 [Detailed charts & statistics for tpope/vim-scriptease](https://reviewgithub.com/rep/tpope/vim-scriptease)

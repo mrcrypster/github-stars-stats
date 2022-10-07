@@ -1,12 +1,12 @@
-# athuras/Arduino / stars & forks statistics
-
-[Open repository/athuras/Arduino](https://github.com/athuras/Arduino)
+# athuras/Arduino - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
+
+[Open repository](https://github.com/athuras/Arduino)
 
 ## Historical data
 | Date | Stars | Forks |

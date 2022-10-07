@@ -1,12 +1,12 @@
-# yujinrobot/yocs_msgs / stars & forks statistics
-
-[Open repository/yujinrobot/yocs_msgs](https://github.com/yujinrobot/yocs_msgs)
+# yujinrobot/yocs_msgs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 4
+
+[Open repository](https://github.com/yujinrobot/yocs_msgs)
 
 ## Historical data
 | Date | Stars | Forks |

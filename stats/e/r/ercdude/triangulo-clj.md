@@ -1,12 +1,12 @@
-# ercdude/triangulo-clj / stars & forks statistics
-
-[Open repository/ercdude/triangulo-clj](https://github.com/ercdude/triangulo-clj)
+# ercdude/triangulo-clj - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ercdude/triangulo-clj)
 
 ## Historical data
 | Date | Stars | Forks |

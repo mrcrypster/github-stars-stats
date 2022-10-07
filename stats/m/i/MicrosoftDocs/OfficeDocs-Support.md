@@ -1,12 +1,12 @@
-# MicrosoftDocs/OfficeDocs-Support / stars & forks statistics
-
-[Open repository/MicrosoftDocs/OfficeDocs-Support](https://github.com/MicrosoftDocs/OfficeDocs-Support)
+# MicrosoftDocs/OfficeDocs-Support - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 329
 
 ★ Stars: 95
+
+[Open repository](https://github.com/MicrosoftDocs/OfficeDocs-Support)
 
 ## Historical data
 | Date | Stars | Forks |

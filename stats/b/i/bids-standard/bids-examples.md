@@ -1,6 +1,4 @@
-# bids-standard/bids-examples / stars & forks statistics
-
-[Open repository/bids-standard/bids-examples](https://github.com/bids-standard/bids-examples)
+# bids-standard/bids-examples - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 121
 
+[Open repository](https://github.com/bids-standard/bids-examples)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 121 | 114 | 
+| 2022-10-05 | 121 | 114 | 
+| 2022-10-04 | 121 | 115 | 
+| 2022-10-03 | 121 | 115 | 
 | 2022-10-02 | 121 | 114 | 
 | 2022-10-01 | 121 | 114 | 
 | 2022-09-30 | 121 | 114 | 
@@ -37,10 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 121 | 112 | 
 | 2022-09-08 | 121 | 112 | 
 | 2022-09-07 | 121 | 112 | 
-| 2022-09-06 | 121 | 112 | 
-| 2022-09-05 | 121 | 112 | 
-| 2022-09-04 | 121 | 112 | 
-| 2022-09-03 | 120 | 112 | 
 
 
 [Detailed charts & statistics for bids-standard/bids-examples](https://reviewgithub.com/rep/bids-standard/bids-examples)

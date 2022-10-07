@@ -1,12 +1,12 @@
-# hippospace/hippo-swap / stars & forks statistics
-
-[Open repository/hippospace/hippo-swap](https://github.com/hippospace/hippo-swap)
+# hippospace/hippo-swap - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 30
+
+[Open repository](https://github.com/hippospace/hippo-swap)
 
 ## Historical data
 | Date | Stars | Forks |

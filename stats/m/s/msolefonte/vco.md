@@ -1,12 +1,12 @@
-# msolefonte/vco / stars & forks statistics
-
-[Open repository/msolefonte/vco](https://github.com/msolefonte/vco)
+# msolefonte/vco - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
+
+[Open repository](https://github.com/msolefonte/vco)
 
 ## Historical data
 | Date | Stars | Forks |

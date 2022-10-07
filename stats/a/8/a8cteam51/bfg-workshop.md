@@ -1,6 +1,4 @@
-# a8cteam51/bfg-workshop / stars & forks statistics
-
-[Open repository/a8cteam51/bfg-workshop](https://github.com/a8cteam51/bfg-workshop)
+# a8cteam51/bfg-workshop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/a8cteam51/bfg-workshop)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 4 | 
+| 2022-10-05 | - | 4 | 
+| 2022-10-04 | - | 4 | 
+| 2022-10-03 | - | 4 | 
 | 2022-10-02 | - | 4 | 
 | 2022-10-01 | - | 4 | 
 | 2022-09-30 | - | 4 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 4 | 
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
-| 2022-09-07 | - | 4 | 
-| 2022-09-06 | - | 4 | 
-| 2022-09-05 | - | 4 | 
-| 2022-09-04 | - | 4 | 
-| 2022-09-03 | - | 4 | 
 
 
 [Detailed charts & statistics for a8cteam51/bfg-workshop](https://reviewgithub.com/rep/a8cteam51/bfg-workshop)

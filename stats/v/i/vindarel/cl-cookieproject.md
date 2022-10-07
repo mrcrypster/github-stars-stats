@@ -1,12 +1,12 @@
-# vindarel/cl-cookieproject / stars & forks statistics
-
-[Open repository/vindarel/cl-cookieproject](https://github.com/vindarel/cl-cookieproject)
+# vindarel/cl-cookieproject - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 40
+
+[Open repository](https://github.com/vindarel/cl-cookieproject)
 
 ## Historical data
 | Date | Stars | Forks |

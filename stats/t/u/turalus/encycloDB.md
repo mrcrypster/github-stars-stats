@@ -1,16 +1,28 @@
-# turalus/encycloDB / stars & forks statistics
-
-[Open repository/turalus/encycloDB](https://github.com/turalus/encycloDB)
+# turalus/encycloDB - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 72
+☋ Forks: 71
 
-★ Stars: 139
+★ Stars: 140
+
+[Open repository](https://github.com/turalus/encycloDB)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 140 | 71 | 
+| 2022-10-06 | 140 | 71 | 
+| 2022-10-05 | 140 | 71 | 
+| 2022-10-04 | 140 | 71 | 
+| 2022-10-03 | 140 | 71 | 
+| 2022-10-02 | 140 | 71 | 
+| 2022-10-01 | 140 | 71 | 
+| 2022-09-30 | 140 | 71 | 
+| 2022-09-29 | 140 | 71 | 
+| 2022-09-28 | 140 | 71 | 
+| 2022-09-27 | 140 | 71 | 
+| 2022-09-26 | 140 | 71 | 
 | 2022-09-25 | 139 | 72 | 
 | 2022-09-24 | 139 | 72 | 
 | 2022-09-23 | 138 | 71 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 136 | 72 | 
 | 2022-09-09 | 136 | 72 | 
 | 2022-09-07 | 136 | 72 | 
-| 2022-09-06 | 136 | 72 | 
-| 2022-09-05 | 136 | 72 | 
-| 2022-09-04 | 136 | 72 | 
-| 2022-09-03 | 136 | 72 | 
-| 2022-09-02 | 136 | 72 | 
-| 2022-09-01 | 136 | 72 | 
-| 2022-08-31 | 136 | 72 | 
-| 2022-08-30 | 136 | 72 | 
-| 2022-08-29 | 136 | 72 | 
-| 2022-08-28 | 136 | 72 | 
-| 2022-08-27 | 136 | 72 | 
-| 2022-08-26 | 136 | 72 | 
 
 
 [Detailed charts & statistics for turalus/encycloDB](https://reviewgithub.com/rep/turalus/encycloDB)

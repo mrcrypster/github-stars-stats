@@ -1,16 +1,29 @@
-# wanghenshui/cppweeklynews / stars & forks statistics
-
-[Open repository/wanghenshui/cppweeklynews](https://github.com/wanghenshui/cppweeklynews)
+# wanghenshui/cppweeklynews - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
-★ Stars: 98
+★ Stars: 101
+
+[Open repository](https://github.com/wanghenshui/cppweeklynews)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 101 | 6 | 
+| 2022-10-06 | 101 | 6 | 
+| 2022-10-05 | 101 | 6 | 
+| 2022-10-04 | 99 | 6 | 
+| 2022-10-03 | 98 | 6 | 
+| 2022-10-02 | 98 | 6 | 
+| 2022-10-01 | 98 | 6 | 
+| 2022-09-30 | 98 | 6 | 
+| 2022-09-29 | 98 | 6 | 
+| 2022-09-28 | 98 | 6 | 
+| 2022-09-27 | 98 | 6 | 
+| 2022-09-26 | 98 | 6 | 
+| 2022-09-25 | 98 | 6 | 
 | 2022-09-24 | 98 | 6 | 
 | 2022-09-23 | 98 | 6 | 
 | 2022-09-22 | 98 | 6 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 93 | 6 | 
 | 2022-09-08 | 93 | 6 | 
 | 2022-09-07 | 93 | 6 | 
-| 2022-09-06 | 92 | 6 | 
-| 2022-09-05 | 90 | 6 | 
-| 2022-09-04 | 90 | 6 | 
-| 2022-09-03 | 89 | 6 | 
-| 2022-09-02 | 89 | 6 | 
-| 2022-09-01 | 87 | 6 | 
-| 2022-08-31 | 87 | 6 | 
-| 2022-08-30 | 85 | 6 | 
-| 2022-08-29 | 84 | 6 | 
-| 2022-08-28 | 84 | 6 | 
-| 2022-08-27 | 83 | 6 | 
-| 2022-08-26 | 82 | 6 | 
-| 2022-08-25 | 81 | 6 | 
 
 
 [Detailed charts & statistics for wanghenshui/cppweeklynews](https://reviewgithub.com/rep/wanghenshui/cppweeklynews)

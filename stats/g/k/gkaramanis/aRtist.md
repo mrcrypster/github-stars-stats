@@ -1,12 +1,12 @@
-# gkaramanis/aRtist / stars & forks statistics
-
-[Open repository/gkaramanis/aRtist](https://github.com/gkaramanis/aRtist)
+# gkaramanis/aRtist - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 167
+
+[Open repository](https://github.com/gkaramanis/aRtist)
 
 ## Historical data
 | Date | Stars | Forks |

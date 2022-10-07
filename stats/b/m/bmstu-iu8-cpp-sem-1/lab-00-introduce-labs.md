@@ -1,12 +1,12 @@
-# bmstu-iu8-cpp-sem-1/lab-00-introduce-labs / stars & forks statistics
-
-[Open repository/bmstu-iu8-cpp-sem-1/lab-00-introduce-labs](https://github.com/bmstu-iu8-cpp-sem-1/lab-00-introduce-labs)
+# bmstu-iu8-cpp-sem-1/lab-00-introduce-labs - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bmstu-iu8-cpp-sem-1/lab-00-introduce-labs)
 
 ## Historical data
 | Date | Stars | Forks |

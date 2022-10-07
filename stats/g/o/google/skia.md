@@ -1,12 +1,12 @@
-# google/skia / stars & forks statistics
-
-[Open repository/google/skia](https://github.com/google/skia)
+# google/skia - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1222
 
 ★ Stars: 6841
+
+[Open repository](https://github.com/google/skia)
 
 ## Historical data
 | Date | Stars | Forks |

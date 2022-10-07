@@ -1,12 +1,12 @@
-# dotnet/extensions / stars & forks statistics
-
-[Open repository/dotnet/extensions](https://github.com/dotnet/extensions)
+# dotnet/extensions - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 688
 
 ★ Stars: 2217
+
+[Open repository](https://github.com/dotnet/extensions)
 
 ## Historical data
 | Date | Stars | Forks |

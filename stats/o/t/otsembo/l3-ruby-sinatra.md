@@ -1,6 +1,4 @@
-# otsembo/l3-ruby-sinatra / stars & forks statistics
-
-[Open repository/otsembo/l3-ruby-sinatra](https://github.com/otsembo/l3-ruby-sinatra)
+# otsembo/l3-ruby-sinatra - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/otsembo/l3-ruby-sinatra)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 23 | 
+| 2022-10-05 | - | 23 | 
+| 2022-10-04 | - | 23 | 
+| 2022-10-03 | - | 23 | 
+| 2022-10-02 | - | 23 | 
 | 2022-10-01 | - | 23 | 
 | 2022-09-30 | - | 23 | 
 | 2022-09-29 | - | 23 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 23 | 
 | 2022-09-09 | - | 23 | 
 | 2022-09-08 | - | 23 | 
-| 2022-09-07 | - | 23 | 
-| 2022-09-06 | - | 23 | 
-| 2022-09-05 | - | 23 | 
-| 2022-09-04 | - | 23 | 
-| 2022-09-03 | - | 23 | 
-| 2022-09-02 | - | 23 | 
 
 
 [Detailed charts & statistics for otsembo/l3-ruby-sinatra](https://reviewgithub.com/rep/otsembo/l3-ruby-sinatra)

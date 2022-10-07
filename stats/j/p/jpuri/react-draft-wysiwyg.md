@@ -1,12 +1,12 @@
-# jpuri/react-draft-wysiwyg / stars & forks statistics
-
-[Open repository/jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
+# jpuri/react-draft-wysiwyg - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1081
 
 ★ Stars: 5839
+
+[Open repository](https://github.com/jpuri/react-draft-wysiwyg)
 
 ## Historical data
 | Date | Stars | Forks |

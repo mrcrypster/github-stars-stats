@@ -1,12 +1,12 @@
-# NimaPayande/Flutter-music-player / stars & forks statistics
-
-[Open repository/NimaPayande/Flutter-music-player](https://github.com/NimaPayande/Flutter-music-player)
+# NimaPayande/Flutter-music-player - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 45
+
+[Open repository](https://github.com/NimaPayande/Flutter-music-player)
 
 ## Historical data
 | Date | Stars | Forks |

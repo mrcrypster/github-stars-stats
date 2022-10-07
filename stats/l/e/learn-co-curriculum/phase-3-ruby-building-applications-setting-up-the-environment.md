@@ -1,16 +1,32 @@
-# learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment / stars & forks statistics
-
-[Open repository/learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment](https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment)
+# learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1048
+☋ Forks: 1087
 
 ★ Stars: 1
+
+[Open repository](https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | 1087 | 
+| 2022-10-06 | 1 | 1086 | 
+| 2022-10-05 | 1 | 1085 | 
+| 2022-10-04 | 1 | 1081 | 
+| 2022-10-03 | 1 | 1078 | 
+| 2022-10-02 | 1 | 1076 | 
+| 2022-10-01 | 1 | 1074 | 
+| 2022-09-30 | 1 | 1073 | 
+| 2022-09-29 | 1 | 1070 | 
+| 2022-09-28 | 1 | 1070 | 
+| 2022-09-27 | 1 | 1067 | 
+| 2022-09-26 | 1 | 1061 | 
+| 2022-09-25 | 1 | 1060 | 
+| 2022-09-24 | 1 | 1059 | 
+| 2022-09-23 | 1 | 1058 | 
+| 2022-09-22 | 1 | 1050 | 
 | 2022-09-21 | 1 | 1048 | 
 | 2022-09-20 | 1 | 1045 | 
 | 2022-09-19 | 1 | 1036 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 1026 | 
 | 2022-09-09 | 1 | 1023 | 
 | 2022-09-08 | 1 | 1025 | 
-| 2022-09-07 | 1 | 1020 | 
-| 2022-09-06 | 1 | 1015 | 
-| 2022-09-05 | 1 | 1009 | 
-| 2022-09-03 | 1 | 1005 | 
-| 2022-09-02 | 1 | 1005 | 
-| 2022-09-01 | 1 | 1000 | 
-| 2022-08-31 | 1 | 986 | 
-| 2022-08-30 | 1 | 974 | 
-| 2022-08-29 | 1 | 958 | 
-| 2022-08-28 | 1 | 936 | 
-| 2022-08-27 | 1 | 929 | 
-| 2022-08-26 | 1 | 918 | 
-| 2022-08-25 | 1 | 906 | 
-| 2022-08-24 | 1 | 885 | 
-| 2022-08-23 | 1 | 865 | 
-| 2022-08-22 | 1 | 853 | 
 
 
 [Detailed charts & statistics for learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment)

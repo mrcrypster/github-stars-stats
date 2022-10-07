@@ -1,12 +1,12 @@
-# LeBonCode/ia / stars & forks statistics
-
-[Open repository/LeBonCode/ia](https://github.com/LeBonCode/ia)
+# LeBonCode/ia - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/LeBonCode/ia)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,28 @@
-# brenoprata10/nvim-highlight-colors / stars & forks statistics
-
-[Open repository/brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors)
+# brenoprata10/nvim-highlight-colors - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 89
+★ Stars: 99
+
+[Open repository](https://github.com/brenoprata10/nvim-highlight-colors)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 99 | 4 | 
+| 2022-10-06 | 97 | 4 | 
+| 2022-10-05 | 96 | 4 | 
+| 2022-10-04 | 96 | 4 | 
+| 2022-10-03 | 95 | 4 | 
+| 2022-10-02 | 94 | 4 | 
+| 2022-10-01 | 92 | 4 | 
+| 2022-09-30 | 91 | 4 | 
+| 2022-09-29 | 91 | 4 | 
+| 2022-09-28 | 90 | 3 | 
+| 2022-09-27 | 90 | 3 | 
+| 2022-09-26 | 89 | 3 | 
 | 2022-09-25 | 89 | 3 | 
 | 2022-09-24 | 89 | 3 | 
 | 2022-09-23 | 86 | 3 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 78 | 3 | 
 | 2022-09-08 | 77 | 3 | 
 | 2022-09-07 | 76 | 3 | 
-| 2022-09-06 | 76 | 3 | 
-| 2022-09-05 | 75 | 3 | 
-| 2022-09-04 | 72 | 3 | 
-| 2022-09-03 | 68 | 3 | 
-| 2022-09-02 | 65 | 3 | 
-| 2022-09-01 | 64 | 3 | 
-| 2022-08-31 | 63 | 3 | 
-| 2022-08-30 | 62 | 3 | 
-| 2022-08-29 | 62 | 3 | 
-| 2022-08-28 | 62 | 3 | 
-| 2022-08-27 | 62 | 3 | 
-| 2022-08-26 | 61 | 3 | 
 
 
 [Detailed charts & statistics for brenoprata10/nvim-highlight-colors](https://reviewgithub.com/rep/brenoprata10/nvim-highlight-colors)

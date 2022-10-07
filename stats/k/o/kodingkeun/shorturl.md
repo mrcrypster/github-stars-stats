@@ -1,12 +1,12 @@
-# kodingkeun/shorturl / stars & forks statistics
-
-[Open repository/kodingkeun/shorturl](https://github.com/kodingkeun/shorturl)
+# kodingkeun/shorturl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 14
+
+[Open repository](https://github.com/kodingkeun/shorturl)
 
 ## Historical data
 | Date | Stars | Forks |

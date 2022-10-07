@@ -1,12 +1,12 @@
-# fioncat/spacenvim / stars & forks statistics
-
-[Open repository/fioncat/spacenvim](https://github.com/fioncat/spacenvim)
+# fioncat/spacenvim - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 29
+
+[Open repository](https://github.com/fioncat/spacenvim)
 
 ## Historical data
 | Date | Stars | Forks |

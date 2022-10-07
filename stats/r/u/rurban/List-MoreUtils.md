@@ -1,12 +1,12 @@
-# rurban/List-MoreUtils / stars & forks statistics
-
-[Open repository/rurban/List-MoreUtils](https://github.com/rurban/List-MoreUtils)
+# rurban/List-MoreUtils - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/rurban/List-MoreUtils)
 
 ## Historical data
 | Date | Stars | Forks |

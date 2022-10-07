@@ -1,6 +1,4 @@
-# wanglihom/Veaser / stars & forks statistics
-
-[Open repository/wanglihom/Veaser](https://github.com/wanglihom/Veaser)
+# wanglihom/Veaser - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 97
 
+[Open repository](https://github.com/wanglihom/Veaser)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 97 | - | 
 | 2022-10-05 | 97 | - | 
 | 2022-10-04 | 97 | - | 
 | 2022-10-03 | 97 | - | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 102 | 1 | 
 | 2022-09-09 | 102 | 1 | 
 | 2022-09-08 | 101 | 1 | 
-| 2022-09-07 | 97 | 1 | 
-| 2022-09-06 | 91 | 2 | 
 
 
 [Detailed charts & statistics for wanglihom/Veaser](https://reviewgithub.com/rep/wanglihom/Veaser)

@@ -1,12 +1,12 @@
-# cloudforet-io/launchpad / stars & forks statistics
-
-[Open repository/cloudforet-io/launchpad](https://github.com/cloudforet-io/launchpad)
+# cloudforet-io/launchpad - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 4
+
+[Open repository](https://github.com/cloudforet-io/launchpad)
 
 ## Historical data
 | Date | Stars | Forks |

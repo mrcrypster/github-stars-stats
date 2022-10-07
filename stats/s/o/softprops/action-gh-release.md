@@ -1,16 +1,30 @@
-# softprops/action-gh-release / stars & forks statistics
-
-[Open repository/softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+# softprops/action-gh-release - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 221
+☋ Forks: 225
 
-★ Stars: 1941
+★ Stars: 1965
+
+[Open repository](https://github.com/softprops/action-gh-release)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1965 | 225 | 
+| 2022-10-06 | 1965 | 225 | 
+| 2022-10-05 | 1963 | 225 | 
+| 2022-10-04 | 1963 | 225 | 
+| 2022-10-03 | 1962 | 224 | 
+| 2022-10-02 | 1960 | 224 | 
+| 2022-10-01 | 1957 | 222 | 
+| 2022-09-30 | 1953 | 222 | 
+| 2022-09-29 | 1953 | 222 | 
+| 2022-09-28 | 1953 | 221 | 
+| 2022-09-27 | 1950 | 221 | 
+| 2022-09-26 | 1948 | 220 | 
+| 2022-09-25 | 1946 | 220 | 
+| 2022-09-24 | 1941 | 220 | 
 | 2022-09-23 | 1941 | 221 | 
 | 2022-09-22 | 1937 | 221 | 
 | 2022-09-21 | 1931 | 221 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1899 | 217 | 
 | 2022-09-08 | 1896 | 216 | 
 | 2022-09-07 | 1889 | 216 | 
-| 2022-09-06 | 1885 | 216 | 
-| 2022-09-05 | 1881 | 216 | 
-| 2022-09-04 | 1875 | 216 | 
-| 2022-09-03 | 1874 | 215 | 
-| 2022-09-02 | 1874 | 214 | 
-| 2022-09-01 | 1872 | 214 | 
-| 2022-08-31 | 1869 | 213 | 
-| 2022-08-30 | 1864 | 213 | 
-| 2022-08-29 | 1859 | 214 | 
-| 2022-08-28 | 1859 | 213 | 
-| 2022-08-27 | 1857 | 212 | 
-| 2022-08-26 | 1858 | 211 | 
-| 2022-08-25 | 1853 | 212 | 
-| 2022-08-24 | 1851 | 212 | 
 
 
 [Detailed charts & statistics for softprops/action-gh-release](https://reviewgithub.com/rep/softprops/action-gh-release)

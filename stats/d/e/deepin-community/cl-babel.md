@@ -1,12 +1,12 @@
-# deepin-community/cl-babel / stars & forks statistics
-
-[Open repository/deepin-community/cl-babel](https://github.com/deepin-community/cl-babel)
+# deepin-community/cl-babel - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/cl-babel)
 
 ## Historical data
 | Date | Stars | Forks |

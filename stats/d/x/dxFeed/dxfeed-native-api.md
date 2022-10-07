@@ -1,12 +1,12 @@
-# dxFeed/dxfeed-native-api / stars & forks statistics
-
-[Open repository/dxFeed/dxfeed-native-api](https://github.com/dxFeed/dxfeed-native-api)
+# dxFeed/dxfeed-native-api - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/dxFeed/dxfeed-native-api)
 
 ## Historical data
 | Date | Stars | Forks |

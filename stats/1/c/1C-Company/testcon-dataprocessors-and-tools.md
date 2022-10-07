@@ -1,6 +1,4 @@
-# 1C-Company/testcon-dataprocessors-and-tools / stars & forks statistics
-
-[Open repository/1C-Company/testcon-dataprocessors-and-tools](https://github.com/1C-Company/testcon-dataprocessors-and-tools)
+# 1C-Company/testcon-dataprocessors-and-tools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 19
 
+[Open repository](https://github.com/1C-Company/testcon-dataprocessors-and-tools)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 19 | 5 | 
+| 2022-10-05 | 19 | 5 | 
+| 2022-10-04 | 19 | 5 | 
+| 2022-10-03 | 19 | 5 | 
+| 2022-10-02 | 19 | 5 | 
+| 2022-10-01 | 19 | 5 | 
+| 2022-09-30 | 19 | 5 | 
+| 2022-09-29 | 19 | 5 | 
+| 2022-09-28 | 19 | 5 | 
 | 2022-09-27 | 19 | 5 | 
 | 2022-09-26 | 19 | 5 | 
 | 2022-09-25 | 19 | 5 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 19 | 4 | 
 | 2022-09-09 | 19 | 4 | 
 | 2022-09-08 | 19 | 4 | 
-| 2022-09-07 | 19 | 4 | 
-| 2022-09-06 | 19 | 4 | 
-| 2022-09-05 | 19 | 3 | 
-| 2022-09-04 | 19 | 3 | 
-| 2022-09-03 | 18 | 3 | 
-| 2022-09-02 | 18 | 3 | 
-| 2022-09-01 | 18 | 3 | 
-| 2022-08-31 | 18 | 3 | 
-| 2022-08-30 | 17 | 2 | 
-| 2022-08-29 | 14 | 1 | 
 
 
 [Detailed charts & statistics for 1C-Company/testcon-dataprocessors-and-tools](https://reviewgithub.com/rep/1C-Company/testcon-dataprocessors-and-tools)

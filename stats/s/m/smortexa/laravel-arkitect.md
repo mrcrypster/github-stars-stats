@@ -1,6 +1,4 @@
-# smortexa/laravel-arkitect / stars & forks statistics
-
-[Open repository/smortexa/laravel-arkitect](https://github.com/smortexa/laravel-arkitect)
+# smortexa/laravel-arkitect - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 43
 
+[Open repository](https://github.com/smortexa/laravel-arkitect)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 43 | - | 
+| 2022-10-05 | 43 | - | 
+| 2022-10-04 | 43 | - | 
+| 2022-10-03 | 43 | - | 
+| 2022-10-02 | 43 | - | 
+| 2022-10-01 | 43 | - | 
+| 2022-09-30 | 43 | - | 
+| 2022-09-29 | 43 | - | 
+| 2022-09-28 | 43 | - | 
+| 2022-09-27 | 43 | - | 
+| 2022-09-26 | 43 | - | 
+| 2022-09-25 | 43 | - | 
+| 2022-09-24 | 43 | - | 
+| 2022-09-23 | 43 | - | 
+| 2022-09-22 | 43 | - | 
 | 2022-09-21 | 43 | - | 
 | 2022-09-20 | 43 | - | 
 | 2022-09-19 | 43 | - | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 43 | - | 
 | 2022-09-09 | 43 | - | 
 | 2022-09-08 | 43 | - | 
-| 2022-09-07 | 43 | - | 
-| 2022-09-06 | 43 | - | 
-| 2022-09-05 | 43 | - | 
-| 2022-09-04 | 43 | - | 
-| 2022-09-03 | 43 | - | 
-| 2022-09-02 | 43 | - | 
-| 2022-08-31 | 43 | - | 
-| 2022-08-30 | 41 | - | 
-| 2022-08-29 | 41 | - | 
-| 2022-08-28 | 41 | - | 
-| 2022-08-27 | 41 | - | 
-| 2022-08-26 | 41 | - | 
-| 2022-08-25 | 41 | - | 
-| 2022-08-24 | 39 | - | 
-| 2022-08-23 | 39 | - | 
-| 2022-08-22 | 31 | - | 
 
 
 [Detailed charts & statistics for smortexa/laravel-arkitect](https://reviewgithub.com/rep/smortexa/laravel-arkitect)

@@ -1,12 +1,12 @@
-# jmacarthur/flatten / stars & forks statistics
-
-[Open repository/jmacarthur/flatten](https://github.com/jmacarthur/flatten)
+# jmacarthur/flatten - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/jmacarthur/flatten)
 
 ## Historical data
 | Date | Stars | Forks |

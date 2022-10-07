@@ -1,6 +1,4 @@
-# unkperson/consulta-operadora / stars & forks statistics
-
-[Open repository/unkperson/consulta-operadora](https://github.com/unkperson/consulta-operadora)
+# unkperson/consulta-operadora - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,27 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 201
 
+[Open repository](https://github.com/unkperson/consulta-operadora)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 201 | 50 | 
+| 2022-10-05 | 201 | 50 | 
+| 2022-10-04 | 201 | 50 | 
+| 2022-10-03 | 201 | 50 | 
+| 2022-10-02 | 201 | 50 | 
+| 2022-10-01 | 201 | 50 | 
+| 2022-09-30 | 201 | 50 | 
+| 2022-09-29 | 201 | 50 | 
+| 2022-09-28 | 201 | 50 | 
+| 2022-09-27 | 201 | 50 | 
+| 2022-09-26 | 201 | 50 | 
+| 2022-09-25 | 201 | 50 | 
+| 2022-09-24 | 201 | 50 | 
+| 2022-09-23 | 201 | 50 | 
+| 2022-09-22 | 201 | 50 | 
+| 2022-09-21 | 201 | 50 | 
 | 2022-09-20 | 201 | 50 | 
 | 2022-09-19 | 201 | 50 | 
 | 2022-09-18 | 201 | 50 | 
@@ -24,23 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 201 | 50 | 
 | 2022-09-09 | 201 | 50 | 
 | 2022-09-08 | 201 | 50 | 
-| 2022-09-07 | 201 | 50 | 
-| 2022-09-06 | 201 | 50 | 
-| 2022-09-05 | 201 | 50 | 
-| 2022-09-04 | 201 | 50 | 
-| 2022-09-03 | 201 | 50 | 
-| 2022-09-02 | 201 | 50 | 
-| 2022-09-01 | 201 | 50 | 
-| 2022-08-30 | 201 | 50 | 
-| 2022-08-29 | 201 | 50 | 
-| 2022-08-28 | 201 | 50 | 
-| 2022-08-27 | 201 | 50 | 
-| 2022-08-26 | 201 | 50 | 
-| 2022-08-25 | 201 | 50 | 
-| 2022-08-24 | 201 | 50 | 
-| 2022-08-23 | 201 | 50 | 
-| 2022-08-22 | 200 | 50 | 
-| 2022-08-21 | 154 | 50 | 
 
 
 [Detailed charts & statistics for unkperson/consulta-operadora](https://reviewgithub.com/rep/unkperson/consulta-operadora)

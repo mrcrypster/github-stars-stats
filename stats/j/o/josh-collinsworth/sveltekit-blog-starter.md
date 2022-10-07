@@ -1,16 +1,32 @@
-# josh-collinsworth/sveltekit-blog-starter / stars & forks statistics
-
-[Open repository/josh-collinsworth/sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter)
+# josh-collinsworth/sveltekit-blog-starter - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 20
+☋ Forks: 23
 
-★ Stars: 112
+★ Stars: 117
+
+[Open repository](https://github.com/josh-collinsworth/sveltekit-blog-starter)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 117 | 23 | 
+| 2022-10-05 | 117 | 23 | 
+| 2022-10-04 | 116 | 23 | 
+| 2022-10-03 | 116 | 23 | 
+| 2022-10-02 | 116 | 23 | 
+| 2022-10-01 | 115 | 23 | 
+| 2022-09-30 | 115 | 23 | 
+| 2022-09-29 | 115 | 23 | 
+| 2022-09-28 | 115 | 23 | 
+| 2022-09-27 | 115 | 23 | 
+| 2022-09-26 | 114 | 23 | 
+| 2022-09-25 | 112 | 23 | 
+| 2022-09-24 | 112 | 22 | 
+| 2022-09-23 | 112 | 20 | 
+| 2022-09-22 | 112 | 20 | 
+| 2022-09-21 | 112 | 20 | 
 | 2022-09-20 | 112 | 20 | 
 | 2022-09-19 | 112 | 20 | 
 | 2022-09-18 | 111 | 20 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 107 | 20 | 
 | 2022-09-08 | 105 | 19 | 
 | 2022-09-07 | 101 | 19 | 
-| 2022-09-06 | 96 | 19 | 
-| 2022-09-05 | 96 | 19 | 
-| 2022-09-04 | 95 | 20 | 
-| 2022-09-03 | 94 | 21 | 
-| 2022-09-02 | 94 | 21 | 
-| 2022-09-01 | 94 | 21 | 
-| 2022-08-31 | 94 | 21 | 
-| 2022-08-30 | 94 | 21 | 
-| 2022-08-29 | 93 | 21 | 
-| 2022-08-28 | 92 | 21 | 
-| 2022-08-27 | 92 | 21 | 
-| 2022-08-26 | 92 | 21 | 
-| 2022-08-25 | 92 | 21 | 
-| 2022-08-24 | 92 | 21 | 
-| 2022-08-23 | 91 | 20 | 
-| 2022-08-22 | 90 | 20 | 
 
 
 [Detailed charts & statistics for josh-collinsworth/sveltekit-blog-starter](https://reviewgithub.com/rep/josh-collinsworth/sveltekit-blog-starter)

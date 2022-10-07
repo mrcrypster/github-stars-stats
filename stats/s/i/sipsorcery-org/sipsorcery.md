@@ -1,16 +1,28 @@
-# sipsorcery-org/sipsorcery / stars & forks statistics
-
-[Open repository/sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery)
+# sipsorcery-org/sipsorcery - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 300
+☋ Forks: 301
 
-★ Stars: 881
+★ Stars: 887
+
+[Open repository](https://github.com/sipsorcery-org/sipsorcery)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 887 | 301 | 
+| 2022-10-06 | 887 | 301 | 
+| 2022-10-05 | 887 | 300 | 
+| 2022-10-04 | 886 | 300 | 
+| 2022-10-03 | 886 | 300 | 
+| 2022-10-02 | 885 | 300 | 
+| 2022-10-01 | 885 | 300 | 
+| 2022-09-30 | 885 | 300 | 
+| 2022-09-29 | 884 | 300 | 
+| 2022-09-28 | 883 | 300 | 
+| 2022-09-27 | 882 | 300 | 
+| 2022-09-26 | 881 | 300 | 
 | 2022-09-25 | 881 | 300 | 
 | 2022-09-24 | 881 | 300 | 
 | 2022-09-22 | 880 | 300 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 866 | 298 | 
 | 2022-09-08 | 866 | 297 | 
 | 2022-09-07 | 867 | 295 | 
-| 2022-09-06 | 866 | 292 | 
-| 2022-09-05 | 864 | 292 | 
-| 2022-09-04 | 863 | 292 | 
-| 2022-09-03 | 861 | 292 | 
-| 2022-09-02 | 859 | 291 | 
-| 2022-09-01 | 859 | 291 | 
-| 2022-08-31 | 859 | 290 | 
-| 2022-08-30 | 857 | 289 | 
-| 2022-08-29 | 857 | 289 | 
-| 2022-08-28 | 856 | 287 | 
-| 2022-08-27 | 856 | 287 | 
-| 2022-08-26 | 853 | 287 | 
 
 
 [Detailed charts & statistics for sipsorcery-org/sipsorcery](https://reviewgithub.com/rep/sipsorcery-org/sipsorcery)

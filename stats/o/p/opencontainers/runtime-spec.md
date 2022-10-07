@@ -1,16 +1,24 @@
-# opencontainers/runtime-spec / stars & forks statistics
-
-[Open repository/opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec)
+# opencontainers/runtime-spec - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 504
+☋ Forks: 506
 
-★ Stars: 2597
+★ Stars: 2608
+
+[Open repository](https://github.com/opencontainers/runtime-spec)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2608 | 506 | 
+| 2022-10-05 | 2607 | 506 | 
+| 2022-10-04 | 2605 | 505 | 
+| 2022-10-03 | 2604 | 505 | 
+| 2022-10-02 | 2601 | 505 | 
+| 2022-10-01 | 2600 | 505 | 
+| 2022-09-30 | 2600 | 505 | 
+| 2022-09-29 | 2599 | 505 | 
 | 2022-09-28 | 2597 | 504 | 
 | 2022-09-27 | 2594 | 504 | 
 | 2022-09-26 | 2591 | 504 | 
@@ -32,15 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2580 | 498 | 
 | 2022-09-09 | 2580 | 498 | 
 | 2022-09-08 | 2577 | 498 | 
-| 2022-09-07 | 2576 | 498 | 
-| 2022-09-06 | 2571 | 499 | 
-| 2022-09-05 | 2572 | 500 | 
-| 2022-09-04 | 2570 | 499 | 
-| 2022-09-03 | 2570 | 499 | 
-| 2022-09-02 | 2569 | 499 | 
-| 2022-09-01 | 2569 | 499 | 
-| 2022-08-31 | 2569 | 498 | 
-| 2022-08-30 | 2567 | 498 | 
 
 
 [Detailed charts & statistics for opencontainers/runtime-spec](https://reviewgithub.com/rep/opencontainers/runtime-spec)

@@ -1,16 +1,24 @@
-# LEXUGE/oceanix / stars & forks statistics
-
-[Open repository/LEXUGE/oceanix](https://github.com/LEXUGE/oceanix)
+# LEXUGE/oceanix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 29
+
+[Open repository](https://github.com/LEXUGE/oceanix)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 29 | 1 | 
+| 2022-10-06 | 29 | 1 | 
+| 2022-10-04 | 29 | 1 | 
+| 2022-10-03 | 27 | 1 | 
+| 2022-10-02 | 27 | 1 | 
+| 2022-10-01 | 27 | 1 | 
+| 2022-09-30 | 27 | 1 | 
+| 2022-09-29 | 27 | 1 | 
 | 2022-09-28 | 27 | 1 | 
 | 2022-09-27 | 27 | 1 | 
 | 2022-09-26 | 27 | 1 | 
@@ -33,14 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 24 | 1 | 
 | 2022-09-08 | 24 | 1 | 
 | 2022-09-07 | 24 | 1 | 
-| 2022-09-06 | 24 | 1 | 
-| 2022-09-05 | 24 | 1 | 
-| 2022-09-04 | 24 | 1 | 
-| 2022-09-03 | 24 | 1 | 
-| 2022-09-02 | 24 | 1 | 
-| 2022-09-01 | 23 | 1 | 
-| 2022-08-31 | 23 | 1 | 
-| 2022-08-30 | 23 | 1 | 
 
 
 [Detailed charts & statistics for LEXUGE/oceanix](https://reviewgithub.com/rep/LEXUGE/oceanix)

@@ -1,12 +1,12 @@
-# joelparkerhenderson/stable-diffusion-image-prompt-gallery / stars & forks statistics
-
-[Open repository/joelparkerhenderson/stable-diffusion-image-prompt-gallery](https://github.com/joelparkerhenderson/stable-diffusion-image-prompt-gallery)
+# joelparkerhenderson/stable-diffusion-image-prompt-gallery - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 50
+
+[Open repository](https://github.com/joelparkerhenderson/stable-diffusion-image-prompt-gallery)
 
 ## Historical data
 | Date | Stars | Forks |

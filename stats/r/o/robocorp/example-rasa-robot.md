@@ -1,12 +1,12 @@
-# robocorp/example-rasa-robot / stars & forks statistics
-
-[Open repository/robocorp/example-rasa-robot](https://github.com/robocorp/example-rasa-robot)
+# robocorp/example-rasa-robot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
+
+[Open repository](https://github.com/robocorp/example-rasa-robot)
 
 ## Historical data
 | Date | Stars | Forks |

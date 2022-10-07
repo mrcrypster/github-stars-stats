@@ -1,6 +1,4 @@
-# jephthai/EvilVM / stars & forks statistics
-
-[Open repository/jephthai/EvilVM](https://github.com/jephthai/EvilVM)
+# jephthai/EvilVM - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 146
 
+[Open repository](https://github.com/jephthai/EvilVM)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 146 | 17 | 
+| 2022-10-06 | 146 | 17 | 
+| 2022-10-05 | 146 | 17 | 
+| 2022-10-04 | 146 | 17 | 
+| 2022-10-03 | 146 | 17 | 
+| 2022-10-02 | 146 | 17 | 
+| 2022-10-01 | 146 | 17 | 
+| 2022-09-30 | 146 | 17 | 
+| 2022-09-29 | 146 | 17 | 
+| 2022-09-28 | 146 | 17 | 
+| 2022-09-27 | 146 | 17 | 
 | 2022-09-26 | 146 | 17 | 
 | 2022-09-25 | 146 | 17 | 
 | 2022-09-24 | 146 | 17 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 146 | 17 | 
 | 2022-09-08 | 146 | 17 | 
 | 2022-09-07 | 146 | 17 | 
-| 2022-09-06 | 146 | 17 | 
-| 2022-09-05 | 146 | 17 | 
-| 2022-09-04 | 146 | 17 | 
-| 2022-09-03 | 146 | 17 | 
-| 2022-09-02 | 146 | 17 | 
-| 2022-09-01 | 146 | 17 | 
-| 2022-08-31 | 146 | 17 | 
-| 2022-08-30 | 146 | 17 | 
-| 2022-08-29 | 145 | 17 | 
-| 2022-08-28 | 144 | 17 | 
-| 2022-08-27 | 144 | 17 | 
 
 
 [Detailed charts & statistics for jephthai/EvilVM](https://reviewgithub.com/rep/jephthai/EvilVM)

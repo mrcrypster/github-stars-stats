@@ -1,12 +1,12 @@
-# PunchablePlushie/godot-game-settings / stars & forks statistics
-
-[Open repository/PunchablePlushie/godot-game-settings](https://github.com/PunchablePlushie/godot-game-settings)
+# PunchablePlushie/godot-game-settings - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 80
+
+[Open repository](https://github.com/PunchablePlushie/godot-game-settings)
 
 ## Historical data
 | Date | Stars | Forks |

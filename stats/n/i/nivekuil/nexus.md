@@ -1,12 +1,12 @@
-# nivekuil/nexus / stars & forks statistics
-
-[Open repository/nivekuil/nexus](https://github.com/nivekuil/nexus)
+# nivekuil/nexus - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 52
+
+[Open repository](https://github.com/nivekuil/nexus)
 
 ## Historical data
 | Date | Stars | Forks |

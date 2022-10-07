@@ -1,12 +1,12 @@
-# CodeEditApp/CodeEditTextView / stars & forks statistics
-
-[Open repository/CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView)
+# CodeEditApp/CodeEditTextView - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 164
+
+[Open repository](https://github.com/CodeEditApp/CodeEditTextView)
 
 ## Historical data
 | Date | Stars | Forks |

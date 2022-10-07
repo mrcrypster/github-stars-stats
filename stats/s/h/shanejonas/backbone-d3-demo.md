@@ -1,12 +1,12 @@
-# shanejonas/backbone-d3-demo / stars & forks statistics
-
-[Open repository/shanejonas/backbone-d3-demo](https://github.com/shanejonas/backbone-d3-demo)
+# shanejonas/backbone-d3-demo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
+
+[Open repository](https://github.com/shanejonas/backbone-d3-demo)
 
 ## Historical data
 | Date | Stars | Forks |

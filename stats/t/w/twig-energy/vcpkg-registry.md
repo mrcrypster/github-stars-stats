@@ -1,12 +1,12 @@
-# twig-energy/vcpkg-registry / stars & forks statistics
-
-[Open repository/twig-energy/vcpkg-registry](https://github.com/twig-energy/vcpkg-registry)
+# twig-energy/vcpkg-registry - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/twig-energy/vcpkg-registry)
 
 ## Historical data
 | Date | Stars | Forks |

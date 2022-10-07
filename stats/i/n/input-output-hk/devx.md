@@ -1,12 +1,12 @@
-# input-output-hk/devx / stars & forks statistics
-
-[Open repository/input-output-hk/devx](https://github.com/input-output-hk/devx)
+# input-output-hk/devx - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/input-output-hk/devx)
 
 ## Historical data
 | Date | Stars | Forks |

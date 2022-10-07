@@ -1,12 +1,12 @@
-# OP-TED/eForms-SDK / stars & forks statistics
-
-[Open repository/OP-TED/eForms-SDK](https://github.com/OP-TED/eForms-SDK)
+# OP-TED/eForms-SDK - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 21
+
+[Open repository](https://github.com/OP-TED/eForms-SDK)
 
 ## Historical data
 | Date | Stars | Forks |

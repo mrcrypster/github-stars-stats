@@ -1,12 +1,12 @@
-# bsless/datalog-parser.spec / stars & forks statistics
-
-[Open repository/bsless/datalog-parser.spec](https://github.com/bsless/datalog-parser.spec)
+# bsless/datalog-parser.spec - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
+
+[Open repository](https://github.com/bsless/datalog-parser.spec)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# belden/aliased-constructor / stars & forks statistics
-
-[Open repository/belden/aliased-constructor](https://github.com/belden/aliased-constructor)
+# belden/aliased-constructor - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/belden/aliased-constructor)
 
 ## Historical data
 | Date | Stars | Forks |

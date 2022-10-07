@@ -1,16 +1,27 @@
-# TestingConferences/testingconferences.github.io / stars & forks statistics
-
-[Open repository/TestingConferences/testingconferences.github.io](https://github.com/TestingConferences/testingconferences.github.io)
+# TestingConferences/testingconferences.github.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 178
+☋ Forks: 179
 
 ★ Stars: 86
+
+[Open repository](https://github.com/TestingConferences/testingconferences.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 86 | 179 | 
+| 2022-10-06 | 86 | 179 | 
+| 2022-10-05 | 86 | 179 | 
+| 2022-10-04 | 86 | 179 | 
+| 2022-10-03 | 86 | 179 | 
+| 2022-10-02 | 86 | 179 | 
+| 2022-10-01 | 86 | 179 | 
+| 2022-09-30 | 86 | 178 | 
+| 2022-09-29 | 86 | 178 | 
+| 2022-09-28 | 86 | 178 | 
+| 2022-09-27 | 86 | 178 | 
 | 2022-09-26 | 86 | 178 | 
 | 2022-09-25 | 86 | 178 | 
 | 2022-09-24 | 86 | 178 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 86 | 177 | 
 | 2022-09-08 | 86 | 177 | 
 | 2022-09-07 | 86 | 177 | 
-| 2022-09-06 | 86 | 177 | 
-| 2022-09-05 | 85 | 177 | 
-| 2022-09-04 | 85 | 177 | 
-| 2022-09-03 | 85 | 177 | 
-| 2022-09-02 | 85 | 177 | 
-| 2022-09-01 | 85 | 177 | 
-| 2022-08-31 | 85 | 177 | 
-| 2022-08-30 | 85 | 177 | 
-| 2022-08-29 | 85 | 177 | 
-| 2022-08-28 | 85 | 177 | 
-| 2022-08-27 | 85 | 177 | 
 
 
 [Detailed charts & statistics for TestingConferences/testingconferences.github.io](https://reviewgithub.com/rep/TestingConferences/testingconferences.github.io)

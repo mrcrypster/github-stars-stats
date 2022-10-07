@@ -1,12 +1,12 @@
-# sanskarsri/Hacktoberfest22 / stars & forks statistics
-
-[Open repository/sanskarsri/Hacktoberfest22](https://github.com/sanskarsri/Hacktoberfest22)
+# sanskarsri/Hacktoberfest22 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 7
+
+[Open repository](https://github.com/sanskarsri/Hacktoberfest22)
 
 ## Historical data
 | Date | Stars | Forks |

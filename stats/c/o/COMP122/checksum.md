@@ -1,12 +1,12 @@
-# COMP122/checksum / stars & forks statistics
-
-[Open repository/COMP122/checksum](https://github.com/COMP122/checksum)
+# COMP122/checksum - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 4
+
+[Open repository](https://github.com/COMP122/checksum)
 
 ## Historical data
 | Date | Stars | Forks |

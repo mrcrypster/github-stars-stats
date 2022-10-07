@@ -1,12 +1,12 @@
-# isoastro/Stupid-GOL / stars & forks statistics
-
-[Open repository/isoastro/Stupid-GOL](https://github.com/isoastro/Stupid-GOL)
+# isoastro/Stupid-GOL - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/isoastro/Stupid-GOL)
 
 ## Historical data
 | Date | Stars | Forks |

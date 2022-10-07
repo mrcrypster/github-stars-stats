@@ -1,6 +1,4 @@
-# xmas7/ico-presale / stars & forks statistics
-
-[Open repository/xmas7/ico-presale](https://github.com/xmas7/ico-presale)
+# xmas7/ico-presale - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 12
 
+[Open repository](https://github.com/xmas7/ico-presale)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12 | - | 
+| 2022-10-05 | 12 | - | 
+| 2022-10-04 | 12 | - | 
+| 2022-10-03 | 12 | - | 
+| 2022-10-02 | 12 | - | 
 | 2022-10-01 | 12 | - | 
 | 2022-09-30 | 11 | - | 
 | 2022-09-29 | 11 | - | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11 | - | 
 | 2022-09-09 | 11 | - | 
 | 2022-09-08 | 11 | - | 
-| 2022-09-07 | 11 | - | 
-| 2022-09-06 | 11 | - | 
-| 2022-09-05 | 11 | - | 
-| 2022-09-04 | 11 | - | 
-| 2022-09-03 | 11 | - | 
-| 2022-09-02 | 11 | - | 
 
 
 [Detailed charts & statistics for xmas7/ico-presale](https://reviewgithub.com/rep/xmas7/ico-presale)

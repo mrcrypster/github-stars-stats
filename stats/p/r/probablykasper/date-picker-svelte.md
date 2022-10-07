@@ -1,6 +1,4 @@
-# probablykasper/date-picker-svelte / stars & forks statistics
-
-[Open repository/probablykasper/date-picker-svelte](https://github.com/probablykasper/date-picker-svelte)
+# probablykasper/date-picker-svelte - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,29 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 114
 
+[Open repository](https://github.com/probablykasper/date-picker-svelte)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 114 | 19 | 
+| 2022-10-06 | 114 | 19 | 
+| 2022-10-05 | 114 | 19 | 
+| 2022-10-04 | 114 | 19 | 
+| 2022-10-03 | 114 | 19 | 
+| 2022-10-02 | 114 | 19 | 
+| 2022-10-01 | 114 | 19 | 
+| 2022-09-30 | 114 | 19 | 
+| 2022-09-29 | 114 | 19 | 
+| 2022-09-28 | 114 | 19 | 
+| 2022-09-27 | 114 | 19 | 
+| 2022-09-26 | 114 | 19 | 
+| 2022-09-25 | 114 | 19 | 
+| 2022-09-24 | 114 | 19 | 
+| 2022-09-22 | 114 | 19 | 
+| 2022-09-21 | 114 | 19 | 
+| 2022-09-20 | 114 | 19 | 
+| 2022-09-19 | 114 | 19 | 
 | 2022-09-18 | 114 | 19 | 
 | 2022-09-17 | 113 | 19 | 
 | 2022-09-16 | 113 | 19 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 112 | 17 | 
 | 2022-09-08 | 112 | 17 | 
 | 2022-09-07 | 112 | 17 | 
-| 2022-09-06 | 112 | 16 | 
-| 2022-09-05 | 111 | 16 | 
-| 2022-09-04 | 111 | 16 | 
-| 2022-09-03 | 111 | 16 | 
-| 2022-09-02 | 111 | 16 | 
-| 2022-09-01 | 111 | 16 | 
-| 2022-08-31 | 111 | 16 | 
-| 2022-08-30 | 111 | 16 | 
-| 2022-08-29 | 110 | 16 | 
-| 2022-08-28 | 109 | 16 | 
-| 2022-08-27 | 109 | 16 | 
-| 2022-08-26 | 109 | 16 | 
-| 2022-08-25 | 109 | 16 | 
-| 2022-08-24 | 109 | 15 | 
-| 2022-08-23 | 109 | 15 | 
-| 2022-08-22 | 109 | 15 | 
-| 2022-08-21 | 109 | 15 | 
-| 2022-08-20 | 109 | 15 | 
 
 
 [Detailed charts & statistics for probablykasper/date-picker-svelte](https://reviewgithub.com/rep/probablykasper/date-picker-svelte)

@@ -1,16 +1,36 @@
-# vxunderground/ThreatIntelligenceDiscordBot / stars & forks statistics
-
-[Open repository/vxunderground/ThreatIntelligenceDiscordBot](https://github.com/vxunderground/ThreatIntelligenceDiscordBot)
+# vxunderground/ThreatIntelligenceDiscordBot - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 27
+☋ Forks: 31
 
-★ Stars: 157
+★ Stars: 172
+
+[Open repository](https://github.com/vxunderground/ThreatIntelligenceDiscordBot)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 172 | 31 | 
+| 2022-10-06 | 171 | 31 | 
+| 2022-10-05 | 171 | 31 | 
+| 2022-10-04 | 171 | 31 | 
+| 2022-10-03 | 168 | 31 | 
+| 2022-10-02 | 166 | 30 | 
+| 2022-10-01 | 166 | 30 | 
+| 2022-09-30 | 166 | 29 | 
+| 2022-09-29 | 165 | 29 | 
+| 2022-09-28 | 165 | 29 | 
+| 2022-09-27 | 165 | 29 | 
+| 2022-09-26 | 165 | 29 | 
+| 2022-09-25 | 165 | 28 | 
+| 2022-09-24 | 165 | 28 | 
+| 2022-09-23 | 162 | 28 | 
+| 2022-09-22 | 160 | 28 | 
+| 2022-09-21 | 160 | 28 | 
+| 2022-09-20 | 158 | 28 | 
+| 2022-09-19 | 158 | 28 | 
+| 2022-09-18 | 157 | 27 | 
 | 2022-09-17 | 157 | 27 | 
 | 2022-09-16 | 152 | 26 | 
 | 2022-09-15 | 152 | 26 | 
@@ -21,26 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 152 | 26 | 
 | 2022-09-08 | 152 | 26 | 
 | 2022-09-07 | 152 | 26 | 
-| 2022-09-06 | 152 | 26 | 
-| 2022-09-05 | 151 | 26 | 
-| 2022-09-04 | 150 | 27 | 
-| 2022-09-03 | 150 | 26 | 
-| 2022-09-02 | 148 | 26 | 
-| 2022-09-01 | 148 | 26 | 
-| 2022-08-31 | 145 | 25 | 
-| 2022-08-30 | 143 | 25 | 
-| 2022-08-29 | 142 | 24 | 
-| 2022-08-28 | 141 | 24 | 
-| 2022-08-27 | 140 | 24 | 
-| 2022-08-26 | 138 | 23 | 
-| 2022-08-25 | 128 | 21 | 
-| 2022-08-24 | 123 | 19 | 
-| 2022-08-23 | 120 | 19 | 
-| 2022-08-22 | 113 | 17 | 
-| 2022-08-21 | 102 | 14 | 
-| 2022-08-20 | 97 | 12 | 
-| 2022-08-19 | 89 | 10 | 
-| 2022-08-18 | 86 | 10 | 
 
 
 [Detailed charts & statistics for vxunderground/ThreatIntelligenceDiscordBot](https://reviewgithub.com/rep/vxunderground/ThreatIntelligenceDiscordBot)

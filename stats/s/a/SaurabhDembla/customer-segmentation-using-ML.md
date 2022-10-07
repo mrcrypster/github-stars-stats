@@ -1,12 +1,12 @@
-# SaurabhDembla/customer-segmentation-using-ML / stars & forks statistics
-
-[Open repository/SaurabhDembla/customer-segmentation-using-ML](https://github.com/SaurabhDembla/customer-segmentation-using-ML)
+# SaurabhDembla/customer-segmentation-using-ML - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/SaurabhDembla/customer-segmentation-using-ML)
 
 ## Historical data
 | Date | Stars | Forks |

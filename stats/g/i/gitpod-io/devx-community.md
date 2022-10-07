@@ -1,12 +1,12 @@
-# gitpod-io/devx-community / stars & forks statistics
-
-[Open repository/gitpod-io/devx-community](https://github.com/gitpod-io/devx-community)
+# gitpod-io/devx-community - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 7
+
+[Open repository](https://github.com/gitpod-io/devx-community)
 
 ## Historical data
 | Date | Stars | Forks |

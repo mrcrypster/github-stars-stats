@@ -1,6 +1,4 @@
-# arfrix/migration-roadmap / stars & forks statistics
-
-[Open repository/arfrix/migration-roadmap](https://github.com/arfrix/migration-roadmap)
+# arfrix/migration-roadmap - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 79
 
+[Open repository](https://github.com/arfrix/migration-roadmap)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 79 | 1 | 
+| 2022-10-06 | 79 | 1 | 
+| 2022-10-05 | 79 | 1 | 
+| 2022-10-04 | 79 | 1 | 
+| 2022-10-03 | 79 | 1 | 
+| 2022-10-02 | 79 | 1 | 
+| 2022-10-01 | 79 | 1 | 
+| 2022-09-30 | 79 | 1 | 
+| 2022-09-29 | 79 | 1 | 
+| 2022-09-28 | 79 | 1 | 
+| 2022-09-27 | 79 | 1 | 
+| 2022-09-26 | 79 | 1 | 
+| 2022-09-25 | 79 | 1 | 
+| 2022-09-24 | 79 | 1 | 
 | 2022-09-23 | 79 | 1 | 
 | 2022-09-22 | 80 | 1 | 
 | 2022-09-20 | 80 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 78 | 1 | 
 | 2022-09-08 | 78 | 1 | 
 | 2022-09-07 | 77 | 1 | 
-| 2022-09-06 | 77 | 1 | 
-| 2022-09-05 | 77 | 1 | 
-| 2022-09-04 | 74 | 1 | 
-| 2022-09-03 | 74 | 1 | 
-| 2022-09-02 | 73 | 1 | 
-| 2022-09-01 | 72 | 1 | 
-| 2022-08-31 | 72 | 1 | 
-| 2022-08-30 | 69 | 1 | 
-| 2022-08-29 | 69 | 1 | 
-| 2022-08-28 | 68 | 1 | 
-| 2022-08-27 | 67 | 1 | 
-| 2022-08-26 | 63 | 1 | 
-| 2022-08-25 | 60 | 1 | 
-| 2022-08-24 | 60 | 1 | 
 
 
 [Detailed charts & statistics for arfrix/migration-roadmap](https://reviewgithub.com/rep/arfrix/migration-roadmap)

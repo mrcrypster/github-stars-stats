@@ -1,6 +1,4 @@
-# maple-labs/erc20-helper / stars & forks statistics
-
-[Open repository/maple-labs/erc20-helper](https://github.com/maple-labs/erc20-helper)
+# maple-labs/erc20-helper - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 0
 
+[Open repository](https://github.com/maple-labs/erc20-helper)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 1 | 
+| 2022-10-06 | - | 1 | 
+| 2022-10-05 | - | 1 | 
+| 2022-10-04 | - | 1 | 
+| 2022-10-03 | - | 1 | 
+| 2022-10-02 | - | 1 | 
+| 2022-10-01 | - | 1 | 
+| 2022-09-30 | - | 1 | 
+| 2022-09-29 | - | 1 | 
 | 2022-09-28 | - | 1 | 
 | 2022-09-27 | - | 1 | 
 | 2022-09-26 | - | 1 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
-| 2022-09-07 | - | - | 
-| 2022-09-05 | - | - | 
-| 2022-09-04 | - | - | 
-| 2022-09-03 | - | - | 
-| 2022-09-02 | - | - | 
-| 2022-09-01 | - | - | 
-| 2022-08-31 | - | - | 
-| 2022-08-30 | - | - | 
-| 2022-08-29 | - | - | 
 
 
 [Detailed charts & statistics for maple-labs/erc20-helper](https://reviewgithub.com/rep/maple-labs/erc20-helper)

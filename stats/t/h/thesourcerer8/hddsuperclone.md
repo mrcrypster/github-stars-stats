@@ -1,16 +1,29 @@
-# thesourcerer8/hddsuperclone / stars & forks statistics
-
-[Open repository/thesourcerer8/hddsuperclone](https://github.com/thesourcerer8/hddsuperclone)
+# thesourcerer8/hddsuperclone - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 218
+★ Stars: 233
+
+[Open repository](https://github.com/thesourcerer8/hddsuperclone)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 233 | 25 | 
+| 2022-10-05 | 227 | 24 | 
+| 2022-10-04 | 220 | 24 | 
+| 2022-10-03 | 220 | 24 | 
+| 2022-10-02 | 220 | 24 | 
+| 2022-10-01 | 220 | 24 | 
+| 2022-09-30 | 220 | 24 | 
+| 2022-09-29 | 220 | 24 | 
+| 2022-09-28 | 220 | 24 | 
+| 2022-09-27 | 218 | 24 | 
+| 2022-09-26 | 218 | 24 | 
+| 2022-09-25 | 218 | 24 | 
+| 2022-09-24 | 218 | 24 | 
 | 2022-09-23 | 218 | 24 | 
 | 2022-09-22 | 218 | 24 | 
 | 2022-09-21 | 218 | 24 | 
@@ -27,20 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 206 | 20 | 
 | 2022-09-09 | 206 | 20 | 
 | 2022-09-08 | 205 | 20 | 
-| 2022-09-07 | 205 | 20 | 
-| 2022-09-06 | 204 | 20 | 
-| 2022-09-05 | 202 | 20 | 
-| 2022-09-04 | 198 | 20 | 
-| 2022-09-03 | 195 | 19 | 
-| 2022-09-02 | 194 | 18 | 
-| 2022-09-01 | 193 | 18 | 
-| 2022-08-31 | 185 | 18 | 
-| 2022-08-30 | 170 | 16 | 
-| 2022-08-29 | 165 | 15 | 
-| 2022-08-28 | 162 | 14 | 
-| 2022-08-27 | 160 | 13 | 
-| 2022-08-26 | 156 | 13 | 
-| 2022-08-25 | 150 | 9 | 
 
 
 [Detailed charts & statistics for thesourcerer8/hddsuperclone](https://reviewgithub.com/rep/thesourcerer8/hddsuperclone)

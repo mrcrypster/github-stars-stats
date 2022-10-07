@@ -1,6 +1,4 @@
-# Data-Liberation-Front/csvlint.io / stars & forks statistics
-
-[Open repository/Data-Liberation-Front/csvlint.io](https://github.com/Data-Liberation-Front/csvlint.io)
+# Data-Liberation-Front/csvlint.io - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,22 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 72
 
+[Open repository](https://github.com/Data-Liberation-Front/csvlint.io)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 72 | 10 | 
+| 2022-10-06 | 72 | 10 | 
+| 2022-10-05 | 72 | 10 | 
+| 2022-10-04 | 72 | 10 | 
+| 2022-10-03 | 72 | 10 | 
+| 2022-10-02 | 72 | 10 | 
+| 2022-10-01 | 72 | 10 | 
+| 2022-09-30 | 72 | 10 | 
+| 2022-09-29 | 72 | 10 | 
+| 2022-09-28 | 72 | 10 | 
+| 2022-09-27 | 72 | 10 | 
 | 2022-09-26 | 72 | 10 | 
 | 2022-09-25 | 72 | 10 | 
 | 2022-09-24 | 72 | 10 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 72 | 10 | 
 | 2022-09-08 | 72 | 9 | 
 | 2022-09-07 | 72 | 9 | 
-| 2022-09-06 | 72 | 9 | 
-| 2022-09-05 | 72 | 9 | 
-| 2022-09-04 | 72 | 9 | 
-| 2022-09-03 | 72 | 9 | 
-| 2022-09-02 | 72 | 9 | 
-| 2022-09-01 | 72 | 9 | 
-| 2022-08-31 | 72 | 9 | 
-| 2022-08-30 | 72 | 9 | 
-| 2022-08-29 | 72 | 9 | 
-| 2022-08-28 | 72 | 9 | 
-| 2022-08-27 | 72 | 9 | 
 
 
 [Detailed charts & statistics for Data-Liberation-Front/csvlint.io](https://reviewgithub.com/rep/Data-Liberation-Front/csvlint.io)

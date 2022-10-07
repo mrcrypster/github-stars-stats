@@ -1,6 +1,4 @@
-# OE4T/meta-tegra-community / stars & forks statistics
-
-[Open repository/OE4T/meta-tegra-community](https://github.com/OE4T/meta-tegra-community)
+# OE4T/meta-tegra-community - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/OE4T/meta-tegra-community)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 2 | 12 | 
+| 2022-10-05 | 2 | 12 | 
+| 2022-10-04 | 2 | 12 | 
+| 2022-10-03 | 2 | 12 | 
+| 2022-10-02 | 2 | 12 | 
 | 2022-10-01 | 2 | 12 | 
 | 2022-09-30 | 2 | 12 | 
 | 2022-09-29 | 2 | 12 | 
@@ -35,12 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2 | 11 | 
 | 2022-09-09 | 2 | 11 | 
 | 2022-09-08 | 2 | 11 | 
-| 2022-09-07 | 2 | 11 | 
-| 2022-09-06 | 2 | 11 | 
-| 2022-09-05 | 2 | 11 | 
-| 2022-09-04 | 2 | 11 | 
-| 2022-09-03 | 2 | 11 | 
-| 2022-09-02 | 2 | 11 | 
 
 
 [Detailed charts & statistics for OE4T/meta-tegra-community](https://reviewgithub.com/rep/OE4T/meta-tegra-community)

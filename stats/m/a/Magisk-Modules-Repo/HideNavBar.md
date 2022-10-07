@@ -1,16 +1,28 @@
-# Magisk-Modules-Repo/HideNavBar / stars & forks statistics
-
-[Open repository/Magisk-Modules-Repo/HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar)
+# Magisk-Modules-Repo/HideNavBar - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
-★ Stars: 370
+★ Stars: 375
+
+[Open repository](https://github.com/Magisk-Modules-Repo/HideNavBar)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 375 | 49 | 
+| 2022-10-06 | 375 | 49 | 
+| 2022-10-05 | 375 | 49 | 
+| 2022-10-04 | 374 | 49 | 
+| 2022-10-03 | 374 | 49 | 
+| 2022-10-02 | 371 | 49 | 
+| 2022-10-01 | 371 | 49 | 
+| 2022-09-30 | 370 | 49 | 
+| 2022-09-29 | 370 | 49 | 
+| 2022-09-28 | 370 | 49 | 
+| 2022-09-27 | 371 | 49 | 
+| 2022-09-26 | 371 | 49 | 
 | 2022-09-25 | 370 | 49 | 
 | 2022-09-24 | 370 | 49 | 
 | 2022-09-23 | 370 | 49 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 368 | 49 | 
 | 2022-09-08 | 368 | 49 | 
 | 2022-09-07 | 368 | 49 | 
-| 2022-09-06 | 368 | 49 | 
-| 2022-09-05 | 368 | 49 | 
-| 2022-09-04 | 367 | 49 | 
-| 2022-09-03 | 367 | 49 | 
-| 2022-09-02 | 367 | 49 | 
-| 2022-09-01 | 367 | 49 | 
-| 2022-08-31 | 367 | 49 | 
-| 2022-08-30 | 367 | 48 | 
-| 2022-08-29 | 367 | 48 | 
-| 2022-08-28 | 367 | 47 | 
-| 2022-08-27 | 366 | 47 | 
-| 2022-08-26 | 366 | 47 | 
 
 
 [Detailed charts & statistics for Magisk-Modules-Repo/HideNavBar](https://reviewgithub.com/rep/Magisk-Modules-Repo/HideNavBar)

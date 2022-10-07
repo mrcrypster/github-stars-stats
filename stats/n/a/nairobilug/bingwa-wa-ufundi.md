@@ -1,12 +1,12 @@
-# nairobilug/bingwa-wa-ufundi / stars & forks statistics
-
-[Open repository/nairobilug/bingwa-wa-ufundi](https://github.com/nairobilug/bingwa-wa-ufundi)
+# nairobilug/bingwa-wa-ufundi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
+
+[Open repository](https://github.com/nairobilug/bingwa-wa-ufundi)
 
 ## Historical data
 | Date | Stars | Forks |

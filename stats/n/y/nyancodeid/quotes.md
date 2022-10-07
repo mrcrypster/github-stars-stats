@@ -1,12 +1,12 @@
-# nyancodeid/quotes / stars & forks statistics
-
-[Open repository/nyancodeid/quotes](https://github.com/nyancodeid/quotes)
+# nyancodeid/quotes - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 164
 
 ★ Stars: 67
+
+[Open repository](https://github.com/nyancodeid/quotes)
 
 ## Historical data
 | Date | Stars | Forks |

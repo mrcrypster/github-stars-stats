@@ -1,16 +1,31 @@
-# Djemchik/AkatsukiRDP / stars & forks statistics
-
-[Open repository/Djemchik/AkatsukiRDP](https://github.com/Djemchik/AkatsukiRDP)
+# Djemchik/AkatsukiRDP - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 9
+☋ Forks: 13
 
 ★ Stars: 0
+
+[Open repository](https://github.com/Djemchik/AkatsukiRDP)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 13 | 
+| 2022-10-05 | - | 13 | 
+| 2022-10-04 | - | 13 | 
+| 2022-10-03 | - | 13 | 
+| 2022-10-02 | - | 13 | 
+| 2022-10-01 | - | 13 | 
+| 2022-09-30 | - | 13 | 
+| 2022-09-29 | - | 13 | 
+| 2022-09-28 | - | 12 | 
+| 2022-09-27 | - | 12 | 
+| 2022-09-26 | - | 12 | 
+| 2022-09-25 | - | 11 | 
+| 2022-09-24 | - | 10 | 
+| 2022-09-23 | - | 9 | 
+| 2022-09-22 | - | 9 | 
 | 2022-09-21 | - | 9 | 
 | 2022-09-20 | - | 9 | 
 | 2022-09-19 | - | 9 | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 8 | 
 | 2022-09-09 | - | 8 | 
 | 2022-09-08 | - | 8 | 
-| 2022-09-07 | - | 8 | 
-| 2022-09-06 | - | 8 | 
-| 2022-09-05 | - | 8 | 
-| 2022-09-04 | - | 7 | 
-| 2022-09-03 | - | 7 | 
-| 2022-09-02 | - | 7 | 
-| 2022-09-01 | - | 7 | 
-| 2022-08-31 | - | 7 | 
-| 2022-08-30 | - | 6 | 
-| 2022-08-29 | - | 5 | 
-| 2022-08-28 | - | 5 | 
-| 2022-08-27 | - | 5 | 
-| 2022-08-26 | - | 5 | 
-| 2022-08-25 | - | 5 | 
-| 2022-08-24 | - | 5 | 
-| 2022-08-23 | - | 5 | 
 
 
 [Detailed charts & statistics for Djemchik/AkatsukiRDP](https://reviewgithub.com/rep/Djemchik/AkatsukiRDP)

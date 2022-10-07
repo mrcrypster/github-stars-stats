@@ -1,12 +1,12 @@
-# pontem-network/liquidswap-lp / stars & forks statistics
-
-[Open repository/pontem-network/liquidswap-lp](https://github.com/pontem-network/liquidswap-lp)
+# pontem-network/liquidswap-lp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 8
+
+[Open repository](https://github.com/pontem-network/liquidswap-lp)
 
 ## Historical data
 | Date | Stars | Forks |

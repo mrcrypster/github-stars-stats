@@ -1,6 +1,4 @@
-# accomdemy/accomdemy_rv32i / stars & forks statistics
-
-[Open repository/accomdemy/accomdemy_rv32i](https://github.com/accomdemy/accomdemy_rv32i)
+# accomdemy/accomdemy_rv32i - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,21 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 5
 
+[Open repository](https://github.com/accomdemy/accomdemy_rv32i)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 5 | 7 | 
+| 2022-10-06 | 5 | 7 | 
+| 2022-10-05 | 5 | 7 | 
+| 2022-10-04 | 5 | 7 | 
+| 2022-10-03 | 5 | 7 | 
+| 2022-10-02 | 5 | 7 | 
+| 2022-10-01 | 5 | 7 | 
+| 2022-09-30 | 5 | 7 | 
+| 2022-09-29 | 5 | 7 | 
+| 2022-09-28 | 5 | 7 | 
 | 2022-09-27 | 5 | 7 | 
 | 2022-09-26 | 5 | 7 | 
 | 2022-09-25 | 5 | 7 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 3 | 7 | 
 | 2022-09-08 | 3 | 7 | 
 | 2022-09-07 | 3 | 7 | 
-| 2022-09-06 | 3 | 7 | 
-| 2022-09-05 | 2 | 7 | 
-| 2022-09-04 | 2 | 7 | 
-| 2022-09-03 | 2 | 7 | 
-| 2022-09-02 | 3 | 7 | 
-| 2022-09-01 | 3 | 7 | 
-| 2022-08-31 | 3 | 7 | 
-| 2022-08-30 | 3 | 7 | 
-| 2022-08-29 | 3 | 7 | 
-| 2022-08-28 | 3 | 7 | 
 
 
 [Detailed charts & statistics for accomdemy/accomdemy_rv32i](https://reviewgithub.com/rep/accomdemy/accomdemy_rv32i)

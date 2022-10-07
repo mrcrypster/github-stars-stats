@@ -1,16 +1,26 @@
-# cloudposse/terraform-aws-ecs-alb-service-task / stars & forks statistics
-
-[Open repository/cloudposse/terraform-aws-ecs-alb-service-task](https://github.com/cloudposse/terraform-aws-ecs-alb-service-task)
+# cloudposse/terraform-aws-ecs-alb-service-task - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 155
+☋ Forks: 157
 
-★ Stars: 108
+★ Stars: 115
+
+[Open repository](https://github.com/cloudposse/terraform-aws-ecs-alb-service-task)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 115 | 157 | 
+| 2022-10-05 | 114 | 157 | 
+| 2022-10-04 | 113 | 157 | 
+| 2022-10-03 | 112 | 156 | 
+| 2022-10-02 | 112 | 156 | 
+| 2022-10-01 | 111 | 156 | 
+| 2022-09-30 | 110 | 156 | 
+| 2022-09-29 | 109 | 156 | 
+| 2022-09-28 | 109 | 156 | 
+| 2022-09-27 | 108 | 156 | 
 | 2022-09-26 | 108 | 155 | 
 | 2022-09-25 | 108 | 155 | 
 | 2022-09-24 | 108 | 155 | 
@@ -30,17 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 108 | 153 | 
 | 2022-09-08 | 108 | 153 | 
 | 2022-09-07 | 108 | 153 | 
-| 2022-09-06 | 108 | 153 | 
-| 2022-09-05 | 108 | 153 | 
-| 2022-09-04 | 108 | 153 | 
-| 2022-09-03 | 108 | 153 | 
-| 2022-09-02 | 108 | 153 | 
-| 2022-09-01 | 108 | 153 | 
-| 2022-08-31 | 108 | 152 | 
-| 2022-08-30 | 108 | 152 | 
-| 2022-08-29 | 108 | 152 | 
-| 2022-08-28 | 108 | 152 | 
-| 2022-08-27 | 108 | 152 | 
 
 
 [Detailed charts & statistics for cloudposse/terraform-aws-ecs-alb-service-task](https://reviewgithub.com/rep/cloudposse/terraform-aws-ecs-alb-service-task)

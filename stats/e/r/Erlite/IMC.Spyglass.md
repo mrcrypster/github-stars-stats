@@ -1,12 +1,12 @@
-# Erlite/IMC.Spyglass / stars & forks statistics
-
-[Open repository/Erlite/IMC.Spyglass](https://github.com/Erlite/IMC.Spyglass)
+# Erlite/IMC.Spyglass - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
+
+[Open repository](https://github.com/Erlite/IMC.Spyglass)
 
 ## Historical data
 | Date | Stars | Forks |

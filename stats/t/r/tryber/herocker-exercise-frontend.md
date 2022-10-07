@@ -1,6 +1,4 @@
-# tryber/herocker-exercise-frontend / stars & forks statistics
-
-[Open repository/tryber/herocker-exercise-frontend](https://github.com/tryber/herocker-exercise-frontend)
+# tryber/herocker-exercise-frontend - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 3
 
+[Open repository](https://github.com/tryber/herocker-exercise-frontend)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 3 | 167 | 
 | 2022-10-05 | 3 | 167 | 
 | 2022-10-04 | 3 | 167 | 
 | 2022-10-03 | 3 | 167 | 
@@ -39,8 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | 165 | 
 | 2022-09-09 | 3 | 165 | 
 | 2022-09-08 | 3 | 166 | 
-| 2022-09-07 | 3 | 167 | 
-| 2022-09-06 | 3 | 166 | 
 
 
 [Detailed charts & statistics for tryber/herocker-exercise-frontend](https://reviewgithub.com/rep/tryber/herocker-exercise-frontend)

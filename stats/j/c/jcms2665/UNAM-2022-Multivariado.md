@@ -1,12 +1,12 @@
-# jcms2665/UNAM-2022-Multivariado / stars & forks statistics
-
-[Open repository/jcms2665/UNAM-2022-Multivariado](https://github.com/jcms2665/UNAM-2022-Multivariado)
+# jcms2665/UNAM-2022-Multivariado - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 0
+
+[Open repository](https://github.com/jcms2665/UNAM-2022-Multivariado)
 
 ## Historical data
 | Date | Stars | Forks |

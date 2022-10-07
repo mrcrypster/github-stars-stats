@@ -1,16 +1,22 @@
-# arut/nginx-rtmp-module / stars & forks statistics
-
-[Open repository/arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
+# arut/nginx-rtmp-module - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 3402
+☋ Forks: 3403
 
-★ Stars: 12124
+★ Stars: 12132
+
+[Open repository](https://github.com/arut/nginx-rtmp-module)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12132 | 3403 | 
+| 2022-10-05 | 12131 | 3403 | 
+| 2022-10-04 | 12130 | 3402 | 
+| 2022-10-03 | 12128 | 3402 | 
+| 2022-10-02 | 12127 | 3402 | 
+| 2022-10-01 | 12125 | 3402 | 
 | 2022-09-30 | 12124 | 3402 | 
 | 2022-09-29 | 12123 | 3403 | 
 | 2022-09-28 | 12123 | 3403 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12086 | 3402 | 
 | 2022-09-09 | 12085 | 3401 | 
 | 2022-09-08 | 12085 | 3402 | 
-| 2022-09-07 | 12085 | 3401 | 
-| 2022-09-06 | 12080 | 3401 | 
-| 2022-09-05 | 12080 | 3402 | 
-| 2022-09-04 | 12079 | 3402 | 
-| 2022-09-03 | 12079 | 3402 | 
-| 2022-09-02 | 12075 | 3402 | 
-| 2022-09-01 | 12074 | 3402 | 
 
 
 [Detailed charts & statistics for arut/nginx-rtmp-module](https://reviewgithub.com/rep/arut/nginx-rtmp-module)

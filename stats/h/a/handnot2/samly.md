@@ -1,12 +1,12 @@
-# handnot2/samly / stars & forks statistics
-
-[Open repository/handnot2/samly](https://github.com/handnot2/samly)
+# handnot2/samly - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 65
 
 ★ Stars: 117
+
+[Open repository](https://github.com/handnot2/samly)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,34 @@
-# BC-SECURITY/Beginners-Guide-to-Obfuscation / stars & forks statistics
-
-[Open repository/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
+# BC-SECURITY/Beginners-Guide-to-Obfuscation - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 99
+☋ Forks: 103
 
-★ Stars: 648
+★ Stars: 658
+
+[Open repository](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 658 | 103 | 
+| 2022-10-05 | 658 | 103 | 
+| 2022-10-04 | 657 | 102 | 
+| 2022-10-03 | 656 | 102 | 
+| 2022-10-02 | 656 | 102 | 
+| 2022-10-01 | 656 | 102 | 
+| 2022-09-30 | 656 | 102 | 
+| 2022-09-29 | 656 | 102 | 
+| 2022-09-28 | 656 | 102 | 
+| 2022-09-27 | 656 | 102 | 
+| 2022-09-26 | 655 | 101 | 
+| 2022-09-25 | 655 | 101 | 
+| 2022-09-24 | 655 | 101 | 
+| 2022-09-23 | 655 | 101 | 
+| 2022-09-22 | 654 | 101 | 
+| 2022-09-21 | 654 | 101 | 
+| 2022-09-20 | 653 | 101 | 
+| 2022-09-19 | 653 | 101 | 
 | 2022-09-18 | 648 | 99 | 
 | 2022-09-17 | 646 | 97 | 
 | 2022-09-16 | 646 | 97 | 
@@ -23,24 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 635 | 93 | 
 | 2022-09-08 | 635 | 93 | 
 | 2022-09-07 | 634 | 93 | 
-| 2022-09-06 | 629 | 91 | 
-| 2022-09-05 | 597 | 86 | 
-| 2022-09-04 | 586 | 84 | 
-| 2022-09-03 | 585 | 83 | 
-| 2022-09-02 | 583 | 82 | 
-| 2022-09-01 | 583 | 82 | 
-| 2022-08-31 | 583 | 82 | 
-| 2022-08-30 | 581 | 82 | 
-| 2022-08-29 | 578 | 82 | 
-| 2022-08-28 | 577 | 82 | 
-| 2022-08-27 | 577 | 82 | 
-| 2022-08-26 | 577 | 82 | 
-| 2022-08-25 | 575 | 81 | 
-| 2022-08-24 | 572 | 80 | 
-| 2022-08-23 | 568 | 80 | 
-| 2022-08-22 | 562 | 80 | 
-| 2022-08-21 | 559 | 80 | 
-| 2022-08-20 | 542 | 78 | 
 
 
 [Detailed charts & statistics for BC-SECURITY/Beginners-Guide-to-Obfuscation](https://reviewgithub.com/rep/BC-SECURITY/Beginners-Guide-to-Obfuscation)

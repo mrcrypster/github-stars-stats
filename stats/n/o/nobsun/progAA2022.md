@@ -1,12 +1,12 @@
-# nobsun/progAA2022 / stars & forks statistics
-
-[Open repository/nobsun/progAA2022](https://github.com/nobsun/progAA2022)
+# nobsun/progAA2022 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
+
+[Open repository](https://github.com/nobsun/progAA2022)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# rabbitmq/rabbitmq-common / stars & forks statistics
-
-[Open repository/rabbitmq/rabbitmq-common](https://github.com/rabbitmq/rabbitmq-common)
+# rabbitmq/rabbitmq-common - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 123
 
 ★ Stars: 64
+
+[Open repository](https://github.com/rabbitmq/rabbitmq-common)
 
 ## Historical data
 | Date | Stars | Forks |

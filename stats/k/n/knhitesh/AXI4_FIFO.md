@@ -1,12 +1,12 @@
-# knhitesh/AXI4_FIFO / stars & forks statistics
-
-[Open repository/knhitesh/AXI4_FIFO](https://github.com/knhitesh/AXI4_FIFO)
+# knhitesh/AXI4_FIFO - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
+
+[Open repository](https://github.com/knhitesh/AXI4_FIFO)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# interviewstreet/jquery.dragResize / stars & forks statistics
-
-[Open repository/interviewstreet/jquery.dragResize](https://github.com/interviewstreet/jquery.dragResize)
+# interviewstreet/jquery.dragResize - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/interviewstreet/jquery.dragResize)
 
 ## Historical data
 | Date | Stars | Forks |

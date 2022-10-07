@@ -1,16 +1,27 @@
-# total-typescript/beginners-typescript / stars & forks statistics
-
-[Open repository/total-typescript/beginners-typescript](https://github.com/total-typescript/beginners-typescript)
+# total-typescript/beginners-typescript - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 539
+☋ Forks: 640
 
-★ Stars: 5381
+★ Stars: 6444
+
+[Open repository](https://github.com/total-typescript/beginners-typescript)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 6444 | 640 | 
+| 2022-10-05 | 6411 | 632 | 
+| 2022-10-04 | 6385 | 625 | 
+| 2022-10-03 | 6282 | 613 | 
+| 2022-10-02 | 6113 | 595 | 
+| 2022-10-01 | 5931 | 581 | 
+| 2022-09-30 | 5797 | 561 | 
+| 2022-09-29 | 5573 | 555 | 
+| 2022-09-28 | 5507 | 549 | 
+| 2022-09-27 | 5458 | 544 | 
+| 2022-09-26 | 5424 | 542 | 
 | 2022-09-25 | 5381 | 539 | 
 | 2022-09-24 | 5352 | 537 | 
 | 2022-09-23 | 5309 | 535 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4993 | 394 | 
 | 2022-09-09 | 4879 | 381 | 
 | 2022-09-08 | 4740 | 360 | 
-| 2022-09-07 | 4507 | 339 | 
-| 2022-09-06 | 4255 | 306 | 
-| 2022-09-05 | 3953 | 266 | 
-| 2022-09-04 | 3864 | 250 | 
-| 2022-09-03 | 3814 | 244 | 
-| 2022-09-02 | 3723 | 228 | 
-| 2022-09-01 | 3647 | 218 | 
-| 2022-08-30 | 3357 | 199 | 
-| 2022-08-29 | 2906 | 173 | 
-| 2022-08-28 | 2286 | 126 | 
-| 2022-08-27 | 1626 | 91 | 
-| 2022-08-26 | 1066 | 64 | 
 
 
 [Detailed charts & statistics for total-typescript/beginners-typescript](https://reviewgithub.com/rep/total-typescript/beginners-typescript)

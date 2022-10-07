@@ -1,6 +1,4 @@
-# aaronallen8455/breakpoint / stars & forks statistics
-
-[Open repository/aaronallen8455/breakpoint](https://github.com/aaronallen8455/breakpoint)
+# aaronallen8455/breakpoint - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 32
 
+[Open repository](https://github.com/aaronallen8455/breakpoint)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 32 | - | 
+| 2022-10-06 | 32 | - | 
+| 2022-10-05 | 32 | - | 
+| 2022-10-04 | 32 | - | 
+| 2022-10-03 | 32 | - | 
+| 2022-10-02 | 32 | - | 
+| 2022-10-01 | 32 | - | 
+| 2022-09-30 | 32 | - | 
+| 2022-09-29 | 32 | - | 
+| 2022-09-28 | 32 | - | 
+| 2022-09-27 | 32 | - | 
+| 2022-09-26 | 32 | - | 
+| 2022-09-25 | 32 | - | 
+| 2022-09-24 | 32 | - | 
+| 2022-09-23 | 32 | - | 
 | 2022-09-22 | 32 | - | 
 | 2022-09-21 | 32 | - | 
 | 2022-09-20 | 32 | - | 
@@ -26,21 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 29 | - | 
 | 2022-09-08 | 29 | - | 
 | 2022-09-07 | 29 | - | 
-| 2022-09-06 | 29 | - | 
-| 2022-09-05 | 29 | - | 
-| 2022-09-04 | 29 | - | 
-| 2022-09-03 | 29 | - | 
-| 2022-09-02 | 29 | - | 
-| 2022-09-01 | 29 | - | 
-| 2022-08-31 | 29 | - | 
-| 2022-08-30 | 29 | - | 
-| 2022-08-29 | 28 | - | 
-| 2022-08-28 | 28 | - | 
-| 2022-08-27 | 28 | - | 
-| 2022-08-26 | 27 | - | 
-| 2022-08-25 | 27 | - | 
-| 2022-08-24 | 20 | - | 
-| 2022-08-23 | 19 | - | 
 
 
 [Detailed charts & statistics for aaronallen8455/breakpoint](https://reviewgithub.com/rep/aaronallen8455/breakpoint)

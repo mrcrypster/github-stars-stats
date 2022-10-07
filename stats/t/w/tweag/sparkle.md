@@ -1,12 +1,12 @@
-# tweag/sparkle / stars & forks statistics
-
-[Open repository/tweag/sparkle](https://github.com/tweag/sparkle)
+# tweag/sparkle - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 439
+
+[Open repository](https://github.com/tweag/sparkle)
 
 ## Historical data
 | Date | Stars | Forks |

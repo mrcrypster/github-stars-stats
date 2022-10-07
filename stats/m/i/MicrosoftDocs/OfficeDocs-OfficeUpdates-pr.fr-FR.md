@@ -1,6 +1,4 @@
-# MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR / stars & forks statistics
-
-[Open repository/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR)
+# MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,39 +6,41 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 9
 
+[Open repository](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-08-24 | 9 | 3 | 
-| 2022-08-23 | 9 | 3 | 
-| 2022-08-22 | 9 | 3 | 
-| 2022-08-21 | 9 | 3 | 
-| 2022-08-20 | 9 | 3 | 
-| 2022-08-19 | 9 | 3 | 
-| 2022-08-18 | 9 | 3 | 
-| 2022-08-17 | 9 | 3 | 
-| 2022-08-16 | 9 | 3 | 
-| 2022-08-15 | 9 | 3 | 
-| 2022-08-14 | 9 | 3 | 
-| 2022-08-13 | 9 | 3 | 
-| 2022-08-12 | 9 | 3 | 
-| 2022-08-11 | 9 | 3 | 
-| 2022-08-10 | 9 | 3 | 
-| 2022-08-09 | 9 | 3 | 
-| 2022-08-08 | 8 | 3 | 
-| 2022-08-07 | 8 | 3 | 
-| 2022-08-06 | 8 | 3 | 
-| 2022-08-05 | 8 | 3 | 
-| 2022-08-04 | 8 | 3 | 
-| 2022-08-03 | 8 | 3 | 
-| 2022-08-02 | 8 | 3 | 
-| 2022-08-01 | 8 | 3 | 
-| 2022-07-31 | 8 | 3 | 
-| 2022-07-30 | 8 | 3 | 
-| 2022-07-29 | 8 | 3 | 
-| 2022-07-28 | 8 | 3 | 
-| 2022-07-27 | 8 | 3 | 
-| 2022-07-26 | 8 | 3 | 
+| 2022-10-07 | 9 | 3 | 
+| 2022-10-06 | 9 | 3 | 
+| 2022-10-05 | 9 | 3 | 
+| 2022-10-04 | 9 | 3 | 
+| 2022-10-02 | 9 | 3 | 
+| 2022-10-01 | 9 | 3 | 
+| 2022-09-30 | 9 | 3 | 
+| 2022-09-29 | 9 | 3 | 
+| 2022-09-28 | 9 | 3 | 
+| 2022-09-27 | 9 | 3 | 
+| 2022-09-26 | 9 | 3 | 
+| 2022-09-25 | 9 | 3 | 
+| 2022-09-24 | 9 | 3 | 
+| 2022-09-23 | 9 | 3 | 
+| 2022-09-22 | 9 | 3 | 
+| 2022-09-21 | 9 | 3 | 
+| 2022-09-20 | 9 | 3 | 
+| 2022-09-19 | 9 | 3 | 
+| 2022-09-18 | 9 | 3 | 
+| 2022-09-17 | 9 | 3 | 
+| 2022-09-16 | 9 | 3 | 
+| 2022-09-15 | 9 | 3 | 
+| 2022-09-14 | 9 | 3 | 
+| 2022-09-13 | 9 | 3 | 
+| 2022-09-12 | 9 | 3 | 
+| 2022-09-11 | 9 | 3 | 
+| 2022-09-10 | 9 | 3 | 
+| 2022-09-09 | 9 | 3 | 
+| 2022-09-08 | 9 | 3 | 
+| 2022-09-07 | 9 | 3 | 
 
 
 [Detailed charts & statistics for MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR)

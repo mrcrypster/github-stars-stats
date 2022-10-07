@@ -1,6 +1,4 @@
-# zaqk/for-loop-optimizations / stars & forks statistics
-
-[Open repository/zaqk/for-loop-optimizations](https://github.com/zaqk/for-loop-optimizations)
+# zaqk/for-loop-optimizations - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,26 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 12
 
+[Open repository](https://github.com/zaqk/for-loop-optimizations)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 12 | - | 
+| 2022-10-05 | 12 | - | 
+| 2022-10-04 | 12 | - | 
+| 2022-10-03 | 12 | - | 
+| 2022-10-02 | 12 | - | 
+| 2022-10-01 | 12 | - | 
+| 2022-09-30 | 12 | - | 
+| 2022-09-29 | 12 | - | 
+| 2022-09-28 | 12 | - | 
+| 2022-09-27 | 12 | - | 
+| 2022-09-26 | 12 | - | 
+| 2022-09-25 | 12 | - | 
+| 2022-09-24 | 12 | - | 
+| 2022-09-23 | 12 | - | 
+| 2022-09-22 | 12 | - | 
 | 2022-09-21 | 12 | - | 
 | 2022-09-20 | 12 | - | 
 | 2022-09-19 | 12 | - | 
@@ -25,22 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 12 | - | 
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
-| 2022-09-07 | 12 | - | 
-| 2022-09-06 | 12 | - | 
-| 2022-09-05 | 12 | - | 
-| 2022-09-04 | 12 | - | 
-| 2022-09-03 | 12 | - | 
-| 2022-09-02 | 12 | - | 
-| 2022-08-31 | 12 | - | 
-| 2022-08-30 | 12 | - | 
-| 2022-08-29 | 12 | - | 
-| 2022-08-28 | 12 | - | 
-| 2022-08-27 | 12 | - | 
-| 2022-08-26 | 12 | - | 
-| 2022-08-25 | 12 | - | 
-| 2022-08-24 | 12 | - | 
-| 2022-08-23 | 11 | - | 
-| 2022-08-22 | 10 | - | 
 
 
 [Detailed charts & statistics for zaqk/for-loop-optimizations](https://reviewgithub.com/rep/zaqk/for-loop-optimizations)

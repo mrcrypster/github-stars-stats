@@ -1,6 +1,4 @@
-# avik-pal/SimpleConfig.jl / stars & forks statistics
-
-[Open repository/avik-pal/SimpleConfig.jl](https://github.com/avik-pal/SimpleConfig.jl)
+# avik-pal/SimpleConfig.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 14
 
+[Open repository](https://github.com/avik-pal/SimpleConfig.jl)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 14 | - | 
+| 2022-10-06 | 14 | - | 
+| 2022-10-05 | 14 | - | 
+| 2022-10-04 | 14 | - | 
+| 2022-10-03 | 14 | - | 
+| 2022-10-02 | 14 | - | 
+| 2022-10-01 | 14 | - | 
+| 2022-09-30 | 14 | - | 
+| 2022-09-29 | 14 | - | 
+| 2022-09-28 | 14 | - | 
+| 2022-09-27 | 14 | - | 
+| 2022-09-26 | 14 | - | 
+| 2022-09-25 | 14 | - | 
 | 2022-09-24 | 14 | - | 
 | 2022-09-23 | 14 | - | 
 | 2022-09-22 | 14 | - | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 | 2022-09-07 | 14 | - | 
-| 2022-09-06 | 13 | - | 
-| 2022-09-05 | 13 | - | 
-| 2022-09-04 | 13 | - | 
-| 2022-09-03 | 13 | - | 
-| 2022-09-02 | 13 | - | 
-| 2022-09-01 | 13 | - | 
-| 2022-08-31 | 13 | - | 
-| 2022-08-30 | 13 | - | 
-| 2022-08-29 | 13 | - | 
-| 2022-08-28 | 13 | - | 
-| 2022-08-27 | 13 | - | 
-| 2022-08-26 | 12 | - | 
-| 2022-08-25 | 12 | - | 
 
 
 [Detailed charts & statistics for avik-pal/SimpleConfig.jl](https://reviewgithub.com/rep/avik-pal/SimpleConfig.jl)

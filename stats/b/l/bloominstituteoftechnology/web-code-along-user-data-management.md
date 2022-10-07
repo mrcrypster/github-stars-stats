@@ -1,12 +1,12 @@
-# bloominstituteoftechnology/web-code-along-user-data-management / stars & forks statistics
-
-[Open repository/bloominstituteoftechnology/web-code-along-user-data-management](https://github.com/bloominstituteoftechnology/web-code-along-user-data-management)
+# bloominstituteoftechnology/web-code-along-user-data-management - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bloominstituteoftechnology/web-code-along-user-data-management)
 
 ## Historical data
 | Date | Stars | Forks |

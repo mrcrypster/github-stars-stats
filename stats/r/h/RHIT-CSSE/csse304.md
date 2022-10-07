@@ -1,6 +1,4 @@
-# RHIT-CSSE/csse304 / stars & forks statistics
-
-[Open repository/RHIT-CSSE/csse304](https://github.com/RHIT-CSSE/csse304)
+# RHIT-CSSE/csse304 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,12 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/RHIT-CSSE/csse304)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 16 | 
 | 2022-10-05 | 1 | 16 | 
 | 2022-10-04 | 1 | 16 | 
 | 2022-10-03 | 1 | 16 | 
@@ -40,7 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 1 | 13 | 
 | 2022-09-08 | 1 | 12 | 
 | 2022-09-07 | 1 | 12 | 
-| 2022-09-06 | 1 | 12 | 
 
 
 [Detailed charts & statistics for RHIT-CSSE/csse304](https://reviewgithub.com/rep/RHIT-CSSE/csse304)

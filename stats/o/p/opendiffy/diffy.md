@@ -1,12 +1,12 @@
-# opendiffy/diffy / stars & forks statistics
-
-[Open repository/opendiffy/diffy](https://github.com/opendiffy/diffy)
+# opendiffy/diffy - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 108
 
 ★ Stars: 891
+
+[Open repository](https://github.com/opendiffy/diffy)
 
 ## Historical data
 | Date | Stars | Forks |

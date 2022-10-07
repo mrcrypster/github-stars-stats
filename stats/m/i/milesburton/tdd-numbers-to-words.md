@@ -1,12 +1,12 @@
-# milesburton/tdd-numbers-to-words / stars & forks statistics
-
-[Open repository/milesburton/tdd-numbers-to-words](https://github.com/milesburton/tdd-numbers-to-words)
+# milesburton/tdd-numbers-to-words - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/milesburton/tdd-numbers-to-words)
 
 ## Historical data
 | Date | Stars | Forks |

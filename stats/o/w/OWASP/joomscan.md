@@ -1,16 +1,26 @@
-# OWASP/joomscan / stars & forks statistics
-
-[Open repository/OWASP/joomscan](https://github.com/OWASP/joomscan)
+# OWASP/joomscan - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 232
+☋ Forks: 231
 
-★ Stars: 857
+★ Stars: 856
+
+[Open repository](https://github.com/OWASP/joomscan)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 856 | 231 | 
+| 2022-10-06 | 856 | 231 | 
+| 2022-10-05 | 856 | 231 | 
+| 2022-10-04 | 855 | 231 | 
+| 2022-10-03 | 855 | 231 | 
+| 2022-10-02 | 856 | 232 | 
+| 2022-10-01 | 856 | 232 | 
+| 2022-09-30 | 856 | 232 | 
+| 2022-09-29 | 857 | 232 | 
+| 2022-09-28 | 857 | 232 | 
 | 2022-09-27 | 857 | 232 | 
 | 2022-09-26 | 857 | 232 | 
 | 2022-09-25 | 856 | 232 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 853 | 231 | 
 | 2022-09-08 | 853 | 231 | 
 | 2022-09-07 | 852 | 231 | 
-| 2022-09-06 | 853 | 231 | 
-| 2022-09-05 | 853 | 231 | 
-| 2022-09-04 | 853 | 231 | 
-| 2022-09-03 | 854 | 231 | 
-| 2022-09-02 | 854 | 230 | 
-| 2022-09-01 | 854 | 229 | 
-| 2022-08-31 | 854 | 229 | 
-| 2022-08-30 | 854 | 229 | 
-| 2022-08-29 | 854 | 229 | 
-| 2022-08-28 | 853 | 229 | 
 
 
 [Detailed charts & statistics for OWASP/joomscan](https://reviewgithub.com/rep/OWASP/joomscan)

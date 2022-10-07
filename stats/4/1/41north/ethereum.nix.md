@@ -1,12 +1,12 @@
-# 41north/ethereum.nix / stars & forks statistics
-
-[Open repository/41north/ethereum.nix](https://github.com/41north/ethereum.nix)
+# 41north/ethereum.nix - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 20
+
+[Open repository](https://github.com/41north/ethereum.nix)
 
 ## Historical data
 | Date | Stars | Forks |

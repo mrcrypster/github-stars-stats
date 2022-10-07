@@ -1,6 +1,4 @@
-# mikkun/sedmines / stars & forks statistics
-
-[Open repository/mikkun/sedmines](https://github.com/mikkun/sedmines)
+# mikkun/sedmines - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,24 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 22
 
+[Open repository](https://github.com/mikkun/sedmines)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 22 | 1 | 
+| 2022-10-06 | 22 | 1 | 
+| 2022-10-05 | 22 | 1 | 
+| 2022-10-04 | 22 | 1 | 
+| 2022-10-03 | 22 | 1 | 
+| 2022-10-02 | 22 | 1 | 
+| 2022-10-01 | 22 | 1 | 
+| 2022-09-30 | 22 | 1 | 
+| 2022-09-29 | 22 | 1 | 
+| 2022-09-28 | 22 | 1 | 
+| 2022-09-27 | 22 | 1 | 
+| 2022-09-26 | 22 | 1 | 
+| 2022-09-25 | 22 | 1 | 
 | 2022-09-24 | 22 | 1 | 
 | 2022-09-23 | 22 | 1 | 
 | 2022-09-22 | 22 | 1 | 
@@ -28,19 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 22 | 1 | 
 | 2022-09-08 | 22 | 1 | 
 | 2022-09-07 | 22 | 1 | 
-| 2022-09-06 | 22 | 1 | 
-| 2022-09-05 | 22 | 1 | 
-| 2022-09-04 | 22 | 1 | 
-| 2022-09-03 | 22 | 1 | 
-| 2022-09-02 | 22 | 1 | 
-| 2022-09-01 | 22 | 1 | 
-| 2022-08-31 | 22 | 1 | 
-| 2022-08-30 | 22 | 1 | 
-| 2022-08-29 | 22 | 1 | 
-| 2022-08-28 | 22 | 1 | 
-| 2022-08-27 | 22 | 1 | 
-| 2022-08-26 | 22 | 1 | 
-| 2022-08-25 | 22 | 1 | 
 
 
 [Detailed charts & statistics for mikkun/sedmines](https://reviewgithub.com/rep/mikkun/sedmines)

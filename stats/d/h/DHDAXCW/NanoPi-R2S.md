@@ -1,12 +1,12 @@
-# DHDAXCW/NanoPi-R2S / stars & forks statistics
-
-[Open repository/DHDAXCW/NanoPi-R2S](https://github.com/DHDAXCW/NanoPi-R2S)
+# DHDAXCW/NanoPi-R2S - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
 ★ Stars: 
+
+[Open repository](https://github.com/DHDAXCW/NanoPi-R2S)
 
 ## Historical data
 | Date | Stars | Forks |

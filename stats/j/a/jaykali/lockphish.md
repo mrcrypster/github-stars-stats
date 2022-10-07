@@ -1,16 +1,23 @@
-# jaykali/lockphish / stars & forks statistics
-
-[Open repository/jaykali/lockphish](https://github.com/jaykali/lockphish)
+# jaykali/lockphish - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 93
 
-★ Stars: 591
+★ Stars: 594
+
+[Open repository](https://github.com/jaykali/lockphish)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 594 | 93 | 
+| 2022-10-05 | 593 | 93 | 
+| 2022-10-04 | 593 | 93 | 
+| 2022-10-03 | 593 | 93 | 
+| 2022-10-02 | 592 | 93 | 
+| 2022-10-01 | 591 | 93 | 
+| 2022-09-30 | 591 | 93 | 
 | 2022-09-29 | 591 | 93 | 
 | 2022-09-28 | 591 | 93 | 
 | 2022-09-27 | 591 | 93 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 577 | 91 | 
 | 2022-09-09 | 576 | 91 | 
 | 2022-09-08 | 576 | 91 | 
-| 2022-09-07 | 574 | 91 | 
-| 2022-09-06 | 574 | 91 | 
-| 2022-09-05 | 574 | 90 | 
-| 2022-09-04 | 573 | 90 | 
-| 2022-09-03 | 572 | 90 | 
-| 2022-09-02 | 568 | 90 | 
-| 2022-09-01 | 566 | 90 | 
-| 2022-08-31 | 566 | 90 | 
 
 
 [Detailed charts & statistics for jaykali/lockphish](https://reviewgithub.com/rep/jaykali/lockphish)

@@ -1,12 +1,12 @@
-# missuo/FuckSheepGame / stars & forks statistics
-
-[Open repository/missuo/FuckSheepGame](https://github.com/missuo/FuckSheepGame)
+# missuo/FuckSheepGame - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 68
+
+[Open repository](https://github.com/missuo/FuckSheepGame)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# Yemeni-Open-Source/blade-realtime-input / stars & forks statistics
-
-[Open repository/Yemeni-Open-Source/blade-realtime-input](https://github.com/Yemeni-Open-Source/blade-realtime-input)
+# Yemeni-Open-Source/blade-realtime-input - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,27 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 47
 
+[Open repository](https://github.com/Yemeni-Open-Source/blade-realtime-input)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 47 | 1 | 
+| 2022-10-06 | 47 | 1 | 
+| 2022-10-05 | 47 | 1 | 
+| 2022-10-04 | 47 | 1 | 
+| 2022-10-03 | 47 | 1 | 
+| 2022-10-02 | 47 | 1 | 
+| 2022-10-01 | 47 | 1 | 
+| 2022-09-30 | 47 | 1 | 
+| 2022-09-29 | 47 | 1 | 
+| 2022-09-28 | 47 | 1 | 
+| 2022-09-27 | 47 | 1 | 
+| 2022-09-26 | 47 | 1 | 
+| 2022-09-25 | 47 | 1 | 
+| 2022-09-24 | 47 | 1 | 
+| 2022-09-23 | 47 | 1 | 
+| 2022-09-22 | 47 | 1 | 
 | 2022-09-21 | 47 | 1 | 
 | 2022-09-20 | 47 | 1 | 
 | 2022-09-19 | 46 | 1 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 46 | 1 | 
 | 2022-09-08 | 46 | 1 | 
 | 2022-09-07 | 46 | 1 | 
-| 2022-09-06 | 46 | 1 | 
-| 2022-09-05 | 46 | 1 | 
-| 2022-09-04 | 46 | 1 | 
-| 2022-09-03 | 46 | 1 | 
-| 2022-09-02 | 46 | 1 | 
-| 2022-09-01 | 46 | 1 | 
-| 2022-08-31 | 46 | 1 | 
-| 2022-08-30 | 44 | 1 | 
-| 2022-08-29 | 44 | 1 | 
-| 2022-08-28 | 44 | 1 | 
-| 2022-08-27 | 43 | 1 | 
-| 2022-08-26 | 43 | 1 | 
-| 2022-08-25 | 43 | 1 | 
-| 2022-08-24 | 43 | 1 | 
-| 2022-08-23 | 43 | 1 | 
-| 2022-08-22 | 42 | 1 | 
 
 
 [Detailed charts & statistics for Yemeni-Open-Source/blade-realtime-input](https://reviewgithub.com/rep/Yemeni-Open-Source/blade-realtime-input)

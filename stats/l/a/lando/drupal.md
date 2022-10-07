@@ -1,6 +1,4 @@
-# lando/drupal / stars & forks statistics
-
-[Open repository/lando/drupal](https://github.com/lando/drupal)
+# lando/drupal - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 2
 
+[Open repository](https://github.com/lando/drupal)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2 | 7 | 
+| 2022-10-06 | 2 | 7 | 
+| 2022-10-05 | 2 | 7 | 
+| 2022-10-04 | 2 | 7 | 
+| 2022-10-03 | 2 | 7 | 
+| 2022-10-02 | 2 | 7 | 
+| 2022-10-01 | 2 | 7 | 
+| 2022-09-30 | 2 | 7 | 
+| 2022-09-29 | 2 | 7 | 
 | 2022-09-28 | 2 | 7 | 
 | 2022-09-27 | 2 | 7 | 
 | 2022-09-26 | 2 | 7 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 2 | 6 | 
 | 2022-09-08 | 2 | 6 | 
 | 2022-09-07 | 2 | 6 | 
-| 2022-09-06 | 2 | 6 | 
-| 2022-09-05 | 2 | 6 | 
-| 2022-09-04 | 2 | 6 | 
-| 2022-09-03 | 2 | 6 | 
-| 2022-09-02 | 2 | 6 | 
-| 2022-09-01 | 2 | 6 | 
-| 2022-08-31 | 2 | 6 | 
-| 2022-08-30 | 2 | 6 | 
-| 2022-08-29 | 2 | 6 | 
 
 
 [Detailed charts & statistics for lando/drupal](https://reviewgithub.com/rep/lando/drupal)

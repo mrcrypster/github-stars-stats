@@ -1,6 +1,4 @@
-# mooculus/calculus / stars & forks statistics
-
-[Open repository/mooculus/calculus](https://github.com/mooculus/calculus)
+# mooculus/calculus - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,23 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 106
 
+[Open repository](https://github.com/mooculus/calculus)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 106 | 314 | 
+| 2022-10-06 | 106 | 314 | 
+| 2022-10-05 | 106 | 314 | 
+| 2022-10-04 | 106 | 314 | 
+| 2022-10-03 | 106 | 314 | 
+| 2022-10-02 | 106 | 313 | 
+| 2022-10-01 | 106 | 314 | 
+| 2022-09-30 | 106 | 314 | 
+| 2022-09-29 | 106 | 314 | 
+| 2022-09-28 | 106 | 314 | 
+| 2022-09-27 | 106 | 314 | 
+| 2022-09-26 | 106 | 314 | 
 | 2022-09-25 | 106 | 314 | 
 | 2022-09-24 | 106 | 313 | 
 | 2022-09-23 | 106 | 313 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 103 | 309 | 
 | 2022-09-08 | 103 | 309 | 
 | 2022-09-07 | 103 | 309 | 
-| 2022-09-06 | 103 | 309 | 
-| 2022-09-05 | 103 | 308 | 
-| 2022-09-04 | 103 | 307 | 
-| 2022-09-03 | 103 | 307 | 
-| 2022-09-02 | 103 | 307 | 
-| 2022-09-01 | 103 | 307 | 
-| 2022-08-31 | 103 | 307 | 
-| 2022-08-30 | 103 | 307 | 
-| 2022-08-29 | 103 | 306 | 
-| 2022-08-28 | 103 | 306 | 
-| 2022-08-27 | 103 | 306 | 
-| 2022-08-26 | 103 | 305 | 
 
 
 [Detailed charts & statistics for mooculus/calculus](https://reviewgithub.com/rep/mooculus/calculus)

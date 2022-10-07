@@ -1,6 +1,4 @@
-# bit-mips/bitmips_experiments / stars & forks statistics
-
-[Open repository/bit-mips/bitmips_experiments](https://github.com/bit-mips/bitmips_experiments)
+# bit-mips/bitmips_experiments - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 25
 
+[Open repository](https://github.com/bit-mips/bitmips_experiments)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 25 | 7 | 
+| 2022-10-06 | 25 | 7 | 
+| 2022-10-05 | 25 | 7 | 
+| 2022-10-04 | 25 | 7 | 
+| 2022-10-03 | 25 | 7 | 
+| 2022-10-02 | 25 | 7 | 
+| 2022-10-01 | 25 | 7 | 
+| 2022-09-30 | 25 | 7 | 
+| 2022-09-29 | 25 | 7 | 
+| 2022-09-28 | 25 | 7 | 
+| 2022-09-27 | 25 | 7 | 
+| 2022-09-26 | 25 | 7 | 
+| 2022-09-25 | 25 | 7 | 
+| 2022-09-24 | 25 | 7 | 
 | 2022-09-23 | 25 | 7 | 
 | 2022-09-22 | 25 | 7 | 
 | 2022-09-21 | 25 | 7 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 24 | 8 | 
 | 2022-09-08 | 24 | 8 | 
 | 2022-09-07 | 24 | 8 | 
-| 2022-09-06 | 24 | 8 | 
-| 2022-09-05 | 24 | 8 | 
-| 2022-09-04 | 24 | 8 | 
-| 2022-09-03 | 24 | 8 | 
-| 2022-09-02 | 24 | 8 | 
-| 2022-09-01 | 24 | 8 | 
-| 2022-08-31 | 24 | 8 | 
-| 2022-08-30 | 24 | 8 | 
-| 2022-08-29 | 24 | 8 | 
-| 2022-08-28 | 24 | 7 | 
-| 2022-08-27 | 24 | 7 | 
-| 2022-08-26 | 23 | 7 | 
-| 2022-08-25 | 23 | 7 | 
-| 2022-08-24 | 22 | 7 | 
 
 
 [Detailed charts & statistics for bit-mips/bitmips_experiments](https://reviewgithub.com/rep/bit-mips/bitmips_experiments)

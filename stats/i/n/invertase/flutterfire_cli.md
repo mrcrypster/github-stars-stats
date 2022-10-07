@@ -1,12 +1,12 @@
-# invertase/flutterfire_cli / stars & forks statistics
-
-[Open repository/invertase/flutterfire_cli](https://github.com/invertase/flutterfire_cli)
+# invertase/flutterfire_cli - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 92
+
+[Open repository](https://github.com/invertase/flutterfire_cli)
 
 ## Historical data
 | Date | Stars | Forks |

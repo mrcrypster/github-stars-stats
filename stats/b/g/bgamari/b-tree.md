@@ -1,12 +1,12 @@
-# bgamari/b-tree / stars & forks statistics
-
-[Open repository/bgamari/b-tree](https://github.com/bgamari/b-tree)
+# bgamari/b-tree - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 114
+
+[Open repository](https://github.com/bgamari/b-tree)
 
 ## Historical data
 | Date | Stars | Forks |

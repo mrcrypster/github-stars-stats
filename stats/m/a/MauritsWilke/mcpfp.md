@@ -1,16 +1,25 @@
-# MauritsWilke/mcpfp / stars & forks statistics
-
-[Open repository/MauritsWilke/mcpfp](https://github.com/MauritsWilke/mcpfp)
+# MauritsWilke/mcpfp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 24
+
+[Open repository](https://github.com/MauritsWilke/mcpfp)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 24 | 6 | 
+| 2022-10-06 | 24 | 6 | 
+| 2022-10-05 | 24 | 6 | 
+| 2022-10-04 | 24 | 5 | 
+| 2022-10-03 | 24 | 5 | 
+| 2022-10-02 | 24 | 5 | 
+| 2022-10-01 | 24 | 5 | 
+| 2022-09-30 | 24 | 5 | 
+| 2022-09-29 | 24 | 5 | 
 | 2022-09-28 | 24 | 5 | 
 | 2022-09-27 | 24 | 5 | 
 | 2022-09-26 | 24 | 5 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 23 | 5 | 
 | 2022-09-08 | 23 | 4 | 
 | 2022-09-07 | 23 | 4 | 
-| 2022-09-06 | 23 | 4 | 
-| 2022-09-05 | 23 | 4 | 
-| 2022-09-04 | 23 | 4 | 
-| 2022-09-03 | 23 | 4 | 
-| 2022-09-02 | 23 | 4 | 
-| 2022-09-01 | 23 | 4 | 
-| 2022-08-31 | 22 | 4 | 
-| 2022-08-30 | 20 | 4 | 
-| 2022-08-29 | 20 | 4 | 
 
 
 [Detailed charts & statistics for MauritsWilke/mcpfp](https://reviewgithub.com/rep/MauritsWilke/mcpfp)

@@ -1,6 +1,4 @@
-# mahmoudbadawy123/MySummaries / stars & forks statistics
-
-[Open repository/mahmoudbadawy123/MySummaries](https://github.com/mahmoudbadawy123/MySummaries)
+# mahmoudbadawy123/MySummaries - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,18 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 27
 
+[Open repository](https://github.com/mahmoudbadawy123/MySummaries)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 27 | 13 | 
+| 2022-10-05 | 27 | 13 | 
+| 2022-10-04 | 27 | 13 | 
+| 2022-10-03 | 27 | 13 | 
+| 2022-10-02 | 27 | 13 | 
+| 2022-10-01 | 27 | 13 | 
+| 2022-09-30 | 27 | 13 | 
 | 2022-09-29 | 27 | 13 | 
 | 2022-09-28 | 27 | 13 | 
 | 2022-09-27 | 27 | 13 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 27 | 13 | 
 | 2022-09-09 | 27 | 13 | 
 | 2022-09-08 | 27 | 13 | 
-| 2022-09-07 | 27 | 13 | 
-| 2022-09-06 | 27 | 13 | 
-| 2022-09-05 | 27 | 13 | 
-| 2022-09-04 | 27 | 13 | 
-| 2022-09-03 | 27 | 13 | 
-| 2022-09-02 | 27 | 14 | 
-| 2022-08-31 | 27 | 14 | 
-| 2022-08-30 | 27 | 14 | 
 
 
 [Detailed charts & statistics for mahmoudbadawy123/MySummaries](https://reviewgithub.com/rep/mahmoudbadawy123/MySummaries)

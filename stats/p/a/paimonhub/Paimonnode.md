@@ -1,16 +1,26 @@
-# paimonhub/Paimonnode / stars & forks statistics
-
-[Open repository/paimonhub/Paimonnode](https://github.com/paimonhub/Paimonnode)
+# paimonhub/Paimonnode - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 11
+☋ Forks: 16
 
-★ Stars: 46
+★ Stars: 78
+
+[Open repository](https://github.com/paimonhub/Paimonnode)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 78 | 16 | 
+| 2022-10-06 | 77 | 16 | 
+| 2022-10-05 | 68 | 16 | 
+| 2022-10-04 | 65 | 15 | 
+| 2022-10-03 | 54 | 14 | 
+| 2022-10-02 | 50 | 13 | 
+| 2022-10-01 | 48 | 13 | 
+| 2022-09-30 | 48 | 13 | 
+| 2022-09-29 | 48 | 13 | 
+| 2022-09-28 | 46 | 11 | 
 | 2022-09-27 | 46 | 11 | 
 | 2022-09-26 | 46 | 11 | 
 | 2022-09-25 | 42 | 10 | 
@@ -31,16 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 26 | 4 | 
 | 2022-09-09 | 23 | 4 | 
 | 2022-09-08 | 23 | 4 | 
-| 2022-09-07 | 22 | 4 | 
-| 2022-09-06 | 23 | 4 | 
-| 2022-09-05 | 23 | 4 | 
-| 2022-09-04 | 23 | 4 | 
-| 2022-09-03 | 23 | 4 | 
-| 2022-09-02 | 22 | 4 | 
-| 2022-09-01 | 22 | 4 | 
-| 2022-08-31 | 20 | 3 | 
-| 2022-08-30 | 18 | 3 | 
-| 2022-08-29 | 15 | 3 | 
 
 
 [Detailed charts & statistics for paimonhub/Paimonnode](https://reviewgithub.com/rep/paimonhub/Paimonnode)

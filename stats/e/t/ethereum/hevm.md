@@ -1,6 +1,4 @@
-# ethereum/hevm / stars & forks statistics
-
-[Open repository/ethereum/hevm](https://github.com/ethereum/hevm)
+# ethereum/hevm - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,16 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 34
 
+[Open repository](https://github.com/ethereum/hevm)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 34 | 2 | 
+| 2022-10-05 | 34 | 2 | 
+| 2022-10-04 | 34 | 2 | 
+| 2022-10-03 | 34 | 2 | 
+| 2022-10-02 | 34 | 2 | 
 | 2022-10-01 | 34 | 2 | 
 | 2022-09-30 | 34 | 2 | 
 | 2022-09-29 | 34 | 2 | 
@@ -36,11 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 31 | 2 | 
 | 2022-09-08 | 31 | 2 | 
 | 2022-09-07 | 31 | 2 | 
-| 2022-09-06 | 29 | 2 | 
-| 2022-09-05 | 28 | 1 | 
-| 2022-09-04 | 27 | 1 | 
-| 2022-09-03 | 27 | 1 | 
-| 2022-09-02 | 26 | 1 | 
 
 
 [Detailed charts & statistics for ethereum/hevm](https://reviewgithub.com/rep/ethereum/hevm)

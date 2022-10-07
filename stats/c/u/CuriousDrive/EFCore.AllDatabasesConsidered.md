@@ -1,16 +1,28 @@
-# CuriousDrive/EFCore.AllDatabasesConsidered / stars & forks statistics
-
-[Open repository/CuriousDrive/EFCore.AllDatabasesConsidered](https://github.com/CuriousDrive/EFCore.AllDatabasesConsidered)
+# CuriousDrive/EFCore.AllDatabasesConsidered - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 41
+☋ Forks: 42
 
-★ Stars: 50
+★ Stars: 51
+
+[Open repository](https://github.com/CuriousDrive/EFCore.AllDatabasesConsidered)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 51 | 42 | 
+| 2022-10-06 | 51 | 42 | 
+| 2022-10-05 | 50 | 42 | 
+| 2022-10-04 | 50 | 42 | 
+| 2022-10-03 | 50 | 42 | 
+| 2022-10-02 | 50 | 41 | 
+| 2022-10-01 | 50 | 41 | 
+| 2022-09-30 | 50 | 41 | 
+| 2022-09-29 | 50 | 41 | 
+| 2022-09-28 | 50 | 41 | 
+| 2022-09-27 | 50 | 41 | 
+| 2022-09-26 | 50 | 41 | 
 | 2022-09-25 | 50 | 41 | 
 | 2022-09-24 | 50 | 41 | 
 | 2022-09-23 | 49 | 41 | 
@@ -29,18 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 48 | 41 | 
 | 2022-09-08 | 48 | 41 | 
 | 2022-09-07 | 48 | 41 | 
-| 2022-09-06 | 48 | 41 | 
-| 2022-09-05 | 48 | 41 | 
-| 2022-09-04 | 48 | 41 | 
-| 2022-09-03 | 48 | 41 | 
-| 2022-09-02 | 48 | 41 | 
-| 2022-09-01 | 48 | 41 | 
-| 2022-08-31 | 47 | 41 | 
-| 2022-08-30 | 47 | 41 | 
-| 2022-08-29 | 47 | 41 | 
-| 2022-08-28 | 47 | 41 | 
-| 2022-08-27 | 47 | 41 | 
-| 2022-08-26 | 46 | 41 | 
 
 
 [Detailed charts & statistics for CuriousDrive/EFCore.AllDatabasesConsidered](https://reviewgithub.com/rep/CuriousDrive/EFCore.AllDatabasesConsidered)

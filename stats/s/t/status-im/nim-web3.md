@@ -1,12 +1,12 @@
-# status-im/nim-web3 / stars & forks statistics
-
-[Open repository/status-im/nim-web3](https://github.com/status-im/nim-web3)
+# status-im/nim-web3 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 31
+
+[Open repository](https://github.com/status-im/nim-web3)
 
 ## Historical data
 | Date | Stars | Forks |

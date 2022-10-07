@@ -1,12 +1,12 @@
-# davidmiller/dizzee / stars & forks statistics
-
-[Open repository/davidmiller/dizzee](https://github.com/davidmiller/dizzee)
+# davidmiller/dizzee - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 83
+
+[Open repository](https://github.com/davidmiller/dizzee)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# HO-CTO/sre-monitoring-as-code / stars & forks statistics
-
-[Open repository/HO-CTO/sre-monitoring-as-code](https://github.com/HO-CTO/sre-monitoring-as-code)
+# HO-CTO/sre-monitoring-as-code - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,25 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 11
 
+[Open repository](https://github.com/HO-CTO/sre-monitoring-as-code)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 11 | 10 | 
+| 2022-10-05 | 11 | 10 | 
+| 2022-10-04 | 11 | 10 | 
+| 2022-10-03 | 11 | 10 | 
+| 2022-10-02 | 11 | 10 | 
+| 2022-10-01 | 11 | 10 | 
+| 2022-09-30 | 11 | 10 | 
+| 2022-09-29 | 11 | 10 | 
+| 2022-09-28 | 11 | 10 | 
+| 2022-09-27 | 11 | 10 | 
+| 2022-09-26 | 11 | 10 | 
+| 2022-09-25 | 11 | 10 | 
+| 2022-09-24 | 11 | 10 | 
+| 2022-09-23 | 11 | 10 | 
 | 2022-09-22 | 11 | 10 | 
 | 2022-09-21 | 11 | 9 | 
 | 2022-09-19 | 11 | 9 | 
@@ -26,21 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 10 | 7 | 
 | 2022-09-08 | 9 | 7 | 
 | 2022-09-07 | 9 | 7 | 
-| 2022-09-06 | 8 | 7 | 
-| 2022-09-05 | 8 | 7 | 
-| 2022-09-04 | 8 | 7 | 
-| 2022-09-03 | 8 | 7 | 
-| 2022-09-02 | 8 | 7 | 
-| 2022-09-01 | 8 | 7 | 
-| 2022-08-31 | 8 | 7 | 
-| 2022-08-30 | 8 | 6 | 
-| 2022-08-29 | 8 | 6 | 
-| 2022-08-28 | 8 | 6 | 
-| 2022-08-27 | 8 | 6 | 
-| 2022-08-26 | 8 | 6 | 
-| 2022-08-25 | 8 | 6 | 
-| 2022-08-24 | 8 | 6 | 
-| 2022-08-23 | 8 | 6 | 
 
 
 [Detailed charts & statistics for HO-CTO/sre-monitoring-as-code](https://reviewgithub.com/rep/HO-CTO/sre-monitoring-as-code)

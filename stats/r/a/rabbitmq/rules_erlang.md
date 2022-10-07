@@ -1,6 +1,4 @@
-# rabbitmq/rules_erlang / stars & forks statistics
-
-[Open repository/rabbitmq/rules_erlang](https://github.com/rabbitmq/rules_erlang)
+# rabbitmq/rules_erlang - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,27 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 22
 
+[Open repository](https://github.com/rabbitmq/rules_erlang)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 22 | 4 | 
+| 2022-10-06 | 22 | 4 | 
+| 2022-10-05 | 22 | 4 | 
+| 2022-10-04 | 22 | 4 | 
+| 2022-10-03 | 22 | 4 | 
+| 2022-10-02 | 22 | 4 | 
+| 2022-10-01 | 22 | 4 | 
+| 2022-09-30 | 22 | 4 | 
+| 2022-09-29 | 22 | 4 | 
+| 2022-09-28 | 22 | 4 | 
+| 2022-09-27 | 22 | 4 | 
+| 2022-09-26 | 22 | 4 | 
+| 2022-09-25 | 22 | 4 | 
+| 2022-09-24 | 22 | 4 | 
+| 2022-09-23 | 22 | 4 | 
+| 2022-09-22 | 22 | 4 | 
 | 2022-09-21 | 22 | 4 | 
 | 2022-09-20 | 22 | 4 | 
 | 2022-09-19 | 22 | 4 | 
@@ -25,22 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 22 | 4 | 
 | 2022-09-09 | 22 | 4 | 
 | 2022-09-08 | 22 | 4 | 
-| 2022-09-07 | 22 | 4 | 
-| 2022-09-06 | 22 | 4 | 
-| 2022-09-05 | 22 | 4 | 
-| 2022-09-04 | 22 | 4 | 
-| 2022-09-03 | 22 | 4 | 
-| 2022-09-02 | 22 | 4 | 
-| 2022-09-01 | 22 | 4 | 
-| 2022-08-30 | 22 | 4 | 
-| 2022-08-29 | 22 | 4 | 
-| 2022-08-28 | 22 | 4 | 
-| 2022-08-27 | 22 | 4 | 
-| 2022-08-26 | 22 | 4 | 
-| 2022-08-25 | 22 | 3 | 
-| 2022-08-24 | 22 | 3 | 
-| 2022-08-23 | 22 | 3 | 
-| 2022-08-22 | 22 | 3 | 
 
 
 [Detailed charts & statistics for rabbitmq/rules_erlang](https://reviewgithub.com/rep/rabbitmq/rules_erlang)

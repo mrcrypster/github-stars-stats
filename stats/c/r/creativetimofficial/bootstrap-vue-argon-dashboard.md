@@ -1,12 +1,12 @@
-# creativetimofficial/bootstrap-vue-argon-dashboard / stars & forks statistics
-
-[Open repository/creativetimofficial/bootstrap-vue-argon-dashboard](https://github.com/creativetimofficial/bootstrap-vue-argon-dashboard)
+# creativetimofficial/bootstrap-vue-argon-dashboard - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 103
 
 ★ Stars: 76
+
+[Open repository](https://github.com/creativetimofficial/bootstrap-vue-argon-dashboard)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,6 +1,4 @@
-# lambdaisland/witchcraft-workshop / stars & forks statistics
-
-[Open repository/lambdaisland/witchcraft-workshop](https://github.com/lambdaisland/witchcraft-workshop)
+# lambdaisland/witchcraft-workshop - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,17 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 36
 
+[Open repository](https://github.com/lambdaisland/witchcraft-workshop)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 36 | 4 | 
+| 2022-10-05 | 36 | 4 | 
+| 2022-10-04 | 36 | 4 | 
+| 2022-10-03 | 36 | 4 | 
+| 2022-10-02 | 36 | 4 | 
+| 2022-10-01 | 36 | 4 | 
 | 2022-09-30 | 36 | 4 | 
 | 2022-09-29 | 36 | 4 | 
 | 2022-09-28 | 36 | 4 | 
@@ -34,13 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 36 | 4 | 
 | 2022-09-09 | 36 | 4 | 
 | 2022-09-08 | 36 | 4 | 
-| 2022-09-07 | 36 | 4 | 
-| 2022-09-06 | 36 | 4 | 
-| 2022-09-05 | 36 | 4 | 
-| 2022-09-04 | 36 | 4 | 
-| 2022-09-03 | 34 | 4 | 
-| 2022-09-02 | 34 | 4 | 
-| 2022-09-01 | 33 | 4 | 
 
 
 [Detailed charts & statistics for lambdaisland/witchcraft-workshop](https://reviewgithub.com/rep/lambdaisland/witchcraft-workshop)

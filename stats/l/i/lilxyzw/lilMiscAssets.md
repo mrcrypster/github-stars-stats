@@ -1,12 +1,12 @@
-# lilxyzw/lilMiscAssets / stars & forks statistics
-
-[Open repository/lilxyzw/lilMiscAssets](https://github.com/lilxyzw/lilMiscAssets)
+# lilxyzw/lilMiscAssets - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 16
+
+[Open repository](https://github.com/lilxyzw/lilMiscAssets)
 
 ## Historical data
 | Date | Stars | Forks |

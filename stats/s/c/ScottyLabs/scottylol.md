@@ -1,12 +1,12 @@
-# ScottyLabs/scottylol / stars & forks statistics
-
-[Open repository/ScottyLabs/scottylol](https://github.com/ScottyLabs/scottylol)
+# ScottyLabs/scottylol - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 0
+
+[Open repository](https://github.com/ScottyLabs/scottylol)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,30 @@
-# ryannhg/elm-storybook-example / stars & forks statistics
-
-[Open repository/ryannhg/elm-storybook-example](https://github.com/ryannhg/elm-storybook-example)
+# ryannhg/elm-storybook-example - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
+
+[Open repository](https://github.com/ryannhg/elm-storybook-example)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 34 | - | 
+| 2022-10-06 | 34 | - | 
+| 2022-10-05 | 34 | - | 
+| 2022-10-04 | 34 | - | 
+| 2022-10-03 | 34 | - | 
+| 2022-10-02 | 34 | - | 
+| 2022-10-01 | 34 | - | 
+| 2022-09-30 | 34 | - | 
+| 2022-09-29 | 34 | - | 
+| 2022-09-28 | 34 | - | 
+| 2022-09-27 | 34 | - | 
+| 2022-09-26 | 34 | - | 
+| 2022-09-25 | 34 | - | 
+| 2022-09-24 | 33 | - | 
 | 2022-09-23 | 33 | - | 
 | 2022-09-22 | 33 | - | 
 | 2022-09-21 | 33 | - | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 32 | - | 
 | 2022-09-08 | 32 | - | 
 | 2022-09-07 | 32 | - | 
-| 2022-09-06 | 31 | - | 
-| 2022-09-05 | 31 | - | 
-| 2022-09-04 | 31 | - | 
-| 2022-09-03 | 30 | - | 
-| 2022-09-02 | 30 | - | 
-| 2022-09-01 | 30 | - | 
-| 2022-08-31 | 30 | - | 
-| 2022-08-30 | 28 | - | 
-| 2022-08-29 | 26 | - | 
-| 2022-08-28 | 26 | - | 
-| 2022-08-27 | 26 | - | 
-| 2022-08-26 | 26 | - | 
-| 2022-08-25 | 26 | - | 
-| 2022-08-24 | 26 | - | 
 
 
 [Detailed charts & statistics for ryannhg/elm-storybook-example](https://reviewgithub.com/rep/ryannhg/elm-storybook-example)

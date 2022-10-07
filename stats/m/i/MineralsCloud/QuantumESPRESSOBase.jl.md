@@ -1,12 +1,12 @@
-# MineralsCloud/QuantumESPRESSOBase.jl / stars & forks statistics
-
-[Open repository/MineralsCloud/QuantumESPRESSOBase.jl](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl)
+# MineralsCloud/QuantumESPRESSOBase.jl - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
+
+[Open repository](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,16 +1,30 @@
-# dinosaure/esperanto / stars & forks statistics
-
-[Open repository/dinosaure/esperanto](https://github.com/dinosaure/esperanto)
+# dinosaure/esperanto - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 71
+★ Stars: 73
+
+[Open repository](https://github.com/dinosaure/esperanto)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 73 | 1 | 
+| 2022-10-06 | 73 | 1 | 
+| 2022-10-05 | 73 | 1 | 
+| 2022-10-04 | 73 | 1 | 
+| 2022-10-03 | 72 | 1 | 
+| 2022-10-02 | 72 | 1 | 
+| 2022-10-01 | 71 | 1 | 
+| 2022-09-30 | 71 | 1 | 
+| 2022-09-29 | 71 | 1 | 
+| 2022-09-27 | 71 | 1 | 
+| 2022-09-26 | 71 | 1 | 
+| 2022-09-25 | 71 | 1 | 
+| 2022-09-24 | 71 | 1 | 
+| 2022-09-23 | 71 | 1 | 
 | 2022-09-22 | 71 | 1 | 
 | 2022-09-21 | 71 | 1 | 
 | 2022-09-20 | 68 | 1 | 
@@ -27,20 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 63 | 1 | 
 | 2022-09-08 | 63 | 1 | 
 | 2022-09-07 | 63 | 1 | 
-| 2022-09-06 | 63 | 1 | 
-| 2022-09-05 | 62 | 1 | 
-| 2022-09-04 | 62 | 1 | 
-| 2022-09-03 | 62 | 1 | 
-| 2022-09-02 | 62 | 1 | 
-| 2022-09-01 | 62 | 1 | 
-| 2022-08-31 | 62 | 1 | 
-| 2022-08-30 | 62 | 1 | 
-| 2022-08-29 | 62 | 1 | 
-| 2022-08-28 | 61 | 1 | 
-| 2022-08-27 | 61 | 1 | 
-| 2022-08-26 | 61 | 1 | 
-| 2022-08-25 | 60 | 1 | 
-| 2022-08-24 | 60 | 1 | 
 
 
 [Detailed charts & statistics for dinosaure/esperanto](https://reviewgithub.com/rep/dinosaure/esperanto)

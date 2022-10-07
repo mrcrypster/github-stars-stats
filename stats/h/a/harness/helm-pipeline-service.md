@@ -1,6 +1,4 @@
-# harness/helm-pipeline-service / stars & forks statistics
-
-[Open repository/harness/helm-pipeline-service](https://github.com/harness/helm-pipeline-service)
+# harness/helm-pipeline-service - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,15 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 1
 
+[Open repository](https://github.com/harness/helm-pipeline-service)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 1 | 1 | 
+| 2022-10-05 | 1 | 1 | 
+| 2022-10-04 | 1 | 1 | 
+| 2022-10-03 | 1 | 1 | 
 | 2022-10-02 | 1 | 1 | 
 | 2022-10-01 | 1 | 1 | 
 | 2022-09-30 | 1 | 1 | 
@@ -36,11 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | 1 | 
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
-| 2022-09-07 | 1 | - | 
-| 2022-09-06 | 1 | - | 
-| 2022-09-05 | 1 | - | 
-| 2022-09-04 | 1 | - | 
-| 2022-09-03 | 1 | - | 
 
 
 [Detailed charts & statistics for harness/helm-pipeline-service](https://reviewgithub.com/rep/harness/helm-pipeline-service)

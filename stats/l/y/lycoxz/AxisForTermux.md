@@ -1,12 +1,12 @@
-# lycoxz/AxisForTermux / stars & forks statistics
-
-[Open repository/lycoxz/AxisForTermux](https://github.com/lycoxz/AxisForTermux)
+# lycoxz/AxisForTermux - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 8
+
+[Open repository](https://github.com/lycoxz/AxisForTermux)
 
 ## Historical data
 | Date | Stars | Forks |

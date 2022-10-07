@@ -1,6 +1,4 @@
-# rclex/rclex / stars & forks statistics
-
-[Open repository/rclex/rclex](https://github.com/rclex/rclex)
+# rclex/rclex - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 86
 
+[Open repository](https://github.com/rclex/rclex)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 86 | 7 | 
+| 2022-10-06 | 86 | 7 | 
+| 2022-10-05 | 86 | 7 | 
+| 2022-10-04 | 86 | 7 | 
+| 2022-10-03 | 86 | 7 | 
+| 2022-10-02 | 86 | 7 | 
+| 2022-10-01 | 86 | 7 | 
+| 2022-09-30 | 86 | 7 | 
+| 2022-09-29 | 86 | 7 | 
 | 2022-09-28 | 86 | 7 | 
 | 2022-09-27 | 86 | 7 | 
 | 2022-09-26 | 86 | 7 | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 86 | 7 | 
 | 2022-09-08 | 86 | 7 | 
 | 2022-09-07 | 86 | 7 | 
-| 2022-09-06 | 86 | 7 | 
-| 2022-09-05 | 86 | 7 | 
-| 2022-09-04 | 86 | 7 | 
-| 2022-09-03 | 86 | 7 | 
-| 2022-09-02 | 86 | 7 | 
-| 2022-09-01 | 86 | 7 | 
-| 2022-08-31 | 86 | 7 | 
-| 2022-08-30 | 86 | 7 | 
-| 2022-08-29 | 86 | 7 | 
 
 
 [Detailed charts & statistics for rclex/rclex](https://reviewgithub.com/rep/rclex/rclex)

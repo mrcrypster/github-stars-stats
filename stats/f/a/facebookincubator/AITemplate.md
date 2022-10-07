@@ -1,12 +1,12 @@
-# facebookincubator/AITemplate / stars & forks statistics
-
-[Open repository/facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate)
+# facebookincubator/AITemplate - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 80
 
 ★ Stars: 1481
+
+[Open repository](https://github.com/facebookincubator/AITemplate)
 
 ## Historical data
 | Date | Stars | Forks |

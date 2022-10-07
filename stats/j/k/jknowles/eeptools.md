@@ -1,12 +1,12 @@
-# jknowles/eeptools / stars & forks statistics
-
-[Open repository/jknowles/eeptools](https://github.com/jknowles/eeptools)
+# jknowles/eeptools - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 27
+
+[Open repository](https://github.com/jknowles/eeptools)
 
 ## Historical data
 | Date | Stars | Forks |

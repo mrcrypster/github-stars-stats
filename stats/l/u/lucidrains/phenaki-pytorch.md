@@ -1,12 +1,12 @@
-# lucidrains/phenaki-pytorch / stars & forks statistics
-
-[Open repository/lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch)
+# lucidrains/phenaki-pytorch - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 103
+
+[Open repository](https://github.com/lucidrains/phenaki-pytorch)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# skeeto/emacs-memoize / stars & forks statistics
-
-[Open repository/skeeto/emacs-memoize](https://github.com/skeeto/emacs-memoize)
+# skeeto/emacs-memoize - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 43
+
+[Open repository](https://github.com/skeeto/emacs-memoize)
 
 ## Historical data
 | Date | Stars | Forks |

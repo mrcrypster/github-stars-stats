@@ -1,16 +1,27 @@
-# PetoiCamp/OpenCat / stars & forks statistics
-
-[Open repository/PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat)
+# PetoiCamp/OpenCat - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 182
+☋ Forks: 183
 
-★ Stars: 835
+★ Stars: 842
+
+[Open repository](https://github.com/PetoiCamp/OpenCat)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 842 | 183 | 
+| 2022-10-06 | 842 | 183 | 
+| 2022-10-05 | 841 | 183 | 
+| 2022-10-04 | 841 | 183 | 
+| 2022-10-03 | 841 | 183 | 
+| 2022-10-02 | 841 | 183 | 
+| 2022-10-01 | 839 | 183 | 
+| 2022-09-30 | 838 | 183 | 
+| 2022-09-29 | 836 | 183 | 
+| 2022-09-28 | 836 | 183 | 
+| 2022-09-27 | 836 | 183 | 
 | 2022-09-26 | 835 | 182 | 
 | 2022-09-25 | 834 | 182 | 
 | 2022-09-24 | 834 | 182 | 
@@ -30,17 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 823 | 178 | 
 | 2022-09-09 | 822 | 178 | 
 | 2022-09-07 | 821 | 178 | 
-| 2022-09-06 | 819 | 178 | 
-| 2022-09-05 | 819 | 178 | 
-| 2022-09-04 | 817 | 178 | 
-| 2022-09-03 | 816 | 178 | 
-| 2022-09-02 | 816 | 178 | 
-| 2022-09-01 | 814 | 178 | 
-| 2022-08-31 | 809 | 178 | 
-| 2022-08-30 | 803 | 178 | 
-| 2022-08-29 | 799 | 178 | 
-| 2022-08-28 | 798 | 178 | 
-| 2022-08-27 | 797 | 177 | 
 
 
 [Detailed charts & statistics for PetoiCamp/OpenCat](https://reviewgithub.com/rep/PetoiCamp/OpenCat)

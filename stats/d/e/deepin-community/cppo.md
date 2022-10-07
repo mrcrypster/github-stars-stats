@@ -1,12 +1,12 @@
-# deepin-community/cppo / stars & forks statistics
-
-[Open repository/deepin-community/cppo](https://github.com/deepin-community/cppo)
+# deepin-community/cppo - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
+
+[Open repository](https://github.com/deepin-community/cppo)
 
 ## Historical data
 | Date | Stars | Forks |

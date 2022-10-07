@@ -1,12 +1,12 @@
-# atom-material/atom-material-syntax / stars & forks statistics
-
-[Open repository/atom-material/atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
+# atom-material/atom-material-syntax - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 142
 
 ★ Stars: 255
+
+[Open repository](https://github.com/atom-material/atom-material-syntax)
 
 ## Historical data
 | Date | Stars | Forks |

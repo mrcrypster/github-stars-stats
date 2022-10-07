@@ -1,16 +1,27 @@
-# bgx96/byoc-go-sample / stars & forks statistics
-
-[Open repository/bgx96/byoc-go-sample](https://github.com/bgx96/byoc-go-sample)
+# bgx96/byoc-go-sample - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 0
+
+[Open repository](https://github.com/bgx96/byoc-go-sample)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | - | 14 | 
+| 2022-10-05 | - | 14 | 
+| 2022-10-04 | - | 14 | 
+| 2022-10-03 | - | 14 | 
+| 2022-10-02 | - | 14 | 
+| 2022-10-01 | - | 14 | 
+| 2022-09-30 | - | 14 | 
+| 2022-09-29 | - | 14 | 
+| 2022-09-28 | - | 13 | 
+| 2022-09-27 | - | 13 | 
+| 2022-09-26 | - | 13 | 
 | 2022-09-25 | - | 13 | 
 | 2022-09-24 | - | 13 | 
 | 2022-09-23 | - | 13 | 
@@ -29,18 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 10 | 
 | 2022-09-09 | - | 10 | 
 | 2022-09-08 | - | 10 | 
-| 2022-09-07 | - | 10 | 
-| 2022-09-06 | - | 10 | 
-| 2022-09-05 | - | 10 | 
-| 2022-09-04 | - | 10 | 
-| 2022-09-03 | - | 10 | 
-| 2022-09-02 | - | 9 | 
-| 2022-09-01 | - | 9 | 
-| 2022-08-31 | - | 9 | 
-| 2022-08-30 | - | 9 | 
-| 2022-08-29 | - | 9 | 
-| 2022-08-28 | - | 8 | 
-| 2022-08-27 | - | 8 | 
 
 
 [Detailed charts & statistics for bgx96/byoc-go-sample](https://reviewgithub.com/rep/bgx96/byoc-go-sample)

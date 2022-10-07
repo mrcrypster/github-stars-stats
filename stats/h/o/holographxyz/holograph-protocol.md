@@ -1,12 +1,12 @@
-# holographxyz/holograph-protocol / stars & forks statistics
-
-[Open repository/holographxyz/holograph-protocol](https://github.com/holographxyz/holograph-protocol)
+# holographxyz/holograph-protocol - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 15
+
+[Open repository](https://github.com/holographxyz/holograph-protocol)
 
 ## Historical data
 | Date | Stars | Forks |

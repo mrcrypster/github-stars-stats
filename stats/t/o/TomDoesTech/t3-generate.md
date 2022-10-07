@@ -1,6 +1,4 @@
-# TomDoesTech/t3-generate / stars & forks statistics
-
-[Open repository/TomDoesTech/t3-generate](https://github.com/TomDoesTech/t3-generate)
+# TomDoesTech/t3-generate - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,20 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 7
 
+[Open repository](https://github.com/TomDoesTech/t3-generate)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 7 | - | 
+| 2022-10-06 | 7 | - | 
+| 2022-10-05 | 7 | - | 
+| 2022-10-04 | 7 | - | 
+| 2022-10-03 | 7 | - | 
+| 2022-10-02 | 7 | - | 
+| 2022-10-01 | 7 | - | 
+| 2022-09-30 | 7 | - | 
+| 2022-09-29 | 7 | - | 
 | 2022-09-28 | 7 | - | 
 | 2022-09-27 | 7 | - | 
 | 2022-09-26 | 7 | - | 
@@ -32,15 +41,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-09 | 7 | - | 
 | 2022-09-08 | 7 | - | 
 | 2022-09-07 | 7 | - | 
-| 2022-09-06 | 7 | - | 
-| 2022-09-05 | 7 | - | 
-| 2022-09-04 | 7 | - | 
-| 2022-09-03 | 7 | - | 
-| 2022-09-02 | 7 | - | 
-| 2022-09-01 | 7 | - | 
-| 2022-08-31 | 7 | - | 
-| 2022-08-30 | 7 | - | 
-| 2022-08-29 | 7 | - | 
 
 
 [Detailed charts & statistics for TomDoesTech/t3-generate](https://reviewgithub.com/rep/TomDoesTech/t3-generate)

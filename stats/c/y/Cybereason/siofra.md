@@ -1,6 +1,4 @@
-# Cybereason/siofra / stars & forks statistics
-
-[Open repository/Cybereason/siofra](https://github.com/Cybereason/siofra)
+# Cybereason/siofra - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
@@ -8,9 +6,13 @@ Stats updated on Oct 2022, 07
 
 ★ Stars: 365
 
+[Open repository](https://github.com/Cybereason/siofra)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 365 | 72 | 
+| 2022-10-05 | 365 | 72 | 
 | 2022-10-04 | 365 | 72 | 
 | 2022-10-03 | 364 | 72 | 
 | 2022-10-02 | 364 | 72 | 
@@ -38,9 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 354 | 72 | 
 | 2022-09-09 | 354 | 72 | 
 | 2022-09-08 | 354 | 72 | 
-| 2022-09-07 | 353 | 71 | 
-| 2022-09-06 | 353 | 71 | 
-| 2022-09-05 | 350 | 71 | 
 
 
 [Detailed charts & statistics for Cybereason/siofra](https://reviewgithub.com/rep/Cybereason/siofra)

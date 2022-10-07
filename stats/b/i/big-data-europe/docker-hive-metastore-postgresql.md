@@ -1,12 +1,12 @@
-# big-data-europe/docker-hive-metastore-postgresql / stars & forks statistics
-
-[Open repository/big-data-europe/docker-hive-metastore-postgresql](https://github.com/big-data-europe/docker-hive-metastore-postgresql)
+# big-data-europe/docker-hive-metastore-postgresql - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 25
+
+[Open repository](https://github.com/big-data-europe/docker-hive-metastore-postgresql)
 
 ## Historical data
 | Date | Stars | Forks |

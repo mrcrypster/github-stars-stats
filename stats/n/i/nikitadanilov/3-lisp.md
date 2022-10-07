@@ -1,16 +1,25 @@
-# nikitadanilov/3-lisp / stars & forks statistics
-
-[Open repository/nikitadanilov/3-lisp](https://github.com/nikitadanilov/3-lisp)
+# nikitadanilov/3-lisp - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 22
+★ Stars: 25
+
+[Open repository](https://github.com/nikitadanilov/3-lisp)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 25 | 4 | 
+| 2022-10-05 | 25 | 4 | 
+| 2022-10-04 | 23 | 4 | 
+| 2022-10-03 | 23 | 4 | 
+| 2022-10-02 | 23 | 4 | 
+| 2022-10-01 | 23 | 4 | 
+| 2022-09-30 | 22 | 4 | 
+| 2022-09-29 | 22 | 4 | 
+| 2022-09-28 | 22 | 4 | 
 | 2022-09-27 | 22 | 4 | 
 | 2022-09-26 | 22 | 4 | 
 | 2022-09-25 | 22 | 4 | 
@@ -31,16 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 20 | 4 | 
 | 2022-09-09 | 20 | 4 | 
 | 2022-09-08 | 20 | 4 | 
-| 2022-09-07 | 20 | 4 | 
-| 2022-09-06 | 19 | 4 | 
-| 2022-09-05 | 19 | 4 | 
-| 2022-09-04 | 18 | 4 | 
-| 2022-09-03 | 18 | 4 | 
-| 2022-09-02 | 18 | 4 | 
-| 2022-09-01 | 18 | 4 | 
-| 2022-08-31 | 18 | 4 | 
-| 2022-08-30 | 18 | 4 | 
-| 2022-08-29 | 17 | 4 | 
 
 
 [Detailed charts & statistics for nikitadanilov/3-lisp](https://reviewgithub.com/rep/nikitadanilov/3-lisp)

@@ -1,16 +1,23 @@
-# adityastomar67/nvim-dots / stars & forks statistics
-
-[Open repository/adityastomar67/nvim-dots](https://github.com/adityastomar67/nvim-dots)
+# adityastomar67/nvim-dots - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 24
+
+[Open repository](https://github.com/adityastomar67/nvim-dots)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-06 | 24 | 3 | 
+| 2022-10-05 | 24 | 3 | 
+| 2022-10-04 | 24 | 3 | 
+| 2022-10-03 | 24 | 3 | 
+| 2022-10-02 | 24 | 3 | 
+| 2022-10-01 | 24 | 3 | 
+| 2022-09-30 | 23 | 3 | 
 | 2022-09-29 | 23 | 3 | 
 | 2022-09-28 | 23 | 3 | 
 | 2022-09-27 | 23 | 3 | 
@@ -33,14 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 20 | 2 | 
 | 2022-09-09 | 19 | 2 | 
 | 2022-09-08 | 20 | 2 | 
-| 2022-09-07 | 20 | 2 | 
-| 2022-09-06 | 19 | 2 | 
-| 2022-09-05 | 18 | 2 | 
-| 2022-09-04 | 17 | 1 | 
-| 2022-09-03 | 16 | 1 | 
-| 2022-09-02 | 16 | 1 | 
-| 2022-09-01 | 16 | 1 | 
-| 2022-08-30 | 15 | 1 | 
 
 
 [Detailed charts & statistics for adityastomar67/nvim-dots](https://reviewgithub.com/rep/adityastomar67/nvim-dots)

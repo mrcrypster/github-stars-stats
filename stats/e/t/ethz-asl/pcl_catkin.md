@@ -1,12 +1,12 @@
-# ethz-asl/pcl_catkin / stars & forks statistics
-
-[Open repository/ethz-asl/pcl_catkin](https://github.com/ethz-asl/pcl_catkin)
+# ethz-asl/pcl_catkin - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 14
+
+[Open repository](https://github.com/ethz-asl/pcl_catkin)
 
 ## Historical data
 | Date | Stars | Forks |

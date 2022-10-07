@@ -1,12 +1,12 @@
-# ZeframLou/bagholder / stars & forks statistics
-
-[Open repository/ZeframLou/bagholder](https://github.com/ZeframLou/bagholder)
+# ZeframLou/bagholder - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 44
+
+[Open repository](https://github.com/ZeframLou/bagholder)
 
 ## Historical data
 | Date | Stars | Forks |

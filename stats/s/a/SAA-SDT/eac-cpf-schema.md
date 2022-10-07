@@ -1,12 +1,12 @@
-# SAA-SDT/eac-cpf-schema / stars & forks statistics
-
-[Open repository/SAA-SDT/eac-cpf-schema](https://github.com/SAA-SDT/eac-cpf-schema)
+# SAA-SDT/eac-cpf-schema - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 9
+
+[Open repository](https://github.com/SAA-SDT/eac-cpf-schema)
 
 ## Historical data
 | Date | Stars | Forks |

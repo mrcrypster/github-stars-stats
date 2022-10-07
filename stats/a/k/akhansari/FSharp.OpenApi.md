@@ -1,12 +1,12 @@
-# akhansari/FSharp.OpenApi / stars & forks statistics
-
-[Open repository/akhansari/FSharp.OpenApi](https://github.com/akhansari/FSharp.OpenApi)
+# akhansari/FSharp.OpenApi - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 31
+
+[Open repository](https://github.com/akhansari/FSharp.OpenApi)
 
 ## Historical data
 | Date | Stars | Forks |

@@ -1,12 +1,12 @@
-# blackpalmmobileapplications/Johnson_AVF3 / stars & forks statistics
-
-[Open repository/blackpalmmobileapplications/Johnson_AVF3](https://github.com/blackpalmmobileapplications/Johnson_AVF3)
+# blackpalmmobileapplications/Johnson_AVF3 - stars & forks statistics
 
 Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
+
+[Open repository](https://github.com/blackpalmmobileapplications/Johnson_AVF3)
 
 ## Historical data
 | Date | Stars | Forks |
