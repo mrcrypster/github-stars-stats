@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 2681
 
-★ Stars: 22394
+★ Stars: 22396
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 22245 | 2668 | 
 | 2022-07-01 | 22249 | 2669 | 
 | 2022-07-02 | 22256 | 2671 | 
 | 2022-07-03 | 22258 | 2670 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 22379 | 2679 | 
 | 2022-07-28 | 22392 | 2681 | 
 | 2022-07-29 | 22394 | 2681 | 
+| 2022-07-30 | 22396 | 2681 | 
 
 
 [Detailed charts & statistics for sampotts/plyr](https://reviewgithub.com/rep/sampotts/plyr)

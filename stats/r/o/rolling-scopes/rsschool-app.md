@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 151
 
-★ Stars: 6412
+★ Stars: 6411
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 6377 | 149 | 
 | 2022-07-01 | 6378 | 149 | 
 | 2022-07-02 | 6380 | 149 | 
 | 2022-07-03 | 6381 | 149 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 6412 | 149 | 
 | 2022-07-29 | 6411 | 150 | 
 | 2022-07-30 | 6412 | 151 | 
+| 2022-07-31 | 6411 | 151 | 
 
 
 [Detailed charts & statistics for rolling-scopes/rsschool-app](https://reviewgithub.com/rep/rolling-scopes/rsschool-app)

@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 59 | 26 | 
 | 2022-07-01 | 60 | 26 | 
 | 2022-07-02 | 60 | 26 | 
 | 2022-07-03 | 60 | 26 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 63 | 27 | 
 | 2022-07-28 | 63 | 27 | 
 | 2022-07-29 | 64 | 27 | 
+| 2022-07-30 | 64 | 27 | 
 
 
 [Detailed charts & statistics for bazelbuild/stardoc](https://reviewgithub.com/rep/bazelbuild/stardoc)

@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 903
 
-★ Stars: 4198
+★ Stars: 4200
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 4173 | 892 | 
 | 2022-07-01 | 4173 | 892 | 
 | 2022-07-02 | 4175 | 892 | 
 | 2022-07-03 | 4175 | 892 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 4198 | 903 | 
 | 2022-07-29 | 4198 | 903 | 
 | 2022-07-30 | 4198 | 903 | 
+| 2022-07-31 | 4200 | 903 | 
 
 
 [Detailed charts & statistics for christophM/interpretable-ml-book](https://reviewgithub.com/rep/christophM/interpretable-ml-book)

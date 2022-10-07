@@ -4,14 +4,13 @@ Repository url: [/unit8co/darts](https://github.com/unit8co/darts)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 466
+☋ Forks: 467
 
-★ Stars: 4442
+★ Stars: 4446
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 4308 | 444 | 
 | 2022-07-01 | 4313 | 444 | 
 | 2022-07-02 | 4320 | 444 | 
 | 2022-07-03 | 4325 | 444 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 4431 | 460 | 
 | 2022-07-29 | 4439 | 463 | 
 | 2022-07-30 | 4442 | 466 | 
+| 2022-07-31 | 4446 | 467 | 
 
 
 [Detailed charts & statistics for unit8co/darts](https://reviewgithub.com/rep/unit8co/darts)

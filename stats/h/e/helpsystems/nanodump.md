@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 132
 
-★ Stars: 917
+★ Stars: 918
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 846 | 128 | 
 | 2022-07-01 | 847 | 128 | 
 | 2022-07-02 | 847 | 128 | 
 | 2022-07-03 | 850 | 128 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 914 | 132 | 
 | 2022-07-28 | 914 | 132 | 
 | 2022-07-29 | 917 | 132 | 
+| 2022-07-30 | 918 | 132 | 
 
 
 [Detailed charts & statistics for helpsystems/nanodump](https://reviewgithub.com/rep/helpsystems/nanodump)

@@ -4,14 +4,13 @@ Repository url: [/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 10415
+☋ Forks: 10433
 
-★ Stars: 29288
+★ Stars: 29330
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 28041 | 10039 | 
 | 2022-07-01 | 28072 | 10057 | 
 | 2022-07-02 | 28096 | 10062 | 
 | 2022-07-03 | 28131 | 10070 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 29224 | 10370 | 
 | 2022-07-28 | 29256 | 10386 | 
 | 2022-07-29 | 29288 | 10415 | 
+| 2022-07-30 | 29330 | 10433 | 
 
 
 [Detailed charts & statistics for ultralytics/yolov5](https://reviewgithub.com/rep/ultralytics/yolov5)

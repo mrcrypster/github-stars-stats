@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 11 | 1 | 
 | 2022-07-01 | 11 | 1 | 
 | 2022-07-02 | 11 | 1 | 
 | 2022-07-03 | 11 | 1 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 11 | 1 | 
 | 2022-07-29 | 11 | 1 | 
 | 2022-07-30 | 11 | 1 | 
+| 2022-07-31 | 11 | 1 | 
 
 
 [Detailed charts & statistics for takanaweb5/EasyLout](https://reviewgithub.com/rep/takanaweb5/EasyLout)

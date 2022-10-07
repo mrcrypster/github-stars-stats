@@ -4,14 +4,13 @@ Repository url: [/valentinacupac/banking-kata-java](https://github.com/valentina
 
 Updated on Oct 2022, 07
 
-☋ Forks: 42
+☋ Forks: 43
 
 ★ Stars: 153
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 137 | 37 | 
 | 2022-07-01 | 140 | 38 | 
 | 2022-07-02 | 142 | 39 | 
 | 2022-07-03 | 142 | 39 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 151 | 42 | 
 | 2022-07-29 | 151 | 42 | 
 | 2022-07-30 | 153 | 42 | 
+| 2022-07-31 | 153 | 43 | 
 
 
 [Detailed charts & statistics for valentinacupac/banking-kata-java](https://reviewgithub.com/rep/valentinacupac/banking-kata-java)

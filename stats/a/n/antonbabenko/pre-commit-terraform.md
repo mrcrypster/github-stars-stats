@@ -4,14 +4,13 @@ Repository url: [/antonbabenko/pre-commit-terraform](https://github.com/antonbab
 
 Updated on Oct 2022, 07
 
-☋ Forks: 388
+☋ Forks: 389
 
 ★ Stars: 1917
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1856 | 380 | 
 | 2022-07-01 | 1860 | 380 | 
 | 2022-07-02 | 1860 | 381 | 
 | 2022-07-03 | 1860 | 381 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1913 | 387 | 
 | 2022-07-28 | 1915 | 387 | 
 | 2022-07-29 | 1917 | 388 | 
+| 2022-07-30 | 1917 | 389 | 
 
 
 [Detailed charts & statistics for antonbabenko/pre-commit-terraform](https://reviewgithub.com/rep/antonbabenko/pre-commit-terraform)

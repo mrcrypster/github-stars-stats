@@ -4,14 +4,13 @@ Repository url: [/operator-framework/operator-sdk](https://github.com/operator-f
 
 Updated on Oct 2022, 07
 
-☋ Forks: 1538
+☋ Forks: 1540
 
-★ Stars: 5893
+★ Stars: 5895
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 5754 | 1523 | 
 | 2022-07-01 | 5755 | 1523 | 
 | 2022-07-02 | 5755 | 1524 | 
 | 2022-07-03 | 5757 | 1524 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 5887 | 1538 | 
 | 2022-07-28 | 5894 | 1538 | 
 | 2022-07-29 | 5893 | 1538 | 
+| 2022-07-30 | 5895 | 1540 | 
 
 
 [Detailed charts & statistics for operator-framework/operator-sdk](https://reviewgithub.com/rep/operator-framework/operator-sdk)

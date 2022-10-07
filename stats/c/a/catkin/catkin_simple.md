@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 122 | 132 | 
 | 2022-07-01 | 122 | 132 | 
 | 2022-07-02 | 122 | 132 | 
 | 2022-07-03 | 122 | 132 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 124 | 133 | 
 | 2022-07-28 | 125 | 133 | 
 | 2022-07-29 | 125 | 133 | 
+| 2022-07-30 | 125 | 133 | 
 
 
 [Detailed charts & statistics for catkin/catkin_simple](https://reviewgithub.com/rep/catkin/catkin_simple)

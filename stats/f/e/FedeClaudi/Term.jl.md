@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 266 | 22 | 
 | 2022-07-01 | 266 | 22 | 
 | 2022-07-02 | 266 | 22 | 
 | 2022-07-03 | 266 | 22 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 274 | 22 | 
 | 2022-07-28 | 274 | 22 | 
 | 2022-07-29 | 274 | 22 | 
+| 2022-07-30 | 274 | 22 | 
 
 
 [Detailed charts & statistics for FedeClaudi/Term.jl](https://reviewgithub.com/rep/FedeClaudi/Term.jl)

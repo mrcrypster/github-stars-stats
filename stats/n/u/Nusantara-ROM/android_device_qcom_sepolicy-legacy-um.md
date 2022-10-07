@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | - | 2 | 
 | 2022-07-01 | - | 2 | 
 | 2022-07-02 | - | 2 | 
 | 2022-07-03 | - | 2 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | - | 2 | 
 | 2022-07-28 | - | 2 | 
 | 2022-07-29 | - | 2 | 
+| 2022-07-30 | - | 2 | 
 
 
 [Detailed charts & statistics for Nusantara-ROM/android_device_qcom_sepolicy-legacy-um](https://reviewgithub.com/rep/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um)

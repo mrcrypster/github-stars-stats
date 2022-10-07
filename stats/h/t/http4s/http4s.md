@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 727
 
-★ Stars: 2293
+★ Stars: 2294
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 2277 | 722 | 
 | 2022-07-01 | 2277 | 722 | 
 | 2022-07-02 | 2279 | 722 | 
 | 2022-07-03 | 2279 | 722 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 2291 | 727 | 
 | 2022-07-28 | 2293 | 727 | 
 | 2022-07-29 | 2293 | 727 | 
+| 2022-07-30 | 2294 | 727 | 
 
 
 [Detailed charts & statistics for http4s/http4s](https://reviewgithub.com/rep/http4s/http4s)

@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1 | 203 | 
 | 2022-07-01 | 1 | 203 | 
 | 2022-07-02 | 1 | 203 | 
 | 2022-07-03 | 1 | 203 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1 | 212 | 
 | 2022-07-28 | 1 | 217 | 
 | 2022-07-29 | 1 | 219 | 
+| 2022-07-30 | 1 | 219 | 
 
 
 [Detailed charts & statistics for mate-academy/Kickstarter](https://reviewgithub.com/rep/mate-academy/Kickstarter)

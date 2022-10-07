@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 6 | - | 
 | 2022-07-01 | 6 | - | 
 | 2022-07-02 | 6 | - | 
 | 2022-07-03 | 6 | - | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 6 | - | 
 | 2022-07-29 | 6 | - | 
 | 2022-07-30 | 6 | - | 
+| 2022-07-31 | 6 | - | 
 
 
 [Detailed charts & statistics for konn/lk-proof-assistant](https://reviewgithub.com/rep/konn/lk-proof-assistant)

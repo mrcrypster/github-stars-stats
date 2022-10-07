@@ -40,7 +40,7 @@ Updated on Oct 2022, 07
 | 2022-10-04 | - | 2 | 
 | 2022-10-05 | - | 2 | 
 | 2022-10-06 | - | 2 | 
-| 1970-01-01 | - | - | 
+| 2022-10-07 | - | 2 | 
 
 
 [Detailed charts & statistics for HSargeant/type-of-the-town](https://reviewgithub.com/rep/HSargeant/type-of-the-town)

@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 46 | 26 | 
 | 2022-07-01 | 46 | 26 | 
 | 2022-07-02 | 46 | 26 | 
 | 2022-07-03 | 46 | 26 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 46 | 26 | 
 | 2022-07-29 | 46 | 26 | 
 | 2022-07-30 | 46 | 26 | 
+| 2022-07-31 | 46 | 26 | 
 
 
 [Detailed charts & statistics for wpengine/php-docker](https://reviewgithub.com/rep/wpengine/php-docker)

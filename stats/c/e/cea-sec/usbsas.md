@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 116 | 6 | 
 | 2022-07-01 | 117 | 6 | 
 | 2022-07-02 | 119 | 6 | 
 | 2022-07-03 | 120 | 6 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 133 | 7 | 
 | 2022-07-28 | 133 | 7 | 
 | 2022-07-29 | 135 | 7 | 
+| 2022-07-30 | 135 | 7 | 
 
 
 [Detailed charts & statistics for cea-sec/usbsas](https://reviewgithub.com/rep/cea-sec/usbsas)

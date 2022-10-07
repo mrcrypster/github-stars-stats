@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 92
 
-★ Stars: 2817
+★ Stars: 2820
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 2549 | 90 | 
 | 2022-07-01 | 2556 | 91 | 
 | 2022-07-02 | 2568 | 91 | 
 | 2022-07-03 | 2599 | 92 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 2805 | 92 | 
 | 2022-07-29 | 2810 | 92 | 
 | 2022-07-30 | 2817 | 92 | 
+| 2022-07-31 | 2820 | 92 | 
 
 
 [Detailed charts & statistics for netbirdio/netbird](https://reviewgithub.com/rep/netbirdio/netbird)

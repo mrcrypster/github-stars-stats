@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 247 | 24 | 
 | 2022-07-01 | 250 | 25 | 
 | 2022-07-02 | 252 | 25 | 
 | 2022-07-03 | 254 | 25 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 268 | 29 | 
 | 2022-07-29 | 270 | 30 | 
 | 2022-07-30 | 270 | 30 | 
+| 2022-07-31 | 270 | 30 | 
 
 
 [Detailed charts & statistics for blaze-init/blaze](https://reviewgithub.com/rep/blaze-init/blaze)

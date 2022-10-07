@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 351 | 264 | 
 | 2022-07-01 | 351 | 264 | 
 | 2022-07-02 | 351 | 264 | 
 | 2022-07-03 | 351 | 264 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 350 | 265 | 
 | 2022-07-28 | 350 | 265 | 
 | 2022-07-29 | 350 | 266 | 
+| 2022-07-30 | 350 | 266 | 
 
 
 [Detailed charts & statistics for banzaicloud/banzai-charts](https://reviewgithub.com/rep/banzaicloud/banzai-charts)

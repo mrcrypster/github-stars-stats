@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 92
 
-★ Stars: 1641
+★ Stars: 1651
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1164 | 77 | 
 | 2022-07-01 | 1166 | 77 | 
 | 2022-07-02 | 1168 | 79 | 
 | 2022-07-03 | 1168 | 79 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1552 | 89 | 
 | 2022-07-28 | 1609 | 91 | 
 | 2022-07-29 | 1641 | 92 | 
+| 2022-07-30 | 1651 | 92 | 
 
 
 [Detailed charts & statistics for testcontainers/testcontainers-dotnet](https://reviewgithub.com/rep/testcontainers/testcontainers-dotnet)

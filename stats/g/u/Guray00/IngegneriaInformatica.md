@@ -4,14 +4,13 @@ Repository url: [/Guray00/IngegneriaInformatica](https://github.com/Guray00/Inge
 
 Updated on Oct 2022, 07
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 112
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 103 | 31 | 
 | 2022-07-01 | 103 | 31 | 
 | 2022-07-02 | 103 | 31 | 
 | 2022-07-03 | 103 | 31 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 110 | 35 | 
 | 2022-07-29 | 110 | 35 | 
 | 2022-07-30 | 112 | 35 | 
+| 2022-07-31 | 112 | 36 | 
 
 
 [Detailed charts & statistics for Guray00/IngegneriaInformatica](https://reviewgithub.com/rep/Guray00/IngegneriaInformatica)

@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 4 | 1 | 
 | 2022-07-01 | 4 | 1 | 
 | 2022-07-02 | 4 | 1 | 
 | 2022-07-03 | 4 | 1 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 4 | 2 | 
 | 2022-07-28 | 4 | 2 | 
 | 2022-07-29 | 4 | 2 | 
+| 2022-07-30 | 4 | 2 | 
 
 
 [Detailed charts & statistics for feenkcom/gt4git](https://reviewgithub.com/rep/feenkcom/gt4git)

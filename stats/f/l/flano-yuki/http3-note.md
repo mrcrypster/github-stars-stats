@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 648 | 10 | 
 | 2022-07-01 | 651 | 10 | 
 | 2022-07-02 | 651 | 10 | 
 | 2022-07-03 | 651 | 10 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 670 | 10 | 
 | 2022-07-29 | 670 | 10 | 
 | 2022-07-30 | 671 | 10 | 
+| 2022-07-31 | 671 | 10 | 
 
 
 [Detailed charts & statistics for flano-yuki/http3-note](https://reviewgithub.com/rep/flano-yuki/http3-note)

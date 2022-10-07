@@ -4,14 +4,13 @@ Repository url: [/electron/electron-quick-start](https://github.com/electron/ele
 
 Updated on Oct 2022, 07
 
-☋ Forks: 4776
+☋ Forks: 4777
 
-★ Stars: 9897
+★ Stars: 9898
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 9804 | 4744 | 
 | 2022-07-01 | 9804 | 4745 | 
 | 2022-07-02 | 9805 | 4744 | 
 | 2022-07-03 | 9807 | 4745 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 9888 | 4775 | 
 | 2022-07-29 | 9893 | 4775 | 
 | 2022-07-30 | 9897 | 4776 | 
+| 2022-07-31 | 9898 | 4777 | 
 
 
 [Detailed charts & statistics for electron/electron-quick-start](https://reviewgithub.com/rep/electron/electron-quick-start)

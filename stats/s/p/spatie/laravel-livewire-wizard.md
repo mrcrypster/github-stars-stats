@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 173 | 16 | 
 | 2022-07-01 | 174 | 16 | 
 | 2022-07-02 | 175 | 16 | 
 | 2022-07-03 | 175 | 16 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 182 | 16 | 
 | 2022-07-29 | 182 | 16 | 
 | 2022-07-30 | 183 | 16 | 
+| 2022-07-31 | 183 | 16 | 
 
 
 [Detailed charts & statistics for spatie/laravel-livewire-wizard](https://reviewgithub.com/rep/spatie/laravel-livewire-wizard)

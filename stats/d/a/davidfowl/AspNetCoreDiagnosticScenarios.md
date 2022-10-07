@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 520
 
-★ Stars: 5325
+★ Stars: 5327
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 5247 | 513 | 
 | 2022-07-01 | 5247 | 512 | 
 | 2022-07-02 | 5248 | 512 | 
 | 2022-07-03 | 5246 | 512 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 5321 | 518 | 
 | 2022-07-28 | 5322 | 517 | 
 | 2022-07-29 | 5325 | 520 | 
+| 2022-07-30 | 5327 | 520 | 
 
 
 [Detailed charts & statistics for davidfowl/AspNetCoreDiagnosticScenarios](https://reviewgithub.com/rep/davidfowl/AspNetCoreDiagnosticScenarios)

@@ -4,14 +4,13 @@ Repository url: [/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL](https://github.com/
 
 Updated on Oct 2022, 07
 
-☋ Forks: 2773
+☋ Forks: 2780
 
 ★ Stars: 37
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 29 | 2580 | 
 | 2022-07-01 | 30 | 2586 | 
 | 2022-07-02 | 30 | 2597 | 
 | 2022-07-03 | 31 | 2605 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 37 | 2765 | 
 | 2022-07-28 | 37 | 2769 | 
 | 2022-07-29 | 37 | 2773 | 
+| 2022-07-30 | 37 | 2780 | 
 
 
 [Detailed charts & statistics for Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL](https://reviewgithub.com/rep/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL)

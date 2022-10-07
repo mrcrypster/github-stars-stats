@@ -4,7 +4,7 @@ Repository url: [/souvikg544/exploratory_data_analysis](https://github.com/souvi
 
 Updated on Oct 2022, 07
 
-☋ Forks: 32
+☋ Forks: 35
 
 ★ Stars: 16
 
@@ -12,7 +12,7 @@ Updated on Oct 2022, 07
 | Date | Stars | Forks |
 |------|-------|-------|
 | 2022-10-06 | 15 | 32 | 
-| 2022-10-07 | 16 | 32 | 
+| 2022-10-07 | 16 | 35 | 
 | 1970-01-01 | - | - | 
 | 1970-01-01 | - | - | 
 | 1970-01-01 | - | - | 

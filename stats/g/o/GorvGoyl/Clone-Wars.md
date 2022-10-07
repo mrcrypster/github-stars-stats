@@ -4,14 +4,13 @@ Repository url: [/GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 1754
+☋ Forks: 1755
 
-★ Stars: 20328
+★ Stars: 20336
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 20026 | 1721 | 
 | 2022-07-01 | 20035 | 1721 | 
 | 2022-07-02 | 20047 | 1722 | 
 | 2022-07-03 | 20052 | 1720 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 20312 | 1750 | 
 | 2022-07-29 | 20319 | 1751 | 
 | 2022-07-30 | 20328 | 1754 | 
+| 2022-07-31 | 20336 | 1755 | 
 
 
 [Detailed charts & statistics for GorvGoyl/Clone-Wars](https://reviewgithub.com/rep/GorvGoyl/Clone-Wars)

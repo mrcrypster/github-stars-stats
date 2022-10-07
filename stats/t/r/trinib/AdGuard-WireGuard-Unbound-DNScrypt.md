@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 32
 
-★ Stars: 253
+★ Stars: 255
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 228 | 31 | 
 | 2022-07-01 | 228 | 31 | 
 | 2022-07-02 | 228 | 31 | 
 | 2022-07-03 | 229 | 31 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 246 | 32 | 
 | 2022-07-28 | 248 | 32 | 
 | 2022-07-29 | 253 | 32 | 
+| 2022-07-30 | 255 | 32 | 
 
 
 [Detailed charts & statistics for trinib/AdGuard-WireGuard-Unbound-DNScrypt](https://reviewgithub.com/rep/trinib/AdGuard-WireGuard-Unbound-DNScrypt)

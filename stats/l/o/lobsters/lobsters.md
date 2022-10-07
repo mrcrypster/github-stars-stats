@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 722
 
-★ Stars: 3288
+★ Stars: 3289
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 3272 | 717 | 
 | 2022-07-01 | 3273 | 717 | 
 | 2022-07-02 | 3273 | 717 | 
 | 2022-07-03 | 3274 | 717 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 3285 | 722 | 
 | 2022-07-29 | 3287 | 722 | 
 | 2022-07-30 | 3288 | 722 | 
+| 2022-07-31 | 3289 | 722 | 
 
 
 [Detailed charts & statistics for lobsters/lobsters](https://reviewgithub.com/rep/lobsters/lobsters)

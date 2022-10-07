@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 324
 
-★ Stars: 8728
+★ Stars: 8732
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 8464 | 301 | 
 | 2022-07-01 | 8470 | 303 | 
 | 2022-07-02 | 8486 | 304 | 
 | 2022-07-03 | 8493 | 305 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 8722 | 323 | 
 | 2022-07-28 | 8728 | 324 | 
 | 2022-07-29 | 8728 | 324 | 
+| 2022-07-30 | 8732 | 324 | 
 
 
 [Detailed charts & statistics for lima-vm/lima](https://reviewgithub.com/rep/lima-vm/lima)

@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 281
 
-★ Stars: 288
+★ Stars: 289
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 260 | 263 | 
 | 2022-07-01 | 262 | 263 | 
 | 2022-07-02 | 262 | 263 | 
 | 2022-07-03 | 262 | 262 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 284 | 276 | 
 | 2022-07-29 | 287 | 281 | 
 | 2022-07-30 | 288 | 281 | 
+| 2022-07-31 | 289 | 281 | 
 
 
 [Detailed charts & statistics for MicrosoftLearning/DP-203-Data-Engineer](https://reviewgithub.com/rep/MicrosoftLearning/DP-203-Data-Engineer)

@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 105
 
-★ Stars: 316
+★ Stars: 317
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 309 | 102 | 
 | 2022-07-01 | 309 | 102 | 
 | 2022-07-02 | 309 | 102 | 
 | 2022-07-03 | 309 | 102 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 316 | 104 | 
 | 2022-07-28 | 316 | 105 | 
 | 2022-07-29 | 316 | 105 | 
+| 2022-07-30 | 317 | 105 | 
 
 
 [Detailed charts & statistics for IndySockets/Indy](https://reviewgithub.com/rep/IndySockets/Indy)

@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 1646
 
-★ Stars: 14804
+★ Stars: 14806
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 14668 | 1640 | 
 | 2022-07-01 | 14670 | 1640 | 
 | 2022-07-02 | 14671 | 1640 | 
 | 2022-07-03 | 14676 | 1641 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 14795 | 1647 | 
 | 2022-07-29 | 14800 | 1647 | 
 | 2022-07-30 | 14804 | 1646 | 
+| 2022-07-31 | 14806 | 1646 | 
 
 
 [Detailed charts & statistics for Tencent/MMKV](https://reviewgithub.com/rep/Tencent/MMKV)

@@ -4,14 +4,13 @@ Repository url: [/lewagon/dotfiles](https://github.com/lewagon/dotfiles)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 16998
+☋ Forks: 17018
 
-★ Stars: 15431
+★ Stars: 15453
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 14651 | 16147 | 
 | 2022-07-01 | 14651 | 16144 | 
 | 2022-07-02 | 14650 | 16149 | 
 | 2022-07-03 | 14651 | 16152 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 15430 | 16998 | 
 | 2022-07-28 | 15429 | 16997 | 
 | 2022-07-29 | 15431 | 16998 | 
+| 2022-07-30 | 15453 | 17018 | 
 
 
 [Detailed charts & statistics for lewagon/dotfiles](https://reviewgithub.com/rep/lewagon/dotfiles)

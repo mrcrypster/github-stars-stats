@@ -4,14 +4,13 @@ Repository url: [/yujincheng08/BiliRoaming](https://github.com/yujincheng08/Bili
 
 Updated on Oct 2022, 07
 
-☋ Forks: 336
+☋ Forks: 337
 
-★ Stars: 4790
+★ Stars: 4798
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 4463 | 317 | 
 | 2022-07-01 | 4476 | 319 | 
 | 2022-07-02 | 4487 | 319 | 
 | 2022-07-03 | 4497 | 320 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 4770 | 336 | 
 | 2022-07-28 | 4784 | 336 | 
 | 2022-07-29 | 4790 | 336 | 
+| 2022-07-30 | 4798 | 337 | 
 
 
 [Detailed charts & statistics for yujincheng08/BiliRoaming](https://reviewgithub.com/rep/yujincheng08/BiliRoaming)

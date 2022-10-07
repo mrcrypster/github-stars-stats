@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1094 | 150 | 
 | 2022-07-01 | 1094 | 150 | 
 | 2022-07-02 | 1094 | 150 | 
 | 2022-07-03 | 1094 | 150 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1094 | 151 | 
 | 2022-07-28 | 1094 | 151 | 
 | 2022-07-29 | 1094 | 151 | 
+| 2022-07-30 | 1094 | 151 | 
 
 
 [Detailed charts & statistics for derekwyatt/vim-scala](https://reviewgithub.com/rep/derekwyatt/vim-scala)

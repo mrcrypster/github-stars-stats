@@ -4,14 +4,13 @@ Repository url: [/bizz84/SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKi
 
 Updated on Oct 2022, 07
 
-☋ Forks: 725
+☋ Forks: 724
 
 ★ Stars: 6020
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 6000 | 721 | 
 | 2022-07-01 | 6000 | 721 | 
 | 2022-07-02 | 6000 | 721 | 
 | 2022-07-03 | 6000 | 721 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 6018 | 725 | 
 | 2022-07-28 | 6020 | 725 | 
 | 2022-07-29 | 6020 | 725 | 
+| 2022-07-30 | 6020 | 724 | 
 
 
 [Detailed charts & statistics for bizz84/SwiftyStoreKit](https://reviewgithub.com/rep/bizz84/SwiftyStoreKit)

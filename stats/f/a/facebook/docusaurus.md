@@ -4,14 +4,13 @@ Repository url: [/facebook/docusaurus](https://github.com/facebook/docusaurus)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 5286
+☋ Forks: 5294
 
-★ Stars: 35225
+★ Stars: 35253
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 34463 | 5125 | 
 | 2022-07-01 | 34487 | 5132 | 
 | 2022-07-02 | 34511 | 5132 | 
 | 2022-07-03 | 34523 | 5133 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 35143 | 5279 | 
 | 2022-07-28 | 35181 | 5282 | 
 | 2022-07-29 | 35225 | 5286 | 
+| 2022-07-30 | 35253 | 5294 | 
 
 
 [Detailed charts & statistics for facebook/docusaurus](https://reviewgithub.com/rep/facebook/docusaurus)

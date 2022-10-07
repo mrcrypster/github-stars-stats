@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 598
 
-★ Stars: 2544
+★ Stars: 2545
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 2532 | 598 | 
 | 2022-07-01 | 2531 | 598 | 
 | 2022-07-02 | 2532 | 598 | 
 | 2022-07-03 | 2533 | 598 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 2543 | 598 | 
 | 2022-07-28 | 2544 | 598 | 
 | 2022-07-29 | 2544 | 598 | 
+| 2022-07-30 | 2545 | 598 | 
 
 
 [Detailed charts & statistics for slick/slick](https://reviewgithub.com/rep/slick/slick)

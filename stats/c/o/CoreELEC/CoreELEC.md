@@ -4,14 +4,13 @@ Repository url: [/CoreELEC/CoreELEC](https://github.com/CoreELEC/CoreELEC)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 670
+☋ Forks: 671
 
-★ Stars: 921
+★ Stars: 924
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 905 | 663 | 
 | 2022-07-01 | 905 | 663 | 
 | 2022-07-02 | 905 | 664 | 
 | 2022-07-03 | 905 | 664 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 920 | 670 | 
 | 2022-07-29 | 921 | 670 | 
 | 2022-07-30 | 921 | 670 | 
+| 2022-07-31 | 924 | 671 | 
 
 
 [Detailed charts & statistics for CoreELEC/CoreELEC](https://reviewgithub.com/rep/CoreELEC/CoreELEC)

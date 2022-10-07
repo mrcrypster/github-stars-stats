@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 741
 
-★ Stars: 1930
+★ Stars: 1932
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1889 | 730 | 
 | 2022-07-01 | 1893 | 732 | 
 | 2022-07-02 | 1895 | 731 | 
 | 2022-07-03 | 1895 | 731 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1926 | 742 | 
 | 2022-07-28 | 1930 | 741 | 
 | 2022-07-29 | 1930 | 741 | 
+| 2022-07-30 | 1932 | 741 | 
 
 
 [Detailed charts & statistics for shopware/platform](https://reviewgithub.com/rep/shopware/platform)

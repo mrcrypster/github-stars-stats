@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 867 | 122 | 
 | 2022-07-01 | 867 | 122 | 
 | 2022-07-02 | 869 | 122 | 
 | 2022-07-03 | 869 | 122 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 932 | 127 | 
 | 2022-07-28 | 932 | 127 | 
 | 2022-07-29 | 932 | 128 | 
+| 2022-07-30 | 932 | 128 | 
 
 
 [Detailed charts & statistics for rootsecdev/Azure-Red-Team](https://reviewgithub.com/rep/rootsecdev/Azure-Red-Team)
