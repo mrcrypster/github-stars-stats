@@ -43,4 +43,4 @@ Updated on Oct 2022, 07
 | 2022-07-30 | 69780 | 12111 | 
 
 
-[More statistics for FortAwesome/Font-Awesome](https://reviewgithub.com/rep/FortAwesome/Font-Awesome)
+[Detailed charts & statistics for FortAwesome/Font-Awesome](https://reviewgithub.com/rep/FortAwesome/Font-Awesome)
