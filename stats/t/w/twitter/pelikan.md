@@ -1,8 +1,8 @@
 # twitter/pelikan / stars & forks statistics
 
-Repository url: [/twitter/pelikan](https://github.com/twitter/pelikan)
+[Open repository/twitter/pelikan](https://github.com/twitter/pelikan)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 128
 
@@ -11,36 +11,8 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-06 | 1437 | 127 | 
 | 2022-10-07 | 1446 | 128 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1437 | 127 | 
 
 
 [Detailed charts & statistics for twitter/pelikan](https://reviewgithub.com/rep/twitter/pelikan)

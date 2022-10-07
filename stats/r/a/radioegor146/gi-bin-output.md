@@ -1,8 +1,8 @@
 # radioegor146/gi-bin-output / stars & forks statistics
 
-Repository url: [/radioegor146/gi-bin-output](https://github.com/radioegor146/gi-bin-output)
+[Open repository/radioegor146/gi-bin-output](https://github.com/radioegor146/gi-bin-output)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 
 
@@ -11,36 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
 
 
 [Detailed charts & statistics for radioegor146/gi-bin-output](https://reviewgithub.com/rep/radioegor146/gi-bin-output)

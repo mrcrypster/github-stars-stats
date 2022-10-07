@@ -1,8 +1,8 @@
 # mercurius-js/mercurius / stars & forks statistics
 
-Repository url: [/mercurius-js/mercurius](https://github.com/mercurius-js/mercurius)
+[Open repository/mercurius-js/mercurius](https://github.com/mercurius-js/mercurius)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 211
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 1882 | 210 | 
-| 2022-10-06 | 1887 | 210 | 
 | 2022-10-07 | 1889 | 211 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1887 | 210 | 
+| 2022-10-05 | 1882 | 210 | 
 
 
 [Detailed charts & statistics for mercurius-js/mercurius](https://reviewgithub.com/rep/mercurius-js/mercurius)

@@ -1,8 +1,8 @@
 # guardianproject/orbot / stars & forks statistics
 
-Repository url: [/guardianproject/orbot](https://github.com/guardianproject/orbot)
+[Open repository/guardianproject/orbot](https://github.com/guardianproject/orbot)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 284
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 1131 | 284 | 
-| 2022-10-03 | 1133 | 284 | 
-| 2022-10-04 | 1139 | 284 | 
-| 2022-10-05 | 1139 | 284 | 
 | 2022-10-06 | 1140 | 284 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 1139 | 284 | 
+| 2022-10-04 | 1139 | 284 | 
+| 2022-10-03 | 1133 | 284 | 
+| 2022-10-02 | 1131 | 284 | 
 
 
 [Detailed charts & statistics for guardianproject/orbot](https://reviewgithub.com/rep/guardianproject/orbot)

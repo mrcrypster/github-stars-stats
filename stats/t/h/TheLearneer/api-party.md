@@ -1,8 +1,8 @@
 # TheLearneer/api-party / stars & forks statistics
 
-Repository url: [/TheLearneer/api-party](https://github.com/TheLearneer/api-party)
+[Open repository/TheLearneer/api-party](https://github.com/TheLearneer/api-party)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 9 | 18 | 
-| 2022-10-03 | 9 | 19 | 
-| 2022-10-04 | 11 | 22 | 
-| 2022-10-05 | 11 | 22 | 
-| 2022-10-06 | 11 | 23 | 
 | 2022-10-07 | 11 | 26 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 11 | 23 | 
+| 2022-10-05 | 11 | 22 | 
+| 2022-10-04 | 11 | 22 | 
+| 2022-10-03 | 9 | 19 | 
+| 2022-10-02 | 9 | 18 | 
 
 
 [Detailed charts & statistics for TheLearneer/api-party](https://reviewgithub.com/rep/TheLearneer/api-party)

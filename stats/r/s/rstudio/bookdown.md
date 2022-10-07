@@ -1,8 +1,8 @@
 # rstudio/bookdown / stars & forks statistics
 
-Repository url: [/rstudio/bookdown](https://github.com/rstudio/bookdown)
+[Open repository/rstudio/bookdown](https://github.com/rstudio/bookdown)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1174
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 3089 | 1173 | 
-| 2022-10-06 | 3089 | 1173 | 
 | 2022-10-07 | 3091 | 1174 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 3089 | 1173 | 
+| 2022-10-05 | 3089 | 1173 | 
 
 
 [Detailed charts & statistics for rstudio/bookdown](https://reviewgithub.com/rep/rstudio/bookdown)

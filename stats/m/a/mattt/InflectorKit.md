@@ -1,8 +1,8 @@
 # mattt/InflectorKit / stars & forks statistics
 
-Repository url: [/mattt/InflectorKit](https://github.com/mattt/InflectorKit)
+[Open repository/mattt/InflectorKit](https://github.com/mattt/InflectorKit)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 468 | 32 | 
-| 2022-10-04 | 468 | 32 | 
-| 2022-10-05 | 468 | 32 | 
 | 2022-10-06 | 468 | 32 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 468 | 32 | 
+| 2022-10-04 | 468 | 32 | 
+| 2022-10-03 | 468 | 32 | 
 
 
 [Detailed charts & statistics for mattt/InflectorKit](https://reviewgithub.com/rep/mattt/InflectorKit)

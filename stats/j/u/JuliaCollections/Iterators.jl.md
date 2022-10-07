@@ -1,8 +1,8 @@
 # JuliaCollections/Iterators.jl / stars & forks statistics
 
-Repository url: [/JuliaCollections/Iterators.jl](https://github.com/JuliaCollections/Iterators.jl)
+[Open repository/JuliaCollections/Iterators.jl](https://github.com/JuliaCollections/Iterators.jl)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
@@ -11,36 +11,14 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-30 | 58 | 36 | 
-| 2022-10-01 | 58 | 36 | 
-| 2022-10-02 | 59 | 36 | 
-| 2022-10-03 | 59 | 36 | 
-| 2022-10-04 | 59 | 36 | 
-| 2022-10-05 | 59 | 36 | 
-| 2022-10-06 | 59 | 36 | 
 | 2022-10-07 | 59 | 36 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 59 | 36 | 
+| 2022-10-05 | 59 | 36 | 
+| 2022-10-04 | 59 | 36 | 
+| 2022-10-03 | 59 | 36 | 
+| 2022-10-02 | 59 | 36 | 
+| 2022-10-01 | 58 | 36 | 
+| 2022-09-30 | 58 | 36 | 
 
 
 [Detailed charts & statistics for JuliaCollections/Iterators.jl](https://reviewgithub.com/rep/JuliaCollections/Iterators.jl)

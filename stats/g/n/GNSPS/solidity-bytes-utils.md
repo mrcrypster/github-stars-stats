@@ -1,8 +1,8 @@
 # GNSPS/solidity-bytes-utils / stars & forks statistics
 
-Repository url: [/GNSPS/solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
+[Open repository/GNSPS/solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
@@ -11,36 +11,14 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-30 | 341 | 73 | 
-| 2022-10-01 | 342 | 73 | 
-| 2022-10-02 | 343 | 73 | 
-| 2022-10-03 | 343 | 73 | 
-| 2022-10-04 | 343 | 73 | 
-| 2022-10-05 | 344 | 73 | 
-| 2022-10-06 | 344 | 73 | 
 | 2022-10-07 | 344 | 73 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 344 | 73 | 
+| 2022-10-05 | 344 | 73 | 
+| 2022-10-04 | 343 | 73 | 
+| 2022-10-03 | 343 | 73 | 
+| 2022-10-02 | 343 | 73 | 
+| 2022-10-01 | 342 | 73 | 
+| 2022-09-30 | 341 | 73 | 
 
 
 [Detailed charts & statistics for GNSPS/solidity-bytes-utils](https://reviewgithub.com/rep/GNSPS/solidity-bytes-utils)

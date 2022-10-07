@@ -1,8 +1,8 @@
 # deepin-community/docbook2x / stars & forks statistics
 
-Repository url: [/deepin-community/docbook2x](https://github.com/deepin-community/docbook2x)
+[Open repository/deepin-community/docbook2x](https://github.com/deepin-community/docbook2x)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -11,36 +11,13 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-30 | - | - | 
-| 2022-10-01 | - | - | 
-| 2022-10-02 | - | - | 
-| 2022-10-03 | - | - | 
-| 2022-10-04 | - | - | 
-| 2022-10-05 | - | - | 
 | 2022-10-06 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
+| 2022-10-01 | - | - | 
+| 2022-09-30 | - | - | 
 
 
 [Detailed charts & statistics for deepin-community/docbook2x](https://reviewgithub.com/rep/deepin-community/docbook2x)

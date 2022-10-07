@@ -1,8 +1,8 @@
 # kant2002/FSharpPacker / stars & forks statistics
 
-Repository url: [/kant2002/FSharpPacker](https://github.com/kant2002/FSharpPacker)
+[Open repository/kant2002/FSharpPacker](https://github.com/kant2002/FSharpPacker)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 17 | 2 | 
-| 2022-10-06 | 17 | 2 | 
 | 2022-10-07 | 17 | 2 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 17 | 2 | 
+| 2022-10-05 | 17 | 2 | 
 
 
 [Detailed charts & statistics for kant2002/FSharpPacker](https://reviewgithub.com/rep/kant2002/FSharpPacker)

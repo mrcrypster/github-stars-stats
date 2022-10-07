@@ -1,8 +1,8 @@
 # projectdiscovery/asnmap / stars & forks statistics
 
-Repository url: [/projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
+[Open repository/projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 127 | 5 | 
-| 2022-10-05 | 128 | 5 | 
 | 2022-10-06 | 132 | 6 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 128 | 5 | 
+| 2022-10-04 | 127 | 5 | 
 
 
 [Detailed charts & statistics for projectdiscovery/asnmap](https://reviewgithub.com/rep/projectdiscovery/asnmap)

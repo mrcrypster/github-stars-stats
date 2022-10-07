@@ -1,8 +1,8 @@
 # GetStream/AvengersChat / stars & forks statistics
 
-Repository url: [/GetStream/AvengersChat](https://github.com/GetStream/AvengersChat)
+[Open repository/GetStream/AvengersChat](https://github.com/GetStream/AvengersChat)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
@@ -11,36 +11,14 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-29 | 329 | 27 | 
-| 2022-09-30 | 331 | 27 | 
-| 2022-10-01 | 333 | 27 | 
-| 2022-10-02 | 335 | 27 | 
-| 2022-10-03 | 336 | 28 | 
-| 2022-10-04 | 337 | 28 | 
-| 2022-10-05 | 337 | 28 | 
 | 2022-10-06 | 337 | 28 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 337 | 28 | 
+| 2022-10-04 | 337 | 28 | 
+| 2022-10-03 | 336 | 28 | 
+| 2022-10-02 | 335 | 27 | 
+| 2022-10-01 | 333 | 27 | 
+| 2022-09-30 | 331 | 27 | 
+| 2022-09-29 | 329 | 27 | 
 
 
 [Detailed charts & statistics for GetStream/AvengersChat](https://reviewgithub.com/rep/GetStream/AvengersChat)

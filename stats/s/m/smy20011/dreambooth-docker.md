@@ -1,8 +1,8 @@
 # smy20011/dreambooth-docker / stars & forks statistics
 
-Repository url: [/smy20011/dreambooth-docker](https://github.com/smy20011/dreambooth-docker)
+[Open repository/smy20011/dreambooth-docker](https://github.com/smy20011/dreambooth-docker)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 37 | 9 | 
-| 2022-10-05 | 40 | 9 | 
-| 2022-10-06 | 44 | 9 | 
 | 2022-10-07 | 45 | 9 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 44 | 9 | 
+| 2022-10-05 | 40 | 9 | 
+| 2022-10-04 | 37 | 9 | 
 
 
 [Detailed charts & statistics for smy20011/dreambooth-docker](https://reviewgithub.com/rep/smy20011/dreambooth-docker)

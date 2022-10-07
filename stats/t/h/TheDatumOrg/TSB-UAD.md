@@ -1,8 +1,8 @@
 # TheDatumOrg/TSB-UAD / stars & forks statistics
 
-Repository url: [/TheDatumOrg/TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD)
+[Open repository/TheDatumOrg/TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 40 | 20 | 
-| 2022-10-05 | 46 | 25 | 
-| 2022-10-06 | 67 | 49 | 
 | 2022-10-07 | 67 | 49 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 67 | 49 | 
+| 2022-10-05 | 46 | 25 | 
+| 2022-10-04 | 40 | 20 | 
 
 
 [Detailed charts & statistics for TheDatumOrg/TSB-UAD](https://reviewgithub.com/rep/TheDatumOrg/TSB-UAD)

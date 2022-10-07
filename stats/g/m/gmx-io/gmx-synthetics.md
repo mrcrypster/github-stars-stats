@@ -1,8 +1,8 @@
 # gmx-io/gmx-synthetics / stars & forks statistics
 
-Repository url: [/gmx-io/gmx-synthetics](https://github.com/gmx-io/gmx-synthetics)
+[Open repository/gmx-io/gmx-synthetics](https://github.com/gmx-io/gmx-synthetics)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 23 | 1 | 
-| 2022-10-06 | 26 | 1 | 
 | 2022-10-07 | 26 | 1 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 26 | 1 | 
+| 2022-10-05 | 23 | 1 | 
 
 
 [Detailed charts & statistics for gmx-io/gmx-synthetics](https://reviewgithub.com/rep/gmx-io/gmx-synthetics)

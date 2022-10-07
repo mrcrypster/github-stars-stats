@@ -1,8 +1,8 @@
 # tinyBigGAMES/Luna / stars & forks statistics
 
-Repository url: [/tinyBigGAMES/Luna](https://github.com/tinyBigGAMES/Luna)
+[Open repository/tinyBigGAMES/Luna](https://github.com/tinyBigGAMES/Luna)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 5 | - | 
-| 2022-10-05 | 5 | - | 
-| 2022-10-06 | 6 | - | 
 | 2022-10-07 | 7 | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 6 | - | 
+| 2022-10-05 | 5 | - | 
+| 2022-10-04 | 5 | - | 
 
 
 [Detailed charts & statistics for tinyBigGAMES/Luna](https://reviewgithub.com/rep/tinyBigGAMES/Luna)

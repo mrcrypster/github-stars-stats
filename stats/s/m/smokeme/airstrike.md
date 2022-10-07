@@ -1,8 +1,8 @@
 # smokeme/airstrike / stars & forks statistics
 
-Repository url: [/smokeme/airstrike](https://github.com/smokeme/airstrike)
+[Open repository/smokeme/airstrike](https://github.com/smokeme/airstrike)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 57 | 9 | 
-| 2022-10-05 | 58 | 9 | 
-| 2022-10-06 | 59 | 10 | 
 | 2022-10-07 | 59 | 11 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 59 | 10 | 
+| 2022-10-05 | 58 | 9 | 
+| 2022-10-04 | 57 | 9 | 
 
 
 [Detailed charts & statistics for smokeme/airstrike](https://reviewgithub.com/rep/smokeme/airstrike)

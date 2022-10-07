@@ -1,8 +1,8 @@
 # IObundle/iob-soc-tester / stars & forks statistics
 
-Repository url: [/IObundle/iob-soc-tester](https://github.com/IObundle/iob-soc-tester)
+[Open repository/IObundle/iob-soc-tester](https://github.com/IObundle/iob-soc-tester)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | - | 1 | 
-| 2022-10-06 | - | 1 | 
 | 2022-10-07 | - | 1 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | - | 1 | 
+| 2022-10-05 | - | 1 | 
 
 
 [Detailed charts & statistics for IObundle/iob-soc-tester](https://reviewgithub.com/rep/IObundle/iob-soc-tester)

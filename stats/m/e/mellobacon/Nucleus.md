@@ -1,8 +1,8 @@
 # mellobacon/Nucleus / stars & forks statistics
 
-Repository url: [/mellobacon/Nucleus](https://github.com/mellobacon/Nucleus)
+[Open repository/mellobacon/Nucleus](https://github.com/mellobacon/Nucleus)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 14 | 8 | 
-| 2022-10-05 | 16 | 8 | 
-| 2022-10-06 | 17 | 9 | 
 | 2022-10-07 | 17 | 9 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 17 | 9 | 
+| 2022-10-05 | 16 | 8 | 
+| 2022-10-04 | 14 | 8 | 
 
 
 [Detailed charts & statistics for mellobacon/Nucleus](https://reviewgithub.com/rep/mellobacon/Nucleus)

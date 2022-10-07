@@ -1,8 +1,8 @@
 # halkyonio/assemble-platforms / stars & forks statistics
 
-Repository url: [/halkyonio/assemble-platforms](https://github.com/halkyonio/assemble-platforms)
+[Open repository/halkyonio/assemble-platforms](https://github.com/halkyonio/assemble-platforms)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | - | 4 | 
-| 2022-10-04 | - | 4 | 
-| 2022-10-05 | - | 4 | 
-| 2022-10-06 | 1 | 4 | 
 | 2022-10-07 | 1 | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1 | 4 | 
+| 2022-10-05 | - | 4 | 
+| 2022-10-04 | - | 4 | 
+| 2022-10-03 | - | 4 | 
 
 
 [Detailed charts & statistics for halkyonio/assemble-platforms](https://reviewgithub.com/rep/halkyonio/assemble-platforms)

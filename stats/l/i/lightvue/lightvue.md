@@ -1,8 +1,8 @@
 # lightvue/lightvue / stars & forks statistics
 
-Repository url: [/lightvue/lightvue](https://github.com/lightvue/lightvue)
+[Open repository/lightvue/lightvue](https://github.com/lightvue/lightvue)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 66 | 36 | 
-| 2022-10-05 | 66 | 36 | 
-| 2022-10-06 | 65 | 37 | 
 | 2022-10-07 | 67 | 37 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 65 | 37 | 
+| 2022-10-05 | 66 | 36 | 
+| 2022-10-04 | 66 | 36 | 
 
 
 [Detailed charts & statistics for lightvue/lightvue](https://reviewgithub.com/rep/lightvue/lightvue)

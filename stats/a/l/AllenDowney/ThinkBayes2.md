@@ -1,8 +1,8 @@
 # AllenDowney/ThinkBayes2 / stars & forks statistics
 
-Repository url: [/AllenDowney/ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2)
+[Open repository/AllenDowney/ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1395
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 1454 | 1392 | 
-| 2022-10-05 | 1455 | 1392 | 
-| 2022-10-06 | 1457 | 1395 | 
 | 2022-10-07 | 1459 | 1395 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1457 | 1395 | 
+| 2022-10-05 | 1455 | 1392 | 
+| 2022-10-04 | 1454 | 1392 | 
 
 
 [Detailed charts & statistics for AllenDowney/ThinkBayes2](https://reviewgithub.com/rep/AllenDowney/ThinkBayes2)

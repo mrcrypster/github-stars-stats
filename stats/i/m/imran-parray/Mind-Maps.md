@@ -1,8 +1,8 @@
 # imran-parray/Mind-Maps / stars & forks statistics
 
-Repository url: [/imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps)
+[Open repository/imran-parray/Mind-Maps](https://github.com/imran-parray/Mind-Maps)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 304
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 1054 | 301 | 
-| 2022-10-05 | 1055 | 301 | 
-| 2022-10-06 | 1057 | 303 | 
 | 2022-10-07 | 1069 | 304 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1057 | 303 | 
+| 2022-10-05 | 1055 | 301 | 
+| 2022-10-04 | 1054 | 301 | 
 
 
 [Detailed charts & statistics for imran-parray/Mind-Maps](https://reviewgithub.com/rep/imran-parray/Mind-Maps)

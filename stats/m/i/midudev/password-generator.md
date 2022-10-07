@@ -1,8 +1,8 @@
 # midudev/password-generator / stars & forks statistics
 
-Repository url: [/midudev/password-generator](https://github.com/midudev/password-generator)
+[Open repository/midudev/password-generator](https://github.com/midudev/password-generator)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 406
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 219 | 304 | 
-| 2022-10-04 | 281 | 362 | 
-| 2022-10-05 | 339 | 392 | 
-| 2022-10-06 | 344 | 399 | 
 | 2022-10-07 | 355 | 406 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 344 | 399 | 
+| 2022-10-05 | 339 | 392 | 
+| 2022-10-04 | 281 | 362 | 
+| 2022-10-03 | 219 | 304 | 
 
 
 [Detailed charts & statistics for midudev/password-generator](https://reviewgithub.com/rep/midudev/password-generator)

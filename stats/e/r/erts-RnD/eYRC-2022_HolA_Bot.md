@@ -1,8 +1,8 @@
 # erts-RnD/eYRC-2022_HolA_Bot / stars & forks statistics
 
-Repository url: [/erts-RnD/eYRC-2022_HolA_Bot](https://github.com/erts-RnD/eYRC-2022_HolA_Bot)
+[Open repository/erts-RnD/eYRC-2022_HolA_Bot](https://github.com/erts-RnD/eYRC-2022_HolA_Bot)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | - | 4 | 
-| 2022-10-05 | - | 4 | 
-| 2022-10-06 | - | 4 | 
 | 2022-10-07 | - | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | - | 4 | 
+| 2022-10-05 | - | 4 | 
+| 2022-10-04 | - | 4 | 
 
 
 [Detailed charts & statistics for erts-RnD/eYRC-2022_HolA_Bot](https://reviewgithub.com/rep/erts-RnD/eYRC-2022_HolA_Bot)

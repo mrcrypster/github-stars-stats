@@ -1,8 +1,8 @@
 # mozilla/uniffi-rs / stars & forks statistics
 
-Repository url: [/mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs)
+[Open repository/mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 903 | 72 | 
-| 2022-10-06 | 926 | 74 | 
 | 2022-10-07 | 930 | 74 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 926 | 74 | 
+| 2022-10-05 | 903 | 72 | 
 
 
 [Detailed charts & statistics for mozilla/uniffi-rs](https://reviewgithub.com/rep/mozilla/uniffi-rs)

@@ -1,8 +1,8 @@
 # py3-coder/Hacktober_Repo_22 / stars & forks statistics
 
-Repository url: [/py3-coder/Hacktober_Repo_22](https://github.com/py3-coder/Hacktober_Repo_22)
+[Open repository/py3-coder/Hacktober_Repo_22](https://github.com/py3-coder/Hacktober_Repo_22)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 210
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 49 | 95 | 
-| 2022-10-04 | 60 | 115 | 
-| 2022-10-05 | 75 | 152 | 
-| 2022-10-06 | 95 | 195 | 
 | 2022-10-07 | 104 | 210 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 95 | 195 | 
+| 2022-10-05 | 75 | 152 | 
+| 2022-10-04 | 60 | 115 | 
+| 2022-10-03 | 49 | 95 | 
 
 
 [Detailed charts & statistics for py3-coder/Hacktober_Repo_22](https://reviewgithub.com/rep/py3-coder/Hacktober_Repo_22)

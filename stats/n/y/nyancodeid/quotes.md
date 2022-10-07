@@ -1,8 +1,8 @@
 # nyancodeid/quotes / stars & forks statistics
 
-Repository url: [/nyancodeid/quotes](https://github.com/nyancodeid/quotes)
+[Open repository/nyancodeid/quotes](https://github.com/nyancodeid/quotes)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 164
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 64 | 160 | 
-| 2022-10-05 | 64 | 160 | 
-| 2022-10-06 | 67 | 164 | 
 | 2022-10-07 | 67 | 164 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 67 | 164 | 
+| 2022-10-05 | 64 | 160 | 
+| 2022-10-04 | 64 | 160 | 
 
 
 [Detailed charts & statistics for nyancodeid/quotes](https://reviewgithub.com/rep/nyancodeid/quotes)

@@ -1,8 +1,8 @@
 # Zack-Dx/Twitter-Landing-Page / stars & forks statistics
 
-Repository url: [/Zack-Dx/Twitter-Landing-Page](https://github.com/Zack-Dx/Twitter-Landing-Page)
+[Open repository/Zack-Dx/Twitter-Landing-Page](https://github.com/Zack-Dx/Twitter-Landing-Page)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
@@ -11,36 +11,8 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-06 | 27 | 47 | 
 | 2022-10-07 | 28 | 46 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 27 | 47 | 
 
 
 [Detailed charts & statistics for Zack-Dx/Twitter-Landing-Page](https://reviewgithub.com/rep/Zack-Dx/Twitter-Landing-Page)

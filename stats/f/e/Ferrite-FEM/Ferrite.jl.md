@@ -1,8 +1,8 @@
 # Ferrite-FEM/Ferrite.jl / stars & forks statistics
 
-Repository url: [/Ferrite-FEM/Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl)
+[Open repository/Ferrite-FEM/Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 55
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 184 | 55 | 
-| 2022-10-06 | 184 | 55 | 
 | 2022-10-07 | 184 | 55 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 184 | 55 | 
+| 2022-10-05 | 184 | 55 | 
 
 
 [Detailed charts & statistics for Ferrite-FEM/Ferrite.jl](https://reviewgithub.com/rep/Ferrite-FEM/Ferrite.jl)

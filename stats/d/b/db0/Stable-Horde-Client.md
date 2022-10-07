@@ -1,8 +1,8 @@
 # db0/Stable-Horde-Client / stars & forks statistics
 
-Repository url: [/db0/Stable-Horde-Client](https://github.com/db0/Stable-Horde-Client)
+[Open repository/db0/Stable-Horde-Client](https://github.com/db0/Stable-Horde-Client)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 18 | 2 | 
-| 2022-10-05 | 18 | 2 | 
-| 2022-10-06 | 21 | 3 | 
 | 2022-10-07 | 21 | 3 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 21 | 3 | 
+| 2022-10-05 | 18 | 2 | 
+| 2022-10-04 | 18 | 2 | 
 
 
 [Detailed charts & statistics for db0/Stable-Horde-Client](https://reviewgithub.com/rep/db0/Stable-Horde-Client)

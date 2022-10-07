@@ -1,8 +1,8 @@
 # with-tech-guy/hacktoberfest-2022-2 / stars & forks statistics
 
-Repository url: [/with-tech-guy/hacktoberfest-2022-2](https://github.com/with-tech-guy/hacktoberfest-2022-2)
+[Open repository/with-tech-guy/hacktoberfest-2022-2](https://github.com/with-tech-guy/hacktoberfest-2022-2)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 1 | 63 | 
-| 2022-10-05 | 1 | 63 | 
-| 2022-10-06 | 1 | 63 | 
 | 2022-10-07 | 1 | 63 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1 | 63 | 
+| 2022-10-05 | 1 | 63 | 
+| 2022-10-04 | 1 | 63 | 
 
 
 [Detailed charts & statistics for with-tech-guy/hacktoberfest-2022-2](https://reviewgithub.com/rep/with-tech-guy/hacktoberfest-2022-2)

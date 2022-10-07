@@ -1,8 +1,8 @@
 # intel-iot-devkit/meta-iot-cloud / stars & forks statistics
 
-Repository url: [/intel-iot-devkit/meta-iot-cloud](https://github.com/intel-iot-devkit/meta-iot-cloud)
+[Open repository/intel-iot-devkit/meta-iot-cloud](https://github.com/intel-iot-devkit/meta-iot-cloud)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
@@ -11,36 +11,17 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-26 | 61 | 79 | 
-| 2022-09-27 | 61 | 79 | 
-| 2022-09-28 | 61 | 79 | 
-| 2022-09-29 | 61 | 79 | 
-| 2022-09-30 | 61 | 79 | 
-| 2022-10-01 | 61 | 79 | 
-| 2022-10-02 | 61 | 79 | 
-| 2022-10-03 | 61 | 79 | 
-| 2022-10-04 | 61 | 79 | 
-| 2022-10-05 | 61 | 79 | 
 | 2022-10-06 | 61 | 79 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 61 | 79 | 
+| 2022-10-04 | 61 | 79 | 
+| 2022-10-03 | 61 | 79 | 
+| 2022-10-02 | 61 | 79 | 
+| 2022-10-01 | 61 | 79 | 
+| 2022-09-30 | 61 | 79 | 
+| 2022-09-29 | 61 | 79 | 
+| 2022-09-28 | 61 | 79 | 
+| 2022-09-27 | 61 | 79 | 
+| 2022-09-26 | 61 | 79 | 
 
 
 [Detailed charts & statistics for intel-iot-devkit/meta-iot-cloud](https://reviewgithub.com/rep/intel-iot-devkit/meta-iot-cloud)

@@ -1,8 +1,8 @@
 # confluentinc/kafka-connect-jdbc / stars & forks statistics
 
-Repository url: [/confluentinc/kafka-connect-jdbc](https://github.com/confluentinc/kafka-connect-jdbc)
+[Open repository/confluentinc/kafka-connect-jdbc](https://github.com/confluentinc/kafka-connect-jdbc)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 869
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 863 | 868 | 
-| 2022-10-06 | 863 | 868 | 
 | 2022-10-07 | 865 | 869 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 863 | 868 | 
+| 2022-10-05 | 863 | 868 | 
 
 
 [Detailed charts & statistics for confluentinc/kafka-connect-jdbc](https://reviewgithub.com/rep/confluentinc/kafka-connect-jdbc)

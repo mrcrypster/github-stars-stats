@@ -1,8 +1,8 @@
 # wdzeng/bot-automation / stars & forks statistics
 
-Repository url: [/wdzeng/bot-automation](https://github.com/wdzeng/bot-automation)
+[Open repository/wdzeng/bot-automation](https://github.com/wdzeng/bot-automation)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2206
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-07-01 | 572 | 2156 | 
-| 2022-07-02 | 576 | 2184 | 
 | 2022-07-03 | 585 | 2206 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-07-02 | 576 | 2184 | 
+| 2022-07-01 | 572 | 2156 | 
 
 
 [Detailed charts & statistics for wdzeng/bot-automation](https://reviewgithub.com/rep/wdzeng/bot-automation)

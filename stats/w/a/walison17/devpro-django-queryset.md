@@ -1,8 +1,8 @@
 # walison17/devpro-django-queryset / stars & forks statistics
 
-Repository url: [/walison17/devpro-django-queryset](https://github.com/walison17/devpro-django-queryset)
+[Open repository/walison17/devpro-django-queryset](https://github.com/walison17/devpro-django-queryset)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 1 | - | 
-| 2022-10-06 | 2 | 1 | 
 | 2022-10-07 | 2 | 2 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 2 | 1 | 
+| 2022-10-05 | 1 | - | 
 
 
 [Detailed charts & statistics for walison17/devpro-django-queryset](https://reviewgithub.com/rep/walison17/devpro-django-queryset)

@@ -1,8 +1,8 @@
 # yyzwz/bill-system / stars & forks statistics
 
-Repository url: [/yyzwz/bill-system](https://github.com/yyzwz/bill-system)
+[Open repository/yyzwz/bill-system](https://github.com/yyzwz/bill-system)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 6 | 3 | 
-| 2022-10-04 | 6 | 3 | 
-| 2022-10-05 | 6 | 3 | 
 | 2022-10-06 | 6 | 3 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 6 | 3 | 
+| 2022-10-04 | 6 | 3 | 
+| 2022-10-03 | 6 | 3 | 
 
 
 [Detailed charts & statistics for yyzwz/bill-system](https://reviewgithub.com/rep/yyzwz/bill-system)

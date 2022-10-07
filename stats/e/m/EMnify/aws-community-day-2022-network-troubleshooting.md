@@ -1,8 +1,8 @@
 # EMnify/aws-community-day-2022-network-troubleshooting / stars & forks statistics
 
-Repository url: [/EMnify/aws-community-day-2022-network-troubleshooting](https://github.com/EMnify/aws-community-day-2022-network-troubleshooting)
+[Open repository/EMnify/aws-community-day-2022-network-troubleshooting](https://github.com/EMnify/aws-community-day-2022-network-troubleshooting)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -11,36 +11,19 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-24 | - | - | 
-| 2022-09-25 | - | - | 
-| 2022-09-26 | - | - | 
-| 2022-09-27 | - | - | 
-| 2022-09-28 | - | - | 
-| 2022-09-29 | - | - | 
-| 2022-09-30 | - | - | 
-| 2022-10-01 | - | - | 
-| 2022-10-02 | - | - | 
-| 2022-10-03 | - | - | 
-| 2022-10-04 | - | - | 
-| 2022-10-05 | - | - | 
 | 2022-10-06 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
+| 2022-10-01 | - | - | 
+| 2022-09-30 | - | - | 
+| 2022-09-29 | - | - | 
+| 2022-09-28 | - | - | 
+| 2022-09-27 | - | - | 
+| 2022-09-26 | - | - | 
+| 2022-09-25 | - | - | 
+| 2022-09-24 | - | - | 
 
 
 [Detailed charts & statistics for EMnify/aws-community-day-2022-network-troubleshooting](https://reviewgithub.com/rep/EMnify/aws-community-day-2022-network-troubleshooting)

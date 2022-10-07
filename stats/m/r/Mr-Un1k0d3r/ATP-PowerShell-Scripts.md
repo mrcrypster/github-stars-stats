@@ -1,8 +1,8 @@
 # Mr-Un1k0d3r/ATP-PowerShell-Scripts / stars & forks statistics
 
-Repository url: [/Mr-Un1k0d3r/ATP-PowerShell-Scripts](https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts)
+[Open repository/Mr-Un1k0d3r/ATP-PowerShell-Scripts](https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 103 | 14 | 
-| 2022-10-03 | 116 | 16 | 
-| 2022-10-04 | 122 | 17 | 
-| 2022-10-05 | 126 | 18 | 
-| 2022-10-06 | 127 | 18 | 
 | 2022-10-07 | 129 | 18 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 127 | 18 | 
+| 2022-10-05 | 126 | 18 | 
+| 2022-10-04 | 122 | 17 | 
+| 2022-10-03 | 116 | 16 | 
+| 2022-10-02 | 103 | 14 | 
 
 
 [Detailed charts & statistics for Mr-Un1k0d3r/ATP-PowerShell-Scripts](https://reviewgithub.com/rep/Mr-Un1k0d3r/ATP-PowerShell-Scripts)

@@ -1,8 +1,8 @@
 # revmischa/test-bot / stars & forks statistics
 
-Repository url: [/revmischa/test-bot](https://github.com/revmischa/test-bot)
+[Open repository/revmischa/test-bot](https://github.com/revmischa/test-bot)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 2 | - | 
-| 2022-10-05 | 2 | - | 
-| 2022-10-06 | 2 | - | 
 | 2022-10-07 | 2 | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 2 | - | 
+| 2022-10-05 | 2 | - | 
+| 2022-10-04 | 2 | - | 
 
 
 [Detailed charts & statistics for revmischa/test-bot](https://reviewgithub.com/rep/revmischa/test-bot)

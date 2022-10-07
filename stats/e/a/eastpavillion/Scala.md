@@ -1,8 +1,8 @@
 # eastpavillion/Scala / stars & forks statistics
 
-Repository url: [/eastpavillion/Scala](https://github.com/eastpavillion/Scala)
+[Open repository/eastpavillion/Scala](https://github.com/eastpavillion/Scala)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-01 | - | - | 
-| 2022-10-02 | - | - | 
-| 2022-10-03 | - | - | 
-| 2022-10-04 | - | - | 
-| 2022-10-05 | - | - | 
 | 2022-10-06 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | - | - | 
+| 2022-10-04 | - | - | 
+| 2022-10-03 | - | - | 
+| 2022-10-02 | - | - | 
+| 2022-10-01 | - | - | 
 
 
 [Detailed charts & statistics for eastpavillion/Scala](https://reviewgithub.com/rep/eastpavillion/Scala)

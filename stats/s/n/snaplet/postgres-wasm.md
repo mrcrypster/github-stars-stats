@@ -1,8 +1,8 @@
 # snaplet/postgres-wasm / stars & forks statistics
 
-Repository url: [/snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm)
+[Open repository/snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 833 | 20 | 
-| 2022-10-06 | 1088 | 29 | 
 | 2022-10-07 | 1175 | 29 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1088 | 29 | 
+| 2022-10-05 | 833 | 20 | 
 
 
 [Detailed charts & statistics for snaplet/postgres-wasm](https://reviewgithub.com/rep/snaplet/postgres-wasm)

@@ -1,8 +1,8 @@
 # aws-amplify/amplify-android / stars & forks statistics
 
-Repository url: [/aws-amplify/amplify-android](https://github.com/aws-amplify/amplify-android)
+[Open repository/aws-amplify/amplify-android](https://github.com/aws-amplify/amplify-android)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 91
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 155 | 91 | 
-| 2022-10-06 | 156 | 91 | 
 | 2022-10-07 | 156 | 91 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 156 | 91 | 
+| 2022-10-05 | 155 | 91 | 
 
 
 [Detailed charts & statistics for aws-amplify/amplify-android](https://reviewgithub.com/rep/aws-amplify/amplify-android)

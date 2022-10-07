@@ -1,8 +1,8 @@
 # input-output-hk/vit-ops / stars & forks statistics
 
-Repository url: [/input-output-hk/vit-ops](https://github.com/input-output-hk/vit-ops)
+[Open repository/input-output-hk/vit-ops](https://github.com/input-output-hk/vit-ops)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 5 | 3 | 
-| 2022-10-05 | 5 | 3 | 
 | 2022-10-06 | 5 | 3 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 5 | 3 | 
+| 2022-10-04 | 5 | 3 | 
 
 
 [Detailed charts & statistics for input-output-hk/vit-ops](https://reviewgithub.com/rep/input-output-hk/vit-ops)

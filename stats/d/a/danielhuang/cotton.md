@@ -1,8 +1,8 @@
 # danielhuang/cotton / stars & forks statistics
 
-Repository url: [/danielhuang/cotton](https://github.com/danielhuang/cotton)
+[Open repository/danielhuang/cotton](https://github.com/danielhuang/cotton)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 102 | 2 | 
-| 2022-10-04 | 141 | 4 | 
-| 2022-10-05 | 152 | 4 | 
-| 2022-10-06 | 157 | 4 | 
 | 2022-10-07 | 162 | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 157 | 4 | 
+| 2022-10-05 | 152 | 4 | 
+| 2022-10-04 | 141 | 4 | 
+| 2022-10-03 | 102 | 2 | 
 
 
 [Detailed charts & statistics for danielhuang/cotton](https://reviewgithub.com/rep/danielhuang/cotton)

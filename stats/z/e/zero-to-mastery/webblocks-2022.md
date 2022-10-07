@@ -1,8 +1,8 @@
 # zero-to-mastery/webblocks-2022 / stars & forks statistics
 
-Repository url: [/zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022)
+[Open repository/zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 116
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 19 | 81 | 
-| 2022-10-04 | 19 | 97 | 
-| 2022-10-05 | 21 | 109 | 
-| 2022-10-06 | 21 | 109 | 
 | 2022-10-07 | 22 | 116 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 21 | 109 | 
+| 2022-10-05 | 21 | 109 | 
+| 2022-10-04 | 19 | 97 | 
+| 2022-10-03 | 19 | 81 | 
 
 
 [Detailed charts & statistics for zero-to-mastery/webblocks-2022](https://reviewgithub.com/rep/zero-to-mastery/webblocks-2022)

@@ -1,8 +1,8 @@
 # rohansaini886/Hacktoberfest2022 / stars & forks statistics
 
-Repository url: [/rohansaini886/Hacktoberfest2022](https://github.com/rohansaini886/Hacktoberfest2022)
+[Open repository/rohansaini886/Hacktoberfest2022](https://github.com/rohansaini886/Hacktoberfest2022)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 238
 
@@ -11,36 +11,13 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-30 | 28 | 61 | 
-| 2022-10-01 | 41 | 193 | 
-| 2022-10-02 | 49 | 207 | 
-| 2022-10-03 | 53 | 221 | 
-| 2022-10-04 | 54 | 227 | 
-| 2022-10-05 | 55 | 228 | 
 | 2022-10-06 | 53 | 238 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 55 | 228 | 
+| 2022-10-04 | 54 | 227 | 
+| 2022-10-03 | 53 | 221 | 
+| 2022-10-02 | 49 | 207 | 
+| 2022-10-01 | 41 | 193 | 
+| 2022-09-30 | 28 | 61 | 
 
 
 [Detailed charts & statistics for rohansaini886/Hacktoberfest2022](https://reviewgithub.com/rep/rohansaini886/Hacktoberfest2022)

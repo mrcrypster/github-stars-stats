@@ -1,8 +1,8 @@
 # ikarus23/MifareClassicTool / stars & forks statistics
 
-Repository url: [/ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)
+[Open repository/ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 764
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 3170 | 764 | 
-| 2022-10-06 | 3170 | 764 | 
 | 2022-10-07 | 3171 | 764 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 3170 | 764 | 
+| 2022-10-05 | 3170 | 764 | 
 
 
 [Detailed charts & statistics for ikarus23/MifareClassicTool](https://reviewgithub.com/rep/ikarus23/MifareClassicTool)

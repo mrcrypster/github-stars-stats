@@ -1,8 +1,8 @@
 # avinash-nonholonomy/olin-cafe-f22 / stars & forks statistics
 
-Repository url: [/avinash-nonholonomy/olin-cafe-f22](https://github.com/avinash-nonholonomy/olin-cafe-f22)
+[Open repository/avinash-nonholonomy/olin-cafe-f22](https://github.com/avinash-nonholonomy/olin-cafe-f22)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
@@ -11,36 +11,15 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-29 | - | 13 | 
-| 2022-09-30 | - | 13 | 
-| 2022-10-01 | - | 13 | 
-| 2022-10-02 | - | 13 | 
-| 2022-10-03 | - | 14 | 
-| 2022-10-04 | 1 | 16 | 
-| 2022-10-05 | 1 | 16 | 
-| 2022-10-06 | 1 | 19 | 
 | 2022-10-07 | 1 | 19 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1 | 19 | 
+| 2022-10-05 | 1 | 16 | 
+| 2022-10-04 | 1 | 16 | 
+| 2022-10-03 | - | 14 | 
+| 2022-10-02 | - | 13 | 
+| 2022-10-01 | - | 13 | 
+| 2022-09-30 | - | 13 | 
+| 2022-09-29 | - | 13 | 
 
 
 [Detailed charts & statistics for avinash-nonholonomy/olin-cafe-f22](https://reviewgithub.com/rep/avinash-nonholonomy/olin-cafe-f22)

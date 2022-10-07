@@ -1,8 +1,8 @@
 # esp-rs/esp-idf-template / stars & forks statistics
 
-Repository url: [/esp-rs/esp-idf-template](https://github.com/esp-rs/esp-idf-template)
+[Open repository/esp-rs/esp-idf-template](https://github.com/esp-rs/esp-idf-template)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 101 | 12 | 
-| 2022-10-04 | 101 | 12 | 
-| 2022-10-05 | 101 | 12 | 
-| 2022-10-06 | 101 | 12 | 
 | 2022-10-07 | 102 | 12 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 101 | 12 | 
+| 2022-10-05 | 101 | 12 | 
+| 2022-10-04 | 101 | 12 | 
+| 2022-10-03 | 101 | 12 | 
 
 
 [Detailed charts & statistics for esp-rs/esp-idf-template](https://reviewgithub.com/rep/esp-rs/esp-idf-template)

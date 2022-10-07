@@ -1,8 +1,8 @@
 # lidangzzz/canada-run / stars & forks statistics
 
-Repository url: [/lidangzzz/canada-run](https://github.com/lidangzzz/canada-run)
+[Open repository/lidangzzz/canada-run](https://github.com/lidangzzz/canada-run)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-01 | 123 | 4 | 
-| 2022-10-02 | 126 | 4 | 
-| 2022-10-03 | 128 | 4 | 
-| 2022-10-04 | 129 | 4 | 
-| 2022-10-05 | 130 | 4 | 
 | 2022-10-06 | 131 | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 130 | 4 | 
+| 2022-10-04 | 129 | 4 | 
+| 2022-10-03 | 128 | 4 | 
+| 2022-10-02 | 126 | 4 | 
+| 2022-10-01 | 123 | 4 | 
 
 
 [Detailed charts & statistics for lidangzzz/canada-run](https://reviewgithub.com/rep/lidangzzz/canada-run)

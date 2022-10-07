@@ -1,8 +1,8 @@
 # TARANG0503/DSA-Practice / stars & forks statistics
 
-Repository url: [/TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice)
+[Open repository/TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 306
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 39 | 284 | 
-| 2022-10-05 | 40 | 292 | 
 | 2022-10-06 | 39 | 306 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 40 | 292 | 
+| 2022-10-04 | 39 | 284 | 
 
 
 [Detailed charts & statistics for TARANG0503/DSA-Practice](https://reviewgithub.com/rep/TARANG0503/DSA-Practice)

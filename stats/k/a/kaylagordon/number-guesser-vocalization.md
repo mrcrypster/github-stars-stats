@@ -1,8 +1,8 @@
 # kaylagordon/number-guesser-vocalization / stars & forks statistics
 
-Repository url: [/kaylagordon/number-guesser-vocalization](https://github.com/kaylagordon/number-guesser-vocalization)
+[Open repository/kaylagordon/number-guesser-vocalization](https://github.com/kaylagordon/number-guesser-vocalization)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
@@ -11,36 +11,21 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-22 | 1 | 76 | 
-| 2022-09-23 | 1 | 76 | 
-| 2022-09-24 | 1 | 76 | 
-| 2022-09-25 | 1 | 76 | 
-| 2022-09-26 | 1 | 76 | 
-| 2022-09-27 | 1 | 76 | 
-| 2022-09-28 | 1 | 74 | 
-| 2022-09-29 | 1 | 74 | 
-| 2022-09-30 | 1 | 74 | 
-| 2022-10-01 | 1 | 74 | 
-| 2022-10-02 | 1 | 74 | 
-| 2022-10-03 | 1 | 74 | 
-| 2022-10-04 | 1 | 74 | 
-| 2022-10-05 | 1 | 74 | 
 | 2022-10-06 | 1 | 74 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 1 | 74 | 
+| 2022-10-04 | 1 | 74 | 
+| 2022-10-03 | 1 | 74 | 
+| 2022-10-02 | 1 | 74 | 
+| 2022-10-01 | 1 | 74 | 
+| 2022-09-30 | 1 | 74 | 
+| 2022-09-29 | 1 | 74 | 
+| 2022-09-28 | 1 | 74 | 
+| 2022-09-27 | 1 | 76 | 
+| 2022-09-26 | 1 | 76 | 
+| 2022-09-25 | 1 | 76 | 
+| 2022-09-24 | 1 | 76 | 
+| 2022-09-23 | 1 | 76 | 
+| 2022-09-22 | 1 | 76 | 
 
 
 [Detailed charts & statistics for kaylagordon/number-guesser-vocalization](https://reviewgithub.com/rep/kaylagordon/number-guesser-vocalization)

@@ -1,8 +1,8 @@
 # JuliaMath/Bessels.jl / stars & forks statistics
 
-Repository url: [/JuliaMath/Bessels.jl](https://github.com/JuliaMath/Bessels.jl)
+[Open repository/JuliaMath/Bessels.jl](https://github.com/JuliaMath/Bessels.jl)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 47 | 3 | 
-| 2022-10-03 | 47 | 3 | 
-| 2022-10-04 | 48 | 3 | 
-| 2022-10-05 | 48 | 3 | 
 | 2022-10-06 | 48 | 3 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 48 | 3 | 
+| 2022-10-04 | 48 | 3 | 
+| 2022-10-03 | 47 | 3 | 
+| 2022-10-02 | 47 | 3 | 
 
 
 [Detailed charts & statistics for JuliaMath/Bessels.jl](https://reviewgithub.com/rep/JuliaMath/Bessels.jl)

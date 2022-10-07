@@ -1,8 +1,8 @@
 # groxio-learning/otp_cm5 / stars & forks statistics
 
-Repository url: [/groxio-learning/otp_cm5](https://github.com/groxio-learning/otp_cm5)
+[Open repository/groxio-learning/otp_cm5](https://github.com/groxio-learning/otp_cm5)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,13 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-30 | 1 | 4 | 
-| 2022-10-01 | 1 | 4 | 
-| 2022-10-02 | 1 | 4 | 
-| 2022-10-03 | 1 | 4 | 
-| 2022-10-04 | 1 | 4 | 
-| 2022-10-05 | 1 | 4 | 
 | 2022-10-06 | 1 | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 1 | 4 | 
+| 2022-10-04 | 1 | 4 | 
+| 2022-10-03 | 1 | 4 | 
+| 2022-10-02 | 1 | 4 | 
+| 2022-10-01 | 1 | 4 | 
+| 2022-09-30 | 1 | 4 | 
 
 
 [Detailed charts & statistics for groxio-learning/otp_cm5](https://reviewgithub.com/rep/groxio-learning/otp_cm5)

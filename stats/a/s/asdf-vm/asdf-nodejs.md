@@ -1,8 +1,8 @@
 # asdf-vm/asdf-nodejs / stars & forks statistics
 
-Repository url: [/asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs)
+[Open repository/asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 123
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 632 | 123 | 
-| 2022-10-06 | 632 | 123 | 
 | 2022-10-07 | 632 | 123 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 632 | 123 | 
+| 2022-10-05 | 632 | 123 | 
 
 
 [Detailed charts & statistics for asdf-vm/asdf-nodejs](https://reviewgithub.com/rep/asdf-vm/asdf-nodejs)

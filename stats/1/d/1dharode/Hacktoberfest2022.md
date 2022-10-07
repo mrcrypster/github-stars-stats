@@ -1,8 +1,8 @@
 # 1dharode/Hacktoberfest2022 / stars & forks statistics
 
-Repository url: [/1dharode/Hacktoberfest2022](https://github.com/1dharode/Hacktoberfest2022)
+[Open repository/1dharode/Hacktoberfest2022](https://github.com/1dharode/Hacktoberfest2022)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 958
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 148 | 819 | 
-| 2022-10-04 | 162 | 882 | 
-| 2022-10-05 | 163 | 893 | 
 | 2022-10-06 | 172 | 958 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 163 | 893 | 
+| 2022-10-04 | 162 | 882 | 
+| 2022-10-03 | 148 | 819 | 
 
 
 [Detailed charts & statistics for 1dharode/Hacktoberfest2022](https://reviewgithub.com/rep/1dharode/Hacktoberfest2022)

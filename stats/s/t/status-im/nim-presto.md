@@ -1,8 +1,8 @@
 # status-im/nim-presto / stars & forks statistics
 
-Repository url: [/status-im/nim-presto](https://github.com/status-im/nim-presto)
+[Open repository/status-im/nim-presto](https://github.com/status-im/nim-presto)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 11 | 5 | 
-| 2022-10-05 | 11 | 5 | 
-| 2022-10-06 | 11 | 5 | 
 | 2022-10-07 | 11 | 5 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 11 | 5 | 
+| 2022-10-05 | 11 | 5 | 
+| 2022-10-04 | 11 | 5 | 
 
 
 [Detailed charts & statistics for status-im/nim-presto](https://reviewgithub.com/rep/status-im/nim-presto)

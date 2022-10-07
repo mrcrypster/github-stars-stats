@@ -1,8 +1,8 @@
 # eclipse-tycho/tycho / stars & forks statistics
 
-Repository url: [/eclipse-tycho/tycho](https://github.com/eclipse-tycho/tycho)
+[Open repository/eclipse-tycho/tycho](https://github.com/eclipse-tycho/tycho)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 146
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 124 | 145 | 
-| 2022-10-06 | 124 | 145 | 
 | 2022-10-07 | 124 | 146 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 124 | 145 | 
+| 2022-10-05 | 124 | 145 | 
 
 
 [Detailed charts & statistics for eclipse-tycho/tycho](https://reviewgithub.com/rep/eclipse-tycho/tycho)

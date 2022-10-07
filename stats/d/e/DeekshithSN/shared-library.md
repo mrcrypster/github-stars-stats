@@ -1,8 +1,8 @@
 # DeekshithSN/shared-library / stars & forks statistics
 
-Repository url: [/DeekshithSN/shared-library](https://github.com/DeekshithSN/shared-library)
+[Open repository/DeekshithSN/shared-library](https://github.com/DeekshithSN/shared-library)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 167
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 4 | 166 | 
-| 2022-10-04 | 4 | 166 | 
-| 2022-10-05 | 4 | 166 | 
 | 2022-10-06 | 4 | 167 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 4 | 166 | 
+| 2022-10-04 | 4 | 166 | 
+| 2022-10-03 | 4 | 166 | 
 
 
 [Detailed charts & statistics for DeekshithSN/shared-library](https://reviewgithub.com/rep/DeekshithSN/shared-library)

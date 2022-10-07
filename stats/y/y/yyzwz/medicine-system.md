@@ -1,8 +1,8 @@
 # yyzwz/medicine-system / stars & forks statistics
 
-Repository url: [/yyzwz/medicine-system](https://github.com/yyzwz/medicine-system)
+[Open repository/yyzwz/medicine-system](https://github.com/yyzwz/medicine-system)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 6 | 6 | 
-| 2022-10-04 | 6 | 6 | 
-| 2022-10-05 | 6 | 6 | 
 | 2022-10-06 | 6 | 6 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 6 | 6 | 
+| 2022-10-04 | 6 | 6 | 
+| 2022-10-03 | 6 | 6 | 
 
 
 [Detailed charts & statistics for yyzwz/medicine-system](https://reviewgithub.com/rep/yyzwz/medicine-system)

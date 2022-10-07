@@ -1,8 +1,8 @@
 # Guest0x0/pruning-tutor / stars & forks statistics
 
-Repository url: [/Guest0x0/pruning-tutor](https://github.com/Guest0x0/pruning-tutor)
+[Open repository/Guest0x0/pruning-tutor](https://github.com/Guest0x0/pruning-tutor)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 10 | 1 | 
-| 2022-10-03 | 10 | 1 | 
-| 2022-10-04 | 10 | 1 | 
-| 2022-10-05 | 10 | 1 | 
-| 2022-10-06 | 10 | 1 | 
 | 2022-10-07 | 11 | 1 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 10 | 1 | 
+| 2022-10-05 | 10 | 1 | 
+| 2022-10-04 | 10 | 1 | 
+| 2022-10-03 | 10 | 1 | 
+| 2022-10-02 | 10 | 1 | 
 
 
 [Detailed charts & statistics for Guest0x0/pruning-tutor](https://reviewgithub.com/rep/Guest0x0/pruning-tutor)

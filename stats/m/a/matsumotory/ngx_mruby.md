@@ -1,8 +1,8 @@
 # matsumotory/ngx_mruby / stars & forks statistics
 
-Repository url: [/matsumotory/ngx_mruby](https://github.com/matsumotory/ngx_mruby)
+[Open repository/matsumotory/ngx_mruby](https://github.com/matsumotory/ngx_mruby)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 110
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 962 | 110 | 
-| 2022-10-04 | 963 | 110 | 
-| 2022-10-05 | 964 | 110 | 
 | 2022-10-06 | 965 | 110 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 964 | 110 | 
+| 2022-10-04 | 963 | 110 | 
+| 2022-10-03 | 962 | 110 | 
 
 
 [Detailed charts & statistics for matsumotory/ngx_mruby](https://reviewgithub.com/rep/matsumotory/ngx_mruby)

@@ -1,8 +1,8 @@
 # pulumi/pulumi-aws / stars & forks statistics
 
-Repository url: [/pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+[Open repository/pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 120
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-05 | 309 | 120 | 
-| 2022-10-06 | 309 | 120 | 
 | 2022-10-07 | 309 | 120 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 309 | 120 | 
+| 2022-10-05 | 309 | 120 | 
 
 
 [Detailed charts & statistics for pulumi/pulumi-aws](https://reviewgithub.com/rep/pulumi/pulumi-aws)

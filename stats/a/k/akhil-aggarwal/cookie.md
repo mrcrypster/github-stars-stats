@@ -1,8 +1,8 @@
 # akhil-aggarwal/cookie / stars & forks statistics
 
-Repository url: [/akhil-aggarwal/cookie](https://github.com/akhil-aggarwal/cookie)
+[Open repository/akhil-aggarwal/cookie](https://github.com/akhil-aggarwal/cookie)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 11 | 17 | 
-| 2022-10-03 | 10 | 21 | 
-| 2022-10-04 | 12 | 22 | 
-| 2022-10-05 | 12 | 22 | 
-| 2022-10-06 | 12 | 22 | 
 | 2022-10-07 | 12 | 22 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 12 | 22 | 
+| 2022-10-05 | 12 | 22 | 
+| 2022-10-04 | 12 | 22 | 
+| 2022-10-03 | 10 | 21 | 
+| 2022-10-02 | 11 | 17 | 
 
 
 [Detailed charts & statistics for akhil-aggarwal/cookie](https://reviewgithub.com/rep/akhil-aggarwal/cookie)

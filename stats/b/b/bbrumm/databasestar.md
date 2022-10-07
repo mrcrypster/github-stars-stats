@@ -1,8 +1,8 @@
 # bbrumm/databasestar / stars & forks statistics
 
-Repository url: [/bbrumm/databasestar](https://github.com/bbrumm/databasestar)
+[Open repository/bbrumm/databasestar](https://github.com/bbrumm/databasestar)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 11 | 6 | 
-| 2022-10-03 | 11 | 6 | 
-| 2022-10-04 | 11 | 6 | 
-| 2022-10-05 | 11 | 7 | 
-| 2022-10-06 | 11 | 8 | 
 | 2022-10-07 | 11 | 9 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 11 | 8 | 
+| 2022-10-05 | 11 | 7 | 
+| 2022-10-04 | 11 | 6 | 
+| 2022-10-03 | 11 | 6 | 
+| 2022-10-02 | 11 | 6 | 
 
 
 [Detailed charts & statistics for bbrumm/databasestar](https://reviewgithub.com/rep/bbrumm/databasestar)

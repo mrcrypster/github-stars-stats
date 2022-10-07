@@ -1,8 +1,8 @@
 # FairCrypto/XEN-crypto / stars & forks statistics
 
-Repository url: [/FairCrypto/XEN-crypto](https://github.com/FairCrypto/XEN-crypto)
+[Open repository/FairCrypto/XEN-crypto](https://github.com/FairCrypto/XEN-crypto)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 24 | 5 | 
-| 2022-10-04 | 24 | 5 | 
-| 2022-10-05 | 24 | 5 | 
-| 2022-10-06 | 24 | 5 | 
 | 2022-10-07 | 25 | 5 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 24 | 5 | 
+| 2022-10-05 | 24 | 5 | 
+| 2022-10-04 | 24 | 5 | 
+| 2022-10-03 | 24 | 5 | 
 
 
 [Detailed charts & statistics for FairCrypto/XEN-crypto](https://reviewgithub.com/rep/FairCrypto/XEN-crypto)

@@ -1,8 +1,8 @@
 # dubiouspotions/DubiousWare / stars & forks statistics
 
-Repository url: [/dubiouspotions/DubiousWare](https://github.com/dubiouspotions/DubiousWare)
+[Open repository/dubiouspotions/DubiousWare](https://github.com/dubiouspotions/DubiousWare)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 1 | - | 
-| 2022-10-05 | 1 | - | 
-| 2022-10-06 | 1 | - | 
 | 2022-10-07 | 1 | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 1 | - | 
+| 2022-10-05 | 1 | - | 
+| 2022-10-04 | 1 | - | 
 
 
 [Detailed charts & statistics for dubiouspotions/DubiousWare](https://reviewgithub.com/rep/dubiouspotions/DubiousWare)

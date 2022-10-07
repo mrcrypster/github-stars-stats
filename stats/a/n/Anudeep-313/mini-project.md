@@ -1,8 +1,8 @@
 # Anudeep-313/mini-project / stars & forks statistics
 
-Repository url: [/Anudeep-313/mini-project](https://github.com/Anudeep-313/mini-project)
+[Open repository/Anudeep-313/mini-project](https://github.com/Anudeep-313/mini-project)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
@@ -11,36 +11,9 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 20 | 32 | 
-| 2022-10-05 | 20 | 33 | 
 | 2022-10-06 | 21 | 33 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 20 | 33 | 
+| 2022-10-04 | 20 | 32 | 
 
 
 [Detailed charts & statistics for Anudeep-313/mini-project](https://reviewgithub.com/rep/Anudeep-313/mini-project)

@@ -1,8 +1,8 @@
 # kubeslice/kubeslice / stars & forks statistics
 
-Repository url: [/kubeslice/kubeslice](https://github.com/kubeslice/kubeslice)
+[Open repository/kubeslice/kubeslice](https://github.com/kubeslice/kubeslice)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 31 | 2 | 
-| 2022-10-05 | 31 | 2 | 
-| 2022-10-06 | 31 | 2 | 
 | 2022-10-07 | 31 | 2 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 31 | 2 | 
+| 2022-10-05 | 31 | 2 | 
+| 2022-10-04 | 31 | 2 | 
 
 
 [Detailed charts & statistics for kubeslice/kubeslice](https://reviewgithub.com/rep/kubeslice/kubeslice)

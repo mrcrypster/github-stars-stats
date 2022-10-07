@@ -1,8 +1,8 @@
 # fioncat/spacenvim / stars & forks statistics
 
-Repository url: [/fioncat/spacenvim](https://github.com/fioncat/spacenvim)
+[Open repository/fioncat/spacenvim](https://github.com/fioncat/spacenvim)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,10 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-04 | 29 | 4 | 
-| 2022-10-05 | 29 | 4 | 
-| 2022-10-06 | 29 | 4 | 
 | 2022-10-07 | 29 | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 29 | 4 | 
+| 2022-10-05 | 29 | 4 | 
+| 2022-10-04 | 29 | 4 | 
 
 
 [Detailed charts & statistics for fioncat/spacenvim](https://reviewgithub.com/rep/fioncat/spacenvim)

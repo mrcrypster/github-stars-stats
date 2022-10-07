@@ -1,8 +1,8 @@
 # svind1er/Bonelab-Mods / stars & forks statistics
 
-Repository url: [/svind1er/Bonelab-Mods](https://github.com/svind1er/Bonelab-Mods)
+[Open repository/svind1er/Bonelab-Mods](https://github.com/svind1er/Bonelab-Mods)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -11,36 +11,11 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-03 | 4 | 4 | 
-| 2022-10-04 | 4 | 4 | 
-| 2022-10-05 | 4 | 4 | 
-| 2022-10-06 | 4 | 4 | 
 | 2022-10-07 | 4 | 4 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 4 | 4 | 
+| 2022-10-05 | 4 | 4 | 
+| 2022-10-04 | 4 | 4 | 
+| 2022-10-03 | 4 | 4 | 
 
 
 [Detailed charts & statistics for svind1er/Bonelab-Mods](https://reviewgithub.com/rep/svind1er/Bonelab-Mods)

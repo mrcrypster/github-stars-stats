@@ -1,8 +1,8 @@
 # giantswarm/flamethrower-app / stars & forks statistics
 
-Repository url: [/giantswarm/flamethrower-app](https://github.com/giantswarm/flamethrower-app)
+[Open repository/giantswarm/flamethrower-app](https://github.com/giantswarm/flamethrower-app)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-01 | - | 1 | 
-| 2022-10-02 | - | 1 | 
-| 2022-10-03 | - | 1 | 
-| 2022-10-04 | - | 1 | 
-| 2022-10-05 | - | 1 | 
 | 2022-10-06 | - | 1 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | - | 1 | 
+| 2022-10-04 | - | 1 | 
+| 2022-10-03 | - | 1 | 
+| 2022-10-02 | - | 1 | 
+| 2022-10-01 | - | 1 | 
 
 
 [Detailed charts & statistics for giantswarm/flamethrower-app](https://reviewgithub.com/rep/giantswarm/flamethrower-app)

@@ -1,8 +1,8 @@
 # kodingkeun/shorturl / stars & forks statistics
 
-Repository url: [/kodingkeun/shorturl](https://github.com/kodingkeun/shorturl)
+[Open repository/kodingkeun/shorturl](https://github.com/kodingkeun/shorturl)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
@@ -11,36 +11,12 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-02 | 7 | 8 | 
-| 2022-10-03 | 9 | 13 | 
-| 2022-10-04 | 10 | 14 | 
-| 2022-10-05 | 13 | 16 | 
-| 2022-10-06 | 14 | 18 | 
 | 2022-10-07 | 14 | 18 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-06 | 14 | 18 | 
+| 2022-10-05 | 13 | 16 | 
+| 2022-10-04 | 10 | 14 | 
+| 2022-10-03 | 9 | 13 | 
+| 2022-10-02 | 7 | 8 | 
 
 
 [Detailed charts & statistics for kodingkeun/shorturl](https://reviewgithub.com/rep/kodingkeun/shorturl)

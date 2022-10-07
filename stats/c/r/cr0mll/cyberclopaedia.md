@@ -1,8 +1,8 @@
 # cr0mll/cyberclopaedia / stars & forks statistics
 
-Repository url: [/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)
+[Open repository/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)
 
-Updated on Oct 2022, 07
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
@@ -11,36 +11,13 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-30 | 39 | 6 | 
-| 2022-10-01 | 39 | 6 | 
-| 2022-10-02 | 39 | 6 | 
-| 2022-10-03 | 39 | 6 | 
-| 2022-10-04 | 39 | 6 | 
-| 2022-10-05 | 39 | 6 | 
 | 2022-10-06 | 41 | 6 | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
-| 1970-01-01 | - | - | 
+| 2022-10-05 | 39 | 6 | 
+| 2022-10-04 | 39 | 6 | 
+| 2022-10-03 | 39 | 6 | 
+| 2022-10-02 | 39 | 6 | 
+| 2022-10-01 | 39 | 6 | 
+| 2022-09-30 | 39 | 6 | 
 
 
 [Detailed charts & statistics for cr0mll/cyberclopaedia](https://reviewgithub.com/rep/cr0mll/cyberclopaedia)
