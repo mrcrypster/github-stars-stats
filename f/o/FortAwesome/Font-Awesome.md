@@ -1,6 +1,9 @@
 # FortAwesome/Font-Awesome / stars & forks statistics
+
 Repository url: [/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+
 Updated on Oct 2022, 07
+
 ☋ Forks: 12111
 ★ Stars: 69780
 
