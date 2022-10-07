@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 659
+☋ Forks: 660
 
-★ Stars: 11901
+★ Stars: 11903
 
 [Open repository](https://github.com/upptime/upptime)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 11901 | 659 | 
+| 2022-10-07 | 11903 | 660 | 
 | 2022-10-06 | 11900 | 659 | 
 | 2022-10-05 | 11896 | 659 | 
 | 2022-10-04 | 11892 | 657 | 
