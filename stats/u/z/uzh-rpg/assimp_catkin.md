@@ -1,12 +1,14 @@
 # uzh-rpg/assimp_catkin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/uzh-rpg/assimp_catkin)
+
+[Open detailed stats for uzh-rpg/assimp_catkin](https://reviewgithub.com/rep/uzh-rpg/assimp_catkin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for uzh-rpg/assimp_catkin](https://reviewgithub.com/rep/uzh-rpg/assimp_catkin)

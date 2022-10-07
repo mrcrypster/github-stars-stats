@@ -1,12 +1,14 @@
 # tiancai110a/go-rpc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 36
 
 [Open repository](https://github.com/tiancai110a/go-rpc)
+
+[Open detailed stats for tiancai110a/go-rpc](https://reviewgithub.com/rep/tiancai110a/go-rpc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 11 | 
 | 2022-09-07 | 37 | 11 | 
 
-
-[Detailed charts & statistics for tiancai110a/go-rpc](https://reviewgithub.com/rep/tiancai110a/go-rpc)

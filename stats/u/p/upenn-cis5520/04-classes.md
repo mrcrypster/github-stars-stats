@@ -1,12 +1,14 @@
 # upenn-cis5520/04-classes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/upenn-cis5520/04-classes)
+
+[Open detailed stats for upenn-cis5520/04-classes](https://reviewgithub.com/rep/upenn-cis5520/04-classes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | 14 | 
 | 2022-09-25 | - | 12 | 
 
-
-[Detailed charts & statistics for upenn-cis5520/04-classes](https://reviewgithub.com/rep/upenn-cis5520/04-classes)

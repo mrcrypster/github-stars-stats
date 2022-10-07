@@ -1,12 +1,14 @@
 # rooted-cyber/gokteto-my-bot - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/rooted-cyber/gokteto-my-bot)
+
+[Open detailed stats for rooted-cyber/gokteto-my-bot](https://reviewgithub.com/rep/rooted-cyber/gokteto-my-bot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for rooted-cyber/gokteto-my-bot](https://reviewgithub.com/rep/rooted-cyber/gokteto-my-bot)

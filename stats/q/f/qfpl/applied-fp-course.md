@@ -1,12 +1,14 @@
 # qfpl/applied-fp-course - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 178
 
 ★ Stars: 599
 
 [Open repository](https://github.com/qfpl/applied-fp-course)
+
+[Open detailed stats for qfpl/applied-fp-course](https://reviewgithub.com/rep/qfpl/applied-fp-course)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 596 | 177 | 
 | 2022-09-08 | 596 | 177 | 
 
-
-[Detailed charts & statistics for qfpl/applied-fp-course](https://reviewgithub.com/rep/qfpl/applied-fp-course)

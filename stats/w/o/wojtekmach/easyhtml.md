@@ -1,12 +1,14 @@
 # wojtekmach/easyhtml - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 30
 
 [Open repository](https://github.com/wojtekmach/easyhtml)
+
+[Open detailed stats for wojtekmach/easyhtml](https://reviewgithub.com/rep/wojtekmach/easyhtml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | - | 
 | 2022-09-08 | 29 | - | 
 
-
-[Detailed charts & statistics for wojtekmach/easyhtml](https://reviewgithub.com/rep/wojtekmach/easyhtml)

@@ -1,12 +1,14 @@
 # mate-academy/js_2048_game - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 162
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mate-academy/js_2048_game)
+
+[Open detailed stats for mate-academy/js_2048_game](https://reviewgithub.com/rep/mate-academy/js_2048_game)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 144 | 
 | 2022-09-07 | - | 144 | 
 
-
-[Detailed charts & statistics for mate-academy/js_2048_game](https://reviewgithub.com/rep/mate-academy/js_2048_game)

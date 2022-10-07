@@ -1,12 +1,14 @@
 # memphis-cs/practice-apps-2022-08fall - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/memphis-cs/practice-apps-2022-08fall)
+
+[Open detailed stats for memphis-cs/practice-apps-2022-08fall](https://reviewgithub.com/rep/memphis-cs/practice-apps-2022-08fall)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for memphis-cs/practice-apps-2022-08fall](https://reviewgithub.com/rep/memphis-cs/practice-apps-2022-08fall)

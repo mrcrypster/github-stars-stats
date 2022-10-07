@@ -1,12 +1,14 @@
 # openpharma/mmrm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/openpharma/mmrm)
+
+[Open detailed stats for openpharma/mmrm](https://reviewgithub.com/rep/openpharma/mmrm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 5 | 
 | 2022-09-07 | 7 | 5 | 
 
-
-[Detailed charts & statistics for openpharma/mmrm](https://reviewgithub.com/rep/openpharma/mmrm)

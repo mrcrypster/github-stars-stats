@@ -1,12 +1,14 @@
 # AllStarCodeOrg/week3.day1.userInput - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 318
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AllStarCodeOrg/week3.day1.userInput)
+
+[Open detailed stats for AllStarCodeOrg/week3.day1.userInput](https://reviewgithub.com/rep/AllStarCodeOrg/week3.day1.userInput)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 318 | 
 | 2022-09-08 | - | 318 | 
 
-
-[Detailed charts & statistics for AllStarCodeOrg/week3.day1.userInput](https://reviewgithub.com/rep/AllStarCodeOrg/week3.day1.userInput)

@@ -1,12 +1,14 @@
 # muhamaddarulhadi/Hotspot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 60
 
 [Open repository](https://github.com/muhamaddarulhadi/Hotspot)
+
+[Open detailed stats for muhamaddarulhadi/Hotspot](https://reviewgithub.com/rep/muhamaddarulhadi/Hotspot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | 22 | 
 | 2022-09-07 | 58 | 22 | 
 
-
-[Detailed charts & statistics for muhamaddarulhadi/Hotspot](https://reviewgithub.com/rep/muhamaddarulhadi/Hotspot)

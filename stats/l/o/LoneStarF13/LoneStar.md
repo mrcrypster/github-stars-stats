@@ -1,12 +1,14 @@
 # LoneStarF13/LoneStar - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 72
 
 ★ Stars: 8
 
 [Open repository](https://github.com/LoneStarF13/LoneStar)
+
+[Open detailed stats for LoneStarF13/LoneStar](https://reviewgithub.com/rep/LoneStarF13/LoneStar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 72 | 
 | 2022-09-08 | 8 | 72 | 
 
-
-[Detailed charts & statistics for LoneStarF13/LoneStar](https://reviewgithub.com/rep/LoneStarF13/LoneStar)

@@ -1,12 +1,14 @@
 # skorotkiewicz/Licom - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 45
 
 [Open repository](https://github.com/skorotkiewicz/Licom)
+
+[Open detailed stats for skorotkiewicz/Licom](https://reviewgithub.com/rep/skorotkiewicz/Licom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 1 | 
 | 2022-09-07 | 45 | 1 | 
 
-
-[Detailed charts & statistics for skorotkiewicz/Licom](https://reviewgithub.com/rep/skorotkiewicz/Licom)

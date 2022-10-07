@@ -1,12 +1,14 @@
 # Project-NX/2MASX - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Project-NX/2MASX)
+
+[Open detailed stats for Project-NX/2MASX](https://reviewgithub.com/rep/Project-NX/2MASX)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 3 | 
 | 2022-09-07 | 1 | 3 | 
 
-
-[Detailed charts & statistics for Project-NX/2MASX](https://reviewgithub.com/rep/Project-NX/2MASX)

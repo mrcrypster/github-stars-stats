@@ -1,12 +1,14 @@
 # DLR-TS/adore_if_ros_msg - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/DLR-TS/adore_if_ros_msg)
+
+[Open detailed stats for DLR-TS/adore_if_ros_msg](https://reviewgithub.com/rep/DLR-TS/adore_if_ros_msg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for DLR-TS/adore_if_ros_msg](https://reviewgithub.com/rep/DLR-TS/adore_if_ros_msg)

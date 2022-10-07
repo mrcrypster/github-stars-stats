@@ -1,12 +1,14 @@
 # aeternity/aebytecode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 12
 
 [Open repository](https://github.com/aeternity/aebytecode)
+
+[Open detailed stats for aeternity/aebytecode](https://reviewgithub.com/rep/aeternity/aebytecode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 7 | 
 | 2022-09-07 | 12 | 7 | 
 
-
-[Detailed charts & statistics for aeternity/aebytecode](https://reviewgithub.com/rep/aeternity/aebytecode)

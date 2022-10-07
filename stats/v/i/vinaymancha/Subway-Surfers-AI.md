@@ -1,12 +1,14 @@
 # vinaymancha/Subway-Surfers-AI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 31
 
 [Open repository](https://github.com/vinaymancha/Subway-Surfers-AI)
+
+[Open detailed stats for vinaymancha/Subway-Surfers-AI](https://reviewgithub.com/rep/vinaymancha/Subway-Surfers-AI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 31 | 18 | 
 | 2022-09-08 | 31 | 18 | 
 
-
-[Detailed charts & statistics for vinaymancha/Subway-Surfers-AI](https://reviewgithub.com/rep/vinaymancha/Subway-Surfers-AI)

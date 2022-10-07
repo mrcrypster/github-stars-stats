@@ -1,12 +1,14 @@
 # jdjohn215/milwaukee-weather - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 51
 
 [Open repository](https://github.com/jdjohn215/milwaukee-weather)
+
+[Open detailed stats for jdjohn215/milwaukee-weather](https://reviewgithub.com/rep/jdjohn215/milwaukee-weather)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 12 | 
 | 2022-09-07 | 51 | 12 | 
 
-
-[Detailed charts & statistics for jdjohn215/milwaukee-weather](https://reviewgithub.com/rep/jdjohn215/milwaukee-weather)

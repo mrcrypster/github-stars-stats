@@ -1,12 +1,14 @@
 # appacademy/practice-for-prepwork-html-debugging - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 72
 
 ★ Stars: 2
 
 [Open repository](https://github.com/appacademy/practice-for-prepwork-html-debugging)
+
+[Open detailed stats for appacademy/practice-for-prepwork-html-debugging](https://reviewgithub.com/rep/appacademy/practice-for-prepwork-html-debugging)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 61 | 
 | 2022-09-08 | 2 | 61 | 
 
-
-[Detailed charts & statistics for appacademy/practice-for-prepwork-html-debugging](https://reviewgithub.com/rep/appacademy/practice-for-prepwork-html-debugging)

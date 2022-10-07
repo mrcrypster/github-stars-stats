@@ -1,12 +1,14 @@
 # respack-dev/wan2respack - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/respack-dev/wan2respack)
+
+[Open detailed stats for respack-dev/wan2respack](https://reviewgithub.com/rep/respack-dev/wan2respack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for respack-dev/wan2respack](https://reviewgithub.com/rep/respack-dev/wan2respack)

@@ -1,12 +1,14 @@
 # home-assistant/addons-example - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 46
 
 [Open repository](https://github.com/home-assistant/addons-example)
+
+[Open detailed stats for home-assistant/addons-example](https://reviewgithub.com/rep/home-assistant/addons-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 44 | 129 | 
 | 2022-09-08 | 44 | 129 | 
 
-
-[Detailed charts & statistics for home-assistant/addons-example](https://reviewgithub.com/rep/home-assistant/addons-example)

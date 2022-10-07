@@ -1,12 +1,14 @@
 # Kpler/python-katas - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Kpler/python-katas)
+
+[Open detailed stats for Kpler/python-katas](https://reviewgithub.com/rep/Kpler/python-katas)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for Kpler/python-katas](https://reviewgithub.com/rep/Kpler/python-katas)

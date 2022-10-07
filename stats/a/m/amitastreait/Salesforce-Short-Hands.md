@@ -1,12 +1,14 @@
 # amitastreait/Salesforce-Short-Hands - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 33
 
 [Open repository](https://github.com/amitastreait/Salesforce-Short-Hands)
+
+[Open detailed stats for amitastreait/Salesforce-Short-Hands](https://reviewgithub.com/rep/amitastreait/Salesforce-Short-Hands)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 63 | 
 | 2022-09-07 | 33 | 63 | 
 
-
-[Detailed charts & statistics for amitastreait/Salesforce-Short-Hands](https://reviewgithub.com/rep/amitastreait/Salesforce-Short-Hands)

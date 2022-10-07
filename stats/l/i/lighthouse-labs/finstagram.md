@@ -1,12 +1,14 @@
 # lighthouse-labs/finstagram - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1510
 
 ★ Stars: 17
 
 [Open repository](https://github.com/lighthouse-labs/finstagram)
+
+[Open detailed stats for lighthouse-labs/finstagram](https://reviewgithub.com/rep/lighthouse-labs/finstagram)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 17 | 1493 | 
 | 2022-09-18 | 17 | 1491 | 
 
-
-[Detailed charts & statistics for lighthouse-labs/finstagram](https://reviewgithub.com/rep/lighthouse-labs/finstagram)

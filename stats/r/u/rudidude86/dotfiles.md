@@ -1,12 +1,14 @@
 # rudidude86/dotfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/rudidude86/dotfiles)
+
+[Open detailed stats for rudidude86/dotfiles](https://reviewgithub.com/rep/rudidude86/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for rudidude86/dotfiles](https://reviewgithub.com/rep/rudidude86/dotfiles)

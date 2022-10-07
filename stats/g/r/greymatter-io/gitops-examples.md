@@ -1,12 +1,14 @@
 # greymatter-io/gitops-examples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 2
 
 [Open repository](https://github.com/greymatter-io/gitops-examples)
+
+[Open detailed stats for greymatter-io/gitops-examples](https://reviewgithub.com/rep/greymatter-io/gitops-examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 5 | 
 | 2022-09-07 | 2 | 5 | 
 
-
-[Detailed charts & statistics for greymatter-io/gitops-examples](https://reviewgithub.com/rep/greymatter-io/gitops-examples)

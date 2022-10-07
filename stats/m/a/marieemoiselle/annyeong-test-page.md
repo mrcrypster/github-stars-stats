@@ -1,12 +1,14 @@
 # marieemoiselle/annyeong-test-page - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/marieemoiselle/annyeong-test-page)
+
+[Open detailed stats for marieemoiselle/annyeong-test-page](https://reviewgithub.com/rep/marieemoiselle/annyeong-test-page)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 16 | 
 | 2022-09-08 | - | 16 | 
 
-
-[Detailed charts & statistics for marieemoiselle/annyeong-test-page](https://reviewgithub.com/rep/marieemoiselle/annyeong-test-page)

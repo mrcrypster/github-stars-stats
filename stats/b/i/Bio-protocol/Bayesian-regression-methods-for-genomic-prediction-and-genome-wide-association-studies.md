@@ -1,6 +1,6 @@
 # Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -8,9 +8,12 @@ Stats updated on Mar 54732, 17
 
 [Open repository](https://github.com/Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies)
 
+[Open detailed stats for Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies](https://reviewgithub.com/rep/Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | - | 
 | 2022-10-06 | - | - | 
 | 2022-10-05 | - | - | 
 | 2022-10-04 | - | - | 
@@ -41,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies](https://reviewgithub.com/rep/Bio-protocol/Bayesian-regression-methods-for-genomic-prediction-and-genome-wide-association-studies)

@@ -1,12 +1,14 @@
 # JuanLopezMartin/MRPCaseStudy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 22
 
 [Open repository](https://github.com/JuanLopezMartin/MRPCaseStudy)
+
+[Open detailed stats for JuanLopezMartin/MRPCaseStudy](https://reviewgithub.com/rep/JuanLopezMartin/MRPCaseStudy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 7 | 
 | 2022-09-08 | 21 | 7 | 
 
-
-[Detailed charts & statistics for JuanLopezMartin/MRPCaseStudy](https://reviewgithub.com/rep/JuanLopezMartin/MRPCaseStudy)

@@ -1,12 +1,14 @@
 # outbrain/outbrain-iOS-Framework - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/outbrain/outbrain-iOS-Framework)
+
+[Open detailed stats for outbrain/outbrain-iOS-Framework](https://reviewgithub.com/rep/outbrain/outbrain-iOS-Framework)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for outbrain/outbrain-iOS-Framework](https://reviewgithub.com/rep/outbrain/outbrain-iOS-Framework)

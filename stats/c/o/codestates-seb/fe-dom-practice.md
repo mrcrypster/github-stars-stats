@@ -1,12 +1,14 @@
 # codestates-seb/fe-dom-practice - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 151
 
 ★ Stars: 0
 
 [Open repository](https://github.com/codestates-seb/fe-dom-practice)
+
+[Open detailed stats for codestates-seb/fe-dom-practice](https://reviewgithub.com/rep/codestates-seb/fe-dom-practice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 103 | 
 | 2022-09-07 | - | 103 | 
 
-
-[Detailed charts & statistics for codestates-seb/fe-dom-practice](https://reviewgithub.com/rep/codestates-seb/fe-dom-practice)

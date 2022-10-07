@@ -1,12 +1,14 @@
 # crystal-lang/shards - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 96
 
 ★ Stars: 710
 
 [Open repository](https://github.com/crystal-lang/shards)
+
+[Open detailed stats for crystal-lang/shards](https://reviewgithub.com/rep/crystal-lang/shards)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 705 | 96 | 
 | 2022-09-08 | 705 | 96 | 
 
-
-[Detailed charts & statistics for crystal-lang/shards](https://reviewgithub.com/rep/crystal-lang/shards)

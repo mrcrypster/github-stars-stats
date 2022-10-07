@@ -1,12 +1,14 @@
 # insightsengineering/tern.mmrm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/insightsengineering/tern.mmrm)
+
+[Open detailed stats for insightsengineering/tern.mmrm](https://reviewgithub.com/rep/insightsengineering/tern.mmrm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
 
-
-[Detailed charts & statistics for insightsengineering/tern.mmrm](https://reviewgithub.com/rep/insightsengineering/tern.mmrm)

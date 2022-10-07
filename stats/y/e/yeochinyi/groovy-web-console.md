@@ -1,12 +1,14 @@
 # yeochinyi/groovy-web-console - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/yeochinyi/groovy-web-console)
+
+[Open detailed stats for yeochinyi/groovy-web-console](https://reviewgithub.com/rep/yeochinyi/groovy-web-console)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for yeochinyi/groovy-web-console](https://reviewgithub.com/rep/yeochinyi/groovy-web-console)

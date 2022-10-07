@@ -1,12 +1,14 @@
 # ypFish/daily-ui - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 74
 
 [Open repository](https://github.com/ypFish/daily-ui)
+
+[Open detailed stats for ypFish/daily-ui](https://reviewgithub.com/rep/ypFish/daily-ui)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 75 | 10 | 
 | 2022-09-08 | 75 | 10 | 
 
-
-[Detailed charts & statistics for ypFish/daily-ui](https://reviewgithub.com/rep/ypFish/daily-ui)

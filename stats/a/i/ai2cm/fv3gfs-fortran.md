@@ -1,12 +1,14 @@
 # ai2cm/fv3gfs-fortran - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 4
 
 [Open repository](https://github.com/ai2cm/fv3gfs-fortran)
+
+[Open detailed stats for ai2cm/fv3gfs-fortran](https://reviewgithub.com/rep/ai2cm/fv3gfs-fortran)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 5 | 
 | 2022-09-08 | 4 | 5 | 
 
-
-[Detailed charts & statistics for ai2cm/fv3gfs-fortran](https://reviewgithub.com/rep/ai2cm/fv3gfs-fortran)

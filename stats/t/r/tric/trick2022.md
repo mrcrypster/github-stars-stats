@@ -1,12 +1,14 @@
 # tric/trick2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 88
 
 [Open repository](https://github.com/tric/trick2022)
+
+[Open detailed stats for tric/trick2022](https://reviewgithub.com/rep/tric/trick2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 72 | - | 
 | 2022-09-10 | 70 | - | 
 
-
-[Detailed charts & statistics for tric/trick2022](https://reviewgithub.com/rep/tric/trick2022)

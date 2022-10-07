@@ -1,12 +1,14 @@
 # liquidz/dad - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 122
 
 [Open repository](https://github.com/liquidz/dad)
+
+[Open detailed stats for liquidz/dad](https://reviewgithub.com/rep/liquidz/dad)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 122 | 7 | 
 | 2022-09-08 | 122 | 7 | 
 
-
-[Detailed charts & statistics for liquidz/dad](https://reviewgithub.com/rep/liquidz/dad)

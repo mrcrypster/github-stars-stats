@@ -1,12 +1,14 @@
 # Adepts-Of-0xCC/VBA-macro-experiments - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 145
 
 [Open repository](https://github.com/Adepts-Of-0xCC/VBA-macro-experiments)
+
+[Open detailed stats for Adepts-Of-0xCC/VBA-macro-experiments](https://reviewgithub.com/rep/Adepts-Of-0xCC/VBA-macro-experiments)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 145 | 15 | 
 | 2022-09-07 | 145 | 15 | 
 
-
-[Detailed charts & statistics for Adepts-Of-0xCC/VBA-macro-experiments](https://reviewgithub.com/rep/Adepts-Of-0xCC/VBA-macro-experiments)

@@ -1,12 +1,14 @@
 # ucb-bar/cva6-wrapper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 17
 
 [Open repository](https://github.com/ucb-bar/cva6-wrapper)
+
+[Open detailed stats for ucb-bar/cva6-wrapper](https://reviewgithub.com/rep/ucb-bar/cva6-wrapper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 17 | 13 | 
 | 2022-09-07 | 17 | 13 | 
 
-
-[Detailed charts & statistics for ucb-bar/cva6-wrapper](https://reviewgithub.com/rep/ucb-bar/cva6-wrapper)

@@ -1,12 +1,14 @@
 # IntelPython/mkl-service - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 47
 
 [Open repository](https://github.com/IntelPython/mkl-service)
+
+[Open detailed stats for IntelPython/mkl-service](https://reviewgithub.com/rep/IntelPython/mkl-service)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 45 | 23 | 
 | 2022-09-08 | 45 | 23 | 
 
-
-[Detailed charts & statistics for IntelPython/mkl-service](https://reviewgithub.com/rep/IntelPython/mkl-service)

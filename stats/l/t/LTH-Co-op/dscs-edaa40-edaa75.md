@@ -1,12 +1,14 @@
 # LTH-Co-op/dscs-edaa40-edaa75 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/LTH-Co-op/dscs-edaa40-edaa75)
+
+[Open detailed stats for LTH-Co-op/dscs-edaa40-edaa75](https://reviewgithub.com/rep/LTH-Co-op/dscs-edaa40-edaa75)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 1 | 
 | 2022-09-07 | 2 | 1 | 
 
-
-[Detailed charts & statistics for LTH-Co-op/dscs-edaa40-edaa75](https://reviewgithub.com/rep/LTH-Co-op/dscs-edaa40-edaa75)

@@ -1,12 +1,14 @@
 # MadBear422/VsVoltzSource - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 3
 
 [Open repository](https://github.com/MadBear422/VsVoltzSource)
+
+[Open detailed stats for MadBear422/VsVoltzSource](https://reviewgithub.com/rep/MadBear422/VsVoltzSource)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 9 | 
 | 2022-09-07 | 3 | 9 | 
 
-
-[Detailed charts & statistics for MadBear422/VsVoltzSource](https://reviewgithub.com/rep/MadBear422/VsVoltzSource)

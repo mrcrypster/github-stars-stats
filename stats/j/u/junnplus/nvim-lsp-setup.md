@@ -1,12 +1,14 @@
 # junnplus/nvim-lsp-setup - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 187
 
 [Open repository](https://github.com/junnplus/nvim-lsp-setup)
+
+[Open detailed stats for junnplus/nvim-lsp-setup](https://reviewgithub.com/rep/junnplus/nvim-lsp-setup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 183 | 5 | 
 | 2022-09-07 | 183 | 5 | 
 
-
-[Detailed charts & statistics for junnplus/nvim-lsp-setup](https://reviewgithub.com/rep/junnplus/nvim-lsp-setup)

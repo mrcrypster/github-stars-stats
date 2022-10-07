@@ -1,12 +1,14 @@
 # gvsu-sta518/activity11-simulation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 0
 
 [Open repository](https://github.com/gvsu-sta518/activity11-simulation)
+
+[Open detailed stats for gvsu-sta518/activity11-simulation](https://reviewgithub.com/rep/gvsu-sta518/activity11-simulation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 46 | 
 | 2022-09-07 | - | 46 | 
 
-
-[Detailed charts & statistics for gvsu-sta518/activity11-simulation](https://reviewgithub.com/rep/gvsu-sta518/activity11-simulation)

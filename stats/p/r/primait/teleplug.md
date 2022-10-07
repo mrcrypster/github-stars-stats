@@ -1,12 +1,14 @@
 # primait/teleplug - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/primait/teleplug)
+
+[Open detailed stats for primait/teleplug](https://reviewgithub.com/rep/primait/teleplug)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | - | 
 | 2022-09-08 | 6 | - | 
 
-
-[Detailed charts & statistics for primait/teleplug](https://reviewgithub.com/rep/primait/teleplug)

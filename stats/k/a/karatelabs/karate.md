@@ -1,12 +1,14 @@
 # karatelabs/karate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1634
 
 ★ Stars: 6356
 
 [Open repository](https://github.com/karatelabs/karate)
+
+[Open detailed stats for karatelabs/karate](https://reviewgithub.com/rep/karatelabs/karate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6294 | 1622 | 
 | 2022-09-08 | 6286 | 1619 | 
 
-
-[Detailed charts & statistics for karatelabs/karate](https://reviewgithub.com/rep/karatelabs/karate)

@@ -1,12 +1,14 @@
 # amritanand-py/cps02 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 8
 
 [Open repository](https://github.com/amritanand-py/cps02)
+
+[Open detailed stats for amritanand-py/cps02](https://reviewgithub.com/rep/amritanand-py/cps02)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 8 | 28 | 
 | 2022-09-20 | 8 | 28 | 
 
-
-[Detailed charts & statistics for amritanand-py/cps02](https://reviewgithub.com/rep/amritanand-py/cps02)

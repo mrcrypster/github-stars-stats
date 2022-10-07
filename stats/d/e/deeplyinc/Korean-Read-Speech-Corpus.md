@@ -1,12 +1,14 @@
 # deeplyinc/Korean-Read-Speech-Corpus - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/deeplyinc/Korean-Read-Speech-Corpus)
+
+[Open detailed stats for deeplyinc/Korean-Read-Speech-Corpus](https://reviewgithub.com/rep/deeplyinc/Korean-Read-Speech-Corpus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | - | 
 | 2022-09-07 | 7 | - | 
 
-
-[Detailed charts & statistics for deeplyinc/Korean-Read-Speech-Corpus](https://reviewgithub.com/rep/deeplyinc/Korean-Read-Speech-Corpus)

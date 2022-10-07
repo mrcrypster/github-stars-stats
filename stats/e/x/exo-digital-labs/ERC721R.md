@@ -1,12 +1,14 @@
 # exo-digital-labs/ERC721R - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 57
 
 ★ Stars: 228
 
 [Open repository](https://github.com/exo-digital-labs/ERC721R)
+
+[Open detailed stats for exo-digital-labs/ERC721R](https://reviewgithub.com/rep/exo-digital-labs/ERC721R)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 219 | 54 | 
 | 2022-09-08 | 218 | 54 | 
 
-
-[Detailed charts & statistics for exo-digital-labs/ERC721R](https://reviewgithub.com/rep/exo-digital-labs/ERC721R)

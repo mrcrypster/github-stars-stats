@@ -1,12 +1,14 @@
 # meta-erlang/meta-erlang - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 41
 
 [Open repository](https://github.com/meta-erlang/meta-erlang)
+
+[Open detailed stats for meta-erlang/meta-erlang](https://reviewgithub.com/rep/meta-erlang/meta-erlang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 41 | 30 | 
 | 2022-09-07 | 41 | 30 | 
 
-
-[Detailed charts & statistics for meta-erlang/meta-erlang](https://reviewgithub.com/rep/meta-erlang/meta-erlang)

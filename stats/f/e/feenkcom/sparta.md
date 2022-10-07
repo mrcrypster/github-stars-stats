@@ -1,12 +1,14 @@
 # feenkcom/sparta - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 28
 
 [Open repository](https://github.com/feenkcom/sparta)
+
+[Open detailed stats for feenkcom/sparta](https://reviewgithub.com/rep/feenkcom/sparta)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 27 | 7 | 
 | 2022-09-08 | 27 | 7 | 
 
-
-[Detailed charts & statistics for feenkcom/sparta](https://reviewgithub.com/rep/feenkcom/sparta)

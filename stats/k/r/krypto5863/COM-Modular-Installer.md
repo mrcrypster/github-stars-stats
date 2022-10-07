@@ -1,12 +1,14 @@
 # krypto5863/COM-Modular-Installer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 109
 
 [Open repository](https://github.com/krypto5863/COM-Modular-Installer)
+
+[Open detailed stats for krypto5863/COM-Modular-Installer](https://reviewgithub.com/rep/krypto5863/COM-Modular-Installer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 102 | 7 | 
 | 2022-09-08 | 102 | 7 | 
 
-
-[Detailed charts & statistics for krypto5863/COM-Modular-Installer](https://reviewgithub.com/rep/krypto5863/COM-Modular-Installer)

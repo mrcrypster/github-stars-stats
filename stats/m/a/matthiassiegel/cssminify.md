@@ -1,12 +1,14 @@
 # matthiassiegel/cssminify - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 22
 
 [Open repository](https://github.com/matthiassiegel/cssminify)
+
+[Open detailed stats for matthiassiegel/cssminify](https://reviewgithub.com/rep/matthiassiegel/cssminify)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 22 | 8 | 
 | 2022-09-08 | 22 | 8 | 
 
-
-[Detailed charts & statistics for matthiassiegel/cssminify](https://reviewgithub.com/rep/matthiassiegel/cssminify)

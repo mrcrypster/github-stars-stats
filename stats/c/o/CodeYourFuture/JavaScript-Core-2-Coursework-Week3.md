@@ -1,12 +1,14 @@
 # CodeYourFuture/JavaScript-Core-2-Coursework-Week3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 122
 
 ★ Stars: 3
 
 [Open repository](https://github.com/CodeYourFuture/JavaScript-Core-2-Coursework-Week3)
+
+[Open detailed stats for CodeYourFuture/JavaScript-Core-2-Coursework-Week3](https://reviewgithub.com/rep/CodeYourFuture/JavaScript-Core-2-Coursework-Week3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 70 | 
 | 2022-09-08 | 3 | 70 | 
 
-
-[Detailed charts & statistics for CodeYourFuture/JavaScript-Core-2-Coursework-Week3](https://reviewgithub.com/rep/CodeYourFuture/JavaScript-Core-2-Coursework-Week3)

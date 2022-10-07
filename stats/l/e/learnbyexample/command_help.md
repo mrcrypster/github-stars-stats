@@ -1,12 +1,14 @@
 # learnbyexample/command_help - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 79
 
 [Open repository](https://github.com/learnbyexample/command_help)
+
+[Open detailed stats for learnbyexample/command_help](https://reviewgithub.com/rep/learnbyexample/command_help)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 77 | 7 | 
 | 2022-09-07 | 77 | 7 | 
 
-
-[Detailed charts & statistics for learnbyexample/command_help](https://reviewgithub.com/rep/learnbyexample/command_help)

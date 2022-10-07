@@ -1,12 +1,14 @@
 # Clever/ARCHIVED-json-schema-converter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 15
 
 [Open repository](https://github.com/Clever/ARCHIVED-json-schema-converter)
+
+[Open detailed stats for Clever/ARCHIVED-json-schema-converter](https://reviewgithub.com/rep/Clever/ARCHIVED-json-schema-converter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 7 | 
 | 2022-09-07 | 15 | 7 | 
 
-
-[Detailed charts & statistics for Clever/ARCHIVED-json-schema-converter](https://reviewgithub.com/rep/Clever/ARCHIVED-json-schema-converter)

@@ -1,12 +1,14 @@
 # cabol/shards - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 286
 
 [Open repository](https://github.com/cabol/shards)
+
+[Open detailed stats for cabol/shards](https://reviewgithub.com/rep/cabol/shards)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 286 | 31 | 
 | 2022-09-07 | 286 | 31 | 
 
-
-[Detailed charts & statistics for cabol/shards](https://reviewgithub.com/rep/cabol/shards)

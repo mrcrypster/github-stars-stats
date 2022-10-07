@@ -1,12 +1,14 @@
 # Technigo/shopping-cart-codealong - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 141
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Technigo/shopping-cart-codealong)
+
+[Open detailed stats for Technigo/shopping-cart-codealong](https://reviewgithub.com/rep/Technigo/shopping-cart-codealong)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 142 | 
 | 2022-09-07 | 1 | 142 | 
 
-
-[Detailed charts & statistics for Technigo/shopping-cart-codealong](https://reviewgithub.com/rep/Technigo/shopping-cart-codealong)

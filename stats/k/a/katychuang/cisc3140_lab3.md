@@ -1,12 +1,14 @@
 # katychuang/cisc3140_lab3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 2
 
 [Open repository](https://github.com/katychuang/cisc3140_lab3)
+
+[Open detailed stats for katychuang/cisc3140_lab3](https://reviewgithub.com/rep/katychuang/cisc3140_lab3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 14 | 
 | 2022-09-07 | 2 | 14 | 
 
-
-[Detailed charts & statistics for katychuang/cisc3140_lab3](https://reviewgithub.com/rep/katychuang/cisc3140_lab3)

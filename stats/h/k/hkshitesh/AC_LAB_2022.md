@@ -1,12 +1,14 @@
 # hkshitesh/AC_LAB_2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 3
 
 [Open repository](https://github.com/hkshitesh/AC_LAB_2022)
+
+[Open detailed stats for hkshitesh/AC_LAB_2022](https://reviewgithub.com/rep/hkshitesh/AC_LAB_2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 18 | 
 | 2022-09-07 | 3 | 18 | 
 
-
-[Detailed charts & statistics for hkshitesh/AC_LAB_2022](https://reviewgithub.com/rep/hkshitesh/AC_LAB_2022)

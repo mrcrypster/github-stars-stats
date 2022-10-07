@@ -1,12 +1,14 @@
 # Hackerabad/Hackerabad-Website - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Hackerabad/Hackerabad-Website)
+
+[Open detailed stats for Hackerabad/Hackerabad-Website](https://reviewgithub.com/rep/Hackerabad/Hackerabad-Website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 17 | 
 | 2022-09-07 | 1 | 16 | 
 
-
-[Detailed charts & statistics for Hackerabad/Hackerabad-Website](https://reviewgithub.com/rep/Hackerabad/Hackerabad-Website)

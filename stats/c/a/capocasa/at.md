@@ -1,12 +1,14 @@
 # capocasa/at - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 14
 
 [Open repository](https://github.com/capocasa/at)
+
+[Open detailed stats for capocasa/at](https://reviewgithub.com/rep/capocasa/at)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 2 | 
 | 2022-09-08 | 14 | 2 | 
 
-
-[Detailed charts & statistics for capocasa/at](https://reviewgithub.com/rep/capocasa/at)

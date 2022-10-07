@@ -1,12 +1,14 @@
 # vim-scripts/indentpython.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 80
 
 [Open repository](https://github.com/vim-scripts/indentpython.vim)
+
+[Open detailed stats for vim-scripts/indentpython.vim](https://reviewgithub.com/rep/vim-scripts/indentpython.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 80 | 23 | 
 | 2022-09-07 | 80 | 23 | 
 
-
-[Detailed charts & statistics for vim-scripts/indentpython.vim](https://reviewgithub.com/rep/vim-scripts/indentpython.vim)

@@ -1,12 +1,14 @@
 # oqyh/Game-Manager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 48
 
 [Open repository](https://github.com/oqyh/Game-Manager)
+
+[Open detailed stats for oqyh/Game-Manager](https://reviewgithub.com/rep/oqyh/Game-Manager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 46 | - | 
 | 2022-09-08 | 46 | - | 
 
-
-[Detailed charts & statistics for oqyh/Game-Manager](https://reviewgithub.com/rep/oqyh/Game-Manager)

@@ -1,12 +1,14 @@
 # tpope/vim-abolish - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
 ★ Stars: 2333
 
 [Open repository](https://github.com/tpope/vim-abolish)
+
+[Open detailed stats for tpope/vim-abolish](https://reviewgithub.com/rep/tpope/vim-abolish)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2323 | 72 | 
 | 2022-09-07 | 2323 | 72 | 
 
-
-[Detailed charts & statistics for tpope/vim-abolish](https://reviewgithub.com/rep/tpope/vim-abolish)

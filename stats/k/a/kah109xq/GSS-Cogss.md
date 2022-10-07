@@ -1,12 +1,14 @@
 # kah109xq/GSS-Cogss - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 53
 
 [Open repository](https://github.com/kah109xq/GSS-Cogss)
+
+[Open detailed stats for kah109xq/GSS-Cogss](https://reviewgithub.com/rep/kah109xq/GSS-Cogss)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 53 | 23 | 
 | 2022-09-07 | 53 | 23 | 
 
-
-[Detailed charts & statistics for kah109xq/GSS-Cogss](https://reviewgithub.com/rep/kah109xq/GSS-Cogss)

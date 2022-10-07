@@ -1,12 +1,14 @@
 # oraclebase/dba - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 103
 
 ★ Stars: 179
 
 [Open repository](https://github.com/oraclebase/dba)
+
+[Open detailed stats for oraclebase/dba](https://reviewgithub.com/rep/oraclebase/dba)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 177 | 100 | 
 | 2022-09-07 | 177 | 99 | 
 
-
-[Detailed charts & statistics for oraclebase/dba](https://reviewgithub.com/rep/oraclebase/dba)

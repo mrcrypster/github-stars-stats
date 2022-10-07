@@ -1,12 +1,14 @@
 # ethz-asl/catkin_boost_python_buildtool - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 4
 
 [Open repository](https://github.com/ethz-asl/catkin_boost_python_buildtool)
+
+[Open detailed stats for ethz-asl/catkin_boost_python_buildtool](https://reviewgithub.com/rep/ethz-asl/catkin_boost_python_buildtool)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 5 | 
 | 2022-09-08 | 4 | 5 | 
 
-
-[Detailed charts & statistics for ethz-asl/catkin_boost_python_buildtool](https://reviewgithub.com/rep/ethz-asl/catkin_boost_python_buildtool)

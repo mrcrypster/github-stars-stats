@@ -1,12 +1,14 @@
 # V-Marco/public_intro_to_DS_mba_hse - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 80
 
 ★ Stars: 7
 
 [Open repository](https://github.com/V-Marco/public_intro_to_DS_mba_hse)
+
+[Open detailed stats for V-Marco/public_intro_to_DS_mba_hse](https://reviewgithub.com/rep/V-Marco/public_intro_to_DS_mba_hse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 80 | 
 | 2022-09-08 | 7 | 80 | 
 
-
-[Detailed charts & statistics for V-Marco/public_intro_to_DS_mba_hse](https://reviewgithub.com/rep/V-Marco/public_intro_to_DS_mba_hse)

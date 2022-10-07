@@ -1,12 +1,14 @@
 # jeremyong/websocket_client - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 130
 
 ★ Stars: 178
 
 [Open repository](https://github.com/jeremyong/websocket_client)
+
+[Open detailed stats for jeremyong/websocket_client](https://reviewgithub.com/rep/jeremyong/websocket_client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 178 | 130 | 
 | 2022-09-07 | 178 | 130 | 
 
-
-[Detailed charts & statistics for jeremyong/websocket_client](https://reviewgithub.com/rep/jeremyong/websocket_client)

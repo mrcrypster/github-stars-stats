@@ -1,12 +1,14 @@
 # conductor-sdk/conductor-clojure - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/conductor-sdk/conductor-clojure)
+
+[Open detailed stats for conductor-sdk/conductor-clojure](https://reviewgithub.com/rep/conductor-sdk/conductor-clojure)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | - | 
 | 2022-09-07 | 17 | - | 
 
-
-[Detailed charts & statistics for conductor-sdk/conductor-clojure](https://reviewgithub.com/rep/conductor-sdk/conductor-clojure)

@@ -1,12 +1,14 @@
 # ianhorswill/CS376-student - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 7
 
 [Open repository](https://github.com/ianhorswill/CS376-student)
+
+[Open detailed stats for ianhorswill/CS376-student](https://reviewgithub.com/rep/ianhorswill/CS376-student)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | 7 | 21 | 
 | 2022-09-29 | 7 | 21 | 
 
-
-[Detailed charts & statistics for ianhorswill/CS376-student](https://reviewgithub.com/rep/ianhorswill/CS376-student)

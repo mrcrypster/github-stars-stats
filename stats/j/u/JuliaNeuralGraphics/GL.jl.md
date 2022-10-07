@@ -1,12 +1,14 @@
 # JuliaNeuralGraphics/GL.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/JuliaNeuralGraphics/GL.jl)
+
+[Open detailed stats for JuliaNeuralGraphics/GL.jl](https://reviewgithub.com/rep/JuliaNeuralGraphics/GL.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | - | 
 | 2022-09-08 | 3 | - | 
 
-
-[Detailed charts & statistics for JuliaNeuralGraphics/GL.jl](https://reviewgithub.com/rep/JuliaNeuralGraphics/GL.jl)

@@ -1,12 +1,14 @@
 # lambdaclass/aleo_roulette - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/lambdaclass/aleo_roulette)
+
+[Open detailed stats for lambdaclass/aleo_roulette](https://reviewgithub.com/rep/lambdaclass/aleo_roulette)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 2 | 
 | 2022-09-08 | 4 | 2 | 
 
-
-[Detailed charts & statistics for lambdaclass/aleo_roulette](https://reviewgithub.com/rep/lambdaclass/aleo_roulette)

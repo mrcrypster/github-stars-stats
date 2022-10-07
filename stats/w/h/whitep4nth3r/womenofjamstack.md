@@ -1,12 +1,14 @@
 # whitep4nth3r/womenofjamstack - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 56
 
 ★ Stars: 35
 
 [Open repository](https://github.com/whitep4nth3r/womenofjamstack)
+
+[Open detailed stats for whitep4nth3r/womenofjamstack](https://reviewgithub.com/rep/whitep4nth3r/womenofjamstack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 32 | 53 | 
 | 2022-09-07 | 32 | 53 | 
 
-
-[Detailed charts & statistics for whitep4nth3r/womenofjamstack](https://reviewgithub.com/rep/whitep4nth3r/womenofjamstack)

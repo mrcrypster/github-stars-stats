@@ -1,12 +1,14 @@
 # xuchunyang/eshell-did-you-mean - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 16
 
 [Open repository](https://github.com/xuchunyang/eshell-did-you-mean)
+
+[Open detailed stats for xuchunyang/eshell-did-you-mean](https://reviewgithub.com/rep/xuchunyang/eshell-did-you-mean)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 2 | 
 | 2022-09-07 | 16 | 2 | 
 
-
-[Detailed charts & statistics for xuchunyang/eshell-did-you-mean](https://reviewgithub.com/rep/xuchunyang/eshell-did-you-mean)

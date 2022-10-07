@@ -1,12 +1,14 @@
 # mrfearless/DateTime-Library - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 13
 
 [Open repository](https://github.com/mrfearless/DateTime-Library)
+
+[Open detailed stats for mrfearless/DateTime-Library](https://reviewgithub.com/rep/mrfearless/DateTime-Library)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 1 | 
 | 2022-09-07 | 12 | 1 | 
 
-
-[Detailed charts & statistics for mrfearless/DateTime-Library](https://reviewgithub.com/rep/mrfearless/DateTime-Library)

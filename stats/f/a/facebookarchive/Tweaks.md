@@ -1,12 +1,14 @@
 # facebookarchive/Tweaks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 442
 
 ★ Stars: 4756
 
 [Open repository](https://github.com/facebookarchive/Tweaks)
+
+[Open detailed stats for facebookarchive/Tweaks](https://reviewgithub.com/rep/facebookarchive/Tweaks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4758 | 442 | 
 | 2022-09-07 | 4757 | 442 | 
 
-
-[Detailed charts & statistics for facebookarchive/Tweaks](https://reviewgithub.com/rep/facebookarchive/Tweaks)

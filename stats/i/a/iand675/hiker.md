@@ -1,12 +1,14 @@
 # iand675/hiker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/iand675/hiker)
+
+[Open detailed stats for iand675/hiker](https://reviewgithub.com/rep/iand675/hiker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for iand675/hiker](https://reviewgithub.com/rep/iand675/hiker)

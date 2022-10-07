@@ -1,12 +1,14 @@
 # stripe/bonsai - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 140
 
 [Open repository](https://github.com/stripe/bonsai)
+
+[Open detailed stats for stripe/bonsai](https://reviewgithub.com/rep/stripe/bonsai)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 140 | 14 | 
 | 2022-09-07 | 141 | 14 | 
 
-
-[Detailed charts & statistics for stripe/bonsai](https://reviewgithub.com/rep/stripe/bonsai)

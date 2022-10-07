@@ -1,12 +1,14 @@
 # safehousefinance/autostaking - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/safehousefinance/autostaking)
+
+[Open detailed stats for safehousefinance/autostaking](https://reviewgithub.com/rep/safehousefinance/autostaking)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for safehousefinance/autostaking](https://reviewgithub.com/rep/safehousefinance/autostaking)

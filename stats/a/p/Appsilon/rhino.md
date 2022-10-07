@@ -1,12 +1,14 @@
 # Appsilon/rhino - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 94
 
 [Open repository](https://github.com/Appsilon/rhino)
+
+[Open detailed stats for Appsilon/rhino](https://reviewgithub.com/rep/Appsilon/rhino)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 92 | 7 | 
 | 2022-09-07 | 92 | 7 | 
 
-
-[Detailed charts & statistics for Appsilon/rhino](https://reviewgithub.com/rep/Appsilon/rhino)

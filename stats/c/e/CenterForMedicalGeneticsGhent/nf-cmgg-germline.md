@@ -1,12 +1,14 @@
 # CenterForMedicalGeneticsGhent/nf-cmgg-germline - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/CenterForMedicalGeneticsGhent/nf-cmgg-germline)
+
+[Open detailed stats for CenterForMedicalGeneticsGhent/nf-cmgg-germline](https://reviewgithub.com/rep/CenterForMedicalGeneticsGhent/nf-cmgg-germline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for CenterForMedicalGeneticsGhent/nf-cmgg-germline](https://reviewgithub.com/rep/CenterForMedicalGeneticsGhent/nf-cmgg-germline)

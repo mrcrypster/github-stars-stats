@@ -1,12 +1,14 @@
 # BartoszPiotrowski/lean-premise-selection - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/BartoszPiotrowski/lean-premise-selection)
+
+[Open detailed stats for BartoszPiotrowski/lean-premise-selection](https://reviewgithub.com/rep/BartoszPiotrowski/lean-premise-selection)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for BartoszPiotrowski/lean-premise-selection](https://reviewgithub.com/rep/BartoszPiotrowski/lean-premise-selection)

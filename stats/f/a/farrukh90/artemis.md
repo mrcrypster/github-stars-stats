@@ -1,12 +1,14 @@
 # farrukh90/artemis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 0
 
 [Open repository](https://github.com/farrukh90/artemis)
+
+[Open detailed stats for farrukh90/artemis](https://reviewgithub.com/rep/farrukh90/artemis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 22 | 
 | 2022-09-07 | - | 22 | 
 
-
-[Detailed charts & statistics for farrukh90/artemis](https://reviewgithub.com/rep/farrukh90/artemis)

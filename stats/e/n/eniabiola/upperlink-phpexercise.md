@@ -1,12 +1,14 @@
 # eniabiola/upperlink-phpexercise - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/eniabiola/upperlink-phpexercise)
+
+[Open detailed stats for eniabiola/upperlink-phpexercise](https://reviewgithub.com/rep/eniabiola/upperlink-phpexercise)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 9 | 
 | 2022-09-08 | - | 9 | 
 
-
-[Detailed charts & statistics for eniabiola/upperlink-phpexercise](https://reviewgithub.com/rep/eniabiola/upperlink-phpexercise)

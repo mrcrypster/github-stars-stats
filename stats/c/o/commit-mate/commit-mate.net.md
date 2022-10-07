@@ -1,12 +1,14 @@
 # commit-mate/commit-mate.net - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 0
 
 [Open repository](https://github.com/commit-mate/commit-mate.net)
+
+[Open detailed stats for commit-mate/commit-mate.net](https://reviewgithub.com/rep/commit-mate/commit-mate.net)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 12 | 
 | 2022-09-08 | - | 12 | 
 
-
-[Detailed charts & statistics for commit-mate/commit-mate.net](https://reviewgithub.com/rep/commit-mate/commit-mate.net)

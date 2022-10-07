@@ -1,12 +1,14 @@
 # titanventura/cs20-js - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 0
 
 [Open repository](https://github.com/titanventura/cs20-js)
+
+[Open detailed stats for titanventura/cs20-js](https://reviewgithub.com/rep/titanventura/cs20-js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 15 | 
 | 2022-09-08 | - | 15 | 
 
-
-[Detailed charts & statistics for titanventura/cs20-js](https://reviewgithub.com/rep/titanventura/cs20-js)

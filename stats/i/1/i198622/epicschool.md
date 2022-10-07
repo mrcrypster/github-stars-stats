@@ -1,12 +1,14 @@
 # i198622/epicschool - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 2
 
 [Open repository](https://github.com/i198622/epicschool)
+
+[Open detailed stats for i198622/epicschool](https://reviewgithub.com/rep/i198622/epicschool)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 13 | 
 | 2022-09-07 | 2 | 13 | 
 
-
-[Detailed charts & statistics for i198622/epicschool](https://reviewgithub.com/rep/i198622/epicschool)

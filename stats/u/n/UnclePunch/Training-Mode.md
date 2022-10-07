@@ -1,12 +1,14 @@
 # UnclePunch/Training-Mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 45
 
 ★ Stars: 232
 
 [Open repository](https://github.com/UnclePunch/Training-Mode)
+
+[Open detailed stats for UnclePunch/Training-Mode](https://reviewgithub.com/rep/UnclePunch/Training-Mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 229 | 44 | 
 | 2022-09-07 | 229 | 44 | 
 
-
-[Detailed charts & statistics for UnclePunch/Training-Mode](https://reviewgithub.com/rep/UnclePunch/Training-Mode)

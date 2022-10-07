@@ -1,12 +1,14 @@
 # purescript/purescript-foldable-traversable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 48
 
 [Open repository](https://github.com/purescript/purescript-foldable-traversable)
+
+[Open detailed stats for purescript/purescript-foldable-traversable](https://reviewgithub.com/rep/purescript/purescript-foldable-traversable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 48 | 54 | 
 | 2022-09-08 | 48 | 54 | 
 
-
-[Detailed charts & statistics for purescript/purescript-foldable-traversable](https://reviewgithub.com/rep/purescript/purescript-foldable-traversable)

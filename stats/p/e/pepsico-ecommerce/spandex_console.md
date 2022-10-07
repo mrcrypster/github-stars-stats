@@ -1,12 +1,14 @@
 # pepsico-ecommerce/spandex_console - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/pepsico-ecommerce/spandex_console)
+
+[Open detailed stats for pepsico-ecommerce/spandex_console](https://reviewgithub.com/rep/pepsico-ecommerce/spandex_console)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
 
-
-[Detailed charts & statistics for pepsico-ecommerce/spandex_console](https://reviewgithub.com/rep/pepsico-ecommerce/spandex_console)

@@ -1,12 +1,14 @@
 # KSP-CKAN/CKAN-meta - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 184
 
 ★ Stars: 57
 
 [Open repository](https://github.com/KSP-CKAN/CKAN-meta)
+
+[Open detailed stats for KSP-CKAN/CKAN-meta](https://reviewgithub.com/rep/KSP-CKAN/CKAN-meta)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 184 | 
 | 2022-09-07 | 57 | 184 | 
 
-
-[Detailed charts & statistics for KSP-CKAN/CKAN-meta](https://reviewgithub.com/rep/KSP-CKAN/CKAN-meta)

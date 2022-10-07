@@ -1,12 +1,14 @@
 # ipkzone/BugUnliapps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ipkzone/BugUnliapps)
+
+[Open detailed stats for ipkzone/BugUnliapps](https://reviewgithub.com/rep/ipkzone/BugUnliapps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 12 | 
 | 2022-09-08 | - | 12 | 
 
-
-[Detailed charts & statistics for ipkzone/BugUnliapps](https://reviewgithub.com/rep/ipkzone/BugUnliapps)

@@ -1,12 +1,14 @@
 # processone/cache_tab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 42
 
 [Open repository](https://github.com/processone/cache_tab)
+
+[Open detailed stats for processone/cache_tab](https://reviewgithub.com/rep/processone/cache_tab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 42 | 24 | 
 | 2022-09-07 | 42 | 24 | 
 
-
-[Detailed charts & statistics for processone/cache_tab](https://reviewgithub.com/rep/processone/cache_tab)

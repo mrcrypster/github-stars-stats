@@ -1,12 +1,14 @@
 # cedarbdd/cedar - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 151
 
 ★ Stars: 1192
 
 [Open repository](https://github.com/cedarbdd/cedar)
+
+[Open detailed stats for cedarbdd/cedar](https://reviewgithub.com/rep/cedarbdd/cedar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1192 | 151 | 
 | 2022-09-07 | 1192 | 151 | 
 
-
-[Detailed charts & statistics for cedarbdd/cedar](https://reviewgithub.com/rep/cedarbdd/cedar)

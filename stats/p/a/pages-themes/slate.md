@@ -1,12 +1,14 @@
 # pages-themes/slate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 900
 
 ★ Stars: 245
 
 [Open repository](https://github.com/pages-themes/slate)
+
+[Open detailed stats for pages-themes/slate](https://reviewgithub.com/rep/pages-themes/slate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 240 | 896 | 
 | 2022-09-08 | 239 | 894 | 
 
-
-[Detailed charts & statistics for pages-themes/slate](https://reviewgithub.com/rep/pages-themes/slate)

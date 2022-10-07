@@ -1,12 +1,14 @@
 # kstephens/tinyclos - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 44
 
 [Open repository](https://github.com/kstephens/tinyclos)
+
+[Open detailed stats for kstephens/tinyclos](https://reviewgithub.com/rep/kstephens/tinyclos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 7 | 
 | 2022-09-07 | 43 | 7 | 
 
-
-[Detailed charts & statistics for kstephens/tinyclos](https://reviewgithub.com/rep/kstephens/tinyclos)

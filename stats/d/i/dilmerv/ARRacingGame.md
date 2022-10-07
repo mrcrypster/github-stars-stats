@@ -1,12 +1,14 @@
 # dilmerv/ARRacingGame - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 17
 
 [Open repository](https://github.com/dilmerv/ARRacingGame)
+
+[Open detailed stats for dilmerv/ARRacingGame](https://reviewgithub.com/rep/dilmerv/ARRacingGame)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 3 | 
 | 2022-09-07 | 17 | 3 | 
 
-
-[Detailed charts & statistics for dilmerv/ARRacingGame](https://reviewgithub.com/rep/dilmerv/ARRacingGame)

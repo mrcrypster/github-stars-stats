@@ -1,12 +1,14 @@
 # r4ds/bookclub-geohealth - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 3
 
 [Open repository](https://github.com/r4ds/bookclub-geohealth)
+
+[Open detailed stats for r4ds/bookclub-geohealth](https://reviewgithub.com/rep/r4ds/bookclub-geohealth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 2 | 2 | 
 | 2022-09-25 | 2 | 2 | 
 
-
-[Detailed charts & statistics for r4ds/bookclub-geohealth](https://reviewgithub.com/rep/r4ds/bookclub-geohealth)

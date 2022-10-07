@@ -1,12 +1,14 @@
 # EzequielRamis/dotfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/EzequielRamis/dotfiles)
+
+[Open detailed stats for EzequielRamis/dotfiles](https://reviewgithub.com/rep/EzequielRamis/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 20 | - | 
 | 2022-09-13 | 20 | - | 
 
-
-[Detailed charts & statistics for EzequielRamis/dotfiles](https://reviewgithub.com/rep/EzequielRamis/dotfiles)

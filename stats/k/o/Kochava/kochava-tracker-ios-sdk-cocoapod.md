@@ -1,12 +1,14 @@
 # Kochava/kochava-tracker-ios-sdk-cocoapod - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 9
 
 [Open repository](https://github.com/Kochava/kochava-tracker-ios-sdk-cocoapod)
+
+[Open detailed stats for Kochava/kochava-tracker-ios-sdk-cocoapod](https://reviewgithub.com/rep/Kochava/kochava-tracker-ios-sdk-cocoapod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 5 | 
 | 2022-09-07 | 9 | 5 | 
 
-
-[Detailed charts & statistics for Kochava/kochava-tracker-ios-sdk-cocoapod](https://reviewgithub.com/rep/Kochava/kochava-tracker-ios-sdk-cocoapod)

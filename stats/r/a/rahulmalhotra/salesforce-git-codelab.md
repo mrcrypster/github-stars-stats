@@ -1,12 +1,14 @@
 # rahulmalhotra/salesforce-git-codelab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 160
 
 ★ Stars: 1
 
 [Open repository](https://github.com/rahulmalhotra/salesforce-git-codelab)
+
+[Open detailed stats for rahulmalhotra/salesforce-git-codelab](https://reviewgithub.com/rep/rahulmalhotra/salesforce-git-codelab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 159 | 
 | 2022-09-07 | 1 | 159 | 
 
-
-[Detailed charts & statistics for rahulmalhotra/salesforce-git-codelab](https://reviewgithub.com/rep/rahulmalhotra/salesforce-git-codelab)

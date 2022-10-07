@@ -1,12 +1,14 @@
 # Qiskit/qiskit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 749
 
 ★ Stars: 2722
 
 [Open repository](https://github.com/Qiskit/qiskit)
+
+[Open detailed stats for Qiskit/qiskit](https://reviewgithub.com/rep/Qiskit/qiskit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2692 | 746 | 
 | 2022-09-08 | 2692 | 746 | 
 
-
-[Detailed charts & statistics for Qiskit/qiskit](https://reviewgithub.com/rep/Qiskit/qiskit)

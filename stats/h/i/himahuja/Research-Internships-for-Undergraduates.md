@@ -1,12 +1,14 @@
 # himahuja/Research-Internships-for-Undergraduates - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 582
 
 ★ Stars: 2592
 
 [Open repository](https://github.com/himahuja/Research-Internships-for-Undergraduates)
+
+[Open detailed stats for himahuja/Research-Internships-for-Undergraduates](https://reviewgithub.com/rep/himahuja/Research-Internships-for-Undergraduates)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2530 | 566 | 
 | 2022-09-07 | 2530 | 566 | 
 
-
-[Detailed charts & statistics for himahuja/Research-Internships-for-Undergraduates](https://reviewgithub.com/rep/himahuja/Research-Internships-for-Undergraduates)

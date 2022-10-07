@@ -1,12 +1,14 @@
 # othree/javascript-libraries-syntax.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 630
 
 [Open repository](https://github.com/othree/javascript-libraries-syntax.vim)
+
+[Open detailed stats for othree/javascript-libraries-syntax.vim](https://reviewgithub.com/rep/othree/javascript-libraries-syntax.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 631 | 36 | 
 | 2022-09-07 | 631 | 36 | 
 
-
-[Detailed charts & statistics for othree/javascript-libraries-syntax.vim](https://reviewgithub.com/rep/othree/javascript-libraries-syntax.vim)

@@ -1,12 +1,14 @@
 # DataDog/security-agent-policies - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 14
 
 [Open repository](https://github.com/DataDog/security-agent-policies)
+
+[Open detailed stats for DataDog/security-agent-policies](https://reviewgithub.com/rep/DataDog/security-agent-policies)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 3 | 
 | 2022-09-08 | 14 | 3 | 
 
-
-[Detailed charts & statistics for DataDog/security-agent-policies](https://reviewgithub.com/rep/DataDog/security-agent-policies)

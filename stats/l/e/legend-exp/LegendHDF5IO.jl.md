@@ -1,12 +1,14 @@
 # legend-exp/LegendHDF5IO.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 1
 
 [Open repository](https://github.com/legend-exp/LegendHDF5IO.jl)
+
+[Open detailed stats for legend-exp/LegendHDF5IO.jl](https://reviewgithub.com/rep/legend-exp/LegendHDF5IO.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 6 | 
 | 2022-09-08 | 1 | 6 | 
 
-
-[Detailed charts & statistics for legend-exp/LegendHDF5IO.jl](https://reviewgithub.com/rep/legend-exp/LegendHDF5IO.jl)

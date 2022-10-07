@@ -1,12 +1,14 @@
 # garyb/purescript-debug - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 25
 
 [Open repository](https://github.com/garyb/purescript-debug)
+
+[Open detailed stats for garyb/purescript-debug](https://reviewgithub.com/rep/garyb/purescript-debug)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 25 | 16 | 
 | 2022-09-08 | 25 | 16 | 
 
-
-[Detailed charts & statistics for garyb/purescript-debug](https://reviewgithub.com/rep/garyb/purescript-debug)

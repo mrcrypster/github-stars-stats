@@ -1,12 +1,14 @@
 # DSCI-310/DSCI-310-Group-8-package - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DSCI-310/DSCI-310-Group-8-package)
+
+[Open detailed stats for DSCI-310/DSCI-310-Group-8-package](https://reviewgithub.com/rep/DSCI-310/DSCI-310-Group-8-package)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for DSCI-310/DSCI-310-Group-8-package](https://reviewgithub.com/rep/DSCI-310/DSCI-310-Group-8-package)

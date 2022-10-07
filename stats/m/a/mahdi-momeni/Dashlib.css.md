@@ -1,12 +1,14 @@
 # mahdi-momeni/Dashlib.css - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/mahdi-momeni/Dashlib.css)
+
+[Open detailed stats for mahdi-momeni/Dashlib.css](https://reviewgithub.com/rep/mahdi-momeni/Dashlib.css)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | - | 
 | 2022-09-07 | 17 | - | 
 
-
-[Detailed charts & statistics for mahdi-momeni/Dashlib.css](https://reviewgithub.com/rep/mahdi-momeni/Dashlib.css)

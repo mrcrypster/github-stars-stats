@@ -1,12 +1,14 @@
 # input-output-hk/hedgehog-extras - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/input-output-hk/hedgehog-extras)
+
+[Open detailed stats for input-output-hk/hedgehog-extras](https://reviewgithub.com/rep/input-output-hk/hedgehog-extras)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 2 | 
 
-
-[Detailed charts & statistics for input-output-hk/hedgehog-extras](https://reviewgithub.com/rep/input-output-hk/hedgehog-extras)

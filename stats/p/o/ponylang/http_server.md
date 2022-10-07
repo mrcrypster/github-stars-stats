@@ -1,12 +1,14 @@
 # ponylang/http_server - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 23
 
 [Open repository](https://github.com/ponylang/http_server)
+
+[Open detailed stats for ponylang/http_server](https://reviewgithub.com/rep/ponylang/http_server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 5 | 
 | 2022-09-07 | 23 | 5 | 
 
-
-[Detailed charts & statistics for ponylang/http_server](https://reviewgithub.com/rep/ponylang/http_server)

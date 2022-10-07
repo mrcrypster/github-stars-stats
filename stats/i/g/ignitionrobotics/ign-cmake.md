@@ -1,12 +1,14 @@
 # ignitionrobotics/ign-cmake - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 12
 
 [Open repository](https://github.com/ignitionrobotics/ign-cmake)
+
+[Open detailed stats for ignitionrobotics/ign-cmake](https://reviewgithub.com/rep/ignitionrobotics/ign-cmake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 21 | 
 | 2022-09-07 | 12 | 21 | 
 
-
-[Detailed charts & statistics for ignitionrobotics/ign-cmake](https://reviewgithub.com/rep/ignitionrobotics/ign-cmake)

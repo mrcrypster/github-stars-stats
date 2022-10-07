@@ -1,12 +1,14 @@
 # oluwadareseyi/narrowdesign-rebuild - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 44
 
 [Open repository](https://github.com/oluwadareseyi/narrowdesign-rebuild)
+
+[Open detailed stats for oluwadareseyi/narrowdesign-rebuild](https://reviewgithub.com/rep/oluwadareseyi/narrowdesign-rebuild)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 39 | 11 | 
 | 2022-09-16 | 37 | 11 | 
 
-
-[Detailed charts & statistics for oluwadareseyi/narrowdesign-rebuild](https://reviewgithub.com/rep/oluwadareseyi/narrowdesign-rebuild)

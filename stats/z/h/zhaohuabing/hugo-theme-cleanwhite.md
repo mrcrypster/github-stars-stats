@@ -1,12 +1,14 @@
 # zhaohuabing/hugo-theme-cleanwhite - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 250
 
 ★ Stars: 485
 
 [Open repository](https://github.com/zhaohuabing/hugo-theme-cleanwhite)
+
+[Open detailed stats for zhaohuabing/hugo-theme-cleanwhite](https://reviewgithub.com/rep/zhaohuabing/hugo-theme-cleanwhite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 479 | 245 | 
 | 2022-09-08 | 479 | 245 | 
 
-
-[Detailed charts & statistics for zhaohuabing/hugo-theme-cleanwhite](https://reviewgithub.com/rep/zhaohuabing/hugo-theme-cleanwhite)

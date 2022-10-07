@@ -1,12 +1,14 @@
 # google/GoogleDataTransport - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 20
 
 [Open repository](https://github.com/google/GoogleDataTransport)
+
+[Open detailed stats for google/GoogleDataTransport](https://reviewgithub.com/rep/google/GoogleDataTransport)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 19 | 29 | 
 | 2022-09-07 | 18 | 29 | 
 
-
-[Detailed charts & statistics for google/GoogleDataTransport](https://reviewgithub.com/rep/google/GoogleDataTransport)

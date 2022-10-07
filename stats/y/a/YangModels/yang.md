@@ -1,12 +1,14 @@
 # YangModels/yang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1110
 
 ★ Stars: 1252
 
 [Open repository](https://github.com/YangModels/yang)
+
+[Open detailed stats for YangModels/yang](https://reviewgithub.com/rep/YangModels/yang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1240 | 1096 | 
 | 2022-09-07 | 1241 | 1096 | 
 
-
-[Detailed charts & statistics for YangModels/yang](https://reviewgithub.com/rep/YangModels/yang)

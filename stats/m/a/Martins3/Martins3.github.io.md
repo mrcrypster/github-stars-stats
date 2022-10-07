@@ -1,12 +1,14 @@
 # Martins3/Martins3.github.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 22
 
 [Open repository](https://github.com/Martins3/Martins3.github.io)
+
+[Open detailed stats for Martins3/Martins3.github.io](https://reviewgithub.com/rep/Martins3/Martins3.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 6 | 
 | 2022-09-07 | 21 | 6 | 
 
-
-[Detailed charts & statistics for Martins3/Martins3.github.io](https://reviewgithub.com/rep/Martins3/Martins3.github.io)

@@ -1,12 +1,14 @@
 # Fanael/highlight-quoted - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 38
 
 [Open repository](https://github.com/Fanael/highlight-quoted)
+
+[Open detailed stats for Fanael/highlight-quoted](https://reviewgithub.com/rep/Fanael/highlight-quoted)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 3 | 
 | 2022-09-08 | 38 | 3 | 
 
-
-[Detailed charts & statistics for Fanael/highlight-quoted](https://reviewgithub.com/rep/Fanael/highlight-quoted)

@@ -1,12 +1,14 @@
 # kenzok8/openwrt-packages - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2275
 
 ★ Stars: 3801
 
 [Open repository](https://github.com/kenzok8/openwrt-packages)
+
+[Open detailed stats for kenzok8/openwrt-packages](https://reviewgithub.com/rep/kenzok8/openwrt-packages)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3676 | 2243 | 
 | 2022-09-07 | 3672 | 2244 | 
 
-
-[Detailed charts & statistics for kenzok8/openwrt-packages](https://reviewgithub.com/rep/kenzok8/openwrt-packages)

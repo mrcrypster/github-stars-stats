@@ -1,12 +1,14 @@
 # Midvel/medium_blockchain_notes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 14
 
 [Open repository](https://github.com/Midvel/medium_blockchain_notes)
+
+[Open detailed stats for Midvel/medium_blockchain_notes](https://reviewgithub.com/rep/Midvel/medium_blockchain_notes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 13 | 
 | 2022-09-07 | 14 | 13 | 
 
-
-[Detailed charts & statistics for Midvel/medium_blockchain_notes](https://reviewgithub.com/rep/Midvel/medium_blockchain_notes)

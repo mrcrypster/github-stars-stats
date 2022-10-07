@@ -1,12 +1,14 @@
 # antoniogarrote/erlfaye - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 11
 
 [Open repository](https://github.com/antoniogarrote/erlfaye)
+
+[Open detailed stats for antoniogarrote/erlfaye](https://reviewgithub.com/rep/antoniogarrote/erlfaye)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 2 | 
 | 2022-09-07 | 11 | 2 | 
 
-
-[Detailed charts & statistics for antoniogarrote/erlfaye](https://reviewgithub.com/rep/antoniogarrote/erlfaye)

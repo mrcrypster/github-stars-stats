@@ -1,12 +1,14 @@
 # ddsjoberg/gtsummary - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 84
 
 ★ Stars: 721
 
 [Open repository](https://github.com/ddsjoberg/gtsummary)
+
+[Open detailed stats for ddsjoberg/gtsummary](https://reviewgithub.com/rep/ddsjoberg/gtsummary)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 699 | 81 | 
 | 2022-09-08 | 699 | 81 | 
 
-
-[Detailed charts & statistics for ddsjoberg/gtsummary](https://reviewgithub.com/rep/ddsjoberg/gtsummary)

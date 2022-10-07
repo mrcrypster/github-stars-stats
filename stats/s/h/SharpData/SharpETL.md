@@ -1,12 +1,14 @@
 # SharpData/SharpETL - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 31
 
 [Open repository](https://github.com/SharpData/SharpETL)
+
+[Open detailed stats for SharpData/SharpETL](https://reviewgithub.com/rep/SharpData/SharpETL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 3 | 
 | 2022-09-07 | 31 | 3 | 
 
-
-[Detailed charts & statistics for SharpData/SharpETL](https://reviewgithub.com/rep/SharpData/SharpETL)

@@ -1,12 +1,14 @@
 # Azure/cloud-rolesandops - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 68
 
 [Open repository](https://github.com/Azure/cloud-rolesandops)
+
+[Open detailed stats for Azure/cloud-rolesandops](https://reviewgithub.com/rep/Azure/cloud-rolesandops)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 68 | 14 | 
 | 2022-09-08 | 68 | 14 | 
 
-
-[Detailed charts & statistics for Azure/cloud-rolesandops](https://reviewgithub.com/rep/Azure/cloud-rolesandops)

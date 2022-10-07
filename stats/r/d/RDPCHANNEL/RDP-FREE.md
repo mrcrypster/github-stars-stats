@@ -1,12 +1,14 @@
 # RDPCHANNEL/RDP-FREE - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/RDPCHANNEL/RDP-FREE)
+
+[Open detailed stats for RDPCHANNEL/RDP-FREE](https://reviewgithub.com/rep/RDPCHANNEL/RDP-FREE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 15 | 
 | 2022-09-08 | - | 15 | 
 
-
-[Detailed charts & statistics for RDPCHANNEL/RDP-FREE](https://reviewgithub.com/rep/RDPCHANNEL/RDP-FREE)

@@ -1,12 +1,14 @@
 # OpenRailwayMap/OpenRailwayMap-CartoCSS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 9
 
 [Open repository](https://github.com/OpenRailwayMap/OpenRailwayMap-CartoCSS)
+
+[Open detailed stats for OpenRailwayMap/OpenRailwayMap-CartoCSS](https://reviewgithub.com/rep/OpenRailwayMap/OpenRailwayMap-CartoCSS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 9 | 14 | 
 | 2022-09-07 | 9 | 14 | 
 
-
-[Detailed charts & statistics for OpenRailwayMap/OpenRailwayMap-CartoCSS](https://reviewgithub.com/rep/OpenRailwayMap/OpenRailwayMap-CartoCSS)

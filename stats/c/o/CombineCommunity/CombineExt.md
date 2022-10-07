@@ -1,12 +1,14 @@
 # CombineCommunity/CombineExt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 129
 
 ★ Stars: 1310
 
 [Open repository](https://github.com/CombineCommunity/CombineExt)
+
+[Open detailed stats for CombineCommunity/CombineExt](https://reviewgithub.com/rep/CombineCommunity/CombineExt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1285 | 126 | 
 | 2022-09-08 | 1283 | 125 | 
 
-
-[Detailed charts & statistics for CombineCommunity/CombineExt](https://reviewgithub.com/rep/CombineCommunity/CombineExt)

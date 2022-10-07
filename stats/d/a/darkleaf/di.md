@@ -1,12 +1,14 @@
 # darkleaf/di - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/darkleaf/di)
+
+[Open detailed stats for darkleaf/di](https://reviewgithub.com/rep/darkleaf/di)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 17 | - | 
 | 2022-09-08 | 17 | - | 
 
-
-[Detailed charts & statistics for darkleaf/di](https://reviewgithub.com/rep/darkleaf/di)

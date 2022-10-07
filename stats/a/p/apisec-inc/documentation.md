@@ -1,12 +1,14 @@
 # apisec-inc/documentation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/apisec-inc/documentation)
+
+[Open detailed stats for apisec-inc/documentation](https://reviewgithub.com/rep/apisec-inc/documentation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | - | 
 | 2022-09-07 | 25 | - | 
 
-
-[Detailed charts & statistics for apisec-inc/documentation](https://reviewgithub.com/rep/apisec-inc/documentation)

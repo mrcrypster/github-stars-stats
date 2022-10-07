@@ -1,12 +1,14 @@
 # tmax-cloud/argocd-installer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 2
 
 [Open repository](https://github.com/tmax-cloud/argocd-installer)
+
+[Open detailed stats for tmax-cloud/argocd-installer](https://reviewgithub.com/rep/tmax-cloud/argocd-installer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 20 | 
 | 2022-09-07 | 2 | 20 | 
 
-
-[Detailed charts & statistics for tmax-cloud/argocd-installer](https://reviewgithub.com/rep/tmax-cloud/argocd-installer)

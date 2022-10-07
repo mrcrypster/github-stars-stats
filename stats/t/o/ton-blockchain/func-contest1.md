@@ -1,12 +1,14 @@
 # ton-blockchain/func-contest1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 31
 
 [Open repository](https://github.com/ton-blockchain/func-contest1)
+
+[Open detailed stats for ton-blockchain/func-contest1](https://reviewgithub.com/rep/ton-blockchain/func-contest1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 15 | 
 | 2022-09-07 | 30 | 15 | 
 
-
-[Detailed charts & statistics for ton-blockchain/func-contest1](https://reviewgithub.com/rep/ton-blockchain/func-contest1)

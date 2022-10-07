@@ -1,12 +1,14 @@
 # jaegertracing/jaeger-idl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 63
 
 ★ Stars: 64
 
 [Open repository](https://github.com/jaegertracing/jaeger-idl)
+
+[Open detailed stats for jaegertracing/jaeger-idl](https://reviewgithub.com/rep/jaegertracing/jaeger-idl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 62 | 62 | 
 | 2022-09-07 | 62 | 62 | 
 
-
-[Detailed charts & statistics for jaegertracing/jaeger-idl](https://reviewgithub.com/rep/jaegertracing/jaeger-idl)

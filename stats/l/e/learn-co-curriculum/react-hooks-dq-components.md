@@ -1,12 +1,14 @@
 # learn-co-curriculum/react-hooks-dq-components - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 228
 
 ★ Stars: 3
 
 [Open repository](https://github.com/learn-co-curriculum/react-hooks-dq-components)
+
+[Open detailed stats for learn-co-curriculum/react-hooks-dq-components](https://reviewgithub.com/rep/learn-co-curriculum/react-hooks-dq-components)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 200 | 
 | 2022-09-07 | 2 | 200 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/react-hooks-dq-components](https://reviewgithub.com/rep/learn-co-curriculum/react-hooks-dq-components)

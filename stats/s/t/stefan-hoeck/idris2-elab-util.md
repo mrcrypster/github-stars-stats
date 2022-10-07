@@ -1,12 +1,14 @@
 # stefan-hoeck/idris2-elab-util - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 68
 
 [Open repository](https://github.com/stefan-hoeck/idris2-elab-util)
+
+[Open detailed stats for stefan-hoeck/idris2-elab-util](https://reviewgithub.com/rep/stefan-hoeck/idris2-elab-util)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 68 | 13 | 
 | 2022-09-08 | 68 | 13 | 
 
-
-[Detailed charts & statistics for stefan-hoeck/idris2-elab-util](https://reviewgithub.com/rep/stefan-hoeck/idris2-elab-util)

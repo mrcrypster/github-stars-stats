@@ -1,12 +1,14 @@
 # LauChiuSui/MATLAB4AI - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 6
 
 [Open repository](https://github.com/LauChiuSui/MATLAB4AI)
+
+[Open detailed stats for LauChiuSui/MATLAB4AI](https://reviewgithub.com/rep/LauChiuSui/MATLAB4AI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 6 | 
 | 2022-09-07 | 6 | 6 | 
 
-
-[Detailed charts & statistics for LauChiuSui/MATLAB4AI](https://reviewgithub.com/rep/LauChiuSui/MATLAB4AI)

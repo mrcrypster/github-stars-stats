@@ -1,12 +1,14 @@
 # emacsorphanage/popwin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 448
 
 [Open repository](https://github.com/emacsorphanage/popwin)
+
+[Open detailed stats for emacsorphanage/popwin](https://reviewgithub.com/rep/emacsorphanage/popwin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 445 | 45 | 
 | 2022-09-08 | 445 | 45 | 
 
-
-[Detailed charts & statistics for emacsorphanage/popwin](https://reviewgithub.com/rep/emacsorphanage/popwin)

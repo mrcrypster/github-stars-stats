@@ -1,12 +1,14 @@
 # snu-sf-class/pp202202-private - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 4
 
 [Open repository](https://github.com/snu-sf-class/pp202202-private)
+
+[Open detailed stats for snu-sf-class/pp202202-private](https://reviewgithub.com/rep/snu-sf-class/pp202202-private)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-27 | 3 | 1 | 
 | 2022-09-26 | 2 | 1 | 
 
-
-[Detailed charts & statistics for snu-sf-class/pp202202-private](https://reviewgithub.com/rep/snu-sf-class/pp202202-private)

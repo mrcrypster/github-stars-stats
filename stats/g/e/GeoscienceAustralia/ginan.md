@@ -1,12 +1,14 @@
 # GeoscienceAustralia/ginan - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 111
 
 [Open repository](https://github.com/GeoscienceAustralia/ginan)
+
+[Open detailed stats for GeoscienceAustralia/ginan](https://reviewgithub.com/rep/GeoscienceAustralia/ginan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 107 | 62 | 
 | 2022-09-08 | 107 | 62 | 
 
-
-[Detailed charts & statistics for GeoscienceAustralia/ginan](https://reviewgithub.com/rep/GeoscienceAustralia/ginan)

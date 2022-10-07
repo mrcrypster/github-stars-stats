@@ -1,12 +1,14 @@
 # syou6162/fobos_multiclass_clj - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/syou6162/fobos_multiclass_clj)
+
+[Open detailed stats for syou6162/fobos_multiclass_clj](https://reviewgithub.com/rep/syou6162/fobos_multiclass_clj)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for syou6162/fobos_multiclass_clj](https://reviewgithub.com/rep/syou6162/fobos_multiclass_clj)

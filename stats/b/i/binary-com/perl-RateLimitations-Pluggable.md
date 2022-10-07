@@ -1,12 +1,14 @@
 # binary-com/perl-RateLimitations-Pluggable - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/binary-com/perl-RateLimitations-Pluggable)
+
+[Open detailed stats for binary-com/perl-RateLimitations-Pluggable](https://reviewgithub.com/rep/binary-com/perl-RateLimitations-Pluggable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 3 | 
 | 2022-09-08 | 1 | 3 | 
 
-
-[Detailed charts & statistics for binary-com/perl-RateLimitations-Pluggable](https://reviewgithub.com/rep/binary-com/perl-RateLimitations-Pluggable)

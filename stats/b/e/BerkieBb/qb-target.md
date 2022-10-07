@@ -1,12 +1,14 @@
 # BerkieBb/qb-target - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 207
 
 ★ Stars: 73
 
 [Open repository](https://github.com/BerkieBb/qb-target)
+
+[Open detailed stats for BerkieBb/qb-target](https://reviewgithub.com/rep/BerkieBb/qb-target)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 73 | 200 | 
 | 2022-09-08 | 73 | 200 | 
 
-
-[Detailed charts & statistics for BerkieBb/qb-target](https://reviewgithub.com/rep/BerkieBb/qb-target)

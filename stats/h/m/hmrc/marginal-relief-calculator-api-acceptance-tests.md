@@ -1,12 +1,14 @@
 # hmrc/marginal-relief-calculator-api-acceptance-tests - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/hmrc/marginal-relief-calculator-api-acceptance-tests)
+
+[Open detailed stats for hmrc/marginal-relief-calculator-api-acceptance-tests](https://reviewgithub.com/rep/hmrc/marginal-relief-calculator-api-acceptance-tests)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for hmrc/marginal-relief-calculator-api-acceptance-tests](https://reviewgithub.com/rep/hmrc/marginal-relief-calculator-api-acceptance-tests)

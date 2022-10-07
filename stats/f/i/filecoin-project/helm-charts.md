@@ -1,12 +1,14 @@
 # filecoin-project/helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 3
 
 [Open repository](https://github.com/filecoin-project/helm-charts)
+
+[Open detailed stats for filecoin-project/helm-charts](https://reviewgithub.com/rep/filecoin-project/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 8 | 
 | 2022-09-08 | 3 | 8 | 
 
-
-[Detailed charts & statistics for filecoin-project/helm-charts](https://reviewgithub.com/rep/filecoin-project/helm-charts)

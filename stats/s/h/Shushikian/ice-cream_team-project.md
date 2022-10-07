@@ -1,12 +1,14 @@
 # Shushikian/ice-cream_team-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Shushikian/ice-cream_team-project)
+
+[Open detailed stats for Shushikian/ice-cream_team-project](https://reviewgithub.com/rep/Shushikian/ice-cream_team-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for Shushikian/ice-cream_team-project](https://reviewgithub.com/rep/Shushikian/ice-cream_team-project)

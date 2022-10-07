@@ -1,12 +1,14 @@
 # Ferlab-Ste-Justine/vm-image-builds - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Ferlab-Ste-Justine/vm-image-builds)
+
+[Open detailed stats for Ferlab-Ste-Justine/vm-image-builds](https://reviewgithub.com/rep/Ferlab-Ste-Justine/vm-image-builds)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | - | - | 
 | 2022-09-17 | - | - | 
 
-
-[Detailed charts & statistics for Ferlab-Ste-Justine/vm-image-builds](https://reviewgithub.com/rep/Ferlab-Ste-Justine/vm-image-builds)

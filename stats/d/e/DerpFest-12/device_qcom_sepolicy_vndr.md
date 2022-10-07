@@ -1,12 +1,14 @@
 # DerpFest-12/device_qcom_sepolicy_vndr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DerpFest-12/device_qcom_sepolicy_vndr)
+
+[Open detailed stats for DerpFest-12/device_qcom_sepolicy_vndr](https://reviewgithub.com/rep/DerpFest-12/device_qcom_sepolicy_vndr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for DerpFest-12/device_qcom_sepolicy_vndr](https://reviewgithub.com/rep/DerpFest-12/device_qcom_sepolicy_vndr)

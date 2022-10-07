@@ -1,12 +1,14 @@
 # andreypopp/julia-repl-vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/andreypopp/julia-repl-vim)
+
+[Open detailed stats for andreypopp/julia-repl-vim](https://reviewgithub.com/rep/andreypopp/julia-repl-vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | - | 
 | 2022-09-07 | 17 | - | 
 
-
-[Detailed charts & statistics for andreypopp/julia-repl-vim](https://reviewgithub.com/rep/andreypopp/julia-repl-vim)

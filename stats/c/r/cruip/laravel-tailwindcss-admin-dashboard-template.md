@@ -1,12 +1,14 @@
 # cruip/laravel-tailwindcss-admin-dashboard-template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 23
 
 [Open repository](https://github.com/cruip/laravel-tailwindcss-admin-dashboard-template)
+
+[Open detailed stats for cruip/laravel-tailwindcss-admin-dashboard-template](https://reviewgithub.com/rep/cruip/laravel-tailwindcss-admin-dashboard-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 3 | 
 | 2022-09-08 | 16 | 3 | 
 
-
-[Detailed charts & statistics for cruip/laravel-tailwindcss-admin-dashboard-template](https://reviewgithub.com/rep/cruip/laravel-tailwindcss-admin-dashboard-template)

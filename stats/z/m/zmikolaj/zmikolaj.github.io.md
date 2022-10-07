@@ -1,12 +1,14 @@
 # zmikolaj/zmikolaj.github.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/zmikolaj/zmikolaj.github.io)
+
+[Open detailed stats for zmikolaj/zmikolaj.github.io](https://reviewgithub.com/rep/zmikolaj/zmikolaj.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 3 | 
 | 2022-09-07 | 4 | 3 | 
 
-
-[Detailed charts & statistics for zmikolaj/zmikolaj.github.io](https://reviewgithub.com/rep/zmikolaj/zmikolaj.github.io)

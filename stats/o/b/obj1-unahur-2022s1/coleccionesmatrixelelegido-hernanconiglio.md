@@ -1,12 +1,14 @@
 # obj1-unahur-2022s1/coleccionesmatrixelelegido-hernanconiglio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/obj1-unahur-2022s1/coleccionesmatrixelelegido-hernanconiglio)
+
+[Open detailed stats for obj1-unahur-2022s1/coleccionesmatrixelelegido-hernanconiglio](https://reviewgithub.com/rep/obj1-unahur-2022s1/coleccionesmatrixelelegido-hernanconiglio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for obj1-unahur-2022s1/coleccionesmatrixelelegido-hernanconiglio](https://reviewgithub.com/rep/obj1-unahur-2022s1/coleccionesmatrixelelegido-hernanconiglio)

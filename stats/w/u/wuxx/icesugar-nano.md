@@ -1,12 +1,14 @@
 # wuxx/icesugar-nano - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 62
 
 [Open repository](https://github.com/wuxx/icesugar-nano)
+
+[Open detailed stats for wuxx/icesugar-nano](https://reviewgithub.com/rep/wuxx/icesugar-nano)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 61 | 14 | 
 | 2022-09-08 | 61 | 14 | 
 
-
-[Detailed charts & statistics for wuxx/icesugar-nano](https://reviewgithub.com/rep/wuxx/icesugar-nano)

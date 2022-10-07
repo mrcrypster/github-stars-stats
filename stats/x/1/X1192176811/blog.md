@@ -1,12 +1,14 @@
 # X1192176811/blog - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 428
 
 ★ Stars: 1648
 
 [Open repository](https://github.com/X1192176811/blog)
+
+[Open detailed stats for X1192176811/blog](https://reviewgithub.com/rep/X1192176811/blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1497 | 398 | 
 | 2022-09-07 | 1490 | 395 | 
 
-
-[Detailed charts & statistics for X1192176811/blog](https://reviewgithub.com/rep/X1192176811/blog)

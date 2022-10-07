@@ -1,12 +1,14 @@
 # purescript/purescript-foreign - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 45
 
 ★ Stars: 62
 
 [Open repository](https://github.com/purescript/purescript-foreign)
+
+[Open detailed stats for purescript/purescript-foreign](https://reviewgithub.com/rep/purescript/purescript-foreign)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 62 | 45 | 
 | 2022-09-08 | 62 | 45 | 
 
-
-[Detailed charts & statistics for purescript/purescript-foreign](https://reviewgithub.com/rep/purescript/purescript-foreign)

@@ -1,12 +1,14 @@
 # huff-language/huff-examples - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 75
 
 [Open repository](https://github.com/huff-language/huff-examples)
+
+[Open detailed stats for huff-language/huff-examples](https://reviewgithub.com/rep/huff-language/huff-examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 70 | 8 | 
 | 2022-09-08 | 70 | 8 | 
 
-
-[Detailed charts & statistics for huff-language/huff-examples](https://reviewgithub.com/rep/huff-language/huff-examples)

@@ -1,12 +1,14 @@
 # NorthwesternSoftwareConstructionS22/oracle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/NorthwesternSoftwareConstructionS22/oracle)
+
+[Open detailed stats for NorthwesternSoftwareConstructionS22/oracle](https://reviewgithub.com/rep/NorthwesternSoftwareConstructionS22/oracle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
 
-
-[Detailed charts & statistics for NorthwesternSoftwareConstructionS22/oracle](https://reviewgithub.com/rep/NorthwesternSoftwareConstructionS22/oracle)

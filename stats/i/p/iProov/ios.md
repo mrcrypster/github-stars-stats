@@ -1,12 +1,14 @@
 # iProov/ios - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 20
 
 [Open repository](https://github.com/iProov/ios)
+
+[Open detailed stats for iProov/ios](https://reviewgithub.com/rep/iProov/ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 9 | 
 | 2022-09-08 | 20 | 9 | 
 
-
-[Detailed charts & statistics for iProov/ios](https://reviewgithub.com/rep/iProov/ios)

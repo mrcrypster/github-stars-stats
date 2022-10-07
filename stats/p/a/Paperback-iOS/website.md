@@ -1,12 +1,14 @@
 # Paperback-iOS/website - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 89
 
 ★ Stars: 42
 
 [Open repository](https://github.com/Paperback-iOS/website)
+
+[Open detailed stats for Paperback-iOS/website](https://reviewgithub.com/rep/Paperback-iOS/website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | 90 | 
 | 2022-09-08 | 39 | 90 | 
 
-
-[Detailed charts & statistics for Paperback-iOS/website](https://reviewgithub.com/rep/Paperback-iOS/website)

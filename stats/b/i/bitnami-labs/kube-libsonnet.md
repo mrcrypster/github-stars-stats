@@ -1,12 +1,14 @@
 # bitnami-labs/kube-libsonnet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 164
 
 [Open repository](https://github.com/bitnami-labs/kube-libsonnet)
+
+[Open detailed stats for bitnami-labs/kube-libsonnet](https://reviewgithub.com/rep/bitnami-labs/kube-libsonnet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 161 | 48 | 
 | 2022-09-07 | 161 | 48 | 
 
-
-[Detailed charts & statistics for bitnami-labs/kube-libsonnet](https://reviewgithub.com/rep/bitnami-labs/kube-libsonnet)

@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-4-rails-routing-basics-readme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1410
 
 ★ Stars: 0
 
 [Open repository](https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-readme)
+
+[Open detailed stats for learn-co-curriculum/phase-4-rails-routing-basics-readme](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-routing-basics-readme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 1104 | 
 | 2022-09-07 | - | 1104 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-4-rails-routing-basics-readme](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-routing-basics-readme)

@@ -1,12 +1,14 @@
 # mrdomino/vim-utf8 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mrdomino/vim-utf8)
+
+[Open detailed stats for mrdomino/vim-utf8](https://reviewgithub.com/rep/mrdomino/vim-utf8)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for mrdomino/vim-utf8](https://reviewgithub.com/rep/mrdomino/vim-utf8)

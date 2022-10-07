@@ -1,12 +1,14 @@
 # wiragunajaya/windowRDP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 0
 
 [Open repository](https://github.com/wiragunajaya/windowRDP)
+
+[Open detailed stats for wiragunajaya/windowRDP](https://reviewgithub.com/rep/wiragunajaya/windowRDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 43 | 
 | 2022-09-07 | - | 43 | 
 
-
-[Detailed charts & statistics for wiragunajaya/windowRDP](https://reviewgithub.com/rep/wiragunajaya/windowRDP)

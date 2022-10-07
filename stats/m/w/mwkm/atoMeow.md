@@ -1,12 +1,14 @@
 # mwkm/atoMeow - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 140
 
 [Open repository](https://github.com/mwkm/atoMeow)
+
+[Open detailed stats for mwkm/atoMeow](https://reviewgithub.com/rep/mwkm/atoMeow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 131 | 13 | 
 | 2022-09-07 | 131 | 13 | 
 
-
-[Detailed charts & statistics for mwkm/atoMeow](https://reviewgithub.com/rep/mwkm/atoMeow)

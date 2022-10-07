@@ -1,12 +1,14 @@
 # HoussemDellai/azure-bicep-course - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 16
 
 [Open repository](https://github.com/HoussemDellai/azure-bicep-course)
+
+[Open detailed stats for HoussemDellai/azure-bicep-course](https://reviewgithub.com/rep/HoussemDellai/azure-bicep-course)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 29 | 
 | 2022-09-07 | 15 | 28 | 
 
-
-[Detailed charts & statistics for HoussemDellai/azure-bicep-course](https://reviewgithub.com/rep/HoussemDellai/azure-bicep-course)

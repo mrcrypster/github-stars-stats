@@ -1,12 +1,14 @@
 # tuna/THU-Beamer-Theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 216
 
 [Open repository](https://github.com/tuna/THU-Beamer-Theme)
+
+[Open detailed stats for tuna/THU-Beamer-Theme](https://reviewgithub.com/rep/tuna/THU-Beamer-Theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 214 | 54 | 
 | 2022-09-07 | 214 | 54 | 
 
-
-[Detailed charts & statistics for tuna/THU-Beamer-Theme](https://reviewgithub.com/rep/tuna/THU-Beamer-Theme)

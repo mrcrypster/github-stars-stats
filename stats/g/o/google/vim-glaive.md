@@ -1,12 +1,14 @@
 # google/vim-glaive - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 73
 
 [Open repository](https://github.com/google/vim-glaive)
+
+[Open detailed stats for google/vim-glaive](https://reviewgithub.com/rep/google/vim-glaive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | 73 | 21 | 
 | 2022-09-27 | 73 | 21 | 
 
-
-[Detailed charts & statistics for google/vim-glaive](https://reviewgithub.com/rep/google/vim-glaive)

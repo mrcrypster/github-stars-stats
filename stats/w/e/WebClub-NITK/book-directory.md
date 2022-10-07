@@ -1,12 +1,14 @@
 # WebClub-NITK/book-directory - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/WebClub-NITK/book-directory)
+
+[Open detailed stats for WebClub-NITK/book-directory](https://reviewgithub.com/rep/WebClub-NITK/book-directory)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
 
-
-[Detailed charts & statistics for WebClub-NITK/book-directory](https://reviewgithub.com/rep/WebClub-NITK/book-directory)

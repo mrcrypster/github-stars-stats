@@ -1,12 +1,14 @@
 # maxwellsayles/binary-indexed-tree - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/maxwellsayles/binary-indexed-tree)
+
+[Open detailed stats for maxwellsayles/binary-indexed-tree](https://reviewgithub.com/rep/maxwellsayles/binary-indexed-tree)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for maxwellsayles/binary-indexed-tree](https://reviewgithub.com/rep/maxwellsayles/binary-indexed-tree)

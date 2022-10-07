@@ -1,12 +1,14 @@
 # maxdebayser/dissertation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/maxdebayser/dissertation)
+
+[Open detailed stats for maxdebayser/dissertation](https://reviewgithub.com/rep/maxdebayser/dissertation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-30 | - | - | 
 | 2022-09-29 | - | - | 
 
-
-[Detailed charts & statistics for maxdebayser/dissertation](https://reviewgithub.com/rep/maxdebayser/dissertation)

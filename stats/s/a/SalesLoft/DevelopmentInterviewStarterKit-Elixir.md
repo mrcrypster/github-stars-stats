@@ -1,12 +1,14 @@
 # SalesLoft/DevelopmentInterviewStarterKit-Elixir - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/SalesLoft/DevelopmentInterviewStarterKit-Elixir)
+
+[Open detailed stats for SalesLoft/DevelopmentInterviewStarterKit-Elixir](https://reviewgithub.com/rep/SalesLoft/DevelopmentInterviewStarterKit-Elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for SalesLoft/DevelopmentInterviewStarterKit-Elixir](https://reviewgithub.com/rep/SalesLoft/DevelopmentInterviewStarterKit-Elixir)

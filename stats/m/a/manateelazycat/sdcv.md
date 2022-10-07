@@ -1,12 +1,14 @@
 # manateelazycat/sdcv - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 56
 
 [Open repository](https://github.com/manateelazycat/sdcv)
+
+[Open detailed stats for manateelazycat/sdcv](https://reviewgithub.com/rep/manateelazycat/sdcv)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 15 | 
 | 2022-09-07 | 51 | 15 | 
 
-
-[Detailed charts & statistics for manateelazycat/sdcv](https://reviewgithub.com/rep/manateelazycat/sdcv)

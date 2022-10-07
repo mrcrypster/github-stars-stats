@@ -1,12 +1,14 @@
 # twitter/opensource-website - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 602
 
 ★ Stars: 1922
 
 [Open repository](https://github.com/twitter/opensource-website)
+
+[Open detailed stats for twitter/opensource-website](https://reviewgithub.com/rep/twitter/opensource-website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1912 | 601 | 
 | 2022-09-08 | 1912 | 601 | 
 
-
-[Detailed charts & statistics for twitter/opensource-website](https://reviewgithub.com/rep/twitter/opensource-website)

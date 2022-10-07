@@ -1,12 +1,14 @@
 # tuxable-ltd/meta-scikit-learn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 4
 
 [Open repository](https://github.com/tuxable-ltd/meta-scikit-learn)
+
+[Open detailed stats for tuxable-ltd/meta-scikit-learn](https://reviewgithub.com/rep/tuxable-ltd/meta-scikit-learn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4 | 8 | 
 | 2022-09-07 | 4 | 8 | 
 
-
-[Detailed charts & statistics for tuxable-ltd/meta-scikit-learn](https://reviewgithub.com/rep/tuxable-ltd/meta-scikit-learn)

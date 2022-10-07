@@ -1,12 +1,14 @@
 # codepath/and102-lab3-starter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 154
 
 ★ Stars: 2
 
 [Open repository](https://github.com/codepath/and102-lab3-starter)
+
+[Open detailed stats for codepath/and102-lab3-starter](https://reviewgithub.com/rep/codepath/and102-lab3-starter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | 2 | 137 | 
 | 2022-09-25 | 1 | 135 | 
 
-
-[Detailed charts & statistics for codepath/and102-lab3-starter](https://reviewgithub.com/rep/codepath/and102-lab3-starter)

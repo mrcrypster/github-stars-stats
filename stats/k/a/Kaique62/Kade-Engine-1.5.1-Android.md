@@ -1,12 +1,14 @@
 # Kaique62/Kade-Engine-1.5.1-Android - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 6
 
 [Open repository](https://github.com/Kaique62/Kade-Engine-1.5.1-Android)
+
+[Open detailed stats for Kaique62/Kade-Engine-1.5.1-Android](https://reviewgithub.com/rep/Kaique62/Kade-Engine-1.5.1-Android)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 28 | 
 | 2022-09-07 | 6 | 28 | 
 
-
-[Detailed charts & statistics for Kaique62/Kade-Engine-1.5.1-Android](https://reviewgithub.com/rep/Kaique62/Kade-Engine-1.5.1-Android)

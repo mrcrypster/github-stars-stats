@@ -1,12 +1,14 @@
 # AustinCodingAcademy/311_wk4_day1_crud - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 177
 
 ★ Stars: 1
 
 [Open repository](https://github.com/AustinCodingAcademy/311_wk4_day1_crud)
+
+[Open detailed stats for AustinCodingAcademy/311_wk4_day1_crud](https://reviewgithub.com/rep/AustinCodingAcademy/311_wk4_day1_crud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 173 | 
 | 2022-09-07 | 1 | 172 | 
 
-
-[Detailed charts & statistics for AustinCodingAcademy/311_wk4_day1_crud](https://reviewgithub.com/rep/AustinCodingAcademy/311_wk4_day1_crud)

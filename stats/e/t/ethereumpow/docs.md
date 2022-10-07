@@ -1,12 +1,14 @@
 # ethereumpow/docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 24
 
 [Open repository](https://github.com/ethereumpow/docs)
+
+[Open detailed stats for ethereumpow/docs](https://reviewgithub.com/rep/ethereumpow/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 18 | 8 | 
 | 2022-09-17 | 16 | 9 | 
 
-
-[Detailed charts & statistics for ethereumpow/docs](https://reviewgithub.com/rep/ethereumpow/docs)

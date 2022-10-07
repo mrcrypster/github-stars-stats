@@ -1,12 +1,14 @@
 # dfithian/chez-grater - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 36
 
 [Open repository](https://github.com/dfithian/chez-grater)
+
+[Open detailed stats for dfithian/chez-grater](https://reviewgithub.com/rep/dfithian/chez-grater)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 1 | 
 | 2022-09-07 | 36 | 1 | 
 
-
-[Detailed charts & statistics for dfithian/chez-grater](https://reviewgithub.com/rep/dfithian/chez-grater)

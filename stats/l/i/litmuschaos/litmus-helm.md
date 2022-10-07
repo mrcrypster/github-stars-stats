@@ -1,12 +1,14 @@
 # litmuschaos/litmus-helm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 59
 
 ★ Stars: 31
 
 [Open repository](https://github.com/litmuschaos/litmus-helm)
+
+[Open detailed stats for litmuschaos/litmus-helm](https://reviewgithub.com/rep/litmuschaos/litmus-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 31 | 58 | 
 | 2022-09-07 | 31 | 58 | 
 
-
-[Detailed charts & statistics for litmuschaos/litmus-helm](https://reviewgithub.com/rep/litmuschaos/litmus-helm)

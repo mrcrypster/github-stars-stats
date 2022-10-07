@@ -1,12 +1,14 @@
 # tintinweb/smart-contract-sanctuary-tron - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 11
 
 [Open repository](https://github.com/tintinweb/smart-contract-sanctuary-tron)
+
+[Open detailed stats for tintinweb/smart-contract-sanctuary-tron](https://reviewgithub.com/rep/tintinweb/smart-contract-sanctuary-tron)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 1 | 
 | 2022-09-08 | 8 | 1 | 
 
-
-[Detailed charts & statistics for tintinweb/smart-contract-sanctuary-tron](https://reviewgithub.com/rep/tintinweb/smart-contract-sanctuary-tron)

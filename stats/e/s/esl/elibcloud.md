@@ -1,12 +1,14 @@
 # esl/elibcloud - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 9
 
 [Open repository](https://github.com/esl/elibcloud)
+
+[Open detailed stats for esl/elibcloud](https://reviewgithub.com/rep/esl/elibcloud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 7 | 
 | 2022-09-07 | 9 | 7 | 
 
-
-[Detailed charts & statistics for esl/elibcloud](https://reviewgithub.com/rep/esl/elibcloud)

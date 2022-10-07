@@ -1,12 +1,14 @@
 # jship/monad-logger-aeson - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 11
 
 [Open repository](https://github.com/jship/monad-logger-aeson)
+
+[Open detailed stats for jship/monad-logger-aeson](https://reviewgithub.com/rep/jship/monad-logger-aeson)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 11 | 1 | 
 | 2022-09-22 | 11 | 1 | 
 
-
-[Detailed charts & statistics for jship/monad-logger-aeson](https://reviewgithub.com/rep/jship/monad-logger-aeson)

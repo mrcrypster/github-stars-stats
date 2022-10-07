@@ -1,12 +1,14 @@
 # binary-com/perl-feed-phasecheck - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-feed-phasecheck)
+
+[Open detailed stats for binary-com/perl-feed-phasecheck](https://reviewgithub.com/rep/binary-com/perl-feed-phasecheck)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for binary-com/perl-feed-phasecheck](https://reviewgithub.com/rep/binary-com/perl-feed-phasecheck)

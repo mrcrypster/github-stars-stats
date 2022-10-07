@@ -1,12 +1,14 @@
 # npuichigoB/typicode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 50
 
 [Open repository](https://github.com/npuichigoB/typicode)
+
+[Open detailed stats for npuichigoB/typicode](https://reviewgithub.com/rep/npuichigoB/typicode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 50 | 27 | 
 | 2022-09-08 | 50 | 27 | 
 
-
-[Detailed charts & statistics for npuichigoB/typicode](https://reviewgithub.com/rep/npuichigoB/typicode)

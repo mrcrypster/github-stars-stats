@@ -1,12 +1,14 @@
 # Flash-X/PARAMESH-for-Flash-X - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Flash-X/PARAMESH-for-Flash-X)
+
+[Open detailed stats for Flash-X/PARAMESH-for-Flash-X](https://reviewgithub.com/rep/Flash-X/PARAMESH-for-Flash-X)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for Flash-X/PARAMESH-for-Flash-X](https://reviewgithub.com/rep/Flash-X/PARAMESH-for-Flash-X)

@@ -1,12 +1,14 @@
 # metal-stack/helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/metal-stack/helm-charts)
+
+[Open detailed stats for metal-stack/helm-charts](https://reviewgithub.com/rep/metal-stack/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | - | 1 | 
 | 2022-09-20 | - | 1 | 
 
-
-[Detailed charts & statistics for metal-stack/helm-charts](https://reviewgithub.com/rep/metal-stack/helm-charts)

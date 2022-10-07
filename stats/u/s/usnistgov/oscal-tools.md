@@ -1,12 +1,14 @@
 # usnistgov/oscal-tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 26
 
 [Open repository](https://github.com/usnistgov/oscal-tools)
+
+[Open detailed stats for usnistgov/oscal-tools](https://reviewgithub.com/rep/usnistgov/oscal-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 17 | 
 | 2022-09-07 | 26 | 17 | 
 
-
-[Detailed charts & statistics for usnistgov/oscal-tools](https://reviewgithub.com/rep/usnistgov/oscal-tools)

@@ -1,12 +1,14 @@
 # DSCKGEC/SeatAndEat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 3
 
 [Open repository](https://github.com/DSCKGEC/SeatAndEat)
+
+[Open detailed stats for DSCKGEC/SeatAndEat](https://reviewgithub.com/rep/DSCKGEC/SeatAndEat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 16 | 
 | 2022-09-07 | 3 | 16 | 
 
-
-[Detailed charts & statistics for DSCKGEC/SeatAndEat](https://reviewgithub.com/rep/DSCKGEC/SeatAndEat)

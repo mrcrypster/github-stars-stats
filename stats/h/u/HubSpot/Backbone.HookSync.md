@@ -1,12 +1,14 @@
 # HubSpot/Backbone.HookSync - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 9
 
 [Open repository](https://github.com/HubSpot/Backbone.HookSync)
+
+[Open detailed stats for HubSpot/Backbone.HookSync](https://reviewgithub.com/rep/HubSpot/Backbone.HookSync)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 2 | 
 | 2022-09-07 | 9 | 2 | 
 
-
-[Detailed charts & statistics for HubSpot/Backbone.HookSync](https://reviewgithub.com/rep/HubSpot/Backbone.HookSync)

@@ -1,12 +1,14 @@
 # Lexikos/AutoHotkey_L-Docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 505
 
 ★ Stars: 261
 
 [Open repository](https://github.com/Lexikos/AutoHotkey_L-Docs)
+
+[Open detailed stats for Lexikos/AutoHotkey_L-Docs](https://reviewgithub.com/rep/Lexikos/AutoHotkey_L-Docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 249 | 489 | 
 | 2022-09-07 | 248 | 489 | 
 
-
-[Detailed charts & statistics for Lexikos/AutoHotkey_L-Docs](https://reviewgithub.com/rep/Lexikos/AutoHotkey_L-Docs)

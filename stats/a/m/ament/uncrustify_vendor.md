@@ -1,12 +1,14 @@
 # ament/uncrustify_vendor - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ament/uncrustify_vendor)
+
+[Open detailed stats for ament/uncrustify_vendor](https://reviewgithub.com/rep/ament/uncrustify_vendor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 9 | 
 | 2022-09-07 | - | 9 | 
 
-
-[Detailed charts & statistics for ament/uncrustify_vendor](https://reviewgithub.com/rep/ament/uncrustify_vendor)

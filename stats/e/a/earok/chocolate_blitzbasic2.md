@@ -1,12 +1,14 @@
 # earok/chocolate_blitzbasic2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/earok/chocolate_blitzbasic2)
+
+[Open detailed stats for earok/chocolate_blitzbasic2](https://reviewgithub.com/rep/earok/chocolate_blitzbasic2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | - | 
 | 2022-09-08 | 6 | - | 
 
-
-[Detailed charts & statistics for earok/chocolate_blitzbasic2](https://reviewgithub.com/rep/earok/chocolate_blitzbasic2)

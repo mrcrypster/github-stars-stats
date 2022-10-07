@@ -1,12 +1,14 @@
 # prestonsn/windows-10-activation-script - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
 ★ Stars: 136
 
 [Open repository](https://github.com/prestonsn/windows-10-activation-script)
+
+[Open detailed stats for prestonsn/windows-10-activation-script](https://reviewgithub.com/rep/prestonsn/windows-10-activation-script)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 131 | 71 | 
 | 2022-09-07 | 130 | 71 | 
 
-
-[Detailed charts & statistics for prestonsn/windows-10-activation-script](https://reviewgithub.com/rep/prestonsn/windows-10-activation-script)

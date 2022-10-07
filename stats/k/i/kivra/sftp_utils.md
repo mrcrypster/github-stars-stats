@@ -1,12 +1,14 @@
 # kivra/sftp_utils - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 9
 
 [Open repository](https://github.com/kivra/sftp_utils)
+
+[Open detailed stats for kivra/sftp_utils](https://reviewgithub.com/rep/kivra/sftp_utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 9 | 4 | 
 | 2022-09-08 | 9 | 4 | 
 
-
-[Detailed charts & statistics for kivra/sftp_utils](https://reviewgithub.com/rep/kivra/sftp_utils)

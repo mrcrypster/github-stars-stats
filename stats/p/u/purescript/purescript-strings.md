@@ -1,12 +1,14 @@
 # purescript/purescript-strings - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 51
 
 [Open repository](https://github.com/purescript/purescript-strings)
+
+[Open detailed stats for purescript/purescript-strings](https://reviewgithub.com/rep/purescript/purescript-strings)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 51 | 63 | 
 | 2022-09-08 | 51 | 63 | 
 
-
-[Detailed charts & statistics for purescript/purescript-strings](https://reviewgithub.com/rep/purescript/purescript-strings)

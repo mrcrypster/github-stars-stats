@@ -1,12 +1,14 @@
 # oslabs-beta/Svetch - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 46
 
 [Open repository](https://github.com/oslabs-beta/Svetch)
+
+[Open detailed stats for oslabs-beta/Svetch](https://reviewgithub.com/rep/oslabs-beta/Svetch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 46 | - | 
 | 2022-09-07 | 46 | - | 
 
-
-[Detailed charts & statistics for oslabs-beta/Svetch](https://reviewgithub.com/rep/oslabs-beta/Svetch)

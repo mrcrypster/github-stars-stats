@@ -1,12 +1,14 @@
 # tiagodalloca/city-weather-clj - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
 
 [Open repository](https://github.com/tiagodalloca/city-weather-clj)
+
+[Open detailed stats for tiagodalloca/city-weather-clj](https://reviewgithub.com/rep/tiagodalloca/city-weather-clj)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 13 | - | 
 | 2022-09-08 | 13 | - | 
 
-
-[Detailed charts & statistics for tiagodalloca/city-weather-clj](https://reviewgithub.com/rep/tiagodalloca/city-weather-clj)

@@ -1,12 +1,14 @@
 # JuliaStats/StatsFuns.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 35
 
 ★ Stars: 203
 
 [Open repository](https://github.com/JuliaStats/StatsFuns.jl)
+
+[Open detailed stats for JuliaStats/StatsFuns.jl](https://reviewgithub.com/rep/JuliaStats/StatsFuns.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 203 | 35 | 
 | 2022-09-08 | 202 | 35 | 
 
-
-[Detailed charts & statistics for JuliaStats/StatsFuns.jl](https://reviewgithub.com/rep/JuliaStats/StatsFuns.jl)

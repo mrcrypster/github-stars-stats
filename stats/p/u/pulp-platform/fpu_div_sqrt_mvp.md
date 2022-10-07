@@ -1,12 +1,14 @@
 # pulp-platform/fpu_div_sqrt_mvp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 11
 
 [Open repository](https://github.com/pulp-platform/fpu_div_sqrt_mvp)
+
+[Open detailed stats for pulp-platform/fpu_div_sqrt_mvp](https://reviewgithub.com/rep/pulp-platform/fpu_div_sqrt_mvp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 10 | 11 | 
 | 2022-09-08 | 10 | 11 | 
 
-
-[Detailed charts & statistics for pulp-platform/fpu_div_sqrt_mvp](https://reviewgithub.com/rep/pulp-platform/fpu_div_sqrt_mvp)

@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-route53-cluster-hostname - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 56
 
 ★ Stars: 43
 
 [Open repository](https://github.com/cloudposse/terraform-aws-route53-cluster-hostname)
+
+[Open detailed stats for cloudposse/terraform-aws-route53-cluster-hostname](https://reviewgithub.com/rep/cloudposse/terraform-aws-route53-cluster-hostname)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 56 | 
 | 2022-09-07 | 43 | 56 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-route53-cluster-hostname](https://reviewgithub.com/rep/cloudposse/terraform-aws-route53-cluster-hostname)

@@ -1,12 +1,14 @@
 # Wizz1337/TikTokMassBotting - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 262
 
 ★ Stars: 512
 
 [Open repository](https://github.com/Wizz1337/TikTokMassBotting)
+
+[Open detailed stats for Wizz1337/TikTokMassBotting](https://reviewgithub.com/rep/Wizz1337/TikTokMassBotting)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 503 | 262 | 
 | 2022-09-07 | 502 | 262 | 
 
-
-[Detailed charts & statistics for Wizz1337/TikTokMassBotting](https://reviewgithub.com/rep/Wizz1337/TikTokMassBotting)

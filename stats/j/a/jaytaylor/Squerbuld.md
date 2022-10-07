@@ -1,12 +1,14 @@
 # jaytaylor/Squerbuld - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jaytaylor/Squerbuld)
+
+[Open detailed stats for jaytaylor/Squerbuld](https://reviewgithub.com/rep/jaytaylor/Squerbuld)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | - | - | 
 | 2022-10-04 | - | - | 
 
-
-[Detailed charts & statistics for jaytaylor/Squerbuld](https://reviewgithub.com/rep/jaytaylor/Squerbuld)

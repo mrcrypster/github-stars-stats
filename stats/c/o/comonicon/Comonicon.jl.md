@@ -1,12 +1,14 @@
 # comonicon/Comonicon.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 179
 
 [Open repository](https://github.com/comonicon/Comonicon.jl)
+
+[Open detailed stats for comonicon/Comonicon.jl](https://reviewgithub.com/rep/comonicon/Comonicon.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 176 | 14 | 
 | 2022-09-07 | 176 | 14 | 
 
-
-[Detailed charts & statistics for comonicon/Comonicon.jl](https://reviewgithub.com/rep/comonicon/Comonicon.jl)

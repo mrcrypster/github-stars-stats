@@ -1,12 +1,14 @@
 # crystal-community/jwt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 195
 
 [Open repository](https://github.com/crystal-community/jwt)
+
+[Open detailed stats for crystal-community/jwt](https://reviewgithub.com/rep/crystal-community/jwt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 195 | 24 | 
 | 2022-09-08 | 195 | 24 | 
 
-
-[Detailed charts & statistics for crystal-community/jwt](https://reviewgithub.com/rep/crystal-community/jwt)

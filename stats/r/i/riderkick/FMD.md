@@ -1,12 +1,14 @@
 # riderkick/FMD - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 205
 
 ★ Stars: 674
 
 [Open repository](https://github.com/riderkick/FMD)
+
+[Open detailed stats for riderkick/FMD](https://reviewgithub.com/rep/riderkick/FMD)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 674 | 206 | 
 | 2022-09-07 | 674 | 206 | 
 
-
-[Detailed charts & statistics for riderkick/FMD](https://reviewgithub.com/rep/riderkick/FMD)

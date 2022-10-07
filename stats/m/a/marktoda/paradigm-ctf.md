@@ -1,12 +1,14 @@
 # marktoda/paradigm-ctf - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 39
 
 [Open repository](https://github.com/marktoda/paradigm-ctf)
+
+[Open detailed stats for marktoda/paradigm-ctf](https://reviewgithub.com/rep/marktoda/paradigm-ctf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | - | 
 | 2022-09-07 | 39 | - | 
 
-
-[Detailed charts & statistics for marktoda/paradigm-ctf](https://reviewgithub.com/rep/marktoda/paradigm-ctf)

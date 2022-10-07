@@ -1,12 +1,14 @@
 # AArnott/Library.Template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 97
 
 [Open repository](https://github.com/AArnott/Library.Template)
+
+[Open detailed stats for AArnott/Library.Template](https://reviewgithub.com/rep/AArnott/Library.Template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 94 | 17 | 
 | 2022-09-18 | 94 | 17 | 
 
-
-[Detailed charts & statistics for AArnott/Library.Template](https://reviewgithub.com/rep/AArnott/Library.Template)

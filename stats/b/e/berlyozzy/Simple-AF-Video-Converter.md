@@ -1,12 +1,14 @@
 # berlyozzy/Simple-AF-Video-Converter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 20
 
 [Open repository](https://github.com/berlyozzy/Simple-AF-Video-Converter)
+
+[Open detailed stats for berlyozzy/Simple-AF-Video-Converter](https://reviewgithub.com/rep/berlyozzy/Simple-AF-Video-Converter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 1 | 
 | 2022-09-07 | 20 | 1 | 
 
-
-[Detailed charts & statistics for berlyozzy/Simple-AF-Video-Converter](https://reviewgithub.com/rep/berlyozzy/Simple-AF-Video-Converter)

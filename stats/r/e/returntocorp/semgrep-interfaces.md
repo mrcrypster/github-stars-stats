@@ -1,12 +1,14 @@
 # returntocorp/semgrep-interfaces - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/returntocorp/semgrep-interfaces)
+
+[Open detailed stats for returntocorp/semgrep-interfaces](https://reviewgithub.com/rep/returntocorp/semgrep-interfaces)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for returntocorp/semgrep-interfaces](https://reviewgithub.com/rep/returntocorp/semgrep-interfaces)

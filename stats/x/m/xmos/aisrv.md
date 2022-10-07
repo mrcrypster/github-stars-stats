@@ -1,12 +1,14 @@
 # xmos/aisrv - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/xmos/aisrv)
+
+[Open detailed stats for xmos/aisrv](https://reviewgithub.com/rep/xmos/aisrv)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for xmos/aisrv](https://reviewgithub.com/rep/xmos/aisrv)

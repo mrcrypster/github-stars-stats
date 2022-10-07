@@ -1,12 +1,14 @@
 # sadiknabil/ngrok-rdp - stars & forks statistics
 
-Stats updated on Jun 54729, 21
+Stats updated on Oct 2022, 05
 
 ☋ Forks: 11
 
 ★ Stars: 3
 
 [Open repository](https://github.com/sadiknabil/ngrok-rdp)
+
+[Open detailed stats for sadiknabil/ngrok-rdp](https://reviewgithub.com/rep/sadiknabil/ngrok-rdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Jun 54729, 21
 | 2022-09-25 | 3 | 8 | 
 | 2022-09-24 | 3 | 6 | 
 
-
-[Detailed charts & statistics for sadiknabil/ngrok-rdp](https://reviewgithub.com/rep/sadiknabil/ngrok-rdp)

@@ -1,12 +1,14 @@
 # CorvusOps/Erovoutika_ExamWebsite - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/CorvusOps/Erovoutika_ExamWebsite)
+
+[Open detailed stats for CorvusOps/Erovoutika_ExamWebsite](https://reviewgithub.com/rep/CorvusOps/Erovoutika_ExamWebsite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-29 | - | 5 | 
 | 2022-09-28 | - | 5 | 
 
-
-[Detailed charts & statistics for CorvusOps/Erovoutika_ExamWebsite](https://reviewgithub.com/rep/CorvusOps/Erovoutika_ExamWebsite)

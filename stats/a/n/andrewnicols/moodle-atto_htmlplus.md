@@ -1,12 +1,14 @@
 # andrewnicols/moodle-atto_htmlplus - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 5
 
 [Open repository](https://github.com/andrewnicols/moodle-atto_htmlplus)
+
+[Open detailed stats for andrewnicols/moodle-atto_htmlplus](https://reviewgithub.com/rep/andrewnicols/moodle-atto_htmlplus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 9 | 
 | 2022-09-08 | 5 | 9 | 
 
-
-[Detailed charts & statistics for andrewnicols/moodle-atto_htmlplus](https://reviewgithub.com/rep/andrewnicols/moodle-atto_htmlplus)

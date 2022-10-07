@@ -1,12 +1,14 @@
 # rohinivsenthil/rabbitrace - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
 
 [Open repository](https://github.com/rohinivsenthil/rabbitrace)
+
+[Open detailed stats for rohinivsenthil/rabbitrace](https://reviewgithub.com/rep/rohinivsenthil/rabbitrace)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | - | 
 | 2022-09-07 | 23 | - | 
 
-
-[Detailed charts & statistics for rohinivsenthil/rabbitrace](https://reviewgithub.com/rep/rohinivsenthil/rabbitrace)

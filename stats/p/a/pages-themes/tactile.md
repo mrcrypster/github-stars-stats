@@ -1,12 +1,14 @@
 # pages-themes/tactile - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 265
 
 ★ Stars: 80
 
 [Open repository](https://github.com/pages-themes/tactile)
+
+[Open detailed stats for pages-themes/tactile](https://reviewgithub.com/rep/pages-themes/tactile)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 80 | 261 | 
 | 2022-09-07 | 79 | 260 | 
 
-
-[Detailed charts & statistics for pages-themes/tactile](https://reviewgithub.com/rep/pages-themes/tactile)

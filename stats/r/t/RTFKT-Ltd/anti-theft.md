@@ -1,12 +1,14 @@
 # RTFKT-Ltd/anti-theft - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 22
 
 [Open repository](https://github.com/RTFKT-Ltd/anti-theft)
+
+[Open detailed stats for RTFKT-Ltd/anti-theft](https://reviewgithub.com/rep/RTFKT-Ltd/anti-theft)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 22 | 1 | 
 | 2022-09-08 | 22 | 1 | 
 
-
-[Detailed charts & statistics for RTFKT-Ltd/anti-theft](https://reviewgithub.com/rep/RTFKT-Ltd/anti-theft)

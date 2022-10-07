@@ -1,12 +1,14 @@
 # Lakr233/SwiftCourse - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 275
 
 [Open repository](https://github.com/Lakr233/SwiftCourse)
+
+[Open detailed stats for Lakr233/SwiftCourse](https://reviewgithub.com/rep/Lakr233/SwiftCourse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 258 | 5 | 
 | 2022-09-21 | 255 | 5 | 
 
-
-[Detailed charts & statistics for Lakr233/SwiftCourse](https://reviewgithub.com/rep/Lakr233/SwiftCourse)

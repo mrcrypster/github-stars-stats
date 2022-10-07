@@ -1,12 +1,14 @@
 # plastinin/let-s-code - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 56
 
 [Open repository](https://github.com/plastinin/let-s-code)
+
+[Open detailed stats for plastinin/let-s-code](https://reviewgithub.com/rep/plastinin/let-s-code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 51 | 17 | 
 | 2022-09-07 | 51 | 17 | 
 
-
-[Detailed charts & statistics for plastinin/let-s-code](https://reviewgithub.com/rep/plastinin/let-s-code)

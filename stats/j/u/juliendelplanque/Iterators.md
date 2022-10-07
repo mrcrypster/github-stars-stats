@@ -1,12 +1,14 @@
 # juliendelplanque/Iterators - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 9
 
 [Open repository](https://github.com/juliendelplanque/Iterators)
+
+[Open detailed stats for juliendelplanque/Iterators](https://reviewgithub.com/rep/juliendelplanque/Iterators)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 2 | 
 | 2022-09-07 | 9 | 2 | 
 
-
-[Detailed charts & statistics for juliendelplanque/Iterators](https://reviewgithub.com/rep/juliendelplanque/Iterators)

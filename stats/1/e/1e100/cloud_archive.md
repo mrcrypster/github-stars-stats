@@ -1,12 +1,14 @@
 # 1e100/cloud_archive - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/1e100/cloud_archive)
+
+[Open detailed stats for 1e100/cloud_archive](https://reviewgithub.com/rep/1e100/cloud_archive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for 1e100/cloud_archive](https://reviewgithub.com/rep/1e100/cloud_archive)

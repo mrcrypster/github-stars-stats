@@ -1,12 +1,14 @@
 # launchdarkly/erlang-server-sdk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 18
 
 [Open repository](https://github.com/launchdarkly/erlang-server-sdk)
+
+[Open detailed stats for launchdarkly/erlang-server-sdk](https://reviewgithub.com/rep/launchdarkly/erlang-server-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 18 | 16 | 
 | 2022-09-07 | 18 | 16 | 
 
-
-[Detailed charts & statistics for launchdarkly/erlang-server-sdk](https://reviewgithub.com/rep/launchdarkly/erlang-server-sdk)

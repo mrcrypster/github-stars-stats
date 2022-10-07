@@ -1,12 +1,14 @@
 # ZephrFish/AzureAttackKit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 48
 
 [Open repository](https://github.com/ZephrFish/AzureAttackKit)
+
+[Open detailed stats for ZephrFish/AzureAttackKit](https://reviewgithub.com/rep/ZephrFish/AzureAttackKit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-25 | 39 | 10 | 
 | 2022-09-24 | 38 | 10 | 
 
-
-[Detailed charts & statistics for ZephrFish/AzureAttackKit](https://reviewgithub.com/rep/ZephrFish/AzureAttackKit)

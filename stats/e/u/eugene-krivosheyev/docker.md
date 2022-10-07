@@ -1,12 +1,14 @@
 # eugene-krivosheyev/docker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 64
 
 ★ Stars: 3
 
 [Open repository](https://github.com/eugene-krivosheyev/docker)
+
+[Open detailed stats for eugene-krivosheyev/docker](https://reviewgithub.com/rep/eugene-krivosheyev/docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 65 | 
 | 2022-09-07 | 3 | 65 | 
 
-
-[Detailed charts & statistics for eugene-krivosheyev/docker](https://reviewgithub.com/rep/eugene-krivosheyev/docker)

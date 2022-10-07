@@ -1,12 +1,14 @@
 # geocaml/ocaml-optics - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 12
 
 [Open repository](https://github.com/geocaml/ocaml-optics)
+
+[Open detailed stats for geocaml/ocaml-optics](https://reviewgithub.com/rep/geocaml/ocaml-optics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | 8 | 1 | 
 | 2022-09-26 | 8 | 1 | 
 
-
-[Detailed charts & statistics for geocaml/ocaml-optics](https://reviewgithub.com/rep/geocaml/ocaml-optics)

@@ -1,12 +1,14 @@
 # hellofresh/php70 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/hellofresh/php70)
+
+[Open detailed stats for hellofresh/php70](https://reviewgithub.com/rep/hellofresh/php70)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
 
-
-[Detailed charts & statistics for hellofresh/php70](https://reviewgithub.com/rep/hellofresh/php70)

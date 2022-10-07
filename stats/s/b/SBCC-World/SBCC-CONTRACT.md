@@ -1,12 +1,14 @@
 # SBCC-World/SBCC-CONTRACT - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 184
 
 [Open repository](https://github.com/SBCC-World/SBCC-CONTRACT)
+
+[Open detailed stats for SBCC-World/SBCC-CONTRACT](https://reviewgithub.com/rep/SBCC-World/SBCC-CONTRACT)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 184 | - | 
 | 2022-09-07 | 184 | - | 
 
-
-[Detailed charts & statistics for SBCC-World/SBCC-CONTRACT](https://reviewgithub.com/rep/SBCC-World/SBCC-CONTRACT)

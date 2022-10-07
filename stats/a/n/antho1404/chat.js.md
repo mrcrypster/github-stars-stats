@@ -1,12 +1,14 @@
 # antho1404/chat.js - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/antho1404/chat.js)
+
+[Open detailed stats for antho1404/chat.js](https://reviewgithub.com/rep/antho1404/chat.js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for antho1404/chat.js](https://reviewgithub.com/rep/antho1404/chat.js)

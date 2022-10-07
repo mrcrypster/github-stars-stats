@@ -1,12 +1,14 @@
 # dlang/tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 147
 
 ★ Stars: 182
 
 [Open repository](https://github.com/dlang/tools)
+
+[Open detailed stats for dlang/tools](https://reviewgithub.com/rep/dlang/tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 180 | 147 | 
 | 2022-09-07 | 180 | 147 | 
 
-
-[Detailed charts & statistics for dlang/tools](https://reviewgithub.com/rep/dlang/tools)

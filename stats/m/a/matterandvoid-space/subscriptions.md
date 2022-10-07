@@ -1,12 +1,14 @@
 # matterandvoid-space/subscriptions - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 31
 
 [Open repository](https://github.com/matterandvoid-space/subscriptions)
+
+[Open detailed stats for matterandvoid-space/subscriptions](https://reviewgithub.com/rep/matterandvoid-space/subscriptions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 31 | - | 
 | 2022-09-08 | 31 | - | 
 
-
-[Detailed charts & statistics for matterandvoid-space/subscriptions](https://reviewgithub.com/rep/matterandvoid-space/subscriptions)

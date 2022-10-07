@@ -1,12 +1,14 @@
 # ziishaned/learn-regex - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6130
 
 ★ Stars: 42850
 
 [Open repository](https://github.com/ziishaned/learn-regex)
+
+[Open detailed stats for ziishaned/learn-regex](https://reviewgithub.com/rep/ziishaned/learn-regex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 42531 | 6110 | 
 | 2022-09-08 | 42525 | 6109 | 
 
-
-[Detailed charts & statistics for ziishaned/learn-regex](https://reviewgithub.com/rep/ziishaned/learn-regex)

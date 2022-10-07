@@ -1,12 +1,14 @@
 # pulp-platform/axi_riscv_atomics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 32
 
 [Open repository](https://github.com/pulp-platform/axi_riscv_atomics)
+
+[Open detailed stats for pulp-platform/axi_riscv_atomics](https://reviewgithub.com/rep/pulp-platform/axi_riscv_atomics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 32 | 9 | 
 | 2022-09-08 | 32 | 9 | 
 
-
-[Detailed charts & statistics for pulp-platform/axi_riscv_atomics](https://reviewgithub.com/rep/pulp-platform/axi_riscv_atomics)

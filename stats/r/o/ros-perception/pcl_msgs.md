@@ -1,12 +1,14 @@
 # ros-perception/pcl_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 5
 
 [Open repository](https://github.com/ros-perception/pcl_msgs)
+
+[Open detailed stats for ros-perception/pcl_msgs](https://reviewgithub.com/rep/ros-perception/pcl_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-29 | 5 | 19 | 
 | 2022-09-28 | 5 | 19 | 
 
-
-[Detailed charts & statistics for ros-perception/pcl_msgs](https://reviewgithub.com/rep/ros-perception/pcl_msgs)

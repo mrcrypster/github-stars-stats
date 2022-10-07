@@ -1,12 +1,14 @@
 # Xilinx/meta-browser - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Xilinx/meta-browser)
+
+[Open detailed stats for Xilinx/meta-browser](https://reviewgithub.com/rep/Xilinx/meta-browser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for Xilinx/meta-browser](https://reviewgithub.com/rep/Xilinx/meta-browser)

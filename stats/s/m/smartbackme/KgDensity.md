@@ -1,12 +1,14 @@
 # smartbackme/KgDensity - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 59
 
 [Open repository](https://github.com/smartbackme/KgDensity)
+
+[Open detailed stats for smartbackme/KgDensity](https://reviewgithub.com/rep/smartbackme/KgDensity)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | - | 
 | 2022-09-07 | 58 | - | 
 
-
-[Detailed charts & statistics for smartbackme/KgDensity](https://reviewgithub.com/rep/smartbackme/KgDensity)

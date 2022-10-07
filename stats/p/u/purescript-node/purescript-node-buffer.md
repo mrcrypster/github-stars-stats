@@ -1,12 +1,14 @@
 # purescript-node/purescript-node-buffer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 10
 
 [Open repository](https://github.com/purescript-node/purescript-node-buffer)
+
+[Open detailed stats for purescript-node/purescript-node-buffer](https://reviewgithub.com/rep/purescript-node/purescript-node-buffer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 10 | 19 | 
 | 2022-09-08 | 10 | 19 | 
 
-
-[Detailed charts & statistics for purescript-node/purescript-node-buffer](https://reviewgithub.com/rep/purescript-node/purescript-node-buffer)

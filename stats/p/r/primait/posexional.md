@@ -1,12 +1,14 @@
 # primait/posexional - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 11
 
 [Open repository](https://github.com/primait/posexional)
+
+[Open detailed stats for primait/posexional](https://reviewgithub.com/rep/primait/posexional)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 6 | 
 | 2022-09-07 | 11 | 6 | 
 
-
-[Detailed charts & statistics for primait/posexional](https://reviewgithub.com/rep/primait/posexional)

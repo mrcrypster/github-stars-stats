@@ -1,12 +1,14 @@
 # CallMeDaddyBro/EthicalPixel-Admin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 38
 
 [Open repository](https://github.com/CallMeDaddyBro/EthicalPixel-Admin)
+
+[Open detailed stats for CallMeDaddyBro/EthicalPixel-Admin](https://reviewgithub.com/rep/CallMeDaddyBro/EthicalPixel-Admin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 22 | 
 | 2022-09-08 | 37 | 22 | 
 
-
-[Detailed charts & statistics for CallMeDaddyBro/EthicalPixel-Admin](https://reviewgithub.com/rep/CallMeDaddyBro/EthicalPixel-Admin)

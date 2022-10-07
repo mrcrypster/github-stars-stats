@@ -1,12 +1,14 @@
 # Project-Sloth/ps-signrobbery - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 25
 
 [Open repository](https://github.com/Project-Sloth/ps-signrobbery)
+
+[Open detailed stats for Project-Sloth/ps-signrobbery](https://reviewgithub.com/rep/Project-Sloth/ps-signrobbery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 15 | 
 | 2022-09-07 | 21 | 15 | 
 
-
-[Detailed charts & statistics for Project-Sloth/ps-signrobbery](https://reviewgithub.com/rep/Project-Sloth/ps-signrobbery)

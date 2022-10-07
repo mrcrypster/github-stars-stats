@@ -1,12 +1,14 @@
 # geerlingguy/reversi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 20
 
 [Open repository](https://github.com/geerlingguy/reversi)
+
+[Open detailed stats for geerlingguy/reversi](https://reviewgithub.com/rep/geerlingguy/reversi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-29 | 16 | - | 
 | 2022-09-28 | 16 | - | 
 
-
-[Detailed charts & statistics for geerlingguy/reversi](https://reviewgithub.com/rep/geerlingguy/reversi)

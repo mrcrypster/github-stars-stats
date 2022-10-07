@@ -1,12 +1,14 @@
 # saanvisavlani/appium-php-permissions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 15
 
 [Open repository](https://github.com/saanvisavlani/appium-php-permissions)
+
+[Open detailed stats for saanvisavlani/appium-php-permissions](https://reviewgithub.com/rep/saanvisavlani/appium-php-permissions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 15 | 9 | 
 | 2022-09-08 | 15 | 9 | 
 
-
-[Detailed charts & statistics for saanvisavlani/appium-php-permissions](https://reviewgithub.com/rep/saanvisavlani/appium-php-permissions)

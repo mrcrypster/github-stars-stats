@@ -1,12 +1,14 @@
 # MilesMcBain/rmdgh - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 49
 
 [Open repository](https://github.com/MilesMcBain/rmdgh)
+
+[Open detailed stats for MilesMcBain/rmdgh](https://reviewgithub.com/rep/MilesMcBain/rmdgh)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 43 | 1 | 
 | 2022-09-07 | 42 | 1 | 
 
-
-[Detailed charts & statistics for MilesMcBain/rmdgh](https://reviewgithub.com/rep/MilesMcBain/rmdgh)

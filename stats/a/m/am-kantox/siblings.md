@@ -1,12 +1,14 @@
 # am-kantox/siblings - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 25
 
 [Open repository](https://github.com/am-kantox/siblings)
+
+[Open detailed stats for am-kantox/siblings](https://reviewgithub.com/rep/am-kantox/siblings)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 1 | 
 | 2022-09-07 | 23 | 1 | 
 
-
-[Detailed charts & statistics for am-kantox/siblings](https://reviewgithub.com/rep/am-kantox/siblings)

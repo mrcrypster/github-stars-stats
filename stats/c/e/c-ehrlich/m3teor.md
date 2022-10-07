@@ -1,12 +1,14 @@
 # c-ehrlich/m3teor - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/c-ehrlich/m3teor)
+
+[Open detailed stats for c-ehrlich/m3teor](https://reviewgithub.com/rep/c-ehrlich/m3teor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 14 | - | 
 | 2022-09-11 | 13 | - | 
 
-
-[Detailed charts & statistics for c-ehrlich/m3teor](https://reviewgithub.com/rep/c-ehrlich/m3teor)

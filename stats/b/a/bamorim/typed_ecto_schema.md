@@ -1,12 +1,14 @@
 # bamorim/typed_ecto_schema - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 193
 
 [Open repository](https://github.com/bamorim/typed_ecto_schema)
+
+[Open detailed stats for bamorim/typed_ecto_schema](https://reviewgithub.com/rep/bamorim/typed_ecto_schema)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 191 | 12 | 
 | 2022-09-08 | 191 | 12 | 
 
-
-[Detailed charts & statistics for bamorim/typed_ecto_schema](https://reviewgithub.com/rep/bamorim/typed_ecto_schema)

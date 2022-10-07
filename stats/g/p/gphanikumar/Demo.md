@@ -1,12 +1,14 @@
 # gphanikumar/Demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 1
 
 [Open repository](https://github.com/gphanikumar/Demo)
+
+[Open detailed stats for gphanikumar/Demo](https://reviewgithub.com/rep/gphanikumar/Demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 37 | 
 | 2022-09-07 | 1 | 37 | 
 
-
-[Detailed charts & statistics for gphanikumar/Demo](https://reviewgithub.com/rep/gphanikumar/Demo)

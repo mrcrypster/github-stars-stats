@@ -1,12 +1,14 @@
 # r-tidy-remote-sensing/tidyrgee - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 42
 
 [Open repository](https://github.com/r-tidy-remote-sensing/tidyrgee)
+
+[Open detailed stats for r-tidy-remote-sensing/tidyrgee](https://reviewgithub.com/rep/r-tidy-remote-sensing/tidyrgee)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 38 | 3 | 
 | 2022-09-18 | 36 | 3 | 
 
-
-[Detailed charts & statistics for r-tidy-remote-sensing/tidyrgee](https://reviewgithub.com/rep/r-tidy-remote-sensing/tidyrgee)

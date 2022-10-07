@@ -1,12 +1,14 @@
 # DaveGut/HubitatActive - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 38
 
 [Open repository](https://github.com/DaveGut/HubitatActive)
+
+[Open detailed stats for DaveGut/HubitatActive](https://reviewgithub.com/rep/DaveGut/HubitatActive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 38 | 28 | 
 | 2022-09-12 | 38 | 28 | 
 
-
-[Detailed charts & statistics for DaveGut/HubitatActive](https://reviewgithub.com/rep/DaveGut/HubitatActive)

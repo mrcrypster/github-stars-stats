@@ -1,12 +1,14 @@
 # Cognigy/cognigy-ai-helm-chart - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Cognigy/cognigy-ai-helm-chart)
+
+[Open detailed stats for Cognigy/cognigy-ai-helm-chart](https://reviewgithub.com/rep/Cognigy/cognigy-ai-helm-chart)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 1 | 
 | 2022-09-08 | 2 | 1 | 
 
-
-[Detailed charts & statistics for Cognigy/cognigy-ai-helm-chart](https://reviewgithub.com/rep/Cognigy/cognigy-ai-helm-chart)

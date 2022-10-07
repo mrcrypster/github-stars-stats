@@ -1,12 +1,14 @@
 # 64/cmake-raytracer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 590
 
 [Open repository](https://github.com/64/cmake-raytracer)
+
+[Open detailed stats for 64/cmake-raytracer](https://reviewgithub.com/rep/64/cmake-raytracer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 586 | 12 | 
 | 2022-09-07 | 586 | 12 | 
 
-
-[Detailed charts & statistics for 64/cmake-raytracer](https://reviewgithub.com/rep/64/cmake-raytracer)

@@ -1,12 +1,14 @@
 # lowRISC/ariane-ethernet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 7
 
 [Open repository](https://github.com/lowRISC/ariane-ethernet)
+
+[Open detailed stats for lowRISC/ariane-ethernet](https://reviewgithub.com/rep/lowRISC/ariane-ethernet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 7 | 4 | 
 | 2022-09-08 | 7 | 4 | 
 
-
-[Detailed charts & statistics for lowRISC/ariane-ethernet](https://reviewgithub.com/rep/lowRISC/ariane-ethernet)

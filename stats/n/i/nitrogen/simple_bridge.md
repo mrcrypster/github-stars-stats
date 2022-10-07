@@ -1,12 +1,14 @@
 # nitrogen/simple_bridge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 74
 
 ★ Stars: 106
 
 [Open repository](https://github.com/nitrogen/simple_bridge)
+
+[Open detailed stats for nitrogen/simple_bridge](https://reviewgithub.com/rep/nitrogen/simple_bridge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 106 | 74 | 
 | 2022-09-08 | 106 | 74 | 
 
-
-[Detailed charts & statistics for nitrogen/simple_bridge](https://reviewgithub.com/rep/nitrogen/simple_bridge)

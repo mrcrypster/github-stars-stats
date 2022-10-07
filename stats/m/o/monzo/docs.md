@@ -1,12 +1,14 @@
 # monzo/docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 99
 
 [Open repository](https://github.com/monzo/docs)
+
+[Open detailed stats for monzo/docs](https://reviewgithub.com/rep/monzo/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 96 | 47 | 
 | 2022-09-08 | 96 | 47 | 
 
-
-[Detailed charts & statistics for monzo/docs](https://reviewgithub.com/rep/monzo/docs)

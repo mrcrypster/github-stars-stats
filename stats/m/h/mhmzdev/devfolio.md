@@ -1,12 +1,14 @@
 # mhmzdev/devfolio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 181
 
 ★ Stars: 501
 
 [Open repository](https://github.com/mhmzdev/devfolio)
+
+[Open detailed stats for mhmzdev/devfolio](https://reviewgithub.com/rep/mhmzdev/devfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 492 | 174 | 
 | 2022-09-08 | 490 | 173 | 
 
-
-[Detailed charts & statistics for mhmzdev/devfolio](https://reviewgithub.com/rep/mhmzdev/devfolio)

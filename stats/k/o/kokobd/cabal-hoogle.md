@@ -1,12 +1,14 @@
 # kokobd/cabal-hoogle - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 17
 
 [Open repository](https://github.com/kokobd/cabal-hoogle)
+
+[Open detailed stats for kokobd/cabal-hoogle](https://reviewgithub.com/rep/kokobd/cabal-hoogle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 1 | 
 | 2022-09-08 | 17 | 1 | 
 
-
-[Detailed charts & statistics for kokobd/cabal-hoogle](https://reviewgithub.com/rep/kokobd/cabal-hoogle)

@@ -1,12 +1,14 @@
 # oc/roninku - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 18
 
 [Open repository](https://github.com/oc/roninku)
+
+[Open detailed stats for oc/roninku](https://reviewgithub.com/rep/oc/roninku)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 3 | 
 | 2022-09-07 | 18 | 3 | 
 
-
-[Detailed charts & statistics for oc/roninku](https://reviewgithub.com/rep/oc/roninku)

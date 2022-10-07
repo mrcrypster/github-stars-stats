@@ -1,12 +1,14 @@
 # benphelps/homepage - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 92
 
 ★ Stars: 1535
 
 [Open repository](https://github.com/benphelps/homepage)
+
+[Open detailed stats for benphelps/homepage](https://reviewgithub.com/rep/benphelps/homepage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 381 | 18 | 
 | 2022-09-07 | 344 | 15 | 
 
-
-[Detailed charts & statistics for benphelps/homepage](https://reviewgithub.com/rep/benphelps/homepage)

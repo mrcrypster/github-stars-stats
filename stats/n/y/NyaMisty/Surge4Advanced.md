@@ -1,12 +1,14 @@
 # NyaMisty/Surge4Advanced - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 78
 
 [Open repository](https://github.com/NyaMisty/Surge4Advanced)
+
+[Open detailed stats for NyaMisty/Surge4Advanced](https://reviewgithub.com/rep/NyaMisty/Surge4Advanced)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 74 | 17 | 
 | 2022-09-07 | 74 | 17 | 
 
-
-[Detailed charts & statistics for NyaMisty/Surge4Advanced](https://reviewgithub.com/rep/NyaMisty/Surge4Advanced)

@@ -1,12 +1,14 @@
 # tlringer/ml-for-proofs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 29
 
 [Open repository](https://github.com/tlringer/ml-for-proofs)
+
+[Open detailed stats for tlringer/ml-for-proofs](https://reviewgithub.com/rep/tlringer/ml-for-proofs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 2 | 
 | 2022-09-07 | 28 | 2 | 
 
-
-[Detailed charts & statistics for tlringer/ml-for-proofs](https://reviewgithub.com/rep/tlringer/ml-for-proofs)

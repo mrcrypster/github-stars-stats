@@ -1,12 +1,14 @@
 # openbullet/OpenBullet2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 294
 
 ★ Stars: 816
 
 [Open repository](https://github.com/openbullet/OpenBullet2)
+
+[Open detailed stats for openbullet/OpenBullet2](https://reviewgithub.com/rep/openbullet/OpenBullet2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 772 | 275 | 
 | 2022-09-08 | 772 | 275 | 
 
-
-[Detailed charts & statistics for openbullet/OpenBullet2](https://reviewgithub.com/rep/openbullet/OpenBullet2)

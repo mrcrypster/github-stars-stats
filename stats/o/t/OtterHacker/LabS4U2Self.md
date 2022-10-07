@@ -1,12 +1,14 @@
 # OtterHacker/LabS4U2Self - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 23
 
 [Open repository](https://github.com/OtterHacker/LabS4U2Self)
+
+[Open detailed stats for OtterHacker/LabS4U2Self](https://reviewgithub.com/rep/OtterHacker/LabS4U2Self)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 18 | 1 | 
 | 2022-09-25 | 18 | 1 | 
 
-
-[Detailed charts & statistics for OtterHacker/LabS4U2Self](https://reviewgithub.com/rep/OtterHacker/LabS4U2Self)

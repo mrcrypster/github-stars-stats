@@ -1,12 +1,14 @@
 # johncpalmer/LevelNFT - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 25
 
 [Open repository](https://github.com/johncpalmer/LevelNFT)
+
+[Open detailed stats for johncpalmer/LevelNFT](https://reviewgithub.com/rep/johncpalmer/LevelNFT)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 25 | 3 | 
 | 2022-09-07 | 25 | 3 | 
 
-
-[Detailed charts & statistics for johncpalmer/LevelNFT](https://reviewgithub.com/rep/johncpalmer/LevelNFT)

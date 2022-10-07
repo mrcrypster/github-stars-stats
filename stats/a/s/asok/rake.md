@@ -1,12 +1,14 @@
 # asok/rake - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 30
 
 [Open repository](https://github.com/asok/rake)
+
+[Open detailed stats for asok/rake](https://reviewgithub.com/rep/asok/rake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 7 | 
 | 2022-09-07 | 30 | 7 | 
 
-
-[Detailed charts & statistics for asok/rake](https://reviewgithub.com/rep/asok/rake)

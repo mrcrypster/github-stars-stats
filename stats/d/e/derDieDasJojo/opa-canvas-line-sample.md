@@ -1,12 +1,14 @@
 # derDieDasJojo/opa-canvas-line-sample - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/derDieDasJojo/opa-canvas-line-sample)
+
+[Open detailed stats for derDieDasJojo/opa-canvas-line-sample](https://reviewgithub.com/rep/derDieDasJojo/opa-canvas-line-sample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for derDieDasJojo/opa-canvas-line-sample](https://reviewgithub.com/rep/derDieDasJojo/opa-canvas-line-sample)

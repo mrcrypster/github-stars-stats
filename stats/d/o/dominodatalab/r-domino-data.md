@@ -1,12 +1,14 @@
 # dominodatalab/r-domino-data - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dominodatalab/r-domino-data)
+
+[Open detailed stats for dominodatalab/r-domino-data](https://reviewgithub.com/rep/dominodatalab/r-domino-data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for dominodatalab/r-domino-data](https://reviewgithub.com/rep/dominodatalab/r-domino-data)

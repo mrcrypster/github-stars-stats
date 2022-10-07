@@ -1,12 +1,14 @@
 # moj-analytical-services/IntroRTraining - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 12
 
 [Open repository](https://github.com/moj-analytical-services/IntroRTraining)
+
+[Open detailed stats for moj-analytical-services/IntroRTraining](https://reviewgithub.com/rep/moj-analytical-services/IntroRTraining)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 12 | 8 | 
 | 2022-09-18 | 12 | 8 | 
 
-
-[Detailed charts & statistics for moj-analytical-services/IntroRTraining](https://reviewgithub.com/rep/moj-analytical-services/IntroRTraining)

@@ -1,12 +1,14 @@
 # exercism/elixir-representer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/exercism/elixir-representer)
+
+[Open detailed stats for exercism/elixir-representer](https://reviewgithub.com/rep/exercism/elixir-representer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 8 | 5 | 
 | 2022-09-11 | 8 | 5 | 
 
-
-[Detailed charts & statistics for exercism/elixir-representer](https://reviewgithub.com/rep/exercism/elixir-representer)

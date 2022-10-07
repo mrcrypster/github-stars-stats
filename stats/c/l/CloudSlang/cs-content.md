@@ -1,12 +1,14 @@
 # CloudSlang/cs-content - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 182
 
 ★ Stars: 70
 
 [Open repository](https://github.com/CloudSlang/cs-content)
+
+[Open detailed stats for CloudSlang/cs-content](https://reviewgithub.com/rep/CloudSlang/cs-content)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 70 | 182 | 
 | 2022-09-07 | 70 | 182 | 
 
-
-[Detailed charts & statistics for CloudSlang/cs-content](https://reviewgithub.com/rep/CloudSlang/cs-content)

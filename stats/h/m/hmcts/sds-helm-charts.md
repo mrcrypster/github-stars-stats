@@ -1,12 +1,14 @@
 # hmcts/sds-helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/hmcts/sds-helm-charts)
+
+[Open detailed stats for hmcts/sds-helm-charts](https://reviewgithub.com/rep/hmcts/sds-helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for hmcts/sds-helm-charts](https://reviewgithub.com/rep/hmcts/sds-helm-charts)

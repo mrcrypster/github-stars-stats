@@ -1,12 +1,14 @@
 # uktrade/data-workspace-visualisation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/uktrade/data-workspace-visualisation)
+
+[Open detailed stats for uktrade/data-workspace-visualisation](https://reviewgithub.com/rep/uktrade/data-workspace-visualisation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for uktrade/data-workspace-visualisation](https://reviewgithub.com/rep/uktrade/data-workspace-visualisation)

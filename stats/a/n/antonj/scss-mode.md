@@ -1,12 +1,14 @@
 # antonj/scss-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 201
 
 [Open repository](https://github.com/antonj/scss-mode)
+
+[Open detailed stats for antonj/scss-mode](https://reviewgithub.com/rep/antonj/scss-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 201 | 39 | 
 | 2022-09-07 | 201 | 39 | 
 
-
-[Detailed charts & statistics for antonj/scss-mode](https://reviewgithub.com/rep/antonj/scss-mode)

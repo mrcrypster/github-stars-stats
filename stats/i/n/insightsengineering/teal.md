@@ -1,12 +1,14 @@
 # insightsengineering/teal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 27
 
 [Open repository](https://github.com/insightsengineering/teal)
+
+[Open detailed stats for insightsengineering/teal](https://reviewgithub.com/rep/insightsengineering/teal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 4 | 
 | 2022-09-07 | 21 | 4 | 
 
-
-[Detailed charts & statistics for insightsengineering/teal](https://reviewgithub.com/rep/insightsengineering/teal)

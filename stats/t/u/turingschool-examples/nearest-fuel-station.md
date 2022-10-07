@@ -1,12 +1,14 @@
 # turingschool-examples/nearest-fuel-station - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 136
 
 ★ Stars: 1
 
 [Open repository](https://github.com/turingschool-examples/nearest-fuel-station)
+
+[Open detailed stats for turingschool-examples/nearest-fuel-station](https://reviewgithub.com/rep/turingschool-examples/nearest-fuel-station)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 128 | 
 | 2022-09-08 | 1 | 128 | 
 
-
-[Detailed charts & statistics for turingschool-examples/nearest-fuel-station](https://reviewgithub.com/rep/turingschool-examples/nearest-fuel-station)

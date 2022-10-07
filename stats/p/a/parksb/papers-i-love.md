@@ -1,12 +1,14 @@
 # parksb/papers-i-love - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 222
 
 [Open repository](https://github.com/parksb/papers-i-love)
+
+[Open detailed stats for parksb/papers-i-love](https://reviewgithub.com/rep/parksb/papers-i-love)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 217 | - | 
 | 2022-09-08 | 216 | - | 
 
-
-[Detailed charts & statistics for parksb/papers-i-love](https://reviewgithub.com/rep/parksb/papers-i-love)

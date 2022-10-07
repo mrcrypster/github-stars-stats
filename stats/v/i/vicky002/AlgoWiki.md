@@ -1,12 +1,14 @@
 # vicky002/AlgoWiki - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1148
 
 ★ Stars: 4016
 
 [Open repository](https://github.com/vicky002/AlgoWiki)
+
+[Open detailed stats for vicky002/AlgoWiki](https://reviewgithub.com/rep/vicky002/AlgoWiki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3996 | 1140 | 
 | 2022-09-08 | 3995 | 1139 | 
 
-
-[Detailed charts & statistics for vicky002/AlgoWiki](https://reviewgithub.com/rep/vicky002/AlgoWiki)

@@ -1,12 +1,14 @@
 # ZOSOpenTools/meta - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 9
 
 [Open repository](https://github.com/ZOSOpenTools/meta)
+
+[Open detailed stats for ZOSOpenTools/meta](https://reviewgithub.com/rep/ZOSOpenTools/meta)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 2 | 
 | 2022-09-07 | 7 | 2 | 
 
-
-[Detailed charts & statistics for ZOSOpenTools/meta](https://reviewgithub.com/rep/ZOSOpenTools/meta)

@@ -1,12 +1,14 @@
 # actionquake/distrib - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 12
 
 [Open repository](https://github.com/actionquake/distrib)
+
+[Open detailed stats for actionquake/distrib](https://reviewgithub.com/rep/actionquake/distrib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 12 | 7 | 
 | 2022-09-07 | 12 | 7 | 
 
-
-[Detailed charts & statistics for actionquake/distrib](https://reviewgithub.com/rep/actionquake/distrib)

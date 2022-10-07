@@ -1,12 +1,14 @@
 # openx/ox-thrift - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 9
 
 [Open repository](https://github.com/openx/ox-thrift)
+
+[Open detailed stats for openx/ox-thrift](https://reviewgithub.com/rep/openx/ox-thrift)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 9 | 3 | 
 | 2022-09-07 | 9 | 3 | 
 
-
-[Detailed charts & statistics for openx/ox-thrift](https://reviewgithub.com/rep/openx/ox-thrift)

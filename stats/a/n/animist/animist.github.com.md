@@ -1,12 +1,14 @@
 # animist/animist.github.com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/animist/animist.github.com)
+
+[Open detailed stats for animist/animist.github.com](https://reviewgithub.com/rep/animist/animist.github.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for animist/animist.github.com](https://reviewgithub.com/rep/animist/animist.github.com)

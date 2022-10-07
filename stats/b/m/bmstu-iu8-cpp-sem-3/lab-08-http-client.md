@@ -1,12 +1,14 @@
 # bmstu-iu8-cpp-sem-3/lab-08-http-client - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 1
 
 [Open repository](https://github.com/bmstu-iu8-cpp-sem-3/lab-08-http-client)
+
+[Open detailed stats for bmstu-iu8-cpp-sem-3/lab-08-http-client](https://reviewgithub.com/rep/bmstu-iu8-cpp-sem-3/lab-08-http-client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 24 | 
 | 2022-09-08 | 1 | 24 | 
 
-
-[Detailed charts & statistics for bmstu-iu8-cpp-sem-3/lab-08-http-client](https://reviewgithub.com/rep/bmstu-iu8-cpp-sem-3/lab-08-http-client)

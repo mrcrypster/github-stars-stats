@@ -1,12 +1,14 @@
 # kathleenmariekelly/dreamprojecttemplate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kathleenmariekelly/dreamprojecttemplate)
+
+[Open detailed stats for kathleenmariekelly/dreamprojecttemplate](https://reviewgithub.com/rep/kathleenmariekelly/dreamprojecttemplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 25 | 
 | 2022-09-08 | - | 24 | 
 
-
-[Detailed charts & statistics for kathleenmariekelly/dreamprojecttemplate](https://reviewgithub.com/rep/kathleenmariekelly/dreamprojecttemplate)

@@ -1,12 +1,14 @@
 # epiccastle/bbssh - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 22
 
 [Open repository](https://github.com/epiccastle/bbssh)
+
+[Open detailed stats for epiccastle/bbssh](https://reviewgithub.com/rep/epiccastle/bbssh)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | 20 | - | 
 | 2022-10-01 | 20 | - | 
 
-
-[Detailed charts & statistics for epiccastle/bbssh](https://reviewgithub.com/rep/epiccastle/bbssh)

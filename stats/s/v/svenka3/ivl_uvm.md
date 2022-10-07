@@ -1,12 +1,14 @@
 # svenka3/ivl_uvm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 17
 
 [Open repository](https://github.com/svenka3/ivl_uvm)
+
+[Open detailed stats for svenka3/ivl_uvm](https://reviewgithub.com/rep/svenka3/ivl_uvm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 38 | 
 | 2022-09-07 | 16 | 38 | 
 
-
-[Detailed charts & statistics for svenka3/ivl_uvm](https://reviewgithub.com/rep/svenka3/ivl_uvm)

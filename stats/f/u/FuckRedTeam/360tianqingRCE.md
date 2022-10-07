@@ -1,12 +1,14 @@
 # FuckRedTeam/360tianqingRCE - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 39
 
 ★ Stars: 69
 
 [Open repository](https://github.com/FuckRedTeam/360tianqingRCE)
+
+[Open detailed stats for FuckRedTeam/360tianqingRCE](https://reviewgithub.com/rep/FuckRedTeam/360tianqingRCE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 68 | 40 | 
 | 2022-09-08 | 67 | 40 | 
 
-
-[Detailed charts & statistics for FuckRedTeam/360tianqingRCE](https://reviewgithub.com/rep/FuckRedTeam/360tianqingRCE)

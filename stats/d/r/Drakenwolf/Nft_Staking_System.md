@@ -1,12 +1,14 @@
 # Drakenwolf/Nft_Staking_System - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 47
 
 [Open repository](https://github.com/Drakenwolf/Nft_Staking_System)
+
+[Open detailed stats for Drakenwolf/Nft_Staking_System](https://reviewgithub.com/rep/Drakenwolf/Nft_Staking_System)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 45 | 30 | 
 | 2022-09-08 | 45 | 30 | 
 
-
-[Detailed charts & statistics for Drakenwolf/Nft_Staking_System](https://reviewgithub.com/rep/Drakenwolf/Nft_Staking_System)

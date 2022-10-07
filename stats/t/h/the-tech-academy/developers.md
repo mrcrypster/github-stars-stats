@@ -1,12 +1,14 @@
 # the-tech-academy/developers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 329
 
 ★ Stars: 3
 
 [Open repository](https://github.com/the-tech-academy/developers)
+
+[Open detailed stats for the-tech-academy/developers](https://reviewgithub.com/rep/the-tech-academy/developers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 327 | 
 | 2022-09-08 | 3 | 328 | 
 
-
-[Detailed charts & statistics for the-tech-academy/developers](https://reviewgithub.com/rep/the-tech-academy/developers)

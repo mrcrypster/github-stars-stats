@@ -1,12 +1,14 @@
 # bdenney/phase-1-calexico - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 52
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bdenney/phase-1-calexico)
+
+[Open detailed stats for bdenney/phase-1-calexico](https://reviewgithub.com/rep/bdenney/phase-1-calexico)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 43 | 
 | 2022-09-08 | - | 44 | 
 
-
-[Detailed charts & statistics for bdenney/phase-1-calexico](https://reviewgithub.com/rep/bdenney/phase-1-calexico)

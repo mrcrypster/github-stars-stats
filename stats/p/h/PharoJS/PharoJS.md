@@ -1,12 +1,14 @@
 # PharoJS/PharoJS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 87
 
 [Open repository](https://github.com/PharoJS/PharoJS)
+
+[Open detailed stats for PharoJS/PharoJS](https://reviewgithub.com/rep/PharoJS/PharoJS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 85 | 17 | 
 | 2022-09-08 | 85 | 17 | 
 
-
-[Detailed charts & statistics for PharoJS/PharoJS](https://reviewgithub.com/rep/PharoJS/PharoJS)

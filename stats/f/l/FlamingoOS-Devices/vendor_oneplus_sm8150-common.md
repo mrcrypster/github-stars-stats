@@ -1,12 +1,14 @@
 # FlamingoOS-Devices/vendor_oneplus_sm8150-common - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/FlamingoOS-Devices/vendor_oneplus_sm8150-common)
+
+[Open detailed stats for FlamingoOS-Devices/vendor_oneplus_sm8150-common](https://reviewgithub.com/rep/FlamingoOS-Devices/vendor_oneplus_sm8150-common)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for FlamingoOS-Devices/vendor_oneplus_sm8150-common](https://reviewgithub.com/rep/FlamingoOS-Devices/vendor_oneplus_sm8150-common)

@@ -1,12 +1,14 @@
 # 174726435803085/create-react-app-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 54
 
 [Open repository](https://github.com/174726435803085/create-react-app-project)
+
+[Open detailed stats for 174726435803085/create-react-app-project](https://reviewgithub.com/rep/174726435803085/create-react-app-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 54 | 23 | 
 | 2022-09-08 | 54 | 23 | 
 
-
-[Detailed charts & statistics for 174726435803085/create-react-app-project](https://reviewgithub.com/rep/174726435803085/create-react-app-project)

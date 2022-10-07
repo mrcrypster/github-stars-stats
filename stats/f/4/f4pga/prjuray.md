@@ -1,12 +1,14 @@
 # f4pga/prjuray - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 37
 
 [Open repository](https://github.com/f4pga/prjuray)
+
+[Open detailed stats for f4pga/prjuray](https://reviewgithub.com/rep/f4pga/prjuray)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 11 | 
 | 2022-09-07 | 37 | 11 | 
 
-
-[Detailed charts & statistics for f4pga/prjuray](https://reviewgithub.com/rep/f4pga/prjuray)

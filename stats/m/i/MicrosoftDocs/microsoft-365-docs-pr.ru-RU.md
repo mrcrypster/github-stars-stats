@@ -1,12 +1,14 @@
 # MicrosoftDocs/microsoft-365-docs-pr.ru-RU - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 8
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs-pr.ru-RU)
+
+[Open detailed stats for MicrosoftDocs/microsoft-365-docs-pr.ru-RU](https://reviewgithub.com/rep/MicrosoftDocs/microsoft-365-docs-pr.ru-RU)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 6 | 
 | 2022-09-08 | 7 | 6 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/microsoft-365-docs-pr.ru-RU](https://reviewgithub.com/rep/MicrosoftDocs/microsoft-365-docs-pr.ru-RU)

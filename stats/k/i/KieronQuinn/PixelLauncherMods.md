@@ -1,12 +1,14 @@
 # KieronQuinn/PixelLauncherMods - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 327
 
 [Open repository](https://github.com/KieronQuinn/PixelLauncherMods)
+
+[Open detailed stats for KieronQuinn/PixelLauncherMods](https://reviewgithub.com/rep/KieronQuinn/PixelLauncherMods)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 308 | 8 | 
 | 2022-09-07 | 306 | 8 | 
 
-
-[Detailed charts & statistics for KieronQuinn/PixelLauncherMods](https://reviewgithub.com/rep/KieronQuinn/PixelLauncherMods)

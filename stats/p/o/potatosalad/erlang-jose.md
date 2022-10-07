@@ -1,12 +1,14 @@
 # potatosalad/erlang-jose - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 262
 
 [Open repository](https://github.com/potatosalad/erlang-jose)
+
+[Open detailed stats for potatosalad/erlang-jose](https://reviewgithub.com/rep/potatosalad/erlang-jose)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 257 | 80 | 
 | 2022-09-08 | 257 | 80 | 
 
-
-[Detailed charts & statistics for potatosalad/erlang-jose](https://reviewgithub.com/rep/potatosalad/erlang-jose)

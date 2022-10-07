@@ -1,12 +1,14 @@
 # NervJS/taro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4291
 
 ★ Stars: 31664
 
 [Open repository](https://github.com/NervJS/taro)
+
+[Open detailed stats for NervJS/taro](https://reviewgithub.com/rep/NervJS/taro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 31566 | 4270 | 
 | 2022-09-08 | 31561 | 4267 | 
 
-
-[Detailed charts & statistics for NervJS/taro](https://reviewgithub.com/rep/NervJS/taro)

@@ -1,12 +1,14 @@
 # feenkcom/bloc-pac - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/feenkcom/bloc-pac)
+
+[Open detailed stats for feenkcom/bloc-pac](https://reviewgithub.com/rep/feenkcom/bloc-pac)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 3 | 
 | 2022-09-08 | 3 | 3 | 
 
-
-[Detailed charts & statistics for feenkcom/bloc-pac](https://reviewgithub.com/rep/feenkcom/bloc-pac)

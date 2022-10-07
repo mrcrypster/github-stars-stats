@@ -1,12 +1,14 @@
 # Czechitas-JavaScript-1/lekce6-sportka - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Czechitas-JavaScript-1/lekce6-sportka)
+
+[Open detailed stats for Czechitas-JavaScript-1/lekce6-sportka](https://reviewgithub.com/rep/Czechitas-JavaScript-1/lekce6-sportka)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 35 | 
 | 2022-09-07 | - | 35 | 
 
-
-[Detailed charts & statistics for Czechitas-JavaScript-1/lekce6-sportka](https://reviewgithub.com/rep/Czechitas-JavaScript-1/lekce6-sportka)

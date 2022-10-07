@@ -1,12 +1,14 @@
 # MicrosoftDocs/azure-devops-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2221
 
 ★ Stars: 657
 
 [Open repository](https://github.com/MicrosoftDocs/azure-devops-docs)
+
+[Open detailed stats for MicrosoftDocs/azure-devops-docs](https://reviewgithub.com/rep/MicrosoftDocs/azure-devops-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 646 | 2200 | 
 | 2022-09-07 | 646 | 2198 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/azure-devops-docs](https://reviewgithub.com/rep/MicrosoftDocs/azure-devops-docs)

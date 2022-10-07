@@ -1,12 +1,14 @@
 # dative/mmisi-frontend - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 3
 
 [Open repository](https://github.com/dative/mmisi-frontend)
+
+[Open detailed stats for dative/mmisi-frontend](https://reviewgithub.com/rep/dative/mmisi-frontend)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 9 | 
 | 2022-09-07 | 3 | 9 | 
 
-
-[Detailed charts & statistics for dative/mmisi-frontend](https://reviewgithub.com/rep/dative/mmisi-frontend)

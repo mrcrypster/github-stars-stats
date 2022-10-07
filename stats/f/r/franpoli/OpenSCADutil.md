@@ -1,12 +1,14 @@
 # franpoli/OpenSCADutil - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 51
 
 [Open repository](https://github.com/franpoli/OpenSCADutil)
+
+[Open detailed stats for franpoli/OpenSCADutil](https://reviewgithub.com/rep/franpoli/OpenSCADutil)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | 17 | 
 | 2022-09-07 | 49 | 17 | 
 
-
-[Detailed charts & statistics for franpoli/OpenSCADutil](https://reviewgithub.com/rep/franpoli/OpenSCADutil)

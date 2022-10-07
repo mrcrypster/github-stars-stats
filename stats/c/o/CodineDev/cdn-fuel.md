@@ -1,12 +1,14 @@
 # CodineDev/cdn-fuel - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 18
 
 [Open repository](https://github.com/CodineDev/cdn-fuel)
+
+[Open detailed stats for CodineDev/cdn-fuel](https://reviewgithub.com/rep/CodineDev/cdn-fuel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 14 | 10 | 
 | 2022-09-16 | 14 | 10 | 
 
-
-[Detailed charts & statistics for CodineDev/cdn-fuel](https://reviewgithub.com/rep/CodineDev/cdn-fuel)

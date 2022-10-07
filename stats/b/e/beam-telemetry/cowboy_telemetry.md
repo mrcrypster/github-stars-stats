@@ -1,12 +1,14 @@
 # beam-telemetry/cowboy_telemetry - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 27
 
 [Open repository](https://github.com/beam-telemetry/cowboy_telemetry)
+
+[Open detailed stats for beam-telemetry/cowboy_telemetry](https://reviewgithub.com/rep/beam-telemetry/cowboy_telemetry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 6 | 
 | 2022-09-07 | 27 | 6 | 
 
-
-[Detailed charts & statistics for beam-telemetry/cowboy_telemetry](https://reviewgithub.com/rep/beam-telemetry/cowboy_telemetry)

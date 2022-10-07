@@ -1,12 +1,14 @@
 # xtaci/kcptun - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2505
 
 ★ Stars: 13019
 
 [Open repository](https://github.com/xtaci/kcptun)
+
+[Open detailed stats for xtaci/kcptun](https://reviewgithub.com/rep/xtaci/kcptun)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13002 | 2502 | 
 | 2022-09-08 | 12999 | 2502 | 
 
-
-[Detailed charts & statistics for xtaci/kcptun](https://reviewgithub.com/rep/xtaci/kcptun)

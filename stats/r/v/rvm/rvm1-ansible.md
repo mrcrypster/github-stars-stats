@@ -1,12 +1,14 @@
 # rvm/rvm1-ansible - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 139
 
 ★ Stars: 262
 
 [Open repository](https://github.com/rvm/rvm1-ansible)
+
+[Open detailed stats for rvm/rvm1-ansible](https://reviewgithub.com/rep/rvm/rvm1-ansible)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 260 | 139 | 
 | 2022-09-07 | 260 | 139 | 
 
-
-[Detailed charts & statistics for rvm/rvm1-ansible](https://reviewgithub.com/rep/rvm/rvm1-ansible)

@@ -1,12 +1,14 @@
 # ENCCS/Julia-for-HPC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 18
 
 [Open repository](https://github.com/ENCCS/Julia-for-HPC)
+
+[Open detailed stats for ENCCS/Julia-for-HPC](https://reviewgithub.com/rep/ENCCS/Julia-for-HPC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 18 | 3 | 
 | 2022-09-07 | 18 | 3 | 
 
-
-[Detailed charts & statistics for ENCCS/Julia-for-HPC](https://reviewgithub.com/rep/ENCCS/Julia-for-HPC)

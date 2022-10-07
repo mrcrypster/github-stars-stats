@@ -1,12 +1,14 @@
 # rbeltran/grails-petclinic - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/rbeltran/grails-petclinic)
+
+[Open detailed stats for rbeltran/grails-petclinic](https://reviewgithub.com/rep/rbeltran/grails-petclinic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-18 | 1 | - | 
 | 2022-09-17 | 1 | - | 
 
-
-[Detailed charts & statistics for rbeltran/grails-petclinic](https://reviewgithub.com/rep/rbeltran/grails-petclinic)

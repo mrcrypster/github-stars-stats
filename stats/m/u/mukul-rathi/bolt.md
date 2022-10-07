@@ -1,12 +1,14 @@
 # mukul-rathi/bolt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 39
 
 ★ Stars: 366
 
 [Open repository](https://github.com/mukul-rathi/bolt)
+
+[Open detailed stats for mukul-rathi/bolt](https://reviewgithub.com/rep/mukul-rathi/bolt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 360 | 38 | 
 | 2022-09-10 | 360 | 38 | 
 
-
-[Detailed charts & statistics for mukul-rathi/bolt](https://reviewgithub.com/rep/mukul-rathi/bolt)

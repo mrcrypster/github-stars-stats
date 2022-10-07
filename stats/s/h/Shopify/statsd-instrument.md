@@ -1,12 +1,14 @@
 # Shopify/statsd-instrument - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 97
 
 ★ Stars: 522
 
 [Open repository](https://github.com/Shopify/statsd-instrument)
+
+[Open detailed stats for Shopify/statsd-instrument](https://reviewgithub.com/rep/Shopify/statsd-instrument)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 520 | 97 | 
 | 2022-09-08 | 520 | 97 | 
 
-
-[Detailed charts & statistics for Shopify/statsd-instrument](https://reviewgithub.com/rep/Shopify/statsd-instrument)

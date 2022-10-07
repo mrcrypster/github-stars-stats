@@ -1,12 +1,14 @@
 # nedlir/OfficerBreaker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 577
 
 [Open repository](https://github.com/nedlir/OfficerBreaker)
+
+[Open detailed stats for nedlir/OfficerBreaker](https://reviewgithub.com/rep/nedlir/OfficerBreaker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 576 | 27 | 
 | 2022-09-08 | 576 | 27 | 
 
-
-[Detailed charts & statistics for nedlir/OfficerBreaker](https://reviewgithub.com/rep/nedlir/OfficerBreaker)

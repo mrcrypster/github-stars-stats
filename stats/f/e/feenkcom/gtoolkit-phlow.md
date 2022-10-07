@@ -1,12 +1,14 @@
 # feenkcom/gtoolkit-phlow - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/feenkcom/gtoolkit-phlow)
+
+[Open detailed stats for feenkcom/gtoolkit-phlow](https://reviewgithub.com/rep/feenkcom/gtoolkit-phlow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 2 | 
 | 2022-09-08 | 3 | 2 | 
 
-
-[Detailed charts & statistics for feenkcom/gtoolkit-phlow](https://reviewgithub.com/rep/feenkcom/gtoolkit-phlow)

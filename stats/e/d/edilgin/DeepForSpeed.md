@@ -1,12 +1,14 @@
 # edilgin/DeepForSpeed - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 232
 
 [Open repository](https://github.com/edilgin/DeepForSpeed)
+
+[Open detailed stats for edilgin/DeepForSpeed](https://reviewgithub.com/rep/edilgin/DeepForSpeed)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 232 | 26 | 
 | 2022-09-08 | 232 | 26 | 
 
-
-[Detailed charts & statistics for edilgin/DeepForSpeed](https://reviewgithub.com/rep/edilgin/DeepForSpeed)

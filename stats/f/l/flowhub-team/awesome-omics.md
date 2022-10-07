@@ -1,12 +1,14 @@
 # flowhub-team/awesome-omics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 56
 
 ★ Stars: 285
 
 [Open repository](https://github.com/flowhub-team/awesome-omics)
+
+[Open detailed stats for flowhub-team/awesome-omics](https://reviewgithub.com/rep/flowhub-team/awesome-omics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 286 | 56 | 
 | 2022-09-07 | 286 | 56 | 
 
-
-[Detailed charts & statistics for flowhub-team/awesome-omics](https://reviewgithub.com/rep/flowhub-team/awesome-omics)

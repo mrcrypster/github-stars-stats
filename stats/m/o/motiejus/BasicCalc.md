@@ -1,12 +1,14 @@
 # motiejus/BasicCalc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/motiejus/BasicCalc)
+
+[Open detailed stats for motiejus/BasicCalc](https://reviewgithub.com/rep/motiejus/BasicCalc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | - | - | 
 | 2022-09-18 | - | - | 
 
-
-[Detailed charts & statistics for motiejus/BasicCalc](https://reviewgithub.com/rep/motiejus/BasicCalc)

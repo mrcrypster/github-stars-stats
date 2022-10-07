@@ -1,12 +1,14 @@
 # CMUSustainability/SDGmapR - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/CMUSustainability/SDGmapR)
+
+[Open detailed stats for CMUSustainability/SDGmapR](https://reviewgithub.com/rep/CMUSustainability/SDGmapR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 1 | 
 | 2022-09-07 | 8 | 1 | 
 
-
-[Detailed charts & statistics for CMUSustainability/SDGmapR](https://reviewgithub.com/rep/CMUSustainability/SDGmapR)

@@ -1,12 +1,14 @@
 # patricoferris/jsoo-todo-mvc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/patricoferris/jsoo-todo-mvc)
+
+[Open detailed stats for patricoferris/jsoo-todo-mvc](https://reviewgithub.com/rep/patricoferris/jsoo-todo-mvc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
 
-
-[Detailed charts & statistics for patricoferris/jsoo-todo-mvc](https://reviewgithub.com/rep/patricoferris/jsoo-todo-mvc)

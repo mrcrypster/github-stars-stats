@@ -1,12 +1,14 @@
 # uq-its-ss/design-system - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 8
 
 [Open repository](https://github.com/uq-its-ss/design-system)
+
+[Open detailed stats for uq-its-ss/design-system](https://reviewgithub.com/rep/uq-its-ss/design-system)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 4 | 
 | 2022-09-08 | 8 | 4 | 
 
-
-[Detailed charts & statistics for uq-its-ss/design-system](https://reviewgithub.com/rep/uq-its-ss/design-system)

@@ -1,12 +1,14 @@
 # tier3guy/Acadmica - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 56
 
 ★ Stars: 26
 
 [Open repository](https://github.com/tier3guy/Acadmica)
+
+[Open detailed stats for tier3guy/Acadmica](https://reviewgithub.com/rep/tier3guy/Acadmica)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 26 | 53 | 
 | 2022-09-08 | 26 | 53 | 
 
-
-[Detailed charts & statistics for tier3guy/Acadmica](https://reviewgithub.com/rep/tier3guy/Acadmica)

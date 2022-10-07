@@ -1,12 +1,14 @@
 # donald-f-ferguson/F22-Simple-Web-UI - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 223
 
 ★ Stars: 2
 
 [Open repository](https://github.com/donald-f-ferguson/F22-Simple-Web-UI)
+
+[Open detailed stats for donald-f-ferguson/F22-Simple-Web-UI](https://reviewgithub.com/rep/donald-f-ferguson/F22-Simple-Web-UI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | - | 221 | 
 | 2022-09-29 | - | 219 | 
 
-
-[Detailed charts & statistics for donald-f-ferguson/F22-Simple-Web-UI](https://reviewgithub.com/rep/donald-f-ferguson/F22-Simple-Web-UI)

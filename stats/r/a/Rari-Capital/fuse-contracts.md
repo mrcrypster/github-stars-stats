@@ -1,12 +1,14 @@
 # Rari-Capital/fuse-contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 28
 
 [Open repository](https://github.com/Rari-Capital/fuse-contracts)
+
+[Open detailed stats for Rari-Capital/fuse-contracts](https://reviewgithub.com/rep/Rari-Capital/fuse-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 25 | 3 | 
 | 2022-09-08 | 25 | 3 | 
 
-
-[Detailed charts & statistics for Rari-Capital/fuse-contracts](https://reviewgithub.com/rep/Rari-Capital/fuse-contracts)

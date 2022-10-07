@@ -1,12 +1,14 @@
 # soliditylabs/ZTM-Solidity-Code-Repository - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 14
 
 [Open repository](https://github.com/soliditylabs/ZTM-Solidity-Code-Repository)
+
+[Open detailed stats for soliditylabs/ZTM-Solidity-Code-Repository](https://reviewgithub.com/rep/soliditylabs/ZTM-Solidity-Code-Repository)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 10 | 
 | 2022-09-08 | 14 | 10 | 
 
-
-[Detailed charts & statistics for soliditylabs/ZTM-Solidity-Code-Repository](https://reviewgithub.com/rep/soliditylabs/ZTM-Solidity-Code-Repository)

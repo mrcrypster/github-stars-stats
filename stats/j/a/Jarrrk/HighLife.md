@@ -1,12 +1,14 @@
 # Jarrrk/HighLife - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 62
 
 [Open repository](https://github.com/Jarrrk/HighLife)
+
+[Open detailed stats for Jarrrk/HighLife](https://reviewgithub.com/rep/Jarrrk/HighLife)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 62 | 43 | 
 | 2022-09-07 | 62 | 43 | 
 
-
-[Detailed charts & statistics for Jarrrk/HighLife](https://reviewgithub.com/rep/Jarrrk/HighLife)

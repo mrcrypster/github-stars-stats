@@ -1,12 +1,14 @@
 # abigger87/huffplate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 17
 
 [Open repository](https://github.com/abigger87/huffplate)
+
+[Open detailed stats for abigger87/huffplate](https://reviewgithub.com/rep/abigger87/huffplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 15 | - | 
 | 2022-09-22 | 15 | - | 
 
-
-[Detailed charts & statistics for abigger87/huffplate](https://reviewgithub.com/rep/abigger87/huffplate)

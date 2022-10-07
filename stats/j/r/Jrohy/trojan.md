@@ -1,12 +1,14 @@
 # Jrohy/trojan - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1183
 
 ★ Stars: 3714
 
 [Open repository](https://github.com/Jrohy/trojan)
+
+[Open detailed stats for Jrohy/trojan](https://reviewgithub.com/rep/Jrohy/trojan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3641 | 1168 | 
 | 2022-09-08 | 3639 | 1167 | 
 
-
-[Detailed charts & statistics for Jrohy/trojan](https://reviewgithub.com/rep/Jrohy/trojan)

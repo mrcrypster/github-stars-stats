@@ -1,12 +1,14 @@
 # LineageOS/android_system_sepolicy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 210
 
 ★ Stars: 17
 
 [Open repository](https://github.com/LineageOS/android_system_sepolicy)
+
+[Open detailed stats for LineageOS/android_system_sepolicy](https://reviewgithub.com/rep/LineageOS/android_system_sepolicy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 207 | 
 | 2022-09-08 | 17 | 207 | 
 
-
-[Detailed charts & statistics for LineageOS/android_system_sepolicy](https://reviewgithub.com/rep/LineageOS/android_system_sepolicy)

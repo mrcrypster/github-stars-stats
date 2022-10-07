@@ -1,12 +1,14 @@
 # imandra-ai/imandra-prelude - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 9
 
 [Open repository](https://github.com/imandra-ai/imandra-prelude)
+
+[Open detailed stats for imandra-ai/imandra-prelude](https://reviewgithub.com/rep/imandra-ai/imandra-prelude)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 9 | 1 | 
 | 2022-09-07 | 9 | 1 | 
 
-
-[Detailed charts & statistics for imandra-ai/imandra-prelude](https://reviewgithub.com/rep/imandra-ai/imandra-prelude)

@@ -1,12 +1,14 @@
 # alexliesenfeld/health - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 616
 
 [Open repository](https://github.com/alexliesenfeld/health)
+
+[Open detailed stats for alexliesenfeld/health](https://reviewgithub.com/rep/alexliesenfeld/health)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 603 | 19 | 
 | 2022-09-12 | 597 | 19 | 
 
-
-[Detailed charts & statistics for alexliesenfeld/health](https://reviewgithub.com/rep/alexliesenfeld/health)

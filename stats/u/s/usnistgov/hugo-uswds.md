@@ -1,12 +1,14 @@
 # usnistgov/hugo-uswds - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 26
 
 [Open repository](https://github.com/usnistgov/hugo-uswds)
+
+[Open detailed stats for usnistgov/hugo-uswds](https://reviewgithub.com/rep/usnistgov/hugo-uswds)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 9 | 
 | 2022-09-07 | 26 | 9 | 
 
-
-[Detailed charts & statistics for usnistgov/hugo-uswds](https://reviewgithub.com/rep/usnistgov/hugo-uswds)

@@ -1,12 +1,14 @@
 # couchbase/geocouch - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 63
 
 ★ Stars: 511
 
 [Open repository](https://github.com/couchbase/geocouch)
+
+[Open detailed stats for couchbase/geocouch](https://reviewgithub.com/rep/couchbase/geocouch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 509 | 63 | 
 | 2022-09-08 | 509 | 63 | 
 
-
-[Detailed charts & statistics for couchbase/geocouch](https://reviewgithub.com/rep/couchbase/geocouch)

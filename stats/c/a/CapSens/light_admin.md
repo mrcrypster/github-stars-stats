@@ -1,12 +1,14 @@
 # CapSens/light_admin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 9
 
 [Open repository](https://github.com/CapSens/light_admin)
+
+[Open detailed stats for CapSens/light_admin](https://reviewgithub.com/rep/CapSens/light_admin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 3 | 
 | 2022-09-08 | 9 | 3 | 
 
-
-[Detailed charts & statistics for CapSens/light_admin](https://reviewgithub.com/rep/CapSens/light_admin)

@@ -1,12 +1,14 @@
 # tmplink/IPDB - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 33
 
 ★ Stars: 396
 
 [Open repository](https://github.com/tmplink/IPDB)
+
+[Open detailed stats for tmplink/IPDB](https://reviewgithub.com/rep/tmplink/IPDB)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 388 | 33 | 
 | 2022-09-08 | 388 | 33 | 
 
-
-[Detailed charts & statistics for tmplink/IPDB](https://reviewgithub.com/rep/tmplink/IPDB)

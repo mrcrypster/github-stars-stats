@@ -1,12 +1,14 @@
 # open-osrs/runelite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 449
 
 ★ Stars: 303
 
 [Open repository](https://github.com/open-osrs/runelite)
+
+[Open detailed stats for open-osrs/runelite](https://reviewgithub.com/rep/open-osrs/runelite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 300 | 448 | 
 | 2022-09-07 | 300 | 448 | 
 
-
-[Detailed charts & statistics for open-osrs/runelite](https://reviewgithub.com/rep/open-osrs/runelite)

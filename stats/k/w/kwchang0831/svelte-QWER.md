@@ -1,12 +1,14 @@
 # kwchang0831/svelte-QWER - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 180
 
 [Open repository](https://github.com/kwchang0831/svelte-QWER)
+
+[Open detailed stats for kwchang0831/svelte-QWER](https://reviewgithub.com/rep/kwchang0831/svelte-QWER)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 38 | 1 | 
 | 2022-09-08 | 38 | 1 | 
 
-
-[Detailed charts & statistics for kwchang0831/svelte-QWER](https://reviewgithub.com/rep/kwchang0831/svelte-QWER)

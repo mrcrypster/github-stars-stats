@@ -1,12 +1,14 @@
 # Xilinx/meta-jupyter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 5
 
 [Open repository](https://github.com/Xilinx/meta-jupyter)
+
+[Open detailed stats for Xilinx/meta-jupyter](https://reviewgithub.com/rep/Xilinx/meta-jupyter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 8 | 
 | 2022-09-07 | 5 | 8 | 
 
-
-[Detailed charts & statistics for Xilinx/meta-jupyter](https://reviewgithub.com/rep/Xilinx/meta-jupyter)

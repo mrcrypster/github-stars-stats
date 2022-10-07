@@ -1,12 +1,14 @@
 # enclosed-money/contracts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 12
 
 [Open repository](https://github.com/enclosed-money/contracts)
+
+[Open detailed stats for enclosed-money/contracts](https://reviewgithub.com/rep/enclosed-money/contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 10 | 7 | 
 | 2022-09-15 | 9 | 7 | 
 
-
-[Detailed charts & statistics for enclosed-money/contracts](https://reviewgithub.com/rep/enclosed-money/contracts)

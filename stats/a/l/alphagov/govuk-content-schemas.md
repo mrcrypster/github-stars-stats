@@ -1,12 +1,14 @@
 # alphagov/govuk-content-schemas - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 23
 
 [Open repository](https://github.com/alphagov/govuk-content-schemas)
+
+[Open detailed stats for alphagov/govuk-content-schemas](https://reviewgithub.com/rep/alphagov/govuk-content-schemas)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 22 | 11 | 
 | 2022-09-08 | 22 | 11 | 
 
-
-[Detailed charts & statistics for alphagov/govuk-content-schemas](https://reviewgithub.com/rep/alphagov/govuk-content-schemas)

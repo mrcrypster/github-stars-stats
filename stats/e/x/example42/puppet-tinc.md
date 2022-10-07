@@ -1,12 +1,14 @@
 # example42/puppet-tinc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 2
 
 [Open repository](https://github.com/example42/puppet-tinc)
+
+[Open detailed stats for example42/puppet-tinc](https://reviewgithub.com/rep/example42/puppet-tinc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 5 | 
 | 2022-09-08 | 2 | 5 | 
 
-
-[Detailed charts & statistics for example42/puppet-tinc](https://reviewgithub.com/rep/example42/puppet-tinc)

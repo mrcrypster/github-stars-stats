@@ -1,12 +1,14 @@
 # shoreleave/shoreleave-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 19
 
 [Open repository](https://github.com/shoreleave/shoreleave-core)
+
+[Open detailed stats for shoreleave/shoreleave-core](https://reviewgithub.com/rep/shoreleave/shoreleave-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 19 | 5 | 
 | 2022-09-08 | 19 | 5 | 
 
-
-[Detailed charts & statistics for shoreleave/shoreleave-core](https://reviewgithub.com/rep/shoreleave/shoreleave-core)

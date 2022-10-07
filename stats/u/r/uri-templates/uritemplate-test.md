@@ -1,12 +1,14 @@
 # uri-templates/uritemplate-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 84
 
 [Open repository](https://github.com/uri-templates/uritemplate-test)
+
+[Open detailed stats for uri-templates/uritemplate-test](https://reviewgithub.com/rep/uri-templates/uritemplate-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 83 | 22 | 
 | 2022-09-07 | 83 | 22 | 
 
-
-[Detailed charts & statistics for uri-templates/uritemplate-test](https://reviewgithub.com/rep/uri-templates/uritemplate-test)

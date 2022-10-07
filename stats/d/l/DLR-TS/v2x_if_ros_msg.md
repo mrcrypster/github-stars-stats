@@ -1,12 +1,14 @@
 # DLR-TS/v2x_if_ros_msg - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DLR-TS/v2x_if_ros_msg)
+
+[Open detailed stats for DLR-TS/v2x_if_ros_msg](https://reviewgithub.com/rep/DLR-TS/v2x_if_ros_msg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for DLR-TS/v2x_if_ros_msg](https://reviewgithub.com/rep/DLR-TS/v2x_if_ros_msg)

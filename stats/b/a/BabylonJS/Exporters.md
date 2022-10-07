@@ -1,12 +1,14 @@
 # BabylonJS/Exporters - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 290
 
 ★ Stars: 469
 
 [Open repository](https://github.com/BabylonJS/Exporters)
+
+[Open detailed stats for BabylonJS/Exporters](https://reviewgithub.com/rep/BabylonJS/Exporters)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 463 | 287 | 
 | 2022-09-07 | 464 | 287 | 
 
-
-[Detailed charts & statistics for BabylonJS/Exporters](https://reviewgithub.com/rep/BabylonJS/Exporters)

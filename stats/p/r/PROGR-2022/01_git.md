@@ -1,12 +1,14 @@
 # PROGR-2022/01_git - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 79
 
 ★ Stars: 0
 
 [Open repository](https://github.com/PROGR-2022/01_git)
+
+[Open detailed stats for PROGR-2022/01_git](https://reviewgithub.com/rep/PROGR-2022/01_git)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 77 | 
 | 2022-09-07 | - | 77 | 
 
-
-[Detailed charts & statistics for PROGR-2022/01_git](https://reviewgithub.com/rep/PROGR-2022/01_git)

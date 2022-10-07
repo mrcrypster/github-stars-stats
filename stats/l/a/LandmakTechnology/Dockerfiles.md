@@ -1,12 +1,14 @@
 # LandmakTechnology/Dockerfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 862
 
 ★ Stars: 2
 
 [Open repository](https://github.com/LandmakTechnology/Dockerfiles)
+
+[Open detailed stats for LandmakTechnology/Dockerfiles](https://reviewgithub.com/rep/LandmakTechnology/Dockerfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 845 | 
 | 2022-09-08 | 2 | 844 | 
 
-
-[Detailed charts & statistics for LandmakTechnology/Dockerfiles](https://reviewgithub.com/rep/LandmakTechnology/Dockerfiles)

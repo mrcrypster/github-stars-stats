@@ -1,12 +1,14 @@
 # dm-open/minimumGoalDifferenceCheckerExercise - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dm-open/minimumGoalDifferenceCheckerExercise)
+
+[Open detailed stats for dm-open/minimumGoalDifferenceCheckerExercise](https://reviewgithub.com/rep/dm-open/minimumGoalDifferenceCheckerExercise)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | - | - | 
 | 2022-09-17 | - | - | 
 
-
-[Detailed charts & statistics for dm-open/minimumGoalDifferenceCheckerExercise](https://reviewgithub.com/rep/dm-open/minimumGoalDifferenceCheckerExercise)

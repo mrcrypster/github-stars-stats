@@ -1,12 +1,14 @@
 # aneagoie/keiko-corp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1731
 
 ★ Stars: 53
 
 [Open repository](https://github.com/aneagoie/keiko-corp)
+
+[Open detailed stats for aneagoie/keiko-corp](https://reviewgithub.com/rep/aneagoie/keiko-corp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 51 | 1723 | 
 | 2022-09-07 | 51 | 1722 | 
 
-
-[Detailed charts & statistics for aneagoie/keiko-corp](https://reviewgithub.com/rep/aneagoie/keiko-corp)

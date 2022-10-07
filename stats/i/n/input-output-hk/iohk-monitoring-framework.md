@@ -1,12 +1,14 @@
 # input-output-hk/iohk-monitoring-framework - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 32
 
 [Open repository](https://github.com/input-output-hk/iohk-monitoring-framework)
+
+[Open detailed stats for input-output-hk/iohk-monitoring-framework](https://reviewgithub.com/rep/input-output-hk/iohk-monitoring-framework)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 32 | 13 | 
 | 2022-09-07 | 32 | 13 | 
 
-
-[Detailed charts & statistics for input-output-hk/iohk-monitoring-framework](https://reviewgithub.com/rep/input-output-hk/iohk-monitoring-framework)

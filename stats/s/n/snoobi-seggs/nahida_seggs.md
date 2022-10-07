@@ -1,6 +1,6 @@
 # snoobi-seggs/nahida_seggs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
@@ -8,11 +8,11 @@ Stats updated on Dec 54734, 12
 
 [Open repository](https://github.com/snoobi-seggs/nahida_seggs)
 
+[Open detailed stats for snoobi-seggs/nahida_seggs](https://reviewgithub.com/rep/snoobi-seggs/nahida_seggs)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 | 2022-10-07 | 34 | 17 | 
 | 2022-10-06 | 31 | 17 | 
 
-
-[Detailed charts & statistics for snoobi-seggs/nahida_seggs](https://reviewgithub.com/rep/snoobi-seggs/nahida_seggs)

@@ -1,12 +1,14 @@
 # turingschool-examples/intro_to_testing - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 86
 
 ★ Stars: 0
 
 [Open repository](https://github.com/turingschool-examples/intro_to_testing)
+
+[Open detailed stats for turingschool-examples/intro_to_testing](https://reviewgithub.com/rep/turingschool-examples/intro_to_testing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 88 | 
 | 2022-09-07 | - | 88 | 
 
-
-[Detailed charts & statistics for turingschool-examples/intro_to_testing](https://reviewgithub.com/rep/turingschool-examples/intro_to_testing)

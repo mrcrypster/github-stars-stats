@@ -1,12 +1,14 @@
 # pohuigin/SHILLELAGH - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/pohuigin/SHILLELAGH)
+
+[Open detailed stats for pohuigin/SHILLELAGH](https://reviewgithub.com/rep/pohuigin/SHILLELAGH)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 4 | 
 | 2022-09-07 | 1 | 4 | 
 
-
-[Detailed charts & statistics for pohuigin/SHILLELAGH](https://reviewgithub.com/rep/pohuigin/SHILLELAGH)

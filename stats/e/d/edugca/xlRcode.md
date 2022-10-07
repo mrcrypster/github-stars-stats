@@ -1,12 +1,14 @@
 # edugca/xlRcode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 26
 
 [Open repository](https://github.com/edugca/xlRcode)
+
+[Open detailed stats for edugca/xlRcode](https://reviewgithub.com/rep/edugca/xlRcode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 18 | - | 
 | 2022-09-13 | 18 | - | 
 
-
-[Detailed charts & statistics for edugca/xlRcode](https://reviewgithub.com/rep/edugca/xlRcode)

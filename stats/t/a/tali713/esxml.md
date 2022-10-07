@@ -1,12 +1,14 @@
 # tali713/esxml - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 49
 
 [Open repository](https://github.com/tali713/esxml)
+
+[Open detailed stats for tali713/esxml](https://reviewgithub.com/rep/tali713/esxml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 49 | 15 | 
 | 2022-09-07 | 49 | 15 | 
 
-
-[Detailed charts & statistics for tali713/esxml](https://reviewgithub.com/rep/tali713/esxml)

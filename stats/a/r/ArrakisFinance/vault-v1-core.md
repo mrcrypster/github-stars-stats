@@ -1,12 +1,14 @@
 # ArrakisFinance/vault-v1-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 23
 
 [Open repository](https://github.com/ArrakisFinance/vault-v1-core)
+
+[Open detailed stats for ArrakisFinance/vault-v1-core](https://reviewgithub.com/rep/ArrakisFinance/vault-v1-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 4 | 
 | 2022-09-07 | 20 | 4 | 
 
-
-[Detailed charts & statistics for ArrakisFinance/vault-v1-core](https://reviewgithub.com/rep/ArrakisFinance/vault-v1-core)

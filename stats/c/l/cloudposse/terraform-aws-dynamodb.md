@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-dynamodb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 96
 
 ★ Stars: 62
 
 [Open repository](https://github.com/cloudposse/terraform-aws-dynamodb)
+
+[Open detailed stats for cloudposse/terraform-aws-dynamodb](https://reviewgithub.com/rep/cloudposse/terraform-aws-dynamodb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 62 | 95 | 
 | 2022-09-08 | 62 | 95 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-dynamodb](https://reviewgithub.com/rep/cloudposse/terraform-aws-dynamodb)

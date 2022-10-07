@@ -1,12 +1,14 @@
 # VernonGrant/emacs-keyboard-shortcuts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 45
 
 [Open repository](https://github.com/VernonGrant/emacs-keyboard-shortcuts)
+
+[Open detailed stats for VernonGrant/emacs-keyboard-shortcuts](https://reviewgithub.com/rep/VernonGrant/emacs-keyboard-shortcuts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 4 | 
 | 2022-09-08 | 36 | 4 | 
 
-
-[Detailed charts & statistics for VernonGrant/emacs-keyboard-shortcuts](https://reviewgithub.com/rep/VernonGrant/emacs-keyboard-shortcuts)

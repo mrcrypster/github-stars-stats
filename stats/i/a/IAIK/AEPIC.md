@@ -1,12 +1,14 @@
 # IAIK/AEPIC - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 91
 
 [Open repository](https://github.com/IAIK/AEPIC)
+
+[Open detailed stats for IAIK/AEPIC](https://reviewgithub.com/rep/IAIK/AEPIC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 89 | 11 | 
 | 2022-09-08 | 89 | 11 | 
 
-
-[Detailed charts & statistics for IAIK/AEPIC](https://reviewgithub.com/rep/IAIK/AEPIC)

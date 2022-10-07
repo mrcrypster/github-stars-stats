@@ -1,12 +1,14 @@
 # Omkar2310/LP3 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 12
 
 [Open repository](https://github.com/Omkar2310/LP3)
+
+[Open detailed stats for Omkar2310/LP3](https://reviewgithub.com/rep/Omkar2310/LP3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | 16 | 
 | 2022-09-07 | 12 | 16 | 
 
-
-[Detailed charts & statistics for Omkar2310/LP3](https://reviewgithub.com/rep/Omkar2310/LP3)

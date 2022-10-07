@@ -1,12 +1,14 @@
 # confluentinc/coding-in-motion - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 7
 
 [Open repository](https://github.com/confluentinc/coding-in-motion)
+
+[Open detailed stats for confluentinc/coding-in-motion](https://reviewgithub.com/rep/confluentinc/coding-in-motion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for confluentinc/coding-in-motion](https://reviewgithub.com/rep/confluentinc/coding-in-motion)

@@ -1,12 +1,14 @@
 # andreondra/jekyll-theme-simplex - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 52
 
 ★ Stars: 44
 
 [Open repository](https://github.com/andreondra/jekyll-theme-simplex)
+
+[Open detailed stats for andreondra/jekyll-theme-simplex](https://reviewgithub.com/rep/andreondra/jekyll-theme-simplex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 48 | 
 | 2022-09-08 | 40 | 48 | 
 
-
-[Detailed charts & statistics for andreondra/jekyll-theme-simplex](https://reviewgithub.com/rep/andreondra/jekyll-theme-simplex)

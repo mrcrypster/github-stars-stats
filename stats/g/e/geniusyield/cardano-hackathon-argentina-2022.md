@@ -1,12 +1,14 @@
 # geniusyield/cardano-hackathon-argentina-2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 3
 
 [Open repository](https://github.com/geniusyield/cardano-hackathon-argentina-2022)
+
+[Open detailed stats for geniusyield/cardano-hackathon-argentina-2022](https://reviewgithub.com/rep/geniusyield/cardano-hackathon-argentina-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 5 | 
 | 2022-09-08 | 1 | 5 | 
 
-
-[Detailed charts & statistics for geniusyield/cardano-hackathon-argentina-2022](https://reviewgithub.com/rep/geniusyield/cardano-hackathon-argentina-2022)

@@ -1,12 +1,14 @@
 # appbrewery/Clima-iOS13 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 368
 
 ★ Stars: 55
 
 [Open repository](https://github.com/appbrewery/Clima-iOS13)
+
+[Open detailed stats for appbrewery/Clima-iOS13](https://reviewgithub.com/rep/appbrewery/Clima-iOS13)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 54 | 363 | 
 | 2022-09-08 | 54 | 362 | 
 
-
-[Detailed charts & statistics for appbrewery/Clima-iOS13](https://reviewgithub.com/rep/appbrewery/Clima-iOS13)

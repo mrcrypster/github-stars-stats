@@ -1,12 +1,14 @@
 # concourse/concourse-chart - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 157
 
 ★ Stars: 116
 
 [Open repository](https://github.com/concourse/concourse-chart)
+
+[Open detailed stats for concourse/concourse-chart](https://reviewgithub.com/rep/concourse/concourse-chart)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 115 | 154 | 
 | 2022-09-07 | 115 | 154 | 
 
-
-[Detailed charts & statistics for concourse/concourse-chart](https://reviewgithub.com/rep/concourse/concourse-chart)

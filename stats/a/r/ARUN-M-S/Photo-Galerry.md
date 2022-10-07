@@ -1,12 +1,14 @@
 # ARUN-M-S/Photo-Galerry - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/ARUN-M-S/Photo-Galerry)
+
+[Open detailed stats for ARUN-M-S/Photo-Galerry](https://reviewgithub.com/rep/ARUN-M-S/Photo-Galerry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 
-
-[Detailed charts & statistics for ARUN-M-S/Photo-Galerry](https://reviewgithub.com/rep/ARUN-M-S/Photo-Galerry)

@@ -1,12 +1,14 @@
 # elastic/puppet-logstashforwarder - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 82
 
 ★ Stars: 30
 
 [Open repository](https://github.com/elastic/puppet-logstashforwarder)
+
+[Open detailed stats for elastic/puppet-logstashforwarder](https://reviewgithub.com/rep/elastic/puppet-logstashforwarder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 30 | 82 | 
 | 2022-09-07 | 30 | 82 | 
 
-
-[Detailed charts & statistics for elastic/puppet-logstashforwarder](https://reviewgithub.com/rep/elastic/puppet-logstashforwarder)

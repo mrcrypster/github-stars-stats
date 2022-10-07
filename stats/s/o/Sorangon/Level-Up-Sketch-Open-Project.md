@@ -1,12 +1,14 @@
 # Sorangon/Level-Up-Sketch-Open-Project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 55
 
 [Open repository](https://github.com/Sorangon/Level-Up-Sketch-Open-Project)
+
+[Open detailed stats for Sorangon/Level-Up-Sketch-Open-Project](https://reviewgithub.com/rep/Sorangon/Level-Up-Sketch-Open-Project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 54 | 4 | 
 | 2022-09-07 | 54 | 4 | 
 
-
-[Detailed charts & statistics for Sorangon/Level-Up-Sketch-Open-Project](https://reviewgithub.com/rep/Sorangon/Level-Up-Sketch-Open-Project)

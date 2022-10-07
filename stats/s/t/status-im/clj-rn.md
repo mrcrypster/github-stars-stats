@@ -1,12 +1,14 @@
 # status-im/clj-rn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 56
 
 [Open repository](https://github.com/status-im/clj-rn)
+
+[Open detailed stats for status-im/clj-rn](https://reviewgithub.com/rep/status-im/clj-rn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 56 | 8 | 
 | 2022-09-08 | 56 | 8 | 
 
-
-[Detailed charts & statistics for status-im/clj-rn](https://reviewgithub.com/rep/status-im/clj-rn)

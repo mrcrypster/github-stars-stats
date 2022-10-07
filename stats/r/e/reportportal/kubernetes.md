@@ -1,12 +1,14 @@
 # reportportal/kubernetes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 178
 
 ★ Stars: 62
 
 [Open repository](https://github.com/reportportal/kubernetes)
+
+[Open detailed stats for reportportal/kubernetes](https://reviewgithub.com/rep/reportportal/kubernetes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 63 | 178 | 
 | 2022-09-08 | 64 | 178 | 
 
-
-[Detailed charts & statistics for reportportal/kubernetes](https://reviewgithub.com/rep/reportportal/kubernetes)

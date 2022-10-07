@@ -1,12 +1,14 @@
 # redcode-labs/RedNixOS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 124
 
 [Open repository](https://github.com/redcode-labs/RedNixOS)
+
+[Open detailed stats for redcode-labs/RedNixOS](https://reviewgithub.com/rep/redcode-labs/RedNixOS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 117 | 6 | 
 | 2022-09-08 | 117 | 6 | 
 
-
-[Detailed charts & statistics for redcode-labs/RedNixOS](https://reviewgithub.com/rep/redcode-labs/RedNixOS)

@@ -1,12 +1,14 @@
 # coder0211/kyan-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 10
 
 [Open repository](https://github.com/coder0211/kyan-app)
+
+[Open detailed stats for coder0211/kyan-app](https://reviewgithub.com/rep/coder0211/kyan-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 10 | 
 | 2022-09-07 | 10 | 10 | 
 
-
-[Detailed charts & statistics for coder0211/kyan-app](https://reviewgithub.com/rep/coder0211/kyan-app)

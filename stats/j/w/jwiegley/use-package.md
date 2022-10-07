@@ -1,12 +1,14 @@
 # jwiegley/use-package - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 252
 
 ★ Stars: 4012
 
 [Open repository](https://github.com/jwiegley/use-package)
+
+[Open detailed stats for jwiegley/use-package](https://reviewgithub.com/rep/jwiegley/use-package)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3985 | 250 | 
 | 2022-09-08 | 3985 | 250 | 
 
-
-[Detailed charts & statistics for jwiegley/use-package](https://reviewgithub.com/rep/jwiegley/use-package)

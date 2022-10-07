@@ -1,12 +1,14 @@
 # kazu0617/vrmtoglb_autoconvert - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 18
 
 [Open repository](https://github.com/kazu0617/vrmtoglb_autoconvert)
+
+[Open detailed stats for kazu0617/vrmtoglb_autoconvert](https://reviewgithub.com/rep/kazu0617/vrmtoglb_autoconvert)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 1 | 
 | 2022-09-08 | 17 | 1 | 
 
-
-[Detailed charts & statistics for kazu0617/vrmtoglb_autoconvert](https://reviewgithub.com/rep/kazu0617/vrmtoglb_autoconvert)

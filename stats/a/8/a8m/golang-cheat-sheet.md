@@ -1,12 +1,14 @@
 # a8m/golang-cheat-sheet - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 947
 
 ★ Stars: 6967
 
 [Open repository](https://github.com/a8m/golang-cheat-sheet)
+
+[Open detailed stats for a8m/golang-cheat-sheet](https://reviewgithub.com/rep/a8m/golang-cheat-sheet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6914 | 937 | 
 | 2022-09-07 | 6903 | 937 | 
 
-
-[Detailed charts & statistics for a8m/golang-cheat-sheet](https://reviewgithub.com/rep/a8m/golang-cheat-sheet)

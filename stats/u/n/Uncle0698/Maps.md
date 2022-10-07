@@ -1,12 +1,14 @@
 # Uncle0698/Maps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Uncle0698/Maps)
+
+[Open detailed stats for Uncle0698/Maps](https://reviewgithub.com/rep/Uncle0698/Maps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 15 | 
 | 2022-09-08 | - | 15 | 
 
-
-[Detailed charts & statistics for Uncle0698/Maps](https://reviewgithub.com/rep/Uncle0698/Maps)

@@ -1,12 +1,14 @@
 # hexojs/site - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1224
 
 ★ Stars: 616
 
 [Open repository](https://github.com/hexojs/site)
+
+[Open detailed stats for hexojs/site](https://reviewgithub.com/rep/hexojs/site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 611 | 1217 | 
 | 2022-09-07 | 611 | 1217 | 
 
-
-[Detailed charts & statistics for hexojs/site](https://reviewgithub.com/rep/hexojs/site)

@@ -1,12 +1,14 @@
 # mulesoft/data-weave-io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/mulesoft/data-weave-io)
+
+[Open detailed stats for mulesoft/data-weave-io](https://reviewgithub.com/rep/mulesoft/data-weave-io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | - | 
 | 2022-09-07 | 10 | - | 
 
-
-[Detailed charts & statistics for mulesoft/data-weave-io](https://reviewgithub.com/rep/mulesoft/data-weave-io)

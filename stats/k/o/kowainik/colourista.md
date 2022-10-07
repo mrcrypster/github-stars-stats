@@ -1,6 +1,6 @@
 # kowainik/colourista - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
@@ -8,11 +8,11 @@ Stats updated on Dec 54734, 12
 
 [Open repository](https://github.com/kowainik/colourista)
 
+[Open detailed stats for kowainik/colourista](https://reviewgithub.com/rep/kowainik/colourista)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 | 2022-10-07 | 58 | 14 | 
 | 2022-10-06 | 58 | 14 | 
 
-
-[Detailed charts & statistics for kowainik/colourista](https://reviewgithub.com/rep/kowainik/colourista)

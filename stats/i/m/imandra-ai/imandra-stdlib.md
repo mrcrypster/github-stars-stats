@@ -1,12 +1,14 @@
 # imandra-ai/imandra-stdlib - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 4
 
 [Open repository](https://github.com/imandra-ai/imandra-stdlib)
+
+[Open detailed stats for imandra-ai/imandra-stdlib](https://reviewgithub.com/rep/imandra-ai/imandra-stdlib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 4 | - | 
 | 2022-09-17 | 4 | - | 
 
-
-[Detailed charts & statistics for imandra-ai/imandra-stdlib](https://reviewgithub.com/rep/imandra-ai/imandra-stdlib)

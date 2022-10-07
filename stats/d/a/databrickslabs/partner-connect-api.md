@@ -1,12 +1,14 @@
 # databrickslabs/partner-connect-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
 
 [Open repository](https://github.com/databrickslabs/partner-connect-api)
+
+[Open detailed stats for databrickslabs/partner-connect-api](https://reviewgithub.com/rep/databrickslabs/partner-connect-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 1 | 
 | 2022-09-07 | 5 | 1 | 
 
-
-[Detailed charts & statistics for databrickslabs/partner-connect-api](https://reviewgithub.com/rep/databrickslabs/partner-connect-api)

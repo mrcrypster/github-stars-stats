@@ -1,12 +1,14 @@
 # Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 6
 
 [Open repository](https://github.com/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme)
+
+[Open detailed stats for Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme](https://reviewgithub.com/rep/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 4 | 
 | 2022-09-07 | 5 | 4 | 
 
-
-[Detailed charts & statistics for Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme](https://reviewgithub.com/rep/Samtech3D/FLSUN-SR-Klipper-Klipper-Screen-Neopixel-Theme)

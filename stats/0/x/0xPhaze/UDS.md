@@ -1,12 +1,14 @@
 # 0xPhaze/UDS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 30
 
 [Open repository](https://github.com/0xPhaze/UDS)
+
+[Open detailed stats for 0xPhaze/UDS](https://reviewgithub.com/rep/0xPhaze/UDS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 2 | 
 | 2022-09-08 | 29 | 2 | 
 
-
-[Detailed charts & statistics for 0xPhaze/UDS](https://reviewgithub.com/rep/0xPhaze/UDS)

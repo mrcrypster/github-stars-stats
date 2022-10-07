@@ -1,12 +1,14 @@
 # starforgelabs/shift-register-test-one-7-seg-diplay - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/starforgelabs/shift-register-test-one-7-seg-diplay)
+
+[Open detailed stats for starforgelabs/shift-register-test-one-7-seg-diplay](https://reviewgithub.com/rep/starforgelabs/shift-register-test-one-7-seg-diplay)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | - | - | 
 | 2022-09-24 | - | - | 
 
-
-[Detailed charts & statistics for starforgelabs/shift-register-test-one-7-seg-diplay](https://reviewgithub.com/rep/starforgelabs/shift-register-test-one-7-seg-diplay)

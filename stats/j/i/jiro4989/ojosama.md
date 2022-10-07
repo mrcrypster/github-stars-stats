@@ -1,12 +1,14 @@
 # jiro4989/ojosama - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 358
 
 [Open repository](https://github.com/jiro4989/ojosama)
+
+[Open detailed stats for jiro4989/ojosama](https://reviewgithub.com/rep/jiro4989/ojosama)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 357 | 12 | 
 | 2022-09-07 | 357 | 12 | 
 
-
-[Detailed charts & statistics for jiro4989/ojosama](https://reviewgithub.com/rep/jiro4989/ojosama)

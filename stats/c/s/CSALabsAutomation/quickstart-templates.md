@@ -1,12 +1,14 @@
 # CSALabsAutomation/quickstart-templates - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/CSALabsAutomation/quickstart-templates)
+
+[Open detailed stats for CSALabsAutomation/quickstart-templates](https://reviewgithub.com/rep/CSALabsAutomation/quickstart-templates)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for CSALabsAutomation/quickstart-templates](https://reviewgithub.com/rep/CSALabsAutomation/quickstart-templates)

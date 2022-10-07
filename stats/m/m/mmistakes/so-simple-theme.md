@@ -1,12 +1,14 @@
 # mmistakes/so-simple-theme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2415
 
 ★ Stars: 1799
 
 [Open repository](https://github.com/mmistakes/so-simple-theme)
+
+[Open detailed stats for mmistakes/so-simple-theme](https://reviewgithub.com/rep/mmistakes/so-simple-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1788 | 2403 | 
 | 2022-09-08 | 1788 | 2403 | 
 
-
-[Detailed charts & statistics for mmistakes/so-simple-theme](https://reviewgithub.com/rep/mmistakes/so-simple-theme)

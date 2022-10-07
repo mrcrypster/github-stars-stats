@@ -1,12 +1,14 @@
 # kadenzipfel/bit-packed-map - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 61
 
 [Open repository](https://github.com/kadenzipfel/bit-packed-map)
+
+[Open detailed stats for kadenzipfel/bit-packed-map](https://reviewgithub.com/rep/kadenzipfel/bit-packed-map)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 53 | 2 | 
 | 2022-09-07 | 53 | 2 | 
 
-
-[Detailed charts & statistics for kadenzipfel/bit-packed-map](https://reviewgithub.com/rep/kadenzipfel/bit-packed-map)

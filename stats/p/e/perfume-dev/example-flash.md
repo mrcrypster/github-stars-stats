@@ -1,12 +1,14 @@
 # perfume-dev/example-flash - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 46
 
 [Open repository](https://github.com/perfume-dev/example-flash)
+
+[Open detailed stats for perfume-dev/example-flash](https://reviewgithub.com/rep/perfume-dev/example-flash)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 46 | 10 | 
 | 2022-09-08 | 46 | 10 | 
 
-
-[Detailed charts & statistics for perfume-dev/example-flash](https://reviewgithub.com/rep/perfume-dev/example-flash)

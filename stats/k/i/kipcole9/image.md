@@ -1,12 +1,14 @@
 # kipcole9/image - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 83
 
 [Open repository](https://github.com/kipcole9/image)
+
+[Open detailed stats for kipcole9/image](https://reviewgithub.com/rep/kipcole9/image)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 72 | 8 | 
 | 2022-09-07 | 70 | 8 | 
 
-
-[Detailed charts & statistics for kipcole9/image](https://reviewgithub.com/rep/kipcole9/image)

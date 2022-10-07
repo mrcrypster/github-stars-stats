@@ -1,12 +1,14 @@
 # get-iplayer/get_iplayer_win32 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 119
 
 [Open repository](https://github.com/get-iplayer/get_iplayer_win32)
+
+[Open detailed stats for get-iplayer/get_iplayer_win32](https://reviewgithub.com/rep/get-iplayer/get_iplayer_win32)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 118 | 13 | 
 | 2022-09-08 | 118 | 13 | 
 
-
-[Detailed charts & statistics for get-iplayer/get_iplayer_win32](https://reviewgithub.com/rep/get-iplayer/get_iplayer_win32)

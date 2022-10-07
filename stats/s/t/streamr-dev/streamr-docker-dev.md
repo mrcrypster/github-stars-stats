@@ -1,12 +1,14 @@
 # streamr-dev/streamr-docker-dev - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 10
 
 [Open repository](https://github.com/streamr-dev/streamr-docker-dev)
+
+[Open detailed stats for streamr-dev/streamr-docker-dev](https://reviewgithub.com/rep/streamr-dev/streamr-docker-dev)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-21 | 10 | 3 | 
 | 2022-09-20 | 10 | 3 | 
 
-
-[Detailed charts & statistics for streamr-dev/streamr-docker-dev](https://reviewgithub.com/rep/streamr-dev/streamr-docker-dev)

@@ -1,12 +1,14 @@
 # NCAR/aerosol-workshop-driver - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 4
 
 [Open repository](https://github.com/NCAR/aerosol-workshop-driver)
+
+[Open detailed stats for NCAR/aerosol-workshop-driver](https://reviewgithub.com/rep/NCAR/aerosol-workshop-driver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 6 | 
 | 2022-09-08 | 4 | 6 | 
 
-
-[Detailed charts & statistics for NCAR/aerosol-workshop-driver](https://reviewgithub.com/rep/NCAR/aerosol-workshop-driver)

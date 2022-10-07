@@ -1,12 +1,14 @@
 # abner/flutter_js - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 65
 
 ★ Stars: 317
 
 [Open repository](https://github.com/abner/flutter_js)
+
+[Open detailed stats for abner/flutter_js](https://reviewgithub.com/rep/abner/flutter_js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 313 | 60 | 
 | 2022-09-07 | 313 | 60 | 
 
-
-[Detailed charts & statistics for abner/flutter_js](https://reviewgithub.com/rep/abner/flutter_js)

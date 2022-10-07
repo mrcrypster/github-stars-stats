@@ -1,12 +1,14 @@
 # elastic/integrations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 202
 
 ★ Stars: 91
 
 [Open repository](https://github.com/elastic/integrations)
+
+[Open detailed stats for elastic/integrations](https://reviewgithub.com/rep/elastic/integrations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 89 | 191 | 
 | 2022-09-07 | 89 | 191 | 
 
-
-[Detailed charts & statistics for elastic/integrations](https://reviewgithub.com/rep/elastic/integrations)

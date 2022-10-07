@@ -1,12 +1,14 @@
 # wix/DTXLoggingInfra - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 18
 
 [Open repository](https://github.com/wix/DTXLoggingInfra)
+
+[Open detailed stats for wix/DTXLoggingInfra](https://reviewgithub.com/rep/wix/DTXLoggingInfra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 18 | 3 | 
 | 2022-09-07 | 18 | 3 | 
 
-
-[Detailed charts & statistics for wix/DTXLoggingInfra](https://reviewgithub.com/rep/wix/DTXLoggingInfra)

@@ -1,12 +1,14 @@
 # denispeplin/codeschool-nodejs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/denispeplin/codeschool-nodejs)
+
+[Open detailed stats for denispeplin/codeschool-nodejs](https://reviewgithub.com/rep/denispeplin/codeschool-nodejs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for denispeplin/codeschool-nodejs](https://reviewgithub.com/rep/denispeplin/codeschool-nodejs)

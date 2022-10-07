@@ -1,12 +1,14 @@
 # OverflowCat/simpublish - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 9
 
 [Open repository](https://github.com/OverflowCat/simpublish)
+
+[Open detailed stats for OverflowCat/simpublish](https://reviewgithub.com/rep/OverflowCat/simpublish)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 8 | 
 | 2022-09-08 | 7 | 8 | 
 
-
-[Detailed charts & statistics for OverflowCat/simpublish](https://reviewgithub.com/rep/OverflowCat/simpublish)

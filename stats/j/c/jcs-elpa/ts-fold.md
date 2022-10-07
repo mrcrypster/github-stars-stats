@@ -1,12 +1,14 @@
 # jcs-elpa/ts-fold - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 23
 
 [Open repository](https://github.com/jcs-elpa/ts-fold)
+
+[Open detailed stats for jcs-elpa/ts-fold](https://reviewgithub.com/rep/jcs-elpa/ts-fold)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 12 | 
 | 2022-09-07 | 21 | 12 | 
 
-
-[Detailed charts & statistics for jcs-elpa/ts-fold](https://reviewgithub.com/rep/jcs-elpa/ts-fold)

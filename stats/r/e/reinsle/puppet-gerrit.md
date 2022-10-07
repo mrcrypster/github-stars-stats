@@ -1,12 +1,14 @@
 # reinsle/puppet-gerrit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 6
 
 [Open repository](https://github.com/reinsle/puppet-gerrit)
+
+[Open detailed stats for reinsle/puppet-gerrit](https://reviewgithub.com/rep/reinsle/puppet-gerrit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 13 | 
 | 2022-09-07 | 6 | 13 | 
 
-
-[Detailed charts & statistics for reinsle/puppet-gerrit](https://reviewgithub.com/rep/reinsle/puppet-gerrit)

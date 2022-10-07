@@ -1,12 +1,14 @@
 # NikoLuo1010/GeneDAO - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 73
 
 ★ Stars: 301
 
 [Open repository](https://github.com/NikoLuo1010/GeneDAO)
+
+[Open detailed stats for NikoLuo1010/GeneDAO](https://reviewgithub.com/rep/NikoLuo1010/GeneDAO)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 303 | 73 | 
 | 2022-09-08 | 303 | 73 | 
 
-
-[Detailed charts & statistics for NikoLuo1010/GeneDAO](https://reviewgithub.com/rep/NikoLuo1010/GeneDAO)

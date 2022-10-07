@@ -1,12 +1,14 @@
 # GaloisInc/semmc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 35
 
 [Open repository](https://github.com/GaloisInc/semmc)
+
+[Open detailed stats for GaloisInc/semmc](https://reviewgithub.com/rep/GaloisInc/semmc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 7 | 
 | 2022-09-07 | 35 | 7 | 
 
-
-[Detailed charts & statistics for GaloisInc/semmc](https://reviewgithub.com/rep/GaloisInc/semmc)

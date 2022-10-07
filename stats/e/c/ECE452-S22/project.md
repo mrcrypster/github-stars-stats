@@ -1,12 +1,14 @@
 # ECE452-S22/project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ECE452-S22/project)
+
+[Open detailed stats for ECE452-S22/project](https://reviewgithub.com/rep/ECE452-S22/project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 3 | 
 | 2022-09-08 | - | 3 | 
 
-
-[Detailed charts & statistics for ECE452-S22/project](https://reviewgithub.com/rep/ECE452-S22/project)

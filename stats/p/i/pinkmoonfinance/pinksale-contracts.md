@@ -1,12 +1,14 @@
 # pinkmoonfinance/pinksale-contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 19
 
 [Open repository](https://github.com/pinkmoonfinance/pinksale-contracts)
+
+[Open detailed stats for pinkmoonfinance/pinksale-contracts](https://reviewgithub.com/rep/pinkmoonfinance/pinksale-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 45 | 
 | 2022-09-07 | 19 | 45 | 
 
-
-[Detailed charts & statistics for pinkmoonfinance/pinksale-contracts](https://reviewgithub.com/rep/pinkmoonfinance/pinksale-contracts)

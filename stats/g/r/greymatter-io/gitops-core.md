@@ -1,12 +1,14 @@
 # greymatter-io/gitops-core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/greymatter-io/gitops-core)
+
+[Open detailed stats for greymatter-io/gitops-core](https://reviewgithub.com/rep/greymatter-io/gitops-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for greymatter-io/gitops-core](https://reviewgithub.com/rep/greymatter-io/gitops-core)

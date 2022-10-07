@@ -1,12 +1,14 @@
 # fegemo/cefet-web-geiser - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 139
 
 ★ Stars: 4
 
 [Open repository](https://github.com/fegemo/cefet-web-geiser)
+
+[Open detailed stats for fegemo/cefet-web-geiser](https://reviewgithub.com/rep/fegemo/cefet-web-geiser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 139 | 
 | 2022-09-07 | 4 | 139 | 
 
-
-[Detailed charts & statistics for fegemo/cefet-web-geiser](https://reviewgithub.com/rep/fegemo/cefet-web-geiser)

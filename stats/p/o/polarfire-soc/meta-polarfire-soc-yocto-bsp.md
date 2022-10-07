@@ -1,12 +1,14 @@
 # polarfire-soc/meta-polarfire-soc-yocto-bsp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 26
 
 [Open repository](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp)
+
+[Open detailed stats for polarfire-soc/meta-polarfire-soc-yocto-bsp](https://reviewgithub.com/rep/polarfire-soc/meta-polarfire-soc-yocto-bsp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 26 | 23 | 
 | 2022-09-08 | 26 | 23 | 
 
-
-[Detailed charts & statistics for polarfire-soc/meta-polarfire-soc-yocto-bsp](https://reviewgithub.com/rep/polarfire-soc/meta-polarfire-soc-yocto-bsp)

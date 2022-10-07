@@ -1,12 +1,14 @@
 # chshersh/ghc-plugin-non-empty - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 22
 
 [Open repository](https://github.com/chshersh/ghc-plugin-non-empty)
+
+[Open detailed stats for chshersh/ghc-plugin-non-empty](https://reviewgithub.com/rep/chshersh/ghc-plugin-non-empty)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 2 | 
 | 2022-09-07 | 22 | 2 | 
 
-
-[Detailed charts & statistics for chshersh/ghc-plugin-non-empty](https://reviewgithub.com/rep/chshersh/ghc-plugin-non-empty)

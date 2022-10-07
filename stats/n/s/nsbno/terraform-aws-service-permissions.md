@@ -1,12 +1,14 @@
 # nsbno/terraform-aws-service-permissions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/nsbno/terraform-aws-service-permissions)
+
+[Open detailed stats for nsbno/terraform-aws-service-permissions](https://reviewgithub.com/rep/nsbno/terraform-aws-service-permissions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for nsbno/terraform-aws-service-permissions](https://reviewgithub.com/rep/nsbno/terraform-aws-service-permissions)

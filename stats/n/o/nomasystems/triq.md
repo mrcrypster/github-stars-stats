@@ -1,12 +1,14 @@
 # nomasystems/triq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nomasystems/triq)
+
+[Open detailed stats for nomasystems/triq](https://reviewgithub.com/rep/nomasystems/triq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for nomasystems/triq](https://reviewgithub.com/rep/nomasystems/triq)

@@ -1,12 +1,14 @@
 # bill-zhanxg/MEMZ_Destructive_Clean-Download - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 9
 
 [Open repository](https://github.com/bill-zhanxg/MEMZ_Destructive_Clean-Download)
+
+[Open detailed stats for bill-zhanxg/MEMZ_Destructive_Clean-Download](https://reviewgithub.com/rep/bill-zhanxg/MEMZ_Destructive_Clean-Download)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 22 | 
 | 2022-09-07 | 8 | 22 | 
 
-
-[Detailed charts & statistics for bill-zhanxg/MEMZ_Destructive_Clean-Download](https://reviewgithub.com/rep/bill-zhanxg/MEMZ_Destructive_Clean-Download)

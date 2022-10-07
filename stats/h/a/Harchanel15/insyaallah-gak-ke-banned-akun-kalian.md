@@ -1,12 +1,14 @@
 # Harchanel15/insyaallah-gak-ke-banned-akun-kalian - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 71
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Harchanel15/insyaallah-gak-ke-banned-akun-kalian)
+
+[Open detailed stats for Harchanel15/insyaallah-gak-ke-banned-akun-kalian](https://reviewgithub.com/rep/Harchanel15/insyaallah-gak-ke-banned-akun-kalian)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 61 | 
 | 2022-09-08 | 2 | 61 | 
 
-
-[Detailed charts & statistics for Harchanel15/insyaallah-gak-ke-banned-akun-kalian](https://reviewgithub.com/rep/Harchanel15/insyaallah-gak-ke-banned-akun-kalian)

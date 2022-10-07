@@ -1,12 +1,14 @@
 # alphadose/ZenQ - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 517
 
 [Open repository](https://github.com/alphadose/ZenQ)
+
+[Open detailed stats for alphadose/ZenQ](https://reviewgithub.com/rep/alphadose/ZenQ)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 494 | 15 | 
 | 2022-09-08 | 494 | 15 | 
 
-
-[Detailed charts & statistics for alphadose/ZenQ](https://reviewgithub.com/rep/alphadose/ZenQ)

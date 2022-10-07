@@ -1,12 +1,14 @@
 # NashFP/euler - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 7
 
 [Open repository](https://github.com/NashFP/euler)
+
+[Open detailed stats for NashFP/euler](https://reviewgithub.com/rep/NashFP/euler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7 | 8 | 
 | 2022-09-07 | 7 | 8 | 
 
-
-[Detailed charts & statistics for NashFP/euler](https://reviewgithub.com/rep/NashFP/euler)

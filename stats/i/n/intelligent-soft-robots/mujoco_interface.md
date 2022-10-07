@@ -1,12 +1,14 @@
 # intelligent-soft-robots/mujoco_interface - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/intelligent-soft-robots/mujoco_interface)
+
+[Open detailed stats for intelligent-soft-robots/mujoco_interface](https://reviewgithub.com/rep/intelligent-soft-robots/mujoco_interface)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for intelligent-soft-robots/mujoco_interface](https://reviewgithub.com/rep/intelligent-soft-robots/mujoco_interface)

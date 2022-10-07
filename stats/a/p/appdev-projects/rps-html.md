@@ -1,12 +1,14 @@
 # appdev-projects/rps-html - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 853
 
 ★ Stars: 1
 
 [Open repository](https://github.com/appdev-projects/rps-html)
+
+[Open detailed stats for appdev-projects/rps-html](https://reviewgithub.com/rep/appdev-projects/rps-html)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 744 | 
 | 2022-09-07 | 1 | 744 | 
 
-
-[Detailed charts & statistics for appdev-projects/rps-html](https://reviewgithub.com/rep/appdev-projects/rps-html)

@@ -1,12 +1,14 @@
 # scratchnative/scratch-linux-modules - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 80
 
 [Open repository](https://github.com/scratchnative/scratch-linux-modules)
+
+[Open detailed stats for scratchnative/scratch-linux-modules](https://reviewgithub.com/rep/scratchnative/scratch-linux-modules)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 3 | 
 | 2022-09-07 | 78 | 3 | 
 
-
-[Detailed charts & statistics for scratchnative/scratch-linux-modules](https://reviewgithub.com/rep/scratchnative/scratch-linux-modules)

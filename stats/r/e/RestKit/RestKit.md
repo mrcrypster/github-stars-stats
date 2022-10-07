@@ -1,12 +1,14 @@
 # RestKit/RestKit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2173
 
 ★ Stars: 10245
 
 [Open repository](https://github.com/RestKit/RestKit)
+
+[Open detailed stats for RestKit/RestKit](https://reviewgithub.com/rep/RestKit/RestKit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10250 | 2179 | 
 | 2022-09-08 | 10249 | 2179 | 
 
-
-[Detailed charts & statistics for RestKit/RestKit](https://reviewgithub.com/rep/RestKit/RestKit)

@@ -1,12 +1,14 @@
 # mak-mat/Docker_Webserver - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mak-mat/Docker_Webserver)
+
+[Open detailed stats for mak-mat/Docker_Webserver](https://reviewgithub.com/rep/mak-mat/Docker_Webserver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 8 | 
 | 2022-09-08 | - | 8 | 
 
-
-[Detailed charts & statistics for mak-mat/Docker_Webserver](https://reviewgithub.com/rep/mak-mat/Docker_Webserver)

@@ -1,12 +1,14 @@
 # codewithsadee/realvine - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 28
 
 [Open repository](https://github.com/codewithsadee/realvine)
+
+[Open detailed stats for codewithsadee/realvine](https://reviewgithub.com/rep/codewithsadee/realvine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 28 | 7 | 
 | 2022-09-08 | 28 | 7 | 
 
-
-[Detailed charts & statistics for codewithsadee/realvine](https://reviewgithub.com/rep/codewithsadee/realvine)

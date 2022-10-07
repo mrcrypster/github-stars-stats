@@ -1,12 +1,14 @@
 # cloudposse/terraform-terraform-label - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 57
 
 ★ Stars: 117
 
 [Open repository](https://github.com/cloudposse/terraform-terraform-label)
+
+[Open detailed stats for cloudposse/terraform-terraform-label](https://reviewgithub.com/rep/cloudposse/terraform-terraform-label)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 118 | 56 | 
 | 2022-09-08 | 118 | 56 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-terraform-label](https://reviewgithub.com/rep/cloudposse/terraform-terraform-label)

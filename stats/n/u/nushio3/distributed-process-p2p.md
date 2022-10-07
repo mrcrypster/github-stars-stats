@@ -1,12 +1,14 @@
 # nushio3/distributed-process-p2p - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/nushio3/distributed-process-p2p)
+
+[Open detailed stats for nushio3/distributed-process-p2p](https://reviewgithub.com/rep/nushio3/distributed-process-p2p)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 1 | - | 
 | 2022-09-17 | 1 | - | 
 
-
-[Detailed charts & statistics for nushio3/distributed-process-p2p](https://reviewgithub.com/rep/nushio3/distributed-process-p2p)

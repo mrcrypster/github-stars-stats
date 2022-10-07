@@ -1,12 +1,14 @@
 # vinodstanur/multitasking-in-avr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/vinodstanur/multitasking-in-avr)
+
+[Open detailed stats for vinodstanur/multitasking-in-avr](https://reviewgithub.com/rep/vinodstanur/multitasking-in-avr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-29 | 2 | - | 
 | 2022-09-28 | 2 | - | 
 
-
-[Detailed charts & statistics for vinodstanur/multitasking-in-avr](https://reviewgithub.com/rep/vinodstanur/multitasking-in-avr)

@@ -1,12 +1,14 @@
 # qt/qttranslations - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 14
 
 [Open repository](https://github.com/qt/qttranslations)
+
+[Open detailed stats for qt/qttranslations](https://reviewgithub.com/rep/qt/qttranslations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 34 | 
 | 2022-09-07 | 14 | 34 | 
 
-
-[Detailed charts & statistics for qt/qttranslations](https://reviewgithub.com/rep/qt/qttranslations)

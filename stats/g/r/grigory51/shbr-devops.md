@@ -1,12 +1,14 @@
 # grigory51/shbr-devops - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 35
 
 [Open repository](https://github.com/grigory51/shbr-devops)
+
+[Open detailed stats for grigory51/shbr-devops](https://reviewgithub.com/rep/grigory51/shbr-devops)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 21 | 
 | 2022-09-07 | 33 | 21 | 
 
-
-[Detailed charts & statistics for grigory51/shbr-devops](https://reviewgithub.com/rep/grigory51/shbr-devops)

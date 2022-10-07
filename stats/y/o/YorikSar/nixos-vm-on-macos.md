@@ -1,12 +1,14 @@
 # YorikSar/nixos-vm-on-macos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 29
 
 [Open repository](https://github.com/YorikSar/nixos-vm-on-macos)
+
+[Open detailed stats for YorikSar/nixos-vm-on-macos](https://reviewgithub.com/rep/YorikSar/nixos-vm-on-macos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | - | 
 | 2022-09-08 | 9 | - | 
 
-
-[Detailed charts & statistics for YorikSar/nixos-vm-on-macos](https://reviewgithub.com/rep/YorikSar/nixos-vm-on-macos)

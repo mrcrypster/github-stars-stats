@@ -1,12 +1,14 @@
 # giantswarm/prometheus-operator-crd - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/giantswarm/prometheus-operator-crd)
+
+[Open detailed stats for giantswarm/prometheus-operator-crd](https://reviewgithub.com/rep/giantswarm/prometheus-operator-crd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | - | 1 | 
 | 2022-10-01 | - | 1 | 
 
-
-[Detailed charts & statistics for giantswarm/prometheus-operator-crd](https://reviewgithub.com/rep/giantswarm/prometheus-operator-crd)

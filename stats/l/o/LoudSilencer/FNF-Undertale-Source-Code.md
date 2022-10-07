@@ -1,12 +1,14 @@
 # LoudSilencer/FNF-Undertale-Source-Code - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 11
 
 [Open repository](https://github.com/LoudSilencer/FNF-Undertale-Source-Code)
+
+[Open detailed stats for LoudSilencer/FNF-Undertale-Source-Code](https://reviewgithub.com/rep/LoudSilencer/FNF-Undertale-Source-Code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 16 | 
 | 2022-09-08 | 10 | 16 | 
 
-
-[Detailed charts & statistics for LoudSilencer/FNF-Undertale-Source-Code](https://reviewgithub.com/rep/LoudSilencer/FNF-Undertale-Source-Code)

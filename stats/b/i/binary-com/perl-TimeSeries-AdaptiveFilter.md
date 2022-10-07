@@ -1,12 +1,14 @@
 # binary-com/perl-TimeSeries-AdaptiveFilter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-TimeSeries-AdaptiveFilter)
+
+[Open detailed stats for binary-com/perl-TimeSeries-AdaptiveFilter](https://reviewgithub.com/rep/binary-com/perl-TimeSeries-AdaptiveFilter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for binary-com/perl-TimeSeries-AdaptiveFilter](https://reviewgithub.com/rep/binary-com/perl-TimeSeries-AdaptiveFilter)

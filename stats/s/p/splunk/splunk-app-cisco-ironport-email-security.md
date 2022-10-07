@@ -1,12 +1,14 @@
 # splunk/splunk-app-cisco-ironport-email-security - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/splunk/splunk-app-cisco-ironport-email-security)
+
+[Open detailed stats for splunk/splunk-app-cisco-ironport-email-security](https://reviewgithub.com/rep/splunk/splunk-app-cisco-ironport-email-security)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 5 | 
 | 2022-09-08 | 1 | 5 | 
 
-
-[Detailed charts & statistics for splunk/splunk-app-cisco-ironport-email-security](https://reviewgithub.com/rep/splunk/splunk-app-cisco-ironport-email-security)

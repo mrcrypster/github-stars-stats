@@ -1,12 +1,14 @@
 # edoliberty/algorithms-in-data-mining - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 23
 
 [Open repository](https://github.com/edoliberty/algorithms-in-data-mining)
+
+[Open detailed stats for edoliberty/algorithms-in-data-mining](https://reviewgithub.com/rep/edoliberty/algorithms-in-data-mining)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 22 | 1 | 
 | 2022-09-07 | 22 | 1 | 
 
-
-[Detailed charts & statistics for edoliberty/algorithms-in-data-mining](https://reviewgithub.com/rep/edoliberty/algorithms-in-data-mining)

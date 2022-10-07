@@ -1,12 +1,14 @@
 # purescript/package-sets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 320
 
 ★ Stars: 196
 
 [Open repository](https://github.com/purescript/package-sets)
+
+[Open detailed stats for purescript/package-sets](https://reviewgithub.com/rep/purescript/package-sets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 196 | 320 | 
 | 2022-09-07 | 196 | 320 | 
 
-
-[Detailed charts & statistics for purescript/package-sets](https://reviewgithub.com/rep/purescript/package-sets)

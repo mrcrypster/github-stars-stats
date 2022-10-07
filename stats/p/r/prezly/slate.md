@@ -1,12 +1,14 @@
 # prezly/slate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 33
 
 [Open repository](https://github.com/prezly/slate)
+
+[Open detailed stats for prezly/slate](https://reviewgithub.com/rep/prezly/slate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 32 | 5 | 
 | 2022-09-07 | 32 | 5 | 
 
-
-[Detailed charts & statistics for prezly/slate](https://reviewgithub.com/rep/prezly/slate)

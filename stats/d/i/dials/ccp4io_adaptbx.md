@@ -1,12 +1,14 @@
 # dials/ccp4io_adaptbx - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dials/ccp4io_adaptbx)
+
+[Open detailed stats for dials/ccp4io_adaptbx](https://reviewgithub.com/rep/dials/ccp4io_adaptbx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for dials/ccp4io_adaptbx](https://reviewgithub.com/rep/dials/ccp4io_adaptbx)

@@ -1,12 +1,14 @@
 # cirulls/hands-on-jenkins - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 580
 
 ★ Stars: 64
 
 [Open repository](https://github.com/cirulls/hands-on-jenkins)
+
+[Open detailed stats for cirulls/hands-on-jenkins](https://reviewgithub.com/rep/cirulls/hands-on-jenkins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 64 | 572 | 
 | 2022-09-07 | 64 | 572 | 
 
-
-[Detailed charts & statistics for cirulls/hands-on-jenkins](https://reviewgithub.com/rep/cirulls/hands-on-jenkins)

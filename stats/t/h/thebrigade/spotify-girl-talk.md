@@ -1,12 +1,14 @@
 # thebrigade/spotify-girl-talk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/thebrigade/spotify-girl-talk)
+
+[Open detailed stats for thebrigade/spotify-girl-talk](https://reviewgithub.com/rep/thebrigade/spotify-girl-talk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for thebrigade/spotify-girl-talk](https://reviewgithub.com/rep/thebrigade/spotify-girl-talk)

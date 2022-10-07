@@ -1,12 +1,14 @@
 # MicrosoftDocs/navdevitpro-content-pr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 6
 
 [Open repository](https://github.com/MicrosoftDocs/navdevitpro-content-pr)
+
+[Open detailed stats for MicrosoftDocs/navdevitpro-content-pr](https://reviewgithub.com/rep/MicrosoftDocs/navdevitpro-content-pr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 29 | 
 | 2022-09-07 | 6 | 29 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/navdevitpro-content-pr](https://reviewgithub.com/rep/MicrosoftDocs/navdevitpro-content-pr)

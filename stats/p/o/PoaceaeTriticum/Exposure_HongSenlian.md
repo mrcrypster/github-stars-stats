@@ -1,12 +1,14 @@
 # PoaceaeTriticum/Exposure_HongSenlian - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 106
 
 [Open repository](https://github.com/PoaceaeTriticum/Exposure_HongSenlian)
+
+[Open detailed stats for PoaceaeTriticum/Exposure_HongSenlian](https://reviewgithub.com/rep/PoaceaeTriticum/Exposure_HongSenlian)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 107 | 21 | 
 | 2022-09-08 | 107 | 21 | 
 
-
-[Detailed charts & statistics for PoaceaeTriticum/Exposure_HongSenlian](https://reviewgithub.com/rep/PoaceaeTriticum/Exposure_HongSenlian)

@@ -1,12 +1,14 @@
 # stancl/tenancy-docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 254
 
 ★ Stars: 42
 
 [Open repository](https://github.com/stancl/tenancy-docs)
+
+[Open detailed stats for stancl/tenancy-docs](https://reviewgithub.com/rep/stancl/tenancy-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 41 | 240 | 
 | 2022-09-08 | 41 | 240 | 
 
-
-[Detailed charts & statistics for stancl/tenancy-docs](https://reviewgithub.com/rep/stancl/tenancy-docs)

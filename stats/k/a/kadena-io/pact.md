@@ -1,12 +1,14 @@
 # kadena-io/pact - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 88
 
 ★ Stars: 527
 
 [Open repository](https://github.com/kadena-io/pact)
+
+[Open detailed stats for kadena-io/pact](https://reviewgithub.com/rep/kadena-io/pact)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 524 | 84 | 
 | 2022-09-07 | 524 | 84 | 
 
-
-[Detailed charts & statistics for kadena-io/pact](https://reviewgithub.com/rep/kadena-io/pact)

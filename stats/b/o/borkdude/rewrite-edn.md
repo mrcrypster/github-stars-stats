@@ -1,12 +1,14 @@
 # borkdude/rewrite-edn - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 68
 
 [Open repository](https://github.com/borkdude/rewrite-edn)
+
+[Open detailed stats for borkdude/rewrite-edn](https://reviewgithub.com/rep/borkdude/rewrite-edn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 65 | 9 | 
 | 2022-09-08 | 65 | 9 | 
 
-
-[Detailed charts & statistics for borkdude/rewrite-edn](https://reviewgithub.com/rep/borkdude/rewrite-edn)

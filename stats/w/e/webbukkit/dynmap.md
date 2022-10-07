@@ -1,12 +1,14 @@
 # webbukkit/dynmap - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 389
 
 ★ Stars: 1721
 
 [Open repository](https://github.com/webbukkit/dynmap)
+
+[Open detailed stats for webbukkit/dynmap](https://reviewgithub.com/rep/webbukkit/dynmap)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1709 | 385 | 
 | 2022-09-07 | 1708 | 385 | 
 
-
-[Detailed charts & statistics for webbukkit/dynmap](https://reviewgithub.com/rep/webbukkit/dynmap)

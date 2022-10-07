@@ -1,12 +1,14 @@
 # laylacodes/cheatsheets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 384
 
 [Open repository](https://github.com/laylacodes/cheatsheets)
+
+[Open detailed stats for laylacodes/cheatsheets](https://reviewgithub.com/rep/laylacodes/cheatsheets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 373 | 39 | 
 | 2022-09-07 | 371 | 38 | 
 
-
-[Detailed charts & statistics for laylacodes/cheatsheets](https://reviewgithub.com/rep/laylacodes/cheatsheets)

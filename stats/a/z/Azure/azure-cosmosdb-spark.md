@@ -1,12 +1,14 @@
 # Azure/azure-cosmosdb-spark - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 119
 
 ★ Stars: 187
 
 [Open repository](https://github.com/Azure/azure-cosmosdb-spark)
+
+[Open detailed stats for Azure/azure-cosmosdb-spark](https://reviewgithub.com/rep/Azure/azure-cosmosdb-spark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 187 | 119 | 
 | 2022-09-07 | 187 | 119 | 
 
-
-[Detailed charts & statistics for Azure/azure-cosmosdb-spark](https://reviewgithub.com/rep/Azure/azure-cosmosdb-spark)

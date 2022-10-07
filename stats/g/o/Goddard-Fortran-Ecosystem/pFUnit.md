@@ -1,12 +1,14 @@
 # Goddard-Fortran-Ecosystem/pFUnit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 33
 
 ★ Stars: 144
 
 [Open repository](https://github.com/Goddard-Fortran-Ecosystem/pFUnit)
+
+[Open detailed stats for Goddard-Fortran-Ecosystem/pFUnit](https://reviewgithub.com/rep/Goddard-Fortran-Ecosystem/pFUnit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 144 | 33 | 
 | 2022-09-08 | 144 | 33 | 
 
-
-[Detailed charts & statistics for Goddard-Fortran-Ecosystem/pFUnit](https://reviewgithub.com/rep/Goddard-Fortran-Ecosystem/pFUnit)

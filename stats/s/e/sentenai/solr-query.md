@@ -1,12 +1,14 @@
 # sentenai/solr-query - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sentenai/solr-query)
+
+[Open detailed stats for sentenai/solr-query](https://reviewgithub.com/rep/sentenai/solr-query)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for sentenai/solr-query](https://reviewgithub.com/rep/sentenai/solr-query)

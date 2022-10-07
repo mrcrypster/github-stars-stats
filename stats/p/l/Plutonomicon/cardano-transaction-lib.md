@@ -1,12 +1,14 @@
 # Plutonomicon/cardano-transaction-lib - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 58
 
 [Open repository](https://github.com/Plutonomicon/cardano-transaction-lib)
+
+[Open detailed stats for Plutonomicon/cardano-transaction-lib](https://reviewgithub.com/rep/Plutonomicon/cardano-transaction-lib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 54 | 27 | 
 | 2022-09-08 | 54 | 27 | 
 
-
-[Detailed charts & statistics for Plutonomicon/cardano-transaction-lib](https://reviewgithub.com/rep/Plutonomicon/cardano-transaction-lib)

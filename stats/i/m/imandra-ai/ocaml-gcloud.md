@@ -1,12 +1,14 @@
 # imandra-ai/ocaml-gcloud - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 20
 
 [Open repository](https://github.com/imandra-ai/ocaml-gcloud)
+
+[Open detailed stats for imandra-ai/ocaml-gcloud](https://reviewgithub.com/rep/imandra-ai/ocaml-gcloud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 20 | 4 | 
 | 2022-09-14 | 20 | 4 | 
 
-
-[Detailed charts & statistics for imandra-ai/ocaml-gcloud](https://reviewgithub.com/rep/imandra-ai/ocaml-gcloud)

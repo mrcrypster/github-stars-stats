@@ -1,12 +1,14 @@
 # MineralsCloud/EquationsOfStateOfSolids.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 11
 
 [Open repository](https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl)
+
+[Open detailed stats for MineralsCloud/EquationsOfStateOfSolids.jl](https://reviewgithub.com/rep/MineralsCloud/EquationsOfStateOfSolids.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 10 | - | 
 | 2022-09-11 | 10 | - | 
 
-
-[Detailed charts & statistics for MineralsCloud/EquationsOfStateOfSolids.jl](https://reviewgithub.com/rep/MineralsCloud/EquationsOfStateOfSolids.jl)

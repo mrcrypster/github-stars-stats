@@ -1,12 +1,14 @@
 # GavinMendelGleason/blog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 60
 
 [Open repository](https://github.com/GavinMendelGleason/blog)
+
+[Open detailed stats for GavinMendelGleason/blog](https://reviewgithub.com/rep/GavinMendelGleason/blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 9 | 
 | 2022-09-07 | 60 | 9 | 
 
-
-[Detailed charts & statistics for GavinMendelGleason/blog](https://reviewgithub.com/rep/GavinMendelGleason/blog)

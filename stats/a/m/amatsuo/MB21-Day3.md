@@ -1,12 +1,14 @@
 # amatsuo/MB21-Day3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/amatsuo/MB21-Day3)
+
+[Open detailed stats for amatsuo/MB21-Day3](https://reviewgithub.com/rep/amatsuo/MB21-Day3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 9 | 
 | 2022-09-08 | - | 9 | 
 
-
-[Detailed charts & statistics for amatsuo/MB21-Day3](https://reviewgithub.com/rep/amatsuo/MB21-Day3)

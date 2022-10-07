@@ -1,12 +1,14 @@
 # horovod/horovod - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2118
 
 ★ Stars: 12759
 
 [Open repository](https://github.com/horovod/horovod)
+
+[Open detailed stats for horovod/horovod](https://reviewgithub.com/rep/horovod/horovod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12704 | 2109 | 
 | 2022-09-08 | 12701 | 2105 | 
 
-
-[Detailed charts & statistics for horovod/horovod](https://reviewgithub.com/rep/horovod/horovod)

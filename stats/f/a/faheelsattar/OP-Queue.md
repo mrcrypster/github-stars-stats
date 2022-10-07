@@ -1,12 +1,14 @@
 # faheelsattar/OP-Queue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 29
 
 [Open repository](https://github.com/faheelsattar/OP-Queue)
+
+[Open detailed stats for faheelsattar/OP-Queue](https://reviewgithub.com/rep/faheelsattar/OP-Queue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | 28 | - | 
 | 2022-10-05 | 28 | - | 
 
-
-[Detailed charts & statistics for faheelsattar/OP-Queue](https://reviewgithub.com/rep/faheelsattar/OP-Queue)

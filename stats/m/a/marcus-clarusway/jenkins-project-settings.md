@@ -1,12 +1,14 @@
 # marcus-clarusway/jenkins-project-settings - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/marcus-clarusway/jenkins-project-settings)
+
+[Open detailed stats for marcus-clarusway/jenkins-project-settings](https://reviewgithub.com/rep/marcus-clarusway/jenkins-project-settings)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | - | 4 | 
 | 2022-09-26 | - | 4 | 
 
-
-[Detailed charts & statistics for marcus-clarusway/jenkins-project-settings](https://reviewgithub.com/rep/marcus-clarusway/jenkins-project-settings)

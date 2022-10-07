@@ -1,12 +1,14 @@
 # ansljeremy/qb-forgery - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 14
 
 [Open repository](https://github.com/ansljeremy/qb-forgery)
+
+[Open detailed stats for ansljeremy/qb-forgery](https://reviewgithub.com/rep/ansljeremy/qb-forgery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 9 | 
 | 2022-09-08 | 11 | 9 | 
 
-
-[Detailed charts & statistics for ansljeremy/qb-forgery](https://reviewgithub.com/rep/ansljeremy/qb-forgery)

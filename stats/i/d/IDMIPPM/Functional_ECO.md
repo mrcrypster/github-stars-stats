@@ -1,12 +1,14 @@
 # IDMIPPM/Functional_ECO - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/IDMIPPM/Functional_ECO)
+
+[Open detailed stats for IDMIPPM/Functional_ECO](https://reviewgithub.com/rep/IDMIPPM/Functional_ECO)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 3 | 
 | 2022-09-08 | 4 | 3 | 
 
-
-[Detailed charts & statistics for IDMIPPM/Functional_ECO](https://reviewgithub.com/rep/IDMIPPM/Functional_ECO)

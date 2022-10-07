@@ -1,12 +1,14 @@
 # NeuralNine/config-files - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 157
 
 ★ Stars: 282
 
 [Open repository](https://github.com/NeuralNine/config-files)
+
+[Open detailed stats for NeuralNine/config-files](https://reviewgithub.com/rep/NeuralNine/config-files)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 257 | 145 | 
 | 2022-09-07 | 256 | 145 | 
 
-
-[Detailed charts & statistics for NeuralNine/config-files](https://reviewgithub.com/rep/NeuralNine/config-files)

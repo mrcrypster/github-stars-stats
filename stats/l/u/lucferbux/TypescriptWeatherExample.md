@@ -1,12 +1,14 @@
 # lucferbux/TypescriptWeatherExample - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 1
 
 [Open repository](https://github.com/lucferbux/TypescriptWeatherExample)
+
+[Open detailed stats for lucferbux/TypescriptWeatherExample](https://reviewgithub.com/rep/lucferbux/TypescriptWeatherExample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 28 | 
 | 2022-09-07 | 1 | 28 | 
 
-
-[Detailed charts & statistics for lucferbux/TypescriptWeatherExample](https://reviewgithub.com/rep/lucferbux/TypescriptWeatherExample)

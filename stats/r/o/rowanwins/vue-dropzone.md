@@ -1,12 +1,14 @@
 # rowanwins/vue-dropzone - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1310
 
 ★ Stars: 1984
 
 [Open repository](https://github.com/rowanwins/vue-dropzone)
+
+[Open detailed stats for rowanwins/vue-dropzone](https://reviewgithub.com/rep/rowanwins/vue-dropzone)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1984 | 1308 | 
 | 2022-09-07 | 1983 | 1308 | 
 
-
-[Detailed charts & statistics for rowanwins/vue-dropzone](https://reviewgithub.com/rep/rowanwins/vue-dropzone)

@@ -1,12 +1,14 @@
 # dionisiydk/Mocketry - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 16
 
 [Open repository](https://github.com/dionisiydk/Mocketry)
+
+[Open detailed stats for dionisiydk/Mocketry](https://reviewgithub.com/rep/dionisiydk/Mocketry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 8 | 
 | 2022-09-08 | 16 | 8 | 
 
-
-[Detailed charts & statistics for dionisiydk/Mocketry](https://reviewgithub.com/rep/dionisiydk/Mocketry)

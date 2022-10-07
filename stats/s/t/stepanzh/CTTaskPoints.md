@@ -1,12 +1,14 @@
 # stepanzh/CTTaskPoints - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/stepanzh/CTTaskPoints)
+
+[Open detailed stats for stepanzh/CTTaskPoints](https://reviewgithub.com/rep/stepanzh/CTTaskPoints)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | 4 | 
 | 2022-09-11 | - | 4 | 
 
-
-[Detailed charts & statistics for stepanzh/CTTaskPoints](https://reviewgithub.com/rep/stepanzh/CTTaskPoints)

@@ -1,12 +1,14 @@
 # ponylang/ponyup - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 182
 
 [Open repository](https://github.com/ponylang/ponyup)
+
+[Open detailed stats for ponylang/ponyup](https://reviewgithub.com/rep/ponylang/ponyup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 182 | 10 | 
 | 2022-09-07 | 183 | 10 | 
 
-
-[Detailed charts & statistics for ponylang/ponyup](https://reviewgithub.com/rep/ponylang/ponyup)

@@ -1,12 +1,14 @@
 # sonnyt/just - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 195
 
 [Open repository](https://github.com/sonnyt/just)
+
+[Open detailed stats for sonnyt/just](https://reviewgithub.com/rep/sonnyt/just)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 194 | 1 | 
 | 2022-09-07 | 194 | 1 | 
 
-
-[Detailed charts & statistics for sonnyt/just](https://reviewgithub.com/rep/sonnyt/just)

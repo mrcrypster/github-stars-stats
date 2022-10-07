@@ -1,12 +1,14 @@
 # freakent/smart_star - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/freakent/smart_star)
+
+[Open detailed stats for freakent/smart_star](https://reviewgithub.com/rep/freakent/smart_star)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 5 | - | 
 
-
-[Detailed charts & statistics for freakent/smart_star](https://reviewgithub.com/rep/freakent/smart_star)

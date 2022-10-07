@@ -1,12 +1,14 @@
 # drewsdata/ES_Research - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/drewsdata/ES_Research)
+
+[Open detailed stats for drewsdata/ES_Research](https://reviewgithub.com/rep/drewsdata/ES_Research)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for drewsdata/ES_Research](https://reviewgithub.com/rep/drewsdata/ES_Research)

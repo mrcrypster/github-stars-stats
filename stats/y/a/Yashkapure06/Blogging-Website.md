@@ -1,12 +1,14 @@
 # Yashkapure06/Blogging-Website - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 8
 
 [Open repository](https://github.com/Yashkapure06/Blogging-Website)
+
+[Open detailed stats for Yashkapure06/Blogging-Website](https://reviewgithub.com/rep/Yashkapure06/Blogging-Website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 7 | 7 | 
 | 2022-09-18 | 7 | 7 | 
 
-
-[Detailed charts & statistics for Yashkapure06/Blogging-Website](https://reviewgithub.com/rep/Yashkapure06/Blogging-Website)

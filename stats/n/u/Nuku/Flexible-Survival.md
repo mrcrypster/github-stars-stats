@@ -1,12 +1,14 @@
 # Nuku/Flexible-Survival - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 277
 
 ★ Stars: 156
 
 [Open repository](https://github.com/Nuku/Flexible-Survival)
+
+[Open detailed stats for Nuku/Flexible-Survival](https://reviewgithub.com/rep/Nuku/Flexible-Survival)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 155 | 275 | 
 | 2022-09-07 | 155 | 275 | 
 
-
-[Detailed charts & statistics for Nuku/Flexible-Survival](https://reviewgithub.com/rep/Nuku/Flexible-Survival)

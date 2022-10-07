@@ -1,12 +1,14 @@
 # stefanjudis/browsers.fyi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 30
 
 [Open repository](https://github.com/stefanjudis/browsers.fyi)
+
+[Open detailed stats for stefanjudis/browsers.fyi](https://reviewgithub.com/rep/stefanjudis/browsers.fyi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 3 | 
 | 2022-09-07 | 27 | 3 | 
 
-
-[Detailed charts & statistics for stefanjudis/browsers.fyi](https://reviewgithub.com/rep/stefanjudis/browsers.fyi)

@@ -1,12 +1,14 @@
 # ierton/vsim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ierton/vsim)
+
+[Open detailed stats for ierton/vsim](https://reviewgithub.com/rep/ierton/vsim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | - | - | 
 | 2022-10-05 | - | - | 
 
-
-[Detailed charts & statistics for ierton/vsim](https://reviewgithub.com/rep/ierton/vsim)

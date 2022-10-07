@@ -1,12 +1,14 @@
 # volrath/treepy.el - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 45
 
 [Open repository](https://github.com/volrath/treepy.el)
+
+[Open detailed stats for volrath/treepy.el](https://reviewgithub.com/rep/volrath/treepy.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 36 | 10 | 
 | 2022-09-08 | 36 | 10 | 
 
-
-[Detailed charts & statistics for volrath/treepy.el](https://reviewgithub.com/rep/volrath/treepy.el)

@@ -1,12 +1,14 @@
 # apache/couchdb-mochiweb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 6
 
 [Open repository](https://github.com/apache/couchdb-mochiweb)
+
+[Open detailed stats for apache/couchdb-mochiweb](https://reviewgithub.com/rep/apache/couchdb-mochiweb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 12 | 
 | 2022-09-07 | 6 | 12 | 
 
-
-[Detailed charts & statistics for apache/couchdb-mochiweb](https://reviewgithub.com/rep/apache/couchdb-mochiweb)

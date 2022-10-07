@@ -1,12 +1,14 @@
 # roxsross/bootcamp-1-challenge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 12
 
 [Open repository](https://github.com/roxsross/bootcamp-1-challenge)
+
+[Open detailed stats for roxsross/bootcamp-1-challenge](https://reviewgithub.com/rep/roxsross/bootcamp-1-challenge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 24 | 
 | 2022-09-08 | 12 | 24 | 
 
-
-[Detailed charts & statistics for roxsross/bootcamp-1-challenge](https://reviewgithub.com/rep/roxsross/bootcamp-1-challenge)

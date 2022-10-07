@@ -1,12 +1,14 @@
 # plt-amy/cubical-methods - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/plt-amy/cubical-methods)
+
+[Open detailed stats for plt-amy/cubical-methods](https://reviewgithub.com/rep/plt-amy/cubical-methods)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 23 | - | 
 | 2022-09-08 | 23 | - | 
 
-
-[Detailed charts & statistics for plt-amy/cubical-methods](https://reviewgithub.com/rep/plt-amy/cubical-methods)

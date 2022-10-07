@@ -1,12 +1,14 @@
 # EC-CUBE/ec-cube - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 612
 
 ★ Stars: 691
 
 [Open repository](https://github.com/EC-CUBE/ec-cube)
+
+[Open detailed stats for EC-CUBE/ec-cube](https://reviewgithub.com/rep/EC-CUBE/ec-cube)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 686 | 608 | 
 | 2022-09-07 | 685 | 608 | 
 
-
-[Detailed charts & statistics for EC-CUBE/ec-cube](https://reviewgithub.com/rep/EC-CUBE/ec-cube)

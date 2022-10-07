@@ -1,12 +1,14 @@
 # verypossible/accounting - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/verypossible/accounting)
+
+[Open detailed stats for verypossible/accounting](https://reviewgithub.com/rep/verypossible/accounting)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 3 | 2 | 
 | 2022-09-14 | 3 | 2 | 
 
-
-[Detailed charts & statistics for verypossible/accounting](https://reviewgithub.com/rep/verypossible/accounting)

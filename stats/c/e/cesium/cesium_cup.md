@@ -1,12 +1,14 @@
 # cesium/cesium_cup - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/cesium/cesium_cup)
+
+[Open detailed stats for cesium/cesium_cup](https://reviewgithub.com/rep/cesium/cesium_cup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for cesium/cesium_cup](https://reviewgithub.com/rep/cesium/cesium_cup)

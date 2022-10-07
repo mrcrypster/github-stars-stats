@@ -1,12 +1,14 @@
 # mmiscool/serialTerminal.com - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 132
 
 [Open repository](https://github.com/mmiscool/serialTerminal.com)
+
+[Open detailed stats for mmiscool/serialTerminal.com](https://reviewgithub.com/rep/mmiscool/serialTerminal.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 126 | 22 | 
 | 2022-09-07 | 126 | 22 | 
 
-
-[Detailed charts & statistics for mmiscool/serialTerminal.com](https://reviewgithub.com/rep/mmiscool/serialTerminal.com)

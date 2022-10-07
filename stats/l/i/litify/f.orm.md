@@ -1,12 +1,14 @@
 # litify/f.orm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/litify/f.orm)
+
+[Open detailed stats for litify/f.orm](https://reviewgithub.com/rep/litify/f.orm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for litify/f.orm](https://reviewgithub.com/rep/litify/f.orm)

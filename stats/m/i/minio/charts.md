@@ -1,12 +1,14 @@
 # minio/charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 2
 
 [Open repository](https://github.com/minio/charts)
+
+[Open detailed stats for minio/charts](https://reviewgithub.com/rep/minio/charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 19 | 
 | 2022-09-08 | 1 | 19 | 
 
-
-[Detailed charts & statistics for minio/charts](https://reviewgithub.com/rep/minio/charts)

@@ -1,12 +1,14 @@
 # elastic/package-storage - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 103
 
 ★ Stars: 11
 
 [Open repository](https://github.com/elastic/package-storage)
+
+[Open detailed stats for elastic/package-storage](https://reviewgithub.com/rep/elastic/package-storage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 101 | 
 | 2022-09-08 | 11 | 101 | 
 
-
-[Detailed charts & statistics for elastic/package-storage](https://reviewgithub.com/rep/elastic/package-storage)

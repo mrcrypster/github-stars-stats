@@ -1,12 +1,14 @@
 # MicrosoftDocs/SupportArticles-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 555
 
 ★ Stars: 73
 
 [Open repository](https://github.com/MicrosoftDocs/SupportArticles-docs)
+
+[Open detailed stats for MicrosoftDocs/SupportArticles-docs](https://reviewgithub.com/rep/MicrosoftDocs/SupportArticles-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 70 | 540 | 
 | 2022-09-07 | 70 | 540 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/SupportArticles-docs](https://reviewgithub.com/rep/MicrosoftDocs/SupportArticles-docs)

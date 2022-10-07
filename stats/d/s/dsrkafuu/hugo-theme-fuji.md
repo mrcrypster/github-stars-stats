@@ -1,12 +1,14 @@
 # dsrkafuu/hugo-theme-fuji - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 87
 
 ★ Stars: 302
 
 [Open repository](https://github.com/dsrkafuu/hugo-theme-fuji)
+
+[Open detailed stats for dsrkafuu/hugo-theme-fuji](https://reviewgithub.com/rep/dsrkafuu/hugo-theme-fuji)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 297 | 86 | 
 | 2022-09-08 | 297 | 86 | 
 
-
-[Detailed charts & statistics for dsrkafuu/hugo-theme-fuji](https://reviewgithub.com/rep/dsrkafuu/hugo-theme-fuji)

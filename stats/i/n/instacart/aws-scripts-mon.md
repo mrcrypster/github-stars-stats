@@ -1,12 +1,14 @@
 # instacart/aws-scripts-mon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 4
 
 [Open repository](https://github.com/instacart/aws-scripts-mon)
+
+[Open detailed stats for instacart/aws-scripts-mon](https://reviewgithub.com/rep/instacart/aws-scripts-mon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 8 | 
 | 2022-09-07 | 4 | 8 | 
 
-
-[Detailed charts & statistics for instacart/aws-scripts-mon](https://reviewgithub.com/rep/instacart/aws-scripts-mon)

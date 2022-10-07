@@ -1,12 +1,14 @@
 # instaloader/instaloader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 774
 
 ★ Stars: 4882
 
 [Open repository](https://github.com/instaloader/instaloader)
+
+[Open detailed stats for instaloader/instaloader](https://reviewgithub.com/rep/instaloader/instaloader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4748 | 755 | 
 | 2022-09-07 | 4746 | 753 | 
 
-
-[Detailed charts & statistics for instaloader/instaloader](https://reviewgithub.com/rep/instaloader/instaloader)

@@ -1,12 +1,14 @@
 # asishgeorge/50Projects50Days - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 94
 
 ★ Stars: 61
 
 [Open repository](https://github.com/asishgeorge/50Projects50Days)
+
+[Open detailed stats for asishgeorge/50Projects50Days](https://reviewgithub.com/rep/asishgeorge/50Projects50Days)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 59 | 90 | 
 | 2022-09-08 | 59 | 90 | 
 
-
-[Detailed charts & statistics for asishgeorge/50Projects50Days](https://reviewgithub.com/rep/asishgeorge/50Projects50Days)

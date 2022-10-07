@@ -1,12 +1,14 @@
 # zacharee/CameraXInfo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 66
 
 [Open repository](https://github.com/zacharee/CameraXInfo)
+
+[Open detailed stats for zacharee/CameraXInfo](https://reviewgithub.com/rep/zacharee/CameraXInfo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 56 | 2 | 
 | 2022-09-08 | 56 | 2 | 
 
-
-[Detailed charts & statistics for zacharee/CameraXInfo](https://reviewgithub.com/rep/zacharee/CameraXInfo)

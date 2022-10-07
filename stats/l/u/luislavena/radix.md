@@ -1,12 +1,14 @@
 # luislavena/radix - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 100
 
 [Open repository](https://github.com/luislavena/radix)
+
+[Open detailed stats for luislavena/radix](https://reviewgithub.com/rep/luislavena/radix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 100 | 12 | 
 | 2022-09-08 | 100 | 12 | 
 
-
-[Detailed charts & statistics for luislavena/radix](https://reviewgithub.com/rep/luislavena/radix)

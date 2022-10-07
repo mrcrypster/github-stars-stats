@@ -1,12 +1,14 @@
 # nf-core/nascent - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 3
 
 [Open repository](https://github.com/nf-core/nascent)
+
+[Open detailed stats for nf-core/nascent](https://reviewgithub.com/rep/nf-core/nascent)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 8 | 
 | 2022-09-07 | 3 | 8 | 
 
-
-[Detailed charts & statistics for nf-core/nascent](https://reviewgithub.com/rep/nf-core/nascent)

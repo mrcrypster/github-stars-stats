@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-sns-topic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 39
 
 ★ Stars: 23
 
 [Open repository](https://github.com/cloudposse/terraform-aws-sns-topic)
+
+[Open detailed stats for cloudposse/terraform-aws-sns-topic](https://reviewgithub.com/rep/cloudposse/terraform-aws-sns-topic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 23 | 39 | 
 | 2022-09-17 | 23 | 39 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-sns-topic](https://reviewgithub.com/rep/cloudposse/terraform-aws-sns-topic)

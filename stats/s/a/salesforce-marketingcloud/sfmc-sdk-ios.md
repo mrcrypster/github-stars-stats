@@ -1,12 +1,14 @@
 # salesforce-marketingcloud/sfmc-sdk-ios - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 3
 
 [Open repository](https://github.com/salesforce-marketingcloud/sfmc-sdk-ios)
+
+[Open detailed stats for salesforce-marketingcloud/sfmc-sdk-ios](https://reviewgithub.com/rep/salesforce-marketingcloud/sfmc-sdk-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for salesforce-marketingcloud/sfmc-sdk-ios](https://reviewgithub.com/rep/salesforce-marketingcloud/sfmc-sdk-ios)

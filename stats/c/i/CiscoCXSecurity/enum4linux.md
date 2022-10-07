@@ -1,12 +1,14 @@
 # CiscoCXSecurity/enum4linux - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 196
 
 ★ Stars: 791
 
 [Open repository](https://github.com/CiscoCXSecurity/enum4linux)
+
+[Open detailed stats for CiscoCXSecurity/enum4linux](https://reviewgithub.com/rep/CiscoCXSecurity/enum4linux)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 771 | 194 | 
 | 2022-09-07 | 769 | 193 | 
 
-
-[Detailed charts & statistics for CiscoCXSecurity/enum4linux](https://reviewgithub.com/rep/CiscoCXSecurity/enum4linux)

@@ -1,12 +1,14 @@
 # Azure/azure-iot-sdk-c - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 717
 
 ★ Stars: 519
 
 [Open repository](https://github.com/Azure/azure-iot-sdk-c)
+
+[Open detailed stats for Azure/azure-iot-sdk-c](https://reviewgithub.com/rep/Azure/azure-iot-sdk-c)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 516 | 715 | 
 | 2022-09-08 | 516 | 714 | 
 
-
-[Detailed charts & statistics for Azure/azure-iot-sdk-c](https://reviewgithub.com/rep/Azure/azure-iot-sdk-c)

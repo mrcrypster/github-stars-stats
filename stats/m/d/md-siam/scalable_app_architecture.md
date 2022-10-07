@@ -1,12 +1,14 @@
 # md-siam/scalable_app_architecture - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 57
 
 [Open repository](https://github.com/md-siam/scalable_app_architecture)
+
+[Open detailed stats for md-siam/scalable_app_architecture](https://reviewgithub.com/rep/md-siam/scalable_app_architecture)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 56 | 16 | 
 | 2022-09-07 | 56 | 16 | 
 
-
-[Detailed charts & statistics for md-siam/scalable_app_architecture](https://reviewgithub.com/rep/md-siam/scalable_app_architecture)

@@ -1,12 +1,14 @@
 # bazelbuild/vim-bazel - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 117
 
 [Open repository](https://github.com/bazelbuild/vim-bazel)
+
+[Open detailed stats for bazelbuild/vim-bazel](https://reviewgithub.com/rep/bazelbuild/vim-bazel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | 117 | 24 | 
 | 2022-09-24 | 117 | 24 | 
 
-
-[Detailed charts & statistics for bazelbuild/vim-bazel](https://reviewgithub.com/rep/bazelbuild/vim-bazel)

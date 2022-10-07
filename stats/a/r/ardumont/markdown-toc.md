@@ -1,12 +1,14 @@
 # ardumont/markdown-toc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 98
 
 ★ Stars: 117
 
 [Open repository](https://github.com/ardumont/markdown-toc)
+
+[Open detailed stats for ardumont/markdown-toc](https://reviewgithub.com/rep/ardumont/markdown-toc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 116 | 98 | 
 | 2022-09-08 | 115 | 98 | 
 
-
-[Detailed charts & statistics for ardumont/markdown-toc](https://reviewgithub.com/rep/ardumont/markdown-toc)

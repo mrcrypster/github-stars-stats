@@ -1,12 +1,14 @@
 # saanvisavlani/appium-php-customName - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 15
 
 [Open repository](https://github.com/saanvisavlani/appium-php-customName)
+
+[Open detailed stats for saanvisavlani/appium-php-customName](https://reviewgithub.com/rep/saanvisavlani/appium-php-customName)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 15 | 10 | 
 | 2022-09-08 | 15 | 10 | 
 
-
-[Detailed charts & statistics for saanvisavlani/appium-php-customName](https://reviewgithub.com/rep/saanvisavlani/appium-php-customName)

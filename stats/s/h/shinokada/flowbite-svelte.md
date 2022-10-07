@@ -1,12 +1,14 @@
 # shinokada/flowbite-svelte - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 0
 
 [Open repository](https://github.com/shinokada/flowbite-svelte)
+
+[Open detailed stats for shinokada/flowbite-svelte](https://reviewgithub.com/rep/shinokada/flowbite-svelte)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 227 | 34 | 
 | 2022-09-07 | 226 | 34 | 
 
-
-[Detailed charts & statistics for shinokada/flowbite-svelte](https://reviewgithub.com/rep/shinokada/flowbite-svelte)

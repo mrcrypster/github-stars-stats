@@ -1,12 +1,14 @@
 # Countly/countly-sdk-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 238
 
 ★ Stars: 606
 
 [Open repository](https://github.com/Countly/countly-sdk-ios)
+
+[Open detailed stats for Countly/countly-sdk-ios](https://reviewgithub.com/rep/Countly/countly-sdk-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 603 | 238 | 
 | 2022-09-07 | 603 | 238 | 
 
-
-[Detailed charts & statistics for Countly/countly-sdk-ios](https://reviewgithub.com/rep/Countly/countly-sdk-ios)

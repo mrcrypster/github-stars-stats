@@ -1,12 +1,14 @@
 # jimmckeeth/SkiaSimpleShaderViewer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 32
 
 [Open repository](https://github.com/jimmckeeth/SkiaSimpleShaderViewer)
+
+[Open detailed stats for jimmckeeth/SkiaSimpleShaderViewer](https://reviewgithub.com/rep/jimmckeeth/SkiaSimpleShaderViewer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 7 | 
 | 2022-09-07 | 31 | 7 | 
 
-
-[Detailed charts & statistics for jimmckeeth/SkiaSimpleShaderViewer](https://reviewgithub.com/rep/jimmckeeth/SkiaSimpleShaderViewer)

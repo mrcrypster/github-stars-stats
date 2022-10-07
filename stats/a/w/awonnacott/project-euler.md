@@ -1,12 +1,14 @@
 # awonnacott/project-euler - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/awonnacott/project-euler)
+
+[Open detailed stats for awonnacott/project-euler](https://reviewgithub.com/rep/awonnacott/project-euler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | - | 
 | 2022-09-11 | - | - | 
 
-
-[Detailed charts & statistics for awonnacott/project-euler](https://reviewgithub.com/rep/awonnacott/project-euler)

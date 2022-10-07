@@ -1,12 +1,14 @@
 # macherel/Barcode-Wallet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 34
 
 [Open repository](https://github.com/macherel/Barcode-Wallet)
+
+[Open detailed stats for macherel/Barcode-Wallet](https://reviewgithub.com/rep/macherel/Barcode-Wallet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 7 | 
 | 2022-09-07 | 33 | 7 | 
 
-
-[Detailed charts & statistics for macherel/Barcode-Wallet](https://reviewgithub.com/rep/macherel/Barcode-Wallet)

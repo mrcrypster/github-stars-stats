@@ -1,12 +1,14 @@
 # Kulbear/deep-learning-coursera - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5404
 
 ★ Stars: 6937
 
 [Open repository](https://github.com/Kulbear/deep-learning-coursera)
+
+[Open detailed stats for Kulbear/deep-learning-coursera](https://reviewgithub.com/rep/Kulbear/deep-learning-coursera)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6914 | 5398 | 
 | 2022-09-08 | 6913 | 5398 | 
 
-
-[Detailed charts & statistics for Kulbear/deep-learning-coursera](https://reviewgithub.com/rep/Kulbear/deep-learning-coursera)

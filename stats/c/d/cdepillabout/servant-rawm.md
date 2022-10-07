@@ -1,12 +1,14 @@
 # cdepillabout/servant-rawm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 16
 
 [Open repository](https://github.com/cdepillabout/servant-rawm)
+
+[Open detailed stats for cdepillabout/servant-rawm](https://reviewgithub.com/rep/cdepillabout/servant-rawm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 7 | 
 | 2022-09-08 | 16 | 7 | 
 
-
-[Detailed charts & statistics for cdepillabout/servant-rawm](https://reviewgithub.com/rep/cdepillabout/servant-rawm)

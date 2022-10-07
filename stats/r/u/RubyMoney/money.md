@@ -1,12 +1,14 @@
 # RubyMoney/money - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 594
 
 ★ Stars: 2524
 
 [Open repository](https://github.com/RubyMoney/money)
+
+[Open detailed stats for RubyMoney/money](https://reviewgithub.com/rep/RubyMoney/money)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2515 | 591 | 
 | 2022-09-07 | 2515 | 591 | 
 
-
-[Detailed charts & statistics for RubyMoney/money](https://reviewgithub.com/rep/RubyMoney/money)

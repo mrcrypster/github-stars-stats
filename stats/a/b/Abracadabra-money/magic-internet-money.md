@@ -1,12 +1,14 @@
 # Abracadabra-money/magic-internet-money - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 83
 
 ★ Stars: 197
 
 [Open repository](https://github.com/Abracadabra-money/magic-internet-money)
+
+[Open detailed stats for Abracadabra-money/magic-internet-money](https://reviewgithub.com/rep/Abracadabra-money/magic-internet-money)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 183 | 81 | 
 | 2022-09-07 | 183 | 82 | 
 
-
-[Detailed charts & statistics for Abracadabra-money/magic-internet-money](https://reviewgithub.com/rep/Abracadabra-money/magic-internet-money)

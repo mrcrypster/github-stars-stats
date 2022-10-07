@@ -1,12 +1,14 @@
 # BetaFilter/Sonic-1-MDO - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/BetaFilter/Sonic-1-MDO)
+
+[Open detailed stats for BetaFilter/Sonic-1-MDO](https://reviewgithub.com/rep/BetaFilter/Sonic-1-MDO)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for BetaFilter/Sonic-1-MDO](https://reviewgithub.com/rep/BetaFilter/Sonic-1-MDO)

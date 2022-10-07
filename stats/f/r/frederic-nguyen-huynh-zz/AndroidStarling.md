@@ -1,12 +1,14 @@
 # frederic-nguyen-huynh-zz/AndroidStarling - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 4
 
 [Open repository](https://github.com/frederic-nguyen-huynh-zz/AndroidStarling)
+
+[Open detailed stats for frederic-nguyen-huynh-zz/AndroidStarling](https://reviewgithub.com/rep/frederic-nguyen-huynh-zz/AndroidStarling)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4 | - | 
 | 2022-09-07 | 4 | - | 
 
-
-[Detailed charts & statistics for frederic-nguyen-huynh-zz/AndroidStarling](https://reviewgithub.com/rep/frederic-nguyen-huynh-zz/AndroidStarling)

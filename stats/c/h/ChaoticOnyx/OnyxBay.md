@@ -1,12 +1,14 @@
 # ChaoticOnyx/OnyxBay - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 183
 
 ★ Stars: 76
 
 [Open repository](https://github.com/ChaoticOnyx/OnyxBay)
+
+[Open detailed stats for ChaoticOnyx/OnyxBay](https://reviewgithub.com/rep/ChaoticOnyx/OnyxBay)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 75 | 183 | 
 | 2022-09-07 | 75 | 183 | 
 
-
-[Detailed charts & statistics for ChaoticOnyx/OnyxBay](https://reviewgithub.com/rep/ChaoticOnyx/OnyxBay)

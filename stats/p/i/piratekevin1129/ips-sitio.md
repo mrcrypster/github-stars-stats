@@ -1,12 +1,14 @@
 # piratekevin1129/ips-sitio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/piratekevin1129/ips-sitio)
+
+[Open detailed stats for piratekevin1129/ips-sitio](https://reviewgithub.com/rep/piratekevin1129/ips-sitio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for piratekevin1129/ips-sitio](https://reviewgithub.com/rep/piratekevin1129/ips-sitio)

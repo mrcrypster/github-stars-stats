@@ -1,12 +1,14 @@
 # RedPRL/stagedtt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 28
 
 [Open repository](https://github.com/RedPRL/stagedtt)
+
+[Open detailed stats for RedPRL/stagedtt](https://reviewgithub.com/rep/RedPRL/stagedtt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 1 | 
 | 2022-09-08 | 29 | 1 | 
 
-
-[Detailed charts & statistics for RedPRL/stagedtt](https://reviewgithub.com/rep/RedPRL/stagedtt)

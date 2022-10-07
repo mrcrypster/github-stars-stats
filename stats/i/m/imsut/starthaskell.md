@@ -1,12 +1,14 @@
 # imsut/starthaskell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/imsut/starthaskell)
+
+[Open detailed stats for imsut/starthaskell](https://reviewgithub.com/rep/imsut/starthaskell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for imsut/starthaskell](https://reviewgithub.com/rep/imsut/starthaskell)

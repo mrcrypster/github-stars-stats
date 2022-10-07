@@ -1,12 +1,14 @@
 # ArbitRandomUser/julia-repl-vi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/ArbitRandomUser/julia-repl-vi)
+
+[Open detailed stats for ArbitRandomUser/julia-repl-vi](https://reviewgithub.com/rep/ArbitRandomUser/julia-repl-vi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
 
-
-[Detailed charts & statistics for ArbitRandomUser/julia-repl-vi](https://reviewgithub.com/rep/ArbitRandomUser/julia-repl-vi)

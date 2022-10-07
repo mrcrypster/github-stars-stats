@@ -1,12 +1,14 @@
 # betaflight/betaflight-tx-lua-scripts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 138
 
 ★ Stars: 456
 
 [Open repository](https://github.com/betaflight/betaflight-tx-lua-scripts)
+
+[Open detailed stats for betaflight/betaflight-tx-lua-scripts](https://reviewgithub.com/rep/betaflight/betaflight-tx-lua-scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 450 | 137 | 
 | 2022-09-07 | 449 | 137 | 
 
-
-[Detailed charts & statistics for betaflight/betaflight-tx-lua-scripts](https://reviewgithub.com/rep/betaflight/betaflight-tx-lua-scripts)

@@ -1,12 +1,14 @@
 # jeffshrager/elizagen.org - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 179
 
 [Open repository](https://github.com/jeffshrager/elizagen.org)
+
+[Open detailed stats for jeffshrager/elizagen.org](https://reviewgithub.com/rep/jeffshrager/elizagen.org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 177 | 30 | 
 | 2022-09-07 | 177 | 30 | 
 
-
-[Detailed charts & statistics for jeffshrager/elizagen.org](https://reviewgithub.com/rep/jeffshrager/elizagen.org)

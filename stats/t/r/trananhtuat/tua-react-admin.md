@@ -1,12 +1,14 @@
 # trananhtuat/tua-react-admin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 177
 
 ★ Stars: 205
 
 [Open repository](https://github.com/trananhtuat/tua-react-admin)
+
+[Open detailed stats for trananhtuat/tua-react-admin](https://reviewgithub.com/rep/trananhtuat/tua-react-admin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 201 | 175 | 
 | 2022-09-07 | 201 | 175 | 
 
-
-[Detailed charts & statistics for trananhtuat/tua-react-admin](https://reviewgithub.com/rep/trananhtuat/tua-react-admin)

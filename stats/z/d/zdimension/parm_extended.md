@@ -1,12 +1,14 @@
 # zdimension/parm_extended - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 46
 
 [Open repository](https://github.com/zdimension/parm_extended)
+
+[Open detailed stats for zdimension/parm_extended](https://reviewgithub.com/rep/zdimension/parm_extended)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 2 | 
 | 2022-09-07 | 45 | 2 | 
 
-
-[Detailed charts & statistics for zdimension/parm_extended](https://reviewgithub.com/rep/zdimension/parm_extended)

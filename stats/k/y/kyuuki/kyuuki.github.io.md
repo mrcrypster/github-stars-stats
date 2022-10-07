@@ -1,12 +1,14 @@
 # kyuuki/kyuuki.github.io - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kyuuki/kyuuki.github.io)
+
+[Open detailed stats for kyuuki/kyuuki.github.io](https://reviewgithub.com/rep/kyuuki/kyuuki.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for kyuuki/kyuuki.github.io](https://reviewgithub.com/rep/kyuuki/kyuuki.github.io)

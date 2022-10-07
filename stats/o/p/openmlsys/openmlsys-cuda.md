@@ -1,12 +1,14 @@
 # openmlsys/openmlsys-cuda - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 34
 
 [Open repository](https://github.com/openmlsys/openmlsys-cuda)
+
+[Open detailed stats for openmlsys/openmlsys-cuda](https://reviewgithub.com/rep/openmlsys/openmlsys-cuda)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 1 | 
 | 2022-09-07 | 30 | 1 | 
 
-
-[Detailed charts & statistics for openmlsys/openmlsys-cuda](https://reviewgithub.com/rep/openmlsys/openmlsys-cuda)

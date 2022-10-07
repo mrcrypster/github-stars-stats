@@ -1,12 +1,14 @@
 # ZCW-Java8-1/Grep.CatchEmAll2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ZCW-Java8-1/Grep.CatchEmAll2)
+
+[Open detailed stats for ZCW-Java8-1/Grep.CatchEmAll2](https://reviewgithub.com/rep/ZCW-Java8-1/Grep.CatchEmAll2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for ZCW-Java8-1/Grep.CatchEmAll2](https://reviewgithub.com/rep/ZCW-Java8-1/Grep.CatchEmAll2)

@@ -1,12 +1,14 @@
 # aquasecurity/chain-bench - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 591
 
 [Open repository](https://github.com/aquasecurity/chain-bench)
+
+[Open detailed stats for aquasecurity/chain-bench](https://reviewgithub.com/rep/aquasecurity/chain-bench)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 586 | 40 | 
 | 2022-09-08 | 586 | 40 | 
 
-
-[Detailed charts & statistics for aquasecurity/chain-bench](https://reviewgithub.com/rep/aquasecurity/chain-bench)

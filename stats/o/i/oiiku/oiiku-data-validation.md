@@ -1,12 +1,14 @@
 # oiiku/oiiku-data-validation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/oiiku/oiiku-data-validation)
+
+[Open detailed stats for oiiku/oiiku-data-validation](https://reviewgithub.com/rep/oiiku/oiiku-data-validation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | - | - | 
 | 2022-09-23 | - | - | 
 
-
-[Detailed charts & statistics for oiiku/oiiku-data-validation](https://reviewgithub.com/rep/oiiku/oiiku-data-validation)

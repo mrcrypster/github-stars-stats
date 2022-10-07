@@ -1,12 +1,14 @@
 # mattDevigili/dms-smm695 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 44
 
 [Open repository](https://github.com/mattDevigili/dms-smm695)
+
+[Open detailed stats for mattDevigili/dms-smm695](https://reviewgithub.com/rep/mattDevigili/dms-smm695)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 44 | 39 | 
 | 2022-09-08 | 44 | 39 | 
 
-
-[Detailed charts & statistics for mattDevigili/dms-smm695](https://reviewgithub.com/rep/mattDevigili/dms-smm695)

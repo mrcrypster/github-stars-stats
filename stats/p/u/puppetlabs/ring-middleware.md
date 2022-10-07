@@ -1,12 +1,14 @@
 # puppetlabs/ring-middleware - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 8
 
 [Open repository](https://github.com/puppetlabs/ring-middleware)
+
+[Open detailed stats for puppetlabs/ring-middleware](https://reviewgithub.com/rep/puppetlabs/ring-middleware)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 20 | 
 | 2022-09-07 | 8 | 20 | 
 
-
-[Detailed charts & statistics for puppetlabs/ring-middleware](https://reviewgithub.com/rep/puppetlabs/ring-middleware)

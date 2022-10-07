@@ -1,12 +1,14 @@
 # MasonSlover/MasonSlover - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 16
 
 [Open repository](https://github.com/MasonSlover/MasonSlover)
+
+[Open detailed stats for MasonSlover/MasonSlover](https://reviewgithub.com/rep/MasonSlover/MasonSlover)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 26 | 
 | 2022-09-07 | 14 | 26 | 
 
-
-[Detailed charts & statistics for MasonSlover/MasonSlover](https://reviewgithub.com/rep/MasonSlover/MasonSlover)

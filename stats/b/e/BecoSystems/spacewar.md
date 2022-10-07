@@ -1,12 +1,14 @@
 # BecoSystems/spacewar - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 287
 
 ★ Stars: 21
 
 [Open repository](https://github.com/BecoSystems/spacewar)
+
+[Open detailed stats for BecoSystems/spacewar](https://reviewgithub.com/rep/BecoSystems/spacewar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 287 | 
 | 2022-09-08 | 21 | 287 | 
 
-
-[Detailed charts & statistics for BecoSystems/spacewar](https://reviewgithub.com/rep/BecoSystems/spacewar)

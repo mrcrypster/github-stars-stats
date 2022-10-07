@@ -1,12 +1,14 @@
 # champ-oss/terraform-aws-s3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/champ-oss/terraform-aws-s3)
+
+[Open detailed stats for champ-oss/terraform-aws-s3](https://reviewgithub.com/rep/champ-oss/terraform-aws-s3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for champ-oss/terraform-aws-s3](https://reviewgithub.com/rep/champ-oss/terraform-aws-s3)

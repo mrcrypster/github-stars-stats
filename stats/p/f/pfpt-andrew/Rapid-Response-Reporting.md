@@ -1,12 +1,14 @@
 # pfpt-andrew/Rapid-Response-Reporting - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 34
 
 [Open repository](https://github.com/pfpt-andrew/Rapid-Response-Reporting)
+
+[Open detailed stats for pfpt-andrew/Rapid-Response-Reporting](https://reviewgithub.com/rep/pfpt-andrew/Rapid-Response-Reporting)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 34 | 4 | 
 | 2022-09-08 | 34 | 4 | 
 
-
-[Detailed charts & statistics for pfpt-andrew/Rapid-Response-Reporting](https://reviewgithub.com/rep/pfpt-andrew/Rapid-Response-Reporting)

@@ -1,12 +1,14 @@
 # fufexan/nix-gaming - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 97
 
 [Open repository](https://github.com/fufexan/nix-gaming)
+
+[Open detailed stats for fufexan/nix-gaming](https://reviewgithub.com/rep/fufexan/nix-gaming)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 91 | 10 | 
 | 2022-09-08 | 90 | 10 | 
 
-
-[Detailed charts & statistics for fufexan/nix-gaming](https://reviewgithub.com/rep/fufexan/nix-gaming)

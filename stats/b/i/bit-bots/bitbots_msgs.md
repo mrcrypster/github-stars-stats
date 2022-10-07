@@ -1,12 +1,14 @@
 # bit-bots/bitbots_msgs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bit-bots/bitbots_msgs)
+
+[Open detailed stats for bit-bots/bitbots_msgs](https://reviewgithub.com/rep/bit-bots/bitbots_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 3 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for bit-bots/bitbots_msgs](https://reviewgithub.com/rep/bit-bots/bitbots_msgs)

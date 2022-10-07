@@ -1,12 +1,14 @@
 # dudgnsrj/OSM-Descriptor-Localization - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 37
 
 [Open repository](https://github.com/dudgnsrj/OSM-Descriptor-Localization)
+
+[Open detailed stats for dudgnsrj/OSM-Descriptor-Localization](https://reviewgithub.com/rep/dudgnsrj/OSM-Descriptor-Localization)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 3 | 
 | 2022-09-07 | 33 | 3 | 
 
-
-[Detailed charts & statistics for dudgnsrj/OSM-Descriptor-Localization](https://reviewgithub.com/rep/dudgnsrj/OSM-Descriptor-Localization)

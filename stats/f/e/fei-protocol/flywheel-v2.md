@@ -1,12 +1,14 @@
 # fei-protocol/flywheel-v2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 55
 
 [Open repository](https://github.com/fei-protocol/flywheel-v2)
+
+[Open detailed stats for fei-protocol/flywheel-v2](https://reviewgithub.com/rep/fei-protocol/flywheel-v2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 53 | 13 | 
 | 2022-09-09 | 53 | 13 | 
 
-
-[Detailed charts & statistics for fei-protocol/flywheel-v2](https://reviewgithub.com/rep/fei-protocol/flywheel-v2)

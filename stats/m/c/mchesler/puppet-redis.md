@@ -1,12 +1,14 @@
 # mchesler/puppet-redis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mchesler/puppet-redis)
+
+[Open detailed stats for mchesler/puppet-redis](https://reviewgithub.com/rep/mchesler/puppet-redis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | - | - | 
 | 2022-10-02 | - | - | 
 
-
-[Detailed charts & statistics for mchesler/puppet-redis](https://reviewgithub.com/rep/mchesler/puppet-redis)

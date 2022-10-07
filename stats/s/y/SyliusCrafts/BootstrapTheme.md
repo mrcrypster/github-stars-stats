@@ -1,12 +1,14 @@
 # SyliusCrafts/BootstrapTheme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 43
 
 ★ Stars: 84
 
 [Open repository](https://github.com/SyliusCrafts/BootstrapTheme)
+
+[Open detailed stats for SyliusCrafts/BootstrapTheme](https://reviewgithub.com/rep/SyliusCrafts/BootstrapTheme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 84 | 43 | 
 | 2022-09-08 | 84 | 43 | 
 
-
-[Detailed charts & statistics for SyliusCrafts/BootstrapTheme](https://reviewgithub.com/rep/SyliusCrafts/BootstrapTheme)

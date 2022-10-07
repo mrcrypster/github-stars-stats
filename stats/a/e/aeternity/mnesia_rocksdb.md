@@ -1,12 +1,14 @@
 # aeternity/mnesia_rocksdb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 119
 
 [Open repository](https://github.com/aeternity/mnesia_rocksdb)
+
+[Open detailed stats for aeternity/mnesia_rocksdb](https://reviewgithub.com/rep/aeternity/mnesia_rocksdb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 115 | 28 | 
 | 2022-09-07 | 115 | 28 | 
 
-
-[Detailed charts & statistics for aeternity/mnesia_rocksdb](https://reviewgithub.com/rep/aeternity/mnesia_rocksdb)

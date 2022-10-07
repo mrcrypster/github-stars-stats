@@ -1,12 +1,14 @@
 # sergey-miryanov/flinthx - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 14
 
 [Open repository](https://github.com/sergey-miryanov/flinthx)
+
+[Open detailed stats for sergey-miryanov/flinthx](https://reviewgithub.com/rep/sergey-miryanov/flinthx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 6 | 
 | 2022-09-07 | 14 | 6 | 
 
-
-[Detailed charts & statistics for sergey-miryanov/flinthx](https://reviewgithub.com/rep/sergey-miryanov/flinthx)

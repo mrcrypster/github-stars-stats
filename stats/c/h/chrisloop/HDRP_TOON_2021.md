@@ -1,12 +1,14 @@
 # chrisloop/HDRP_TOON_2021 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 48
 
 [Open repository](https://github.com/chrisloop/HDRP_TOON_2021)
+
+[Open detailed stats for chrisloop/HDRP_TOON_2021](https://reviewgithub.com/rep/chrisloop/HDRP_TOON_2021)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 47 | 3 | 
 | 2022-09-07 | 47 | 3 | 
 
-
-[Detailed charts & statistics for chrisloop/HDRP_TOON_2021](https://reviewgithub.com/rep/chrisloop/HDRP_TOON_2021)

@@ -1,12 +1,14 @@
 # course-dasheng/umaso - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 22
 
 [Open repository](https://github.com/course-dasheng/umaso)
+
+[Open detailed stats for course-dasheng/umaso](https://reviewgithub.com/rep/course-dasheng/umaso)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 8 | 
 | 2022-09-07 | 21 | 8 | 
 
-
-[Detailed charts & statistics for course-dasheng/umaso](https://reviewgithub.com/rep/course-dasheng/umaso)

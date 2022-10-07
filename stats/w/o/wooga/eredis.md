@@ -1,12 +1,14 @@
 # wooga/eredis - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 274
 
 ★ Stars: 614
 
 [Open repository](https://github.com/wooga/eredis)
+
+[Open detailed stats for wooga/eredis](https://reviewgithub.com/rep/wooga/eredis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 612 | 274 | 
 | 2022-09-08 | 612 | 274 | 
 
-
-[Detailed charts & statistics for wooga/eredis](https://reviewgithub.com/rep/wooga/eredis)

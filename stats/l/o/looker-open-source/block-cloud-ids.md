@@ -1,12 +1,14 @@
 # looker-open-source/block-cloud-ids - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/looker-open-source/block-cloud-ids)
+
+[Open detailed stats for looker-open-source/block-cloud-ids](https://reviewgithub.com/rep/looker-open-source/block-cloud-ids)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for looker-open-source/block-cloud-ids](https://reviewgithub.com/rep/looker-open-source/block-cloud-ids)

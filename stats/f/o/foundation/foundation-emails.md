@@ -1,12 +1,14 @@
 # foundation/foundation-emails - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1092
 
 ★ Stars: 7657
 
 [Open repository](https://github.com/foundation/foundation-emails)
+
+[Open detailed stats for foundation/foundation-emails](https://reviewgithub.com/rep/foundation/foundation-emails)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7649 | 1093 | 
 | 2022-09-07 | 7649 | 1093 | 
 
-
-[Detailed charts & statistics for foundation/foundation-emails](https://reviewgithub.com/rep/foundation/foundation-emails)

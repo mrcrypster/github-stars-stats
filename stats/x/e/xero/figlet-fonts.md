@@ -1,12 +1,14 @@
 # xero/figlet-fonts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 184
 
 ★ Stars: 669
 
 [Open repository](https://github.com/xero/figlet-fonts)
+
+[Open detailed stats for xero/figlet-fonts](https://reviewgithub.com/rep/xero/figlet-fonts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 656 | 182 | 
 | 2022-09-08 | 656 | 182 | 
 
-
-[Detailed charts & statistics for xero/figlet-fonts](https://reviewgithub.com/rep/xero/figlet-fonts)

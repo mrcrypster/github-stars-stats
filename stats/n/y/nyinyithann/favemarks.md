@@ -1,12 +1,14 @@
 # nyinyithann/favemarks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 11
 
 [Open repository](https://github.com/nyinyithann/favemarks)
+
+[Open detailed stats for nyinyithann/favemarks](https://reviewgithub.com/rep/nyinyithann/favemarks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | - | 
 | 2022-09-07 | 11 | - | 
 
-
-[Detailed charts & statistics for nyinyithann/favemarks](https://reviewgithub.com/rep/nyinyithann/favemarks)

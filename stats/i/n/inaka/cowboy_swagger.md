@@ -1,12 +1,14 @@
 # inaka/cowboy_swagger - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 109
 
 [Open repository](https://github.com/inaka/cowboy_swagger)
+
+[Open detailed stats for inaka/cowboy_swagger](https://reviewgithub.com/rep/inaka/cowboy_swagger)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 109 | 49 | 
 | 2022-09-07 | 109 | 50 | 
 
-
-[Detailed charts & statistics for inaka/cowboy_swagger](https://reviewgithub.com/rep/inaka/cowboy_swagger)

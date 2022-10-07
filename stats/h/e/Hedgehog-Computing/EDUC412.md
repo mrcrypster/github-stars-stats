@@ -1,12 +1,14 @@
 # Hedgehog-Computing/EDUC412 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 14
 
 [Open repository](https://github.com/Hedgehog-Computing/EDUC412)
+
+[Open detailed stats for Hedgehog-Computing/EDUC412](https://reviewgithub.com/rep/Hedgehog-Computing/EDUC412)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 1 | 
 | 2022-09-07 | 15 | 1 | 
 
-
-[Detailed charts & statistics for Hedgehog-Computing/EDUC412](https://reviewgithub.com/rep/Hedgehog-Computing/EDUC412)

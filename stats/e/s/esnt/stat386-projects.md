@@ -1,12 +1,14 @@
 # esnt/stat386-projects - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/esnt/stat386-projects)
+
+[Open detailed stats for esnt/stat386-projects](https://reviewgithub.com/rep/esnt/stat386-projects)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 
-
-[Detailed charts & statistics for esnt/stat386-projects](https://reviewgithub.com/rep/esnt/stat386-projects)

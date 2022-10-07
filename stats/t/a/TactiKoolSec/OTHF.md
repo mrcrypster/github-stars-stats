@@ -1,12 +1,14 @@
 # TactiKoolSec/OTHF - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 52
 
 [Open repository](https://github.com/TactiKoolSec/OTHF)
+
+[Open detailed stats for TactiKoolSec/OTHF](https://reviewgithub.com/rep/TactiKoolSec/OTHF)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 46 | 4 | 
 | 2022-09-08 | 46 | 4 | 
 
-
-[Detailed charts & statistics for TactiKoolSec/OTHF](https://reviewgithub.com/rep/TactiKoolSec/OTHF)

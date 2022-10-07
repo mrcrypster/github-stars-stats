@@ -1,12 +1,14 @@
 # a-paxton/living-documents - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 46
 
 [Open repository](https://github.com/a-paxton/living-documents)
+
+[Open detailed stats for a-paxton/living-documents](https://reviewgithub.com/rep/a-paxton/living-documents)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 1 | 
 | 2022-09-07 | 44 | 1 | 
 
-
-[Detailed charts & statistics for a-paxton/living-documents](https://reviewgithub.com/rep/a-paxton/living-documents)

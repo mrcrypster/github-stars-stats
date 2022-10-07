@@ -1,12 +1,14 @@
 # anthonyalfimov/JUCE-CMake-Plugin-Template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 20
 
 [Open repository](https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template)
+
+[Open detailed stats for anthonyalfimov/JUCE-CMake-Plugin-Template](https://reviewgithub.com/rep/anthonyalfimov/JUCE-CMake-Plugin-Template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 19 | 1 | 
 | 2022-09-08 | 19 | 1 | 
 
-
-[Detailed charts & statistics for anthonyalfimov/JUCE-CMake-Plugin-Template](https://reviewgithub.com/rep/anthonyalfimov/JUCE-CMake-Plugin-Template)

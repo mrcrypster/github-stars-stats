@@ -1,12 +1,14 @@
 # linuxserver/docker-budge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 41
 
 [Open repository](https://github.com/linuxserver/docker-budge)
+
+[Open detailed stats for linuxserver/docker-budge](https://reviewgithub.com/rep/linuxserver/docker-budge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 40 | 1 | 
 | 2022-09-08 | 40 | 1 | 
 
-
-[Detailed charts & statistics for linuxserver/docker-budge](https://reviewgithub.com/rep/linuxserver/docker-budge)

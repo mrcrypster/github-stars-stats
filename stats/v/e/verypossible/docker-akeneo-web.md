@@ -1,12 +1,14 @@
 # verypossible/docker-akeneo-web - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/verypossible/docker-akeneo-web)
+
+[Open detailed stats for verypossible/docker-akeneo-web](https://reviewgithub.com/rep/verypossible/docker-akeneo-web)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 1 | 1 | 
 | 2022-09-14 | 1 | 1 | 
 
-
-[Detailed charts & statistics for verypossible/docker-akeneo-web](https://reviewgithub.com/rep/verypossible/docker-akeneo-web)

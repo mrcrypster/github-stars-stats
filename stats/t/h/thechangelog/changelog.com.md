@@ -1,12 +1,14 @@
 # thechangelog/changelog.com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 225
 
 ★ Stars: 2459
 
 [Open repository](https://github.com/thechangelog/changelog.com)
+
+[Open detailed stats for thechangelog/changelog.com](https://reviewgithub.com/rep/thechangelog/changelog.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2443 | 225 | 
 | 2022-09-07 | 2443 | 225 | 
 
-
-[Detailed charts & statistics for thechangelog/changelog.com](https://reviewgithub.com/rep/thechangelog/changelog.com)

@@ -1,12 +1,14 @@
 # markbates/errx - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/markbates/errx)
+
+[Open detailed stats for markbates/errx](https://reviewgithub.com/rep/markbates/errx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for markbates/errx](https://reviewgithub.com/rep/markbates/errx)

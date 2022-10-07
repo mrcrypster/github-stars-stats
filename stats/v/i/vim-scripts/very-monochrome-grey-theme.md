@@ -1,12 +1,14 @@
 # vim-scripts/very-monochrome-grey-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/vim-scripts/very-monochrome-grey-theme)
+
+[Open detailed stats for vim-scripts/very-monochrome-grey-theme](https://reviewgithub.com/rep/vim-scripts/very-monochrome-grey-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for vim-scripts/very-monochrome-grey-theme](https://reviewgithub.com/rep/vim-scripts/very-monochrome-grey-theme)

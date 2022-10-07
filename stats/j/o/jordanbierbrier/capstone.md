@@ -1,12 +1,14 @@
 # jordanbierbrier/capstone - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/jordanbierbrier/capstone)
+
+[Open detailed stats for jordanbierbrier/capstone](https://reviewgithub.com/rep/jordanbierbrier/capstone)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | - | - | 
 | 2022-09-25 | - | - | 
 
-
-[Detailed charts & statistics for jordanbierbrier/capstone](https://reviewgithub.com/rep/jordanbierbrier/capstone)

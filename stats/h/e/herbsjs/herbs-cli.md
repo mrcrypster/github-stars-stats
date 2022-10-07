@@ -1,12 +1,14 @@
 # herbsjs/herbs-cli - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 25
 
 [Open repository](https://github.com/herbsjs/herbs-cli)
+
+[Open detailed stats for herbsjs/herbs-cli](https://reviewgithub.com/rep/herbsjs/herbs-cli)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 26 | 
 | 2022-09-07 | 23 | 26 | 
 
-
-[Detailed charts & statistics for herbsjs/herbs-cli](https://reviewgithub.com/rep/herbsjs/herbs-cli)

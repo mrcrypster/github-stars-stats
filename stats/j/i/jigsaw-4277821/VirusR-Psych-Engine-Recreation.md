@@ -1,12 +1,14 @@
 # jigsaw-4277821/VirusR-Psych-Engine-Recreation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 7
 
 [Open repository](https://github.com/jigsaw-4277821/VirusR-Psych-Engine-Recreation)
+
+[Open detailed stats for jigsaw-4277821/VirusR-Psych-Engine-Recreation](https://reviewgithub.com/rep/jigsaw-4277821/VirusR-Psych-Engine-Recreation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 6 | 
 | 2022-09-08 | 7 | 6 | 
 
-
-[Detailed charts & statistics for jigsaw-4277821/VirusR-Psych-Engine-Recreation](https://reviewgithub.com/rep/jigsaw-4277821/VirusR-Psych-Engine-Recreation)

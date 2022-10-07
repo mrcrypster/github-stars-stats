@@ -1,12 +1,14 @@
 # kana/vim-operator-user - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 187
 
 [Open repository](https://github.com/kana/vim-operator-user)
+
+[Open detailed stats for kana/vim-operator-user](https://reviewgithub.com/rep/kana/vim-operator-user)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 187 | 12 | 
 | 2022-09-08 | 187 | 12 | 
 
-
-[Detailed charts & statistics for kana/vim-operator-user](https://reviewgithub.com/rep/kana/vim-operator-user)

@@ -1,12 +1,14 @@
 # 0xosas/tictactoe.sol - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 26
 
 [Open repository](https://github.com/0xosas/tictactoe.sol)
+
+[Open detailed stats for 0xosas/tictactoe.sol](https://reviewgithub.com/rep/0xosas/tictactoe.sol)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 26 | - | 
 | 2022-09-07 | 26 | - | 
 
-
-[Detailed charts & statistics for 0xosas/tictactoe.sol](https://reviewgithub.com/rep/0xosas/tictactoe.sol)

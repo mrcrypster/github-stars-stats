@@ -1,12 +1,14 @@
 # DSCKGEC/Taskify - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 4
 
 [Open repository](https://github.com/DSCKGEC/Taskify)
+
+[Open detailed stats for DSCKGEC/Taskify](https://reviewgithub.com/rep/DSCKGEC/Taskify)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 10 | 
 | 2022-09-08 | 3 | 10 | 
 
-
-[Detailed charts & statistics for DSCKGEC/Taskify](https://reviewgithub.com/rep/DSCKGEC/Taskify)

@@ -1,12 +1,14 @@
 # apache/couchdb-bear - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 3
 
 [Open repository](https://github.com/apache/couchdb-bear)
+
+[Open detailed stats for apache/couchdb-bear](https://reviewgithub.com/rep/apache/couchdb-bear)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 7 | 
 | 2022-09-07 | 3 | 7 | 
 
-
-[Detailed charts & statistics for apache/couchdb-bear](https://reviewgithub.com/rep/apache/couchdb-bear)

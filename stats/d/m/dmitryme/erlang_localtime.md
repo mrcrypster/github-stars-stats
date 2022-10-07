@@ -1,12 +1,14 @@
 # dmitryme/erlang_localtime - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 47
 
 ★ Stars: 53
 
 [Open repository](https://github.com/dmitryme/erlang_localtime)
+
+[Open detailed stats for dmitryme/erlang_localtime](https://reviewgithub.com/rep/dmitryme/erlang_localtime)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 53 | 47 | 
 | 2022-09-07 | 53 | 47 | 
 
-
-[Detailed charts & statistics for dmitryme/erlang_localtime](https://reviewgithub.com/rep/dmitryme/erlang_localtime)

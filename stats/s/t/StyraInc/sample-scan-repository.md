@@ -1,12 +1,14 @@
 # StyraInc/sample-scan-repository - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/StyraInc/sample-scan-repository)
+
+[Open detailed stats for StyraInc/sample-scan-repository](https://reviewgithub.com/rep/StyraInc/sample-scan-repository)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for StyraInc/sample-scan-repository](https://reviewgithub.com/rep/StyraInc/sample-scan-repository)

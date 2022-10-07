@@ -1,12 +1,14 @@
 # purescript/purescript-foreign-object - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 26
 
 [Open repository](https://github.com/purescript/purescript-foreign-object)
+
+[Open detailed stats for purescript/purescript-foreign-object](https://reviewgithub.com/rep/purescript/purescript-foreign-object)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 26 | 15 | 
 | 2022-09-08 | 26 | 15 | 
 
-
-[Detailed charts & statistics for purescript/purescript-foreign-object](https://reviewgithub.com/rep/purescript/purescript-foreign-object)

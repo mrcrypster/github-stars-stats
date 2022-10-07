@@ -1,12 +1,14 @@
 # nextail/pulpocon-data-pipelines - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 10
 
 [Open repository](https://github.com/nextail/pulpocon-data-pipelines)
+
+[Open detailed stats for nextail/pulpocon-data-pipelines](https://reviewgithub.com/rep/nextail/pulpocon-data-pipelines)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 2 | 
 | 2022-09-08 | 6 | 2 | 
 
-
-[Detailed charts & statistics for nextail/pulpocon-data-pipelines](https://reviewgithub.com/rep/nextail/pulpocon-data-pipelines)

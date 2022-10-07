@@ -1,12 +1,14 @@
 # vueschool/vuejs-forge-episode-2-the-project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 89
 
 ★ Stars: 71
 
 [Open repository](https://github.com/vueschool/vuejs-forge-episode-2-the-project)
+
+[Open detailed stats for vueschool/vuejs-forge-episode-2-the-project](https://reviewgithub.com/rep/vueschool/vuejs-forge-episode-2-the-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 68 | 91 | 
 | 2022-09-08 | 68 | 91 | 
 
-
-[Detailed charts & statistics for vueschool/vuejs-forge-episode-2-the-project](https://reviewgithub.com/rep/vueschool/vuejs-forge-episode-2-the-project)

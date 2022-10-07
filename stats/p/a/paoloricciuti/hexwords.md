@@ -1,12 +1,14 @@
 # paoloricciuti/hexwords - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 99
 
 [Open repository](https://github.com/paoloricciuti/hexwords)
+
+[Open detailed stats for paoloricciuti/hexwords](https://reviewgithub.com/rep/paoloricciuti/hexwords)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 97 | 6 | 
 | 2022-09-07 | 97 | 6 | 
 
-
-[Detailed charts & statistics for paoloricciuti/hexwords](https://reviewgithub.com/rep/paoloricciuti/hexwords)

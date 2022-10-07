@@ -1,12 +1,14 @@
 # jkrumbiegel/JuliaCon2022Makie - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 16
 
 [Open repository](https://github.com/jkrumbiegel/JuliaCon2022Makie)
+
+[Open detailed stats for jkrumbiegel/JuliaCon2022Makie](https://reviewgithub.com/rep/jkrumbiegel/JuliaCon2022Makie)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 7 | 
 | 2022-09-08 | 16 | 7 | 
 
-
-[Detailed charts & statistics for jkrumbiegel/JuliaCon2022Makie](https://reviewgithub.com/rep/jkrumbiegel/JuliaCon2022Makie)

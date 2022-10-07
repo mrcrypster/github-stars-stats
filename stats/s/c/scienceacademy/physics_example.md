@@ -1,12 +1,14 @@
 # scienceacademy/physics_example - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/scienceacademy/physics_example)
+
+[Open detailed stats for scienceacademy/physics_example](https://reviewgithub.com/rep/scienceacademy/physics_example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 10 | 
 | 2022-09-08 | - | 10 | 
 
-
-[Detailed charts & statistics for scienceacademy/physics_example](https://reviewgithub.com/rep/scienceacademy/physics_example)

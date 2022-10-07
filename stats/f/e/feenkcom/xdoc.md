@@ -1,12 +1,14 @@
 # feenkcom/xdoc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 6
 
 [Open repository](https://github.com/feenkcom/xdoc)
+
+[Open detailed stats for feenkcom/xdoc](https://reviewgithub.com/rep/feenkcom/xdoc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
 
-
-[Detailed charts & statistics for feenkcom/xdoc](https://reviewgithub.com/rep/feenkcom/xdoc)

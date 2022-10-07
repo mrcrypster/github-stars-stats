@@ -1,12 +1,14 @@
 # Intelihub/Template_Aluno - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Intelihub/Template_Aluno)
+
+[Open detailed stats for Intelihub/Template_Aluno](https://reviewgithub.com/rep/Intelihub/Template_Aluno)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 133 | 
 | 2022-09-08 | 1 | 133 | 
 
-
-[Detailed charts & statistics for Intelihub/Template_Aluno](https://reviewgithub.com/rep/Intelihub/Template_Aluno)

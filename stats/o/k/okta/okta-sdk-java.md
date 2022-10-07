@@ -1,12 +1,14 @@
 # okta/okta-sdk-java - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 122
 
 ★ Stars: 117
 
 [Open repository](https://github.com/okta/okta-sdk-java)
+
+[Open detailed stats for okta/okta-sdk-java](https://reviewgithub.com/rep/okta/okta-sdk-java)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 116 | 122 | 
 | 2022-09-07 | 116 | 122 | 
 
-
-[Detailed charts & statistics for okta/okta-sdk-java](https://reviewgithub.com/rep/okta/okta-sdk-java)

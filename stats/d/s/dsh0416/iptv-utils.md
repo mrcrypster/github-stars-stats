@@ -1,12 +1,14 @@
 # dsh0416/iptv-utils - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 32
 
 [Open repository](https://github.com/dsh0416/iptv-utils)
+
+[Open detailed stats for dsh0416/iptv-utils](https://reviewgithub.com/rep/dsh0416/iptv-utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | 4 | 
 | 2022-09-08 | 32 | 4 | 
 
-
-[Detailed charts & statistics for dsh0416/iptv-utils](https://reviewgithub.com/rep/dsh0416/iptv-utils)

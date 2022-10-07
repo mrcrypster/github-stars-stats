@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-named-subnets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 43
 
 [Open repository](https://github.com/cloudposse/terraform-aws-named-subnets)
+
+[Open detailed stats for cloudposse/terraform-aws-named-subnets](https://reviewgithub.com/rep/cloudposse/terraform-aws-named-subnets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 33 | 
 | 2022-09-07 | 43 | 33 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-named-subnets](https://reviewgithub.com/rep/cloudposse/terraform-aws-named-subnets)

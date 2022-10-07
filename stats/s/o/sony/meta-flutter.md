@@ -1,12 +1,14 @@
 # sony/meta-flutter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 41
 
 [Open repository](https://github.com/sony/meta-flutter)
+
+[Open detailed stats for sony/meta-flutter](https://reviewgithub.com/rep/sony/meta-flutter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 12 | 
 | 2022-09-08 | 40 | 12 | 
 
-
-[Detailed charts & statistics for sony/meta-flutter](https://reviewgithub.com/rep/sony/meta-flutter)

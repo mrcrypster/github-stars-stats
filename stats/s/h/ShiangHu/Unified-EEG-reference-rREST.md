@@ -1,12 +1,14 @@
 # ShiangHu/Unified-EEG-reference-rREST - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 5
 
 [Open repository](https://github.com/ShiangHu/Unified-EEG-reference-rREST)
+
+[Open detailed stats for ShiangHu/Unified-EEG-reference-rREST](https://reviewgithub.com/rep/ShiangHu/Unified-EEG-reference-rREST)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 7 | 
 | 2022-09-08 | 5 | 7 | 
 
-
-[Detailed charts & statistics for ShiangHu/Unified-EEG-reference-rREST](https://reviewgithub.com/rep/ShiangHu/Unified-EEG-reference-rREST)

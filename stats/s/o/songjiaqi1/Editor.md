@@ -1,12 +1,14 @@
 # songjiaqi1/Editor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 48
 
 [Open repository](https://github.com/songjiaqi1/Editor)
+
+[Open detailed stats for songjiaqi1/Editor](https://reviewgithub.com/rep/songjiaqi1/Editor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 9 | 
 | 2022-09-07 | 48 | 9 | 
 
-
-[Detailed charts & statistics for songjiaqi1/Editor](https://reviewgithub.com/rep/songjiaqi1/Editor)

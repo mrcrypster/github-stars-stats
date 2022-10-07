@@ -1,12 +1,14 @@
 # purescript/purescript-parallel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 41
 
 [Open repository](https://github.com/purescript/purescript-parallel)
+
+[Open detailed stats for purescript/purescript-parallel](https://reviewgithub.com/rep/purescript/purescript-parallel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 41 | 11 | 
 | 2022-09-08 | 41 | 11 | 
 
-
-[Detailed charts & statistics for purescript/purescript-parallel](https://reviewgithub.com/rep/purescript/purescript-parallel)

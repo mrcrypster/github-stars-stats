@@ -1,12 +1,14 @@
 # sasansafari/techblog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 76
 
 ★ Stars: 72
 
 [Open repository](https://github.com/sasansafari/techblog)
+
+[Open detailed stats for sasansafari/techblog](https://reviewgithub.com/rep/sasansafari/techblog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 68 | 
 | 2022-09-07 | 60 | 68 | 
 
-
-[Detailed charts & statistics for sasansafari/techblog](https://reviewgithub.com/rep/sasansafari/techblog)

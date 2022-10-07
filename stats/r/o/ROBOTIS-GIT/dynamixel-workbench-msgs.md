@@ -1,12 +1,14 @@
 # ROBOTIS-GIT/dynamixel-workbench-msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 9
 
 [Open repository](https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs)
+
+[Open detailed stats for ROBOTIS-GIT/dynamixel-workbench-msgs](https://reviewgithub.com/rep/ROBOTIS-GIT/dynamixel-workbench-msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 9 | 29 | 
 | 2022-09-08 | 9 | 29 | 
 
-
-[Detailed charts & statistics for ROBOTIS-GIT/dynamixel-workbench-msgs](https://reviewgithub.com/rep/ROBOTIS-GIT/dynamixel-workbench-msgs)

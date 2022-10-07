@@ -1,12 +1,14 @@
 # rabbitmq/rabbit-socks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 58
 
 [Open repository](https://github.com/rabbitmq/rabbit-socks)
+
+[Open detailed stats for rabbitmq/rabbit-socks](https://reviewgithub.com/rep/rabbitmq/rabbit-socks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 58 | 6 | 
 | 2022-09-08 | 58 | 6 | 
 
-
-[Detailed charts & statistics for rabbitmq/rabbit-socks](https://reviewgithub.com/rep/rabbitmq/rabbit-socks)

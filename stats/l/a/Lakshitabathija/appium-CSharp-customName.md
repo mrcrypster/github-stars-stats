@@ -1,12 +1,14 @@
 # Lakshitabathija/appium-CSharp-customName - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 18
 
 [Open repository](https://github.com/Lakshitabathija/appium-CSharp-customName)
+
+[Open detailed stats for Lakshitabathija/appium-CSharp-customName](https://reviewgithub.com/rep/Lakshitabathija/appium-CSharp-customName)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 10 | 
 | 2022-09-07 | 18 | 10 | 
 
-
-[Detailed charts & statistics for Lakshitabathija/appium-CSharp-customName](https://reviewgithub.com/rep/Lakshitabathija/appium-CSharp-customName)

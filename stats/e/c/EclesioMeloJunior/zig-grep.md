@@ -1,12 +1,14 @@
 # EclesioMeloJunior/zig-grep - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 10
 
 [Open repository](https://github.com/EclesioMeloJunior/zig-grep)
+
+[Open detailed stats for EclesioMeloJunior/zig-grep](https://reviewgithub.com/rep/EclesioMeloJunior/zig-grep)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 8 | - | 
 | 2022-09-13 | 8 | - | 
 
-
-[Detailed charts & statistics for EclesioMeloJunior/zig-grep](https://reviewgithub.com/rep/EclesioMeloJunior/zig-grep)

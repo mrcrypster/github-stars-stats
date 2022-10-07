@@ -1,12 +1,14 @@
 # purescript-node/purescript-node-streams - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 17
 
 [Open repository](https://github.com/purescript-node/purescript-node-streams)
+
+[Open detailed stats for purescript-node/purescript-node-streams](https://reviewgithub.com/rep/purescript-node/purescript-node-streams)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 17 | 21 | 
 | 2022-09-08 | 17 | 21 | 
 
-
-[Detailed charts & statistics for purescript-node/purescript-node-streams](https://reviewgithub.com/rep/purescript-node/purescript-node-streams)

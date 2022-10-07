@@ -1,12 +1,14 @@
 # silverstripe/cwp-starter-theme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 4
 
 [Open repository](https://github.com/silverstripe/cwp-starter-theme)
+
+[Open detailed stats for silverstripe/cwp-starter-theme](https://reviewgithub.com/rep/silverstripe/cwp-starter-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 28 | 
 | 2022-09-08 | 4 | 28 | 
 
-
-[Detailed charts & statistics for silverstripe/cwp-starter-theme](https://reviewgithub.com/rep/silverstripe/cwp-starter-theme)

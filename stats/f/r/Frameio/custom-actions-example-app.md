@@ -1,12 +1,14 @@
 # Frameio/custom-actions-example-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 4
 
 [Open repository](https://github.com/Frameio/custom-actions-example-app)
+
+[Open detailed stats for Frameio/custom-actions-example-app](https://reviewgithub.com/rep/Frameio/custom-actions-example-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 7 | 
 | 2022-09-07 | 4 | 7 | 
 
-
-[Detailed charts & statistics for Frameio/custom-actions-example-app](https://reviewgithub.com/rep/Frameio/custom-actions-example-app)

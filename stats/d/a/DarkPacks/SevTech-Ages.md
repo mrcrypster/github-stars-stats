@@ -1,12 +1,14 @@
 # DarkPacks/SevTech-Ages - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 80
 
 ★ Stars: 222
 
 [Open repository](https://github.com/DarkPacks/SevTech-Ages)
+
+[Open detailed stats for DarkPacks/SevTech-Ages](https://reviewgithub.com/rep/DarkPacks/SevTech-Ages)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 223 | 80 | 
 | 2022-09-08 | 223 | 80 | 
 
-
-[Detailed charts & statistics for DarkPacks/SevTech-Ages](https://reviewgithub.com/rep/DarkPacks/SevTech-Ages)

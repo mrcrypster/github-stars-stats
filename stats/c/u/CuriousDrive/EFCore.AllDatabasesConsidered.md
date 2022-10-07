@@ -1,12 +1,14 @@
 # CuriousDrive/EFCore.AllDatabasesConsidered - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 51
 
 [Open repository](https://github.com/CuriousDrive/EFCore.AllDatabasesConsidered)
+
+[Open detailed stats for CuriousDrive/EFCore.AllDatabasesConsidered](https://reviewgithub.com/rep/CuriousDrive/EFCore.AllDatabasesConsidered)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 41 | 
 | 2022-09-07 | 48 | 41 | 
 
-
-[Detailed charts & statistics for CuriousDrive/EFCore.AllDatabasesConsidered](https://reviewgithub.com/rep/CuriousDrive/EFCore.AllDatabasesConsidered)

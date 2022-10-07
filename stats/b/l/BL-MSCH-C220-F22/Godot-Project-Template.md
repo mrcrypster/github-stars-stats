@@ -1,12 +1,14 @@
 # BL-MSCH-C220-F22/Godot-Project-Template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BL-MSCH-C220-F22/Godot-Project-Template)
+
+[Open detailed stats for BL-MSCH-C220-F22/Godot-Project-Template](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Godot-Project-Template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | 7 | 
 | 2022-09-25 | - | 7 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-F22/Godot-Project-Template](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Godot-Project-Template)

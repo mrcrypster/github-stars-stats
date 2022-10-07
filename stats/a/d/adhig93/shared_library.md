@@ -1,12 +1,14 @@
 # adhig93/shared_library - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/adhig93/shared_library)
+
+[Open detailed stats for adhig93/shared_library](https://reviewgithub.com/rep/adhig93/shared_library)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 10 | 
 | 2022-09-07 | - | 10 | 
 
-
-[Detailed charts & statistics for adhig93/shared_library](https://reviewgithub.com/rep/adhig93/shared_library)

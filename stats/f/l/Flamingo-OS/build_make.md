@@ -1,12 +1,14 @@
 # Flamingo-OS/build_make - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Flamingo-OS/build_make)
+
+[Open detailed stats for Flamingo-OS/build_make](https://reviewgithub.com/rep/Flamingo-OS/build_make)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for Flamingo-OS/build_make](https://reviewgithub.com/rep/Flamingo-OS/build_make)

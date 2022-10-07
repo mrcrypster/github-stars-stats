@@ -1,12 +1,14 @@
 # jackpocket/pdf417-elixir - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/jackpocket/pdf417-elixir)
+
+[Open detailed stats for jackpocket/pdf417-elixir](https://reviewgithub.com/rep/jackpocket/pdf417-elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | - | 
 | 2022-09-08 | 6 | - | 
 
-
-[Detailed charts & statistics for jackpocket/pdf417-elixir](https://reviewgithub.com/rep/jackpocket/pdf417-elixir)

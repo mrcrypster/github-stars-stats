@@ -1,12 +1,14 @@
 # cooperrc/computational-mechanics - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 298
 
 ★ Stars: 25
 
 [Open repository](https://github.com/cooperrc/computational-mechanics)
+
+[Open detailed stats for cooperrc/computational-mechanics](https://reviewgithub.com/rep/cooperrc/computational-mechanics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 289 | 
 | 2022-09-08 | 19 | 287 | 
 
-
-[Detailed charts & statistics for cooperrc/computational-mechanics](https://reviewgithub.com/rep/cooperrc/computational-mechanics)

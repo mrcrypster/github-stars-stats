@@ -1,12 +1,14 @@
 # bWFuanVzYWth/OriginShader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 126
 
 ★ Stars: 263
 
 [Open repository](https://github.com/bWFuanVzYWth/OriginShader)
+
+[Open detailed stats for bWFuanVzYWth/OriginShader](https://reviewgithub.com/rep/bWFuanVzYWth/OriginShader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 262 | 124 | 
 | 2022-09-08 | 262 | 124 | 
 
-
-[Detailed charts & statistics for bWFuanVzYWth/OriginShader](https://reviewgithub.com/rep/bWFuanVzYWth/OriginShader)

@@ -1,12 +1,14 @@
 # Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch)
+
+[Open detailed stats for Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch](https://reviewgithub.com/rep/Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 1 | 
 | 2022-09-08 | 13 | 1 | 
 
-
-[Detailed charts & statistics for Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch](https://reviewgithub.com/rep/Adham-Mohamed-Ahmed-Abd-Elrahim/Pipelined_MIPS_32-bit_harvard-arch)

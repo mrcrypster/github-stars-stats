@@ -1,12 +1,14 @@
 # beego/beego - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5537
 
 ★ Stars: 28919
 
 [Open repository](https://github.com/beego/beego)
+
+[Open detailed stats for beego/beego](https://reviewgithub.com/rep/beego/beego)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28806 | 5538 | 
 | 2022-09-07 | 28805 | 5537 | 
 
-
-[Detailed charts & statistics for beego/beego](https://reviewgithub.com/rep/beego/beego)

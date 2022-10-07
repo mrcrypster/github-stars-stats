@@ -1,12 +1,14 @@
 # qbcore-framework/qb-cityhall - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 184
 
 ★ Stars: 17
 
 [Open repository](https://github.com/qbcore-framework/qb-cityhall)
+
+[Open detailed stats for qbcore-framework/qb-cityhall](https://reviewgithub.com/rep/qbcore-framework/qb-cityhall)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 180 | 
 | 2022-09-07 | 17 | 178 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-cityhall](https://reviewgithub.com/rep/qbcore-framework/qb-cityhall)

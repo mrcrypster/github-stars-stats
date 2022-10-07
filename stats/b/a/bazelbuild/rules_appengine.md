@@ -1,12 +1,14 @@
 # bazelbuild/rules_appengine - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 28
 
 [Open repository](https://github.com/bazelbuild/rules_appengine)
+
+[Open detailed stats for bazelbuild/rules_appengine](https://reviewgithub.com/rep/bazelbuild/rules_appengine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 28 | 45 | 
 | 2022-09-08 | 28 | 45 | 
 
-
-[Detailed charts & statistics for bazelbuild/rules_appengine](https://reviewgithub.com/rep/bazelbuild/rules_appengine)

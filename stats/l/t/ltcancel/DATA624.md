@@ -1,12 +1,14 @@
 # ltcancel/DATA624 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ltcancel/DATA624)
+
+[Open detailed stats for ltcancel/DATA624](https://reviewgithub.com/rep/ltcancel/DATA624)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 4 | 
 | 2022-09-07 | 2 | 4 | 
 
-
-[Detailed charts & statistics for ltcancel/DATA624](https://reviewgithub.com/rep/ltcancel/DATA624)

@@ -1,12 +1,14 @@
 # technion/open_safety - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 28
 
 [Open repository](https://github.com/technion/open_safety)
+
+[Open detailed stats for technion/open_safety](https://reviewgithub.com/rep/technion/open_safety)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | - | 
 | 2022-09-08 | 27 | - | 
 
-
-[Detailed charts & statistics for technion/open_safety](https://reviewgithub.com/rep/technion/open_safety)

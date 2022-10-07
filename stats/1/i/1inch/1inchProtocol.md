@@ -1,12 +1,14 @@
 # 1inch/1inchProtocol - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 233
 
 ★ Stars: 438
 
 [Open repository](https://github.com/1inch/1inchProtocol)
+
+[Open detailed stats for 1inch/1inchProtocol](https://reviewgithub.com/rep/1inch/1inchProtocol)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 433 | 229 | 
 | 2022-09-08 | 432 | 229 | 
 
-
-[Detailed charts & statistics for 1inch/1inchProtocol](https://reviewgithub.com/rep/1inch/1inchProtocol)

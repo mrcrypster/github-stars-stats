@@ -1,12 +1,14 @@
 # mapbox/XcodeClangFormat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 101
 
 ★ Stars: 780
 
 [Open repository](https://github.com/mapbox/XcodeClangFormat)
+
+[Open detailed stats for mapbox/XcodeClangFormat](https://reviewgithub.com/rep/mapbox/XcodeClangFormat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 780 | 101 | 
 | 2022-09-07 | 780 | 101 | 
 
-
-[Detailed charts & statistics for mapbox/XcodeClangFormat](https://reviewgithub.com/rep/mapbox/XcodeClangFormat)

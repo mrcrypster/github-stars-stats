@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-key-pair - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 67
 
 ★ Stars: 135
 
 [Open repository](https://github.com/cloudposse/terraform-aws-key-pair)
+
+[Open detailed stats for cloudposse/terraform-aws-key-pair](https://reviewgithub.com/rep/cloudposse/terraform-aws-key-pair)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 135 | 66 | 
 | 2022-09-08 | 135 | 66 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-key-pair](https://reviewgithub.com/rep/cloudposse/terraform-aws-key-pair)

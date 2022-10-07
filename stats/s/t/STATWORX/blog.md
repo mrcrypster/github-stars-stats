@@ -1,12 +1,14 @@
 # STATWORX/blog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 483
 
 ★ Stars: 105
 
 [Open repository](https://github.com/STATWORX/blog)
+
+[Open detailed stats for STATWORX/blog](https://reviewgithub.com/rep/STATWORX/blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 104 | 481 | 
 | 2022-09-07 | 104 | 482 | 
 
-
-[Detailed charts & statistics for STATWORX/blog](https://reviewgithub.com/rep/STATWORX/blog)

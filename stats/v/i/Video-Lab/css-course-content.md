@@ -1,12 +1,14 @@
 # Video-Lab/css-course-content - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 618
 
 ★ Stars: 556
 
 [Open repository](https://github.com/Video-Lab/css-course-content)
+
+[Open detailed stats for Video-Lab/css-course-content](https://reviewgithub.com/rep/Video-Lab/css-course-content)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 548 | 613 | 
 | 2022-09-08 | 548 | 613 | 
 
-
-[Detailed charts & statistics for Video-Lab/css-course-content](https://reviewgithub.com/rep/Video-Lab/css-course-content)

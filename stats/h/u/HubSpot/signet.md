@@ -1,12 +1,14 @@
 # HubSpot/signet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 566
 
 [Open repository](https://github.com/HubSpot/signet)
+
+[Open detailed stats for HubSpot/signet](https://reviewgithub.com/rep/HubSpot/signet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 568 | 37 | 
 | 2022-09-07 | 568 | 37 | 
 
-
-[Detailed charts & statistics for HubSpot/signet](https://reviewgithub.com/rep/HubSpot/signet)

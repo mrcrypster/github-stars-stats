@@ -1,12 +1,14 @@
 # fleetman-ci-cd-demo/jenkins - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 821
 
 ★ Stars: 5
 
 [Open repository](https://github.com/fleetman-ci-cd-demo/jenkins)
+
+[Open detailed stats for fleetman-ci-cd-demo/jenkins](https://reviewgithub.com/rep/fleetman-ci-cd-demo/jenkins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 805 | 
 | 2022-09-08 | 5 | 805 | 
 
-
-[Detailed charts & statistics for fleetman-ci-cd-demo/jenkins](https://reviewgithub.com/rep/fleetman-ci-cd-demo/jenkins)

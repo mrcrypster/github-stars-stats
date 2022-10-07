@@ -1,12 +1,14 @@
 # OCamlPro/ocp-index - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 60
 
 [Open repository](https://github.com/OCamlPro/ocp-index)
+
+[Open detailed stats for OCamlPro/ocp-index](https://reviewgithub.com/rep/OCamlPro/ocp-index)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 60 | 24 | 
 | 2022-09-08 | 60 | 24 | 
 
-
-[Detailed charts & statistics for OCamlPro/ocp-index](https://reviewgithub.com/rep/OCamlPro/ocp-index)

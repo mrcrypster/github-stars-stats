@@ -1,12 +1,14 @@
 # LovelyWhite/ddmc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 68
 
 [Open repository](https://github.com/LovelyWhite/ddmc)
+
+[Open detailed stats for LovelyWhite/ddmc](https://reviewgithub.com/rep/LovelyWhite/ddmc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 68 | 29 | 
 | 2022-09-07 | 68 | 29 | 
 
-
-[Detailed charts & statistics for LovelyWhite/ddmc](https://reviewgithub.com/rep/LovelyWhite/ddmc)

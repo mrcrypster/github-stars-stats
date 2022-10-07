@@ -1,12 +1,14 @@
 # sudeepdino008/emacs-configuration - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sudeepdino008/emacs-configuration)
+
+[Open detailed stats for sudeepdino008/emacs-configuration](https://reviewgithub.com/rep/sudeepdino008/emacs-configuration)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | - | - | 
 | 2022-09-15 | - | - | 
 
-
-[Detailed charts & statistics for sudeepdino008/emacs-configuration](https://reviewgithub.com/rep/sudeepdino008/emacs-configuration)

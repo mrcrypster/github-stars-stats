@@ -1,12 +1,14 @@
 # rpodcast/nhl_analysis - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 14
 
 [Open repository](https://github.com/rpodcast/nhl_analysis)
+
+[Open detailed stats for rpodcast/nhl_analysis](https://reviewgithub.com/rep/rpodcast/nhl_analysis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 5 | 
 | 2022-09-07 | 14 | 5 | 
 
-
-[Detailed charts & statistics for rpodcast/nhl_analysis](https://reviewgithub.com/rep/rpodcast/nhl_analysis)

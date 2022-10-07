@@ -1,12 +1,14 @@
 # samih93/e_commerce_app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 62
 
 [Open repository](https://github.com/samih93/e_commerce_app)
+
+[Open detailed stats for samih93/e_commerce_app](https://reviewgithub.com/rep/samih93/e_commerce_app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 62 | 26 | 
 | 2022-09-07 | 62 | 26 | 
 
-
-[Detailed charts & statistics for samih93/e_commerce_app](https://reviewgithub.com/rep/samih93/e_commerce_app)

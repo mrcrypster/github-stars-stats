@@ -1,12 +1,14 @@
 # saucepoint/solwiss-tournament - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 23
 
 [Open repository](https://github.com/saucepoint/solwiss-tournament)
+
+[Open detailed stats for saucepoint/solwiss-tournament](https://reviewgithub.com/rep/saucepoint/solwiss-tournament)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 2 | 
 | 2022-09-08 | 21 | 2 | 
 
-
-[Detailed charts & statistics for saucepoint/solwiss-tournament](https://reviewgithub.com/rep/saucepoint/solwiss-tournament)

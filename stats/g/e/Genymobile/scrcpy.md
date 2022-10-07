@@ -1,12 +1,14 @@
 # Genymobile/scrcpy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7586
 
 ★ Stars: 71198
 
 [Open repository](https://github.com/Genymobile/scrcpy)
+
+[Open detailed stats for Genymobile/scrcpy](https://reviewgithub.com/rep/Genymobile/scrcpy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 70150 | 7474 | 
 | 2022-09-07 | 70117 | 7472 | 
 
-
-[Detailed charts & statistics for Genymobile/scrcpy](https://reviewgithub.com/rep/Genymobile/scrcpy)

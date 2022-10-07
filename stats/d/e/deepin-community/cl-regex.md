@@ -1,12 +1,14 @@
 # deepin-community/cl-regex - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/deepin-community/cl-regex)
+
+[Open detailed stats for deepin-community/cl-regex](https://reviewgithub.com/rep/deepin-community/cl-regex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | - | - | 
 | 2022-09-30 | - | - | 
 
-
-[Detailed charts & statistics for deepin-community/cl-regex](https://reviewgithub.com/rep/deepin-community/cl-regex)

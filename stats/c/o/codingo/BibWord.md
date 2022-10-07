@@ -1,12 +1,14 @@
 # codingo/BibWord - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 169
 
 ★ Stars: 195
 
 [Open repository](https://github.com/codingo/BibWord)
+
+[Open detailed stats for codingo/BibWord](https://reviewgithub.com/rep/codingo/BibWord)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 195 | 164 | 
 | 2022-09-08 | 194 | 164 | 
 
-
-[Detailed charts & statistics for codingo/BibWord](https://reviewgithub.com/rep/codingo/BibWord)

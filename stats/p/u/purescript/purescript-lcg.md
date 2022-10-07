@@ -1,12 +1,14 @@
 # purescript/purescript-lcg - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/purescript/purescript-lcg)
+
+[Open detailed stats for purescript/purescript-lcg](https://reviewgithub.com/rep/purescript/purescript-lcg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 5 | 
 | 2022-09-07 | 3 | 5 | 
 
-
-[Detailed charts & statistics for purescript/purescript-lcg](https://reviewgithub.com/rep/purescript/purescript-lcg)

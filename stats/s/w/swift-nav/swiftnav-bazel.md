@@ -1,12 +1,14 @@
 # swift-nav/swiftnav-bazel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/swift-nav/swiftnav-bazel)
+
+[Open detailed stats for swift-nav/swiftnav-bazel](https://reviewgithub.com/rep/swift-nav/swiftnav-bazel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-24 | - | - | 
 | 2022-09-23 | - | - | 
 
-
-[Detailed charts & statistics for swift-nav/swiftnav-bazel](https://reviewgithub.com/rep/swift-nav/swiftnav-bazel)

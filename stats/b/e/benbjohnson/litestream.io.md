@@ -1,12 +1,14 @@
 # benbjohnson/litestream.io - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 39
 
 [Open repository](https://github.com/benbjohnson/litestream.io)
+
+[Open detailed stats for benbjohnson/litestream.io](https://reviewgithub.com/rep/benbjohnson/litestream.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 28 | 
 | 2022-09-08 | 38 | 28 | 
 
-
-[Detailed charts & statistics for benbjohnson/litestream.io](https://reviewgithub.com/rep/benbjohnson/litestream.io)

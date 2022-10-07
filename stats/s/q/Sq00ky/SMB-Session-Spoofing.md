@@ -1,12 +1,14 @@
 # Sq00ky/SMB-Session-Spoofing - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 108
 
 [Open repository](https://github.com/Sq00ky/SMB-Session-Spoofing)
+
+[Open detailed stats for Sq00ky/SMB-Session-Spoofing](https://reviewgithub.com/rep/Sq00ky/SMB-Session-Spoofing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 108 | 14 | 
 | 2022-09-07 | 108 | 14 | 
 
-
-[Detailed charts & statistics for Sq00ky/SMB-Session-Spoofing](https://reviewgithub.com/rep/Sq00ky/SMB-Session-Spoofing)

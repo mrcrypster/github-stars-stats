@@ -1,12 +1,14 @@
 # sparanoid/path-menu - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 80
 
 [Open repository](https://github.com/sparanoid/path-menu)
+
+[Open detailed stats for sparanoid/path-menu](https://reviewgithub.com/rep/sparanoid/path-menu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 80 | 11 | 
 | 2022-09-17 | 80 | 11 | 
 
-
-[Detailed charts & statistics for sparanoid/path-menu](https://reviewgithub.com/rep/sparanoid/path-menu)

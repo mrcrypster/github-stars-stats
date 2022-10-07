@@ -1,12 +1,14 @@
 # geekplux/timeline-sankey - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 82
 
 [Open repository](https://github.com/geekplux/timeline-sankey)
+
+[Open detailed stats for geekplux/timeline-sankey](https://reviewgithub.com/rep/geekplux/timeline-sankey)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 82 | 2 | 
 | 2022-09-07 | 82 | 2 | 
 
-
-[Detailed charts & statistics for geekplux/timeline-sankey](https://reviewgithub.com/rep/geekplux/timeline-sankey)

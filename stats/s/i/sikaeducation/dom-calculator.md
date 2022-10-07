@@ -1,12 +1,14 @@
 # sikaeducation/dom-calculator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sikaeducation/dom-calculator)
+
+[Open detailed stats for sikaeducation/dom-calculator](https://reviewgithub.com/rep/sikaeducation/dom-calculator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 19 | 
 | 2022-09-07 | - | 19 | 
 
-
-[Detailed charts & statistics for sikaeducation/dom-calculator](https://reviewgithub.com/rep/sikaeducation/dom-calculator)

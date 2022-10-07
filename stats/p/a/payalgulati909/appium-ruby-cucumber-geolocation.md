@@ -1,12 +1,14 @@
 # payalgulati909/appium-ruby-cucumber-geolocation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 15
 
 [Open repository](https://github.com/payalgulati909/appium-ruby-cucumber-geolocation)
+
+[Open detailed stats for payalgulati909/appium-ruby-cucumber-geolocation](https://reviewgithub.com/rep/payalgulati909/appium-ruby-cucumber-geolocation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 9 | 
 | 2022-09-07 | 15 | 9 | 
 
-
-[Detailed charts & statistics for payalgulati909/appium-ruby-cucumber-geolocation](https://reviewgithub.com/rep/payalgulati909/appium-ruby-cucumber-geolocation)

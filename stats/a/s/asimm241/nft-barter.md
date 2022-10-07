@@ -1,12 +1,14 @@
 # asimm241/nft-barter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/asimm241/nft-barter)
+
+[Open detailed stats for asimm241/nft-barter](https://reviewgithub.com/rep/asimm241/nft-barter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for asimm241/nft-barter](https://reviewgithub.com/rep/asimm241/nft-barter)

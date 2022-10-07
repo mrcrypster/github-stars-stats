@@ -1,12 +1,14 @@
 # jacobstanley/sudo4win - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/jacobstanley/sudo4win)
+
+[Open detailed stats for jacobstanley/sudo4win](https://reviewgithub.com/rep/jacobstanley/sudo4win)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for jacobstanley/sudo4win](https://reviewgithub.com/rep/jacobstanley/sudo4win)

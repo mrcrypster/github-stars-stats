@@ -1,12 +1,14 @@
 # covertool/covertool - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 55
 
 ★ Stars: 69
 
 [Open repository](https://github.com/covertool/covertool)
+
+[Open detailed stats for covertool/covertool](https://reviewgithub.com/rep/covertool/covertool)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 69 | 55 | 
 | 2022-09-07 | 69 | 54 | 
 
-
-[Detailed charts & statistics for covertool/covertool](https://reviewgithub.com/rep/covertool/covertool)

@@ -1,12 +1,14 @@
 # asyncvlsi/summer2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 12
 
 [Open repository](https://github.com/asyncvlsi/summer2022)
+
+[Open detailed stats for asyncvlsi/summer2022](https://reviewgithub.com/rep/asyncvlsi/summer2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 3 | 
 | 2022-09-07 | 11 | 3 | 
 
-
-[Detailed charts & statistics for asyncvlsi/summer2022](https://reviewgithub.com/rep/asyncvlsi/summer2022)

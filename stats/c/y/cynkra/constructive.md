@@ -1,12 +1,14 @@
 # cynkra/constructive - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 20
 
 [Open repository](https://github.com/cynkra/constructive)
+
+[Open detailed stats for cynkra/constructive](https://reviewgithub.com/rep/cynkra/constructive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 3 | 
 | 2022-09-07 | 17 | 3 | 
 
-
-[Detailed charts & statistics for cynkra/constructive](https://reviewgithub.com/rep/cynkra/constructive)

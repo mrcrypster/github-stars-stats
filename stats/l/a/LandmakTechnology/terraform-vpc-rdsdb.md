@@ -1,12 +1,14 @@
 # LandmakTechnology/terraform-vpc-rdsdb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 116
 
 ★ Stars: 1
 
 [Open repository](https://github.com/LandmakTechnology/terraform-vpc-rdsdb)
+
+[Open detailed stats for LandmakTechnology/terraform-vpc-rdsdb](https://reviewgithub.com/rep/LandmakTechnology/terraform-vpc-rdsdb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 106 | 
 | 2022-09-08 | 1 | 106 | 
 
-
-[Detailed charts & statistics for LandmakTechnology/terraform-vpc-rdsdb](https://reviewgithub.com/rep/LandmakTechnology/terraform-vpc-rdsdb)

@@ -1,12 +1,14 @@
 # CITUCCS/csit327-dapper-3-school-multimapping-solution - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/CITUCCS/csit327-dapper-3-school-multimapping-solution)
+
+[Open detailed stats for CITUCCS/csit327-dapper-3-school-multimapping-solution](https://reviewgithub.com/rep/CITUCCS/csit327-dapper-3-school-multimapping-solution)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | - | 1 | 
 | 2022-09-21 | - | 1 | 
 
-
-[Detailed charts & statistics for CITUCCS/csit327-dapper-3-school-multimapping-solution](https://reviewgithub.com/rep/CITUCCS/csit327-dapper-3-school-multimapping-solution)

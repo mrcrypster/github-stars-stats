@@ -1,12 +1,14 @@
 # vikas99341/K8S-pipeline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 34
 
 ★ Stars: 0
 
 [Open repository](https://github.com/vikas99341/K8S-pipeline)
+
+[Open detailed stats for vikas99341/K8S-pipeline](https://reviewgithub.com/rep/vikas99341/K8S-pipeline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 33 | 
 | 2022-09-07 | - | 33 | 
 
-
-[Detailed charts & statistics for vikas99341/K8S-pipeline](https://reviewgithub.com/rep/vikas99341/K8S-pipeline)

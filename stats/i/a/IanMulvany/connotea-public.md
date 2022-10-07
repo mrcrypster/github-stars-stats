@@ -1,12 +1,14 @@
 # IanMulvany/connotea-public - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 15
 
 [Open repository](https://github.com/IanMulvany/connotea-public)
+
+[Open detailed stats for IanMulvany/connotea-public](https://reviewgithub.com/rep/IanMulvany/connotea-public)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 5 | 
 | 2022-09-07 | 15 | 5 | 
 
-
-[Detailed charts & statistics for IanMulvany/connotea-public](https://reviewgithub.com/rep/IanMulvany/connotea-public)

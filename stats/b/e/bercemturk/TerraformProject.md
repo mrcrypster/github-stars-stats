@@ -1,12 +1,14 @@
 # bercemturk/TerraformProject - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bercemturk/TerraformProject)
+
+[Open detailed stats for bercemturk/TerraformProject](https://reviewgithub.com/rep/bercemturk/TerraformProject)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for bercemturk/TerraformProject](https://reviewgithub.com/rep/bercemturk/TerraformProject)

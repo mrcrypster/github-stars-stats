@@ -1,12 +1,14 @@
 # danielbeach/dataEngineeringTemplate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 62
 
 [Open repository](https://github.com/danielbeach/dataEngineeringTemplate)
+
+[Open detailed stats for danielbeach/dataEngineeringTemplate](https://reviewgithub.com/rep/danielbeach/dataEngineeringTemplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 61 | 17 | 
 | 2022-09-07 | 61 | 17 | 
 
-
-[Detailed charts & statistics for danielbeach/dataEngineeringTemplate](https://reviewgithub.com/rep/danielbeach/dataEngineeringTemplate)

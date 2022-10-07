@@ -1,12 +1,14 @@
 # HenGaming13/freeRDP_2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/HenGaming13/freeRDP_2022)
+
+[Open detailed stats for HenGaming13/freeRDP_2022](https://reviewgithub.com/rep/HenGaming13/freeRDP_2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | - | 5 | 
 | 2022-09-23 | - | 5 | 
 
-
-[Detailed charts & statistics for HenGaming13/freeRDP_2022](https://reviewgithub.com/rep/HenGaming13/freeRDP_2022)

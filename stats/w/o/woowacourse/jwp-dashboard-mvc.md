@@ -1,12 +1,14 @@
 # woowacourse/jwp-dashboard-mvc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 127
 
 ★ Stars: 2
 
 [Open repository](https://github.com/woowacourse/jwp-dashboard-mvc)
+
+[Open detailed stats for woowacourse/jwp-dashboard-mvc](https://reviewgithub.com/rep/woowacourse/jwp-dashboard-mvc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 3 | 116 | 
 | 2022-09-17 | 2 | 109 | 
 
-
-[Detailed charts & statistics for woowacourse/jwp-dashboard-mvc](https://reviewgithub.com/rep/woowacourse/jwp-dashboard-mvc)

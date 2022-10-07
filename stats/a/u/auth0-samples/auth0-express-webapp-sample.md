@@ -1,12 +1,14 @@
 # auth0-samples/auth0-express-webapp-sample - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 68
 
 ★ Stars: 39
 
 [Open repository](https://github.com/auth0-samples/auth0-express-webapp-sample)
+
+[Open detailed stats for auth0-samples/auth0-express-webapp-sample](https://reviewgithub.com/rep/auth0-samples/auth0-express-webapp-sample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 63 | 
 | 2022-09-08 | 37 | 63 | 
 
-
-[Detailed charts & statistics for auth0-samples/auth0-express-webapp-sample](https://reviewgithub.com/rep/auth0-samples/auth0-express-webapp-sample)

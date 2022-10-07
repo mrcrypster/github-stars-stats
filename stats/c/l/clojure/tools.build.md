@@ -1,12 +1,14 @@
 # clojure/tools.build - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 140
 
 [Open repository](https://github.com/clojure/tools.build)
+
+[Open detailed stats for clojure/tools.build](https://reviewgithub.com/rep/clojure/tools.build)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 133 | 15 | 
 | 2022-09-07 | 133 | 15 | 
 
-
-[Detailed charts & statistics for clojure/tools.build](https://reviewgithub.com/rep/clojure/tools.build)

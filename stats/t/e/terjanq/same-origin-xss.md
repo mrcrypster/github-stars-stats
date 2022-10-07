@@ -1,12 +1,14 @@
 # terjanq/same-origin-xss - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 46
 
 [Open repository](https://github.com/terjanq/same-origin-xss)
+
+[Open detailed stats for terjanq/same-origin-xss](https://reviewgithub.com/rep/terjanq/same-origin-xss)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 44 | 3 | 
 | 2022-09-08 | 44 | 3 | 
 
-
-[Detailed charts & statistics for terjanq/same-origin-xss](https://reviewgithub.com/rep/terjanq/same-origin-xss)

@@ -1,12 +1,14 @@
 # bedimcode/responsive-popup-modal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 73
 
 [Open repository](https://github.com/bedimcode/responsive-popup-modal)
+
+[Open detailed stats for bedimcode/responsive-popup-modal](https://reviewgithub.com/rep/bedimcode/responsive-popup-modal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 70 | 17 | 
 | 2022-09-07 | 70 | 17 | 
 
-
-[Detailed charts & statistics for bedimcode/responsive-popup-modal](https://reviewgithub.com/rep/bedimcode/responsive-popup-modal)

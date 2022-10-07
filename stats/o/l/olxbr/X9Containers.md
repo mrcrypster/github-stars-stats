@@ -1,12 +1,14 @@
 # olxbr/X9Containers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 7
 
 [Open repository](https://github.com/olxbr/X9Containers)
+
+[Open detailed stats for olxbr/X9Containers](https://reviewgithub.com/rep/olxbr/X9Containers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 1 | 
 | 2022-09-08 | 7 | 1 | 
 
-
-[Detailed charts & statistics for olxbr/X9Containers](https://reviewgithub.com/rep/olxbr/X9Containers)

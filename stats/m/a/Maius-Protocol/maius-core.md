@@ -1,12 +1,14 @@
 # Maius-Protocol/maius-core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 21
 
 [Open repository](https://github.com/Maius-Protocol/maius-core)
+
+[Open detailed stats for Maius-Protocol/maius-core](https://reviewgithub.com/rep/Maius-Protocol/maius-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 5 | 
 | 2022-09-08 | 21 | 5 | 
 
-
-[Detailed charts & statistics for Maius-Protocol/maius-core](https://reviewgithub.com/rep/Maius-Protocol/maius-core)

@@ -1,12 +1,14 @@
 # kbarber/erlang-mdigraph - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 13
 
 [Open repository](https://github.com/kbarber/erlang-mdigraph)
+
+[Open detailed stats for kbarber/erlang-mdigraph](https://reviewgithub.com/rep/kbarber/erlang-mdigraph)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 8 | 
 | 2022-09-07 | 13 | 8 | 
 
-
-[Detailed charts & statistics for kbarber/erlang-mdigraph](https://reviewgithub.com/rep/kbarber/erlang-mdigraph)

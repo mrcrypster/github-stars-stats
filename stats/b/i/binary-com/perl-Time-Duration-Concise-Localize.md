@@ -1,12 +1,14 @@
 # binary-com/perl-Time-Duration-Concise-Localize - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-Time-Duration-Concise-Localize)
+
+[Open detailed stats for binary-com/perl-Time-Duration-Concise-Localize](https://reviewgithub.com/rep/binary-com/perl-Time-Duration-Concise-Localize)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 8 | 
 | 2022-09-07 | - | 8 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Time-Duration-Concise-Localize](https://reviewgithub.com/rep/binary-com/perl-Time-Duration-Concise-Localize)

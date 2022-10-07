@@ -1,12 +1,14 @@
 # Jupiterson/Throne-of-Lorraine - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 18
 
 [Open repository](https://github.com/Jupiterson/Throne-of-Lorraine)
+
+[Open detailed stats for Jupiterson/Throne-of-Lorraine](https://reviewgithub.com/rep/Jupiterson/Throne-of-Lorraine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 15 | 
 | 2022-09-07 | 17 | 15 | 
 
-
-[Detailed charts & statistics for Jupiterson/Throne-of-Lorraine](https://reviewgithub.com/rep/Jupiterson/Throne-of-Lorraine)

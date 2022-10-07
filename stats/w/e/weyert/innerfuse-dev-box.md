@@ -1,12 +1,14 @@
 # weyert/innerfuse-dev-box - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/weyert/innerfuse-dev-box)
+
+[Open detailed stats for weyert/innerfuse-dev-box](https://reviewgithub.com/rep/weyert/innerfuse-dev-box)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for weyert/innerfuse-dev-box](https://reviewgithub.com/rep/weyert/innerfuse-dev-box)

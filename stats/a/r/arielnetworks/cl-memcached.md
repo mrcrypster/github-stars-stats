@@ -1,12 +1,14 @@
 # arielnetworks/cl-memcached - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 7
 
 [Open repository](https://github.com/arielnetworks/cl-memcached)
+
+[Open detailed stats for arielnetworks/cl-memcached](https://reviewgithub.com/rep/arielnetworks/cl-memcached)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 7 | 3 | 
 | 2022-09-10 | 7 | 3 | 
 
-
-[Detailed charts & statistics for arielnetworks/cl-memcached](https://reviewgithub.com/rep/arielnetworks/cl-memcached)

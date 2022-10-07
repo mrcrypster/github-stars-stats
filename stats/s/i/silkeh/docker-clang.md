@@ -1,12 +1,14 @@
 # silkeh/docker-clang - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 68
 
 [Open repository](https://github.com/silkeh/docker-clang)
+
+[Open detailed stats for silkeh/docker-clang](https://reviewgithub.com/rep/silkeh/docker-clang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 67 | 31 | 
 | 2022-09-07 | 67 | 31 | 
 
-
-[Detailed charts & statistics for silkeh/docker-clang](https://reviewgithub.com/rep/silkeh/docker-clang)

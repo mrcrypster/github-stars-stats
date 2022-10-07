@@ -1,12 +1,14 @@
 # D-Programming-Deimos/Nanopb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/D-Programming-Deimos/Nanopb)
+
+[Open detailed stats for D-Programming-Deimos/Nanopb](https://reviewgithub.com/rep/D-Programming-Deimos/Nanopb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for D-Programming-Deimos/Nanopb](https://reviewgithub.com/rep/D-Programming-Deimos/Nanopb)

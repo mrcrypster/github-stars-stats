@@ -1,12 +1,14 @@
 # nf-core/nanoseq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 85
 
 [Open repository](https://github.com/nf-core/nanoseq)
+
+[Open detailed stats for nf-core/nanoseq](https://reviewgithub.com/rep/nf-core/nanoseq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 82 | 38 | 
 | 2022-09-07 | 82 | 38 | 
 
-
-[Detailed charts & statistics for nf-core/nanoseq](https://reviewgithub.com/rep/nf-core/nanoseq)

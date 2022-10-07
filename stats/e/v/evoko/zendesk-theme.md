@@ -1,12 +1,14 @@
 # evoko/zendesk-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 52
 
 ★ Stars: 23
 
 [Open repository](https://github.com/evoko/zendesk-theme)
+
+[Open detailed stats for evoko/zendesk-theme](https://reviewgithub.com/rep/evoko/zendesk-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 50 | 
 | 2022-09-07 | 23 | 50 | 
 
-
-[Detailed charts & statistics for evoko/zendesk-theme](https://reviewgithub.com/rep/evoko/zendesk-theme)

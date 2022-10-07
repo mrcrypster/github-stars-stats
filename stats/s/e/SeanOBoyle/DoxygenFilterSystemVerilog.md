@@ -1,12 +1,14 @@
 # SeanOBoyle/DoxygenFilterSystemVerilog - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 25
 
 [Open repository](https://github.com/SeanOBoyle/DoxygenFilterSystemVerilog)
+
+[Open detailed stats for SeanOBoyle/DoxygenFilterSystemVerilog](https://reviewgithub.com/rep/SeanOBoyle/DoxygenFilterSystemVerilog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 25 | 8 | 
 | 2022-09-07 | 25 | 8 | 
 
-
-[Detailed charts & statistics for SeanOBoyle/DoxygenFilterSystemVerilog](https://reviewgithub.com/rep/SeanOBoyle/DoxygenFilterSystemVerilog)

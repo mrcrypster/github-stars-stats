@@ -1,12 +1,14 @@
 # LineageOS/android_hardware_qcom_bt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 2
 
 [Open repository](https://github.com/LineageOS/android_hardware_qcom_bt)
+
+[Open detailed stats for LineageOS/android_hardware_qcom_bt](https://reviewgithub.com/rep/LineageOS/android_hardware_qcom_bt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 40 | 
 | 2022-09-07 | 2 | 40 | 
 
-
-[Detailed charts & statistics for LineageOS/android_hardware_qcom_bt](https://reviewgithub.com/rep/LineageOS/android_hardware_qcom_bt)

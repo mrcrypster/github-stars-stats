@@ -1,12 +1,14 @@
 # Guilherme-Silveira/bigdata-k8s - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 48
 
 [Open repository](https://github.com/Guilherme-Silveira/bigdata-k8s)
+
+[Open detailed stats for Guilherme-Silveira/bigdata-k8s](https://reviewgithub.com/rep/Guilherme-Silveira/bigdata-k8s)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 15 | 
 | 2022-09-07 | 48 | 15 | 
 
-
-[Detailed charts & statistics for Guilherme-Silveira/bigdata-k8s](https://reviewgithub.com/rep/Guilherme-Silveira/bigdata-k8s)

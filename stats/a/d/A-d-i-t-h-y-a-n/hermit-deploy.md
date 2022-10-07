@@ -1,12 +1,14 @@
 # A-d-i-t-h-y-a-n/hermit-deploy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/A-d-i-t-h-y-a-n/hermit-deploy)
+
+[Open detailed stats for A-d-i-t-h-y-a-n/hermit-deploy](https://reviewgithub.com/rep/A-d-i-t-h-y-a-n/hermit-deploy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 17 | 
 | 2022-09-08 | - | 17 | 
 
-
-[Detailed charts & statistics for A-d-i-t-h-y-a-n/hermit-deploy](https://reviewgithub.com/rep/A-d-i-t-h-y-a-n/hermit-deploy)

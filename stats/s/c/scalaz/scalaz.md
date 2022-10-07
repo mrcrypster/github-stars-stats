@@ -1,12 +1,14 @@
 # scalaz/scalaz - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 723
 
 ★ Stars: 4584
 
 [Open repository](https://github.com/scalaz/scalaz)
+
+[Open detailed stats for scalaz/scalaz](https://reviewgithub.com/rep/scalaz/scalaz)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 4580 | 723 | 
 | 2022-09-25 | 4580 | 723 | 
 
-
-[Detailed charts & statistics for scalaz/scalaz](https://reviewgithub.com/rep/scalaz/scalaz)

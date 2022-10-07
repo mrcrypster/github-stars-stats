@@ -1,12 +1,14 @@
 # haxiomic/GPU-Fluid-Experiments - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 335
 
 ★ Stars: 2767
 
 [Open repository](https://github.com/haxiomic/GPU-Fluid-Experiments)
+
+[Open detailed stats for haxiomic/GPU-Fluid-Experiments](https://reviewgithub.com/rep/haxiomic/GPU-Fluid-Experiments)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2762 | 334 | 
 | 2022-09-07 | 2762 | 334 | 
 
-
-[Detailed charts & statistics for haxiomic/GPU-Fluid-Experiments](https://reviewgithub.com/rep/haxiomic/GPU-Fluid-Experiments)

@@ -1,12 +1,14 @@
 # antmicro/renode-verilator-integration - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 11
 
 [Open repository](https://github.com/antmicro/renode-verilator-integration)
+
+[Open detailed stats for antmicro/renode-verilator-integration](https://reviewgithub.com/rep/antmicro/renode-verilator-integration)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 11 | 3 | 
 | 2022-10-04 | 11 | 3 | 
 
-
-[Detailed charts & statistics for antmicro/renode-verilator-integration](https://reviewgithub.com/rep/antmicro/renode-verilator-integration)

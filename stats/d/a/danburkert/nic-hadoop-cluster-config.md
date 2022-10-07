@@ -1,12 +1,14 @@
 # danburkert/nic-hadoop-cluster-config - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/danburkert/nic-hadoop-cluster-config)
+
+[Open detailed stats for danburkert/nic-hadoop-cluster-config](https://reviewgithub.com/rep/danburkert/nic-hadoop-cluster-config)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for danburkert/nic-hadoop-cluster-config](https://reviewgithub.com/rep/danburkert/nic-hadoop-cluster-config)

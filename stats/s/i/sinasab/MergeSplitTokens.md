@@ -1,12 +1,14 @@
 # sinasab/MergeSplitTokens - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 42
 
 [Open repository](https://github.com/sinasab/MergeSplitTokens)
+
+[Open detailed stats for sinasab/MergeSplitTokens](https://reviewgithub.com/rep/sinasab/MergeSplitTokens)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 2 | 
 | 2022-09-08 | 37 | 2 | 
 
-
-[Detailed charts & statistics for sinasab/MergeSplitTokens](https://reviewgithub.com/rep/sinasab/MergeSplitTokens)

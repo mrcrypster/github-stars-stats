@@ -1,12 +1,14 @@
 # kodai100/Unity_MultiPassRenderingOnURP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 27
 
 [Open repository](https://github.com/kodai100/Unity_MultiPassRenderingOnURP)
+
+[Open detailed stats for kodai100/Unity_MultiPassRenderingOnURP](https://reviewgithub.com/rep/kodai100/Unity_MultiPassRenderingOnURP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 1 | 
 | 2022-09-07 | 27 | 1 | 
 
-
-[Detailed charts & statistics for kodai100/Unity_MultiPassRenderingOnURP](https://reviewgithub.com/rep/kodai100/Unity_MultiPassRenderingOnURP)

@@ -1,12 +1,14 @@
 # ostis-ai/ostis-standard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 8
 
 [Open repository](https://github.com/ostis-ai/ostis-standard)
+
+[Open detailed stats for ostis-ai/ostis-standard](https://reviewgithub.com/rep/ostis-ai/ostis-standard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 30 | 
 | 2022-09-07 | 8 | 31 | 
 
-
-[Detailed charts & statistics for ostis-ai/ostis-standard](https://reviewgithub.com/rep/ostis-ai/ostis-standard)

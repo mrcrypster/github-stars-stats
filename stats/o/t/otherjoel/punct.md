@@ -1,12 +1,14 @@
 # otherjoel/punct - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 26
 
 [Open repository](https://github.com/otherjoel/punct)
+
+[Open detailed stats for otherjoel/punct](https://reviewgithub.com/rep/otherjoel/punct)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 3 | 
 | 2022-09-07 | 25 | 3 | 
 
-
-[Detailed charts & statistics for otherjoel/punct](https://reviewgithub.com/rep/otherjoel/punct)

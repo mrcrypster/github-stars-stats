@@ -1,12 +1,14 @@
 # MoeOxygen/halo-theme-fantasy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 12
 
 [Open repository](https://github.com/MoeOxygen/halo-theme-fantasy)
+
+[Open detailed stats for MoeOxygen/halo-theme-fantasy](https://reviewgithub.com/rep/MoeOxygen/halo-theme-fantasy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 10 | 1 | 
 | 2022-09-08 | 9 | 1 | 
 
-
-[Detailed charts & statistics for MoeOxygen/halo-theme-fantasy](https://reviewgithub.com/rep/MoeOxygen/halo-theme-fantasy)

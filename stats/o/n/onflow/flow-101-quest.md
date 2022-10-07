@@ -1,12 +1,14 @@
 # onflow/flow-101-quest - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 28
 
 [Open repository](https://github.com/onflow/flow-101-quest)
+
+[Open detailed stats for onflow/flow-101-quest](https://reviewgithub.com/rep/onflow/flow-101-quest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 19 | 
 | 2022-09-08 | 27 | 19 | 
 
-
-[Detailed charts & statistics for onflow/flow-101-quest](https://reviewgithub.com/rep/onflow/flow-101-quest)

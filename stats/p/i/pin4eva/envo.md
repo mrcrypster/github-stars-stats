@@ -1,12 +1,14 @@
 # pin4eva/envo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 0
 
 [Open repository](https://github.com/pin4eva/envo)
+
+[Open detailed stats for pin4eva/envo](https://reviewgithub.com/rep/pin4eva/envo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 38 | 
 | 2022-09-08 | - | 38 | 
 
-
-[Detailed charts & statistics for pin4eva/envo](https://reviewgithub.com/rep/pin4eva/envo)

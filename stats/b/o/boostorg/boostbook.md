@@ -1,12 +1,14 @@
 # boostorg/boostbook - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 8
 
 [Open repository](https://github.com/boostorg/boostbook)
+
+[Open detailed stats for boostorg/boostbook](https://reviewgithub.com/rep/boostorg/boostbook)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 7 | 24 | 
 | 2022-09-08 | 7 | 23 | 
 
-
-[Detailed charts & statistics for boostorg/boostbook](https://reviewgithub.com/rep/boostorg/boostbook)

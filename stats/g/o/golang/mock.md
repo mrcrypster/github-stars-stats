@@ -1,12 +1,14 @@
 # golang/mock - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 563
 
 ★ Stars: 8011
 
 [Open repository](https://github.com/golang/mock)
+
+[Open detailed stats for golang/mock](https://reviewgithub.com/rep/golang/mock)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7907 | 556 | 
 | 2022-09-07 | 7904 | 556 | 
 
-
-[Detailed charts & statistics for golang/mock](https://reviewgithub.com/rep/golang/mock)

@@ -1,12 +1,14 @@
 # fernandocar86/seminario-gramaticas-formales - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 6
 
 [Open repository](https://github.com/fernandocar86/seminario-gramaticas-formales)
+
+[Open detailed stats for fernandocar86/seminario-gramaticas-formales](https://reviewgithub.com/rep/fernandocar86/seminario-gramaticas-formales)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 18 | 
 | 2022-09-08 | 6 | 18 | 
 
-
-[Detailed charts & statistics for fernandocar86/seminario-gramaticas-formales](https://reviewgithub.com/rep/fernandocar86/seminario-gramaticas-formales)

@@ -1,12 +1,14 @@
 # emacsorphanage/evil-anzu - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 42
 
 [Open repository](https://github.com/emacsorphanage/evil-anzu)
+
+[Open detailed stats for emacsorphanage/evil-anzu](https://reviewgithub.com/rep/emacsorphanage/evil-anzu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | 42 | 9 | 
 | 2022-09-26 | 42 | 9 | 
 
-
-[Detailed charts & statistics for emacsorphanage/evil-anzu](https://reviewgithub.com/rep/emacsorphanage/evil-anzu)

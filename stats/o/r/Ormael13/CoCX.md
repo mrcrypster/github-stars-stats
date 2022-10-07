@@ -1,12 +1,14 @@
 # Ormael13/CoCX - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 10
 
 [Open repository](https://github.com/Ormael13/CoCX)
+
+[Open detailed stats for Ormael13/CoCX](https://reviewgithub.com/rep/Ormael13/CoCX)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 13 | 
 | 2022-09-08 | 9 | 13 | 
 
-
-[Detailed charts & statistics for Ormael13/CoCX](https://reviewgithub.com/rep/Ormael13/CoCX)

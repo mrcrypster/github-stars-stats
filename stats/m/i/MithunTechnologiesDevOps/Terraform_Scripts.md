@@ -1,12 +1,14 @@
 # MithunTechnologiesDevOps/Terraform_Scripts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 334
 
 ★ Stars: 3
 
 [Open repository](https://github.com/MithunTechnologiesDevOps/Terraform_Scripts)
+
+[Open detailed stats for MithunTechnologiesDevOps/Terraform_Scripts](https://reviewgithub.com/rep/MithunTechnologiesDevOps/Terraform_Scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 325 | 
 | 2022-09-07 | 3 | 325 | 
 
-
-[Detailed charts & statistics for MithunTechnologiesDevOps/Terraform_Scripts](https://reviewgithub.com/rep/MithunTechnologiesDevOps/Terraform_Scripts)

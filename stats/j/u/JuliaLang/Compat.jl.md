@@ -1,12 +1,14 @@
 # JuliaLang/Compat.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 111
 
 ★ Stars: 117
 
 [Open repository](https://github.com/JuliaLang/Compat.jl)
+
+[Open detailed stats for JuliaLang/Compat.jl](https://reviewgithub.com/rep/JuliaLang/Compat.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 116 | 111 | 
 | 2022-09-07 | 116 | 111 | 
 
-
-[Detailed charts & statistics for JuliaLang/Compat.jl](https://reviewgithub.com/rep/JuliaLang/Compat.jl)

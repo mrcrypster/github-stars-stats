@@ -1,12 +1,14 @@
 # CloudHealth/terraform-cloudhealth-iam - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 24
 
 [Open repository](https://github.com/CloudHealth/terraform-cloudhealth-iam)
+
+[Open detailed stats for CloudHealth/terraform-cloudhealth-iam](https://reviewgithub.com/rep/CloudHealth/terraform-cloudhealth-iam)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 26 | 
 | 2022-09-08 | 24 | 26 | 
 
-
-[Detailed charts & statistics for CloudHealth/terraform-cloudhealth-iam](https://reviewgithub.com/rep/CloudHealth/terraform-cloudhealth-iam)

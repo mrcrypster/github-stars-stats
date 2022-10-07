@@ -1,12 +1,14 @@
 # JuliaLang/LinearAlgebra.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/JuliaLang/LinearAlgebra.jl)
+
+[Open detailed stats for JuliaLang/LinearAlgebra.jl](https://reviewgithub.com/rep/JuliaLang/LinearAlgebra.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 12 | - | 
 | 2022-09-07 | 12 | - | 
 
-
-[Detailed charts & statistics for JuliaLang/LinearAlgebra.jl](https://reviewgithub.com/rep/JuliaLang/LinearAlgebra.jl)

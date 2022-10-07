@@ -1,12 +1,14 @@
 # bmx0r/communicating_vessels - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bmx0r/communicating_vessels)
+
+[Open detailed stats for bmx0r/communicating_vessels](https://reviewgithub.com/rep/bmx0r/communicating_vessels)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | - | - | 
 | 2022-09-18 | - | - | 
 
-
-[Detailed charts & statistics for bmx0r/communicating_vessels](https://reviewgithub.com/rep/bmx0r/communicating_vessels)

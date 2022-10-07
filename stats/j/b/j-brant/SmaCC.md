@@ -1,12 +1,14 @@
 # j-brant/SmaCC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 20
 
 [Open repository](https://github.com/j-brant/SmaCC)
+
+[Open detailed stats for j-brant/SmaCC](https://reviewgithub.com/rep/j-brant/SmaCC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 20 | 11 | 
 | 2022-09-08 | 20 | 11 | 
 
-
-[Detailed charts & statistics for j-brant/SmaCC](https://reviewgithub.com/rep/j-brant/SmaCC)

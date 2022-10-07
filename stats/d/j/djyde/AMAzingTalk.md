@@ -1,12 +1,14 @@
 # djyde/AMAzingTalk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 27
 
 [Open repository](https://github.com/djyde/AMAzingTalk)
+
+[Open detailed stats for djyde/AMAzingTalk](https://reviewgithub.com/rep/djyde/AMAzingTalk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 11 | 
 | 2022-09-07 | 14 | 11 | 
 
-
-[Detailed charts & statistics for djyde/AMAzingTalk](https://reviewgithub.com/rep/djyde/AMAzingTalk)

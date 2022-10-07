@@ -1,12 +1,14 @@
 # tintinweb/smart-contract-sanctuary-avalanche - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 17
 
 [Open repository](https://github.com/tintinweb/smart-contract-sanctuary-avalanche)
+
+[Open detailed stats for tintinweb/smart-contract-sanctuary-avalanche](https://reviewgithub.com/rep/tintinweb/smart-contract-sanctuary-avalanche)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 17 | 5 | 
 | 2022-09-07 | 17 | 5 | 
 
-
-[Detailed charts & statistics for tintinweb/smart-contract-sanctuary-avalanche](https://reviewgithub.com/rep/tintinweb/smart-contract-sanctuary-avalanche)

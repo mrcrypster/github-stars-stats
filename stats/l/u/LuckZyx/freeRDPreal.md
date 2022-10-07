@@ -6,9 +6,9 @@
 
 [Open repository](https://github.com/LuckZyx/freeRDPreal)
 
+[Open detailed stats for LuckZyx/freeRDPreal](https://reviewgithub.com/rep/LuckZyx/freeRDPreal)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 
-
-[Detailed charts & statistics for LuckZyx/freeRDPreal](https://reviewgithub.com/rep/LuckZyx/freeRDPreal)

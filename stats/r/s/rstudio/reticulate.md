@@ -1,12 +1,14 @@
 # rstudio/reticulate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 315
 
 ★ Stars: 1463
 
 [Open repository](https://github.com/rstudio/reticulate)
+
+[Open detailed stats for rstudio/reticulate](https://reviewgithub.com/rep/rstudio/reticulate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1455 | 313 | 
 | 2022-09-07 | 1455 | 313 | 
 
-
-[Detailed charts & statistics for rstudio/reticulate](https://reviewgithub.com/rep/rstudio/reticulate)

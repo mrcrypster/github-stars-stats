@@ -1,12 +1,14 @@
 # VU-Programming/pad-skeleton-c - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 10
 
 [Open repository](https://github.com/VU-Programming/pad-skeleton-c)
+
+[Open detailed stats for VU-Programming/pad-skeleton-c](https://reviewgithub.com/rep/VU-Programming/pad-skeleton-c)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 25 | 
 | 2022-09-07 | 10 | 25 | 
 
-
-[Detailed charts & statistics for VU-Programming/pad-skeleton-c](https://reviewgithub.com/rep/VU-Programming/pad-skeleton-c)

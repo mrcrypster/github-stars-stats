@@ -1,12 +1,14 @@
 # yinwang0/tinyKanren - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 49
 
 [Open repository](https://github.com/yinwang0/tinyKanren)
+
+[Open detailed stats for yinwang0/tinyKanren](https://reviewgithub.com/rep/yinwang0/tinyKanren)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 49 | 21 | 
 | 2022-09-08 | 49 | 21 | 
 
-
-[Detailed charts & statistics for yinwang0/tinyKanren](https://reviewgithub.com/rep/yinwang0/tinyKanren)

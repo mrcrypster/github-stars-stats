@@ -1,12 +1,14 @@
 # PixelExperience/device_custom_sepolicy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 4
 
 [Open repository](https://github.com/PixelExperience/device_custom_sepolicy)
+
+[Open detailed stats for PixelExperience/device_custom_sepolicy](https://reviewgithub.com/rep/PixelExperience/device_custom_sepolicy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 34 | 
 | 2022-09-08 | 4 | 34 | 
 
-
-[Detailed charts & statistics for PixelExperience/device_custom_sepolicy](https://reviewgithub.com/rep/PixelExperience/device_custom_sepolicy)

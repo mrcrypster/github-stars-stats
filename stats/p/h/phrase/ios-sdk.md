@@ -1,12 +1,14 @@
 # phrase/ios-sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 12
 
 [Open repository](https://github.com/phrase/ios-sdk)
+
+[Open detailed stats for phrase/ios-sdk](https://reviewgithub.com/rep/phrase/ios-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 2 | 
 | 2022-09-07 | 12 | 2 | 
 
-
-[Detailed charts & statistics for phrase/ios-sdk](https://reviewgithub.com/rep/phrase/ios-sdk)

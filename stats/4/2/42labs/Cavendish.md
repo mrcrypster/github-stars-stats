@@ -1,12 +1,14 @@
 # 42labs/Cavendish - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/42labs/Cavendish)
+
+[Open detailed stats for 42labs/Cavendish](https://reviewgithub.com/rep/42labs/Cavendish)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 8 | - | 
 | 2022-09-14 | 8 | - | 
 
-
-[Detailed charts & statistics for 42labs/Cavendish](https://reviewgithub.com/rep/42labs/Cavendish)

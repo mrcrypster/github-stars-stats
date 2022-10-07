@@ -1,12 +1,14 @@
 # MechanicalDragon0687/TWLFix-CFW - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 38
 
 [Open repository](https://github.com/MechanicalDragon0687/TWLFix-CFW)
+
+[Open detailed stats for MechanicalDragon0687/TWLFix-CFW](https://reviewgithub.com/rep/MechanicalDragon0687/TWLFix-CFW)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 4 | 
 | 2022-09-08 | 38 | 4 | 
 
-
-[Detailed charts & statistics for MechanicalDragon0687/TWLFix-CFW](https://reviewgithub.com/rep/MechanicalDragon0687/TWLFix-CFW)

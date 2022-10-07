@@ -1,12 +1,14 @@
 # creatorsgarten/creatorsgarten.org - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 12
 
 [Open repository](https://github.com/creatorsgarten/creatorsgarten.org)
+
+[Open detailed stats for creatorsgarten/creatorsgarten.org](https://reviewgithub.com/rep/creatorsgarten/creatorsgarten.org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 11 | 
 | 2022-09-07 | 11 | 11 | 
 
-
-[Detailed charts & statistics for creatorsgarten/creatorsgarten.org](https://reviewgithub.com/rep/creatorsgarten/creatorsgarten.org)

@@ -1,12 +1,14 @@
 # techops-recsys-grad-hiring/joi-grad-shopping-cart-java - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 167
 
 ★ Stars: 75
 
 [Open repository](https://github.com/techops-recsys-grad-hiring/joi-grad-shopping-cart-java)
+
+[Open detailed stats for techops-recsys-grad-hiring/joi-grad-shopping-cart-java](https://reviewgithub.com/rep/techops-recsys-grad-hiring/joi-grad-shopping-cart-java)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 70 | 158 | 
 | 2022-09-08 | 70 | 156 | 
 
-
-[Detailed charts & statistics for techops-recsys-grad-hiring/joi-grad-shopping-cart-java](https://reviewgithub.com/rep/techops-recsys-grad-hiring/joi-grad-shopping-cart-java)

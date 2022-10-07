@@ -1,12 +1,14 @@
 # yglukhov/yasync - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/yglukhov/yasync)
+
+[Open detailed stats for yglukhov/yasync](https://reviewgithub.com/rep/yglukhov/yasync)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | - | 
 | 2022-09-07 | 16 | - | 
 
-
-[Detailed charts & statistics for yglukhov/yasync](https://reviewgithub.com/rep/yglukhov/yasync)

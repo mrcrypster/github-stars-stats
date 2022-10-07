@@ -1,12 +1,14 @@
 # mapsplugin/cordova-plugin-googlemaps-sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 9
 
 [Open repository](https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk)
+
+[Open detailed stats for mapsplugin/cordova-plugin-googlemaps-sdk](https://reviewgithub.com/rep/mapsplugin/cordova-plugin-googlemaps-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 35 | 
 | 2022-09-07 | 9 | 35 | 
 
-
-[Detailed charts & statistics for mapsplugin/cordova-plugin-googlemaps-sdk](https://reviewgithub.com/rep/mapsplugin/cordova-plugin-googlemaps-sdk)

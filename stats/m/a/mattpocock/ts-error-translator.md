@@ -1,12 +1,14 @@
 # mattpocock/ts-error-translator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 65
 
 ★ Stars: 1765
 
 [Open repository](https://github.com/mattpocock/ts-error-translator)
+
+[Open detailed stats for mattpocock/ts-error-translator](https://reviewgithub.com/rep/mattpocock/ts-error-translator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1723 | 57 | 
 | 2022-09-07 | 1723 | 57 | 
 
-
-[Detailed charts & statistics for mattpocock/ts-error-translator](https://reviewgithub.com/rep/mattpocock/ts-error-translator)

@@ -1,12 +1,14 @@
 # codesuki/add-node-modules-path - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 124
 
 [Open repository](https://github.com/codesuki/add-node-modules-path)
+
+[Open detailed stats for codesuki/add-node-modules-path](https://reviewgithub.com/rep/codesuki/add-node-modules-path)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 124 | 13 | 
 | 2022-09-07 | 124 | 13 | 
 
-
-[Detailed charts & statistics for codesuki/add-node-modules-path](https://reviewgithub.com/rep/codesuki/add-node-modules-path)

@@ -1,12 +1,14 @@
 # ioniodi/sitegr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 135
 
 ★ Stars: 4
 
 [Open repository](https://github.com/ioniodi/sitegr)
+
+[Open detailed stats for ioniodi/sitegr](https://reviewgithub.com/rep/ioniodi/sitegr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 133 | 
 | 2022-09-07 | 4 | 133 | 
 
-
-[Detailed charts & statistics for ioniodi/sitegr](https://reviewgithub.com/rep/ioniodi/sitegr)

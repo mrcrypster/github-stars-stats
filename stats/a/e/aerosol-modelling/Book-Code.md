@@ -1,12 +1,14 @@
 # aerosol-modelling/Book-Code - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/aerosol-modelling/Book-Code)
+
+[Open detailed stats for aerosol-modelling/Book-Code](https://reviewgithub.com/rep/aerosol-modelling/Book-Code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-03 | 1 | 1 | 
 | 2022-10-02 | 1 | 1 | 
 
-
-[Detailed charts & statistics for aerosol-modelling/Book-Code](https://reviewgithub.com/rep/aerosol-modelling/Book-Code)

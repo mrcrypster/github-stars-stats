@@ -1,12 +1,14 @@
 # EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 56
 
 [Open repository](https://github.com/EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge)
+
+[Open detailed stats for EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge](https://reviewgithub.com/rep/EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 63 | 
 | 2022-09-07 | 57 | 63 | 
 
-
-[Detailed charts & statistics for EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge](https://reviewgithub.com/rep/EY-Data-Science-Program/2022-Better-Working-World-Data-Challenge)

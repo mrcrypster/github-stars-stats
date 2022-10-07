@@ -1,12 +1,14 @@
 # 28413761/QX - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 47
 
 ★ Stars: 298
 
 [Open repository](https://github.com/28413761/QX)
+
+[Open detailed stats for 28413761/QX](https://reviewgithub.com/rep/28413761/QX)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 273 | 44 | 
 | 2022-09-08 | 265 | 44 | 
 
-
-[Detailed charts & statistics for 28413761/QX](https://reviewgithub.com/rep/28413761/QX)

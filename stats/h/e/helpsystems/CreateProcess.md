@@ -1,12 +1,14 @@
 # helpsystems/CreateProcess - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 109
 
 [Open repository](https://github.com/helpsystems/CreateProcess)
+
+[Open detailed stats for helpsystems/CreateProcess](https://reviewgithub.com/rep/helpsystems/CreateProcess)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 104 | 15 | 
 | 2022-09-07 | 104 | 15 | 
 
-
-[Detailed charts & statistics for helpsystems/CreateProcess](https://reviewgithub.com/rep/helpsystems/CreateProcess)

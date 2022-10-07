@@ -1,12 +1,14 @@
 # Bimbam360/Curve_Terrain - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 46
 
 [Open repository](https://github.com/Bimbam360/Curve_Terrain)
+
+[Open detailed stats for Bimbam360/Curve_Terrain](https://reviewgithub.com/rep/Bimbam360/Curve_Terrain)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,7 +42,4 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 44 | 2 | 
 | 2022-09-09 | 44 | 2 | 
 | 2022-09-08 | 44 | 2 | 
-| 2022-09-07 | 44 | 2 | 
 
-
-[Detailed charts & statistics for Bimbam360/Curve_Terrain](https://reviewgithub.com/rep/Bimbam360/Curve_Terrain)

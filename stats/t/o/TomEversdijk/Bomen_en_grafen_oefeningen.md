@@ -1,12 +1,14 @@
 # TomEversdijk/Bomen_en_grafen_oefeningen - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 138
 
 ★ Stars: 6
 
 [Open repository](https://github.com/TomEversdijk/Bomen_en_grafen_oefeningen)
+
+[Open detailed stats for TomEversdijk/Bomen_en_grafen_oefeningen](https://reviewgithub.com/rep/TomEversdijk/Bomen_en_grafen_oefeningen)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 140 | 
 | 2022-09-07 | 6 | 140 | 
 
-
-[Detailed charts & statistics for TomEversdijk/Bomen_en_grafen_oefeningen](https://reviewgithub.com/rep/TomEversdijk/Bomen_en_grafen_oefeningen)

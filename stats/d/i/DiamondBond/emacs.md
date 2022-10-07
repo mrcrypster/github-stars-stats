@@ -1,12 +1,14 @@
 # DiamondBond/emacs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 28
 
 [Open repository](https://github.com/DiamondBond/emacs)
+
+[Open detailed stats for DiamondBond/emacs](https://reviewgithub.com/rep/DiamondBond/emacs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 3 | 
 | 2022-09-07 | 28 | 3 | 
 
-
-[Detailed charts & statistics for DiamondBond/emacs](https://reviewgithub.com/rep/DiamondBond/emacs)

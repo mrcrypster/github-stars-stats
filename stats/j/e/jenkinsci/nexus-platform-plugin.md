@@ -1,12 +1,14 @@
 # jenkinsci/nexus-platform-plugin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 54
 
 ★ Stars: 23
 
 [Open repository](https://github.com/jenkinsci/nexus-platform-plugin)
+
+[Open detailed stats for jenkinsci/nexus-platform-plugin](https://reviewgithub.com/rep/jenkinsci/nexus-platform-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 23 | 53 | 
 | 2022-09-08 | 23 | 53 | 
 
-
-[Detailed charts & statistics for jenkinsci/nexus-platform-plugin](https://reviewgithub.com/rep/jenkinsci/nexus-platform-plugin)

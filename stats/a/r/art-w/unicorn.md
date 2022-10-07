@@ -1,12 +1,14 @@
 # art-w/unicorn - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 58
 
 [Open repository](https://github.com/art-w/unicorn)
+
+[Open detailed stats for art-w/unicorn](https://reviewgithub.com/rep/art-w/unicorn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 56 | 1 | 
 | 2022-09-07 | 56 | 1 | 
 
-
-[Detailed charts & statistics for art-w/unicorn](https://reviewgithub.com/rep/art-w/unicorn)

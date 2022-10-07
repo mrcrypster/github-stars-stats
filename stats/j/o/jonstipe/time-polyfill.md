@@ -1,12 +1,14 @@
 # jonstipe/time-polyfill - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 18
 
 [Open repository](https://github.com/jonstipe/time-polyfill)
+
+[Open detailed stats for jonstipe/time-polyfill](https://reviewgithub.com/rep/jonstipe/time-polyfill)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 20 | 
 | 2022-09-07 | 18 | 20 | 
 
-
-[Detailed charts & statistics for jonstipe/time-polyfill](https://reviewgithub.com/rep/jonstipe/time-polyfill)

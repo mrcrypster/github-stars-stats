@@ -1,12 +1,14 @@
 # zeuslawyer/chainlink-dynamic-nft-alchemy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 39
 
 ★ Stars: 31
 
 [Open repository](https://github.com/zeuslawyer/chainlink-dynamic-nft-alchemy)
+
+[Open detailed stats for zeuslawyer/chainlink-dynamic-nft-alchemy](https://reviewgithub.com/rep/zeuslawyer/chainlink-dynamic-nft-alchemy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 32 | 
 | 2022-09-08 | 27 | 31 | 
 
-
-[Detailed charts & statistics for zeuslawyer/chainlink-dynamic-nft-alchemy](https://reviewgithub.com/rep/zeuslawyer/chainlink-dynamic-nft-alchemy)

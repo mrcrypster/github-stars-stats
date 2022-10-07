@@ -1,12 +1,14 @@
 # jeffreytse/jekyll-theme-yat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 497
 
 ★ Stars: 544
 
 [Open repository](https://github.com/jeffreytse/jekyll-theme-yat)
+
+[Open detailed stats for jeffreytse/jekyll-theme-yat](https://reviewgithub.com/rep/jeffreytse/jekyll-theme-yat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 519 | 482 | 
 | 2022-09-07 | 518 | 483 | 
 
-
-[Detailed charts & statistics for jeffreytse/jekyll-theme-yat](https://reviewgithub.com/rep/jeffreytse/jekyll-theme-yat)

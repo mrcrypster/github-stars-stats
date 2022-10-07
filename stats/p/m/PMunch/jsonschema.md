@@ -1,12 +1,14 @@
 # PMunch/jsonschema - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 37
 
 [Open repository](https://github.com/PMunch/jsonschema)
+
+[Open detailed stats for PMunch/jsonschema](https://reviewgithub.com/rep/PMunch/jsonschema)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 3 | 
 | 2022-09-07 | 35 | 3 | 
 
-
-[Detailed charts & statistics for PMunch/jsonschema](https://reviewgithub.com/rep/PMunch/jsonschema)

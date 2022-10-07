@@ -1,12 +1,14 @@
 # feenkcom/gtoolkit-pager - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/feenkcom/gtoolkit-pager)
+
+[Open detailed stats for feenkcom/gtoolkit-pager](https://reviewgithub.com/rep/feenkcom/gtoolkit-pager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for feenkcom/gtoolkit-pager](https://reviewgithub.com/rep/feenkcom/gtoolkit-pager)

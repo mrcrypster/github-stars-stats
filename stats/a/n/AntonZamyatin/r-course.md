@@ -1,12 +1,14 @@
 # AntonZamyatin/r-course - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AntonZamyatin/r-course)
+
+[Open detailed stats for AntonZamyatin/r-course](https://reviewgithub.com/rep/AntonZamyatin/r-course)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 12 | 
 | 2022-09-07 | - | 12 | 
 
-
-[Detailed charts & statistics for AntonZamyatin/r-course](https://reviewgithub.com/rep/AntonZamyatin/r-course)

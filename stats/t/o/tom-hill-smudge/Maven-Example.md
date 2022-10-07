@@ -1,12 +1,14 @@
 # tom-hill-smudge/Maven-Example - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/tom-hill-smudge/Maven-Example)
+
+[Open detailed stats for tom-hill-smudge/Maven-Example](https://reviewgithub.com/rep/tom-hill-smudge/Maven-Example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for tom-hill-smudge/Maven-Example](https://reviewgithub.com/rep/tom-hill-smudge/Maven-Example)

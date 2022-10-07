@@ -1,12 +1,14 @@
 # Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE- - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 4
 
 [Open repository](https://github.com/Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE-)
+
+[Open detailed stats for Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE-](https://reviewgithub.com/rep/Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 17 | 
 | 2022-09-08 | 4 | 17 | 
 
-
-[Detailed charts & statistics for Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE-](https://reviewgithub.com/rep/Carlitosmorecom/FNF-VS-YOSHI-SOURCE-CODE-)

@@ -1,12 +1,14 @@
 # qbcore-framework/qb-inventory - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 304
 
 ★ Stars: 33
 
 [Open repository](https://github.com/qbcore-framework/qb-inventory)
+
+[Open detailed stats for qbcore-framework/qb-inventory](https://reviewgithub.com/rep/qbcore-framework/qb-inventory)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 301 | 
 | 2022-09-07 | 31 | 301 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-inventory](https://reviewgithub.com/rep/qbcore-framework/qb-inventory)

@@ -1,12 +1,14 @@
 # purescript/purescript-validation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 45
 
 [Open repository](https://github.com/purescript/purescript-validation)
+
+[Open detailed stats for purescript/purescript-validation](https://reviewgithub.com/rep/purescript/purescript-validation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 45 | 14 | 
 | 2022-09-07 | 45 | 14 | 
 
-
-[Detailed charts & statistics for purescript/purescript-validation](https://reviewgithub.com/rep/purescript/purescript-validation)

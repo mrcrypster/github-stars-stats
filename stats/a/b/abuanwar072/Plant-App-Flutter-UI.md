@@ -1,12 +1,14 @@
 # abuanwar072/Plant-App-Flutter-UI - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 460
 
 ★ Stars: 719
 
 [Open repository](https://github.com/abuanwar072/Plant-App-Flutter-UI)
+
+[Open detailed stats for abuanwar072/Plant-App-Flutter-UI](https://reviewgithub.com/rep/abuanwar072/Plant-App-Flutter-UI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 705 | 451 | 
 | 2022-09-07 | 704 | 451 | 
 
-
-[Detailed charts & statistics for abuanwar072/Plant-App-Flutter-UI](https://reviewgithub.com/rep/abuanwar072/Plant-App-Flutter-UI)

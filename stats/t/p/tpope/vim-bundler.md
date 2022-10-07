@@ -1,12 +1,14 @@
 # tpope/vim-bundler - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 380
 
 [Open repository](https://github.com/tpope/vim-bundler)
+
+[Open detailed stats for tpope/vim-bundler](https://reviewgithub.com/rep/tpope/vim-bundler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 380 | 31 | 
 | 2022-09-08 | 379 | 31 | 
 
-
-[Detailed charts & statistics for tpope/vim-bundler](https://reviewgithub.com/rep/tpope/vim-bundler)

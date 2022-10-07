@@ -1,12 +1,14 @@
 # JuliaMendes/50-Projects-In-50-Days- - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 49
 
 ★ Stars: 225
 
 [Open repository](https://github.com/JuliaMendes/50-Projects-In-50-Days-)
+
+[Open detailed stats for JuliaMendes/50-Projects-In-50-Days-](https://reviewgithub.com/rep/JuliaMendes/50-Projects-In-50-Days-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 223 | 48 | 
 | 2022-09-08 | 223 | 48 | 
 
-
-[Detailed charts & statistics for JuliaMendes/50-Projects-In-50-Days-](https://reviewgithub.com/rep/JuliaMendes/50-Projects-In-50-Days-)

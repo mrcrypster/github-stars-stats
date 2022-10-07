@@ -1,12 +1,14 @@
 # FrankysWeb/Search-ExchangeProxyNotShell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/FrankysWeb/Search-ExchangeProxyNotShell)
+
+[Open detailed stats for FrankysWeb/Search-ExchangeProxyNotShell](https://reviewgithub.com/rep/FrankysWeb/Search-ExchangeProxyNotShell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | - | 1 | 
 | 2022-10-05 | - | 1 | 
 
-
-[Detailed charts & statistics for FrankysWeb/Search-ExchangeProxyNotShell](https://reviewgithub.com/rep/FrankysWeb/Search-ExchangeProxyNotShell)

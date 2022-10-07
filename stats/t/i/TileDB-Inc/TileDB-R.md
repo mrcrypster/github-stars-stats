@@ -1,12 +1,14 @@
 # TileDB-Inc/TileDB-R - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 82
 
 [Open repository](https://github.com/TileDB-Inc/TileDB-R)
+
+[Open detailed stats for TileDB-Inc/TileDB-R](https://reviewgithub.com/rep/TileDB-Inc/TileDB-R)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 81 | 13 | 
 | 2022-09-07 | 81 | 13 | 
 
-
-[Detailed charts & statistics for TileDB-Inc/TileDB-R](https://reviewgithub.com/rep/TileDB-Inc/TileDB-R)

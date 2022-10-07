@@ -1,12 +1,14 @@
 # sentimentxyz/oracle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/sentimentxyz/oracle)
+
+[Open detailed stats for sentimentxyz/oracle](https://reviewgithub.com/rep/sentimentxyz/oracle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
 
-
-[Detailed charts & statistics for sentimentxyz/oracle](https://reviewgithub.com/rep/sentimentxyz/oracle)

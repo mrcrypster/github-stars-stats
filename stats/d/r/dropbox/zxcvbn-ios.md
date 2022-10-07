@@ -1,12 +1,14 @@
 # dropbox/zxcvbn-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 60
 
 ★ Stars: 219
 
 [Open repository](https://github.com/dropbox/zxcvbn-ios)
+
+[Open detailed stats for dropbox/zxcvbn-ios](https://reviewgithub.com/rep/dropbox/zxcvbn-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 218 | 59 | 
 | 2022-09-07 | 218 | 59 | 
 
-
-[Detailed charts & statistics for dropbox/zxcvbn-ios](https://reviewgithub.com/rep/dropbox/zxcvbn-ios)

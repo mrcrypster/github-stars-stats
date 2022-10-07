@@ -1,12 +1,14 @@
 # Ceschref/contact_input_tag - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 22
 
 [Open repository](https://github.com/Ceschref/contact_input_tag)
+
+[Open detailed stats for Ceschref/contact_input_tag](https://reviewgithub.com/rep/Ceschref/contact_input_tag)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 21 | 2 | 
 | 2022-09-21 | 20 | 2 | 
 
-
-[Detailed charts & statistics for Ceschref/contact_input_tag](https://reviewgithub.com/rep/Ceschref/contact_input_tag)

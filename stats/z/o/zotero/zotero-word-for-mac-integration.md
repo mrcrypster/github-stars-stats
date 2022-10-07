@@ -1,12 +1,14 @@
 # zotero/zotero-word-for-mac-integration - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 16
 
 [Open repository](https://github.com/zotero/zotero-word-for-mac-integration)
+
+[Open detailed stats for zotero/zotero-word-for-mac-integration](https://reviewgithub.com/rep/zotero/zotero-word-for-mac-integration)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 16 | 11 | 
 | 2022-09-12 | 16 | 11 | 
 
-
-[Detailed charts & statistics for zotero/zotero-word-for-mac-integration](https://reviewgithub.com/rep/zotero/zotero-word-for-mac-integration)

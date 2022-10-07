@@ -1,12 +1,14 @@
 # nd-phuc/windows-rdp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 49
 
 ★ Stars: 1
 
 [Open repository](https://github.com/nd-phuc/windows-rdp)
+
+[Open detailed stats for nd-phuc/windows-rdp](https://reviewgithub.com/rep/nd-phuc/windows-rdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 49 | 
 | 2022-09-08 | 1 | 49 | 
 
-
-[Detailed charts & statistics for nd-phuc/windows-rdp](https://reviewgithub.com/rep/nd-phuc/windows-rdp)

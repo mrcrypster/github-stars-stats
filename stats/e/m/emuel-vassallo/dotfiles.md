@@ -1,12 +1,14 @@
 # emuel-vassallo/dotfiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 40
 
 [Open repository](https://github.com/emuel-vassallo/dotfiles)
+
+[Open detailed stats for emuel-vassallo/dotfiles](https://reviewgithub.com/rep/emuel-vassallo/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 2 | 
 | 2022-09-07 | 39 | 2 | 
 
-
-[Detailed charts & statistics for emuel-vassallo/dotfiles](https://reviewgithub.com/rep/emuel-vassallo/dotfiles)

@@ -1,12 +1,14 @@
 # fredrikekre/EnumX.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 54
 
 [Open repository](https://github.com/fredrikekre/EnumX.jl)
+
+[Open detailed stats for fredrikekre/EnumX.jl](https://reviewgithub.com/rep/fredrikekre/EnumX.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 55 | - | 
 | 2022-09-08 | 55 | - | 
 
-
-[Detailed charts & statistics for fredrikekre/EnumX.jl](https://reviewgithub.com/rep/fredrikekre/EnumX.jl)

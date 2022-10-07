@@ -1,12 +1,14 @@
 # asjadnaqvi/Stata-schemes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 34
 
 ★ Stars: 100
 
 [Open repository](https://github.com/asjadnaqvi/Stata-schemes)
+
+[Open detailed stats for asjadnaqvi/Stata-schemes](https://reviewgithub.com/rep/asjadnaqvi/Stata-schemes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 95 | 33 | 
 | 2022-09-07 | 95 | 33 | 
 
-
-[Detailed charts & statistics for asjadnaqvi/Stata-schemes](https://reviewgithub.com/rep/asjadnaqvi/Stata-schemes)

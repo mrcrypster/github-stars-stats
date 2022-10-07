@@ -1,12 +1,14 @@
 # Keldos-Li/typora-latex-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 213
 
 ★ Stars: 2962
 
 [Open repository](https://github.com/Keldos-Li/typora-latex-theme)
+
+[Open detailed stats for Keldos-Li/typora-latex-theme](https://reviewgithub.com/rep/Keldos-Li/typora-latex-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2889 | 209 | 
 | 2022-09-08 | 2887 | 210 | 
 
-
-[Detailed charts & statistics for Keldos-Li/typora-latex-theme](https://reviewgithub.com/rep/Keldos-Li/typora-latex-theme)

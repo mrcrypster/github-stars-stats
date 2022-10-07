@@ -1,12 +1,14 @@
 # ak47morozov/Delphi-Libxml2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 9
 
 [Open repository](https://github.com/ak47morozov/Delphi-Libxml2)
+
+[Open detailed stats for ak47morozov/Delphi-Libxml2](https://reviewgithub.com/rep/ak47morozov/Delphi-Libxml2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 4 | 
 | 2022-09-07 | 9 | 4 | 
 
-
-[Detailed charts & statistics for ak47morozov/Delphi-Libxml2](https://reviewgithub.com/rep/ak47morozov/Delphi-Libxml2)

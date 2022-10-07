@@ -1,12 +1,14 @@
 # lehoff/chronos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 31
 
 ★ Stars: 82
 
 [Open repository](https://github.com/lehoff/chronos)
+
+[Open detailed stats for lehoff/chronos](https://reviewgithub.com/rep/lehoff/chronos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 82 | 31 | 
 | 2022-09-07 | 82 | 31 | 
 
-
-[Detailed charts & statistics for lehoff/chronos](https://reviewgithub.com/rep/lehoff/chronos)

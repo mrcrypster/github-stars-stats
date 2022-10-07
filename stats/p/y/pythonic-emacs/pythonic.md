@@ -1,12 +1,14 @@
 # pythonic-emacs/pythonic - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 43
 
 [Open repository](https://github.com/pythonic-emacs/pythonic)
+
+[Open detailed stats for pythonic-emacs/pythonic](https://reviewgithub.com/rep/pythonic-emacs/pythonic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 10 | 
 | 2022-09-07 | 43 | 10 | 
 
-
-[Detailed charts & statistics for pythonic-emacs/pythonic](https://reviewgithub.com/rep/pythonic-emacs/pythonic)

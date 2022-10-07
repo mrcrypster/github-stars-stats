@@ -1,12 +1,14 @@
 # idealista/prometheus_blackbox_exporter_role - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/idealista/prometheus_blackbox_exporter_role)
+
+[Open detailed stats for idealista/prometheus_blackbox_exporter_role](https://reviewgithub.com/rep/idealista/prometheus_blackbox_exporter_role)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 3 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for idealista/prometheus_blackbox_exporter_role](https://reviewgithub.com/rep/idealista/prometheus_blackbox_exporter_role)

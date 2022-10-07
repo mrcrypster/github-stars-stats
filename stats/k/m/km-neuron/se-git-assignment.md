@@ -1,12 +1,14 @@
 # km-neuron/se-git-assignment - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 169
 
 ★ Stars: 3
 
 [Open repository](https://github.com/km-neuron/se-git-assignment)
+
+[Open detailed stats for km-neuron/se-git-assignment](https://reviewgithub.com/rep/km-neuron/se-git-assignment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 2 | 156 | 
 | 2022-09-13 | 2 | 155 | 
 
-
-[Detailed charts & statistics for km-neuron/se-git-assignment](https://reviewgithub.com/rep/km-neuron/se-git-assignment)

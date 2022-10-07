@@ -1,12 +1,14 @@
 # cpeterso/wxmodem - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
 
 [Open repository](https://github.com/cpeterso/wxmodem)
+
+[Open detailed stats for cpeterso/wxmodem](https://reviewgithub.com/rep/cpeterso/wxmodem)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | - | 
 | 2022-09-07 | 4 | - | 
 
-
-[Detailed charts & statistics for cpeterso/wxmodem](https://reviewgithub.com/rep/cpeterso/wxmodem)

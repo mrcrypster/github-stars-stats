@@ -1,12 +1,14 @@
 # vaticle/dependencies - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 8
 
 [Open repository](https://github.com/vaticle/dependencies)
+
+[Open detailed stats for vaticle/dependencies](https://reviewgithub.com/rep/vaticle/dependencies)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 15 | 
 | 2022-09-08 | 8 | 15 | 
 
-
-[Detailed charts & statistics for vaticle/dependencies](https://reviewgithub.com/rep/vaticle/dependencies)

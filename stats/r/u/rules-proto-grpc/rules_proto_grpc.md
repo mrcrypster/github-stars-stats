@@ -1,12 +1,14 @@
 # rules-proto-grpc/rules_proto_grpc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 103
 
 ★ Stars: 176
 
 [Open repository](https://github.com/rules-proto-grpc/rules_proto_grpc)
+
+[Open detailed stats for rules-proto-grpc/rules_proto_grpc](https://reviewgithub.com/rep/rules-proto-grpc/rules_proto_grpc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 171 | 99 | 
 | 2022-09-08 | 171 | 100 | 
 
-
-[Detailed charts & statistics for rules-proto-grpc/rules_proto_grpc](https://reviewgithub.com/rep/rules-proto-grpc/rules_proto_grpc)

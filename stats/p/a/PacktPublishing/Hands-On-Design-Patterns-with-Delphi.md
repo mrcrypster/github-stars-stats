@@ -1,12 +1,14 @@
 # PacktPublishing/Hands-On-Design-Patterns-with-Delphi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 45
 
 [Open repository](https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-Delphi)
+
+[Open detailed stats for PacktPublishing/Hands-On-Design-Patterns-with-Delphi](https://reviewgithub.com/rep/PacktPublishing/Hands-On-Design-Patterns-with-Delphi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 23 | 
 | 2022-09-07 | 45 | 23 | 
 
-
-[Detailed charts & statistics for PacktPublishing/Hands-On-Design-Patterns-with-Delphi](https://reviewgithub.com/rep/PacktPublishing/Hands-On-Design-Patterns-with-Delphi)

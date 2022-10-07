@@ -1,12 +1,14 @@
 # infoxchange/A-Fun-Problem - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/infoxchange/A-Fun-Problem)
+
+[Open detailed stats for infoxchange/A-Fun-Problem](https://reviewgithub.com/rep/infoxchange/A-Fun-Problem)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for infoxchange/A-Fun-Problem](https://reviewgithub.com/rep/infoxchange/A-Fun-Problem)

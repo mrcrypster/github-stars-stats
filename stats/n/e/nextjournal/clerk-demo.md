@@ -1,12 +1,14 @@
 # nextjournal/clerk-demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 111
 
 [Open repository](https://github.com/nextjournal/clerk-demo)
+
+[Open detailed stats for nextjournal/clerk-demo](https://reviewgithub.com/rep/nextjournal/clerk-demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 108 | 13 | 
 | 2022-09-07 | 108 | 13 | 
 
-
-[Detailed charts & statistics for nextjournal/clerk-demo](https://reviewgithub.com/rep/nextjournal/clerk-demo)

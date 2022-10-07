@@ -1,12 +1,14 @@
 # hrbrmstr/weatherkit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 37
 
 [Open repository](https://github.com/hrbrmstr/weatherkit)
+
+[Open detailed stats for hrbrmstr/weatherkit](https://reviewgithub.com/rep/hrbrmstr/weatherkit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 3 | 
 | 2022-09-07 | 36 | 3 | 
 
-
-[Detailed charts & statistics for hrbrmstr/weatherkit](https://reviewgithub.com/rep/hrbrmstr/weatherkit)

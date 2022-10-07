@@ -1,12 +1,14 @@
 # py3-coder/Hacktober_Repo_22 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 210
 
 ★ Stars: 104
 
 [Open repository](https://github.com/py3-coder/Hacktober_Repo_22)
+
+[Open detailed stats for py3-coder/Hacktober_Repo_22](https://reviewgithub.com/rep/py3-coder/Hacktober_Repo_22)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 60 | 115 | 
 | 2022-10-03 | 49 | 95 | 
 
-
-[Detailed charts & statistics for py3-coder/Hacktober_Repo_22](https://reviewgithub.com/rep/py3-coder/Hacktober_Repo_22)

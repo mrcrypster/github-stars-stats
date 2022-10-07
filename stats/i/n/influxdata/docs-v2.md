@@ -1,12 +1,14 @@
 # influxdata/docs-v2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 192
 
 ★ Stars: 48
 
 [Open repository](https://github.com/influxdata/docs-v2)
+
+[Open detailed stats for influxdata/docs-v2](https://reviewgithub.com/rep/influxdata/docs-v2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 46 | 186 | 
 | 2022-09-08 | 46 | 185 | 
 
-
-[Detailed charts & statistics for influxdata/docs-v2](https://reviewgithub.com/rep/influxdata/docs-v2)

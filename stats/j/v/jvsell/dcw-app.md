@@ -1,12 +1,14 @@
 # jvsell/dcw-app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 6
 
 [Open repository](https://github.com/jvsell/dcw-app)
+
+[Open detailed stats for jvsell/dcw-app](https://reviewgithub.com/rep/jvsell/dcw-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 8 | 
 | 2022-09-08 | 5 | 8 | 
 
-
-[Detailed charts & statistics for jvsell/dcw-app](https://reviewgithub.com/rep/jvsell/dcw-app)

@@ -1,12 +1,14 @@
 # tbsp/uxngb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 29
 
 [Open repository](https://github.com/tbsp/uxngb)
+
+[Open detailed stats for tbsp/uxngb](https://reviewgithub.com/rep/tbsp/uxngb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | - | 
 | 2022-09-07 | 27 | - | 
 
-
-[Detailed charts & statistics for tbsp/uxngb](https://reviewgithub.com/rep/tbsp/uxngb)

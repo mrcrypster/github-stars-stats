@@ -1,12 +1,14 @@
 # 7he-Challenger/7the_awesome_loader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 0
 
 [Open repository](https://github.com/7he-Challenger/7the_awesome_loader)
+
+[Open detailed stats for 7he-Challenger/7the_awesome_loader](https://reviewgithub.com/rep/7he-Challenger/7the_awesome_loader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 13 | 
 | 2022-09-07 | - | 13 | 
 
-
-[Detailed charts & statistics for 7he-Challenger/7the_awesome_loader](https://reviewgithub.com/rep/7he-Challenger/7the_awesome_loader)

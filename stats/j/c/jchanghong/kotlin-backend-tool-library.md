@@ -1,12 +1,14 @@
 # jchanghong/kotlin-backend-tool-library - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 44
 
 [Open repository](https://github.com/jchanghong/kotlin-backend-tool-library)
+
+[Open detailed stats for jchanghong/kotlin-backend-tool-library](https://reviewgithub.com/rep/jchanghong/kotlin-backend-tool-library)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 9 | 
 | 2022-09-07 | 44 | 9 | 
 
-
-[Detailed charts & statistics for jchanghong/kotlin-backend-tool-library](https://reviewgithub.com/rep/jchanghong/kotlin-backend-tool-library)

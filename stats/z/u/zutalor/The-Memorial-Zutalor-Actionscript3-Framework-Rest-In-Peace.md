@@ -1,12 +1,14 @@
 # zutalor/The-Memorial-Zutalor-Actionscript3-Framework-Rest-In-Peace - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/zutalor/The-Memorial-Zutalor-Actionscript3-Framework-Rest-In-Peace)
+
+[Open detailed stats for zutalor/The-Memorial-Zutalor-Actionscript3-Framework-Rest-In-Peace](https://reviewgithub.com/rep/zutalor/The-Memorial-Zutalor-Actionscript3-Framework-Rest-In-Peace)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for zutalor/The-Memorial-Zutalor-Actionscript3-Framework-Rest-In-Peace](https://reviewgithub.com/rep/zutalor/The-Memorial-Zutalor-Actionscript3-Framework-Rest-In-Peace)

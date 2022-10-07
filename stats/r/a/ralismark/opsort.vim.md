@@ -1,12 +1,14 @@
 # ralismark/opsort.vim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 28
 
 [Open repository](https://github.com/ralismark/opsort.vim)
+
+[Open detailed stats for ralismark/opsort.vim](https://reviewgithub.com/rep/ralismark/opsort.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 28 | - | 
 | 2022-09-07 | 28 | - | 
 
-
-[Detailed charts & statistics for ralismark/opsort.vim](https://reviewgithub.com/rep/ralismark/opsort.vim)

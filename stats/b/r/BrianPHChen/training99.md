@@ -1,12 +1,14 @@
 # BrianPHChen/training99 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BrianPHChen/training99)
+
+[Open detailed stats for BrianPHChen/training99](https://reviewgithub.com/rep/BrianPHChen/training99)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | - | 5 | 
 | 2022-09-24 | - | 5 | 
 
-
-[Detailed charts & statistics for BrianPHChen/training99](https://reviewgithub.com/rep/BrianPHChen/training99)

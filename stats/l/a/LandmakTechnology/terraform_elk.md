@@ -1,12 +1,14 @@
 # LandmakTechnology/terraform_elk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 93
 
 ★ Stars: 0
 
 [Open repository](https://github.com/LandmakTechnology/terraform_elk)
+
+[Open detailed stats for LandmakTechnology/terraform_elk](https://reviewgithub.com/rep/LandmakTechnology/terraform_elk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 86 | 
 | 2022-09-07 | - | 86 | 
 
-
-[Detailed charts & statistics for LandmakTechnology/terraform_elk](https://reviewgithub.com/rep/LandmakTechnology/terraform_elk)

@@ -1,12 +1,14 @@
 # creativetimofficial/paper-kit-2-angular - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 128
 
 ★ Stars: 148
 
 [Open repository](https://github.com/creativetimofficial/paper-kit-2-angular)
+
+[Open detailed stats for creativetimofficial/paper-kit-2-angular](https://reviewgithub.com/rep/creativetimofficial/paper-kit-2-angular)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 147 | 111 | 
 | 2022-09-07 | 147 | 111 | 
 
-
-[Detailed charts & statistics for creativetimofficial/paper-kit-2-angular](https://reviewgithub.com/rep/creativetimofficial/paper-kit-2-angular)

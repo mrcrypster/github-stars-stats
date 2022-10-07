@@ -1,12 +1,14 @@
 # jfrog/artifactory-user-plugins - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 436
 
 ★ Stars: 350
 
 [Open repository](https://github.com/jfrog/artifactory-user-plugins)
+
+[Open detailed stats for jfrog/artifactory-user-plugins](https://reviewgithub.com/rep/jfrog/artifactory-user-plugins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 348 | 436 | 
 | 2022-09-07 | 348 | 436 | 
 
-
-[Detailed charts & statistics for jfrog/artifactory-user-plugins](https://reviewgithub.com/rep/jfrog/artifactory-user-plugins)

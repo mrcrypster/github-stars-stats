@@ -1,12 +1,14 @@
 # patrickjquinn/project-warpcode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 31
 
 [Open repository](https://github.com/patrickjquinn/project-warpcode)
+
+[Open detailed stats for patrickjquinn/project-warpcode](https://reviewgithub.com/rep/patrickjquinn/project-warpcode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | - | 
 | 2022-09-07 | 31 | - | 
 
-
-[Detailed charts & statistics for patrickjquinn/project-warpcode](https://reviewgithub.com/rep/patrickjquinn/project-warpcode)

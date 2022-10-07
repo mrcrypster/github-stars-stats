@@ -1,12 +1,14 @@
 # babashka/nbb-features - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/babashka/nbb-features)
+
+[Open detailed stats for babashka/nbb-features](https://reviewgithub.com/rep/babashka/nbb-features)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 1 | 
 | 2022-09-07 | 8 | 1 | 
 
-
-[Detailed charts & statistics for babashka/nbb-features](https://reviewgithub.com/rep/babashka/nbb-features)

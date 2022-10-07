@@ -1,12 +1,14 @@
 # Charca/astro-movies - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 69
 
 [Open repository](https://github.com/Charca/astro-movies)
+
+[Open detailed stats for Charca/astro-movies](https://reviewgithub.com/rep/Charca/astro-movies)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 2 | 
 | 2022-09-07 | 15 | 2 | 
 
-
-[Detailed charts & statistics for Charca/astro-movies](https://reviewgithub.com/rep/Charca/astro-movies)

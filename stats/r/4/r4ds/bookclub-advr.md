@@ -1,12 +1,14 @@
 # r4ds/bookclub-advr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/r4ds/bookclub-advr)
+
+[Open detailed stats for r4ds/bookclub-advr](https://reviewgithub.com/rep/r4ds/bookclub-advr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 7 | 
 | 2022-09-08 | - | 7 | 
 
-
-[Detailed charts & statistics for r4ds/bookclub-advr](https://reviewgithub.com/rep/r4ds/bookclub-advr)

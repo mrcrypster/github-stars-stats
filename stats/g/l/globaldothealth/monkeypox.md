@@ -1,12 +1,14 @@
 # globaldothealth/monkeypox - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 173
 
 [Open repository](https://github.com/globaldothealth/monkeypox)
+
+[Open detailed stats for globaldothealth/monkeypox](https://reviewgithub.com/rep/globaldothealth/monkeypox)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 164 | 35 | 
 | 2022-09-08 | 163 | 35 | 
 
-
-[Detailed charts & statistics for globaldothealth/monkeypox](https://reviewgithub.com/rep/globaldothealth/monkeypox)

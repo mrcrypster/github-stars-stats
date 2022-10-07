@@ -1,12 +1,14 @@
 # CloudBytesDotDev/web-apis-with-python - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 291
 
 ★ Stars: 11
 
 [Open repository](https://github.com/CloudBytesDotDev/web-apis-with-python)
+
+[Open detailed stats for CloudBytesDotDev/web-apis-with-python](https://reviewgithub.com/rep/CloudBytesDotDev/web-apis-with-python)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 271 | 
 | 2022-09-07 | 12 | 270 | 
 
-
-[Detailed charts & statistics for CloudBytesDotDev/web-apis-with-python](https://reviewgithub.com/rep/CloudBytesDotDev/web-apis-with-python)

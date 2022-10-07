@@ -1,12 +1,14 @@
 # emqx/erlang-pbkdf2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/emqx/erlang-pbkdf2)
+
+[Open detailed stats for emqx/erlang-pbkdf2](https://reviewgithub.com/rep/emqx/erlang-pbkdf2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 3 | 5 | 
 | 2022-09-17 | 3 | 5 | 
 
-
-[Detailed charts & statistics for emqx/erlang-pbkdf2](https://reviewgithub.com/rep/emqx/erlang-pbkdf2)

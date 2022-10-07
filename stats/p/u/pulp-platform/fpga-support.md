@@ -1,12 +1,14 @@
 # pulp-platform/fpga-support - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 4
 
 [Open repository](https://github.com/pulp-platform/fpga-support)
+
+[Open detailed stats for pulp-platform/fpga-support](https://reviewgithub.com/rep/pulp-platform/fpga-support)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 8 | 
 | 2022-09-08 | 4 | 8 | 
 
-
-[Detailed charts & statistics for pulp-platform/fpga-support](https://reviewgithub.com/rep/pulp-platform/fpga-support)

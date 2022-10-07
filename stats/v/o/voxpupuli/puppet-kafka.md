@@ -1,12 +1,14 @@
 # voxpupuli/puppet-kafka - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 117
 
 ★ Stars: 30
 
 [Open repository](https://github.com/voxpupuli/puppet-kafka)
+
+[Open detailed stats for voxpupuli/puppet-kafka](https://reviewgithub.com/rep/voxpupuli/puppet-kafka)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 117 | 
 | 2022-09-07 | 30 | 117 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-kafka](https://reviewgithub.com/rep/voxpupuli/puppet-kafka)

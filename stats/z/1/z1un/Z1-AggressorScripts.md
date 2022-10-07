@@ -1,12 +1,14 @@
 # z1un/Z1-AggressorScripts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 116
 
 ★ Stars: 500
 
 [Open repository](https://github.com/z1un/Z1-AggressorScripts)
+
+[Open detailed stats for z1un/Z1-AggressorScripts](https://reviewgithub.com/rep/z1un/Z1-AggressorScripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 495 | 116 | 
 | 2022-09-07 | 495 | 116 | 
 
-
-[Detailed charts & statistics for z1un/Z1-AggressorScripts](https://reviewgithub.com/rep/z1un/Z1-AggressorScripts)

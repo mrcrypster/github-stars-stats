@@ -1,12 +1,14 @@
 # wushangbin/MGFN - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 202
 
 [Open repository](https://github.com/wushangbin/MGFN)
+
+[Open detailed stats for wushangbin/MGFN](https://reviewgithub.com/rep/wushangbin/MGFN)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 202 | 21 | 
 | 2022-09-07 | 202 | 21 | 
 
-
-[Detailed charts & statistics for wushangbin/MGFN](https://reviewgithub.com/rep/wushangbin/MGFN)

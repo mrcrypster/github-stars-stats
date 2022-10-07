@@ -1,12 +1,14 @@
 # vulxdev/Vulx - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 26
 
 [Open repository](https://github.com/vulxdev/Vulx)
+
+[Open detailed stats for vulxdev/Vulx](https://reviewgithub.com/rep/vulxdev/Vulx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 24 | 6 | 
 | 2022-10-04 | 20 | 6 | 
 
-
-[Detailed charts & statistics for vulxdev/Vulx](https://reviewgithub.com/rep/vulxdev/Vulx)

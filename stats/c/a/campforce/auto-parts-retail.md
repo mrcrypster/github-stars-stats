@@ -1,12 +1,14 @@
 # campforce/auto-parts-retail - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 3
 
 [Open repository](https://github.com/campforce/auto-parts-retail)
+
+[Open detailed stats for campforce/auto-parts-retail](https://reviewgithub.com/rep/campforce/auto-parts-retail)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 3 | 
 | 2022-09-07 | 3 | 3 | 
 
-
-[Detailed charts & statistics for campforce/auto-parts-retail](https://reviewgithub.com/rep/campforce/auto-parts-retail)

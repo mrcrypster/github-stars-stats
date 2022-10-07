@@ -1,12 +1,14 @@
 # csjunxu/Bovik_NIQE_SPL2013 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 40
 
 [Open repository](https://github.com/csjunxu/Bovik_NIQE_SPL2013)
+
+[Open detailed stats for csjunxu/Bovik_NIQE_SPL2013](https://reviewgithub.com/rep/csjunxu/Bovik_NIQE_SPL2013)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 40 | 9 | 
 | 2022-09-07 | 40 | 9 | 
 
-
-[Detailed charts & statistics for csjunxu/Bovik_NIQE_SPL2013](https://reviewgithub.com/rep/csjunxu/Bovik_NIQE_SPL2013)

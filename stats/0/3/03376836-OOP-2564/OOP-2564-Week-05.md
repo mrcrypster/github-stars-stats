@@ -1,12 +1,14 @@
 # 03376836-OOP-2564/OOP-2564-Week-05 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 0
 
 [Open repository](https://github.com/03376836-OOP-2564/OOP-2564-Week-05)
+
+[Open detailed stats for 03376836-OOP-2564/OOP-2564-Week-05](https://reviewgithub.com/rep/03376836-OOP-2564/OOP-2564-Week-05)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 39 | 
 | 2022-09-07 | - | 39 | 
 
-
-[Detailed charts & statistics for 03376836-OOP-2564/OOP-2564-Week-05](https://reviewgithub.com/rep/03376836-OOP-2564/OOP-2564-Week-05)

@@ -1,12 +1,14 @@
 # BL-MSCH-C220-F22/Exercise-02b-Bullets-and-Asteroids - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 1
 
 [Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-02b-Bullets-and-Asteroids)
+
+[Open detailed stats for BL-MSCH-C220-F22/Exercise-02b-Bullets-and-Asteroids](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-02b-Bullets-and-Asteroids)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | - | 22 | 
 | 2022-09-12 | - | 10 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-F22/Exercise-02b-Bullets-and-Asteroids](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-02b-Bullets-and-Asteroids)

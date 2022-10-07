@@ -1,12 +1,14 @@
 # bambosan/Nori-Shaders-BE - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 57
 
 [Open repository](https://github.com/bambosan/Nori-Shaders-BE)
+
+[Open detailed stats for bambosan/Nori-Shaders-BE](https://reviewgithub.com/rep/bambosan/Nori-Shaders-BE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 56 | 43 | 
 | 2022-09-07 | 56 | 43 | 
 
-
-[Detailed charts & statistics for bambosan/Nori-Shaders-BE](https://reviewgithub.com/rep/bambosan/Nori-Shaders-BE)

@@ -1,12 +1,14 @@
 # kuoruan/openwrt-v2ray - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 433
 
 ★ Stars: 1902
 
 [Open repository](https://github.com/kuoruan/openwrt-v2ray)
+
+[Open detailed stats for kuoruan/openwrt-v2ray](https://reviewgithub.com/rep/kuoruan/openwrt-v2ray)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1888 | 428 | 
 | 2022-09-08 | 1887 | 428 | 
 
-
-[Detailed charts & statistics for kuoruan/openwrt-v2ray](https://reviewgithub.com/rep/kuoruan/openwrt-v2ray)

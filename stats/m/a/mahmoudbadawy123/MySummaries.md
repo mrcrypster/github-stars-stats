@@ -1,12 +1,14 @@
 # mahmoudbadawy123/MySummaries - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 27
 
 [Open repository](https://github.com/mahmoudbadawy123/MySummaries)
+
+[Open detailed stats for mahmoudbadawy123/MySummaries](https://reviewgithub.com/rep/mahmoudbadawy123/MySummaries)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 13 | 
 | 2022-09-08 | 27 | 13 | 
 
-
-[Detailed charts & statistics for mahmoudbadawy123/MySummaries](https://reviewgithub.com/rep/mahmoudbadawy123/MySummaries)

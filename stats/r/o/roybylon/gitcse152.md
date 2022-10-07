@@ -1,12 +1,14 @@
 # roybylon/gitcse152 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/roybylon/gitcse152)
+
+[Open detailed stats for roybylon/gitcse152](https://reviewgithub.com/rep/roybylon/gitcse152)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 11 | 
 | 2022-09-08 | - | 11 | 
 
-
-[Detailed charts & statistics for roybylon/gitcse152](https://reviewgithub.com/rep/roybylon/gitcse152)

@@ -1,12 +1,14 @@
 # ValKmjolnir/Nasal-Interpreter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 24
 
 [Open repository](https://github.com/ValKmjolnir/Nasal-Interpreter)
+
+[Open detailed stats for ValKmjolnir/Nasal-Interpreter](https://reviewgithub.com/rep/ValKmjolnir/Nasal-Interpreter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 2 | 
 | 2022-09-07 | 23 | 2 | 
 
-
-[Detailed charts & statistics for ValKmjolnir/Nasal-Interpreter](https://reviewgithub.com/rep/ValKmjolnir/Nasal-Interpreter)

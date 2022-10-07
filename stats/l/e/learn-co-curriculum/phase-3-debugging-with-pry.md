@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-debugging-with-pry - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1719
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-debugging-with-pry)
+
+[Open detailed stats for learn-co-curriculum/phase-3-debugging-with-pry](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-debugging-with-pry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 1647 | 
 | 2022-09-08 | 1 | 1646 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-debugging-with-pry](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-debugging-with-pry)

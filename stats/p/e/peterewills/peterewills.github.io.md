@@ -1,12 +1,14 @@
 # peterewills/peterewills.github.io - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 10
 
 [Open repository](https://github.com/peterewills/peterewills.github.io)
+
+[Open detailed stats for peterewills/peterewills.github.io](https://reviewgithub.com/rep/peterewills/peterewills.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 21 | 
 | 2022-09-08 | 10 | 22 | 
 
-
-[Detailed charts & statistics for peterewills/peterewills.github.io](https://reviewgithub.com/rep/peterewills/peterewills.github.io)

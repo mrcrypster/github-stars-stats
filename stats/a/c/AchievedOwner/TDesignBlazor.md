@@ -1,12 +1,14 @@
 # AchievedOwner/TDesignBlazor - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 45
 
 [Open repository](https://github.com/AchievedOwner/TDesignBlazor)
+
+[Open detailed stats for AchievedOwner/TDesignBlazor](https://reviewgithub.com/rep/AchievedOwner/TDesignBlazor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-30 | 45 | 4 | 
 | 2022-09-29 | 41 | 4 | 
 
-
-[Detailed charts & statistics for AchievedOwner/TDesignBlazor](https://reviewgithub.com/rep/AchievedOwner/TDesignBlazor)

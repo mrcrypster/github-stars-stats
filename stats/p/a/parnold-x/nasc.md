@@ -1,12 +1,14 @@
 # parnold-x/nasc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 507
 
 [Open repository](https://github.com/parnold-x/nasc)
+
+[Open detailed stats for parnold-x/nasc](https://reviewgithub.com/rep/parnold-x/nasc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 504 | 39 | 
 | 2022-09-21 | 504 | 39 | 
 
-
-[Detailed charts & statistics for parnold-x/nasc](https://reviewgithub.com/rep/parnold-x/nasc)

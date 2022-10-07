@@ -1,12 +1,14 @@
 # ldc-developers/dmd-testsuite - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 3
 
 [Open repository](https://github.com/ldc-developers/dmd-testsuite)
+
+[Open detailed stats for ldc-developers/dmd-testsuite](https://reviewgithub.com/rep/ldc-developers/dmd-testsuite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 18 | 
 | 2022-09-07 | 3 | 18 | 
 
-
-[Detailed charts & statistics for ldc-developers/dmd-testsuite](https://reviewgithub.com/rep/ldc-developers/dmd-testsuite)

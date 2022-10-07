@@ -1,12 +1,14 @@
 # markusn/coveralls-erl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 41
 
 [Open repository](https://github.com/markusn/coveralls-erl)
+
+[Open detailed stats for markusn/coveralls-erl](https://reviewgithub.com/rep/markusn/coveralls-erl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 32 | 
 | 2022-09-08 | 41 | 32 | 
 
-
-[Detailed charts & statistics for markusn/coveralls-erl](https://reviewgithub.com/rep/markusn/coveralls-erl)

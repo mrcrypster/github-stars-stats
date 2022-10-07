@@ -1,12 +1,14 @@
 # skanehira/denops-twihi.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 38
 
 [Open repository](https://github.com/skanehira/denops-twihi.vim)
+
+[Open detailed stats for skanehira/denops-twihi.vim](https://reviewgithub.com/rep/skanehira/denops-twihi.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 5 | 
 | 2022-09-07 | 38 | 5 | 
 
-
-[Detailed charts & statistics for skanehira/denops-twihi.vim](https://reviewgithub.com/rep/skanehira/denops-twihi.vim)

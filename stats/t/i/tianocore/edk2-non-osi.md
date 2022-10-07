@@ -1,12 +1,14 @@
 # tianocore/edk2-non-osi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 43
 
 [Open repository](https://github.com/tianocore/edk2-non-osi)
+
+[Open detailed stats for tianocore/edk2-non-osi](https://reviewgithub.com/rep/tianocore/edk2-non-osi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 59 | 
 | 2022-09-07 | 43 | 59 | 
 
-
-[Detailed charts & statistics for tianocore/edk2-non-osi](https://reviewgithub.com/rep/tianocore/edk2-non-osi)

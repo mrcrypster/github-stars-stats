@@ -1,12 +1,14 @@
 # Nasinet/live-web - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 139
 
 [Open repository](https://github.com/Nasinet/live-web)
+
+[Open detailed stats for Nasinet/live-web](https://reviewgithub.com/rep/Nasinet/live-web)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 139 | 41 | 
 | 2022-09-07 | 139 | 41 | 
 
-
-[Detailed charts & statistics for Nasinet/live-web](https://reviewgithub.com/rep/Nasinet/live-web)

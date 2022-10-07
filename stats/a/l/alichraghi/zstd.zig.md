@@ -1,12 +1,14 @@
 # alichraghi/zstd.zig - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/alichraghi/zstd.zig)
+
+[Open detailed stats for alichraghi/zstd.zig](https://reviewgithub.com/rep/alichraghi/zstd.zig)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | - | 
 | 2022-09-07 | 16 | - | 
 
-
-[Detailed charts & statistics for alichraghi/zstd.zig](https://reviewgithub.com/rep/alichraghi/zstd.zig)

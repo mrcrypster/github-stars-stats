@@ -1,12 +1,14 @@
 # binary-com/perl-App-Config-Chronicle - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-App-Config-Chronicle)
+
+[Open detailed stats for binary-com/perl-App-Config-Chronicle](https://reviewgithub.com/rep/binary-com/perl-App-Config-Chronicle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 13 | 
 | 2022-09-07 | - | 13 | 
 
-
-[Detailed charts & statistics for binary-com/perl-App-Config-Chronicle](https://reviewgithub.com/rep/binary-com/perl-App-Config-Chronicle)

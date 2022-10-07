@@ -1,12 +1,14 @@
 # adrianhajdin/project_video_chat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 242
 
 ★ Stars: 558
 
 [Open repository](https://github.com/adrianhajdin/project_video_chat)
+
+[Open detailed stats for adrianhajdin/project_video_chat](https://reviewgithub.com/rep/adrianhajdin/project_video_chat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 548 | 235 | 
 | 2022-09-07 | 547 | 234 | 
 
-
-[Detailed charts & statistics for adrianhajdin/project_video_chat](https://reviewgithub.com/rep/adrianhajdin/project_video_chat)

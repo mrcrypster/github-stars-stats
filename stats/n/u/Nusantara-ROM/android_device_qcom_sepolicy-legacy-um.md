@@ -1,12 +1,14 @@
 # Nusantara-ROM/android_device_qcom_sepolicy-legacy-um - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um)
+
+[Open detailed stats for Nusantara-ROM/android_device_qcom_sepolicy-legacy-um](https://reviewgithub.com/rep/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for Nusantara-ROM/android_device_qcom_sepolicy-legacy-um](https://reviewgithub.com/rep/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um)

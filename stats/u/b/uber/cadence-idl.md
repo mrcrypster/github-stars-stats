@@ -1,12 +1,14 @@
 # uber/cadence-idl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 7
 
 [Open repository](https://github.com/uber/cadence-idl)
+
+[Open detailed stats for uber/cadence-idl](https://reviewgithub.com/rep/uber/cadence-idl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 17 | 
 | 2022-09-08 | 6 | 17 | 
 
-
-[Detailed charts & statistics for uber/cadence-idl](https://reviewgithub.com/rep/uber/cadence-idl)

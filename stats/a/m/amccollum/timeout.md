@@ -1,12 +1,14 @@
 # amccollum/timeout - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/amccollum/timeout)
+
+[Open detailed stats for amccollum/timeout](https://reviewgithub.com/rep/amccollum/timeout)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 5 | - | 
 
-
-[Detailed charts & statistics for amccollum/timeout](https://reviewgithub.com/rep/amccollum/timeout)

@@ -1,12 +1,14 @@
 # lighthouse-labs/hello-react - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 66
 
 ★ Stars: 3
 
 [Open repository](https://github.com/lighthouse-labs/hello-react)
+
+[Open detailed stats for lighthouse-labs/hello-react](https://reviewgithub.com/rep/lighthouse-labs/hello-react)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 64 | 
 | 2022-09-08 | 2 | 63 | 
 
-
-[Detailed charts & statistics for lighthouse-labs/hello-react](https://reviewgithub.com/rep/lighthouse-labs/hello-react)

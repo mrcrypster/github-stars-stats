@@ -1,12 +1,14 @@
 # TheKingOfDuck/geacon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 53
 
 [Open repository](https://github.com/TheKingOfDuck/geacon)
+
+[Open detailed stats for TheKingOfDuck/geacon](https://reviewgithub.com/rep/TheKingOfDuck/geacon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 52 | 6 | 
 | 2022-09-07 | 52 | 6 | 
 
-
-[Detailed charts & statistics for TheKingOfDuck/geacon](https://reviewgithub.com/rep/TheKingOfDuck/geacon)

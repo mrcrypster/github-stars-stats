@@ -1,12 +1,14 @@
 # RedHatOfficial/RedHatOfficial.github.io - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 206
 
 ★ Stars: 460
 
 [Open repository](https://github.com/RedHatOfficial/RedHatOfficial.github.io)
+
+[Open detailed stats for RedHatOfficial/RedHatOfficial.github.io](https://reviewgithub.com/rep/RedHatOfficial/RedHatOfficial.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 450 | 200 | 
 | 2022-09-16 | 450 | 200 | 
 
-
-[Detailed charts & statistics for RedHatOfficial/RedHatOfficial.github.io](https://reviewgithub.com/rep/RedHatOfficial/RedHatOfficial.github.io)

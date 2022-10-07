@@ -1,12 +1,14 @@
 # DerpFest-12/device_derp_sepolicy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DerpFest-12/device_derp_sepolicy)
+
+[Open detailed stats for DerpFest-12/device_derp_sepolicy](https://reviewgithub.com/rep/DerpFest-12/device_derp_sepolicy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for DerpFest-12/device_derp_sepolicy](https://reviewgithub.com/rep/DerpFest-12/device_derp_sepolicy)

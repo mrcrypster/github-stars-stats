@@ -1,12 +1,14 @@
 # jobspacecreative/desafio-front-end - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 1
 
 [Open repository](https://github.com/jobspacecreative/desafio-front-end)
+
+[Open detailed stats for jobspacecreative/desafio-front-end](https://reviewgithub.com/rep/jobspacecreative/desafio-front-end)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 11 | 
 | 2022-09-08 | 1 | 11 | 
 
-
-[Detailed charts & statistics for jobspacecreative/desafio-front-end](https://reviewgithub.com/rep/jobspacecreative/desafio-front-end)

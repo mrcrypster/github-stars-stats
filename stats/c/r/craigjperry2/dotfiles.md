@@ -1,12 +1,14 @@
 # craigjperry2/dotfiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/craigjperry2/dotfiles)
+
+[Open detailed stats for craigjperry2/dotfiles](https://reviewgithub.com/rep/craigjperry2/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | - | 
 | 2022-09-07 | 12 | - | 
 
-
-[Detailed charts & statistics for craigjperry2/dotfiles](https://reviewgithub.com/rep/craigjperry2/dotfiles)

@@ -1,12 +1,14 @@
 # Anebelengyb/Nx2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 54
 
 [Open repository](https://github.com/Anebelengyb/Nx2)
+
+[Open detailed stats for Anebelengyb/Nx2](https://reviewgithub.com/rep/Anebelengyb/Nx2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 54 | 23 | 
 | 2022-09-07 | 54 | 23 | 
 
-
-[Detailed charts & statistics for Anebelengyb/Nx2](https://reviewgithub.com/rep/Anebelengyb/Nx2)

@@ -1,12 +1,14 @@
 # doomemacs/themes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 337
 
 ★ Stars: 1880
 
 [Open repository](https://github.com/doomemacs/themes)
+
+[Open detailed stats for doomemacs/themes](https://reviewgithub.com/rep/doomemacs/themes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1868 | 336 | 
 | 2022-09-08 | 1868 | 336 | 
 
-
-[Detailed charts & statistics for doomemacs/themes](https://reviewgithub.com/rep/doomemacs/themes)

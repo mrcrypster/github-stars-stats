@@ -1,12 +1,14 @@
 # mikepfeiffer/node-express-azure - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1449
 
 ★ Stars: 32
 
 [Open repository](https://github.com/mikepfeiffer/node-express-azure)
+
+[Open detailed stats for mikepfeiffer/node-express-azure](https://reviewgithub.com/rep/mikepfeiffer/node-express-azure)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 32 | 1445 | 
 | 2022-09-07 | 32 | 1444 | 
 
-
-[Detailed charts & statistics for mikepfeiffer/node-express-azure](https://reviewgithub.com/rep/mikepfeiffer/node-express-azure)

@@ -1,12 +1,14 @@
 # kosukeimai/qss - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 191
 
 ★ Stars: 175
 
 [Open repository](https://github.com/kosukeimai/qss)
+
+[Open detailed stats for kosukeimai/qss](https://reviewgithub.com/rep/kosukeimai/qss)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 174 | 185 | 
 | 2022-09-07 | 173 | 185 | 
 
-
-[Detailed charts & statistics for kosukeimai/qss](https://reviewgithub.com/rep/kosukeimai/qss)

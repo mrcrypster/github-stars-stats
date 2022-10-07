@@ -1,12 +1,14 @@
 # naumen-student/naumen.scala.course.2022.autumn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 2
 
 [Open repository](https://github.com/naumen-student/naumen.scala.course.2022.autumn)
+
+[Open detailed stats for naumen-student/naumen.scala.course.2022.autumn](https://reviewgithub.com/rep/naumen-student/naumen.scala.course.2022.autumn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 2 | 9 | 
 | 2022-09-30 | 2 | 9 | 
 
-
-[Detailed charts & statistics for naumen-student/naumen.scala.course.2022.autumn](https://reviewgithub.com/rep/naumen-student/naumen.scala.course.2022.autumn)

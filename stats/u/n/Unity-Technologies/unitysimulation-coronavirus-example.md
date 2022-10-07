@@ -1,12 +1,14 @@
 # Unity-Technologies/unitysimulation-coronavirus-example - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 78
 
 [Open repository](https://github.com/Unity-Technologies/unitysimulation-coronavirus-example)
+
+[Open detailed stats for Unity-Technologies/unitysimulation-coronavirus-example](https://reviewgithub.com/rep/Unity-Technologies/unitysimulation-coronavirus-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 78 | 24 | 
 | 2022-09-07 | 78 | 25 | 
 
-
-[Detailed charts & statistics for Unity-Technologies/unitysimulation-coronavirus-example](https://reviewgithub.com/rep/Unity-Technologies/unitysimulation-coronavirus-example)

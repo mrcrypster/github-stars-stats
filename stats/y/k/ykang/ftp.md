@@ -1,12 +1,14 @@
 # ykang/ftp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 3
 
 [Open repository](https://github.com/ykang/ftp)
+
+[Open detailed stats for ykang/ftp](https://reviewgithub.com/rep/ykang/ftp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for ykang/ftp](https://reviewgithub.com/rep/ykang/ftp)

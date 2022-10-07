@@ -1,12 +1,14 @@
 # Kalson/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 34
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Kalson/holbertonschool-low_level_programming)
+
+[Open detailed stats for Kalson/holbertonschool-low_level_programming](https://reviewgithub.com/rep/Kalson/holbertonschool-low_level_programming)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 21 | 
 | 2022-09-08 | 1 | 21 | 
 
-
-[Detailed charts & statistics for Kalson/holbertonschool-low_level_programming](https://reviewgithub.com/rep/Kalson/holbertonschool-low_level_programming)

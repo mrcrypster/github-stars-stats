@@ -1,12 +1,14 @@
 # LexirIO/lexir-io-challenge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 52
 
 ★ Stars: 2
 
 [Open repository](https://github.com/LexirIO/lexir-io-challenge)
+
+[Open detailed stats for LexirIO/lexir-io-challenge](https://reviewgithub.com/rep/LexirIO/lexir-io-challenge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 57 | 
 | 2022-09-08 | 1 | 58 | 
 
-
-[Detailed charts & statistics for LexirIO/lexir-io-challenge](https://reviewgithub.com/rep/LexirIO/lexir-io-challenge)

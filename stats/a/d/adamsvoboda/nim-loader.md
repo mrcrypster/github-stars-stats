@@ -1,12 +1,14 @@
 # adamsvoboda/nim-loader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 154
 
 [Open repository](https://github.com/adamsvoboda/nim-loader)
+
+[Open detailed stats for adamsvoboda/nim-loader](https://reviewgithub.com/rep/adamsvoboda/nim-loader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 148 | 23 | 
 | 2022-09-07 | 148 | 23 | 
 
-
-[Detailed charts & statistics for adamsvoboda/nim-loader](https://reviewgithub.com/rep/adamsvoboda/nim-loader)

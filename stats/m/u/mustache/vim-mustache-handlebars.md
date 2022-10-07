@@ -1,12 +1,14 @@
 # mustache/vim-mustache-handlebars - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 53
 
 ★ Stars: 430
 
 [Open repository](https://github.com/mustache/vim-mustache-handlebars)
+
+[Open detailed stats for mustache/vim-mustache-handlebars](https://reviewgithub.com/rep/mustache/vim-mustache-handlebars)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 430 | 53 | 
 | 2022-09-07 | 430 | 53 | 
 
-
-[Detailed charts & statistics for mustache/vim-mustache-handlebars](https://reviewgithub.com/rep/mustache/vim-mustache-handlebars)

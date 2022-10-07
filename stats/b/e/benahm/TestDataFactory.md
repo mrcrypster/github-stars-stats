@@ -1,12 +1,14 @@
 # benahm/TestDataFactory - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 75
 
 ★ Stars: 165
 
 [Open repository](https://github.com/benahm/TestDataFactory)
+
+[Open detailed stats for benahm/TestDataFactory](https://reviewgithub.com/rep/benahm/TestDataFactory)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 164 | 75 | 
 | 2022-09-14 | 164 | 75 | 
 
-
-[Detailed charts & statistics for benahm/TestDataFactory](https://reviewgithub.com/rep/benahm/TestDataFactory)

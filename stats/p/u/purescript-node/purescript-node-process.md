@@ -1,12 +1,14 @@
 # purescript-node/purescript-node-process - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 14
 
 [Open repository](https://github.com/purescript-node/purescript-node-process)
+
+[Open detailed stats for purescript-node/purescript-node-process](https://reviewgithub.com/rep/purescript-node/purescript-node-process)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 20 | 
 | 2022-09-07 | 14 | 20 | 
 
-
-[Detailed charts & statistics for purescript-node/purescript-node-process](https://reviewgithub.com/rep/purescript-node/purescript-node-process)

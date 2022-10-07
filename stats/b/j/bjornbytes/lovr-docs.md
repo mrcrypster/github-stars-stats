@@ -1,12 +1,14 @@
 # bjornbytes/lovr-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 33
 
 [Open repository](https://github.com/bjornbytes/lovr-docs)
+
+[Open detailed stats for bjornbytes/lovr-docs](https://reviewgithub.com/rep/bjornbytes/lovr-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 34 | 23 | 
 | 2022-09-08 | 34 | 23 | 
 
-
-[Detailed charts & statistics for bjornbytes/lovr-docs](https://reviewgithub.com/rep/bjornbytes/lovr-docs)

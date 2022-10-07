@@ -1,12 +1,14 @@
 # ditto-lab/ditto - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 57
 
 [Open repository](https://github.com/ditto-lab/ditto)
+
+[Open detailed stats for ditto-lab/ditto](https://reviewgithub.com/rep/ditto-lab/ditto)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 57 | 3 | 
 | 2022-09-08 | 57 | 3 | 
 
-
-[Detailed charts & statistics for ditto-lab/ditto](https://reviewgithub.com/rep/ditto-lab/ditto)

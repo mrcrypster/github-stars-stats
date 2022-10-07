@@ -1,12 +1,14 @@
 # dgutov/diff-hl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 701
 
 [Open repository](https://github.com/dgutov/diff-hl)
+
+[Open detailed stats for dgutov/diff-hl](https://reviewgithub.com/rep/dgutov/diff-hl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 699 | 41 | 
 | 2022-09-07 | 699 | 41 | 
 
-
-[Detailed charts & statistics for dgutov/diff-hl](https://reviewgithub.com/rep/dgutov/diff-hl)

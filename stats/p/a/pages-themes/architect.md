@@ -1,12 +1,14 @@
 # pages-themes/architect - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 608
 
 ★ Stars: 234
 
 [Open repository](https://github.com/pages-themes/architect)
+
+[Open detailed stats for pages-themes/architect](https://reviewgithub.com/rep/pages-themes/architect)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 233 | 602 | 
 | 2022-09-08 | 232 | 601 | 
 
-
-[Detailed charts & statistics for pages-themes/architect](https://reviewgithub.com/rep/pages-themes/architect)

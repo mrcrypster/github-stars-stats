@@ -1,12 +1,14 @@
 # BL-MSCH-C220-S22/Exercise-05d-Networked-Game - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BL-MSCH-C220-S22/Exercise-05d-Networked-Game)
+
+[Open detailed stats for BL-MSCH-C220-S22/Exercise-05d-Networked-Game](https://reviewgithub.com/rep/BL-MSCH-C220-S22/Exercise-05d-Networked-Game)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 43 | 
 | 2022-09-08 | - | 43 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-S22/Exercise-05d-Networked-Game](https://reviewgithub.com/rep/BL-MSCH-C220-S22/Exercise-05d-Networked-Game)

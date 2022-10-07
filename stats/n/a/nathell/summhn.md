@@ -1,12 +1,14 @@
 # nathell/summhn - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/nathell/summhn)
+
+[Open detailed stats for nathell/summhn](https://reviewgithub.com/rep/nathell/summhn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
 
-
-[Detailed charts & statistics for nathell/summhn](https://reviewgithub.com/rep/nathell/summhn)

@@ -1,12 +1,14 @@
 # phzietsman/aws-slack-clickoops-watcher - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 85
 
 [Open repository](https://github.com/phzietsman/aws-slack-clickoops-watcher)
+
+[Open detailed stats for phzietsman/aws-slack-clickoops-watcher](https://reviewgithub.com/rep/phzietsman/aws-slack-clickoops-watcher)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 85 | 6 | 
 | 2022-09-08 | 85 | 6 | 
 
-
-[Detailed charts & statistics for phzietsman/aws-slack-clickoops-watcher](https://reviewgithub.com/rep/phzietsman/aws-slack-clickoops-watcher)

@@ -1,12 +1,14 @@
 # codigofacilito/curso_base_de_datos - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 85
 
 ★ Stars: 77
 
 [Open repository](https://github.com/codigofacilito/curso_base_de_datos)
+
+[Open detailed stats for codigofacilito/curso_base_de_datos](https://reviewgithub.com/rep/codigofacilito/curso_base_de_datos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 77 | 86 | 
 | 2022-09-07 | 77 | 86 | 
 
-
-[Detailed charts & statistics for codigofacilito/curso_base_de_datos](https://reviewgithub.com/rep/codigofacilito/curso_base_de_datos)

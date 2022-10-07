@@ -1,12 +1,14 @@
 # EL1P2/tp-template-integration - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 44
 
 ★ Stars: 0
 
 [Open repository](https://github.com/EL1P2/tp-template-integration)
+
+[Open detailed stats for EL1P2/tp-template-integration](https://reviewgithub.com/rep/EL1P2/tp-template-integration)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 44 | 
 | 2022-09-08 | - | 44 | 
 
-
-[Detailed charts & statistics for EL1P2/tp-template-integration](https://reviewgithub.com/rep/EL1P2/tp-template-integration)

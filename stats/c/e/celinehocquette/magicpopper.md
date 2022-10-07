@@ -1,12 +1,14 @@
 # celinehocquette/magicpopper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 11
 
 [Open repository](https://github.com/celinehocquette/magicpopper)
+
+[Open detailed stats for celinehocquette/magicpopper](https://reviewgithub.com/rep/celinehocquette/magicpopper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 1 | 
 | 2022-09-07 | 10 | 1 | 
 
-
-[Detailed charts & statistics for celinehocquette/magicpopper](https://reviewgithub.com/rep/celinehocquette/magicpopper)

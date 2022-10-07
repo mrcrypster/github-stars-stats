@@ -1,12 +1,14 @@
 # sefyudem/portfolio-website - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 119
 
 ★ Stars: 118
 
 [Open repository](https://github.com/sefyudem/portfolio-website)
+
+[Open detailed stats for sefyudem/portfolio-website](https://reviewgithub.com/rep/sefyudem/portfolio-website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 115 | 112 | 
 | 2022-09-07 | 114 | 112 | 
 
-
-[Detailed charts & statistics for sefyudem/portfolio-website](https://reviewgithub.com/rep/sefyudem/portfolio-website)

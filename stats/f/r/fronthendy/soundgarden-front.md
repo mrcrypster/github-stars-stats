@@ -1,12 +1,14 @@
 # fronthendy/soundgarden-front - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 59
 
 ★ Stars: 0
 
 [Open repository](https://github.com/fronthendy/soundgarden-front)
+
+[Open detailed stats for fronthendy/soundgarden-front](https://reviewgithub.com/rep/fronthendy/soundgarden-front)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 55 | 
 | 2022-09-07 | - | 55 | 
 
-
-[Detailed charts & statistics for fronthendy/soundgarden-front](https://reviewgithub.com/rep/fronthendy/soundgarden-front)

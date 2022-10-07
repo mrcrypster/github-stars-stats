@@ -1,12 +1,14 @@
 # Cal-Poly-Advanced-R/meangirls - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Cal-Poly-Advanced-R/meangirls)
+
+[Open detailed stats for Cal-Poly-Advanced-R/meangirls](https://reviewgithub.com/rep/Cal-Poly-Advanced-R/meangirls)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 28 | 
 | 2022-09-07 | 2 | 28 | 
 
-
-[Detailed charts & statistics for Cal-Poly-Advanced-R/meangirls](https://reviewgithub.com/rep/Cal-Poly-Advanced-R/meangirls)

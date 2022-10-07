@@ -1,12 +1,14 @@
 # sjtucc/ccmall-uniapp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 127
 
 [Open repository](https://github.com/sjtucc/ccmall-uniapp)
+
+[Open detailed stats for sjtucc/ccmall-uniapp](https://reviewgithub.com/rep/sjtucc/ccmall-uniapp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 127 | 27 | 
 | 2022-09-07 | 127 | 27 | 
 
-
-[Detailed charts & statistics for sjtucc/ccmall-uniapp](https://reviewgithub.com/rep/sjtucc/ccmall-uniapp)

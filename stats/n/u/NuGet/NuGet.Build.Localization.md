@@ -1,12 +1,14 @@
 # NuGet/NuGet.Build.Localization - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 5
 
 [Open repository](https://github.com/NuGet/NuGet.Build.Localization)
+
+[Open detailed stats for NuGet/NuGet.Build.Localization](https://reviewgithub.com/rep/NuGet/NuGet.Build.Localization)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 10 | 
 | 2022-09-08 | 5 | 10 | 
 
-
-[Detailed charts & statistics for NuGet/NuGet.Build.Localization](https://reviewgithub.com/rep/NuGet/NuGet.Build.Localization)

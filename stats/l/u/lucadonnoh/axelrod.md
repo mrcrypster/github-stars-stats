@@ -1,12 +1,14 @@
 # lucadonnoh/axelrod - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 27
 
 [Open repository](https://github.com/lucadonnoh/axelrod)
+
+[Open detailed stats for lucadonnoh/axelrod](https://reviewgithub.com/rep/lucadonnoh/axelrod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | - | 
 | 2022-09-07 | 27 | - | 
 
-
-[Detailed charts & statistics for lucadonnoh/axelrod](https://reviewgithub.com/rep/lucadonnoh/axelrod)

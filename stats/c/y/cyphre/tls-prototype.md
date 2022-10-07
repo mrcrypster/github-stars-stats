@@ -1,12 +1,14 @@
 # cyphre/tls-prototype - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 5
 
 [Open repository](https://github.com/cyphre/tls-prototype)
+
+[Open detailed stats for cyphre/tls-prototype](https://reviewgithub.com/rep/cyphre/tls-prototype)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 3 | 
 | 2022-09-08 | 5 | 3 | 
 
-
-[Detailed charts & statistics for cyphre/tls-prototype](https://reviewgithub.com/rep/cyphre/tls-prototype)

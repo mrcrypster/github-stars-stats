@@ -1,12 +1,14 @@
 # chris-taylor/RugbyUnion - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/chris-taylor/RugbyUnion)
+
+[Open detailed stats for chris-taylor/RugbyUnion](https://reviewgithub.com/rep/chris-taylor/RugbyUnion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-24 | 1 | 1 | 
 | 2022-09-23 | 1 | 1 | 
 
-
-[Detailed charts & statistics for chris-taylor/RugbyUnion](https://reviewgithub.com/rep/chris-taylor/RugbyUnion)

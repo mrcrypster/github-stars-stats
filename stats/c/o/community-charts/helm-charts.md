@@ -1,12 +1,14 @@
 # community-charts/helm-charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 7
 
 [Open repository](https://github.com/community-charts/helm-charts)
+
+[Open detailed stats for community-charts/helm-charts](https://reviewgithub.com/rep/community-charts/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 6 | 
 | 2022-09-07 | 6 | 6 | 
 
-
-[Detailed charts & statistics for community-charts/helm-charts](https://reviewgithub.com/rep/community-charts/helm-charts)

@@ -1,12 +1,14 @@
 # wealthsimple/canadian-bank-account - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 11
 
 [Open repository](https://github.com/wealthsimple/canadian-bank-account)
+
+[Open detailed stats for wealthsimple/canadian-bank-account](https://reviewgithub.com/rep/wealthsimple/canadian-bank-account)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | 5 | 
 | 2022-09-08 | 11 | 5 | 
 
-
-[Detailed charts & statistics for wealthsimple/canadian-bank-account](https://reviewgithub.com/rep/wealthsimple/canadian-bank-account)

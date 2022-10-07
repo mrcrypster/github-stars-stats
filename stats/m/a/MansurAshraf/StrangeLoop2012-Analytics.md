@@ -1,12 +1,14 @@
 # MansurAshraf/StrangeLoop2012-Analytics - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/MansurAshraf/StrangeLoop2012-Analytics)
+
+[Open detailed stats for MansurAshraf/StrangeLoop2012-Analytics](https://reviewgithub.com/rep/MansurAshraf/StrangeLoop2012-Analytics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | - | - | 
 | 2022-09-18 | - | - | 
 
-
-[Detailed charts & statistics for MansurAshraf/StrangeLoop2012-Analytics](https://reviewgithub.com/rep/MansurAshraf/StrangeLoop2012-Analytics)

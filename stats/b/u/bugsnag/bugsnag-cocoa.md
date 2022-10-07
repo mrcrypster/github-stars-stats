@@ -1,12 +1,14 @@
 # bugsnag/bugsnag-cocoa - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 125
 
 ★ Stars: 206
 
 [Open repository](https://github.com/bugsnag/bugsnag-cocoa)
+
+[Open detailed stats for bugsnag/bugsnag-cocoa](https://reviewgithub.com/rep/bugsnag/bugsnag-cocoa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 207 | 124 | 
 | 2022-09-07 | 207 | 124 | 
 
-
-[Detailed charts & statistics for bugsnag/bugsnag-cocoa](https://reviewgithub.com/rep/bugsnag/bugsnag-cocoa)

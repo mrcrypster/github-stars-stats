@@ -1,12 +1,14 @@
 # nxp-qoriq/qoriq-components_edk2-non-osi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nxp-qoriq/qoriq-components_edk2-non-osi)
+
+[Open detailed stats for nxp-qoriq/qoriq-components_edk2-non-osi](https://reviewgithub.com/rep/nxp-qoriq/qoriq-components_edk2-non-osi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for nxp-qoriq/qoriq-components_edk2-non-osi](https://reviewgithub.com/rep/nxp-qoriq/qoriq-components_edk2-non-osi)

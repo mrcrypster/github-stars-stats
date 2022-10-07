@@ -1,12 +1,14 @@
 # snyk/sclix_woof - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 1
 
 [Open repository](https://github.com/snyk/sclix_woof)
+
+[Open detailed stats for snyk/sclix_woof](https://reviewgithub.com/rep/snyk/sclix_woof)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 9 | 
 | 2022-09-08 | 1 | 9 | 
 
-
-[Detailed charts & statistics for snyk/sclix_woof](https://reviewgithub.com/rep/snyk/sclix_woof)

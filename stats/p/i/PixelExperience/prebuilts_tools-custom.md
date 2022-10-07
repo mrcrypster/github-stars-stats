@@ -1,12 +1,14 @@
 # PixelExperience/prebuilts_tools-custom - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/PixelExperience/prebuilts_tools-custom)
+
+[Open detailed stats for PixelExperience/prebuilts_tools-custom](https://reviewgithub.com/rep/PixelExperience/prebuilts_tools-custom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for PixelExperience/prebuilts_tools-custom](https://reviewgithub.com/rep/PixelExperience/prebuilts_tools-custom)

@@ -1,12 +1,14 @@
 # pandeiro/jaki - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 16
 
 [Open repository](https://github.com/pandeiro/jaki)
+
+[Open detailed stats for pandeiro/jaki](https://reviewgithub.com/rep/pandeiro/jaki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 4 | 
 | 2022-09-07 | 16 | 4 | 
 
-
-[Detailed charts & statistics for pandeiro/jaki](https://reviewgithub.com/rep/pandeiro/jaki)

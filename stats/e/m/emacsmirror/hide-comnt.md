@@ -1,12 +1,14 @@
 # emacsmirror/hide-comnt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/emacsmirror/hide-comnt)
+
+[Open detailed stats for emacsmirror/hide-comnt](https://reviewgithub.com/rep/emacsmirror/hide-comnt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7 | - | 
 | 2022-09-07 | 7 | - | 
 
-
-[Detailed charts & statistics for emacsmirror/hide-comnt](https://reviewgithub.com/rep/emacsmirror/hide-comnt)

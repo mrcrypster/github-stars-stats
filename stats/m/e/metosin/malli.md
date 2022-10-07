@@ -1,12 +1,14 @@
 # metosin/malli - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 151
 
 ★ Stars: 1095
 
 [Open repository](https://github.com/metosin/malli)
+
+[Open detailed stats for metosin/malli](https://reviewgithub.com/rep/metosin/malli)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1074 | 150 | 
 | 2022-09-07 | 1073 | 150 | 
 
-
-[Detailed charts & statistics for metosin/malli](https://reviewgithub.com/rep/metosin/malli)

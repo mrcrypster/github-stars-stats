@@ -1,12 +1,14 @@
 # UofSC-Fall-2022-Math-587-001/homework1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/UofSC-Fall-2022-Math-587-001/homework1)
+
+[Open detailed stats for UofSC-Fall-2022-Math-587-001/homework1](https://reviewgithub.com/rep/UofSC-Fall-2022-Math-587-001/homework1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 3 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for UofSC-Fall-2022-Math-587-001/homework1](https://reviewgithub.com/rep/UofSC-Fall-2022-Math-587-001/homework1)

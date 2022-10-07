@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-4-rails-resources-destroy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1115
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-4-rails-resources-destroy)
+
+[Open detailed stats for learn-co-curriculum/phase-4-rails-resources-destroy](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-resources-destroy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | 914 | 
 | 2022-09-25 | - | 911 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-4-rails-resources-destroy](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-resources-destroy)

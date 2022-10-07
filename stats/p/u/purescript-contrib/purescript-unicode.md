@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-unicode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 6
 
 [Open repository](https://github.com/purescript-contrib/purescript-unicode)
+
+[Open detailed stats for purescript-contrib/purescript-unicode](https://reviewgithub.com/rep/purescript-contrib/purescript-unicode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 14 | 
 | 2022-09-08 | 6 | 14 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-unicode](https://reviewgithub.com/rep/purescript-contrib/purescript-unicode)

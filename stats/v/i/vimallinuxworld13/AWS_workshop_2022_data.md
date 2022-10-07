@@ -1,12 +1,14 @@
 # vimallinuxworld13/AWS_workshop_2022_data - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 111
 
 ★ Stars: 85
 
 [Open repository](https://github.com/vimallinuxworld13/AWS_workshop_2022_data)
+
+[Open detailed stats for vimallinuxworld13/AWS_workshop_2022_data](https://reviewgithub.com/rep/vimallinuxworld13/AWS_workshop_2022_data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 85 | 108 | 
 | 2022-09-08 | 85 | 108 | 
 
-
-[Detailed charts & statistics for vimallinuxworld13/AWS_workshop_2022_data](https://reviewgithub.com/rep/vimallinuxworld13/AWS_workshop_2022_data)

@@ -1,12 +1,14 @@
 # alphapapa/salv.el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 28
 
 [Open repository](https://github.com/alphapapa/salv.el)
+
+[Open detailed stats for alphapapa/salv.el](https://reviewgithub.com/rep/alphapapa/salv.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 2 | 
 | 2022-09-07 | 28 | 2 | 
 
-
-[Detailed charts & statistics for alphapapa/salv.el](https://reviewgithub.com/rep/alphapapa/salv.el)

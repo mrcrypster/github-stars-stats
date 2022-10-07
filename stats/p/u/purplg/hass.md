@@ -1,12 +1,14 @@
 # purplg/hass - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 62
 
 [Open repository](https://github.com/purplg/hass)
+
+[Open detailed stats for purplg/hass](https://reviewgithub.com/rep/purplg/hass)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 61 | 3 | 
 | 2022-09-07 | 61 | 3 | 
 
-
-[Detailed charts & statistics for purplg/hass](https://reviewgithub.com/rep/purplg/hass)

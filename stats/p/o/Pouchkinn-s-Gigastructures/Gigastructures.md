@@ -1,12 +1,14 @@
 # Pouchkinn-s-Gigastructures/Gigastructures - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 7
 
 [Open repository](https://github.com/Pouchkinn-s-Gigastructures/Gigastructures)
+
+[Open detailed stats for Pouchkinn-s-Gigastructures/Gigastructures](https://reviewgithub.com/rep/Pouchkinn-s-Gigastructures/Gigastructures)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 6 | 2 | 
 | 2022-09-18 | 6 | 2 | 
 
-
-[Detailed charts & statistics for Pouchkinn-s-Gigastructures/Gigastructures](https://reviewgithub.com/rep/Pouchkinn-s-Gigastructures/Gigastructures)

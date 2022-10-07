@@ -1,12 +1,14 @@
 # nex3/sass-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 89
 
 [Open repository](https://github.com/nex3/sass-mode)
+
+[Open detailed stats for nex3/sass-mode](https://reviewgithub.com/rep/nex3/sass-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 89 | 22 | 
 | 2022-09-08 | 89 | 22 | 
 
-
-[Detailed charts & statistics for nex3/sass-mode](https://reviewgithub.com/rep/nex3/sass-mode)

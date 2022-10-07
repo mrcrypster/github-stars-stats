@@ -1,12 +1,14 @@
 # seglo/kafka-lag-exporter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 159
 
 ★ Stars: 522
 
 [Open repository](https://github.com/seglo/kafka-lag-exporter)
+
+[Open detailed stats for seglo/kafka-lag-exporter](https://reviewgithub.com/rep/seglo/kafka-lag-exporter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 505 | 157 | 
 | 2022-09-08 | 502 | 157 | 
 
-
-[Detailed charts & statistics for seglo/kafka-lag-exporter](https://reviewgithub.com/rep/seglo/kafka-lag-exporter)

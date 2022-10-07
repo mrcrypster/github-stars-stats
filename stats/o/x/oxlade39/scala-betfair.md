@@ -1,12 +1,14 @@
 # oxlade39/scala-betfair - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 5
 
 [Open repository](https://github.com/oxlade39/scala-betfair)
+
+[Open detailed stats for oxlade39/scala-betfair](https://reviewgithub.com/rep/oxlade39/scala-betfair)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 5 | 
 | 2022-09-07 | 5 | 5 | 
 
-
-[Detailed charts & statistics for oxlade39/scala-betfair](https://reviewgithub.com/rep/oxlade39/scala-betfair)

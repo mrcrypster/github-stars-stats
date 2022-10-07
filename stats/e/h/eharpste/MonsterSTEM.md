@@ -1,12 +1,14 @@
 # eharpste/MonsterSTEM - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/eharpste/MonsterSTEM)
+
+[Open detailed stats for eharpste/MonsterSTEM](https://reviewgithub.com/rep/eharpste/MonsterSTEM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for eharpste/MonsterSTEM](https://reviewgithub.com/rep/eharpste/MonsterSTEM)

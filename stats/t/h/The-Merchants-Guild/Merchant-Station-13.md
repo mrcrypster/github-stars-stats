@@ -1,12 +1,14 @@
 # The-Merchants-Guild/Merchant-Station-13 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 8
 
 [Open repository](https://github.com/The-Merchants-Guild/Merchant-Station-13)
+
+[Open detailed stats for The-Merchants-Guild/Merchant-Station-13](https://reviewgithub.com/rep/The-Merchants-Guild/Merchant-Station-13)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 54 | 
 | 2022-09-07 | 8 | 54 | 
 
-
-[Detailed charts & statistics for The-Merchants-Guild/Merchant-Station-13](https://reviewgithub.com/rep/The-Merchants-Guild/Merchant-Station-13)

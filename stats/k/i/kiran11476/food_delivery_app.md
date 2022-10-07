@@ -1,12 +1,14 @@
 # kiran11476/food_delivery_app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 11
 
 [Open repository](https://github.com/kiran11476/food_delivery_app)
+
+[Open detailed stats for kiran11476/food_delivery_app](https://reviewgithub.com/rep/kiran11476/food_delivery_app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | - | 
 | 2022-09-07 | 11 | - | 
 
-
-[Detailed charts & statistics for kiran11476/food_delivery_app](https://reviewgithub.com/rep/kiran11476/food_delivery_app)

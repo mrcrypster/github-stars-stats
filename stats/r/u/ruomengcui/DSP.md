@@ -1,12 +1,14 @@
 # ruomengcui/DSP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/ruomengcui/DSP)
+
+[Open detailed stats for ruomengcui/DSP](https://reviewgithub.com/rep/ruomengcui/DSP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-30 | 3 | - | 
 | 2022-09-29 | 3 | - | 
 
-
-[Detailed charts & statistics for ruomengcui/DSP](https://reviewgithub.com/rep/ruomengcui/DSP)

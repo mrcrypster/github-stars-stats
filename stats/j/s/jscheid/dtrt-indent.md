@@ -1,12 +1,14 @@
 # jscheid/dtrt-indent - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 148
 
 [Open repository](https://github.com/jscheid/dtrt-indent)
+
+[Open detailed stats for jscheid/dtrt-indent](https://reviewgithub.com/rep/jscheid/dtrt-indent)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 148 | 24 | 
 | 2022-09-07 | 148 | 24 | 
 
-
-[Detailed charts & statistics for jscheid/dtrt-indent](https://reviewgithub.com/rep/jscheid/dtrt-indent)

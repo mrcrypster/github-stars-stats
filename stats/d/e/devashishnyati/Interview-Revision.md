@@ -1,12 +1,14 @@
 # devashishnyati/Interview-Revision - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 98
 
 ★ Stars: 185
 
 [Open repository](https://github.com/devashishnyati/Interview-Revision)
+
+[Open detailed stats for devashishnyati/Interview-Revision](https://reviewgithub.com/rep/devashishnyati/Interview-Revision)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 183 | 98 | 
 | 2022-09-07 | 183 | 98 | 
 
-
-[Detailed charts & statistics for devashishnyati/Interview-Revision](https://reviewgithub.com/rep/devashishnyati/Interview-Revision)

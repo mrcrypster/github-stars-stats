@@ -1,12 +1,14 @@
 # therealbazzi/Audio-Signal-Processing-Basics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 15
 
 [Open repository](https://github.com/therealbazzi/Audio-Signal-Processing-Basics)
+
+[Open detailed stats for therealbazzi/Audio-Signal-Processing-Basics](https://reviewgithub.com/rep/therealbazzi/Audio-Signal-Processing-Basics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 4 | 
 | 2022-09-07 | 13 | 4 | 
 
-
-[Detailed charts & statistics for therealbazzi/Audio-Signal-Processing-Basics](https://reviewgithub.com/rep/therealbazzi/Audio-Signal-Processing-Basics)

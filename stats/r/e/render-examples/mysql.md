@@ -1,12 +1,14 @@
 # render-examples/mysql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 135
 
 ★ Stars: 8
 
 [Open repository](https://github.com/render-examples/mysql)
+
+[Open detailed stats for render-examples/mysql](https://reviewgithub.com/rep/render-examples/mysql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 135 | 
 | 2022-09-07 | 7 | 135 | 
 
-
-[Detailed charts & statistics for render-examples/mysql](https://reviewgithub.com/rep/render-examples/mysql)

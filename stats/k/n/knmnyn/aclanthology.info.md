@@ -1,12 +1,14 @@
 # knmnyn/aclanthology.info - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/knmnyn/aclanthology.info)
+
+[Open detailed stats for knmnyn/aclanthology.info](https://reviewgithub.com/rep/knmnyn/aclanthology.info)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 2 | - | 
 | 2022-10-02 | 2 | - | 
 
-
-[Detailed charts & statistics for knmnyn/aclanthology.info](https://reviewgithub.com/rep/knmnyn/aclanthology.info)

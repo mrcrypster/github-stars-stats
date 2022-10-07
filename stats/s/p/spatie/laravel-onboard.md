@@ -1,12 +1,14 @@
 # spatie/laravel-onboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 443
 
 [Open repository](https://github.com/spatie/laravel-onboard)
+
+[Open detailed stats for spatie/laravel-onboard](https://reviewgithub.com/rep/spatie/laravel-onboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 423 | 15 | 
 | 2022-09-07 | 422 | 15 | 
 
-
-[Detailed charts & statistics for spatie/laravel-onboard](https://reviewgithub.com/rep/spatie/laravel-onboard)

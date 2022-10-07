@@ -1,12 +1,14 @@
 # hhvm/fbexpect - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 20
 
 [Open repository](https://github.com/hhvm/fbexpect)
+
+[Open detailed stats for hhvm/fbexpect](https://reviewgithub.com/rep/hhvm/fbexpect)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 9 | 
 | 2022-09-07 | 20 | 9 | 
 
-
-[Detailed charts & statistics for hhvm/fbexpect](https://reviewgithub.com/rep/hhvm/fbexpect)

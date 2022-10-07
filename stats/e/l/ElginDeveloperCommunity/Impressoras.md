@@ -1,12 +1,14 @@
 # ElginDeveloperCommunity/Impressoras - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 25
 
 [Open repository](https://github.com/ElginDeveloperCommunity/Impressoras)
+
+[Open detailed stats for ElginDeveloperCommunity/Impressoras](https://reviewgithub.com/rep/ElginDeveloperCommunity/Impressoras)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 24 | 20 | 
 | 2022-09-08 | 24 | 20 | 
 
-
-[Detailed charts & statistics for ElginDeveloperCommunity/Impressoras](https://reviewgithub.com/rep/ElginDeveloperCommunity/Impressoras)

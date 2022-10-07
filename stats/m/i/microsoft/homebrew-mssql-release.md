@@ -1,12 +1,14 @@
 # microsoft/homebrew-mssql-release - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 78
 
 [Open repository](https://github.com/microsoft/homebrew-mssql-release)
+
+[Open detailed stats for microsoft/homebrew-mssql-release](https://reviewgithub.com/rep/microsoft/homebrew-mssql-release)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 33 | 
 | 2022-09-07 | 78 | 33 | 
 
-
-[Detailed charts & statistics for microsoft/homebrew-mssql-release](https://reviewgithub.com/rep/microsoft/homebrew-mssql-release)

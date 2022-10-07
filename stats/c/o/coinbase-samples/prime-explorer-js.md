@@ -1,12 +1,14 @@
 # coinbase-samples/prime-explorer-js - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/coinbase-samples/prime-explorer-js)
+
+[Open detailed stats for coinbase-samples/prime-explorer-js](https://reviewgithub.com/rep/coinbase-samples/prime-explorer-js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 5 | - | 
 
-
-[Detailed charts & statistics for coinbase-samples/prime-explorer-js](https://reviewgithub.com/rep/coinbase-samples/prime-explorer-js)

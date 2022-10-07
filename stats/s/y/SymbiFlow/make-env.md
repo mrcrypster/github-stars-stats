@@ -1,12 +1,14 @@
 # SymbiFlow/make-env - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/SymbiFlow/make-env)
+
+[Open detailed stats for SymbiFlow/make-env](https://reviewgithub.com/rep/SymbiFlow/make-env)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 5 | 
 | 2022-09-08 | 7 | 5 | 
 
-
-[Detailed charts & statistics for SymbiFlow/make-env](https://reviewgithub.com/rep/SymbiFlow/make-env)

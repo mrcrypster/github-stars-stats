@@ -1,12 +1,14 @@
 # AidanDelaney/Mira - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/AidanDelaney/Mira)
+
+[Open detailed stats for AidanDelaney/Mira](https://reviewgithub.com/rep/AidanDelaney/Mira)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 3 | 
 | 2022-09-07 | 4 | 3 | 
 
-
-[Detailed charts & statistics for AidanDelaney/Mira](https://reviewgithub.com/rep/AidanDelaney/Mira)

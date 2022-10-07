@@ -1,12 +1,14 @@
 # dataartisan/trees-algebra-haskell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/dataartisan/trees-algebra-haskell)
+
+[Open detailed stats for dataartisan/trees-algebra-haskell](https://reviewgithub.com/rep/dataartisan/trees-algebra-haskell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for dataartisan/trees-algebra-haskell](https://reviewgithub.com/rep/dataartisan/trees-algebra-haskell)

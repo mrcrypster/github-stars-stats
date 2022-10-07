@@ -1,12 +1,14 @@
 # github/request-marketplace-action - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 8
 
 [Open repository](https://github.com/github/request-marketplace-action)
+
+[Open detailed stats for github/request-marketplace-action](https://reviewgithub.com/rep/github/request-marketplace-action)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 4 | 
 | 2022-09-07 | 6 | - | 
 
-
-[Detailed charts & statistics for github/request-marketplace-action](https://reviewgithub.com/rep/github/request-marketplace-action)

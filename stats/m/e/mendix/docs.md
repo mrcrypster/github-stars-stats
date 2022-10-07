@@ -1,12 +1,14 @@
 # mendix/docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 581
 
 ★ Stars: 95
 
 [Open repository](https://github.com/mendix/docs)
+
+[Open detailed stats for mendix/docs](https://reviewgithub.com/rep/mendix/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 92 | 572 | 
 | 2022-09-08 | 92 | 572 | 
 
-
-[Detailed charts & statistics for mendix/docs](https://reviewgithub.com/rep/mendix/docs)

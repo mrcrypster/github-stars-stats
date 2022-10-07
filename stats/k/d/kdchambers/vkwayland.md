@@ -1,12 +1,14 @@
 # kdchambers/vkwayland - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 19
 
 [Open repository](https://github.com/kdchambers/vkwayland)
+
+[Open detailed stats for kdchambers/vkwayland](https://reviewgithub.com/rep/kdchambers/vkwayland)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | - | 
 | 2022-09-07 | 16 | - | 
 
-
-[Detailed charts & statistics for kdchambers/vkwayland](https://reviewgithub.com/rep/kdchambers/vkwayland)

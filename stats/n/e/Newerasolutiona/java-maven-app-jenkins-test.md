@@ -1,12 +1,14 @@
 # Newerasolutiona/java-maven-app-jenkins-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Newerasolutiona/java-maven-app-jenkins-test)
+
+[Open detailed stats for Newerasolutiona/java-maven-app-jenkins-test](https://reviewgithub.com/rep/Newerasolutiona/java-maven-app-jenkins-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 7 | 
 | 2022-09-08 | - | 7 | 
 
-
-[Detailed charts & statistics for Newerasolutiona/java-maven-app-jenkins-test](https://reviewgithub.com/rep/Newerasolutiona/java-maven-app-jenkins-test)

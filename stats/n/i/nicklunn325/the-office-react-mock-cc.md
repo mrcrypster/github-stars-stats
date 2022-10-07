@@ -1,12 +1,14 @@
 # nicklunn325/the-office-react-mock-cc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nicklunn325/the-office-react-mock-cc)
+
+[Open detailed stats for nicklunn325/the-office-react-mock-cc](https://reviewgithub.com/rep/nicklunn325/the-office-react-mock-cc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 9 | 
 | 2022-09-08 | - | 9 | 
 
-
-[Detailed charts & statistics for nicklunn325/the-office-react-mock-cc](https://reviewgithub.com/rep/nicklunn325/the-office-react-mock-cc)

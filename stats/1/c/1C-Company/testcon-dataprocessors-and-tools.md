@@ -1,12 +1,14 @@
 # 1C-Company/testcon-dataprocessors-and-tools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 19
 
 [Open repository](https://github.com/1C-Company/testcon-dataprocessors-and-tools)
+
+[Open detailed stats for 1C-Company/testcon-dataprocessors-and-tools](https://reviewgithub.com/rep/1C-Company/testcon-dataprocessors-and-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 4 | 
 | 2022-09-08 | 19 | 4 | 
 
-
-[Detailed charts & statistics for 1C-Company/testcon-dataprocessors-and-tools](https://reviewgithub.com/rep/1C-Company/testcon-dataprocessors-and-tools)

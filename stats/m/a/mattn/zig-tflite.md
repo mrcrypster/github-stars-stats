@@ -1,12 +1,14 @@
 # mattn/zig-tflite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 22
 
 [Open repository](https://github.com/mattn/zig-tflite)
+
+[Open detailed stats for mattn/zig-tflite](https://reviewgithub.com/rep/mattn/zig-tflite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 1 | 
 | 2022-09-07 | 22 | 1 | 
 
-
-[Detailed charts & statistics for mattn/zig-tflite](https://reviewgithub.com/rep/mattn/zig-tflite)

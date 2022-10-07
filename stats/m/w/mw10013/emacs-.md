@@ -1,12 +1,14 @@
 # mw10013/emacs- - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mw10013/emacs-)
+
+[Open detailed stats for mw10013/emacs-](https://reviewgithub.com/rep/mw10013/emacs-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for mw10013/emacs-](https://reviewgithub.com/rep/mw10013/emacs-)

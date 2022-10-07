@@ -1,12 +1,14 @@
 # ese-msc/irp-template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ese-msc/irp-template)
+
+[Open detailed stats for ese-msc/irp-template](https://reviewgithub.com/rep/ese-msc/irp-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 7 | 
 | 2022-09-08 | - | 7 | 
 
-
-[Detailed charts & statistics for ese-msc/irp-template](https://reviewgithub.com/rep/ese-msc/irp-template)

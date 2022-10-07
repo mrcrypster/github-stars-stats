@@ -1,12 +1,14 @@
 # rockholla/net-readalonglibrary - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/rockholla/net-readalonglibrary)
+
+[Open detailed stats for rockholla/net-readalonglibrary](https://reviewgithub.com/rep/rockholla/net-readalonglibrary)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | 1 | - | 
 | 2022-09-24 | 1 | - | 
 
-
-[Detailed charts & statistics for rockholla/net-readalonglibrary](https://reviewgithub.com/rep/rockholla/net-readalonglibrary)

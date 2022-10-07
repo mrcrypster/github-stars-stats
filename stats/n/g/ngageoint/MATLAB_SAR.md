@@ -1,12 +1,14 @@
 # ngageoint/MATLAB_SAR - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 63
 
 ★ Stars: 134
 
 [Open repository](https://github.com/ngageoint/MATLAB_SAR)
+
+[Open detailed stats for ngageoint/MATLAB_SAR](https://reviewgithub.com/rep/ngageoint/MATLAB_SAR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 130 | 62 | 
 | 2022-09-08 | 130 | 62 | 
 
-
-[Detailed charts & statistics for ngageoint/MATLAB_SAR](https://reviewgithub.com/rep/ngageoint/MATLAB_SAR)

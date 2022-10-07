@@ -1,12 +1,14 @@
 # nozaq/terraform-aws-remote-state-s3-backend - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 56
 
 ★ Stars: 99
 
 [Open repository](https://github.com/nozaq/terraform-aws-remote-state-s3-backend)
+
+[Open detailed stats for nozaq/terraform-aws-remote-state-s3-backend](https://reviewgithub.com/rep/nozaq/terraform-aws-remote-state-s3-backend)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 96 | 53 | 
 | 2022-09-07 | 96 | 53 | 
 
-
-[Detailed charts & statistics for nozaq/terraform-aws-remote-state-s3-backend](https://reviewgithub.com/rep/nozaq/terraform-aws-remote-state-s3-backend)

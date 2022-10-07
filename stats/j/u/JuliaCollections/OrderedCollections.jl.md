@@ -1,12 +1,14 @@
 # JuliaCollections/OrderedCollections.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 62
 
 [Open repository](https://github.com/JuliaCollections/OrderedCollections.jl)
+
+[Open detailed stats for JuliaCollections/OrderedCollections.jl](https://reviewgithub.com/rep/JuliaCollections/OrderedCollections.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 61 | 28 | 
 | 2022-09-07 | 61 | 28 | 
 
-
-[Detailed charts & statistics for JuliaCollections/OrderedCollections.jl](https://reviewgithub.com/rep/JuliaCollections/OrderedCollections.jl)

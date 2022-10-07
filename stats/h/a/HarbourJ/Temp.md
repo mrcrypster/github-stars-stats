@@ -1,12 +1,14 @@
 # HarbourJ/Temp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 163
 
 ★ Stars: 100
 
 [Open repository](https://github.com/HarbourJ/Temp)
+
+[Open detailed stats for HarbourJ/Temp](https://reviewgithub.com/rep/HarbourJ/Temp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 98 | 164 | 
 | 2022-09-07 | 98 | 164 | 
 
-
-[Detailed charts & statistics for HarbourJ/Temp](https://reviewgithub.com/rep/HarbourJ/Temp)

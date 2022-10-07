@@ -1,12 +1,14 @@
 # mesosphere/kommander-applications - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 8
 
 [Open repository](https://github.com/mesosphere/kommander-applications)
+
+[Open detailed stats for mesosphere/kommander-applications](https://reviewgithub.com/rep/mesosphere/kommander-applications)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 7 | 
 | 2022-09-08 | 7 | 7 | 
 
-
-[Detailed charts & statistics for mesosphere/kommander-applications](https://reviewgithub.com/rep/mesosphere/kommander-applications)

@@ -1,12 +1,14 @@
 # oxfordcontrol/Clarabel.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 82
 
 [Open repository](https://github.com/oxfordcontrol/Clarabel.jl)
+
+[Open detailed stats for oxfordcontrol/Clarabel.jl](https://reviewgithub.com/rep/oxfordcontrol/Clarabel.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 80 | 5 | 
 | 2022-09-07 | 80 | 5 | 
 
-
-[Detailed charts & statistics for oxfordcontrol/Clarabel.jl](https://reviewgithub.com/rep/oxfordcontrol/Clarabel.jl)

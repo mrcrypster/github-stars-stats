@@ -1,12 +1,14 @@
 # wickedwukong/SeriousPiggies - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/wickedwukong/SeriousPiggies)
+
+[Open detailed stats for wickedwukong/SeriousPiggies](https://reviewgithub.com/rep/wickedwukong/SeriousPiggies)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | - | - | 
 | 2022-09-09 | - | - | 
 
-
-[Detailed charts & statistics for wickedwukong/SeriousPiggies](https://reviewgithub.com/rep/wickedwukong/SeriousPiggies)

@@ -1,12 +1,14 @@
 # ros2/rosidl_typesupport_fastrtps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ros2/rosidl_typesupport_fastrtps)
+
+[Open detailed stats for ros2/rosidl_typesupport_fastrtps](https://reviewgithub.com/rep/ros2/rosidl_typesupport_fastrtps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 18 | 
 | 2022-09-07 | 2 | 18 | 
 
-
-[Detailed charts & statistics for ros2/rosidl_typesupport_fastrtps](https://reviewgithub.com/rep/ros2/rosidl_typesupport_fastrtps)

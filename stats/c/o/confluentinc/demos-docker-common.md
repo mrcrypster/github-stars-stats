@@ -1,12 +1,14 @@
 # confluentinc/demos-docker-common - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/confluentinc/demos-docker-common)
+
+[Open detailed stats for confluentinc/demos-docker-common](https://reviewgithub.com/rep/confluentinc/demos-docker-common)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 2 | 
 | 2022-09-08 | 1 | 2 | 
 
-
-[Detailed charts & statistics for confluentinc/demos-docker-common](https://reviewgithub.com/rep/confluentinc/demos-docker-common)

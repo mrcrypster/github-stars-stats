@@ -1,12 +1,14 @@
 # kokdemo/beijing-popup-map - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 52
 
 [Open repository](https://github.com/kokdemo/beijing-popup-map)
+
+[Open detailed stats for kokdemo/beijing-popup-map](https://reviewgithub.com/rep/kokdemo/beijing-popup-map)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-30 | 45 | 7 | 
 | 2022-09-29 | 42 | 6 | 
 
-
-[Detailed charts & statistics for kokdemo/beijing-popup-map](https://reviewgithub.com/rep/kokdemo/beijing-popup-map)

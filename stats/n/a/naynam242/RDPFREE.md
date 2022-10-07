@@ -1,12 +1,14 @@
 # naynam242/RDPFREE - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 164
 
 ★ Stars: 4
 
 [Open repository](https://github.com/naynam242/RDPFREE)
+
+[Open detailed stats for naynam242/RDPFREE](https://reviewgithub.com/rep/naynam242/RDPFREE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 143 | 
 | 2022-09-08 | 4 | 141 | 
 
-
-[Detailed charts & statistics for naynam242/RDPFREE](https://reviewgithub.com/rep/naynam242/RDPFREE)

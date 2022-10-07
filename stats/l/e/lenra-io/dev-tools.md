@@ -1,12 +1,14 @@
 # lenra-io/dev-tools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/lenra-io/dev-tools)
+
+[Open detailed stats for lenra-io/dev-tools](https://reviewgithub.com/rep/lenra-io/dev-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 2 | - | 
 | 2022-09-19 | 2 | - | 
 
-
-[Detailed charts & statistics for lenra-io/dev-tools](https://reviewgithub.com/rep/lenra-io/dev-tools)

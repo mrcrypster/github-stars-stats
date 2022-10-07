@@ -1,12 +1,14 @@
 # EHLOVader/Useful-Office-Snippets - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/EHLOVader/Useful-Office-Snippets)
+
+[Open detailed stats for EHLOVader/Useful-Office-Snippets](https://reviewgithub.com/rep/EHLOVader/Useful-Office-Snippets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | 1 | - | 
 | 2022-09-24 | 1 | - | 
 
-
-[Detailed charts & statistics for EHLOVader/Useful-Office-Snippets](https://reviewgithub.com/rep/EHLOVader/Useful-Office-Snippets)

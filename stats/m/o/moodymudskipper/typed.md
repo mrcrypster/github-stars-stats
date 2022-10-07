@@ -1,12 +1,14 @@
 # moodymudskipper/typed - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 125
 
 [Open repository](https://github.com/moodymudskipper/typed)
+
+[Open detailed stats for moodymudskipper/typed](https://reviewgithub.com/rep/moodymudskipper/typed)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 124 | 4 | 
 | 2022-09-07 | 124 | 4 | 
 
-
-[Detailed charts & statistics for moodymudskipper/typed](https://reviewgithub.com/rep/moodymudskipper/typed)

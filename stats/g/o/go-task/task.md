@@ -1,12 +1,14 @@
 # go-task/task - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 367
 
 ★ Stars: 5851
 
 [Open repository](https://github.com/go-task/task)
+
+[Open detailed stats for go-task/task](https://reviewgithub.com/rep/go-task/task)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5740 | 356 | 
 | 2022-09-07 | 5735 | 356 | 
 
-
-[Detailed charts & statistics for go-task/task](https://reviewgithub.com/rep/go-task/task)

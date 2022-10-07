@@ -1,12 +1,14 @@
 # sumeet-malik/level2and3 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 92
 
 [Open repository](https://github.com/sumeet-malik/level2and3)
+
+[Open detailed stats for sumeet-malik/level2and3](https://reviewgithub.com/rep/sumeet-malik/level2and3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 88 | 54 | 
 | 2022-09-07 | 87 | 54 | 
 
-
-[Detailed charts & statistics for sumeet-malik/level2and3](https://reviewgithub.com/rep/sumeet-malik/level2and3)

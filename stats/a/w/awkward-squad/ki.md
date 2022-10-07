@@ -1,12 +1,14 @@
 # awkward-squad/ki - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 55
 
 [Open repository](https://github.com/awkward-squad/ki)
+
+[Open detailed stats for awkward-squad/ki](https://reviewgithub.com/rep/awkward-squad/ki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 55 | 1 | 
 | 2022-09-07 | 55 | 1 | 
 
-
-[Detailed charts & statistics for awkward-squad/ki](https://reviewgithub.com/rep/awkward-squad/ki)

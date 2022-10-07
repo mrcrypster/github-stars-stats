@@ -1,12 +1,14 @@
 # mracos/mermaid.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 18
 
 [Open repository](https://github.com/mracos/mermaid.vim)
+
+[Open detailed stats for mracos/mermaid.vim](https://reviewgithub.com/rep/mracos/mermaid.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 1 | 
 | 2022-09-07 | 18 | 1 | 
 
-
-[Detailed charts & statistics for mracos/mermaid.vim](https://reviewgithub.com/rep/mracos/mermaid.vim)

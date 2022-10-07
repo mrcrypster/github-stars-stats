@@ -1,12 +1,14 @@
 # zendesk/sdkconfigurations_sdk_ios - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 3
 
 [Open repository](https://github.com/zendesk/sdkconfigurations_sdk_ios)
+
+[Open detailed stats for zendesk/sdkconfigurations_sdk_ios](https://reviewgithub.com/rep/zendesk/sdkconfigurations_sdk_ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 15 | 
 | 2022-09-07 | 3 | 15 | 
 
-
-[Detailed charts & statistics for zendesk/sdkconfigurations_sdk_ios](https://reviewgithub.com/rep/zendesk/sdkconfigurations_sdk_ios)

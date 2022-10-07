@@ -1,12 +1,14 @@
 # voxpupuli/puppet-googleauthenticator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 13
 
 [Open repository](https://github.com/voxpupuli/puppet-googleauthenticator)
+
+[Open detailed stats for voxpupuli/puppet-googleauthenticator](https://reviewgithub.com/rep/voxpupuli/puppet-googleauthenticator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 18 | 
 | 2022-09-08 | 13 | 18 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-googleauthenticator](https://reviewgithub.com/rep/voxpupuli/puppet-googleauthenticator)

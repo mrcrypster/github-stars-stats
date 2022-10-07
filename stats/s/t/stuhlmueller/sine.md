@@ -1,12 +1,14 @@
 # stuhlmueller/sine - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/stuhlmueller/sine)
+
+[Open detailed stats for stuhlmueller/sine](https://reviewgithub.com/rep/stuhlmueller/sine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 5 | - | 
 
-
-[Detailed charts & statistics for stuhlmueller/sine](https://reviewgithub.com/rep/stuhlmueller/sine)

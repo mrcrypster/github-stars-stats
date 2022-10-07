@@ -1,12 +1,14 @@
 # memes/terraform-google-secret-manager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 3
 
 [Open repository](https://github.com/memes/terraform-google-secret-manager)
+
+[Open detailed stats for memes/terraform-google-secret-manager](https://reviewgithub.com/rep/memes/terraform-google-secret-manager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 8 | 
 | 2022-09-07 | 3 | 8 | 
 
-
-[Detailed charts & statistics for memes/terraform-google-secret-manager](https://reviewgithub.com/rep/memes/terraform-google-secret-manager)

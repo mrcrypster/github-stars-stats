@@ -1,12 +1,14 @@
 # BassemFarrag/RDP-S-Beta - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BassemFarrag/RDP-S-Beta)
+
+[Open detailed stats for BassemFarrag/RDP-S-Beta](https://reviewgithub.com/rep/BassemFarrag/RDP-S-Beta)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 17 | 
 | 2022-09-07 | - | 17 | 
 
-
-[Detailed charts & statistics for BassemFarrag/RDP-S-Beta](https://reviewgithub.com/rep/BassemFarrag/RDP-S-Beta)

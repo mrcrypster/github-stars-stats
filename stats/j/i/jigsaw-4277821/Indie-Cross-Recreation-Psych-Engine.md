@@ -1,12 +1,14 @@
 # jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 50
 
 ★ Stars: 5
 
 [Open repository](https://github.com/jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine)
+
+[Open detailed stats for jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine](https://reviewgithub.com/rep/jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 51 | 
 | 2022-09-08 | 5 | 51 | 
 
-
-[Detailed charts & statistics for jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine](https://reviewgithub.com/rep/jigsaw-4277821/Indie-Cross-Recreation-Psych-Engine)

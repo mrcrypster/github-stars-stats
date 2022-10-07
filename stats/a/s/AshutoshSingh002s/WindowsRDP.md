@@ -1,12 +1,14 @@
 # AshutoshSingh002s/WindowsRDP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 89
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AshutoshSingh002s/WindowsRDP)
+
+[Open detailed stats for AshutoshSingh002s/WindowsRDP](https://reviewgithub.com/rep/AshutoshSingh002s/WindowsRDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 82 | 
 | 2022-09-07 | - | 81 | 
 
-
-[Detailed charts & statistics for AshutoshSingh002s/WindowsRDP](https://reviewgithub.com/rep/AshutoshSingh002s/WindowsRDP)

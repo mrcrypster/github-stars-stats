@@ -1,12 +1,14 @@
 # xodio/xod-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 106
 
 ★ Stars: 12
 
 [Open repository](https://github.com/xodio/xod-docs)
+
+[Open detailed stats for xodio/xod-docs](https://reviewgithub.com/rep/xodio/xod-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 106 | 
 | 2022-09-08 | 12 | 106 | 
 
-
-[Detailed charts & statistics for xodio/xod-docs](https://reviewgithub.com/rep/xodio/xod-docs)

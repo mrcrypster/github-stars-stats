@@ -1,12 +1,14 @@
 # 42StudyGame/Unity_01 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 3
 
 [Open repository](https://github.com/42StudyGame/Unity_01)
+
+[Open detailed stats for 42StudyGame/Unity_01](https://reviewgithub.com/rep/42StudyGame/Unity_01)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 2 | 
 | 2022-09-08 | 3 | 2 | 
 
-
-[Detailed charts & statistics for 42StudyGame/Unity_01](https://reviewgithub.com/rep/42StudyGame/Unity_01)

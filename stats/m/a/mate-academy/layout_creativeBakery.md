@@ -1,12 +1,14 @@
 # mate-academy/layout_creativeBakery - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 318
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mate-academy/layout_creativeBakery)
+
+[Open detailed stats for mate-academy/layout_creativeBakery](https://reviewgithub.com/rep/mate-academy/layout_creativeBakery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 303 | 
 | 2022-09-08 | 1 | 303 | 
 
-
-[Detailed charts & statistics for mate-academy/layout_creativeBakery](https://reviewgithub.com/rep/mate-academy/layout_creativeBakery)

@@ -1,12 +1,14 @@
 # FundingCircle/topology-grapher - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 15
 
 [Open repository](https://github.com/FundingCircle/topology-grapher)
+
+[Open detailed stats for FundingCircle/topology-grapher](https://reviewgithub.com/rep/FundingCircle/topology-grapher)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 2 | 
 | 2022-09-07 | 15 | 2 | 
 
-
-[Detailed charts & statistics for FundingCircle/topology-grapher](https://reviewgithub.com/rep/FundingCircle/topology-grapher)

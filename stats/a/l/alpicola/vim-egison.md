@@ -1,12 +1,14 @@
 # alpicola/vim-egison - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/alpicola/vim-egison)
+
+[Open detailed stats for alpicola/vim-egison](https://reviewgithub.com/rep/alpicola/vim-egison)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 1 | 
 | 2022-09-07 | 8 | 1 | 
 
-
-[Detailed charts & statistics for alpicola/vim-egison](https://reviewgithub.com/rep/alpicola/vim-egison)

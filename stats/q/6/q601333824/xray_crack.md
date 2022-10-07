@@ -1,12 +1,14 @@
 # q601333824/xray_crack - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 79
 
 ★ Stars: 232
 
 [Open repository](https://github.com/q601333824/xray_crack)
+
+[Open detailed stats for q601333824/xray_crack](https://reviewgithub.com/rep/q601333824/xray_crack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 229 | 78 | 
 | 2022-09-08 | 229 | 78 | 
 
-
-[Detailed charts & statistics for q601333824/xray_crack](https://reviewgithub.com/rep/q601333824/xray_crack)

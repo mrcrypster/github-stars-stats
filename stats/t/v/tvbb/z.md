@@ -1,12 +1,14 @@
 # tvbb/z - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 85
 
 ★ Stars: 102
 
 [Open repository](https://github.com/tvbb/z)
+
+[Open detailed stats for tvbb/z](https://reviewgithub.com/rep/tvbb/z)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 104 | 86 | 
 | 2022-09-07 | 105 | 86 | 
 
-
-[Detailed charts & statistics for tvbb/z](https://reviewgithub.com/rep/tvbb/z)

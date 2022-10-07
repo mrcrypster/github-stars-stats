@@ -1,12 +1,14 @@
 # axieinfinity/ronin-smart-contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 68
 
 ★ Stars: 147
 
 [Open repository](https://github.com/axieinfinity/ronin-smart-contracts)
+
+[Open detailed stats for axieinfinity/ronin-smart-contracts](https://reviewgithub.com/rep/axieinfinity/ronin-smart-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 146 | 68 | 
 | 2022-09-07 | 146 | 68 | 
 
-
-[Detailed charts & statistics for axieinfinity/ronin-smart-contracts](https://reviewgithub.com/rep/axieinfinity/ronin-smart-contracts)

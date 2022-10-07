@@ -1,12 +1,14 @@
 # ellenhp/headway - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 51
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ellenhp/headway)
+
+[Open detailed stats for ellenhp/headway](https://reviewgithub.com/rep/ellenhp/headway)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 33 | 
 | 2022-09-07 | 1 | 33 | 
 
-
-[Detailed charts & statistics for ellenhp/headway](https://reviewgithub.com/rep/ellenhp/headway)

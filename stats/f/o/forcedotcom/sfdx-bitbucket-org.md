@@ -1,12 +1,14 @@
 # forcedotcom/sfdx-bitbucket-org - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 68
 
 ★ Stars: 25
 
 [Open repository](https://github.com/forcedotcom/sfdx-bitbucket-org)
+
+[Open detailed stats for forcedotcom/sfdx-bitbucket-org](https://reviewgithub.com/rep/forcedotcom/sfdx-bitbucket-org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 65 | 
 | 2022-09-07 | 25 | 65 | 
 
-
-[Detailed charts & statistics for forcedotcom/sfdx-bitbucket-org](https://reviewgithub.com/rep/forcedotcom/sfdx-bitbucket-org)

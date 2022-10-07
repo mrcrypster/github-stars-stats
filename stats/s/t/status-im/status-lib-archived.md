@@ -1,12 +1,14 @@
 # status-im/status-lib-archived - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 6
 
 [Open repository](https://github.com/status-im/status-lib-archived)
+
+[Open detailed stats for status-im/status-lib-archived](https://reviewgithub.com/rep/status-im/status-lib-archived)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 3 | 
 | 2022-09-08 | 6 | 3 | 
 
-
-[Detailed charts & statistics for status-im/status-lib-archived](https://reviewgithub.com/rep/status-im/status-lib-archived)

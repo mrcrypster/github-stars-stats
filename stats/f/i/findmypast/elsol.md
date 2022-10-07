@@ -1,6 +1,6 @@
 # findmypast/elsol - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
@@ -8,11 +8,11 @@ Stats updated on Dec 54734, 12
 
 [Open repository](https://github.com/findmypast/elsol)
 
+[Open detailed stats for findmypast/elsol](https://reviewgithub.com/rep/findmypast/elsol)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 | 2022-10-07 | 9 | 4 | 
 | 2022-10-06 | 9 | 4 | 
 
-
-[Detailed charts & statistics for findmypast/elsol](https://reviewgithub.com/rep/findmypast/elsol)

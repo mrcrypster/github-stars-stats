@@ -1,12 +1,14 @@
 # luokeluo/objc4 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 24
 
 [Open repository](https://github.com/luokeluo/objc4)
+
+[Open detailed stats for luokeluo/objc4](https://reviewgithub.com/rep/luokeluo/objc4)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 4 | 
 | 2022-09-08 | 24 | 5 | 
 
-
-[Detailed charts & statistics for luokeluo/objc4](https://reviewgithub.com/rep/luokeluo/objc4)

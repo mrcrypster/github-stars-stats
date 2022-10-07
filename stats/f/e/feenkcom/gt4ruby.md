@@ -1,12 +1,14 @@
 # feenkcom/gt4ruby - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/feenkcom/gt4ruby)
+
+[Open detailed stats for feenkcom/gt4ruby](https://reviewgithub.com/rep/feenkcom/gt4ruby)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for feenkcom/gt4ruby](https://reviewgithub.com/rep/feenkcom/gt4ruby)

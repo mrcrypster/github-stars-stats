@@ -1,12 +1,14 @@
 # Mayanwolfe/todo-CRUD-exercise - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 10
 
 [Open repository](https://github.com/Mayanwolfe/todo-CRUD-exercise)
+
+[Open detailed stats for Mayanwolfe/todo-CRUD-exercise](https://reviewgithub.com/rep/Mayanwolfe/todo-CRUD-exercise)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 35 | 
 | 2022-09-08 | 10 | 35 | 
 
-
-[Detailed charts & statistics for Mayanwolfe/todo-CRUD-exercise](https://reviewgithub.com/rep/Mayanwolfe/todo-CRUD-exercise)

@@ -1,12 +1,14 @@
 # Shopify/shopify-css-import - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 80
 
 [Open repository](https://github.com/Shopify/shopify-css-import)
+
+[Open detailed stats for Shopify/shopify-css-import](https://reviewgithub.com/rep/Shopify/shopify-css-import)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 80 | 17 | 
 | 2022-09-08 | 80 | 17 | 
 
-
-[Detailed charts & statistics for Shopify/shopify-css-import](https://reviewgithub.com/rep/Shopify/shopify-css-import)

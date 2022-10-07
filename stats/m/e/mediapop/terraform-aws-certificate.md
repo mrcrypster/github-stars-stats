@@ -1,12 +1,14 @@
 # mediapop/terraform-aws-certificate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 3
 
 [Open repository](https://github.com/mediapop/terraform-aws-certificate)
+
+[Open detailed stats for mediapop/terraform-aws-certificate](https://reviewgithub.com/rep/mediapop/terraform-aws-certificate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 4 | 
 | 2022-09-08 | 3 | 4 | 
 
-
-[Detailed charts & statistics for mediapop/terraform-aws-certificate](https://reviewgithub.com/rep/mediapop/terraform-aws-certificate)

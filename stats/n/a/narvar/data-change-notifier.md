@@ -1,12 +1,14 @@
 # narvar/data-change-notifier - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/narvar/data-change-notifier)
+
+[Open detailed stats for narvar/data-change-notifier](https://reviewgithub.com/rep/narvar/data-change-notifier)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | - | - | 
 | 2022-09-10 | - | - | 
 
-
-[Detailed charts & statistics for narvar/data-change-notifier](https://reviewgithub.com/rep/narvar/data-change-notifier)

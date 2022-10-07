@@ -1,12 +1,14 @@
 # ChrisChrisLoLo/beyblock20 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 192
 
 [Open repository](https://github.com/ChrisChrisLoLo/beyblock20)
+
+[Open detailed stats for ChrisChrisLoLo/beyblock20](https://reviewgithub.com/rep/ChrisChrisLoLo/beyblock20)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 178 | 1 | 
 | 2022-09-07 | 178 | 1 | 
 
-
-[Detailed charts & statistics for ChrisChrisLoLo/beyblock20](https://reviewgithub.com/rep/ChrisChrisLoLo/beyblock20)

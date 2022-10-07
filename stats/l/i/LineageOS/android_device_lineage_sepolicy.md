@@ -1,12 +1,14 @@
 # LineageOS/android_device_lineage_sepolicy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 93
 
 ★ Stars: 4
 
 [Open repository](https://github.com/LineageOS/android_device_lineage_sepolicy)
+
+[Open detailed stats for LineageOS/android_device_lineage_sepolicy](https://reviewgithub.com/rep/LineageOS/android_device_lineage_sepolicy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 90 | 
 | 2022-09-08 | 3 | 90 | 
 
-
-[Detailed charts & statistics for LineageOS/android_device_lineage_sepolicy](https://reviewgithub.com/rep/LineageOS/android_device_lineage_sepolicy)

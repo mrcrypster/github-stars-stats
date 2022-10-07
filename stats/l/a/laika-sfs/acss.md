@@ -1,12 +1,14 @@
 # laika-sfs/acss - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/laika-sfs/acss)
+
+[Open detailed stats for laika-sfs/acss](https://reviewgithub.com/rep/laika-sfs/acss)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 2 | 
 | 2022-09-07 | 3 | 2 | 
 
-
-[Detailed charts & statistics for laika-sfs/acss](https://reviewgithub.com/rep/laika-sfs/acss)

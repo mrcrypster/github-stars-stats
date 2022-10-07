@@ -1,12 +1,14 @@
 # adrianfilip/reservation-booker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 33
 
 [Open repository](https://github.com/adrianfilip/reservation-booker)
+
+[Open detailed stats for adrianfilip/reservation-booker](https://reviewgithub.com/rep/adrianfilip/reservation-booker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 31 | 9 | 
 | 2022-09-07 | 31 | 9 | 
 
-
-[Detailed charts & statistics for adrianfilip/reservation-booker](https://reviewgithub.com/rep/adrianfilip/reservation-booker)

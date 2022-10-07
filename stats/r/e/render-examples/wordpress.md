@@ -1,12 +1,14 @@
 # render-examples/wordpress - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 13
 
 [Open repository](https://github.com/render-examples/wordpress)
+
+[Open detailed stats for render-examples/wordpress](https://reviewgithub.com/rep/render-examples/wordpress)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 64 | 
 | 2022-09-07 | 10 | 64 | 
 
-
-[Detailed charts & statistics for render-examples/wordpress](https://reviewgithub.com/rep/render-examples/wordpress)

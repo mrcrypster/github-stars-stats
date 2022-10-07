@@ -1,12 +1,14 @@
 # j-brant/RBFormatter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/j-brant/RBFormatter)
+
+[Open detailed stats for j-brant/RBFormatter](https://reviewgithub.com/rep/j-brant/RBFormatter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for j-brant/RBFormatter](https://reviewgithub.com/rep/j-brant/RBFormatter)

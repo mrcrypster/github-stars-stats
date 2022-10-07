@@ -1,12 +1,14 @@
 # farrukh90/k8s-apps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/farrukh90/k8s-apps)
+
+[Open detailed stats for farrukh90/k8s-apps](https://reviewgithub.com/rep/farrukh90/k8s-apps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 6 | 
 | 2022-09-08 | - | 6 | 
 
-
-[Detailed charts & statistics for farrukh90/k8s-apps](https://reviewgithub.com/rep/farrukh90/k8s-apps)

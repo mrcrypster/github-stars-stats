@@ -1,12 +1,14 @@
 # hopsoft/turbo_ready - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 167
 
 [Open repository](https://github.com/hopsoft/turbo_ready)
+
+[Open detailed stats for hopsoft/turbo_ready](https://reviewgithub.com/rep/hopsoft/turbo_ready)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 149 | 5 | 
 | 2022-09-07 | 148 | 5 | 
 
-
-[Detailed charts & statistics for hopsoft/turbo_ready](https://reviewgithub.com/rep/hopsoft/turbo_ready)

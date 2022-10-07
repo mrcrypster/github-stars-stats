@@ -1,12 +1,14 @@
 # qbcore-framework/qb-spawn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 150
 
 ★ Stars: 15
 
 [Open repository](https://github.com/qbcore-framework/qb-spawn)
+
+[Open detailed stats for qbcore-framework/qb-spawn](https://reviewgithub.com/rep/qbcore-framework/qb-spawn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 15 | 147 | 
 | 2022-09-08 | 14 | 147 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-spawn](https://reviewgithub.com/rep/qbcore-framework/qb-spawn)

@@ -1,12 +1,14 @@
 # c0ldlimit/vimcolors - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/c0ldlimit/vimcolors)
+
+[Open detailed stats for c0ldlimit/vimcolors](https://reviewgithub.com/rep/c0ldlimit/vimcolors)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | - | 4 | 
 | 2022-09-20 | - | 4 | 
 
-
-[Detailed charts & statistics for c0ldlimit/vimcolors](https://reviewgithub.com/rep/c0ldlimit/vimcolors)

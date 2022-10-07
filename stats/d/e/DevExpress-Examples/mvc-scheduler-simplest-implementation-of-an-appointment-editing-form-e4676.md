@@ -1,12 +1,14 @@
 # DevExpress-Examples/mvc-scheduler-simplest-implementation-of-an-appointment-editing-form-e4676 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DevExpress-Examples/mvc-scheduler-simplest-implementation-of-an-appointment-editing-form-e4676)
+
+[Open detailed stats for DevExpress-Examples/mvc-scheduler-simplest-implementation-of-an-appointment-editing-form-e4676](https://reviewgithub.com/rep/DevExpress-Examples/mvc-scheduler-simplest-implementation-of-an-appointment-editing-form-e4676)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for DevExpress-Examples/mvc-scheduler-simplest-implementation-of-an-appointment-editing-form-e4676](https://reviewgithub.com/rep/DevExpress-Examples/mvc-scheduler-simplest-implementation-of-an-appointment-editing-form-e4676)

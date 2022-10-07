@@ -1,12 +1,14 @@
 # RestKit/RKValueTransformers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 35
 
 ★ Stars: 74
 
 [Open repository](https://github.com/RestKit/RKValueTransformers)
+
+[Open detailed stats for RestKit/RKValueTransformers](https://reviewgithub.com/rep/RestKit/RKValueTransformers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 74 | 35 | 
 | 2022-09-07 | 74 | 35 | 
 
-
-[Detailed charts & statistics for RestKit/RKValueTransformers](https://reviewgithub.com/rep/RestKit/RKValueTransformers)

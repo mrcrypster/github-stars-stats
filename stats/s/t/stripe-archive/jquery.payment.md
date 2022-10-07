@@ -1,12 +1,14 @@
 # stripe-archive/jquery.payment - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 708
 
 ★ Stars: 3560
 
 [Open repository](https://github.com/stripe-archive/jquery.payment)
+
+[Open detailed stats for stripe-archive/jquery.payment](https://reviewgithub.com/rep/stripe-archive/jquery.payment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3562 | 710 | 
 | 2022-09-07 | 3562 | 710 | 
 
-
-[Detailed charts & statistics for stripe-archive/jquery.payment](https://reviewgithub.com/rep/stripe-archive/jquery.payment)

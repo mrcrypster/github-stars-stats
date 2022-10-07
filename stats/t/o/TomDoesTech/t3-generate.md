@@ -1,12 +1,14 @@
 # TomDoesTech/t3-generate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/TomDoesTech/t3-generate)
+
+[Open detailed stats for TomDoesTech/t3-generate](https://reviewgithub.com/rep/TomDoesTech/t3-generate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | - | 
 | 2022-09-07 | 7 | - | 
 
-
-[Detailed charts & statistics for TomDoesTech/t3-generate](https://reviewgithub.com/rep/TomDoesTech/t3-generate)

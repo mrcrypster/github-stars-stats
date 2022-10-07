@@ -1,12 +1,14 @@
 # qbcore-framework/qb-npwd - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 62
 
 ★ Stars: 13
 
 [Open repository](https://github.com/qbcore-framework/qb-npwd)
+
+[Open detailed stats for qbcore-framework/qb-npwd](https://reviewgithub.com/rep/qbcore-framework/qb-npwd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 13 | 59 | 
 | 2022-09-20 | 13 | 59 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-npwd](https://reviewgithub.com/rep/qbcore-framework/qb-npwd)

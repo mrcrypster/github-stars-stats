@@ -1,12 +1,14 @@
 # denrat/term-cursor.el - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 21
 
 [Open repository](https://github.com/denrat/term-cursor.el)
+
+[Open detailed stats for denrat/term-cursor.el](https://reviewgithub.com/rep/denrat/term-cursor.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 21 | 1 | 
 | 2022-09-07 | 21 | 1 | 
 
-
-[Detailed charts & statistics for denrat/term-cursor.el](https://reviewgithub.com/rep/denrat/term-cursor.el)

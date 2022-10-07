@@ -1,12 +1,14 @@
 # imranxdevF/EYHN7 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 45
 
 [Open repository](https://github.com/imranxdevF/EYHN7)
+
+[Open detailed stats for imranxdevF/EYHN7](https://reviewgithub.com/rep/imranxdevF/EYHN7)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 26 | 
 | 2022-09-07 | 45 | 26 | 
 
-
-[Detailed charts & statistics for imranxdevF/EYHN7](https://reviewgithub.com/rep/imranxdevF/EYHN7)

@@ -1,12 +1,14 @@
 # procore/elixir-sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 7
 
 [Open repository](https://github.com/procore/elixir-sdk)
+
+[Open detailed stats for procore/elixir-sdk](https://reviewgithub.com/rep/procore/elixir-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 7 | 3 | 
 | 2022-09-08 | 7 | 3 | 
 
-
-[Detailed charts & statistics for procore/elixir-sdk](https://reviewgithub.com/rep/procore/elixir-sdk)

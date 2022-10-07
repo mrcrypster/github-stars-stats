@@ -1,12 +1,14 @@
 # Retrospected/spring-rce-poc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 88
 
 [Open repository](https://github.com/Retrospected/spring-rce-poc)
+
+[Open detailed stats for Retrospected/spring-rce-poc](https://reviewgithub.com/rep/Retrospected/spring-rce-poc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 86 | 23 | 
 | 2022-09-07 | 86 | 23 | 
 
-
-[Detailed charts & statistics for Retrospected/spring-rce-poc](https://reviewgithub.com/rep/Retrospected/spring-rce-poc)

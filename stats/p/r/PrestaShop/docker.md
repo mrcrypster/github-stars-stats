@@ -1,12 +1,14 @@
 # PrestaShop/docker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 161
 
 ★ Stars: 210
 
 [Open repository](https://github.com/PrestaShop/docker)
+
+[Open detailed stats for PrestaShop/docker](https://reviewgithub.com/rep/PrestaShop/docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 208 | 160 | 
 | 2022-09-07 | 208 | 160 | 
 
-
-[Detailed charts & statistics for PrestaShop/docker](https://reviewgithub.com/rep/PrestaShop/docker)

@@ -1,12 +1,14 @@
 # chandsie/dotfiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/chandsie/dotfiles)
+
+[Open detailed stats for chandsie/dotfiles](https://reviewgithub.com/rep/chandsie/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | - | - | 
 | 2022-09-27 | - | - | 
 
-
-[Detailed charts & statistics for chandsie/dotfiles](https://reviewgithub.com/rep/chandsie/dotfiles)

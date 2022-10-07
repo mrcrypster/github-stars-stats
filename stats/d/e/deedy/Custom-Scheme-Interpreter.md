@@ -1,12 +1,14 @@
 # deedy/Custom-Scheme-Interpreter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 5
 
 [Open repository](https://github.com/deedy/Custom-Scheme-Interpreter)
+
+[Open detailed stats for deedy/Custom-Scheme-Interpreter](https://reviewgithub.com/rep/deedy/Custom-Scheme-Interpreter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 4 | 
 | 2022-09-07 | 5 | 4 | 
 
-
-[Detailed charts & statistics for deedy/Custom-Scheme-Interpreter](https://reviewgithub.com/rep/deedy/Custom-Scheme-Interpreter)

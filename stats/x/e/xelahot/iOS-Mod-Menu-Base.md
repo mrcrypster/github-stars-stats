@@ -1,12 +1,14 @@
 # xelahot/iOS-Mod-Menu-Base - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 53
 
 [Open repository](https://github.com/xelahot/iOS-Mod-Menu-Base)
+
+[Open detailed stats for xelahot/iOS-Mod-Menu-Base](https://reviewgithub.com/rep/xelahot/iOS-Mod-Menu-Base)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 50 | 15 | 
 | 2022-09-08 | 50 | 15 | 
 
-
-[Detailed charts & statistics for xelahot/iOS-Mod-Menu-Base](https://reviewgithub.com/rep/xelahot/iOS-Mod-Menu-Base)

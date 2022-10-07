@@ -1,12 +1,14 @@
 # dowalle/algo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 50
 
 [Open repository](https://github.com/dowalle/algo)
+
+[Open detailed stats for dowalle/algo](https://reviewgithub.com/rep/dowalle/algo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 14 | 
 | 2022-09-07 | 48 | 14 | 
 
-
-[Detailed charts & statistics for dowalle/algo](https://reviewgithub.com/rep/dowalle/algo)

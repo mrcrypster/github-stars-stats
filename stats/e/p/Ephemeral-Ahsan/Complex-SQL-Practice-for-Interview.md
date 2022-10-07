@@ -1,12 +1,14 @@
 # Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 74
 
 [Open repository](https://github.com/Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview)
+
+[Open detailed stats for Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview](https://reviewgithub.com/rep/Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 73 | 24 | 
 | 2022-09-07 | 73 | 24 | 
 
-
-[Detailed charts & statistics for Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview](https://reviewgithub.com/rep/Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview)

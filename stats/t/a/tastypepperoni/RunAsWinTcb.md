@@ -1,12 +1,14 @@
 # tastypepperoni/RunAsWinTcb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 102
 
 [Open repository](https://github.com/tastypepperoni/RunAsWinTcb)
+
+[Open detailed stats for tastypepperoni/RunAsWinTcb](https://reviewgithub.com/rep/tastypepperoni/RunAsWinTcb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 100 | 13 | 
 | 2022-09-08 | 100 | 13 | 
 
-
-[Detailed charts & statistics for tastypepperoni/RunAsWinTcb](https://reviewgithub.com/rep/tastypepperoni/RunAsWinTcb)

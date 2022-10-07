@@ -1,12 +1,14 @@
 # aquasecurity/aqua-helm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 141
 
 ★ Stars: 68
 
 [Open repository](https://github.com/aquasecurity/aqua-helm)
+
+[Open detailed stats for aquasecurity/aqua-helm](https://reviewgithub.com/rep/aquasecurity/aqua-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 66 | 136 | 
 | 2022-09-07 | 66 | 136 | 
 
-
-[Detailed charts & statistics for aquasecurity/aqua-helm](https://reviewgithub.com/rep/aquasecurity/aqua-helm)

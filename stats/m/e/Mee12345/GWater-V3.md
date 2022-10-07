@@ -1,12 +1,14 @@
 # Mee12345/GWater-V3 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 37
 
 [Open repository](https://github.com/Mee12345/GWater-V3)
+
+[Open detailed stats for Mee12345/GWater-V3](https://reviewgithub.com/rep/Mee12345/GWater-V3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 21 | 
 | 2022-09-07 | 36 | 21 | 
 
-
-[Detailed charts & statistics for Mee12345/GWater-V3](https://reviewgithub.com/rep/Mee12345/GWater-V3)

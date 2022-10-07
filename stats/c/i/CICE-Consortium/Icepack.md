@@ -1,12 +1,14 @@
 # CICE-Consortium/Icepack - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 94
 
 ★ Stars: 18
 
 [Open repository](https://github.com/CICE-Consortium/Icepack)
+
+[Open detailed stats for CICE-Consortium/Icepack](https://reviewgithub.com/rep/CICE-Consortium/Icepack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | 94 | 
 | 2022-09-08 | 18 | 93 | 
 
-
-[Detailed charts & statistics for CICE-Consortium/Icepack](https://reviewgithub.com/rep/CICE-Consortium/Icepack)

@@ -1,12 +1,14 @@
 # MicrosoftDocs/microsoft-365-docs-pr.nl-NL - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 4
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs-pr.nl-NL)
+
+[Open detailed stats for MicrosoftDocs/microsoft-365-docs-pr.nl-NL](https://reviewgithub.com/rep/MicrosoftDocs/microsoft-365-docs-pr.nl-NL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 4 | 
 | 2022-09-07 | 4 | 4 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/microsoft-365-docs-pr.nl-NL](https://reviewgithub.com/rep/MicrosoftDocs/microsoft-365-docs-pr.nl-NL)

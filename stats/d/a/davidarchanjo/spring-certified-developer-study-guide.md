@@ -1,12 +1,14 @@
 # davidarchanjo/spring-certified-developer-study-guide - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 50
 
 [Open repository](https://github.com/davidarchanjo/spring-certified-developer-study-guide)
+
+[Open detailed stats for davidarchanjo/spring-certified-developer-study-guide](https://reviewgithub.com/rep/davidarchanjo/spring-certified-developer-study-guide)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 50 | 20 | 
 | 2022-09-07 | 50 | 20 | 
 
-
-[Detailed charts & statistics for davidarchanjo/spring-certified-developer-study-guide](https://reviewgithub.com/rep/davidarchanjo/spring-certified-developer-study-guide)

@@ -1,12 +1,14 @@
 # rjbs/Email-Sender - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 51
 
 [Open repository](https://github.com/rjbs/Email-Sender)
+
+[Open detailed stats for rjbs/Email-Sender](https://reviewgithub.com/rep/rjbs/Email-Sender)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 51 | 38 | 
 | 2022-09-07 | 51 | 38 | 
 
-
-[Detailed charts & statistics for rjbs/Email-Sender](https://reviewgithub.com/rep/rjbs/Email-Sender)

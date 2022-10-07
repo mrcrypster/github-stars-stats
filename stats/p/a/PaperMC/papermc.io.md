@@ -1,12 +1,14 @@
 # PaperMC/papermc.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 109
 
 [Open repository](https://github.com/PaperMC/papermc.io)
+
+[Open detailed stats for PaperMC/papermc.io](https://reviewgithub.com/rep/PaperMC/papermc.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 108 | 55 | 
 | 2022-09-07 | 108 | 55 | 
 
-
-[Detailed charts & statistics for PaperMC/papermc.io](https://reviewgithub.com/rep/PaperMC/papermc.io)

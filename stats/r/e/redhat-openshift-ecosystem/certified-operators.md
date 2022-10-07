@@ -1,12 +1,14 @@
 # redhat-openshift-ecosystem/certified-operators - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 262
 
 ★ Stars: 21
 
 [Open repository](https://github.com/redhat-openshift-ecosystem/certified-operators)
+
+[Open detailed stats for redhat-openshift-ecosystem/certified-operators](https://reviewgithub.com/rep/redhat-openshift-ecosystem/certified-operators)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 251 | 
 | 2022-09-08 | 19 | 251 | 
 
-
-[Detailed charts & statistics for redhat-openshift-ecosystem/certified-operators](https://reviewgithub.com/rep/redhat-openshift-ecosystem/certified-operators)

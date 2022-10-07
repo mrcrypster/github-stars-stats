@@ -1,12 +1,14 @@
 # mparticle-integrations/mparticle-apple-integration-branchmetrics - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 3
 
 [Open repository](https://github.com/mparticle-integrations/mparticle-apple-integration-branchmetrics)
+
+[Open detailed stats for mparticle-integrations/mparticle-apple-integration-branchmetrics](https://reviewgithub.com/rep/mparticle-integrations/mparticle-apple-integration-branchmetrics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 24 | 
 | 2022-09-08 | 3 | 24 | 
 
-
-[Detailed charts & statistics for mparticle-integrations/mparticle-apple-integration-branchmetrics](https://reviewgithub.com/rep/mparticle-integrations/mparticle-apple-integration-branchmetrics)

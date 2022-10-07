@@ -1,12 +1,14 @@
 # movabletype/mt-theme-rainier - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 5
 
 [Open repository](https://github.com/movabletype/mt-theme-rainier)
+
+[Open detailed stats for movabletype/mt-theme-rainier](https://reviewgithub.com/rep/movabletype/mt-theme-rainier)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 5 | 5 | 
 | 2022-09-09 | 5 | 5 | 
 
-
-[Detailed charts & statistics for movabletype/mt-theme-rainier](https://reviewgithub.com/rep/movabletype/mt-theme-rainier)

@@ -1,12 +1,14 @@
 # ProjectTSB/TheSkyBlessing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 54
 
 [Open repository](https://github.com/ProjectTSB/TheSkyBlessing)
+
+[Open detailed stats for ProjectTSB/TheSkyBlessing](https://reviewgithub.com/rep/ProjectTSB/TheSkyBlessing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 52 | 3 | 
 | 2022-09-08 | 52 | 3 | 
 
-
-[Detailed charts & statistics for ProjectTSB/TheSkyBlessing](https://reviewgithub.com/rep/ProjectTSB/TheSkyBlessing)

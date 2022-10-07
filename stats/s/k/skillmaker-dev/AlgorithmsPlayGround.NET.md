@@ -1,12 +1,14 @@
 # skillmaker-dev/AlgorithmsPlayGround.NET - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 91
 
 [Open repository](https://github.com/skillmaker-dev/AlgorithmsPlayGround.NET)
+
+[Open detailed stats for skillmaker-dev/AlgorithmsPlayGround.NET](https://reviewgithub.com/rep/skillmaker-dev/AlgorithmsPlayGround.NET)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 85 | 3 | 
 | 2022-09-08 | 80 | 3 | 
 
-
-[Detailed charts & statistics for skillmaker-dev/AlgorithmsPlayGround.NET](https://reviewgithub.com/rep/skillmaker-dev/AlgorithmsPlayGround.NET)

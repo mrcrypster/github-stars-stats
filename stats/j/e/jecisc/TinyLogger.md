@@ -1,12 +1,14 @@
 # jecisc/TinyLogger - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 13
 
 [Open repository](https://github.com/jecisc/TinyLogger)
+
+[Open detailed stats for jecisc/TinyLogger](https://reviewgithub.com/rep/jecisc/TinyLogger)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 4 | 
 | 2022-09-07 | 11 | 4 | 
 
-
-[Detailed charts & statistics for jecisc/TinyLogger](https://reviewgithub.com/rep/jecisc/TinyLogger)

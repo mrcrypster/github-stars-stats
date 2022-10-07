@@ -1,12 +1,14 @@
 # Sekomer/Victim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 43
 
 [Open repository](https://github.com/Sekomer/Victim)
+
+[Open detailed stats for Sekomer/Victim](https://reviewgithub.com/rep/Sekomer/Victim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 2 | 
 | 2022-09-07 | 43 | 2 | 
 
-
-[Detailed charts & statistics for Sekomer/Victim](https://reviewgithub.com/rep/Sekomer/Victim)

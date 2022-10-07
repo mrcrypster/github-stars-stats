@@ -1,12 +1,14 @@
 # Martin911567/CryptBB_RDP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Martin911567/CryptBB_RDP)
+
+[Open detailed stats for Martin911567/CryptBB_RDP](https://reviewgithub.com/rep/Martin911567/CryptBB_RDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 1 | 7 | 
 | 2022-10-04 | 1 | 5 | 
 
-
-[Detailed charts & statistics for Martin911567/CryptBB_RDP](https://reviewgithub.com/rep/Martin911567/CryptBB_RDP)

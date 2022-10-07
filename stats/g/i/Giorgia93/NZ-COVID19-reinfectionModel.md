@@ -1,12 +1,14 @@
 # Giorgia93/NZ-COVID19-reinfectionModel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Giorgia93/NZ-COVID19-reinfectionModel)
+
+[Open detailed stats for Giorgia93/NZ-COVID19-reinfectionModel](https://reviewgithub.com/rep/Giorgia93/NZ-COVID19-reinfectionModel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for Giorgia93/NZ-COVID19-reinfectionModel](https://reviewgithub.com/rep/Giorgia93/NZ-COVID19-reinfectionModel)

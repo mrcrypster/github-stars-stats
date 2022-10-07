@@ -1,12 +1,14 @@
 # jgthms/html-reference - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 133
 
 ★ Stars: 903
 
 [Open repository](https://github.com/jgthms/html-reference)
+
+[Open detailed stats for jgthms/html-reference](https://reviewgithub.com/rep/jgthms/html-reference)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 901 | 133 | 
 | 2022-09-07 | 901 | 133 | 
 
-
-[Detailed charts & statistics for jgthms/html-reference](https://reviewgithub.com/rep/jgthms/html-reference)

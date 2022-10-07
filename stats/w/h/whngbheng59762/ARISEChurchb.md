@@ -1,12 +1,14 @@
 # whngbheng59762/ARISEChurchb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 55
 
 [Open repository](https://github.com/whngbheng59762/ARISEChurchb)
+
+[Open detailed stats for whngbheng59762/ARISEChurchb](https://reviewgithub.com/rep/whngbheng59762/ARISEChurchb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 55 | 24 | 
 | 2022-09-08 | 55 | 24 | 
 
-
-[Detailed charts & statistics for whngbheng59762/ARISEChurchb](https://reviewgithub.com/rep/whngbheng59762/ARISEChurchb)

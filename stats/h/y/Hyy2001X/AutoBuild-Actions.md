@@ -1,12 +1,14 @@
 # Hyy2001X/AutoBuild-Actions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 684
 
 ★ Stars: 652
 
 [Open repository](https://github.com/Hyy2001X/AutoBuild-Actions)
+
+[Open detailed stats for Hyy2001X/AutoBuild-Actions](https://reviewgithub.com/rep/Hyy2001X/AutoBuild-Actions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 629 | 661 | 
 | 2022-09-07 | 628 | 660 | 
 
-
-[Detailed charts & statistics for Hyy2001X/AutoBuild-Actions](https://reviewgithub.com/rep/Hyy2001X/AutoBuild-Actions)

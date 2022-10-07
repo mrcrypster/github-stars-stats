@@ -1,12 +1,14 @@
 # MokkeMeguru/spa_guide_sns_server - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/MokkeMeguru/spa_guide_sns_server)
+
+[Open detailed stats for MokkeMeguru/spa_guide_sns_server](https://reviewgithub.com/rep/MokkeMeguru/spa_guide_sns_server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for MokkeMeguru/spa_guide_sns_server](https://reviewgithub.com/rep/MokkeMeguru/spa_guide_sns_server)

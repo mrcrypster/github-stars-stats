@@ -1,12 +1,14 @@
 # FilipePS/Traduzir-paginas-web - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 129
 
 ★ Stars: 1436
 
 [Open repository](https://github.com/FilipePS/Traduzir-paginas-web)
+
+[Open detailed stats for FilipePS/Traduzir-paginas-web](https://reviewgithub.com/rep/FilipePS/Traduzir-paginas-web)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 1399 | 127 | 
 | 2022-09-30 | 1395 | 127 | 
 
-
-[Detailed charts & statistics for FilipePS/Traduzir-paginas-web](https://reviewgithub.com/rep/FilipePS/Traduzir-paginas-web)

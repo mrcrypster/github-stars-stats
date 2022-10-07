@@ -1,12 +1,14 @@
 # ZYPetkova20/Historical-Geography-Project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 12
 
 [Open repository](https://github.com/ZYPetkova20/Historical-Geography-Project)
+
+[Open detailed stats for ZYPetkova20/Historical-Geography-Project](https://reviewgithub.com/rep/ZYPetkova20/Historical-Geography-Project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | 1 | 
 | 2022-09-08 | 12 | 1 | 
 
-
-[Detailed charts & statistics for ZYPetkova20/Historical-Geography-Project](https://reviewgithub.com/rep/ZYPetkova20/Historical-Geography-Project)

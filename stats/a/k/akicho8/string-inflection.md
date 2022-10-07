@@ -1,12 +1,14 @@
 # akicho8/string-inflection - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 208
 
 [Open repository](https://github.com/akicho8/string-inflection)
+
+[Open detailed stats for akicho8/string-inflection](https://reviewgithub.com/rep/akicho8/string-inflection)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 207 | 20 | 
 | 2022-09-08 | 207 | 20 | 
 
-
-[Detailed charts & statistics for akicho8/string-inflection](https://reviewgithub.com/rep/akicho8/string-inflection)

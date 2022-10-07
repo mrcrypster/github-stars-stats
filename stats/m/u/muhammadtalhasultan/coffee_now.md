@@ -1,12 +1,14 @@
 # muhammadtalhasultan/coffee_now - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 64
 
 [Open repository](https://github.com/muhammadtalhasultan/coffee_now)
+
+[Open detailed stats for muhammadtalhasultan/coffee_now](https://reviewgithub.com/rep/muhammadtalhasultan/coffee_now)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 62 | 23 | 
 | 2022-09-07 | 62 | 23 | 
 
-
-[Detailed charts & statistics for muhammadtalhasultan/coffee_now](https://reviewgithub.com/rep/muhammadtalhasultan/coffee_now)

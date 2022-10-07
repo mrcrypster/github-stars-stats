@@ -1,12 +1,14 @@
 # seattle-biomed/sbri-bind - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/seattle-biomed/sbri-bind)
+
+[Open detailed stats for seattle-biomed/sbri-bind](https://reviewgithub.com/rep/seattle-biomed/sbri-bind)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-02 | - | 1 | 
 | 2022-10-01 | - | 1 | 
 
-
-[Detailed charts & statistics for seattle-biomed/sbri-bind](https://reviewgithub.com/rep/seattle-biomed/sbri-bind)

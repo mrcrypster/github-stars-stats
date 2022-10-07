@@ -1,12 +1,14 @@
 # DACSS/Text_as_Data_Fall_2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DACSS/Text_as_Data_Fall_2022)
+
+[Open detailed stats for DACSS/Text_as_Data_Fall_2022](https://reviewgithub.com/rep/DACSS/Text_as_Data_Fall_2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | - | 19 | 
 | 2022-09-13 | - | 19 | 
 
-
-[Detailed charts & statistics for DACSS/Text_as_Data_Fall_2022](https://reviewgithub.com/rep/DACSS/Text_as_Data_Fall_2022)

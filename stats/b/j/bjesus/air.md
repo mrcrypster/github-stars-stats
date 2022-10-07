@@ -1,12 +1,14 @@
 # bjesus/air - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/bjesus/air)
+
+[Open detailed stats for bjesus/air](https://reviewgithub.com/rep/bjesus/air)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 25 | - | 
 | 2022-09-08 | 25 | - | 
 
-
-[Detailed charts & statistics for bjesus/air](https://reviewgithub.com/rep/bjesus/air)

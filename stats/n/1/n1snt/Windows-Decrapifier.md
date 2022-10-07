@@ -1,12 +1,14 @@
 # n1snt/Windows-Decrapifier - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 47
 
 ★ Stars: 235
 
 [Open repository](https://github.com/n1snt/Windows-Decrapifier)
+
+[Open detailed stats for n1snt/Windows-Decrapifier](https://reviewgithub.com/rep/n1snt/Windows-Decrapifier)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 229 | 46 | 
 | 2022-09-08 | 229 | 46 | 
 
-
-[Detailed charts & statistics for n1snt/Windows-Decrapifier](https://reviewgithub.com/rep/n1snt/Windows-Decrapifier)

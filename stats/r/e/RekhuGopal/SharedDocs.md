@@ -1,12 +1,14 @@
 # RekhuGopal/SharedDocs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 83
 
 ★ Stars: 9
 
 [Open repository](https://github.com/RekhuGopal/SharedDocs)
+
+[Open detailed stats for RekhuGopal/SharedDocs](https://reviewgithub.com/rep/RekhuGopal/SharedDocs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 76 | 
 | 2022-09-08 | 7 | 76 | 
 
-
-[Detailed charts & statistics for RekhuGopal/SharedDocs](https://reviewgithub.com/rep/RekhuGopal/SharedDocs)

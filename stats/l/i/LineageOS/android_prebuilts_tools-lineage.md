@@ -1,12 +1,14 @@
 # LineageOS/android_prebuilts_tools-lineage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 2
 
 [Open repository](https://github.com/LineageOS/android_prebuilts_tools-lineage)
+
+[Open detailed stats for LineageOS/android_prebuilts_tools-lineage](https://reviewgithub.com/rep/LineageOS/android_prebuilts_tools-lineage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 12 | 
 | 2022-09-08 | 2 | 12 | 
 
-
-[Detailed charts & statistics for LineageOS/android_prebuilts_tools-lineage](https://reviewgithub.com/rep/LineageOS/android_prebuilts_tools-lineage)

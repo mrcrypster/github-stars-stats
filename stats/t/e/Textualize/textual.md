@@ -1,12 +1,14 @@
 # Textualize/textual - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 368
 
 ★ Stars: 13701
 
 [Open repository](https://github.com/Textualize/textual)
+
+[Open detailed stats for Textualize/textual](https://reviewgithub.com/rep/Textualize/textual)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13358 | 355 | 
 | 2022-09-07 | 13339 | 356 | 
 
-
-[Detailed charts & statistics for Textualize/textual](https://reviewgithub.com/rep/Textualize/textual)

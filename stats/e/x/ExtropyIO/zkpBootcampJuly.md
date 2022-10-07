@@ -1,12 +1,14 @@
 # ExtropyIO/zkpBootcampJuly - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ExtropyIO/zkpBootcampJuly)
+
+[Open detailed stats for ExtropyIO/zkpBootcampJuly](https://reviewgithub.com/rep/ExtropyIO/zkpBootcampJuly)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 16 | 
 | 2022-09-07 | 1 | 16 | 
 
-
-[Detailed charts & statistics for ExtropyIO/zkpBootcampJuly](https://reviewgithub.com/rep/ExtropyIO/zkpBootcampJuly)

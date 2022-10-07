@@ -1,12 +1,14 @@
 # shenlan2017/ShenLanSVL - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 22
 
 [Open repository](https://github.com/shenlan2017/ShenLanSVL)
+
+[Open detailed stats for shenlan2017/ShenLanSVL](https://reviewgithub.com/rep/shenlan2017/ShenLanSVL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 5 | 
 | 2022-09-07 | 20 | 5 | 
 
-
-[Detailed charts & statistics for shenlan2017/ShenLanSVL](https://reviewgithub.com/rep/shenlan2017/ShenLanSVL)

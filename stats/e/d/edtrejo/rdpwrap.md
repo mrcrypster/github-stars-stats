@@ -1,12 +1,14 @@
 # edtrejo/rdpwrap - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1848
 
 ★ Stars: 27
 
 [Open repository](https://github.com/edtrejo/rdpwrap)
+
+[Open detailed stats for edtrejo/rdpwrap](https://reviewgithub.com/rep/edtrejo/rdpwrap)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 27 | 1844 | 
 | 2022-09-07 | 27 | 1843 | 
 
-
-[Detailed charts & statistics for edtrejo/rdpwrap](https://reviewgithub.com/rep/edtrejo/rdpwrap)

@@ -1,12 +1,14 @@
 # MiSTer-devel/GnW_MiSTer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 11
 
 [Open repository](https://github.com/MiSTer-devel/GnW_MiSTer)
+
+[Open detailed stats for MiSTer-devel/GnW_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/GnW_MiSTer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 7 | 
 | 2022-09-07 | 11 | 7 | 
 
-
-[Detailed charts & statistics for MiSTer-devel/GnW_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/GnW_MiSTer)

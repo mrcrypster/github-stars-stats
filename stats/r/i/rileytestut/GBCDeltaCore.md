@@ -1,12 +1,14 @@
 # rileytestut/GBCDeltaCore - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 19
 
 [Open repository](https://github.com/rileytestut/GBCDeltaCore)
+
+[Open detailed stats for rileytestut/GBCDeltaCore](https://reviewgithub.com/rep/rileytestut/GBCDeltaCore)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 3 | 
 | 2022-09-08 | 19 | 3 | 
 
-
-[Detailed charts & statistics for rileytestut/GBCDeltaCore](https://reviewgithub.com/rep/rileytestut/GBCDeltaCore)

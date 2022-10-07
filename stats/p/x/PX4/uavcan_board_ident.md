@@ -1,12 +1,14 @@
 # PX4/uavcan_board_ident - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 2
 
 [Open repository](https://github.com/PX4/uavcan_board_ident)
+
+[Open detailed stats for PX4/uavcan_board_ident](https://reviewgithub.com/rep/PX4/uavcan_board_ident)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 25 | 
 | 2022-09-08 | 2 | 25 | 
 
-
-[Detailed charts & statistics for PX4/uavcan_board_ident](https://reviewgithub.com/rep/PX4/uavcan_board_ident)

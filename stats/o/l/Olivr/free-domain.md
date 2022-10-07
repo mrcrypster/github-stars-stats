@@ -1,12 +1,14 @@
 # Olivr/free-domain - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 215
 
 [Open repository](https://github.com/Olivr/free-domain)
+
+[Open detailed stats for Olivr/free-domain](https://reviewgithub.com/rep/Olivr/free-domain)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 187 | 116 | 
 | 2022-09-07 | 187 | 115 | 
 
-
-[Detailed charts & statistics for Olivr/free-domain](https://reviewgithub.com/rep/Olivr/free-domain)

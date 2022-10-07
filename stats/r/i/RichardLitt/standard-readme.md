@@ -1,12 +1,14 @@
 # RichardLitt/standard-readme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2373
 
 ★ Stars: 5068
 
 [Open repository](https://github.com/RichardLitt/standard-readme)
+
+[Open detailed stats for RichardLitt/standard-readme](https://reviewgithub.com/rep/RichardLitt/standard-readme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5023 | 2347 | 
 | 2022-09-08 | 5020 | 2348 | 
 
-
-[Detailed charts & statistics for RichardLitt/standard-readme](https://reviewgithub.com/rep/RichardLitt/standard-readme)

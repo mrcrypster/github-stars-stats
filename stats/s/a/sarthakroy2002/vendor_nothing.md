@@ -1,12 +1,14 @@
 # sarthakroy2002/vendor_nothing - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 12
 
 [Open repository](https://github.com/sarthakroy2002/vendor_nothing)
+
+[Open detailed stats for sarthakroy2002/vendor_nothing](https://reviewgithub.com/rep/sarthakroy2002/vendor_nothing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | 6 | 
 | 2022-09-08 | 12 | 6 | 
 
-
-[Detailed charts & statistics for sarthakroy2002/vendor_nothing](https://reviewgithub.com/rep/sarthakroy2002/vendor_nothing)

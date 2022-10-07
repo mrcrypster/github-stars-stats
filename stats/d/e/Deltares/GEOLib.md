@@ -1,12 +1,14 @@
 # Deltares/GEOLib - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 9
 
 [Open repository](https://github.com/Deltares/GEOLib)
+
+[Open detailed stats for Deltares/GEOLib](https://reviewgithub.com/rep/Deltares/GEOLib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 7 | 
 | 2022-09-07 | 8 | 7 | 
 
-
-[Detailed charts & statistics for Deltares/GEOLib](https://reviewgithub.com/rep/Deltares/GEOLib)

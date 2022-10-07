@@ -1,12 +1,14 @@
 # hms-dbmi-cellenics/pipeline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 23
 
 [Open repository](https://github.com/hms-dbmi-cellenics/pipeline)
+
+[Open detailed stats for hms-dbmi-cellenics/pipeline](https://reviewgithub.com/rep/hms-dbmi-cellenics/pipeline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 19 | 
 | 2022-09-07 | 23 | 19 | 
 
-
-[Detailed charts & statistics for hms-dbmi-cellenics/pipeline](https://reviewgithub.com/rep/hms-dbmi-cellenics/pipeline)

@@ -1,12 +1,14 @@
 # mateoconlechuga/cesium - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 151
 
 [Open repository](https://github.com/mateoconlechuga/cesium)
+
+[Open detailed stats for mateoconlechuga/cesium](https://reviewgithub.com/rep/mateoconlechuga/cesium)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 145 | 10 | 
 | 2022-09-07 | 144 | 10 | 
 
-
-[Detailed charts & statistics for mateoconlechuga/cesium](https://reviewgithub.com/rep/mateoconlechuga/cesium)

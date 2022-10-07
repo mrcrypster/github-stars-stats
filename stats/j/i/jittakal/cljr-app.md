@@ -1,12 +1,14 @@
 # jittakal/cljr-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/jittakal/cljr-app)
+
+[Open detailed stats for jittakal/cljr-app](https://reviewgithub.com/rep/jittakal/cljr-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for jittakal/cljr-app](https://reviewgithub.com/rep/jittakal/cljr-app)

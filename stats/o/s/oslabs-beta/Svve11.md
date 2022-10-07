@@ -1,12 +1,14 @@
 # oslabs-beta/Svve11 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 68
 
 [Open repository](https://github.com/oslabs-beta/Svve11)
+
+[Open detailed stats for oslabs-beta/Svve11](https://reviewgithub.com/rep/oslabs-beta/Svve11)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 66 | 4 | 
 | 2022-09-08 | 66 | 4 | 
 
-
-[Detailed charts & statistics for oslabs-beta/Svve11](https://reviewgithub.com/rep/oslabs-beta/Svve11)

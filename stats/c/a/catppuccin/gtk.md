@@ -1,12 +1,14 @@
 # catppuccin/gtk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 267
 
 [Open repository](https://github.com/catppuccin/gtk)
+
+[Open detailed stats for catppuccin/gtk](https://reviewgithub.com/rep/catppuccin/gtk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 226 | 6 | 
 | 2022-09-07 | 225 | 6 | 
 
-
-[Detailed charts & statistics for catppuccin/gtk](https://reviewgithub.com/rep/catppuccin/gtk)

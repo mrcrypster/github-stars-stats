@@ -1,12 +1,14 @@
 # wri/sentinel-tree-cover - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 95
 
 [Open repository](https://github.com/wri/sentinel-tree-cover)
+
+[Open detailed stats for wri/sentinel-tree-cover](https://reviewgithub.com/rep/wri/sentinel-tree-cover)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 95 | 21 | 
 | 2022-09-08 | 95 | 21 | 
 
-
-[Detailed charts & statistics for wri/sentinel-tree-cover](https://reviewgithub.com/rep/wri/sentinel-tree-cover)

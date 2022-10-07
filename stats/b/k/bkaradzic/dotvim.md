@@ -1,12 +1,14 @@
 # bkaradzic/dotvim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/bkaradzic/dotvim)
+
+[Open detailed stats for bkaradzic/dotvim](https://reviewgithub.com/rep/bkaradzic/dotvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | 9 | - | 
 | 2022-09-27 | 9 | - | 
 
-
-[Detailed charts & statistics for bkaradzic/dotvim](https://reviewgithub.com/rep/bkaradzic/dotvim)

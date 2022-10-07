@@ -1,12 +1,14 @@
 # wet-boew/wet-boew-wpss - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 28
 
 [Open repository](https://github.com/wet-boew/wet-boew-wpss)
+
+[Open detailed stats for wet-boew/wet-boew-wpss](https://reviewgithub.com/rep/wet-boew/wet-boew-wpss)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 18 | 
 | 2022-09-07 | 28 | 18 | 
 
-
-[Detailed charts & statistics for wet-boew/wet-boew-wpss](https://reviewgithub.com/rep/wet-boew/wet-boew-wpss)

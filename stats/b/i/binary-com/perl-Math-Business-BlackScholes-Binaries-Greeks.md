@@ -1,12 +1,14 @@
 # binary-com/perl-Math-Business-BlackScholes-Binaries-Greeks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-Math-Business-BlackScholes-Binaries-Greeks)
+
+[Open detailed stats for binary-com/perl-Math-Business-BlackScholes-Binaries-Greeks](https://reviewgithub.com/rep/binary-com/perl-Math-Business-BlackScholes-Binaries-Greeks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 5 | 
 | 2022-09-07 | - | 5 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Math-Business-BlackScholes-Binaries-Greeks](https://reviewgithub.com/rep/binary-com/perl-Math-Business-BlackScholes-Binaries-Greeks)

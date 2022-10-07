@@ -1,12 +1,14 @@
 # bootc/netbox-chart - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 94
 
 ★ Stars: 117
 
 [Open repository](https://github.com/bootc/netbox-chart)
+
+[Open detailed stats for bootc/netbox-chart](https://reviewgithub.com/rep/bootc/netbox-chart)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 112 | 91 | 
 | 2022-09-08 | 111 | 91 | 
 
-
-[Detailed charts & statistics for bootc/netbox-chart](https://reviewgithub.com/rep/bootc/netbox-chart)

@@ -1,12 +1,14 @@
 # sdretu/Shruthi-1-Editor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/sdretu/Shruthi-1-Editor)
+
+[Open detailed stats for sdretu/Shruthi-1-Editor](https://reviewgithub.com/rep/sdretu/Shruthi-1-Editor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 1 | 
 | 2022-09-07 | 8 | 1 | 
 
-
-[Detailed charts & statistics for sdretu/Shruthi-1-Editor](https://reviewgithub.com/rep/sdretu/Shruthi-1-Editor)

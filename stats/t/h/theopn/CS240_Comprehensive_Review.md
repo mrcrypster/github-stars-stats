@@ -1,12 +1,14 @@
 # theopn/CS240_Comprehensive_Review - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/theopn/CS240_Comprehensive_Review)
+
+[Open detailed stats for theopn/CS240_Comprehensive_Review](https://reviewgithub.com/rep/theopn/CS240_Comprehensive_Review)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 3 | 
 | 2022-09-07 | 5 | 3 | 
 
-
-[Detailed charts & statistics for theopn/CS240_Comprehensive_Review](https://reviewgithub.com/rep/theopn/CS240_Comprehensive_Review)

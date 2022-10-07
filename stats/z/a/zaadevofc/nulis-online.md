@@ -1,12 +1,14 @@
 # zaadevofc/nulis-online - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 53
 
 [Open repository](https://github.com/zaadevofc/nulis-online)
+
+[Open detailed stats for zaadevofc/nulis-online](https://reviewgithub.com/rep/zaadevofc/nulis-online)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 53 | 17 | 
 | 2022-09-07 | 53 | 17 | 
 
-
-[Detailed charts & statistics for zaadevofc/nulis-online](https://reviewgithub.com/rep/zaadevofc/nulis-online)

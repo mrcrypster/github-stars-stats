@@ -1,12 +1,14 @@
 # alexforencich/verilog-uart - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 94
 
 ★ Stars: 245
 
 [Open repository](https://github.com/alexforencich/verilog-uart)
+
+[Open detailed stats for alexforencich/verilog-uart](https://reviewgithub.com/rep/alexforencich/verilog-uart)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 244 | 96 | 
 | 2022-09-08 | 244 | 95 | 
 
-
-[Detailed charts & statistics for alexforencich/verilog-uart](https://reviewgithub.com/rep/alexforencich/verilog-uart)

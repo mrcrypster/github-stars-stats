@@ -1,12 +1,14 @@
 # devendrn/newb-shader-mcbe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 20
 
 [Open repository](https://github.com/devendrn/newb-shader-mcbe)
+
+[Open detailed stats for devendrn/newb-shader-mcbe](https://reviewgithub.com/rep/devendrn/newb-shader-mcbe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 5 | 
 | 2022-09-08 | 19 | 5 | 
 
-
-[Detailed charts & statistics for devendrn/newb-shader-mcbe](https://reviewgithub.com/rep/devendrn/newb-shader-mcbe)

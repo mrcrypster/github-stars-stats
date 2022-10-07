@@ -1,12 +1,14 @@
 # solderparty/rp2040_stamp_hw - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 111
 
 [Open repository](https://github.com/solderparty/rp2040_stamp_hw)
+
+[Open detailed stats for solderparty/rp2040_stamp_hw](https://reviewgithub.com/rep/solderparty/rp2040_stamp_hw)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 106 | 9 | 
 | 2022-09-07 | 106 | 9 | 
 
-
-[Detailed charts & statistics for solderparty/rp2040_stamp_hw](https://reviewgithub.com/rep/solderparty/rp2040_stamp_hw)

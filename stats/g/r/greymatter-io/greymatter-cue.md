@@ -1,12 +1,14 @@
 # greymatter-io/greymatter-cue - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/greymatter-io/greymatter-cue)
+
+[Open detailed stats for greymatter-io/greymatter-cue](https://reviewgithub.com/rep/greymatter-io/greymatter-cue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for greymatter-io/greymatter-cue](https://reviewgithub.com/rep/greymatter-io/greymatter-cue)

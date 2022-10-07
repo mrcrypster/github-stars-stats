@@ -1,12 +1,14 @@
 # boundary/bear - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 53
 
 ★ Stars: 68
 
 [Open repository](https://github.com/boundary/bear)
+
+[Open detailed stats for boundary/bear](https://reviewgithub.com/rep/boundary/bear)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 68 | 53 | 
 | 2022-09-08 | 68 | 53 | 
 
-
-[Detailed charts & statistics for boundary/bear](https://reviewgithub.com/rep/boundary/bear)

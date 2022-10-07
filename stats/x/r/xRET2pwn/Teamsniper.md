@@ -1,12 +1,14 @@
 # xRET2pwn/Teamsniper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 174
 
 [Open repository](https://github.com/xRET2pwn/Teamsniper)
+
+[Open detailed stats for xRET2pwn/Teamsniper](https://reviewgithub.com/rep/xRET2pwn/Teamsniper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 129 | 9 | 
 | 2022-09-19 | 121 | 8 | 
 
-
-[Detailed charts & statistics for xRET2pwn/Teamsniper](https://reviewgithub.com/rep/xRET2pwn/Teamsniper)

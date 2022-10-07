@@ -1,12 +1,14 @@
 # magit/orgit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 189
 
 [Open repository](https://github.com/magit/orgit)
+
+[Open detailed stats for magit/orgit](https://reviewgithub.com/rep/magit/orgit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 190 | 13 | 
 | 2022-09-07 | 190 | 13 | 
 
-
-[Detailed charts & statistics for magit/orgit](https://reviewgithub.com/rep/magit/orgit)

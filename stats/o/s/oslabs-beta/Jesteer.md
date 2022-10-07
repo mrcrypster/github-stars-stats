@@ -1,12 +1,14 @@
 # oslabs-beta/Jesteer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 58
 
 [Open repository](https://github.com/oslabs-beta/Jesteer)
+
+[Open detailed stats for oslabs-beta/Jesteer](https://reviewgithub.com/rep/oslabs-beta/Jesteer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | - | 
 | 2022-09-07 | 58 | - | 
 
-
-[Detailed charts & statistics for oslabs-beta/Jesteer](https://reviewgithub.com/rep/oslabs-beta/Jesteer)

@@ -1,12 +1,14 @@
 # nf-core/configs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 150
 
 ★ Stars: 55
 
 [Open repository](https://github.com/nf-core/configs)
+
+[Open detailed stats for nf-core/configs](https://reviewgithub.com/rep/nf-core/configs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 150 | 
 | 2022-09-07 | 51 | 150 | 
 
-
-[Detailed charts & statistics for nf-core/configs](https://reviewgithub.com/rep/nf-core/configs)

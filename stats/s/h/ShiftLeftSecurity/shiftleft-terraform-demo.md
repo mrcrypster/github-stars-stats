@@ -1,12 +1,14 @@
 # ShiftLeftSecurity/shiftleft-terraform-demo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 86
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ShiftLeftSecurity/shiftleft-terraform-demo)
+
+[Open detailed stats for ShiftLeftSecurity/shiftleft-terraform-demo](https://reviewgithub.com/rep/ShiftLeftSecurity/shiftleft-terraform-demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 85 | 
 | 2022-09-07 | 1 | 86 | 
 
-
-[Detailed charts & statistics for ShiftLeftSecurity/shiftleft-terraform-demo](https://reviewgithub.com/rep/ShiftLeftSecurity/shiftleft-terraform-demo)

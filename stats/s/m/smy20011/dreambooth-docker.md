@@ -1,12 +1,14 @@
 # smy20011/dreambooth-docker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 45
 
 [Open repository](https://github.com/smy20011/dreambooth-docker)
+
+[Open detailed stats for smy20011/dreambooth-docker](https://reviewgithub.com/rep/smy20011/dreambooth-docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 40 | 9 | 
 | 2022-10-04 | 37 | 9 | 
 
-
-[Detailed charts & statistics for smy20011/dreambooth-docker](https://reviewgithub.com/rep/smy20011/dreambooth-docker)

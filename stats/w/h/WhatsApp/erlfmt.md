@@ -1,12 +1,14 @@
 # WhatsApp/erlfmt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 340
 
 [Open repository](https://github.com/WhatsApp/erlfmt)
+
+[Open detailed stats for WhatsApp/erlfmt](https://reviewgithub.com/rep/WhatsApp/erlfmt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 334 | 40 | 
 | 2022-09-07 | 334 | 40 | 
 
-
-[Detailed charts & statistics for WhatsApp/erlfmt](https://reviewgithub.com/rep/WhatsApp/erlfmt)

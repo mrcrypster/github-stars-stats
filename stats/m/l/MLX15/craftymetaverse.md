@@ -1,12 +1,14 @@
 # MLX15/craftymetaverse - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 21
 
 [Open repository](https://github.com/MLX15/craftymetaverse)
+
+[Open detailed stats for MLX15/craftymetaverse](https://reviewgithub.com/rep/MLX15/craftymetaverse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 21 | 11 | 
 | 2022-09-07 | 21 | 11 | 
 
-
-[Detailed charts & statistics for MLX15/craftymetaverse](https://reviewgithub.com/rep/MLX15/craftymetaverse)

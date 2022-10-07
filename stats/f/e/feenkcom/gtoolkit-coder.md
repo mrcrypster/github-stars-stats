@@ -1,12 +1,14 @@
 # feenkcom/gtoolkit-coder - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 3
 
 [Open repository](https://github.com/feenkcom/gtoolkit-coder)
+
+[Open detailed stats for feenkcom/gtoolkit-coder](https://reviewgithub.com/rep/feenkcom/gtoolkit-coder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 4 | 
 | 2022-09-07 | 2 | 4 | 
 
-
-[Detailed charts & statistics for feenkcom/gtoolkit-coder](https://reviewgithub.com/rep/feenkcom/gtoolkit-coder)

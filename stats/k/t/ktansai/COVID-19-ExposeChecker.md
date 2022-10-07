@@ -1,12 +1,14 @@
 # ktansai/COVID-19-ExposeChecker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 94
 
 [Open repository](https://github.com/ktansai/COVID-19-ExposeChecker)
+
+[Open detailed stats for ktansai/COVID-19-ExposeChecker](https://reviewgithub.com/rep/ktansai/COVID-19-ExposeChecker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 92 | 10 | 
 | 2022-09-08 | 92 | 10 | 
 
-
-[Detailed charts & statistics for ktansai/COVID-19-ExposeChecker](https://reviewgithub.com/rep/ktansai/COVID-19-ExposeChecker)

@@ -1,12 +1,14 @@
 # solenopsis/sloggly - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 22
 
 [Open repository](https://github.com/solenopsis/sloggly)
+
+[Open detailed stats for solenopsis/sloggly](https://reviewgithub.com/rep/solenopsis/sloggly)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-25 | 22 | 6 | 
 | 2022-09-24 | 22 | 6 | 
 
-
-[Detailed charts & statistics for solenopsis/sloggly](https://reviewgithub.com/rep/solenopsis/sloggly)

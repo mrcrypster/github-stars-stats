@@ -1,12 +1,14 @@
 # javahometech/dockeransiblejenkins - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 575
 
 ★ Stars: 5
 
 [Open repository](https://github.com/javahometech/dockeransiblejenkins)
+
+[Open detailed stats for javahometech/dockeransiblejenkins](https://reviewgithub.com/rep/javahometech/dockeransiblejenkins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 543 | 
 | 2022-09-07 | 5 | 542 | 
 
-
-[Detailed charts & statistics for javahometech/dockeransiblejenkins](https://reviewgithub.com/rep/javahometech/dockeransiblejenkins)

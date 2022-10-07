@@ -1,12 +1,14 @@
 # ugrgr/2day - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ugrgr/2day)
+
+[Open detailed stats for ugrgr/2day](https://reviewgithub.com/rep/ugrgr/2day)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 5 | 
 | 2022-09-08 | - | 5 | 
 
-
-[Detailed charts & statistics for ugrgr/2day](https://reviewgithub.com/rep/ugrgr/2day)

@@ -1,12 +1,14 @@
 # mmelkersen/EndpointManager - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 94
 
 [Open repository](https://github.com/mmelkersen/EndpointManager)
+
+[Open detailed stats for mmelkersen/EndpointManager](https://reviewgithub.com/rep/mmelkersen/EndpointManager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 87 | 14 | 
 | 2022-09-08 | 87 | 14 | 
 
-
-[Detailed charts & statistics for mmelkersen/EndpointManager](https://reviewgithub.com/rep/mmelkersen/EndpointManager)

@@ -1,12 +1,14 @@
 # iElden/BetterBalancedGame - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 19
 
 [Open repository](https://github.com/iElden/BetterBalancedGame)
+
+[Open detailed stats for iElden/BetterBalancedGame](https://reviewgithub.com/rep/iElden/BetterBalancedGame)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 32 | 
 | 2022-09-07 | 19 | 32 | 
 
-
-[Detailed charts & statistics for iElden/BetterBalancedGame](https://reviewgithub.com/rep/iElden/BetterBalancedGame)

@@ -1,12 +1,14 @@
 # MPR-News/covid-data - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 17
 
 [Open repository](https://github.com/MPR-News/covid-data)
+
+[Open detailed stats for MPR-News/covid-data](https://reviewgithub.com/rep/MPR-News/covid-data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 1 | 
 | 2022-09-07 | 17 | 1 | 
 
-
-[Detailed charts & statistics for MPR-News/covid-data](https://reviewgithub.com/rep/MPR-News/covid-data)

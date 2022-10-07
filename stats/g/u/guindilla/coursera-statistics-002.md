@@ -1,12 +1,14 @@
 # guindilla/coursera-statistics-002 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 35
 
 [Open repository](https://github.com/guindilla/coursera-statistics-002)
+
+[Open detailed stats for guindilla/coursera-statistics-002](https://reviewgithub.com/rep/guindilla/coursera-statistics-002)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-25 | 35 | 54 | 
 | 2022-09-24 | 35 | 54 | 
 
-
-[Detailed charts & statistics for guindilla/coursera-statistics-002](https://reviewgithub.com/rep/guindilla/coursera-statistics-002)

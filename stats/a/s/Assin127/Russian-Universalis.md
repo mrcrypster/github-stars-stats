@@ -1,12 +1,14 @@
 # Assin127/Russian-Universalis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 5
 
 [Open repository](https://github.com/Assin127/Russian-Universalis)
+
+[Open detailed stats for Assin127/Russian-Universalis](https://reviewgithub.com/rep/Assin127/Russian-Universalis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 13 | 
 | 2022-09-07 | 5 | 13 | 
 
-
-[Detailed charts & statistics for Assin127/Russian-Universalis](https://reviewgithub.com/rep/Assin127/Russian-Universalis)

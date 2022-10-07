@@ -1,12 +1,14 @@
 # CogRob/catkin_grpc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 29
 
 [Open repository](https://github.com/CogRob/catkin_grpc)
+
+[Open detailed stats for CogRob/catkin_grpc](https://reviewgithub.com/rep/CogRob/catkin_grpc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 13 | 
 | 2022-09-07 | 29 | 13 | 
 
-
-[Detailed charts & statistics for CogRob/catkin_grpc](https://reviewgithub.com/rep/CogRob/catkin_grpc)

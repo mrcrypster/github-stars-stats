@@ -1,12 +1,14 @@
 # MPP-LSM/MPP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/MPP-LSM/MPP)
+
+[Open detailed stats for MPP-LSM/MPP](https://reviewgithub.com/rep/MPP-LSM/MPP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 4 | 
 | 2022-09-07 | 2 | 4 | 
 
-
-[Detailed charts & statistics for MPP-LSM/MPP](https://reviewgithub.com/rep/MPP-LSM/MPP)

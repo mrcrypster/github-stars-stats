@@ -1,12 +1,14 @@
 # dqzboy/DevOps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 24
 
 [Open repository](https://github.com/dqzboy/DevOps)
+
+[Open detailed stats for dqzboy/DevOps](https://reviewgithub.com/rep/dqzboy/DevOps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 24 | 9 | 
 | 2022-09-11 | 30 | 9 | 
 
-
-[Detailed charts & statistics for dqzboy/DevOps](https://reviewgithub.com/rep/dqzboy/DevOps)

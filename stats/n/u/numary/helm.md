@@ -1,12 +1,14 @@
 # numary/helm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/numary/helm)
+
+[Open detailed stats for numary/helm](https://reviewgithub.com/rep/numary/helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for numary/helm](https://reviewgithub.com/rep/numary/helm)

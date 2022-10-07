@@ -1,12 +1,14 @@
 # HWatanuki/TrainingDominandoBigDataIntro - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 3
 
 [Open repository](https://github.com/HWatanuki/TrainingDominandoBigDataIntro)
+
+[Open detailed stats for HWatanuki/TrainingDominandoBigDataIntro](https://reviewgithub.com/rep/HWatanuki/TrainingDominandoBigDataIntro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 25 | 
 | 2022-09-08 | 3 | 26 | 
 
-
-[Detailed charts & statistics for HWatanuki/TrainingDominandoBigDataIntro](https://reviewgithub.com/rep/HWatanuki/TrainingDominandoBigDataIntro)

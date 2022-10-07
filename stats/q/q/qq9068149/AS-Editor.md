@@ -1,12 +1,14 @@
 # qq9068149/AS-Editor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 210
 
 [Open repository](https://github.com/qq9068149/AS-Editor)
+
+[Open detailed stats for qq9068149/AS-Editor](https://reviewgithub.com/rep/qq9068149/AS-Editor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 210 | 1 | 
 | 2022-09-07 | 210 | 1 | 
 
-
-[Detailed charts & statistics for qq9068149/AS-Editor](https://reviewgithub.com/rep/qq9068149/AS-Editor)

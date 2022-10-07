@@ -1,12 +1,14 @@
 # apecloud/website - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/apecloud/website)
+
+[Open detailed stats for apecloud/website](https://reviewgithub.com/rep/apecloud/website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for apecloud/website](https://reviewgithub.com/rep/apecloud/website)

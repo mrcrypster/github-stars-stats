@@ -1,12 +1,14 @@
 # ar7eneJ/icing - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 57
 
 [Open repository](https://github.com/ar7eneJ/icing)
+
+[Open detailed stats for ar7eneJ/icing](https://reviewgithub.com/rep/ar7eneJ/icing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 27 | 
 | 2022-09-07 | 57 | 27 | 
 
-
-[Detailed charts & statistics for ar7eneJ/icing](https://reviewgithub.com/rep/ar7eneJ/icing)

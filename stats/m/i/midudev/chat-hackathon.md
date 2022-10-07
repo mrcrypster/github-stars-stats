@@ -1,12 +1,14 @@
 # midudev/chat-hackathon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 19
 
 [Open repository](https://github.com/midudev/chat-hackathon)
+
+[Open detailed stats for midudev/chat-hackathon](https://reviewgithub.com/rep/midudev/chat-hackathon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 2 | 
 | 2022-09-07 | 19 | 2 | 
 
-
-[Detailed charts & statistics for midudev/chat-hackathon](https://reviewgithub.com/rep/midudev/chat-hackathon)

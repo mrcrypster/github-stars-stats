@@ -1,12 +1,14 @@
 # zammad/zammad-helm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 52
 
 ★ Stars: 37
 
 [Open repository](https://github.com/zammad/zammad-helm)
+
+[Open detailed stats for zammad/zammad-helm](https://reviewgithub.com/rep/zammad/zammad-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 37 | 52 | 
 | 2022-09-07 | 37 | 52 | 
 
-
-[Detailed charts & statistics for zammad/zammad-helm](https://reviewgithub.com/rep/zammad/zammad-helm)

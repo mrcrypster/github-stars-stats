@@ -1,12 +1,14 @@
 # ntrdnm1/gettovds - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 272
 
 ★ Stars: 4
 
 [Open repository](https://github.com/ntrdnm1/gettovds)
+
+[Open detailed stats for ntrdnm1/gettovds](https://reviewgithub.com/rep/ntrdnm1/gettovds)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 273 | 
 | 2022-09-07 | 4 | 273 | 
 
-
-[Detailed charts & statistics for ntrdnm1/gettovds](https://reviewgithub.com/rep/ntrdnm1/gettovds)

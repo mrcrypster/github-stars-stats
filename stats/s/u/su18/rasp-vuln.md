@@ -1,12 +1,14 @@
 # su18/rasp-vuln - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 58
 
 [Open repository](https://github.com/su18/rasp-vuln)
+
+[Open detailed stats for su18/rasp-vuln](https://reviewgithub.com/rep/su18/rasp-vuln)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | 4 | 
 | 2022-09-07 | 58 | 4 | 
 
-
-[Detailed charts & statistics for su18/rasp-vuln](https://reviewgithub.com/rep/su18/rasp-vuln)

@@ -1,12 +1,14 @@
 # braintreeps/vim_dotfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 112
 
 ★ Stars: 118
 
 [Open repository](https://github.com/braintreeps/vim_dotfiles)
+
+[Open detailed stats for braintreeps/vim_dotfiles](https://reviewgithub.com/rep/braintreeps/vim_dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 116 | 111 | 
 | 2022-09-09 | 116 | 111 | 
 
-
-[Detailed charts & statistics for braintreeps/vim_dotfiles](https://reviewgithub.com/rep/braintreeps/vim_dotfiles)

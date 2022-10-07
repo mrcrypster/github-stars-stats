@@ -1,12 +1,14 @@
 # Blinue/Magpie - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 311
 
 ★ Stars: 3529
 
 [Open repository](https://github.com/Blinue/Magpie)
+
+[Open detailed stats for Blinue/Magpie](https://reviewgithub.com/rep/Blinue/Magpie)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3370 | 299 | 
 | 2022-09-08 | 3366 | 299 | 
 
-
-[Detailed charts & statistics for Blinue/Magpie](https://reviewgithub.com/rep/Blinue/Magpie)

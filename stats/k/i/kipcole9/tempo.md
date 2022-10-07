@@ -1,12 +1,14 @@
 # kipcole9/tempo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 84
 
 [Open repository](https://github.com/kipcole9/tempo)
+
+[Open detailed stats for kipcole9/tempo](https://reviewgithub.com/rep/kipcole9/tempo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 70 | 1 | 
 | 2022-09-08 | 66 | 1 | 
 
-
-[Detailed charts & statistics for kipcole9/tempo](https://reviewgithub.com/rep/kipcole9/tempo)

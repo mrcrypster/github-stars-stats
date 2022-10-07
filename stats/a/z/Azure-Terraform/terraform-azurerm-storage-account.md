@@ -1,12 +1,14 @@
 # Azure-Terraform/terraform-azurerm-storage-account - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 8
 
 [Open repository](https://github.com/Azure-Terraform/terraform-azurerm-storage-account)
+
+[Open detailed stats for Azure-Terraform/terraform-azurerm-storage-account](https://reviewgithub.com/rep/Azure-Terraform/terraform-azurerm-storage-account)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 29 | 
 | 2022-09-07 | 7 | 29 | 
 
-
-[Detailed charts & statistics for Azure-Terraform/terraform-azurerm-storage-account](https://reviewgithub.com/rep/Azure-Terraform/terraform-azurerm-storage-account)

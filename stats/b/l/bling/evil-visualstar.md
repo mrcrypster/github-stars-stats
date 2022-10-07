@@ -1,12 +1,14 @@
 # bling/evil-visualstar - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 70
 
 [Open repository](https://github.com/bling/evil-visualstar)
+
+[Open detailed stats for bling/evil-visualstar](https://reviewgithub.com/rep/bling/evil-visualstar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 72 | 12 | 
 | 2022-09-07 | 72 | 12 | 
 
-
-[Detailed charts & statistics for bling/evil-visualstar](https://reviewgithub.com/rep/bling/evil-visualstar)

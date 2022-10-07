@@ -1,12 +1,14 @@
 # vkurko/calendar - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 156
 
 [Open repository](https://github.com/vkurko/calendar)
+
+[Open detailed stats for vkurko/calendar](https://reviewgithub.com/rep/vkurko/calendar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 141 | 9 | 
 | 2022-09-08 | 141 | 9 | 
 
-
-[Detailed charts & statistics for vkurko/calendar](https://reviewgithub.com/rep/vkurko/calendar)

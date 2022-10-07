@@ -1,12 +1,14 @@
 # brightfyregit/Indie-Cross-Public - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 48
 
 [Open repository](https://github.com/brightfyregit/Indie-Cross-Public)
+
+[Open detailed stats for brightfyregit/Indie-Cross-Public](https://reviewgithub.com/rep/brightfyregit/Indie-Cross-Public)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 44 | 57 | 
 | 2022-09-08 | 44 | 57 | 
 
-
-[Detailed charts & statistics for brightfyregit/Indie-Cross-Public](https://reviewgithub.com/rep/brightfyregit/Indie-Cross-Public)

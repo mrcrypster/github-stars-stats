@@ -1,12 +1,14 @@
 # liamzebedee/quark-blockchain - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 56
 
 [Open repository](https://github.com/liamzebedee/quark-blockchain)
+
+[Open detailed stats for liamzebedee/quark-blockchain](https://reviewgithub.com/rep/liamzebedee/quark-blockchain)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 54 | - | 
 | 2022-09-07 | 54 | - | 
 
-
-[Detailed charts & statistics for liamzebedee/quark-blockchain](https://reviewgithub.com/rep/liamzebedee/quark-blockchain)

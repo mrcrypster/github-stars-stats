@@ -1,12 +1,14 @@
 # 00-Evan/shattered-pixel-dungeon - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 694
 
 ★ Stars: 2309
 
 [Open repository](https://github.com/00-Evan/shattered-pixel-dungeon)
+
+[Open detailed stats for 00-Evan/shattered-pixel-dungeon](https://reviewgithub.com/rep/00-Evan/shattered-pixel-dungeon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2271 | 687 | 
 | 2022-09-07 | 2270 | 687 | 
 
-
-[Detailed charts & statistics for 00-Evan/shattered-pixel-dungeon](https://reviewgithub.com/rep/00-Evan/shattered-pixel-dungeon)

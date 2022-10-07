@@ -1,12 +1,14 @@
 # Wert22/wert-camera - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 16
 
 [Open repository](https://github.com/Wert22/wert-camera)
+
+[Open detailed stats for Wert22/wert-camera](https://reviewgithub.com/rep/Wert22/wert-camera)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 15 | 
 | 2022-09-07 | 15 | 15 | 
 
-
-[Detailed charts & statistics for Wert22/wert-camera](https://reviewgithub.com/rep/Wert22/wert-camera)

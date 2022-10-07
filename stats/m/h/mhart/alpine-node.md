@@ -1,12 +1,14 @@
 # mhart/alpine-node - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 316
 
 ★ Stars: 2449
 
 [Open repository](https://github.com/mhart/alpine-node)
+
+[Open detailed stats for mhart/alpine-node](https://reviewgithub.com/rep/mhart/alpine-node)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2443 | 315 | 
 | 2022-09-07 | 2443 | 315 | 
 
-
-[Detailed charts & statistics for mhart/alpine-node](https://reviewgithub.com/rep/mhart/alpine-node)

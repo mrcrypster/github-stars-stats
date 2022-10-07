@@ -1,12 +1,14 @@
 # couchbase/docker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 153
 
 ★ Stars: 129
 
 [Open repository](https://github.com/couchbase/docker)
+
+[Open detailed stats for couchbase/docker](https://reviewgithub.com/rep/couchbase/docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 130 | 152 | 
 | 2022-09-07 | 130 | 152 | 
 
-
-[Detailed charts & statistics for couchbase/docker](https://reviewgithub.com/rep/couchbase/docker)

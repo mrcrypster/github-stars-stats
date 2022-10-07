@@ -1,12 +1,14 @@
 # KULeuven-COSIC/CryptoNightHaven-FPGA-miner - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/KULeuven-COSIC/CryptoNightHaven-FPGA-miner)
+
+[Open detailed stats for KULeuven-COSIC/CryptoNightHaven-FPGA-miner](https://reviewgithub.com/rep/KULeuven-COSIC/CryptoNightHaven-FPGA-miner)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
 
-
-[Detailed charts & statistics for KULeuven-COSIC/CryptoNightHaven-FPGA-miner](https://reviewgithub.com/rep/KULeuven-COSIC/CryptoNightHaven-FPGA-miner)

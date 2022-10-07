@@ -1,12 +1,14 @@
 # kutu48/RDP-FREE-WINDOWS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kutu48/RDP-FREE-WINDOWS)
+
+[Open detailed stats for kutu48/RDP-FREE-WINDOWS](https://reviewgithub.com/rep/kutu48/RDP-FREE-WINDOWS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | - | 12 | 
 | 2022-09-16 | - | 12 | 
 
-
-[Detailed charts & statistics for kutu48/RDP-FREE-WINDOWS](https://reviewgithub.com/rep/kutu48/RDP-FREE-WINDOWS)

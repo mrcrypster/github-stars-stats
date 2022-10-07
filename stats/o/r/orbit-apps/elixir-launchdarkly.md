@@ -1,12 +1,14 @@
 # orbit-apps/elixir-launchdarkly - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/orbit-apps/elixir-launchdarkly)
+
+[Open detailed stats for orbit-apps/elixir-launchdarkly](https://reviewgithub.com/rep/orbit-apps/elixir-launchdarkly)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 2 | 
 | 2022-09-08 | 3 | 2 | 
 
-
-[Detailed charts & statistics for orbit-apps/elixir-launchdarkly](https://reviewgithub.com/rep/orbit-apps/elixir-launchdarkly)

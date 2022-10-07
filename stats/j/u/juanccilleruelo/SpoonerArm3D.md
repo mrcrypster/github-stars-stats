@@ -1,12 +1,14 @@
 # juanccilleruelo/SpoonerArm3D - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/juanccilleruelo/SpoonerArm3D)
+
+[Open detailed stats for juanccilleruelo/SpoonerArm3D](https://reviewgithub.com/rep/juanccilleruelo/SpoonerArm3D)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 1 | 
 | 2022-09-07 | 13 | 1 | 
 
-
-[Detailed charts & statistics for juanccilleruelo/SpoonerArm3D](https://reviewgithub.com/rep/juanccilleruelo/SpoonerArm3D)

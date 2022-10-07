@@ -1,12 +1,14 @@
 # aminGhafoory/parametric-knob-maker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 38
 
 [Open repository](https://github.com/aminGhafoory/parametric-knob-maker)
+
+[Open detailed stats for aminGhafoory/parametric-knob-maker](https://reviewgithub.com/rep/aminGhafoory/parametric-knob-maker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | - | 
 | 2022-09-08 | 37 | - | 
 
-
-[Detailed charts & statistics for aminGhafoory/parametric-knob-maker](https://reviewgithub.com/rep/aminGhafoory/parametric-knob-maker)

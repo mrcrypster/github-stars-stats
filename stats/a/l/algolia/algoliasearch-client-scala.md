@@ -1,12 +1,14 @@
 # algolia/algoliasearch-client-scala - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 23
 
 [Open repository](https://github.com/algolia/algoliasearch-client-scala)
+
+[Open detailed stats for algolia/algoliasearch-client-scala](https://reviewgithub.com/rep/algolia/algoliasearch-client-scala)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 23 | 25 | 
 | 2022-09-07 | 23 | 25 | 
 
-
-[Detailed charts & statistics for algolia/algoliasearch-client-scala](https://reviewgithub.com/rep/algolia/algoliasearch-client-scala)

@@ -1,12 +1,14 @@
 # micronaut-projects/static-website-test - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/micronaut-projects/static-website-test)
+
+[Open detailed stats for micronaut-projects/static-website-test](https://reviewgithub.com/rep/micronaut-projects/static-website-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for micronaut-projects/static-website-test](https://reviewgithub.com/rep/micronaut-projects/static-website-test)

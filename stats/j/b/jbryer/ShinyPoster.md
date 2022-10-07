@@ -1,12 +1,14 @@
 # jbryer/ShinyPoster - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 19
 
 [Open repository](https://github.com/jbryer/ShinyPoster)
+
+[Open detailed stats for jbryer/ShinyPoster](https://reviewgithub.com/rep/jbryer/ShinyPoster)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 8 | 
 | 2022-09-07 | 19 | 8 | 
 
-
-[Detailed charts & statistics for jbryer/ShinyPoster](https://reviewgithub.com/rep/jbryer/ShinyPoster)

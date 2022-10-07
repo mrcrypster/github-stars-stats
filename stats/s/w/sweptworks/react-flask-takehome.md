@@ -1,12 +1,14 @@
 # sweptworks/react-flask-takehome - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sweptworks/react-flask-takehome)
+
+[Open detailed stats for sweptworks/react-flask-takehome](https://reviewgithub.com/rep/sweptworks/react-flask-takehome)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for sweptworks/react-flask-takehome](https://reviewgithub.com/rep/sweptworks/react-flask-takehome)

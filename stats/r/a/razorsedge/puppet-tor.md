@@ -1,12 +1,14 @@
 # razorsedge/puppet-tor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 3
 
 [Open repository](https://github.com/razorsedge/puppet-tor)
+
+[Open detailed stats for razorsedge/puppet-tor](https://reviewgithub.com/rep/razorsedge/puppet-tor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | 3 | 6 | 
 | 2022-10-05 | 3 | 6 | 
 
-
-[Detailed charts & statistics for razorsedge/puppet-tor](https://reviewgithub.com/rep/razorsedge/puppet-tor)

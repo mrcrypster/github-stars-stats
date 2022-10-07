@@ -1,12 +1,14 @@
 # DeekshithSN/shared-library - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 167
 
 ★ Stars: 4
 
 [Open repository](https://github.com/DeekshithSN/shared-library)
+
+[Open detailed stats for DeekshithSN/shared-library](https://reviewgithub.com/rep/DeekshithSN/shared-library)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-04 | 4 | 166 | 
 | 2022-10-03 | 4 | 166 | 
 
-
-[Detailed charts & statistics for DeekshithSN/shared-library](https://reviewgithub.com/rep/DeekshithSN/shared-library)

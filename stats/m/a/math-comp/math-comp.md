@@ -1,12 +1,14 @@
 # math-comp/math-comp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 89
 
 ★ Stars: 444
 
 [Open repository](https://github.com/math-comp/math-comp)
+
+[Open detailed stats for math-comp/math-comp](https://reviewgithub.com/rep/math-comp/math-comp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 438 | 86 | 
 | 2022-09-08 | 438 | 86 | 
 
-
-[Detailed charts & statistics for math-comp/math-comp](https://reviewgithub.com/rep/math-comp/math-comp)

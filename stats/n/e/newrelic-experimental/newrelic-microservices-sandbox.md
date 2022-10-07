@@ -1,12 +1,14 @@
 # newrelic-experimental/newrelic-microservices-sandbox - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 3
 
 [Open repository](https://github.com/newrelic-experimental/newrelic-microservices-sandbox)
+
+[Open detailed stats for newrelic-experimental/newrelic-microservices-sandbox](https://reviewgithub.com/rep/newrelic-experimental/newrelic-microservices-sandbox)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 37 | 
 | 2022-09-08 | 2 | 37 | 
 
-
-[Detailed charts & statistics for newrelic-experimental/newrelic-microservices-sandbox](https://reviewgithub.com/rep/newrelic-experimental/newrelic-microservices-sandbox)

@@ -1,12 +1,14 @@
 # archimatetool/ArchiModels - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 125
 
 ★ Stars: 131
 
 [Open repository](https://github.com/archimatetool/ArchiModels)
+
+[Open detailed stats for archimatetool/ArchiModels](https://reviewgithub.com/rep/archimatetool/ArchiModels)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 126 | 122 | 
 | 2022-09-08 | 126 | 122 | 
 
-
-[Detailed charts & statistics for archimatetool/ArchiModels](https://reviewgithub.com/rep/archimatetool/ArchiModels)

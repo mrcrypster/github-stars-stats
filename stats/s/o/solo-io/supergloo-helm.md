@@ -1,12 +1,14 @@
 # solo-io/supergloo-helm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/solo-io/supergloo-helm)
+
+[Open detailed stats for solo-io/supergloo-helm](https://reviewgithub.com/rep/solo-io/supergloo-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 4 | 
 | 2022-09-07 | 1 | 4 | 
 
-
-[Detailed charts & statistics for solo-io/supergloo-helm](https://reviewgithub.com/rep/solo-io/supergloo-helm)

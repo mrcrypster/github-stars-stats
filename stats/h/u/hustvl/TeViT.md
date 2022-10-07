@@ -1,12 +1,14 @@
 # hustvl/TeViT - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 191
 
 [Open repository](https://github.com/hustvl/TeViT)
+
+[Open detailed stats for hustvl/TeViT](https://reviewgithub.com/rep/hustvl/TeViT)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 187 | 13 | 
 | 2022-09-08 | 187 | 13 | 
 
-
-[Detailed charts & statistics for hustvl/TeViT](https://reviewgithub.com/rep/hustvl/TeViT)

@@ -1,12 +1,14 @@
 # SinguloStation13/Singulo-3.0 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/SinguloStation13/Singulo-3.0)
+
+[Open detailed stats for SinguloStation13/Singulo-3.0](https://reviewgithub.com/rep/SinguloStation13/Singulo-3.0)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 3 | 4 | 
 | 2022-09-15 | 3 | 4 | 
 
-
-[Detailed charts & statistics for SinguloStation13/Singulo-3.0](https://reviewgithub.com/rep/SinguloStation13/Singulo-3.0)

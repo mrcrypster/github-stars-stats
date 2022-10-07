@@ -1,12 +1,14 @@
 # RoboJackets/mjackets-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/RoboJackets/mjackets-api)
+
+[Open detailed stats for RoboJackets/mjackets-api](https://reviewgithub.com/rep/RoboJackets/mjackets-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | 2 | - | 
 | 2022-09-27 | 2 | - | 
 
-
-[Detailed charts & statistics for RoboJackets/mjackets-api](https://reviewgithub.com/rep/RoboJackets/mjackets-api)

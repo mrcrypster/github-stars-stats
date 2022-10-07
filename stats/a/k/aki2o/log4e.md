@@ -1,12 +1,14 @@
 # aki2o/log4e - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 53
 
 [Open repository](https://github.com/aki2o/log4e)
+
+[Open detailed stats for aki2o/log4e](https://reviewgithub.com/rep/aki2o/log4e)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 14 | 
 | 2022-09-07 | 51 | 14 | 
 
-
-[Detailed charts & statistics for aki2o/log4e](https://reviewgithub.com/rep/aki2o/log4e)

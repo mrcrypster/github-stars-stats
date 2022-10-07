@@ -1,12 +1,14 @@
 # Sunyc666/YCJsonToModel - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 35
 
 [Open repository](https://github.com/Sunyc666/YCJsonToModel)
+
+[Open detailed stats for Sunyc666/YCJsonToModel](https://reviewgithub.com/rep/Sunyc666/YCJsonToModel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 35 | - | 
 | 2022-09-08 | 35 | - | 
 
-
-[Detailed charts & statistics for Sunyc666/YCJsonToModel](https://reviewgithub.com/rep/Sunyc666/YCJsonToModel)

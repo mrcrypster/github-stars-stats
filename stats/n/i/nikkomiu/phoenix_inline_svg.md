@@ -1,12 +1,14 @@
 # nikkomiu/phoenix_inline_svg - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 34
 
 ★ Stars: 60
 
 [Open repository](https://github.com/nikkomiu/phoenix_inline_svg)
+
+[Open detailed stats for nikkomiu/phoenix_inline_svg](https://reviewgithub.com/rep/nikkomiu/phoenix_inline_svg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 34 | 
 | 2022-09-07 | 60 | 34 | 
 
-
-[Detailed charts & statistics for nikkomiu/phoenix_inline_svg](https://reviewgithub.com/rep/nikkomiu/phoenix_inline_svg)

@@ -1,12 +1,14 @@
 # fremantle-industries/tai - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 79
 
 ★ Stars: 398
 
 [Open repository](https://github.com/fremantle-industries/tai)
+
+[Open detailed stats for fremantle-industries/tai](https://reviewgithub.com/rep/fremantle-industries/tai)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 393 | 76 | 
 | 2022-09-13 | 393 | 76 | 
 
-
-[Detailed charts & statistics for fremantle-industries/tai](https://reviewgithub.com/rep/fremantle-industries/tai)

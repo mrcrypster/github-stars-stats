@@ -1,12 +1,14 @@
 # rafaelvleite/fide_crawler - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 93
 
 [Open repository](https://github.com/rafaelvleite/fide_crawler)
+
+[Open detailed stats for rafaelvleite/fide_crawler](https://reviewgithub.com/rep/rafaelvleite/fide_crawler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 72 | 10 | 
 | 2022-09-30 | 68 | 9 | 
 
-
-[Detailed charts & statistics for rafaelvleite/fide_crawler](https://reviewgithub.com/rep/rafaelvleite/fide_crawler)

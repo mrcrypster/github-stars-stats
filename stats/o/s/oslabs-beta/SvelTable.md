@@ -1,12 +1,14 @@
 # oslabs-beta/SvelTable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 126
 
 [Open repository](https://github.com/oslabs-beta/SvelTable)
+
+[Open detailed stats for oslabs-beta/SvelTable](https://reviewgithub.com/rep/oslabs-beta/SvelTable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 126 | 14 | 
 | 2022-09-07 | 126 | 14 | 
 
-
-[Detailed charts & statistics for oslabs-beta/SvelTable](https://reviewgithub.com/rep/oslabs-beta/SvelTable)

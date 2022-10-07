@@ -1,12 +1,14 @@
 # nitin-787/mynotes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 20
 
 [Open repository](https://github.com/nitin-787/mynotes)
+
+[Open detailed stats for nitin-787/mynotes](https://reviewgithub.com/rep/nitin-787/mynotes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 17 | 20 | 
 | 2022-10-03 | 15 | 19 | 
 
-
-[Detailed charts & statistics for nitin-787/mynotes](https://reviewgithub.com/rep/nitin-787/mynotes)

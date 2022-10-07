@@ -1,12 +1,14 @@
 # yunyuyuan/nuxt2-blog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 92
 
 ★ Stars: 8
 
 [Open repository](https://github.com/yunyuyuan/nuxt2-blog)
+
+[Open detailed stats for yunyuyuan/nuxt2-blog](https://reviewgithub.com/rep/yunyuyuan/nuxt2-blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 91 | 
 | 2022-09-07 | 8 | 91 | 
 
-
-[Detailed charts & statistics for yunyuyuan/nuxt2-blog](https://reviewgithub.com/rep/yunyuyuan/nuxt2-blog)

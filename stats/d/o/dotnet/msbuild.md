@@ -1,12 +1,14 @@
 # dotnet/msbuild - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1281
 
 ★ Stars: 4823
 
 [Open repository](https://github.com/dotnet/msbuild)
+
+[Open detailed stats for dotnet/msbuild](https://reviewgithub.com/rep/dotnet/msbuild)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 4799 | 1272 | 
 | 2022-09-10 | 4799 | 1272 | 
 
-
-[Detailed charts & statistics for dotnet/msbuild](https://reviewgithub.com/rep/dotnet/msbuild)

@@ -1,12 +1,14 @@
 # noctuid/annalist.el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 24
 
 [Open repository](https://github.com/noctuid/annalist.el)
+
+[Open detailed stats for noctuid/annalist.el](https://reviewgithub.com/rep/noctuid/annalist.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 24 | 5 | 
 | 2022-09-08 | 24 | 5 | 
 
-
-[Detailed charts & statistics for noctuid/annalist.el](https://reviewgithub.com/rep/noctuid/annalist.el)

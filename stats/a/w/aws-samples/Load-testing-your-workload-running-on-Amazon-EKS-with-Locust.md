@@ -1,12 +1,14 @@
 # aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 26
 
 [Open repository](https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust)
+
+[Open detailed stats for aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust](https://reviewgithub.com/rep/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 24 | 3 | 
 | 2022-09-08 | 24 | 3 | 
 
-
-[Detailed charts & statistics for aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust](https://reviewgithub.com/rep/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust)

@@ -1,12 +1,14 @@
 # zhiqi-li/BEVFormer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/zhiqi-li/BEVFormer)
+
+[Open detailed stats for zhiqi-li/BEVFormer](https://reviewgithub.com/rep/zhiqi-li/BEVFormer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1145 | 134 | 
 | 2022-09-07 | 1138 | 133 | 
 
-
-[Detailed charts & statistics for zhiqi-li/BEVFormer](https://reviewgithub.com/rep/zhiqi-li/BEVFormer)

@@ -1,12 +1,14 @@
 # nestlabs/nlunit-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 6
 
 [Open repository](https://github.com/nestlabs/nlunit-test)
+
+[Open detailed stats for nestlabs/nlunit-test](https://reviewgithub.com/rep/nestlabs/nlunit-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 4 | 
 | 2022-09-08 | 6 | 4 | 
 
-
-[Detailed charts & statistics for nestlabs/nlunit-test](https://reviewgithub.com/rep/nestlabs/nlunit-test)

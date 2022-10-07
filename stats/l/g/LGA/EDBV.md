@@ -1,12 +1,14 @@
 # LGA/EDBV - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/LGA/EDBV)
+
+[Open detailed stats for LGA/EDBV](https://reviewgithub.com/rep/LGA/EDBV)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for LGA/EDBV](https://reviewgithub.com/rep/LGA/EDBV)

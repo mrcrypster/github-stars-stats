@@ -1,12 +1,14 @@
 # DPSLEGEND/android_vendor_realme_moon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/DPSLEGEND/android_vendor_realme_moon)
+
+[Open detailed stats for DPSLEGEND/android_vendor_realme_moon](https://reviewgithub.com/rep/DPSLEGEND/android_vendor_realme_moon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for DPSLEGEND/android_vendor_realme_moon](https://reviewgithub.com/rep/DPSLEGEND/android_vendor_realme_moon)

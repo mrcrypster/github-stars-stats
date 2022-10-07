@@ -1,12 +1,14 @@
 # purescript/purescript-unfoldable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 14
 
 [Open repository](https://github.com/purescript/purescript-unfoldable)
+
+[Open detailed stats for purescript/purescript-unfoldable](https://reviewgithub.com/rep/purescript/purescript-unfoldable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 14 | 21 | 
 | 2022-09-08 | 14 | 21 | 
 
-
-[Detailed charts & statistics for purescript/purescript-unfoldable](https://reviewgithub.com/rep/purescript/purescript-unfoldable)

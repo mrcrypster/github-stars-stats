@@ -1,12 +1,14 @@
 # vgs-samples/code-examples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 2
 
 [Open repository](https://github.com/vgs-samples/code-examples)
+
+[Open detailed stats for vgs-samples/code-examples](https://reviewgithub.com/rep/vgs-samples/code-examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-21 | 2 | 13 | 
 | 2022-09-20 | 2 | 13 | 
 
-
-[Detailed charts & statistics for vgs-samples/code-examples](https://reviewgithub.com/rep/vgs-samples/code-examples)

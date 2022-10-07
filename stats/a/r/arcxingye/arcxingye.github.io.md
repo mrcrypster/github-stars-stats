@@ -1,12 +1,14 @@
 # arcxingye/arcxingye.github.io - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 75
 
 [Open repository](https://github.com/arcxingye/arcxingye.github.io)
+
+[Open detailed stats for arcxingye/arcxingye.github.io](https://reviewgithub.com/rep/arcxingye/arcxingye.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 72 | 27 | 
 | 2022-09-08 | 72 | 27 | 
 
-
-[Detailed charts & statistics for arcxingye/arcxingye.github.io](https://reviewgithub.com/rep/arcxingye/arcxingye.github.io)

@@ -1,12 +1,14 @@
 # ArtBlnd/rename-future - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 54
 
 [Open repository](https://github.com/ArtBlnd/rename-future)
+
+[Open detailed stats for ArtBlnd/rename-future](https://reviewgithub.com/rep/ArtBlnd/rename-future)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 50 | 1 | 
 | 2022-09-07 | 50 | 1 | 
 
-
-[Detailed charts & statistics for ArtBlnd/rename-future](https://reviewgithub.com/rep/ArtBlnd/rename-future)

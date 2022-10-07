@@ -1,12 +1,14 @@
 # taogkuk315/CloudLabsAI-Azure9 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 55
 
 [Open repository](https://github.com/taogkuk315/CloudLabsAI-Azure9)
+
+[Open detailed stats for taogkuk315/CloudLabsAI-Azure9](https://reviewgithub.com/rep/taogkuk315/CloudLabsAI-Azure9)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 55 | 23 | 
 | 2022-09-08 | 55 | 23 | 
 
-
-[Detailed charts & statistics for taogkuk315/CloudLabsAI-Azure9](https://reviewgithub.com/rep/taogkuk315/CloudLabsAI-Azure9)

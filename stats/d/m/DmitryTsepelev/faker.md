@@ -1,12 +1,14 @@
 # DmitryTsepelev/faker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 46
 
 [Open repository](https://github.com/DmitryTsepelev/faker)
+
+[Open detailed stats for DmitryTsepelev/faker](https://reviewgithub.com/rep/DmitryTsepelev/faker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 3 | 
 | 2022-09-07 | 45 | 3 | 
 
-
-[Detailed charts & statistics for DmitryTsepelev/faker](https://reviewgithub.com/rep/DmitryTsepelev/faker)

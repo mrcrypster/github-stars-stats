@@ -1,12 +1,14 @@
 # razrabs-media/editorial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 88
 
 [Open repository](https://github.com/razrabs-media/editorial)
+
+[Open detailed stats for razrabs-media/editorial](https://reviewgithub.com/rep/razrabs-media/editorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 81 | 43 | 
 | 2022-09-07 | 81 | 43 | 
 
-
-[Detailed charts & statistics for razrabs-media/editorial](https://reviewgithub.com/rep/razrabs-media/editorial)

@@ -1,12 +1,14 @@
 # curio-research/contracts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 44
 
 [Open repository](https://github.com/curio-research/contracts)
+
+[Open detailed stats for curio-research/contracts](https://reviewgithub.com/rep/curio-research/contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 43 | 1 | 
 | 2022-09-07 | 43 | 1 | 
 
-
-[Detailed charts & statistics for curio-research/contracts](https://reviewgithub.com/rep/curio-research/contracts)

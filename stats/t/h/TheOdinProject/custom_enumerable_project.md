@@ -1,12 +1,14 @@
 # TheOdinProject/custom_enumerable_project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 264
 
 ★ Stars: 2
 
 [Open repository](https://github.com/TheOdinProject/custom_enumerable_project)
+
+[Open detailed stats for TheOdinProject/custom_enumerable_project](https://reviewgithub.com/rep/TheOdinProject/custom_enumerable_project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 230 | 
 | 2022-09-08 | 2 | 230 | 
 
-
-[Detailed charts & statistics for TheOdinProject/custom_enumerable_project](https://reviewgithub.com/rep/TheOdinProject/custom_enumerable_project)

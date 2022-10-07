@@ -1,12 +1,14 @@
 # COMP30019/Workshop-1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 68
 
 ★ Stars: 0
 
 [Open repository](https://github.com/COMP30019/Workshop-1)
+
+[Open detailed stats for COMP30019/Workshop-1](https://reviewgithub.com/rep/COMP30019/Workshop-1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 68 | 
 | 2022-09-07 | - | 68 | 
 
-
-[Detailed charts & statistics for COMP30019/Workshop-1](https://reviewgithub.com/rep/COMP30019/Workshop-1)

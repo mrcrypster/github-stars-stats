@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-ecs-web-app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 185
 
 [Open repository](https://github.com/cloudposse/terraform-aws-ecs-web-app)
+
+[Open detailed stats for cloudposse/terraform-aws-ecs-web-app](https://reviewgithub.com/rep/cloudposse/terraform-aws-ecs-web-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 184 | 131 | 
 | 2022-09-07 | 184 | 131 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-ecs-web-app](https://reviewgithub.com/rep/cloudposse/terraform-aws-ecs-web-app)

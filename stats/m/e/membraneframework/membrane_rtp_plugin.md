@@ -1,12 +1,14 @@
 # membraneframework/membrane_rtp_plugin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 18
 
 [Open repository](https://github.com/membraneframework/membrane_rtp_plugin)
+
+[Open detailed stats for membraneframework/membrane_rtp_plugin](https://reviewgithub.com/rep/membraneframework/membrane_rtp_plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | 3 | 
 | 2022-09-08 | 18 | 3 | 
 
-
-[Detailed charts & statistics for membraneframework/membrane_rtp_plugin](https://reviewgithub.com/rep/membraneframework/membrane_rtp_plugin)

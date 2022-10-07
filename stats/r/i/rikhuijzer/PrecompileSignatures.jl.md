@@ -1,12 +1,14 @@
 # rikhuijzer/PrecompileSignatures.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 27
 
 [Open repository](https://github.com/rikhuijzer/PrecompileSignatures.jl)
+
+[Open detailed stats for rikhuijzer/PrecompileSignatures.jl](https://reviewgithub.com/rep/rikhuijzer/PrecompileSignatures.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 6 | 
 | 2022-09-07 | 26 | 6 | 
 
-
-[Detailed charts & statistics for rikhuijzer/PrecompileSignatures.jl](https://reviewgithub.com/rep/rikhuijzer/PrecompileSignatures.jl)

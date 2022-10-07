@@ -1,12 +1,14 @@
 # status-im/nim-json-serialization - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 36
 
 [Open repository](https://github.com/status-im/nim-json-serialization)
+
+[Open detailed stats for status-im/nim-json-serialization](https://reviewgithub.com/rep/status-im/nim-json-serialization)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 10 | 
 | 2022-09-07 | 36 | 10 | 
 
-
-[Detailed charts & statistics for status-im/nim-json-serialization](https://reviewgithub.com/rep/status-im/nim-json-serialization)

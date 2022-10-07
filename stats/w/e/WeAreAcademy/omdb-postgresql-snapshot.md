@@ -1,12 +1,14 @@
 # WeAreAcademy/omdb-postgresql-snapshot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 0
 
 [Open repository](https://github.com/WeAreAcademy/omdb-postgresql-snapshot)
+
+[Open detailed stats for WeAreAcademy/omdb-postgresql-snapshot](https://reviewgithub.com/rep/WeAreAcademy/omdb-postgresql-snapshot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 37 | 
 | 2022-09-07 | - | 37 | 
 
-
-[Detailed charts & statistics for WeAreAcademy/omdb-postgresql-snapshot](https://reviewgithub.com/rep/WeAreAcademy/omdb-postgresql-snapshot)

@@ -1,12 +1,14 @@
 # SimpleITK/SimpleITK - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 182
 
 ★ Stars: 654
 
 [Open repository](https://github.com/SimpleITK/SimpleITK)
+
+[Open detailed stats for SimpleITK/SimpleITK](https://reviewgithub.com/rep/SimpleITK/SimpleITK)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 649 | 181 | 
 | 2022-09-07 | 648 | 180 | 
 
-
-[Detailed charts & statistics for SimpleITK/SimpleITK](https://reviewgithub.com/rep/SimpleITK/SimpleITK)

@@ -1,12 +1,14 @@
 # stephenjude/laravel-wallet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 206
 
 [Open repository](https://github.com/stephenjude/laravel-wallet)
+
+[Open detailed stats for stephenjude/laravel-wallet](https://reviewgithub.com/rep/stephenjude/laravel-wallet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 203 | 13 | 
 | 2022-09-07 | 203 | 13 | 
 
-
-[Detailed charts & statistics for stephenjude/laravel-wallet](https://reviewgithub.com/rep/stephenjude/laravel-wallet)

@@ -1,12 +1,14 @@
 # magpiemodel/magpie - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 112
 
 ★ Stars: 61
 
 [Open repository](https://github.com/magpiemodel/magpie)
+
+[Open detailed stats for magpiemodel/magpie](https://reviewgithub.com/rep/magpiemodel/magpie)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 59 | 112 | 
 | 2022-09-07 | 59 | 112 | 
 
-
-[Detailed charts & statistics for magpiemodel/magpie](https://reviewgithub.com/rep/magpiemodel/magpie)

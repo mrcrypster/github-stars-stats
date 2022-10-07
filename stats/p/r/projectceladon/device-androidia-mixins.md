@@ -1,12 +1,14 @@
 # projectceladon/device-androidia-mixins - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 190
 
 ★ Stars: 11
 
 [Open repository](https://github.com/projectceladon/device-androidia-mixins)
+
+[Open detailed stats for projectceladon/device-androidia-mixins](https://reviewgithub.com/rep/projectceladon/device-androidia-mixins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 10 | 185 | 
 | 2022-09-07 | 10 | 185 | 
 
-
-[Detailed charts & statistics for projectceladon/device-androidia-mixins](https://reviewgithub.com/rep/projectceladon/device-androidia-mixins)

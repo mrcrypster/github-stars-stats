@@ -1,12 +1,14 @@
 # takashihattori/stone-haskell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/takashihattori/stone-haskell)
+
+[Open detailed stats for takashihattori/stone-haskell](https://reviewgithub.com/rep/takashihattori/stone-haskell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for takashihattori/stone-haskell](https://reviewgithub.com/rep/takashihattori/stone-haskell)

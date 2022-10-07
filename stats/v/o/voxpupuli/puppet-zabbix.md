@@ -1,12 +1,14 @@
 # voxpupuli/puppet-zabbix - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 223
 
 ★ Stars: 78
 
 [Open repository](https://github.com/voxpupuli/puppet-zabbix)
+
+[Open detailed stats for voxpupuli/puppet-zabbix](https://reviewgithub.com/rep/voxpupuli/puppet-zabbix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 224 | 
 | 2022-09-07 | 78 | 224 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-zabbix](https://reviewgithub.com/rep/voxpupuli/puppet-zabbix)

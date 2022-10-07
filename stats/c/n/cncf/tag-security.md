@@ -1,12 +1,14 @@
 # cncf/tag-security - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 370
 
 ★ Stars: 1461
 
 [Open repository](https://github.com/cncf/tag-security)
+
+[Open detailed stats for cncf/tag-security](https://reviewgithub.com/rep/cncf/tag-security)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1440 | 368 | 
 | 2022-09-08 | 1441 | 368 | 
 
-
-[Detailed charts & statistics for cncf/tag-security](https://reviewgithub.com/rep/cncf/tag-security)

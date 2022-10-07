@@ -1,12 +1,14 @@
 # pharo-contributions/Athens-SVG - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/pharo-contributions/Athens-SVG)
+
+[Open detailed stats for pharo-contributions/Athens-SVG](https://reviewgithub.com/rep/pharo-contributions/Athens-SVG)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 3 | 
 | 2022-09-08 | 2 | 3 | 
 
-
-[Detailed charts & statistics for pharo-contributions/Athens-SVG](https://reviewgithub.com/rep/pharo-contributions/Athens-SVG)

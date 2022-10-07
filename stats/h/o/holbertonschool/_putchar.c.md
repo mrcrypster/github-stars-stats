@@ -1,12 +1,14 @@
 # holbertonschool/_putchar.c - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 220
 
 ★ Stars: 32
 
 [Open repository](https://github.com/holbertonschool/_putchar.c)
+
+[Open detailed stats for holbertonschool/_putchar.c](https://reviewgithub.com/rep/holbertonschool/_putchar.c)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 26 | 154 | 
 | 2022-09-07 | 26 | 154 | 
 
-
-[Detailed charts & statistics for holbertonschool/_putchar.c](https://reviewgithub.com/rep/holbertonschool/_putchar.c)

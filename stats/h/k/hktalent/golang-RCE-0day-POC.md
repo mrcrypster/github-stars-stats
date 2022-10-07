@@ -1,12 +1,14 @@
 # hktalent/golang-RCE-0day-POC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 70
 
 [Open repository](https://github.com/hktalent/golang-RCE-0day-POC)
+
+[Open detailed stats for hktalent/golang-RCE-0day-POC](https://reviewgithub.com/rep/hktalent/golang-RCE-0day-POC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 70 | 13 | 
 | 2022-09-08 | 70 | 13 | 
 
-
-[Detailed charts & statistics for hktalent/golang-RCE-0day-POC](https://reviewgithub.com/rep/hktalent/golang-RCE-0day-POC)

@@ -1,12 +1,14 @@
 # ItsDecoy/FFBB-Source - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ItsDecoy/FFBB-Source)
+
+[Open detailed stats for ItsDecoy/FFBB-Source](https://reviewgithub.com/rep/ItsDecoy/FFBB-Source)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 8 | 
 | 2022-09-07 | 2 | 8 | 
 
-
-[Detailed charts & statistics for ItsDecoy/FFBB-Source](https://reviewgithub.com/rep/ItsDecoy/FFBB-Source)

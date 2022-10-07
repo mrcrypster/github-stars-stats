@@ -1,12 +1,14 @@
 # IObundle/iob-soc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 91
 
 [Open repository](https://github.com/IObundle/iob-soc)
+
+[Open detailed stats for IObundle/iob-soc](https://reviewgithub.com/rep/IObundle/iob-soc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 88 | 66 | 
 | 2022-09-07 | 88 | 66 | 
 
-
-[Detailed charts & statistics for IObundle/iob-soc](https://reviewgithub.com/rep/IObundle/iob-soc)

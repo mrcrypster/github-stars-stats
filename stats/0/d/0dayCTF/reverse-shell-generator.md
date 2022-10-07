@@ -1,12 +1,14 @@
 # 0dayCTF/reverse-shell-generator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 359
 
 ★ Stars: 1491
 
 [Open repository](https://github.com/0dayCTF/reverse-shell-generator)
+
+[Open detailed stats for 0dayCTF/reverse-shell-generator](https://reviewgithub.com/rep/0dayCTF/reverse-shell-generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1436 | 345 | 
 | 2022-09-08 | 1430 | 345 | 
 
-
-[Detailed charts & statistics for 0dayCTF/reverse-shell-generator](https://reviewgithub.com/rep/0dayCTF/reverse-shell-generator)

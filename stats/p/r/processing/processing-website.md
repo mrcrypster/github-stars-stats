@@ -1,12 +1,14 @@
 # processing/processing-website - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 32
 
 [Open repository](https://github.com/processing/processing-website)
+
+[Open detailed stats for processing/processing-website](https://reviewgithub.com/rep/processing/processing-website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 32 | 36 | 
 | 2022-09-07 | 32 | 36 | 
 
-
-[Detailed charts & statistics for processing/processing-website](https://reviewgithub.com/rep/processing/processing-website)

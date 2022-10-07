@@ -1,12 +1,14 @@
 # ezcmd/flask-demo-kustomize - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ezcmd/flask-demo-kustomize)
+
+[Open detailed stats for ezcmd/flask-demo-kustomize](https://reviewgithub.com/rep/ezcmd/flask-demo-kustomize)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 25 | 
 | 2022-09-08 | 2 | 25 | 
 
-
-[Detailed charts & statistics for ezcmd/flask-demo-kustomize](https://reviewgithub.com/rep/ezcmd/flask-demo-kustomize)

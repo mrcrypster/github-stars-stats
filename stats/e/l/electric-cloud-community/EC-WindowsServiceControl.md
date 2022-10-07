@@ -1,12 +1,14 @@
 # electric-cloud-community/EC-WindowsServiceControl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/electric-cloud-community/EC-WindowsServiceControl)
+
+[Open detailed stats for electric-cloud-community/EC-WindowsServiceControl](https://reviewgithub.com/rep/electric-cloud-community/EC-WindowsServiceControl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for electric-cloud-community/EC-WindowsServiceControl](https://reviewgithub.com/rep/electric-cloud-community/EC-WindowsServiceControl)

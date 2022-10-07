@@ -1,12 +1,14 @@
 # eighttrigrams/cljc-minimals - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 19
 
 [Open repository](https://github.com/eighttrigrams/cljc-minimals)
+
+[Open detailed stats for eighttrigrams/cljc-minimals](https://reviewgithub.com/rep/eighttrigrams/cljc-minimals)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | - | 
 | 2022-09-07 | 19 | - | 
 
-
-[Detailed charts & statistics for eighttrigrams/cljc-minimals](https://reviewgithub.com/rep/eighttrigrams/cljc-minimals)

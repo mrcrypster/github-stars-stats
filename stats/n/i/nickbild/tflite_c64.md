@@ -1,12 +1,14 @@
 # nickbild/tflite_c64 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 128
 
 [Open repository](https://github.com/nickbild/tflite_c64)
+
+[Open detailed stats for nickbild/tflite_c64](https://reviewgithub.com/rep/nickbild/tflite_c64)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 127 | - | 
 | 2022-09-07 | 127 | - | 
 
-
-[Detailed charts & statistics for nickbild/tflite_c64](https://reviewgithub.com/rep/nickbild/tflite_c64)

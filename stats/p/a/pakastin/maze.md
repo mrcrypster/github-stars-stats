@@ -1,12 +1,14 @@
 # pakastin/maze - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 82
 
 [Open repository](https://github.com/pakastin/maze)
+
+[Open detailed stats for pakastin/maze](https://reviewgithub.com/rep/pakastin/maze)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 82 | 1 | 
 | 2022-09-07 | 82 | 1 | 
 
-
-[Detailed charts & statistics for pakastin/maze](https://reviewgithub.com/rep/pakastin/maze)

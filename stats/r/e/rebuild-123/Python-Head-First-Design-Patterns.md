@@ -1,12 +1,14 @@
 # rebuild-123/Python-Head-First-Design-Patterns - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 31
 
 ★ Stars: 266
 
 [Open repository](https://github.com/rebuild-123/Python-Head-First-Design-Patterns)
+
+[Open detailed stats for rebuild-123/Python-Head-First-Design-Patterns](https://reviewgithub.com/rep/rebuild-123/Python-Head-First-Design-Patterns)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 260 | 30 | 
 | 2022-09-08 | 260 | 30 | 
 
-
-[Detailed charts & statistics for rebuild-123/Python-Head-First-Design-Patterns](https://reviewgithub.com/rep/rebuild-123/Python-Head-First-Design-Patterns)

@@ -1,12 +1,14 @@
 # convenia/php-full-8.1-image - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/convenia/php-full-8.1-image)
+
+[Open detailed stats for convenia/php-full-8.1-image](https://reviewgithub.com/rep/convenia/php-full-8.1-image)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for convenia/php-full-8.1-image](https://reviewgithub.com/rep/convenia/php-full-8.1-image)

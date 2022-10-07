@@ -1,12 +1,14 @@
 # starknet-edu/starknet-accounts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 41
 
 [Open repository](https://github.com/starknet-edu/starknet-accounts)
+
+[Open detailed stats for starknet-edu/starknet-accounts](https://reviewgithub.com/rep/starknet-edu/starknet-accounts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 36 | 7 | 
 | 2022-09-08 | 36 | 7 | 
 
-
-[Detailed charts & statistics for starknet-edu/starknet-accounts](https://reviewgithub.com/rep/starknet-edu/starknet-accounts)

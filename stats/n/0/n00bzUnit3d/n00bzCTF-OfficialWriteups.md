@@ -1,12 +1,14 @@
 # n00bzUnit3d/n00bzCTF-OfficialWriteups - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 6
 
 [Open repository](https://github.com/n00bzUnit3d/n00bzCTF-OfficialWriteups)
+
+[Open detailed stats for n00bzUnit3d/n00bzCTF-OfficialWriteups](https://reviewgithub.com/rep/n00bzUnit3d/n00bzCTF-OfficialWriteups)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 4 | 
 | 2022-09-08 | 6 | 4 | 
 
-
-[Detailed charts & statistics for n00bzUnit3d/n00bzCTF-OfficialWriteups](https://reviewgithub.com/rep/n00bzUnit3d/n00bzCTF-OfficialWriteups)

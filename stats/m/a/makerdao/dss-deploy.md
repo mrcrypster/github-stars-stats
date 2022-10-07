@@ -1,12 +1,14 @@
 # makerdao/dss-deploy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 65
 
 [Open repository](https://github.com/makerdao/dss-deploy)
+
+[Open detailed stats for makerdao/dss-deploy](https://reviewgithub.com/rep/makerdao/dss-deploy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 65 | 29 | 
 | 2022-09-07 | 65 | 29 | 
 
-
-[Detailed charts & statistics for makerdao/dss-deploy](https://reviewgithub.com/rep/makerdao/dss-deploy)

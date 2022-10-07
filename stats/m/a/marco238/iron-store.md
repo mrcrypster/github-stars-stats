@@ -1,12 +1,14 @@
 # marco238/iron-store - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/marco238/iron-store)
+
+[Open detailed stats for marco238/iron-store](https://reviewgithub.com/rep/marco238/iron-store)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
 
-
-[Detailed charts & statistics for marco238/iron-store](https://reviewgithub.com/rep/marco238/iron-store)

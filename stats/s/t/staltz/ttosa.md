@@ -1,12 +1,14 @@
 # staltz/ttosa - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 69
 
 [Open repository](https://github.com/staltz/ttosa)
+
+[Open detailed stats for staltz/ttosa](https://reviewgithub.com/rep/staltz/ttosa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 63 | 10 | 
 | 2022-09-08 | 62 | 10 | 
 
-
-[Detailed charts & statistics for staltz/ttosa](https://reviewgithub.com/rep/staltz/ttosa)

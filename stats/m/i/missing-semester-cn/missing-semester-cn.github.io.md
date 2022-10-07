@@ -1,12 +1,14 @@
 # missing-semester-cn/missing-semester-cn.github.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 499
 
 ★ Stars: 3835
 
 [Open repository](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+
+[Open detailed stats for missing-semester-cn/missing-semester-cn.github.io](https://reviewgithub.com/rep/missing-semester-cn/missing-semester-cn.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3765 | 493 | 
 | 2022-09-07 | 3763 | 493 | 
 
-
-[Detailed charts & statistics for missing-semester-cn/missing-semester-cn.github.io](https://reviewgithub.com/rep/missing-semester-cn/missing-semester-cn.github.io)

@@ -1,12 +1,14 @@
 # razorpay/razorpay-pod - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 22
 
 [Open repository](https://github.com/razorpay/razorpay-pod)
+
+[Open detailed stats for razorpay/razorpay-pod](https://reviewgithub.com/rep/razorpay/razorpay-pod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 22 | 11 | 
 | 2022-09-07 | 22 | 11 | 
 
-
-[Detailed charts & statistics for razorpay/razorpay-pod](https://reviewgithub.com/rep/razorpay/razorpay-pod)

@@ -1,6 +1,6 @@
 # purescript/purescript-profunctor - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
@@ -8,9 +8,12 @@ Stats updated on Mar 54732, 17
 
 [Open repository](https://github.com/purescript/purescript-profunctor)
 
+[Open detailed stats for purescript/purescript-profunctor](https://reviewgithub.com/rep/purescript/purescript-profunctor)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 29 | 13 | 
 | 2022-10-06 | 29 | 13 | 
 | 2022-10-05 | 29 | 13 | 
 | 2022-10-04 | 29 | 13 | 
@@ -41,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 13 | 
 | 2022-09-08 | 29 | 13 | 
 
-
-[Detailed charts & statistics for purescript/purescript-profunctor](https://reviewgithub.com/rep/purescript/purescript-profunctor)

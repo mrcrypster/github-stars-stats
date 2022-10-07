@@ -1,12 +1,14 @@
 # Azure-Samples/todo-csharp-sql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
 
 [Open repository](https://github.com/Azure-Samples/todo-csharp-sql)
+
+[Open detailed stats for Azure-Samples/todo-csharp-sql](https://reviewgithub.com/rep/Azure-Samples/todo-csharp-sql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-29 | 8 | - | 
 | 2022-09-28 | 8 | - | 
 
-
-[Detailed charts & statistics for Azure-Samples/todo-csharp-sql](https://reviewgithub.com/rep/Azure-Samples/todo-csharp-sql)

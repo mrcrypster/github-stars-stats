@@ -1,12 +1,14 @@
 # postmodern/npm_scan - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 19
 
 [Open repository](https://github.com/postmodern/npm_scan)
+
+[Open detailed stats for postmodern/npm_scan](https://reviewgithub.com/rep/postmodern/npm_scan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 19 | 2 | 
 | 2022-09-08 | 19 | 2 | 
 
-
-[Detailed charts & statistics for postmodern/npm_scan](https://reviewgithub.com/rep/postmodern/npm_scan)

@@ -1,12 +1,14 @@
 # hashicorp/nomad-scala-sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 18
 
 [Open repository](https://github.com/hashicorp/nomad-scala-sdk)
+
+[Open detailed stats for hashicorp/nomad-scala-sdk](https://reviewgithub.com/rep/hashicorp/nomad-scala-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 5 | 
 | 2022-09-07 | 18 | 5 | 
 
-
-[Detailed charts & statistics for hashicorp/nomad-scala-sdk](https://reviewgithub.com/rep/hashicorp/nomad-scala-sdk)

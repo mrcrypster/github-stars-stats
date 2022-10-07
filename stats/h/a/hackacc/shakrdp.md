@@ -1,12 +1,14 @@
 # hackacc/shakrdp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 68
 
 ★ Stars: 1
 
 [Open repository](https://github.com/hackacc/shakrdp)
+
+[Open detailed stats for hackacc/shakrdp](https://reviewgithub.com/rep/hackacc/shakrdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 1 | 47 | 
 | 2022-09-13 | 1 | 47 | 
 
-
-[Detailed charts & statistics for hackacc/shakrdp](https://reviewgithub.com/rep/hackacc/shakrdp)

@@ -1,12 +1,14 @@
 # ethz-asl/metis_catkin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/ethz-asl/metis_catkin)
+
+[Open detailed stats for ethz-asl/metis_catkin](https://reviewgithub.com/rep/ethz-asl/metis_catkin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 2 | 
 | 2022-09-07 | 3 | 2 | 
 
-
-[Detailed charts & statistics for ethz-asl/metis_catkin](https://reviewgithub.com/rep/ethz-asl/metis_catkin)

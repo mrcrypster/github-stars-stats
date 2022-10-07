@@ -1,12 +1,14 @@
 # Deen0X/DNXDOScript - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 36
 
 [Open repository](https://github.com/Deen0X/DNXDOScript)
+
+[Open detailed stats for Deen0X/DNXDOScript](https://reviewgithub.com/rep/Deen0X/DNXDOScript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 34 | 8 | 
 | 2022-09-07 | 34 | 8 | 
 
-
-[Detailed charts & statistics for Deen0X/DNXDOScript](https://reviewgithub.com/rep/Deen0X/DNXDOScript)

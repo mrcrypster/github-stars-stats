@@ -1,12 +1,14 @@
 # matrix-org/sytest - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 54
 
 ★ Stars: 65
 
 [Open repository](https://github.com/matrix-org/sytest)
+
+[Open detailed stats for matrix-org/sytest](https://reviewgithub.com/rep/matrix-org/sytest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 63 | 52 | 
 | 2022-09-08 | 63 | 52 | 
 
-
-[Detailed charts & statistics for matrix-org/sytest](https://reviewgithub.com/rep/matrix-org/sytest)

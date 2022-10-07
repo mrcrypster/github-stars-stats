@@ -1,12 +1,14 @@
 # IObundle/iob-picorv32 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 10
 
 [Open repository](https://github.com/IObundle/iob-picorv32)
+
+[Open detailed stats for IObundle/iob-picorv32](https://reviewgithub.com/rep/IObundle/iob-picorv32)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 12 | 
 | 2022-09-08 | 9 | 12 | 
 
-
-[Detailed charts & statistics for IObundle/iob-picorv32](https://reviewgithub.com/rep/IObundle/iob-picorv32)

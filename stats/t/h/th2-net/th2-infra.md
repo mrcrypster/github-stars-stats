@@ -1,12 +1,14 @@
 # th2-net/th2-infra - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 4
 
 [Open repository](https://github.com/th2-net/th2-infra)
+
+[Open detailed stats for th2-net/th2-infra](https://reviewgithub.com/rep/th2-net/th2-infra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 10 | 
 | 2022-09-07 | 4 | 10 | 
 
-
-[Detailed charts & statistics for th2-net/th2-infra](https://reviewgithub.com/rep/th2-net/th2-infra)

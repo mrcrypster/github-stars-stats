@@ -1,12 +1,14 @@
 # epfl-theos/koopmans - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 7
 
 [Open repository](https://github.com/epfl-theos/koopmans)
+
+[Open detailed stats for epfl-theos/koopmans](https://reviewgithub.com/rep/epfl-theos/koopmans)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 7 | 1 | 
 | 2022-09-15 | 7 | 1 | 
 
-
-[Detailed charts & statistics for epfl-theos/koopmans](https://reviewgithub.com/rep/epfl-theos/koopmans)

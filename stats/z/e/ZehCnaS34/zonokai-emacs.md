@@ -1,12 +1,14 @@
 # ZehCnaS34/zonokai-emacs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 10
 
 [Open repository](https://github.com/ZehCnaS34/zonokai-emacs)
+
+[Open detailed stats for ZehCnaS34/zonokai-emacs](https://reviewgithub.com/rep/ZehCnaS34/zonokai-emacs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 5 | 
 | 2022-09-08 | 10 | 5 | 
 
-
-[Detailed charts & statistics for ZehCnaS34/zonokai-emacs](https://reviewgithub.com/rep/ZehCnaS34/zonokai-emacs)

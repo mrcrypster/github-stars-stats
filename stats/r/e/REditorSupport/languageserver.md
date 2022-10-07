@@ -1,12 +1,14 @@
 # REditorSupport/languageserver - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 71
 
 ★ Stars: 467
 
 [Open repository](https://github.com/REditorSupport/languageserver)
+
+[Open detailed stats for REditorSupport/languageserver](https://reviewgithub.com/rep/REditorSupport/languageserver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 466 | 70 | 
 | 2022-09-08 | 466 | 70 | 
 
-
-[Detailed charts & statistics for REditorSupport/languageserver](https://reviewgithub.com/rep/REditorSupport/languageserver)

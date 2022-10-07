@@ -1,12 +1,14 @@
 # geffk2/AbstractSyntaxTree - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/geffk2/AbstractSyntaxTree)
+
+[Open detailed stats for geffk2/AbstractSyntaxTree](https://reviewgithub.com/rep/geffk2/AbstractSyntaxTree)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | - | 
 | 2022-09-07 | 6 | - | 
 
-
-[Detailed charts & statistics for geffk2/AbstractSyntaxTree](https://reviewgithub.com/rep/geffk2/AbstractSyntaxTree)

@@ -1,12 +1,14 @@
 # filewalkwithme/gvm-openvas-docker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 12
 
 [Open repository](https://github.com/filewalkwithme/gvm-openvas-docker)
+
+[Open detailed stats for filewalkwithme/gvm-openvas-docker](https://reviewgithub.com/rep/filewalkwithme/gvm-openvas-docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 11 | 
 | 2022-09-08 | 12 | 11 | 
 
-
-[Detailed charts & statistics for filewalkwithme/gvm-openvas-docker](https://reviewgithub.com/rep/filewalkwithme/gvm-openvas-docker)

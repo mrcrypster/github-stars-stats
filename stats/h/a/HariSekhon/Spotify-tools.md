@@ -1,12 +1,14 @@
 # HariSekhon/Spotify-tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 49
 
 [Open repository](https://github.com/HariSekhon/Spotify-tools)
+
+[Open detailed stats for HariSekhon/Spotify-tools](https://reviewgithub.com/rep/HariSekhon/Spotify-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | 4 | 
 | 2022-09-07 | 49 | 4 | 
 
-
-[Detailed charts & statistics for HariSekhon/Spotify-tools](https://reviewgithub.com/rep/HariSekhon/Spotify-tools)

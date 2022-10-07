@@ -1,12 +1,14 @@
 # endofunky/ida-nord-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 73
 
 [Open repository](https://github.com/endofunky/ida-nord-theme)
+
+[Open detailed stats for endofunky/ida-nord-theme](https://reviewgithub.com/rep/endofunky/ida-nord-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 73 | 3 | 
 | 2022-09-07 | 73 | 3 | 
 
-
-[Detailed charts & statistics for endofunky/ida-nord-theme](https://reviewgithub.com/rep/endofunky/ida-nord-theme)

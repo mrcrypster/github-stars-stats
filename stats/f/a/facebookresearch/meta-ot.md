@@ -1,12 +1,14 @@
 # facebookresearch/meta-ot - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 75
 
 [Open repository](https://github.com/facebookresearch/meta-ot)
+
+[Open detailed stats for facebookresearch/meta-ot](https://reviewgithub.com/rep/facebookresearch/meta-ot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 74 | 4 | 
 | 2022-09-08 | 74 | 4 | 
 
-
-[Detailed charts & statistics for facebookresearch/meta-ot](https://reviewgithub.com/rep/facebookresearch/meta-ot)

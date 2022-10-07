@@ -1,12 +1,14 @@
 # Sonal0409/Purdue_DevOps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Sonal0409/Purdue_DevOps)
+
+[Open detailed stats for Sonal0409/Purdue_DevOps](https://reviewgithub.com/rep/Sonal0409/Purdue_DevOps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 23 | 
 | 2022-09-08 | 1 | 23 | 
 
-
-[Detailed charts & statistics for Sonal0409/Purdue_DevOps](https://reviewgithub.com/rep/Sonal0409/Purdue_DevOps)

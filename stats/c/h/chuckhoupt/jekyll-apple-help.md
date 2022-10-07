@@ -1,12 +1,14 @@
 # chuckhoupt/jekyll-apple-help - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 182
 
 [Open repository](https://github.com/chuckhoupt/jekyll-apple-help)
+
+[Open detailed stats for chuckhoupt/jekyll-apple-help](https://reviewgithub.com/rep/chuckhoupt/jekyll-apple-help)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 182 | 15 | 
 | 2022-09-07 | 182 | 15 | 
 
-
-[Detailed charts & statistics for chuckhoupt/jekyll-apple-help](https://reviewgithub.com/rep/chuckhoupt/jekyll-apple-help)

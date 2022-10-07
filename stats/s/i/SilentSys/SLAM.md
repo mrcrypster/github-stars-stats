@@ -1,12 +1,14 @@
 # SilentSys/SLAM - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 122
 
 ★ Stars: 342
 
 [Open repository](https://github.com/SilentSys/SLAM)
+
+[Open detailed stats for SilentSys/SLAM](https://reviewgithub.com/rep/SilentSys/SLAM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 338 | 121 | 
 | 2022-09-08 | 338 | 121 | 
 
-
-[Detailed charts & statistics for SilentSys/SLAM](https://reviewgithub.com/rep/SilentSys/SLAM)

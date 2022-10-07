@@ -1,12 +1,14 @@
 # BL-MSCH-C220-S22/Exercise-06b-Animation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BL-MSCH-C220-S22/Exercise-06b-Animation)
+
+[Open detailed stats for BL-MSCH-C220-S22/Exercise-06b-Animation](https://reviewgithub.com/rep/BL-MSCH-C220-S22/Exercise-06b-Animation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 37 | 
 | 2022-09-08 | - | 37 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-S22/Exercise-06b-Animation](https://reviewgithub.com/rep/BL-MSCH-C220-S22/Exercise-06b-Animation)

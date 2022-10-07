@@ -1,12 +1,14 @@
 # treinaweb/workshop-multistack-adote-um-pet-react - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 31
 
 [Open repository](https://github.com/treinaweb/workshop-multistack-adote-um-pet-react)
+
+[Open detailed stats for treinaweb/workshop-multistack-adote-um-pet-react](https://reviewgithub.com/rep/treinaweb/workshop-multistack-adote-um-pet-react)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 21 | 
 | 2022-09-07 | 30 | 21 | 
 
-
-[Detailed charts & statistics for treinaweb/workshop-multistack-adote-um-pet-react](https://reviewgithub.com/rep/treinaweb/workshop-multistack-adote-um-pet-react)

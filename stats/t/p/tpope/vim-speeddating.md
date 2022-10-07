@@ -1,12 +1,14 @@
 # tpope/vim-speeddating - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 768
 
 [Open repository](https://github.com/tpope/vim-speeddating)
+
+[Open detailed stats for tpope/vim-speeddating](https://reviewgithub.com/rep/tpope/vim-speeddating)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 765 | 42 | 
 | 2022-09-07 | 765 | 42 | 
 
-
-[Detailed charts & statistics for tpope/vim-speeddating](https://reviewgithub.com/rep/tpope/vim-speeddating)

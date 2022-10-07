@@ -1,12 +1,14 @@
 # frosty/NME-Multitouch-Example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 19
 
 [Open repository](https://github.com/frosty/NME-Multitouch-Example)
+
+[Open detailed stats for frosty/NME-Multitouch-Example](https://reviewgithub.com/rep/frosty/NME-Multitouch-Example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 4 | 
 | 2022-09-07 | 19 | 4 | 
 
-
-[Detailed charts & statistics for frosty/NME-Multitouch-Example](https://reviewgithub.com/rep/frosty/NME-Multitouch-Example)

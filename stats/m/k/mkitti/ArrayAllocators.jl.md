@@ -1,12 +1,14 @@
 # mkitti/ArrayAllocators.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 44
 
 [Open repository](https://github.com/mkitti/ArrayAllocators.jl)
+
+[Open detailed stats for mkitti/ArrayAllocators.jl](https://reviewgithub.com/rep/mkitti/ArrayAllocators.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 1 | 
 | 2022-09-07 | 45 | 1 | 
 
-
-[Detailed charts & statistics for mkitti/ArrayAllocators.jl](https://reviewgithub.com/rep/mkitti/ArrayAllocators.jl)

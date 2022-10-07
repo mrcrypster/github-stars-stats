@@ -1,12 +1,14 @@
 # editso/gungnir - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 71
 
 [Open repository](https://github.com/editso/gungnir)
+
+[Open detailed stats for editso/gungnir](https://reviewgithub.com/rep/editso/gungnir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 71 | 8 | 
 | 2022-09-07 | 71 | 8 | 
 
-
-[Detailed charts & statistics for editso/gungnir](https://reviewgithub.com/rep/editso/gungnir)

@@ -1,12 +1,14 @@
 # kenken64/NUSISS-DevOpsEng - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 333
 
 ★ Stars: 51
 
 [Open repository](https://github.com/kenken64/NUSISS-DevOpsEng)
+
+[Open detailed stats for kenken64/NUSISS-DevOpsEng](https://reviewgithub.com/rep/kenken64/NUSISS-DevOpsEng)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 50 | 317 | 
 | 2022-09-08 | 50 | 317 | 
 
-
-[Detailed charts & statistics for kenken64/NUSISS-DevOpsEng](https://reviewgithub.com/rep/kenken64/NUSISS-DevOpsEng)

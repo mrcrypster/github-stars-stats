@@ -1,12 +1,14 @@
 # dark-Jedi2108/nvide - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 49
 
 [Open repository](https://github.com/dark-Jedi2108/nvide)
+
+[Open detailed stats for dark-Jedi2108/nvide](https://reviewgithub.com/rep/dark-Jedi2108/nvide)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 46 | 4 | 
 | 2022-10-04 | 46 | 4 | 
 
-
-[Detailed charts & statistics for dark-Jedi2108/nvide](https://reviewgithub.com/rep/dark-Jedi2108/nvide)

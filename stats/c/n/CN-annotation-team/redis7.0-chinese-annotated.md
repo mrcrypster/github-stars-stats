@@ -1,12 +1,14 @@
 # CN-annotation-team/redis7.0-chinese-annotated - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
 ★ Stars: 244
 
 [Open repository](https://github.com/CN-annotation-team/redis7.0-chinese-annotated)
+
+[Open detailed stats for CN-annotation-team/redis7.0-chinese-annotated](https://reviewgithub.com/rep/CN-annotation-team/redis7.0-chinese-annotated)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 232 | 67 | 
 | 2022-09-07 | 231 | 66 | 
 
-
-[Detailed charts & statistics for CN-annotation-team/redis7.0-chinese-annotated](https://reviewgithub.com/rep/CN-annotation-team/redis7.0-chinese-annotated)

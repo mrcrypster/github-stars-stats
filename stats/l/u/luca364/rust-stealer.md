@@ -6,9 +6,9 @@
 
 [Open repository](https://github.com/luca364/rust-stealer)
 
+[Open detailed stats for luca364/rust-stealer](https://reviewgithub.com/rep/luca364/rust-stealer)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 
-
-[Detailed charts & statistics for luca364/rust-stealer](https://reviewgithub.com/rep/luca364/rust-stealer)

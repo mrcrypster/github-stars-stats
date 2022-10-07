@@ -1,12 +1,14 @@
 # eangulee/UnityShader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 31
 
 [Open repository](https://github.com/eangulee/UnityShader)
+
+[Open detailed stats for eangulee/UnityShader](https://reviewgithub.com/rep/eangulee/UnityShader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 7 | 
 | 2022-09-07 | 30 | 7 | 
 
-
-[Detailed charts & statistics for eangulee/UnityShader](https://reviewgithub.com/rep/eangulee/UnityShader)

@@ -1,12 +1,14 @@
 # disnake-ru/guide - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/disnake-ru/guide)
+
+[Open detailed stats for disnake-ru/guide](https://reviewgithub.com/rep/disnake-ru/guide)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 5 | 
 | 2022-09-07 | 8 | 5 | 
 
-
-[Detailed charts & statistics for disnake-ru/guide](https://reviewgithub.com/rep/disnake-ru/guide)

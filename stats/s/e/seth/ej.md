@@ -1,12 +1,14 @@
 # seth/ej - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 47
 
 ★ Stars: 176
 
 [Open repository](https://github.com/seth/ej)
+
+[Open detailed stats for seth/ej](https://reviewgithub.com/rep/seth/ej)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 176 | 47 | 
 | 2022-09-07 | 176 | 47 | 
 
-
-[Detailed charts & statistics for seth/ej](https://reviewgithub.com/rep/seth/ej)

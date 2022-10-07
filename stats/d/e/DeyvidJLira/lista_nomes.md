@@ -1,12 +1,14 @@
 # DeyvidJLira/lista_nomes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 1
 
 [Open repository](https://github.com/DeyvidJLira/lista_nomes)
+
+[Open detailed stats for DeyvidJLira/lista_nomes](https://reviewgithub.com/rep/DeyvidJLira/lista_nomes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 1 | 21 | 
 | 2022-09-11 | 1 | 21 | 
 
-
-[Detailed charts & statistics for DeyvidJLira/lista_nomes](https://reviewgithub.com/rep/DeyvidJLira/lista_nomes)

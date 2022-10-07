@@ -1,12 +1,14 @@
 # revanced/revanced.github.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 33
 
 [Open repository](https://github.com/revanced/revanced.github.io)
+
+[Open detailed stats for revanced/revanced.github.io](https://reviewgithub.com/rep/revanced/revanced.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 32 | 5 | 
 | 2022-09-08 | 32 | 5 | 
 
-
-[Detailed charts & statistics for revanced/revanced.github.io](https://reviewgithub.com/rep/revanced/revanced.github.io)

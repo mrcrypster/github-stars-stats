@@ -1,12 +1,14 @@
 # MathiasHarrer/Doing-Meta-Analysis-in-R - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 139
 
 ★ Stars: 218
 
 [Open repository](https://github.com/MathiasHarrer/Doing-Meta-Analysis-in-R)
+
+[Open detailed stats for MathiasHarrer/Doing-Meta-Analysis-in-R](https://reviewgithub.com/rep/MathiasHarrer/Doing-Meta-Analysis-in-R)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 209 | 137 | 
 | 2022-09-07 | 209 | 136 | 
 
-
-[Detailed charts & statistics for MathiasHarrer/Doing-Meta-Analysis-in-R](https://reviewgithub.com/rep/MathiasHarrer/Doing-Meta-Analysis-in-R)

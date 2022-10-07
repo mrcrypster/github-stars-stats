@@ -1,12 +1,14 @@
 # wangzyon/NVIDIA_SGEMM_PRACTICE - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 23
 
 [Open repository](https://github.com/wangzyon/NVIDIA_SGEMM_PRACTICE)
+
+[Open detailed stats for wangzyon/NVIDIA_SGEMM_PRACTICE](https://reviewgithub.com/rep/wangzyon/NVIDIA_SGEMM_PRACTICE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 5 | 
 | 2022-09-07 | 22 | 5 | 
 
-
-[Detailed charts & statistics for wangzyon/NVIDIA_SGEMM_PRACTICE](https://reviewgithub.com/rep/wangzyon/NVIDIA_SGEMM_PRACTICE)

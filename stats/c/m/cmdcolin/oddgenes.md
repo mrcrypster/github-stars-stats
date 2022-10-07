@@ -1,12 +1,14 @@
 # cmdcolin/oddgenes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 169
 
 [Open repository](https://github.com/cmdcolin/oddgenes)
+
+[Open detailed stats for cmdcolin/oddgenes](https://reviewgithub.com/rep/cmdcolin/oddgenes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 166 | 10 | 
 | 2022-09-08 | 166 | 10 | 
 
-
-[Detailed charts & statistics for cmdcolin/oddgenes](https://reviewgithub.com/rep/cmdcolin/oddgenes)

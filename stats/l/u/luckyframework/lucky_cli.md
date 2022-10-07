@@ -1,12 +1,14 @@
 # luckyframework/lucky_cli - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 82
 
 [Open repository](https://github.com/luckyframework/lucky_cli)
+
+[Open detailed stats for luckyframework/lucky_cli](https://reviewgithub.com/rep/luckyframework/lucky_cli)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 81 | 49 | 
 | 2022-09-22 | 81 | 48 | 
 
-
-[Detailed charts & statistics for luckyframework/lucky_cli](https://reviewgithub.com/rep/luckyframework/lucky_cli)

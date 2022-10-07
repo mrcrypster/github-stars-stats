@@ -1,12 +1,14 @@
 # redgans/RDPFREEs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 186
 
 ★ Stars: 1
 
 [Open repository](https://github.com/redgans/RDPFREEs)
+
+[Open detailed stats for redgans/RDPFREEs](https://reviewgithub.com/rep/redgans/RDPFREEs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 177 | 
 | 2022-09-07 | 1 | 176 | 
 
-
-[Detailed charts & statistics for redgans/RDPFREEs](https://reviewgithub.com/rep/redgans/RDPFREEs)

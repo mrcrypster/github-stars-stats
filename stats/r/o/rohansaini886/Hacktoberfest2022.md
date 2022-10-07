@@ -1,12 +1,14 @@
 # rohansaini886/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 238
 
 ★ Stars: 53
 
 [Open repository](https://github.com/rohansaini886/Hacktoberfest2022)
+
+[Open detailed stats for rohansaini886/Hacktoberfest2022](https://reviewgithub.com/rep/rohansaini886/Hacktoberfest2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 41 | 193 | 
 | 2022-09-30 | 28 | 61 | 
 
-
-[Detailed charts & statistics for rohansaini886/Hacktoberfest2022](https://reviewgithub.com/rep/rohansaini886/Hacktoberfest2022)

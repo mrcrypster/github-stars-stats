@@ -1,12 +1,14 @@
 # lballabio/QuantLib-SWIG - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 255
 
 ★ Stars: 257
 
 [Open repository](https://github.com/lballabio/QuantLib-SWIG)
+
+[Open detailed stats for lballabio/QuantLib-SWIG](https://reviewgithub.com/rep/lballabio/QuantLib-SWIG)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 251 | 249 | 
 | 2022-09-07 | 251 | 249 | 
 
-
-[Detailed charts & statistics for lballabio/QuantLib-SWIG](https://reviewgithub.com/rep/lballabio/QuantLib-SWIG)

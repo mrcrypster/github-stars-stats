@@ -1,12 +1,14 @@
 # tonymillion/Reachability - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1256
 
 ★ Stars: 6947
 
 [Open repository](https://github.com/tonymillion/Reachability)
+
+[Open detailed stats for tonymillion/Reachability](https://reviewgithub.com/rep/tonymillion/Reachability)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6945 | 1256 | 
 | 2022-09-08 | 6946 | 1256 | 
 
-
-[Detailed charts & statistics for tonymillion/Reachability](https://reviewgithub.com/rep/tonymillion/Reachability)

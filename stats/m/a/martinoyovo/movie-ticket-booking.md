@@ -1,12 +1,14 @@
 # martinoyovo/movie-ticket-booking - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 36
 
 [Open repository](https://github.com/martinoyovo/movie-ticket-booking)
+
+[Open detailed stats for martinoyovo/movie-ticket-booking](https://reviewgithub.com/rep/martinoyovo/movie-ticket-booking)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 35 | 9 | 
 | 2022-09-08 | 35 | 9 | 
 
-
-[Detailed charts & statistics for martinoyovo/movie-ticket-booking](https://reviewgithub.com/rep/martinoyovo/movie-ticket-booking)

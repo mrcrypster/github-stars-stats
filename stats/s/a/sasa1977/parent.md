@@ -1,12 +1,14 @@
 # sasa1977/parent - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 244
 
 [Open repository](https://github.com/sasa1977/parent)
+
+[Open detailed stats for sasa1977/parent](https://reviewgithub.com/rep/sasa1977/parent)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 242 | 20 | 
 | 2022-09-07 | 242 | 20 | 
 
-
-[Detailed charts & statistics for sasa1977/parent](https://reviewgithub.com/rep/sasa1977/parent)

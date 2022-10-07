@@ -1,12 +1,14 @@
 # sslsimon/Download_test - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sslsimon/Download_test)
+
+[Open detailed stats for sslsimon/Download_test](https://reviewgithub.com/rep/sslsimon/Download_test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for sslsimon/Download_test](https://reviewgithub.com/rep/sslsimon/Download_test)

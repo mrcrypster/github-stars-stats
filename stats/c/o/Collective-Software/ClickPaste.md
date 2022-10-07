@@ -1,12 +1,14 @@
 # Collective-Software/ClickPaste - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 173
 
 [Open repository](https://github.com/Collective-Software/ClickPaste)
+
+[Open detailed stats for Collective-Software/ClickPaste](https://reviewgithub.com/rep/Collective-Software/ClickPaste)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 162 | 6 | 
 | 2022-09-30 | 153 | 5 | 
 
-
-[Detailed charts & statistics for Collective-Software/ClickPaste](https://reviewgithub.com/rep/Collective-Software/ClickPaste)

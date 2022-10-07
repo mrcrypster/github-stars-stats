@@ -1,12 +1,14 @@
 # polkadot-js/apps - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1007
 
 ★ Stars: 1560
 
 [Open repository](https://github.com/polkadot-js/apps)
+
+[Open detailed stats for polkadot-js/apps](https://reviewgithub.com/rep/polkadot-js/apps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1547 | 979 | 
 | 2022-09-07 | 1547 | 979 | 
 
-
-[Detailed charts & statistics for polkadot-js/apps](https://reviewgithub.com/rep/polkadot-js/apps)

@@ -1,12 +1,14 @@
 # andyngojs/crush-love - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 202
 
 ★ Stars: 38
 
 [Open repository](https://github.com/andyngojs/crush-love)
+
+[Open detailed stats for andyngojs/crush-love](https://reviewgithub.com/rep/andyngojs/crush-love)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 199 | 
 | 2022-09-08 | 38 | 199 | 
 
-
-[Detailed charts & statistics for andyngojs/crush-love](https://reviewgithub.com/rep/andyngojs/crush-love)

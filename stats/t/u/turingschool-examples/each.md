@@ -1,12 +1,14 @@
 # turingschool-examples/each - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 1
 
 [Open repository](https://github.com/turingschool-examples/each)
+
+[Open detailed stats for turingschool-examples/each](https://reviewgithub.com/rep/turingschool-examples/each)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 81 | 
 | 2022-09-07 | 1 | 81 | 
 
-
-[Detailed charts & statistics for turingschool-examples/each](https://reviewgithub.com/rep/turingschool-examples/each)

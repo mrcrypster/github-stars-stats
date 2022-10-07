@@ -1,12 +1,14 @@
 # AngelMunoz/fable-bun - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/AngelMunoz/fable-bun)
+
+[Open detailed stats for AngelMunoz/fable-bun](https://reviewgithub.com/rep/AngelMunoz/fable-bun)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | - | 
 | 2022-09-07 | 21 | - | 
 
-
-[Detailed charts & statistics for AngelMunoz/fable-bun](https://reviewgithub.com/rep/AngelMunoz/fable-bun)

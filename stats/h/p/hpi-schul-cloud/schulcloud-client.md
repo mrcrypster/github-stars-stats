@@ -1,12 +1,14 @@
 # hpi-schul-cloud/schulcloud-client - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 31
 
 [Open repository](https://github.com/hpi-schul-cloud/schulcloud-client)
+
+[Open detailed stats for hpi-schul-cloud/schulcloud-client](https://reviewgithub.com/rep/hpi-schul-cloud/schulcloud-client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 31 | 11 | 
 | 2022-09-08 | 31 | 11 | 
 
-
-[Detailed charts & statistics for hpi-schul-cloud/schulcloud-client](https://reviewgithub.com/rep/hpi-schul-cloud/schulcloud-client)

@@ -1,12 +1,14 @@
 # a8cteam51/bfg-workshop - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/a8cteam51/bfg-workshop)
+
+[Open detailed stats for a8cteam51/bfg-workshop](https://reviewgithub.com/rep/a8cteam51/bfg-workshop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
 
-
-[Detailed charts & statistics for a8cteam51/bfg-workshop](https://reviewgithub.com/rep/a8cteam51/bfg-workshop)

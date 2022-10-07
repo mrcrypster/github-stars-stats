@@ -1,12 +1,14 @@
 # Shougo/neosnippet-snippets - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 238
 
 ★ Stars: 317
 
 [Open repository](https://github.com/Shougo/neosnippet-snippets)
+
+[Open detailed stats for Shougo/neosnippet-snippets](https://reviewgithub.com/rep/Shougo/neosnippet-snippets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 317 | 238 | 
 | 2022-09-07 | 317 | 238 | 
 
-
-[Detailed charts & statistics for Shougo/neosnippet-snippets](https://reviewgithub.com/rep/Shougo/neosnippet-snippets)

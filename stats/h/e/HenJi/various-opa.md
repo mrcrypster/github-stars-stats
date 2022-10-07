@@ -1,12 +1,14 @@
 # HenJi/various-opa - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/HenJi/various-opa)
+
+[Open detailed stats for HenJi/various-opa](https://reviewgithub.com/rep/HenJi/various-opa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
 
-
-[Detailed charts & statistics for HenJi/various-opa](https://reviewgithub.com/rep/HenJi/various-opa)

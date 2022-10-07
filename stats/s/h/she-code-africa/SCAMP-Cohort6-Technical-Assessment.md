@@ -1,12 +1,14 @@
 # she-code-africa/SCAMP-Cohort6-Technical-Assessment - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 95
 
 ★ Stars: 32
 
 [Open repository](https://github.com/she-code-africa/SCAMP-Cohort6-Technical-Assessment)
+
+[Open detailed stats for she-code-africa/SCAMP-Cohort6-Technical-Assessment](https://reviewgithub.com/rep/she-code-africa/SCAMP-Cohort6-Technical-Assessment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 33 | 95 | 
 | 2022-09-08 | 33 | 95 | 
 
-
-[Detailed charts & statistics for she-code-africa/SCAMP-Cohort6-Technical-Assessment](https://reviewgithub.com/rep/she-code-africa/SCAMP-Cohort6-Technical-Assessment)

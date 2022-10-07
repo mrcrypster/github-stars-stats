@@ -1,12 +1,14 @@
 # lovechoudoufu/cobaltstrike4.5_cdf - stars & forks statistics
 
-Stats updated on Nov 54693, 16
+Stats updated on Sep 2022, 22
 
 ☋ Forks: 73
 
 ★ Stars: 245
 
 [Open repository](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)
+
+[Open detailed stats for lovechoudoufu/cobaltstrike4.5_cdf](https://reviewgithub.com/rep/lovechoudoufu/cobaltstrike4.5_cdf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Nov 54693, 16
 | 2022-09-09 | 193 | 59 | 
 | 2022-09-08 | 193 | 57 | 
 
-
-[Detailed charts & statistics for lovechoudoufu/cobaltstrike4.5_cdf](https://reviewgithub.com/rep/lovechoudoufu/cobaltstrike4.5_cdf)

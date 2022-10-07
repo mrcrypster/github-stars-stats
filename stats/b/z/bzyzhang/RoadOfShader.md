@@ -1,12 +1,14 @@
 # bzyzhang/RoadOfShader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 49
 
 [Open repository](https://github.com/bzyzhang/RoadOfShader)
+
+[Open detailed stats for bzyzhang/RoadOfShader](https://reviewgithub.com/rep/bzyzhang/RoadOfShader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | 10 | 
 | 2022-09-07 | 49 | 10 | 
 
-
-[Detailed charts & statistics for bzyzhang/RoadOfShader](https://reviewgithub.com/rep/bzyzhang/RoadOfShader)

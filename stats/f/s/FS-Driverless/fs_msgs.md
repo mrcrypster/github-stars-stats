@@ -1,12 +1,14 @@
 # FS-Driverless/fs_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/FS-Driverless/fs_msgs)
+
+[Open detailed stats for FS-Driverless/fs_msgs](https://reviewgithub.com/rep/FS-Driverless/fs_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 4 | 
 | 2022-09-08 | 1 | 4 | 
 
-
-[Detailed charts & statistics for FS-Driverless/fs_msgs](https://reviewgithub.com/rep/FS-Driverless/fs_msgs)

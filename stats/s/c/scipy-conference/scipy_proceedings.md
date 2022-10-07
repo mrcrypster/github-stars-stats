@@ -1,12 +1,14 @@
 # scipy-conference/scipy_proceedings - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 430
 
 ★ Stars: 199
 
 [Open repository](https://github.com/scipy-conference/scipy_proceedings)
+
+[Open detailed stats for scipy-conference/scipy_proceedings](https://reviewgithub.com/rep/scipy-conference/scipy_proceedings)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 200 | 430 | 
 | 2022-09-07 | 200 | 430 | 
 
-
-[Detailed charts & statistics for scipy-conference/scipy_proceedings](https://reviewgithub.com/rep/scipy-conference/scipy_proceedings)

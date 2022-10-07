@@ -1,12 +1,14 @@
 # fujia-cli/stage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 109
 
 [Open repository](https://github.com/fujia-cli/stage)
+
+[Open detailed stats for fujia-cli/stage](https://reviewgithub.com/rep/fujia-cli/stage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 111 | 11 | 
 | 2022-09-07 | 111 | 11 | 
 
-
-[Detailed charts & statistics for fujia-cli/stage](https://reviewgithub.com/rep/fujia-cli/stage)

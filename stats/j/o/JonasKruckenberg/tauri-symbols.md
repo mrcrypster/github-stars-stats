@@ -1,12 +1,14 @@
 # JonasKruckenberg/tauri-symbols - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 17
 
 [Open repository](https://github.com/JonasKruckenberg/tauri-symbols)
+
+[Open detailed stats for JonasKruckenberg/tauri-symbols](https://reviewgithub.com/rep/JonasKruckenberg/tauri-symbols)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 2 | 
 | 2022-09-08 | 16 | 2 | 
 
-
-[Detailed charts & statistics for JonasKruckenberg/tauri-symbols](https://reviewgithub.com/rep/JonasKruckenberg/tauri-symbols)

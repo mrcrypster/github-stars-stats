@@ -1,12 +1,14 @@
 # flipstone/kioku - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 9
 
 [Open repository](https://github.com/flipstone/kioku)
+
+[Open detailed stats for flipstone/kioku](https://reviewgithub.com/rep/flipstone/kioku)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 2 | 
 | 2022-09-07 | 9 | 2 | 
 
-
-[Detailed charts & statistics for flipstone/kioku](https://reviewgithub.com/rep/flipstone/kioku)

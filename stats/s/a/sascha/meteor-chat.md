@@ -1,12 +1,14 @@
 # sascha/meteor-chat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/sascha/meteor-chat)
+
+[Open detailed stats for sascha/meteor-chat](https://reviewgithub.com/rep/sascha/meteor-chat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | - | 
 | 2022-09-08 | 6 | - | 
 
-
-[Detailed charts & statistics for sascha/meteor-chat](https://reviewgithub.com/rep/sascha/meteor-chat)

@@ -1,12 +1,14 @@
 # ponylang/corral - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 172
 
 [Open repository](https://github.com/ponylang/corral)
+
+[Open detailed stats for ponylang/corral](https://reviewgithub.com/rep/ponylang/corral)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 171 | 17 | 
 | 2022-09-07 | 171 | 17 | 
 
-
-[Detailed charts & statistics for ponylang/corral](https://reviewgithub.com/rep/ponylang/corral)

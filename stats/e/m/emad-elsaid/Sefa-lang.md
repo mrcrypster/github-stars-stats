@@ -1,12 +1,14 @@
 # emad-elsaid/Sefa-lang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 8
 
 [Open repository](https://github.com/emad-elsaid/Sefa-lang)
+
+[Open detailed stats for emad-elsaid/Sefa-lang](https://reviewgithub.com/rep/emad-elsaid/Sefa-lang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-28 | 8 | 3 | 
 | 2022-09-27 | 8 | 3 | 
 
-
-[Detailed charts & statistics for emad-elsaid/Sefa-lang](https://reviewgithub.com/rep/emad-elsaid/Sefa-lang)

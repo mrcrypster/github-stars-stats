@@ -1,12 +1,14 @@
 # plux/docopt-erl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 15
 
 [Open repository](https://github.com/plux/docopt-erl)
+
+[Open detailed stats for plux/docopt-erl](https://reviewgithub.com/rep/plux/docopt-erl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 1 | 
 | 2022-09-07 | 15 | 1 | 
 
-
-[Detailed charts & statistics for plux/docopt-erl](https://reviewgithub.com/rep/plux/docopt-erl)

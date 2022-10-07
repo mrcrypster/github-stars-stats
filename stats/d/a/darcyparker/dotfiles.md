@@ -1,12 +1,14 @@
 # darcyparker/dotfiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/darcyparker/dotfiles)
+
+[Open detailed stats for darcyparker/dotfiles](https://reviewgithub.com/rep/darcyparker/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | - | 
 | 2022-09-07 | 12 | - | 
 
-
-[Detailed charts & statistics for darcyparker/dotfiles](https://reviewgithub.com/rep/darcyparker/dotfiles)

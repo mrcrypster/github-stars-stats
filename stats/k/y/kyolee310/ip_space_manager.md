@@ -1,12 +1,14 @@
 # kyolee310/ip_space_manager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/kyolee310/ip_space_manager)
+
+[Open detailed stats for kyolee310/ip_space_manager](https://reviewgithub.com/rep/kyolee310/ip_space_manager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for kyolee310/ip_space_manager](https://reviewgithub.com/rep/kyolee310/ip_space_manager)

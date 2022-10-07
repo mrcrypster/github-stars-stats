@@ -1,12 +1,14 @@
 # ouangyb3/makeitrealcampt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 56
 
 [Open repository](https://github.com/ouangyb3/makeitrealcampt)
+
+[Open detailed stats for ouangyb3/makeitrealcampt](https://reviewgithub.com/rep/ouangyb3/makeitrealcampt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 56 | 25 | 
 | 2022-09-08 | 56 | 25 | 
 
-
-[Detailed charts & statistics for ouangyb3/makeitrealcampt](https://reviewgithub.com/rep/ouangyb3/makeitrealcampt)

@@ -1,12 +1,14 @@
 # acidcoolffc/YapeFake - stars & forks statistics
 
-Stats updated on Aug 54696, 12
+Stats updated on Sep 2022, 23
 
 ☋ Forks: 6
 
 ★ Stars: 21
 
 [Open repository](https://github.com/acidcoolffc/YapeFake)
+
+[Open detailed stats for acidcoolffc/YapeFake](https://reviewgithub.com/rep/acidcoolffc/YapeFake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Aug 54696, 12
 | 2022-09-08 | 20 | 5 | 
 | 2022-09-07 | 20 | 5 | 
 
-
-[Detailed charts & statistics for acidcoolffc/YapeFake](https://reviewgithub.com/rep/acidcoolffc/YapeFake)

@@ -1,12 +1,14 @@
 # husky-misc/husky-academy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 46
 
 [Open repository](https://github.com/husky-misc/husky-academy)
+
+[Open detailed stats for husky-misc/husky-academy](https://reviewgithub.com/rep/husky-misc/husky-academy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 47 | 8 | 
 | 2022-09-08 | 47 | 8 | 
 
-
-[Detailed charts & statistics for husky-misc/husky-academy](https://reviewgithub.com/rep/husky-misc/husky-academy)

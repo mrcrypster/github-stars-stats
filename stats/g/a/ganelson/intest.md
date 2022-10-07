@@ -1,12 +1,14 @@
 # ganelson/intest - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 30
 
 [Open repository](https://github.com/ganelson/intest)
+
+[Open detailed stats for ganelson/intest](https://reviewgithub.com/rep/ganelson/intest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 9 | 
 | 2022-09-07 | 30 | 9 | 
 
-
-[Detailed charts & statistics for ganelson/intest](https://reviewgithub.com/rep/ganelson/intest)

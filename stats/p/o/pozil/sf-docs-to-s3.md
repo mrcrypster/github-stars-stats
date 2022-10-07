@@ -1,12 +1,14 @@
 # pozil/sf-docs-to-s3 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 14
 
 [Open repository](https://github.com/pozil/sf-docs-to-s3)
+
+[Open detailed stats for pozil/sf-docs-to-s3](https://reviewgithub.com/rep/pozil/sf-docs-to-s3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 7 | 
 | 2022-09-07 | 14 | 7 | 
 
-
-[Detailed charts & statistics for pozil/sf-docs-to-s3](https://reviewgithub.com/rep/pozil/sf-docs-to-s3)

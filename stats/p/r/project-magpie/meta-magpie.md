@@ -1,12 +1,14 @@
 # project-magpie/meta-magpie - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/project-magpie/meta-magpie)
+
+[Open detailed stats for project-magpie/meta-magpie](https://reviewgithub.com/rep/project-magpie/meta-magpie)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for project-magpie/meta-magpie](https://reviewgithub.com/rep/project-magpie/meta-magpie)

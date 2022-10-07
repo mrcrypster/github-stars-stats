@@ -1,12 +1,14 @@
 # marcopeg/amazing-postgresql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 11
 
 [Open repository](https://github.com/marcopeg/amazing-postgresql)
+
+[Open detailed stats for marcopeg/amazing-postgresql](https://reviewgithub.com/rep/marcopeg/amazing-postgresql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 9 | 
 | 2022-09-07 | 11 | 9 | 
 
-
-[Detailed charts & statistics for marcopeg/amazing-postgresql](https://reviewgithub.com/rep/marcopeg/amazing-postgresql)

@@ -1,12 +1,14 @@
 # jbtule/OOP-Patterns-in-FSharp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 27
 
 [Open repository](https://github.com/jbtule/OOP-Patterns-in-FSharp)
+
+[Open detailed stats for jbtule/OOP-Patterns-in-FSharp](https://reviewgithub.com/rep/jbtule/OOP-Patterns-in-FSharp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 1 | 
 | 2022-09-08 | 27 | 1 | 
 
-
-[Detailed charts & statistics for jbtule/OOP-Patterns-in-FSharp](https://reviewgithub.com/rep/jbtule/OOP-Patterns-in-FSharp)

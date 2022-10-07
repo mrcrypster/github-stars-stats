@@ -1,12 +1,14 @@
 # sachindu443/Temp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sachindu443/Temp)
+
+[Open detailed stats for sachindu443/Temp](https://reviewgithub.com/rep/sachindu443/Temp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 24 | 
 | 2022-09-08 | 1 | 24 | 
 
-
-[Detailed charts & statistics for sachindu443/Temp](https://reviewgithub.com/rep/sachindu443/Temp)

@@ -1,12 +1,14 @@
 # cjdoris/LogarithmicNumbers.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 50
 
 [Open repository](https://github.com/cjdoris/LogarithmicNumbers.jl)
+
+[Open detailed stats for cjdoris/LogarithmicNumbers.jl](https://reviewgithub.com/rep/cjdoris/LogarithmicNumbers.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 3 | 
 | 2022-09-07 | 48 | 3 | 
 
-
-[Detailed charts & statistics for cjdoris/LogarithmicNumbers.jl](https://reviewgithub.com/rep/cjdoris/LogarithmicNumbers.jl)

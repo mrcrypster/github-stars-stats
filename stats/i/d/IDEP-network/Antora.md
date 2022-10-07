@@ -1,12 +1,14 @@
 # IDEP-network/Antora - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 141
 
 ★ Stars: 14
 
 [Open repository](https://github.com/IDEP-network/Antora)
+
+[Open detailed stats for IDEP-network/Antora](https://reviewgithub.com/rep/IDEP-network/Antora)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 138 | 
 | 2022-09-07 | 14 | 138 | 
 
-
-[Detailed charts & statistics for IDEP-network/Antora](https://reviewgithub.com/rep/IDEP-network/Antora)

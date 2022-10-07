@@ -1,12 +1,14 @@
 # interviewstreet/ghs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 89
 
 ★ Stars: 134
 
 [Open repository](https://github.com/interviewstreet/ghs)
+
+[Open detailed stats for interviewstreet/ghs](https://reviewgithub.com/rep/interviewstreet/ghs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 136 | 92 | 
 | 2022-09-08 | 136 | 92 | 
 
-
-[Detailed charts & statistics for interviewstreet/ghs](https://reviewgithub.com/rep/interviewstreet/ghs)

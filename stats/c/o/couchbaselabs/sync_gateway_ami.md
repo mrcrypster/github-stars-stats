@@ -1,12 +1,14 @@
 # couchbaselabs/sync_gateway_ami - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/couchbaselabs/sync_gateway_ami)
+
+[Open detailed stats for couchbaselabs/sync_gateway_ami](https://reviewgithub.com/rep/couchbaselabs/sync_gateway_ami)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for couchbaselabs/sync_gateway_ami](https://reviewgithub.com/rep/couchbaselabs/sync_gateway_ami)

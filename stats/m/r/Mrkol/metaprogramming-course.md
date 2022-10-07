@@ -1,12 +1,14 @@
 # Mrkol/metaprogramming-course - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Mrkol/metaprogramming-course)
+
+[Open detailed stats for Mrkol/metaprogramming-course](https://reviewgithub.com/rep/Mrkol/metaprogramming-course)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 3 | - | 
 | 2022-10-02 | 3 | - | 
 
-
-[Detailed charts & statistics for Mrkol/metaprogramming-course](https://reviewgithub.com/rep/Mrkol/metaprogramming-course)

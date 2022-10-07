@@ -1,12 +1,14 @@
 # travis-ci/docs-travis-ci-com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3526
 
 ★ Stars: 552
 
 [Open repository](https://github.com/travis-ci/docs-travis-ci-com)
+
+[Open detailed stats for travis-ci/docs-travis-ci-com](https://reviewgithub.com/rep/travis-ci/docs-travis-ci-com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 550 | 3503 | 
 | 2022-09-07 | 550 | 3501 | 
 
-
-[Detailed charts & statistics for travis-ci/docs-travis-ci-com](https://reviewgithub.com/rep/travis-ci/docs-travis-ci-com)

@@ -1,12 +1,14 @@
 # jensimmons/cssremedy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 109
 
 ★ Stars: 2037
 
 [Open repository](https://github.com/jensimmons/cssremedy)
+
+[Open detailed stats for jensimmons/cssremedy](https://reviewgithub.com/rep/jensimmons/cssremedy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2015 | 109 | 
 | 2022-09-07 | 2015 | 109 | 
 
-
-[Detailed charts & statistics for jensimmons/cssremedy](https://reviewgithub.com/rep/jensimmons/cssremedy)

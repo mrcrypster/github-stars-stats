@@ -1,12 +1,14 @@
 # brantou/emacs-go-tag - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 49
 
 [Open repository](https://github.com/brantou/emacs-go-tag)
+
+[Open detailed stats for brantou/emacs-go-tag](https://reviewgithub.com/rep/brantou/emacs-go-tag)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 49 | 3 | 
 | 2022-09-08 | 49 | 3 | 
 
-
-[Detailed charts & statistics for brantou/emacs-go-tag](https://reviewgithub.com/rep/brantou/emacs-go-tag)

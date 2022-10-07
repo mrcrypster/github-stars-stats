@@ -1,12 +1,14 @@
 # redpanda-data/console - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 241
 
 ★ Stars: 2753
 
 [Open repository](https://github.com/redpanda-data/console)
+
+[Open detailed stats for redpanda-data/console](https://reviewgithub.com/rep/redpanda-data/console)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2668 | 226 | 
 | 2022-09-08 | 2665 | 225 | 
 
-
-[Detailed charts & statistics for redpanda-data/console](https://reviewgithub.com/rep/redpanda-data/console)

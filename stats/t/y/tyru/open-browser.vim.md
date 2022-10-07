@@ -1,12 +1,14 @@
 # tyru/open-browser.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 447
 
 [Open repository](https://github.com/tyru/open-browser.vim)
+
+[Open detailed stats for tyru/open-browser.vim](https://reviewgithub.com/rep/tyru/open-browser.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 447 | 45 | 
 | 2022-09-07 | 447 | 45 | 
 
-
-[Detailed charts & statistics for tyru/open-browser.vim](https://reviewgithub.com/rep/tyru/open-browser.vim)

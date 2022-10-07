@@ -1,12 +1,14 @@
 # lambdaisland/facai - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 33
 
 [Open repository](https://github.com/lambdaisland/facai)
+
+[Open detailed stats for lambdaisland/facai](https://reviewgithub.com/rep/lambdaisland/facai)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 30 | 1 | 
 | 2022-09-08 | 30 | 1 | 
 
-
-[Detailed charts & statistics for lambdaisland/facai](https://reviewgithub.com/rep/lambdaisland/facai)

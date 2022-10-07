@@ -1,12 +1,14 @@
 # nomasystems/nqueue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/nomasystems/nqueue)
+
+[Open detailed stats for nomasystems/nqueue](https://reviewgithub.com/rep/nomasystems/nqueue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | - | 
 | 2022-09-08 | 9 | - | 
 
-
-[Detailed charts & statistics for nomasystems/nqueue](https://reviewgithub.com/rep/nomasystems/nqueue)

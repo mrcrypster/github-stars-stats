@@ -1,12 +1,14 @@
 # MIDL-Conference/MIDLLatexTemplate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 58
 
 ★ Stars: 28
 
 [Open repository](https://github.com/MIDL-Conference/MIDLLatexTemplate)
+
+[Open detailed stats for MIDL-Conference/MIDLLatexTemplate](https://reviewgithub.com/rep/MIDL-Conference/MIDLLatexTemplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 58 | 
 | 2022-09-07 | 27 | 58 | 
 
-
-[Detailed charts & statistics for MIDL-Conference/MIDLLatexTemplate](https://reviewgithub.com/rep/MIDL-Conference/MIDLLatexTemplate)

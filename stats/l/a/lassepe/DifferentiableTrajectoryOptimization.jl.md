@@ -1,12 +1,14 @@
 # lassepe/DifferentiableTrajectoryOptimization.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 26
 
 [Open repository](https://github.com/lassepe/DifferentiableTrajectoryOptimization.jl)
+
+[Open detailed stats for lassepe/DifferentiableTrajectoryOptimization.jl](https://reviewgithub.com/rep/lassepe/DifferentiableTrajectoryOptimization.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 26 | 2 | 
 | 2022-09-08 | 26 | 2 | 
 
-
-[Detailed charts & statistics for lassepe/DifferentiableTrajectoryOptimization.jl](https://reviewgithub.com/rep/lassepe/DifferentiableTrajectoryOptimization.jl)

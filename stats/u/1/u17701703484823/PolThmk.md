@@ -1,12 +1,14 @@
 # u17701703484823/PolThmk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 68
 
 [Open repository](https://github.com/u17701703484823/PolThmk)
+
+[Open detailed stats for u17701703484823/PolThmk](https://reviewgithub.com/rep/u17701703484823/PolThmk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 68 | 28 | 
 | 2022-09-08 | 68 | 28 | 
 
-
-[Detailed charts & statistics for u17701703484823/PolThmk](https://reviewgithub.com/rep/u17701703484823/PolThmk)

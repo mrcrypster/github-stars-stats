@@ -1,12 +1,14 @@
 # AdaCore/templates-parser - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 4
 
 [Open repository](https://github.com/AdaCore/templates-parser)
+
+[Open detailed stats for AdaCore/templates-parser](https://reviewgithub.com/rep/AdaCore/templates-parser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 18 | 
 | 2022-09-07 | 4 | 18 | 
 
-
-[Detailed charts & statistics for AdaCore/templates-parser](https://reviewgithub.com/rep/AdaCore/templates-parser)

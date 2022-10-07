@@ -1,12 +1,14 @@
 # mintameta/mintameta-contract-dex - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 63
 
 [Open repository](https://github.com/mintameta/mintameta-contract-dex)
+
+[Open detailed stats for mintameta/mintameta-contract-dex](https://reviewgithub.com/rep/mintameta/mintameta-contract-dex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 63 | 18 | 
 | 2022-09-07 | 63 | 18 | 
 
-
-[Detailed charts & statistics for mintameta/mintameta-contract-dex](https://reviewgithub.com/rep/mintameta/mintameta-contract-dex)

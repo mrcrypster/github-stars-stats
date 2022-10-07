@@ -1,12 +1,14 @@
 # doiim/web3-boilerplate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/doiim/web3-boilerplate)
+
+[Open detailed stats for doiim/web3-boilerplate](https://reviewgithub.com/rep/doiim/web3-boilerplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | 5 | 
 | 2022-09-11 | - | 5 | 
 
-
-[Detailed charts & statistics for doiim/web3-boilerplate](https://reviewgithub.com/rep/doiim/web3-boilerplate)

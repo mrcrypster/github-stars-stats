@@ -1,12 +1,14 @@
 # dromara/liteflow - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 189
 
 ★ Stars: 1080
 
 [Open repository](https://github.com/dromara/liteflow)
+
+[Open detailed stats for dromara/liteflow](https://reviewgithub.com/rep/dromara/liteflow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1002 | 180 | 
 | 2022-09-07 | 999 | 179 | 
 
-
-[Detailed charts & statistics for dromara/liteflow](https://reviewgithub.com/rep/dromara/liteflow)

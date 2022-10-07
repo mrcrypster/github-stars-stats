@@ -1,12 +1,14 @@
 # galaxy-raiders/galaxy-raiders-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 60
 
 ★ Stars: 2
 
 [Open repository](https://github.com/galaxy-raiders/galaxy-raiders-api)
+
+[Open detailed stats for galaxy-raiders/galaxy-raiders-api](https://reviewgithub.com/rep/galaxy-raiders/galaxy-raiders-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 60 | 
 | 2022-09-07 | 2 | 60 | 
 
-
-[Detailed charts & statistics for galaxy-raiders/galaxy-raiders-api](https://reviewgithub.com/rep/galaxy-raiders/galaxy-raiders-api)

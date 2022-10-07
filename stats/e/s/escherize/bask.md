@@ -1,12 +1,14 @@
 # escherize/bask - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
 
 [Open repository](https://github.com/escherize/bask)
+
+[Open detailed stats for escherize/bask](https://reviewgithub.com/rep/escherize/bask)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 21 | - | 
 | 2022-10-03 | 18 | - | 
 
-
-[Detailed charts & statistics for escherize/bask](https://reviewgithub.com/rep/escherize/bask)

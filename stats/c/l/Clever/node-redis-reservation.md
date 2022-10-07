@@ -1,12 +1,14 @@
 # Clever/node-redis-reservation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
 
 [Open repository](https://github.com/Clever/node-redis-reservation)
+
+[Open detailed stats for Clever/node-redis-reservation](https://reviewgithub.com/rep/Clever/node-redis-reservation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 1 | 
 | 2022-09-07 | 5 | 1 | 
 
-
-[Detailed charts & statistics for Clever/node-redis-reservation](https://reviewgithub.com/rep/Clever/node-redis-reservation)

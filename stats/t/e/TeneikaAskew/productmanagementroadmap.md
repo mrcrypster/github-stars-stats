@@ -1,12 +1,14 @@
 # TeneikaAskew/productmanagementroadmap - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 48
 
 [Open repository](https://github.com/TeneikaAskew/productmanagementroadmap)
+
+[Open detailed stats for TeneikaAskew/productmanagementroadmap](https://reviewgithub.com/rep/TeneikaAskew/productmanagementroadmap)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 46 | 4 | 
 | 2022-09-07 | 46 | 3 | 
 
-
-[Detailed charts & statistics for TeneikaAskew/productmanagementroadmap](https://reviewgithub.com/rep/TeneikaAskew/productmanagementroadmap)

@@ -1,12 +1,14 @@
 # f-of-e/f-of-e-tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 5
 
 [Open repository](https://github.com/f-of-e/f-of-e-tools)
+
+[Open detailed stats for f-of-e/f-of-e-tools](https://reviewgithub.com/rep/f-of-e/f-of-e-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 29 | 
 | 2022-09-07 | 5 | 29 | 
 
-
-[Detailed charts & statistics for f-of-e/f-of-e-tools](https://reviewgithub.com/rep/f-of-e/f-of-e-tools)

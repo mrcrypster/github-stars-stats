@@ -1,12 +1,14 @@
 # shinplest/GitriniForkRepo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 117
 
 ★ Stars: 3
 
 [Open repository](https://github.com/shinplest/GitriniForkRepo)
+
+[Open detailed stats for shinplest/GitriniForkRepo](https://reviewgithub.com/rep/shinplest/GitriniForkRepo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 115 | 
 | 2022-09-07 | 3 | 115 | 
 
-
-[Detailed charts & statistics for shinplest/GitriniForkRepo](https://reviewgithub.com/rep/shinplest/GitriniForkRepo)

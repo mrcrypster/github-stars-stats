@@ -1,12 +1,14 @@
 # Pigrecos/CodeDeob - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 29
 
 [Open repository](https://github.com/Pigrecos/CodeDeob)
+
+[Open detailed stats for Pigrecos/CodeDeob](https://reviewgithub.com/rep/Pigrecos/CodeDeob)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 2 | 
 | 2022-09-07 | 26 | 2 | 
 
-
-[Detailed charts & statistics for Pigrecos/CodeDeob](https://reviewgithub.com/rep/Pigrecos/CodeDeob)

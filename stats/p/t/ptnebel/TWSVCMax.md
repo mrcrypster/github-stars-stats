@@ -1,12 +1,14 @@
 # ptnebel/TWSVCMax - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ptnebel/TWSVCMax)
+
+[Open detailed stats for ptnebel/TWSVCMax](https://reviewgithub.com/rep/ptnebel/TWSVCMax)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for ptnebel/TWSVCMax](https://reviewgithub.com/rep/ptnebel/TWSVCMax)

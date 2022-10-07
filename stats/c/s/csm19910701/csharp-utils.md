@@ -1,12 +1,14 @@
 # csm19910701/csharp-utils - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 55
 
 ★ Stars: 95
 
 [Open repository](https://github.com/csm19910701/csharp-utils)
+
+[Open detailed stats for csm19910701/csharp-utils](https://reviewgithub.com/rep/csm19910701/csharp-utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 91 | 52 | 
 | 2022-09-07 | 90 | 51 | 
 
-
-[Detailed charts & statistics for csm19910701/csharp-utils](https://reviewgithub.com/rep/csm19910701/csharp-utils)

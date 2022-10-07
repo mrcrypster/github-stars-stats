@@ -1,12 +1,14 @@
 # minicruiser/Apex-Specialist-Superbadge - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 7
 
 [Open repository](https://github.com/minicruiser/Apex-Specialist-Superbadge)
+
+[Open detailed stats for minicruiser/Apex-Specialist-Superbadge](https://reviewgithub.com/rep/minicruiser/Apex-Specialist-Superbadge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 13 | 
 | 2022-09-07 | 7 | 13 | 
 
-
-[Detailed charts & statistics for minicruiser/Apex-Specialist-Superbadge](https://reviewgithub.com/rep/minicruiser/Apex-Specialist-Superbadge)

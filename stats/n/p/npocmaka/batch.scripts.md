@@ -1,12 +1,14 @@
 # npocmaka/batch.scripts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 676
 
 ★ Stars: 855
 
 [Open repository](https://github.com/npocmaka/batch.scripts)
+
+[Open detailed stats for npocmaka/batch.scripts](https://reviewgithub.com/rep/npocmaka/batch.scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 838 | 669 | 
 | 2022-09-08 | 838 | 668 | 
 
-
-[Detailed charts & statistics for npocmaka/batch.scripts](https://reviewgithub.com/rep/npocmaka/batch.scripts)

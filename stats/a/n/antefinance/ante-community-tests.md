@@ -1,12 +1,14 @@
 # antefinance/ante-community-tests - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 25
 
 [Open repository](https://github.com/antefinance/ante-community-tests)
+
+[Open detailed stats for antefinance/ante-community-tests](https://reviewgithub.com/rep/antefinance/ante-community-tests)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 25 | 35 | 
 | 2022-09-07 | 25 | 35 | 
 
-
-[Detailed charts & statistics for antefinance/ante-community-tests](https://reviewgithub.com/rep/antefinance/ante-community-tests)

@@ -1,12 +1,14 @@
 # chr4/nginx.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 423
 
 [Open repository](https://github.com/chr4/nginx.vim)
+
+[Open detailed stats for chr4/nginx.vim](https://reviewgithub.com/rep/chr4/nginx.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 420 | 40 | 
 | 2022-09-07 | 420 | 40 | 
 
-
-[Detailed charts & statistics for chr4/nginx.vim](https://reviewgithub.com/rep/chr4/nginx.vim)

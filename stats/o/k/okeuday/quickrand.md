@@ -1,12 +1,14 @@
 # okeuday/quickrand - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 35
 
 [Open repository](https://github.com/okeuday/quickrand)
+
+[Open detailed stats for okeuday/quickrand](https://reviewgithub.com/rep/okeuday/quickrand)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 10 | 
 | 2022-09-07 | 35 | 10 | 
 
-
-[Detailed charts & statistics for okeuday/quickrand](https://reviewgithub.com/rep/okeuday/quickrand)

@@ -1,12 +1,14 @@
 # Normation/rudder-plugins - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 9
 
 [Open repository](https://github.com/Normation/rudder-plugins)
+
+[Open detailed stats for Normation/rudder-plugins](https://reviewgithub.com/rep/Normation/rudder-plugins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 22 | 
 | 2022-09-07 | 9 | 22 | 
 
-
-[Detailed charts & statistics for Normation/rudder-plugins](https://reviewgithub.com/rep/Normation/rudder-plugins)

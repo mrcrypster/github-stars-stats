@@ -1,12 +1,14 @@
 # NVIDIA/spark-rapids - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 158
 
 ★ Stars: 458
 
 [Open repository](https://github.com/NVIDIA/spark-rapids)
+
+[Open detailed stats for NVIDIA/spark-rapids](https://reviewgithub.com/rep/NVIDIA/spark-rapids)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 447 | 156 | 
 | 2022-09-07 | 447 | 156 | 
 
-
-[Detailed charts & statistics for NVIDIA/spark-rapids](https://reviewgithub.com/rep/NVIDIA/spark-rapids)

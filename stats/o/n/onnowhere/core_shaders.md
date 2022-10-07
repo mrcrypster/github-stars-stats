@@ -1,12 +1,14 @@
 # onnowhere/core_shaders - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 169
 
 [Open repository](https://github.com/onnowhere/core_shaders)
+
+[Open detailed stats for onnowhere/core_shaders](https://reviewgithub.com/rep/onnowhere/core_shaders)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 167 | 4 | 
 | 2022-09-08 | 167 | 4 | 
 
-
-[Detailed charts & statistics for onnowhere/core_shaders](https://reviewgithub.com/rep/onnowhere/core_shaders)

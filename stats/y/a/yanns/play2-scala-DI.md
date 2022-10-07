@@ -1,12 +1,14 @@
 # yanns/play2-scala-DI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 8
 
 [Open repository](https://github.com/yanns/play2-scala-DI)
+
+[Open detailed stats for yanns/play2-scala-DI](https://reviewgithub.com/rep/yanns/play2-scala-DI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 8 | 3 | 
 | 2022-09-07 | 8 | 3 | 
 
-
-[Detailed charts & statistics for yanns/play2-scala-DI](https://reviewgithub.com/rep/yanns/play2-scala-DI)

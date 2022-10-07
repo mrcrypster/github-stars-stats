@@ -1,12 +1,14 @@
 # dballinger/SimpleTreeNavigationDsl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/dballinger/SimpleTreeNavigationDsl)
+
+[Open detailed stats for dballinger/SimpleTreeNavigationDsl](https://reviewgithub.com/rep/dballinger/SimpleTreeNavigationDsl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 1 | - | 
 | 2022-10-04 | 1 | - | 
 
-
-[Detailed charts & statistics for dballinger/SimpleTreeNavigationDsl](https://reviewgithub.com/rep/dballinger/SimpleTreeNavigationDsl)

@@ -1,12 +1,14 @@
 # gren-lang/gren-lang.github.io - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 7
 
 [Open repository](https://github.com/gren-lang/gren-lang.github.io)
+
+[Open detailed stats for gren-lang/gren-lang.github.io](https://reviewgithub.com/rep/gren-lang/gren-lang.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 4 | 
 | 2022-09-08 | 7 | 4 | 
 
-
-[Detailed charts & statistics for gren-lang/gren-lang.github.io](https://reviewgithub.com/rep/gren-lang/gren-lang.github.io)

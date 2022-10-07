@@ -1,12 +1,14 @@
 # OmarJ9/password_vault - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 25
 
 [Open repository](https://github.com/OmarJ9/password_vault)
+
+[Open detailed stats for OmarJ9/password_vault](https://reviewgithub.com/rep/OmarJ9/password_vault)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 4 | 
 | 2022-09-07 | 25 | 4 | 
 
-
-[Detailed charts & statistics for OmarJ9/password_vault](https://reviewgithub.com/rep/OmarJ9/password_vault)

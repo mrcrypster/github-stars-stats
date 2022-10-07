@@ -1,12 +1,14 @@
 # maddec/papaguiskin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 34
 
 [Open repository](https://github.com/maddec/papaguiskin)
+
+[Open detailed stats for maddec/papaguiskin](https://reviewgithub.com/rep/maddec/papaguiskin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 34 | 9 | 
 | 2022-09-07 | 34 | 9 | 
 
-
-[Detailed charts & statistics for maddec/papaguiskin](https://reviewgithub.com/rep/maddec/papaguiskin)

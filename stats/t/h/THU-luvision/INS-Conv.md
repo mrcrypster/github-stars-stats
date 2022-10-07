@@ -1,12 +1,14 @@
 # THU-luvision/INS-Conv - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 42
 
 [Open repository](https://github.com/THU-luvision/INS-Conv)
+
+[Open detailed stats for THU-luvision/INS-Conv](https://reviewgithub.com/rep/THU-luvision/INS-Conv)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 40 | 7 | 
 | 2022-09-07 | 39 | 7 | 
 
-
-[Detailed charts & statistics for THU-luvision/INS-Conv](https://reviewgithub.com/rep/THU-luvision/INS-Conv)

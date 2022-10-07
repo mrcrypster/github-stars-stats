@@ -1,12 +1,14 @@
 # socathie/zkPuzzles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 12
 
 [Open repository](https://github.com/socathie/zkPuzzles)
+
+[Open detailed stats for socathie/zkPuzzles](https://reviewgithub.com/rep/socathie/zkPuzzles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 9 | 18 | 
 | 2022-09-08 | 9 | 18 | 
 
-
-[Detailed charts & statistics for socathie/zkPuzzles](https://reviewgithub.com/rep/socathie/zkPuzzles)

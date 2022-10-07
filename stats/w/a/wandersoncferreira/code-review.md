@@ -1,12 +1,14 @@
 # wandersoncferreira/code-review - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 345
 
 [Open repository](https://github.com/wandersoncferreira/code-review)
+
+[Open detailed stats for wandersoncferreira/code-review](https://reviewgithub.com/rep/wandersoncferreira/code-review)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 344 | 24 | 
 | 2022-09-08 | 344 | 24 | 
 
-
-[Detailed charts & statistics for wandersoncferreira/code-review](https://reviewgithub.com/rep/wandersoncferreira/code-review)

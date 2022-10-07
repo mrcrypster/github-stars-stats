@@ -1,12 +1,14 @@
 # litex-hub/pythondata-cpu-ibex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/litex-hub/pythondata-cpu-ibex)
+
+[Open detailed stats for litex-hub/pythondata-cpu-ibex](https://reviewgithub.com/rep/litex-hub/pythondata-cpu-ibex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
 
-
-[Detailed charts & statistics for litex-hub/pythondata-cpu-ibex](https://reviewgithub.com/rep/litex-hub/pythondata-cpu-ibex)

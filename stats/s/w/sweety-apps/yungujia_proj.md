@@ -1,12 +1,14 @@
 # sweety-apps/yungujia_proj - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sweety-apps/yungujia_proj)
+
+[Open detailed stats for sweety-apps/yungujia_proj](https://reviewgithub.com/rep/sweety-apps/yungujia_proj)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 1 | 3 | 
 | 2022-09-20 | 1 | 3 | 
 
-
-[Detailed charts & statistics for sweety-apps/yungujia_proj](https://reviewgithub.com/rep/sweety-apps/yungujia_proj)

@@ -1,12 +1,14 @@
 # nglthach/SpkToolbar4Delphi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 22
 
 [Open repository](https://github.com/nglthach/SpkToolbar4Delphi)
+
+[Open detailed stats for nglthach/SpkToolbar4Delphi](https://reviewgithub.com/rep/nglthach/SpkToolbar4Delphi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 22 | 8 | 
 | 2022-09-08 | 22 | 8 | 
 
-
-[Detailed charts & statistics for nglthach/SpkToolbar4Delphi](https://reviewgithub.com/rep/nglthach/SpkToolbar4Delphi)

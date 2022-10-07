@@ -1,12 +1,14 @@
 # forrest-orr/WizardOpium - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 51
 
 [Open repository](https://github.com/forrest-orr/WizardOpium)
+
+[Open detailed stats for forrest-orr/WizardOpium](https://reviewgithub.com/rep/forrest-orr/WizardOpium)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 11 | 
 | 2022-09-07 | 51 | 11 | 
 
-
-[Detailed charts & statistics for forrest-orr/WizardOpium](https://reviewgithub.com/rep/forrest-orr/WizardOpium)

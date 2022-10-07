@@ -1,12 +1,14 @@
 # emacsorphanage/quickrun - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 43
 
 ★ Stars: 432
 
 [Open repository](https://github.com/emacsorphanage/quickrun)
+
+[Open detailed stats for emacsorphanage/quickrun](https://reviewgithub.com/rep/emacsorphanage/quickrun)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 431 | 43 | 
 | 2022-09-08 | 431 | 43 | 
 
-
-[Detailed charts & statistics for emacsorphanage/quickrun](https://reviewgithub.com/rep/emacsorphanage/quickrun)

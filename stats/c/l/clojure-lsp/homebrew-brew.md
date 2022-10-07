@@ -1,12 +1,14 @@
 # clojure-lsp/homebrew-brew - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 15
 
 [Open repository](https://github.com/clojure-lsp/homebrew-brew)
+
+[Open detailed stats for clojure-lsp/homebrew-brew](https://reviewgithub.com/rep/clojure-lsp/homebrew-brew)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 3 | 
 | 2022-09-08 | 14 | 3 | 
 
-
-[Detailed charts & statistics for clojure-lsp/homebrew-brew](https://reviewgithub.com/rep/clojure-lsp/homebrew-brew)

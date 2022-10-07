@@ -1,12 +1,14 @@
 # Rich-Harris/edge-fetch-repro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Rich-Harris/edge-fetch-repro)
+
+[Open detailed stats for Rich-Harris/edge-fetch-repro](https://reviewgithub.com/rep/Rich-Harris/edge-fetch-repro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | - | 
 | 2022-09-08 | 3 | - | 
 
-
-[Detailed charts & statistics for Rich-Harris/edge-fetch-repro](https://reviewgithub.com/rep/Rich-Harris/edge-fetch-repro)

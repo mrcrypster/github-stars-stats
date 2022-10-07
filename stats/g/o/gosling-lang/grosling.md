@@ -1,12 +1,14 @@
 # gosling-lang/grosling - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 29
 
 [Open repository](https://github.com/gosling-lang/grosling)
+
+[Open detailed stats for gosling-lang/grosling](https://reviewgithub.com/rep/gosling-lang/grosling)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | - | 
 | 2022-09-07 | 29 | - | 
 
-
-[Detailed charts & statistics for gosling-lang/grosling](https://reviewgithub.com/rep/gosling-lang/grosling)

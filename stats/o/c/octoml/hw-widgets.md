@@ -1,12 +1,14 @@
 # octoml/hw-widgets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/octoml/hw-widgets)
+
+[Open detailed stats for octoml/hw-widgets](https://reviewgithub.com/rep/octoml/hw-widgets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for octoml/hw-widgets](https://reviewgithub.com/rep/octoml/hw-widgets)

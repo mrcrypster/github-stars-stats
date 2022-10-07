@@ -1,12 +1,14 @@
 # qt/qtvirtualkeyboard - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 77
 
 ★ Stars: 79
 
 [Open repository](https://github.com/qt/qtvirtualkeyboard)
+
+[Open detailed stats for qt/qtvirtualkeyboard](https://reviewgithub.com/rep/qt/qtvirtualkeyboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 79 | 75 | 
 | 2022-09-07 | 79 | 75 | 
 
-
-[Detailed charts & statistics for qt/qtvirtualkeyboard](https://reviewgithub.com/rep/qt/qtvirtualkeyboard)

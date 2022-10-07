@@ -1,12 +1,14 @@
 # Cweamy/Mighty-Omega-Macro - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 20
 
 [Open repository](https://github.com/Cweamy/Mighty-Omega-Macro)
+
+[Open detailed stats for Cweamy/Mighty-Omega-Macro](https://reviewgithub.com/rep/Cweamy/Mighty-Omega-Macro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | 40 | 
 | 2022-09-08 | 12 | 40 | 
 
-
-[Detailed charts & statistics for Cweamy/Mighty-Omega-Macro](https://reviewgithub.com/rep/Cweamy/Mighty-Omega-Macro)

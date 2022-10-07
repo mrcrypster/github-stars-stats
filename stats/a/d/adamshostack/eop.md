@@ -1,12 +1,14 @@
 # adamshostack/eop - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 218
 
 [Open repository](https://github.com/adamshostack/eop)
+
+[Open detailed stats for adamshostack/eop](https://reviewgithub.com/rep/adamshostack/eop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 215 | 27 | 
 | 2022-09-07 | 215 | 27 | 
 
-
-[Detailed charts & statistics for adamshostack/eop](https://reviewgithub.com/rep/adamshostack/eop)

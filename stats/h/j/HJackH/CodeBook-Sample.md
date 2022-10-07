@@ -1,12 +1,14 @@
 # HJackH/CodeBook-Sample - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 0
 
 [Open repository](https://github.com/HJackH/CodeBook-Sample)
+
+[Open detailed stats for HJackH/CodeBook-Sample](https://reviewgithub.com/rep/HJackH/CodeBook-Sample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-02 | - | 10 | 
 | 2022-10-01 | - | 10 | 
 
-
-[Detailed charts & statistics for HJackH/CodeBook-Sample](https://reviewgithub.com/rep/HJackH/CodeBook-Sample)

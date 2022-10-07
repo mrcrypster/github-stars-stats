@@ -1,12 +1,14 @@
 # qbcore-framework/qb-diving - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 154
 
 ★ Stars: 15
 
 [Open repository](https://github.com/qbcore-framework/qb-diving)
+
+[Open detailed stats for qbcore-framework/qb-diving](https://reviewgithub.com/rep/qbcore-framework/qb-diving)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 15 | 158 | 
 | 2022-09-20 | 15 | 158 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-diving](https://reviewgithub.com/rep/qbcore-framework/qb-diving)

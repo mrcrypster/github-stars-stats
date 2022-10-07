@@ -1,12 +1,14 @@
 # hostgator/Mojolicious-Plugin-Config-Merge - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/hostgator/Mojolicious-Plugin-Config-Merge)
+
+[Open detailed stats for hostgator/Mojolicious-Plugin-Config-Merge](https://reviewgithub.com/rep/hostgator/Mojolicious-Plugin-Config-Merge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 1 | 1 | 
 | 2022-10-04 | 1 | 1 | 
 
-
-[Detailed charts & statistics for hostgator/Mojolicious-Plugin-Config-Merge](https://reviewgithub.com/rep/hostgator/Mojolicious-Plugin-Config-Merge)

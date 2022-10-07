@@ -1,12 +1,14 @@
 # lanl/qmd-progress - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 13
 
 [Open repository](https://github.com/lanl/qmd-progress)
+
+[Open detailed stats for lanl/qmd-progress](https://reviewgithub.com/rep/lanl/qmd-progress)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 12 | 
 | 2022-09-07 | 12 | 12 | 
 
-
-[Detailed charts & statistics for lanl/qmd-progress](https://reviewgithub.com/rep/lanl/qmd-progress)

@@ -1,12 +1,14 @@
 # chatwork/charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 6
 
 [Open repository](https://github.com/chatwork/charts)
+
+[Open detailed stats for chatwork/charts](https://reviewgithub.com/rep/chatwork/charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 7 | 
 | 2022-09-08 | 6 | 7 | 
 
-
-[Detailed charts & statistics for chatwork/charts](https://reviewgithub.com/rep/chatwork/charts)

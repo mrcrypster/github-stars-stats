@@ -1,12 +1,14 @@
 # MuNeNICK/RDP-ShadowSessionScript - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 1
 
 [Open repository](https://github.com/MuNeNICK/RDP-ShadowSessionScript)
+
+[Open detailed stats for MuNeNICK/RDP-ShadowSessionScript](https://reviewgithub.com/rep/MuNeNICK/RDP-ShadowSessionScript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 26 | 
 | 2022-09-07 | 1 | 26 | 
 
-
-[Detailed charts & statistics for MuNeNICK/RDP-ShadowSessionScript](https://reviewgithub.com/rep/MuNeNICK/RDP-ShadowSessionScript)

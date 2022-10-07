@@ -1,12 +1,14 @@
 # rsquaredacademy/xplorerr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 32
 
 [Open repository](https://github.com/rsquaredacademy/xplorerr)
+
+[Open detailed stats for rsquaredacademy/xplorerr](https://reviewgithub.com/rep/rsquaredacademy/xplorerr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | 12 | 
 | 2022-09-08 | 32 | 12 | 
 
-
-[Detailed charts & statistics for rsquaredacademy/xplorerr](https://reviewgithub.com/rep/rsquaredacademy/xplorerr)

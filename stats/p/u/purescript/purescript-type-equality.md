@@ -1,12 +1,14 @@
 # purescript/purescript-type-equality - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 14
 
 [Open repository](https://github.com/purescript/purescript-type-equality)
+
+[Open detailed stats for purescript/purescript-type-equality](https://reviewgithub.com/rep/purescript/purescript-type-equality)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 6 | 
 | 2022-09-07 | 14 | 6 | 
 
-
-[Detailed charts & statistics for purescript/purescript-type-equality](https://reviewgithub.com/rep/purescript/purescript-type-equality)

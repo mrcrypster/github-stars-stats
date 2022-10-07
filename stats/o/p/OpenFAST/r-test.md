@@ -1,12 +1,14 @@
 # OpenFAST/r-test - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 68
 
 ★ Stars: 30
 
 [Open repository](https://github.com/OpenFAST/r-test)
+
+[Open detailed stats for OpenFAST/r-test](https://reviewgithub.com/rep/OpenFAST/r-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 68 | 
 | 2022-09-07 | 29 | 68 | 
 
-
-[Detailed charts & statistics for OpenFAST/r-test](https://reviewgithub.com/rep/OpenFAST/r-test)

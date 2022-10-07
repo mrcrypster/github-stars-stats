@@ -1,12 +1,14 @@
 # illuminate/database - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 570
 
 ★ Stars: 2483
 
 [Open repository](https://github.com/illuminate/database)
+
+[Open detailed stats for illuminate/database](https://reviewgithub.com/rep/illuminate/database)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2471 | 569 | 
 | 2022-09-07 | 2471 | 569 | 
 
-
-[Detailed charts & statistics for illuminate/database](https://reviewgithub.com/rep/illuminate/database)

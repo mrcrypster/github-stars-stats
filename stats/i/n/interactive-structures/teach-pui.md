@@ -1,12 +1,14 @@
 # interactive-structures/teach-pui - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 70
 
 ★ Stars: 6
 
 [Open repository](https://github.com/interactive-structures/teach-pui)
+
+[Open detailed stats for interactive-structures/teach-pui](https://reviewgithub.com/rep/interactive-structures/teach-pui)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 58 | 
 | 2022-09-08 | 5 | 58 | 
 
-
-[Detailed charts & statistics for interactive-structures/teach-pui](https://reviewgithub.com/rep/interactive-structures/teach-pui)

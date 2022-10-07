@@ -1,12 +1,14 @@
 # tornadocash-community/tornado-nova - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 4
 
 [Open repository](https://github.com/tornadocash-community/tornado-nova)
+
+[Open detailed stats for tornadocash-community/tornado-nova](https://reviewgithub.com/rep/tornadocash-community/tornado-nova)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 23 | 
 | 2022-09-08 | 3 | 23 | 
 
-
-[Detailed charts & statistics for tornadocash-community/tornado-nova](https://reviewgithub.com/rep/tornadocash-community/tornado-nova)

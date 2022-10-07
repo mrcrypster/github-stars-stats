@@ -1,12 +1,14 @@
 # okfn/sphinx-theme-okfn - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 12
 
 [Open repository](https://github.com/okfn/sphinx-theme-okfn)
+
+[Open detailed stats for okfn/sphinx-theme-okfn](https://reviewgithub.com/rep/okfn/sphinx-theme-okfn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 7 | 
 | 2022-09-07 | 12 | 7 | 
 
-
-[Detailed charts & statistics for okfn/sphinx-theme-okfn](https://reviewgithub.com/rep/okfn/sphinx-theme-okfn)

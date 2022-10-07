@@ -1,12 +1,14 @@
 # geoschem/GCHP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 10
 
 [Open repository](https://github.com/geoschem/GCHP)
+
+[Open detailed stats for geoschem/GCHP](https://reviewgithub.com/rep/geoschem/GCHP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 9 | 
 | 2022-09-07 | 10 | 9 | 
 
-
-[Detailed charts & statistics for geoschem/GCHP](https://reviewgithub.com/rep/geoschem/GCHP)

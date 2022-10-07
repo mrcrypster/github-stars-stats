@@ -1,12 +1,14 @@
 # PatrickAlphaC/fund_me - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 82
 
 ★ Stars: 38
 
 [Open repository](https://github.com/PatrickAlphaC/fund_me)
+
+[Open detailed stats for PatrickAlphaC/fund_me](https://reviewgithub.com/rep/PatrickAlphaC/fund_me)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 83 | 
 | 2022-09-08 | 38 | 83 | 
 
-
-[Detailed charts & statistics for PatrickAlphaC/fund_me](https://reviewgithub.com/rep/PatrickAlphaC/fund_me)

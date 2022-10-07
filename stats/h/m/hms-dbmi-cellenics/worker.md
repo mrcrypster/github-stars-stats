@@ -1,12 +1,14 @@
 # hms-dbmi-cellenics/worker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 24
 
 [Open repository](https://github.com/hms-dbmi-cellenics/worker)
+
+[Open detailed stats for hms-dbmi-cellenics/worker](https://reviewgithub.com/rep/hms-dbmi-cellenics/worker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 24 | 19 | 
 | 2022-09-07 | 24 | 19 | 
 
-
-[Detailed charts & statistics for hms-dbmi-cellenics/worker](https://reviewgithub.com/rep/hms-dbmi-cellenics/worker)

@@ -1,12 +1,14 @@
 # lupyuen/zig-pinephone-gui - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 17
 
 [Open repository](https://github.com/lupyuen/zig-pinephone-gui)
+
+[Open detailed stats for lupyuen/zig-pinephone-gui](https://reviewgithub.com/rep/lupyuen/zig-pinephone-gui)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 1 | 
 | 2022-09-07 | 16 | 1 | 
 
-
-[Detailed charts & statistics for lupyuen/zig-pinephone-gui](https://reviewgithub.com/rep/lupyuen/zig-pinephone-gui)

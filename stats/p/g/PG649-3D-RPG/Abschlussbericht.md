@@ -1,12 +1,14 @@
 # PG649-3D-RPG/Abschlussbericht - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/PG649-3D-RPG/Abschlussbericht)
+
+[Open detailed stats for PG649-3D-RPG/Abschlussbericht](https://reviewgithub.com/rep/PG649-3D-RPG/Abschlussbericht)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for PG649-3D-RPG/Abschlussbericht](https://reviewgithub.com/rep/PG649-3D-RPG/Abschlussbericht)

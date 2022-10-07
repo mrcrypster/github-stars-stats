@@ -1,12 +1,14 @@
 # gereleth/hexapipes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 150
 
 [Open repository](https://github.com/gereleth/hexapipes)
+
+[Open detailed stats for gereleth/hexapipes](https://reviewgithub.com/rep/gereleth/hexapipes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 145 | 8 | 
 | 2022-09-08 | 145 | 8 | 
 
-
-[Detailed charts & statistics for gereleth/hexapipes](https://reviewgithub.com/rep/gereleth/hexapipes)

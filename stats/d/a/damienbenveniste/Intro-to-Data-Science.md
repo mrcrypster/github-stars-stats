@@ -1,12 +1,14 @@
 # damienbenveniste/Intro-to-Data-Science - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
 ★ Stars: 258
 
 [Open repository](https://github.com/damienbenveniste/Intro-to-Data-Science)
+
+[Open detailed stats for damienbenveniste/Intro-to-Data-Science](https://reviewgithub.com/rep/damienbenveniste/Intro-to-Data-Science)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 257 | 71 | 
 | 2022-09-07 | 257 | 71 | 
 
-
-[Detailed charts & statistics for damienbenveniste/Intro-to-Data-Science](https://reviewgithub.com/rep/damienbenveniste/Intro-to-Data-Science)

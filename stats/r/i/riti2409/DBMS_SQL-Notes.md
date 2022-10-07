@@ -1,12 +1,14 @@
 # riti2409/DBMS_SQL-Notes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 119
 
 ★ Stars: 329
 
 [Open repository](https://github.com/riti2409/DBMS_SQL-Notes)
+
+[Open detailed stats for riti2409/DBMS_SQL-Notes](https://reviewgithub.com/rep/riti2409/DBMS_SQL-Notes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 320 | 117 | 
 | 2022-09-07 | 320 | 117 | 
 
-
-[Detailed charts & statistics for riti2409/DBMS_SQL-Notes](https://reviewgithub.com/rep/riti2409/DBMS_SQL-Notes)

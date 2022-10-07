@@ -1,12 +1,14 @@
 # ADSD-SoC-FPGA/Code - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ADSD-SoC-FPGA/Code)
+
+[Open detailed stats for ADSD-SoC-FPGA/Code](https://reviewgithub.com/rep/ADSD-SoC-FPGA/Code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 1 | 4 | 
 | 2022-09-18 | 1 | 4 | 
 
-
-[Detailed charts & statistics for ADSD-SoC-FPGA/Code](https://reviewgithub.com/rep/ADSD-SoC-FPGA/Code)

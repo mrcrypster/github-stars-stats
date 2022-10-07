@@ -1,12 +1,14 @@
 # mooseman/Haskell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mooseman/Haskell)
+
+[Open detailed stats for mooseman/Haskell](https://reviewgithub.com/rep/mooseman/Haskell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for mooseman/Haskell](https://reviewgithub.com/rep/mooseman/Haskell)

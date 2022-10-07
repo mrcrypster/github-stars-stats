@@ -1,12 +1,14 @@
 # pooler/cpuminer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1183
 
 ★ Stars: 2559
 
 [Open repository](https://github.com/pooler/cpuminer)
+
+[Open detailed stats for pooler/cpuminer](https://reviewgithub.com/rep/pooler/cpuminer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2553 | 1184 | 
 | 2022-09-08 | 2553 | 1184 | 
 
-
-[Detailed charts & statistics for pooler/cpuminer](https://reviewgithub.com/rep/pooler/cpuminer)

@@ -1,12 +1,14 @@
 # Frameio/ex_limiter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 32
 
 [Open repository](https://github.com/Frameio/ex_limiter)
+
+[Open detailed stats for Frameio/ex_limiter](https://reviewgithub.com/rep/Frameio/ex_limiter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 4 | 
 | 2022-09-07 | 31 | 4 | 
 
-
-[Detailed charts & statistics for Frameio/ex_limiter](https://reviewgithub.com/rep/Frameio/ex_limiter)

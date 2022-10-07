@@ -1,12 +1,14 @@
 # full-stack-deep-learning/fsdl-text-recognizer-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 412
 
 ★ Stars: 1162
 
 [Open repository](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project)
+
+[Open detailed stats for full-stack-deep-learning/fsdl-text-recognizer-project](https://reviewgithub.com/rep/full-stack-deep-learning/fsdl-text-recognizer-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1160 | 411 | 
 | 2022-09-07 | 1160 | 411 | 
 
-
-[Detailed charts & statistics for full-stack-deep-learning/fsdl-text-recognizer-project](https://reviewgithub.com/rep/full-stack-deep-learning/fsdl-text-recognizer-project)

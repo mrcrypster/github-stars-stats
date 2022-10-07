@@ -1,12 +1,14 @@
 # discord/erlpack - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 65
 
 ★ Stars: 199
 
 [Open repository](https://github.com/discord/erlpack)
+
+[Open detailed stats for discord/erlpack](https://reviewgithub.com/rep/discord/erlpack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 198 | 66 | 
 | 2022-09-07 | 198 | 66 | 
 
-
-[Detailed charts & statistics for discord/erlpack](https://reviewgithub.com/rep/discord/erlpack)

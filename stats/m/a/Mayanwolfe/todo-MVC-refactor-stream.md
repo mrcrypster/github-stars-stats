@@ -1,12 +1,14 @@
 # Mayanwolfe/todo-MVC-refactor-stream - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Mayanwolfe/todo-MVC-refactor-stream)
+
+[Open detailed stats for Mayanwolfe/todo-MVC-refactor-stream](https://reviewgithub.com/rep/Mayanwolfe/todo-MVC-refactor-stream)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 6 | 
 | 2022-09-08 | 1 | 6 | 
 
-
-[Detailed charts & statistics for Mayanwolfe/todo-MVC-refactor-stream](https://reviewgithub.com/rep/Mayanwolfe/todo-MVC-refactor-stream)

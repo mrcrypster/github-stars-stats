@@ -1,12 +1,14 @@
 # chaskiq/ex-marcel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 23
 
 [Open repository](https://github.com/chaskiq/ex-marcel)
+
+[Open detailed stats for chaskiq/ex-marcel](https://reviewgithub.com/rep/chaskiq/ex-marcel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | - | 
 | 2022-09-07 | 21 | - | 
 
-
-[Detailed charts & statistics for chaskiq/ex-marcel](https://reviewgithub.com/rep/chaskiq/ex-marcel)

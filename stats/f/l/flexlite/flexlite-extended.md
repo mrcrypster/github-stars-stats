@@ -1,12 +1,14 @@
 # flexlite/flexlite-extended - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 12
 
 [Open repository](https://github.com/flexlite/flexlite-extended)
+
+[Open detailed stats for flexlite/flexlite-extended](https://reviewgithub.com/rep/flexlite/flexlite-extended)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 14 | 
 | 2022-09-08 | 12 | 14 | 
 
-
-[Detailed charts & statistics for flexlite/flexlite-extended](https://reviewgithub.com/rep/flexlite/flexlite-extended)

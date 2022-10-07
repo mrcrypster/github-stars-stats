@@ -1,12 +1,14 @@
 # learning-zone/nodejs-interview-questions - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 780
 
 ★ Stars: 2240
 
 [Open repository](https://github.com/learning-zone/nodejs-interview-questions)
+
+[Open detailed stats for learning-zone/nodejs-interview-questions](https://reviewgithub.com/rep/learning-zone/nodejs-interview-questions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2122 | 755 | 
 | 2022-09-07 | 2117 | 749 | 
 
-
-[Detailed charts & statistics for learning-zone/nodejs-interview-questions](https://reviewgithub.com/rep/learning-zone/nodejs-interview-questions)

@@ -1,12 +1,14 @@
 # blockchainsllc/DAO - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 470
 
 ★ Stars: 1443
 
 [Open repository](https://github.com/blockchainsllc/DAO)
+
+[Open detailed stats for blockchainsllc/DAO](https://reviewgithub.com/rep/blockchainsllc/DAO)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1441 | 467 | 
 | 2022-09-08 | 1441 | 468 | 
 
-
-[Detailed charts & statistics for blockchainsllc/DAO](https://reviewgithub.com/rep/blockchainsllc/DAO)

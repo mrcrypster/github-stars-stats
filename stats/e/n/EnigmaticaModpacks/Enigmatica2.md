@@ -1,12 +1,14 @@
 # EnigmaticaModpacks/Enigmatica2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 28
 
 [Open repository](https://github.com/EnigmaticaModpacks/Enigmatica2)
+
+[Open detailed stats for EnigmaticaModpacks/Enigmatica2](https://reviewgithub.com/rep/EnigmaticaModpacks/Enigmatica2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 28 | 22 | 
 | 2022-09-08 | 28 | 22 | 
 
-
-[Detailed charts & statistics for EnigmaticaModpacks/Enigmatica2](https://reviewgithub.com/rep/EnigmaticaModpacks/Enigmatica2)

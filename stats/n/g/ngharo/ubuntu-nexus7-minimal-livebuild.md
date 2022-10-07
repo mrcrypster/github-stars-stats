@@ -1,12 +1,14 @@
 # ngharo/ubuntu-nexus7-minimal-livebuild - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ngharo/ubuntu-nexus7-minimal-livebuild)
+
+[Open detailed stats for ngharo/ubuntu-nexus7-minimal-livebuild](https://reviewgithub.com/rep/ngharo/ubuntu-nexus7-minimal-livebuild)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 1 | 1 | 
 | 2022-09-20 | 1 | 1 | 
 
-
-[Detailed charts & statistics for ngharo/ubuntu-nexus7-minimal-livebuild](https://reviewgithub.com/rep/ngharo/ubuntu-nexus7-minimal-livebuild)

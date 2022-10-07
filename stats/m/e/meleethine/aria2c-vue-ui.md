@@ -1,12 +1,14 @@
 # meleethine/aria2c-vue-ui - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 46
 
 [Open repository](https://github.com/meleethine/aria2c-vue-ui)
+
+[Open detailed stats for meleethine/aria2c-vue-ui](https://reviewgithub.com/rep/meleethine/aria2c-vue-ui)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 57 | 1 | 
 | 2022-09-08 | 50 | - | 
 
-
-[Detailed charts & statistics for meleethine/aria2c-vue-ui](https://reviewgithub.com/rep/meleethine/aria2c-vue-ui)

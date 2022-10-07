@@ -1,12 +1,14 @@
 # MPAS-Dev/MPAS-Model - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 252
 
 ★ Stars: 177
 
 [Open repository](https://github.com/MPAS-Dev/MPAS-Model)
+
+[Open detailed stats for MPAS-Dev/MPAS-Model](https://reviewgithub.com/rep/MPAS-Dev/MPAS-Model)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 172 | 252 | 
 | 2022-09-08 | 172 | 252 | 
 
-
-[Detailed charts & statistics for MPAS-Dev/MPAS-Model](https://reviewgithub.com/rep/MPAS-Dev/MPAS-Model)

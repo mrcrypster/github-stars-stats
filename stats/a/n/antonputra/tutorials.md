@@ -1,12 +1,14 @@
 # antonputra/tutorials - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 758
 
 ★ Stars: 477
 
 [Open repository](https://github.com/antonputra/tutorials)
+
+[Open detailed stats for antonputra/tutorials](https://reviewgithub.com/rep/antonputra/tutorials)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 426 | 694 | 
 | 2022-09-07 | 423 | 693 | 
 
-
-[Detailed charts & statistics for antonputra/tutorials](https://reviewgithub.com/rep/antonputra/tutorials)

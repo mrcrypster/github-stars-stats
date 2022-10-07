@@ -1,12 +1,14 @@
 # crystal-lang/crystal-molinillo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/crystal-lang/crystal-molinillo)
+
+[Open detailed stats for crystal-lang/crystal-molinillo](https://reviewgithub.com/rep/crystal-lang/crystal-molinillo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 24 | - | 
 | 2022-09-08 | 24 | - | 
 
-
-[Detailed charts & statistics for crystal-lang/crystal-molinillo](https://reviewgithub.com/rep/crystal-lang/crystal-molinillo)

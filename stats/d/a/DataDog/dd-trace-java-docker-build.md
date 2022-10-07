@@ -1,12 +1,14 @@
 # DataDog/dd-trace-java-docker-build - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 4
 
 [Open repository](https://github.com/DataDog/dd-trace-java-docker-build)
+
+[Open detailed stats for DataDog/dd-trace-java-docker-build](https://reviewgithub.com/rep/DataDog/dd-trace-java-docker-build)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 4 | 
 | 2022-09-08 | 4 | 4 | 
 
-
-[Detailed charts & statistics for DataDog/dd-trace-java-docker-build](https://reviewgithub.com/rep/DataDog/dd-trace-java-docker-build)

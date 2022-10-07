@@ -1,12 +1,14 @@
 # TriBITSPub/TriBITS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 39
 
 ★ Stars: 27
 
 [Open repository](https://github.com/TriBITSPub/TriBITS)
+
+[Open detailed stats for TriBITSPub/TriBITS](https://reviewgithub.com/rep/TriBITSPub/TriBITS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 39 | 
 | 2022-09-08 | 27 | 39 | 
 
-
-[Detailed charts & statistics for TriBITSPub/TriBITS](https://reviewgithub.com/rep/TriBITSPub/TriBITS)

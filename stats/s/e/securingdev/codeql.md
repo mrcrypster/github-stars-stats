@@ -1,12 +1,14 @@
 # securingdev/codeql - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1137
 
 ★ Stars: 0
 
 [Open repository](https://github.com/securingdev/codeql)
+
+[Open detailed stats for securingdev/codeql](https://reviewgithub.com/rep/securingdev/codeql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 1105 | 
 | 2022-09-08 | - | 1105 | 
 
-
-[Detailed charts & statistics for securingdev/codeql](https://reviewgithub.com/rep/securingdev/codeql)

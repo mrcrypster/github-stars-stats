@@ -1,12 +1,14 @@
 # PEZ/shadow-w-backend - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/PEZ/shadow-w-backend)
+
+[Open detailed stats for PEZ/shadow-w-backend](https://reviewgithub.com/rep/PEZ/shadow-w-backend)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
 
-
-[Detailed charts & statistics for PEZ/shadow-w-backend](https://reviewgithub.com/rep/PEZ/shadow-w-backend)

@@ -1,12 +1,14 @@
 # UCSC-CSE-114A/00-lambda - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 4
 
 [Open repository](https://github.com/UCSC-CSE-114A/00-lambda)
+
+[Open detailed stats for UCSC-CSE-114A/00-lambda](https://reviewgithub.com/rep/UCSC-CSE-114A/00-lambda)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 6 | 
 | 2022-09-08 | 3 | 6 | 
 
-
-[Detailed charts & statistics for UCSC-CSE-114A/00-lambda](https://reviewgithub.com/rep/UCSC-CSE-114A/00-lambda)

@@ -1,12 +1,14 @@
 # JustArchiNET/ASF-ui - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 193
 
 [Open repository](https://github.com/JustArchiNET/ASF-ui)
+
+[Open detailed stats for JustArchiNET/ASF-ui](https://reviewgithub.com/rep/JustArchiNET/ASF-ui)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 192 | 27 | 
 | 2022-09-07 | 192 | 27 | 
 
-
-[Detailed charts & statistics for JustArchiNET/ASF-ui](https://reviewgithub.com/rep/JustArchiNET/ASF-ui)

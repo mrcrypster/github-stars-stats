@@ -1,12 +1,14 @@
 # eigr/massa - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 53
 
 [Open repository](https://github.com/eigr/massa)
+
+[Open detailed stats for eigr/massa](https://reviewgithub.com/rep/eigr/massa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 53 | 5 | 
 | 2022-09-08 | 53 | 5 | 
 
-
-[Detailed charts & statistics for eigr/massa](https://reviewgithub.com/rep/eigr/massa)

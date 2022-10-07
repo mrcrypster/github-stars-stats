@@ -1,12 +1,14 @@
 # bewest/amforth - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/bewest/amforth)
+
+[Open detailed stats for bewest/amforth](https://reviewgithub.com/rep/bewest/amforth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 2 | 
 | 2022-09-08 | 7 | 2 | 
 
-
-[Detailed charts & statistics for bewest/amforth](https://reviewgithub.com/rep/bewest/amforth)

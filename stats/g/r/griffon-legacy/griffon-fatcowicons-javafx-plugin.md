@@ -1,12 +1,14 @@
 # griffon-legacy/griffon-fatcowicons-javafx-plugin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/griffon-legacy/griffon-fatcowicons-javafx-plugin)
+
+[Open detailed stats for griffon-legacy/griffon-fatcowicons-javafx-plugin](https://reviewgithub.com/rep/griffon-legacy/griffon-fatcowicons-javafx-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for griffon-legacy/griffon-fatcowicons-javafx-plugin](https://reviewgithub.com/rep/griffon-legacy/griffon-fatcowicons-javafx-plugin)

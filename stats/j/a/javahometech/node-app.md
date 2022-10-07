@@ -1,12 +1,14 @@
 # javahometech/node-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1198
 
 ★ Stars: 40
 
 [Open repository](https://github.com/javahometech/node-app)
+
+[Open detailed stats for javahometech/node-app](https://reviewgithub.com/rep/javahometech/node-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 38 | 1172 | 
 | 2022-09-08 | 38 | 1172 | 
 
-
-[Detailed charts & statistics for javahometech/node-app](https://reviewgithub.com/rep/javahometech/node-app)

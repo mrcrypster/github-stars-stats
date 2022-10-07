@@ -1,12 +1,14 @@
 # transcend-io/terraform-aws-lambda-at-edge - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 19
 
 [Open repository](https://github.com/transcend-io/terraform-aws-lambda-at-edge)
+
+[Open detailed stats for transcend-io/terraform-aws-lambda-at-edge](https://reviewgithub.com/rep/transcend-io/terraform-aws-lambda-at-edge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 19 | 28 | 
 | 2022-09-07 | 19 | 28 | 
 
-
-[Detailed charts & statistics for transcend-io/terraform-aws-lambda-at-edge](https://reviewgithub.com/rep/transcend-io/terraform-aws-lambda-at-edge)

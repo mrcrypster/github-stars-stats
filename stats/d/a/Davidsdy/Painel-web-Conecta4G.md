@@ -1,12 +1,14 @@
 # Davidsdy/Painel-web-Conecta4G - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 10
 
 [Open repository](https://github.com/Davidsdy/Painel-web-Conecta4G)
+
+[Open detailed stats for Davidsdy/Painel-web-Conecta4G](https://reviewgithub.com/rep/Davidsdy/Painel-web-Conecta4G)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 6 | 
 | 2022-09-08 | 10 | 6 | 
 
-
-[Detailed charts & statistics for Davidsdy/Painel-web-Conecta4G](https://reviewgithub.com/rep/Davidsdy/Painel-web-Conecta4G)

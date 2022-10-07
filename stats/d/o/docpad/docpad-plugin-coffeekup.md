@@ -1,12 +1,14 @@
 # docpad/docpad-plugin-coffeekup - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/docpad/docpad-plugin-coffeekup)
+
+[Open detailed stats for docpad/docpad-plugin-coffeekup](https://reviewgithub.com/rep/docpad/docpad-plugin-coffeekup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 2 | 
 | 2022-09-07 | 4 | 2 | 
 
-
-[Detailed charts & statistics for docpad/docpad-plugin-coffeekup](https://reviewgithub.com/rep/docpad/docpad-plugin-coffeekup)

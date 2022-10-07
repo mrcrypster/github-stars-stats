@@ -1,12 +1,14 @@
 # barafael/cute-copter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/barafael/cute-copter)
+
+[Open detailed stats for barafael/cute-copter](https://reviewgithub.com/rep/barafael/cute-copter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | - | 
 | 2022-09-08 | 17 | - | 
 
-
-[Detailed charts & statistics for barafael/cute-copter](https://reviewgithub.com/rep/barafael/cute-copter)

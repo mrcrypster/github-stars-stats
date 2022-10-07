@@ -1,12 +1,14 @@
 # linty-org/readline.nvim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 71
 
 [Open repository](https://github.com/linty-org/readline.nvim)
+
+[Open detailed stats for linty-org/readline.nvim](https://reviewgithub.com/rep/linty-org/readline.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 70 | - | 
 | 2022-09-08 | 69 | - | 
 
-
-[Detailed charts & statistics for linty-org/readline.nvim](https://reviewgithub.com/rep/linty-org/readline.nvim)

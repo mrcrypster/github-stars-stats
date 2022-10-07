@@ -1,12 +1,14 @@
 # php/web-php - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 450
 
 ★ Stars: 703
 
 [Open repository](https://github.com/php/web-php)
+
+[Open detailed stats for php/web-php](https://reviewgithub.com/rep/php/web-php)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 690 | 447 | 
 | 2022-09-07 | 689 | 446 | 
 
-
-[Detailed charts & statistics for php/web-php](https://reviewgithub.com/rep/php/web-php)

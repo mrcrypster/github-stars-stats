@@ -1,12 +1,14 @@
 # laravel-presets/inertia - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 69
 
 [Open repository](https://github.com/laravel-presets/inertia)
+
+[Open detailed stats for laravel-presets/inertia](https://reviewgithub.com/rep/laravel-presets/inertia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 66 | 14 | 
 | 2022-09-07 | 66 | 14 | 
 
-
-[Detailed charts & statistics for laravel-presets/inertia](https://reviewgithub.com/rep/laravel-presets/inertia)

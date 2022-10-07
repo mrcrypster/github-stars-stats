@@ -1,12 +1,14 @@
 # dr-spaceman/apcsp-final-project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 53
 
 ★ Stars: 39
 
 [Open repository](https://github.com/dr-spaceman/apcsp-final-project)
+
+[Open detailed stats for dr-spaceman/apcsp-final-project](https://reviewgithub.com/rep/dr-spaceman/apcsp-final-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | 53 | 
 | 2022-09-08 | 39 | 53 | 
 
-
-[Detailed charts & statistics for dr-spaceman/apcsp-final-project](https://reviewgithub.com/rep/dr-spaceman/apcsp-final-project)

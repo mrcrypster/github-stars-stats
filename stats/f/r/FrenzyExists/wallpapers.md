@@ -1,12 +1,14 @@
 # FrenzyExists/wallpapers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 362
 
 [Open repository](https://github.com/FrenzyExists/wallpapers)
+
+[Open detailed stats for FrenzyExists/wallpapers](https://reviewgithub.com/rep/FrenzyExists/wallpapers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 346 | 27 | 
 | 2022-09-08 | 346 | 27 | 
 
-
-[Detailed charts & statistics for FrenzyExists/wallpapers](https://reviewgithub.com/rep/FrenzyExists/wallpapers)

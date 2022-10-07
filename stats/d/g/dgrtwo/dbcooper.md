@@ -1,12 +1,14 @@
 # dgrtwo/dbcooper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 95
 
 [Open repository](https://github.com/dgrtwo/dbcooper)
+
+[Open detailed stats for dgrtwo/dbcooper](https://reviewgithub.com/rep/dgrtwo/dbcooper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 93 | 4 | 
 | 2022-09-07 | 92 | 4 | 
 
-
-[Detailed charts & statistics for dgrtwo/dbcooper](https://reviewgithub.com/rep/dgrtwo/dbcooper)

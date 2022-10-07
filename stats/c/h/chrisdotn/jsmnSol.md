@@ -1,12 +1,14 @@
 # chrisdotn/jsmnSol - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 118
 
 [Open repository](https://github.com/chrisdotn/jsmnSol)
+
+[Open detailed stats for chrisdotn/jsmnSol](https://reviewgithub.com/rep/chrisdotn/jsmnSol)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 116 | 26 | 
 | 2022-09-07 | 116 | 26 | 
 
-
-[Detailed charts & statistics for chrisdotn/jsmnSol](https://reviewgithub.com/rep/chrisdotn/jsmnSol)

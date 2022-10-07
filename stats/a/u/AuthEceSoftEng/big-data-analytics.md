@@ -1,12 +1,14 @@
 # AuthEceSoftEng/big-data-analytics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 6
 
 [Open repository](https://github.com/AuthEceSoftEng/big-data-analytics)
+
+[Open detailed stats for AuthEceSoftEng/big-data-analytics](https://reviewgithub.com/rep/AuthEceSoftEng/big-data-analytics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 1 | 
 | 2022-09-07 | 6 | 1 | 
 
-
-[Detailed charts & statistics for AuthEceSoftEng/big-data-analytics](https://reviewgithub.com/rep/AuthEceSoftEng/big-data-analytics)

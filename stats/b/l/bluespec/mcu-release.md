@@ -1,12 +1,14 @@
 # bluespec/mcu-release - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bluespec/mcu-release)
+
+[Open detailed stats for bluespec/mcu-release](https://reviewgithub.com/rep/bluespec/mcu-release)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for bluespec/mcu-release](https://reviewgithub.com/rep/bluespec/mcu-release)

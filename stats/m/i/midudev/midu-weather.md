@@ -1,12 +1,14 @@
 # midudev/midu-weather - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 13
 
 [Open repository](https://github.com/midudev/midu-weather)
+
+[Open detailed stats for midudev/midu-weather](https://reviewgithub.com/rep/midudev/midu-weather)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 5 | 
 | 2022-09-07 | 13 | 5 | 
 
-
-[Detailed charts & statistics for midudev/midu-weather](https://reviewgithub.com/rep/midudev/midu-weather)

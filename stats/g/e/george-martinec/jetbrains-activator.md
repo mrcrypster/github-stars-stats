@@ -6,9 +6,9 @@
 
 [Open repository](https://github.com/george-martinec/jetbrains-activator)
 
+[Open detailed stats for george-martinec/jetbrains-activator](https://reviewgithub.com/rep/george-martinec/jetbrains-activator)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 
-
-[Detailed charts & statistics for george-martinec/jetbrains-activator](https://reviewgithub.com/rep/george-martinec/jetbrains-activator)

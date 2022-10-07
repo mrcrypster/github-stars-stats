@@ -1,12 +1,14 @@
 # OrchardForexTutorials/framework_3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 30
 
 [Open repository](https://github.com/OrchardForexTutorials/framework_3)
+
+[Open detailed stats for OrchardForexTutorials/framework_3](https://reviewgithub.com/rep/OrchardForexTutorials/framework_3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 24 | 
 | 2022-09-08 | 28 | 24 | 
 
-
-[Detailed charts & statistics for OrchardForexTutorials/framework_3](https://reviewgithub.com/rep/OrchardForexTutorials/framework_3)

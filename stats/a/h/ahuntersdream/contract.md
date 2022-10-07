@@ -1,12 +1,14 @@
 # ahuntersdream/contract - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 10
 
 [Open repository](https://github.com/ahuntersdream/contract)
+
+[Open detailed stats for ahuntersdream/contract](https://reviewgithub.com/rep/ahuntersdream/contract)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 8 | 
 | 2022-09-08 | 10 | 8 | 
 
-
-[Detailed charts & statistics for ahuntersdream/contract](https://reviewgithub.com/rep/ahuntersdream/contract)

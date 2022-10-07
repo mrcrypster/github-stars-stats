@@ -1,12 +1,14 @@
 # confluentinc/ksqldb-recipes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 7
 
 [Open repository](https://github.com/confluentinc/ksqldb-recipes)
+
+[Open detailed stats for confluentinc/ksqldb-recipes](https://reviewgithub.com/rep/confluentinc/ksqldb-recipes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 7 | 
 | 2022-09-07 | 7 | 7 | 
 
-
-[Detailed charts & statistics for confluentinc/ksqldb-recipes](https://reviewgithub.com/rep/confluentinc/ksqldb-recipes)

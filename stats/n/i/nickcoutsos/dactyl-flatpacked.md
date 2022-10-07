@@ -1,12 +1,14 @@
 # nickcoutsos/dactyl-flatpacked - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 75
 
 [Open repository](https://github.com/nickcoutsos/dactyl-flatpacked)
+
+[Open detailed stats for nickcoutsos/dactyl-flatpacked](https://reviewgithub.com/rep/nickcoutsos/dactyl-flatpacked)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 75 | 5 | 
 | 2022-09-07 | 75 | 5 | 
 
-
-[Detailed charts & statistics for nickcoutsos/dactyl-flatpacked](https://reviewgithub.com/rep/nickcoutsos/dactyl-flatpacked)

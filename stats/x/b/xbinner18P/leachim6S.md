@@ -1,12 +1,14 @@
 # xbinner18P/leachim6S - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 123
 
 ★ Stars: 363
 
 [Open repository](https://github.com/xbinner18P/leachim6S)
+
+[Open detailed stats for xbinner18P/leachim6S](https://reviewgithub.com/rep/xbinner18P/leachim6S)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 361 | 123 | 
 | 2022-09-08 | 361 | 123 | 
 
-
-[Detailed charts & statistics for xbinner18P/leachim6S](https://reviewgithub.com/rep/xbinner18P/leachim6S)

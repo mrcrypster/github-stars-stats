@@ -1,12 +1,14 @@
 # brewchetta/phase-3-practice-code-challenge-animal-shelter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 53
 
 ★ Stars: 0
 
 [Open repository](https://github.com/brewchetta/phase-3-practice-code-challenge-animal-shelter)
+
+[Open detailed stats for brewchetta/phase-3-practice-code-challenge-animal-shelter](https://reviewgithub.com/rep/brewchetta/phase-3-practice-code-challenge-animal-shelter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 36 | 
 | 2022-09-07 | - | 31 | 
 
-
-[Detailed charts & statistics for brewchetta/phase-3-practice-code-challenge-animal-shelter](https://reviewgithub.com/rep/brewchetta/phase-3-practice-code-challenge-animal-shelter)

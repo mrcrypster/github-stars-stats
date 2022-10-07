@@ -1,12 +1,14 @@
 # johnrees/llandudno-attractions-map - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/johnrees/llandudno-attractions-map)
+
+[Open detailed stats for johnrees/llandudno-attractions-map](https://reviewgithub.com/rep/johnrees/llandudno-attractions-map)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | - | - | 
 | 2022-09-17 | - | - | 
 
-
-[Detailed charts & statistics for johnrees/llandudno-attractions-map](https://reviewgithub.com/rep/johnrees/llandudno-attractions-map)

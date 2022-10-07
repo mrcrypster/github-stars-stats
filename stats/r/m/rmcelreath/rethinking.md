@@ -1,12 +1,14 @@
 # rmcelreath/rethinking - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 534
 
 ★ Stars: 1753
 
 [Open repository](https://github.com/rmcelreath/rethinking)
+
+[Open detailed stats for rmcelreath/rethinking](https://reviewgithub.com/rep/rmcelreath/rethinking)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1741 | 535 | 
 | 2022-09-07 | 1740 | 535 | 
 
-
-[Detailed charts & statistics for rmcelreath/rethinking](https://reviewgithub.com/rep/rmcelreath/rethinking)

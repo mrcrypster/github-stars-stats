@@ -1,12 +1,14 @@
 # Luukdegram/apple_pie - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 121
 
 [Open repository](https://github.com/Luukdegram/apple_pie)
+
+[Open detailed stats for Luukdegram/apple_pie](https://reviewgithub.com/rep/Luukdegram/apple_pie)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 117 | 16 | 
 | 2022-09-08 | 117 | 16 | 
 
-
-[Detailed charts & statistics for Luukdegram/apple_pie](https://reviewgithub.com/rep/Luukdegram/apple_pie)

@@ -1,12 +1,14 @@
 # MithunTechnologiesDevOps/metrics-server - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 477
 
 ★ Stars: 2
 
 [Open repository](https://github.com/MithunTechnologiesDevOps/metrics-server)
+
+[Open detailed stats for MithunTechnologiesDevOps/metrics-server](https://reviewgithub.com/rep/MithunTechnologiesDevOps/metrics-server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 462 | 
 | 2022-09-08 | 2 | 462 | 
 
-
-[Detailed charts & statistics for MithunTechnologiesDevOps/metrics-server](https://reviewgithub.com/rep/MithunTechnologiesDevOps/metrics-server)

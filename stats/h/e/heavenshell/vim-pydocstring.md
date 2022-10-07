@@ -1,12 +1,14 @@
 # heavenshell/vim-pydocstring - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 53
 
 ★ Stars: 317
 
 [Open repository](https://github.com/heavenshell/vim-pydocstring)
+
+[Open detailed stats for heavenshell/vim-pydocstring](https://reviewgithub.com/rep/heavenshell/vim-pydocstring)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 316 | 53 | 
 | 2022-09-08 | 316 | 53 | 
 
-
-[Detailed charts & statistics for heavenshell/vim-pydocstring](https://reviewgithub.com/rep/heavenshell/vim-pydocstring)

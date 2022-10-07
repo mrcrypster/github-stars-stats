@@ -1,12 +1,14 @@
 # purescript/purescript-catenable-lists - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 18
 
 [Open repository](https://github.com/purescript/purescript-catenable-lists)
+
+[Open detailed stats for purescript/purescript-catenable-lists](https://reviewgithub.com/rep/purescript/purescript-catenable-lists)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 17 | 10 | 
 | 2022-09-08 | 17 | 10 | 
 
-
-[Detailed charts & statistics for purescript/purescript-catenable-lists](https://reviewgithub.com/rep/purescript/purescript-catenable-lists)

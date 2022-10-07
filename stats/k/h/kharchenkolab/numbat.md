@@ -1,12 +1,14 @@
 # kharchenkolab/numbat - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 66
 
 [Open repository](https://github.com/kharchenkolab/numbat)
+
+[Open detailed stats for kharchenkolab/numbat](https://reviewgithub.com/rep/kharchenkolab/numbat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 50 | 7 | 
 | 2022-09-08 | 50 | 7 | 
 
-
-[Detailed charts & statistics for kharchenkolab/numbat](https://reviewgithub.com/rep/kharchenkolab/numbat)

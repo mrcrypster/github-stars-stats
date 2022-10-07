@@ -1,12 +1,14 @@
 # HPQC-LABS/Book_About_Quadratization - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 16
 
 [Open repository](https://github.com/HPQC-LABS/Book_About_Quadratization)
+
+[Open detailed stats for HPQC-LABS/Book_About_Quadratization](https://reviewgithub.com/rep/HPQC-LABS/Book_About_Quadratization)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 19 | 
 | 2022-09-07 | 16 | 19 | 
 
-
-[Detailed charts & statistics for HPQC-LABS/Book_About_Quadratization](https://reviewgithub.com/rep/HPQC-LABS/Book_About_Quadratization)

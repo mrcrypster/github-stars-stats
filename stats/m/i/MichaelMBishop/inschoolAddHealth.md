@@ -1,12 +1,14 @@
 # MichaelMBishop/inschoolAddHealth - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/MichaelMBishop/inschoolAddHealth)
+
+[Open detailed stats for MichaelMBishop/inschoolAddHealth](https://reviewgithub.com/rep/MichaelMBishop/inschoolAddHealth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 1 | 
 | 2022-09-08 | 8 | 1 | 
 
-
-[Detailed charts & statistics for MichaelMBishop/inschoolAddHealth](https://reviewgithub.com/rep/MichaelMBishop/inschoolAddHealth)

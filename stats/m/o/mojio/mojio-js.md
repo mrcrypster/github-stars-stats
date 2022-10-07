@@ -1,12 +1,14 @@
 # mojio/mojio-js - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 13
 
 [Open repository](https://github.com/mojio/mojio-js)
+
+[Open detailed stats for mojio/mojio-js](https://reviewgithub.com/rep/mojio/mojio-js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 9 | 
 | 2022-09-07 | 13 | 9 | 
 
-
-[Detailed charts & statistics for mojio/mojio-js](https://reviewgithub.com/rep/mojio/mojio-js)

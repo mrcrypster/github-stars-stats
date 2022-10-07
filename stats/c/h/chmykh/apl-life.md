@@ -1,12 +1,14 @@
 # chmykh/apl-life - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 68
 
 [Open repository](https://github.com/chmykh/apl-life)
+
+[Open detailed stats for chmykh/apl-life](https://reviewgithub.com/rep/chmykh/apl-life)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 68 | 3 | 
 | 2022-09-07 | 68 | 3 | 
 
-
-[Detailed charts & statistics for chmykh/apl-life](https://reviewgithub.com/rep/chmykh/apl-life)

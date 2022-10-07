@@ -1,12 +1,14 @@
 # mathworks-ref-arch/matlab-azure-services - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/mathworks-ref-arch/matlab-azure-services)
+
+[Open detailed stats for mathworks-ref-arch/matlab-azure-services](https://reviewgithub.com/rep/mathworks-ref-arch/matlab-azure-services)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for mathworks-ref-arch/matlab-azure-services](https://reviewgithub.com/rep/mathworks-ref-arch/matlab-azure-services)

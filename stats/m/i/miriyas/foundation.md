@@ -1,12 +1,14 @@
 # miriyas/foundation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 9
 
 [Open repository](https://github.com/miriyas/foundation)
+
+[Open detailed stats for miriyas/foundation](https://reviewgithub.com/rep/miriyas/foundation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 17 | 
 | 2022-09-07 | 9 | 17 | 
 
-
-[Detailed charts & statistics for miriyas/foundation](https://reviewgithub.com/rep/miriyas/foundation)

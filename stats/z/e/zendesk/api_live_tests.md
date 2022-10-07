@@ -1,12 +1,14 @@
 # zendesk/api_live_tests - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/zendesk/api_live_tests)
+
+[Open detailed stats for zendesk/api_live_tests](https://reviewgithub.com/rep/zendesk/api_live_tests)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for zendesk/api_live_tests](https://reviewgithub.com/rep/zendesk/api_live_tests)

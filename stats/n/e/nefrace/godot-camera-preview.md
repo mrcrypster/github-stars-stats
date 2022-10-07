@@ -1,12 +1,14 @@
 # nefrace/godot-camera-preview - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 28
 
 [Open repository](https://github.com/nefrace/godot-camera-preview)
+
+[Open detailed stats for nefrace/godot-camera-preview](https://reviewgithub.com/rep/nefrace/godot-camera-preview)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 1 | 
 | 2022-09-07 | 27 | 1 | 
 
-
-[Detailed charts & statistics for nefrace/godot-camera-preview](https://reviewgithub.com/rep/nefrace/godot-camera-preview)

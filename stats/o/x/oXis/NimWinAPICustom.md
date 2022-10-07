@@ -1,12 +1,14 @@
 # oXis/NimWinAPICustom - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 31
 
 [Open repository](https://github.com/oXis/NimWinAPICustom)
+
+[Open detailed stats for oXis/NimWinAPICustom](https://reviewgithub.com/rep/oXis/NimWinAPICustom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 5 | 
 | 2022-09-08 | 29 | 5 | 
 
-
-[Detailed charts & statistics for oXis/NimWinAPICustom](https://reviewgithub.com/rep/oXis/NimWinAPICustom)

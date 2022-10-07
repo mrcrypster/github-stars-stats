@@ -1,12 +1,14 @@
 # nbuntsch/exercice-elements-interface - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 1
 
 [Open repository](https://github.com/nbuntsch/exercice-elements-interface)
+
+[Open detailed stats for nbuntsch/exercice-elements-interface](https://reviewgithub.com/rep/nbuntsch/exercice-elements-interface)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 13 | 
 | 2022-09-08 | - | 13 | 
 
-
-[Detailed charts & statistics for nbuntsch/exercice-elements-interface](https://reviewgithub.com/rep/nbuntsch/exercice-elements-interface)

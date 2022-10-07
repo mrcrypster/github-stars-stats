@@ -1,12 +1,14 @@
 # git4mail/win-rdp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/git4mail/win-rdp)
+
+[Open detailed stats for git4mail/win-rdp](https://reviewgithub.com/rep/git4mail/win-rdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for git4mail/win-rdp](https://reviewgithub.com/rep/git4mail/win-rdp)

@@ -1,12 +1,14 @@
 # CliMA/RRTMGP.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 33
 
 [Open repository](https://github.com/CliMA/RRTMGP.jl)
+
+[Open detailed stats for CliMA/RRTMGP.jl](https://reviewgithub.com/rep/CliMA/RRTMGP.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 32 | 4 | 
 | 2022-09-07 | 32 | 4 | 
 
-
-[Detailed charts & statistics for CliMA/RRTMGP.jl](https://reviewgithub.com/rep/CliMA/RRTMGP.jl)

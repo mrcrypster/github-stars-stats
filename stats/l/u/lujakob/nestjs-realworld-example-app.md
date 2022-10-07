@@ -1,12 +1,14 @@
 # lujakob/nestjs-realworld-example-app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 512
 
 ★ Stars: 2319
 
 [Open repository](https://github.com/lujakob/nestjs-realworld-example-app)
+
+[Open detailed stats for lujakob/nestjs-realworld-example-app](https://reviewgithub.com/rep/lujakob/nestjs-realworld-example-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 2290 | 510 | 
 | 2022-09-19 | 2285 | 511 | 
 
-
-[Detailed charts & statistics for lujakob/nestjs-realworld-example-app](https://reviewgithub.com/rep/lujakob/nestjs-realworld-example-app)

@@ -1,12 +1,14 @@
 # vkoukis/os_tng - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 15
 
 [Open repository](https://github.com/vkoukis/os_tng)
+
+[Open detailed stats for vkoukis/os_tng](https://reviewgithub.com/rep/vkoukis/os_tng)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | - | 
 | 2022-09-07 | 15 | - | 
 
-
-[Detailed charts & statistics for vkoukis/os_tng](https://reviewgithub.com/rep/vkoukis/os_tng)

@@ -1,12 +1,14 @@
 # boundary/folsom - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 161
 
 ★ Stars: 589
 
 [Open repository](https://github.com/boundary/folsom)
+
+[Open detailed stats for boundary/folsom](https://reviewgithub.com/rep/boundary/folsom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 588 | 161 | 
 | 2022-09-07 | 588 | 161 | 
 
-
-[Detailed charts & statistics for boundary/folsom](https://reviewgithub.com/rep/boundary/folsom)

@@ -1,12 +1,14 @@
 # Vulfox/vulkan-tutorial-zig - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/Vulfox/vulkan-tutorial-zig)
+
+[Open detailed stats for Vulfox/vulkan-tutorial-zig](https://reviewgithub.com/rep/Vulfox/vulkan-tutorial-zig)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | - | 
 | 2022-09-07 | 21 | - | 
 
-
-[Detailed charts & statistics for Vulfox/vulkan-tutorial-zig](https://reviewgithub.com/rep/Vulfox/vulkan-tutorial-zig)

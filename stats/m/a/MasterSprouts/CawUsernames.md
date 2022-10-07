@@ -1,12 +1,14 @@
 # MasterSprouts/CawUsernames - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 14
 
 [Open repository](https://github.com/MasterSprouts/CawUsernames)
+
+[Open detailed stats for MasterSprouts/CawUsernames](https://reviewgithub.com/rep/MasterSprouts/CawUsernames)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 1 | 
 | 2022-09-07 | 12 | 1 | 
 
-
-[Detailed charts & statistics for MasterSprouts/CawUsernames](https://reviewgithub.com/rep/MasterSprouts/CawUsernames)

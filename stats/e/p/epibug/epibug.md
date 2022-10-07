@@ -1,12 +1,14 @@
 # epibug/epibug - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/epibug/epibug)
+
+[Open detailed stats for epibug/epibug](https://reviewgithub.com/rep/epibug/epibug)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | - | 
 | 2022-09-07 | 21 | - | 
 
-
-[Detailed charts & statistics for epibug/epibug](https://reviewgithub.com/rep/epibug/epibug)

@@ -1,12 +1,14 @@
 # FaztWeb/astro-preview - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/FaztWeb/astro-preview)
+
+[Open detailed stats for FaztWeb/astro-preview](https://reviewgithub.com/rep/FaztWeb/astro-preview)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
 
-
-[Detailed charts & statistics for FaztWeb/astro-preview](https://reviewgithub.com/rep/FaztWeb/astro-preview)

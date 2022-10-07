@@ -1,12 +1,14 @@
 # puppetlabs/clj-parent - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 44
 
 ★ Stars: 1
 
 [Open repository](https://github.com/puppetlabs/clj-parent)
+
+[Open detailed stats for puppetlabs/clj-parent](https://reviewgithub.com/rep/puppetlabs/clj-parent)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 43 | 
 | 2022-09-08 | 1 | 43 | 
 
-
-[Detailed charts & statistics for puppetlabs/clj-parent](https://reviewgithub.com/rep/puppetlabs/clj-parent)

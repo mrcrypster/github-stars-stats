@@ -1,12 +1,14 @@
 # FunkyStudioHQ/phoenix_pagination - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 20
 
 [Open repository](https://github.com/FunkyStudioHQ/phoenix_pagination)
+
+[Open detailed stats for FunkyStudioHQ/phoenix_pagination](https://reviewgithub.com/rep/FunkyStudioHQ/phoenix_pagination)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 10 | 
 | 2022-09-07 | 20 | 10 | 
 
-
-[Detailed charts & statistics for FunkyStudioHQ/phoenix_pagination](https://reviewgithub.com/rep/FunkyStudioHQ/phoenix_pagination)

@@ -1,12 +1,14 @@
 # SE331-HandsOn-Lab/Lab01 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 77
 
 ★ Stars: 0
 
 [Open repository](https://github.com/SE331-HandsOn-Lab/Lab01)
+
+[Open detailed stats for SE331-HandsOn-Lab/Lab01](https://reviewgithub.com/rep/SE331-HandsOn-Lab/Lab01)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 77 | 
 | 2022-09-08 | - | 77 | 
 
-
-[Detailed charts & statistics for SE331-HandsOn-Lab/Lab01](https://reviewgithub.com/rep/SE331-HandsOn-Lab/Lab01)

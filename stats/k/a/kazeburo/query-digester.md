@@ -1,12 +1,14 @@
 # kazeburo/query-digester - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 14
 
 [Open repository](https://github.com/kazeburo/query-digester)
+
+[Open detailed stats for kazeburo/query-digester](https://reviewgithub.com/rep/kazeburo/query-digester)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 1 | 
 | 2022-09-08 | 14 | 1 | 
 
-
-[Detailed charts & statistics for kazeburo/query-digester](https://reviewgithub.com/rep/kazeburo/query-digester)

@@ -1,12 +1,14 @@
 # p0larisdev/app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 65
 
 [Open repository](https://github.com/p0larisdev/app)
+
+[Open detailed stats for p0larisdev/app](https://reviewgithub.com/rep/p0larisdev/app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 63 | 3 | 
 | 2022-09-07 | 63 | 3 | 
 
-
-[Detailed charts & statistics for p0larisdev/app](https://reviewgithub.com/rep/p0larisdev/app)

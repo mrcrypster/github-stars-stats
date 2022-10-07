@@ -1,12 +1,14 @@
 # solo-io/go-plugin-compatibility - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/solo-io/go-plugin-compatibility)
+
+[Open detailed stats for solo-io/go-plugin-compatibility](https://reviewgithub.com/rep/solo-io/go-plugin-compatibility)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 3 | 
 | 2022-09-08 | - | 3 | 
 
-
-[Detailed charts & statistics for solo-io/go-plugin-compatibility](https://reviewgithub.com/rep/solo-io/go-plugin-compatibility)

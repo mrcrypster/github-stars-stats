@@ -1,12 +1,14 @@
 # t9md/vim-choosewin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 549
 
 [Open repository](https://github.com/t9md/vim-choosewin)
+
+[Open detailed stats for t9md/vim-choosewin](https://reviewgithub.com/rep/t9md/vim-choosewin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 546 | 39 | 
 | 2022-09-07 | 546 | 39 | 
 
-
-[Detailed charts & statistics for t9md/vim-choosewin](https://reviewgithub.com/rep/t9md/vim-choosewin)

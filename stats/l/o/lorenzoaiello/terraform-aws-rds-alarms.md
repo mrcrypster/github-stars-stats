@@ -1,12 +1,14 @@
 # lorenzoaiello/terraform-aws-rds-alarms - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 21
 
 [Open repository](https://github.com/lorenzoaiello/terraform-aws-rds-alarms)
+
+[Open detailed stats for lorenzoaiello/terraform-aws-rds-alarms](https://reviewgithub.com/rep/lorenzoaiello/terraform-aws-rds-alarms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 22 | 
 | 2022-09-07 | 20 | 22 | 
 
-
-[Detailed charts & statistics for lorenzoaiello/terraform-aws-rds-alarms](https://reviewgithub.com/rep/lorenzoaiello/terraform-aws-rds-alarms)

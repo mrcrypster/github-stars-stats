@@ -1,12 +1,14 @@
 # kana/vim-textobj-line - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 158
 
 [Open repository](https://github.com/kana/vim-textobj-line)
+
+[Open detailed stats for kana/vim-textobj-line](https://reviewgithub.com/rep/kana/vim-textobj-line)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 158 | 6 | 
 | 2022-09-08 | 158 | 6 | 
 
-
-[Detailed charts & statistics for kana/vim-textobj-line](https://reviewgithub.com/rep/kana/vim-textobj-line)

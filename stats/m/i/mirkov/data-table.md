@@ -1,12 +1,14 @@
 # mirkov/data-table - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/mirkov/data-table)
+
+[Open detailed stats for mirkov/data-table](https://reviewgithub.com/rep/mirkov/data-table)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 2 | 1 | 
 | 2022-09-10 | 2 | 1 | 
 
-
-[Detailed charts & statistics for mirkov/data-table](https://reviewgithub.com/rep/mirkov/data-table)

@@ -1,12 +1,14 @@
 # kavyanshpandey/Asset-Management-System - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 1
 
 [Open repository](https://github.com/kavyanshpandey/Asset-Management-System)
+
+[Open detailed stats for kavyanshpandey/Asset-Management-System](https://reviewgithub.com/rep/kavyanshpandey/Asset-Management-System)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 1 | 12 | 
 | 2022-10-04 | 1 | 12 | 
 
-
-[Detailed charts & statistics for kavyanshpandey/Asset-Management-System](https://reviewgithub.com/rep/kavyanshpandey/Asset-Management-System)

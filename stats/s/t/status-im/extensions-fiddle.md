@@ -1,12 +1,14 @@
 # status-im/extensions-fiddle - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 5
 
 [Open repository](https://github.com/status-im/extensions-fiddle)
+
+[Open detailed stats for status-im/extensions-fiddle](https://reviewgithub.com/rep/status-im/extensions-fiddle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 3 | 
 | 2022-09-08 | 5 | 3 | 
 
-
-[Detailed charts & statistics for status-im/extensions-fiddle](https://reviewgithub.com/rep/status-im/extensions-fiddle)

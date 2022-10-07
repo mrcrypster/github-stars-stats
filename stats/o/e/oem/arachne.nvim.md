@@ -1,12 +1,14 @@
 # oem/arachne.nvim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 23
 
 [Open repository](https://github.com/oem/arachne.nvim)
+
+[Open detailed stats for oem/arachne.nvim](https://reviewgithub.com/rep/oem/arachne.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 17 | - | 
 | 2022-09-30 | 16 | - | 
 
-
-[Detailed charts & statistics for oem/arachne.nvim](https://reviewgithub.com/rep/oem/arachne.nvim)

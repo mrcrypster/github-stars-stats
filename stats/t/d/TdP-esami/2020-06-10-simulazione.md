@@ -1,12 +1,14 @@
 # TdP-esami/2020-06-10-simulazione - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 254
 
 ★ Stars: 2
 
 [Open repository](https://github.com/TdP-esami/2020-06-10-simulazione)
+
+[Open detailed stats for TdP-esami/2020-06-10-simulazione](https://reviewgithub.com/rep/TdP-esami/2020-06-10-simulazione)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 252 | 
 | 2022-09-07 | 2 | 252 | 
 
-
-[Detailed charts & statistics for TdP-esami/2020-06-10-simulazione](https://reviewgithub.com/rep/TdP-esami/2020-06-10-simulazione)

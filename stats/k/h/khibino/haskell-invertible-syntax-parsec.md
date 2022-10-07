@@ -1,12 +1,14 @@
 # khibino/haskell-invertible-syntax-parsec - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/khibino/haskell-invertible-syntax-parsec)
+
+[Open detailed stats for khibino/haskell-invertible-syntax-parsec](https://reviewgithub.com/rep/khibino/haskell-invertible-syntax-parsec)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for khibino/haskell-invertible-syntax-parsec](https://reviewgithub.com/rep/khibino/haskell-invertible-syntax-parsec)

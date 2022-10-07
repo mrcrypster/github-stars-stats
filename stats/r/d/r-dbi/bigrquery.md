@@ -1,12 +1,14 @@
 # r-dbi/bigrquery - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 174
 
 ★ Stars: 477
 
 [Open repository](https://github.com/r-dbi/bigrquery)
+
+[Open detailed stats for r-dbi/bigrquery](https://reviewgithub.com/rep/r-dbi/bigrquery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 475 | 175 | 
 | 2022-09-07 | 475 | 175 | 
 
-
-[Detailed charts & statistics for r-dbi/bigrquery](https://reviewgithub.com/rep/r-dbi/bigrquery)

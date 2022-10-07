@@ -1,12 +1,14 @@
 # embark-lab/maxed-scorekeep - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/embark-lab/maxed-scorekeep)
+
+[Open detailed stats for embark-lab/maxed-scorekeep](https://reviewgithub.com/rep/embark-lab/maxed-scorekeep)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for embark-lab/maxed-scorekeep](https://reviewgithub.com/rep/embark-lab/maxed-scorekeep)

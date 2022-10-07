@@ -1,12 +1,14 @@
 # willemdj/erlsom - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 100
 
 ★ Stars: 260
 
 [Open repository](https://github.com/willemdj/erlsom)
+
+[Open detailed stats for willemdj/erlsom](https://reviewgithub.com/rep/willemdj/erlsom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 260 | 100 | 
 | 2022-09-07 | 260 | 100 | 
 
-
-[Detailed charts & statistics for willemdj/erlsom](https://reviewgithub.com/rep/willemdj/erlsom)

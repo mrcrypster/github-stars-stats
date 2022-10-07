@@ -1,12 +1,14 @@
 # jherrlin/guitar-theory-training - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 23
 
 [Open repository](https://github.com/jherrlin/guitar-theory-training)
+
+[Open detailed stats for jherrlin/guitar-theory-training](https://reviewgithub.com/rep/jherrlin/guitar-theory-training)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 2 | 
 | 2022-09-07 | 22 | 2 | 
 
-
-[Detailed charts & statistics for jherrlin/guitar-theory-training](https://reviewgithub.com/rep/jherrlin/guitar-theory-training)

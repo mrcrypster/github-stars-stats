@@ -1,12 +1,14 @@
 # jyxjjj/Telegram-Bot - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 203
 
 [Open repository](https://github.com/jyxjjj/Telegram-Bot)
+
+[Open detailed stats for jyxjjj/Telegram-Bot](https://reviewgithub.com/rep/jyxjjj/Telegram-Bot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 205 | 40 | 
 | 2022-09-07 | 205 | 40 | 
 
-
-[Detailed charts & statistics for jyxjjj/Telegram-Bot](https://reviewgithub.com/rep/jyxjjj/Telegram-Bot)

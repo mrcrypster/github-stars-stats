@@ -1,12 +1,14 @@
 # buildpacks/samples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 113
 
 ★ Stars: 157
 
 [Open repository](https://github.com/buildpacks/samples)
+
+[Open detailed stats for buildpacks/samples](https://reviewgithub.com/rep/buildpacks/samples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 154 | 108 | 
 | 2022-09-07 | 154 | 108 | 
 
-
-[Detailed charts & statistics for buildpacks/samples](https://reviewgithub.com/rep/buildpacks/samples)

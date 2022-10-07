@@ -1,12 +1,14 @@
 # AnshuJalan/workshop-contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AnshuJalan/workshop-contracts)
+
+[Open detailed stats for AnshuJalan/workshop-contracts](https://reviewgithub.com/rep/AnshuJalan/workshop-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for AnshuJalan/workshop-contracts](https://reviewgithub.com/rep/AnshuJalan/workshop-contracts)

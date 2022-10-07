@@ -1,12 +1,14 @@
 # coingaming/money-elixir - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 13
 
 [Open repository](https://github.com/coingaming/money-elixir)
+
+[Open detailed stats for coingaming/money-elixir](https://reviewgithub.com/rep/coingaming/money-elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 11 | - | 
 
-
-[Detailed charts & statistics for coingaming/money-elixir](https://reviewgithub.com/rep/coingaming/money-elixir)

@@ -1,12 +1,14 @@
 # spurin/cncf-psi-k8s-linux-simulator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 83
 
 [Open repository](https://github.com/spurin/cncf-psi-k8s-linux-simulator)
+
+[Open detailed stats for spurin/cncf-psi-k8s-linux-simulator](https://reviewgithub.com/rep/spurin/cncf-psi-k8s-linux-simulator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 82 | 11 | 
 | 2022-09-08 | 82 | 11 | 
 
-
-[Detailed charts & statistics for spurin/cncf-psi-k8s-linux-simulator](https://reviewgithub.com/rep/spurin/cncf-psi-k8s-linux-simulator)

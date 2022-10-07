@@ -1,12 +1,14 @@
 # zhangzeyingvv/MagneticTB - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 17
 
 [Open repository](https://github.com/zhangzeyingvv/MagneticTB)
+
+[Open detailed stats for zhangzeyingvv/MagneticTB](https://reviewgithub.com/rep/zhangzeyingvv/MagneticTB)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 12 | 
 | 2022-09-07 | 17 | 12 | 
 
-
-[Detailed charts & statistics for zhangzeyingvv/MagneticTB](https://reviewgithub.com/rep/zhangzeyingvv/MagneticTB)

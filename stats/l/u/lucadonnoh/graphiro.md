@@ -1,12 +1,14 @@
 # lucadonnoh/graphiro - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 25
 
 [Open repository](https://github.com/lucadonnoh/graphiro)
+
+[Open detailed stats for lucadonnoh/graphiro](https://reviewgithub.com/rep/lucadonnoh/graphiro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 1 | 
 | 2022-09-07 | 25 | 1 | 
 
-
-[Detailed charts & statistics for lucadonnoh/graphiro](https://reviewgithub.com/rep/lucadonnoh/graphiro)

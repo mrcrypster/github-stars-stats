@@ -1,12 +1,14 @@
 # countercept/detectree - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 105
 
 [Open repository](https://github.com/countercept/detectree)
+
+[Open detailed stats for countercept/detectree](https://reviewgithub.com/rep/countercept/detectree)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 101 | 6 | 
 | 2022-09-07 | 101 | 6 | 
 
-
-[Detailed charts & statistics for countercept/detectree](https://reviewgithub.com/rep/countercept/detectree)

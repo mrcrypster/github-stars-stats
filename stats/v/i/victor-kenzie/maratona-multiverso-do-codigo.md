@@ -1,12 +1,14 @@
 # victor-kenzie/maratona-multiverso-do-codigo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 22
 
 [Open repository](https://github.com/victor-kenzie/maratona-multiverso-do-codigo)
+
+[Open detailed stats for victor-kenzie/maratona-multiverso-do-codigo](https://reviewgithub.com/rep/victor-kenzie/maratona-multiverso-do-codigo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 22 | 12 | 
 | 2022-09-07 | 22 | 12 | 
 
-
-[Detailed charts & statistics for victor-kenzie/maratona-multiverso-do-codigo](https://reviewgithub.com/rep/victor-kenzie/maratona-multiverso-do-codigo)

@@ -1,12 +1,14 @@
 # hashicorp/tfc-workshops-sentinel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4177
 
 ★ Stars: 16
 
 [Open repository](https://github.com/hashicorp/tfc-workshops-sentinel)
+
+[Open detailed stats for hashicorp/tfc-workshops-sentinel](https://reviewgithub.com/rep/hashicorp/tfc-workshops-sentinel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 4043 | 
 | 2022-09-08 | 16 | 4039 | 
 
-
-[Detailed charts & statistics for hashicorp/tfc-workshops-sentinel](https://reviewgithub.com/rep/hashicorp/tfc-workshops-sentinel)

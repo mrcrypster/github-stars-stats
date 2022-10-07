@@ -1,12 +1,14 @@
 # drobcosta/digital_innovation_one - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 354
 
 ★ Stars: 259
 
 [Open repository](https://github.com/drobcosta/digital_innovation_one)
+
+[Open detailed stats for drobcosta/digital_innovation_one](https://reviewgithub.com/rep/drobcosta/digital_innovation_one)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 253 | 354 | 
 | 2022-09-08 | 253 | 354 | 
 
-
-[Detailed charts & statistics for drobcosta/digital_innovation_one](https://reviewgithub.com/rep/drobcosta/digital_innovation_one)

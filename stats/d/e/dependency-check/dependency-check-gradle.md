@@ -1,12 +1,14 @@
 # dependency-check/dependency-check-gradle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
 ★ Stars: 274
 
 [Open repository](https://github.com/dependency-check/dependency-check-gradle)
+
+[Open detailed stats for dependency-check/dependency-check-gradle](https://reviewgithub.com/rep/dependency-check/dependency-check-gradle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 269 | 73 | 
 | 2022-09-07 | 269 | 73 | 
 
-
-[Detailed charts & statistics for dependency-check/dependency-check-gradle](https://reviewgithub.com/rep/dependency-check/dependency-check-gradle)

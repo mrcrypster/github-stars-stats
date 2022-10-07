@@ -1,12 +1,14 @@
 # Cocoanetics/DTFoundation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 237
 
 ★ Stars: 799
 
 [Open repository](https://github.com/Cocoanetics/DTFoundation)
+
+[Open detailed stats for Cocoanetics/DTFoundation](https://reviewgithub.com/rep/Cocoanetics/DTFoundation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 800 | 237 | 
 | 2022-09-07 | 800 | 237 | 
 
-
-[Detailed charts & statistics for Cocoanetics/DTFoundation](https://reviewgithub.com/rep/Cocoanetics/DTFoundation)

@@ -1,12 +1,14 @@
 # TheOdinProject/ruby_testing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 106
 
 ★ Stars: 15
 
 [Open repository](https://github.com/TheOdinProject/ruby_testing)
+
+[Open detailed stats for TheOdinProject/ruby_testing](https://reviewgithub.com/rep/TheOdinProject/ruby_testing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 99 | 
 | 2022-09-08 | 16 | 98 | 
 
-
-[Detailed charts & statistics for TheOdinProject/ruby_testing](https://reviewgithub.com/rep/TheOdinProject/ruby_testing)

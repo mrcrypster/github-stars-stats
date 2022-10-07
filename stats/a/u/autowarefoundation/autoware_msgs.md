@@ -1,12 +1,14 @@
 # autowarefoundation/autoware_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 4
 
 [Open repository](https://github.com/autowarefoundation/autoware_msgs)
+
+[Open detailed stats for autowarefoundation/autoware_msgs](https://reviewgithub.com/rep/autowarefoundation/autoware_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 5 | 
 | 2022-09-07 | 3 | 5 | 
 
-
-[Detailed charts & statistics for autowarefoundation/autoware_msgs](https://reviewgithub.com/rep/autowarefoundation/autoware_msgs)

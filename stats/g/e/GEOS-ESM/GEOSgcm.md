@@ -1,12 +1,14 @@
 # GEOS-ESM/GEOSgcm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 15
 
 [Open repository](https://github.com/GEOS-ESM/GEOSgcm)
+
+[Open detailed stats for GEOS-ESM/GEOSgcm](https://reviewgithub.com/rep/GEOS-ESM/GEOSgcm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 6 | 
 | 2022-09-07 | 13 | 6 | 
 
-
-[Detailed charts & statistics for GEOS-ESM/GEOSgcm](https://reviewgithub.com/rep/GEOS-ESM/GEOSgcm)

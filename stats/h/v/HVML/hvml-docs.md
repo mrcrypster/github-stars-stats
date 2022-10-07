@@ -1,12 +1,14 @@
 # HVML/hvml-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 105
 
 [Open repository](https://github.com/HVML/hvml-docs)
+
+[Open detailed stats for HVML/hvml-docs](https://reviewgithub.com/rep/HVML/hvml-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 101 | 10 | 
 | 2022-09-08 | 101 | 10 | 
 
-
-[Detailed charts & statistics for HVML/hvml-docs](https://reviewgithub.com/rep/HVML/hvml-docs)

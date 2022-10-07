@@ -1,12 +1,14 @@
 # ArrowOS/android_device_arrow_sepolicy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ArrowOS/android_device_arrow_sepolicy)
+
+[Open detailed stats for ArrowOS/android_device_arrow_sepolicy](https://reviewgithub.com/rep/ArrowOS/android_device_arrow_sepolicy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 9 | 
 | 2022-09-08 | 1 | 9 | 
 
-
-[Detailed charts & statistics for ArrowOS/android_device_arrow_sepolicy](https://reviewgithub.com/rep/ArrowOS/android_device_arrow_sepolicy)

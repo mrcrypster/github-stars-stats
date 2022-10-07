@@ -1,12 +1,14 @@
 # jrl-umi3218/jrl-umi3218.github.com - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 5
 
 [Open repository](https://github.com/jrl-umi3218/jrl-umi3218.github.com)
+
+[Open detailed stats for jrl-umi3218/jrl-umi3218.github.com](https://reviewgithub.com/rep/jrl-umi3218/jrl-umi3218.github.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 24 | 
 | 2022-09-07 | 5 | 24 | 
 
-
-[Detailed charts & statistics for jrl-umi3218/jrl-umi3218.github.com](https://reviewgithub.com/rep/jrl-umi3218/jrl-umi3218.github.com)

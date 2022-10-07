@@ -1,12 +1,14 @@
 # elliottt/llvm-pretty - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 22
 
 [Open repository](https://github.com/elliottt/llvm-pretty)
+
+[Open detailed stats for elliottt/llvm-pretty](https://reviewgithub.com/rep/elliottt/llvm-pretty)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 22 | 15 | 
 | 2022-09-07 | 22 | 15 | 
 
-
-[Detailed charts & statistics for elliottt/llvm-pretty](https://reviewgithub.com/rep/elliottt/llvm-pretty)

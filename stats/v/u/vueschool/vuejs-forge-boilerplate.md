@@ -1,12 +1,14 @@
 # vueschool/vuejs-forge-boilerplate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 176
 
 ★ Stars: 164
 
 [Open repository](https://github.com/vueschool/vuejs-forge-boilerplate)
+
+[Open detailed stats for vueschool/vuejs-forge-boilerplate](https://reviewgithub.com/rep/vueschool/vuejs-forge-boilerplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 163 | 178 | 
 | 2022-09-08 | 163 | 178 | 
 
-
-[Detailed charts & statistics for vueschool/vuejs-forge-boilerplate](https://reviewgithub.com/rep/vueschool/vuejs-forge-boilerplate)

@@ -1,12 +1,14 @@
 # purescript/purescript-partial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 11
 
 [Open repository](https://github.com/purescript/purescript-partial)
+
+[Open detailed stats for purescript/purescript-partial](https://reviewgithub.com/rep/purescript/purescript-partial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | 15 | 
 | 2022-09-08 | 11 | 15 | 
 
-
-[Detailed charts & statistics for purescript/purescript-partial](https://reviewgithub.com/rep/purescript/purescript-partial)

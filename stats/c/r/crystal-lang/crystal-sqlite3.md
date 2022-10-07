@@ -1,12 +1,14 @@
 # crystal-lang/crystal-sqlite3 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 116
 
 [Open repository](https://github.com/crystal-lang/crystal-sqlite3)
+
+[Open detailed stats for crystal-lang/crystal-sqlite3](https://reviewgithub.com/rep/crystal-lang/crystal-sqlite3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 116 | 24 | 
 | 2022-09-07 | 116 | 24 | 
 
-
-[Detailed charts & statistics for crystal-lang/crystal-sqlite3](https://reviewgithub.com/rep/crystal-lang/crystal-sqlite3)

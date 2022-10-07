@@ -1,12 +1,14 @@
 # assipt/intro-to-computational-thinking - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/assipt/intro-to-computational-thinking)
+
+[Open detailed stats for assipt/intro-to-computational-thinking](https://reviewgithub.com/rep/assipt/intro-to-computational-thinking)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 1 | 
 | 2022-09-07 | 3 | 1 | 
 
-
-[Detailed charts & statistics for assipt/intro-to-computational-thinking](https://reviewgithub.com/rep/assipt/intro-to-computational-thinking)

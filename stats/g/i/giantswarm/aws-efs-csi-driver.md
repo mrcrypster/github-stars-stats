@@ -1,12 +1,14 @@
 # giantswarm/aws-efs-csi-driver - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/giantswarm/aws-efs-csi-driver)
+
+[Open detailed stats for giantswarm/aws-efs-csi-driver](https://reviewgithub.com/rep/giantswarm/aws-efs-csi-driver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 3 | 
 | 2022-09-08 | 2 | 3 | 
 
-
-[Detailed charts & statistics for giantswarm/aws-efs-csi-driver](https://reviewgithub.com/rep/giantswarm/aws-efs-csi-driver)

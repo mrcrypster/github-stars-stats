@@ -1,12 +1,14 @@
 # zendesk/chat_providers_sdk_ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 4
 
 [Open repository](https://github.com/zendesk/chat_providers_sdk_ios)
+
+[Open detailed stats for zendesk/chat_providers_sdk_ios](https://reviewgithub.com/rep/zendesk/chat_providers_sdk_ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 8 | 
 | 2022-09-07 | 4 | 8 | 
 
-
-[Detailed charts & statistics for zendesk/chat_providers_sdk_ios](https://reviewgithub.com/rep/zendesk/chat_providers_sdk_ios)

@@ -1,12 +1,14 @@
 # JuliaCollections/Iterators.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 59
 
 [Open repository](https://github.com/JuliaCollections/Iterators.jl)
+
+[Open detailed stats for JuliaCollections/Iterators.jl](https://reviewgithub.com/rep/JuliaCollections/Iterators.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 58 | 36 | 
 | 2022-09-30 | 58 | 36 | 
 
-
-[Detailed charts & statistics for JuliaCollections/Iterators.jl](https://reviewgithub.com/rep/JuliaCollections/Iterators.jl)

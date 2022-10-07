@@ -1,12 +1,14 @@
 # Googlrr/V-Rising-Docker-Linux - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 34
 
 ★ Stars: 34
 
 [Open repository](https://github.com/Googlrr/V-Rising-Docker-Linux)
+
+[Open detailed stats for Googlrr/V-Rising-Docker-Linux](https://reviewgithub.com/rep/Googlrr/V-Rising-Docker-Linux)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 33 | 34 | 
 | 2022-09-07 | 33 | 34 | 
 
-
-[Detailed charts & statistics for Googlrr/V-Rising-Docker-Linux](https://reviewgithub.com/rep/Googlrr/V-Rising-Docker-Linux)

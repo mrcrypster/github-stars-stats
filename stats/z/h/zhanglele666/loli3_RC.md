@@ -1,12 +1,14 @@
 # zhanglele666/loli3_RC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 60
 
 [Open repository](https://github.com/zhanglele666/loli3_RC)
+
+[Open detailed stats for zhanglele666/loli3_RC](https://reviewgithub.com/rep/zhanglele666/loli3_RC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 59 | 26 | 
 | 2022-09-07 | 59 | 26 | 
 
-
-[Detailed charts & statistics for zhanglele666/loli3_RC](https://reviewgithub.com/rep/zhanglele666/loli3_RC)

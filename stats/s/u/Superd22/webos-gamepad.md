@@ -1,12 +1,14 @@
 # Superd22/webos-gamepad - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Superd22/webos-gamepad)
+
+[Open detailed stats for Superd22/webos-gamepad](https://reviewgithub.com/rep/Superd22/webos-gamepad)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for Superd22/webos-gamepad](https://reviewgithub.com/rep/Superd22/webos-gamepad)

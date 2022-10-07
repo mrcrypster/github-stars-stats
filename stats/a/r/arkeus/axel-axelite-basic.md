@@ -1,12 +1,14 @@
 # arkeus/axel-axelite-basic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/arkeus/axel-axelite-basic)
+
+[Open detailed stats for arkeus/axel-axelite-basic](https://reviewgithub.com/rep/arkeus/axel-axelite-basic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for arkeus/axel-axelite-basic](https://reviewgithub.com/rep/arkeus/axel-axelite-basic)

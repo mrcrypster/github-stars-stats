@@ -1,12 +1,14 @@
 # FoxyLinkIO/FoxyLink - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 34
 
 ★ Stars: 90
 
 [Open repository](https://github.com/FoxyLinkIO/FoxyLink)
+
+[Open detailed stats for FoxyLinkIO/FoxyLink](https://reviewgithub.com/rep/FoxyLinkIO/FoxyLink)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 90 | 34 | 
 | 2022-09-08 | 90 | 34 | 
 
-
-[Detailed charts & statistics for FoxyLinkIO/FoxyLink](https://reviewgithub.com/rep/FoxyLinkIO/FoxyLink)

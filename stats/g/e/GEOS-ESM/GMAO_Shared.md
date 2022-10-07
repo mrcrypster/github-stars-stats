@@ -1,12 +1,14 @@
 # GEOS-ESM/GMAO_Shared - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 2
 
 [Open repository](https://github.com/GEOS-ESM/GMAO_Shared)
+
+[Open detailed stats for GEOS-ESM/GMAO_Shared](https://reviewgithub.com/rep/GEOS-ESM/GMAO_Shared)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 8 | 
 | 2022-09-07 | 1 | 8 | 
 
-
-[Detailed charts & statistics for GEOS-ESM/GMAO_Shared](https://reviewgithub.com/rep/GEOS-ESM/GMAO_Shared)

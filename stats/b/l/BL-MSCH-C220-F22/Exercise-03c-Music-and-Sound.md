@@ -1,12 +1,14 @@
 # BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 35
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound)
+
+[Open detailed stats for BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | - | 26 | 
 | 2022-09-30 | - | 15 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound)

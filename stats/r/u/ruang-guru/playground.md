@@ -1,12 +1,14 @@
 # ruang-guru/playground - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 375
 
 ★ Stars: 41
 
 [Open repository](https://github.com/ruang-guru/playground)
+
+[Open detailed stats for ruang-guru/playground](https://reviewgithub.com/rep/ruang-guru/playground)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 41 | 376 | 
 | 2022-09-08 | 41 | 375 | 
 
-
-[Detailed charts & statistics for ruang-guru/playground](https://reviewgithub.com/rep/ruang-guru/playground)

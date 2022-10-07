@@ -1,12 +1,14 @@
 # JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 50
 
 ★ Stars: 51
 
 [Open repository](https://github.com/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool)
+
+[Open detailed stats for JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool](https://reviewgithub.com/rep/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 50 | 50 | 
 | 2022-09-08 | 50 | 50 | 
 
-
-[Detailed charts & statistics for JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool](https://reviewgithub.com/rep/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool)

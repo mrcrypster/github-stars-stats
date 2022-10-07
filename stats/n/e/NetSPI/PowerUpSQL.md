@@ -1,12 +1,14 @@
 # NetSPI/PowerUpSQL - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 421
 
 ★ Stars: 1974
 
 [Open repository](https://github.com/NetSPI/PowerUpSQL)
+
+[Open detailed stats for NetSPI/PowerUpSQL](https://reviewgithub.com/rep/NetSPI/PowerUpSQL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1958 | 416 | 
 | 2022-09-08 | 1957 | 416 | 
 
-
-[Detailed charts & statistics for NetSPI/PowerUpSQL](https://reviewgithub.com/rep/NetSPI/PowerUpSQL)

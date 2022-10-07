@@ -1,12 +1,14 @@
 # keyvanakbary/learning-notes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 638
 
 ★ Stars: 2601
 
 [Open repository](https://github.com/keyvanakbary/learning-notes)
+
+[Open detailed stats for keyvanakbary/learning-notes](https://reviewgithub.com/rep/keyvanakbary/learning-notes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2513 | 619 | 
 | 2022-09-07 | 2512 | 619 | 
 
-
-[Detailed charts & statistics for keyvanakbary/learning-notes](https://reviewgithub.com/rep/keyvanakbary/learning-notes)

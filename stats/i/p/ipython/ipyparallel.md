@@ -1,12 +1,14 @@
 # ipython/ipyparallel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 926
 
 ★ Stars: 2276
 
 [Open repository](https://github.com/ipython/ipyparallel)
+
+[Open detailed stats for ipython/ipyparallel](https://reviewgithub.com/rep/ipython/ipyparallel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2255 | 920 | 
 | 2022-09-07 | 2255 | 920 | 
 
-
-[Detailed charts & statistics for ipython/ipyparallel](https://reviewgithub.com/rep/ipython/ipyparallel)

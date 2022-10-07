@@ -1,12 +1,14 @@
 # h0nuss/vuejs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 52
 
 [Open repository](https://github.com/h0nuss/vuejs)
+
+[Open detailed stats for h0nuss/vuejs](https://reviewgithub.com/rep/h0nuss/vuejs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 52 | 25 | 
 | 2022-09-08 | 52 | 25 | 
 
-
-[Detailed charts & statistics for h0nuss/vuejs](https://reviewgithub.com/rep/h0nuss/vuejs)

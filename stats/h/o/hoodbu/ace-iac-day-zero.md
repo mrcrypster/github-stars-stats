@@ -1,12 +1,14 @@
 # hoodbu/ace-iac-day-zero - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 166
 
 ★ Stars: 6
 
 [Open repository](https://github.com/hoodbu/ace-iac-day-zero)
+
+[Open detailed stats for hoodbu/ace-iac-day-zero](https://reviewgithub.com/rep/hoodbu/ace-iac-day-zero)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 151 | 
 | 2022-09-07 | 6 | 151 | 
 
-
-[Detailed charts & statistics for hoodbu/ace-iac-day-zero](https://reviewgithub.com/rep/hoodbu/ace-iac-day-zero)

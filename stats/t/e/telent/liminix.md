@@ -1,12 +1,14 @@
 # telent/liminix - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 10
 
 [Open repository](https://github.com/telent/liminix)
+
+[Open detailed stats for telent/liminix](https://reviewgithub.com/rep/telent/liminix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 9 | 1 | 
 | 2022-10-02 | 9 | 1 | 
 
-
-[Detailed charts & statistics for telent/liminix](https://reviewgithub.com/rep/telent/liminix)

@@ -1,12 +1,14 @@
 # SuperiorOS/android_vendor_superior - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 35
 
 ★ Stars: 14
 
 [Open repository](https://github.com/SuperiorOS/android_vendor_superior)
+
+[Open detailed stats for SuperiorOS/android_vendor_superior](https://reviewgithub.com/rep/SuperiorOS/android_vendor_superior)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 13 | 34 | 
 | 2022-09-19 | 13 | 34 | 
 
-
-[Detailed charts & statistics for SuperiorOS/android_vendor_superior](https://reviewgithub.com/rep/SuperiorOS/android_vendor_superior)

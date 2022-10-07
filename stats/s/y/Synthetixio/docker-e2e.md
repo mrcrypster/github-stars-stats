@@ -1,12 +1,14 @@
 # Synthetixio/docker-e2e - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Synthetixio/docker-e2e)
+
+[Open detailed stats for Synthetixio/docker-e2e](https://reviewgithub.com/rep/Synthetixio/docker-e2e)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | - | 4 | 
 | 2022-09-10 | - | 4 | 
 
-
-[Detailed charts & statistics for Synthetixio/docker-e2e](https://reviewgithub.com/rep/Synthetixio/docker-e2e)

@@ -1,12 +1,14 @@
 # FredMushZhaoX/create-react-app-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 54
 
 [Open repository](https://github.com/FredMushZhaoX/create-react-app-project)
+
+[Open detailed stats for FredMushZhaoX/create-react-app-project](https://reviewgithub.com/rep/FredMushZhaoX/create-react-app-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 54 | 24 | 
 | 2022-09-07 | 54 | 24 | 
 
-
-[Detailed charts & statistics for FredMushZhaoX/create-react-app-project](https://reviewgithub.com/rep/FredMushZhaoX/create-react-app-project)

@@ -1,12 +1,14 @@
 # Totobird-Creations/Godot-GDScript-Plus - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 24
 
 [Open repository](https://github.com/Totobird-Creations/Godot-GDScript-Plus)
+
+[Open detailed stats for Totobird-Creations/Godot-GDScript-Plus](https://reviewgithub.com/rep/Totobird-Creations/Godot-GDScript-Plus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 23 | 2 | 
 | 2022-09-08 | 23 | 2 | 
 
-
-[Detailed charts & statistics for Totobird-Creations/Godot-GDScript-Plus](https://reviewgithub.com/rep/Totobird-Creations/Godot-GDScript-Plus)

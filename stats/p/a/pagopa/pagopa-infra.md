@@ -1,12 +1,14 @@
 # pagopa/pagopa-infra - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/pagopa/pagopa-infra)
+
+[Open detailed stats for pagopa/pagopa-infra](https://reviewgithub.com/rep/pagopa/pagopa-infra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | - | - | 
 | 2022-09-30 | - | - | 
 
-
-[Detailed charts & statistics for pagopa/pagopa-infra](https://reviewgithub.com/rep/pagopa/pagopa-infra)

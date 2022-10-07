@@ -1,12 +1,14 @@
 # recmo/experiment-solexp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 73
 
 [Open repository](https://github.com/recmo/experiment-solexp)
+
+[Open detailed stats for recmo/experiment-solexp](https://reviewgithub.com/rep/recmo/experiment-solexp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 70 | 7 | 
 | 2022-09-08 | 70 | 7 | 
 
-
-[Detailed charts & statistics for recmo/experiment-solexp](https://reviewgithub.com/rep/recmo/experiment-solexp)

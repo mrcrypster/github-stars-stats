@@ -1,12 +1,14 @@
 # lilactown/eql-cli - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 40
 
 [Open repository](https://github.com/lilactown/eql-cli)
+
+[Open detailed stats for lilactown/eql-cli](https://reviewgithub.com/rep/lilactown/eql-cli)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | - | 
 | 2022-09-08 | 39 | - | 
 
-
-[Detailed charts & statistics for lilactown/eql-cli](https://reviewgithub.com/rep/lilactown/eql-cli)

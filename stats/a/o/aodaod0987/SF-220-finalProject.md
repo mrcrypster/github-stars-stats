@@ -1,12 +1,14 @@
 # aodaod0987/SF-220-finalProject - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/aodaod0987/SF-220-finalProject)
+
+[Open detailed stats for aodaod0987/SF-220-finalProject](https://reviewgithub.com/rep/aodaod0987/SF-220-finalProject)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
 
-
-[Detailed charts & statistics for aodaod0987/SF-220-finalProject](https://reviewgithub.com/rep/aodaod0987/SF-220-finalProject)

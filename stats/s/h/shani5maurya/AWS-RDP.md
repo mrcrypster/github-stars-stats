@@ -1,12 +1,14 @@
 # shani5maurya/AWS-RDP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 0
 
 [Open repository](https://github.com/shani5maurya/AWS-RDP)
+
+[Open detailed stats for shani5maurya/AWS-RDP](https://reviewgithub.com/rep/shani5maurya/AWS-RDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 46 | 
 | 2022-09-07 | - | 46 | 
 
-
-[Detailed charts & statistics for shani5maurya/AWS-RDP](https://reviewgithub.com/rep/shani5maurya/AWS-RDP)

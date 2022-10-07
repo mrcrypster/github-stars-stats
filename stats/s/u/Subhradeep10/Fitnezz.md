@@ -1,12 +1,14 @@
 # Subhradeep10/Fitnezz - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 59
 
 ★ Stars: 40
 
 [Open repository](https://github.com/Subhradeep10/Fitnezz)
+
+[Open detailed stats for Subhradeep10/Fitnezz](https://reviewgithub.com/rep/Subhradeep10/Fitnezz)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | 47 | 
 | 2022-09-08 | 32 | 47 | 
 
-
-[Detailed charts & statistics for Subhradeep10/Fitnezz](https://reviewgithub.com/rep/Subhradeep10/Fitnezz)

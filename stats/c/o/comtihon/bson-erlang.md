@@ -1,12 +1,14 @@
 # comtihon/bson-erlang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 80
 
 ★ Stars: 59
 
 [Open repository](https://github.com/comtihon/bson-erlang)
+
+[Open detailed stats for comtihon/bson-erlang](https://reviewgithub.com/rep/comtihon/bson-erlang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 59 | 80 | 
 | 2022-09-07 | 59 | 80 | 
 
-
-[Detailed charts & statistics for comtihon/bson-erlang](https://reviewgithub.com/rep/comtihon/bson-erlang)

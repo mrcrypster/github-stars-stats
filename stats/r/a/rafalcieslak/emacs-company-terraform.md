@@ -1,12 +1,14 @@
 # rafalcieslak/emacs-company-terraform - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 37
 
 [Open repository](https://github.com/rafalcieslak/emacs-company-terraform)
+
+[Open detailed stats for rafalcieslak/emacs-company-terraform](https://reviewgithub.com/rep/rafalcieslak/emacs-company-terraform)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 10 | 
 | 2022-09-08 | 38 | 10 | 
 
-
-[Detailed charts & statistics for rafalcieslak/emacs-company-terraform](https://reviewgithub.com/rep/rafalcieslak/emacs-company-terraform)

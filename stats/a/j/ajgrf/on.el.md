@@ -1,12 +1,14 @@
 # ajgrf/on.el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 29
 
 [Open repository](https://github.com/ajgrf/on.el)
+
+[Open detailed stats for ajgrf/on.el](https://reviewgithub.com/rep/ajgrf/on.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 3 | 
 | 2022-09-07 | 29 | 3 | 
 
-
-[Detailed charts & statistics for ajgrf/on.el](https://reviewgithub.com/rep/ajgrf/on.el)

@@ -1,12 +1,14 @@
 # clojure-emacs/clj-refactor.el - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 107
 
 ★ Stars: 741
 
 [Open repository](https://github.com/clojure-emacs/clj-refactor.el)
+
+[Open detailed stats for clojure-emacs/clj-refactor.el](https://reviewgithub.com/rep/clojure-emacs/clj-refactor.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 739 | 106 | 
 | 2022-09-07 | 739 | 106 | 
 
-
-[Detailed charts & statistics for clojure-emacs/clj-refactor.el](https://reviewgithub.com/rep/clojure-emacs/clj-refactor.el)

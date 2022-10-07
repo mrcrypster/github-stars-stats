@@ -1,12 +1,14 @@
 # revanced/revanced-documentation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 367
 
 [Open repository](https://github.com/revanced/revanced-documentation)
+
+[Open detailed stats for revanced/revanced-documentation](https://reviewgithub.com/rep/revanced/revanced-documentation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 332 | 16 | 
 | 2022-09-08 | 331 | 16 | 
 
-
-[Detailed charts & statistics for revanced/revanced-documentation](https://reviewgithub.com/rep/revanced/revanced-documentation)

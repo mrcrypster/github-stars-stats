@@ -1,12 +1,14 @@
 # SebLisic/UpdateUbuntuCalendarIcon - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/SebLisic/UpdateUbuntuCalendarIcon)
+
+[Open detailed stats for SebLisic/UpdateUbuntuCalendarIcon](https://reviewgithub.com/rep/SebLisic/UpdateUbuntuCalendarIcon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | - | 
 | 2022-09-08 | 21 | - | 
 
-
-[Detailed charts & statistics for SebLisic/UpdateUbuntuCalendarIcon](https://reviewgithub.com/rep/SebLisic/UpdateUbuntuCalendarIcon)

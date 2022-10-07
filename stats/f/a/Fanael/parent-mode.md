@@ -1,12 +1,14 @@
 # Fanael/parent-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 12
 
 [Open repository](https://github.com/Fanael/parent-mode)
+
+[Open detailed stats for Fanael/parent-mode](https://reviewgithub.com/rep/Fanael/parent-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 4 | 
 | 2022-09-07 | 11 | 4 | 
 
-
-[Detailed charts & statistics for Fanael/parent-mode](https://reviewgithub.com/rep/Fanael/parent-mode)

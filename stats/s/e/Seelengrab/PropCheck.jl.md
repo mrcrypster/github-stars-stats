@@ -1,12 +1,14 @@
 # Seelengrab/PropCheck.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 28
 
 [Open repository](https://github.com/Seelengrab/PropCheck.jl)
+
+[Open detailed stats for Seelengrab/PropCheck.jl](https://reviewgithub.com/rep/Seelengrab/PropCheck.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 1 | 
 | 2022-09-07 | 28 | 1 | 
 
-
-[Detailed charts & statistics for Seelengrab/PropCheck.jl](https://reviewgithub.com/rep/Seelengrab/PropCheck.jl)

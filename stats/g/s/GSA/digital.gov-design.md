@@ -1,12 +1,14 @@
 # GSA/digital.gov-design - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 4
 
 [Open repository](https://github.com/GSA/digital.gov-design)
+
+[Open detailed stats for GSA/digital.gov-design](https://reviewgithub.com/rep/GSA/digital.gov-design)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 4 | 
 | 2022-09-07 | 4 | 4 | 
 
-
-[Detailed charts & statistics for GSA/digital.gov-design](https://reviewgithub.com/rep/GSA/digital.gov-design)

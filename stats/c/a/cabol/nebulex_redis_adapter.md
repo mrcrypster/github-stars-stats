@@ -1,12 +1,14 @@
 # cabol/nebulex_redis_adapter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 22
 
 [Open repository](https://github.com/cabol/nebulex_redis_adapter)
+
+[Open detailed stats for cabol/nebulex_redis_adapter](https://reviewgithub.com/rep/cabol/nebulex_redis_adapter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 15 | 
 | 2022-09-07 | 22 | 15 | 
 
-
-[Detailed charts & statistics for cabol/nebulex_redis_adapter](https://reviewgithub.com/rep/cabol/nebulex_redis_adapter)

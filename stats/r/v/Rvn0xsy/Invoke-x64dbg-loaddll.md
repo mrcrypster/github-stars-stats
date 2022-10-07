@@ -1,12 +1,14 @@
 # Rvn0xsy/Invoke-x64dbg-loaddll - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 56
 
 [Open repository](https://github.com/Rvn0xsy/Invoke-x64dbg-loaddll)
+
+[Open detailed stats for Rvn0xsy/Invoke-x64dbg-loaddll](https://reviewgithub.com/rep/Rvn0xsy/Invoke-x64dbg-loaddll)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 54 | 10 | 
 | 2022-09-07 | 54 | 10 | 
 
-
-[Detailed charts & statistics for Rvn0xsy/Invoke-x64dbg-loaddll](https://reviewgithub.com/rep/Rvn0xsy/Invoke-x64dbg-loaddll)

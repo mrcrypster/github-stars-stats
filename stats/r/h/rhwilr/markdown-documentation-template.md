@@ -1,12 +1,14 @@
 # rhwilr/markdown-documentation-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 178
 
 ★ Stars: 27
 
 [Open repository](https://github.com/rhwilr/markdown-documentation-template)
+
+[Open detailed stats for rhwilr/markdown-documentation-template](https://reviewgithub.com/rep/rhwilr/markdown-documentation-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 177 | 
 | 2022-09-07 | 25 | 177 | 
 
-
-[Detailed charts & statistics for rhwilr/markdown-documentation-template](https://reviewgithub.com/rep/rhwilr/markdown-documentation-template)

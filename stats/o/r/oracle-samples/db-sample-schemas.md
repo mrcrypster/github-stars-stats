@@ -1,12 +1,14 @@
 # oracle-samples/db-sample-schemas - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 449
 
 ★ Stars: 533
 
 [Open repository](https://github.com/oracle-samples/db-sample-schemas)
+
+[Open detailed stats for oracle-samples/db-sample-schemas](https://reviewgithub.com/rep/oracle-samples/db-sample-schemas)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 524 | 442 | 
 | 2022-09-07 | 524 | 442 | 
 
-
-[Detailed charts & statistics for oracle-samples/db-sample-schemas](https://reviewgithub.com/rep/oracle-samples/db-sample-schemas)

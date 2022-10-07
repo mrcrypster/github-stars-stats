@@ -1,12 +1,14 @@
 # fabriziosestito/commanded-spear-adapter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/fabriziosestito/commanded-spear-adapter)
+
+[Open detailed stats for fabriziosestito/commanded-spear-adapter](https://reviewgithub.com/rep/fabriziosestito/commanded-spear-adapter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 
-
-[Detailed charts & statistics for fabriziosestito/commanded-spear-adapter](https://reviewgithub.com/rep/fabriziosestito/commanded-spear-adapter)

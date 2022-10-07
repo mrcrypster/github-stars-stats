@@ -1,12 +1,14 @@
 # lorenzoh/Invariants.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 19
 
 [Open repository](https://github.com/lorenzoh/Invariants.jl)
+
+[Open detailed stats for lorenzoh/Invariants.jl](https://reviewgithub.com/rep/lorenzoh/Invariants.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | - | 
 | 2022-09-07 | 19 | - | 
 
-
-[Detailed charts & statistics for lorenzoh/Invariants.jl](https://reviewgithub.com/rep/lorenzoh/Invariants.jl)

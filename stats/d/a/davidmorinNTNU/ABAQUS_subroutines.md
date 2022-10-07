@@ -1,12 +1,14 @@
 # davidmorinNTNU/ABAQUS_subroutines - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 49
 
 [Open repository](https://github.com/davidmorinNTNU/ABAQUS_subroutines)
+
+[Open detailed stats for davidmorinNTNU/ABAQUS_subroutines](https://reviewgithub.com/rep/davidmorinNTNU/ABAQUS_subroutines)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 47 | 16 | 
 | 2022-09-07 | 47 | 16 | 
 
-
-[Detailed charts & statistics for davidmorinNTNU/ABAQUS_subroutines](https://reviewgithub.com/rep/davidmorinNTNU/ABAQUS_subroutines)

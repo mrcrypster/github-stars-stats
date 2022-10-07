@@ -1,12 +1,14 @@
 # Toniq-Labs/extendable-token - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 45
 
 ★ Stars: 75
 
 [Open repository](https://github.com/Toniq-Labs/extendable-token)
+
+[Open detailed stats for Toniq-Labs/extendable-token](https://reviewgithub.com/rep/Toniq-Labs/extendable-token)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 75 | 44 | 
 | 2022-09-08 | 75 | 44 | 
 
-
-[Detailed charts & statistics for Toniq-Labs/extendable-token](https://reviewgithub.com/rep/Toniq-Labs/extendable-token)

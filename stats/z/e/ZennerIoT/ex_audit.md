@@ -1,12 +1,14 @@
 # ZennerIoT/ex_audit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 97
 
 ★ Stars: 305
 
 [Open repository](https://github.com/ZennerIoT/ex_audit)
+
+[Open detailed stats for ZennerIoT/ex_audit](https://reviewgithub.com/rep/ZennerIoT/ex_audit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 301 | 96 | 
 | 2022-09-07 | 300 | 96 | 
 
-
-[Detailed charts & statistics for ZennerIoT/ex_audit](https://reviewgithub.com/rep/ZennerIoT/ex_audit)

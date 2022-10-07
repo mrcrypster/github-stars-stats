@@ -1,12 +1,14 @@
 # fxbois/web-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 256
 
 ★ Stars: 1528
 
 [Open repository](https://github.com/fxbois/web-mode)
+
+[Open detailed stats for fxbois/web-mode](https://reviewgithub.com/rep/fxbois/web-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1523 | 257 | 
 | 2022-09-08 | 1523 | 256 | 
 
-
-[Detailed charts & statistics for fxbois/web-mode](https://reviewgithub.com/rep/fxbois/web-mode)

@@ -1,12 +1,14 @@
 # bmitc/functional-web-development-with-elixir - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/bmitc/functional-web-development-with-elixir)
+
+[Open detailed stats for bmitc/functional-web-development-with-elixir](https://reviewgithub.com/rep/bmitc/functional-web-development-with-elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | - | 
 | 2022-09-08 | 11 | - | 
 
-
-[Detailed charts & statistics for bmitc/functional-web-development-with-elixir](https://reviewgithub.com/rep/bmitc/functional-web-development-with-elixir)

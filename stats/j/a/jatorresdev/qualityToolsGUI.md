@@ -1,12 +1,14 @@
 # jatorresdev/qualityToolsGUI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jatorresdev/qualityToolsGUI)
+
+[Open detailed stats for jatorresdev/qualityToolsGUI](https://reviewgithub.com/rep/jatorresdev/qualityToolsGUI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | - | - | 
 | 2022-09-21 | - | - | 
 
-
-[Detailed charts & statistics for jatorresdev/qualityToolsGUI](https://reviewgithub.com/rep/jatorresdev/qualityToolsGUI)

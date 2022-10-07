@@ -1,12 +1,14 @@
 # Tim-ats-d/Macron - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 8
 
 [Open repository](https://github.com/Tim-ats-d/Macron)
+
+[Open detailed stats for Tim-ats-d/Macron](https://reviewgithub.com/rep/Tim-ats-d/Macron)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | - | 
 | 2022-09-08 | 8 | - | 
 
-
-[Detailed charts & statistics for Tim-ats-d/Macron](https://reviewgithub.com/rep/Tim-ats-d/Macron)

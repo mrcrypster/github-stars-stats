@@ -1,12 +1,14 @@
 # Simspace/avaleryar - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 46
 
 [Open repository](https://github.com/Simspace/avaleryar)
+
+[Open detailed stats for Simspace/avaleryar](https://reviewgithub.com/rep/Simspace/avaleryar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 43 | 7 | 
 | 2022-09-08 | 43 | 6 | 
 
-
-[Detailed charts & statistics for Simspace/avaleryar](https://reviewgithub.com/rep/Simspace/avaleryar)

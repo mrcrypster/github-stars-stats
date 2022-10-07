@@ -1,12 +1,14 @@
 # alexandrubagu/gcs_signed_url - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 19
 
 [Open repository](https://github.com/alexandrubagu/gcs_signed_url)
+
+[Open detailed stats for alexandrubagu/gcs_signed_url](https://reviewgithub.com/rep/alexandrubagu/gcs_signed_url)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 9 | 
 | 2022-09-07 | 19 | 9 | 
 
-
-[Detailed charts & statistics for alexandrubagu/gcs_signed_url](https://reviewgithub.com/rep/alexandrubagu/gcs_signed_url)

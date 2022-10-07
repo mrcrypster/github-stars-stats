@@ -1,12 +1,14 @@
 # eesast/hasura - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 2
 
 [Open repository](https://github.com/eesast/hasura)
+
+[Open detailed stats for eesast/hasura](https://reviewgithub.com/rep/eesast/hasura)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-27 | 2 | 14 | 
 | 2022-09-26 | 2 | 14 | 
 
-
-[Detailed charts & statistics for eesast/hasura](https://reviewgithub.com/rep/eesast/hasura)

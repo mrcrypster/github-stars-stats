@@ -1,12 +1,14 @@
 # afinesami/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 176
 
 ★ Stars: 47
 
 [Open repository](https://github.com/afinesami/holberton-system_engineering-devops)
+
+[Open detailed stats for afinesami/holberton-system_engineering-devops](https://reviewgithub.com/rep/afinesami/holberton-system_engineering-devops)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 43 | 173 | 
 | 2022-09-08 | 43 | 177 | 
 
-
-[Detailed charts & statistics for afinesami/holberton-system_engineering-devops](https://reviewgithub.com/rep/afinesami/holberton-system_engineering-devops)

@@ -1,12 +1,14 @@
 # segment-integrations/analytics-ios-integration-adjust - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 1
 
 [Open repository](https://github.com/segment-integrations/analytics-ios-integration-adjust)
+
+[Open detailed stats for segment-integrations/analytics-ios-integration-adjust](https://reviewgithub.com/rep/segment-integrations/analytics-ios-integration-adjust)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 18 | 
 | 2022-09-07 | 1 | 18 | 
 
-
-[Detailed charts & statistics for segment-integrations/analytics-ios-integration-adjust](https://reviewgithub.com/rep/segment-integrations/analytics-ios-integration-adjust)

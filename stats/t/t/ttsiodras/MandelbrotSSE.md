@@ -1,12 +1,14 @@
 # ttsiodras/MandelbrotSSE - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 76
 
 [Open repository](https://github.com/ttsiodras/MandelbrotSSE)
+
+[Open detailed stats for ttsiodras/MandelbrotSSE](https://reviewgithub.com/rep/ttsiodras/MandelbrotSSE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 75 | 2 | 
 | 2022-09-07 | 75 | 2 | 
 
-
-[Detailed charts & statistics for ttsiodras/MandelbrotSSE](https://reviewgithub.com/rep/ttsiodras/MandelbrotSSE)

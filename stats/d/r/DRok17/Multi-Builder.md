@@ -1,12 +1,14 @@
 # DRok17/Multi-Builder - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 20
 
 [Open repository](https://github.com/DRok17/Multi-Builder)
+
+[Open detailed stats for DRok17/Multi-Builder](https://reviewgithub.com/rep/DRok17/Multi-Builder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 3 | 
 | 2022-09-07 | 19 | 3 | 
 
-
-[Detailed charts & statistics for DRok17/Multi-Builder](https://reviewgithub.com/rep/DRok17/Multi-Builder)

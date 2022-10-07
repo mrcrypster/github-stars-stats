@@ -1,12 +1,14 @@
 # hjfritz/Exercise_VRPG - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/hjfritz/Exercise_VRPG)
+
+[Open detailed stats for hjfritz/Exercise_VRPG](https://reviewgithub.com/rep/hjfritz/Exercise_VRPG)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | - | - | 
 | 2022-10-02 | - | - | 
 
-
-[Detailed charts & statistics for hjfritz/Exercise_VRPG](https://reviewgithub.com/rep/hjfritz/Exercise_VRPG)

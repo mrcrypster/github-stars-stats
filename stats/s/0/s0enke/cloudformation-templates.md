@@ -1,12 +1,14 @@
 # s0enke/cloudformation-templates - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 85
 
 [Open repository](https://github.com/s0enke/cloudformation-templates)
+
+[Open detailed stats for s0enke/cloudformation-templates](https://reviewgithub.com/rep/s0enke/cloudformation-templates)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 85 | 41 | 
 | 2022-09-08 | 85 | 41 | 
 
-
-[Detailed charts & statistics for s0enke/cloudformation-templates](https://reviewgithub.com/rep/s0enke/cloudformation-templates)

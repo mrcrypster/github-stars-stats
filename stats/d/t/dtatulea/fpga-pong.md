@@ -1,12 +1,14 @@
 # dtatulea/fpga-pong - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/dtatulea/fpga-pong)
+
+[Open detailed stats for dtatulea/fpga-pong](https://reviewgithub.com/rep/dtatulea/fpga-pong)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for dtatulea/fpga-pong](https://reviewgithub.com/rep/dtatulea/fpga-pong)

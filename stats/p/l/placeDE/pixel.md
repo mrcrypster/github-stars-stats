@@ -1,12 +1,14 @@
 # placeDE/pixel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
 ★ Stars: 61
 
 [Open repository](https://github.com/placeDE/pixel)
+
+[Open detailed stats for placeDE/pixel](https://reviewgithub.com/rep/placeDE/pixel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 61 | 74 | 
 | 2022-09-08 | 61 | 74 | 
 
-
-[Detailed charts & statistics for placeDE/pixel](https://reviewgithub.com/rep/placeDE/pixel)

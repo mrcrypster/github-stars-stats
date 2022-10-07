@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-service-control-policies - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 21
 
 [Open repository](https://github.com/cloudposse/terraform-aws-service-control-policies)
+
+[Open detailed stats for cloudposse/terraform-aws-service-control-policies](https://reviewgithub.com/rep/cloudposse/terraform-aws-service-control-policies)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 12 | 
 | 2022-09-07 | 19 | 12 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-service-control-policies](https://reviewgithub.com/rep/cloudposse/terraform-aws-service-control-policies)

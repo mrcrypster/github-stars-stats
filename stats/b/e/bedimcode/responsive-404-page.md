@@ -1,12 +1,14 @@
 # bedimcode/responsive-404-page - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 59
 
 [Open repository](https://github.com/bedimcode/responsive-404-page)
+
+[Open detailed stats for bedimcode/responsive-404-page](https://reviewgithub.com/rep/bedimcode/responsive-404-page)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 54 | 22 | 
 | 2022-09-08 | 54 | 22 | 
 
-
-[Detailed charts & statistics for bedimcode/responsive-404-page](https://reviewgithub.com/rep/bedimcode/responsive-404-page)

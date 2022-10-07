@@ -1,12 +1,14 @@
 # yoninazarathy/MathematicalEngineeringDeepLearning - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 45
 
 ★ Stars: 288
 
 [Open repository](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning)
+
+[Open detailed stats for yoninazarathy/MathematicalEngineeringDeepLearning](https://reviewgithub.com/rep/yoninazarathy/MathematicalEngineeringDeepLearning)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 285 | 45 | 
 | 2022-09-07 | 285 | 45 | 
 
-
-[Detailed charts & statistics for yoninazarathy/MathematicalEngineeringDeepLearning](https://reviewgithub.com/rep/yoninazarathy/MathematicalEngineeringDeepLearning)

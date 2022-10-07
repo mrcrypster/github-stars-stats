@@ -1,12 +1,14 @@
 # haji-ali/procress - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 19
 
 [Open repository](https://github.com/haji-ali/procress)
+
+[Open detailed stats for haji-ali/procress](https://reviewgithub.com/rep/haji-ali/procress)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 1 | 
 | 2022-09-07 | 20 | 1 | 
 
-
-[Detailed charts & statistics for haji-ali/procress](https://reviewgithub.com/rep/haji-ali/procress)

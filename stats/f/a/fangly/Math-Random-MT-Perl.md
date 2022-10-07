@@ -1,12 +1,14 @@
 # fangly/Math-Random-MT-Perl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 5
 
 [Open repository](https://github.com/fangly/Math-Random-MT-Perl)
+
+[Open detailed stats for fangly/Math-Random-MT-Perl](https://reviewgithub.com/rep/fangly/Math-Random-MT-Perl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 2 | 
 | 2022-09-07 | 5 | 2 | 
 
-
-[Detailed charts & statistics for fangly/Math-Random-MT-Perl](https://reviewgithub.com/rep/fangly/Math-Random-MT-Perl)

@@ -1,12 +1,14 @@
 # AICP/build - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 67
 
 ★ Stars: 16
 
 [Open repository](https://github.com/AICP/build)
+
+[Open detailed stats for AICP/build](https://reviewgithub.com/rep/AICP/build)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 16 | 66 | 
 | 2022-09-09 | 16 | 66 | 
 
-
-[Detailed charts & statistics for AICP/build](https://reviewgithub.com/rep/AICP/build)

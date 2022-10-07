@@ -1,12 +1,14 @@
 # qbcore-framework/qb-vehiclesales - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 166
 
 ★ Stars: 16
 
 [Open repository](https://github.com/qbcore-framework/qb-vehiclesales)
+
+[Open detailed stats for qbcore-framework/qb-vehiclesales](https://reviewgithub.com/rep/qbcore-framework/qb-vehiclesales)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 161 | 
 | 2022-09-07 | 16 | 161 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-vehiclesales](https://reviewgithub.com/rep/qbcore-framework/qb-vehiclesales)

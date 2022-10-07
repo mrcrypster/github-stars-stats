@@ -1,12 +1,14 @@
 # londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter)
+
+[Open detailed stats for londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter](https://reviewgithub.com/rep/londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 2 | 
 | 2022-09-07 | 7 | 2 | 
 
-
-[Detailed charts & statistics for londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter](https://reviewgithub.com/rep/londonhaskell/londonhaskell-2012-10-24-why-do-monads-matter)

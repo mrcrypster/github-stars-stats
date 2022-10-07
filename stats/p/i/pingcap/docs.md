@@ -1,12 +1,14 @@
 # pingcap/docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 544
 
 ★ Stars: 504
 
 [Open repository](https://github.com/pingcap/docs)
+
+[Open detailed stats for pingcap/docs](https://reviewgithub.com/rep/pingcap/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 503 | 541 | 
 | 2022-09-08 | 503 | 540 | 
 
-
-[Detailed charts & statistics for pingcap/docs](https://reviewgithub.com/rep/pingcap/docs)

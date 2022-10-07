@@ -1,12 +1,14 @@
 # Havoc-OS/android_build - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 21
 
 [Open repository](https://github.com/Havoc-OS/android_build)
+
+[Open detailed stats for Havoc-OS/android_build](https://reviewgithub.com/rep/Havoc-OS/android_build)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 36 | 
 | 2022-09-07 | 21 | 36 | 
 
-
-[Detailed charts & statistics for Havoc-OS/android_build](https://reviewgithub.com/rep/Havoc-OS/android_build)

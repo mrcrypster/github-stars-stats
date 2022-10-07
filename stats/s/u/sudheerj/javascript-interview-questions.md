@@ -1,12 +1,14 @@
 # sudheerj/javascript-interview-questions - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3617
 
 ★ Stars: 12190
 
 [Open repository](https://github.com/sudheerj/javascript-interview-questions)
+
+[Open detailed stats for sudheerj/javascript-interview-questions](https://reviewgithub.com/rep/sudheerj/javascript-interview-questions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11850 | 3522 | 
 | 2022-09-08 | 11839 | 3518 | 
 
-
-[Detailed charts & statistics for sudheerj/javascript-interview-questions](https://reviewgithub.com/rep/sudheerj/javascript-interview-questions)

@@ -1,12 +1,14 @@
 # dvv/base64url - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 30
 
 [Open repository](https://github.com/dvv/base64url)
+
+[Open detailed stats for dvv/base64url](https://reviewgithub.com/rep/dvv/base64url)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 17 | 
 | 2022-09-07 | 30 | 17 | 
 
-
-[Detailed charts & statistics for dvv/base64url](https://reviewgithub.com/rep/dvv/base64url)

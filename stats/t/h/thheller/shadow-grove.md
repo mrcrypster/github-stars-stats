@@ -1,12 +1,14 @@
 # thheller/shadow-grove - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 138
 
 [Open repository](https://github.com/thheller/shadow-grove)
+
+[Open detailed stats for thheller/shadow-grove](https://reviewgithub.com/rep/thheller/shadow-grove)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 136 | 6 | 
 | 2022-09-08 | 135 | 6 | 
 
-
-[Detailed charts & statistics for thheller/shadow-grove](https://reviewgithub.com/rep/thheller/shadow-grove)

@@ -1,12 +1,14 @@
 # GEOS-ESM/ESMA_cmake - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/GEOS-ESM/ESMA_cmake)
+
+[Open detailed stats for GEOS-ESM/ESMA_cmake](https://reviewgithub.com/rep/GEOS-ESM/ESMA_cmake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 5 | 
 | 2022-09-07 | 2 | 5 | 
 
-
-[Detailed charts & statistics for GEOS-ESM/ESMA_cmake](https://reviewgithub.com/rep/GEOS-ESM/ESMA_cmake)

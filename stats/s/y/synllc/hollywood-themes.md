@@ -1,12 +1,14 @@
 # synllc/hollywood-themes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 1
 
 [Open repository](https://github.com/synllc/hollywood-themes)
+
+[Open detailed stats for synllc/hollywood-themes](https://reviewgithub.com/rep/synllc/hollywood-themes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 3 | 
 | 2022-09-07 | 1 | 3 | 
 
-
-[Detailed charts & statistics for synllc/hollywood-themes](https://reviewgithub.com/rep/synllc/hollywood-themes)

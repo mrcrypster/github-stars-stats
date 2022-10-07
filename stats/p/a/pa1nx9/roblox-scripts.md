@@ -1,12 +1,14 @@
 # pa1nx9/roblox-scripts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 0
 
 [Open repository](https://github.com/pa1nx9/roblox-scripts)
+
+[Open detailed stats for pa1nx9/roblox-scripts](https://reviewgithub.com/rep/pa1nx9/roblox-scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 9 | 
 | 2022-09-08 | - | 9 | 
 
-
-[Detailed charts & statistics for pa1nx9/roblox-scripts](https://reviewgithub.com/rep/pa1nx9/roblox-scripts)

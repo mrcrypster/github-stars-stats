@@ -1,12 +1,14 @@
 # app-generator/django-soft-dashboard-tailwind - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 40
 
 [Open repository](https://github.com/app-generator/django-soft-dashboard-tailwind)
+
+[Open detailed stats for app-generator/django-soft-dashboard-tailwind](https://reviewgithub.com/rep/app-generator/django-soft-dashboard-tailwind)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 40 | 3 | 
 | 2022-09-07 | 40 | 3 | 
 
-
-[Detailed charts & statistics for app-generator/django-soft-dashboard-tailwind](https://reviewgithub.com/rep/app-generator/django-soft-dashboard-tailwind)

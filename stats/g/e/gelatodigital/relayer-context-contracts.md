@@ -1,12 +1,14 @@
 # gelatodigital/relayer-context-contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/gelatodigital/relayer-context-contracts)
+
+[Open detailed stats for gelatodigital/relayer-context-contracts](https://reviewgithub.com/rep/gelatodigital/relayer-context-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for gelatodigital/relayer-context-contracts](https://reviewgithub.com/rep/gelatodigital/relayer-context-contracts)

@@ -1,12 +1,14 @@
 # quarkusio/quarkus-super-heroes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 60
 
 ★ Stars: 106
 
 [Open repository](https://github.com/quarkusio/quarkus-super-heroes)
+
+[Open detailed stats for quarkusio/quarkus-super-heroes](https://reviewgithub.com/rep/quarkusio/quarkus-super-heroes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 104 | 55 | 
 | 2022-09-23 | 104 | 55 | 
 
-
-[Detailed charts & statistics for quarkusio/quarkus-super-heroes](https://reviewgithub.com/rep/quarkusio/quarkus-super-heroes)

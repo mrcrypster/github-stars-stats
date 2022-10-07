@@ -1,12 +1,14 @@
 # rayw000/translate-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 22
 
 [Open repository](https://github.com/rayw000/translate-mode)
+
+[Open detailed stats for rayw000/translate-mode](https://reviewgithub.com/rep/rayw000/translate-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 22 | 3 | 
 | 2022-09-07 | 22 | 3 | 
 
-
-[Detailed charts & statistics for rayw000/translate-mode](https://reviewgithub.com/rep/rayw000/translate-mode)

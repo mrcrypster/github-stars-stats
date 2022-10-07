@@ -1,12 +1,14 @@
 # apex-enterprise-patterns/fflib-apex-mocks - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 191
 
 ★ Stars: 328
 
 [Open repository](https://github.com/apex-enterprise-patterns/fflib-apex-mocks)
+
+[Open detailed stats for apex-enterprise-patterns/fflib-apex-mocks](https://reviewgithub.com/rep/apex-enterprise-patterns/fflib-apex-mocks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 326 | 192 | 
 | 2022-09-08 | 326 | 192 | 
 
-
-[Detailed charts & statistics for apex-enterprise-patterns/fflib-apex-mocks](https://reviewgithub.com/rep/apex-enterprise-patterns/fflib-apex-mocks)

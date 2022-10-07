@@ -1,12 +1,14 @@
 # partylikeits1983/num_complex_solidity - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 48
 
 [Open repository](https://github.com/partylikeits1983/num_complex_solidity)
+
+[Open detailed stats for partylikeits1983/num_complex_solidity](https://reviewgithub.com/rep/partylikeits1983/num_complex_solidity)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 47 | 4 | 
 | 2022-09-07 | 47 | 4 | 
 
-
-[Detailed charts & statistics for partylikeits1983/num_complex_solidity](https://reviewgithub.com/rep/partylikeits1983/num_complex_solidity)

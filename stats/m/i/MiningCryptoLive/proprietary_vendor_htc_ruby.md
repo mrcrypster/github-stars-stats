@@ -1,12 +1,14 @@
 # MiningCryptoLive/proprietary_vendor_htc_ruby - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/MiningCryptoLive/proprietary_vendor_htc_ruby)
+
+[Open detailed stats for MiningCryptoLive/proprietary_vendor_htc_ruby](https://reviewgithub.com/rep/MiningCryptoLive/proprietary_vendor_htc_ruby)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for MiningCryptoLive/proprietary_vendor_htc_ruby](https://reviewgithub.com/rep/MiningCryptoLive/proprietary_vendor_htc_ruby)

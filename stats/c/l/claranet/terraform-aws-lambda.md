@@ -1,12 +1,14 @@
 # claranet/terraform-aws-lambda - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 127
 
 ★ Stars: 158
 
 [Open repository](https://github.com/claranet/terraform-aws-lambda)
+
+[Open detailed stats for claranet/terraform-aws-lambda](https://reviewgithub.com/rep/claranet/terraform-aws-lambda)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 158 | 129 | 
 | 2022-09-07 | 158 | 129 | 
 
-
-[Detailed charts & statistics for claranet/terraform-aws-lambda](https://reviewgithub.com/rep/claranet/terraform-aws-lambda)

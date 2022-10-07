@@ -1,12 +1,14 @@
 # IN2-Moist/2Take1-Moist-Script - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 50
 
 [Open repository](https://github.com/IN2-Moist/2Take1-Moist-Script)
+
+[Open detailed stats for IN2-Moist/2Take1-Moist-Script](https://reviewgithub.com/rep/IN2-Moist/2Take1-Moist-Script)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 49 | 19 | 
 | 2022-09-08 | 49 | 19 | 
 
-
-[Detailed charts & statistics for IN2-Moist/2Take1-Moist-Script](https://reviewgithub.com/rep/IN2-Moist/2Take1-Moist-Script)

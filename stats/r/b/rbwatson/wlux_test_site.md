@@ -1,12 +1,14 @@
 # rbwatson/wlux_test_site - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 0
 
 [Open repository](https://github.com/rbwatson/wlux_test_site)
+
+[Open detailed stats for rbwatson/wlux_test_site](https://reviewgithub.com/rep/rbwatson/wlux_test_site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 17 | 
 | 2022-09-07 | - | 17 | 
 
-
-[Detailed charts & statistics for rbwatson/wlux_test_site](https://reviewgithub.com/rep/rbwatson/wlux_test_site)

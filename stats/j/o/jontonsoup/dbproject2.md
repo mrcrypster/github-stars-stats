@@ -1,12 +1,14 @@
 # jontonsoup/dbproject2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jontonsoup/dbproject2)
+
+[Open detailed stats for jontonsoup/dbproject2](https://reviewgithub.com/rep/jontonsoup/dbproject2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | - | - | 
 | 2022-09-16 | - | - | 
 
-
-[Detailed charts & statistics for jontonsoup/dbproject2](https://reviewgithub.com/rep/jontonsoup/dbproject2)

@@ -1,12 +1,14 @@
 # KubeDev/kube-news - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 498
 
 ★ Stars: 15
 
 [Open repository](https://github.com/KubeDev/kube-news)
+
+[Open detailed stats for KubeDev/kube-news](https://reviewgithub.com/rep/KubeDev/kube-news)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 499 | 
 | 2022-09-07 | 15 | 499 | 
 
-
-[Detailed charts & statistics for KubeDev/kube-news](https://reviewgithub.com/rep/KubeDev/kube-news)

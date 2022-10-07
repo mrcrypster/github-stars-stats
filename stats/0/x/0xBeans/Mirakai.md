@@ -1,12 +1,14 @@
 # 0xBeans/Mirakai - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 20
 
 [Open repository](https://github.com/0xBeans/Mirakai)
+
+[Open detailed stats for 0xBeans/Mirakai](https://reviewgithub.com/rep/0xBeans/Mirakai)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 9 | 
 | 2022-09-07 | 20 | 9 | 
 
-
-[Detailed charts & statistics for 0xBeans/Mirakai](https://reviewgithub.com/rep/0xBeans/Mirakai)

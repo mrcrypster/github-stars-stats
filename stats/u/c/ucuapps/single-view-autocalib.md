@@ -1,12 +1,14 @@
 # ucuapps/single-view-autocalib - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 23
 
 [Open repository](https://github.com/ucuapps/single-view-autocalib)
+
+[Open detailed stats for ucuapps/single-view-autocalib](https://reviewgithub.com/rep/ucuapps/single-view-autocalib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 7 | 
 | 2022-09-07 | 23 | 7 | 
 
-
-[Detailed charts & statistics for ucuapps/single-view-autocalib](https://reviewgithub.com/rep/ucuapps/single-view-autocalib)

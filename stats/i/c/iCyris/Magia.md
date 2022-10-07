@@ -1,12 +1,14 @@
 # iCyris/Magia - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 44
 
 [Open repository](https://github.com/iCyris/Magia)
+
+[Open detailed stats for iCyris/Magia](https://reviewgithub.com/rep/iCyris/Magia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 41 | 4 | 
 | 2022-09-07 | 41 | 4 | 
 
-
-[Detailed charts & statistics for iCyris/Magia](https://reviewgithub.com/rep/iCyris/Magia)

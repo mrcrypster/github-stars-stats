@@ -1,12 +1,14 @@
 # dotlin-org/dotlin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 149
 
 [Open repository](https://github.com/dotlin-org/dotlin)
+
+[Open detailed stats for dotlin-org/dotlin](https://reviewgithub.com/rep/dotlin-org/dotlin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 120 | 2 | 
 | 2022-09-08 | 118 | 2 | 
 
-
-[Detailed charts & statistics for dotlin-org/dotlin](https://reviewgithub.com/rep/dotlin-org/dotlin)

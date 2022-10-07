@@ -1,12 +1,14 @@
 # 1357310795/TodoSync - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 54
 
 ★ Stars: 29
 
 [Open repository](https://github.com/1357310795/TodoSync)
+
+[Open detailed stats for 1357310795/TodoSync](https://reviewgithub.com/rep/1357310795/TodoSync)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 15 | 30 | 
 | 2022-09-18 | 14 | 28 | 
 
-
-[Detailed charts & statistics for 1357310795/TodoSync](https://reviewgithub.com/rep/1357310795/TodoSync)

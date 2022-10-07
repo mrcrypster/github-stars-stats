@@ -1,12 +1,14 @@
 # mate-academy/js_fetch_data_advanced_DOM - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 171
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mate-academy/js_fetch_data_advanced_DOM)
+
+[Open detailed stats for mate-academy/js_fetch_data_advanced_DOM](https://reviewgithub.com/rep/mate-academy/js_fetch_data_advanced_DOM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 166 | 
 | 2022-09-08 | - | 166 | 
 
-
-[Detailed charts & statistics for mate-academy/js_fetch_data_advanced_DOM](https://reviewgithub.com/rep/mate-academy/js_fetch_data_advanced_DOM)

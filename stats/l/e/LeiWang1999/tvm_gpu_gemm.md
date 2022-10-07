@@ -1,12 +1,14 @@
 # LeiWang1999/tvm_gpu_gemm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 29
 
 [Open repository](https://github.com/LeiWang1999/tvm_gpu_gemm)
+
+[Open detailed stats for LeiWang1999/tvm_gpu_gemm](https://reviewgithub.com/rep/LeiWang1999/tvm_gpu_gemm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 27 | 2 | 
 | 2022-09-09 | 27 | 2 | 
 
-
-[Detailed charts & statistics for LeiWang1999/tvm_gpu_gemm](https://reviewgithub.com/rep/LeiWang1999/tvm_gpu_gemm)

@@ -1,12 +1,14 @@
 # zadewg/RIUS - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 84
 
 [Open repository](https://github.com/zadewg/RIUS)
+
+[Open detailed stats for zadewg/RIUS](https://reviewgithub.com/rep/zadewg/RIUS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 83 | 9 | 
 | 2022-09-07 | 83 | 9 | 
 
-
-[Detailed charts & statistics for zadewg/RIUS](https://reviewgithub.com/rep/zadewg/RIUS)

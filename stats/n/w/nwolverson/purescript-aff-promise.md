@@ -1,12 +1,14 @@
 # nwolverson/purescript-aff-promise - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 43
 
 [Open repository](https://github.com/nwolverson/purescript-aff-promise)
+
+[Open detailed stats for nwolverson/purescript-aff-promise](https://reviewgithub.com/rep/nwolverson/purescript-aff-promise)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 43 | 14 | 
 | 2022-09-08 | 43 | 14 | 
 
-
-[Detailed charts & statistics for nwolverson/purescript-aff-promise](https://reviewgithub.com/rep/nwolverson/purescript-aff-promise)

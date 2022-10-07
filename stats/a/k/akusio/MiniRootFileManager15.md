@@ -1,12 +1,14 @@
 # akusio/MiniRootFileManager15 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 47
 
 [Open repository](https://github.com/akusio/MiniRootFileManager15)
+
+[Open detailed stats for akusio/MiniRootFileManager15](https://reviewgithub.com/rep/akusio/MiniRootFileManager15)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 9 | 
 | 2022-09-07 | 45 | 9 | 
 
-
-[Detailed charts & statistics for akusio/MiniRootFileManager15](https://reviewgithub.com/rep/akusio/MiniRootFileManager15)

@@ -1,12 +1,14 @@
 # ControlCore-Project/concore - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ControlCore-Project/concore)
+
+[Open detailed stats for ControlCore-Project/concore](https://reviewgithub.com/rep/ControlCore-Project/concore)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 7 | 
 | 2022-09-08 | 1 | 7 | 
 
-
-[Detailed charts & statistics for ControlCore-Project/concore](https://reviewgithub.com/rep/ControlCore-Project/concore)

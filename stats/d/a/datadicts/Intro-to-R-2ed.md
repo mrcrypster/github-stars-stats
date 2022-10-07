@@ -1,12 +1,14 @@
 # datadicts/Intro-to-R-2ed - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 550
 
 ★ Stars: 3
 
 [Open repository](https://github.com/datadicts/Intro-to-R-2ed)
+
+[Open detailed stats for datadicts/Intro-to-R-2ed](https://reviewgithub.com/rep/datadicts/Intro-to-R-2ed)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 550 | 
 | 2022-09-07 | 3 | 550 | 
 
-
-[Detailed charts & statistics for datadicts/Intro-to-R-2ed](https://reviewgithub.com/rep/datadicts/Intro-to-R-2ed)

@@ -1,12 +1,14 @@
 # TomThorpe/TTRangeSlider - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 201
 
 ★ Stars: 953
 
 [Open repository](https://github.com/TomThorpe/TTRangeSlider)
+
+[Open detailed stats for TomThorpe/TTRangeSlider](https://reviewgithub.com/rep/TomThorpe/TTRangeSlider)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 950 | 201 | 
 | 2022-09-07 | 950 | 201 | 
 
-
-[Detailed charts & statistics for TomThorpe/TTRangeSlider](https://reviewgithub.com/rep/TomThorpe/TTRangeSlider)

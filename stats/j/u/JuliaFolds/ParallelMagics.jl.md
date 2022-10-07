@@ -1,12 +1,14 @@
 # JuliaFolds/ParallelMagics.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 48
 
 [Open repository](https://github.com/JuliaFolds/ParallelMagics.jl)
+
+[Open detailed stats for JuliaFolds/ParallelMagics.jl](https://reviewgithub.com/rep/JuliaFolds/ParallelMagics.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | - | 
 | 2022-09-07 | 49 | - | 
 
-
-[Detailed charts & statistics for JuliaFolds/ParallelMagics.jl](https://reviewgithub.com/rep/JuliaFolds/ParallelMagics.jl)

@@ -1,12 +1,14 @@
 # microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments)
+
+[Open detailed stats for microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments](https://reviewgithub.com/rep/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 3 | 
 | 2022-09-08 | 2 | 3 | 
 
-
-[Detailed charts & statistics for microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments](https://reviewgithub.com/rep/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments)

@@ -1,12 +1,14 @@
 # mangrovedao/mangrove - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 20
 
 [Open repository](https://github.com/mangrovedao/mangrove)
+
+[Open detailed stats for mangrovedao/mangrove](https://reviewgithub.com/rep/mangrovedao/mangrove)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 20 | 6 | 
 | 2022-09-08 | 20 | 6 | 
 
-
-[Detailed charts & statistics for mangrovedao/mangrove](https://reviewgithub.com/rep/mangrovedao/mangrove)

@@ -1,12 +1,14 @@
 # Sweets/tiramisu - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 633
 
 [Open repository](https://github.com/Sweets/tiramisu)
+
+[Open detailed stats for Sweets/tiramisu](https://reviewgithub.com/rep/Sweets/tiramisu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 626 | 17 | 
 | 2022-09-08 | 626 | 17 | 
 
-
-[Detailed charts & statistics for Sweets/tiramisu](https://reviewgithub.com/rep/Sweets/tiramisu)

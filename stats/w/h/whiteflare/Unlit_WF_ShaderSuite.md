@@ -1,12 +1,14 @@
 # whiteflare/Unlit_WF_ShaderSuite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 188
 
 [Open repository](https://github.com/whiteflare/Unlit_WF_ShaderSuite)
+
+[Open detailed stats for whiteflare/Unlit_WF_ShaderSuite](https://reviewgithub.com/rep/whiteflare/Unlit_WF_ShaderSuite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 185 | 9 | 
 | 2022-09-08 | 185 | 9 | 
 
-
-[Detailed charts & statistics for whiteflare/Unlit_WF_ShaderSuite](https://reviewgithub.com/rep/whiteflare/Unlit_WF_ShaderSuite)

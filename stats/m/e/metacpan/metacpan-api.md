@@ -1,12 +1,14 @@
 # metacpan/metacpan-api - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 217
 
 ★ Stars: 263
 
 [Open repository](https://github.com/metacpan/metacpan-api)
+
+[Open detailed stats for metacpan/metacpan-api](https://reviewgithub.com/rep/metacpan/metacpan-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 261 | 218 | 
 | 2022-09-08 | 261 | 218 | 
 
-
-[Detailed charts & statistics for metacpan/metacpan-api](https://reviewgithub.com/rep/metacpan/metacpan-api)

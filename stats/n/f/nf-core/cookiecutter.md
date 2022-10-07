@@ -1,12 +1,14 @@
 # nf-core/cookiecutter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 18
 
 [Open repository](https://github.com/nf-core/cookiecutter)
+
+[Open detailed stats for nf-core/cookiecutter](https://reviewgithub.com/rep/nf-core/cookiecutter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 7 | 
 | 2022-09-07 | 18 | 7 | 
 
-
-[Detailed charts & statistics for nf-core/cookiecutter](https://reviewgithub.com/rep/nf-core/cookiecutter)

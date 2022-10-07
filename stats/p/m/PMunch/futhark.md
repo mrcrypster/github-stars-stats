@@ -1,12 +1,14 @@
 # PMunch/futhark - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 184
 
 [Open repository](https://github.com/PMunch/futhark)
+
+[Open detailed stats for PMunch/futhark](https://reviewgithub.com/rep/PMunch/futhark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 180 | 11 | 
 | 2022-09-07 | 180 | 11 | 
 
-
-[Detailed charts & statistics for PMunch/futhark](https://reviewgithub.com/rep/PMunch/futhark)

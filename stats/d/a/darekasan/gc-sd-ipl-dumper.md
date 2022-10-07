@@ -1,12 +1,14 @@
 # darekasan/gc-sd-ipl-dumper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/darekasan/gc-sd-ipl-dumper)
+
+[Open detailed stats for darekasan/gc-sd-ipl-dumper](https://reviewgithub.com/rep/darekasan/gc-sd-ipl-dumper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for darekasan/gc-sd-ipl-dumper](https://reviewgithub.com/rep/darekasan/gc-sd-ipl-dumper)

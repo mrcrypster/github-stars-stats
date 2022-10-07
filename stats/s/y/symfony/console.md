@@ -1,12 +1,14 @@
 # symfony/console - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 250
 
 ★ Stars: 9270
 
 [Open repository](https://github.com/symfony/console)
+
+[Open detailed stats for symfony/console](https://reviewgithub.com/rep/symfony/console)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 9264 | 249 | 
 | 2022-09-08 | 9263 | 248 | 
 
-
-[Detailed charts & statistics for symfony/console](https://reviewgithub.com/rep/symfony/console)

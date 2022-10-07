@@ -1,12 +1,14 @@
 # kidd/ghuloum-scheme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 6
 
 [Open repository](https://github.com/kidd/ghuloum-scheme)
+
+[Open detailed stats for kidd/ghuloum-scheme](https://reviewgithub.com/rep/kidd/ghuloum-scheme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 2 | 
 | 2022-09-08 | 7 | 2 | 
 
-
-[Detailed charts & statistics for kidd/ghuloum-scheme](https://reviewgithub.com/rep/kidd/ghuloum-scheme)

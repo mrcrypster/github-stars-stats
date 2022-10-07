@@ -1,12 +1,14 @@
 # regru/API-CPanel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/regru/API-CPanel)
+
+[Open detailed stats for regru/API-CPanel](https://reviewgithub.com/rep/regru/API-CPanel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for regru/API-CPanel](https://reviewgithub.com/rep/regru/API-CPanel)

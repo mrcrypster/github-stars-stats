@@ -1,12 +1,14 @@
 # aardvarrk/glowing-bear - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/aardvarrk/glowing-bear)
+
+[Open detailed stats for aardvarrk/glowing-bear](https://reviewgithub.com/rep/aardvarrk/glowing-bear)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | - | 1 | 
 | 2022-09-18 | - | 1 | 
 
-
-[Detailed charts & statistics for aardvarrk/glowing-bear](https://reviewgithub.com/rep/aardvarrk/glowing-bear)

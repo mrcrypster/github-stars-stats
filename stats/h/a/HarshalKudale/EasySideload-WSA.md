@@ -1,12 +1,14 @@
 # HarshalKudale/EasySideload-WSA - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 259
 
 ★ Stars: 138
 
 [Open repository](https://github.com/HarshalKudale/EasySideload-WSA)
+
+[Open detailed stats for HarshalKudale/EasySideload-WSA](https://reviewgithub.com/rep/HarshalKudale/EasySideload-WSA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 136 | 254 | 
 | 2022-09-07 | 135 | 254 | 
 
-
-[Detailed charts & statistics for HarshalKudale/EasySideload-WSA](https://reviewgithub.com/rep/HarshalKudale/EasySideload-WSA)

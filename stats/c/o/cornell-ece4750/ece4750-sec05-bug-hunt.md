@@ -1,12 +1,14 @@
 # cornell-ece4750/ece4750-sec05-bug-hunt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/cornell-ece4750/ece4750-sec05-bug-hunt)
+
+[Open detailed stats for cornell-ece4750/ece4750-sec05-bug-hunt](https://reviewgithub.com/rep/cornell-ece4750/ece4750-sec05-bug-hunt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | - | 
 | 2022-09-25 | - | - | 
 
-
-[Detailed charts & statistics for cornell-ece4750/ece4750-sec05-bug-hunt](https://reviewgithub.com/rep/cornell-ece4750/ece4750-sec05-bug-hunt)

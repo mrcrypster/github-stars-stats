@@ -1,12 +1,14 @@
 # latexstudio/CUMCMThesis - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 213
 
 ★ Stars: 547
 
 [Open repository](https://github.com/latexstudio/CUMCMThesis)
+
+[Open detailed stats for latexstudio/CUMCMThesis](https://reviewgithub.com/rep/latexstudio/CUMCMThesis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 535 | 209 | 
 | 2022-09-08 | 535 | 209 | 
 
-
-[Detailed charts & statistics for latexstudio/CUMCMThesis](https://reviewgithub.com/rep/latexstudio/CUMCMThesis)

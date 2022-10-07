@@ -1,12 +1,14 @@
 # unkperson/consulta-operadora - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 50
 
 ★ Stars: 201
 
 [Open repository](https://github.com/unkperson/consulta-operadora)
+
+[Open detailed stats for unkperson/consulta-operadora](https://reviewgithub.com/rep/unkperson/consulta-operadora)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 201 | 50 | 
 | 2022-09-08 | 201 | 50 | 
 
-
-[Detailed charts & statistics for unkperson/consulta-operadora](https://reviewgithub.com/rep/unkperson/consulta-operadora)

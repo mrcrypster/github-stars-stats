@@ -1,12 +1,14 @@
 # nf-core/mnaseseq - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 7
 
 [Open repository](https://github.com/nf-core/mnaseseq)
+
+[Open detailed stats for nf-core/mnaseseq](https://reviewgithub.com/rep/nf-core/mnaseseq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 6 | 
 | 2022-09-07 | 7 | 6 | 
 
-
-[Detailed charts & statistics for nf-core/mnaseseq](https://reviewgithub.com/rep/nf-core/mnaseseq)

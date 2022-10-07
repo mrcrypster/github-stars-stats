@@ -1,12 +1,14 @@
 # dafny-lang/libraries - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 18
 
 [Open repository](https://github.com/dafny-lang/libraries)
+
+[Open detailed stats for dafny-lang/libraries](https://reviewgithub.com/rep/dafny-lang/libraries)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 17 | 20 | 
 | 2022-09-08 | 17 | 20 | 
 
-
-[Detailed charts & statistics for dafny-lang/libraries](https://reviewgithub.com/rep/dafny-lang/libraries)

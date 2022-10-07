@@ -1,12 +1,14 @@
 # Lenskiy/PandasToMatlab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 7
 
 [Open repository](https://github.com/Lenskiy/PandasToMatlab)
+
+[Open detailed stats for Lenskiy/PandasToMatlab](https://reviewgithub.com/rep/Lenskiy/PandasToMatlab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 3 | 
 | 2022-09-07 | 5 | 3 | 
 
-
-[Detailed charts & statistics for Lenskiy/PandasToMatlab](https://reviewgithub.com/rep/Lenskiy/PandasToMatlab)

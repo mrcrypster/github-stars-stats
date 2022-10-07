@@ -1,12 +1,14 @@
 # breakthecode2/neo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 67
 
 ★ Stars: 141
 
 [Open repository](https://github.com/breakthecode2/neo)
+
+[Open detailed stats for breakthecode2/neo](https://reviewgithub.com/rep/breakthecode2/neo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 141 | 67 | 
 | 2022-09-08 | 141 | 67 | 
 
-
-[Detailed charts & statistics for breakthecode2/neo](https://reviewgithub.com/rep/breakthecode2/neo)

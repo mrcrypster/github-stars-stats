@@ -1,12 +1,14 @@
 # muneeb-mbytes/pulpino__spi_master__ip_verification - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 10
 
 [Open repository](https://github.com/muneeb-mbytes/pulpino__spi_master__ip_verification)
+
+[Open detailed stats for muneeb-mbytes/pulpino__spi_master__ip_verification](https://reviewgithub.com/rep/muneeb-mbytes/pulpino__spi_master__ip_verification)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 3 | 
 | 2022-09-07 | 10 | 3 | 
 
-
-[Detailed charts & statistics for muneeb-mbytes/pulpino__spi_master__ip_verification](https://reviewgithub.com/rep/muneeb-mbytes/pulpino__spi_master__ip_verification)

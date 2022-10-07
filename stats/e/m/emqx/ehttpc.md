@@ -1,12 +1,14 @@
 # emqx/ehttpc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/emqx/ehttpc)
+
+[Open detailed stats for emqx/ehttpc](https://reviewgithub.com/rep/emqx/ehttpc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 4 | 3 | 
 | 2022-09-17 | 4 | 3 | 
 
-
-[Detailed charts & statistics for emqx/ehttpc](https://reviewgithub.com/rep/emqx/ehttpc)

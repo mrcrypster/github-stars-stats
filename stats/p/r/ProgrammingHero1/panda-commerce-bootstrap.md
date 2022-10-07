@@ -1,12 +1,14 @@
 # ProgrammingHero1/panda-commerce-bootstrap - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 13
 
 [Open repository](https://github.com/ProgrammingHero1/panda-commerce-bootstrap)
+
+[Open detailed stats for ProgrammingHero1/panda-commerce-bootstrap](https://reviewgithub.com/rep/ProgrammingHero1/panda-commerce-bootstrap)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 10 | 
 | 2022-09-08 | 12 | 10 | 
 
-
-[Detailed charts & statistics for ProgrammingHero1/panda-commerce-bootstrap](https://reviewgithub.com/rep/ProgrammingHero1/panda-commerce-bootstrap)

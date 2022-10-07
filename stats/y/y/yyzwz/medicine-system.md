@@ -1,12 +1,14 @@
 # yyzwz/medicine-system - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 6
 
 [Open repository](https://github.com/yyzwz/medicine-system)
+
+[Open detailed stats for yyzwz/medicine-system](https://reviewgithub.com/rep/yyzwz/medicine-system)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-04 | 6 | 6 | 
 | 2022-10-03 | 6 | 6 | 
 
-
-[Detailed charts & statistics for yyzwz/medicine-system](https://reviewgithub.com/rep/yyzwz/medicine-system)

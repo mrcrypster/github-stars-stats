@@ -1,12 +1,14 @@
 # JuliaSmoothOptimizers/ShiftedProximalOperators.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/ShiftedProximalOperators.jl)
+
+[Open detailed stats for JuliaSmoothOptimizers/ShiftedProximalOperators.jl](https://reviewgithub.com/rep/JuliaSmoothOptimizers/ShiftedProximalOperators.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 3 | 
 | 2022-09-07 | 4 | 3 | 
 
-
-[Detailed charts & statistics for JuliaSmoothOptimizers/ShiftedProximalOperators.jl](https://reviewgithub.com/rep/JuliaSmoothOptimizers/ShiftedProximalOperators.jl)

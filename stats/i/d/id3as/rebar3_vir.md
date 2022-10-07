@@ -1,12 +1,14 @@
 # id3as/rebar3_vir - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/id3as/rebar3_vir)
+
+[Open detailed stats for id3as/rebar3_vir](https://reviewgithub.com/rep/id3as/rebar3_vir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for id3as/rebar3_vir](https://reviewgithub.com/rep/id3as/rebar3_vir)

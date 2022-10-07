@@ -1,12 +1,14 @@
 # BeeSoftLabs/sass-project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BeeSoftLabs/sass-project)
+
+[Open detailed stats for BeeSoftLabs/sass-project](https://reviewgithub.com/rep/BeeSoftLabs/sass-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-02 | - | 10 | 
 | 2022-10-01 | - | 10 | 
 
-
-[Detailed charts & statistics for BeeSoftLabs/sass-project](https://reviewgithub.com/rep/BeeSoftLabs/sass-project)

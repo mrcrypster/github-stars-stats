@@ -1,12 +1,14 @@
 # databricks/databricks-sql-go - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 15
 
 [Open repository](https://github.com/databricks/databricks-sql-go)
+
+[Open detailed stats for databricks/databricks-sql-go](https://reviewgithub.com/rep/databricks/databricks-sql-go)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 8 | 
 | 2022-09-07 | 15 | 8 | 
 
-
-[Detailed charts & statistics for databricks/databricks-sql-go](https://reviewgithub.com/rep/databricks/databricks-sql-go)

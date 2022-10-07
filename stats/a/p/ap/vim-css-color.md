@@ -1,12 +1,14 @@
 # ap/vim-css-color - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 73
 
 ★ Stars: 1602
 
 [Open repository](https://github.com/ap/vim-css-color)
+
+[Open detailed stats for ap/vim-css-color](https://reviewgithub.com/rep/ap/vim-css-color)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1595 | 73 | 
 | 2022-09-07 | 1595 | 73 | 
 
-
-[Detailed charts & statistics for ap/vim-css-color](https://reviewgithub.com/rep/ap/vim-css-color)

@@ -1,12 +1,14 @@
 # net2devcrypto/web3vids - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 13
 
 [Open repository](https://github.com/net2devcrypto/web3vids)
+
+[Open detailed stats for net2devcrypto/web3vids](https://reviewgithub.com/rep/net2devcrypto/web3vids)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 20 | 
 | 2022-09-07 | 13 | 20 | 
 
-
-[Detailed charts & statistics for net2devcrypto/web3vids](https://reviewgithub.com/rep/net2devcrypto/web3vids)

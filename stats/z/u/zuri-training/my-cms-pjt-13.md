@@ -1,12 +1,14 @@
 # zuri-training/my-cms-pjt-13 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 2
 
 [Open repository](https://github.com/zuri-training/my-cms-pjt-13)
+
+[Open detailed stats for zuri-training/my-cms-pjt-13](https://reviewgithub.com/rep/zuri-training/my-cms-pjt-13)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 17 | 
 | 2022-09-08 | 2 | 17 | 
 
-
-[Detailed charts & statistics for zuri-training/my-cms-pjt-13](https://reviewgithub.com/rep/zuri-training/my-cms-pjt-13)

@@ -1,12 +1,14 @@
 # ToyotaResearchInstitute/hsr_meshes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 5
 
 [Open repository](https://github.com/ToyotaResearchInstitute/hsr_meshes)
+
+[Open detailed stats for ToyotaResearchInstitute/hsr_meshes](https://reviewgithub.com/rep/ToyotaResearchInstitute/hsr_meshes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 7 | 
 | 2022-09-08 | 5 | 7 | 
 
-
-[Detailed charts & statistics for ToyotaResearchInstitute/hsr_meshes](https://reviewgithub.com/rep/ToyotaResearchInstitute/hsr_meshes)

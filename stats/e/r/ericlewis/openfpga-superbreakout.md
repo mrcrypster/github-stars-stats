@@ -1,12 +1,14 @@
 # ericlewis/openfpga-superbreakout - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 23
 
 [Open repository](https://github.com/ericlewis/openfpga-superbreakout)
+
+[Open detailed stats for ericlewis/openfpga-superbreakout](https://reviewgithub.com/rep/ericlewis/openfpga-superbreakout)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-19 | 18 | - | 
 | 2022-09-18 | 16 | - | 
 
-
-[Detailed charts & statistics for ericlewis/openfpga-superbreakout](https://reviewgithub.com/rep/ericlewis/openfpga-superbreakout)

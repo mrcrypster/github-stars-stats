@@ -1,12 +1,14 @@
 # g-andrade/stacktrace_compat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 18
 
 [Open repository](https://github.com/g-andrade/stacktrace_compat)
+
+[Open detailed stats for g-andrade/stacktrace_compat](https://reviewgithub.com/rep/g-andrade/stacktrace_compat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 4 | 
 | 2022-09-07 | 18 | 4 | 
 
-
-[Detailed charts & statistics for g-andrade/stacktrace_compat](https://reviewgithub.com/rep/g-andrade/stacktrace_compat)

@@ -1,12 +1,14 @@
 # OCamlPro/ocplib-simplex - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 10
 
 [Open repository](https://github.com/OCamlPro/ocplib-simplex)
+
+[Open detailed stats for OCamlPro/ocplib-simplex](https://reviewgithub.com/rep/OCamlPro/ocplib-simplex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 3 | 
 | 2022-09-08 | 10 | 3 | 
 
-
-[Detailed charts & statistics for OCamlPro/ocplib-simplex](https://reviewgithub.com/rep/OCamlPro/ocplib-simplex)

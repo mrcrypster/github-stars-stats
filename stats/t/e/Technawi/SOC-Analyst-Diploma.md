@@ -1,12 +1,14 @@
 # Technawi/SOC-Analyst-Diploma - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 98
 
 [Open repository](https://github.com/Technawi/SOC-Analyst-Diploma)
+
+[Open detailed stats for Technawi/SOC-Analyst-Diploma](https://reviewgithub.com/rep/Technawi/SOC-Analyst-Diploma)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 98 | 5 | 
 | 2022-09-07 | 98 | 5 | 
 
-
-[Detailed charts & statistics for Technawi/SOC-Analyst-Diploma](https://reviewgithub.com/rep/Technawi/SOC-Analyst-Diploma)

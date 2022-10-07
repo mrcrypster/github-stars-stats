@@ -1,12 +1,14 @@
 # Foundation-19/Foundation-19 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 99
 
 ★ Stars: 15
 
 [Open repository](https://github.com/Foundation-19/Foundation-19)
+
+[Open detailed stats for Foundation-19/Foundation-19](https://reviewgithub.com/rep/Foundation-19/Foundation-19)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 15 | 97 | 
 | 2022-09-08 | 15 | 97 | 
 
-
-[Detailed charts & statistics for Foundation-19/Foundation-19](https://reviewgithub.com/rep/Foundation-19/Foundation-19)

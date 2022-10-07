@@ -1,12 +1,14 @@
 # purcell/diredfl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 107
 
 [Open repository](https://github.com/purcell/diredfl)
+
+[Open detailed stats for purcell/diredfl](https://reviewgithub.com/rep/purcell/diredfl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 109 | 7 | 
 | 2022-09-08 | 109 | 7 | 
 
-
-[Detailed charts & statistics for purcell/diredfl](https://reviewgithub.com/rep/purcell/diredfl)

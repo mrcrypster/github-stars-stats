@@ -1,12 +1,14 @@
 # bluespec/RISCV_Debug_Module - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/bluespec/RISCV_Debug_Module)
+
+[Open detailed stats for bluespec/RISCV_Debug_Module](https://reviewgithub.com/rep/bluespec/RISCV_Debug_Module)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 2 | 
 | 2022-09-07 | 3 | 2 | 
 
-
-[Detailed charts & statistics for bluespec/RISCV_Debug_Module](https://reviewgithub.com/rep/bluespec/RISCV_Debug_Module)

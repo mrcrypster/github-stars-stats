@@ -1,12 +1,14 @@
 # cmsc389T-spring22/cmsc389T-web-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 1
 
 [Open repository](https://github.com/cmsc389T-spring22/cmsc389T-web-template)
+
+[Open detailed stats for cmsc389T-spring22/cmsc389T-web-template](https://reviewgithub.com/rep/cmsc389T-spring22/cmsc389T-web-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 30 | 
 | 2022-09-07 | 1 | 30 | 
 
-
-[Detailed charts & statistics for cmsc389T-spring22/cmsc389T-web-template](https://reviewgithub.com/rep/cmsc389T-spring22/cmsc389T-web-template)

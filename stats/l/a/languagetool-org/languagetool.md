@@ -1,12 +1,14 @@
 # languagetool-org/languagetool - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 987
 
 ★ Stars: 7602
 
 [Open repository](https://github.com/languagetool-org/languagetool)
+
+[Open detailed stats for languagetool-org/languagetool](https://reviewgithub.com/rep/languagetool-org/languagetool)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7494 | 979 | 
 | 2022-09-07 | 7482 | 978 | 
 
-
-[Detailed charts & statistics for languagetool-org/languagetool](https://reviewgithub.com/rep/languagetool-org/languagetool)

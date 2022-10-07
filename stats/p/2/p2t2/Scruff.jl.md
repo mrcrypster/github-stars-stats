@@ -1,12 +1,14 @@
 # p2t2/Scruff.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/p2t2/Scruff.jl)
+
+[Open detailed stats for p2t2/Scruff.jl](https://reviewgithub.com/rep/p2t2/Scruff.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 26 | - | 
 | 2022-09-08 | 26 | - | 
 
-
-[Detailed charts & statistics for p2t2/Scruff.jl](https://reviewgithub.com/rep/p2t2/Scruff.jl)

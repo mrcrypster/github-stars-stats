@@ -1,12 +1,14 @@
 # trevorjay/Bondis-Heaps-of-Air - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 10
 
 [Open repository](https://github.com/trevorjay/Bondis-Heaps-of-Air)
+
+[Open detailed stats for trevorjay/Bondis-Heaps-of-Air](https://reviewgithub.com/rep/trevorjay/Bondis-Heaps-of-Air)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 1 | 
 | 2022-09-07 | 10 | 1 | 
 
-
-[Detailed charts & statistics for trevorjay/Bondis-Heaps-of-Air](https://reviewgithub.com/rep/trevorjay/Bondis-Heaps-of-Air)

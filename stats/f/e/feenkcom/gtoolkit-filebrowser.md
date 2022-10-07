@@ -1,12 +1,14 @@
 # feenkcom/gtoolkit-filebrowser - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 4
 
 [Open repository](https://github.com/feenkcom/gtoolkit-filebrowser)
+
+[Open detailed stats for feenkcom/gtoolkit-filebrowser](https://reviewgithub.com/rep/feenkcom/gtoolkit-filebrowser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for feenkcom/gtoolkit-filebrowser](https://reviewgithub.com/rep/feenkcom/gtoolkit-filebrowser)

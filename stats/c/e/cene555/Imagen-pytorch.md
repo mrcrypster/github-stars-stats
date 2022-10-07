@@ -1,12 +1,14 @@
 # cene555/Imagen-pytorch - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 251
 
 [Open repository](https://github.com/cene555/Imagen-pytorch)
+
+[Open detailed stats for cene555/Imagen-pytorch](https://reviewgithub.com/rep/cene555/Imagen-pytorch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 243 | 48 | 
 | 2022-09-08 | 244 | 46 | 
 
-
-[Detailed charts & statistics for cene555/Imagen-pytorch](https://reviewgithub.com/rep/cene555/Imagen-pytorch)

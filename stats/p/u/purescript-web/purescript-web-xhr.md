@@ -1,12 +1,14 @@
 # purescript-web/purescript-web-xhr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 6
 
 [Open repository](https://github.com/purescript-web/purescript-web-xhr)
+
+[Open detailed stats for purescript-web/purescript-web-xhr](https://reviewgithub.com/rep/purescript-web/purescript-web-xhr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 7 | 
 | 2022-09-08 | 6 | 7 | 
 
-
-[Detailed charts & statistics for purescript-web/purescript-web-xhr](https://reviewgithub.com/rep/purescript-web/purescript-web-xhr)

@@ -1,12 +1,14 @@
 # v2rayA/v2rayA - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 505
 
 ★ Stars: 4037
 
 [Open repository](https://github.com/v2rayA/v2rayA)
+
+[Open detailed stats for v2rayA/v2rayA](https://reviewgithub.com/rep/v2rayA/v2rayA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3868 | 492 | 
 | 2022-09-07 | 3862 | 491 | 
 
-
-[Detailed charts & statistics for v2rayA/v2rayA](https://reviewgithub.com/rep/v2rayA/v2rayA)

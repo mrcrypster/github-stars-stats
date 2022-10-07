@@ -1,12 +1,14 @@
 # MirzaBeig/GPU-Fog-Particles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 299
 
 [Open repository](https://github.com/MirzaBeig/GPU-Fog-Particles)
+
+[Open detailed stats for MirzaBeig/GPU-Fog-Particles](https://reviewgithub.com/rep/MirzaBeig/GPU-Fog-Particles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 291 | 44 | 
 | 2022-09-07 | 291 | 44 | 
 
-
-[Detailed charts & statistics for MirzaBeig/GPU-Fog-Particles](https://reviewgithub.com/rep/MirzaBeig/GPU-Fog-Particles)

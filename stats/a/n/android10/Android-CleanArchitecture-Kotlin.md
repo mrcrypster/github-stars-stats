@@ -1,12 +1,14 @@
 # android10/Android-CleanArchitecture-Kotlin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 869
 
 ★ Stars: 4205
 
 [Open repository](https://github.com/android10/Android-CleanArchitecture-Kotlin)
+
+[Open detailed stats for android10/Android-CleanArchitecture-Kotlin](https://reviewgithub.com/rep/android10/Android-CleanArchitecture-Kotlin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4167 | 861 | 
 | 2022-09-07 | 4165 | 861 | 
 
-
-[Detailed charts & statistics for android10/Android-CleanArchitecture-Kotlin](https://reviewgithub.com/rep/android10/Android-CleanArchitecture-Kotlin)

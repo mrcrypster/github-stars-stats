@@ -1,12 +1,14 @@
 # Philogy/huff-weth - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/Philogy/huff-weth)
+
+[Open detailed stats for Philogy/huff-weth](https://reviewgithub.com/rep/Philogy/huff-weth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | - | 
 | 2022-09-08 | 19 | - | 
 
-
-[Detailed charts & statistics for Philogy/huff-weth](https://reviewgithub.com/rep/Philogy/huff-weth)

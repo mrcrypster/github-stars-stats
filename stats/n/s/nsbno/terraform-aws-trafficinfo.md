@@ -1,12 +1,14 @@
 # nsbno/terraform-aws-trafficinfo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nsbno/terraform-aws-trafficinfo)
+
+[Open detailed stats for nsbno/terraform-aws-trafficinfo](https://reviewgithub.com/rep/nsbno/terraform-aws-trafficinfo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for nsbno/terraform-aws-trafficinfo](https://reviewgithub.com/rep/nsbno/terraform-aws-trafficinfo)

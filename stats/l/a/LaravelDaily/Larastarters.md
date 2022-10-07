@@ -1,12 +1,14 @@
 # LaravelDaily/Larastarters - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 103
 
 ★ Stars: 517
 
 [Open repository](https://github.com/LaravelDaily/Larastarters)
+
+[Open detailed stats for LaravelDaily/Larastarters](https://reviewgithub.com/rep/LaravelDaily/Larastarters)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 489 | 96 | 
 | 2022-09-08 | 489 | 96 | 
 
-
-[Detailed charts & statistics for LaravelDaily/Larastarters](https://reviewgithub.com/rep/LaravelDaily/Larastarters)

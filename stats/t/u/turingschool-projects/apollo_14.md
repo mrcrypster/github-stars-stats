@@ -1,12 +1,14 @@
 # turingschool-projects/apollo_14 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 143
 
 ★ Stars: 0
 
 [Open repository](https://github.com/turingschool-projects/apollo_14)
+
+[Open detailed stats for turingschool-projects/apollo_14](https://reviewgithub.com/rep/turingschool-projects/apollo_14)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 143 | 
 | 2022-09-07 | - | 143 | 
 
-
-[Detailed charts & statistics for turingschool-projects/apollo_14](https://reviewgithub.com/rep/turingschool-projects/apollo_14)

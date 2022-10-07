@@ -1,12 +1,14 @@
 # mulesoft/docs-dataweave - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 3
 
 [Open repository](https://github.com/mulesoft/docs-dataweave)
+
+[Open detailed stats for mulesoft/docs-dataweave](https://reviewgithub.com/rep/mulesoft/docs-dataweave)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 10 | 
 | 2022-09-07 | 3 | 10 | 
 
-
-[Detailed charts & statistics for mulesoft/docs-dataweave](https://reviewgithub.com/rep/mulesoft/docs-dataweave)

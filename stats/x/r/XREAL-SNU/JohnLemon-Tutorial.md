@@ -1,12 +1,14 @@
 # XREAL-SNU/JohnLemon-Tutorial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 0
 
 [Open repository](https://github.com/XREAL-SNU/JohnLemon-Tutorial)
+
+[Open detailed stats for XREAL-SNU/JohnLemon-Tutorial](https://reviewgithub.com/rep/XREAL-SNU/JohnLemon-Tutorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 30 | 
 | 2022-09-07 | - | 30 | 
 
-
-[Detailed charts & statistics for XREAL-SNU/JohnLemon-Tutorial](https://reviewgithub.com/rep/XREAL-SNU/JohnLemon-Tutorial)

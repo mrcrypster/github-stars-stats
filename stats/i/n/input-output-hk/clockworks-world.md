@@ -1,12 +1,14 @@
 # input-output-hk/clockworks-world - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/input-output-hk/clockworks-world)
+
+[Open detailed stats for input-output-hk/clockworks-world](https://reviewgithub.com/rep/input-output-hk/clockworks-world)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for input-output-hk/clockworks-world](https://reviewgithub.com/rep/input-output-hk/clockworks-world)

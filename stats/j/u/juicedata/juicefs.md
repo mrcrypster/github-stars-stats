@@ -1,12 +1,14 @@
 # juicedata/juicefs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 573
 
 ★ Stars: 6756
 
 [Open repository](https://github.com/juicedata/juicefs)
+
+[Open detailed stats for juicedata/juicefs](https://reviewgithub.com/rep/juicedata/juicefs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6408 | 551 | 
 | 2022-09-08 | 6321 | 547 | 
 
-
-[Detailed charts & statistics for juicedata/juicefs](https://reviewgithub.com/rep/juicedata/juicefs)

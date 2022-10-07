@@ -1,12 +1,14 @@
 # TES5Edit/TES5Edit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 104
 
 ★ Stars: 532
 
 [Open repository](https://github.com/TES5Edit/TES5Edit)
+
+[Open detailed stats for TES5Edit/TES5Edit](https://reviewgithub.com/rep/TES5Edit/TES5Edit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 528 | 105 | 
 | 2022-09-08 | 528 | 105 | 
 
-
-[Detailed charts & statistics for TES5Edit/TES5Edit](https://reviewgithub.com/rep/TES5Edit/TES5Edit)

@@ -1,12 +1,14 @@
 # microsoft/fhir-server - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 387
 
 ★ Stars: 908
 
 [Open repository](https://github.com/microsoft/fhir-server)
+
+[Open detailed stats for microsoft/fhir-server](https://reviewgithub.com/rep/microsoft/fhir-server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 896 | 385 | 
 | 2022-09-08 | 896 | 385 | 
 
-
-[Detailed charts & statistics for microsoft/fhir-server](https://reviewgithub.com/rep/microsoft/fhir-server)

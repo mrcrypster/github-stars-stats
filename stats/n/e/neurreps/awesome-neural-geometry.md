@@ -1,12 +1,14 @@
 # neurreps/awesome-neural-geometry - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 529
 
 [Open repository](https://github.com/neurreps/awesome-neural-geometry)
+
+[Open detailed stats for neurreps/awesome-neural-geometry](https://reviewgithub.com/rep/neurreps/awesome-neural-geometry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 379 | 16 | 
 | 2022-09-12 | 281 | 11 | 
 
-
-[Detailed charts & statistics for neurreps/awesome-neural-geometry](https://reviewgithub.com/rep/neurreps/awesome-neural-geometry)

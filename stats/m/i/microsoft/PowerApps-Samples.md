@@ -1,12 +1,14 @@
 # microsoft/PowerApps-Samples - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1252
 
 ★ Stars: 899
 
 [Open repository](https://github.com/microsoft/PowerApps-Samples)
+
+[Open detailed stats for microsoft/PowerApps-Samples](https://reviewgithub.com/rep/microsoft/PowerApps-Samples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 873 | 1232 | 
 | 2022-09-07 | 873 | 1230 | 
 
-
-[Detailed charts & statistics for microsoft/PowerApps-Samples](https://reviewgithub.com/rep/microsoft/PowerApps-Samples)

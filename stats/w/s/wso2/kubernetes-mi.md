@@ -1,12 +1,14 @@
 # wso2/kubernetes-mi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/wso2/kubernetes-mi)
+
+[Open detailed stats for wso2/kubernetes-mi](https://reviewgithub.com/rep/wso2/kubernetes-mi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 14 | 
 | 2022-09-08 | 1 | 14 | 
 
-
-[Detailed charts & statistics for wso2/kubernetes-mi](https://reviewgithub.com/rep/wso2/kubernetes-mi)

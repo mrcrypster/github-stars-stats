@@ -1,12 +1,14 @@
 # tulios/kafkajs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 391
 
 ★ Stars: 2891
 
 [Open repository](https://github.com/tulios/kafkajs)
+
+[Open detailed stats for tulios/kafkajs](https://reviewgithub.com/rep/tulios/kafkajs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2843 | 386 | 
 | 2022-09-07 | 2839 | 386 | 
 
-
-[Detailed charts & statistics for tulios/kafkajs](https://reviewgithub.com/rep/tulios/kafkajs)

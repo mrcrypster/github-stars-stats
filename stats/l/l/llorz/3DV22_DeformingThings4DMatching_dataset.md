@@ -1,12 +1,14 @@
 # llorz/3DV22_DeformingThings4DMatching_dataset - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 16
 
 [Open repository](https://github.com/llorz/3DV22_DeformingThings4DMatching_dataset)
+
+[Open detailed stats for llorz/3DV22_DeformingThings4DMatching_dataset](https://reviewgithub.com/rep/llorz/3DV22_DeformingThings4DMatching_dataset)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 15 | 2 | 
 | 2022-09-22 | 14 | 2 | 
 
-
-[Detailed charts & statistics for llorz/3DV22_DeformingThings4DMatching_dataset](https://reviewgithub.com/rep/llorz/3DV22_DeformingThings4DMatching_dataset)

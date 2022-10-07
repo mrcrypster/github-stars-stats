@@ -1,12 +1,14 @@
 # NCAR/ccpp-physics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 112
 
 ★ Stars: 42
 
 [Open repository](https://github.com/NCAR/ccpp-physics)
+
+[Open detailed stats for NCAR/ccpp-physics](https://reviewgithub.com/rep/NCAR/ccpp-physics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 41 | 111 | 
 | 2022-09-07 | 41 | 111 | 
 
-
-[Detailed charts & statistics for NCAR/ccpp-physics](https://reviewgithub.com/rep/NCAR/ccpp-physics)

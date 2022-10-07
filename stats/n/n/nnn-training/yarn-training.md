@@ -1,12 +1,14 @@
 # nnn-training/yarn-training - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 605
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nnn-training/yarn-training)
+
+[Open detailed stats for nnn-training/yarn-training](https://reviewgithub.com/rep/nnn-training/yarn-training)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 578 | 
 | 2022-09-08 | - | 577 | 
 
-
-[Detailed charts & statistics for nnn-training/yarn-training](https://reviewgithub.com/rep/nnn-training/yarn-training)

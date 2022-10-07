@@ -1,12 +1,14 @@
 # xiongtx/eros - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 94
 
 [Open repository](https://github.com/xiongtx/eros)
+
+[Open detailed stats for xiongtx/eros](https://reviewgithub.com/rep/xiongtx/eros)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 94 | 11 | 
 | 2022-09-23 | 94 | 11 | 
 
-
-[Detailed charts & statistics for xiongtx/eros](https://reviewgithub.com/rep/xiongtx/eros)

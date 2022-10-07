@@ -1,12 +1,14 @@
 # rezaghz/loutos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 198
 
 [Open repository](https://github.com/rezaghz/loutos)
+
+[Open detailed stats for rezaghz/loutos](https://reviewgithub.com/rep/rezaghz/loutos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 195 | 5 | 
 | 2022-09-08 | 195 | 5 | 
 
-
-[Detailed charts & statistics for rezaghz/loutos](https://reviewgithub.com/rep/rezaghz/loutos)

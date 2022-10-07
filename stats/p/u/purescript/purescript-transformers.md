@@ -1,12 +1,14 @@
 # purescript/purescript-transformers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 65
 
 [Open repository](https://github.com/purescript/purescript-transformers)
+
+[Open detailed stats for purescript/purescript-transformers](https://reviewgithub.com/rep/purescript/purescript-transformers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 65 | 44 | 
 | 2022-09-08 | 65 | 44 | 
 
-
-[Detailed charts & statistics for purescript/purescript-transformers](https://reviewgithub.com/rep/purescript/purescript-transformers)

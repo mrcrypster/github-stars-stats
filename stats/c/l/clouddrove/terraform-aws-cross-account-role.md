@@ -1,12 +1,14 @@
 # clouddrove/terraform-aws-cross-account-role - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 10
 
 [Open repository](https://github.com/clouddrove/terraform-aws-cross-account-role)
+
+[Open detailed stats for clouddrove/terraform-aws-cross-account-role](https://reviewgithub.com/rep/clouddrove/terraform-aws-cross-account-role)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 18 | 
 | 2022-09-07 | 10 | 18 | 
 
-
-[Detailed charts & statistics for clouddrove/terraform-aws-cross-account-role](https://reviewgithub.com/rep/clouddrove/terraform-aws-cross-account-role)

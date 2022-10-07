@@ -1,12 +1,14 @@
 # status-im/status-desktop - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 38
 
 ★ Stars: 167
 
 [Open repository](https://github.com/status-im/status-desktop)
+
+[Open detailed stats for status-im/status-desktop](https://reviewgithub.com/rep/status-im/status-desktop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 164 | 36 | 
 | 2022-09-08 | 164 | 36 | 
 
-
-[Detailed charts & statistics for status-im/status-desktop](https://reviewgithub.com/rep/status-im/status-desktop)

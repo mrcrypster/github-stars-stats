@@ -1,12 +1,14 @@
 # jackc/pgx - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 572
 
 ★ Stars: 6073
 
 [Open repository](https://github.com/jackc/pgx)
+
+[Open detailed stats for jackc/pgx](https://reviewgithub.com/rep/jackc/pgx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5948 | 559 | 
 | 2022-09-07 | 5942 | 558 | 
 
-
-[Detailed charts & statistics for jackc/pgx](https://reviewgithub.com/rep/jackc/pgx)

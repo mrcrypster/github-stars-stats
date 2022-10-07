@@ -1,12 +1,14 @@
 # Cray-HPE/cray-opa - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Cray-HPE/cray-opa)
+
+[Open detailed stats for Cray-HPE/cray-opa](https://reviewgithub.com/rep/Cray-HPE/cray-opa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 2 | 
 | 2022-09-08 | 1 | 2 | 
 
-
-[Detailed charts & statistics for Cray-HPE/cray-opa](https://reviewgithub.com/rep/Cray-HPE/cray-opa)

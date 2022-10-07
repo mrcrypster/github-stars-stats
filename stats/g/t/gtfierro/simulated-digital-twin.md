@@ -1,12 +1,14 @@
 # gtfierro/simulated-digital-twin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/gtfierro/simulated-digital-twin)
+
+[Open detailed stats for gtfierro/simulated-digital-twin](https://reviewgithub.com/rep/gtfierro/simulated-digital-twin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | - | - | 
 | 2022-10-01 | - | - | 
 
-
-[Detailed charts & statistics for gtfierro/simulated-digital-twin](https://reviewgithub.com/rep/gtfierro/simulated-digital-twin)

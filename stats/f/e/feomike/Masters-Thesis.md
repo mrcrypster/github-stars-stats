@@ -1,12 +1,14 @@
 # feomike/Masters-Thesis - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/feomike/Masters-Thesis)
+
+[Open detailed stats for feomike/Masters-Thesis](https://reviewgithub.com/rep/feomike/Masters-Thesis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for feomike/Masters-Thesis](https://reviewgithub.com/rep/feomike/Masters-Thesis)

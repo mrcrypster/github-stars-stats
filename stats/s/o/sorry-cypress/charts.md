@@ -1,12 +1,14 @@
 # sorry-cypress/charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 61
 
 ★ Stars: 22
 
 [Open repository](https://github.com/sorry-cypress/charts)
+
+[Open detailed stats for sorry-cypress/charts](https://reviewgithub.com/rep/sorry-cypress/charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 22 | 59 | 
 | 2022-09-08 | 22 | 59 | 
 
-
-[Detailed charts & statistics for sorry-cypress/charts](https://reviewgithub.com/rep/sorry-cypress/charts)

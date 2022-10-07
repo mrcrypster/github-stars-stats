@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-js-uri - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 3
 
 [Open repository](https://github.com/purescript-contrib/purescript-js-uri)
+
+[Open detailed stats for purescript-contrib/purescript-js-uri](https://reviewgithub.com/rep/purescript-contrib/purescript-js-uri)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 8 | 
 | 2022-09-08 | 3 | 8 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-js-uri](https://reviewgithub.com/rep/purescript-contrib/purescript-js-uri)

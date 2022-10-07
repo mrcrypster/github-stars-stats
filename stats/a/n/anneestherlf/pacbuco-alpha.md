@@ -1,12 +1,14 @@
 # anneestherlf/pacbuco-alpha - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/anneestherlf/pacbuco-alpha)
+
+[Open detailed stats for anneestherlf/pacbuco-alpha](https://reviewgithub.com/rep/anneestherlf/pacbuco-alpha)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | 1 | 4 | 
 | 2022-09-27 | 1 | 4 | 
 
-
-[Detailed charts & statistics for anneestherlf/pacbuco-alpha](https://reviewgithub.com/rep/anneestherlf/pacbuco-alpha)

@@ -1,12 +1,14 @@
 # oceansystemslab/auv_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 7
 
 [Open repository](https://github.com/oceansystemslab/auv_msgs)
+
+[Open detailed stats for oceansystemslab/auv_msgs](https://reviewgithub.com/rep/oceansystemslab/auv_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 4 | 
 | 2022-09-08 | 7 | 4 | 
 
-
-[Detailed charts & statistics for oceansystemslab/auv_msgs](https://reviewgithub.com/rep/oceansystemslab/auv_msgs)

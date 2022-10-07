@@ -1,12 +1,14 @@
 # getsentry/homebrew-tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 2
 
 [Open repository](https://github.com/getsentry/homebrew-tools)
+
+[Open detailed stats for getsentry/homebrew-tools](https://reviewgithub.com/rep/getsentry/homebrew-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 6 | 
 | 2022-09-07 | 2 | 6 | 
 
-
-[Detailed charts & statistics for getsentry/homebrew-tools](https://reviewgithub.com/rep/getsentry/homebrew-tools)

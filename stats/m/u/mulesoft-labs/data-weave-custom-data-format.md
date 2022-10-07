@@ -1,12 +1,14 @@
 # mulesoft-labs/data-weave-custom-data-format - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
 
 [Open repository](https://github.com/mulesoft-labs/data-weave-custom-data-format)
+
+[Open detailed stats for mulesoft-labs/data-weave-custom-data-format](https://reviewgithub.com/rep/mulesoft-labs/data-weave-custom-data-format)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 1 | 
 | 2022-09-07 | 5 | 1 | 
 
-
-[Detailed charts & statistics for mulesoft-labs/data-weave-custom-data-format](https://reviewgithub.com/rep/mulesoft-labs/data-weave-custom-data-format)

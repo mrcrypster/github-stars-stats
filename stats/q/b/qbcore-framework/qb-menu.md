@@ -1,12 +1,14 @@
 # qbcore-framework/qb-menu - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 181
 
 ★ Stars: 21
 
 [Open repository](https://github.com/qbcore-framework/qb-menu)
+
+[Open detailed stats for qbcore-framework/qb-menu](https://reviewgithub.com/rep/qbcore-framework/qb-menu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 21 | 179 | 
 | 2022-09-08 | 21 | 180 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-menu](https://reviewgithub.com/rep/qbcore-framework/qb-menu)

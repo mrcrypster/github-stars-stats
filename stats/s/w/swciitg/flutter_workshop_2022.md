@@ -1,12 +1,14 @@
 # swciitg/flutter_workshop_2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 3
 
 [Open repository](https://github.com/swciitg/flutter_workshop_2022)
+
+[Open detailed stats for swciitg/flutter_workshop_2022](https://reviewgithub.com/rep/swciitg/flutter_workshop_2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 19 | 
 | 2022-09-07 | 4 | 19 | 
 
-
-[Detailed charts & statistics for swciitg/flutter_workshop_2022](https://reviewgithub.com/rep/swciitg/flutter_workshop_2022)

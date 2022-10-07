@@ -1,12 +1,14 @@
 # emacs-lsp/lsp-python-ms - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 41
 
 ★ Stars: 185
 
 [Open repository](https://github.com/emacs-lsp/lsp-python-ms)
+
+[Open detailed stats for emacs-lsp/lsp-python-ms](https://reviewgithub.com/rep/emacs-lsp/lsp-python-ms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 186 | 41 | 
 | 2022-09-08 | 186 | 41 | 
 
-
-[Detailed charts & statistics for emacs-lsp/lsp-python-ms](https://reviewgithub.com/rep/emacs-lsp/lsp-python-ms)

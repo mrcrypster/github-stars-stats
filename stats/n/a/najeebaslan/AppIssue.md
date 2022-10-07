@@ -1,12 +1,14 @@
 # najeebaslan/AppIssue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 22
 
 [Open repository](https://github.com/najeebaslan/AppIssue)
+
+[Open detailed stats for najeebaslan/AppIssue](https://reviewgithub.com/rep/najeebaslan/AppIssue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 9 | 
 | 2022-09-07 | 20 | 9 | 
 
-
-[Detailed charts & statistics for najeebaslan/AppIssue](https://reviewgithub.com/rep/najeebaslan/AppIssue)

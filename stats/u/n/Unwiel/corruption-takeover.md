@@ -1,12 +1,14 @@
 # Unwiel/corruption-takeover - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Unwiel/corruption-takeover)
+
+[Open detailed stats for Unwiel/corruption-takeover](https://reviewgithub.com/rep/Unwiel/corruption-takeover)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 6 | 
 | 2022-09-07 | 2 | 6 | 
 
-
-[Detailed charts & statistics for Unwiel/corruption-takeover](https://reviewgithub.com/rep/Unwiel/corruption-takeover)

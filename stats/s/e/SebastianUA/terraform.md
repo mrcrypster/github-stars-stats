@@ -1,12 +1,14 @@
 # SebastianUA/terraform - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 71
 
 ★ Stars: 146
 
 [Open repository](https://github.com/SebastianUA/terraform)
+
+[Open detailed stats for SebastianUA/terraform](https://reviewgithub.com/rep/SebastianUA/terraform)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 143 | 70 | 
 | 2022-09-08 | 143 | 70 | 
 
-
-[Detailed charts & statistics for SebastianUA/terraform](https://reviewgithub.com/rep/SebastianUA/terraform)

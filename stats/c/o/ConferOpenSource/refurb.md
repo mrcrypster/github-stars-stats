@@ -1,12 +1,14 @@
 # ConferOpenSource/refurb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 24
 
 [Open repository](https://github.com/ConferOpenSource/refurb)
+
+[Open detailed stats for ConferOpenSource/refurb](https://reviewgithub.com/rep/ConferOpenSource/refurb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 2 | 
 | 2022-09-08 | 24 | 2 | 
 
-
-[Detailed charts & statistics for ConferOpenSource/refurb](https://reviewgithub.com/rep/ConferOpenSource/refurb)

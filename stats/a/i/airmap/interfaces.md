@@ -1,12 +1,14 @@
 # airmap/interfaces - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/airmap/interfaces)
+
+[Open detailed stats for airmap/interfaces](https://reviewgithub.com/rep/airmap/interfaces)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 5 | 
 | 2022-09-08 | 8 | 5 | 
 
-
-[Detailed charts & statistics for airmap/interfaces](https://reviewgithub.com/rep/airmap/interfaces)

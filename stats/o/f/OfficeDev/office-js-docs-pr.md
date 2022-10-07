@@ -1,12 +1,14 @@
 # OfficeDev/office-js-docs-pr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 222
 
 ★ Stars: 330
 
 [Open repository](https://github.com/OfficeDev/office-js-docs-pr)
+
+[Open detailed stats for OfficeDev/office-js-docs-pr](https://reviewgithub.com/rep/OfficeDev/office-js-docs-pr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 329 | 220 | 
 | 2022-09-08 | 329 | 220 | 
 
-
-[Detailed charts & statistics for OfficeDev/office-js-docs-pr](https://reviewgithub.com/rep/OfficeDev/office-js-docs-pr)

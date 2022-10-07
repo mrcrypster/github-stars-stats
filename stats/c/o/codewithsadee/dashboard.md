@@ -1,12 +1,14 @@
 # codewithsadee/dashboard - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 114
 
 [Open repository](https://github.com/codewithsadee/dashboard)
+
+[Open detailed stats for codewithsadee/dashboard](https://reviewgithub.com/rep/codewithsadee/dashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 104 | 20 | 
 | 2022-09-08 | 104 | 20 | 
 
-
-[Detailed charts & statistics for codewithsadee/dashboard](https://reviewgithub.com/rep/codewithsadee/dashboard)

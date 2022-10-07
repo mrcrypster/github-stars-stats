@@ -1,12 +1,14 @@
 # muhammadtalhasultan/flutter-web-portfolio - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 16
 
 [Open repository](https://github.com/muhammadtalhasultan/flutter-web-portfolio)
+
+[Open detailed stats for muhammadtalhasultan/flutter-web-portfolio](https://reviewgithub.com/rep/muhammadtalhasultan/flutter-web-portfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 15 | 9 | 
 | 2022-09-08 | 15 | 8 | 
 
-
-[Detailed charts & statistics for muhammadtalhasultan/flutter-web-portfolio](https://reviewgithub.com/rep/muhammadtalhasultan/flutter-web-portfolio)

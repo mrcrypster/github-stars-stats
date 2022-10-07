@@ -1,12 +1,14 @@
 # ClickHouse/icudata - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 7
 
 [Open repository](https://github.com/ClickHouse/icudata)
+
+[Open detailed stats for ClickHouse/icudata](https://reviewgithub.com/rep/ClickHouse/icudata)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 6 | 
 | 2022-09-07 | 6 | 6 | 
 
-
-[Detailed charts & statistics for ClickHouse/icudata](https://reviewgithub.com/rep/ClickHouse/icudata)

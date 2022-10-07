@@ -1,12 +1,14 @@
 # binary-com/perl-Ethereum-RPC-Client - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-Ethereum-RPC-Client)
+
+[Open detailed stats for binary-com/perl-Ethereum-RPC-Client](https://reviewgithub.com/rep/binary-com/perl-Ethereum-RPC-Client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Ethereum-RPC-Client](https://reviewgithub.com/rep/binary-com/perl-Ethereum-RPC-Client)

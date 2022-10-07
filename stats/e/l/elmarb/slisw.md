@@ -1,12 +1,14 @@
 # elmarb/slisw - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/elmarb/slisw)
+
+[Open detailed stats for elmarb/slisw](https://reviewgithub.com/rep/elmarb/slisw)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for elmarb/slisw](https://reviewgithub.com/rep/elmarb/slisw)

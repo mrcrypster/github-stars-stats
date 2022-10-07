@@ -1,12 +1,14 @@
 # SugengGod/gamemodes-indogreat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 7
 
 [Open repository](https://github.com/SugengGod/gamemodes-indogreat)
+
+[Open detailed stats for SugengGod/gamemodes-indogreat](https://reviewgithub.com/rep/SugengGod/gamemodes-indogreat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 20 | 
 | 2022-09-07 | 7 | 20 | 
 
-
-[Detailed charts & statistics for SugengGod/gamemodes-indogreat](https://reviewgithub.com/rep/SugengGod/gamemodes-indogreat)

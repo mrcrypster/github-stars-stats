@@ -1,12 +1,14 @@
 # DeerNetwork/deer-node - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 89
 
 [Open repository](https://github.com/DeerNetwork/deer-node)
+
+[Open detailed stats for DeerNetwork/deer-node](https://reviewgithub.com/rep/DeerNetwork/deer-node)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 91 | 20 | 
 | 2022-09-07 | 91 | 20 | 
 
-
-[Detailed charts & statistics for DeerNetwork/deer-node](https://reviewgithub.com/rep/DeerNetwork/deer-node)

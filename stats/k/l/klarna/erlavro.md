@@ -1,12 +1,14 @@
 # klarna/erlavro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 36
 
 ★ Stars: 127
 
 [Open repository](https://github.com/klarna/erlavro)
+
+[Open detailed stats for klarna/erlavro](https://reviewgithub.com/rep/klarna/erlavro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 126 | 36 | 
 | 2022-09-08 | 126 | 36 | 
 
-
-[Detailed charts & statistics for klarna/erlavro](https://reviewgithub.com/rep/klarna/erlavro)

@@ -1,12 +1,14 @@
 # bigskysoftware/grugbrain.dev - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 58
 
 [Open repository](https://github.com/bigskysoftware/grugbrain.dev)
+
+[Open detailed stats for bigskysoftware/grugbrain.dev](https://reviewgithub.com/rep/bigskysoftware/grugbrain.dev)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 55 | 4 | 
 | 2022-09-07 | 55 | 4 | 
 
-
-[Detailed charts & statistics for bigskysoftware/grugbrain.dev](https://reviewgithub.com/rep/bigskysoftware/grugbrain.dev)

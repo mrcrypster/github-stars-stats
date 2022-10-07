@@ -1,12 +1,14 @@
 # jakevdp/PythonDataScienceHandbook - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16005
 
 ★ Stars: 36116
 
 [Open repository](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+[Open detailed stats for jakevdp/PythonDataScienceHandbook](https://reviewgithub.com/rep/jakevdp/PythonDataScienceHandbook)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 35775 | 15882 | 
 | 2022-09-07 | 35767 | 15880 | 
 
-
-[Detailed charts & statistics for jakevdp/PythonDataScienceHandbook](https://reviewgithub.com/rep/jakevdp/PythonDataScienceHandbook)

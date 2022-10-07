@@ -1,12 +1,14 @@
 # flingyp/vue-admire-plus - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 117
 
 [Open repository](https://github.com/flingyp/vue-admire-plus)
+
+[Open detailed stats for flingyp/vue-admire-plus](https://reviewgithub.com/rep/flingyp/vue-admire-plus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 113 | 13 | 
 | 2022-09-07 | 112 | 13 | 
 
-
-[Detailed charts & statistics for flingyp/vue-admire-plus](https://reviewgithub.com/rep/flingyp/vue-admire-plus)

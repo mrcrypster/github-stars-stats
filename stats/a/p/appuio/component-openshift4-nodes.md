@@ -1,12 +1,14 @@
 # appuio/component-openshift4-nodes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/appuio/component-openshift4-nodes)
+
+[Open detailed stats for appuio/component-openshift4-nodes](https://reviewgithub.com/rep/appuio/component-openshift4-nodes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for appuio/component-openshift4-nodes](https://reviewgithub.com/rep/appuio/component-openshift4-nodes)

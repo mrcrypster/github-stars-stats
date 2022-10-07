@@ -1,12 +1,14 @@
 # MedicOneSystems/livewire-datatables - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 195
 
 ★ Stars: 984
 
 [Open repository](https://github.com/MedicOneSystems/livewire-datatables)
+
+[Open detailed stats for MedicOneSystems/livewire-datatables](https://reviewgithub.com/rep/MedicOneSystems/livewire-datatables)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 973 | 195 | 
 | 2022-09-07 | 973 | 195 | 
 
-
-[Detailed charts & statistics for MedicOneSystems/livewire-datatables](https://reviewgithub.com/rep/MedicOneSystems/livewire-datatables)

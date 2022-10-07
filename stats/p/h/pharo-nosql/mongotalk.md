@@ -1,6 +1,6 @@
 # pharo-nosql/mongotalk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
@@ -8,11 +8,11 @@ Stats updated on Dec 54734, 12
 
 [Open repository](https://github.com/pharo-nosql/mongotalk)
 
+[Open detailed stats for pharo-nosql/mongotalk](https://reviewgithub.com/rep/pharo-nosql/mongotalk)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 | 2022-10-07 | 18 | 13 | 
 | 2022-10-06 | 18 | 13 | 
 
-
-[Detailed charts & statistics for pharo-nosql/mongotalk](https://reviewgithub.com/rep/pharo-nosql/mongotalk)

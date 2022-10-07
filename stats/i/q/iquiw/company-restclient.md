@@ -1,12 +1,14 @@
 # iquiw/company-restclient - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 56
 
 [Open repository](https://github.com/iquiw/company-restclient)
+
+[Open detailed stats for iquiw/company-restclient](https://reviewgithub.com/rep/iquiw/company-restclient)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 55 | 1 | 
 | 2022-09-07 | 55 | 1 | 
 
-
-[Detailed charts & statistics for iquiw/company-restclient](https://reviewgithub.com/rep/iquiw/company-restclient)

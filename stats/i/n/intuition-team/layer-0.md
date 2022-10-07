@@ -1,12 +1,14 @@
 # intuition-team/layer-0 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 3
 
 [Open repository](https://github.com/intuition-team/layer-0)
+
+[Open detailed stats for intuition-team/layer-0](https://reviewgithub.com/rep/intuition-team/layer-0)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 29 | 
 | 2022-09-08 | 3 | 29 | 
 
-
-[Detailed charts & statistics for intuition-team/layer-0](https://reviewgithub.com/rep/intuition-team/layer-0)

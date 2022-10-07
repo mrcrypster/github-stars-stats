@@ -1,12 +1,14 @@
 # marcusabate/dbow2_catkin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/marcusabate/dbow2_catkin)
+
+[Open detailed stats for marcusabate/dbow2_catkin](https://reviewgithub.com/rep/marcusabate/dbow2_catkin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 5 | 
 | 2022-09-08 | - | 5 | 
 
-
-[Detailed charts & statistics for marcusabate/dbow2_catkin](https://reviewgithub.com/rep/marcusabate/dbow2_catkin)

@@ -1,12 +1,14 @@
 # Azure-Samples/azure-files-samples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 155
 
 ★ Stars: 151
 
 [Open repository](https://github.com/Azure-Samples/azure-files-samples)
+
+[Open detailed stats for Azure-Samples/azure-files-samples](https://reviewgithub.com/rep/Azure-Samples/azure-files-samples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 143 | 150 | 
 | 2022-09-07 | 143 | 150 | 
 
-
-[Detailed charts & statistics for Azure-Samples/azure-files-samples](https://reviewgithub.com/rep/Azure-Samples/azure-files-samples)

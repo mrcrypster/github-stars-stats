@@ -1,12 +1,14 @@
 # BeTR-biogeochemistry-modeling/sbetr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 5
 
 [Open repository](https://github.com/BeTR-biogeochemistry-modeling/sbetr)
+
+[Open detailed stats for BeTR-biogeochemistry-modeling/sbetr](https://reviewgithub.com/rep/BeTR-biogeochemistry-modeling/sbetr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 13 | 
 | 2022-09-07 | 5 | 13 | 
 
-
-[Detailed charts & statistics for BeTR-biogeochemistry-modeling/sbetr](https://reviewgithub.com/rep/BeTR-biogeochemistry-modeling/sbetr)

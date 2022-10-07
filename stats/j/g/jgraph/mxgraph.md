@@ -1,12 +1,14 @@
 # jgraph/mxgraph - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1866
 
 ★ Stars: 6438
 
 [Open repository](https://github.com/jgraph/mxgraph)
+
+[Open detailed stats for jgraph/mxgraph](https://reviewgithub.com/rep/jgraph/mxgraph)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6424 | 1865 | 
 | 2022-09-07 | 6424 | 1865 | 
 
-
-[Detailed charts & statistics for jgraph/mxgraph](https://reviewgithub.com/rep/jgraph/mxgraph)

@@ -1,12 +1,14 @@
 # harrywang/tailpages - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 14
 
 [Open repository](https://github.com/harrywang/tailpages)
+
+[Open detailed stats for harrywang/tailpages](https://reviewgithub.com/rep/harrywang/tailpages)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 34 | 
 | 2022-09-08 | 11 | 34 | 
 
-
-[Detailed charts & statistics for harrywang/tailpages](https://reviewgithub.com/rep/harrywang/tailpages)

@@ -1,12 +1,14 @@
 # jtr13/cc22spring - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
 ★ Stars: 1
 
 [Open repository](https://github.com/jtr13/cc22spring)
+
+[Open detailed stats for jtr13/cc22spring](https://reviewgithub.com/rep/jtr13/cc22spring)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 57 | 
 | 2022-09-07 | - | 57 | 
 
-
-[Detailed charts & statistics for jtr13/cc22spring](https://reviewgithub.com/rep/jtr13/cc22spring)

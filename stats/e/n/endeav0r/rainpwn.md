@@ -1,12 +1,14 @@
 # endeav0r/rainpwn - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/endeav0r/rainpwn)
+
+[Open detailed stats for endeav0r/rainpwn](https://reviewgithub.com/rep/endeav0r/rainpwn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for endeav0r/rainpwn](https://reviewgithub.com/rep/endeav0r/rainpwn)

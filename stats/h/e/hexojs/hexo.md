@@ -1,12 +1,14 @@
 # hexojs/hexo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4380
 
 ★ Stars: 35494
 
 [Open repository](https://github.com/hexojs/hexo)
+
+[Open detailed stats for hexojs/hexo](https://reviewgithub.com/rep/hexojs/hexo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 35364 | 4376 | 
 | 2022-09-08 | 35360 | 4375 | 
 
-
-[Detailed charts & statistics for hexojs/hexo](https://reviewgithub.com/rep/hexojs/hexo)

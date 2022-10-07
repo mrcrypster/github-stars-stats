@@ -1,12 +1,14 @@
 # arkinmodi/project-sayyara - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/arkinmodi/project-sayyara)
+
+[Open detailed stats for arkinmodi/project-sayyara](https://reviewgithub.com/rep/arkinmodi/project-sayyara)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 2 | - | 
 | 2022-10-02 | 2 | - | 
 
-
-[Detailed charts & statistics for arkinmodi/project-sayyara](https://reviewgithub.com/rep/arkinmodi/project-sayyara)

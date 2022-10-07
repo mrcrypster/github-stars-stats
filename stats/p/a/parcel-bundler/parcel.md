@@ -1,12 +1,14 @@
 # parcel-bundler/parcel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2193
 
 ★ Stars: 41388
 
 [Open repository](https://github.com/parcel-bundler/parcel)
+
+[Open detailed stats for parcel-bundler/parcel](https://reviewgithub.com/rep/parcel-bundler/parcel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 41261 | 2181 | 
 | 2022-09-07 | 41255 | 2180 | 
 
-
-[Detailed charts & statistics for parcel-bundler/parcel](https://reviewgithub.com/rep/parcel-bundler/parcel)

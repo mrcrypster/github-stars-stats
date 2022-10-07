@@ -1,12 +1,14 @@
 # ghostjoy/lab7.vim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ghostjoy/lab7.vim)
+
+[Open detailed stats for ghostjoy/lab7.vim](https://reviewgithub.com/rep/ghostjoy/lab7.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for ghostjoy/lab7.vim](https://reviewgithub.com/rep/ghostjoy/lab7.vim)

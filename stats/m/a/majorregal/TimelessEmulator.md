@@ -1,12 +1,14 @@
 # majorregal/TimelessEmulator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 38
 
 [Open repository](https://github.com/majorregal/TimelessEmulator)
+
+[Open detailed stats for majorregal/TimelessEmulator](https://reviewgithub.com/rep/majorregal/TimelessEmulator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 23 | 
 | 2022-09-07 | 38 | 23 | 
 
-
-[Detailed charts & statistics for majorregal/TimelessEmulator](https://reviewgithub.com/rep/majorregal/TimelessEmulator)

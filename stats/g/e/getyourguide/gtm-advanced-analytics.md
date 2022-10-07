@@ -1,12 +1,14 @@
 # getyourguide/gtm-advanced-analytics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/getyourguide/gtm-advanced-analytics)
+
+[Open detailed stats for getyourguide/gtm-advanced-analytics](https://reviewgithub.com/rep/getyourguide/gtm-advanced-analytics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for getyourguide/gtm-advanced-analytics](https://reviewgithub.com/rep/getyourguide/gtm-advanced-analytics)

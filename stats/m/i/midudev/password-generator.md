@@ -1,12 +1,14 @@
 # midudev/password-generator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 406
 
 ★ Stars: 355
 
 [Open repository](https://github.com/midudev/password-generator)
+
+[Open detailed stats for midudev/password-generator](https://reviewgithub.com/rep/midudev/password-generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 281 | 362 | 
 | 2022-10-03 | 219 | 304 | 
 
-
-[Detailed charts & statistics for midudev/password-generator](https://reviewgithub.com/rep/midudev/password-generator)

@@ -1,12 +1,14 @@
 # Unity-Technologies/monobuildtools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 56
 
 [Open repository](https://github.com/Unity-Technologies/monobuildtools)
+
+[Open detailed stats for Unity-Technologies/monobuildtools](https://reviewgithub.com/rep/Unity-Technologies/monobuildtools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 56 | 18 | 
 | 2022-09-07 | 56 | 18 | 
 
-
-[Detailed charts & statistics for Unity-Technologies/monobuildtools](https://reviewgithub.com/rep/Unity-Technologies/monobuildtools)

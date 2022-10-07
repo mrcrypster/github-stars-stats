@@ -1,12 +1,14 @@
 # k8ssandra/k8ssandra - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 113
 
 ★ Stars: 377
 
 [Open repository](https://github.com/k8ssandra/k8ssandra)
+
+[Open detailed stats for k8ssandra/k8ssandra](https://reviewgithub.com/rep/k8ssandra/k8ssandra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 371 | 111 | 
 | 2022-09-07 | 371 | 111 | 
 
-
-[Detailed charts & statistics for k8ssandra/k8ssandra](https://reviewgithub.com/rep/k8ssandra/k8ssandra)

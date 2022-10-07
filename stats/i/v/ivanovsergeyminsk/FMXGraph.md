@@ -1,12 +1,14 @@
 # ivanovsergeyminsk/FMXGraph - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 16
 
 [Open repository](https://github.com/ivanovsergeyminsk/FMXGraph)
+
+[Open detailed stats for ivanovsergeyminsk/FMXGraph](https://reviewgithub.com/rep/ivanovsergeyminsk/FMXGraph)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 5 | 
 | 2022-09-07 | 16 | 5 | 
 
-
-[Detailed charts & statistics for ivanovsergeyminsk/FMXGraph](https://reviewgithub.com/rep/ivanovsergeyminsk/FMXGraph)

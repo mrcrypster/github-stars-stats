@@ -1,12 +1,14 @@
 # jhubbardsf/svelte-sortablejs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 36
 
 [Open repository](https://github.com/jhubbardsf/svelte-sortablejs)
+
+[Open detailed stats for jhubbardsf/svelte-sortablejs](https://reviewgithub.com/rep/jhubbardsf/svelte-sortablejs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 3 | 
 | 2022-09-07 | 36 | 3 | 
 
-
-[Detailed charts & statistics for jhubbardsf/svelte-sortablejs](https://reviewgithub.com/rep/jhubbardsf/svelte-sortablejs)

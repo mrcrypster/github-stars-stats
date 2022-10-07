@@ -1,12 +1,14 @@
 # MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR)
+
+[Open detailed stats for MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 1 | 1 | 
 | 2022-09-11 | 1 | 1 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-SkypeForBusiness-pr.pt-BR)

@@ -1,12 +1,14 @@
 # bdenney/phase-1-practice-friday-the-13th - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 67
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bdenney/phase-1-practice-friday-the-13th)
+
+[Open detailed stats for bdenney/phase-1-practice-friday-the-13th](https://reviewgithub.com/rep/bdenney/phase-1-practice-friday-the-13th)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 48 | 
 | 2022-09-07 | - | 48 | 
 
-
-[Detailed charts & statistics for bdenney/phase-1-practice-friday-the-13th](https://reviewgithub.com/rep/bdenney/phase-1-practice-friday-the-13th)

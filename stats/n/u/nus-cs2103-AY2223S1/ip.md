@@ -1,12 +1,14 @@
 # nus-cs2103-AY2223S1/ip - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 466
 
 ★ Stars: 3
 
 [Open repository](https://github.com/nus-cs2103-AY2223S1/ip)
+
+[Open detailed stats for nus-cs2103-AY2223S1/ip](https://reviewgithub.com/rep/nus-cs2103-AY2223S1/ip)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 464 | 
 | 2022-09-07 | 3 | 464 | 
 
-
-[Detailed charts & statistics for nus-cs2103-AY2223S1/ip](https://reviewgithub.com/rep/nus-cs2103-AY2223S1/ip)

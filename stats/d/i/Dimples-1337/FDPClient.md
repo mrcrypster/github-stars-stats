@@ -1,12 +1,14 @@
 # Dimples-1337/FDPClient - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 23
 
 [Open repository](https://github.com/Dimples-1337/FDPClient)
+
+[Open detailed stats for Dimples-1337/FDPClient](https://reviewgithub.com/rep/Dimples-1337/FDPClient)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 10 | 
 | 2022-09-07 | 22 | 10 | 
 
-
-[Detailed charts & statistics for Dimples-1337/FDPClient](https://reviewgithub.com/rep/Dimples-1337/FDPClient)

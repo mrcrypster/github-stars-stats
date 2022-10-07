@@ -1,12 +1,14 @@
 # uwiger/parse_trans - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 113
 
 ★ Stars: 216
 
 [Open repository](https://github.com/uwiger/parse_trans)
+
+[Open detailed stats for uwiger/parse_trans](https://reviewgithub.com/rep/uwiger/parse_trans)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 215 | 113 | 
 | 2022-09-07 | 215 | 113 | 
 
-
-[Detailed charts & statistics for uwiger/parse_trans](https://reviewgithub.com/rep/uwiger/parse_trans)

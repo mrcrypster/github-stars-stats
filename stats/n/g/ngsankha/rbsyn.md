@@ -1,12 +1,14 @@
 # ngsankha/rbsyn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 91
 
 [Open repository](https://github.com/ngsankha/rbsyn)
+
+[Open detailed stats for ngsankha/rbsyn](https://reviewgithub.com/rep/ngsankha/rbsyn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 91 | 2 | 
 | 2022-09-08 | 91 | 2 | 
 
-
-[Detailed charts & statistics for ngsankha/rbsyn](https://reviewgithub.com/rep/ngsankha/rbsyn)

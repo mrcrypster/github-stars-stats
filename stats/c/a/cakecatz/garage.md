@@ -1,12 +1,14 @@
 # cakecatz/garage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 168
 
 ★ Stars: 11
 
 [Open repository](https://github.com/cakecatz/garage)
+
+[Open detailed stats for cakecatz/garage](https://reviewgithub.com/rep/cakecatz/garage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 167 | 
 | 2022-09-07 | 11 | 167 | 
 
-
-[Detailed charts & statistics for cakecatz/garage](https://reviewgithub.com/rep/cakecatz/garage)

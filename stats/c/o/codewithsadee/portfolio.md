@@ -1,12 +1,14 @@
 # codewithsadee/portfolio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 104
 
 [Open repository](https://github.com/codewithsadee/portfolio)
+
+[Open detailed stats for codewithsadee/portfolio](https://reviewgithub.com/rep/codewithsadee/portfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 94 | 17 | 
 | 2022-09-07 | 94 | 17 | 
 
-
-[Detailed charts & statistics for codewithsadee/portfolio](https://reviewgithub.com/rep/codewithsadee/portfolio)

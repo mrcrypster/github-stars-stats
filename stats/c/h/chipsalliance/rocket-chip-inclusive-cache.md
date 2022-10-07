@@ -1,12 +1,14 @@
 # chipsalliance/rocket-chip-inclusive-cache - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/chipsalliance/rocket-chip-inclusive-cache)
+
+[Open detailed stats for chipsalliance/rocket-chip-inclusive-cache](https://reviewgithub.com/rep/chipsalliance/rocket-chip-inclusive-cache)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-12 | 1 | 1 | 
 | 2022-09-11 | 1 | - | 
 
-
-[Detailed charts & statistics for chipsalliance/rocket-chip-inclusive-cache](https://reviewgithub.com/rep/chipsalliance/rocket-chip-inclusive-cache)

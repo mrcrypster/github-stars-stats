@@ -1,12 +1,14 @@
 # pinterest/ktlint - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 433
 
 ★ Stars: 5204
 
 [Open repository](https://github.com/pinterest/ktlint)
+
+[Open detailed stats for pinterest/ktlint](https://reviewgithub.com/rep/pinterest/ktlint)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5148 | 430 | 
 | 2022-09-07 | 5147 | 430 | 
 
-
-[Detailed charts & statistics for pinterest/ktlint](https://reviewgithub.com/rep/pinterest/ktlint)

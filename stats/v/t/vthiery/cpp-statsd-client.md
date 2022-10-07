@@ -1,12 +1,14 @@
 # vthiery/cpp-statsd-client - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 42
 
 [Open repository](https://github.com/vthiery/cpp-statsd-client)
+
+[Open detailed stats for vthiery/cpp-statsd-client](https://reviewgithub.com/rep/vthiery/cpp-statsd-client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 42 | 12 | 
 | 2022-09-07 | 42 | 12 | 
 
-
-[Detailed charts & statistics for vthiery/cpp-statsd-client](https://reviewgithub.com/rep/vthiery/cpp-statsd-client)

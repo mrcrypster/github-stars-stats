@@ -1,12 +1,14 @@
 # hci-au-dk/LaTeX-surrogate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/hci-au-dk/LaTeX-surrogate)
+
+[Open detailed stats for hci-au-dk/LaTeX-surrogate](https://reviewgithub.com/rep/hci-au-dk/LaTeX-surrogate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for hci-au-dk/LaTeX-surrogate](https://reviewgithub.com/rep/hci-au-dk/LaTeX-surrogate)

@@ -1,12 +1,14 @@
 # hmrc/jenkins-jobs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 120
 
 ★ Stars: 23
 
 [Open repository](https://github.com/hmrc/jenkins-jobs)
+
+[Open detailed stats for hmrc/jenkins-jobs](https://reviewgithub.com/rep/hmrc/jenkins-jobs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 120 | 
 | 2022-09-07 | 23 | 120 | 
 
-
-[Detailed charts & statistics for hmrc/jenkins-jobs](https://reviewgithub.com/rep/hmrc/jenkins-jobs)

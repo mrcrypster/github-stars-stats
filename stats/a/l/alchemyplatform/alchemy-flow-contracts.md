@@ -1,12 +1,14 @@
 # alchemyplatform/alchemy-flow-contracts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 77
 
 ★ Stars: 27
 
 [Open repository](https://github.com/alchemyplatform/alchemy-flow-contracts)
+
+[Open detailed stats for alchemyplatform/alchemy-flow-contracts](https://reviewgithub.com/rep/alchemyplatform/alchemy-flow-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 76 | 
 | 2022-09-08 | 27 | 76 | 
 
-
-[Detailed charts & statistics for alchemyplatform/alchemy-flow-contracts](https://reviewgithub.com/rep/alchemyplatform/alchemy-flow-contracts)

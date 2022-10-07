@@ -1,12 +1,14 @@
 # mschein/emacs-init - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mschein/emacs-init)
+
+[Open detailed stats for mschein/emacs-init](https://reviewgithub.com/rep/mschein/emacs-init)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | - | - | 
 | 2022-09-13 | - | - | 
 
-
-[Detailed charts & statistics for mschein/emacs-init](https://reviewgithub.com/rep/mschein/emacs-init)

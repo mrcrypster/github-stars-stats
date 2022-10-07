@@ -1,12 +1,14 @@
 # mj230816/SQRouter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 143
 
 [Open repository](https://github.com/mj230816/SQRouter)
+
+[Open detailed stats for mj230816/SQRouter](https://reviewgithub.com/rep/mj230816/SQRouter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 143 | 21 | 
 | 2022-09-07 | 143 | 21 | 
 
-
-[Detailed charts & statistics for mj230816/SQRouter](https://reviewgithub.com/rep/mj230816/SQRouter)

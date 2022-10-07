@@ -1,12 +1,14 @@
 # brentp/cyvcf2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 62
 
 ★ Stars: 305
 
 [Open repository](https://github.com/brentp/cyvcf2)
+
+[Open detailed stats for brentp/cyvcf2](https://reviewgithub.com/rep/brentp/cyvcf2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 304 | 61 | 
 | 2022-09-07 | 304 | 61 | 
 
-
-[Detailed charts & statistics for brentp/cyvcf2](https://reviewgithub.com/rep/brentp/cyvcf2)

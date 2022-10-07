@@ -1,12 +1,14 @@
 # lindsayrutter/VisualizationMethods - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 4
 
 [Open repository](https://github.com/lindsayrutter/VisualizationMethods)
+
+[Open detailed stats for lindsayrutter/VisualizationMethods](https://reviewgithub.com/rep/lindsayrutter/VisualizationMethods)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 18 | 
 | 2022-09-07 | 3 | 18 | 
 
-
-[Detailed charts & statistics for lindsayrutter/VisualizationMethods](https://reviewgithub.com/rep/lindsayrutter/VisualizationMethods)

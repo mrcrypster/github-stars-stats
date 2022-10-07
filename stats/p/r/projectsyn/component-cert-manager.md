@@ -1,12 +1,14 @@
 # projectsyn/component-cert-manager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/projectsyn/component-cert-manager)
+
+[Open detailed stats for projectsyn/component-cert-manager](https://reviewgithub.com/rep/projectsyn/component-cert-manager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
 
-
-[Detailed charts & statistics for projectsyn/component-cert-manager](https://reviewgithub.com/rep/projectsyn/component-cert-manager)

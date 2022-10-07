@@ -1,12 +1,14 @@
 # Kong/docs.konghq.com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 488
 
 ★ Stars: 163
 
 [Open repository](https://github.com/Kong/docs.konghq.com)
+
+[Open detailed stats for Kong/docs.konghq.com](https://reviewgithub.com/rep/Kong/docs.konghq.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 161 | 468 | 
 | 2022-09-07 | 160 | 467 | 
 
-
-[Detailed charts & statistics for Kong/docs.konghq.com](https://reviewgithub.com/rep/Kong/docs.konghq.com)

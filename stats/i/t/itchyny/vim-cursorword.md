@@ -1,12 +1,14 @@
 # itchyny/vim-cursorword - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 506
 
 [Open repository](https://github.com/itchyny/vim-cursorword)
+
+[Open detailed stats for itchyny/vim-cursorword](https://reviewgithub.com/rep/itchyny/vim-cursorword)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 499 | 32 | 
 | 2022-09-08 | 499 | 32 | 
 
-
-[Detailed charts & statistics for itchyny/vim-cursorword](https://reviewgithub.com/rep/itchyny/vim-cursorword)

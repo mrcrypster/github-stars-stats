@@ -1,12 +1,14 @@
 # lpgauth/fast_disk_log - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 22
 
 [Open repository](https://github.com/lpgauth/fast_disk_log)
+
+[Open detailed stats for lpgauth/fast_disk_log](https://reviewgithub.com/rep/lpgauth/fast_disk_log)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 2 | 
 | 2022-09-07 | 22 | 2 | 
 
-
-[Detailed charts & statistics for lpgauth/fast_disk_log](https://reviewgithub.com/rep/lpgauth/fast_disk_log)

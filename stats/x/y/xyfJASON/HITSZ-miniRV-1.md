@@ -1,12 +1,14 @@
 # xyfJASON/HITSZ-miniRV-1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 11
 
 [Open repository](https://github.com/xyfJASON/HITSZ-miniRV-1)
+
+[Open detailed stats for xyfJASON/HITSZ-miniRV-1](https://reviewgithub.com/rep/xyfJASON/HITSZ-miniRV-1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 2 | 
 | 2022-09-07 | 12 | 2 | 
 
-
-[Detailed charts & statistics for xyfJASON/HITSZ-miniRV-1](https://reviewgithub.com/rep/xyfJASON/HITSZ-miniRV-1)

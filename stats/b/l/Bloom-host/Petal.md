@@ -1,12 +1,14 @@
 # Bloom-host/Petal - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 194
 
 [Open repository](https://github.com/Bloom-host/Petal)
+
+[Open detailed stats for Bloom-host/Petal](https://reviewgithub.com/rep/Bloom-host/Petal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 185 | 16 | 
 | 2022-09-08 | 185 | 16 | 
 
-
-[Detailed charts & statistics for Bloom-host/Petal](https://reviewgithub.com/rep/Bloom-host/Petal)

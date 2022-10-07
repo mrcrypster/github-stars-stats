@@ -1,12 +1,14 @@
 # GEOS-ESM/QuickChem - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/GEOS-ESM/QuickChem)
+
+[Open detailed stats for GEOS-ESM/QuickChem](https://reviewgithub.com/rep/GEOS-ESM/QuickChem)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for GEOS-ESM/QuickChem](https://reviewgithub.com/rep/GEOS-ESM/QuickChem)

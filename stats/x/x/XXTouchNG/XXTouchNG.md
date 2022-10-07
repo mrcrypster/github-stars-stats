@@ -1,12 +1,14 @@
 # XXTouchNG/XXTouchNG - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 155
 
 [Open repository](https://github.com/XXTouchNG/XXTouchNG)
+
+[Open detailed stats for XXTouchNG/XXTouchNG](https://reviewgithub.com/rep/XXTouchNG/XXTouchNG)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 152 | 45 | 
 | 2022-09-08 | 152 | 45 | 
 
-
-[Detailed charts & statistics for XXTouchNG/XXTouchNG](https://reviewgithub.com/rep/XXTouchNG/XXTouchNG)

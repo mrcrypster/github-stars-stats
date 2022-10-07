@@ -1,12 +1,14 @@
 # re-path/studio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 29
 
 [Open repository](https://github.com/re-path/studio)
+
+[Open detailed stats for re-path/studio](https://reviewgithub.com/rep/re-path/studio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | - | 
 | 2022-09-07 | 29 | - | 
 
-
-[Detailed charts & statistics for re-path/studio](https://reviewgithub.com/rep/re-path/studio)

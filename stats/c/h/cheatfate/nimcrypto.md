@@ -1,12 +1,14 @@
 # cheatfate/nimcrypto - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 133
 
 [Open repository](https://github.com/cheatfate/nimcrypto)
+
+[Open detailed stats for cheatfate/nimcrypto](https://reviewgithub.com/rep/cheatfate/nimcrypto)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 131 | 20 | 
 | 2022-09-08 | 131 | 20 | 
 
-
-[Detailed charts & statistics for cheatfate/nimcrypto](https://reviewgithub.com/rep/cheatfate/nimcrypto)

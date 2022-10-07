@@ -1,12 +1,14 @@
 # bluwy/bun-vite-ts-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 55
 
 [Open repository](https://github.com/bluwy/bun-vite-ts-test)
+
+[Open detailed stats for bluwy/bun-vite-ts-test](https://reviewgithub.com/rep/bluwy/bun-vite-ts-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 52 | 1 | 
 | 2022-09-08 | 46 | - | 
 
-
-[Detailed charts & statistics for bluwy/bun-vite-ts-test](https://reviewgithub.com/rep/bluwy/bun-vite-ts-test)

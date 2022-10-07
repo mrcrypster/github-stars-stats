@@ -1,12 +1,14 @@
 # BttrDrgn/GCN-Translations - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 18
 
 [Open repository](https://github.com/BttrDrgn/GCN-Translations)
+
+[Open detailed stats for BttrDrgn/GCN-Translations](https://reviewgithub.com/rep/BttrDrgn/GCN-Translations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 2 | 
 | 2022-09-07 | 17 | 2 | 
 
-
-[Detailed charts & statistics for BttrDrgn/GCN-Translations](https://reviewgithub.com/rep/BttrDrgn/GCN-Translations)

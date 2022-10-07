@@ -1,12 +1,14 @@
 # LeonardoDG2084/cia-08 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 2
 
 [Open repository](https://github.com/LeonardoDG2084/cia-08)
+
+[Open detailed stats for LeonardoDG2084/cia-08](https://reviewgithub.com/rep/LeonardoDG2084/cia-08)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 15 | 
 | 2022-09-08 | 2 | 15 | 
 
-
-[Detailed charts & statistics for LeonardoDG2084/cia-08](https://reviewgithub.com/rep/LeonardoDG2084/cia-08)

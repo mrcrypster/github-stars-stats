@@ -1,12 +1,14 @@
 # feenkcom/gt4famix3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/feenkcom/gt4famix3)
+
+[Open detailed stats for feenkcom/gt4famix3](https://reviewgithub.com/rep/feenkcom/gt4famix3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 2 | 
 | 2022-09-07 | 2 | 2 | 
 
-
-[Detailed charts & statistics for feenkcom/gt4famix3](https://reviewgithub.com/rep/feenkcom/gt4famix3)

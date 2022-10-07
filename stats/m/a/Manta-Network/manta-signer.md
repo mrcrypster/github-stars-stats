@@ -1,12 +1,14 @@
 # Manta-Network/manta-signer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 54
 
 [Open repository](https://github.com/Manta-Network/manta-signer)
+
+[Open detailed stats for Manta-Network/manta-signer](https://reviewgithub.com/rep/Manta-Network/manta-signer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 20 | 
 | 2022-09-07 | 51 | 20 | 
 
-
-[Detailed charts & statistics for Manta-Network/manta-signer](https://reviewgithub.com/rep/Manta-Network/manta-signer)

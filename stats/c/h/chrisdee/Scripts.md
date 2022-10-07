@@ -1,12 +1,14 @@
 # chrisdee/Scripts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 119
 
 ★ Stars: 158
 
 [Open repository](https://github.com/chrisdee/Scripts)
+
+[Open detailed stats for chrisdee/Scripts](https://reviewgithub.com/rep/chrisdee/Scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 157 | 118 | 
 | 2022-09-08 | 157 | 118 | 
 
-
-[Detailed charts & statistics for chrisdee/Scripts](https://reviewgithub.com/rep/chrisdee/Scripts)

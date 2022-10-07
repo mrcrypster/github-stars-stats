@@ -1,12 +1,14 @@
 # champ-oss/terraform-github-repository - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/champ-oss/terraform-github-repository)
+
+[Open detailed stats for champ-oss/terraform-github-repository](https://reviewgithub.com/rep/champ-oss/terraform-github-repository)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for champ-oss/terraform-github-repository](https://reviewgithub.com/rep/champ-oss/terraform-github-repository)

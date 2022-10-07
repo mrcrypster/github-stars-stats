@@ -1,12 +1,14 @@
 # GEOS-ESM/MAPL - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 8
 
 [Open repository](https://github.com/GEOS-ESM/MAPL)
+
+[Open detailed stats for GEOS-ESM/MAPL](https://reviewgithub.com/rep/GEOS-ESM/MAPL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7 | 10 | 
 | 2022-09-07 | 7 | 10 | 
 
-
-[Detailed charts & statistics for GEOS-ESM/MAPL](https://reviewgithub.com/rep/GEOS-ESM/MAPL)

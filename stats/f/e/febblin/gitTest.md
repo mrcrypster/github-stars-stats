@@ -1,12 +1,14 @@
 # febblin/gitTest - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 104
 
 ★ Stars: 1
 
 [Open repository](https://github.com/febblin/gitTest)
+
+[Open detailed stats for febblin/gitTest](https://reviewgithub.com/rep/febblin/gitTest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 1 | 109 | 
 | 2022-09-25 | 1 | 108 | 
 
-
-[Detailed charts & statistics for febblin/gitTest](https://reviewgithub.com/rep/febblin/gitTest)

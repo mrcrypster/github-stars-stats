@@ -1,12 +1,14 @@
 # mingcheng/socks5lb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 353
 
 [Open repository](https://github.com/mingcheng/socks5lb)
+
+[Open detailed stats for mingcheng/socks5lb](https://reviewgithub.com/rep/mingcheng/socks5lb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 348 | 19 | 
 | 2022-09-07 | 348 | 19 | 
 
-
-[Detailed charts & statistics for mingcheng/socks5lb](https://reviewgithub.com/rep/mingcheng/socks5lb)

@@ -1,12 +1,14 @@
 # pulp-platform/fpnew - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
 ★ Stars: 212
 
 [Open repository](https://github.com/pulp-platform/fpnew)
+
+[Open detailed stats for pulp-platform/fpnew](https://reviewgithub.com/rep/pulp-platform/fpnew)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 201 | 72 | 
 | 2022-09-07 | 201 | 72 | 
 
-
-[Detailed charts & statistics for pulp-platform/fpnew](https://reviewgithub.com/rep/pulp-platform/fpnew)

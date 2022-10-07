@@ -1,12 +1,14 @@
 # anotherempty/svelte-brick-gallery - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 30
 
 [Open repository](https://github.com/anotherempty/svelte-brick-gallery)
+
+[Open detailed stats for anotherempty/svelte-brick-gallery](https://reviewgithub.com/rep/anotherempty/svelte-brick-gallery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | - | 
 | 2022-09-08 | 29 | - | 
 
-
-[Detailed charts & statistics for anotherempty/svelte-brick-gallery](https://reviewgithub.com/rep/anotherempty/svelte-brick-gallery)

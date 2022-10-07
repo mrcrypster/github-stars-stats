@@ -1,12 +1,14 @@
 # emacs-straight/flymake - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/emacs-straight/flymake)
+
+[Open detailed stats for emacs-straight/flymake](https://reviewgithub.com/rep/emacs-straight/flymake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 3 | 
 | 2022-09-08 | 1 | 3 | 
 
-
-[Detailed charts & statistics for emacs-straight/flymake](https://reviewgithub.com/rep/emacs-straight/flymake)

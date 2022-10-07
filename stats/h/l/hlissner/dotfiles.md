@@ -1,12 +1,14 @@
 # hlissner/dotfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 90
 
 ★ Stars: 929
 
 [Open repository](https://github.com/hlissner/dotfiles)
+
+[Open detailed stats for hlissner/dotfiles](https://reviewgithub.com/rep/hlissner/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 907 | 86 | 
 | 2022-09-07 | 906 | 86 | 
 
-
-[Detailed charts & statistics for hlissner/dotfiles](https://reviewgithub.com/rep/hlissner/dotfiles)

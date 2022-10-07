@@ -1,12 +1,14 @@
 # The-Arbiter/Aux-Bytes-Example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 11
 
 [Open repository](https://github.com/The-Arbiter/Aux-Bytes-Example)
+
+[Open detailed stats for The-Arbiter/Aux-Bytes-Example](https://reviewgithub.com/rep/The-Arbiter/Aux-Bytes-Example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 1 | 
 | 2022-09-07 | 11 | 1 | 
 
-
-[Detailed charts & statistics for The-Arbiter/Aux-Bytes-Example](https://reviewgithub.com/rep/The-Arbiter/Aux-Bytes-Example)

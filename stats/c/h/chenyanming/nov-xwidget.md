@@ -1,12 +1,14 @@
 # chenyanming/nov-xwidget - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 34
 
 [Open repository](https://github.com/chenyanming/nov-xwidget)
+
+[Open detailed stats for chenyanming/nov-xwidget](https://reviewgithub.com/rep/chenyanming/nov-xwidget)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 4 | 
 | 2022-09-07 | 33 | 4 | 
 
-
-[Detailed charts & statistics for chenyanming/nov-xwidget](https://reviewgithub.com/rep/chenyanming/nov-xwidget)

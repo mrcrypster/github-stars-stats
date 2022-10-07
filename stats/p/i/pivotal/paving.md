@@ -1,12 +1,14 @@
 # pivotal/paving - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 41
 
 ★ Stars: 42
 
 [Open repository](https://github.com/pivotal/paving)
+
+[Open detailed stats for pivotal/paving](https://reviewgithub.com/rep/pivotal/paving)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 42 | 39 | 
 | 2022-09-08 | 42 | 39 | 
 
-
-[Detailed charts & statistics for pivotal/paving](https://reviewgithub.com/rep/pivotal/paving)

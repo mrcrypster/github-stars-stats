@@ -1,12 +1,14 @@
 # gogo/googleapis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 29
 
 [Open repository](https://github.com/gogo/googleapis)
+
+[Open detailed stats for gogo/googleapis](https://reviewgithub.com/rep/gogo/googleapis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 29 | 19 | 
 | 2022-09-08 | 29 | 19 | 
 
-
-[Detailed charts & statistics for gogo/googleapis](https://reviewgithub.com/rep/gogo/googleapis)

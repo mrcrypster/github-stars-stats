@@ -1,12 +1,14 @@
 # mesosphere/dkp-catalog-applications - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mesosphere/dkp-catalog-applications)
+
+[Open detailed stats for mesosphere/dkp-catalog-applications](https://reviewgithub.com/rep/mesosphere/dkp-catalog-applications)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 3 | 
 | 2022-09-07 | 1 | 3 | 
 
-
-[Detailed charts & statistics for mesosphere/dkp-catalog-applications](https://reviewgithub.com/rep/mesosphere/dkp-catalog-applications)

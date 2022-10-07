@@ -1,12 +1,14 @@
 # MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU)
+
+[Open detailed stats for MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 4 | 
 | 2022-09-07 | 2 | 4 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU)

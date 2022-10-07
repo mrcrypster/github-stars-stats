@@ -1,12 +1,14 @@
 # cznic/parser - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 11
 
 [Open repository](https://github.com/cznic/parser)
+
+[Open detailed stats for cznic/parser](https://reviewgithub.com/rep/cznic/parser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 11 | 5 | 
 | 2022-09-07 | 11 | 5 | 
 
-
-[Detailed charts & statistics for cznic/parser](https://reviewgithub.com/rep/cznic/parser)

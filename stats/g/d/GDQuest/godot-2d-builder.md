@@ -1,12 +1,14 @@
 # GDQuest/godot-2d-builder - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 335
 
 [Open repository](https://github.com/GDQuest/godot-2d-builder)
+
+[Open detailed stats for GDQuest/godot-2d-builder](https://reviewgithub.com/rep/GDQuest/godot-2d-builder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 333 | 20 | 
 | 2022-09-07 | 333 | 20 | 
 
-
-[Detailed charts & statistics for GDQuest/godot-2d-builder](https://reviewgithub.com/rep/GDQuest/godot-2d-builder)

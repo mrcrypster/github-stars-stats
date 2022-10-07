@@ -1,12 +1,14 @@
 # silverstripe/silverstripe-login-forms - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 16
 
 [Open repository](https://github.com/silverstripe/silverstripe-login-forms)
+
+[Open detailed stats for silverstripe/silverstripe-login-forms](https://reviewgithub.com/rep/silverstripe/silverstripe-login-forms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 16 | 9 | 
 | 2022-09-07 | 16 | 9 | 
 
-
-[Detailed charts & statistics for silverstripe/silverstripe-login-forms](https://reviewgithub.com/rep/silverstripe/silverstripe-login-forms)

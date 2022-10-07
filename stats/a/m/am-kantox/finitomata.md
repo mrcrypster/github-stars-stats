@@ -1,12 +1,14 @@
 # am-kantox/finitomata - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 42
 
 [Open repository](https://github.com/am-kantox/finitomata)
+
+[Open detailed stats for am-kantox/finitomata](https://reviewgithub.com/rep/am-kantox/finitomata)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 39 | 2 | 
 | 2022-09-07 | 39 | 2 | 
 
-
-[Detailed charts & statistics for am-kantox/finitomata](https://reviewgithub.com/rep/am-kantox/finitomata)

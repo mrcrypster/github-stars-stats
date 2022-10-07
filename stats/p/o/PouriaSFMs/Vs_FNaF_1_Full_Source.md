@@ -1,12 +1,14 @@
 # PouriaSFMs/Vs_FNaF_1_Full_Source - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 4
 
 [Open repository](https://github.com/PouriaSFMs/Vs_FNaF_1_Full_Source)
+
+[Open detailed stats for PouriaSFMs/Vs_FNaF_1_Full_Source](https://reviewgithub.com/rep/PouriaSFMs/Vs_FNaF_1_Full_Source)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 16 | 
 | 2022-09-07 | 4 | 16 | 
 
-
-[Detailed charts & statistics for PouriaSFMs/Vs_FNaF_1_Full_Source](https://reviewgithub.com/rep/PouriaSFMs/Vs_FNaF_1_Full_Source)

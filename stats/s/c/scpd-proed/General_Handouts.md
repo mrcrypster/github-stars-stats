@@ -1,12 +1,14 @@
 # scpd-proed/General_Handouts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
 ★ Stars: 23
 
 [Open repository](https://github.com/scpd-proed/General_Handouts)
+
+[Open detailed stats for scpd-proed/General_Handouts](https://reviewgithub.com/rep/scpd-proed/General_Handouts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 68 | 
 | 2022-09-07 | 21 | 68 | 
 
-
-[Detailed charts & statistics for scpd-proed/General_Handouts](https://reviewgithub.com/rep/scpd-proed/General_Handouts)

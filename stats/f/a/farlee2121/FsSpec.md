@@ -1,12 +1,14 @@
 # farlee2121/FsSpec - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 22
 
 [Open repository](https://github.com/farlee2121/FsSpec)
+
+[Open detailed stats for farlee2121/FsSpec](https://reviewgithub.com/rep/farlee2121/FsSpec)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | - | 
 | 2022-09-07 | 22 | - | 
 
-
-[Detailed charts & statistics for farlee2121/FsSpec](https://reviewgithub.com/rep/farlee2121/FsSpec)

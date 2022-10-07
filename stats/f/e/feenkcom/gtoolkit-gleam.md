@@ -1,12 +1,14 @@
 # feenkcom/gtoolkit-gleam - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/feenkcom/gtoolkit-gleam)
+
+[Open detailed stats for feenkcom/gtoolkit-gleam](https://reviewgithub.com/rep/feenkcom/gtoolkit-gleam)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for feenkcom/gtoolkit-gleam](https://reviewgithub.com/rep/feenkcom/gtoolkit-gleam)

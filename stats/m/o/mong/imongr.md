@@ -1,12 +1,14 @@
 # mong/imongr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mong/imongr)
+
+[Open detailed stats for mong/imongr](https://reviewgithub.com/rep/mong/imongr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | - | - | 
 | 2022-09-19 | - | - | 
 
-
-[Detailed charts & statistics for mong/imongr](https://reviewgithub.com/rep/mong/imongr)

@@ -1,12 +1,14 @@
 # fmtlib/fmt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1880
 
 ★ Stars: 15363
 
 [Open repository](https://github.com/fmtlib/fmt)
+
+[Open detailed stats for fmtlib/fmt](https://reviewgithub.com/rep/fmtlib/fmt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 15153 | 1845 | 
 | 2022-09-08 | 15144 | 1845 | 
 
-
-[Detailed charts & statistics for fmtlib/fmt](https://reviewgithub.com/rep/fmtlib/fmt)

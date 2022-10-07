@@ -1,12 +1,14 @@
 # MSF-OCB/NixOS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 13
 
 [Open repository](https://github.com/MSF-OCB/NixOS)
+
+[Open detailed stats for MSF-OCB/NixOS](https://reviewgithub.com/rep/MSF-OCB/NixOS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 7 | 
 | 2022-09-08 | 13 | 7 | 
 
-
-[Detailed charts & statistics for MSF-OCB/NixOS](https://reviewgithub.com/rep/MSF-OCB/NixOS)

@@ -1,12 +1,14 @@
 # bigcoqui/Kade-Engine-1.5.3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 1
 
 [Open repository](https://github.com/bigcoqui/Kade-Engine-1.5.3)
+
+[Open detailed stats for bigcoqui/Kade-Engine-1.5.3](https://reviewgithub.com/rep/bigcoqui/Kade-Engine-1.5.3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 8 | 
 | 2022-09-07 | 1 | 8 | 
 
-
-[Detailed charts & statistics for bigcoqui/Kade-Engine-1.5.3](https://reviewgithub.com/rep/bigcoqui/Kade-Engine-1.5.3)

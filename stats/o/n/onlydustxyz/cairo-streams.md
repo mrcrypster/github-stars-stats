@@ -1,12 +1,14 @@
 # onlydustxyz/cairo-streams - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 60
 
 [Open repository](https://github.com/onlydustxyz/cairo-streams)
+
+[Open detailed stats for onlydustxyz/cairo-streams](https://reviewgithub.com/rep/onlydustxyz/cairo-streams)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 59 | 5 | 
 | 2022-09-07 | 59 | 5 | 
 
-
-[Detailed charts & statistics for onlydustxyz/cairo-streams](https://reviewgithub.com/rep/onlydustxyz/cairo-streams)

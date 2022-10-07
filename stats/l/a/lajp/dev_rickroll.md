@@ -1,12 +1,14 @@
 # lajp/dev_rickroll - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 69
 
 [Open repository](https://github.com/lajp/dev_rickroll)
+
+[Open detailed stats for lajp/dev_rickroll](https://reviewgithub.com/rep/lajp/dev_rickroll)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 69 | - | 
 | 2022-09-08 | 69 | - | 
 
-
-[Detailed charts & statistics for lajp/dev_rickroll](https://reviewgithub.com/rep/lajp/dev_rickroll)

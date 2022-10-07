@@ -1,12 +1,14 @@
 # semlette/nfc_in_flutter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 106
 
 ★ Stars: 113
 
 [Open repository](https://github.com/semlette/nfc_in_flutter)
+
+[Open detailed stats for semlette/nfc_in_flutter](https://reviewgithub.com/rep/semlette/nfc_in_flutter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 111 | 105 | 
 | 2022-09-07 | 111 | 105 | 
 
-
-[Detailed charts & statistics for semlette/nfc_in_flutter](https://reviewgithub.com/rep/semlette/nfc_in_flutter)

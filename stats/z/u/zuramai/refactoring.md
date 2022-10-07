@@ -1,12 +1,14 @@
 # zuramai/refactoring - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 76
 
 [Open repository](https://github.com/zuramai/refactoring)
+
+[Open detailed stats for zuramai/refactoring](https://reviewgithub.com/rep/zuramai/refactoring)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 75 | 11 | 
 | 2022-09-08 | 75 | 11 | 
 
-
-[Detailed charts & statistics for zuramai/refactoring](https://reviewgithub.com/rep/zuramai/refactoring)

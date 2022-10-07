@@ -1,12 +1,14 @@
 # ammarmohsin/Data-Science-using-Python - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 23
 
 [Open repository](https://github.com/ammarmohsin/Data-Science-using-Python)
+
+[Open detailed stats for ammarmohsin/Data-Science-using-Python](https://reviewgithub.com/rep/ammarmohsin/Data-Science-using-Python)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 6 | 
 | 2022-09-07 | 23 | 6 | 
 
-
-[Detailed charts & statistics for ammarmohsin/Data-Science-using-Python](https://reviewgithub.com/rep/ammarmohsin/Data-Science-using-Python)

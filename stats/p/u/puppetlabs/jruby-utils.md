@@ -1,12 +1,14 @@
 # puppetlabs/jruby-utils - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 5
 
 [Open repository](https://github.com/puppetlabs/jruby-utils)
+
+[Open detailed stats for puppetlabs/jruby-utils](https://reviewgithub.com/rep/puppetlabs/jruby-utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 19 | 
 | 2022-09-07 | 5 | 19 | 
 
-
-[Detailed charts & statistics for puppetlabs/jruby-utils](https://reviewgithub.com/rep/puppetlabs/jruby-utils)

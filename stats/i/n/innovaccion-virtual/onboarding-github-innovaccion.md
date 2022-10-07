@@ -1,12 +1,14 @@
 # innovaccion-virtual/onboarding-github-innovaccion - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 116
 
 ★ Stars: 376
 
 [Open repository](https://github.com/innovaccion-virtual/onboarding-github-innovaccion)
+
+[Open detailed stats for innovaccion-virtual/onboarding-github-innovaccion](https://reviewgithub.com/rep/innovaccion-virtual/onboarding-github-innovaccion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 376 | 115 | 
 | 2022-09-07 | 376 | 115 | 
 
-
-[Detailed charts & statistics for innovaccion-virtual/onboarding-github-innovaccion](https://reviewgithub.com/rep/innovaccion-virtual/onboarding-github-innovaccion)

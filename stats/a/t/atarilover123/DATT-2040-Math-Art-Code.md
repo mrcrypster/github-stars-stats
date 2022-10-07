@@ -1,12 +1,14 @@
 # atarilover123/DATT-2040-Math-Art-Code - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 5
 
 [Open repository](https://github.com/atarilover123/DATT-2040-Math-Art-Code)
+
+[Open detailed stats for atarilover123/DATT-2040-Math-Art-Code](https://reviewgithub.com/rep/atarilover123/DATT-2040-Math-Art-Code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 6 | 2 | 
 | 2022-09-17 | 6 | 2 | 
 
-
-[Detailed charts & statistics for atarilover123/DATT-2040-Math-Art-Code](https://reviewgithub.com/rep/atarilover123/DATT-2040-Math-Art-Code)

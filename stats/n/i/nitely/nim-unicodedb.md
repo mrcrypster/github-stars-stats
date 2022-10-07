@@ -1,12 +1,14 @@
 # nitely/nim-unicodedb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 23
 
 [Open repository](https://github.com/nitely/nim-unicodedb)
+
+[Open detailed stats for nitely/nim-unicodedb](https://reviewgithub.com/rep/nitely/nim-unicodedb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 23 | 3 | 
 | 2022-09-30 | 23 | 3 | 
 
-
-[Detailed charts & statistics for nitely/nim-unicodedb](https://reviewgithub.com/rep/nitely/nim-unicodedb)

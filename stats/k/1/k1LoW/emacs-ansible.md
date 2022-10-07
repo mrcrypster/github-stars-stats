@@ -1,12 +1,14 @@
 # k1LoW/emacs-ansible - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 107
 
 [Open repository](https://github.com/k1LoW/emacs-ansible)
+
+[Open detailed stats for k1LoW/emacs-ansible](https://reviewgithub.com/rep/k1LoW/emacs-ansible)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 106 | 32 | 
 | 2022-09-08 | 106 | 32 | 
 
-
-[Detailed charts & statistics for k1LoW/emacs-ansible](https://reviewgithub.com/rep/k1LoW/emacs-ansible)

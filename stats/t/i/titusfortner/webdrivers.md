@@ -1,12 +1,14 @@
 # titusfortner/webdrivers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 91
 
 ★ Stars: 552
 
 [Open repository](https://github.com/titusfortner/webdrivers)
+
+[Open detailed stats for titusfortner/webdrivers](https://reviewgithub.com/rep/titusfortner/webdrivers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-02 | 550 | 90 | 
 | 2022-10-01 | 550 | 90 | 
 
-
-[Detailed charts & statistics for titusfortner/webdrivers](https://reviewgithub.com/rep/titusfortner/webdrivers)

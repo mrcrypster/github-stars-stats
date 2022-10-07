@@ -1,12 +1,14 @@
 # glyphrider/roman.erl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/glyphrider/roman.erl)
+
+[Open detailed stats for glyphrider/roman.erl](https://reviewgithub.com/rep/glyphrider/roman.erl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for glyphrider/roman.erl](https://reviewgithub.com/rep/glyphrider/roman.erl)

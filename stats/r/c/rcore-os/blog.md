@@ -1,12 +1,14 @@
 # rcore-os/blog - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 55
 
 ★ Stars: 15
 
 [Open repository](https://github.com/rcore-os/blog)
+
+[Open detailed stats for rcore-os/blog](https://reviewgithub.com/rep/rcore-os/blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 15 | 52 | 
 | 2022-09-08 | 15 | 52 | 
 
-
-[Detailed charts & statistics for rcore-os/blog](https://reviewgithub.com/rep/rcore-os/blog)

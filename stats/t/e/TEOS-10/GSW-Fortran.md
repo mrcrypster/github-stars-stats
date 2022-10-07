@@ -1,12 +1,14 @@
 # TEOS-10/GSW-Fortran - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 9
 
 [Open repository](https://github.com/TEOS-10/GSW-Fortran)
+
+[Open detailed stats for TEOS-10/GSW-Fortran](https://reviewgithub.com/rep/TEOS-10/GSW-Fortran)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 13 | 
 | 2022-09-08 | 9 | 13 | 
 
-
-[Detailed charts & statistics for TEOS-10/GSW-Fortran](https://reviewgithub.com/rep/TEOS-10/GSW-Fortran)

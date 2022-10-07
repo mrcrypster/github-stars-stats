@@ -1,12 +1,14 @@
 # bsless/datalog-parser.spec - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 8
 
 [Open repository](https://github.com/bsless/datalog-parser.spec)
+
+[Open detailed stats for bsless/datalog-parser.spec](https://reviewgithub.com/rep/bsless/datalog-parser.spec)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | 8 | - | 
 | 2022-09-26 | 8 | - | 
 
-
-[Detailed charts & statistics for bsless/datalog-parser.spec](https://reviewgithub.com/rep/bsless/datalog-parser.spec)

@@ -1,12 +1,14 @@
 # Luffi2539/eldritch-codejam - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 518
 
 ★ Stars: 9
 
 [Open repository](https://github.com/Luffi2539/eldritch-codejam)
+
+[Open detailed stats for Luffi2539/eldritch-codejam](https://reviewgithub.com/rep/Luffi2539/eldritch-codejam)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 523 | 
 | 2022-09-07 | 9 | 525 | 
 
-
-[Detailed charts & statistics for Luffi2539/eldritch-codejam](https://reviewgithub.com/rep/Luffi2539/eldritch-codejam)

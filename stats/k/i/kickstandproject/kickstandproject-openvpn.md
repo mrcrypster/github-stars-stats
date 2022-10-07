@@ -1,12 +1,14 @@
 # kickstandproject/kickstandproject-openvpn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kickstandproject/kickstandproject-openvpn)
+
+[Open detailed stats for kickstandproject/kickstandproject-openvpn](https://reviewgithub.com/rep/kickstandproject/kickstandproject-openvpn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | - | 1 | 
 | 2022-09-20 | - | 1 | 
 
-
-[Detailed charts & statistics for kickstandproject/kickstandproject-openvpn](https://reviewgithub.com/rep/kickstandproject/kickstandproject-openvpn)

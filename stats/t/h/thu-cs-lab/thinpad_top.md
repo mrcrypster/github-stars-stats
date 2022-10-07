@@ -1,12 +1,14 @@
 # thu-cs-lab/thinpad_top - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 39
 
 [Open repository](https://github.com/thu-cs-lab/thinpad_top)
+
+[Open detailed stats for thu-cs-lab/thinpad_top](https://reviewgithub.com/rep/thu-cs-lab/thinpad_top)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-15 | 39 | 23 | 
 | 2022-09-14 | 39 | 23 | 
 
-
-[Detailed charts & statistics for thu-cs-lab/thinpad_top](https://reviewgithub.com/rep/thu-cs-lab/thinpad_top)

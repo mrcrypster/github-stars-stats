@@ -1,12 +1,14 @@
 # clojure/tools.tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 29
 
 [Open repository](https://github.com/clojure/tools.tools)
+
+[Open detailed stats for clojure/tools.tools](https://reviewgithub.com/rep/clojure/tools.tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 27 | 1 | 
 | 2022-09-08 | 27 | 1 | 
 
-
-[Detailed charts & statistics for clojure/tools.tools](https://reviewgithub.com/rep/clojure/tools.tools)

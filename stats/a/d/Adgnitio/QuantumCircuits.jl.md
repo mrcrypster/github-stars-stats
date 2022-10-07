@@ -1,12 +1,14 @@
 # Adgnitio/QuantumCircuits.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 7
 
 [Open repository](https://github.com/Adgnitio/QuantumCircuits.jl)
+
+[Open detailed stats for Adgnitio/QuantumCircuits.jl](https://reviewgithub.com/rep/Adgnitio/QuantumCircuits.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 7 | 5 | 
 | 2022-09-08 | 7 | 5 | 
 
-
-[Detailed charts & statistics for Adgnitio/QuantumCircuits.jl](https://reviewgithub.com/rep/Adgnitio/QuantumCircuits.jl)

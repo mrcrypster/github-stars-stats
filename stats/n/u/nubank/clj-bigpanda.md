@@ -1,12 +1,14 @@
 # nubank/clj-bigpanda - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/nubank/clj-bigpanda)
+
+[Open detailed stats for nubank/clj-bigpanda](https://reviewgithub.com/rep/nubank/clj-bigpanda)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
 
-
-[Detailed charts & statistics for nubank/clj-bigpanda](https://reviewgithub.com/rep/nubank/clj-bigpanda)

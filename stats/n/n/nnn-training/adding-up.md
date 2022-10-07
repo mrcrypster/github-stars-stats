@@ -1,12 +1,14 @@
 # nnn-training/adding-up - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 651
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nnn-training/adding-up)
+
+[Open detailed stats for nnn-training/adding-up](https://reviewgithub.com/rep/nnn-training/adding-up)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 628 | 
 | 2022-09-07 | - | 627 | 
 
-
-[Detailed charts & statistics for nnn-training/adding-up](https://reviewgithub.com/rep/nnn-training/adding-up)

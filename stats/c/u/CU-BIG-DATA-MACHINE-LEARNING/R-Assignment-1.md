@@ -1,12 +1,14 @@
 # CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 41
 
 ★ Stars: 0
 
 [Open repository](https://github.com/CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1)
+
+[Open detailed stats for CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1](https://reviewgithub.com/rep/CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 36 | 
 | 2022-09-08 | - | 36 | 
 
-
-[Detailed charts & statistics for CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1](https://reviewgithub.com/rep/CU-BIG-DATA-MACHINE-LEARNING/R-Assignment-1)

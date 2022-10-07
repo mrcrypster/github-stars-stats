@@ -1,12 +1,14 @@
 # GlistPlugins/gipEmpty - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 6
 
 [Open repository](https://github.com/GlistPlugins/gipEmpty)
+
+[Open detailed stats for GlistPlugins/gipEmpty](https://reviewgithub.com/rep/GlistPlugins/gipEmpty)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 29 | 
 | 2022-09-08 | 6 | 29 | 
 
-
-[Detailed charts & statistics for GlistPlugins/gipEmpty](https://reviewgithub.com/rep/GlistPlugins/gipEmpty)

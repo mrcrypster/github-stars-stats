@@ -1,12 +1,14 @@
 # smarc-project/smarc_msgs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 1
 
 [Open repository](https://github.com/smarc-project/smarc_msgs)
+
+[Open detailed stats for smarc-project/smarc_msgs](https://reviewgithub.com/rep/smarc-project/smarc_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 9 | 
 | 2022-09-07 | 1 | 9 | 
 
-
-[Detailed charts & statistics for smarc-project/smarc_msgs](https://reviewgithub.com/rep/smarc-project/smarc_msgs)

@@ -1,12 +1,14 @@
 # qbcore-framework/qb-apartments - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 187
 
 ★ Stars: 16
 
 [Open repository](https://github.com/qbcore-framework/qb-apartments)
+
+[Open detailed stats for qbcore-framework/qb-apartments](https://reviewgithub.com/rep/qbcore-framework/qb-apartments)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 186 | 
 | 2022-09-07 | 16 | 184 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-apartments](https://reviewgithub.com/rep/qbcore-framework/qb-apartments)

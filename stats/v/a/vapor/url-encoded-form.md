@@ -1,12 +1,14 @@
 # vapor/url-encoded-form - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 40
 
 [Open repository](https://github.com/vapor/url-encoded-form)
+
+[Open detailed stats for vapor/url-encoded-form](https://reviewgithub.com/rep/vapor/url-encoded-form)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 21 | 
 | 2022-09-07 | 39 | 21 | 
 
-
-[Detailed charts & statistics for vapor/url-encoded-form](https://reviewgithub.com/rep/vapor/url-encoded-form)

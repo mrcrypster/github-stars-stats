@@ -1,12 +1,14 @@
 # mrd0x/WebView2-Cookie-Stealer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 175
 
 [Open repository](https://github.com/mrd0x/WebView2-Cookie-Stealer)
+
+[Open detailed stats for mrd0x/WebView2-Cookie-Stealer](https://reviewgithub.com/rep/mrd0x/WebView2-Cookie-Stealer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 163 | 36 | 
 | 2022-09-07 | 163 | 36 | 
 
-
-[Detailed charts & statistics for mrd0x/WebView2-Cookie-Stealer](https://reviewgithub.com/rep/mrd0x/WebView2-Cookie-Stealer)

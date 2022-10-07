@@ -1,12 +1,14 @@
 # eclipse/paho.mqtt.c - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 928
 
 ★ Stars: 1451
 
 [Open repository](https://github.com/eclipse/paho.mqtt.c)
+
+[Open detailed stats for eclipse/paho.mqtt.c](https://reviewgithub.com/rep/eclipse/paho.mqtt.c)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1436 | 920 | 
 | 2022-09-07 | 1435 | 919 | 
 
-
-[Detailed charts & statistics for eclipse/paho.mqtt.c](https://reviewgithub.com/rep/eclipse/paho.mqtt.c)

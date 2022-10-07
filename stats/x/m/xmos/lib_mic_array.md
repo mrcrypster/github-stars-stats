@@ -1,12 +1,14 @@
 # xmos/lib_mic_array - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 13
 
 [Open repository](https://github.com/xmos/lib_mic_array)
+
+[Open detailed stats for xmos/lib_mic_array](https://reviewgithub.com/rep/xmos/lib_mic_array)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 26 | 
 | 2022-09-07 | 13 | 26 | 
 
-
-[Detailed charts & statistics for xmos/lib_mic_array](https://reviewgithub.com/rep/xmos/lib_mic_array)

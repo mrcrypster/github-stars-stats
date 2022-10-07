@@ -1,12 +1,14 @@
 # joscha/google-apps-script-coffee-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 11
 
 [Open repository](https://github.com/joscha/google-apps-script-coffee-template)
+
+[Open detailed stats for joscha/google-apps-script-coffee-template](https://reviewgithub.com/rep/joscha/google-apps-script-coffee-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 3 | 
 | 2022-09-07 | 11 | 3 | 
 
-
-[Detailed charts & statistics for joscha/google-apps-script-coffee-template](https://reviewgithub.com/rep/joscha/google-apps-script-coffee-template)

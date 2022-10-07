@@ -1,12 +1,14 @@
 # jcbombardelli/gama-no-javascript-basico - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 299
 
 ★ Stars: 69
 
 [Open repository](https://github.com/jcbombardelli/gama-no-javascript-basico)
+
+[Open detailed stats for jcbombardelli/gama-no-javascript-basico](https://reviewgithub.com/rep/jcbombardelli/gama-no-javascript-basico)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 71 | 299 | 
 | 2022-09-07 | 71 | 298 | 
 
-
-[Detailed charts & statistics for jcbombardelli/gama-no-javascript-basico](https://reviewgithub.com/rep/jcbombardelli/gama-no-javascript-basico)

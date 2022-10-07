@@ -1,12 +1,14 @@
 # Goddard-Fortran-Ecosystem/gFTL-shared - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 4
 
 [Open repository](https://github.com/Goddard-Fortran-Ecosystem/gFTL-shared)
+
+[Open detailed stats for Goddard-Fortran-Ecosystem/gFTL-shared](https://reviewgithub.com/rep/Goddard-Fortran-Ecosystem/gFTL-shared)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 8 | 
 | 2022-09-08 | 4 | 8 | 
 
-
-[Detailed charts & statistics for Goddard-Fortran-Ecosystem/gFTL-shared](https://reviewgithub.com/rep/Goddard-Fortran-Ecosystem/gFTL-shared)

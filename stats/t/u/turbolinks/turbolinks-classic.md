@@ -1,12 +1,14 @@
 # turbolinks/turbolinks-classic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 433
 
 ★ Stars: 3567
 
 [Open repository](https://github.com/turbolinks/turbolinks-classic)
+
+[Open detailed stats for turbolinks/turbolinks-classic](https://reviewgithub.com/rep/turbolinks/turbolinks-classic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3565 | 433 | 
 | 2022-09-07 | 3565 | 433 | 
 
-
-[Detailed charts & statistics for turbolinks/turbolinks-classic](https://reviewgithub.com/rep/turbolinks/turbolinks-classic)

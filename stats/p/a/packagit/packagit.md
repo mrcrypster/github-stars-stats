@@ -1,12 +1,14 @@
 # packagit/packagit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 363
 
 [Open repository](https://github.com/packagit/packagit)
+
+[Open detailed stats for packagit/packagit](https://reviewgithub.com/rep/packagit/packagit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 363 | 16 | 
 | 2022-09-08 | 363 | 16 | 
 
-
-[Detailed charts & statistics for packagit/packagit](https://reviewgithub.com/rep/packagit/packagit)

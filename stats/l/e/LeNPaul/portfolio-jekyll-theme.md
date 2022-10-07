@@ -1,12 +1,14 @@
 # LeNPaul/portfolio-jekyll-theme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 224
 
 ★ Stars: 167
 
 [Open repository](https://github.com/LeNPaul/portfolio-jekyll-theme)
+
+[Open detailed stats for LeNPaul/portfolio-jekyll-theme](https://reviewgithub.com/rep/LeNPaul/portfolio-jekyll-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 166 | 220 | 
 | 2022-09-08 | 166 | 220 | 
 
-
-[Detailed charts & statistics for LeNPaul/portfolio-jekyll-theme](https://reviewgithub.com/rep/LeNPaul/portfolio-jekyll-theme)

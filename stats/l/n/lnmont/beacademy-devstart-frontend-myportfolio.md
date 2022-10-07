@@ -1,12 +1,14 @@
 # lnmont/beacademy-devstart-frontend-myportfolio - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 10
 
 [Open repository](https://github.com/lnmont/beacademy-devstart-frontend-myportfolio)
+
+[Open detailed stats for lnmont/beacademy-devstart-frontend-myportfolio](https://reviewgithub.com/rep/lnmont/beacademy-devstart-frontend-myportfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 1 | 
 | 2022-09-08 | 10 | 1 | 
 
-
-[Detailed charts & statistics for lnmont/beacademy-devstart-frontend-myportfolio](https://reviewgithub.com/rep/lnmont/beacademy-devstart-frontend-myportfolio)

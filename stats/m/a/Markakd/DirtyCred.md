@@ -1,16 +1,19 @@
 # Markakd/DirtyCred - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
-★ Stars: 459
+★ Stars: 461
 
 [Open repository](https://github.com/Markakd/DirtyCred)
+
+[Open detailed stats for Markakd/DirtyCred](https://reviewgithub.com/rep/Markakd/DirtyCred)
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 461 | 25 | 
 | 2022-10-06 | 459 | 25 | 
 | 2022-10-05 | 458 | 25 | 
 | 2022-10-04 | 457 | 25 | 
@@ -41,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 429 | 23 | 
 | 2022-09-08 | 424 | 22 | 
 
-
-[Detailed charts & statistics for Markakd/DirtyCred](https://reviewgithub.com/rep/Markakd/DirtyCred)

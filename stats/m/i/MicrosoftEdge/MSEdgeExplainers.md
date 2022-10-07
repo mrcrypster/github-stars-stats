@@ -1,12 +1,14 @@
 # MicrosoftEdge/MSEdgeExplainers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 167
 
 ★ Stars: 1110
 
 [Open repository](https://github.com/MicrosoftEdge/MSEdgeExplainers)
+
+[Open detailed stats for MicrosoftEdge/MSEdgeExplainers](https://reviewgithub.com/rep/MicrosoftEdge/MSEdgeExplainers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1102 | 165 | 
 | 2022-09-07 | 1102 | 165 | 
 
-
-[Detailed charts & statistics for MicrosoftEdge/MSEdgeExplainers](https://reviewgithub.com/rep/MicrosoftEdge/MSEdgeExplainers)

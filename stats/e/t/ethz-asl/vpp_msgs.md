@@ -1,12 +1,14 @@
 # ethz-asl/vpp_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ethz-asl/vpp_msgs)
+
+[Open detailed stats for ethz-asl/vpp_msgs](https://reviewgithub.com/rep/ethz-asl/vpp_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for ethz-asl/vpp_msgs](https://reviewgithub.com/rep/ethz-asl/vpp_msgs)

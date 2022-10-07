@@ -1,12 +1,14 @@
 # os2xx/os - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 2
 
 [Open repository](https://github.com/os2xx/os)
+
+[Open detailed stats for os2xx/os](https://reviewgithub.com/rep/os2xx/os)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-11 | 2 | 2 | 
 | 2022-09-10 | 2 | 2 | 
 
-
-[Detailed charts & statistics for os2xx/os](https://reviewgithub.com/rep/os2xx/os)

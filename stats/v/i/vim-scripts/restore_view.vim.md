@@ -1,12 +1,14 @@
 # vim-scripts/restore_view.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 40
 
 [Open repository](https://github.com/vim-scripts/restore_view.vim)
+
+[Open detailed stats for vim-scripts/restore_view.vim](https://reviewgithub.com/rep/vim-scripts/restore_view.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 39 | 7 | 
 | 2022-09-08 | 39 | 7 | 
 
-
-[Detailed charts & statistics for vim-scripts/restore_view.vim](https://reviewgithub.com/rep/vim-scripts/restore_view.vim)

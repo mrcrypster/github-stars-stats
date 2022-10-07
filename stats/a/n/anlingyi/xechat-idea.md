@@ -1,12 +1,14 @@
 # anlingyi/xechat-idea - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 356
 
 [Open repository](https://github.com/anlingyi/xechat-idea)
+
+[Open detailed stats for anlingyi/xechat-idea](https://reviewgithub.com/rep/anlingyi/xechat-idea)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 295 | 69 | 
 | 2022-09-07 | 295 | 69 | 
 
-
-[Detailed charts & statistics for anlingyi/xechat-idea](https://reviewgithub.com/rep/anlingyi/xechat-idea)

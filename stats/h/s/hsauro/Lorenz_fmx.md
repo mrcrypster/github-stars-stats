@@ -1,12 +1,14 @@
 # hsauro/Lorenz_fmx - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 20
 
 [Open repository](https://github.com/hsauro/Lorenz_fmx)
+
+[Open detailed stats for hsauro/Lorenz_fmx](https://reviewgithub.com/rep/hsauro/Lorenz_fmx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 3 | 
 | 2022-09-07 | 20 | 3 | 
 
-
-[Detailed charts & statistics for hsauro/Lorenz_fmx](https://reviewgithub.com/rep/hsauro/Lorenz_fmx)

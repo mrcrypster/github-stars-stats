@@ -1,12 +1,14 @@
 # JulyOT/JulyOT - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 11
 
 [Open repository](https://github.com/JulyOT/JulyOT)
+
+[Open detailed stats for JulyOT/JulyOT](https://reviewgithub.com/rep/JulyOT/JulyOT)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 10 | 
 | 2022-09-07 | 11 | 10 | 
 
-
-[Detailed charts & statistics for JulyOT/JulyOT](https://reviewgithub.com/rep/JulyOT/JulyOT)

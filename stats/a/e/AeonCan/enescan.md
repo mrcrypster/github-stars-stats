@@ -1,12 +1,14 @@
 # AeonCan/enescan - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 13
 
 [Open repository](https://github.com/AeonCan/enescan)
+
+[Open detailed stats for AeonCan/enescan](https://reviewgithub.com/rep/AeonCan/enescan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 2 | 
 | 2022-09-07 | 13 | 2 | 
 
-
-[Detailed charts & statistics for AeonCan/enescan](https://reviewgithub.com/rep/AeonCan/enescan)

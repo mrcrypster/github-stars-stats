@@ -1,12 +1,14 @@
 # jochenklar/evora - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/jochenklar/evora)
+
+[Open detailed stats for jochenklar/evora](https://reviewgithub.com/rep/jochenklar/evora)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 4 | 1 | 
 | 2022-09-13 | 4 | 1 | 
 
-
-[Detailed charts & statistics for jochenklar/evora](https://reviewgithub.com/rep/jochenklar/evora)

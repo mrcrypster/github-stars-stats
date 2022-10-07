@@ -1,12 +1,14 @@
 # lightblue-platform/lightblue-puppet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 2
 
 [Open repository](https://github.com/lightblue-platform/lightblue-puppet)
+
+[Open detailed stats for lightblue-platform/lightblue-puppet](https://reviewgithub.com/rep/lightblue-platform/lightblue-puppet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 10 | 
 | 2022-09-07 | 2 | 10 | 
 
-
-[Detailed charts & statistics for lightblue-platform/lightblue-puppet](https://reviewgithub.com/rep/lightblue-platform/lightblue-puppet)

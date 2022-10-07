@@ -1,12 +1,14 @@
 # cryptopoo/hiveos_gddr6x_temps - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 45
 
 [Open repository](https://github.com/cryptopoo/hiveos_gddr6x_temps)
+
+[Open detailed stats for cryptopoo/hiveos_gddr6x_temps](https://reviewgithub.com/rep/cryptopoo/hiveos_gddr6x_temps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 12 | 
 | 2022-09-07 | 45 | 12 | 
 
-
-[Detailed charts & statistics for cryptopoo/hiveos_gddr6x_temps](https://reviewgithub.com/rep/cryptopoo/hiveos_gddr6x_temps)

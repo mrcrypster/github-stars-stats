@@ -1,12 +1,14 @@
 # mydumper/mydumper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 374
 
 ★ Stars: 1761
 
 [Open repository](https://github.com/mydumper/mydumper)
+
+[Open detailed stats for mydumper/mydumper](https://reviewgithub.com/rep/mydumper/mydumper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1743 | 373 | 
 | 2022-09-07 | 1743 | 373 | 
 
-
-[Detailed charts & statistics for mydumper/mydumper](https://reviewgithub.com/rep/mydumper/mydumper)

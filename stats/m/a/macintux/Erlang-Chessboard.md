@@ -1,12 +1,14 @@
 # macintux/Erlang-Chessboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/macintux/Erlang-Chessboard)
+
+[Open detailed stats for macintux/Erlang-Chessboard](https://reviewgithub.com/rep/macintux/Erlang-Chessboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for macintux/Erlang-Chessboard](https://reviewgithub.com/rep/macintux/Erlang-Chessboard)

@@ -1,12 +1,14 @@
 # patrickvogt/console - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 17
 
 [Open repository](https://github.com/patrickvogt/console)
+
+[Open detailed stats for patrickvogt/console](https://reviewgithub.com/rep/patrickvogt/console)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 6 | 
 | 2022-09-08 | 17 | 6 | 
 
-
-[Detailed charts & statistics for patrickvogt/console](https://reviewgithub.com/rep/patrickvogt/console)

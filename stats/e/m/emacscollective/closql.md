@@ -1,12 +1,14 @@
 # emacscollective/closql - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 24
 
 [Open repository](https://github.com/emacscollective/closql)
+
+[Open detailed stats for emacscollective/closql](https://reviewgithub.com/rep/emacscollective/closql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 3 | 
 | 2022-09-08 | 24 | 3 | 
 
-
-[Detailed charts & statistics for emacscollective/closql](https://reviewgithub.com/rep/emacscollective/closql)

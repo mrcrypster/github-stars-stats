@@ -1,12 +1,14 @@
 # buildspace/terra-starter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 81
 
 ★ Stars: 12
 
 [Open repository](https://github.com/buildspace/terra-starter)
+
+[Open detailed stats for buildspace/terra-starter](https://reviewgithub.com/rep/buildspace/terra-starter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 82 | 
 | 2022-09-07 | 12 | 82 | 
 
-
-[Detailed charts & statistics for buildspace/terra-starter](https://reviewgithub.com/rep/buildspace/terra-starter)

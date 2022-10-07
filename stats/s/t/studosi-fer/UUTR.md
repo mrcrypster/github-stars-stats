@@ -1,12 +1,14 @@
 # studosi-fer/UUTR - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/studosi-fer/UUTR)
+
+[Open detailed stats for studosi-fer/UUTR](https://reviewgithub.com/rep/studosi-fer/UUTR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 8 | 
 | 2022-09-08 | - | 8 | 
 
-
-[Detailed charts & statistics for studosi-fer/UUTR](https://reviewgithub.com/rep/studosi-fer/UUTR)

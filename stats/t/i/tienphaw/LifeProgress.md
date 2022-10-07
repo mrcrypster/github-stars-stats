@@ -1,12 +1,14 @@
 # tienphaw/LifeProgress - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 186
 
 [Open repository](https://github.com/tienphaw/LifeProgress)
+
+[Open detailed stats for tienphaw/LifeProgress](https://reviewgithub.com/rep/tienphaw/LifeProgress)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 185 | 14 | 
 | 2022-09-08 | 185 | 14 | 
 
-
-[Detailed charts & statistics for tienphaw/LifeProgress](https://reviewgithub.com/rep/tienphaw/LifeProgress)

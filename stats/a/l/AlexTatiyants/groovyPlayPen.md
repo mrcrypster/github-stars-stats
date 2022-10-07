@@ -1,12 +1,14 @@
 # AlexTatiyants/groovyPlayPen - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/AlexTatiyants/groovyPlayPen)
+
+[Open detailed stats for AlexTatiyants/groovyPlayPen](https://reviewgithub.com/rep/AlexTatiyants/groovyPlayPen)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | 3 | - | 
 | 2022-09-29 | 3 | - | 
 
-
-[Detailed charts & statistics for AlexTatiyants/groovyPlayPen](https://reviewgithub.com/rep/AlexTatiyants/groovyPlayPen)

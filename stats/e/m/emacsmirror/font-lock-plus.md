@@ -1,12 +1,14 @@
 # emacsmirror/font-lock-plus - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 5
 
 [Open repository](https://github.com/emacsmirror/font-lock-plus)
+
+[Open detailed stats for emacsmirror/font-lock-plus](https://reviewgithub.com/rep/emacsmirror/font-lock-plus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 4 | 
 | 2022-09-07 | 5 | 4 | 
 
-
-[Detailed charts & statistics for emacsmirror/font-lock-plus](https://reviewgithub.com/rep/emacsmirror/font-lock-plus)

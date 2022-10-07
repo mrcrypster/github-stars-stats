@@ -1,12 +1,14 @@
 # Geosearchef/placebot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 22
 
 [Open repository](https://github.com/Geosearchef/placebot)
+
+[Open detailed stats for Geosearchef/placebot](https://reviewgithub.com/rep/Geosearchef/placebot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 22 | 
 | 2022-09-07 | 22 | 22 | 
 
-
-[Detailed charts & statistics for Geosearchef/placebot](https://reviewgithub.com/rep/Geosearchef/placebot)

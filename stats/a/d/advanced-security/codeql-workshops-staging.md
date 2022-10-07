@@ -1,12 +1,14 @@
 # advanced-security/codeql-workshops-staging - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/advanced-security/codeql-workshops-staging)
+
+[Open detailed stats for advanced-security/codeql-workshops-staging](https://reviewgithub.com/rep/advanced-security/codeql-workshops-staging)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 1 | 2 | 
 | 2022-09-20 | 1 | 2 | 
 
-
-[Detailed charts & statistics for advanced-security/codeql-workshops-staging](https://reviewgithub.com/rep/advanced-security/codeql-workshops-staging)

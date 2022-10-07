@@ -1,12 +1,14 @@
 # HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 23
 
 [Open repository](https://github.com/HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications)
+
+[Open detailed stats for HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications](https://reviewgithub.com/rep/HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 3 | 
 | 2022-09-07 | 22 | 3 | 
 
-
-[Detailed charts & statistics for HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications](https://reviewgithub.com/rep/HUI11126/Compute-continuous-moments-de-ned-in-a-rectangular-region-using-CUDA-and-some-applications)

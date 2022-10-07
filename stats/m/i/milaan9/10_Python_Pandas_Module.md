@@ -1,12 +1,14 @@
 # milaan9/10_Python_Pandas_Module - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 214
 
 ★ Stars: 212
 
 [Open repository](https://github.com/milaan9/10_Python_Pandas_Module)
+
+[Open detailed stats for milaan9/10_Python_Pandas_Module](https://reviewgithub.com/rep/milaan9/10_Python_Pandas_Module)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 209 | 212 | 
 | 2022-09-08 | 209 | 212 | 
 
-
-[Detailed charts & statistics for milaan9/10_Python_Pandas_Module](https://reviewgithub.com/rep/milaan9/10_Python_Pandas_Module)

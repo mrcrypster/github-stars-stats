@@ -1,12 +1,14 @@
 # upbound/build - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 43
 
 ★ Stars: 47
 
 [Open repository](https://github.com/upbound/build)
+
+[Open detailed stats for upbound/build](https://reviewgithub.com/rep/upbound/build)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 46 | 42 | 
 | 2022-09-07 | 46 | 42 | 
 
-
-[Detailed charts & statistics for upbound/build](https://reviewgithub.com/rep/upbound/build)

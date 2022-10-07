@@ -1,12 +1,14 @@
 # voxpupuli/puppet-mrepo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 17
 
 [Open repository](https://github.com/voxpupuli/puppet-mrepo)
+
+[Open detailed stats for voxpupuli/puppet-mrepo](https://reviewgithub.com/rep/voxpupuli/puppet-mrepo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 46 | 
 | 2022-09-08 | 17 | 46 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-mrepo](https://reviewgithub.com/rep/voxpupuli/puppet-mrepo)

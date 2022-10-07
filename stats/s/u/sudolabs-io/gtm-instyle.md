@@ -1,12 +1,14 @@
 # sudolabs-io/gtm-instyle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sudolabs-io/gtm-instyle)
+
+[Open detailed stats for sudolabs-io/gtm-instyle](https://reviewgithub.com/rep/sudolabs-io/gtm-instyle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for sudolabs-io/gtm-instyle](https://reviewgithub.com/rep/sudolabs-io/gtm-instyle)

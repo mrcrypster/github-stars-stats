@@ -1,12 +1,14 @@
 # binary-com/perl-Net-Async-Blockchain - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 3
 
 [Open repository](https://github.com/binary-com/perl-Net-Async-Blockchain)
+
+[Open detailed stats for binary-com/perl-Net-Async-Blockchain](https://reviewgithub.com/rep/binary-com/perl-Net-Async-Blockchain)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 15 | 
 | 2022-09-08 | 3 | 15 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Net-Async-Blockchain](https://reviewgithub.com/rep/binary-com/perl-Net-Async-Blockchain)

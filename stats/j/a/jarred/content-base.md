@@ -1,12 +1,14 @@
 # jarred/content-base - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jarred/content-base)
+
+[Open detailed stats for jarred/content-base](https://reviewgithub.com/rep/jarred/content-base)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for jarred/content-base](https://reviewgithub.com/rep/jarred/content-base)

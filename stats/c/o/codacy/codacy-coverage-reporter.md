@@ -1,12 +1,14 @@
 # codacy/codacy-coverage-reporter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 96
 
 ★ Stars: 118
 
 [Open repository](https://github.com/codacy/codacy-coverage-reporter)
+
+[Open detailed stats for codacy/codacy-coverage-reporter](https://reviewgithub.com/rep/codacy/codacy-coverage-reporter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 117 | 95 | 
 | 2022-09-08 | 117 | 95 | 
 
-
-[Detailed charts & statistics for codacy/codacy-coverage-reporter](https://reviewgithub.com/rep/codacy/codacy-coverage-reporter)

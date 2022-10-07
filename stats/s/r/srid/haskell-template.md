@@ -1,12 +1,14 @@
 # srid/haskell-template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 102
 
 [Open repository](https://github.com/srid/haskell-template)
+
+[Open detailed stats for srid/haskell-template](https://reviewgithub.com/rep/srid/haskell-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 97 | 11 | 
 | 2022-09-08 | 97 | 11 | 
 
-
-[Detailed charts & statistics for srid/haskell-template](https://reviewgithub.com/rep/srid/haskell-template)

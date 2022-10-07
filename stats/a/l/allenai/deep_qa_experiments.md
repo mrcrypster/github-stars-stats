@@ -1,12 +1,14 @@
 # allenai/deep_qa_experiments - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 7
 
 [Open repository](https://github.com/allenai/deep_qa_experiments)
+
+[Open detailed stats for allenai/deep_qa_experiments](https://reviewgithub.com/rep/allenai/deep_qa_experiments)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 11 | 
 | 2022-09-08 | 7 | 11 | 
 
-
-[Detailed charts & statistics for allenai/deep_qa_experiments](https://reviewgithub.com/rep/allenai/deep_qa_experiments)

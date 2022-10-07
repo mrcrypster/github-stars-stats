@@ -1,12 +1,14 @@
 # maykrbrito/maratona-explorer-1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 16
 
 [Open repository](https://github.com/maykrbrito/maratona-explorer-1)
+
+[Open detailed stats for maykrbrito/maratona-explorer-1](https://reviewgithub.com/rep/maykrbrito/maratona-explorer-1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 10 | 
 | 2022-09-07 | 16 | 10 | 
 
-
-[Detailed charts & statistics for maykrbrito/maratona-explorer-1](https://reviewgithub.com/rep/maykrbrito/maratona-explorer-1)

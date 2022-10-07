@@ -1,12 +1,14 @@
 # trifolium-wang/tutu-cache - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 46
 
 [Open repository](https://github.com/trifolium-wang/tutu-cache)
+
+[Open detailed stats for trifolium-wang/tutu-cache](https://reviewgithub.com/rep/trifolium-wang/tutu-cache)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 46 | 9 | 
 | 2022-09-07 | 46 | 9 | 
 
-
-[Detailed charts & statistics for trifolium-wang/tutu-cache](https://reviewgithub.com/rep/trifolium-wang/tutu-cache)

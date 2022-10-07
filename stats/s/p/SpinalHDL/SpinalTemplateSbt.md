@@ -1,12 +1,14 @@
 # SpinalHDL/SpinalTemplateSbt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 52
 
 [Open repository](https://github.com/SpinalHDL/SpinalTemplateSbt)
+
+[Open detailed stats for SpinalHDL/SpinalTemplateSbt](https://reviewgithub.com/rep/SpinalHDL/SpinalTemplateSbt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 52 | 46 | 
 | 2022-09-07 | 52 | 46 | 
 
-
-[Detailed charts & statistics for SpinalHDL/SpinalTemplateSbt](https://reviewgithub.com/rep/SpinalHDL/SpinalTemplateSbt)

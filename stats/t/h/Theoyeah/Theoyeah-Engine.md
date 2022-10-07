@@ -1,12 +1,14 @@
 # Theoyeah/Theoyeah-Engine - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 26
 
 [Open repository](https://github.com/Theoyeah/Theoyeah-Engine)
+
+[Open detailed stats for Theoyeah/Theoyeah-Engine](https://reviewgithub.com/rep/Theoyeah/Theoyeah-Engine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 14 | 
 | 2022-09-07 | 25 | 14 | 
 
-
-[Detailed charts & statistics for Theoyeah/Theoyeah-Engine](https://reviewgithub.com/rep/Theoyeah/Theoyeah-Engine)

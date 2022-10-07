@@ -1,12 +1,14 @@
 # goblin/hercules_controller - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 8
 
 [Open repository](https://github.com/goblin/hercules_controller)
+
+[Open detailed stats for goblin/hercules_controller](https://reviewgithub.com/rep/goblin/hercules_controller)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 3 | 
 | 2022-09-08 | 8 | 3 | 
 
-
-[Detailed charts & statistics for goblin/hercules_controller](https://reviewgithub.com/rep/goblin/hercules_controller)

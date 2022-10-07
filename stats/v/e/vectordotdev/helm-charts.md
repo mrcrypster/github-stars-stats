@@ -1,12 +1,14 @@
 # vectordotdev/helm-charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 40
 
 [Open repository](https://github.com/vectordotdev/helm-charts)
+
+[Open detailed stats for vectordotdev/helm-charts](https://reviewgithub.com/rep/vectordotdev/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 39 | 30 | 
 | 2022-09-08 | 38 | 30 | 
 
-
-[Detailed charts & statistics for vectordotdev/helm-charts](https://reviewgithub.com/rep/vectordotdev/helm-charts)

@@ -1,12 +1,14 @@
 # slevomat/coding-standard - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 148
 
 ★ Stars: 1165
 
 [Open repository](https://github.com/slevomat/coding-standard)
+
+[Open detailed stats for slevomat/coding-standard](https://reviewgithub.com/rep/slevomat/coding-standard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1154 | 145 | 
 | 2022-09-07 | 1154 | 144 | 
 
-
-[Detailed charts & statistics for slevomat/coding-standard](https://reviewgithub.com/rep/slevomat/coding-standard)

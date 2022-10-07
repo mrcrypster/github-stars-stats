@@ -1,12 +1,14 @@
 # NickeManarin/ScreenToGif - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1885
 
 ★ Stars: 18432
 
 [Open repository](https://github.com/NickeManarin/ScreenToGif)
+
+[Open detailed stats for NickeManarin/ScreenToGif](https://reviewgithub.com/rep/NickeManarin/ScreenToGif)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18255 | 1880 | 
 | 2022-09-07 | 18240 | 1879 | 
 
-
-[Detailed charts & statistics for NickeManarin/ScreenToGif](https://reviewgithub.com/rep/NickeManarin/ScreenToGif)

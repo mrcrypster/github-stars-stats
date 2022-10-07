@@ -1,12 +1,14 @@
 # code-423n4/2022-06-notional-coop - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/code-423n4/2022-06-notional-coop)
+
+[Open detailed stats for code-423n4/2022-06-notional-coop](https://reviewgithub.com/rep/code-423n4/2022-06-notional-coop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 3 | 
 | 2022-09-08 | 1 | 3 | 
 
-
-[Detailed charts & statistics for code-423n4/2022-06-notional-coop](https://reviewgithub.com/rep/code-423n4/2022-06-notional-coop)

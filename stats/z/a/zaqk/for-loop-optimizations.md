@@ -1,12 +1,14 @@
 # zaqk/for-loop-optimizations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/zaqk/for-loop-optimizations)
+
+[Open detailed stats for zaqk/for-loop-optimizations](https://reviewgithub.com/rep/zaqk/for-loop-optimizations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
 
-
-[Detailed charts & statistics for zaqk/for-loop-optimizations](https://reviewgithub.com/rep/zaqk/for-loop-optimizations)

@@ -1,12 +1,14 @@
 # jeecgboot/ant-design-vue-jeecg - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 25
 
 [Open repository](https://github.com/jeecgboot/ant-design-vue-jeecg)
+
+[Open detailed stats for jeecgboot/ant-design-vue-jeecg](https://reviewgithub.com/rep/jeecgboot/ant-design-vue-jeecg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 12 | 23 | 
 | 2022-09-07 | 12 | 22 | 
 
-
-[Detailed charts & statistics for jeecgboot/ant-design-vue-jeecg](https://reviewgithub.com/rep/jeecgboot/ant-design-vue-jeecg)

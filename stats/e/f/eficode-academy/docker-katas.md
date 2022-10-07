@@ -1,12 +1,14 @@
 # eficode-academy/docker-katas - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 225
 
 ★ Stars: 154
 
 [Open repository](https://github.com/eficode-academy/docker-katas)
+
+[Open detailed stats for eficode-academy/docker-katas](https://reviewgithub.com/rep/eficode-academy/docker-katas)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 154 | 223 | 
 | 2022-09-08 | 154 | 223 | 
 
-
-[Detailed charts & statistics for eficode-academy/docker-katas](https://reviewgithub.com/rep/eficode-academy/docker-katas)

@@ -1,12 +1,14 @@
 # mojaloop/helm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 56
 
 ★ Stars: 14
 
 [Open repository](https://github.com/mojaloop/helm)
+
+[Open detailed stats for mojaloop/helm](https://reviewgithub.com/rep/mojaloop/helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 55 | 
 | 2022-09-08 | 14 | 55 | 
 
-
-[Detailed charts & statistics for mojaloop/helm](https://reviewgithub.com/rep/mojaloop/helm)

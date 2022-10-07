@@ -1,12 +1,14 @@
 # km-neuron/se-git-exercise - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 470
 
 ★ Stars: 9
 
 [Open repository](https://github.com/km-neuron/se-git-exercise)
+
+[Open detailed stats for km-neuron/se-git-exercise](https://reviewgithub.com/rep/km-neuron/se-git-exercise)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 5 | 335 | 
 | 2022-09-11 | 4 | 302 | 
 
-
-[Detailed charts & statistics for km-neuron/se-git-exercise](https://reviewgithub.com/rep/km-neuron/se-git-exercise)

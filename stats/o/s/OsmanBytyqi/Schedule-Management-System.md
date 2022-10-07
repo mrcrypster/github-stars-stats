@@ -1,12 +1,14 @@
 # OsmanBytyqi/Schedule-Management-System - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/OsmanBytyqi/Schedule-Management-System)
+
+[Open detailed stats for OsmanBytyqi/Schedule-Management-System](https://reviewgithub.com/rep/OsmanBytyqi/Schedule-Management-System)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 3 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for OsmanBytyqi/Schedule-Management-System](https://reviewgithub.com/rep/OsmanBytyqi/Schedule-Management-System)

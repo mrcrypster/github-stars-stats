@@ -1,12 +1,14 @@
 # Nyoho/chitanda.el - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Nyoho/chitanda.el)
+
+[Open detailed stats for Nyoho/chitanda.el](https://reviewgithub.com/rep/Nyoho/chitanda.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-29 | 1 | 2 | 
 | 2022-09-28 | 1 | 2 | 
 
-
-[Detailed charts & statistics for Nyoho/chitanda.el](https://reviewgithub.com/rep/Nyoho/chitanda.el)

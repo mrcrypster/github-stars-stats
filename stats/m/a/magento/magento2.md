@@ -1,12 +1,14 @@
 # magento/magento2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9039
 
 ★ Stars: 10268
 
 [Open repository](https://github.com/magento/magento2)
+
+[Open detailed stats for magento/magento2](https://reviewgithub.com/rep/magento/magento2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 10228 | 9016 | 
 | 2022-09-07 | 10229 | 9012 | 
 
-
-[Detailed charts & statistics for magento/magento2](https://reviewgithub.com/rep/magento/magento2)

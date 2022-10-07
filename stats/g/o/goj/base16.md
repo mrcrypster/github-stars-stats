@@ -1,12 +1,14 @@
 # goj/base16 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 18
 
 [Open repository](https://github.com/goj/base16)
+
+[Open detailed stats for goj/base16](https://reviewgithub.com/rep/goj/base16)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 18 | 8 | 
 | 2022-09-08 | 18 | 8 | 
 
-
-[Detailed charts & statistics for goj/base16](https://reviewgithub.com/rep/goj/base16)

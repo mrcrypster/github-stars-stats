@@ -1,12 +1,14 @@
 # yieldyak/yak-aggregator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 53
 
 [Open repository](https://github.com/yieldyak/yak-aggregator)
+
+[Open detailed stats for yieldyak/yak-aggregator](https://reviewgithub.com/rep/yieldyak/yak-aggregator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 50 | 19 | 
 | 2022-09-19 | 50 | 19 | 
 
-
-[Detailed charts & statistics for yieldyak/yak-aggregator](https://reviewgithub.com/rep/yieldyak/yak-aggregator)

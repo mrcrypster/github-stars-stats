@@ -1,12 +1,14 @@
 # Shikhar82/springboot-maven-nexus-deploy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Shikhar82/springboot-maven-nexus-deploy)
+
+[Open detailed stats for Shikhar82/springboot-maven-nexus-deploy](https://reviewgithub.com/rep/Shikhar82/springboot-maven-nexus-deploy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | - | 18 | 
 | 2022-09-23 | - | 18 | 
 
-
-[Detailed charts & statistics for Shikhar82/springboot-maven-nexus-deploy](https://reviewgithub.com/rep/Shikhar82/springboot-maven-nexus-deploy)

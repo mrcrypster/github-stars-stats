@@ -1,12 +1,14 @@
 # anderseknert/rego-test-assertions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/anderseknert/rego-test-assertions)
+
+[Open detailed stats for anderseknert/rego-test-assertions](https://reviewgithub.com/rep/anderseknert/rego-test-assertions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 17 | - | 
 | 2022-09-08 | 17 | - | 
 
-
-[Detailed charts & statistics for anderseknert/rego-test-assertions](https://reviewgithub.com/rep/anderseknert/rego-test-assertions)

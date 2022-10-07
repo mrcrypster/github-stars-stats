@@ -1,12 +1,14 @@
 # se331-2022/Lab04 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 0
 
 [Open repository](https://github.com/se331-2022/Lab04)
+
+[Open detailed stats for se331-2022/Lab04](https://reviewgithub.com/rep/se331-2022/Lab04)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 33 | 
 | 2022-09-07 | - | 33 | 
 
-
-[Detailed charts & statistics for se331-2022/Lab04](https://reviewgithub.com/rep/se331-2022/Lab04)

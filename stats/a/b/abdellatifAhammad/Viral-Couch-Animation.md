@@ -1,12 +1,14 @@
 # abdellatifAhammad/Viral-Couch-Animation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 16
 
 [Open repository](https://github.com/abdellatifAhammad/Viral-Couch-Animation)
+
+[Open detailed stats for abdellatifAhammad/Viral-Couch-Animation](https://reviewgithub.com/rep/abdellatifAhammad/Viral-Couch-Animation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 5 | 
 | 2022-09-07 | 17 | 5 | 
 
-
-[Detailed charts & statistics for abdellatifAhammad/Viral-Couch-Animation](https://reviewgithub.com/rep/abdellatifAhammad/Viral-Couch-Animation)

@@ -1,12 +1,14 @@
 # Disabled-Coding/dc-casino - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 32
 
 [Open repository](https://github.com/Disabled-Coding/dc-casino)
+
+[Open detailed stats for Disabled-Coding/dc-casino](https://reviewgithub.com/rep/Disabled-Coding/dc-casino)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 24 | 10 | 
 | 2022-09-22 | 24 | 10 | 
 
-
-[Detailed charts & statistics for Disabled-Coding/dc-casino](https://reviewgithub.com/rep/Disabled-Coding/dc-casino)

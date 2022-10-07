@@ -1,12 +1,14 @@
 # ryannair05/Little12 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 90
 
 [Open repository](https://github.com/ryannair05/Little12)
+
+[Open detailed stats for ryannair05/Little12](https://reviewgithub.com/rep/ryannair05/Little12)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 85 | 23 | 
 | 2022-09-07 | 85 | 23 | 
 
-
-[Detailed charts & statistics for ryannair05/Little12](https://reviewgithub.com/rep/ryannair05/Little12)

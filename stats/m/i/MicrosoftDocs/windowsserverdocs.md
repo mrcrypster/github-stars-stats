@@ -1,12 +1,14 @@
 # MicrosoftDocs/windowsserverdocs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1669
 
 ★ Stars: 1106
 
 [Open repository](https://github.com/MicrosoftDocs/windowsserverdocs)
+
+[Open detailed stats for MicrosoftDocs/windowsserverdocs](https://reviewgithub.com/rep/MicrosoftDocs/windowsserverdocs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1099 | 1655 | 
 | 2022-09-08 | 1099 | 1655 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/windowsserverdocs](https://reviewgithub.com/rep/MicrosoftDocs/windowsserverdocs)

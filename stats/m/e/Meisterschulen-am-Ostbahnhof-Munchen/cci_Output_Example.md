@@ -1,12 +1,14 @@
 # Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example)
+
+[Open detailed stats for Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example](https://reviewgithub.com/rep/Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 17 | 
 | 2022-09-07 | 1 | 17 | 
 
-
-[Detailed charts & statistics for Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example](https://reviewgithub.com/rep/Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example)

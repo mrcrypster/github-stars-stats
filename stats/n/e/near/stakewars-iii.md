@@ -1,12 +1,14 @@
 # near/stakewars-iii - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 180
 
 ★ Stars: 88
 
 [Open repository](https://github.com/near/stakewars-iii)
+
+[Open detailed stats for near/stakewars-iii](https://reviewgithub.com/rep/near/stakewars-iii)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 86 | 176 | 
 | 2022-09-08 | 85 | 176 | 
 
-
-[Detailed charts & statistics for near/stakewars-iii](https://reviewgithub.com/rep/near/stakewars-iii)

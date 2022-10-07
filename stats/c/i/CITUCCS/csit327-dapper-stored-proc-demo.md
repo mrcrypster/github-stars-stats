@@ -1,12 +1,14 @@
 # CITUCCS/csit327-dapper-stored-proc-demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/CITUCCS/csit327-dapper-stored-proc-demo)
+
+[Open detailed stats for CITUCCS/csit327-dapper-stored-proc-demo](https://reviewgithub.com/rep/CITUCCS/csit327-dapper-stored-proc-demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-29 | - | 3 | 
 | 2022-09-28 | - | 3 | 
 
-
-[Detailed charts & statistics for CITUCCS/csit327-dapper-stored-proc-demo](https://reviewgithub.com/rep/CITUCCS/csit327-dapper-stored-proc-demo)

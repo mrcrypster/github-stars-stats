@@ -1,12 +1,14 @@
 # villanuevawill/FiatSim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 18
 
 [Open repository](https://github.com/villanuevawill/FiatSim)
+
+[Open detailed stats for villanuevawill/FiatSim](https://reviewgithub.com/rep/villanuevawill/FiatSim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 6 | 
 | 2022-09-07 | 18 | 6 | 
 
-
-[Detailed charts & statistics for villanuevawill/FiatSim](https://reviewgithub.com/rep/villanuevawill/FiatSim)

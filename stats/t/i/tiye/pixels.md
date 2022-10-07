@@ -1,12 +1,14 @@
 # tiye/pixels - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/tiye/pixels)
+
+[Open detailed stats for tiye/pixels](https://reviewgithub.com/rep/tiye/pixels)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for tiye/pixels](https://reviewgithub.com/rep/tiye/pixels)

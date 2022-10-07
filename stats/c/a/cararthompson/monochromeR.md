@@ -1,12 +1,14 @@
 # cararthompson/monochromeR - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
 
 [Open repository](https://github.com/cararthompson/monochromeR)
+
+[Open detailed stats for cararthompson/monochromeR](https://reviewgithub.com/rep/cararthompson/monochromeR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 23 | - | 
 | 2022-10-02 | 23 | - | 
 
-
-[Detailed charts & statistics for cararthompson/monochromeR](https://reviewgithub.com/rep/cararthompson/monochromeR)

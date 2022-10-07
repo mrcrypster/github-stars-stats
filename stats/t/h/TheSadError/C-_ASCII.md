@@ -1,12 +1,14 @@
 # TheSadError/C-_ASCII - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 4
 
 [Open repository](https://github.com/TheSadError/C-_ASCII)
+
+[Open detailed stats for TheSadError/C-_ASCII](https://reviewgithub.com/rep/TheSadError/C-_ASCII)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 10 | 
 | 2022-09-07 | 4 | 10 | 
 
-
-[Detailed charts & statistics for TheSadError/C-_ASCII](https://reviewgithub.com/rep/TheSadError/C-_ASCII)

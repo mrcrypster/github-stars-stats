@@ -1,12 +1,14 @@
 # Data-Liberation-Front/csvlint.rb - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 247
 
 [Open repository](https://github.com/Data-Liberation-Front/csvlint.rb)
+
+[Open detailed stats for Data-Liberation-Front/csvlint.rb](https://reviewgithub.com/rep/Data-Liberation-Front/csvlint.rb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 247 | 82 | 
 | 2022-09-07 | 247 | 82 | 
 
-
-[Detailed charts & statistics for Data-Liberation-Front/csvlint.rb](https://reviewgithub.com/rep/Data-Liberation-Front/csvlint.rb)

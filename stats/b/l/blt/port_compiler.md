@@ -1,12 +1,14 @@
 # blt/port_compiler - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 59
 
 [Open repository](https://github.com/blt/port_compiler)
+
+[Open detailed stats for blt/port_compiler](https://reviewgithub.com/rep/blt/port_compiler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 59 | 32 | 
 | 2022-09-08 | 59 | 32 | 
 
-
-[Detailed charts & statistics for blt/port_compiler](https://reviewgithub.com/rep/blt/port_compiler)

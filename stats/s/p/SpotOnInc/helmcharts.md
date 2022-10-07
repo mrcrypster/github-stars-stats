@@ -1,12 +1,14 @@
 # SpotOnInc/helmcharts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/SpotOnInc/helmcharts)
+
+[Open detailed stats for SpotOnInc/helmcharts](https://reviewgithub.com/rep/SpotOnInc/helmcharts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for SpotOnInc/helmcharts](https://reviewgithub.com/rep/SpotOnInc/helmcharts)

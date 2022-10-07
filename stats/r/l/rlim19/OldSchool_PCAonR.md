@@ -1,12 +1,14 @@
 # rlim19/OldSchool_PCAonR - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/rlim19/OldSchool_PCAonR)
+
+[Open detailed stats for rlim19/OldSchool_PCAonR](https://reviewgithub.com/rep/rlim19/OldSchool_PCAonR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-25 | - | - | 
 | 2022-09-24 | - | - | 
 
-
-[Detailed charts & statistics for rlim19/OldSchool_PCAonR](https://reviewgithub.com/rep/rlim19/OldSchool_PCAonR)

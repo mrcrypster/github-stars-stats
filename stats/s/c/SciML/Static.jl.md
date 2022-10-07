@@ -1,12 +1,14 @@
 # SciML/Static.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 42
 
 [Open repository](https://github.com/SciML/Static.jl)
+
+[Open detailed stats for SciML/Static.jl](https://reviewgithub.com/rep/SciML/Static.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 8 | 
 | 2022-09-08 | 37 | 8 | 
 
-
-[Detailed charts & statistics for SciML/Static.jl](https://reviewgithub.com/rep/SciML/Static.jl)

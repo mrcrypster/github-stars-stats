@@ -1,12 +1,14 @@
 # code-423n4/2022-05-opensea-seaport - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 49
 
 [Open repository](https://github.com/code-423n4/2022-05-opensea-seaport)
+
+[Open detailed stats for code-423n4/2022-05-opensea-seaport](https://reviewgithub.com/rep/code-423n4/2022-05-opensea-seaport)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 14 | 
 | 2022-09-07 | 48 | 14 | 
 
-
-[Detailed charts & statistics for code-423n4/2022-05-opensea-seaport](https://reviewgithub.com/rep/code-423n4/2022-05-opensea-seaport)

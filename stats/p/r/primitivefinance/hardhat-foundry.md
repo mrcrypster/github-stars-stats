@@ -1,12 +1,14 @@
 # primitivefinance/hardhat-foundry - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 85
 
 [Open repository](https://github.com/primitivefinance/hardhat-foundry)
+
+[Open detailed stats for primitivefinance/hardhat-foundry](https://reviewgithub.com/rep/primitivefinance/hardhat-foundry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 85 | 8 | 
 | 2022-09-07 | 85 | 8 | 
 
-
-[Detailed charts & statistics for primitivefinance/hardhat-foundry](https://reviewgithub.com/rep/primitivefinance/hardhat-foundry)

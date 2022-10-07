@@ -1,12 +1,14 @@
 # mpeters/cgi--application--mailpage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/mpeters/cgi--application--mailpage)
+
+[Open detailed stats for mpeters/cgi--application--mailpage](https://reviewgithub.com/rep/mpeters/cgi--application--mailpage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for mpeters/cgi--application--mailpage](https://reviewgithub.com/rep/mpeters/cgi--application--mailpage)

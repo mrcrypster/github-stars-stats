@@ -1,12 +1,14 @@
 # ekzhang/classes.wtf - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 198
 
 [Open repository](https://github.com/ekzhang/classes.wtf)
+
+[Open detailed stats for ekzhang/classes.wtf](https://reviewgithub.com/rep/ekzhang/classes.wtf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 192 | 10 | 
 | 2022-09-07 | 193 | 10 | 
 
-
-[Detailed charts & statistics for ekzhang/classes.wtf](https://reviewgithub.com/rep/ekzhang/classes.wtf)

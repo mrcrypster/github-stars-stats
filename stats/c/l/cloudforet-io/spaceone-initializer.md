@@ -1,12 +1,14 @@
 # cloudforet-io/spaceone-initializer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/cloudforet-io/spaceone-initializer)
+
+[Open detailed stats for cloudforet-io/spaceone-initializer](https://reviewgithub.com/rep/cloudforet-io/spaceone-initializer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for cloudforet-io/spaceone-initializer](https://reviewgithub.com/rep/cloudforet-io/spaceone-initializer)

@@ -1,12 +1,14 @@
 # wyeworks/boom - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 73
 
 [Open repository](https://github.com/wyeworks/boom)
+
+[Open detailed stats for wyeworks/boom](https://reviewgithub.com/rep/wyeworks/boom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 73 | 10 | 
 | 2022-09-07 | 73 | 10 | 
 
-
-[Detailed charts & statistics for wyeworks/boom](https://reviewgithub.com/rep/wyeworks/boom)

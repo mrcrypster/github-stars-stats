@@ -1,12 +1,14 @@
 # evsar3/sshfs-win-manager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 62
 
 ★ Stars: 630
 
 [Open repository](https://github.com/evsar3/sshfs-win-manager)
+
+[Open detailed stats for evsar3/sshfs-win-manager](https://reviewgithub.com/rep/evsar3/sshfs-win-manager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 612 | 62 | 
 | 2022-09-08 | 612 | 62 | 
 
-
-[Detailed charts & statistics for evsar3/sshfs-win-manager](https://reviewgithub.com/rep/evsar3/sshfs-win-manager)

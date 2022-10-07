@@ -1,12 +1,14 @@
 # poap-xyz/poap-contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 184
 
 [Open repository](https://github.com/poap-xyz/poap-contracts)
+
+[Open detailed stats for poap-xyz/poap-contracts](https://reviewgithub.com/rep/poap-xyz/poap-contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 180 | 57 | 
 | 2022-09-07 | 180 | 57 | 
 
-
-[Detailed charts & statistics for poap-xyz/poap-contracts](https://reviewgithub.com/rep/poap-xyz/poap-contracts)

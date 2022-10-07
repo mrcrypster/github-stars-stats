@@ -1,12 +1,14 @@
 # couchbaselabs/iOS-Couchbase - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 406
 
 [Open repository](https://github.com/couchbaselabs/iOS-Couchbase)
+
+[Open detailed stats for couchbaselabs/iOS-Couchbase](https://reviewgithub.com/rep/couchbaselabs/iOS-Couchbase)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 406 | 32 | 
 | 2022-09-08 | 406 | 32 | 
 
-
-[Detailed charts & statistics for couchbaselabs/iOS-Couchbase](https://reviewgithub.com/rep/couchbaselabs/iOS-Couchbase)

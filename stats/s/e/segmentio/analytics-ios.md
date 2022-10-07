@@ -1,12 +1,14 @@
 # segmentio/analytics-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 326
 
 ★ Stars: 380
 
 [Open repository](https://github.com/segmentio/analytics-ios)
+
+[Open detailed stats for segmentio/analytics-ios](https://reviewgithub.com/rep/segmentio/analytics-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 380 | 327 | 
 | 2022-09-08 | 380 | 327 | 
 
-
-[Detailed charts & statistics for segmentio/analytics-ios](https://reviewgithub.com/rep/segmentio/analytics-ios)

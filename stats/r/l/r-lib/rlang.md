@@ -1,12 +1,14 @@
 # r-lib/rlang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 116
 
 ★ Stars: 407
 
 [Open repository](https://github.com/r-lib/rlang)
+
+[Open detailed stats for r-lib/rlang](https://reviewgithub.com/rep/r-lib/rlang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 400 | 116 | 
 | 2022-09-08 | 400 | 116 | 
 
-
-[Detailed charts & statistics for r-lib/rlang](https://reviewgithub.com/rep/r-lib/rlang)

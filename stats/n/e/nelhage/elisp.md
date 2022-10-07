@@ -1,12 +1,14 @@
 # nelhage/elisp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 38
 
 [Open repository](https://github.com/nelhage/elisp)
+
+[Open detailed stats for nelhage/elisp](https://reviewgithub.com/rep/nelhage/elisp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 37 | 4 | 
 | 2022-09-08 | 37 | 4 | 
 
-
-[Detailed charts & statistics for nelhage/elisp](https://reviewgithub.com/rep/nelhage/elisp)

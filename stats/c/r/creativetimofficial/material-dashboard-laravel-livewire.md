@@ -1,12 +1,14 @@
 # creativetimofficial/material-dashboard-laravel-livewire - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 2
 
 [Open repository](https://github.com/creativetimofficial/material-dashboard-laravel-livewire)
+
+[Open detailed stats for creativetimofficial/material-dashboard-laravel-livewire](https://reviewgithub.com/rep/creativetimofficial/material-dashboard-laravel-livewire)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 12 | 
 | 2022-09-08 | 2 | 12 | 
 
-
-[Detailed charts & statistics for creativetimofficial/material-dashboard-laravel-livewire](https://reviewgithub.com/rep/creativetimofficial/material-dashboard-laravel-livewire)

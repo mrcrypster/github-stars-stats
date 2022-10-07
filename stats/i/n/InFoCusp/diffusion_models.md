@@ -1,12 +1,14 @@
 # InFoCusp/diffusion_models - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 133
 
 [Open repository](https://github.com/InFoCusp/diffusion_models)
+
+[Open detailed stats for InFoCusp/diffusion_models](https://reviewgithub.com/rep/InFoCusp/diffusion_models)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 128 | 9 | 
 | 2022-09-07 | 128 | 9 | 
 
-
-[Detailed charts & statistics for InFoCusp/diffusion_models](https://reviewgithub.com/rep/InFoCusp/diffusion_models)

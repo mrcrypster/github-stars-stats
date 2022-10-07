@@ -1,12 +1,14 @@
 # JordanMarr/fable-lit-fullstack-template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 36
 
 [Open repository](https://github.com/JordanMarr/fable-lit-fullstack-template)
+
+[Open detailed stats for JordanMarr/fable-lit-fullstack-template](https://reviewgithub.com/rep/JordanMarr/fable-lit-fullstack-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 35 | 1 | 
 | 2022-09-08 | 35 | 1 | 
 
-
-[Detailed charts & statistics for JordanMarr/fable-lit-fullstack-template](https://reviewgithub.com/rep/JordanMarr/fable-lit-fullstack-template)

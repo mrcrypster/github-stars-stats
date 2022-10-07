@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-control-flow-conditional-statements - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1633
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-control-flow-conditional-statements)
+
+[Open detailed stats for learn-co-curriculum/phase-3-control-flow-conditional-statements](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-control-flow-conditional-statements)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1557 | 
 | 2022-09-07 | 1 | 1553 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-control-flow-conditional-statements](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-control-flow-conditional-statements)

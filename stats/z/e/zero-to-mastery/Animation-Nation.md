@@ -1,12 +1,14 @@
 # zero-to-mastery/Animation-Nation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2586
 
 ★ Stars: 157
 
 [Open repository](https://github.com/zero-to-mastery/Animation-Nation)
+
+[Open detailed stats for zero-to-mastery/Animation-Nation](https://reviewgithub.com/rep/zero-to-mastery/Animation-Nation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 153 | 2531 | 
 | 2022-09-07 | 153 | 2527 | 
 
-
-[Detailed charts & statistics for zero-to-mastery/Animation-Nation](https://reviewgithub.com/rep/zero-to-mastery/Animation-Nation)

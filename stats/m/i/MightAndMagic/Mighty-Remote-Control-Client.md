@@ -1,12 +1,14 @@
 # MightAndMagic/Mighty-Remote-Control-Client - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/MightAndMagic/Mighty-Remote-Control-Client)
+
+[Open detailed stats for MightAndMagic/Mighty-Remote-Control-Client](https://reviewgithub.com/rep/MightAndMagic/Mighty-Remote-Control-Client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 5 | - | 
 
-
-[Detailed charts & statistics for MightAndMagic/Mighty-Remote-Control-Client](https://reviewgithub.com/rep/MightAndMagic/Mighty-Remote-Control-Client)

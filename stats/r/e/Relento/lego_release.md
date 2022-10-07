@@ -1,12 +1,14 @@
 # Relento/lego_release - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 193
 
 [Open repository](https://github.com/Relento/lego_release)
+
+[Open detailed stats for Relento/lego_release](https://reviewgithub.com/rep/Relento/lego_release)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 181 | 8 | 
 | 2022-09-07 | 180 | 8 | 
 
-
-[Detailed charts & statistics for Relento/lego_release](https://reviewgithub.com/rep/Relento/lego_release)

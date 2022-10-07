@@ -1,12 +1,14 @@
 # gaih/introduction-to-machine-learning - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 71
 
 ★ Stars: 106
 
 [Open repository](https://github.com/gaih/introduction-to-machine-learning)
+
+[Open detailed stats for gaih/introduction-to-machine-learning](https://reviewgithub.com/rep/gaih/introduction-to-machine-learning)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 104 | 72 | 
 | 2022-09-08 | 104 | 72 | 
 
-
-[Detailed charts & statistics for gaih/introduction-to-machine-learning](https://reviewgithub.com/rep/gaih/introduction-to-machine-learning)

@@ -1,12 +1,14 @@
 # vajrang-b/RPA-Developer-in-30-Days - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 215
 
 ★ Stars: 9
 
 [Open repository](https://github.com/vajrang-b/RPA-Developer-in-30-Days)
+
+[Open detailed stats for vajrang-b/RPA-Developer-in-30-Days](https://reviewgithub.com/rep/vajrang-b/RPA-Developer-in-30-Days)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 206 | 
 | 2022-09-08 | 9 | 206 | 
 
-
-[Detailed charts & statistics for vajrang-b/RPA-Developer-in-30-Days](https://reviewgithub.com/rep/vajrang-b/RPA-Developer-in-30-Days)

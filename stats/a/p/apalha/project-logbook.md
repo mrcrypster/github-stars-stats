@@ -1,12 +1,14 @@
 # apalha/project-logbook - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 18
 
 [Open repository](https://github.com/apalha/project-logbook)
+
+[Open detailed stats for apalha/project-logbook](https://reviewgithub.com/rep/apalha/project-logbook)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 2 | 
 | 2022-09-07 | 16 | 2 | 
 
-
-[Detailed charts & statistics for apalha/project-logbook](https://reviewgithub.com/rep/apalha/project-logbook)

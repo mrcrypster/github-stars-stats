@@ -1,12 +1,14 @@
 # mulesoft/data-weave-mock-data-generators-library - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/mulesoft/data-weave-mock-data-generators-library)
+
+[Open detailed stats for mulesoft/data-weave-mock-data-generators-library](https://reviewgithub.com/rep/mulesoft/data-weave-mock-data-generators-library)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 1 | 
 | 2022-09-07 | 2 | 1 | 
 
-
-[Detailed charts & statistics for mulesoft/data-weave-mock-data-generators-library](https://reviewgithub.com/rep/mulesoft/data-weave-mock-data-generators-library)

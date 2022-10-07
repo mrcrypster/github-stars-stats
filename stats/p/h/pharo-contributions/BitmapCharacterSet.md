@@ -1,12 +1,14 @@
 # pharo-contributions/BitmapCharacterSet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/pharo-contributions/BitmapCharacterSet)
+
+[Open detailed stats for pharo-contributions/BitmapCharacterSet](https://reviewgithub.com/rep/pharo-contributions/BitmapCharacterSet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 2 | 
 | 2022-09-08 | 2 | 2 | 
 
-
-[Detailed charts & statistics for pharo-contributions/BitmapCharacterSet](https://reviewgithub.com/rep/pharo-contributions/BitmapCharacterSet)

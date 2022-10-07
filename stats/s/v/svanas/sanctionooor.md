@@ -1,12 +1,14 @@
 # svanas/sanctionooor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
 
 [Open repository](https://github.com/svanas/sanctionooor)
+
+[Open detailed stats for svanas/sanctionooor](https://reviewgithub.com/rep/svanas/sanctionooor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 1 | 
 | 2022-09-07 | 9 | 1 | 
 
-
-[Detailed charts & statistics for svanas/sanctionooor](https://reviewgithub.com/rep/svanas/sanctionooor)

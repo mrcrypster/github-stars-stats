@@ -1,12 +1,14 @@
 # slackhq/slack-gradle-plugin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 294
 
 [Open repository](https://github.com/slackhq/slack-gradle-plugin)
+
+[Open detailed stats for slackhq/slack-gradle-plugin](https://reviewgithub.com/rep/slackhq/slack-gradle-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 277 | 9 | 
 | 2022-09-07 | 272 | 9 | 
 
-
-[Detailed charts & statistics for slackhq/slack-gradle-plugin](https://reviewgithub.com/rep/slackhq/slack-gradle-plugin)

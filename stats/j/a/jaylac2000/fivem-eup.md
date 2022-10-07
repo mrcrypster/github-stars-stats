@@ -1,12 +1,14 @@
 # jaylac2000/fivem-eup - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 15
 
 [Open repository](https://github.com/jaylac2000/fivem-eup)
+
+[Open detailed stats for jaylac2000/fivem-eup](https://reviewgithub.com/rep/jaylac2000/fivem-eup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 8 | 
 | 2022-09-08 | 16 | 8 | 
 
-
-[Detailed charts & statistics for jaylac2000/fivem-eup](https://reviewgithub.com/rep/jaylac2000/fivem-eup)

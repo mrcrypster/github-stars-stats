@@ -1,12 +1,14 @@
 # Rick-mad-lab/Todolist - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 21
 
 [Open repository](https://github.com/Rick-mad-lab/Todolist)
+
+[Open detailed stats for Rick-mad-lab/Todolist](https://reviewgithub.com/rep/Rick-mad-lab/Todolist)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 20 | 24 | 
 | 2022-10-04 | 19 | 24 | 
 
-
-[Detailed charts & statistics for Rick-mad-lab/Todolist](https://reviewgithub.com/rep/Rick-mad-lab/Todolist)

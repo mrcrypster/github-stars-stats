@@ -1,12 +1,14 @@
 # agg23/analogue-arduboy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 39
 
 [Open repository](https://github.com/agg23/analogue-arduboy)
+
+[Open detailed stats for agg23/analogue-arduboy](https://reviewgithub.com/rep/agg23/analogue-arduboy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | - | 
 | 2022-09-08 | 27 | - | 
 
-
-[Detailed charts & statistics for agg23/analogue-arduboy](https://reviewgithub.com/rep/agg23/analogue-arduboy)

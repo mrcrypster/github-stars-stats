@@ -1,12 +1,14 @@
 # LinghaoChan/CSSummerCamp2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 265
 
 ★ Stars: 1366
 
 [Open repository](https://github.com/LinghaoChan/CSSummerCamp2022)
+
+[Open detailed stats for LinghaoChan/CSSummerCamp2022](https://reviewgithub.com/rep/LinghaoChan/CSSummerCamp2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1375 | 272 | 
 | 2022-09-07 | 1375 | 272 | 
 
-
-[Detailed charts & statistics for LinghaoChan/CSSummerCamp2022](https://reviewgithub.com/rep/LinghaoChan/CSSummerCamp2022)

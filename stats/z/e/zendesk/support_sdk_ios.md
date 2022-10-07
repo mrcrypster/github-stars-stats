@@ -1,12 +1,14 @@
 # zendesk/support_sdk_ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 31
 
 [Open repository](https://github.com/zendesk/support_sdk_ios)
+
+[Open detailed stats for zendesk/support_sdk_ios](https://reviewgithub.com/rep/zendesk/support_sdk_ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 31 | 29 | 
 | 2022-09-08 | 31 | 29 | 
 
-
-[Detailed charts & statistics for zendesk/support_sdk_ios](https://reviewgithub.com/rep/zendesk/support_sdk_ios)

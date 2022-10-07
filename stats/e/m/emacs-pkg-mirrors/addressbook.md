@@ -1,12 +1,14 @@
 # emacs-pkg-mirrors/addressbook - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/emacs-pkg-mirrors/addressbook)
+
+[Open detailed stats for emacs-pkg-mirrors/addressbook](https://reviewgithub.com/rep/emacs-pkg-mirrors/addressbook)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for emacs-pkg-mirrors/addressbook](https://reviewgithub.com/rep/emacs-pkg-mirrors/addressbook)

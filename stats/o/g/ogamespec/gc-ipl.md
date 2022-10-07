@@ -1,12 +1,14 @@
 # ogamespec/gc-ipl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 28
 
 [Open repository](https://github.com/ogamespec/gc-ipl)
+
+[Open detailed stats for ogamespec/gc-ipl](https://reviewgithub.com/rep/ogamespec/gc-ipl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 28 | 3 | 
 | 2022-09-08 | 28 | 3 | 
 
-
-[Detailed charts & statistics for ogamespec/gc-ipl](https://reviewgithub.com/rep/ogamespec/gc-ipl)

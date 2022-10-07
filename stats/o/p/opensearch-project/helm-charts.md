@@ -1,12 +1,14 @@
 # opensearch-project/helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 132
 
 ★ Stars: 85
 
 [Open repository](https://github.com/opensearch-project/helm-charts)
+
+[Open detailed stats for opensearch-project/helm-charts](https://reviewgithub.com/rep/opensearch-project/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 85 | 133 | 
 | 2022-09-07 | 85 | 133 | 
 
-
-[Detailed charts & statistics for opensearch-project/helm-charts](https://reviewgithub.com/rep/opensearch-project/helm-charts)

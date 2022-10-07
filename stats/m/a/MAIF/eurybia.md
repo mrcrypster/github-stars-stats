@@ -1,12 +1,14 @@
 # MAIF/eurybia - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 162
 
 [Open repository](https://github.com/MAIF/eurybia)
+
+[Open detailed stats for MAIF/eurybia](https://reviewgithub.com/rep/MAIF/eurybia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 145 | 14 | 
 | 2022-09-07 | 145 | 14 | 
 
-
-[Detailed charts & statistics for MAIF/eurybia](https://reviewgithub.com/rep/MAIF/eurybia)

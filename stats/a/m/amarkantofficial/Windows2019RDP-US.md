@@ -1,12 +1,14 @@
 # amarkantofficial/Windows2019RDP-US - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 0
 
 [Open repository](https://github.com/amarkantofficial/Windows2019RDP-US)
+
+[Open detailed stats for amarkantofficial/Windows2019RDP-US](https://reviewgithub.com/rep/amarkantofficial/Windows2019RDP-US)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 40 | 
 | 2022-09-07 | - | 40 | 
 
-
-[Detailed charts & statistics for amarkantofficial/Windows2019RDP-US](https://reviewgithub.com/rep/amarkantofficial/Windows2019RDP-US)

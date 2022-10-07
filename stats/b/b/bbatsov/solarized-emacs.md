@@ -1,12 +1,14 @@
 # bbatsov/solarized-emacs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 169
 
 ★ Stars: 703
 
 [Open repository](https://github.com/bbatsov/solarized-emacs)
+
+[Open detailed stats for bbatsov/solarized-emacs](https://reviewgithub.com/rep/bbatsov/solarized-emacs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 701 | 169 | 
 | 2022-09-08 | 701 | 169 | 
 
-
-[Detailed charts & statistics for bbatsov/solarized-emacs](https://reviewgithub.com/rep/bbatsov/solarized-emacs)

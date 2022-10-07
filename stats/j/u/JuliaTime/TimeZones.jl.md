@@ -1,12 +1,14 @@
 # JuliaTime/TimeZones.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 66
 
 [Open repository](https://github.com/JuliaTime/TimeZones.jl)
+
+[Open detailed stats for JuliaTime/TimeZones.jl](https://reviewgithub.com/rep/JuliaTime/TimeZones.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 65 | 42 | 
 | 2022-09-08 | 65 | 42 | 
 
-
-[Detailed charts & statistics for JuliaTime/TimeZones.jl](https://reviewgithub.com/rep/JuliaTime/TimeZones.jl)

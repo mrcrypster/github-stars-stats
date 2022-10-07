@@ -1,12 +1,14 @@
 # agdestein/IncompressibleNavierStokes.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 18
 
 [Open repository](https://github.com/agdestein/IncompressibleNavierStokes.jl)
+
+[Open detailed stats for agdestein/IncompressibleNavierStokes.jl](https://reviewgithub.com/rep/agdestein/IncompressibleNavierStokes.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | 1 | 
 | 2022-09-08 | 18 | 1 | 
 
-
-[Detailed charts & statistics for agdestein/IncompressibleNavierStokes.jl](https://reviewgithub.com/rep/agdestein/IncompressibleNavierStokes.jl)

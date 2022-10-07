@@ -1,12 +1,14 @@
 # rlleshi/phar - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 100
 
 [Open repository](https://github.com/rlleshi/phar)
+
+[Open detailed stats for rlleshi/phar](https://reviewgithub.com/rep/rlleshi/phar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 97 | 10 | 
 | 2022-09-07 | 97 | 10 | 
 
-
-[Detailed charts & statistics for rlleshi/phar](https://reviewgithub.com/rep/rlleshi/phar)

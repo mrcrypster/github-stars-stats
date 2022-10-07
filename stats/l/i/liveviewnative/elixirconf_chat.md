@@ -1,12 +1,14 @@
 # liveviewnative/elixirconf_chat - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 67
 
 [Open repository](https://github.com/liveviewnative/elixirconf_chat)
+
+[Open detailed stats for liveviewnative/elixirconf_chat](https://reviewgithub.com/rep/liveviewnative/elixirconf_chat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 59 | 7 | 
 | 2022-09-08 | 54 | 6 | 
 
-
-[Detailed charts & statistics for liveviewnative/elixirconf_chat](https://reviewgithub.com/rep/liveviewnative/elixirconf_chat)

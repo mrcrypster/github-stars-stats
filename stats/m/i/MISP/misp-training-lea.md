@@ -1,12 +1,14 @@
 # MISP/misp-training-lea - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 22
 
 [Open repository](https://github.com/MISP/misp-training-lea)
+
+[Open detailed stats for MISP/misp-training-lea](https://reviewgithub.com/rep/MISP/misp-training-lea)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 6 | 
 | 2022-09-08 | 21 | 6 | 
 
-
-[Detailed charts & statistics for MISP/misp-training-lea](https://reviewgithub.com/rep/MISP/misp-training-lea)

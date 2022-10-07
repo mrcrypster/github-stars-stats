@@ -1,12 +1,14 @@
 # SmaCCRefactoring/SmaCC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 29
 
 [Open repository](https://github.com/SmaCCRefactoring/SmaCC)
+
+[Open detailed stats for SmaCCRefactoring/SmaCC](https://reviewgithub.com/rep/SmaCCRefactoring/SmaCC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 29 | 11 | 
 | 2022-09-08 | 29 | 11 | 
 
-
-[Detailed charts & statistics for SmaCCRefactoring/SmaCC](https://reviewgithub.com/rep/SmaCCRefactoring/SmaCC)

@@ -1,12 +1,14 @@
 # wch/staticimports - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 44
 
 [Open repository](https://github.com/wch/staticimports)
+
+[Open detailed stats for wch/staticimports](https://reviewgithub.com/rep/wch/staticimports)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 6 | 
 | 2022-09-07 | 44 | 6 | 
 
-
-[Detailed charts & statistics for wch/staticimports](https://reviewgithub.com/rep/wch/staticimports)

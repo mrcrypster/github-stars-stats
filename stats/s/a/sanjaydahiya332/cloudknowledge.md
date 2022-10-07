@@ -1,12 +1,14 @@
 # sanjaydahiya332/cloudknowledge - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sanjaydahiya332/cloudknowledge)
+
+[Open detailed stats for sanjaydahiya332/cloudknowledge](https://reviewgithub.com/rep/sanjaydahiya332/cloudknowledge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 71 | 
 | 2022-09-07 | - | 71 | 
 
-
-[Detailed charts & statistics for sanjaydahiya332/cloudknowledge](https://reviewgithub.com/rep/sanjaydahiya332/cloudknowledge)

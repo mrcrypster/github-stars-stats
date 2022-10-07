@@ -1,12 +1,14 @@
 # ProjectOpenSea/seaport-order-validator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 36
 
 [Open repository](https://github.com/ProjectOpenSea/seaport-order-validator)
+
+[Open detailed stats for ProjectOpenSea/seaport-order-validator](https://reviewgithub.com/rep/ProjectOpenSea/seaport-order-validator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | - | 
 | 2022-09-07 | 33 | - | 
 
-
-[Detailed charts & statistics for ProjectOpenSea/seaport-order-validator](https://reviewgithub.com/rep/ProjectOpenSea/seaport-order-validator)

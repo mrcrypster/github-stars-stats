@@ -1,12 +1,14 @@
 # larics/icuas22_competition - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 17
 
 [Open repository](https://github.com/larics/icuas22_competition)
+
+[Open detailed stats for larics/icuas22_competition](https://reviewgithub.com/rep/larics/icuas22_competition)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 5 | 
 | 2022-09-07 | 17 | 5 | 
 
-
-[Detailed charts & statistics for larics/icuas22_competition](https://reviewgithub.com/rep/larics/icuas22_competition)

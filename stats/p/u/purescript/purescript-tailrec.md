@@ -1,12 +1,14 @@
 # purescript/purescript-tailrec - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 35
 
 [Open repository](https://github.com/purescript/purescript-tailrec)
+
+[Open detailed stats for purescript/purescript-tailrec](https://reviewgithub.com/rep/purescript/purescript-tailrec)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 35 | 20 | 
 | 2022-09-08 | 35 | 20 | 
 
-
-[Detailed charts & statistics for purescript/purescript-tailrec](https://reviewgithub.com/rep/purescript/purescript-tailrec)

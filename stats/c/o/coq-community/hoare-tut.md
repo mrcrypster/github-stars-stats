@@ -1,12 +1,14 @@
 # coq-community/hoare-tut - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 15
 
 [Open repository](https://github.com/coq-community/hoare-tut)
+
+[Open detailed stats for coq-community/hoare-tut](https://reviewgithub.com/rep/coq-community/hoare-tut)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 2 | 
 | 2022-09-08 | 14 | 2 | 
 
-
-[Detailed charts & statistics for coq-community/hoare-tut](https://reviewgithub.com/rep/coq-community/hoare-tut)

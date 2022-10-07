@@ -1,12 +1,14 @@
 # hashicorp/terraform-docs-agents - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/hashicorp/terraform-docs-agents)
+
+[Open detailed stats for hashicorp/terraform-docs-agents](https://reviewgithub.com/rep/hashicorp/terraform-docs-agents)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 3 | 
 | 2022-09-08 | 2 | 3 | 
 
-
-[Detailed charts & statistics for hashicorp/terraform-docs-agents](https://reviewgithub.com/rep/hashicorp/terraform-docs-agents)

@@ -1,12 +1,14 @@
 # matsuu/aws-isucon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 157
 
 [Open repository](https://github.com/matsuu/aws-isucon)
+
+[Open detailed stats for matsuu/aws-isucon](https://reviewgithub.com/rep/matsuu/aws-isucon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 157 | 12 | 
 | 2022-09-07 | 157 | 12 | 
 
-
-[Detailed charts & statistics for matsuu/aws-isucon](https://reviewgithub.com/rep/matsuu/aws-isucon)

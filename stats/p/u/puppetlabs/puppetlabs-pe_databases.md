@@ -1,12 +1,14 @@
 # puppetlabs/puppetlabs-pe_databases - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 9
 
 [Open repository](https://github.com/puppetlabs/puppetlabs-pe_databases)
+
+[Open detailed stats for puppetlabs/puppetlabs-pe_databases](https://reviewgithub.com/rep/puppetlabs/puppetlabs-pe_databases)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 8 | 27 | 
 | 2022-09-07 | 8 | 27 | 
 
-
-[Detailed charts & statistics for puppetlabs/puppetlabs-pe_databases](https://reviewgithub.com/rep/puppetlabs/puppetlabs-pe_databases)

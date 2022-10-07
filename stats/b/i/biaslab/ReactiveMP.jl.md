@@ -1,12 +1,14 @@
 # biaslab/ReactiveMP.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 63
 
 [Open repository](https://github.com/biaslab/ReactiveMP.jl)
+
+[Open detailed stats for biaslab/ReactiveMP.jl](https://reviewgithub.com/rep/biaslab/ReactiveMP.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 60 | 9 | 
 | 2022-09-08 | 60 | 9 | 
 
-
-[Detailed charts & statistics for biaslab/ReactiveMP.jl](https://reviewgithub.com/rep/biaslab/ReactiveMP.jl)

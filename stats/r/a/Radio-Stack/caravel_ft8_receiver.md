@@ -1,12 +1,14 @@
 # Radio-Stack/caravel_ft8_receiver - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 41
 
 [Open repository](https://github.com/Radio-Stack/caravel_ft8_receiver)
+
+[Open detailed stats for Radio-Stack/caravel_ft8_receiver](https://reviewgithub.com/rep/Radio-Stack/caravel_ft8_receiver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 16 | 1 | 
 | 2022-09-15 | 15 | 1 | 
 
-
-[Detailed charts & statistics for Radio-Stack/caravel_ft8_receiver](https://reviewgithub.com/rep/Radio-Stack/caravel_ft8_receiver)

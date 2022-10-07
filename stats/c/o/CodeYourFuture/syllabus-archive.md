@@ -1,12 +1,14 @@
 # CodeYourFuture/syllabus-archive - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 121
 
 ★ Stars: 75
 
 [Open repository](https://github.com/CodeYourFuture/syllabus-archive)
+
+[Open detailed stats for CodeYourFuture/syllabus-archive](https://reviewgithub.com/rep/CodeYourFuture/syllabus-archive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 75 | 121 | 
 | 2022-09-08 | 75 | 121 | 
 
-
-[Detailed charts & statistics for CodeYourFuture/syllabus-archive](https://reviewgithub.com/rep/CodeYourFuture/syllabus-archive)

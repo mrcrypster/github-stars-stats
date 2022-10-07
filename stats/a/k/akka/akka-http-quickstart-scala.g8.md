@@ -1,12 +1,14 @@
 # akka/akka-http-quickstart-scala.g8 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 53
 
 ★ Stars: 121
 
 [Open repository](https://github.com/akka/akka-http-quickstart-scala.g8)
+
+[Open detailed stats for akka/akka-http-quickstart-scala.g8](https://reviewgithub.com/rep/akka/akka-http-quickstart-scala.g8)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 122 | 53 | 
 | 2022-09-07 | 122 | 53 | 
 
-
-[Detailed charts & statistics for akka/akka-http-quickstart-scala.g8](https://reviewgithub.com/rep/akka/akka-http-quickstart-scala.g8)

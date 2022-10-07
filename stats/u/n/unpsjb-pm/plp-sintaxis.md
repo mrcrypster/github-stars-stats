@@ -1,12 +1,14 @@
 # unpsjb-pm/plp-sintaxis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/unpsjb-pm/plp-sintaxis)
+
+[Open detailed stats for unpsjb-pm/plp-sintaxis](https://reviewgithub.com/rep/unpsjb-pm/plp-sintaxis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for unpsjb-pm/plp-sintaxis](https://reviewgithub.com/rep/unpsjb-pm/plp-sintaxis)

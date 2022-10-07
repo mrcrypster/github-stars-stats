@@ -1,12 +1,14 @@
 # jonstipe/datetime-local-polyfill - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 9
 
 [Open repository](https://github.com/jonstipe/datetime-local-polyfill)
+
+[Open detailed stats for jonstipe/datetime-local-polyfill](https://reviewgithub.com/rep/jonstipe/datetime-local-polyfill)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 10 | 
 | 2022-09-07 | 9 | 10 | 
 
-
-[Detailed charts & statistics for jonstipe/datetime-local-polyfill](https://reviewgithub.com/rep/jonstipe/datetime-local-polyfill)

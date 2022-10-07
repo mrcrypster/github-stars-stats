@@ -1,12 +1,14 @@
 # elipousson/sfext - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 13
 
 [Open repository](https://github.com/elipousson/sfext)
+
+[Open detailed stats for elipousson/sfext](https://reviewgithub.com/rep/elipousson/sfext)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | - | 
 | 2022-09-08 | 13 | - | 
 
-
-[Detailed charts & statistics for elipousson/sfext](https://reviewgithub.com/rep/elipousson/sfext)

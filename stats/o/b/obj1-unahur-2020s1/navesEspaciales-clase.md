@@ -1,12 +1,14 @@
 # obj1-unahur-2020s1/navesEspaciales-clase - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 1
 
 [Open repository](https://github.com/obj1-unahur-2020s1/navesEspaciales-clase)
+
+[Open detailed stats for obj1-unahur-2020s1/navesEspaciales-clase](https://reviewgithub.com/rep/obj1-unahur-2020s1/navesEspaciales-clase)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 39 | 
 | 2022-09-07 | 1 | 39 | 
 
-
-[Detailed charts & statistics for obj1-unahur-2020s1/navesEspaciales-clase](https://reviewgithub.com/rep/obj1-unahur-2020s1/navesEspaciales-clase)

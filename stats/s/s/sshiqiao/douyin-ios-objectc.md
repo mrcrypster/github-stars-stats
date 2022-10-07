@@ -1,12 +1,14 @@
 # sshiqiao/douyin-ios-objectc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 622
 
 ★ Stars: 2164
 
 [Open repository](https://github.com/sshiqiao/douyin-ios-objectc)
+
+[Open detailed stats for sshiqiao/douyin-ios-objectc](https://reviewgithub.com/rep/sshiqiao/douyin-ios-objectc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2151 | 617 | 
 | 2022-09-08 | 2149 | 615 | 
 
-
-[Detailed charts & statistics for sshiqiao/douyin-ios-objectc](https://reviewgithub.com/rep/sshiqiao/douyin-ios-objectc)

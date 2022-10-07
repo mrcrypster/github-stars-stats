@@ -1,12 +1,14 @@
 # coq-community/reglang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 29
 
 [Open repository](https://github.com/coq-community/reglang)
+
+[Open detailed stats for coq-community/reglang](https://reviewgithub.com/rep/coq-community/reglang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 4 | 
 | 2022-09-08 | 29 | 4 | 
 
-
-[Detailed charts & statistics for coq-community/reglang](https://reviewgithub.com/rep/coq-community/reglang)

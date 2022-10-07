@@ -1,12 +1,14 @@
 # sifive/sifive-blocks - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 81
 
 ★ Stars: 157
 
 [Open repository](https://github.com/sifive/sifive-blocks)
+
+[Open detailed stats for sifive/sifive-blocks](https://reviewgithub.com/rep/sifive/sifive-blocks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 156 | 82 | 
 | 2022-09-08 | 156 | 82 | 
 
-
-[Detailed charts & statistics for sifive/sifive-blocks](https://reviewgithub.com/rep/sifive/sifive-blocks)

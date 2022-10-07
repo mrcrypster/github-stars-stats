@@ -1,12 +1,14 @@
 # AdaCore/ada_language_server - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 159
 
 [Open repository](https://github.com/AdaCore/ada_language_server)
+
+[Open detailed stats for AdaCore/ada_language_server](https://reviewgithub.com/rep/AdaCore/ada_language_server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 157 | 47 | 
 | 2022-09-08 | 156 | 47 | 
 
-
-[Detailed charts & statistics for AdaCore/ada_language_server](https://reviewgithub.com/rep/AdaCore/ada_language_server)

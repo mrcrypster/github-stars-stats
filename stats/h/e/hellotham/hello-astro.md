@@ -1,12 +1,14 @@
 # hellotham/hello-astro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 9
 
 [Open repository](https://github.com/hellotham/hello-astro)
+
+[Open detailed stats for hellotham/hello-astro](https://reviewgithub.com/rep/hellotham/hello-astro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 5 | 
 | 2022-09-08 | 7 | 5 | 
 
-
-[Detailed charts & statistics for hellotham/hello-astro](https://reviewgithub.com/rep/hellotham/hello-astro)

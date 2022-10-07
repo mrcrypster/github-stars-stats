@@ -1,12 +1,14 @@
 # zodiacon/DbgPrint - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 41
 
 [Open repository](https://github.com/zodiacon/DbgPrint)
+
+[Open detailed stats for zodiacon/DbgPrint](https://reviewgithub.com/rep/zodiacon/DbgPrint)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 10 | 
 | 2022-09-08 | 41 | 10 | 
 
-
-[Detailed charts & statistics for zodiacon/DbgPrint](https://reviewgithub.com/rep/zodiacon/DbgPrint)

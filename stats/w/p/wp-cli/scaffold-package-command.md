@@ -1,12 +1,14 @@
 # wp-cli/scaffold-package-command - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 58
 
 [Open repository](https://github.com/wp-cli/scaffold-package-command)
+
+[Open detailed stats for wp-cli/scaffold-package-command](https://reviewgithub.com/rep/wp-cli/scaffold-package-command)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 18 | 
 | 2022-09-07 | 57 | 18 | 
 
-
-[Detailed charts & statistics for wp-cli/scaffold-package-command](https://reviewgithub.com/rep/wp-cli/scaffold-package-command)

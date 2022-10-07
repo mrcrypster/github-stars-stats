@@ -1,12 +1,14 @@
 # vincent-li/h5maker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 55
 
 [Open repository](https://github.com/vincent-li/h5maker)
+
+[Open detailed stats for vincent-li/h5maker](https://reviewgithub.com/rep/vincent-li/h5maker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 56 | 9 | 
 | 2022-09-07 | 56 | 9 | 
 
-
-[Detailed charts & statistics for vincent-li/h5maker](https://reviewgithub.com/rep/vincent-li/h5maker)

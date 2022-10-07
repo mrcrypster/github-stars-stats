@@ -1,12 +1,14 @@
 # AOSP-Krypton/build_make - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AOSP-Krypton/build_make)
+
+[Open detailed stats for AOSP-Krypton/build_make](https://reviewgithub.com/rep/AOSP-Krypton/build_make)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for AOSP-Krypton/build_make](https://reviewgithub.com/rep/AOSP-Krypton/build_make)

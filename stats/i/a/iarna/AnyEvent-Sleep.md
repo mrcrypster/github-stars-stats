@@ -1,12 +1,14 @@
 # iarna/AnyEvent-Sleep - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/iarna/AnyEvent-Sleep)
+
+[Open detailed stats for iarna/AnyEvent-Sleep](https://reviewgithub.com/rep/iarna/AnyEvent-Sleep)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 1 | 1 | 
 | 2022-09-22 | 1 | 1 | 
 
-
-[Detailed charts & statistics for iarna/AnyEvent-Sleep](https://reviewgithub.com/rep/iarna/AnyEvent-Sleep)

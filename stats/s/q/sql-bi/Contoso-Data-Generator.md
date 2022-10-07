@@ -1,12 +1,14 @@
 # sql-bi/Contoso-Data-Generator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 88
 
 [Open repository](https://github.com/sql-bi/Contoso-Data-Generator)
+
+[Open detailed stats for sql-bi/Contoso-Data-Generator](https://reviewgithub.com/rep/sql-bi/Contoso-Data-Generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 86 | 16 | 
 | 2022-09-07 | 86 | 16 | 
 
-
-[Detailed charts & statistics for sql-bi/Contoso-Data-Generator](https://reviewgithub.com/rep/sql-bi/Contoso-Data-Generator)

@@ -1,12 +1,14 @@
 # Azure-Samples/azure-opensource-labs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 53
 
 [Open repository](https://github.com/Azure-Samples/azure-opensource-labs)
+
+[Open detailed stats for Azure-Samples/azure-opensource-labs](https://reviewgithub.com/rep/Azure-Samples/azure-opensource-labs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 49 | 27 | 
 | 2022-09-10 | 49 | 27 | 
 
-
-[Detailed charts & statistics for Azure-Samples/azure-opensource-labs](https://reviewgithub.com/rep/Azure-Samples/azure-opensource-labs)

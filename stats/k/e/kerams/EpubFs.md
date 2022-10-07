@@ -1,12 +1,14 @@
 # kerams/EpubFs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 27
 
 [Open repository](https://github.com/kerams/EpubFs)
+
+[Open detailed stats for kerams/EpubFs](https://reviewgithub.com/rep/kerams/EpubFs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | - | 
 | 2022-09-07 | 21 | - | 
 
-
-[Detailed charts & statistics for kerams/EpubFs](https://reviewgithub.com/rep/kerams/EpubFs)

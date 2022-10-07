@@ -1,12 +1,14 @@
 # doceazedo/svelte-flow - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 40
 
 [Open repository](https://github.com/doceazedo/svelte-flow)
+
+[Open detailed stats for doceazedo/svelte-flow](https://reviewgithub.com/rep/doceazedo/svelte-flow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 3 | 
 | 2022-09-07 | 38 | 3 | 
 
-
-[Detailed charts & statistics for doceazedo/svelte-flow](https://reviewgithub.com/rep/doceazedo/svelte-flow)

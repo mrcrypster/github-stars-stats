@@ -1,12 +1,14 @@
 # dracula/ggplot2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
 
 [Open repository](https://github.com/dracula/ggplot2)
+
+[Open detailed stats for dracula/ggplot2](https://reviewgithub.com/rep/dracula/ggplot2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | - | 
 | 2022-09-07 | 23 | - | 
 
-
-[Detailed charts & statistics for dracula/ggplot2](https://reviewgithub.com/rep/dracula/ggplot2)

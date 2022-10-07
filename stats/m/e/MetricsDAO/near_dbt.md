@@ -1,12 +1,14 @@
 # MetricsDAO/near_dbt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 12
 
 [Open repository](https://github.com/MetricsDAO/near_dbt)
+
+[Open detailed stats for MetricsDAO/near_dbt](https://reviewgithub.com/rep/MetricsDAO/near_dbt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 9 | 
 | 2022-09-08 | 11 | 9 | 
 
-
-[Detailed charts & statistics for MetricsDAO/near_dbt](https://reviewgithub.com/rep/MetricsDAO/near_dbt)

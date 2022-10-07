@@ -1,12 +1,14 @@
 # Maria-13/DataAnalytics_R - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 5
 
 [Open repository](https://github.com/Maria-13/DataAnalytics_R)
+
+[Open detailed stats for Maria-13/DataAnalytics_R](https://reviewgithub.com/rep/Maria-13/DataAnalytics_R)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 4 | - | 
 | 2022-09-23 | 4 | - | 
 
-
-[Detailed charts & statistics for Maria-13/DataAnalytics_R](https://reviewgithub.com/rep/Maria-13/DataAnalytics_R)

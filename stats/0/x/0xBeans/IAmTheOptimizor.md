@@ -1,12 +1,14 @@
 # 0xBeans/IAmTheOptimizor - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 58
 
 [Open repository](https://github.com/0xBeans/IAmTheOptimizor)
+
+[Open detailed stats for 0xBeans/IAmTheOptimizor](https://reviewgithub.com/rep/0xBeans/IAmTheOptimizor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | 50 | 2 | 
 | 2022-09-13 | 50 | 2 | 
 
-
-[Detailed charts & statistics for 0xBeans/IAmTheOptimizor](https://reviewgithub.com/rep/0xBeans/IAmTheOptimizor)

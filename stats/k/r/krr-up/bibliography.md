@@ -1,12 +1,14 @@
 # krr-up/bibliography - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/krr-up/bibliography)
+
+[Open detailed stats for krr-up/bibliography](https://reviewgithub.com/rep/krr-up/bibliography)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 4 | 
 | 2022-09-07 | 2 | 4 | 
 
-
-[Detailed charts & statistics for krr-up/bibliography](https://reviewgithub.com/rep/krr-up/bibliography)

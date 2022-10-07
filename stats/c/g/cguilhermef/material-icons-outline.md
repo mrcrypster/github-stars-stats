@@ -1,12 +1,14 @@
 # cguilhermef/material-icons-outline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 16
 
 [Open repository](https://github.com/cguilhermef/material-icons-outline)
+
+[Open detailed stats for cguilhermef/material-icons-outline](https://reviewgithub.com/rep/cguilhermef/material-icons-outline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 5 | 
 | 2022-09-07 | 16 | 5 | 
 
-
-[Detailed charts & statistics for cguilhermef/material-icons-outline](https://reviewgithub.com/rep/cguilhermef/material-icons-outline)

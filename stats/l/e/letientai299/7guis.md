@@ -1,12 +1,14 @@
 # letientai299/7guis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 21
 
 [Open repository](https://github.com/letientai299/7guis)
+
+[Open detailed stats for letientai299/7guis](https://reviewgithub.com/rep/letientai299/7guis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 1 | 
 | 2022-09-07 | 20 | 1 | 
 
-
-[Detailed charts & statistics for letientai299/7guis](https://reviewgithub.com/rep/letientai299/7guis)

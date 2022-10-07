@@ -1,12 +1,14 @@
 # pytorch/ossci-job-dsl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 38
 
 ★ Stars: 9
 
 [Open repository](https://github.com/pytorch/ossci-job-dsl)
+
+[Open detailed stats for pytorch/ossci-job-dsl](https://reviewgithub.com/rep/pytorch/ossci-job-dsl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 38 | 
 | 2022-09-07 | 9 | 38 | 
 
-
-[Detailed charts & statistics for pytorch/ossci-job-dsl](https://reviewgithub.com/rep/pytorch/ossci-job-dsl)

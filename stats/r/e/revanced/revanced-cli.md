@@ -1,12 +1,14 @@
 # revanced/revanced-cli - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 60
 
 ★ Stars: 270
 
 [Open repository](https://github.com/revanced/revanced-cli)
+
+[Open detailed stats for revanced/revanced-cli](https://reviewgithub.com/rep/revanced/revanced-cli)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 231 | 52 | 
 | 2022-09-08 | 231 | 52 | 
 
-
-[Detailed charts & statistics for revanced/revanced-cli](https://reviewgithub.com/rep/revanced/revanced-cli)

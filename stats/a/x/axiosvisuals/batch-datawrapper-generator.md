@@ -1,12 +1,14 @@
 # axiosvisuals/batch-datawrapper-generator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/axiosvisuals/batch-datawrapper-generator)
+
+[Open detailed stats for axiosvisuals/batch-datawrapper-generator](https://reviewgithub.com/rep/axiosvisuals/batch-datawrapper-generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for axiosvisuals/batch-datawrapper-generator](https://reviewgithub.com/rep/axiosvisuals/batch-datawrapper-generator)

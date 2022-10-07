@@ -1,12 +1,14 @@
 # dh219/DSTB - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 20
 
 [Open repository](https://github.com/dh219/DSTB)
+
+[Open detailed stats for dh219/DSTB](https://reviewgithub.com/rep/dh219/DSTB)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | - | 
 | 2022-09-07 | 19 | - | 
 
-
-[Detailed charts & statistics for dh219/DSTB](https://reviewgithub.com/rep/dh219/DSTB)

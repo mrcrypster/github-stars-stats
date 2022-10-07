@@ -1,12 +1,14 @@
 # 6r6/maicai.ddxq.tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 117
 
 [Open repository](https://github.com/6r6/maicai.ddxq.tools)
+
+[Open detailed stats for 6r6/maicai.ddxq.tools](https://reviewgithub.com/rep/6r6/maicai.ddxq.tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 118 | 47 | 
 | 2022-09-07 | 118 | 47 | 
 
-
-[Detailed charts & statistics for 6r6/maicai.ddxq.tools](https://reviewgithub.com/rep/6r6/maicai.ddxq.tools)

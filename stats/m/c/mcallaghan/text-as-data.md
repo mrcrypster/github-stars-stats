@@ -1,12 +1,14 @@
 # mcallaghan/text-as-data - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 6
 
 [Open repository](https://github.com/mcallaghan/text-as-data)
+
+[Open detailed stats for mcallaghan/text-as-data](https://reviewgithub.com/rep/mcallaghan/text-as-data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 5 | 7 | 
 | 2022-09-16 | 5 | 7 | 
 
-
-[Detailed charts & statistics for mcallaghan/text-as-data](https://reviewgithub.com/rep/mcallaghan/text-as-data)

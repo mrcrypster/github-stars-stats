@@ -1,12 +1,14 @@
 # grigoritchy/pocs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 63
 
 [Open repository](https://github.com/grigoritchy/pocs)
+
+[Open detailed stats for grigoritchy/pocs](https://reviewgithub.com/rep/grigoritchy/pocs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 63 | 11 | 
 | 2022-09-08 | 63 | 11 | 
 
-
-[Detailed charts & statistics for grigoritchy/pocs](https://reviewgithub.com/rep/grigoritchy/pocs)

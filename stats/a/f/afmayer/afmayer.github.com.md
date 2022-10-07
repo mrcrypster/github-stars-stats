@@ -1,12 +1,14 @@
 # afmayer/afmayer.github.com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/afmayer/afmayer.github.com)
+
+[Open detailed stats for afmayer/afmayer.github.com](https://reviewgithub.com/rep/afmayer/afmayer.github.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for afmayer/afmayer.github.com](https://reviewgithub.com/rep/afmayer/afmayer.github.com)

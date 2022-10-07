@@ -1,12 +1,14 @@
 # ARMmbed/mbed-os-example-blinky - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 153
 
 ★ Stars: 39
 
 [Open repository](https://github.com/ARMmbed/mbed-os-example-blinky)
+
+[Open detailed stats for ARMmbed/mbed-os-example-blinky](https://reviewgithub.com/rep/ARMmbed/mbed-os-example-blinky)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 153 | 
 | 2022-09-07 | 39 | 153 | 
 
-
-[Detailed charts & statistics for ARMmbed/mbed-os-example-blinky](https://reviewgithub.com/rep/ARMmbed/mbed-os-example-blinky)

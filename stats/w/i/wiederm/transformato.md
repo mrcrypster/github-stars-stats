@@ -1,12 +1,14 @@
 # wiederm/transformato - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 11
 
 [Open repository](https://github.com/wiederm/transformato)
+
+[Open detailed stats for wiederm/transformato](https://reviewgithub.com/rep/wiederm/transformato)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 3 | 
 | 2022-09-07 | 9 | 3 | 
 
-
-[Detailed charts & statistics for wiederm/transformato](https://reviewgithub.com/rep/wiederm/transformato)

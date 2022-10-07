@@ -1,12 +1,14 @@
 # penberg/awesome-low-latency - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 291
 
 [Open repository](https://github.com/penberg/awesome-low-latency)
+
+[Open detailed stats for penberg/awesome-low-latency](https://reviewgithub.com/rep/penberg/awesome-low-latency)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 290 | 5 | 
 | 2022-09-07 | 290 | 5 | 
 
-
-[Detailed charts & statistics for penberg/awesome-low-latency](https://reviewgithub.com/rep/penberg/awesome-low-latency)

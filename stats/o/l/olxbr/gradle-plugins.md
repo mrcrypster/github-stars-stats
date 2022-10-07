@@ -1,12 +1,14 @@
 # olxbr/gradle-plugins - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/olxbr/gradle-plugins)
+
+[Open detailed stats for olxbr/gradle-plugins](https://reviewgithub.com/rep/olxbr/gradle-plugins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for olxbr/gradle-plugins](https://reviewgithub.com/rep/olxbr/gradle-plugins)

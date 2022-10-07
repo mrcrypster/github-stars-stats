@@ -1,12 +1,14 @@
 # Jayakrishnan-mk/JK-books - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 23
 
 [Open repository](https://github.com/Jayakrishnan-mk/JK-books)
+
+[Open detailed stats for Jayakrishnan-mk/JK-books](https://reviewgithub.com/rep/Jayakrishnan-mk/JK-books)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 23 | - | 
 | 2022-09-08 | 23 | - | 
 
-
-[Detailed charts & statistics for Jayakrishnan-mk/JK-books](https://reviewgithub.com/rep/Jayakrishnan-mk/JK-books)

@@ -1,12 +1,14 @@
 # qt/qtquicktimeline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 18
 
 [Open repository](https://github.com/qt/qtquicktimeline)
+
+[Open detailed stats for qt/qtquicktimeline](https://reviewgithub.com/rep/qt/qtquicktimeline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 14 | 
 | 2022-09-07 | 16 | 14 | 
 
-
-[Detailed charts & statistics for qt/qtquicktimeline](https://reviewgithub.com/rep/qt/qtquicktimeline)

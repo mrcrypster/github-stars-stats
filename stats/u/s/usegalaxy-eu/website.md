@@ -1,12 +1,14 @@
 # usegalaxy-eu/website - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 93
 
 ★ Stars: 13
 
 [Open repository](https://github.com/usegalaxy-eu/website)
+
+[Open detailed stats for usegalaxy-eu/website](https://reviewgithub.com/rep/usegalaxy-eu/website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 13 | 92 | 
 | 2022-09-08 | 13 | 92 | 
 
-
-[Detailed charts & statistics for usegalaxy-eu/website](https://reviewgithub.com/rep/usegalaxy-eu/website)

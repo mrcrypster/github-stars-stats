@@ -1,12 +1,14 @@
 # CryptoMagg/kingdom.watch - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 29
 
 [Open repository](https://github.com/CryptoMagg/kingdom.watch)
+
+[Open detailed stats for CryptoMagg/kingdom.watch](https://reviewgithub.com/rep/CryptoMagg/kingdom.watch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 26 | 
 | 2022-09-07 | 29 | 26 | 
 
-
-[Detailed charts & statistics for CryptoMagg/kingdom.watch](https://reviewgithub.com/rep/CryptoMagg/kingdom.watch)

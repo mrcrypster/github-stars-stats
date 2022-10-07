@@ -1,12 +1,14 @@
 # wiris/moodle-atto_wiris - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 7
 
 [Open repository](https://github.com/wiris/moodle-atto_wiris)
+
+[Open detailed stats for wiris/moodle-atto_wiris](https://reviewgithub.com/rep/wiris/moodle-atto_wiris)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 7 | 12 | 
 | 2022-09-08 | 7 | 12 | 
 
-
-[Detailed charts & statistics for wiris/moodle-atto_wiris](https://reviewgithub.com/rep/wiris/moodle-atto_wiris)

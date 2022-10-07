@@ -1,12 +1,14 @@
 # GeneralDeGaulle/i_fly_bernard - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 86
 
 [Open repository](https://github.com/GeneralDeGaulle/i_fly_bernard)
+
+[Open detailed stats for GeneralDeGaulle/i_fly_bernard](https://reviewgithub.com/rep/GeneralDeGaulle/i_fly_bernard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 71 | 7 | 
 | 2022-09-08 | 69 | 7 | 
 
-
-[Detailed charts & statistics for GeneralDeGaulle/i_fly_bernard](https://reviewgithub.com/rep/GeneralDeGaulle/i_fly_bernard)

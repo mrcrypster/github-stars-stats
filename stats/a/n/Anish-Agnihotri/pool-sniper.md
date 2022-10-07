@@ -1,12 +1,14 @@
 # Anish-Agnihotri/pool-sniper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 122
 
 ★ Stars: 421
 
 [Open repository](https://github.com/Anish-Agnihotri/pool-sniper)
+
+[Open detailed stats for Anish-Agnihotri/pool-sniper](https://reviewgithub.com/rep/Anish-Agnihotri/pool-sniper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 417 | 120 | 
 | 2022-09-07 | 414 | 119 | 
 
-
-[Detailed charts & statistics for Anish-Agnihotri/pool-sniper](https://reviewgithub.com/rep/Anish-Agnihotri/pool-sniper)

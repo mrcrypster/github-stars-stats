@@ -1,12 +1,14 @@
 # algoritmos-iii/ejercicios-2022-1c - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 7
 
 [Open repository](https://github.com/algoritmos-iii/ejercicios-2022-1c)
+
+[Open detailed stats for algoritmos-iii/ejercicios-2022-1c](https://reviewgithub.com/rep/algoritmos-iii/ejercicios-2022-1c)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 16 | 
 | 2022-09-07 | 7 | 16 | 
 
-
-[Detailed charts & statistics for algoritmos-iii/ejercicios-2022-1c](https://reviewgithub.com/rep/algoritmos-iii/ejercicios-2022-1c)

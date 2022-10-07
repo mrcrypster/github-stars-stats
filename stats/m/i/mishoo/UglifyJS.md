@@ -1,12 +1,14 @@
 # mishoo/UglifyJS - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1239
 
 ★ Stars: 12271
 
 [Open repository](https://github.com/mishoo/UglifyJS)
+
+[Open detailed stats for mishoo/UglifyJS](https://reviewgithub.com/rep/mishoo/UglifyJS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12221 | 1239 | 
 | 2022-09-07 | 12219 | 1239 | 
 
-
-[Detailed charts & statistics for mishoo/UglifyJS](https://reviewgithub.com/rep/mishoo/UglifyJS)

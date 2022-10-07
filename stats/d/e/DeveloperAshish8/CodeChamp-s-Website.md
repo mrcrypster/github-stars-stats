@@ -1,12 +1,14 @@
 # DeveloperAshish8/CodeChamp-s-Website - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 32
 
 [Open repository](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
+
+[Open detailed stats for DeveloperAshish8/CodeChamp-s-Website](https://reviewgithub.com/rep/DeveloperAshish8/CodeChamp-s-Website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 25 | 26 | 
 | 2022-09-30 | 25 | 17 | 
 
-
-[Detailed charts & statistics for DeveloperAshish8/CodeChamp-s-Website](https://reviewgithub.com/rep/DeveloperAshish8/CodeChamp-s-Website)

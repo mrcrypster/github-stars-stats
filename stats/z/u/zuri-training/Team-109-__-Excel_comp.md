@@ -1,12 +1,14 @@
 # zuri-training/Team-109-__-Excel_comp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 34
 
 ★ Stars: 3
 
 [Open repository](https://github.com/zuri-training/Team-109-__-Excel_comp)
+
+[Open detailed stats for zuri-training/Team-109-__-Excel_comp](https://reviewgithub.com/rep/zuri-training/Team-109-__-Excel_comp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 34 | 
 | 2022-09-08 | 3 | 34 | 
 
-
-[Detailed charts & statistics for zuri-training/Team-109-__-Excel_comp](https://reviewgithub.com/rep/zuri-training/Team-109-__-Excel_comp)

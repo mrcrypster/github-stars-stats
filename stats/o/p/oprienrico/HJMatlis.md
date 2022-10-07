@@ -1,12 +1,14 @@
 # oprienrico/HJMatlis - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/oprienrico/HJMatlis)
+
+[Open detailed stats for oprienrico/HJMatlis](https://reviewgithub.com/rep/oprienrico/HJMatlis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 1 | 1 | 
 | 2022-09-10 | 1 | 1 | 
 
-
-[Detailed charts & statistics for oprienrico/HJMatlis](https://reviewgithub.com/rep/oprienrico/HJMatlis)

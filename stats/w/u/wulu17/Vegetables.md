@@ -1,12 +1,14 @@
 # wulu17/Vegetables - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 33
 
 [Open repository](https://github.com/wulu17/Vegetables)
+
+[Open detailed stats for wulu17/Vegetables](https://reviewgithub.com/rep/wulu17/Vegetables)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 33 | 13 | 
 | 2022-09-08 | 33 | 13 | 
 
-
-[Detailed charts & statistics for wulu17/Vegetables](https://reviewgithub.com/rep/wulu17/Vegetables)

@@ -1,12 +1,14 @@
 # MicrosoftDocs/ATADocs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 88
 
 ★ Stars: 53
 
 [Open repository](https://github.com/MicrosoftDocs/ATADocs)
+
+[Open detailed stats for MicrosoftDocs/ATADocs](https://reviewgithub.com/rep/MicrosoftDocs/ATADocs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 53 | 88 | 
 | 2022-09-07 | 53 | 88 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/ATADocs](https://reviewgithub.com/rep/MicrosoftDocs/ATADocs)

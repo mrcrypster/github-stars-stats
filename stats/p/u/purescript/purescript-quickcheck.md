@@ -1,12 +1,14 @@
 # purescript/purescript-quickcheck - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 97
 
 [Open repository](https://github.com/purescript/purescript-quickcheck)
+
+[Open detailed stats for purescript/purescript-quickcheck](https://reviewgithub.com/rep/purescript/purescript-quickcheck)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 97 | 43 | 
 | 2022-09-07 | 97 | 43 | 
 
-
-[Detailed charts & statistics for purescript/purescript-quickcheck](https://reviewgithub.com/rep/purescript/purescript-quickcheck)

@@ -1,12 +1,14 @@
 # EngineersNeedArt/Adam74 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 38
 
 [Open repository](https://github.com/EngineersNeedArt/Adam74)
+
+[Open detailed stats for EngineersNeedArt/Adam74](https://reviewgithub.com/rep/EngineersNeedArt/Adam74)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | - | 
 | 2022-09-07 | 37 | - | 
 
-
-[Detailed charts & statistics for EngineersNeedArt/Adam74](https://reviewgithub.com/rep/EngineersNeedArt/Adam74)

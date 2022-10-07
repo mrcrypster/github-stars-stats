@@ -1,12 +1,14 @@
 # cbh123/shlinked - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 265
 
 [Open repository](https://github.com/cbh123/shlinked)
+
+[Open detailed stats for cbh123/shlinked](https://reviewgithub.com/rep/cbh123/shlinked)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 246 | 29 | 
 | 2022-09-08 | 245 | 29 | 
 
-
-[Detailed charts & statistics for cbh123/shlinked](https://reviewgithub.com/rep/cbh123/shlinked)

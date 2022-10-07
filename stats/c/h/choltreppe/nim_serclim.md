@@ -1,12 +1,14 @@
 # choltreppe/nim_serclim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 26
 
 [Open repository](https://github.com/choltreppe/nim_serclim)
+
+[Open detailed stats for choltreppe/nim_serclim](https://reviewgithub.com/rep/choltreppe/nim_serclim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 1 | 
 | 2022-09-07 | 26 | 1 | 
 
-
-[Detailed charts & statistics for choltreppe/nim_serclim](https://reviewgithub.com/rep/choltreppe/nim_serclim)

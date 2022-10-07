@@ -1,12 +1,14 @@
 # industry-standard-good-practice/lurker-for-reddit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 22
 
 [Open repository](https://github.com/industry-standard-good-practice/lurker-for-reddit)
+
+[Open detailed stats for industry-standard-good-practice/lurker-for-reddit](https://reviewgithub.com/rep/industry-standard-good-practice/lurker-for-reddit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 4 | 
 | 2022-09-07 | 20 | 4 | 
 
-
-[Detailed charts & statistics for industry-standard-good-practice/lurker-for-reddit](https://reviewgithub.com/rep/industry-standard-good-practice/lurker-for-reddit)

@@ -1,12 +1,14 @@
 # tiltedphoques/TiltedEvolution - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 120
 
 ★ Stars: 680
 
 [Open repository](https://github.com/tiltedphoques/TiltedEvolution)
+
+[Open detailed stats for tiltedphoques/TiltedEvolution](https://reviewgithub.com/rep/tiltedphoques/TiltedEvolution)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 651 | 113 | 
 | 2022-09-07 | 650 | 112 | 
 
-
-[Detailed charts & statistics for tiltedphoques/TiltedEvolution](https://reviewgithub.com/rep/tiltedphoques/TiltedEvolution)

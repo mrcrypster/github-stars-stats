@@ -1,12 +1,14 @@
 # RikkaApps/websites - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 443
 
 ★ Stars: 61
 
 [Open repository](https://github.com/RikkaApps/websites)
+
+[Open detailed stats for RikkaApps/websites](https://reviewgithub.com/rep/RikkaApps/websites)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 431 | 
 | 2022-09-07 | 60 | 431 | 
 
-
-[Detailed charts & statistics for RikkaApps/websites](https://reviewgithub.com/rep/RikkaApps/websites)

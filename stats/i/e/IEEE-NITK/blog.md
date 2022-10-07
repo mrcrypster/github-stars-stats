@@ -1,12 +1,14 @@
 # IEEE-NITK/blog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 1
 
 [Open repository](https://github.com/IEEE-NITK/blog)
+
+[Open detailed stats for IEEE-NITK/blog](https://reviewgithub.com/rep/IEEE-NITK/blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 48 | 
 | 2022-09-07 | 1 | 48 | 
 
-
-[Detailed charts & statistics for IEEE-NITK/blog](https://reviewgithub.com/rep/IEEE-NITK/blog)

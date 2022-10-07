@@ -1,12 +1,14 @@
 # symkat/DBIx-Config - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/symkat/DBIx-Config)
+
+[Open detailed stats for symkat/DBIx-Config](https://reviewgithub.com/rep/symkat/DBIx-Config)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for symkat/DBIx-Config](https://reviewgithub.com/rep/symkat/DBIx-Config)

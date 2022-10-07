@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1239
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker)
+
+[Open detailed stats for learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1180 | 
 | 2022-09-07 | 1 | 1172 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker)

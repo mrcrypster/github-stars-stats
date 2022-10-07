@@ -1,12 +1,14 @@
 # DUNE-DAQ/rcif - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DUNE-DAQ/rcif)
+
+[Open detailed stats for DUNE-DAQ/rcif](https://reviewgithub.com/rep/DUNE-DAQ/rcif)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for DUNE-DAQ/rcif](https://reviewgithub.com/rep/DUNE-DAQ/rcif)

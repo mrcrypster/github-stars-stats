@@ -1,12 +1,14 @@
 # clj-easy/tools.misc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 28
 
 [Open repository](https://github.com/clj-easy/tools.misc)
+
+[Open detailed stats for clj-easy/tools.misc](https://reviewgithub.com/rep/clj-easy/tools.misc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 1 | 
 | 2022-09-07 | 29 | 1 | 
 
-
-[Detailed charts & statistics for clj-easy/tools.misc](https://reviewgithub.com/rep/clj-easy/tools.misc)

@@ -1,12 +1,14 @@
 # lyc0930/Database-Homework - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 20
 
 [Open repository](https://github.com/lyc0930/Database-Homework)
+
+[Open detailed stats for lyc0930/Database-Homework](https://reviewgithub.com/rep/lyc0930/Database-Homework)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 11 | 
 | 2022-09-07 | 20 | 11 | 
 
-
-[Detailed charts & statistics for lyc0930/Database-Homework](https://reviewgithub.com/rep/lyc0930/Database-Homework)

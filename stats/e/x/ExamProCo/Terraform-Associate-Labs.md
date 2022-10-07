@@ -1,12 +1,14 @@
 # ExamProCo/Terraform-Associate-Labs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 126
 
 ★ Stars: 67
 
 [Open repository](https://github.com/ExamProCo/Terraform-Associate-Labs)
+
+[Open detailed stats for ExamProCo/Terraform-Associate-Labs](https://reviewgithub.com/rep/ExamProCo/Terraform-Associate-Labs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 64 | 119 | 
 | 2022-09-07 | 64 | 119 | 
 
-
-[Detailed charts & statistics for ExamProCo/Terraform-Associate-Labs](https://reviewgithub.com/rep/ExamProCo/Terraform-Associate-Labs)

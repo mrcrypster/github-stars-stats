@@ -1,12 +1,14 @@
 # semaphoreci-demos/semaphore-demo-monorepo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 3
 
 [Open repository](https://github.com/semaphoreci-demos/semaphore-demo-monorepo)
+
+[Open detailed stats for semaphoreci-demos/semaphore-demo-monorepo](https://reviewgithub.com/rep/semaphoreci-demos/semaphore-demo-monorepo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 60 | 
 | 2022-09-07 | 3 | 60 | 
 
-
-[Detailed charts & statistics for semaphoreci-demos/semaphore-demo-monorepo](https://reviewgithub.com/rep/semaphoreci-demos/semaphore-demo-monorepo)

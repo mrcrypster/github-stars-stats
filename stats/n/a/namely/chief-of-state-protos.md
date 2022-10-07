@@ -1,12 +1,14 @@
 # namely/chief-of-state-protos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/namely/chief-of-state-protos)
+
+[Open detailed stats for namely/chief-of-state-protos](https://reviewgithub.com/rep/namely/chief-of-state-protos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for namely/chief-of-state-protos](https://reviewgithub.com/rep/namely/chief-of-state-protos)

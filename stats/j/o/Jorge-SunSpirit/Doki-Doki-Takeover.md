@@ -1,12 +1,14 @@
 # Jorge-SunSpirit/Doki-Doki-Takeover - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 37
 
 [Open repository](https://github.com/Jorge-SunSpirit/Doki-Doki-Takeover)
+
+[Open detailed stats for Jorge-SunSpirit/Doki-Doki-Takeover](https://reviewgithub.com/rep/Jorge-SunSpirit/Doki-Doki-Takeover)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 43 | 
 | 2022-09-07 | 35 | 43 | 
 
-
-[Detailed charts & statistics for Jorge-SunSpirit/Doki-Doki-Takeover](https://reviewgithub.com/rep/Jorge-SunSpirit/Doki-Doki-Takeover)

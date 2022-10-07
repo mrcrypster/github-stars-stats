@@ -1,12 +1,14 @@
 # udacity/cd0157_Final_Pipeline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 244
 
 ★ Stars: 9
 
 [Open repository](https://github.com/udacity/cd0157_Final_Pipeline)
+
+[Open detailed stats for udacity/cd0157_Final_Pipeline](https://reviewgithub.com/rep/udacity/cd0157_Final_Pipeline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 182 | 
 | 2022-09-08 | 6 | 182 | 
 
-
-[Detailed charts & statistics for udacity/cd0157_Final_Pipeline](https://reviewgithub.com/rep/udacity/cd0157_Final_Pipeline)

@@ -1,12 +1,14 @@
 # evilrat/flutter_zoom_sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
 ★ Stars: 30
 
 [Open repository](https://github.com/evilrat/flutter_zoom_sdk)
+
+[Open detailed stats for evilrat/flutter_zoom_sdk](https://reviewgithub.com/rep/evilrat/flutter_zoom_sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 43 | 
 | 2022-09-07 | 28 | 43 | 
 
-
-[Detailed charts & statistics for evilrat/flutter_zoom_sdk](https://reviewgithub.com/rep/evilrat/flutter_zoom_sdk)

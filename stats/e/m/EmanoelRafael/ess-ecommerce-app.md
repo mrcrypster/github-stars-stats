@@ -1,12 +1,14 @@
 # EmanoelRafael/ess-ecommerce-app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/EmanoelRafael/ess-ecommerce-app)
+
+[Open detailed stats for EmanoelRafael/ess-ecommerce-app](https://reviewgithub.com/rep/EmanoelRafael/ess-ecommerce-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
 
-
-[Detailed charts & statistics for EmanoelRafael/ess-ecommerce-app](https://reviewgithub.com/rep/EmanoelRafael/ess-ecommerce-app)

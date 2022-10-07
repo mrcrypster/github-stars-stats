@@ -1,12 +1,14 @@
 # sunnyoggcp/github-slideshow - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 49
 
 [Open repository](https://github.com/sunnyoggcp/github-slideshow)
+
+[Open detailed stats for sunnyoggcp/github-slideshow](https://reviewgithub.com/rep/sunnyoggcp/github-slideshow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | 22 | 
 | 2022-09-07 | 49 | 22 | 
 
-
-[Detailed charts & statistics for sunnyoggcp/github-slideshow](https://reviewgithub.com/rep/sunnyoggcp/github-slideshow)

@@ -1,12 +1,14 @@
 # rolandwalker/list-utils - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 24
 
 [Open repository](https://github.com/rolandwalker/list-utils)
+
+[Open detailed stats for rolandwalker/list-utils](https://reviewgithub.com/rep/rolandwalker/list-utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 10 | 
 | 2022-09-07 | 23 | 10 | 
 
-
-[Detailed charts & statistics for rolandwalker/list-utils](https://reviewgithub.com/rep/rolandwalker/list-utils)

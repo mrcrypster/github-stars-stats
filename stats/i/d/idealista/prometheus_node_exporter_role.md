@@ -1,12 +1,14 @@
 # idealista/prometheus_node_exporter_role - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 3
 
 [Open repository](https://github.com/idealista/prometheus_node_exporter_role)
+
+[Open detailed stats for idealista/prometheus_node_exporter_role](https://reviewgithub.com/rep/idealista/prometheus_node_exporter_role)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 8 | 
 | 2022-09-07 | 3 | 8 | 
 
-
-[Detailed charts & statistics for idealista/prometheus_node_exporter_role](https://reviewgithub.com/rep/idealista/prometheus_node_exporter_role)

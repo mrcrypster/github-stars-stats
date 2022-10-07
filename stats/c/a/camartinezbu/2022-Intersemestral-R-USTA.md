@@ -1,12 +1,14 @@
 # camartinezbu/2022-Intersemestral-R-USTA - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 3
 
 [Open repository](https://github.com/camartinezbu/2022-Intersemestral-R-USTA)
+
+[Open detailed stats for camartinezbu/2022-Intersemestral-R-USTA](https://reviewgithub.com/rep/camartinezbu/2022-Intersemestral-R-USTA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 17 | 
 | 2022-09-08 | 3 | 17 | 
 
-
-[Detailed charts & statistics for camartinezbu/2022-Intersemestral-R-USTA](https://reviewgithub.com/rep/camartinezbu/2022-Intersemestral-R-USTA)

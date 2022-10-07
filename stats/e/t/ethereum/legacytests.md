@@ -1,12 +1,14 @@
 # ethereum/legacytests - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 13
 
 [Open repository](https://github.com/ethereum/legacytests)
+
+[Open detailed stats for ethereum/legacytests](https://reviewgithub.com/rep/ethereum/legacytests)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 5 | 
 | 2022-09-07 | 13 | 5 | 
 
-
-[Detailed charts & statistics for ethereum/legacytests](https://reviewgithub.com/rep/ethereum/legacytests)

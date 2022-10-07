@@ -1,12 +1,14 @@
 # PatrickAlphaC/hardhat-smartcontract-lottery-fcc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 93
 
 ★ Stars: 68
 
 [Open repository](https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc)
+
+[Open detailed stats for PatrickAlphaC/hardhat-smartcontract-lottery-fcc](https://reviewgithub.com/rep/PatrickAlphaC/hardhat-smartcontract-lottery-fcc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 56 | 78 | 
 | 2022-09-08 | 56 | 77 | 
 
-
-[Detailed charts & statistics for PatrickAlphaC/hardhat-smartcontract-lottery-fcc](https://reviewgithub.com/rep/PatrickAlphaC/hardhat-smartcontract-lottery-fcc)

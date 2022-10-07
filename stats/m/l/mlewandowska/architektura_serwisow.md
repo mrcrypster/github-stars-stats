@@ -1,12 +1,14 @@
 # mlewandowska/architektura_serwisow - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/mlewandowska/architektura_serwisow)
+
+[Open detailed stats for mlewandowska/architektura_serwisow](https://reviewgithub.com/rep/mlewandowska/architektura_serwisow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 2 | - | 
 | 2022-09-18 | 2 | - | 
 
-
-[Detailed charts & statistics for mlewandowska/architektura_serwisow](https://reviewgithub.com/rep/mlewandowska/architektura_serwisow)

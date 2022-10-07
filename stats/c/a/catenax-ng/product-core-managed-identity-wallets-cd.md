@@ -1,12 +1,14 @@
 # catenax-ng/product-core-managed-identity-wallets-cd - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/catenax-ng/product-core-managed-identity-wallets-cd)
+
+[Open detailed stats for catenax-ng/product-core-managed-identity-wallets-cd](https://reviewgithub.com/rep/catenax-ng/product-core-managed-identity-wallets-cd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for catenax-ng/product-core-managed-identity-wallets-cd](https://reviewgithub.com/rep/catenax-ng/product-core-managed-identity-wallets-cd)

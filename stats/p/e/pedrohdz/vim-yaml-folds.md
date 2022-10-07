@@ -1,12 +1,14 @@
 # pedrohdz/vim-yaml-folds - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 85
 
 [Open repository](https://github.com/pedrohdz/vim-yaml-folds)
+
+[Open detailed stats for pedrohdz/vim-yaml-folds](https://reviewgithub.com/rep/pedrohdz/vim-yaml-folds)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 82 | 8 | 
 | 2022-09-08 | 82 | 8 | 
 
-
-[Detailed charts & statistics for pedrohdz/vim-yaml-folds](https://reviewgithub.com/rep/pedrohdz/vim-yaml-folds)

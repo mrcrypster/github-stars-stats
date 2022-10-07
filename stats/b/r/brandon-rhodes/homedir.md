@@ -1,12 +1,14 @@
 # brandon-rhodes/homedir - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 197
 
 [Open repository](https://github.com/brandon-rhodes/homedir)
+
+[Open detailed stats for brandon-rhodes/homedir](https://reviewgithub.com/rep/brandon-rhodes/homedir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 193 | 21 | 
 | 2022-09-08 | 193 | 21 | 
 
-
-[Detailed charts & statistics for brandon-rhodes/homedir](https://reviewgithub.com/rep/brandon-rhodes/homedir)

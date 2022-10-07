@@ -1,12 +1,14 @@
 # HdzProject/Vps-Trial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 111
 
 ★ Stars: 1
 
 [Open repository](https://github.com/HdzProject/Vps-Trial)
+
+[Open detailed stats for HdzProject/Vps-Trial](https://reviewgithub.com/rep/HdzProject/Vps-Trial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 111 | 
 | 2022-09-07 | 1 | 111 | 
 
-
-[Detailed charts & statistics for HdzProject/Vps-Trial](https://reviewgithub.com/rep/HdzProject/Vps-Trial)

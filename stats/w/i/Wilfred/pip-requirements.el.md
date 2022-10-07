@@ -1,12 +1,14 @@
 # Wilfred/pip-requirements.el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 48
 
 [Open repository](https://github.com/Wilfred/pip-requirements.el)
+
+[Open detailed stats for Wilfred/pip-requirements.el](https://reviewgithub.com/rep/Wilfred/pip-requirements.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 4 | 
 | 2022-09-07 | 48 | 4 | 
 
-
-[Detailed charts & statistics for Wilfred/pip-requirements.el](https://reviewgithub.com/rep/Wilfred/pip-requirements.el)

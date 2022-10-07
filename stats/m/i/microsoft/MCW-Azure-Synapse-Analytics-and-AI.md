@@ -1,12 +1,14 @@
 # microsoft/MCW-Azure-Synapse-Analytics-and-AI - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 215
 
 ★ Stars: 203
 
 [Open repository](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI)
+
+[Open detailed stats for microsoft/MCW-Azure-Synapse-Analytics-and-AI](https://reviewgithub.com/rep/microsoft/MCW-Azure-Synapse-Analytics-and-AI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 203 | 215 | 
 | 2022-09-07 | 202 | 215 | 
 
-
-[Detailed charts & statistics for microsoft/MCW-Azure-Synapse-Analytics-and-AI](https://reviewgithub.com/rep/microsoft/MCW-Azure-Synapse-Analytics-and-AI)

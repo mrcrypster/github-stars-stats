@@ -1,12 +1,14 @@
 # shadlyd15/DoomLinux - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 126
 
 [Open repository](https://github.com/shadlyd15/DoomLinux)
+
+[Open detailed stats for shadlyd15/DoomLinux](https://reviewgithub.com/rep/shadlyd15/DoomLinux)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 122 | 9 | 
 | 2022-09-07 | 122 | 9 | 
 
-
-[Detailed charts & statistics for shadlyd15/DoomLinux](https://reviewgithub.com/rep/shadlyd15/DoomLinux)

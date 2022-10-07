@@ -1,12 +1,14 @@
 # cljdoc/cljdoc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 77
 
 ★ Stars: 489
 
 [Open repository](https://github.com/cljdoc/cljdoc)
+
+[Open detailed stats for cljdoc/cljdoc](https://reviewgithub.com/rep/cljdoc/cljdoc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 490 | 77 | 
 | 2022-09-07 | 490 | 77 | 
 
-
-[Detailed charts & statistics for cljdoc/cljdoc](https://reviewgithub.com/rep/cljdoc/cljdoc)

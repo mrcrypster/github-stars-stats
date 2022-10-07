@@ -1,12 +1,14 @@
 # m1guelpf/yt-whisper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 486
 
 [Open repository](https://github.com/m1guelpf/yt-whisper)
+
+[Open detailed stats for m1guelpf/yt-whisper](https://reviewgithub.com/rep/m1guelpf/yt-whisper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | 254 | 8 | 
 | 2022-09-25 | 185 | 5 | 
 
-
-[Detailed charts & statistics for m1guelpf/yt-whisper](https://reviewgithub.com/rep/m1guelpf/yt-whisper)

@@ -1,12 +1,14 @@
 # davidsbond/forcelog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 36
 
 [Open repository](https://github.com/davidsbond/forcelog)
+
+[Open detailed stats for davidsbond/forcelog](https://reviewgithub.com/rep/davidsbond/forcelog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 36 | 11 | 
 | 2022-09-08 | 36 | 11 | 
 
-
-[Detailed charts & statistics for davidsbond/forcelog](https://reviewgithub.com/rep/davidsbond/forcelog)

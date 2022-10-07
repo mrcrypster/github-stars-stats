@@ -1,12 +1,14 @@
 # turingschool-examples/set_list_tutorial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 55
 
 ★ Stars: 0
 
 [Open repository](https://github.com/turingschool-examples/set_list_tutorial)
+
+[Open detailed stats for turingschool-examples/set_list_tutorial](https://reviewgithub.com/rep/turingschool-examples/set_list_tutorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 55 | 
 | 2022-09-07 | - | 55 | 
 
-
-[Detailed charts & statistics for turingschool-examples/set_list_tutorial](https://reviewgithub.com/rep/turingschool-examples/set_list_tutorial)

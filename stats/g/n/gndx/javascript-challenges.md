@@ -1,12 +1,14 @@
 # gndx/javascript-challenges - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 318
 
 ★ Stars: 57
 
 [Open repository](https://github.com/gndx/javascript-challenges)
+
+[Open detailed stats for gndx/javascript-challenges](https://reviewgithub.com/rep/gndx/javascript-challenges)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 48 | 312 | 
 | 2022-09-07 | 39 | 310 | 
 
-
-[Detailed charts & statistics for gndx/javascript-challenges](https://reviewgithub.com/rep/gndx/javascript-challenges)

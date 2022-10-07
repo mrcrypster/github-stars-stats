@@ -1,12 +1,14 @@
 # msgilligan/unit-test-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/msgilligan/unit-test-template)
+
+[Open detailed stats for msgilligan/unit-test-template](https://reviewgithub.com/rep/msgilligan/unit-test-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for msgilligan/unit-test-template](https://reviewgithub.com/rep/msgilligan/unit-test-template)

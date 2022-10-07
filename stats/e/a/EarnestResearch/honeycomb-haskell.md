@@ -1,12 +1,14 @@
 # EarnestResearch/honeycomb-haskell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 7
 
 [Open repository](https://github.com/EarnestResearch/honeycomb-haskell)
+
+[Open detailed stats for EarnestResearch/honeycomb-haskell](https://reviewgithub.com/rep/EarnestResearch/honeycomb-haskell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 6 | 
 | 2022-09-07 | 7 | 6 | 
 
-
-[Detailed charts & statistics for EarnestResearch/honeycomb-haskell](https://reviewgithub.com/rep/EarnestResearch/honeycomb-haskell)

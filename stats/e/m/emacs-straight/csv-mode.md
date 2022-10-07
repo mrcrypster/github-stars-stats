@@ -1,12 +1,14 @@
 # emacs-straight/csv-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/emacs-straight/csv-mode)
+
+[Open detailed stats for emacs-straight/csv-mode](https://reviewgithub.com/rep/emacs-straight/csv-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | - | - | 
 | 2022-09-14 | - | - | 
 
-
-[Detailed charts & statistics for emacs-straight/csv-mode](https://reviewgithub.com/rep/emacs-straight/csv-mode)

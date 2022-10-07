@@ -1,12 +1,14 @@
 # iyyel/fio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/iyyel/fio)
+
+[Open detailed stats for iyyel/fio](https://reviewgithub.com/rep/iyyel/fio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 24 | - | 
 | 2022-09-07 | 24 | - | 
 
-
-[Detailed charts & statistics for iyyel/fio](https://reviewgithub.com/rep/iyyel/fio)

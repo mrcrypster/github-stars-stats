@@ -1,12 +1,14 @@
 # oli233/corona-analysis - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 229
 
 [Open repository](https://github.com/oli233/corona-analysis)
+
+[Open detailed stats for oli233/corona-analysis](https://reviewgithub.com/rep/oli233/corona-analysis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 230 | 25 | 
 | 2022-09-08 | 230 | 25 | 
 
-
-[Detailed charts & statistics for oli233/corona-analysis](https://reviewgithub.com/rep/oli233/corona-analysis)

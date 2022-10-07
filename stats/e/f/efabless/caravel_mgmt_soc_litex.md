@@ -1,12 +1,14 @@
 # efabless/caravel_mgmt_soc_litex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 16
 
 [Open repository](https://github.com/efabless/caravel_mgmt_soc_litex)
+
+[Open detailed stats for efabless/caravel_mgmt_soc_litex](https://reviewgithub.com/rep/efabless/caravel_mgmt_soc_litex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 11 | 
 | 2022-09-07 | 15 | 11 | 
 
-
-[Detailed charts & statistics for efabless/caravel_mgmt_soc_litex](https://reviewgithub.com/rep/efabless/caravel_mgmt_soc_litex)

@@ -1,12 +1,14 @@
 # opendilab/DI-sheep - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 167
 
 [Open repository](https://github.com/opendilab/DI-sheep)
+
+[Open detailed stats for opendilab/DI-sheep](https://reviewgithub.com/rep/opendilab/DI-sheep)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 105 | 6 | 
 | 2022-09-25 | 98 | 6 | 
 
-
-[Detailed charts & statistics for opendilab/DI-sheep](https://reviewgithub.com/rep/opendilab/DI-sheep)

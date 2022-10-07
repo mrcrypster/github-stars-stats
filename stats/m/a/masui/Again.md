@@ -1,12 +1,14 @@
 # masui/Again - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 7
 
 [Open repository](https://github.com/masui/Again)
+
+[Open detailed stats for masui/Again](https://reviewgithub.com/rep/masui/Again)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 1 | 
 | 2022-09-07 | 7 | 1 | 
 
-
-[Detailed charts & statistics for masui/Again](https://reviewgithub.com/rep/masui/Again)

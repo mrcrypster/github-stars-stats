@@ -1,12 +1,14 @@
 # ViceStation/ViceStation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ViceStation/ViceStation)
+
+[Open detailed stats for ViceStation/ViceStation](https://reviewgithub.com/rep/ViceStation/ViceStation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 8 | 
 | 2022-09-07 | 2 | 8 | 
 
-
-[Detailed charts & statistics for ViceStation/ViceStation](https://reviewgithub.com/rep/ViceStation/ViceStation)

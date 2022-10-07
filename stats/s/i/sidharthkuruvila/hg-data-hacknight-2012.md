@@ -1,12 +1,14 @@
 # sidharthkuruvila/hg-data-hacknight-2012 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sidharthkuruvila/hg-data-hacknight-2012)
+
+[Open detailed stats for sidharthkuruvila/hg-data-hacknight-2012](https://reviewgithub.com/rep/sidharthkuruvila/hg-data-hacknight-2012)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for sidharthkuruvila/hg-data-hacknight-2012](https://reviewgithub.com/rep/sidharthkuruvila/hg-data-hacknight-2012)

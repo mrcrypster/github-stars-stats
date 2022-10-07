@@ -1,12 +1,14 @@
 # kivra/kivra-api-errors - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/kivra/kivra-api-errors)
+
+[Open detailed stats for kivra/kivra-api-errors](https://reviewgithub.com/rep/kivra/kivra-api-errors)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for kivra/kivra-api-errors](https://reviewgithub.com/rep/kivra/kivra-api-errors)

@@ -1,12 +1,14 @@
 # saltstack-formulas/salt-formula - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 430
 
 ★ Stars: 194
 
 [Open repository](https://github.com/saltstack-formulas/salt-formula)
+
+[Open detailed stats for saltstack-formulas/salt-formula](https://reviewgithub.com/rep/saltstack-formulas/salt-formula)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 193 | 429 | 
 | 2022-09-07 | 193 | 429 | 
 
-
-[Detailed charts & statistics for saltstack-formulas/salt-formula](https://reviewgithub.com/rep/saltstack-formulas/salt-formula)

@@ -1,12 +1,14 @@
 # tashirosota/ecto_cellar - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 79
 
 [Open repository](https://github.com/tashirosota/ecto_cellar)
+
+[Open detailed stats for tashirosota/ecto_cellar](https://reviewgithub.com/rep/tashirosota/ecto_cellar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 79 | 4 | 
 | 2022-09-07 | 79 | 4 | 
 
-
-[Detailed charts & statistics for tashirosota/ecto_cellar](https://reviewgithub.com/rep/tashirosota/ecto_cellar)

@@ -1,12 +1,14 @@
 # intel/isa-l_crypto - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
 ★ Stars: 206
 
 [Open repository](https://github.com/intel/isa-l_crypto)
+
+[Open detailed stats for intel/isa-l_crypto](https://reviewgithub.com/rep/intel/isa-l_crypto)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 203 | 73 | 
 | 2022-09-08 | 203 | 73 | 
 
-
-[Detailed charts & statistics for intel/isa-l_crypto](https://reviewgithub.com/rep/intel/isa-l_crypto)

@@ -1,12 +1,14 @@
 # zerostaticthemes/hugo-serif-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 208
 
 ★ Stars: 330
 
 [Open repository](https://github.com/zerostaticthemes/hugo-serif-theme)
+
+[Open detailed stats for zerostaticthemes/hugo-serif-theme](https://reviewgithub.com/rep/zerostaticthemes/hugo-serif-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 320 | 206 | 
 | 2022-09-07 | 321 | 206 | 
 
-
-[Detailed charts & statistics for zerostaticthemes/hugo-serif-theme](https://reviewgithub.com/rep/zerostaticthemes/hugo-serif-theme)

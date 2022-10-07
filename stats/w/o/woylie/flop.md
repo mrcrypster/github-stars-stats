@@ -1,12 +1,14 @@
 # woylie/flop - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 113
 
 [Open repository](https://github.com/woylie/flop)
+
+[Open detailed stats for woylie/flop](https://reviewgithub.com/rep/woylie/flop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 93 | 7 | 
 | 2022-09-07 | 93 | 7 | 
 
-
-[Detailed charts & statistics for woylie/flop](https://reviewgithub.com/rep/woylie/flop)

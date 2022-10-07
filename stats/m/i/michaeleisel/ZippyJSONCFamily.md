@@ -1,12 +1,14 @@
 # michaeleisel/ZippyJSONCFamily - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 5
 
 [Open repository](https://github.com/michaeleisel/ZippyJSONCFamily)
+
+[Open detailed stats for michaeleisel/ZippyJSONCFamily](https://reviewgithub.com/rep/michaeleisel/ZippyJSONCFamily)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 8 | 
 | 2022-09-07 | 5 | 8 | 
 
-
-[Detailed charts & statistics for michaeleisel/ZippyJSONCFamily](https://reviewgithub.com/rep/michaeleisel/ZippyJSONCFamily)

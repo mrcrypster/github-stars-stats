@@ -1,12 +1,14 @@
 # manwar/perl-cool-snippets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 39
 
 [Open repository](https://github.com/manwar/perl-cool-snippets)
+
+[Open detailed stats for manwar/perl-cool-snippets](https://reviewgithub.com/rep/manwar/perl-cool-snippets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 5 | 
 | 2022-09-07 | 39 | 5 | 
 
-
-[Detailed charts & statistics for manwar/perl-cool-snippets](https://reviewgithub.com/rep/manwar/perl-cool-snippets)

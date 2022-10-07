@@ -1,12 +1,14 @@
 # sailay1996/SpoolTrigger - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 120
 
 [Open repository](https://github.com/sailay1996/SpoolTrigger)
+
+[Open detailed stats for sailay1996/SpoolTrigger](https://reviewgithub.com/rep/sailay1996/SpoolTrigger)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 107 | 19 | 
 | 2022-09-07 | 106 | 19 | 
 
-
-[Detailed charts & statistics for sailay1996/SpoolTrigger](https://reviewgithub.com/rep/sailay1996/SpoolTrigger)

@@ -1,12 +1,14 @@
 # slaclab/amc-carrier-core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/slaclab/amc-carrier-core)
+
+[Open detailed stats for slaclab/amc-carrier-core](https://reviewgithub.com/rep/slaclab/amc-carrier-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 3 | 
 | 2022-09-08 | 1 | 3 | 
 
-
-[Detailed charts & statistics for slaclab/amc-carrier-core](https://reviewgithub.com/rep/slaclab/amc-carrier-core)

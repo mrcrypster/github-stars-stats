@@ -1,12 +1,14 @@
 # SWI-Prolog/packages-inclpr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 6
 
 [Open repository](https://github.com/SWI-Prolog/packages-inclpr)
+
+[Open detailed stats for SWI-Prolog/packages-inclpr](https://reviewgithub.com/rep/SWI-Prolog/packages-inclpr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 3 | 
 | 2022-09-07 | 6 | 3 | 
 
-
-[Detailed charts & statistics for SWI-Prolog/packages-inclpr](https://reviewgithub.com/rep/SWI-Prolog/packages-inclpr)

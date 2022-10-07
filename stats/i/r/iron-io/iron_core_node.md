@@ -1,12 +1,14 @@
 # iron-io/iron_core_node - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 6
 
 [Open repository](https://github.com/iron-io/iron_core_node)
+
+[Open detailed stats for iron-io/iron_core_node](https://reviewgithub.com/rep/iron-io/iron_core_node)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 10 | 
 | 2022-09-07 | 6 | 10 | 
 
-
-[Detailed charts & statistics for iron-io/iron_core_node](https://reviewgithub.com/rep/iron-io/iron_core_node)

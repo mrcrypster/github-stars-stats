@@ -1,12 +1,14 @@
 # psliwka/vim-dirtytalk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 105
 
 [Open repository](https://github.com/psliwka/vim-dirtytalk)
+
+[Open detailed stats for psliwka/vim-dirtytalk](https://reviewgithub.com/rep/psliwka/vim-dirtytalk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 106 | 2 | 
 | 2022-09-07 | 106 | 2 | 
 
-
-[Detailed charts & statistics for psliwka/vim-dirtytalk](https://reviewgithub.com/rep/psliwka/vim-dirtytalk)

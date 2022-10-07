@@ -1,12 +1,14 @@
 # GtX-Andy/limitedPalletsFix - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/GtX-Andy/limitedPalletsFix)
+
+[Open detailed stats for GtX-Andy/limitedPalletsFix](https://reviewgithub.com/rep/GtX-Andy/limitedPalletsFix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 1 | 
 | 2022-09-07 | 8 | 1 | 
 
-
-[Detailed charts & statistics for GtX-Andy/limitedPalletsFix](https://reviewgithub.com/rep/GtX-Andy/limitedPalletsFix)

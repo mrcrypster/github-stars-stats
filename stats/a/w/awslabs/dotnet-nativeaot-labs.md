@@ -1,12 +1,14 @@
 # awslabs/dotnet-nativeaot-labs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 114
 
 [Open repository](https://github.com/awslabs/dotnet-nativeaot-labs)
+
+[Open detailed stats for awslabs/dotnet-nativeaot-labs](https://reviewgithub.com/rep/awslabs/dotnet-nativeaot-labs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 112 | 1 | 
 | 2022-09-07 | 111 | 1 | 
 
-
-[Detailed charts & statistics for awslabs/dotnet-nativeaot-labs](https://reviewgithub.com/rep/awslabs/dotnet-nativeaot-labs)

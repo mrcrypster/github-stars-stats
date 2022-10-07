@@ -1,12 +1,14 @@
 # dropbox/focus - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 296
 
 [Open repository](https://github.com/dropbox/focus)
+
+[Open detailed stats for dropbox/focus](https://reviewgithub.com/rep/dropbox/focus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 293 | 9 | 
 | 2022-09-07 | 293 | 9 | 
 
-
-[Detailed charts & statistics for dropbox/focus](https://reviewgithub.com/rep/dropbox/focus)

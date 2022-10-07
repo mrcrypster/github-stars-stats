@@ -1,12 +1,14 @@
 # erlangpack/erlang-oauth - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 102
 
 ★ Stars: 298
 
 [Open repository](https://github.com/erlangpack/erlang-oauth)
+
+[Open detailed stats for erlangpack/erlang-oauth](https://reviewgithub.com/rep/erlangpack/erlang-oauth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 298 | 102 | 
 | 2022-09-07 | 298 | 102 | 
 
-
-[Detailed charts & statistics for erlangpack/erlang-oauth](https://reviewgithub.com/rep/erlangpack/erlang-oauth)

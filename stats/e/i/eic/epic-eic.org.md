@@ -1,12 +1,14 @@
 # eic/epic-eic.org - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/eic/epic-eic.org)
+
+[Open detailed stats for eic/epic-eic.org](https://reviewgithub.com/rep/eic/epic-eic.org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for eic/epic-eic.org](https://reviewgithub.com/rep/eic/epic-eic.org)

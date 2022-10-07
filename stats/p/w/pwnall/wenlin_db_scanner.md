@@ -1,12 +1,14 @@
 # pwnall/wenlin_db_scanner - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 10
 
 [Open repository](https://github.com/pwnall/wenlin_db_scanner)
+
+[Open detailed stats for pwnall/wenlin_db_scanner](https://reviewgithub.com/rep/pwnall/wenlin_db_scanner)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 10 | 5 | 
 | 2022-09-07 | 10 | 5 | 
 
-
-[Detailed charts & statistics for pwnall/wenlin_db_scanner](https://reviewgithub.com/rep/pwnall/wenlin_db_scanner)

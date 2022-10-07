@@ -1,12 +1,14 @@
 # IsaacRudich/BipartiteMatching.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 14
 
 [Open repository](https://github.com/IsaacRudich/BipartiteMatching.jl)
+
+[Open detailed stats for IsaacRudich/BipartiteMatching.jl](https://reviewgithub.com/rep/IsaacRudich/BipartiteMatching.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 1 | 
 | 2022-09-07 | 14 | 1 | 
 
-
-[Detailed charts & statistics for IsaacRudich/BipartiteMatching.jl](https://reviewgithub.com/rep/IsaacRudich/BipartiteMatching.jl)

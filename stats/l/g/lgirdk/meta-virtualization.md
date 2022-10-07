@@ -1,12 +1,14 @@
 # lgirdk/meta-virtualization - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/lgirdk/meta-virtualization)
+
+[Open detailed stats for lgirdk/meta-virtualization](https://reviewgithub.com/rep/lgirdk/meta-virtualization)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 1 | 
 | 2022-09-08 | 2 | 1 | 
 
-
-[Detailed charts & statistics for lgirdk/meta-virtualization](https://reviewgithub.com/rep/lgirdk/meta-virtualization)

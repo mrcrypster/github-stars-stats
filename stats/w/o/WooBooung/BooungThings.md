@@ -1,12 +1,14 @@
 # WooBooung/BooungThings - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 240
 
 ★ Stars: 33
 
 [Open repository](https://github.com/WooBooung/BooungThings)
+
+[Open detailed stats for WooBooung/BooungThings](https://reviewgithub.com/rep/WooBooung/BooungThings)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 238 | 
 | 2022-09-07 | 33 | 238 | 
 
-
-[Detailed charts & statistics for WooBooung/BooungThings](https://reviewgithub.com/rep/WooBooung/BooungThings)

@@ -1,12 +1,14 @@
 # tomas-abrahamsson/gpb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 142
 
 ★ Stars: 501
 
 [Open repository](https://github.com/tomas-abrahamsson/gpb)
+
+[Open detailed stats for tomas-abrahamsson/gpb](https://reviewgithub.com/rep/tomas-abrahamsson/gpb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 499 | 142 | 
 | 2022-09-08 | 499 | 142 | 
 
-
-[Detailed charts & statistics for tomas-abrahamsson/gpb](https://reviewgithub.com/rep/tomas-abrahamsson/gpb)

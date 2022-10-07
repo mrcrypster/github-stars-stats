@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-config-storage - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 5
 
 [Open repository](https://github.com/cloudposse/terraform-aws-config-storage)
+
+[Open detailed stats for cloudposse/terraform-aws-config-storage](https://reviewgithub.com/rep/cloudposse/terraform-aws-config-storage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 7 | 
 | 2022-09-08 | 5 | 7 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-config-storage](https://reviewgithub.com/rep/cloudposse/terraform-aws-config-storage)

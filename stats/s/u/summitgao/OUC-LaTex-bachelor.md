@@ -1,12 +1,14 @@
 # summitgao/OUC-LaTex-bachelor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 37
 
 [Open repository](https://github.com/summitgao/OUC-LaTex-bachelor)
+
+[Open detailed stats for summitgao/OUC-LaTex-bachelor](https://reviewgithub.com/rep/summitgao/OUC-LaTex-bachelor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 8 | 
 | 2022-09-07 | 37 | 8 | 
 
-
-[Detailed charts & statistics for summitgao/OUC-LaTex-bachelor](https://reviewgithub.com/rep/summitgao/OUC-LaTex-bachelor)

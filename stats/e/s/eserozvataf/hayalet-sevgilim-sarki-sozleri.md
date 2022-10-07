@@ -1,12 +1,14 @@
 # eserozvataf/hayalet-sevgilim-sarki-sozleri - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 544
 
 [Open repository](https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri)
+
+[Open detailed stats for eserozvataf/hayalet-sevgilim-sarki-sozleri](https://reviewgithub.com/rep/eserozvataf/hayalet-sevgilim-sarki-sozleri)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 541 | 79 | 
 | 2022-09-07 | 541 | 79 | 
 
-
-[Detailed charts & statistics for eserozvataf/hayalet-sevgilim-sarki-sozleri](https://reviewgithub.com/rep/eserozvataf/hayalet-sevgilim-sarki-sozleri)

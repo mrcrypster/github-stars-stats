@@ -1,12 +1,14 @@
 # benel/TP-DocNum - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/benel/TP-DocNum)
+
+[Open detailed stats for benel/TP-DocNum](https://reviewgithub.com/rep/benel/TP-DocNum)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | - | - | 
 | 2022-09-27 | - | - | 
 
-
-[Detailed charts & statistics for benel/TP-DocNum](https://reviewgithub.com/rep/benel/TP-DocNum)

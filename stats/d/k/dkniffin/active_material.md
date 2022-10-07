@@ -1,12 +1,14 @@
 # dkniffin/active_material - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 174
 
 [Open repository](https://github.com/dkniffin/active_material)
+
+[Open detailed stats for dkniffin/active_material](https://reviewgithub.com/rep/dkniffin/active_material)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 174 | 64 | 
 | 2022-09-07 | 174 | 64 | 
 
-
-[Detailed charts & statistics for dkniffin/active_material](https://reviewgithub.com/rep/dkniffin/active_material)

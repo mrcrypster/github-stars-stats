@@ -1,12 +1,14 @@
 # Barento/cirrus-win - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Barento/cirrus-win)
+
+[Open detailed stats for Barento/cirrus-win](https://reviewgithub.com/rep/Barento/cirrus-win)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 36 | 
 | 2022-09-07 | 1 | 36 | 
 
-
-[Detailed charts & statistics for Barento/cirrus-win](https://reviewgithub.com/rep/Barento/cirrus-win)

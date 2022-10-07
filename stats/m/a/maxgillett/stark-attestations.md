@@ -1,12 +1,14 @@
 # maxgillett/stark-attestations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 51
 
 [Open repository](https://github.com/maxgillett/stark-attestations)
+
+[Open detailed stats for maxgillett/stark-attestations](https://reviewgithub.com/rep/maxgillett/stark-attestations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 49 | 4 | 
 | 2022-09-07 | 49 | 4 | 
 
-
-[Detailed charts & statistics for maxgillett/stark-attestations](https://reviewgithub.com/rep/maxgillett/stark-attestations)

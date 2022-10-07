@@ -1,12 +1,14 @@
 # Frameio/rolodex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 36
 
 [Open repository](https://github.com/Frameio/rolodex)
+
+[Open detailed stats for Frameio/rolodex](https://reviewgithub.com/rep/Frameio/rolodex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 3 | 
 | 2022-09-07 | 37 | 3 | 
 
-
-[Detailed charts & statistics for Frameio/rolodex](https://reviewgithub.com/rep/Frameio/rolodex)

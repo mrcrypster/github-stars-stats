@@ -1,12 +1,14 @@
 # Azure/azure-blueprints - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 148
 
 ★ Stars: 243
 
 [Open repository](https://github.com/Azure/azure-blueprints)
+
+[Open detailed stats for Azure/azure-blueprints](https://reviewgithub.com/rep/Azure/azure-blueprints)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 243 | 146 | 
 | 2022-09-08 | 243 | 146 | 
 
-
-[Detailed charts & statistics for Azure/azure-blueprints](https://reviewgithub.com/rep/Azure/azure-blueprints)

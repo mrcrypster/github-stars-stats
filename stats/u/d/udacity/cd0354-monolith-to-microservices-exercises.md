@@ -1,12 +1,14 @@
 # udacity/cd0354-monolith-to-microservices-exercises - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 370
 
 ★ Stars: 10
 
 [Open repository](https://github.com/udacity/cd0354-monolith-to-microservices-exercises)
+
+[Open detailed stats for udacity/cd0354-monolith-to-microservices-exercises](https://reviewgithub.com/rep/udacity/cd0354-monolith-to-microservices-exercises)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7 | 276 | 
 | 2022-09-07 | 7 | 269 | 
 
-
-[Detailed charts & statistics for udacity/cd0354-monolith-to-microservices-exercises](https://reviewgithub.com/rep/udacity/cd0354-monolith-to-microservices-exercises)

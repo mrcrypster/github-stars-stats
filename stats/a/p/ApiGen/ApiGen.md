@@ -1,12 +1,14 @@
 # ApiGen/ApiGen - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 319
 
 ★ Stars: 2103
 
 [Open repository](https://github.com/ApiGen/ApiGen)
+
+[Open detailed stats for ApiGen/ApiGen](https://reviewgithub.com/rep/ApiGen/ApiGen)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2099 | 320 | 
 | 2022-09-07 | 2098 | 320 | 
 
-
-[Detailed charts & statistics for ApiGen/ApiGen](https://reviewgithub.com/rep/ApiGen/ApiGen)

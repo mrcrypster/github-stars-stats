@@ -1,12 +1,14 @@
 # scala/scala-lang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 278
 
 ★ Stars: 219
 
 [Open repository](https://github.com/scala/scala-lang)
+
+[Open detailed stats for scala/scala-lang](https://reviewgithub.com/rep/scala/scala-lang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 220 | 273 | 
 | 2022-09-08 | 221 | 273 | 
 
-
-[Detailed charts & statistics for scala/scala-lang](https://reviewgithub.com/rep/scala/scala-lang)

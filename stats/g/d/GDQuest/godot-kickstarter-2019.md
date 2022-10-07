@@ -1,12 +1,14 @@
 # GDQuest/godot-kickstarter-2019 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 279
 
 ★ Stars: 228
 
 [Open repository](https://github.com/GDQuest/godot-kickstarter-2019)
+
+[Open detailed stats for GDQuest/godot-kickstarter-2019](https://reviewgithub.com/rep/GDQuest/godot-kickstarter-2019)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 226 | 273 | 
 | 2022-09-07 | 226 | 273 | 
 
-
-[Detailed charts & statistics for GDQuest/godot-kickstarter-2019](https://reviewgithub.com/rep/GDQuest/godot-kickstarter-2019)

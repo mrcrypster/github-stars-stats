@@ -1,12 +1,14 @@
 # naynam242/TestRDP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 1
 
 [Open repository](https://github.com/naynam242/TestRDP)
+
+[Open detailed stats for naynam242/TestRDP](https://reviewgithub.com/rep/naynam242/TestRDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 37 | 
 | 2022-09-08 | 1 | 37 | 
 
-
-[Detailed charts & statistics for naynam242/TestRDP](https://reviewgithub.com/rep/naynam242/TestRDP)

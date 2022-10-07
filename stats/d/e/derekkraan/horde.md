@@ -1,12 +1,14 @@
 # derekkraan/horde - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 90
 
 ★ Stars: 1091
 
 [Open repository](https://github.com/derekkraan/horde)
+
+[Open detailed stats for derekkraan/horde](https://reviewgithub.com/rep/derekkraan/horde)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1083 | 89 | 
 | 2022-09-07 | 1083 | 89 | 
 
-
-[Detailed charts & statistics for derekkraan/horde](https://reviewgithub.com/rep/derekkraan/horde)

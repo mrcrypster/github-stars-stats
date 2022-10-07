@@ -1,12 +1,14 @@
 # JaccoVeldscholten/SlimmeMeterDashboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 51
 
 [Open repository](https://github.com/JaccoVeldscholten/SlimmeMeterDashboard)
+
+[Open detailed stats for JaccoVeldscholten/SlimmeMeterDashboard](https://reviewgithub.com/rep/JaccoVeldscholten/SlimmeMeterDashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | - | 
 | 2022-09-07 | 51 | - | 
 
-
-[Detailed charts & statistics for JaccoVeldscholten/SlimmeMeterDashboard](https://reviewgithub.com/rep/JaccoVeldscholten/SlimmeMeterDashboard)

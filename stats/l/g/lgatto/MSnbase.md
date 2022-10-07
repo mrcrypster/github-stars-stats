@@ -1,12 +1,14 @@
 # lgatto/MSnbase - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 98
 
 [Open repository](https://github.com/lgatto/MSnbase)
+
+[Open detailed stats for lgatto/MSnbase](https://reviewgithub.com/rep/lgatto/MSnbase)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 97 | 49 | 
 | 2022-09-07 | 97 | 49 | 
 
-
-[Detailed charts & statistics for lgatto/MSnbase](https://reviewgithub.com/rep/lgatto/MSnbase)

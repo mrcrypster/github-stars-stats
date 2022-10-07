@@ -1,12 +1,14 @@
 # MasonProtter/ShapeCheck.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 34
 
 [Open repository](https://github.com/MasonProtter/ShapeCheck.jl)
+
+[Open detailed stats for MasonProtter/ShapeCheck.jl](https://reviewgithub.com/rep/MasonProtter/ShapeCheck.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 34 | - | 
 | 2022-09-08 | 34 | - | 
 
-
-[Detailed charts & statistics for MasonProtter/ShapeCheck.jl](https://reviewgithub.com/rep/MasonProtter/ShapeCheck.jl)

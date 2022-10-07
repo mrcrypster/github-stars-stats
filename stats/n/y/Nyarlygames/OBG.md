@@ -1,12 +1,14 @@
 # Nyarlygames/OBG - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Nyarlygames/OBG)
+
+[Open detailed stats for Nyarlygames/OBG](https://reviewgithub.com/rep/Nyarlygames/OBG)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | - | - | 
 | 2022-09-13 | - | - | 
 
-
-[Detailed charts & statistics for Nyarlygames/OBG](https://reviewgithub.com/rep/Nyarlygames/OBG)

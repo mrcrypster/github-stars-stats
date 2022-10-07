@@ -1,12 +1,14 @@
 # fairdataihub/FAIRshare - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 52
 
 [Open repository](https://github.com/fairdataihub/FAIRshare)
+
+[Open detailed stats for fairdataihub/FAIRshare](https://reviewgithub.com/rep/fairdataihub/FAIRshare)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 52 | 5 | 
 | 2022-09-07 | 52 | 5 | 
 
-
-[Detailed charts & statistics for fairdataihub/FAIRshare](https://reviewgithub.com/rep/fairdataihub/FAIRshare)

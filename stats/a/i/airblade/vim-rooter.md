@@ -1,12 +1,14 @@
 # airblade/vim-rooter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 72
 
 ★ Stars: 1063
 
 [Open repository](https://github.com/airblade/vim-rooter)
+
+[Open detailed stats for airblade/vim-rooter](https://reviewgithub.com/rep/airblade/vim-rooter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1055 | 72 | 
 | 2022-09-08 | 1055 | 72 | 
 
-
-[Detailed charts & statistics for airblade/vim-rooter](https://reviewgithub.com/rep/airblade/vim-rooter)

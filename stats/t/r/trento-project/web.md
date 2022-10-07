@@ -1,12 +1,14 @@
 # trento-project/web - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 7
 
 [Open repository](https://github.com/trento-project/web)
+
+[Open detailed stats for trento-project/web](https://reviewgithub.com/rep/trento-project/web)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 7 | 
 | 2022-09-07 | 7 | 7 | 
 
-
-[Detailed charts & statistics for trento-project/web](https://reviewgithub.com/rep/trento-project/web)

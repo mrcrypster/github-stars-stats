@@ -1,12 +1,14 @@
 # dfinity/examples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 200
 
 ★ Stars: 351
 
 [Open repository](https://github.com/dfinity/examples)
+
+[Open detailed stats for dfinity/examples](https://reviewgithub.com/rep/dfinity/examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 343 | 194 | 
 | 2022-09-08 | 343 | 194 | 
 
-
-[Detailed charts & statistics for dfinity/examples](https://reviewgithub.com/rep/dfinity/examples)

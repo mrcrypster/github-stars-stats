@@ -1,12 +1,14 @@
 # JuliaReach/ReachabilityAnalysis.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 158
 
 [Open repository](https://github.com/JuliaReach/ReachabilityAnalysis.jl)
+
+[Open detailed stats for JuliaReach/ReachabilityAnalysis.jl](https://reviewgithub.com/rep/JuliaReach/ReachabilityAnalysis.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 156 | 16 | 
 | 2022-09-07 | 156 | 16 | 
 
-
-[Detailed charts & statistics for JuliaReach/ReachabilityAnalysis.jl](https://reviewgithub.com/rep/JuliaReach/ReachabilityAnalysis.jl)

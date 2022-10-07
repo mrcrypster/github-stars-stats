@@ -1,12 +1,14 @@
 # nspcc-dev/neofs-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 14
 
 [Open repository](https://github.com/nspcc-dev/neofs-api)
+
+[Open detailed stats for nspcc-dev/neofs-api](https://reviewgithub.com/rep/nspcc-dev/neofs-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 11 | 
 | 2022-09-07 | 14 | 11 | 
 
-
-[Detailed charts & statistics for nspcc-dev/neofs-api](https://reviewgithub.com/rep/nspcc-dev/neofs-api)

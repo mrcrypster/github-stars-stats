@@ -1,12 +1,14 @@
 # ices-eg/wg_HAWG - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ices-eg/wg_HAWG)
+
+[Open detailed stats for ices-eg/wg_HAWG](https://reviewgithub.com/rep/ices-eg/wg_HAWG)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 6 | 
 | 2022-09-08 | - | 6 | 
 
-
-[Detailed charts & statistics for ices-eg/wg_HAWG](https://reviewgithub.com/rep/ices-eg/wg_HAWG)

@@ -1,12 +1,14 @@
 # VitorVilela7/SA1-Root - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 437
 
 [Open repository](https://github.com/VitorVilela7/SA1-Root)
+
+[Open detailed stats for VitorVilela7/SA1-Root](https://reviewgithub.com/rep/VitorVilela7/SA1-Root)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 433 | 27 | 
 | 2022-09-23 | 432 | 27 | 
 
-
-[Detailed charts & statistics for VitorVilela7/SA1-Root](https://reviewgithub.com/rep/VitorVilela7/SA1-Root)

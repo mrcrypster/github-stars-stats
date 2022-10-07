@@ -1,12 +1,14 @@
 # rstudio-conf-2022/causal-inference-rstats - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 67
 
 [Open repository](https://github.com/rstudio-conf-2022/causal-inference-rstats)
+
+[Open detailed stats for rstudio-conf-2022/causal-inference-rstats](https://reviewgithub.com/rep/rstudio-conf-2022/causal-inference-rstats)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 64 | 16 | 
 | 2022-09-07 | 64 | 16 | 
 
-
-[Detailed charts & statistics for rstudio-conf-2022/causal-inference-rstats](https://reviewgithub.com/rep/rstudio-conf-2022/causal-inference-rstats)

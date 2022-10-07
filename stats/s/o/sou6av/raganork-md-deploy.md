@@ -1,12 +1,14 @@
 # sou6av/raganork-md-deploy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 540
 
 ★ Stars: 7
 
 [Open repository](https://github.com/sou6av/raganork-md-deploy)
+
+[Open detailed stats for sou6av/raganork-md-deploy](https://reviewgithub.com/rep/sou6av/raganork-md-deploy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 536 | 
 | 2022-09-08 | 7 | 537 | 
 
-
-[Detailed charts & statistics for sou6av/raganork-md-deploy](https://reviewgithub.com/rep/sou6av/raganork-md-deploy)

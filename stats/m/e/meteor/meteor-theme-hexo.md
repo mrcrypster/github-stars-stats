@@ -1,12 +1,14 @@
 # meteor/meteor-theme-hexo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 63
 
 [Open repository](https://github.com/meteor/meteor-theme-hexo)
+
+[Open detailed stats for meteor/meteor-theme-hexo](https://reviewgithub.com/rep/meteor/meteor-theme-hexo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 63 | 26 | 
 | 2022-09-08 | 63 | 26 | 
 
-
-[Detailed charts & statistics for meteor/meteor-theme-hexo](https://reviewgithub.com/rep/meteor/meteor-theme-hexo)

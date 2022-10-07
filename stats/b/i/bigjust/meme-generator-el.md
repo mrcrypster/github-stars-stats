@@ -1,12 +1,14 @@
 # bigjust/meme-generator-el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/bigjust/meme-generator-el)
+
+[Open detailed stats for bigjust/meme-generator-el](https://reviewgithub.com/rep/bigjust/meme-generator-el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for bigjust/meme-generator-el](https://reviewgithub.com/rep/bigjust/meme-generator-el)

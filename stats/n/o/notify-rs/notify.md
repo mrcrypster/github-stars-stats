@@ -1,12 +1,14 @@
 # notify-rs/notify - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 149
 
 ★ Stars: 1800
 
 [Open repository](https://github.com/notify-rs/notify)
+
+[Open detailed stats for notify-rs/notify](https://reviewgithub.com/rep/notify-rs/notify)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1764 | 147 | 
 | 2022-09-07 | 1762 | 147 | 
 
-
-[Detailed charts & statistics for notify-rs/notify](https://reviewgithub.com/rep/notify-rs/notify)

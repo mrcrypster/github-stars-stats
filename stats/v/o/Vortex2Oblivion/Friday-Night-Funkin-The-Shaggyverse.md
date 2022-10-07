@@ -1,12 +1,14 @@
 # Vortex2Oblivion/Friday-Night-Funkin-The-Shaggyverse - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Vortex2Oblivion/Friday-Night-Funkin-The-Shaggyverse)
+
+[Open detailed stats for Vortex2Oblivion/Friday-Night-Funkin-The-Shaggyverse](https://reviewgithub.com/rep/Vortex2Oblivion/Friday-Night-Funkin-The-Shaggyverse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 5 | 
 | 2022-09-07 | 3 | 5 | 
 
-
-[Detailed charts & statistics for Vortex2Oblivion/Friday-Night-Funkin-The-Shaggyverse](https://reviewgithub.com/rep/Vortex2Oblivion/Friday-Night-Funkin-The-Shaggyverse)

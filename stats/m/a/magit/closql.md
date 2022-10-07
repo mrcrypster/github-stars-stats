@@ -1,12 +1,14 @@
 # magit/closql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 24
 
 [Open repository](https://github.com/magit/closql)
+
+[Open detailed stats for magit/closql](https://reviewgithub.com/rep/magit/closql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | 24 | 3 | 
 | 2022-09-29 | 24 | 3 | 
 
-
-[Detailed charts & statistics for magit/closql](https://reviewgithub.com/rep/magit/closql)

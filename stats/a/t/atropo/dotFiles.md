@@ -1,12 +1,14 @@
 # atropo/dotFiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/atropo/dotFiles)
+
+[Open detailed stats for atropo/dotFiles](https://reviewgithub.com/rep/atropo/dotFiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | - | - | 
 | 2022-09-25 | - | - | 
 
-
-[Detailed charts & statistics for atropo/dotFiles](https://reviewgithub.com/rep/atropo/dotFiles)

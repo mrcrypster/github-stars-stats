@@ -1,12 +1,14 @@
 # hellofresh/strider-docker-spark - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/hellofresh/strider-docker-spark)
+
+[Open detailed stats for hellofresh/strider-docker-spark](https://reviewgithub.com/rep/hellofresh/strider-docker-spark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for hellofresh/strider-docker-spark](https://reviewgithub.com/rep/hellofresh/strider-docker-spark)

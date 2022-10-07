@@ -1,12 +1,14 @@
 # DeekshithSN/Helm_charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 175
 
 ★ Stars: 15
 
 [Open repository](https://github.com/DeekshithSN/Helm_charts)
+
+[Open detailed stats for DeekshithSN/Helm_charts](https://reviewgithub.com/rep/DeekshithSN/Helm_charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 169 | 
 | 2022-09-08 | 14 | 169 | 
 
-
-[Detailed charts & statistics for DeekshithSN/Helm_charts](https://reviewgithub.com/rep/DeekshithSN/Helm_charts)

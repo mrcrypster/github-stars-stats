@@ -1,12 +1,14 @@
 # c-proof/pyglider - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 12
 
 [Open repository](https://github.com/c-proof/pyglider)
+
+[Open detailed stats for c-proof/pyglider](https://reviewgithub.com/rep/c-proof/pyglider)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 9 | 
 | 2022-09-07 | 12 | 9 | 
 
-
-[Detailed charts & statistics for c-proof/pyglider](https://reviewgithub.com/rep/c-proof/pyglider)

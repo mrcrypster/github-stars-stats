@@ -1,12 +1,14 @@
 # sfvsfv/Mathematical-modeling - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 63
 
 [Open repository](https://github.com/sfvsfv/Mathematical-modeling)
+
+[Open detailed stats for sfvsfv/Mathematical-modeling](https://reviewgithub.com/rep/sfvsfv/Mathematical-modeling)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 59 | 23 | 
 | 2022-09-16 | 59 | 23 | 
 
-
-[Detailed charts & statistics for sfvsfv/Mathematical-modeling](https://reviewgithub.com/rep/sfvsfv/Mathematical-modeling)

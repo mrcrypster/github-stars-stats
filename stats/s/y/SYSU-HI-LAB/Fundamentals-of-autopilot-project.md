@@ -1,12 +1,14 @@
 # SYSU-HI-LAB/Fundamentals-of-autopilot-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 1
 
 [Open repository](https://github.com/SYSU-HI-LAB/Fundamentals-of-autopilot-project)
+
+[Open detailed stats for SYSU-HI-LAB/Fundamentals-of-autopilot-project](https://reviewgithub.com/rep/SYSU-HI-LAB/Fundamentals-of-autopilot-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 7 | 
 | 2022-09-07 | 1 | 7 | 
 
-
-[Detailed charts & statistics for SYSU-HI-LAB/Fundamentals-of-autopilot-project](https://reviewgithub.com/rep/SYSU-HI-LAB/Fundamentals-of-autopilot-project)

@@ -1,12 +1,14 @@
 # muzi502/blog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 10
 
 [Open repository](https://github.com/muzi502/blog)
+
+[Open detailed stats for muzi502/blog](https://reviewgithub.com/rep/muzi502/blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 7 | 
 | 2022-09-07 | 10 | 7 | 
 
-
-[Detailed charts & statistics for muzi502/blog](https://reviewgithub.com/rep/muzi502/blog)

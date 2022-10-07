@@ -1,12 +1,14 @@
 # CrumpLab/statistics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 38
 
 ★ Stars: 86
 
 [Open repository](https://github.com/CrumpLab/statistics)
+
+[Open detailed stats for CrumpLab/statistics](https://reviewgithub.com/rep/CrumpLab/statistics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 83 | 37 | 
 | 2022-09-07 | 83 | 37 | 
 
-
-[Detailed charts & statistics for CrumpLab/statistics](https://reviewgithub.com/rep/CrumpLab/statistics)

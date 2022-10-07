@@ -1,12 +1,14 @@
 # algorand/algorand-sdk-testing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 13
 
 [Open repository](https://github.com/algorand/algorand-sdk-testing)
+
+[Open detailed stats for algorand/algorand-sdk-testing](https://reviewgithub.com/rep/algorand/algorand-sdk-testing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 27 | 
 | 2022-09-07 | 13 | 27 | 
 
-
-[Detailed charts & statistics for algorand/algorand-sdk-testing](https://reviewgithub.com/rep/algorand/algorand-sdk-testing)

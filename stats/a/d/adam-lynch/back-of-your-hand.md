@@ -1,12 +1,14 @@
 # adam-lynch/back-of-your-hand - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 61
 
 [Open repository](https://github.com/adam-lynch/back-of-your-hand)
+
+[Open detailed stats for adam-lynch/back-of-your-hand](https://reviewgithub.com/rep/adam-lynch/back-of-your-hand)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 61 | 4 | 
 | 2022-09-07 | 61 | 4 | 
 
-
-[Detailed charts & statistics for adam-lynch/back-of-your-hand](https://reviewgithub.com/rep/adam-lynch/back-of-your-hand)

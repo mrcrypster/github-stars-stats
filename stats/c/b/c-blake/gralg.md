@@ -1,12 +1,14 @@
 # c-blake/gralg - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/c-blake/gralg)
+
+[Open detailed stats for c-blake/gralg](https://reviewgithub.com/rep/c-blake/gralg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | - | 
 | 2022-09-08 | 10 | - | 
 
-
-[Detailed charts & statistics for c-blake/gralg](https://reviewgithub.com/rep/c-blake/gralg)

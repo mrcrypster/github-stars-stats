@@ -1,12 +1,14 @@
 # ikambarov/scripted-pipeline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 104
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ikambarov/scripted-pipeline)
+
+[Open detailed stats for ikambarov/scripted-pipeline](https://reviewgithub.com/rep/ikambarov/scripted-pipeline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 100 | 
 | 2022-09-08 | 2 | 100 | 
 
-
-[Detailed charts & statistics for ikambarov/scripted-pipeline](https://reviewgithub.com/rep/ikambarov/scripted-pipeline)

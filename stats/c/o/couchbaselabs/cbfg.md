@@ -1,12 +1,14 @@
 # couchbaselabs/cbfg - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/couchbaselabs/cbfg)
+
+[Open detailed stats for couchbaselabs/cbfg](https://reviewgithub.com/rep/couchbaselabs/cbfg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for couchbaselabs/cbfg](https://reviewgithub.com/rep/couchbaselabs/cbfg)

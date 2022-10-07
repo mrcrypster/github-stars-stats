@@ -1,12 +1,14 @@
 # vapor/core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 52
 
 ★ Stars: 72
 
 [Open repository](https://github.com/vapor/core)
+
+[Open detailed stats for vapor/core](https://reviewgithub.com/rep/vapor/core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 72 | 52 | 
 | 2022-09-07 | 72 | 52 | 
 
-
-[Detailed charts & statistics for vapor/core](https://reviewgithub.com/rep/vapor/core)

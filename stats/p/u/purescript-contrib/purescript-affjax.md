@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-affjax - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 117
 
 [Open repository](https://github.com/purescript-contrib/purescript-affjax)
+
+[Open detailed stats for purescript-contrib/purescript-affjax](https://reviewgithub.com/rep/purescript-contrib/purescript-affjax)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 116 | 78 | 
 | 2022-09-08 | 116 | 78 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-affjax](https://reviewgithub.com/rep/purescript-contrib/purescript-affjax)

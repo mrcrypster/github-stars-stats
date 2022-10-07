@@ -1,12 +1,14 @@
 # ic3bug/strafer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 70
 
 [Open repository](https://github.com/ic3bug/strafer)
+
+[Open detailed stats for ic3bug/strafer](https://reviewgithub.com/rep/ic3bug/strafer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-20 | 36 | 2 | 
 | 2022-09-19 | 33 | 2 | 
 
-
-[Detailed charts & statistics for ic3bug/strafer](https://reviewgithub.com/rep/ic3bug/strafer)

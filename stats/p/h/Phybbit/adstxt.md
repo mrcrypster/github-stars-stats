@@ -1,12 +1,14 @@
 # Phybbit/adstxt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Phybbit/adstxt)
+
+[Open detailed stats for Phybbit/adstxt](https://reviewgithub.com/rep/Phybbit/adstxt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for Phybbit/adstxt](https://reviewgithub.com/rep/Phybbit/adstxt)

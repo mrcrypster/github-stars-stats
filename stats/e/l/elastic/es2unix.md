@@ -1,12 +1,14 @@
 # elastic/es2unix - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 273
 
 [Open repository](https://github.com/elastic/es2unix)
+
+[Open detailed stats for elastic/es2unix](https://reviewgithub.com/rep/elastic/es2unix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 273 | 28 | 
 | 2022-09-08 | 273 | 28 | 
 
-
-[Detailed charts & statistics for elastic/es2unix](https://reviewgithub.com/rep/elastic/es2unix)

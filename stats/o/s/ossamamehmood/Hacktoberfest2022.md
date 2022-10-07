@@ -1,12 +1,14 @@
 # ossamamehmood/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1148
 
 ★ Stars: 391
 
 [Open repository](https://github.com/ossamamehmood/Hacktoberfest2022)
+
+[Open detailed stats for ossamamehmood/Hacktoberfest2022](https://reviewgithub.com/rep/ossamamehmood/Hacktoberfest2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 246 | 669 | 
 | 2022-10-02 | 161 | 489 | 
 
-
-[Detailed charts & statistics for ossamamehmood/Hacktoberfest2022](https://reviewgithub.com/rep/ossamamehmood/Hacktoberfest2022)

@@ -1,12 +1,14 @@
 # cloudflare/turnstile-demo-workers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 47
 
 [Open repository](https://github.com/cloudflare/turnstile-demo-workers)
+
+[Open detailed stats for cloudflare/turnstile-demo-workers](https://reviewgithub.com/rep/cloudflare/turnstile-demo-workers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | 35 | 5 | 
 | 2022-10-01 | 34 | 5 | 
 
-
-[Detailed charts & statistics for cloudflare/turnstile-demo-workers](https://reviewgithub.com/rep/cloudflare/turnstile-demo-workers)

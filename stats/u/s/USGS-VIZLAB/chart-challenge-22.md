@@ -1,12 +1,14 @@
 # USGS-VIZLAB/chart-challenge-22 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 40
 
 [Open repository](https://github.com/USGS-VIZLAB/chart-challenge-22)
+
+[Open detailed stats for USGS-VIZLAB/chart-challenge-22](https://reviewgithub.com/rep/USGS-VIZLAB/chart-challenge-22)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 40 | 25 | 
 | 2022-09-08 | 40 | 25 | 
 
-
-[Detailed charts & statistics for USGS-VIZLAB/chart-challenge-22](https://reviewgithub.com/rep/USGS-VIZLAB/chart-challenge-22)

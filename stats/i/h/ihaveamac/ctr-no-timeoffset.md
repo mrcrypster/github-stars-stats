@@ -1,12 +1,14 @@
 # ihaveamac/ctr-no-timeoffset - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 127
 
 [Open repository](https://github.com/ihaveamac/ctr-no-timeoffset)
+
+[Open detailed stats for ihaveamac/ctr-no-timeoffset](https://reviewgithub.com/rep/ihaveamac/ctr-no-timeoffset)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 128 | 10 | 
 | 2022-09-08 | 128 | 10 | 
 
-
-[Detailed charts & statistics for ihaveamac/ctr-no-timeoffset](https://reviewgithub.com/rep/ihaveamac/ctr-no-timeoffset)

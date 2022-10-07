@@ -1,12 +1,14 @@
 # feenkcom/gt4smacc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/feenkcom/gt4smacc)
+
+[Open detailed stats for feenkcom/gt4smacc](https://reviewgithub.com/rep/feenkcom/gt4smacc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 5 | 1 | 
 | 2022-09-08 | 5 | 1 | 
 
-
-[Detailed charts & statistics for feenkcom/gt4smacc](https://reviewgithub.com/rep/feenkcom/gt4smacc)

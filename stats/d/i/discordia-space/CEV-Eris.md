@@ -1,12 +1,14 @@
 # discordia-space/CEV-Eris - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 457
 
 ★ Stars: 129
 
 [Open repository](https://github.com/discordia-space/CEV-Eris)
+
+[Open detailed stats for discordia-space/CEV-Eris](https://reviewgithub.com/rep/discordia-space/CEV-Eris)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 129 | 447 | 
 | 2022-09-08 | 129 | 445 | 
 
-
-[Detailed charts & statistics for discordia-space/CEV-Eris](https://reviewgithub.com/rep/discordia-space/CEV-Eris)

@@ -1,12 +1,14 @@
 # coupa/resque-round-robin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 9
 
 [Open repository](https://github.com/coupa/resque-round-robin)
+
+[Open detailed stats for coupa/resque-round-robin](https://reviewgithub.com/rep/coupa/resque-round-robin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 14 | 
 | 2022-09-07 | 9 | 14 | 
 
-
-[Detailed charts & statistics for coupa/resque-round-robin](https://reviewgithub.com/rep/coupa/resque-round-robin)

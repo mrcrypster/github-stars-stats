@@ -1,12 +1,14 @@
 # dzhang32/ggtranscript - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 68
 
 [Open repository](https://github.com/dzhang32/ggtranscript)
+
+[Open detailed stats for dzhang32/ggtranscript](https://reviewgithub.com/rep/dzhang32/ggtranscript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 67 | 6 | 
 | 2022-09-08 | 68 | 6 | 
 
-
-[Detailed charts & statistics for dzhang32/ggtranscript](https://reviewgithub.com/rep/dzhang32/ggtranscript)

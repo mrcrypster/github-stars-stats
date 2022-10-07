@@ -1,12 +1,14 @@
 # FeFiFoFaiza/FP_InsomniacRacoons - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/FeFiFoFaiza/FP_InsomniacRacoons)
+
+[Open detailed stats for FeFiFoFaiza/FP_InsomniacRacoons](https://reviewgithub.com/rep/FeFiFoFaiza/FP_InsomniacRacoons)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for FeFiFoFaiza/FP_InsomniacRacoons](https://reviewgithub.com/rep/FeFiFoFaiza/FP_InsomniacRacoons)

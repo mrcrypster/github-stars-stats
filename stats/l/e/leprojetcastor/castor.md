@@ -1,12 +1,14 @@
 # leprojetcastor/castor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 65
 
 [Open repository](https://github.com/leprojetcastor/castor)
+
+[Open detailed stats for leprojetcastor/castor](https://reviewgithub.com/rep/leprojetcastor/castor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 65 | 6 | 
 | 2022-09-07 | 65 | 6 | 
 
-
-[Detailed charts & statistics for leprojetcastor/castor](https://reviewgithub.com/rep/leprojetcastor/castor)

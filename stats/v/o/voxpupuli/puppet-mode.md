@@ -1,12 +1,14 @@
 # voxpupuli/puppet-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 70
 
 [Open repository](https://github.com/voxpupuli/puppet-mode)
+
+[Open detailed stats for voxpupuli/puppet-mode](https://reviewgithub.com/rep/voxpupuli/puppet-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 64 | 32 | 
 | 2022-09-08 | 64 | 32 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-mode](https://reviewgithub.com/rep/voxpupuli/puppet-mode)

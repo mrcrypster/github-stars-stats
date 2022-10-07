@@ -1,12 +1,14 @@
 # WebDevSimplified/transparent-login-form - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 37
 
 [Open repository](https://github.com/WebDevSimplified/transparent-login-form)
+
+[Open detailed stats for WebDevSimplified/transparent-login-form](https://reviewgithub.com/rep/WebDevSimplified/transparent-login-form)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 15 | 
 | 2022-09-07 | 30 | 15 | 
 
-
-[Detailed charts & statistics for WebDevSimplified/transparent-login-form](https://reviewgithub.com/rep/WebDevSimplified/transparent-login-form)

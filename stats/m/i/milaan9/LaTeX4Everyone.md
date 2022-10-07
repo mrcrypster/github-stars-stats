@@ -1,12 +1,14 @@
 # milaan9/LaTeX4Everyone - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 169
 
 ★ Stars: 187
 
 [Open repository](https://github.com/milaan9/LaTeX4Everyone)
+
+[Open detailed stats for milaan9/LaTeX4Everyone](https://reviewgithub.com/rep/milaan9/LaTeX4Everyone)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 184 | 169 | 
 | 2022-09-07 | 183 | 169 | 
 
-
-[Detailed charts & statistics for milaan9/LaTeX4Everyone](https://reviewgithub.com/rep/milaan9/LaTeX4Everyone)

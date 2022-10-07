@@ -1,12 +1,14 @@
 # ethz-asl/nlopt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 10
 
 [Open repository](https://github.com/ethz-asl/nlopt)
+
+[Open detailed stats for ethz-asl/nlopt](https://reviewgithub.com/rep/ethz-asl/nlopt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 10 | 10 | 
 | 2022-09-08 | 10 | 10 | 
 
-
-[Detailed charts & statistics for ethz-asl/nlopt](https://reviewgithub.com/rep/ethz-asl/nlopt)

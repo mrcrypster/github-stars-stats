@@ -1,12 +1,14 @@
 # trussworks/terraform-aws-alb-web-containers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 4
 
 [Open repository](https://github.com/trussworks/terraform-aws-alb-web-containers)
+
+[Open detailed stats for trussworks/terraform-aws-alb-web-containers](https://reviewgithub.com/rep/trussworks/terraform-aws-alb-web-containers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 7 | 
 | 2022-09-07 | 4 | 7 | 
 
-
-[Detailed charts & statistics for trussworks/terraform-aws-alb-web-containers](https://reviewgithub.com/rep/trussworks/terraform-aws-alb-web-containers)

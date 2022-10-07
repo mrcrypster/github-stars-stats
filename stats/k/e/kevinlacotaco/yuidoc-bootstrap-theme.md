@@ -1,12 +1,14 @@
 # kevinlacotaco/yuidoc-bootstrap-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 44
 
 [Open repository](https://github.com/kevinlacotaco/yuidoc-bootstrap-theme)
+
+[Open detailed stats for kevinlacotaco/yuidoc-bootstrap-theme](https://reviewgithub.com/rep/kevinlacotaco/yuidoc-bootstrap-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 26 | 
 | 2022-09-07 | 44 | 26 | 
 
-
-[Detailed charts & statistics for kevinlacotaco/yuidoc-bootstrap-theme](https://reviewgithub.com/rep/kevinlacotaco/yuidoc-bootstrap-theme)

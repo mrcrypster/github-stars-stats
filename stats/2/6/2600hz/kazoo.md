@@ -1,12 +1,14 @@
 # 2600hz/kazoo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 452
 
 ★ Stars: 885
 
 [Open repository](https://github.com/2600hz/kazoo)
+
+[Open detailed stats for 2600hz/kazoo](https://reviewgithub.com/rep/2600hz/kazoo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 885 | 449 | 
 | 2022-09-07 | 885 | 449 | 
 
-
-[Detailed charts & statistics for 2600hz/kazoo](https://reviewgithub.com/rep/2600hz/kazoo)

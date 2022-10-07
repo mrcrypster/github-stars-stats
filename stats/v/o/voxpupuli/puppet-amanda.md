@@ -1,12 +1,14 @@
 # voxpupuli/puppet-amanda - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 8
 
 [Open repository](https://github.com/voxpupuli/puppet-amanda)
+
+[Open detailed stats for voxpupuli/puppet-amanda](https://reviewgithub.com/rep/voxpupuli/puppet-amanda)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 27 | 
 | 2022-09-07 | 8 | 27 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-amanda](https://reviewgithub.com/rep/voxpupuli/puppet-amanda)

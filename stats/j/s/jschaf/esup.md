@@ -1,12 +1,14 @@
 # jschaf/esup - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 361
 
 [Open repository](https://github.com/jschaf/esup)
+
+[Open detailed stats for jschaf/esup](https://reviewgithub.com/rep/jschaf/esup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 358 | 20 | 
 | 2022-09-07 | 358 | 20 | 
 
-
-[Detailed charts & statistics for jschaf/esup](https://reviewgithub.com/rep/jschaf/esup)

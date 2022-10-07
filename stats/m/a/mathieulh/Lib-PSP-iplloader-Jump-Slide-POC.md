@@ -1,12 +1,14 @@
 # mathieulh/Lib-PSP-iplloader-Jump-Slide-POC - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 8
 
 [Open repository](https://github.com/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC)
+
+[Open detailed stats for mathieulh/Lib-PSP-iplloader-Jump-Slide-POC](https://reviewgithub.com/rep/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 4 | 
 | 2022-09-08 | 8 | 4 | 
 
-
-[Detailed charts & statistics for mathieulh/Lib-PSP-iplloader-Jump-Slide-POC](https://reviewgithub.com/rep/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC)

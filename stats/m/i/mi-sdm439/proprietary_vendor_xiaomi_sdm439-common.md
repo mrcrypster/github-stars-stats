@@ -1,12 +1,14 @@
 # mi-sdm439/proprietary_vendor_xiaomi_sdm439-common - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mi-sdm439/proprietary_vendor_xiaomi_sdm439-common)
+
+[Open detailed stats for mi-sdm439/proprietary_vendor_xiaomi_sdm439-common](https://reviewgithub.com/rep/mi-sdm439/proprietary_vendor_xiaomi_sdm439-common)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 17 | 
 | 2022-09-08 | 1 | 17 | 
 
-
-[Detailed charts & statistics for mi-sdm439/proprietary_vendor_xiaomi_sdm439-common](https://reviewgithub.com/rep/mi-sdm439/proprietary_vendor_xiaomi_sdm439-common)

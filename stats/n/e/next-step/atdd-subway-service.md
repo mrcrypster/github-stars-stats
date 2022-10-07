@@ -1,12 +1,14 @@
 # next-step/atdd-subway-service - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 205
 
 ★ Stars: 13
 
 [Open repository](https://github.com/next-step/atdd-subway-service)
+
+[Open detailed stats for next-step/atdd-subway-service](https://reviewgithub.com/rep/next-step/atdd-subway-service)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 205 | 
 | 2022-09-08 | 13 | 205 | 
 
-
-[Detailed charts & statistics for next-step/atdd-subway-service](https://reviewgithub.com/rep/next-step/atdd-subway-service)

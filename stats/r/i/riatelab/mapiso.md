@@ -1,12 +1,14 @@
 # riatelab/mapiso - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 31
 
 [Open repository](https://github.com/riatelab/mapiso)
+
+[Open detailed stats for riatelab/mapiso](https://reviewgithub.com/rep/riatelab/mapiso)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 2 | 
 | 2022-09-07 | 31 | 2 | 
 
-
-[Detailed charts & statistics for riatelab/mapiso](https://reviewgithub.com/rep/riatelab/mapiso)

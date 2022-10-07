@@ -1,12 +1,14 @@
 # emacs-eask/eask - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/emacs-eask/eask)
+
+[Open detailed stats for emacs-eask/eask](https://reviewgithub.com/rep/emacs-eask/eask)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 7 | 
 | 2022-09-07 | 45 | 7 | 
 
-
-[Detailed charts & statistics for emacs-eask/eask](https://reviewgithub.com/rep/emacs-eask/eask)

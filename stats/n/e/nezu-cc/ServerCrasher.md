@@ -1,12 +1,14 @@
 # nezu-cc/ServerCrasher - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 21
 
 [Open repository](https://github.com/nezu-cc/ServerCrasher)
+
+[Open detailed stats for nezu-cc/ServerCrasher](https://reviewgithub.com/rep/nezu-cc/ServerCrasher)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 9 | 
 | 2022-09-08 | 21 | 9 | 
 
-
-[Detailed charts & statistics for nezu-cc/ServerCrasher](https://reviewgithub.com/rep/nezu-cc/ServerCrasher)

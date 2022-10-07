@@ -1,12 +1,14 @@
 # harvard-ml-courses/cs181-s22-homeworks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 55
 
 ★ Stars: 7
 
 [Open repository](https://github.com/harvard-ml-courses/cs181-s22-homeworks)
+
+[Open detailed stats for harvard-ml-courses/cs181-s22-homeworks](https://reviewgithub.com/rep/harvard-ml-courses/cs181-s22-homeworks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 56 | 
 | 2022-09-07 | 4 | 56 | 
 
-
-[Detailed charts & statistics for harvard-ml-courses/cs181-s22-homeworks](https://reviewgithub.com/rep/harvard-ml-courses/cs181-s22-homeworks)

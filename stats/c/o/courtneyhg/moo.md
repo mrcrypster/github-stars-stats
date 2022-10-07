@@ -1,12 +1,14 @@
 # courtneyhg/moo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/courtneyhg/moo)
+
+[Open detailed stats for courtneyhg/moo](https://reviewgithub.com/rep/courtneyhg/moo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for courtneyhg/moo](https://reviewgithub.com/rep/courtneyhg/moo)

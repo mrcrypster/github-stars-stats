@@ -1,12 +1,14 @@
 # WebGoat/WebGoat - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3330
 
 ★ Stars: 5182
 
 [Open repository](https://github.com/WebGoat/WebGoat)
+
+[Open detailed stats for WebGoat/WebGoat](https://reviewgithub.com/rep/WebGoat/WebGoat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5119 | 3265 | 
 | 2022-09-08 | 5119 | 3256 | 
 
-
-[Detailed charts & statistics for WebGoat/WebGoat](https://reviewgithub.com/rep/WebGoat/WebGoat)

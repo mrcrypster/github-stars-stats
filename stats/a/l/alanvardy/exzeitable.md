@@ -1,12 +1,14 @@
 # alanvardy/exzeitable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 183
 
 [Open repository](https://github.com/alanvardy/exzeitable)
+
+[Open detailed stats for alanvardy/exzeitable](https://reviewgithub.com/rep/alanvardy/exzeitable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 176 | 21 | 
 | 2022-09-07 | 176 | 21 | 
 
-
-[Detailed charts & statistics for alanvardy/exzeitable](https://reviewgithub.com/rep/alanvardy/exzeitable)

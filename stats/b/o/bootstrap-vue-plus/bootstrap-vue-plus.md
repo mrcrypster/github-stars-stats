@@ -1,12 +1,14 @@
 # bootstrap-vue-plus/bootstrap-vue-plus - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 216
 
 [Open repository](https://github.com/bootstrap-vue-plus/bootstrap-vue-plus)
+
+[Open detailed stats for bootstrap-vue-plus/bootstrap-vue-plus](https://reviewgithub.com/rep/bootstrap-vue-plus/bootstrap-vue-plus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 218 | 1 | 
 | 2022-09-07 | 218 | 1 | 
 
-
-[Detailed charts & statistics for bootstrap-vue-plus/bootstrap-vue-plus](https://reviewgithub.com/rep/bootstrap-vue-plus/bootstrap-vue-plus)

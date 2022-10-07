@@ -1,12 +1,14 @@
 # voidcrew/Voidcrew-LRP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 68
 
 ★ Stars: 9
 
 [Open repository](https://github.com/voidcrew/Voidcrew-LRP)
+
+[Open detailed stats for voidcrew/Voidcrew-LRP](https://reviewgithub.com/rep/voidcrew/Voidcrew-LRP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 65 | 
 | 2022-09-07 | 6 | 65 | 
 
-
-[Detailed charts & statistics for voidcrew/Voidcrew-LRP](https://reviewgithub.com/rep/voidcrew/Voidcrew-LRP)

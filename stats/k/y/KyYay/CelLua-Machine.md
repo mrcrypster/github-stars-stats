@@ -1,12 +1,14 @@
 # KyYay/CelLua-Machine - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 12
 
 [Open repository](https://github.com/KyYay/CelLua-Machine)
+
+[Open detailed stats for KyYay/CelLua-Machine](https://reviewgithub.com/rep/KyYay/CelLua-Machine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 6 | 
 | 2022-09-07 | 12 | 6 | 
 
-
-[Detailed charts & statistics for KyYay/CelLua-Machine](https://reviewgithub.com/rep/KyYay/CelLua-Machine)

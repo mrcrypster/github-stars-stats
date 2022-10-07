@@ -1,12 +1,14 @@
 # human-se/rails-demos-n-deets-2023-apps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/human-se/rails-demos-n-deets-2023-apps)
+
+[Open detailed stats for human-se/rails-demos-n-deets-2023-apps](https://reviewgithub.com/rep/human-se/rails-demos-n-deets-2023-apps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 5 | 
 | 2022-09-08 | - | 5 | 
 
-
-[Detailed charts & statistics for human-se/rails-demos-n-deets-2023-apps](https://reviewgithub.com/rep/human-se/rails-demos-n-deets-2023-apps)

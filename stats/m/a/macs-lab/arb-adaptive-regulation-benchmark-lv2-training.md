@@ -1,12 +1,14 @@
 # macs-lab/arb-adaptive-regulation-benchmark-lv2-training - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 2
 
 [Open repository](https://github.com/macs-lab/arb-adaptive-regulation-benchmark-lv2-training)
+
+[Open detailed stats for macs-lab/arb-adaptive-regulation-benchmark-lv2-training](https://reviewgithub.com/rep/macs-lab/arb-adaptive-regulation-benchmark-lv2-training)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 11 | 
 | 2022-09-07 | 2 | 11 | 
 
-
-[Detailed charts & statistics for macs-lab/arb-adaptive-regulation-benchmark-lv2-training](https://reviewgithub.com/rep/macs-lab/arb-adaptive-regulation-benchmark-lv2-training)

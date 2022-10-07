@@ -1,12 +1,14 @@
 # ning-y/Cheatsheets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 70
 
 [Open repository](https://github.com/ning-y/Cheatsheets)
+
+[Open detailed stats for ning-y/Cheatsheets](https://reviewgithub.com/rep/ning-y/Cheatsheets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | 70 | 22 | 
 | 2022-10-05 | 70 | 22 | 
 
-
-[Detailed charts & statistics for ning-y/Cheatsheets](https://reviewgithub.com/rep/ning-y/Cheatsheets)

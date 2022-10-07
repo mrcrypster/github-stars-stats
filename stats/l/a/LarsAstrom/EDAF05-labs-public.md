@@ -1,12 +1,14 @@
 # LarsAstrom/EDAF05-labs-public - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 13
 
 [Open repository](https://github.com/LarsAstrom/EDAF05-labs-public)
+
+[Open detailed stats for LarsAstrom/EDAF05-labs-public](https://reviewgithub.com/rep/LarsAstrom/EDAF05-labs-public)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 37 | 
 | 2022-09-08 | 13 | 37 | 
 
-
-[Detailed charts & statistics for LarsAstrom/EDAF05-labs-public](https://reviewgithub.com/rep/LarsAstrom/EDAF05-labs-public)

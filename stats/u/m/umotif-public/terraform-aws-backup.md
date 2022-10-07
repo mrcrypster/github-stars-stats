@@ -1,12 +1,14 @@
 # umotif-public/terraform-aws-backup - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 2
 
 [Open repository](https://github.com/umotif-public/terraform-aws-backup)
+
+[Open detailed stats for umotif-public/terraform-aws-backup](https://reviewgithub.com/rep/umotif-public/terraform-aws-backup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 8 | 
 | 2022-09-08 | 2 | 8 | 
 
-
-[Detailed charts & statistics for umotif-public/terraform-aws-backup](https://reviewgithub.com/rep/umotif-public/terraform-aws-backup)

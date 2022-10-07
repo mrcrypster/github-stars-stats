@@ -1,12 +1,14 @@
 # vim-jp/vimdoc-ja - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 289
 
 [Open repository](https://github.com/vim-jp/vimdoc-ja)
+
+[Open detailed stats for vim-jp/vimdoc-ja](https://reviewgithub.com/rep/vim-jp/vimdoc-ja)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 286 | 30 | 
 | 2022-09-07 | 286 | 30 | 
 
-
-[Detailed charts & statistics for vim-jp/vimdoc-ja](https://reviewgithub.com/rep/vim-jp/vimdoc-ja)

@@ -1,12 +1,14 @@
 # hashicorp/learn-sentinel-tfc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 258
 
 ★ Stars: 4
 
 [Open repository](https://github.com/hashicorp/learn-sentinel-tfc)
+
+[Open detailed stats for hashicorp/learn-sentinel-tfc](https://reviewgithub.com/rep/hashicorp/learn-sentinel-tfc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 248 | 
 | 2022-09-07 | 4 | 248 | 
 
-
-[Detailed charts & statistics for hashicorp/learn-sentinel-tfc](https://reviewgithub.com/rep/hashicorp/learn-sentinel-tfc)

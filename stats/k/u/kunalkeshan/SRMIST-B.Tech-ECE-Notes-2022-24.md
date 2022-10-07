@@ -1,12 +1,14 @@
 # kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 15
 
 [Open repository](https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24)
+
+[Open detailed stats for kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24](https://reviewgithub.com/rep/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 6 | 
 | 2022-09-07 | 10 | 6 | 
 
-
-[Detailed charts & statistics for kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24](https://reviewgithub.com/rep/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24)

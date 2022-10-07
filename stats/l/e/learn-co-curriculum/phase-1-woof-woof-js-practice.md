@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-1-woof-woof-js-practice - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 900
 
 ★ Stars: 2
 
 [Open repository](https://github.com/learn-co-curriculum/phase-1-woof-woof-js-practice)
+
+[Open detailed stats for learn-co-curriculum/phase-1-woof-woof-js-practice](https://reviewgithub.com/rep/learn-co-curriculum/phase-1-woof-woof-js-practice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 829 | 
 | 2022-09-07 | 2 | 823 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-1-woof-woof-js-practice](https://reviewgithub.com/rep/learn-co-curriculum/phase-1-woof-woof-js-practice)

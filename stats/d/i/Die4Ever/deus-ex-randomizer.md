@@ -1,12 +1,14 @@
 # Die4Ever/deus-ex-randomizer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 72
 
 [Open repository](https://github.com/Die4Ever/deus-ex-randomizer)
+
+[Open detailed stats for Die4Ever/deus-ex-randomizer](https://reviewgithub.com/rep/Die4Ever/deus-ex-randomizer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 72 | 4 | 
 | 2022-09-07 | 72 | 4 | 
 
-
-[Detailed charts & statistics for Die4Ever/deus-ex-randomizer](https://reviewgithub.com/rep/Die4Ever/deus-ex-randomizer)

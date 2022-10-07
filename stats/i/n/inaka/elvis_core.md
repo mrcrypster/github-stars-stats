@@ -1,12 +1,14 @@
 # inaka/elvis_core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 50
 
 ★ Stars: 43
 
 [Open repository](https://github.com/inaka/elvis_core)
+
+[Open detailed stats for inaka/elvis_core](https://reviewgithub.com/rep/inaka/elvis_core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 43 | 49 | 
 | 2022-09-08 | 43 | 49 | 
 
-
-[Detailed charts & statistics for inaka/elvis_core](https://reviewgithub.com/rep/inaka/elvis_core)

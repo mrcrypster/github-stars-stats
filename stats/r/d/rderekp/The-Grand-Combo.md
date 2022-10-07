@@ -1,12 +1,14 @@
 # rderekp/The-Grand-Combo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 73
 
 [Open repository](https://github.com/rderekp/The-Grand-Combo)
+
+[Open detailed stats for rderekp/The-Grand-Combo](https://reviewgithub.com/rep/rderekp/The-Grand-Combo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 72 | 61 | 
 | 2022-09-07 | 72 | 61 | 
 
-
-[Detailed charts & statistics for rderekp/The-Grand-Combo](https://reviewgithub.com/rep/rderekp/The-Grand-Combo)

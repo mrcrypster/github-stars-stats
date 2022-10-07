@@ -1,12 +1,14 @@
 # pnpm/pnpm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 585
 
 ★ Stars: 19749
 
 [Open repository](https://github.com/pnpm/pnpm)
+
+[Open detailed stats for pnpm/pnpm](https://reviewgithub.com/rep/pnpm/pnpm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 19310 | 564 | 
 | 2022-09-07 | 19305 | 563 | 
 
-
-[Detailed charts & statistics for pnpm/pnpm](https://reviewgithub.com/rep/pnpm/pnpm)

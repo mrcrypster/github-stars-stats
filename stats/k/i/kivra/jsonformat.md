@@ -1,12 +1,14 @@
 # kivra/jsonformat - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 6
 
 [Open repository](https://github.com/kivra/jsonformat)
+
+[Open detailed stats for kivra/jsonformat](https://reviewgithub.com/rep/kivra/jsonformat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 2 | 
 | 2022-09-07 | 6 | 2 | 
 
-
-[Detailed charts & statistics for kivra/jsonformat](https://reviewgithub.com/rep/kivra/jsonformat)

@@ -1,12 +1,14 @@
 # nvim-lualine/lualine.nvim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 291
 
 ★ Stars: 2566
 
 [Open repository](https://github.com/nvim-lualine/lualine.nvim)
+
+[Open detailed stats for nvim-lualine/lualine.nvim](https://reviewgithub.com/rep/nvim-lualine/lualine.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2432 | 280 | 
 | 2022-09-08 | 2426 | 278 | 
 
-
-[Detailed charts & statistics for nvim-lualine/lualine.nvim](https://reviewgithub.com/rep/nvim-lualine/lualine.nvim)

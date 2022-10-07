@@ -1,12 +1,14 @@
 # thoughtbot/dotfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1850
 
 ★ Stars: 7415
 
 [Open repository](https://github.com/thoughtbot/dotfiles)
+
+[Open detailed stats for thoughtbot/dotfiles](https://reviewgithub.com/rep/thoughtbot/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7365 | 1852 | 
 | 2022-09-08 | 7363 | 1852 | 
 
-
-[Detailed charts & statistics for thoughtbot/dotfiles](https://reviewgithub.com/rep/thoughtbot/dotfiles)

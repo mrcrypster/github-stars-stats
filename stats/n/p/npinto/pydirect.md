@@ -1,12 +1,14 @@
 # npinto/pydirect - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/npinto/pydirect)
+
+[Open detailed stats for npinto/pydirect](https://reviewgithub.com/rep/npinto/pydirect)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 5 | 
 | 2022-09-07 | 8 | 5 | 
 
-
-[Detailed charts & statistics for npinto/pydirect](https://reviewgithub.com/rep/npinto/pydirect)

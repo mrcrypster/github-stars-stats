@@ -1,12 +1,14 @@
 # nylas/build-dpkg-buster - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 16
 
 [Open repository](https://github.com/nylas/build-dpkg-buster)
+
+[Open detailed stats for nylas/build-dpkg-buster](https://reviewgithub.com/rep/nylas/build-dpkg-buster)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 13 | 
 | 2022-09-07 | 15 | 13 | 
 
-
-[Detailed charts & statistics for nylas/build-dpkg-buster](https://reviewgithub.com/rep/nylas/build-dpkg-buster)

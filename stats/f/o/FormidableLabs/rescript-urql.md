@@ -1,12 +1,14 @@
 # FormidableLabs/rescript-urql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 233
 
 [Open repository](https://github.com/FormidableLabs/rescript-urql)
+
+[Open detailed stats for FormidableLabs/rescript-urql](https://reviewgithub.com/rep/FormidableLabs/rescript-urql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 233 | 28 | 
 | 2022-09-07 | 233 | 28 | 
 
-
-[Detailed charts & statistics for FormidableLabs/rescript-urql](https://reviewgithub.com/rep/FormidableLabs/rescript-urql)

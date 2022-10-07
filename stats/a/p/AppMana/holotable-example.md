@@ -1,12 +1,14 @@
 # AppMana/holotable-example - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AppMana/holotable-example)
+
+[Open detailed stats for AppMana/holotable-example](https://reviewgithub.com/rep/AppMana/holotable-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 2 | 
 | 2022-09-08 | - | 2 | 
 
-
-[Detailed charts & statistics for AppMana/holotable-example](https://reviewgithub.com/rep/AppMana/holotable-example)

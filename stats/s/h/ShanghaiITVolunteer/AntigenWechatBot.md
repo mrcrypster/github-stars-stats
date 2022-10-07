@@ -1,12 +1,14 @@
 # ShanghaiITVolunteer/AntigenWechatBot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 62
 
 [Open repository](https://github.com/ShanghaiITVolunteer/AntigenWechatBot)
+
+[Open detailed stats for ShanghaiITVolunteer/AntigenWechatBot](https://reviewgithub.com/rep/ShanghaiITVolunteer/AntigenWechatBot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 63 | 15 | 
 | 2022-09-07 | 63 | 15 | 
 
-
-[Detailed charts & statistics for ShanghaiITVolunteer/AntigenWechatBot](https://reviewgithub.com/rep/ShanghaiITVolunteer/AntigenWechatBot)

@@ -1,12 +1,14 @@
 # accomdemy/accomdemy_rv32i - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 5
 
 [Open repository](https://github.com/accomdemy/accomdemy_rv32i)
+
+[Open detailed stats for accomdemy/accomdemy_rv32i](https://reviewgithub.com/rep/accomdemy/accomdemy_rv32i)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 7 | 
 | 2022-09-07 | 3 | 7 | 
 
-
-[Detailed charts & statistics for accomdemy/accomdemy_rv32i](https://reviewgithub.com/rep/accomdemy/accomdemy_rv32i)

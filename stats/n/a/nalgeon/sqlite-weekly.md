@@ -1,12 +1,14 @@
 # nalgeon/sqlite-weekly - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 111
 
 [Open repository](https://github.com/nalgeon/sqlite-weekly)
+
+[Open detailed stats for nalgeon/sqlite-weekly](https://reviewgithub.com/rep/nalgeon/sqlite-weekly)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 97 | - | 
 | 2022-09-15 | 95 | - | 
 
-
-[Detailed charts & statistics for nalgeon/sqlite-weekly](https://reviewgithub.com/rep/nalgeon/sqlite-weekly)

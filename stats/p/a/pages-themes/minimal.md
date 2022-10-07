@@ -1,12 +1,14 @@
 # pages-themes/minimal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3992
 
 ★ Stars: 1074
 
 [Open repository](https://github.com/pages-themes/minimal)
+
+[Open detailed stats for pages-themes/minimal](https://reviewgithub.com/rep/pages-themes/minimal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1056 | 3902 | 
 | 2022-09-08 | 1055 | 3899 | 
 
-
-[Detailed charts & statistics for pages-themes/minimal](https://reviewgithub.com/rep/pages-themes/minimal)

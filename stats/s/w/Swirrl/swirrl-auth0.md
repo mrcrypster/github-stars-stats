@@ -1,6 +1,6 @@
 # Swirrl/swirrl-auth0 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -8,11 +8,11 @@ Stats updated on Dec 54734, 12
 
 [Open repository](https://github.com/Swirrl/swirrl-auth0)
 
+[Open detailed stats for Swirrl/swirrl-auth0](https://reviewgithub.com/rep/Swirrl/swirrl-auth0)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 | 2022-10-07 | 1 | - | 
 | 2022-10-06 | 1 | - | 
 
-
-[Detailed charts & statistics for Swirrl/swirrl-auth0](https://reviewgithub.com/rep/Swirrl/swirrl-auth0)

@@ -1,12 +1,14 @@
 # data-engineering-community/data-engineering-wiki - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 318
 
 [Open repository](https://github.com/data-engineering-community/data-engineering-wiki)
+
+[Open detailed stats for data-engineering-community/data-engineering-wiki](https://reviewgithub.com/rep/data-engineering-community/data-engineering-wiki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 284 | 18 | 
 | 2022-09-07 | 283 | 18 | 
 
-
-[Detailed charts & statistics for data-engineering-community/data-engineering-wiki](https://reviewgithub.com/rep/data-engineering-community/data-engineering-wiki)

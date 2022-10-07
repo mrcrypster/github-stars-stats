@@ -1,12 +1,14 @@
 # RaspberryPiFoundation/sauce-design-system - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/RaspberryPiFoundation/sauce-design-system)
+
+[Open detailed stats for RaspberryPiFoundation/sauce-design-system](https://reviewgithub.com/rep/RaspberryPiFoundation/sauce-design-system)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for RaspberryPiFoundation/sauce-design-system](https://reviewgithub.com/rep/RaspberryPiFoundation/sauce-design-system)

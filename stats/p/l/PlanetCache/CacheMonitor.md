@@ -1,12 +1,14 @@
 # PlanetCache/CacheMonitor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/PlanetCache/CacheMonitor)
+
+[Open detailed stats for PlanetCache/CacheMonitor](https://reviewgithub.com/rep/PlanetCache/CacheMonitor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for PlanetCache/CacheMonitor](https://reviewgithub.com/rep/PlanetCache/CacheMonitor)

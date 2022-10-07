@@ -1,12 +1,14 @@
 # DouglasVolcato/amigos-blue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 2
 
 [Open repository](https://github.com/DouglasVolcato/amigos-blue)
+
+[Open detailed stats for DouglasVolcato/amigos-blue](https://reviewgithub.com/rep/DouglasVolcato/amigos-blue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 8 | 
 | 2022-09-07 | 2 | 8 | 
 
-
-[Detailed charts & statistics for DouglasVolcato/amigos-blue](https://reviewgithub.com/rep/DouglasVolcato/amigos-blue)

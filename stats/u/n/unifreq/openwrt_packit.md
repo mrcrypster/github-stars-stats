@@ -1,12 +1,14 @@
 # unifreq/openwrt_packit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 278
 
 ★ Stars: 675
 
 [Open repository](https://github.com/unifreq/openwrt_packit)
+
+[Open detailed stats for unifreq/openwrt_packit](https://reviewgithub.com/rep/unifreq/openwrt_packit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 641 | 271 | 
 | 2022-09-08 | 639 | 271 | 
 
-
-[Detailed charts & statistics for unifreq/openwrt_packit](https://reviewgithub.com/rep/unifreq/openwrt_packit)

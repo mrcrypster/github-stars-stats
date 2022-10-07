@@ -1,12 +1,14 @@
 # brendanhay/amazonka - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 212
 
 ★ Stars: 533
 
 [Open repository](https://github.com/brendanhay/amazonka)
+
+[Open detailed stats for brendanhay/amazonka](https://reviewgithub.com/rep/brendanhay/amazonka)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 529 | 211 | 
 | 2022-09-07 | 529 | 211 | 
 
-
-[Detailed charts & statistics for brendanhay/amazonka](https://reviewgithub.com/rep/brendanhay/amazonka)

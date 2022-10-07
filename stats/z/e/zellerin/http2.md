@@ -1,12 +1,14 @@
 # zellerin/http2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 19
 
 [Open repository](https://github.com/zellerin/http2)
+
+[Open detailed stats for zellerin/http2](https://reviewgithub.com/rep/zellerin/http2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 18 | - | 
 | 2022-09-07 | 18 | - | 
 
-
-[Detailed charts & statistics for zellerin/http2](https://reviewgithub.com/rep/zellerin/http2)

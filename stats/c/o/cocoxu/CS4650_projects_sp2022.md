@@ -1,12 +1,14 @@
 # cocoxu/CS4650_projects_sp2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/cocoxu/CS4650_projects_sp2022)
+
+[Open detailed stats for cocoxu/CS4650_projects_sp2022](https://reviewgithub.com/rep/cocoxu/CS4650_projects_sp2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for cocoxu/CS4650_projects_sp2022](https://reviewgithub.com/rep/cocoxu/CS4650_projects_sp2022)

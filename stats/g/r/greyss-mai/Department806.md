@@ -1,12 +1,14 @@
 # greyss-mai/Department806 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 0
 
 [Open repository](https://github.com/greyss-mai/Department806)
+
+[Open detailed stats for greyss-mai/Department806](https://reviewgithub.com/rep/greyss-mai/Department806)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | - | 37 | 
 | 2022-09-22 | - | 37 | 
 
-
-[Detailed charts & statistics for greyss-mai/Department806](https://reviewgithub.com/rep/greyss-mai/Department806)

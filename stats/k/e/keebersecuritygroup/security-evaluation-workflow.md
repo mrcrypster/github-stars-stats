@@ -1,12 +1,14 @@
 # keebersecuritygroup/security-evaluation-workflow - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 1
 
 [Open repository](https://github.com/keebersecuritygroup/security-evaluation-workflow)
+
+[Open detailed stats for keebersecuritygroup/security-evaluation-workflow](https://reviewgithub.com/rep/keebersecuritygroup/security-evaluation-workflow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 22 | 
 | 2022-09-07 | 1 | 22 | 
 
-
-[Detailed charts & statistics for keebersecuritygroup/security-evaluation-workflow](https://reviewgithub.com/rep/keebersecuritygroup/security-evaluation-workflow)

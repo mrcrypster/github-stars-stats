@@ -1,12 +1,14 @@
 # esmf-org/nuopc-app-prototypes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/esmf-org/nuopc-app-prototypes)
+
+[Open detailed stats for esmf-org/nuopc-app-prototypes](https://reviewgithub.com/rep/esmf-org/nuopc-app-prototypes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for esmf-org/nuopc-app-prototypes](https://reviewgithub.com/rep/esmf-org/nuopc-app-prototypes)

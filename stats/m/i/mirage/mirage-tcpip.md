@@ -1,12 +1,14 @@
 # mirage/mirage-tcpip - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 82
 
 ★ Stars: 313
 
 [Open repository](https://github.com/mirage/mirage-tcpip)
+
+[Open detailed stats for mirage/mirage-tcpip](https://reviewgithub.com/rep/mirage/mirage-tcpip)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 312 | 80 | 
 | 2022-09-08 | 312 | 80 | 
 
-
-[Detailed charts & statistics for mirage/mirage-tcpip](https://reviewgithub.com/rep/mirage/mirage-tcpip)

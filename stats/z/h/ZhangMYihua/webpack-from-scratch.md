@@ -1,12 +1,14 @@
 # ZhangMYihua/webpack-from-scratch - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 403
 
 ★ Stars: 8
 
 [Open repository](https://github.com/ZhangMYihua/webpack-from-scratch)
+
+[Open detailed stats for ZhangMYihua/webpack-from-scratch](https://reviewgithub.com/rep/ZhangMYihua/webpack-from-scratch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 392 | 
 | 2022-09-07 | 8 | 392 | 
 
-
-[Detailed charts & statistics for ZhangMYihua/webpack-from-scratch](https://reviewgithub.com/rep/ZhangMYihua/webpack-from-scratch)

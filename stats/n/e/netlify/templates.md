@@ -1,12 +1,14 @@
 # netlify/templates - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 70
 
 ★ Stars: 80
 
 [Open repository](https://github.com/netlify/templates)
+
+[Open detailed stats for netlify/templates](https://reviewgithub.com/rep/netlify/templates)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 81 | 70 | 
 | 2022-09-07 | 81 | 70 | 
 
-
-[Detailed charts & statistics for netlify/templates](https://reviewgithub.com/rep/netlify/templates)

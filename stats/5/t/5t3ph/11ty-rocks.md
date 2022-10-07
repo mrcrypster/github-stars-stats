@@ -1,12 +1,14 @@
 # 5t3ph/11ty-rocks - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 16
 
 [Open repository](https://github.com/5t3ph/11ty-rocks)
+
+[Open detailed stats for 5t3ph/11ty-rocks](https://reviewgithub.com/rep/5t3ph/11ty-rocks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 3 | 
 | 2022-09-08 | 16 | 3 | 
 
-
-[Detailed charts & statistics for 5t3ph/11ty-rocks](https://reviewgithub.com/rep/5t3ph/11ty-rocks)

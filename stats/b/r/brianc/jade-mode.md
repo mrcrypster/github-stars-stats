@@ -1,12 +1,14 @@
 # brianc/jade-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 44
 
 ★ Stars: 158
 
 [Open repository](https://github.com/brianc/jade-mode)
+
+[Open detailed stats for brianc/jade-mode](https://reviewgithub.com/rep/brianc/jade-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 158 | 44 | 
 | 2022-09-08 | 158 | 44 | 
 
-
-[Detailed charts & statistics for brianc/jade-mode](https://reviewgithub.com/rep/brianc/jade-mode)

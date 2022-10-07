@@ -1,12 +1,14 @@
 # 2398872109/cloudbaserun_app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 58
 
 ★ Stars: 0
 
 [Open repository](https://github.com/2398872109/cloudbaserun_app)
+
+[Open detailed stats for 2398872109/cloudbaserun_app](https://reviewgithub.com/rep/2398872109/cloudbaserun_app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 58 | 
 | 2022-09-07 | - | 58 | 
 
-
-[Detailed charts & statistics for 2398872109/cloudbaserun_app](https://reviewgithub.com/rep/2398872109/cloudbaserun_app)

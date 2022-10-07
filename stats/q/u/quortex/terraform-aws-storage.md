@@ -1,12 +1,14 @@
 # quortex/terraform-aws-storage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/quortex/terraform-aws-storage)
+
+[Open detailed stats for quortex/terraform-aws-storage](https://reviewgithub.com/rep/quortex/terraform-aws-storage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
 
-
-[Detailed charts & statistics for quortex/terraform-aws-storage](https://reviewgithub.com/rep/quortex/terraform-aws-storage)

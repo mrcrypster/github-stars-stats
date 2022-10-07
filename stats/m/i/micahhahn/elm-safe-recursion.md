@@ -1,12 +1,14 @@
 # micahhahn/elm-safe-recursion - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/micahhahn/elm-safe-recursion)
+
+[Open detailed stats for micahhahn/elm-safe-recursion](https://reviewgithub.com/rep/micahhahn/elm-safe-recursion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 1 | 
 | 2022-09-08 | 12 | 1 | 
 
-
-[Detailed charts & statistics for micahhahn/elm-safe-recursion](https://reviewgithub.com/rep/micahhahn/elm-safe-recursion)

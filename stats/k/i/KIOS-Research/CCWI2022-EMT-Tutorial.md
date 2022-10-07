@@ -1,12 +1,14 @@
 # KIOS-Research/CCWI2022-EMT-Tutorial - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/KIOS-Research/CCWI2022-EMT-Tutorial)
+
+[Open detailed stats for KIOS-Research/CCWI2022-EMT-Tutorial](https://reviewgithub.com/rep/KIOS-Research/CCWI2022-EMT-Tutorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for KIOS-Research/CCWI2022-EMT-Tutorial](https://reviewgithub.com/rep/KIOS-Research/CCWI2022-EMT-Tutorial)

@@ -1,12 +1,14 @@
 # schoen/unicast-extensions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 147
 
 [Open repository](https://github.com/schoen/unicast-extensions)
+
+[Open detailed stats for schoen/unicast-extensions](https://reviewgithub.com/rep/schoen/unicast-extensions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 145 | 9 | 
 | 2022-09-07 | 145 | 9 | 
 
-
-[Detailed charts & statistics for schoen/unicast-extensions](https://reviewgithub.com/rep/schoen/unicast-extensions)

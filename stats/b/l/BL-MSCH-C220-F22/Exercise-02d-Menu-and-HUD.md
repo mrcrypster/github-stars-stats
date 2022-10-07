@@ -1,12 +1,14 @@
 # BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD)
+
+[Open detailed stats for BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-18 | - | 9 | 
 | 2022-09-17 | - | 5 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD](https://reviewgithub.com/rep/BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD)

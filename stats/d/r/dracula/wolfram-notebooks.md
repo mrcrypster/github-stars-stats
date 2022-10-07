@@ -1,12 +1,14 @@
 # dracula/wolfram-notebooks - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 25
 
 [Open repository](https://github.com/dracula/wolfram-notebooks)
+
+[Open detailed stats for dracula/wolfram-notebooks](https://reviewgithub.com/rep/dracula/wolfram-notebooks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 24 | 4 | 
 | 2022-09-07 | 24 | 4 | 
 
-
-[Detailed charts & statistics for dracula/wolfram-notebooks](https://reviewgithub.com/rep/dracula/wolfram-notebooks)

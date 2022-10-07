@@ -1,12 +1,14 @@
 # vitapramdevputra/Falcons6Dev - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 3
 
 [Open repository](https://github.com/vitapramdevputra/Falcons6Dev)
+
+[Open detailed stats for vitapramdevputra/Falcons6Dev](https://reviewgithub.com/rep/vitapramdevputra/Falcons6Dev)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 26 | 
 | 2022-09-07 | 3 | 26 | 
 
-
-[Detailed charts & statistics for vitapramdevputra/Falcons6Dev](https://reviewgithub.com/rep/vitapramdevputra/Falcons6Dev)

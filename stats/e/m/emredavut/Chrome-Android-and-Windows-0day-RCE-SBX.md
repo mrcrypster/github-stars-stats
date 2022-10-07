@@ -1,12 +1,14 @@
 # emredavut/Chrome-Android-and-Windows-0day-RCE-SBX - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 134
 
 [Open repository](https://github.com/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
+
+[Open detailed stats for emredavut/Chrome-Android-and-Windows-0day-RCE-SBX](https://reviewgithub.com/rep/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 133 | 43 | 
 | 2022-09-07 | 133 | 43 | 
 
-
-[Detailed charts & statistics for emredavut/Chrome-Android-and-Windows-0day-RCE-SBX](https://reviewgithub.com/rep/emredavut/Chrome-Android-and-Windows-0day-RCE-SBX)

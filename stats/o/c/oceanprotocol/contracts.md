@@ -1,12 +1,14 @@
 # oceanprotocol/contracts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 58
 
 [Open repository](https://github.com/oceanprotocol/contracts)
+
+[Open detailed stats for oceanprotocol/contracts](https://reviewgithub.com/rep/oceanprotocol/contracts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | 47 | 
 | 2022-09-07 | 58 | 47 | 
 
-
-[Detailed charts & statistics for oceanprotocol/contracts](https://reviewgithub.com/rep/oceanprotocol/contracts)

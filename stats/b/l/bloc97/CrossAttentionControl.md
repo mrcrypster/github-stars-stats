@@ -1,12 +1,14 @@
 # bloc97/CrossAttentionControl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 337
 
 [Open repository](https://github.com/bloc97/CrossAttentionControl)
+
+[Open detailed stats for bloc97/CrossAttentionControl](https://reviewgithub.com/rep/bloc97/CrossAttentionControl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 144 | 9 | 
 | 2022-09-12 | 125 | 9 | 
 
-
-[Detailed charts & statistics for bloc97/CrossAttentionControl](https://reviewgithub.com/rep/bloc97/CrossAttentionControl)

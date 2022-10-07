@@ -1,12 +1,14 @@
 # obpo-project/obpo-plugin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 98
 
 ★ Stars: 359
 
 [Open repository](https://github.com/obpo-project/obpo-plugin)
+
+[Open detailed stats for obpo-project/obpo-plugin](https://reviewgithub.com/rep/obpo-project/obpo-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 346 | 95 | 
 | 2022-09-07 | 346 | 95 | 
 
-
-[Detailed charts & statistics for obpo-project/obpo-plugin](https://reviewgithub.com/rep/obpo-project/obpo-plugin)

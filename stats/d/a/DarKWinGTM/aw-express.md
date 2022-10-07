@@ -1,12 +1,14 @@
 # DarKWinGTM/aw-express - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DarKWinGTM/aw-express)
+
+[Open detailed stats for DarKWinGTM/aw-express](https://reviewgithub.com/rep/DarKWinGTM/aw-express)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | - | 8 | 
 | 2022-09-30 | - | 8 | 
 
-
-[Detailed charts & statistics for DarKWinGTM/aw-express](https://reviewgithub.com/rep/DarKWinGTM/aw-express)

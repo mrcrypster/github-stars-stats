@@ -1,12 +1,14 @@
 # cairoeth/GOO-Racing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 20
 
 [Open repository](https://github.com/cairoeth/GOO-Racing)
+
+[Open detailed stats for cairoeth/GOO-Racing](https://reviewgithub.com/rep/cairoeth/GOO-Racing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-29 | 20 | - | 
 | 2022-09-28 | 19 | - | 
 
-
-[Detailed charts & statistics for cairoeth/GOO-Racing](https://reviewgithub.com/rep/cairoeth/GOO-Racing)

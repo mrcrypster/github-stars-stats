@@ -1,12 +1,14 @@
 # quintoandar/hive-metastore-client - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 32
 
 [Open repository](https://github.com/quintoandar/hive-metastore-client)
+
+[Open detailed stats for quintoandar/hive-metastore-client](https://reviewgithub.com/rep/quintoandar/hive-metastore-client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 32 | 15 | 
 | 2022-09-07 | 32 | 15 | 
 
-
-[Detailed charts & statistics for quintoandar/hive-metastore-client](https://reviewgithub.com/rep/quintoandar/hive-metastore-client)

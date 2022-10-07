@@ -1,12 +1,14 @@
 # surajadkhari/todo_appwithRiverpod - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 43
 
 [Open repository](https://github.com/surajadkhari/todo_appwithRiverpod)
+
+[Open detailed stats for surajadkhari/todo_appwithRiverpod](https://reviewgithub.com/rep/surajadkhari/todo_appwithRiverpod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 42 | - | 
 | 2022-09-08 | 42 | - | 
 
-
-[Detailed charts & statistics for surajadkhari/todo_appwithRiverpod](https://reviewgithub.com/rep/surajadkhari/todo_appwithRiverpod)

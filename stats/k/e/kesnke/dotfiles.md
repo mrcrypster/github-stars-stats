@@ -1,12 +1,14 @@
 # kesnke/dotfiles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kesnke/dotfiles)
+
+[Open detailed stats for kesnke/dotfiles](https://reviewgithub.com/rep/kesnke/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | - | 
 | 2022-09-25 | - | - | 
 
-
-[Detailed charts & statistics for kesnke/dotfiles](https://reviewgithub.com/rep/kesnke/dotfiles)

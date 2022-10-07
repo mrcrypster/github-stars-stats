@@ -1,12 +1,14 @@
 # sadewa999/RDP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 164
 
 ★ Stars: 7
 
 [Open repository](https://github.com/sadewa999/RDP)
+
+[Open detailed stats for sadewa999/RDP](https://reviewgithub.com/rep/sadewa999/RDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 104 | 
 | 2022-09-08 | 4 | 100 | 
 
-
-[Detailed charts & statistics for sadewa999/RDP](https://reviewgithub.com/rep/sadewa999/RDP)

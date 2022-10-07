@@ -1,12 +1,14 @@
 # Titanium-Network/Incognito - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 81
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Titanium-Network/Incognito)
+
+[Open detailed stats for Titanium-Network/Incognito](https://reviewgithub.com/rep/Titanium-Network/Incognito)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 3 | 74 | 
 | 2022-09-30 | 3 | 74 | 
 
-
-[Detailed charts & statistics for Titanium-Network/Incognito](https://reviewgithub.com/rep/Titanium-Network/Incognito)

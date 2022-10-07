@@ -1,12 +1,14 @@
 # Rohit91singh9/Amazon-Interview - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 130
 
 ★ Stars: 63
 
 [Open repository](https://github.com/Rohit91singh9/Amazon-Interview)
+
+[Open detailed stats for Rohit91singh9/Amazon-Interview](https://reviewgithub.com/rep/Rohit91singh9/Amazon-Interview)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 132 | 
 | 2022-09-07 | 57 | 132 | 
 
-
-[Detailed charts & statistics for Rohit91singh9/Amazon-Interview](https://reviewgithub.com/rep/Rohit91singh9/Amazon-Interview)

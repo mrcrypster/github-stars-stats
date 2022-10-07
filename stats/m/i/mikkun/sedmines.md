@@ -1,12 +1,14 @@
 # mikkun/sedmines - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 22
 
 [Open repository](https://github.com/mikkun/sedmines)
+
+[Open detailed stats for mikkun/sedmines](https://reviewgithub.com/rep/mikkun/sedmines)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 1 | 
 | 2022-09-07 | 22 | 1 | 
 
-
-[Detailed charts & statistics for mikkun/sedmines](https://reviewgithub.com/rep/mikkun/sedmines)

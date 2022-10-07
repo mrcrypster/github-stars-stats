@@ -1,12 +1,14 @@
 # bitstadium/CrashProbe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 47
 
 ★ Stars: 139
 
 [Open repository](https://github.com/bitstadium/CrashProbe)
+
+[Open detailed stats for bitstadium/CrashProbe](https://reviewgithub.com/rep/bitstadium/CrashProbe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 137 | 46 | 
 | 2022-09-07 | 137 | 46 | 
 
-
-[Detailed charts & statistics for bitstadium/CrashProbe](https://reviewgithub.com/rep/bitstadium/CrashProbe)

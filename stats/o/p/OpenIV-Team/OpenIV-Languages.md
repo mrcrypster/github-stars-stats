@@ -1,12 +1,14 @@
 # OpenIV-Team/OpenIV-Languages - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 33
 
 ★ Stars: 27
 
 [Open repository](https://github.com/OpenIV-Team/OpenIV-Languages)
+
+[Open detailed stats for OpenIV-Team/OpenIV-Languages](https://reviewgithub.com/rep/OpenIV-Team/OpenIV-Languages)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 32 | 
 | 2022-09-08 | 27 | 32 | 
 
-
-[Detailed charts & statistics for OpenIV-Team/OpenIV-Languages](https://reviewgithub.com/rep/OpenIV-Team/OpenIV-Languages)

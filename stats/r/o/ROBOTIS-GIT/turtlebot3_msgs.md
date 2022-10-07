@@ -1,12 +1,14 @@
 # ROBOTIS-GIT/turtlebot3_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 99
 
 ★ Stars: 50
 
 [Open repository](https://github.com/ROBOTIS-GIT/turtlebot3_msgs)
+
+[Open detailed stats for ROBOTIS-GIT/turtlebot3_msgs](https://reviewgithub.com/rep/ROBOTIS-GIT/turtlebot3_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 47 | 98 | 
 | 2022-09-19 | 47 | 98 | 
 
-
-[Detailed charts & statistics for ROBOTIS-GIT/turtlebot3_msgs](https://reviewgithub.com/rep/ROBOTIS-GIT/turtlebot3_msgs)

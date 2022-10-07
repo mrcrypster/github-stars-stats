@@ -1,12 +1,14 @@
 # puppetlabs/trapperkeeper-authorization - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 4
 
 [Open repository](https://github.com/puppetlabs/trapperkeeper-authorization)
+
+[Open detailed stats for puppetlabs/trapperkeeper-authorization](https://reviewgithub.com/rep/puppetlabs/trapperkeeper-authorization)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 20 | 
 | 2022-09-07 | 4 | 20 | 
 
-
-[Detailed charts & statistics for puppetlabs/trapperkeeper-authorization](https://reviewgithub.com/rep/puppetlabs/trapperkeeper-authorization)

@@ -1,12 +1,14 @@
 # sascommunities/proc-report-workshop - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sascommunities/proc-report-workshop)
+
+[Open detailed stats for sascommunities/proc-report-workshop](https://reviewgithub.com/rep/sascommunities/proc-report-workshop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for sascommunities/proc-report-workshop](https://reviewgithub.com/rep/sascommunities/proc-report-workshop)

@@ -1,12 +1,14 @@
 # balena-os/balena-coral - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/balena-os/balena-coral)
+
+[Open detailed stats for balena-os/balena-coral](https://reviewgithub.com/rep/balena-os/balena-coral)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for balena-os/balena-coral](https://reviewgithub.com/rep/balena-os/balena-coral)

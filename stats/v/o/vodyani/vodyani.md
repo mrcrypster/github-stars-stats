@@ -1,12 +1,14 @@
 # vodyani/vodyani - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 125
 
 [Open repository](https://github.com/vodyani/vodyani)
+
+[Open detailed stats for vodyani/vodyani](https://reviewgithub.com/rep/vodyani/vodyani)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 124 | 19 | 
 | 2022-09-07 | 124 | 19 | 
 
-
-[Detailed charts & statistics for vodyani/vodyani](https://reviewgithub.com/rep/vodyani/vodyani)

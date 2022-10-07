@@ -1,12 +1,14 @@
 # emrevit/vala-http - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/emrevit/vala-http)
+
+[Open detailed stats for emrevit/vala-http](https://reviewgithub.com/rep/emrevit/vala-http)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 9 | - | 
 | 2022-09-12 | 9 | - | 
 
-
-[Detailed charts & statistics for emrevit/vala-http](https://reviewgithub.com/rep/emrevit/vala-http)

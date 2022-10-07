@@ -1,12 +1,14 @@
 # MiSTer-devel/S32X_MiSTer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 36
 
 [Open repository](https://github.com/MiSTer-devel/S32X_MiSTer)
+
+[Open detailed stats for MiSTer-devel/S32X_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/S32X_MiSTer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 34 | 12 | 
 | 2022-09-07 | 34 | 12 | 
 
-
-[Detailed charts & statistics for MiSTer-devel/S32X_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/S32X_MiSTer)

@@ -1,12 +1,14 @@
 # fuzzdb-project/fuzzdb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2010
 
 ★ Stars: 6962
 
 [Open repository](https://github.com/fuzzdb-project/fuzzdb)
+
+[Open detailed stats for fuzzdb-project/fuzzdb](https://reviewgithub.com/rep/fuzzdb-project/fuzzdb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6915 | 2002 | 
 | 2022-09-08 | 6914 | 2001 | 
 
-
-[Detailed charts & statistics for fuzzdb-project/fuzzdb](https://reviewgithub.com/rep/fuzzdb-project/fuzzdb)

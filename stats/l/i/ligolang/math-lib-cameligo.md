@@ -1,12 +1,14 @@
 # ligolang/math-lib-cameligo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ligolang/math-lib-cameligo)
+
+[Open detailed stats for ligolang/math-lib-cameligo](https://reviewgithub.com/rep/ligolang/math-lib-cameligo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | - | 1 | 
 | 2022-09-12 | - | 1 | 
 
-
-[Detailed charts & statistics for ligolang/math-lib-cameligo](https://reviewgithub.com/rep/ligolang/math-lib-cameligo)

@@ -1,12 +1,14 @@
 # harmony-one/horizon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 35
 
 [Open repository](https://github.com/harmony-one/horizon)
+
+[Open detailed stats for harmony-one/horizon](https://reviewgithub.com/rep/harmony-one/horizon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 31 | 
 | 2022-09-07 | 35 | 31 | 
 
-
-[Detailed charts & statistics for harmony-one/horizon](https://reviewgithub.com/rep/harmony-one/horizon)

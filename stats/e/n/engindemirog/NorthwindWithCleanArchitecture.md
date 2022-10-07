@@ -1,12 +1,14 @@
 # engindemirog/NorthwindWithCleanArchitecture - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 102
 
 [Open repository](https://github.com/engindemirog/NorthwindWithCleanArchitecture)
+
+[Open detailed stats for engindemirog/NorthwindWithCleanArchitecture](https://reviewgithub.com/rep/engindemirog/NorthwindWithCleanArchitecture)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 101 | 7 | 
 | 2022-09-07 | 101 | 7 | 
 
-
-[Detailed charts & statistics for engindemirog/NorthwindWithCleanArchitecture](https://reviewgithub.com/rep/engindemirog/NorthwindWithCleanArchitecture)

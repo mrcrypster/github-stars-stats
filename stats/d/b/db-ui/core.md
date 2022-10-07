@@ -1,12 +1,14 @@
 # db-ui/core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 9
 
 [Open repository](https://github.com/db-ui/core)
+
+[Open detailed stats for db-ui/core](https://reviewgithub.com/rep/db-ui/core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | - | 
 | 2022-09-07 | 4 | - | 
 
-
-[Detailed charts & statistics for db-ui/core](https://reviewgithub.com/rep/db-ui/core)

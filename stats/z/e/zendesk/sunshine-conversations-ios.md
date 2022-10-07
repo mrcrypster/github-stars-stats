@@ -1,12 +1,14 @@
 # zendesk/sunshine-conversations-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 121
 
 [Open repository](https://github.com/zendesk/sunshine-conversations-ios)
+
+[Open detailed stats for zendesk/sunshine-conversations-ios](https://reviewgithub.com/rep/zendesk/sunshine-conversations-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 121 | 37 | 
 | 2022-09-08 | 121 | 37 | 
 
-
-[Detailed charts & statistics for zendesk/sunshine-conversations-ios](https://reviewgithub.com/rep/zendesk/sunshine-conversations-ios)

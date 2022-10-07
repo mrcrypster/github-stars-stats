@@ -1,12 +1,14 @@
 # f-lab-edu/graduate-resume - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 551
 
 [Open repository](https://github.com/f-lab-edu/graduate-resume)
+
+[Open detailed stats for f-lab-edu/graduate-resume](https://reviewgithub.com/rep/f-lab-edu/graduate-resume)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 496 | 36 | 
 | 2022-09-07 | 496 | 36 | 
 
-
-[Detailed charts & statistics for f-lab-edu/graduate-resume](https://reviewgithub.com/rep/f-lab-edu/graduate-resume)

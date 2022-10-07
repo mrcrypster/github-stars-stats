@@ -1,12 +1,14 @@
 # micronaut-projects/micronaut-groovy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 15
 
 [Open repository](https://github.com/micronaut-projects/micronaut-groovy)
+
+[Open detailed stats for micronaut-projects/micronaut-groovy](https://reviewgithub.com/rep/micronaut-projects/micronaut-groovy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 7 | 
 | 2022-09-07 | 15 | 7 | 
 
-
-[Detailed charts & statistics for micronaut-projects/micronaut-groovy](https://reviewgithub.com/rep/micronaut-projects/micronaut-groovy)

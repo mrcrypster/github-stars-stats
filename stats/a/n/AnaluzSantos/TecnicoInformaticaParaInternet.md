@@ -1,12 +1,14 @@
 # AnaluzSantos/TecnicoInformaticaParaInternet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 11
 
 [Open repository](https://github.com/AnaluzSantos/TecnicoInformaticaParaInternet)
+
+[Open detailed stats for AnaluzSantos/TecnicoInformaticaParaInternet](https://reviewgithub.com/rep/AnaluzSantos/TecnicoInformaticaParaInternet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | - | 
 | 2022-09-07 | 11 | - | 
 
-
-[Detailed charts & statistics for AnaluzSantos/TecnicoInformaticaParaInternet](https://reviewgithub.com/rep/AnaluzSantos/TecnicoInformaticaParaInternet)

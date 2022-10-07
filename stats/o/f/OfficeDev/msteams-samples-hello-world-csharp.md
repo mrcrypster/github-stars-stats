@@ -1,12 +1,14 @@
 # OfficeDev/msteams-samples-hello-world-csharp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 106
 
 ★ Stars: 65
 
 [Open repository](https://github.com/OfficeDev/msteams-samples-hello-world-csharp)
+
+[Open detailed stats for OfficeDev/msteams-samples-hello-world-csharp](https://reviewgithub.com/rep/OfficeDev/msteams-samples-hello-world-csharp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 65 | 107 | 
 | 2022-09-07 | 65 | 107 | 
 
-
-[Detailed charts & statistics for OfficeDev/msteams-samples-hello-world-csharp](https://reviewgithub.com/rep/OfficeDev/msteams-samples-hello-world-csharp)

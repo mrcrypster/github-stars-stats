@@ -1,12 +1,14 @@
 # ScalaOtus/scala-dev-mooc-2022-06 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ScalaOtus/scala-dev-mooc-2022-06)
+
+[Open detailed stats for ScalaOtus/scala-dev-mooc-2022-06](https://reviewgithub.com/rep/ScalaOtus/scala-dev-mooc-2022-06)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 17 | 
 | 2022-09-07 | 1 | 17 | 
 
-
-[Detailed charts & statistics for ScalaOtus/scala-dev-mooc-2022-06](https://reviewgithub.com/rep/ScalaOtus/scala-dev-mooc-2022-06)

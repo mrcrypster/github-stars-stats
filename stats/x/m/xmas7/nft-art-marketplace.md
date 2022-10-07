@@ -1,12 +1,14 @@
 # xmas7/nft-art-marketplace - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 34
 
 [Open repository](https://github.com/xmas7/nft-art-marketplace)
+
+[Open detailed stats for xmas7/nft-art-marketplace](https://reviewgithub.com/rep/xmas7/nft-art-marketplace)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 34 | 12 | 
 | 2022-09-08 | 34 | 12 | 
 
-
-[Detailed charts & statistics for xmas7/nft-art-marketplace](https://reviewgithub.com/rep/xmas7/nft-art-marketplace)

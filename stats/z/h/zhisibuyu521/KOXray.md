@@ -1,12 +1,14 @@
 # zhisibuyu521/KOXray - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1802
 
 ★ Stars: 14
 
 [Open repository](https://github.com/zhisibuyu521/KOXray)
+
+[Open detailed stats for zhisibuyu521/KOXray](https://reviewgithub.com/rep/zhisibuyu521/KOXray)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 1650 | 
 | 2022-09-08 | 7 | 1649 | 
 
-
-[Detailed charts & statistics for zhisibuyu521/KOXray](https://reviewgithub.com/rep/zhisibuyu521/KOXray)

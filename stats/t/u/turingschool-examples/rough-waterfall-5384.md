@@ -1,12 +1,14 @@
 # turingschool-examples/rough-waterfall-5384 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 0
 
 [Open repository](https://github.com/turingschool-examples/rough-waterfall-5384)
+
+[Open detailed stats for turingschool-examples/rough-waterfall-5384](https://reviewgithub.com/rep/turingschool-examples/rough-waterfall-5384)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 36 | 
 | 2022-09-07 | - | 36 | 
 
-
-[Detailed charts & statistics for turingschool-examples/rough-waterfall-5384](https://reviewgithub.com/rep/turingschool-examples/rough-waterfall-5384)

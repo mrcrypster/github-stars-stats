@@ -1,12 +1,14 @@
 # LandmakTechnology/JenkinsSharedLibraries - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 479
 
 ★ Stars: 0
 
 [Open repository](https://github.com/LandmakTechnology/JenkinsSharedLibraries)
+
+[Open detailed stats for LandmakTechnology/JenkinsSharedLibraries](https://reviewgithub.com/rep/LandmakTechnology/JenkinsSharedLibraries)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 398 | 
 | 2022-09-08 | - | 398 | 
 
-
-[Detailed charts & statistics for LandmakTechnology/JenkinsSharedLibraries](https://reviewgithub.com/rep/LandmakTechnology/JenkinsSharedLibraries)

@@ -1,12 +1,14 @@
 # CodingForCrypt0/pancakeswap-sniper-bot - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 120
 
 ★ Stars: 308
 
 [Open repository](https://github.com/CodingForCrypt0/pancakeswap-sniper-bot)
+
+[Open detailed stats for CodingForCrypt0/pancakeswap-sniper-bot](https://reviewgithub.com/rep/CodingForCrypt0/pancakeswap-sniper-bot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 157 | 117 | 
 | 2022-09-08 | 155 | 115 | 
 
-
-[Detailed charts & statistics for CodingForCrypt0/pancakeswap-sniper-bot](https://reviewgithub.com/rep/CodingForCrypt0/pancakeswap-sniper-bot)

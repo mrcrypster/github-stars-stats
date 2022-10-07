@@ -1,12 +1,14 @@
 # sfmth/ibnalhaytham - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 12
 
 [Open repository](https://github.com/sfmth/ibnalhaytham)
+
+[Open detailed stats for sfmth/ibnalhaytham](https://reviewgithub.com/rep/sfmth/ibnalhaytham)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 1 | 
 | 2022-09-08 | 11 | 1 | 
 
-
-[Detailed charts & statistics for sfmth/ibnalhaytham](https://reviewgithub.com/rep/sfmth/ibnalhaytham)

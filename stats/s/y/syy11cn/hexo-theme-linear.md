@@ -1,12 +1,14 @@
 # syy11cn/hexo-theme-linear - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 32
 
 [Open repository](https://github.com/syy11cn/hexo-theme-linear)
+
+[Open detailed stats for syy11cn/hexo-theme-linear](https://reviewgithub.com/rep/syy11cn/hexo-theme-linear)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 4 | 
 | 2022-09-07 | 29 | 4 | 
 
-
-[Detailed charts & statistics for syy11cn/hexo-theme-linear](https://reviewgithub.com/rep/syy11cn/hexo-theme-linear)

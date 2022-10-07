@@ -1,12 +1,14 @@
 # Wollivan/SquadronLeader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 18
 
 [Open repository](https://github.com/Wollivan/SquadronLeader)
+
+[Open detailed stats for Wollivan/SquadronLeader](https://reviewgithub.com/rep/Wollivan/SquadronLeader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 6 | 
 | 2022-09-07 | 18 | 7 | 
 
-
-[Detailed charts & statistics for Wollivan/SquadronLeader](https://reviewgithub.com/rep/Wollivan/SquadronLeader)

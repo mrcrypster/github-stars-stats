@@ -1,12 +1,14 @@
 # rafakuntz/Biblioteca-CCM-Marechal - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 16
 
 [Open repository](https://github.com/rafakuntz/Biblioteca-CCM-Marechal)
+
+[Open detailed stats for rafakuntz/Biblioteca-CCM-Marechal](https://reviewgithub.com/rep/rafakuntz/Biblioteca-CCM-Marechal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 16 | - | 
 | 2022-09-09 | 16 | - | 
 
-
-[Detailed charts & statistics for rafakuntz/Biblioteca-CCM-Marechal](https://reviewgithub.com/rep/rafakuntz/Biblioteca-CCM-Marechal)

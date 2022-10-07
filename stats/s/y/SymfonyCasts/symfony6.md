@@ -1,12 +1,14 @@
 # SymfonyCasts/symfony6 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 49
 
 ★ Stars: 4
 
 [Open repository](https://github.com/SymfonyCasts/symfony6)
+
+[Open detailed stats for SymfonyCasts/symfony6](https://reviewgithub.com/rep/SymfonyCasts/symfony6)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 38 | 
 | 2022-09-07 | 3 | 38 | 
 
-
-[Detailed charts & statistics for SymfonyCasts/symfony6](https://reviewgithub.com/rep/SymfonyCasts/symfony6)

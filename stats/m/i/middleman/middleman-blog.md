@@ -1,12 +1,14 @@
 # middleman/middleman-blog - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 179
 
 ★ Stars: 322
 
 [Open repository](https://github.com/middleman/middleman-blog)
+
+[Open detailed stats for middleman/middleman-blog](https://reviewgithub.com/rep/middleman/middleman-blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 322 | 179 | 
 | 2022-09-08 | 322 | 179 | 
 
-
-[Detailed charts & statistics for middleman/middleman-blog](https://reviewgithub.com/rep/middleman/middleman-blog)

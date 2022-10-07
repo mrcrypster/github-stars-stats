@@ -1,12 +1,14 @@
 # polymode/polymode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 609
 
 [Open repository](https://github.com/polymode/polymode)
+
+[Open detailed stats for polymode/polymode](https://reviewgithub.com/rep/polymode/polymode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 605 | 61 | 
 | 2022-09-07 | 605 | 61 | 
 
-
-[Detailed charts & statistics for polymode/polymode](https://reviewgithub.com/rep/polymode/polymode)

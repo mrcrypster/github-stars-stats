@@ -1,12 +1,14 @@
 # easychen/awesome-checkchan - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 74
 
 [Open repository](https://github.com/easychen/awesome-checkchan)
+
+[Open detailed stats for easychen/awesome-checkchan](https://reviewgithub.com/rep/easychen/awesome-checkchan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 74 | 6 | 
 | 2022-09-08 | 74 | 6 | 
 
-
-[Detailed charts & statistics for easychen/awesome-checkchan](https://reviewgithub.com/rep/easychen/awesome-checkchan)

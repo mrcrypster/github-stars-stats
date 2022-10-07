@@ -1,12 +1,14 @@
 # afzafri/UiTM-Timetable-Generator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 29
 
 [Open repository](https://github.com/afzafri/UiTM-Timetable-Generator)
+
+[Open detailed stats for afzafri/UiTM-Timetable-Generator](https://reviewgithub.com/rep/afzafri/UiTM-Timetable-Generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 27 | 26 | 
 | 2022-09-07 | 27 | 26 | 
 
-
-[Detailed charts & statistics for afzafri/UiTM-Timetable-Generator](https://reviewgithub.com/rep/afzafri/UiTM-Timetable-Generator)

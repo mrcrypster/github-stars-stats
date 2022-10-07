@@ -1,12 +1,14 @@
 # Prashant-1695/android_vendor_xiaomi_lavender - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Prashant-1695/android_vendor_xiaomi_lavender)
+
+[Open detailed stats for Prashant-1695/android_vendor_xiaomi_lavender](https://reviewgithub.com/rep/Prashant-1695/android_vendor_xiaomi_lavender)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 12 | 
 | 2022-09-08 | 2 | 13 | 
 
-
-[Detailed charts & statistics for Prashant-1695/android_vendor_xiaomi_lavender](https://reviewgithub.com/rep/Prashant-1695/android_vendor_xiaomi_lavender)

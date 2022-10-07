@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-js-date - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 14
 
 [Open repository](https://github.com/purescript-contrib/purescript-js-date)
+
+[Open detailed stats for purescript-contrib/purescript-js-date](https://reviewgithub.com/rep/purescript-contrib/purescript-js-date)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 14 | 19 | 
 | 2022-09-08 | 14 | 19 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-js-date](https://reviewgithub.com/rep/purescript-contrib/purescript-js-date)

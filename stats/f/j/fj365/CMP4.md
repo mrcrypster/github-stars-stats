@@ -1,12 +1,14 @@
 # fj365/CMP4 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 76
 
 [Open repository](https://github.com/fj365/CMP4)
+
+[Open detailed stats for fj365/CMP4](https://reviewgithub.com/rep/fj365/CMP4)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 77 | 49 | 
 | 2022-09-07 | 76 | 49 | 
 
-
-[Detailed charts & statistics for fj365/CMP4](https://reviewgithub.com/rep/fj365/CMP4)

@@ -1,12 +1,14 @@
 # immersive-web/raw-camera-access - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 28
 
 [Open repository](https://github.com/immersive-web/raw-camera-access)
+
+[Open detailed stats for immersive-web/raw-camera-access](https://reviewgithub.com/rep/immersive-web/raw-camera-access)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 9 | 
 | 2022-09-07 | 27 | 9 | 
 
-
-[Detailed charts & statistics for immersive-web/raw-camera-access](https://reviewgithub.com/rep/immersive-web/raw-camera-access)

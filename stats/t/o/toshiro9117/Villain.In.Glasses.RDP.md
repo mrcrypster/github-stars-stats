@@ -1,12 +1,14 @@
 # toshiro9117/Villain.In.Glasses.RDP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 94
 
 ★ Stars: 5
 
 [Open repository](https://github.com/toshiro9117/Villain.In.Glasses.RDP)
+
+[Open detailed stats for toshiro9117/Villain.In.Glasses.RDP](https://reviewgithub.com/rep/toshiro9117/Villain.In.Glasses.RDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 92 | 
 | 2022-09-08 | 5 | 92 | 
 
-
-[Detailed charts & statistics for toshiro9117/Villain.In.Glasses.RDP](https://reviewgithub.com/rep/toshiro9117/Villain.In.Glasses.RDP)

@@ -1,12 +1,14 @@
 # jbogp/bioWeb3D - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 22
 
 [Open repository](https://github.com/jbogp/bioWeb3D)
+
+[Open detailed stats for jbogp/bioWeb3D](https://reviewgithub.com/rep/jbogp/bioWeb3D)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 22 | 10 | 
 | 2022-09-08 | 22 | 10 | 
 
-
-[Detailed charts & statistics for jbogp/bioWeb3D](https://reviewgithub.com/rep/jbogp/bioWeb3D)

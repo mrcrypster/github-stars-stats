@@ -1,12 +1,14 @@
 # digital-asset/ghc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 8
 
 [Open repository](https://github.com/digital-asset/ghc)
+
+[Open detailed stats for digital-asset/ghc](https://reviewgithub.com/rep/digital-asset/ghc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 4 | 
 | 2022-09-08 | 8 | 4 | 
 
-
-[Detailed charts & statistics for digital-asset/ghc](https://reviewgithub.com/rep/digital-asset/ghc)

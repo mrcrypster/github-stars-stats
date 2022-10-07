@@ -1,12 +1,14 @@
 # chrosciu/jee-user-crud - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 1
 
 [Open repository](https://github.com/chrosciu/jee-user-crud)
+
+[Open detailed stats for chrosciu/jee-user-crud](https://reviewgithub.com/rep/chrosciu/jee-user-crud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 7 | 
 | 2022-09-07 | 1 | 7 | 
 
-
-[Detailed charts & statistics for chrosciu/jee-user-crud](https://reviewgithub.com/rep/chrosciu/jee-user-crud)

@@ -1,12 +1,14 @@
 # ddsjoberg/ggsurvfit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 18
 
 [Open repository](https://github.com/ddsjoberg/ggsurvfit)
+
+[Open detailed stats for ddsjoberg/ggsurvfit](https://reviewgithub.com/rep/ddsjoberg/ggsurvfit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 4 | 
 | 2022-09-08 | 17 | 4 | 
 
-
-[Detailed charts & statistics for ddsjoberg/ggsurvfit](https://reviewgithub.com/rep/ddsjoberg/ggsurvfit)

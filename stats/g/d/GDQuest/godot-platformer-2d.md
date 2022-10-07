@@ -1,12 +1,14 @@
 # GDQuest/godot-platformer-2d - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 51
 
 ★ Stars: 481
 
 [Open repository](https://github.com/GDQuest/godot-platformer-2d)
+
+[Open detailed stats for GDQuest/godot-platformer-2d](https://reviewgithub.com/rep/GDQuest/godot-platformer-2d)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 476 | 50 | 
 | 2022-09-08 | 475 | 50 | 
 
-
-[Detailed charts & statistics for GDQuest/godot-platformer-2d](https://reviewgithub.com/rep/GDQuest/godot-platformer-2d)

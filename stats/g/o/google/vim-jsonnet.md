@@ -1,12 +1,14 @@
 # google/vim-jsonnet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 139
 
 [Open repository](https://github.com/google/vim-jsonnet)
+
+[Open detailed stats for google/vim-jsonnet](https://reviewgithub.com/rep/google/vim-jsonnet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 139 | 32 | 
 | 2022-09-07 | 139 | 32 | 
 
-
-[Detailed charts & statistics for google/vim-jsonnet](https://reviewgithub.com/rep/google/vim-jsonnet)

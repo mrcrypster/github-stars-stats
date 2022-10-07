@@ -1,12 +1,14 @@
 # TheMuppets/proprietary_vendor_google - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 164
 
 ★ Stars: 90
 
 [Open repository](https://github.com/TheMuppets/proprietary_vendor_google)
+
+[Open detailed stats for TheMuppets/proprietary_vendor_google](https://reviewgithub.com/rep/TheMuppets/proprietary_vendor_google)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 90 | 164 | 
 | 2022-09-08 | 90 | 164 | 
 
-
-[Detailed charts & statistics for TheMuppets/proprietary_vendor_google](https://reviewgithub.com/rep/TheMuppets/proprietary_vendor_google)

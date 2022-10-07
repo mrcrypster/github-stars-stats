@@ -1,12 +1,14 @@
 # chidiebubeuchenna/monitraka - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/chidiebubeuchenna/monitraka)
+
+[Open detailed stats for chidiebubeuchenna/monitraka](https://reviewgithub.com/rep/chidiebubeuchenna/monitraka)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 3 | 
 | 2022-09-07 | 1 | 3 | 
 
-
-[Detailed charts & statistics for chidiebubeuchenna/monitraka](https://reviewgithub.com/rep/chidiebubeuchenna/monitraka)

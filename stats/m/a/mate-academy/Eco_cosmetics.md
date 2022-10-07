@@ -1,12 +1,14 @@
 # mate-academy/Eco_cosmetics - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 193
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mate-academy/Eco_cosmetics)
+
+[Open detailed stats for mate-academy/Eco_cosmetics](https://reviewgithub.com/rep/mate-academy/Eco_cosmetics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 186 | 
 | 2022-09-08 | 1 | 184 | 
 
-
-[Detailed charts & statistics for mate-academy/Eco_cosmetics](https://reviewgithub.com/rep/mate-academy/Eco_cosmetics)

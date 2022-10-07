@@ -1,12 +1,14 @@
 # oneapi-src/oneAPI-samples - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 382
 
 ★ Stars: 428
 
 [Open repository](https://github.com/oneapi-src/oneAPI-samples)
+
+[Open detailed stats for oneapi-src/oneAPI-samples](https://reviewgithub.com/rep/oneapi-src/oneAPI-samples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 411 | 374 | 
 | 2022-09-07 | 410 | 373 | 
 
-
-[Detailed charts & statistics for oneapi-src/oneAPI-samples](https://reviewgithub.com/rep/oneapi-src/oneAPI-samples)

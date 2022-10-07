@@ -1,12 +1,14 @@
 # kost/nmap-android - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 68
 
 ★ Stars: 227
 
 [Open repository](https://github.com/kost/nmap-android)
+
+[Open detailed stats for kost/nmap-android](https://reviewgithub.com/rep/kost/nmap-android)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 224 | 68 | 
 | 2022-09-07 | 224 | 68 | 
 
-
-[Detailed charts & statistics for kost/nmap-android](https://reviewgithub.com/rep/kost/nmap-android)

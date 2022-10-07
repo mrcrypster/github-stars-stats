@@ -1,12 +1,14 @@
 # RyushiAok/Tetris - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 13
 
 [Open repository](https://github.com/RyushiAok/Tetris)
+
+[Open detailed stats for RyushiAok/Tetris](https://reviewgithub.com/rep/RyushiAok/Tetris)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | - | 
 | 2022-09-07 | 13 | - | 
 
-
-[Detailed charts & statistics for RyushiAok/Tetris](https://reviewgithub.com/rep/RyushiAok/Tetris)

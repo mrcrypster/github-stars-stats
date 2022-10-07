@@ -1,12 +1,14 @@
 # HackerUSA-CE/CSS-CSS-Animations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 509
 
 ★ Stars: 8
 
 [Open repository](https://github.com/HackerUSA-CE/CSS-CSS-Animations)
+
+[Open detailed stats for HackerUSA-CE/CSS-CSS-Animations](https://reviewgithub.com/rep/HackerUSA-CE/CSS-CSS-Animations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 467 | 
 | 2022-09-08 | 8 | 467 | 
 
-
-[Detailed charts & statistics for HackerUSA-CE/CSS-CSS-Animations](https://reviewgithub.com/rep/HackerUSA-CE/CSS-CSS-Animations)

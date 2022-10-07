@@ -1,12 +1,14 @@
 # syngenta-digital/challenge-java-hotel-reservation-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 2
 
 [Open repository](https://github.com/syngenta-digital/challenge-java-hotel-reservation-test)
+
+[Open detailed stats for syngenta-digital/challenge-java-hotel-reservation-test](https://reviewgithub.com/rep/syngenta-digital/challenge-java-hotel-reservation-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 15 | 
 | 2022-09-08 | 2 | 15 | 
 
-
-[Detailed charts & statistics for syngenta-digital/challenge-java-hotel-reservation-test](https://reviewgithub.com/rep/syngenta-digital/challenge-java-hotel-reservation-test)

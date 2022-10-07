@@ -1,12 +1,14 @@
 # umd-cmsc330/cmsc330spring22 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 26
 
 [Open repository](https://github.com/umd-cmsc330/cmsc330spring22)
+
+[Open detailed stats for umd-cmsc330/cmsc330spring22](https://reviewgithub.com/rep/umd-cmsc330/cmsc330spring22)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 24 | 
 | 2022-09-07 | 26 | 24 | 
 
-
-[Detailed charts & statistics for umd-cmsc330/cmsc330spring22](https://reviewgithub.com/rep/umd-cmsc330/cmsc330spring22)

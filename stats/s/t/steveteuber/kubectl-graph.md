@@ -1,12 +1,14 @@
 # steveteuber/kubectl-graph - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 282
 
 [Open repository](https://github.com/steveteuber/kubectl-graph)
+
+[Open detailed stats for steveteuber/kubectl-graph](https://reviewgithub.com/rep/steveteuber/kubectl-graph)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 272 | 7 | 
 | 2022-09-08 | 272 | 7 | 
 
-
-[Detailed charts & statistics for steveteuber/kubectl-graph](https://reviewgithub.com/rep/steveteuber/kubectl-graph)

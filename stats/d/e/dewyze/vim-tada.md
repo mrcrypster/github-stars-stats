@@ -1,12 +1,14 @@
 # dewyze/vim-tada - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 78
 
 [Open repository](https://github.com/dewyze/vim-tada)
+
+[Open detailed stats for dewyze/vim-tada](https://reviewgithub.com/rep/dewyze/vim-tada)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 1 | 
 | 2022-09-07 | 78 | 1 | 
 
-
-[Detailed charts & statistics for dewyze/vim-tada](https://reviewgithub.com/rep/dewyze/vim-tada)

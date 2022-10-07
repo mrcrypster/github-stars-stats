@@ -1,12 +1,14 @@
 # vdespa/Postman-Complete-Guide-API-Testing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 24
 
 [Open repository](https://github.com/vdespa/Postman-Complete-Guide-API-Testing)
+
+[Open detailed stats for vdespa/Postman-Complete-Guide-API-Testing](https://reviewgithub.com/rep/vdespa/Postman-Complete-Guide-API-Testing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 20 | 
 | 2022-09-08 | 17 | 19 | 
 
-
-[Detailed charts & statistics for vdespa/Postman-Complete-Guide-API-Testing](https://reviewgithub.com/rep/vdespa/Postman-Complete-Guide-API-Testing)

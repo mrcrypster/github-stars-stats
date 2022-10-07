@@ -1,12 +1,14 @@
 # UNN-IASR/mod-lab03-coffee - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 0
 
 [Open repository](https://github.com/UNN-IASR/mod-lab03-coffee)
+
+[Open detailed stats for UNN-IASR/mod-lab03-coffee](https://reviewgithub.com/rep/UNN-IASR/mod-lab03-coffee)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 42 | 
 | 2022-09-07 | - | 42 | 
 
-
-[Detailed charts & statistics for UNN-IASR/mod-lab03-coffee](https://reviewgithub.com/rep/UNN-IASR/mod-lab03-coffee)

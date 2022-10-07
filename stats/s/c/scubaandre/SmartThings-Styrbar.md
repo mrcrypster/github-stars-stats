@@ -1,12 +1,14 @@
 # scubaandre/SmartThings-Styrbar - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 7
 
 [Open repository](https://github.com/scubaandre/SmartThings-Styrbar)
+
+[Open detailed stats for scubaandre/SmartThings-Styrbar](https://reviewgithub.com/rep/scubaandre/SmartThings-Styrbar)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 36 | 
 | 2022-09-08 | 7 | 36 | 
 
-
-[Detailed charts & statistics for scubaandre/SmartThings-Styrbar](https://reviewgithub.com/rep/scubaandre/SmartThings-Styrbar)

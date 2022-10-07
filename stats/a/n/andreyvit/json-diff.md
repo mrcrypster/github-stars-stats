@@ -1,12 +1,14 @@
 # andreyvit/json-diff - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 110
 
 ★ Stars: 886
 
 [Open repository](https://github.com/andreyvit/json-diff)
+
+[Open detailed stats for andreyvit/json-diff](https://reviewgithub.com/rep/andreyvit/json-diff)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 850 | 109 | 
 | 2022-09-08 | 833 | 109 | 
 
-
-[Detailed charts & statistics for andreyvit/json-diff](https://reviewgithub.com/rep/andreyvit/json-diff)

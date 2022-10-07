@@ -1,12 +1,14 @@
 # jnthn/nqp-jvm-prep - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 16
 
 [Open repository](https://github.com/jnthn/nqp-jvm-prep)
+
+[Open detailed stats for jnthn/nqp-jvm-prep](https://reviewgithub.com/rep/jnthn/nqp-jvm-prep)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 4 | 
 | 2022-09-08 | 16 | 4 | 
 
-
-[Detailed charts & statistics for jnthn/nqp-jvm-prep](https://reviewgithub.com/rep/jnthn/nqp-jvm-prep)

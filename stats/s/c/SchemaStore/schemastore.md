@@ -1,12 +1,14 @@
 # SchemaStore/schemastore - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1094
 
 ★ Stars: 1939
 
 [Open repository](https://github.com/SchemaStore/schemastore)
+
+[Open detailed stats for SchemaStore/schemastore](https://reviewgithub.com/rep/SchemaStore/schemastore)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1902 | 1068 | 
 | 2022-09-07 | 1897 | 1066 | 
 
-
-[Detailed charts & statistics for SchemaStore/schemastore](https://reviewgithub.com/rep/SchemaStore/schemastore)

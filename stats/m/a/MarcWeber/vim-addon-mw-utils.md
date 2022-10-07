@@ -1,12 +1,14 @@
 # MarcWeber/vim-addon-mw-utils - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 102
 
 [Open repository](https://github.com/MarcWeber/vim-addon-mw-utils)
+
+[Open detailed stats for MarcWeber/vim-addon-mw-utils](https://reviewgithub.com/rep/MarcWeber/vim-addon-mw-utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 102 | 22 | 
 | 2022-09-07 | 102 | 22 | 
 
-
-[Detailed charts & statistics for MarcWeber/vim-addon-mw-utils](https://reviewgithub.com/rep/MarcWeber/vim-addon-mw-utils)

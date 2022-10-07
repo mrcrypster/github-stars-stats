@@ -1,12 +1,14 @@
 # yuzu-emu/yuzu-mainline - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 211
 
 ★ Stars: 1093
 
 [Open repository](https://github.com/yuzu-emu/yuzu-mainline)
+
+[Open detailed stats for yuzu-emu/yuzu-mainline](https://reviewgithub.com/rep/yuzu-emu/yuzu-mainline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1060 | 211 | 
 | 2022-09-08 | 1060 | 211 | 
 
-
-[Detailed charts & statistics for yuzu-emu/yuzu-mainline](https://reviewgithub.com/rep/yuzu-emu/yuzu-mainline)

@@ -1,12 +1,14 @@
 # vdemeester/vcsh-home - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 14
 
 [Open repository](https://github.com/vdemeester/vcsh-home)
+
+[Open detailed stats for vdemeester/vcsh-home](https://reviewgithub.com/rep/vdemeester/vcsh-home)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 2 | 
 | 2022-09-08 | 14 | 2 | 
 
-
-[Detailed charts & statistics for vdemeester/vcsh-home](https://reviewgithub.com/rep/vdemeester/vcsh-home)

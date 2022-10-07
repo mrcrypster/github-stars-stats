@@ -1,12 +1,14 @@
 # zendesk/messagingapi_sdk_ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 4
 
 [Open repository](https://github.com/zendesk/messagingapi_sdk_ios)
+
+[Open detailed stats for zendesk/messagingapi_sdk_ios](https://reviewgithub.com/rep/zendesk/messagingapi_sdk_ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 15 | 
 | 2022-09-08 | 4 | 15 | 
 
-
-[Detailed charts & statistics for zendesk/messagingapi_sdk_ios](https://reviewgithub.com/rep/zendesk/messagingapi_sdk_ios)

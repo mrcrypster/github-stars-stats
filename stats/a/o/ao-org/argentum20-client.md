@@ -1,12 +1,14 @@
 # ao-org/argentum20-client - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 9
 
 [Open repository](https://github.com/ao-org/argentum20-client)
+
+[Open detailed stats for ao-org/argentum20-client](https://reviewgithub.com/rep/ao-org/argentum20-client)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 4 | 
 | 2022-09-07 | 9 | 4 | 
 
-
-[Detailed charts & statistics for ao-org/argentum20-client](https://reviewgithub.com/rep/ao-org/argentum20-client)

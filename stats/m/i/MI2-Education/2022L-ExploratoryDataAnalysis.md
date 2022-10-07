@@ -1,12 +1,14 @@
 # MI2-Education/2022L-ExploratoryDataAnalysis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 12
 
 [Open repository](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis)
+
+[Open detailed stats for MI2-Education/2022L-ExploratoryDataAnalysis](https://reviewgithub.com/rep/MI2-Education/2022L-ExploratoryDataAnalysis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 30 | 
 | 2022-09-07 | 11 | 30 | 
 
-
-[Detailed charts & statistics for MI2-Education/2022L-ExploratoryDataAnalysis](https://reviewgithub.com/rep/MI2-Education/2022L-ExploratoryDataAnalysis)

@@ -1,12 +1,14 @@
 # sultim-t/prboom-plus-rt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 674
 
 [Open repository](https://github.com/sultim-t/prboom-plus-rt)
+
+[Open detailed stats for sultim-t/prboom-plus-rt](https://reviewgithub.com/rep/sultim-t/prboom-plus-rt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 650 | 48 | 
 | 2022-09-08 | 650 | 48 | 
 
-
-[Detailed charts & statistics for sultim-t/prboom-plus-rt](https://reviewgithub.com/rep/sultim-t/prboom-plus-rt)

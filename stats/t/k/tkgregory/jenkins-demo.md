@@ -1,12 +1,14 @@
 # tkgregory/jenkins-demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 153
 
 ★ Stars: 27
 
 [Open repository](https://github.com/tkgregory/jenkins-demo)
+
+[Open detailed stats for tkgregory/jenkins-demo](https://reviewgithub.com/rep/tkgregory/jenkins-demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 149 | 
 | 2022-09-07 | 26 | 149 | 
 
-
-[Detailed charts & statistics for tkgregory/jenkins-demo](https://reviewgithub.com/rep/tkgregory/jenkins-demo)

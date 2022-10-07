@@ -1,12 +1,14 @@
 # jkitchin/ox-clip - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 52
 
 [Open repository](https://github.com/jkitchin/ox-clip)
+
+[Open detailed stats for jkitchin/ox-clip](https://reviewgithub.com/rep/jkitchin/ox-clip)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 51 | 7 | 
 | 2022-09-07 | 51 | 7 | 
 
-
-[Detailed charts & statistics for jkitchin/ox-clip](https://reviewgithub.com/rep/jkitchin/ox-clip)

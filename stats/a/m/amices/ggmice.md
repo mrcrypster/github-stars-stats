@@ -1,12 +1,14 @@
 # amices/ggmice - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 20
 
 [Open repository](https://github.com/amices/ggmice)
+
+[Open detailed stats for amices/ggmice](https://reviewgithub.com/rep/amices/ggmice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 3 | 
 | 2022-09-07 | 20 | 3 | 
 
-
-[Detailed charts & statistics for amices/ggmice](https://reviewgithub.com/rep/amices/ggmice)

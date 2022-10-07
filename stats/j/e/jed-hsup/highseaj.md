@@ -1,12 +1,14 @@
 # jed-hsup/highseaj - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 58
 
 [Open repository](https://github.com/jed-hsup/highseaj)
+
+[Open detailed stats for jed-hsup/highseaj](https://reviewgithub.com/rep/jed-hsup/highseaj)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 58 | 26 | 
 | 2022-09-08 | 58 | 26 | 
 
-
-[Detailed charts & statistics for jed-hsup/highseaj](https://reviewgithub.com/rep/jed-hsup/highseaj)

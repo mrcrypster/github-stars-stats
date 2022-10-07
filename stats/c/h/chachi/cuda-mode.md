@@ -1,12 +1,14 @@
 # chachi/cuda-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 20
 
 [Open repository](https://github.com/chachi/cuda-mode)
+
+[Open detailed stats for chachi/cuda-mode](https://reviewgithub.com/rep/chachi/cuda-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 14 | 
 | 2022-09-08 | 20 | 14 | 
 
-
-[Detailed charts & statistics for chachi/cuda-mode](https://reviewgithub.com/rep/chachi/cuda-mode)

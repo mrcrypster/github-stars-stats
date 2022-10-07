@@ -1,12 +1,14 @@
 # jsk-ros-pkg/jsk_robot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 89
 
 ★ Stars: 59
 
 [Open repository](https://github.com/jsk-ros-pkg/jsk_robot)
+
+[Open detailed stats for jsk-ros-pkg/jsk_robot](https://reviewgithub.com/rep/jsk-ros-pkg/jsk_robot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 59 | 89 | 
 | 2022-09-07 | 59 | 89 | 
 
-
-[Detailed charts & statistics for jsk-ros-pkg/jsk_robot](https://reviewgithub.com/rep/jsk-ros-pkg/jsk_robot)

@@ -1,12 +1,14 @@
 # lucifer1004/Jl2Py.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/lucifer1004/Jl2Py.jl)
+
+[Open detailed stats for lucifer1004/Jl2Py.jl](https://reviewgithub.com/rep/lucifer1004/Jl2Py.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | - | 
 | 2022-09-08 | 9 | - | 
 
-
-[Detailed charts & statistics for lucifer1004/Jl2Py.jl](https://reviewgithub.com/rep/lucifer1004/Jl2Py.jl)

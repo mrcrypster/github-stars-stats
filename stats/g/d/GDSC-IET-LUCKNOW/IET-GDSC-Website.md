@@ -1,12 +1,14 @@
 # GDSC-IET-LUCKNOW/IET-GDSC-Website - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 8
 
 [Open repository](https://github.com/GDSC-IET-LUCKNOW/IET-GDSC-Website)
+
+[Open detailed stats for GDSC-IET-LUCKNOW/IET-GDSC-Website](https://reviewgithub.com/rep/GDSC-IET-LUCKNOW/IET-GDSC-Website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 7 | 14 | 
 | 2022-09-12 | 7 | 14 | 
 
-
-[Detailed charts & statistics for GDSC-IET-LUCKNOW/IET-GDSC-Website](https://reviewgithub.com/rep/GDSC-IET-LUCKNOW/IET-GDSC-Website)

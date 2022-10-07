@@ -1,12 +1,14 @@
 # movimentocodar/iniciante-em-programacao-2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 0
 
 [Open repository](https://github.com/movimentocodar/iniciante-em-programacao-2022)
+
+[Open detailed stats for movimentocodar/iniciante-em-programacao-2022](https://reviewgithub.com/rep/movimentocodar/iniciante-em-programacao-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 43 | 
 | 2022-09-07 | - | 43 | 
 
-
-[Detailed charts & statistics for movimentocodar/iniciante-em-programacao-2022](https://reviewgithub.com/rep/movimentocodar/iniciante-em-programacao-2022)

@@ -1,12 +1,14 @@
 # jokergoo/KeywordsEnrichment - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 28
 
 [Open repository](https://github.com/jokergoo/KeywordsEnrichment)
+
+[Open detailed stats for jokergoo/KeywordsEnrichment](https://reviewgithub.com/rep/jokergoo/KeywordsEnrichment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 1 | 
 | 2022-09-07 | 28 | 1 | 
 
-
-[Detailed charts & statistics for jokergoo/KeywordsEnrichment](https://reviewgithub.com/rep/jokergoo/KeywordsEnrichment)

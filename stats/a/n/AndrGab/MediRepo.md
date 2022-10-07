@@ -1,12 +1,14 @@
 # AndrGab/MediRepo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 12
 
 [Open repository](https://github.com/AndrGab/MediRepo)
+
+[Open detailed stats for AndrGab/MediRepo](https://reviewgithub.com/rep/AndrGab/MediRepo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 10 | 6 | 
 | 2022-10-03 | 10 | 6 | 
 
-
-[Detailed charts & statistics for AndrGab/MediRepo](https://reviewgithub.com/rep/AndrGab/MediRepo)

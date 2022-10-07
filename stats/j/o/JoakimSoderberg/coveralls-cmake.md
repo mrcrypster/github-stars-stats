@@ -1,12 +1,14 @@
 # JoakimSoderberg/coveralls-cmake - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 82
 
 [Open repository](https://github.com/JoakimSoderberg/coveralls-cmake)
+
+[Open detailed stats for JoakimSoderberg/coveralls-cmake](https://reviewgithub.com/rep/JoakimSoderberg/coveralls-cmake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 82 | 15 | 
 | 2022-09-08 | 82 | 15 | 
 
-
-[Detailed charts & statistics for JoakimSoderberg/coveralls-cmake](https://reviewgithub.com/rep/JoakimSoderberg/coveralls-cmake)

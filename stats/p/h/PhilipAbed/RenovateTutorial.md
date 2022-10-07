@@ -1,12 +1,14 @@
 # PhilipAbed/RenovateTutorial - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 45
 
 ★ Stars: 6
 
 [Open repository](https://github.com/PhilipAbed/RenovateTutorial)
+
+[Open detailed stats for PhilipAbed/RenovateTutorial](https://reviewgithub.com/rep/PhilipAbed/RenovateTutorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 30 | 
 | 2022-09-08 | 7 | 27 | 
 
-
-[Detailed charts & statistics for PhilipAbed/RenovateTutorial](https://reviewgithub.com/rep/PhilipAbed/RenovateTutorial)

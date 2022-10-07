@@ -1,12 +1,14 @@
 # GeneStevens/jsonpath - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 37
 
 [Open repository](https://github.com/GeneStevens/jsonpath)
+
+[Open detailed stats for GeneStevens/jsonpath](https://reviewgithub.com/rep/GeneStevens/jsonpath)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 19 | 
 | 2022-09-07 | 37 | 19 | 
 
-
-[Detailed charts & statistics for GeneStevens/jsonpath](https://reviewgithub.com/rep/GeneStevens/jsonpath)

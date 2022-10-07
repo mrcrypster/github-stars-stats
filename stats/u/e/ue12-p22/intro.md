@@ -1,12 +1,14 @@
 # ue12-p22/intro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ue12-p22/intro)
+
+[Open detailed stats for ue12-p22/intro](https://reviewgithub.com/rep/ue12-p22/intro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for ue12-p22/intro](https://reviewgithub.com/rep/ue12-p22/intro)

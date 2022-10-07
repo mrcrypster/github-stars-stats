@@ -1,12 +1,14 @@
 # oe-alliance/oe-alliance-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 164
 
 ★ Stars: 148
 
 [Open repository](https://github.com/oe-alliance/oe-alliance-core)
+
+[Open detailed stats for oe-alliance/oe-alliance-core](https://reviewgithub.com/rep/oe-alliance/oe-alliance-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 148 | 164 | 
 | 2022-09-07 | 148 | 164 | 
 
-
-[Detailed charts & statistics for oe-alliance/oe-alliance-core](https://reviewgithub.com/rep/oe-alliance/oe-alliance-core)

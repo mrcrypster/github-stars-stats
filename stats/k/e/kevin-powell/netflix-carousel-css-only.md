@@ -1,12 +1,14 @@
 # kevin-powell/netflix-carousel-css-only - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 37
 
 [Open repository](https://github.com/kevin-powell/netflix-carousel-css-only)
+
+[Open detailed stats for kevin-powell/netflix-carousel-css-only](https://reviewgithub.com/rep/kevin-powell/netflix-carousel-css-only)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 16 | 
 | 2022-09-07 | 35 | 16 | 
 
-
-[Detailed charts & statistics for kevin-powell/netflix-carousel-css-only](https://reviewgithub.com/rep/kevin-powell/netflix-carousel-css-only)

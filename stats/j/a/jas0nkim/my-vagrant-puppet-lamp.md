@@ -1,12 +1,14 @@
 # jas0nkim/my-vagrant-puppet-lamp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 102
 
 ★ Stars: 26
 
 [Open repository](https://github.com/jas0nkim/my-vagrant-puppet-lamp)
+
+[Open detailed stats for jas0nkim/my-vagrant-puppet-lamp](https://reviewgithub.com/rep/jas0nkim/my-vagrant-puppet-lamp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 26 | 103 | 
 | 2022-09-08 | 26 | 103 | 
 
-
-[Detailed charts & statistics for jas0nkim/my-vagrant-puppet-lamp](https://reviewgithub.com/rep/jas0nkim/my-vagrant-puppet-lamp)

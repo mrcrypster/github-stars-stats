@@ -1,12 +1,14 @@
 # Roaa94/flutter-theme-switcher - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 26
 
 [Open repository](https://github.com/Roaa94/flutter-theme-switcher)
+
+[Open detailed stats for Roaa94/flutter-theme-switcher](https://reviewgithub.com/rep/Roaa94/flutter-theme-switcher)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 24 | 4 | 
 | 2022-09-07 | 24 | 4 | 
 
-
-[Detailed charts & statistics for Roaa94/flutter-theme-switcher](https://reviewgithub.com/rep/Roaa94/flutter-theme-switcher)

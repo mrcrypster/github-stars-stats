@@ -1,12 +1,14 @@
 # mpaland/printf - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 364
 
 ★ Stars: 1857
 
 [Open repository](https://github.com/mpaland/printf)
+
+[Open detailed stats for mpaland/printf](https://reviewgithub.com/rep/mpaland/printf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1842 | 353 | 
 | 2022-09-08 | 1840 | 353 | 
 
-
-[Detailed charts & statistics for mpaland/printf](https://reviewgithub.com/rep/mpaland/printf)

@@ -1,12 +1,14 @@
 # nubank/nixpkgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 23
 
 [Open repository](https://github.com/nubank/nixpkgs)
+
+[Open detailed stats for nubank/nixpkgs](https://reviewgithub.com/rep/nubank/nixpkgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 23 | - | 
 | 2022-09-08 | 23 | - | 
 
-
-[Detailed charts & statistics for nubank/nixpkgs](https://reviewgithub.com/rep/nubank/nixpkgs)

@@ -1,6 +1,6 @@
 # nrfconnect/sdk-zephyr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 394
 
@@ -8,9 +8,12 @@ Stats updated on Mar 54732, 17
 
 [Open repository](https://github.com/nrfconnect/sdk-zephyr)
 
+[Open detailed stats for nrfconnect/sdk-zephyr](https://reviewgithub.com/rep/nrfconnect/sdk-zephyr)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 129 | 394 | 
 | 2022-10-06 | 129 | 394 | 
 | 2022-10-05 | 129 | 394 | 
 | 2022-10-04 | 129 | 394 | 
@@ -41,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 125 | 389 | 
 | 2022-09-07 | 125 | 388 | 
 
-
-[Detailed charts & statistics for nrfconnect/sdk-zephyr](https://reviewgithub.com/rep/nrfconnect/sdk-zephyr)

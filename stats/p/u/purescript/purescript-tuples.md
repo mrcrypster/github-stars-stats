@@ -1,12 +1,14 @@
 # purescript/purescript-tuples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 24
 
 [Open repository](https://github.com/purescript/purescript-tuples)
+
+[Open detailed stats for purescript/purescript-tuples](https://reviewgithub.com/rep/purescript/purescript-tuples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 24 | 17 | 
 | 2022-09-08 | 24 | 17 | 
 
-
-[Detailed charts & statistics for purescript/purescript-tuples](https://reviewgithub.com/rep/purescript/purescript-tuples)

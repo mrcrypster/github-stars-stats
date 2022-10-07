@@ -1,12 +1,14 @@
 # JaylyDev/terminator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 8
 
 [Open repository](https://github.com/JaylyDev/terminator)
+
+[Open detailed stats for JaylyDev/terminator](https://reviewgithub.com/rep/JaylyDev/terminator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 4 | 
 | 2022-09-07 | 7 | 4 | 
 
-
-[Detailed charts & statistics for JaylyDev/terminator](https://reviewgithub.com/rep/JaylyDev/terminator)

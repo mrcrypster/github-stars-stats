@@ -1,12 +1,14 @@
 # voxpupuli/puppet-bacula - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 11
 
 [Open repository](https://github.com/voxpupuli/puppet-bacula)
+
+[Open detailed stats for voxpupuli/puppet-bacula](https://reviewgithub.com/rep/voxpupuli/puppet-bacula)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 27 | 
 | 2022-09-07 | 11 | 27 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-bacula](https://reviewgithub.com/rep/voxpupuli/puppet-bacula)

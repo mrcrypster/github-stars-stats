@@ -1,12 +1,14 @@
 # wagyufari/dzikirqu-android - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 102
 
 [Open repository](https://github.com/wagyufari/dzikirqu-android)
+
+[Open detailed stats for wagyufari/dzikirqu-android](https://reviewgithub.com/rep/wagyufari/dzikirqu-android)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 93 | 27 | 
 | 2022-09-07 | 93 | 27 | 
 
-
-[Detailed charts & statistics for wagyufari/dzikirqu-android](https://reviewgithub.com/rep/wagyufari/dzikirqu-android)

@@ -1,12 +1,14 @@
 # PromiseKit/OMGHTTPURLRQ- - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 9
 
 [Open repository](https://github.com/PromiseKit/OMGHTTPURLRQ-)
+
+[Open detailed stats for PromiseKit/OMGHTTPURLRQ-](https://reviewgithub.com/rep/PromiseKit/OMGHTTPURLRQ-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 9 | 3 | 
 | 2022-09-08 | 9 | 3 | 
 
-
-[Detailed charts & statistics for PromiseKit/OMGHTTPURLRQ-](https://reviewgithub.com/rep/PromiseKit/OMGHTTPURLRQ-)

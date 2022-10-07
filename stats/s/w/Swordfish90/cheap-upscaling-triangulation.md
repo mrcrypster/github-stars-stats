@@ -1,12 +1,14 @@
 # Swordfish90/cheap-upscaling-triangulation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 24
 
 [Open repository](https://github.com/Swordfish90/cheap-upscaling-triangulation)
+
+[Open detailed stats for Swordfish90/cheap-upscaling-triangulation](https://reviewgithub.com/rep/Swordfish90/cheap-upscaling-triangulation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 1 | 
 | 2022-09-08 | 24 | 1 | 
 
-
-[Detailed charts & statistics for Swordfish90/cheap-upscaling-triangulation](https://reviewgithub.com/rep/Swordfish90/cheap-upscaling-triangulation)

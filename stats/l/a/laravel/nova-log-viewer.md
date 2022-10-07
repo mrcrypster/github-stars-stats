@@ -1,12 +1,14 @@
 # laravel/nova-log-viewer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 116
 
 [Open repository](https://github.com/laravel/nova-log-viewer)
+
+[Open detailed stats for laravel/nova-log-viewer](https://reviewgithub.com/rep/laravel/nova-log-viewer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 115 | 11 | 
 | 2022-09-08 | 115 | 11 | 
 
-
-[Detailed charts & statistics for laravel/nova-log-viewer](https://reviewgithub.com/rep/laravel/nova-log-viewer)

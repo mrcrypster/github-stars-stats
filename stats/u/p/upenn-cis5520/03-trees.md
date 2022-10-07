@@ -1,12 +1,14 @@
 # upenn-cis5520/03-trees - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 0
 
 [Open repository](https://github.com/upenn-cis5520/03-trees)
+
+[Open detailed stats for upenn-cis5520/03-trees](https://reviewgithub.com/rep/upenn-cis5520/03-trees)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | - | 14 | 
 | 2022-09-19 | - | 14 | 
 
-
-[Detailed charts & statistics for upenn-cis5520/03-trees](https://reviewgithub.com/rep/upenn-cis5520/03-trees)

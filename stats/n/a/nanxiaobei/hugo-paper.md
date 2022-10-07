@@ -1,12 +1,14 @@
 # nanxiaobei/hugo-paper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 251
 
 ★ Stars: 1183
 
 [Open repository](https://github.com/nanxiaobei/hugo-paper)
+
+[Open detailed stats for nanxiaobei/hugo-paper](https://reviewgithub.com/rep/nanxiaobei/hugo-paper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1147 | 239 | 
 | 2022-09-08 | 1144 | 239 | 
 
-
-[Detailed charts & statistics for nanxiaobei/hugo-paper](https://reviewgithub.com/rep/nanxiaobei/hugo-paper)

@@ -1,12 +1,14 @@
 # jerry153fish/remote-secrets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 91
 
 [Open repository](https://github.com/jerry153fish/remote-secrets)
+
+[Open detailed stats for jerry153fish/remote-secrets](https://reviewgithub.com/rep/jerry153fish/remote-secrets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 92 | 18 | 
 | 2022-09-07 | 92 | 18 | 
 
-
-[Detailed charts & statistics for jerry153fish/remote-secrets](https://reviewgithub.com/rep/jerry153fish/remote-secrets)

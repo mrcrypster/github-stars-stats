@@ -1,12 +1,14 @@
 # Ferada/ifc-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Ferada/ifc-mode)
+
+[Open detailed stats for Ferada/ifc-mode](https://reviewgithub.com/rep/Ferada/ifc-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 1 | - | 
 | 2022-09-15 | 1 | - | 
 
-
-[Detailed charts & statistics for Ferada/ifc-mode](https://reviewgithub.com/rep/Ferada/ifc-mode)

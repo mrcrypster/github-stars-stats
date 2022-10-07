@@ -1,12 +1,14 @@
 # 42-AI/Elegant-Elegans - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/42-AI/Elegant-Elegans)
+
+[Open detailed stats for 42-AI/Elegant-Elegans](https://reviewgithub.com/rep/42-AI/Elegant-Elegans)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for 42-AI/Elegant-Elegans](https://reviewgithub.com/rep/42-AI/Elegant-Elegans)

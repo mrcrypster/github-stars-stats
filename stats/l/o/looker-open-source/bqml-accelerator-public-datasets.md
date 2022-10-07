@@ -1,12 +1,14 @@
 # looker-open-source/bqml-accelerator-public-datasets - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/looker-open-source/bqml-accelerator-public-datasets)
+
+[Open detailed stats for looker-open-source/bqml-accelerator-public-datasets](https://reviewgithub.com/rep/looker-open-source/bqml-accelerator-public-datasets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | - | 
 | 2022-09-11 | - | - | 
 
-
-[Detailed charts & statistics for looker-open-source/bqml-accelerator-public-datasets](https://reviewgithub.com/rep/looker-open-source/bqml-accelerator-public-datasets)

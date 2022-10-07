@@ -1,12 +1,14 @@
 # islandZZZ/webpack-dev-cache-clear-plugin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 111
 
 [Open repository](https://github.com/islandZZZ/webpack-dev-cache-clear-plugin)
+
+[Open detailed stats for islandZZZ/webpack-dev-cache-clear-plugin](https://reviewgithub.com/rep/islandZZZ/webpack-dev-cache-clear-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 112 | 17 | 
 | 2022-09-07 | 112 | 17 | 
 
-
-[Detailed charts & statistics for islandZZZ/webpack-dev-cache-clear-plugin](https://reviewgithub.com/rep/islandZZZ/webpack-dev-cache-clear-plugin)

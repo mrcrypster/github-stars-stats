@@ -1,12 +1,14 @@
 # salim-lachdhaf/searchable_dropdown - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 200
 
 ★ Stars: 220
 
 [Open repository](https://github.com/salim-lachdhaf/searchable_dropdown)
+
+[Open detailed stats for salim-lachdhaf/searchable_dropdown](https://reviewgithub.com/rep/salim-lachdhaf/searchable_dropdown)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 210 | 193 | 
 | 2022-09-07 | 210 | 193 | 
 
-
-[Detailed charts & statistics for salim-lachdhaf/searchable_dropdown](https://reviewgithub.com/rep/salim-lachdhaf/searchable_dropdown)

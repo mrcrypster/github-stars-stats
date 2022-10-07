@@ -1,12 +1,14 @@
 # worldcoin/world-id-lens - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 53
 
 [Open repository](https://github.com/worldcoin/world-id-lens)
+
+[Open detailed stats for worldcoin/world-id-lens](https://reviewgithub.com/rep/worldcoin/world-id-lens)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | - | 
 | 2022-09-08 | 39 | - | 
 
-
-[Detailed charts & statistics for worldcoin/world-id-lens](https://reviewgithub.com/rep/worldcoin/world-id-lens)

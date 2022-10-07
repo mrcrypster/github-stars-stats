@@ -1,12 +1,14 @@
 # knpuniversity/symfony4 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 422
 
 ★ Stars: 79
 
 [Open repository](https://github.com/knpuniversity/symfony4)
+
+[Open detailed stats for knpuniversity/symfony4](https://reviewgithub.com/rep/knpuniversity/symfony4)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 79 | 417 | 
 | 2022-09-07 | 79 | 417 | 
 
-
-[Detailed charts & statistics for knpuniversity/symfony4](https://reviewgithub.com/rep/knpuniversity/symfony4)

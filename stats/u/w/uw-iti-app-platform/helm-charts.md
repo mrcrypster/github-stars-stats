@@ -1,12 +1,14 @@
 # uw-iti-app-platform/helm-charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/uw-iti-app-platform/helm-charts)
+
+[Open detailed stats for uw-iti-app-platform/helm-charts](https://reviewgithub.com/rep/uw-iti-app-platform/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for uw-iti-app-platform/helm-charts](https://reviewgithub.com/rep/uw-iti-app-platform/helm-charts)

@@ -1,12 +1,14 @@
 # EgorDm/fp-pacman - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 14
 
 [Open repository](https://github.com/EgorDm/fp-pacman)
+
+[Open detailed stats for EgorDm/fp-pacman](https://reviewgithub.com/rep/EgorDm/fp-pacman)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 2 | 
 | 2022-09-07 | 14 | 2 | 
 
-
-[Detailed charts & statistics for EgorDm/fp-pacman](https://reviewgithub.com/rep/EgorDm/fp-pacman)

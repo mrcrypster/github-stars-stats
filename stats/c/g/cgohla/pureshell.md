@@ -1,12 +1,14 @@
 # cgohla/pureshell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/cgohla/pureshell)
+
+[Open detailed stats for cgohla/pureshell](https://reviewgithub.com/rep/cgohla/pureshell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | - | 
 | 2022-09-07 | 20 | - | 
 
-
-[Detailed charts & statistics for cgohla/pureshell](https://reviewgithub.com/rep/cgohla/pureshell)

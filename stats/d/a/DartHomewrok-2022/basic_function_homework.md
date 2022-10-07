@@ -1,12 +1,14 @@
 # DartHomewrok-2022/basic_function_homework - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 3
 
 [Open repository](https://github.com/DartHomewrok-2022/basic_function_homework)
+
+[Open detailed stats for DartHomewrok-2022/basic_function_homework](https://reviewgithub.com/rep/DartHomewrok-2022/basic_function_homework)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 22 | 
 | 2022-09-07 | 3 | 22 | 
 
-
-[Detailed charts & statistics for DartHomewrok-2022/basic_function_homework](https://reviewgithub.com/rep/DartHomewrok-2022/basic_function_homework)

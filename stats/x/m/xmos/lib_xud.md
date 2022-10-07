@@ -1,12 +1,14 @@
 # xmos/lib_xud - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 4
 
 [Open repository](https://github.com/xmos/lib_xud)
+
+[Open detailed stats for xmos/lib_xud](https://reviewgithub.com/rep/xmos/lib_xud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4 | 14 | 
 | 2022-09-07 | 4 | 14 | 
 
-
-[Detailed charts & statistics for xmos/lib_xud](https://reviewgithub.com/rep/xmos/lib_xud)

@@ -1,12 +1,14 @@
 # jamii/shackles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/jamii/shackles)
+
+[Open detailed stats for jamii/shackles](https://reviewgithub.com/rep/jamii/shackles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for jamii/shackles](https://reviewgithub.com/rep/jamii/shackles)

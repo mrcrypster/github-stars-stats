@@ -1,12 +1,14 @@
 # behzatce/Cairo-NFT-Lending-Auction - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 20
 
 [Open repository](https://github.com/behzatce/Cairo-NFT-Lending-Auction)
+
+[Open detailed stats for behzatce/Cairo-NFT-Lending-Auction](https://reviewgithub.com/rep/behzatce/Cairo-NFT-Lending-Auction)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | - | 
 | 2022-09-08 | 20 | - | 
 
-
-[Detailed charts & statistics for behzatce/Cairo-NFT-Lending-Auction](https://reviewgithub.com/rep/behzatce/Cairo-NFT-Lending-Auction)

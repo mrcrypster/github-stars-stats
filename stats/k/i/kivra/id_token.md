@@ -1,12 +1,14 @@
 # kivra/id_token - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/kivra/id_token)
+
+[Open detailed stats for kivra/id_token](https://reviewgithub.com/rep/kivra/id_token)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | - | 
 | 2022-09-08 | 7 | - | 
 
-
-[Detailed charts & statistics for kivra/id_token](https://reviewgithub.com/rep/kivra/id_token)

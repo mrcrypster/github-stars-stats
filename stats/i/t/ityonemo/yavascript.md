@@ -1,12 +1,14 @@
 # ityonemo/yavascript - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 18
 
 [Open repository](https://github.com/ityonemo/yavascript)
+
+[Open detailed stats for ityonemo/yavascript](https://reviewgithub.com/rep/ityonemo/yavascript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | 1 | 
 | 2022-09-08 | 18 | 1 | 
 
-
-[Detailed charts & statistics for ityonemo/yavascript](https://reviewgithub.com/rep/ityonemo/yavascript)

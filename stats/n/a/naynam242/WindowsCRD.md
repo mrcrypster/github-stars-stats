@@ -1,12 +1,14 @@
 # naynam242/WindowsCRD - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 147
 
 ★ Stars: 4
 
 [Open repository](https://github.com/naynam242/WindowsCRD)
+
+[Open detailed stats for naynam242/WindowsCRD](https://reviewgithub.com/rep/naynam242/WindowsCRD)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 133 | 
 | 2022-09-07 | 4 | 130 | 
 
-
-[Detailed charts & statistics for naynam242/WindowsCRD](https://reviewgithub.com/rep/naynam242/WindowsCRD)

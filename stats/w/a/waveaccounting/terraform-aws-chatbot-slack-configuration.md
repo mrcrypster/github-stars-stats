@@ -1,12 +1,14 @@
 # waveaccounting/terraform-aws-chatbot-slack-configuration - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 24
 
 [Open repository](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration)
+
+[Open detailed stats for waveaccounting/terraform-aws-chatbot-slack-configuration](https://reviewgithub.com/rep/waveaccounting/terraform-aws-chatbot-slack-configuration)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 21 | 15 | 
 | 2022-09-07 | 21 | 15 | 
 
-
-[Detailed charts & statistics for waveaccounting/terraform-aws-chatbot-slack-configuration](https://reviewgithub.com/rep/waveaccounting/terraform-aws-chatbot-slack-configuration)

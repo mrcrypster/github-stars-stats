@@ -1,12 +1,14 @@
 # NMTuan/ezBookmarks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 11
 
 [Open repository](https://github.com/NMTuan/ezBookmarks)
+
+[Open detailed stats for NMTuan/ezBookmarks](https://reviewgithub.com/rep/NMTuan/ezBookmarks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 2 | 
 | 2022-09-07 | 11 | 2 | 
 
-
-[Detailed charts & statistics for NMTuan/ezBookmarks](https://reviewgithub.com/rep/NMTuan/ezBookmarks)

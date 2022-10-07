@@ -6,9 +6,9 @@
 
 [Open repository](https://github.com/NGLEmp/NGLEmp)
 
+[Open detailed stats for NGLEmp/NGLEmp](https://reviewgithub.com/rep/NGLEmp/NGLEmp)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 
-
-[Detailed charts & statistics for NGLEmp/NGLEmp](https://reviewgithub.com/rep/NGLEmp/NGLEmp)

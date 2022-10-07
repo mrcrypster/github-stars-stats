@@ -1,12 +1,14 @@
 # mathworks/MATLAB-Live-Task-for-Python - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 44
 
 [Open repository](https://github.com/mathworks/MATLAB-Live-Task-for-Python)
+
+[Open detailed stats for mathworks/MATLAB-Live-Task-for-Python](https://reviewgithub.com/rep/mathworks/MATLAB-Live-Task-for-Python)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 10 | 
 | 2022-09-08 | 41 | 10 | 
 
-
-[Detailed charts & statistics for mathworks/MATLAB-Live-Task-for-Python](https://reviewgithub.com/rep/mathworks/MATLAB-Live-Task-for-Python)

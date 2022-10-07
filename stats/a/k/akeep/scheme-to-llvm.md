@@ -1,12 +1,14 @@
 # akeep/scheme-to-llvm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 90
 
 [Open repository](https://github.com/akeep/scheme-to-llvm)
+
+[Open detailed stats for akeep/scheme-to-llvm](https://reviewgithub.com/rep/akeep/scheme-to-llvm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 90 | 10 | 
 | 2022-09-08 | 90 | 10 | 
 
-
-[Detailed charts & statistics for akeep/scheme-to-llvm](https://reviewgithub.com/rep/akeep/scheme-to-llvm)

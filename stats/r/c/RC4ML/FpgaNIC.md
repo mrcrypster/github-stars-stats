@@ -1,12 +1,14 @@
 # RC4ML/FpgaNIC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 29
 
 [Open repository](https://github.com/RC4ML/FpgaNIC)
+
+[Open detailed stats for RC4ML/FpgaNIC](https://reviewgithub.com/rep/RC4ML/FpgaNIC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 6 | 
 | 2022-09-07 | 28 | 6 | 
 
-
-[Detailed charts & statistics for RC4ML/FpgaNIC](https://reviewgithub.com/rep/RC4ML/FpgaNIC)

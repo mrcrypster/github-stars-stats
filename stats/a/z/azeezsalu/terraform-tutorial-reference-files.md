@@ -1,12 +1,14 @@
 # azeezsalu/terraform-tutorial-reference-files - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 36
 
 ★ Stars: 0
 
 [Open repository](https://github.com/azeezsalu/terraform-tutorial-reference-files)
+
+[Open detailed stats for azeezsalu/terraform-tutorial-reference-files](https://reviewgithub.com/rep/azeezsalu/terraform-tutorial-reference-files)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | 33 | 
 | 2022-09-25 | - | 30 | 
 
-
-[Detailed charts & statistics for azeezsalu/terraform-tutorial-reference-files](https://reviewgithub.com/rep/azeezsalu/terraform-tutorial-reference-files)

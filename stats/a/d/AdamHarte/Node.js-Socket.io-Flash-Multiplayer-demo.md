@@ -1,12 +1,14 @@
 # AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 3
 
 [Open repository](https://github.com/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo)
+
+[Open detailed stats for AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo](https://reviewgithub.com/rep/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 3 | 
 | 2022-09-07 | 3 | 3 | 
 
-
-[Detailed charts & statistics for AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo](https://reviewgithub.com/rep/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo)

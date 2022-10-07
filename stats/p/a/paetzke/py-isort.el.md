@@ -1,12 +1,14 @@
 # paetzke/py-isort.el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 82
 
 [Open repository](https://github.com/paetzke/py-isort.el)
+
+[Open detailed stats for paetzke/py-isort.el](https://reviewgithub.com/rep/paetzke/py-isort.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 81 | 16 | 
 | 2022-09-07 | 81 | 16 | 
 
-
-[Detailed charts & statistics for paetzke/py-isort.el](https://reviewgithub.com/rep/paetzke/py-isort.el)

@@ -1,12 +1,14 @@
 # vincent-hugot/qtest - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 66
 
 [Open repository](https://github.com/vincent-hugot/qtest)
+
+[Open detailed stats for vincent-hugot/qtest](https://reviewgithub.com/rep/vincent-hugot/qtest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 66 | 6 | 
 | 2022-09-08 | 66 | 6 | 
 
-
-[Detailed charts & statistics for vincent-hugot/qtest](https://reviewgithub.com/rep/vincent-hugot/qtest)

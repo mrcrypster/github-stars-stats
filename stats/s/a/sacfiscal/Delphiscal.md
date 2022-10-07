@@ -1,12 +1,14 @@
 # sacfiscal/Delphiscal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 63
 
 [Open repository](https://github.com/sacfiscal/Delphiscal)
+
+[Open detailed stats for sacfiscal/Delphiscal](https://reviewgithub.com/rep/sacfiscal/Delphiscal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 62 | 25 | 
 | 2022-09-08 | 62 | 25 | 
 
-
-[Detailed charts & statistics for sacfiscal/Delphiscal](https://reviewgithub.com/rep/sacfiscal/Delphiscal)

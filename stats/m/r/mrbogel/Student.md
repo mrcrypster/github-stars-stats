@@ -1,12 +1,14 @@
 # mrbogel/Student - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 146
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mrbogel/Student)
+
+[Open detailed stats for mrbogel/Student](https://reviewgithub.com/rep/mrbogel/Student)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 144 | 
 | 2022-09-08 | - | 145 | 
 
-
-[Detailed charts & statistics for mrbogel/Student](https://reviewgithub.com/rep/mrbogel/Student)

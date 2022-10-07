@@ -1,12 +1,14 @@
 # lornasong/terraform-local-cts_kv_file - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/lornasong/terraform-local-cts_kv_file)
+
+[Open detailed stats for lornasong/terraform-local-cts_kv_file](https://reviewgithub.com/rep/lornasong/terraform-local-cts_kv_file)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 2 | 
 | 2022-09-08 | - | 2 | 
 
-
-[Detailed charts & statistics for lornasong/terraform-local-cts_kv_file](https://reviewgithub.com/rep/lornasong/terraform-local-cts_kv_file)

@@ -1,12 +1,14 @@
 # ryotakato/unite-outline-vimwiki - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ryotakato/unite-outline-vimwiki)
+
+[Open detailed stats for ryotakato/unite-outline-vimwiki](https://reviewgithub.com/rep/ryotakato/unite-outline-vimwiki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 1 | - | 
 | 2022-09-17 | 1 | - | 
 
-
-[Detailed charts & statistics for ryotakato/unite-outline-vimwiki](https://reviewgithub.com/rep/ryotakato/unite-outline-vimwiki)

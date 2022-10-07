@@ -1,12 +1,14 @@
 # dannycandle/FluidFox - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 23
 
 [Open repository](https://github.com/dannycandle/FluidFox)
+
+[Open detailed stats for dannycandle/FluidFox](https://reviewgithub.com/rep/dannycandle/FluidFox)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | 19 | 2 | 
 | 2022-10-01 | 19 | 2 | 
 
-
-[Detailed charts & statistics for dannycandle/FluidFox](https://reviewgithub.com/rep/dannycandle/FluidFox)

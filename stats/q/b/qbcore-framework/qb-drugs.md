@@ -1,12 +1,14 @@
 # qbcore-framework/qb-drugs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 175
 
 ★ Stars: 23
 
 [Open repository](https://github.com/qbcore-framework/qb-drugs)
+
+[Open detailed stats for qbcore-framework/qb-drugs](https://reviewgithub.com/rep/qbcore-framework/qb-drugs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 23 | 172 | 
 | 2022-09-08 | 23 | 173 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-drugs](https://reviewgithub.com/rep/qbcore-framework/qb-drugs)

@@ -1,12 +1,14 @@
 # wudududu/extract-video-ppt - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 260
 
 [Open repository](https://github.com/wudududu/extract-video-ppt)
+
+[Open detailed stats for wudududu/extract-video-ppt](https://reviewgithub.com/rep/wudududu/extract-video-ppt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 257 | 25 | 
 | 2022-09-07 | 257 | 25 | 
 
-
-[Detailed charts & statistics for wudududu/extract-video-ppt](https://reviewgithub.com/rep/wudududu/extract-video-ppt)

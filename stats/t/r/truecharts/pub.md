@@ -1,12 +1,14 @@
 # truecharts/pub - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 9
 
 [Open repository](https://github.com/truecharts/pub)
+
+[Open detailed stats for truecharts/pub](https://reviewgithub.com/rep/truecharts/pub)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 13 | 
 | 2022-09-07 | 9 | 13 | 
 
-
-[Detailed charts & statistics for truecharts/pub](https://reviewgithub.com/rep/truecharts/pub)

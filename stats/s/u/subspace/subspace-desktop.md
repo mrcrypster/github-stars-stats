@@ -1,12 +1,14 @@
 # subspace/subspace-desktop - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 38
 
 [Open repository](https://github.com/subspace/subspace-desktop)
+
+[Open detailed stats for subspace/subspace-desktop](https://reviewgithub.com/rep/subspace/subspace-desktop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 19 | 
 | 2022-09-07 | 38 | 19 | 
 
-
-[Detailed charts & statistics for subspace/subspace-desktop](https://reviewgithub.com/rep/subspace/subspace-desktop)

@@ -1,12 +1,14 @@
 # circuit-stream/Bootcamp_MuseumApp_Start - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 1
 
 [Open repository](https://github.com/circuit-stream/Bootcamp_MuseumApp_Start)
+
+[Open detailed stats for circuit-stream/Bootcamp_MuseumApp_Start](https://reviewgithub.com/rep/circuit-stream/Bootcamp_MuseumApp_Start)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 10 | 
 | 2022-09-07 | 1 | 10 | 
 
-
-[Detailed charts & statistics for circuit-stream/Bootcamp_MuseumApp_Start](https://reviewgithub.com/rep/circuit-stream/Bootcamp_MuseumApp_Start)

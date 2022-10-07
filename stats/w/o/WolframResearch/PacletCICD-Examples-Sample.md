@@ -1,12 +1,14 @@
 # WolframResearch/PacletCICD-Examples-Sample - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/WolframResearch/PacletCICD-Examples-Sample)
+
+[Open detailed stats for WolframResearch/PacletCICD-Examples-Sample](https://reviewgithub.com/rep/WolframResearch/PacletCICD-Examples-Sample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for WolframResearch/PacletCICD-Examples-Sample](https://reviewgithub.com/rep/WolframResearch/PacletCICD-Examples-Sample)

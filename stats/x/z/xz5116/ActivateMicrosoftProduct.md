@@ -1,12 +1,14 @@
 # xz5116/ActivateMicrosoftProduct - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 6
 
 [Open repository](https://github.com/xz5116/ActivateMicrosoftProduct)
+
+[Open detailed stats for xz5116/ActivateMicrosoftProduct](https://reviewgithub.com/rep/xz5116/ActivateMicrosoftProduct)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 21 | 
 | 2022-09-08 | 5 | 21 | 
 
-
-[Detailed charts & statistics for xz5116/ActivateMicrosoftProduct](https://reviewgithub.com/rep/xz5116/ActivateMicrosoftProduct)

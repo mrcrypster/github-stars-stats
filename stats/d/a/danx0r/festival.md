@@ -1,12 +1,14 @@
 # danx0r/festival - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/danx0r/festival)
+
+[Open detailed stats for danx0r/festival](https://reviewgithub.com/rep/danx0r/festival)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 7 | 2 | 
 | 2022-09-07 | 7 | 2 | 
 
-
-[Detailed charts & statistics for danx0r/festival](https://reviewgithub.com/rep/danx0r/festival)

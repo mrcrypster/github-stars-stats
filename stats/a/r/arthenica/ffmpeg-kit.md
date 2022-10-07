@@ -1,12 +1,14 @@
 # arthenica/ffmpeg-kit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 283
 
 ★ Stars: 1859
 
 [Open repository](https://github.com/arthenica/ffmpeg-kit)
+
+[Open detailed stats for arthenica/ffmpeg-kit](https://reviewgithub.com/rep/arthenica/ffmpeg-kit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 1776 | 275 | 
 | 2022-09-14 | 1773 | 274 | 
 
-
-[Detailed charts & statistics for arthenica/ffmpeg-kit](https://reviewgithub.com/rep/arthenica/ffmpeg-kit)

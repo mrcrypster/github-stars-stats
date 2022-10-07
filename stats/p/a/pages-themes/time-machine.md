@@ -1,12 +1,14 @@
 # pages-themes/time-machine - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 184
 
 ★ Stars: 62
 
 [Open repository](https://github.com/pages-themes/time-machine)
+
+[Open detailed stats for pages-themes/time-machine](https://reviewgithub.com/rep/pages-themes/time-machine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 62 | 185 | 
 | 2022-09-12 | 62 | 185 | 
 
-
-[Detailed charts & statistics for pages-themes/time-machine](https://reviewgithub.com/rep/pages-themes/time-machine)

@@ -1,12 +1,14 @@
 # kwea123/pytorch_cppcuda_practice - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/kwea123/pytorch_cppcuda_practice)
+
+[Open detailed stats for kwea123/pytorch_cppcuda_practice](https://reviewgithub.com/rep/kwea123/pytorch_cppcuda_practice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 
-
-[Detailed charts & statistics for kwea123/pytorch_cppcuda_practice](https://reviewgithub.com/rep/kwea123/pytorch_cppcuda_practice)

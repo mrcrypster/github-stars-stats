@@ -1,12 +1,14 @@
 # tesla-android/tesla-android.github.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 57
 
 [Open repository](https://github.com/tesla-android/tesla-android.github.io)
+
+[Open detailed stats for tesla-android/tesla-android.github.io](https://reviewgithub.com/rep/tesla-android/tesla-android.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 55 | 9 | 
 | 2022-09-07 | 55 | 9 | 
 
-
-[Detailed charts & statistics for tesla-android/tesla-android.github.io](https://reviewgithub.com/rep/tesla-android/tesla-android.github.io)

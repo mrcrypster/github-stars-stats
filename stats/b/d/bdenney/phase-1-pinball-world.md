@@ -1,12 +1,14 @@
 # bdenney/phase-1-pinball-world - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 53
 
 ★ Stars: 1
 
 [Open repository](https://github.com/bdenney/phase-1-pinball-world)
+
+[Open detailed stats for bdenney/phase-1-pinball-world](https://reviewgithub.com/rep/bdenney/phase-1-pinball-world)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 40 | 
 | 2022-09-07 | 1 | 41 | 
 
-
-[Detailed charts & statistics for bdenney/phase-1-pinball-world](https://reviewgithub.com/rep/bdenney/phase-1-pinball-world)

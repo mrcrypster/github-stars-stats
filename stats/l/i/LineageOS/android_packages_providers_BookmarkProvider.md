@@ -1,12 +1,14 @@
 # LineageOS/android_packages_providers_BookmarkProvider - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 1
 
 [Open repository](https://github.com/LineageOS/android_packages_providers_BookmarkProvider)
+
+[Open detailed stats for LineageOS/android_packages_providers_BookmarkProvider](https://reviewgithub.com/rep/LineageOS/android_packages_providers_BookmarkProvider)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 1 | 8 | 
 | 2022-09-11 | 1 | 8 | 
 
-
-[Detailed charts & statistics for LineageOS/android_packages_providers_BookmarkProvider](https://reviewgithub.com/rep/LineageOS/android_packages_providers_BookmarkProvider)

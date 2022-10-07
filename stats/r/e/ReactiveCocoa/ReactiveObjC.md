@@ -1,12 +1,14 @@
 # ReactiveCocoa/ReactiveObjC - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 469
 
 ★ Stars: 2499
 
 [Open repository](https://github.com/ReactiveCocoa/ReactiveObjC)
+
+[Open detailed stats for ReactiveCocoa/ReactiveObjC](https://reviewgithub.com/rep/ReactiveCocoa/ReactiveObjC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2500 | 469 | 
 | 2022-09-08 | 2500 | 469 | 
 
-
-[Detailed charts & statistics for ReactiveCocoa/ReactiveObjC](https://reviewgithub.com/rep/ReactiveCocoa/ReactiveObjC)

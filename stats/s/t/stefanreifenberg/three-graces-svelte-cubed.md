@@ -1,12 +1,14 @@
 # stefanreifenberg/three-graces-svelte-cubed - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 31
 
 [Open repository](https://github.com/stefanreifenberg/three-graces-svelte-cubed)
+
+[Open detailed stats for stefanreifenberg/three-graces-svelte-cubed](https://reviewgithub.com/rep/stefanreifenberg/three-graces-svelte-cubed)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 31 | 1 | 
 | 2022-09-08 | 31 | 1 | 
 
-
-[Detailed charts & statistics for stefanreifenberg/three-graces-svelte-cubed](https://reviewgithub.com/rep/stefanreifenberg/three-graces-svelte-cubed)

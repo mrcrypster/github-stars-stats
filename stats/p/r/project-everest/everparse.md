@@ -1,12 +1,14 @@
 # project-everest/everparse - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 180
 
 [Open repository](https://github.com/project-everest/everparse)
+
+[Open detailed stats for project-everest/everparse](https://reviewgithub.com/rep/project-everest/everparse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 179 | 5 | 
 | 2022-09-07 | 179 | 5 | 
 
-
-[Detailed charts & statistics for project-everest/everparse](https://reviewgithub.com/rep/project-everest/everparse)

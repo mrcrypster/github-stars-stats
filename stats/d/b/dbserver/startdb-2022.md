@@ -1,12 +1,14 @@
 # dbserver/startdb-2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 57
 
 [Open repository](https://github.com/dbserver/startdb-2022)
+
+[Open detailed stats for dbserver/startdb-2022](https://reviewgithub.com/rep/dbserver/startdb-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 82 | 
 | 2022-09-07 | 57 | 82 | 
 
-
-[Detailed charts & statistics for dbserver/startdb-2022](https://reviewgithub.com/rep/dbserver/startdb-2022)

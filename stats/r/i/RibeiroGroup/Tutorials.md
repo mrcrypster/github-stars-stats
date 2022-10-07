@@ -1,12 +1,14 @@
 # RibeiroGroup/Tutorials - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 1
 
 [Open repository](https://github.com/RibeiroGroup/Tutorials)
+
+[Open detailed stats for RibeiroGroup/Tutorials](https://reviewgithub.com/rep/RibeiroGroup/Tutorials)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 6 | 
 | 2022-09-07 | 1 | 6 | 
 
-
-[Detailed charts & statistics for RibeiroGroup/Tutorials](https://reviewgithub.com/rep/RibeiroGroup/Tutorials)

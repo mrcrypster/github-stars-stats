@@ -1,12 +1,14 @@
 # ZaPF/Satzung_des_ZaPFev - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ZaPF/Satzung_des_ZaPFev)
+
+[Open detailed stats for ZaPF/Satzung_des_ZaPFev](https://reviewgithub.com/rep/ZaPF/Satzung_des_ZaPFev)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 4 | 
 | 2022-09-08 | 2 | 4 | 
 
-
-[Detailed charts & statistics for ZaPF/Satzung_des_ZaPFev](https://reviewgithub.com/rep/ZaPF/Satzung_des_ZaPFev)

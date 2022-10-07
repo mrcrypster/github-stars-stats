@@ -1,12 +1,14 @@
 # PromiseKit/UIKit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 25
 
 [Open repository](https://github.com/PromiseKit/UIKit)
+
+[Open detailed stats for PromiseKit/UIKit](https://reviewgithub.com/rep/PromiseKit/UIKit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 25 | 22 | 
 | 2022-09-07 | 25 | 22 | 
 
-
-[Detailed charts & statistics for PromiseKit/UIKit](https://reviewgithub.com/rep/PromiseKit/UIKit)

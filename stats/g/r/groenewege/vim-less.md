@@ -1,12 +1,14 @@
 # groenewege/vim-less - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 45
 
 ★ Stars: 608
 
 [Open repository](https://github.com/groenewege/vim-less)
+
+[Open detailed stats for groenewege/vim-less](https://reviewgithub.com/rep/groenewege/vim-less)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 608 | 46 | 
 | 2022-09-07 | 608 | 46 | 
 
-
-[Detailed charts & statistics for groenewege/vim-less](https://reviewgithub.com/rep/groenewege/vim-less)

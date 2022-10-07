@@ -1,12 +1,14 @@
 # pmmp/bds-mod-saveallchunks - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/pmmp/bds-mod-saveallchunks)
+
+[Open detailed stats for pmmp/bds-mod-saveallchunks](https://reviewgithub.com/rep/pmmp/bds-mod-saveallchunks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | - | 
 | 2022-09-08 | 7 | - | 
 
-
-[Detailed charts & statistics for pmmp/bds-mod-saveallchunks](https://reviewgithub.com/rep/pmmp/bds-mod-saveallchunks)

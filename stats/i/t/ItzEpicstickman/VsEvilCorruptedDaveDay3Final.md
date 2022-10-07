@@ -1,12 +1,14 @@
 # ItzEpicstickman/VsEvilCorruptedDaveDay3Final - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 62
 
 ★ Stars: 22
 
 [Open repository](https://github.com/ItzEpicstickman/VsEvilCorruptedDaveDay3Final)
+
+[Open detailed stats for ItzEpicstickman/VsEvilCorruptedDaveDay3Final](https://reviewgithub.com/rep/ItzEpicstickman/VsEvilCorruptedDaveDay3Final)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 22 | 60 | 
 | 2022-09-07 | 22 | 60 | 
 
-
-[Detailed charts & statistics for ItzEpicstickman/VsEvilCorruptedDaveDay3Final](https://reviewgithub.com/rep/ItzEpicstickman/VsEvilCorruptedDaveDay3Final)

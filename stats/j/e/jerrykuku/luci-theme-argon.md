@@ -1,12 +1,14 @@
 # jerrykuku/luci-theme-argon - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 664
 
 ★ Stars: 2606
 
 [Open repository](https://github.com/jerrykuku/luci-theme-argon)
+
+[Open detailed stats for jerrykuku/luci-theme-argon](https://reviewgithub.com/rep/jerrykuku/luci-theme-argon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2557 | 655 | 
 | 2022-09-07 | 2556 | 655 | 
 
-
-[Detailed charts & statistics for jerrykuku/luci-theme-argon](https://reviewgithub.com/rep/jerrykuku/luci-theme-argon)

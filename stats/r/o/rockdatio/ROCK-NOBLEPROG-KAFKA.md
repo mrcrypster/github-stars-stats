@@ -1,12 +1,14 @@
 # rockdatio/ROCK-NOBLEPROG-KAFKA - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/rockdatio/ROCK-NOBLEPROG-KAFKA)
+
+[Open detailed stats for rockdatio/ROCK-NOBLEPROG-KAFKA](https://reviewgithub.com/rep/rockdatio/ROCK-NOBLEPROG-KAFKA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 4 | 
 | 2022-09-07 | 1 | 4 | 
 
-
-[Detailed charts & statistics for rockdatio/ROCK-NOBLEPROG-KAFKA](https://reviewgithub.com/rep/rockdatio/ROCK-NOBLEPROG-KAFKA)

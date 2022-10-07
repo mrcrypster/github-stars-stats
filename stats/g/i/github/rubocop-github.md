@@ -1,12 +1,14 @@
 # github/rubocop-github - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 173
 
 ★ Stars: 604
 
 [Open repository](https://github.com/github/rubocop-github)
+
+[Open detailed stats for github/rubocop-github](https://reviewgithub.com/rep/github/rubocop-github)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 604 | 174 | 
 | 2022-09-07 | 604 | 174 | 
 
-
-[Detailed charts & statistics for github/rubocop-github](https://reviewgithub.com/rep/github/rubocop-github)

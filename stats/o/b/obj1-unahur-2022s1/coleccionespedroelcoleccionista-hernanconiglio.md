@@ -1,12 +1,14 @@
 # obj1-unahur-2022s1/coleccionespedroelcoleccionista-hernanconiglio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/obj1-unahur-2022s1/coleccionespedroelcoleccionista-hernanconiglio)
+
+[Open detailed stats for obj1-unahur-2022s1/coleccionespedroelcoleccionista-hernanconiglio](https://reviewgithub.com/rep/obj1-unahur-2022s1/coleccionespedroelcoleccionista-hernanconiglio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 5 | 
 | 2022-09-07 | - | 5 | 
 
-
-[Detailed charts & statistics for obj1-unahur-2022s1/coleccionespedroelcoleccionista-hernanconiglio](https://reviewgithub.com/rep/obj1-unahur-2022s1/coleccionespedroelcoleccionista-hernanconiglio)

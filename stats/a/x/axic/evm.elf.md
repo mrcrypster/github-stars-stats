@@ -1,12 +1,14 @@
 # axic/evm.elf - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 75
 
 [Open repository](https://github.com/axic/evm.elf)
+
+[Open detailed stats for axic/evm.elf](https://reviewgithub.com/rep/axic/evm.elf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 75 | 4 | 
 | 2022-09-07 | 75 | 4 | 
 
-
-[Detailed charts & statistics for axic/evm.elf](https://reviewgithub.com/rep/axic/evm.elf)

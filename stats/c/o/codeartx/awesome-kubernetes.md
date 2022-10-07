@@ -1,12 +1,14 @@
 # codeartx/awesome-kubernetes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 169
 
 [Open repository](https://github.com/codeartx/awesome-kubernetes)
+
+[Open detailed stats for codeartx/awesome-kubernetes](https://reviewgithub.com/rep/codeartx/awesome-kubernetes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 169 | 3 | 
 | 2022-09-07 | 169 | 3 | 
 
-
-[Detailed charts & statistics for codeartx/awesome-kubernetes](https://reviewgithub.com/rep/codeartx/awesome-kubernetes)

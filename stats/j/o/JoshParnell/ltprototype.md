@@ -1,12 +1,14 @@
 # JoshParnell/ltprototype - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 111
 
 [Open repository](https://github.com/JoshParnell/ltprototype)
+
+[Open detailed stats for JoshParnell/ltprototype](https://reviewgithub.com/rep/JoshParnell/ltprototype)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 108 | 19 | 
 | 2022-09-08 | 106 | 19 | 
 
-
-[Detailed charts & statistics for JoshParnell/ltprototype](https://reviewgithub.com/rep/JoshParnell/ltprototype)

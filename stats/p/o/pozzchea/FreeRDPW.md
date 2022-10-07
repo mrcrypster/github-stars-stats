@@ -1,12 +1,14 @@
 # pozzchea/FreeRDPW - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 498
 
 ★ Stars: 7
 
 [Open repository](https://github.com/pozzchea/FreeRDPW)
+
+[Open detailed stats for pozzchea/FreeRDPW](https://reviewgithub.com/rep/pozzchea/FreeRDPW)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 202 | 
 | 2022-09-08 | - | 202 | 
 
-
-[Detailed charts & statistics for pozzchea/FreeRDPW](https://reviewgithub.com/rep/pozzchea/FreeRDPW)

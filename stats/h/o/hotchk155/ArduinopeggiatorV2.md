@@ -1,12 +1,14 @@
 # hotchk155/ArduinopeggiatorV2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/hotchk155/ArduinopeggiatorV2)
+
+[Open detailed stats for hotchk155/ArduinopeggiatorV2](https://reviewgithub.com/rep/hotchk155/ArduinopeggiatorV2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 1 | 
 | 2022-09-08 | 3 | 1 | 
 
-
-[Detailed charts & statistics for hotchk155/ArduinopeggiatorV2](https://reviewgithub.com/rep/hotchk155/ArduinopeggiatorV2)

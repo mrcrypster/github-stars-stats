@@ -1,12 +1,14 @@
 # laptobbe/TSMarkdownParser - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 75
 
 ★ Stars: 200
 
 [Open repository](https://github.com/laptobbe/TSMarkdownParser)
+
+[Open detailed stats for laptobbe/TSMarkdownParser](https://reviewgithub.com/rep/laptobbe/TSMarkdownParser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 200 | 75 | 
 | 2022-09-08 | 200 | 75 | 
 
-
-[Detailed charts & statistics for laptobbe/TSMarkdownParser](https://reviewgithub.com/rep/laptobbe/TSMarkdownParser)

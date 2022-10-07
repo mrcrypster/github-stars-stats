@@ -1,12 +1,14 @@
 # helpscout/beacon-ios-sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 18
 
 [Open repository](https://github.com/helpscout/beacon-ios-sdk)
+
+[Open detailed stats for helpscout/beacon-ios-sdk](https://reviewgithub.com/rep/helpscout/beacon-ios-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 8 | 
 | 2022-09-07 | 17 | 8 | 
 
-
-[Detailed charts & statistics for helpscout/beacon-ios-sdk](https://reviewgithub.com/rep/helpscout/beacon-ios-sdk)

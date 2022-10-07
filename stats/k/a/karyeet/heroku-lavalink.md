@@ -1,12 +1,14 @@
 # karyeet/heroku-lavalink - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 161
 
 ★ Stars: 45
 
 [Open repository](https://github.com/karyeet/heroku-lavalink)
+
+[Open detailed stats for karyeet/heroku-lavalink](https://reviewgithub.com/rep/karyeet/heroku-lavalink)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 163 | 
 | 2022-09-07 | 44 | 163 | 
 
-
-[Detailed charts & statistics for karyeet/heroku-lavalink](https://reviewgithub.com/rep/karyeet/heroku-lavalink)

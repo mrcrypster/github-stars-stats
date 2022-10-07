@@ -1,12 +1,14 @@
 # oneblueapp/testing_react_js - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 14
 
 [Open repository](https://github.com/oneblueapp/testing_react_js)
+
+[Open detailed stats for oneblueapp/testing_react_js](https://reviewgithub.com/rep/oneblueapp/testing_react_js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 12 | 
 | 2022-09-07 | 14 | 12 | 
 
-
-[Detailed charts & statistics for oneblueapp/testing_react_js](https://reviewgithub.com/rep/oneblueapp/testing_react_js)

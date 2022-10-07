@@ -1,12 +1,14 @@
 # cmudig/emblaze - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 73
 
 [Open repository](https://github.com/cmudig/emblaze)
+
+[Open detailed stats for cmudig/emblaze](https://reviewgithub.com/rep/cmudig/emblaze)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 70 | 4 | 
 | 2022-09-07 | 70 | 4 | 
 
-
-[Detailed charts & statistics for cmudig/emblaze](https://reviewgithub.com/rep/cmudig/emblaze)

@@ -1,12 +1,14 @@
 # couchbaselabs/couchdb_performance - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/couchbaselabs/couchdb_performance)
+
+[Open detailed stats for couchbaselabs/couchdb_performance](https://reviewgithub.com/rep/couchbaselabs/couchdb_performance)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for couchbaselabs/couchdb_performance](https://reviewgithub.com/rep/couchbaselabs/couchdb_performance)

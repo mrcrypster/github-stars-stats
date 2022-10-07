@@ -1,12 +1,14 @@
 # dsccovenantuniversity/landing_page - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 2
 
 [Open repository](https://github.com/dsccovenantuniversity/landing_page)
+
+[Open detailed stats for dsccovenantuniversity/landing_page](https://reviewgithub.com/rep/dsccovenantuniversity/landing_page)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 10 | 
 | 2022-09-07 | 2 | 10 | 
 
-
-[Detailed charts & statistics for dsccovenantuniversity/landing_page](https://reviewgithub.com/rep/dsccovenantuniversity/landing_page)

@@ -1,12 +1,14 @@
 # DeadlyKitten/MonkeModManager - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 368
 
 ★ Stars: 58
 
 [Open repository](https://github.com/DeadlyKitten/MonkeModManager)
+
+[Open detailed stats for DeadlyKitten/MonkeModManager](https://reviewgithub.com/rep/DeadlyKitten/MonkeModManager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 52 | 338 | 
 | 2022-09-08 | 51 | 338 | 
 
-
-[Detailed charts & statistics for DeadlyKitten/MonkeModManager](https://reviewgithub.com/rep/DeadlyKitten/MonkeModManager)

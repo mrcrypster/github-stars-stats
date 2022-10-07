@@ -1,12 +1,14 @@
 # jfilby/nexus - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 59
 
 [Open repository](https://github.com/jfilby/nexus)
+
+[Open detailed stats for jfilby/nexus](https://reviewgithub.com/rep/jfilby/nexus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 1 | 
 | 2022-09-07 | 57 | 1 | 
 
-
-[Detailed charts & statistics for jfilby/nexus](https://reviewgithub.com/rep/jfilby/nexus)

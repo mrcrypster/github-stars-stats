@@ -1,12 +1,14 @@
 # tonini/overseer.el - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 48
 
 [Open repository](https://github.com/tonini/overseer.el)
+
+[Open detailed stats for tonini/overseer.el](https://reviewgithub.com/rep/tonini/overseer.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 47 | 11 | 
 | 2022-09-08 | 47 | 11 | 
 
-
-[Detailed charts & statistics for tonini/overseer.el](https://reviewgithub.com/rep/tonini/overseer.el)

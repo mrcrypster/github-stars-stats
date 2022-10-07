@@ -1,12 +1,14 @@
 # grafana/puppet-grafana - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 5
 
 [Open repository](https://github.com/grafana/puppet-grafana)
+
+[Open detailed stats for grafana/puppet-grafana](https://reviewgithub.com/rep/grafana/puppet-grafana)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 5 | 
 | 2022-09-07 | 5 | 5 | 
 
-
-[Detailed charts & statistics for grafana/puppet-grafana](https://reviewgithub.com/rep/grafana/puppet-grafana)

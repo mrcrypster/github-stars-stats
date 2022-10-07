@@ -1,12 +1,14 @@
 # Fate-Grand-Automata/FGA - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 146
 
 ★ Stars: 755
 
 [Open repository](https://github.com/Fate-Grand-Automata/FGA)
+
+[Open detailed stats for Fate-Grand-Automata/FGA](https://reviewgithub.com/rep/Fate-Grand-Automata/FGA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 732 | 142 | 
 | 2022-09-08 | 731 | 142 | 
 
-
-[Detailed charts & statistics for Fate-Grand-Automata/FGA](https://reviewgithub.com/rep/Fate-Grand-Automata/FGA)

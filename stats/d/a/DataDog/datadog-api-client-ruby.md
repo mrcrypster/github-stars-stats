@@ -1,12 +1,14 @@
 # DataDog/datadog-api-client-ruby - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 14
 
 [Open repository](https://github.com/DataDog/datadog-api-client-ruby)
+
+[Open detailed stats for DataDog/datadog-api-client-ruby](https://reviewgithub.com/rep/DataDog/datadog-api-client-ruby)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 14 | 
 | 2022-09-07 | 13 | 14 | 
 
-
-[Detailed charts & statistics for DataDog/datadog-api-client-ruby](https://reviewgithub.com/rep/DataDog/datadog-api-client-ruby)

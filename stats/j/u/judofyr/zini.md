@@ -1,12 +1,14 @@
 # judofyr/zini - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 23
 
 [Open repository](https://github.com/judofyr/zini)
+
+[Open detailed stats for judofyr/zini](https://reviewgithub.com/rep/judofyr/zini)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 1 | 
 | 2022-09-07 | 20 | 1 | 
 
-
-[Detailed charts & statistics for judofyr/zini](https://reviewgithub.com/rep/judofyr/zini)

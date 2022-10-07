@@ -1,12 +1,14 @@
 # nexient-llc/tf-azurerm-module-user_managed_identity - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nexient-llc/tf-azurerm-module-user_managed_identity)
+
+[Open detailed stats for nexient-llc/tf-azurerm-module-user_managed_identity](https://reviewgithub.com/rep/nexient-llc/tf-azurerm-module-user_managed_identity)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for nexient-llc/tf-azurerm-module-user_managed_identity](https://reviewgithub.com/rep/nexient-llc/tf-azurerm-module-user_managed_identity)

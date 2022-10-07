@@ -1,12 +1,14 @@
 # mdp/binions - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 17
 
 [Open repository](https://github.com/mdp/binions)
+
+[Open detailed stats for mdp/binions](https://reviewgithub.com/rep/mdp/binions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 8 | 
 | 2022-09-08 | 17 | 8 | 
 
-
-[Detailed charts & statistics for mdp/binions](https://reviewgithub.com/rep/mdp/binions)

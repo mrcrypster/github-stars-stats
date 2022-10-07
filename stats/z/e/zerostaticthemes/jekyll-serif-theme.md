@@ -1,12 +1,14 @@
 # zerostaticthemes/jekyll-serif-theme - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 502
 
 ★ Stars: 479
 
 [Open repository](https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+[Open detailed stats for zerostaticthemes/jekyll-serif-theme](https://reviewgithub.com/rep/zerostaticthemes/jekyll-serif-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 472 | 485 | 
 | 2022-09-08 | 472 | 485 | 
 
-
-[Detailed charts & statistics for zerostaticthemes/jekyll-serif-theme](https://reviewgithub.com/rep/zerostaticthemes/jekyll-serif-theme)

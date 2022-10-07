@@ -1,12 +1,14 @@
 # aspnetrun/run-aspnet-identityserver4 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 105
 
 ★ Stars: 165
 
 [Open repository](https://github.com/aspnetrun/run-aspnet-identityserver4)
+
+[Open detailed stats for aspnetrun/run-aspnet-identityserver4](https://reviewgithub.com/rep/aspnetrun/run-aspnet-identityserver4)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 162 | 105 | 
 | 2022-09-07 | 162 | 105 | 
 
-
-[Detailed charts & statistics for aspnetrun/run-aspnet-identityserver4](https://reviewgithub.com/rep/aspnetrun/run-aspnet-identityserver4)

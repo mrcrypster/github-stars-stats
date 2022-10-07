@@ -1,12 +1,14 @@
 # moneyforward/rspecq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/moneyforward/rspecq)
+
+[Open detailed stats for moneyforward/rspecq](https://reviewgithub.com/rep/moneyforward/rspecq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for moneyforward/rspecq](https://reviewgithub.com/rep/moneyforward/rspecq)

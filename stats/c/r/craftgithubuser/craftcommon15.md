@@ -1,12 +1,14 @@
 # craftgithubuser/craftcommon15 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 7
 
 [Open repository](https://github.com/craftgithubuser/craftcommon15)
+
+[Open detailed stats for craftgithubuser/craftcommon15](https://reviewgithub.com/rep/craftgithubuser/craftcommon15)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 18 | 
 | 2022-09-07 | 7 | 18 | 
 
-
-[Detailed charts & statistics for craftgithubuser/craftcommon15](https://reviewgithub.com/rep/craftgithubuser/craftcommon15)

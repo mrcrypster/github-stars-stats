@@ -1,12 +1,14 @@
 # ocsigen/tyxml - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 51
 
 ★ Stars: 138
 
 [Open repository](https://github.com/ocsigen/tyxml)
+
+[Open detailed stats for ocsigen/tyxml](https://reviewgithub.com/rep/ocsigen/tyxml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 136 | 51 | 
 | 2022-09-08 | 136 | 51 | 
 
-
-[Detailed charts & statistics for ocsigen/tyxml](https://reviewgithub.com/rep/ocsigen/tyxml)

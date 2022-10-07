@@ -1,12 +1,14 @@
 # para-space/paraspace-core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/para-space/paraspace-core)
+
+[Open detailed stats for para-space/paraspace-core](https://reviewgithub.com/rep/para-space/paraspace-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 1 | 
 | 2022-09-07 | 5 | 1 | 
 
-
-[Detailed charts & statistics for para-space/paraspace-core](https://reviewgithub.com/rep/para-space/paraspace-core)

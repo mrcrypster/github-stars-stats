@@ -1,12 +1,14 @@
 # magit/magit-popup - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 44
 
 [Open repository](https://github.com/magit/magit-popup)
+
+[Open detailed stats for magit/magit-popup](https://reviewgithub.com/rep/magit/magit-popup)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 44 | 13 | 
 | 2022-09-08 | 44 | 13 | 
 
-
-[Detailed charts & statistics for magit/magit-popup](https://reviewgithub.com/rep/magit/magit-popup)

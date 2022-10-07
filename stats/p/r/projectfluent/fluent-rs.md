@@ -1,12 +1,14 @@
 # projectfluent/fluent-rs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 67
 
 ★ Stars: 713
 
 [Open repository](https://github.com/projectfluent/fluent-rs)
+
+[Open detailed stats for projectfluent/fluent-rs](https://reviewgithub.com/rep/projectfluent/fluent-rs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 702 | 67 | 
 | 2022-09-08 | 700 | 67 | 
 
-
-[Detailed charts & statistics for projectfluent/fluent-rs](https://reviewgithub.com/rep/projectfluent/fluent-rs)

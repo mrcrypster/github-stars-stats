@@ -1,12 +1,14 @@
 # Mazahir26/koduko - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 71
 
 [Open repository](https://github.com/Mazahir26/koduko)
+
+[Open detailed stats for Mazahir26/koduko](https://reviewgithub.com/rep/Mazahir26/koduko)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 62 | 2 | 
 | 2022-09-08 | 62 | 2 | 
 
-
-[Detailed charts & statistics for Mazahir26/koduko](https://reviewgithub.com/rep/Mazahir26/koduko)

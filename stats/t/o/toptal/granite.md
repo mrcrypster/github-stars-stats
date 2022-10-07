@@ -1,12 +1,14 @@
 # toptal/granite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 157
 
 [Open repository](https://github.com/toptal/granite)
+
+[Open detailed stats for toptal/granite](https://reviewgithub.com/rep/toptal/granite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 157 | 7 | 
 | 2022-09-07 | 157 | 7 | 
 
-
-[Detailed charts & statistics for toptal/granite](https://reviewgithub.com/rep/toptal/granite)

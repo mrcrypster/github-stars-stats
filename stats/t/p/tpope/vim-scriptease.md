@@ -1,12 +1,14 @@
 # tpope/vim-scriptease - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 46
 
 ★ Stars: 619
 
 [Open repository](https://github.com/tpope/vim-scriptease)
+
+[Open detailed stats for tpope/vim-scriptease](https://reviewgithub.com/rep/tpope/vim-scriptease)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 614 | 46 | 
 | 2022-09-07 | 614 | 46 | 
 
-
-[Detailed charts & statistics for tpope/vim-scriptease](https://reviewgithub.com/rep/tpope/vim-scriptease)

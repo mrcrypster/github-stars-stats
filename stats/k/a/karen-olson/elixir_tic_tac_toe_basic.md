@@ -1,12 +1,14 @@
 # karen-olson/elixir_tic_tac_toe_basic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/karen-olson/elixir_tic_tac_toe_basic)
+
+[Open detailed stats for karen-olson/elixir_tic_tac_toe_basic](https://reviewgithub.com/rep/karen-olson/elixir_tic_tac_toe_basic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for karen-olson/elixir_tic_tac_toe_basic](https://reviewgithub.com/rep/karen-olson/elixir_tic_tac_toe_basic)

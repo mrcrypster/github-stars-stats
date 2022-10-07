@@ -1,12 +1,14 @@
 # swagger-api/swagger-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2120
 
 ★ Stars: 7063
 
 [Open repository](https://github.com/swagger-api/swagger-core)
+
+[Open detailed stats for swagger-api/swagger-core](https://reviewgithub.com/rep/swagger-api/swagger-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7045 | 2122 | 
 | 2022-09-07 | 7045 | 2122 | 
 
-
-[Detailed charts & statistics for swagger-api/swagger-core](https://reviewgithub.com/rep/swagger-api/swagger-core)

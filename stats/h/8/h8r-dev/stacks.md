@@ -1,12 +1,14 @@
 # h8r-dev/stacks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 7
 
 [Open repository](https://github.com/h8r-dev/stacks)
+
+[Open detailed stats for h8r-dev/stacks](https://reviewgithub.com/rep/h8r-dev/stacks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 7 | 
 | 2022-09-07 | 7 | 7 | 
 
-
-[Detailed charts & statistics for h8r-dev/stacks](https://reviewgithub.com/rep/h8r-dev/stacks)

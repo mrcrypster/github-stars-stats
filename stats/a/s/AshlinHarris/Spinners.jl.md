@@ -1,12 +1,14 @@
 # AshlinHarris/Spinners.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/AshlinHarris/Spinners.jl)
+
+[Open detailed stats for AshlinHarris/Spinners.jl](https://reviewgithub.com/rep/AshlinHarris/Spinners.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | - | 
 | 2022-09-07 | 10 | - | 
 
-
-[Detailed charts & statistics for AshlinHarris/Spinners.jl](https://reviewgithub.com/rep/AshlinHarris/Spinners.jl)

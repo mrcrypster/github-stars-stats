@@ -1,12 +1,14 @@
 # siduck/dotfiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 76
 
 ★ Stars: 661
 
 [Open repository](https://github.com/siduck/dotfiles)
+
+[Open detailed stats for siduck/dotfiles](https://reviewgithub.com/rep/siduck/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 649 | 72 | 
 | 2022-09-08 | 648 | 72 | 
 
-
-[Detailed charts & statistics for siduck/dotfiles](https://reviewgithub.com/rep/siduck/dotfiles)

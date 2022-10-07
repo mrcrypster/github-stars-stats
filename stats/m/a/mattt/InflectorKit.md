@@ -1,12 +1,14 @@
 # mattt/InflectorKit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 468
 
 [Open repository](https://github.com/mattt/InflectorKit)
+
+[Open detailed stats for mattt/InflectorKit](https://reviewgithub.com/rep/mattt/InflectorKit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-04 | 468 | 32 | 
 | 2022-10-03 | 468 | 32 | 
 
-
-[Detailed charts & statistics for mattt/InflectorKit](https://reviewgithub.com/rep/mattt/InflectorKit)

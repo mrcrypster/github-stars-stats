@@ -1,12 +1,14 @@
 # LandmakTechnology/metric-server - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 204
 
 ★ Stars: 0
 
 [Open repository](https://github.com/LandmakTechnology/metric-server)
+
+[Open detailed stats for LandmakTechnology/metric-server](https://reviewgithub.com/rep/LandmakTechnology/metric-server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 195 | 
 | 2022-09-07 | - | 195 | 
 
-
-[Detailed charts & statistics for LandmakTechnology/metric-server](https://reviewgithub.com/rep/LandmakTechnology/metric-server)

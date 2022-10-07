@@ -1,12 +1,14 @@
 # saviomartin/twitter-profile-desktop-widget - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/saviomartin/twitter-profile-desktop-widget)
+
+[Open detailed stats for saviomartin/twitter-profile-desktop-widget](https://reviewgithub.com/rep/saviomartin/twitter-profile-desktop-widget)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | - | 
 | 2022-09-07 | 18 | - | 
 
-
-[Detailed charts & statistics for saviomartin/twitter-profile-desktop-widget](https://reviewgithub.com/rep/saviomartin/twitter-profile-desktop-widget)

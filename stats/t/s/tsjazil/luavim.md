@@ -1,12 +1,14 @@
 # tsjazil/luavim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 63
 
 [Open repository](https://github.com/tsjazil/luavim)
+
+[Open detailed stats for tsjazil/luavim](https://reviewgithub.com/rep/tsjazil/luavim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 1 | 
 | 2022-09-07 | 59 | 1 | 
 
-
-[Detailed charts & statistics for tsjazil/luavim](https://reviewgithub.com/rep/tsjazil/luavim)

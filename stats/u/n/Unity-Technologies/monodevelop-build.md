@@ -1,12 +1,14 @@
 # Unity-Technologies/monodevelop-build - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 5
 
 [Open repository](https://github.com/Unity-Technologies/monodevelop-build)
+
+[Open detailed stats for Unity-Technologies/monodevelop-build](https://reviewgithub.com/rep/Unity-Technologies/monodevelop-build)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 3 | 
 | 2022-09-07 | 5 | 3 | 
 
-
-[Detailed charts & statistics for Unity-Technologies/monodevelop-build](https://reviewgithub.com/rep/Unity-Technologies/monodevelop-build)

@@ -1,12 +1,14 @@
 # gabriele-tomassetti/parsing-sql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 29
 
 [Open repository](https://github.com/gabriele-tomassetti/parsing-sql)
+
+[Open detailed stats for gabriele-tomassetti/parsing-sql](https://reviewgithub.com/rep/gabriele-tomassetti/parsing-sql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 4 | 
 | 2022-09-07 | 29 | 4 | 
 
-
-[Detailed charts & statistics for gabriele-tomassetti/parsing-sql](https://reviewgithub.com/rep/gabriele-tomassetti/parsing-sql)

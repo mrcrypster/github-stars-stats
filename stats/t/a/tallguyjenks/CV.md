@@ -1,12 +1,14 @@
 # tallguyjenks/CV - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 46
 
 [Open repository](https://github.com/tallguyjenks/CV)
+
+[Open detailed stats for tallguyjenks/CV](https://reviewgithub.com/rep/tallguyjenks/CV)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 43 | 
 | 2022-09-07 | 45 | 43 | 
 
-
-[Detailed charts & statistics for tallguyjenks/CV](https://reviewgithub.com/rep/tallguyjenks/CV)

@@ -1,12 +1,14 @@
 # heidesebastiao95/CMS-Panel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 13
 
 [Open repository](https://github.com/heidesebastiao95/CMS-Panel)
+
+[Open detailed stats for heidesebastiao95/CMS-Panel](https://reviewgithub.com/rep/heidesebastiao95/CMS-Panel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 6 | 
 | 2022-09-07 | 13 | 6 | 
 
-
-[Detailed charts & statistics for heidesebastiao95/CMS-Panel](https://reviewgithub.com/rep/heidesebastiao95/CMS-Panel)

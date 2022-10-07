@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-eks-node-group - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 115
 
 ★ Stars: 62
 
 [Open repository](https://github.com/cloudposse/terraform-aws-eks-node-group)
+
+[Open detailed stats for cloudposse/terraform-aws-eks-node-group](https://reviewgithub.com/rep/cloudposse/terraform-aws-eks-node-group)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 60 | 113 | 
 | 2022-09-07 | 60 | 113 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-eks-node-group](https://reviewgithub.com/rep/cloudposse/terraform-aws-eks-node-group)

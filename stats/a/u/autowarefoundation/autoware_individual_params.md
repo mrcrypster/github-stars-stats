@@ -1,12 +1,14 @@
 # autowarefoundation/autoware_individual_params - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/autowarefoundation/autoware_individual_params)
+
+[Open detailed stats for autowarefoundation/autoware_individual_params](https://reviewgithub.com/rep/autowarefoundation/autoware_individual_params)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 4 | 
 | 2022-09-08 | 1 | 4 | 
 
-
-[Detailed charts & statistics for autowarefoundation/autoware_individual_params](https://reviewgithub.com/rep/autowarefoundation/autoware_individual_params)

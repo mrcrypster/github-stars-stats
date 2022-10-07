@@ -1,12 +1,14 @@
 # cloudfoundry-samples/pong_matcher_groovy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 2
 
 [Open repository](https://github.com/cloudfoundry-samples/pong_matcher_groovy)
+
+[Open detailed stats for cloudfoundry-samples/pong_matcher_groovy](https://reviewgithub.com/rep/cloudfoundry-samples/pong_matcher_groovy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 2 | 5 | 
 | 2022-09-18 | 2 | 5 | 
 
-
-[Detailed charts & statistics for cloudfoundry-samples/pong_matcher_groovy](https://reviewgithub.com/rep/cloudfoundry-samples/pong_matcher_groovy)

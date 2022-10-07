@@ -1,12 +1,14 @@
 # MiSTer-devel/Arcade-Cave_MiSTer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 63
 
 [Open repository](https://github.com/MiSTer-devel/Arcade-Cave_MiSTer)
+
+[Open detailed stats for MiSTer-devel/Arcade-Cave_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/Arcade-Cave_MiSTer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 63 | 18 | 
 | 2022-09-07 | 63 | 18 | 
 
-
-[Detailed charts & statistics for MiSTer-devel/Arcade-Cave_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/Arcade-Cave_MiSTer)

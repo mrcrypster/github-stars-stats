@@ -1,12 +1,14 @@
 # paradoxxxzero/jinja2-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 63
 
 [Open repository](https://github.com/paradoxxxzero/jinja2-mode)
+
+[Open detailed stats for paradoxxxzero/jinja2-mode](https://reviewgithub.com/rep/paradoxxxzero/jinja2-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 63 | 18 | 
 | 2022-09-08 | 63 | 18 | 
 
-
-[Detailed charts & statistics for paradoxxxzero/jinja2-mode](https://reviewgithub.com/rep/paradoxxxzero/jinja2-mode)

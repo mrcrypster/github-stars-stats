@@ -1,12 +1,14 @@
 # liujiaqi7998/GrasscuttersWebDashboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 197
 
 [Open repository](https://github.com/liujiaqi7998/GrasscuttersWebDashboard)
+
+[Open detailed stats for liujiaqi7998/GrasscuttersWebDashboard](https://reviewgithub.com/rep/liujiaqi7998/GrasscuttersWebDashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 193 | 31 | 
 | 2022-09-07 | 192 | 31 | 
 
-
-[Detailed charts & statistics for liujiaqi7998/GrasscuttersWebDashboard](https://reviewgithub.com/rep/liujiaqi7998/GrasscuttersWebDashboard)

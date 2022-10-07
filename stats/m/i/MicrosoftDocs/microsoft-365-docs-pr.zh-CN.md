@@ -1,12 +1,14 @@
 # MicrosoftDocs/microsoft-365-docs-pr.zh-CN - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 10
 
 [Open repository](https://github.com/MicrosoftDocs/microsoft-365-docs-pr.zh-CN)
+
+[Open detailed stats for MicrosoftDocs/microsoft-365-docs-pr.zh-CN](https://reviewgithub.com/rep/MicrosoftDocs/microsoft-365-docs-pr.zh-CN)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 11 | 
 | 2022-09-08 | 10 | 11 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/microsoft-365-docs-pr.zh-CN](https://reviewgithub.com/rep/MicrosoftDocs/microsoft-365-docs-pr.zh-CN)

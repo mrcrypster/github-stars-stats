@@ -1,12 +1,14 @@
 # WilfredTA/formal-methods-curriculum - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 112
 
 [Open repository](https://github.com/WilfredTA/formal-methods-curriculum)
+
+[Open detailed stats for WilfredTA/formal-methods-curriculum](https://reviewgithub.com/rep/WilfredTA/formal-methods-curriculum)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 101 | 7 | 
 | 2022-09-08 | 101 | 7 | 
 
-
-[Detailed charts & statistics for WilfredTA/formal-methods-curriculum](https://reviewgithub.com/rep/WilfredTA/formal-methods-curriculum)

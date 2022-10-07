@@ -1,12 +1,14 @@
 # wolfenrain/stateless - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 38
 
 [Open repository](https://github.com/wolfenrain/stateless)
+
+[Open detailed stats for wolfenrain/stateless](https://reviewgithub.com/rep/wolfenrain/stateless)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 37 | 2 | 
 | 2022-09-07 | 37 | 2 | 
 
-
-[Detailed charts & statistics for wolfenrain/stateless](https://reviewgithub.com/rep/wolfenrain/stateless)

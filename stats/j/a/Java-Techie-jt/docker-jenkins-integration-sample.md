@@ -1,12 +1,14 @@
 # Java-Techie-jt/docker-jenkins-integration-sample - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 278
 
 ★ Stars: 17
 
 [Open repository](https://github.com/Java-Techie-jt/docker-jenkins-integration-sample)
+
+[Open detailed stats for Java-Techie-jt/docker-jenkins-integration-sample](https://reviewgithub.com/rep/Java-Techie-jt/docker-jenkins-integration-sample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 17 | 265 | 
 | 2022-09-07 | 17 | 266 | 
 
-
-[Detailed charts & statistics for Java-Techie-jt/docker-jenkins-integration-sample](https://reviewgithub.com/rep/Java-Techie-jt/docker-jenkins-integration-sample)

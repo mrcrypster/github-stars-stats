@@ -1,12 +1,14 @@
 # fivetran/analytics-templates - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 12
 
 [Open repository](https://github.com/fivetran/analytics-templates)
+
+[Open detailed stats for fivetran/analytics-templates](https://reviewgithub.com/rep/fivetran/analytics-templates)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 21 | 
 | 2022-09-08 | 12 | 21 | 
 
-
-[Detailed charts & statistics for fivetran/analytics-templates](https://reviewgithub.com/rep/fivetran/analytics-templates)

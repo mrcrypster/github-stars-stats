@@ -1,12 +1,14 @@
 # leaky-forms/leaky-forms - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 39
 
 [Open repository](https://github.com/leaky-forms/leaky-forms)
+
+[Open detailed stats for leaky-forms/leaky-forms](https://reviewgithub.com/rep/leaky-forms/leaky-forms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | 3 | 
 | 2022-09-08 | 39 | 3 | 
 
-
-[Detailed charts & statistics for leaky-forms/leaky-forms](https://reviewgithub.com/rep/leaky-forms/leaky-forms)

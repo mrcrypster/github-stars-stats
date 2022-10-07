@@ -1,12 +1,14 @@
 # armcn/maybe - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 42
 
 [Open repository](https://github.com/armcn/maybe)
+
+[Open detailed stats for armcn/maybe](https://reviewgithub.com/rep/armcn/maybe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 42 | - | 
 | 2022-09-07 | 42 | - | 
 
-
-[Detailed charts & statistics for armcn/maybe](https://reviewgithub.com/rep/armcn/maybe)

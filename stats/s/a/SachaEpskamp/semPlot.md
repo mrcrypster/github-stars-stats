@@ -1,12 +1,14 @@
 # SachaEpskamp/semPlot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 58
 
 [Open repository](https://github.com/SachaEpskamp/semPlot)
+
+[Open detailed stats for SachaEpskamp/semPlot](https://reviewgithub.com/rep/SachaEpskamp/semPlot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | 19 | 
 | 2022-09-07 | 58 | 19 | 
 
-
-[Detailed charts & statistics for SachaEpskamp/semPlot](https://reviewgithub.com/rep/SachaEpskamp/semPlot)

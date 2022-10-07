@@ -1,12 +1,14 @@
 # singul4ri7y/promit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 36
 
 [Open repository](https://github.com/singul4ri7y/promit)
+
+[Open detailed stats for singul4ri7y/promit](https://reviewgithub.com/rep/singul4ri7y/promit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | - | 
 | 2022-09-07 | 36 | - | 
 
-
-[Detailed charts & statistics for singul4ri7y/promit](https://reviewgithub.com/rep/singul4ri7y/promit)

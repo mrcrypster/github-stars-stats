@@ -1,12 +1,14 @@
 # GoVanguard/list-infosec-encyclopedia - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 71
 
 ★ Stars: 402
 
 [Open repository](https://github.com/GoVanguard/list-infosec-encyclopedia)
+
+[Open detailed stats for GoVanguard/list-infosec-encyclopedia](https://reviewgithub.com/rep/GoVanguard/list-infosec-encyclopedia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 363 | 60 | 
 | 2022-09-30 | 296 | 58 | 
 
-
-[Detailed charts & statistics for GoVanguard/list-infosec-encyclopedia](https://reviewgithub.com/rep/GoVanguard/list-infosec-encyclopedia)

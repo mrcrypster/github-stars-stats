@@ -1,12 +1,14 @@
 # mosip/mosip-helm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mosip/mosip-helm)
+
+[Open detailed stats for mosip/mosip-helm](https://reviewgithub.com/rep/mosip/mosip-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 19 | 
 | 2022-09-08 | - | 19 | 
 
-
-[Detailed charts & statistics for mosip/mosip-helm](https://reviewgithub.com/rep/mosip/mosip-helm)

@@ -1,12 +1,14 @@
 # CemuUser8/mouse2joystick_custom_CEMU - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 113
 
 [Open repository](https://github.com/CemuUser8/mouse2joystick_custom_CEMU)
+
+[Open detailed stats for CemuUser8/mouse2joystick_custom_CEMU](https://reviewgithub.com/rep/CemuUser8/mouse2joystick_custom_CEMU)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 107 | 39 | 
 | 2022-09-08 | 107 | 39 | 
 
-
-[Detailed charts & statistics for CemuUser8/mouse2joystick_custom_CEMU](https://reviewgithub.com/rep/CemuUser8/mouse2joystick_custom_CEMU)

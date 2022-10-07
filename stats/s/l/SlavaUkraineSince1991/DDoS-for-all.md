@@ -1,12 +1,14 @@
 # SlavaUkraineSince1991/DDoS-for-all - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 48
 
 [Open repository](https://github.com/SlavaUkraineSince1991/DDoS-for-all)
+
+[Open detailed stats for SlavaUkraineSince1991/DDoS-for-all](https://reviewgithub.com/rep/SlavaUkraineSince1991/DDoS-for-all)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 48 | 10 | 
 | 2022-09-08 | 48 | 10 | 
 
-
-[Detailed charts & statistics for SlavaUkraineSince1991/DDoS-for-all](https://reviewgithub.com/rep/SlavaUkraineSince1991/DDoS-for-all)

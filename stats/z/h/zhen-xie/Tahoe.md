@@ -1,12 +1,14 @@
 # zhen-xie/Tahoe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 32
 
 [Open repository](https://github.com/zhen-xie/Tahoe)
+
+[Open detailed stats for zhen-xie/Tahoe](https://reviewgithub.com/rep/zhen-xie/Tahoe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | 5 | 
 | 2022-09-08 | 32 | 5 | 
 
-
-[Detailed charts & statistics for zhen-xie/Tahoe](https://reviewgithub.com/rep/zhen-xie/Tahoe)

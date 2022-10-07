@@ -1,12 +1,14 @@
 # migcreatesgames/Mole-Game-Jam - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/migcreatesgames/Mole-Game-Jam)
+
+[Open detailed stats for migcreatesgames/Mole-Game-Jam](https://reviewgithub.com/rep/migcreatesgames/Mole-Game-Jam)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for migcreatesgames/Mole-Game-Jam](https://reviewgithub.com/rep/migcreatesgames/Mole-Game-Jam)

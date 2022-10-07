@@ -1,12 +1,14 @@
 # noloader/cryptopp-cmake - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
 ★ Stars: 85
 
 [Open repository](https://github.com/noloader/cryptopp-cmake)
+
+[Open detailed stats for noloader/cryptopp-cmake](https://reviewgithub.com/rep/noloader/cryptopp-cmake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 84 | 72 | 
 | 2022-09-07 | 84 | 72 | 
 
-
-[Detailed charts & statistics for noloader/cryptopp-cmake](https://reviewgithub.com/rep/noloader/cryptopp-cmake)

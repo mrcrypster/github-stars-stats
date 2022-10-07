@@ -1,12 +1,14 @@
 # edward-burn/CodingWithOmop - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/edward-burn/CodingWithOmop)
+
+[Open detailed stats for edward-burn/CodingWithOmop](https://reviewgithub.com/rep/edward-burn/CodingWithOmop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 9 | 
 | 2022-09-07 | - | 9 | 
 
-
-[Detailed charts & statistics for edward-burn/CodingWithOmop](https://reviewgithub.com/rep/edward-burn/CodingWithOmop)

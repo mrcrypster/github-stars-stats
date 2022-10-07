@@ -1,12 +1,14 @@
 # go2uvm/go2uvm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 11
 
 [Open repository](https://github.com/go2uvm/go2uvm)
+
+[Open detailed stats for go2uvm/go2uvm](https://reviewgithub.com/rep/go2uvm/go2uvm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 11 | 19 | 
 | 2022-09-17 | 11 | 19 | 
 
-
-[Detailed charts & statistics for go2uvm/go2uvm](https://reviewgithub.com/rep/go2uvm/go2uvm)

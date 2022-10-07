@@ -1,12 +1,14 @@
 # gardener/docs-toolbelt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/gardener/docs-toolbelt)
+
+[Open detailed stats for gardener/docs-toolbelt](https://reviewgithub.com/rep/gardener/docs-toolbelt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 1 | 1 | 
 | 2022-09-18 | 1 | 1 | 
 
-
-[Detailed charts & statistics for gardener/docs-toolbelt](https://reviewgithub.com/rep/gardener/docs-toolbelt)

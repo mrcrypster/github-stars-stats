@@ -1,12 +1,14 @@
 # spatie/visit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 363
 
 [Open repository](https://github.com/spatie/visit)
+
+[Open detailed stats for spatie/visit](https://reviewgithub.com/rep/spatie/visit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 363 | 11 | 
 | 2022-09-07 | 363 | 11 | 
 
-
-[Detailed charts & statistics for spatie/visit](https://reviewgithub.com/rep/spatie/visit)

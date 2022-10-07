@@ -1,12 +1,14 @@
 # edzzy/MadProRSource - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/edzzy/MadProRSource)
+
+[Open detailed stats for edzzy/MadProRSource](https://reviewgithub.com/rep/edzzy/MadProRSource)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for edzzy/MadProRSource](https://reviewgithub.com/rep/edzzy/MadProRSource)

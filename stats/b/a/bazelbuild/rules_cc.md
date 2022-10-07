@@ -1,12 +1,14 @@
 # bazelbuild/rules_cc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 69
 
 ★ Stars: 106
 
 [Open repository](https://github.com/bazelbuild/rules_cc)
+
+[Open detailed stats for bazelbuild/rules_cc](https://reviewgithub.com/rep/bazelbuild/rules_cc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 101 | 68 | 
 | 2022-09-07 | 101 | 68 | 
 
-
-[Detailed charts & statistics for bazelbuild/rules_cc](https://reviewgithub.com/rep/bazelbuild/rules_cc)

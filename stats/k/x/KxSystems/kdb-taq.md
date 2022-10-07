@@ -1,12 +1,14 @@
 # KxSystems/kdb-taq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 51
 
 ★ Stars: 13
 
 [Open repository](https://github.com/KxSystems/kdb-taq)
+
+[Open detailed stats for KxSystems/kdb-taq](https://reviewgithub.com/rep/KxSystems/kdb-taq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 12 | 45 | 
 | 2022-09-07 | 12 | 44 | 
 
-
-[Detailed charts & statistics for KxSystems/kdb-taq](https://reviewgithub.com/rep/KxSystems/kdb-taq)

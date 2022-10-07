@@ -1,12 +1,14 @@
 # ReScience/MLRC - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 95
 
 ★ Stars: 13
 
 [Open repository](https://github.com/ReScience/MLRC)
+
+[Open detailed stats for ReScience/MLRC](https://reviewgithub.com/rep/ReScience/MLRC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 95 | 
 | 2022-09-08 | 13 | 95 | 
 
-
-[Detailed charts & statistics for ReScience/MLRC](https://reviewgithub.com/rep/ReScience/MLRC)

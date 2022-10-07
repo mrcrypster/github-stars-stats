@@ -1,12 +1,14 @@
 # v1ack/v1ack.github.io - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/v1ack/v1ack.github.io)
+
+[Open detailed stats for v1ack/v1ack.github.io](https://reviewgithub.com/rep/v1ack/v1ack.github.io)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
 
-
-[Detailed charts & statistics for v1ack/v1ack.github.io](https://reviewgithub.com/rep/v1ack/v1ack.github.io)

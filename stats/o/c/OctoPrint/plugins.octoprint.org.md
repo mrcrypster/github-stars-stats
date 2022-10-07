@@ -1,12 +1,14 @@
 # OctoPrint/plugins.octoprint.org - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 294
 
 ★ Stars: 100
 
 [Open repository](https://github.com/OctoPrint/plugins.octoprint.org)
+
+[Open detailed stats for OctoPrint/plugins.octoprint.org](https://reviewgithub.com/rep/OctoPrint/plugins.octoprint.org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 100 | 290 | 
 | 2022-09-07 | 100 | 290 | 
 
-
-[Detailed charts & statistics for OctoPrint/plugins.octoprint.org](https://reviewgithub.com/rep/OctoPrint/plugins.octoprint.org)

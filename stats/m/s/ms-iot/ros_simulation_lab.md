@@ -1,12 +1,14 @@
 # ms-iot/ros_simulation_lab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 5
 
 [Open repository](https://github.com/ms-iot/ros_simulation_lab)
+
+[Open detailed stats for ms-iot/ros_simulation_lab](https://reviewgithub.com/rep/ms-iot/ros_simulation_lab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 30 | 
 | 2022-09-07 | 5 | 30 | 
 
-
-[Detailed charts & statistics for ms-iot/ros_simulation_lab](https://reviewgithub.com/rep/ms-iot/ros_simulation_lab)

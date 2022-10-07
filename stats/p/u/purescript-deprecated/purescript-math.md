@@ -1,12 +1,14 @@
 # purescript-deprecated/purescript-math - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 19
 
 [Open repository](https://github.com/purescript-deprecated/purescript-math)
+
+[Open detailed stats for purescript-deprecated/purescript-math](https://reviewgithub.com/rep/purescript-deprecated/purescript-math)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 23 | 
 | 2022-09-08 | 19 | 23 | 
 
-
-[Detailed charts & statistics for purescript-deprecated/purescript-math](https://reviewgithub.com/rep/purescript-deprecated/purescript-math)

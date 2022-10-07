@@ -1,12 +1,14 @@
 # k0keoyo/my_vulnerabilities - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 115
 
 [Open repository](https://github.com/k0keoyo/my_vulnerabilities)
+
+[Open detailed stats for k0keoyo/my_vulnerabilities](https://reviewgithub.com/rep/k0keoyo/my_vulnerabilities)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 109 | 25 | 
 | 2022-09-07 | 108 | 25 | 
 
-
-[Detailed charts & statistics for k0keoyo/my_vulnerabilities](https://reviewgithub.com/rep/k0keoyo/my_vulnerabilities)

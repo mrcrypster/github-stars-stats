@@ -1,12 +1,14 @@
 # googleads/googleads-consent-sdk-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 50
 
 ★ Stars: 31
 
 [Open repository](https://github.com/googleads/googleads-consent-sdk-ios)
+
+[Open detailed stats for googleads/googleads-consent-sdk-ios](https://reviewgithub.com/rep/googleads/googleads-consent-sdk-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 49 | 
 | 2022-09-07 | 31 | 49 | 
 
-
-[Detailed charts & statistics for googleads/googleads-consent-sdk-ios](https://reviewgithub.com/rep/googleads/googleads-consent-sdk-ios)

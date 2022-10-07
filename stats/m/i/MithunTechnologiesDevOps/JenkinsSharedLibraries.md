@@ -1,12 +1,14 @@
 # MithunTechnologiesDevOps/JenkinsSharedLibraries - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 514
 
 ★ Stars: 2
 
 [Open repository](https://github.com/MithunTechnologiesDevOps/JenkinsSharedLibraries)
+
+[Open detailed stats for MithunTechnologiesDevOps/JenkinsSharedLibraries](https://reviewgithub.com/rep/MithunTechnologiesDevOps/JenkinsSharedLibraries)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 493 | 
 | 2022-09-08 | 2 | 493 | 
 
-
-[Detailed charts & statistics for MithunTechnologiesDevOps/JenkinsSharedLibraries](https://reviewgithub.com/rep/MithunTechnologiesDevOps/JenkinsSharedLibraries)

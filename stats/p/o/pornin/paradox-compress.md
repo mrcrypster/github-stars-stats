@@ -1,12 +1,14 @@
 # pornin/paradox-compress - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 171
 
 [Open repository](https://github.com/pornin/paradox-compress)
+
+[Open detailed stats for pornin/paradox-compress](https://reviewgithub.com/rep/pornin/paradox-compress)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 171 | 3 | 
 | 2022-09-07 | 171 | 3 | 
 
-
-[Detailed charts & statistics for pornin/paradox-compress](https://reviewgithub.com/rep/pornin/paradox-compress)

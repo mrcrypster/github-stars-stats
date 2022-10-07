@@ -1,12 +1,14 @@
 # andrewcottam/IWC-ArcGIS-Server-SecurityWebServices - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices)
+
+[Open detailed stats for andrewcottam/IWC-ArcGIS-Server-SecurityWebServices](https://reviewgithub.com/rep/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 5 | - | 
 
-
-[Detailed charts & statistics for andrewcottam/IWC-ArcGIS-Server-SecurityWebServices](https://reviewgithub.com/rep/andrewcottam/IWC-ArcGIS-Server-SecurityWebServices)

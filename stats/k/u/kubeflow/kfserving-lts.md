@@ -1,12 +1,14 @@
 # kubeflow/kfserving-lts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 9
 
 [Open repository](https://github.com/kubeflow/kfserving-lts)
+
+[Open detailed stats for kubeflow/kfserving-lts](https://reviewgithub.com/rep/kubeflow/kfserving-lts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 7 | 
 | 2022-09-07 | 9 | 7 | 
 
-
-[Detailed charts & statistics for kubeflow/kfserving-lts](https://reviewgithub.com/rep/kubeflow/kfserving-lts)

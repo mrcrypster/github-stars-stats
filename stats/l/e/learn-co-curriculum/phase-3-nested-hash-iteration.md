@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-nested-hash-iteration - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 354
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-nested-hash-iteration)
+
+[Open detailed stats for learn-co-curriculum/phase-3-nested-hash-iteration](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-nested-hash-iteration)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 344 | 
 | 2022-09-07 | 1 | 343 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-nested-hash-iteration](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-nested-hash-iteration)

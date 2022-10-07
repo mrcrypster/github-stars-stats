@@ -1,12 +1,14 @@
 # dabit3/titter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 149
 
 [Open repository](https://github.com/dabit3/titter)
+
+[Open detailed stats for dabit3/titter](https://reviewgithub.com/rep/dabit3/titter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 149 | 21 | 
 | 2022-09-08 | 149 | 21 | 
 
-
-[Detailed charts & statistics for dabit3/titter](https://reviewgithub.com/rep/dabit3/titter)

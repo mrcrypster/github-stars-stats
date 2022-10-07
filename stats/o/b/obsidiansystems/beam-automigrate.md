@@ -1,12 +1,14 @@
 # obsidiansystems/beam-automigrate - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 17
 
 [Open repository](https://github.com/obsidiansystems/beam-automigrate)
+
+[Open detailed stats for obsidiansystems/beam-automigrate](https://reviewgithub.com/rep/obsidiansystems/beam-automigrate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 9 | 
 | 2022-09-07 | 16 | 9 | 
 
-
-[Detailed charts & statistics for obsidiansystems/beam-automigrate](https://reviewgithub.com/rep/obsidiansystems/beam-automigrate)

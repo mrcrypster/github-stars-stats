@@ -1,12 +1,14 @@
 # yangchaojie456/VE-web - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 232
 
 [Open repository](https://github.com/yangchaojie456/VE-web)
+
+[Open detailed stats for yangchaojie456/VE-web](https://reviewgithub.com/rep/yangchaojie456/VE-web)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 234 | 28 | 
 | 2022-09-08 | 234 | 28 | 
 
-
-[Detailed charts & statistics for yangchaojie456/VE-web](https://reviewgithub.com/rep/yangchaojie456/VE-web)

@@ -1,12 +1,14 @@
 # ProtectOnce/JuiceShopDeploy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ProtectOnce/JuiceShopDeploy)
+
+[Open detailed stats for ProtectOnce/JuiceShopDeploy](https://reviewgithub.com/rep/ProtectOnce/JuiceShopDeploy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 8 | 
 | 2022-09-07 | - | 8 | 
 
-
-[Detailed charts & statistics for ProtectOnce/JuiceShopDeploy](https://reviewgithub.com/rep/ProtectOnce/JuiceShopDeploy)

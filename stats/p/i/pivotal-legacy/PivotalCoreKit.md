@@ -1,12 +1,14 @@
 # pivotal-legacy/PivotalCoreKit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 87
 
 ★ Stars: 172
 
 [Open repository](https://github.com/pivotal-legacy/PivotalCoreKit)
+
+[Open detailed stats for pivotal-legacy/PivotalCoreKit](https://reviewgithub.com/rep/pivotal-legacy/PivotalCoreKit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 172 | 87 | 
 | 2022-09-07 | 172 | 87 | 
 
-
-[Detailed charts & statistics for pivotal-legacy/PivotalCoreKit](https://reviewgithub.com/rep/pivotal-legacy/PivotalCoreKit)

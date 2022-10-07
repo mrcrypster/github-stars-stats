@@ -1,12 +1,14 @@
 # HSG-WAS-SS22/exercise-11 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/HSG-WAS-SS22/exercise-11)
+
+[Open detailed stats for HSG-WAS-SS22/exercise-11](https://reviewgithub.com/rep/HSG-WAS-SS22/exercise-11)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
 
-
-[Detailed charts & statistics for HSG-WAS-SS22/exercise-11](https://reviewgithub.com/rep/HSG-WAS-SS22/exercise-11)

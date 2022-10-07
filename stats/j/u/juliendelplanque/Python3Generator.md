@@ -1,12 +1,14 @@
 # juliendelplanque/Python3Generator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 25
 
 [Open repository](https://github.com/juliendelplanque/Python3Generator)
+
+[Open detailed stats for juliendelplanque/Python3Generator](https://reviewgithub.com/rep/juliendelplanque/Python3Generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 25 | 4 | 
 | 2022-09-08 | 25 | 4 | 
 
-
-[Detailed charts & statistics for juliendelplanque/Python3Generator](https://reviewgithub.com/rep/juliendelplanque/Python3Generator)

@@ -1,12 +1,14 @@
 # PrideLab/PRIDE-PPPAR - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 60
 
 ★ Stars: 107
 
 [Open repository](https://github.com/PrideLab/PRIDE-PPPAR)
+
+[Open detailed stats for PrideLab/PRIDE-PPPAR](https://reviewgithub.com/rep/PrideLab/PRIDE-PPPAR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 102 | 59 | 
 | 2022-09-08 | 102 | 58 | 
 
-
-[Detailed charts & statistics for PrideLab/PRIDE-PPPAR](https://reviewgithub.com/rep/PrideLab/PRIDE-PPPAR)

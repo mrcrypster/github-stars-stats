@@ -1,12 +1,14 @@
 # apple/swift-docker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 161
 
 ★ Stars: 1238
 
 [Open repository](https://github.com/apple/swift-docker)
+
+[Open detailed stats for apple/swift-docker](https://reviewgithub.com/rep/apple/swift-docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1230 | 161 | 
 | 2022-09-07 | 1230 | 161 | 
 
-
-[Detailed charts & statistics for apple/swift-docker](https://reviewgithub.com/rep/apple/swift-docker)

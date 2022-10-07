@@ -1,12 +1,14 @@
 # purescript/purescript-distributive - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 6
 
 [Open repository](https://github.com/purescript/purescript-distributive)
+
+[Open detailed stats for purescript/purescript-distributive](https://reviewgithub.com/rep/purescript/purescript-distributive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 10 | 
 | 2022-09-08 | 6 | 10 | 
 
-
-[Detailed charts & statistics for purescript/purescript-distributive](https://reviewgithub.com/rep/purescript/purescript-distributive)

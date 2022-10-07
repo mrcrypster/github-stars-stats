@@ -1,12 +1,14 @@
 # overextended/qtarget - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 51
 
 [Open repository](https://github.com/overextended/qtarget)
+
+[Open detailed stats for overextended/qtarget](https://reviewgithub.com/rep/overextended/qtarget)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 52 | 61 | 
 | 2022-09-08 | 52 | 61 | 
 
-
-[Detailed charts & statistics for overextended/qtarget](https://reviewgithub.com/rep/overextended/qtarget)

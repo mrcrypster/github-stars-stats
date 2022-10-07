@@ -1,12 +1,14 @@
 # getndazn/kopytko-unit-testing-framework - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/getndazn/kopytko-unit-testing-framework)
+
+[Open detailed stats for getndazn/kopytko-unit-testing-framework](https://reviewgithub.com/rep/getndazn/kopytko-unit-testing-framework)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 3 | 
 | 2022-09-08 | 4 | 3 | 
 
-
-[Detailed charts & statistics for getndazn/kopytko-unit-testing-framework](https://reviewgithub.com/rep/getndazn/kopytko-unit-testing-framework)

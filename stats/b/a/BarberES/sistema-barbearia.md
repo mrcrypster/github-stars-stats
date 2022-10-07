@@ -1,12 +1,14 @@
 # BarberES/sistema-barbearia - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BarberES/sistema-barbearia)
+
+[Open detailed stats for BarberES/sistema-barbearia](https://reviewgithub.com/rep/BarberES/sistema-barbearia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | - | 6 | 
 | 2022-09-12 | - | 6 | 
 
-
-[Detailed charts & statistics for BarberES/sistema-barbearia](https://reviewgithub.com/rep/BarberES/sistema-barbearia)

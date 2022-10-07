@@ -1,12 +1,14 @@
 # wapchief/idea_activate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 35
 
 [Open repository](https://github.com/wapchief/idea_activate)
+
+[Open detailed stats for wapchief/idea_activate](https://reviewgithub.com/rep/wapchief/idea_activate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 6 | 
 | 2022-09-08 | 10 | 5 | 
 
-
-[Detailed charts & statistics for wapchief/idea_activate](https://reviewgithub.com/rep/wapchief/idea_activate)

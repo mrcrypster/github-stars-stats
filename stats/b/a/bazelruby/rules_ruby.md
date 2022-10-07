@@ -1,12 +1,14 @@
 # bazelruby/rules_ruby - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 81
 
 [Open repository](https://github.com/bazelruby/rules_ruby)
+
+[Open detailed stats for bazelruby/rules_ruby](https://reviewgithub.com/rep/bazelruby/rules_ruby)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 81 | 23 | 
 | 2022-09-07 | 81 | 23 | 
 
-
-[Detailed charts & statistics for bazelruby/rules_ruby](https://reviewgithub.com/rep/bazelruby/rules_ruby)

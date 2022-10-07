@@ -1,12 +1,14 @@
 # artsy/Artsy-OSSUIFonts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 17
 
 [Open repository](https://github.com/artsy/Artsy-OSSUIFonts)
+
+[Open detailed stats for artsy/Artsy-OSSUIFonts](https://reviewgithub.com/rep/artsy/Artsy-OSSUIFonts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 9 | 
 | 2022-09-07 | 17 | 9 | 
 
-
-[Detailed charts & statistics for artsy/Artsy-OSSUIFonts](https://reviewgithub.com/rep/artsy/Artsy-OSSUIFonts)

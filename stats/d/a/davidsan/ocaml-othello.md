@@ -1,12 +1,14 @@
 # davidsan/ocaml-othello - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/davidsan/ocaml-othello)
+
+[Open detailed stats for davidsan/ocaml-othello](https://reviewgithub.com/rep/davidsan/ocaml-othello)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for davidsan/ocaml-othello](https://reviewgithub.com/rep/davidsan/ocaml-othello)

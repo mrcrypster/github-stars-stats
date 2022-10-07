@@ -1,12 +1,14 @@
 # woowacourse/jwp-dashboard-http - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 3
 
 [Open repository](https://github.com/woowacourse/jwp-dashboard-http)
+
+[Open detailed stats for woowacourse/jwp-dashboard-http](https://reviewgithub.com/rep/woowacourse/jwp-dashboard-http)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 132 | 
 | 2022-09-08 | 3 | 132 | 
 
-
-[Detailed charts & statistics for woowacourse/jwp-dashboard-http](https://reviewgithub.com/rep/woowacourse/jwp-dashboard-http)

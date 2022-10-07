@@ -1,12 +1,14 @@
 # binary-com/perl-WebService-Async-Onfido - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-WebService-Async-Onfido)
+
+[Open detailed stats for binary-com/perl-WebService-Async-Onfido](https://reviewgithub.com/rep/binary-com/perl-WebService-Async-Onfido)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 11 | 
 | 2022-09-07 | - | 11 | 
 
-
-[Detailed charts & statistics for binary-com/perl-WebService-Async-Onfido](https://reviewgithub.com/rep/binary-com/perl-WebService-Async-Onfido)

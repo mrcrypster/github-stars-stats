@@ -1,12 +1,14 @@
 # smarr/SMark - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 11
 
 [Open repository](https://github.com/smarr/SMark)
+
+[Open detailed stats for smarr/SMark](https://reviewgithub.com/rep/smarr/SMark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 4 | 
 | 2022-09-07 | 10 | 4 | 
 
-
-[Detailed charts & statistics for smarr/SMark](https://reviewgithub.com/rep/smarr/SMark)

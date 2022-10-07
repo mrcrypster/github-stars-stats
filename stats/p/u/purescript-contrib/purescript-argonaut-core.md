@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-argonaut-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 42
 
 [Open repository](https://github.com/purescript-contrib/purescript-argonaut-core)
+
+[Open detailed stats for purescript-contrib/purescript-argonaut-core](https://reviewgithub.com/rep/purescript-contrib/purescript-argonaut-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 42 | 28 | 
 | 2022-09-08 | 42 | 28 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-argonaut-core](https://reviewgithub.com/rep/purescript-contrib/purescript-argonaut-core)

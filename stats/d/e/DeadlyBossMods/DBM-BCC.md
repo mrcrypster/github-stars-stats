@@ -1,12 +1,14 @@
 # DeadlyBossMods/DBM-BCC - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/DeadlyBossMods/DBM-BCC)
+
+[Open detailed stats for DeadlyBossMods/DBM-BCC](https://reviewgithub.com/rep/DeadlyBossMods/DBM-BCC)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 3 | 
 | 2022-09-07 | 4 | 3 | 
 
-
-[Detailed charts & statistics for DeadlyBossMods/DBM-BCC](https://reviewgithub.com/rep/DeadlyBossMods/DBM-BCC)

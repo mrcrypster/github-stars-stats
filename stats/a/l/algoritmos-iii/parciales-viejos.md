@@ -1,12 +1,14 @@
 # algoritmos-iii/parciales-viejos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 2
 
 [Open repository](https://github.com/algoritmos-iii/parciales-viejos)
+
+[Open detailed stats for algoritmos-iii/parciales-viejos](https://reviewgithub.com/rep/algoritmos-iii/parciales-viejos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 15 | 
 | 2022-09-08 | 2 | 15 | 
 
-
-[Detailed charts & statistics for algoritmos-iii/parciales-viejos](https://reviewgithub.com/rep/algoritmos-iii/parciales-viejos)

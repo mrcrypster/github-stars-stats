@@ -1,12 +1,14 @@
 # IPILabs/shorter-v1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 69
 
 ★ Stars: 124
 
 [Open repository](https://github.com/IPILabs/shorter-v1)
+
+[Open detailed stats for IPILabs/shorter-v1](https://reviewgithub.com/rep/IPILabs/shorter-v1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 124 | 69 | 
 | 2022-09-07 | 124 | 69 | 
 
-
-[Detailed charts & statistics for IPILabs/shorter-v1](https://reviewgithub.com/rep/IPILabs/shorter-v1)

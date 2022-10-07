@@ -1,12 +1,14 @@
 # openresty/lua-resty-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 252
 
 ★ Stars: 708
 
 [Open repository](https://github.com/openresty/lua-resty-core)
+
+[Open detailed stats for openresty/lua-resty-core](https://reviewgithub.com/rep/openresty/lua-resty-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 705 | 253 | 
 | 2022-09-08 | 705 | 253 | 
 
-
-[Detailed charts & statistics for openresty/lua-resty-core](https://reviewgithub.com/rep/openresty/lua-resty-core)

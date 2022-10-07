@@ -1,12 +1,14 @@
 # binary-com/perl-Finance-YieldCurve - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-Finance-YieldCurve)
+
+[Open detailed stats for binary-com/perl-Finance-YieldCurve](https://reviewgithub.com/rep/binary-com/perl-Finance-YieldCurve)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Finance-YieldCurve](https://reviewgithub.com/rep/binary-com/perl-Finance-YieldCurve)

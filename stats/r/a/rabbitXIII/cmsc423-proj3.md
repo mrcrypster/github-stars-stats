@@ -1,12 +1,14 @@
 # rabbitXIII/cmsc423-proj3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/rabbitXIII/cmsc423-proj3)
+
+[Open detailed stats for rabbitXIII/cmsc423-proj3](https://reviewgithub.com/rep/rabbitXIII/cmsc423-proj3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | - | - | 
 | 2022-09-13 | - | - | 
 
-
-[Detailed charts & statistics for rabbitXIII/cmsc423-proj3](https://reviewgithub.com/rep/rabbitXIII/cmsc423-proj3)

@@ -1,12 +1,14 @@
 # macs-lab/macs-arb-adaptive-regulation-benchmark - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 4
 
 [Open repository](https://github.com/macs-lab/macs-arb-adaptive-regulation-benchmark)
+
+[Open detailed stats for macs-lab/macs-arb-adaptive-regulation-benchmark](https://reviewgithub.com/rep/macs-lab/macs-arb-adaptive-regulation-benchmark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 16 | 
 | 2022-09-07 | 4 | 16 | 
 
-
-[Detailed charts & statistics for macs-lab/macs-arb-adaptive-regulation-benchmark](https://reviewgithub.com/rep/macs-lab/macs-arb-adaptive-regulation-benchmark)

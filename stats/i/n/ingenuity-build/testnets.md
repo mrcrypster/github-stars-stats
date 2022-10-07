@@ -1,12 +1,14 @@
 # ingenuity-build/testnets - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 150
 
 ★ Stars: 49
 
 [Open repository](https://github.com/ingenuity-build/testnets)
+
+[Open detailed stats for ingenuity-build/testnets](https://reviewgithub.com/rep/ingenuity-build/testnets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 48 | 151 | 
 | 2022-09-08 | 48 | 151 | 
 
-
-[Detailed charts & statistics for ingenuity-build/testnets](https://reviewgithub.com/rep/ingenuity-build/testnets)

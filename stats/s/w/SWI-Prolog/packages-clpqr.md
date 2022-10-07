@@ -1,12 +1,14 @@
 # SWI-Prolog/packages-clpqr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 6
 
 [Open repository](https://github.com/SWI-Prolog/packages-clpqr)
+
+[Open detailed stats for SWI-Prolog/packages-clpqr](https://reviewgithub.com/rep/SWI-Prolog/packages-clpqr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 7 | 
 | 2022-09-07 | 6 | 7 | 
 
-
-[Detailed charts & statistics for SWI-Prolog/packages-clpqr](https://reviewgithub.com/rep/SWI-Prolog/packages-clpqr)

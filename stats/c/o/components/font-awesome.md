@@ -1,12 +1,14 @@
 # components/font-awesome - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 56
 
 ★ Stars: 188
 
 [Open repository](https://github.com/components/font-awesome)
+
+[Open detailed stats for components/font-awesome](https://reviewgithub.com/rep/components/font-awesome)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 188 | 56 | 
 | 2022-09-08 | 188 | 56 | 
 
-
-[Detailed charts & statistics for components/font-awesome](https://reviewgithub.com/rep/components/font-awesome)

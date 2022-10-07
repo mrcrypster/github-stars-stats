@@ -1,12 +1,14 @@
 # fazeelkhalid/Database-management-system - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/fazeelkhalid/Database-management-system)
+
+[Open detailed stats for fazeelkhalid/Database-management-system](https://reviewgithub.com/rep/fazeelkhalid/Database-management-system)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 2 | 
 | 2022-09-08 | 2 | 2 | 
 
-
-[Detailed charts & statistics for fazeelkhalid/Database-management-system](https://reviewgithub.com/rep/fazeelkhalid/Database-management-system)

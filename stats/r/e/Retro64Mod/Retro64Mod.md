@@ -1,12 +1,14 @@
 # Retro64Mod/Retro64Mod - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 110
 
 [Open repository](https://github.com/Retro64Mod/Retro64Mod)
+
+[Open detailed stats for Retro64Mod/Retro64Mod](https://reviewgithub.com/rep/Retro64Mod/Retro64Mod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 109 | 24 | 
 | 2022-09-08 | 109 | 24 | 
 
-
-[Detailed charts & statistics for Retro64Mod/Retro64Mod](https://reviewgithub.com/rep/Retro64Mod/Retro64Mod)

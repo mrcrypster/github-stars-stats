@@ -1,12 +1,14 @@
 # drycc/workflow - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 107
 
 ★ Stars: 802
 
 [Open repository](https://github.com/drycc/workflow)
+
+[Open detailed stats for drycc/workflow](https://reviewgithub.com/rep/drycc/workflow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 804 | 6 | 
 | 2022-09-08 | 805 | 6 | 
 
-
-[Detailed charts & statistics for drycc/workflow](https://reviewgithub.com/rep/drycc/workflow)

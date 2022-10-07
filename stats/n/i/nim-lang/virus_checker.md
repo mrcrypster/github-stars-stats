@@ -1,12 +1,14 @@
 # nim-lang/virus_checker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 20
 
 [Open repository](https://github.com/nim-lang/virus_checker)
+
+[Open detailed stats for nim-lang/virus_checker](https://reviewgithub.com/rep/nim-lang/virus_checker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 1 | 
 | 2022-09-08 | 19 | 1 | 
 
-
-[Detailed charts & statistics for nim-lang/virus_checker](https://reviewgithub.com/rep/nim-lang/virus_checker)

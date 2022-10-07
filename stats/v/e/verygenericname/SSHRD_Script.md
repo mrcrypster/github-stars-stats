@@ -1,12 +1,14 @@
 # verygenericname/SSHRD_Script - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 45
 
 ★ Stars: 93
 
 [Open repository](https://github.com/verygenericname/SSHRD_Script)
+
+[Open detailed stats for verygenericname/SSHRD_Script](https://reviewgithub.com/rep/verygenericname/SSHRD_Script)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 48 | 31 | 
 | 2022-09-11 | 46 | 31 | 
 
-
-[Detailed charts & statistics for verygenericname/SSHRD_Script](https://reviewgithub.com/rep/verygenericname/SSHRD_Script)

@@ -1,12 +1,14 @@
 # aleksandr-vin/Google-Code-Jam-Practice - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/aleksandr-vin/Google-Code-Jam-Practice)
+
+[Open detailed stats for aleksandr-vin/Google-Code-Jam-Practice](https://reviewgithub.com/rep/aleksandr-vin/Google-Code-Jam-Practice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | - | 
 | 2022-09-08 | 5 | - | 
 
-
-[Detailed charts & statistics for aleksandr-vin/Google-Code-Jam-Practice](https://reviewgithub.com/rep/aleksandr-vin/Google-Code-Jam-Practice)

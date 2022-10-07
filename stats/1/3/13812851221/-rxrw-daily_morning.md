@@ -1,12 +1,14 @@
 # 13812851221/-rxrw-daily_morning - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1539
 
 ★ Stars: 401
 
 [Open repository](https://github.com/13812851221/-rxrw-daily_morning)
+
+[Open detailed stats for 13812851221/-rxrw-daily_morning](https://reviewgithub.com/rep/13812851221/-rxrw-daily_morning)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 126 | 410 | 
 | 2022-09-07 | 126 | 408 | 
 
-
-[Detailed charts & statistics for 13812851221/-rxrw-daily_morning](https://reviewgithub.com/rep/13812851221/-rxrw-daily_morning)

@@ -1,12 +1,14 @@
 # bnb-chain/docs-site - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 220
 
 ★ Stars: 328
 
 [Open repository](https://github.com/bnb-chain/docs-site)
+
+[Open detailed stats for bnb-chain/docs-site](https://reviewgithub.com/rep/bnb-chain/docs-site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 329 | 218 | 
 | 2022-09-07 | 329 | 218 | 
 
-
-[Detailed charts & statistics for bnb-chain/docs-site](https://reviewgithub.com/rep/bnb-chain/docs-site)

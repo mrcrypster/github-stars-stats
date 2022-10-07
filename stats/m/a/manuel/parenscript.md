@@ -1,12 +1,14 @@
 # manuel/parenscript - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/manuel/parenscript)
+
+[Open detailed stats for manuel/parenscript](https://reviewgithub.com/rep/manuel/parenscript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-14 | - | - | 
 | 2022-09-13 | - | - | 
 
-
-[Detailed charts & statistics for manuel/parenscript](https://reviewgithub.com/rep/manuel/parenscript)

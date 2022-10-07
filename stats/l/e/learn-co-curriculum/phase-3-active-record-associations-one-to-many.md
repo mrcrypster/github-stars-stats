@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-active-record-associations-one-to-many - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1271
 
 ★ Stars: 2
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-active-record-associations-one-to-many)
+
+[Open detailed stats for learn-co-curriculum/phase-3-active-record-associations-one-to-many](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-active-record-associations-one-to-many)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1200 | 
 | 2022-09-07 | - | 1192 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-active-record-associations-one-to-many](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-active-record-associations-one-to-many)

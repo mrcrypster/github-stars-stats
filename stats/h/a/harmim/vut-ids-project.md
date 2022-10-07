@@ -1,12 +1,14 @@
 # harmim/vut-ids-project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/harmim/vut-ids-project)
+
+[Open detailed stats for harmim/vut-ids-project](https://reviewgithub.com/rep/harmim/vut-ids-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 5 | 
 | 2022-09-08 | - | 5 | 
 
-
-[Detailed charts & statistics for harmim/vut-ids-project](https://reviewgithub.com/rep/harmim/vut-ids-project)

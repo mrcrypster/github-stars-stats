@@ -1,12 +1,14 @@
 # velas/JsWallet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 18
 
 [Open repository](https://github.com/velas/JsWallet)
+
+[Open detailed stats for velas/JsWallet](https://reviewgithub.com/rep/velas/JsWallet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 14 | 
 | 2022-09-07 | 16 | 14 | 
 
-
-[Detailed charts & statistics for velas/JsWallet](https://reviewgithub.com/rep/velas/JsWallet)

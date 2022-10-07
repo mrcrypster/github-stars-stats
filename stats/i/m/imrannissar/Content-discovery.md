@@ -1,12 +1,14 @@
 # imrannissar/Content-discovery - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 74
 
 [Open repository](https://github.com/imrannissar/Content-discovery)
+
+[Open detailed stats for imrannissar/Content-discovery](https://reviewgithub.com/rep/imrannissar/Content-discovery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 72 | 19 | 
 | 2022-09-08 | 72 | 19 | 
 
-
-[Detailed charts & statistics for imrannissar/Content-discovery](https://reviewgithub.com/rep/imrannissar/Content-discovery)

@@ -1,12 +1,14 @@
 # HubSpot/BuckyServer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 195
 
 [Open repository](https://github.com/HubSpot/BuckyServer)
+
+[Open detailed stats for HubSpot/BuckyServer](https://reviewgithub.com/rep/HubSpot/BuckyServer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 195 | 33 | 
 | 2022-09-07 | 195 | 33 | 
 
-
-[Detailed charts & statistics for HubSpot/BuckyServer](https://reviewgithub.com/rep/HubSpot/BuckyServer)

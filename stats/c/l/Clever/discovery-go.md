@@ -1,12 +1,14 @@
 # Clever/discovery-go - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/Clever/discovery-go)
+
+[Open detailed stats for Clever/discovery-go](https://reviewgithub.com/rep/Clever/discovery-go)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
 
-
-[Detailed charts & statistics for Clever/discovery-go](https://reviewgithub.com/rep/Clever/discovery-go)

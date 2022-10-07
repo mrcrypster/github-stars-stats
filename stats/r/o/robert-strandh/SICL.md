@@ -1,12 +1,14 @@
 # robert-strandh/SICL - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 76
 
 ★ Stars: 968
 
 [Open repository](https://github.com/robert-strandh/SICL)
+
+[Open detailed stats for robert-strandh/SICL](https://reviewgithub.com/rep/robert-strandh/SICL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 963 | 74 | 
 | 2022-09-08 | 964 | 74 | 
 
-
-[Detailed charts & statistics for robert-strandh/SICL](https://reviewgithub.com/rep/robert-strandh/SICL)

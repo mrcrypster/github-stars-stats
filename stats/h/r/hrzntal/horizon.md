@@ -1,12 +1,14 @@
 # hrzntal/horizon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 51
 
 ★ Stars: 16
 
 [Open repository](https://github.com/hrzntal/horizon)
+
+[Open detailed stats for hrzntal/horizon](https://reviewgithub.com/rep/hrzntal/horizon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 51 | 
 | 2022-09-07 | 16 | 51 | 
 
-
-[Detailed charts & statistics for hrzntal/horizon](https://reviewgithub.com/rep/hrzntal/horizon)

@@ -1,12 +1,14 @@
 # praeclarum/Iril - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 82
 
 [Open repository](https://github.com/praeclarum/Iril)
+
+[Open detailed stats for praeclarum/Iril](https://reviewgithub.com/rep/praeclarum/Iril)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 78 | 7 | 
 | 2022-09-08 | 78 | 7 | 
 
-
-[Detailed charts & statistics for praeclarum/Iril](https://reviewgithub.com/rep/praeclarum/Iril)

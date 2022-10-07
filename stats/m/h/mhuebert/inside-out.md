@@ -1,12 +1,14 @@
 # mhuebert/inside-out - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 19
 
 [Open repository](https://github.com/mhuebert/inside-out)
+
+[Open detailed stats for mhuebert/inside-out](https://reviewgithub.com/rep/mhuebert/inside-out)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 2 | 
 | 2022-09-07 | 18 | 2 | 
 
-
-[Detailed charts & statistics for mhuebert/inside-out](https://reviewgithub.com/rep/mhuebert/inside-out)

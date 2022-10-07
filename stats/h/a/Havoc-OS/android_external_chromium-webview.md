@@ -1,12 +1,14 @@
 # Havoc-OS/android_external_chromium-webview - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Havoc-OS/android_external_chromium-webview)
+
+[Open detailed stats for Havoc-OS/android_external_chromium-webview](https://reviewgithub.com/rep/Havoc-OS/android_external_chromium-webview)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for Havoc-OS/android_external_chromium-webview](https://reviewgithub.com/rep/Havoc-OS/android_external_chromium-webview)

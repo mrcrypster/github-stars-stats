@@ -1,12 +1,14 @@
 # emacs-straight/xref - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/emacs-straight/xref)
+
+[Open detailed stats for emacs-straight/xref](https://reviewgithub.com/rep/emacs-straight/xref)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for emacs-straight/xref](https://reviewgithub.com/rep/emacs-straight/xref)

@@ -1,12 +1,14 @@
 # NOAA-EMC/CMakeModules - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 2
 
 [Open repository](https://github.com/NOAA-EMC/CMakeModules)
+
+[Open detailed stats for NOAA-EMC/CMakeModules](https://reviewgithub.com/rep/NOAA-EMC/CMakeModules)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 2 | 9 | 
 | 2022-09-30 | 2 | 9 | 
 
-
-[Detailed charts & statistics for NOAA-EMC/CMakeModules](https://reviewgithub.com/rep/NOAA-EMC/CMakeModules)

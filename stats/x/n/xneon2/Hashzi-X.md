@@ -1,12 +1,14 @@
 # xneon2/Hashzi-X - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 450
 
 ★ Stars: 48
 
 [Open repository](https://github.com/xneon2/Hashzi-X)
+
+[Open detailed stats for xneon2/Hashzi-X](https://reviewgithub.com/rep/xneon2/Hashzi-X)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 45 | 451 | 
 | 2022-09-07 | 45 | 451 | 
 
-
-[Detailed charts & statistics for xneon2/Hashzi-X](https://reviewgithub.com/rep/xneon2/Hashzi-X)

@@ -1,12 +1,14 @@
 # kovidgoyal/kitty - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 752
 
 ★ Stars: 16197
 
 [Open repository](https://github.com/kovidgoyal/kitty)
+
+[Open detailed stats for kovidgoyal/kitty](https://reviewgithub.com/rep/kovidgoyal/kitty)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 15914 | 741 | 
 | 2022-09-08 | 15905 | 742 | 
 
-
-[Detailed charts & statistics for kovidgoyal/kitty](https://reviewgithub.com/rep/kovidgoyal/kitty)

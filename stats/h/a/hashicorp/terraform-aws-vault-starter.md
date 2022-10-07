@@ -1,12 +1,14 @@
 # hashicorp/terraform-aws-vault-starter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 68
 
 [Open repository](https://github.com/hashicorp/terraform-aws-vault-starter)
+
+[Open detailed stats for hashicorp/terraform-aws-vault-starter](https://reviewgithub.com/rep/hashicorp/terraform-aws-vault-starter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 65 | 46 | 
 | 2022-09-07 | 65 | 46 | 
 
-
-[Detailed charts & statistics for hashicorp/terraform-aws-vault-starter](https://reviewgithub.com/rep/hashicorp/terraform-aws-vault-starter)

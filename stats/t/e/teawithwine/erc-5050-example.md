@@ -1,12 +1,14 @@
 # teawithwine/erc-5050-example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 10
 
 [Open repository](https://github.com/teawithwine/erc-5050-example)
+
+[Open detailed stats for teawithwine/erc-5050-example](https://reviewgithub.com/rep/teawithwine/erc-5050-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 5 | 
 | 2022-09-07 | 10 | 5 | 
 
-
-[Detailed charts & statistics for teawithwine/erc-5050-example](https://reviewgithub.com/rep/teawithwine/erc-5050-example)

@@ -1,12 +1,14 @@
 # caneraltinbasak/Community-APIs-for-AIR - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/caneraltinbasak/Community-APIs-for-AIR)
+
+[Open detailed stats for caneraltinbasak/Community-APIs-for-AIR](https://reviewgithub.com/rep/caneraltinbasak/Community-APIs-for-AIR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 11 | 
 | 2022-09-07 | - | 11 | 
 
-
-[Detailed charts & statistics for caneraltinbasak/Community-APIs-for-AIR](https://reviewgithub.com/rep/caneraltinbasak/Community-APIs-for-AIR)

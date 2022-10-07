@@ -1,12 +1,14 @@
 # axxia/meta-intel-axxia - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 6
 
 [Open repository](https://github.com/axxia/meta-intel-axxia)
+
+[Open detailed stats for axxia/meta-intel-axxia](https://reviewgithub.com/rep/axxia/meta-intel-axxia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 5 | 
 | 2022-09-07 | 6 | 5 | 
 
-
-[Detailed charts & statistics for axxia/meta-intel-axxia](https://reviewgithub.com/rep/axxia/meta-intel-axxia)

@@ -1,12 +1,14 @@
 # alanzoppa/gburg - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/alanzoppa/gburg)
+
+[Open detailed stats for alanzoppa/gburg](https://reviewgithub.com/rep/alanzoppa/gburg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for alanzoppa/gburg](https://reviewgithub.com/rep/alanzoppa/gburg)

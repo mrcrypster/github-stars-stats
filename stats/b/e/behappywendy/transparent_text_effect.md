@@ -1,12 +1,14 @@
 # behappywendy/transparent_text_effect - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/behappywendy/transparent_text_effect)
+
+[Open detailed stats for behappywendy/transparent_text_effect](https://reviewgithub.com/rep/behappywendy/transparent_text_effect)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 5 | 
 | 2022-09-08 | - | 5 | 
 
-
-[Detailed charts & statistics for behappywendy/transparent_text_effect](https://reviewgithub.com/rep/behappywendy/transparent_text_effect)

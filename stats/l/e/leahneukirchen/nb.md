@@ -1,12 +1,14 @@
 # leahneukirchen/nb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 20
 
 [Open repository](https://github.com/leahneukirchen/nb)
+
+[Open detailed stats for leahneukirchen/nb](https://reviewgithub.com/rep/leahneukirchen/nb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 19 | - | 
 | 2022-09-07 | 19 | - | 
 
-
-[Detailed charts & statistics for leahneukirchen/nb](https://reviewgithub.com/rep/leahneukirchen/nb)

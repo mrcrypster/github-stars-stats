@@ -1,12 +1,14 @@
 # n3tr/JKLanguageBundle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/n3tr/JKLanguageBundle)
+
+[Open detailed stats for n3tr/JKLanguageBundle](https://reviewgithub.com/rep/n3tr/JKLanguageBundle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for n3tr/JKLanguageBundle](https://reviewgithub.com/rep/n3tr/JKLanguageBundle)

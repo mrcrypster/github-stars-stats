@@ -1,12 +1,14 @@
 # ministryofjustice/hmpps-helm-charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ministryofjustice/hmpps-helm-charts)
+
+[Open detailed stats for ministryofjustice/hmpps-helm-charts](https://reviewgithub.com/rep/ministryofjustice/hmpps-helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 2 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for ministryofjustice/hmpps-helm-charts](https://reviewgithub.com/rep/ministryofjustice/hmpps-helm-charts)

@@ -1,12 +1,14 @@
 # disney/terraform-aws-kinesis-firehose-splunk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 49
 
 [Open repository](https://github.com/disney/terraform-aws-kinesis-firehose-splunk)
+
+[Open detailed stats for disney/terraform-aws-kinesis-firehose-splunk](https://reviewgithub.com/rep/disney/terraform-aws-kinesis-firehose-splunk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 48 | 33 | 
 | 2022-09-08 | 48 | 33 | 
 
-
-[Detailed charts & statistics for disney/terraform-aws-kinesis-firehose-splunk](https://reviewgithub.com/rep/disney/terraform-aws-kinesis-firehose-splunk)

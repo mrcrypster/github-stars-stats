@@ -1,12 +1,14 @@
 # purcell/envrc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 209
 
 [Open repository](https://github.com/purcell/envrc)
+
+[Open detailed stats for purcell/envrc](https://reviewgithub.com/rep/purcell/envrc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 207 | 17 | 
 | 2022-09-08 | 206 | 17 | 
 
-
-[Detailed charts & statistics for purcell/envrc](https://reviewgithub.com/rep/purcell/envrc)

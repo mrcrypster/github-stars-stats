@@ -1,12 +1,14 @@
 # Queuete/ExileApi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 109
 
 ★ Stars: 155
 
 [Open repository](https://github.com/Queuete/ExileApi)
+
+[Open detailed stats for Queuete/ExileApi](https://reviewgithub.com/rep/Queuete/ExileApi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 154 | 106 | 
 | 2022-09-07 | 154 | 106 | 
 
-
-[Detailed charts & statistics for Queuete/ExileApi](https://reviewgithub.com/rep/Queuete/ExileApi)

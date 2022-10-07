@@ -1,12 +1,14 @@
 # nishimaki10/emacs-phpcbf - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 20
 
 [Open repository](https://github.com/nishimaki10/emacs-phpcbf)
+
+[Open detailed stats for nishimaki10/emacs-phpcbf](https://reviewgithub.com/rep/nishimaki10/emacs-phpcbf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 7 | 
 | 2022-09-08 | 20 | 7 | 
 
-
-[Detailed charts & statistics for nishimaki10/emacs-phpcbf](https://reviewgithub.com/rep/nishimaki10/emacs-phpcbf)

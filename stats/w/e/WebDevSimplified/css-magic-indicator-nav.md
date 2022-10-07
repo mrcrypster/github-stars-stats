@@ -1,12 +1,14 @@
 # WebDevSimplified/css-magic-indicator-nav - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 39
 
 [Open repository](https://github.com/WebDevSimplified/css-magic-indicator-nav)
+
+[Open detailed stats for WebDevSimplified/css-magic-indicator-nav](https://reviewgithub.com/rep/WebDevSimplified/css-magic-indicator-nav)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 21 | 
 | 2022-09-07 | 36 | 21 | 
 
-
-[Detailed charts & statistics for WebDevSimplified/css-magic-indicator-nav](https://reviewgithub.com/rep/WebDevSimplified/css-magic-indicator-nav)

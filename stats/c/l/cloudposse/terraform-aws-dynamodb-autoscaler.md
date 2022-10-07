@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-dynamodb-autoscaler - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 21
 
 [Open repository](https://github.com/cloudposse/terraform-aws-dynamodb-autoscaler)
+
+[Open detailed stats for cloudposse/terraform-aws-dynamodb-autoscaler](https://reviewgithub.com/rep/cloudposse/terraform-aws-dynamodb-autoscaler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 32 | 
 | 2022-09-07 | 21 | 31 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-dynamodb-autoscaler](https://reviewgithub.com/rep/cloudposse/terraform-aws-dynamodb-autoscaler)

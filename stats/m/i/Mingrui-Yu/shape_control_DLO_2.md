@@ -1,12 +1,14 @@
 # Mingrui-Yu/shape_control_DLO_2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/Mingrui-Yu/shape_control_DLO_2)
+
+[Open detailed stats for Mingrui-Yu/shape_control_DLO_2](https://reviewgithub.com/rep/Mingrui-Yu/shape_control_DLO_2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 8 | - | 
 | 2022-10-02 | 8 | - | 
 
-
-[Detailed charts & statistics for Mingrui-Yu/shape_control_DLO_2](https://reviewgithub.com/rep/Mingrui-Yu/shape_control_DLO_2)

@@ -1,12 +1,14 @@
 # mclear-tools/citar-capf - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 12
 
 [Open repository](https://github.com/mclear-tools/citar-capf)
+
+[Open detailed stats for mclear-tools/citar-capf](https://reviewgithub.com/rep/mclear-tools/citar-capf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 1 | 
 | 2022-09-07 | 13 | 1 | 
 
-
-[Detailed charts & statistics for mclear-tools/citar-capf](https://reviewgithub.com/rep/mclear-tools/citar-capf)

@@ -1,12 +1,14 @@
 # creativetimofficial/now-ui-dashboard - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 70
 
 ★ Stars: 182
 
 [Open repository](https://github.com/creativetimofficial/now-ui-dashboard)
+
+[Open detailed stats for creativetimofficial/now-ui-dashboard](https://reviewgithub.com/rep/creativetimofficial/now-ui-dashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 180 | 63 | 
 | 2022-09-16 | 180 | 63 | 
 
-
-[Detailed charts & statistics for creativetimofficial/now-ui-dashboard](https://reviewgithub.com/rep/creativetimofficial/now-ui-dashboard)

@@ -1,12 +1,14 @@
 # museapphq/infinitecanvas.tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 46
 
 [Open repository](https://github.com/museapphq/infinitecanvas.tools)
+
+[Open detailed stats for museapphq/infinitecanvas.tools](https://reviewgithub.com/rep/museapphq/infinitecanvas.tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | 38 | 8 | 
 | 2022-10-01 | 37 | 7 | 
 
-
-[Detailed charts & statistics for museapphq/infinitecanvas.tools](https://reviewgithub.com/rep/museapphq/infinitecanvas.tools)

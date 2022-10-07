@@ -1,12 +1,14 @@
 # NickCellino/clj-browser-eval - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/NickCellino/clj-browser-eval)
+
+[Open detailed stats for NickCellino/clj-browser-eval](https://reviewgithub.com/rep/NickCellino/clj-browser-eval)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | - | 
 | 2022-09-07 | 14 | - | 
 
-
-[Detailed charts & statistics for NickCellino/clj-browser-eval](https://reviewgithub.com/rep/NickCellino/clj-browser-eval)

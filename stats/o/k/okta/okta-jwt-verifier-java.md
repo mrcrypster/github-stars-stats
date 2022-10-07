@@ -1,12 +1,14 @@
 # okta/okta-jwt-verifier-java - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 70
 
 [Open repository](https://github.com/okta/okta-jwt-verifier-java)
+
+[Open detailed stats for okta/okta-jwt-verifier-java](https://reviewgithub.com/rep/okta/okta-jwt-verifier-java)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 69 | 36 | 
 | 2022-09-08 | 69 | 36 | 
 
-
-[Detailed charts & statistics for okta/okta-jwt-verifier-java](https://reviewgithub.com/rep/okta/okta-jwt-verifier-java)

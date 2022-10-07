@@ -1,12 +1,14 @@
 # fastly/fastly-perl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 16
 
 [Open repository](https://github.com/fastly/fastly-perl)
+
+[Open detailed stats for fastly/fastly-perl](https://reviewgithub.com/rep/fastly/fastly-perl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 8 | 
 | 2022-09-08 | 16 | 8 | 
 
-
-[Detailed charts & statistics for fastly/fastly-perl](https://reviewgithub.com/rep/fastly/fastly-perl)

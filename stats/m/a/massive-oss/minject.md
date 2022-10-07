@@ -1,12 +1,14 @@
 # massive-oss/minject - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 53
 
 [Open repository](https://github.com/massive-oss/minject)
+
+[Open detailed stats for massive-oss/minject](https://reviewgithub.com/rep/massive-oss/minject)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 53 | 20 | 
 | 2022-09-08 | 53 | 20 | 
 
-
-[Detailed charts & statistics for massive-oss/minject](https://reviewgithub.com/rep/massive-oss/minject)

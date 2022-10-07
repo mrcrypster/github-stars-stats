@@ -1,12 +1,14 @@
 # sisl/AA222Project2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sisl/AA222Project2)
+
+[Open detailed stats for sisl/AA222Project2](https://reviewgithub.com/rep/sisl/AA222Project2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 12 | 
 | 2022-09-07 | 1 | 12 | 
 
-
-[Detailed charts & statistics for sisl/AA222Project2](https://reviewgithub.com/rep/sisl/AA222Project2)

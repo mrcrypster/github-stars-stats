@@ -1,12 +1,14 @@
 # bmuller/telemetry_metrics_cloudwatch - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 17
 
 [Open repository](https://github.com/bmuller/telemetry_metrics_cloudwatch)
+
+[Open detailed stats for bmuller/telemetry_metrics_cloudwatch](https://reviewgithub.com/rep/bmuller/telemetry_metrics_cloudwatch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 6 | 
 | 2022-09-08 | 17 | 6 | 
 
-
-[Detailed charts & statistics for bmuller/telemetry_metrics_cloudwatch](https://reviewgithub.com/rep/bmuller/telemetry_metrics_cloudwatch)

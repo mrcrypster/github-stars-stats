@@ -1,12 +1,14 @@
 # philipplackner/WeatherApp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 80
 
 [Open repository](https://github.com/philipplackner/WeatherApp)
+
+[Open detailed stats for philipplackner/WeatherApp](https://reviewgithub.com/rep/philipplackner/WeatherApp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 73 | 30 | 
 | 2022-09-07 | 72 | 30 | 
 
-
-[Detailed charts & statistics for philipplackner/WeatherApp](https://reviewgithub.com/rep/philipplackner/WeatherApp)

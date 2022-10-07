@@ -1,12 +1,14 @@
 # davidmiller/dizzee - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 83
 
 [Open repository](https://github.com/davidmiller/dizzee)
+
+[Open detailed stats for davidmiller/dizzee](https://reviewgithub.com/rep/davidmiller/dizzee)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | 76 | 8 | 
 | 2022-09-24 | 76 | 8 | 
 
-
-[Detailed charts & statistics for davidmiller/dizzee](https://reviewgithub.com/rep/davidmiller/dizzee)

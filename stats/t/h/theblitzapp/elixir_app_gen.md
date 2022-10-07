@@ -1,12 +1,14 @@
 # theblitzapp/elixir_app_gen - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/theblitzapp/elixir_app_gen)
+
+[Open detailed stats for theblitzapp/elixir_app_gen](https://reviewgithub.com/rep/theblitzapp/elixir_app_gen)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | - | 
 | 2022-09-07 | 4 | - | 
 
-
-[Detailed charts & statistics for theblitzapp/elixir_app_gen](https://reviewgithub.com/rep/theblitzapp/elixir_app_gen)

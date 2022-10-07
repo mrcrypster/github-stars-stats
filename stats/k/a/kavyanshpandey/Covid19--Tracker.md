@@ -1,12 +1,14 @@
 # kavyanshpandey/Covid19--Tracker - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 294
 
 ★ Stars: 18
 
 [Open repository](https://github.com/kavyanshpandey/Covid19--Tracker)
+
+[Open detailed stats for kavyanshpandey/Covid19--Tracker](https://reviewgithub.com/rep/kavyanshpandey/Covid19--Tracker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 18 | 282 | 
 | 2022-10-02 | 18 | 282 | 
 
-
-[Detailed charts & statistics for kavyanshpandey/Covid19--Tracker](https://reviewgithub.com/rep/kavyanshpandey/Covid19--Tracker)

@@ -1,12 +1,14 @@
 # pharo-contributions/XML-XMLParser - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 6
 
 [Open repository](https://github.com/pharo-contributions/XML-XMLParser)
+
+[Open detailed stats for pharo-contributions/XML-XMLParser](https://reviewgithub.com/rep/pharo-contributions/XML-XMLParser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 8 | 
 | 2022-09-07 | 6 | 8 | 
 
-
-[Detailed charts & statistics for pharo-contributions/XML-XMLParser](https://reviewgithub.com/rep/pharo-contributions/XML-XMLParser)

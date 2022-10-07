@@ -1,12 +1,14 @@
 # lictpu/help - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 0
 
 [Open repository](https://github.com/lictpu/help)
+
+[Open detailed stats for lictpu/help](https://reviewgithub.com/rep/lictpu/help)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | - | 19 | 
 | 2022-10-02 | - | 18 | 
 
-
-[Detailed charts & statistics for lictpu/help](https://reviewgithub.com/rep/lictpu/help)

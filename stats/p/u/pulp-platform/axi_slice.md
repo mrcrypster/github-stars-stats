@@ -1,12 +1,14 @@
 # pulp-platform/axi_slice - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 3
 
 [Open repository](https://github.com/pulp-platform/axi_slice)
+
+[Open detailed stats for pulp-platform/axi_slice](https://reviewgithub.com/rep/pulp-platform/axi_slice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 14 | 
 | 2022-09-07 | 3 | 14 | 
 
-
-[Detailed charts & statistics for pulp-platform/axi_slice](https://reviewgithub.com/rep/pulp-platform/axi_slice)

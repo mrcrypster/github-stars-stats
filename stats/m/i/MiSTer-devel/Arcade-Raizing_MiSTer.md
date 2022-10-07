@@ -1,12 +1,14 @@
 # MiSTer-devel/Arcade-Raizing_MiSTer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 15
 
 [Open repository](https://github.com/MiSTer-devel/Arcade-Raizing_MiSTer)
+
+[Open detailed stats for MiSTer-devel/Arcade-Raizing_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/Arcade-Raizing_MiSTer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 7 | 
 | 2022-09-07 | 13 | 7 | 
 
-
-[Detailed charts & statistics for MiSTer-devel/Arcade-Raizing_MiSTer](https://reviewgithub.com/rep/MiSTer-devel/Arcade-Raizing_MiSTer)

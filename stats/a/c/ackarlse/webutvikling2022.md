@@ -1,12 +1,14 @@
 # ackarlse/webutvikling2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ackarlse/webutvikling2022)
+
+[Open detailed stats for ackarlse/webutvikling2022](https://reviewgithub.com/rep/ackarlse/webutvikling2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-23 | - | 12 | 
 | 2022-09-22 | - | 11 | 
 
-
-[Detailed charts & statistics for ackarlse/webutvikling2022](https://reviewgithub.com/rep/ackarlse/webutvikling2022)

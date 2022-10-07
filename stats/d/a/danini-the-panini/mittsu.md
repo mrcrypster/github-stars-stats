@@ -1,12 +1,14 @@
 # danini-the-panini/mittsu - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 475
 
 [Open repository](https://github.com/danini-the-panini/mittsu)
+
+[Open detailed stats for danini-the-panini/mittsu](https://reviewgithub.com/rep/danini-the-panini/mittsu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 475 | 30 | 
 | 2022-09-07 | 475 | 30 | 
 
-
-[Detailed charts & statistics for danini-the-panini/mittsu](https://reviewgithub.com/rep/danini-the-panini/mittsu)

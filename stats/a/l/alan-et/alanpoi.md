@@ -1,12 +1,14 @@
 # alan-et/alanpoi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 61
 
 ★ Stars: 86
 
 [Open repository](https://github.com/alan-et/alanpoi)
+
+[Open detailed stats for alan-et/alanpoi](https://reviewgithub.com/rep/alan-et/alanpoi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 87 | 61 | 
 | 2022-09-08 | 87 | 61 | 
 
-
-[Detailed charts & statistics for alan-et/alanpoi](https://reviewgithub.com/rep/alan-et/alanpoi)

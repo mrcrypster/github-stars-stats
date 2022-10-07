@@ -1,12 +1,14 @@
 # ForsenPlace/Script - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 30
 
 [Open repository](https://github.com/ForsenPlace/Script)
+
+[Open detailed stats for ForsenPlace/Script](https://reviewgithub.com/rep/ForsenPlace/Script)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 17 | 
 | 2022-09-07 | 30 | 17 | 
 
-
-[Detailed charts & statistics for ForsenPlace/Script](https://reviewgithub.com/rep/ForsenPlace/Script)

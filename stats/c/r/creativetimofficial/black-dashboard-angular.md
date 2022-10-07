@@ -1,12 +1,14 @@
 # creativetimofficial/black-dashboard-angular - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 85
 
 ★ Stars: 84
 
 [Open repository](https://github.com/creativetimofficial/black-dashboard-angular)
+
+[Open detailed stats for creativetimofficial/black-dashboard-angular](https://reviewgithub.com/rep/creativetimofficial/black-dashboard-angular)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 84 | 75 | 
 | 2022-09-07 | 84 | 74 | 
 
-
-[Detailed charts & statistics for creativetimofficial/black-dashboard-angular](https://reviewgithub.com/rep/creativetimofficial/black-dashboard-angular)

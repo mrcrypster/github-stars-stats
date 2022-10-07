@@ -1,12 +1,14 @@
 # keighl/KTCenterFlowLayout - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 59
 
 ★ Stars: 455
 
 [Open repository](https://github.com/keighl/KTCenterFlowLayout)
+
+[Open detailed stats for keighl/KTCenterFlowLayout](https://reviewgithub.com/rep/keighl/KTCenterFlowLayout)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 454 | 58 | 
 | 2022-09-08 | 454 | 58 | 
 
-
-[Detailed charts & statistics for keighl/KTCenterFlowLayout](https://reviewgithub.com/rep/keighl/KTCenterFlowLayout)

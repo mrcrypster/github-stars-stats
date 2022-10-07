@@ -1,12 +1,14 @@
 # alaCOWzam/Storm-Clouds - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 23
 
 [Open repository](https://github.com/alaCOWzam/Storm-Clouds)
+
+[Open detailed stats for alaCOWzam/Storm-Clouds](https://reviewgithub.com/rep/alaCOWzam/Storm-Clouds)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 4 | 
 | 2022-09-07 | 22 | 4 | 
 
-
-[Detailed charts & statistics for alaCOWzam/Storm-Clouds](https://reviewgithub.com/rep/alaCOWzam/Storm-Clouds)

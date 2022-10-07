@@ -1,12 +1,14 @@
 # relaypro-open/imetrics - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/relaypro-open/imetrics)
+
+[Open detailed stats for relaypro-open/imetrics](https://reviewgithub.com/rep/relaypro-open/imetrics)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | - | 
 | 2022-09-07 | 13 | - | 
 
-
-[Detailed charts & statistics for relaypro-open/imetrics](https://reviewgithub.com/rep/relaypro-open/imetrics)

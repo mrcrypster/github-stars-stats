@@ -1,12 +1,14 @@
 # aleporin/u2_lab_password_validator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 0
 
 [Open repository](https://github.com/aleporin/u2_lab_password_validator)
+
+[Open detailed stats for aleporin/u2_lab_password_validator](https://reviewgithub.com/rep/aleporin/u2_lab_password_validator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 19 | 
 | 2022-09-07 | - | 19 | 
 
-
-[Detailed charts & statistics for aleporin/u2_lab_password_validator](https://reviewgithub.com/rep/aleporin/u2_lab_password_validator)

@@ -1,12 +1,14 @@
 # f-dong/hexo-theme-minimalism - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 34
 
 ★ Stars: 183
 
 [Open repository](https://github.com/f-dong/hexo-theme-minimalism)
+
+[Open detailed stats for f-dong/hexo-theme-minimalism](https://reviewgithub.com/rep/f-dong/hexo-theme-minimalism)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 164 | 32 | 
 | 2022-09-07 | 164 | 32 | 
 
-
-[Detailed charts & statistics for f-dong/hexo-theme-minimalism](https://reviewgithub.com/rep/f-dong/hexo-theme-minimalism)

@@ -1,12 +1,14 @@
 # hansihe/live_data - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 30
 
 [Open repository](https://github.com/hansihe/live_data)
+
+[Open detailed stats for hansihe/live_data](https://reviewgithub.com/rep/hansihe/live_data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | - | 
 | 2022-09-07 | 29 | - | 
 
-
-[Detailed charts & statistics for hansihe/live_data](https://reviewgithub.com/rep/hansihe/live_data)

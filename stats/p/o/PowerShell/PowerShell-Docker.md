@@ -1,12 +1,14 @@
 # PowerShell/PowerShell-Docker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 311
 
 [Open repository](https://github.com/PowerShell/PowerShell-Docker)
+
+[Open detailed stats for PowerShell/PowerShell-Docker](https://reviewgithub.com/rep/PowerShell/PowerShell-Docker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 308 | 133 | 
 | 2022-09-07 | 308 | 133 | 
 
-
-[Detailed charts & statistics for PowerShell/PowerShell-Docker](https://reviewgithub.com/rep/PowerShell/PowerShell-Docker)

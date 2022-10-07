@@ -1,12 +1,14 @@
 # csells/go_router - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 92
 
 ★ Stars: 429
 
 [Open repository](https://github.com/csells/go_router)
+
+[Open detailed stats for csells/go_router](https://reviewgithub.com/rep/csells/go_router)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 421 | 88 | 
 | 2022-09-08 | 421 | 88 | 
 
-
-[Detailed charts & statistics for csells/go_router](https://reviewgithub.com/rep/csells/go_router)

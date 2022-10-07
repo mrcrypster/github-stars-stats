@@ -1,12 +1,14 @@
 # dragonstar/myapp4 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dragonstar/myapp4)
+
+[Open detailed stats for dragonstar/myapp4](https://reviewgithub.com/rep/dragonstar/myapp4)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | - | 
 | 2022-09-11 | - | - | 
 
-
-[Detailed charts & statistics for dragonstar/myapp4](https://reviewgithub.com/rep/dragonstar/myapp4)

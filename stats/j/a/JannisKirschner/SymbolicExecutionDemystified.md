@@ -1,12 +1,14 @@
 # JannisKirschner/SymbolicExecutionDemystified - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 91
 
 [Open repository](https://github.com/JannisKirschner/SymbolicExecutionDemystified)
+
+[Open detailed stats for JannisKirschner/SymbolicExecutionDemystified](https://reviewgithub.com/rep/JannisKirschner/SymbolicExecutionDemystified)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 92 | 14 | 
 | 2022-09-08 | 92 | 14 | 
 
-
-[Detailed charts & statistics for JannisKirschner/SymbolicExecutionDemystified](https://reviewgithub.com/rep/JannisKirschner/SymbolicExecutionDemystified)

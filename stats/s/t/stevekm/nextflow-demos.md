@@ -1,12 +1,14 @@
 # stevekm/nextflow-demos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 76
 
 [Open repository](https://github.com/stevekm/nextflow-demos)
+
+[Open detailed stats for stevekm/nextflow-demos](https://reviewgithub.com/rep/stevekm/nextflow-demos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 76 | 20 | 
 | 2022-09-08 | 76 | 20 | 
 
-
-[Detailed charts & statistics for stevekm/nextflow-demos](https://reviewgithub.com/rep/stevekm/nextflow-demos)

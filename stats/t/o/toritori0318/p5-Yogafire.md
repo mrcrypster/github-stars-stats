@@ -1,12 +1,14 @@
 # toritori0318/p5-Yogafire - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 10
 
 [Open repository](https://github.com/toritori0318/p5-Yogafire)
+
+[Open detailed stats for toritori0318/p5-Yogafire](https://reviewgithub.com/rep/toritori0318/p5-Yogafire)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 3 | 
 | 2022-09-07 | 10 | 3 | 
 
-
-[Detailed charts & statistics for toritori0318/p5-Yogafire](https://reviewgithub.com/rep/toritori0318/p5-Yogafire)

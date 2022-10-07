@@ -1,12 +1,14 @@
 # spendierk/Womanium_Hackathon_TKET_2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 5
 
 [Open repository](https://github.com/spendierk/Womanium_Hackathon_TKET_2022)
+
+[Open detailed stats for spendierk/Womanium_Hackathon_TKET_2022](https://reviewgithub.com/rep/spendierk/Womanium_Hackathon_TKET_2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 6 | 
 | 2022-09-07 | 5 | 6 | 
 
-
-[Detailed charts & statistics for spendierk/Womanium_Hackathon_TKET_2022](https://reviewgithub.com/rep/spendierk/Womanium_Hackathon_TKET_2022)

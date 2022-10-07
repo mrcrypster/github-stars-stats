@@ -1,12 +1,14 @@
 # luwes/js-cover-flow - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 109
 
 [Open repository](https://github.com/luwes/js-cover-flow)
+
+[Open detailed stats for luwes/js-cover-flow](https://reviewgithub.com/rep/luwes/js-cover-flow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 109 | 38 | 
 | 2022-09-17 | 109 | 38 | 
 
-
-[Detailed charts & statistics for luwes/js-cover-flow](https://reviewgithub.com/rep/luwes/js-cover-flow)

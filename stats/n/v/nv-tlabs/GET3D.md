@@ -1,12 +1,14 @@
 # nv-tlabs/GET3D - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 82
 
 ★ Stars: 1766
 
 [Open repository](https://github.com/nv-tlabs/GET3D)
+
+[Open detailed stats for nv-tlabs/GET3D](https://reviewgithub.com/rep/nv-tlabs/GET3D)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | 782 | 18 | 
 | 2022-09-25 | 563 | 12 | 
 
-
-[Detailed charts & statistics for nv-tlabs/GET3D](https://reviewgithub.com/rep/nv-tlabs/GET3D)

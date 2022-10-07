@@ -1,12 +1,14 @@
 # Sunchit/Coding-Decoded - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 207
 
 ★ Stars: 260
 
 [Open repository](https://github.com/Sunchit/Coding-Decoded)
+
+[Open detailed stats for Sunchit/Coding-Decoded](https://reviewgithub.com/rep/Sunchit/Coding-Decoded)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 236 | 195 | 
 | 2022-09-07 | 236 | 194 | 
 
-
-[Detailed charts & statistics for Sunchit/Coding-Decoded](https://reviewgithub.com/rep/Sunchit/Coding-Decoded)

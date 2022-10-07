@@ -1,12 +1,14 @@
 # cs51/lab10_soln - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/cs51/lab10_soln)
+
+[Open detailed stats for cs51/lab10_soln](https://reviewgithub.com/rep/cs51/lab10_soln)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for cs51/lab10_soln](https://reviewgithub.com/rep/cs51/lab10_soln)

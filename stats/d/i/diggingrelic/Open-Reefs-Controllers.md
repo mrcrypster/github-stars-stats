@@ -1,12 +1,14 @@
 # diggingrelic/Open-Reefs-Controllers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 24
 
 [Open repository](https://github.com/diggingrelic/Open-Reefs-Controllers)
+
+[Open detailed stats for diggingrelic/Open-Reefs-Controllers](https://reviewgithub.com/rep/diggingrelic/Open-Reefs-Controllers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 23 | 8 | 
 | 2022-09-08 | 23 | 8 | 
 
-
-[Detailed charts & statistics for diggingrelic/Open-Reefs-Controllers](https://reviewgithub.com/rep/diggingrelic/Open-Reefs-Controllers)

@@ -1,12 +1,14 @@
 # bas080/portal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bas080/portal)
+
+[Open detailed stats for bas080/portal](https://reviewgithub.com/rep/bas080/portal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for bas080/portal](https://reviewgithub.com/rep/bas080/portal)

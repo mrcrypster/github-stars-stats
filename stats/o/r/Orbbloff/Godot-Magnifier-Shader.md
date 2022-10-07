@@ -1,12 +1,14 @@
 # Orbbloff/Godot-Magnifier-Shader - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 15
 
 [Open repository](https://github.com/Orbbloff/Godot-Magnifier-Shader)
+
+[Open detailed stats for Orbbloff/Godot-Magnifier-Shader](https://reviewgithub.com/rep/Orbbloff/Godot-Magnifier-Shader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 15 | - | 
 | 2022-09-07 | 15 | - | 
 
-
-[Detailed charts & statistics for Orbbloff/Godot-Magnifier-Shader](https://reviewgithub.com/rep/Orbbloff/Godot-Magnifier-Shader)

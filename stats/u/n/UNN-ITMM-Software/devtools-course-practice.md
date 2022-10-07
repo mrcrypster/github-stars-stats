@@ -1,12 +1,14 @@
 # UNN-ITMM-Software/devtools-course-practice - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 91
 
 ★ Stars: 0
 
 [Open repository](https://github.com/UNN-ITMM-Software/devtools-course-practice)
+
+[Open detailed stats for UNN-ITMM-Software/devtools-course-practice](https://reviewgithub.com/rep/UNN-ITMM-Software/devtools-course-practice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 91 | 
 | 2022-09-07 | - | 91 | 
 
-
-[Detailed charts & statistics for UNN-ITMM-Software/devtools-course-practice](https://reviewgithub.com/rep/UNN-ITMM-Software/devtools-course-practice)

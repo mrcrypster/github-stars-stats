@@ -1,12 +1,14 @@
 # diegoyon/vet-clinic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/diegoyon/vet-clinic)
+
+[Open detailed stats for diegoyon/vet-clinic](https://reviewgithub.com/rep/diegoyon/vet-clinic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 8 | - | 
 | 2022-09-17 | 8 | - | 
 
-
-[Detailed charts & statistics for diegoyon/vet-clinic](https://reviewgithub.com/rep/diegoyon/vet-clinic)

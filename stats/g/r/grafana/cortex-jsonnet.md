@@ -1,12 +1,14 @@
 # grafana/cortex-jsonnet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 50
 
 ★ Stars: 75
 
 [Open repository](https://github.com/grafana/cortex-jsonnet)
+
+[Open detailed stats for grafana/cortex-jsonnet](https://reviewgithub.com/rep/grafana/cortex-jsonnet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 75 | 50 | 
 | 2022-09-07 | 75 | 50 | 
 
-
-[Detailed charts & statistics for grafana/cortex-jsonnet](https://reviewgithub.com/rep/grafana/cortex-jsonnet)

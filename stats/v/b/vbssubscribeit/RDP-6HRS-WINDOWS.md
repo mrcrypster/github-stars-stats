@@ -1,12 +1,14 @@
 # vbssubscribeit/RDP-6HRS-WINDOWS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 145
 
 ★ Stars: 2
 
 [Open repository](https://github.com/vbssubscribeit/RDP-6HRS-WINDOWS)
+
+[Open detailed stats for vbssubscribeit/RDP-6HRS-WINDOWS](https://reviewgithub.com/rep/vbssubscribeit/RDP-6HRS-WINDOWS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 139 | 
 | 2022-09-08 | 2 | 139 | 
 
-
-[Detailed charts & statistics for vbssubscribeit/RDP-6HRS-WINDOWS](https://reviewgithub.com/rep/vbssubscribeit/RDP-6HRS-WINDOWS)

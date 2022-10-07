@@ -1,12 +1,14 @@
 # PollRobots/scheme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 126
 
 [Open repository](https://github.com/PollRobots/scheme)
+
+[Open detailed stats for PollRobots/scheme](https://reviewgithub.com/rep/PollRobots/scheme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 126 | 4 | 
 | 2022-09-08 | 126 | 4 | 
 
-
-[Detailed charts & statistics for PollRobots/scheme](https://reviewgithub.com/rep/PollRobots/scheme)

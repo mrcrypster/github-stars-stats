@@ -1,12 +1,14 @@
 # stephpy/vim-yaml - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 213
 
 [Open repository](https://github.com/stephpy/vim-yaml)
+
+[Open detailed stats for stephpy/vim-yaml](https://reviewgithub.com/rep/stephpy/vim-yaml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | 213 | 42 | 
 | 2022-09-26 | 213 | 42 | 
 
-
-[Detailed charts & statistics for stephpy/vim-yaml](https://reviewgithub.com/rep/stephpy/vim-yaml)

@@ -1,12 +1,14 @@
 # su2code/Tutorials - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 83
 
 ★ Stars: 8
 
 [Open repository](https://github.com/su2code/Tutorials)
+
+[Open detailed stats for su2code/Tutorials](https://reviewgithub.com/rep/su2code/Tutorials)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 78 | 
 | 2022-09-08 | 8 | 78 | 
 
-
-[Detailed charts & statistics for su2code/Tutorials](https://reviewgithub.com/rep/su2code/Tutorials)

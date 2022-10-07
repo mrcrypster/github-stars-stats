@@ -1,12 +1,14 @@
 # smimram/saml - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 6
 
 [Open repository](https://github.com/smimram/saml)
+
+[Open detailed stats for smimram/saml](https://reviewgithub.com/rep/smimram/saml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 1 | 
 | 2022-09-07 | 6 | 1 | 
 
-
-[Detailed charts & statistics for smimram/saml](https://reviewgithub.com/rep/smimram/saml)

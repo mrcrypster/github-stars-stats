@@ -1,12 +1,14 @@
 # maple-labs/erc20 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 57
 
 [Open repository](https://github.com/maple-labs/erc20)
+
+[Open detailed stats for maple-labs/erc20](https://reviewgithub.com/rep/maple-labs/erc20)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 57 | 7 | 
 | 2022-09-08 | 56 | 7 | 
 
-
-[Detailed charts & statistics for maple-labs/erc20](https://reviewgithub.com/rep/maple-labs/erc20)

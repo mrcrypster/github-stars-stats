@@ -1,12 +1,14 @@
 # racket/scheme-lib - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/racket/scheme-lib)
+
+[Open detailed stats for racket/scheme-lib](https://reviewgithub.com/rep/racket/scheme-lib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for racket/scheme-lib](https://reviewgithub.com/rep/racket/scheme-lib)

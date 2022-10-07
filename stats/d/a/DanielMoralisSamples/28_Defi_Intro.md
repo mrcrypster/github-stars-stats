@@ -1,12 +1,14 @@
 # DanielMoralisSamples/28_Defi_Intro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 58
 
 ★ Stars: 48
 
 [Open repository](https://github.com/DanielMoralisSamples/28_Defi_Intro)
+
+[Open detailed stats for DanielMoralisSamples/28_Defi_Intro](https://reviewgithub.com/rep/DanielMoralisSamples/28_Defi_Intro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 46 | 57 | 
 | 2022-09-08 | 46 | 57 | 
 
-
-[Detailed charts & statistics for DanielMoralisSamples/28_Defi_Intro](https://reviewgithub.com/rep/DanielMoralisSamples/28_Defi_Intro)

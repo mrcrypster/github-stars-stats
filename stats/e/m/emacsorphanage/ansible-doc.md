@@ -1,12 +1,14 @@
 # emacsorphanage/ansible-doc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 28
 
 [Open repository](https://github.com/emacsorphanage/ansible-doc)
+
+[Open detailed stats for emacsorphanage/ansible-doc](https://reviewgithub.com/rep/emacsorphanage/ansible-doc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 6 | 
 | 2022-09-07 | 28 | 6 | 
 
-
-[Detailed charts & statistics for emacsorphanage/ansible-doc](https://reviewgithub.com/rep/emacsorphanage/ansible-doc)

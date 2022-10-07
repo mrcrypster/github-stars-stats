@@ -1,12 +1,14 @@
 # ramujin/ece140_cloud_deployment - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 2
 
 [Open repository](https://github.com/ramujin/ece140_cloud_deployment)
+
+[Open detailed stats for ramujin/ece140_cloud_deployment](https://reviewgithub.com/rep/ramujin/ece140_cloud_deployment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 13 | 
 | 2022-09-07 | 2 | 13 | 
 
-
-[Detailed charts & statistics for ramujin/ece140_cloud_deployment](https://reviewgithub.com/rep/ramujin/ece140_cloud_deployment)

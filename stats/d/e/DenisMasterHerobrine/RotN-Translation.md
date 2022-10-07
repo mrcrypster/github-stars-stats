@@ -1,12 +1,14 @@
 # DenisMasterHerobrine/RotN-Translation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 8
 
 [Open repository](https://github.com/DenisMasterHerobrine/RotN-Translation)
+
+[Open detailed stats for DenisMasterHerobrine/RotN-Translation](https://reviewgithub.com/rep/DenisMasterHerobrine/RotN-Translation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 8 | 6 | 
 | 2022-09-07 | 8 | 6 | 
 
-
-[Detailed charts & statistics for DenisMasterHerobrine/RotN-Translation](https://reviewgithub.com/rep/DenisMasterHerobrine/RotN-Translation)

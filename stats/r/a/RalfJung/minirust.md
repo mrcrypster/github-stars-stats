@@ -1,12 +1,14 @@
 # RalfJung/minirust - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 617
 
 [Open repository](https://github.com/RalfJung/minirust)
+
+[Open detailed stats for RalfJung/minirust](https://reviewgithub.com/rep/RalfJung/minirust)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 604 | 19 | 
 | 2022-09-08 | 603 | 19 | 
 
-
-[Detailed charts & statistics for RalfJung/minirust](https://reviewgithub.com/rep/RalfJung/minirust)

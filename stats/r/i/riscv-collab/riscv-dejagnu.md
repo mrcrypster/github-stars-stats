@@ -1,12 +1,14 @@
 # riscv-collab/riscv-dejagnu - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 83
 
 ★ Stars: 11
 
 [Open repository](https://github.com/riscv-collab/riscv-dejagnu)
+
+[Open detailed stats for riscv-collab/riscv-dejagnu](https://reviewgithub.com/rep/riscv-collab/riscv-dejagnu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 83 | 
 | 2022-09-07 | 11 | 83 | 
 
-
-[Detailed charts & statistics for riscv-collab/riscv-dejagnu](https://reviewgithub.com/rep/riscv-collab/riscv-dejagnu)

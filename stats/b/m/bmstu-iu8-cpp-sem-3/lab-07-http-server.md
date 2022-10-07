@@ -1,12 +1,14 @@
 # bmstu-iu8-cpp-sem-3/lab-07-http-server - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/bmstu-iu8-cpp-sem-3/lab-07-http-server)
+
+[Open detailed stats for bmstu-iu8-cpp-sem-3/lab-07-http-server](https://reviewgithub.com/rep/bmstu-iu8-cpp-sem-3/lab-07-http-server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 9 | 
 | 2022-09-08 | - | 9 | 
 
-
-[Detailed charts & statistics for bmstu-iu8-cpp-sem-3/lab-07-http-server](https://reviewgithub.com/rep/bmstu-iu8-cpp-sem-3/lab-07-http-server)

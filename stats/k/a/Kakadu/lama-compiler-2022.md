@@ -1,12 +1,14 @@
 # Kakadu/lama-compiler-2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Kakadu/lama-compiler-2022)
+
+[Open detailed stats for Kakadu/lama-compiler-2022](https://reviewgithub.com/rep/Kakadu/lama-compiler-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | - | 7 | 
 | 2022-09-15 | - | 7 | 
 
-
-[Detailed charts & statistics for Kakadu/lama-compiler-2022](https://reviewgithub.com/rep/Kakadu/lama-compiler-2022)

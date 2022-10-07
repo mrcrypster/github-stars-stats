@@ -1,12 +1,14 @@
 # ChrisCrossCrash/r-place-blender - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 160
 
 [Open repository](https://github.com/ChrisCrossCrash/r-place-blender)
+
+[Open detailed stats for ChrisCrossCrash/r-place-blender](https://reviewgithub.com/rep/ChrisCrossCrash/r-place-blender)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 160 | 6 | 
 | 2022-09-07 | 160 | 6 | 
 
-
-[Detailed charts & statistics for ChrisCrossCrash/r-place-blender](https://reviewgithub.com/rep/ChrisCrossCrash/r-place-blender)

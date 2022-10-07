@@ -1,12 +1,14 @@
 # ray-x/go.nvim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 55
 
 ★ Stars: 709
 
 [Open repository](https://github.com/ray-x/go.nvim)
+
+[Open detailed stats for ray-x/go.nvim](https://reviewgithub.com/rep/ray-x/go.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 661 | 50 | 
 | 2022-09-08 | 660 | 50 | 
 
-
-[Detailed charts & statistics for ray-x/go.nvim](https://reviewgithub.com/rep/ray-x/go.nvim)

@@ -1,12 +1,14 @@
 # nickrafferty78/Apache-Spark-Is-Fun - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 51
 
 ★ Stars: 1
 
 [Open repository](https://github.com/nickrafferty78/Apache-Spark-Is-Fun)
+
+[Open detailed stats for nickrafferty78/Apache-Spark-Is-Fun](https://reviewgithub.com/rep/nickrafferty78/Apache-Spark-Is-Fun)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 1 | 51 | 
 | 2022-09-21 | 1 | 51 | 
 
-
-[Detailed charts & statistics for nickrafferty78/Apache-Spark-Is-Fun](https://reviewgithub.com/rep/nickrafferty78/Apache-Spark-Is-Fun)

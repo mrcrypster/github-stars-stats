@@ -1,12 +1,14 @@
 # feenkcom/gt4json - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/feenkcom/gt4json)
+
+[Open detailed stats for feenkcom/gt4json](https://reviewgithub.com/rep/feenkcom/gt4json)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for feenkcom/gt4json](https://reviewgithub.com/rep/feenkcom/gt4json)

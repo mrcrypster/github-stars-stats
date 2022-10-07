@@ -1,12 +1,14 @@
 # vektra/mockery - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 311
 
 ★ Stars: 3925
 
 [Open repository](https://github.com/vektra/mockery)
+
+[Open detailed stats for vektra/mockery](https://reviewgithub.com/rep/vektra/mockery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3853 | 302 | 
 | 2022-09-07 | 3852 | 302 | 
 
-
-[Detailed charts & statistics for vektra/mockery](https://reviewgithub.com/rep/vektra/mockery)

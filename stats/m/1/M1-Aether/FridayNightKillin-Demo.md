@@ -1,12 +1,14 @@
 # M1-Aether/FridayNightKillin-Demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 3
 
 [Open repository](https://github.com/M1-Aether/FridayNightKillin-Demo)
+
+[Open detailed stats for M1-Aether/FridayNightKillin-Demo](https://reviewgithub.com/rep/M1-Aether/FridayNightKillin-Demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 10 | 
 | 2022-09-07 | 2 | 10 | 
 
-
-[Detailed charts & statistics for M1-Aether/FridayNightKillin-Demo](https://reviewgithub.com/rep/M1-Aether/FridayNightKillin-Demo)

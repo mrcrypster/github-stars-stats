@@ -1,12 +1,14 @@
 # THU-luvision/BuildingFusion - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 43
 
 [Open repository](https://github.com/THU-luvision/BuildingFusion)
+
+[Open detailed stats for THU-luvision/BuildingFusion](https://reviewgithub.com/rep/THU-luvision/BuildingFusion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 41 | 2 | 
 | 2022-09-08 | 41 | 2 | 
 
-
-[Detailed charts & statistics for THU-luvision/BuildingFusion](https://reviewgithub.com/rep/THU-luvision/BuildingFusion)

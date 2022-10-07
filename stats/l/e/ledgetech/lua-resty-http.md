@@ -1,12 +1,14 @@
 # ledgetech/lua-resty-http - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 602
 
 ★ Stars: 1770
 
 [Open repository](https://github.com/ledgetech/lua-resty-http)
+
+[Open detailed stats for ledgetech/lua-resty-http](https://reviewgithub.com/rep/ledgetech/lua-resty-http)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1760 | 598 | 
 | 2022-09-07 | 1759 | 597 | 
 
-
-[Detailed charts & statistics for ledgetech/lua-resty-http](https://reviewgithub.com/rep/ledgetech/lua-resty-http)

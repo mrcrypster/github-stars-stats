@@ -1,12 +1,14 @@
 # ajaymache/machine-learning-yearning - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 242
 
 ★ Stars: 784
 
 [Open repository](https://github.com/ajaymache/machine-learning-yearning)
+
+[Open detailed stats for ajaymache/machine-learning-yearning](https://reviewgithub.com/rep/ajaymache/machine-learning-yearning)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 771 | 241 | 
 | 2022-09-08 | 771 | 241 | 
 
-
-[Detailed charts & statistics for ajaymache/machine-learning-yearning](https://reviewgithub.com/rep/ajaymache/machine-learning-yearning)

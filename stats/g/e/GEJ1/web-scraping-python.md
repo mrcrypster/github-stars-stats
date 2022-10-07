@@ -1,12 +1,14 @@
 # GEJ1/web-scraping-python - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 47
 
 [Open repository](https://github.com/GEJ1/web-scraping-python)
+
+[Open detailed stats for GEJ1/web-scraping-python](https://reviewgithub.com/rep/GEJ1/web-scraping-python)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 47 | 13 | 
 | 2022-09-08 | 47 | 13 | 
 
-
-[Detailed charts & statistics for GEJ1/web-scraping-python](https://reviewgithub.com/rep/GEJ1/web-scraping-python)

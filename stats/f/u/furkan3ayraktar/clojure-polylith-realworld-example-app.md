@@ -1,12 +1,14 @@
 # furkan3ayraktar/clojure-polylith-realworld-example-app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 353
 
 [Open repository](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)
+
+[Open detailed stats for furkan3ayraktar/clojure-polylith-realworld-example-app](https://reviewgithub.com/rep/furkan3ayraktar/clojure-polylith-realworld-example-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 351 | 63 | 
 | 2022-09-08 | 351 | 63 | 
 
-
-[Detailed charts & statistics for furkan3ayraktar/clojure-polylith-realworld-example-app](https://reviewgithub.com/rep/furkan3ayraktar/clojure-polylith-realworld-example-app)

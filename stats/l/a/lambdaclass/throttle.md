@@ -1,12 +1,14 @@
 # lambdaclass/throttle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 40
 
 [Open repository](https://github.com/lambdaclass/throttle)
+
+[Open detailed stats for lambdaclass/throttle](https://reviewgithub.com/rep/lambdaclass/throttle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 40 | 14 | 
 | 2022-09-07 | 40 | 14 | 
 
-
-[Detailed charts & statistics for lambdaclass/throttle](https://reviewgithub.com/rep/lambdaclass/throttle)

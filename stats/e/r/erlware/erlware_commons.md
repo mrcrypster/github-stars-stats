@@ -1,12 +1,14 @@
 # erlware/erlware_commons - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 98
 
 ★ Stars: 213
 
 [Open repository](https://github.com/erlware/erlware_commons)
+
+[Open detailed stats for erlware/erlware_commons](https://reviewgithub.com/rep/erlware/erlware_commons)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 211 | 98 | 
 | 2022-09-07 | 211 | 98 | 
 
-
-[Detailed charts & statistics for erlware/erlware_commons](https://reviewgithub.com/rep/erlware/erlware_commons)

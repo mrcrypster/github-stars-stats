@@ -1,12 +1,14 @@
 # Code-Pop/from-vuex-to-pinia - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 16
 
 [Open repository](https://github.com/Code-Pop/from-vuex-to-pinia)
+
+[Open detailed stats for Code-Pop/from-vuex-to-pinia](https://reviewgithub.com/rep/Code-Pop/from-vuex-to-pinia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 28 | 
 | 2022-09-07 | 16 | 28 | 
 
-
-[Detailed charts & statistics for Code-Pop/from-vuex-to-pinia](https://reviewgithub.com/rep/Code-Pop/from-vuex-to-pinia)

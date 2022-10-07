@@ -1,12 +1,14 @@
 # voxpupuli/puppet-puppetboard - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 161
 
 ★ Stars: 52
 
 [Open repository](https://github.com/voxpupuli/puppet-puppetboard)
+
+[Open detailed stats for voxpupuli/puppet-puppetboard](https://reviewgithub.com/rep/voxpupuli/puppet-puppetboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 52 | 161 | 
 | 2022-09-08 | 52 | 161 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-puppetboard](https://reviewgithub.com/rep/voxpupuli/puppet-puppetboard)

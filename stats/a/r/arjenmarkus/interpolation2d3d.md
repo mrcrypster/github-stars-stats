@@ -1,12 +1,14 @@
 # arjenmarkus/interpolation2d3d - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/arjenmarkus/interpolation2d3d)
+
+[Open detailed stats for arjenmarkus/interpolation2d3d](https://reviewgithub.com/rep/arjenmarkus/interpolation2d3d)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | - | 
 | 2022-09-07 | 10 | - | 
 
-
-[Detailed charts & statistics for arjenmarkus/interpolation2d3d](https://reviewgithub.com/rep/arjenmarkus/interpolation2d3d)

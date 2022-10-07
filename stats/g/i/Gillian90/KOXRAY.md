@@ -1,12 +1,14 @@
 # Gillian90/KOXRAY - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 49
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Gillian90/KOXRAY)
+
+[Open detailed stats for Gillian90/KOXRAY](https://reviewgithub.com/rep/Gillian90/KOXRAY)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 35 | 
 | 2022-09-07 | - | 35 | 
 
-
-[Detailed charts & statistics for Gillian90/KOXRAY](https://reviewgithub.com/rep/Gillian90/KOXRAY)

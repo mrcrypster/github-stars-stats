@@ -1,12 +1,14 @@
 # ZeWaren/pSSOd - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 12
 
 [Open repository](https://github.com/ZeWaren/pSSOd)
+
+[Open detailed stats for ZeWaren/pSSOd](https://reviewgithub.com/rep/ZeWaren/pSSOd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 4 | 
 | 2022-09-08 | 12 | 4 | 
 
-
-[Detailed charts & statistics for ZeWaren/pSSOd](https://reviewgithub.com/rep/ZeWaren/pSSOd)

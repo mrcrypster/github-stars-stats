@@ -1,12 +1,14 @@
 # fivethirtyeight/guns-data - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 273
 
 ★ Stars: 294
 
 [Open repository](https://github.com/fivethirtyeight/guns-data)
+
+[Open detailed stats for fivethirtyeight/guns-data](https://reviewgithub.com/rep/fivethirtyeight/guns-data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 294 | 250 | 
 | 2022-09-08 | 294 | 250 | 
 
-
-[Detailed charts & statistics for fivethirtyeight/guns-data](https://reviewgithub.com/rep/fivethirtyeight/guns-data)

@@ -1,12 +1,14 @@
 # FundingCircle/fc4-framework - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 127
 
 [Open repository](https://github.com/FundingCircle/fc4-framework)
+
+[Open detailed stats for FundingCircle/fc4-framework](https://reviewgithub.com/rep/FundingCircle/fc4-framework)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 127 | 8 | 
 | 2022-09-07 | 127 | 8 | 
 
-
-[Detailed charts & statistics for FundingCircle/fc4-framework](https://reviewgithub.com/rep/FundingCircle/fc4-framework)

@@ -1,12 +1,14 @@
 # r-lib/asciicast - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 191
 
 [Open repository](https://github.com/r-lib/asciicast)
+
+[Open detailed stats for r-lib/asciicast](https://reviewgithub.com/rep/r-lib/asciicast)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 190 | 8 | 
 | 2022-09-07 | 190 | 8 | 
 
-
-[Detailed charts & statistics for r-lib/asciicast](https://reviewgithub.com/rep/r-lib/asciicast)

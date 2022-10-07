@@ -1,12 +1,14 @@
 # kean/NukeUI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 33
 
 ★ Stars: 3
 
 [Open repository](https://github.com/kean/NukeUI)
+
+[Open detailed stats for kean/NukeUI](https://reviewgithub.com/rep/kean/NukeUI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 459 | 33 | 
 | 2022-09-08 | 459 | 33 | 
 
-
-[Detailed charts & statistics for kean/NukeUI](https://reviewgithub.com/rep/kean/NukeUI)

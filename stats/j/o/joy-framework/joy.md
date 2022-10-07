@@ -1,12 +1,14 @@
 # joy-framework/joy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 454
 
 [Open repository](https://github.com/joy-framework/joy)
+
+[Open detailed stats for joy-framework/joy](https://reviewgithub.com/rep/joy-framework/joy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 452 | 24 | 
 | 2022-09-08 | 452 | 24 | 
 
-
-[Detailed charts & statistics for joy-framework/joy](https://reviewgithub.com/rep/joy-framework/joy)

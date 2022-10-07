@@ -1,12 +1,14 @@
 # jasonisop/lpc_game - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 8
 
 [Open repository](https://github.com/jasonisop/lpc_game)
+
+[Open detailed stats for jasonisop/lpc_game](https://reviewgithub.com/rep/jasonisop/lpc_game)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 2 | 
 | 2022-09-07 | 8 | 2 | 
 
-
-[Detailed charts & statistics for jasonisop/lpc_game](https://reviewgithub.com/rep/jasonisop/lpc_game)

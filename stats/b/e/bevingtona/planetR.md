@@ -1,12 +1,14 @@
 # bevingtona/planetR - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 36
 
 [Open repository](https://github.com/bevingtona/planetR)
+
+[Open detailed stats for bevingtona/planetR](https://reviewgithub.com/rep/bevingtona/planetR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 36 | 11 | 
 | 2022-09-08 | 36 | 11 | 
 
-
-[Detailed charts & statistics for bevingtona/planetR](https://reviewgithub.com/rep/bevingtona/planetR)

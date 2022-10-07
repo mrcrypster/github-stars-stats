@@ -1,12 +1,14 @@
 # Fabrinio/Grupo-6---Logica - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Fabrinio/Grupo-6---Logica)
+
+[Open detailed stats for Fabrinio/Grupo-6---Logica](https://reviewgithub.com/rep/Fabrinio/Grupo-6---Logica)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for Fabrinio/Grupo-6---Logica](https://reviewgithub.com/rep/Fabrinio/Grupo-6---Logica)

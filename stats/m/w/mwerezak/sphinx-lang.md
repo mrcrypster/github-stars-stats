@@ -1,12 +1,14 @@
 # mwerezak/sphinx-lang - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 284
 
 [Open repository](https://github.com/mwerezak/sphinx-lang)
+
+[Open detailed stats for mwerezak/sphinx-lang](https://reviewgithub.com/rep/mwerezak/sphinx-lang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 284 | 11 | 
 | 2022-09-07 | 284 | 11 | 
 
-
-[Detailed charts & statistics for mwerezak/sphinx-lang](https://reviewgithub.com/rep/mwerezak/sphinx-lang)

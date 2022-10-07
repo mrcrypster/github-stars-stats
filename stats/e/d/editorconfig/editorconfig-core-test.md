@@ -1,12 +1,14 @@
 # editorconfig/editorconfig-core-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 20
 
 [Open repository](https://github.com/editorconfig/editorconfig-core-test)
+
+[Open detailed stats for editorconfig/editorconfig-core-test](https://reviewgithub.com/rep/editorconfig/editorconfig-core-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 19 | 22 | 
 | 2022-09-07 | 19 | 22 | 
 
-
-[Detailed charts & statistics for editorconfig/editorconfig-core-test](https://reviewgithub.com/rep/editorconfig/editorconfig-core-test)

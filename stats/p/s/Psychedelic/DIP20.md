@@ -1,12 +1,14 @@
 # Psychedelic/DIP20 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 46
 
 [Open repository](https://github.com/Psychedelic/DIP20)
+
+[Open detailed stats for Psychedelic/DIP20](https://reviewgithub.com/rep/Psychedelic/DIP20)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 45 | 25 | 
 | 2022-09-08 | 45 | 25 | 
 
-
-[Detailed charts & statistics for Psychedelic/DIP20](https://reviewgithub.com/rep/Psychedelic/DIP20)

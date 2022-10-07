@@ -1,12 +1,14 @@
 # Freescale/meta-freescale-distro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 66
 
 ★ Stars: 53
 
 [Open repository](https://github.com/Freescale/meta-freescale-distro)
+
+[Open detailed stats for Freescale/meta-freescale-distro](https://reviewgithub.com/rep/Freescale/meta-freescale-distro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 52 | 66 | 
 | 2022-09-07 | 52 | 66 | 
 
-
-[Detailed charts & statistics for Freescale/meta-freescale-distro](https://reviewgithub.com/rep/Freescale/meta-freescale-distro)

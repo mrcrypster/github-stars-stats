@@ -1,12 +1,14 @@
 # Alex-1992/flaskblog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 43
 
 [Open repository](https://github.com/Alex-1992/flaskblog)
+
+[Open detailed stats for Alex-1992/flaskblog](https://reviewgithub.com/rep/Alex-1992/flaskblog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 9 | 
 | 2022-09-07 | 43 | 9 | 
 
-
-[Detailed charts & statistics for Alex-1992/flaskblog](https://reviewgithub.com/rep/Alex-1992/flaskblog)

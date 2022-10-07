@@ -1,12 +1,14 @@
 # Kludex/full-stack-fastapi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 20
 
 [Open repository](https://github.com/Kludex/full-stack-fastapi)
+
+[Open detailed stats for Kludex/full-stack-fastapi](https://reviewgithub.com/rep/Kludex/full-stack-fastapi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 1 | 
 | 2022-09-08 | 20 | 1 | 
 
-
-[Detailed charts & statistics for Kludex/full-stack-fastapi](https://reviewgithub.com/rep/Kludex/full-stack-fastapi)

@@ -1,12 +1,14 @@
 # justinwoo/purescript-record-extra - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 26
 
 [Open repository](https://github.com/justinwoo/purescript-record-extra)
+
+[Open detailed stats for justinwoo/purescript-record-extra](https://reviewgithub.com/rep/justinwoo/purescript-record-extra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 26 | 16 | 
 | 2022-09-08 | 26 | 16 | 
 
-
-[Detailed charts & statistics for justinwoo/purescript-record-extra](https://reviewgithub.com/rep/justinwoo/purescript-record-extra)

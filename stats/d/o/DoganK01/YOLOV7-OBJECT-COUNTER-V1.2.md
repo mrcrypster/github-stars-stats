@@ -1,12 +1,14 @@
 # DoganK01/YOLOV7-OBJECT-COUNTER-V1.2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 28
 
 [Open repository](https://github.com/DoganK01/YOLOV7-OBJECT-COUNTER-V1.2)
+
+[Open detailed stats for DoganK01/YOLOV7-OBJECT-COUNTER-V1.2](https://reviewgithub.com/rep/DoganK01/YOLOV7-OBJECT-COUNTER-V1.2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 26 | 8 | 
 | 2022-09-08 | 26 | 8 | 
 
-
-[Detailed charts & statistics for DoganK01/YOLOV7-OBJECT-COUNTER-V1.2](https://reviewgithub.com/rep/DoganK01/YOLOV7-OBJECT-COUNTER-V1.2)

@@ -1,12 +1,14 @@
 # verypossible/rpi3_sudo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/verypossible/rpi3_sudo)
+
+[Open detailed stats for verypossible/rpi3_sudo](https://reviewgithub.com/rep/verypossible/rpi3_sudo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | - | - | 
 | 2022-09-14 | - | - | 
 
-
-[Detailed charts & statistics for verypossible/rpi3_sudo](https://reviewgithub.com/rep/verypossible/rpi3_sudo)

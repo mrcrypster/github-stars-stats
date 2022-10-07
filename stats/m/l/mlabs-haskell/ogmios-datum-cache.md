@@ -1,12 +1,14 @@
 # mlabs-haskell/ogmios-datum-cache - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 5
 
 [Open repository](https://github.com/mlabs-haskell/ogmios-datum-cache)
+
+[Open detailed stats for mlabs-haskell/ogmios-datum-cache](https://reviewgithub.com/rep/mlabs-haskell/ogmios-datum-cache)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 5 | 
 | 2022-09-07 | 4 | 5 | 
 
-
-[Detailed charts & statistics for mlabs-haskell/ogmios-datum-cache](https://reviewgithub.com/rep/mlabs-haskell/ogmios-datum-cache)

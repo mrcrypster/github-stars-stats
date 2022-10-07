@@ -1,12 +1,14 @@
 # threatlabz/iocs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/threatlabz/iocs)
+
+[Open detailed stats for threatlabz/iocs](https://reviewgithub.com/rep/threatlabz/iocs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 7 | 1 | 
 | 2022-09-08 | 7 | 1 | 
 
-
-[Detailed charts & statistics for threatlabz/iocs](https://reviewgithub.com/rep/threatlabz/iocs)

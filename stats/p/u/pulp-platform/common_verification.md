@@ -1,12 +1,14 @@
 # pulp-platform/common_verification - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 23
 
 [Open repository](https://github.com/pulp-platform/common_verification)
+
+[Open detailed stats for pulp-platform/common_verification](https://reviewgithub.com/rep/pulp-platform/common_verification)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 22 | 9 | 
 | 2022-09-07 | 22 | 9 | 
 
-
-[Detailed charts & statistics for pulp-platform/common_verification](https://reviewgithub.com/rep/pulp-platform/common_verification)

@@ -1,12 +1,14 @@
 # axelarnetwork/axelar-utils-solidity - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/axelarnetwork/axelar-utils-solidity)
+
+[Open detailed stats for axelarnetwork/axelar-utils-solidity](https://reviewgithub.com/rep/axelarnetwork/axelar-utils-solidity)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for axelarnetwork/axelar-utils-solidity](https://reviewgithub.com/rep/axelarnetwork/axelar-utils-solidity)

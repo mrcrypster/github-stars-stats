@@ -1,12 +1,14 @@
 # slaclab/lcls-timing-core - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/slaclab/lcls-timing-core)
+
+[Open detailed stats for slaclab/lcls-timing-core](https://reviewgithub.com/rep/slaclab/lcls-timing-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for slaclab/lcls-timing-core](https://reviewgithub.com/rep/slaclab/lcls-timing-core)

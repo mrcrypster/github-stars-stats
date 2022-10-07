@@ -1,12 +1,14 @@
 # PatrickMcDonald/RealWorldFunctionalProgramming - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/PatrickMcDonald/RealWorldFunctionalProgramming)
+
+[Open detailed stats for PatrickMcDonald/RealWorldFunctionalProgramming](https://reviewgithub.com/rep/PatrickMcDonald/RealWorldFunctionalProgramming)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | - | - | 
 | 2022-09-10 | - | - | 
 
-
-[Detailed charts & statistics for PatrickMcDonald/RealWorldFunctionalProgramming](https://reviewgithub.com/rep/PatrickMcDonald/RealWorldFunctionalProgramming)

@@ -1,12 +1,14 @@
 # kweatherman/yara4ida - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 36
 
 [Open repository](https://github.com/kweatherman/yara4ida)
+
+[Open detailed stats for kweatherman/yara4ida](https://reviewgithub.com/rep/kweatherman/yara4ida)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 33 | 6 | 
 | 2022-09-07 | 33 | 6 | 
 
-
-[Detailed charts & statistics for kweatherman/yara4ida](https://reviewgithub.com/rep/kweatherman/yara4ida)

@@ -1,12 +1,14 @@
 # vishalnagda1/windows-10-activator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
 ★ Stars: 7
 
 [Open repository](https://github.com/vishalnagda1/windows-10-activator)
+
+[Open detailed stats for vishalnagda1/windows-10-activator](https://reviewgithub.com/rep/vishalnagda1/windows-10-activator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 32 | 
 | 2022-09-07 | 5 | 31 | 
 
-
-[Detailed charts & statistics for vishalnagda1/windows-10-activator](https://reviewgithub.com/rep/vishalnagda1/windows-10-activator)

@@ -1,12 +1,14 @@
 # pie-dao/pools.piedao.org - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 23
 
 [Open repository](https://github.com/pie-dao/pools.piedao.org)
+
+[Open detailed stats for pie-dao/pools.piedao.org](https://reviewgithub.com/rep/pie-dao/pools.piedao.org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | 27 | 
 | 2022-09-07 | 23 | 27 | 
 
-
-[Detailed charts & statistics for pie-dao/pools.piedao.org](https://reviewgithub.com/rep/pie-dao/pools.piedao.org)

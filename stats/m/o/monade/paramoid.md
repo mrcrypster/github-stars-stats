@@ -1,12 +1,14 @@
 # monade/paramoid - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 71
 
 [Open repository](https://github.com/monade/paramoid)
+
+[Open detailed stats for monade/paramoid](https://reviewgithub.com/rep/monade/paramoid)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 71 | - | 
 | 2022-09-08 | 71 | - | 
 
-
-[Detailed charts & statistics for monade/paramoid](https://reviewgithub.com/rep/monade/paramoid)

@@ -1,12 +1,14 @@
 # jbkunst/klassets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 63
 
 [Open repository](https://github.com/jbkunst/klassets)
+
+[Open detailed stats for jbkunst/klassets](https://reviewgithub.com/rep/jbkunst/klassets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 62 | 8 | 
 | 2022-09-07 | 62 | 8 | 
 
-
-[Detailed charts & statistics for jbkunst/klassets](https://reviewgithub.com/rep/jbkunst/klassets)

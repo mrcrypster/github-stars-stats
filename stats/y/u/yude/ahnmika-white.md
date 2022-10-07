@@ -1,12 +1,14 @@
 # yude/ahnmika-white - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 11
 
 [Open repository](https://github.com/yude/ahnmika-white)
+
+[Open detailed stats for yude/ahnmika-white](https://reviewgithub.com/rep/yude/ahnmika-white)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 6 | 
 | 2022-09-08 | 11 | 6 | 
 
-
-[Detailed charts & statistics for yude/ahnmika-white](https://reviewgithub.com/rep/yude/ahnmika-white)

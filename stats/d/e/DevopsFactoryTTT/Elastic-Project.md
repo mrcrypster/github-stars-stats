@@ -1,12 +1,14 @@
 # DevopsFactoryTTT/Elastic-Project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 4
 
 [Open repository](https://github.com/DevopsFactoryTTT/Elastic-Project)
+
+[Open detailed stats for DevopsFactoryTTT/Elastic-Project](https://reviewgithub.com/rep/DevopsFactoryTTT/Elastic-Project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 24 | 
 | 2022-09-08 | 4 | 24 | 
 
-
-[Detailed charts & statistics for DevopsFactoryTTT/Elastic-Project](https://reviewgithub.com/rep/DevopsFactoryTTT/Elastic-Project)

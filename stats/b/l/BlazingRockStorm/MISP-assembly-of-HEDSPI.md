@@ -1,12 +1,14 @@
 # BlazingRockStorm/MISP-assembly-of-HEDSPI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 15
 
 [Open repository](https://github.com/BlazingRockStorm/MISP-assembly-of-HEDSPI)
+
+[Open detailed stats for BlazingRockStorm/MISP-assembly-of-HEDSPI](https://reviewgithub.com/rep/BlazingRockStorm/MISP-assembly-of-HEDSPI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 15 | 15 | 
 | 2022-09-07 | 15 | 15 | 
 
-
-[Detailed charts & statistics for BlazingRockStorm/MISP-assembly-of-HEDSPI](https://reviewgithub.com/rep/BlazingRockStorm/MISP-assembly-of-HEDSPI)

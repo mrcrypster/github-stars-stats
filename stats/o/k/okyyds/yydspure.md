@@ -1,12 +1,14 @@
 # okyyds/yydspure - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 24
 
 [Open repository](https://github.com/okyyds/yydspure)
+
+[Open detailed stats for okyyds/yydspure](https://reviewgithub.com/rep/okyyds/yydspure)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 24 | 
 | 2022-09-07 | 18 | 24 | 
 
-
-[Detailed charts & statistics for okyyds/yydspure](https://reviewgithub.com/rep/okyyds/yydspure)

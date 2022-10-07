@@ -1,12 +1,14 @@
 # copperexchange/flow-cold-storage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/copperexchange/flow-cold-storage)
+
+[Open detailed stats for copperexchange/flow-cold-storage](https://reviewgithub.com/rep/copperexchange/flow-cold-storage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for copperexchange/flow-cold-storage](https://reviewgithub.com/rep/copperexchange/flow-cold-storage)

@@ -1,12 +1,14 @@
 # puppetlabs/trapperkeeper-status - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 3
 
 [Open repository](https://github.com/puppetlabs/trapperkeeper-status)
+
+[Open detailed stats for puppetlabs/trapperkeeper-status](https://reviewgithub.com/rep/puppetlabs/trapperkeeper-status)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 18 | 
 | 2022-09-07 | 3 | 18 | 
 
-
-[Detailed charts & statistics for puppetlabs/trapperkeeper-status](https://reviewgithub.com/rep/puppetlabs/trapperkeeper-status)

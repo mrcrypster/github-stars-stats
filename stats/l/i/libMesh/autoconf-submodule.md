@@ -1,12 +1,14 @@
 # libMesh/autoconf-submodule - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/libMesh/autoconf-submodule)
+
+[Open detailed stats for libMesh/autoconf-submodule](https://reviewgithub.com/rep/libMesh/autoconf-submodule)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 4 | 
 | 2022-09-08 | 2 | 4 | 
 
-
-[Detailed charts & statistics for libMesh/autoconf-submodule](https://reviewgithub.com/rep/libMesh/autoconf-submodule)

@@ -1,12 +1,14 @@
 # databricks/LearningSparkV2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 524
 
 ★ Stars: 797
 
 [Open repository](https://github.com/databricks/LearningSparkV2)
+
+[Open detailed stats for databricks/LearningSparkV2](https://reviewgithub.com/rep/databricks/LearningSparkV2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 776 | 513 | 
 | 2022-09-07 | 776 | 513 | 
 
-
-[Detailed charts & statistics for databricks/LearningSparkV2](https://reviewgithub.com/rep/databricks/LearningSparkV2)

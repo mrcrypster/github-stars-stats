@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-route53-alias - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 50
 
 ★ Stars: 45
 
 [Open repository](https://github.com/cloudposse/terraform-aws-route53-alias)
+
+[Open detailed stats for cloudposse/terraform-aws-route53-alias](https://reviewgithub.com/rep/cloudposse/terraform-aws-route53-alias)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 45 | 50 | 
 | 2022-09-08 | 45 | 50 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-route53-alias](https://reviewgithub.com/rep/cloudposse/terraform-aws-route53-alias)

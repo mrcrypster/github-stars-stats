@@ -1,12 +1,14 @@
 # OpenPLi-meta/meta-sab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/OpenPLi-meta/meta-sab)
+
+[Open detailed stats for OpenPLi-meta/meta-sab](https://reviewgithub.com/rep/OpenPLi-meta/meta-sab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | - | - | 
 | 2022-10-01 | - | - | 
 
-
-[Detailed charts & statistics for OpenPLi-meta/meta-sab](https://reviewgithub.com/rep/OpenPLi-meta/meta-sab)

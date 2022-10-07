@@ -1,12 +1,14 @@
 # CMSgov/bcda-app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 30
 
 [Open repository](https://github.com/CMSgov/bcda-app)
+
+[Open detailed stats for CMSgov/bcda-app](https://reviewgithub.com/rep/CMSgov/bcda-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 30 | 16 | 
 | 2022-09-08 | 30 | 16 | 
 
-
-[Detailed charts & statistics for CMSgov/bcda-app](https://reviewgithub.com/rep/CMSgov/bcda-app)

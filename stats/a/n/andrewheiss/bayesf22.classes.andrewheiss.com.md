@@ -1,12 +1,14 @@
 # andrewheiss/bayesf22.classes.andrewheiss.com - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 32
 
 [Open repository](https://github.com/andrewheiss/bayesf22.classes.andrewheiss.com)
+
+[Open detailed stats for andrewheiss/bayesf22.classes.andrewheiss.com](https://reviewgithub.com/rep/andrewheiss/bayesf22.classes.andrewheiss.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 29 | 1 | 
 | 2022-09-08 | 29 | 1 | 
 
-
-[Detailed charts & statistics for andrewheiss/bayesf22.classes.andrewheiss.com](https://reviewgithub.com/rep/andrewheiss/bayesf22.classes.andrewheiss.com)

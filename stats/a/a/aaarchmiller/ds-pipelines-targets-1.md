@@ -1,12 +1,14 @@
 # aaarchmiller/ds-pipelines-targets-1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/aaarchmiller/ds-pipelines-targets-1)
+
+[Open detailed stats for aaarchmiller/ds-pipelines-targets-1](https://reviewgithub.com/rep/aaarchmiller/ds-pipelines-targets-1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for aaarchmiller/ds-pipelines-targets-1](https://reviewgithub.com/rep/aaarchmiller/ds-pipelines-targets-1)

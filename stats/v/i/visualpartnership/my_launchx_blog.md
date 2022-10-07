@@ -1,6 +1,6 @@
 # visualpartnership/my_launchx_blog - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 867
 
@@ -8,9 +8,12 @@ Stats updated on Mar 54732, 17
 
 [Open repository](https://github.com/visualpartnership/my_launchx_blog)
 
+[Open detailed stats for visualpartnership/my_launchx_blog](https://reviewgithub.com/rep/visualpartnership/my_launchx_blog)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 44 | 867 | 
 | 2022-10-06 | 44 | 867 | 
 | 2022-10-05 | 44 | 867 | 
 | 2022-10-04 | 44 | 867 | 
@@ -41,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 44 | 871 | 
 | 2022-09-07 | 44 | 871 | 
 
-
-[Detailed charts & statistics for visualpartnership/my_launchx_blog](https://reviewgithub.com/rep/visualpartnership/my_launchx_blog)

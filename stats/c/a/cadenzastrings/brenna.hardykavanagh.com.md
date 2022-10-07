@@ -1,12 +1,14 @@
 # cadenzastrings/brenna.hardykavanagh.com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/cadenzastrings/brenna.hardykavanagh.com)
+
+[Open detailed stats for cadenzastrings/brenna.hardykavanagh.com](https://reviewgithub.com/rep/cadenzastrings/brenna.hardykavanagh.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 1 | - | 
 | 2022-09-12 | 1 | - | 
 
-
-[Detailed charts & statistics for cadenzastrings/brenna.hardykavanagh.com](https://reviewgithub.com/rep/cadenzastrings/brenna.hardykavanagh.com)

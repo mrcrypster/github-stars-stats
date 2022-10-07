@@ -1,12 +1,14 @@
 # Auctionator/Auctionator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 67
 
 ★ Stars: 147
 
 [Open repository](https://github.com/Auctionator/Auctionator)
+
+[Open detailed stats for Auctionator/Auctionator](https://reviewgithub.com/rep/Auctionator/Auctionator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-02 | 146 | 67 | 
 | 2022-10-01 | 146 | 67 | 
 
-
-[Detailed charts & statistics for Auctionator/Auctionator](https://reviewgithub.com/rep/Auctionator/Auctionator)

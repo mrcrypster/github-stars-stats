@@ -1,12 +1,14 @@
 # linuxacademy/content-source-control-git - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 243
 
 ★ Stars: 4
 
 [Open repository](https://github.com/linuxacademy/content-source-control-git)
+
+[Open detailed stats for linuxacademy/content-source-control-git](https://reviewgithub.com/rep/linuxacademy/content-source-control-git)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 243 | 
 | 2022-09-07 | 4 | 243 | 
 
-
-[Detailed charts & statistics for linuxacademy/content-source-control-git](https://reviewgithub.com/rep/linuxacademy/content-source-control-git)

@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-iam-role - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 66
 
 ★ Stars: 70
 
 [Open repository](https://github.com/cloudposse/terraform-aws-iam-role)
+
+[Open detailed stats for cloudposse/terraform-aws-iam-role](https://reviewgithub.com/rep/cloudposse/terraform-aws-iam-role)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 69 | 64 | 
 | 2022-09-17 | 69 | 64 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-iam-role](https://reviewgithub.com/rep/cloudposse/terraform-aws-iam-role)

@@ -1,12 +1,14 @@
 # rcbops/opencenter-dashboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 1
 
 [Open repository](https://github.com/rcbops/opencenter-dashboard)
+
+[Open detailed stats for rcbops/opencenter-dashboard](https://reviewgithub.com/rep/rcbops/opencenter-dashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 10 | 
 | 2022-09-08 | - | 10 | 
 
-
-[Detailed charts & statistics for rcbops/opencenter-dashboard](https://reviewgithub.com/rep/rcbops/opencenter-dashboard)

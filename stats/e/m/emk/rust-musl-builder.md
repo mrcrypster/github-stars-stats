@@ -1,12 +1,14 @@
 # emk/rust-musl-builder - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 170
 
 ★ Stars: 1281
 
 [Open repository](https://github.com/emk/rust-musl-builder)
+
+[Open detailed stats for emk/rust-musl-builder](https://reviewgithub.com/rep/emk/rust-musl-builder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1266 | 167 | 
 | 2022-09-08 | 1265 | 166 | 
 
-
-[Detailed charts & statistics for emk/rust-musl-builder](https://reviewgithub.com/rep/emk/rust-musl-builder)

@@ -1,12 +1,14 @@
 # pharo-ide/Ghost - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/pharo-ide/Ghost)
+
+[Open detailed stats for pharo-ide/Ghost](https://reviewgithub.com/rep/pharo-ide/Ghost)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 5 | 
 | 2022-09-08 | 3 | 5 | 
 
-
-[Detailed charts & statistics for pharo-ide/Ghost](https://reviewgithub.com/rep/pharo-ide/Ghost)

@@ -1,12 +1,14 @@
 # karanpratapsingh/go-course - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 47
 
 ★ Stars: 552
 
 [Open repository](https://github.com/karanpratapsingh/go-course)
+
+[Open detailed stats for karanpratapsingh/go-course](https://reviewgithub.com/rep/karanpratapsingh/go-course)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 514 | 42 | 
 | 2022-09-08 | 513 | 42 | 
 
-
-[Detailed charts & statistics for karanpratapsingh/go-course](https://reviewgithub.com/rep/karanpratapsingh/go-course)

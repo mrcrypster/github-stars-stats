@@ -1,12 +1,14 @@
 # wzpan/BeamerStyleSlides - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 146
 
 ★ Stars: 786
 
 [Open repository](https://github.com/wzpan/BeamerStyleSlides)
+
+[Open detailed stats for wzpan/BeamerStyleSlides](https://reviewgithub.com/rep/wzpan/BeamerStyleSlides)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 780 | 145 | 
 | 2022-09-07 | 780 | 145 | 
 
-
-[Detailed charts & statistics for wzpan/BeamerStyleSlides](https://reviewgithub.com/rep/wzpan/BeamerStyleSlides)

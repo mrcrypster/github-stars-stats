@@ -1,12 +1,14 @@
 # kaushalmodi/ox-hugo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 124
 
 ★ Stars: 747
 
 [Open repository](https://github.com/kaushalmodi/ox-hugo)
+
+[Open detailed stats for kaushalmodi/ox-hugo](https://reviewgithub.com/rep/kaushalmodi/ox-hugo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 737 | 123 | 
 | 2022-09-07 | 737 | 123 | 
 
-
-[Detailed charts & statistics for kaushalmodi/ox-hugo](https://reviewgithub.com/rep/kaushalmodi/ox-hugo)

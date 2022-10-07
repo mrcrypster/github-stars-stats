@@ -1,12 +1,14 @@
 # mlim1972/gateway-consul - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mlim1972/gateway-consul)
+
+[Open detailed stats for mlim1972/gateway-consul](https://reviewgithub.com/rep/mlim1972/gateway-consul)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 37 | 
 | 2022-09-08 | - | 37 | 
 
-
-[Detailed charts & statistics for mlim1972/gateway-consul](https://reviewgithub.com/rep/mlim1972/gateway-consul)

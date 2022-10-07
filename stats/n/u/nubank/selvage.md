@@ -1,12 +1,14 @@
 # nubank/selvage - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 53
 
 [Open repository](https://github.com/nubank/selvage)
+
+[Open detailed stats for nubank/selvage](https://reviewgithub.com/rep/nubank/selvage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 53 | 2 | 
 | 2022-09-07 | 53 | 2 | 
 
-
-[Detailed charts & statistics for nubank/selvage](https://reviewgithub.com/rep/nubank/selvage)

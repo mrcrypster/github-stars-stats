@@ -1,12 +1,14 @@
 # lucasacioly/CAR-RENTAL-SYSTEM - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/lucasacioly/CAR-RENTAL-SYSTEM)
+
+[Open detailed stats for lucasacioly/CAR-RENTAL-SYSTEM](https://reviewgithub.com/rep/lucasacioly/CAR-RENTAL-SYSTEM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 4 | 
 | 2022-09-08 | 1 | 4 | 
 
-
-[Detailed charts & statistics for lucasacioly/CAR-RENTAL-SYSTEM](https://reviewgithub.com/rep/lucasacioly/CAR-RENTAL-SYSTEM)

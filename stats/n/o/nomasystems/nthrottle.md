@@ -1,12 +1,14 @@
 # nomasystems/nthrottle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/nomasystems/nthrottle)
+
+[Open detailed stats for nomasystems/nthrottle](https://reviewgithub.com/rep/nomasystems/nthrottle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | - | 
 | 2022-09-08 | 6 | - | 
 
-
-[Detailed charts & statistics for nomasystems/nthrottle](https://reviewgithub.com/rep/nomasystems/nthrottle)

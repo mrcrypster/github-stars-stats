@@ -1,12 +1,14 @@
 # libarchive/libarchive - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 616
 
 ★ Stars: 1851
 
 [Open repository](https://github.com/libarchive/libarchive)
+
+[Open detailed stats for libarchive/libarchive](https://reviewgithub.com/rep/libarchive/libarchive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1832 | 610 | 
 | 2022-09-08 | 1830 | 610 | 
 
-
-[Detailed charts & statistics for libarchive/libarchive](https://reviewgithub.com/rep/libarchive/libarchive)

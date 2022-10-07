@@ -1,12 +1,14 @@
 # Sabnock01/yield-mentorship - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 24
 
 [Open repository](https://github.com/Sabnock01/yield-mentorship)
+
+[Open detailed stats for Sabnock01/yield-mentorship](https://reviewgithub.com/rep/Sabnock01/yield-mentorship)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | - | 
 | 2022-09-07 | 23 | - | 
 
-
-[Detailed charts & statistics for Sabnock01/yield-mentorship](https://reviewgithub.com/rep/Sabnock01/yield-mentorship)

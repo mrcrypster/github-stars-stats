@@ -1,12 +1,14 @@
 # posse-ap/drill-ph1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/posse-ap/drill-ph1)
+
+[Open detailed stats for posse-ap/drill-ph1](https://reviewgithub.com/rep/posse-ap/drill-ph1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 14 | 
 | 2022-09-07 | 1 | 14 | 
 
-
-[Detailed charts & statistics for posse-ap/drill-ph1](https://reviewgithub.com/rep/posse-ap/drill-ph1)

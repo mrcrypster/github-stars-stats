@@ -1,12 +1,14 @@
 # deadtrickster/ssl_verify_fun.erl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 41
 
 ★ Stars: 84
 
 [Open repository](https://github.com/deadtrickster/ssl_verify_fun.erl)
+
+[Open detailed stats for deadtrickster/ssl_verify_fun.erl](https://reviewgithub.com/rep/deadtrickster/ssl_verify_fun.erl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 84 | 41 | 
 | 2022-09-07 | 84 | 41 | 
 
-
-[Detailed charts & statistics for deadtrickster/ssl_verify_fun.erl](https://reviewgithub.com/rep/deadtrickster/ssl_verify_fun.erl)

@@ -1,12 +1,14 @@
 # Martin-Courtney-Sage/project_two - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Martin-Courtney-Sage/project_two)
+
+[Open detailed stats for Martin-Courtney-Sage/project_two](https://reviewgithub.com/rep/Martin-Courtney-Sage/project_two)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 3 | 
 | 2022-09-08 | 1 | 3 | 
 
-
-[Detailed charts & statistics for Martin-Courtney-Sage/project_two](https://reviewgithub.com/rep/Martin-Courtney-Sage/project_two)

@@ -1,12 +1,14 @@
 # jenkins-x/jx3-pipeline-catalog - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 111
 
 ★ Stars: 17
 
 [Open repository](https://github.com/jenkins-x/jx3-pipeline-catalog)
+
+[Open detailed stats for jenkins-x/jx3-pipeline-catalog](https://reviewgithub.com/rep/jenkins-x/jx3-pipeline-catalog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 107 | 
 | 2022-09-08 | 17 | 107 | 
 
-
-[Detailed charts & statistics for jenkins-x/jx3-pipeline-catalog](https://reviewgithub.com/rep/jenkins-x/jx3-pipeline-catalog)

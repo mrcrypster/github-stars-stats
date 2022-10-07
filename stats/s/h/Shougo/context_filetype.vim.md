@@ -1,12 +1,14 @@
 # Shougo/context_filetype.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 156
 
 [Open repository](https://github.com/Shougo/context_filetype.vim)
+
+[Open detailed stats for Shougo/context_filetype.vim](https://reviewgithub.com/rep/Shougo/context_filetype.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 154 | 21 | 
 | 2022-09-07 | 154 | 21 | 
 
-
-[Detailed charts & statistics for Shougo/context_filetype.vim](https://reviewgithub.com/rep/Shougo/context_filetype.vim)

@@ -1,12 +1,14 @@
 # HariSekhon/DevOps-Perl-tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 75
 
 [Open repository](https://github.com/HariSekhon/DevOps-Perl-tools)
+
+[Open detailed stats for HariSekhon/DevOps-Perl-tools](https://reviewgithub.com/rep/HariSekhon/DevOps-Perl-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 75 | 41 | 
 | 2022-09-07 | 75 | 41 | 
 
-
-[Detailed charts & statistics for HariSekhon/DevOps-Perl-tools](https://reviewgithub.com/rep/HariSekhon/DevOps-Perl-tools)

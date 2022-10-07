@@ -1,12 +1,14 @@
 # ExtropyIO/defi-bot - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 443
 
 ★ Stars: 1057
 
 [Open repository](https://github.com/ExtropyIO/defi-bot)
+
+[Open detailed stats for ExtropyIO/defi-bot](https://reviewgithub.com/rep/ExtropyIO/defi-bot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1043 | 436 | 
 | 2022-09-07 | 1042 | 436 | 
 
-
-[Detailed charts & statistics for ExtropyIO/defi-bot](https://reviewgithub.com/rep/ExtropyIO/defi-bot)

@@ -1,12 +1,14 @@
 # greenpeace/planet4-docker-compose - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 12
 
 [Open repository](https://github.com/greenpeace/planet4-docker-compose)
+
+[Open detailed stats for greenpeace/planet4-docker-compose](https://reviewgithub.com/rep/greenpeace/planet4-docker-compose)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 18 | 
 | 2022-09-07 | 11 | 18 | 
 
-
-[Detailed charts & statistics for greenpeace/planet4-docker-compose](https://reviewgithub.com/rep/greenpeace/planet4-docker-compose)

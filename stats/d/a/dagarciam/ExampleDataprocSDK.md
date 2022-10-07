@@ -1,12 +1,14 @@
 # dagarciam/ExampleDataprocSDK - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 58
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dagarciam/ExampleDataprocSDK)
+
+[Open detailed stats for dagarciam/ExampleDataprocSDK](https://reviewgithub.com/rep/dagarciam/ExampleDataprocSDK)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 41 | 
 | 2022-09-08 | - | 41 | 
 
-
-[Detailed charts & statistics for dagarciam/ExampleDataprocSDK](https://reviewgithub.com/rep/dagarciam/ExampleDataprocSDK)

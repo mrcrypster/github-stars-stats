@@ -1,12 +1,14 @@
 # Flamingo-OS/device_qcom_common - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Flamingo-OS/device_qcom_common)
+
+[Open detailed stats for Flamingo-OS/device_qcom_common](https://reviewgithub.com/rep/Flamingo-OS/device_qcom_common)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for Flamingo-OS/device_qcom_common](https://reviewgithub.com/rep/Flamingo-OS/device_qcom_common)

@@ -1,12 +1,14 @@
 # esge/PoE-HarvestVendor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 79
 
 [Open repository](https://github.com/esge/PoE-HarvestVendor)
+
+[Open detailed stats for esge/PoE-HarvestVendor](https://reviewgithub.com/rep/esge/PoE-HarvestVendor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 79 | 25 | 
 | 2022-09-07 | 79 | 25 | 
 
-
-[Detailed charts & statistics for esge/PoE-HarvestVendor](https://reviewgithub.com/rep/esge/PoE-HarvestVendor)

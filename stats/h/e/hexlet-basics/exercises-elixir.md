@@ -1,12 +1,14 @@
 # hexlet-basics/exercises-elixir - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 12
 
 [Open repository](https://github.com/hexlet-basics/exercises-elixir)
+
+[Open detailed stats for hexlet-basics/exercises-elixir](https://reviewgithub.com/rep/hexlet-basics/exercises-elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 16 | 
 | 2022-09-07 | 11 | 16 | 
 
-
-[Detailed charts & statistics for hexlet-basics/exercises-elixir](https://reviewgithub.com/rep/hexlet-basics/exercises-elixir)

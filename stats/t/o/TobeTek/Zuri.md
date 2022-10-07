@@ -1,12 +1,14 @@
 # TobeTek/Zuri - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 373
 
 ★ Stars: 52
 
 [Open repository](https://github.com/TobeTek/Zuri)
+
+[Open detailed stats for TobeTek/Zuri](https://reviewgithub.com/rep/TobeTek/Zuri)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 52 | 376 | 
 | 2022-09-07 | 52 | 376 | 
 
-
-[Detailed charts & statistics for TobeTek/Zuri](https://reviewgithub.com/rep/TobeTek/Zuri)

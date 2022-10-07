@@ -1,12 +1,14 @@
 # opentelemetry-beam/opentelemetry_plug - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 25
 
 [Open repository](https://github.com/opentelemetry-beam/opentelemetry_plug)
+
+[Open detailed stats for opentelemetry-beam/opentelemetry_plug](https://reviewgithub.com/rep/opentelemetry-beam/opentelemetry_plug)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 25 | 13 | 
 | 2022-09-08 | 25 | 13 | 
 
-
-[Detailed charts & statistics for opentelemetry-beam/opentelemetry_plug](https://reviewgithub.com/rep/opentelemetry-beam/opentelemetry_plug)

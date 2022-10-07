@@ -1,12 +1,14 @@
 # kowainik/stan - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 491
 
 [Open repository](https://github.com/kowainik/stan)
+
+[Open detailed stats for kowainik/stan](https://reviewgithub.com/rep/kowainik/stan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | 491 | 37 | 
 | 2022-10-05 | 491 | 37 | 
 
-
-[Detailed charts & statistics for kowainik/stan](https://reviewgithub.com/rep/kowainik/stan)

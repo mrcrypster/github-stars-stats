@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 899
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab)
+
+[Open detailed stats for learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 816 | 
 | 2022-09-07 | 1 | 806 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab)

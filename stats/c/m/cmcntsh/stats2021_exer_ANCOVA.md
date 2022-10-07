@@ -1,12 +1,14 @@
 # cmcntsh/stats2021_exer_ANCOVA - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 0
 
 [Open repository](https://github.com/cmcntsh/stats2021_exer_ANCOVA)
+
+[Open detailed stats for cmcntsh/stats2021_exer_ANCOVA](https://reviewgithub.com/rep/cmcntsh/stats2021_exer_ANCOVA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 18 | 
 | 2022-09-08 | - | 18 | 
 
-
-[Detailed charts & statistics for cmcntsh/stats2021_exer_ANCOVA](https://reviewgithub.com/rep/cmcntsh/stats2021_exer_ANCOVA)

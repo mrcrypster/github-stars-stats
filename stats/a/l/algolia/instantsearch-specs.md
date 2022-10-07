@@ -1,12 +1,14 @@
 # algolia/instantsearch-specs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 5
 
 [Open repository](https://github.com/algolia/instantsearch-specs)
+
+[Open detailed stats for algolia/instantsearch-specs](https://reviewgithub.com/rep/algolia/instantsearch-specs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 4 | 
 | 2022-09-07 | 5 | 4 | 
 
-
-[Detailed charts & statistics for algolia/instantsearch-specs](https://reviewgithub.com/rep/algolia/instantsearch-specs)

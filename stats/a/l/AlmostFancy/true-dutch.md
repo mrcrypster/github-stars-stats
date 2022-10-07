@@ -1,12 +1,14 @@
 # AlmostFancy/true-dutch - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 24
 
 [Open repository](https://github.com/AlmostFancy/true-dutch)
+
+[Open detailed stats for AlmostFancy/true-dutch](https://reviewgithub.com/rep/AlmostFancy/true-dutch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 24 | 2 | 
 | 2022-09-07 | 24 | 2 | 
 
-
-[Detailed charts & statistics for AlmostFancy/true-dutch](https://reviewgithub.com/rep/AlmostFancy/true-dutch)

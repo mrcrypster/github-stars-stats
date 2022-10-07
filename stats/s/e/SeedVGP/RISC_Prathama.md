@@ -1,12 +1,14 @@
 # SeedVGP/RISC_Prathama - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 0
 
 [Open repository](https://github.com/SeedVGP/RISC_Prathama)
+
+[Open detailed stats for SeedVGP/RISC_Prathama](https://reviewgithub.com/rep/SeedVGP/RISC_Prathama)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 11 | 
 | 2022-09-07 | - | 11 | 
 
-
-[Detailed charts & statistics for SeedVGP/RISC_Prathama](https://reviewgithub.com/rep/SeedVGP/RISC_Prathama)

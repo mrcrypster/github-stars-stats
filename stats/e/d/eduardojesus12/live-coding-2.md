@@ -1,12 +1,14 @@
 # eduardojesus12/live-coding-2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/eduardojesus12/live-coding-2)
+
+[Open detailed stats for eduardojesus12/live-coding-2](https://reviewgithub.com/rep/eduardojesus12/live-coding-2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | - | 11 | 
 | 2022-10-01 | - | 11 | 
 
-
-[Detailed charts & statistics for eduardojesus12/live-coding-2](https://reviewgithub.com/rep/eduardojesus12/live-coding-2)

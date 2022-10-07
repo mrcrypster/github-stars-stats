@@ -1,12 +1,14 @@
 # r4ds/bookclub-feat_eng - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 3
 
 [Open repository](https://github.com/r4ds/bookclub-feat_eng)
+
+[Open detailed stats for r4ds/bookclub-feat_eng](https://reviewgithub.com/rep/r4ds/bookclub-feat_eng)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for r4ds/bookclub-feat_eng](https://reviewgithub.com/rep/r4ds/bookclub-feat_eng)

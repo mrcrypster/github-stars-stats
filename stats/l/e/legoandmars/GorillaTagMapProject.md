@@ -1,12 +1,14 @@
 # legoandmars/GorillaTagMapProject - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 16
 
 [Open repository](https://github.com/legoandmars/GorillaTagMapProject)
+
+[Open detailed stats for legoandmars/GorillaTagMapProject](https://reviewgithub.com/rep/legoandmars/GorillaTagMapProject)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | 17 | 
 | 2022-09-07 | 15 | 17 | 
 
-
-[Detailed charts & statistics for legoandmars/GorillaTagMapProject](https://reviewgithub.com/rep/legoandmars/GorillaTagMapProject)

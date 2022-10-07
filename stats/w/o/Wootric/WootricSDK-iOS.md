@@ -1,12 +1,14 @@
 # Wootric/WootricSDK-iOS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 14
 
 [Open repository](https://github.com/Wootric/WootricSDK-iOS)
+
+[Open detailed stats for Wootric/WootricSDK-iOS](https://reviewgithub.com/rep/Wootric/WootricSDK-iOS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 21 | 
 | 2022-09-07 | 14 | 21 | 
 
-
-[Detailed charts & statistics for Wootric/WootricSDK-iOS](https://reviewgithub.com/rep/Wootric/WootricSDK-iOS)

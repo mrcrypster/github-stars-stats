@@ -1,12 +1,14 @@
 # jcarvalho/dot-files - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jcarvalho/dot-files)
+
+[Open detailed stats for jcarvalho/dot-files](https://reviewgithub.com/rep/jcarvalho/dot-files)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | - | - | 
 | 2022-09-14 | - | - | 
 
-
-[Detailed charts & statistics for jcarvalho/dot-files](https://reviewgithub.com/rep/jcarvalho/dot-files)

@@ -1,12 +1,14 @@
 # sbuslab/akka-http-tools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 6
 
 [Open repository](https://github.com/sbuslab/akka-http-tools)
+
+[Open detailed stats for sbuslab/akka-http-tools](https://reviewgithub.com/rep/sbuslab/akka-http-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 2 | 
 | 2022-09-07 | 6 | 2 | 
 
-
-[Detailed charts & statistics for sbuslab/akka-http-tools](https://reviewgithub.com/rep/sbuslab/akka-http-tools)

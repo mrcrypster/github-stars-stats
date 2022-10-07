@@ -1,12 +1,14 @@
 # ba-st/Launchpad - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 12
 
 [Open repository](https://github.com/ba-st/Launchpad)
+
+[Open detailed stats for ba-st/Launchpad](https://reviewgithub.com/rep/ba-st/Launchpad)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 2 | 
 | 2022-09-08 | 12 | 2 | 
 
-
-[Detailed charts & statistics for ba-st/Launchpad](https://reviewgithub.com/rep/ba-st/Launchpad)

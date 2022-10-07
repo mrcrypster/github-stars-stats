@@ -1,12 +1,14 @@
 # cloudnative-pg/postgis-containers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/cloudnative-pg/postgis-containers)
+
+[Open detailed stats for cloudnative-pg/postgis-containers](https://reviewgithub.com/rep/cloudnative-pg/postgis-containers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for cloudnative-pg/postgis-containers](https://reviewgithub.com/rep/cloudnative-pg/postgis-containers)

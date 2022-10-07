@@ -1,12 +1,14 @@
 # cowboysysop/charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 35
 
 ★ Stars: 65
 
 [Open repository](https://github.com/cowboysysop/charts)
+
+[Open detailed stats for cowboysysop/charts](https://reviewgithub.com/rep/cowboysysop/charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 62 | 33 | 
 | 2022-09-07 | 62 | 33 | 
 
-
-[Detailed charts & statistics for cowboysysop/charts](https://reviewgithub.com/rep/cowboysysop/charts)

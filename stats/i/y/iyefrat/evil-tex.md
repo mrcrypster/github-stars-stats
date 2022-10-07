@@ -1,12 +1,14 @@
 # iyefrat/evil-tex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 60
 
 [Open repository](https://github.com/iyefrat/evil-tex)
+
+[Open detailed stats for iyefrat/evil-tex](https://reviewgithub.com/rep/iyefrat/evil-tex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 7 | 
 | 2022-09-07 | 60 | 7 | 
 
-
-[Detailed charts & statistics for iyefrat/evil-tex](https://reviewgithub.com/rep/iyefrat/evil-tex)

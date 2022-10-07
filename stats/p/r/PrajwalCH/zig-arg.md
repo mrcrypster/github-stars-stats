@@ -1,12 +1,14 @@
 # PrajwalCH/zig-arg - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 58
 
 [Open repository](https://github.com/PrajwalCH/zig-arg)
+
+[Open detailed stats for PrajwalCH/zig-arg](https://reviewgithub.com/rep/PrajwalCH/zig-arg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 47 | 2 | 
 | 2022-09-08 | 47 | 2 | 
 
-
-[Detailed charts & statistics for PrajwalCH/zig-arg](https://reviewgithub.com/rep/PrajwalCH/zig-arg)

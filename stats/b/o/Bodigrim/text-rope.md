@@ -1,12 +1,14 @@
 # Bodigrim/text-rope - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 32
 
 [Open repository](https://github.com/Bodigrim/text-rope)
+
+[Open detailed stats for Bodigrim/text-rope](https://reviewgithub.com/rep/Bodigrim/text-rope)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | - | 
 | 2022-09-08 | 32 | - | 
 
-
-[Detailed charts & statistics for Bodigrim/text-rope](https://reviewgithub.com/rep/Bodigrim/text-rope)

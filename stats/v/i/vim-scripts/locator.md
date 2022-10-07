@@ -1,12 +1,14 @@
 # vim-scripts/locator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
 
 [Open repository](https://github.com/vim-scripts/locator)
+
+[Open detailed stats for vim-scripts/locator](https://reviewgithub.com/rep/vim-scripts/locator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 5 | 1 | 
 | 2022-09-08 | 5 | 1 | 
 
-
-[Detailed charts & statistics for vim-scripts/locator](https://reviewgithub.com/rep/vim-scripts/locator)

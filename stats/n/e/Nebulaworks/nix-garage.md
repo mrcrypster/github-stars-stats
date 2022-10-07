@@ -1,12 +1,14 @@
 # Nebulaworks/nix-garage - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 11
 
 [Open repository](https://github.com/Nebulaworks/nix-garage)
+
+[Open detailed stats for Nebulaworks/nix-garage](https://reviewgithub.com/rep/Nebulaworks/nix-garage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 8 | 
 | 2022-09-08 | 11 | 8 | 
 
-
-[Detailed charts & statistics for Nebulaworks/nix-garage](https://reviewgithub.com/rep/Nebulaworks/nix-garage)

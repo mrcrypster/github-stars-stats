@@ -1,12 +1,14 @@
 # Adyen/adyen-3ds2-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 14
 
 [Open repository](https://github.com/Adyen/adyen-3ds2-ios)
+
+[Open detailed stats for Adyen/adyen-3ds2-ios](https://reviewgithub.com/rep/Adyen/adyen-3ds2-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 14 | 
 | 2022-09-07 | 14 | 14 | 
 
-
-[Detailed charts & statistics for Adyen/adyen-3ds2-ios](https://reviewgithub.com/rep/Adyen/adyen-3ds2-ios)

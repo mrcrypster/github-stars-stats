@@ -1,12 +1,14 @@
 # mcmanigle/OxThesis - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 69
 
 ★ Stars: 140
 
 [Open repository](https://github.com/mcmanigle/OxThesis)
+
+[Open detailed stats for mcmanigle/OxThesis](https://reviewgithub.com/rep/mcmanigle/OxThesis)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 139 | 68 | 
 | 2022-09-07 | 139 | 67 | 
 
-
-[Detailed charts & statistics for mcmanigle/OxThesis](https://reviewgithub.com/rep/mcmanigle/OxThesis)

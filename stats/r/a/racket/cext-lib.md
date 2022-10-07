@@ -1,12 +1,14 @@
 # racket/cext-lib - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/racket/cext-lib)
+
+[Open detailed stats for racket/cext-lib](https://reviewgithub.com/rep/racket/cext-lib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for racket/cext-lib](https://reviewgithub.com/rep/racket/cext-lib)

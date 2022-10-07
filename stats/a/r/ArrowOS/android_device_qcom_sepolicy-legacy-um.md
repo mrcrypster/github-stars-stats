@@ -1,12 +1,14 @@
 # ArrowOS/android_device_qcom_sepolicy-legacy-um - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ArrowOS/android_device_qcom_sepolicy-legacy-um)
+
+[Open detailed stats for ArrowOS/android_device_qcom_sepolicy-legacy-um](https://reviewgithub.com/rep/ArrowOS/android_device_qcom_sepolicy-legacy-um)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 18 | 
 | 2022-09-08 | - | 18 | 
 
-
-[Detailed charts & statistics for ArrowOS/android_device_qcom_sepolicy-legacy-um](https://reviewgithub.com/rep/ArrowOS/android_device_qcom_sepolicy-legacy-um)

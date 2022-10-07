@@ -1,12 +1,14 @@
 # naddeok96/ball_and_pipe_control - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 1
 
 [Open repository](https://github.com/naddeok96/ball_and_pipe_control)
+
+[Open detailed stats for naddeok96/ball_and_pipe_control](https://reviewgithub.com/rep/naddeok96/ball_and_pipe_control)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 32 | 
 | 2022-09-07 | 1 | 32 | 
 
-
-[Detailed charts & statistics for naddeok96/ball_and_pipe_control](https://reviewgithub.com/rep/naddeok96/ball_and_pipe_control)

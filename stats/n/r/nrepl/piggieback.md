@@ -1,12 +1,14 @@
 # nrepl/piggieback - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 52
 
 ★ Stars: 468
 
 [Open repository](https://github.com/nrepl/piggieback)
+
+[Open detailed stats for nrepl/piggieback](https://reviewgithub.com/rep/nrepl/piggieback)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 468 | 52 | 
 | 2022-09-07 | 468 | 52 | 
 
-
-[Detailed charts & statistics for nrepl/piggieback](https://reviewgithub.com/rep/nrepl/piggieback)

@@ -1,12 +1,14 @@
 # joaotavora/beardbolt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 24
 
 [Open repository](https://github.com/joaotavora/beardbolt)
+
+[Open detailed stats for joaotavora/beardbolt](https://reviewgithub.com/rep/joaotavora/beardbolt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 24 | 1 | 
 | 2022-09-07 | 24 | 1 | 
 
-
-[Detailed charts & statistics for joaotavora/beardbolt](https://reviewgithub.com/rep/joaotavora/beardbolt)

@@ -1,12 +1,14 @@
 # mkam/terraform-cts-hello - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mkam/terraform-cts-hello)
+
+[Open detailed stats for mkam/terraform-cts-hello](https://reviewgithub.com/rep/mkam/terraform-cts-hello)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 3 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for mkam/terraform-cts-hello](https://reviewgithub.com/rep/mkam/terraform-cts-hello)

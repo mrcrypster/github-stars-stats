@@ -1,12 +1,14 @@
 # purescript-web/purescript-web-storage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 9
 
 [Open repository](https://github.com/purescript-web/purescript-web-storage)
+
+[Open detailed stats for purescript-web/purescript-web-storage](https://reviewgithub.com/rep/purescript-web/purescript-web-storage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 9 | 7 | 
 | 2022-09-08 | 9 | 7 | 
 
-
-[Detailed charts & statistics for purescript-web/purescript-web-storage](https://reviewgithub.com/rep/purescript-web/purescript-web-storage)

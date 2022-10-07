@@ -1,12 +1,14 @@
 # Kong/docker-kong - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 770
 
 ★ Stars: 1219
 
 [Open repository](https://github.com/Kong/docker-kong)
+
+[Open detailed stats for Kong/docker-kong](https://reviewgithub.com/rep/Kong/docker-kong)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1213 | 763 | 
 | 2022-09-08 | 1213 | 762 | 
 
-
-[Detailed charts & statistics for Kong/docker-kong](https://reviewgithub.com/rep/Kong/docker-kong)

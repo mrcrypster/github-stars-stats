@@ -1,12 +1,14 @@
 # franzinc/aserve - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 175
 
 [Open repository](https://github.com/franzinc/aserve)
+
+[Open detailed stats for franzinc/aserve](https://reviewgithub.com/rep/franzinc/aserve)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 174 | 26 | 
 | 2022-09-08 | 174 | 26 | 
 
-
-[Detailed charts & statistics for franzinc/aserve](https://reviewgithub.com/rep/franzinc/aserve)

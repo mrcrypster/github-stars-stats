@@ -1,12 +1,14 @@
 # ac3cloud/ript - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 109
 
 [Open repository](https://github.com/ac3cloud/ript)
+
+[Open detailed stats for ac3cloud/ript](https://reviewgithub.com/rep/ac3cloud/ript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 109 | 9 | 
 | 2022-09-07 | 109 | 9 | 
 
-
-[Detailed charts & statistics for ac3cloud/ript](https://reviewgithub.com/rep/ac3cloud/ript)

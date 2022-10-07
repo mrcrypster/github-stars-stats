@@ -1,12 +1,14 @@
 # myrjola/diminish.el - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 162
 
 [Open repository](https://github.com/myrjola/diminish.el)
+
+[Open detailed stats for myrjola/diminish.el](https://reviewgithub.com/rep/myrjola/diminish.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 161 | 13 | 
 | 2022-09-08 | 161 | 13 | 
 
-
-[Detailed charts & statistics for myrjola/diminish.el](https://reviewgithub.com/rep/myrjola/diminish.el)

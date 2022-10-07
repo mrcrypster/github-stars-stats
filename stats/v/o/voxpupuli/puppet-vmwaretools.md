@@ -1,12 +1,14 @@
 # voxpupuli/puppet-vmwaretools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 44
 
 ★ Stars: 34
 
 [Open repository](https://github.com/voxpupuli/puppet-vmwaretools)
+
+[Open detailed stats for voxpupuli/puppet-vmwaretools](https://reviewgithub.com/rep/voxpupuli/puppet-vmwaretools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 34 | 44 | 
 | 2022-09-08 | 34 | 44 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-vmwaretools](https://reviewgithub.com/rep/voxpupuli/puppet-vmwaretools)

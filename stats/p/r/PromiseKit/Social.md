@@ -1,12 +1,14 @@
 # PromiseKit/Social - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/PromiseKit/Social)
+
+[Open detailed stats for PromiseKit/Social](https://reviewgithub.com/rep/PromiseKit/Social)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
 
-
-[Detailed charts & statistics for PromiseKit/Social](https://reviewgithub.com/rep/PromiseKit/Social)

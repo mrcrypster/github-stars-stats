@@ -1,12 +1,14 @@
 # vikas99341/Terraform-codes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 0
 
 [Open repository](https://github.com/vikas99341/Terraform-codes)
+
+[Open detailed stats for vikas99341/Terraform-codes](https://reviewgithub.com/rep/vikas99341/Terraform-codes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 21 | 
 | 2022-09-07 | - | 21 | 
 
-
-[Detailed charts & statistics for vikas99341/Terraform-codes](https://reviewgithub.com/rep/vikas99341/Terraform-codes)

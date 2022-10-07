@@ -1,12 +1,14 @@
 # near/near-sdk-rs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 161
 
 ★ Stars: 358
 
 [Open repository](https://github.com/near/near-sdk-rs)
+
+[Open detailed stats for near/near-sdk-rs](https://reviewgithub.com/rep/near/near-sdk-rs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 349 | 155 | 
 | 2022-09-08 | 349 | 155 | 
 
-
-[Detailed charts & statistics for near/near-sdk-rs](https://reviewgithub.com/rep/near/near-sdk-rs)

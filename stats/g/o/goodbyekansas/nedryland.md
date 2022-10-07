@@ -1,12 +1,14 @@
 # goodbyekansas/nedryland - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
 
 [Open repository](https://github.com/goodbyekansas/nedryland)
+
+[Open detailed stats for goodbyekansas/nedryland](https://reviewgithub.com/rep/goodbyekansas/nedryland)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | - | 
 | 2022-09-07 | 7 | - | 
 
-
-[Detailed charts & statistics for goodbyekansas/nedryland](https://reviewgithub.com/rep/goodbyekansas/nedryland)

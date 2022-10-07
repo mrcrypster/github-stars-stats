@@ -1,12 +1,14 @@
 # Reino17/xivid - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/Reino17/xivid)
+
+[Open detailed stats for Reino17/xivid](https://reviewgithub.com/rep/Reino17/xivid)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 2 | 
 | 2022-09-07 | 4 | 2 | 
 
-
-[Detailed charts & statistics for Reino17/xivid](https://reviewgithub.com/rep/Reino17/xivid)

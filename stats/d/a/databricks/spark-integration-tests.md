@@ -1,12 +1,14 @@
 # databricks/spark-integration-tests - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 62
 
 [Open repository](https://github.com/databricks/spark-integration-tests)
+
+[Open detailed stats for databricks/spark-integration-tests](https://reviewgithub.com/rep/databricks/spark-integration-tests)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 62 | 21 | 
 | 2022-09-07 | 62 | 21 | 
 
-
-[Detailed charts & statistics for databricks/spark-integration-tests](https://reviewgithub.com/rep/databricks/spark-integration-tests)

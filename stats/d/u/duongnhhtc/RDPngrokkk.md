@@ -1,12 +1,14 @@
 # duongnhhtc/RDPngrokkk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/duongnhhtc/RDPngrokkk)
+
+[Open detailed stats for duongnhhtc/RDPngrokkk](https://reviewgithub.com/rep/duongnhhtc/RDPngrokkk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-02 | - | 4 | 
 | 2022-10-01 | - | 4 | 
 
-
-[Detailed charts & statistics for duongnhhtc/RDPngrokkk](https://reviewgithub.com/rep/duongnhhtc/RDPngrokkk)

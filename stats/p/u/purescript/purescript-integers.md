@@ -1,12 +1,14 @@
 # purescript/purescript-integers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 17
 
 [Open repository](https://github.com/purescript/purescript-integers)
+
+[Open detailed stats for purescript/purescript-integers](https://reviewgithub.com/rep/purescript/purescript-integers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 16 | 
 | 2022-09-08 | 16 | 16 | 
 
-
-[Detailed charts & statistics for purescript/purescript-integers](https://reviewgithub.com/rep/purescript/purescript-integers)

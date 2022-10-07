@@ -1,12 +1,14 @@
 # pyramation/postgres-ast-deparser - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 29
 
 [Open repository](https://github.com/pyramation/postgres-ast-deparser)
+
+[Open detailed stats for pyramation/postgres-ast-deparser](https://reviewgithub.com/rep/pyramation/postgres-ast-deparser)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 4 | 
 | 2022-09-07 | 28 | 4 | 
 
-
-[Detailed charts & statistics for pyramation/postgres-ast-deparser](https://reviewgithub.com/rep/pyramation/postgres-ast-deparser)

@@ -1,12 +1,14 @@
 # jennybc/gapminder - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 609
 
 ★ Stars: 253
 
 [Open repository](https://github.com/jennybc/gapminder)
+
+[Open detailed stats for jennybc/gapminder](https://reviewgithub.com/rep/jennybc/gapminder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 253 | 607 | 
 | 2022-09-07 | 253 | 607 | 
 
-
-[Detailed charts & statistics for jennybc/gapminder](https://reviewgithub.com/rep/jennybc/gapminder)

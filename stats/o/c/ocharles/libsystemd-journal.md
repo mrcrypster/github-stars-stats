@@ -1,12 +1,14 @@
 # ocharles/libsystemd-journal - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 20
 
 [Open repository](https://github.com/ocharles/libsystemd-journal)
+
+[Open detailed stats for ocharles/libsystemd-journal](https://reviewgithub.com/rep/ocharles/libsystemd-journal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 20 | 13 | 
 | 2022-09-07 | 20 | 13 | 
 
-
-[Detailed charts & statistics for ocharles/libsystemd-journal](https://reviewgithub.com/rep/ocharles/libsystemd-journal)

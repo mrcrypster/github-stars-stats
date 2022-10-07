@@ -1,12 +1,14 @@
 # vitalii-sopilka/3d-freedom - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 16
 
 [Open repository](https://github.com/vitalii-sopilka/3d-freedom)
+
+[Open detailed stats for vitalii-sopilka/3d-freedom](https://reviewgithub.com/rep/vitalii-sopilka/3d-freedom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -37,5 +39,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-13 | 14 | - | 
 | 2022-09-12 | 14 | - | 
 
-
-[Detailed charts & statistics for vitalii-sopilka/3d-freedom](https://reviewgithub.com/rep/vitalii-sopilka/3d-freedom)

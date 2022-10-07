@@ -1,12 +1,14 @@
 # OfficeDev/skype-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 315
 
 ★ Stars: 150
 
 [Open repository](https://github.com/OfficeDev/skype-docs)
+
+[Open detailed stats for OfficeDev/skype-docs](https://reviewgithub.com/rep/OfficeDev/skype-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 151 | 314 | 
 | 2022-09-08 | 151 | 314 | 
 
-
-[Detailed charts & statistics for OfficeDev/skype-docs](https://reviewgithub.com/rep/OfficeDev/skype-docs)

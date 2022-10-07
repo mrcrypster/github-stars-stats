@@ -1,12 +1,14 @@
 # sethcottle/littlelink - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 406
 
 ★ Stars: 589
 
 [Open repository](https://github.com/sethcottle/littlelink)
+
+[Open detailed stats for sethcottle/littlelink](https://reviewgithub.com/rep/sethcottle/littlelink)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 568 | 391 | 
 | 2022-09-08 | 567 | 391 | 
 
-
-[Detailed charts & statistics for sethcottle/littlelink](https://reviewgithub.com/rep/sethcottle/littlelink)

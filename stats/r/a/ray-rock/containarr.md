@@ -1,12 +1,14 @@
 # ray-rock/containarr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 54
 
 [Open repository](https://github.com/ray-rock/containarr)
+
+[Open detailed stats for ray-rock/containarr](https://reviewgithub.com/rep/ray-rock/containarr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 55 | 1 | 
 | 2022-09-08 | 54 | 1 | 
 
-
-[Detailed charts & statistics for ray-rock/containarr](https://reviewgithub.com/rep/ray-rock/containarr)

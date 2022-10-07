@@ -1,12 +1,14 @@
 # reisanar/dataviz_final_project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 0
 
 [Open repository](https://github.com/reisanar/dataviz_final_project)
+
+[Open detailed stats for reisanar/dataviz_final_project](https://reviewgithub.com/rep/reisanar/dataviz_final_project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 30 | 
 | 2022-09-08 | - | 30 | 
 
-
-[Detailed charts & statistics for reisanar/dataviz_final_project](https://reviewgithub.com/rep/reisanar/dataviz_final_project)

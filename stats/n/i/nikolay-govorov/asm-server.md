@@ -1,12 +1,14 @@
 # nikolay-govorov/asm-server - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 28
 
 [Open repository](https://github.com/nikolay-govorov/asm-server)
+
+[Open detailed stats for nikolay-govorov/asm-server](https://reviewgithub.com/rep/nikolay-govorov/asm-server)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | - | 
 | 2022-09-07 | 28 | - | 
 
-
-[Detailed charts & statistics for nikolay-govorov/asm-server](https://reviewgithub.com/rep/nikolay-govorov/asm-server)

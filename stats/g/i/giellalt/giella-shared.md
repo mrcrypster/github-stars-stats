@@ -1,12 +1,14 @@
 # giellalt/giella-shared - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/giellalt/giella-shared)
+
+[Open detailed stats for giellalt/giella-shared](https://reviewgithub.com/rep/giellalt/giella-shared)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 5 | - | 
 | 2022-09-08 | 5 | - | 
 
-
-[Detailed charts & statistics for giellalt/giella-shared](https://reviewgithub.com/rep/giellalt/giella-shared)

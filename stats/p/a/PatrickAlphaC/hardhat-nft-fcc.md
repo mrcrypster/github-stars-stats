@@ -1,12 +1,14 @@
 # PatrickAlphaC/hardhat-nft-fcc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 77
 
 ★ Stars: 61
 
 [Open repository](https://github.com/PatrickAlphaC/hardhat-nft-fcc)
+
+[Open detailed stats for PatrickAlphaC/hardhat-nft-fcc](https://reviewgithub.com/rep/PatrickAlphaC/hardhat-nft-fcc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 53 | 56 | 
 | 2022-09-08 | 53 | 56 | 
 
-
-[Detailed charts & statistics for PatrickAlphaC/hardhat-nft-fcc](https://reviewgithub.com/rep/PatrickAlphaC/hardhat-nft-fcc)

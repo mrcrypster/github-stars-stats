@@ -1,12 +1,14 @@
 # imran-parray/Mind-Maps - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 304
 
 ★ Stars: 1069
 
 [Open repository](https://github.com/imran-parray/Mind-Maps)
+
+[Open detailed stats for imran-parray/Mind-Maps](https://reviewgithub.com/rep/imran-parray/Mind-Maps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -16,5 +18,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-05 | 1055 | 301 | 
 | 2022-10-04 | 1054 | 301 | 
 
-
-[Detailed charts & statistics for imran-parray/Mind-Maps](https://reviewgithub.com/rep/imran-parray/Mind-Maps)

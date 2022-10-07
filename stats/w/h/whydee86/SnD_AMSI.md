@@ -1,12 +1,14 @@
 # whydee86/SnD_AMSI - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 146
 
 [Open repository](https://github.com/whydee86/SnD_AMSI)
+
+[Open detailed stats for whydee86/SnD_AMSI](https://reviewgithub.com/rep/whydee86/SnD_AMSI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 146 | 22 | 
 | 2022-09-07 | 146 | 22 | 
 
-
-[Detailed charts & statistics for whydee86/SnD_AMSI](https://reviewgithub.com/rep/whydee86/SnD_AMSI)

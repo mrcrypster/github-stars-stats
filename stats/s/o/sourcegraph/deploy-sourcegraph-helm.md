@@ -1,12 +1,14 @@
 # sourcegraph/deploy-sourcegraph-helm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 6
 
 [Open repository](https://github.com/sourcegraph/deploy-sourcegraph-helm)
+
+[Open detailed stats for sourcegraph/deploy-sourcegraph-helm](https://reviewgithub.com/rep/sourcegraph/deploy-sourcegraph-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 8 | 
 | 2022-09-07 | 6 | 8 | 
 
-
-[Detailed charts & statistics for sourcegraph/deploy-sourcegraph-helm](https://reviewgithub.com/rep/sourcegraph/deploy-sourcegraph-helm)

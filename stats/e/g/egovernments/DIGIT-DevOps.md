@@ -1,12 +1,14 @@
 # egovernments/DIGIT-DevOps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 4
 
 [Open repository](https://github.com/egovernments/DIGIT-DevOps)
+
+[Open detailed stats for egovernments/DIGIT-DevOps](https://reviewgithub.com/rep/egovernments/DIGIT-DevOps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 36 | 
 | 2022-09-08 | 4 | 36 | 
 
-
-[Detailed charts & statistics for egovernments/DIGIT-DevOps](https://reviewgithub.com/rep/egovernments/DIGIT-DevOps)

@@ -1,12 +1,14 @@
 # devtooligan/huffhuffpass - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 26
 
 [Open repository](https://github.com/devtooligan/huffhuffpass)
+
+[Open detailed stats for devtooligan/huffhuffpass](https://reviewgithub.com/rep/devtooligan/huffhuffpass)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 2 | 
 | 2022-09-07 | 25 | 2 | 
 
-
-[Detailed charts & statistics for devtooligan/huffhuffpass](https://reviewgithub.com/rep/devtooligan/huffhuffpass)

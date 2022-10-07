@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-fixed-points - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 14
 
 [Open repository](https://github.com/purescript-contrib/purescript-fixed-points)
+
+[Open detailed stats for purescript-contrib/purescript-fixed-points](https://reviewgithub.com/rep/purescript-contrib/purescript-fixed-points)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 10 | 
 | 2022-09-07 | 14 | 10 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-fixed-points](https://reviewgithub.com/rep/purescript-contrib/purescript-fixed-points)

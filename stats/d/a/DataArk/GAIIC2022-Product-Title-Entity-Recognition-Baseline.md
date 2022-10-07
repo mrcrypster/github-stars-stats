@@ -1,12 +1,14 @@
 # DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 53
 
 [Open repository](https://github.com/DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline)
+
+[Open detailed stats for DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline](https://reviewgithub.com/rep/DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 17 | 
 | 2022-09-07 | 51 | 17 | 
 
-
-[Detailed charts & statistics for DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline](https://reviewgithub.com/rep/DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline)

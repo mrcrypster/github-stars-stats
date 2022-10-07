@@ -1,12 +1,14 @@
 # rocketseat-education/nlw-return-origin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 52
 
 [Open repository](https://github.com/rocketseat-education/nlw-return-origin)
+
+[Open detailed stats for rocketseat-education/nlw-return-origin](https://reviewgithub.com/rep/rocketseat-education/nlw-return-origin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 50 | 16 | 
 | 2022-09-07 | 50 | 16 | 
 
-
-[Detailed charts & statistics for rocketseat-education/nlw-return-origin](https://reviewgithub.com/rep/rocketseat-education/nlw-return-origin)

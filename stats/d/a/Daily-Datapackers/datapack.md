@@ -1,12 +1,14 @@
 # Daily-Datapackers/datapack - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 7
 
 [Open repository](https://github.com/Daily-Datapackers/datapack)
+
+[Open detailed stats for Daily-Datapackers/datapack](https://reviewgithub.com/rep/Daily-Datapackers/datapack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 8 | 4 | 
 | 2022-09-11 | 8 | 4 | 
 
-
-[Detailed charts & statistics for Daily-Datapackers/datapack](https://reviewgithub.com/rep/Daily-Datapackers/datapack)

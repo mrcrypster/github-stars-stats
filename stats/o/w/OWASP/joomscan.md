@@ -1,12 +1,14 @@
 # OWASP/joomscan - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 231
 
 ★ Stars: 856
 
 [Open repository](https://github.com/OWASP/joomscan)
+
+[Open detailed stats for OWASP/joomscan](https://reviewgithub.com/rep/OWASP/joomscan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 853 | 231 | 
 | 2022-09-07 | 852 | 231 | 
 
-
-[Detailed charts & statistics for OWASP/joomscan](https://reviewgithub.com/rep/OWASP/joomscan)

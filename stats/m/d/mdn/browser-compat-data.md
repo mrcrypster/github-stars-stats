@@ -1,12 +1,14 @@
 # mdn/browser-compat-data - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1917
 
 ★ Stars: 4244
 
 [Open repository](https://github.com/mdn/browser-compat-data)
+
+[Open detailed stats for mdn/browser-compat-data](https://reviewgithub.com/rep/mdn/browser-compat-data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4218 | 1910 | 
 | 2022-09-07 | 4214 | 1909 | 
 
-
-[Detailed charts & statistics for mdn/browser-compat-data](https://reviewgithub.com/rep/mdn/browser-compat-data)

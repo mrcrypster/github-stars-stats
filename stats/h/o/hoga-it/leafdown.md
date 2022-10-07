@@ -1,12 +1,14 @@
 # hoga-it/leafdown - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 43
 
 [Open repository](https://github.com/hoga-it/leafdown)
+
+[Open detailed stats for hoga-it/leafdown](https://reviewgithub.com/rep/hoga-it/leafdown)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 43 | 3 | 
 | 2022-09-07 | 43 | 3 | 
 
-
-[Detailed charts & statistics for hoga-it/leafdown](https://reviewgithub.com/rep/hoga-it/leafdown)

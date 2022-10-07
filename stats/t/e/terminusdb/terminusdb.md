@@ -1,12 +1,14 @@
 # terminusdb/terminusdb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 89
 
 ★ Stars: 1996
 
 [Open repository](https://github.com/terminusdb/terminusdb)
+
+[Open detailed stats for terminusdb/terminusdb](https://reviewgithub.com/rep/terminusdb/terminusdb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1973 | 87 | 
 | 2022-09-07 | 1973 | 87 | 
 
-
-[Detailed charts & statistics for terminusdb/terminusdb](https://reviewgithub.com/rep/terminusdb/terminusdb)

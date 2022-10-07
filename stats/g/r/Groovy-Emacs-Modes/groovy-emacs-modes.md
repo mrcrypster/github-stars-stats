@@ -1,12 +1,14 @@
 # Groovy-Emacs-Modes/groovy-emacs-modes - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 75
 
 [Open repository](https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes)
+
+[Open detailed stats for Groovy-Emacs-Modes/groovy-emacs-modes](https://reviewgithub.com/rep/Groovy-Emacs-Modes/groovy-emacs-modes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 75 | 37 | 
 | 2022-09-07 | 75 | 37 | 
 
-
-[Detailed charts & statistics for Groovy-Emacs-Modes/groovy-emacs-modes](https://reviewgithub.com/rep/Groovy-Emacs-Modes/groovy-emacs-modes)

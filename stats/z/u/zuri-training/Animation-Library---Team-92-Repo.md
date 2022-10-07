@@ -1,12 +1,14 @@
 # zuri-training/Animation-Library---Team-92-Repo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 2
 
 [Open repository](https://github.com/zuri-training/Animation-Library---Team-92-Repo)
+
+[Open detailed stats for zuri-training/Animation-Library---Team-92-Repo](https://reviewgithub.com/rep/zuri-training/Animation-Library---Team-92-Repo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 8 | 
 | 2022-09-07 | 2 | 8 | 
 
-
-[Detailed charts & statistics for zuri-training/Animation-Library---Team-92-Repo](https://reviewgithub.com/rep/zuri-training/Animation-Library---Team-92-Repo)

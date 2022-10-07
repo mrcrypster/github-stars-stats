@@ -1,12 +1,14 @@
 # priyankavergadia/GCPSketchnote - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 467
 
 ★ Stars: 3361
 
 [Open repository](https://github.com/priyankavergadia/GCPSketchnote)
+
+[Open detailed stats for priyankavergadia/GCPSketchnote](https://reviewgithub.com/rep/priyankavergadia/GCPSketchnote)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3306 | 446 | 
 | 2022-09-07 | 3304 | 445 | 
 
-
-[Detailed charts & statistics for priyankavergadia/GCPSketchnote](https://reviewgithub.com/rep/priyankavergadia/GCPSketchnote)

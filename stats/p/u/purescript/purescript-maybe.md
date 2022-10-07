@@ -1,12 +1,14 @@
 # purescript/purescript-maybe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 17
 
 [Open repository](https://github.com/purescript/purescript-maybe)
+
+[Open detailed stats for purescript/purescript-maybe](https://reviewgithub.com/rep/purescript/purescript-maybe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 17 | 19 | 
 | 2022-09-07 | 17 | 19 | 
 
-
-[Detailed charts & statistics for purescript/purescript-maybe](https://reviewgithub.com/rep/purescript/purescript-maybe)

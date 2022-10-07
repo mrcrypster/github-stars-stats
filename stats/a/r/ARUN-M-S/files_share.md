@@ -1,12 +1,14 @@
 # ARUN-M-S/files_share - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 15
 
 [Open repository](https://github.com/ARUN-M-S/files_share)
+
+[Open detailed stats for ARUN-M-S/files_share](https://reviewgithub.com/rep/ARUN-M-S/files_share)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 15 | - | 
 | 2022-09-07 | 15 | - | 
 
-
-[Detailed charts & statistics for ARUN-M-S/files_share](https://reviewgithub.com/rep/ARUN-M-S/files_share)

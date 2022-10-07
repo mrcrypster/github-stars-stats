@@ -1,12 +1,14 @@
 # kursjan/petitparser2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 37
 
 [Open repository](https://github.com/kursjan/petitparser2)
+
+[Open detailed stats for kursjan/petitparser2](https://reviewgithub.com/rep/kursjan/petitparser2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 37 | 14 | 
 | 2022-09-07 | 37 | 14 | 
 
-
-[Detailed charts & statistics for kursjan/petitparser2](https://reviewgithub.com/rep/kursjan/petitparser2)

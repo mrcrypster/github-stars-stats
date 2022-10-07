@@ -1,12 +1,14 @@
 # spryker/spryker-docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 64
 
 ★ Stars: 6
 
 [Open repository](https://github.com/spryker/spryker-docs)
+
+[Open detailed stats for spryker/spryker-docs](https://reviewgithub.com/rep/spryker/spryker-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 60 | 
 | 2022-09-07 | 5 | 60 | 
 
-
-[Detailed charts & statistics for spryker/spryker-docs](https://reviewgithub.com/rep/spryker/spryker-docs)

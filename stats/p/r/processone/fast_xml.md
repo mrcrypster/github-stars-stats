@@ -1,12 +1,14 @@
 # processone/fast_xml - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
 ★ Stars: 121
 
 [Open repository](https://github.com/processone/fast_xml)
+
+[Open detailed stats for processone/fast_xml](https://reviewgithub.com/rep/processone/fast_xml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 121 | 47 | 
 | 2022-09-07 | 121 | 47 | 
 
-
-[Detailed charts & statistics for processone/fast_xml](https://reviewgithub.com/rep/processone/fast_xml)

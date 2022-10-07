@@ -1,12 +1,14 @@
 # Ruin0x11/ElonaPlusCustom-GX - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 72
 
 [Open repository](https://github.com/Ruin0x11/ElonaPlusCustom-GX)
+
+[Open detailed stats for Ruin0x11/ElonaPlusCustom-GX](https://reviewgithub.com/rep/Ruin0x11/ElonaPlusCustom-GX)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 71 | 8 | 
 | 2022-09-07 | 71 | 8 | 
 
-
-[Detailed charts & statistics for Ruin0x11/ElonaPlusCustom-GX](https://reviewgithub.com/rep/Ruin0x11/ElonaPlusCustom-GX)

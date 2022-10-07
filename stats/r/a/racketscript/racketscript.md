@@ -1,12 +1,14 @@
 # racketscript/racketscript - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 577
 
 [Open repository](https://github.com/racketscript/racketscript)
+
+[Open detailed stats for racketscript/racketscript](https://reviewgithub.com/rep/racketscript/racketscript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 573 | 28 | 
 | 2022-09-07 | 573 | 28 | 
 
-
-[Detailed charts & statistics for racketscript/racketscript](https://reviewgithub.com/rep/racketscript/racketscript)

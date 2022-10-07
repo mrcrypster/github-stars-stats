@@ -1,12 +1,14 @@
 # matteason/scotrail-announcements-june-2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 40
 
 [Open repository](https://github.com/matteason/scotrail-announcements-june-2022)
+
+[Open detailed stats for matteason/scotrail-announcements-june-2022](https://reviewgithub.com/rep/matteason/scotrail-announcements-june-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 4 | 
 | 2022-09-07 | 35 | 4 | 
 
-
-[Detailed charts & statistics for matteason/scotrail-announcements-june-2022](https://reviewgithub.com/rep/matteason/scotrail-announcements-june-2022)

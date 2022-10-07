@@ -1,12 +1,14 @@
 # maurelian/solidity-sandbox - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 67
 
 [Open repository](https://github.com/maurelian/solidity-sandbox)
+
+[Open detailed stats for maurelian/solidity-sandbox](https://reviewgithub.com/rep/maurelian/solidity-sandbox)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 66 | 3 | 
 | 2022-09-07 | 66 | 3 | 
 
-
-[Detailed charts & statistics for maurelian/solidity-sandbox](https://reviewgithub.com/rep/maurelian/solidity-sandbox)

@@ -1,12 +1,14 @@
 # idealista/bitbucket_role - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 4
 
 [Open repository](https://github.com/idealista/bitbucket_role)
+
+[Open detailed stats for idealista/bitbucket_role](https://reviewgithub.com/rep/idealista/bitbucket_role)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 9 | 
 | 2022-09-07 | 4 | 9 | 
 
-
-[Detailed charts & statistics for idealista/bitbucket_role](https://reviewgithub.com/rep/idealista/bitbucket_role)

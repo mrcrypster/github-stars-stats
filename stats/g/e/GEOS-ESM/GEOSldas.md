@@ -1,12 +1,14 @@
 # GEOS-ESM/GEOSldas - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 9
 
 [Open repository](https://github.com/GEOS-ESM/GEOSldas)
+
+[Open detailed stats for GEOS-ESM/GEOSldas](https://reviewgithub.com/rep/GEOS-ESM/GEOSldas)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 7 | 
 | 2022-09-08 | 8 | 7 | 
 
-
-[Detailed charts & statistics for GEOS-ESM/GEOSldas](https://reviewgithub.com/rep/GEOS-ESM/GEOSldas)

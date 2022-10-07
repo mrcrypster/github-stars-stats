@@ -1,12 +1,14 @@
 # stkb/Rewrap - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 409
 
 [Open repository](https://github.com/stkb/Rewrap)
+
+[Open detailed stats for stkb/Rewrap](https://reviewgithub.com/rep/stkb/Rewrap)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 404 | 45 | 
 | 2022-09-08 | 404 | 45 | 
 
-
-[Detailed charts & statistics for stkb/Rewrap](https://reviewgithub.com/rep/stkb/Rewrap)

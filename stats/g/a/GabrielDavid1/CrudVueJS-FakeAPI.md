@@ -1,12 +1,14 @@
 # GabrielDavid1/CrudVueJS-FakeAPI - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 35
 
 [Open repository](https://github.com/GabrielDavid1/CrudVueJS-FakeAPI)
+
+[Open detailed stats for GabrielDavid1/CrudVueJS-FakeAPI](https://reviewgithub.com/rep/GabrielDavid1/CrudVueJS-FakeAPI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | - | 
 | 2022-09-07 | 35 | - | 
 
-
-[Detailed charts & statistics for GabrielDavid1/CrudVueJS-FakeAPI](https://reviewgithub.com/rep/GabrielDavid1/CrudVueJS-FakeAPI)

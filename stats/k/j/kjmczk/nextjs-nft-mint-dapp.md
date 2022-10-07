@@ -1,12 +1,14 @@
 # kjmczk/nextjs-nft-mint-dapp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 79
 
 ★ Stars: 146
 
 [Open repository](https://github.com/kjmczk/nextjs-nft-mint-dapp)
+
+[Open detailed stats for kjmczk/nextjs-nft-mint-dapp](https://reviewgithub.com/rep/kjmczk/nextjs-nft-mint-dapp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 137 | 74 | 
 | 2022-09-07 | 137 | 73 | 
 
-
-[Detailed charts & statistics for kjmczk/nextjs-nft-mint-dapp](https://reviewgithub.com/rep/kjmczk/nextjs-nft-mint-dapp)

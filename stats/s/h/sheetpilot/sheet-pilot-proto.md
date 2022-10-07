@@ -1,12 +1,14 @@
 # sheetpilot/sheet-pilot-proto - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sheetpilot/sheet-pilot-proto)
+
+[Open detailed stats for sheetpilot/sheet-pilot-proto](https://reviewgithub.com/rep/sheetpilot/sheet-pilot-proto)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | - | - | 
 | 2022-10-02 | - | - | 
 
-
-[Detailed charts & statistics for sheetpilot/sheet-pilot-proto](https://reviewgithub.com/rep/sheetpilot/sheet-pilot-proto)

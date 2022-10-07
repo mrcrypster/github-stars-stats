@@ -1,12 +1,14 @@
 # Nusantara-ROM/android_prebuilts_tools-extras - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Nusantara-ROM/android_prebuilts_tools-extras)
+
+[Open detailed stats for Nusantara-ROM/android_prebuilts_tools-extras](https://reviewgithub.com/rep/Nusantara-ROM/android_prebuilts_tools-extras)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for Nusantara-ROM/android_prebuilts_tools-extras](https://reviewgithub.com/rep/Nusantara-ROM/android_prebuilts_tools-extras)

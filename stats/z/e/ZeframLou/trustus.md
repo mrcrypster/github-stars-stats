@@ -1,12 +1,14 @@
 # ZeframLou/trustus - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 111
 
 [Open repository](https://github.com/ZeframLou/trustus)
+
+[Open detailed stats for ZeframLou/trustus](https://reviewgithub.com/rep/ZeframLou/trustus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 111 | 6 | 
 | 2022-09-08 | 111 | 6 | 
 
-
-[Detailed charts & statistics for ZeframLou/trustus](https://reviewgithub.com/rep/ZeframLou/trustus)

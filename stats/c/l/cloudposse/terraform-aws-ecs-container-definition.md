@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-ecs-container-definition - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 202
 
 ★ Stars: 290
 
 [Open repository](https://github.com/cloudposse/terraform-aws-ecs-container-definition)
+
+[Open detailed stats for cloudposse/terraform-aws-ecs-container-definition](https://reviewgithub.com/rep/cloudposse/terraform-aws-ecs-container-definition)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 289 | 193 | 
 | 2022-09-07 | 289 | 193 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-ecs-container-definition](https://reviewgithub.com/rep/cloudposse/terraform-aws-ecs-container-definition)

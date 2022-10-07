@@ -1,12 +1,14 @@
 # matthewhowell/reasonable-colors - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 288
 
 [Open repository](https://github.com/matthewhowell/reasonable-colors)
+
+[Open detailed stats for matthewhowell/reasonable-colors](https://reviewgithub.com/rep/matthewhowell/reasonable-colors)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 281 | 9 | 
 | 2022-09-08 | 281 | 9 | 
 
-
-[Detailed charts & statistics for matthewhowell/reasonable-colors](https://reviewgithub.com/rep/matthewhowell/reasonable-colors)

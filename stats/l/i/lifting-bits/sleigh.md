@@ -1,12 +1,14 @@
 # lifting-bits/sleigh - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 43
 
 [Open repository](https://github.com/lifting-bits/sleigh)
+
+[Open detailed stats for lifting-bits/sleigh](https://reviewgithub.com/rep/lifting-bits/sleigh)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 43 | 10 | 
 | 2022-09-08 | 43 | 10 | 
 
-
-[Detailed charts & statistics for lifting-bits/sleigh](https://reviewgithub.com/rep/lifting-bits/sleigh)

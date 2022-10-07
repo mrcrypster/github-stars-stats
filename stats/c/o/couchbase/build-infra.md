@@ -1,12 +1,14 @@
 # couchbase/build-infra - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 3
 
 [Open repository](https://github.com/couchbase/build-infra)
+
+[Open detailed stats for couchbase/build-infra](https://reviewgithub.com/rep/couchbase/build-infra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 11 | 
 | 2022-09-08 | 3 | 11 | 
 
-
-[Detailed charts & statistics for couchbase/build-infra](https://reviewgithub.com/rep/couchbase/build-infra)

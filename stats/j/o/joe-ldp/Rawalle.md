@@ -1,12 +1,14 @@
 # joe-ldp/Rawalle - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 15
 
 [Open repository](https://github.com/joe-ldp/Rawalle)
+
+[Open detailed stats for joe-ldp/Rawalle](https://reviewgithub.com/rep/joe-ldp/Rawalle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 4 | 
 | 2022-09-08 | 13 | 4 | 
 
-
-[Detailed charts & statistics for joe-ldp/Rawalle](https://reviewgithub.com/rep/joe-ldp/Rawalle)

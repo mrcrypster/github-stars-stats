@@ -1,12 +1,14 @@
 # smith1984/sde_test_db - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 62
 
 ★ Stars: 0
 
 [Open repository](https://github.com/smith1984/sde_test_db)
+
+[Open detailed stats for smith1984/sde_test_db](https://reviewgithub.com/rep/smith1984/sde_test_db)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 62 | 
 | 2022-09-07 | - | 62 | 
 
-
-[Detailed charts & statistics for smith1984/sde_test_db](https://reviewgithub.com/rep/smith1984/sde_test_db)

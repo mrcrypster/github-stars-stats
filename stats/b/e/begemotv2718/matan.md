@@ -1,12 +1,14 @@
 # begemotv2718/matan - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/begemotv2718/matan)
+
+[Open detailed stats for begemotv2718/matan](https://reviewgithub.com/rep/begemotv2718/matan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for begemotv2718/matan](https://reviewgithub.com/rep/begemotv2718/matan)

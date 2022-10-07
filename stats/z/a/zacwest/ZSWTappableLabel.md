@@ -1,12 +1,14 @@
 # zacwest/ZSWTappableLabel - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 34
 
 ★ Stars: 168
 
 [Open repository](https://github.com/zacwest/ZSWTappableLabel)
+
+[Open detailed stats for zacwest/ZSWTappableLabel](https://reviewgithub.com/rep/zacwest/ZSWTappableLabel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 166 | 34 | 
 | 2022-09-07 | 166 | 34 | 
 
-
-[Detailed charts & statistics for zacwest/ZSWTappableLabel](https://reviewgithub.com/rep/zacwest/ZSWTappableLabel)

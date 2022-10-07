@@ -1,12 +1,14 @@
 # phalconer/fladminvue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 32
 
 ★ Stars: 100
 
 [Open repository](https://github.com/phalconer/fladminvue)
+
+[Open detailed stats for phalconer/fladminvue](https://reviewgithub.com/rep/phalconer/fladminvue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 102 | 32 | 
 | 2022-09-08 | 102 | 32 | 
 
-
-[Detailed charts & statistics for phalconer/fladminvue](https://reviewgithub.com/rep/phalconer/fladminvue)

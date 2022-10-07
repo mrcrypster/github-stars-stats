@@ -1,12 +1,14 @@
 # nschurmann/configs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 128
 
 ★ Stars: 390
 
 [Open repository](https://github.com/nschurmann/configs)
+
+[Open detailed stats for nschurmann/configs](https://reviewgithub.com/rep/nschurmann/configs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 388 | 126 | 
 | 2022-09-07 | 388 | 126 | 
 
-
-[Detailed charts & statistics for nschurmann/configs](https://reviewgithub.com/rep/nschurmann/configs)

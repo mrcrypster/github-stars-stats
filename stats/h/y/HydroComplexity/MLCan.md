@@ -1,12 +1,14 @@
 # HydroComplexity/MLCan - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 6
 
 [Open repository](https://github.com/HydroComplexity/MLCan)
+
+[Open detailed stats for HydroComplexity/MLCan](https://reviewgithub.com/rep/HydroComplexity/MLCan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 5 | 
 | 2022-09-07 | 6 | 5 | 
 
-
-[Detailed charts & statistics for HydroComplexity/MLCan](https://reviewgithub.com/rep/HydroComplexity/MLCan)

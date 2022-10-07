@@ -1,12 +1,14 @@
 # vandaltool/vandalir - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 17
 
 [Open repository](https://github.com/vandaltool/vandalir)
+
+[Open detailed stats for vandaltool/vandalir](https://reviewgithub.com/rep/vandaltool/vandalir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 1 | 
 | 2022-09-07 | 16 | 1 | 
 
-
-[Detailed charts & statistics for vandaltool/vandalir](https://reviewgithub.com/rep/vandaltool/vandalir)

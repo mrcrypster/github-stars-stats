@@ -1,12 +1,14 @@
 # splunk/addonfactory-splunk_sa_cim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/splunk/addonfactory-splunk_sa_cim)
+
+[Open detailed stats for splunk/addonfactory-splunk_sa_cim](https://reviewgithub.com/rep/splunk/addonfactory-splunk_sa_cim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 2 | 
 | 2022-09-07 | 2 | 2 | 
 
-
-[Detailed charts & statistics for splunk/addonfactory-splunk_sa_cim](https://reviewgithub.com/rep/splunk/addonfactory-splunk_sa_cim)

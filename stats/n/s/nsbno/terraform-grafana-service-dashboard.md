@@ -1,12 +1,14 @@
 # nsbno/terraform-grafana-service-dashboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nsbno/terraform-grafana-service-dashboard)
+
+[Open detailed stats for nsbno/terraform-grafana-service-dashboard](https://reviewgithub.com/rep/nsbno/terraform-grafana-service-dashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for nsbno/terraform-grafana-service-dashboard](https://reviewgithub.com/rep/nsbno/terraform-grafana-service-dashboard)

@@ -1,12 +1,14 @@
 # flano-yuki/http3-note - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 689
 
 [Open repository](https://github.com/flano-yuki/http3-note)
+
+[Open detailed stats for flano-yuki/http3-note](https://reviewgithub.com/rep/flano-yuki/http3-note)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 684 | 10 | 
 | 2022-09-07 | 683 | 10 | 
 
-
-[Detailed charts & statistics for flano-yuki/http3-note](https://reviewgithub.com/rep/flano-yuki/http3-note)

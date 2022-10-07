@@ -1,12 +1,14 @@
 # Guest0x0/normalization-bench - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 34
 
 [Open repository](https://github.com/Guest0x0/normalization-bench)
+
+[Open detailed stats for Guest0x0/normalization-bench](https://reviewgithub.com/rep/Guest0x0/normalization-bench)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 2 | 
 | 2022-09-07 | 35 | 2 | 
 
-
-[Detailed charts & statistics for Guest0x0/normalization-bench](https://reviewgithub.com/rep/Guest0x0/normalization-bench)

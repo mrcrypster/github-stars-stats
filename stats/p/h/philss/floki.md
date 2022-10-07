@@ -1,12 +1,14 @@
 # philss/floki - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 131
 
 ★ Stars: 1773
 
 [Open repository](https://github.com/philss/floki)
+
+[Open detailed stats for philss/floki](https://reviewgithub.com/rep/philss/floki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1760 | 129 | 
 | 2022-09-08 | 1760 | 129 | 
 
-
-[Detailed charts & statistics for philss/floki](https://reviewgithub.com/rep/philss/floki)

@@ -1,12 +1,14 @@
 # nf-core/ampliseq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 56
 
 ★ Stars: 99
 
 [Open repository](https://github.com/nf-core/ampliseq)
+
+[Open detailed stats for nf-core/ampliseq](https://reviewgithub.com/rep/nf-core/ampliseq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 93 | 57 | 
 | 2022-09-08 | 93 | 57 | 
 
-
-[Detailed charts & statistics for nf-core/ampliseq](https://reviewgithub.com/rep/nf-core/ampliseq)

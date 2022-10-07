@@ -1,12 +1,14 @@
 # onbjerg/forge-coverage-test - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 30
 
 [Open repository](https://github.com/onbjerg/forge-coverage-test)
+
+[Open detailed stats for onbjerg/forge-coverage-test](https://reviewgithub.com/rep/onbjerg/forge-coverage-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 2 | 
 | 2022-09-08 | 24 | 2 | 
 
-
-[Detailed charts & statistics for onbjerg/forge-coverage-test](https://reviewgithub.com/rep/onbjerg/forge-coverage-test)

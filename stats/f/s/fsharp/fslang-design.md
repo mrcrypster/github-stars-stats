@@ -1,12 +1,14 @@
 # fsharp/fslang-design - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 123
 
 ★ Stars: 435
 
 [Open repository](https://github.com/fsharp/fslang-design)
+
+[Open detailed stats for fsharp/fslang-design](https://reviewgithub.com/rep/fsharp/fslang-design)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 430 | 123 | 
 | 2022-09-07 | 430 | 123 | 
 
-
-[Detailed charts & statistics for fsharp/fslang-design](https://reviewgithub.com/rep/fsharp/fslang-design)

@@ -1,12 +1,14 @@
 # AKC068/nitBlog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AKC068/nitBlog)
+
+[Open detailed stats for AKC068/nitBlog](https://reviewgithub.com/rep/AKC068/nitBlog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for AKC068/nitBlog](https://reviewgithub.com/rep/AKC068/nitBlog)

@@ -1,12 +1,14 @@
 # KirillTemnov/node-pocket - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 29
 
 [Open repository](https://github.com/KirillTemnov/node-pocket)
+
+[Open detailed stats for KirillTemnov/node-pocket](https://reviewgithub.com/rep/KirillTemnov/node-pocket)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 29 | 3 | 
 | 2022-09-22 | 29 | 3 | 
 
-
-[Detailed charts & statistics for KirillTemnov/node-pocket](https://reviewgithub.com/rep/KirillTemnov/node-pocket)

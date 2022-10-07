@@ -1,12 +1,14 @@
 # UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 20
 
 [Open repository](https://github.com/UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management)
+
+[Open detailed stats for UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management](https://reviewgithub.com/rep/UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 26 | 
 | 2022-09-07 | 20 | 26 | 
 
-
-[Detailed charts & statistics for UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management](https://reviewgithub.com/rep/UtkarshChaurasia/AI-Enabled-B2B-FINTECH-Management)

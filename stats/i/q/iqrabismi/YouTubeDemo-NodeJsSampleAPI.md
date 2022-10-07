@@ -1,12 +1,14 @@
 # iqrabismi/YouTubeDemo-NodeJsSampleAPI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 31
 
 ★ Stars: 0
 
 [Open repository](https://github.com/iqrabismi/YouTubeDemo-NodeJsSampleAPI)
+
+[Open detailed stats for iqrabismi/YouTubeDemo-NodeJsSampleAPI](https://reviewgithub.com/rep/iqrabismi/YouTubeDemo-NodeJsSampleAPI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 26 | 
 | 2022-09-08 | - | 26 | 
 
-
-[Detailed charts & statistics for iqrabismi/YouTubeDemo-NodeJsSampleAPI](https://reviewgithub.com/rep/iqrabismi/YouTubeDemo-NodeJsSampleAPI)

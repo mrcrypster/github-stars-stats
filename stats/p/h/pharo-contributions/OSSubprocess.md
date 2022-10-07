@@ -1,12 +1,14 @@
 # pharo-contributions/OSSubprocess - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 29
 
 [Open repository](https://github.com/pharo-contributions/OSSubprocess)
+
+[Open detailed stats for pharo-contributions/OSSubprocess](https://reviewgithub.com/rep/pharo-contributions/OSSubprocess)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 29 | 21 | 
 | 2022-09-08 | 29 | 21 | 
 
-
-[Detailed charts & statistics for pharo-contributions/OSSubprocess](https://reviewgithub.com/rep/pharo-contributions/OSSubprocess)

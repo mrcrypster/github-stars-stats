@@ -1,12 +1,14 @@
 # kota69th/vendor_venus-miuicamera - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 2
 
 [Open repository](https://github.com/kota69th/vendor_venus-miuicamera)
+
+[Open detailed stats for kota69th/vendor_venus-miuicamera](https://reviewgithub.com/rep/kota69th/vendor_venus-miuicamera)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 3 | 
 | 2022-09-07 | 2 | 3 | 
 
-
-[Detailed charts & statistics for kota69th/vendor_venus-miuicamera](https://reviewgithub.com/rep/kota69th/vendor_venus-miuicamera)

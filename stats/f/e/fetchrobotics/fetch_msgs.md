@@ -1,12 +1,14 @@
 # fetchrobotics/fetch_msgs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 5
 
 [Open repository](https://github.com/fetchrobotics/fetch_msgs)
+
+[Open detailed stats for fetchrobotics/fetch_msgs](https://reviewgithub.com/rep/fetchrobotics/fetch_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 16 | 
 | 2022-09-07 | 5 | 16 | 
 
-
-[Detailed charts & statistics for fetchrobotics/fetch_msgs](https://reviewgithub.com/rep/fetchrobotics/fetch_msgs)

@@ -1,12 +1,14 @@
 # ustunb/bp3d-safe-prediction - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ustunb/bp3d-safe-prediction)
+
+[Open detailed stats for ustunb/bp3d-safe-prediction](https://reviewgithub.com/rep/ustunb/bp3d-safe-prediction)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for ustunb/bp3d-safe-prediction](https://reviewgithub.com/rep/ustunb/bp3d-safe-prediction)

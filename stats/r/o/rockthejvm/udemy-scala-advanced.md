@@ -1,12 +1,14 @@
 # rockthejvm/udemy-scala-advanced - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 38
 
 [Open repository](https://github.com/rockthejvm/udemy-scala-advanced)
+
+[Open detailed stats for rockthejvm/udemy-scala-advanced](https://reviewgithub.com/rep/rockthejvm/udemy-scala-advanced)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 39 | 
 | 2022-09-07 | 36 | 39 | 
 
-
-[Detailed charts & statistics for rockthejvm/udemy-scala-advanced](https://reviewgithub.com/rep/rockthejvm/udemy-scala-advanced)

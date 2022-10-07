@@ -1,12 +1,14 @@
 # boostorg/docca - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 11
 
 [Open repository](https://github.com/boostorg/docca)
+
+[Open detailed stats for boostorg/docca](https://reviewgithub.com/rep/boostorg/docca)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | 17 | 
 | 2022-09-08 | 11 | 16 | 
 
-
-[Detailed charts & statistics for boostorg/docca](https://reviewgithub.com/rep/boostorg/docca)

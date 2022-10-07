@@ -1,12 +1,14 @@
 # Pierro55/Loop - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 41
 
 [Open repository](https://github.com/Pierro55/Loop)
+
+[Open detailed stats for Pierro55/Loop](https://reviewgithub.com/rep/Pierro55/Loop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 3 | 
 | 2022-09-08 | 41 | 3 | 
 
-
-[Detailed charts & statistics for Pierro55/Loop](https://reviewgithub.com/rep/Pierro55/Loop)

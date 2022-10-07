@@ -1,12 +1,14 @@
 # Intro-Robotics-UChicago-Spring-2022/warmup_project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Intro-Robotics-UChicago-Spring-2022/warmup_project)
+
+[Open detailed stats for Intro-Robotics-UChicago-Spring-2022/warmup_project](https://reviewgithub.com/rep/Intro-Robotics-UChicago-Spring-2022/warmup_project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 29 | 
 | 2022-09-08 | 1 | 29 | 
 
-
-[Detailed charts & statistics for Intro-Robotics-UChicago-Spring-2022/warmup_project](https://reviewgithub.com/rep/Intro-Robotics-UChicago-Spring-2022/warmup_project)

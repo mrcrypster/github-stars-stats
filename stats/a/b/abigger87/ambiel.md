@@ -1,12 +1,14 @@
 # abigger87/ambiel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 21
 
 [Open repository](https://github.com/abigger87/ambiel)
+
+[Open detailed stats for abigger87/ambiel](https://reviewgithub.com/rep/abigger87/ambiel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | - | 
 | 2022-09-07 | 21 | - | 
 
-
-[Detailed charts & statistics for abigger87/ambiel](https://reviewgithub.com/rep/abigger87/ambiel)

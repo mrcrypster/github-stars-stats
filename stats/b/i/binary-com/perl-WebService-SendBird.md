@@ -1,12 +1,14 @@
 # binary-com/perl-WebService-SendBird - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-WebService-SendBird)
+
+[Open detailed stats for binary-com/perl-WebService-SendBird](https://reviewgithub.com/rep/binary-com/perl-WebService-SendBird)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 2 | 
 | 2022-09-07 | - | 2 | 
 
-
-[Detailed charts & statistics for binary-com/perl-WebService-SendBird](https://reviewgithub.com/rep/binary-com/perl-WebService-SendBird)

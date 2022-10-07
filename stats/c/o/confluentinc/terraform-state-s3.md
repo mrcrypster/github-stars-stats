@@ -1,12 +1,14 @@
 # confluentinc/terraform-state-s3 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 32
 
 [Open repository](https://github.com/confluentinc/terraform-state-s3)
+
+[Open detailed stats for confluentinc/terraform-state-s3](https://reviewgithub.com/rep/confluentinc/terraform-state-s3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 32 | 27 | 
 | 2022-09-07 | 32 | 27 | 
 
-
-[Detailed charts & statistics for confluentinc/terraform-state-s3](https://reviewgithub.com/rep/confluentinc/terraform-state-s3)

@@ -1,12 +1,14 @@
 # s1mme/netOS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/s1mme/netOS)
+
+[Open detailed stats for s1mme/netOS](https://reviewgithub.com/rep/s1mme/netOS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for s1mme/netOS](https://reviewgithub.com/rep/s1mme/netOS)

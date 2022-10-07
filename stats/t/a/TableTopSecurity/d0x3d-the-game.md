@@ -1,12 +1,14 @@
 # TableTopSecurity/d0x3d-the-game - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 45
 
 ★ Stars: 188
 
 [Open repository](https://github.com/TableTopSecurity/d0x3d-the-game)
+
+[Open detailed stats for TableTopSecurity/d0x3d-the-game](https://reviewgithub.com/rep/TableTopSecurity/d0x3d-the-game)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 186 | 43 | 
 | 2022-09-07 | 186 | 43 | 
 
-
-[Detailed charts & statistics for TableTopSecurity/d0x3d-the-game](https://reviewgithub.com/rep/TableTopSecurity/d0x3d-the-game)

@@ -1,12 +1,14 @@
 # broadinstitute/react-cljs-modal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/broadinstitute/react-cljs-modal)
+
+[Open detailed stats for broadinstitute/react-cljs-modal](https://reviewgithub.com/rep/broadinstitute/react-cljs-modal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for broadinstitute/react-cljs-modal](https://reviewgithub.com/rep/broadinstitute/react-cljs-modal)

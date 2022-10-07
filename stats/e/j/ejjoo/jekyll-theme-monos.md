@@ -1,12 +1,14 @@
 # ejjoo/jekyll-theme-monos - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 209
 
 ★ Stars: 26
 
 [Open repository](https://github.com/ejjoo/jekyll-theme-monos)
+
+[Open detailed stats for ejjoo/jekyll-theme-monos](https://reviewgithub.com/rep/ejjoo/jekyll-theme-monos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 203 | 
 | 2022-09-07 | 25 | 203 | 
 
-
-[Detailed charts & statistics for ejjoo/jekyll-theme-monos](https://reviewgithub.com/rep/ejjoo/jekyll-theme-monos)

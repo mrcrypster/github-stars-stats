@@ -1,12 +1,14 @@
 # New-dev0/PlanetEarth - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 3
 
 [Open repository](https://github.com/New-dev0/PlanetEarth)
+
+[Open detailed stats for New-dev0/PlanetEarth](https://reviewgithub.com/rep/New-dev0/PlanetEarth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 21 | 
 | 2022-09-07 | 3 | 21 | 
 
-
-[Detailed charts & statistics for New-dev0/PlanetEarth](https://reviewgithub.com/rep/New-dev0/PlanetEarth)

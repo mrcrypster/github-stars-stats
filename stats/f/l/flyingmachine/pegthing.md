@@ -1,12 +1,14 @@
 # flyingmachine/pegthing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 52
 
 ★ Stars: 57
 
 [Open repository](https://github.com/flyingmachine/pegthing)
+
+[Open detailed stats for flyingmachine/pegthing](https://reviewgithub.com/rep/flyingmachine/pegthing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 57 | 52 | 
 | 2022-09-08 | 57 | 52 | 
 
-
-[Detailed charts & statistics for flyingmachine/pegthing](https://reviewgithub.com/rep/flyingmachine/pegthing)

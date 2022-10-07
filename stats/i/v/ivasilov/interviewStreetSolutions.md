@@ -1,12 +1,14 @@
 # ivasilov/interviewStreetSolutions - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/ivasilov/interviewStreetSolutions)
+
+[Open detailed stats for ivasilov/interviewStreetSolutions](https://reviewgithub.com/rep/ivasilov/interviewStreetSolutions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | - | 1 | 
 | 2022-09-23 | - | 1 | 
 
-
-[Detailed charts & statistics for ivasilov/interviewStreetSolutions](https://reviewgithub.com/rep/ivasilov/interviewStreetSolutions)

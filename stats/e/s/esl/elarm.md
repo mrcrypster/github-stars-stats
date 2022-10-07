@@ -1,12 +1,14 @@
 # esl/elarm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 99
 
 [Open repository](https://github.com/esl/elarm)
+
+[Open detailed stats for esl/elarm](https://reviewgithub.com/rep/esl/elarm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 99 | 29 | 
 | 2022-09-08 | 99 | 29 | 
 
-
-[Detailed charts & statistics for esl/elarm](https://reviewgithub.com/rep/esl/elarm)

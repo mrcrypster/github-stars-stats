@@ -1,12 +1,14 @@
 # dlang/dlang.org - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 382
 
 ★ Stars: 314
 
 [Open repository](https://github.com/dlang/dlang.org)
+
+[Open detailed stats for dlang/dlang.org](https://reviewgithub.com/rep/dlang/dlang.org)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 312 | 381 | 
 | 2022-09-07 | 312 | 381 | 
 
-
-[Detailed charts & statistics for dlang/dlang.org](https://reviewgithub.com/rep/dlang/dlang.org)

@@ -1,12 +1,14 @@
 # WebAssembly/testsuite - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 132
 
 [Open repository](https://github.com/WebAssembly/testsuite)
+
+[Open detailed stats for WebAssembly/testsuite](https://reviewgithub.com/rep/WebAssembly/testsuite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 132 | 47 | 
 | 2022-09-07 | 132 | 47 | 
 
-
-[Detailed charts & statistics for WebAssembly/testsuite](https://reviewgithub.com/rep/WebAssembly/testsuite)

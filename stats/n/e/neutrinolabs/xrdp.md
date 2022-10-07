@@ -1,12 +1,14 @@
 # neutrinolabs/xrdp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2281
 
 ★ Stars: 4073
 
 [Open repository](https://github.com/neutrinolabs/xrdp)
+
+[Open detailed stats for neutrinolabs/xrdp](https://reviewgithub.com/rep/neutrinolabs/xrdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3992 | 2247 | 
 | 2022-09-07 | 3992 | 2246 | 
 
-
-[Detailed charts & statistics for neutrinolabs/xrdp](https://reviewgithub.com/rep/neutrinolabs/xrdp)

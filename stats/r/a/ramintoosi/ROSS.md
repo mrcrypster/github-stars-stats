@@ -1,12 +1,14 @@
 # ramintoosi/ROSS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 73
 
 [Open repository](https://github.com/ramintoosi/ROSS)
+
+[Open detailed stats for ramintoosi/ROSS](https://reviewgithub.com/rep/ramintoosi/ROSS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 73 | 1 | 
 | 2022-09-08 | 73 | 1 | 
 
-
-[Detailed charts & statistics for ramintoosi/ROSS](https://reviewgithub.com/rep/ramintoosi/ROSS)

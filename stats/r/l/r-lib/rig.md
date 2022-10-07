@@ -1,12 +1,14 @@
 # r-lib/rig - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 309
 
 [Open repository](https://github.com/r-lib/rig)
+
+[Open detailed stats for r-lib/rig](https://reviewgithub.com/rep/r-lib/rig)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 300 | 12 | 
 | 2022-09-08 | 299 | 12 | 
 
-
-[Detailed charts & statistics for r-lib/rig](https://reviewgithub.com/rep/r-lib/rig)

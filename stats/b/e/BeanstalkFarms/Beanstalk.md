@@ -1,12 +1,14 @@
 # BeanstalkFarms/Beanstalk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 67
 
 [Open repository](https://github.com/BeanstalkFarms/Beanstalk)
+
+[Open detailed stats for BeanstalkFarms/Beanstalk](https://reviewgithub.com/rep/BeanstalkFarms/Beanstalk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 66 | 25 | 
 | 2022-09-07 | 66 | 25 | 
 
-
-[Detailed charts & statistics for BeanstalkFarms/Beanstalk](https://reviewgithub.com/rep/BeanstalkFarms/Beanstalk)

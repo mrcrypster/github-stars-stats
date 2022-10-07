@@ -1,12 +1,14 @@
 # thisisyusub/Qasid - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 28
 
 [Open repository](https://github.com/thisisyusub/Qasid)
+
+[Open detailed stats for thisisyusub/Qasid](https://reviewgithub.com/rep/thisisyusub/Qasid)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 8 | 
 | 2022-09-07 | 28 | 8 | 
 
-
-[Detailed charts & statistics for thisisyusub/Qasid](https://reviewgithub.com/rep/thisisyusub/Qasid)

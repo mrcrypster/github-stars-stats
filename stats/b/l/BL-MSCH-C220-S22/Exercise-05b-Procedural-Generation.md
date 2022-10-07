@@ -1,12 +1,14 @@
 # BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 44
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation)
+
+[Open detailed stats for BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation](https://reviewgithub.com/rep/BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 45 | 
 | 2022-09-07 | - | 45 | 
 
-
-[Detailed charts & statistics for BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation](https://reviewgithub.com/rep/BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation)

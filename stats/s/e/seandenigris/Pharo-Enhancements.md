@@ -1,12 +1,14 @@
 # seandenigris/Pharo-Enhancements - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/seandenigris/Pharo-Enhancements)
+
+[Open detailed stats for seandenigris/Pharo-Enhancements](https://reviewgithub.com/rep/seandenigris/Pharo-Enhancements)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 1 | 
 | 2022-09-07 | 2 | 1 | 
 
-
-[Detailed charts & statistics for seandenigris/Pharo-Enhancements](https://reviewgithub.com/rep/seandenigris/Pharo-Enhancements)

@@ -1,12 +1,14 @@
 # swrangsar/imageProcessingProject2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/swrangsar/imageProcessingProject2)
+
+[Open detailed stats for swrangsar/imageProcessingProject2](https://reviewgithub.com/rep/swrangsar/imageProcessingProject2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for swrangsar/imageProcessingProject2](https://reviewgithub.com/rep/swrangsar/imageProcessingProject2)

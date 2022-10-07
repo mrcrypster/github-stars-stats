@@ -1,12 +1,14 @@
 # EVM-SMT/solver - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 64
 
 [Open repository](https://github.com/EVM-SMT/solver)
+
+[Open detailed stats for EVM-SMT/solver](https://reviewgithub.com/rep/EVM-SMT/solver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 64 | 2 | 
 | 2022-09-07 | 64 | 2 | 
 
-
-[Detailed charts & statistics for EVM-SMT/solver](https://reviewgithub.com/rep/EVM-SMT/solver)

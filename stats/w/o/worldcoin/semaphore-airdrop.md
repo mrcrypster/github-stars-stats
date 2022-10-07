@@ -1,12 +1,14 @@
 # worldcoin/semaphore-airdrop - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 51
 
 [Open repository](https://github.com/worldcoin/semaphore-airdrop)
+
+[Open detailed stats for worldcoin/semaphore-airdrop](https://reviewgithub.com/rep/worldcoin/semaphore-airdrop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 50 | 7 | 
 | 2022-09-07 | 50 | 7 | 
 
-
-[Detailed charts & statistics for worldcoin/semaphore-airdrop](https://reviewgithub.com/rep/worldcoin/semaphore-airdrop)

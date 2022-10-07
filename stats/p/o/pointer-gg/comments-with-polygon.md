@@ -1,12 +1,14 @@
 # pointer-gg/comments-with-polygon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 466
 
 ★ Stars: 119
 
 [Open repository](https://github.com/pointer-gg/comments-with-polygon)
+
+[Open detailed stats for pointer-gg/comments-with-polygon](https://reviewgithub.com/rep/pointer-gg/comments-with-polygon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 119 | 477 | 
 | 2022-09-07 | 119 | 477 | 
 
-
-[Detailed charts & statistics for pointer-gg/comments-with-polygon](https://reviewgithub.com/rep/pointer-gg/comments-with-polygon)

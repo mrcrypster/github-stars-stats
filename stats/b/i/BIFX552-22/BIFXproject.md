@@ -1,12 +1,14 @@
 # BIFX552-22/BIFXproject - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/BIFX552-22/BIFXproject)
+
+[Open detailed stats for BIFX552-22/BIFXproject](https://reviewgithub.com/rep/BIFX552-22/BIFXproject)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 11 | 
 | 2022-09-07 | - | 11 | 
 
-
-[Detailed charts & statistics for BIFX552-22/BIFXproject](https://reviewgithub.com/rep/BIFX552-22/BIFXproject)

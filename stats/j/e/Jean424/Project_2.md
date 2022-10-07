@@ -1,12 +1,14 @@
 # Jean424/Project_2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Jean424/Project_2)
+
+[Open detailed stats for Jean424/Project_2](https://reviewgithub.com/rep/Jean424/Project_2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for Jean424/Project_2](https://reviewgithub.com/rep/Jean424/Project_2)

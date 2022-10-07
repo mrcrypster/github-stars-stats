@@ -1,12 +1,14 @@
 # Igalia/meta-webkit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 58
 
 ★ Stars: 93
 
 [Open repository](https://github.com/Igalia/meta-webkit)
+
+[Open detailed stats for Igalia/meta-webkit](https://reviewgithub.com/rep/Igalia/meta-webkit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 92 | 58 | 
 | 2022-09-07 | 92 | 58 | 
 
-
-[Detailed charts & statistics for Igalia/meta-webkit](https://reviewgithub.com/rep/Igalia/meta-webkit)

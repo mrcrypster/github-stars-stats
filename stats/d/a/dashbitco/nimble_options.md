@@ -1,12 +1,14 @@
 # dashbitco/nimble_options - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 331
 
 [Open repository](https://github.com/dashbitco/nimble_options)
+
+[Open detailed stats for dashbitco/nimble_options](https://reviewgithub.com/rep/dashbitco/nimble_options)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 323 | 22 | 
 | 2022-09-07 | 323 | 22 | 
 
-
-[Detailed charts & statistics for dashbitco/nimble_options](https://reviewgithub.com/rep/dashbitco/nimble_options)

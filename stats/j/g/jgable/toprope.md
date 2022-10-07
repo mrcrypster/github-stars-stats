@@ -1,12 +1,14 @@
 # jgable/toprope - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jgable/toprope)
+
+[Open detailed stats for jgable/toprope](https://reviewgithub.com/rep/jgable/toprope)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | - | - | 
 | 2022-09-29 | - | - | 
 
-
-[Detailed charts & statistics for jgable/toprope](https://reviewgithub.com/rep/jgable/toprope)

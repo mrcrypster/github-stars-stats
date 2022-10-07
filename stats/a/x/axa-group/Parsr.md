@@ -1,12 +1,14 @@
 # axa-group/Parsr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 244
 
 ★ Stars: 4875
 
 [Open repository](https://github.com/axa-group/Parsr)
+
+[Open detailed stats for axa-group/Parsr](https://reviewgithub.com/rep/axa-group/Parsr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3710 | 187 | 
 | 2022-09-08 | 3704 | 187 | 
 
-
-[Detailed charts & statistics for axa-group/Parsr](https://reviewgithub.com/rep/axa-group/Parsr)

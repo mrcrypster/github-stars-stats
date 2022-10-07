@@ -1,12 +1,14 @@
 # purescript/purescript-console - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 21
 
 [Open repository](https://github.com/purescript/purescript-console)
+
+[Open detailed stats for purescript/purescript-console](https://reviewgithub.com/rep/purescript/purescript-console)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 21 | 30 | 
 | 2022-09-07 | 21 | 30 | 
 
-
-[Detailed charts & statistics for purescript/purescript-console](https://reviewgithub.com/rep/purescript/purescript-console)

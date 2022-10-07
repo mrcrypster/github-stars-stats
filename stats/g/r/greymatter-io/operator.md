@@ -1,12 +1,14 @@
 # greymatter-io/operator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/greymatter-io/operator)
+
+[Open detailed stats for greymatter-io/operator](https://reviewgithub.com/rep/greymatter-io/operator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 2 | 
 | 2022-09-08 | 4 | 2 | 
 
-
-[Detailed charts & statistics for greymatter-io/operator](https://reviewgithub.com/rep/greymatter-io/operator)

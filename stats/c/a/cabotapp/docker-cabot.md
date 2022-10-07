@@ -1,12 +1,14 @@
 # cabotapp/docker-cabot - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 58
 
 [Open repository](https://github.com/cabotapp/docker-cabot)
+
+[Open detailed stats for cabotapp/docker-cabot](https://reviewgithub.com/rep/cabotapp/docker-cabot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 29 | 
 | 2022-09-07 | 57 | 29 | 
 
-
-[Detailed charts & statistics for cabotapp/docker-cabot](https://reviewgithub.com/rep/cabotapp/docker-cabot)

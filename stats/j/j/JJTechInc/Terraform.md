@@ -1,12 +1,14 @@
 # JJTechInc/Terraform - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 58
 
 ★ Stars: 6
 
 [Open repository](https://github.com/JJTechInc/Terraform)
+
+[Open detailed stats for JJTechInc/Terraform](https://reviewgithub.com/rep/JJTechInc/Terraform)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 53 | 
 | 2022-09-08 | 6 | 53 | 
 
-
-[Detailed charts & statistics for JJTechInc/Terraform](https://reviewgithub.com/rep/JJTechInc/Terraform)

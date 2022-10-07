@@ -1,12 +1,14 @@
 # chuanyi/msexcel-builder - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 133
 
 ★ Stars: 186
 
 [Open repository](https://github.com/chuanyi/msexcel-builder)
+
+[Open detailed stats for chuanyi/msexcel-builder](https://reviewgithub.com/rep/chuanyi/msexcel-builder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 186 | 133 | 
 | 2022-09-08 | 186 | 133 | 
 
-
-[Detailed charts & statistics for chuanyi/msexcel-builder](https://reviewgithub.com/rep/chuanyi/msexcel-builder)

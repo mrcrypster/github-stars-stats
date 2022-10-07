@@ -1,12 +1,14 @@
 # d-led/premake-meta-cpp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
 
 [Open repository](https://github.com/d-led/premake-meta-cpp)
+
+[Open detailed stats for d-led/premake-meta-cpp](https://reviewgithub.com/rep/d-led/premake-meta-cpp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | - | 
 | 2022-09-07 | 8 | - | 
 
-
-[Detailed charts & statistics for d-led/premake-meta-cpp](https://reviewgithub.com/rep/d-led/premake-meta-cpp)

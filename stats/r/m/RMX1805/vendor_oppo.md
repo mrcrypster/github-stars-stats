@@ -1,12 +1,14 @@
 # RMX1805/vendor_oppo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/RMX1805/vendor_oppo)
+
+[Open detailed stats for RMX1805/vendor_oppo](https://reviewgithub.com/rep/RMX1805/vendor_oppo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 4 | 
 | 2022-09-08 | 1 | 4 | 
 
-
-[Detailed charts & statistics for RMX1805/vendor_oppo](https://reviewgithub.com/rep/RMX1805/vendor_oppo)

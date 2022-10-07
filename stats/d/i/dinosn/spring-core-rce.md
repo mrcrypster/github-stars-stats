@@ -1,12 +1,14 @@
 # dinosn/spring-core-rce - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 60
 
 [Open repository](https://github.com/dinosn/spring-core-rce)
+
+[Open detailed stats for dinosn/spring-core-rce](https://reviewgithub.com/rep/dinosn/spring-core-rce)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 60 | 30 | 
 | 2022-09-07 | 60 | 30 | 
 
-
-[Detailed charts & statistics for dinosn/spring-core-rce](https://reviewgithub.com/rep/dinosn/spring-core-rce)

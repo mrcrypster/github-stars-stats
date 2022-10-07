@@ -1,12 +1,14 @@
 # tsloughter/grpcbox - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 45
 
 ★ Stars: 115
 
 [Open repository](https://github.com/tsloughter/grpcbox)
+
+[Open detailed stats for tsloughter/grpcbox](https://reviewgithub.com/rep/tsloughter/grpcbox)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 115 | 45 | 
 | 2022-09-21 | 115 | 45 | 
 
-
-[Detailed charts & statistics for tsloughter/grpcbox](https://reviewgithub.com/rep/tsloughter/grpcbox)

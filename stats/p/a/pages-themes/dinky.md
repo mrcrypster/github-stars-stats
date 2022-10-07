@@ -1,12 +1,14 @@
 # pages-themes/dinky - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 249
 
 ★ Stars: 87
 
 [Open repository](https://github.com/pages-themes/dinky)
+
+[Open detailed stats for pages-themes/dinky](https://reviewgithub.com/rep/pages-themes/dinky)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 86 | 248 | 
 | 2022-09-07 | 85 | 248 | 
 
-
-[Detailed charts & statistics for pages-themes/dinky](https://reviewgithub.com/rep/pages-themes/dinky)

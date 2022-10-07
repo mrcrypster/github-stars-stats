@@ -1,12 +1,14 @@
 # ryantm/agenix - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 55
 
 ★ Stars: 516
 
 [Open repository](https://github.com/ryantm/agenix)
+
+[Open detailed stats for ryantm/agenix](https://reviewgithub.com/rep/ryantm/agenix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 502 | 55 | 
 | 2022-09-07 | 501 | 55 | 
 
-
-[Detailed charts & statistics for ryantm/agenix](https://reviewgithub.com/rep/ryantm/agenix)

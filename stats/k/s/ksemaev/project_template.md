@@ -1,12 +1,14 @@
 # ksemaev/project_template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 213
 
 ★ Stars: 68
 
 [Open repository](https://github.com/ksemaev/project_template)
+
+[Open detailed stats for ksemaev/project_template](https://reviewgithub.com/rep/ksemaev/project_template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 68 | 209 | 
 | 2022-09-07 | 68 | 209 | 
 
-
-[Detailed charts & statistics for ksemaev/project_template](https://reviewgithub.com/rep/ksemaev/project_template)

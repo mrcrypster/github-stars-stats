@@ -1,12 +1,14 @@
 # Zer0dot/dotproxy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 19
 
 [Open repository](https://github.com/Zer0dot/dotproxy)
+
+[Open detailed stats for Zer0dot/dotproxy](https://reviewgithub.com/rep/Zer0dot/dotproxy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | - | 
 | 2022-09-08 | 19 | - | 
 
-
-[Detailed charts & statistics for Zer0dot/dotproxy](https://reviewgithub.com/rep/Zer0dot/dotproxy)

@@ -1,12 +1,14 @@
 # ahmadalibagheri/terraform-tutorial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 77
 
 [Open repository](https://github.com/ahmadalibagheri/terraform-tutorial)
+
+[Open detailed stats for ahmadalibagheri/terraform-tutorial](https://reviewgithub.com/rep/ahmadalibagheri/terraform-tutorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 69 | 24 | 
 | 2022-09-07 | 69 | 24 | 
 
-
-[Detailed charts & statistics for ahmadalibagheri/terraform-tutorial](https://reviewgithub.com/rep/ahmadalibagheri/terraform-tutorial)

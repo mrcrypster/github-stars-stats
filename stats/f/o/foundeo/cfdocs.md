@@ -1,12 +1,14 @@
 # foundeo/cfdocs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 304
 
 ★ Stars: 170
 
 [Open repository](https://github.com/foundeo/cfdocs)
+
+[Open detailed stats for foundeo/cfdocs](https://reviewgithub.com/rep/foundeo/cfdocs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 168 | 302 | 
 | 2022-09-08 | 168 | 302 | 
 
-
-[Detailed charts & statistics for foundeo/cfdocs](https://reviewgithub.com/rep/foundeo/cfdocs)

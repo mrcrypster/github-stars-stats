@@ -1,12 +1,14 @@
 # mldangelo/personal-site - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 623
 
 ★ Stars: 807
 
 [Open repository](https://github.com/mldangelo/personal-site)
+
+[Open detailed stats for mldangelo/personal-site](https://reviewgithub.com/rep/mldangelo/personal-site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 786 | 606 | 
 | 2022-09-08 | 786 | 603 | 
 
-
-[Detailed charts & statistics for mldangelo/personal-site](https://reviewgithub.com/rep/mldangelo/personal-site)

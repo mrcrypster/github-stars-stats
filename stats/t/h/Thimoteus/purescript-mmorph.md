@@ -1,12 +1,14 @@
 # Thimoteus/purescript-mmorph - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 10
 
 [Open repository](https://github.com/Thimoteus/purescript-mmorph)
+
+[Open detailed stats for Thimoteus/purescript-mmorph](https://reviewgithub.com/rep/Thimoteus/purescript-mmorph)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 9 | 
 | 2022-09-08 | 10 | 9 | 
 
-
-[Detailed charts & statistics for Thimoteus/purescript-mmorph](https://reviewgithub.com/rep/Thimoteus/purescript-mmorph)

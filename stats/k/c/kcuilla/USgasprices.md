@@ -1,12 +1,14 @@
 # kcuilla/USgasprices - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 21
 
 [Open repository](https://github.com/kcuilla/USgasprices)
+
+[Open detailed stats for kcuilla/USgasprices](https://reviewgithub.com/rep/kcuilla/USgasprices)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 13 | - | 
 | 2022-09-23 | 13 | - | 
 
-
-[Detailed charts & statistics for kcuilla/USgasprices](https://reviewgithub.com/rep/kcuilla/USgasprices)

@@ -1,12 +1,14 @@
 # ethereum/cable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 30
 
 [Open repository](https://github.com/ethereum/cable)
+
+[Open detailed stats for ethereum/cable](https://reviewgithub.com/rep/ethereum/cable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 15 | 
 | 2022-09-07 | 30 | 15 | 
 
-
-[Detailed charts & statistics for ethereum/cable](https://reviewgithub.com/rep/ethereum/cable)

@@ -1,12 +1,14 @@
 # apache/couchdb-ets-lru - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 5
 
 [Open repository](https://github.com/apache/couchdb-ets-lru)
+
+[Open detailed stats for apache/couchdb-ets-lru](https://reviewgithub.com/rep/apache/couchdb-ets-lru)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 10 | 
 | 2022-09-07 | 5 | 10 | 
 
-
-[Detailed charts & statistics for apache/couchdb-ets-lru](https://reviewgithub.com/rep/apache/couchdb-ets-lru)

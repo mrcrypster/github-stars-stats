@@ -1,12 +1,14 @@
 # davidbombal/python-keylogger - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 130
 
 ★ Stars: 425
 
 [Open repository](https://github.com/davidbombal/python-keylogger)
+
+[Open detailed stats for davidbombal/python-keylogger](https://reviewgithub.com/rep/davidbombal/python-keylogger)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 379 | 117 | 
 | 2022-09-07 | 376 | 116 | 
 
-
-[Detailed charts & statistics for davidbombal/python-keylogger](https://reviewgithub.com/rep/davidbombal/python-keylogger)

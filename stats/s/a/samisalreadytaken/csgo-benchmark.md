@@ -1,12 +1,14 @@
 # samisalreadytaken/csgo-benchmark - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 104
 
 [Open repository](https://github.com/samisalreadytaken/csgo-benchmark)
+
+[Open detailed stats for samisalreadytaken/csgo-benchmark](https://reviewgithub.com/rep/samisalreadytaken/csgo-benchmark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 101 | 6 | 
 | 2022-09-07 | 101 | 6 | 
 
-
-[Detailed charts & statistics for samisalreadytaken/csgo-benchmark](https://reviewgithub.com/rep/samisalreadytaken/csgo-benchmark)

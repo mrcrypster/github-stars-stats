@@ -1,12 +1,14 @@
 # radyhaggag/live_score - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 39
 
 [Open repository](https://github.com/radyhaggag/live_score)
+
+[Open detailed stats for radyhaggag/live_score](https://reviewgithub.com/rep/radyhaggag/live_score)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 5 | 
 | 2022-09-07 | 35 | 5 | 
 
-
-[Detailed charts & statistics for radyhaggag/live_score](https://reviewgithub.com/rep/radyhaggag/live_score)

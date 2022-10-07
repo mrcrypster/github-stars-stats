@@ -1,12 +1,14 @@
 # unified-naming-convention/NamingStandard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 26
 
 [Open repository](https://github.com/unified-naming-convention/NamingStandard)
+
+[Open detailed stats for unified-naming-convention/NamingStandard](https://reviewgithub.com/rep/unified-naming-convention/NamingStandard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 16 | 
 | 2022-09-07 | 22 | 16 | 
 
-
-[Detailed charts & statistics for unified-naming-convention/NamingStandard](https://reviewgithub.com/rep/unified-naming-convention/NamingStandard)

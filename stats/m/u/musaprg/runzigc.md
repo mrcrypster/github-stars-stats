@@ -1,12 +1,14 @@
 # musaprg/runzigc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/musaprg/runzigc)
+
+[Open detailed stats for musaprg/runzigc](https://reviewgithub.com/rep/musaprg/runzigc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-28 | 8 | 1 | 
 | 2022-09-27 | 8 | 1 | 
 
-
-[Detailed charts & statistics for musaprg/runzigc](https://reviewgithub.com/rep/musaprg/runzigc)

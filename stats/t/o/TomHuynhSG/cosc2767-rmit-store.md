@@ -1,12 +1,14 @@
 # TomHuynhSG/cosc2767-rmit-store - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 15
 
 ★ Stars: 0
 
 [Open repository](https://github.com/TomHuynhSG/cosc2767-rmit-store)
+
+[Open detailed stats for TomHuynhSG/cosc2767-rmit-store](https://reviewgithub.com/rep/TomHuynhSG/cosc2767-rmit-store)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 11 | 
 | 2022-09-08 | - | 11 | 
 
-
-[Detailed charts & statistics for TomHuynhSG/cosc2767-rmit-store](https://reviewgithub.com/rep/TomHuynhSG/cosc2767-rmit-store)

@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-guardduty - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 12
 
 [Open repository](https://github.com/cloudposse/terraform-aws-guardduty)
+
+[Open detailed stats for cloudposse/terraform-aws-guardduty](https://reviewgithub.com/rep/cloudposse/terraform-aws-guardduty)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 14 | 
 | 2022-09-07 | 12 | 14 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-guardduty](https://reviewgithub.com/rep/cloudposse/terraform-aws-guardduty)

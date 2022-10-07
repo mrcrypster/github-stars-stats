@@ -1,12 +1,14 @@
 # vim-scripts/OutlookVim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 16
 
 [Open repository](https://github.com/vim-scripts/OutlookVim)
+
+[Open detailed stats for vim-scripts/OutlookVim](https://reviewgithub.com/rep/vim-scripts/OutlookVim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 1 | 
 | 2022-09-07 | 16 | 1 | 
 
-
-[Detailed charts & statistics for vim-scripts/OutlookVim](https://reviewgithub.com/rep/vim-scripts/OutlookVim)

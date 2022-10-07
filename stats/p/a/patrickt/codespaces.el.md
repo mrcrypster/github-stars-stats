@@ -1,12 +1,14 @@
 # patrickt/codespaces.el - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 25
 
 [Open repository](https://github.com/patrickt/codespaces.el)
+
+[Open detailed stats for patrickt/codespaces.el](https://reviewgithub.com/rep/patrickt/codespaces.el)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 3 | 
 | 2022-09-07 | 21 | 3 | 
 
-
-[Detailed charts & statistics for patrickt/codespaces.el](https://reviewgithub.com/rep/patrickt/codespaces.el)

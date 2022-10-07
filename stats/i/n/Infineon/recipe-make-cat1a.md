@@ -1,12 +1,14 @@
 # Infineon/recipe-make-cat1a - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Infineon/recipe-make-cat1a)
+
+[Open detailed stats for Infineon/recipe-make-cat1a](https://reviewgithub.com/rep/Infineon/recipe-make-cat1a)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 2 | 
 | 2022-09-08 | 1 | 2 | 
 
-
-[Detailed charts & statistics for Infineon/recipe-make-cat1a](https://reviewgithub.com/rep/Infineon/recipe-make-cat1a)

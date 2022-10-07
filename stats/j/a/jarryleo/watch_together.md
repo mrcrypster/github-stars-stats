@@ -1,12 +1,14 @@
 # jarryleo/watch_together - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 37
 
 [Open repository](https://github.com/jarryleo/watch_together)
+
+[Open detailed stats for jarryleo/watch_together](https://reviewgithub.com/rep/jarryleo/watch_together)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 5 | 
 | 2022-09-07 | 31 | 5 | 
 
-
-[Detailed charts & statistics for jarryleo/watch_together](https://reviewgithub.com/rep/jarryleo/watch_together)

@@ -1,12 +1,14 @@
 # ALPHA-OFFICIAL-TEAM/ALPHA-V5 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 52
 
 ★ Stars: 4
 
 [Open repository](https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-V5)
+
+[Open detailed stats for ALPHA-OFFICIAL-TEAM/ALPHA-V5](https://reviewgithub.com/rep/ALPHA-OFFICIAL-TEAM/ALPHA-V5)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 50 | 
 | 2022-09-08 | 2 | 50 | 
 
-
-[Detailed charts & statistics for ALPHA-OFFICIAL-TEAM/ALPHA-V5](https://reviewgithub.com/rep/ALPHA-OFFICIAL-TEAM/ALPHA-V5)

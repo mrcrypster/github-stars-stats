@@ -1,12 +1,14 @@
 # evandroagnes/python-dev-stuff - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 19
 
 [Open repository](https://github.com/evandroagnes/python-dev-stuff)
+
+[Open detailed stats for evandroagnes/python-dev-stuff](https://reviewgithub.com/rep/evandroagnes/python-dev-stuff)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 19 | 14 | 
 | 2022-09-08 | 19 | 14 | 
 
-
-[Detailed charts & statistics for evandroagnes/python-dev-stuff](https://reviewgithub.com/rep/evandroagnes/python-dev-stuff)

@@ -1,12 +1,14 @@
 # VitorVilela7/wide-snes - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 42
 
 ★ Stars: 1413
 
 [Open repository](https://github.com/VitorVilela7/wide-snes)
+
+[Open detailed stats for VitorVilela7/wide-snes](https://reviewgithub.com/rep/VitorVilela7/wide-snes)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1398 | 41 | 
 | 2022-09-08 | 1398 | 41 | 
 
-
-[Detailed charts & statistics for VitorVilela7/wide-snes](https://reviewgithub.com/rep/VitorVilela7/wide-snes)

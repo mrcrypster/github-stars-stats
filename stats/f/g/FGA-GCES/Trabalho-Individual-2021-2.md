@@ -1,12 +1,14 @@
 # FGA-GCES/Trabalho-Individual-2021-2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 59
 
 ★ Stars: 0
 
 [Open repository](https://github.com/FGA-GCES/Trabalho-Individual-2021-2)
+
+[Open detailed stats for FGA-GCES/Trabalho-Individual-2021-2](https://reviewgithub.com/rep/FGA-GCES/Trabalho-Individual-2021-2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 59 | 
 | 2022-09-08 | - | 59 | 
 
-
-[Detailed charts & statistics for FGA-GCES/Trabalho-Individual-2021-2](https://reviewgithub.com/rep/FGA-GCES/Trabalho-Individual-2021-2)

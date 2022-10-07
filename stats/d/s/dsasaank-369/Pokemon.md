@@ -1,12 +1,14 @@
 # dsasaank-369/Pokemon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 105
 
 ★ Stars: 34
 
 [Open repository](https://github.com/dsasaank-369/Pokemon)
+
+[Open detailed stats for dsasaank-369/Pokemon](https://reviewgithub.com/rep/dsasaank-369/Pokemon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 26 | 79 | 
 | 2022-10-03 | 18 | 64 | 
 
-
-[Detailed charts & statistics for dsasaank-369/Pokemon](https://reviewgithub.com/rep/dsasaank-369/Pokemon)

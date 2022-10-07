@@ -1,12 +1,14 @@
 # DakerHub/coding-game-maze - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 43
 
 [Open repository](https://github.com/DakerHub/coding-game-maze)
+
+[Open detailed stats for DakerHub/coding-game-maze](https://reviewgithub.com/rep/DakerHub/coding-game-maze)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 2 | 
 | 2022-09-07 | 43 | 2 | 
 
-
-[Detailed charts & statistics for DakerHub/coding-game-maze](https://reviewgithub.com/rep/DakerHub/coding-game-maze)

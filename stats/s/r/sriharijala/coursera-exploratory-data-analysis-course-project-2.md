@@ -1,12 +1,14 @@
 # sriharijala/coursera-exploratory-data-analysis-course-project-2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 35
 
 ★ Stars: 0
 
 [Open repository](https://github.com/sriharijala/coursera-exploratory-data-analysis-course-project-2)
+
+[Open detailed stats for sriharijala/coursera-exploratory-data-analysis-course-project-2](https://reviewgithub.com/rep/sriharijala/coursera-exploratory-data-analysis-course-project-2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | - | 35 | 
 | 2022-09-19 | - | 35 | 
 
-
-[Detailed charts & statistics for sriharijala/coursera-exploratory-data-analysis-course-project-2](https://reviewgithub.com/rep/sriharijala/coursera-exploratory-data-analysis-course-project-2)

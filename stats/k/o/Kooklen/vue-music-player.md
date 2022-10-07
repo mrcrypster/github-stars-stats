@@ -1,12 +1,14 @@
 # Kooklen/vue-music-player - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 56
 
 [Open repository](https://github.com/Kooklen/vue-music-player)
+
+[Open detailed stats for Kooklen/vue-music-player](https://reviewgithub.com/rep/Kooklen/vue-music-player)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 56 | 18 | 
 | 2022-09-07 | 56 | 18 | 
 
-
-[Detailed charts & statistics for Kooklen/vue-music-player](https://reviewgithub.com/rep/Kooklen/vue-music-player)

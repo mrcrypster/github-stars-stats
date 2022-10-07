@@ -1,12 +1,14 @@
 # ovotech/ring-jwt - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 46
 
 [Open repository](https://github.com/ovotech/ring-jwt)
+
+[Open detailed stats for ovotech/ring-jwt](https://reviewgithub.com/rep/ovotech/ring-jwt)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 45 | 11 | 
 | 2022-09-08 | 45 | 11 | 
 
-
-[Detailed charts & statistics for ovotech/ring-jwt](https://reviewgithub.com/rep/ovotech/ring-jwt)

@@ -1,12 +1,14 @@
 # BrianChung10/SOP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/BrianChung10/SOP)
+
+[Open detailed stats for BrianChung10/SOP](https://reviewgithub.com/rep/BrianChung10/SOP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 1 | 
 | 2022-09-08 | 2 | 1 | 
 
-
-[Detailed charts & statistics for BrianChung10/SOP](https://reviewgithub.com/rep/BrianChung10/SOP)

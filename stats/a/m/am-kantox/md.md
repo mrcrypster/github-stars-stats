@@ -1,12 +1,14 @@
 # am-kantox/md - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 43
 
 [Open repository](https://github.com/am-kantox/md)
+
+[Open detailed stats for am-kantox/md](https://reviewgithub.com/rep/am-kantox/md)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 1 | 
 | 2022-09-07 | 43 | 1 | 
 
-
-[Detailed charts & statistics for am-kantox/md](https://reviewgithub.com/rep/am-kantox/md)

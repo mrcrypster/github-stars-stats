@@ -1,12 +1,14 @@
 # akka/akka-http - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 595
 
 ★ Stars: 1303
 
 [Open repository](https://github.com/akka/akka-http)
+
+[Open detailed stats for akka/akka-http](https://reviewgithub.com/rep/akka/akka-http)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1301 | 584 | 
 | 2022-09-07 | 1303 | 575 | 
 
-
-[Detailed charts & statistics for akka/akka-http](https://reviewgithub.com/rep/akka/akka-http)

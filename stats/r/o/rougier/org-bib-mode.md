@@ -1,12 +1,14 @@
 # rougier/org-bib-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 112
 
 [Open repository](https://github.com/rougier/org-bib-mode)
+
+[Open detailed stats for rougier/org-bib-mode](https://reviewgithub.com/rep/rougier/org-bib-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 109 | 7 | 
 | 2022-09-07 | 109 | 7 | 
 
-
-[Detailed charts & statistics for rougier/org-bib-mode](https://reviewgithub.com/rep/rougier/org-bib-mode)

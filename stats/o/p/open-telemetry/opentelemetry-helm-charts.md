@@ -1,12 +1,14 @@
 # open-telemetry/opentelemetry-helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 166
 
 ★ Stars: 132
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-helm-charts)
+
+[Open detailed stats for open-telemetry/opentelemetry-helm-charts](https://reviewgithub.com/rep/open-telemetry/opentelemetry-helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 122 | 143 | 
 | 2022-09-07 | 121 | 143 | 
 
-
-[Detailed charts & statistics for open-telemetry/opentelemetry-helm-charts](https://reviewgithub.com/rep/open-telemetry/opentelemetry-helm-charts)

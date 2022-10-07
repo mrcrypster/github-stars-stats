@@ -1,12 +1,14 @@
 # Simon-Initiative/oli-torus - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 55
 
 [Open repository](https://github.com/Simon-Initiative/oli-torus)
+
+[Open detailed stats for Simon-Initiative/oli-torus](https://reviewgithub.com/rep/Simon-Initiative/oli-torus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 53 | 29 | 
 | 2022-09-08 | 53 | 29 | 
 
-
-[Detailed charts & statistics for Simon-Initiative/oli-torus](https://reviewgithub.com/rep/Simon-Initiative/oli-torus)

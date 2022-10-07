@@ -1,6 +1,6 @@
 # benoitc/unicode_util_compat - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
@@ -8,9 +8,12 @@ Stats updated on Mar 54732, 17
 
 [Open repository](https://github.com/benoitc/unicode_util_compat)
 
+[Open detailed stats for benoitc/unicode_util_compat](https://reviewgithub.com/rep/benoitc/unicode_util_compat)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 10 | 10 | 
 | 2022-10-06 | 10 | 10 | 
 | 2022-10-05 | 10 | 10 | 
 | 2022-10-04 | 10 | 10 | 
@@ -41,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 10 | 10 | 
 | 2022-09-07 | 10 | 10 | 
 
-
-[Detailed charts & statistics for benoitc/unicode_util_compat](https://reviewgithub.com/rep/benoitc/unicode_util_compat)

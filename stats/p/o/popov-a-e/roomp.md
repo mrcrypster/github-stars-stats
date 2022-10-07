@@ -1,12 +1,14 @@
 # popov-a-e/roomp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 54
 
 [Open repository](https://github.com/popov-a-e/roomp)
+
+[Open detailed stats for popov-a-e/roomp](https://reviewgithub.com/rep/popov-a-e/roomp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 54 | - | 
 | 2022-09-07 | 54 | - | 
 
-
-[Detailed charts & statistics for popov-a-e/roomp](https://reviewgithub.com/rep/popov-a-e/roomp)

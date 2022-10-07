@@ -1,12 +1,14 @@
 # rwema3/shecanhack - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 26
 
 [Open repository](https://github.com/rwema3/shecanhack)
+
+[Open detailed stats for rwema3/shecanhack](https://reviewgithub.com/rep/rwema3/shecanhack)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 25 | - | 
 | 2022-09-08 | 25 | - | 
 
-
-[Detailed charts & statistics for rwema3/shecanhack](https://reviewgithub.com/rep/rwema3/shecanhack)

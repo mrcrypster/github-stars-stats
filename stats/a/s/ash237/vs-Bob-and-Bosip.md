@@ -1,12 +1,14 @@
 # ash237/vs-Bob-and-Bosip - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 162
 
 ★ Stars: 55
 
 [Open repository](https://github.com/ash237/vs-Bob-and-Bosip)
+
+[Open detailed stats for ash237/vs-Bob-and-Bosip](https://reviewgithub.com/rep/ash237/vs-Bob-and-Bosip)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 53 | 160 | 
 | 2022-09-08 | 54 | 159 | 
 
-
-[Detailed charts & statistics for ash237/vs-Bob-and-Bosip](https://reviewgithub.com/rep/ash237/vs-Bob-and-Bosip)

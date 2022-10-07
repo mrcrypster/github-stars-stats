@@ -1,12 +1,14 @@
 # web-standards-ru/dictionary - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 550
 
 ★ Stars: 1936
 
 [Open repository](https://github.com/web-standards-ru/dictionary)
+
+[Open detailed stats for web-standards-ru/dictionary](https://reviewgithub.com/rep/web-standards-ru/dictionary)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1905 | 538 | 
 | 2022-09-07 | 1903 | 538 | 
 
-
-[Detailed charts & statistics for web-standards-ru/dictionary](https://reviewgithub.com/rep/web-standards-ru/dictionary)

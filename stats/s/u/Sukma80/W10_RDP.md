@@ -1,12 +1,14 @@
 # Sukma80/W10_RDP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 337
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Sukma80/W10_RDP)
+
+[Open detailed stats for Sukma80/W10_RDP](https://reviewgithub.com/rep/Sukma80/W10_RDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 335 | 
 | 2022-09-08 | 2 | 335 | 
 
-
-[Detailed charts & statistics for Sukma80/W10_RDP](https://reviewgithub.com/rep/Sukma80/W10_RDP)

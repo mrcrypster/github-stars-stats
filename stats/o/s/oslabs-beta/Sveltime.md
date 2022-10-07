@@ -1,12 +1,14 @@
 # oslabs-beta/Sveltime - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 39
 
 [Open repository](https://github.com/oslabs-beta/Sveltime)
+
+[Open detailed stats for oslabs-beta/Sveltime](https://reviewgithub.com/rep/oslabs-beta/Sveltime)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | 7 | 
 | 2022-09-08 | 39 | 7 | 
 
-
-[Detailed charts & statistics for oslabs-beta/Sveltime](https://reviewgithub.com/rep/oslabs-beta/Sveltime)

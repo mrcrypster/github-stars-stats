@@ -1,12 +1,14 @@
 # jina-ai/example-odqa - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 8
 
 [Open repository](https://github.com/jina-ai/example-odqa)
+
+[Open detailed stats for jina-ai/example-odqa](https://reviewgithub.com/rep/jina-ai/example-odqa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | - | 
 | 2022-09-07 | 8 | - | 
 
-
-[Detailed charts & statistics for jina-ai/example-odqa](https://reviewgithub.com/rep/jina-ai/example-odqa)

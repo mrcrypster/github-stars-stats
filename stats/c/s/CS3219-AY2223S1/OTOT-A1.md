@@ -1,12 +1,14 @@
 # CS3219-AY2223S1/OTOT-A1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 0
 
 [Open repository](https://github.com/CS3219-AY2223S1/OTOT-A1)
+
+[Open detailed stats for CS3219-AY2223S1/OTOT-A1](https://reviewgithub.com/rep/CS3219-AY2223S1/OTOT-A1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 79 | 
 | 2022-09-07 | - | 77 | 
 
-
-[Detailed charts & statistics for CS3219-AY2223S1/OTOT-A1](https://reviewgithub.com/rep/CS3219-AY2223S1/OTOT-A1)

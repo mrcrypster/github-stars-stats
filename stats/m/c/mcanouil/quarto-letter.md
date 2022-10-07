@@ -1,12 +1,14 @@
 # mcanouil/quarto-letter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 20
 
 [Open repository](https://github.com/mcanouil/quarto-letter)
+
+[Open detailed stats for mcanouil/quarto-letter](https://reviewgithub.com/rep/mcanouil/quarto-letter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 17 | 1 | 
 | 2022-09-07 | 17 | 1 | 
 
-
-[Detailed charts & statistics for mcanouil/quarto-letter](https://reviewgithub.com/rep/mcanouil/quarto-letter)

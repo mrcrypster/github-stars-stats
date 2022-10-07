@@ -1,12 +1,14 @@
 # binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable)
+
+[Open detailed stats for binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable](https://reviewgithub.com/rep/binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 2 | 
 | 2022-09-08 | - | 2 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable](https://reviewgithub.com/rep/binary-com/perl-Mojolicious-Plugin-ClientIP-Pluggable)

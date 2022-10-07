@@ -1,12 +1,14 @@
 # missing-semester/missing-semester - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 775
 
 ★ Stars: 3010
 
 [Open repository](https://github.com/missing-semester/missing-semester)
+
+[Open detailed stats for missing-semester/missing-semester](https://reviewgithub.com/rep/missing-semester/missing-semester)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2799 | 738 | 
 | 2022-09-08 | 2795 | 738 | 
 
-
-[Detailed charts & statistics for missing-semester/missing-semester](https://reviewgithub.com/rep/missing-semester/missing-semester)

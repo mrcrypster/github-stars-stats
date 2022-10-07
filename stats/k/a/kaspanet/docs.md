@@ -1,12 +1,14 @@
 # kaspanet/docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 20
 
 [Open repository](https://github.com/kaspanet/docs)
+
+[Open detailed stats for kaspanet/docs](https://reviewgithub.com/rep/kaspanet/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 14 | 
 | 2022-09-08 | 16 | 14 | 
 
-
-[Detailed charts & statistics for kaspanet/docs](https://reviewgithub.com/rep/kaspanet/docs)

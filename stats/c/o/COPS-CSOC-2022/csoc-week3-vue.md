@@ -1,12 +1,14 @@
 # COPS-CSOC-2022/csoc-week3-vue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 0
 
 [Open repository](https://github.com/COPS-CSOC-2022/csoc-week3-vue)
+
+[Open detailed stats for COPS-CSOC-2022/csoc-week3-vue](https://reviewgithub.com/rep/COPS-CSOC-2022/csoc-week3-vue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 17 | 
 | 2022-09-07 | - | 17 | 
 
-
-[Detailed charts & statistics for COPS-CSOC-2022/csoc-week3-vue](https://reviewgithub.com/rep/COPS-CSOC-2022/csoc-week3-vue)

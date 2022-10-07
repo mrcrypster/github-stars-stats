@@ -1,12 +1,14 @@
 # ruesandora/quicksilver-testnet-TR - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 138
 
 ★ Stars: 91
 
 [Open repository](https://github.com/ruesandora/quicksilver-testnet-TR)
+
+[Open detailed stats for ruesandora/quicksilver-testnet-TR](https://reviewgithub.com/rep/ruesandora/quicksilver-testnet-TR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 92 | 137 | 
 | 2022-09-07 | 92 | 137 | 
 
-
-[Detailed charts & statistics for ruesandora/quicksilver-testnet-TR](https://reviewgithub.com/rep/ruesandora/quicksilver-testnet-TR)

@@ -1,12 +1,14 @@
 # hrsh7th/nvim-pasta - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 70
 
 [Open repository](https://github.com/hrsh7th/nvim-pasta)
+
+[Open detailed stats for hrsh7th/nvim-pasta](https://reviewgithub.com/rep/hrsh7th/nvim-pasta)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 69 | 2 | 
 | 2022-09-07 | 69 | 2 | 
 
-
-[Detailed charts & statistics for hrsh7th/nvim-pasta](https://reviewgithub.com/rep/hrsh7th/nvim-pasta)

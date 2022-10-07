@@ -1,12 +1,14 @@
 # vinceliuice/Nephrite-gtk-theme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 131
 
 [Open repository](https://github.com/vinceliuice/Nephrite-gtk-theme)
+
+[Open detailed stats for vinceliuice/Nephrite-gtk-theme](https://reviewgithub.com/rep/vinceliuice/Nephrite-gtk-theme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 117 | 3 | 
 | 2022-09-08 | 117 | 3 | 
 
-
-[Detailed charts & statistics for vinceliuice/Nephrite-gtk-theme](https://reviewgithub.com/rep/vinceliuice/Nephrite-gtk-theme)

@@ -1,12 +1,14 @@
 # code-423n4/2022-07-fractional - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 17
 
 [Open repository](https://github.com/code-423n4/2022-07-fractional)
+
+[Open detailed stats for code-423n4/2022-07-fractional](https://reviewgithub.com/rep/code-423n4/2022-07-fractional)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 7 | 
 | 2022-09-08 | 17 | 7 | 
 
-
-[Detailed charts & statistics for code-423n4/2022-07-fractional](https://reviewgithub.com/rep/code-423n4/2022-07-fractional)

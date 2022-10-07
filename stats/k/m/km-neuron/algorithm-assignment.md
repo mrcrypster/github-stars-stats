@@ -1,12 +1,14 @@
 # km-neuron/algorithm-assignment - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 456
 
 ★ Stars: 5
 
 [Open repository](https://github.com/km-neuron/algorithm-assignment)
+
+[Open detailed stats for km-neuron/algorithm-assignment](https://reviewgithub.com/rep/km-neuron/algorithm-assignment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 2 | 395 | 
 | 2022-09-15 | 1 | 358 | 
 
-
-[Detailed charts & statistics for km-neuron/algorithm-assignment](https://reviewgithub.com/rep/km-neuron/algorithm-assignment)

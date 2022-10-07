@@ -1,12 +1,14 @@
 # starknet-edu/starknet-messaging-bridge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 56
 
 [Open repository](https://github.com/starknet-edu/starknet-messaging-bridge)
+
+[Open detailed stats for starknet-edu/starknet-messaging-bridge](https://reviewgithub.com/rep/starknet-edu/starknet-messaging-bridge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 53 | 19 | 
 | 2022-09-08 | 53 | 19 | 
 
-
-[Detailed charts & statistics for starknet-edu/starknet-messaging-bridge](https://reviewgithub.com/rep/starknet-edu/starknet-messaging-bridge)

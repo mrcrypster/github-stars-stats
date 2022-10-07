@@ -1,12 +1,14 @@
 # jadepeng/XMusicDownloader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 150
 
 ★ Stars: 821
 
 [Open repository](https://github.com/jadepeng/XMusicDownloader)
+
+[Open detailed stats for jadepeng/XMusicDownloader](https://reviewgithub.com/rep/jadepeng/XMusicDownloader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | 811 | 149 | 
 | 2022-10-05 | 767 | 144 | 
 
-
-[Detailed charts & statistics for jadepeng/XMusicDownloader](https://reviewgithub.com/rep/jadepeng/XMusicDownloader)

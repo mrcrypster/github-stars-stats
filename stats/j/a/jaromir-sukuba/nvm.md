@@ -1,12 +1,14 @@
 # jaromir-sukuba/nvm - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 175
 
 [Open repository](https://github.com/jaromir-sukuba/nvm)
+
+[Open detailed stats for jaromir-sukuba/nvm](https://reviewgithub.com/rep/jaromir-sukuba/nvm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 173 | 30 | 
 | 2022-09-08 | 173 | 30 | 
 
-
-[Detailed charts & statistics for jaromir-sukuba/nvm](https://reviewgithub.com/rep/jaromir-sukuba/nvm)

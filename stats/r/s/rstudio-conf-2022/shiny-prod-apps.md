@@ -1,12 +1,14 @@
 # rstudio-conf-2022/shiny-prod-apps - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 52
 
 [Open repository](https://github.com/rstudio-conf-2022/shiny-prod-apps)
+
+[Open detailed stats for rstudio-conf-2022/shiny-prod-apps](https://reviewgithub.com/rep/rstudio-conf-2022/shiny-prod-apps)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 51 | 23 | 
 | 2022-09-08 | 51 | 23 | 
 
-
-[Detailed charts & statistics for rstudio-conf-2022/shiny-prod-apps](https://reviewgithub.com/rep/rstudio-conf-2022/shiny-prod-apps)

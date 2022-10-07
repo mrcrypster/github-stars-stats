@@ -1,12 +1,14 @@
 # usedbytes/picowota_blink - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/usedbytes/picowota_blink)
+
+[Open detailed stats for usedbytes/picowota_blink](https://reviewgithub.com/rep/usedbytes/picowota_blink)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 9 | - | 
 | 2022-09-07 | 9 | - | 
 
-
-[Detailed charts & statistics for usedbytes/picowota_blink](https://reviewgithub.com/rep/usedbytes/picowota_blink)

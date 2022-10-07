@@ -1,12 +1,14 @@
 # juspay/atlas - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 25
 
 [Open repository](https://github.com/juspay/atlas)
+
+[Open detailed stats for juspay/atlas](https://reviewgithub.com/rep/juspay/atlas)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 25 | - | 
 | 2022-09-08 | 25 | - | 
 
-
-[Detailed charts & statistics for juspay/atlas](https://reviewgithub.com/rep/juspay/atlas)

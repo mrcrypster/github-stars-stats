@@ -1,12 +1,14 @@
 # reproio/repro-ios-sdk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 26
 
 [Open repository](https://github.com/reproio/repro-ios-sdk)
+
+[Open detailed stats for reproio/repro-ios-sdk](https://reviewgithub.com/rep/reproio/repro-ios-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 26 | 1 | 
 | 2022-09-08 | 26 | 1 | 
 
-
-[Detailed charts & statistics for reproio/repro-ios-sdk](https://reviewgithub.com/rep/reproio/repro-ios-sdk)

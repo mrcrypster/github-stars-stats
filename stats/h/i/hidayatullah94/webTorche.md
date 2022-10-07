@@ -1,12 +1,14 @@
 # hidayatullah94/webTorche - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/hidayatullah94/webTorche)
+
+[Open detailed stats for hidayatullah94/webTorche](https://reviewgithub.com/rep/hidayatullah94/webTorche)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 3 | 
 | 2022-09-07 | 1 | 3 | 
 
-
-[Detailed charts & statistics for hidayatullah94/webTorche](https://reviewgithub.com/rep/hidayatullah94/webTorche)

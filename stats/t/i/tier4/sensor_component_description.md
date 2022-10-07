@@ -1,12 +1,14 @@
 # tier4/sensor_component_description - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 1
 
 [Open repository](https://github.com/tier4/sensor_component_description)
+
+[Open detailed stats for tier4/sensor_component_description](https://reviewgithub.com/rep/tier4/sensor_component_description)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for tier4/sensor_component_description](https://reviewgithub.com/rep/tier4/sensor_component_description)

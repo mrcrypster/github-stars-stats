@@ -1,12 +1,14 @@
 # wso2/open-healthcare-docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 1
 
 [Open repository](https://github.com/wso2/open-healthcare-docs)
+
+[Open detailed stats for wso2/open-healthcare-docs](https://reviewgithub.com/rep/wso2/open-healthcare-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 12 | 
 | 2022-09-07 | 1 | 12 | 
 
-
-[Detailed charts & statistics for wso2/open-healthcare-docs](https://reviewgithub.com/rep/wso2/open-healthcare-docs)

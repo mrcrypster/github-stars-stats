@@ -1,12 +1,14 @@
 # Drewsif/PiShrink - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 495
 
 ★ Stars: 2673
 
 [Open repository](https://github.com/Drewsif/PiShrink)
+
+[Open detailed stats for Drewsif/PiShrink](https://reviewgithub.com/rep/Drewsif/PiShrink)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2634 | 490 | 
 | 2022-09-08 | 2633 | 488 | 
 
-
-[Detailed charts & statistics for Drewsif/PiShrink](https://reviewgithub.com/rep/Drewsif/PiShrink)

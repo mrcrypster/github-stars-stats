@@ -1,12 +1,14 @@
 # MORAI-Autonomous/MORAI-ROS2_morai_msgs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/MORAI-Autonomous/MORAI-ROS2_morai_msgs)
+
+[Open detailed stats for MORAI-Autonomous/MORAI-ROS2_morai_msgs](https://reviewgithub.com/rep/MORAI-Autonomous/MORAI-ROS2_morai_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for MORAI-Autonomous/MORAI-ROS2_morai_msgs](https://reviewgithub.com/rep/MORAI-Autonomous/MORAI-ROS2_morai_msgs)

@@ -1,12 +1,14 @@
 # purescript-web/purescript-web-dom - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 30
 
 [Open repository](https://github.com/purescript-web/purescript-web-dom)
+
+[Open detailed stats for purescript-web/purescript-web-dom](https://reviewgithub.com/rep/purescript-web/purescript-web-dom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 30 | 21 | 
 | 2022-09-08 | 30 | 21 | 
 
-
-[Detailed charts & statistics for purescript-web/purescript-web-dom](https://reviewgithub.com/rep/purescript-web/purescript-web-dom)

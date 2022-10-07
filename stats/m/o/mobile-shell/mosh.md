@@ -1,12 +1,14 @@
 # mobile-shell/mosh - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 689
 
 ★ Stars: 11142
 
 [Open repository](https://github.com/mobile-shell/mosh)
+
+[Open detailed stats for mobile-shell/mosh](https://reviewgithub.com/rep/mobile-shell/mosh)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11098 | 684 | 
 | 2022-09-07 | 11098 | 684 | 
 
-
-[Detailed charts & statistics for mobile-shell/mosh](https://reviewgithub.com/rep/mobile-shell/mosh)

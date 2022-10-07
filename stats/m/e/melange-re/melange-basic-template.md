@@ -1,12 +1,14 @@
 # melange-re/melange-basic-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 32
 
 [Open repository](https://github.com/melange-re/melange-basic-template)
+
+[Open detailed stats for melange-re/melange-basic-template](https://reviewgithub.com/rep/melange-re/melange-basic-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 31 | 11 | 
 | 2022-09-07 | 31 | 11 | 
 
-
-[Detailed charts & statistics for melange-re/melange-basic-template](https://reviewgithub.com/rep/melange-re/melange-basic-template)

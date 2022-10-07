@@ -1,12 +1,14 @@
 # SEI-R-2-22/u3_hw_carmen_sandiego - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 0
 
 [Open repository](https://github.com/SEI-R-2-22/u3_hw_carmen_sandiego)
+
+[Open detailed stats for SEI-R-2-22/u3_hw_carmen_sandiego](https://reviewgithub.com/rep/SEI-R-2-22/u3_hw_carmen_sandiego)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 32 | 
 | 2022-09-08 | - | 32 | 
 
-
-[Detailed charts & statistics for SEI-R-2-22/u3_hw_carmen_sandiego](https://reviewgithub.com/rep/SEI-R-2-22/u3_hw_carmen_sandiego)

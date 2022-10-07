@@ -1,12 +1,14 @@
 # Havoc-OS/android_bionic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Havoc-OS/android_bionic)
+
+[Open detailed stats for Havoc-OS/android_bionic](https://reviewgithub.com/rep/Havoc-OS/android_bionic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 11 | 
 | 2022-09-08 | 3 | 11 | 
 
-
-[Detailed charts & statistics for Havoc-OS/android_bionic](https://reviewgithub.com/rep/Havoc-OS/android_bionic)

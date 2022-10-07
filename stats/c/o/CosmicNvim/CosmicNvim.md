@@ -1,12 +1,14 @@
 # CosmicNvim/CosmicNvim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 51
 
 ★ Stars: 699
 
 [Open repository](https://github.com/CosmicNvim/CosmicNvim)
+
+[Open detailed stats for CosmicNvim/CosmicNvim](https://reviewgithub.com/rep/CosmicNvim/CosmicNvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 667 | 52 | 
 | 2022-09-08 | 667 | 52 | 
 
-
-[Detailed charts & statistics for CosmicNvim/CosmicNvim](https://reviewgithub.com/rep/CosmicNvim/CosmicNvim)

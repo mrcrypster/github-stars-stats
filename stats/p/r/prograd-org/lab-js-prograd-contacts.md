@@ -1,12 +1,14 @@
 # prograd-org/lab-js-prograd-contacts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 207
 
 ★ Stars: 3
 
 [Open repository](https://github.com/prograd-org/lab-js-prograd-contacts)
+
+[Open detailed stats for prograd-org/lab-js-prograd-contacts](https://reviewgithub.com/rep/prograd-org/lab-js-prograd-contacts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 209 | 
 | 2022-09-07 | 3 | 209 | 
 
-
-[Detailed charts & statistics for prograd-org/lab-js-prograd-contacts](https://reviewgithub.com/rep/prograd-org/lab-js-prograd-contacts)

@@ -1,12 +1,14 @@
 # Kong/lua-resty-events - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 8
 
 [Open repository](https://github.com/Kong/lua-resty-events)
+
+[Open detailed stats for Kong/lua-resty-events](https://reviewgithub.com/rep/Kong/lua-resty-events)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 1 | 
 | 2022-09-07 | 7 | 1 | 
 
-
-[Detailed charts & statistics for Kong/lua-resty-events](https://reviewgithub.com/rep/Kong/lua-resty-events)

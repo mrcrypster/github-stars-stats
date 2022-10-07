@@ -1,12 +1,14 @@
 # wolandark/wim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 245
 
 [Open repository](https://github.com/wolandark/wim)
+
+[Open detailed stats for wolandark/wim](https://reviewgithub.com/rep/wolandark/wim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 240 | 11 | 
 | 2022-09-07 | 239 | 11 | 
 
-
-[Detailed charts & statistics for wolandark/wim](https://reviewgithub.com/rep/wolandark/wim)

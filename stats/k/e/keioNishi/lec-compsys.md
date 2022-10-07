@@ -1,12 +1,14 @@
 # keioNishi/lec-compsys - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/keioNishi/lec-compsys)
+
+[Open detailed stats for keioNishi/lec-compsys](https://reviewgithub.com/rep/keioNishi/lec-compsys)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 1 | 
 | 2022-09-08 | - | 1 | 
 
-
-[Detailed charts & statistics for keioNishi/lec-compsys](https://reviewgithub.com/rep/keioNishi/lec-compsys)

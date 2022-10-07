@@ -1,12 +1,14 @@
 # ethz-asl/gflags_catkin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 27
 
 ★ Stars: 7
 
 [Open repository](https://github.com/ethz-asl/gflags_catkin)
+
+[Open detailed stats for ethz-asl/gflags_catkin](https://reviewgithub.com/rep/ethz-asl/gflags_catkin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 27 | 
 | 2022-09-08 | 7 | 27 | 
 
-
-[Detailed charts & statistics for ethz-asl/gflags_catkin](https://reviewgithub.com/rep/ethz-asl/gflags_catkin)

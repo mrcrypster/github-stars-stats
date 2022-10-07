@@ -1,12 +1,14 @@
 # cognitect-labs/transcriptor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 246
 
 [Open repository](https://github.com/cognitect-labs/transcriptor)
+
+[Open detailed stats for cognitect-labs/transcriptor](https://reviewgithub.com/rep/cognitect-labs/transcriptor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 245 | 6 | 
 | 2022-09-08 | 245 | 6 | 
 
-
-[Detailed charts & statistics for cognitect-labs/transcriptor](https://reviewgithub.com/rep/cognitect-labs/transcriptor)

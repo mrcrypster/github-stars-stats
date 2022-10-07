@@ -1,12 +1,14 @@
 # rocketseat-education/nlw-06-elixir - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 75
 
 [Open repository](https://github.com/rocketseat-education/nlw-06-elixir)
+
+[Open detailed stats for rocketseat-education/nlw-06-elixir](https://reviewgithub.com/rep/rocketseat-education/nlw-06-elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 76 | 64 | 
 | 2022-09-08 | 76 | 64 | 
 
-
-[Detailed charts & statistics for rocketseat-education/nlw-06-elixir](https://reviewgithub.com/rep/rocketseat-education/nlw-06-elixir)

@@ -1,12 +1,14 @@
 # Dxgamer7405/Psych-Engine-0.4.2-Android-Port - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Dxgamer7405/Psych-Engine-0.4.2-Android-Port)
+
+[Open detailed stats for Dxgamer7405/Psych-Engine-0.4.2-Android-Port](https://reviewgithub.com/rep/Dxgamer7405/Psych-Engine-0.4.2-Android-Port)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 15 | 
 | 2022-09-08 | - | 15 | 
 
-
-[Detailed charts & statistics for Dxgamer7405/Psych-Engine-0.4.2-Android-Port](https://reviewgithub.com/rep/Dxgamer7405/Psych-Engine-0.4.2-Android-Port)

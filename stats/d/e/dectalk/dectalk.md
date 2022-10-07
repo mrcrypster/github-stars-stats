@@ -1,12 +1,14 @@
 # dectalk/dectalk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 49
 
 [Open repository](https://github.com/dectalk/dectalk)
+
+[Open detailed stats for dectalk/dectalk](https://reviewgithub.com/rep/dectalk/dectalk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | 44 | 5 | 
 | 2022-09-26 | 44 | 5 | 
 
-
-[Detailed charts & statistics for dectalk/dectalk](https://reviewgithub.com/rep/dectalk/dectalk)

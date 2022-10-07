@@ -1,12 +1,14 @@
 # between40and2/JXFanfouEngine - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/between40and2/JXFanfouEngine)
+
+[Open detailed stats for between40and2/JXFanfouEngine](https://reviewgithub.com/rep/between40and2/JXFanfouEngine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for between40and2/JXFanfouEngine](https://reviewgithub.com/rep/between40and2/JXFanfouEngine)

@@ -1,12 +1,14 @@
 # orangebucket/Anidea-for-SmartThings - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 176
 
 ★ Stars: 51
 
 [Open repository](https://github.com/orangebucket/Anidea-for-SmartThings)
+
+[Open detailed stats for orangebucket/Anidea-for-SmartThings](https://reviewgithub.com/rep/orangebucket/Anidea-for-SmartThings)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 50 | 176 | 
 | 2022-09-07 | 50 | 176 | 
 
-
-[Detailed charts & statistics for orangebucket/Anidea-for-SmartThings](https://reviewgithub.com/rep/orangebucket/Anidea-for-SmartThings)

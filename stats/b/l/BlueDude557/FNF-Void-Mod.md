@@ -1,12 +1,14 @@
 # BlueDude557/FNF-Void-Mod - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 9
 
 [Open repository](https://github.com/BlueDude557/FNF-Void-Mod)
+
+[Open detailed stats for BlueDude557/FNF-Void-Mod](https://reviewgithub.com/rep/BlueDude557/FNF-Void-Mod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 18 | 
 | 2022-09-08 | 8 | 18 | 
 
-
-[Detailed charts & statistics for BlueDude557/FNF-Void-Mod](https://reviewgithub.com/rep/BlueDude557/FNF-Void-Mod)

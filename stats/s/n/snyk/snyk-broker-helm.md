@@ -1,12 +1,14 @@
 # snyk/snyk-broker-helm - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 6
 
 [Open repository](https://github.com/snyk/snyk-broker-helm)
+
+[Open detailed stats for snyk/snyk-broker-helm](https://reviewgithub.com/rep/snyk/snyk-broker-helm)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 14 | 
 | 2022-09-07 | 5 | 14 | 
 
-
-[Detailed charts & statistics for snyk/snyk-broker-helm](https://reviewgithub.com/rep/snyk/snyk-broker-helm)

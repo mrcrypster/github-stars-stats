@@ -1,12 +1,14 @@
 # stacksimplify/terraform-cloud-demo1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 421
 
 ★ Stars: 17
 
 [Open repository](https://github.com/stacksimplify/terraform-cloud-demo1)
+
+[Open detailed stats for stacksimplify/terraform-cloud-demo1](https://reviewgithub.com/rep/stacksimplify/terraform-cloud-demo1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 406 | 
 | 2022-09-07 | 13 | 406 | 
 
-
-[Detailed charts & statistics for stacksimplify/terraform-cloud-demo1](https://reviewgithub.com/rep/stacksimplify/terraform-cloud-demo1)

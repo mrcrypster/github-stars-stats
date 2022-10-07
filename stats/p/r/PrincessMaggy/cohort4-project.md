@@ -1,12 +1,14 @@
 # PrincessMaggy/cohort4-project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 1
 
 [Open repository](https://github.com/PrincessMaggy/cohort4-project)
+
+[Open detailed stats for PrincessMaggy/cohort4-project](https://reviewgithub.com/rep/PrincessMaggy/cohort4-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-28 | 1 | 12 | 
 | 2022-09-27 | 1 | 9 | 
 
-
-[Detailed charts & statistics for PrincessMaggy/cohort4-project](https://reviewgithub.com/rep/PrincessMaggy/cohort4-project)

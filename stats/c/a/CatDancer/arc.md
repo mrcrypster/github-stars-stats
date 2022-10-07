@@ -1,12 +1,14 @@
 # CatDancer/arc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 6
 
 [Open repository](https://github.com/CatDancer/arc)
+
+[Open detailed stats for CatDancer/arc](https://reviewgithub.com/rep/CatDancer/arc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 3 | 
 | 2022-09-07 | 6 | 3 | 
 
-
-[Detailed charts & statistics for CatDancer/arc](https://reviewgithub.com/rep/CatDancer/arc)

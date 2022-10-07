@@ -1,12 +1,14 @@
 # madcowswe/ODriveHardware - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 372
 
 ★ Stars: 734
 
 [Open repository](https://github.com/madcowswe/ODriveHardware)
+
+[Open detailed stats for madcowswe/ODriveHardware](https://reviewgithub.com/rep/madcowswe/ODriveHardware)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 727 | 370 | 
 | 2022-09-07 | 727 | 370 | 
 
-
-[Detailed charts & statistics for madcowswe/ODriveHardware](https://reviewgithub.com/rep/madcowswe/ODriveHardware)

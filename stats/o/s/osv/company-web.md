@@ -1,12 +1,14 @@
 # osv/company-web - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 71
 
 [Open repository](https://github.com/osv/company-web)
+
+[Open detailed stats for osv/company-web](https://reviewgithub.com/rep/osv/company-web)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 71 | 6 | 
 | 2022-09-07 | 71 | 6 | 
 
-
-[Detailed charts & statistics for osv/company-web](https://reviewgithub.com/rep/osv/company-web)

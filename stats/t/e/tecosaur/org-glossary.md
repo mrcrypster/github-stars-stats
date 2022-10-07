@@ -1,12 +1,14 @@
 # tecosaur/org-glossary - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 63
 
 [Open repository](https://github.com/tecosaur/org-glossary)
+
+[Open detailed stats for tecosaur/org-glossary](https://reviewgithub.com/rep/tecosaur/org-glossary)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 64 | 1 | 
 | 2022-09-08 | 64 | 1 | 
 
-
-[Detailed charts & statistics for tecosaur/org-glossary](https://reviewgithub.com/rep/tecosaur/org-glossary)

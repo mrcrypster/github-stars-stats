@@ -1,12 +1,14 @@
 # dzamkov/DJ - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/dzamkov/DJ)
+
+[Open detailed stats for dzamkov/DJ](https://reviewgithub.com/rep/dzamkov/DJ)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | - | 
 | 2022-09-08 | 2 | - | 
 
-
-[Detailed charts & statistics for dzamkov/DJ](https://reviewgithub.com/rep/dzamkov/DJ)

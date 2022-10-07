@@ -1,12 +1,14 @@
 # defiAnalysis/MakerDAO-DSS - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 18
 
 [Open repository](https://github.com/defiAnalysis/MakerDAO-DSS)
+
+[Open detailed stats for defiAnalysis/MakerDAO-DSS](https://reviewgithub.com/rep/defiAnalysis/MakerDAO-DSS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | 11 | 
 | 2022-09-07 | 18 | 11 | 
 
-
-[Detailed charts & statistics for defiAnalysis/MakerDAO-DSS](https://reviewgithub.com/rep/defiAnalysis/MakerDAO-DSS)

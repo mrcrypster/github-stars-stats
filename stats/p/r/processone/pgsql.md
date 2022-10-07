@@ -1,12 +1,14 @@
 # processone/pgsql - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/processone/pgsql)
+
+[Open detailed stats for processone/pgsql](https://reviewgithub.com/rep/processone/pgsql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 5 | 
 | 2022-09-08 | 8 | 5 | 
 
-
-[Detailed charts & statistics for processone/pgsql](https://reviewgithub.com/rep/processone/pgsql)

@@ -1,12 +1,14 @@
 # FatimaAlmashhor/Wakelny - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 3
 
 [Open repository](https://github.com/FatimaAlmashhor/Wakelny)
+
+[Open detailed stats for FatimaAlmashhor/Wakelny](https://reviewgithub.com/rep/FatimaAlmashhor/Wakelny)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 4 | 
 | 2022-09-07 | 3 | 4 | 
 
-
-[Detailed charts & statistics for FatimaAlmashhor/Wakelny](https://reviewgithub.com/rep/FatimaAlmashhor/Wakelny)

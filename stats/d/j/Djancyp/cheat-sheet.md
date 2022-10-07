@@ -1,12 +1,14 @@
 # Djancyp/cheat-sheet - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 55
 
 [Open repository](https://github.com/Djancyp/cheat-sheet)
+
+[Open detailed stats for Djancyp/cheat-sheet](https://reviewgithub.com/rep/Djancyp/cheat-sheet)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 54 | 3 | 
 | 2022-09-08 | 54 | 3 | 
 
-
-[Detailed charts & statistics for Djancyp/cheat-sheet](https://reviewgithub.com/rep/Djancyp/cheat-sheet)

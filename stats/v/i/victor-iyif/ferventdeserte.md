@@ -1,12 +1,14 @@
 # victor-iyif/ferventdeserte - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 113
 
 ★ Stars: 246
 
 [Open repository](https://github.com/victor-iyif/ferventdeserte)
+
+[Open detailed stats for victor-iyif/ferventdeserte](https://reviewgithub.com/rep/victor-iyif/ferventdeserte)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 246 | 113 | 
 | 2022-09-07 | 246 | 113 | 
 
-
-[Detailed charts & statistics for victor-iyif/ferventdeserte](https://reviewgithub.com/rep/victor-iyif/ferventdeserte)

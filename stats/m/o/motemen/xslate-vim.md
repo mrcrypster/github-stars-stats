@@ -1,12 +1,14 @@
 # motemen/xslate-vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 24
 
 [Open repository](https://github.com/motemen/xslate-vim)
+
+[Open detailed stats for motemen/xslate-vim](https://reviewgithub.com/rep/motemen/xslate-vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 24 | 7 | 
 | 2022-09-07 | 24 | 7 | 
 
-
-[Detailed charts & statistics for motemen/xslate-vim](https://reviewgithub.com/rep/motemen/xslate-vim)

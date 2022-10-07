@@ -1,12 +1,14 @@
 # idealista/jenkins_role - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/idealista/jenkins_role)
+
+[Open detailed stats for idealista/jenkins_role](https://reviewgithub.com/rep/idealista/jenkins_role)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 2 | 
 | 2022-09-07 | 2 | 2 | 
 
-
-[Detailed charts & statistics for idealista/jenkins_role](https://reviewgithub.com/rep/idealista/jenkins_role)

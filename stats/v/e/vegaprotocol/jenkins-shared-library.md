@@ -1,12 +1,14 @@
 # vegaprotocol/jenkins-shared-library - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/vegaprotocol/jenkins-shared-library)
+
+[Open detailed stats for vegaprotocol/jenkins-shared-library](https://reviewgithub.com/rep/vegaprotocol/jenkins-shared-library)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for vegaprotocol/jenkins-shared-library](https://reviewgithub.com/rep/vegaprotocol/jenkins-shared-library)

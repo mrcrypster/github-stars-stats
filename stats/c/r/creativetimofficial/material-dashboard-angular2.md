@@ -1,12 +1,14 @@
 # creativetimofficial/material-dashboard-angular2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 798
 
 ★ Stars: 917
 
 [Open repository](https://github.com/creativetimofficial/material-dashboard-angular2)
+
+[Open detailed stats for creativetimofficial/material-dashboard-angular2](https://reviewgithub.com/rep/creativetimofficial/material-dashboard-angular2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 912 | 747 | 
 | 2022-09-07 | 912 | 747 | 
 
-
-[Detailed charts & statistics for creativetimofficial/material-dashboard-angular2](https://reviewgithub.com/rep/creativetimofficial/material-dashboard-angular2)

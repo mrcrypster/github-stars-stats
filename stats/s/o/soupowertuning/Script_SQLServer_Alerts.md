@@ -1,12 +1,14 @@
 # soupowertuning/Script_SQLServer_Alerts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 55
 
 ★ Stars: 73
 
 [Open repository](https://github.com/soupowertuning/Script_SQLServer_Alerts)
+
+[Open detailed stats for soupowertuning/Script_SQLServer_Alerts](https://reviewgithub.com/rep/soupowertuning/Script_SQLServer_Alerts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 72 | 54 | 
 | 2022-09-08 | 72 | 54 | 
 
-
-[Detailed charts & statistics for soupowertuning/Script_SQLServer_Alerts](https://reviewgithub.com/rep/soupowertuning/Script_SQLServer_Alerts)

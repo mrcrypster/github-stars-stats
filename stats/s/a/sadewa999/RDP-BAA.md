@@ -1,12 +1,14 @@
 # sadewa999/RDP-BAA - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 5
 
 [Open repository](https://github.com/sadewa999/RDP-BAA)
+
+[Open detailed stats for sadewa999/RDP-BAA](https://reviewgithub.com/rep/sadewa999/RDP-BAA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 36 | 
 | 2022-09-08 | 3 | 35 | 
 
-
-[Detailed charts & statistics for sadewa999/RDP-BAA](https://reviewgithub.com/rep/sadewa999/RDP-BAA)

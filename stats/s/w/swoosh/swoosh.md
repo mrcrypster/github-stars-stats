@@ -1,12 +1,14 @@
 # swoosh/swoosh - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 168
 
 ★ Stars: 1215
 
 [Open repository](https://github.com/swoosh/swoosh)
+
+[Open detailed stats for swoosh/swoosh](https://reviewgithub.com/rep/swoosh/swoosh)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1200 | 166 | 
 | 2022-09-08 | 1199 | 165 | 
 
-
-[Detailed charts & statistics for swoosh/swoosh](https://reviewgithub.com/rep/swoosh/swoosh)

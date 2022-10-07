@@ -1,12 +1,14 @@
 # basho/lager_syslog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 82
 
 ★ Stars: 60
 
 [Open repository](https://github.com/basho/lager_syslog)
+
+[Open detailed stats for basho/lager_syslog](https://reviewgithub.com/rep/basho/lager_syslog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 60 | 82 | 
 | 2022-09-08 | 60 | 82 | 
 
-
-[Detailed charts & statistics for basho/lager_syslog](https://reviewgithub.com/rep/basho/lager_syslog)

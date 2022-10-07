@@ -1,12 +1,14 @@
 # ChaseOB/Barkane - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 3
 
 [Open repository](https://github.com/ChaseOB/Barkane)
+
+[Open detailed stats for ChaseOB/Barkane](https://reviewgithub.com/rep/ChaseOB/Barkane)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-20 | 3 | 9 | 
 | 2022-09-19 | 3 | 9 | 
 
-
-[Detailed charts & statistics for ChaseOB/Barkane](https://reviewgithub.com/rep/ChaseOB/Barkane)

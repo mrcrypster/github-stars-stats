@@ -1,12 +1,14 @@
 # theblockchainchief/web3-hub - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 23
 
 [Open repository](https://github.com/theblockchainchief/web3-hub)
+
+[Open detailed stats for theblockchainchief/web3-hub](https://reviewgithub.com/rep/theblockchainchief/web3-hub)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 15 | 
 | 2022-09-08 | 21 | 15 | 
 
-
-[Detailed charts & statistics for theblockchainchief/web3-hub](https://reviewgithub.com/rep/theblockchainchief/web3-hub)

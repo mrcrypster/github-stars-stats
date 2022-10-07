@@ -1,12 +1,14 @@
 # babashka/babashka.curl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 111
 
 [Open repository](https://github.com/babashka/babashka.curl)
+
+[Open detailed stats for babashka/babashka.curl](https://reviewgithub.com/rep/babashka/babashka.curl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 111 | 9 | 
 | 2022-09-07 | 111 | 9 | 
 
-
-[Detailed charts & statistics for babashka/babashka.curl](https://reviewgithub.com/rep/babashka/babashka.curl)

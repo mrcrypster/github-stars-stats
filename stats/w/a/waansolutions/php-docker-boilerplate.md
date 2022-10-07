@@ -1,12 +1,14 @@
 # waansolutions/php-docker-boilerplate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 3
 
 [Open repository](https://github.com/waansolutions/php-docker-boilerplate)
+
+[Open detailed stats for waansolutions/php-docker-boilerplate](https://reviewgithub.com/rep/waansolutions/php-docker-boilerplate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 3 | 3 | 
 | 2022-09-30 | 3 | 3 | 
 
-
-[Detailed charts & statistics for waansolutions/php-docker-boilerplate](https://reviewgithub.com/rep/waansolutions/php-docker-boilerplate)

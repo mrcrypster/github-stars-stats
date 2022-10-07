@@ -1,12 +1,14 @@
 # coderove/Meteorological_Data_Center - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 40
 
 [Open repository](https://github.com/coderove/Meteorological_Data_Center)
+
+[Open detailed stats for coderove/Meteorological_Data_Center](https://reviewgithub.com/rep/coderove/Meteorological_Data_Center)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 40 | 9 | 
 | 2022-09-07 | 40 | 9 | 
 
-
-[Detailed charts & statistics for coderove/Meteorological_Data_Center](https://reviewgithub.com/rep/coderove/Meteorological_Data_Center)

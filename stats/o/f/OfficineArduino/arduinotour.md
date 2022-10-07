@@ -1,12 +1,14 @@
 # OfficineArduino/arduinotour - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/OfficineArduino/arduinotour)
+
+[Open detailed stats for OfficineArduino/arduinotour](https://reviewgithub.com/rep/OfficineArduino/arduinotour)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for OfficineArduino/arduinotour](https://reviewgithub.com/rep/OfficineArduino/arduinotour)

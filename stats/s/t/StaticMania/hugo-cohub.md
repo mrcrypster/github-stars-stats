@@ -1,12 +1,14 @@
 # StaticMania/hugo-cohub - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 25
 
 [Open repository](https://github.com/StaticMania/hugo-cohub)
+
+[Open detailed stats for StaticMania/hugo-cohub](https://reviewgithub.com/rep/StaticMania/hugo-cohub)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 24 | 
 | 2022-09-07 | 22 | 24 | 
 
-
-[Detailed charts & statistics for StaticMania/hugo-cohub](https://reviewgithub.com/rep/StaticMania/hugo-cohub)

@@ -1,12 +1,14 @@
 # OSSystems/meta-gstreamer1.0 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 249
 
 ★ Stars: 143
 
 [Open repository](https://github.com/OSSystems/meta-gstreamer1.0)
+
+[Open detailed stats for OSSystems/meta-gstreamer1.0](https://reviewgithub.com/rep/OSSystems/meta-gstreamer1.0)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 143 | 249 | 
 | 2022-09-08 | 143 | 249 | 
 
-
-[Detailed charts & statistics for OSSystems/meta-gstreamer1.0](https://reviewgithub.com/rep/OSSystems/meta-gstreamer1.0)

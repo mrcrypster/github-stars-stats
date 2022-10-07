@@ -1,12 +1,14 @@
 # brash99/Cpsc256 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 6
 
 [Open repository](https://github.com/brash99/Cpsc256)
+
+[Open detailed stats for brash99/Cpsc256](https://reviewgithub.com/rep/brash99/Cpsc256)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 41 | 
 | 2022-09-07 | 6 | 41 | 
 
-
-[Detailed charts & statistics for brash99/Cpsc256](https://reviewgithub.com/rep/brash99/Cpsc256)

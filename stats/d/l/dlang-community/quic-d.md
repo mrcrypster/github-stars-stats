@@ -1,12 +1,14 @@
 # dlang-community/quic-d - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/dlang-community/quic-d)
+
+[Open detailed stats for dlang-community/quic-d](https://reviewgithub.com/rep/dlang-community/quic-d)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-24 | 7 | - | 
 | 2022-09-23 | 7 | - | 
 
-
-[Detailed charts & statistics for dlang-community/quic-d](https://reviewgithub.com/rep/dlang-community/quic-d)

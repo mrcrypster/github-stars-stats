@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-oo-tic-tac-toe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 505
 
 ★ Stars: 2
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-oo-tic-tac-toe)
+
+[Open detailed stats for learn-co-curriculum/phase-3-oo-tic-tac-toe](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-oo-tic-tac-toe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 459 | 
 | 2022-09-08 | 2 | 459 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-oo-tic-tac-toe](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-oo-tic-tac-toe)

@@ -1,12 +1,14 @@
 # mforets/computacion-cientifica-en-julia - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 7
 
 [Open repository](https://github.com/mforets/computacion-cientifica-en-julia)
+
+[Open detailed stats for mforets/computacion-cientifica-en-julia](https://reviewgithub.com/rep/mforets/computacion-cientifica-en-julia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 8 | 
 | 2022-09-08 | 7 | 8 | 
 
-
-[Detailed charts & statistics for mforets/computacion-cientifica-en-julia](https://reviewgithub.com/rep/mforets/computacion-cientifica-en-julia)

@@ -1,12 +1,14 @@
 # Prayag2/kde_modernclock - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 23
 
 [Open repository](https://github.com/Prayag2/kde_modernclock)
+
+[Open detailed stats for Prayag2/kde_modernclock](https://reviewgithub.com/rep/Prayag2/kde_modernclock)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 23 | - | 
 | 2022-09-08 | 23 | - | 
 
-
-[Detailed charts & statistics for Prayag2/kde_modernclock](https://reviewgithub.com/rep/Prayag2/kde_modernclock)

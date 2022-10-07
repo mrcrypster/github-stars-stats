@@ -1,12 +1,14 @@
 # mevcheb/optimal-sandwich - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 119
 
 ★ Stars: 470
 
 [Open repository](https://github.com/mevcheb/optimal-sandwich)
+
+[Open detailed stats for mevcheb/optimal-sandwich](https://reviewgithub.com/rep/mevcheb/optimal-sandwich)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 462 | 117 | 
 | 2022-09-07 | 463 | 117 | 
 
-
-[Detailed charts & statistics for mevcheb/optimal-sandwich](https://reviewgithub.com/rep/mevcheb/optimal-sandwich)

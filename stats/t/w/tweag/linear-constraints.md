@@ -1,12 +1,14 @@
 # tweag/linear-constraints - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/tweag/linear-constraints)
+
+[Open detailed stats for tweag/linear-constraints](https://reviewgithub.com/rep/tweag/linear-constraints)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 6 | - | 
 | 2022-10-02 | 6 | - | 
 
-
-[Detailed charts & statistics for tweag/linear-constraints](https://reviewgithub.com/rep/tweag/linear-constraints)

@@ -1,12 +1,14 @@
 # will-saunders-ukaea/RedBench - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/will-saunders-ukaea/RedBench)
+
+[Open detailed stats for will-saunders-ukaea/RedBench](https://reviewgithub.com/rep/will-saunders-ukaea/RedBench)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for will-saunders-ukaea/RedBench](https://reviewgithub.com/rep/will-saunders-ukaea/RedBench)

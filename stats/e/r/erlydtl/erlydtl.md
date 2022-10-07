@@ -1,12 +1,14 @@
 # erlydtl/erlydtl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 187
 
 ★ Stars: 499
 
 [Open repository](https://github.com/erlydtl/erlydtl)
+
+[Open detailed stats for erlydtl/erlydtl](https://reviewgithub.com/rep/erlydtl/erlydtl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 499 | 187 | 
 | 2022-09-08 | 499 | 187 | 
 
-
-[Detailed charts & statistics for erlydtl/erlydtl](https://reviewgithub.com/rep/erlydtl/erlydtl)

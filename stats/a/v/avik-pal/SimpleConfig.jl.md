@@ -1,12 +1,14 @@
 # avik-pal/SimpleConfig.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/avik-pal/SimpleConfig.jl)
+
+[Open detailed stats for avik-pal/SimpleConfig.jl](https://reviewgithub.com/rep/avik-pal/SimpleConfig.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | - | 
 | 2022-09-07 | 14 | - | 
 
-
-[Detailed charts & statistics for avik-pal/SimpleConfig.jl](https://reviewgithub.com/rep/avik-pal/SimpleConfig.jl)

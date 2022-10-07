@@ -1,12 +1,14 @@
 # deepinstinct/AMSI-Unchained - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 68
 
 [Open repository](https://github.com/deepinstinct/AMSI-Unchained)
+
+[Open detailed stats for deepinstinct/AMSI-Unchained](https://reviewgithub.com/rep/deepinstinct/AMSI-Unchained)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 66 | 8 | 
 | 2022-09-08 | 66 | 8 | 
 
-
-[Detailed charts & statistics for deepinstinct/AMSI-Unchained](https://reviewgithub.com/rep/deepinstinct/AMSI-Unchained)

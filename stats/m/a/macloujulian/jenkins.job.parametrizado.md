@@ -1,12 +1,14 @@
 # macloujulian/jenkins.job.parametrizado - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 51
 
 ★ Stars: 2
 
 [Open repository](https://github.com/macloujulian/jenkins.job.parametrizado)
+
+[Open detailed stats for macloujulian/jenkins.job.parametrizado](https://reviewgithub.com/rep/macloujulian/jenkins.job.parametrizado)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 49 | 
 | 2022-09-07 | 2 | 49 | 
 
-
-[Detailed charts & statistics for macloujulian/jenkins.job.parametrizado](https://reviewgithub.com/rep/macloujulian/jenkins.job.parametrizado)

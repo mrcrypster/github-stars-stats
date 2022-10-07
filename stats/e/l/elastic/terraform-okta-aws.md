@@ -1,12 +1,14 @@
 # elastic/terraform-okta-aws - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 7
 
 [Open repository](https://github.com/elastic/terraform-okta-aws)
+
+[Open detailed stats for elastic/terraform-okta-aws](https://reviewgithub.com/rep/elastic/terraform-okta-aws)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 5 | 
 | 2022-09-08 | 7 | 5 | 
 
-
-[Detailed charts & statistics for elastic/terraform-okta-aws](https://reviewgithub.com/rep/elastic/terraform-okta-aws)

@@ -1,12 +1,14 @@
 # department-of-veterans-affairs/acronyms - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 40
 
 ★ Stars: 28
 
 [Open repository](https://github.com/department-of-veterans-affairs/acronyms)
+
+[Open detailed stats for department-of-veterans-affairs/acronyms](https://reviewgithub.com/rep/department-of-veterans-affairs/acronyms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 28 | 39 | 
 | 2022-09-07 | 28 | 39 | 
 
-
-[Detailed charts & statistics for department-of-veterans-affairs/acronyms](https://reviewgithub.com/rep/department-of-veterans-affairs/acronyms)

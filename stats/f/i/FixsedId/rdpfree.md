@@ -1,12 +1,14 @@
 # FixsedId/rdpfree - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 65
 
 ★ Stars: 0
 
 [Open repository](https://github.com/FixsedId/rdpfree)
+
+[Open detailed stats for FixsedId/rdpfree](https://reviewgithub.com/rep/FixsedId/rdpfree)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 65 | 
 | 2022-09-07 | - | 65 | 
 
-
-[Detailed charts & statistics for FixsedId/rdpfree](https://reviewgithub.com/rep/FixsedId/rdpfree)

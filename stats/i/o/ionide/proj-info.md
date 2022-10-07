@@ -1,12 +1,14 @@
 # ionide/proj-info - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 31
 
 ★ Stars: 58
 
 [Open repository](https://github.com/ionide/proj-info)
+
+[Open detailed stats for ionide/proj-info](https://reviewgithub.com/rep/ionide/proj-info)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 58 | 31 | 
 | 2022-09-08 | 58 | 31 | 
 
-
-[Detailed charts & statistics for ionide/proj-info](https://reviewgithub.com/rep/ionide/proj-info)

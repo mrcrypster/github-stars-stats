@@ -1,12 +1,14 @@
 # ykskb/phrag - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 40
 
 [Open repository](https://github.com/ykskb/phrag)
+
+[Open detailed stats for ykskb/phrag](https://reviewgithub.com/rep/ykskb/phrag)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 40 | 2 | 
 | 2022-09-08 | 40 | 2 | 
 
-
-[Detailed charts & statistics for ykskb/phrag](https://reviewgithub.com/rep/ykskb/phrag)

@@ -1,12 +1,14 @@
 # Bluehouse-Technology/otter_lib - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Bluehouse-Technology/otter_lib)
+
+[Open detailed stats for Bluehouse-Technology/otter_lib](https://reviewgithub.com/rep/Bluehouse-Technology/otter_lib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 10 | 
 | 2022-09-08 | 1 | 10 | 
 
-
-[Detailed charts & statistics for Bluehouse-Technology/otter_lib](https://reviewgithub.com/rep/Bluehouse-Technology/otter_lib)

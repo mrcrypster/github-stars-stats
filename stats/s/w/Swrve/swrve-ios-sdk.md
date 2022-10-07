@@ -1,12 +1,14 @@
 # Swrve/swrve-ios-sdk - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 16
 
 [Open repository](https://github.com/Swrve/swrve-ios-sdk)
+
+[Open detailed stats for Swrve/swrve-ios-sdk](https://reviewgithub.com/rep/Swrve/swrve-ios-sdk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 37 | 
 | 2022-09-07 | 16 | 37 | 
 
-
-[Detailed charts & statistics for Swrve/swrve-ios-sdk](https://reviewgithub.com/rep/Swrve/swrve-ios-sdk)

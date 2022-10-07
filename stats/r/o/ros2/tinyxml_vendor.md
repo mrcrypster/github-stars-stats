@@ -1,12 +1,14 @@
 # ros2/tinyxml_vendor - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ros2/tinyxml_vendor)
+
+[Open detailed stats for ros2/tinyxml_vendor](https://reviewgithub.com/rep/ros2/tinyxml_vendor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 1 | 14 | 
 | 2022-09-16 | 1 | 14 | 
 
-
-[Detailed charts & statistics for ros2/tinyxml_vendor](https://reviewgithub.com/rep/ros2/tinyxml_vendor)

@@ -1,12 +1,14 @@
 # mbehzad/datasciencecoursera - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mbehzad/datasciencecoursera)
+
+[Open detailed stats for mbehzad/datasciencecoursera](https://reviewgithub.com/rep/mbehzad/datasciencecoursera)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 1 | 9 | 
 | 2022-09-25 | 1 | 9 | 
 
-
-[Detailed charts & statistics for mbehzad/datasciencecoursera](https://reviewgithub.com/rep/mbehzad/datasciencecoursera)

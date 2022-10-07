@@ -1,12 +1,14 @@
 # tayganr/purviewlab - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 102
 
 ★ Stars: 81
 
 [Open repository](https://github.com/tayganr/purviewlab)
+
+[Open detailed stats for tayganr/purviewlab](https://reviewgithub.com/rep/tayganr/purviewlab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 76 | 89 | 
 | 2022-09-07 | 75 | 89 | 
 
-
-[Detailed charts & statistics for tayganr/purviewlab](https://reviewgithub.com/rep/tayganr/purviewlab)

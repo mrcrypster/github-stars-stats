@@ -1,12 +1,14 @@
 # crazywifi/RDP_SessionHijacking - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 231
 
 ★ Stars: 57
 
 [Open repository](https://github.com/crazywifi/RDP_SessionHijacking)
+
+[Open detailed stats for crazywifi/RDP_SessionHijacking](https://reviewgithub.com/rep/crazywifi/RDP_SessionHijacking)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 57 | 231 | 
 | 2022-09-08 | 57 | 231 | 
 
-
-[Detailed charts & statistics for crazywifi/RDP_SessionHijacking](https://reviewgithub.com/rep/crazywifi/RDP_SessionHijacking)

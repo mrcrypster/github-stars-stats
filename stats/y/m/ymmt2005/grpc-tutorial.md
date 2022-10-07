@@ -1,12 +1,14 @@
 # ymmt2005/grpc-tutorial - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 618
 
 [Open repository](https://github.com/ymmt2005/grpc-tutorial)
+
+[Open detailed stats for ymmt2005/grpc-tutorial](https://reviewgithub.com/rep/ymmt2005/grpc-tutorial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 613 | 17 | 
 | 2022-09-07 | 613 | 17 | 
 
-
-[Detailed charts & statistics for ymmt2005/grpc-tutorial](https://reviewgithub.com/rep/ymmt2005/grpc-tutorial)

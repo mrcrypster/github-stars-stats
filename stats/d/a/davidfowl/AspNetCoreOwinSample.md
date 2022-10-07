@@ -1,12 +1,14 @@
 # davidfowl/AspNetCoreOwinSample - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 37
 
 [Open repository](https://github.com/davidfowl/AspNetCoreOwinSample)
+
+[Open detailed stats for davidfowl/AspNetCoreOwinSample](https://reviewgithub.com/rep/davidfowl/AspNetCoreOwinSample)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | 34 | - | 
 | 2022-09-25 | 32 | - | 
 
-
-[Detailed charts & statistics for davidfowl/AspNetCoreOwinSample](https://reviewgithub.com/rep/davidfowl/AspNetCoreOwinSample)

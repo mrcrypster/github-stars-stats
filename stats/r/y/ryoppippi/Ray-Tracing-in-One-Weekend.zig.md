@@ -1,12 +1,14 @@
 # ryoppippi/Ray-Tracing-in-One-Weekend.zig - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 16
 
 [Open repository](https://github.com/ryoppippi/Ray-Tracing-in-One-Weekend.zig)
+
+[Open detailed stats for ryoppippi/Ray-Tracing-in-One-Weekend.zig](https://reviewgithub.com/rep/ryoppippi/Ray-Tracing-in-One-Weekend.zig)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 2 | 
 | 2022-09-08 | 16 | 2 | 
 
-
-[Detailed charts & statistics for ryoppippi/Ray-Tracing-in-One-Weekend.zig](https://reviewgithub.com/rep/ryoppippi/Ray-Tracing-in-One-Weekend.zig)

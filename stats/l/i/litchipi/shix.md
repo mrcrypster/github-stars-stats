@@ -1,12 +1,14 @@
 # litchipi/shix - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 13
 
 [Open repository](https://github.com/litchipi/shix)
+
+[Open detailed stats for litchipi/shix](https://reviewgithub.com/rep/litchipi/shix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | - | 
 | 2022-09-08 | 12 | - | 
 
-
-[Detailed charts & statistics for litchipi/shix](https://reviewgithub.com/rep/litchipi/shix)

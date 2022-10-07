@@ -1,12 +1,14 @@
 # EducationPerfect/azure-jira-update - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 14
 
 [Open repository](https://github.com/EducationPerfect/azure-jira-update)
+
+[Open detailed stats for EducationPerfect/azure-jira-update](https://reviewgithub.com/rep/EducationPerfect/azure-jira-update)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 13 | 
 | 2022-09-08 | 14 | 13 | 
 
-
-[Detailed charts & statistics for EducationPerfect/azure-jira-update](https://reviewgithub.com/rep/EducationPerfect/azure-jira-update)

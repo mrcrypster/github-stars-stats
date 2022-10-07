@@ -1,12 +1,14 @@
 # simbricks/sigcomm22-artifact - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/simbricks/sigcomm22-artifact)
+
+[Open detailed stats for simbricks/sigcomm22-artifact](https://reviewgithub.com/rep/simbricks/sigcomm22-artifact)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for simbricks/sigcomm22-artifact](https://reviewgithub.com/rep/simbricks/sigcomm22-artifact)

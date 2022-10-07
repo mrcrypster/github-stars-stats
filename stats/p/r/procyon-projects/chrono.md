@@ -1,12 +1,14 @@
 # procyon-projects/chrono - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 322
 
 [Open repository](https://github.com/procyon-projects/chrono)
+
+[Open detailed stats for procyon-projects/chrono](https://reviewgithub.com/rep/procyon-projects/chrono)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-03 | 291 | 12 | 
 | 2022-10-02 | 282 | 12 | 
 
-
-[Detailed charts & statistics for procyon-projects/chrono](https://reviewgithub.com/rep/procyon-projects/chrono)

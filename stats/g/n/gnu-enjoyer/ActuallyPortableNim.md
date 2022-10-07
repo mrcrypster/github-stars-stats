@@ -1,12 +1,14 @@
 # gnu-enjoyer/ActuallyPortableNim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 26
 
 [Open repository](https://github.com/gnu-enjoyer/ActuallyPortableNim)
+
+[Open detailed stats for gnu-enjoyer/ActuallyPortableNim](https://reviewgithub.com/rep/gnu-enjoyer/ActuallyPortableNim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 24 | 1 | 
 | 2022-09-07 | 24 | 1 | 
 
-
-[Detailed charts & statistics for gnu-enjoyer/ActuallyPortableNim](https://reviewgithub.com/rep/gnu-enjoyer/ActuallyPortableNim)

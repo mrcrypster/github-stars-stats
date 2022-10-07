@@ -1,12 +1,14 @@
 # alt3kx/wafaray - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 53
 
 [Open repository](https://github.com/alt3kx/wafaray)
+
+[Open detailed stats for alt3kx/wafaray](https://reviewgithub.com/rep/alt3kx/wafaray)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 50 | 5 | 
 | 2022-09-30 | 50 | 5 | 
 
-
-[Detailed charts & statistics for alt3kx/wafaray](https://reviewgithub.com/rep/alt3kx/wafaray)

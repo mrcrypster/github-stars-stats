@@ -1,12 +1,14 @@
 # confluentinc/securing-kafka-blog - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 39
 
 [Open repository](https://github.com/confluentinc/securing-kafka-blog)
+
+[Open detailed stats for confluentinc/securing-kafka-blog](https://reviewgithub.com/rep/confluentinc/securing-kafka-blog)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 14 | 
 | 2022-09-07 | 39 | 14 | 
 
-
-[Detailed charts & statistics for confluentinc/securing-kafka-blog](https://reviewgithub.com/rep/confluentinc/securing-kafka-blog)

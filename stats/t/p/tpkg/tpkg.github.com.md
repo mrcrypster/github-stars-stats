@@ -1,12 +1,14 @@
 # tpkg/tpkg.github.com - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/tpkg/tpkg.github.com)
+
+[Open detailed stats for tpkg/tpkg.github.com](https://reviewgithub.com/rep/tpkg/tpkg.github.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 1 | 
 | 2022-09-07 | 2 | 1 | 
 
-
-[Detailed charts & statistics for tpkg/tpkg.github.com](https://reviewgithub.com/rep/tpkg/tpkg.github.com)

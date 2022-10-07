@@ -1,12 +1,14 @@
 # hmaverickadams/Windows-WiFi-Extractor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 174
 
 [Open repository](https://github.com/hmaverickadams/Windows-WiFi-Extractor)
+
+[Open detailed stats for hmaverickadams/Windows-WiFi-Extractor](https://reviewgithub.com/rep/hmaverickadams/Windows-WiFi-Extractor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 168 | 41 | 
 | 2022-09-07 | 168 | 41 | 
 
-
-[Detailed charts & statistics for hmaverickadams/Windows-WiFi-Extractor](https://reviewgithub.com/rep/hmaverickadams/Windows-WiFi-Extractor)

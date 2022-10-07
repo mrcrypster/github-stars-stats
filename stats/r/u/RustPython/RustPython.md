@@ -1,12 +1,14 @@
 # RustPython/RustPython - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 847
 
 ★ Stars: 12262
 
 [Open repository](https://github.com/RustPython/RustPython)
+
+[Open detailed stats for RustPython/RustPython](https://reviewgithub.com/rep/RustPython/RustPython)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12037 | 832 | 
 | 2022-09-08 | 12032 | 832 | 
 
-
-[Detailed charts & statistics for RustPython/RustPython](https://reviewgithub.com/rep/RustPython/RustPython)

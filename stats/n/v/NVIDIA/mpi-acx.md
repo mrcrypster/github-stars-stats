@@ -1,12 +1,14 @@
 # NVIDIA/mpi-acx - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 19
 
 [Open repository](https://github.com/NVIDIA/mpi-acx)
+
+[Open detailed stats for NVIDIA/mpi-acx](https://reviewgithub.com/rep/NVIDIA/mpi-acx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | 2 | 
 | 2022-09-08 | 17 | 2 | 
 
-
-[Detailed charts & statistics for NVIDIA/mpi-acx](https://reviewgithub.com/rep/NVIDIA/mpi-acx)

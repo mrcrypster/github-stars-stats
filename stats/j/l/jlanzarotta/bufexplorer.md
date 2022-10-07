@@ -1,12 +1,14 @@
 # jlanzarotta/bufexplorer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 93
 
 ★ Stars: 460
 
 [Open repository](https://github.com/jlanzarotta/bufexplorer)
+
+[Open detailed stats for jlanzarotta/bufexplorer](https://reviewgithub.com/rep/jlanzarotta/bufexplorer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 456 | 92 | 
 | 2022-09-08 | 456 | 92 | 
 
-
-[Detailed charts & statistics for jlanzarotta/bufexplorer](https://reviewgithub.com/rep/jlanzarotta/bufexplorer)

@@ -1,12 +1,14 @@
 # AdaCore/VSS - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 42
 
 [Open repository](https://github.com/AdaCore/VSS)
+
+[Open detailed stats for AdaCore/VSS](https://reviewgithub.com/rep/AdaCore/VSS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 42 | 5 | 
 | 2022-09-08 | 42 | 5 | 
 
-
-[Detailed charts & statistics for AdaCore/VSS](https://reviewgithub.com/rep/AdaCore/VSS)

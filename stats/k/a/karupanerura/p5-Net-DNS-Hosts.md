@@ -1,12 +1,14 @@
 # karupanerura/p5-Net-DNS-Hosts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/karupanerura/p5-Net-DNS-Hosts)
+
+[Open detailed stats for karupanerura/p5-Net-DNS-Hosts](https://reviewgithub.com/rep/karupanerura/p5-Net-DNS-Hosts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for karupanerura/p5-Net-DNS-Hosts](https://reviewgithub.com/rep/karupanerura/p5-Net-DNS-Hosts)

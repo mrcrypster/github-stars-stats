@@ -1,12 +1,14 @@
 # immersive-web/real-world-geometry - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 54
 
 [Open repository](https://github.com/immersive-web/real-world-geometry)
+
+[Open detailed stats for immersive-web/real-world-geometry](https://reviewgithub.com/rep/immersive-web/real-world-geometry)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 54 | 10 | 
 | 2022-09-08 | 54 | 10 | 
 
-
-[Detailed charts & statistics for immersive-web/real-world-geometry](https://reviewgithub.com/rep/immersive-web/real-world-geometry)

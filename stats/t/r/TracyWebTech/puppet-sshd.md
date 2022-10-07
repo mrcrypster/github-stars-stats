@@ -1,12 +1,14 @@
 # TracyWebTech/puppet-sshd - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/TracyWebTech/puppet-sshd)
+
+[Open detailed stats for TracyWebTech/puppet-sshd](https://reviewgithub.com/rep/TracyWebTech/puppet-sshd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for TracyWebTech/puppet-sshd](https://reviewgithub.com/rep/TracyWebTech/puppet-sshd)

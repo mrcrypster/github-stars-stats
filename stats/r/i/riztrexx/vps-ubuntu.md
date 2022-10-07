@@ -1,12 +1,14 @@
 # riztrexx/vps-ubuntu - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 3
 
 [Open repository](https://github.com/riztrexx/vps-ubuntu)
+
+[Open detailed stats for riztrexx/vps-ubuntu](https://reviewgithub.com/rep/riztrexx/vps-ubuntu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 39 | 
 | 2022-09-08 | 3 | 39 | 
 
-
-[Detailed charts & statistics for riztrexx/vps-ubuntu](https://reviewgithub.com/rep/riztrexx/vps-ubuntu)

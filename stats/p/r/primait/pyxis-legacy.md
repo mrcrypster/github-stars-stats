@@ -1,12 +1,14 @@
 # primait/pyxis-legacy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/primait/pyxis-legacy)
+
+[Open detailed stats for primait/pyxis-legacy](https://reviewgithub.com/rep/primait/pyxis-legacy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for primait/pyxis-legacy](https://reviewgithub.com/rep/primait/pyxis-legacy)

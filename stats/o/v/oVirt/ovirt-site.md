@@ -1,12 +1,14 @@
 # oVirt/ovirt-site - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 300
 
 ★ Stars: 75
 
 [Open repository](https://github.com/oVirt/ovirt-site)
+
+[Open detailed stats for oVirt/ovirt-site](https://reviewgithub.com/rep/oVirt/ovirt-site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 74 | 300 | 
 | 2022-09-21 | 74 | 300 | 
 
-
-[Detailed charts & statistics for oVirt/ovirt-site](https://reviewgithub.com/rep/oVirt/ovirt-site)

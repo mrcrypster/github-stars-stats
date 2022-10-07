@@ -1,12 +1,14 @@
 # fison67/mi_connector - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 577
 
 ★ Stars: 199
 
 [Open repository](https://github.com/fison67/mi_connector)
+
+[Open detailed stats for fison67/mi_connector](https://reviewgithub.com/rep/fison67/mi_connector)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 196 | 575 | 
 | 2022-09-07 | 196 | 574 | 
 
-
-[Detailed charts & statistics for fison67/mi_connector](https://reviewgithub.com/rep/fison67/mi_connector)

@@ -1,12 +1,14 @@
 # qaware/cloud-native-explab - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 3
 
 [Open repository](https://github.com/qaware/cloud-native-explab)
+
+[Open detailed stats for qaware/cloud-native-explab](https://reviewgithub.com/rep/qaware/cloud-native-explab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 10 | 
 | 2022-09-07 | 3 | 10 | 
 
-
-[Detailed charts & statistics for qaware/cloud-native-explab](https://reviewgithub.com/rep/qaware/cloud-native-explab)

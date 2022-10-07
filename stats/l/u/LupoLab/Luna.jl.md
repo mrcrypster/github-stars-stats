@@ -1,12 +1,14 @@
 # LupoLab/Luna.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 22
 
 [Open repository](https://github.com/LupoLab/Luna.jl)
+
+[Open detailed stats for LupoLab/Luna.jl](https://reviewgithub.com/rep/LupoLab/Luna.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 21 | 8 | 
 | 2022-09-07 | 19 | 8 | 
 
-
-[Detailed charts & statistics for LupoLab/Luna.jl](https://reviewgithub.com/rep/LupoLab/Luna.jl)

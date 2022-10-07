@@ -1,12 +1,14 @@
 # bot-repo/raganork-deploy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 67
 
 ★ Stars: 3
 
 [Open repository](https://github.com/bot-repo/raganork-deploy)
+
+[Open detailed stats for bot-repo/raganork-deploy](https://reviewgithub.com/rep/bot-repo/raganork-deploy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 68 | 
 | 2022-09-07 | 3 | 68 | 
 
-
-[Detailed charts & statistics for bot-repo/raganork-deploy](https://reviewgithub.com/rep/bot-repo/raganork-deploy)

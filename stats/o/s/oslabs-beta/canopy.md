@@ -1,12 +1,14 @@
 # oslabs-beta/canopy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 67
 
 [Open repository](https://github.com/oslabs-beta/canopy)
+
+[Open detailed stats for oslabs-beta/canopy](https://reviewgithub.com/rep/oslabs-beta/canopy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-24 | 41 | 18 | 
 | 2022-09-23 | 37 | 16 | 
 
-
-[Detailed charts & statistics for oslabs-beta/canopy](https://reviewgithub.com/rep/oslabs-beta/canopy)

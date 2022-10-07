@@ -1,12 +1,14 @@
 # woodrush/lambdalisp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 158
 
 [Open repository](https://github.com/woodrush/lambdalisp)
+
+[Open detailed stats for woodrush/lambdalisp](https://reviewgithub.com/rep/woodrush/lambdalisp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 145 | 3 | 
 | 2022-09-19 | 137 | 3 | 
 
-
-[Detailed charts & statistics for woodrush/lambdalisp](https://reviewgithub.com/rep/woodrush/lambdalisp)

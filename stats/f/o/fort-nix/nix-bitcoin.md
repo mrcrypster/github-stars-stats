@@ -1,12 +1,14 @@
 # fort-nix/nix-bitcoin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 65
 
 ★ Stars: 265
 
 [Open repository](https://github.com/fort-nix/nix-bitcoin)
+
+[Open detailed stats for fort-nix/nix-bitcoin](https://reviewgithub.com/rep/fort-nix/nix-bitcoin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 258 | 63 | 
 | 2022-09-08 | 258 | 63 | 
 
-
-[Detailed charts & statistics for fort-nix/nix-bitcoin](https://reviewgithub.com/rep/fort-nix/nix-bitcoin)

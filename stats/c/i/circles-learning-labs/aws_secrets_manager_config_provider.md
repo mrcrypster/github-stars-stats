@@ -1,12 +1,14 @@
 # circles-learning-labs/aws_secrets_manager_config_provider - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/circles-learning-labs/aws_secrets_manager_config_provider)
+
+[Open detailed stats for circles-learning-labs/aws_secrets_manager_config_provider](https://reviewgithub.com/rep/circles-learning-labs/aws_secrets_manager_config_provider)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for circles-learning-labs/aws_secrets_manager_config_provider](https://reviewgithub.com/rep/circles-learning-labs/aws_secrets_manager_config_provider)

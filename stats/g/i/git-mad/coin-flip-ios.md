@@ -1,12 +1,14 @@
 # git-mad/coin-flip-ios - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/git-mad/coin-flip-ios)
+
+[Open detailed stats for git-mad/coin-flip-ios](https://reviewgithub.com/rep/git-mad/coin-flip-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | - | - | 
 | 2022-09-25 | - | - | 
 
-
-[Detailed charts & statistics for git-mad/coin-flip-ios](https://reviewgithub.com/rep/git-mad/coin-flip-ios)

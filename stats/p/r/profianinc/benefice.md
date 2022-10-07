@@ -1,12 +1,14 @@
 # profianinc/benefice - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 2
 
 [Open repository](https://github.com/profianinc/benefice)
+
+[Open detailed stats for profianinc/benefice](https://reviewgithub.com/rep/profianinc/benefice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 5 | 
 | 2022-09-07 | 2 | 5 | 
 
-
-[Detailed charts & statistics for profianinc/benefice](https://reviewgithub.com/rep/profianinc/benefice)

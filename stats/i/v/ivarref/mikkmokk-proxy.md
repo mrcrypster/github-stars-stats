@@ -1,12 +1,14 @@
 # ivarref/mikkmokk-proxy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/ivarref/mikkmokk-proxy)
+
+[Open detailed stats for ivarref/mikkmokk-proxy](https://reviewgithub.com/rep/ivarref/mikkmokk-proxy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | - | 
 | 2022-09-07 | 14 | - | 
 
-
-[Detailed charts & statistics for ivarref/mikkmokk-proxy](https://reviewgithub.com/rep/ivarref/mikkmokk-proxy)

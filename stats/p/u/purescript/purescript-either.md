@@ -1,12 +1,14 @@
 # purescript/purescript-either - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 25
 
 [Open repository](https://github.com/purescript/purescript-either)
+
+[Open detailed stats for purescript/purescript-either](https://reviewgithub.com/rep/purescript/purescript-either)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 25 | 28 | 
 | 2022-09-08 | 25 | 28 | 
 
-
-[Detailed charts & statistics for purescript/purescript-either](https://reviewgithub.com/rep/purescript/purescript-either)

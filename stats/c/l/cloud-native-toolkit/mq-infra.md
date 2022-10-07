@@ -1,12 +1,14 @@
 # cloud-native-toolkit/mq-infra - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 98
 
 ★ Stars: 1
 
 [Open repository](https://github.com/cloud-native-toolkit/mq-infra)
+
+[Open detailed stats for cloud-native-toolkit/mq-infra](https://reviewgithub.com/rep/cloud-native-toolkit/mq-infra)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 98 | 
 | 2022-09-07 | 1 | 98 | 
 
-
-[Detailed charts & statistics for cloud-native-toolkit/mq-infra](https://reviewgithub.com/rep/cloud-native-toolkit/mq-infra)

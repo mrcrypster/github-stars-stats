@@ -1,12 +1,14 @@
 # Napster2210/ngx-spinner - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 125
 
 ★ Stars: 716
 
 [Open repository](https://github.com/Napster2210/ngx-spinner)
+
+[Open detailed stats for Napster2210/ngx-spinner](https://reviewgithub.com/rep/Napster2210/ngx-spinner)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 710 | 125 | 
 | 2022-09-08 | 710 | 125 | 
 
-
-[Detailed charts & statistics for Napster2210/ngx-spinner](https://reviewgithub.com/rep/Napster2210/ngx-spinner)

@@ -1,12 +1,14 @@
 # segmentio/terraform-aws-data-lake - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 34
 
 [Open repository](https://github.com/segmentio/terraform-aws-data-lake)
+
+[Open detailed stats for segmentio/terraform-aws-data-lake](https://reviewgithub.com/rep/segmentio/terraform-aws-data-lake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 35 | 29 | 
 | 2022-09-07 | 35 | 29 | 
 
-
-[Detailed charts & statistics for segmentio/terraform-aws-data-lake](https://reviewgithub.com/rep/segmentio/terraform-aws-data-lake)

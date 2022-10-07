@@ -1,12 +1,14 @@
 # DamiFlutter/Task-Manager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 16
 
 [Open repository](https://github.com/DamiFlutter/Task-Manager)
+
+[Open detailed stats for DamiFlutter/Task-Manager](https://reviewgithub.com/rep/DamiFlutter/Task-Manager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 5 | 
 | 2022-09-08 | 16 | 5 | 
 
-
-[Detailed charts & statistics for DamiFlutter/Task-Manager](https://reviewgithub.com/rep/DamiFlutter/Task-Manager)

@@ -1,12 +1,14 @@
 # Kholid060/automa - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 532
 
 ★ Stars: 5607
 
 [Open repository](https://github.com/Kholid060/automa)
+
+[Open detailed stats for Kholid060/automa](https://reviewgithub.com/rep/Kholid060/automa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5400 | 515 | 
 | 2022-09-08 | 5393 | 514 | 
 
-
-[Detailed charts & statistics for Kholid060/automa](https://reviewgithub.com/rep/Kholid060/automa)

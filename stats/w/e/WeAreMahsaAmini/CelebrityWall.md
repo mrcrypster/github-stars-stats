@@ -1,12 +1,14 @@
 # WeAreMahsaAmini/CelebrityWall - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 194
 
 [Open repository](https://github.com/WeAreMahsaAmini/CelebrityWall)
+
+[Open detailed stats for WeAreMahsaAmini/CelebrityWall](https://reviewgithub.com/rep/WeAreMahsaAmini/CelebrityWall)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -20,5 +22,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-01 | 180 | 16 | 
 | 2022-09-30 | 154 | 12 | 
 
-
-[Detailed charts & statistics for WeAreMahsaAmini/CelebrityWall](https://reviewgithub.com/rep/WeAreMahsaAmini/CelebrityWall)

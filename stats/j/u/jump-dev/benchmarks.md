@@ -1,12 +1,14 @@
 # jump-dev/benchmarks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/jump-dev/benchmarks)
+
+[Open detailed stats for jump-dev/benchmarks](https://reviewgithub.com/rep/jump-dev/benchmarks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 18 | - | 
 | 2022-09-07 | 18 | - | 
 
-
-[Detailed charts & statistics for jump-dev/benchmarks](https://reviewgithub.com/rep/jump-dev/benchmarks)

@@ -1,12 +1,14 @@
 # MisterM3/Project-Customer-Unity- - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/MisterM3/Project-Customer-Unity-)
+
+[Open detailed stats for MisterM3/Project-Customer-Unity-](https://reviewgithub.com/rep/MisterM3/Project-Customer-Unity-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -36,5 +38,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-14 | - | - | 
 | 2022-09-13 | - | - | 
 
-
-[Detailed charts & statistics for MisterM3/Project-Customer-Unity-](https://reviewgithub.com/rep/MisterM3/Project-Customer-Unity-)

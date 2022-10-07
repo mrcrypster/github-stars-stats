@@ -1,12 +1,14 @@
 # docpad-archive/docpad-plugin-html2coffee - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/docpad-archive/docpad-plugin-html2coffee)
+
+[Open detailed stats for docpad-archive/docpad-plugin-html2coffee](https://reviewgithub.com/rep/docpad-archive/docpad-plugin-html2coffee)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for docpad-archive/docpad-plugin-html2coffee](https://reviewgithub.com/rep/docpad-archive/docpad-plugin-html2coffee)

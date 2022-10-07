@@ -1,12 +1,14 @@
 # FAForever/fa - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 173
 
 ★ Stars: 156
 
 [Open repository](https://github.com/FAForever/fa)
+
+[Open detailed stats for FAForever/fa](https://reviewgithub.com/rep/FAForever/fa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 153 | 172 | 
 | 2022-09-07 | 153 | 172 | 
 
-
-[Detailed charts & statistics for FAForever/fa](https://reviewgithub.com/rep/FAForever/fa)

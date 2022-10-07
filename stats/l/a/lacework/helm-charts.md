@@ -1,12 +1,14 @@
 # lacework/helm-charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 5
 
 [Open repository](https://github.com/lacework/helm-charts)
+
+[Open detailed stats for lacework/helm-charts](https://reviewgithub.com/rep/lacework/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 5 | 20 | 
 | 2022-09-08 | 5 | 20 | 
 
-
-[Detailed charts & statistics for lacework/helm-charts](https://reviewgithub.com/rep/lacework/helm-charts)

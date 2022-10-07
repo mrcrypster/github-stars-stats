@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-codebuild - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 115
 
 ★ Stars: 93
 
 [Open repository](https://github.com/cloudposse/terraform-aws-codebuild)
+
+[Open detailed stats for cloudposse/terraform-aws-codebuild](https://reviewgithub.com/rep/cloudposse/terraform-aws-codebuild)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 92 | 115 | 
 | 2022-09-07 | 92 | 115 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-codebuild](https://reviewgithub.com/rep/cloudposse/terraform-aws-codebuild)

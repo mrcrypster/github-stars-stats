@@ -1,12 +1,14 @@
 # ArkEcosystem/docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 9
 
 [Open repository](https://github.com/ArkEcosystem/docs)
+
+[Open detailed stats for ArkEcosystem/docs](https://reviewgithub.com/rep/ArkEcosystem/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 10 | 
 | 2022-09-07 | 9 | 10 | 
 
-
-[Detailed charts & statistics for ArkEcosystem/docs](https://reviewgithub.com/rep/ArkEcosystem/docs)

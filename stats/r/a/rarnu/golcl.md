@@ -1,12 +1,14 @@
 # rarnu/golcl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 82
 
 [Open repository](https://github.com/rarnu/golcl)
+
+[Open detailed stats for rarnu/golcl](https://reviewgithub.com/rep/rarnu/golcl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 83 | 16 | 
 | 2022-09-07 | 83 | 16 | 
 
-
-[Detailed charts & statistics for rarnu/golcl](https://reviewgithub.com/rep/rarnu/golcl)

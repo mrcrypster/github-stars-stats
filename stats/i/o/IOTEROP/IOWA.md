@@ -1,12 +1,14 @@
 # IOTEROP/IOWA - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 105
 
 ★ Stars: 221
 
 [Open repository](https://github.com/IOTEROP/IOWA)
+
+[Open detailed stats for IOTEROP/IOWA](https://reviewgithub.com/rep/IOTEROP/IOWA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 218 | 103 | 
 | 2022-09-07 | 217 | 103 | 
 
-
-[Detailed charts & statistics for IOTEROP/IOWA](https://reviewgithub.com/rep/IOTEROP/IOWA)

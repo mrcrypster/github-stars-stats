@@ -1,12 +1,14 @@
 # colebermudez/Windows-Deployment - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 45
 
 [Open repository](https://github.com/colebermudez/Windows-Deployment)
+
+[Open detailed stats for colebermudez/Windows-Deployment](https://reviewgithub.com/rep/colebermudez/Windows-Deployment)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 9 | 
 | 2022-09-07 | 44 | 9 | 
 
-
-[Detailed charts & statistics for colebermudez/Windows-Deployment](https://reviewgithub.com/rep/colebermudez/Windows-Deployment)

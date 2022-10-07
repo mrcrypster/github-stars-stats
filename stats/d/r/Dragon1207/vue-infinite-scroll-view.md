@@ -1,12 +1,14 @@
 # Dragon1207/vue-infinite-scroll-view - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 16
 
 [Open repository](https://github.com/Dragon1207/vue-infinite-scroll-view)
+
+[Open detailed stats for Dragon1207/vue-infinite-scroll-view](https://reviewgithub.com/rep/Dragon1207/vue-infinite-scroll-view)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | - | 
 | 2022-09-08 | 16 | - | 
 
-
-[Detailed charts & statistics for Dragon1207/vue-infinite-scroll-view](https://reviewgithub.com/rep/Dragon1207/vue-infinite-scroll-view)

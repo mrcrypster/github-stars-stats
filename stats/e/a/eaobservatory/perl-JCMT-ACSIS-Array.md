@@ -1,12 +1,14 @@
 # eaobservatory/perl-JCMT-ACSIS-Array - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/eaobservatory/perl-JCMT-ACSIS-Array)
+
+[Open detailed stats for eaobservatory/perl-JCMT-ACSIS-Array](https://reviewgithub.com/rep/eaobservatory/perl-JCMT-ACSIS-Array)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for eaobservatory/perl-JCMT-ACSIS-Array](https://reviewgithub.com/rep/eaobservatory/perl-JCMT-ACSIS-Array)

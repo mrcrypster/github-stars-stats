@@ -1,12 +1,14 @@
 # vnvasquez/GeneDrive.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 21
 
 [Open repository](https://github.com/vnvasquez/GeneDrive.jl)
+
+[Open detailed stats for vnvasquez/GeneDrive.jl](https://reviewgithub.com/rep/vnvasquez/GeneDrive.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 2 | 
 | 2022-09-07 | 21 | 2 | 
 
-
-[Detailed charts & statistics for vnvasquez/GeneDrive.jl](https://reviewgithub.com/rep/vnvasquez/GeneDrive.jl)

@@ -1,12 +1,14 @@
 # Samyak2/toipe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 419
 
 [Open repository](https://github.com/Samyak2/toipe)
+
+[Open detailed stats for Samyak2/toipe](https://reviewgithub.com/rep/Samyak2/toipe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 420 | 17 | 
 | 2022-09-08 | 420 | 17 | 
 
-
-[Detailed charts & statistics for Samyak2/toipe](https://reviewgithub.com/rep/Samyak2/toipe)

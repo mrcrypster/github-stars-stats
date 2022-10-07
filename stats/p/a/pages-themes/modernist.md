@@ -1,12 +1,14 @@
 # pages-themes/modernist - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 185
 
 ★ Stars: 104
 
 [Open repository](https://github.com/pages-themes/modernist)
+
+[Open detailed stats for pages-themes/modernist](https://reviewgithub.com/rep/pages-themes/modernist)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 103 | 181 | 
 | 2022-09-08 | 103 | 179 | 
 
-
-[Detailed charts & statistics for pages-themes/modernist](https://reviewgithub.com/rep/pages-themes/modernist)

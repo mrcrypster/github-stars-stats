@@ -1,12 +1,14 @@
 # hashicorp/learn-terraform-aft-account-provisioning-customizations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 278
 
 ★ Stars: 2
 
 [Open repository](https://github.com/hashicorp/learn-terraform-aft-account-provisioning-customizations)
+
+[Open detailed stats for hashicorp/learn-terraform-aft-account-provisioning-customizations](https://reviewgithub.com/rep/hashicorp/learn-terraform-aft-account-provisioning-customizations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 244 | 
 | 2022-09-07 | 2 | 245 | 
 
-
-[Detailed charts & statistics for hashicorp/learn-terraform-aft-account-provisioning-customizations](https://reviewgithub.com/rep/hashicorp/learn-terraform-aft-account-provisioning-customizations)

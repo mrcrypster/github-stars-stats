@@ -1,12 +1,14 @@
 # nim-lang/langserver - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 79
 
 [Open repository](https://github.com/nim-lang/langserver)
+
+[Open detailed stats for nim-lang/langserver](https://reviewgithub.com/rep/nim-lang/langserver)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 77 | 6 | 
 | 2022-09-08 | 77 | 6 | 
 
-
-[Detailed charts & statistics for nim-lang/langserver](https://reviewgithub.com/rep/nim-lang/langserver)

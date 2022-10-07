@@ -1,12 +1,14 @@
 # marcelog/excalit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 3
 
 [Open repository](https://github.com/marcelog/excalit)
+
+[Open detailed stats for marcelog/excalit](https://reviewgithub.com/rep/marcelog/excalit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -15,5 +17,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-06 | 3 | 2 | 
 | 2022-10-05 | 3 | 2 | 
 
-
-[Detailed charts & statistics for marcelog/excalit](https://reviewgithub.com/rep/marcelog/excalit)

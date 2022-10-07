@@ -1,12 +1,14 @@
 # wp-cli/db-command - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 66
 
 [Open repository](https://github.com/wp-cli/db-command)
+
+[Open detailed stats for wp-cli/db-command](https://reviewgithub.com/rep/wp-cli/db-command)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-03 | 66 | 46 | 
 | 2022-10-02 | 66 | 46 | 
 
-
-[Detailed charts & statistics for wp-cli/db-command](https://reviewgithub.com/rep/wp-cli/db-command)

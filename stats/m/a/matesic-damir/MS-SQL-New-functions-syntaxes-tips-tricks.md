@@ -1,12 +1,14 @@
 # matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks)
+
+[Open detailed stats for matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks](https://reviewgithub.com/rep/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks](https://reviewgithub.com/rep/matesic-damir/MS-SQL-New-functions-syntaxes-tips-tricks)

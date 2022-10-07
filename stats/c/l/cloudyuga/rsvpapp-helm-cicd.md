@@ -1,12 +1,14 @@
 # cloudyuga/rsvpapp-helm-cicd - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 0
 
 [Open repository](https://github.com/cloudyuga/rsvpapp-helm-cicd)
+
+[Open detailed stats for cloudyuga/rsvpapp-helm-cicd](https://reviewgithub.com/rep/cloudyuga/rsvpapp-helm-cicd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 43 | 
 | 2022-09-07 | - | 43 | 
 
-
-[Detailed charts & statistics for cloudyuga/rsvpapp-helm-cicd](https://reviewgithub.com/rep/cloudyuga/rsvpapp-helm-cicd)

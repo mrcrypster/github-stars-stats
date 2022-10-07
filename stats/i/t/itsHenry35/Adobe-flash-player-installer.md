@@ -1,12 +1,14 @@
 # itsHenry35/Adobe-flash-player-installer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 38
 
 [Open repository](https://github.com/itsHenry35/Adobe-flash-player-installer)
+
+[Open detailed stats for itsHenry35/Adobe-flash-player-installer](https://reviewgithub.com/rep/itsHenry35/Adobe-flash-player-installer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 4 | 
 | 2022-09-07 | 38 | 4 | 
 
-
-[Detailed charts & statistics for itsHenry35/Adobe-flash-player-installer](https://reviewgithub.com/rep/itsHenry35/Adobe-flash-player-installer)

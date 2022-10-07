@@ -1,12 +1,14 @@
 # geneasy/nav - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 24
 
 [Open repository](https://github.com/geneasy/nav)
+
+[Open detailed stats for geneasy/nav](https://reviewgithub.com/rep/geneasy/nav)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 8 | 
 | 2022-09-07 | 21 | 8 | 
 
-
-[Detailed charts & statistics for geneasy/nav](https://reviewgithub.com/rep/geneasy/nav)

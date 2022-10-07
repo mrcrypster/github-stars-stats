@@ -1,12 +1,14 @@
 # rycolab/aclpub2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 15
 
 [Open repository](https://github.com/rycolab/aclpub2)
+
+[Open detailed stats for rycolab/aclpub2](https://reviewgithub.com/rep/rycolab/aclpub2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 12 | 
 | 2022-09-07 | 14 | 12 | 
 
-
-[Detailed charts & statistics for rycolab/aclpub2](https://reviewgithub.com/rep/rycolab/aclpub2)

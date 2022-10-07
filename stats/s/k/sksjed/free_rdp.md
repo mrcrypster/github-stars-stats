@@ -1,12 +1,14 @@
 # sksjed/free_rdp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 291
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sksjed/free_rdp)
+
+[Open detailed stats for sksjed/free_rdp](https://reviewgithub.com/rep/sksjed/free_rdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 281 | 
 | 2022-09-08 | - | 281 | 
 
-
-[Detailed charts & statistics for sksjed/free_rdp](https://reviewgithub.com/rep/sksjed/free_rdp)

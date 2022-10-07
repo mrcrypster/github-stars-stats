@@ -1,12 +1,14 @@
 # ParkKyuSeon/Maplestory_DPM - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 47
 
 [Open repository](https://github.com/ParkKyuSeon/Maplestory_DPM)
+
+[Open detailed stats for ParkKyuSeon/Maplestory_DPM](https://reviewgithub.com/rep/ParkKyuSeon/Maplestory_DPM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 46 | 21 | 
 | 2022-09-07 | 46 | 21 | 
 
-
-[Detailed charts & statistics for ParkKyuSeon/Maplestory_DPM](https://reviewgithub.com/rep/ParkKyuSeon/Maplestory_DPM)

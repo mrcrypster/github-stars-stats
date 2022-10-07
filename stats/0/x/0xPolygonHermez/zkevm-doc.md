@@ -1,12 +1,14 @@
 # 0xPolygonHermez/zkevm-doc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 26
 
 [Open repository](https://github.com/0xPolygonHermez/zkevm-doc)
+
+[Open detailed stats for 0xPolygonHermez/zkevm-doc](https://reviewgithub.com/rep/0xPolygonHermez/zkevm-doc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | 1 | 
 | 2022-09-07 | 25 | 1 | 
 
-
-[Detailed charts & statistics for 0xPolygonHermez/zkevm-doc](https://reviewgithub.com/rep/0xPolygonHermez/zkevm-doc)

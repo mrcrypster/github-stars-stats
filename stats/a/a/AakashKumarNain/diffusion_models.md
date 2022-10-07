@@ -1,12 +1,14 @@
 # AakashKumarNain/diffusion_models - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 119
 
 [Open repository](https://github.com/AakashKumarNain/diffusion_models)
+
+[Open detailed stats for AakashKumarNain/diffusion_models](https://reviewgithub.com/rep/AakashKumarNain/diffusion_models)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 112 | 3 | 
 | 2022-09-08 | 110 | 3 | 
 
-
-[Detailed charts & statistics for AakashKumarNain/diffusion_models](https://reviewgithub.com/rep/AakashKumarNain/diffusion_models)

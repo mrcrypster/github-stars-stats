@@ -1,12 +1,14 @@
 # rahulgoel/gl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/rahulgoel/gl)
+
+[Open detailed stats for rahulgoel/gl](https://reviewgithub.com/rep/rahulgoel/gl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | - | - | 
 | 2022-09-19 | - | - | 
 
-
-[Detailed charts & statistics for rahulgoel/gl](https://reviewgithub.com/rep/rahulgoel/gl)

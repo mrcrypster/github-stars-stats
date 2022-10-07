@@ -1,12 +1,14 @@
 # AtsushiM/css-skelton.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AtsushiM/css-skelton.vim)
+
+[Open detailed stats for AtsushiM/css-skelton.vim](https://reviewgithub.com/rep/AtsushiM/css-skelton.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for AtsushiM/css-skelton.vim](https://reviewgithub.com/rep/AtsushiM/css-skelton.vim)

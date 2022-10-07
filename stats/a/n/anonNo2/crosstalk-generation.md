@@ -1,12 +1,14 @@
 # anonNo2/crosstalk-generation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 142
 
 [Open repository](https://github.com/anonNo2/crosstalk-generation)
+
+[Open detailed stats for anonNo2/crosstalk-generation](https://reviewgithub.com/rep/anonNo2/crosstalk-generation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 139 | 16 | 
 | 2022-09-07 | 140 | 16 | 
 
-
-[Detailed charts & statistics for anonNo2/crosstalk-generation](https://reviewgithub.com/rep/anonNo2/crosstalk-generation)

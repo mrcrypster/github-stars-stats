@@ -1,12 +1,14 @@
 # Azure-Samples/azure-private-link-service - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 11
 
 [Open repository](https://github.com/Azure-Samples/azure-private-link-service)
+
+[Open detailed stats for Azure-Samples/azure-private-link-service](https://reviewgithub.com/rep/Azure-Samples/azure-private-link-service)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | - | 
 | 2022-09-07 | 11 | - | 
 
-
-[Detailed charts & statistics for Azure-Samples/azure-private-link-service](https://reviewgithub.com/rep/Azure-Samples/azure-private-link-service)

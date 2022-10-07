@@ -1,12 +1,14 @@
 # gbhug5a/Solar-Power-Load-Sharing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 16
 
 [Open repository](https://github.com/gbhug5a/Solar-Power-Load-Sharing)
+
+[Open detailed stats for gbhug5a/Solar-Power-Load-Sharing](https://reviewgithub.com/rep/gbhug5a/Solar-Power-Load-Sharing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | 1 | 
 | 2022-09-08 | 16 | 1 | 
 
-
-[Detailed charts & statistics for gbhug5a/Solar-Power-Load-Sharing](https://reviewgithub.com/rep/gbhug5a/Solar-Power-Load-Sharing)

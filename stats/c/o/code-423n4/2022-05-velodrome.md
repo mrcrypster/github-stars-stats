@@ -1,12 +1,14 @@
 # code-423n4/2022-05-velodrome - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 7
 
 [Open repository](https://github.com/code-423n4/2022-05-velodrome)
+
+[Open detailed stats for code-423n4/2022-05-velodrome](https://reviewgithub.com/rep/code-423n4/2022-05-velodrome)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 4 | 
 | 2022-09-07 | 6 | 4 | 
 
-
-[Detailed charts & statistics for code-423n4/2022-05-velodrome](https://reviewgithub.com/rep/code-423n4/2022-05-velodrome)

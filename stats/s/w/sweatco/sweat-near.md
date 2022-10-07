@@ -1,12 +1,14 @@
 # sweatco/sweat-near - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 71
 
 [Open repository](https://github.com/sweatco/sweat-near)
+
+[Open detailed stats for sweatco/sweat-near](https://reviewgithub.com/rep/sweatco/sweat-near)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 57 | 7 | 
 | 2022-09-07 | 55 | 7 | 
 
-
-[Detailed charts & statistics for sweatco/sweat-near](https://reviewgithub.com/rep/sweatco/sweat-near)

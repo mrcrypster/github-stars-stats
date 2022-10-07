@@ -1,12 +1,14 @@
 # hybrid-cloud-patterns/industrial-edge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 45
 
 ★ Stars: 10
 
 [Open repository](https://github.com/hybrid-cloud-patterns/industrial-edge)
+
+[Open detailed stats for hybrid-cloud-patterns/industrial-edge](https://reviewgithub.com/rep/hybrid-cloud-patterns/industrial-edge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 44 | 
 | 2022-09-08 | 10 | 44 | 
 
-
-[Detailed charts & statistics for hybrid-cloud-patterns/industrial-edge](https://reviewgithub.com/rep/hybrid-cloud-patterns/industrial-edge)

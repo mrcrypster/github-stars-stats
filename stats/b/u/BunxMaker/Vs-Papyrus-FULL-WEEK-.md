@@ -1,12 +1,14 @@
 # BunxMaker/Vs-Papyrus-FULL-WEEK- - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 2
 
 [Open repository](https://github.com/BunxMaker/Vs-Papyrus-FULL-WEEK-)
+
+[Open detailed stats for BunxMaker/Vs-Papyrus-FULL-WEEK-](https://reviewgithub.com/rep/BunxMaker/Vs-Papyrus-FULL-WEEK-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 10 | 
 | 2022-09-07 | 2 | 10 | 
 
-
-[Detailed charts & statistics for BunxMaker/Vs-Papyrus-FULL-WEEK-](https://reviewgithub.com/rep/BunxMaker/Vs-Papyrus-FULL-WEEK-)

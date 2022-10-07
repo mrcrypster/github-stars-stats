@@ -1,12 +1,14 @@
 # AbogusGames/ngrok_rdp1 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 64
 
 ★ Stars: 1
 
 [Open repository](https://github.com/AbogusGames/ngrok_rdp1)
+
+[Open detailed stats for AbogusGames/ngrok_rdp1](https://reviewgithub.com/rep/AbogusGames/ngrok_rdp1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 62 | 
 | 2022-09-08 | - | 62 | 
 
-
-[Detailed charts & statistics for AbogusGames/ngrok_rdp1](https://reviewgithub.com/rep/AbogusGames/ngrok_rdp1)

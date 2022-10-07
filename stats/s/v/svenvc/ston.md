@@ -1,12 +1,14 @@
 # svenvc/ston - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 30
 
 ★ Stars: 133
 
 [Open repository](https://github.com/svenvc/ston)
+
+[Open detailed stats for svenvc/ston](https://reviewgithub.com/rep/svenvc/ston)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 132 | 30 | 
 | 2022-09-07 | 132 | 30 | 
 
-
-[Detailed charts & statistics for svenvc/ston](https://reviewgithub.com/rep/svenvc/ston)

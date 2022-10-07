@@ -1,12 +1,14 @@
 # VicaYang/THU-Exam-LaTeX-Template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 21
 
 [Open repository](https://github.com/VicaYang/THU-Exam-LaTeX-Template)
+
+[Open detailed stats for VicaYang/THU-Exam-LaTeX-Template](https://reviewgithub.com/rep/VicaYang/THU-Exam-LaTeX-Template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21 | 1 | 
 | 2022-09-07 | 21 | 1 | 
 
-
-[Detailed charts & statistics for VicaYang/THU-Exam-LaTeX-Template](https://reviewgithub.com/rep/VicaYang/THU-Exam-LaTeX-Template)

@@ -1,12 +1,14 @@
 # mowat27/clam - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/mowat27/clam)
+
+[Open detailed stats for mowat27/clam](https://reviewgithub.com/rep/mowat27/clam)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for mowat27/clam](https://reviewgithub.com/rep/mowat27/clam)

@@ -1,12 +1,14 @@
 # annexus254/mysqli-safe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 5
 
 [Open repository](https://github.com/annexus254/mysqli-safe)
+
+[Open detailed stats for annexus254/mysqli-safe](https://reviewgithub.com/rep/annexus254/mysqli-safe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 17 | 
 | 2022-09-08 | 21 | 17 | 
 
-
-[Detailed charts & statistics for annexus254/mysqli-safe](https://reviewgithub.com/rep/annexus254/mysqli-safe)

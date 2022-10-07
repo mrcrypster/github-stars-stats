@@ -1,12 +1,14 @@
 # Kochava/kochava-adnetwork-ios-cocoapod - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Kochava/kochava-adnetwork-ios-cocoapod)
+
+[Open detailed stats for Kochava/kochava-adnetwork-ios-cocoapod](https://reviewgithub.com/rep/Kochava/kochava-adnetwork-ios-cocoapod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | - | 
 | 2022-09-07 | 2 | - | 
 
-
-[Detailed charts & statistics for Kochava/kochava-adnetwork-ios-cocoapod](https://reviewgithub.com/rep/Kochava/kochava-adnetwork-ios-cocoapod)

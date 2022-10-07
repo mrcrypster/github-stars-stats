@@ -1,12 +1,14 @@
 # microsoft/SDN - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 533
 
 ★ Stars: 415
 
 [Open repository](https://github.com/microsoft/SDN)
+
+[Open detailed stats for microsoft/SDN](https://reviewgithub.com/rep/microsoft/SDN)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 413 | 531 | 
 | 2022-09-08 | 413 | 531 | 
 
-
-[Detailed charts & statistics for microsoft/SDN](https://reviewgithub.com/rep/microsoft/SDN)

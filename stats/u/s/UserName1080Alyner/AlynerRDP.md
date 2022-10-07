@@ -1,12 +1,14 @@
 # UserName1080Alyner/AlynerRDP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 55
 
 ★ Stars: 2
 
 [Open repository](https://github.com/UserName1080Alyner/AlynerRDP)
+
+[Open detailed stats for UserName1080Alyner/AlynerRDP](https://reviewgithub.com/rep/UserName1080Alyner/AlynerRDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 1 | 8 | 
 | 2022-09-21 | 1 | 7 | 
 
-
-[Detailed charts & statistics for UserName1080Alyner/AlynerRDP](https://reviewgithub.com/rep/UserName1080Alyner/AlynerRDP)

@@ -1,12 +1,14 @@
 # fibon/puppet-cq - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/fibon/puppet-cq)
+
+[Open detailed stats for fibon/puppet-cq](https://reviewgithub.com/rep/fibon/puppet-cq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
 
-
-[Detailed charts & statistics for fibon/puppet-cq](https://reviewgithub.com/rep/fibon/puppet-cq)

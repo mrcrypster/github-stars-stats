@@ -1,12 +1,14 @@
 # DataBiosphere/leonardo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 35
 
 [Open repository](https://github.com/DataBiosphere/leonardo)
+
+[Open detailed stats for DataBiosphere/leonardo](https://reviewgithub.com/rep/DataBiosphere/leonardo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 35 | 16 | 
 | 2022-09-08 | 35 | 16 | 
 
-
-[Detailed charts & statistics for DataBiosphere/leonardo](https://reviewgithub.com/rep/DataBiosphere/leonardo)

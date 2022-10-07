@@ -1,12 +1,14 @@
 # johnoseni1/My-Portfolio-V1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 29
 
 [Open repository](https://github.com/johnoseni1/My-Portfolio-V1)
+
+[Open detailed stats for johnoseni1/My-Portfolio-V1](https://reviewgithub.com/rep/johnoseni1/My-Portfolio-V1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 28 | 2 | 
 | 2022-09-08 | 28 | 2 | 
 
-
-[Detailed charts & statistics for johnoseni1/My-Portfolio-V1](https://reviewgithub.com/rep/johnoseni1/My-Portfolio-V1)

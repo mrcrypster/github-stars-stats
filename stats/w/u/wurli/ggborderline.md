@@ -1,12 +1,14 @@
 # wurli/ggborderline - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 22
 
 [Open repository](https://github.com/wurli/ggborderline)
+
+[Open detailed stats for wurli/ggborderline](https://reviewgithub.com/rep/wurli/ggborderline)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | - | 
 | 2022-09-07 | 22 | - | 
 
-
-[Detailed charts & statistics for wurli/ggborderline](https://reviewgithub.com/rep/wurli/ggborderline)

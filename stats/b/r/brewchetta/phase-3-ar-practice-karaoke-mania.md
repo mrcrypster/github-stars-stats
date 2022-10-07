@@ -1,12 +1,14 @@
 # brewchetta/phase-3-ar-practice-karaoke-mania - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 0
 
 [Open repository](https://github.com/brewchetta/phase-3-ar-practice-karaoke-mania)
+
+[Open detailed stats for brewchetta/phase-3-ar-practice-karaoke-mania](https://reviewgithub.com/rep/brewchetta/phase-3-ar-practice-karaoke-mania)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 31 | 
 | 2022-09-07 | - | 26 | 
 
-
-[Detailed charts & statistics for brewchetta/phase-3-ar-practice-karaoke-mania](https://reviewgithub.com/rep/brewchetta/phase-3-ar-practice-karaoke-mania)

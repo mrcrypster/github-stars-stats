@@ -1,12 +1,14 @@
 # reflex-frp/reflex-platform - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 158
 
 ★ Stars: 679
 
 [Open repository](https://github.com/reflex-frp/reflex-platform)
+
+[Open detailed stats for reflex-frp/reflex-platform](https://reviewgithub.com/rep/reflex-frp/reflex-platform)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 679 | 157 | 
 | 2022-09-07 | 679 | 157 | 
 
-
-[Detailed charts & statistics for reflex-frp/reflex-platform](https://reviewgithub.com/rep/reflex-frp/reflex-platform)

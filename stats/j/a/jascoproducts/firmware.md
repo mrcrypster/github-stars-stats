@@ -1,12 +1,14 @@
 # jascoproducts/firmware - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 281
 
 [Open repository](https://github.com/jascoproducts/firmware)
+
+[Open detailed stats for jascoproducts/firmware](https://reviewgithub.com/rep/jascoproducts/firmware)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 270 | 22 | 
 | 2022-09-07 | 269 | 22 | 
 
-
-[Detailed charts & statistics for jascoproducts/firmware](https://reviewgithub.com/rep/jascoproducts/firmware)

@@ -1,12 +1,14 @@
 # iidanL/InstallWindowsWithoutUSB - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 61
 
 [Open repository](https://github.com/iidanL/InstallWindowsWithoutUSB)
+
+[Open detailed stats for iidanL/InstallWindowsWithoutUSB](https://reviewgithub.com/rep/iidanL/InstallWindowsWithoutUSB)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 50 | 25 | 
 | 2022-09-07 | 50 | 25 | 
 
-
-[Detailed charts & statistics for iidanL/InstallWindowsWithoutUSB](https://reviewgithub.com/rep/iidanL/InstallWindowsWithoutUSB)

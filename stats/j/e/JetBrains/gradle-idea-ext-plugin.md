@@ -1,12 +1,14 @@
 # JetBrains/gradle-idea-ext-plugin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 188
 
 [Open repository](https://github.com/JetBrains/gradle-idea-ext-plugin)
+
+[Open detailed stats for JetBrains/gradle-idea-ext-plugin](https://reviewgithub.com/rep/JetBrains/gradle-idea-ext-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 185 | 40 | 
 | 2022-09-08 | 185 | 40 | 
 
-
-[Detailed charts & statistics for JetBrains/gradle-idea-ext-plugin](https://reviewgithub.com/rep/JetBrains/gradle-idea-ext-plugin)

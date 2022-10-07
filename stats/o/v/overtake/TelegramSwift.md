@@ -1,12 +1,14 @@
 # overtake/TelegramSwift - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 674
 
 ★ Stars: 3996
 
 [Open repository](https://github.com/overtake/TelegramSwift)
+
+[Open detailed stats for overtake/TelegramSwift](https://reviewgithub.com/rep/overtake/TelegramSwift)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3959 | 667 | 
 | 2022-09-08 | 3959 | 667 | 
 
-
-[Detailed charts & statistics for overtake/TelegramSwift](https://reviewgithub.com/rep/overtake/TelegramSwift)

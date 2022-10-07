@@ -1,12 +1,14 @@
 # Renegade-Labs/5head - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 72
 
 [Open repository](https://github.com/Renegade-Labs/5head)
+
+[Open detailed stats for Renegade-Labs/5head](https://reviewgithub.com/rep/Renegade-Labs/5head)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 72 | 6 | 
 | 2022-09-07 | 72 | 6 | 
 
-
-[Detailed charts & statistics for Renegade-Labs/5head](https://reviewgithub.com/rep/Renegade-Labs/5head)

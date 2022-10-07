@@ -1,12 +1,14 @@
 # manikcloud/terraform-ansible - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 49
 
 ★ Stars: 0
 
 [Open repository](https://github.com/manikcloud/terraform-ansible)
+
+[Open detailed stats for manikcloud/terraform-ansible](https://reviewgithub.com/rep/manikcloud/terraform-ansible)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 47 | 
 | 2022-09-07 | - | 47 | 
 
-
-[Detailed charts & statistics for manikcloud/terraform-ansible](https://reviewgithub.com/rep/manikcloud/terraform-ansible)

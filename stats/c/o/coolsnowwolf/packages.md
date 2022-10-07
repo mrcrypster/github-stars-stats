@@ -1,12 +1,14 @@
 # coolsnowwolf/packages - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 419
 
 ★ Stars: 131
 
 [Open repository](https://github.com/coolsnowwolf/packages)
+
+[Open detailed stats for coolsnowwolf/packages](https://reviewgithub.com/rep/coolsnowwolf/packages)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 131 | 411 | 
 | 2022-09-08 | 130 | 411 | 
 
-
-[Detailed charts & statistics for coolsnowwolf/packages](https://reviewgithub.com/rep/coolsnowwolf/packages)

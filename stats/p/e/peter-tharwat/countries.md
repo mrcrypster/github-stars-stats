@@ -1,12 +1,14 @@
 # peter-tharwat/countries - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 81
 
 [Open repository](https://github.com/peter-tharwat/countries)
+
+[Open detailed stats for peter-tharwat/countries](https://reviewgithub.com/rep/peter-tharwat/countries)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 28 | 
 | 2022-09-07 | 78 | 28 | 
 
-
-[Detailed charts & statistics for peter-tharwat/countries](https://reviewgithub.com/rep/peter-tharwat/countries)

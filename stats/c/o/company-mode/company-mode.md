@@ -1,12 +1,14 @@
 # company-mode/company-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 222
 
 ★ Stars: 1971
 
 [Open repository](https://github.com/company-mode/company-mode)
+
+[Open detailed stats for company-mode/company-mode](https://reviewgithub.com/rep/company-mode/company-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1962 | 223 | 
 | 2022-09-08 | 1961 | 223 | 
 
-
-[Detailed charts & statistics for company-mode/company-mode](https://reviewgithub.com/rep/company-mode/company-mode)

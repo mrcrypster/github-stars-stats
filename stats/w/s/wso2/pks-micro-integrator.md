@@ -1,12 +1,14 @@
 # wso2/pks-micro-integrator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/wso2/pks-micro-integrator)
+
+[Open detailed stats for wso2/pks-micro-integrator](https://reviewgithub.com/rep/wso2/pks-micro-integrator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 2 | 
 | 2022-09-08 | - | 2 | 
 
-
-[Detailed charts & statistics for wso2/pks-micro-integrator](https://reviewgithub.com/rep/wso2/pks-micro-integrator)

@@ -1,12 +1,14 @@
 # cardano-foundation/dab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 34
 
 [Open repository](https://github.com/cardano-foundation/dab)
+
+[Open detailed stats for cardano-foundation/dab](https://reviewgithub.com/rep/cardano-foundation/dab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 32 | 7 | 
 | 2022-09-07 | 32 | 7 | 
 
-
-[Detailed charts & statistics for cardano-foundation/dab](https://reviewgithub.com/rep/cardano-foundation/dab)

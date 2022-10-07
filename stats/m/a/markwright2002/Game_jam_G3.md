@@ -1,12 +1,14 @@
 # markwright2002/Game_jam_G3 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/markwright2002/Game_jam_G3)
+
+[Open detailed stats for markwright2002/Game_jam_G3](https://reviewgithub.com/rep/markwright2002/Game_jam_G3)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 1 | - | 
 | 2022-09-20 | 1 | - | 
 
-
-[Detailed charts & statistics for markwright2002/Game_jam_G3](https://reviewgithub.com/rep/markwright2002/Game_jam_G3)

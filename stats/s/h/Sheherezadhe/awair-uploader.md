@@ -1,12 +1,14 @@
 # Sheherezadhe/awair-uploader - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 63
 
 ★ Stars: 130
 
 [Open repository](https://github.com/Sheherezadhe/awair-uploader)
+
+[Open detailed stats for Sheherezadhe/awair-uploader](https://reviewgithub.com/rep/Sheherezadhe/awair-uploader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 130 | 65 | 
 | 2022-09-08 | 130 | 65 | 
 
-
-[Detailed charts & statistics for Sheherezadhe/awair-uploader](https://reviewgithub.com/rep/Sheherezadhe/awair-uploader)

@@ -1,12 +1,14 @@
 # nf-core/exoseq - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 12
 
 [Open repository](https://github.com/nf-core/exoseq)
+
+[Open detailed stats for nf-core/exoseq](https://reviewgithub.com/rep/nf-core/exoseq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 12 | 23 | 
 | 2022-09-08 | 12 | 23 | 
 
-
-[Detailed charts & statistics for nf-core/exoseq](https://reviewgithub.com/rep/nf-core/exoseq)

@@ -1,12 +1,14 @@
 # KushalVijay/AmazonCrackedResource - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 327
 
 ★ Stars: 311
 
 [Open repository](https://github.com/KushalVijay/AmazonCrackedResource)
+
+[Open detailed stats for KushalVijay/AmazonCrackedResource](https://reviewgithub.com/rep/KushalVijay/AmazonCrackedResource)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 299 | 315 | 
 | 2022-09-07 | 297 | 314 | 
 
-
-[Detailed charts & statistics for KushalVijay/AmazonCrackedResource](https://reviewgithub.com/rep/KushalVijay/AmazonCrackedResource)

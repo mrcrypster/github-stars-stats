@@ -1,12 +1,14 @@
 # AdobeDocs/experience-manager-64.en - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 20
 
 [Open repository](https://github.com/AdobeDocs/experience-manager-64.en)
+
+[Open detailed stats for AdobeDocs/experience-manager-64.en](https://reviewgithub.com/rep/AdobeDocs/experience-manager-64.en)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 18 | 56 | 
 | 2022-09-08 | 18 | 56 | 
 
-
-[Detailed charts & statistics for AdobeDocs/experience-manager-64.en](https://reviewgithub.com/rep/AdobeDocs/experience-manager-64.en)

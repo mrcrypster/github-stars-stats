@@ -1,12 +1,14 @@
 # datastax/pulsar-helm-chart - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 29
 
 [Open repository](https://github.com/datastax/pulsar-helm-chart)
+
+[Open detailed stats for datastax/pulsar-helm-chart](https://reviewgithub.com/rep/datastax/pulsar-helm-chart)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 30 | 
 | 2022-09-07 | 29 | 30 | 
 
-
-[Detailed charts & statistics for datastax/pulsar-helm-chart](https://reviewgithub.com/rep/datastax/pulsar-helm-chart)

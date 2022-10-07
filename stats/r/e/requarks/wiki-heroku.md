@@ -1,12 +1,14 @@
 # requarks/wiki-heroku - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 146
 
 ★ Stars: 48
 
 [Open repository](https://github.com/requarks/wiki-heroku)
+
+[Open detailed stats for requarks/wiki-heroku](https://reviewgithub.com/rep/requarks/wiki-heroku)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 147 | 
 | 2022-09-07 | 48 | 147 | 
 
-
-[Detailed charts & statistics for requarks/wiki-heroku](https://reviewgithub.com/rep/requarks/wiki-heroku)

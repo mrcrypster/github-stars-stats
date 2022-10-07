@@ -1,12 +1,14 @@
 # ecampbell/moodle-qformat_wordtable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 7
 
 [Open repository](https://github.com/ecampbell/moodle-qformat_wordtable)
+
+[Open detailed stats for ecampbell/moodle-qformat_wordtable](https://reviewgithub.com/rep/ecampbell/moodle-qformat_wordtable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 7 | 
 | 2022-09-07 | 7 | 7 | 
 
-
-[Detailed charts & statistics for ecampbell/moodle-qformat_wordtable](https://reviewgithub.com/rep/ecampbell/moodle-qformat_wordtable)

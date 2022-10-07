@@ -1,12 +1,14 @@
 # bodil/purescript-test-unit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 85
 
 [Open repository](https://github.com/bodil/purescript-test-unit)
+
+[Open detailed stats for bodil/purescript-test-unit](https://reviewgithub.com/rep/bodil/purescript-test-unit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 84 | 37 | 
 | 2022-09-07 | 84 | 37 | 
 
-
-[Detailed charts & statistics for bodil/purescript-test-unit](https://reviewgithub.com/rep/bodil/purescript-test-unit)

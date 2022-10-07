@@ -1,12 +1,14 @@
 # akaunting/akaunting - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1918
 
 ★ Stars: 5557
 
 [Open repository](https://github.com/akaunting/akaunting)
+
+[Open detailed stats for akaunting/akaunting](https://reviewgithub.com/rep/akaunting/akaunting)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5485 | 1892 | 
 | 2022-09-08 | 5482 | 1891 | 
 
-
-[Detailed charts & statistics for akaunting/akaunting](https://reviewgithub.com/rep/akaunting/akaunting)

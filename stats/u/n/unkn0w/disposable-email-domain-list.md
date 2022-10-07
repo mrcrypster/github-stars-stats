@@ -1,12 +1,14 @@
 # unkn0w/disposable-email-domain-list - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 65
 
 [Open repository](https://github.com/unkn0w/disposable-email-domain-list)
+
+[Open detailed stats for unkn0w/disposable-email-domain-list](https://reviewgithub.com/rep/unkn0w/disposable-email-domain-list)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 42 | - | 
 | 2022-09-10 | 40 | - | 
 
-
-[Detailed charts & statistics for unkn0w/disposable-email-domain-list](https://reviewgithub.com/rep/unkn0w/disposable-email-domain-list)

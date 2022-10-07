@@ -1,12 +1,14 @@
 # mdn/css-examples - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 624
 
 ★ Stars: 411
 
 [Open repository](https://github.com/mdn/css-examples)
+
+[Open detailed stats for mdn/css-examples](https://reviewgithub.com/rep/mdn/css-examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 406 | 609 | 
 | 2022-09-14 | 404 | 609 | 
 
-
-[Detailed charts & statistics for mdn/css-examples](https://reviewgithub.com/rep/mdn/css-examples)

@@ -1,12 +1,14 @@
 # WardPearce/py-styles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 41
 
 [Open repository](https://github.com/WardPearce/py-styles)
+
+[Open detailed stats for WardPearce/py-styles](https://reviewgithub.com/rep/WardPearce/py-styles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 41 | 5 | 
 | 2022-09-08 | 41 | 5 | 
 
-
-[Detailed charts & statistics for WardPearce/py-styles](https://reviewgithub.com/rep/WardPearce/py-styles)

@@ -1,12 +1,14 @@
 # codedownio/servant-typescript - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/codedownio/servant-typescript)
+
+[Open detailed stats for codedownio/servant-typescript](https://reviewgithub.com/rep/codedownio/servant-typescript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 13 | 1 | 
 | 2022-09-08 | 13 | 1 | 
 
-
-[Detailed charts & statistics for codedownio/servant-typescript](https://reviewgithub.com/rep/codedownio/servant-typescript)

@@ -1,12 +1,14 @@
 # YakivGalkin/flutterbase-taxi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 38
 
 ★ Stars: 105
 
 [Open repository](https://github.com/YakivGalkin/flutterbase-taxi)
+
+[Open detailed stats for YakivGalkin/flutterbase-taxi](https://reviewgithub.com/rep/YakivGalkin/flutterbase-taxi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 96 | 33 | 
 | 2022-09-07 | 95 | 33 | 
 
-
-[Detailed charts & statistics for YakivGalkin/flutterbase-taxi](https://reviewgithub.com/rep/YakivGalkin/flutterbase-taxi)

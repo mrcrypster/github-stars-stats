@@ -1,12 +1,14 @@
 # Koinswapio/KSTTOKEN-V2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 34
 
 [Open repository](https://github.com/Koinswapio/KSTTOKEN-V2)
+
+[Open detailed stats for Koinswapio/KSTTOKEN-V2](https://reviewgithub.com/rep/Koinswapio/KSTTOKEN-V2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 31 | 1 | 
 | 2022-09-17 | 30 | 1 | 
 
-
-[Detailed charts & statistics for Koinswapio/KSTTOKEN-V2](https://reviewgithub.com/rep/Koinswapio/KSTTOKEN-V2)

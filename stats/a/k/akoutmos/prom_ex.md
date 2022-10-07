@@ -1,12 +1,14 @@
 # akoutmos/prom_ex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 63
 
 ★ Stars: 424
 
 [Open repository](https://github.com/akoutmos/prom_ex)
+
+[Open detailed stats for akoutmos/prom_ex](https://reviewgithub.com/rep/akoutmos/prom_ex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 412 | 61 | 
 | 2022-09-07 | 412 | 61 | 
 
-
-[Detailed charts & statistics for akoutmos/prom_ex](https://reviewgithub.com/rep/akoutmos/prom_ex)

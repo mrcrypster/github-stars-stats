@@ -1,12 +1,14 @@
 # tribe29/ansible-collection-tribe29.checkmk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 34
 
 [Open repository](https://github.com/tribe29/ansible-collection-tribe29.checkmk)
+
+[Open detailed stats for tribe29/ansible-collection-tribe29.checkmk](https://reviewgithub.com/rep/tribe29/ansible-collection-tribe29.checkmk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 31 | 14 | 
 | 2022-09-07 | 30 | 14 | 
 
-
-[Detailed charts & statistics for tribe29/ansible-collection-tribe29.checkmk](https://reviewgithub.com/rep/tribe29/ansible-collection-tribe29.checkmk)

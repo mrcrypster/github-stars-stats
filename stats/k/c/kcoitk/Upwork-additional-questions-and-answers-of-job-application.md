@@ -1,12 +1,14 @@
 # kcoitk/Upwork-additional-questions-and-answers-of-job-application - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 96
 
 ★ Stars: 112
 
 [Open repository](https://github.com/kcoitk/Upwork-additional-questions-and-answers-of-job-application)
+
+[Open detailed stats for kcoitk/Upwork-additional-questions-and-answers-of-job-application](https://reviewgithub.com/rep/kcoitk/Upwork-additional-questions-and-answers-of-job-application)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 114 | 95 | 
 | 2022-09-08 | 114 | 95 | 
 
-
-[Detailed charts & statistics for kcoitk/Upwork-additional-questions-and-answers-of-job-application](https://reviewgithub.com/rep/kcoitk/Upwork-additional-questions-and-answers-of-job-application)

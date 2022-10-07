@@ -1,12 +1,14 @@
 # tantanrustandi/tanRDP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 68
 
 ★ Stars: 0
 
 [Open repository](https://github.com/tantanrustandi/tanRDP)
+
+[Open detailed stats for tantanrustandi/tanRDP](https://reviewgithub.com/rep/tantanrustandi/tanRDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 62 | 
 | 2022-09-08 | - | 60 | 
 
-
-[Detailed charts & statistics for tantanrustandi/tanRDP](https://reviewgithub.com/rep/tantanrustandi/tanRDP)

@@ -1,12 +1,14 @@
 # i4Ds/STIX-GSW - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 5
 
 [Open repository](https://github.com/i4Ds/STIX-GSW)
+
+[Open detailed stats for i4Ds/STIX-GSW](https://reviewgithub.com/rep/i4Ds/STIX-GSW)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 10 | 
 | 2022-09-08 | 5 | 10 | 
 
-
-[Detailed charts & statistics for i4Ds/STIX-GSW](https://reviewgithub.com/rep/i4Ds/STIX-GSW)

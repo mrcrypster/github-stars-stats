@@ -1,12 +1,14 @@
 # MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 9
 
 [Open repository](https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR)
+
+[Open detailed stats for MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 3 | 
 | 2022-09-07 | 9 | 3 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR](https://reviewgithub.com/rep/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.fr-FR)

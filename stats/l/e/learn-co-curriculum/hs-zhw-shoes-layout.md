@@ -1,12 +1,14 @@
 # learn-co-curriculum/hs-zhw-shoes-layout - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 112
 
 ★ Stars: 0
 
 [Open repository](https://github.com/learn-co-curriculum/hs-zhw-shoes-layout)
+
+[Open detailed stats for learn-co-curriculum/hs-zhw-shoes-layout](https://reviewgithub.com/rep/learn-co-curriculum/hs-zhw-shoes-layout)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 109 | 
 | 2022-09-07 | - | 109 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/hs-zhw-shoes-layout](https://reviewgithub.com/rep/learn-co-curriculum/hs-zhw-shoes-layout)

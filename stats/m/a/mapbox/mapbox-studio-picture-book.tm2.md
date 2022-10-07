@@ -1,12 +1,14 @@
 # mapbox/mapbox-studio-picture-book.tm2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 29
 
 [Open repository](https://github.com/mapbox/mapbox-studio-picture-book.tm2)
+
+[Open detailed stats for mapbox/mapbox-studio-picture-book.tm2](https://reviewgithub.com/rep/mapbox/mapbox-studio-picture-book.tm2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 29 | 5 | 
 | 2022-09-07 | 29 | 5 | 
 
-
-[Detailed charts & statistics for mapbox/mapbox-studio-picture-book.tm2](https://reviewgithub.com/rep/mapbox/mapbox-studio-picture-book.tm2)

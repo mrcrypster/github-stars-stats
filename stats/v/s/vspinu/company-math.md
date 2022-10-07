@@ -1,12 +1,14 @@
 # vspinu/company-math - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 118
 
 [Open repository](https://github.com/vspinu/company-math)
+
+[Open detailed stats for vspinu/company-math](https://reviewgithub.com/rep/vspinu/company-math)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 118 | 8 | 
 | 2022-09-08 | 118 | 8 | 
 
-
-[Detailed charts & statistics for vspinu/company-math](https://reviewgithub.com/rep/vspinu/company-math)

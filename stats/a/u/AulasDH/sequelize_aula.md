@@ -1,12 +1,14 @@
 # AulasDH/sequelize_aula - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 0
 
 [Open repository](https://github.com/AulasDH/sequelize_aula)
+
+[Open detailed stats for AulasDH/sequelize_aula](https://reviewgithub.com/rep/AulasDH/sequelize_aula)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 14 | 
 | 2022-09-08 | - | 14 | 
 
-
-[Detailed charts & statistics for AulasDH/sequelize_aula](https://reviewgithub.com/rep/AulasDH/sequelize_aula)

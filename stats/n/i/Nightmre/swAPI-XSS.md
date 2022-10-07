@@ -1,12 +1,14 @@
 # Nightmre/swAPI-XSS - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 35
 
 [Open repository](https://github.com/Nightmre/swAPI-XSS)
+
+[Open detailed stats for Nightmre/swAPI-XSS](https://reviewgithub.com/rep/Nightmre/swAPI-XSS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 6 | 
 | 2022-09-07 | 29 | 5 | 
 
-
-[Detailed charts & statistics for Nightmre/swAPI-XSS](https://reviewgithub.com/rep/Nightmre/swAPI-XSS)

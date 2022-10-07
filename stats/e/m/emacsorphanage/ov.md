@@ -1,12 +1,14 @@
 # emacsorphanage/ov - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 193
 
 [Open repository](https://github.com/emacsorphanage/ov)
+
+[Open detailed stats for emacsorphanage/ov](https://reviewgithub.com/rep/emacsorphanage/ov)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 192 | 17 | 
 | 2022-09-07 | 192 | 17 | 
 
-
-[Detailed charts & statistics for emacsorphanage/ov](https://reviewgithub.com/rep/emacsorphanage/ov)

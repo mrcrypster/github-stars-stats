@@ -1,12 +1,14 @@
 # X-Lucifer/AI-Lossless-Zoomer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 110
 
 ★ Stars: 843
 
 [Open repository](https://github.com/X-Lucifer/AI-Lossless-Zoomer)
+
+[Open detailed stats for X-Lucifer/AI-Lossless-Zoomer](https://reviewgithub.com/rep/X-Lucifer/AI-Lossless-Zoomer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | 827 | 107 | 
 | 2022-09-25 | 823 | 104 | 
 
-
-[Detailed charts & statistics for X-Lucifer/AI-Lossless-Zoomer](https://reviewgithub.com/rep/X-Lucifer/AI-Lossless-Zoomer)

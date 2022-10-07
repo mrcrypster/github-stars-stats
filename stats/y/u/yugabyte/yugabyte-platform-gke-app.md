@@ -1,12 +1,14 @@
 # yugabyte/yugabyte-platform-gke-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/yugabyte/yugabyte-platform-gke-app)
+
+[Open detailed stats for yugabyte/yugabyte-platform-gke-app](https://reviewgithub.com/rep/yugabyte/yugabyte-platform-gke-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for yugabyte/yugabyte-platform-gke-app](https://reviewgithub.com/rep/yugabyte/yugabyte-platform-gke-app)

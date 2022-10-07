@@ -1,12 +1,14 @@
 # svind1er/Bonelab-Mods - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 4
 
 [Open repository](https://github.com/svind1er/Bonelab-Mods)
+
+[Open detailed stats for svind1er/Bonelab-Mods](https://reviewgithub.com/rep/svind1er/Bonelab-Mods)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 4 | 4 | 
 | 2022-10-03 | 4 | 4 | 
 
-
-[Detailed charts & statistics for svind1er/Bonelab-Mods](https://reviewgithub.com/rep/svind1er/Bonelab-Mods)

@@ -1,12 +1,14 @@
 # nsbno/servicedocumentation - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nsbno/servicedocumentation)
+
+[Open detailed stats for nsbno/servicedocumentation](https://reviewgithub.com/rep/nsbno/servicedocumentation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for nsbno/servicedocumentation](https://reviewgithub.com/rep/nsbno/servicedocumentation)

@@ -1,12 +1,14 @@
 # agerlach/Flowstar.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/agerlach/Flowstar.jl)
+
+[Open detailed stats for agerlach/Flowstar.jl](https://reviewgithub.com/rep/agerlach/Flowstar.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for agerlach/Flowstar.jl](https://reviewgithub.com/rep/agerlach/Flowstar.jl)

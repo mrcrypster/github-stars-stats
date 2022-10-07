@@ -1,12 +1,14 @@
 # danyaberezun/compilers-supplementary - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 90
 
 ★ Stars: 4
 
 [Open repository](https://github.com/danyaberezun/compilers-supplementary)
+
+[Open detailed stats for danyaberezun/compilers-supplementary](https://reviewgithub.com/rep/danyaberezun/compilers-supplementary)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-02 | 4 | 90 | 
 | 2022-10-01 | 4 | 90 | 
 
-
-[Detailed charts & statistics for danyaberezun/compilers-supplementary](https://reviewgithub.com/rep/danyaberezun/compilers-supplementary)

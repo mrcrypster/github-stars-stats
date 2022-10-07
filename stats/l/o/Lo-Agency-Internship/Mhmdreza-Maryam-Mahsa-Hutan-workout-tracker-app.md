@@ -1,12 +1,14 @@
 # Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app)
+
+[Open detailed stats for Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app](https://reviewgithub.com/rep/Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 4 | 
 | 2022-09-07 | - | 4 | 
 
-
-[Detailed charts & statistics for Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app](https://reviewgithub.com/rep/Lo-Agency-Internship/Mhmdreza-Maryam-Mahsa-Hutan-workout-tracker-app)

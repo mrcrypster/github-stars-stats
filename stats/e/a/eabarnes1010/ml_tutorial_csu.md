@@ -1,12 +1,14 @@
 # eabarnes1010/ml_tutorial_csu - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 64
 
 [Open repository](https://github.com/eabarnes1010/ml_tutorial_csu)
+
+[Open detailed stats for eabarnes1010/ml_tutorial_csu](https://reviewgithub.com/rep/eabarnes1010/ml_tutorial_csu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 62 | 12 | 
 | 2022-09-07 | 62 | 12 | 
 
-
-[Detailed charts & statistics for eabarnes1010/ml_tutorial_csu](https://reviewgithub.com/rep/eabarnes1010/ml_tutorial_csu)

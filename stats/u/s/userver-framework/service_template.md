@@ -1,12 +1,14 @@
 # userver-framework/service_template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 61
 
 [Open repository](https://github.com/userver-framework/service_template)
+
+[Open detailed stats for userver-framework/service_template](https://reviewgithub.com/rep/userver-framework/service_template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 60 | 12 | 
 | 2022-09-08 | 59 | 12 | 
 
-
-[Detailed charts & statistics for userver-framework/service_template](https://reviewgithub.com/rep/userver-framework/service_template)

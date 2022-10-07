@@ -1,12 +1,14 @@
 # holochain/holonix - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 22
 
 ★ Stars: 76
 
 [Open repository](https://github.com/holochain/holonix)
+
+[Open detailed stats for holochain/holonix](https://reviewgithub.com/rep/holochain/holonix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 75 | 22 | 
 | 2022-09-08 | 75 | 22 | 
 
-
-[Detailed charts & statistics for holochain/holonix](https://reviewgithub.com/rep/holochain/holonix)

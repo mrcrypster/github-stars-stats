@@ -1,12 +1,14 @@
 # Netflix/vectorflow - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 84
 
 ★ Stars: 1277
 
 [Open repository](https://github.com/Netflix/vectorflow)
+
+[Open detailed stats for Netflix/vectorflow](https://reviewgithub.com/rep/Netflix/vectorflow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1279 | 84 | 
 | 2022-09-07 | 1279 | 84 | 
 
-
-[Detailed charts & statistics for Netflix/vectorflow](https://reviewgithub.com/rep/Netflix/vectorflow)

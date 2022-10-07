@@ -1,12 +1,14 @@
 # GSA/Challenge_gov - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 13
 
 [Open repository](https://github.com/GSA/Challenge_gov)
+
+[Open detailed stats for GSA/Challenge_gov](https://reviewgithub.com/rep/GSA/Challenge_gov)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 9 | 
 | 2022-09-07 | 12 | 9 | 
 
-
-[Detailed charts & statistics for GSA/Challenge_gov](https://reviewgithub.com/rep/GSA/Challenge_gov)

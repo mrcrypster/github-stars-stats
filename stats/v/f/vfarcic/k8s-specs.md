@@ -1,12 +1,14 @@
 # vfarcic/k8s-specs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 217
 
 ★ Stars: 144
 
 [Open repository](https://github.com/vfarcic/k8s-specs)
+
+[Open detailed stats for vfarcic/k8s-specs](https://reviewgithub.com/rep/vfarcic/k8s-specs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 143 | 217 | 
 | 2022-09-08 | 143 | 217 | 
 
-
-[Detailed charts & statistics for vfarcic/k8s-specs](https://reviewgithub.com/rep/vfarcic/k8s-specs)

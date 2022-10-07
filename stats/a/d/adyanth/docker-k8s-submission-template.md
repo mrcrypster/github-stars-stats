@@ -1,12 +1,14 @@
 # adyanth/docker-k8s-submission-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 0
 
 [Open repository](https://github.com/adyanth/docker-k8s-submission-template)
+
+[Open detailed stats for adyanth/docker-k8s-submission-template](https://reviewgithub.com/rep/adyanth/docker-k8s-submission-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 36 | 
 | 2022-09-07 | - | 36 | 
 
-
-[Detailed charts & statistics for adyanth/docker-k8s-submission-template](https://reviewgithub.com/rep/adyanth/docker-k8s-submission-template)

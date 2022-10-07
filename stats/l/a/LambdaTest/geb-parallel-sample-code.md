@@ -1,12 +1,14 @@
 # LambdaTest/geb-parallel-sample-code - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 14
 
 [Open repository](https://github.com/LambdaTest/geb-parallel-sample-code)
+
+[Open detailed stats for LambdaTest/geb-parallel-sample-code](https://reviewgithub.com/rep/LambdaTest/geb-parallel-sample-code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | 19 | 
 | 2022-09-08 | 14 | 19 | 
 
-
-[Detailed charts & statistics for LambdaTest/geb-parallel-sample-code](https://reviewgithub.com/rep/LambdaTest/geb-parallel-sample-code)

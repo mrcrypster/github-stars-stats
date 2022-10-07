@@ -1,12 +1,14 @@
 # orsinium-labs/re - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 38
 
 [Open repository](https://github.com/orsinium-labs/re)
+
+[Open detailed stats for orsinium-labs/re](https://reviewgithub.com/rep/orsinium-labs/re)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 1 | 
 | 2022-09-07 | 38 | 1 | 
 
-
-[Detailed charts & statistics for orsinium-labs/re](https://reviewgithub.com/rep/orsinium-labs/re)

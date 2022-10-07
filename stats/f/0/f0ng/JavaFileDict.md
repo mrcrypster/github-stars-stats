@@ -1,12 +1,14 @@
 # f0ng/JavaFileDict - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 102
 
 [Open repository](https://github.com/f0ng/JavaFileDict)
+
+[Open detailed stats for f0ng/JavaFileDict](https://reviewgithub.com/rep/f0ng/JavaFileDict)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 100 | 11 | 
 | 2022-09-07 | 99 | 11 | 
 
-
-[Detailed charts & statistics for f0ng/JavaFileDict](https://reviewgithub.com/rep/f0ng/JavaFileDict)

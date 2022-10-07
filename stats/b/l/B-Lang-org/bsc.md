@@ -1,12 +1,14 @@
 # B-Lang-org/bsc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 115
 
 ★ Stars: 701
 
 [Open repository](https://github.com/B-Lang-org/bsc)
+
+[Open detailed stats for B-Lang-org/bsc](https://reviewgithub.com/rep/B-Lang-org/bsc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 699 | 112 | 
 | 2022-09-07 | 698 | 112 | 
 
-
-[Detailed charts & statistics for B-Lang-org/bsc](https://reviewgithub.com/rep/B-Lang-org/bsc)

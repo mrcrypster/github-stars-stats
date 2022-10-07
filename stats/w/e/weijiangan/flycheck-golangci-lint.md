@@ -1,12 +1,14 @@
 # weijiangan/flycheck-golangci-lint - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 36
 
 [Open repository](https://github.com/weijiangan/flycheck-golangci-lint)
+
+[Open detailed stats for weijiangan/flycheck-golangci-lint](https://reviewgithub.com/rep/weijiangan/flycheck-golangci-lint)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 36 | 13 | 
 | 2022-09-08 | 36 | 13 | 
 
-
-[Detailed charts & statistics for weijiangan/flycheck-golangci-lint](https://reviewgithub.com/rep/weijiangan/flycheck-golangci-lint)

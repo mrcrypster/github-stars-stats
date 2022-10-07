@@ -1,12 +1,14 @@
 # Azure-Samples/cognitive-services-ruby-sdk-samples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Azure-Samples/cognitive-services-ruby-sdk-samples)
+
+[Open detailed stats for Azure-Samples/cognitive-services-ruby-sdk-samples](https://reviewgithub.com/rep/Azure-Samples/cognitive-services-ruby-sdk-samples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 5 | 
 | 2022-09-08 | 1 | 5 | 
 
-
-[Detailed charts & statistics for Azure-Samples/cognitive-services-ruby-sdk-samples](https://reviewgithub.com/rep/Azure-Samples/cognitive-services-ruby-sdk-samples)

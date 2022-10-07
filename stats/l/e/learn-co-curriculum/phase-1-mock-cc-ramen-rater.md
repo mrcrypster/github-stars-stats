@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-1-mock-cc-ramen-rater - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1357
 
 ★ Stars: 6
 
 [Open repository](https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater)
+
+[Open detailed stats for learn-co-curriculum/phase-1-mock-cc-ramen-rater](https://reviewgithub.com/rep/learn-co-curriculum/phase-1-mock-cc-ramen-rater)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 4 | 1277 | 
 | 2022-09-07 | 4 | 1232 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-1-mock-cc-ramen-rater](https://reviewgithub.com/rep/learn-co-curriculum/phase-1-mock-cc-ramen-rater)

@@ -1,12 +1,14 @@
 # xamarin/apple-api-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 25
 
 [Open repository](https://github.com/xamarin/apple-api-docs)
+
+[Open detailed stats for xamarin/apple-api-docs](https://reviewgithub.com/rep/xamarin/apple-api-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 25 | 37 | 
 | 2022-09-07 | 25 | 37 | 
 
-
-[Detailed charts & statistics for xamarin/apple-api-docs](https://reviewgithub.com/rep/xamarin/apple-api-docs)

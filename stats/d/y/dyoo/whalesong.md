@@ -1,12 +1,14 @@
 # dyoo/whalesong - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 250
 
 [Open repository](https://github.com/dyoo/whalesong)
+
+[Open detailed stats for dyoo/whalesong](https://reviewgithub.com/rep/dyoo/whalesong)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 250 | 29 | 
 | 2022-09-07 | 250 | 29 | 
 
-
-[Detailed charts & statistics for dyoo/whalesong](https://reviewgithub.com/rep/dyoo/whalesong)

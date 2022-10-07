@@ -1,12 +1,14 @@
 # Training360/html5-halado - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 74
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Training360/html5-halado)
+
+[Open detailed stats for Training360/html5-halado](https://reviewgithub.com/rep/Training360/html5-halado)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3 | 75 | 
 | 2022-09-08 | 3 | 75 | 
 
-
-[Detailed charts & statistics for Training360/html5-halado](https://reviewgithub.com/rep/Training360/html5-halado)

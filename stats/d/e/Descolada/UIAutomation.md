@@ -1,12 +1,14 @@
 # Descolada/UIAutomation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 48
 
 [Open repository](https://github.com/Descolada/UIAutomation)
+
+[Open detailed stats for Descolada/UIAutomation](https://reviewgithub.com/rep/Descolada/UIAutomation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 11 | 
 | 2022-09-07 | 43 | 10 | 
 
-
-[Detailed charts & statistics for Descolada/UIAutomation](https://reviewgithub.com/rep/Descolada/UIAutomation)

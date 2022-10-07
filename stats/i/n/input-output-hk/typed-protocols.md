@@ -1,12 +1,14 @@
 # input-output-hk/typed-protocols - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/input-output-hk/typed-protocols)
+
+[Open detailed stats for input-output-hk/typed-protocols](https://reviewgithub.com/rep/input-output-hk/typed-protocols)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 1 | 2 | 
 | 2022-09-16 | 1 | 2 | 
 
-
-[Detailed charts & statistics for input-output-hk/typed-protocols](https://reviewgithub.com/rep/input-output-hk/typed-protocols)

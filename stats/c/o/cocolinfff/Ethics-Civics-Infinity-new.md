@@ -1,12 +1,14 @@
 # cocolinfff/Ethics-Civics-Infinity-new - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 6
 
 [Open repository](https://github.com/cocolinfff/Ethics-Civics-Infinity-new)
+
+[Open detailed stats for cocolinfff/Ethics-Civics-Infinity-new](https://reviewgithub.com/rep/cocolinfff/Ethics-Civics-Infinity-new)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 6 | 12 | 
 | 2022-09-08 | 6 | 12 | 
 
-
-[Detailed charts & statistics for cocolinfff/Ethics-Civics-Infinity-new](https://reviewgithub.com/rep/cocolinfff/Ethics-Civics-Infinity-new)

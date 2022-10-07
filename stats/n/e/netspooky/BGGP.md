@@ -1,12 +1,14 @@
 # netspooky/BGGP - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 82
 
 [Open repository](https://github.com/netspooky/BGGP)
+
+[Open detailed stats for netspooky/BGGP](https://reviewgithub.com/rep/netspooky/BGGP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 79 | 5 | 
 | 2022-09-23 | 78 | 5 | 
 
-
-[Detailed charts & statistics for netspooky/BGGP](https://reviewgithub.com/rep/netspooky/BGGP)

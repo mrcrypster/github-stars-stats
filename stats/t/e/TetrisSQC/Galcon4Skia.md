@@ -1,12 +1,14 @@
 # TetrisSQC/Galcon4Skia - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 13
 
 [Open repository](https://github.com/TetrisSQC/Galcon4Skia)
+
+[Open detailed stats for TetrisSQC/Galcon4Skia](https://reviewgithub.com/rep/TetrisSQC/Galcon4Skia)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 2 | 
 | 2022-09-08 | 13 | 2 | 
 
-
-[Detailed charts & statistics for TetrisSQC/Galcon4Skia](https://reviewgithub.com/rep/TetrisSQC/Galcon4Skia)

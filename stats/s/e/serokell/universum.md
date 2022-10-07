@@ -1,12 +1,14 @@
 # serokell/universum - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 156
 
 [Open repository](https://github.com/serokell/universum)
+
+[Open detailed stats for serokell/universum](https://reviewgithub.com/rep/serokell/universum)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 154 | 28 | 
 | 2022-09-07 | 154 | 28 | 
 
-
-[Detailed charts & statistics for serokell/universum](https://reviewgithub.com/rep/serokell/universum)

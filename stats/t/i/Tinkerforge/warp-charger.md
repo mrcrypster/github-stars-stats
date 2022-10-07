@@ -1,12 +1,14 @@
 # Tinkerforge/warp-charger - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 38
 
 [Open repository](https://github.com/Tinkerforge/warp-charger)
+
+[Open detailed stats for Tinkerforge/warp-charger](https://reviewgithub.com/rep/Tinkerforge/warp-charger)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 3 | 
 | 2022-09-08 | 37 | 3 | 
 
-
-[Detailed charts & statistics for Tinkerforge/warp-charger](https://reviewgithub.com/rep/Tinkerforge/warp-charger)

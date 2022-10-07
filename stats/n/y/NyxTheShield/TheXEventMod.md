@@ -1,12 +1,14 @@
 # NyxTheShield/TheXEventMod - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 6
 
 [Open repository](https://github.com/NyxTheShield/TheXEventMod)
+
+[Open detailed stats for NyxTheShield/TheXEventMod](https://reviewgithub.com/rep/NyxTheShield/TheXEventMod)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 8 | 
 | 2022-09-07 | 6 | 8 | 
 
-
-[Detailed charts & statistics for NyxTheShield/TheXEventMod](https://reviewgithub.com/rep/NyxTheShield/TheXEventMod)

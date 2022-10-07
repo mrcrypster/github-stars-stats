@@ -1,12 +1,14 @@
 # sumup/hello_jesse - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/sumup/hello_jesse)
+
+[Open detailed stats for sumup/hello_jesse](https://reviewgithub.com/rep/sumup/hello_jesse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for sumup/hello_jesse](https://reviewgithub.com/rep/sumup/hello_jesse)

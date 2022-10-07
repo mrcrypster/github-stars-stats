@@ -1,12 +1,14 @@
 # FlowFans/web3jam-2022-summer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 26
 
 ★ Stars: 11
 
 [Open repository](https://github.com/FlowFans/web3jam-2022-summer)
+
+[Open detailed stats for FlowFans/web3jam-2022-summer](https://reviewgithub.com/rep/FlowFans/web3jam-2022-summer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 11 | 26 | 
 | 2022-09-08 | 11 | 26 | 
 
-
-[Detailed charts & statistics for FlowFans/web3jam-2022-summer](https://reviewgithub.com/rep/FlowFans/web3jam-2022-summer)

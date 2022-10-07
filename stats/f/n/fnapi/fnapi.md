@@ -1,12 +1,14 @@
 # fnapi/fnapi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 371
 
 [Open repository](https://github.com/fnapi/fnapi)
+
+[Open detailed stats for fnapi/fnapi](https://reviewgithub.com/rep/fnapi/fnapi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 372 | 3 | 
 | 2022-09-07 | 372 | 3 | 
 
-
-[Detailed charts & statistics for fnapi/fnapi](https://reviewgithub.com/rep/fnapi/fnapi)

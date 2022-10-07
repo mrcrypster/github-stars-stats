@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-4-rails-practice-challenge-gym - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 697
 
 ★ Stars: 0
 
 [Open repository](https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-gym)
+
+[Open detailed stats for learn-co-curriculum/phase-4-rails-practice-challenge-gym](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-practice-challenge-gym)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-28 | - | 671 | 
 | 2022-09-27 | - | 669 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-4-rails-practice-challenge-gym](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-rails-practice-challenge-gym)

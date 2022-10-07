@@ -1,12 +1,14 @@
 # spekka/spekka - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 23
 
 [Open repository](https://github.com/spekka/spekka)
+
+[Open detailed stats for spekka/spekka](https://reviewgithub.com/rep/spekka/spekka)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 22 | 3 | 
 | 2022-09-07 | 22 | 3 | 
 
-
-[Detailed charts & statistics for spekka/spekka](https://reviewgithub.com/rep/spekka/spekka)

@@ -1,12 +1,14 @@
 # FirewallSH567/TechToBangla - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 155
 
 ★ Stars: 2
 
 [Open repository](https://github.com/FirewallSH567/TechToBangla)
+
+[Open detailed stats for FirewallSH567/TechToBangla](https://reviewgithub.com/rep/FirewallSH567/TechToBangla)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 155 | 
 | 2022-09-08 | 2 | 155 | 
 
-
-[Detailed charts & statistics for FirewallSH567/TechToBangla](https://reviewgithub.com/rep/FirewallSH567/TechToBangla)

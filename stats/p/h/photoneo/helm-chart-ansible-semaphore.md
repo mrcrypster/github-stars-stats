@@ -1,12 +1,14 @@
 # photoneo/helm-chart-ansible-semaphore - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/photoneo/helm-chart-ansible-semaphore)
+
+[Open detailed stats for photoneo/helm-chart-ansible-semaphore](https://reviewgithub.com/rep/photoneo/helm-chart-ansible-semaphore)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for photoneo/helm-chart-ansible-semaphore](https://reviewgithub.com/rep/photoneo/helm-chart-ansible-semaphore)

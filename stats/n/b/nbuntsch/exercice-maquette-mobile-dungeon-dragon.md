@@ -1,12 +1,14 @@
 # nbuntsch/exercice-maquette-mobile-dungeon-dragon - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 33
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nbuntsch/exercice-maquette-mobile-dungeon-dragon)
+
+[Open detailed stats for nbuntsch/exercice-maquette-mobile-dungeon-dragon](https://reviewgithub.com/rep/nbuntsch/exercice-maquette-mobile-dungeon-dragon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 31 | 
 | 2022-09-08 | - | 31 | 
 
-
-[Detailed charts & statistics for nbuntsch/exercice-maquette-mobile-dungeon-dragon](https://reviewgithub.com/rep/nbuntsch/exercice-maquette-mobile-dungeon-dragon)

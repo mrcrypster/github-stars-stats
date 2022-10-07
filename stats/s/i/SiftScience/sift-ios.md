@@ -1,12 +1,14 @@
 # SiftScience/sift-ios - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 15
 
 [Open repository](https://github.com/SiftScience/sift-ios)
+
+[Open detailed stats for SiftScience/sift-ios](https://reviewgithub.com/rep/SiftScience/sift-ios)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 15 | 17 | 
 | 2022-09-08 | 15 | 17 | 
 
-
-[Detailed charts & statistics for SiftScience/sift-ios](https://reviewgithub.com/rep/SiftScience/sift-ios)

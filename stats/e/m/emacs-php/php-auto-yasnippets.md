@@ -1,12 +1,14 @@
 # emacs-php/php-auto-yasnippets - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 42
 
 [Open repository](https://github.com/emacs-php/php-auto-yasnippets)
+
+[Open detailed stats for emacs-php/php-auto-yasnippets](https://reviewgithub.com/rep/emacs-php/php-auto-yasnippets)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 42 | 13 | 
 | 2022-09-07 | 42 | 13 | 
 
-
-[Detailed charts & statistics for emacs-php/php-auto-yasnippets](https://reviewgithub.com/rep/emacs-php/php-auto-yasnippets)

@@ -1,12 +1,14 @@
 # justinwoo/easy-purescript-nix - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 169
 
 [Open repository](https://github.com/justinwoo/easy-purescript-nix)
+
+[Open detailed stats for justinwoo/easy-purescript-nix](https://reviewgithub.com/rep/justinwoo/easy-purescript-nix)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 167 | 49 | 
 | 2022-09-07 | 167 | 49 | 
 
-
-[Detailed charts & statistics for justinwoo/easy-purescript-nix](https://reviewgithub.com/rep/justinwoo/easy-purescript-nix)

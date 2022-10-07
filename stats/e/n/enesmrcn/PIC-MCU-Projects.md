@@ -1,12 +1,14 @@
 # enesmrcn/PIC-MCU-Projects - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 28
 
 [Open repository](https://github.com/enesmrcn/PIC-MCU-Projects)
+
+[Open detailed stats for enesmrcn/PIC-MCU-Projects](https://reviewgithub.com/rep/enesmrcn/PIC-MCU-Projects)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 3 | 
 | 2022-09-07 | 28 | 3 | 
 
-
-[Detailed charts & statistics for enesmrcn/PIC-MCU-Projects](https://reviewgithub.com/rep/enesmrcn/PIC-MCU-Projects)

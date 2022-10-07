@@ -1,12 +1,14 @@
 # Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 37
 
 [Open repository](https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples)
+
+[Open detailed stats for Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples](https://reviewgithub.com/rep/Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 34 | 1 | 
 | 2022-09-08 | 34 | 1 | 
 
-
-[Detailed charts & statistics for Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples](https://reviewgithub.com/rep/Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples)

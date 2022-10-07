@@ -1,12 +1,14 @@
 # bambosan/BSBE-Renewed - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 18
 
 [Open repository](https://github.com/bambosan/BSBE-Renewed)
+
+[Open detailed stats for bambosan/BSBE-Renewed](https://reviewgithub.com/rep/bambosan/BSBE-Renewed)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | 5 | 
 | 2022-09-08 | 18 | 5 | 
 
-
-[Detailed charts & statistics for bambosan/BSBE-Renewed](https://reviewgithub.com/rep/bambosan/BSBE-Renewed)

@@ -1,12 +1,14 @@
 # Pedro-V/naves-codeworld - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 12
 
 [Open repository](https://github.com/Pedro-V/naves-codeworld)
+
+[Open detailed stats for Pedro-V/naves-codeworld](https://reviewgithub.com/rep/Pedro-V/naves-codeworld)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | - | 
 | 2022-09-07 | 12 | - | 
 
-
-[Detailed charts & statistics for Pedro-V/naves-codeworld](https://reviewgithub.com/rep/Pedro-V/naves-codeworld)

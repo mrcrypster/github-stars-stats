@@ -1,12 +1,14 @@
 # flycheck/flycheck-popup-tip - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 30
 
 [Open repository](https://github.com/flycheck/flycheck-popup-tip)
+
+[Open detailed stats for flycheck/flycheck-popup-tip](https://reviewgithub.com/rep/flycheck/flycheck-popup-tip)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | 6 | 
 | 2022-09-07 | 30 | 6 | 
 
-
-[Detailed charts & statistics for flycheck/flycheck-popup-tip](https://reviewgithub.com/rep/flycheck/flycheck-popup-tip)

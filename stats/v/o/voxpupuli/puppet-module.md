@@ -1,12 +1,14 @@
 # voxpupuli/puppet-module - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 5
 
 [Open repository](https://github.com/voxpupuli/puppet-module)
+
+[Open detailed stats for voxpupuli/puppet-module](https://reviewgithub.com/rep/voxpupuli/puppet-module)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 3 | 
 | 2022-09-07 | 5 | 3 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-module](https://reviewgithub.com/rep/voxpupuli/puppet-module)

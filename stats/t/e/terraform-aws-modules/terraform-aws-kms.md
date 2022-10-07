@@ -1,12 +1,14 @@
 # terraform-aws-modules/terraform-aws-kms - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 11
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-kms)
+
+[Open detailed stats for terraform-aws-modules/terraform-aws-kms](https://reviewgithub.com/rep/terraform-aws-modules/terraform-aws-kms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 8 | 
 | 2022-09-07 | 10 | 8 | 
 
-
-[Detailed charts & statistics for terraform-aws-modules/terraform-aws-kms](https://reviewgithub.com/rep/terraform-aws-modules/terraform-aws-kms)

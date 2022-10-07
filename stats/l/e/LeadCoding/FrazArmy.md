@@ -1,12 +1,14 @@
 # LeadCoding/FrazArmy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 61
 
 ★ Stars: 58
 
 [Open repository](https://github.com/LeadCoding/FrazArmy)
+
+[Open detailed stats for LeadCoding/FrazArmy](https://reviewgithub.com/rep/LeadCoding/FrazArmy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 54 | 55 | 
 | 2022-09-07 | 54 | 55 | 
 
-
-[Detailed charts & statistics for LeadCoding/FrazArmy](https://reviewgithub.com/rep/LeadCoding/FrazArmy)

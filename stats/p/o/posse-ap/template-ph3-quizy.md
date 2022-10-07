@@ -1,12 +1,14 @@
 # posse-ap/template-ph3-quizy - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 0
 
 [Open repository](https://github.com/posse-ap/template-ph3-quizy)
+
+[Open detailed stats for posse-ap/template-ph3-quizy](https://reviewgithub.com/rep/posse-ap/template-ph3-quizy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 34 | 
 | 2022-09-08 | - | 34 | 
 
-
-[Detailed charts & statistics for posse-ap/template-ph3-quizy](https://reviewgithub.com/rep/posse-ap/template-ph3-quizy)

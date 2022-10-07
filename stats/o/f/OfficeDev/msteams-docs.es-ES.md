@@ -1,12 +1,14 @@
 # OfficeDev/msteams-docs.es-ES - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 10
 
 [Open repository](https://github.com/OfficeDev/msteams-docs.es-ES)
+
+[Open detailed stats for OfficeDev/msteams-docs.es-ES](https://reviewgithub.com/rep/OfficeDev/msteams-docs.es-ES)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 2 | 
 | 2022-09-07 | 8 | 2 | 
 
-
-[Detailed charts & statistics for OfficeDev/msteams-docs.es-ES](https://reviewgithub.com/rep/OfficeDev/msteams-docs.es-ES)

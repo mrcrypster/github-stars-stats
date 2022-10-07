@@ -1,12 +1,14 @@
 # narze/basic-svelte-for-react-and-vue-developers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 10
 
 [Open repository](https://github.com/narze/basic-svelte-for-react-and-vue-developers)
+
+[Open detailed stats for narze/basic-svelte-for-react-and-vue-developers](https://reviewgithub.com/rep/narze/basic-svelte-for-react-and-vue-developers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 10 | 2 | 
 | 2022-09-07 | 10 | 2 | 
 
-
-[Detailed charts & statistics for narze/basic-svelte-for-react-and-vue-developers](https://reviewgithub.com/rep/narze/basic-svelte-for-react-and-vue-developers)

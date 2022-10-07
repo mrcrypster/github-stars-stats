@@ -1,12 +1,14 @@
 # gardener/alpine-iptables - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/gardener/alpine-iptables)
+
+[Open detailed stats for gardener/alpine-iptables](https://reviewgithub.com/rep/gardener/alpine-iptables)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for gardener/alpine-iptables](https://reviewgithub.com/rep/gardener/alpine-iptables)

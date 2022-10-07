@@ -1,12 +1,14 @@
 # mandiant/route-sixty-sink - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 122
 
 [Open repository](https://github.com/mandiant/route-sixty-sink)
+
+[Open detailed stats for mandiant/route-sixty-sink](https://reviewgithub.com/rep/mandiant/route-sixty-sink)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 122 | 12 | 
 | 2022-09-07 | 122 | 12 | 
 
-
-[Detailed charts & statistics for mandiant/route-sixty-sink](https://reviewgithub.com/rep/mandiant/route-sixty-sink)

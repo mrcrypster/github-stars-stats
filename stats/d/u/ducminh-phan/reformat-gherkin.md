@@ -1,12 +1,14 @@
 # ducminh-phan/reformat-gherkin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 16
 
 [Open repository](https://github.com/ducminh-phan/reformat-gherkin)
+
+[Open detailed stats for ducminh-phan/reformat-gherkin](https://reviewgithub.com/rep/ducminh-phan/reformat-gherkin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 13 | 
 | 2022-09-07 | 16 | 13 | 
 
-
-[Detailed charts & statistics for ducminh-phan/reformat-gherkin](https://reviewgithub.com/rep/ducminh-phan/reformat-gherkin)

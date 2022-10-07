@@ -1,12 +1,14 @@
 # MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port)
+
+[Open detailed stats for MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port](https://reviewgithub.com/rep/MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 1 | 
 | 2022-09-08 | 4 | 1 | 
 
-
-[Detailed charts & statistics for MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port](https://reviewgithub.com/rep/MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port)

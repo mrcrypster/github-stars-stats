@@ -1,12 +1,14 @@
 # LambdaTest/LT-appium-python-robot - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 7
 
 [Open repository](https://github.com/LambdaTest/LT-appium-python-robot)
+
+[Open detailed stats for LambdaTest/LT-appium-python-robot](https://reviewgithub.com/rep/LambdaTest/LT-appium-python-robot)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 7 | 
 | 2022-09-08 | 7 | 7 | 
 
-
-[Detailed charts & statistics for LambdaTest/LT-appium-python-robot](https://reviewgithub.com/rep/LambdaTest/LT-appium-python-robot)

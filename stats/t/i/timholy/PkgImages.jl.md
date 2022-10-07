@@ -1,12 +1,14 @@
 # timholy/PkgImages.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/timholy/PkgImages.jl)
+
+[Open detailed stats for timholy/PkgImages.jl](https://reviewgithub.com/rep/timholy/PkgImages.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -29,5 +31,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-21 | 14 | - | 
 | 2022-09-20 | 14 | - | 
 
-
-[Detailed charts & statistics for timholy/PkgImages.jl](https://reviewgithub.com/rep/timholy/PkgImages.jl)

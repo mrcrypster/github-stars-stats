@@ -1,12 +1,14 @@
 # cbm755/octsympy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 118
 
 [Open repository](https://github.com/cbm755/octsympy)
+
+[Open detailed stats for cbm755/octsympy](https://reviewgithub.com/rep/cbm755/octsympy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 118 | 36 | 
 | 2022-09-07 | 118 | 36 | 
 
-
-[Detailed charts & statistics for cbm755/octsympy](https://reviewgithub.com/rep/cbm755/octsympy)

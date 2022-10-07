@@ -1,12 +1,14 @@
 # chshersh/iris - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 73
 
 [Open repository](https://github.com/chshersh/iris)
+
+[Open detailed stats for chshersh/iris](https://reviewgithub.com/rep/chshersh/iris)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 62 | 6 | 
 | 2022-09-08 | 62 | 6 | 
 
-
-[Detailed charts & statistics for chshersh/iris](https://reviewgithub.com/rep/chshersh/iris)

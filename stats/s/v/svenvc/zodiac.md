@@ -1,12 +1,14 @@
 # svenvc/zodiac - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 8
 
 [Open repository](https://github.com/svenvc/zodiac)
+
+[Open detailed stats for svenvc/zodiac](https://reviewgithub.com/rep/svenvc/zodiac)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 11 | 
 | 2022-09-08 | 8 | 11 | 
 
-
-[Detailed charts & statistics for svenvc/zodiac](https://reviewgithub.com/rep/svenvc/zodiac)

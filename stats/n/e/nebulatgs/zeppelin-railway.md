@@ -1,12 +1,14 @@
 # nebulatgs/zeppelin-railway - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
 ★ Stars: 4
 
 [Open repository](https://github.com/nebulatgs/zeppelin-railway)
+
+[Open detailed stats for nebulatgs/zeppelin-railway](https://reviewgithub.com/rep/nebulatgs/zeppelin-railway)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 20 | 
 | 2022-09-08 | 4 | 20 | 
 
-
-[Detailed charts & statistics for nebulatgs/zeppelin-railway](https://reviewgithub.com/rep/nebulatgs/zeppelin-railway)

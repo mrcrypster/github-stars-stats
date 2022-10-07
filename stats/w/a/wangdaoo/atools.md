@@ -1,12 +1,14 @@
 # wangdaoo/atools - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 130
 
 [Open repository](https://github.com/wangdaoo/atools)
+
+[Open detailed stats for wangdaoo/atools](https://reviewgithub.com/rep/wangdaoo/atools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 131 | 18 | 
 | 2022-09-07 | 131 | 18 | 
 
-
-[Detailed charts & statistics for wangdaoo/atools](https://reviewgithub.com/rep/wangdaoo/atools)

@@ -1,12 +1,14 @@
 # openhwgroup/cvfpu - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
 ★ Stars: 212
 
 [Open repository](https://github.com/openhwgroup/cvfpu)
+
+[Open detailed stats for openhwgroup/cvfpu](https://reviewgithub.com/rep/openhwgroup/cvfpu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 201 | 72 | 
 | 2022-09-08 | 201 | 72 | 
 
-
-[Detailed charts & statistics for openhwgroup/cvfpu](https://reviewgithub.com/rep/openhwgroup/cvfpu)

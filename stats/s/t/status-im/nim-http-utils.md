@@ -1,12 +1,14 @@
 # status-im/nim-http-utils - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 21
 
 [Open repository](https://github.com/status-im/nim-http-utils)
+
+[Open detailed stats for status-im/nim-http-utils](https://reviewgithub.com/rep/status-im/nim-http-utils)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 21 | 8 | 
 | 2022-09-07 | 21 | 8 | 
 
-
-[Detailed charts & statistics for status-im/nim-http-utils](https://reviewgithub.com/rep/status-im/nim-http-utils)

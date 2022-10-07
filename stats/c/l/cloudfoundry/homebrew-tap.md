@@ -1,12 +1,14 @@
 # cloudfoundry/homebrew-tap - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 48
 
 ★ Stars: 54
 
 [Open repository](https://github.com/cloudfoundry/homebrew-tap)
+
+[Open detailed stats for cloudfoundry/homebrew-tap](https://reviewgithub.com/rep/cloudfoundry/homebrew-tap)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 54 | 47 | 
 | 2022-09-08 | 54 | 47 | 
 
-
-[Detailed charts & statistics for cloudfoundry/homebrew-tap](https://reviewgithub.com/rep/cloudfoundry/homebrew-tap)

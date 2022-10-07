@@ -1,12 +1,14 @@
 # teaconmc/Puer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 8
 
 [Open repository](https://github.com/teaconmc/Puer)
+
+[Open detailed stats for teaconmc/Puer](https://reviewgithub.com/rep/teaconmc/Puer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 30 | 
 | 2022-09-07 | 8 | 30 | 
 
-
-[Detailed charts & statistics for teaconmc/Puer](https://reviewgithub.com/rep/teaconmc/Puer)

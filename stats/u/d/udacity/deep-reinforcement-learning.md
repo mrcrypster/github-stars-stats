@@ -1,12 +1,14 @@
 # udacity/deep-reinforcement-learning - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2210
 
 ★ Stars: 4267
 
 [Open repository](https://github.com/udacity/deep-reinforcement-learning)
+
+[Open detailed stats for udacity/deep-reinforcement-learning](https://reviewgithub.com/rep/udacity/deep-reinforcement-learning)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4241 | 2200 | 
 | 2022-09-07 | 4239 | 2200 | 
 
-
-[Detailed charts & statistics for udacity/deep-reinforcement-learning](https://reviewgithub.com/rep/udacity/deep-reinforcement-learning)

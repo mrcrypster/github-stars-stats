@@ -1,12 +1,14 @@
 # midnightmonster/activerecord-summarize - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 97
 
 [Open repository](https://github.com/midnightmonster/activerecord-summarize)
+
+[Open detailed stats for midnightmonster/activerecord-summarize](https://reviewgithub.com/rep/midnightmonster/activerecord-summarize)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 96 | 1 | 
 | 2022-09-07 | 96 | 1 | 
 
-
-[Detailed charts & statistics for midnightmonster/activerecord-summarize](https://reviewgithub.com/rep/midnightmonster/activerecord-summarize)

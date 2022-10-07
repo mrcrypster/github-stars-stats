@@ -1,12 +1,14 @@
 # QualiNext/test-spec2-public - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 0
 
 [Open repository](https://github.com/QualiNext/test-spec2-public)
+
+[Open detailed stats for QualiNext/test-spec2-public](https://reviewgithub.com/rep/QualiNext/test-spec2-public)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 18 | 
 | 2022-09-07 | - | 18 | 
 
-
-[Detailed charts & statistics for QualiNext/test-spec2-public](https://reviewgithub.com/rep/QualiNext/test-spec2-public)

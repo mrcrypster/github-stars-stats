@@ -1,12 +1,14 @@
 # thread314/intuitive-tab-line-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 9
 
 [Open repository](https://github.com/thread314/intuitive-tab-line-mode)
+
+[Open detailed stats for thread314/intuitive-tab-line-mode](https://reviewgithub.com/rep/thread314/intuitive-tab-line-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 8 | 1 | 
 | 2022-09-08 | 8 | 1 | 
 
-
-[Detailed charts & statistics for thread314/intuitive-tab-line-mode](https://reviewgithub.com/rep/thread314/intuitive-tab-line-mode)

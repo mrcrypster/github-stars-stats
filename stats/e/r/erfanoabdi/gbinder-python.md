@@ -1,12 +1,14 @@
 # erfanoabdi/gbinder-python - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 6
 
 [Open repository](https://github.com/erfanoabdi/gbinder-python)
+
+[Open detailed stats for erfanoabdi/gbinder-python](https://reviewgithub.com/rep/erfanoabdi/gbinder-python)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 11 | 
 | 2022-09-07 | 6 | 11 | 
 
-
-[Detailed charts & statistics for erfanoabdi/gbinder-python](https://reviewgithub.com/rep/erfanoabdi/gbinder-python)

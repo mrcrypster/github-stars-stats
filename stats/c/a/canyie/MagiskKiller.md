@@ -1,12 +1,14 @@
 # canyie/MagiskKiller - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 24
 
 ★ Stars: 100
 
 [Open repository](https://github.com/canyie/MagiskKiller)
+
+[Open detailed stats for canyie/MagiskKiller](https://reviewgithub.com/rep/canyie/MagiskKiller)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 98 | 24 | 
 | 2022-09-07 | 98 | 24 | 
 
-
-[Detailed charts & statistics for canyie/MagiskKiller](https://reviewgithub.com/rep/canyie/MagiskKiller)

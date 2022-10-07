@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-running-ruby-code - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1820
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-running-ruby-code)
+
+[Open detailed stats for learn-co-curriculum/phase-3-running-ruby-code](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-running-ruby-code)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 1732 | 
 | 2022-09-07 | 1 | 1728 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-running-ruby-code](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-running-ruby-code)

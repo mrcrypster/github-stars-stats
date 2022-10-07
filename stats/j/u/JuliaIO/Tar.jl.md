@@ -1,12 +1,14 @@
 # JuliaIO/Tar.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 69
 
 [Open repository](https://github.com/JuliaIO/Tar.jl)
+
+[Open detailed stats for JuliaIO/Tar.jl](https://reviewgithub.com/rep/JuliaIO/Tar.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -31,5 +33,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-19 | 69 | 17 | 
 | 2022-09-18 | 69 | 17 | 
 
-
-[Detailed charts & statistics for JuliaIO/Tar.jl](https://reviewgithub.com/rep/JuliaIO/Tar.jl)

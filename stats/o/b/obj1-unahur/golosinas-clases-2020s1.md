@@ -1,12 +1,14 @@
 # obj1-unahur/golosinas-clases-2020s1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 0
 
 [Open repository](https://github.com/obj1-unahur/golosinas-clases-2020s1)
+
+[Open detailed stats for obj1-unahur/golosinas-clases-2020s1](https://reviewgithub.com/rep/obj1-unahur/golosinas-clases-2020s1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 19 | 
 | 2022-09-07 | - | 19 | 
 
-
-[Detailed charts & statistics for obj1-unahur/golosinas-clases-2020s1](https://reviewgithub.com/rep/obj1-unahur/golosinas-clases-2020s1)

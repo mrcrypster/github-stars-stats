@@ -1,12 +1,14 @@
 # mishakorzik/AllHackingTools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 139
 
 ★ Stars: 747
 
 [Open repository](https://github.com/mishakorzik/AllHackingTools)
+
+[Open detailed stats for mishakorzik/AllHackingTools](https://reviewgithub.com/rep/mishakorzik/AllHackingTools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 689 | 126 | 
 | 2022-09-08 | 685 | 125 | 
 
-
-[Detailed charts & statistics for mishakorzik/AllHackingTools](https://reviewgithub.com/rep/mishakorzik/AllHackingTools)

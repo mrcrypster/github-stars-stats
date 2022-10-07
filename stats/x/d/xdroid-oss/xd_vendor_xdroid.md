@@ -1,12 +1,14 @@
 # xdroid-oss/xd_vendor_xdroid - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 0
 
 [Open repository](https://github.com/xdroid-oss/xd_vendor_xdroid)
+
+[Open detailed stats for xdroid-oss/xd_vendor_xdroid](https://reviewgithub.com/rep/xdroid-oss/xd_vendor_xdroid)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | - | 9 | 
 | 2022-09-14 | - | 10 | 
 
-
-[Detailed charts & statistics for xdroid-oss/xd_vendor_xdroid](https://reviewgithub.com/rep/xdroid-oss/xd_vendor_xdroid)

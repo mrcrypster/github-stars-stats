@@ -1,12 +1,14 @@
 # Jeiwan/zuniswapv2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
 ★ Stars: 98
 
 [Open repository](https://github.com/Jeiwan/zuniswapv2)
+
+[Open detailed stats for Jeiwan/zuniswapv2](https://reviewgithub.com/rep/Jeiwan/zuniswapv2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 90 | 19 | 
 | 2022-09-07 | 90 | 19 | 
 
-
-[Detailed charts & statistics for Jeiwan/zuniswapv2](https://reviewgithub.com/rep/Jeiwan/zuniswapv2)

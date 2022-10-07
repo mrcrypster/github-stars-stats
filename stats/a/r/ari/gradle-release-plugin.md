@@ -1,12 +1,14 @@
 # ari/gradle-release-plugin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
 ★ Stars: 52
 
 [Open repository](https://github.com/ari/gradle-release-plugin)
+
+[Open detailed stats for ari/gradle-release-plugin](https://reviewgithub.com/rep/ari/gradle-release-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 52 | 27 | 
 | 2022-09-08 | 52 | 27 | 
 
-
-[Detailed charts & statistics for ari/gradle-release-plugin](https://reviewgithub.com/rep/ari/gradle-release-plugin)

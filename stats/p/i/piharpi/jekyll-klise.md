@@ -1,12 +1,14 @@
 # piharpi/jekyll-klise - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 249
 
 ★ Stars: 605
 
 [Open repository](https://github.com/piharpi/jekyll-klise)
+
+[Open detailed stats for piharpi/jekyll-klise](https://reviewgithub.com/rep/piharpi/jekyll-klise)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 596 | 242 | 
 | 2022-09-08 | 596 | 242 | 
 
-
-[Detailed charts & statistics for piharpi/jekyll-klise](https://reviewgithub.com/rep/piharpi/jekyll-klise)

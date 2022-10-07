@@ -1,12 +1,14 @@
 # Anal-Repair/Vmp3_64bit_disasm-prerelease- - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 16
 
 ★ Stars: 99
 
 [Open repository](https://github.com/Anal-Repair/Vmp3_64bit_disasm-prerelease-)
+
+[Open detailed stats for Anal-Repair/Vmp3_64bit_disasm-prerelease-](https://reviewgithub.com/rep/Anal-Repair/Vmp3_64bit_disasm-prerelease-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 77 | 14 | 
 | 2022-09-08 | 77 | 14 | 
 
-
-[Detailed charts & statistics for Anal-Repair/Vmp3_64bit_disasm-prerelease-](https://reviewgithub.com/rep/Anal-Repair/Vmp3_64bit_disasm-prerelease-)

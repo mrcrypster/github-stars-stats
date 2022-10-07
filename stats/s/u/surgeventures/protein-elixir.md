@@ -1,12 +1,14 @@
 # surgeventures/protein-elixir - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 8
 
 [Open repository](https://github.com/surgeventures/protein-elixir)
+
+[Open detailed stats for surgeventures/protein-elixir](https://reviewgithub.com/rep/surgeventures/protein-elixir)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 3 | 
 | 2022-09-07 | 8 | 3 | 
 
-
-[Detailed charts & statistics for surgeventures/protein-elixir](https://reviewgithub.com/rep/surgeventures/protein-elixir)

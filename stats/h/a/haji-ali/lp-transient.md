@@ -1,12 +1,14 @@
 # haji-ali/lp-transient - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 25
 
 [Open repository](https://github.com/haji-ali/lp-transient)
+
+[Open detailed stats for haji-ali/lp-transient](https://reviewgithub.com/rep/haji-ali/lp-transient)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 25 | 2 | 
 | 2022-09-08 | 25 | 2 | 
 
-
-[Detailed charts & statistics for haji-ali/lp-transient](https://reviewgithub.com/rep/haji-ali/lp-transient)

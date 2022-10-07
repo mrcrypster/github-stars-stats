@@ -1,12 +1,14 @@
 # appdev-projects/array-chapter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 593
 
 ★ Stars: 0
 
 [Open repository](https://github.com/appdev-projects/array-chapter)
+
+[Open detailed stats for appdev-projects/array-chapter](https://reviewgithub.com/rep/appdev-projects/array-chapter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 570 | 
 | 2022-09-08 | - | 570 | 
 
-
-[Detailed charts & statistics for appdev-projects/array-chapter](https://reviewgithub.com/rep/appdev-projects/array-chapter)

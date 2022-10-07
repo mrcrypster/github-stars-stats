@@ -1,12 +1,14 @@
 # LearnWeb3DAO/14-Days-of-Solidity - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 45
 
 [Open repository](https://github.com/LearnWeb3DAO/14-Days-of-Solidity)
+
+[Open detailed stats for LearnWeb3DAO/14-Days-of-Solidity](https://reviewgithub.com/rep/LearnWeb3DAO/14-Days-of-Solidity)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 42 | 14 | 
 | 2022-09-08 | 42 | 14 | 
 
-
-[Detailed charts & statistics for LearnWeb3DAO/14-Days-of-Solidity](https://reviewgithub.com/rep/LearnWeb3DAO/14-Days-of-Solidity)

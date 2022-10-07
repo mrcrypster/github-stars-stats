@@ -1,12 +1,14 @@
 # askonomm/clarktown - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 70
 
 [Open repository](https://github.com/askonomm/clarktown)
+
+[Open detailed stats for askonomm/clarktown](https://reviewgithub.com/rep/askonomm/clarktown)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 70 | - | 
 | 2022-09-07 | 70 | - | 
 
-
-[Detailed charts & statistics for askonomm/clarktown](https://reviewgithub.com/rep/askonomm/clarktown)

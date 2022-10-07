@@ -1,12 +1,14 @@
 # aguaviva/articles - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 68
 
 [Open repository](https://github.com/aguaviva/articles)
+
+[Open detailed stats for aguaviva/articles](https://reviewgithub.com/rep/aguaviva/articles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 69 | 4 | 
 | 2022-09-08 | 68 | 4 | 
 
-
-[Detailed charts & statistics for aguaviva/articles](https://reviewgithub.com/rep/aguaviva/articles)

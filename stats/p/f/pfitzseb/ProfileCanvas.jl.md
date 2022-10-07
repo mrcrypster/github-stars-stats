@@ -1,12 +1,14 @@
 # pfitzseb/ProfileCanvas.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 49
 
 [Open repository](https://github.com/pfitzseb/ProfileCanvas.jl)
+
+[Open detailed stats for pfitzseb/ProfileCanvas.jl](https://reviewgithub.com/rep/pfitzseb/ProfileCanvas.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | 1 | 
 | 2022-09-07 | 49 | 1 | 
 
-
-[Detailed charts & statistics for pfitzseb/ProfileCanvas.jl](https://reviewgithub.com/rep/pfitzseb/ProfileCanvas.jl)

@@ -1,12 +1,14 @@
 # rafaqz/Interfaces.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 39
 
 [Open repository](https://github.com/rafaqz/Interfaces.jl)
+
+[Open detailed stats for rafaqz/Interfaces.jl](https://reviewgithub.com/rep/rafaqz/Interfaces.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 37 | - | 
 | 2022-09-07 | 37 | - | 
 
-
-[Detailed charts & statistics for rafaqz/Interfaces.jl](https://reviewgithub.com/rep/rafaqz/Interfaces.jl)

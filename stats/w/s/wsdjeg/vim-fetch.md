@@ -1,12 +1,14 @@
 # wsdjeg/vim-fetch - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 265
 
 [Open repository](https://github.com/wsdjeg/vim-fetch)
+
+[Open detailed stats for wsdjeg/vim-fetch](https://reviewgithub.com/rep/wsdjeg/vim-fetch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 265 | 10 | 
 | 2022-09-07 | 265 | 10 | 
 
-
-[Detailed charts & statistics for wsdjeg/vim-fetch](https://reviewgithub.com/rep/wsdjeg/vim-fetch)

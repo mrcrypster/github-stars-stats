@@ -1,12 +1,14 @@
 # apache/incubator-streampark - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 581
 
 ★ Stars: 2516
 
 [Open repository](https://github.com/apache/incubator-streampark)
+
+[Open detailed stats for apache/incubator-streampark](https://reviewgithub.com/rep/apache/incubator-streampark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2170 | 546 | 
 | 2022-09-08 | 2035 | 534 | 
 
-
-[Detailed charts & statistics for apache/incubator-streampark](https://reviewgithub.com/rep/apache/incubator-streampark)

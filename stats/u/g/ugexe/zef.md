@@ -1,12 +1,14 @@
 # ugexe/zef - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 44
 
 ★ Stars: 188
 
 [Open repository](https://github.com/ugexe/zef)
+
+[Open detailed stats for ugexe/zef](https://reviewgithub.com/rep/ugexe/zef)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 190 | 44 | 
 | 2022-09-07 | 190 | 44 | 
 
-
-[Detailed charts & statistics for ugexe/zef](https://reviewgithub.com/rep/ugexe/zef)

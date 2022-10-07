@@ -1,12 +1,14 @@
 # lexdene/gcc_five_minute - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 66
 
 ★ Stars: 236
 
 [Open repository](https://github.com/lexdene/gcc_five_minute)
+
+[Open detailed stats for lexdene/gcc_five_minute](https://reviewgithub.com/rep/lexdene/gcc_five_minute)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 236 | 66 | 
 | 2022-09-08 | 236 | 66 | 
 
-
-[Detailed charts & statistics for lexdene/gcc_five_minute](https://reviewgithub.com/rep/lexdene/gcc_five_minute)

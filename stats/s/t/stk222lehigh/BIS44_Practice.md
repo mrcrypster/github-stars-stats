@@ -1,12 +1,14 @@
 # stk222lehigh/BIS44_Practice - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 161
 
 ★ Stars: 0
 
 [Open repository](https://github.com/stk222lehigh/BIS44_Practice)
+
+[Open detailed stats for stk222lehigh/BIS44_Practice](https://reviewgithub.com/rep/stk222lehigh/BIS44_Practice)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 160 | 
 | 2022-09-08 | - | 160 | 
 
-
-[Detailed charts & statistics for stk222lehigh/BIS44_Practice](https://reviewgithub.com/rep/stk222lehigh/BIS44_Practice)

@@ -1,12 +1,14 @@
 # droptica/droopler_project - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 39
 
 [Open repository](https://github.com/droptica/droopler_project)
+
+[Open detailed stats for droptica/droopler_project](https://reviewgithub.com/rep/droptica/droopler_project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 39 | 23 | 
 | 2022-09-08 | 39 | 23 | 
 
-
-[Detailed charts & statistics for droptica/droopler_project](https://reviewgithub.com/rep/droptica/droopler_project)

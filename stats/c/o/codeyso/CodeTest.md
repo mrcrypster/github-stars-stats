@@ -1,12 +1,14 @@
 # codeyso/CodeTest - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 67
 
 ★ Stars: 262
 
 [Open repository](https://github.com/codeyso/CodeTest)
+
+[Open detailed stats for codeyso/CodeTest](https://reviewgithub.com/rep/codeyso/CodeTest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 258 | 66 | 
 | 2022-09-07 | 258 | 66 | 
 
-
-[Detailed charts & statistics for codeyso/CodeTest](https://reviewgithub.com/rep/codeyso/CodeTest)

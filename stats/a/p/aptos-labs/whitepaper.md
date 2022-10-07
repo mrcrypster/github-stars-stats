@@ -1,12 +1,14 @@
 # aptos-labs/whitepaper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 4
 
 [Open repository](https://github.com/aptos-labs/whitepaper)
+
+[Open detailed stats for aptos-labs/whitepaper](https://reviewgithub.com/rep/aptos-labs/whitepaper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 4 | 6 | 
 | 2022-09-14 | 4 | 6 | 
 
-
-[Detailed charts & statistics for aptos-labs/whitepaper](https://reviewgithub.com/rep/aptos-labs/whitepaper)

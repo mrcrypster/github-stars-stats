@@ -1,12 +1,14 @@
 # MLH-Fellowship/pod-22.P3.1-portfolio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 2
 
 [Open repository](https://github.com/MLH-Fellowship/pod-22.P3.1-portfolio)
+
+[Open detailed stats for MLH-Fellowship/pod-22.P3.1-portfolio](https://reviewgithub.com/rep/MLH-Fellowship/pod-22.P3.1-portfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 15 | 
 | 2022-09-07 | 2 | 15 | 
 
-
-[Detailed charts & statistics for MLH-Fellowship/pod-22.P3.1-portfolio](https://reviewgithub.com/rep/MLH-Fellowship/pod-22.P3.1-portfolio)

@@ -1,12 +1,14 @@
 # b3lik0v-ich/windows-rdp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 135
 
 ★ Stars: 2
 
 [Open repository](https://github.com/b3lik0v-ich/windows-rdp)
+
+[Open detailed stats for b3lik0v-ich/windows-rdp](https://reviewgithub.com/rep/b3lik0v-ich/windows-rdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 132 | 
 | 2022-09-08 | 2 | 132 | 
 
-
-[Detailed charts & statistics for b3lik0v-ich/windows-rdp](https://reviewgithub.com/rep/b3lik0v-ich/windows-rdp)

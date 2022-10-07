@@ -1,12 +1,14 @@
 # opentracing-contrib/opentracing-erlang - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 24
 
 [Open repository](https://github.com/opentracing-contrib/opentracing-erlang)
+
+[Open detailed stats for opentracing-contrib/opentracing-erlang](https://reviewgithub.com/rep/opentracing-contrib/opentracing-erlang)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 9 | 
 | 2022-09-08 | 24 | 9 | 
 
-
-[Detailed charts & statistics for opentracing-contrib/opentracing-erlang](https://reviewgithub.com/rep/opentracing-contrib/opentracing-erlang)

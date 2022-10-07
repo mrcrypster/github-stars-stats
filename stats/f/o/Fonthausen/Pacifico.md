@@ -1,12 +1,14 @@
 # Fonthausen/Pacifico - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 10
 
 [Open repository](https://github.com/Fonthausen/Pacifico)
+
+[Open detailed stats for Fonthausen/Pacifico](https://reviewgithub.com/rep/Fonthausen/Pacifico)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 8 | 
 | 2022-09-08 | 8 | 8 | 
 
-
-[Detailed charts & statistics for Fonthausen/Pacifico](https://reviewgithub.com/rep/Fonthausen/Pacifico)

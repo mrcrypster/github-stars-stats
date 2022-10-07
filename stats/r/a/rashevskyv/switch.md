@@ -1,12 +1,14 @@
 # rashevskyv/switch - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 16
 
 [Open repository](https://github.com/rashevskyv/switch)
+
+[Open detailed stats for rashevskyv/switch](https://reviewgithub.com/rep/rashevskyv/switch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 43 | 
 | 2022-09-07 | 16 | 43 | 
 
-
-[Detailed charts & statistics for rashevskyv/switch](https://reviewgithub.com/rep/rashevskyv/switch)

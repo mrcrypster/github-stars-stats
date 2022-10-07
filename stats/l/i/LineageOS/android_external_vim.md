@@ -1,12 +1,14 @@
 # LineageOS/android_external_vim - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 0
 
 [Open repository](https://github.com/LineageOS/android_external_vim)
+
+[Open detailed stats for LineageOS/android_external_vim](https://reviewgithub.com/rep/LineageOS/android_external_vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | - | 10 | 
 | 2022-09-09 | - | 10 | 
 
-
-[Detailed charts & statistics for LineageOS/android_external_vim](https://reviewgithub.com/rep/LineageOS/android_external_vim)

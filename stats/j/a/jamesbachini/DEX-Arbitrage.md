@@ -1,12 +1,14 @@
 # jamesbachini/DEX-Arbitrage - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 177
 
 ★ Stars: 284
 
 [Open repository](https://github.com/jamesbachini/DEX-Arbitrage)
+
+[Open detailed stats for jamesbachini/DEX-Arbitrage](https://reviewgithub.com/rep/jamesbachini/DEX-Arbitrage)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 260 | 151 | 
 | 2022-09-08 | 260 | 150 | 
 
-
-[Detailed charts & statistics for jamesbachini/DEX-Arbitrage](https://reviewgithub.com/rep/jamesbachini/DEX-Arbitrage)

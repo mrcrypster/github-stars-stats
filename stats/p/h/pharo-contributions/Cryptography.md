@@ -1,12 +1,14 @@
 # pharo-contributions/Cryptography - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 11
 
 [Open repository](https://github.com/pharo-contributions/Cryptography)
+
+[Open detailed stats for pharo-contributions/Cryptography](https://reviewgithub.com/rep/pharo-contributions/Cryptography)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | 7 | 
 | 2022-09-08 | 11 | 7 | 
 
-
-[Detailed charts & statistics for pharo-contributions/Cryptography](https://reviewgithub.com/rep/pharo-contributions/Cryptography)

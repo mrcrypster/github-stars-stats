@@ -1,12 +1,14 @@
 # Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3164
 
 ★ Stars: 47
 
 [Open repository](https://github.com/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL)
+
+[Open detailed stats for Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL](https://reviewgithub.com/rep/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 43 | 3061 | 
 | 2022-09-07 | 42 | 3050 | 
 
-
-[Detailed charts & statistics for Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL](https://reviewgithub.com/rep/Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL)

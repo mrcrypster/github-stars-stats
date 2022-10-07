@@ -1,12 +1,14 @@
 # utfpr-dv/sireata - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 115
 
 ★ Stars: 0
 
 [Open repository](https://github.com/utfpr-dv/sireata)
+
+[Open detailed stats for utfpr-dv/sireata](https://reviewgithub.com/rep/utfpr-dv/sireata)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 115 | 
 | 2022-09-08 | - | 113 | 
 
-
-[Detailed charts & statistics for utfpr-dv/sireata](https://reviewgithub.com/rep/utfpr-dv/sireata)

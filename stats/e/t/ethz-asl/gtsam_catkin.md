@@ -1,12 +1,14 @@
 # ethz-asl/gtsam_catkin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 9
 
 [Open repository](https://github.com/ethz-asl/gtsam_catkin)
+
+[Open detailed stats for ethz-asl/gtsam_catkin](https://reviewgithub.com/rep/ethz-asl/gtsam_catkin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 15 | 
 | 2022-09-07 | 9 | 15 | 
 
-
-[Detailed charts & statistics for ethz-asl/gtsam_catkin](https://reviewgithub.com/rep/ethz-asl/gtsam_catkin)

@@ -1,12 +1,14 @@
 # appbrewery/Xylophone-iOS13 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 359
 
 ★ Stars: 78
 
 [Open repository](https://github.com/appbrewery/Xylophone-iOS13)
+
+[Open detailed stats for appbrewery/Xylophone-iOS13](https://reviewgithub.com/rep/appbrewery/Xylophone-iOS13)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 78 | 344 | 
 | 2022-09-08 | 78 | 344 | 
 
-
-[Detailed charts & statistics for appbrewery/Xylophone-iOS13](https://reviewgithub.com/rep/appbrewery/Xylophone-iOS13)

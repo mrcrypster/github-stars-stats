@@ -1,12 +1,14 @@
 # groxio-learning/otp_cm5 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 1
 
 [Open repository](https://github.com/groxio-learning/otp_cm5)
+
+[Open detailed stats for groxio-learning/otp_cm5](https://reviewgithub.com/rep/groxio-learning/otp_cm5)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | 1 | 4 | 
 | 2022-09-30 | 1 | 4 | 
 
-
-[Detailed charts & statistics for groxio-learning/otp_cm5](https://reviewgithub.com/rep/groxio-learning/otp_cm5)

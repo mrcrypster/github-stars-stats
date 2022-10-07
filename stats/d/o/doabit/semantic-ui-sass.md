@@ -1,12 +1,14 @@
 # doabit/semantic-ui-sass - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 199
 
 ★ Stars: 1140
 
 [Open repository](https://github.com/doabit/semantic-ui-sass)
+
+[Open detailed stats for doabit/semantic-ui-sass](https://reviewgithub.com/rep/doabit/semantic-ui-sass)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1140 | 199 | 
 | 2022-09-08 | 1140 | 199 | 
 
-
-[Detailed charts & statistics for doabit/semantic-ui-sass](https://reviewgithub.com/rep/doabit/semantic-ui-sass)

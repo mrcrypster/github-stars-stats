@@ -1,12 +1,14 @@
 # voxpupuli/puppet-gerrit - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/voxpupuli/puppet-gerrit)
+
+[Open detailed stats for voxpupuli/puppet-gerrit](https://reviewgithub.com/rep/voxpupuli/puppet-gerrit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 14 | 
 | 2022-09-08 | 1 | 14 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-gerrit](https://reviewgithub.com/rep/voxpupuli/puppet-gerrit)

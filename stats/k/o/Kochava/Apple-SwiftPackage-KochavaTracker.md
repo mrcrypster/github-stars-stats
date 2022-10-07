@@ -1,12 +1,14 @@
 # Kochava/Apple-SwiftPackage-KochavaTracker - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Kochava/Apple-SwiftPackage-KochavaTracker)
+
+[Open detailed stats for Kochava/Apple-SwiftPackage-KochavaTracker](https://reviewgithub.com/rep/Kochava/Apple-SwiftPackage-KochavaTracker)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -30,5 +32,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-20 | 3 | 1 | 
 | 2022-09-19 | 3 | 1 | 
 
-
-[Detailed charts & statistics for Kochava/Apple-SwiftPackage-KochavaTracker](https://reviewgithub.com/rep/Kochava/Apple-SwiftPackage-KochavaTracker)

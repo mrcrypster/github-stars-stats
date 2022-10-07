@@ -1,12 +1,14 @@
 # mentorchita/my_yourname_site - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 70
 
 ★ Stars: 0
 
 [Open repository](https://github.com/mentorchita/my_yourname_site)
+
+[Open detailed stats for mentorchita/my_yourname_site](https://reviewgithub.com/rep/mentorchita/my_yourname_site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | - | 65 | 
 | 2022-09-29 | - | 61 | 
 
-
-[Detailed charts & statistics for mentorchita/my_yourname_site](https://reviewgithub.com/rep/mentorchita/my_yourname_site)

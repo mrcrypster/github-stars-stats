@@ -1,12 +1,14 @@
 # shipt/rails_to_iana_tz - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/shipt/rails_to_iana_tz)
+
+[Open detailed stats for shipt/rails_to_iana_tz](https://reviewgithub.com/rep/shipt/rails_to_iana_tz)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for shipt/rails_to_iana_tz](https://reviewgithub.com/rep/shipt/rails_to_iana_tz)

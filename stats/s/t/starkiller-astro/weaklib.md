@@ -1,12 +1,14 @@
 # starkiller-astro/weaklib - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 7
 
 [Open repository](https://github.com/starkiller-astro/weaklib)
+
+[Open detailed stats for starkiller-astro/weaklib](https://reviewgithub.com/rep/starkiller-astro/weaklib)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 2 | 
 | 2022-09-07 | 6 | 2 | 
 
-
-[Detailed charts & statistics for starkiller-astro/weaklib](https://reviewgithub.com/rep/starkiller-astro/weaklib)

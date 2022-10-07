@@ -1,12 +1,14 @@
 # HubSpot/facewall - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
 ★ Stars: 139
 
 [Open repository](https://github.com/HubSpot/facewall)
+
+[Open detailed stats for HubSpot/facewall](https://reviewgithub.com/rep/HubSpot/facewall)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 139 | 37 | 
 | 2022-09-07 | 139 | 37 | 
 
-
-[Detailed charts & statistics for HubSpot/facewall](https://reviewgithub.com/rep/HubSpot/facewall)

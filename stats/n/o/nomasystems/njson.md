@@ -1,12 +1,14 @@
 # nomasystems/njson - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/nomasystems/njson)
+
+[Open detailed stats for nomasystems/njson](https://reviewgithub.com/rep/nomasystems/njson)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | - | 
 | 2022-09-07 | 6 | - | 
 
-
-[Detailed charts & statistics for nomasystems/njson](https://reviewgithub.com/rep/nomasystems/njson)

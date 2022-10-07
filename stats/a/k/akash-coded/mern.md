@@ -1,12 +1,14 @@
 # akash-coded/mern - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 69
 
 [Open repository](https://github.com/akash-coded/mern)
+
+[Open detailed stats for akash-coded/mern](https://reviewgithub.com/rep/akash-coded/mern)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 67 | 13 | 
 | 2022-09-07 | 67 | 13 | 
 
-
-[Detailed charts & statistics for akash-coded/mern](https://reviewgithub.com/rep/akash-coded/mern)

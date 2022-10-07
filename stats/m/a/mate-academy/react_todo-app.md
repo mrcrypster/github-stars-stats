@@ -1,12 +1,14 @@
 # mate-academy/react_todo-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 445
 
 ★ Stars: 2
 
 [Open repository](https://github.com/mate-academy/react_todo-app)
+
+[Open detailed stats for mate-academy/react_todo-app](https://reviewgithub.com/rep/mate-academy/react_todo-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 438 | 
 | 2022-09-07 | 2 | 438 | 
 
-
-[Detailed charts & statistics for mate-academy/react_todo-app](https://reviewgithub.com/rep/mate-academy/react_todo-app)

@@ -1,12 +1,14 @@
 # TheSadError/NIVOSITE - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 8
 
 [Open repository](https://github.com/TheSadError/NIVOSITE)
+
+[Open detailed stats for TheSadError/NIVOSITE](https://reviewgithub.com/rep/TheSadError/NIVOSITE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 31 | 
 | 2022-09-07 | 8 | 31 | 
 
-
-[Detailed charts & statistics for TheSadError/NIVOSITE](https://reviewgithub.com/rep/TheSadError/NIVOSITE)

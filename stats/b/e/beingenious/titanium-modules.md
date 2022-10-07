@@ -1,12 +1,14 @@
 # beingenious/titanium-modules - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/beingenious/titanium-modules)
+
+[Open detailed stats for beingenious/titanium-modules](https://reviewgithub.com/rep/beingenious/titanium-modules)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for beingenious/titanium-modules](https://reviewgithub.com/rep/beingenious/titanium-modules)

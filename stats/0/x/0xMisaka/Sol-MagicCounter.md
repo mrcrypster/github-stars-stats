@@ -1,12 +1,14 @@
 # 0xMisaka/Sol-MagicCounter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 90
 
 [Open repository](https://github.com/0xMisaka/Sol-MagicCounter)
+
+[Open detailed stats for 0xMisaka/Sol-MagicCounter](https://reviewgithub.com/rep/0xMisaka/Sol-MagicCounter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 92 | 6 | 
 | 2022-09-08 | 92 | 6 | 
 
-
-[Detailed charts & statistics for 0xMisaka/Sol-MagicCounter](https://reviewgithub.com/rep/0xMisaka/Sol-MagicCounter)

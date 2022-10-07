@@ -1,12 +1,14 @@
 # seancorfield/build-uber-log4j2-handler - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/seancorfield/build-uber-log4j2-handler)
+
+[Open detailed stats for seancorfield/build-uber-log4j2-handler](https://reviewgithub.com/rep/seancorfield/build-uber-log4j2-handler)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 2 | 
 | 2022-09-07 | 1 | 2 | 
 
-
-[Detailed charts & statistics for seancorfield/build-uber-log4j2-handler](https://reviewgithub.com/rep/seancorfield/build-uber-log4j2-handler)

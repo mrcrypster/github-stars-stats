@@ -1,12 +1,14 @@
 # eirslett/frontend-maven-plugin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 830
 
 ★ Stars: 3891
 
 [Open repository](https://github.com/eirslett/frontend-maven-plugin)
+
+[Open detailed stats for eirslett/frontend-maven-plugin](https://reviewgithub.com/rep/eirslett/frontend-maven-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 3874 | 825 | 
 | 2022-09-08 | 3873 | 825 | 
 
-
-[Detailed charts & statistics for eirslett/frontend-maven-plugin](https://reviewgithub.com/rep/eirslett/frontend-maven-plugin)

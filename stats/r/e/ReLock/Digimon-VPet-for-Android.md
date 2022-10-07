@@ -1,12 +1,14 @@
 # ReLock/Digimon-VPet-for-Android - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ReLock/Digimon-VPet-for-Android)
+
+[Open detailed stats for ReLock/Digimon-VPet-for-Android](https://reviewgithub.com/rep/ReLock/Digimon-VPet-for-Android)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 1 | 1 | 
 | 2022-09-15 | 1 | 1 | 
 
-
-[Detailed charts & statistics for ReLock/Digimon-VPet-for-Android](https://reviewgithub.com/rep/ReLock/Digimon-VPet-for-Android)

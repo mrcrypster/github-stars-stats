@@ -1,12 +1,14 @@
 # sipgate/monitoring-plugins - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 5
 
 [Open repository](https://github.com/sipgate/monitoring-plugins)
+
+[Open detailed stats for sipgate/monitoring-plugins](https://reviewgithub.com/rep/sipgate/monitoring-plugins)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 5 | 2 | 
 | 2022-09-08 | 5 | 2 | 
 
-
-[Detailed charts & statistics for sipgate/monitoring-plugins](https://reviewgithub.com/rep/sipgate/monitoring-plugins)

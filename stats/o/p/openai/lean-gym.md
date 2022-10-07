@@ -1,12 +1,14 @@
 # openai/lean-gym - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 73
 
 [Open repository](https://github.com/openai/lean-gym)
+
+[Open detailed stats for openai/lean-gym](https://reviewgithub.com/rep/openai/lean-gym)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 72 | 12 | 
 | 2022-09-08 | 71 | 12 | 
 
-
-[Detailed charts & statistics for openai/lean-gym](https://reviewgithub.com/rep/openai/lean-gym)

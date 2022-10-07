@@ -1,12 +1,14 @@
 # perlancar/perl-File-Trash-FreeDesktop - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/perlancar/perl-File-Trash-FreeDesktop)
+
+[Open detailed stats for perlancar/perl-File-Trash-FreeDesktop](https://reviewgithub.com/rep/perlancar/perl-File-Trash-FreeDesktop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for perlancar/perl-File-Trash-FreeDesktop](https://reviewgithub.com/rep/perlancar/perl-File-Trash-FreeDesktop)

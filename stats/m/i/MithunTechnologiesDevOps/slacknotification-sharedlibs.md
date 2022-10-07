@@ -1,12 +1,14 @@
 # MithunTechnologiesDevOps/slacknotification-sharedlibs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 305
 
 ★ Stars: 2
 
 [Open repository](https://github.com/MithunTechnologiesDevOps/slacknotification-sharedlibs)
+
+[Open detailed stats for MithunTechnologiesDevOps/slacknotification-sharedlibs](https://reviewgithub.com/rep/MithunTechnologiesDevOps/slacknotification-sharedlibs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 275 | 
 | 2022-09-07 | 2 | 275 | 
 
-
-[Detailed charts & statistics for MithunTechnologiesDevOps/slacknotification-sharedlibs](https://reviewgithub.com/rep/MithunTechnologiesDevOps/slacknotification-sharedlibs)

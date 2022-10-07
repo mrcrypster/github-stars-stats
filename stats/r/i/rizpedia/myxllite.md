@@ -1,12 +1,14 @@
 # rizpedia/myxllite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 18
 
 [Open repository](https://github.com/rizpedia/myxllite)
+
+[Open detailed stats for rizpedia/myxllite](https://reviewgithub.com/rep/rizpedia/myxllite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 12 | 
 | 2022-09-07 | 16 | 12 | 
 
-
-[Detailed charts & statistics for rizpedia/myxllite](https://reviewgithub.com/rep/rizpedia/myxllite)

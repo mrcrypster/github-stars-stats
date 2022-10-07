@@ -1,12 +1,14 @@
 # programming-for-data-science/book-exercises - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 715
 
 ★ Stars: 110
 
 [Open repository](https://github.com/programming-for-data-science/book-exercises)
+
+[Open detailed stats for programming-for-data-science/book-exercises](https://reviewgithub.com/rep/programming-for-data-science/book-exercises)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 109 | 709 | 
 | 2022-09-07 | 109 | 709 | 
 
-
-[Detailed charts & statistics for programming-for-data-science/book-exercises](https://reviewgithub.com/rep/programming-for-data-science/book-exercises)

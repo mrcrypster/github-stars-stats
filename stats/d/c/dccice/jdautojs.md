@@ -1,12 +1,14 @@
 # dccice/jdautojs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 81
 
 ★ Stars: 109
 
 [Open repository](https://github.com/dccice/jdautojs)
+
+[Open detailed stats for dccice/jdautojs](https://reviewgithub.com/rep/dccice/jdautojs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 109 | 81 | 
 | 2022-09-07 | 109 | 81 | 
 
-
-[Detailed charts & statistics for dccice/jdautojs](https://reviewgithub.com/rep/dccice/jdautojs)

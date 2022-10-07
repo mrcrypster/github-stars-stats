@@ -1,12 +1,14 @@
 # the-pudding/censorship - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 43
 
 [Open repository](https://github.com/the-pudding/censorship)
+
+[Open detailed stats for the-pudding/censorship](https://reviewgithub.com/rep/the-pudding/censorship)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 42 | - | 
 | 2022-09-07 | 42 | - | 
 
-
-[Detailed charts & statistics for the-pudding/censorship](https://reviewgithub.com/rep/the-pudding/censorship)

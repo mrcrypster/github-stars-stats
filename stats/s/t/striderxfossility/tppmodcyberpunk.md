@@ -1,12 +1,14 @@
 # striderxfossility/tppmodcyberpunk - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 21
 
 [Open repository](https://github.com/striderxfossility/tppmodcyberpunk)
+
+[Open detailed stats for striderxfossility/tppmodcyberpunk](https://reviewgithub.com/rep/striderxfossility/tppmodcyberpunk)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 3 | 
 | 2022-09-08 | 20 | 3 | 
 
-
-[Detailed charts & statistics for striderxfossility/tppmodcyberpunk](https://reviewgithub.com/rep/striderxfossility/tppmodcyberpunk)

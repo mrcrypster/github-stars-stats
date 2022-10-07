@@ -1,12 +1,14 @@
 # coq-community/topology - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 38
 
 [Open repository](https://github.com/coq-community/topology)
+
+[Open detailed stats for coq-community/topology](https://reviewgithub.com/rep/coq-community/topology)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 38 | 8 | 
 | 2022-09-07 | 38 | 8 | 
 
-
-[Detailed charts & statistics for coq-community/topology](https://reviewgithub.com/rep/coq-community/topology)

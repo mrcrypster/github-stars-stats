@@ -1,12 +1,14 @@
 # yuru7/HackGen - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 20
 
 ★ Stars: 1404
 
 [Open repository](https://github.com/yuru7/HackGen)
+
+[Open detailed stats for yuru7/HackGen](https://reviewgithub.com/rep/yuru7/HackGen)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1381 | 20 | 
 | 2022-09-07 | 1381 | 20 | 
 
-
-[Detailed charts & statistics for yuru7/HackGen](https://reviewgithub.com/rep/yuru7/HackGen)

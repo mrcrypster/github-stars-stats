@@ -1,12 +1,14 @@
 # StefanSalewski/salewski-chess - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/StefanSalewski/salewski-chess)
+
+[Open detailed stats for StefanSalewski/salewski-chess](https://reviewgithub.com/rep/StefanSalewski/salewski-chess)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 17 | - | 
 | 2022-09-08 | 17 | - | 
 
-
-[Detailed charts & statistics for StefanSalewski/salewski-chess](https://reviewgithub.com/rep/StefanSalewski/salewski-chess)

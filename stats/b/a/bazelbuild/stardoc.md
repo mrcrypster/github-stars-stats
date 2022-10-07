@@ -1,12 +1,14 @@
 # bazelbuild/stardoc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 28
 
 ★ Stars: 71
 
 [Open repository](https://github.com/bazelbuild/stardoc)
+
+[Open detailed stats for bazelbuild/stardoc](https://reviewgithub.com/rep/bazelbuild/stardoc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 68 | 28 | 
 | 2022-09-08 | 68 | 28 | 
 
-
-[Detailed charts & statistics for bazelbuild/stardoc](https://reviewgithub.com/rep/bazelbuild/stardoc)

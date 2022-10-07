@@ -1,12 +1,14 @@
 # ardoq/ardoq-swagger-addon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/ardoq/ardoq-swagger-addon)
+
+[Open detailed stats for ardoq/ardoq-swagger-addon](https://reviewgithub.com/rep/ardoq/ardoq-swagger-addon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for ardoq/ardoq-swagger-addon](https://reviewgithub.com/rep/ardoq/ardoq-swagger-addon)

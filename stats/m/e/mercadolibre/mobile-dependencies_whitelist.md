@@ -1,12 +1,14 @@
 # mercadolibre/mobile-dependencies_whitelist - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 385
 
 ★ Stars: 20
 
 [Open repository](https://github.com/mercadolibre/mobile-dependencies_whitelist)
+
+[Open detailed stats for mercadolibre/mobile-dependencies_whitelist](https://reviewgithub.com/rep/mercadolibre/mobile-dependencies_whitelist)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 21 | 359 | 
 | 2022-09-08 | 21 | 358 | 
 
-
-[Detailed charts & statistics for mercadolibre/mobile-dependencies_whitelist](https://reviewgithub.com/rep/mercadolibre/mobile-dependencies_whitelist)

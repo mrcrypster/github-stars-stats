@@ -1,12 +1,14 @@
 # opinsys/edulaboro - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/opinsys/edulaboro)
+
+[Open detailed stats for opinsys/edulaboro](https://reviewgithub.com/rep/opinsys/edulaboro)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 2 | 
 | 2022-09-08 | 2 | 2 | 
 
-
-[Detailed charts & statistics for opinsys/edulaboro](https://reviewgithub.com/rep/opinsys/edulaboro)

@@ -1,12 +1,14 @@
 # deaaprizal/cuyuniverse-forum - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 137
 
 ★ Stars: 157
 
 [Open repository](https://github.com/deaaprizal/cuyuniverse-forum)
+
+[Open detailed stats for deaaprizal/cuyuniverse-forum](https://reviewgithub.com/rep/deaaprizal/cuyuniverse-forum)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 148 | 137 | 
 | 2022-09-08 | 148 | 137 | 
 
-
-[Detailed charts & statistics for deaaprizal/cuyuniverse-forum](https://reviewgithub.com/rep/deaaprizal/cuyuniverse-forum)

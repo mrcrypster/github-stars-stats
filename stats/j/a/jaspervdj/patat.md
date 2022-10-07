@@ -1,12 +1,14 @@
 # jaspervdj/patat - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 54
 
 ★ Stars: 1858
 
 [Open repository](https://github.com/jaspervdj/patat)
+
+[Open detailed stats for jaspervdj/patat](https://reviewgithub.com/rep/jaspervdj/patat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1845 | 54 | 
 | 2022-09-07 | 1845 | 54 | 
 
-
-[Detailed charts & statistics for jaspervdj/patat](https://reviewgithub.com/rep/jaspervdj/patat)

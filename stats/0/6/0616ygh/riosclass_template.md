@@ -1,12 +1,14 @@
 # 0616ygh/riosclass_template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/0616ygh/riosclass_template)
+
+[Open detailed stats for 0616ygh/riosclass_template](https://reviewgithub.com/rep/0616ygh/riosclass_template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -21,5 +23,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-30 | - | 7 | 
 | 2022-09-29 | - | 7 | 
 
-
-[Detailed charts & statistics for 0616ygh/riosclass_template](https://reviewgithub.com/rep/0616ygh/riosclass_template)

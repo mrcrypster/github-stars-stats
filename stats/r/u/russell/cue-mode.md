@@ -1,12 +1,14 @@
 # russell/cue-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 6
 
 [Open repository](https://github.com/russell/cue-mode)
+
+[Open detailed stats for russell/cue-mode](https://reviewgithub.com/rep/russell/cue-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 2 | 
 | 2022-09-08 | 5 | 2 | 
 
-
-[Detailed charts & statistics for russell/cue-mode](https://reviewgithub.com/rep/russell/cue-mode)

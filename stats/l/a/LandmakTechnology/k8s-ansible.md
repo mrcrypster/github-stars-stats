@@ -1,12 +1,14 @@
 # LandmakTechnology/k8s-ansible - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 285
 
 ★ Stars: 0
 
 [Open repository](https://github.com/LandmakTechnology/k8s-ansible)
+
+[Open detailed stats for LandmakTechnology/k8s-ansible](https://reviewgithub.com/rep/LandmakTechnology/k8s-ansible)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 281 | 
 | 2022-09-08 | - | 280 | 
 
-
-[Detailed charts & statistics for LandmakTechnology/k8s-ansible](https://reviewgithub.com/rep/LandmakTechnology/k8s-ansible)

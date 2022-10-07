@@ -1,12 +1,14 @@
 # flyx/Zicross - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 26
 
 [Open repository](https://github.com/flyx/Zicross)
+
+[Open detailed stats for flyx/Zicross](https://reviewgithub.com/rep/flyx/Zicross)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 19 | 1 | 
 | 2022-09-21 | 19 | 1 | 
 
-
-[Detailed charts & statistics for flyx/Zicross](https://reviewgithub.com/rep/flyx/Zicross)

@@ -1,12 +1,14 @@
 # afgprogrammer/Flutter-simple-chat-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 49
 
 [Open repository](https://github.com/afgprogrammer/Flutter-simple-chat-app)
+
+[Open detailed stats for afgprogrammer/Flutter-simple-chat-app](https://reviewgithub.com/rep/afgprogrammer/Flutter-simple-chat-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 7 | 
 | 2022-09-07 | 44 | 7 | 
 
-
-[Detailed charts & statistics for afgprogrammer/Flutter-simple-chat-app](https://reviewgithub.com/rep/afgprogrammer/Flutter-simple-chat-app)

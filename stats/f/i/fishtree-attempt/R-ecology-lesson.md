@@ -1,12 +1,14 @@
 # fishtree-attempt/R-ecology-lesson - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/fishtree-attempt/R-ecology-lesson)
+
+[Open detailed stats for fishtree-attempt/R-ecology-lesson](https://reviewgithub.com/rep/fishtree-attempt/R-ecology-lesson)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 18 | 
 | 2022-09-08 | 1 | 18 | 
 
-
-[Detailed charts & statistics for fishtree-attempt/R-ecology-lesson](https://reviewgithub.com/rep/fishtree-attempt/R-ecology-lesson)

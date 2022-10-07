@@ -1,12 +1,14 @@
 # upenn-cis5520/02-higherorder - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 0
 
 [Open repository](https://github.com/upenn-cis5520/02-higherorder)
+
+[Open detailed stats for upenn-cis5520/02-higherorder](https://reviewgithub.com/rep/upenn-cis5520/02-higherorder)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | 18 | 
 | 2022-09-11 | - | 15 | 
 
-
-[Detailed charts & statistics for upenn-cis5520/02-higherorder](https://reviewgithub.com/rep/upenn-cis5520/02-higherorder)

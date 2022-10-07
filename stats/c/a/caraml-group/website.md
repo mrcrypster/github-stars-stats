@@ -1,12 +1,14 @@
 # caraml-group/website - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 1
 
 [Open repository](https://github.com/caraml-group/website)
+
+[Open detailed stats for caraml-group/website](https://reviewgithub.com/rep/caraml-group/website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 8 | 
 | 2022-09-08 | 1 | 8 | 
 
-
-[Detailed charts & statistics for caraml-group/website](https://reviewgithub.com/rep/caraml-group/website)

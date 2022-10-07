@@ -1,12 +1,14 @@
 # tokuhirom/Teng-Plugin-TextTable - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/tokuhirom/Teng-Plugin-TextTable)
+
+[Open detailed stats for tokuhirom/Teng-Plugin-TextTable](https://reviewgithub.com/rep/tokuhirom/Teng-Plugin-TextTable)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 1 | 1 | 
 | 2022-10-02 | 1 | 1 | 
 
-
-[Detailed charts & statistics for tokuhirom/Teng-Plugin-TextTable](https://reviewgithub.com/rep/tokuhirom/Teng-Plugin-TextTable)

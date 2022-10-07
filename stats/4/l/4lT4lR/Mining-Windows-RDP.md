@@ -1,12 +1,14 @@
 # 4lT4lR/Mining-Windows-RDP - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
 ★ Stars: 0
 
 [Open repository](https://github.com/4lT4lR/Mining-Windows-RDP)
+
+[Open detailed stats for 4lT4lR/Mining-Windows-RDP](https://reviewgithub.com/rep/4lT4lR/Mining-Windows-RDP)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 18 | 
 | 2022-09-07 | - | 18 | 
 
-
-[Detailed charts & statistics for 4lT4lR/Mining-Windows-RDP](https://reviewgithub.com/rep/4lT4lR/Mining-Windows-RDP)

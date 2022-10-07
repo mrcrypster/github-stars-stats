@@ -1,12 +1,14 @@
 # practicalli/neovim-config-redux - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 20
 
 [Open repository](https://github.com/practicalli/neovim-config-redux)
+
+[Open detailed stats for practicalli/neovim-config-redux](https://reviewgithub.com/rep/practicalli/neovim-config-redux)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 1 | 
 | 2022-09-08 | 20 | 1 | 
 
-
-[Detailed charts & statistics for practicalli/neovim-config-redux](https://reviewgithub.com/rep/practicalli/neovim-config-redux)

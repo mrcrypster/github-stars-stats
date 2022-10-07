@@ -1,12 +1,14 @@
 # well-typed/plutonomy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 29
 
 [Open repository](https://github.com/well-typed/plutonomy)
+
+[Open detailed stats for well-typed/plutonomy](https://reviewgithub.com/rep/well-typed/plutonomy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 26 | 5 | 
 | 2022-09-07 | 27 | 5 | 
 
-
-[Detailed charts & statistics for well-typed/plutonomy](https://reviewgithub.com/rep/well-typed/plutonomy)

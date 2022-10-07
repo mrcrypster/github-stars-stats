@@ -1,12 +1,14 @@
 # getoutreach/jsonnet-libs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 3
 
 [Open repository](https://github.com/getoutreach/jsonnet-libs)
+
+[Open detailed stats for getoutreach/jsonnet-libs](https://reviewgithub.com/rep/getoutreach/jsonnet-libs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 10 | 
 | 2022-09-08 | 1 | 10 | 
 
-
-[Detailed charts & statistics for getoutreach/jsonnet-libs](https://reviewgithub.com/rep/getoutreach/jsonnet-libs)

@@ -1,12 +1,14 @@
 # learn-co-curriculum/react-hooks-intro-to-npm-readme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 177
 
 ★ Stars: 2
 
 [Open repository](https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme)
+
+[Open detailed stats for learn-co-curriculum/react-hooks-intro-to-npm-readme](https://reviewgithub.com/rep/learn-co-curriculum/react-hooks-intro-to-npm-readme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 158 | 
 | 2022-09-07 | 1 | 158 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/react-hooks-intro-to-npm-readme](https://reviewgithub.com/rep/learn-co-curriculum/react-hooks-intro-to-npm-readme)

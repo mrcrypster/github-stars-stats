@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-rds-cloudwatch-sns-alarms - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 92
 
 ★ Stars: 92
 
 [Open repository](https://github.com/cloudposse/terraform-aws-rds-cloudwatch-sns-alarms)
+
+[Open detailed stats for cloudposse/terraform-aws-rds-cloudwatch-sns-alarms](https://reviewgithub.com/rep/cloudposse/terraform-aws-rds-cloudwatch-sns-alarms)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 91 | 91 | 
 | 2022-09-07 | 91 | 90 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-rds-cloudwatch-sns-alarms](https://reviewgithub.com/rep/cloudposse/terraform-aws-rds-cloudwatch-sns-alarms)

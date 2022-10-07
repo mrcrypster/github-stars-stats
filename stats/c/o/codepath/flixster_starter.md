@@ -1,12 +1,14 @@
 # codepath/flixster_starter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 119
 
 ★ Stars: 2
 
 [Open repository](https://github.com/codepath/flixster_starter)
+
+[Open detailed stats for codepath/flixster_starter](https://reviewgithub.com/rep/codepath/flixster_starter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 120 | 
 | 2022-09-07 | 2 | 120 | 
 
-
-[Detailed charts & statistics for codepath/flixster_starter](https://reviewgithub.com/rep/codepath/flixster_starter)

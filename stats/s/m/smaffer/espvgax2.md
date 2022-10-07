@@ -1,12 +1,14 @@
 # smaffer/espvgax2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 33
 
 [Open repository](https://github.com/smaffer/espvgax2)
+
+[Open detailed stats for smaffer/espvgax2](https://reviewgithub.com/rep/smaffer/espvgax2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 33 | 10 | 
 | 2022-09-08 | 33 | 10 | 
 
-
-[Detailed charts & statistics for smaffer/espvgax2](https://reviewgithub.com/rep/smaffer/espvgax2)

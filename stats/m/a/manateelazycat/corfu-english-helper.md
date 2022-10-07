@@ -1,12 +1,14 @@
 # manateelazycat/corfu-english-helper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/manateelazycat/corfu-english-helper)
+
+[Open detailed stats for manateelazycat/corfu-english-helper](https://reviewgithub.com/rep/manateelazycat/corfu-english-helper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | - | 
 | 2022-09-07 | 8 | - | 
 
-
-[Detailed charts & statistics for manateelazycat/corfu-english-helper](https://reviewgithub.com/rep/manateelazycat/corfu-english-helper)

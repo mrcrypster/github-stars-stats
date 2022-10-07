@@ -1,12 +1,14 @@
 # shimming-toolbox/CST-simulation-macros - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/shimming-toolbox/CST-simulation-macros)
+
+[Open detailed stats for shimming-toolbox/CST-simulation-macros](https://reviewgithub.com/rep/shimming-toolbox/CST-simulation-macros)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for shimming-toolbox/CST-simulation-macros](https://reviewgithub.com/rep/shimming-toolbox/CST-simulation-macros)

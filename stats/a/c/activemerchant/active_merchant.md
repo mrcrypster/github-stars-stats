@@ -1,12 +1,14 @@
 # activemerchant/active_merchant - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2512
 
 ★ Stars: 4448
 
 [Open repository](https://github.com/activemerchant/active_merchant)
+
+[Open detailed stats for activemerchant/active_merchant](https://reviewgithub.com/rep/activemerchant/active_merchant)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4445 | 2510 | 
 | 2022-09-08 | 4446 | 2511 | 
 
-
-[Detailed charts & statistics for activemerchant/active_merchant](https://reviewgithub.com/rep/activemerchant/active_merchant)

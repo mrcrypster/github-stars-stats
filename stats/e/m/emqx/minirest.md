@@ -1,12 +1,14 @@
 # emqx/minirest - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 31
 
 [Open repository](https://github.com/emqx/minirest)
+
+[Open detailed stats for emqx/minirest](https://reviewgithub.com/rep/emqx/minirest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 30 | 13 | 
 | 2022-09-07 | 30 | 13 | 
 
-
-[Detailed charts & statistics for emqx/minirest](https://reviewgithub.com/rep/emqx/minirest)

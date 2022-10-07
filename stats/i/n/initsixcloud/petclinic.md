@@ -1,12 +1,14 @@
 # initsixcloud/petclinic - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 102
 
 ★ Stars: 2
 
 [Open repository](https://github.com/initsixcloud/petclinic)
+
+[Open detailed stats for initsixcloud/petclinic](https://reviewgithub.com/rep/initsixcloud/petclinic)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 93 | 
 | 2022-09-07 | - | 93 | 
 
-
-[Detailed charts & statistics for initsixcloud/petclinic](https://reviewgithub.com/rep/initsixcloud/petclinic)

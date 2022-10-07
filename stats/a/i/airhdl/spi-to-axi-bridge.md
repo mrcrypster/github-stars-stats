@@ -1,12 +1,14 @@
 # airhdl/spi-to-axi-bridge - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 14
 
 [Open repository](https://github.com/airhdl/spi-to-axi-bridge)
+
+[Open detailed stats for airhdl/spi-to-axi-bridge](https://reviewgithub.com/rep/airhdl/spi-to-axi-bridge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 4 | 
 | 2022-09-07 | 13 | 4 | 
 
-
-[Detailed charts & statistics for airhdl/spi-to-axi-bridge](https://reviewgithub.com/rep/airhdl/spi-to-axi-bridge)

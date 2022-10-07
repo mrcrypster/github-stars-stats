@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-mwaa - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 11
 
 [Open repository](https://github.com/cloudposse/terraform-aws-mwaa)
+
+[Open detailed stats for cloudposse/terraform-aws-mwaa](https://reviewgithub.com/rep/cloudposse/terraform-aws-mwaa)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 4 | 
 | 2022-09-08 | 10 | 4 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-mwaa](https://reviewgithub.com/rep/cloudposse/terraform-aws-mwaa)

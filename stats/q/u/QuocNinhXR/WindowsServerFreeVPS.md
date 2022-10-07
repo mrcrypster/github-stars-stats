@@ -6,9 +6,9 @@
 
 [Open repository](https://github.com/QuocNinhXR/WindowsServerFreeVPS)
 
+[Open detailed stats for QuocNinhXR/WindowsServerFreeVPS](https://reviewgithub.com/rep/QuocNinhXR/WindowsServerFreeVPS)
+
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
 
-
-[Detailed charts & statistics for QuocNinhXR/WindowsServerFreeVPS](https://reviewgithub.com/rep/QuocNinhXR/WindowsServerFreeVPS)

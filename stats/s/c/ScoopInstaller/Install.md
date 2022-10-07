@@ -1,12 +1,14 @@
 # ScoopInstaller/Install - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 169
 
 [Open repository](https://github.com/ScoopInstaller/Install)
+
+[Open detailed stats for ScoopInstaller/Install](https://reviewgithub.com/rep/ScoopInstaller/Install)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 149 | 33 | 
 | 2022-09-07 | 150 | 33 | 
 
-
-[Detailed charts & statistics for ScoopInstaller/Install](https://reviewgithub.com/rep/ScoopInstaller/Install)

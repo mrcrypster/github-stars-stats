@@ -1,12 +1,14 @@
 # HL7/JIRA-Spec-Artifacts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 84
 
 ★ Stars: 5
 
 [Open repository](https://github.com/HL7/JIRA-Spec-Artifacts)
+
+[Open detailed stats for HL7/JIRA-Spec-Artifacts](https://reviewgithub.com/rep/HL7/JIRA-Spec-Artifacts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 83 | 
 | 2022-09-08 | 5 | 83 | 
 
-
-[Detailed charts & statistics for HL7/JIRA-Spec-Artifacts](https://reviewgithub.com/rep/HL7/JIRA-Spec-Artifacts)

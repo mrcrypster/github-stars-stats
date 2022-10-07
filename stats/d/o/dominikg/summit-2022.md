@@ -1,12 +1,14 @@
 # dominikg/summit-2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 15
 
 [Open repository](https://github.com/dominikg/summit-2022)
+
+[Open detailed stats for dominikg/summit-2022](https://reviewgithub.com/rep/dominikg/summit-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | 13 | - | 
 | 2022-09-11 | 13 | - | 
 
-
-[Detailed charts & statistics for dominikg/summit-2022](https://reviewgithub.com/rep/dominikg/summit-2022)

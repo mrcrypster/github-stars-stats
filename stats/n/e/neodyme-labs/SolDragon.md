@@ -1,12 +1,14 @@
 # neodyme-labs/SolDragon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 63
 
 [Open repository](https://github.com/neodyme-labs/SolDragon)
+
+[Open detailed stats for neodyme-labs/SolDragon](https://reviewgithub.com/rep/neodyme-labs/SolDragon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 63 | 6 | 
 | 2022-09-07 | 63 | 6 | 
 
-
-[Detailed charts & statistics for neodyme-labs/SolDragon](https://reviewgithub.com/rep/neodyme-labs/SolDragon)

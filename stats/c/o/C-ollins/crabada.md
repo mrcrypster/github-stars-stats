@@ -1,12 +1,14 @@
 # C-ollins/crabada - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 38
 
 ★ Stars: 129
 
 [Open repository](https://github.com/C-ollins/crabada)
+
+[Open detailed stats for C-ollins/crabada](https://reviewgithub.com/rep/C-ollins/crabada)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 128 | 38 | 
 | 2022-09-08 | 128 | 38 | 
 
-
-[Detailed charts & statistics for C-ollins/crabada](https://reviewgithub.com/rep/C-ollins/crabada)

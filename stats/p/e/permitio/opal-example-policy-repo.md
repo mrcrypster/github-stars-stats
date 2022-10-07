@@ -1,12 +1,14 @@
 # permitio/opal-example-policy-repo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 11
 
 [Open repository](https://github.com/permitio/opal-example-policy-repo)
+
+[Open detailed stats for permitio/opal-example-policy-repo](https://reviewgithub.com/rep/permitio/opal-example-policy-repo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 28 | 
 | 2022-09-08 | 10 | 28 | 
 
-
-[Detailed charts & statistics for permitio/opal-example-policy-repo](https://reviewgithub.com/rep/permitio/opal-example-policy-repo)

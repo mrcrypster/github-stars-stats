@@ -1,12 +1,14 @@
 # kumu/docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 366
 
 ★ Stars: 21
 
 [Open repository](https://github.com/kumu/docs)
+
+[Open detailed stats for kumu/docs](https://reviewgithub.com/rep/kumu/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 19 | 353 | 
 | 2022-09-07 | 19 | 353 | 
 
-
-[Detailed charts & statistics for kumu/docs](https://reviewgithub.com/rep/kumu/docs)

@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-4-deploying-demo-app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 180
 
 ★ Stars: 0
 
 [Open repository](https://github.com/learn-co-curriculum/phase-4-deploying-demo-app)
+
+[Open detailed stats for learn-co-curriculum/phase-4-deploying-demo-app](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-deploying-demo-app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 153 | 
 | 2022-09-07 | - | 152 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-4-deploying-demo-app](https://reviewgithub.com/rep/learn-co-curriculum/phase-4-deploying-demo-app)

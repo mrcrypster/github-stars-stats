@@ -1,12 +1,14 @@
 # MLoth/Birds- - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 12
 
 [Open repository](https://github.com/MLoth/Birds-)
+
+[Open detailed stats for MLoth/Birds-](https://reviewgithub.com/rep/MLoth/Birds-)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -27,5 +29,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-23 | 12 | 9 | 
 | 2022-09-22 | 12 | 9 | 
 
-
-[Detailed charts & statistics for MLoth/Birds-](https://reviewgithub.com/rep/MLoth/Birds-)

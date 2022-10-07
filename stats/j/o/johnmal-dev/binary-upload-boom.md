@@ -1,12 +1,14 @@
 # johnmal-dev/binary-upload-boom - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/johnmal-dev/binary-upload-boom)
+
+[Open detailed stats for johnmal-dev/binary-upload-boom](https://reviewgithub.com/rep/johnmal-dev/binary-upload-boom)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | 1 | 6 | 
 | 2022-09-24 | 1 | 6 | 
 
-
-[Detailed charts & statistics for johnmal-dev/binary-upload-boom](https://reviewgithub.com/rep/johnmal-dev/binary-upload-boom)

@@ -1,12 +1,14 @@
 # joaopauloschuler/k-neural-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 100
 
 ★ Stars: 110
 
 [Open repository](https://github.com/joaopauloschuler/k-neural-api)
+
+[Open detailed stats for joaopauloschuler/k-neural-api](https://reviewgithub.com/rep/joaopauloschuler/k-neural-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 90 | 87 | 
 | 2022-09-07 | 90 | 87 | 
 
-
-[Detailed charts & statistics for joaopauloschuler/k-neural-api](https://reviewgithub.com/rep/joaopauloschuler/k-neural-api)

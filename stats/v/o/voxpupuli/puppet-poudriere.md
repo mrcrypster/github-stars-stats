@@ -1,12 +1,14 @@
 # voxpupuli/puppet-poudriere - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 13
 
 [Open repository](https://github.com/voxpupuli/puppet-poudriere)
+
+[Open detailed stats for voxpupuli/puppet-poudriere](https://reviewgithub.com/rep/voxpupuli/puppet-poudriere)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 14 | 
 | 2022-09-08 | 13 | 14 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-poudriere](https://reviewgithub.com/rep/voxpupuli/puppet-poudriere)

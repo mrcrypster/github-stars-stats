@@ -1,12 +1,14 @@
 # AlexCGDesign/5-PROYECTOS-CSS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 4
 
 [Open repository](https://github.com/AlexCGDesign/5-PROYECTOS-CSS)
+
+[Open detailed stats for AlexCGDesign/5-PROYECTOS-CSS](https://reviewgithub.com/rep/AlexCGDesign/5-PROYECTOS-CSS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5 | 7 | 
 | 2022-09-08 | 5 | 7 | 
 
-
-[Detailed charts & statistics for AlexCGDesign/5-PROYECTOS-CSS](https://reviewgithub.com/rep/AlexCGDesign/5-PROYECTOS-CSS)

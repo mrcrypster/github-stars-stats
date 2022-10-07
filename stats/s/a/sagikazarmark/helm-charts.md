@@ -1,12 +1,14 @@
 # sagikazarmark/helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 29
 
 [Open repository](https://github.com/sagikazarmark/helm-charts)
+
+[Open detailed stats for sagikazarmark/helm-charts](https://reviewgithub.com/rep/sagikazarmark/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 32 | 
 | 2022-09-08 | 29 | 32 | 
 
-
-[Detailed charts & statistics for sagikazarmark/helm-charts](https://reviewgithub.com/rep/sagikazarmark/helm-charts)

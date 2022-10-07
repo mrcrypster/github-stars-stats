@@ -1,12 +1,14 @@
 # davidtinker/grails-cors - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 23
 
 ★ Stars: 37
 
 [Open repository](https://github.com/davidtinker/grails-cors)
+
+[Open detailed stats for davidtinker/grails-cors](https://reviewgithub.com/rep/davidtinker/grails-cors)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 37 | 23 | 
 | 2022-09-08 | 37 | 23 | 
 
-
-[Detailed charts & statistics for davidtinker/grails-cors](https://reviewgithub.com/rep/davidtinker/grails-cors)

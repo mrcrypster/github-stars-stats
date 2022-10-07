@@ -1,12 +1,14 @@
 # SonarSource/sonar-flex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 9
 
 [Open repository](https://github.com/SonarSource/sonar-flex)
+
+[Open detailed stats for SonarSource/sonar-flex](https://reviewgithub.com/rep/SonarSource/sonar-flex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 13 | 
 | 2022-09-07 | 9 | 13 | 
 
-
-[Detailed charts & statistics for SonarSource/sonar-flex](https://reviewgithub.com/rep/SonarSource/sonar-flex)

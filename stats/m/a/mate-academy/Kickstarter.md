@@ -1,12 +1,14 @@
 # mate-academy/Kickstarter - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 266
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mate-academy/Kickstarter)
+
+[Open detailed stats for mate-academy/Kickstarter](https://reviewgithub.com/rep/mate-academy/Kickstarter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 254 | 
 | 2022-09-08 | 1 | 253 | 
 
-
-[Detailed charts & statistics for mate-academy/Kickstarter](https://reviewgithub.com/rep/mate-academy/Kickstarter)

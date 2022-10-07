@@ -1,12 +1,14 @@
 # edlich/education - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 284
 
 ★ Stars: 14
 
 [Open repository](https://github.com/edlich/education)
+
+[Open detailed stats for edlich/education](https://reviewgithub.com/rep/edlich/education)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 285 | 
 | 2022-09-07 | 14 | 285 | 
 
-
-[Detailed charts & statistics for edlich/education](https://reviewgithub.com/rep/edlich/education)

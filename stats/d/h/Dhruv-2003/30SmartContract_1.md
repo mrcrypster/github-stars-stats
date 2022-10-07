@@ -1,12 +1,14 @@
 # Dhruv-2003/30SmartContract_1 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 20
 
 [Open repository](https://github.com/Dhruv-2003/30SmartContract_1)
+
+[Open detailed stats for Dhruv-2003/30SmartContract_1](https://reviewgithub.com/rep/Dhruv-2003/30SmartContract_1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | 3 | 
 | 2022-09-08 | 18 | 3 | 
 
-
-[Detailed charts & statistics for Dhruv-2003/30SmartContract_1](https://reviewgithub.com/rep/Dhruv-2003/30SmartContract_1)

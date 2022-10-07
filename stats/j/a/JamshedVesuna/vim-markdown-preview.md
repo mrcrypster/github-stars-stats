@@ -1,12 +1,14 @@
 # JamshedVesuna/vim-markdown-preview - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 93
 
 ★ Stars: 563
 
 [Open repository](https://github.com/JamshedVesuna/vim-markdown-preview)
+
+[Open detailed stats for JamshedVesuna/vim-markdown-preview](https://reviewgithub.com/rep/JamshedVesuna/vim-markdown-preview)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 562 | 93 | 
 | 2022-09-07 | 562 | 93 | 
 
-
-[Detailed charts & statistics for JamshedVesuna/vim-markdown-preview](https://reviewgithub.com/rep/JamshedVesuna/vim-markdown-preview)

@@ -1,12 +1,14 @@
 # snu-sf/paco - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 34
 
 [Open repository](https://github.com/snu-sf/paco)
+
+[Open detailed stats for snu-sf/paco](https://reviewgithub.com/rep/snu-sf/paco)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 34 | 10 | 
 | 2022-09-07 | 34 | 10 | 
 
-
-[Detailed charts & statistics for snu-sf/paco](https://reviewgithub.com/rep/snu-sf/paco)

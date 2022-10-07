@@ -1,12 +1,14 @@
 # kishorekdty/scheme1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kishorekdty/scheme1)
+
+[Open detailed stats for kishorekdty/scheme1](https://reviewgithub.com/rep/kishorekdty/scheme1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for kishorekdty/scheme1](https://reviewgithub.com/rep/kishorekdty/scheme1)

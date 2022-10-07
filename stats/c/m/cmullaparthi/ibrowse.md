@@ -1,12 +1,14 @@
 # cmullaparthi/ibrowse - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 194
 
 ★ Stars: 519
 
 [Open repository](https://github.com/cmullaparthi/ibrowse)
+
+[Open detailed stats for cmullaparthi/ibrowse](https://reviewgithub.com/rep/cmullaparthi/ibrowse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 519 | 194 | 
 | 2022-09-07 | 519 | 194 | 
 
-
-[Detailed charts & statistics for cmullaparthi/ibrowse](https://reviewgithub.com/rep/cmullaparthi/ibrowse)

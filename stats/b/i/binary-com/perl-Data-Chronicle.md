@@ -1,12 +1,14 @@
 # binary-com/perl-Data-Chronicle - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 4
 
 [Open repository](https://github.com/binary-com/perl-Data-Chronicle)
+
+[Open detailed stats for binary-com/perl-Data-Chronicle](https://reviewgithub.com/rep/binary-com/perl-Data-Chronicle)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 16 | 
 | 2022-09-07 | 4 | 16 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Data-Chronicle](https://reviewgithub.com/rep/binary-com/perl-Data-Chronicle)

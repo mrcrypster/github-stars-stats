@@ -1,12 +1,14 @@
 # timClicks/coin-boolean - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 49
 
 [Open repository](https://github.com/timClicks/coin-boolean)
+
+[Open detailed stats for timClicks/coin-boolean](https://reviewgithub.com/rep/timClicks/coin-boolean)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 49 | - | 
 | 2022-09-08 | 49 | - | 
 
-
-[Detailed charts & statistics for timClicks/coin-boolean](https://reviewgithub.com/rep/timClicks/coin-boolean)

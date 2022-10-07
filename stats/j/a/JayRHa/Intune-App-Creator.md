@@ -1,12 +1,14 @@
 # JayRHa/Intune-App-Creator - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 16
 
 [Open repository](https://github.com/JayRHa/Intune-App-Creator)
+
+[Open detailed stats for JayRHa/Intune-App-Creator](https://reviewgithub.com/rep/JayRHa/Intune-App-Creator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 16 | - | 
 | 2022-09-08 | 16 | - | 
 
-
-[Detailed charts & statistics for JayRHa/Intune-App-Creator](https://reviewgithub.com/rep/JayRHa/Intune-App-Creator)

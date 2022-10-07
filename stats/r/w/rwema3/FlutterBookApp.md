@@ -1,12 +1,14 @@
 # rwema3/FlutterBookApp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 31
 
 [Open repository](https://github.com/rwema3/FlutterBookApp)
+
+[Open detailed stats for rwema3/FlutterBookApp](https://reviewgithub.com/rep/rwema3/FlutterBookApp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 31 | - | 
 | 2022-09-08 | 31 | - | 
 
-
-[Detailed charts & statistics for rwema3/FlutterBookApp](https://reviewgithub.com/rep/rwema3/FlutterBookApp)

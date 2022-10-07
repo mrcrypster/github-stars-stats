@@ -1,12 +1,14 @@
 # binary-com/perl-Date-Utility - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/binary-com/perl-Date-Utility)
+
+[Open detailed stats for binary-com/perl-Date-Utility](https://reviewgithub.com/rep/binary-com/perl-Date-Utility)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 14 | 
 | 2022-09-07 | 1 | 14 | 
 
-
-[Detailed charts & statistics for binary-com/perl-Date-Utility](https://reviewgithub.com/rep/binary-com/perl-Date-Utility)

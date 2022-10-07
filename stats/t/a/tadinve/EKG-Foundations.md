@@ -1,12 +1,14 @@
 # tadinve/EKG-Foundations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 0
 
 [Open repository](https://github.com/tadinve/EKG-Foundations)
+
+[Open detailed stats for tadinve/EKG-Foundations](https://reviewgithub.com/rep/tadinve/EKG-Foundations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 14 | 
 | 2022-09-08 | - | 14 | 
 
-
-[Detailed charts & statistics for tadinve/EKG-Foundations](https://reviewgithub.com/rep/tadinve/EKG-Foundations)

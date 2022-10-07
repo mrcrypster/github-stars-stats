@@ -1,12 +1,14 @@
 # holbertonschool/make_magic_happen - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 129
 
 ★ Stars: 9
 
 [Open repository](https://github.com/holbertonschool/make_magic_happen)
+
+[Open detailed stats for holbertonschool/make_magic_happen](https://reviewgithub.com/rep/holbertonschool/make_magic_happen)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 5 | 79 | 
 | 2022-09-07 | 5 | 79 | 
 
-
-[Detailed charts & statistics for holbertonschool/make_magic_happen](https://reviewgithub.com/rep/holbertonschool/make_magic_happen)

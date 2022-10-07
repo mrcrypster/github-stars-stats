@@ -1,12 +1,14 @@
 # idaholab/large_media - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 2
 
 [Open repository](https://github.com/idaholab/large_media)
+
+[Open detailed stats for idaholab/large_media](https://reviewgithub.com/rep/idaholab/large_media)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1 | 18 | 
 | 2022-09-07 | 1 | 18 | 
 
-
-[Detailed charts & statistics for idaholab/large_media](https://reviewgithub.com/rep/idaholab/large_media)

@@ -1,12 +1,14 @@
 # elastic/stream2es - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 61
 
 ★ Stars: 357
 
 [Open repository](https://github.com/elastic/stream2es)
+
+[Open detailed stats for elastic/stream2es](https://reviewgithub.com/rep/elastic/stream2es)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 357 | 61 | 
 | 2022-09-08 | 357 | 61 | 
 
-
-[Detailed charts & statistics for elastic/stream2es](https://reviewgithub.com/rep/elastic/stream2es)

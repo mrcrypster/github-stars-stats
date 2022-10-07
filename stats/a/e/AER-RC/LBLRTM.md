@@ -1,12 +1,14 @@
 # AER-RC/LBLRTM - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 39
 
 [Open repository](https://github.com/AER-RC/LBLRTM)
+
+[Open detailed stats for AER-RC/LBLRTM](https://reviewgithub.com/rep/AER-RC/LBLRTM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 20 | 
 | 2022-09-08 | 38 | 19 | 
 
-
-[Detailed charts & statistics for AER-RC/LBLRTM](https://reviewgithub.com/rep/AER-RC/LBLRTM)

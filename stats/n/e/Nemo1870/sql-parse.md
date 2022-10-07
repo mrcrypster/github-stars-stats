@@ -1,12 +1,14 @@
 # Nemo1870/sql-parse - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 58
 
 [Open repository](https://github.com/Nemo1870/sql-parse)
+
+[Open detailed stats for Nemo1870/sql-parse](https://reviewgithub.com/rep/Nemo1870/sql-parse)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 58 | 7 | 
 | 2022-09-07 | 58 | 7 | 
 
-
-[Detailed charts & statistics for Nemo1870/sql-parse](https://reviewgithub.com/rep/Nemo1870/sql-parse)

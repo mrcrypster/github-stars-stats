@@ -1,12 +1,14 @@
 # codex-team/editor.js - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1599
 
 ★ Stars: 20337
 
 [Open repository](https://github.com/codex-team/editor.js)
+
+[Open detailed stats for codex-team/editor.js](https://reviewgithub.com/rep/codex-team/editor.js)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20087 | 1576 | 
 | 2022-09-08 | 20081 | 1577 | 
 
-
-[Detailed charts & statistics for codex-team/editor.js](https://reviewgithub.com/rep/codex-team/editor.js)

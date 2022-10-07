@@ -1,12 +1,14 @@
 # remix-run/examples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 89
 
 [Open repository](https://github.com/remix-run/examples)
+
+[Open detailed stats for remix-run/examples](https://reviewgithub.com/rep/remix-run/examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | 85 | 20 | 
 | 2022-10-03 | 85 | 20 | 
 
-
-[Detailed charts & statistics for remix-run/examples](https://reviewgithub.com/rep/remix-run/examples)

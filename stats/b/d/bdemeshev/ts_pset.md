@@ -1,12 +1,14 @@
 # bdemeshev/ts_pset - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/bdemeshev/ts_pset)
+
+[Open detailed stats for bdemeshev/ts_pset](https://reviewgithub.com/rep/bdemeshev/ts_pset)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 5 | 
 | 2022-09-08 | 1 | 5 | 
 
-
-[Detailed charts & statistics for bdemeshev/ts_pset](https://reviewgithub.com/rep/bdemeshev/ts_pset)

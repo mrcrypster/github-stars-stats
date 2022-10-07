@@ -1,12 +1,14 @@
 # aspect-build/bazel-examples - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 23
 
 [Open repository](https://github.com/aspect-build/bazel-examples)
+
+[Open detailed stats for aspect-build/bazel-examples](https://reviewgithub.com/rep/aspect-build/bazel-examples)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-26 | 22 | 8 | 
 | 2022-09-25 | 22 | 8 | 
 
-
-[Detailed charts & statistics for aspect-build/bazel-examples](https://reviewgithub.com/rep/aspect-build/bazel-examples)

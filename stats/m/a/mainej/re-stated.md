@@ -1,12 +1,14 @@
 # mainej/re-stated - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 18
 
 [Open repository](https://github.com/mainej/re-stated)
+
+[Open detailed stats for mainej/re-stated](https://reviewgithub.com/rep/mainej/re-stated)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 18 | - | 
 | 2022-09-08 | 18 | - | 
 
-
-[Detailed charts & statistics for mainej/re-stated](https://reviewgithub.com/rep/mainej/re-stated)

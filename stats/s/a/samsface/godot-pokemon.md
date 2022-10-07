@@ -1,12 +1,14 @@
 # samsface/godot-pokemon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 29
 
 [Open repository](https://github.com/samsface/godot-pokemon)
+
+[Open detailed stats for samsface/godot-pokemon](https://reviewgithub.com/rep/samsface/godot-pokemon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | 2 | 
 | 2022-09-07 | 29 | 2 | 
 
-
-[Detailed charts & statistics for samsface/godot-pokemon](https://reviewgithub.com/rep/samsface/godot-pokemon)

@@ -1,12 +1,14 @@
 # json-api/json-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 832
 
 ★ Stars: 6998
 
 [Open repository](https://github.com/json-api/json-api)
+
+[Open detailed stats for json-api/json-api](https://reviewgithub.com/rep/json-api/json-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6979 | 831 | 
 | 2022-09-08 | 6979 | 831 | 
 
-
-[Detailed charts & statistics for json-api/json-api](https://reviewgithub.com/rep/json-api/json-api)

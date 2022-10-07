@@ -1,12 +1,14 @@
 # practicalli/spacemacs.d - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 357
 
 ★ Stars: 98
 
 [Open repository](https://github.com/practicalli/spacemacs.d)
+
+[Open detailed stats for practicalli/spacemacs.d](https://reviewgithub.com/rep/practicalli/spacemacs.d)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 98 | 338 | 
 | 2022-09-08 | 98 | 339 | 
 
-
-[Detailed charts & statistics for practicalli/spacemacs.d](https://reviewgithub.com/rep/practicalli/spacemacs.d)

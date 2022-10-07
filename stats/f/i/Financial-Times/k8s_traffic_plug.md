@@ -1,12 +1,14 @@
 # Financial-Times/k8s_traffic_plug - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 67
 
 [Open repository](https://github.com/Financial-Times/k8s_traffic_plug)
+
+[Open detailed stats for Financial-Times/k8s_traffic_plug](https://reviewgithub.com/rep/Financial-Times/k8s_traffic_plug)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 66 | 12 | 
 | 2022-09-07 | 66 | 12 | 
 
-
-[Detailed charts & statistics for Financial-Times/k8s_traffic_plug](https://reviewgithub.com/rep/Financial-Times/k8s_traffic_plug)

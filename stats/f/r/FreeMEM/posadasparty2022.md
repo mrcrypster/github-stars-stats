@@ -1,12 +1,14 @@
 # FreeMEM/posadasparty2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 4
 
 [Open repository](https://github.com/FreeMEM/posadasparty2022)
+
+[Open detailed stats for FreeMEM/posadasparty2022](https://reviewgithub.com/rep/FreeMEM/posadasparty2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | - | 
 | 2022-09-07 | 4 | - | 
 
-
-[Detailed charts & statistics for FreeMEM/posadasparty2022](https://reviewgithub.com/rep/FreeMEM/posadasparty2022)

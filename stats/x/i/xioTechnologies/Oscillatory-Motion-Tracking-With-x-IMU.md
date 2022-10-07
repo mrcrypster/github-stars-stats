@@ -1,12 +1,14 @@
 # xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 146
 
 ★ Stars: 292
 
 [Open repository](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU)
+
+[Open detailed stats for xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU](https://reviewgithub.com/rep/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 288 | 145 | 
 | 2022-09-08 | 288 | 145 | 
 
-
-[Detailed charts & statistics for xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU](https://reviewgithub.com/rep/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU)

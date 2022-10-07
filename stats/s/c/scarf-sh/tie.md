@@ -1,12 +1,14 @@
 # scarf-sh/tie - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 38
 
 [Open repository](https://github.com/scarf-sh/tie)
+
+[Open detailed stats for scarf-sh/tie](https://reviewgithub.com/rep/scarf-sh/tie)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 38 | 2 | 
 | 2022-09-08 | 38 | 2 | 
 
-
-[Detailed charts & statistics for scarf-sh/tie](https://reviewgithub.com/rep/scarf-sh/tie)

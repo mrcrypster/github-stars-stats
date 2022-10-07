@@ -1,12 +1,14 @@
 # fengguangbin/spring-rce-war - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 136
 
 ★ Stars: 86
 
 [Open repository](https://github.com/fengguangbin/spring-rce-war)
+
+[Open detailed stats for fengguangbin/spring-rce-war](https://reviewgithub.com/rep/fengguangbin/spring-rce-war)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 85 | 134 | 
 | 2022-09-08 | 85 | 134 | 
 
-
-[Detailed charts & statistics for fengguangbin/spring-rce-war](https://reviewgithub.com/rep/fengguangbin/spring-rce-war)

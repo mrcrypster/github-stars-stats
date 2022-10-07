@@ -1,12 +1,14 @@
 # fredrequin/verilator_xilinx - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 10
 
 [Open repository](https://github.com/fredrequin/verilator_xilinx)
+
+[Open detailed stats for fredrequin/verilator_xilinx](https://reviewgithub.com/rep/fredrequin/verilator_xilinx)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | - | 
 | 2022-09-08 | 9 | - | 
 
-
-[Detailed charts & statistics for fredrequin/verilator_xilinx](https://reviewgithub.com/rep/fredrequin/verilator_xilinx)

@@ -1,12 +1,14 @@
 # emacs-csharp/csharp-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 50
 
 ★ Stars: 145
 
 [Open repository](https://github.com/emacs-csharp/csharp-mode)
+
+[Open detailed stats for emacs-csharp/csharp-mode](https://reviewgithub.com/rep/emacs-csharp/csharp-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 144 | 50 | 
 | 2022-09-08 | 144 | 50 | 
 
-
-[Detailed charts & statistics for emacs-csharp/csharp-mode](https://reviewgithub.com/rep/emacs-csharp/csharp-mode)

@@ -1,12 +1,14 @@
 # meet-projects/Y2-Summer-Labs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
 ★ Stars: 2
 
 [Open repository](https://github.com/meet-projects/Y2-Summer-Labs)
+
+[Open detailed stats for meet-projects/Y2-Summer-Labs](https://reviewgithub.com/rep/meet-projects/Y2-Summer-Labs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 42 | 
 | 2022-09-07 | 2 | 42 | 
 
-
-[Detailed charts & statistics for meet-projects/Y2-Summer-Labs](https://reviewgithub.com/rep/meet-projects/Y2-Summer-Labs)

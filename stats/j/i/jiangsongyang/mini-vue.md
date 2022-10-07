@@ -1,12 +1,14 @@
 # jiangsongyang/mini-vue - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 110
 
 [Open repository](https://github.com/jiangsongyang/mini-vue)
+
+[Open detailed stats for jiangsongyang/mini-vue](https://reviewgithub.com/rep/jiangsongyang/mini-vue)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 110 | 11 | 
 | 2022-09-07 | 110 | 11 | 
 
-
-[Detailed charts & statistics for jiangsongyang/mini-vue](https://reviewgithub.com/rep/jiangsongyang/mini-vue)

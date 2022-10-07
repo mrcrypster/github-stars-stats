@@ -1,12 +1,14 @@
 # penk/MainboardTerminal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 687
 
 [Open repository](https://github.com/penk/MainboardTerminal)
+
+[Open detailed stats for penk/MainboardTerminal](https://reviewgithub.com/rep/penk/MainboardTerminal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 684 | 12 | 
 | 2022-09-07 | 684 | 12 | 
 
-
-[Detailed charts & statistics for penk/MainboardTerminal](https://reviewgithub.com/rep/penk/MainboardTerminal)

@@ -1,12 +1,14 @@
 # PointOneNav/osr-producer - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/PointOneNav/osr-producer)
+
+[Open detailed stats for PointOneNav/osr-producer](https://reviewgithub.com/rep/PointOneNav/osr-producer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for PointOneNav/osr-producer](https://reviewgithub.com/rep/PointOneNav/osr-producer)

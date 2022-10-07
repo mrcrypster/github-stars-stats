@@ -1,12 +1,14 @@
 # willleong/first_app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/willleong/first_app)
+
+[Open detailed stats for willleong/first_app](https://reviewgithub.com/rep/willleong/first_app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for willleong/first_app](https://reviewgithub.com/rep/willleong/first_app)

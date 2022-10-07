@@ -1,12 +1,14 @@
 # rktjmp/hotpot.nvim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 200
 
 [Open repository](https://github.com/rktjmp/hotpot.nvim)
+
+[Open detailed stats for rktjmp/hotpot.nvim](https://reviewgithub.com/rep/rktjmp/hotpot.nvim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 192 | 3 | 
 | 2022-09-08 | 189 | 3 | 
 
-
-[Detailed charts & statistics for rktjmp/hotpot.nvim](https://reviewgithub.com/rep/rktjmp/hotpot.nvim)

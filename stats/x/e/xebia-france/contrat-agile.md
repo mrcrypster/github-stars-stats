@@ -1,12 +1,14 @@
 # xebia-france/contrat-agile - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 2
 
 [Open repository](https://github.com/xebia-france/contrat-agile)
+
+[Open detailed stats for xebia-france/contrat-agile](https://reviewgithub.com/rep/xebia-france/contrat-agile)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 2 | 
 | 2022-09-07 | 2 | 2 | 
 
-
-[Detailed charts & statistics for xebia-france/contrat-agile](https://reviewgithub.com/rep/xebia-france/contrat-agile)

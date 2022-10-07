@@ -1,12 +1,14 @@
 # robertfeldt/wasp_SE_course - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 37
 
 ★ Stars: 0
 
 [Open repository](https://github.com/robertfeldt/wasp_SE_course)
+
+[Open detailed stats for robertfeldt/wasp_SE_course](https://reviewgithub.com/rep/robertfeldt/wasp_SE_course)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | - | 34 | 
 | 2022-09-15 | - | 34 | 
 
-
-[Detailed charts & statistics for robertfeldt/wasp_SE_course](https://reviewgithub.com/rep/robertfeldt/wasp_SE_course)

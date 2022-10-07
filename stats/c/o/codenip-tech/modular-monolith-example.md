@@ -1,12 +1,14 @@
 # codenip-tech/modular-monolith-example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 8
 
 [Open repository](https://github.com/codenip-tech/modular-monolith-example)
+
+[Open detailed stats for codenip-tech/modular-monolith-example](https://reviewgithub.com/rep/codenip-tech/modular-monolith-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 8 | 6 | 
 | 2022-09-07 | 8 | 6 | 
 
-
-[Detailed charts & statistics for codenip-tech/modular-monolith-example](https://reviewgithub.com/rep/codenip-tech/modular-monolith-example)

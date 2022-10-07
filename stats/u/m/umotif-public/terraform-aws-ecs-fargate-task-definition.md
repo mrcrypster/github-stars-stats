@@ -1,12 +1,14 @@
 # umotif-public/terraform-aws-ecs-fargate-task-definition - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 20
 
 [Open repository](https://github.com/umotif-public/terraform-aws-ecs-fargate-task-definition)
+
+[Open detailed stats for umotif-public/terraform-aws-ecs-fargate-task-definition](https://reviewgithub.com/rep/umotif-public/terraform-aws-ecs-fargate-task-definition)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 20 | 11 | 
 | 2022-09-08 | 20 | 11 | 
 
-
-[Detailed charts & statistics for umotif-public/terraform-aws-ecs-fargate-task-definition](https://reviewgithub.com/rep/umotif-public/terraform-aws-ecs-fargate-task-definition)

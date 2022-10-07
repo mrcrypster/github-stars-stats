@@ -1,12 +1,14 @@
 # nicferrier/emacs-lisp-editing-tools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 2
 
 [Open repository](https://github.com/nicferrier/emacs-lisp-editing-tools)
+
+[Open detailed stats for nicferrier/emacs-lisp-editing-tools](https://reviewgithub.com/rep/nicferrier/emacs-lisp-editing-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 1 | 
 | 2022-09-08 | 2 | 1 | 
 
-
-[Detailed charts & statistics for nicferrier/emacs-lisp-editing-tools](https://reviewgithub.com/rep/nicferrier/emacs-lisp-editing-tools)

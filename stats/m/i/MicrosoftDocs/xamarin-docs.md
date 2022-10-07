@@ -1,12 +1,14 @@
 # MicrosoftDocs/xamarin-docs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 580
 
 ★ Stars: 169
 
 [Open repository](https://github.com/MicrosoftDocs/xamarin-docs)
+
+[Open detailed stats for MicrosoftDocs/xamarin-docs](https://reviewgithub.com/rep/MicrosoftDocs/xamarin-docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 170 | 580 | 
 | 2022-09-07 | 170 | 580 | 
 
-
-[Detailed charts & statistics for MicrosoftDocs/xamarin-docs](https://reviewgithub.com/rep/MicrosoftDocs/xamarin-docs)

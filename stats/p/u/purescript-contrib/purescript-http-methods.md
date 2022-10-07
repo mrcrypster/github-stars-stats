@@ -1,12 +1,14 @@
 # purescript-contrib/purescript-http-methods - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 8
 
 [Open repository](https://github.com/purescript-contrib/purescript-http-methods)
+
+[Open detailed stats for purescript-contrib/purescript-http-methods](https://reviewgithub.com/rep/purescript-contrib/purescript-http-methods)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 7 | 
 | 2022-09-08 | 8 | 7 | 
 
-
-[Detailed charts & statistics for purescript-contrib/purescript-http-methods](https://reviewgithub.com/rep/purescript-contrib/purescript-http-methods)

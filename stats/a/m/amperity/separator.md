@@ -1,12 +1,14 @@
 # amperity/separator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 16
 
 [Open repository](https://github.com/amperity/separator)
+
+[Open detailed stats for amperity/separator](https://reviewgithub.com/rep/amperity/separator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | - | 
 | 2022-09-07 | 16 | - | 
 
-
-[Detailed charts & statistics for amperity/separator](https://reviewgithub.com/rep/amperity/separator)

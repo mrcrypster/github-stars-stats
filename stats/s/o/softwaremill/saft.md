@@ -1,12 +1,14 @@
 # softwaremill/saft - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 26
 
 [Open repository](https://github.com/softwaremill/saft)
+
+[Open detailed stats for softwaremill/saft](https://reviewgithub.com/rep/softwaremill/saft)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 23 | - | 
 | 2022-09-07 | 23 | - | 
 
-
-[Detailed charts & statistics for softwaremill/saft](https://reviewgithub.com/rep/softwaremill/saft)

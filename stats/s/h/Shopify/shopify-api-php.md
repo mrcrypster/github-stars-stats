@@ -1,12 +1,14 @@
 # Shopify/shopify-api-php - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 80
 
 ★ Stars: 197
 
 [Open repository](https://github.com/Shopify/shopify-api-php)
+
+[Open detailed stats for Shopify/shopify-api-php](https://reviewgithub.com/rep/Shopify/shopify-api-php)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 193 | 70 | 
 | 2022-09-07 | 193 | 70 | 
 
-
-[Detailed charts & statistics for Shopify/shopify-api-php](https://reviewgithub.com/rep/Shopify/shopify-api-php)

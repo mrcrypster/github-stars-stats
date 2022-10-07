@@ -1,12 +1,14 @@
 # cloudnative-pg/postgres-containers - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 8
 
 [Open repository](https://github.com/cloudnative-pg/postgres-containers)
+
+[Open detailed stats for cloudnative-pg/postgres-containers](https://reviewgithub.com/rep/cloudnative-pg/postgres-containers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 6 | 2 | 
 | 2022-09-07 | 6 | 2 | 
 
-
-[Detailed charts & statistics for cloudnative-pg/postgres-containers](https://reviewgithub.com/rep/cloudnative-pg/postgres-containers)

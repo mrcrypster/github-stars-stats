@@ -1,12 +1,14 @@
 # pulp-platform/axi_node - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 16
 
 [Open repository](https://github.com/pulp-platform/axi_node)
+
+[Open detailed stats for pulp-platform/axi_node](https://reviewgithub.com/rep/pulp-platform/axi_node)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 35 | 
 | 2022-09-08 | 16 | 35 | 
 
-
-[Detailed charts & statistics for pulp-platform/axi_node](https://reviewgithub.com/rep/pulp-platform/axi_node)

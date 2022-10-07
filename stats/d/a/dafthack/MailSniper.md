@@ -1,12 +1,14 @@
 # dafthack/MailSniper - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 498
 
 ★ Stars: 2286
 
 [Open repository](https://github.com/dafthack/MailSniper)
+
+[Open detailed stats for dafthack/MailSniper](https://reviewgithub.com/rep/dafthack/MailSniper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -32,5 +34,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-18 | 2264 | 494 | 
 | 2022-09-17 | 2264 | 494 | 
 
-
-[Detailed charts & statistics for dafthack/MailSniper](https://reviewgithub.com/rep/dafthack/MailSniper)

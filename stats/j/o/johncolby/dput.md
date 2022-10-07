@@ -1,12 +1,14 @@
 # johncolby/dput - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 4
 
 [Open repository](https://github.com/johncolby/dput)
+
+[Open detailed stats for johncolby/dput](https://reviewgithub.com/rep/johncolby/dput)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | 4 | - | 
 | 2022-09-15 | 4 | - | 
 
-
-[Detailed charts & statistics for johncolby/dput](https://reviewgithub.com/rep/johncolby/dput)

@@ -1,12 +1,14 @@
 # openhardwaremonitor/openhardwaremonitor - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1121
 
 ★ Stars: 4801
 
 [Open repository](https://github.com/openhardwaremonitor/openhardwaremonitor)
+
+[Open detailed stats for openhardwaremonitor/openhardwaremonitor](https://reviewgithub.com/rep/openhardwaremonitor/openhardwaremonitor)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4754 | 1116 | 
 | 2022-09-07 | 4753 | 1111 | 
 
-
-[Detailed charts & statistics for openhardwaremonitor/openhardwaremonitor](https://reviewgithub.com/rep/openhardwaremonitor/openhardwaremonitor)

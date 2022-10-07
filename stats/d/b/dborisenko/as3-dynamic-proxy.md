@@ -1,12 +1,14 @@
 # dborisenko/as3-dynamic-proxy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/dborisenko/as3-dynamic-proxy)
+
+[Open detailed stats for dborisenko/as3-dynamic-proxy](https://reviewgithub.com/rep/dborisenko/as3-dynamic-proxy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | - | 
 | 2022-09-07 | 1 | - | 
 
-
-[Detailed charts & statistics for dborisenko/as3-dynamic-proxy](https://reviewgithub.com/rep/dborisenko/as3-dynamic-proxy)

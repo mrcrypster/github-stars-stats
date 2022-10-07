@@ -1,12 +1,14 @@
 # quephird/nehe-quil - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/quephird/nehe-quil)
+
+[Open detailed stats for quephird/nehe-quil](https://reviewgithub.com/rep/quephird/nehe-quil)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -19,5 +21,3 @@ Stats updated on Mar 54732, 17
 | 2022-10-01 | - | - | 
 | 2022-09-30 | - | - | 
 
-
-[Detailed charts & statistics for quephird/nehe-quil](https://reviewgithub.com/rep/quephird/nehe-quil)

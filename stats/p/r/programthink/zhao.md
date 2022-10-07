@@ -1,12 +1,14 @@
 # programthink/zhao - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2595
 
 ★ Stars: 10846
 
 [Open repository](https://github.com/programthink/zhao)
+
+[Open detailed stats for programthink/zhao](https://reviewgithub.com/rep/programthink/zhao)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 10736 | 2585 | 
 | 2022-09-07 | 10733 | 2584 | 
 
-
-[Detailed charts & statistics for programthink/zhao](https://reviewgithub.com/rep/programthink/zhao)

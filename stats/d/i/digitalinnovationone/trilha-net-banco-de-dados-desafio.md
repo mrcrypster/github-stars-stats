@@ -1,12 +1,14 @@
 # digitalinnovationone/trilha-net-banco-de-dados-desafio - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 0
 
 [Open repository](https://github.com/digitalinnovationone/trilha-net-banco-de-dados-desafio)
+
+[Open detailed stats for digitalinnovationone/trilha-net-banco-de-dados-desafio](https://reviewgithub.com/rep/digitalinnovationone/trilha-net-banco-de-dados-desafio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | - | 12 | 
 | 2022-09-07 | - | 12 | 
 
-
-[Detailed charts & statistics for digitalinnovationone/trilha-net-banco-de-dados-desafio](https://reviewgithub.com/rep/digitalinnovationone/trilha-net-banco-de-dados-desafio)

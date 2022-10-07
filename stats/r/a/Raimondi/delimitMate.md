@@ -1,12 +1,14 @@
 # Raimondi/delimitMate - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 119
 
 ★ Stars: 1923
 
 [Open repository](https://github.com/Raimondi/delimitMate)
+
+[Open detailed stats for Raimondi/delimitMate](https://reviewgithub.com/rep/Raimondi/delimitMate)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1920 | 118 | 
 | 2022-09-08 | 1920 | 118 | 
 
-
-[Detailed charts & statistics for Raimondi/delimitMate](https://reviewgithub.com/rep/Raimondi/delimitMate)

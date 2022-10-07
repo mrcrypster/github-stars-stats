@@ -1,12 +1,14 @@
 # arthurspk/guiadobackend - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 108
 
 ★ Stars: 993
 
 [Open repository](https://github.com/arthurspk/guiadobackend)
+
+[Open detailed stats for arthurspk/guiadobackend](https://reviewgithub.com/rep/arthurspk/guiadobackend)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 950 | 100 | 
 | 2022-09-07 | 948 | 99 | 
 
-
-[Detailed charts & statistics for arthurspk/guiadobackend](https://reviewgithub.com/rep/arthurspk/guiadobackend)

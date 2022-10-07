@@ -1,12 +1,14 @@
 # fresnik/ArduinoMarioTheme - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/fresnik/ArduinoMarioTheme)
+
+[Open detailed stats for fresnik/ArduinoMarioTheme](https://reviewgithub.com/rep/fresnik/ArduinoMarioTheme)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -38,5 +40,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-12 | - | 3 | 
 | 2022-09-11 | - | 3 | 
 
-
-[Detailed charts & statistics for fresnik/ArduinoMarioTheme](https://reviewgithub.com/rep/fresnik/ArduinoMarioTheme)

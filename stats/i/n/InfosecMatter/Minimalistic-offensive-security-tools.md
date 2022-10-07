@@ -1,12 +1,14 @@
 # InfosecMatter/Minimalistic-offensive-security-tools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 93
 
 ★ Stars: 411
 
 [Open repository](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
+
+[Open detailed stats for InfosecMatter/Minimalistic-offensive-security-tools](https://reviewgithub.com/rep/InfosecMatter/Minimalistic-offensive-security-tools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 403 | 91 | 
 | 2022-09-10 | 403 | 91 | 
 
-
-[Detailed charts & statistics for InfosecMatter/Minimalistic-offensive-security-tools](https://reviewgithub.com/rep/InfosecMatter/Minimalistic-offensive-security-tools)

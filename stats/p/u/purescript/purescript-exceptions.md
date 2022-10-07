@@ -1,12 +1,14 @@
 # purescript/purescript-exceptions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 13
 
 [Open repository](https://github.com/purescript/purescript-exceptions)
+
+[Open detailed stats for purescript/purescript-exceptions](https://reviewgithub.com/rep/purescript/purescript-exceptions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 13 | 26 | 
 | 2022-09-08 | 13 | 26 | 
 
-
-[Detailed charts & statistics for purescript/purescript-exceptions](https://reviewgithub.com/rep/purescript/purescript-exceptions)

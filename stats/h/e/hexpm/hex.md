@@ -1,12 +1,14 @@
 # hexpm/hex - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 174
 
 ★ Stars: 853
 
 [Open repository](https://github.com/hexpm/hex)
+
+[Open detailed stats for hexpm/hex](https://reviewgithub.com/rep/hexpm/hex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 844 | 173 | 
 | 2022-09-07 | 844 | 173 | 
 
-
-[Detailed charts & statistics for hexpm/hex](https://reviewgithub.com/rep/hexpm/hex)

@@ -1,12 +1,14 @@
 # Cimlah/Repo-Share - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Cimlah/Repo-Share)
+
+[Open detailed stats for Cimlah/Repo-Share](https://reviewgithub.com/rep/Cimlah/Repo-Share)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -26,5 +28,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-24 | 1 | - | 
 | 2022-09-23 | 1 | - | 
 
-
-[Detailed charts & statistics for Cimlah/Repo-Share](https://reviewgithub.com/rep/Cimlah/Repo-Share)

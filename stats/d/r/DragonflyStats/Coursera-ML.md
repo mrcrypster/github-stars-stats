@@ -1,12 +1,14 @@
 # DragonflyStats/Coursera-ML - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 307
 
 ★ Stars: 388
 
 [Open repository](https://github.com/DragonflyStats/Coursera-ML)
+
+[Open detailed stats for DragonflyStats/Coursera-ML](https://reviewgithub.com/rep/DragonflyStats/Coursera-ML)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 387 | 307 | 
 | 2022-09-07 | 387 | 307 | 
 
-
-[Detailed charts & statistics for DragonflyStats/Coursera-ML](https://reviewgithub.com/rep/DragonflyStats/Coursera-ML)

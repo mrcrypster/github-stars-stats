@@ -1,12 +1,14 @@
 # allenai/taggers - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 16
 
 [Open repository](https://github.com/allenai/taggers)
+
+[Open detailed stats for allenai/taggers](https://reviewgithub.com/rep/allenai/taggers)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 16 | 2 | 
 | 2022-09-08 | 16 | 2 | 
 
-
-[Detailed charts & statistics for allenai/taggers](https://reviewgithub.com/rep/allenai/taggers)

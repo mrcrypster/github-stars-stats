@@ -1,12 +1,14 @@
 # hermanjula3/RDP-Jozz - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/hermanjula3/RDP-Jozz)
+
+[Open detailed stats for hermanjula3/RDP-Jozz](https://reviewgithub.com/rep/hermanjula3/RDP-Jozz)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 6 | 
 | 2022-09-07 | - | 6 | 
 
-
-[Detailed charts & statistics for hermanjula3/RDP-Jozz](https://reviewgithub.com/rep/hermanjula3/RDP-Jozz)

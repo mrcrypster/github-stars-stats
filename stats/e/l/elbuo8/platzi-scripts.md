@@ -1,12 +1,14 @@
 # elbuo8/platzi-scripts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 241
 
 ★ Stars: 53
 
 [Open repository](https://github.com/elbuo8/platzi-scripts)
+
+[Open detailed stats for elbuo8/platzi-scripts](https://reviewgithub.com/rep/elbuo8/platzi-scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 52 | 236 | 
 | 2022-09-07 | 52 | 236 | 
 
-
-[Detailed charts & statistics for elbuo8/platzi-scripts](https://reviewgithub.com/rep/elbuo8/platzi-scripts)

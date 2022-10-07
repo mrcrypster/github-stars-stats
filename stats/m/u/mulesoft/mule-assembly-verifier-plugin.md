@@ -1,12 +1,14 @@
 # mulesoft/mule-assembly-verifier-plugin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/mulesoft/mule-assembly-verifier-plugin)
+
+[Open detailed stats for mulesoft/mule-assembly-verifier-plugin](https://reviewgithub.com/rep/mulesoft/mule-assembly-verifier-plugin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
 
-
-[Detailed charts & statistics for mulesoft/mule-assembly-verifier-plugin](https://reviewgithub.com/rep/mulesoft/mule-assembly-verifier-plugin)

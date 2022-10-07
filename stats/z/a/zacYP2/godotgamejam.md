@@ -1,12 +1,14 @@
 # zacYP2/godotgamejam - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 3
 
 [Open repository](https://github.com/zacYP2/godotgamejam)
+
+[Open detailed stats for zacYP2/godotgamejam](https://reviewgithub.com/rep/zacYP2/godotgamejam)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 8 | 
 | 2022-09-07 | 3 | 8 | 
 
-
-[Detailed charts & statistics for zacYP2/godotgamejam](https://reviewgithub.com/rep/zacYP2/godotgamejam)

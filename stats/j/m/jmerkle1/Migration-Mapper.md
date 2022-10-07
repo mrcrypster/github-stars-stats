@@ -1,12 +1,14 @@
 # jmerkle1/Migration-Mapper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 4
 
 [Open repository](https://github.com/jmerkle1/Migration-Mapper)
+
+[Open detailed stats for jmerkle1/Migration-Mapper](https://reviewgithub.com/rep/jmerkle1/Migration-Mapper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | - | 
 | 2022-09-07 | 3 | - | 
 
-
-[Detailed charts & statistics for jmerkle1/Migration-Mapper](https://reviewgithub.com/rep/jmerkle1/Migration-Mapper)

@@ -1,12 +1,14 @@
 # kevinlawler/kerf1 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 36
 
 ★ Stars: 513
 
 [Open repository](https://github.com/kevinlawler/kerf1)
+
+[Open detailed stats for kevinlawler/kerf1](https://reviewgithub.com/rep/kevinlawler/kerf1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 511 | 36 | 
 | 2022-09-07 | 511 | 36 | 
 
-
-[Detailed charts & statistics for kevinlawler/kerf1](https://reviewgithub.com/rep/kevinlawler/kerf1)

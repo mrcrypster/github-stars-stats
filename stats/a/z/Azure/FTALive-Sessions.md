@@ -1,12 +1,14 @@
 # Azure/FTALive-Sessions - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 45
 
 ★ Stars: 52
 
 [Open repository](https://github.com/Azure/FTALive-Sessions)
+
+[Open detailed stats for Azure/FTALive-Sessions](https://reviewgithub.com/rep/Azure/FTALive-Sessions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 44 | 37 | 
 | 2022-09-08 | 44 | 37 | 
 
-
-[Detailed charts & statistics for Azure/FTALive-Sessions](https://reviewgithub.com/rep/Azure/FTALive-Sessions)

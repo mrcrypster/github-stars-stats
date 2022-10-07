@@ -1,12 +1,14 @@
 # Islandora/islandora_importer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 41
 
 ★ Stars: 3
 
 [Open repository](https://github.com/Islandora/islandora_importer)
+
+[Open detailed stats for Islandora/islandora_importer](https://reviewgithub.com/rep/Islandora/islandora_importer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 41 | 
 | 2022-09-07 | 3 | 41 | 
 
-
-[Detailed charts & statistics for Islandora/islandora_importer](https://reviewgithub.com/rep/Islandora/islandora_importer)

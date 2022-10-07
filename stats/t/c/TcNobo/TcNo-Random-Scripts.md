@@ -1,12 +1,14 @@
 # TcNobo/TcNo-Random-Scripts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 23
 
 [Open repository](https://github.com/TcNobo/TcNo-Random-Scripts)
+
+[Open detailed stats for TcNobo/TcNo-Random-Scripts](https://reviewgithub.com/rep/TcNobo/TcNo-Random-Scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 5 | 
 | 2022-09-07 | 20 | 5 | 
 
-
-[Detailed charts & statistics for TcNobo/TcNo-Random-Scripts](https://reviewgithub.com/rep/TcNobo/TcNo-Random-Scripts)

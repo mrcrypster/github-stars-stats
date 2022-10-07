@@ -1,12 +1,14 @@
 # kurniawanfebri344/-Windows2019RDP-Github - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 0
 
 [Open repository](https://github.com/kurniawanfebri344/-Windows2019RDP-Github)
+
+[Open detailed stats for kurniawanfebri344/-Windows2019RDP-Github](https://reviewgithub.com/rep/kurniawanfebri344/-Windows2019RDP-Github)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 28 | 
 | 2022-09-08 | - | 28 | 
 
-
-[Detailed charts & statistics for kurniawanfebri344/-Windows2019RDP-Github](https://reviewgithub.com/rep/kurniawanfebri344/-Windows2019RDP-Github)

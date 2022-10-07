@@ -1,12 +1,14 @@
 # gndx/js-portfolio - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 170
 
 ★ Stars: 36
 
 [Open repository](https://github.com/gndx/js-portfolio)
+
+[Open detailed stats for gndx/js-portfolio](https://reviewgithub.com/rep/gndx/js-portfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 36 | 161 | 
 | 2022-09-07 | 36 | 162 | 
 
-
-[Detailed charts & statistics for gndx/js-portfolio](https://reviewgithub.com/rep/gndx/js-portfolio)

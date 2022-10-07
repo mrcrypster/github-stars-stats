@@ -1,12 +1,14 @@
 # purescript/purescript-arrays - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 68
 
 ★ Stars: 54
 
 [Open repository](https://github.com/purescript/purescript-arrays)
+
+[Open detailed stats for purescript/purescript-arrays](https://reviewgithub.com/rep/purescript/purescript-arrays)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 54 | 68 | 
 | 2022-09-08 | 54 | 68 | 
 
-
-[Detailed charts & statistics for purescript/purescript-arrays](https://reviewgithub.com/rep/purescript/purescript-arrays)

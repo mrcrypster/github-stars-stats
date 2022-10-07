@@ -1,12 +1,14 @@
 # wiz-sec/open-cvdb - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 29
 
 ★ Stars: 183
 
 [Open repository](https://github.com/wiz-sec/open-cvdb)
+
+[Open detailed stats for wiz-sec/open-cvdb](https://reviewgithub.com/rep/wiz-sec/open-cvdb)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 171 | 23 | 
 | 2022-09-08 | 171 | 23 | 
 
-
-[Detailed charts & statistics for wiz-sec/open-cvdb](https://reviewgithub.com/rep/wiz-sec/open-cvdb)

@@ -1,12 +1,14 @@
 # toolbx-images/images - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 25
 
 [Open repository](https://github.com/toolbx-images/images)
+
+[Open detailed stats for toolbx-images/images](https://reviewgithub.com/rep/toolbx-images/images)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | 22 | 3 | 
 | 2022-09-14 | 21 | 3 | 
 
-
-[Detailed charts & statistics for toolbx-images/images](https://reviewgithub.com/rep/toolbx-images/images)

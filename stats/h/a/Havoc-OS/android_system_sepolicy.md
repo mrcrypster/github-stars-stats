@@ -1,12 +1,14 @@
 # Havoc-OS/android_system_sepolicy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Havoc-OS/android_system_sepolicy)
+
+[Open detailed stats for Havoc-OS/android_system_sepolicy](https://reviewgithub.com/rep/Havoc-OS/android_system_sepolicy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 13 | 
 | 2022-09-07 | 2 | 13 | 
 
-
-[Detailed charts & statistics for Havoc-OS/android_system_sepolicy](https://reviewgithub.com/rep/Havoc-OS/android_system_sepolicy)

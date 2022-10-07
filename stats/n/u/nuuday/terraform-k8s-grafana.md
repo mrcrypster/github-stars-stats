@@ -1,12 +1,14 @@
 # nuuday/terraform-k8s-grafana - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 0
 
 [Open repository](https://github.com/nuuday/terraform-k8s-grafana)
+
+[Open detailed stats for nuuday/terraform-k8s-grafana](https://reviewgithub.com/rep/nuuday/terraform-k8s-grafana)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -17,5 +19,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-04 | - | 2 | 
 | 2022-10-03 | - | 2 | 
 
-
-[Detailed charts & statistics for nuuday/terraform-k8s-grafana](https://reviewgithub.com/rep/nuuday/terraform-k8s-grafana)

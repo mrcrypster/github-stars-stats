@@ -1,12 +1,14 @@
 # vspinu/sesman - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 57
 
 [Open repository](https://github.com/vspinu/sesman)
+
+[Open detailed stats for vspinu/sesman](https://reviewgithub.com/rep/vspinu/sesman)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 57 | 6 | 
 | 2022-09-07 | 57 | 6 | 
 
-
-[Detailed charts & statistics for vspinu/sesman](https://reviewgithub.com/rep/vspinu/sesman)

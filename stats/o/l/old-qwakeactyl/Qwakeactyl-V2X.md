@@ -1,12 +1,14 @@
 # old-qwakeactyl/Qwakeactyl-V2X - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 7
 
 [Open repository](https://github.com/old-qwakeactyl/Qwakeactyl-V2X)
+
+[Open detailed stats for old-qwakeactyl/Qwakeactyl-V2X](https://reviewgithub.com/rep/old-qwakeactyl/Qwakeactyl-V2X)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 4 | 
 | 2022-09-07 | 6 | 4 | 
 
-
-[Detailed charts & statistics for old-qwakeactyl/Qwakeactyl-V2X](https://reviewgithub.com/rep/old-qwakeactyl/Qwakeactyl-V2X)

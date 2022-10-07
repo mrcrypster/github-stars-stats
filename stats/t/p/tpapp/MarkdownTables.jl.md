@@ -1,12 +1,14 @@
 # tpapp/MarkdownTables.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 21
 
 [Open repository](https://github.com/tpapp/MarkdownTables.jl)
+
+[Open detailed stats for tpapp/MarkdownTables.jl](https://reviewgithub.com/rep/tpapp/MarkdownTables.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-27 | 13 | 1 | 
 | 2022-09-26 | 11 | 1 | 
 
-
-[Detailed charts & statistics for tpapp/MarkdownTables.jl](https://reviewgithub.com/rep/tpapp/MarkdownTables.jl)

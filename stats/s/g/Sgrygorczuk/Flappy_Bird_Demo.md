@@ -1,12 +1,14 @@
 # Sgrygorczuk/Flappy_Bird_Demo - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/Sgrygorczuk/Flappy_Bird_Demo)
+
+[Open detailed stats for Sgrygorczuk/Flappy_Bird_Demo](https://reviewgithub.com/rep/Sgrygorczuk/Flappy_Bird_Demo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | 8 | 
 | 2022-09-08 | - | 8 | 
 
-
-[Detailed charts & statistics for Sgrygorczuk/Flappy_Bird_Demo](https://reviewgithub.com/rep/Sgrygorczuk/Flappy_Bird_Demo)

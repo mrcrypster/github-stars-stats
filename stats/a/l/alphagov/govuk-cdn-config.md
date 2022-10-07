@@ -1,12 +1,14 @@
 # alphagov/govuk-cdn-config - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 14
 
 [Open repository](https://github.com/alphagov/govuk-cdn-config)
+
+[Open detailed stats for alphagov/govuk-cdn-config](https://reviewgithub.com/rep/alphagov/govuk-cdn-config)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 14 | 7 | 
 | 2022-09-07 | 14 | 7 | 
 
-
-[Detailed charts & statistics for alphagov/govuk-cdn-config](https://reviewgithub.com/rep/alphagov/govuk-cdn-config)

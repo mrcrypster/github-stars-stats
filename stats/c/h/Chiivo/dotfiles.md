@@ -1,12 +1,14 @@
 # Chiivo/dotfiles - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 28
 
 [Open repository](https://github.com/Chiivo/dotfiles)
+
+[Open detailed stats for Chiivo/dotfiles](https://reviewgithub.com/rep/Chiivo/dotfiles)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 29 | - | 
 | 2022-09-07 | 29 | - | 
 
-
-[Detailed charts & statistics for Chiivo/dotfiles](https://reviewgithub.com/rep/Chiivo/dotfiles)

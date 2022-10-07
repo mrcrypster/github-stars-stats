@@ -1,12 +1,14 @@
 # SafuuProtocol/Safuu - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 46
 
 ★ Stars: 32
 
 [Open repository](https://github.com/SafuuProtocol/Safuu)
+
+[Open detailed stats for SafuuProtocol/Safuu](https://reviewgithub.com/rep/SafuuProtocol/Safuu)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 30 | 43 | 
 | 2022-09-08 | 30 | 43 | 
 
-
-[Detailed charts & statistics for SafuuProtocol/Safuu](https://reviewgithub.com/rep/SafuuProtocol/Safuu)

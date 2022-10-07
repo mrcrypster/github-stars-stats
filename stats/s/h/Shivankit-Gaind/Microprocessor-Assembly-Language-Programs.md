@@ -1,12 +1,14 @@
 # Shivankit-Gaind/Microprocessor-Assembly-Language-Programs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 24
 
 ★ Stars: 32
 
 [Open repository](https://github.com/Shivankit-Gaind/Microprocessor-Assembly-Language-Programs)
+
+[Open detailed stats for Shivankit-Gaind/Microprocessor-Assembly-Language-Programs](https://reviewgithub.com/rep/Shivankit-Gaind/Microprocessor-Assembly-Language-Programs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | 24 | 
 | 2022-09-08 | 32 | 24 | 
 
-
-[Detailed charts & statistics for Shivankit-Gaind/Microprocessor-Assembly-Language-Programs](https://reviewgithub.com/rep/Shivankit-Gaind/Microprocessor-Assembly-Language-Programs)

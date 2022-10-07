@@ -1,12 +1,14 @@
 # mspnp/aks-baseline-regulated - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 74
 
 ★ Stars: 77
 
 [Open repository](https://github.com/mspnp/aks-baseline-regulated)
+
+[Open detailed stats for mspnp/aks-baseline-regulated](https://reviewgithub.com/rep/mspnp/aks-baseline-regulated)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 74 | 73 | 
 | 2022-09-07 | 74 | 73 | 
 
-
-[Detailed charts & statistics for mspnp/aks-baseline-regulated](https://reviewgithub.com/rep/mspnp/aks-baseline-regulated)

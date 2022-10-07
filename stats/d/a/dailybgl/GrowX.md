@@ -1,12 +1,14 @@
 # dailybgl/GrowX - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dailybgl/GrowX)
+
+[Open detailed stats for dailybgl/GrowX](https://reviewgithub.com/rep/dailybgl/GrowX)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
 
-
-[Detailed charts & statistics for dailybgl/GrowX](https://reviewgithub.com/rep/dailybgl/GrowX)

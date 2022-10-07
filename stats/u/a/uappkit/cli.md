@@ -1,12 +1,14 @@
 # uappkit/cli - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 118
 
 ★ Stars: 666
 
 [Open repository](https://github.com/uappkit/cli)
+
+[Open detailed stats for uappkit/cli](https://reviewgithub.com/rep/uappkit/cli)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 665 | 118 | 
 | 2022-09-07 | 665 | 118 | 
 
-
-[Detailed charts & statistics for uappkit/cli](https://reviewgithub.com/rep/uappkit/cli)

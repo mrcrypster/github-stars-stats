@@ -1,12 +1,14 @@
 # AmirulAndalib/desterRoku - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 2
 
 [Open repository](https://github.com/AmirulAndalib/desterRoku)
+
+[Open detailed stats for AmirulAndalib/desterRoku](https://reviewgithub.com/rep/AmirulAndalib/desterRoku)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 5 | 
 | 2022-09-07 | 2 | 5 | 
 
-
-[Detailed charts & statistics for AmirulAndalib/desterRoku](https://reviewgithub.com/rep/AmirulAndalib/desterRoku)

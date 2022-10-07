@@ -1,12 +1,14 @@
 # jimgraygit/Onion - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 499
 
 [Open repository](https://github.com/jimgraygit/Onion)
+
+[Open detailed stats for jimgraygit/Onion](https://reviewgithub.com/rep/jimgraygit/Onion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 504 | 40 | 
 | 2022-09-07 | 504 | 40 | 
 
-
-[Detailed charts & statistics for jimgraygit/Onion](https://reviewgithub.com/rep/jimgraygit/Onion)

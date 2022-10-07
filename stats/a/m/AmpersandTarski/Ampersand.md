@@ -1,12 +1,14 @@
 # AmpersandTarski/Ampersand - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 37
 
 [Open repository](https://github.com/AmpersandTarski/Ampersand)
+
+[Open detailed stats for AmpersandTarski/Ampersand](https://reviewgithub.com/rep/AmpersandTarski/Ampersand)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 36 | 7 | 
 | 2022-09-07 | 36 | 7 | 
 
-
-[Detailed charts & statistics for AmpersandTarski/Ampersand](https://reviewgithub.com/rep/AmpersandTarski/Ampersand)

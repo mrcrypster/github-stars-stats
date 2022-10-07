@@ -1,12 +1,14 @@
 # emacs-evil/goto-chg - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 29
 
 [Open repository](https://github.com/emacs-evil/goto-chg)
+
+[Open detailed stats for emacs-evil/goto-chg](https://reviewgithub.com/rep/emacs-evil/goto-chg)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 15 | 
 | 2022-09-07 | 28 | 15 | 
 
-
-[Detailed charts & statistics for emacs-evil/goto-chg](https://reviewgithub.com/rep/emacs-evil/goto-chg)

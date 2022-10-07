@@ -1,12 +1,14 @@
 # UCLAdeepvision/CS269-surveys-2022spring - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
 ★ Stars: 2
 
 [Open repository](https://github.com/UCLAdeepvision/CS269-surveys-2022spring)
+
+[Open detailed stats for UCLAdeepvision/CS269-surveys-2022spring](https://reviewgithub.com/rep/UCLAdeepvision/CS269-surveys-2022spring)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 23 | 
 | 2022-09-07 | 2 | 23 | 
 
-
-[Detailed charts & statistics for UCLAdeepvision/CS269-surveys-2022spring](https://reviewgithub.com/rep/UCLAdeepvision/CS269-surveys-2022spring)

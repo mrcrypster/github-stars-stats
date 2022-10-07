@@ -1,12 +1,14 @@
 # EDAMC/DigitalDesignSchool - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 9
 
 [Open repository](https://github.com/EDAMC/DigitalDesignSchool)
+
+[Open detailed stats for EDAMC/DigitalDesignSchool](https://reviewgithub.com/rep/EDAMC/DigitalDesignSchool)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -24,5 +26,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-26 | 9 | 4 | 
 | 2022-09-25 | 9 | 4 | 
 
-
-[Detailed charts & statistics for EDAMC/DigitalDesignSchool](https://reviewgithub.com/rep/EDAMC/DigitalDesignSchool)

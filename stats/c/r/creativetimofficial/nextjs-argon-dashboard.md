@@ -1,12 +1,14 @@
 # creativetimofficial/nextjs-argon-dashboard - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 94
 
 ★ Stars: 85
 
 [Open repository](https://github.com/creativetimofficial/nextjs-argon-dashboard)
+
+[Open detailed stats for creativetimofficial/nextjs-argon-dashboard](https://reviewgithub.com/rep/creativetimofficial/nextjs-argon-dashboard)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 83 | 66 | 
 | 2022-09-08 | 83 | 66 | 
 
-
-[Detailed charts & statistics for creativetimofficial/nextjs-argon-dashboard](https://reviewgithub.com/rep/creativetimofficial/nextjs-argon-dashboard)

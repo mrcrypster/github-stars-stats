@@ -1,12 +1,14 @@
 # vaticle/typedb-protocol - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 12
 
 ★ Stars: 12
 
 [Open repository](https://github.com/vaticle/typedb-protocol)
+
+[Open detailed stats for vaticle/typedb-protocol](https://reviewgithub.com/rep/vaticle/typedb-protocol)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 12 | 
 | 2022-09-08 | 12 | 12 | 
 
-
-[Detailed charts & statistics for vaticle/typedb-protocol](https://reviewgithub.com/rep/vaticle/typedb-protocol)

@@ -1,12 +1,14 @@
 # achals/99-questions - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/achals/99-questions)
+
+[Open detailed stats for achals/99-questions](https://reviewgithub.com/rep/achals/99-questions)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for achals/99-questions](https://reviewgithub.com/rep/achals/99-questions)

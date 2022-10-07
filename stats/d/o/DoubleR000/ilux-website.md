@@ -1,12 +1,14 @@
 # DoubleR000/ilux-website - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/DoubleR000/ilux-website)
+
+[Open detailed stats for DoubleR000/ilux-website](https://reviewgithub.com/rep/DoubleR000/ilux-website)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -35,5 +37,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-15 | - | 5 | 
 | 2022-09-14 | - | 5 | 
 
-
-[Detailed charts & statistics for DoubleR000/ilux-website](https://reviewgithub.com/rep/DoubleR000/ilux-website)

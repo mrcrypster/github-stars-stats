@@ -1,12 +1,14 @@
 # scrimba/learn-javascript - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 711
 
 ★ Stars: 364
 
 [Open repository](https://github.com/scrimba/learn-javascript)
+
+[Open detailed stats for scrimba/learn-javascript](https://reviewgithub.com/rep/scrimba/learn-javascript)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 344 | 671 | 
 | 2022-09-08 | 342 | 668 | 
 
-
-[Detailed charts & statistics for scrimba/learn-javascript](https://reviewgithub.com/rep/scrimba/learn-javascript)

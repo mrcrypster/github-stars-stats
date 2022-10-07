@@ -1,12 +1,14 @@
 # gazebosim/gz-cmake - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 21
 
 ★ Stars: 12
 
 [Open repository](https://github.com/gazebosim/gz-cmake)
+
+[Open detailed stats for gazebosim/gz-cmake](https://reviewgithub.com/rep/gazebosim/gz-cmake)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 12 | 21 | 
 | 2022-09-08 | 12 | 21 | 
 
-
-[Detailed charts & statistics for gazebosim/gz-cmake](https://reviewgithub.com/rep/gazebosim/gz-cmake)

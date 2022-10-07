@@ -1,12 +1,14 @@
 # RumataEstor/work_challenges - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/RumataEstor/work_challenges)
+
+[Open detailed stats for RumataEstor/work_challenges](https://reviewgithub.com/rep/RumataEstor/work_challenges)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | - | 
 | 2022-09-07 | - | - | 
 
-
-[Detailed charts & statistics for RumataEstor/work_challenges](https://reviewgithub.com/rep/RumataEstor/work_challenges)

@@ -1,12 +1,14 @@
 # x74353/Amphetamine-Enhancer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 679
 
 [Open repository](https://github.com/x74353/Amphetamine-Enhancer)
+
+[Open detailed stats for x74353/Amphetamine-Enhancer](https://reviewgithub.com/rep/x74353/Amphetamine-Enhancer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 665 | 29 | 
 | 2022-09-07 | 664 | 29 | 
 
-
-[Detailed charts & statistics for x74353/Amphetamine-Enhancer](https://reviewgithub.com/rep/x74353/Amphetamine-Enhancer)

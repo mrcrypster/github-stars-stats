@@ -1,12 +1,14 @@
 # r-lib/httr - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2014
 
 ★ Stars: 959
 
 [Open repository](https://github.com/r-lib/httr)
+
+[Open detailed stats for r-lib/httr](https://reviewgithub.com/rep/r-lib/httr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 957 | 2014 | 
 | 2022-09-07 | 957 | 2014 | 
 
-
-[Detailed charts & statistics for r-lib/httr](https://reviewgithub.com/rep/r-lib/httr)

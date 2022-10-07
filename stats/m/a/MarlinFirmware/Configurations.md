@@ -1,12 +1,14 @@
 # MarlinFirmware/Configurations - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2666
 
 ★ Stars: 1441
 
 [Open repository](https://github.com/MarlinFirmware/Configurations)
+
+[Open detailed stats for MarlinFirmware/Configurations](https://reviewgithub.com/rep/MarlinFirmware/Configurations)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 1406 | 2632 | 
 | 2022-09-07 | 1405 | 2629 | 
 
-
-[Detailed charts & statistics for MarlinFirmware/Configurations](https://reviewgithub.com/rep/MarlinFirmware/Configurations)

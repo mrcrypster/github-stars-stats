@@ -1,12 +1,14 @@
 # modus-continens/modus - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 266
 
 [Open repository](https://github.com/modus-continens/modus)
+
+[Open detailed stats for modus-continens/modus](https://reviewgithub.com/rep/modus-continens/modus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 256 | 6 | 
 | 2022-09-08 | 256 | 6 | 
 
-
-[Detailed charts & statistics for modus-continens/modus](https://reviewgithub.com/rep/modus-continens/modus)

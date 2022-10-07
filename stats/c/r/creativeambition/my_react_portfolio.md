@@ -1,12 +1,14 @@
 # creativeambition/my_react_portfolio - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 60
 
 ★ Stars: 101
 
 [Open repository](https://github.com/creativeambition/my_react_portfolio)
+
+[Open detailed stats for creativeambition/my_react_portfolio](https://reviewgithub.com/rep/creativeambition/my_react_portfolio)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 100 | 60 | 
 | 2022-09-08 | 100 | 61 | 
 
-
-[Detailed charts & statistics for creativeambition/my_react_portfolio](https://reviewgithub.com/rep/creativeambition/my_react_portfolio)

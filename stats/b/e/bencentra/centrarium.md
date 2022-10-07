@@ -1,12 +1,14 @@
 # bencentra/centrarium - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 583
 
 ★ Stars: 369
 
 [Open repository](https://github.com/bencentra/centrarium)
+
+[Open detailed stats for bencentra/centrarium](https://reviewgithub.com/rep/bencentra/centrarium)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 369 | 580 | 
 | 2022-09-07 | 369 | 581 | 
 
-
-[Detailed charts & statistics for bencentra/centrarium](https://reviewgithub.com/rep/bencentra/centrarium)

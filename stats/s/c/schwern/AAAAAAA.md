@@ -1,12 +1,14 @@
 # schwern/AAAAAAA - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 12
 
 [Open repository](https://github.com/schwern/AAAAAAA)
+
+[Open detailed stats for schwern/AAAAAAA](https://reviewgithub.com/rep/schwern/AAAAAAA)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -39,5 +41,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-11 | 12 | 1 | 
 | 2022-09-10 | 12 | 1 | 
 
-
-[Detailed charts & statistics for schwern/AAAAAAA](https://reviewgithub.com/rep/schwern/AAAAAAA)

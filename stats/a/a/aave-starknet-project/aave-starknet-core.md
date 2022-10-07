@@ -1,12 +1,14 @@
 # aave-starknet-project/aave-starknet-core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 25
 
 [Open repository](https://github.com/aave-starknet-project/aave-starknet-core)
+
+[Open detailed stats for aave-starknet-project/aave-starknet-core](https://reviewgithub.com/rep/aave-starknet-project/aave-starknet-core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 23 | 3 | 
 | 2022-09-08 | 23 | 3 | 
 
-
-[Detailed charts & statistics for aave-starknet-project/aave-starknet-core](https://reviewgithub.com/rep/aave-starknet-project/aave-starknet-core)

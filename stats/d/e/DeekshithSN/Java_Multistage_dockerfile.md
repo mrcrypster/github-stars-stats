@@ -1,12 +1,14 @@
 # DeekshithSN/Java_Multistage_dockerfile - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 147
 
 ★ Stars: 3
 
 [Open repository](https://github.com/DeekshithSN/Java_Multistage_dockerfile)
+
+[Open detailed stats for DeekshithSN/Java_Multistage_dockerfile](https://reviewgithub.com/rep/DeekshithSN/Java_Multistage_dockerfile)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 141 | 
 | 2022-09-07 | 3 | 140 | 
 
-
-[Detailed charts & statistics for DeekshithSN/Java_Multistage_dockerfile](https://reviewgithub.com/rep/DeekshithSN/Java_Multistage_dockerfile)

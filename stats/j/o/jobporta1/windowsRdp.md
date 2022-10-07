@@ -1,12 +1,14 @@
 # jobporta1/windowsRdp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
 ★ Stars: 0
 
 [Open repository](https://github.com/jobporta1/windowsRdp)
+
+[Open detailed stats for jobporta1/windowsRdp](https://reviewgithub.com/rep/jobporta1/windowsRdp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 70 | 
 | 2022-09-07 | - | 70 | 
 
-
-[Detailed charts & statistics for jobporta1/windowsRdp](https://reviewgithub.com/rep/jobporta1/windowsRdp)

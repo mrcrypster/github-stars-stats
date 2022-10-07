@@ -1,12 +1,14 @@
 # guibou/rust_esgi - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/guibou/rust_esgi)
+
+[Open detailed stats for guibou/rust_esgi](https://reviewgithub.com/rep/guibou/rust_esgi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 5 | 
 | 2022-09-07 | 1 | 5 | 
 
-
-[Detailed charts & statistics for guibou/rust_esgi](https://reviewgithub.com/rep/guibou/rust_esgi)

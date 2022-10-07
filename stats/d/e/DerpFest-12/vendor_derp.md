@@ -1,12 +1,14 @@
 # DerpFest-12/vendor_derp - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 2
 
 [Open repository](https://github.com/DerpFest-12/vendor_derp)
+
+[Open detailed stats for DerpFest-12/vendor_derp](https://reviewgithub.com/rep/DerpFest-12/vendor_derp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 11 | 
 | 2022-09-08 | 2 | 11 | 
 
-
-[Detailed charts & statistics for DerpFest-12/vendor_derp](https://reviewgithub.com/rep/DerpFest-12/vendor_derp)

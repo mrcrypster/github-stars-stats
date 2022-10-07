@@ -1,12 +1,14 @@
 # Azure/iotedge - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 437
 
 ★ Stars: 1359
 
 [Open repository](https://github.com/Azure/iotedge)
+
+[Open detailed stats for Azure/iotedge](https://reviewgithub.com/rep/Azure/iotedge)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1350 | 432 | 
 | 2022-09-07 | 1350 | 432 | 
 
-
-[Detailed charts & statistics for Azure/iotedge](https://reviewgithub.com/rep/Azure/iotedge)

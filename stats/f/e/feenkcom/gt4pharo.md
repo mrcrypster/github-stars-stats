@@ -1,12 +1,14 @@
 # feenkcom/gt4pharo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/feenkcom/gt4pharo)
+
+[Open detailed stats for feenkcom/gt4pharo](https://reviewgithub.com/rep/feenkcom/gt4pharo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 3 | 3 | 
 | 2022-09-07 | 3 | 3 | 
 
-
-[Detailed charts & statistics for feenkcom/gt4pharo](https://reviewgithub.com/rep/feenkcom/gt4pharo)

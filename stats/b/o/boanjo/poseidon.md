@@ -1,12 +1,14 @@
 # boanjo/poseidon - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 60
 
 [Open repository](https://github.com/boanjo/poseidon)
+
+[Open detailed stats for boanjo/poseidon](https://reviewgithub.com/rep/boanjo/poseidon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 59 | 1 | 
 | 2022-09-07 | 58 | 1 | 
 
-
-[Detailed charts & statistics for boanjo/poseidon](https://reviewgithub.com/rep/boanjo/poseidon)

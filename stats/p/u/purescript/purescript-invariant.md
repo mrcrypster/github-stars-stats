@@ -1,12 +1,14 @@
 # purescript/purescript-invariant - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 6
 
 [Open repository](https://github.com/purescript/purescript-invariant)
+
+[Open detailed stats for purescript/purescript-invariant](https://reviewgithub.com/rep/purescript/purescript-invariant)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 6 | 5 | 
 | 2022-09-08 | 6 | 5 | 
 
-
-[Detailed charts & statistics for purescript/purescript-invariant](https://reviewgithub.com/rep/purescript/purescript-invariant)

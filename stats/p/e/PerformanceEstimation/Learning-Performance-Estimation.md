@@ -1,12 +1,14 @@
 # PerformanceEstimation/Learning-Performance-Estimation - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 10
 
 [Open repository](https://github.com/PerformanceEstimation/Learning-Performance-Estimation)
+
+[Open detailed stats for PerformanceEstimation/Learning-Performance-Estimation](https://reviewgithub.com/rep/PerformanceEstimation/Learning-Performance-Estimation)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11 | 1 | 
 | 2022-09-08 | 11 | 1 | 
 
-
-[Detailed charts & statistics for PerformanceEstimation/Learning-Performance-Estimation](https://reviewgithub.com/rep/PerformanceEstimation/Learning-Performance-Estimation)

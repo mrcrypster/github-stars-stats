@@ -1,12 +1,14 @@
 # FrederickHuangLin/ANCOM - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 50
 
 [Open repository](https://github.com/FrederickHuangLin/ANCOM)
+
+[Open detailed stats for FrederickHuangLin/ANCOM](https://reviewgithub.com/rep/FrederickHuangLin/ANCOM)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 49 | 38 | 
 | 2022-09-07 | 49 | 38 | 
 
-
-[Detailed charts & statistics for FrederickHuangLin/ANCOM](https://reviewgithub.com/rep/FrederickHuangLin/ANCOM)

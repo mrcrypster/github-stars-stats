@@ -1,12 +1,14 @@
 # xiaoweiChen/Cpp-Templates-2nd - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 32
 
 [Open repository](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
+
+[Open detailed stats for xiaoweiChen/Cpp-Templates-2nd](https://reviewgithub.com/rep/xiaoweiChen/Cpp-Templates-2nd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 25 | 4 | 
 | 2022-09-08 | 25 | 4 | 
 
-
-[Detailed charts & statistics for xiaoweiChen/Cpp-Templates-2nd](https://reviewgithub.com/rep/xiaoweiChen/Cpp-Templates-2nd)

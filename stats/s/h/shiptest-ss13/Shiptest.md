@@ -1,12 +1,14 @@
 # shiptest-ss13/Shiptest - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 223
 
 ★ Stars: 49
 
 [Open repository](https://github.com/shiptest-ss13/Shiptest)
+
+[Open detailed stats for shiptest-ss13/Shiptest](https://reviewgithub.com/rep/shiptest-ss13/Shiptest)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 49 | 219 | 
 | 2022-09-08 | 49 | 219 | 
 
-
-[Detailed charts & statistics for shiptest-ss13/Shiptest](https://reviewgithub.com/rep/shiptest-ss13/Shiptest)

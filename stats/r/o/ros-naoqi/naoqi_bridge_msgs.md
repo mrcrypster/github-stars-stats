@@ -1,12 +1,14 @@
 # ros-naoqi/naoqi_bridge_msgs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ros-naoqi/naoqi_bridge_msgs)
+
+[Open detailed stats for ros-naoqi/naoqi_bridge_msgs](https://reviewgithub.com/rep/ros-naoqi/naoqi_bridge_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 15 | 
 | 2022-09-08 | 1 | 15 | 
 
-
-[Detailed charts & statistics for ros-naoqi/naoqi_bridge_msgs](https://reviewgithub.com/rep/ros-naoqi/naoqi_bridge_msgs)

@@ -1,12 +1,14 @@
 # apache/ranger - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 719
 
 ★ Stars: 664
 
 [Open repository](https://github.com/apache/ranger)
+
+[Open detailed stats for apache/ranger](https://reviewgithub.com/rep/apache/ranger)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 658 | 712 | 
 | 2022-09-08 | 658 | 711 | 
 
-
-[Detailed charts & statistics for apache/ranger](https://reviewgithub.com/rep/apache/ranger)

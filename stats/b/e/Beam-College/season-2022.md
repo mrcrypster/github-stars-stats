@@ -1,12 +1,14 @@
 # Beam-College/season-2022 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 24
 
 [Open repository](https://github.com/Beam-College/season-2022)
+
+[Open detailed stats for Beam-College/season-2022](https://reviewgithub.com/rep/Beam-College/season-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 24 | 18 | 
 | 2022-09-08 | 24 | 18 | 
 
-
-[Detailed charts & statistics for Beam-College/season-2022](https://reviewgithub.com/rep/Beam-College/season-2022)

@@ -1,12 +1,14 @@
 # he1pu/JDHelp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 354
 
 ★ Stars: 636
 
 [Open repository](https://github.com/he1pu/JDHelp)
+
+[Open detailed stats for he1pu/JDHelp](https://reviewgithub.com/rep/he1pu/JDHelp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 634 | 358 | 
 | 2022-09-08 | 634 | 358 | 
 
-
-[Detailed charts & statistics for he1pu/JDHelp](https://reviewgithub.com/rep/he1pu/JDHelp)

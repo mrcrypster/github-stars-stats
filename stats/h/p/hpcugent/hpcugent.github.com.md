@@ -1,12 +1,14 @@
 # hpcugent/hpcugent.github.com - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 0
 
 [Open repository](https://github.com/hpcugent/hpcugent.github.com)
+
+[Open detailed stats for hpcugent/hpcugent.github.com](https://reviewgithub.com/rep/hpcugent/hpcugent.github.com)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 1 | 
 | 2022-09-07 | - | 1 | 
 
-
-[Detailed charts & statistics for hpcugent/hpcugent.github.com](https://reviewgithub.com/rep/hpcugent/hpcugent.github.com)

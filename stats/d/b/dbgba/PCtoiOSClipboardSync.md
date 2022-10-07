@@ -1,12 +1,14 @@
 # dbgba/PCtoiOSClipboardSync - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/dbgba/PCtoiOSClipboardSync)
+
+[Open detailed stats for dbgba/PCtoiOSClipboardSync](https://reviewgithub.com/rep/dbgba/PCtoiOSClipboardSync)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 12 | 1 | 
 | 2022-09-07 | 11 | 1 | 
 
-
-[Detailed charts & statistics for dbgba/PCtoiOSClipboardSync](https://reviewgithub.com/rep/dbgba/PCtoiOSClipboardSync)

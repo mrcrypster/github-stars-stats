@@ -1,12 +1,14 @@
 # owncloud/core - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2069
 
 ★ Stars: 7848
 
 [Open repository](https://github.com/owncloud/core)
+
+[Open detailed stats for owncloud/core](https://reviewgithub.com/rep/owncloud/core)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7833 | 2066 | 
 | 2022-09-08 | 7833 | 2066 | 
 
-
-[Detailed charts & statistics for owncloud/core](https://reviewgithub.com/rep/owncloud/core)

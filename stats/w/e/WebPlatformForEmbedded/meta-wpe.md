@@ -1,12 +1,14 @@
 # WebPlatformForEmbedded/meta-wpe - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 76
 
 ★ Stars: 70
 
 [Open repository](https://github.com/WebPlatformForEmbedded/meta-wpe)
+
+[Open detailed stats for WebPlatformForEmbedded/meta-wpe](https://reviewgithub.com/rep/WebPlatformForEmbedded/meta-wpe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 70 | 76 | 
 | 2022-09-08 | 70 | 76 | 
 
-
-[Detailed charts & statistics for WebPlatformForEmbedded/meta-wpe](https://reviewgithub.com/rep/WebPlatformForEmbedded/meta-wpe)

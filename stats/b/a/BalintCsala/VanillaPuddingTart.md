@@ -1,12 +1,14 @@
 # BalintCsala/VanillaPuddingTart - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 130
 
 [Open repository](https://github.com/BalintCsala/VanillaPuddingTart)
+
+[Open detailed stats for BalintCsala/VanillaPuddingTart](https://reviewgithub.com/rep/BalintCsala/VanillaPuddingTart)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 129 | 2 | 
 | 2022-09-08 | 129 | 2 | 
 
-
-[Detailed charts & statistics for BalintCsala/VanillaPuddingTart](https://reviewgithub.com/rep/BalintCsala/VanillaPuddingTart)

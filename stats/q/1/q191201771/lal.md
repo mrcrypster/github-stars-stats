@@ -1,12 +1,14 @@
 # q191201771/lal - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 271
 
 ★ Stars: 1681
 
 [Open repository](https://github.com/q191201771/lal)
+
+[Open detailed stats for q191201771/lal](https://reviewgithub.com/rep/q191201771/lal)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1642 | 267 | 
 | 2022-09-07 | 1637 | 266 | 
 
-
-[Detailed charts & statistics for q191201771/lal](https://reviewgithub.com/rep/q191201771/lal)

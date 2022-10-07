@@ -1,12 +1,14 @@
 # dexidp/helm-charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 57
 
 ★ Stars: 29
 
 [Open repository](https://github.com/dexidp/helm-charts)
+
+[Open detailed stats for dexidp/helm-charts](https://reviewgithub.com/rep/dexidp/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 52 | 
 | 2022-09-08 | 27 | 52 | 
 
-
-[Detailed charts & statistics for dexidp/helm-charts](https://reviewgithub.com/rep/dexidp/helm-charts)

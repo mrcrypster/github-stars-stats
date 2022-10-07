@@ -1,12 +1,14 @@
 # 0xLeO0/space-shooterz - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 13
 
 [Open repository](https://github.com/0xLeO0/space-shooterz)
+
+[Open detailed stats for 0xLeO0/space-shooterz](https://reviewgithub.com/rep/0xLeO0/space-shooterz)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | - | 
 | 2022-09-07 | 13 | - | 
 
-
-[Detailed charts & statistics for 0xLeO0/space-shooterz](https://reviewgithub.com/rep/0xLeO0/space-shooterz)

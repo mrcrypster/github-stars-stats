@@ -1,12 +1,14 @@
 # mate-academy/Museum - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 250
 
 ★ Stars: 2
 
 [Open repository](https://github.com/mate-academy/Museum)
+
+[Open detailed stats for mate-academy/Museum](https://reviewgithub.com/rep/mate-academy/Museum)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2 | 242 | 
 | 2022-09-08 | 2 | 242 | 
 
-
-[Detailed charts & statistics for mate-academy/Museum](https://reviewgithub.com/rep/mate-academy/Museum)

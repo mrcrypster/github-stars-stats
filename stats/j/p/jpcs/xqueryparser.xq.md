@@ -1,12 +1,14 @@
 # jpcs/xqueryparser.xq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 13
 
 [Open repository](https://github.com/jpcs/xqueryparser.xq)
+
+[Open detailed stats for jpcs/xqueryparser.xq](https://reviewgithub.com/rep/jpcs/xqueryparser.xq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 3 | 
 | 2022-09-08 | 13 | 3 | 
 
-
-[Detailed charts & statistics for jpcs/xqueryparser.xq](https://reviewgithub.com/rep/jpcs/xqueryparser.xq)

@@ -1,12 +1,14 @@
 # D-RubyIV/D_RubyX_RDP_6Hours - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 0
 
 [Open repository](https://github.com/D-RubyIV/D_RubyX_RDP_6Hours)
+
+[Open detailed stats for D-RubyIV/D_RubyX_RDP_6Hours](https://reviewgithub.com/rep/D-RubyIV/D_RubyX_RDP_6Hours)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 14 | 
 | 2022-09-08 | - | 14 | 
 
-
-[Detailed charts & statistics for D-RubyIV/D_RubyX_RDP_6Hours](https://reviewgithub.com/rep/D-RubyIV/D_RubyX_RDP_6Hours)

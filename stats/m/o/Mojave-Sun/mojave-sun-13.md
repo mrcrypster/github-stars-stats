@@ -1,12 +1,14 @@
 # Mojave-Sun/mojave-sun-13 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 52
 
 ★ Stars: 14
 
 [Open repository](https://github.com/Mojave-Sun/mojave-sun-13)
+
+[Open detailed stats for Mojave-Sun/mojave-sun-13](https://reviewgithub.com/rep/Mojave-Sun/mojave-sun-13)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | 50 | 
 | 2022-09-07 | 14 | 50 | 
 
-
-[Detailed charts & statistics for Mojave-Sun/mojave-sun-13](https://reviewgithub.com/rep/Mojave-Sun/mojave-sun-13)

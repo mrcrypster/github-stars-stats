@@ -1,12 +1,14 @@
 # scipag/HardeningKitty - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 73
 
 ★ Stars: 514
 
 [Open repository](https://github.com/scipag/HardeningKitty)
+
+[Open detailed stats for scipag/HardeningKitty](https://reviewgithub.com/rep/scipag/HardeningKitty)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 496 | 72 | 
 | 2022-09-21 | 496 | 72 | 
 
-
-[Detailed charts & statistics for scipag/HardeningKitty](https://reviewgithub.com/rep/scipag/HardeningKitty)

@@ -1,12 +1,14 @@
 # purescript/purescript-bifunctors - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 10
 
 [Open repository](https://github.com/purescript/purescript-bifunctors)
+
+[Open detailed stats for purescript/purescript-bifunctors](https://reviewgithub.com/rep/purescript/purescript-bifunctors)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 8 | 
 | 2022-09-08 | 10 | 8 | 
 
-
-[Detailed charts & statistics for purescript/purescript-bifunctors](https://reviewgithub.com/rep/purescript/purescript-bifunctors)

@@ -1,12 +1,14 @@
 # junnei/mml - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 3
 
 [Open repository](https://github.com/junnei/mml)
+
+[Open detailed stats for junnei/mml](https://reviewgithub.com/rep/junnei/mml)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 16 | 
 | 2022-09-07 | 3 | 16 | 
 
-
-[Detailed charts & statistics for junnei/mml](https://reviewgithub.com/rep/junnei/mml)

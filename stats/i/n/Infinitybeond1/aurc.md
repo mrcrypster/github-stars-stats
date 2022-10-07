@@ -1,12 +1,14 @@
 # Infinitybeond1/aurc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 9
 
 [Open repository](https://github.com/Infinitybeond1/aurc)
+
+[Open detailed stats for Infinitybeond1/aurc](https://reviewgithub.com/rep/Infinitybeond1/aurc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 1 | 
 | 2022-09-07 | 9 | 1 | 
 
-
-[Detailed charts & statistics for Infinitybeond1/aurc](https://reviewgithub.com/rep/Infinitybeond1/aurc)

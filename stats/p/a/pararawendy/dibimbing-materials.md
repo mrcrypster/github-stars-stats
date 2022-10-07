@@ -1,12 +1,14 @@
 # pararawendy/dibimbing-materials - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 0
 
 [Open repository](https://github.com/pararawendy/dibimbing-materials)
+
+[Open detailed stats for pararawendy/dibimbing-materials](https://reviewgithub.com/rep/pararawendy/dibimbing-materials)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 19 | 
 | 2022-09-07 | - | 20 | 
 
-
-[Detailed charts & statistics for pararawendy/dibimbing-materials](https://reviewgithub.com/rep/pararawendy/dibimbing-materials)

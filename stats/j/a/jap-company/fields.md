@@ -1,12 +1,14 @@
 # jap-company/fields - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 37
 
 [Open repository](https://github.com/jap-company/fields)
+
+[Open detailed stats for jap-company/fields](https://reviewgithub.com/rep/jap-company/fields)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 34 | 3 | 
 | 2022-09-07 | 34 | 3 | 
 
-
-[Detailed charts & statistics for jap-company/fields](https://reviewgithub.com/rep/jap-company/fields)

@@ -1,12 +1,14 @@
 # p4gefau1t/trojan-go - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1232
 
 ★ Stars: 5169
 
 [Open repository](https://github.com/p4gefau1t/trojan-go)
+
+[Open detailed stats for p4gefau1t/trojan-go](https://reviewgithub.com/rep/p4gefau1t/trojan-go)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 5028 | 1206 | 
 | 2022-09-08 | 5020 | 1206 | 
 
-
-[Detailed charts & statistics for p4gefau1t/trojan-go](https://reviewgithub.com/rep/p4gefau1t/trojan-go)

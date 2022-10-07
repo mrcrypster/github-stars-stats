@@ -1,12 +1,14 @@
 # hashicorp/terraform-google-vault - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 75
 
 ★ Stars: 116
 
 [Open repository](https://github.com/hashicorp/terraform-google-vault)
+
+[Open detailed stats for hashicorp/terraform-google-vault](https://reviewgithub.com/rep/hashicorp/terraform-google-vault)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 115 | 75 | 
 | 2022-09-07 | 115 | 75 | 
 
-
-[Detailed charts & statistics for hashicorp/terraform-google-vault](https://reviewgithub.com/rep/hashicorp/terraform-google-vault)

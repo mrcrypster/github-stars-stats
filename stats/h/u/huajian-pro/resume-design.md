@@ -1,12 +1,14 @@
 # huajian-pro/resume-design - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 52
 
 ★ Stars: 268
 
 [Open repository](https://github.com/huajian-pro/resume-design)
+
+[Open detailed stats for huajian-pro/resume-design](https://reviewgithub.com/rep/huajian-pro/resume-design)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 223 | 48 | 
 | 2022-09-07 | 222 | 48 | 
 
-
-[Detailed charts & statistics for huajian-pro/resume-design](https://reviewgithub.com/rep/huajian-pro/resume-design)

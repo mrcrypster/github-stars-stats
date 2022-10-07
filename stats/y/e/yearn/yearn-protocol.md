@@ -1,12 +1,14 @@
 # yearn/yearn-protocol - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 210
 
 ★ Stars: 429
 
 [Open repository](https://github.com/yearn/yearn-protocol)
+
+[Open detailed stats for yearn/yearn-protocol](https://reviewgithub.com/rep/yearn/yearn-protocol)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 425 | 208 | 
 | 2022-09-07 | 425 | 208 | 
 
-
-[Detailed charts & statistics for yearn/yearn-protocol](https://reviewgithub.com/rep/yearn/yearn-protocol)

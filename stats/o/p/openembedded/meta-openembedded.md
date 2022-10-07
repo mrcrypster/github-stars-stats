@@ -1,12 +1,14 @@
 # openembedded/meta-openembedded - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 557
 
 ★ Stars: 296
 
 [Open repository](https://github.com/openembedded/meta-openembedded)
+
+[Open detailed stats for openembedded/meta-openembedded](https://reviewgithub.com/rep/openembedded/meta-openembedded)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 292 | 551 | 
 | 2022-09-08 | 292 | 551 | 
 
-
-[Detailed charts & statistics for openembedded/meta-openembedded](https://reviewgithub.com/rep/openembedded/meta-openembedded)

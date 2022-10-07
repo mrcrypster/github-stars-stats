@@ -1,12 +1,14 @@
 # purecloudlabs/platform-client-sdk-common - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 4
 
 [Open repository](https://github.com/purecloudlabs/platform-client-sdk-common)
+
+[Open detailed stats for purecloudlabs/platform-client-sdk-common](https://reviewgithub.com/rep/purecloudlabs/platform-client-sdk-common)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 4 | 24 | 
 | 2022-09-08 | 4 | 24 | 
 
-
-[Detailed charts & statistics for purecloudlabs/platform-client-sdk-common](https://reviewgithub.com/rep/purecloudlabs/platform-client-sdk-common)

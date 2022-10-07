@@ -1,12 +1,14 @@
 # maple-labs/proxy-factory - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 12
 
 [Open repository](https://github.com/maple-labs/proxy-factory)
+
+[Open detailed stats for maple-labs/proxy-factory](https://reviewgithub.com/rep/maple-labs/proxy-factory)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 11 | 4 | 
 | 2022-09-07 | 11 | 4 | 
 
-
-[Detailed charts & statistics for maple-labs/proxy-factory](https://reviewgithub.com/rep/maple-labs/proxy-factory)

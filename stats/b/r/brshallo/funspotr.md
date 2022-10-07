@@ -1,12 +1,14 @@
 # brshallo/funspotr - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 31
 
 [Open repository](https://github.com/brshallo/funspotr)
+
+[Open detailed stats for brshallo/funspotr](https://reviewgithub.com/rep/brshallo/funspotr)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 30 | - | 
 | 2022-09-07 | 30 | - | 
 
-
-[Detailed charts & statistics for brshallo/funspotr](https://reviewgithub.com/rep/brshallo/funspotr)

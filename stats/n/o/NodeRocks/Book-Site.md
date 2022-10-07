@@ -1,12 +1,14 @@
 # NodeRocks/Book-Site - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/NodeRocks/Book-Site)
+
+[Open detailed stats for NodeRocks/Book-Site](https://reviewgithub.com/rep/NodeRocks/Book-Site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
 
-
-[Detailed charts & statistics for NodeRocks/Book-Site](https://reviewgithub.com/rep/NodeRocks/Book-Site)

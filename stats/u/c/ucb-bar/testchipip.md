@@ -1,12 +1,14 @@
 # ucb-bar/testchipip - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 43
 
 ★ Stars: 55
 
 [Open repository](https://github.com/ucb-bar/testchipip)
+
+[Open detailed stats for ucb-bar/testchipip](https://reviewgithub.com/rep/ucb-bar/testchipip)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 54 | 41 | 
 | 2022-09-07 | 54 | 41 | 
 
-
-[Detailed charts & statistics for ucb-bar/testchipip](https://reviewgithub.com/rep/ucb-bar/testchipip)

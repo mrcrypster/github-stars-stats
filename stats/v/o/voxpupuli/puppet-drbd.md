@@ -1,12 +1,14 @@
 # voxpupuli/puppet-drbd - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
 ★ Stars: 20
 
 [Open repository](https://github.com/voxpupuli/puppet-drbd)
+
+[Open detailed stats for voxpupuli/puppet-drbd](https://reviewgithub.com/rep/voxpupuli/puppet-drbd)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 57 | 
 | 2022-09-07 | 20 | 57 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-drbd](https://reviewgithub.com/rep/voxpupuli/puppet-drbd)

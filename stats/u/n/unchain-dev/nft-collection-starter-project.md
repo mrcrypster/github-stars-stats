@@ -1,12 +1,14 @@
 # unchain-dev/nft-collection-starter-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 122
 
 ★ Stars: 1
 
 [Open repository](https://github.com/unchain-dev/nft-collection-starter-project)
+
+[Open detailed stats for unchain-dev/nft-collection-starter-project](https://reviewgithub.com/rep/unchain-dev/nft-collection-starter-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 112 | 
 | 2022-09-07 | 1 | 110 | 
 
-
-[Detailed charts & statistics for unchain-dev/nft-collection-starter-project](https://reviewgithub.com/rep/unchain-dev/nft-collection-starter-project)

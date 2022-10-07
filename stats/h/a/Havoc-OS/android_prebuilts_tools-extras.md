@@ -1,12 +1,14 @@
 # Havoc-OS/android_prebuilts_tools-extras - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 1
 
 [Open repository](https://github.com/Havoc-OS/android_prebuilts_tools-extras)
+
+[Open detailed stats for Havoc-OS/android_prebuilts_tools-extras](https://reviewgithub.com/rep/Havoc-OS/android_prebuilts_tools-extras)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 5 | 
 | 2022-09-07 | 1 | 5 | 
 
-
-[Detailed charts & statistics for Havoc-OS/android_prebuilts_tools-extras](https://reviewgithub.com/rep/Havoc-OS/android_prebuilts_tools-extras)

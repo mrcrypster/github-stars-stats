@@ -1,12 +1,14 @@
 # hidde/eleventy-wcag-reporter - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 93
 
 [Open repository](https://github.com/hidde/eleventy-wcag-reporter)
+
+[Open detailed stats for hidde/eleventy-wcag-reporter](https://reviewgithub.com/rep/hidde/eleventy-wcag-reporter)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 93 | 39 | 
 | 2022-09-07 | 93 | 39 | 
 
-
-[Detailed charts & statistics for hidde/eleventy-wcag-reporter](https://reviewgithub.com/rep/hidde/eleventy-wcag-reporter)

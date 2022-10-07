@@ -1,12 +1,14 @@
 # NotLuksus/nft-art-generator - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 505
 
 ★ Stars: 1496
 
 [Open repository](https://github.com/NotLuksus/nft-art-generator)
+
+[Open detailed stats for NotLuksus/nft-art-generator](https://reviewgithub.com/rep/NotLuksus/nft-art-generator)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1475 | 499 | 
 | 2022-09-07 | 1473 | 499 | 
 
-
-[Detailed charts & statistics for NotLuksus/nft-art-generator](https://reviewgithub.com/rep/NotLuksus/nft-art-generator)

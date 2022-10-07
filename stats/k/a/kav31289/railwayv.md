@@ -1,12 +1,14 @@
 # kav31289/railwayv - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 238
 
 ★ Stars: 11
 
 [Open repository](https://github.com/kav31289/railwayv)
+
+[Open detailed stats for kav31289/railwayv](https://reviewgithub.com/rep/kav31289/railwayv)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 232 | 
 | 2022-09-07 | 11 | 232 | 
 
-
-[Detailed charts & statistics for kav31289/railwayv](https://reviewgithub.com/rep/kav31289/railwayv)

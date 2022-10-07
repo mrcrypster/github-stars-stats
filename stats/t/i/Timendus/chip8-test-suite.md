@@ -1,12 +1,14 @@
 # Timendus/chip8-test-suite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 54
 
 [Open repository](https://github.com/Timendus/chip8-test-suite)
+
+[Open detailed stats for Timendus/chip8-test-suite](https://reviewgithub.com/rep/Timendus/chip8-test-suite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 44 | 1 | 
 | 2022-09-07 | 44 | 1 | 
 
-
-[Detailed charts & statistics for Timendus/chip8-test-suite](https://reviewgithub.com/rep/Timendus/chip8-test-suite)

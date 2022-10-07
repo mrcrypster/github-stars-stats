@@ -1,12 +1,14 @@
 # kanake10/Cocktails - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 13
 
 ★ Stars: 28
 
 [Open repository](https://github.com/kanake10/Cocktails)
+
+[Open detailed stats for kanake10/Cocktails](https://reviewgithub.com/rep/kanake10/Cocktails)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 27 | 13 | 
 | 2022-09-08 | 27 | 13 | 
 
-
-[Detailed charts & statistics for kanake10/Cocktails](https://reviewgithub.com/rep/kanake10/Cocktails)

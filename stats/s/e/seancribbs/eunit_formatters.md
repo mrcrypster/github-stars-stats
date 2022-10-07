@@ -1,12 +1,14 @@
 # seancribbs/eunit_formatters - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
 ★ Stars: 66
 
 [Open repository](https://github.com/seancribbs/eunit_formatters)
+
+[Open detailed stats for seancribbs/eunit_formatters](https://reviewgithub.com/rep/seancribbs/eunit_formatters)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 66 | 29 | 
 | 2022-09-08 | 66 | 29 | 
 
-
-[Detailed charts & statistics for seancribbs/eunit_formatters](https://reviewgithub.com/rep/seancribbs/eunit_formatters)

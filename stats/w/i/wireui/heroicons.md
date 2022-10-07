@@ -1,12 +1,14 @@
 # wireui/heroicons - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 32
 
 [Open repository](https://github.com/wireui/heroicons)
+
+[Open detailed stats for wireui/heroicons](https://reviewgithub.com/rep/wireui/heroicons)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 30 | 3 | 
 | 2022-09-08 | 30 | 3 | 
 
-
-[Detailed charts & statistics for wireui/heroicons](https://reviewgithub.com/rep/wireui/heroicons)

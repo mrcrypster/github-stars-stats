@@ -1,12 +1,14 @@
 # KID421/Unity_HC_K_2D_Game_20220724 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 5
 
 ★ Stars: 0
 
 [Open repository](https://github.com/KID421/Unity_HC_K_2D_Game_20220724)
+
+[Open detailed stats for KID421/Unity_HC_K_2D_Game_20220724](https://reviewgithub.com/rep/KID421/Unity_HC_K_2D_Game_20220724)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
 
-
-[Detailed charts & statistics for KID421/Unity_HC_K_2D_Game_20220724](https://reviewgithub.com/rep/KID421/Unity_HC_K_2D_Game_20220724)

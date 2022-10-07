@@ -1,12 +1,14 @@
 # jimhourihan/glsl-mode - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 84
 
 [Open repository](https://github.com/jimhourihan/glsl-mode)
+
+[Open detailed stats for jimhourihan/glsl-mode](https://reviewgithub.com/rep/jimhourihan/glsl-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 82 | 13 | 
 | 2022-09-07 | 82 | 13 | 
 
-
-[Detailed charts & statistics for jimhourihan/glsl-mode](https://reviewgithub.com/rep/jimhourihan/glsl-mode)

@@ -1,12 +1,14 @@
 # CFMIP/COSPv2.0 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 27
 
 [Open repository](https://github.com/CFMIP/COSPv2.0)
+
+[Open detailed stats for CFMIP/COSPv2.0](https://reviewgithub.com/rep/CFMIP/COSPv2.0)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 27 | 32 | 
 | 2022-09-07 | 27 | 32 | 
 
-
-[Detailed charts & statistics for CFMIP/COSPv2.0](https://reviewgithub.com/rep/CFMIP/COSPv2.0)

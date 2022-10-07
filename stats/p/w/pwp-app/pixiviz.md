@@ -1,12 +1,14 @@
 # pwp-app/pixiviz - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 116
 
 [Open repository](https://github.com/pwp-app/pixiviz)
+
+[Open detailed stats for pwp-app/pixiviz](https://reviewgithub.com/rep/pwp-app/pixiviz)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 114 | 10 | 
 | 2022-09-08 | 114 | 10 | 
 
-
-[Detailed charts & statistics for pwp-app/pixiviz](https://reviewgithub.com/rep/pwp-app/pixiviz)

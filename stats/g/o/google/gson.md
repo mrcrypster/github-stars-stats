@@ -1,12 +1,14 @@
 # google/gson - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4118
 
 ★ Stars: 21444
 
 [Open repository](https://github.com/google/gson)
+
+[Open detailed stats for google/gson](https://reviewgithub.com/rep/google/gson)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 21346 | 4105 | 
 | 2022-09-07 | 21334 | 4104 | 
 
-
-[Detailed charts & statistics for google/gson](https://reviewgithub.com/rep/google/gson)

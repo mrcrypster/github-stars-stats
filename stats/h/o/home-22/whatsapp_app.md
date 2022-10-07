@@ -1,12 +1,14 @@
 # home-22/whatsapp_app - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 17
 
 [Open repository](https://github.com/home-22/whatsapp_app)
+
+[Open detailed stats for home-22/whatsapp_app](https://reviewgithub.com/rep/home-22/whatsapp_app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -23,5 +25,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-27 | 16 | 11 | 
 | 2022-09-26 | 15 | 11 | 
 
-
-[Detailed charts & statistics for home-22/whatsapp_app](https://reviewgithub.com/rep/home-22/whatsapp_app)

@@ -1,12 +1,14 @@
 # FreeAgent/clj-amazon - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 7
 
 ★ Stars: 7
 
 [Open repository](https://github.com/FreeAgent/clj-amazon)
+
+[Open detailed stats for FreeAgent/clj-amazon](https://reviewgithub.com/rep/FreeAgent/clj-amazon)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 7 | 
 | 2022-09-08 | 7 | 7 | 
 
-
-[Detailed charts & statistics for FreeAgent/clj-amazon](https://reviewgithub.com/rep/FreeAgent/clj-amazon)

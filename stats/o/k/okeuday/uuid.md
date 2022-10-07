@@ -1,12 +1,14 @@
 # okeuday/uuid - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 68
 
 ★ Stars: 206
 
 [Open repository](https://github.com/okeuday/uuid)
+
+[Open detailed stats for okeuday/uuid](https://reviewgithub.com/rep/okeuday/uuid)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 204 | 67 | 
 | 2022-09-08 | 204 | 67 | 
 
-
-[Detailed charts & statistics for okeuday/uuid](https://reviewgithub.com/rep/okeuday/uuid)

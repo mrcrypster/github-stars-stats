@@ -1,12 +1,14 @@
 # akira/exq - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 180
 
 ★ Stars: 1370
 
 [Open repository](https://github.com/akira/exq)
+
+[Open detailed stats for akira/exq](https://reviewgithub.com/rep/akira/exq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1362 | 180 | 
 | 2022-09-08 | 1362 | 180 | 
 
-
-[Detailed charts & statistics for akira/exq](https://reviewgithub.com/rep/akira/exq)

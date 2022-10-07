@@ -1,12 +1,14 @@
 # dannye/pokered-gbc - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 39
 
 ★ Stars: 102
 
 [Open repository](https://github.com/dannye/pokered-gbc)
+
+[Open detailed stats for dannye/pokered-gbc](https://reviewgithub.com/rep/dannye/pokered-gbc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 102 | 39 | 
 | 2022-09-07 | 102 | 39 | 
 
-
-[Detailed charts & statistics for dannye/pokered-gbc](https://reviewgithub.com/rep/dannye/pokered-gbc)

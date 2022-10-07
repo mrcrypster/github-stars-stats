@@ -1,12 +1,14 @@
 # Sharqo78/VTik - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 13
 
 [Open repository](https://github.com/Sharqo78/VTik)
+
+[Open detailed stats for Sharqo78/VTik](https://reviewgithub.com/rep/Sharqo78/VTik)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 2 | 
 | 2022-09-07 | 13 | 2 | 
 
-
-[Detailed charts & statistics for Sharqo78/VTik](https://reviewgithub.com/rep/Sharqo78/VTik)

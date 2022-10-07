@@ -1,12 +1,14 @@
 # bazelbuild/rules_kotlin - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 168
 
 ★ Stars: 282
 
 [Open repository](https://github.com/bazelbuild/rules_kotlin)
+
+[Open detailed stats for bazelbuild/rules_kotlin](https://reviewgithub.com/rep/bazelbuild/rules_kotlin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 283 | 166 | 
 | 2022-09-08 | 283 | 166 | 
 
-
-[Detailed charts & statistics for bazelbuild/rules_kotlin](https://reviewgithub.com/rep/bazelbuild/rules_kotlin)

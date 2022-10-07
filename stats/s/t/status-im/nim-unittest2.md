@@ -1,12 +1,14 @@
 # status-im/nim-unittest2 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 12
 
 [Open repository](https://github.com/status-im/nim-unittest2)
+
+[Open detailed stats for status-im/nim-unittest2](https://reviewgithub.com/rep/status-im/nim-unittest2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 3 | 
 | 2022-09-07 | 11 | 3 | 
 
-
-[Detailed charts & statistics for status-im/nim-unittest2](https://reviewgithub.com/rep/status-im/nim-unittest2)

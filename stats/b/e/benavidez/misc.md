@@ -1,12 +1,14 @@
 # benavidez/misc - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/benavidez/misc)
+
+[Open detailed stats for benavidez/misc](https://reviewgithub.com/rep/benavidez/misc)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -34,5 +36,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-16 | - | - | 
 | 2022-09-15 | - | - | 
 
-
-[Detailed charts & statistics for benavidez/misc](https://reviewgithub.com/rep/benavidez/misc)

@@ -1,12 +1,14 @@
 # efabless/caravel-lite - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 11
 
 [Open repository](https://github.com/efabless/caravel-lite)
+
+[Open detailed stats for efabless/caravel-lite](https://reviewgithub.com/rep/efabless/caravel-lite)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 11 | 12 | 
 | 2022-09-07 | 11 | 12 | 
 
-
-[Detailed charts & statistics for efabless/caravel-lite](https://reviewgithub.com/rep/efabless/caravel-lite)

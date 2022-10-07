@@ -1,12 +1,14 @@
 # alfredbaudisch/GodotRuntimeTextureSplatMapPainting - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/alfredbaudisch/GodotRuntimeTextureSplatMapPainting)
+
+[Open detailed stats for alfredbaudisch/GodotRuntimeTextureSplatMapPainting](https://reviewgithub.com/rep/alfredbaudisch/GodotRuntimeTextureSplatMapPainting)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 16 | - | 
 | 2022-09-07 | 16 | - | 
 
-
-[Detailed charts & statistics for alfredbaudisch/GodotRuntimeTextureSplatMapPainting](https://reviewgithub.com/rep/alfredbaudisch/GodotRuntimeTextureSplatMapPainting)

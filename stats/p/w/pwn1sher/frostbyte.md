@@ -1,12 +1,14 @@
 # pwn1sher/frostbyte - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 38
 
 ★ Stars: 308
 
 [Open repository](https://github.com/pwn1sher/frostbyte)
+
+[Open detailed stats for pwn1sher/frostbyte](https://reviewgithub.com/rep/pwn1sher/frostbyte)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 300 | 37 | 
 | 2022-09-07 | 299 | 37 | 
 
-
-[Detailed charts & statistics for pwn1sher/frostbyte](https://reviewgithub.com/rep/pwn1sher/frostbyte)

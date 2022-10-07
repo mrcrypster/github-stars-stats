@@ -1,12 +1,14 @@
 # KD-lab-Open-Source/VistaEngine - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 47
 
 [Open repository](https://github.com/KD-lab-Open-Source/VistaEngine)
+
+[Open detailed stats for KD-lab-Open-Source/VistaEngine](https://reviewgithub.com/rep/KD-lab-Open-Source/VistaEngine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 47 | 4 | 
 | 2022-09-07 | 47 | 4 | 
 
-
-[Detailed charts & statistics for KD-lab-Open-Source/VistaEngine](https://reviewgithub.com/rep/KD-lab-Open-Source/VistaEngine)

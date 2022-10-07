@@ -1,12 +1,14 @@
 # Ikaroon/TMP3D - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 52
 
 [Open repository](https://github.com/Ikaroon/TMP3D)
+
+[Open detailed stats for Ikaroon/TMP3D](https://reviewgithub.com/rep/Ikaroon/TMP3D)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 48 | 1 | 
 | 2022-09-07 | 47 | 1 | 
 
-
-[Detailed charts & statistics for Ikaroon/TMP3D](https://reviewgithub.com/rep/Ikaroon/TMP3D)

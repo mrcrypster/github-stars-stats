@@ -1,12 +1,14 @@
 # gaetbout/starknet-felt-packing - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 17
 
 [Open repository](https://github.com/gaetbout/starknet-felt-packing)
+
+[Open detailed stats for gaetbout/starknet-felt-packing](https://reviewgithub.com/rep/gaetbout/starknet-felt-packing)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 
-
-[Detailed charts & statistics for gaetbout/starknet-felt-packing](https://reviewgithub.com/rep/gaetbout/starknet-felt-packing)

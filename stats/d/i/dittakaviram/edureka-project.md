@@ -1,12 +1,14 @@
 # dittakaviram/edureka-project - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
 ★ Stars: 0
 
 [Open repository](https://github.com/dittakaviram/edureka-project)
+
+[Open detailed stats for dittakaviram/edureka-project](https://reviewgithub.com/rep/dittakaviram/edureka-project)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 34 | 
 | 2022-09-07 | - | 34 | 
 
-
-[Detailed charts & statistics for dittakaviram/edureka-project](https://reviewgithub.com/rep/dittakaviram/edureka-project)

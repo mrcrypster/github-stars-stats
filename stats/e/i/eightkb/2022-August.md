@@ -1,12 +1,14 @@
 # eightkb/2022-August - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 4
 
 [Open repository](https://github.com/eightkb/2022-August)
+
+[Open detailed stats for eightkb/2022-August](https://reviewgithub.com/rep/eightkb/2022-August)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 4 | 3 | 
 | 2022-09-08 | 4 | 3 | 
 
-
-[Detailed charts & statistics for eightkb/2022-August](https://reviewgithub.com/rep/eightkb/2022-August)

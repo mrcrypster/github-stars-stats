@@ -1,12 +1,14 @@
 # nf-core/dualrnaseq - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 8
 
 [Open repository](https://github.com/nf-core/dualrnaseq)
+
+[Open detailed stats for nf-core/dualrnaseq](https://reviewgithub.com/rep/nf-core/dualrnaseq)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 7 | 13 | 
 | 2022-09-07 | 7 | 13 | 
 
-
-[Detailed charts & statistics for nf-core/dualrnaseq](https://reviewgithub.com/rep/nf-core/dualrnaseq)

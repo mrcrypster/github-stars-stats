@@ -1,12 +1,14 @@
 # cedille/ial - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 30
 
 [Open repository](https://github.com/cedille/ial)
+
+[Open detailed stats for cedille/ial](https://reviewgithub.com/rep/cedille/ial)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 29 | 17 | 
 | 2022-09-08 | 29 | 17 | 
 
-
-[Detailed charts & statistics for cedille/ial](https://reviewgithub.com/rep/cedille/ial)

@@ -1,12 +1,14 @@
 # zobront/paradigm-ctf - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 25
 
 ★ Stars: 117
 
 [Open repository](https://github.com/zobront/paradigm-ctf)
+
+[Open detailed stats for zobront/paradigm-ctf](https://reviewgithub.com/rep/zobront/paradigm-ctf)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 107 | 24 | 
 | 2022-09-08 | 107 | 24 | 
 
-
-[Detailed charts & statistics for zobront/paradigm-ctf](https://reviewgithub.com/rep/zobront/paradigm-ctf)

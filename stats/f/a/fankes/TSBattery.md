@@ -1,12 +1,14 @@
 # fankes/TSBattery - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 304
 
 [Open repository](https://github.com/fankes/TSBattery)
+
+[Open detailed stats for fankes/TSBattery](https://reviewgithub.com/rep/fankes/TSBattery)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 280 | 10 | 
 | 2022-09-08 | 280 | 10 | 
 
-
-[Detailed charts & statistics for fankes/TSBattery](https://reviewgithub.com/rep/fankes/TSBattery)

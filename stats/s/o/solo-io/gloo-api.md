@@ -1,12 +1,14 @@
 # solo-io/gloo-api - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/solo-io/gloo-api)
+
+[Open detailed stats for solo-io/gloo-api](https://reviewgithub.com/rep/solo-io/gloo-api)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 3 | 
 | 2022-09-07 | - | 3 | 
 
-
-[Detailed charts & statistics for solo-io/gloo-api](https://reviewgithub.com/rep/solo-io/gloo-api)

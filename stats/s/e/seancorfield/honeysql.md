@@ -1,12 +1,14 @@
 # seancorfield/honeysql - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 151
 
 ★ Stars: 1520
 
 [Open repository](https://github.com/seancorfield/honeysql)
+
+[Open detailed stats for seancorfield/honeysql](https://reviewgithub.com/rep/seancorfield/honeysql)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1512 | 149 | 
 | 2022-09-07 | 1513 | 149 | 
 
-
-[Detailed charts & statistics for seancorfield/honeysql](https://reviewgithub.com/rep/seancorfield/honeysql)

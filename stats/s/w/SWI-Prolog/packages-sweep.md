@@ -1,12 +1,14 @@
 # SWI-Prolog/packages-sweep - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 3
 
 [Open repository](https://github.com/SWI-Prolog/packages-sweep)
+
+[Open detailed stats for SWI-Prolog/packages-sweep](https://reviewgithub.com/rep/SWI-Prolog/packages-sweep)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -22,5 +24,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-28 | - | - | 
 | 2022-09-27 | - | - | 
 
-
-[Detailed charts & statistics for SWI-Prolog/packages-sweep](https://reviewgithub.com/rep/SWI-Prolog/packages-sweep)

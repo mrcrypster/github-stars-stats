@@ -1,12 +1,14 @@
 # ertugrulcetin/herfi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 95
 
 [Open repository](https://github.com/ertugrulcetin/herfi)
+
+[Open detailed stats for ertugrulcetin/herfi](https://reviewgithub.com/rep/ertugrulcetin/herfi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 92 | 8 | 
 | 2022-09-07 | 92 | 8 | 
 
-
-[Detailed charts & statistics for ertugrulcetin/herfi](https://reviewgithub.com/rep/ertugrulcetin/herfi)

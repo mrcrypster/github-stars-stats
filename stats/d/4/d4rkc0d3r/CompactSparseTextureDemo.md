@@ -1,12 +1,14 @@
 # d4rkc0d3r/CompactSparseTextureDemo - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 14
 
 [Open repository](https://github.com/d4rkc0d3r/CompactSparseTextureDemo)
+
+[Open detailed stats for d4rkc0d3r/CompactSparseTextureDemo](https://reviewgithub.com/rep/d4rkc0d3r/CompactSparseTextureDemo)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 14 | - | 
 | 2022-09-08 | 14 | - | 
 
-
-[Detailed charts & statistics for d4rkc0d3r/CompactSparseTextureDemo](https://reviewgithub.com/rep/d4rkc0d3r/CompactSparseTextureDemo)

@@ -1,12 +1,14 @@
 # v3io/helm-charts - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 43
 
 ★ Stars: 2
 
 [Open repository](https://github.com/v3io/helm-charts)
+
+[Open detailed stats for v3io/helm-charts](https://reviewgithub.com/rep/v3io/helm-charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 43 | 
 | 2022-09-07 | 2 | 43 | 
 
-
-[Detailed charts & statistics for v3io/helm-charts](https://reviewgithub.com/rep/v3io/helm-charts)

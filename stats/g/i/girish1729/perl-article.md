@@ -1,12 +1,14 @@
 # girish1729/perl-article - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 4
 
 [Open repository](https://github.com/girish1729/perl-article)
+
+[Open detailed stats for girish1729/perl-article](https://reviewgithub.com/rep/girish1729/perl-article)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 2 | 
 | 2022-09-07 | 4 | 2 | 
 
-
-[Detailed charts & statistics for girish1729/perl-article](https://reviewgithub.com/rep/girish1729/perl-article)

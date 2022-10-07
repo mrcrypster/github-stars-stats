@@ -1,12 +1,14 @@
 # garrett-anstreicher/optimal_growth - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 25
 
 ★ Stars: 0
 
 [Open repository](https://github.com/garrett-anstreicher/optimal_growth)
+
+[Open detailed stats for garrett-anstreicher/optimal_growth](https://reviewgithub.com/rep/garrett-anstreicher/optimal_growth)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 25 | 
 | 2022-09-07 | - | 25 | 
 
-
-[Detailed charts & statistics for garrett-anstreicher/optimal_growth](https://reviewgithub.com/rep/garrett-anstreicher/optimal_growth)

@@ -1,12 +1,14 @@
 # xenodium/dwim-shell-command - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 62
 
 [Open repository](https://github.com/xenodium/dwim-shell-command)
+
+[Open detailed stats for xenodium/dwim-shell-command](https://reviewgithub.com/rep/xenodium/dwim-shell-command)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 51 | 4 | 
 | 2022-09-07 | 51 | 4 | 
 
-
-[Detailed charts & statistics for xenodium/dwim-shell-command](https://reviewgithub.com/rep/xenodium/dwim-shell-command)

@@ -1,12 +1,14 @@
 # kawahedukasi/education-test-schema-fe - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 85
 
 ★ Stars: 3
 
 [Open repository](https://github.com/kawahedukasi/education-test-schema-fe)
+
+[Open detailed stats for kawahedukasi/education-test-schema-fe](https://reviewgithub.com/rep/kawahedukasi/education-test-schema-fe)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 3 | 85 | 
 | 2022-09-08 | 3 | 85 | 
 
-
-[Detailed charts & statistics for kawahedukasi/education-test-schema-fe](https://reviewgithub.com/rep/kawahedukasi/education-test-schema-fe)

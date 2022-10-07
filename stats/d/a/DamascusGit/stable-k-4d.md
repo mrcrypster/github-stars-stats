@@ -1,12 +1,14 @@
 # DamascusGit/stable-k-4d - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
 ★ Stars: 37
 
 [Open repository](https://github.com/DamascusGit/stable-k-4d)
+
+[Open detailed stats for DamascusGit/stable-k-4d](https://reviewgithub.com/rep/DamascusGit/stable-k-4d)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 36 | 10 | 
 | 2022-09-08 | 34 | 10 | 
 
-
-[Detailed charts & statistics for DamascusGit/stable-k-4d](https://reviewgithub.com/rep/DamascusGit/stable-k-4d)

@@ -1,12 +1,14 @@
 # qbcore-framework/qb-taxijob - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 152
 
 ★ Stars: 13
 
 [Open repository](https://github.com/qbcore-framework/qb-taxijob)
+
+[Open detailed stats for qbcore-framework/qb-taxijob](https://reviewgithub.com/rep/qbcore-framework/qb-taxijob)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 12 | 149 | 
 | 2022-09-07 | 12 | 149 | 
 
-
-[Detailed charts & statistics for qbcore-framework/qb-taxijob](https://reviewgithub.com/rep/qbcore-framework/qb-taxijob)

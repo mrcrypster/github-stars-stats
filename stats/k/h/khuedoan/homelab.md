@@ -1,12 +1,14 @@
 # khuedoan/homelab - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 435
 
 ★ Stars: 6177
 
 [Open repository](https://github.com/khuedoan/homelab)
+
+[Open detailed stats for khuedoan/homelab](https://reviewgithub.com/rep/khuedoan/homelab)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6083 | 413 | 
 | 2022-09-07 | 6082 | 409 | 
 
-
-[Detailed charts & statistics for khuedoan/homelab](https://reviewgithub.com/rep/khuedoan/homelab)

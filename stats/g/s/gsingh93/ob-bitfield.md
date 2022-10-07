@@ -1,12 +1,14 @@
 # gsingh93/ob-bitfield - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 13
 
 [Open repository](https://github.com/gsingh93/ob-bitfield)
+
+[Open detailed stats for gsingh93/ob-bitfield](https://reviewgithub.com/rep/gsingh93/ob-bitfield)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 13 | 1 | 
 | 2022-09-08 | 13 | 1 | 
 
-
-[Detailed charts & statistics for gsingh93/ob-bitfield](https://reviewgithub.com/rep/gsingh93/ob-bitfield)

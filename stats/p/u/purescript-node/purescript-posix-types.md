@@ -1,12 +1,14 @@
 # purescript-node/purescript-posix-types - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 2
 
 [Open repository](https://github.com/purescript-node/purescript-posix-types)
+
+[Open detailed stats for purescript-node/purescript-posix-types](https://reviewgithub.com/rep/purescript-node/purescript-posix-types)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 5 | 
 | 2022-09-08 | 2 | 5 | 
 
-
-[Detailed charts & statistics for purescript-node/purescript-posix-types](https://reviewgithub.com/rep/purescript-node/purescript-posix-types)

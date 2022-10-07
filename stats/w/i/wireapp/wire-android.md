@@ -1,12 +1,14 @@
 # wireapp/wire-android - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 499
 
 ★ Stars: 2537
 
 [Open repository](https://github.com/wireapp/wire-android)
+
+[Open detailed stats for wireapp/wire-android](https://reviewgithub.com/rep/wireapp/wire-android)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 2536 | 500 | 
 | 2022-09-08 | 2536 | 500 | 
 
-
-[Detailed charts & statistics for wireapp/wire-android](https://reviewgithub.com/rep/wireapp/wire-android)

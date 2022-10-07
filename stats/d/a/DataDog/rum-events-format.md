@@ -1,12 +1,14 @@
 # DataDog/rum-events-format - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 6
 
 [Open repository](https://github.com/DataDog/rum-events-format)
+
+[Open detailed stats for DataDog/rum-events-format](https://reviewgithub.com/rep/DataDog/rum-events-format)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | - | 
 | 2022-09-07 | 6 | - | 
 
-
-[Detailed charts & statistics for DataDog/rum-events-format](https://reviewgithub.com/rep/DataDog/rum-events-format)

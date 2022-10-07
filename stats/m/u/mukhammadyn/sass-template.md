@@ -1,12 +1,14 @@
 # mukhammadyn/sass-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 1
 
 [Open repository](https://github.com/mukhammadyn/sass-template)
+
+[Open detailed stats for mukhammadyn/sass-template](https://reviewgithub.com/rep/mukhammadyn/sass-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 14 | 
 | 2022-09-07 | 1 | 14 | 
 
-
-[Detailed charts & statistics for mukhammadyn/sass-template](https://reviewgithub.com/rep/mukhammadyn/sass-template)

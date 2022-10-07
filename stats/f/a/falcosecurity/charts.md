@@ -1,12 +1,14 @@
 # falcosecurity/charts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 199
 
 ★ Stars: 150
 
 [Open repository](https://github.com/falcosecurity/charts)
+
+[Open detailed stats for falcosecurity/charts](https://reviewgithub.com/rep/falcosecurity/charts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 147 | 192 | 
 | 2022-09-08 | 147 | 192 | 
 
-
-[Detailed charts & statistics for falcosecurity/charts](https://reviewgithub.com/rep/falcosecurity/charts)

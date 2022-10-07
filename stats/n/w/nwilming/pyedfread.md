@@ -1,12 +1,14 @@
 # nwilming/pyedfread - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 53
 
 ★ Stars: 35
 
 [Open repository](https://github.com/nwilming/pyedfread)
+
+[Open detailed stats for nwilming/pyedfread](https://reviewgithub.com/rep/nwilming/pyedfread)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 34 | 52 | 
 | 2022-09-08 | 34 | 52 | 
 
-
-[Detailed charts & statistics for nwilming/pyedfread](https://reviewgithub.com/rep/nwilming/pyedfread)

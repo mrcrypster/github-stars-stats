@@ -1,12 +1,14 @@
 # aranghat/FAISQL_JOINS - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 8
 
 ★ Stars: 0
 
 [Open repository](https://github.com/aranghat/FAISQL_JOINS)
+
+[Open detailed stats for aranghat/FAISQL_JOINS](https://reviewgithub.com/rep/aranghat/FAISQL_JOINS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | - | 20 | 
 | 2022-09-09 | - | 20 | 
 
-
-[Detailed charts & statistics for aranghat/FAISQL_JOINS](https://reviewgithub.com/rep/aranghat/FAISQL_JOINS)

@@ -1,12 +1,14 @@
 # feenkcom/gtoolkit-completer - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 21
 
 [Open repository](https://github.com/feenkcom/gtoolkit-completer)
+
+[Open detailed stats for feenkcom/gtoolkit-completer](https://reviewgithub.com/rep/feenkcom/gtoolkit-completer)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 19 | 3 | 
 | 2022-09-08 | 19 | 3 | 
 
-
-[Detailed charts & statistics for feenkcom/gtoolkit-completer](https://reviewgithub.com/rep/feenkcom/gtoolkit-completer)

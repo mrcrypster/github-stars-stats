@@ -1,12 +1,14 @@
 # lyj0309/pan - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
 ★ Stars: 9
 
 [Open repository](https://github.com/lyj0309/pan)
+
+[Open detailed stats for lyj0309/pan](https://reviewgithub.com/rep/lyj0309/pan)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 9 | 14 | 
 | 2022-09-07 | 9 | 14 | 
 
-
-[Detailed charts & statistics for lyj0309/pan](https://reviewgithub.com/rep/lyj0309/pan)

@@ -1,12 +1,14 @@
 # iwomm/VMware-CodeHouse-2022 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
 ★ Stars: 2
 
 [Open repository](https://github.com/iwomm/VMware-CodeHouse-2022)
+
+[Open detailed stats for iwomm/VMware-CodeHouse-2022](https://reviewgithub.com/rep/iwomm/VMware-CodeHouse-2022)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 15 | 
 | 2022-09-07 | 2 | 15 | 
 
-
-[Detailed charts & statistics for iwomm/VMware-CodeHouse-2022](https://reviewgithub.com/rep/iwomm/VMware-CodeHouse-2022)

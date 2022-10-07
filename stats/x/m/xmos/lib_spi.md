@@ -1,12 +1,14 @@
 # xmos/lib_spi - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 9
 
 ★ Stars: 2
 
 [Open repository](https://github.com/xmos/lib_spi)
+
+[Open detailed stats for xmos/lib_spi](https://reviewgithub.com/rep/xmos/lib_spi)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 2 | 9 | 
 | 2022-09-07 | 2 | 10 | 
 
-
-[Detailed charts & statistics for xmos/lib_spi](https://reviewgithub.com/rep/xmos/lib_spi)

@@ -1,12 +1,14 @@
 # NCAR/noahmp - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 28
 
 ★ Stars: 20
 
 [Open repository](https://github.com/NCAR/noahmp)
+
+[Open detailed stats for NCAR/noahmp](https://reviewgithub.com/rep/NCAR/noahmp)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -25,5 +27,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-25 | 20 | 28 | 
 | 2022-09-24 | 20 | 28 | 
 
-
-[Detailed charts & statistics for NCAR/noahmp](https://reviewgithub.com/rep/NCAR/noahmp)

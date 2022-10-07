@@ -1,12 +1,14 @@
 # HashLoad/jhonson - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 20
 
 ★ Stars: 68
 
 [Open repository](https://github.com/HashLoad/jhonson)
+
+[Open detailed stats for HashLoad/jhonson](https://reviewgithub.com/rep/HashLoad/jhonson)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 68 | 20 | 
 | 2022-09-07 | 68 | 20 | 
 
-
-[Detailed charts & statistics for HashLoad/jhonson](https://reviewgithub.com/rep/HashLoad/jhonson)

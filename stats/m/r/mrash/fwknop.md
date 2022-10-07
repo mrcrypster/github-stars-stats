@@ -1,12 +1,14 @@
 # mrash/fwknop - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 188
 
 ★ Stars: 860
 
 [Open repository](https://github.com/mrash/fwknop)
+
+[Open detailed stats for mrash/fwknop](https://reviewgithub.com/rep/mrash/fwknop)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 850 | 187 | 
 | 2022-09-07 | 849 | 187 | 
 
-
-[Detailed charts & statistics for mrash/fwknop](https://reviewgithub.com/rep/mrash/fwknop)

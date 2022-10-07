@@ -1,12 +1,14 @@
 # ghostdevv/svelte-turnstile - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 23
 
 [Open repository](https://github.com/ghostdevv/svelte-turnstile)
+
+[Open detailed stats for ghostdevv/svelte-turnstile](https://reviewgithub.com/rep/ghostdevv/svelte-turnstile)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -18,5 +20,3 @@ Stats updated on Dec 54734, 12
 | 2022-10-03 | 22 | - | 
 | 2022-10-02 | 22 | - | 
 
-
-[Detailed charts & statistics for ghostdevv/svelte-turnstile](https://reviewgithub.com/rep/ghostdevv/svelte-turnstile)

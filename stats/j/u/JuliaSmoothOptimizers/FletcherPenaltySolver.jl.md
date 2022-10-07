@@ -1,12 +1,14 @@
 # JuliaSmoothOptimizers/FletcherPenaltySolver.jl - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 7
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/FletcherPenaltySolver.jl)
+
+[Open detailed stats for JuliaSmoothOptimizers/FletcherPenaltySolver.jl](https://reviewgithub.com/rep/JuliaSmoothOptimizers/FletcherPenaltySolver.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | 6 | - | 
 | 2022-09-09 | 5 | - | 
 
-
-[Detailed charts & statistics for JuliaSmoothOptimizers/FletcherPenaltySolver.jl](https://reviewgithub.com/rep/JuliaSmoothOptimizers/FletcherPenaltySolver.jl)

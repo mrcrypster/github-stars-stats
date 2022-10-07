@@ -1,12 +1,14 @@
 # FandyAhmadAzizi/FreeRdp-1 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 180
 
 ★ Stars: 1
 
 [Open repository](https://github.com/FandyAhmadAzizi/FreeRdp-1)
+
+[Open detailed stats for FandyAhmadAzizi/FreeRdp-1](https://reviewgithub.com/rep/FandyAhmadAzizi/FreeRdp-1)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 162 | 
 | 2022-09-08 | - | 162 | 
 
-
-[Detailed charts & statistics for FandyAhmadAzizi/FreeRdp-1](https://reviewgithub.com/rep/FandyAhmadAzizi/FreeRdp-1)

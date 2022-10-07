@@ -1,12 +1,14 @@
 # bachmitre/tabmanager - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 44
 
 [Open repository](https://github.com/bachmitre/tabmanager)
+
+[Open detailed stats for bachmitre/tabmanager](https://reviewgithub.com/rep/bachmitre/tabmanager)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 42 | 1 | 
 | 2022-09-07 | 42 | 1 | 
 
-
-[Detailed charts & statistics for bachmitre/tabmanager](https://reviewgithub.com/rep/bachmitre/tabmanager)

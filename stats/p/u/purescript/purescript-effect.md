@@ -1,12 +1,14 @@
 # purescript/purescript-effect - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 49
 
 [Open repository](https://github.com/purescript/purescript-effect)
+
+[Open detailed stats for purescript/purescript-effect](https://reviewgithub.com/rep/purescript/purescript-effect)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 49 | 19 | 
 | 2022-09-08 | 49 | 19 | 
 
-
-[Detailed charts & statistics for purescript/purescript-effect](https://reviewgithub.com/rep/purescript/purescript-effect)

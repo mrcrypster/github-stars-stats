@@ -1,12 +1,14 @@
 # code-423n4/2022-05-factorydao - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 3
 
 [Open repository](https://github.com/code-423n4/2022-05-factorydao)
+
+[Open detailed stats for code-423n4/2022-05-factorydao](https://reviewgithub.com/rep/code-423n4/2022-05-factorydao)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 2 | 1 | 
 | 2022-09-07 | 2 | 1 | 
 
-
-[Detailed charts & statistics for code-423n4/2022-05-factorydao](https://reviewgithub.com/rep/code-423n4/2022-05-factorydao)

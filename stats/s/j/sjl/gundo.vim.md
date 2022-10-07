@@ -1,12 +1,14 @@
 # sjl/gundo.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 84
 
 ★ Stars: 1448
 
 [Open repository](https://github.com/sjl/gundo.vim)
+
+[Open detailed stats for sjl/gundo.vim](https://reviewgithub.com/rep/sjl/gundo.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1447 | 84 | 
 | 2022-09-07 | 1447 | 84 | 
 
-
-[Detailed charts & statistics for sjl/gundo.vim](https://reviewgithub.com/rep/sjl/gundo.vim)

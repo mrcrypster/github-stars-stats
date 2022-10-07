@@ -1,12 +1,14 @@
 # AgicCloud/Demo.Aks.Performance - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 7
 
 [Open repository](https://github.com/AgicCloud/Demo.Aks.Performance)
+
+[Open detailed stats for AgicCloud/Demo.Aks.Performance](https://reviewgithub.com/rep/AgicCloud/Demo.Aks.Performance)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 7 | 9 | 
 | 2022-09-08 | 7 | 9 | 
 
-
-[Detailed charts & statistics for AgicCloud/Demo.Aks.Performance](https://reviewgithub.com/rep/AgicCloud/Demo.Aks.Performance)

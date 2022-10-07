@@ -1,12 +1,14 @@
 # slailcp/tv-focusable-example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 22
 
 ★ Stars: 43
 
 [Open repository](https://github.com/slailcp/tv-focusable-example)
+
+[Open detailed stats for slailcp/tv-focusable-example](https://reviewgithub.com/rep/slailcp/tv-focusable-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 42 | 21 | 
 | 2022-09-07 | 42 | 21 | 
 
-
-[Detailed charts & statistics for slailcp/tv-focusable-example](https://reviewgithub.com/rep/slailcp/tv-focusable-example)

@@ -1,12 +1,14 @@
 # NECrosby/VisualBasicClasses - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 3
 
 [Open repository](https://github.com/NECrosby/VisualBasicClasses)
+
+[Open detailed stats for NECrosby/VisualBasicClasses](https://reviewgithub.com/rep/NECrosby/VisualBasicClasses)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 4 | 
 | 2022-09-07 | 3 | 4 | 
 
-
-[Detailed charts & statistics for NECrosby/VisualBasicClasses](https://reviewgithub.com/rep/NECrosby/VisualBasicClasses)

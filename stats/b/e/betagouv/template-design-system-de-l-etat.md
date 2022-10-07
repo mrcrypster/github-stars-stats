@@ -1,12 +1,14 @@
 # betagouv/template-design-system-de-l-etat - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 4
 
 ★ Stars: 33
 
 [Open repository](https://github.com/betagouv/template-design-system-de-l-etat)
+
+[Open detailed stats for betagouv/template-design-system-de-l-etat](https://reviewgithub.com/rep/betagouv/template-design-system-de-l-etat)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 33 | 4 | 
 | 2022-09-07 | 33 | 4 | 
 
-
-[Detailed charts & statistics for betagouv/template-design-system-de-l-etat](https://reviewgithub.com/rep/betagouv/template-design-system-de-l-etat)

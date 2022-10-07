@@ -1,12 +1,14 @@
 # developer-plus/vue-hbs-admin - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 30
 
 ★ Stars: 83
 
 [Open repository](https://github.com/developer-plus/vue-hbs-admin)
+
+[Open detailed stats for developer-plus/vue-hbs-admin](https://reviewgithub.com/rep/developer-plus/vue-hbs-admin)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 30 | 
 | 2022-09-07 | 78 | 30 | 
 
-
-[Detailed charts & statistics for developer-plus/vue-hbs-admin](https://reviewgithub.com/rep/developer-plus/vue-hbs-admin)

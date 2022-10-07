@@ -1,12 +1,14 @@
 # KDT-FinalProject-team3/front-test - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
 ★ Stars: 0
 
 [Open repository](https://github.com/KDT-FinalProject-team3/front-test)
+
+[Open detailed stats for KDT-FinalProject-team3/front-test](https://reviewgithub.com/rep/KDT-FinalProject-team3/front-test)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | - | 7 | 
 | 2022-09-07 | - | 7 | 
 
-
-[Detailed charts & statistics for KDT-FinalProject-team3/front-test](https://reviewgithub.com/rep/KDT-FinalProject-team3/front-test)

@@ -1,12 +1,14 @@
 # ros-planning/moveit_msgs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 100
 
 ★ Stars: 33
 
 [Open repository](https://github.com/ros-planning/moveit_msgs)
+
+[Open detailed stats for ros-planning/moveit_msgs](https://reviewgithub.com/rep/ros-planning/moveit_msgs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 33 | 99 | 
 | 2022-09-08 | 33 | 99 | 
 
-
-[Detailed charts & statistics for ros-planning/moveit_msgs](https://reviewgithub.com/rep/ros-planning/moveit_msgs)

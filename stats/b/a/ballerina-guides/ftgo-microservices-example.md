@@ -1,12 +1,14 @@
 # ballerina-guides/ftgo-microservices-example - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/ballerina-guides/ftgo-microservices-example)
+
+[Open detailed stats for ballerina-guides/ftgo-microservices-example](https://reviewgithub.com/rep/ballerina-guides/ftgo-microservices-example)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-07 | 1 | 1 | 
 
-
-[Detailed charts & statistics for ballerina-guides/ftgo-microservices-example](https://reviewgithub.com/rep/ballerina-guides/ftgo-microservices-example)

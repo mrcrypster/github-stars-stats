@@ -1,12 +1,14 @@
 # Roger-Melo/pokedex - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 66
 
 ★ Stars: 77
 
 [Open repository](https://github.com/Roger-Melo/pokedex)
+
+[Open detailed stats for Roger-Melo/pokedex](https://reviewgithub.com/rep/Roger-Melo/pokedex)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 76 | 60 | 
 | 2022-09-08 | 76 | 60 | 
 
-
-[Detailed charts & statistics for Roger-Melo/pokedex](https://reviewgithub.com/rep/Roger-Melo/pokedex)

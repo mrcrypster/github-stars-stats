@@ -1,12 +1,14 @@
 # joewreschnig/auto-minor-mode - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 31
 
 [Open repository](https://github.com/joewreschnig/auto-minor-mode)
+
+[Open detailed stats for joewreschnig/auto-minor-mode](https://reviewgithub.com/rep/joewreschnig/auto-minor-mode)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 30 | 2 | 
 | 2022-09-08 | 30 | 2 | 
 
-
-[Detailed charts & statistics for joewreschnig/auto-minor-mode](https://reviewgithub.com/rep/joewreschnig/auto-minor-mode)

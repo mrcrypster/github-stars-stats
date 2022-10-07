@@ -1,12 +1,14 @@
 # S4GConsulting/eXec-Ray - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 16
 
 [Open repository](https://github.com/S4GConsulting/eXec-Ray)
+
+[Open detailed stats for S4GConsulting/eXec-Ray](https://reviewgithub.com/rep/S4GConsulting/eXec-Ray)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 4 | 
 | 2022-09-07 | 16 | 4 | 
 
-
-[Detailed charts & statistics for S4GConsulting/eXec-Ray](https://reviewgithub.com/rep/S4GConsulting/eXec-Ray)

@@ -1,12 +1,14 @@
 # nicehash/NiceHashQuickMiner - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 187
 
 ★ Stars: 413
 
 [Open repository](https://github.com/nicehash/NiceHashQuickMiner)
+
+[Open detailed stats for nicehash/NiceHashQuickMiner](https://reviewgithub.com/rep/nicehash/NiceHashQuickMiner)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 406 | 182 | 
 | 2022-09-07 | 404 | 182 | 
 
-
-[Detailed charts & statistics for nicehash/NiceHashQuickMiner](https://reviewgithub.com/rep/nicehash/NiceHashQuickMiner)

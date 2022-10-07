@@ -1,12 +1,14 @@
 # BanksyFarm/contracts-v2 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 1
 
 [Open repository](https://github.com/BanksyFarm/contracts-v2)
+
+[Open detailed stats for BanksyFarm/contracts-v2](https://reviewgithub.com/rep/BanksyFarm/contracts-v2)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 1 | 
 | 2022-09-08 | 1 | 1 | 
 
-
-[Detailed charts & statistics for BanksyFarm/contracts-v2](https://reviewgithub.com/rep/BanksyFarm/contracts-v2)

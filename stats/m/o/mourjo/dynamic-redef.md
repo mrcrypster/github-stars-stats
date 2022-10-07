@@ -1,12 +1,14 @@
 # mourjo/dynamic-redef - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 15
 
 [Open repository](https://github.com/mourjo/dynamic-redef)
+
+[Open detailed stats for mourjo/dynamic-redef](https://reviewgithub.com/rep/mourjo/dynamic-redef)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 14 | - | 
 | 2022-09-07 | 14 | - | 
 
-
-[Detailed charts & statistics for mourjo/dynamic-redef](https://reviewgithub.com/rep/mourjo/dynamic-redef)

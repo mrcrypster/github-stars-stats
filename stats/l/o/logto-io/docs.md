@@ -1,12 +1,14 @@
 # logto-io/docs - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 9
 
 ★ Stars: 5
 
 [Open repository](https://github.com/logto-io/docs)
+
+[Open detailed stats for logto-io/docs](https://reviewgithub.com/rep/logto-io/docs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 5 | 8 | 
 | 2022-09-07 | 5 | 8 | 
 
-
-[Detailed charts & statistics for logto-io/docs](https://reviewgithub.com/rep/logto-io/docs)

@@ -1,12 +1,14 @@
 # openbiox/thesis-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
 ★ Stars: 5
 
 [Open repository](https://github.com/openbiox/thesis-template)
+
+[Open detailed stats for openbiox/thesis-template](https://reviewgithub.com/rep/openbiox/thesis-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 5 | 13 | 
 | 2022-09-07 | 5 | 13 | 
 
-
-[Detailed charts & statistics for openbiox/thesis-template](https://reviewgithub.com/rep/openbiox/thesis-template)

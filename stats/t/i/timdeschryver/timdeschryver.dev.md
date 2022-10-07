@@ -1,12 +1,14 @@
 # timdeschryver/timdeschryver.dev - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 26
 
 ★ Stars: 30
 
 [Open repository](https://github.com/timdeschryver/timdeschryver.dev)
+
+[Open detailed stats for timdeschryver/timdeschryver.dev](https://reviewgithub.com/rep/timdeschryver/timdeschryver.dev)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 28 | 26 | 
 | 2022-09-07 | 28 | 26 | 
 
-
-[Detailed charts & statistics for timdeschryver/timdeschryver.dev](https://reviewgithub.com/rep/timdeschryver/timdeschryver.dev)

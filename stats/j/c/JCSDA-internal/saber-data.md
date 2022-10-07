@@ -1,12 +1,14 @@
 # JCSDA-internal/saber-data - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 0
 
 [Open repository](https://github.com/JCSDA-internal/saber-data)
+
+[Open detailed stats for JCSDA-internal/saber-data](https://reviewgithub.com/rep/JCSDA-internal/saber-data)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | - | - | 
 | 2022-09-08 | - | - | 
 
-
-[Detailed charts & statistics for JCSDA-internal/saber-data](https://reviewgithub.com/rep/JCSDA-internal/saber-data)

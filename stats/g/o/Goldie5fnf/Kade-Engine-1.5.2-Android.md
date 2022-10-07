@@ -1,12 +1,14 @@
 # Goldie5fnf/Kade-Engine-1.5.2-Android - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
 ★ Stars: 2
 
 [Open repository](https://github.com/Goldie5fnf/Kade-Engine-1.5.2-Android)
+
+[Open detailed stats for Goldie5fnf/Kade-Engine-1.5.2-Android](https://reviewgithub.com/rep/Goldie5fnf/Kade-Engine-1.5.2-Android)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 2 | 4 | 
 | 2022-09-08 | 2 | 4 | 
 
-
-[Detailed charts & statistics for Goldie5fnf/Kade-Engine-1.5.2-Android](https://reviewgithub.com/rep/Goldie5fnf/Kade-Engine-1.5.2-Android)

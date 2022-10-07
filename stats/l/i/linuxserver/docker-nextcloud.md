@@ -1,12 +1,14 @@
 # linuxserver/docker-nextcloud - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 117
 
 ★ Stars: 436
 
 [Open repository](https://github.com/linuxserver/docker-nextcloud)
+
+[Open detailed stats for linuxserver/docker-nextcloud](https://reviewgithub.com/rep/linuxserver/docker-nextcloud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 423 | 117 | 
 | 2022-09-08 | 423 | 117 | 
 
-
-[Detailed charts & statistics for linuxserver/docker-nextcloud](https://reviewgithub.com/rep/linuxserver/docker-nextcloud)

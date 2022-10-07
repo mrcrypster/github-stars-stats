@@ -1,12 +1,14 @@
 # FluxML/Zygote.jl - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 175
 
 ★ Stars: 1274
 
 [Open repository](https://github.com/FluxML/Zygote.jl)
+
+[Open detailed stats for FluxML/Zygote.jl](https://reviewgithub.com/rep/FluxML/Zygote.jl)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1262 | 174 | 
 | 2022-09-07 | 1261 | 174 | 
 
-
-[Detailed charts & statistics for FluxML/Zygote.jl](https://reviewgithub.com/rep/FluxML/Zygote.jl)

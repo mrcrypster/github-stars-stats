@@ -1,12 +1,14 @@
 # Azure-Samples/functions-docs-powershell - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 8
 
 [Open repository](https://github.com/Azure-Samples/functions-docs-powershell)
+
+[Open detailed stats for Azure-Samples/functions-docs-powershell](https://reviewgithub.com/rep/Azure-Samples/functions-docs-powershell)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 8 | 6 | 
 | 2022-09-08 | 8 | 6 | 
 
-
-[Detailed charts & statistics for Azure-Samples/functions-docs-powershell](https://reviewgithub.com/rep/Azure-Samples/functions-docs-powershell)

@@ -1,12 +1,14 @@
 # juxt/site - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 109
 
 [Open repository](https://github.com/juxt/site)
+
+[Open detailed stats for juxt/site](https://reviewgithub.com/rep/juxt/site)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 106 | 18 | 
 | 2022-09-08 | 105 | 18 | 
 
-
-[Detailed charts & statistics for juxt/site](https://reviewgithub.com/rep/juxt/site)

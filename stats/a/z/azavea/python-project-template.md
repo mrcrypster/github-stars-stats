@@ -1,12 +1,14 @@
 # azavea/python-project-template - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 122
 
 ★ Stars: 22
 
 [Open repository](https://github.com/azavea/python-project-template)
+
+[Open detailed stats for azavea/python-project-template](https://reviewgithub.com/rep/azavea/python-project-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 21 | 116 | 
 | 2022-09-08 | 21 | 116 | 
 
-
-[Detailed charts & statistics for azavea/python-project-template](https://reviewgithub.com/rep/azavea/python-project-template)

@@ -1,12 +1,14 @@
 # davidiola/nftx-bayc-flash-borrow - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 85
 
 ★ Stars: 216
 
 [Open repository](https://github.com/davidiola/nftx-bayc-flash-borrow)
+
+[Open detailed stats for davidiola/nftx-bayc-flash-borrow](https://reviewgithub.com/rep/davidiola/nftx-bayc-flash-borrow)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 215 | 83 | 
 | 2022-09-07 | 215 | 83 | 
 
-
-[Detailed charts & statistics for davidiola/nftx-bayc-flash-borrow](https://reviewgithub.com/rep/davidiola/nftx-bayc-flash-borrow)

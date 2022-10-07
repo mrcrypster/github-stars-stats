@@ -1,12 +1,14 @@
 # Skykai521/DingDongHelper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 411
 
 ★ Stars: 1140
 
 [Open repository](https://github.com/Skykai521/DingDongHelper)
+
+[Open detailed stats for Skykai521/DingDongHelper](https://reviewgithub.com/rep/Skykai521/DingDongHelper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 1141 | 412 | 
 | 2022-09-08 | 1141 | 412 | 
 
-
-[Detailed charts & statistics for Skykai521/DingDongHelper](https://reviewgithub.com/rep/Skykai521/DingDongHelper)

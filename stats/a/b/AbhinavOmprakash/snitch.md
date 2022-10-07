@@ -1,12 +1,14 @@
 # AbhinavOmprakash/snitch - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 33
 
 [Open repository](https://github.com/AbhinavOmprakash/snitch)
+
+[Open detailed stats for AbhinavOmprakash/snitch](https://reviewgithub.com/rep/AbhinavOmprakash/snitch)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 25 | - | 
 | 2022-09-07 | 25 | - | 
 
-
-[Detailed charts & statistics for AbhinavOmprakash/snitch](https://reviewgithub.com/rep/AbhinavOmprakash/snitch)

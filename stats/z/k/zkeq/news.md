@@ -1,12 +1,14 @@
 # zkeq/news - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 17
 
 ★ Stars: 53
 
 [Open repository](https://github.com/zkeq/news)
+
+[Open detailed stats for zkeq/news](https://reviewgithub.com/rep/zkeq/news)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 47 | 16 | 
 | 2022-09-08 | 47 | 16 | 
 
-
-[Detailed charts & statistics for zkeq/news](https://reviewgithub.com/rep/zkeq/news)

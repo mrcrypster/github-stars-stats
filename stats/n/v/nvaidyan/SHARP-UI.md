@@ -1,12 +1,14 @@
 # nvaidyan/SHARP-UI - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 2
 
 ★ Stars: 1
 
 [Open repository](https://github.com/nvaidyan/SHARP-UI)
+
+[Open detailed stats for nvaidyan/SHARP-UI](https://reviewgithub.com/rep/nvaidyan/SHARP-UI)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 1 | 2 | 
 | 2022-09-08 | 1 | 2 | 
 
-
-[Detailed charts & statistics for nvaidyan/SHARP-UI](https://reviewgithub.com/rep/nvaidyan/SHARP-UI)

@@ -1,12 +1,14 @@
 # robbertkrebbers/compcert - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 2
 
 ★ Stars: 20
 
 [Open repository](https://github.com/robbertkrebbers/compcert)
+
+[Open detailed stats for robbertkrebbers/compcert](https://reviewgithub.com/rep/robbertkrebbers/compcert)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 20 | 2 | 
 | 2022-09-08 | 20 | 2 | 
 
-
-[Detailed charts & statistics for robbertkrebbers/compcert](https://reviewgithub.com/rep/robbertkrebbers/compcert)

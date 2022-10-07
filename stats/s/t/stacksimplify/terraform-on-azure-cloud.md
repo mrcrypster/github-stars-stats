@@ -1,12 +1,14 @@
 # stacksimplify/terraform-on-azure-cloud - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 706
 
 ★ Stars: 83
 
 [Open repository](https://github.com/stacksimplify/terraform-on-azure-cloud)
+
+[Open detailed stats for stacksimplify/terraform-on-azure-cloud](https://reviewgithub.com/rep/stacksimplify/terraform-on-azure-cloud)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 78 | 660 | 
 | 2022-09-07 | 78 | 657 | 
 
-
-[Detailed charts & statistics for stacksimplify/terraform-on-azure-cloud](https://reviewgithub.com/rep/stacksimplify/terraform-on-azure-cloud)

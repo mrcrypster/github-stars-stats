@@ -1,12 +1,14 @@
 # avestura/PhotoFiremark - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 161
 
 [Open repository](https://github.com/avestura/PhotoFiremark)
+
+[Open detailed stats for avestura/PhotoFiremark](https://reviewgithub.com/rep/avestura/PhotoFiremark)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 162 | 8 | 
 | 2022-09-07 | 162 | 8 | 
 
-
-[Detailed charts & statistics for avestura/PhotoFiremark](https://reviewgithub.com/rep/avestura/PhotoFiremark)

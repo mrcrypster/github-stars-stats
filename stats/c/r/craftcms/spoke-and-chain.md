@@ -1,12 +1,14 @@
 # craftcms/spoke-and-chain - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 19
 
 ★ Stars: 33
 
 [Open repository](https://github.com/craftcms/spoke-and-chain)
+
+[Open detailed stats for craftcms/spoke-and-chain](https://reviewgithub.com/rep/craftcms/spoke-and-chain)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 32 | 17 | 
 | 2022-09-08 | 32 | 17 | 
 
-
-[Detailed charts & statistics for craftcms/spoke-and-chain](https://reviewgithub.com/rep/craftcms/spoke-and-chain)

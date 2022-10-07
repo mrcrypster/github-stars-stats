@@ -1,12 +1,14 @@
 # voxpupuli/puppet-smokeping - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
 ★ Stars: 13
 
 [Open repository](https://github.com/voxpupuli/puppet-smokeping)
+
+[Open detailed stats for voxpupuli/puppet-smokeping](https://reviewgithub.com/rep/voxpupuli/puppet-smokeping)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 13 | 48 | 
 | 2022-09-07 | 13 | 48 | 
 
-
-[Detailed charts & statistics for voxpupuli/puppet-smokeping](https://reviewgithub.com/rep/voxpupuli/puppet-smokeping)

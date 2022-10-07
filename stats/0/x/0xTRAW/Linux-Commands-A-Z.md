@@ -1,12 +1,14 @@
 # 0xTRAW/Linux-Commands-A-Z - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 18
 
 ★ Stars: 85
 
 [Open repository](https://github.com/0xTRAW/Linux-Commands-A-Z)
+
+[Open detailed stats for 0xTRAW/Linux-Commands-A-Z](https://reviewgithub.com/rep/0xTRAW/Linux-Commands-A-Z)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 84 | 18 | 
 | 2022-09-08 | 83 | 18 | 
 
-
-[Detailed charts & statistics for 0xTRAW/Linux-Commands-A-Z](https://reviewgithub.com/rep/0xTRAW/Linux-Commands-A-Z)

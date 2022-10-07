@@ -1,12 +1,14 @@
 # JerryC8080/GlacierJS - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 181
 
 [Open repository](https://github.com/JerryC8080/GlacierJS)
+
+[Open detailed stats for JerryC8080/GlacierJS](https://reviewgithub.com/rep/JerryC8080/GlacierJS)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 183 | 17 | 
 | 2022-09-07 | 183 | 17 | 
 
-
-[Detailed charts & statistics for JerryC8080/GlacierJS](https://reviewgithub.com/rep/JerryC8080/GlacierJS)

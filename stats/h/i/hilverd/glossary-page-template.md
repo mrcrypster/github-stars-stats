@@ -1,12 +1,14 @@
 # hilverd/glossary-page-template - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 1
 
 ★ Stars: 76
 
 [Open repository](https://github.com/hilverd/glossary-page-template)
+
+[Open detailed stats for hilverd/glossary-page-template](https://reviewgithub.com/rep/hilverd/glossary-page-template)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 72 | 1 | 
 | 2022-09-08 | 72 | 1 | 
 
-
-[Detailed charts & statistics for hilverd/glossary-page-template](https://reviewgithub.com/rep/hilverd/glossary-page-template)

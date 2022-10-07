@@ -1,12 +1,14 @@
 # edgexfoundry/edgex-global-pipelines - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 17
 
 ★ Stars: 16
 
 [Open repository](https://github.com/edgexfoundry/edgex-global-pipelines)
+
+[Open detailed stats for edgexfoundry/edgex-global-pipelines](https://reviewgithub.com/rep/edgexfoundry/edgex-global-pipelines)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 16 | 17 | 
 | 2022-09-07 | 16 | 17 | 
 
-
-[Detailed charts & statistics for edgexfoundry/edgex-global-pipelines](https://reviewgithub.com/rep/edgexfoundry/edgex-global-pipelines)

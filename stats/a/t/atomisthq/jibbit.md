@@ -1,12 +1,14 @@
 # atomisthq/jibbit - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
 ★ Stars: 71
 
 [Open repository](https://github.com/atomisthq/jibbit)
+
+[Open detailed stats for atomisthq/jibbit](https://reviewgithub.com/rep/atomisthq/jibbit)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 66 | 5 | 
 | 2022-09-07 | 66 | 5 | 
 
-
-[Detailed charts & statistics for atomisthq/jibbit](https://reviewgithub.com/rep/atomisthq/jibbit)

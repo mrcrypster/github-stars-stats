@@ -1,12 +1,14 @@
 # brewchetta/phase-3-practice-code-challenge-aliens-among-us - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 61
 
 ★ Stars: 0
 
 [Open repository](https://github.com/brewchetta/phase-3-practice-code-challenge-aliens-among-us)
+
+[Open detailed stats for brewchetta/phase-3-practice-code-challenge-aliens-among-us](https://reviewgithub.com/rep/brewchetta/phase-3-practice-code-challenge-aliens-among-us)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -40,5 +42,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-10 | - | 48 | 
 | 2022-09-09 | - | 48 | 
 
-
-[Detailed charts & statistics for brewchetta/phase-3-practice-code-challenge-aliens-among-us](https://reviewgithub.com/rep/brewchetta/phase-3-practice-code-challenge-aliens-among-us)

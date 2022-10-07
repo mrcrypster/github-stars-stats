@@ -1,12 +1,14 @@
 # sifive/meta-sifive - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 32
 
 ★ Stars: 32
 
 [Open repository](https://github.com/sifive/meta-sifive)
+
+[Open detailed stats for sifive/meta-sifive](https://reviewgithub.com/rep/sifive/meta-sifive)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 30 | 32 | 
 | 2022-09-08 | 30 | 32 | 
 
-
-[Detailed charts & statistics for sifive/meta-sifive](https://reviewgithub.com/rep/sifive/meta-sifive)

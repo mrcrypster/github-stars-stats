@@ -1,12 +1,14 @@
 # next-step/infra-subway-monitoring - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 257
 
 ★ Stars: 3
 
 [Open repository](https://github.com/next-step/infra-subway-monitoring)
+
+[Open detailed stats for next-step/infra-subway-monitoring](https://reviewgithub.com/rep/next-step/infra-subway-monitoring)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3 | 250 | 
 | 2022-09-07 | 3 | 250 | 
 
-
-[Detailed charts & statistics for next-step/infra-subway-monitoring](https://reviewgithub.com/rep/next-step/infra-subway-monitoring)

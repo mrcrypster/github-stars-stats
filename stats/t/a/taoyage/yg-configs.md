@@ -1,12 +1,14 @@
 # taoyage/yg-configs - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 40
 
 ★ Stars: 260
 
 [Open repository](https://github.com/taoyage/yg-configs)
+
+[Open detailed stats for taoyage/yg-configs](https://reviewgithub.com/rep/taoyage/yg-configs)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 242 | 39 | 
 | 2022-09-08 | 242 | 39 | 
 
-
-[Detailed charts & statistics for taoyage/yg-configs](https://reviewgithub.com/rep/taoyage/yg-configs)

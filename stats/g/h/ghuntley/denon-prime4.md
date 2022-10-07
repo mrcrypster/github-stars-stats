@@ -1,12 +1,14 @@
 # ghuntley/denon-prime4 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
 ★ Stars: 8
 
 [Open repository](https://github.com/ghuntley/denon-prime4)
+
+[Open detailed stats for ghuntley/denon-prime4](https://reviewgithub.com/rep/ghuntley/denon-prime4)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 5 | 
 | 2022-09-07 | 6 | 5 | 
 
-
-[Detailed charts & statistics for ghuntley/denon-prime4](https://reviewgithub.com/rep/ghuntley/denon-prime4)

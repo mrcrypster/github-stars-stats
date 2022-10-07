@@ -1,12 +1,14 @@
 # AzureAD/MSIdentityTools - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 51
 
 [Open repository](https://github.com/AzureAD/MSIdentityTools)
+
+[Open detailed stats for AzureAD/MSIdentityTools](https://reviewgithub.com/rep/AzureAD/MSIdentityTools)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -33,5 +35,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-17 | 49 | 8 | 
 | 2022-09-16 | 49 | 8 | 
 
-
-[Detailed charts & statistics for AzureAD/MSIdentityTools](https://reviewgithub.com/rep/AzureAD/MSIdentityTools)

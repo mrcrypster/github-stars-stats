@@ -1,12 +1,14 @@
 # Rule-34/App - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 42
 
 [Open repository](https://github.com/Rule-34/App)
+
+[Open detailed stats for Rule-34/App](https://reviewgithub.com/rep/Rule-34/App)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 8 | 
 | 2022-09-07 | 39 | 8 | 
 
-
-[Detailed charts & statistics for Rule-34/App](https://reviewgithub.com/rep/Rule-34/App)

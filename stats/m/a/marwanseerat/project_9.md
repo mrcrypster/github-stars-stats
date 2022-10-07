@@ -1,12 +1,14 @@
 # marwanseerat/project_9 - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 0
 
 [Open repository](https://github.com/marwanseerat/project_9)
+
+[Open detailed stats for marwanseerat/project_9](https://reviewgithub.com/rep/marwanseerat/project_9)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 3 | 
 | 2022-09-08 | - | 3 | 
 
-
-[Detailed charts & statistics for marwanseerat/project_9](https://reviewgithub.com/rep/marwanseerat/project_9)

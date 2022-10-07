@@ -1,12 +1,14 @@
 # OEOTYAN/useless-shaders - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 36
 
 [Open repository](https://github.com/OEOTYAN/useless-shaders)
+
+[Open detailed stats for OEOTYAN/useless-shaders](https://reviewgithub.com/rep/OEOTYAN/useless-shaders)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 35 | 1 | 
 | 2022-09-07 | 35 | 1 | 
 
-
-[Detailed charts & statistics for OEOTYAN/useless-shaders](https://reviewgithub.com/rep/OEOTYAN/useless-shaders)

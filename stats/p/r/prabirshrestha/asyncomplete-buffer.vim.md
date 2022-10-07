@@ -1,12 +1,14 @@
 # prabirshrestha/asyncomplete-buffer.vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
 ★ Stars: 39
 
 [Open repository](https://github.com/prabirshrestha/asyncomplete-buffer.vim)
+
+[Open detailed stats for prabirshrestha/asyncomplete-buffer.vim](https://reviewgithub.com/rep/prabirshrestha/asyncomplete-buffer.vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 39 | 11 | 
 | 2022-09-07 | 39 | 11 | 
 
-
-[Detailed charts & statistics for prabirshrestha/asyncomplete-buffer.vim](https://reviewgithub.com/rep/prabirshrestha/asyncomplete-buffer.vim)

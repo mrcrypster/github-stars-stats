@@ -1,12 +1,14 @@
 # KeshHere/POE-Timeless-Jewel-Reverse-Search - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
 ★ Stars: 5
 
 [Open repository](https://github.com/KeshHere/POE-Timeless-Jewel-Reverse-Search)
+
+[Open detailed stats for KeshHere/POE-Timeless-Jewel-Reverse-Search](https://reviewgithub.com/rep/KeshHere/POE-Timeless-Jewel-Reverse-Search)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | - | 
 | 2022-09-07 | 6 | - | 
 
-
-[Detailed charts & statistics for KeshHere/POE-Timeless-Jewel-Reverse-Search](https://reviewgithub.com/rep/KeshHere/POE-Timeless-Jewel-Reverse-Search)

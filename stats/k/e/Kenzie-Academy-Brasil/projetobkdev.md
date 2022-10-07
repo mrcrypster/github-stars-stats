@@ -1,12 +1,14 @@
 # Kenzie-Academy-Brasil/projetobkdev - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 34
 
 ★ Stars: 27
 
 [Open repository](https://github.com/Kenzie-Academy-Brasil/projetobkdev)
+
+[Open detailed stats for Kenzie-Academy-Brasil/projetobkdev](https://reviewgithub.com/rep/Kenzie-Academy-Brasil/projetobkdev)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 35 | 
 | 2022-09-07 | 27 | 35 | 
 
-
-[Detailed charts & statistics for Kenzie-Academy-Brasil/projetobkdev](https://reviewgithub.com/rep/Kenzie-Academy-Brasil/projetobkdev)

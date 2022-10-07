@@ -1,12 +1,14 @@
 # RavensVenix/RDP6HFREE - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 0
 
 [Open repository](https://github.com/RavensVenix/RDP6HFREE)
+
+[Open detailed stats for RavensVenix/RDP6HFREE](https://reviewgithub.com/rep/RavensVenix/RDP6HFREE)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 10 | 
 | 2022-09-08 | - | 10 | 
 
-
-[Detailed charts & statistics for RavensVenix/RDP6HFREE](https://reviewgithub.com/rep/RavensVenix/RDP6HFREE)

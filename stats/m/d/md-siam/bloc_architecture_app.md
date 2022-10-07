@@ -1,12 +1,14 @@
 # md-siam/bloc_architecture_app - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 16
 
 ★ Stars: 54
 
 [Open repository](https://github.com/md-siam/bloc_architecture_app)
+
+[Open detailed stats for md-siam/bloc_architecture_app](https://reviewgithub.com/rep/md-siam/bloc_architecture_app)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 54 | 15 | 
 | 2022-09-07 | 54 | 15 | 
 
-
-[Detailed charts & statistics for md-siam/bloc_architecture_app](https://reviewgithub.com/rep/md-siam/bloc_architecture_app)

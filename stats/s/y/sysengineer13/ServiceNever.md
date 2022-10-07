@@ -1,12 +1,14 @@
 # sysengineer13/ServiceNever - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
 ★ Stars: 116
 
 [Open repository](https://github.com/sysengineer13/ServiceNever)
+
+[Open detailed stats for sysengineer13/ServiceNever](https://reviewgithub.com/rep/sysengineer13/ServiceNever)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 110 | 30 | 
 | 2022-09-07 | 110 | 30 | 
 
-
-[Detailed charts & statistics for sysengineer13/ServiceNever](https://reviewgithub.com/rep/sysengineer13/ServiceNever)

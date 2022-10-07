@@ -1,12 +1,14 @@
 # sgillespie/lambda-calculus - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 59
 
 [Open repository](https://github.com/sgillespie/lambda-calculus)
+
+[Open detailed stats for sgillespie/lambda-calculus](https://reviewgithub.com/rep/sgillespie/lambda-calculus)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 59 | 14 | 
 | 2022-09-08 | 59 | 14 | 
 
-
-[Detailed charts & statistics for sgillespie/lambda-calculus](https://reviewgithub.com/rep/sgillespie/lambda-calculus)

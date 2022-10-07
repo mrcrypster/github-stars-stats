@@ -1,12 +1,14 @@
 # 003random/loki - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
 ★ Stars: 51
 
 [Open repository](https://github.com/003random/loki)
+
+[Open detailed stats for 003random/loki](https://reviewgithub.com/rep/003random/loki)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 50 | 11 | 
 | 2022-09-08 | 50 | 11 | 
 
-
-[Detailed charts & statistics for 003random/loki](https://reviewgithub.com/rep/003random/loki)

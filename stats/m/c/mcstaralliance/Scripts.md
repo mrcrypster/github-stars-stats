@@ -1,12 +1,14 @@
 # mcstaralliance/Scripts - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 11
 
 ★ Stars: 10
 
 [Open repository](https://github.com/mcstaralliance/Scripts)
+
+[Open detailed stats for mcstaralliance/Scripts](https://reviewgithub.com/rep/mcstaralliance/Scripts)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 10 | 11 | 
 | 2022-09-08 | 10 | 11 | 
 
-
-[Detailed charts & statistics for mcstaralliance/Scripts](https://reviewgithub.com/rep/mcstaralliance/Scripts)

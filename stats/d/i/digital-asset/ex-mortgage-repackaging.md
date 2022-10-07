@@ -1,12 +1,14 @@
 # digital-asset/ex-mortgage-repackaging - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 3
 
 ★ Stars: 9
 
 [Open repository](https://github.com/digital-asset/ex-mortgage-repackaging)
+
+[Open detailed stats for digital-asset/ex-mortgage-repackaging](https://reviewgithub.com/rep/digital-asset/ex-mortgage-repackaging)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 9 | 3 | 
 | 2022-09-08 | 9 | 3 | 
 
-
-[Detailed charts & statistics for digital-asset/ex-mortgage-repackaging](https://reviewgithub.com/rep/digital-asset/ex-mortgage-repackaging)

@@ -1,12 +1,14 @@
 # ToniMacaroni/AssetCreationProject - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 5
 
 [Open repository](https://github.com/ToniMacaroni/AssetCreationProject)
+
+[Open detailed stats for ToniMacaroni/AssetCreationProject](https://reviewgithub.com/rep/ToniMacaroni/AssetCreationProject)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | 1 | 
 | 2022-09-07 | 4 | 1 | 
 
-
-[Detailed charts & statistics for ToniMacaroni/AssetCreationProject](https://reviewgithub.com/rep/ToniMacaroni/AssetCreationProject)

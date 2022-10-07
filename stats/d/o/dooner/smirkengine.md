@@ -1,12 +1,14 @@
 # dooner/smirkengine - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 1
 
 [Open repository](https://github.com/dooner/smirkengine)
+
+[Open detailed stats for dooner/smirkengine](https://reviewgithub.com/rep/dooner/smirkengine)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 1 | - | 
 | 2022-09-21 | 1 | - | 
 
-
-[Detailed charts & statistics for dooner/smirkengine](https://reviewgithub.com/rep/dooner/smirkengine)

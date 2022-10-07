@@ -1,12 +1,14 @@
 # binary-com/perl-App-Base - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 6
 
 ★ Stars: 0
 
 [Open repository](https://github.com/binary-com/perl-App-Base)
+
+[Open detailed stats for binary-com/perl-App-Base](https://reviewgithub.com/rep/binary-com/perl-App-Base)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | - | 6 | 
 | 2022-09-08 | - | 6 | 
 
-
-[Detailed charts & statistics for binary-com/perl-App-Base](https://reviewgithub.com/rep/binary-com/perl-App-Base)

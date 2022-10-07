@@ -1,12 +1,14 @@
 # vuejs/docs-next-zh-cn - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 926
 
 ★ Stars: 975
 
 [Open repository](https://github.com/vuejs/docs-next-zh-cn)
+
+[Open detailed stats for vuejs/docs-next-zh-cn](https://reviewgithub.com/rep/vuejs/docs-next-zh-cn)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 971 | 927 | 
 | 2022-09-08 | 971 | 927 | 
 
-
-[Detailed charts & statistics for vuejs/docs-next-zh-cn](https://reviewgithub.com/rep/vuejs/docs-next-zh-cn)

@@ -1,12 +1,14 @@
 # polygon/scalpel - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 27
 
 [Open repository](https://github.com/polygon/scalpel)
+
+[Open detailed stats for polygon/scalpel](https://reviewgithub.com/rep/polygon/scalpel)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 27 | 1 | 
 | 2022-09-07 | 27 | 1 | 
 
-
-[Detailed charts & statistics for polygon/scalpel](https://reviewgithub.com/rep/polygon/scalpel)

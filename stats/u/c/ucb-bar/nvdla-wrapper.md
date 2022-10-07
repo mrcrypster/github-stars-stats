@@ -1,12 +1,14 @@
 # ucb-bar/nvdla-wrapper - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 11
 
 [Open repository](https://github.com/ucb-bar/nvdla-wrapper)
+
+[Open detailed stats for ucb-bar/nvdla-wrapper](https://reviewgithub.com/rep/ucb-bar/nvdla-wrapper)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 10 | 8 | 
 | 2022-09-08 | 10 | 8 | 
 
-
-[Detailed charts & statistics for ucb-bar/nvdla-wrapper](https://reviewgithub.com/rep/ucb-bar/nvdla-wrapper)

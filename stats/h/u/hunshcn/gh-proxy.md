@@ -1,12 +1,14 @@
 # hunshcn/gh-proxy - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 995
 
 ★ Stars: 3530
 
 [Open repository](https://github.com/hunshcn/gh-proxy)
+
+[Open detailed stats for hunshcn/gh-proxy](https://reviewgithub.com/rep/hunshcn/gh-proxy)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 3460 | 970 | 
 | 2022-09-07 | 3455 | 966 | 
 
-
-[Detailed charts & statistics for hunshcn/gh-proxy](https://reviewgithub.com/rep/hunshcn/gh-proxy)

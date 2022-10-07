@@ -1,12 +1,14 @@
 # vivishow/liangongbao - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
 ★ Stars: 20
 
 [Open repository](https://github.com/vivishow/liangongbao)
+
+[Open detailed stats for vivishow/liangongbao](https://reviewgithub.com/rep/vivishow/liangongbao)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 20 | 8 | 
 | 2022-09-07 | 20 | 8 | 
 
-
-[Detailed charts & statistics for vivishow/liangongbao](https://reviewgithub.com/rep/vivishow/liangongbao)

@@ -1,12 +1,14 @@
 # learn-co-curriculum/phase-3-sinatra-with-active-record-get - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1149
 
 ★ Stars: 1
 
 [Open repository](https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get)
+
+[Open detailed stats for learn-co-curriculum/phase-3-sinatra-with-active-record-get](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-sinatra-with-active-record-get)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 1 | 1050 | 
 | 2022-09-07 | 1 | 1043 | 
 
-
-[Detailed charts & statistics for learn-co-curriculum/phase-3-sinatra-with-active-record-get](https://reviewgithub.com/rep/learn-co-curriculum/phase-3-sinatra-with-active-record-get)

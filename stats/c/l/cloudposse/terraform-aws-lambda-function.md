@@ -1,12 +1,14 @@
 # cloudposse/terraform-aws-lambda-function - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 14
 
 ★ Stars: 14
 
 [Open repository](https://github.com/cloudposse/terraform-aws-lambda-function)
+
+[Open detailed stats for cloudposse/terraform-aws-lambda-function](https://reviewgithub.com/rep/cloudposse/terraform-aws-lambda-function)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-08 | 13 | 14 | 
 | 2022-09-07 | 13 | 14 | 
 
-
-[Detailed charts & statistics for cloudposse/terraform-aws-lambda-function](https://reviewgithub.com/rep/cloudposse/terraform-aws-lambda-function)

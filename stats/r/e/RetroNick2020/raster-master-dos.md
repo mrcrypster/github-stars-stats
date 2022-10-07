@@ -1,12 +1,14 @@
 # RetroNick2020/raster-master-dos - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 0
 
 ★ Stars: 19
 
 [Open repository](https://github.com/RetroNick2020/raster-master-dos)
+
+[Open detailed stats for RetroNick2020/raster-master-dos](https://reviewgithub.com/rep/RetroNick2020/raster-master-dos)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -28,5 +30,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-22 | 16 | - | 
 | 2022-09-21 | 16 | - | 
 
-
-[Detailed charts & statistics for RetroNick2020/raster-master-dos](https://reviewgithub.com/rep/RetroNick2020/raster-master-dos)

@@ -1,12 +1,14 @@
 # joeyadams/haskell-stm-delay - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
 ★ Stars: 6
 
 [Open repository](https://github.com/joeyadams/haskell-stm-delay)
+
+[Open detailed stats for joeyadams/haskell-stm-delay](https://reviewgithub.com/rep/joeyadams/haskell-stm-delay)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6 | 3 | 
 | 2022-09-07 | 6 | 3 | 
 
-
-[Detailed charts & statistics for joeyadams/haskell-stm-delay](https://reviewgithub.com/rep/joeyadams/haskell-stm-delay)

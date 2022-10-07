@@ -1,12 +1,14 @@
 # TU-CSCI2322-FL22/workspace-11-30 - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1
 
 ★ Stars: 4
 
 [Open repository](https://github.com/TU-CSCI2322-FL22/workspace-11-30)
+
+[Open detailed stats for TU-CSCI2322-FL22/workspace-11-30](https://reviewgithub.com/rep/TU-CSCI2322-FL22/workspace-11-30)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 4 | - | 
 | 2022-09-07 | 4 | - | 
 
-
-[Detailed charts & statistics for TU-CSCI2322-FL22/workspace-11-30](https://reviewgithub.com/rep/TU-CSCI2322-FL22/workspace-11-30)

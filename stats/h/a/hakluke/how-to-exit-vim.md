@@ -1,12 +1,14 @@
 # hakluke/how-to-exit-vim - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 299
 
 ★ Stars: 6202
 
 [Open repository](https://github.com/hakluke/how-to-exit-vim)
+
+[Open detailed stats for hakluke/how-to-exit-vim](https://reviewgithub.com/rep/hakluke/how-to-exit-vim)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-08 | 6150 | 294 | 
 | 2022-09-07 | 6149 | 294 | 
 
-
-[Detailed charts & statistics for hakluke/how-to-exit-vim](https://reviewgithub.com/rep/hakluke/how-to-exit-vim)

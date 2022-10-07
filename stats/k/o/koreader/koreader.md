@@ -1,12 +1,14 @@
 # koreader/koreader - stars & forks statistics
 
-Stats updated on Dec 54734, 12
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1043
 
 ★ Stars: 11441
 
 [Open repository](https://github.com/koreader/koreader)
+
+[Open detailed stats for koreader/koreader](https://reviewgithub.com/rep/koreader/koreader)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -42,5 +44,3 @@ Stats updated on Dec 54734, 12
 | 2022-09-09 | 11285 | 1033 | 
 | 2022-09-08 | 11284 | 1033 | 
 
-
-[Detailed charts & statistics for koreader/koreader](https://reviewgithub.com/rep/koreader/koreader)

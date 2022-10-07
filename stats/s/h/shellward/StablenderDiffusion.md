@@ -1,12 +1,14 @@
 # shellward/StablenderDiffusion - stars & forks statistics
 
-Stats updated on Mar 54732, 17
+Stats updated on Oct 2022, 06
 
 ☋ Forks: 10
 
 ★ Stars: 68
 
 [Open repository](https://github.com/shellward/StablenderDiffusion)
+
+[Open detailed stats for shellward/StablenderDiffusion](https://reviewgithub.com/rep/shellward/StablenderDiffusion)
 
 ## Historical data
 | Date | Stars | Forks |
@@ -41,5 +43,3 @@ Stats updated on Mar 54732, 17
 | 2022-09-09 | 55 | 11 | 
 | 2022-09-08 | 52 | 10 | 
 
-
-[Detailed charts & statistics for shellward/StablenderDiffusion](https://reviewgithub.com/rep/shellward/StablenderDiffusion)
