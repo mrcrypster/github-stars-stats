@@ -1,0 +1,46 @@
+# pavelsavara/dotnet-wasm-todo-mvc / stars & forks statistics
+
+Repository url: [/pavelsavara/dotnet-wasm-todo-mvc](https://github.com/pavelsavara/dotnet-wasm-todo-mvc)
+
+Updated on Oct 2022, 07
+
+☋ Forks: 12
+
+★ Stars: 31
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-09-29 | 18 | 7 | 
+| 2022-09-30 | 20 | 7 | 
+| 2022-10-01 | 21 | 8 | 
+| 2022-10-02 | 22 | 10 | 
+| 2022-10-03 | 22 | 10 | 
+| 2022-10-04 | 24 | 11 | 
+| 2022-10-05 | 25 | 12 | 
+| 2022-10-06 | 29 | 12 | 
+| 2022-10-07 | 31 | 12 | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+
+
+[Detailed charts & statistics for pavelsavara/dotnet-wasm-todo-mvc](https://reviewgithub.com/rep/pavelsavara/dotnet-wasm-todo-mvc)
