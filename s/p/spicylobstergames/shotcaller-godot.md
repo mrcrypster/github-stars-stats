@@ -1,0 +1,46 @@
+# spicylobstergames/shotcaller-godot / stars & forks statistics
+
+Repository url: [/spicylobstergames/shotcaller-godot](https://github.com/spicylobstergames/shotcaller-godot)
+
+Updated on Oct 2022, 07
+
+☋ Forks: 18
+
+★ Stars: 68
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-09-21 | 57 | 15 | 
+| 2022-09-22 | 60 | 15 | 
+| 2022-09-23 | 62 | 15 | 
+| 2022-09-24 | 63 | 15 | 
+| 2022-09-25 | 63 | 15 | 
+| 2022-09-26 | 64 | 15 | 
+| 2022-09-27 | 64 | 15 | 
+| 2022-09-28 | 67 | 15 | 
+| 2022-09-29 | 67 | 15 | 
+| 2022-09-30 | 67 | 15 | 
+| 2022-10-01 | 67 | 15 | 
+| 2022-10-02 | 67 | 15 | 
+| 2022-10-03 | 68 | 15 | 
+| 2022-10-04 | 68 | 16 | 
+| 2022-10-05 | 68 | 17 | 
+| 2022-10-06 | 68 | 18 | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+
+
+[Detailed charts & statistics for spicylobstergames/shotcaller-godot](https://reviewgithub.com/rep/spicylobstergames/shotcaller-godot)

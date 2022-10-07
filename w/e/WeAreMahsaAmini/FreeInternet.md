@@ -1,0 +1,46 @@
+# WeAreMahsaAmini/FreeInternet / stars & forks statistics
+
+Repository url: [/WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet)
+
+Updated on Oct 2022, 07
+
+☋ Forks: 14
+
+★ Stars: 78
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-03 | 59 | 7 | 
+| 2022-10-04 | 67 | 12 | 
+| 2022-10-05 | 73 | 15 | 
+| 2022-10-06 | 75 | 14 | 
+| 2022-10-07 | 78 | 14 | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+| 1970-01-01 | - | - | 
+
+
+[Detailed charts & statistics for WeAreMahsaAmini/FreeInternet](https://reviewgithub.com/rep/WeAreMahsaAmini/FreeInternet)
