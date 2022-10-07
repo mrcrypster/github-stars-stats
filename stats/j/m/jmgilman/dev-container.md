@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 15 | 2 | 
 | 2022-07-01 | 15 | 2 | 
 | 2022-07-02 | 15 | 2 | 
 | 2022-07-03 | 15 | 2 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 16 | 2 | 
 | 2022-07-29 | 16 | 2 | 
 | 2022-07-30 | 16 | 2 | 
+| 2022-07-31 | 16 | 2 | 
 
 
 [Detailed charts & statistics for jmgilman/dev-container](https://reviewgithub.com/rep/jmgilman/dev-container)

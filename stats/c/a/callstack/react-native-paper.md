@@ -4,14 +4,13 @@ Repository url: [/callstack/react-native-paper](https://github.com/callstack/rea
 
 Updated on Oct 2022, 07
 
-☋ Forks: 1701
+☋ Forks: 1703
 
-★ Stars: 9544
+★ Stars: 9551
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 9436 | 1667 | 
 | 2022-07-01 | 9438 | 1667 | 
 | 2022-07-02 | 9440 | 1671 | 
 | 2022-07-03 | 9441 | 1673 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 9534 | 1699 | 
 | 2022-07-29 | 9541 | 1700 | 
 | 2022-07-30 | 9544 | 1701 | 
+| 2022-07-31 | 9551 | 1703 | 
 
 
 [Detailed charts & statistics for callstack/react-native-paper](https://reviewgithub.com/rep/callstack/react-native-paper)

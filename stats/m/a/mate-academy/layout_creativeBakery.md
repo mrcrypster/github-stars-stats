@@ -4,14 +4,13 @@ Repository url: [/mate-academy/layout_creativeBakery](https://github.com/mate-ac
 
 Updated on Oct 2022, 07
 
-☋ Forks: 263
+☋ Forks: 264
 
 ★ Stars: 1
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1 | 239 | 
 | 2022-07-01 | 1 | 240 | 
 | 2022-07-02 | 1 | 241 | 
 | 2022-07-03 | 1 | 241 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1 | 255 | 
 | 2022-07-28 | 1 | 258 | 
 | 2022-07-29 | 1 | 263 | 
+| 2022-07-30 | 1 | 264 | 
 
 
 [Detailed charts & statistics for mate-academy/layout_creativeBakery](https://reviewgithub.com/rep/mate-academy/layout_creativeBakery)

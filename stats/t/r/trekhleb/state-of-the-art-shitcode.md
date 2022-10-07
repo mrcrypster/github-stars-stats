@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 225
 
-★ Stars: 3440
+★ Stars: 3443
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 3193 | 219 | 
 | 2022-07-01 | 3200 | 219 | 
 | 2022-07-02 | 3206 | 218 | 
 | 2022-07-03 | 3213 | 217 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 3423 | 223 | 
 | 2022-07-28 | 3431 | 223 | 
 | 2022-07-29 | 3440 | 225 | 
+| 2022-07-30 | 3443 | 225 | 
 
 
 [Detailed charts & statistics for trekhleb/state-of-the-art-shitcode](https://reviewgithub.com/rep/trekhleb/state-of-the-art-shitcode)

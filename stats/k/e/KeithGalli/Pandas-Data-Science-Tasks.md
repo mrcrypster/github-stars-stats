@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 573 | 2075 | 
 | 2022-07-01 | 574 | 2081 | 
 | 2022-07-02 | 574 | 2081 | 
 | 2022-07-03 | 575 | 2083 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 591 | 2124 | 
 | 2022-07-28 | 592 | 2125 | 
 | 2022-07-29 | 592 | 2128 | 
+| 2022-07-30 | 592 | 2128 | 
 
 
 [Detailed charts & statistics for KeithGalli/Pandas-Data-Science-Tasks](https://reviewgithub.com/rep/KeithGalli/Pandas-Data-Science-Tasks)

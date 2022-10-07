@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | - | 1 | 
 | 2022-07-01 | - | 1 | 
 | 2022-07-02 | - | 1 | 
 | 2022-07-03 | - | 1 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | - | 1 | 
 | 2022-07-29 | - | 1 | 
 | 2022-07-30 | - | 1 | 
+| 2022-07-31 | - | 1 | 
 
 
 [Detailed charts & statistics for balena-os/balena-compulab](https://reviewgithub.com/rep/balena-os/balena-compulab)

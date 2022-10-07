@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 571
 
-★ Stars: 3447
+★ Stars: 3450
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 3392 | 563 | 
 | 2022-07-01 | 3391 | 562 | 
 | 2022-07-02 | 3393 | 562 | 
 | 2022-07-03 | 3393 | 563 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 3444 | 571 | 
 | 2022-07-28 | 3445 | 571 | 
 | 2022-07-29 | 3447 | 571 | 
+| 2022-07-30 | 3450 | 571 | 
 
 
 [Detailed charts & statistics for littlefs-project/littlefs](https://reviewgithub.com/rep/littlefs-project/littlefs)

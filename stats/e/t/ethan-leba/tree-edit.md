@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 253 | 12 | 
 | 2022-07-01 | 253 | 12 | 
 | 2022-07-02 | 253 | 12 | 
 | 2022-07-03 | 253 | 12 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 259 | 13 | 
 | 2022-07-29 | 259 | 13 | 
 | 2022-07-30 | 259 | 13 | 
+| 2022-07-31 | 259 | 13 | 
 
 
 [Detailed charts & statistics for ethan-leba/tree-edit](https://reviewgithub.com/rep/ethan-leba/tree-edit)

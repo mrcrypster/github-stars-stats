@@ -4,14 +4,13 @@ Repository url: [/elixirs/faker](https://github.com/elixirs/faker)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 192
+☋ Forks: 193
 
 ★ Stars: 870
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 852 | 187 | 
 | 2022-07-01 | 853 | 187 | 
 | 2022-07-02 | 853 | 187 | 
 | 2022-07-03 | 854 | 187 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 870 | 192 | 
 | 2022-07-28 | 870 | 192 | 
 | 2022-07-29 | 870 | 192 | 
+| 2022-07-30 | 870 | 193 | 
 
 
 [Detailed charts & statistics for elixirs/faker](https://reviewgithub.com/rep/elixirs/faker)

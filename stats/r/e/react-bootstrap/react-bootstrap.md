@@ -4,14 +4,13 @@ Repository url: [/react-bootstrap/react-bootstrap](https://github.com/react-boot
 
 Updated on Oct 2022, 07
 
-☋ Forks: 3369
+☋ Forks: 3368
 
-★ Stars: 20945
+★ Stars: 20947
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 20860 | 3354 | 
 | 2022-07-01 | 20863 | 3355 | 
 | 2022-07-02 | 20866 | 3353 | 
 | 2022-07-03 | 20865 | 3353 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 20937 | 3366 | 
 | 2022-07-29 | 20942 | 3367 | 
 | 2022-07-30 | 20945 | 3369 | 
+| 2022-07-31 | 20947 | 3368 | 
 
 
 [Detailed charts & statistics for react-bootstrap/react-bootstrap](https://reviewgithub.com/rep/react-bootstrap/react-bootstrap)

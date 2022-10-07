@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 11 | 21 | 
 | 2022-07-01 | 11 | 21 | 
 | 2022-07-02 | 11 | 21 | 
 | 2022-07-03 | 11 | 21 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 10 | 21 | 
 | 2022-07-29 | 10 | 21 | 
 | 2022-07-30 | 10 | 21 | 
+| 2022-07-31 | 10 | 21 | 
 
 
 [Detailed charts & statistics for ai-builders/entrance-exam-2022](https://reviewgithub.com/rep/ai-builders/entrance-exam-2022)

@@ -4,14 +4,13 @@ Repository url: [/apache/inlong](https://github.com/apache/inlong)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 304
+☋ Forks: 305
 
-★ Stars: 890
+★ Stars: 892
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 831 | 278 | 
 | 2022-07-01 | 834 | 278 | 
 | 2022-07-02 | 839 | 278 | 
 | 2022-07-03 | 843 | 280 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 885 | 303 | 
 | 2022-07-28 | 887 | 303 | 
 | 2022-07-29 | 890 | 304 | 
+| 2022-07-30 | 892 | 305 | 
 
 
 [Detailed charts & statistics for apache/inlong](https://reviewgithub.com/rep/apache/inlong)

@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 2 | 1 | 
 | 2022-07-01 | 2 | 1 | 
 | 2022-07-02 | 2 | 1 | 
 | 2022-07-03 | 2 | 1 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 2 | 1 | 
 | 2022-07-28 | 2 | 1 | 
 | 2022-07-29 | 2 | 1 | 
+| 2022-07-30 | 2 | 1 | 
 
 
 [Detailed charts & statistics for ChargePoint/buildroot](https://reviewgithub.com/rep/ChargePoint/buildroot)

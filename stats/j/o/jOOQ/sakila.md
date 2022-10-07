@@ -6,12 +6,11 @@ Updated on Oct 2022, 07
 
 ☋ Forks: 49
 
-★ Stars: 95
+★ Stars: 96
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 91 | 45 | 
 | 2022-07-01 | 91 | 46 | 
 | 2022-07-02 | 91 | 46 | 
 | 2022-07-03 | 91 | 46 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 94 | 49 | 
 | 2022-07-28 | 95 | 49 | 
 | 2022-07-29 | 95 | 49 | 
+| 2022-07-30 | 96 | 49 | 
 
 
 [Detailed charts & statistics for jOOQ/sakila](https://reviewgithub.com/rep/jOOQ/sakila)

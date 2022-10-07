@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | - | - | 
 | 2022-07-01 | - | - | 
 | 2022-07-02 | - | - | 
 | 2022-07-03 | - | - | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | - | - | 
 | 2022-07-28 | - | - | 
 | 2022-07-29 | - | - | 
+| 2022-07-30 | - | - | 
 
 
 [Detailed charts & statistics for emallove/my-home-directory](https://reviewgithub.com/rep/emallove/my-home-directory)

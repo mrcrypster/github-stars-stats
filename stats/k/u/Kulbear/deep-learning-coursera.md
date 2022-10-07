@@ -4,14 +4,13 @@ Repository url: [/Kulbear/deep-learning-coursera](https://github.com/Kulbear/dee
 
 Updated on Oct 2022, 07
 
-☋ Forks: 5384
+☋ Forks: 5383
 
 ★ Stars: 6871
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 6826 | 5359 | 
 | 2022-07-01 | 6828 | 5361 | 
 | 2022-07-02 | 6828 | 5362 | 
 | 2022-07-03 | 6831 | 5363 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 6864 | 5380 | 
 | 2022-07-28 | 6869 | 5383 | 
 | 2022-07-29 | 6871 | 5384 | 
+| 2022-07-30 | 6871 | 5383 | 
 
 
 [Detailed charts & statistics for Kulbear/deep-learning-coursera](https://reviewgithub.com/rep/Kulbear/deep-learning-coursera)

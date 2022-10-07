@@ -4,14 +4,13 @@ Repository url: [/redis/hiredis](https://github.com/redis/hiredis)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 1686
+☋ Forks: 1687
 
-★ Stars: 5375
+★ Stars: 5377
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 5344 | 1681 | 
 | 2022-07-01 | 5344 | 1681 | 
 | 2022-07-02 | 5345 | 1680 | 
 | 2022-07-03 | 5345 | 1679 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 5374 | 1687 | 
 | 2022-07-28 | 5374 | 1687 | 
 | 2022-07-29 | 5375 | 1686 | 
+| 2022-07-30 | 5377 | 1687 | 
 
 
 [Detailed charts & statistics for redis/hiredis](https://reviewgithub.com/rep/redis/hiredis)

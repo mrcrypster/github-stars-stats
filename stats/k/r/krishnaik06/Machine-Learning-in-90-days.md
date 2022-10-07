@@ -4,14 +4,13 @@ Repository url: [/krishnaik06/Machine-Learning-in-90-days](https://github.com/kr
 
 Updated on Oct 2022, 07
 
-☋ Forks: 1113
+☋ Forks: 1114
 
-★ Stars: 761
+★ Stars: 762
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 738 | 1093 | 
 | 2022-07-01 | 738 | 1093 | 
 | 2022-07-02 | 738 | 1093 | 
 | 2022-07-03 | 738 | 1093 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 758 | 1115 | 
 | 2022-07-29 | 761 | 1114 | 
 | 2022-07-30 | 761 | 1113 | 
+| 2022-07-31 | 762 | 1114 | 
 
 
 [Detailed charts & statistics for krishnaik06/Machine-Learning-in-90-days](https://reviewgithub.com/rep/krishnaik06/Machine-Learning-in-90-days)

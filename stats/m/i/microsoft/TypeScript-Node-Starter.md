@@ -4,14 +4,13 @@ Repository url: [/microsoft/TypeScript-Node-Starter](https://github.com/microsof
 
 Updated on Oct 2022, 07
 
-☋ Forks: 2666
+☋ Forks: 2668
 
-★ Stars: 10657
+★ Stars: 10659
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 10601 | 2648 | 
 | 2022-07-01 | 10605 | 2648 | 
 | 2022-07-02 | 10608 | 2648 | 
 | 2022-07-03 | 10611 | 2648 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 10651 | 2663 | 
 | 2022-07-28 | 10656 | 2663 | 
 | 2022-07-29 | 10657 | 2666 | 
+| 2022-07-30 | 10659 | 2668 | 
 
 
 [Detailed charts & statistics for microsoft/TypeScript-Node-Starter](https://reviewgithub.com/rep/microsoft/TypeScript-Node-Starter)

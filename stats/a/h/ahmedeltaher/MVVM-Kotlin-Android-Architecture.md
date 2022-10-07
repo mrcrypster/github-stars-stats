@@ -4,14 +4,13 @@ Repository url: [/ahmedeltaher/MVVM-Kotlin-Android-Architecture](https://github.
 
 Updated on Oct 2022, 07
 
-☋ Forks: 489
+☋ Forks: 490
 
-★ Stars: 1821
+★ Stars: 1820
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1768 | 476 | 
 | 2022-07-01 | 1768 | 476 | 
 | 2022-07-02 | 1769 | 476 | 
 | 2022-07-03 | 1769 | 475 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1815 | 489 | 
 | 2022-07-28 | 1817 | 490 | 
 | 2022-07-29 | 1821 | 489 | 
+| 2022-07-30 | 1820 | 490 | 
 
 
 [Detailed charts & statistics for ahmedeltaher/MVVM-Kotlin-Android-Architecture](https://reviewgithub.com/rep/ahmedeltaher/MVVM-Kotlin-Android-Architecture)

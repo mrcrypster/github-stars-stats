@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 1215 | 100 | 
 | 2022-07-01 | 1216 | 100 | 
 | 2022-07-02 | 1215 | 100 | 
 | 2022-07-03 | 1217 | 100 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 1229 | 98 | 
 | 2022-07-28 | 1229 | 98 | 
 | 2022-07-29 | 1229 | 98 | 
+| 2022-07-30 | 1229 | 98 | 
 
 
 [Detailed charts & statistics for skeeto/elfeed](https://reviewgithub.com/rep/skeeto/elfeed)

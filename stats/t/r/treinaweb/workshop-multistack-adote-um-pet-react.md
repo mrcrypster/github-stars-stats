@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 28 | 23 | 
 | 2022-07-01 | 28 | 23 | 
 | 2022-07-02 | 29 | 23 | 
 | 2022-07-03 | 29 | 23 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 28 | 23 | 
 | 2022-07-29 | 28 | 23 | 
 | 2022-07-30 | 28 | 23 | 
+| 2022-07-31 | 28 | 23 | 
 
 
 [Detailed charts & statistics for treinaweb/workshop-multistack-adote-um-pet-react](https://reviewgithub.com/rep/treinaweb/workshop-multistack-adote-um-pet-react)

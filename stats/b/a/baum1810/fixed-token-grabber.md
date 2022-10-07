@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 48 | 26 | 
 | 2022-07-01 | 48 | 26 | 
 | 2022-07-02 | 48 | 26 | 
 | 2022-07-03 | 49 | 27 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-27 | 47 | 33 | 
 | 2022-07-28 | 47 | 34 | 
 | 2022-07-29 | 47 | 34 | 
+| 2022-07-30 | 47 | 34 | 
 
 
 [Detailed charts & statistics for baum1810/fixed-token-grabber](https://reviewgithub.com/rep/baum1810/fixed-token-grabber)

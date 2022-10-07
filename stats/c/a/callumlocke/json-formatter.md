@@ -11,7 +11,6 @@ Updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 3015 | 727 | 
 | 2022-07-01 | 3018 | 727 | 
 | 2022-07-02 | 3018 | 728 | 
 | 2022-07-03 | 3021 | 728 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 3045 | 736 | 
 | 2022-07-29 | 3046 | 736 | 
 | 2022-07-30 | 3045 | 735 | 
+| 2022-07-31 | 3045 | 735 | 
 
 
 [Detailed charts & statistics for callumlocke/json-formatter](https://reviewgithub.com/rep/callumlocke/json-formatter)

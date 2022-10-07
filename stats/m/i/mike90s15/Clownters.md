@@ -4,14 +4,13 @@ Repository url: [/mike90s15/Clownters](https://github.com/mike90s15/Clownters)
 
 Updated on Oct 2022, 07
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 30
 
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-06-30 | 25 | 1 | 
 | 2022-07-01 | 25 | 1 | 
 | 2022-07-02 | 25 | 1 | 
 | 2022-07-03 | 25 | 1 | 
@@ -41,6 +40,7 @@ Updated on Oct 2022, 07
 | 2022-07-28 | 30 | 2 | 
 | 2022-07-29 | 30 | 2 | 
 | 2022-07-30 | 30 | 2 | 
+| 2022-07-31 | 30 | 3 | 
 
 
 [Detailed charts & statistics for mike90s15/Clownters](https://reviewgithub.com/rep/mike90s15/Clownters)
