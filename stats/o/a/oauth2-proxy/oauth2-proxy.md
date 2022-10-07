@@ -1,6 +1,6 @@
 # oauth2-proxy/oauth2-proxy - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Dec 54734, 12
 
 ☋ Forks: 1070
 

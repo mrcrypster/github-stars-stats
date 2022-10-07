@@ -1,6 +1,6 @@
 # yixuandouyin/KidEnroll - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Dec 54734, 12
 
 ☋ Forks: 21
 
@@ -11,6 +11,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 76 | 21 | 
 | 2022-10-06 | 76 | 21 | 
 | 2022-10-05 | 74 | 21 | 
 | 2022-10-04 | 74 | 21 | 

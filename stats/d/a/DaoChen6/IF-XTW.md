@@ -1,7 +1,5 @@
 # DaoChen6/IF-XTW - stars & forks statistics
 
-Stats updated on Oct 2022, 07
-
 ☋ Forks: 
 
 ★ Stars: 

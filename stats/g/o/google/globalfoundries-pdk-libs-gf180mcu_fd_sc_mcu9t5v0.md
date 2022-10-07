@@ -1,6 +1,6 @@
 # google/globalfoundries-pdk-libs-gf180mcu_fd_sc_mcu9t5v0 - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Dec 54734, 12
 
 ☋ Forks: 8
 

@@ -1,7 +1,5 @@
 # bclswl0827/v2ray-heroku - stars & forks statistics
 
-Stats updated on Oct 2022, 07
-
 ☋ Forks: 
 
 ★ Stars: 

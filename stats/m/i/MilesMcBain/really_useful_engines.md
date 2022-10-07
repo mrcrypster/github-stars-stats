@@ -1,6 +1,6 @@
 # MilesMcBain/really_useful_engines - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Mar 54732, 17
 
 ☋ Forks: 0
 
@@ -40,7 +40,6 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 22 | - | 
 | 2022-09-09 | 22 | - | 
 | 2022-09-08 | 22 | - | 
-| 2022-09-07 | 22 | - | 
 
 
 [Detailed charts & statistics for MilesMcBain/really_useful_engines](https://reviewgithub.com/rep/MilesMcBain/really_useful_engines)

@@ -1,6 +1,6 @@
 # somebasj/ParallelsDesktopCrack - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Jul 54666, 01
 
 ☋ Forks: 381
 

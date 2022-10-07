@@ -1,6 +1,6 @@
 # pk-1337/FiveM-Paid-Anticheats - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Apr 54721, 04
 
 ☋ Forks: 1
 

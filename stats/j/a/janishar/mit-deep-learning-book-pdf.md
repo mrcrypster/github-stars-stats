@@ -1,6 +1,6 @@
 # janishar/mit-deep-learning-book-pdf - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Mar 54732, 17
 
 ☋ Forks: 2378
 
