@@ -1,10 +1,10 @@
 # yagiz/Bagel - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 304
 
-★ Stars: 4160
+★ Stars: 4161
 
 [Open repository](https://github.com/yagiz/Bagel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4161 | 304 | 
 | 2022-10-06 | 4160 | 304 | 
 | 2022-10-05 | 4160 | 304 | 
 | 2022-10-04 | 4159 | 304 | 

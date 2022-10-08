@@ -1,6 +1,6 @@
 # multiplexduniya/GIT-RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | - | 3 | 
 | 2022-10-07 | - | 3 | 
 | 2022-10-06 | - | 3 | 
 | 2022-10-04 | - | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | - | 4 | 
 | 2022-09-09 | - | 4 | 
 | 2022-09-08 | - | 4 | 
-| 2022-09-07 | - | 4 | 
 

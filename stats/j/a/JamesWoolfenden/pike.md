@@ -1,10 +1,10 @@
 # JamesWoolfenden/pike - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
-★ Stars: 149
+★ Stars: 151
 
 [Open repository](https://github.com/JamesWoolfenden/pike)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 151 | 8 | 
 | 2022-10-06 | 149 | 8 | 
 | 2022-10-05 | 149 | 8 | 
 | 2022-10-04 | 148 | 8 | 

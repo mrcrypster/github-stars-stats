@@ -1,10 +1,10 @@
 # laravelio/laravel.io - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 591
 
-★ Stars: 2220
+★ Stars: 2219
 
 [Open repository](https://github.com/laravelio/laravel.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2219 | 591 | 
 | 2022-10-06 | 2220 | 591 | 
 | 2022-10-05 | 2218 | 591 | 
 | 2022-10-04 | 2216 | 590 | 

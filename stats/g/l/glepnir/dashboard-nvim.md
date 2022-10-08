@@ -1,10 +1,10 @@
 # glepnir/dashboard-nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 95
 
-★ Stars: 1139
+★ Stars: 1140
 
 [Open repository](https://github.com/glepnir/dashboard-nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1140 | 95 | 
 | 2022-10-06 | 1139 | 95 | 
 | 2022-10-05 | 1136 | 95 | 
 | 2022-10-04 | 1135 | 95 | 

@@ -1,10 +1,10 @@
 # doctrine/common - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 299
 
-★ Stars: 5588
+★ Stars: 5589
 
 [Open repository](https://github.com/doctrine/common)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 5589 | 299 | 
 | 2022-10-06 | 5588 | 299 | 
 | 2022-10-05 | 5585 | 299 | 
 | 2022-10-04 | 5585 | 299 | 

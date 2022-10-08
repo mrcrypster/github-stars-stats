@@ -1,6 +1,6 @@
 # mathworks/Expo-2022-Cleaning-and-Preparing-Time-Series-Data - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 15 | 8 | 
 | 2022-10-07 | 15 | 8 | 
 | 2022-10-05 | 15 | 8 | 
 | 2022-10-04 | 15 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 14 | 8 | 
 | 2022-09-09 | 14 | 8 | 
 | 2022-09-08 | 14 | 8 | 
-| 2022-09-07 | 14 | 8 | 
 

@@ -1,10 +1,10 @@
 # flarum/flarum - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 1434
+☋ Forks: 1435
 
-★ Stars: 13350
+★ Stars: 13354
 
 [Open repository](https://github.com/flarum/flarum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13354 | 1435 | 
 | 2022-10-06 | 13350 | 1434 | 
 | 2022-10-05 | 13348 | 1434 | 
 | 2022-10-04 | 13348 | 1434 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 13305 | 1427 | 
 | 2022-09-09 | 13305 | 1427 | 
 | 2022-09-08 | 13303 | 1426 | 
-| 2022-09-07 | 13303 | 1427 | 
 

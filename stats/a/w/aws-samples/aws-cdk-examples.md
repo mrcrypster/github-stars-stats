@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1533
+☋ Forks: 1535
 
-★ Stars: 3563
+★ Stars: 3566
 
 [Open repository](https://github.com/aws-samples/aws-cdk-examples)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 3563 | 1533 | 
+| 2022-10-07 | 3566 | 1535 | 
 | 2022-10-06 | 3556 | 1533 | 
 | 2022-10-05 | 3545 | 1530 | 
 | 2022-10-04 | 3539 | 1528 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3478 | 1504 | 
 | 2022-09-10 | 3478 | 1504 | 
 | 2022-09-09 | 3477 | 1504 | 
-| 2022-09-08 | 3477 | 1503 | 
 

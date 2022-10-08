@@ -1,8 +1,8 @@
 # librenms/docker - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 213
+☋ Forks: 214
 
 ★ Stars: 466
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 466 | 214 | 
 | 2022-10-06 | 466 | 213 | 
 | 2022-10-05 | 465 | 213 | 
 | 2022-10-04 | 465 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 461 | 210 | 
 | 2022-09-09 | 461 | 210 | 
 | 2022-09-08 | 460 | 210 | 
-| 2022-09-07 | 460 | 210 | 
 

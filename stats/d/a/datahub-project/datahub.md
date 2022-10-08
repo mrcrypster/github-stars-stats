@@ -1,10 +1,10 @@
 # datahub-project/datahub - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 1795
+☋ Forks: 1797
 
-★ Stars: 6398
+★ Stars: 6399
 
 [Open repository](https://github.com/datahub-project/datahub)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6399 | 1797 | 
 | 2022-10-06 | 6398 | 1795 | 
 | 2022-10-05 | 6395 | 1793 | 
 | 2022-10-04 | 6393 | 1789 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 6318 | 1745 | 
 | 2022-09-09 | 6315 | 1743 | 
 | 2022-09-08 | 6314 | 1742 | 
-| 2022-09-07 | 6308 | 1741 | 
 

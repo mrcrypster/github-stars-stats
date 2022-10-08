@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 981
+☋ Forks: 982
 
-★ Stars: 6268
+★ Stars: 6269
 
 [Open repository](https://github.com/Graylog2/graylog2-server)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 6268 | 981 | 
+| 2022-10-07 | 6269 | 982 | 
 | 2022-10-06 | 6265 | 981 | 
 | 2022-10-05 | 6263 | 980 | 
 | 2022-10-04 | 6262 | 980 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 6237 | 975 | 
 | 2022-09-10 | 6237 | 975 | 
 | 2022-09-09 | 6238 | 976 | 
-| 2022-09-08 | 6238 | 976 | 
 

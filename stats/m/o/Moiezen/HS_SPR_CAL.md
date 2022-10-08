@@ -1,10 +1,10 @@
 # Moiezen/HS_SPR_CAL - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
-★ Stars: 110
+★ Stars: 112
 
 [Open repository](https://github.com/Moiezen/HS_SPR_CAL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 112 | 27 | 
 | 2022-10-06 | 110 | 27 | 
 | 2022-10-05 | 110 | 26 | 
 | 2022-10-04 | 109 | 26 | 

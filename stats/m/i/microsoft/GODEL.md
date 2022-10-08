@@ -1,6 +1,6 @@
 # microsoft/GODEL - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 194 | 27 | 
 | 2022-10-07 | 194 | 27 | 
 | 2022-10-05 | 193 | 27 | 
 | 2022-10-04 | 193 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 187 | 27 | 
 | 2022-09-09 | 187 | 27 | 
 | 2022-09-08 | 187 | 27 | 
-| 2022-09-07 | 187 | 27 | 
 

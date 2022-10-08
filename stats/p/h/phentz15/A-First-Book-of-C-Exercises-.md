@@ -1,6 +1,6 @@
 # phentz15/A-First-Book-of-C-Exercises- - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 26 | 24 | 
 | 2022-10-07 | 26 | 24 | 
 | 2022-10-06 | 25 | 24 | 
 | 2022-10-05 | 25 | 24 | 

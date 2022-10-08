@@ -1,6 +1,6 @@
 # laravel/bootcamp.laravel.com - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 62 | 14 | 
 | 2022-10-06 | 62 | 14 | 
 | 2022-10-05 | 62 | 13 | 
 | 2022-10-04 | 60 | 13 | 

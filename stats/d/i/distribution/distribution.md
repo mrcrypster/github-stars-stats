@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 2160
 
-★ Stars: 6973
+★ Stars: 6975
 
 [Open repository](https://github.com/distribution/distribution)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 6973 | 2160 | 
+| 2022-10-07 | 6975 | 2160 | 
 | 2022-10-06 | 6968 | 2160 | 
 | 2022-10-05 | 6959 | 2159 | 
 | 2022-10-04 | 6958 | 2158 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6917 | 2145 | 
 | 2022-09-09 | 6912 | 2144 | 
 | 2022-09-08 | 6910 | 2142 | 
-| 2022-09-07 | 6907 | 2142 | 
 

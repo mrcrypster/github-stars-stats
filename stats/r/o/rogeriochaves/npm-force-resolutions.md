@@ -1,6 +1,6 @@
 # rogeriochaves/npm-force-resolutions - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 516 | 29 | 
 | 2022-10-06 | 516 | 29 | 
 | 2022-10-05 | 516 | 29 | 
 | 2022-10-04 | 516 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 515 | 29 | 
 | 2022-09-09 | 515 | 29 | 
 | 2022-09-08 | 515 | 29 | 
-| 2022-09-07 | 516 | 29 | 
 

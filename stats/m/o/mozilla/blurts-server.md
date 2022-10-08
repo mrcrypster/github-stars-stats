@@ -1,10 +1,10 @@
 # mozilla/blurts-server - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 191
 
-★ Stars: 554
+★ Stars: 555
 
 [Open repository](https://github.com/mozilla/blurts-server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 555 | 191 | 
 | 2022-10-06 | 554 | 191 | 
 | 2022-10-05 | 554 | 191 | 
 | 2022-10-04 | 554 | 191 | 

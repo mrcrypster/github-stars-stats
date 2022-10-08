@@ -1,10 +1,10 @@
 # mellobacon/Nucleus - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 9
+☋ Forks: 11
 
-★ Stars: 17
+★ Stars: 21
 
 [Open repository](https://github.com/mellobacon/Nucleus)
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 17 | 9 | 
+| 2022-10-08 | 21 | 11 | 
+| 2022-10-07 | 20 | 10 | 
 | 2022-10-06 | 17 | 9 | 
 | 2022-10-05 | 16 | 8 | 
 | 2022-10-04 | 14 | 8 | 

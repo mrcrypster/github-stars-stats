@@ -1,10 +1,10 @@
 # go-delve/delve - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1957
 
-★ Stars: 19292
+★ Stars: 19298
 
 [Open repository](https://github.com/go-delve/delve)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19298 | 1957 | 
 | 2022-10-06 | 19292 | 1957 | 
 | 2022-10-05 | 19290 | 1957 | 
 | 2022-10-04 | 19282 | 1957 | 

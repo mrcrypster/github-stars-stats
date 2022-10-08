@@ -1,6 +1,6 @@
 # flipperdevices/Flipper-Android-App - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 423 | 48 | 
 | 2022-10-06 | 423 | 48 | 
 | 2022-10-05 | 422 | 48 | 
 | 2022-10-04 | 422 | 48 | 

@@ -1,8 +1,8 @@
 # tinarskii/MukPakPak - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 7 | 5 | 
+| 2022-10-08 | 7 | 6 | 
+| 2022-10-07 | 7 | 6 | 
 | 2022-10-06 | 7 | 5 | 
 

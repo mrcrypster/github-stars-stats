@@ -1,6 +1,6 @@
 # purescript-deprecated/purescript-math - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 23 | 
 | 2022-10-06 | 19 | 23 | 
 | 2022-10-05 | 19 | 23 | 
 | 2022-10-04 | 19 | 23 | 

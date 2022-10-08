@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 1056
 
-★ Stars: 10483
+★ Stars: 10484
 
 [Open repository](https://github.com/awslabs/git-secrets)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 10483 | 1056 | 
+| 2022-10-07 | 10484 | 1056 | 
 | 2022-10-06 | 10482 | 1056 | 
 | 2022-10-05 | 10478 | 1056 | 
 | 2022-10-04 | 10475 | 1054 | 

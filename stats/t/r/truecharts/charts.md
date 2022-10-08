@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 216
+☋ Forks: 215
 
-★ Stars: 380
+★ Stars: 381
 
 [Open repository](https://github.com/truecharts/charts)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 380 | 216 | 
+| 2022-10-07 | 381 | 215 | 
 | 2022-10-06 | 380 | 216 | 
 | 2022-10-05 | 379 | 216 | 
 | 2022-10-04 | 377 | 215 | 

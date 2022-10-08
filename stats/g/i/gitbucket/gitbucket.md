@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 1243
 
-★ Stars: 8758
+★ Stars: 8759
 
 [Open repository](https://github.com/gitbucket/gitbucket)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 8758 | 1243 | 
+| 2022-10-07 | 8759 | 1243 | 
 | 2022-10-06 | 8758 | 1243 | 
 | 2022-10-05 | 8756 | 1243 | 
 | 2022-10-04 | 8757 | 1243 | 

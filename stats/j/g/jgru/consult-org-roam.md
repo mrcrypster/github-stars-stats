@@ -1,10 +1,10 @@
 # jgru/consult-org-roam - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 4
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/jgru/consult-org-roam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 46 | 4 | 
 | 2022-10-07 | 45 | 4 | 
 | 2022-10-06 | 44 | 4 | 
 | 2022-10-05 | 44 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 43 | 4 | 
 | 2022-09-09 | 43 | 4 | 
 | 2022-09-08 | 43 | 4 | 
-| 2022-09-07 | 43 | 4 | 
 

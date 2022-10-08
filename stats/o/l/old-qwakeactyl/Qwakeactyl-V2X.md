@@ -1,6 +1,6 @@
 # old-qwakeactyl/Qwakeactyl-V2X - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 7 | 4 | 
 | 2022-10-07 | 7 | 4 | 
 | 2022-10-05 | 7 | 4 | 
 | 2022-10-04 | 6 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 4 | 
 | 2022-09-09 | 6 | 4 | 
 | 2022-09-08 | 6 | 4 | 
-| 2022-09-07 | 6 | 4 | 
 

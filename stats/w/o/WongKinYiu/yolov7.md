@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 1376
+☋ Forks: 1380
 
-★ Stars: 5999
+★ Stars: 6013
 
 [Open repository](https://github.com/WongKinYiu/yolov7)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 5999 | 1376 | 
+| 2022-10-07 | 6013 | 1380 | 
 | 2022-10-06 | 5982 | 1368 | 
 | 2022-10-05 | 5952 | 1350 | 
 | 2022-10-04 | 5924 | 1341 | 

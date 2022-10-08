@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 62
+☋ Forks: 67
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/rxzyx/Blooket-Hacks)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 43 | 62 | 
+| 2022-10-07 | 45 | 67 | 
 | 2022-10-06 | 43 | 60 | 
 

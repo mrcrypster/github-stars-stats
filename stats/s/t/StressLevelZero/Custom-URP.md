@@ -1,8 +1,8 @@
 # StressLevelZero/Custom-URP - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8 | 6 | 
 | 2022-10-06 | 8 | 5 | 
 | 2022-10-05 | 8 | 5 | 
 | 2022-10-04 | 8 | 4 | 

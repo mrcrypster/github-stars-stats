@@ -1,10 +1,10 @@
 # ruby/setup-ruby - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 165
+☋ Forks: 164
 
-★ Stars: 566
+★ Stars: 567
 
 [Open repository](https://github.com/ruby/setup-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 567 | 164 | 
 | 2022-10-07 | 566 | 165 | 
 | 2022-10-06 | 565 | 165 | 
 | 2022-10-05 | 565 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 560 | 164 | 
 | 2022-09-09 | 559 | 164 | 
 | 2022-09-08 | 559 | 163 | 
-| 2022-09-07 | 559 | 163 | 
 

@@ -1,10 +1,10 @@
 # aruZeta/QRgen - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/aruZeta/QRgen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 67 | 3 | 
 | 2022-10-06 | 66 | 3 | 
 | 2022-10-05 | 67 | 3 | 
 | 2022-10-04 | 66 | 3 | 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 252
 
-★ Stars: 4012
+★ Stars: 4013
 
 [Open repository](https://github.com/jwiegley/use-package)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 4012 | 252 | 
+| 2022-10-07 | 4013 | 252 | 
 | 2022-10-06 | 4009 | 252 | 
 | 2022-10-05 | 4007 | 252 | 
 | 2022-10-04 | 4005 | 252 | 

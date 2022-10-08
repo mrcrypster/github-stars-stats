@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 6227
 
-★ Stars: 25339
+★ Stars: 25341
 
 [Open repository](https://github.com/google-research/google-research)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 25339 | 6227 | 
+| 2022-10-07 | 25341 | 6227 | 
 | 2022-10-06 | 25332 | 6226 | 
 | 2022-10-05 | 25320 | 6218 | 
 | 2022-10-04 | 25298 | 6206 | 

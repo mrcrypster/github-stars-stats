@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 81
+☋ Forks: 83
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/notweuz/FNF-OSEngine)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 39 | 81 | 
+| 2022-10-07 | 40 | 83 | 
 | 2022-10-06 | 39 | 81 | 
 | 2022-10-05 | 39 | 81 | 
 | 2022-10-04 | 39 | 81 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 23
+☋ Forks: 25
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/pranjay-poddar/Swasthify)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 24 | 23 | 
+| 2022-10-07 | 26 | 25 | 
 | 2022-10-06 | 21 | 22 | 
 

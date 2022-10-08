@@ -1,10 +1,10 @@
 # EnergizedProtection/block - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 177
 
-★ Stars: 2252
+★ Stars: 2253
 
 [Open repository](https://github.com/EnergizedProtection/block)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2253 | 177 | 
 | 2022-10-07 | 2252 | 177 | 
 | 2022-10-06 | 2251 | 177 | 
 | 2022-10-05 | 2248 | 176 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 2223 | 173 | 
 | 2022-09-09 | 2222 | 173 | 
 | 2022-09-08 | 2219 | 173 | 
-| 2022-09-07 | 2217 | 173 | 
 

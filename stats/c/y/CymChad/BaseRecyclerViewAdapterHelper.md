@@ -1,6 +1,6 @@
 # CymChad/BaseRecyclerViewAdapterHelper - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4957
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 23140 | 4957 | 
 | 2022-10-06 | 23140 | 4957 | 
 | 2022-10-05 | 23140 | 4957 | 
 | 2022-10-04 | 23142 | 4957 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 23097 | 4942 | 
 | 2022-09-09 | 23097 | 4942 | 
 | 2022-09-08 | 23095 | 4943 | 
-| 2022-09-07 | 23091 | 4939 | 
 

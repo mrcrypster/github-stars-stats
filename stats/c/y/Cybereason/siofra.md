@@ -1,6 +1,6 @@
 # Cybereason/siofra - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 365 | 72 | 
 | 2022-10-06 | 365 | 72 | 
 | 2022-10-05 | 365 | 72 | 
 | 2022-10-04 | 365 | 72 | 

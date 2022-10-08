@@ -1,6 +1,6 @@
 # Esri/arcgis-maps-sdk-unity-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 32 | 10 | 
 | 2022-10-06 | 32 | 10 | 
 | 2022-10-05 | 32 | 10 | 
 | 2022-10-04 | 31 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 28 | 9 | 
 | 2022-09-09 | 28 | 9 | 
 | 2022-09-08 | 28 | 9 | 
-| 2022-09-07 | 28 | 9 | 
 

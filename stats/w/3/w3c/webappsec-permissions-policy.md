@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 139
 
-★ Stars: 356
+★ Stars: 357
 
 [Open repository](https://github.com/w3c/webappsec-permissions-policy)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 356 | 139 | 
+| 2022-10-07 | 357 | 139 | 
 | 2022-10-06 | 356 | 139 | 
 | 2022-10-05 | 356 | 139 | 
 | 2022-10-04 | 356 | 138 | 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 5466
 
-★ Stars: 22771
+★ Stars: 22773
 
 [Open repository](https://github.com/heartcombo/devise)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 22771 | 5466 | 
+| 2022-10-07 | 22773 | 5466 | 
 | 2022-10-06 | 22771 | 5466 | 
 | 2022-10-05 | 22765 | 5466 | 
 | 2022-10-04 | 22762 | 5466 | 

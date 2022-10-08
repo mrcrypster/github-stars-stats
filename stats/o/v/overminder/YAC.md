@@ -1,6 +1,6 @@
 # overminder/YAC - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 9 | 3 | 
 | 2022-10-07 | 9 | 3 | 
 | 2022-10-06 | 9 | 3 | 
 | 2022-10-05 | 9 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 9 | 3 | 
 | 2022-09-09 | 9 | 3 | 
 | 2022-09-08 | 9 | 3 | 
-| 2022-09-07 | 9 | 3 | 
 

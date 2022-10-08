@@ -1,10 +1,10 @@
 # NVISOsecurity/nviso-cti - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/NVISOsecurity/nviso-cti)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 29 | 4 | 
 | 2022-10-06 | 28 | 4 | 
 | 2022-10-05 | 28 | 4 | 
 | 2022-10-04 | 28 | 4 | 

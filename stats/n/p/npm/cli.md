@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2092
+☋ Forks: 2093
 
-★ Stars: 6428
+★ Stars: 6433
 
 [Open repository](https://github.com/npm/cli)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 6428 | 2092 | 
+| 2022-10-07 | 6433 | 2093 | 
 | 2022-10-06 | 6423 | 2088 | 
 | 2022-10-05 | 6417 | 2089 | 
 | 2022-10-04 | 6414 | 2085 | 

@@ -1,10 +1,10 @@
 # lucidLuckylee/zerosync - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
-★ Stars: 88
+★ Stars: 92
 
 [Open repository](https://github.com/lucidLuckylee/zerosync)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 92 | 6 | 
 | 2022-10-06 | 88 | 6 | 
 | 2022-10-05 | 86 | 6 | 
 | 2022-10-04 | 86 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 55 | 1 | 
 | 2022-09-09 | 55 | 1 | 
 | 2022-09-08 | 55 | 1 | 
-| 2022-09-07 | 55 | 1 | 
 

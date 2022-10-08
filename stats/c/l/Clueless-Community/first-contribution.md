@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 220
+☋ Forks: 255
 
-★ Stars: 52
+★ Stars: 77
 
 [Open repository](https://github.com/Clueless-Community/first-contribution)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 52 | 220 | 
+| 2022-10-07 | 77 | 255 | 
 | 2022-10-06 | 36 | 180 | 
 

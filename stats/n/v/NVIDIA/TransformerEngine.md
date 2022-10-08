@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
-★ Stars: 156
+★ Stars: 163
 
 [Open repository](https://github.com/NVIDIA/TransformerEngine)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 156 | 7 | 
+| 2022-10-07 | 163 | 7 | 
 | 2022-10-06 | 144 | 7 | 
 

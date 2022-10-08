@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 1932
 
-★ Stars: 2879
+★ Stars: 2880
 
 [Open repository](https://github.com/librenms/librenms)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 2879 | 1932 | 
+| 2022-10-07 | 2880 | 1932 | 
 | 2022-10-06 | 2879 | 1932 | 
 | 2022-10-05 | 2879 | 1930 | 
 | 2022-10-04 | 2879 | 1929 | 

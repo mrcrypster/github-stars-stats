@@ -1,10 +1,10 @@
 # Gibberlings3/BP_in_BG - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Gibberlings3/BP_in_BG)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2 | - | 
 | 2022-10-07 | 1 | - | 
 | 2022-10-06 | 1 | - | 
 | 2022-10-04 | 1 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 1 | - | 
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
-| 2022-09-07 | 1 | - | 
 

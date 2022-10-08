@@ -1,10 +1,10 @@
 # WebDevSimplified/react-folder-structure - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 77
 
-★ Stars: 203
+★ Stars: 205
 
 [Open repository](https://github.com/WebDevSimplified/react-folder-structure)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 205 | 77 | 
 | 2022-10-07 | 203 | 77 | 
 | 2022-10-06 | 203 | 75 | 
 | 2022-10-04 | 201 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 189 | 67 | 
 | 2022-09-09 | 189 | 65 | 
 | 2022-09-08 | 188 | 64 | 
-| 2022-09-07 | 187 | 63 | 
 

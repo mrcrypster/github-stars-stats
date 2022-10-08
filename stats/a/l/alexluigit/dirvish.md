@@ -1,6 +1,6 @@
 # alexluigit/dirvish - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 422 | 21 | 
 | 2022-10-06 | 422 | 21 | 
 | 2022-10-05 | 421 | 21 | 
 | 2022-10-04 | 419 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 407 | 19 | 
 | 2022-09-09 | 405 | 18 | 
 | 2022-09-08 | 402 | 18 | 
-| 2022-09-07 | 402 | 18 | 
 

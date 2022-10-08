@@ -1,10 +1,10 @@
 # EAimTY/tuic - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 925
+★ Stars: 929
 
 [Open repository](https://github.com/EAimTY/tuic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 929 | 84 | 
 | 2022-10-06 | 925 | 83 | 
 | 2022-10-05 | 923 | 83 | 
 | 2022-10-04 | 914 | 83 | 

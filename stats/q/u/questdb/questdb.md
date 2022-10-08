@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 537
+☋ Forks: 539
 
-★ Stars: 9303
+★ Stars: 9311
 
 [Open repository](https://github.com/questdb/questdb)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 9303 | 537 | 
+| 2022-10-07 | 9311 | 539 | 
 | 2022-10-06 | 9297 | 535 | 
 | 2022-10-05 | 9281 | 524 | 
 | 2022-10-04 | 9278 | 522 | 

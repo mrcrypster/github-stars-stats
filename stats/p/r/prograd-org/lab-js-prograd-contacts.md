@@ -1,6 +1,6 @@
 # prograd-org/lab-js-prograd-contacts - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3 | 207 | 
 | 2022-10-07 | 3 | 207 | 
 | 2022-10-06 | 3 | 207 | 
 | 2022-10-05 | 3 | 207 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 3 | 208 | 
 | 2022-09-09 | 3 | 209 | 
 | 2022-09-08 | 3 | 209 | 
-| 2022-09-07 | 3 | 209 | 
 

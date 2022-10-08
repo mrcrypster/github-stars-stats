@@ -1,8 +1,8 @@
 # initsixcloud/petclinic - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 102
+☋ Forks: 103
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2 | 103 | 
 | 2022-10-06 | 2 | 102 | 
 | 2022-10-05 | 2 | 102 | 
 | 2022-10-04 | 1 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | - | 93 | 
 | 2022-09-09 | - | 93 | 
 | 2022-09-08 | - | 93 | 
-| 2022-09-07 | - | 93 | 
 

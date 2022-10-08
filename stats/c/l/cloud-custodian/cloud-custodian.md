@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 1223
 
-★ Stars: 4428
+★ Stars: 4433
 
 [Open repository](https://github.com/cloud-custodian/cloud-custodian)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 4428 | 1223 | 
+| 2022-10-07 | 4433 | 1223 | 
 | 2022-10-06 | 4427 | 1223 | 
 | 2022-10-05 | 4420 | 1219 | 
 | 2022-10-04 | 4417 | 1217 | 

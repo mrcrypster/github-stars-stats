@@ -1,10 +1,10 @@
 # s4kibs4mi/java-developer-roadmap - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 468
 
-★ Stars: 2924
+★ Stars: 2928
 
 [Open repository](https://github.com/s4kibs4mi/java-developer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2928 | 468 | 
 | 2022-10-06 | 2924 | 468 | 
 | 2022-10-05 | 2924 | 468 | 
 | 2022-10-04 | 2924 | 468 | 

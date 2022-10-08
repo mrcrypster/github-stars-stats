@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 7967
+☋ Forks: 7974
 
-★ Stars: 34423
+★ Stars: 34433
 
 [Open repository](https://github.com/hashicorp/terraform)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 34423 | 7967 | 
+| 2022-10-07 | 34433 | 7974 | 
 | 2022-10-06 | 34415 | 7968 | 
 | 2022-10-05 | 34390 | 7956 | 
 | 2022-10-04 | 34381 | 7956 | 

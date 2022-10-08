@@ -1,6 +1,6 @@
 # binary-com/perl-Plack-App-CGIBin-Streaming - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 5 | 
 | 2022-10-06 | - | 5 | 
 | 2022-10-05 | - | 5 | 
 | 2022-10-04 | - | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | - | 5 | 
 | 2022-09-10 | - | 5 | 
 | 2022-09-09 | - | 5 | 
-| 2022-09-08 | - | 5 | 
 

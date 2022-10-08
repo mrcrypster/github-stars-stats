@@ -1,6 +1,6 @@
 # danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 110 | 32 | 
 | 2022-10-06 | 110 | 32 | 
 | 2022-10-05 | 110 | 32 | 
 | 2022-10-04 | 110 | 32 | 

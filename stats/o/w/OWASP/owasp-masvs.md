@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 377
 
-★ Stars: 1516
+★ Stars: 1517
 
 [Open repository](https://github.com/OWASP/owasp-masvs)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 1516 | 377 | 
+| 2022-10-07 | 1517 | 377 | 
 | 2022-10-06 | 1514 | 377 | 
 | 2022-10-05 | 1512 | 377 | 
 | 2022-10-04 | 1510 | 377 | 

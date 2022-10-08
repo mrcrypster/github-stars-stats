@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 285
 
-★ Stars: 1623
+★ Stars: 1624
 
 [Open repository](https://github.com/Java-S12138/frank)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 1623 | 285 | 
+| 2022-10-07 | 1624 | 285 | 
 | 2022-10-06 | 1622 | 284 | 
 | 2022-10-05 | 1620 | 284 | 
 | 2022-10-04 | 1618 | 283 | 

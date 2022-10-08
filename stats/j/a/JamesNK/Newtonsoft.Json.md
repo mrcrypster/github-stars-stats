@@ -1,10 +1,10 @@
 # JamesNK/Newtonsoft.Json - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 3099
+☋ Forks: 3098
 
-★ Stars: 9609
+★ Stars: 9611
 
 [Open repository](https://github.com/JamesNK/Newtonsoft.Json)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 9611 | 3098 | 
 | 2022-10-06 | 9609 | 3099 | 
 | 2022-10-05 | 9607 | 3099 | 
 | 2022-10-04 | 9608 | 3100 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 9559 | 3090 | 
 | 2022-09-09 | 9560 | 3089 | 
 | 2022-09-08 | 9557 | 3084 | 
-| 2022-09-07 | 9556 | 3084 | 
 

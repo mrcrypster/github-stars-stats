@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 427
+☋ Forks: 428
 
-★ Stars: 3281
+★ Stars: 3282
 
 [Open repository](https://github.com/sorbet/sorbet)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 3281 | 427 | 
+| 2022-10-07 | 3282 | 428 | 
 | 2022-10-06 | 3281 | 427 | 
 | 2022-10-05 | 3277 | 427 | 
 | 2022-10-04 | 3275 | 426 | 

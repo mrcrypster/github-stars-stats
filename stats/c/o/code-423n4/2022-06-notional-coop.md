@@ -1,6 +1,6 @@
 # code-423n4/2022-06-notional-coop - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | 3 | 
 | 2022-10-06 | 1 | 3 | 
 | 2022-10-05 | 1 | 4 | 
 | 2022-10-04 | 1 | 4 | 

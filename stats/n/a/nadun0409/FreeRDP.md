@@ -1,10 +1,10 @@
 # nadun0409/FreeRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 258
+☋ Forks: 259
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/nadun0409/FreeRDP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1 | 259 | 
 | 2022-10-06 | 2 | 258 | 
 | 2022-10-05 | 2 | 257 | 
 | 2022-10-04 | 1 | 256 | 

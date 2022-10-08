@@ -1,6 +1,6 @@
 # BepInEx/BepInEx - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2453 | 365 | 
 | 2022-10-06 | 2453 | 365 | 
 | 2022-10-05 | 2451 | 365 | 
 | 2022-10-04 | 2444 | 365 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 2366 | 354 | 
 | 2022-09-09 | 2362 | 354 | 
 | 2022-09-08 | 2362 | 353 | 
-| 2022-09-07 | 2358 | 353 | 
 

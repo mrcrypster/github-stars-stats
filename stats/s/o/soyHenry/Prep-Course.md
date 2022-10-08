@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 16155
+☋ Forks: 16200
 
-★ Stars: 379
+★ Stars: 381
 
 [Open repository](https://github.com/soyHenry/Prep-Course)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 379 | 16155 | 
+| 2022-10-07 | 381 | 16200 | 
 | 2022-10-06 | 377 | 16079 | 
 | 2022-10-05 | 371 | 15942 | 
 | 2022-10-04 | 369 | 15824 | 

@@ -1,10 +1,10 @@
 # dolthub/dolt - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 375
 
-★ Stars: 13071
+★ Stars: 13075
 
 [Open repository](https://github.com/dolthub/dolt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13075 | 375 | 
 | 2022-10-06 | 13071 | 375 | 
 | 2022-10-05 | 13065 | 375 | 
 | 2022-10-04 | 13062 | 375 | 

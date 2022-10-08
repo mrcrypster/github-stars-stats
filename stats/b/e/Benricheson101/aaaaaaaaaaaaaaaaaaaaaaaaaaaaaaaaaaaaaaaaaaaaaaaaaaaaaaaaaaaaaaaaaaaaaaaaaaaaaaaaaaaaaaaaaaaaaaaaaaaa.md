@@ -1,10 +1,10 @@
 # Benricheson101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 57
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/Benricheson101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 128 | 57 | 
 | 2022-10-06 | 127 | 57 | 
 | 2022-10-05 | 127 | 57 | 
 | 2022-10-04 | 127 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 123 | 57 | 
 | 2022-09-10 | 123 | 57 | 
 | 2022-09-09 | 123 | 57 | 
-| 2022-09-08 | 123 | 57 | 
 

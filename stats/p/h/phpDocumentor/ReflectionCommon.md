@@ -1,10 +1,10 @@
 # phpDocumentor/ReflectionCommon - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 20
 
-★ Stars: 8818
+★ Stars: 8821
 
 [Open repository](https://github.com/phpDocumentor/ReflectionCommon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 8821 | 20 | 
 | 2022-10-07 | 8818 | 20 | 
 | 2022-10-06 | 8817 | 20 | 
 | 2022-10-04 | 8817 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 8816 | 20 | 
 | 2022-09-09 | 8818 | 20 | 
 | 2022-09-08 | 8818 | 20 | 
-| 2022-09-07 | 8818 | 20 | 
 

@@ -1,10 +1,10 @@
 # Codeception/Codeception - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 1311
+☋ Forks: 1312
 
-★ Stars: 4586
+★ Stars: 4587
 
 [Open repository](https://github.com/Codeception/Codeception)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4587 | 1312 | 
 | 2022-10-06 | 4586 | 1311 | 
 | 2022-10-05 | 4585 | 1311 | 
 | 2022-10-04 | 4585 | 1311 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 4576 | 1310 | 
 | 2022-09-09 | 4576 | 1310 | 
 | 2022-09-08 | 4575 | 1310 | 
-| 2022-09-07 | 4573 | 1310 | 
 

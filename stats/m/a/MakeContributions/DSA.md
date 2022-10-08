@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 460
+☋ Forks: 463
 
-★ Stars: 363
+★ Stars: 365
 
 [Open repository](https://github.com/MakeContributions/DSA)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 363 | 460 | 
+| 2022-10-07 | 365 | 463 | 
 | 2022-10-06 | 362 | 460 | 
 

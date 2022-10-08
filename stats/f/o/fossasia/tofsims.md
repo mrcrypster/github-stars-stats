@@ -1,10 +1,10 @@
 # fossasia/tofsims - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
-★ Stars: 1502
+★ Stars: 1501
 
 [Open repository](https://github.com/fossasia/tofsims)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1501 | 5 | 
 | 2022-10-06 | 1502 | 5 | 
 | 2022-10-05 | 1502 | 5 | 
 | 2022-10-04 | 1502 | 5 | 

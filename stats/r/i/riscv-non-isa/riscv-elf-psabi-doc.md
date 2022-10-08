@@ -1,6 +1,6 @@
 # riscv-non-isa/riscv-elf-psabi-doc - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 371 | 116 | 
 | 2022-10-06 | 371 | 116 | 
 | 2022-10-05 | 371 | 116 | 
 | 2022-10-04 | 370 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 352 | 114 | 
 | 2022-09-09 | 351 | 114 | 
 | 2022-09-08 | 350 | 114 | 
-| 2022-09-07 | 350 | 114 | 
 

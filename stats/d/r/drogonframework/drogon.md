@@ -1,10 +1,10 @@
 # drogonframework/drogon - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 785
 
-★ Stars: 8043
+★ Stars: 8049
 
 [Open repository](https://github.com/drogonframework/drogon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8049 | 785 | 
 | 2022-10-06 | 8043 | 785 | 
 | 2022-10-05 | 8042 | 785 | 
 | 2022-10-04 | 8041 | 785 | 

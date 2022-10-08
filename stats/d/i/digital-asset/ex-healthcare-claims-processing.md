@@ -1,6 +1,6 @@
 # digital-asset/ex-healthcare-claims-processing - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 27 | 15 | 
 | 2022-10-06 | 27 | 15 | 
 | 2022-10-05 | 27 | 15 | 
 | 2022-10-04 | 27 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 27 | 15 | 
 | 2022-09-09 | 27 | 15 | 
 | 2022-09-08 | 27 | 15 | 
-| 2022-09-07 | 27 | 15 | 
 

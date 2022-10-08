@@ -1,10 +1,10 @@
 # Mosney/anti-anti-AD - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 31
 
-★ Stars: 282
+★ Stars: 281
 
 [Open repository](https://github.com/Mosney/anti-anti-AD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 281 | 31 | 
 | 2022-10-06 | 282 | 31 | 
 | 2022-10-05 | 282 | 31 | 
 | 2022-10-04 | 281 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 266 | 30 | 
 | 2022-09-10 | 265 | 30 | 
 | 2022-09-09 | 264 | 30 | 
-| 2022-09-08 | 262 | 30 | 
 

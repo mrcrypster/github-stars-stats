@@ -1,10 +1,10 @@
 # cloudwego/netpoll - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 333
 
-★ Stars: 3096
+★ Stars: 3098
 
 [Open repository](https://github.com/cloudwego/netpoll)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3098 | 333 | 
 | 2022-10-06 | 3096 | 333 | 
 | 2022-10-05 | 3095 | 332 | 
 | 2022-10-04 | 3096 | 333 | 

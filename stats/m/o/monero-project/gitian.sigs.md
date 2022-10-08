@@ -1,6 +1,6 @@
 # monero-project/gitian.sigs - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 22 | 55 | 
 | 2022-10-06 | 22 | 55 | 
 | 2022-10-05 | 22 | 55 | 
 | 2022-10-04 | 22 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 22 | 54 | 
 | 2022-09-09 | 22 | 54 | 
 | 2022-09-08 | 22 | 54 | 
-| 2022-09-07 | 22 | 54 | 
 

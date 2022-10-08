@@ -1,10 +1,10 @@
 # benc-uk/k6-reporter - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 38
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/benc-uk/k6-reporter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 152 | 38 | 
 | 2022-10-07 | 151 | 38 | 
 | 2022-10-06 | 150 | 37 | 
 | 2022-10-05 | 149 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 144 | 34 | 
 | 2022-09-09 | 144 | 34 | 
 | 2022-09-08 | 143 | 34 | 
-| 2022-09-07 | 143 | 34 | 
 

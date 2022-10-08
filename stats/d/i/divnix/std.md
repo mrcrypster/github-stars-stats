@@ -1,10 +1,10 @@
 # divnix/std - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 19
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/divnix/std)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 95 | 19 | 
 | 2022-10-06 | 94 | 19 | 
 | 2022-10-05 | 94 | 19 | 
 | 2022-10-04 | 94 | 20 | 

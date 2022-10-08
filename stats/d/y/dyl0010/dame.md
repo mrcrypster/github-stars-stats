@@ -1,6 +1,6 @@
 # dyl0010/dame - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 10 | - | 
 | 2022-10-06 | 10 | - | 
 | 2022-10-05 | 10 | - | 
 | 2022-10-04 | 10 | - | 

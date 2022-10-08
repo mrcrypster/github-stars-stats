@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 459
 
-★ Stars: 459
+★ Stars: 463
 
 [Open repository](https://github.com/Expensify/App)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 459 | 459 | 
+| 2022-10-07 | 463 | 459 | 
 | 2022-10-06 | 443 | 457 | 
 | 2022-10-05 | 406 | 453 | 
 | 2022-10-04 | 375 | 450 | 

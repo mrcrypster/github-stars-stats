@@ -1,10 +1,10 @@
 # dtolnay/proc-macro-workshop - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 581
 
-★ Stars: 2260
+★ Stars: 2264
 
 [Open repository](https://github.com/dtolnay/proc-macro-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2264 | 581 | 
 | 2022-10-06 | 2260 | 581 | 
 | 2022-10-05 | 2257 | 581 | 
 | 2022-10-04 | 2254 | 580 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 2188 | 564 | 
 | 2022-09-09 | 2183 | 563 | 
 | 2022-09-08 | 2182 | 559 | 
-| 2022-09-07 | 2181 | 559 | 
 

@@ -1,6 +1,6 @@
 # Azure-Samples/azure-opensource-labs - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 53 | 27 | 
 | 2022-10-06 | 53 | 27 | 
 | 2022-10-05 | 53 | 27 | 
 | 2022-10-04 | 53 | 27 | 

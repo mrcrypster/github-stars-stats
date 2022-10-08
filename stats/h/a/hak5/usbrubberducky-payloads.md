@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 411
+☋ Forks: 413
 
-★ Stars: 1039
+★ Stars: 1043
 
 [Open repository](https://github.com/hak5/usbrubberducky-payloads)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 1039 | 411 | 
+| 2022-10-07 | 1043 | 413 | 
 | 2022-10-06 | 1038 | 411 | 
 | 2022-10-05 | 1031 | 408 | 
 | 2022-10-04 | 1027 | 408 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 929 | 370 | 
 | 2022-09-10 | 925 | 368 | 
 | 2022-09-09 | 922 | 368 | 
-| 2022-09-07 | 917 | 367 | 
 

@@ -1,6 +1,6 @@
 # LarsAstrom/EDAF05-labs-public - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13 | 37 | 
 | 2022-10-06 | 13 | 37 | 
 | 2022-10-05 | 13 | 37 | 
 | 2022-10-04 | 13 | 37 | 

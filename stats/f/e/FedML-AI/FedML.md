@@ -1,8 +1,8 @@
 # FedML-AI/FedML - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 470
+☋ Forks: 468
 
 ★ Stars: 1807
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1807 | 468 | 
 | 2022-10-06 | 1807 | 470 | 
 | 2022-10-05 | 1806 | 470 | 
 | 2022-10-04 | 1803 | 469 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 1492 | 427 | 
 | 2022-09-09 | 1451 | 423 | 
 | 2022-09-08 | 1416 | 419 | 
-| 2022-09-07 | 1413 | 418 | 
 

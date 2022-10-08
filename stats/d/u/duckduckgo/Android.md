@@ -1,10 +1,10 @@
 # duckduckgo/Android - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 747
 
-★ Stars: 2747
+★ Stars: 2748
 
 [Open repository](https://github.com/duckduckgo/Android)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2748 | 747 | 
 | 2022-10-06 | 2747 | 747 | 
 | 2022-10-05 | 2744 | 747 | 
 | 2022-10-04 | 2743 | 745 | 

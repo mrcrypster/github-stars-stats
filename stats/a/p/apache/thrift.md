@@ -1,8 +1,8 @@
 # apache/thrift - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 3875
+☋ Forks: 3874
 
 ★ Stars: 9366
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 9366 | 3874 | 
 | 2022-10-06 | 9366 | 3875 | 
 | 2022-10-05 | 9365 | 3875 | 
 | 2022-10-04 | 9363 | 3875 | 

@@ -1,6 +1,6 @@
 # ucsd-progsys/liquidhaskell - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 994 | 116 | 
 | 2022-10-07 | 994 | 116 | 
 | 2022-10-06 | 994 | 116 | 
 | 2022-10-05 | 994 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 987 | 115 | 
 | 2022-09-09 | 986 | 115 | 
 | 2022-09-08 | 987 | 115 | 
-| 2022-09-07 | 987 | 115 | 
 

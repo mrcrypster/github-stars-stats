@@ -1,10 +1,10 @@
 # rdk/p2rank - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 23
 
-★ Stars: 107
+★ Stars: 111
 
 [Open repository](https://github.com/rdk/p2rank)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 111 | 23 | 
 | 2022-10-07 | 107 | 23 | 
 | 2022-10-05 | 107 | 23 | 
 | 2022-10-04 | 106 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 101 | 22 | 
 | 2022-09-09 | 101 | 22 | 
 | 2022-09-08 | 101 | 21 | 
-| 2022-09-07 | 100 | 21 | 
 

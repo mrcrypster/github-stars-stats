@@ -1,10 +1,10 @@
 # zu1k/good-mitm - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 64
 
-★ Stars: 419
+★ Stars: 423
 
 [Open repository](https://github.com/zu1k/good-mitm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 423 | 64 | 
 | 2022-10-06 | 419 | 64 | 
 | 2022-10-05 | 416 | 64 | 
 | 2022-10-04 | 414 | 64 | 

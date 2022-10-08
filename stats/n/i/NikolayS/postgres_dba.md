@@ -1,6 +1,6 @@
 # NikolayS/postgres_dba - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 697 | 87 | 
 | 2022-10-06 | 697 | 87 | 
 | 2022-10-05 | 696 | 87 | 
 | 2022-10-04 | 696 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 683 | 86 | 
 | 2022-09-09 | 683 | 86 | 
 | 2022-09-08 | 683 | 86 | 
-| 2022-09-07 | 680 | 86 | 
 

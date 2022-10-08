@@ -1,6 +1,6 @@
 # openbmc/phosphor-dbus-interfaces - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 28 | 47 | 
 | 2022-10-06 | 28 | 47 | 
 | 2022-10-05 | 28 | 47 | 
 | 2022-10-04 | 28 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 28 | 48 | 
 | 2022-09-09 | 28 | 48 | 
 | 2022-09-08 | 28 | 48 | 
-| 2022-09-07 | 28 | 48 | 
 

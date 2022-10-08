@@ -1,6 +1,6 @@
 # mogol/flutter_secure_storage - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 861 | 216 | 
 | 2022-10-07 | 861 | 216 | 
 | 2022-10-06 | 861 | 216 | 
 | 2022-10-04 | 860 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 858 | 211 | 
 | 2022-09-09 | 856 | 211 | 
 | 2022-09-08 | 857 | 211 | 
-| 2022-09-07 | 857 | 211 | 
 

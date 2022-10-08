@@ -1,6 +1,6 @@
 # iydon/sustechthesis - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 104 | 35 | 
 | 2022-10-06 | 104 | 35 | 
 | 2022-10-05 | 104 | 35 | 
 | 2022-10-04 | 104 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 104 | 35 | 
 | 2022-09-10 | 104 | 35 | 
 | 2022-09-09 | 104 | 35 | 
-| 2022-09-08 | 104 | 35 | 
 

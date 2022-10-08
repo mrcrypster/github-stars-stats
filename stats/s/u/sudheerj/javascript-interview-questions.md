@@ -1,10 +1,10 @@
 # sudheerj/javascript-interview-questions - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 3617
+☋ Forks: 3620
 
-★ Stars: 12190
+★ Stars: 12201
 
 [Open repository](https://github.com/sudheerj/javascript-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 12201 | 3620 | 
 | 2022-10-06 | 12190 | 3617 | 
 | 2022-10-05 | 12172 | 3612 | 
 | 2022-10-04 | 12163 | 3610 | 

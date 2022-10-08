@@ -1,10 +1,10 @@
 # papyros/qml-material - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 479
 
-★ Stars: 2481
+★ Stars: 2480
 
 [Open repository](https://github.com/papyros/qml-material)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2480 | 479 | 
 | 2022-10-06 | 2481 | 479 | 
 | 2022-10-05 | 2481 | 479 | 
 | 2022-10-04 | 2481 | 479 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 2481 | 477 | 
 | 2022-09-10 | 2481 | 477 | 
 | 2022-09-09 | 2479 | 476 | 
-| 2022-09-08 | 2479 | 476 | 
 

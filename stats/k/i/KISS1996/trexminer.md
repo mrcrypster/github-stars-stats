@@ -1,10 +1,10 @@
 # KISS1996/trexminer - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 33
 
-★ Stars: 223
+★ Stars: 222
 
 [Open repository](https://github.com/KISS1996/trexminer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 222 | 33 | 
 | 2022-10-06 | 223 | 33 | 
 | 2022-10-05 | 223 | 33 | 
 | 2022-10-04 | 223 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 111 | 17 | 
 | 2022-09-09 | 111 | 17 | 
 | 2022-09-08 | 101 | 14 | 
-| 2022-09-07 | 96 | 13 | 
 

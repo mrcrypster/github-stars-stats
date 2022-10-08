@@ -1,6 +1,6 @@
 # Ephemeral-Ahsan/Complex-SQL-Practice-for-Interview - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 74 | 24 | 
 | 2022-10-07 | 74 | 24 | 
 | 2022-10-05 | 74 | 24 | 
 | 2022-10-04 | 74 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 73 | 24 | 
 | 2022-09-09 | 73 | 24 | 
 | 2022-09-08 | 73 | 24 | 
-| 2022-09-07 | 73 | 24 | 
 

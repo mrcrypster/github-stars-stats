@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 223
 
-★ Stars: 931
+★ Stars: 932
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/PowerSharpPack)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 931 | 223 | 
+| 2022-10-07 | 932 | 223 | 
 | 2022-10-06 | 929 | 222 | 
 | 2022-10-05 | 918 | 221 | 
 | 2022-10-04 | 917 | 220 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 889 | 208 | 
 | 2022-09-09 | 889 | 207 | 
 | 2022-09-08 | 889 | 207 | 
-| 2022-09-07 | 889 | 208 | 
 

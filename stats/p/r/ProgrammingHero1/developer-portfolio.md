@@ -1,10 +1,10 @@
 # ProgrammingHero1/developer-portfolio - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 52
 
-★ Stars: 134
+★ Stars: 133
 
 [Open repository](https://github.com/ProgrammingHero1/developer-portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 133 | 52 | 
 | 2022-10-07 | 134 | 52 | 
 | 2022-10-06 | 134 | 52 | 
 | 2022-10-05 | 134 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 134 | 52 | 
 | 2022-09-09 | 134 | 52 | 
 | 2022-09-08 | 134 | 52 | 
-| 2022-09-07 | 134 | 52 | 
 

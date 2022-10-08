@@ -1,6 +1,6 @@
 # dropbox/zxcvbn - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 891
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13344 | 891 | 
 | 2022-10-06 | 13344 | 891 | 
 | 2022-10-05 | 13341 | 891 | 
 | 2022-10-04 | 13338 | 891 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 13290 | 886 | 
 | 2022-09-09 | 13286 | 887 | 
 | 2022-09-08 | 13285 | 887 | 
-| 2022-09-07 | 13285 | 887 | 
 

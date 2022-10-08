@@ -1,6 +1,6 @@
 # qbcore-framework/qb-houserobbery - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 19 | 171 | 
 | 2022-10-06 | 19 | 171 | 
 | 2022-10-05 | 19 | 171 | 
 | 2022-10-04 | 19 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 17 | 167 | 
 | 2022-09-10 | 17 | 169 | 
 | 2022-09-09 | 17 | 168 | 
-| 2022-09-08 | 17 | 168 | 
 

@@ -1,10 +1,10 @@
 # JuliaControl/ControlSystems.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 75
 
-★ Stars: 393
+★ Stars: 395
 
 [Open repository](https://github.com/JuliaControl/ControlSystems.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 395 | 75 | 
 | 2022-10-06 | 393 | 75 | 
 | 2022-10-05 | 393 | 75 | 
 | 2022-10-04 | 393 | 75 | 

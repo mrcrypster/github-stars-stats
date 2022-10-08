@@ -1,10 +1,10 @@
 # streetwriters/notesnook - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 207
+☋ Forks: 208
 
-★ Stars: 3946
+★ Stars: 3960
 
 [Open repository](https://github.com/streetwriters/notesnook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3960 | 208 | 
 | 2022-10-06 | 3946 | 207 | 
 | 2022-10-05 | 3934 | 207 | 
 | 2022-10-04 | 3924 | 205 | 

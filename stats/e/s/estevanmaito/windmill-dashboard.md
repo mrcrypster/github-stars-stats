@@ -1,10 +1,10 @@
 # estevanmaito/windmill-dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 355
+☋ Forks: 356
 
-★ Stars: 2139
+★ Stars: 2140
 
 [Open repository](https://github.com/estevanmaito/windmill-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2140 | 356 | 
 | 2022-10-06 | 2139 | 355 | 
 | 2022-10-05 | 2138 | 354 | 
 | 2022-10-04 | 2138 | 354 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 2102 | 352 | 
 | 2022-09-09 | 2102 | 352 | 
 | 2022-09-08 | 2098 | 352 | 
-| 2022-09-07 | 2097 | 351 | 
 

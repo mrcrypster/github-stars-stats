@@ -1,10 +1,10 @@
 # dumyCq/ESFPNet - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 50
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/dumyCq/ESFPNet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 201 | 50 | 
 | 2022-10-06 | 200 | 50 | 
 | 2022-10-05 | 200 | 50 | 
 | 2022-10-04 | 200 | 49 | 

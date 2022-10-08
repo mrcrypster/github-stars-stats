@@ -1,10 +1,10 @@
 # bytecodealliance/wit-bindgen - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 77
 
-★ Stars: 351
+★ Stars: 353
 
 [Open repository](https://github.com/bytecodealliance/wit-bindgen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 353 | 77 | 
 | 2022-10-06 | 351 | 77 | 
 | 2022-10-05 | 349 | 76 | 
 | 2022-10-04 | 348 | 75 | 

@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-shop-homepage - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 610
 
-★ Stars: 371
+★ Stars: 373
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-shop-homepage)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 373 | 610 | 
 | 2022-10-06 | 371 | 610 | 
 | 2022-10-05 | 370 | 610 | 
 | 2022-10-04 | 370 | 610 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 366 | 610 | 
 | 2022-09-09 | 366 | 610 | 
 | 2022-09-08 | 366 | 610 | 
-| 2022-09-07 | 366 | 610 | 
 

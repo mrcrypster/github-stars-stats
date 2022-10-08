@@ -1,6 +1,6 @@
 # broadinstitute/sam - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 31 | 10 | 
 | 2022-10-06 | 31 | 10 | 
 | 2022-10-05 | 30 | 10 | 
 | 2022-10-04 | 30 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 30 | 10 | 
 | 2022-09-09 | 30 | 10 | 
 | 2022-09-08 | 30 | 10 | 
-| 2022-09-07 | 30 | 10 | 
 

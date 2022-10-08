@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 5413
 
-★ Stars: 19929
+★ Stars: 19937
 
 [Open repository](https://github.com/hwdsl2/setup-ipsec-vpn)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 19929 | 5413 | 
+| 2022-10-07 | 19937 | 5413 | 
 | 2022-10-06 | 19924 | 5412 | 
 | 2022-10-05 | 19910 | 5409 | 
 | 2022-10-04 | 19907 | 5407 | 

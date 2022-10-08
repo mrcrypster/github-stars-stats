@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 237
 
-★ Stars: 2130
+★ Stars: 2131
 
 [Open repository](https://github.com/kmonad/kmonad)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 2130 | 237 | 
+| 2022-10-07 | 2131 | 237 | 
 | 2022-10-06 | 2128 | 237 | 
 | 2022-10-05 | 2126 | 237 | 
 | 2022-10-04 | 2121 | 234 | 

@@ -1,10 +1,10 @@
 # mhinz/vim-grepper - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 60
 
-★ Stars: 1158
+★ Stars: 1159
 
 [Open repository](https://github.com/mhinz/vim-grepper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1159 | 60 | 
 | 2022-10-06 | 1158 | 60 | 
 | 2022-10-05 | 1158 | 60 | 
 | 2022-10-04 | 1157 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 1151 | 61 | 
 | 2022-09-09 | 1152 | 61 | 
 | 2022-09-08 | 1152 | 61 | 
-| 2022-09-07 | 1152 | 61 | 
 

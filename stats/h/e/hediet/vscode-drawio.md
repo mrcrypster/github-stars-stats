@@ -1,10 +1,10 @@
 # hediet/vscode-drawio - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 351
+☋ Forks: 350
 
-★ Stars: 8377
+★ Stars: 8378
 
 [Open repository](https://github.com/hediet/vscode-drawio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8378 | 350 | 
 | 2022-10-06 | 8377 | 351 | 
 | 2022-10-05 | 8375 | 351 | 
 | 2022-10-04 | 8374 | 351 | 

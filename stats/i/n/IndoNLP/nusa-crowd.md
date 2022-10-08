@@ -1,10 +1,10 @@
 # IndoNLP/nusa-crowd - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 46
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/IndoNLP/nusa-crowd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 188 | 46 | 
 | 2022-10-06 | 187 | 46 | 
 | 2022-10-05 | 187 | 46 | 
 | 2022-10-04 | 187 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 172 | 39 | 
 | 2022-09-09 | 172 | 39 | 
 | 2022-09-08 | 172 | 39 | 
-| 2022-09-07 | 171 | 39 | 
 

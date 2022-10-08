@@ -1,10 +1,10 @@
 # CompVis/latent-diffusion - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 521
+☋ Forks: 522
 
-★ Stars: 4188
+★ Stars: 4227
 
 [Open repository](https://github.com/CompVis/latent-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4227 | 522 | 
 | 2022-10-06 | 4188 | 521 | 
 | 2022-10-05 | 4170 | 515 | 
 | 2022-10-04 | 4149 | 512 | 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 2124
 
-★ Stars: 9205
+★ Stars: 9207
 
 [Open repository](https://github.com/ttroy50/cmake-examples)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 9205 | 2124 | 
+| 2022-10-07 | 9207 | 2124 | 
 | 2022-10-06 | 9204 | 2124 | 
 | 2022-10-05 | 9199 | 2124 | 
 | 2022-10-04 | 9192 | 2124 | 

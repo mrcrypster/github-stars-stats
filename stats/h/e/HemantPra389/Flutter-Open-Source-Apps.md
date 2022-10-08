@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 9
+★ Stars: 11
 
 [Open repository](https://github.com/HemantPra389/Flutter-Open-Source-Apps)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 9 | 9 | 
+| 2022-10-07 | 11 | 10 | 
 | 2022-10-06 | 9 | 9 | 
 

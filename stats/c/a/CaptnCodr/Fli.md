@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/CaptnCodr/Fli)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 33 | - | 
+| 2022-10-07 | 35 | - | 
 | 2022-10-06 | 33 | - | 
 | 2022-10-05 | 31 | - | 
 | 2022-10-04 | 26 | - | 

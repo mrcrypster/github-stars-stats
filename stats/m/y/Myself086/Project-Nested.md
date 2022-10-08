@@ -1,6 +1,6 @@
 # Myself086/Project-Nested - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 414 | 9 | 
 | 2022-10-07 | 414 | 9 | 
 | 2022-10-06 | 414 | 9 | 
 | 2022-10-05 | 414 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 408 | 9 | 
 | 2022-09-09 | 408 | 9 | 
 | 2022-09-08 | 408 | 9 | 
-| 2022-09-07 | 408 | 9 | 
 

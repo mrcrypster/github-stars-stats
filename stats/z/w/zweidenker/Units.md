@@ -1,6 +1,6 @@
 # zweidenker/Units - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 14 | 8 | 
 | 2022-10-06 | 14 | 8 | 
 | 2022-10-05 | 14 | 8 | 
 | 2022-10-04 | 14 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 14 | 8 | 
 | 2022-09-10 | 14 | 8 | 
 | 2022-09-09 | 14 | 8 | 
-| 2022-09-08 | 14 | 8 | 
 

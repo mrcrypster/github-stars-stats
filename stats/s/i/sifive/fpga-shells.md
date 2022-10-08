@@ -1,10 +1,10 @@
 # sifive/fpga-shells - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 64
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/sifive/fpga-shells)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 121 | 64 | 
 | 2022-10-06 | 120 | 64 | 
 | 2022-10-05 | 121 | 64 | 
 | 2022-10-04 | 121 | 64 | 

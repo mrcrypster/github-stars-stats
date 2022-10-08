@@ -1,6 +1,6 @@
 # themarshallproject/klaxon - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 572 | 197 | 
 | 2022-10-06 | 572 | 197 | 
 | 2022-10-05 | 572 | 197 | 
 | 2022-10-04 | 572 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 571 | 198 | 
 | 2022-09-10 | 571 | 198 | 
 | 2022-09-09 | 571 | 199 | 
-| 2022-09-08 | 571 | 199 | 
 

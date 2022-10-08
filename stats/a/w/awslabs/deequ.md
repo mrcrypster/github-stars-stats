@@ -1,10 +1,10 @@
 # awslabs/deequ - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 440
 
-★ Stars: 2471
+★ Stars: 2472
 
 [Open repository](https://github.com/awslabs/deequ)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2472 | 440 | 
 | 2022-10-06 | 2471 | 440 | 
 | 2022-10-05 | 2470 | 440 | 
 | 2022-10-04 | 2467 | 439 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 2433 | 434 | 
 | 2022-09-09 | 2432 | 434 | 
 | 2022-09-08 | 2427 | 434 | 
-| 2022-09-07 | 2425 | 434 | 
 

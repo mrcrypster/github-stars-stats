@@ -1,10 +1,10 @@
 # alanbobs999/TopFreeProxies - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 510
+☋ Forks: 511
 
-★ Stars: 2248
+★ Stars: 2252
 
 [Open repository](https://github.com/alanbobs999/TopFreeProxies)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 2252 | 511 | 
 | 2022-10-06 | 2248 | 510 | 
 | 2022-10-05 | 2241 | 509 | 
 | 2022-10-04 | 2234 | 507 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 2084 | 471 | 
 | 2022-09-10 | 2080 | 469 | 
 | 2022-09-09 | 2075 | 466 | 
-| 2022-09-08 | 2069 | 467 | 
 

@@ -1,10 +1,10 @@
 # lightningnetwork/lnd - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 1777
+☋ Forks: 1778
 
-★ Stars: 6319
+★ Stars: 6324
 
 [Open repository](https://github.com/lightningnetwork/lnd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6324 | 1778 | 
 | 2022-10-06 | 6319 | 1777 | 
 | 2022-10-05 | 6319 | 1778 | 
 | 2022-10-04 | 6316 | 1779 | 

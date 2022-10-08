@@ -1,6 +1,6 @@
 # chvancooten/maldev-for-dummies - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 799 | 105 | 
 | 2022-10-06 | 799 | 105 | 
 | 2022-10-05 | 799 | 105 | 
 | 2022-10-04 | 798 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 783 | 103 | 
 | 2022-09-10 | 783 | 102 | 
 | 2022-09-09 | 783 | 102 | 
-| 2022-09-08 | 782 | 102 | 
 

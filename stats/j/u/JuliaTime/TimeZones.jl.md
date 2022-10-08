@@ -1,6 +1,6 @@
 # JuliaTime/TimeZones.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 66 | 42 | 
 | 2022-10-06 | 66 | 42 | 
 | 2022-10-05 | 66 | 42 | 
 | 2022-10-04 | 66 | 42 | 

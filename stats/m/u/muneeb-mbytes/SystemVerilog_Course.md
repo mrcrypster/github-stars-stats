@@ -1,10 +1,10 @@
 # muneeb-mbytes/SystemVerilog_Course - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/muneeb-mbytes/SystemVerilog_Course)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 13 | 4 | 
 | 2022-10-06 | 12 | 4 | 
 | 2022-10-05 | 12 | 4 | 
 | 2022-10-04 | 12 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 1 | - | 
 | 2022-09-09 | 1 | - | 
 | 2022-09-08 | 1 | - | 
-| 2022-09-07 | 1 | - | 
 

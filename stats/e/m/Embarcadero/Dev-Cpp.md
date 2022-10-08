@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 193
+☋ Forks: 194
 
-★ Stars: 1787
+★ Stars: 1789
 
 [Open repository](https://github.com/Embarcadero/Dev-Cpp)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 1787 | 193 | 
+| 2022-10-07 | 1789 | 194 | 
 | 2022-10-06 | 1787 | 193 | 
 | 2022-10-05 | 1785 | 193 | 
 | 2022-10-04 | 1782 | 193 | 

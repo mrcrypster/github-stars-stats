@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/djhaled/Uiana-MapImporter)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 70 | 10 | 
+| 2022-10-07 | 72 | 10 | 
 | 2022-10-06 | 67 | 9 | 
 | 2022-10-05 | 50 | 7 | 
 | 2022-10-04 | 48 | 7 | 

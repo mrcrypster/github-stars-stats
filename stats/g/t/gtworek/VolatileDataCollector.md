@@ -1,6 +1,6 @@
 # gtworek/VolatileDataCollector - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 114 | 15 | 
 | 2022-10-07 | 114 | 15 | 
 | 2022-10-06 | 113 | 16 | 
 | 2022-10-04 | 113 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 113 | 15 | 
 | 2022-09-09 | 113 | 15 | 
 | 2022-09-08 | 113 | 15 | 
-| 2022-09-07 | 112 | 15 | 
 

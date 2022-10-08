@@ -1,6 +1,6 @@
 # ClemensElflein/xESC - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 159 | 12 | 
 | 2022-10-06 | 159 | 12 | 
 | 2022-10-05 | 159 | 12 | 
 | 2022-10-04 | 159 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 156 | 12 | 
 | 2022-09-09 | 156 | 12 | 
 | 2022-09-08 | 155 | 12 | 
-| 2022-09-07 | 155 | 12 | 
 

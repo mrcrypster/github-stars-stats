@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 734
+☋ Forks: 735
 
-★ Stars: 6606
+★ Stars: 6608
 
 [Open repository](https://github.com/abraunegg/onedrive)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 6606 | 734 | 
+| 2022-10-07 | 6608 | 735 | 
 | 2022-10-06 | 6603 | 733 | 
 | 2022-10-05 | 6597 | 732 | 
 | 2022-10-04 | 6593 | 730 | 

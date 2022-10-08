@@ -1,10 +1,10 @@
 # theonedev/onedev - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 650
 
-★ Stars: 9677
+★ Stars: 9678
 
 [Open repository](https://github.com/theonedev/onedev)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 9678 | 650 | 
 | 2022-10-06 | 9677 | 650 | 
 | 2022-10-05 | 9676 | 650 | 
 | 2022-10-04 | 9672 | 650 | 

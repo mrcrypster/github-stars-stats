@@ -1,6 +1,6 @@
 # kit-clj/kit - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 259 | 21 | 
 | 2022-10-07 | 259 | 21 | 
 | 2022-10-05 | 259 | 21 | 
 | 2022-10-04 | 257 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 243 | 20 | 
 | 2022-09-09 | 242 | 19 | 
 | 2022-09-08 | 242 | 19 | 
-| 2022-09-07 | 239 | 19 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 1047
 
-★ Stars: 3386
+★ Stars: 3387
 
 [Open repository](https://github.com/woai3c/visual-drag-demo)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 3386 | 1047 | 
+| 2022-10-07 | 3387 | 1047 | 
 | 2022-10-06 | 3385 | 1047 | 
 | 2022-10-05 | 3383 | 1047 | 
 | 2022-10-04 | 3381 | 1046 | 

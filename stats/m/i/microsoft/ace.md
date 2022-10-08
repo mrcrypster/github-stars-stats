@@ -1,10 +1,10 @@
 # microsoft/ace - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 166
 
-★ Stars: 849
+★ Stars: 848
 
 [Open repository](https://github.com/microsoft/ace)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 848 | 166 | 
 | 2022-10-06 | 849 | 166 | 
 | 2022-10-05 | 849 | 166 | 
 | 2022-10-04 | 849 | 166 | 

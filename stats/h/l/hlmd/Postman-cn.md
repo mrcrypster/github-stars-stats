@@ -1,10 +1,10 @@
 # hlmd/Postman-cn - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 530
 
-★ Stars: 4359
+★ Stars: 4362
 
 [Open repository](https://github.com/hlmd/Postman-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4362 | 530 | 
 | 2022-10-06 | 4359 | 530 | 
 | 2022-10-05 | 4356 | 530 | 
 | 2022-10-04 | 4353 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 4280 | 517 | 
 | 2022-09-09 | 4279 | 517 | 
 | 2022-09-08 | 4273 | 517 | 
-| 2022-09-07 | 4272 | 517 | 
 

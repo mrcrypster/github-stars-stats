@@ -1,6 +1,6 @@
 # iProov/ios - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 20 | 10 | 
 | 2022-10-06 | 20 | 10 | 
 | 2022-10-05 | 20 | 10 | 
 | 2022-10-04 | 20 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 20 | 9 | 
 | 2022-09-10 | 20 | 9 | 
 | 2022-09-09 | 20 | 9 | 
-| 2022-09-08 | 20 | 9 | 
 

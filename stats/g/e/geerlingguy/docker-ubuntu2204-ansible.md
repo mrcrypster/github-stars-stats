@@ -1,10 +1,10 @@
 # geerlingguy/docker-ubuntu2204-ansible - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 7
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/geerlingguy/docker-ubuntu2204-ansible)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 38 | 7 | 
 | 2022-10-07 | 37 | 7 | 
 | 2022-10-05 | 36 | 7 | 
 | 2022-10-04 | 36 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 34 | 6 | 
 | 2022-09-09 | 34 | 6 | 
 | 2022-09-08 | 34 | 6 | 
-| 2022-09-07 | 34 | 6 | 
 

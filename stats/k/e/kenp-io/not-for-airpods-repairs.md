@@ -1,6 +1,6 @@
 # kenp-io/not-for-airpods-repairs - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 309 | 34 | 
 | 2022-10-07 | 309 | 34 | 
 | 2022-10-06 | 309 | 34 | 
 | 2022-10-04 | 309 | 34 | 

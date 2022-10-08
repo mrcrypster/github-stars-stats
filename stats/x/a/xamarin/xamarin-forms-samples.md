@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 7481
 
-★ Stars: 4240
+★ Stars: 4239
 
 [Open repository](https://github.com/xamarin/xamarin-forms-samples)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 4240 | 7481 | 
+| 2022-10-07 | 4239 | 7481 | 
 | 2022-10-06 | 4240 | 7481 | 
 | 2022-10-05 | 4232 | 7475 | 
 | 2022-10-04 | 4232 | 7475 | 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 205
 
-★ Stars: 678
+★ Stars: 679
 
 [Open repository](https://github.com/krenx1983/openctp)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 678 | 205 | 
+| 2022-10-07 | 679 | 205 | 
 | 2022-10-06 | 677 | 205 | 
 | 2022-10-05 | 676 | 204 | 
 | 2022-10-04 | 673 | 204 | 

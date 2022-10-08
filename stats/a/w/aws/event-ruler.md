@@ -1,10 +1,10 @@
 # aws/event-ruler - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 27
 
-★ Stars: 356
+★ Stars: 358
 
 [Open repository](https://github.com/aws/event-ruler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 358 | 27 | 
 | 2022-10-06 | 356 | 27 | 
 | 2022-10-05 | 356 | 26 | 
 | 2022-10-04 | 356 | 25 | 

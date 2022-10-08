@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 7034
 
-★ Stars: 27833
+★ Stars: 27834
 
 [Open repository](https://github.com/amix/vimrc)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 27833 | 7034 | 
+| 2022-10-07 | 27834 | 7034 | 
 | 2022-10-06 | 27832 | 7032 | 
 | 2022-10-05 | 27822 | 7033 | 
 | 2022-10-04 | 27820 | 7031 | 

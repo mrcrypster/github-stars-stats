@@ -1,8 +1,8 @@
 # kaust-csg-uaamg/uaamg - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 8
+☋ Forks: 9
 
 ★ Stars: 144
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 144 | 9 | 
 | 2022-10-06 | 144 | 8 | 
 | 2022-10-05 | 143 | 8 | 
 | 2022-10-04 | 143 | 8 | 

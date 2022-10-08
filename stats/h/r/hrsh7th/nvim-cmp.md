@@ -1,10 +1,10 @@
 # hrsh7th/nvim-cmp - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 3858
+★ Stars: 3865
 
 [Open repository](https://github.com/hrsh7th/nvim-cmp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3865 | 193 | 
 | 2022-10-06 | 3858 | 192 | 
 | 2022-10-05 | 3843 | 193 | 
 | 2022-10-04 | 3841 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 3680 | 191 | 
 | 2022-09-09 | 3678 | 191 | 
 | 2022-09-08 | 3662 | 191 | 
-| 2022-09-07 | 3663 | 190 | 
 

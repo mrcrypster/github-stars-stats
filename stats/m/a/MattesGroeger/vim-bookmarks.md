@@ -1,10 +1,10 @@
 # MattesGroeger/vim-bookmarks - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 84
 
-★ Stars: 777
+★ Stars: 778
 
 [Open repository](https://github.com/MattesGroeger/vim-bookmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 778 | 84 | 
 | 2022-10-06 | 777 | 84 | 
 | 2022-10-05 | 777 | 84 | 
 | 2022-10-04 | 777 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 771 | 83 | 
 | 2022-09-09 | 771 | 83 | 
 | 2022-09-08 | 770 | 83 | 
-| 2022-09-07 | 769 | 83 | 
 

@@ -1,6 +1,6 @@
 # fernandocar86/seminario-gramaticas-formales - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6 | 18 | 
 | 2022-10-06 | 6 | 18 | 
 | 2022-10-05 | 6 | 18 | 
 | 2022-10-04 | 6 | 18 | 

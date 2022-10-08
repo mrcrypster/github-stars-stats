@@ -1,6 +1,6 @@
 # boludoz/AIO-Mod - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 12 | 6 | 
 | 2022-10-07 | 12 | 6 | 
 | 2022-10-06 | 12 | 6 | 
 | 2022-10-04 | 12 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 11 | 5 | 
 | 2022-09-09 | 11 | 6 | 
 | 2022-09-08 | 11 | 6 | 
-| 2022-09-07 | 11 | 6 | 
 

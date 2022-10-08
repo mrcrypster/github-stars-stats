@@ -1,6 +1,6 @@
 # questbeat/QBImagePicker - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 555
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1792 | 555 | 
 | 2022-10-06 | 1792 | 555 | 
 | 2022-10-05 | 1792 | 554 | 
 | 2022-10-04 | 1792 | 554 | 

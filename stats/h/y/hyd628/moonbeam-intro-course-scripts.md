@@ -1,6 +1,6 @@
 # hyd628/moonbeam-intro-course-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 11 | 13 | 
 | 2022-10-06 | 11 | 13 | 
 | 2022-10-05 | 11 | 13 | 
 | 2022-10-04 | 11 | 13 | 

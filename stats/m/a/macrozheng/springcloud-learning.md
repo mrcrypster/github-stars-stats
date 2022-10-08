@@ -1,10 +1,10 @@
 # macrozheng/springcloud-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 2475
+☋ Forks: 2476
 
-★ Stars: 5395
+★ Stars: 5397
 
 [Open repository](https://github.com/macrozheng/springcloud-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 5397 | 2476 | 
 | 2022-10-06 | 5395 | 2475 | 
 | 2022-10-05 | 5393 | 2475 | 
 | 2022-10-04 | 5391 | 2474 | 

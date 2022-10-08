@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 733
 
-★ Stars: 6970
+★ Stars: 6976
 
 [Open repository](https://github.com/launchbadge/sqlx)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 6970 | 733 | 
+| 2022-10-07 | 6976 | 733 | 
 | 2022-10-06 | 6964 | 733 | 
 | 2022-10-05 | 6953 | 733 | 
 | 2022-10-04 | 6942 | 729 | 

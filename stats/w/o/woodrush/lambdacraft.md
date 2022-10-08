@@ -1,10 +1,10 @@
 # woodrush/lambdacraft - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/woodrush/lambdacraft)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 10 | - | 
 | 2022-10-06 | 9 | - | 
 | 2022-10-05 | 9 | - | 
 | 2022-10-04 | 9 | - | 

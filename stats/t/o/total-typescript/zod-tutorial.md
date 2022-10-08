@@ -1,10 +1,10 @@
 # total-typescript/zod-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 50
+☋ Forks: 52
 
-★ Stars: 254
+★ Stars: 255
 
 [Open repository](https://github.com/total-typescript/zod-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 255 | 52 | 
 | 2022-10-06 | 254 | 50 | 
 | 2022-10-05 | 253 | 47 | 
 | 2022-10-04 | 250 | 46 | 

@@ -1,10 +1,10 @@
 # sangvaleap/flutter-app-food-ordering - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 73
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/sangvaleap/flutter-app-food-ordering)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 110 | 73 | 
 | 2022-10-06 | 109 | 73 | 
 | 2022-10-05 | 109 | 73 | 
 | 2022-10-04 | 109 | 73 | 

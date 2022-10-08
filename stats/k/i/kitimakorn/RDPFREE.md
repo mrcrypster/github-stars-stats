@@ -1,8 +1,8 @@
 # kitimakorn/RDPFREE - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 163
+☋ Forks: 164
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4 | 164 | 
 | 2022-10-06 | 4 | 163 | 
 | 2022-10-05 | 4 | 162 | 
 | 2022-10-04 | 4 | 161 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 4 | 147 | 
 | 2022-09-09 | 4 | 144 | 
 | 2022-09-08 | 4 | 141 | 
-| 2022-09-07 | 4 | 141 | 
 

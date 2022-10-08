@@ -1,10 +1,10 @@
 # john-smilga/node-express-course - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 1953
+☋ Forks: 1959
 
-★ Stars: 1959
+★ Stars: 1964
 
 [Open repository](https://github.com/john-smilga/node-express-course)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1964 | 1959 | 
 | 2022-10-06 | 1959 | 1953 | 
 | 2022-10-05 | 1954 | 1950 | 
 | 2022-10-04 | 1948 | 1945 | 

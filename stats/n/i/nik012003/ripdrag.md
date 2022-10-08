@@ -1,10 +1,10 @@
 # nik012003/ripdrag - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 7
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/nik012003/ripdrag)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 231 | 7 | 
 | 2022-10-06 | 230 | 7 | 
 | 2022-10-05 | 230 | 7 | 
 | 2022-10-04 | 230 | 7 | 

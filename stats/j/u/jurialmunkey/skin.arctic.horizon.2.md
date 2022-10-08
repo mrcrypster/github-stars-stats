@@ -1,10 +1,10 @@
 # jurialmunkey/skin.arctic.horizon.2 - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/jurialmunkey/skin.arctic.horizon.2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 83 | 21 | 
 | 2022-10-06 | 82 | 20 | 
 | 2022-10-05 | 82 | 20 | 
 | 2022-10-04 | 81 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 70 | 18 | 
 | 2022-09-10 | 70 | 18 | 
 | 2022-09-09 | 70 | 18 | 
-| 2022-09-08 | 70 | 18 | 
 

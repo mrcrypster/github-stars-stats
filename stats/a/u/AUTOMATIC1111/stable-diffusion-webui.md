@@ -1,10 +1,10 @@
 # AUTOMATIC1111/stable-diffusion-webui - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 840
+☋ Forks: 942
 
-★ Stars: 6585
+★ Stars: 7124
 
 [Open repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 7124 | 942 | 
 | 2022-10-06 | 6585 | 840 | 
 | 2022-10-05 | 6219 | 786 | 
 | 2022-10-04 | 6138 | 771 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 1957 | 162 | 
 | 2022-09-09 | 1532 | 140 | 
 | 2022-09-08 | 1196 | 110 | 
-| 2022-09-07 | 956 | 85 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 697
 
-★ Stars: 4015
+★ Stars: 4020
 
 [Open repository](https://github.com/SagerNet/SagerNet)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 4015 | 697 | 
+| 2022-10-07 | 4020 | 697 | 
 | 2022-10-06 | 4012 | 696 | 
 | 2022-10-05 | 4002 | 695 | 
 | 2022-10-04 | 3997 | 695 | 

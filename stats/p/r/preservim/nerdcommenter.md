@@ -1,8 +1,8 @@
 # preservim/nerdcommenter - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 437
+☋ Forks: 438
 
 ★ Stars: 4724
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4724 | 438 | 
 | 2022-10-06 | 4724 | 437 | 
 | 2022-10-05 | 4724 | 437 | 
 | 2022-10-04 | 4723 | 437 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 4699 | 437 | 
 | 2022-09-10 | 4699 | 437 | 
 | 2022-09-09 | 4699 | 437 | 
-| 2022-09-08 | 4697 | 437 | 
 

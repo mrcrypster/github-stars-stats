@@ -1,10 +1,10 @@
 # alibaba/canal - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6955
 
-★ Stars: 24183
+★ Stars: 24185
 
 [Open repository](https://github.com/alibaba/canal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 24185 | 6955 | 
 | 2022-10-06 | 24183 | 6955 | 
 | 2022-10-05 | 24181 | 6955 | 
 | 2022-10-04 | 24180 | 6956 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 24026 | 6924 | 
 | 2022-09-09 | 24018 | 6926 | 
 | 2022-09-08 | 24014 | 6925 | 
-| 2022-09-07 | 24013 | 6921 | 
 

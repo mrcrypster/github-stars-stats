@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2176
+☋ Forks: 2175
 
-★ Stars: 2557
+★ Stars: 2558
 
 [Open repository](https://github.com/kitian616/jekyll-TeXt-theme)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 2557 | 2176 | 
+| 2022-10-07 | 2558 | 2175 | 
 | 2022-10-06 | 2555 | 2176 | 
 | 2022-10-05 | 2554 | 2174 | 
 | 2022-10-04 | 2552 | 2174 | 

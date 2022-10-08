@@ -1,10 +1,10 @@
 # gohugoio/hugo - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 6832
+☋ Forks: 6833
 
-★ Stars: 62796
+★ Stars: 62820
 
 [Open repository](https://github.com/gohugoio/hugo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 62820 | 6833 | 
 | 2022-10-06 | 62796 | 6832 | 
 | 2022-10-05 | 62770 | 6827 | 
 | 2022-10-04 | 62761 | 6824 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 61762 | 6767 | 
 | 2022-09-09 | 61743 | 6768 | 
 | 2022-09-08 | 61728 | 6769 | 
-| 2022-09-07 | 61702 | 6767 | 
 

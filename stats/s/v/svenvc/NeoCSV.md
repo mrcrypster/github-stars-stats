@@ -1,6 +1,6 @@
 # svenvc/NeoCSV - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 21 | 11 | 
 | 2022-10-06 | 21 | 11 | 
 | 2022-10-05 | 21 | 11 | 
 | 2022-10-04 | 21 | 11 | 

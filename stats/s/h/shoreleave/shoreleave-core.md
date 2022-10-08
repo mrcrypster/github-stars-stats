@@ -1,6 +1,6 @@
 # shoreleave/shoreleave-core - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 19 | 5 | 
 | 2022-10-07 | 19 | 5 | 
 | 2022-10-05 | 19 | 5 | 
 | 2022-10-04 | 19 | 5 | 

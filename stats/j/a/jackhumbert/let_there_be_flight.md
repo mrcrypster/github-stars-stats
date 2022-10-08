@@ -1,10 +1,10 @@
 # jackhumbert/let_there_be_flight - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 29
 
-★ Stars: 314
+★ Stars: 315
 
 [Open repository](https://github.com/jackhumbert/let_there_be_flight)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 315 | 29 | 
 | 2022-10-06 | 314 | 29 | 
 | 2022-10-05 | 313 | 29 | 
 | 2022-10-04 | 312 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 268 | 23 | 
 | 2022-09-09 | 267 | 20 | 
 | 2022-09-08 | 264 | 19 | 
-| 2022-09-07 | 258 | 17 | 
 

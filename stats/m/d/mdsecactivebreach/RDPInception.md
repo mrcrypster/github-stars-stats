@@ -1,6 +1,6 @@
 # mdsecactivebreach/RDPInception - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 562
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 319 | 562 | 
 | 2022-10-06 | 319 | 562 | 
 | 2022-10-05 | 319 | 562 | 
 | 2022-10-04 | 319 | 562 | 

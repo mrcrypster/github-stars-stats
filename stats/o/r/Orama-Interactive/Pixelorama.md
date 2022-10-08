@@ -1,10 +1,10 @@
 # Orama-Interactive/Pixelorama - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 245
 
-★ Stars: 3663
+★ Stars: 3664
 
 [Open repository](https://github.com/Orama-Interactive/Pixelorama)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3664 | 245 | 
 | 2022-10-06 | 3663 | 245 | 
 | 2022-10-05 | 3661 | 245 | 
 | 2022-10-04 | 3661 | 245 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 3577 | 239 | 
 | 2022-09-09 | 3574 | 239 | 
 | 2022-09-08 | 3573 | 239 | 
-| 2022-09-07 | 3573 | 239 | 
 

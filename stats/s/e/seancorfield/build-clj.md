@@ -1,6 +1,6 @@
 # seancorfield/build-clj - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 139 | 5 | 
 | 2022-10-06 | 139 | 5 | 
 | 2022-10-05 | 138 | 5 | 
 | 2022-10-04 | 137 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 135 | 5 | 
 | 2022-09-09 | 135 | 5 | 
 | 2022-09-08 | 135 | 5 | 
-| 2022-09-07 | 135 | 5 | 
 

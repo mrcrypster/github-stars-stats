@@ -1,6 +1,6 @@
 # hexojs/site - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 1224
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 616 | 1224 | 
 | 2022-10-06 | 616 | 1224 | 
 | 2022-10-05 | 616 | 1223 | 
 | 2022-10-04 | 616 | 1223 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 612 | 1218 | 
 | 2022-09-09 | 611 | 1218 | 
 | 2022-09-08 | 611 | 1217 | 
-| 2022-09-07 | 611 | 1217 | 
 

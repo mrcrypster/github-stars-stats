@@ -1,10 +1,10 @@
 # R0X4R/Garud - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 152
 
-★ Stars: 607
+★ Stars: 608
 
 [Open repository](https://github.com/R0X4R/Garud)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 608 | 152 | 
 | 2022-10-06 | 607 | 152 | 
 | 2022-10-05 | 605 | 152 | 
 | 2022-10-04 | 605 | 153 | 

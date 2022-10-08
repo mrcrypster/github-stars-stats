@@ -1,10 +1,10 @@
 # speechbrain/speechbrain - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 905
+☋ Forks: 906
 
-★ Stars: 4659
+★ Stars: 4661
 
 [Open repository](https://github.com/speechbrain/speechbrain)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 4661 | 906 | 
 | 2022-10-07 | 4659 | 905 | 
 | 2022-10-06 | 4652 | 904 | 
 | 2022-10-04 | 4651 | 904 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 4548 | 881 | 
 | 2022-09-09 | 4546 | 881 | 
 | 2022-09-08 | 4541 | 881 | 
-| 2022-09-07 | 4537 | 881 | 
 

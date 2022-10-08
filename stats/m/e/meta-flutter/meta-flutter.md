@@ -1,6 +1,6 @@
 # meta-flutter/meta-flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 58 | 27 | 
 | 2022-10-07 | 58 | 27 | 
 | 2022-10-05 | 58 | 27 | 
 | 2022-10-04 | 58 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 56 | 24 | 
 | 2022-09-09 | 56 | 24 | 
 | 2022-09-08 | 56 | 24 | 
-| 2022-09-07 | 56 | 24 | 
 

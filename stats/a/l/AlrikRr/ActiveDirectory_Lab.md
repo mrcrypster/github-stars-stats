@@ -1,6 +1,6 @@
 # AlrikRr/ActiveDirectory_Lab - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 22 | 6 | 
 | 2022-10-06 | 22 | 6 | 
 | 2022-10-05 | 22 | 6 | 
 | 2022-10-04 | 22 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 21 | 6 | 
 | 2022-09-10 | 21 | 6 | 
 | 2022-09-09 | 21 | 6 | 
-| 2022-09-08 | 21 | 6 | 
 

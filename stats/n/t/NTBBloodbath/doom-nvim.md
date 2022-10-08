@@ -1,10 +1,10 @@
 # NTBBloodbath/doom-nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 97
 
-★ Stars: 739
+★ Stars: 740
 
 [Open repository](https://github.com/NTBBloodbath/doom-nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 740 | 97 | 
 | 2022-10-06 | 739 | 97 | 
 | 2022-10-05 | 737 | 97 | 
 | 2022-10-04 | 737 | 97 | 

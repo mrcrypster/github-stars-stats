@@ -1,10 +1,10 @@
 # bytedance/appshark - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 64
 
-★ Stars: 694
+★ Stars: 695
 
 [Open repository](https://github.com/bytedance/appshark)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 695 | 64 | 
 | 2022-10-06 | 694 | 64 | 
 | 2022-10-05 | 689 | 64 | 
 | 2022-10-04 | 686 | 64 | 

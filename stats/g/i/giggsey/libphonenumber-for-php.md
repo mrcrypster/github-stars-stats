@@ -1,10 +1,10 @@
 # giggsey/libphonenumber-for-php - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 433
 
-★ Stars: 4176
+★ Stars: 4178
 
 [Open repository](https://github.com/giggsey/libphonenumber-for-php)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4178 | 433 | 
 | 2022-10-06 | 4176 | 433 | 
 | 2022-10-05 | 4174 | 433 | 
 | 2022-10-04 | 4173 | 432 | 

@@ -1,10 +1,10 @@
 # vyperlang/titanoboa - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 10
 
-★ Stars: 128
+★ Stars: 130
 
 [Open repository](https://github.com/vyperlang/titanoboa)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 130 | 10 | 
 | 2022-10-06 | 128 | 10 | 
 | 2022-10-05 | 128 | 10 | 
 | 2022-10-04 | 127 | 10 | 

@@ -1,6 +1,6 @@
 # ros2/rosidl_defaults - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | - | 6 | 
 | 2022-10-06 | - | 6 | 
 | 2022-10-05 | - | 6 | 
 | 2022-10-04 | - | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | - | 6 | 
 | 2022-09-09 | - | 6 | 
 | 2022-09-08 | - | 6 | 
-| 2022-09-07 | - | 6 | 
 

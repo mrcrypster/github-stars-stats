@@ -1,10 +1,10 @@
 # hierynomus/license-gradle-plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 105
 
-★ Stars: 376
+★ Stars: 375
 
 [Open repository](https://github.com/hierynomus/license-gradle-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 375 | 105 | 
 | 2022-10-07 | 376 | 105 | 
 | 2022-10-05 | 376 | 105 | 
 | 2022-10-04 | 376 | 105 | 

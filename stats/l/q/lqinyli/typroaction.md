@@ -1,6 +1,6 @@
 # lqinyli/typroaction - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 9 | 9 | 
 | 2022-10-07 | 9 | 9 | 
 | 2022-10-05 | 9 | 9 | 
 | 2022-10-04 | 9 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 6 | 8 | 
 | 2022-09-09 | 6 | 8 | 
 | 2022-09-08 | 6 | 8 | 
-| 2022-09-07 | 6 | 8 | 
 

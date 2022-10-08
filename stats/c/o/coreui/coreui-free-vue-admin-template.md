@@ -1,6 +1,6 @@
 # coreui/coreui-free-vue-admin-template - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 879
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 3077 | 879 | 
 | 2022-10-06 | 3077 | 879 | 
 | 2022-10-05 | 3077 | 879 | 
 | 2022-10-04 | 3075 | 879 | 

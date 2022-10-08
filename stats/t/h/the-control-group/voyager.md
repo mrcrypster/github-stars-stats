@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 2616
+☋ Forks: 2615
 
-★ Stars: 11157
+★ Stars: 11161
 
 [Open repository](https://github.com/the-control-group/voyager)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 11157 | 2616 | 
+| 2022-10-07 | 11161 | 2615 | 
 | 2022-10-06 | 11158 | 2616 | 
 | 2022-10-05 | 11156 | 2616 | 
 | 2022-10-04 | 11154 | 2615 | 

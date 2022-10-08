@@ -1,10 +1,10 @@
 # Shopify/semian - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 76
 
-★ Stars: 1168
+★ Stars: 1169
 
 [Open repository](https://github.com/Shopify/semian)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1169 | 76 | 
 | 2022-10-06 | 1168 | 76 | 
 | 2022-10-05 | 1167 | 75 | 
 | 2022-10-04 | 1167 | 75 | 

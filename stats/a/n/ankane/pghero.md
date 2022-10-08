@@ -1,10 +1,10 @@
 # ankane/pghero - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 389
+☋ Forks: 390
 
-★ Stars: 6621
+★ Stars: 6624
 
 [Open repository](https://github.com/ankane/pghero)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 6624 | 390 | 
 | 2022-10-06 | 6621 | 389 | 
 | 2022-10-05 | 6620 | 388 | 
 | 2022-10-04 | 6620 | 388 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 6554 | 383 | 
 | 2022-09-09 | 6553 | 383 | 
 | 2022-09-08 | 6551 | 383 | 
-| 2022-09-07 | 6550 | 383 | 
 

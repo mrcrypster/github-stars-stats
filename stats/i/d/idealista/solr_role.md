@@ -1,6 +1,6 @@
 # idealista/solr_role - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 21 | 6 | 
 | 2022-10-06 | 21 | 6 | 
 | 2022-10-05 | 21 | 6 | 
 | 2022-10-04 | 21 | 6 | 

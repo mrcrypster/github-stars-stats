@@ -1,6 +1,6 @@
 # ashleymills/Reachability.swift - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 902
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 7667 | 902 | 
 | 2022-10-06 | 7667 | 902 | 
 | 2022-10-05 | 7667 | 902 | 
 | 2022-10-04 | 7665 | 902 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 7658 | 898 | 
 | 2022-09-09 | 7658 | 898 | 
 | 2022-09-08 | 7658 | 898 | 
-| 2022-09-07 | 7657 | 898 | 
 

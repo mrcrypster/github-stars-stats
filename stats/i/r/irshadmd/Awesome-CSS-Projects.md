@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 103
+☋ Forks: 109
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/irshadmd/Awesome-CSS-Projects)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 33 | 103 | 
+| 2022-10-07 | 35 | 109 | 
 | 2022-10-06 | 32 | 102 | 
 

@@ -1,6 +1,6 @@
 # KrYoSoftware/KrYoDiabloBETA - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 11 | 3 | 
 | 2022-10-07 | 11 | 3 | 
 | 2022-10-05 | 11 | 3 | 
 | 2022-10-04 | 11 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 10 | 3 | 
 | 2022-09-09 | 10 | 3 | 
 | 2022-09-08 | 10 | 3 | 
-| 2022-09-07 | 10 | 3 | 
 

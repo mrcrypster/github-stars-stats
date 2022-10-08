@@ -1,6 +1,6 @@
 # npuichigoB/typicode - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 50 | 27 | 
 | 2022-10-06 | 50 | 27 | 
 | 2022-10-05 | 50 | 27 | 
 | 2022-10-04 | 50 | 27 | 

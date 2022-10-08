@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 236
+☋ Forks: 237
 
-★ Stars: 522
+★ Stars: 523
 
 [Open repository](https://github.com/thirdweb-dev/contracts)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 522 | 236 | 
+| 2022-10-07 | 523 | 237 | 
 | 2022-10-06 | 522 | 236 | 
 | 2022-10-05 | 521 | 236 | 
 | 2022-10-04 | 520 | 233 | 

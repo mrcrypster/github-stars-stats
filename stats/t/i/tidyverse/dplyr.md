@@ -1,10 +1,10 @@
 # tidyverse/dplyr - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 1462
+☋ Forks: 1463
 
-★ Stars: 4224
+★ Stars: 4225
 
 [Open repository](https://github.com/tidyverse/dplyr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 4225 | 1463 | 
 | 2022-10-06 | 4224 | 1462 | 
 | 2022-10-05 | 4221 | 1462 | 
 | 2022-10-04 | 4220 | 1462 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 4191 | 1457 | 
 | 2022-09-09 | 4191 | 1457 | 
 | 2022-09-08 | 4189 | 1454 | 
-| 2022-09-07 | 4187 | 1454 | 
 

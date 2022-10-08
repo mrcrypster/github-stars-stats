@@ -1,8 +1,8 @@
 # Azure/terraform-azurerm-naming - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 115
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 115 | 63 | 
 | 2022-10-06 | 115 | 62 | 
 | 2022-10-05 | 115 | 62 | 
 | 2022-10-04 | 115 | 62 | 

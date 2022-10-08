@@ -1,6 +1,6 @@
 # Shashank02051997/VegetableOrderUI-Android - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 311 | 36 | 
 | 2022-10-07 | 311 | 36 | 
 | 2022-10-05 | 311 | 36 | 
 | 2022-10-04 | 310 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-10 | 307 | 34 | 
 | 2022-09-09 | 305 | 34 | 
 | 2022-09-08 | 304 | 34 | 
-| 2022-09-07 | 304 | 34 | 
 

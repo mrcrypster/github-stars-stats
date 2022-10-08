@@ -1,6 +1,6 @@
 # eaaasun/CCStopper - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 336 | 18 | 
 | 2022-10-06 | 336 | 18 | 
 | 2022-10-05 | 336 | 18 | 
 | 2022-10-04 | 336 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 316 | 18 | 
 | 2022-09-09 | 316 | 18 | 
 | 2022-09-08 | 316 | 18 | 
-| 2022-09-07 | 313 | 18 | 
 

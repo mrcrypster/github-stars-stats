@@ -1,10 +1,10 @@
 # rehooks/awesome-react-hooks - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 715
 
-★ Stars: 8566
+★ Stars: 8567
 
 [Open repository](https://github.com/rehooks/awesome-react-hooks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 8567 | 715 | 
 | 2022-10-06 | 8566 | 715 | 
 | 2022-10-05 | 8563 | 715 | 
 | 2022-10-04 | 8559 | 715 | 

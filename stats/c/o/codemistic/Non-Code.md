@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 93
+☋ Forks: 104
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/codemistic/Non-Code)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 32 | 93 | 
+| 2022-10-07 | 33 | 104 | 
 | 2022-10-06 | 27 | 84 | 
 

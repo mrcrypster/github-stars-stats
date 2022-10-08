@@ -1,10 +1,10 @@
 # revery-ui/revery - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 204
 
-★ Stars: 7954
+★ Stars: 7955
 
 [Open repository](https://github.com/revery-ui/revery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 7955 | 204 | 
 | 2022-10-06 | 7954 | 204 | 
 | 2022-10-05 | 7953 | 204 | 
 | 2022-10-04 | 7952 | 204 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 7940 | 203 | 
 | 2022-09-09 | 7940 | 203 | 
 | 2022-09-08 | 7940 | 203 | 
-| 2022-09-07 | 7938 | 203 | 
 

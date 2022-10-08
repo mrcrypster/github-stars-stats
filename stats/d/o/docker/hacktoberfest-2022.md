@@ -1,10 +1,10 @@
 # docker/hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 27
+☋ Forks: 29
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/docker/hacktoberfest-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 90 | 29 | 
 | 2022-10-06 | 88 | 27 | 
 | 2022-10-05 | 83 | 24 | 
 | 2022-10-04 | 77 | 23 | 

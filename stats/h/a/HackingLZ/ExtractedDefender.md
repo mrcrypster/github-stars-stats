@@ -1,6 +1,6 @@
 # HackingLZ/ExtractedDefender - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 151 | 21 | 
 | 2022-10-06 | 151 | 21 | 
 | 2022-10-05 | 151 | 21 | 
 | 2022-10-04 | 150 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 147 | 21 | 
 | 2022-09-09 | 147 | 21 | 
 | 2022-09-08 | 147 | 21 | 
-| 2022-09-07 | 147 | 21 | 
 

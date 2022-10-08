@@ -1,10 +1,10 @@
 # huzongxiang/CrystalNetwork - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 11
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/huzongxiang/CrystalNetwork)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 63 | 11 | 
 | 2022-10-06 | 64 | 11 | 
 | 2022-10-05 | 64 | 11 | 
 | 2022-10-04 | 64 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-11 | 64 | 11 | 
 | 2022-09-10 | 64 | 11 | 
 | 2022-09-09 | 64 | 11 | 
-| 2022-09-08 | 64 | 11 | 
 

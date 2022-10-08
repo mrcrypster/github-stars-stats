@@ -1,10 +1,10 @@
 # django/djangoproject.com - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
-☋ Forks: 800
+☋ Forks: 799
 
-★ Stars: 1651
+★ Stars: 1652
 
 [Open repository](https://github.com/django/djangoproject.com)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 1652 | 799 | 
 | 2022-10-06 | 1651 | 800 | 
 | 2022-10-05 | 1650 | 800 | 
 | 2022-10-04 | 1650 | 801 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 1632 | 790 | 
 | 2022-09-09 | 1632 | 790 | 
 | 2022-09-08 | 1631 | 790 | 
-| 2022-09-07 | 1631 | 789 | 
 

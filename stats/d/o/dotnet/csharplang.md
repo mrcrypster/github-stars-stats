@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 942
 
-★ Stars: 9224
+★ Stars: 9227
 
 [Open repository](https://github.com/dotnet/csharplang)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 9224 | 942 | 
+| 2022-10-07 | 9227 | 942 | 
 | 2022-10-06 | 9224 | 942 | 
 | 2022-10-05 | 9219 | 941 | 
 | 2022-10-04 | 9220 | 941 | 

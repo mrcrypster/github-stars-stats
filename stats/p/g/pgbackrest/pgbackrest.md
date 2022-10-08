@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 07
 
 ☋ Forks: 149
 
-★ Stars: 1343
+★ Stars: 1345
 
 [Open repository](https://github.com/pgbackrest/pgbackrest)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 1343 | 149 | 
+| 2022-10-07 | 1345 | 149 | 
 | 2022-10-06 | 1343 | 149 | 
 | 2022-10-05 | 1334 | 149 | 
 | 2022-10-04 | 1333 | 149 | 

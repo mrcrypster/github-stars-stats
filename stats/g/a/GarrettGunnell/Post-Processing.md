@@ -1,10 +1,10 @@
 # GarrettGunnell/Post-Processing - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 07
 
 ☋ Forks: 13
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/GarrettGunnell/Post-Processing)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-07 | 106 | 13 | 
 | 2022-10-06 | 105 | 13 | 
 | 2022-10-05 | 105 | 13 | 
 | 2022-10-04 | 105 | 13 | 

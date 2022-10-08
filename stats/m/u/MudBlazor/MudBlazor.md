@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 07
 
-☋ Forks: 714
+☋ Forks: 715
 
-★ Stars: 4053
+★ Stars: 4056
 
 [Open repository](https://github.com/MudBlazor/MudBlazor)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-07 | 4053 | 714 | 
+| 2022-10-07 | 4056 | 715 | 
 | 2022-10-06 | 4052 | 714 | 
 | 2022-10-05 | 4038 | 712 | 
 | 2022-10-04 | 4035 | 711 | 

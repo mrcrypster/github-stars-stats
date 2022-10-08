@@ -1,6 +1,6 @@
 # JamesRandall/fsharp-wolfenstein - stars & forks statistics
 
-Stats updated on Oct 2022, 06
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 122 | 5 | 
 | 2022-10-06 | 122 | 5 | 
 | 2022-10-05 | 122 | 5 | 
 | 2022-10-04 | 122 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 06
 | 2022-09-10 | 117 | 4 | 
 | 2022-09-09 | 117 | 4 | 
 | 2022-09-08 | 116 | 4 | 
-| 2022-09-07 | 116 | 4 | 
 
