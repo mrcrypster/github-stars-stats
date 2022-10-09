@@ -1,10 +1,10 @@
 # n3wt0n/ActionsTest - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 76
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/n3wt0n/ActionsTest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 37 | 76 | 
 | 2022-10-07 | 36 | 76 | 
 | 2022-10-06 | 36 | 75 | 
 | 2022-10-05 | 34 | 75 | 

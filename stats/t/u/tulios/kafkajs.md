@@ -1,6 +1,6 @@
 # tulios/kafkajs - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 391
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2891 | 391 | 
 | 2022-10-07 | 2891 | 391 | 
 | 2022-10-06 | 2890 | 389 | 
 | 2022-10-05 | 2890 | 389 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2847 | 385 | 
 | 2022-09-10 | 2847 | 385 | 
 | 2022-09-09 | 2847 | 386 | 
-| 2022-09-08 | 2843 | 386 | 
 

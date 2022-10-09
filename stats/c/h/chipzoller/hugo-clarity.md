@@ -1,8 +1,8 @@
 # chipzoller/hugo-clarity - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 214
+☋ Forks: 215
 
 ★ Stars: 415
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 415 | 215 | 
 | 2022-10-07 | 415 | 214 | 
 | 2022-10-06 | 415 | 214 | 
 | 2022-10-05 | 415 | 214 | 

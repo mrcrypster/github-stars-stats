@@ -1,10 +1,10 @@
 # yuzd/AntDeploy - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 123
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/yuzd/AntDeploy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 426 | 123 | 
 | 2022-10-07 | 425 | 123 | 
 | 2022-10-06 | 425 | 123 | 
 | 2022-10-05 | 425 | 123 | 

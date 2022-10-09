@@ -1,6 +1,6 @@
 # HaoOuBa/Joe - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 253
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 998 | 253 | 
 | 2022-10-07 | 998 | 253 | 
 | 2022-10-06 | 996 | 252 | 
 | 2022-10-05 | 992 | 252 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 976 | 245 | 
 | 2022-09-10 | 974 | 245 | 
 | 2022-09-09 | 973 | 244 | 
-| 2022-09-08 | 972 | 243 | 
 

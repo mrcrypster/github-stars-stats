@@ -1,6 +1,6 @@
 # Clever/gitsem - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 17 | 5 | 
 | 2022-10-07 | 17 | 5 | 
 | 2022-10-06 | 17 | 5 | 
 | 2022-10-05 | 17 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 17 | 5 | 
 | 2022-09-10 | 17 | 5 | 
 | 2022-09-09 | 17 | 5 | 
-| 2022-09-08 | 17 | 5 | 
 

@@ -1,10 +1,10 @@
 # egonSchiele/grokking_algorithms - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 2971
+☋ Forks: 2972
 
-★ Stars: 7914
+★ Stars: 7919
 
 [Open repository](https://github.com/egonSchiele/grokking_algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 7919 | 2972 | 
 | 2022-10-08 | 7914 | 2971 | 
 | 2022-10-07 | 7911 | 2969 | 
 | 2022-10-05 | 7909 | 2967 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 7798 | 2944 | 
 | 2022-09-10 | 7796 | 2942 | 
 | 2022-09-09 | 7789 | 2939 | 
-| 2022-09-08 | 7783 | 2939 | 
 

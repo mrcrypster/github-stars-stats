@@ -1,6 +1,6 @@
 # centreon/centreon - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 574 | 259 | 
 | 2022-10-07 | 574 | 259 | 
 | 2022-10-06 | 574 | 259 | 
 | 2022-10-05 | 574 | 259 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 565 | 259 | 
 | 2022-09-10 | 565 | 259 | 
 | 2022-09-09 | 565 | 259 | 
-| 2022-09-08 | 564 | 259 | 
 

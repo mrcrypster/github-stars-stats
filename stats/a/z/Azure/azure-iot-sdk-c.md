@@ -1,8 +1,8 @@
 # Azure/azure-iot-sdk-c - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 718
+☋ Forks: 717
 
 ★ Stars: 519
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 519 | 717 | 
 | 2022-10-07 | 519 | 718 | 
 | 2022-10-06 | 519 | 717 | 
 | 2022-10-05 | 519 | 717 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 516 | 715 | 
 | 2022-09-10 | 516 | 715 | 
 | 2022-09-09 | 516 | 715 | 
-| 2022-09-08 | 516 | 714 | 
 

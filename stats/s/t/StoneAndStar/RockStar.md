@@ -1,6 +1,6 @@
 # StoneAndStar/RockStar - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | - | 20 | 
 | 2022-10-08 | - | 20 | 
 | 2022-10-07 | - | 19 | 
 | 2022-10-05 | - | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | - | 16 | 
 | 2022-09-10 | - | 16 | 
 | 2022-09-09 | - | 16 | 
-| 2022-09-08 | - | 16 | 
 

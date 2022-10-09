@@ -1,10 +1,10 @@
 # Asabeneh/10-days-of-git-and-github - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 158
+☋ Forks: 159
 
-★ Stars: 600
+★ Stars: 602
 
 [Open repository](https://github.com/Asabeneh/10-days-of-git-and-github)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 602 | 159 | 
 | 2022-10-07 | 600 | 158 | 
 | 2022-10-06 | 598 | 158 | 
 | 2022-10-05 | 595 | 158 | 

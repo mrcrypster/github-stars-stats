@@ -1,8 +1,8 @@
 # jennybc/gapminder - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 609
+☋ Forks: 610
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 253 | 610 | 
 | 2022-10-07 | 253 | 609 | 
 | 2022-10-06 | 253 | 609 | 
 | 2022-10-05 | 253 | 609 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 253 | 607 | 
 | 2022-09-10 | 253 | 607 | 
 | 2022-09-09 | 253 | 607 | 
-| 2022-09-08 | 253 | 607 | 
 

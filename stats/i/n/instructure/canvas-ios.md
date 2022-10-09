@@ -1,10 +1,10 @@
 # instructure/canvas-ios - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 76
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/instructure/canvas-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 507 | 76 | 
 | 2022-10-07 | 506 | 76 | 
 | 2022-10-06 | 506 | 76 | 
 | 2022-10-05 | 506 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 495 | 75 | 
 | 2022-09-11 | 494 | 75 | 
 | 2022-09-09 | 494 | 75 | 
-| 2022-09-08 | 494 | 75 | 
 

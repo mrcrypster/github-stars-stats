@@ -1,10 +1,10 @@
 # clap-rs/clap - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 831
+☋ Forks: 832
 
-★ Stars: 9704
+★ Stars: 9716
 
 [Open repository](https://github.com/clap-rs/clap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 9716 | 832 | 
 | 2022-10-07 | 9704 | 831 | 
 | 2022-10-06 | 9689 | 831 | 
 | 2022-10-05 | 9680 | 831 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 9447 | 814 | 
 | 2022-09-10 | 9440 | 813 | 
 | 2022-09-09 | 9434 | 813 | 
-| 2022-09-08 | 9429 | 813 | 
 

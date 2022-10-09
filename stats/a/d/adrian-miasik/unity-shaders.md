@@ -1,10 +1,10 @@
 # adrian-miasik/unity-shaders - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 41
 
-★ Stars: 806
+★ Stars: 805
 
 [Open repository](https://github.com/adrian-miasik/unity-shaders)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 805 | 41 | 
 | 2022-10-07 | 806 | 41 | 
 | 2022-10-06 | 806 | 41 | 
 | 2022-10-05 | 806 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 806 | 41 | 
 | 2022-09-10 | 806 | 41 | 
 | 2022-09-09 | 806 | 41 | 
-| 2022-09-08 | 806 | 41 | 
 

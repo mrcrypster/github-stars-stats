@@ -1,8 +1,8 @@
 # KubeDev/kube-news - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 498
+☋ Forks: 499
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 15 | 499 | 
 | 2022-10-07 | 15 | 498 | 
 | 2022-10-06 | 15 | 498 | 
 | 2022-10-05 | 15 | 498 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 15 | 500 | 
 | 2022-09-10 | 15 | 500 | 
 | 2022-09-09 | 15 | 499 | 
-| 2022-09-08 | 15 | 499 | 
 

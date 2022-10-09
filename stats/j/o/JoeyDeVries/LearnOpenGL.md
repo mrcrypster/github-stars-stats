@@ -1,10 +1,10 @@
 # JoeyDeVries/LearnOpenGL - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 2263
+☋ Forks: 2262
 
-★ Stars: 7895
+★ Stars: 7898
 
 [Open repository](https://github.com/JoeyDeVries/LearnOpenGL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 7898 | 2262 | 
 | 2022-10-07 | 7895 | 2263 | 
 | 2022-10-06 | 7892 | 2263 | 
 | 2022-10-05 | 7883 | 2264 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 7745 | 2236 | 
 | 2022-09-10 | 7739 | 2234 | 
 | 2022-09-09 | 7737 | 2233 | 
-| 2022-09-08 | 7735 | 2233 | 
 

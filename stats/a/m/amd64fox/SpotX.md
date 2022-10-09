@@ -1,10 +1,10 @@
 # amd64fox/SpotX - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 146
+☋ Forks: 150
 
-★ Stars: 2417
+★ Stars: 2423
 
 [Open repository](https://github.com/amd64fox/SpotX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2423 | 150 | 
 | 2022-10-07 | 2417 | 146 | 
 | 2022-10-06 | 2402 | 145 | 
 | 2022-10-05 | 2391 | 144 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2051 | 117 | 
 | 2022-09-10 | 2042 | 117 | 
 | 2022-09-09 | 2030 | 117 | 
-| 2022-09-08 | 2008 | 117 | 
 

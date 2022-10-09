@@ -1,6 +1,6 @@
 # sebastianbergmann/global-state - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 6247 | 18 | 
 | 2022-10-07 | 6247 | 18 | 
 | 2022-10-06 | 6243 | 18 | 
 | 2022-10-05 | 6242 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 6233 | 18 | 
 | 2022-09-10 | 6232 | 18 | 
 | 2022-09-09 | 6233 | 18 | 
-| 2022-09-08 | 6233 | 18 | 
 

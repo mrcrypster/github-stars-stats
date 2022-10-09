@@ -1,10 +1,10 @@
 # schemaspy/schemaspy - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 251
 
-★ Stars: 2325
+★ Stars: 2326
 
 [Open repository](https://github.com/schemaspy/schemaspy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2326 | 251 | 
 | 2022-10-07 | 2325 | 251 | 
 | 2022-10-06 | 2324 | 251 | 
 | 2022-10-05 | 2319 | 252 | 

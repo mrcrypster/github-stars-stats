@@ -1,6 +1,6 @@
 # accomdemy/accomdemy_rv32i - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 5 | 7 | 
 | 2022-10-07 | 5 | 7 | 
 | 2022-10-06 | 5 | 7 | 
 | 2022-10-05 | 5 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 4 | 7 | 
 | 2022-09-10 | 4 | 7 | 
 | 2022-09-09 | 3 | 7 | 
-| 2022-09-08 | 3 | 7 | 
 

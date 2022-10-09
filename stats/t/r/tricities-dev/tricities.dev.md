@@ -1,0 +1,18 @@
+# tricities-dev/tricities.dev - stars & forks statistics
+
+Stats updated on Oct 2022, 09
+
+☋ Forks: 1
+
+★ Stars: 4
+
+[Open repository](https://github.com/tricities-dev/tricities.dev)
+
+[Open detailed stats for tricities-dev/tricities.dev](https://reviewgithub.com/rep/tricities-dev/tricities.dev)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-09 | 4 | 1 | 
+| 2022-10-08 | 4 | 1 | 
+

@@ -1,6 +1,6 @@
 # cloudflare/wrangler2 - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 808 | 134 | 
 | 2022-10-07 | 808 | 134 | 
 | 2022-10-06 | 804 | 134 | 
 | 2022-10-05 | 804 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 743 | 125 | 
 | 2022-09-10 | 740 | 124 | 
 | 2022-09-09 | 737 | 123 | 
-| 2022-09-08 | 736 | 121 | 
 

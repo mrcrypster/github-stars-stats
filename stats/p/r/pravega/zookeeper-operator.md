@@ -1,8 +1,8 @@
 # pravega/zookeeper-operator - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 158
+☋ Forks: 157
 
 ★ Stars: 290
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 290 | 157 | 
 | 2022-10-07 | 290 | 158 | 
 | 2022-10-06 | 290 | 158 | 
 | 2022-10-05 | 290 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 284 | 155 | 
 | 2022-09-10 | 284 | 155 | 
 | 2022-09-09 | 284 | 155 | 
-| 2022-09-08 | 284 | 155 | 
 

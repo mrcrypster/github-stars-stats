@@ -1,10 +1,10 @@
 # Quansight/scipy-2022-swag - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 9
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/Quansight/scipy-2022-swag)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 27 | 9 | 
 | 2022-10-07 | 26 | 9 | 
 | 2022-10-06 | 26 | 9 | 
 | 2022-10-05 | 25 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 24 | 8 | 
 | 2022-09-10 | 24 | 8 | 
 | 2022-09-09 | 24 | 8 | 
-| 2022-09-08 | 24 | 8 | 
 

@@ -1,6 +1,6 @@
 # kaich/Yuedu - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 832 | 85 | 
 | 2022-10-07 | 832 | 85 | 
 | 2022-10-06 | 831 | 85 | 
 | 2022-10-05 | 830 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 814 | 84 | 
 | 2022-09-10 | 813 | 84 | 
 | 2022-09-09 | 812 | 84 | 
-| 2022-09-08 | 812 | 84 | 
 

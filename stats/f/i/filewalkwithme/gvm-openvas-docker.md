@@ -1,6 +1,6 @@
 # filewalkwithme/gvm-openvas-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 12 | 11 | 
 | 2022-10-07 | 12 | 11 | 
 | 2022-10-06 | 12 | 11 | 
 | 2022-10-05 | 12 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 12 | 11 | 
 | 2022-09-10 | 12 | 11 | 
 | 2022-09-09 | 12 | 11 | 
-| 2022-09-08 | 12 | 11 | 
 

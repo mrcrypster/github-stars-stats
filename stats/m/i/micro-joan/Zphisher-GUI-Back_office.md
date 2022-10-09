@@ -1,10 +1,10 @@
 # micro-joan/Zphisher-GUI-Back_office - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 23
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/micro-joan/Zphisher-GUI-Back_office)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 150 | 23 | 
 | 2022-10-07 | 149 | 23 | 
 | 2022-10-06 | 149 | 23 | 
 | 2022-10-05 | 149 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 147 | 22 | 
 | 2022-09-11 | 147 | 22 | 
 | 2022-09-10 | 147 | 22 | 
-| 2022-09-09 | 146 | 22 | 
 

@@ -1,6 +1,6 @@
 # nf-core/nanoseq - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 85 | 38 | 
 | 2022-10-08 | 85 | 38 | 
 | 2022-10-06 | 85 | 38 | 
 | 2022-10-05 | 85 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 82 | 38 | 
 | 2022-09-10 | 82 | 38 | 
 | 2022-09-09 | 82 | 38 | 
-| 2022-09-08 | 82 | 38 | 
 

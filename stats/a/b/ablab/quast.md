@@ -1,6 +1,6 @@
 # ablab/quast - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 256 | 63 | 
 | 2022-10-07 | 256 | 63 | 
 | 2022-10-06 | 256 | 63 | 
 | 2022-10-05 | 256 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 258 | 61 | 
 | 2022-09-10 | 258 | 61 | 
 | 2022-09-09 | 258 | 61 | 
-| 2022-09-08 | 258 | 61 | 
 

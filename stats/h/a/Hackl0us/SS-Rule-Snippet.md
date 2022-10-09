@@ -1,10 +1,10 @@
 # Hackl0us/SS-Rule-Snippet - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1789
+☋ Forks: 1790
 
-★ Stars: 8706
+★ Stars: 8713
 
 [Open repository](https://github.com/Hackl0us/SS-Rule-Snippet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 8713 | 1790 | 
 | 2022-10-07 | 8706 | 1789 | 
 | 2022-10-06 | 8706 | 1789 | 
 | 2022-10-05 | 8702 | 1788 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 8636 | 1781 | 
 | 2022-09-10 | 8632 | 1780 | 
 | 2022-09-09 | 8631 | 1780 | 
-| 2022-09-08 | 8628 | 1780 | 
 

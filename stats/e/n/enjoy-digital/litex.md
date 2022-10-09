@@ -1,10 +1,10 @@
 # enjoy-digital/litex - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 377
+☋ Forks: 378
 
-★ Stars: 1755
+★ Stars: 1758
 
 [Open repository](https://github.com/enjoy-digital/litex)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1758 | 378 | 
 | 2022-10-07 | 1755 | 377 | 
 | 2022-10-06 | 1753 | 379 | 
 | 2022-10-05 | 1751 | 379 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1712 | 369 | 
 | 2022-09-10 | 1710 | 369 | 
 | 2022-09-09 | 1708 | 369 | 
-| 2022-09-08 | 1705 | 369 | 
 

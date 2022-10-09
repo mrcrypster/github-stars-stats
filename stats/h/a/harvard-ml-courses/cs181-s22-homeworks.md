@@ -1,6 +1,6 @@
 # harvard-ml-courses/cs181-s22-homeworks - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 7 | 55 | 
 | 2022-10-08 | 7 | 55 | 
 | 2022-10-07 | 7 | 55 | 
 | 2022-10-06 | 7 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 5 | 56 | 
 | 2022-09-10 | 5 | 56 | 
 | 2022-09-09 | 5 | 56 | 
-| 2022-09-08 | 5 | 56 | 
 

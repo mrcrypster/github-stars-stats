@@ -1,6 +1,6 @@
 # ray-x/lsp_signature.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1165 | 26 | 
 | 2022-10-07 | 1165 | 26 | 
 | 2022-10-06 | 1164 | 26 | 
 | 2022-10-05 | 1159 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1119 | 28 | 
 | 2022-09-10 | 1118 | 28 | 
 | 2022-09-09 | 1116 | 28 | 
-| 2022-09-08 | 1113 | 28 | 
 

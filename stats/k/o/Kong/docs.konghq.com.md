@@ -1,8 +1,8 @@
 # Kong/docs.konghq.com - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 489
+☋ Forks: 491
 
 ★ Stars: 164
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 164 | 491 | 
 | 2022-10-07 | 164 | 489 | 
 | 2022-10-06 | 163 | 488 | 
 | 2022-10-05 | 163 | 487 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 161 | 468 | 
 | 2022-09-10 | 161 | 468 | 
 | 2022-09-09 | 161 | 468 | 
-| 2022-09-08 | 161 | 468 | 
 

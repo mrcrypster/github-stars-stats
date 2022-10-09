@@ -1,10 +1,10 @@
 # android-password-store/Android-Password-Store - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 229
 
-★ Stars: 2114
+★ Stars: 2115
 
 [Open repository](https://github.com/android-password-store/Android-Password-Store)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2115 | 229 | 
 | 2022-10-08 | 2114 | 229 | 
 | 2022-10-06 | 2113 | 228 | 
 | 2022-10-05 | 2113 | 228 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 2094 | 225 | 
 | 2022-09-10 | 2092 | 224 | 
 | 2022-09-09 | 2091 | 224 | 
-| 2022-09-08 | 2090 | 224 | 
 

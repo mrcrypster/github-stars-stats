@@ -1,10 +1,10 @@
 # hasherezade/pe_to_shellcode - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 342
 
-★ Stars: 1538
+★ Stars: 1539
 
 [Open repository](https://github.com/hasherezade/pe_to_shellcode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1539 | 342 | 
 | 2022-10-07 | 1538 | 342 | 
 | 2022-10-06 | 1536 | 342 | 
 | 2022-10-05 | 1536 | 342 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1483 | 332 | 
 | 2022-09-10 | 1483 | 332 | 
 | 2022-09-09 | 1482 | 332 | 
-| 2022-09-08 | 1482 | 332 | 
 

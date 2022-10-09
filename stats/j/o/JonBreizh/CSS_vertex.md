@@ -1,0 +1,17 @@
+# JonBreizh/CSS_vertex - stars & forks statistics
+
+Stats updated on Oct 2022, 08
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/JonBreizh/CSS_vertex)
+
+[Open detailed stats for JonBreizh/CSS_vertex](https://reviewgithub.com/rep/JonBreizh/CSS_vertex)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-08 | - | - | 
+

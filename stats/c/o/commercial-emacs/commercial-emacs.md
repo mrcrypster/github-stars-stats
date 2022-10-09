@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 08
 
 ☋ Forks: 6
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/commercial-emacs/commercial-emacs)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-08 | 273 | 6 | 
+| 2022-10-08 | 274 | 6 | 
 | 2022-10-06 | 271 | 6 | 
 | 2022-10-05 | 266 | 6 | 
 | 2022-10-04 | 266 | 6 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 260 | 6 | 
 | 2022-09-10 | 260 | 6 | 
 | 2022-09-09 | 260 | 6 | 
-| 2022-09-08 | 260 | 6 | 
 

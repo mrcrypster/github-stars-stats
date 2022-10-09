@@ -1,10 +1,10 @@
 # A-Normal-User/NtSocket_NtClient_NtServer - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 59
+★ Stars: 63
 
 [Open repository](https://github.com/A-Normal-User/NtSocket_NtClient_NtServer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 63 | 21 | 
 | 2022-10-07 | 59 | 19 | 
 | 2022-10-06 | 57 | 18 | 
 | 2022-10-05 | 57 | 17 | 

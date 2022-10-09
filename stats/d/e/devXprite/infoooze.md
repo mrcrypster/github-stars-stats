@@ -1,6 +1,6 @@
 # devXprite/infoooze - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 223 | 45 | 
 | 2022-10-07 | 223 | 45 | 
 | 2022-10-06 | 221 | 43 | 
 | 2022-10-05 | 221 | 43 | 

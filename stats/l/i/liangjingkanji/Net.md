@@ -1,10 +1,10 @@
 # liangjingkanji/Net - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 131
 
-★ Stars: 1101
+★ Stars: 1102
 
 [Open repository](https://github.com/liangjingkanji/Net)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1102 | 131 | 
 | 2022-10-07 | 1101 | 131 | 
 | 2022-10-06 | 1101 | 131 | 
 | 2022-10-05 | 1101 | 131 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1080 | 128 | 
 | 2022-09-10 | 1080 | 128 | 
 | 2022-09-09 | 1079 | 128 | 
-| 2022-09-08 | 1077 | 127 | 
 

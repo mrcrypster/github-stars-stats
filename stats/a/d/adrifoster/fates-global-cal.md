@@ -1,10 +1,10 @@
 # adrifoster/fates-global-cal - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/adrifoster/fates-global-cal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2 | 1 | 
 | 2022-10-07 | 1 | 1 | 
 | 2022-10-06 | 1 | 1 | 
 | 2022-10-05 | 1 | 1 | 

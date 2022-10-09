@@ -1,10 +1,10 @@
 # apollographql/apollo-ios - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 628
+☋ Forks: 629
 
-★ Stars: 3474
+★ Stars: 3475
 
 [Open repository](https://github.com/apollographql/apollo-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3475 | 629 | 
 | 2022-10-07 | 3474 | 628 | 
 | 2022-10-06 | 3471 | 628 | 
 | 2022-10-05 | 3470 | 628 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3452 | 626 | 
 | 2022-09-10 | 3452 | 626 | 
 | 2022-09-09 | 3451 | 625 | 
-| 2022-09-08 | 3446 | 625 | 
 

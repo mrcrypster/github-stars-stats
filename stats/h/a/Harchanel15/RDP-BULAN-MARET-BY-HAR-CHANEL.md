@@ -1,8 +1,8 @@
 # Harchanel15/RDP-BULAN-MARET-BY-HAR-CHANEL - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 3164
+☋ Forks: 3166
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 47 | 3166 | 
 | 2022-10-07 | 47 | 3164 | 
 | 2022-10-06 | 47 | 3165 | 
 | 2022-10-05 | 47 | 3164 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 43 | 3098 | 
 | 2022-09-10 | 43 | 3086 | 
 | 2022-09-09 | 43 | 3076 | 
-| 2022-09-08 | 43 | 3061 | 
 

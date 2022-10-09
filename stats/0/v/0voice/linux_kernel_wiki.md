@@ -1,10 +1,10 @@
 # 0voice/linux_kernel_wiki - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 704
 
-★ Stars: 2338
+★ Stars: 2342
 
 [Open repository](https://github.com/0voice/linux_kernel_wiki)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2342 | 704 | 
 | 2022-10-07 | 2338 | 704 | 
 | 2022-10-06 | 2331 | 704 | 
 | 2022-10-05 | 2331 | 704 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2248 | 686 | 
 | 2022-09-10 | 2244 | 685 | 
 | 2022-09-09 | 2240 | 685 | 
-| 2022-09-08 | 2237 | 683 | 
 

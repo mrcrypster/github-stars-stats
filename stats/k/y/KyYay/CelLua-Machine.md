@@ -1,8 +1,8 @@
 # KyYay/CelLua-Machine - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 12 | 7 | 
 | 2022-10-08 | 12 | 6 | 
 | 2022-10-07 | 12 | 6 | 
 | 2022-10-05 | 12 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 12 | 6 | 
 | 2022-09-10 | 12 | 6 | 
 | 2022-09-09 | 12 | 6 | 
-| 2022-09-08 | 12 | 6 | 
 

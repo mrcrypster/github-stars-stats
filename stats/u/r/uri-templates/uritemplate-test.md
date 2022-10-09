@@ -1,10 +1,10 @@
 # uri-templates/uritemplate-test - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 22
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/uri-templates/uritemplate-test)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 85 | 22 | 
 | 2022-10-07 | 84 | 22 | 
 | 2022-10-06 | 84 | 22 | 
 | 2022-10-05 | 84 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 83 | 22 | 
 | 2022-09-10 | 83 | 22 | 
 | 2022-09-09 | 83 | 22 | 
-| 2022-09-08 | 83 | 22 | 
 

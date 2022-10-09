@@ -1,10 +1,10 @@
 # deadtrickster/prometheus.erl - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 97
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/deadtrickster/prometheus.erl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 316 | 97 | 
 | 2022-10-07 | 315 | 97 | 
 | 2022-10-06 | 315 | 97 | 
 | 2022-10-05 | 315 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 314 | 97 | 
 | 2022-09-10 | 314 | 97 | 
 | 2022-09-09 | 314 | 97 | 
-| 2022-09-08 | 314 | 97 | 
 

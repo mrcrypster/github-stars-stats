@@ -1,6 +1,6 @@
 # vincentbernat/akvorado - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 456 | 17 | 
 | 2022-10-07 | 456 | 17 | 
 | 2022-10-06 | 452 | 17 | 
 | 2022-10-05 | 448 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 385 | 16 | 
 | 2022-09-10 | 384 | 16 | 
 | 2022-09-09 | 383 | 15 | 
-| 2022-09-08 | 383 | 15 | 
 

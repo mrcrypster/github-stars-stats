@@ -1,6 +1,6 @@
 # OpenMage/magento-lts - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 765 | 394 | 
 | 2022-10-07 | 765 | 394 | 
 | 2022-10-06 | 766 | 394 | 
 | 2022-10-05 | 766 | 394 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 762 | 392 | 
 | 2022-09-10 | 762 | 392 | 
 | 2022-09-09 | 761 | 392 | 
-| 2022-09-08 | 761 | 393 | 
 

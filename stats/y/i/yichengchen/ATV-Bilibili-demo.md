@@ -1,10 +1,10 @@
 # yichengchen/ATV-Bilibili-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 27
+☋ Forks: 30
 
-★ Stars: 151
+★ Stars: 155
 
 [Open repository](https://github.com/yichengchen/ATV-Bilibili-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 155 | 30 | 
 | 2022-10-07 | 151 | 27 | 
 | 2022-10-06 | 151 | 26 | 
 | 2022-10-05 | 147 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 129 | 21 | 
 | 2022-09-11 | 128 | 21 | 
 | 2022-09-09 | 128 | 21 | 
-| 2022-09-08 | 128 | 21 | 
 

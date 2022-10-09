@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 08
 
 ☋ Forks: 402
 
-★ Stars: 8573
+★ Stars: 8576
 
 [Open repository](https://github.com/Shopify/toxiproxy)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-08 | 8573 | 402 | 
+| 2022-10-08 | 8576 | 402 | 
 | 2022-10-07 | 8564 | 402 | 
 | 2022-10-06 | 8560 | 402 | 
 | 2022-10-04 | 8558 | 401 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 8475 | 396 | 
 | 2022-09-10 | 8471 | 396 | 
 | 2022-09-09 | 8471 | 394 | 
-| 2022-09-08 | 8467 | 394 | 
 

@@ -1,6 +1,6 @@
 # vbondarevsky/Connector - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 396 | 154 | 
 | 2022-10-08 | 396 | 154 | 
 | 2022-10-06 | 395 | 154 | 
 | 2022-10-05 | 394 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 389 | 151 | 
 | 2022-09-10 | 389 | 151 | 
 | 2022-09-09 | 389 | 151 | 
-| 2022-09-08 | 388 | 151 | 
 

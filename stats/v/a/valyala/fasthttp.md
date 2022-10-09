@@ -1,10 +1,10 @@
 # valyala/fasthttp - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1549
 
-★ Stars: 18506
+★ Stars: 18509
 
 [Open repository](https://github.com/valyala/fasthttp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 18509 | 1549 | 
 | 2022-10-08 | 18506 | 1549 | 
 | 2022-10-07 | 18500 | 1549 | 
 | 2022-10-06 | 18496 | 1548 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 18365 | 1532 | 
 | 2022-09-10 | 18363 | 1532 | 
 | 2022-09-09 | 18353 | 1532 | 
-| 2022-09-08 | 18351 | 1531 | 
 

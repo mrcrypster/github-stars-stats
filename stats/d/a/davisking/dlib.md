@@ -1,10 +1,10 @@
 # davisking/dlib - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 3124
+☋ Forks: 3125
 
-★ Stars: 11439
+★ Stars: 11441
 
 [Open repository](https://github.com/davisking/dlib)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 11441 | 3125 | 
 | 2022-10-08 | 11439 | 3124 | 
 | 2022-10-06 | 11437 | 3124 | 
 | 2022-10-05 | 11434 | 3123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 11387 | 3120 | 
 | 2022-09-10 | 11385 | 3121 | 
 | 2022-09-09 | 11384 | 3120 | 
-| 2022-09-08 | 11383 | 3120 | 
 

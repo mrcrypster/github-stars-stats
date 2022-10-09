@@ -1,6 +1,6 @@
 # rxi/json.lua - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 326
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1395 | 326 | 
 | 2022-10-07 | 1395 | 326 | 
 | 2022-10-06 | 1393 | 326 | 
 | 2022-10-05 | 1389 | 324 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 1371 | 322 | 
 | 2022-09-11 | 1370 | 322 | 
 | 2022-09-10 | 1370 | 322 | 
-| 2022-09-08 | 1370 | 322 | 
 

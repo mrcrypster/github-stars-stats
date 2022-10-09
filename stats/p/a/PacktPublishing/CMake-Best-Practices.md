@@ -1,10 +1,10 @@
 # PacktPublishing/CMake-Best-Practices - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 12
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/PacktPublishing/CMake-Best-Practices)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 75 | 12 | 
 | 2022-10-07 | 74 | 12 | 
 | 2022-10-06 | 74 | 12 | 
 | 2022-10-05 | 73 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 68 | 13 | 
 | 2022-09-10 | 68 | 13 | 
 | 2022-09-09 | 68 | 13 | 
-| 2022-09-08 | 68 | 13 | 
 

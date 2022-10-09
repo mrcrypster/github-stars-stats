@@ -1,10 +1,10 @@
 # denoland/meet-me - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 15
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/denoland/meet-me)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 159 | 15 | 
 | 2022-10-07 | 158 | 15 | 
 | 2022-10-06 | 154 | 15 | 
 | 2022-10-05 | 154 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 150 | 15 | 
 | 2022-09-10 | 150 | 15 | 
 | 2022-09-09 | 149 | 15 | 
-| 2022-09-08 | 148 | 15 | 
 

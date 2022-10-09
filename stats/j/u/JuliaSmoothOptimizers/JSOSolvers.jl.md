@@ -1,10 +1,10 @@
 # JuliaSmoothOptimizers/JSOSolvers.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 9
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/JSOSolvers.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 40 | 9 | 
 | 2022-10-07 | 39 | 9 | 
 | 2022-10-06 | 39 | 9 | 
 | 2022-10-05 | 39 | 9 | 

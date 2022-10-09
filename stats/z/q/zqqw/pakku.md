@@ -1,10 +1,10 @@
 # zqqw/pakku - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/zqqw/pakku)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 26 | 3 | 
 | 2022-10-07 | 25 | 3 | 
 | 2022-10-06 | 25 | 3 | 
 | 2022-10-05 | 25 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 25 | 2 | 
 | 2022-09-10 | 25 | 2 | 
 | 2022-09-09 | 25 | 2 | 
-| 2022-09-08 | 25 | 2 | 
 

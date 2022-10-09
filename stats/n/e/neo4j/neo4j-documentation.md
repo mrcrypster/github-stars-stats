@@ -1,10 +1,10 @@
 # neo4j/neo4j-documentation - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 135
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/neo4j/neo4j-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 96 | 135 | 
 | 2022-10-07 | 95 | 135 | 
 | 2022-10-06 | 95 | 135 | 
 | 2022-10-05 | 95 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 95 | 134 | 
 | 2022-09-10 | 95 | 134 | 
 | 2022-09-09 | 95 | 134 | 
-| 2022-09-08 | 95 | 134 | 
 

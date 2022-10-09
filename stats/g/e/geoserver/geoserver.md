@@ -1,8 +1,8 @@
 # geoserver/geoserver - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1938
+☋ Forks: 1939
 
 ★ Stars: 2881
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2881 | 1939 | 
 | 2022-10-07 | 2881 | 1938 | 
 | 2022-10-06 | 2881 | 1938 | 
 | 2022-10-05 | 2880 | 1938 | 

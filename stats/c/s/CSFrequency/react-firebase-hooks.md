@@ -1,10 +1,10 @@
 # CSFrequency/react-firebase-hooks - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 251
 
-★ Stars: 2889
+★ Stars: 2891
 
 [Open repository](https://github.com/CSFrequency/react-firebase-hooks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2891 | 251 | 
 | 2022-10-07 | 2889 | 251 | 
 | 2022-10-06 | 2888 | 252 | 
 | 2022-10-05 | 2887 | 252 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2849 | 243 | 
 | 2022-09-10 | 2846 | 243 | 
 | 2022-09-09 | 2844 | 241 | 
-| 2022-09-08 | 2842 | 240 | 
 

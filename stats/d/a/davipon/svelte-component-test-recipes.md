@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/davipon/svelte-component-test-recipes)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-08 | 39 | 1 | 
+| 2022-10-08 | 40 | 1 | 
 | 2022-10-07 | 39 | 1 | 
 | 2022-10-06 | 39 | 1 | 
 | 2022-10-05 | 38 | 1 | 

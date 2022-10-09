@@ -1,6 +1,6 @@
 # solstice23/argon-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 390
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2744 | 390 | 
 | 2022-10-07 | 2744 | 390 | 
 | 2022-10-06 | 2741 | 390 | 
 | 2022-10-05 | 2742 | 390 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2697 | 382 | 
 | 2022-09-10 | 2696 | 383 | 
 | 2022-09-09 | 2695 | 384 | 
-| 2022-09-08 | 2692 | 383 | 
 

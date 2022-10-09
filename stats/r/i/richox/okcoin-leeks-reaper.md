@@ -1,6 +1,6 @@
 # richox/okcoin-leeks-reaper - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 472
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 920 | 472 | 
 | 2022-10-07 | 920 | 472 | 
 | 2022-10-06 | 920 | 472 | 
 | 2022-10-05 | 920 | 472 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 917 | 474 | 
 | 2022-09-10 | 917 | 474 | 
 | 2022-09-09 | 917 | 474 | 
-| 2022-09-08 | 915 | 474 | 
 

@@ -1,10 +1,10 @@
 # foospidy/payloads - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 959
 
-★ Stars: 3119
+★ Stars: 3120
 
 [Open repository](https://github.com/foospidy/payloads)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3120 | 959 | 
 | 2022-10-07 | 3119 | 959 | 
 | 2022-10-06 | 3116 | 959 | 
 | 2022-10-05 | 3115 | 958 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3108 | 958 | 
 | 2022-09-10 | 3108 | 958 | 
 | 2022-09-09 | 3107 | 958 | 
-| 2022-09-08 | 3107 | 958 | 
 

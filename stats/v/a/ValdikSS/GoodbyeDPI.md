@@ -1,10 +1,10 @@
 # ValdikSS/GoodbyeDPI - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 730
 
-★ Stars: 7631
+★ Stars: 7635
 
 [Open repository](https://github.com/ValdikSS/GoodbyeDPI)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 7635 | 730 | 
 | 2022-10-07 | 7631 | 730 | 
 | 2022-10-06 | 7629 | 730 | 
 | 2022-10-05 | 7620 | 730 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 7491 | 723 | 
 | 2022-09-10 | 7484 | 723 | 
 | 2022-09-09 | 7477 | 723 | 
-| 2022-09-08 | 7468 | 723 | 
 

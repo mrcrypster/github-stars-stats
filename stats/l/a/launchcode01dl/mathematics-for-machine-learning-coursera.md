@@ -1,10 +1,10 @@
 # launchcode01dl/mathematics-for-machine-learning-coursera - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 304
 
-★ Stars: 283
+★ Stars: 284
 
 [Open repository](https://github.com/launchcode01dl/mathematics-for-machine-learning-coursera)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 284 | 304 | 
 | 2022-10-07 | 283 | 304 | 
 | 2022-10-06 | 283 | 303 | 
 | 2022-10-05 | 283 | 302 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 283 | 301 | 
 | 2022-09-10 | 282 | 301 | 
 | 2022-09-09 | 282 | 301 | 
-| 2022-09-08 | 282 | 301 | 
 

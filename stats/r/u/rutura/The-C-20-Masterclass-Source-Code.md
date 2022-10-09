@@ -1,8 +1,8 @@
 # rutura/The-C-20-Masterclass-Source-Code - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 421
+☋ Forks: 422
 
 ★ Stars: 734
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 734 | 422 | 
 | 2022-10-07 | 734 | 421 | 
 | 2022-10-06 | 731 | 419 | 
 | 2022-10-05 | 729 | 418 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 662 | 381 | 
 | 2022-09-10 | 662 | 379 | 
 | 2022-09-09 | 662 | 377 | 
-| 2022-09-08 | 660 | 378 | 
 

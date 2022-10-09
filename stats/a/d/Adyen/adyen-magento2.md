@@ -1,6 +1,6 @@
 # Adyen/adyen-magento2 - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 127 | 167 | 
 | 2022-10-07 | 127 | 167 | 
 | 2022-10-06 | 127 | 167 | 
 | 2022-10-05 | 127 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 124 | 164 | 
 | 2022-09-10 | 124 | 164 | 
 | 2022-09-09 | 124 | 164 | 
-| 2022-09-08 | 124 | 164 | 
 

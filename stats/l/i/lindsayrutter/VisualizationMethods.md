@@ -1,10 +1,10 @@
 # lindsayrutter/VisualizationMethods - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 18
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/lindsayrutter/VisualizationMethods)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 5 | 18 | 
 | 2022-10-07 | 4 | 18 | 
 | 2022-10-06 | 4 | 18 | 
 | 2022-10-05 | 4 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3 | 18 | 
 | 2022-09-10 | 3 | 18 | 
 | 2022-09-09 | 3 | 18 | 
-| 2022-09-08 | 3 | 18 | 
 

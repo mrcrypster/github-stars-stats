@@ -1,6 +1,6 @@
 # jgodstime/laravel-error-notifier - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 39 | 3 | 
 | 2022-10-07 | 39 | 3 | 
 | 2022-10-06 | 38 | 3 | 
 | 2022-10-05 | 36 | 3 | 

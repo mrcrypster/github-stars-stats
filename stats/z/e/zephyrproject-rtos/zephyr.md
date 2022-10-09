@@ -1,10 +1,10 @@
 # zephyrproject-rtos/zephyr - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 4193
+☋ Forks: 4196
 
-★ Stars: 6722
+★ Stars: 6730
 
 [Open repository](https://github.com/zephyrproject-rtos/zephyr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 6730 | 4196 | 
 | 2022-10-07 | 6722 | 4193 | 
 | 2022-10-06 | 6716 | 4186 | 
 | 2022-10-05 | 6710 | 4185 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 6617 | 4127 | 
 | 2022-09-10 | 6615 | 4126 | 
 | 2022-09-09 | 6607 | 4121 | 
-| 2022-09-08 | 6602 | 4115 | 
 

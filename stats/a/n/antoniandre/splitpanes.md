@@ -1,10 +1,10 @@
 # antoniandre/splitpanes - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 121
 
-★ Stars: 1148
+★ Stars: 1150
 
 [Open repository](https://github.com/antoniandre/splitpanes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1150 | 121 | 
 | 2022-10-07 | 1148 | 121 | 
 | 2022-10-06 | 1147 | 121 | 
 | 2022-10-05 | 1147 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1127 | 118 | 
 | 2022-09-10 | 1127 | 118 | 
 | 2022-09-09 | 1126 | 118 | 
-| 2022-09-08 | 1125 | 118 | 
 

@@ -1,10 +1,10 @@
 # OpenZeppelin/openzeppelin-contracts-upgradeable - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 336
 
-★ Stars: 693
+★ Stars: 694
 
 [Open repository](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 694 | 336 | 
 | 2022-10-07 | 693 | 336 | 
 | 2022-10-06 | 691 | 335 | 
 | 2022-10-05 | 689 | 335 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 658 | 323 | 
 | 2022-09-10 | 658 | 322 | 
 | 2022-09-09 | 656 | 322 | 
-| 2022-09-08 | 655 | 322 | 
 

@@ -1,10 +1,10 @@
 # alphapapa/magit-todos - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 34
 
-★ Stars: 532
+★ Stars: 533
 
 [Open repository](https://github.com/alphapapa/magit-todos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 533 | 34 | 
 | 2022-10-07 | 532 | 34 | 
 | 2022-10-06 | 532 | 34 | 
 | 2022-10-05 | 531 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 527 | 33 | 
 | 2022-09-10 | 527 | 33 | 
 | 2022-09-09 | 527 | 33 | 
-| 2022-09-08 | 527 | 33 | 
 

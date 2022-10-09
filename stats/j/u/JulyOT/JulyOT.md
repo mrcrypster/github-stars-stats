@@ -1,6 +1,6 @@
 # JulyOT/JulyOT - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 11 | 10 | 
 | 2022-10-07 | 11 | 10 | 
 | 2022-10-06 | 11 | 10 | 
 | 2022-10-05 | 11 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 11 | 10 | 
 | 2022-09-10 | 11 | 10 | 
 | 2022-09-09 | 11 | 10 | 
-| 2022-09-08 | 11 | 10 | 
 

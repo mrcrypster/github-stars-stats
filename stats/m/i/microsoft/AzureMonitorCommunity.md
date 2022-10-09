@@ -1,8 +1,8 @@
 # microsoft/AzureMonitorCommunity - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 279
+☋ Forks: 280
 
 ★ Stars: 612
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 612 | 280 | 
 | 2022-10-07 | 612 | 279 | 
 | 2022-10-06 | 612 | 279 | 
 | 2022-10-05 | 612 | 279 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 596 | 270 | 
 | 2022-09-10 | 596 | 270 | 
 | 2022-09-09 | 596 | 270 | 
-| 2022-09-08 | 595 | 269 | 
 

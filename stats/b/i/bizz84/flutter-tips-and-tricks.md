@@ -1,10 +1,10 @@
 # bizz84/flutter-tips-and-tricks - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 46
 
-★ Stars: 619
+★ Stars: 620
 
 [Open repository](https://github.com/bizz84/flutter-tips-and-tricks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 620 | 46 | 
 | 2022-10-07 | 619 | 46 | 
 | 2022-10-06 | 617 | 45 | 
 | 2022-10-05 | 616 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 595 | 43 | 
 | 2022-09-10 | 595 | 43 | 
 | 2022-09-09 | 595 | 43 | 
-| 2022-09-08 | 594 | 42 | 
 

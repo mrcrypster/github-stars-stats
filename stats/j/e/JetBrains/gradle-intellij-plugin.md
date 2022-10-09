@@ -1,10 +1,10 @@
 # JetBrains/gradle-intellij-plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 262
 
-★ Stars: 1223
+★ Stars: 1224
 
 [Open repository](https://github.com/JetBrains/gradle-intellij-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1224 | 262 | 
 | 2022-10-07 | 1223 | 262 | 
 | 2022-10-06 | 1223 | 262 | 
 | 2022-10-05 | 1222 | 263 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1211 | 261 | 
 | 2022-09-10 | 1211 | 261 | 
 | 2022-09-09 | 1211 | 261 | 
-| 2022-09-08 | 1209 | 261 | 
 

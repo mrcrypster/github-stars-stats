@@ -1,6 +1,6 @@
 # bugsnag/bugsnag-cocoa - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 206 | 125 | 
 | 2022-10-07 | 206 | 125 | 
 | 2022-10-06 | 206 | 125 | 
 | 2022-10-05 | 206 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 206 | 124 | 
 | 2022-09-10 | 206 | 124 | 
 | 2022-09-09 | 206 | 124 | 
-| 2022-09-08 | 207 | 124 | 
 

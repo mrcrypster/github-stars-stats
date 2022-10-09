@@ -1,8 +1,8 @@
 # yasagit/ichiyasaGitSample - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 2171
+☋ Forks: 2172
 
 ★ Stars: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 18 | 2172 | 
 | 2022-10-07 | 18 | 2171 | 
 | 2022-10-06 | 18 | 2171 | 
 | 2022-10-05 | 18 | 2172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 18 | 2164 | 
 | 2022-09-10 | 18 | 2163 | 
 | 2022-09-09 | 18 | 2163 | 
-| 2022-09-08 | 18 | 2163 | 
 

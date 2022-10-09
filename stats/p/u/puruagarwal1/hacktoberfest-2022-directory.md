@@ -1,8 +1,8 @@
 # puruagarwal1/hacktoberfest-2022-directory - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 90
+☋ Forks: 92
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 32 | 92 | 
 | 2022-10-07 | 32 | 90 | 
 | 2022-10-06 | 32 | 88 | 
 | 2022-10-05 | 32 | 87 | 

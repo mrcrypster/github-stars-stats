@@ -1,6 +1,6 @@
 # filp/whoops - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 600
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 12847 | 600 | 
 | 2022-10-07 | 12847 | 600 | 
 | 2022-10-06 | 12843 | 600 | 
 | 2022-10-05 | 12842 | 600 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 12829 | 598 | 
 | 2022-09-10 | 12826 | 598 | 
 | 2022-09-09 | 12825 | 597 | 
-| 2022-09-08 | 12824 | 597 | 
 

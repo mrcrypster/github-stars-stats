@@ -1,10 +1,10 @@
 # alesimula/wsa_pacman - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 602
+☋ Forks: 604
 
-★ Stars: 2326
+★ Stars: 2336
 
 [Open repository](https://github.com/alesimula/wsa_pacman)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2336 | 604 | 
 | 2022-10-07 | 2326 | 602 | 
 | 2022-10-06 | 2320 | 601 | 
 | 2022-10-05 | 2313 | 601 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2203 | 549 | 
 | 2022-09-10 | 2199 | 547 | 
 | 2022-09-09 | 2197 | 545 | 
-| 2022-09-08 | 2193 | 540 | 
 

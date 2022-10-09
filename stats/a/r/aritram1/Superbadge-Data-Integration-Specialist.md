@@ -1,6 +1,6 @@
 # aritram1/Superbadge-Data-Integration-Specialist - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 16 | 45 | 
 | 2022-10-07 | 16 | 45 | 
 | 2022-10-06 | 16 | 45 | 
 | 2022-10-05 | 16 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 15 | 44 | 
 | 2022-09-10 | 15 | 44 | 
 | 2022-09-09 | 15 | 44 | 
-| 2022-09-08 | 15 | 44 | 
 

@@ -1,10 +1,10 @@
 # waldo-irc/YouMayPasser - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 38
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/waldo-irc/YouMayPasser)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 168 | 38 | 
 | 2022-10-08 | 167 | 38 | 
 | 2022-10-07 | 167 | 38 | 
 | 2022-10-05 | 167 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 160 | 38 | 
 | 2022-09-10 | 160 | 38 | 
 | 2022-09-09 | 159 | 38 | 
-| 2022-09-08 | 159 | 38 | 
 

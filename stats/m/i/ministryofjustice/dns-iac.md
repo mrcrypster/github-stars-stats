@@ -1,6 +1,6 @@
 # ministryofjustice/dns-iac - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2 | - | 
 | 2022-10-07 | 2 | - | 
 | 2022-10-06 | 2 | - | 
 | 2022-10-05 | 2 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2 | - | 
 | 2022-09-10 | 2 | - | 
 | 2022-09-09 | 2 | - | 
-| 2022-09-08 | 2 | - | 
 

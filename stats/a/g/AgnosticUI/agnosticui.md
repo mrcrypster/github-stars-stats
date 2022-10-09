@@ -1,6 +1,6 @@
 # AgnosticUI/agnosticui - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 502 | 30 | 
 | 2022-10-07 | 502 | 30 | 
 | 2022-10-06 | 501 | 30 | 
 | 2022-10-05 | 498 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 475 | 30 | 
 | 2022-09-10 | 474 | 29 | 
 | 2022-09-09 | 469 | 29 | 
-| 2022-09-08 | 468 | 29 | 
 

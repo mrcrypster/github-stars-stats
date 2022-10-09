@@ -1,6 +1,6 @@
 # tunitowen/fancy_bottom_navigation - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 607 | 178 | 
 | 2022-10-07 | 607 | 178 | 
 | 2022-10-06 | 607 | 178 | 
 | 2022-10-05 | 607 | 178 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 604 | 176 | 
 | 2022-09-10 | 604 | 176 | 
 | 2022-09-09 | 604 | 176 | 
-| 2022-09-08 | 604 | 176 | 
 

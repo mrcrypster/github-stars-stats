@@ -1,10 +1,10 @@
 # kottans/frontend - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 371
 
-★ Stars: 1146
+★ Stars: 1147
 
 [Open repository](https://github.com/kottans/frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1147 | 371 | 
 | 2022-10-07 | 1146 | 371 | 
 | 2022-10-06 | 1145 | 371 | 
 | 2022-10-05 | 1145 | 371 | 

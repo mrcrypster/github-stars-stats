@@ -1,8 +1,8 @@
 # jasmin456mulyani/FreeRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1 | 61 | 
 | 2022-10-07 | 1 | 60 | 
 | 2022-10-06 | 1 | 60 | 
 | 2022-10-05 | 1 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | - | 51 | 
 | 2022-09-10 | - | 51 | 
 | 2022-09-09 | - | 51 | 
-| 2022-09-08 | - | 51 | 
 

@@ -1,10 +1,10 @@
 # HDT3213/delayqueue - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 23
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/HDT3213/delayqueue)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 151 | 23 | 
 | 2022-10-07 | 150 | 23 | 
 | 2022-10-06 | 150 | 23 | 
 | 2022-10-05 | 148 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 128 | 20 | 
 | 2022-09-10 | 128 | 20 | 
 | 2022-09-09 | 128 | 20 | 
-| 2022-09-08 | 128 | 20 | 
 

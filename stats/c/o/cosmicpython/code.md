@@ -1,10 +1,10 @@
 # cosmicpython/code - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 627
 
-★ Stars: 1348
+★ Stars: 1349
 
 [Open repository](https://github.com/cosmicpython/code)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1349 | 627 | 
 | 2022-10-07 | 1348 | 627 | 
 | 2022-10-06 | 1347 | 627 | 
 | 2022-10-05 | 1345 | 627 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1314 | 607 | 
 | 2022-09-10 | 1312 | 606 | 
 | 2022-09-09 | 1308 | 606 | 
-| 2022-09-08 | 1306 | 604 | 
 

@@ -1,6 +1,6 @@
 # lemon4ex/XcodeRootDebug - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 75 | 14 | 
 | 2022-10-08 | 75 | 14 | 
 | 2022-10-07 | 75 | 14 | 
 | 2022-10-06 | 75 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 72 | 13 | 
 | 2022-09-10 | 72 | 13 | 
 | 2022-09-09 | 72 | 13 | 
-| 2022-09-08 | 71 | 13 | 
 

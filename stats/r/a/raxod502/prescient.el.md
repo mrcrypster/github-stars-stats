@@ -1,10 +1,10 @@
 # raxod502/prescient.el - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 21
 
-★ Stars: 492
+★ Stars: 493
 
 [Open repository](https://github.com/raxod502/prescient.el)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 493 | 21 | 
 | 2022-10-08 | 492 | 21 | 
 | 2022-10-07 | 492 | 21 | 
 | 2022-10-06 | 492 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 487 | 21 | 
 | 2022-09-10 | 487 | 21 | 
 | 2022-09-09 | 487 | 21 | 
-| 2022-09-08 | 487 | 21 | 
 

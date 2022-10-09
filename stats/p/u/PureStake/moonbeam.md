@@ -1,10 +1,10 @@
 # PureStake/moonbeam - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 233
 
-★ Stars: 747
+★ Stars: 748
 
 [Open repository](https://github.com/PureStake/moonbeam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 748 | 233 | 
 | 2022-10-07 | 747 | 233 | 
 | 2022-10-06 | 746 | 233 | 
 | 2022-10-05 | 746 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 735 | 223 | 
 | 2022-09-10 | 735 | 223 | 
 | 2022-09-09 | 733 | 223 | 
-| 2022-09-08 | 733 | 223 | 
 

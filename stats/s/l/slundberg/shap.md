@@ -1,8 +1,8 @@
 # slundberg/shap - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 2665
+☋ Forks: 2664
 
 ★ Stars: 17631
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 17631 | 2664 | 
 | 2022-10-07 | 17631 | 2665 | 
 | 2022-10-06 | 17626 | 2664 | 
 | 2022-10-05 | 17613 | 2663 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 17422 | 2638 | 
 | 2022-09-10 | 17416 | 2638 | 
 | 2022-09-09 | 17416 | 2637 | 
-| 2022-09-08 | 17409 | 2636 | 
 

@@ -1,6 +1,6 @@
 # jorqensen/hypequotes - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 5 | 7 | 
 | 2022-10-08 | 5 | 7 | 
 | 2022-10-07 | 5 | 7 | 
 | 2022-10-05 | 5 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 5 | 7 | 
 | 2022-09-10 | 5 | 7 | 
 | 2022-09-09 | 6 | 7 | 
-| 2022-09-08 | 6 | 7 | 
 

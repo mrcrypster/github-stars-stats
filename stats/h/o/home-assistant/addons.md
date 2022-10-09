@@ -1,6 +1,6 @@
 # home-assistant/addons - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 1063
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 994 | 1063 | 
 | 2022-10-07 | 994 | 1063 | 
 | 2022-10-06 | 994 | 1063 | 
 | 2022-10-05 | 994 | 1062 | 

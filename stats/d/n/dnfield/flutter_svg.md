@@ -1,8 +1,8 @@
 # dnfield/flutter_svg - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 372
+☋ Forks: 373
 
 ★ Stars: 1432
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1432 | 373 | 
 | 2022-10-07 | 1432 | 372 | 
 | 2022-10-06 | 1432 | 372 | 
 | 2022-10-05 | 1431 | 372 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1416 | 367 | 
 | 2022-09-10 | 1416 | 367 | 
 | 2022-09-09 | 1414 | 367 | 
-| 2022-09-08 | 1414 | 367 | 
 

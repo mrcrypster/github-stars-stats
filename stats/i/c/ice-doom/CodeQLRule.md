@@ -1,10 +1,10 @@
 # ice-doom/CodeQLRule - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 11
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/ice-doom/CodeQLRule)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 94 | 11 | 
 | 2022-10-07 | 93 | 11 | 
 | 2022-10-06 | 93 | 11 | 
 | 2022-10-05 | 93 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 91 | 11 | 
 | 2022-09-10 | 91 | 11 | 
 | 2022-09-09 | 91 | 11 | 
-| 2022-09-08 | 91 | 11 | 
 

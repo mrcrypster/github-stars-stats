@@ -1,10 +1,10 @@
 # minad/consult - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 68
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/minad/consult)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 666 | 68 | 
 | 2022-10-07 | 665 | 68 | 
 | 2022-10-06 | 662 | 68 | 
 | 2022-10-05 | 660 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 645 | 65 | 
 | 2022-09-10 | 645 | 65 | 
 | 2022-09-09 | 643 | 65 | 
-| 2022-09-08 | 642 | 65 | 
 

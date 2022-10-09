@@ -1,6 +1,6 @@
 # shinchiro/mpv-winbuild-cmake - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 195 | 42 | 
 | 2022-10-07 | 195 | 42 | 
 | 2022-10-06 | 193 | 42 | 
 | 2022-10-05 | 192 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 178 | 35 | 
 | 2022-09-10 | 178 | 35 | 
 | 2022-09-09 | 178 | 35 | 
-| 2022-09-08 | 178 | 36 | 
 

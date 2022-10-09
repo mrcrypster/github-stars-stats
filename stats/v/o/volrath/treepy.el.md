@@ -1,6 +1,6 @@
 # volrath/treepy.el - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 46 | 10 | 
 | 2022-10-07 | 46 | 10 | 
 | 2022-10-06 | 45 | 10 | 
 | 2022-10-05 | 45 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 36 | 10 | 
 | 2022-09-10 | 36 | 10 | 
 | 2022-09-09 | 36 | 10 | 
-| 2022-09-08 | 36 | 10 | 
 

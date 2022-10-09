@@ -1,6 +1,6 @@
 # AshutoshSingh002s/WindowsRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | - | 89 | 
 | 2022-10-07 | - | 89 | 
 | 2022-10-06 | - | 89 | 
 | 2022-10-05 | - | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | - | 83 | 
 | 2022-09-10 | - | 84 | 
 | 2022-09-09 | - | 84 | 
-| 2022-09-08 | - | 82 | 
 

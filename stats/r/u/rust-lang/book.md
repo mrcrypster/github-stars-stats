@@ -1,10 +1,10 @@
 # rust-lang/book - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 2488
+☋ Forks: 2491
 
-★ Stars: 10283
+★ Stars: 10287
 
 [Open repository](https://github.com/rust-lang/book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 10287 | 2491 | 
 | 2022-10-07 | 10283 | 2488 | 
 | 2022-10-06 | 10268 | 2484 | 
 | 2022-10-05 | 10263 | 2480 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 10091 | 2440 | 
 | 2022-09-10 | 10088 | 2439 | 
 | 2022-09-09 | 10083 | 2438 | 
-| 2022-09-08 | 10075 | 2438 | 
 

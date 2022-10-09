@@ -1,10 +1,10 @@
 # dracula/vim - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 460
+☋ Forks: 461
 
-★ Stars: 1152
+★ Stars: 1153
 
 [Open repository](https://github.com/dracula/vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1153 | 461 | 
 | 2022-10-07 | 1152 | 460 | 
 | 2022-10-06 | 1153 | 460 | 
 | 2022-10-05 | 1152 | 460 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1142 | 458 | 
 | 2022-09-10 | 1142 | 458 | 
 | 2022-09-09 | 1142 | 458 | 
-| 2022-09-08 | 1143 | 458 | 
 

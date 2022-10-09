@@ -1,10 +1,10 @@
 # chinese-poetry/chinese-poetry - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 7797
+☋ Forks: 7801
 
-★ Stars: 37804
+★ Stars: 37815
 
 [Open repository](https://github.com/chinese-poetry/chinese-poetry)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 37815 | 7801 | 
 | 2022-10-07 | 37804 | 7797 | 
 | 2022-10-06 | 37792 | 7791 | 
 | 2022-10-05 | 37784 | 7790 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 37517 | 7764 | 
 | 2022-09-10 | 37502 | 7765 | 
 | 2022-09-09 | 37490 | 7763 | 
-| 2022-09-08 | 37465 | 7763 | 
 

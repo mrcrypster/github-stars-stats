@@ -1,10 +1,10 @@
 # rileytestut/Roxas - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 20
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/rileytestut/Roxas)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 84 | 20 | 
 | 2022-10-07 | 83 | 20 | 
 | 2022-10-06 | 82 | 20 | 
 | 2022-10-05 | 82 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 83 | 20 | 
 | 2022-09-10 | 83 | 20 | 
 | 2022-09-09 | 83 | 20 | 
-| 2022-09-08 | 83 | 20 | 
 

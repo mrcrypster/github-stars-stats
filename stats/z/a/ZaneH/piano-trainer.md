@@ -1,10 +1,10 @@
 # ZaneH/piano-trainer - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 31
 
-★ Stars: 1101
+★ Stars: 1102
 
 [Open repository](https://github.com/ZaneH/piano-trainer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1102 | 31 | 
 | 2022-10-08 | 1101 | 31 | 
 | 2022-10-06 | 1100 | 31 | 
 | 2022-10-05 | 1098 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 1070 | 30 | 
 | 2022-09-10 | 1067 | 30 | 
 | 2022-09-09 | 1066 | 30 | 
-| 2022-09-08 | 1062 | 29 | 
 

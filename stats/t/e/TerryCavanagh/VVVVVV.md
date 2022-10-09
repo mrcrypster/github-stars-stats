@@ -1,6 +1,6 @@
 # TerryCavanagh/VVVVVV - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 512
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 6478 | 512 | 
 | 2022-10-07 | 6478 | 512 | 
 | 2022-10-06 | 6476 | 512 | 
 | 2022-10-05 | 6476 | 512 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 6467 | 514 | 
 | 2022-09-11 | 6466 | 514 | 
 | 2022-09-10 | 6466 | 514 | 
-| 2022-09-09 | 6466 | 514 | 
 

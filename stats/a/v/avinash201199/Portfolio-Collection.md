@@ -1,8 +1,8 @@
 # avinash201199/Portfolio-Collection - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 49 | 61 | 
 | 2022-10-07 | 49 | 60 | 
 | 2022-10-06 | 48 | 54 | 
 

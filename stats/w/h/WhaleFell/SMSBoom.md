@@ -1,10 +1,10 @@
 # WhaleFell/SMSBoom - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 2254
+☋ Forks: 2260
 
-★ Stars: 8657
+★ Stars: 8670
 
 [Open repository](https://github.com/WhaleFell/SMSBoom)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 8670 | 2260 | 
 | 2022-10-07 | 8657 | 2254 | 
 | 2022-10-06 | 8644 | 2253 | 
 | 2022-10-05 | 8637 | 2253 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 7588 | 1991 | 
 | 2022-09-10 | 7577 | 1989 | 
 | 2022-09-09 | 7559 | 1988 | 
-| 2022-09-08 | 7543 | 1982 | 
 

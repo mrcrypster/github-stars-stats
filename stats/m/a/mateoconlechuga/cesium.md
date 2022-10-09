@@ -1,8 +1,8 @@
 # mateoconlechuga/cesium - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 151
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 151 | 12 | 
 | 2022-10-07 | 151 | 11 | 
 | 2022-10-06 | 151 | 11 | 
 | 2022-10-05 | 151 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 148 | 10 | 
 | 2022-09-10 | 145 | 10 | 
 | 2022-09-09 | 145 | 10 | 
-| 2022-09-08 | 145 | 10 | 
 

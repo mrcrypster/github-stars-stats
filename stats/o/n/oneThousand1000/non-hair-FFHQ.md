@@ -1,6 +1,6 @@
 # oneThousand1000/non-hair-FFHQ - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 341 | 21 | 
 | 2022-10-07 | 341 | 21 | 
 | 2022-10-06 | 341 | 21 | 
 | 2022-10-05 | 341 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 340 | 21 | 
 | 2022-09-10 | 339 | 21 | 
 | 2022-09-09 | 339 | 21 | 
-| 2022-09-08 | 339 | 21 | 
 

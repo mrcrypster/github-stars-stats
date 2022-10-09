@@ -1,6 +1,6 @@
 # transistorsoft/react-native-background-geolocation - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 407
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2246 | 407 | 
 | 2022-10-07 | 2246 | 407 | 
 | 2022-10-06 | 2245 | 407 | 
 | 2022-10-05 | 2244 | 407 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 2234 | 408 | 
 | 2022-09-11 | 2234 | 408 | 
 | 2022-09-09 | 2234 | 408 | 
-| 2022-09-08 | 2233 | 408 | 
 

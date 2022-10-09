@@ -1,10 +1,10 @@
 # goatfungus/NMSSaveEditor - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 164
+☋ Forks: 165
 
-★ Stars: 1043
+★ Stars: 1049
 
 [Open repository](https://github.com/goatfungus/NMSSaveEditor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1049 | 165 | 
 | 2022-10-07 | 1043 | 164 | 
 | 2022-10-06 | 1040 | 164 | 
 | 2022-10-05 | 1041 | 164 | 

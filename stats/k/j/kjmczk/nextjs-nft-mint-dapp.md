@@ -1,8 +1,8 @@
 # kjmczk/nextjs-nft-mint-dapp - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 79
+☋ Forks: 80
 
 ★ Stars: 146
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 146 | 80 | 
 | 2022-10-07 | 146 | 79 | 
 | 2022-10-06 | 146 | 79 | 
 | 2022-10-05 | 146 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 137 | 74 | 
 | 2022-09-10 | 136 | 74 | 
 | 2022-09-09 | 137 | 74 | 
-| 2022-09-08 | 137 | 74 | 
 

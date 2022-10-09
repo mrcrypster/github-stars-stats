@@ -1,10 +1,10 @@
 # halfrost/LeetCode-Go - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 4916
+☋ Forks: 4920
 
-★ Stars: 26755
+★ Stars: 26767
 
 [Open repository](https://github.com/halfrost/LeetCode-Go)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 26767 | 4920 | 
 | 2022-10-07 | 26755 | 4916 | 
 | 2022-10-06 | 26753 | 4914 | 
 | 2022-10-05 | 26745 | 4912 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 26562 | 4894 | 
 | 2022-09-11 | 26545 | 4892 | 
 | 2022-09-10 | 26540 | 4891 | 
-| 2022-09-09 | 26531 | 4886 | 
 

@@ -1,6 +1,6 @@
 # libp2p/go-libp2p - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 809
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 4767 | 809 | 
 | 2022-10-07 | 4767 | 809 | 
 | 2022-10-06 | 4764 | 809 | 
 | 2022-10-05 | 4763 | 809 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 4720 | 786 | 
 | 2022-09-10 | 4719 | 786 | 
 | 2022-09-09 | 4717 | 786 | 
-| 2022-09-08 | 4716 | 787 | 
 

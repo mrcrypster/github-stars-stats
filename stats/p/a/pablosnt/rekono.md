@@ -1,10 +1,10 @@
 # pablosnt/rekono - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 30
 
-★ Stars: 170
+★ Stars: 173
 
 [Open repository](https://github.com/pablosnt/rekono)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 173 | 30 | 
 | 2022-10-07 | 170 | 30 | 
 | 2022-10-06 | 169 | 30 | 
 | 2022-10-05 | 168 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 144 | 28 | 
 | 2022-09-10 | 144 | 28 | 
 | 2022-09-09 | 144 | 28 | 
-| 2022-09-08 | 140 | 26 | 
 

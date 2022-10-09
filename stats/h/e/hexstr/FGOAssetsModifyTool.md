@@ -1,10 +1,10 @@
 # hexstr/FGOAssetsModifyTool - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 55
 
-★ Stars: 362
+★ Stars: 363
 
 [Open repository](https://github.com/hexstr/FGOAssetsModifyTool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 363 | 55 | 
 | 2022-10-07 | 362 | 55 | 
 | 2022-10-06 | 361 | 55 | 
 | 2022-10-05 | 359 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 341 | 52 | 
 | 2022-09-10 | 339 | 52 | 
 | 2022-09-09 | 338 | 51 | 
-| 2022-09-08 | 336 | 51 | 
 

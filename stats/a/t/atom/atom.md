@@ -1,8 +1,8 @@
 # atom/atom - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 17931
+☋ Forks: 17937
 
 ★ Stars: 58570
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 58570 | 17937 | 
 | 2022-10-07 | 58570 | 17931 | 
 | 2022-10-06 | 58567 | 17930 | 
 | 2022-10-05 | 58563 | 17928 | 

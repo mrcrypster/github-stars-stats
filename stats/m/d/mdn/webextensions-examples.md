@@ -1,8 +1,8 @@
 # mdn/webextensions-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 2474
+☋ Forks: 2473
 
 ★ Stars: 3365
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3365 | 2473 | 
 | 2022-10-07 | 3365 | 2474 | 
 | 2022-10-06 | 3363 | 2474 | 
 | 2022-10-05 | 3363 | 2474 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 3347 | 2453 | 
 | 2022-09-10 | 3344 | 2453 | 
 | 2022-09-09 | 3342 | 2452 | 
-| 2022-09-08 | 3340 | 2451 | 
 

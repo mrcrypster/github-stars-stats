@@ -1,6 +1,6 @@
 # sunface/a-repo-to-be-used - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 130 | 9 | 
 | 2022-10-08 | 130 | 9 | 
 | 2022-10-06 | 130 | 9 | 
 | 2022-10-05 | 130 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 131 | 9 | 
 | 2022-09-10 | 131 | 9 | 
 | 2022-09-09 | 131 | 9 | 
-| 2022-09-08 | 131 | 9 | 
 

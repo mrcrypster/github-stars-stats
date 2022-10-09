@@ -1,6 +1,6 @@
 # ivannotes/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2 | - | 
+| 2022-10-08 | 2 | - | 
 | 2022-10-07 | 2 | - | 
 | 2022-10-06 | 2 | - | 
 | 2022-10-05 | 2 | - | 

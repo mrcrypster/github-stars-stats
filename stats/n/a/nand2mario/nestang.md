@@ -1,10 +1,10 @@
 # nand2mario/nestang - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 34
+★ Stars: 38
 
 [Open repository](https://github.com/nand2mario/nestang)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 38 | 5 | 
 | 2022-10-07 | 34 | 3 | 
 | 2022-10-06 | 27 | 1 | 
 | 2022-10-05 | 27 | 1 | 

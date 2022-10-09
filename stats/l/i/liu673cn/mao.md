@@ -1,10 +1,10 @@
 # liu673cn/mao - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 427
+☋ Forks: 435
 
-★ Stars: 1105
+★ Stars: 1120
 
 [Open repository](https://github.com/liu673cn/mao)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1120 | 435 | 
 | 2022-10-07 | 1105 | 427 | 
 | 2022-10-06 | 1096 | 423 | 
 | 2022-10-05 | 1089 | 420 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 851 | 348 | 
 | 2022-09-10 | 841 | 345 | 
 | 2022-09-09 | 839 | 344 | 
-| 2022-09-08 | 833 | 341 | 
 

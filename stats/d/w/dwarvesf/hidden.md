@@ -1,10 +1,10 @@
 # dwarvesf/hidden - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 212
 
-★ Stars: 7061
+★ Stars: 7063
 
 [Open repository](https://github.com/dwarvesf/hidden)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 7063 | 212 | 
 | 2022-10-07 | 7061 | 212 | 
 | 2022-10-06 | 7059 | 212 | 
 | 2022-10-05 | 7059 | 212 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 6921 | 209 | 
 | 2022-09-10 | 6914 | 209 | 
 | 2022-09-09 | 6908 | 209 | 
-| 2022-09-08 | 6894 | 209 | 
 

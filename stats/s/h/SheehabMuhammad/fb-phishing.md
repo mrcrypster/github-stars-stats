@@ -1,6 +1,6 @@
 # SheehabMuhammad/fb-phishing - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 199 | 309 | 
 | 2022-10-08 | 199 | 309 | 
 | 2022-10-07 | 198 | 309 | 
 | 2022-10-06 | 198 | 309 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 196 | 307 | 
 | 2022-09-10 | 196 | 307 | 
 | 2022-09-09 | 196 | 307 | 
-| 2022-09-08 | 196 | 307 | 
 

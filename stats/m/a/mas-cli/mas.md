@@ -1,6 +1,6 @@
 # mas-cli/mas - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 237
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 9231 | 237 | 
 | 2022-10-08 | 9231 | 237 | 
 | 2022-10-07 | 9232 | 237 | 
 | 2022-10-05 | 9230 | 237 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 9176 | 236 | 
 | 2022-09-10 | 9176 | 236 | 
 | 2022-09-09 | 9175 | 236 | 
-| 2022-09-08 | 9174 | 236 | 
 

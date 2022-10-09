@@ -1,10 +1,10 @@
 # joebew42/study-path - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 280
 
-★ Stars: 2217
+★ Stars: 2219
 
 [Open repository](https://github.com/joebew42/study-path)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2219 | 280 | 
 | 2022-10-07 | 2217 | 280 | 
 | 2022-10-06 | 2215 | 280 | 
 | 2022-10-05 | 2214 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2196 | 280 | 
 | 2022-09-10 | 2193 | 280 | 
 | 2022-09-09 | 2191 | 279 | 
-| 2022-09-08 | 2189 | 279 | 
 

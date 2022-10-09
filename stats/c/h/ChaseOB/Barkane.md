@@ -1,6 +1,6 @@
 # ChaseOB/Barkane - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3 | 17 | 
 | 2022-10-07 | 3 | 17 | 
 | 2022-10-06 | 3 | 17 | 
 | 2022-10-05 | 3 | 15 | 

@@ -1,10 +1,10 @@
 # blendin/3snake - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 106
 
-★ Stars: 627
+★ Stars: 628
 
 [Open repository](https://github.com/blendin/3snake)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 628 | 106 | 
 | 2022-10-07 | 627 | 106 | 
 | 2022-10-06 | 627 | 106 | 
 | 2022-10-05 | 627 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 620 | 103 | 
 | 2022-09-10 | 620 | 103 | 
 | 2022-09-09 | 619 | 103 | 
-| 2022-09-08 | 619 | 103 | 
 

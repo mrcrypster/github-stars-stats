@@ -1,6 +1,6 @@
 # Narasimha1997/boson-lang - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 92 | 5 | 
 | 2022-10-07 | 92 | 5 | 
 | 2022-10-06 | 92 | 5 | 
 | 2022-10-05 | 92 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 91 | 5 | 
 | 2022-09-10 | 91 | 5 | 
 | 2022-09-09 | 91 | 5 | 
-| 2022-09-08 | 90 | 5 | 
 

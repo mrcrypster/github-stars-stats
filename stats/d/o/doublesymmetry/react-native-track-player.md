@@ -1,10 +1,10 @@
 # doublesymmetry/react-native-track-player - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 840
+☋ Forks: 841
 
-★ Stars: 2455
+★ Stars: 2456
 
 [Open repository](https://github.com/doublesymmetry/react-native-track-player)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2456 | 841 | 
 | 2022-10-07 | 2455 | 840 | 
 | 2022-10-06 | 2453 | 840 | 
 | 2022-10-05 | 2451 | 839 | 

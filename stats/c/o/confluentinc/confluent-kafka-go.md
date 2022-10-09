@@ -1,10 +1,10 @@
 # confluentinc/confluent-kafka-go - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 553
+☋ Forks: 554
 
-★ Stars: 3609
+★ Stars: 3610
 
 [Open repository](https://github.com/confluentinc/confluent-kafka-go)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3610 | 554 | 
 | 2022-10-07 | 3609 | 553 | 
 | 2022-10-06 | 3606 | 552 | 
 | 2022-10-05 | 3604 | 552 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3561 | 547 | 
 | 2022-09-10 | 3560 | 547 | 
 | 2022-09-09 | 3560 | 547 | 
-| 2022-09-08 | 3559 | 546 | 
 

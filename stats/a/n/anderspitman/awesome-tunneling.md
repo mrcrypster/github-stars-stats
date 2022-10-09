@@ -1,10 +1,10 @@
 # anderspitman/awesome-tunneling - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 293
 
-★ Stars: 6414
+★ Stars: 6436
 
 [Open repository](https://github.com/anderspitman/awesome-tunneling)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 6436 | 293 | 
 | 2022-10-07 | 6414 | 293 | 
 | 2022-10-06 | 6392 | 292 | 
 | 2022-10-05 | 6370 | 291 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 6173 | 270 | 
 | 2022-09-10 | 6167 | 270 | 
 | 2022-09-09 | 6153 | 270 | 
-| 2022-09-08 | 6142 | 270 | 
 

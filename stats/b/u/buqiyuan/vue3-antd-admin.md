@@ -1,10 +1,10 @@
 # buqiyuan/vue3-antd-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 530
+☋ Forks: 531
 
-★ Stars: 2080
+★ Stars: 2082
 
 [Open repository](https://github.com/buqiyuan/vue3-antd-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2082 | 531 | 
 | 2022-10-07 | 2080 | 530 | 
 | 2022-10-06 | 2079 | 530 | 
 | 2022-10-05 | 2076 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1995 | 511 | 
 | 2022-09-10 | 1995 | 510 | 
 | 2022-09-09 | 1994 | 510 | 
-| 2022-09-08 | 1991 | 510 | 
 

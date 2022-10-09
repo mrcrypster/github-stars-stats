@@ -1,10 +1,10 @@
 # elsa-workflows/elsa-core - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 735
+☋ Forks: 737
 
-★ Stars: 3767
+★ Stars: 3776
 
 [Open repository](https://github.com/elsa-workflows/elsa-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3776 | 737 | 
 | 2022-10-07 | 3767 | 735 | 
 | 2022-10-06 | 3763 | 735 | 
 | 2022-10-05 | 3759 | 734 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3698 | 721 | 
 | 2022-09-10 | 3697 | 720 | 
 | 2022-09-09 | 3693 | 720 | 
-| 2022-09-08 | 3692 | 719 | 
 

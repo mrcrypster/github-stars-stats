@@ -1,6 +1,6 @@
 # wireapp/wire-android - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 499
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2537 | 499 | 
 | 2022-10-07 | 2537 | 499 | 
 | 2022-10-06 | 2537 | 499 | 
 | 2022-10-05 | 2537 | 499 | 

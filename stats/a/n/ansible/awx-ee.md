@@ -1,8 +1,8 @@
 # ansible/awx-ee - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 85
+☋ Forks: 84
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 57 | 84 | 
 | 2022-10-08 | 57 | 85 | 
 | 2022-10-07 | 57 | 85 | 
 | 2022-10-05 | 57 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 54 | 81 | 
 | 2022-09-10 | 54 | 81 | 
 | 2022-09-09 | 53 | 81 | 
-| 2022-09-08 | 53 | 81 | 
 

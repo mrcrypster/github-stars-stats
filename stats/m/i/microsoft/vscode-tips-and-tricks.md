@@ -1,10 +1,10 @@
 # microsoft/vscode-tips-and-tricks - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 708
 
-★ Stars: 8867
+★ Stars: 8868
 
 [Open repository](https://github.com/microsoft/vscode-tips-and-tricks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 8868 | 708 | 
 | 2022-10-07 | 8867 | 708 | 
 | 2022-10-06 | 8868 | 709 | 
 | 2022-10-05 | 8867 | 709 | 

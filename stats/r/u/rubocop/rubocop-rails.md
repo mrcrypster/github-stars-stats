@@ -1,6 +1,6 @@
 # rubocop/rubocop-rails - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 184
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 630 | 184 | 
 | 2022-10-07 | 630 | 184 | 
 | 2022-10-06 | 630 | 183 | 
 | 2022-10-05 | 630 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 623 | 182 | 
 | 2022-09-10 | 623 | 182 | 
 | 2022-09-09 | 623 | 182 | 
-| 2022-09-08 | 623 | 181 | 
 

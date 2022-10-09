@@ -1,6 +1,6 @@
 # danymat/neogen - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 552 | 34 | 
 | 2022-10-07 | 552 | 34 | 
 | 2022-10-06 | 551 | 34 | 
 | 2022-10-05 | 548 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 535 | 31 | 
 | 2022-09-11 | 535 | 31 | 
 | 2022-09-10 | 535 | 31 | 
-| 2022-09-09 | 535 | 31 | 
 

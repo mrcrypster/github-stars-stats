@@ -1,10 +1,10 @@
 # ververica/flink-sql-cookbook - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 144
 
-★ Stars: 578
+★ Stars: 579
 
 [Open repository](https://github.com/ververica/flink-sql-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 579 | 144 | 
 | 2022-10-07 | 578 | 144 | 
 | 2022-10-06 | 577 | 144 | 
 | 2022-10-05 | 576 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 565 | 141 | 
 | 2022-09-10 | 565 | 141 | 
 | 2022-09-09 | 565 | 141 | 
-| 2022-09-08 | 564 | 141 | 
 

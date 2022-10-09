@@ -1,6 +1,6 @@
 # albingroen/quick.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 222 | 31 | 
 | 2022-10-08 | 222 | 31 | 
 | 2022-10-06 | 222 | 31 | 
 | 2022-10-05 | 221 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 216 | 31 | 
 | 2022-09-10 | 216 | 31 | 
 | 2022-09-09 | 214 | 31 | 
-| 2022-09-08 | 213 | 31 | 
 

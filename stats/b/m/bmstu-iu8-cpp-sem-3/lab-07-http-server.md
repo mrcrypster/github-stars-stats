@@ -1,6 +1,6 @@
 # bmstu-iu8-cpp-sem-3/lab-07-http-server - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | - | 9 | 
 | 2022-10-08 | - | 9 | 
 | 2022-10-06 | - | 9 | 
 | 2022-10-05 | - | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | - | 9 | 
 | 2022-09-10 | - | 9 | 
 | 2022-09-09 | - | 9 | 
-| 2022-09-08 | - | 9 | 
 

@@ -1,6 +1,6 @@
 # getsentry/sentry-ruby - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 437
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 845 | 437 | 
 | 2022-10-07 | 845 | 437 | 
 | 2022-10-06 | 845 | 437 | 
 | 2022-10-05 | 845 | 436 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 842 | 435 | 
 | 2022-09-11 | 842 | 435 | 
 | 2022-09-10 | 842 | 435 | 
-| 2022-09-09 | 842 | 435 | 
 

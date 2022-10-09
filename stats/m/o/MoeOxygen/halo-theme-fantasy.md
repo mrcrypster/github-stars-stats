@@ -1,6 +1,6 @@
 # MoeOxygen/halo-theme-fantasy - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 12 | 1 | 
 | 2022-10-07 | 12 | 1 | 
 | 2022-10-06 | 12 | 1 | 
 | 2022-10-05 | 12 | 1 | 

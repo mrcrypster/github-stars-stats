@@ -1,10 +1,10 @@
 # elixir-desktop/desktop - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 31
 
-★ Stars: 1075
+★ Stars: 1076
 
 [Open repository](https://github.com/elixir-desktop/desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1076 | 31 | 
 | 2022-10-07 | 1075 | 31 | 
 | 2022-10-06 | 1074 | 31 | 
 | 2022-10-05 | 1071 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1048 | 29 | 
 | 2022-09-10 | 1047 | 29 | 
 | 2022-09-09 | 1046 | 29 | 
-| 2022-09-08 | 1045 | 29 | 
 

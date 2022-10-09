@@ -1,10 +1,10 @@
 # nymanjens/quizmaster - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 17
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/nymanjens/quizmaster)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 125 | 17 | 
 | 2022-10-08 | 124 | 17 | 
 | 2022-10-07 | 124 | 17 | 
 | 2022-10-06 | 124 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 119 | 17 | 
 | 2022-09-10 | 119 | 17 | 
 | 2022-09-09 | 119 | 17 | 
-| 2022-09-08 | 118 | 17 | 
 

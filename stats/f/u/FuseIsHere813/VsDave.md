@@ -1,10 +1,10 @@
 # FuseIsHere813/VsDave - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 100
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/FuseIsHere813/VsDave)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 32 | 100 | 
 | 2022-10-07 | 31 | 100 | 
 | 2022-10-06 | 31 | 99 | 
 | 2022-10-05 | 31 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 30 | 94 | 
 | 2022-09-10 | 30 | 94 | 
 | 2022-09-09 | 30 | 94 | 
-| 2022-09-08 | 30 | 94 | 
 

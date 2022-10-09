@@ -1,6 +1,6 @@
 # SvenTiigi/WhatsNewKit - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2665 | 141 | 
 | 2022-10-07 | 2665 | 141 | 
 | 2022-10-06 | 2665 | 141 | 
 | 2022-10-05 | 2665 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2651 | 138 | 
 | 2022-09-10 | 2649 | 138 | 
 | 2022-09-09 | 2649 | 138 | 
-| 2022-09-08 | 2648 | 138 | 
 

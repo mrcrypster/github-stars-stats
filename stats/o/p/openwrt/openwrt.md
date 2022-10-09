@@ -1,10 +1,10 @@
 # openwrt/openwrt - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 7801
 
-★ Stars: 12806
+★ Stars: 12807
 
 [Open repository](https://github.com/openwrt/openwrt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 12807 | 7801 | 
 | 2022-10-07 | 12806 | 7801 | 
 | 2022-10-06 | 12798 | 7798 | 
 | 2022-10-05 | 12788 | 7791 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 12575 | 7709 | 
 | 2022-09-10 | 12544 | 7710 | 
 | 2022-09-09 | 12533 | 7708 | 
-| 2022-09-08 | 12522 | 7700 | 
 

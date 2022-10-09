@@ -1,10 +1,10 @@
 # Qiskit/qiskit-terra - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1774
+☋ Forks: 1776
 
-★ Stars: 3394
+★ Stars: 3393
 
 [Open repository](https://github.com/Qiskit/qiskit-terra)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3393 | 1776 | 
 | 2022-10-07 | 3394 | 1774 | 
 | 2022-10-06 | 3393 | 1774 | 
 | 2022-10-05 | 3393 | 1773 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3379 | 1760 | 
 | 2022-09-10 | 3379 | 1760 | 
 | 2022-09-09 | 3378 | 1761 | 
-| 2022-09-08 | 3376 | 1758 | 
 

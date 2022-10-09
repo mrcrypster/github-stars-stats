@@ -1,10 +1,10 @@
 # JMSTV/jmstv.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 31
 
-★ Stars: 260
+★ Stars: 263
 
 [Open repository](https://github.com/JMSTV/jmstv.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 263 | 31 | 
 | 2022-10-08 | 260 | 31 | 
 | 2022-10-06 | 259 | 31 | 
 | 2022-10-05 | 258 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 208 | 26 | 
 | 2022-09-10 | 207 | 26 | 
 | 2022-09-09 | 207 | 26 | 
-| 2022-09-08 | 206 | 26 | 
 

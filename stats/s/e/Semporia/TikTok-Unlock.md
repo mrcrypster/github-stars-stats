@@ -1,10 +1,10 @@
 # Semporia/TikTok-Unlock - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 478
 
-★ Stars: 4807
+★ Stars: 4818
 
 [Open repository](https://github.com/Semporia/TikTok-Unlock)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 4818 | 478 | 
 | 2022-10-07 | 4807 | 478 | 
 | 2022-10-06 | 4799 | 478 | 
 | 2022-10-05 | 4790 | 478 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 4540 | 470 | 
 | 2022-09-10 | 4528 | 470 | 
 | 2022-09-09 | 4524 | 470 | 
-| 2022-09-08 | 4511 | 470 | 
 

@@ -1,10 +1,10 @@
 # proafxin/antique_book - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/proafxin/antique_book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 16 | 1 | 
 | 2022-10-07 | 15 | 1 | 
 | 2022-10-06 | 15 | 1 | 
 | 2022-10-05 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 14 | 1 | 
 | 2022-09-10 | 14 | 1 | 
 | 2022-09-09 | 14 | 1 | 
-| 2022-09-08 | 14 | 1 | 
 

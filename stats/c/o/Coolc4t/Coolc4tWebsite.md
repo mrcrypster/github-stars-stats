@@ -1,6 +1,6 @@
 # Coolc4t/Coolc4tWebsite - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | - | 9 | 
 | 2022-10-07 | - | 9 | 
 | 2022-10-06 | - | 9 | 
 | 2022-10-05 | - | 9 | 

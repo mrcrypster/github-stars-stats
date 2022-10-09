@@ -1,8 +1,8 @@
 # Pocco81/auto-save.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 286
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 286 | 39 | 
 | 2022-10-07 | 286 | 38 | 
 | 2022-10-06 | 284 | 38 | 
 | 2022-10-05 | 284 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 276 | 36 | 
 | 2022-09-10 | 276 | 35 | 
 | 2022-09-09 | 276 | 35 | 
-| 2022-09-08 | 275 | 35 | 
 

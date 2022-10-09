@@ -1,6 +1,6 @@
 # matthewfx/sleek_circular_slider - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 462 | 78 | 
 | 2022-10-07 | 462 | 78 | 
 | 2022-10-06 | 462 | 77 | 
 | 2022-10-05 | 462 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 460 | 75 | 
 | 2022-09-11 | 460 | 75 | 
 | 2022-09-10 | 460 | 75 | 
-| 2022-09-09 | 460 | 74 | 
 

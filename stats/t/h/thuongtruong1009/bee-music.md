@@ -1,10 +1,10 @@
 # thuongtruong1009/bee-music - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 20
 
-★ Stars: 123
+★ Stars: 124
 
 [Open repository](https://github.com/thuongtruong1009/bee-music)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 124 | 20 | 
 | 2022-10-07 | 123 | 20 | 
 | 2022-10-06 | 123 | 20 | 
 | 2022-10-05 | 123 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 121 | 18 | 
 | 2022-09-10 | 121 | 18 | 
 | 2022-09-09 | 121 | 18 | 
-| 2022-09-08 | 121 | 19 | 
 

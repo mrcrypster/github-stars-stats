@@ -1,10 +1,10 @@
 # juewuy/ShellClash - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 464
 
-★ Stars: 3045
+★ Stars: 3053
 
 [Open repository](https://github.com/juewuy/ShellClash)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3053 | 464 | 
 | 2022-10-07 | 3045 | 464 | 
 | 2022-10-06 | 3041 | 464 | 
 | 2022-10-05 | 3036 | 464 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2914 | 446 | 
 | 2022-09-10 | 2909 | 446 | 
 | 2022-09-09 | 2907 | 446 | 
-| 2022-09-08 | 2898 | 445 | 
 

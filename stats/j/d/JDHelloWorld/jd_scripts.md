@@ -1,10 +1,10 @@
 # JDHelloWorld/jd_scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1161
+☋ Forks: 1162
 
-★ Stars: 2239
+★ Stars: 2238
 
 [Open repository](https://github.com/JDHelloWorld/jd_scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2238 | 1162 | 
 | 2022-10-07 | 2239 | 1161 | 
 | 2022-10-06 | 2237 | 1160 | 
 | 2022-10-05 | 2238 | 1160 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 2223 | 1157 | 
 | 2022-09-10 | 2222 | 1157 | 
 | 2022-09-09 | 2221 | 1157 | 
-| 2022-09-08 | 2221 | 1157 | 
 

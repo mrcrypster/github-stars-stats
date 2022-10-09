@@ -1,6 +1,6 @@
 # quantumlib/unitary - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 13 | 13 | 
 | 2022-10-08 | 13 | 13 | 
 | 2022-10-06 | 13 | 13 | 
 | 2022-10-05 | 13 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 13 | 13 | 
 | 2022-09-10 | 12 | 12 | 
 | 2022-09-09 | 12 | 12 | 
-| 2022-09-08 | 12 | 12 | 
 

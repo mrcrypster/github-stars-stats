@@ -1,10 +1,10 @@
 # loomio/loomio - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 661
+☋ Forks: 662
 
-★ Stars: 2127
+★ Stars: 2128
 
 [Open repository](https://github.com/loomio/loomio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2128 | 662 | 
 | 2022-10-07 | 2127 | 661 | 
 | 2022-10-06 | 2127 | 661 | 
 | 2022-10-05 | 2127 | 661 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2121 | 661 | 
 | 2022-09-10 | 2121 | 661 | 
 | 2022-09-09 | 2121 | 661 | 
-| 2022-09-08 | 2121 | 661 | 
 

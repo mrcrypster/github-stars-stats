@@ -1,10 +1,10 @@
 # serde-rs/serde - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 560
+☋ Forks: 561
 
-★ Stars: 6132
+★ Stars: 6136
 
 [Open repository](https://github.com/serde-rs/serde)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 6136 | 561 | 
 | 2022-10-07 | 6132 | 560 | 
 | 2022-10-06 | 6126 | 560 | 
 | 2022-10-05 | 6118 | 560 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 5993 | 546 | 
 | 2022-09-10 | 5990 | 546 | 
 | 2022-09-09 | 5985 | 546 | 
-| 2022-09-08 | 5984 | 546 | 
 

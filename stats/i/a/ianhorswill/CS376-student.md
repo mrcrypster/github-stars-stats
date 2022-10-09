@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 08
 
 ☋ Forks: 26
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/ianhorswill/CS376-student)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-08 | 7 | 26 | 
+| 2022-10-08 | 8 | 26 | 
 | 2022-10-07 | 7 | 26 | 
 | 2022-10-06 | 7 | 26 | 
 | 2022-10-05 | 7 | 26 | 

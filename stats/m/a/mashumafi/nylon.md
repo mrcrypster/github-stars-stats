@@ -1,10 +1,10 @@
 # mashumafi/nylon - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 2
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/mashumafi/nylon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 42 | 2 | 
 | 2022-10-07 | 41 | 2 | 
 | 2022-10-06 | 41 | 2 | 
 | 2022-10-05 | 40 | 2 | 

@@ -1,8 +1,8 @@
 # fuxialexander/org-pdftools - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 253 | 31 | 
 | 2022-10-07 | 253 | 30 | 
 | 2022-10-06 | 252 | 30 | 
 | 2022-10-05 | 252 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 249 | 30 | 
 | 2022-09-10 | 248 | 30 | 
 | 2022-09-09 | 248 | 30 | 
-| 2022-09-08 | 248 | 30 | 
 

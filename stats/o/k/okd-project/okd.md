@@ -1,10 +1,10 @@
 # okd-project/okd - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 257
 
-★ Stars: 1325
+★ Stars: 1326
 
 [Open repository](https://github.com/okd-project/okd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1326 | 257 | 
 | 2022-10-07 | 1325 | 257 | 
 | 2022-10-06 | 1325 | 256 | 
 | 2022-10-05 | 1324 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1313 | 252 | 
 | 2022-09-10 | 1313 | 252 | 
 | 2022-09-09 | 1313 | 252 | 
-| 2022-09-08 | 1312 | 252 | 
 

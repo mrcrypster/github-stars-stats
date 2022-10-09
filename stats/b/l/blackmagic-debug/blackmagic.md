@@ -1,10 +1,10 @@
 # blackmagic-debug/blackmagic - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 620
 
-★ Stars: 2133
+★ Stars: 2135
 
 [Open repository](https://github.com/blackmagic-debug/blackmagic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2135 | 620 | 
 | 2022-10-07 | 2133 | 620 | 
 | 2022-10-06 | 2132 | 620 | 
 | 2022-10-05 | 2130 | 620 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2095 | 611 | 
 | 2022-09-10 | 2094 | 611 | 
 | 2022-09-09 | 2094 | 611 | 
-| 2022-09-08 | 2094 | 610 | 
 

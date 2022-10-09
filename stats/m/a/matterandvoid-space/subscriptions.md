@@ -1,6 +1,6 @@
 # matterandvoid-space/subscriptions - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 31 | - | 
 | 2022-10-07 | 31 | - | 
 | 2022-10-06 | 31 | - | 
 | 2022-10-05 | 31 | - | 

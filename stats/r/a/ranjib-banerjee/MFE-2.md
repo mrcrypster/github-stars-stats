@@ -1,6 +1,6 @@
 # ranjib-banerjee/MFE-2 - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1 | 32 | 
 | 2022-10-07 | 1 | 32 | 
 | 2022-10-06 | 1 | 32 | 
 | 2022-10-05 | 1 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 1 | 33 | 
 | 2022-09-10 | 1 | 33 | 
 | 2022-09-09 | 1 | 33 | 
-| 2022-09-08 | 1 | 33 | 
 

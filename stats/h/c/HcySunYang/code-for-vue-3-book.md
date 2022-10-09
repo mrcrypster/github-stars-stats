@@ -1,6 +1,6 @@
 # HcySunYang/code-for-vue-3-book - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 426 | 109 | 
 | 2022-10-07 | 426 | 109 | 
 | 2022-10-06 | 426 | 109 | 
 | 2022-10-05 | 426 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 409 | 105 | 
 | 2022-09-10 | 409 | 105 | 
 | 2022-09-09 | 408 | 103 | 
-| 2022-09-08 | 407 | 102 | 
 

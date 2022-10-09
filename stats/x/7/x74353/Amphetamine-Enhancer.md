@@ -1,6 +1,6 @@
 # x74353/Amphetamine-Enhancer - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 679 | 29 | 
 | 2022-10-07 | 679 | 29 | 
 | 2022-10-06 | 679 | 29 | 
 | 2022-10-05 | 678 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 666 | 29 | 
 | 2022-09-10 | 666 | 29 | 
 | 2022-09-09 | 666 | 29 | 
-| 2022-09-08 | 665 | 29 | 
 

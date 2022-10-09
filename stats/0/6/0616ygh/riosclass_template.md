@@ -1,6 +1,6 @@
 # 0616ygh/riosclass_template - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | - | 8 | 
 | 2022-10-07 | - | 8 | 
 | 2022-10-06 | - | 8 | 
 | 2022-10-05 | - | 8 | 

@@ -1,10 +1,10 @@
 # denoland/roll-your-own-javascript-runtime - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 9
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/denoland/roll-your-own-javascript-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 153 | 9 | 
 | 2022-10-07 | 152 | 9 | 
 | 2022-10-06 | 152 | 9 | 
 | 2022-10-05 | 152 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 150 | 9 | 
 | 2022-09-10 | 150 | 9 | 
 | 2022-09-09 | 149 | 9 | 
-| 2022-09-08 | 149 | 9 | 
 

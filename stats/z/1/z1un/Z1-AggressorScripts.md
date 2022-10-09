@@ -1,10 +1,10 @@
 # z1un/Z1-AggressorScripts - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 116
 
-★ Stars: 500
+★ Stars: 501
 
 [Open repository](https://github.com/z1un/Z1-AggressorScripts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 501 | 116 | 
 | 2022-10-07 | 500 | 116 | 
 | 2022-10-06 | 500 | 116 | 
 | 2022-10-05 | 500 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 498 | 116 | 
 | 2022-09-10 | 495 | 116 | 
 | 2022-09-09 | 495 | 116 | 
-| 2022-09-08 | 495 | 116 | 
 

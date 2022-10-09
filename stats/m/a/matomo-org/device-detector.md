@@ -1,6 +1,6 @@
 # matomo-org/device-detector - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 415
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2316 | 415 | 
 | 2022-10-07 | 2316 | 415 | 
 | 2022-10-06 | 2315 | 414 | 
 | 2022-10-05 | 2314 | 414 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2295 | 411 | 
 | 2022-09-10 | 2295 | 411 | 
 | 2022-09-09 | 2295 | 411 | 
-| 2022-09-08 | 2295 | 410 | 
 

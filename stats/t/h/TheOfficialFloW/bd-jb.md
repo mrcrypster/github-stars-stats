@@ -1,8 +1,8 @@
 # TheOfficialFloW/bd-jb - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 16
+☋ Forks: 15
 
 ★ Stars: 163
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 163 | 15 | 
 | 2022-10-07 | 163 | 16 | 
 | 2022-10-06 | 164 | 16 | 
 | 2022-10-05 | 163 | 15 | 

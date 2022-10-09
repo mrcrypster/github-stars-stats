@@ -1,8 +1,8 @@
 # pypa/pipenv - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1769
+☋ Forks: 1770
 
 ★ Stars: 23340
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 23340 | 1770 | 
 | 2022-10-07 | 23340 | 1769 | 
 | 2022-10-06 | 23337 | 1769 | 
 | 2022-10-05 | 23333 | 1770 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 23252 | 1765 | 
 | 2022-09-10 | 23247 | 1765 | 
 | 2022-09-09 | 23244 | 1765 | 
-| 2022-09-08 | 23241 | 1765 | 
 

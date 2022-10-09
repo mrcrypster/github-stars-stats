@@ -1,6 +1,6 @@
 # matthewfeickert/talk-doepy-python-exchange-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6 | - | 
 | 2022-10-08 | 6 | - | 
 | 2022-10-07 | 6 | - | 
 | 2022-10-05 | 6 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 6 | - | 
 | 2022-09-10 | 6 | - | 
 | 2022-09-09 | 6 | - | 
-| 2022-09-08 | 6 | - | 
 

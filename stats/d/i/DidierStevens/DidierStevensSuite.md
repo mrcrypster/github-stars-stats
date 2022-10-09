@@ -1,10 +1,10 @@
 # DidierStevens/DidierStevensSuite - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 436
+☋ Forks: 439
 
-★ Stars: 1393
+★ Stars: 1394
 
 [Open repository](https://github.com/DidierStevens/DidierStevensSuite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1394 | 439 | 
 | 2022-10-07 | 1393 | 436 | 
 | 2022-10-06 | 1392 | 436 | 
 | 2022-10-05 | 1391 | 436 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1367 | 431 | 
 | 2022-09-10 | 1365 | 431 | 
 | 2022-09-09 | 1364 | 430 | 
-| 2022-09-08 | 1364 | 430 | 
 

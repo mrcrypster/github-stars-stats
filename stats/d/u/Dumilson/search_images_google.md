@@ -1,6 +1,6 @@
 # Dumilson/search_images_google - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 11 | 2 | 
 | 2022-10-07 | 11 | 2 | 
 | 2022-10-06 | 11 | 2 | 
 | 2022-10-05 | 11 | 2 | 

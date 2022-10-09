@@ -1,6 +1,6 @@
 # ivpusic/react-native-image-crop-picker - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 1421
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 5575 | 1421 | 
 | 2022-10-07 | 5575 | 1421 | 
 | 2022-10-06 | 5575 | 1421 | 
 | 2022-10-05 | 5573 | 1421 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 5548 | 1415 | 
 | 2022-09-10 | 5548 | 1415 | 
 | 2022-09-09 | 5546 | 1415 | 
-| 2022-09-08 | 5545 | 1415 | 
 

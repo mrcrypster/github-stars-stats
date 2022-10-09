@@ -1,10 +1,10 @@
 # beeyev/Mikrotik-RouterOS-automatic-backup-and-update - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 60
+☋ Forks: 61
 
-★ Stars: 250
+★ Stars: 252
 
 [Open repository](https://github.com/beeyev/Mikrotik-RouterOS-automatic-backup-and-update)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 252 | 61 | 
 | 2022-10-07 | 250 | 60 | 
 | 2022-10-06 | 249 | 60 | 
 | 2022-10-05 | 249 | 59 | 

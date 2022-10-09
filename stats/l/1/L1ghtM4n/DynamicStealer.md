@@ -1,6 +1,6 @@
 # L1ghtM4n/DynamicStealer - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 50 | 27 | 
 | 2022-10-07 | 50 | 27 | 
 | 2022-10-06 | 50 | 27 | 
 | 2022-10-05 | 50 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 49 | 26 | 
 | 2022-09-10 | 49 | 26 | 
 | 2022-09-09 | 49 | 26 | 
-| 2022-09-08 | 49 | 26 | 
 

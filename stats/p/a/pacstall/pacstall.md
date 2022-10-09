@@ -1,10 +1,10 @@
 # pacstall/pacstall - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 20
 
-★ Stars: 670
+★ Stars: 672
 
 [Open repository](https://github.com/pacstall/pacstall)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 672 | 20 | 
 | 2022-10-07 | 670 | 20 | 
 | 2022-10-06 | 670 | 20 | 
 | 2022-10-05 | 669 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 632 | 19 | 
 | 2022-09-10 | 631 | 19 | 
 | 2022-09-09 | 630 | 19 | 
-| 2022-09-08 | 628 | 19 | 
 

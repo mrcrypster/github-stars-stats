@@ -1,8 +1,8 @@
 # PrincessMaggy/cohort4-project - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1 | 21 | 
 | 2022-10-07 | 1 | 20 | 
 | 2022-10-06 | 1 | 20 | 
 | 2022-10-05 | 1 | 19 | 

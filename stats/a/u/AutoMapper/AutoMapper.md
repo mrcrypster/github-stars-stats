@@ -1,10 +1,10 @@
 # AutoMapper/AutoMapper - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1681
+☋ Forks: 1682
 
-★ Stars: 9003
+★ Stars: 9005
 
 [Open repository](https://github.com/AutoMapper/AutoMapper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 9005 | 1682 | 
 | 2022-10-07 | 9003 | 1681 | 
 | 2022-10-06 | 8999 | 1682 | 
 | 2022-10-05 | 8995 | 1682 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 8950 | 1683 | 
 | 2022-09-10 | 8948 | 1684 | 
 | 2022-09-09 | 8947 | 1685 | 
-| 2022-09-08 | 8945 | 1686 | 
 

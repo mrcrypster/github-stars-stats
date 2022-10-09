@@ -1,8 +1,8 @@
 # DataDog/dd-trace-rb - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 305
+☋ Forks: 306
 
 ★ Stars: 206
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 206 | 306 | 
 | 2022-10-07 | 206 | 305 | 
 | 2022-10-06 | 206 | 305 | 
 | 2022-10-05 | 206 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 201 | 301 | 
 | 2022-09-10 | 201 | 301 | 
 | 2022-09-09 | 199 | 301 | 
-| 2022-09-08 | 199 | 301 | 
 

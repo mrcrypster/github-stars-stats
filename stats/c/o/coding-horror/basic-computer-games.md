@@ -1,10 +1,10 @@
 # coding-horror/basic-computer-games - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1167
+☋ Forks: 1168
 
-★ Stars: 9049
+★ Stars: 9053
 
 [Open repository](https://github.com/coding-horror/basic-computer-games)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 9053 | 1168 | 
 | 2022-10-07 | 9049 | 1167 | 
 | 2022-10-06 | 9050 | 1165 | 
 | 2022-10-05 | 9049 | 1166 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 8986 | 1158 | 
 | 2022-09-10 | 8985 | 1158 | 
 | 2022-09-09 | 8981 | 1158 | 
-| 2022-09-08 | 8981 | 1158 | 
 

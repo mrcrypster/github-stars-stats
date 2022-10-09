@@ -1,6 +1,6 @@
 # LexirIO/lexir-io-challenge - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2 | 52 | 
 | 2022-10-07 | 2 | 52 | 
 | 2022-10-06 | 2 | 52 | 
 | 2022-10-05 | 2 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1 | 57 | 
 | 2022-09-10 | 1 | 57 | 
 | 2022-09-09 | 1 | 57 | 
-| 2022-09-08 | 1 | 58 | 
 

@@ -1,6 +1,6 @@
 # he1pu/JDHelp - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 354
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 636 | 354 | 
 | 2022-10-07 | 636 | 354 | 
 | 2022-10-06 | 636 | 354 | 
 | 2022-10-05 | 636 | 354 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 633 | 356 | 
 | 2022-09-10 | 634 | 356 | 
 | 2022-09-09 | 634 | 358 | 
-| 2022-09-08 | 634 | 358 | 
 

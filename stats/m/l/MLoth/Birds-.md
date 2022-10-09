@@ -1,8 +1,8 @@
 # MLoth/Birds- - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 12 | 13 | 
 | 2022-10-07 | 12 | 14 | 
 | 2022-10-06 | 12 | 14 | 
 | 2022-10-05 | 12 | 13 | 

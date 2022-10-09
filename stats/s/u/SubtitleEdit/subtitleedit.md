@@ -1,6 +1,6 @@
 # SubtitleEdit/subtitleedit - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 641
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 4317 | 641 | 
 | 2022-10-07 | 4317 | 641 | 
 | 2022-10-06 | 4316 | 641 | 
 | 2022-10-05 | 4316 | 640 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 4251 | 636 | 
 | 2022-09-10 | 4250 | 636 | 
 | 2022-09-09 | 4247 | 636 | 
-| 2022-09-08 | 4242 | 635 | 
 

@@ -1,6 +1,6 @@
 # Gr1mmie/AtlasC2 - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 164 | 30 | 
 | 2022-10-07 | 164 | 30 | 
 | 2022-10-06 | 164 | 30 | 
 | 2022-10-05 | 164 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 153 | 29 | 
 | 2022-09-11 | 153 | 29 | 
 | 2022-09-10 | 153 | 29 | 
-| 2022-09-09 | 153 | 29 | 
 

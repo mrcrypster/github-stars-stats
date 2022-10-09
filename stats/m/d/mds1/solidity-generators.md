@@ -1,10 +1,10 @@
 # mds1/solidity-generators - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 0
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/mds1/solidity-generators)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 89 | - | 
 | 2022-10-07 | 88 | - | 
 | 2022-10-06 | 88 | - | 
 | 2022-10-05 | 86 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 47 | - | 
 | 2022-09-10 | 47 | - | 
 | 2022-09-09 | 47 | - | 
-| 2022-09-08 | 47 | - | 
 

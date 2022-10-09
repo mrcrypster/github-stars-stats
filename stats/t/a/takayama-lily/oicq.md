@@ -1,10 +1,10 @@
 # takayama-lily/oicq - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 287
 
-★ Stars: 2023
+★ Stars: 2024
 
 [Open repository](https://github.com/takayama-lily/oicq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2024 | 287 | 
 | 2022-10-07 | 2023 | 287 | 
 | 2022-10-06 | 2025 | 287 | 
 | 2022-10-05 | 2025 | 287 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1957 | 278 | 
 | 2022-09-10 | 1957 | 277 | 
 | 2022-09-09 | 1953 | 275 | 
-| 2022-09-08 | 1949 | 275 | 
 

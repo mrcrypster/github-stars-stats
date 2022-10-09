@@ -1,10 +1,10 @@
 # dockersamples/example-voting-app - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 6060
+☋ Forks: 6063
 
-★ Stars: 3191
+★ Stars: 3194
 
 [Open repository](https://github.com/dockersamples/example-voting-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3194 | 6063 | 
 | 2022-10-07 | 3191 | 6060 | 
 | 2022-10-06 | 3188 | 6057 | 
 | 2022-10-05 | 3186 | 6054 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3142 | 5941 | 
 | 2022-09-10 | 3141 | 5937 | 
 | 2022-09-09 | 3139 | 5935 | 
-| 2022-09-08 | 3138 | 5923 | 
 

@@ -1,6 +1,6 @@
 # ko-ichi-h/khcoder - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 229 | 73 | 
 | 2022-10-07 | 229 | 73 | 
 | 2022-10-06 | 228 | 73 | 
 | 2022-10-05 | 228 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 222 | 72 | 
 | 2022-09-10 | 222 | 72 | 
 | 2022-09-09 | 222 | 72 | 
-| 2022-09-08 | 221 | 72 | 
 

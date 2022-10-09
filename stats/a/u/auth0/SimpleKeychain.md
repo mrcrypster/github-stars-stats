@@ -1,6 +1,6 @@
 # auth0/SimpleKeychain - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 418 | 70 | 
 | 2022-10-08 | 418 | 70 | 
 | 2022-10-06 | 418 | 70 | 
 | 2022-10-05 | 418 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 416 | 67 | 
 | 2022-09-10 | 416 | 67 | 
 | 2022-09-09 | 416 | 67 | 
-| 2022-09-08 | 416 | 67 | 
 

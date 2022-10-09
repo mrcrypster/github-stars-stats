@@ -1,10 +1,10 @@
 # Shirakumo/trial - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 20
 
-★ Stars: 429
+★ Stars: 430
 
 [Open repository](https://github.com/Shirakumo/trial)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 430 | 20 | 
 | 2022-10-07 | 429 | 20 | 
 | 2022-10-06 | 427 | 20 | 
 | 2022-10-05 | 426 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 419 | 20 | 
 | 2022-09-10 | 418 | 20 | 
 | 2022-09-09 | 418 | 20 | 
-| 2022-09-08 | 418 | 20 | 
 

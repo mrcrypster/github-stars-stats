@@ -1,6 +1,6 @@
 # JannisKirschner/SymbolicExecutionDemystified - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 91 | 14 | 
 | 2022-10-07 | 91 | 14 | 
 | 2022-10-06 | 91 | 14 | 
 | 2022-10-05 | 91 | 14 | 

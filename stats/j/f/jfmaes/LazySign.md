@@ -1,6 +1,6 @@
 # jfmaes/LazySign - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 502 | 76 | 
 | 2022-10-07 | 502 | 76 | 
 | 2022-10-06 | 502 | 76 | 
 | 2022-10-05 | 501 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 483 | 70 | 
 | 2022-09-10 | 483 | 70 | 
 | 2022-09-09 | 483 | 70 | 
-| 2022-09-08 | 483 | 70 | 
 

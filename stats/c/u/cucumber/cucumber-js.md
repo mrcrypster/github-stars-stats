@@ -1,8 +1,8 @@
 # cucumber/cucumber-js - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1033
+☋ Forks: 1032
 
 ★ Stars: 4662
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 4662 | 1032 | 
 | 2022-10-07 | 4662 | 1033 | 
 | 2022-10-06 | 4661 | 1033 | 
 | 2022-10-05 | 4660 | 1033 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 4647 | 1032 | 
 | 2022-09-10 | 4647 | 1032 | 
 | 2022-09-09 | 4647 | 1030 | 
-| 2022-09-08 | 4647 | 1030 | 
 

@@ -1,10 +1,10 @@
 # tpope/vim-projectionist - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 66
 
-★ Stars: 937
+★ Stars: 938
 
 [Open repository](https://github.com/tpope/vim-projectionist)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 938 | 66 | 
 | 2022-10-07 | 937 | 66 | 
 | 2022-10-06 | 937 | 66 | 
 | 2022-10-05 | 937 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 930 | 66 | 
 | 2022-09-10 | 929 | 66 | 
 | 2022-09-09 | 929 | 66 | 
-| 2022-09-08 | 929 | 66 | 
 

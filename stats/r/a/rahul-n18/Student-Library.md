@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 08
 
-☋ Forks: 52
+☋ Forks: 64
 
-★ Stars: 33
+★ Stars: 41
 
 [Open repository](https://github.com/rahul-n18/Student-Library)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-08 | 33 | 52 | 
+| 2022-10-08 | 41 | 64 | 
 | 2022-10-07 | 30 | 50 | 
 | 2022-10-06 | 30 | 46 | 
 

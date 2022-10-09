@@ -1,10 +1,10 @@
 # kubernetes-sigs/descheduler - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 518
 
-★ Stars: 2885
+★ Stars: 2886
 
 [Open repository](https://github.com/kubernetes-sigs/descheduler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2886 | 518 | 
 | 2022-10-07 | 2885 | 518 | 
 | 2022-10-06 | 2885 | 517 | 
 | 2022-10-05 | 2886 | 515 | 

@@ -1,6 +1,6 @@
 # tarides/ocaml-platform - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 37 | 8 | 
 | 2022-10-07 | 37 | 8 | 
 | 2022-10-06 | 37 | 8 | 
 | 2022-10-05 | 37 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 36 | 5 | 
 | 2022-09-10 | 34 | 5 | 
 | 2022-09-09 | 34 | 5 | 
-| 2022-09-08 | 34 | 5 | 
 

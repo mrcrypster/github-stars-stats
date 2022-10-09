@@ -1,10 +1,10 @@
 # apereo/cas - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3808
 
-★ Stars: 9745
+★ Stars: 9747
 
 [Open repository](https://github.com/apereo/cas)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 9747 | 3808 | 
 | 2022-10-07 | 9745 | 3808 | 
 | 2022-10-06 | 9744 | 3809 | 
 | 2022-10-05 | 9742 | 3809 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 9688 | 3800 | 
 | 2022-09-10 | 9685 | 3800 | 
 | 2022-09-09 | 9685 | 3801 | 
-| 2022-09-08 | 9683 | 3801 | 
 

@@ -1,10 +1,10 @@
 # Cydeo-B28/Java_Programming - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 31
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Cydeo-B28/Java_Programming)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 23 | 31 | 
 | 2022-10-07 | 22 | 31 | 
 | 2022-10-06 | 20 | 28 | 
 | 2022-10-05 | 20 | 27 | 

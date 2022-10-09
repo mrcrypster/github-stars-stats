@@ -1,6 +1,6 @@
 # hrsh7th/nvim-pasta - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 70 | 2 | 
 | 2022-10-07 | 70 | 2 | 
 | 2022-10-06 | 71 | 2 | 
 | 2022-10-05 | 71 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 69 | 2 | 
 | 2022-09-10 | 69 | 2 | 
 | 2022-09-09 | 69 | 2 | 
-| 2022-09-08 | 69 | 2 | 
 

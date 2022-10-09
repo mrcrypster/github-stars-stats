@@ -1,6 +1,6 @@
 # orbit/orbit - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1676 | 173 | 
 | 2022-10-07 | 1676 | 173 | 
 | 2022-10-06 | 1676 | 173 | 
 | 2022-10-05 | 1675 | 172 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 1674 | 172 | 
 | 2022-09-11 | 1674 | 172 | 
 | 2022-09-10 | 1674 | 172 | 
-| 2022-09-08 | 1674 | 172 | 
 

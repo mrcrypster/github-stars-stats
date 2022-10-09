@@ -1,10 +1,10 @@
 # timzhang642/3D-Machine-Learning - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 1682
 
-★ Stars: 8379
+★ Stars: 8377
 
 [Open repository](https://github.com/timzhang642/3D-Machine-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 8377 | 1682 | 
 | 2022-10-07 | 8379 | 1682 | 
 | 2022-10-06 | 8378 | 1682 | 
 | 2022-10-05 | 8376 | 1682 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-12 | 8313 | 1678 | 
 | 2022-09-10 | 8313 | 1677 | 
 | 2022-09-09 | 8310 | 1677 | 
-| 2022-09-08 | 8306 | 1677 | 
 

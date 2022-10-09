@@ -1,10 +1,10 @@
 # google-research/maskgit - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 21
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/google-research/maskgit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 164 | 21 | 
 | 2022-10-08 | 163 | 21 | 
 | 2022-10-07 | 163 | 21 | 
 | 2022-10-05 | 163 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 158 | 20 | 
 | 2022-09-10 | 158 | 20 | 
 | 2022-09-09 | 158 | 19 | 
-| 2022-09-08 | 158 | 19 | 
 

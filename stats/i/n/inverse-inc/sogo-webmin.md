@@ -1,6 +1,6 @@
 # inverse-inc/sogo-webmin - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3 | 3 | 
 | 2022-10-07 | 3 | 3 | 
 | 2022-10-06 | 3 | 3 | 
 | 2022-10-05 | 3 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3 | 3 | 
 | 2022-09-10 | 3 | 3 | 
 | 2022-09-09 | 3 | 3 | 
-| 2022-09-08 | 3 | 3 | 
 

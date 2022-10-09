@@ -1,6 +1,6 @@
 # terra-money/core - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 306 | 54 | 
 | 2022-10-07 | 306 | 54 | 
 | 2022-10-06 | 305 | 54 | 
 | 2022-10-05 | 304 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 300 | 55 | 
 | 2022-09-10 | 300 | 54 | 
 | 2022-09-09 | 300 | 54 | 
-| 2022-09-08 | 300 | 54 | 
 

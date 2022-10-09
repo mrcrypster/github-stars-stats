@@ -1,6 +1,6 @@
 # primait/teleplug - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 5 | - | 
 | 2022-10-08 | 5 | - | 
 | 2022-10-06 | 5 | - | 
 | 2022-10-05 | 5 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 5 | - | 
 | 2022-09-10 | 6 | - | 
 | 2022-09-09 | 6 | - | 
-| 2022-09-08 | 6 | - | 
 

@@ -1,6 +1,6 @@
 # alienzhou/frontend-tech-list - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 496
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3423 | 496 | 
 | 2022-10-07 | 3423 | 496 | 
 | 2022-10-06 | 3422 | 496 | 
 | 2022-10-05 | 3422 | 496 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 3404 | 491 | 
 | 2022-09-10 | 3405 | 491 | 
 | 2022-09-09 | 3405 | 490 | 
-| 2022-09-08 | 3405 | 490 | 
 

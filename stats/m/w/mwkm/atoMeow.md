@@ -1,6 +1,6 @@
 # mwkm/atoMeow - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 140 | 14 | 
 | 2022-10-08 | 140 | 14 | 
 | 2022-10-07 | 140 | 14 | 
 | 2022-10-05 | 140 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 132 | 13 | 
 | 2022-09-10 | 132 | 13 | 
 | 2022-09-09 | 131 | 13 | 
-| 2022-09-08 | 131 | 13 | 
 

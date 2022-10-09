@@ -1,10 +1,10 @@
 # mathworks/ci-configuration-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 148
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/mathworks/ci-configuration-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 44 | 148 | 
 | 2022-10-08 | 43 | 148 | 
 | 2022-10-06 | 43 | 148 | 
 | 2022-10-05 | 43 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 43 | 144 | 
 | 2022-09-10 | 43 | 144 | 
 | 2022-09-09 | 43 | 144 | 
-| 2022-09-08 | 43 | 144 | 
 

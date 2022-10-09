@@ -1,10 +1,10 @@
 # microsoftgraph/msgraph-sdk-powershell - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 105
+☋ Forks: 108
 
-★ Stars: 462
+★ Stars: 467
 
 [Open repository](https://github.com/microsoftgraph/msgraph-sdk-powershell)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 467 | 108 | 
 | 2022-10-07 | 462 | 105 | 
 | 2022-10-06 | 461 | 105 | 
 | 2022-10-05 | 461 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 457 | 105 | 
 | 2022-09-10 | 457 | 105 | 
 | 2022-09-09 | 457 | 105 | 
-| 2022-09-08 | 457 | 106 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 1102
+☋ Forks: 1110
 
-★ Stars: 1406
+★ Stars: 1408
 
 [Open repository](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1408 | 1110 | 
 | 2022-10-07 | 1406 | 1102 | 
 | 2022-10-06 | 1405 | 1102 | 
 | 2022-10-05 | 1404 | 1102 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 1376 | 1090 | 
 | 2022-09-10 | 1376 | 1090 | 
 | 2022-09-09 | 1376 | 1089 | 
-| 2022-09-08 | 1374 | 1089 | 
 

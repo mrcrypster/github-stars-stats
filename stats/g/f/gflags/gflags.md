@@ -1,10 +1,10 @@
 # gflags/gflags - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 800
 
-★ Stars: 2443
+★ Stars: 2444
 
 [Open repository](https://github.com/gflags/gflags)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2444 | 800 | 
 | 2022-10-07 | 2443 | 800 | 
 | 2022-10-06 | 2443 | 800 | 
 | 2022-10-05 | 2441 | 799 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2425 | 793 | 
 | 2022-09-10 | 2425 | 793 | 
 | 2022-09-09 | 2425 | 793 | 
-| 2022-09-08 | 2425 | 793 | 
 

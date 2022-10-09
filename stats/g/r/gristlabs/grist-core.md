@@ -1,10 +1,10 @@
 # gristlabs/grist-core - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 153
 
-★ Stars: 3380
+★ Stars: 3385
 
 [Open repository](https://github.com/gristlabs/grist-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 3385 | 153 | 
 | 2022-10-07 | 3380 | 153 | 
 | 2022-10-06 | 3377 | 153 | 
 | 2022-10-05 | 3374 | 153 | 

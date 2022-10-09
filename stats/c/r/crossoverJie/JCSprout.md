@@ -1,6 +1,6 @@
 # crossoverJie/JCSprout - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 7148
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 26837 | 7148 | 
 | 2022-10-07 | 26837 | 7148 | 
 | 2022-10-06 | 26837 | 7148 | 
 | 2022-10-05 | 26838 | 7147 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 26805 | 7148 | 
 | 2022-09-10 | 26807 | 7148 | 
 | 2022-09-09 | 26806 | 7147 | 
-| 2022-09-08 | 26803 | 7148 | 
 

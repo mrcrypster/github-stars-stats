@@ -1,8 +1,8 @@
 # JoshParnell/ltheory - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 09
 
-☋ Forks: 55
+☋ Forks: 54
 
 ★ Stars: 268
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 268 | 54 | 
 | 2022-10-07 | 268 | 55 | 
 | 2022-10-06 | 268 | 56 | 
 | 2022-10-05 | 268 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 259 | 55 | 
 | 2022-09-10 | 258 | 54 | 
 | 2022-09-09 | 258 | 54 | 
-| 2022-09-08 | 257 | 54 | 
 

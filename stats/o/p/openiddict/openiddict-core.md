@@ -1,10 +1,10 @@
 # openiddict/openiddict-core - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 368
 
-★ Stars: 2954
+★ Stars: 2956
 
 [Open repository](https://github.com/openiddict/openiddict-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2956 | 368 | 
 | 2022-10-07 | 2954 | 368 | 
 | 2022-10-06 | 2950 | 368 | 
 | 2022-10-05 | 2947 | 367 | 

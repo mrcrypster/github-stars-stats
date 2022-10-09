@@ -1,10 +1,10 @@
 # mage-ai/mage-ai - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 158
+☋ Forks: 159
 
-★ Stars: 1608
+★ Stars: 1624
 
 [Open repository](https://github.com/mage-ai/mage-ai)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1624 | 159 | 
 | 2022-10-07 | 1608 | 158 | 
 | 2022-10-06 | 1587 | 156 | 
 | 2022-10-05 | 1553 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 917 | 124 | 
 | 2022-09-10 | 915 | 124 | 
 | 2022-09-09 | 902 | 121 | 
-| 2022-09-08 | 893 | 117 | 
 

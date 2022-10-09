@@ -1,6 +1,6 @@
 # axic/evm.elf - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 75 | 6 | 
 | 2022-10-08 | 75 | 6 | 
 | 2022-10-07 | 75 | 6 | 
 | 2022-10-06 | 74 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-11 | 75 | 4 | 
 | 2022-09-10 | 75 | 4 | 
 | 2022-09-09 | 75 | 4 | 
-| 2022-09-08 | 75 | 4 | 
 

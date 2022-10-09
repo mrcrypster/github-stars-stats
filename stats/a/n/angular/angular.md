@@ -1,10 +1,10 @@
 # angular/angular - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 22277
+☋ Forks: 22287
 
-★ Stars: 84181
+★ Stars: 84194
 
 [Open repository](https://github.com/angular/angular)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 84194 | 22287 | 
 | 2022-10-07 | 84181 | 22277 | 
 | 2022-10-06 | 84163 | 22267 | 
 | 2022-10-05 | 84149 | 22248 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 83749 | 22114 | 
 | 2022-09-10 | 83734 | 22115 | 
 | 2022-09-09 | 83731 | 22116 | 
-| 2022-09-08 | 83716 | 22108 | 
 

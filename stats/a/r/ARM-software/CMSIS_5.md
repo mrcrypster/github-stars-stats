@@ -1,6 +1,6 @@
 # ARM-software/CMSIS_5 - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 988
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 710 | 988 | 
 | 2022-10-07 | 710 | 988 | 
 | 2022-10-06 | 710 | 988 | 
 | 2022-10-05 | 709 | 988 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 681 | 988 | 
 | 2022-09-10 | 681 | 986 | 
 | 2022-09-09 | 680 | 986 | 
-| 2022-09-08 | 677 | 986 | 
 

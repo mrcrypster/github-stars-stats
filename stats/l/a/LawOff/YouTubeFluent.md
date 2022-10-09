@@ -1,8 +1,8 @@
 # LawOff/YouTubeFluent - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
-☋ Forks: 123
+☋ Forks: 124
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 22 | 124 | 
 | 2022-10-07 | 22 | 123 | 
 | 2022-10-06 | 22 | 123 | 
 | 2022-10-05 | 23 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 21 | 120 | 
 | 2022-09-10 | 21 | 120 | 
 | 2022-09-09 | 21 | 120 | 
-| 2022-09-08 | 21 | 120 | 
 

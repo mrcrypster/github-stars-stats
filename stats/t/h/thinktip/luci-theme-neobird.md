@@ -1,10 +1,10 @@
 # thinktip/luci-theme-neobird - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 81
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/thinktip/luci-theme-neobird)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 308 | 81 | 
 | 2022-10-07 | 307 | 81 | 
 | 2022-10-06 | 307 | 81 | 
 | 2022-10-05 | 307 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 300 | 79 | 
 | 2022-09-10 | 300 | 78 | 
 | 2022-09-09 | 300 | 78 | 
-| 2022-09-08 | 300 | 78 | 
 

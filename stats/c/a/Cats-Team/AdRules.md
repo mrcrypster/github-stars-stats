@@ -1,10 +1,10 @@
 # Cats-Team/AdRules - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 123
 
-★ Stars: 1081
+★ Stars: 1086
 
 [Open repository](https://github.com/Cats-Team/AdRules)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 1086 | 123 | 
 | 2022-10-07 | 1081 | 123 | 
 | 2022-10-06 | 1077 | 122 | 
 | 2022-10-05 | 1073 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 997 | 113 | 
 | 2022-09-10 | 990 | 112 | 
 | 2022-09-09 | 986 | 112 | 
-| 2022-09-08 | 984 | 112 | 
 

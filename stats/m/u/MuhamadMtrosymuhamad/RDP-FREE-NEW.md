@@ -1,6 +1,6 @@
 # MuhamadMtrosymuhamad/RDP-FREE-NEW - stars & forks statistics
 
-Stats updated on Oct 2022, 07
+Stats updated on Oct 2022, 08
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-08 | 2 | 60 | 
 | 2022-10-07 | 2 | 60 | 
 | 2022-10-06 | 3 | 59 | 
 | 2022-10-05 | 3 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 07
 | 2022-09-11 | 2 | 47 | 
 | 2022-09-10 | 1 | 46 | 
 | 2022-09-09 | 1 | 45 | 
-| 2022-09-08 | 1 | 45 | 
 
