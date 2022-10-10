@@ -1,6 +1,6 @@
 # ruricolist/serapeum - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 338 | 33 | 
 | 2022-10-08 | 338 | 33 | 
 | 2022-10-07 | 337 | 33 | 
 | 2022-10-06 | 337 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 331 | 32 | 
 | 2022-09-11 | 331 | 31 | 
 | 2022-09-10 | 333 | 31 | 
-| 2022-09-09 | 333 | 31 | 
 

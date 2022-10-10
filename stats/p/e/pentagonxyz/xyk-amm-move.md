@@ -1,10 +1,10 @@
 # pentagonxyz/xyk-amm-move - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 13
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/pentagonxyz/xyk-amm-move)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 61 | 13 | 
 | 2022-10-08 | 60 | 13 | 
 | 2022-10-07 | 60 | 13 | 
 | 2022-10-06 | 59 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 45 | 8 | 
 | 2022-09-11 | 45 | 8 | 
 | 2022-09-10 | 45 | 8 | 
-| 2022-09-09 | 43 | 8 | 
 

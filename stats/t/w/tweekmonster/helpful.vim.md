@@ -1,6 +1,6 @@
 # tweekmonster/helpful.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 142 | 2 | 
 | 2022-10-08 | 142 | 2 | 
 | 2022-10-07 | 142 | 2 | 
 | 2022-10-06 | 141 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 138 | 2 | 
 | 2022-09-11 | 138 | 2 | 
 | 2022-09-10 | 138 | 2 | 
-| 2022-09-09 | 138 | 2 | 
 

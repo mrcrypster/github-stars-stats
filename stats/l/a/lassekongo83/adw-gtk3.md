@@ -1,6 +1,6 @@
 # lassekongo83/adw-gtk3 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 734 | 25 | 
 | 2022-10-08 | 734 | 25 | 
 | 2022-10-07 | 733 | 25 | 
 | 2022-10-06 | 732 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 711 | 27 | 
 | 2022-09-11 | 711 | 28 | 
 | 2022-09-10 | 708 | 28 | 
-| 2022-09-09 | 706 | 27 | 
 

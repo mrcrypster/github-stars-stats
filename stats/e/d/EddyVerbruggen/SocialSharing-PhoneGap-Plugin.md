@@ -1,6 +1,6 @@
 # EddyVerbruggen/SocialSharing-PhoneGap-Plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 877
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1772 | 877 | 
 | 2022-10-08 | 1772 | 877 | 
 | 2022-10-07 | 1772 | 877 | 
 | 2022-10-06 | 1772 | 877 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1773 | 876 | 
 | 2022-09-11 | 1773 | 876 | 
 | 2022-09-10 | 1773 | 875 | 
-| 2022-09-09 | 1773 | 875 | 
 

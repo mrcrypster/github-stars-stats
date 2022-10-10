@@ -1,10 +1,10 @@
 # vinibiavatti1/TuiCss - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 51
 
-★ Stars: 1101
+★ Stars: 1102
 
 [Open repository](https://github.com/vinibiavatti1/TuiCss)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1102 | 51 | 
 | 2022-10-08 | 1101 | 51 | 
 | 2022-10-07 | 1100 | 51 | 
 | 2022-10-06 | 1100 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1089 | 51 | 
 | 2022-09-11 | 1089 | 51 | 
 | 2022-09-10 | 1089 | 51 | 
-| 2022-09-09 | 1087 | 51 | 
 

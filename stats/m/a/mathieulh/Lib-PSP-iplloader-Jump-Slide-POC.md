@@ -1,8 +1,8 @@
 # mathieulh/Lib-PSP-iplloader-Jump-Slide-POC - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8 | 4 | 
 | 2022-10-08 | 8 | 5 | 
 | 2022-10-07 | 8 | 4 | 
 | 2022-10-06 | 8 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 8 | 4 | 
 | 2022-09-11 | 8 | 4 | 
 | 2022-09-10 | 8 | 4 | 
-| 2022-09-09 | 8 | 4 | 
 

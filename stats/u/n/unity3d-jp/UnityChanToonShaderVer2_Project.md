@@ -1,10 +1,10 @@
 # unity3d-jp/UnityChanToonShaderVer2_Project - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 648
+☋ Forks: 647
 
-★ Stars: 2878
+★ Stars: 2880
 
 [Open repository](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2880 | 647 | 
 | 2022-10-08 | 2878 | 648 | 
 | 2022-10-07 | 2878 | 648 | 
 | 2022-10-06 | 2877 | 648 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2845 | 639 | 
 | 2022-09-11 | 2843 | 639 | 
 | 2022-09-10 | 2843 | 639 | 
-| 2022-09-09 | 2842 | 639 | 
 

@@ -1,10 +1,10 @@
 # tlringer/proof-demos - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/tlringer/proof-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 32 | - | 
 | 2022-10-08 | 30 | - | 
 | 2022-10-07 | 30 | - | 
 | 2022-10-06 | 30 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 21 | - | 
 | 2022-09-11 | 21 | - | 
 | 2022-09-10 | 21 | - | 
-| 2022-09-09 | 21 | - | 
 

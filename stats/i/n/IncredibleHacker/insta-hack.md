@@ -1,10 +1,10 @@
 # IncredibleHacker/insta-hack - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 125
 
-★ Stars: 512
+★ Stars: 515
 
 [Open repository](https://github.com/IncredibleHacker/insta-hack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 515 | 125 | 
 | 2022-10-08 | 512 | 125 | 
 | 2022-10-07 | 512 | 124 | 
 | 2022-10-06 | 510 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 477 | 111 | 
 | 2022-09-11 | 476 | 110 | 
 | 2022-09-10 | 473 | 110 | 
-| 2022-09-09 | 472 | 110 | 
 

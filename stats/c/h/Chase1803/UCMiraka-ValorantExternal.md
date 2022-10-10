@@ -1,6 +1,6 @@
 # Chase1803/UCMiraka-ValorantExternal - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 48 | 31 | 
 | 2022-10-08 | 48 | 31 | 
 | 2022-10-07 | 48 | 31 | 
 | 2022-10-06 | 48 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 39 | 21 | 
 | 2022-09-12 | 39 | 21 | 
 | 2022-09-10 | 39 | 21 | 
-| 2022-09-09 | 38 | 21 | 
 

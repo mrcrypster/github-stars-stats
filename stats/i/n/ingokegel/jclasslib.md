@@ -1,6 +1,6 @@
 # ingokegel/jclasslib - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 375
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2181 | 375 | 
 | 2022-10-08 | 2181 | 375 | 
 | 2022-10-07 | 2180 | 375 | 
 | 2022-10-06 | 2180 | 375 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2171 | 371 | 
 | 2022-09-11 | 2171 | 371 | 
 | 2022-09-10 | 2171 | 370 | 
-| 2022-09-09 | 2171 | 371 | 
 

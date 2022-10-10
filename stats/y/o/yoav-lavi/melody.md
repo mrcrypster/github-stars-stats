@@ -1,6 +1,6 @@
 # yoav-lavi/melody - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3959 | 55 | 
 | 2022-10-08 | 3959 | 55 | 
 | 2022-10-07 | 3960 | 55 | 
 | 2022-10-06 | 3960 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 3935 | 55 | 
 | 2022-09-12 | 3933 | 55 | 
 | 2022-09-11 | 3932 | 55 | 
-| 2022-09-09 | 3932 | 55 | 
 

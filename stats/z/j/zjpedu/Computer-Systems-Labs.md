@@ -1,8 +1,8 @@
 # zjpedu/Computer-Systems-Labs - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 58
+☋ Forks: 61
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 15 | 61 | 
 | 2022-10-08 | 15 | 58 | 
 | 2022-10-07 | 15 | 56 | 
 | 2022-10-06 | 15 | 56 | 

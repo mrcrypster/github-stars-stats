@@ -1,10 +1,10 @@
 # iampawan/Flutter-Music-Player - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 478
+☋ Forks: 479
 
-★ Stars: 1481
+★ Stars: 1482
 
 [Open repository](https://github.com/iampawan/Flutter-Music-Player)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1482 | 479 | 
 | 2022-10-08 | 1481 | 478 | 
 | 2022-10-07 | 1481 | 478 | 
 | 2022-10-06 | 1481 | 478 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1468 | 471 | 
 | 2022-09-11 | 1468 | 471 | 
 | 2022-09-10 | 1468 | 471 | 
-| 2022-09-09 | 1468 | 471 | 
 

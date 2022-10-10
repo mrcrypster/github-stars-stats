@@ -1,10 +1,10 @@
 # logseq/nbb-logseq - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/logseq/nbb-logseq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 65 | 2 | 
 | 2022-10-09 | 64 | 2 | 
 | 2022-10-08 | 64 | 2 | 
 | 2022-10-07 | 64 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 63 | 2 | 
 | 2022-09-11 | 62 | 2 | 
 | 2022-09-10 | 62 | 2 | 
-| 2022-09-09 | 62 | 1 | 
 

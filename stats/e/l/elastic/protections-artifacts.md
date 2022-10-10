@@ -1,6 +1,6 @@
 # elastic/protections-artifacts - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 488 | 50 | 
 | 2022-10-08 | 488 | 50 | 
 | 2022-10-07 | 487 | 50 | 
 | 2022-10-06 | 486 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 461 | 46 | 
 | 2022-09-11 | 461 | 46 | 
 | 2022-09-10 | 460 | 45 | 
-| 2022-09-09 | 460 | 45 | 
 

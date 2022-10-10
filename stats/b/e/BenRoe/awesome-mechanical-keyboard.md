@@ -1,10 +1,10 @@
 # BenRoe/awesome-mechanical-keyboard - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 172
 
-★ Stars: 2224
+★ Stars: 2225
 
 [Open repository](https://github.com/BenRoe/awesome-mechanical-keyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2225 | 172 | 
 | 2022-10-08 | 2224 | 172 | 
 | 2022-10-07 | 2223 | 172 | 
 | 2022-10-06 | 2221 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2196 | 173 | 
 | 2022-09-11 | 2196 | 173 | 
 | 2022-09-10 | 2195 | 173 | 
-| 2022-09-09 | 2193 | 173 | 
 

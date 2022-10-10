@@ -1,10 +1,10 @@
 # EasyChart/Beautiful-Visualization-with-R - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 491
 
-★ Stars: 548
+★ Stars: 549
 
 [Open repository](https://github.com/EasyChart/Beautiful-Visualization-with-R)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 549 | 491 | 
 | 2022-10-08 | 548 | 491 | 
 | 2022-10-07 | 548 | 491 | 
 | 2022-10-06 | 548 | 491 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 545 | 486 | 
 | 2022-09-11 | 545 | 486 | 
 | 2022-09-10 | 545 | 486 | 
-| 2022-09-09 | 545 | 486 | 
 

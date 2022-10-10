@@ -1,6 +1,6 @@
 # cldcvr/codepipes-tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3 | 6 | 
 | 2022-10-08 | 3 | 6 | 
 | 2022-10-07 | 3 | 6 | 
 | 2022-10-06 | 3 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2 | 5 | 
 | 2022-09-11 | 2 | 5 | 
 | 2022-09-10 | 2 | 5 | 
-| 2022-09-09 | 2 | 5 | 
 

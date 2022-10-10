@@ -1,10 +1,10 @@
 # jayremnt/typing-detector-for-messenger - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 43
+★ Stars: 42
 
 [Open repository](https://github.com/jayremnt/typing-detector-for-messenger)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 42 | 7 | 
 | 2022-10-08 | 43 | 7 | 
 | 2022-10-07 | 43 | 7 | 
 | 2022-10-06 | 43 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 43 | 7 | 
 | 2022-09-11 | 43 | 7 | 
 | 2022-09-10 | 43 | 7 | 
-| 2022-09-09 | 43 | 7 | 
 

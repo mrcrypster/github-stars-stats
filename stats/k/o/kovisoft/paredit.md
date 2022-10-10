@@ -1,6 +1,6 @@
 # kovisoft/paredit - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 79 | 20 | 
 | 2022-10-08 | 79 | 20 | 
 | 2022-10-07 | 79 | 20 | 
 | 2022-10-06 | 79 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 78 | 20 | 
 | 2022-09-11 | 78 | 20 | 
 | 2022-09-10 | 78 | 20 | 
-| 2022-09-09 | 78 | 20 | 
 

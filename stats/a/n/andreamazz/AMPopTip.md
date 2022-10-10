@@ -1,10 +1,10 @@
 # andreamazz/AMPopTip - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 419
 
-★ Stars: 2963
+★ Stars: 2964
 
 [Open repository](https://github.com/andreamazz/AMPopTip)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2964 | 419 | 
 | 2022-10-08 | 2963 | 419 | 
 | 2022-10-07 | 2963 | 419 | 
 | 2022-10-06 | 2963 | 419 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2957 | 418 | 
 | 2022-09-11 | 2955 | 418 | 
 | 2022-09-10 | 2955 | 418 | 
-| 2022-09-09 | 2955 | 418 | 
 

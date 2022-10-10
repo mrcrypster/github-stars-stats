@@ -1,6 +1,6 @@
 # reedlabotz/wordonthetweet - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3 | 2 | 
 | 2022-10-08 | 3 | 2 | 
 

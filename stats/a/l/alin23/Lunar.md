@@ -1,10 +1,10 @@
 # alin23/Lunar - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 76
 
-★ Stars: 3365
+★ Stars: 3364
 
 [Open repository](https://github.com/alin23/Lunar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3364 | 76 | 
 | 2022-10-08 | 3365 | 76 | 
 | 2022-10-07 | 3365 | 76 | 
 | 2022-10-06 | 3365 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3333 | 75 | 
 | 2022-09-11 | 3333 | 75 | 
 | 2022-09-10 | 3332 | 75 | 
-| 2022-09-09 | 3326 | 75 | 
 

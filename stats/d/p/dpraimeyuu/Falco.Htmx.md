@@ -1,10 +1,10 @@
 # dpraimeyuu/Falco.Htmx - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/dpraimeyuu/Falco.Htmx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 24 | 1 | 
 | 2022-10-08 | 23 | - | 
 | 2022-10-07 | 23 | - | 
 | 2022-10-06 | 23 | - | 

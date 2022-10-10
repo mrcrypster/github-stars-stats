@@ -1,10 +1,10 @@
 # rougier/scientific-visualization-book - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 807
+☋ Forks: 808
 
-★ Stars: 8415
+★ Stars: 8417
 
 [Open repository](https://github.com/rougier/scientific-visualization-book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8417 | 808 | 
 | 2022-10-08 | 8415 | 807 | 
 | 2022-10-07 | 8414 | 807 | 
 | 2022-10-06 | 8412 | 807 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 8322 | 794 | 
 | 2022-09-12 | 8321 | 794 | 
 | 2022-09-10 | 8321 | 794 | 
-| 2022-09-09 | 8315 | 793 | 
 

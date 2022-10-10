@@ -1,6 +1,6 @@
 # apple/swift-log - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2808 | 217 | 
 | 2022-10-08 | 2808 | 217 | 
 | 2022-10-07 | 2807 | 217 | 
 | 2022-10-06 | 2807 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2791 | 213 | 
 | 2022-09-11 | 2790 | 213 | 
 | 2022-09-10 | 2790 | 213 | 
-| 2022-09-09 | 2788 | 213 | 
 

@@ -1,10 +1,10 @@
 # google/blockly-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 383
+☋ Forks: 382
 
-★ Stars: 536
+★ Stars: 535
 
 [Open repository](https://github.com/google/blockly-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 535 | 382 | 
 | 2022-10-08 | 536 | 383 | 
 | 2022-10-07 | 536 | 383 | 
 | 2022-10-06 | 536 | 383 | 

@@ -1,10 +1,10 @@
 # snapshot-labs/snapshot - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 553
 
-★ Stars: 808
+★ Stars: 809
 
 [Open repository](https://github.com/snapshot-labs/snapshot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 809 | 553 | 
 | 2022-10-08 | 808 | 553 | 
 | 2022-10-07 | 806 | 553 | 
 | 2022-10-06 | 800 | 553 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 691 | 530 | 
 | 2022-09-11 | 690 | 530 | 
 | 2022-09-10 | 689 | 528 | 
-| 2022-09-09 | 686 | 527 | 
 

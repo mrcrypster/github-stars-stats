@@ -1,6 +1,6 @@
 # ray-rock/containarr - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 54 | 1 | 
 | 2022-10-08 | 54 | 1 | 
 | 2022-10-07 | 54 | 1 | 
 | 2022-10-06 | 54 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 54 | 1 | 
 | 2022-09-11 | 55 | 1 | 
 | 2022-09-10 | 55 | 1 | 
-| 2022-09-09 | 55 | 1 | 
 

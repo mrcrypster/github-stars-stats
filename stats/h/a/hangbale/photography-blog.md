@@ -1,6 +1,6 @@
 # hangbale/photography-blog - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 67 | 10 | 
 | 2022-10-08 | 67 | 10 | 
 | 2022-10-07 | 67 | 10 | 
 | 2022-10-06 | 67 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 65 | 10 | 
 | 2022-09-11 | 65 | 10 | 
 | 2022-09-10 | 65 | 10 | 
-| 2022-09-09 | 65 | 10 | 
 

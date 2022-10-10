@@ -1,10 +1,10 @@
 # ZipCPU/zipcpu - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 906
+★ Stars: 907
 
 [Open repository](https://github.com/ZipCPU/zipcpu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 907 | 117 | 
 | 2022-10-08 | 906 | 116 | 
 | 2022-10-07 | 906 | 116 | 
 | 2022-10-06 | 905 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 892 | 115 | 
 | 2022-09-11 | 891 | 115 | 
 | 2022-09-10 | 891 | 116 | 
-| 2022-09-09 | 889 | 115 | 
 

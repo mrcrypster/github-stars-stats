@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-kubernetes-engine - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 830
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 811 | 830 | 
 | 2022-10-08 | 811 | 830 | 
 | 2022-10-07 | 811 | 829 | 
 | 2022-10-06 | 810 | 828 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 796 | 810 | 
 | 2022-09-11 | 796 | 810 | 
 | 2022-09-10 | 796 | 809 | 
-| 2022-09-09 | 796 | 808 | 
 

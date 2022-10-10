@@ -1,10 +1,10 @@
 # Selina1981/yanglegeyang - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 63
 
-★ Stars: 129
+★ Stars: 128
 
 [Open repository](https://github.com/Selina1981/yanglegeyang)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 128 | 63 | 
 | 2022-10-08 | 129 | 63 | 
 | 2022-10-07 | 129 | 63 | 
 | 2022-10-06 | 129 | 62 | 

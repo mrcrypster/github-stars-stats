@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 09
 
 ☋ Forks: 36
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/camunda/feel-scala)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 75 | 36 | 
+| 2022-10-09 | 76 | 36 | 
 | 2022-10-08 | 75 | 36 | 
 | 2022-10-07 | 75 | 35 | 
 | 2022-10-06 | 75 | 35 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 74 | 35 | 
 | 2022-09-11 | 74 | 35 | 
 | 2022-09-10 | 74 | 35 | 
-| 2022-09-09 | 74 | 35 | 
 

@@ -1,10 +1,10 @@
 # zan8in/afrog - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 157
 
-★ Stars: 995
+★ Stars: 999
 
 [Open repository](https://github.com/zan8in/afrog)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 999 | 157 | 
 | 2022-10-08 | 995 | 157 | 
 | 2022-10-07 | 991 | 156 | 
 | 2022-10-06 | 989 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 923 | 141 | 
 | 2022-09-11 | 921 | 141 | 
 | 2022-09-10 | 920 | 141 | 
-| 2022-09-09 | 918 | 140 | 
 

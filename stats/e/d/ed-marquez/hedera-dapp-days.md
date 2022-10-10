@@ -1,6 +1,6 @@
 # ed-marquez/hedera-dapp-days - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1 | 34 | 
 | 2022-10-08 | 1 | 34 | 
 | 2022-10-07 | 1 | 34 | 
 | 2022-10-06 | 1 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1 | 30 | 
 | 2022-09-11 | 1 | 30 | 
 | 2022-09-10 | 1 | 30 | 
-| 2022-09-09 | 1 | 30 | 
 

@@ -1,10 +1,10 @@
 # wfxr/forgit - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 115
 
-★ Stars: 3518
+★ Stars: 3519
 
 [Open repository](https://github.com/wfxr/forgit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3519 | 115 | 
 | 2022-10-08 | 3518 | 115 | 
 | 2022-10-07 | 3518 | 115 | 
 | 2022-10-06 | 3515 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 3484 | 114 | 
 | 2022-09-12 | 3483 | 114 | 
 | 2022-09-11 | 3482 | 114 | 
-| 2022-09-09 | 3479 | 114 | 
 

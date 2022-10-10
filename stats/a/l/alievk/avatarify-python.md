@@ -1,10 +1,10 @@
 # alievk/avatarify-python - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 2316
+☋ Forks: 2317
 
-★ Stars: 15160
+★ Stars: 15161
 
 [Open repository](https://github.com/alievk/avatarify-python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 15161 | 2317 | 
 | 2022-10-08 | 15160 | 2316 | 
 | 2022-10-07 | 15158 | 2316 | 
 | 2022-10-06 | 15157 | 2316 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 15117 | 2302 | 
 | 2022-09-11 | 15117 | 2302 | 
 | 2022-09-10 | 15117 | 2302 | 
-| 2022-09-09 | 15115 | 2302 | 
 

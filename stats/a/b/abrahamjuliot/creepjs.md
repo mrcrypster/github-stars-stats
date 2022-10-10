@@ -1,6 +1,6 @@
 # abrahamjuliot/creepjs - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 468 | 68 | 
 | 2022-10-08 | 468 | 68 | 
 | 2022-10-07 | 467 | 68 | 
 | 2022-10-06 | 468 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 448 | 65 | 
 | 2022-09-11 | 448 | 65 | 
 | 2022-09-10 | 446 | 65 | 
-| 2022-09-09 | 445 | 65 | 
 

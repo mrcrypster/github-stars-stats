@@ -1,10 +1,10 @@
 # wilsonfreitas/awesome-quant - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1824
+☋ Forks: 1825
 
-★ Stars: 10595
+★ Stars: 10605
 
 [Open repository](https://github.com/wilsonfreitas/awesome-quant)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 10605 | 1825 | 
 | 2022-10-08 | 10595 | 1824 | 
 | 2022-10-07 | 10587 | 1822 | 
 | 2022-10-06 | 10578 | 1822 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 10427 | 1803 | 
 | 2022-09-11 | 10422 | 1802 | 
 | 2022-09-10 | 10415 | 1802 | 
-| 2022-09-09 | 10409 | 1802 | 
 

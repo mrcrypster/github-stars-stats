@@ -1,10 +1,10 @@
 # hackerhouse-opensource/ColorDataProxyUACBypass - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 15
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/hackerhouse-opensource/ColorDataProxyUACBypass)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 114 | 15 | 
 | 2022-10-08 | 113 | 15 | 
 | 2022-10-07 | 113 | 15 | 
 | 2022-10-06 | 113 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 97 | 12 | 
 | 2022-09-11 | 93 | 12 | 
 | 2022-09-10 | 93 | 12 | 
-| 2022-09-09 | 91 | 12 | 
 

@@ -1,10 +1,10 @@
 # johguse/profanity - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 193
 
-★ Stars: 778
+★ Stars: 779
 
 [Open repository](https://github.com/johguse/profanity)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 779 | 193 | 
 | 2022-10-08 | 778 | 193 | 
 | 2022-10-07 | 776 | 193 | 
 | 2022-10-06 | 775 | 191 | 

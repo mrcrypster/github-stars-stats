@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 09
 
 ☋ Forks: 10
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/ZeframLou/create3-factory)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 153 | 10 | 
+| 2022-10-09 | 154 | 10 | 
 | 2022-10-08 | 152 | 10 | 
 | 2022-10-07 | 139 | 9 | 
 | 2022-10-06 | 135 | 7 | 

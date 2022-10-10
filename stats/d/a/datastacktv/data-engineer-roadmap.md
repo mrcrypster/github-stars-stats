@@ -1,10 +1,10 @@
 # datastacktv/data-engineer-roadmap - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1085
 
-★ Stars: 10491
+★ Stars: 10493
 
 [Open repository](https://github.com/datastacktv/data-engineer-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 10493 | 1085 | 
 | 2022-10-08 | 10491 | 1085 | 
 | 2022-10-07 | 10482 | 1085 | 
 | 2022-10-06 | 10480 | 1084 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 10394 | 1068 | 
 | 2022-09-11 | 10394 | 1069 | 
 | 2022-09-10 | 10391 | 1069 | 
-| 2022-09-09 | 10388 | 1067 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 09
 
 ☋ Forks: 61
 
-★ Stars: 321
+★ Stars: 323
 
 [Open repository](https://github.com/yanghaoi/CobaltStrike_CNA)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 321 | 61 | 
+| 2022-10-09 | 323 | 61 | 
 | 2022-10-08 | 315 | 61 | 
 | 2022-10-07 | 314 | 61 | 
 | 2022-10-06 | 311 | 60 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 306 | 59 | 
 | 2022-09-11 | 306 | 59 | 
 | 2022-09-10 | 305 | 59 | 
-| 2022-09-09 | 305 | 59 | 
 

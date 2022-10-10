@@ -1,6 +1,6 @@
 # modelleicher/FS22_realismAddon_fillables - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 23 | 3 | 
 | 2022-10-08 | 23 | 3 | 
 | 2022-10-07 | 23 | 3 | 
 | 2022-10-06 | 23 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 22 | 3 | 
 | 2022-09-11 | 22 | 3 | 
 | 2022-09-10 | 21 | 3 | 
-| 2022-09-09 | 21 | 3 | 
 

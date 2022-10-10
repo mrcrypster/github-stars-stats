@@ -1,6 +1,6 @@
 # drush-ops/drush - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1074
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2256 | 1074 | 
 | 2022-10-08 | 2256 | 1074 | 
 | 2022-10-07 | 2256 | 1073 | 
 | 2022-10-06 | 2256 | 1073 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2254 | 1069 | 
 | 2022-09-11 | 2254 | 1069 | 
 | 2022-09-10 | 2254 | 1068 | 
-| 2022-09-09 | 2254 | 1068 | 
 

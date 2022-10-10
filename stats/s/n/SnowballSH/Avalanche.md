@@ -1,6 +1,6 @@
 # SnowballSH/Avalanche - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 37 | 2 | 
 | 2022-10-08 | 37 | 2 | 
 | 2022-10-07 | 37 | 2 | 
 | 2022-10-06 | 37 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 35 | 2 | 
 | 2022-09-11 | 35 | 2 | 
 | 2022-09-10 | 35 | 2 | 
-| 2022-09-09 | 35 | 2 | 
 

@@ -1,6 +1,6 @@
 # hms-dbmi-cellenics/worker - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 24 | 18 | 
 | 2022-10-08 | 24 | 18 | 
 | 2022-10-07 | 24 | 18 | 
 | 2022-10-06 | 24 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 24 | 19 | 
 | 2022-09-11 | 24 | 19 | 
 | 2022-09-10 | 24 | 19 | 
-| 2022-09-09 | 24 | 19 | 
 

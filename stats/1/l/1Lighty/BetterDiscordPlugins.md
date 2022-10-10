@@ -1,8 +1,8 @@
 # 1Lighty/BetterDiscordPlugins - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 505
+☋ Forks: 506
 
 ★ Stars: 362
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 362 | 506 | 
 | 2022-10-08 | 362 | 505 | 
 | 2022-10-07 | 362 | 505 | 
 | 2022-10-06 | 362 | 507 | 

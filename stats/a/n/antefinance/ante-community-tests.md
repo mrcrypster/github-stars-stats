@@ -1,6 +1,6 @@
 # antefinance/ante-community-tests - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 25 | 37 | 
 | 2022-10-08 | 25 | 37 | 
 | 2022-10-07 | 25 | 37 | 
 | 2022-10-06 | 25 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 25 | 35 | 
 | 2022-09-12 | 25 | 35 | 
 | 2022-09-11 | 25 | 35 | 
-| 2022-09-10 | 25 | 35 | 
 

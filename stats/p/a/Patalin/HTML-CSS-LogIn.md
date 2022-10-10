@@ -1,10 +1,10 @@
 # Patalin/HTML-CSS-LogIn - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Patalin/HTML-CSS-LogIn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 23 | 7 | 
 | 2022-10-08 | 22 | 7 | 
 | 2022-10-07 | 22 | 7 | 
 | 2022-10-06 | 21 | 7 | 

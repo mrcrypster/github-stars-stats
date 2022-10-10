@@ -1,6 +1,6 @@
 # databricks/spark-integration-tests - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 62 | 21 | 
 | 2022-10-08 | 62 | 21 | 
 | 2022-10-07 | 62 | 21 | 
 | 2022-10-06 | 62 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 62 | 21 | 
 | 2022-09-12 | 62 | 21 | 
 | 2022-09-11 | 62 | 21 | 
-| 2022-09-10 | 62 | 21 | 
 

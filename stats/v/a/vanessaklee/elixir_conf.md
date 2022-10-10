@@ -1,10 +1,10 @@
 # vanessaklee/elixir_conf - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/vanessaklee/elixir_conf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 14 | 5 | 
 | 2022-10-08 | 13 | 4 | 
 | 2022-10-07 | 13 | 4 | 
 | 2022-10-06 | 13 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 11 | 4 | 
 | 2022-09-11 | 11 | 4 | 
 | 2022-09-10 | 11 | 4 | 
-| 2022-09-09 | 10 | 4 | 
 

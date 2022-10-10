@@ -1,10 +1,10 @@
 # AmberELEC/AmberELEC - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 117
 
-★ Stars: 824
+★ Stars: 825
 
 [Open repository](https://github.com/AmberELEC/AmberELEC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 825 | 117 | 
 | 2022-10-08 | 824 | 117 | 
 | 2022-10-07 | 824 | 117 | 
 | 2022-10-06 | 823 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 819 | 117 | 
 | 2022-09-11 | 818 | 117 | 
 | 2022-09-10 | 818 | 117 | 
-| 2022-09-09 | 816 | 117 | 
 

@@ -1,6 +1,6 @@
 # trussworks/terraform-aws-config - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 186 | 67 | 
 | 2022-10-08 | 186 | 67 | 
 | 2022-10-07 | 186 | 67 | 
 | 2022-10-06 | 186 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 180 | 64 | 
 | 2022-09-11 | 180 | 64 | 
 | 2022-09-10 | 180 | 64 | 
-| 2022-09-09 | 180 | 64 | 
 

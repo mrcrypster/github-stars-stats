@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-cloud-storage - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 317
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 98 | 317 | 
 | 2022-10-08 | 98 | 317 | 
 | 2022-10-07 | 98 | 316 | 
 | 2022-10-06 | 98 | 314 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 95 | 306 | 
 | 2022-09-11 | 95 | 306 | 
 | 2022-09-10 | 95 | 306 | 
-| 2022-09-09 | 95 | 306 | 
 

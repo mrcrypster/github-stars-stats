@@ -1,6 +1,6 @@
 # Charca/astro-movies - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 69 | 12 | 
 | 2022-10-08 | 69 | 12 | 
 | 2022-10-07 | 69 | 12 | 
 | 2022-10-06 | 69 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 15 | 2 | 
 | 2022-09-11 | 15 | 2 | 
 | 2022-09-10 | 15 | 2 | 
-| 2022-09-09 | 15 | 2 | 
 

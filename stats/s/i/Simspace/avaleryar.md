@@ -1,6 +1,6 @@
 # Simspace/avaleryar - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 46 | 7 | 
 | 2022-10-08 | 46 | 7 | 
 | 2022-10-07 | 46 | 7 | 
 | 2022-10-06 | 46 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 43 | 7 | 
 | 2022-09-11 | 43 | 7 | 
 | 2022-09-10 | 43 | 7 | 
-| 2022-09-09 | 43 | 7 | 
 

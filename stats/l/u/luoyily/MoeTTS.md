@@ -1,6 +1,6 @@
 # luoyily/MoeTTS - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 495 | 33 | 
 | 2022-10-08 | 495 | 33 | 
 | 2022-10-07 | 495 | 33 | 
 | 2022-10-06 | 494 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 458 | 31 | 
 | 2022-09-11 | 454 | 31 | 
 | 2022-09-10 | 453 | 30 | 
-| 2022-09-09 | 446 | 29 | 
 

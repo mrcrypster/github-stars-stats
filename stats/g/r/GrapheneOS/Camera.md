@@ -1,10 +1,10 @@
 # GrapheneOS/Camera - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 57
 
-★ Stars: 452
+★ Stars: 453
 
 [Open repository](https://github.com/GrapheneOS/Camera)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 453 | 57 | 
 | 2022-10-08 | 452 | 57 | 
 | 2022-10-07 | 451 | 57 | 
 | 2022-10-06 | 451 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 421 | 55 | 
 | 2022-09-11 | 420 | 55 | 
 | 2022-09-10 | 420 | 55 | 
-| 2022-09-09 | 419 | 55 | 
 

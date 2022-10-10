@@ -1,6 +1,6 @@
 # edwinb/Yaffle - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 79 | 12 | 
 | 2022-10-09 | 79 | 12 | 
 | 2022-10-08 | 79 | 12 | 
 | 2022-10-06 | 78 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 73 | 11 | 
 | 2022-09-11 | 73 | 11 | 
 | 2022-09-10 | 73 | 11 | 
-| 2022-09-09 | 73 | 11 | 
 

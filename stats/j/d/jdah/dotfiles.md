@@ -1,6 +1,6 @@
 # jdah/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 87 | 10 | 
 | 2022-10-08 | 87 | 10 | 
 | 2022-10-07 | 87 | 9 | 
 | 2022-10-06 | 87 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 81 | 6 | 
 | 2022-09-11 | 80 | 6 | 
 | 2022-09-10 | 80 | 6 | 
-| 2022-09-09 | 79 | 5 | 
 

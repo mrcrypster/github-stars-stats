@@ -1,10 +1,10 @@
 # backstage/backstage - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 3074
+☋ Forks: 3078
 
-★ Stars: 18630
+★ Stars: 18634
 
 [Open repository](https://github.com/backstage/backstage)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 18634 | 3078 | 
 | 2022-10-08 | 18630 | 3074 | 
 | 2022-10-07 | 18613 | 3068 | 
 | 2022-10-06 | 18597 | 3058 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 17924 | 2967 | 
 | 2022-09-11 | 17922 | 2962 | 
 | 2022-09-10 | 17919 | 2962 | 
-| 2022-09-09 | 17913 | 2960 | 
 

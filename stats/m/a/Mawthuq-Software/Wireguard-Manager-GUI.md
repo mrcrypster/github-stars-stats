@@ -1,10 +1,10 @@
 # Mawthuq-Software/Wireguard-Manager-GUI - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 4
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/Mawthuq-Software/Wireguard-Manager-GUI)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 127 | 4 | 
 | 2022-10-08 | 126 | 4 | 
 | 2022-10-07 | 126 | 4 | 
 | 2022-10-06 | 126 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 118 | 4 | 
 | 2022-09-12 | 116 | 4 | 
 | 2022-09-11 | 116 | 4 | 
-| 2022-09-10 | 116 | 4 | 
 

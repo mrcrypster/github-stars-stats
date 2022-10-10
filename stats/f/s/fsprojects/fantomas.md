@@ -1,6 +1,6 @@
 # fsprojects/fantomas - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 622 | 149 | 
 | 2022-10-08 | 622 | 149 | 
 | 2022-10-07 | 622 | 149 | 
 | 2022-10-06 | 622 | 149 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 612 | 149 | 
 | 2022-09-12 | 611 | 149 | 
 | 2022-09-11 | 611 | 149 | 
-| 2022-09-10 | 612 | 149 | 
 

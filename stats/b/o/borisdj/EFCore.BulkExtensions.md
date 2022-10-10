@@ -1,10 +1,10 @@
 # borisdj/EFCore.BulkExtensions - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 458
 
-★ Stars: 2794
+★ Stars: 2795
 
 [Open repository](https://github.com/borisdj/EFCore.BulkExtensions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2795 | 458 | 
 | 2022-10-08 | 2794 | 458 | 
 | 2022-10-07 | 2793 | 458 | 
 | 2022-10-06 | 2792 | 458 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2755 | 446 | 
 | 2022-09-11 | 2753 | 446 | 
 | 2022-09-10 | 2753 | 446 | 
-| 2022-09-09 | 2753 | 446 | 
 

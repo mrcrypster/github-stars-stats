@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 09
 
 ☋ Forks: 158
 
-★ Stars: 2058
+★ Stars: 2059
 
 [Open repository](https://github.com/preservim/vimux)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 2058 | 158 | 
+| 2022-10-09 | 2059 | 158 | 
 | 2022-10-08 | 2058 | 158 | 
 | 2022-10-07 | 2058 | 158 | 
 | 2022-10-06 | 2058 | 158 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 2049 | 157 | 
 | 2022-09-11 | 2051 | 157 | 
 | 2022-09-10 | 2051 | 157 | 
-| 2022-09-09 | 2050 | 157 | 
 

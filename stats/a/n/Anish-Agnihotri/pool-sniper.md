@@ -1,6 +1,6 @@
 # Anish-Agnihotri/pool-sniper - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 421 | 122 | 
 | 2022-10-08 | 421 | 122 | 
 | 2022-10-07 | 421 | 122 | 
 | 2022-10-06 | 421 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 416 | 121 | 
 | 2022-09-11 | 417 | 120 | 
 | 2022-09-10 | 417 | 120 | 
-| 2022-09-09 | 417 | 120 | 
 

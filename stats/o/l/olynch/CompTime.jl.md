@@ -1,10 +1,10 @@
 # olynch/CompTime.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/olynch/CompTime.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 55 | 2 | 
 | 2022-10-08 | 54 | 2 | 
 | 2022-10-07 | 49 | 2 | 
 | 2022-10-06 | 49 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 49 | 2 | 
 | 2022-09-11 | 49 | 2 | 
 | 2022-09-10 | 49 | 2 | 
-| 2022-09-09 | 49 | 2 | 
 

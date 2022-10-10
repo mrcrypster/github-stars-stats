@@ -1,10 +1,10 @@
 # paulov-t/Tarkov-Server - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 23
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/paulov-t/Tarkov-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 104 | 23 | 
 | 2022-10-08 | 103 | 23 | 
 | 2022-10-07 | 103 | 23 | 
 | 2022-10-06 | 103 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 93 | 20 | 
 | 2022-09-11 | 93 | 20 | 
 | 2022-09-10 | 93 | 19 | 
-| 2022-09-09 | 90 | 19 | 
 

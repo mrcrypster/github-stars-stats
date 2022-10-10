@@ -1,10 +1,10 @@
 # FernandaOchoa/CursoIntroPython - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 1391
 
-★ Stars: 210
+★ Stars: 209
 
 [Open repository](https://github.com/FernandaOchoa/CursoIntroPython)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 209 | 1391 | 
 | 2022-10-09 | 210 | 1391 | 
 | 2022-10-07 | 210 | 1391 | 
 | 2022-10-06 | 210 | 1391 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 209 | 1397 | 
 | 2022-09-11 | 209 | 1398 | 
 | 2022-09-10 | 209 | 1399 | 
-| 2022-09-09 | 209 | 1399 | 
 

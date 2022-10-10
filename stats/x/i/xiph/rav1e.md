@@ -1,6 +1,6 @@
 # xiph/rav1e - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2920 | 215 | 
 | 2022-10-08 | 2920 | 215 | 
 | 2022-10-07 | 2919 | 215 | 
 | 2022-10-06 | 2917 | 215 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2890 | 216 | 
 | 2022-09-11 | 2889 | 216 | 
 | 2022-09-10 | 2890 | 216 | 
-| 2022-09-09 | 2890 | 216 | 
 

@@ -1,6 +1,6 @@
 # sonic-net/sonic-linux-kernel - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 39 | 138 | 
 | 2022-10-08 | 39 | 138 | 
 | 2022-10-07 | 39 | 138 | 
 | 2022-10-06 | 39 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 38 | 136 | 
 | 2022-09-11 | 38 | 136 | 
 | 2022-09-10 | 38 | 136 | 
-| 2022-09-09 | 38 | 136 | 
 

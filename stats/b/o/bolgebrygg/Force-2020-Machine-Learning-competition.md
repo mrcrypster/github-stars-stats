@@ -1,10 +1,10 @@
 # bolgebrygg/Force-2020-Machine-Learning-competition - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 75
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 102 | 75 | 
 | 2022-10-08 | 101 | 75 | 
 | 2022-10-07 | 101 | 75 | 
 | 2022-10-06 | 100 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 100 | 75 | 
 | 2022-09-11 | 100 | 75 | 
 | 2022-09-10 | 100 | 75 | 
-| 2022-09-09 | 100 | 75 | 
 

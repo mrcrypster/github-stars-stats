@@ -1,8 +1,8 @@
 # kraanzu/dooit - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 54
+☋ Forks: 55
 
 ★ Stars: 1153
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1153 | 55 | 
 | 2022-10-09 | 1153 | 54 | 
 | 2022-10-08 | 1152 | 54 | 
 | 2022-10-06 | 1148 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 1119 | 52 | 
 | 2022-09-11 | 1117 | 52 | 
 | 2022-09-10 | 1118 | 52 | 
-| 2022-09-09 | 1114 | 52 | 
 

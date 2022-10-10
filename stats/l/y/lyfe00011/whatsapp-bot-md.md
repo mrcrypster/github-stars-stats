@@ -1,8 +1,8 @@
 # lyfe00011/whatsapp-bot-md - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 7479
+☋ Forks: 7536
 
 ★ Stars: 323
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 323 | 7536 | 
 | 2022-10-08 | 323 | 7479 | 
 | 2022-10-07 | 323 | 7419 | 
 | 2022-10-06 | 321 | 7348 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 264 | 6285 | 
 | 2022-09-11 | 262 | 6265 | 
 | 2022-09-10 | 260 | 6206 | 
-| 2022-09-09 | 254 | 6145 | 
 

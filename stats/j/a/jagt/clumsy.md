@@ -1,10 +1,10 @@
 # jagt/clumsy - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 389
 
-★ Stars: 3417
+★ Stars: 3421
 
 [Open repository](https://github.com/jagt/clumsy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3421 | 389 | 
 | 2022-10-08 | 3417 | 389 | 
 | 2022-10-07 | 3414 | 389 | 
 | 2022-10-06 | 3413 | 389 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3378 | 388 | 
 | 2022-09-11 | 3378 | 388 | 
 | 2022-09-10 | 3378 | 388 | 
-| 2022-09-09 | 3377 | 389 | 
 

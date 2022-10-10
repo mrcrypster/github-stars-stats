@@ -1,6 +1,6 @@
 # awslabs/dotnet-nativeaot-labs - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 114 | 1 | 
 | 2022-10-08 | 114 | 1 | 
 | 2022-10-07 | 114 | 1 | 
 | 2022-10-06 | 114 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 111 | 1 | 
 | 2022-09-11 | 112 | 1 | 
 | 2022-09-10 | 112 | 1 | 
-| 2022-09-09 | 112 | 1 | 
 

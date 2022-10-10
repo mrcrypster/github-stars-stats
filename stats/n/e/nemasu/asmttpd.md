@@ -1,6 +1,6 @@
 # nemasu/asmttpd - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2905 | 196 | 
 | 2022-10-08 | 2905 | 196 | 
 | 2022-10-07 | 2905 | 196 | 
 | 2022-10-06 | 2905 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2899 | 194 | 
 | 2022-09-11 | 2899 | 194 | 
 | 2022-09-10 | 2899 | 194 | 
-| 2022-09-09 | 2899 | 194 | 
 

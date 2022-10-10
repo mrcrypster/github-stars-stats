@@ -1,6 +1,6 @@
 # MAJigsaw77/FNF-PsychEngine-With-Android-Support-Archive - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 13 | 67 | 
 | 2022-10-08 | 13 | 67 | 
 | 2022-10-07 | 13 | 67 | 
 | 2022-10-06 | 14 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 13 | 49 | 
 | 2022-09-11 | 13 | 50 | 
 | 2022-09-10 | 13 | 49 | 
-| 2022-09-09 | 13 | 45 | 
 

@@ -1,6 +1,6 @@
 # viperadnan-git/gdtot-bypasser - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 36 | 19 | 
 | 2022-10-08 | 36 | 19 | 
 | 2022-10-07 | 36 | 19 | 
 | 2022-10-06 | 35 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 34 | 17 | 
 | 2022-09-11 | 34 | 17 | 
 | 2022-09-10 | 34 | 17 | 
-| 2022-09-09 | 34 | 17 | 
 

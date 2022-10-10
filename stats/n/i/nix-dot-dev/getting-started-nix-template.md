@@ -1,6 +1,6 @@
 # nix-dot-dev/getting-started-nix-template - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 395 | 24 | 
 | 2022-10-08 | 395 | 24 | 
 | 2022-10-07 | 395 | 24 | 
 | 2022-10-06 | 393 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 388 | 24 | 
 | 2022-09-11 | 387 | 24 | 
 | 2022-09-10 | 387 | 24 | 
-| 2022-09-09 | 387 | 24 | 
 

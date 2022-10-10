@@ -1,8 +1,8 @@
 # encrypted-def/basic-algo-lecture - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 272
+☋ Forks: 275
 
 ★ Stars: 991
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 991 | 275 | 
 | 2022-10-08 | 991 | 272 | 
 | 2022-10-07 | 990 | 271 | 
 | 2022-10-06 | 987 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 943 | 263 | 
 | 2022-09-11 | 944 | 264 | 
 | 2022-09-10 | 940 | 264 | 
-| 2022-09-09 | 936 | 263 | 
 

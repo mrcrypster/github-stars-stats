@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 09
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 114
+★ Stars: 122
 
 [Open repository](https://github.com/mre/zerocal)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 114 | 6 | 
+| 2022-10-09 | 122 | 7 | 
 | 2022-10-08 | 109 | 5 | 
 

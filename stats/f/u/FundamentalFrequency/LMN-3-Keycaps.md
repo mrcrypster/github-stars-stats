@@ -1,6 +1,6 @@
 # FundamentalFrequency/LMN-3-Keycaps - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 51 | 6 | 
 | 2022-10-08 | 51 | 6 | 
 | 2022-10-07 | 51 | 6 | 
 | 2022-10-06 | 51 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 50 | 6 | 
 | 2022-09-11 | 50 | 6 | 
 | 2022-09-10 | 50 | 6 | 
-| 2022-09-09 | 50 | 6 | 
 

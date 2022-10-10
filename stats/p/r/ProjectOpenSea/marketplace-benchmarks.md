@@ -1,10 +1,10 @@
 # ProjectOpenSea/marketplace-benchmarks - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 11
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/ProjectOpenSea/marketplace-benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 57 | 11 | 
 | 2022-10-09 | 56 | 11 | 
 | 2022-10-08 | 56 | 11 | 
 | 2022-10-07 | 56 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 55 | 10 | 
 | 2022-09-11 | 55 | 10 | 
 | 2022-09-10 | 55 | 10 | 
-| 2022-09-09 | 55 | 10 | 
 

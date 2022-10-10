@@ -1,10 +1,10 @@
 # aspnetboilerplate/aspnetboilerplate - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 3645
+☋ Forks: 3644
 
-★ Stars: 10662
+★ Stars: 10663
 
 [Open repository](https://github.com/aspnetboilerplate/aspnetboilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 10663 | 3644 | 
 | 2022-10-08 | 10662 | 3645 | 
 | 2022-10-07 | 10661 | 3645 | 
 | 2022-10-06 | 10660 | 3645 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 10609 | 3636 | 
 | 2022-09-11 | 10608 | 3636 | 
 | 2022-09-10 | 10607 | 3638 | 
-| 2022-09-09 | 10606 | 3638 | 
 

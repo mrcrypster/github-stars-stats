@@ -1,6 +1,6 @@
 # dsccovenantuniversity/landing_page - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2 | 10 | 
 | 2022-10-08 | 2 | 10 | 
 | 2022-10-07 | 2 | 10 | 
 | 2022-10-06 | 2 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 2 | 10 | 
 | 2022-09-11 | 2 | 10 | 
 | 2022-09-10 | 2 | 10 | 
-| 2022-09-09 | 2 | 10 | 
 

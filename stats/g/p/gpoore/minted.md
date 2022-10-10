@@ -1,10 +1,10 @@
 # gpoore/minted - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 124
 
-★ Stars: 1550
+★ Stars: 1551
 
 [Open repository](https://github.com/gpoore/minted)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1551 | 124 | 
 | 2022-10-08 | 1550 | 124 | 
 | 2022-10-07 | 1550 | 124 | 
 | 2022-10-06 | 1550 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1542 | 123 | 
 | 2022-09-11 | 1541 | 123 | 
 | 2022-09-10 | 1540 | 123 | 
-| 2022-09-09 | 1539 | 123 | 
 

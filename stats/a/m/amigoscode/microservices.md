@@ -1,10 +1,10 @@
 # amigoscode/microservices - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 231
+☋ Forks: 232
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/amigoscode/microservices)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 273 | 232 | 
 | 2022-10-08 | 272 | 231 | 
 | 2022-10-07 | 272 | 231 | 
 | 2022-10-06 | 272 | 230 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 261 | 218 | 
 | 2022-09-11 | 261 | 217 | 
 | 2022-09-10 | 260 | 217 | 
-| 2022-09-09 | 259 | 216 | 
 

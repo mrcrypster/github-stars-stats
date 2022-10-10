@@ -1,10 +1,10 @@
 # jacomyal/sigma.js - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1537
 
-★ Stars: 10162
+★ Stars: 10164
 
 [Open repository](https://github.com/jacomyal/sigma.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 10164 | 1537 | 
 | 2022-10-08 | 10162 | 1537 | 
 | 2022-10-07 | 10162 | 1537 | 
 | 2022-10-06 | 10161 | 1537 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 10120 | 1535 | 
 | 2022-09-11 | 10119 | 1535 | 
 | 2022-09-10 | 10118 | 1535 | 
-| 2022-09-09 | 10115 | 1535 | 
 

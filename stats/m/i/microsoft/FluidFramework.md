@@ -1,6 +1,6 @@
 # microsoft/FluidFramework - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 400
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 4022 | 400 | 
 | 2022-10-08 | 4022 | 400 | 
 | 2022-10-07 | 4020 | 400 | 
 | 2022-10-06 | 4015 | 400 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3996 | 397 | 
 | 2022-09-11 | 3995 | 397 | 
 | 2022-09-10 | 3994 | 397 | 
-| 2022-09-09 | 3994 | 397 | 
 

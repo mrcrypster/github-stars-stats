@@ -1,10 +1,10 @@
 # axios/axios - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 10
 
-☋ Forks: 9852
+☋ Forks: 9858
 
-★ Stars: 96375
+★ Stars: 96431
 
 [Open repository](https://github.com/axios/axios)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 96431 | 9858 | 
+| 2022-10-09 | 96429 | 9857 | 
 | 2022-10-08 | 96375 | 9852 | 
 | 2022-10-07 | 96297 | 9844 | 
 | 2022-10-06 | 96229 | 9833 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 95701 | 9766 | 
 | 2022-09-11 | 95683 | 9762 | 
 | 2022-09-10 | 95674 | 9764 | 
-| 2022-09-09 | 95656 | 9764 | 
 

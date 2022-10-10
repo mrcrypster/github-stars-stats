@@ -1,10 +1,10 @@
 # bitbrain/godot-tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/bitbrain/godot-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 78 | 22 | 
 | 2022-10-08 | 77 | 21 | 
 | 2022-10-07 | 77 | 21 | 
 | 2022-10-06 | 77 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 69 | 19 | 
 | 2022-09-11 | 69 | 19 | 
 | 2022-09-10 | 69 | 19 | 
-| 2022-09-09 | 69 | 19 | 
 

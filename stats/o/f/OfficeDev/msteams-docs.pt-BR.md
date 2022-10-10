@@ -1,10 +1,10 @@
 # OfficeDev/msteams-docs.pt-BR - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/OfficeDev/msteams-docs.pt-BR)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8 | 2 | 
 | 2022-10-08 | 7 | 2 | 
 | 2022-10-07 | 7 | 2 | 
 | 2022-10-06 | 7 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 7 | 1 | 
 | 2022-09-11 | 7 | 1 | 
 | 2022-09-10 | 7 | 1 | 
-| 2022-09-09 | 7 | 1 | 
 

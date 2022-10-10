@@ -1,10 +1,10 @@
 # jhflovehqy/flutter_bolg_manage - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 80
+☋ Forks: 81
 
-★ Stars: 293
+★ Stars: 295
 
 [Open repository](https://github.com/jhflovehqy/flutter_bolg_manage)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 295 | 81 | 
 | 2022-10-08 | 293 | 80 | 
 | 2022-10-07 | 293 | 80 | 
 | 2022-10-06 | 293 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 287 | 79 | 
 | 2022-09-12 | 287 | 79 | 
 | 2022-09-10 | 287 | 79 | 
-| 2022-09-09 | 287 | 79 | 
 

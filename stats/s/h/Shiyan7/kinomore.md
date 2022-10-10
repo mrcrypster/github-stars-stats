@@ -1,10 +1,10 @@
 # Shiyan7/kinomore - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 28
 
-★ Stars: 181
+★ Stars: 183
 
 [Open repository](https://github.com/Shiyan7/kinomore)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 183 | 28 | 
 | 2022-10-08 | 181 | 28 | 
 | 2022-10-07 | 181 | 28 | 
 | 2022-10-06 | 181 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 176 | 26 | 
 | 2022-09-11 | 174 | 27 | 
 | 2022-09-10 | 174 | 27 | 
-| 2022-09-09 | 174 | 27 | 
 

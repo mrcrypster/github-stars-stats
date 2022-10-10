@@ -1,10 +1,10 @@
 # leroycep/wasm4-zig-runtime - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/leroycep/wasm4-zig-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 9 | - | 
 | 2022-10-08 | 8 | - | 
 | 2022-10-07 | 8 | - | 
 | 2022-10-06 | 8 | - | 

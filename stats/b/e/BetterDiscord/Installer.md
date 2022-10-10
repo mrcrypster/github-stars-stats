@@ -1,6 +1,6 @@
 # BetterDiscord/Installer - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1412 | 140 | 
 | 2022-10-08 | 1412 | 140 | 
 | 2022-10-07 | 1412 | 140 | 
 | 2022-10-06 | 1412 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1396 | 136 | 
 | 2022-09-11 | 1397 | 136 | 
 | 2022-09-10 | 1397 | 136 | 
-| 2022-09-09 | 1397 | 136 | 
 

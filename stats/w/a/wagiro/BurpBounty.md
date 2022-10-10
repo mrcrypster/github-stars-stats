@@ -1,10 +1,10 @@
 # wagiro/BurpBounty - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 318
+☋ Forks: 319
 
-★ Stars: 1392
+★ Stars: 1393
 
 [Open repository](https://github.com/wagiro/BurpBounty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1393 | 319 | 
 | 2022-10-08 | 1392 | 318 | 
 | 2022-10-07 | 1392 | 318 | 
 | 2022-10-06 | 1391 | 318 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 1376 | 316 | 
 | 2022-09-12 | 1376 | 316 | 
 | 2022-09-11 | 1376 | 316 | 
-| 2022-09-10 | 1375 | 316 | 
 

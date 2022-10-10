@@ -1,8 +1,8 @@
 # BoltsFramework/Bolts-ObjC - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 603
+☋ Forks: 602
 
 ★ Stars: 5655
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 5655 | 602 | 
 | 2022-10-08 | 5655 | 603 | 
 | 2022-10-07 | 5655 | 603 | 
 | 2022-10-06 | 5655 | 603 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 5657 | 602 | 
 | 2022-09-11 | 5657 | 602 | 
 | 2022-09-10 | 5657 | 602 | 
-| 2022-09-09 | 5657 | 602 | 
 

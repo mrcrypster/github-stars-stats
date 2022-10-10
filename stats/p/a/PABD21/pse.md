@@ -1,6 +1,6 @@
 # PABD21/pse - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | - | 28 | 
 | 2022-10-09 | - | 28 | 
 | 2022-10-07 | - | 28 | 
 | 2022-10-06 | - | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | - | 28 | 
 | 2022-09-11 | - | 28 | 
 | 2022-09-10 | - | 28 | 
-| 2022-09-09 | - | 28 | 
 

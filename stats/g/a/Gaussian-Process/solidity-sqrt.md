@@ -1,6 +1,6 @@
 # Gaussian-Process/solidity-sqrt - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 84 | 5 | 
 | 2022-10-08 | 84 | 5 | 
 | 2022-10-07 | 83 | 5 | 
 | 2022-10-06 | 83 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 75 | 5 | 
 | 2022-09-12 | 75 | 5 | 
 | 2022-09-11 | 75 | 5 | 
-| 2022-09-10 | 74 | 5 | 
 

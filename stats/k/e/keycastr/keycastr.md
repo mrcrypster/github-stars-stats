@@ -1,6 +1,6 @@
 # keycastr/keycastr - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 432
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 9173 | 432 | 
 | 2022-10-08 | 9173 | 432 | 
 | 2022-10-07 | 9174 | 432 | 
 | 2022-10-06 | 9170 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 9062 | 433 | 
 | 2022-09-11 | 9054 | 433 | 
 | 2022-09-10 | 9051 | 433 | 
-| 2022-09-09 | 9046 | 433 | 
 

@@ -1,10 +1,8 @@
 # Soya-xy/fake-chsi - stars & forks statistics
 
-Stats updated on Sep 2022, 09
+☋ Forks: 
 
-☋ Forks: 3
-
-★ Stars: 22
+★ Stars: 
 
 [Open repository](https://github.com/Soya-xy/fake-chsi)
 
@@ -13,5 +11,4 @@ Stats updated on Sep 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-09 | 22 | 3 | 
 

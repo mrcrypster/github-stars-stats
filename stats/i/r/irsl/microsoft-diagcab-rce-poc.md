@@ -1,6 +1,6 @@
 # irsl/microsoft-diagcab-rce-poc - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 20 | 21 | 
 | 2022-10-08 | 20 | 21 | 
 | 2022-10-07 | 20 | 21 | 
 | 2022-10-06 | 20 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 19 | 21 | 
 | 2022-09-11 | 19 | 21 | 
 | 2022-09-10 | 19 | 21 | 
-| 2022-09-09 | 19 | 21 | 
 

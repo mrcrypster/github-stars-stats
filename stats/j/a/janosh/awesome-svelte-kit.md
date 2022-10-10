@@ -1,6 +1,6 @@
 # janosh/awesome-svelte-kit - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 371 | 33 | 
 | 2022-10-08 | 371 | 33 | 
 | 2022-10-07 | 371 | 33 | 
 | 2022-10-06 | 371 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 353 | 30 | 
 | 2022-09-11 | 352 | 30 | 
 | 2022-09-10 | 352 | 30 | 
-| 2022-09-09 | 352 | 30 | 
 

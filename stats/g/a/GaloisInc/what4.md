@@ -1,6 +1,6 @@
 # GaloisInc/what4 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 130 | 10 | 
 | 2022-10-08 | 130 | 10 | 
 | 2022-10-07 | 130 | 10 | 
 | 2022-10-06 | 130 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 131 | 10 | 
 | 2022-09-11 | 131 | 10 | 
 | 2022-09-10 | 131 | 10 | 
-| 2022-09-09 | 131 | 10 | 
 

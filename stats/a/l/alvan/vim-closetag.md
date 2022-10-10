@@ -1,10 +1,10 @@
 # alvan/vim-closetag - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 51
 
-★ Stars: 669
+★ Stars: 668
 
 [Open repository](https://github.com/alvan/vim-closetag)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 668 | 51 | 
 | 2022-10-08 | 669 | 51 | 
 | 2022-10-07 | 668 | 51 | 
 | 2022-10-06 | 667 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 660 | 51 | 
 | 2022-09-11 | 660 | 51 | 
 | 2022-09-10 | 660 | 51 | 
-| 2022-09-09 | 660 | 51 | 
 

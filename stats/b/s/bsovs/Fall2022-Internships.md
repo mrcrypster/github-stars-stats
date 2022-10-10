@@ -1,6 +1,6 @@
 # bsovs/Fall2022-Internships - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 500 | 80 | 
 | 2022-10-08 | 500 | 80 | 
 | 2022-10-07 | 500 | 80 | 
 | 2022-10-06 | 500 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 510 | 81 | 
 | 2022-09-11 | 511 | 81 | 
 | 2022-09-10 | 511 | 81 | 
-| 2022-09-09 | 511 | 81 | 
 

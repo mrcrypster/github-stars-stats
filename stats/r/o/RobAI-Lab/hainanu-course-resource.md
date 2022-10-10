@@ -1,10 +1,10 @@
 # RobAI-Lab/hainanu-course-resource - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 35
 
-★ Stars: 106
+★ Stars: 107
 
 [Open repository](https://github.com/RobAI-Lab/hainanu-course-resource)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 107 | 35 | 
 | 2022-10-08 | 106 | 35 | 
 | 2022-10-07 | 106 | 35 | 
 | 2022-10-06 | 106 | 35 | 

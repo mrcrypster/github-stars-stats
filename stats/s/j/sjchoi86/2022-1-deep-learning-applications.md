@@ -1,10 +1,10 @@
 # sjchoi86/2022-1-deep-learning-applications - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 22
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/sjchoi86/2022-1-deep-learning-applications)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 179 | 22 | 
 | 2022-10-08 | 178 | 22 | 
 | 2022-10-07 | 178 | 22 | 
 | 2022-10-06 | 175 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 175 | 22 | 
 | 2022-09-11 | 175 | 22 | 
 | 2022-09-10 | 175 | 22 | 
-| 2022-09-09 | 175 | 22 | 
 

@@ -1,8 +1,8 @@
 # Momo707577045/media-source-extract - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 10
 
-☋ Forks: 271
+☋ Forks: 272
 
 ★ Stars: 591
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 591 | 272 | 
 | 2022-10-08 | 591 | 271 | 
 | 2022-10-07 | 592 | 271 | 
 | 2022-10-06 | 593 | 271 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 557 | 258 | 
 | 2022-09-11 | 555 | 257 | 
 | 2022-09-10 | 554 | 256 | 
-| 2022-09-09 | 553 | 256 | 
 

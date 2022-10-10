@@ -1,10 +1,10 @@
 # tpn/pdfs - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1070
+☋ Forks: 1071
 
-★ Stars: 5745
+★ Stars: 5756
 
 [Open repository](https://github.com/tpn/pdfs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 5756 | 1071 | 
 | 2022-10-08 | 5745 | 1070 | 
 | 2022-10-07 | 5742 | 1068 | 
 | 2022-10-06 | 5739 | 1067 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 5710 | 1058 | 
 | 2022-09-11 | 5709 | 1058 | 
 | 2022-09-10 | 5707 | 1058 | 
-| 2022-09-09 | 5706 | 1058 | 
 

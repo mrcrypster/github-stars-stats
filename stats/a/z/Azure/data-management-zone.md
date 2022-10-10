@@ -1,10 +1,10 @@
 # Azure/data-management-zone - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/Azure/data-management-zone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 131 | 63 | 
 | 2022-10-08 | 130 | 62 | 
 | 2022-10-07 | 130 | 62 | 
 | 2022-10-06 | 130 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 127 | 58 | 
 | 2022-09-11 | 127 | 57 | 
 | 2022-09-10 | 127 | 57 | 
-| 2022-09-09 | 127 | 57 | 
 

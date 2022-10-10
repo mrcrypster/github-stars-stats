@@ -1,6 +1,6 @@
 # STMicroelectronics/meta-st-stm32mp - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 62 | 59 | 
 | 2022-10-08 | 62 | 59 | 
 | 2022-10-07 | 62 | 59 | 
 | 2022-10-06 | 62 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 61 | 59 | 
 | 2022-09-11 | 62 | 59 | 
 | 2022-09-10 | 62 | 59 | 
-| 2022-09-09 | 62 | 59 | 
 

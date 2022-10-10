@@ -1,6 +1,6 @@
 # juniorforlife/react-native-animations - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 165 | 71 | 
 | 2022-10-08 | 165 | 71 | 
 | 2022-10-07 | 165 | 71 | 
 | 2022-10-06 | 165 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 164 | 72 | 
 | 2022-09-11 | 164 | 72 | 
 | 2022-09-10 | 164 | 72 | 
-| 2022-09-09 | 164 | 72 | 
 

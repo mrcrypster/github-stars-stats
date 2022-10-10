@@ -1,10 +1,10 @@
 # tuw-python/tuw-python-2022WS - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/tuw-python/tuw-python-2022WS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 27 | 18 | 
 | 2022-10-08 | 26 | 17 | 
 | 2022-10-07 | 26 | 17 | 
 | 2022-10-06 | 26 | 17 | 

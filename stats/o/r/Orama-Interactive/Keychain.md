@@ -1,10 +1,10 @@
 # Orama-Interactive/Keychain - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/Orama-Interactive/Keychain)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 36 | - | 
 | 2022-10-08 | 34 | - | 
 | 2022-10-07 | 34 | - | 
 | 2022-10-06 | 34 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 31 | - | 
 | 2022-09-11 | 31 | - | 
 | 2022-09-10 | 31 | - | 
-| 2022-09-09 | 31 | - | 
 

@@ -1,8 +1,8 @@
 # MithunTechnologiesDevOps/metrics-server - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 479
+☋ Forks: 480
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2 | 480 | 
 | 2022-10-08 | 2 | 479 | 
 | 2022-10-07 | 2 | 477 | 
 | 2022-10-06 | 2 | 477 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2 | 463 | 
 | 2022-09-11 | 2 | 463 | 
 | 2022-09-10 | 2 | 462 | 
-| 2022-09-09 | 2 | 462 | 
 

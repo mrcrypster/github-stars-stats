@@ -1,6 +1,6 @@
 # MicrosoftDocs/PowerShell-Docs-Modules - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 14 | 19 | 
 | 2022-10-08 | 14 | 19 | 
 | 2022-10-07 | 14 | 19 | 
 | 2022-10-06 | 14 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 13 | 21 | 
 | 2022-09-11 | 13 | 21 | 
 | 2022-09-10 | 13 | 21 | 
-| 2022-09-09 | 13 | 21 | 
 

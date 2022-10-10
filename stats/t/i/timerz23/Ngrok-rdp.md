@@ -1,8 +1,8 @@
 # timerz23/Ngrok-rdp - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 305
+☋ Forks: 306
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2 | 306 | 
 | 2022-10-08 | 2 | 305 | 
 | 2022-10-07 | 2 | 303 | 
 | 2022-10-06 | 2 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1 | 299 | 
 | 2022-09-11 | 1 | 298 | 
 | 2022-09-10 | 1 | 298 | 
-| 2022-09-09 | 1 | 297 | 
 

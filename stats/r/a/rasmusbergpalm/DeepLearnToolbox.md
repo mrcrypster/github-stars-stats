@@ -1,10 +1,10 @@
 # rasmusbergpalm/DeepLearnToolbox - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2298
 
-★ Stars: 3694
+★ Stars: 3695
 
 [Open repository](https://github.com/rasmusbergpalm/DeepLearnToolbox)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3695 | 2298 | 
 | 2022-10-08 | 3694 | 2298 | 
 | 2022-10-07 | 3694 | 2298 | 
 | 2022-10-06 | 3694 | 2298 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3691 | 2296 | 
 | 2022-09-11 | 3691 | 2296 | 
 | 2022-09-10 | 3691 | 2296 | 
-| 2022-09-09 | 3691 | 2296 | 
 

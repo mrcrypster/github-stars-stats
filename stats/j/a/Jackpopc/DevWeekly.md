@@ -1,10 +1,10 @@
 # Jackpopc/DevWeekly - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 49
 
-★ Stars: 543
+★ Stars: 544
 
 [Open repository](https://github.com/Jackpopc/DevWeekly)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 544 | 49 | 
 | 2022-10-09 | 543 | 49 | 
 | 2022-10-08 | 541 | 49 | 
 | 2022-10-07 | 537 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 500 | 44 | 
 | 2022-09-11 | 498 | 44 | 
 | 2022-09-10 | 494 | 43 | 
-| 2022-09-09 | 492 | 43 | 
 

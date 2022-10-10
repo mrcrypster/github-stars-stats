@@ -1,6 +1,6 @@
 # GeneStevens/jsonpath - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 37 | 19 | 
 | 2022-10-08 | 37 | 19 | 
 | 2022-10-07 | 37 | 19 | 
 | 2022-10-06 | 37 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 37 | 19 | 
 | 2022-09-11 | 37 | 19 | 
 | 2022-09-10 | 37 | 19 | 
-| 2022-09-09 | 37 | 19 | 
 

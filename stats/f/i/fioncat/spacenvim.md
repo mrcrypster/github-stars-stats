@@ -1,6 +1,6 @@
 # fioncat/spacenvim - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 29 | 4 | 
 | 2022-10-08 | 29 | 4 | 
 | 2022-10-07 | 29 | 4 | 
 | 2022-10-06 | 29 | 4 | 

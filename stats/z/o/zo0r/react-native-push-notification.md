@@ -1,10 +1,10 @@
 # zo0r/react-native-push-notification - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1961
 
-★ Stars: 6482
+★ Stars: 6484
 
 [Open repository](https://github.com/zo0r/react-native-push-notification)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6484 | 1961 | 
 | 2022-10-08 | 6482 | 1961 | 
 | 2022-10-07 | 6482 | 1961 | 
 | 2022-10-06 | 6480 | 1961 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 6457 | 1959 | 
 | 2022-09-11 | 6456 | 1959 | 
 | 2022-09-10 | 6454 | 1958 | 
-| 2022-09-09 | 6453 | 1957 | 
 

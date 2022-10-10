@@ -1,6 +1,6 @@
 # actions/runner-images - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2381
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6704 | 2381 | 
 | 2022-10-08 | 6704 | 2381 | 
 | 2022-10-07 | 6701 | 2381 | 
 | 2022-10-06 | 6693 | 2378 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 6590 | 2324 | 
 | 2022-09-11 | 6590 | 2321 | 
 | 2022-09-10 | 6579 | 2321 | 
-| 2022-09-09 | 6553 | 2319 | 
 

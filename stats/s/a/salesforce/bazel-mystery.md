@@ -1,10 +1,10 @@
 # salesforce/bazel-mystery - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/salesforce/bazel-mystery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 21 | 1 | 
 | 2022-10-08 | 20 | 1 | 
 | 2022-10-07 | 20 | 1 | 
 | 2022-10-06 | 19 | 1 | 

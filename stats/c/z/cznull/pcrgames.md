@@ -1,6 +1,6 @@
 # cznull/pcrgames - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 53 | 18 | 
 | 2022-10-08 | 53 | 18 | 
 | 2022-10-07 | 53 | 18 | 
 | 2022-10-06 | 53 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 53 | 18 | 
 | 2022-09-12 | 53 | 18 | 
 | 2022-09-11 | 53 | 18 | 
-| 2022-09-10 | 53 | 18 | 
 

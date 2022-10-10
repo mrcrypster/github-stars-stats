@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 09
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 61
+★ Stars: 64
 
 [Open repository](https://github.com/odoo/o-spreadsheet)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 61 | 5 | 
+| 2022-10-09 | 64 | 6 | 
 | 2022-10-08 | 58 | 5 | 
 

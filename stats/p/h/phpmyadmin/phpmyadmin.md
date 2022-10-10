@@ -1,10 +1,10 @@
 # phpmyadmin/phpmyadmin - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 3212
+☋ Forks: 3215
 
-★ Stars: 6206
+★ Stars: 6208
 
 [Open repository](https://github.com/phpmyadmin/phpmyadmin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6208 | 3215 | 
 | 2022-10-08 | 6206 | 3212 | 
 | 2022-10-07 | 6205 | 3211 | 
 | 2022-10-06 | 6206 | 3211 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 6172 | 3193 | 
 | 2022-09-11 | 6168 | 3193 | 
 | 2022-09-10 | 6168 | 3192 | 
-| 2022-09-09 | 6168 | 3190 | 
 

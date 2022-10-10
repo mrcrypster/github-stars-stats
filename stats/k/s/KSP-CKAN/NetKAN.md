@@ -1,6 +1,6 @@
 # KSP-CKAN/NetKAN - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 332
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 66 | 332 | 
 | 2022-10-08 | 66 | 332 | 
 | 2022-10-07 | 66 | 332 | 
 | 2022-10-06 | 66 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 66 | 329 | 
 | 2022-09-11 | 66 | 329 | 
 | 2022-09-10 | 66 | 329 | 
-| 2022-09-09 | 66 | 329 | 
 

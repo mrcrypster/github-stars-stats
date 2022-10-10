@@ -1,6 +1,6 @@
 # trashhalo/logseq-graph-analysis - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 71 | 4 | 
 | 2022-10-09 | 71 | 4 | 
 | 2022-10-08 | 70 | 4 | 
 | 2022-10-06 | 70 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 67 | 4 | 
 | 2022-09-11 | 67 | 4 | 
 | 2022-09-10 | 67 | 4 | 
-| 2022-09-09 | 67 | 4 | 
 

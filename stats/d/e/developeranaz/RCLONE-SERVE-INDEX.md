@@ -1,10 +1,10 @@
 # developeranaz/RCLONE-SERVE-INDEX - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 180
 
-★ Stars: 132
+★ Stars: 131
 
 [Open repository](https://github.com/developeranaz/RCLONE-SERVE-INDEX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 131 | 180 | 
 | 2022-10-08 | 132 | 180 | 
 | 2022-10-07 | 132 | 180 | 
 | 2022-10-06 | 133 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 129 | 179 | 
 | 2022-09-11 | 129 | 179 | 
 | 2022-09-10 | 129 | 179 | 
-| 2022-09-09 | 129 | 179 | 
 

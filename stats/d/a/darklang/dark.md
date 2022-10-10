@@ -1,10 +1,10 @@
 # darklang/dark - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 73
 
-★ Stars: 1145
+★ Stars: 1146
 
 [Open repository](https://github.com/darklang/dark)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1146 | 73 | 
 | 2022-10-08 | 1145 | 73 | 
 | 2022-10-07 | 1144 | 73 | 
 | 2022-10-06 | 1144 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 1133 | 73 | 
 | 2022-09-11 | 1133 | 73 | 
 | 2022-09-10 | 1132 | 73 | 
-| 2022-09-09 | 1131 | 73 | 
 

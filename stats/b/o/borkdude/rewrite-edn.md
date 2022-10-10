@@ -1,6 +1,6 @@
 # borkdude/rewrite-edn - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 68 | 10 | 
 | 2022-10-08 | 68 | 10 | 
 | 2022-10-07 | 68 | 9 | 
 | 2022-10-06 | 68 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 65 | 9 | 
 | 2022-09-11 | 65 | 9 | 
 | 2022-09-10 | 65 | 9 | 
-| 2022-09-09 | 65 | 9 | 
 

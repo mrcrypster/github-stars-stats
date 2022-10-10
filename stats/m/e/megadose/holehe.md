@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 09
 
 ☋ Forks: 381
 
-★ Stars: 3314
+★ Stars: 3321
 
 [Open repository](https://github.com/megadose/holehe)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 3314 | 381 | 
+| 2022-10-09 | 3321 | 381 | 
 | 2022-10-08 | 3309 | 381 | 
 

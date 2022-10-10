@@ -1,6 +1,6 @@
 # iplabs/terraform-kubernetes-alb-ingress-controller - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 53 | 59 | 
 | 2022-10-08 | 53 | 59 | 
 | 2022-10-07 | 53 | 59 | 
 | 2022-10-06 | 53 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 53 | 59 | 
 | 2022-09-11 | 53 | 59 | 
 | 2022-09-10 | 53 | 59 | 
-| 2022-09-09 | 53 | 59 | 
 

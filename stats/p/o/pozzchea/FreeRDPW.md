@@ -1,8 +1,8 @@
 # pozzchea/FreeRDPW - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 529
+☋ Forks: 541
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8 | 541 | 
 | 2022-10-08 | 8 | 529 | 
 | 2022-10-07 | 7 | 513 | 
 | 2022-10-06 | 7 | 494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | - | 208 | 
 | 2022-09-11 | - | 205 | 
 | 2022-09-10 | - | 202 | 
-| 2022-09-09 | - | 202 | 
 

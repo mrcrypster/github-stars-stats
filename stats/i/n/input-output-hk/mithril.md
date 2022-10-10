@@ -1,10 +1,10 @@
 # input-output-hk/mithril - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/input-output-hk/mithril)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 64 | 3 | 
 | 2022-10-08 | 63 | 3 | 
 | 2022-10-07 | 63 | 3 | 
 | 2022-10-06 | 63 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 52 | 3 | 
 | 2022-09-11 | 51 | 3 | 
 | 2022-09-10 | 50 | 3 | 
-| 2022-09-09 | 50 | 3 | 
 

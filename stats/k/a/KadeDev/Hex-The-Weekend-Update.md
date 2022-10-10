@@ -1,6 +1,6 @@
 # KadeDev/Hex-The-Weekend-Update - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 19 | 31 | 
 | 2022-10-08 | 19 | 31 | 
 | 2022-10-07 | 19 | 31 | 
 | 2022-10-06 | 19 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 19 | 31 | 
 | 2022-09-11 | 19 | 32 | 
 | 2022-09-10 | 19 | 31 | 
-| 2022-09-09 | 19 | 31 | 
 

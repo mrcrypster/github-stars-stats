@@ -1,10 +1,10 @@
 # lm-sensors/lm-sensors - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 219
+☋ Forks: 220
 
-★ Stars: 682
+★ Stars: 683
 
 [Open repository](https://github.com/lm-sensors/lm-sensors)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 683 | 220 | 
 | 2022-10-08 | 682 | 219 | 
 | 2022-10-07 | 682 | 219 | 
 | 2022-10-06 | 682 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 675 | 219 | 
 | 2022-09-12 | 675 | 219 | 
 | 2022-09-11 | 674 | 219 | 
-| 2022-09-10 | 674 | 219 | 
 

@@ -1,10 +1,10 @@
 # gnulinuxpro/infra - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 17
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/gnulinuxpro/infra)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 64 | 17 | 
 | 2022-10-08 | 63 | 17 | 
 | 2022-10-07 | 63 | 17 | 
 | 2022-10-06 | 63 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 63 | 17 | 
 | 2022-09-11 | 63 | 17 | 
 | 2022-09-10 | 62 | 17 | 
-| 2022-09-09 | 62 | 17 | 
 

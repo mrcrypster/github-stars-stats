@@ -1,10 +1,10 @@
 # jamesfang8499/physics3 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 41
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/jamesfang8499/physics3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 46 | 41 | 
 | 2022-10-08 | 45 | 41 | 
 | 2022-10-07 | 45 | 41 | 
 | 2022-10-06 | 45 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 42 | 38 | 
 | 2022-09-11 | 41 | 38 | 
 | 2022-09-10 | 41 | 38 | 
-| 2022-09-09 | 41 | 38 | 
 

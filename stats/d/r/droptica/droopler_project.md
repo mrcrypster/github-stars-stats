@@ -1,8 +1,8 @@
 # droptica/droopler_project - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 39 | 25 | 
 | 2022-10-08 | 39 | 24 | 
 | 2022-10-07 | 39 | 24 | 
 | 2022-10-06 | 39 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 39 | 23 | 
 | 2022-09-11 | 39 | 23 | 
 | 2022-09-10 | 39 | 23 | 
-| 2022-09-09 | 39 | 23 | 
 

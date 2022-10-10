@@ -1,8 +1,8 @@
 # exercism/windows-installer - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 72
+☋ Forks: 71
 
 ★ Stars: 152
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 152 | 71 | 
 | 2022-10-08 | 152 | 72 | 
 | 2022-10-07 | 152 | 72 | 
 | 2022-10-06 | 152 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 149 | 72 | 
 | 2022-09-11 | 149 | 72 | 
 | 2022-09-10 | 149 | 71 | 
-| 2022-09-09 | 149 | 71 | 
 

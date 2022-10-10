@@ -1,10 +1,10 @@
 # spotify/web-api-auth-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1392
+☋ Forks: 1393
 
-★ Stars: 1655
+★ Stars: 1656
 
 [Open repository](https://github.com/spotify/web-api-auth-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1656 | 1393 | 
 | 2022-10-08 | 1655 | 1392 | 
 | 2022-10-07 | 1655 | 1393 | 
 | 2022-10-06 | 1655 | 1391 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1641 | 1374 | 
 | 2022-09-11 | 1641 | 1371 | 
 | 2022-09-10 | 1640 | 1371 | 
-| 2022-09-09 | 1640 | 1370 | 
 

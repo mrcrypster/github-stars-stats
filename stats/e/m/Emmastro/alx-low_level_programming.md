@@ -1,6 +1,6 @@
 # Emmastro/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 49 | 171 | 
 | 2022-10-08 | 49 | 171 | 
 | 2022-10-07 | 49 | 171 | 
 | 2022-10-06 | 49 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 35 | 128 | 
 | 2022-09-11 | 34 | 128 | 
 | 2022-09-10 | 34 | 127 | 
-| 2022-09-09 | 33 | 122 | 
 

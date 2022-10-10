@@ -1,6 +1,6 @@
 # h8r-dev/stacks - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 7 | 7 | 
 | 2022-10-08 | 7 | 7 | 
 | 2022-10-07 | 7 | 7 | 
 | 2022-10-06 | 7 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 7 | 7 | 
 | 2022-09-11 | 7 | 7 | 
 | 2022-09-10 | 7 | 7 | 
-| 2022-09-09 | 7 | 7 | 
 

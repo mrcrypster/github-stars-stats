@@ -1,6 +1,6 @@
 # mrhm-dev/full-stack-army - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 340 | 204 | 
 | 2022-10-08 | 340 | 204 | 
 | 2022-10-07 | 340 | 204 | 
 | 2022-10-06 | 339 | 203 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 332 | 198 | 
 | 2022-09-11 | 332 | 198 | 
 | 2022-09-10 | 331 | 198 | 
-| 2022-09-09 | 329 | 197 | 
 

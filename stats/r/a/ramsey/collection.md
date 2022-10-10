@@ -1,6 +1,6 @@
 # ramsey/collection - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 816 | 49 | 
 | 2022-10-08 | 816 | 49 | 
 | 2022-10-07 | 816 | 49 | 
 | 2022-10-06 | 814 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 809 | 48 | 
 | 2022-09-12 | 809 | 48 | 
 | 2022-09-11 | 808 | 48 | 
-| 2022-09-10 | 808 | 48 | 
 

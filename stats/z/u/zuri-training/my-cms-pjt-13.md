@@ -1,6 +1,6 @@
 # zuri-training/my-cms-pjt-13 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2 | 17 | 
 | 2022-10-08 | 2 | 17 | 
 | 2022-10-07 | 2 | 17 | 
 | 2022-10-06 | 2 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 2 | 17 | 
 | 2022-09-12 | 2 | 17 | 
 | 2022-09-11 | 2 | 17 | 
-| 2022-09-10 | 2 | 17 | 
 

@@ -1,10 +1,10 @@
 # kayceesrk/ocaml5-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/kayceesrk/ocaml5-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 153 | 7 | 
 | 2022-10-08 | 152 | 7 | 
 | 2022-10-07 | 152 | 7 | 
 | 2022-10-06 | 152 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 146 | 7 | 
 | 2022-09-12 | 146 | 7 | 
 | 2022-09-11 | 145 | 7 | 
-| 2022-09-10 | 145 | 7 | 
 

@@ -1,10 +1,10 @@
 # ryoppippi/zigcv - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/ryoppippi/zigcv)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 50 | 2 | 
 | 2022-10-08 | 49 | 2 | 
 | 2022-10-07 | 45 | 2 | 
 | 2022-10-06 | 40 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 26 | 2 | 
 | 2022-09-11 | 26 | 2 | 
 | 2022-09-10 | 26 | 2 | 
-| 2022-09-09 | 26 | 2 | 
 

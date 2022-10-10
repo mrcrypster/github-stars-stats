@@ -1,6 +1,6 @@
 # tycloud97/devops-exercise - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 15 | 9 | 
 | 2022-10-08 | 15 | 9 | 
 | 2022-10-07 | 15 | 9 | 
 | 2022-10-06 | 15 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 15 | 9 | 
 | 2022-09-11 | 15 | 9 | 
 | 2022-09-10 | 15 | 9 | 
-| 2022-09-09 | 15 | 9 | 
 

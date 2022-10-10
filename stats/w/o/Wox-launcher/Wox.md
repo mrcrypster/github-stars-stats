@@ -1,10 +1,10 @@
 # Wox-launcher/Wox - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2352
 
-★ Stars: 22297
+★ Stars: 22300
 
 [Open repository](https://github.com/Wox-launcher/Wox)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 22300 | 2352 | 
 | 2022-10-08 | 22297 | 2352 | 
 | 2022-10-07 | 22293 | 2352 | 
 | 2022-10-06 | 22289 | 2352 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 22198 | 2347 | 
 | 2022-09-11 | 22194 | 2347 | 
 | 2022-09-10 | 22189 | 2347 | 
-| 2022-09-09 | 22185 | 2347 | 
 

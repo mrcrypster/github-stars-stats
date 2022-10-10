@@ -1,6 +1,6 @@
 # alan-et/alanpoi - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 86 | 61 | 
 | 2022-10-08 | 86 | 61 | 
 | 2022-10-07 | 86 | 61 | 
 | 2022-10-06 | 86 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 87 | 61 | 
 | 2022-09-11 | 87 | 61 | 
 | 2022-09-10 | 87 | 61 | 
-| 2022-09-09 | 87 | 61 | 
 

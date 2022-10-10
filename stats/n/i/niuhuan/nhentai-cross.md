@@ -1,10 +1,10 @@
 # niuhuan/nhentai-cross - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 22
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/niuhuan/nhentai-cross)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 271 | 22 | 
 | 2022-10-08 | 270 | 22 | 
 | 2022-10-07 | 270 | 22 | 
 | 2022-10-06 | 270 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 261 | 22 | 
 | 2022-09-11 | 260 | 22 | 
 | 2022-09-10 | 259 | 22 | 
-| 2022-09-09 | 258 | 22 | 
 

@@ -1,10 +1,10 @@
 # WongKinYiu/yolov7 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1385
+☋ Forks: 1398
 
-★ Stars: 6041
+★ Stars: 6065
 
 [Open repository](https://github.com/WongKinYiu/yolov7)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6065 | 1398 | 
 | 2022-10-08 | 6041 | 1385 | 
 | 2022-10-07 | 6013 | 1380 | 
 | 2022-10-06 | 5982 | 1368 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 5355 | 1121 | 
 | 2022-09-11 | 5329 | 1113 | 
 | 2022-09-10 | 5327 | 1110 | 
-| 2022-09-09 | 5312 | 1104 | 
 

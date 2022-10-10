@@ -1,6 +1,6 @@
 # sorry-cypress/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 22 | 62 | 
 | 2022-10-08 | 22 | 62 | 
 | 2022-10-07 | 22 | 62 | 
 | 2022-10-06 | 22 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 22 | 59 | 
 | 2022-09-11 | 22 | 59 | 
 | 2022-09-10 | 22 | 59 | 
-| 2022-09-09 | 22 | 59 | 
 

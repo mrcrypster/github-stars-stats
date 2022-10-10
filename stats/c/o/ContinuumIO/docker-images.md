@@ -1,10 +1,10 @@
 # ContinuumIO/docker-images - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 266
 
-★ Stars: 715
+★ Stars: 716
 
 [Open repository](https://github.com/ContinuumIO/docker-images)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 716 | 266 | 
 | 2022-10-08 | 715 | 266 | 
 | 2022-10-07 | 714 | 266 | 
 | 2022-10-06 | 714 | 266 | 

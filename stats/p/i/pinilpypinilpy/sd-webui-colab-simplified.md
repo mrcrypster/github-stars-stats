@@ -1,10 +1,10 @@
 # pinilpypinilpy/sd-webui-colab-simplified - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 19
 
-★ Stars: 144
+★ Stars: 147
 
 [Open repository](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 147 | 19 | 
 | 2022-10-08 | 144 | 19 | 
 | 2022-10-07 | 143 | 19 | 
 | 2022-10-06 | 141 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 111 | 12 | 
 | 2022-09-11 | 108 | 12 | 
 | 2022-09-10 | 104 | 12 | 
-| 2022-09-09 | 99 | 9 | 
 

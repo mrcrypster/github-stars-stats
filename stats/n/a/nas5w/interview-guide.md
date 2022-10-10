@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 09
 
 ☋ Forks: 73
 
-★ Stars: 1580
+★ Stars: 1582
 
 [Open repository](https://github.com/nas5w/interview-guide)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-09 | 1580 | 73 | 
+| 2022-10-09 | 1582 | 73 | 
 | 2022-10-08 | 1579 | 73 | 
 

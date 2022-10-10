@@ -1,10 +1,10 @@
 # JorgeL123/QM - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/JorgeL123/QM)
 
@@ -13,5 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 28 | 1 | 
+| 2022-10-09 | 26 | 1 | 
 | 2022-10-08 | 26 | 1 | 
 

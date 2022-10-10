@@ -1,6 +1,6 @@
 # voxpupuli/puppet-gitlab - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 75 | 163 | 
 | 2022-10-08 | 75 | 163 | 
 | 2022-10-07 | 75 | 163 | 
 | 2022-10-06 | 75 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 75 | 162 | 
 | 2022-09-11 | 75 | 162 | 
 | 2022-09-10 | 75 | 162 | 
-| 2022-09-09 | 75 | 162 | 
 

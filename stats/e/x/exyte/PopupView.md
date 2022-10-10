@@ -1,10 +1,10 @@
 # exyte/PopupView - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 121
 
-★ Stars: 1662
+★ Stars: 1671
 
 [Open repository](https://github.com/exyte/PopupView)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1671 | 121 | 
 | 2022-10-08 | 1662 | 121 | 
 | 2022-10-07 | 1661 | 121 | 
 | 2022-10-06 | 1660 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1616 | 116 | 
 | 2022-09-11 | 1615 | 116 | 
 | 2022-09-10 | 1615 | 116 | 
-| 2022-09-09 | 1615 | 116 | 
 

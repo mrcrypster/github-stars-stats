@@ -1,10 +1,10 @@
 # pananton/cpp-lib-template - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 4
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/pananton/cpp-lib-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 61 | 4 | 
 | 2022-10-08 | 60 | 4 | 
 | 2022-10-07 | 60 | 4 | 
 | 2022-10-06 | 60 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 50 | 4 | 
 | 2022-09-11 | 50 | 4 | 
 | 2022-09-10 | 50 | 4 | 
-| 2022-09-09 | 50 | 4 | 
 

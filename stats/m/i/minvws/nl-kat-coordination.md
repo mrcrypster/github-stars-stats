@@ -1,6 +1,6 @@
 # minvws/nl-kat-coordination - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 63 | 12 | 
 | 2022-10-09 | 63 | 12 | 
 | 2022-10-07 | 63 | 12 | 
 | 2022-10-06 | 63 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 61 | 11 | 
 | 2022-09-11 | 61 | 11 | 
 | 2022-09-10 | 61 | 11 | 
-| 2022-09-09 | 61 | 11 | 
 

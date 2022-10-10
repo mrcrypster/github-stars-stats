@@ -1,6 +1,6 @@
 # orangebucket/Anidea-for-SmartThings - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 51 | 176 | 
 | 2022-10-09 | 51 | 176 | 
 | 2022-10-08 | 51 | 176 | 
 | 2022-10-07 | 51 | 176 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 50 | 177 | 
 | 2022-09-11 | 50 | 176 | 
 | 2022-09-10 | 50 | 176 | 
-| 2022-09-09 | 50 | 176 | 
 

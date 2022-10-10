@@ -1,10 +1,10 @@
 # phoenixframework/tailwind - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 37
 
-★ Stars: 394
+★ Stars: 396
 
 [Open repository](https://github.com/phoenixframework/tailwind)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 396 | 37 | 
 | 2022-10-08 | 394 | 37 | 
 | 2022-10-07 | 394 | 37 | 
 | 2022-10-06 | 394 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 386 | 37 | 
 | 2022-09-11 | 386 | 37 | 
 | 2022-09-10 | 385 | 38 | 
-| 2022-09-09 | 385 | 38 | 
 

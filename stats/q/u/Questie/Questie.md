@@ -1,6 +1,6 @@
 # Questie/Questie - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 944 | 262 | 
 | 2022-10-08 | 944 | 262 | 
 | 2022-10-07 | 944 | 261 | 
 | 2022-10-06 | 942 | 260 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 918 | 253 | 
 | 2022-09-11 | 916 | 253 | 
 | 2022-09-10 | 916 | 253 | 
-| 2022-09-09 | 916 | 252 | 
 

@@ -1,10 +1,10 @@
 # lilxyzw/OpenLit - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/lilxyzw/OpenLit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 31 | - | 
 | 2022-10-08 | 30 | - | 
 | 2022-10-07 | 30 | - | 
 | 2022-10-06 | 30 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 27 | - | 
 | 2022-09-11 | 27 | - | 
 | 2022-09-10 | 27 | - | 
-| 2022-09-09 | 27 | - | 
 

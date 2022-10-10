@@ -1,10 +1,10 @@
 # nedpals/vex - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 25
 
-★ Stars: 265
+★ Stars: 266
 
 [Open repository](https://github.com/nedpals/vex)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 266 | 25 | 
 | 2022-10-08 | 265 | 25 | 
 | 2022-10-07 | 265 | 25 | 
 | 2022-10-06 | 265 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 264 | 25 | 
 | 2022-09-11 | 264 | 25 | 
 | 2022-09-10 | 264 | 25 | 
-| 2022-09-09 | 263 | 25 | 
 

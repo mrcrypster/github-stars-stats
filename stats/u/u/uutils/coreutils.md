@@ -1,10 +1,10 @@
 # uutils/coreutils - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 906
+☋ Forks: 907
 
-★ Stars: 12558
+★ Stars: 12560
 
 [Open repository](https://github.com/uutils/coreutils)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 12560 | 907 | 
 | 2022-10-08 | 12558 | 906 | 
 | 2022-10-07 | 12555 | 906 | 
 | 2022-10-06 | 12550 | 905 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 12487 | 902 | 
 | 2022-09-11 | 12487 | 902 | 
 | 2022-09-10 | 12485 | 902 | 
-| 2022-09-09 | 12481 | 901 | 
 

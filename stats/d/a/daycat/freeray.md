@@ -1,6 +1,6 @@
 # daycat/freeray - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 184 | 33 | 
 | 2022-10-08 | 184 | 33 | 
 | 2022-10-07 | 184 | 33 | 
 | 2022-10-06 | 184 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 183 | 34 | 
 | 2022-09-11 | 183 | 33 | 
 | 2022-09-10 | 183 | 33 | 
-| 2022-09-09 | 183 | 33 | 
 

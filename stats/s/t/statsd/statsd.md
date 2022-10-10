@@ -1,10 +1,10 @@
 # statsd/statsd - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1986
 
-★ Stars: 16688
+★ Stars: 16690
 
 [Open repository](https://github.com/statsd/statsd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 16690 | 1986 | 
 | 2022-10-08 | 16688 | 1986 | 
 | 2022-10-07 | 16689 | 1986 | 
 | 2022-10-06 | 16686 | 1985 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 16645 | 1984 | 
 | 2022-09-11 | 16641 | 1984 | 
 | 2022-09-10 | 16641 | 1985 | 
-| 2022-09-09 | 16641 | 1985 | 
 

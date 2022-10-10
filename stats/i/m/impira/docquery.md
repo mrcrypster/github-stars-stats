@@ -1,10 +1,10 @@
 # impira/docquery - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 37
 
-★ Stars: 1063
+★ Stars: 1070
 
 [Open repository](https://github.com/impira/docquery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1070 | 37 | 
 | 2022-10-08 | 1063 | 37 | 
 | 2022-10-07 | 1061 | 37 | 
 | 2022-10-06 | 1043 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 697 | 22 | 
 | 2022-09-11 | 680 | 22 | 
 | 2022-09-10 | 660 | 20 | 
-| 2022-09-09 | 618 | 17 | 
 

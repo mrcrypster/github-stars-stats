@@ -1,6 +1,6 @@
 # sailay1996/awesome_windows_logical_bugs - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 474 | 69 | 
 | 2022-10-08 | 474 | 69 | 
 | 2022-10-07 | 474 | 69 | 
 | 2022-10-06 | 474 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 472 | 69 | 
 | 2022-09-12 | 471 | 69 | 
 | 2022-09-10 | 471 | 69 | 
-| 2022-09-09 | 471 | 69 | 
 

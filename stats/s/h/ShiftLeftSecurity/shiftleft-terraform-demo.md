@@ -1,8 +1,8 @@
 # ShiftLeftSecurity/shiftleft-terraform-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1 | 87 | 
 | 2022-10-08 | 1 | 86 | 
 | 2022-10-07 | 1 | 86 | 
 | 2022-10-06 | 1 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1 | 85 | 
 | 2022-09-11 | 1 | 86 | 
 | 2022-09-10 | 1 | 86 | 
-| 2022-09-09 | 1 | 86 | 
 

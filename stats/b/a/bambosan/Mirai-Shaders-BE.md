@@ -1,6 +1,6 @@
 # bambosan/Mirai-Shaders-BE - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 37 | 57 | 
 | 2022-10-08 | 37 | 57 | 
 | 2022-10-07 | 37 | 57 | 
 | 2022-10-06 | 37 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 37 | 57 | 
 | 2022-09-11 | 37 | 57 | 
 | 2022-09-10 | 37 | 57 | 
-| 2022-09-09 | 37 | 57 | 
 

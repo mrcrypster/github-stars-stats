@@ -1,6 +1,6 @@
 # solenopsis/sloggly - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 22 | 6 | 
 | 2022-10-08 | 22 | 6 | 
 | 2022-10-07 | 22 | 6 | 
 | 2022-10-06 | 22 | 6 | 

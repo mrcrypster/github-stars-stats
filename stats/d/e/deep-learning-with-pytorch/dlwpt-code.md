@@ -1,10 +1,10 @@
 # deep-learning-with-pytorch/dlwpt-code - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1516
+☋ Forks: 1518
 
-★ Stars: 3578
+★ Stars: 3579
 
 [Open repository](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3579 | 1518 | 
 | 2022-10-08 | 3578 | 1516 | 
 | 2022-10-07 | 3578 | 1516 | 
 | 2022-10-06 | 3576 | 1516 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3542 | 1504 | 
 | 2022-09-11 | 3539 | 1504 | 
 | 2022-09-10 | 3538 | 1503 | 
-| 2022-09-09 | 3537 | 1502 | 
 

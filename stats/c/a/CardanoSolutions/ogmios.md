@@ -1,10 +1,10 @@
 # CardanoSolutions/ogmios - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 63
 
-★ Stars: 233
+★ Stars: 232
 
 [Open repository](https://github.com/CardanoSolutions/ogmios)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 232 | 63 | 
 | 2022-10-08 | 233 | 63 | 
 | 2022-10-07 | 232 | 63 | 
 | 2022-10-06 | 231 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 229 | 59 | 
 | 2022-09-11 | 229 | 59 | 
 | 2022-09-10 | 227 | 59 | 
-| 2022-09-09 | 227 | 59 | 
 

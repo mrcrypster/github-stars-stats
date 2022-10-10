@@ -1,6 +1,6 @@
 # forcedotcom/sfdx-bitbucket-org - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 25 | 68 | 
 | 2022-10-08 | 25 | 68 | 
 | 2022-10-07 | 25 | 68 | 
 | 2022-10-06 | 25 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 25 | 65 | 
 | 2022-09-11 | 25 | 65 | 
 | 2022-09-10 | 25 | 65 | 
-| 2022-09-09 | 25 | 65 | 
 

@@ -1,6 +1,6 @@
 # BentonEdmondson/knock - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 460 | 28 | 
 | 2022-10-08 | 460 | 28 | 
 | 2022-10-07 | 458 | 28 | 
 | 2022-10-06 | 457 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 438 | 25 | 
 | 2022-09-11 | 437 | 25 | 
 | 2022-09-10 | 432 | 25 | 
-| 2022-09-09 | 432 | 25 | 
 

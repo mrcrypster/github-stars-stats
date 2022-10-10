@@ -1,6 +1,6 @@
 # ucb-bar/testchipip - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 55 | 44 | 
 | 2022-10-08 | 55 | 44 | 
 | 2022-10-07 | 55 | 43 | 
 | 2022-10-06 | 55 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 54 | 41 | 
 | 2022-09-11 | 54 | 41 | 
 | 2022-09-10 | 54 | 41 | 
-| 2022-09-09 | 54 | 41 | 
 

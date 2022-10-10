@@ -1,10 +1,10 @@
 # HabitRPG/habitica - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 3548
+☋ Forks: 3551
 
-★ Stars: 9359
+★ Stars: 9362
 
 [Open repository](https://github.com/HabitRPG/habitica)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 9362 | 3551 | 
 | 2022-10-08 | 9359 | 3548 | 
 | 2022-10-07 | 9357 | 3547 | 
 | 2022-10-06 | 9351 | 3548 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 9315 | 3529 | 
 | 2022-09-11 | 9315 | 3529 | 
 | 2022-09-10 | 9314 | 3530 | 
-| 2022-09-09 | 9313 | 3530 | 
 

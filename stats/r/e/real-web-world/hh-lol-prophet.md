@@ -1,10 +1,10 @@
 # real-web-world/hh-lol-prophet - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 89
 
-★ Stars: 740
+★ Stars: 739
 
 [Open repository](https://github.com/real-web-world/hh-lol-prophet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 739 | 89 | 
 | 2022-10-08 | 740 | 89 | 
 | 2022-10-07 | 740 | 89 | 
 | 2022-10-06 | 740 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 733 | 89 | 
 | 2022-09-11 | 733 | 89 | 
 | 2022-09-10 | 731 | 89 | 
-| 2022-09-09 | 730 | 89 | 
 

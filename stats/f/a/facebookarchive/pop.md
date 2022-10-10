@@ -1,6 +1,6 @@
 # facebookarchive/pop - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2920
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 19776 | 2920 | 
 | 2022-10-08 | 19776 | 2920 | 
 | 2022-10-07 | 19776 | 2921 | 
 | 2022-10-06 | 19776 | 2921 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 19781 | 2921 | 
 | 2022-09-11 | 19781 | 2921 | 
 | 2022-09-10 | 19781 | 2921 | 
-| 2022-09-09 | 19781 | 2921 | 
 

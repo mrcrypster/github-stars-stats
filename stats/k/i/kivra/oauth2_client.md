@@ -1,6 +1,6 @@
 # kivra/oauth2_client - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 71 | 38 | 
 | 2022-10-08 | 71 | 38 | 
 | 2022-10-07 | 71 | 38 | 
 | 2022-10-06 | 71 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 70 | 38 | 
 | 2022-09-11 | 70 | 38 | 
 | 2022-09-10 | 70 | 38 | 
-| 2022-09-09 | 70 | 38 | 
 

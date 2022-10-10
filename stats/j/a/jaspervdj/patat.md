@@ -1,10 +1,10 @@
 # jaspervdj/patat - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 54
 
-★ Stars: 1858
+★ Stars: 1857
 
 [Open repository](https://github.com/jaspervdj/patat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1857 | 54 | 
 | 2022-10-08 | 1858 | 54 | 
 | 2022-10-07 | 1858 | 54 | 
 | 2022-10-06 | 1857 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1848 | 54 | 
 | 2022-09-11 | 1846 | 54 | 
 | 2022-09-10 | 1846 | 54 | 
-| 2022-09-09 | 1846 | 54 | 
 

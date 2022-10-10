@@ -1,8 +1,8 @@
 # MaysLastPlay0/Sunday-Night-Suicide-Recreation - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2 | 6 | 
 | 2022-10-08 | 2 | 7 | 
 | 2022-10-07 | 2 | 6 | 
 | 2022-10-06 | 2 | 6 | 

@@ -1,6 +1,6 @@
 # zkSNACKs/WasabiScripts - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6 | 1 | 
 | 2022-10-08 | 6 | 1 | 
 | 2022-10-07 | 6 | 1 | 
 | 2022-10-06 | 6 | 1 | 

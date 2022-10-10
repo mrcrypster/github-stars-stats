@@ -1,10 +1,10 @@
 # revanced/revanced.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/revanced/revanced.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 34 | 7 | 
 | 2022-10-08 | 33 | 7 | 
 | 2022-10-07 | 33 | 7 | 
 | 2022-10-06 | 33 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 32 | 6 | 
 | 2022-09-11 | 32 | 5 | 
 | 2022-09-10 | 32 | 5 | 
-| 2022-09-09 | 32 | 5 | 
 

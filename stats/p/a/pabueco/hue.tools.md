@@ -1,6 +1,6 @@
 # pabueco/hue.tools - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 349 | 21 | 
 | 2022-10-08 | 349 | 21 | 
 | 2022-10-07 | 349 | 21 | 
 | 2022-10-06 | 349 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 343 | 21 | 
 | 2022-09-11 | 343 | 21 | 
 | 2022-09-10 | 343 | 21 | 
-| 2022-09-09 | 343 | 21 | 
 

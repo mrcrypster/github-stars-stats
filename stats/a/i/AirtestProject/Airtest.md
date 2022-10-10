@@ -1,10 +1,10 @@
 # AirtestProject/Airtest - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1060
 
-★ Stars: 6538
+★ Stars: 6540
 
 [Open repository](https://github.com/AirtestProject/Airtest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6540 | 1060 | 
 | 2022-10-08 | 6538 | 1060 | 
 | 2022-10-07 | 6534 | 1060 | 
 | 2022-10-06 | 6534 | 1060 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 6483 | 1048 | 
 | 2022-09-12 | 6482 | 1048 | 
 | 2022-09-11 | 6482 | 1048 | 
-| 2022-09-10 | 6482 | 1048 | 
 

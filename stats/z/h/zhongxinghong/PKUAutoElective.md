@@ -1,10 +1,10 @@
 # zhongxinghong/PKUAutoElective - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 235
 
-★ Stars: 558
+★ Stars: 557
 
 [Open repository](https://github.com/zhongxinghong/PKUAutoElective)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 557 | 235 | 
 | 2022-10-08 | 558 | 235 | 
 | 2022-10-07 | 557 | 235 | 
 | 2022-10-06 | 557 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 558 | 234 | 
 | 2022-09-11 | 558 | 234 | 
 | 2022-09-10 | 558 | 234 | 
-| 2022-09-09 | 558 | 234 | 
 

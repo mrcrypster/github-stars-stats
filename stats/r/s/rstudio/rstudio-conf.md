@@ -1,8 +1,8 @@
 # rstudio/rstudio-conf - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 354
+☋ Forks: 355
 
 ★ Stars: 664
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 664 | 355 | 
 | 2022-10-08 | 664 | 354 | 
 | 2022-10-07 | 664 | 354 | 
 | 2022-10-06 | 664 | 354 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 660 | 351 | 
 | 2022-09-11 | 660 | 351 | 
 | 2022-09-10 | 660 | 351 | 
-| 2022-09-09 | 659 | 351 | 
 

@@ -1,10 +1,10 @@
 # zacharee/WiFiList - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/zacharee/WiFiList)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 36 | 2 | 
 | 2022-10-08 | 35 | 2 | 
 | 2022-10-07 | 35 | 2 | 
 | 2022-10-06 | 34 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 29 | 1 | 
 | 2022-09-11 | 29 | 1 | 
 | 2022-09-10 | 29 | 1 | 
-| 2022-09-09 | 29 | 1 | 
 

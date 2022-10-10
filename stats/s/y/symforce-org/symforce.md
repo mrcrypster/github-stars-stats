@@ -1,6 +1,6 @@
 # symforce-org/symforce - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 981 | 95 | 
 | 2022-10-08 | 981 | 95 | 
 | 2022-10-07 | 979 | 95 | 
 | 2022-10-06 | 979 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 970 | 94 | 
 | 2022-09-11 | 970 | 94 | 
 | 2022-09-10 | 970 | 94 | 
-| 2022-09-09 | 970 | 94 | 
 

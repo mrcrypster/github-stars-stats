@@ -1,10 +1,10 @@
 # pxlsspace/Pxls - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 101
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/pxlsspace/Pxls)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 136 | 101 | 
 | 2022-10-08 | 135 | 101 | 
 | 2022-10-07 | 135 | 101 | 
 | 2022-10-06 | 135 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 135 | 102 | 
 | 2022-09-11 | 134 | 102 | 
 | 2022-09-10 | 134 | 103 | 
-| 2022-09-09 | 134 | 103 | 
 

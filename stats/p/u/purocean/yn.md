@@ -1,10 +1,10 @@
 # purocean/yn - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 727
+☋ Forks: 728
 
-★ Stars: 4005
+★ Stars: 4012
 
 [Open repository](https://github.com/purocean/yn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 4012 | 728 | 
 | 2022-10-08 | 4005 | 727 | 
 | 2022-10-07 | 3999 | 727 | 
 | 2022-10-06 | 3996 | 727 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3788 | 712 | 
 | 2022-09-11 | 3783 | 712 | 
 | 2022-09-10 | 3782 | 712 | 
-| 2022-09-09 | 3745 | 707 | 
 

@@ -1,10 +1,10 @@
 # heysagnik/screenREC - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 20
+☋ Forks: 22
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/heysagnik/screenREC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 64 | 22 | 
 | 2022-10-08 | 63 | 20 | 
 | 2022-10-07 | 57 | 13 | 
 | 2022-10-06 | 56 | 13 | 

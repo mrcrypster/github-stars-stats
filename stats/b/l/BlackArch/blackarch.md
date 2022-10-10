@@ -1,6 +1,6 @@
 # BlackArch/blackarch - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 516
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2304 | 516 | 
 | 2022-10-08 | 2304 | 516 | 
 | 2022-10-07 | 2302 | 517 | 
 | 2022-10-06 | 2302 | 517 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 2288 | 512 | 
 | 2022-09-12 | 2287 | 511 | 
 | 2022-09-11 | 2286 | 511 | 
-| 2022-09-10 | 2286 | 512 | 
 

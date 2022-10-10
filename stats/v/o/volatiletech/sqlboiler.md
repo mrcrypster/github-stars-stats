@@ -1,10 +1,10 @@
 # volatiletech/sqlboiler - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 454
 
-★ Stars: 5220
+★ Stars: 5223
 
 [Open repository](https://github.com/volatiletech/sqlboiler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 5223 | 454 | 
 | 2022-10-08 | 5220 | 454 | 
 | 2022-10-07 | 5219 | 454 | 
 | 2022-10-06 | 5218 | 454 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 5162 | 454 | 
 | 2022-09-11 | 5162 | 454 | 
 | 2022-09-10 | 5157 | 454 | 
-| 2022-09-09 | 5156 | 454 | 
 

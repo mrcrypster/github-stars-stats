@@ -1,10 +1,10 @@
 # CyberSecurityUP/OSCE-Complete-Guide - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 286
 
-★ Stars: 1042
+★ Stars: 1043
 
 [Open repository](https://github.com/CyberSecurityUP/OSCE-Complete-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1043 | 286 | 
 | 2022-10-08 | 1042 | 286 | 
 | 2022-10-07 | 1042 | 286 | 
 | 2022-10-06 | 1042 | 285 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1002 | 270 | 
 | 2022-09-11 | 997 | 270 | 
 | 2022-09-10 | 993 | 270 | 
-| 2022-09-09 | 984 | 269 | 
 

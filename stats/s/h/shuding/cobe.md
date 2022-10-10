@@ -1,10 +1,10 @@
 # shuding/cobe - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 72
 
-★ Stars: 1740
+★ Stars: 1741
 
 [Open repository](https://github.com/shuding/cobe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1741 | 72 | 
 | 2022-10-08 | 1740 | 72 | 
 | 2022-10-07 | 1739 | 72 | 
 | 2022-10-06 | 1739 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1606 | 65 | 
 | 2022-09-11 | 1603 | 65 | 
 | 2022-09-10 | 1599 | 65 | 
-| 2022-09-09 | 1598 | 65 | 
 

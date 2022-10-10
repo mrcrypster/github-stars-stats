@@ -1,10 +1,10 @@
 # tenderlove/refreshing - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 48
 
 [Open repository](https://github.com/tenderlove/refreshing)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 48 | - | 
 | 2022-10-08 | 32 | - | 
 | 2022-10-07 | 32 | - | 
 | 2022-10-06 | 32 | - | 

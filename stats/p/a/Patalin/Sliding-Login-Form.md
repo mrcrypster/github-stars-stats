@@ -1,6 +1,6 @@
 # Patalin/Sliding-Login-Form - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 42 | 6 | 
 | 2022-10-08 | 42 | 6 | 
 | 2022-10-07 | 42 | 6 | 
 | 2022-10-06 | 42 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 36 | 6 | 
 | 2022-09-11 | 36 | 6 | 
 | 2022-09-10 | 35 | 6 | 
-| 2022-09-09 | 34 | 5 | 
 

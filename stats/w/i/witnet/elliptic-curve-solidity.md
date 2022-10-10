@@ -1,8 +1,8 @@
 # witnet/elliptic-curve-solidity - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 27
+☋ Forks: 28
 
 ★ Stars: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 87 | 28 | 
 | 2022-10-08 | 87 | 27 | 
 | 2022-10-07 | 87 | 27 | 
 | 2022-10-06 | 86 | 27 | 

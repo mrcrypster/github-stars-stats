@@ -1,10 +1,10 @@
 # google/guice - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1606
+☋ Forks: 1608
 
-★ Stars: 11500
+★ Stars: 11502
 
 [Open repository](https://github.com/google/guice)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 11502 | 1608 | 
 | 2022-10-08 | 11500 | 1606 | 
 | 2022-10-07 | 11496 | 1604 | 
 | 2022-10-06 | 11495 | 1605 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 11435 | 1602 | 
 | 2022-09-11 | 11433 | 1601 | 
 | 2022-09-10 | 11432 | 1601 | 
-| 2022-09-09 | 11434 | 1601 | 
 

@@ -1,8 +1,8 @@
 # bradtraversy/laragigs - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 178
+☋ Forks: 179
 
 ★ Stars: 292
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 292 | 179 | 
 | 2022-10-08 | 292 | 178 | 
 | 2022-10-07 | 292 | 178 | 
 | 2022-10-06 | 292 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 264 | 145 | 
 | 2022-09-11 | 259 | 145 | 
 | 2022-09-10 | 258 | 143 | 
-| 2022-09-09 | 258 | 144 | 
 

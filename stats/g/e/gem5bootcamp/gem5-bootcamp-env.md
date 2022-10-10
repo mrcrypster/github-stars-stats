@@ -1,6 +1,6 @@
 # gem5bootcamp/gem5-bootcamp-env - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 6 | 7 | 
 | 2022-10-08 | 6 | 7 | 
 | 2022-10-07 | 6 | 7 | 
 | 2022-10-06 | 6 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 4 | 7 | 
 | 2022-09-11 | 4 | 7 | 
 | 2022-09-10 | 4 | 7 | 
-| 2022-09-09 | 4 | 7 | 
 

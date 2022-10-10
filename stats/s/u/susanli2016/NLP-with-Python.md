@@ -1,8 +1,8 @@
 # susanli2016/NLP-with-Python - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1924
+☋ Forks: 1925
 
 ★ Stars: 2412
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2412 | 1925 | 
 | 2022-10-08 | 2412 | 1924 | 
 | 2022-10-07 | 2411 | 1924 | 
 | 2022-10-06 | 2411 | 1923 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2400 | 1907 | 
 | 2022-09-11 | 2400 | 1907 | 
 | 2022-09-10 | 2399 | 1907 | 
-| 2022-09-09 | 2399 | 1905 | 
 

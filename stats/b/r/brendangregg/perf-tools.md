@@ -1,8 +1,8 @@
 # brendangregg/perf-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1508
+☋ Forks: 1509
 
 ★ Stars: 8638
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8638 | 1509 | 
 | 2022-10-08 | 8638 | 1508 | 
 | 2022-10-07 | 8637 | 1507 | 
 | 2022-10-06 | 8638 | 1507 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 8582 | 1502 | 
 | 2022-09-11 | 8582 | 1502 | 
 | 2022-09-10 | 8581 | 1501 | 
-| 2022-09-09 | 8579 | 1500 | 
 

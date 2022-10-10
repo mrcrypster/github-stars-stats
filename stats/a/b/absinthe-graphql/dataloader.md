@@ -1,6 +1,6 @@
 # absinthe-graphql/dataloader - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 445 | 80 | 
 | 2022-10-08 | 445 | 80 | 
 | 2022-10-07 | 445 | 80 | 
 | 2022-10-06 | 445 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 443 | 79 | 
 | 2022-09-11 | 443 | 79 | 
 | 2022-09-10 | 442 | 79 | 
-| 2022-09-09 | 442 | 79 | 
 

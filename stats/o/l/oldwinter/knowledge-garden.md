@@ -1,8 +1,8 @@
 # oldwinter/knowledge-garden - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 31
+☋ Forks: 30
 
 ★ Stars: 524
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 524 | 30 | 
 | 2022-10-08 | 524 | 31 | 
 | 2022-10-07 | 521 | 31 | 
 | 2022-10-06 | 520 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 460 | 29 | 
 | 2022-09-11 | 457 | 29 | 
 | 2022-09-10 | 453 | 29 | 
-| 2022-09-09 | 449 | 29 | 
 

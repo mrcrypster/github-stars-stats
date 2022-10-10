@@ -1,10 +1,10 @@
 # sqlsite/awesome-sqlite - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 15
 
-★ Stars: 463
+★ Stars: 464
 
 [Open repository](https://github.com/sqlsite/awesome-sqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 464 | 15 | 
 | 2022-10-08 | 463 | 15 | 
 | 2022-10-07 | 463 | 15 | 
 | 2022-10-06 | 463 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 460 | 15 | 
 | 2022-09-11 | 459 | 15 | 
 | 2022-09-10 | 459 | 15 | 
-| 2022-09-09 | 458 | 15 | 
 

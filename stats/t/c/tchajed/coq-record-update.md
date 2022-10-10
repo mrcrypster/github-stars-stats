@@ -1,6 +1,6 @@
 # tchajed/coq-record-update - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 38 | 13 | 
 | 2022-10-08 | 38 | 13 | 
 | 2022-10-07 | 38 | 13 | 
 | 2022-10-06 | 38 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 37 | 13 | 
 | 2022-09-11 | 37 | 13 | 
 | 2022-09-10 | 37 | 13 | 
-| 2022-09-09 | 37 | 13 | 
 

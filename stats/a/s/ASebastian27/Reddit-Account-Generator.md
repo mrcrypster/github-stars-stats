@@ -1,6 +1,6 @@
 # ASebastian27/Reddit-Account-Generator - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 54 | 31 | 
 | 2022-10-08 | 54 | 31 | 
 | 2022-10-07 | 54 | 31 | 
 | 2022-10-06 | 54 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 46 | 29 | 
 | 2022-09-11 | 46 | 30 | 
 | 2022-09-10 | 46 | 31 | 
-| 2022-09-09 | 46 | 31 | 
 

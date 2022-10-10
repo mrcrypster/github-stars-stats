@@ -1,10 +1,10 @@
 # ptitSeb/box86 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 162
 
-★ Stars: 2288
+★ Stars: 2289
 
 [Open repository](https://github.com/ptitSeb/box86)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 2289 | 162 | 
 | 2022-10-08 | 2288 | 162 | 
 | 2022-10-07 | 2287 | 161 | 
 | 2022-10-06 | 2287 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 2261 | 158 | 
 | 2022-09-11 | 2259 | 158 | 
 | 2022-09-10 | 2259 | 158 | 
-| 2022-09-09 | 2257 | 158 | 
 

@@ -1,6 +1,6 @@
 # flairNLP/flair - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1939
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 12088 | 1939 | 
 | 2022-10-08 | 12088 | 1939 | 
 | 2022-10-07 | 12086 | 1939 | 
 | 2022-10-06 | 12084 | 1939 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 12005 | 1932 | 
 | 2022-09-11 | 12003 | 1931 | 
 | 2022-09-10 | 12001 | 1930 | 
-| 2022-09-09 | 12000 | 1930 | 
 

@@ -1,6 +1,6 @@
 # sirwart/ripsecrets - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 537 | 13 | 
 | 2022-10-08 | 537 | 13 | 
 | 2022-10-07 | 537 | 13 | 
 | 2022-10-06 | 537 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 535 | 13 | 
 | 2022-09-11 | 534 | 13 | 
 | 2022-09-10 | 534 | 13 | 
-| 2022-09-09 | 534 | 13 | 
 

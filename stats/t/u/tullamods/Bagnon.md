@@ -1,6 +1,6 @@
 # tullamods/Bagnon - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 155 | 75 | 
 | 2022-10-08 | 155 | 75 | 
 | 2022-10-07 | 155 | 75 | 
 | 2022-10-06 | 155 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 150 | 74 | 
 | 2022-09-11 | 150 | 73 | 
 | 2022-09-10 | 150 | 73 | 
-| 2022-09-09 | 150 | 72 | 
 

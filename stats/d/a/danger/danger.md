@@ -1,6 +1,6 @@
 # danger/danger - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 460
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 4939 | 460 | 
 | 2022-10-08 | 4939 | 460 | 
 | 2022-10-07 | 4938 | 460 | 
 | 2022-10-06 | 4936 | 459 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 4918 | 457 | 
 | 2022-09-11 | 4918 | 454 | 
 | 2022-09-10 | 4917 | 454 | 
-| 2022-09-09 | 4918 | 454 | 
 

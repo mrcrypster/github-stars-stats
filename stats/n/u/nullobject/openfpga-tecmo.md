@@ -1,6 +1,6 @@
 # nullobject/openfpga-tecmo - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 42 | 2 | 
 | 2022-10-08 | 42 | 2 | 
 | 2022-10-07 | 42 | 2 | 
 | 2022-10-06 | 42 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 35 | - | 
 | 2022-09-11 | 33 | - | 
 | 2022-09-10 | 29 | - | 
-| 2022-09-09 | 29 | - | 
 

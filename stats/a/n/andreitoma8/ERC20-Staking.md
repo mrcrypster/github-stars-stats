@@ -1,6 +1,6 @@
 # andreitoma8/ERC20-Staking - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 43 | 17 | 
 | 2022-10-08 | 43 | 17 | 
 | 2022-10-07 | 43 | 16 | 
 | 2022-10-06 | 43 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 40 | 15 | 
 | 2022-09-11 | 40 | 15 | 
 | 2022-09-10 | 40 | 15 | 
-| 2022-09-09 | 40 | 15 | 
 

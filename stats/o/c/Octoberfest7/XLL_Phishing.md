@@ -1,10 +1,10 @@
 # Octoberfest7/XLL_Phishing - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 226
+★ Stars: 228
 
 [Open repository](https://github.com/Octoberfest7/XLL_Phishing)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 228 | 56 | 
 | 2022-10-08 | 226 | 55 | 
 | 2022-10-07 | 226 | 55 | 
 | 2022-10-06 | 226 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 201 | 42 | 
 | 2022-09-11 | 201 | 42 | 
 | 2022-09-10 | 201 | 41 | 
-| 2022-09-09 | 201 | 41 | 
 

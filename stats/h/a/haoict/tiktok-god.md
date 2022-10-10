@@ -1,6 +1,6 @@
 # haoict/tiktok-god - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 209 | 51 | 
 | 2022-10-08 | 209 | 51 | 
 | 2022-10-07 | 209 | 51 | 
 | 2022-10-06 | 209 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 205 | 50 | 
 | 2022-09-11 | 205 | 50 | 
 | 2022-09-10 | 205 | 50 | 
-| 2022-09-09 | 205 | 50 | 
 

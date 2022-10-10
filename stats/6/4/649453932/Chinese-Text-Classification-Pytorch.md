@@ -1,10 +1,10 @@
 # 649453932/Chinese-Text-Classification-Pytorch - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1058
 
-★ Stars: 3863
+★ Stars: 3865
 
 [Open repository](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3865 | 1058 | 
 | 2022-10-08 | 3863 | 1058 | 
 | 2022-10-07 | 3863 | 1058 | 
 | 2022-10-06 | 3864 | 1058 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 3820 | 1045 | 
 | 2022-09-12 | 3820 | 1045 | 
 | 2022-09-10 | 3820 | 1045 | 
-| 2022-09-09 | 3820 | 1045 | 
 

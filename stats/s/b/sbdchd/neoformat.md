@@ -1,10 +1,10 @@
 # sbdchd/neoformat - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 167
 
-★ Stars: 1607
+★ Stars: 1609
 
 [Open repository](https://github.com/sbdchd/neoformat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1609 | 167 | 
 | 2022-10-08 | 1607 | 167 | 
 | 2022-10-07 | 1608 | 167 | 
 | 2022-10-06 | 1607 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1581 | 166 | 
 | 2022-09-11 | 1580 | 166 | 
 | 2022-09-10 | 1580 | 166 | 
-| 2022-09-09 | 1578 | 166 | 
 

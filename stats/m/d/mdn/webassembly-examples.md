@@ -1,10 +1,10 @@
 # mdn/webassembly-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 232
 
-★ Stars: 931
+★ Stars: 932
 
 [Open repository](https://github.com/mdn/webassembly-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 932 | 232 | 
 | 2022-10-09 | 931 | 232 | 
 | 2022-10-08 | 931 | 232 | 
 | 2022-10-07 | 930 | 232 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-12 | 923 | 230 | 
 | 2022-09-11 | 923 | 230 | 
 | 2022-09-10 | 923 | 230 | 
-| 2022-09-09 | 922 | 230 | 
 

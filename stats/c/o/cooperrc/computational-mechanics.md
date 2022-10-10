@@ -1,6 +1,6 @@
 # cooperrc/computational-mechanics - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 298
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 25 | 298 | 
 | 2022-10-08 | 25 | 298 | 
 | 2022-10-07 | 25 | 298 | 
 | 2022-10-06 | 25 | 298 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 19 | 290 | 
 | 2022-09-11 | 19 | 290 | 
 | 2022-09-10 | 19 | 290 | 
-| 2022-09-09 | 19 | 289 | 
 

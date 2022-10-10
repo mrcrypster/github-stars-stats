@@ -1,10 +1,10 @@
 # mit-biomimetics/Cheetah-Software - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 738
 
-★ Stars: 1699
+★ Stars: 1700
 
 [Open repository](https://github.com/mit-biomimetics/Cheetah-Software)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1700 | 738 | 
 | 2022-10-08 | 1699 | 738 | 
 | 2022-10-07 | 1699 | 738 | 
 | 2022-10-06 | 1699 | 737 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1670 | 730 | 
 | 2022-09-11 | 1670 | 730 | 
 | 2022-09-10 | 1668 | 730 | 
-| 2022-09-09 | 1666 | 728 | 
 

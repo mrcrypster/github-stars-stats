@@ -1,10 +1,10 @@
 # unlock-music/cli - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 215
 
-★ Stars: 702
+★ Stars: 705
 
 [Open repository](https://github.com/unlock-music/cli)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 705 | 215 | 
 | 2022-10-08 | 702 | 215 | 
 | 2022-10-07 | 701 | 216 | 
 | 2022-10-06 | 700 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 674 | 206 | 
 | 2022-09-11 | 673 | 206 | 
 | 2022-09-10 | 669 | 205 | 
-| 2022-09-09 | 669 | 205 | 
 

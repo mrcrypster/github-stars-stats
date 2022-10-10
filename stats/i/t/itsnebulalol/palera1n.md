@@ -1,10 +1,10 @@
 # itsnebulalol/palera1n - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 444
+★ Stars: 456
 
 [Open repository](https://github.com/itsnebulalol/palera1n)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 456 | 44 | 
 | 2022-10-08 | 444 | 43 | 
 | 2022-10-07 | 398 | 42 | 
 | 2022-10-06 | 327 | 40 | 

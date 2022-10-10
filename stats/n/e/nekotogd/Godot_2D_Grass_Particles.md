@@ -1,6 +1,6 @@
 # nekotogd/Godot_2D_Grass_Particles - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 14 | - | 
 | 2022-10-08 | 14 | - | 
 | 2022-10-07 | 14 | - | 
 | 2022-10-06 | 14 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 14 | - | 
 | 2022-09-11 | 14 | - | 
 | 2022-09-10 | 14 | - | 
-| 2022-09-09 | 14 | - | 
 

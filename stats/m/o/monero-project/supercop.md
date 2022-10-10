@@ -1,6 +1,6 @@
 # monero-project/supercop - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8 | 24 | 
 | 2022-10-08 | 8 | 24 | 
 | 2022-10-07 | 8 | 24 | 
 | 2022-10-06 | 8 | 24 | 

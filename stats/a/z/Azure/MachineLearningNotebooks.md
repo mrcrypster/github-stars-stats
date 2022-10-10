@@ -1,10 +1,10 @@
 # Azure/MachineLearningNotebooks - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 2250
 
-★ Stars: 3465
+★ Stars: 3466
 
 [Open repository](https://github.com/Azure/MachineLearningNotebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3466 | 2250 | 
 | 2022-10-08 | 3465 | 2250 | 
 | 2022-10-07 | 3465 | 2250 | 
 | 2022-10-06 | 3463 | 2249 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3387 | 2220 | 
 | 2022-09-11 | 3387 | 2221 | 
 | 2022-09-10 | 3387 | 2221 | 
-| 2022-09-09 | 3386 | 2220 | 
 

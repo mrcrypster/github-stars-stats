@@ -1,10 +1,10 @@
 # ZoneMinder/zoneminder - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 1067
+☋ Forks: 1068
 
-★ Stars: 3844
+★ Stars: 3843
 
 [Open repository](https://github.com/ZoneMinder/zoneminder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3843 | 1068 | 
 | 2022-10-08 | 3844 | 1067 | 
 | 2022-10-07 | 3841 | 1067 | 
 | 2022-10-06 | 3841 | 1067 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3815 | 1066 | 
 | 2022-09-11 | 3813 | 1066 | 
 | 2022-09-10 | 3813 | 1066 | 
-| 2022-09-09 | 3811 | 1066 | 
 

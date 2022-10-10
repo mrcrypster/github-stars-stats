@@ -1,6 +1,6 @@
 # hepingood/mfrc522 - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 155 | 51 | 
 | 2022-10-08 | 155 | 51 | 
 | 2022-10-07 | 155 | 51 | 
 | 2022-10-06 | 155 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 156 | 51 | 
 | 2022-09-11 | 156 | 51 | 
 | 2022-09-10 | 156 | 51 | 
-| 2022-09-09 | 156 | 51 | 
 

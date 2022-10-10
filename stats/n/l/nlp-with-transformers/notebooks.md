@@ -1,10 +1,10 @@
 # nlp-with-transformers/notebooks - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 454
 
-★ Stars: 1947
+★ Stars: 1948
 
 [Open repository](https://github.com/nlp-with-transformers/notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1948 | 454 | 
 | 2022-10-08 | 1947 | 454 | 
 | 2022-10-07 | 1946 | 454 | 
 | 2022-10-06 | 1946 | 455 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 1897 | 430 | 
 | 2022-09-11 | 1893 | 430 | 
 | 2022-09-10 | 1893 | 429 | 
-| 2022-09-09 | 1890 | 429 | 
 

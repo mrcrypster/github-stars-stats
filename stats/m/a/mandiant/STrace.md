@@ -1,10 +1,10 @@
 # mandiant/STrace - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 22
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/mandiant/STrace)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 210 | 22 | 
 | 2022-10-08 | 209 | 22 | 
 | 2022-10-07 | 209 | 22 | 
 | 2022-10-06 | 208 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-13 | 201 | 19 | 
 | 2022-09-12 | 197 | 19 | 
 | 2022-09-10 | 197 | 19 | 
-| 2022-09-09 | 197 | 19 | 
 

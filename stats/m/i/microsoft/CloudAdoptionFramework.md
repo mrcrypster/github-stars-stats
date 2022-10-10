@@ -1,6 +1,6 @@
 # microsoft/CloudAdoptionFramework - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 428 | 186 | 
 | 2022-10-08 | 428 | 186 | 
 | 2022-10-07 | 425 | 186 | 
 | 2022-10-06 | 421 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 396 | 176 | 
 | 2022-09-11 | 395 | 176 | 
 | 2022-09-10 | 395 | 176 | 
-| 2022-09-09 | 392 | 176 | 
 

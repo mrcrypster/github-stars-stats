@@ -1,6 +1,6 @@
 # basecamp/trix - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 1034
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 16982 | 1034 | 
 | 2022-10-08 | 16982 | 1034 | 
 | 2022-10-07 | 16980 | 1034 | 
 | 2022-10-06 | 16980 | 1035 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 16959 | 1036 | 
 | 2022-09-11 | 16957 | 1035 | 
 | 2022-09-10 | 16957 | 1035 | 
-| 2022-09-09 | 16955 | 1033 | 
 

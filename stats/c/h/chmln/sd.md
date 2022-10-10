@@ -1,6 +1,6 @@
 # chmln/sd - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 3771 | 75 | 
 | 2022-10-08 | 3771 | 75 | 
 | 2022-10-07 | 3769 | 75 | 
 | 2022-10-06 | 3768 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 3668 | 74 | 
 | 2022-09-11 | 3661 | 74 | 
 | 2022-09-10 | 3655 | 74 | 
-| 2022-09-09 | 3649 | 74 | 
 

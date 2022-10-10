@@ -1,10 +1,10 @@
 # xgadget-lab/nexttrace - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 25
 
-★ Stars: 503
+★ Stars: 504
 
 [Open repository](https://github.com/xgadget-lab/nexttrace)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 504 | 25 | 
 | 2022-10-08 | 503 | 25 | 
 | 2022-10-07 | 502 | 25 | 
 | 2022-10-06 | 500 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 456 | 23 | 
 | 2022-09-11 | 456 | 23 | 
 | 2022-09-10 | 456 | 23 | 
-| 2022-09-09 | 456 | 23 | 
 

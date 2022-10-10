@@ -1,8 +1,8 @@
 # GDSC-IET-LUCKNOW/IET-GDSC-Website - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 8 | 15 | 
 | 2022-10-08 | 8 | 14 | 
 | 2022-10-07 | 8 | 14 | 
 | 2022-10-06 | 8 | 14 | 

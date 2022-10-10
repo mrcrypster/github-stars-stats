@@ -1,6 +1,6 @@
 # cetic/helm-nifi - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 155 | 170 | 
 | 2022-10-08 | 155 | 170 | 
 | 2022-10-07 | 155 | 170 | 
 | 2022-10-06 | 155 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 151 | 166 | 
 | 2022-09-11 | 151 | 165 | 
 | 2022-09-10 | 151 | 165 | 
-| 2022-09-09 | 151 | 164 | 
 

@@ -1,10 +1,10 @@
 # LukeSmithxyz/LARBS - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
 ☋ Forks: 755
 
-★ Stars: 1812
+★ Stars: 1813
 
 [Open repository](https://github.com/LukeSmithxyz/LARBS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 1813 | 755 | 
 | 2022-10-08 | 1812 | 755 | 
 | 2022-10-07 | 1811 | 755 | 
 | 2022-10-06 | 1810 | 756 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 1799 | 755 | 
 | 2022-09-11 | 1798 | 754 | 
 | 2022-09-10 | 1798 | 754 | 
-| 2022-09-09 | 1798 | 753 | 
 

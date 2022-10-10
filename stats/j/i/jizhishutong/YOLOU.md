@@ -1,8 +1,8 @@
 # jizhishutong/YOLOU - stars & forks statistics
 
-Stats updated on Oct 2022, 08
+Stats updated on Oct 2022, 09
 
-☋ Forks: 104
+☋ Forks: 105
 
 ★ Stars: 594
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-09 | 594 | 105 | 
 | 2022-10-08 | 594 | 104 | 
 | 2022-10-07 | 593 | 104 | 
 | 2022-10-06 | 593 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 08
 | 2022-09-12 | 554 | 96 | 
 | 2022-09-11 | 554 | 95 | 
 | 2022-09-10 | 554 | 95 | 
-| 2022-09-09 | 553 | 95 | 
 
