@@ -1,10 +1,10 @@
 # libcpr/cpr - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 797
+☋ Forks: 796
 
-★ Stars: 5033
+★ Stars: 5035
 
 [Open repository](https://github.com/libcpr/cpr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 5035 | 796 | 
 | 2022-10-09 | 5033 | 797 | 
 | 2022-10-08 | 5032 | 796 | 
 | 2022-10-07 | 5030 | 796 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 4940 | 788 | 
 | 2022-09-12 | 4938 | 788 | 
 | 2022-09-11 | 4936 | 788 | 
-| 2022-09-10 | 4934 | 788 | 
 

@@ -1,6 +1,6 @@
 # elm/compiler - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 640
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 6957 | 640 | 
 | 2022-10-09 | 6957 | 640 | 
 | 2022-10-08 | 6956 | 640 | 
 | 2022-10-07 | 6954 | 640 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 6929 | 635 | 
 | 2022-09-12 | 6928 | 635 | 
 | 2022-09-11 | 6928 | 636 | 
-| 2022-09-10 | 6927 | 636 | 
 

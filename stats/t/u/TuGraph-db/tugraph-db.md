@@ -1,8 +1,8 @@
 # TuGraph-db/tugraph-db - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 68
+☋ Forks: 69
 
 ★ Stars: 419
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 419 | 69 | 
 | 2022-10-09 | 419 | 68 | 
 | 2022-10-08 | 417 | 68 | 
 | 2022-10-07 | 416 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 381 | 55 | 
 | 2022-09-12 | 367 | 54 | 
 | 2022-09-11 | 363 | 54 | 
-| 2022-09-10 | 362 | 54 | 
 

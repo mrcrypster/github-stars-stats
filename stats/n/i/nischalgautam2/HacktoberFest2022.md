@@ -1,10 +1,10 @@
 # nischalgautam2/HacktoberFest2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 47
+☋ Forks: 51
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/nischalgautam2/HacktoberFest2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 16 | 51 | 
 | 2022-10-09 | 14 | 47 | 
 | 2022-10-08 | 14 | 47 | 
 

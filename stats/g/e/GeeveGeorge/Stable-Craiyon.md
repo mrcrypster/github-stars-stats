@@ -1,6 +1,6 @@
 # GeeveGeorge/Stable-Craiyon - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 110 | 14 | 
 | 2022-10-09 | 110 | 14 | 
 | 2022-10-08 | 110 | 13 | 
 | 2022-10-07 | 109 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 92 | 11 | 
 | 2022-09-12 | 83 | 11 | 
 | 2022-09-11 | 65 | 7 | 
-| 2022-09-10 | 62 | 5 | 
 

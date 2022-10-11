@@ -1,10 +1,10 @@
 # keshavsingh4522/hacktoberfest2021 - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 3184
+☋ Forks: 3213
 
-★ Stars: 766
+★ Stars: 772
 
 [Open repository](https://github.com/keshavsingh4522/hacktoberfest2021)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 772 | 3213 | 
 | 2022-10-09 | 766 | 3184 | 
 | 2022-10-08 | 762 | 3156 | 
 | 2022-10-07 | 758 | 3130 | 

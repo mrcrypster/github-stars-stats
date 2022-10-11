@@ -1,6 +1,6 @@
 # SpinalHDL/SpinalHDL - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 243
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1119 | 243 | 
 | 2022-10-09 | 1119 | 243 | 
 | 2022-10-08 | 1118 | 244 | 
 | 2022-10-07 | 1117 | 244 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1103 | 243 | 
 | 2022-09-12 | 1102 | 243 | 
 | 2022-09-11 | 1100 | 243 | 
-| 2022-09-10 | 1099 | 243 | 
 

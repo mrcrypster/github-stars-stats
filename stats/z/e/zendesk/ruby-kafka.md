@@ -1,10 +1,10 @@
 # zendesk/ruby-kafka - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 342
 
-★ Stars: 1208
+★ Stars: 1209
 
 [Open repository](https://github.com/zendesk/ruby-kafka)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1209 | 342 | 
 | 2022-10-09 | 1208 | 342 | 
 | 2022-10-08 | 1208 | 342 | 
 | 2022-10-07 | 1208 | 342 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1202 | 340 | 
 | 2022-09-12 | 1201 | 340 | 
 | 2022-09-11 | 1201 | 340 | 
-| 2022-09-10 | 1201 | 340 | 
 

@@ -1,6 +1,6 @@
 # dotnet/systemweb-adapters - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 196 | 26 | 
 | 2022-10-09 | 196 | 26 | 
 | 2022-10-08 | 194 | 26 | 
 | 2022-10-07 | 192 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 181 | 25 | 
 | 2022-09-13 | 181 | 25 | 
 | 2022-09-12 | 179 | 25 | 
-| 2022-09-10 | 179 | 25 | 
 

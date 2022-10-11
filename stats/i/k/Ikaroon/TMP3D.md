@@ -1,6 +1,6 @@
 # Ikaroon/TMP3D - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 53 | 2 | 
 | 2022-10-09 | 53 | 2 | 
 | 2022-10-08 | 52 | 2 | 
 | 2022-10-07 | 52 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 48 | 1 | 
 | 2022-09-12 | 48 | 1 | 
 | 2022-09-11 | 48 | 1 | 
-| 2022-09-10 | 48 | 1 | 
 

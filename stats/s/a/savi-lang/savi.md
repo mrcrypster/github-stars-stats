@@ -1,6 +1,6 @@
 # savi-lang/savi - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 131 | 9 | 
 | 2022-10-09 | 131 | 9 | 
 | 2022-10-08 | 131 | 9 | 
 | 2022-10-07 | 131 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 127 | 10 | 
 | 2022-09-12 | 127 | 10 | 
 | 2022-09-11 | 127 | 10 | 
-| 2022-09-10 | 127 | 10 | 
 

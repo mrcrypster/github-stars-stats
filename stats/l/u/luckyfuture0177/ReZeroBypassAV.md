@@ -1,6 +1,6 @@
 # luckyfuture0177/ReZeroBypassAV - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 308 | 47 | 
 | 2022-10-09 | 308 | 47 | 
 | 2022-10-08 | 308 | 47 | 
 | 2022-10-07 | 308 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 304 | 46 | 
 | 2022-09-12 | 304 | 46 | 
 | 2022-09-11 | 304 | 46 | 
-| 2022-09-10 | 304 | 46 | 
 

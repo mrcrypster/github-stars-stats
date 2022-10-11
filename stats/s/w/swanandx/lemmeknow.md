@@ -1,10 +1,10 @@
 # swanandx/lemmeknow - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 15
 
-★ Stars: 371
+★ Stars: 374
 
 [Open repository](https://github.com/swanandx/lemmeknow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 374 | 15 | 
 | 2022-10-09 | 371 | 15 | 
 | 2022-10-08 | 367 | 15 | 
 | 2022-10-07 | 362 | 14 | 

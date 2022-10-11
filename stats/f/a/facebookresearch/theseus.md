@@ -1,6 +1,6 @@
 # facebookresearch/theseus - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1014 | 60 | 
 | 2022-10-09 | 1014 | 60 | 
 | 2022-10-08 | 1012 | 60 | 
 | 2022-10-07 | 1011 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 980 | 58 | 
 | 2022-09-12 | 979 | 58 | 
 | 2022-09-11 | 977 | 58 | 
-| 2022-09-10 | 977 | 58 | 
 

@@ -1,10 +1,10 @@
 # rsd-devel/rsd - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 71
 
-★ Stars: 706
+★ Stars: 709
 
 [Open repository](https://github.com/rsd-devel/rsd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 709 | 71 | 
 | 2022-10-09 | 706 | 71 | 
 | 2022-10-08 | 705 | 71 | 
 | 2022-10-07 | 705 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 700 | 71 | 
 | 2022-09-12 | 700 | 71 | 
 | 2022-09-11 | 700 | 71 | 
-| 2022-09-10 | 700 | 71 | 
 

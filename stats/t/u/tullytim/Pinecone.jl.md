@@ -1,6 +1,6 @@
 # tullytim/Pinecone.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 21 | - | 
 | 2022-10-09 | 21 | - | 
 | 2022-10-08 | 21 | - | 
 | 2022-10-07 | 21 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 21 | - | 
 | 2022-09-13 | 21 | - | 
 | 2022-09-12 | 21 | - | 
-| 2022-09-10 | 21 | - | 
 

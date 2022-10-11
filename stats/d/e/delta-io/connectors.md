@@ -1,10 +1,10 @@
 # delta-io/connectors - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 129
 
-★ Stars: 317
+★ Stars: 318
 
 [Open repository](https://github.com/delta-io/connectors)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 318 | 129 | 
 | 2022-10-09 | 317 | 129 | 
 | 2022-10-08 | 317 | 129 | 
 | 2022-10-07 | 317 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 314 | 126 | 
 | 2022-09-12 | 314 | 125 | 
 | 2022-09-11 | 314 | 125 | 
-| 2022-09-10 | 314 | 125 | 
 

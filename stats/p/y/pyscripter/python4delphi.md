@@ -1,10 +1,10 @@
 # pyscripter/python4delphi - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 271
 
-★ Stars: 719
+★ Stars: 720
 
 [Open repository](https://github.com/pyscripter/python4delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 720 | 271 | 
 | 2022-10-09 | 719 | 271 | 
 | 2022-10-08 | 719 | 271 | 
 | 2022-10-07 | 719 | 271 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 714 | 267 | 
 | 2022-09-12 | 715 | 267 | 
 | 2022-09-11 | 715 | 266 | 
-| 2022-09-10 | 715 | 266 | 
 

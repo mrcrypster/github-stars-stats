@@ -1,6 +1,6 @@
 # MichaHoffmann/tree-sitter-hcl - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 38 | 4 | 
 | 2022-10-09 | 38 | 4 | 
 | 2022-10-08 | 38 | 5 | 
 | 2022-10-07 | 38 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 35 | 5 | 
 | 2022-09-12 | 35 | 5 | 
 | 2022-09-11 | 35 | 5 | 
-| 2022-09-10 | 36 | 5 | 
 

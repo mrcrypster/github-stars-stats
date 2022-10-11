@@ -1,6 +1,6 @@
 # DeekshithSN/Java_Multistage_dockerfile - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 3 | 148 | 
 | 2022-10-09 | 3 | 148 | 
 | 2022-10-08 | 3 | 148 | 
 | 2022-10-07 | 3 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 3 | 142 | 
 | 2022-09-12 | 3 | 141 | 
 | 2022-09-11 | 3 | 141 | 
-| 2022-09-10 | 3 | 141 | 
 

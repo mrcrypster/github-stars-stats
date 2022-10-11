@@ -1,10 +1,10 @@
 # alijahnas/CKA-practice-exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 331
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/alijahnas/CKA-practice-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 642 | 331 | 
 | 2022-10-09 | 641 | 331 | 
 | 2022-10-08 | 641 | 330 | 
 | 2022-10-07 | 641 | 330 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 625 | 320 | 
 | 2022-09-12 | 625 | 320 | 
 | 2022-09-11 | 625 | 318 | 
-| 2022-09-10 | 624 | 317 | 
 

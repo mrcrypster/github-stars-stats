@@ -1,6 +1,6 @@
 # clojure/data.generators - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 81 | 18 | 
 | 2022-10-09 | 81 | 18 | 
 | 2022-10-08 | 81 | 18 | 
 | 2022-10-07 | 81 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 81 | 18 | 
 | 2022-09-12 | 81 | 18 | 
 | 2022-09-11 | 81 | 18 | 
-| 2022-09-10 | 81 | 18 | 
 

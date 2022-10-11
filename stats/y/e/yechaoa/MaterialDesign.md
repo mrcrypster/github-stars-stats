@@ -1,10 +1,10 @@
 # yechaoa/MaterialDesign - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
-☋ Forks: 120
+☋ Forks: 121
 
-★ Stars: 505
+★ Stars: 508
 
 [Open repository](https://github.com/yechaoa/MaterialDesign)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 508 | 121 | 
 | 2022-10-09 | 505 | 120 | 
 | 2022-10-08 | 505 | 120 | 
 | 2022-10-07 | 497 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 476 | 112 | 
 | 2022-09-12 | 474 | 112 | 
 | 2022-09-11 | 474 | 112 | 
-| 2022-09-10 | 474 | 112 | 
 

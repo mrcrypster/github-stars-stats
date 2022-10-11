@@ -1,10 +1,10 @@
 # jpanther/congo - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 138
 
-★ Stars: 470
+★ Stars: 472
 
 [Open repository](https://github.com/jpanther/congo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 472 | 138 | 
 | 2022-10-09 | 470 | 138 | 
 | 2022-10-08 | 469 | 137 | 
 | 2022-10-07 | 469 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 433 | 128 | 
 | 2022-09-12 | 428 | 128 | 
 | 2022-09-11 | 427 | 128 | 
-| 2022-09-10 | 426 | 125 | 
 

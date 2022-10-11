@@ -1,8 +1,8 @@
 # NVlabs/GCVit - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 32
+☋ Forks: 31
 
 ★ Stars: 235
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 235 | 31 | 
 | 2022-10-10 | 235 | 32 | 
 | 2022-10-09 | 235 | 32 | 
 | 2022-10-08 | 234 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 225 | 30 | 
 | 2022-09-12 | 225 | 30 | 
 | 2022-09-11 | 224 | 30 | 
-| 2022-09-10 | 224 | 29 | 
 

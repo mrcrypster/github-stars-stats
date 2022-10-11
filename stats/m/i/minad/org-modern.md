@@ -1,8 +1,8 @@
 # minad/org-modern - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 766
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 766 | 33 | 
 | 2022-10-09 | 766 | 32 | 
 | 2022-10-08 | 766 | 32 | 
 | 2022-10-07 | 766 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 746 | 32 | 
 | 2022-09-12 | 746 | 32 | 
 | 2022-09-11 | 745 | 31 | 
-| 2022-09-10 | 745 | 30 | 
 

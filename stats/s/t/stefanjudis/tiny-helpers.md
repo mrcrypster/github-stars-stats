@@ -1,6 +1,6 @@
 # stefanjudis/tiny-helpers - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 274
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 805 | 274 | 
 | 2022-10-09 | 805 | 274 | 
 | 2022-10-08 | 805 | 273 | 
 | 2022-10-07 | 804 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 795 | 275 | 
 | 2022-09-12 | 793 | 275 | 
 | 2022-09-11 | 793 | 275 | 
-| 2022-09-10 | 793 | 275 | 
 

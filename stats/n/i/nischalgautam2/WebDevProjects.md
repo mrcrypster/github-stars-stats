@@ -1,10 +1,10 @@
 # nischalgautam2/WebDevProjects - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 50
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/nischalgautam2/WebDevProjects)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 16 | 50 | 
 | 2022-10-09 | 14 | 50 | 
 

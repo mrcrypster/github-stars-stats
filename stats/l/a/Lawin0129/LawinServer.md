@@ -1,6 +1,6 @@
 # Lawin0129/LawinServer - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 57 | 48 | 
 | 2022-10-09 | 57 | 48 | 
 | 2022-10-08 | 57 | 48 | 
 | 2022-10-07 | 57 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 57 | 46 | 
 | 2022-09-12 | 57 | 46 | 
 | 2022-09-11 | 57 | 47 | 
-| 2022-09-10 | 57 | 45 | 
 

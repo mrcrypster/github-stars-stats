@@ -1,10 +1,10 @@
 # miaomiaosoft/PandaOCR - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 642
 
-★ Stars: 4553
+★ Stars: 4554
 
 [Open repository](https://github.com/miaomiaosoft/PandaOCR)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 4554 | 642 | 
 | 2022-10-09 | 4553 | 642 | 
 | 2022-10-08 | 4553 | 641 | 
 | 2022-10-07 | 4553 | 641 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 4511 | 639 | 
 | 2022-09-12 | 4509 | 639 | 
 | 2022-09-11 | 4507 | 639 | 
-| 2022-09-10 | 4507 | 639 | 
 

@@ -1,6 +1,6 @@
 # yujincheng08/BiliRoaming - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 353
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 5273 | 353 | 
 | 2022-10-09 | 5273 | 353 | 
 | 2022-10-08 | 5267 | 353 | 
 | 2022-10-07 | 5261 | 353 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 5117 | 352 | 
 | 2022-09-12 | 5113 | 352 | 
 | 2022-09-11 | 5108 | 351 | 
-| 2022-09-10 | 5097 | 351 | 
 

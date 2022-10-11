@@ -1,6 +1,6 @@
 # SAFOOOO/rdpfree - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 445
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 3 | 445 | 
 | 2022-10-09 | 3 | 445 | 
 | 2022-10-08 | 3 | 445 | 
 | 2022-10-07 | 3 | 444 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 3 | 443 | 
 | 2022-09-12 | 3 | 443 | 
 | 2022-09-11 | 3 | 443 | 
-| 2022-09-10 | 3 | 443 | 
 

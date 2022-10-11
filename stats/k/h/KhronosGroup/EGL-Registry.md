@@ -1,6 +1,6 @@
 # KhronosGroup/EGL-Registry - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 84 | 87 | 
 | 2022-10-10 | 84 | 87 | 
 | 2022-10-09 | 84 | 87 | 
 | 2022-10-08 | 84 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 80 | 85 | 
 | 2022-09-12 | 80 | 85 | 
 | 2022-09-11 | 80 | 85 | 
-| 2022-09-10 | 80 | 85 | 
 

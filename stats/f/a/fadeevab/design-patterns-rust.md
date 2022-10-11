@@ -1,10 +1,10 @@
 # fadeevab/design-patterns-rust - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 29
 
-★ Stars: 651
+★ Stars: 652
 
 [Open repository](https://github.com/fadeevab/design-patterns-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 652 | 29 | 
 | 2022-10-09 | 651 | 29 | 
 | 2022-10-08 | 650 | 29 | 
 | 2022-10-07 | 650 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 624 | 26 | 
 | 2022-09-13 | 621 | 26 | 
 | 2022-09-11 | 620 | 26 | 
-| 2022-09-10 | 619 | 26 | 
 

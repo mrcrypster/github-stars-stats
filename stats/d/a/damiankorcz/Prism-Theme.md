@@ -1,6 +1,6 @@
 # damiankorcz/Prism-Theme - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 141 | 4 | 
 | 2022-10-09 | 141 | 4 | 
 | 2022-10-08 | 141 | 4 | 
 | 2022-10-07 | 141 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 136 | 2 | 
 | 2022-09-13 | 135 | 2 | 
 | 2022-09-11 | 134 | 2 | 
-| 2022-09-10 | 133 | 2 | 
 

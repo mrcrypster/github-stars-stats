@@ -1,8 +1,8 @@
 # Kentacok03/rdpfree - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 601
+☋ Forks: 603
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 10 | 603 | 
 | 2022-10-09 | 10 | 601 | 
 | 2022-10-08 | 10 | 601 | 
 | 2022-10-07 | 10 | 600 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 10 | 584 | 
 | 2022-09-12 | 10 | 584 | 
 | 2022-09-11 | 10 | 584 | 
-| 2022-09-10 | 10 | 584 | 
 

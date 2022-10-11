@@ -1,8 +1,8 @@
 # microsoft/FLAML - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 309
+☋ Forks: 310
 
 ★ Stars: 2073
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2073 | 310 | 
 | 2022-10-09 | 2073 | 309 | 
 | 2022-10-08 | 2071 | 308 | 
 | 2022-10-07 | 2070 | 308 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 2048 | 303 | 
 | 2022-09-13 | 2049 | 302 | 
 | 2022-09-12 | 2049 | 299 | 
-| 2022-09-10 | 2049 | 299 | 
 

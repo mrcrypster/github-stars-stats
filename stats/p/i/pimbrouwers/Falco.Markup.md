@@ -1,6 +1,6 @@
 # pimbrouwers/Falco.Markup - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 17 | 1 | 
 | 2022-10-09 | 17 | 1 | 
 | 2022-10-08 | 17 | 1 | 
 | 2022-10-07 | 17 | 1 | 

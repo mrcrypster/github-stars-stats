@@ -1,8 +1,8 @@
 # HoTT/book - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 349
+☋ Forks: 348
 
 ★ Stars: 1792
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1792 | 348 | 
 | 2022-10-09 | 1792 | 349 | 
 | 2022-10-08 | 1792 | 349 | 
 | 2022-10-07 | 1792 | 349 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1788 | 347 | 
 | 2022-09-12 | 1788 | 347 | 
 | 2022-09-11 | 1788 | 347 | 
-| 2022-09-10 | 1789 | 347 | 
 

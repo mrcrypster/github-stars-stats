@@ -1,10 +1,10 @@
 # sigstore/cosign - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 306
 
-★ Stars: 2565
+★ Stars: 2570
 
 [Open repository](https://github.com/sigstore/cosign)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2570 | 306 | 
 | 2022-10-09 | 2565 | 306 | 
 | 2022-10-08 | 2560 | 305 | 
 | 2022-10-07 | 2556 | 305 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2457 | 293 | 
 | 2022-09-12 | 2454 | 293 | 
 | 2022-09-11 | 2450 | 293 | 
-| 2022-09-10 | 2447 | 293 | 
 

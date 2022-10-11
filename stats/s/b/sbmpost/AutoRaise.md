@@ -1,10 +1,10 @@
 # sbmpost/AutoRaise - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 27
 
-★ Stars: 459
+★ Stars: 460
 
 [Open repository](https://github.com/sbmpost/AutoRaise)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 460 | 27 | 
 | 2022-10-09 | 459 | 27 | 
 | 2022-10-08 | 459 | 27 | 
 | 2022-10-07 | 459 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 439 | 27 | 
 | 2022-09-13 | 439 | 27 | 
 | 2022-09-11 | 437 | 27 | 
-| 2022-09-10 | 436 | 27 | 
 

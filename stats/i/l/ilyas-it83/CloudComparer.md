@@ -1,10 +1,10 @@
 # ilyas-it83/CloudComparer - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 922
 
-★ Stars: 1169
+★ Stars: 1170
 
 [Open repository](https://github.com/ilyas-it83/CloudComparer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1170 | 922 | 
 | 2022-10-09 | 1169 | 922 | 
 | 2022-10-08 | 1169 | 922 | 
 | 2022-10-07 | 1169 | 921 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1161 | 916 | 
 | 2022-09-12 | 1161 | 916 | 
 | 2022-09-11 | 1160 | 916 | 
-| 2022-09-10 | 1160 | 914 | 
 

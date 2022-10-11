@@ -1,10 +1,10 @@
 # Netflix/eureka - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 3614
 
-★ Stars: 11507
+★ Stars: 11509
 
 [Open repository](https://github.com/Netflix/eureka)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 11509 | 3614 | 
 | 2022-10-09 | 11507 | 3614 | 
 | 2022-10-08 | 11505 | 3613 | 
 | 2022-10-07 | 11504 | 3613 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 11466 | 3606 | 
 | 2022-09-12 | 11460 | 3606 | 
 | 2022-09-11 | 11459 | 3605 | 
-| 2022-09-10 | 11458 | 3605 | 
 

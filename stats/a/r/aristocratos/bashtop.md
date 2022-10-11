@@ -1,10 +1,10 @@
 # aristocratos/bashtop - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 519
 
-★ Stars: 9860
+★ Stars: 9864
 
 [Open repository](https://github.com/aristocratos/bashtop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 9864 | 519 | 
 | 2022-10-09 | 9860 | 519 | 
 | 2022-10-08 | 9860 | 519 | 
 | 2022-10-07 | 9859 | 519 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 9821 | 517 | 
 | 2022-09-12 | 9819 | 517 | 
 | 2022-09-11 | 9818 | 516 | 
-| 2022-09-10 | 9813 | 516 | 
 

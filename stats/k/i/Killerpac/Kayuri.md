@@ -1,10 +1,10 @@
 # Killerpac/Kayuri - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 31
 
-★ Stars: 366
+★ Stars: 369
 
 [Open repository](https://github.com/Killerpac/Kayuri)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 369 | 31 | 
 | 2022-10-09 | 366 | 31 | 
 | 2022-10-08 | 366 | 31 | 
 | 2022-10-07 | 366 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 341 | 30 | 
 | 2022-09-12 | 341 | 29 | 
 | 2022-09-11 | 339 | 29 | 
-| 2022-09-10 | 339 | 29 | 
 

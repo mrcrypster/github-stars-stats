@@ -1,10 +1,10 @@
 # amueller/introduction_to_ml_with_python - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 4129
+☋ Forks: 4130
 
-★ Stars: 6361
+★ Stars: 6364
 
 [Open repository](https://github.com/amueller/introduction_to_ml_with_python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 6364 | 4130 | 
 | 2022-10-09 | 6361 | 4129 | 
 | 2022-10-08 | 6359 | 4127 | 
 | 2022-10-07 | 6358 | 4124 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 6304 | 4077 | 
 | 2022-09-12 | 6303 | 4077 | 
 | 2022-09-11 | 6302 | 4076 | 
-| 2022-09-10 | 6301 | 4076 | 
 

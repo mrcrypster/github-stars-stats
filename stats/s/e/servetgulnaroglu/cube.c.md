@@ -1,10 +1,10 @@
 # servetgulnaroglu/cube.c - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 40
+☋ Forks: 41
 
-★ Stars: 131
+★ Stars: 134
 
 [Open repository](https://github.com/servetgulnaroglu/cube.c)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 134 | 41 | 
 | 2022-10-09 | 131 | 40 | 
 | 2022-10-08 | 128 | 38 | 
 | 2022-10-07 | 126 | 37 | 

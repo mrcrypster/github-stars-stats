@@ -1,6 +1,6 @@
 # seladb/PcapPlusPlus - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 513
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1956 | 513 | 
 | 2022-10-09 | 1956 | 513 | 
 | 2022-10-08 | 1956 | 513 | 
 | 2022-10-07 | 1953 | 513 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 1933 | 504 | 
 | 2022-09-13 | 1930 | 504 | 
 | 2022-09-12 | 1929 | 503 | 
-| 2022-09-11 | 1930 | 503 | 
 

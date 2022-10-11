@@ -1,10 +1,10 @@
 # hui-Zz/RunAny - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 75
 
-★ Stars: 729
+★ Stars: 730
 
 [Open repository](https://github.com/hui-Zz/RunAny)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 730 | 75 | 
 | 2022-10-09 | 729 | 75 | 
 | 2022-10-08 | 729 | 75 | 
 | 2022-10-07 | 729 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 724 | 75 | 
 | 2022-09-12 | 724 | 75 | 
 | 2022-09-11 | 725 | 75 | 
-| 2022-09-10 | 725 | 75 | 
 

@@ -1,6 +1,6 @@
 # fathym-it/arcade-recipe - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 3 | 172 | 
 | 2022-10-09 | 3 | 172 | 
 | 2022-10-08 | 3 | 171 | 
 | 2022-10-07 | 3 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 3 | 147 | 
 | 2022-09-12 | 3 | 147 | 
 | 2022-09-11 | 3 | 145 | 
-| 2022-09-10 | 3 | 144 | 
 

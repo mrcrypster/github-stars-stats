@@ -1,6 +1,6 @@
 # Azure/azure-blueprints - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 243 | 148 | 
 | 2022-10-09 | 243 | 148 | 
 | 2022-10-08 | 243 | 148 | 
 | 2022-10-07 | 243 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 243 | 146 | 
 | 2022-09-12 | 243 | 146 | 
 | 2022-09-11 | 243 | 146 | 
-| 2022-09-10 | 243 | 146 | 
 

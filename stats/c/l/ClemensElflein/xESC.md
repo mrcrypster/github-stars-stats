@@ -1,10 +1,10 @@
 # ClemensElflein/xESC - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 12
 
-★ Stars: 160
+★ Stars: 161
 
 [Open repository](https://github.com/ClemensElflein/xESC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 161 | 12 | 
 | 2022-10-09 | 160 | 12 | 
 | 2022-10-08 | 159 | 12 | 
 | 2022-10-07 | 159 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 156 | 12 | 
 | 2022-09-12 | 156 | 12 | 
 | 2022-09-11 | 156 | 12 | 
-| 2022-09-10 | 156 | 12 | 
 

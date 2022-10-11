@@ -1,10 +1,10 @@
 # jcubic/sysend.js - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 61
 
-★ Stars: 896
+★ Stars: 897
 
 [Open repository](https://github.com/jcubic/sysend.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 897 | 61 | 
 | 2022-10-09 | 896 | 61 | 
 | 2022-10-08 | 896 | 61 | 
 | 2022-10-07 | 896 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 895 | 61 | 
 | 2022-09-12 | 895 | 61 | 
 | 2022-09-11 | 895 | 61 | 
-| 2022-09-10 | 895 | 61 | 
 

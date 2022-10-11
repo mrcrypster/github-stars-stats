@@ -1,10 +1,10 @@
 # amusecode/amuse - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 94
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/amusecode/amuse)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 127 | 94 | 
 | 2022-10-10 | 126 | 94 | 
 | 2022-10-09 | 126 | 94 | 
 | 2022-10-07 | 126 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 125 | 91 | 
 | 2022-09-12 | 125 | 91 | 
 | 2022-09-11 | 125 | 91 | 
-| 2022-09-10 | 125 | 91 | 
 

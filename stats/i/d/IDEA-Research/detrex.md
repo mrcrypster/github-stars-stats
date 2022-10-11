@@ -1,10 +1,10 @@
 # IDEA-Research/detrex - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 419
+★ Stars: 446
 
 [Open repository](https://github.com/IDEA-Research/detrex)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 446 | 25 | 
 | 2022-10-09 | 419 | 21 | 
 | 2022-10-08 | 385 | 19 | 
 | 2022-10-07 | 367 | 16 | 

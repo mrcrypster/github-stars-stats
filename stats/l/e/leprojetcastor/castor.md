@@ -1,6 +1,6 @@
 # leprojetcastor/castor - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 65 | 6 | 
 | 2022-10-09 | 65 | 6 | 
 | 2022-10-08 | 65 | 6 | 
 | 2022-10-07 | 65 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 65 | 6 | 
 | 2022-09-12 | 65 | 6 | 
 | 2022-09-11 | 65 | 6 | 
-| 2022-09-10 | 65 | 6 | 
 

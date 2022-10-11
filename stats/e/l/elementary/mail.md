@@ -1,10 +1,10 @@
 # elementary/mail - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 47
 
-★ Stars: 175
+★ Stars: 174
 
 [Open repository](https://github.com/elementary/mail)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 174 | 47 | 
 | 2022-10-09 | 175 | 47 | 
 | 2022-10-08 | 175 | 47 | 
 | 2022-10-07 | 176 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 176 | 46 | 
 | 2022-09-12 | 176 | 46 | 
 | 2022-09-11 | 176 | 46 | 
-| 2022-09-10 | 176 | 46 | 
 

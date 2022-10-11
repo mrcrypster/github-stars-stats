@@ -1,10 +1,10 @@
 # DandyDeveloper/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 119
+☋ Forks: 118
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/DandyDeveloper/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 115 | 118 | 
 | 2022-10-09 | 114 | 119 | 
 | 2022-10-08 | 113 | 119 | 
 | 2022-10-07 | 113 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 110 | 116 | 
 | 2022-09-12 | 110 | 116 | 
 | 2022-09-11 | 110 | 116 | 
-| 2022-09-10 | 110 | 116 | 
 

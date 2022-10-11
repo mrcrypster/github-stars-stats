@@ -1,10 +1,10 @@
 # lydiahallie/javascript-questions - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 6842
+☋ Forks: 6847
 
-★ Stars: 48377
+★ Stars: 48398
 
 [Open repository](https://github.com/lydiahallie/javascript-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 48398 | 6847 | 
 | 2022-10-09 | 48377 | 6842 | 
 | 2022-10-08 | 48349 | 6839 | 
 | 2022-10-07 | 48328 | 6834 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 47608 | 6708 | 
 | 2022-09-12 | 47516 | 6703 | 
 | 2022-09-11 | 47497 | 6697 | 
-| 2022-09-10 | 47480 | 6693 | 
 

@@ -1,8 +1,8 @@
 # llvm/llvm-test-suite - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 177
+☋ Forks: 178
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 72 | 178 | 
 | 2022-10-09 | 72 | 177 | 
 | 2022-10-08 | 72 | 177 | 
 | 2022-10-07 | 72 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 72 | 170 | 
 | 2022-09-13 | 72 | 169 | 
 | 2022-09-11 | 72 | 168 | 
-| 2022-09-10 | 72 | 168 | 
 

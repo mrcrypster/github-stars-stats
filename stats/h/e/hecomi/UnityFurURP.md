@@ -1,10 +1,10 @@
 # hecomi/UnityFurURP - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 68
 
-★ Stars: 485
+★ Stars: 487
 
 [Open repository](https://github.com/hecomi/UnityFurURP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 487 | 68 | 
 | 2022-10-09 | 485 | 68 | 
 | 2022-10-08 | 485 | 68 | 
 | 2022-10-07 | 485 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 463 | 64 | 
 | 2022-09-12 | 462 | 64 | 
 | 2022-09-11 | 458 | 63 | 
-| 2022-09-10 | 455 | 63 | 
 

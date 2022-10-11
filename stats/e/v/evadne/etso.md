@@ -1,10 +1,10 @@
 # evadne/etso - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 23
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/evadne/etso)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 323 | 23 | 
 | 2022-10-09 | 322 | 23 | 
 | 2022-10-08 | 321 | 23 | 
 | 2022-10-07 | 321 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 316 | 22 | 
 | 2022-09-12 | 316 | 22 | 
 | 2022-09-11 | 316 | 22 | 
-| 2022-09-10 | 316 | 22 | 
 

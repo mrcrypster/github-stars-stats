@@ -1,10 +1,10 @@
 # ddiu8081/tin - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 5
 
-★ Stars: 134
+★ Stars: 136
 
 [Open repository](https://github.com/ddiu8081/tin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 136 | 5 | 
 | 2022-10-09 | 134 | 5 | 
 | 2022-10-08 | 134 | 5 | 
 | 2022-10-07 | 134 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 130 | 5 | 
 | 2022-09-12 | 130 | 5 | 
 | 2022-09-11 | 130 | 5 | 
-| 2022-09-10 | 130 | 5 | 
 

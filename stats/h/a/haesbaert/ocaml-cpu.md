@@ -1,10 +1,10 @@
 # haesbaert/ocaml-cpu - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/haesbaert/ocaml-cpu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 33 | - | 
 | 2022-10-09 | 32 | - | 
 | 2022-10-08 | 32 | - | 
 | 2022-10-07 | 32 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 32 | - | 
 | 2022-09-12 | 32 | - | 
 | 2022-09-11 | 32 | - | 
-| 2022-09-10 | 32 | - | 
 

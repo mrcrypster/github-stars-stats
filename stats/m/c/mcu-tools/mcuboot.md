@@ -1,10 +1,10 @@
 # mcu-tools/mcuboot - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 468
 
-★ Stars: 878
+★ Stars: 880
 
 [Open repository](https://github.com/mcu-tools/mcuboot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 880 | 468 | 
 | 2022-10-09 | 878 | 468 | 
 | 2022-10-08 | 877 | 468 | 
 | 2022-10-07 | 878 | 468 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 868 | 467 | 
 | 2022-09-12 | 867 | 467 | 
 | 2022-09-11 | 866 | 467 | 
-| 2022-09-10 | 866 | 467 | 
 

@@ -1,10 +1,10 @@
 # Stability-AI/stability-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 102
+☋ Forks: 109
 
-★ Stars: 944
+★ Stars: 976
 
 [Open repository](https://github.com/Stability-AI/stability-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 976 | 109 | 
 | 2022-10-09 | 944 | 102 | 
 | 2022-10-08 | 922 | 100 | 
 | 2022-10-07 | 898 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 436 | 41 | 
 | 2022-09-12 | 429 | 39 | 
 | 2022-09-11 | 422 | 39 | 
-| 2022-09-10 | 419 | 38 | 
 

@@ -1,10 +1,10 @@
 # clojure-lsp/clojure-lsp - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 112
 
-★ Stars: 872
+★ Stars: 873
 
 [Open repository](https://github.com/clojure-lsp/clojure-lsp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 873 | 112 | 
 | 2022-10-09 | 872 | 112 | 
 | 2022-10-08 | 872 | 112 | 
 | 2022-10-07 | 872 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 863 | 112 | 
 | 2022-09-12 | 863 | 112 | 
 | 2022-09-11 | 863 | 112 | 
-| 2022-09-10 | 862 | 112 | 
 

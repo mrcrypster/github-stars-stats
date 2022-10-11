@@ -1,10 +1,10 @@
 # dani-garcia/vaultwarden - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 992
+☋ Forks: 993
 
-★ Stars: 19089
+★ Stars: 19104
 
 [Open repository](https://github.com/dani-garcia/vaultwarden)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 19104 | 993 | 
 | 2022-10-09 | 19089 | 992 | 
 | 2022-10-08 | 19071 | 989 | 
 | 2022-10-07 | 19061 | 989 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 18555 | 971 | 
 | 2022-09-12 | 18523 | 969 | 
 | 2022-09-11 | 18491 | 969 | 
-| 2022-09-10 | 18472 | 968 | 
 

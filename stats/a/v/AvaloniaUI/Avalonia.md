@@ -1,10 +1,10 @@
 # AvaloniaUI/Avalonia - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 1351
+☋ Forks: 1352
 
-★ Stars: 15427
+★ Stars: 15440
 
 [Open repository](https://github.com/AvaloniaUI/Avalonia)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 15440 | 1352 | 
 | 2022-10-09 | 15427 | 1351 | 
 | 2022-10-08 | 15417 | 1348 | 
 | 2022-10-07 | 15411 | 1348 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 15172 | 1334 | 
 | 2022-09-12 | 15163 | 1334 | 
 | 2022-09-11 | 15154 | 1334 | 
-| 2022-09-10 | 15150 | 1334 | 
 

@@ -1,10 +1,10 @@
 # alibaba/RedisShake - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 527
+☋ Forks: 528
 
-★ Stars: 2709
+★ Stars: 2719
 
 [Open repository](https://github.com/alibaba/RedisShake)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2719 | 528 | 
 | 2022-10-09 | 2709 | 527 | 
 | 2022-10-08 | 2695 | 525 | 
 | 2022-10-07 | 2689 | 525 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2557 | 522 | 
 | 2022-09-12 | 2556 | 521 | 
 | 2022-09-11 | 2556 | 521 | 
-| 2022-09-10 | 2555 | 521 | 
 

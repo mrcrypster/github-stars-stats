@@ -1,10 +1,10 @@
 # Hvass-Labs/TensorFlow-Tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 4240
 
-★ Stars: 9073
+★ Stars: 9074
 
 [Open repository](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 9074 | 4240 | 
 | 2022-10-10 | 9073 | 4240 | 
 | 2022-10-08 | 9072 | 4240 | 
 | 2022-10-07 | 9071 | 4239 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 9066 | 4238 | 
 | 2022-09-12 | 9064 | 4238 | 
 | 2022-09-11 | 9065 | 4238 | 
-| 2022-09-10 | 9065 | 4238 | 
 

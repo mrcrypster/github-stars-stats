@@ -1,10 +1,10 @@
 # clong/DetectionLab - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 848
 
-★ Stars: 3893
+★ Stars: 3894
 
 [Open repository](https://github.com/clong/DetectionLab)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 3894 | 848 | 
 | 2022-10-09 | 3893 | 848 | 
 | 2022-10-08 | 3893 | 848 | 
 | 2022-10-07 | 3891 | 848 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 3844 | 838 | 
 | 2022-09-12 | 3843 | 838 | 
 | 2022-09-11 | 3839 | 836 | 
-| 2022-09-10 | 3839 | 836 | 
 

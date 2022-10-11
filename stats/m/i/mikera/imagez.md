@@ -1,6 +1,6 @@
 # mikera/imagez - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 270 | 37 | 
 | 2022-10-09 | 270 | 37 | 
 | 2022-10-08 | 270 | 37 | 
 | 2022-10-07 | 270 | 37 | 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 10
 
 ☋ Forks: 13
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/jaywcjlove/reference)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-10 | 62 | 13 | 
+| 2022-10-10 | 64 | 13 | 
 | 2022-10-09 | 62 | 13 | 
 | 2022-10-08 | 58 | 13 | 
 | 2022-10-07 | 50 | 10 | 

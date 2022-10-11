@@ -1,10 +1,10 @@
 # vital987/vubuntu - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 147
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/vital987/vubuntu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 41 | 147 | 
 | 2022-10-09 | 40 | 147 | 
 | 2022-10-08 | 40 | 147 | 
 | 2022-10-07 | 40 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 41 | 146 | 
 | 2022-09-12 | 41 | 147 | 
 | 2022-09-11 | 41 | 147 | 
-| 2022-09-10 | 41 | 147 | 
 

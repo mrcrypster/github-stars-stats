@@ -1,10 +1,10 @@
 # mkdocs/mkdocs - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 2088
+☋ Forks: 2089
 
-★ Stars: 15066
+★ Stars: 15071
 
 [Open repository](https://github.com/mkdocs/mkdocs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 15071 | 2089 | 
 | 2022-10-09 | 15066 | 2088 | 
 | 2022-10-08 | 15061 | 2087 | 
 | 2022-10-07 | 15054 | 2086 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 14907 | 2070 | 
 | 2022-09-12 | 14902 | 2071 | 
 | 2022-09-11 | 14900 | 2070 | 
-| 2022-09-10 | 14893 | 2071 | 
 

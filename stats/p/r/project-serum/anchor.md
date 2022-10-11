@@ -1,10 +1,10 @@
 # project-serum/anchor - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 888
 
-★ Stars: 2503
+★ Stars: 2504
 
 [Open repository](https://github.com/project-serum/anchor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2504 | 888 | 
 | 2022-10-09 | 2503 | 888 | 
 | 2022-10-08 | 2503 | 888 | 
 | 2022-10-07 | 2500 | 886 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2434 | 872 | 
 | 2022-09-12 | 2435 | 872 | 
 | 2022-09-11 | 2435 | 871 | 
-| 2022-09-10 | 2435 | 870 | 
 

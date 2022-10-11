@@ -1,10 +1,10 @@
 # d-edge/foss-acronyms - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 25
+☋ Forks: 28
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/d-edge/foss-acronyms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 46 | 28 | 
 | 2022-10-09 | 45 | 25 | 
 | 2022-10-08 | 44 | 25 | 
 | 2022-10-07 | 44 | 24 | 

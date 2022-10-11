@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-apigateway-v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 93 | 140 | 
 | 2022-10-09 | 93 | 140 | 
 | 2022-10-08 | 93 | 140 | 
 | 2022-10-07 | 93 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 90 | 137 | 
 | 2022-09-12 | 89 | 137 | 
 | 2022-09-11 | 89 | 135 | 
-| 2022-09-10 | 89 | 135 | 
 

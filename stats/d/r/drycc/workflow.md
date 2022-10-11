@@ -1,6 +1,6 @@
 # drycc/workflow - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 801 | 107 | 
 | 2022-10-09 | 801 | 107 | 
 | 2022-10-08 | 802 | 107 | 
 | 2022-10-07 | 802 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 804 | 38 | 
 | 2022-09-12 | 804 | 27 | 
 | 2022-09-11 | 804 | 20 | 
-| 2022-09-10 | 804 | 6 | 
 

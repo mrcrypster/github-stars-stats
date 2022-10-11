@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 10
 
 ☋ Forks: 684
 
-★ Stars: 2760
+★ Stars: 2766
 
 [Open repository](https://github.com/Momo707577045/m3u8-downloader)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-10 | 2760 | 684 | 
+| 2022-10-10 | 2766 | 684 | 
 | 2022-10-09 | 2759 | 684 | 
 | 2022-10-08 | 2740 | 684 | 
 | 2022-10-07 | 2717 | 682 | 

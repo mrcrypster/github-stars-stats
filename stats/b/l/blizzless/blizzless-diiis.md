@@ -1,6 +1,6 @@
 # blizzless/blizzless-diiis - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 665 | 172 | 
 | 2022-10-09 | 665 | 172 | 
 | 2022-10-08 | 664 | 173 | 
 | 2022-10-07 | 662 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 607 | 158 | 
 | 2022-09-12 | 605 | 156 | 
 | 2022-09-11 | 605 | 155 | 
-| 2022-09-10 | 603 | 155 | 
 

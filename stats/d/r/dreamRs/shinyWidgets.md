@@ -1,6 +1,6 @@
 # dreamRs/shinyWidgets - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 694 | 133 | 
 | 2022-10-09 | 694 | 133 | 
 | 2022-10-08 | 694 | 133 | 
 | 2022-10-07 | 694 | 133 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 688 | 134 | 
 | 2022-09-12 | 687 | 134 | 
 | 2022-09-11 | 687 | 134 | 
-| 2022-09-10 | 686 | 134 | 
 

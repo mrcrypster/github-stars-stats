@@ -1,10 +1,10 @@
 # elastic/elasticsearch-formal-models - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 22
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/elastic/elasticsearch-formal-models)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 193 | 22 | 
 | 2022-10-09 | 192 | 22 | 
 | 2022-10-08 | 192 | 22 | 
 | 2022-10-07 | 193 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 193 | 22 | 
 | 2022-09-12 | 193 | 22 | 
 | 2022-09-11 | 193 | 22 | 
-| 2022-09-10 | 193 | 22 | 
 

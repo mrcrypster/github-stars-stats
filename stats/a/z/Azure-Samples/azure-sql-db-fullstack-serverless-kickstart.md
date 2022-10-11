@@ -1,10 +1,10 @@
 # Azure-Samples/azure-sql-db-fullstack-serverless-kickstart - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 45
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 27 | 45 | 
 | 2022-10-09 | 26 | 45 | 
 | 2022-10-08 | 26 | 45 | 
 | 2022-10-07 | 26 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 25 | 44 | 
 | 2022-09-12 | 25 | 44 | 
 | 2022-09-11 | 25 | 44 | 
-| 2022-09-10 | 24 | 44 | 
 

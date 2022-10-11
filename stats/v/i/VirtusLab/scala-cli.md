@@ -1,10 +1,10 @@
 # VirtusLab/scala-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 60
 
-★ Stars: 294
+★ Stars: 293
 
 [Open repository](https://github.com/VirtusLab/scala-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 293 | 60 | 
 | 2022-10-09 | 294 | 60 | 
 | 2022-10-08 | 294 | 60 | 
 | 2022-10-07 | 292 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 268 | 58 | 
 | 2022-09-12 | 267 | 58 | 
 | 2022-09-11 | 267 | 58 | 
-| 2022-09-10 | 267 | 58 | 
 

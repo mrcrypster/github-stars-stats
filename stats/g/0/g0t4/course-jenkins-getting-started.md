@@ -1,8 +1,8 @@
 # g0t4/course-jenkins-getting-started - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 315
+☋ Forks: 316
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 51 | 316 | 
 | 2022-10-09 | 51 | 315 | 
 | 2022-10-08 | 51 | 315 | 
 | 2022-10-07 | 51 | 315 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 46 | 305 | 
 | 2022-09-12 | 46 | 304 | 
 | 2022-09-11 | 46 | 301 | 
-| 2022-09-10 | 45 | 301 | 
 

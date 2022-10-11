@@ -1,8 +1,8 @@
 # cherryontech/website - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 40
+☋ Forks: 41
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 10 | 41 | 
 | 2022-10-09 | 10 | 40 | 
 | 2022-10-08 | 10 | 40 | 
 | 2022-10-07 | 10 | 41 | 

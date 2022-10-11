@@ -1,10 +1,10 @@
 # hashicorp/terraform - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 7977
+☋ Forks: 7982
 
-★ Stars: 34527
+★ Stars: 34546
 
 [Open repository](https://github.com/hashicorp/terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 34546 | 7982 | 
 | 2022-10-09 | 34527 | 7977 | 
 | 2022-10-08 | 34497 | 7976 | 
 | 2022-10-07 | 34433 | 7974 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 34123 | 7911 | 
 | 2022-09-12 | 34097 | 7905 | 
 | 2022-09-11 | 34087 | 7905 | 
-| 2022-09-10 | 34078 | 7905 | 
 

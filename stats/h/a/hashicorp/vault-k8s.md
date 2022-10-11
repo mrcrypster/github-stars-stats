@@ -1,10 +1,10 @@
 # hashicorp/vault-k8s - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/hashicorp/vault-k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 642 | 130 | 
 | 2022-10-09 | 641 | 129 | 
 | 2022-10-08 | 639 | 129 | 
 | 2022-10-07 | 639 | 129 | 

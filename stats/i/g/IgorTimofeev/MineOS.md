@@ -1,10 +1,10 @@
 # IgorTimofeev/MineOS - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 171
 
-★ Stars: 563
+★ Stars: 565
 
 [Open repository](https://github.com/IgorTimofeev/MineOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 565 | 171 | 
 | 2022-10-09 | 563 | 171 | 
 | 2022-10-08 | 563 | 170 | 
 | 2022-10-07 | 563 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 551 | 168 | 
 | 2022-09-12 | 550 | 168 | 
 | 2022-09-11 | 550 | 168 | 
-| 2022-09-10 | 550 | 168 | 
 

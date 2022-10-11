@@ -1,6 +1,6 @@
 # JPCERTCC/phishurl-list - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 90 | 6 | 
 | 2022-10-10 | 90 | 6 | 
 | 2022-10-09 | 90 | 6 | 
 | 2022-10-08 | 90 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 67 | 3 | 
 | 2022-09-12 | 66 | 3 | 
 | 2022-09-11 | 64 | 3 | 
-| 2022-09-10 | 64 | 3 | 
 

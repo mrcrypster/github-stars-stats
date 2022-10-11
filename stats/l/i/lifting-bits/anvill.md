@@ -1,6 +1,6 @@
 # lifting-bits/anvill - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 255 | 32 | 
 | 2022-10-09 | 255 | 32 | 
 | 2022-10-08 | 255 | 32 | 
 | 2022-10-07 | 255 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 249 | 31 | 
 | 2022-09-12 | 248 | 31 | 
 | 2022-09-11 | 248 | 31 | 
-| 2022-09-10 | 248 | 31 | 
 

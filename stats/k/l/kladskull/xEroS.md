@@ -1,10 +1,10 @@
 # kladskull/xEroS - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/kladskull/xEroS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 63 | 6 | 
 | 2022-10-09 | 62 | 6 | 
 | 2022-10-08 | 62 | 6 | 
 | 2022-10-07 | 62 | 6 | 

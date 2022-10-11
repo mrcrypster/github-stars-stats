@@ -1,10 +1,10 @@
 # PrateekKumarSingh/AzViz - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 89
 
-★ Stars: 393
+★ Stars: 394
 
 [Open repository](https://github.com/PrateekKumarSingh/AzViz)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 394 | 89 | 
 | 2022-10-09 | 393 | 89 | 
 | 2022-10-08 | 393 | 89 | 
 | 2022-10-07 | 392 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 387 | 85 | 
 | 2022-09-13 | 387 | 85 | 
 | 2022-09-12 | 387 | 85 | 
-| 2022-09-10 | 387 | 85 | 
 

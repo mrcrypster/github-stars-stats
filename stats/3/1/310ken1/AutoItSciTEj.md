@@ -1,6 +1,6 @@
 # 310ken1/AutoItSciTEj - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6 | 11 | 
 | 2022-10-10 | 6 | 11 | 
 | 2022-10-09 | 6 | 11 | 
 | 2022-10-07 | 6 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 6 | 11 | 
 | 2022-09-12 | 6 | 11 | 
 | 2022-09-11 | 6 | 11 | 
-| 2022-09-10 | 6 | 11 | 
 

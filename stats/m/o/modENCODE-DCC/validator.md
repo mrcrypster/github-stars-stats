@@ -1,6 +1,6 @@
 # modENCODE-DCC/validator - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 7
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 5 | 7 | 
 | 2022-10-09 | 5 | 7 | 
 

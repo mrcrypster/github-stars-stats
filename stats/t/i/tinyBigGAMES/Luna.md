@@ -1,8 +1,8 @@
 # tinyBigGAMES/Luna - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 8 | 1 | 
 | 2022-10-09 | 8 | - | 
 | 2022-10-08 | 7 | - | 
 | 2022-10-07 | 7 | - | 

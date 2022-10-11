@@ -1,6 +1,6 @@
 # RoyiAvital/Julia100Exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 59 | 11 | 
 | 2022-10-10 | 59 | 11 | 
 | 2022-10-09 | 59 | 11 | 
 | 2022-10-08 | 59 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 54 | 10 | 
 | 2022-09-12 | 54 | 10 | 
 | 2022-09-11 | 54 | 10 | 
-| 2022-09-10 | 54 | 10 | 
 

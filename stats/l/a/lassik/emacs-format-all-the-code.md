@@ -1,6 +1,6 @@
 # lassik/emacs-format-all-the-code - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 463 | 93 | 
 | 2022-10-09 | 463 | 93 | 
 | 2022-10-08 | 463 | 93 | 
 | 2022-10-07 | 463 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 459 | 88 | 
 | 2022-09-12 | 460 | 87 | 
 | 2022-09-11 | 459 | 87 | 
-| 2022-09-10 | 459 | 87 | 
 

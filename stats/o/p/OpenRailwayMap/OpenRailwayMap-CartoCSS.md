@@ -1,6 +1,6 @@
 # OpenRailwayMap/OpenRailwayMap-CartoCSS - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 9 | 14 | 
 | 2022-10-09 | 9 | 14 | 
 | 2022-10-08 | 9 | 14 | 
 | 2022-10-07 | 9 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 9 | 14 | 
 | 2022-09-12 | 9 | 14 | 
 | 2022-09-11 | 9 | 14 | 
-| 2022-09-10 | 9 | 14 | 
 

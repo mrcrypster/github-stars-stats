@@ -1,10 +1,10 @@
 # swisskyrepo/PayloadsAllTheThings - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 11203
+☋ Forks: 11204
 
-★ Stars: 41760
+★ Stars: 41785
 
 [Open repository](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 41785 | 11204 | 
 | 2022-10-09 | 41760 | 11203 | 
 | 2022-10-08 | 41723 | 11193 | 
 | 2022-10-07 | 41704 | 11185 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 40979 | 11030 | 
 | 2022-09-12 | 40955 | 11027 | 
 | 2022-09-11 | 40945 | 11025 | 
-| 2022-09-10 | 40889 | 11009 | 
 

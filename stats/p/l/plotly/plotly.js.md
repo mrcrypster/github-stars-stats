@@ -1,6 +1,6 @@
 # plotly/plotly.js - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 1705
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 15036 | 1705 | 
 | 2022-10-09 | 15036 | 1705 | 
 | 2022-10-08 | 15034 | 1705 | 
 | 2022-10-07 | 15030 | 1704 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 14974 | 1700 | 
 | 2022-09-12 | 14972 | 1699 | 
 | 2022-09-11 | 14969 | 1699 | 
-| 2022-09-10 | 14966 | 1700 | 
 

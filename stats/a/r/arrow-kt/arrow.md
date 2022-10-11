@@ -1,10 +1,10 @@
 # arrow-kt/arrow - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 380
+☋ Forks: 381
 
-★ Stars: 5297
+★ Stars: 5299
 
 [Open repository](https://github.com/arrow-kt/arrow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 5299 | 381 | 
 | 2022-10-09 | 5297 | 380 | 
 | 2022-10-08 | 5294 | 381 | 
 | 2022-10-07 | 5294 | 381 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 5247 | 376 | 
 | 2022-09-12 | 5245 | 376 | 
 | 2022-09-11 | 5243 | 376 | 
-| 2022-09-10 | 5242 | 376 | 
 

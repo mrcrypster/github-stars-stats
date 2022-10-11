@@ -1,10 +1,10 @@
 # OpenNBS/OpenNoteBlockStudio - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 48
 
-★ Stars: 498
+★ Stars: 500
 
 [Open repository](https://github.com/OpenNBS/OpenNoteBlockStudio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 500 | 48 | 
 | 2022-10-09 | 498 | 48 | 
 | 2022-10-08 | 498 | 47 | 
 | 2022-10-07 | 498 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 494 | 47 | 
 | 2022-09-12 | 494 | 47 | 
 | 2022-09-11 | 494 | 46 | 
-| 2022-09-10 | 494 | 46 | 
 

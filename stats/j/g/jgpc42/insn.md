@@ -1,10 +1,10 @@
 # jgpc42/insn - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 4
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/jgpc42/insn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 172 | 4 | 
 | 2022-10-10 | 171 | 4 | 
 | 2022-10-09 | 171 | 4 | 
 | 2022-10-08 | 171 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 170 | 4 | 
 | 2022-09-12 | 170 | 4 | 
 | 2022-09-11 | 170 | 4 | 
-| 2022-09-10 | 170 | 4 | 
 

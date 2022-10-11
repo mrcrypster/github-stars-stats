@@ -1,10 +1,10 @@
 # stephentian/33-js-concepts - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 2206
 
-★ Stars: 13669
+★ Stars: 13672
 
 [Open repository](https://github.com/stephentian/33-js-concepts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 13672 | 2206 | 
 | 2022-10-09 | 13669 | 2206 | 
 | 2022-10-08 | 13665 | 2206 | 
 | 2022-10-07 | 13664 | 2205 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 13615 | 2199 | 
 | 2022-09-13 | 13612 | 2199 | 
 | 2022-09-12 | 13611 | 2199 | 
-| 2022-09-11 | 13609 | 2199 | 
 

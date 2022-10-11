@@ -1,10 +1,10 @@
 # nviennot/core-to-core-latency - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 640
+★ Stars: 651
 
 [Open repository](https://github.com/nviennot/core-to-core-latency)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 651 | 24 | 
 | 2022-10-09 | 640 | 23 | 
 | 2022-10-08 | 640 | 23 | 
 | 2022-10-07 | 637 | 23 | 

@@ -1,10 +1,10 @@
 # in28minutes/course-material - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 771
+☋ Forks: 772
 
-★ Stars: 501
+★ Stars: 502
 
 [Open repository](https://github.com/in28minutes/course-material)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 502 | 772 | 
 | 2022-10-09 | 501 | 771 | 
 | 2022-10-08 | 500 | 769 | 
 | 2022-10-07 | 498 | 769 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 475 | 728 | 
 | 2022-09-12 | 473 | 725 | 
 | 2022-09-11 | 470 | 725 | 
-| 2022-09-10 | 470 | 724 | 
 

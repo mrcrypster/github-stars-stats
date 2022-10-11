@@ -1,8 +1,8 @@
 # php/doc-en - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 493
+☋ Forks: 494
 
 ★ Stars: 370
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 370 | 494 | 
 | 2022-10-09 | 370 | 493 | 
 | 2022-10-08 | 370 | 494 | 
 | 2022-10-07 | 371 | 493 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 359 | 476 | 
 | 2022-09-12 | 359 | 476 | 
 | 2022-09-11 | 359 | 475 | 
-| 2022-09-10 | 359 | 474 | 
 

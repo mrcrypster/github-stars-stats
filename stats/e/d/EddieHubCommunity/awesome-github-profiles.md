@@ -1,10 +1,10 @@
 # EddieHubCommunity/awesome-github-profiles - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 669
+☋ Forks: 670
 
-★ Stars: 981
+★ Stars: 985
 
 [Open repository](https://github.com/EddieHubCommunity/awesome-github-profiles)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 985 | 670 | 
 | 2022-10-09 | 981 | 669 | 
 | 2022-10-08 | 978 | 666 | 
 | 2022-10-07 | 976 | 666 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 932 | 614 | 
 | 2022-09-12 | 930 | 614 | 
 | 2022-09-11 | 930 | 613 | 
-| 2022-09-10 | 928 | 612 | 
 

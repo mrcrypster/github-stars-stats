@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 10
 
 ☋ Forks: 90
 
-★ Stars: 296
+★ Stars: 297
 
 [Open repository](https://github.com/JuliaPackaging/BinaryBuilder.jl)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-10 | 296 | 90 | 
+| 2022-10-10 | 297 | 90 | 
 | 2022-10-09 | 296 | 90 | 
 

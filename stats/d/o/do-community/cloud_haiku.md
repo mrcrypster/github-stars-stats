@@ -1,10 +1,10 @@
 # do-community/cloud_haiku - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 2342
+☋ Forks: 2375
 
-★ Stars: 169
+★ Stars: 171
 
 [Open repository](https://github.com/do-community/cloud_haiku)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 171 | 2375 | 
 | 2022-10-09 | 169 | 2342 | 
 | 2022-10-08 | 168 | 2306 | 
 | 2022-10-07 | 168 | 2300 | 

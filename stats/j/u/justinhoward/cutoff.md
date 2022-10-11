@@ -1,10 +1,10 @@
 # justinhoward/cutoff - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 2
 
-★ Stars: 148
+★ Stars: 150
 
 [Open repository](https://github.com/justinhoward/cutoff)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 150 | 2 | 
 | 2022-10-09 | 148 | 2 | 
 | 2022-10-08 | 148 | 2 | 
 | 2022-10-07 | 148 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 119 | 1 | 
 | 2022-09-12 | 112 | 1 | 
 | 2022-09-11 | 100 | 1 | 
-| 2022-09-10 | 94 | 1 | 
 

@@ -1,10 +1,10 @@
 # itorr/sakana - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 1474
+★ Stars: 1480
 
 [Open repository](https://github.com/itorr/sakana)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1480 | 110 | 
 | 2022-10-09 | 1474 | 109 | 
 | 2022-10-08 | 1472 | 108 | 
 | 2022-10-07 | 1468 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1302 | 100 | 
 | 2022-09-12 | 1296 | 100 | 
 | 2022-09-11 | 1285 | 100 | 
-| 2022-09-10 | 1274 | 100 | 
 

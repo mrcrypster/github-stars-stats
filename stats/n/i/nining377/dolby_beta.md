@@ -1,6 +1,6 @@
 # nining377/dolby_beta - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2502 | 115 | 
 | 2022-10-09 | 2502 | 115 | 
 | 2022-10-08 | 2500 | 115 | 
 | 2022-10-07 | 2494 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2447 | 114 | 
 | 2022-09-12 | 2446 | 114 | 
 | 2022-09-11 | 2443 | 113 | 
-| 2022-09-10 | 2443 | 113 | 
 

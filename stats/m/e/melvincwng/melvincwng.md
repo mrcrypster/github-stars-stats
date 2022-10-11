@@ -1,10 +1,10 @@
 # melvincwng/melvincwng - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 7
+★ Stars: 6
 
 [Open repository](https://github.com/melvincwng/melvincwng)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 6 | 6 | 
 | 2022-10-09 | 7 | 6 | 
 | 2022-10-08 | 7 | 6 | 
 | 2022-10-07 | 7 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 7 | 5 | 
 | 2022-09-12 | 6 | 5 | 
 | 2022-09-11 | 6 | 5 | 
-| 2022-09-10 | 6 | 5 | 
 

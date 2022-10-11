@@ -1,10 +1,10 @@
 # dohooo/react-native-reanimated-carousel - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 120
 
-★ Stars: 1200
+★ Stars: 1201
 
 [Open repository](https://github.com/dohooo/react-native-reanimated-carousel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1201 | 120 | 
 | 2022-10-10 | 1200 | 120 | 
 | 2022-10-09 | 1198 | 120 | 
 | 2022-10-08 | 1196 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 1130 | 112 | 
 | 2022-09-12 | 1126 | 112 | 
 | 2022-09-11 | 1124 | 111 | 
-| 2022-09-10 | 1123 | 111 | 
 

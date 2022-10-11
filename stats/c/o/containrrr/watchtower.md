@@ -1,10 +1,10 @@
 # containrrr/watchtower - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 654
 
-★ Stars: 11866
+★ Stars: 11875
 
 [Open repository](https://github.com/containrrr/watchtower)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 11875 | 654 | 
 | 2022-10-09 | 11866 | 654 | 
 | 2022-10-08 | 11861 | 654 | 
 | 2022-10-07 | 11856 | 654 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 11690 | 646 | 
 | 2022-09-12 | 11685 | 646 | 
 | 2022-09-11 | 11678 | 646 | 
-| 2022-09-10 | 11671 | 645 | 
 

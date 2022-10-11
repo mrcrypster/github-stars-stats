@@ -1,8 +1,8 @@
 # nf-core/scrnaseq - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 60 | 66 | 
 | 2022-10-09 | 60 | 65 | 
 | 2022-10-08 | 60 | 66 | 
 | 2022-10-07 | 60 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 59 | 61 | 
 | 2022-09-12 | 59 | 61 | 
 | 2022-09-11 | 59 | 60 | 
-| 2022-09-10 | 59 | 60 | 
 

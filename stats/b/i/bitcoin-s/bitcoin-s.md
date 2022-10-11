@@ -1,10 +1,10 @@
 # bitcoin-s/bitcoin-s - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 84
 
-★ Stars: 307
+★ Stars: 308
 
 [Open repository](https://github.com/bitcoin-s/bitcoin-s)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 308 | 84 | 
 | 2022-10-09 | 307 | 84 | 
 | 2022-10-08 | 307 | 84 | 
 | 2022-10-07 | 307 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 303 | 82 | 
 | 2022-09-12 | 303 | 82 | 
 | 2022-09-11 | 303 | 82 | 
-| 2022-09-10 | 303 | 82 | 
 

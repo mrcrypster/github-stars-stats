@@ -1,10 +1,10 @@
 # icfpc-unagi/icfpc2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/icfpc-unagi/icfpc2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 13 | 1 | 
 | 2022-10-09 | 12 | 1 | 
 | 2022-10-08 | 12 | 1 | 
 | 2022-10-07 | 12 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 11 | 1 | 
 | 2022-09-12 | 10 | 1 | 
 | 2022-09-11 | 10 | 1 | 
-| 2022-09-10 | 10 | 1 | 
 

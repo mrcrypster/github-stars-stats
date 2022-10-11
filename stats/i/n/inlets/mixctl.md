@@ -1,10 +1,10 @@
 # inlets/mixctl - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 14
 
-★ Stars: 369
+★ Stars: 372
 
 [Open repository](https://github.com/inlets/mixctl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 372 | 14 | 
 | 2022-10-09 | 369 | 14 | 
 | 2022-10-08 | 368 | 14 | 
 | 2022-10-07 | 365 | 14 | 

@@ -1,6 +1,6 @@
 # CyC2018/Markdown-Resume - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 1311
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2288 | 1311 | 
 | 2022-10-09 | 2288 | 1311 | 
 | 2022-10-08 | 2287 | 1311 | 
 | 2022-10-07 | 2284 | 1311 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2271 | 1300 | 
 | 2022-09-12 | 2269 | 1300 | 
 | 2022-09-11 | 2269 | 1300 | 
-| 2022-09-10 | 2268 | 1300 | 
 

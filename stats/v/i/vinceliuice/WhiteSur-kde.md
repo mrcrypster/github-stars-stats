@@ -1,6 +1,6 @@
 # vinceliuice/WhiteSur-kde - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 602 | 52 | 
 | 2022-10-09 | 602 | 52 | 
 | 2022-10-08 | 601 | 52 | 
 | 2022-10-07 | 600 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 588 | 52 | 
 | 2022-09-12 | 586 | 52 | 
 | 2022-09-11 | 587 | 52 | 
-| 2022-09-10 | 586 | 52 | 
 

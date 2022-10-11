@@ -1,10 +1,10 @@
 # LaoMengFlutter/flutter-do - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 490
 
-★ Stars: 2226
+★ Stars: 2228
 
 [Open repository](https://github.com/LaoMengFlutter/flutter-do)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 2228 | 490 | 
 | 2022-10-09 | 2226 | 490 | 
 | 2022-10-08 | 2226 | 490 | 
 | 2022-10-07 | 2226 | 490 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2221 | 486 | 
 | 2022-09-12 | 2218 | 486 | 
 | 2022-09-11 | 2217 | 486 | 
-| 2022-09-10 | 2217 | 486 | 
 

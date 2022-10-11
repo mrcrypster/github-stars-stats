@@ -1,10 +1,10 @@
 # ossaw/books - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 74
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/ossaw/books)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 227 | 74 | 
 | 2022-10-09 | 226 | 74 | 
 | 2022-10-08 | 226 | 74 | 
 | 2022-10-07 | 226 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 213 | 72 | 
 | 2022-09-12 | 212 | 72 | 
 | 2022-09-11 | 212 | 72 | 
-| 2022-09-10 | 212 | 72 | 
 

@@ -1,10 +1,10 @@
 # thefLink/DeepSleep - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 42
+☋ Forks: 43
 
-★ Stars: 258
+★ Stars: 260
 
 [Open repository](https://github.com/thefLink/DeepSleep)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 260 | 43 | 
 | 2022-10-09 | 258 | 42 | 
 | 2022-10-08 | 255 | 42 | 
 | 2022-10-07 | 251 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 245 | 42 | 
 | 2022-09-12 | 245 | 42 | 
 | 2022-09-11 | 243 | 42 | 
-| 2022-09-10 | 243 | 42 | 
 

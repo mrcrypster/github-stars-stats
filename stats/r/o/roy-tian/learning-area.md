@@ -1,8 +1,8 @@
 # roy-tian/learning-area - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 1355
+☋ Forks: 1353
 
 ★ Stars: 645
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 645 | 1353 | 
 | 2022-10-09 | 645 | 1355 | 
 | 2022-10-08 | 645 | 1356 | 
 | 2022-10-07 | 645 | 1355 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 641 | 1335 | 
 | 2022-09-12 | 640 | 1334 | 
 | 2022-09-11 | 640 | 1333 | 
-| 2022-09-10 | 640 | 1333 | 
 

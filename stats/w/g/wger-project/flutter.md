@@ -1,10 +1,10 @@
 # wger-project/flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 93
+☋ Forks: 94
 
-★ Stars: 138
+★ Stars: 140
 
 [Open repository](https://github.com/wger-project/flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 140 | 94 | 
 | 2022-10-09 | 138 | 93 | 
 | 2022-10-08 | 138 | 94 | 
 | 2022-10-07 | 136 | 92 | 

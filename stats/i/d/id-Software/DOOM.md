@@ -1,10 +1,10 @@
 # id-Software/DOOM - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 1575
+☋ Forks: 1576
 
-★ Stars: 9114
+★ Stars: 9116
 
 [Open repository](https://github.com/id-Software/DOOM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 9116 | 1576 | 
 | 2022-10-09 | 9114 | 1575 | 
 | 2022-10-08 | 9107 | 1575 | 
 | 2022-10-07 | 9096 | 1575 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 8929 | 1557 | 
 | 2022-09-12 | 8923 | 1557 | 
 | 2022-09-11 | 8918 | 1557 | 
-| 2022-09-10 | 8917 | 1555 | 
 

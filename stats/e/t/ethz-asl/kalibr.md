@@ -1,10 +1,10 @@
 # ethz-asl/kalibr - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1160
 
-★ Stars: 2948
+★ Stars: 2952
 
 [Open repository](https://github.com/ethz-asl/kalibr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2952 | 1160 | 
 | 2022-10-09 | 2948 | 1160 | 
 | 2022-10-08 | 2942 | 1159 | 
 | 2022-10-07 | 2939 | 1158 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 2907 | 1143 | 
 | 2022-09-12 | 2907 | 1143 | 
 | 2022-09-11 | 2907 | 1143 | 
-| 2022-09-10 | 2907 | 1143 | 
 

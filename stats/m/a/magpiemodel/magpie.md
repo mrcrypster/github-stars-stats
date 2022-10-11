@@ -1,8 +1,8 @@
 # magpiemodel/magpie - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 112
+☋ Forks: 113
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 61 | 113 | 
 | 2022-10-09 | 61 | 112 | 
 | 2022-10-08 | 61 | 112 | 
 | 2022-10-07 | 61 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 61 | 112 | 
 | 2022-09-12 | 60 | 112 | 
 | 2022-09-11 | 60 | 112 | 
-| 2022-09-10 | 60 | 112 | 
 

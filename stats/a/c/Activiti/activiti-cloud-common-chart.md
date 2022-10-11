@@ -1,10 +1,10 @@
 # Activiti/activiti-cloud-common-chart - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Activiti/activiti-cloud-common-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1 | 1 | 
 | 2022-10-09 | - | 1 | 
 | 2022-10-08 | - | 1 | 
 | 2022-10-07 | - | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | - | 1 | 
 | 2022-09-12 | - | 1 | 
 | 2022-09-11 | - | 1 | 
-| 2022-09-10 | - | 1 | 
 

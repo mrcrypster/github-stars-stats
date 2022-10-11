@@ -1,6 +1,6 @@
 # google/json_serializable.dart - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 339
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1333 | 339 | 
 | 2022-10-09 | 1333 | 339 | 
 | 2022-10-08 | 1332 | 340 | 
 | 2022-10-07 | 1332 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1320 | 337 | 
 | 2022-09-12 | 1318 | 336 | 
 | 2022-09-11 | 1317 | 336 | 
-| 2022-09-10 | 1316 | 336 | 
 

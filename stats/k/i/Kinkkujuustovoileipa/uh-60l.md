@@ -1,10 +1,10 @@
 # Kinkkujuustovoileipa/uh-60l - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 20
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/Kinkkujuustovoileipa/uh-60l)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 146 | 20 | 
 | 2022-10-09 | 145 | 20 | 
 | 2022-10-08 | 144 | 20 | 
 | 2022-10-07 | 144 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-14 | 140 | 19 | 
 | 2022-09-13 | 140 | 19 | 
 | 2022-09-11 | 139 | 19 | 
-| 2022-09-10 | 139 | 19 | 
 

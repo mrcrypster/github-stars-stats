@@ -1,6 +1,6 @@
 # restaumatic/purescript-specular - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 119 | 9 | 
 | 2022-10-09 | 119 | 9 | 
 | 2022-10-08 | 119 | 9 | 
 | 2022-10-07 | 119 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 118 | 9 | 
 | 2022-09-12 | 118 | 9 | 
 | 2022-09-11 | 117 | 9 | 
-| 2022-09-10 | 117 | 9 | 
 

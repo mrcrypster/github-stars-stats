@@ -1,10 +1,10 @@
 # nextjournal/clerk - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 34
 
-★ Stars: 783
+★ Stars: 786
 
 [Open repository](https://github.com/nextjournal/clerk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 786 | 34 | 
 | 2022-10-09 | 783 | 34 | 
 | 2022-10-08 | 782 | 34 | 
 | 2022-10-07 | 781 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 748 | 31 | 
 | 2022-09-12 | 747 | 31 | 
 | 2022-09-11 | 747 | 31 | 
-| 2022-09-10 | 747 | 31 | 
 

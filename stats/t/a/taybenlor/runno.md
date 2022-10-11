@@ -1,10 +1,10 @@
 # taybenlor/runno - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 259
+★ Stars: 299
 
 [Open repository](https://github.com/taybenlor/runno)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 299 | 7 | 
 | 2022-10-09 | 259 | 6 | 
 | 2022-10-08 | 259 | 6 | 
 | 2022-10-07 | 259 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 248 | 6 | 
 | 2022-09-12 | 246 | 6 | 
 | 2022-09-11 | 243 | 6 | 
-| 2022-09-10 | 240 | 6 | 
 

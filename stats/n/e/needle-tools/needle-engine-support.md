@@ -1,10 +1,10 @@
 # needle-tools/needle-engine-support - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 328
+★ Stars: 331
 
 [Open repository](https://github.com/needle-tools/needle-engine-support)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 331 | 21 | 
 | 2022-10-09 | 328 | 20 | 
 | 2022-10-08 | 311 | 17 | 
 | 2022-10-07 | 297 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 254 | 13 | 
 | 2022-09-12 | 252 | 13 | 
 | 2022-09-11 | 248 | 11 | 
-| 2022-09-10 | 246 | 11 | 
 

@@ -1,10 +1,10 @@
 # RajVarsani/html-archives - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 39
+☋ Forks: 49
 
-★ Stars: 35
+★ Stars: 41
 
 [Open repository](https://github.com/RajVarsani/html-archives)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-10 | 35 | 39 | 
+| 2022-10-11 | 41 | 49 | 
+| 2022-10-10 | 41 | 49 | 
 | 2022-10-09 | 35 | 39 | 
 

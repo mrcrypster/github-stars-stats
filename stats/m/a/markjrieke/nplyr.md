@@ -1,6 +1,6 @@
 # markjrieke/nplyr - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 96 | 2 | 
 | 2022-10-09 | 96 | 2 | 
 | 2022-10-08 | 96 | 2 | 
 | 2022-10-07 | 96 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 93 | 2 | 
 | 2022-09-12 | 93 | 2 | 
 | 2022-09-11 | 93 | 2 | 
-| 2022-09-10 | 93 | 2 | 
 

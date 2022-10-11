@@ -1,6 +1,6 @@
 # cask/epl - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 21
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 61 | 21 | 
+| 2022-10-10 | 61 | 21 | 
 | 2022-10-09 | 61 | 21 | 
 | 2022-10-08 | 61 | 21 | 
 | 2022-10-07 | 61 | 21 | 

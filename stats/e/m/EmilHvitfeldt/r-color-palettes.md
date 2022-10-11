@@ -1,6 +1,6 @@
 # EmilHvitfeldt/r-color-palettes - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 1103 | 116 | 
 | 2022-10-09 | 1103 | 116 | 
 | 2022-10-08 | 1103 | 116 | 
 | 2022-10-07 | 1103 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 1088 | 116 | 
 | 2022-09-12 | 1088 | 116 | 
 | 2022-09-11 | 1087 | 115 | 
-| 2022-09-10 | 1087 | 115 | 
 

@@ -1,6 +1,6 @@
 # siduck/chadwm - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 900 | 106 | 
 | 2022-10-10 | 900 | 106 | 
 | 2022-10-09 | 899 | 106 | 
 | 2022-10-08 | 898 | 105 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-13 | 863 | 101 | 
 | 2022-09-12 | 863 | 101 | 
 | 2022-09-11 | 860 | 101 | 
-| 2022-09-10 | 861 | 101 | 
 

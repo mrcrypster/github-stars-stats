@@ -1,6 +1,6 @@
 # otwcode/otwarchive - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 387
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 956 | 387 | 
 | 2022-10-09 | 956 | 387 | 
 | 2022-10-08 | 955 | 387 | 
 | 2022-10-07 | 955 | 386 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 940 | 383 | 
 | 2022-09-12 | 939 | 383 | 
 | 2022-09-11 | 938 | 384 | 
-| 2022-09-10 | 937 | 384 | 
 

@@ -1,6 +1,6 @@
 # alecmuffett/eotk - stars & forks statistics
 
-Stats updated on Oct 2022, 09
+Stats updated on Oct 2022, 10
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-10 | 693 | 91 | 
 | 2022-10-09 | 693 | 91 | 
 | 2022-10-08 | 692 | 91 | 
 | 2022-10-07 | 691 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 09
 | 2022-09-13 | 687 | 91 | 
 | 2022-09-12 | 687 | 91 | 
 | 2022-09-11 | 687 | 91 | 
-| 2022-09-10 | 687 | 91 | 
 

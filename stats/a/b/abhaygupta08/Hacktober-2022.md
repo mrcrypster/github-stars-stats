@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 10
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 68
+★ Stars: 70
 
 [Open repository](https://github.com/abhaygupta08/Hacktober-2022)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-10 | 68 | 112 | 
+| 2022-10-10 | 70 | 113 | 
 | 2022-10-09 | 68 | 111 | 
 
