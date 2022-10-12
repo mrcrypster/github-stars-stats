@@ -1,6 +1,6 @@
 # Roam-Research/roam-depot - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 51 | 28 | 
 | 2022-10-10 | 51 | 28 | 
 | 2022-10-09 | 51 | 28 | 
 | 2022-10-08 | 51 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 49 | 28 | 
 | 2022-09-13 | 49 | 28 | 
 | 2022-09-12 | 49 | 28 | 
-| 2022-09-11 | 49 | 28 | 
 

@@ -1,10 +1,10 @@
 # OpenIMSDK/Open-IM-Server - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1566
+☋ Forks: 1569
 
-★ Stars: 9422
+★ Stars: 9488
 
 [Open repository](https://github.com/OpenIMSDK/Open-IM-Server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 9488 | 1569 | 
 | 2022-10-10 | 9422 | 1566 | 
 | 2022-10-09 | 9399 | 1562 | 
 | 2022-10-08 | 9388 | 1559 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 9102 | 1502 | 
 | 2022-09-13 | 9089 | 1500 | 
 | 2022-09-12 | 9080 | 1495 | 
-| 2022-09-11 | 9075 | 1495 | 
 

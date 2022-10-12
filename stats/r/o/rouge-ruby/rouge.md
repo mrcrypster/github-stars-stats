@@ -1,6 +1,6 @@
 # rouge-ruby/rouge - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 705
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3127 | 705 | 
 | 2022-10-10 | 3127 | 705 | 
 | 2022-10-09 | 3126 | 705 | 
 | 2022-10-08 | 3126 | 705 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3119 | 702 | 
 | 2022-09-13 | 3119 | 702 | 
 | 2022-09-12 | 3118 | 702 | 
-| 2022-09-11 | 3118 | 702 | 
 

@@ -1,10 +1,10 @@
 # Rudloff/alltube - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 539
 
-★ Stars: 2497
+★ Stars: 2500
 
 [Open repository](https://github.com/Rudloff/alltube)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2500 | 539 | 
 | 2022-10-10 | 2497 | 539 | 
 | 2022-10-09 | 2494 | 539 | 
 | 2022-10-08 | 2493 | 540 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 2467 | 536 | 
 | 2022-09-14 | 2466 | 536 | 
 | 2022-09-13 | 2466 | 536 | 
-| 2022-09-12 | 2466 | 536 | 
 

@@ -1,8 +1,8 @@
 # wormhole-foundation/wormhole - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 353
+☋ Forks: 355
 
 ★ Stars: 885
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 885 | 355 | 
 | 2022-10-10 | 885 | 353 | 
 | 2022-10-09 | 883 | 352 | 
 | 2022-10-08 | 883 | 351 | 

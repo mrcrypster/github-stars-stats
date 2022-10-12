@@ -1,8 +1,8 @@
 # danielbohannon/Invoke-Obfuscation - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 649
+☋ Forks: 650
 
 ★ Stars: 2774
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2774 | 650 | 
 | 2022-10-10 | 2774 | 649 | 
 | 2022-10-09 | 2769 | 649 | 
 | 2022-10-08 | 2768 | 648 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 2736 | 635 | 
 | 2022-09-14 | 2735 | 635 | 
 | 2022-09-13 | 2734 | 635 | 
-| 2022-09-11 | 2734 | 635 | 
 

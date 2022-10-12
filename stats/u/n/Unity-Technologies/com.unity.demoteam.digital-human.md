@@ -1,6 +1,6 @@
 # Unity-Technologies/com.unity.demoteam.digital-human - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 312 | 54 | 
 | 2022-10-10 | 312 | 54 | 
 | 2022-10-09 | 312 | 54 | 
 | 2022-10-08 | 312 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 303 | 52 | 
 | 2022-09-13 | 303 | 52 | 
 | 2022-09-12 | 302 | 52 | 
-| 2022-09-11 | 302 | 52 | 
 

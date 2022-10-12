@@ -1,10 +1,10 @@
 # xcodebuild/CodeTerminal - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 16
 
-★ Stars: 666
+★ Stars: 667
 
 [Open repository](https://github.com/xcodebuild/CodeTerminal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 667 | 16 | 
 | 2022-10-10 | 666 | 16 | 
 | 2022-10-09 | 666 | 16 | 
 | 2022-10-08 | 666 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 664 | 16 | 
 | 2022-09-14 | 664 | 16 | 
 | 2022-09-13 | 664 | 16 | 
-| 2022-09-12 | 664 | 16 | 
 

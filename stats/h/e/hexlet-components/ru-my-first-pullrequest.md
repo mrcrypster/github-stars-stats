@@ -1,8 +1,8 @@
 # hexlet-components/ru-my-first-pullrequest - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1304
+☋ Forks: 1311
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 10 | 1311 | 
 | 2022-10-10 | 10 | 1304 | 
 | 2022-10-09 | 10 | 1302 | 
 | 2022-10-08 | 10 | 1301 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 9 | 1211 | 
 | 2022-09-13 | 9 | 1207 | 
 | 2022-09-12 | 9 | 1206 | 
-| 2022-09-11 | 9 | 1198 | 
 

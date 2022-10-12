@@ -1,10 +1,10 @@
 # dgkf/ggpackets - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1
 
-★ Stars: 42
+★ Stars: 44
 
 [Open repository](https://github.com/dgkf/ggpackets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 44 | 1 | 
 | 2022-10-10 | 42 | 1 | 
 | 2022-10-09 | 41 | 1 | 
 | 2022-10-08 | 41 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 37 | 1 | 
 | 2022-09-13 | 37 | 1 | 
 | 2022-09-12 | 37 | 1 | 
-| 2022-09-11 | 37 | 1 | 
 

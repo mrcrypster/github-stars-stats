@@ -1,10 +1,10 @@
 # skorch-dev/skorch - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 322
 
-★ Stars: 4738
+★ Stars: 4741
 
 [Open repository](https://github.com/skorch-dev/skorch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4741 | 322 | 
 | 2022-10-10 | 4738 | 322 | 
 | 2022-10-09 | 4735 | 322 | 
 | 2022-10-08 | 4733 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 4672 | 319 | 
 | 2022-09-13 | 4670 | 320 | 
 | 2022-09-12 | 4669 | 320 | 
-| 2022-09-11 | 4666 | 320 | 
 

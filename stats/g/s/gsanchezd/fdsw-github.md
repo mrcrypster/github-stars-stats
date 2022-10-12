@@ -1,8 +1,8 @@
 # gsanchezd/fdsw-github - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 637
+☋ Forks: 639
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 8 | 639 | 
 | 2022-10-11 | 8 | 637 | 
 | 2022-10-10 | 8 | 638 | 
 | 2022-10-09 | 8 | 635 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 8 | 573 | 
 | 2022-09-13 | 8 | 570 | 
 | 2022-09-12 | 8 | 567 | 
-| 2022-09-11 | 8 | 563 | 
 

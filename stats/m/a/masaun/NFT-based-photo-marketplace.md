@@ -1,8 +1,8 @@
 # masaun/NFT-based-photo-marketplace - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 115
+☋ Forks: 116
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 195 | 116 | 
 | 2022-10-10 | 195 | 115 | 
 | 2022-10-09 | 194 | 115 | 
 | 2022-10-08 | 194 | 115 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 192 | 115 | 
 | 2022-09-13 | 192 | 115 | 
 | 2022-09-12 | 192 | 115 | 
-| 2022-09-11 | 192 | 115 | 
 

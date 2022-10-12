@@ -1,6 +1,6 @@
 # se331-2022/Lab05 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | - | 31 | 
 | 2022-10-10 | - | 31 | 
 | 2022-10-09 | - | 31 | 
 | 2022-10-08 | - | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | - | 31 | 
 | 2022-09-13 | - | 31 | 
 | 2022-09-12 | - | 31 | 
-| 2022-09-11 | - | 31 | 
 

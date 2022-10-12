@@ -1,10 +1,10 @@
 # tpope/vim-eunuch - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 65
 
-★ Stars: 1644
+★ Stars: 1645
 
 [Open repository](https://github.com/tpope/vim-eunuch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1645 | 65 | 
 | 2022-10-10 | 1644 | 65 | 
 | 2022-10-09 | 1644 | 65 | 
 | 2022-10-08 | 1644 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1639 | 65 | 
 | 2022-09-13 | 1639 | 65 | 
 | 2022-09-12 | 1638 | 65 | 
-| 2022-09-11 | 1639 | 65 | 
 

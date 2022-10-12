@@ -1,6 +1,6 @@
 # tock/tock - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 507
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3793 | 507 | 
 | 2022-10-10 | 3793 | 507 | 
 | 2022-10-09 | 3791 | 507 | 
 | 2022-10-08 | 3791 | 507 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3734 | 502 | 
 | 2022-09-13 | 3733 | 502 | 
 | 2022-09-12 | 3732 | 501 | 
-| 2022-09-11 | 3728 | 501 | 
 

@@ -1,6 +1,6 @@
 # adamshostack/eop - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 218 | 28 | 
 | 2022-10-10 | 218 | 28 | 
 | 2022-10-09 | 218 | 28 | 
 | 2022-10-08 | 218 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 216 | 27 | 
 | 2022-09-14 | 215 | 27 | 
 | 2022-09-13 | 215 | 27 | 
-| 2022-09-11 | 215 | 27 | 
 

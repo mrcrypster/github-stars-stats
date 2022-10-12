@@ -1,10 +1,10 @@
 # infracost/infracost - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 375
 
-★ Stars: 8017
+★ Stars: 8028
 
 [Open repository](https://github.com/infracost/infracost)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 8028 | 375 | 
 | 2022-10-10 | 8017 | 375 | 
 | 2022-10-09 | 8013 | 375 | 
 | 2022-10-08 | 8010 | 375 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 7899 | 370 | 
 | 2022-09-14 | 7897 | 370 | 
 | 2022-09-13 | 7891 | 369 | 
-| 2022-09-12 | 7890 | 368 | 
 

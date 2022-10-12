@@ -1,6 +1,6 @@
 # CeresDB/ceresdb - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1646 | 96 | 
 | 2022-10-10 | 1646 | 96 | 
 | 2022-10-09 | 1643 | 96 | 
 | 2022-10-08 | 1643 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1600 | 93 | 
 | 2022-09-13 | 1598 | 93 | 
 | 2022-09-12 | 1596 | 93 | 
-| 2022-09-11 | 1592 | 93 | 
 

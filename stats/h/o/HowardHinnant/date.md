@@ -1,10 +1,10 @@
 # HowardHinnant/date - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 587
 
-★ Stars: 2657
+★ Stars: 2658
 
 [Open repository](https://github.com/HowardHinnant/date)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2658 | 587 | 
 | 2022-10-10 | 2657 | 587 | 
 | 2022-10-09 | 2657 | 587 | 
 | 2022-10-08 | 2657 | 586 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 2636 | 577 | 
 | 2022-09-14 | 2633 | 576 | 
 | 2022-09-12 | 2632 | 576 | 
-| 2022-09-11 | 2632 | 574 | 
 

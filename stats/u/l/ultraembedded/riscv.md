@@ -1,10 +1,10 @@
 # ultraembedded/riscv - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 143
 
-★ Stars: 628
+★ Stars: 630
 
 [Open repository](https://github.com/ultraembedded/riscv)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 630 | 143 | 
 | 2022-10-10 | 628 | 143 | 
 | 2022-10-09 | 628 | 143 | 
 | 2022-10-08 | 628 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 608 | 142 | 
 | 2022-09-13 | 607 | 142 | 
 | 2022-09-12 | 607 | 142 | 
-| 2022-09-11 | 604 | 142 | 
 

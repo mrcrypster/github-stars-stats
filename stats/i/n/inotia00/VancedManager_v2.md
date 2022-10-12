@@ -1,10 +1,10 @@
 # inotia00/VancedManager_v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 15
 
-★ Stars: 387
+★ Stars: 390
 
 [Open repository](https://github.com/inotia00/VancedManager_v2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 390 | 15 | 
 | 2022-10-10 | 387 | 15 | 
 | 2022-10-09 | 386 | 15 | 
 | 2022-10-08 | 385 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 346 | 12 | 
 | 2022-09-13 | 345 | 12 | 
 | 2022-09-12 | 343 | 12 | 
-| 2022-09-11 | 336 | 11 | 
 

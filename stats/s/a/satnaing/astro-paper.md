@@ -1,10 +1,10 @@
 # satnaing/astro-paper - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 5
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/satnaing/astro-paper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 14 | 5 | 
 | 2022-10-10 | 13 | 5 | 
 | 2022-10-09 | 13 | 4 | 
 | 2022-10-08 | 13 | 3 | 

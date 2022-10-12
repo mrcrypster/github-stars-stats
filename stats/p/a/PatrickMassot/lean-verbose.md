@@ -1,6 +1,6 @@
 # PatrickMassot/lean-verbose - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 50 | 1 | 
 | 2022-10-11 | 50 | 1 | 
 | 2022-10-10 | 49 | 1 | 
 | 2022-10-08 | 48 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 48 | 1 | 
 | 2022-09-13 | 48 | 1 | 
 | 2022-09-12 | 48 | 1 | 
-| 2022-09-11 | 48 | 1 | 
 

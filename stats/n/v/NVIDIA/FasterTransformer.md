@@ -1,10 +1,10 @@
 # NVIDIA/FasterTransformer - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 251
 
-★ Stars: 1452
+★ Stars: 1456
 
 [Open repository](https://github.com/NVIDIA/FasterTransformer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1456 | 251 | 
 | 2022-10-10 | 1452 | 251 | 
 | 2022-10-09 | 1447 | 251 | 
 | 2022-10-08 | 1444 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1317 | 226 | 
 | 2022-09-13 | 1312 | 225 | 
 | 2022-09-12 | 1307 | 224 | 
-| 2022-09-11 | 1301 | 224 | 
 

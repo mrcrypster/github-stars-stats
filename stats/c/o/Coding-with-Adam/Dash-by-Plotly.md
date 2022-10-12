@@ -1,10 +1,10 @@
 # Coding-with-Adam/Dash-by-Plotly - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1376
+☋ Forks: 1379
 
-★ Stars: 945
+★ Stars: 947
 
 [Open repository](https://github.com/Coding-with-Adam/Dash-by-Plotly)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 947 | 1379 | 
 | 2022-10-10 | 945 | 1376 | 
 | 2022-10-09 | 943 | 1377 | 
 | 2022-10-08 | 942 | 1373 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 912 | 1348 | 
 | 2022-09-13 | 908 | 1345 | 
 | 2022-09-12 | 907 | 1342 | 
-| 2022-09-11 | 907 | 1340 | 
 

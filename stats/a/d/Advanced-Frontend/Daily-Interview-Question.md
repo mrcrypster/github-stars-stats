@@ -1,10 +1,10 @@
 # Advanced-Frontend/Daily-Interview-Question - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 3283
 
-★ Stars: 26234
+★ Stars: 26238
 
 [Open repository](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 26238 | 3283 | 
 | 2022-10-10 | 26234 | 3283 | 
 | 2022-10-09 | 26234 | 3283 | 
 | 2022-10-08 | 26232 | 3283 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 26162 | 3278 | 
 | 2022-09-13 | 26157 | 3278 | 
 | 2022-09-12 | 26150 | 3279 | 
-| 2022-09-11 | 26151 | 3280 | 
 

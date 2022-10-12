@@ -1,6 +1,6 @@
 # coder0211/kyan-app - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 10 | 10 | 
 | 2022-10-10 | 10 | 10 | 
 | 2022-10-09 | 10 | 10 | 
 | 2022-10-08 | 10 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 10 | 10 | 
 | 2022-09-14 | 10 | 10 | 
 | 2022-09-13 | 10 | 10 | 
-| 2022-09-12 | 10 | 10 | 
 

@@ -1,10 +1,10 @@
 # jquery/jquery - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 20524
+☋ Forks: 20534
 
-★ Stars: 56794
+★ Stars: 56806
 
 [Open repository](https://github.com/jquery/jquery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 56806 | 20534 | 
 | 2022-10-10 | 56794 | 20524 | 
 | 2022-10-09 | 56791 | 20499 | 
 | 2022-10-08 | 56787 | 20494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 56677 | 20472 | 
 | 2022-09-13 | 56673 | 20471 | 
 | 2022-09-12 | 56669 | 20473 | 
-| 2022-09-11 | 56667 | 20472 | 
 

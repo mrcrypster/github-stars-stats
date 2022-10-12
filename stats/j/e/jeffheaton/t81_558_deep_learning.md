@@ -1,10 +1,10 @@
 # jeffheaton/t81_558_deep_learning - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 2621
+☋ Forks: 2625
 
-★ Stars: 4855
+★ Stars: 4856
 
 [Open repository](https://github.com/jeffheaton/t81_558_deep_learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4856 | 2625 | 
 | 2022-10-10 | 4855 | 2621 | 
 | 2022-10-09 | 4853 | 2620 | 
 | 2022-10-08 | 4851 | 2619 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 4794 | 2579 | 
 | 2022-09-13 | 4789 | 2578 | 
 | 2022-09-12 | 4787 | 2578 | 
-| 2022-09-11 | 4787 | 2577 | 
 

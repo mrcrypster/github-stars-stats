@@ -1,10 +1,10 @@
 # Sub6Resources/flutter_html - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 599
 
-★ Stars: 1497
+★ Stars: 1498
 
 [Open repository](https://github.com/Sub6Resources/flutter_html)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1498 | 599 | 
 | 2022-10-10 | 1497 | 599 | 
 | 2022-10-09 | 1496 | 599 | 
 | 2022-10-08 | 1496 | 598 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1475 | 589 | 
 | 2022-09-13 | 1473 | 590 | 
 | 2022-09-12 | 1472 | 589 | 
-| 2022-09-11 | 1472 | 588 | 
 

@@ -1,6 +1,6 @@
 # typedclojure/typedclojure - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 284 | 1 | 
 | 2022-10-10 | 284 | 1 | 
 | 2022-10-09 | 284 | 1 | 
 | 2022-10-08 | 284 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 276 | 1 | 
 | 2022-09-13 | 275 | 1 | 
 | 2022-09-12 | 275 | 1 | 
-| 2022-09-11 | 275 | 1 | 
 

@@ -1,6 +1,6 @@
 # msharp/elixir-statistics - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 119 | 27 | 
 | 2022-10-10 | 119 | 27 | 
 | 2022-10-09 | 119 | 27 | 
 | 2022-10-08 | 119 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 118 | 27 | 
 | 2022-09-13 | 118 | 27 | 
 | 2022-09-12 | 118 | 27 | 
-| 2022-09-11 | 118 | 27 | 
 

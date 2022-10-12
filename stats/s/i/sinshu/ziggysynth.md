@@ -1,10 +1,10 @@
 # sinshu/ziggysynth - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/sinshu/ziggysynth)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 20 | - | 
 | 2022-10-10 | 19 | - | 
 | 2022-10-09 | 19 | - | 
 | 2022-10-08 | 18 | - | 

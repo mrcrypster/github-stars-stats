@@ -1,8 +1,8 @@
 # finos/perspective - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 526
+☋ Forks: 527
 
 ★ Stars: 4885
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4885 | 527 | 
 | 2022-10-10 | 4885 | 526 | 
 | 2022-10-09 | 4885 | 526 | 
 | 2022-10-08 | 4883 | 523 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 4841 | 513 | 
 | 2022-09-13 | 4840 | 513 | 
 | 2022-09-12 | 4836 | 512 | 
-| 2022-09-11 | 4835 | 512 | 
 

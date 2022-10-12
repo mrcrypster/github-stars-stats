@@ -1,6 +1,6 @@
 # simplesamlphp/simplesamlphp - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 624
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 939 | 624 | 
 | 2022-10-10 | 939 | 624 | 
 | 2022-10-09 | 939 | 624 | 
 | 2022-10-08 | 939 | 624 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 936 | 622 | 
 | 2022-09-13 | 936 | 621 | 
 | 2022-09-12 | 935 | 621 | 
-| 2022-09-11 | 935 | 621 | 
 

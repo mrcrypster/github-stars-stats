@@ -1,10 +1,10 @@
 # ThePrimeagen/tyrone-biggums - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 38
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/ThePrimeagen/tyrone-biggums)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 295 | 38 | 
 | 2022-10-11 | 294 | 38 | 
 | 2022-10-10 | 295 | 38 | 
 | 2022-10-09 | 295 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 291 | 37 | 
 | 2022-09-13 | 291 | 37 | 
 | 2022-09-12 | 291 | 37 | 
-| 2022-09-11 | 291 | 37 | 
 

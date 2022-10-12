@@ -1,10 +1,10 @@
 # Xilinx/embeddedsw - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 925
+☋ Forks: 926
 
-★ Stars: 620
+★ Stars: 621
 
 [Open repository](https://github.com/Xilinx/embeddedsw)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 621 | 926 | 
 | 2022-10-10 | 620 | 925 | 
 | 2022-10-09 | 620 | 924 | 
 | 2022-10-08 | 620 | 924 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 611 | 913 | 
 | 2022-09-13 | 611 | 912 | 
 | 2022-09-12 | 611 | 912 | 
-| 2022-09-11 | 611 | 912 | 
 

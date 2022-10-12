@@ -1,10 +1,10 @@
 # MrKrishnaAgarwal/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 55
+☋ Forks: 54
 
-★ Stars: 52
+★ Stars: 51
 
 [Open repository](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 51 | 54 | 
 | 2022-10-10 | 52 | 55 | 
 | 2022-10-09 | 52 | 55 | 
 | 2022-10-08 | 53 | 58 | 

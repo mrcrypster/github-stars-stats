@@ -1,6 +1,6 @@
 # spritsail/fivem - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 53 | 101 | 
 | 2022-10-10 | 53 | 101 | 
 | 2022-10-09 | 53 | 101 | 
 | 2022-10-08 | 53 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 50 | 103 | 
 | 2022-09-14 | 50 | 103 | 
 | 2022-09-13 | 50 | 102 | 
-| 2022-09-12 | 50 | 102 | 
 

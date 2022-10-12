@@ -1,6 +1,6 @@
 # Revadike/Misc-JavaScript-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 88 | 11 | 
 | 2022-10-10 | 88 | 11 | 
 | 2022-10-09 | 88 | 11 | 
 | 2022-10-08 | 88 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 88 | 12 | 
 | 2022-09-13 | 88 | 12 | 
 | 2022-09-12 | 88 | 12 | 
-| 2022-09-11 | 88 | 12 | 
 

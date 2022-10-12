@@ -1,10 +1,10 @@
 # gytis-ivaskevicius/high-quality-nix-content - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 11
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/gytis-ivaskevicius/high-quality-nix-content)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 120 | 11 | 
 | 2022-10-11 | 119 | 11 | 
 | 2022-10-10 | 119 | 11 | 
 | 2022-10-09 | 119 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 116 | 11 | 
 | 2022-09-13 | 116 | 11 | 
 | 2022-09-12 | 116 | 11 | 
-| 2022-09-11 | 116 | 11 | 
 

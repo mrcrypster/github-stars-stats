@@ -1,10 +1,10 @@
 # theblitzapp/factory_ex - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/theblitzapp/factory_ex)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4 | 2 | 
 | 2022-10-10 | 3 | 2 | 
 | 2022-10-09 | 3 | 2 | 
 | 2022-10-08 | 3 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3 | 2 | 
 | 2022-09-13 | 3 | 2 | 
 | 2022-09-12 | 3 | 2 | 
-| 2022-09-11 | 3 | 2 | 
 

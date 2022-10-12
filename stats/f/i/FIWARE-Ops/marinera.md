@@ -1,10 +1,10 @@
 # FIWARE-Ops/marinera - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 12
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/FIWARE-Ops/marinera)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 9 | 12 | 
 | 2022-10-10 | 8 | 12 | 
 | 2022-10-09 | 8 | 12 | 
 | 2022-10-08 | 8 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 7 | 11 | 
 | 2022-09-13 | 7 | 11 | 
 | 2022-09-12 | 7 | 11 | 
-| 2022-09-11 | 7 | 11 | 
 

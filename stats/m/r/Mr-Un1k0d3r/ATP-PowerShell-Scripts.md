@@ -1,10 +1,10 @@
 # Mr-Un1k0d3r/ATP-PowerShell-Scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 135
+★ Stars: 140
 
 [Open repository](https://github.com/Mr-Un1k0d3r/ATP-PowerShell-Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 140 | 22 | 
 | 2022-10-10 | 135 | 21 | 
 | 2022-10-09 | 134 | 19 | 
 | 2022-10-08 | 131 | 18 | 

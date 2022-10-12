@@ -1,6 +1,6 @@
 # teal-language/tl - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1343 | 73 | 
 | 2022-10-10 | 1343 | 73 | 
 | 2022-10-09 | 1343 | 72 | 
 | 2022-10-08 | 1338 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 1313 | 69 | 
 | 2022-09-14 | 1313 | 69 | 
 | 2022-09-12 | 1313 | 69 | 
-| 2022-09-11 | 1311 | 69 | 
 

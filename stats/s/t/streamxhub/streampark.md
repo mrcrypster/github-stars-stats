@@ -1,8 +1,8 @@
 # streamxhub/streampark - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 582
+☋ Forks: 588
 
 ★ Stars: 2534
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2534 | 588 | 
 | 2022-10-10 | 2534 | 582 | 
 | 2022-10-09 | 2532 | 580 | 
 | 2022-10-08 | 2530 | 581 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2397 | 559 | 
 | 2022-09-13 | 2381 | 558 | 
 | 2022-09-12 | 2343 | 557 | 
-| 2022-09-11 | 2262 | 555 | 
 

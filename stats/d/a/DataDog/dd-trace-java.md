@@ -1,10 +1,10 @@
 # DataDog/dd-trace-java - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 214
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/DataDog/dd-trace-java)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 367 | 214 | 
 | 2022-10-10 | 366 | 214 | 
 | 2022-10-09 | 366 | 214 | 
 | 2022-10-08 | 366 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 363 | 214 | 
 | 2022-09-13 | 362 | 214 | 
 | 2022-09-12 | 362 | 214 | 
-| 2022-09-11 | 362 | 214 | 
 

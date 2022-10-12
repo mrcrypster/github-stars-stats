@@ -1,6 +1,6 @@
 # chuckhoupt/jekyll-apple-help - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 182 | 14 | 
 | 2022-10-10 | 182 | 14 | 
 | 2022-10-09 | 182 | 14 | 
 | 2022-10-08 | 182 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 182 | 15 | 
 | 2022-09-14 | 182 | 15 | 
 | 2022-09-13 | 182 | 15 | 
-| 2022-09-12 | 182 | 15 | 
 

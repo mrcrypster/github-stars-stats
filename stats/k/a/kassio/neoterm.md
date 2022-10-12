@@ -1,10 +1,10 @@
 # kassio/neoterm - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 118
 
-★ Stars: 1220
+★ Stars: 1221
 
 [Open repository](https://github.com/kassio/neoterm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1221 | 118 | 
 | 2022-10-10 | 1220 | 118 | 
 | 2022-10-09 | 1219 | 118 | 
 | 2022-10-08 | 1219 | 118 | 

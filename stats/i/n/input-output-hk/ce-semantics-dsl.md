@@ -1,10 +1,10 @@
 # input-output-hk/ce-semantics-dsl - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/input-output-hk/ce-semantics-dsl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6 | 1 | 
 | 2022-10-10 | 5 | 1 | 
 | 2022-10-09 | 5 | 1 | 
 | 2022-10-08 | 5 | 1 | 

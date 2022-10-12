@@ -1,10 +1,10 @@
 # xiangyuecn/ACME-HTML-Web-Browser-Client - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 78 | 11 | 
 | 2022-10-10 | 77 | 10 | 
 | 2022-10-09 | 75 | 9 | 
 | 2022-10-08 | 75 | 9 | 

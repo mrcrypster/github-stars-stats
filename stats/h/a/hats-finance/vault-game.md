@@ -1,6 +1,6 @@
 # hats-finance/vault-game - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 8 | 4 | 
 | 2022-10-10 | 8 | 4 | 
 | 2022-10-09 | 8 | 4 | 
 | 2022-10-08 | 8 | 4 | 

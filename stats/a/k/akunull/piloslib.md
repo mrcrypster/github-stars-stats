@@ -1,6 +1,6 @@
 # akunull/piloslib - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 110 | 2 | 
 | 2022-10-11 | 110 | 2 | 
 | 2022-10-10 | 110 | 2 | 
 | 2022-10-09 | 110 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 109 | 2 | 
 | 2022-09-13 | 109 | 2 | 
 | 2022-09-12 | 108 | 2 | 
-| 2022-09-11 | 108 | 2 | 
 

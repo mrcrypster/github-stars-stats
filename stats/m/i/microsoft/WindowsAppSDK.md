@@ -1,10 +1,10 @@
 # microsoft/WindowsAppSDK - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 232
+☋ Forks: 233
 
-★ Stars: 3046
+★ Stars: 3047
 
 [Open repository](https://github.com/microsoft/WindowsAppSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3047 | 233 | 
 | 2022-10-10 | 3046 | 232 | 
 | 2022-10-09 | 3044 | 232 | 
 | 2022-10-08 | 3046 | 232 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3018 | 226 | 
 | 2022-09-13 | 3017 | 226 | 
 | 2022-09-12 | 3016 | 225 | 
-| 2022-09-11 | 3014 | 225 | 
 

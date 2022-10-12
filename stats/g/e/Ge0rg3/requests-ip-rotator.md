@@ -1,10 +1,10 @@
 # Ge0rg3/requests-ip-rotator - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 99
 
-★ Stars: 816
+★ Stars: 817
 
 [Open repository](https://github.com/Ge0rg3/requests-ip-rotator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 817 | 99 | 
 | 2022-10-10 | 816 | 99 | 
 | 2022-10-09 | 811 | 98 | 
 | 2022-10-08 | 809 | 97 | 

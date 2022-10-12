@@ -1,10 +1,10 @@
 # catppuccin/gtk - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 6
+☋ Forks: 5
 
-★ Stars: 268
+★ Stars: 270
 
 [Open repository](https://github.com/catppuccin/gtk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 270 | 5 | 
 | 2022-10-10 | 268 | 6 | 
 | 2022-10-09 | 268 | 6 | 
 | 2022-10-08 | 268 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 238 | 6 | 
 | 2022-09-14 | 237 | 6 | 
 | 2022-09-12 | 231 | 6 | 
-| 2022-09-11 | 230 | 6 | 
 

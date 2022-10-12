@@ -1,6 +1,6 @@
 # AXERA-TECH/ax-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 67 | 15 | 
 | 2022-10-11 | 67 | 15 | 
 | 2022-10-09 | 67 | 15 | 
 | 2022-10-08 | 66 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 59 | 14 | 
 | 2022-09-13 | 59 | 14 | 
 | 2022-09-12 | 58 | 14 | 
-| 2022-09-11 | 57 | 14 | 
 

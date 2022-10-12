@@ -1,10 +1,10 @@
 # facebookresearch/xformers - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 84
 
-★ Stars: 1120
+★ Stars: 1127
 
 [Open repository](https://github.com/facebookresearch/xformers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1127 | 84 | 
 | 2022-10-10 | 1120 | 84 | 
 | 2022-10-09 | 1084 | 84 | 
 | 2022-10-08 | 1057 | 84 | 

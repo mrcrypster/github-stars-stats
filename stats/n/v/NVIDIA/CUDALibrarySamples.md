@@ -1,6 +1,6 @@
 # NVIDIA/CUDALibrarySamples - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 504 | 157 | 
 | 2022-10-10 | 504 | 157 | 
 | 2022-10-09 | 504 | 157 | 
 | 2022-10-08 | 505 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 490 | 153 | 
 | 2022-09-13 | 489 | 152 | 
 | 2022-09-12 | 489 | 152 | 
-| 2022-09-11 | 489 | 152 | 
 

@@ -1,8 +1,8 @@
 # aave/flashloan-box - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 217
+☋ Forks: 218
 
 ★ Stars: 491
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 491 | 218 | 
 | 2022-10-11 | 491 | 217 | 
 | 2022-10-10 | 491 | 217 | 
 | 2022-10-09 | 490 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 481 | 214 | 
 | 2022-09-13 | 481 | 214 | 
 | 2022-09-12 | 480 | 214 | 
-| 2022-09-11 | 480 | 213 | 
 

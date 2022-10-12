@@ -1,10 +1,10 @@
 # Your-First-Open-Source-Project/Your-First-Open-Source-Project - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 65
+☋ Forks: 67
 
-★ Stars: 70
+★ Stars: 73
 
 [Open repository](https://github.com/Your-First-Open-Source-Project/Your-First-Open-Source-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 73 | 67 | 
 | 2022-10-10 | 70 | 65 | 
 | 2022-10-09 | 68 | 64 | 
 | 2022-10-08 | 67 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 60 | 51 | 
 | 2022-09-13 | 58 | 50 | 
 | 2022-09-12 | 59 | 49 | 
-| 2022-09-11 | 58 | 46 | 
 

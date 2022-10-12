@@ -1,10 +1,10 @@
 # rafaelvleite/centipawn_loss_calculator - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 24
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/rafaelvleite/centipawn_loss_calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 46 | 24 | 
 | 2022-10-10 | 45 | 24 | 
 | 2022-10-09 | 45 | 24 | 
 | 2022-10-08 | 44 | 23 | 

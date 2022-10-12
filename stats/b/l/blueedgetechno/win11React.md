@@ -1,10 +1,10 @@
 # blueedgetechno/win11React - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 387
+☋ Forks: 388
 
-★ Stars: 6542
+★ Stars: 6552
 
 [Open repository](https://github.com/blueedgetechno/win11React)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6552 | 388 | 
 | 2022-10-10 | 6542 | 387 | 
 | 2022-10-09 | 6525 | 382 | 
 | 2022-10-08 | 6514 | 379 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 6380 | 345 | 
 | 2022-09-13 | 6376 | 344 | 
 | 2022-09-12 | 6373 | 344 | 
-| 2022-09-11 | 6366 | 343 | 
 

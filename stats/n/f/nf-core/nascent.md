@@ -1,6 +1,6 @@
 # nf-core/nascent - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 3 | 8 | 
 | 2022-10-11 | 3 | 8 | 
 | 2022-10-09 | 3 | 8 | 
 | 2022-10-08 | 3 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 3 | 8 | 
 | 2022-09-13 | 3 | 8 | 
 | 2022-09-12 | 3 | 8 | 
-| 2022-09-11 | 3 | 8 | 
 

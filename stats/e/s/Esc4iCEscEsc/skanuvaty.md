@@ -1,6 +1,6 @@
 # Esc4iCEscEsc/skanuvaty - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 688 | 67 | 
 | 2022-10-10 | 688 | 67 | 
 | 2022-10-09 | 688 | 67 | 
 | 2022-10-08 | 688 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 685 | 65 | 
 | 2022-09-13 | 683 | 65 | 
 | 2022-09-12 | 683 | 65 | 
-| 2022-09-11 | 683 | 65 | 
 

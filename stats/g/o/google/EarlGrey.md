@@ -1,10 +1,10 @@
 # google/EarlGrey - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 763
 
-★ Stars: 5433
+★ Stars: 5434
 
 [Open repository](https://github.com/google/EarlGrey)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 5434 | 763 | 
 | 2022-10-10 | 5433 | 763 | 
 | 2022-10-09 | 5433 | 763 | 
 | 2022-10-08 | 5433 | 763 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 5432 | 762 | 
 | 2022-09-13 | 5433 | 762 | 
 | 2022-09-12 | 5432 | 762 | 
-| 2022-09-11 | 5432 | 762 | 
 

@@ -1,10 +1,10 @@
 # servo/servo - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 2652
+☋ Forks: 2653
 
-★ Stars: 21630
+★ Stars: 21637
 
 [Open repository](https://github.com/servo/servo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 21637 | 2653 | 
 | 2022-10-10 | 21630 | 2652 | 
 | 2022-10-09 | 21627 | 2652 | 
 | 2022-10-08 | 21628 | 2653 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 21549 | 2652 | 
 | 2022-09-13 | 21542 | 2652 | 
 | 2022-09-12 | 21540 | 2652 | 
-| 2022-09-11 | 21537 | 2651 | 
 

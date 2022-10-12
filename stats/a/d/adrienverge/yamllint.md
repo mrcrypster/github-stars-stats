@@ -1,6 +1,6 @@
 # adrienverge/yamllint - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2129 | 218 | 
 | 2022-10-10 | 2129 | 218 | 
 | 2022-10-09 | 2129 | 218 | 
 | 2022-10-08 | 2127 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2091 | 214 | 
 | 2022-09-13 | 2090 | 213 | 
 | 2022-09-12 | 2089 | 213 | 
-| 2022-09-11 | 2088 | 213 | 
 

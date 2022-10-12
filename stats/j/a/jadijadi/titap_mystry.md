@@ -1,6 +1,6 @@
 # jadijadi/titap_mystry - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 91 | 139 | 
 | 2022-10-10 | 91 | 139 | 
 | 2022-10-09 | 91 | 139 | 
 | 2022-10-08 | 91 | 138 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 89 | 134 | 
 | 2022-09-13 | 89 | 134 | 
 | 2022-09-12 | 89 | 134 | 
-| 2022-09-11 | 89 | 133 | 
 

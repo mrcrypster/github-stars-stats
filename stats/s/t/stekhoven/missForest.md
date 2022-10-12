@@ -1,10 +1,10 @@
 # stekhoven/missForest - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 22
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/stekhoven/missForest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 62 | 22 | 
 | 2022-10-10 | 61 | 22 | 
 | 2022-10-09 | 61 | 22 | 
 | 2022-10-08 | 61 | 22 | 

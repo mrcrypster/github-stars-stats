@@ -1,10 +1,10 @@
 # MaJerle/stm32-usart-uart-dma-rx-tx - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 237
 
-★ Stars: 781
+★ Stars: 783
 
 [Open repository](https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 783 | 237 | 
 | 2022-10-10 | 781 | 237 | 
 | 2022-10-09 | 781 | 237 | 
 | 2022-10-08 | 781 | 237 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 757 | 238 | 
 | 2022-09-14 | 757 | 238 | 
 | 2022-09-13 | 756 | 239 | 
-| 2022-09-11 | 755 | 239 | 
 

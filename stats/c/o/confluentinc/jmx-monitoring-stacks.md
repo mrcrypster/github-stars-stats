@@ -1,10 +1,10 @@
 # confluentinc/jmx-monitoring-stacks - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 136
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/confluentinc/jmx-monitoring-stacks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 152 | 136 | 
 | 2022-10-11 | 151 | 136 | 
 | 2022-10-09 | 150 | 135 | 
 | 2022-10-08 | 150 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 149 | 132 | 
 | 2022-09-13 | 149 | 132 | 
 | 2022-09-12 | 148 | 132 | 
-| 2022-09-11 | 148 | 132 | 
 

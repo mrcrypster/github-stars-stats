@@ -1,10 +1,10 @@
 # intel/haxm - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 762
+☋ Forks: 763
 
-★ Stars: 2787
+★ Stars: 2789
 
 [Open repository](https://github.com/intel/haxm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2789 | 763 | 
 | 2022-10-10 | 2787 | 762 | 
 | 2022-10-09 | 2785 | 761 | 
 | 2022-10-08 | 2783 | 761 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2762 | 741 | 
 | 2022-09-13 | 2761 | 741 | 
 | 2022-09-12 | 2761 | 741 | 
-| 2022-09-11 | 2759 | 742 | 
 

@@ -1,10 +1,10 @@
 # minigueimeiros/office-365-cmd - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/minigueimeiros/office-365-cmd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3 | 3 | 
 | 2022-10-10 | 2 | 3 | 
 | 2022-10-09 | 2 | 3 | 
 | 2022-10-08 | 2 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1 | 2 | 
 | 2022-09-13 | 1 | 2 | 
 | 2022-09-12 | 1 | 2 | 
-| 2022-09-11 | 1 | 2 | 
 

@@ -1,10 +1,10 @@
 # cdmoro/bootstrap-vue-3 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 128
 
-★ Stars: 547
+★ Stars: 549
 
 [Open repository](https://github.com/cdmoro/bootstrap-vue-3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 549 | 128 | 
 | 2022-10-10 | 547 | 128 | 
 | 2022-10-09 | 546 | 128 | 
 | 2022-10-08 | 546 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 520 | 119 | 
 | 2022-09-14 | 517 | 118 | 
 | 2022-09-13 | 516 | 117 | 
-| 2022-09-12 | 516 | 116 | 
 

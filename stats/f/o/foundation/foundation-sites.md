@@ -1,10 +1,10 @@
 # foundation/foundation-sites - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 5637
+☋ Forks: 5636
 
-★ Stars: 29309
+★ Stars: 29310
 
 [Open repository](https://github.com/foundation/foundation-sites)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 29310 | 5636 | 
 | 2022-10-10 | 29309 | 5637 | 
 | 2022-10-09 | 29309 | 5636 | 
 | 2022-10-08 | 29307 | 5635 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 29296 | 5643 | 
 | 2022-09-13 | 29295 | 5643 | 
 | 2022-09-12 | 29294 | 5644 | 
-| 2022-09-11 | 29292 | 5645 | 
 

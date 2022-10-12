@@ -1,10 +1,10 @@
 # jCodeLife/mind-map - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 871
+☋ Forks: 872
 
-★ Stars: 1482
+★ Stars: 1484
 
 [Open repository](https://github.com/jCodeLife/mind-map)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1484 | 872 | 
 | 2022-10-10 | 1482 | 871 | 
 | 2022-10-09 | 1480 | 869 | 
 | 2022-10-08 | 1479 | 870 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1461 | 865 | 
 | 2022-09-13 | 1460 | 860 | 
 | 2022-09-12 | 1456 | 858 | 
-| 2022-09-11 | 1455 | 858 | 
 

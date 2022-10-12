@@ -1,6 +1,6 @@
 # e-sensing/torchopt - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 23 | 6 | 
 | 2022-10-10 | 23 | 6 | 
 | 2022-10-09 | 23 | 6 | 
 | 2022-10-08 | 23 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 22 | 6 | 
 | 2022-09-13 | 22 | 6 | 
 | 2022-09-12 | 22 | 6 | 
-| 2022-09-11 | 22 | 6 | 
 

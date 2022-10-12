@@ -1,6 +1,6 @@
 # GEOS-ESM/FVdycoreCubed_GridComp - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1 | 4 | 
 | 2022-10-10 | 1 | 4 | 
 | 2022-10-09 | 1 | 4 | 
 | 2022-10-08 | 1 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | - | 4 | 
 | 2022-09-13 | - | 4 | 
 | 2022-09-12 | - | 4 | 
-| 2022-09-11 | - | 4 | 
 

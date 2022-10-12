@@ -1,10 +1,10 @@
 # projectdiscovery/nuclei-templates - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1590
+☋ Forks: 1592
 
-★ Stars: 5110
+★ Stars: 5121
 
 [Open repository](https://github.com/projectdiscovery/nuclei-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 5121 | 1592 | 
 | 2022-10-10 | 5110 | 1590 | 
 | 2022-10-09 | 5103 | 1589 | 
 | 2022-10-08 | 5101 | 1587 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 5000 | 1544 | 
 | 2022-09-13 | 4995 | 1545 | 
 | 2022-09-12 | 4990 | 1545 | 
-| 2022-09-11 | 4987 | 1543 | 
 

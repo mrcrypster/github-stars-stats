@@ -1,10 +1,10 @@
 # Jack-Cherish/Machine-Learning - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 4707
+☋ Forks: 4705
 
-★ Stars: 6631
+★ Stars: 6637
 
 [Open repository](https://github.com/Jack-Cherish/Machine-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6637 | 4705 | 
 | 2022-10-10 | 6631 | 4707 | 
 | 2022-10-09 | 6626 | 4703 | 
 | 2022-10-08 | 6621 | 4702 | 

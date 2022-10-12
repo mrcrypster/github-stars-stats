@@ -1,6 +1,6 @@
 # clovaai/deep-text-recognition-benchmark - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 975
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3062 | 975 | 
 | 2022-10-10 | 3062 | 975 | 
 | 2022-10-09 | 3061 | 975 | 
 | 2022-10-08 | 3060 | 974 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3022 | 966 | 
 | 2022-09-13 | 3021 | 965 | 
 | 2022-09-12 | 3019 | 964 | 
-| 2022-09-11 | 3017 | 964 | 
 

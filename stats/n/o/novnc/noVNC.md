@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 11
 
 ☋ Forks: 1894
 
-★ Stars: 9108
+★ Stars: 9111
 
 [Open repository](https://github.com/novnc/noVNC)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-11 | 9108 | 1894 | 
+| 2022-10-11 | 9111 | 1894 | 
 | 2022-10-10 | 9108 | 1894 | 
 | 2022-10-09 | 9104 | 1893 | 
 | 2022-10-08 | 9102 | 1890 | 

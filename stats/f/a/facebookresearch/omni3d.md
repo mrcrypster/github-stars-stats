@@ -1,10 +1,10 @@
 # facebookresearch/omni3d - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 18
+☋ Forks: 20
 
-★ Stars: 253
+★ Stars: 272
 
 [Open repository](https://github.com/facebookresearch/omni3d)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 272 | 20 | 
 | 2022-10-10 | 253 | 18 | 
 | 2022-10-09 | 252 | 18 | 
 | 2022-10-08 | 252 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 241 | 16 | 
 | 2022-09-13 | 241 | 16 | 
 | 2022-09-12 | 241 | 16 | 
-| 2022-09-11 | 241 | 16 | 
 

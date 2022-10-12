@@ -1,10 +1,10 @@
 # vitalysim/Awesome-Hacking-Resources - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1931
+☋ Forks: 1932
 
-★ Stars: 12580
+★ Stars: 12582
 
 [Open repository](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 12582 | 1932 | 
 | 2022-10-10 | 12580 | 1931 | 
 | 2022-10-09 | 12578 | 1930 | 
 | 2022-10-08 | 12571 | 1929 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 12456 | 1913 | 
 | 2022-09-13 | 12455 | 1912 | 
 | 2022-09-12 | 12447 | 1912 | 
-| 2022-09-11 | 12442 | 1913 | 
 

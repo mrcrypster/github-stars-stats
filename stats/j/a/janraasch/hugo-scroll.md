@@ -1,10 +1,10 @@
 # janraasch/hugo-scroll - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 101
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/janraasch/hugo-scroll)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 149 | 101 | 
 | 2022-10-10 | 148 | 101 | 
 | 2022-10-09 | 148 | 101 | 
 | 2022-10-08 | 148 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 143 | 98 | 
 | 2022-09-13 | 142 | 98 | 
 | 2022-09-12 | 142 | 98 | 
-| 2022-09-11 | 141 | 99 | 
 

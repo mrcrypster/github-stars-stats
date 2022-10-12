@@ -1,10 +1,10 @@
 # csstools/postcss-preset-env - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 99
 
-★ Stars: 2212
+★ Stars: 2213
 
 [Open repository](https://github.com/csstools/postcss-preset-env)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2213 | 99 | 
 | 2022-10-11 | 2212 | 99 | 
 | 2022-10-10 | 2212 | 99 | 
 | 2022-10-09 | 2212 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 2212 | 98 | 
 | 2022-09-13 | 2212 | 98 | 
 | 2022-09-12 | 2212 | 98 | 
-| 2022-09-11 | 2212 | 98 | 
 

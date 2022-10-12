@@ -1,10 +1,10 @@
 # huggingface/diffusers - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 695
+☋ Forks: 708
 
-★ Stars: 6300
+★ Stars: 6350
 
 [Open repository](https://github.com/huggingface/diffusers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6350 | 708 | 
 | 2022-10-10 | 6300 | 695 | 
 | 2022-10-09 | 6287 | 694 | 
 | 2022-10-08 | 6214 | 682 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 5225 | 456 | 
 | 2022-09-13 | 5174 | 444 | 
 | 2022-09-12 | 5110 | 438 | 
-| 2022-09-11 | 5054 | 424 | 
 

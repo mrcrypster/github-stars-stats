@@ -1,10 +1,10 @@
 # blockpane/tenderduty - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 122
+☋ Forks: 125
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/blockpane/tenderduty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 79 | 125 | 
 | 2022-10-10 | 78 | 122 | 
 | 2022-10-09 | 78 | 121 | 
 | 2022-10-08 | 78 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 69 | 69 | 
 | 2022-09-13 | 69 | 68 | 
 | 2022-09-12 | 68 | 66 | 
-| 2022-09-11 | 68 | 66 | 
 

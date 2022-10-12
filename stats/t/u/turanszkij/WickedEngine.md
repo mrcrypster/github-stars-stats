@@ -1,10 +1,10 @@
 # turanszkij/WickedEngine - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 432
 
-★ Stars: 4009
+★ Stars: 4012
 
 [Open repository](https://github.com/turanszkij/WickedEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4012 | 432 | 
 | 2022-10-10 | 4009 | 432 | 
 | 2022-10-09 | 4008 | 432 | 
 | 2022-10-08 | 4006 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3952 | 430 | 
 | 2022-09-13 | 3949 | 430 | 
 | 2022-09-12 | 3947 | 430 | 
-| 2022-09-11 | 3943 | 430 | 
 

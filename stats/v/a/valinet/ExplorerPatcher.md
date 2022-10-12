@@ -1,10 +1,10 @@
 # valinet/ExplorerPatcher - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 482
+☋ Forks: 485
 
-★ Stars: 8586
+★ Stars: 8606
 
 [Open repository](https://github.com/valinet/ExplorerPatcher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 8606 | 485 | 
 | 2022-10-10 | 8586 | 482 | 
 | 2022-10-09 | 8561 | 481 | 
 | 2022-10-08 | 8543 | 478 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 7928 | 451 | 
 | 2022-09-13 | 7902 | 447 | 
 | 2022-09-12 | 7881 | 446 | 
-| 2022-09-11 | 7868 | 446 | 
 

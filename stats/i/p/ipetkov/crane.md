@@ -1,6 +1,6 @@
 # ipetkov/crane - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 243 | 15 | 
 | 2022-10-10 | 243 | 15 | 
 | 2022-10-09 | 243 | 14 | 
 | 2022-10-08 | 243 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 232 | 12 | 
 | 2022-09-13 | 232 | 12 | 
 | 2022-09-12 | 232 | 12 | 
-| 2022-09-11 | 233 | 12 | 
 

@@ -1,8 +1,8 @@
 # thephpleague/oauth2-server - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1094
+☋ Forks: 1095
 
 ★ Stars: 6162
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6162 | 1095 | 
 | 2022-10-10 | 6162 | 1094 | 
 | 2022-10-09 | 6162 | 1093 | 
 | 2022-10-08 | 6162 | 1093 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 6149 | 1090 | 
 | 2022-09-14 | 6148 | 1090 | 
 | 2022-09-13 | 6148 | 1090 | 
-| 2022-09-12 | 6148 | 1090 | 
 

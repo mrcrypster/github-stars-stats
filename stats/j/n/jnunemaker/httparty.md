@@ -1,10 +1,10 @@
 # jnunemaker/httparty - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 960
 
-★ Stars: 5582
+★ Stars: 5584
 
 [Open repository](https://github.com/jnunemaker/httparty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 5584 | 960 | 
 | 2022-10-10 | 5582 | 960 | 
 | 2022-10-09 | 5581 | 960 | 
 | 2022-10-08 | 5581 | 960 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 5567 | 961 | 
 | 2022-09-13 | 5566 | 961 | 
 | 2022-09-12 | 5566 | 961 | 
-| 2022-09-11 | 5566 | 961 | 
 

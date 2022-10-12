@@ -1,10 +1,10 @@
 # JuliaManifolds/Manifolds.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 38
 
-★ Stars: 257
+★ Stars: 258
 
 [Open repository](https://github.com/JuliaManifolds/Manifolds.jl)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 258 | 38 | 
+| 2022-10-11 | 258 | 38 | 
 | 2022-10-10 | 257 | 38 | 
 | 2022-10-09 | 257 | 38 | 
 | 2022-10-08 | 256 | 38 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 250 | 36 | 
 | 2022-09-13 | 250 | 36 | 
 | 2022-09-12 | 250 | 36 | 
-| 2022-09-11 | 250 | 36 | 
 

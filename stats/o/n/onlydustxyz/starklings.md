@@ -1,8 +1,8 @@
 # onlydustxyz/starklings - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 67
+☋ Forks: 69
 
 ★ Stars: 264
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 264 | 69 | 
 | 2022-10-11 | 264 | 67 | 
 | 2022-10-10 | 264 | 67 | 
 | 2022-10-09 | 264 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 256 | 63 | 
 | 2022-09-13 | 257 | 63 | 
 | 2022-09-12 | 255 | 63 | 
-| 2022-09-11 | 255 | 63 | 
 

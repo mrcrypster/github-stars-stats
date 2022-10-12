@@ -1,10 +1,10 @@
 # varadbhogayata/varadbhogayata.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 241
+☋ Forks: 240
 
-★ Stars: 381
+★ Stars: 382
 
 [Open repository](https://github.com/varadbhogayata/varadbhogayata.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 382 | 240 | 
 | 2022-10-10 | 381 | 241 | 
 | 2022-10-09 | 381 | 240 | 
 | 2022-10-08 | 379 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 370 | 227 | 
 | 2022-09-13 | 370 | 227 | 
 | 2022-09-12 | 370 | 228 | 
-| 2022-09-11 | 369 | 226 | 
 

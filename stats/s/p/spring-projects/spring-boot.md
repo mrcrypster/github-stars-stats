@@ -1,10 +1,10 @@
 # spring-projects/spring-boot - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 37327
+☋ Forks: 37323
 
-★ Stars: 63508
+★ Stars: 63530
 
 [Open repository](https://github.com/spring-projects/spring-boot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 63530 | 37323 | 
 | 2022-10-10 | 63508 | 37327 | 
 | 2022-10-09 | 63490 | 37317 | 
 | 2022-10-08 | 63483 | 37307 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 63156 | 37196 | 
 | 2022-09-13 | 63142 | 37190 | 
 | 2022-09-12 | 63130 | 37188 | 
-| 2022-09-11 | 63118 | 37188 | 
 

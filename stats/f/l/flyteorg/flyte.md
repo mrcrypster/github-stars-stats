@@ -1,10 +1,10 @@
 # flyteorg/flyte - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 286
+☋ Forks: 287
 
-★ Stars: 2738
+★ Stars: 2741
 
 [Open repository](https://github.com/flyteorg/flyte)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2741 | 287 | 
 | 2022-10-10 | 2738 | 286 | 
 | 2022-10-09 | 2736 | 282 | 
 | 2022-10-08 | 2736 | 281 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2638 | 258 | 
 | 2022-09-13 | 2635 | 253 | 
 | 2022-09-12 | 2632 | 253 | 
-| 2022-09-11 | 2632 | 253 | 
 

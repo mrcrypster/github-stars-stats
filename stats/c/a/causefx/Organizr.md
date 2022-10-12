@@ -1,6 +1,6 @@
 # causefx/Organizr - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4017 | 275 | 
 | 2022-10-10 | 4017 | 275 | 
 | 2022-10-09 | 4015 | 275 | 
 | 2022-10-08 | 4014 | 275 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 3976 | 275 | 
 | 2022-09-14 | 3972 | 275 | 
 | 2022-09-13 | 3971 | 275 | 
-| 2022-09-12 | 3970 | 275 | 
 

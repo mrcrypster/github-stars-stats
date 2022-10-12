@@ -1,10 +1,10 @@
 # sqlcipher/sqlcipher - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1177
 
-★ Stars: 5185
+★ Stars: 5190
 
 [Open repository](https://github.com/sqlcipher/sqlcipher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 5190 | 1177 | 
 | 2022-10-10 | 5185 | 1177 | 
 | 2022-10-09 | 5185 | 1177 | 
 | 2022-10-08 | 5183 | 1177 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 5138 | 1176 | 
 | 2022-09-13 | 5135 | 1176 | 
 | 2022-09-12 | 5134 | 1176 | 
-| 2022-09-11 | 5133 | 1176 | 
 

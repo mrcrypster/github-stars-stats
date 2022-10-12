@@ -1,10 +1,10 @@
 # mudgen/diamond-3-hardhat - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 73
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/mudgen/diamond-3-hardhat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 128 | 73 | 
 | 2022-10-10 | 127 | 73 | 
 | 2022-10-09 | 127 | 74 | 
 | 2022-10-08 | 126 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 111 | 55 | 
 | 2022-09-13 | 111 | 55 | 
 | 2022-09-12 | 111 | 55 | 
-| 2022-09-11 | 111 | 55 | 
 

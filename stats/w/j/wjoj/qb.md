@@ -1,10 +1,10 @@
 # wjoj/qb - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 25
+☋ Forks: 26
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/wjoj/qb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 135 | 26 | 
 | 2022-10-10 | 134 | 25 | 
 | 2022-10-09 | 134 | 25 | 
 | 2022-10-08 | 134 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 81 | 20 | 
 | 2022-09-13 | 77 | 18 | 
 | 2022-09-12 | 75 | 18 | 
-| 2022-09-11 | 74 | 18 | 
 

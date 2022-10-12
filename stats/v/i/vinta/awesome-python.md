@@ -1,10 +1,10 @@
 # vinta/awesome-python - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 21977
+☋ Forks: 21985
 
-★ Stars: 144206
+★ Stars: 144316
 
 [Open repository](https://github.com/vinta/awesome-python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 144316 | 21985 | 
 | 2022-10-10 | 144206 | 21977 | 
 | 2022-10-09 | 144104 | 21975 | 
 | 2022-10-08 | 144008 | 21972 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 141509 | 21862 | 
 | 2022-09-13 | 141376 | 21853 | 
 | 2022-09-12 | 141272 | 21851 | 
-| 2022-09-11 | 141107 | 21843 | 
 

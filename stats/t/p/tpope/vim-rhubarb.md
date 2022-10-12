@@ -1,6 +1,6 @@
 # tpope/vim-rhubarb - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 747 | 39 | 
 | 2022-10-10 | 747 | 39 | 
 | 2022-10-09 | 747 | 39 | 
 | 2022-10-08 | 747 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 740 | 39 | 
 | 2022-09-13 | 740 | 39 | 
 | 2022-09-12 | 740 | 39 | 
-| 2022-09-11 | 740 | 39 | 
 

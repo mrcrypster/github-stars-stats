@@ -1,6 +1,6 @@
 # elementary/granite - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 231 | 59 | 
 | 2022-10-10 | 231 | 59 | 
 | 2022-10-09 | 230 | 59 | 
 | 2022-10-08 | 229 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 227 | 57 | 
 | 2022-09-14 | 227 | 57 | 
 | 2022-09-12 | 227 | 57 | 
-| 2022-09-11 | 226 | 57 | 
 

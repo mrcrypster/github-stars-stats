@@ -1,10 +1,10 @@
 # ifmeorg/ifme - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 705
+☋ Forks: 707
 
-★ Stars: 1308
+★ Stars: 1309
 
 [Open repository](https://github.com/ifmeorg/ifme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1309 | 707 | 
 | 2022-10-10 | 1308 | 705 | 
 | 2022-10-09 | 1307 | 705 | 
 

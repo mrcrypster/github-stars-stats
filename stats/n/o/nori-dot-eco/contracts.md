@@ -1,6 +1,6 @@
 # nori-dot-eco/contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 21 | 3 | 
+| 2022-10-11 | 21 | 3 | 
 | 2022-10-10 | 21 | 3 | 
 | 2022-10-09 | 21 | 3 | 
 | 2022-10-08 | 21 | 3 | 

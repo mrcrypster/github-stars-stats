@@ -1,10 +1,10 @@
 # jefflomax/word-writer-6-commodore-64 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/jefflomax/word-writer-6-commodore-64)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 69 | 3 | 
 | 2022-10-10 | 68 | 3 | 
 | 2022-10-09 | 68 | 3 | 
 | 2022-10-08 | 68 | 3 | 

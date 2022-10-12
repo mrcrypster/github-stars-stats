@@ -1,10 +1,10 @@
 # mjmlio/mjml - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 876
+☋ Forks: 877
 
-★ Stars: 14488
+★ Stars: 14496
 
 [Open repository](https://github.com/mjmlio/mjml)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 14496 | 877 | 
 | 2022-10-10 | 14488 | 876 | 
 | 2022-10-09 | 14482 | 876 | 
 | 2022-10-08 | 14475 | 875 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 14281 | 871 | 
 | 2022-09-13 | 14277 | 871 | 
 | 2022-09-12 | 14273 | 871 | 
-| 2022-09-11 | 14272 | 871 | 
 

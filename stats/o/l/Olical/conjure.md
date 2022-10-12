@@ -1,10 +1,10 @@
 # Olical/conjure - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 80
 
-★ Stars: 1097
+★ Stars: 1100
 
 [Open repository](https://github.com/Olical/conjure)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1100 | 80 | 
 | 2022-10-10 | 1097 | 80 | 
 | 2022-10-09 | 1096 | 80 | 
 | 2022-10-08 | 1095 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1076 | 76 | 
 | 2022-09-13 | 1073 | 76 | 
 | 2022-09-12 | 1072 | 76 | 
-| 2022-09-11 | 1070 | 76 | 
 

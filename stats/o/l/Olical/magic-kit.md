@@ -1,8 +1,8 @@
 # Olical/magic-kit - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 14
+☋ Forks: 13
 
 ★ Stars: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 67 | 13 | 
 | 2022-10-10 | 67 | 14 | 
 | 2022-10-09 | 66 | 14 | 
 | 2022-10-08 | 66 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 60 | 12 | 
 | 2022-09-13 | 60 | 12 | 
 | 2022-09-12 | 59 | 12 | 
-| 2022-09-11 | 59 | 12 | 
 

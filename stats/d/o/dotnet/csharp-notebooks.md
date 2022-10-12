@@ -1,8 +1,8 @@
 # dotnet/csharp-notebooks - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 133
+☋ Forks: 134
 
 ★ Stars: 352
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 352 | 134 | 
 | 2022-10-10 | 352 | 133 | 
 | 2022-10-09 | 351 | 133 | 
 | 2022-10-08 | 351 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 337 | 120 | 
 | 2022-09-13 | 336 | 120 | 
 | 2022-09-12 | 335 | 121 | 
-| 2022-09-11 | 335 | 121 | 
 

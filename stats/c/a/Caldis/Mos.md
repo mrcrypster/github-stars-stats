@@ -1,10 +1,10 @@
 # Caldis/Mos - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 402
 
-★ Stars: 9717
+★ Stars: 9723
 
 [Open repository](https://github.com/Caldis/Mos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 9723 | 402 | 
 | 2022-10-10 | 9717 | 402 | 
 | 2022-10-09 | 9707 | 401 | 
 | 2022-10-08 | 9700 | 400 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 9580 | 398 | 
 | 2022-09-13 | 9572 | 398 | 
 | 2022-09-12 | 9562 | 397 | 
-| 2022-09-11 | 9553 | 395 | 
 

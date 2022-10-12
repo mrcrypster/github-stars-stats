@@ -1,10 +1,10 @@
 # catdad/canvas-confetti - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 201
 
-★ Stars: 4065
+★ Stars: 4070
 
 [Open repository](https://github.com/catdad/canvas-confetti)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4070 | 201 | 
 | 2022-10-10 | 4065 | 201 | 
 | 2022-10-09 | 4061 | 201 | 
 | 2022-10-08 | 4058 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 3978 | 198 | 
 | 2022-09-14 | 3975 | 198 | 
 | 2022-09-13 | 3968 | 198 | 
-| 2022-09-11 | 3968 | 198 | 
 

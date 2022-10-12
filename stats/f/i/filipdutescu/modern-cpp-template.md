@@ -1,10 +1,10 @@
 # filipdutescu/modern-cpp-template - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 134
 
-★ Stars: 1122
+★ Stars: 1123
 
 [Open repository](https://github.com/filipdutescu/modern-cpp-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1123 | 134 | 
 | 2022-10-10 | 1122 | 134 | 
 | 2022-10-09 | 1122 | 134 | 
 | 2022-10-08 | 1122 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1111 | 132 | 
 | 2022-09-13 | 1112 | 132 | 
 | 2022-09-12 | 1112 | 132 | 
-| 2022-09-11 | 1111 | 132 | 
 

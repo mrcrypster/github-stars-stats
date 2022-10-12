@@ -1,10 +1,10 @@
 # d2phap/ImageGlass - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 356
+☋ Forks: 357
 
-★ Stars: 4398
+★ Stars: 4402
 
 [Open repository](https://github.com/d2phap/ImageGlass)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 4402 | 357 | 
 | 2022-10-10 | 4398 | 356 | 
 | 2022-10-09 | 4393 | 356 | 
 | 2022-10-08 | 4389 | 356 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 4315 | 351 | 
 | 2022-09-14 | 4315 | 351 | 
 | 2022-09-13 | 4312 | 351 | 
-| 2022-09-12 | 4309 | 351 | 
 

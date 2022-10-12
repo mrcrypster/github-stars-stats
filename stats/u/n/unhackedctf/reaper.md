@@ -1,8 +1,8 @@
 # unhackedctf/reaper - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 34 | 17 | 
 | 2022-10-10 | 34 | 16 | 
 | 2022-10-09 | 34 | 16 | 
 | 2022-10-08 | 34 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 35 | 15 | 
 | 2022-09-14 | 35 | 15 | 
 | 2022-09-12 | 35 | 15 | 
-| 2022-09-11 | 35 | 15 | 
 

@@ -1,10 +1,10 @@
 # ivanhao/pvetools - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 273
 
-★ Stars: 1740
+★ Stars: 1741
 
 [Open repository](https://github.com/ivanhao/pvetools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1741 | 273 | 
 | 2022-10-10 | 1740 | 273 | 
 | 2022-10-09 | 1740 | 273 | 
 | 2022-10-08 | 1739 | 273 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1665 | 266 | 
 | 2022-09-13 | 1660 | 266 | 
 | 2022-09-12 | 1660 | 265 | 
-| 2022-09-11 | 1657 | 264 | 
 

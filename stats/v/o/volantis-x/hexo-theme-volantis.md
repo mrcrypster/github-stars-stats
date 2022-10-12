@@ -1,8 +1,8 @@
 # volantis-x/hexo-theme-volantis - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 501
+☋ Forks: 502
 
 ★ Stars: 1588
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1588 | 502 | 
 | 2022-10-10 | 1588 | 501 | 
 | 2022-10-09 | 1587 | 501 | 
 | 2022-10-08 | 1579 | 497 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1565 | 500 | 
 | 2022-09-13 | 1564 | 499 | 
 | 2022-09-12 | 1564 | 499 | 
-| 2022-09-11 | 1561 | 498 | 
 

@@ -1,10 +1,10 @@
 # sindresorhus/awesome-nodejs - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 5486
+☋ Forks: 5492
 
-★ Stars: 47215
+★ Stars: 47247
 
 [Open repository](https://github.com/sindresorhus/awesome-nodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 47247 | 5492 | 
 | 2022-10-10 | 47215 | 5486 | 
 | 2022-10-09 | 47163 | 5480 | 
 | 2022-10-08 | 47151 | 5479 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 46725 | 5459 | 
 | 2022-09-13 | 46701 | 5458 | 
 | 2022-09-12 | 46688 | 5458 | 
-| 2022-09-11 | 46671 | 5454 | 
 

@@ -1,10 +1,10 @@
 # evilashz/CheeseOunce - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/evilashz/CheeseOunce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 114 | 13 | 
 | 2022-10-10 | 113 | 12 | 
 | 2022-10-09 | 112 | 12 | 
 | 2022-10-08 | 112 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 80 | 9 | 
 | 2022-09-13 | 78 | 9 | 
 | 2022-09-12 | 77 | 9 | 
-| 2022-09-11 | 77 | 9 | 
 

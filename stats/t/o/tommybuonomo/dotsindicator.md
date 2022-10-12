@@ -1,6 +1,6 @@
 # tommybuonomo/dotsindicator - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2748 | 294 | 
 | 2022-10-11 | 2748 | 294 | 
 | 2022-10-10 | 2748 | 294 | 
 | 2022-10-09 | 2746 | 294 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 2724 | 292 | 
 | 2022-09-13 | 2722 | 292 | 
 | 2022-09-12 | 2721 | 292 | 
-| 2022-09-11 | 2721 | 292 | 
 

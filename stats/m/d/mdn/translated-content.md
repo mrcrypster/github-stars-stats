@@ -1,10 +1,10 @@
 # mdn/translated-content - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 4510
+☋ Forks: 4517
 
-★ Stars: 987
+★ Stars: 989
 
 [Open repository](https://github.com/mdn/translated-content)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 989 | 4517 | 
 | 2022-10-10 | 987 | 4510 | 
 | 2022-10-09 | 986 | 4503 | 
 | 2022-10-08 | 984 | 4494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 944 | 4262 | 
 | 2022-09-13 | 942 | 4255 | 
 | 2022-09-12 | 939 | 4244 | 
-| 2022-09-11 | 938 | 4234 | 
 

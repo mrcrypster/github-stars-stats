@@ -1,10 +1,10 @@
 # 5x12/themlsbook - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 79
 
-★ Stars: 363
+★ Stars: 364
 
 [Open repository](https://github.com/5x12/themlsbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 364 | 79 | 
 | 2022-10-10 | 363 | 79 | 
 | 2022-10-09 | 363 | 78 | 
 | 2022-10-08 | 362 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 357 | 76 | 
 | 2022-09-13 | 358 | 76 | 
 | 2022-09-12 | 357 | 76 | 
-| 2022-09-11 | 357 | 76 | 
 

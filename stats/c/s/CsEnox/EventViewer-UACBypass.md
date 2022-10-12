@@ -1,10 +1,10 @@
 # CsEnox/EventViewer-UACBypass - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/CsEnox/EventViewer-UACBypass)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 56 | 10 | 
 | 2022-10-10 | 54 | 9 | 
 | 2022-10-09 | 53 | 8 | 
 | 2022-10-08 | 53 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 51 | 8 | 
 | 2022-09-13 | 50 | 8 | 
 | 2022-09-12 | 50 | 8 | 
-| 2022-09-11 | 50 | 8 | 
 

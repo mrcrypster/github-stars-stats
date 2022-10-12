@@ -1,10 +1,10 @@
 # freqtrade/freqtrade - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 4114
+☋ Forks: 4119
 
-★ Stars: 19534
+★ Stars: 19539
 
 [Open repository](https://github.com/freqtrade/freqtrade)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 19539 | 4119 | 
 | 2022-10-10 | 19534 | 4114 | 
 | 2022-10-09 | 19525 | 4110 | 
 | 2022-10-08 | 19504 | 4108 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 19146 | 4041 | 
 | 2022-09-13 | 19135 | 4036 | 
 | 2022-09-12 | 19123 | 4034 | 
-| 2022-09-11 | 19117 | 4035 | 
 

@@ -1,10 +1,10 @@
 # devncore/leagueoflegends - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/devncore/leagueoflegends)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 247 | 55 | 
 | 2022-10-10 | 246 | 54 | 
 | 2022-10-09 | 246 | 54 | 
 | 2022-10-08 | 246 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 237 | 52 | 
 | 2022-09-13 | 237 | 52 | 
 | 2022-09-12 | 236 | 52 | 
-| 2022-09-11 | 236 | 52 | 
 

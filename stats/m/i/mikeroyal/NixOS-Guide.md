@@ -1,6 +1,6 @@
 # mikeroyal/NixOS-Guide - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 134 | 4 | 
 | 2022-10-11 | 134 | 4 | 
 | 2022-10-10 | 135 | 4 | 
 | 2022-10-09 | 135 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 132 | 4 | 
 | 2022-09-13 | 131 | 4 | 
 | 2022-09-12 | 130 | 4 | 
-| 2022-09-11 | 129 | 4 | 
 

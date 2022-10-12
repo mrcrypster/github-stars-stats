@@ -1,10 +1,10 @@
 # bytedance/bytemd - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 235
 
-★ Stars: 2976
+★ Stars: 2980
 
 [Open repository](https://github.com/bytedance/bytemd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2980 | 235 | 
 | 2022-10-10 | 2976 | 235 | 
 | 2022-10-09 | 2971 | 235 | 
 | 2022-10-08 | 2969 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2895 | 231 | 
 | 2022-09-13 | 2890 | 231 | 
 | 2022-09-12 | 2887 | 231 | 
-| 2022-09-11 | 2883 | 231 | 
 

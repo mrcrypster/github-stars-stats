@@ -1,10 +1,10 @@
 # corrosion-rs/corrosion - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 44
 
-★ Stars: 399
+★ Stars: 400
 
 [Open repository](https://github.com/corrosion-rs/corrosion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 400 | 44 | 
 | 2022-10-10 | 399 | 44 | 
 | 2022-10-09 | 398 | 44 | 
 | 2022-10-08 | 397 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 385 | 42 | 
 | 2022-09-13 | 384 | 42 | 
 | 2022-09-12 | 384 | 42 | 
-| 2022-09-11 | 383 | 42 | 
 

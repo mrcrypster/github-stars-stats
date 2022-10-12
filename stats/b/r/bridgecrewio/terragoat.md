@@ -1,10 +1,10 @@
 # bridgecrewio/terragoat - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1321
+☋ Forks: 1324
 
-★ Stars: 817
+★ Stars: 818
 
 [Open repository](https://github.com/bridgecrewio/terragoat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 818 | 1324 | 
 | 2022-10-10 | 817 | 1321 | 
 | 2022-10-09 | 817 | 1321 | 
 | 2022-10-08 | 817 | 1321 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 802 | 1279 | 
 | 2022-09-13 | 799 | 1278 | 
 | 2022-09-12 | 799 | 1276 | 
-| 2022-09-11 | 798 | 1276 | 
 

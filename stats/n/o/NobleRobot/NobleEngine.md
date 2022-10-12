@@ -1,6 +1,6 @@
 # NobleRobot/NobleEngine - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 192 | 11 | 
 | 2022-10-10 | 192 | 11 | 
 | 2022-10-09 | 190 | 11 | 
 | 2022-10-08 | 190 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 187 | 11 | 
 | 2022-09-13 | 187 | 11 | 
 | 2022-09-12 | 187 | 11 | 
-| 2022-09-11 | 187 | 11 | 
 

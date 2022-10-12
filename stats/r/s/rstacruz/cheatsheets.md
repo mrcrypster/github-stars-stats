@@ -1,10 +1,10 @@
 # rstacruz/cheatsheets - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 3316
+☋ Forks: 3317
 
-★ Stars: 12176
+★ Stars: 12179
 
 [Open repository](https://github.com/rstacruz/cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 12179 | 3317 | 
 | 2022-10-10 | 12176 | 3316 | 
 | 2022-10-09 | 12175 | 3315 | 
 | 2022-10-08 | 12174 | 3315 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 12046 | 3288 | 
 | 2022-09-13 | 12044 | 3288 | 
 | 2022-09-12 | 12045 | 3287 | 
-| 2022-09-11 | 12040 | 3283 | 
 

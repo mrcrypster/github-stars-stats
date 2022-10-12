@@ -1,10 +1,10 @@
 # alainbryden/bitburner-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 181
+☋ Forks: 182
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/alainbryden/bitburner-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 301 | 182 | 
 | 2022-10-10 | 300 | 181 | 
 | 2022-10-09 | 300 | 180 | 
 | 2022-10-08 | 300 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 288 | 176 | 
 | 2022-09-13 | 288 | 176 | 
 | 2022-09-12 | 288 | 176 | 
-| 2022-09-11 | 286 | 176 | 
 

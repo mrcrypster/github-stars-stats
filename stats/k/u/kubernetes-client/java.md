@@ -1,8 +1,8 @@
 # kubernetes-client/java - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1175
+☋ Forks: 1177
 
 ★ Stars: 2589
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2589 | 1177 | 
 | 2022-10-10 | 2589 | 1175 | 
 | 2022-10-09 | 2589 | 1173 | 
 | 2022-10-08 | 2589 | 1173 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2556 | 1139 | 
 | 2022-09-13 | 2553 | 1140 | 
 | 2022-09-12 | 2553 | 1138 | 
-| 2022-09-11 | 2552 | 1138 | 
 

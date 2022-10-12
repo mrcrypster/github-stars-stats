@@ -1,8 +1,8 @@
 # Qiskit/qiskit-tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1193
+☋ Forks: 1194
 
 ★ Stars: 2004
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2004 | 1194 | 
 | 2022-10-10 | 2004 | 1193 | 
 | 2022-10-09 | 2003 | 1193 | 
 | 2022-10-08 | 2002 | 1193 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 1995 | 1190 | 
 | 2022-09-13 | 1995 | 1189 | 
 | 2022-09-12 | 1994 | 1188 | 
-| 2022-09-11 | 1992 | 1188 | 
 

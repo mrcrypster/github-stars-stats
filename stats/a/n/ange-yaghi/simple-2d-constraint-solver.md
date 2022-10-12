@@ -1,8 +1,8 @@
 # ange-yaghi/simple-2d-constraint-solver - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 245
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 245 | 27 | 
 | 2022-10-10 | 245 | 26 | 
 | 2022-10-09 | 244 | 26 | 
 | 2022-10-08 | 244 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 192 | 18 | 
 | 2022-09-13 | 189 | 18 | 
 | 2022-09-12 | 188 | 17 | 
-| 2022-09-11 | 187 | 17 | 
 

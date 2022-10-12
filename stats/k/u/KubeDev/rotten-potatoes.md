@@ -1,8 +1,8 @@
 # KubeDev/rotten-potatoes - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1026
+☋ Forks: 1028
 
 ★ Stars: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 47 | 1028 | 
 | 2022-10-10 | 47 | 1026 | 
 | 2022-10-09 | 47 | 1026 | 
 | 2022-10-08 | 47 | 1026 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 47 | 1023 | 
 | 2022-09-13 | 47 | 1023 | 
 | 2022-09-12 | 47 | 1023 | 
-| 2022-09-11 | 47 | 1023 | 
 

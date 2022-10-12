@@ -1,10 +1,10 @@
 # lunatic-solutions/lunatic - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 97
 
-★ Stars: 3345
+★ Stars: 3346
 
 [Open repository](https://github.com/lunatic-solutions/lunatic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3346 | 97 | 
 | 2022-10-10 | 3345 | 97 | 
 | 2022-10-09 | 3343 | 97 | 
 | 2022-10-08 | 3342 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 3274 | 93 | 
 | 2022-09-13 | 3271 | 93 | 
 | 2022-09-12 | 3264 | 93 | 
-| 2022-09-11 | 3254 | 93 | 
 

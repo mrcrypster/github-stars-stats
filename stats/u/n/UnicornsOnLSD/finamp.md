@@ -1,10 +1,10 @@
 # UnicornsOnLSD/finamp - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 46
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/UnicornsOnLSD/finamp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 642 | 46 | 
 | 2022-10-10 | 641 | 46 | 
 | 2022-10-09 | 641 | 46 | 
 | 2022-10-08 | 640 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 610 | 41 | 
 | 2022-09-13 | 608 | 41 | 
 | 2022-09-12 | 605 | 41 | 
-| 2022-09-11 | 603 | 41 | 
 

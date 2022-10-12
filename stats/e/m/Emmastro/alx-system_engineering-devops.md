@@ -1,10 +1,10 @@
 # Emmastro/alx-system_engineering-devops - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 107
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/Emmastro/alx-system_engineering-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 43 | 107 | 
 | 2022-10-10 | 42 | 107 | 
 | 2022-10-09 | 42 | 106 | 
 | 2022-10-08 | 42 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 38 | 97 | 
 | 2022-09-13 | 38 | 96 | 
 | 2022-09-12 | 39 | 94 | 
-| 2022-09-11 | 39 | 94 | 
 

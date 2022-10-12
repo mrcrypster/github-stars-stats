@@ -1,6 +1,6 @@
 # ashbaldry/designer - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 93 | 6 | 
 | 2022-10-10 | 93 | 6 | 
 | 2022-10-09 | 93 | 6 | 
 | 2022-10-08 | 93 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 93 | 6 | 
 | 2022-09-13 | 92 | 6 | 
 | 2022-09-12 | 92 | 6 | 
-| 2022-09-11 | 91 | 6 | 
 

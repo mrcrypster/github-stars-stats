@@ -1,6 +1,6 @@
 # DHDAXCW/FusionWRT_x86_x64 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 268 | 101 | 
 | 2022-10-10 | 268 | 101 | 
 | 2022-10-09 | 263 | 101 | 
 | 2022-10-08 | 262 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 244 | 94 | 
 | 2022-09-13 | 239 | 94 | 
 | 2022-09-12 | 237 | 94 | 
-| 2022-09-11 | 237 | 93 | 
 

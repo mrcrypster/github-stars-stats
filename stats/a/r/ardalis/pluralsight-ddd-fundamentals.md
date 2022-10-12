@@ -1,10 +1,10 @@
 # ardalis/pluralsight-ddd-fundamentals - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 554
+★ Stars: 556
 
 [Open repository](https://github.com/ardalis/pluralsight-ddd-fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 556 | 187 | 
 | 2022-10-10 | 554 | 186 | 
 | 2022-10-09 | 553 | 186 | 
 | 2022-10-08 | 552 | 185 | 

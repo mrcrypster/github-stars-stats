@@ -1,10 +1,10 @@
 # mr-r3b00t/parse_win_log - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/mr-r3b00t/parse_win_log)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 14 | 1 | 
 | 2022-10-10 | 13 | - | 
 | 2022-10-09 | 13 | - | 
 | 2022-10-08 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 13 | - | 
 | 2022-09-13 | 13 | - | 
 | 2022-09-12 | 13 | - | 
-| 2022-09-11 | 13 | - | 
 

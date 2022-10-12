@@ -1,10 +1,10 @@
 # RamiKrispin/TSstudio - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 65
 
-★ Stars: 355
+★ Stars: 356
 
 [Open repository](https://github.com/RamiKrispin/TSstudio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 356 | 65 | 
 | 2022-10-10 | 355 | 65 | 
 | 2022-10-09 | 355 | 65 | 
 | 2022-10-08 | 355 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 349 | 64 | 
 | 2022-09-13 | 349 | 64 | 
 | 2022-09-12 | 349 | 64 | 
-| 2022-09-11 | 349 | 64 | 
 

@@ -1,10 +1,10 @@
 # PaperMC/Paper - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1700
 
-★ Stars: 6738
+★ Stars: 6740
 
 [Open repository](https://github.com/PaperMC/Paper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6740 | 1700 | 
 | 2022-10-10 | 6738 | 1700 | 
 | 2022-10-09 | 6733 | 1699 | 
 | 2022-10-08 | 6731 | 1700 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 6679 | 1696 | 
 | 2022-09-13 | 6675 | 1693 | 
 | 2022-09-12 | 6675 | 1691 | 
-| 2022-09-11 | 6673 | 1689 | 
 

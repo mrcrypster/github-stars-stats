@@ -1,10 +1,10 @@
 # knela96/Dynamic-Parkour-System - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 130
 
-★ Stars: 899
+★ Stars: 900
 
 [Open repository](https://github.com/knela96/Dynamic-Parkour-System)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 900 | 130 | 
 | 2022-10-10 | 899 | 130 | 
 | 2022-10-09 | 898 | 129 | 
 | 2022-10-08 | 898 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 865 | 119 | 
 | 2022-09-13 | 865 | 118 | 
 | 2022-09-12 | 864 | 118 | 
-| 2022-09-11 | 863 | 118 | 
 

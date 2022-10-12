@@ -1,10 +1,10 @@
 # dracula/mixplorer - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/dracula/mixplorer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 17 | 1 | 
 | 2022-10-10 | 16 | 1 | 
 | 2022-10-09 | 15 | 1 | 
 | 2022-10-08 | 15 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 15 | 1 | 
 | 2022-09-13 | 15 | 1 | 
 | 2022-09-12 | 15 | 1 | 
-| 2022-09-11 | 15 | 1 | 
 

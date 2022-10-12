@@ -1,8 +1,8 @@
 # TP-Lab/tokens - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 5162
+☋ Forks: 5168
 
 ★ Stars: 199
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 199 | 5168 | 
 | 2022-10-10 | 199 | 5162 | 
 | 2022-10-09 | 199 | 5159 | 
 | 2022-10-08 | 199 | 5156 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 192 | 5056 | 
 | 2022-09-13 | 192 | 5048 | 
 | 2022-09-12 | 192 | 5044 | 
-| 2022-09-11 | 192 | 5040 | 
 

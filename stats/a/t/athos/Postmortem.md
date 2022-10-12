@@ -1,6 +1,6 @@
 # athos/Postmortem - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 135 | 1 | 
 | 2022-10-10 | 135 | 1 | 
 | 2022-10-09 | 135 | 1 | 
 | 2022-10-08 | 135 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 135 | 1 | 
 | 2022-09-13 | 135 | 1 | 
 | 2022-09-12 | 135 | 1 | 
-| 2022-09-11 | 135 | 1 | 
 

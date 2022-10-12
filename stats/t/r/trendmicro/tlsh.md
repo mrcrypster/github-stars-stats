@@ -1,6 +1,6 @@
 # trendmicro/tlsh - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 600 | 112 | 
 | 2022-10-10 | 600 | 112 | 
 | 2022-10-09 | 600 | 112 | 
 | 2022-10-08 | 600 | 112 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 596 | 111 | 
 | 2022-09-13 | 596 | 111 | 
 | 2022-09-12 | 595 | 111 | 
-| 2022-09-11 | 595 | 111 | 
 

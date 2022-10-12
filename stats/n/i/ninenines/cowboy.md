@@ -1,8 +1,8 @@
 # ninenines/cowboy - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1149
+☋ Forks: 1150
 
 ★ Stars: 6771
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6771 | 1150 | 
 | 2022-10-10 | 6771 | 1149 | 
 | 2022-10-09 | 6769 | 1149 | 
 | 2022-10-08 | 6769 | 1149 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 6754 | 1146 | 
 | 2022-09-13 | 6751 | 1147 | 
 | 2022-09-12 | 6751 | 1147 | 
-| 2022-09-11 | 6750 | 1147 | 
 

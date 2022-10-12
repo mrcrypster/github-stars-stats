@@ -1,10 +1,10 @@
 # tinode/chat - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 1446
+☋ Forks: 1447
 
-★ Stars: 9253
+★ Stars: 9262
 
 [Open repository](https://github.com/tinode/chat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 9262 | 1447 | 
 | 2022-10-10 | 9253 | 1446 | 
 | 2022-10-09 | 9254 | 1445 | 
 | 2022-10-08 | 9252 | 1446 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 9188 | 1429 | 
 | 2022-09-13 | 9186 | 1429 | 
 | 2022-09-12 | 9183 | 1428 | 
-| 2022-09-11 | 9182 | 1428 | 
 

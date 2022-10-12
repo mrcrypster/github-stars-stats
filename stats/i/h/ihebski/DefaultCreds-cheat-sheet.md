@@ -1,10 +1,10 @@
 # ihebski/DefaultCreds-cheat-sheet - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 457
+☋ Forks: 459
 
-★ Stars: 3039
+★ Stars: 3050
 
 [Open repository](https://github.com/ihebski/DefaultCreds-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 3050 | 459 | 
 | 2022-10-10 | 3039 | 457 | 
 | 2022-10-09 | 3032 | 457 | 
 | 2022-10-08 | 3016 | 456 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2763 | 432 | 
 | 2022-09-13 | 2729 | 428 | 
 | 2022-09-12 | 2658 | 414 | 
-| 2022-09-11 | 2646 | 413 | 
 

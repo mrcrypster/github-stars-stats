@@ -1,10 +1,10 @@
 # alexpovel/latex-cookbook - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 11
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/alexpovel/latex-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 137 | 11 | 
 | 2022-10-10 | 136 | 11 | 
 | 2022-10-09 | 136 | 11 | 
 | 2022-10-08 | 136 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 132 | 11 | 
 | 2022-09-13 | 132 | 11 | 
 | 2022-09-12 | 132 | 11 | 
-| 2022-09-11 | 132 | 11 | 
 

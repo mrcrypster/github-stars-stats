@@ -1,6 +1,6 @@
 # laravel-presets/inertia - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 69 | 14 | 
 | 2022-10-10 | 69 | 14 | 
 | 2022-10-09 | 69 | 14 | 
 | 2022-10-08 | 69 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 66 | 14 | 
 | 2022-09-14 | 66 | 14 | 
 | 2022-09-12 | 66 | 14 | 
-| 2022-09-11 | 66 | 14 | 
 

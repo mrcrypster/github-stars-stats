@@ -1,10 +1,10 @@
 # numToStr/FTerm.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 16
 
-★ Stars: 483
+★ Stars: 484
 
 [Open repository](https://github.com/numToStr/FTerm.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 484 | 16 | 
 | 2022-10-10 | 483 | 16 | 
 | 2022-10-09 | 480 | 16 | 
 | 2022-10-08 | 480 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 473 | 16 | 
 | 2022-09-14 | 473 | 16 | 
 | 2022-09-13 | 472 | 16 | 
-| 2022-09-12 | 471 | 16 | 
 

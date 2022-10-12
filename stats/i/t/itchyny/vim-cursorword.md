@@ -1,10 +1,10 @@
 # itchyny/vim-cursorword - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 32
 
-★ Stars: 506
+★ Stars: 507
 
 [Open repository](https://github.com/itchyny/vim-cursorword)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 507 | 32 | 
 | 2022-10-10 | 506 | 32 | 
 | 2022-10-09 | 506 | 32 | 
 | 2022-10-08 | 506 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 502 | 33 | 
 | 2022-09-13 | 502 | 33 | 
 | 2022-09-12 | 502 | 33 | 
-| 2022-09-11 | 501 | 33 | 
 

@@ -1,6 +1,6 @@
 # kraanzu/termtyper - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 812 | 33 | 
 | 2022-10-11 | 812 | 33 | 
 | 2022-10-10 | 811 | 33 | 
 | 2022-10-09 | 810 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 798 | 33 | 
 | 2022-09-13 | 798 | 33 | 
 | 2022-09-12 | 797 | 33 | 
-| 2022-09-11 | 796 | 33 | 
 

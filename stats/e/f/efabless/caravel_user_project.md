@@ -1,6 +1,6 @@
 # efabless/caravel_user_project - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 220
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 78 | 220 | 
 | 2022-10-10 | 78 | 220 | 
 | 2022-10-09 | 78 | 220 | 
 | 2022-10-08 | 78 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 77 | 213 | 
 | 2022-09-14 | 77 | 213 | 
 | 2022-09-13 | 77 | 213 | 
-| 2022-09-12 | 77 | 213 | 
 

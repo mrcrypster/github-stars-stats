@@ -1,6 +1,6 @@
 # preco21/destiny-macros - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 37 | 9 | 
 | 2022-10-10 | 37 | 9 | 
 | 2022-10-09 | 37 | 9 | 
 | 2022-10-08 | 36 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 34 | 9 | 
 | 2022-09-13 | 34 | 9 | 
 | 2022-09-12 | 34 | 9 | 
-| 2022-09-11 | 34 | 9 | 
 

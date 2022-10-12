@@ -1,10 +1,10 @@
 # containers/buildah - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 637
 
-★ Stars: 5684
+★ Stars: 5686
 
 [Open repository](https://github.com/containers/buildah)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 5686 | 637 | 
 | 2022-10-10 | 5684 | 637 | 
 | 2022-10-09 | 5682 | 637 | 
 | 2022-10-08 | 5680 | 637 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 5638 | 633 | 
 | 2022-09-13 | 5635 | 631 | 
 | 2022-09-12 | 5631 | 630 | 
-| 2022-09-11 | 5630 | 628 | 
 

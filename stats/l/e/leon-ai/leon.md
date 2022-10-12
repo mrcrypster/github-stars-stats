@@ -1,10 +1,10 @@
 # leon-ai/leon - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 873
 
-★ Stars: 11221
+★ Stars: 11225
 
 [Open repository](https://github.com/leon-ai/leon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 11225 | 873 | 
 | 2022-10-10 | 11221 | 873 | 
 | 2022-10-09 | 11214 | 874 | 
 | 2022-10-08 | 11210 | 874 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 10931 | 855 | 
 | 2022-09-13 | 10913 | 854 | 
 | 2022-09-12 | 10890 | 855 | 
-| 2022-09-11 | 10863 | 855 | 
 

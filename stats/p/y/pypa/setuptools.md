@@ -1,10 +1,10 @@
 # pypa/setuptools - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 948
 
-★ Stars: 1815
+★ Stars: 1816
 
 [Open repository](https://github.com/pypa/setuptools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 1816 | 948 | 
 | 2022-10-10 | 1815 | 948 | 
 | 2022-10-09 | 1815 | 947 | 
 | 2022-10-08 | 1814 | 947 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-15 | 1794 | 935 | 
 | 2022-09-14 | 1796 | 935 | 
 | 2022-09-12 | 1795 | 934 | 
-| 2022-09-11 | 1795 | 934 | 
 

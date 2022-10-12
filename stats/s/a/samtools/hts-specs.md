@@ -1,6 +1,6 @@
 # samtools/hts-specs - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 520 | 167 | 
 | 2022-10-10 | 520 | 167 | 
 | 2022-10-09 | 519 | 167 | 
 | 2022-10-08 | 519 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 518 | 167 | 
 | 2022-09-13 | 517 | 167 | 
 | 2022-09-12 | 516 | 166 | 
-| 2022-09-11 | 516 | 166 | 
 

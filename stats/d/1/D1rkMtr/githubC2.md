@@ -1,10 +1,10 @@
 # D1rkMtr/githubC2 - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 106
+★ Stars: 109
 
 [Open repository](https://github.com/D1rkMtr/githubC2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 109 | 23 | 
 | 2022-10-10 | 106 | 22 | 
 | 2022-10-09 | 106 | 22 | 
 | 2022-10-08 | 104 | 22 | 

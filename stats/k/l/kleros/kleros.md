@@ -1,10 +1,10 @@
 # kleros/kleros - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 75
+☋ Forks: 76
 
-★ Stars: 215
+★ Stars: 216
 
 [Open repository](https://github.com/kleros/kleros)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 216 | 76 | 
 | 2022-10-11 | 215 | 75 | 
 | 2022-10-10 | 215 | 75 | 
 | 2022-10-08 | 215 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-14 | 213 | 74 | 
 | 2022-09-13 | 213 | 74 | 
 | 2022-09-12 | 213 | 74 | 
-| 2022-09-11 | 213 | 74 | 
 

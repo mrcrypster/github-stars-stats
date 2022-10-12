@@ -1,10 +1,10 @@
 # bhserna/active_record_playground_runner - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 1
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/bhserna/active_record_playground_runner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 52 | 1 | 
 | 2022-10-10 | 51 | 1 | 
 | 2022-10-09 | 51 | 1 | 
 | 2022-10-08 | 51 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 50 | 1 | 
 | 2022-09-13 | 50 | 1 | 
 | 2022-09-12 | 50 | 1 | 
-| 2022-09-11 | 50 | 1 | 
 

@@ -1,6 +1,6 @@
 # aviatesk/JET.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 23
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 509 | 23 | 
+| 2022-10-11 | 509 | 23 | 
 | 2022-10-10 | 509 | 23 | 
 | 2022-10-09 | 509 | 23 | 
 | 2022-10-08 | 509 | 22 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 505 | 22 | 
 | 2022-09-13 | 504 | 22 | 
 | 2022-09-12 | 504 | 22 | 
-| 2022-09-11 | 504 | 22 | 
 

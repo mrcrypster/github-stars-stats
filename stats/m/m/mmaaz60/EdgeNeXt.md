@@ -1,10 +1,10 @@
 # mmaaz60/EdgeNeXt - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 22
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/mmaaz60/EdgeNeXt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 211 | 22 | 
 | 2022-10-10 | 210 | 22 | 
 | 2022-10-09 | 209 | 22 | 
 | 2022-10-08 | 209 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 201 | 20 | 
 | 2022-09-13 | 200 | 20 | 
 | 2022-09-12 | 200 | 20 | 
-| 2022-09-11 | 199 | 21 | 
 

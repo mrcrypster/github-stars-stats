@@ -1,10 +1,10 @@
 # ziontee113/syntax-tree-surfer - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 4
 
-★ Stars: 286
+★ Stars: 285
 
 [Open repository](https://github.com/ziontee113/syntax-tree-surfer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 285 | 4 | 
 | 2022-10-10 | 286 | 4 | 
 | 2022-10-09 | 285 | 4 | 
 | 2022-10-08 | 284 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 281 | 4 | 
 | 2022-09-13 | 281 | 4 | 
 | 2022-09-12 | 279 | 4 | 
-| 2022-09-11 | 278 | 4 | 
 

@@ -1,6 +1,6 @@
 # Saw-mon-and-Natalie/forge-etk-template - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 52 | 4 | 
 | 2022-10-10 | 52 | 4 | 
 | 2022-10-09 | 52 | 4 | 
 | 2022-10-08 | 52 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 52 | 4 | 
 | 2022-09-13 | 52 | 4 | 
 | 2022-09-12 | 52 | 4 | 
-| 2022-09-11 | 52 | 4 | 
 

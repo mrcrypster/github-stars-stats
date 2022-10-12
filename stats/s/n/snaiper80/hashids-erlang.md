@@ -1,6 +1,6 @@
 # snaiper80/hashids-erlang - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 19 | 9 | 
 | 2022-10-10 | 19 | 9 | 
 | 2022-10-09 | 19 | 9 | 
 | 2022-10-08 | 19 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 19 | 9 | 
 | 2022-09-13 | 19 | 9 | 
 | 2022-09-12 | 19 | 9 | 
-| 2022-09-11 | 19 | 9 | 
 

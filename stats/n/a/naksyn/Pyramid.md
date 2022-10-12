@@ -1,10 +1,10 @@
 # naksyn/Pyramid - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 175
+★ Stars: 185
 
 [Open repository](https://github.com/naksyn/Pyramid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 185 | 17 | 
 | 2022-10-10 | 175 | 15 | 
 | 2022-10-09 | 174 | 15 | 
 | 2022-10-08 | 174 | 14 | 

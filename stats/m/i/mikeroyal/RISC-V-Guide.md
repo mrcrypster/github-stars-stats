@@ -1,10 +1,10 @@
 # mikeroyal/RISC-V-Guide - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 18
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/mikeroyal/RISC-V-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 220 | 18 | 
 | 2022-10-10 | 219 | 18 | 
 | 2022-10-09 | 218 | 18 | 
 | 2022-10-08 | 216 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 192 | 12 | 
 | 2022-09-13 | 180 | 12 | 
 | 2022-09-12 | 169 | 11 | 
-| 2022-09-11 | 168 | 11 | 
 

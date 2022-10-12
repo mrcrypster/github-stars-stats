@@ -1,0 +1,17 @@
+# VictorInacio/curso-clojure-mybank - stars & forks statistics
+
+Stats updated on Oct 2022, 11
+
+☋ Forks: 13
+
+★ Stars: 3
+
+[Open repository](https://github.com/VictorInacio/curso-clojure-mybank)
+
+[Open detailed stats for VictorInacio/curso-clojure-mybank](https://reviewgithub.com/rep/VictorInacio/curso-clojure-mybank)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-11 | 3 | 13 | 
+

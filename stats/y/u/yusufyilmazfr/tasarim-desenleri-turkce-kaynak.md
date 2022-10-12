@@ -1,6 +1,6 @@
 # yusufyilmazfr/tasarim-desenleri-turkce-kaynak - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 374
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 2647 | 374 | 
 | 2022-10-10 | 2647 | 374 | 
 | 2022-10-09 | 2646 | 374 | 
 | 2022-10-08 | 2645 | 374 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 2624 | 371 | 
 | 2022-09-13 | 2623 | 371 | 
 | 2022-09-12 | 2622 | 371 | 
-| 2022-09-11 | 2622 | 371 | 
 

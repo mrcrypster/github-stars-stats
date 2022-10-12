@@ -1,10 +1,10 @@
 # Netflix/Hystrix - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
-☋ Forks: 4650
+☋ Forks: 4651
 
-★ Stars: 22976
+★ Stars: 22982
 
 [Open repository](https://github.com/Netflix/Hystrix)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 22982 | 4651 | 
 | 2022-10-10 | 22976 | 4650 | 
 | 2022-10-09 | 22971 | 4649 | 
 | 2022-10-08 | 22969 | 4649 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 22915 | 4647 | 
 | 2022-09-13 | 22912 | 4646 | 
 | 2022-09-12 | 22910 | 4647 | 
-| 2022-09-11 | 22909 | 4647 | 
 

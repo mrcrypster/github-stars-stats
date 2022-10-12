@@ -1,6 +1,6 @@
 # deadtrickster/prometheus.ex - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 389 | 38 | 
 | 2022-10-10 | 389 | 38 | 
 | 2022-10-09 | 389 | 38 | 
 | 2022-10-08 | 389 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 389 | 36 | 
 | 2022-09-13 | 389 | 35 | 
 | 2022-09-12 | 389 | 35 | 
-| 2022-09-11 | 389 | 35 | 
 

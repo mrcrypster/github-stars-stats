@@ -1,6 +1,6 @@
 # horsicq/xntsv - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 378 | 67 | 
 | 2022-10-10 | 378 | 67 | 
 | 2022-10-09 | 377 | 67 | 
 | 2022-10-08 | 377 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 373 | 67 | 
 | 2022-09-13 | 373 | 67 | 
 | 2022-09-12 | 373 | 67 | 
-| 2022-09-11 | 373 | 67 | 
 

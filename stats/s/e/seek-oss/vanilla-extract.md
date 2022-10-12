@@ -1,10 +1,10 @@
 # seek-oss/vanilla-extract - stars & forks statistics
 
-Stats updated on Oct 2022, 10
+Stats updated on Oct 2022, 11
 
 ☋ Forks: 170
 
-★ Stars: 6399
+★ Stars: 6404
 
 [Open repository](https://github.com/seek-oss/vanilla-extract)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-11 | 6404 | 170 | 
 | 2022-10-10 | 6399 | 170 | 
 | 2022-10-09 | 6388 | 170 | 
 | 2022-10-08 | 6383 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 10
 | 2022-09-14 | 6213 | 154 | 
 | 2022-09-13 | 6205 | 154 | 
 | 2022-09-12 | 6192 | 154 | 
-| 2022-09-11 | 6188 | 154 | 
 
