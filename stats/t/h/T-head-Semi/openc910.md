@@ -1,10 +1,10 @@
 # T-head-Semi/openc910 - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 178
 
-★ Stars: 671
+★ Stars: 673
 
 [Open repository](https://github.com/T-head-Semi/openc910)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 673 | 178 | 
 | 2022-10-11 | 671 | 178 | 
 | 2022-10-10 | 669 | 177 | 
 | 2022-10-09 | 669 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 650 | 173 | 
 | 2022-09-14 | 650 | 173 | 
 | 2022-09-13 | 650 | 173 | 
-| 2022-09-12 | 650 | 173 | 
 

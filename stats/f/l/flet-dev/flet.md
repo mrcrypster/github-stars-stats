@@ -1,10 +1,10 @@
 # flet-dev/flet - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 86
 
-★ Stars: 2182
+★ Stars: 2185
 
 [Open repository](https://github.com/flet-dev/flet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2185 | 86 | 
 | 2022-10-11 | 2182 | 86 | 
 | 2022-10-10 | 2170 | 86 | 
 | 2022-10-09 | 2158 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1792 | 63 | 
 | 2022-09-14 | 1777 | 61 | 
 | 2022-09-13 | 1768 | 61 | 
-| 2022-09-12 | 1753 | 60 | 
 

@@ -1,10 +1,10 @@
 # moll/vim-bbye - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 26
 
-★ Stars: 536
+★ Stars: 537
 
 [Open repository](https://github.com/moll/vim-bbye)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 537 | 26 | 
 | 2022-10-11 | 536 | 26 | 
 | 2022-10-10 | 536 | 26 | 
 | 2022-10-09 | 536 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 527 | 27 | 
 | 2022-09-15 | 526 | 27 | 
 | 2022-09-14 | 525 | 27 | 
-| 2022-09-13 | 526 | 27 | 
 

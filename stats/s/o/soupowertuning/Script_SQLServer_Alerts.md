@@ -1,6 +1,6 @@
 # soupowertuning/Script_SQLServer_Alerts - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 73 | 55 | 
 | 2022-10-12 | 73 | 55 | 
 | 2022-10-10 | 73 | 55 | 
 | 2022-10-09 | 73 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 72 | 54 | 
 | 2022-09-14 | 72 | 54 | 
 | 2022-09-13 | 72 | 54 | 
-| 2022-09-12 | 72 | 54 | 
 

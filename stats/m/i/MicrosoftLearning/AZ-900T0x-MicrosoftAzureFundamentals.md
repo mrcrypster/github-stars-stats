@@ -1,6 +1,6 @@
 # MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1113
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1409 | 1113 | 
 | 2022-10-11 | 1409 | 1113 | 
 | 2022-10-10 | 1409 | 1110 | 
 | 2022-10-09 | 1409 | 1110 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1379 | 1090 | 
 | 2022-09-14 | 1379 | 1091 | 
 | 2022-09-13 | 1379 | 1090 | 
-| 2022-09-12 | 1378 | 1090 | 
 

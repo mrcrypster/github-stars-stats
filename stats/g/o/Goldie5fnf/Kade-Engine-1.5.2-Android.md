@@ -1,6 +1,6 @@
 # Goldie5fnf/Kade-Engine-1.5.2-Android - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 3 | 4 | 
 | 2022-10-11 | 3 | 4 | 
 | 2022-10-10 | 2 | 4 | 
 | 2022-10-09 | 2 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 2 | 4 | 
 | 2022-09-14 | 2 | 4 | 
 | 2022-09-13 | 2 | 4 | 
-| 2022-09-12 | 2 | 4 | 
 

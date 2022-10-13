@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 12
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 30
 
 [Open repository](https://github.com/tdeerenberg/WA-ScheduledMessenger)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 28 | 1 | 
+| 2022-10-12 | 30 | 1 | 
 | 2022-10-11 | 28 | 1 | 
 

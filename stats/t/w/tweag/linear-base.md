@@ -1,10 +1,10 @@
 # tweag/linear-base - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 31
 
-★ Stars: 291
+★ Stars: 290
 
 [Open repository](https://github.com/tweag/linear-base)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 290 | 31 | 
 | 2022-10-11 | 291 | 31 | 
 | 2022-10-10 | 291 | 31 | 
 | 2022-10-09 | 291 | 31 | 

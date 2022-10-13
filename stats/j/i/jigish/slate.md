@@ -1,6 +1,6 @@
 # jigish/slate - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 520
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 7734 | 520 | 
 | 2022-10-11 | 7734 | 520 | 
 | 2022-10-10 | 7732 | 520 | 
 | 2022-10-09 | 7730 | 520 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 7722 | 521 | 
 | 2022-09-14 | 7722 | 521 | 
 | 2022-09-13 | 7718 | 521 | 
-| 2022-09-12 | 7713 | 521 | 
 

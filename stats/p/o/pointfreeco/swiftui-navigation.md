@@ -1,6 +1,6 @@
 # pointfreeco/swiftui-navigation - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 942 | 31 | 
 | 2022-10-11 | 942 | 31 | 
 | 2022-10-10 | 942 | 31 | 
 | 2022-10-09 | 941 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 929 | 31 | 
 | 2022-09-14 | 928 | 31 | 
 | 2022-09-13 | 928 | 31 | 
-| 2022-09-12 | 927 | 31 | 
 

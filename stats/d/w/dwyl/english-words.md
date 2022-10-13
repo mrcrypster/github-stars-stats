@@ -1,10 +1,10 @@
 # dwyl/english-words - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1526
 
-★ Stars: 8165
+★ Stars: 8170
 
 [Open repository](https://github.com/dwyl/english-words)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 8170 | 1526 | 
 | 2022-10-11 | 8165 | 1526 | 
 | 2022-10-10 | 8165 | 1526 | 
 | 2022-10-09 | 8164 | 1523 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 8057 | 1510 | 
 | 2022-09-15 | 8046 | 1507 | 
 | 2022-09-14 | 8037 | 1507 | 
-| 2022-09-13 | 8026 | 1505 | 
 

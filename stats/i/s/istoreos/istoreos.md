@@ -1,10 +1,10 @@
 # istoreos/istoreos - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 48
+☋ Forks: 50
 
-★ Stars: 526
+★ Stars: 530
 
 [Open repository](https://github.com/istoreos/istoreos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 530 | 50 | 
 | 2022-10-11 | 526 | 48 | 
 | 2022-10-10 | 520 | 46 | 
 | 2022-10-09 | 517 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 435 | 32 | 
 | 2022-09-14 | 433 | 32 | 
 | 2022-09-13 | 429 | 31 | 
-| 2022-09-12 | 430 | 31 | 
 

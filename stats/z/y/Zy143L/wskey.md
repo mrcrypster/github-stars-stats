@@ -1,10 +1,10 @@
 # Zy143L/wskey - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 489
+☋ Forks: 488
 
-★ Stars: 1022
+★ Stars: 1023
 
 [Open repository](https://github.com/Zy143L/wskey)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1023 | 488 | 
 | 2022-10-12 | 1022 | 489 | 
 | 2022-10-10 | 1022 | 490 | 
 | 2022-10-09 | 1022 | 490 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 1012 | 488 | 
 | 2022-09-14 | 1012 | 487 | 
 | 2022-09-13 | 1012 | 487 | 
-| 2022-09-12 | 1011 | 488 | 
 

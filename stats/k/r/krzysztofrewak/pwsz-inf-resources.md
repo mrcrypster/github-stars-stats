@@ -1,0 +1,18 @@
+# krzysztofrewak/pwsz-inf-resources - stars & forks statistics
+
+Stats updated on Oct 2022, 13
+
+☋ Forks: 72
+
+★ Stars: 4
+
+[Open repository](https://github.com/krzysztofrewak/pwsz-inf-resources)
+
+[Open detailed stats for krzysztofrewak/pwsz-inf-resources](https://reviewgithub.com/rep/krzysztofrewak/pwsz-inf-resources)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-13 | 4 | 72 | 
+| 2022-10-12 | 4 | 72 | 
+

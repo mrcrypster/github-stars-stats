@@ -1,10 +1,10 @@
 # leonardoalt/yools - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 2
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/leonardoalt/yools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 82 | 2 | 
 | 2022-10-11 | 81 | 2 | 
 | 2022-10-10 | 81 | 2 | 
 | 2022-10-09 | 78 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 36 | 1 | 
 | 2022-09-14 | 36 | 1 | 
 | 2022-09-13 | 36 | 1 | 
-| 2022-09-12 | 36 | 1 | 
 

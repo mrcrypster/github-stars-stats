@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 12
 
-☋ Forks: 3120
+☋ Forks: 3119
 
-★ Stars: 6382
+★ Stars: 6395
 
 [Open repository](https://github.com/ckeditor/ckeditor5)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 6382 | 3120 | 
+| 2022-10-12 | 6395 | 3119 | 
 | 2022-10-11 | 6381 | 3120 | 
 | 2022-10-10 | 6371 | 3119 | 
 | 2022-10-09 | 6365 | 3115 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 6300 | 3113 | 
 | 2022-09-15 | 6300 | 3110 | 
 | 2022-09-14 | 6295 | 3111 | 
-| 2022-09-13 | 6291 | 3111 | 
 

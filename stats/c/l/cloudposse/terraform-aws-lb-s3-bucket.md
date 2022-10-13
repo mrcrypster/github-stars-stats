@@ -1,10 +1,10 @@
 # cloudposse/terraform-aws-lb-s3-bucket - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 32
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/cloudposse/terraform-aws-lb-s3-bucket)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 28 | 32 | 
 | 2022-10-11 | 27 | 32 | 
 | 2022-10-10 | 27 | 32 | 
 | 2022-10-09 | 27 | 32 | 

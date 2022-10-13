@@ -1,6 +1,6 @@
 # davidhodge931/ggblanket - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 72 | 3 | 
 | 2022-10-11 | 72 | 3 | 
 | 2022-10-10 | 72 | 3 | 
 | 2022-10-09 | 72 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 70 | 3 | 
 | 2022-09-15 | 70 | 3 | 
 | 2022-09-14 | 70 | 3 | 
-| 2022-09-13 | 70 | 3 | 
 

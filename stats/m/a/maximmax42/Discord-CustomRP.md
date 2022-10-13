@@ -1,10 +1,10 @@
 # maximmax42/Discord-CustomRP - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 42
 
-★ Stars: 394
+★ Stars: 395
 
 [Open repository](https://github.com/maximmax42/Discord-CustomRP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 395 | 42 | 
 | 2022-10-11 | 394 | 42 | 
 | 2022-10-10 | 394 | 42 | 
 | 2022-10-09 | 393 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 374 | 44 | 
 | 2022-09-15 | 371 | 44 | 
 | 2022-09-14 | 371 | 43 | 
-| 2022-09-13 | 370 | 42 | 
 

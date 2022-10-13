@@ -1,10 +1,10 @@
 # hamishcoleman/thinkpad-ec - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 114
 
-★ Stars: 903
+★ Stars: 904
 
 [Open repository](https://github.com/hamishcoleman/thinkpad-ec)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 904 | 114 | 
 | 2022-10-12 | 903 | 114 | 
 | 2022-10-11 | 904 | 114 | 
 | 2022-10-10 | 904 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 899 | 113 | 
 | 2022-09-14 | 899 | 113 | 
 | 2022-09-13 | 899 | 113 | 
-| 2022-09-12 | 899 | 113 | 
 

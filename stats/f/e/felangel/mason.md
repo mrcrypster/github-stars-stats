@@ -1,10 +1,10 @@
 # felangel/mason - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 60
 
-★ Stars: 567
+★ Stars: 569
 
 [Open repository](https://github.com/felangel/mason)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 569 | 60 | 
 | 2022-10-12 | 567 | 60 | 
 | 2022-10-11 | 566 | 60 | 
 | 2022-10-10 | 565 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 542 | 54 | 
 | 2022-09-14 | 541 | 54 | 
 | 2022-09-13 | 541 | 54 | 
-| 2022-09-12 | 541 | 54 | 
 

@@ -1,10 +1,10 @@
 # 0xfoobar/token-delegation - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 22
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/0xfoobar/token-delegation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 74 | 22 | 
 | 2022-10-11 | 73 | 22 | 
 | 2022-10-10 | 73 | 22 | 
 | 2022-10-09 | 71 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 56 | 15 | 
 | 2022-09-14 | 56 | 13 | 
 | 2022-09-13 | 56 | 13 | 
-| 2022-09-12 | 55 | 13 | 
 

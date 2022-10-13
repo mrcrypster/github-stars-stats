@@ -1,10 +1,10 @@
 # rednaga/APKiD - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 264
 
-★ Stars: 1405
+★ Stars: 1406
 
 [Open repository](https://github.com/rednaga/APKiD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1406 | 264 | 
 | 2022-10-11 | 1405 | 264 | 
 | 2022-10-10 | 1403 | 263 | 
 | 2022-10-09 | 1403 | 262 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1362 | 260 | 
 | 2022-09-14 | 1362 | 260 | 
 | 2022-09-13 | 1361 | 258 | 
-| 2022-09-12 | 1361 | 258 | 
 

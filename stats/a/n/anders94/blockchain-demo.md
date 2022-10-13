@@ -1,10 +1,10 @@
 # anders94/blockchain-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 2279
+☋ Forks: 2280
 
-★ Stars: 4626
+★ Stars: 4627
 
 [Open repository](https://github.com/anders94/blockchain-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 4627 | 2280 | 
 | 2022-10-11 | 4626 | 2279 | 
 | 2022-10-10 | 4626 | 2280 | 
 | 2022-10-09 | 4626 | 2280 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 4600 | 2257 | 
 | 2022-09-14 | 4599 | 2257 | 
 | 2022-09-13 | 4598 | 2257 | 
-| 2022-09-12 | 4597 | 2259 | 
 

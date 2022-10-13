@@ -1,6 +1,6 @@
 # coolbutuseless/isocubes - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 59 | 2 | 
 | 2022-10-11 | 59 | 2 | 
 | 2022-10-10 | 59 | 2 | 
 | 2022-10-09 | 59 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 58 | 2 | 
 | 2022-09-14 | 58 | 2 | 
 | 2022-09-13 | 58 | 2 | 
-| 2022-09-12 | 58 | 2 | 
 

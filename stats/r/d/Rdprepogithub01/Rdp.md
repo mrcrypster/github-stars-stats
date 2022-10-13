@@ -1,8 +1,8 @@
 # Rdprepogithub01/Rdp - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 2466
+☋ Forks: 2476
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 12 | 2476 | 
 | 2022-10-11 | 12 | 2466 | 
 | 2022-10-10 | 12 | 2464 | 
 | 2022-10-09 | 12 | 2449 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 10 | 2135 | 
 | 2022-09-14 | 10 | 2123 | 
 | 2022-09-13 | 10 | 2104 | 
-| 2022-09-12 | 10 | 2101 | 
 

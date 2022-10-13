@@ -1,10 +1,10 @@
 # streamlink/streamlink - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 926
 
-★ Stars: 7964
+★ Stars: 7972
 
 [Open repository](https://github.com/streamlink/streamlink)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 7972 | 926 | 
 | 2022-10-11 | 7964 | 926 | 
 | 2022-10-10 | 7956 | 926 | 
 | 2022-10-09 | 7951 | 924 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 7875 | 909 | 
 | 2022-09-14 | 7872 | 910 | 
 | 2022-09-13 | 7870 | 910 | 
-| 2022-09-12 | 7864 | 910 | 
 

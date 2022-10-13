@@ -1,10 +1,10 @@
 # primait/telepoison - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 5
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/primait/telepoison)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 6 | 5 | 
 | 2022-10-11 | 5 | 5 | 
 | 2022-10-10 | 5 | 5 | 
 | 2022-10-09 | 5 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 4 | 4 | 
 | 2022-09-14 | 4 | 4 | 
 | 2022-09-13 | 4 | 4 | 
-| 2022-09-12 | 4 | 4 | 
 

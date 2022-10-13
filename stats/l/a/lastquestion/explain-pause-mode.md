@@ -1,6 +1,6 @@
 # lastquestion/explain-pause-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 201 | 4 | 
 | 2022-10-11 | 201 | 4 | 
 | 2022-10-10 | 201 | 4 | 
 | 2022-10-09 | 201 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 200 | 4 | 
 | 2022-09-14 | 199 | 4 | 
 | 2022-09-13 | 199 | 4 | 
-| 2022-09-12 | 199 | 4 | 
 

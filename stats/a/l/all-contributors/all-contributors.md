@@ -1,10 +1,10 @@
 # all-contributors/all-contributors - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1626
+☋ Forks: 1628
 
-★ Stars: 6612
+★ Stars: 6614
 
 [Open repository](https://github.com/all-contributors/all-contributors)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 6614 | 1628 | 
 | 2022-10-12 | 6612 | 1626 | 
 | 2022-10-11 | 6607 | 1627 | 
 | 2022-10-10 | 6606 | 1623 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 6545 | 1605 | 
 | 2022-09-14 | 6544 | 1603 | 
 | 2022-09-13 | 6541 | 1602 | 
-| 2022-09-12 | 6538 | 1600 | 
 

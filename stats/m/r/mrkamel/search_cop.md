@@ -1,10 +1,10 @@
 # mrkamel/search_cop - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 37
 
-★ Stars: 771
+★ Stars: 772
 
 [Open repository](https://github.com/mrkamel/search_cop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 772 | 37 | 
 | 2022-10-12 | 771 | 37 | 
 | 2022-10-11 | 771 | 37 | 
 | 2022-10-10 | 770 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 767 | 37 | 
 | 2022-09-14 | 767 | 37 | 
 | 2022-09-13 | 767 | 37 | 
-| 2022-09-12 | 767 | 37 | 
 

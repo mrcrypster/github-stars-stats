@@ -1,10 +1,10 @@
 # K1D77A/lisp-pay - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/K1D77A/lisp-pay)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 18 | - | 
 | 2022-10-11 | 17 | - | 
 | 2022-10-10 | 17 | - | 
 | 2022-10-09 | 17 | - | 

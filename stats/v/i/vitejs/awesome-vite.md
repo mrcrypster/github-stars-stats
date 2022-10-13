@@ -1,10 +1,10 @@
 # vitejs/awesome-vite - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 635
+☋ Forks: 639
 
-★ Stars: 7517
+★ Stars: 7536
 
 [Open repository](https://github.com/vitejs/awesome-vite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 7536 | 639 | 
 | 2022-10-11 | 7517 | 635 | 
 | 2022-10-10 | 7502 | 632 | 
 | 2022-10-09 | 7491 | 629 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 7260 | 608 | 
 | 2022-09-14 | 7251 | 607 | 
 | 2022-09-13 | 7241 | 607 | 
-| 2022-09-12 | 7228 | 607 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 12
 
-☋ Forks: 22
+☋ Forks: 30
 
-★ Stars: 353
+★ Stars: 532
 
 [Open repository](https://github.com/toss/slash)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 353 | 22 | 
+| 2022-10-12 | 532 | 30 | 
 | 2022-10-11 | 349 | 22 | 
 

@@ -1,6 +1,6 @@
 # square/anvil - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 985 | 50 | 
 | 2022-10-11 | 985 | 50 | 
 | 2022-10-10 | 984 | 50 | 
 | 2022-10-09 | 984 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 973 | 50 | 
 | 2022-09-14 | 973 | 50 | 
 | 2022-09-13 | 973 | 50 | 
-| 2022-09-12 | 973 | 50 | 
 

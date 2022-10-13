@@ -1,6 +1,6 @@
 # mdowst/PSNotes - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 64 | 2 | 
 | 2022-10-11 | 64 | 2 | 
 | 2022-10-10 | 64 | 2 | 
 | 2022-10-09 | 64 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 64 | 2 | 
 | 2022-09-15 | 64 | 2 | 
 | 2022-09-14 | 64 | 2 | 
-| 2022-09-12 | 64 | 2 | 
 

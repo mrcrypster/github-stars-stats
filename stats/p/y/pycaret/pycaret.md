@@ -1,10 +1,10 @@
 # pycaret/pycaret - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1463
 
-★ Stars: 6376
+★ Stars: 6377
 
 [Open repository](https://github.com/pycaret/pycaret)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 6377 | 1463 | 
 | 2022-10-11 | 6376 | 1463 | 
 | 2022-10-10 | 6370 | 1464 | 
 | 2022-10-09 | 6367 | 1460 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 6245 | 1432 | 
 | 2022-09-14 | 6232 | 1431 | 
 | 2022-09-13 | 6228 | 1432 | 
-| 2022-09-12 | 6219 | 1432 | 
 

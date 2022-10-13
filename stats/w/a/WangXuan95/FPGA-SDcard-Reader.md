@@ -1,10 +1,10 @@
 # WangXuan95/FPGA-SDcard-Reader - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 26
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/WangXuan95/FPGA-SDcard-Reader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 90 | 26 | 
 | 2022-10-11 | 89 | 26 | 
 | 2022-10-10 | 89 | 26 | 
 | 2022-10-09 | 89 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 87 | 26 | 
 | 2022-09-14 | 88 | 26 | 
 | 2022-09-13 | 87 | 26 | 
-| 2022-09-12 | 87 | 26 | 
 

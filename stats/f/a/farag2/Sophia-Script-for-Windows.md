@@ -1,10 +1,10 @@
 # farag2/Sophia-Script-for-Windows - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 508
+☋ Forks: 509
 
-★ Stars: 5280
+★ Stars: 5285
 
 [Open repository](https://github.com/farag2/Sophia-Script-for-Windows)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 5285 | 509 | 
 | 2022-10-11 | 5280 | 508 | 
 | 2022-10-10 | 5274 | 508 | 
 | 2022-10-09 | 5272 | 508 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 5203 | 505 | 
 | 2022-09-14 | 5197 | 506 | 
 | 2022-09-13 | 5193 | 506 | 
-| 2022-09-12 | 5187 | 506 | 
 

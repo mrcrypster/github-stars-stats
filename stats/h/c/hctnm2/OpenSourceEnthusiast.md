@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 12
 
-☋ Forks: 66
+☋ Forks: 71
 
-★ Stars: 33
+★ Stars: 36
 
 [Open repository](https://github.com/hctnm2/OpenSourceEnthusiast)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 33 | 66 | 
+| 2022-10-12 | 36 | 71 | 
 | 2022-10-11 | 33 | 66 | 
 

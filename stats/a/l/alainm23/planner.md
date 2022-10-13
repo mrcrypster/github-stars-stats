@@ -1,10 +1,10 @@
 # alainm23/planner - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 144
 
-★ Stars: 2056
+★ Stars: 2057
 
 [Open repository](https://github.com/alainm23/planner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2057 | 144 | 
 | 2022-10-11 | 2056 | 144 | 
 | 2022-10-10 | 2055 | 144 | 
 | 2022-10-09 | 2051 | 144 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 2035 | 145 | 
 | 2022-09-14 | 2034 | 146 | 
 | 2022-09-13 | 2034 | 146 | 
-| 2022-09-12 | 2030 | 146 | 
 

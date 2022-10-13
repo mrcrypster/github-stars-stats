@@ -1,10 +1,10 @@
 # kentcdodds/kentcdodds.com - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 468
 
-★ Stars: 1584
+★ Stars: 1587
 
 [Open repository](https://github.com/kentcdodds/kentcdodds.com)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1587 | 468 | 
 | 2022-10-11 | 1584 | 468 | 
 | 2022-10-10 | 1581 | 470 | 
 | 2022-10-09 | 1580 | 469 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1555 | 462 | 
 | 2022-09-14 | 1553 | 460 | 
 | 2022-09-13 | 1551 | 460 | 
-| 2022-09-12 | 1550 | 458 | 
 

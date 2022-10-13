@@ -1,10 +1,10 @@
 # hgjazhgj/FGO-py - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 111
+☋ Forks: 112
 
-★ Stars: 653
+★ Stars: 656
 
 [Open repository](https://github.com/hgjazhgj/FGO-py)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 656 | 112 | 
 | 2022-10-11 | 653 | 111 | 
 | 2022-10-10 | 654 | 111 | 
 | 2022-10-09 | 655 | 111 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 640 | 110 | 
 | 2022-09-14 | 641 | 110 | 
 | 2022-09-13 | 639 | 110 | 
-| 2022-09-12 | 639 | 110 | 
 

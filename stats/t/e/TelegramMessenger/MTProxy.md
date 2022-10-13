@@ -1,10 +1,10 @@
 # TelegramMessenger/MTProxy - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 714
+☋ Forks: 715
 
-★ Stars: 4013
+★ Stars: 4017
 
 [Open repository](https://github.com/TelegramMessenger/MTProxy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 4017 | 715 | 
 | 2022-10-11 | 4013 | 714 | 
 | 2022-10-10 | 4003 | 713 | 
 | 2022-10-09 | 4000 | 712 | 

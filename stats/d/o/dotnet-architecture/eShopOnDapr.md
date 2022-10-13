@@ -1,10 +1,10 @@
 # dotnet-architecture/eShopOnDapr - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 354
 
-★ Stars: 1171
+★ Stars: 1172
 
 [Open repository](https://github.com/dotnet-architecture/eShopOnDapr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1172 | 354 | 
 | 2022-10-11 | 1171 | 354 | 
 | 2022-10-10 | 1170 | 353 | 
 | 2022-10-09 | 1170 | 352 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1148 | 345 | 
 | 2022-09-14 | 1147 | 345 | 
 | 2022-09-13 | 1145 | 345 | 
-| 2022-09-12 | 1143 | 345 | 
 

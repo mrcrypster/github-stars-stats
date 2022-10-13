@@ -1,6 +1,6 @@
 # huwenbiao/cnblogs - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 13 | 4 | 
 | 2022-10-11 | 13 | 4 | 
 | 2022-10-10 | 13 | 4 | 
 | 2022-10-09 | 13 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 13 | 4 | 
 | 2022-09-14 | 13 | 4 | 
 | 2022-09-13 | 13 | 4 | 
-| 2022-09-12 | 13 | 4 | 
 

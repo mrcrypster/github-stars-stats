@@ -1,10 +1,10 @@
 # deepnight/deepnightLibs - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 50
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/deepnight/deepnightLibs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 184 | 50 | 
 | 2022-10-11 | 183 | 50 | 
 | 2022-10-10 | 183 | 49 | 
 | 2022-10-09 | 183 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 180 | 46 | 
 | 2022-09-14 | 180 | 46 | 
 | 2022-09-13 | 180 | 46 | 
-| 2022-09-12 | 180 | 46 | 
 

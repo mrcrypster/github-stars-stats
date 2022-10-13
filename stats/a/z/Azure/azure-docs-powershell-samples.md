@@ -1,6 +1,6 @@
 # Azure/azure-docs-powershell-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 459
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 399 | 459 | 
 | 2022-10-11 | 399 | 459 | 
 | 2022-10-10 | 399 | 459 | 
 | 2022-10-09 | 399 | 458 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 397 | 454 | 
 | 2022-09-14 | 397 | 453 | 
 | 2022-09-13 | 397 | 452 | 
-| 2022-09-12 | 396 | 451 | 
 

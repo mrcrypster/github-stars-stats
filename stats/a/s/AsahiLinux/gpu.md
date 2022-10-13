@@ -1,6 +1,6 @@
 # AsahiLinux/gpu - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 943 | 35 | 
 | 2022-10-12 | 943 | 35 | 
 | 2022-10-10 | 943 | 35 | 
 | 2022-10-09 | 943 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 939 | 36 | 
 | 2022-09-14 | 939 | 37 | 
 | 2022-09-13 | 939 | 37 | 
-| 2022-09-12 | 939 | 37 | 
 

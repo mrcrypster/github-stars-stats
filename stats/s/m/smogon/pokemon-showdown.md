@@ -1,8 +1,8 @@
 # smogon/pokemon-showdown - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 2282
+☋ Forks: 2281
 
 ★ Stars: 3812
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3812 | 2281 | 
 | 2022-10-12 | 3812 | 2282 | 
 | 2022-10-11 | 3812 | 2282 | 
 | 2022-10-10 | 3811 | 2281 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 3783 | 2261 | 
 | 2022-09-14 | 3781 | 2261 | 
 | 2022-09-13 | 3781 | 2259 | 
-| 2022-09-12 | 3782 | 2261 | 
 

@@ -1,6 +1,6 @@
 # phw/peek - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 293
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 9259 | 293 | 
 | 2022-10-11 | 9259 | 293 | 
 | 2022-10-10 | 9258 | 293 | 
 | 2022-10-09 | 9254 | 293 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 9222 | 291 | 
 | 2022-09-14 | 9217 | 290 | 
 | 2022-09-13 | 9215 | 290 | 
-| 2022-09-12 | 9212 | 290 | 
 

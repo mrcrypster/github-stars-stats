@@ -1,10 +1,10 @@
 # ninenines/ranch - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 325
+☋ Forks: 326
 
-★ Stars: 1105
+★ Stars: 1106
 
 [Open repository](https://github.com/ninenines/ranch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1106 | 326 | 
 | 2022-10-11 | 1105 | 325 | 
 | 2022-10-10 | 1105 | 325 | 
 | 2022-10-09 | 1105 | 325 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1103 | 324 | 
 | 2022-09-14 | 1103 | 324 | 
 | 2022-09-13 | 1103 | 324 | 
-| 2022-09-12 | 1103 | 324 | 
 

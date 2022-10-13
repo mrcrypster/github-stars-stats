@@ -1,6 +1,6 @@
 # webhdx/PicoBoot - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 835 | 58 | 
 | 2022-10-11 | 835 | 58 | 
 | 2022-10-10 | 833 | 58 | 
 | 2022-10-09 | 831 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 805 | 52 | 
 | 2022-09-14 | 804 | 52 | 
 | 2022-09-13 | 802 | 51 | 
-| 2022-09-12 | 800 | 51 | 
 

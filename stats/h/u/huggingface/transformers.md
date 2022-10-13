@@ -1,10 +1,10 @@
 # huggingface/transformers - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 16427
+☋ Forks: 16446
 
-★ Stars: 71919
+★ Stars: 71993
 
 [Open repository](https://github.com/huggingface/transformers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 71993 | 16446 | 
 | 2022-10-11 | 71919 | 16427 | 
 | 2022-10-10 | 71847 | 16411 | 
 | 2022-10-09 | 71813 | 16403 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 70262 | 16120 | 
 | 2022-09-14 | 70192 | 16109 | 
 | 2022-09-13 | 70113 | 16092 | 
-| 2022-09-12 | 70038 | 16081 | 
 

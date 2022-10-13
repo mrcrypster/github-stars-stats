@@ -1,10 +1,10 @@
 # dair-ai/MLOPs-Primer - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 42
 
-★ Stars: 862
+★ Stars: 861
 
 [Open repository](https://github.com/dair-ai/MLOPs-Primer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 861 | 42 | 
 | 2022-10-12 | 862 | 42 | 
 | 2022-10-10 | 862 | 42 | 
 | 2022-10-09 | 862 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 856 | 42 | 
 | 2022-09-14 | 855 | 42 | 
 | 2022-09-13 | 855 | 42 | 
-| 2022-09-12 | 855 | 42 | 
 

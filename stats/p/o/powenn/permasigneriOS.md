@@ -1,10 +1,10 @@
 # powenn/permasigneriOS - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/powenn/permasigneriOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 236 | 20 | 
 | 2022-10-11 | 235 | 19 | 
 | 2022-10-10 | 234 | 19 | 
 | 2022-10-09 | 234 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 234 | 17 | 
 | 2022-09-14 | 234 | 17 | 
 | 2022-09-13 | 233 | 17 | 
-| 2022-09-12 | 233 | 17 | 
 

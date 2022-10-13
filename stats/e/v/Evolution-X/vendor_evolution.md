@@ -1,6 +1,6 @@
 # Evolution-X/vendor_evolution - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 15 | 46 | 
 | 2022-10-11 | 15 | 46 | 
 | 2022-10-10 | 15 | 46 | 
 | 2022-10-09 | 15 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 15 | 47 | 
 | 2022-09-14 | 15 | 47 | 
 | 2022-09-13 | 15 | 48 | 
-| 2022-09-12 | 15 | 49 | 
 

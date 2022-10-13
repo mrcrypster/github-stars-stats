@@ -1,10 +1,10 @@
 # gogo/protobuf - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 734
 
-★ Stars: 5442
+★ Stars: 5444
 
 [Open repository](https://github.com/gogo/protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 5444 | 734 | 
 | 2022-10-11 | 5442 | 734 | 
 | 2022-10-10 | 5441 | 733 | 
 | 2022-10-09 | 5441 | 734 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 5423 | 729 | 
 | 2022-09-14 | 5421 | 728 | 
 | 2022-09-13 | 5421 | 728 | 
-| 2022-09-12 | 5421 | 728 | 
 

@@ -1,10 +1,10 @@
 # Bafomet666/Bigbro - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 18
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/Bafomet666/Bigbro)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 93 | 18 | 
 | 2022-10-11 | 92 | 18 | 
 | 2022-10-10 | 92 | 18 | 
 | 2022-10-09 | 92 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 83 | 15 | 
 | 2022-09-14 | 83 | 15 | 
 | 2022-09-13 | 83 | 15 | 
-| 2022-09-12 | 82 | 15 | 
 

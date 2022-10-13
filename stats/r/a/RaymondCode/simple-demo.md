@@ -1,10 +1,10 @@
 # RaymondCode/simple-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 118
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/RaymondCode/simple-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 90 | 118 | 
 | 2022-10-12 | 89 | 118 | 
 | 2022-10-11 | 89 | 118 | 
 | 2022-10-10 | 89 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 89 | 118 | 
 | 2022-09-14 | 89 | 118 | 
 | 2022-09-13 | 89 | 119 | 
-| 2022-09-12 | 89 | 119 | 
 

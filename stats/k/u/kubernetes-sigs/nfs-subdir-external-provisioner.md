@@ -1,10 +1,10 @@
 # kubernetes-sigs/nfs-subdir-external-provisioner - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 516
+☋ Forks: 518
 
-★ Stars: 1517
+★ Stars: 1518
 
 [Open repository](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1518 | 518 | 
 | 2022-10-11 | 1517 | 516 | 
 | 2022-10-10 | 1511 | 515 | 
 | 2022-10-09 | 1507 | 513 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 1457 | 503 | 
 | 2022-09-14 | 1455 | 501 | 
 | 2022-09-13 | 1450 | 500 | 
-| 2022-09-12 | 1451 | 498 | 
 

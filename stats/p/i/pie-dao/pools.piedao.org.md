@@ -1,6 +1,6 @@
 # pie-dao/pools.piedao.org - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 23 | 27 | 
 | 2022-10-11 | 23 | 27 | 
 | 2022-10-10 | 23 | 27 | 
 | 2022-10-09 | 23 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 23 | 27 | 
 | 2022-09-15 | 23 | 27 | 
 | 2022-09-14 | 23 | 27 | 
-| 2022-09-13 | 23 | 27 | 
 

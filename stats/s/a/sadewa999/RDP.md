@@ -1,8 +1,8 @@
 # sadewa999/RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 167
+☋ Forks: 169
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 8 | 169 | 
 | 2022-10-11 | 8 | 167 | 
 | 2022-10-10 | 7 | 165 | 
 | 2022-10-09 | 7 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 6 | 110 | 
 | 2022-09-14 | 6 | 110 | 
 | 2022-09-13 | 6 | 109 | 
-| 2022-09-12 | 6 | 104 | 
 

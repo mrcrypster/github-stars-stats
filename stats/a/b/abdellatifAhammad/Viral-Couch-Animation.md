@@ -1,6 +1,6 @@
 # abdellatifAhammad/Viral-Couch-Animation - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 16 | 5 | 
 | 2022-10-11 | 16 | 5 | 
 | 2022-10-10 | 16 | 5 | 
 | 2022-10-09 | 16 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 17 | 5 | 
 | 2022-09-15 | 17 | 5 | 
 | 2022-09-14 | 17 | 5 | 
-| 2022-09-13 | 17 | 5 | 
 

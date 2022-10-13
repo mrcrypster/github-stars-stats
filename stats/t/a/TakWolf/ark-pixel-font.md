@@ -1,6 +1,6 @@
 # TakWolf/ark-pixel-font - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1512 | 31 | 
 | 2022-10-11 | 1512 | 31 | 
 | 2022-10-10 | 1512 | 31 | 
 | 2022-10-09 | 1512 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1490 | 29 | 
 | 2022-09-14 | 1490 | 29 | 
 | 2022-09-13 | 1486 | 29 | 
-| 2022-09-12 | 1486 | 29 | 
 

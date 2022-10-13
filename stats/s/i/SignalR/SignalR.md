@@ -1,6 +1,6 @@
 # SignalR/SignalR - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 2288
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 8750 | 2288 | 
 | 2022-10-11 | 8750 | 2288 | 
 | 2022-10-10 | 8749 | 2288 | 
 | 2022-10-09 | 8747 | 2288 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 8725 | 2284 | 
 | 2022-09-14 | 8723 | 2284 | 
 | 2022-09-13 | 8724 | 2284 | 
-| 2022-09-12 | 8723 | 2284 | 
 

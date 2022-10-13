@@ -1,6 +1,6 @@
 # evidence-dev/evidence - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 760 | 50 | 
 | 2022-10-11 | 760 | 50 | 
 | 2022-10-10 | 758 | 50 | 
 | 2022-10-09 | 758 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 749 | 49 | 
 | 2022-09-14 | 749 | 49 | 
 | 2022-09-13 | 748 | 49 | 
-| 2022-09-12 | 748 | 49 | 
 

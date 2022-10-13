@@ -1,6 +1,6 @@
 # tadinve/EKG-Foundations - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | - | 14 | 
 | 2022-10-11 | - | 14 | 
 | 2022-10-10 | - | 14 | 
 | 2022-10-09 | - | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | - | 14 | 
 | 2022-09-14 | - | 14 | 
 | 2022-09-13 | - | 14 | 
-| 2022-09-12 | - | 14 | 
 

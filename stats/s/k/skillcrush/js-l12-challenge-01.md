@@ -1,8 +1,8 @@
 # skillcrush/js-l12-challenge-01 - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 423
+☋ Forks: 424
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1 | 424 | 
 | 2022-10-11 | 1 | 423 | 
 | 2022-10-10 | 1 | 423 | 
 | 2022-10-09 | 1 | 421 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1 | 410 | 
 | 2022-09-14 | 1 | 409 | 
 | 2022-09-13 | 1 | 408 | 
-| 2022-09-12 | 1 | 407 | 
 

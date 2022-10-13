@@ -1,6 +1,6 @@
 # JuliaMolSim/Molly.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 234 | 40 | 
 | 2022-10-11 | 234 | 40 | 
 | 2022-10-10 | 234 | 40 | 
 | 2022-10-09 | 233 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 228 | 39 | 
 | 2022-09-15 | 228 | 39 | 
 | 2022-09-14 | 228 | 37 | 
-| 2022-09-13 | 227 | 37 | 
 

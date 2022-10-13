@@ -1,10 +1,10 @@
 # purescript-contrib/purescript-parsing - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/purescript-contrib/purescript-parsing)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 141 | 51 | 
 | 2022-10-11 | 140 | 50 | 
 | 2022-10-10 | 140 | 50 | 
 | 2022-10-09 | 140 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 140 | 50 | 
 | 2022-09-14 | 140 | 50 | 
 | 2022-09-13 | 139 | 50 | 
-| 2022-09-12 | 139 | 50 | 
 

@@ -1,10 +1,10 @@
 # chyingp/nodejs-learning-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1191
 
-★ Stars: 6618
+★ Stars: 6619
 
 [Open repository](https://github.com/chyingp/nodejs-learning-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 6619 | 1191 | 
 | 2022-10-11 | 6618 | 1191 | 
 | 2022-10-10 | 6616 | 1191 | 
 | 2022-10-09 | 6613 | 1191 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 6597 | 1189 | 
 | 2022-09-14 | 6596 | 1188 | 
 | 2022-09-13 | 6595 | 1188 | 
-| 2022-09-12 | 6595 | 1188 | 
 

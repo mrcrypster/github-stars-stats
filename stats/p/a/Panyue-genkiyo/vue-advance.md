@@ -1,10 +1,10 @@
 # Panyue-genkiyo/vue-advance - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 115
 
-★ Stars: 142
+★ Stars: 144
 
 [Open repository](https://github.com/Panyue-genkiyo/vue-advance)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 144 | 115 | 
 | 2022-10-11 | 142 | 115 | 
 | 2022-10-10 | 142 | 114 | 
 | 2022-10-09 | 142 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 124 | 98 | 
 | 2022-09-14 | 123 | 98 | 
 | 2022-09-13 | 122 | 98 | 
-| 2022-09-12 | 120 | 98 | 
 

@@ -1,6 +1,6 @@
 # HubSpot/vee - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 28 | 4 | 
 | 2022-10-11 | 28 | 4 | 
 | 2022-10-10 | 28 | 4 | 
 | 2022-10-09 | 28 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 28 | 4 | 
 | 2022-09-15 | 28 | 4 | 
 | 2022-09-14 | 28 | 4 | 
-| 2022-09-13 | 28 | 4 | 
 

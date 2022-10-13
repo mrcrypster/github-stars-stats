@@ -1,6 +1,6 @@
 # readthedocs/sphinx_rtd_theme - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1688
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 4196 | 1688 | 
 | 2022-10-11 | 4196 | 1688 | 
 | 2022-10-10 | 4195 | 1689 | 
 | 2022-10-09 | 4192 | 1689 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 4173 | 1687 | 
 | 2022-09-14 | 4174 | 1686 | 
 | 2022-09-13 | 4175 | 1686 | 
-| 2022-09-12 | 4174 | 1684 | 
 

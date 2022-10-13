@@ -1,6 +1,6 @@
 # whutug/whu-thesis - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 529 | 143 | 
 | 2022-10-11 | 529 | 143 | 
 | 2022-10-10 | 528 | 142 | 
 | 2022-10-09 | 528 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 526 | 140 | 
 | 2022-09-14 | 524 | 140 | 
 | 2022-09-13 | 524 | 140 | 
-| 2022-09-12 | 524 | 140 | 
 

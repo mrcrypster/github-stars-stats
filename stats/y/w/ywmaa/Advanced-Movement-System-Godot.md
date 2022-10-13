@@ -1,6 +1,6 @@
 # ywmaa/Advanced-Movement-System-Godot - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 130 | 14 | 
 | 2022-10-11 | 130 | 14 | 
 | 2022-10-10 | 128 | 14 | 
 | 2022-10-09 | 127 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 119 | 15 | 
 | 2022-09-14 | 119 | 15 | 
 | 2022-09-13 | 119 | 15 | 
-| 2022-09-12 | 119 | 15 | 
 

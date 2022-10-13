@@ -1,10 +1,10 @@
 # ubuntu-flutter-community/software - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 34
 
-★ Stars: 248
+★ Stars: 251
 
 [Open repository](https://github.com/ubuntu-flutter-community/software)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 251 | 34 | 
 | 2022-10-11 | 248 | 34 | 
 | 2022-10-10 | 248 | 34 | 
 | 2022-10-09 | 249 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 184 | 21 | 
 | 2022-09-14 | 178 | 19 | 
 | 2022-09-13 | 171 | 17 | 
-| 2022-09-12 | 168 | 17 | 
 

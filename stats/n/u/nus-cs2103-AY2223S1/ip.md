@@ -1,6 +1,6 @@
 # nus-cs2103-AY2223S1/ip - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 466
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 3 | 466 | 
 | 2022-10-11 | 3 | 466 | 
 | 2022-10-10 | 3 | 466 | 
 | 2022-10-09 | 3 | 466 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 3 | 464 | 
 | 2022-09-15 | 3 | 464 | 
 | 2022-09-13 | 3 | 464 | 
-| 2022-09-12 | 3 | 464 | 
 

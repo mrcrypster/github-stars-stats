@@ -1,6 +1,6 @@
 # JuliaArrays/StaticArrays.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 578 | 127 | 
 | 2022-10-11 | 578 | 127 | 
 | 2022-10-10 | 578 | 127 | 
 | 2022-10-09 | 578 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 574 | 126 | 
 | 2022-09-14 | 574 | 126 | 
 | 2022-09-13 | 574 | 126 | 
-| 2022-09-12 | 574 | 126 | 
 

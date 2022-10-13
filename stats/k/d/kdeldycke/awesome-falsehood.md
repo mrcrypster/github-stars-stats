@@ -1,6 +1,6 @@
 # kdeldycke/awesome-falsehood - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 472
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 18947 | 472 | 
 | 2022-10-11 | 18947 | 472 | 
 | 2022-10-10 | 18938 | 472 | 
 | 2022-10-09 | 18935 | 472 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 18828 | 470 | 
 | 2022-09-14 | 18819 | 469 | 
 | 2022-09-13 | 18811 | 469 | 
-| 2022-09-12 | 18801 | 469 | 
 

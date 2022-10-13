@@ -1,6 +1,6 @@
 # akeep/scheme-to-llvm - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 91 | 11 | 
 | 2022-10-12 | 91 | 11 | 
 | 2022-10-10 | 90 | 11 | 
 | 2022-10-09 | 90 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 90 | 10 | 
 | 2022-09-14 | 90 | 10 | 
 | 2022-09-13 | 90 | 10 | 
-| 2022-09-12 | 90 | 10 | 
 

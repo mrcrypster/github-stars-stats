@@ -1,10 +1,10 @@
 # Fueler-io/Web-Development-Resources - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 61
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/Fueler-io/Web-Development-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 79 | 61 | 
 | 2022-10-11 | 78 | 61 | 
 | 2022-10-10 | 78 | 61 | 
 

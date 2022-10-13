@@ -1,0 +1,18 @@
+# jonoabroad/liftmodules-aws-sns - stars & forks statistics
+
+Stats updated on Oct 2022, 13
+
+☋ Forks: 3
+
+★ Stars: 2
+
+[Open repository](https://github.com/jonoabroad/liftmodules-aws-sns)
+
+[Open detailed stats for jonoabroad/liftmodules-aws-sns](https://reviewgithub.com/rep/jonoabroad/liftmodules-aws-sns)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-13 | 2 | 3 | 
+| 2022-10-12 | 2 | 3 | 
+

@@ -1,6 +1,6 @@
 # rose-pine/neovim - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 469 | 39 | 
 | 2022-10-12 | 469 | 39 | 
 | 2022-10-11 | 467 | 38 | 
 | 2022-10-10 | 467 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 449 | 36 | 
 | 2022-09-14 | 449 | 36 | 
 | 2022-09-13 | 450 | 36 | 
-| 2022-09-12 | 447 | 36 | 
 

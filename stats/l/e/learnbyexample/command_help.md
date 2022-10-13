@@ -1,6 +1,6 @@
 # learnbyexample/command_help - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 79 | 7 | 
 | 2022-10-11 | 79 | 7 | 
 | 2022-10-10 | 79 | 7 | 
 | 2022-10-09 | 79 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 77 | 7 | 
 | 2022-09-15 | 77 | 7 | 
 | 2022-09-14 | 77 | 7 | 
-| 2022-09-13 | 77 | 7 | 
 

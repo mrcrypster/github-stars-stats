@@ -1,6 +1,6 @@
 # ElvUI-WotLK/ElvUI - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 328 | 121 | 
 | 2022-10-11 | 328 | 121 | 
 | 2022-10-10 | 328 | 121 | 
 | 2022-10-09 | 328 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 321 | 118 | 
 | 2022-09-14 | 320 | 118 | 
 | 2022-09-13 | 319 | 118 | 
-| 2022-09-12 | 319 | 118 | 
 

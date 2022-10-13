@@ -1,6 +1,6 @@
 # nikic/PHP-Parser - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 893
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 15696 | 893 | 
 | 2022-10-11 | 15696 | 893 | 
 | 2022-10-10 | 15695 | 893 | 
 | 2022-10-09 | 15692 | 893 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 15654 | 890 | 
 | 2022-09-14 | 15648 | 890 | 
 | 2022-09-13 | 15644 | 890 | 
-| 2022-09-12 | 15644 | 890 | 
 

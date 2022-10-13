@@ -1,10 +1,10 @@
 # immutable/imx-starknet - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/immutable/imx-starknet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 59 | 8 | 
 | 2022-10-11 | 58 | 7 | 
 | 2022-10-10 | 58 | 7 | 
 | 2022-10-09 | 58 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 54 | 5 | 
 | 2022-09-15 | 54 | 5 | 
 | 2022-09-14 | 54 | 5 | 
-| 2022-09-13 | 54 | 5 | 
 

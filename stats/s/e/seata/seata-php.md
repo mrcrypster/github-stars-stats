@@ -1,10 +1,10 @@
 # seata/seata-php - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 19
 
-★ Stars: 69
+★ Stars: 71
 
 [Open repository](https://github.com/seata/seata-php)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 71 | 19 | 
 | 2022-10-11 | 69 | 19 | 
 | 2022-10-10 | 69 | 19 | 
 | 2022-10-09 | 68 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 67 | 19 | 
 | 2022-09-15 | 67 | 19 | 
 | 2022-09-14 | 67 | 19 | 
-| 2022-09-13 | 67 | 19 | 
 

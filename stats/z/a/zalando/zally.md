@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 12
 
 ☋ Forks: 122
 
-★ Stars: 717
+★ Stars: 719
 
 [Open repository](https://github.com/zalando/zally)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 717 | 122 | 
+| 2022-10-12 | 719 | 122 | 
 | 2022-10-11 | 716 | 122 | 
 

@@ -1,10 +1,10 @@
 # facebookresearch/vissl - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 295
 
-★ Stars: 2799
+★ Stars: 2800
 
 [Open repository](https://github.com/facebookresearch/vissl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2800 | 295 | 
 | 2022-10-11 | 2799 | 295 | 
 | 2022-10-10 | 2798 | 295 | 
 | 2022-10-09 | 2797 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 2773 | 288 | 
 | 2022-09-14 | 2770 | 288 | 
 | 2022-09-13 | 2767 | 288 | 
-| 2022-09-12 | 2766 | 288 | 
 

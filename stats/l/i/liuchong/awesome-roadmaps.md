@@ -1,10 +1,10 @@
 # liuchong/awesome-roadmaps - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 251
 
-★ Stars: 2564
+★ Stars: 2567
 
 [Open repository](https://github.com/liuchong/awesome-roadmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2567 | 251 | 
 | 2022-10-11 | 2564 | 251 | 
 | 2022-10-10 | 2556 | 251 | 
 | 2022-10-09 | 2551 | 249 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 2465 | 241 | 
 | 2022-09-14 | 2463 | 240 | 
 | 2022-09-13 | 2459 | 240 | 
-| 2022-09-12 | 2454 | 240 | 
 

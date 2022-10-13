@@ -1,10 +1,10 @@
 # kubernetes-sigs/gateway-api - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 210
 
-★ Stars: 703
+★ Stars: 705
 
 [Open repository](https://github.com/kubernetes-sigs/gateway-api)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 705 | 210 | 
 | 2022-10-11 | 703 | 210 | 
 | 2022-10-10 | 703 | 210 | 
 | 2022-10-09 | 702 | 210 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 671 | 198 | 
 | 2022-09-14 | 671 | 198 | 
 | 2022-09-13 | 669 | 198 | 
-| 2022-09-12 | 662 | 197 | 
 

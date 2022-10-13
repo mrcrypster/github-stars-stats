@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 12
 
 ☋ Forks: 12
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 103 | 12 | 
+| 2022-10-12 | 104 | 12 | 
 | 2022-10-11 | 103 | 12 | 
 

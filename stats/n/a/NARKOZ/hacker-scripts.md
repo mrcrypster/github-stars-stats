@@ -1,10 +1,10 @@
 # NARKOZ/hacker-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 6697
+☋ Forks: 6698
 
-★ Stars: 45153
+★ Stars: 45157
 
 [Open repository](https://github.com/NARKOZ/hacker-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 45157 | 6698 | 
 | 2022-10-12 | 45153 | 6697 | 
 | 2022-10-11 | 45150 | 6697 | 
 | 2022-10-10 | 45146 | 6698 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 45049 | 6697 | 
 | 2022-09-14 | 45034 | 6696 | 
 | 2022-09-13 | 45028 | 6696 | 
-| 2022-09-12 | 45023 | 6694 | 
 

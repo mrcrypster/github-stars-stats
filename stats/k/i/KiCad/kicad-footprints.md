@@ -1,6 +1,6 @@
 # KiCad/kicad-footprints - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 746
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 570 | 746 | 
 | 2022-10-11 | 570 | 746 | 
 | 2022-10-10 | 570 | 746 | 
 | 2022-10-09 | 570 | 746 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 571 | 746 | 
 | 2022-09-14 | 571 | 745 | 
 | 2022-09-13 | 571 | 745 | 
-| 2022-09-12 | 571 | 745 | 
 

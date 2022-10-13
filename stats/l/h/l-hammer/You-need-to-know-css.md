@@ -1,10 +1,10 @@
 # l-hammer/You-need-to-know-css - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 546
 
-★ Stars: 4516
+★ Stars: 4522
 
 [Open repository](https://github.com/l-hammer/You-need-to-know-css)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 4522 | 546 | 
 | 2022-10-11 | 4516 | 546 | 
 | 2022-10-10 | 4514 | 546 | 
 | 2022-10-09 | 4509 | 546 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 4409 | 536 | 
 | 2022-09-15 | 4407 | 536 | 
 | 2022-09-14 | 4403 | 536 | 
-| 2022-09-12 | 4401 | 535 | 
 

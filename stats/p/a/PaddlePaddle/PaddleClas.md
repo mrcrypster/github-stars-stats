@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleClas - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 933
+☋ Forks: 934
 
-★ Stars: 4414
+★ Stars: 4418
 
 [Open repository](https://github.com/PaddlePaddle/PaddleClas)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 4418 | 934 | 
 | 2022-10-12 | 4414 | 933 | 
 | 2022-10-11 | 4409 | 932 | 
 | 2022-10-10 | 4405 | 932 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 4370 | 921 | 
 | 2022-09-14 | 4366 | 919 | 
 | 2022-09-13 | 4362 | 919 | 
-| 2022-09-12 | 4357 | 918 | 
 

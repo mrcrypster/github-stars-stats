@@ -1,10 +1,10 @@
 # HummerRisk/HummerRisk - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 185
+☋ Forks: 186
 
-★ Stars: 911
+★ Stars: 915
 
 [Open repository](https://github.com/HummerRisk/HummerRisk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 915 | 186 | 
 | 2022-10-11 | 911 | 185 | 
 | 2022-10-10 | 908 | 183 | 
 | 2022-10-09 | 905 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 707 | 88 | 
 | 2022-09-15 | 703 | 85 | 
 | 2022-09-14 | 694 | 79 | 
-| 2022-09-13 | 683 | 77 | 
 

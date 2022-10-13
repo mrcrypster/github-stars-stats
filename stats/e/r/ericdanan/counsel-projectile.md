@@ -1,6 +1,6 @@
 # ericdanan/counsel-projectile - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 273 | 40 | 
 | 2022-10-11 | 273 | 40 | 
 | 2022-10-10 | 273 | 40 | 
 | 2022-10-09 | 273 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 276 | 40 | 
 | 2022-09-14 | 276 | 40 | 
 | 2022-09-13 | 276 | 40 | 
-| 2022-09-12 | 276 | 40 | 
 

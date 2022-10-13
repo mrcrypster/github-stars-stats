@@ -1,10 +1,10 @@
 # paritytech/substrate - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 2363
+☋ Forks: 2367
 
-★ Stars: 7488
+★ Stars: 7494
 
 [Open repository](https://github.com/paritytech/substrate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 7494 | 2367 | 
 | 2022-10-11 | 7488 | 2363 | 
 | 2022-10-10 | 7484 | 2360 | 
 | 2022-10-09 | 7480 | 2360 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 7416 | 2341 | 
 | 2022-09-14 | 7415 | 2339 | 
 | 2022-09-13 | 7411 | 2338 | 
-| 2022-09-12 | 7408 | 2335 | 
 

@@ -1,6 +1,6 @@
 # andrewnicols/moodle-atto_htmlplus - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5 | 9 | 
 | 2022-10-12 | 5 | 9 | 
 | 2022-10-10 | 5 | 9 | 
 | 2022-10-09 | 5 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 5 | 9 | 
 | 2022-09-14 | 5 | 9 | 
 | 2022-09-13 | 5 | 9 | 
-| 2022-09-12 | 5 | 9 | 
 

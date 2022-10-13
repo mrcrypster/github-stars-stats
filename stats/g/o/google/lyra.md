@@ -1,10 +1,10 @@
 # google/lyra - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 303
+☋ Forks: 304
 
-★ Stars: 3363
+★ Stars: 3369
 
 [Open repository](https://github.com/google/lyra)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 3369 | 304 | 
 | 2022-10-11 | 3363 | 303 | 
 | 2022-10-10 | 3359 | 302 | 
 | 2022-10-09 | 3354 | 301 | 

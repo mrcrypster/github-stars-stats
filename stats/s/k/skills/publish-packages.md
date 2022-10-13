@@ -1,10 +1,10 @@
 # skills/publish-packages - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/skills/publish-packages)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 94 | 12 | 
 | 2022-10-11 | 93 | 11 | 
 | 2022-10-10 | 93 | 11 | 
 | 2022-10-09 | 93 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 86 | 11 | 
 | 2022-09-14 | 86 | 11 | 
 | 2022-09-13 | 86 | 11 | 
-| 2022-09-12 | 85 | 10 | 
 

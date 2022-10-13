@@ -1,10 +1,10 @@
 # krystal1110/MOView - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 41
+★ Stars: 43
 
 [Open repository](https://github.com/krystal1110/MOView)
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-12 | 41 | 7 | 
+| 2022-10-13 | 43 | 8 | 
+| 2022-10-12 | 43 | 8 | 
 | 2022-10-11 | 39 | 7 | 
 | 2022-10-10 | 30 | 4 | 
 

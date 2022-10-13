@@ -1,8 +1,8 @@
 # near/near-sdk-rs - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 165
+☋ Forks: 164
 
 ★ Stars: 360
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 360 | 164 | 
 | 2022-10-12 | 360 | 165 | 
 | 2022-10-11 | 359 | 165 | 
 | 2022-10-10 | 358 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 354 | 157 | 
 | 2022-09-14 | 354 | 157 | 
 | 2022-09-13 | 354 | 157 | 
-| 2022-09-12 | 353 | 156 | 
 

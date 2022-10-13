@@ -1,6 +1,6 @@
 # os-autoinst/openQA - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 248 | 180 | 
 | 2022-10-11 | 248 | 180 | 
 | 2022-10-10 | 248 | 180 | 
 | 2022-10-09 | 248 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 242 | 176 | 
 | 2022-09-14 | 242 | 176 | 
 | 2022-09-13 | 242 | 176 | 
-| 2022-09-12 | 242 | 176 | 
 

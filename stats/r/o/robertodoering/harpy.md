@@ -1,10 +1,10 @@
 # robertodoering/harpy - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 155
 
-★ Stars: 1540
+★ Stars: 1542
 
 [Open repository](https://github.com/robertodoering/harpy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1542 | 155 | 
 | 2022-10-11 | 1540 | 155 | 
 | 2022-10-10 | 1538 | 155 | 
 | 2022-10-09 | 1537 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1495 | 143 | 
 | 2022-09-14 | 1494 | 143 | 
 | 2022-09-13 | 1492 | 143 | 
-| 2022-09-12 | 1493 | 143 | 
 

@@ -1,8 +1,8 @@
 # iamshaunjp/Complete-React-Tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 1162
+☋ Forks: 1164
 
 ★ Stars: 1044
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1044 | 1164 | 
 | 2022-10-11 | 1044 | 1162 | 
 | 2022-10-10 | 1042 | 1160 | 
 | 2022-10-09 | 1039 | 1158 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 1001 | 1122 | 
 | 2022-09-14 | 999 | 1122 | 
 | 2022-09-13 | 998 | 1120 | 
-| 2022-09-12 | 996 | 1119 | 
 

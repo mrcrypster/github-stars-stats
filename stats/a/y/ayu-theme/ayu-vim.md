@@ -1,10 +1,10 @@
 # ayu-theme/ayu-vim - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 172
 
-★ Stars: 1474
+★ Stars: 1478
 
 [Open repository](https://github.com/ayu-theme/ayu-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1478 | 172 | 
 | 2022-10-11 | 1474 | 172 | 
 | 2022-10-10 | 1474 | 172 | 
 | 2022-10-09 | 1474 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1463 | 169 | 
 | 2022-09-14 | 1464 | 169 | 
 | 2022-09-13 | 1463 | 169 | 
-| 2022-09-12 | 1462 | 169 | 
 

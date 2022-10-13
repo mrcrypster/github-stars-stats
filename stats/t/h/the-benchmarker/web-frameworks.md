@@ -1,10 +1,10 @@
 # the-benchmarker/web-frameworks - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 576
+☋ Forks: 577
 
-★ Stars: 6476
+★ Stars: 6477
 
 [Open repository](https://github.com/the-benchmarker/web-frameworks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 6477 | 577 | 
 | 2022-10-11 | 6476 | 576 | 
 | 2022-10-10 | 6474 | 575 | 
 | 2022-10-09 | 6472 | 575 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 6453 | 575 | 
 | 2022-09-14 | 6452 | 575 | 
 | 2022-09-13 | 6451 | 575 | 
-| 2022-09-12 | 6449 | 575 | 
 

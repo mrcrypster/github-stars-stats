@@ -1,6 +1,6 @@
 # puppetlabs/puppetdb - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 228
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 281 | 228 | 
 | 2022-10-11 | 281 | 228 | 
 | 2022-10-10 | 281 | 228 | 
 | 2022-10-09 | 281 | 228 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 280 | 228 | 
 | 2022-09-14 | 280 | 228 | 
 | 2022-09-13 | 280 | 228 | 
-| 2022-09-12 | 280 | 228 | 
 

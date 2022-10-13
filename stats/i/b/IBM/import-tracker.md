@@ -1,6 +1,6 @@
 # IBM/import-tracker - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 447 | 9 | 
 | 2022-10-11 | 447 | 9 | 
 | 2022-10-10 | 446 | 9 | 
 | 2022-10-09 | 446 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 446 | 9 | 
 | 2022-09-14 | 446 | 9 | 
 | 2022-09-13 | 446 | 9 | 
-| 2022-09-12 | 445 | 9 | 
 

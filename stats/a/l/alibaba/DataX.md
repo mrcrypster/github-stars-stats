@@ -1,10 +1,10 @@
 # alibaba/DataX - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 4358
+☋ Forks: 4365
 
-★ Stars: 12080
+★ Stars: 12091
 
 [Open repository](https://github.com/alibaba/DataX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 12091 | 4365 | 
 | 2022-10-11 | 12080 | 4358 | 
 | 2022-10-10 | 12073 | 4355 | 
 | 2022-10-09 | 12073 | 4355 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 11956 | 4329 | 
 | 2022-09-14 | 11949 | 4322 | 
 | 2022-09-13 | 11941 | 4320 | 
-| 2022-09-12 | 11932 | 4320 | 
 

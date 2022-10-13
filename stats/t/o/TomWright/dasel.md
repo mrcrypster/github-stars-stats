@@ -1,10 +1,10 @@
 # TomWright/dasel - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 83
 
-★ Stars: 3700
+★ Stars: 3706
 
 [Open repository](https://github.com/TomWright/dasel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 3706 | 83 | 
 | 2022-10-11 | 3700 | 83 | 
 | 2022-10-10 | 3696 | 83 | 
 | 2022-10-09 | 3694 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 3616 | 84 | 
 | 2022-09-14 | 3616 | 84 | 
 | 2022-09-13 | 3612 | 84 | 
-| 2022-09-12 | 3608 | 84 | 
 

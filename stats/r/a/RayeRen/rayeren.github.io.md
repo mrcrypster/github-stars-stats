@@ -1,8 +1,8 @@
 # RayeRen/rayeren.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 28
+☋ Forks: 27
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 10 | 27 | 
 | 2022-10-11 | 10 | 28 | 
 | 2022-10-10 | 10 | 27 | 
 | 2022-10-09 | 10 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 9 | 17 | 
 | 2022-09-15 | 9 | 17 | 
 | 2022-09-14 | 9 | 17 | 
-| 2022-09-13 | 9 | 18 | 
 

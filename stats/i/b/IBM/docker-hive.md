@@ -1,10 +1,10 @@
 # IBM/docker-hive - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 32
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/IBM/docker-hive)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 55 | 32 | 
 | 2022-10-11 | 53 | 32 | 
 | 2022-10-10 | 53 | 32 | 
 | 2022-10-09 | 53 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 53 | 32 | 
 | 2022-09-14 | 53 | 32 | 
 | 2022-09-13 | 53 | 32 | 
-| 2022-09-12 | 53 | 32 | 
 

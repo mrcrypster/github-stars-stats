@@ -1,10 +1,10 @@
 # pocketbase/pocketbase - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 494
+☋ Forks: 496
 
-★ Stars: 14702
+★ Stars: 14744
 
 [Open repository](https://github.com/pocketbase/pocketbase)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 14744 | 496 | 
 | 2022-10-11 | 14702 | 494 | 
 | 2022-10-10 | 14665 | 493 | 
 | 2022-10-09 | 14621 | 492 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 12506 | 400 | 
 | 2022-09-14 | 11935 | 384 | 
 | 2022-09-13 | 10143 | 338 | 
-| 2022-09-12 | 10125 | 334 | 
 

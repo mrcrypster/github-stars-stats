@@ -1,6 +1,6 @@
 # brianmario/mysql2 - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 530
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2172 | 530 | 
 | 2022-10-11 | 2172 | 530 | 
 | 2022-10-10 | 2172 | 530 | 
 | 2022-10-09 | 2172 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 2168 | 527 | 
 | 2022-09-14 | 2168 | 527 | 
 | 2022-09-13 | 2168 | 527 | 
-| 2022-09-12 | 2168 | 526 | 
 

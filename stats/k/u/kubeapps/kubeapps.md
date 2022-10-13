@@ -1,10 +1,10 @@
 # kubeapps/kubeapps - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 667
 
-★ Stars: 4347
+★ Stars: 4351
 
 [Open repository](https://github.com/kubeapps/kubeapps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 4351 | 667 | 
 | 2022-10-11 | 4347 | 667 | 
 | 2022-10-10 | 4346 | 666 | 
 | 2022-10-09 | 4344 | 666 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 4278 | 663 | 
 | 2022-09-14 | 4274 | 663 | 
 | 2022-09-13 | 4263 | 661 | 
-| 2022-09-12 | 4241 | 661 | 
 

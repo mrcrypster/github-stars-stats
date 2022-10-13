@@ -1,10 +1,10 @@
 # Ajmal-Achu/Wizard-MD - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 888
+☋ Forks: 907
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/Ajmal-Achu/Wizard-MD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 35 | 907 | 
 | 2022-10-11 | 33 | 888 | 
 | 2022-10-10 | 32 | 873 | 
 | 2022-10-09 | 32 | 854 | 

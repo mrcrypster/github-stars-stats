@@ -1,8 +1,8 @@
 # MuhamadMtrosymuhamad/RDP-FREE-WINDOWS - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 818
+☋ Forks: 823
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 13 | 823 | 
 | 2022-10-11 | 13 | 818 | 
 | 2022-10-10 | 13 | 809 | 
 | 2022-10-09 | 13 | 799 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 10 | 548 | 
 | 2022-09-14 | 10 | 537 | 
 | 2022-09-13 | 10 | 536 | 
-| 2022-09-12 | 10 | 524 | 
 

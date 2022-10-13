@@ -1,6 +1,6 @@
 # PacktPublishing/Kubernetes---An-Enterprise-Guide-2E - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 68 | 65 | 
 | 2022-10-12 | 68 | 65 | 
 | 2022-10-11 | 68 | 65 | 
 | 2022-10-10 | 68 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 67 | 61 | 
 | 2022-09-14 | 67 | 61 | 
 | 2022-09-13 | 67 | 61 | 
-| 2022-09-12 | 67 | 61 | 
 

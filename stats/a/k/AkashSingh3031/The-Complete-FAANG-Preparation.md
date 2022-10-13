@@ -1,10 +1,10 @@
 # AkashSingh3031/The-Complete-FAANG-Preparation - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1959
 
-★ Stars: 8253
+★ Stars: 8258
 
 [Open repository](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 8258 | 1959 | 
 | 2022-10-11 | 8253 | 1959 | 
 | 2022-10-10 | 8251 | 1959 | 
 | 2022-10-09 | 8250 | 1958 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 8192 | 1943 | 
 | 2022-09-14 | 8188 | 1941 | 
 | 2022-09-13 | 8183 | 1939 | 
-| 2022-09-12 | 8182 | 1938 | 
 

@@ -1,6 +1,6 @@
 # desktop-app/cmake_helpers - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 47 | 43 | 
 | 2022-10-12 | 47 | 43 | 
 | 2022-10-10 | 47 | 43 | 
 | 2022-10-09 | 47 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 46 | 43 | 
 | 2022-09-14 | 46 | 43 | 
 | 2022-09-13 | 46 | 43 | 
-| 2022-09-12 | 46 | 43 | 
 

@@ -1,8 +1,8 @@
 # Karxii/kz-framework-qbus-3.5 - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 28 | 42 | 
 | 2022-10-11 | 28 | 41 | 
 | 2022-10-10 | 28 | 41 | 
 | 2022-10-09 | 28 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 29 | 39 | 
 | 2022-09-15 | 29 | 39 | 
 | 2022-09-14 | 29 | 39 | 
-| 2022-09-12 | 29 | 39 | 
 

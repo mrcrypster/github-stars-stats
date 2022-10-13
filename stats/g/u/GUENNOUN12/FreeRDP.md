@@ -1,8 +1,8 @@
 # GUENNOUN12/FreeRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 3 | 111 | 
 | 2022-10-11 | 3 | 110 | 
 | 2022-10-10 | 3 | 109 | 
 | 2022-10-09 | 3 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 2 | 89 | 
 | 2022-09-15 | 2 | 89 | 
 | 2022-09-13 | 2 | 90 | 
-| 2022-09-12 | 2 | 89 | 
 

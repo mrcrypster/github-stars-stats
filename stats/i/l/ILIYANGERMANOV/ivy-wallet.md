@@ -1,10 +1,10 @@
 # ILIYANGERMANOV/ivy-wallet - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 114
 
-★ Stars: 552
+★ Stars: 554
 
 [Open repository](https://github.com/ILIYANGERMANOV/ivy-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 554 | 114 | 
 | 2022-10-11 | 552 | 114 | 
 | 2022-10-10 | 549 | 114 | 
 | 2022-10-09 | 549 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 493 | 98 | 
 | 2022-09-14 | 489 | 98 | 
 | 2022-09-13 | 489 | 98 | 
-| 2022-09-12 | 487 | 98 | 
 

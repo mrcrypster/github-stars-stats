@@ -1,8 +1,8 @@
 # coding-boot-camp/urban-octo-telegram - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 376
+☋ Forks: 377
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 31 | 377 | 
 | 2022-10-11 | 31 | 376 | 
 | 2022-10-10 | 31 | 374 | 
 | 2022-10-09 | 31 | 374 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 30 | 366 | 
 | 2022-09-14 | 30 | 366 | 
 | 2022-09-13 | 28 | 366 | 
-| 2022-09-12 | 28 | 366 | 
 

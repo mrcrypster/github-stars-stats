@@ -1,10 +1,10 @@
 # stateless-minds/cyber-stasis - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 1
 
-★ Stars: 86
+★ Stars: 88
 
 [Open repository](https://github.com/stateless-minds/cyber-stasis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 88 | 1 | 
 | 2022-10-11 | 86 | 1 | 
 | 2022-10-10 | 85 | 1 | 
 | 2022-10-09 | 85 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 84 | 1 | 
 | 2022-09-15 | 84 | 1 | 
 | 2022-09-14 | 84 | 1 | 
-| 2022-09-13 | 84 | 1 | 
 

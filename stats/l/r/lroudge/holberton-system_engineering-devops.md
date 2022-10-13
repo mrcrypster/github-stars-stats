@@ -1,10 +1,10 @@
 # lroudge/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 404
+☋ Forks: 402
 
-★ Stars: 154
+★ Stars: 153
 
 [Open repository](https://github.com/lroudge/holberton-system_engineering-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 153 | 402 | 
 | 2022-10-11 | 154 | 404 | 
 | 2022-10-10 | 151 | 390 | 
 | 2022-10-09 | 150 | 386 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 128 | 360 | 
 | 2022-09-14 | 129 | 361 | 
 | 2022-09-13 | 128 | 361 | 
-| 2022-09-12 | 128 | 361 | 
 

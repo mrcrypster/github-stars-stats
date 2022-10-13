@@ -1,10 +1,10 @@
 # MinaProtocol/mina - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 328
+☋ Forks: 327
 
-★ Stars: 1548
+★ Stars: 1550
 
 [Open repository](https://github.com/MinaProtocol/mina)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1550 | 327 | 
 | 2022-10-11 | 1548 | 328 | 
 | 2022-10-10 | 1547 | 327 | 
 | 2022-10-09 | 1547 | 327 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1524 | 325 | 
 | 2022-09-14 | 1523 | 324 | 
 | 2022-09-13 | 1522 | 324 | 
-| 2022-09-12 | 1522 | 324 | 
 

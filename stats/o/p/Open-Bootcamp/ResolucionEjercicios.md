@@ -1,6 +1,6 @@
 # Open-Bootcamp/ResolucionEjercicios - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 104 | 128 | 
 | 2022-10-11 | 104 | 128 | 
 | 2022-10-10 | 104 | 126 | 
 | 2022-10-09 | 104 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 90 | 111 | 
 | 2022-09-14 | 89 | 109 | 
 | 2022-09-13 | 89 | 107 | 
-| 2022-09-12 | 89 | 107 | 
 

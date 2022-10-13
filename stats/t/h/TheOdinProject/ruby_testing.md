@@ -1,8 +1,8 @@
 # TheOdinProject/ruby_testing - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 109
+☋ Forks: 110
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 15 | 110 | 
 | 2022-10-11 | 15 | 109 | 
 | 2022-10-10 | 15 | 109 | 
 | 2022-10-09 | 15 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 16 | 103 | 
 | 2022-09-14 | 16 | 102 | 
 | 2022-09-13 | 16 | 101 | 
-| 2022-09-12 | 16 | 100 | 
 

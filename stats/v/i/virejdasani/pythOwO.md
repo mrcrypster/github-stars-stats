@@ -1,6 +1,6 @@
 # virejdasani/pythOwO - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 637 | 40 | 
 | 2022-10-12 | 637 | 40 | 
 | 2022-10-11 | 637 | 42 | 
 | 2022-10-10 | 635 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 604 | 31 | 
 | 2022-09-14 | 604 | 31 | 
 | 2022-09-13 | 604 | 31 | 
-| 2022-09-12 | 602 | 31 | 
 

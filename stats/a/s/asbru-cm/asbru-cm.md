@@ -1,10 +1,10 @@
 # asbru-cm/asbru-cm - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 117
 
-★ Stars: 772
+★ Stars: 773
 
 [Open repository](https://github.com/asbru-cm/asbru-cm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 773 | 117 | 
 | 2022-10-12 | 772 | 117 | 
 | 2022-10-11 | 772 | 117 | 
 | 2022-10-10 | 772 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 764 | 117 | 
 | 2022-09-14 | 763 | 117 | 
 | 2022-09-13 | 763 | 117 | 
-| 2022-09-12 | 762 | 117 | 
 

@@ -1,8 +1,8 @@
 # getsentry/sentry-java - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 388
+☋ Forks: 387
 
 ★ Stars: 883
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 883 | 387 | 
 | 2022-10-11 | 883 | 388 | 
 | 2022-10-10 | 883 | 388 | 
 | 2022-10-09 | 883 | 388 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 873 | 384 | 
 | 2022-09-14 | 873 | 384 | 
 | 2022-09-13 | 873 | 384 | 
-| 2022-09-12 | 873 | 384 | 
 

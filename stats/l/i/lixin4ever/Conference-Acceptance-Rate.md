@@ -1,10 +1,10 @@
 # lixin4ever/Conference-Acceptance-Rate - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 239
+☋ Forks: 241
 
-★ Stars: 2630
+★ Stars: 2644
 
 [Open repository](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 2644 | 241 | 
 | 2022-10-11 | 2630 | 239 | 
 | 2022-10-10 | 2629 | 238 | 
 | 2022-10-09 | 2626 | 238 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-16 | 2582 | 238 | 
 | 2022-09-15 | 2567 | 237 | 
 | 2022-09-14 | 2566 | 238 | 
-| 2022-09-13 | 2564 | 238 | 
 

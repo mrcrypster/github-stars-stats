@@ -1,10 +1,10 @@
 # JuliaComputing/MultiDocumenter.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/JuliaComputing/MultiDocumenter.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 43 | 2 | 
 | 2022-10-12 | 42 | 1 | 
 | 2022-10-11 | 42 | 1 | 
 | 2022-10-10 | 42 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 42 | 1 | 
 | 2022-09-14 | 42 | 1 | 
 | 2022-09-13 | 42 | 1 | 
-| 2022-09-12 | 42 | 1 | 
 

@@ -1,8 +1,8 @@
 # letsgamedev/Suffragium - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 21
+☋ Forks: 20
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 57 | 20 | 
 | 2022-10-12 | 57 | 21 | 
 | 2022-10-11 | 57 | 21 | 
 | 2022-10-10 | 57 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 54 | 18 | 
 | 2022-09-14 | 54 | 18 | 
 | 2022-09-13 | 54 | 18 | 
-| 2022-09-12 | 54 | 18 | 
 

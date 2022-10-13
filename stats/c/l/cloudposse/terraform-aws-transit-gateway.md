@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-transit-gateway - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 35 | 41 | 
 | 2022-10-12 | 35 | 41 | 
 | 2022-10-10 | 34 | 41 | 
 | 2022-10-09 | 34 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 33 | 39 | 
 | 2022-09-14 | 33 | 39 | 
 | 2022-09-13 | 33 | 39 | 
-| 2022-09-12 | 33 | 39 | 
 

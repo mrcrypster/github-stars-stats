@@ -1,6 +1,6 @@
 # slevomat/coding-standard - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1167 | 150 | 
 | 2022-10-12 | 1167 | 150 | 
 | 2022-10-11 | 1167 | 149 | 
 | 2022-10-10 | 1166 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-15 | 1158 | 147 | 
 | 2022-09-14 | 1158 | 147 | 
 | 2022-09-13 | 1158 | 147 | 
-| 2022-09-12 | 1158 | 147 | 
 

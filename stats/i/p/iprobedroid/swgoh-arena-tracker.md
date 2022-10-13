@@ -1,6 +1,6 @@
 # iprobedroid/swgoh-arena-tracker - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 165
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 43 | 165 | 
 | 2022-10-11 | 43 | 165 | 
 | 2022-10-10 | 43 | 165 | 
 | 2022-10-09 | 43 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 43 | 162 | 
 | 2022-09-14 | 43 | 162 | 
 | 2022-09-13 | 42 | 160 | 
-| 2022-09-12 | 42 | 159 | 
 

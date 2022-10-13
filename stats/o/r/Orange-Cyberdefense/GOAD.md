@@ -1,10 +1,10 @@
 # Orange-Cyberdefense/GOAD - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 151
+☋ Forks: 153
 
-★ Stars: 1212
+★ Stars: 1214
 
 [Open repository](https://github.com/Orange-Cyberdefense/GOAD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 1214 | 153 | 
 | 2022-10-11 | 1212 | 151 | 
 | 2022-10-10 | 1210 | 151 | 
 | 2022-10-09 | 1209 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 1133 | 137 | 
 | 2022-09-14 | 1131 | 136 | 
 | 2022-09-13 | 1129 | 136 | 
-| 2022-09-12 | 1128 | 136 | 
 

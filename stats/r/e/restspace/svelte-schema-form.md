@@ -1,10 +1,10 @@
 # restspace/svelte-schema-form - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/restspace/svelte-schema-form)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 16 | 2 | 
 | 2022-10-11 | 15 | 1 | 
 | 2022-10-10 | 15 | 1 | 
 | 2022-10-09 | 15 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 14 | - | 
 | 2022-09-14 | 14 | - | 
 | 2022-09-13 | 14 | - | 
-| 2022-09-12 | 14 | - | 
 

@@ -1,6 +1,6 @@
 # lambdaclass/throttle - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 40 | 14 | 
 | 2022-10-11 | 40 | 14 | 
 | 2022-10-10 | 40 | 14 | 
 | 2022-10-09 | 40 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 40 | 14 | 
 | 2022-09-14 | 40 | 14 | 
 | 2022-09-13 | 40 | 14 | 
-| 2022-09-12 | 40 | 14 | 
 

@@ -1,10 +1,10 @@
 # NVIDIA/nccl-tests - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 121
 
-★ Stars: 296
+★ Stars: 299
 
 [Open repository](https://github.com/NVIDIA/nccl-tests)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 299 | 121 | 
 | 2022-10-11 | 296 | 121 | 
 | 2022-10-10 | 296 | 120 | 
 | 2022-10-09 | 296 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 291 | 117 | 
 | 2022-09-14 | 291 | 116 | 
 | 2022-09-13 | 291 | 116 | 
-| 2022-09-12 | 291 | 116 | 
 

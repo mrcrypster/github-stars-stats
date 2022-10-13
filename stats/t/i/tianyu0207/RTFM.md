@@ -1,10 +1,10 @@
 # tianyu0207/RTFM - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
 ☋ Forks: 54
 
-★ Stars: 223
+★ Stars: 225
 
 [Open repository](https://github.com/tianyu0207/RTFM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 225 | 54 | 
 | 2022-10-11 | 223 | 54 | 
 | 2022-10-10 | 223 | 54 | 
 | 2022-10-09 | 222 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 217 | 50 | 
 | 2022-09-14 | 217 | 50 | 
 | 2022-09-13 | 217 | 50 | 
-| 2022-09-12 | 217 | 50 | 
 

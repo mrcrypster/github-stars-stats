@@ -1,8 +1,8 @@
 # bigbluebutton/greenlight - stars & forks statistics
 
-Stats updated on Oct 2022, 11
+Stats updated on Oct 2022, 12
 
-☋ Forks: 3782
+☋ Forks: 3781
 
 ★ Stars: 700
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-12 | 700 | 3781 | 
 | 2022-10-11 | 700 | 3782 | 
 | 2022-10-10 | 699 | 3782 | 
 | 2022-10-09 | 699 | 3783 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 11
 | 2022-09-15 | 696 | 3780 | 
 | 2022-09-14 | 696 | 3780 | 
 | 2022-09-13 | 695 | 3780 | 
-| 2022-09-12 | 695 | 3778 | 
 
