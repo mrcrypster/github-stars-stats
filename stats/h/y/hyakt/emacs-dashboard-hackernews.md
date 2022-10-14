@@ -1,10 +1,10 @@
 # hyakt/emacs-dashboard-hackernews - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 4
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/hyakt/emacs-dashboard-hackernews)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 12 | 4 | 
 | 2022-10-12 | 11 | 4 | 
 | 2022-10-11 | 11 | 4 | 
 | 2022-10-10 | 11 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 11 | 4 | 
 | 2022-09-15 | 11 | 4 | 
 | 2022-09-14 | 11 | 4 | 
-| 2022-09-13 | 11 | 4 | 
 

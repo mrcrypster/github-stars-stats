@@ -1,10 +1,10 @@
 # neineit/ICE_TEA_BIOS - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 161
+☋ Forks: 170
 
-★ Stars: 99
+★ Stars: 123
 
 [Open repository](https://github.com/neineit/ICE_TEA_BIOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 123 | 170 | 
 | 2022-10-12 | 99 | 161 | 
 | 2022-10-11 | 71 | 141 | 
 

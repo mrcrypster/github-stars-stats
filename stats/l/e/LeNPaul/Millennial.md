@@ -1,10 +1,10 @@
 # LeNPaul/Millennial - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 652
+☋ Forks: 653
 
-★ Stars: 330
+★ Stars: 332
 
 [Open repository](https://github.com/LeNPaul/Millennial)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 332 | 653 | 
 | 2022-10-12 | 330 | 652 | 
 | 2022-10-11 | 330 | 652 | 
 | 2022-10-10 | 330 | 651 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 329 | 629 | 
 | 2022-09-15 | 328 | 628 | 
 | 2022-09-14 | 327 | 628 | 
-| 2022-09-13 | 327 | 629 | 
 

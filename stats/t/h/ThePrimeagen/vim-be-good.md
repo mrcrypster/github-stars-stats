@@ -1,6 +1,6 @@
 # ThePrimeagen/vim-be-good - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 841 | 39 | 
 | 2022-10-12 | 841 | 39 | 
 | 2022-10-11 | 835 | 39 | 
 | 2022-10-10 | 834 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 761 | 35 | 
 | 2022-09-15 | 759 | 34 | 
 | 2022-09-14 | 753 | 34 | 
-| 2022-09-13 | 751 | 34 | 
 

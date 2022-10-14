@@ -1,10 +1,10 @@
 # dangiu/PicoMemcard - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 17
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/dangiu/PicoMemcard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 256 | 17 | 
 | 2022-10-12 | 255 | 17 | 
 | 2022-10-11 | 251 | 17 | 
 | 2022-10-10 | 251 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 238 | 17 | 
 | 2022-09-15 | 237 | 17 | 
 | 2022-09-14 | 237 | 17 | 
-| 2022-09-13 | 236 | 17 | 
 

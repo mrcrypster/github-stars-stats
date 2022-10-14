@@ -1,6 +1,6 @@
 # c-ehrlich/m3teor - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 17 | - | 
 | 2022-10-12 | 17 | - | 
 | 2022-10-11 | 17 | - | 
 | 2022-10-10 | 17 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 16 | - | 
 | 2022-09-15 | 15 | - | 
 | 2022-09-14 | 15 | - | 
-| 2022-09-13 | 14 | - | 
 

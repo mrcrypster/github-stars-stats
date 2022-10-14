@@ -1,10 +1,10 @@
 # rbenv/rbenv - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1378
+☋ Forks: 1379
 
-★ Stars: 14434
+★ Stars: 14435
 
 [Open repository](https://github.com/rbenv/rbenv)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 14435 | 1379 | 
 | 2022-10-12 | 14434 | 1378 | 
 | 2022-10-11 | 14431 | 1378 | 
 | 2022-10-10 | 14427 | 1378 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 14391 | 1374 | 
 | 2022-09-15 | 14389 | 1374 | 
 | 2022-09-14 | 14388 | 1374 | 
-| 2022-09-13 | 14387 | 1374 | 
 

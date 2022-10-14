@@ -1,10 +1,10 @@
 # nibbula/lish - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 6
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/nibbula/lish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 61 | 6 | 
 | 2022-10-12 | 60 | 6 | 
 | 2022-10-11 | 60 | 6 | 
 | 2022-10-10 | 60 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 60 | 6 | 
 | 2022-09-16 | 60 | 6 | 
 | 2022-09-15 | 60 | 6 | 
-| 2022-09-14 | 60 | 6 | 
 

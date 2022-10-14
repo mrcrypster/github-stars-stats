@@ -1,10 +1,10 @@
 # joeyballentine/chaiNNer - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 55
+☋ Forks: 57
 
-★ Stars: 761
+★ Stars: 764
 
 [Open repository](https://github.com/joeyballentine/chaiNNer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 764 | 57 | 
 | 2022-10-12 | 761 | 55 | 
 | 2022-10-11 | 752 | 54 | 
 | 2022-10-10 | 744 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 609 | 44 | 
 | 2022-09-15 | 572 | 41 | 
 | 2022-09-14 | 535 | 40 | 
-| 2022-09-13 | 488 | 37 | 
 

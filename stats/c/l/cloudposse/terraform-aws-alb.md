@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-alb - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 78 | 103 | 
 | 2022-10-12 | 78 | 103 | 
 | 2022-10-11 | 78 | 103 | 
 | 2022-10-10 | 78 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 77 | 101 | 
 | 2022-09-15 | 77 | 101 | 
 | 2022-09-14 | 77 | 101 | 
-| 2022-09-13 | 77 | 100 | 
 

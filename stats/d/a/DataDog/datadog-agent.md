@@ -1,10 +1,10 @@
 # DataDog/datadog-agent - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 930
+☋ Forks: 932
 
-★ Stars: 1846
+★ Stars: 1847
 
 [Open repository](https://github.com/DataDog/datadog-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1847 | 932 | 
 | 2022-10-12 | 1846 | 930 | 
 | 2022-10-11 | 1845 | 929 | 
 | 2022-10-10 | 1845 | 927 | 

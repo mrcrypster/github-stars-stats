@@ -1,10 +1,10 @@
 # selierlin/Share-SSR-V2ray - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1048
+☋ Forks: 1049
 
-★ Stars: 6941
+★ Stars: 6944
 
 [Open repository](https://github.com/selierlin/Share-SSR-V2ray)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 6944 | 1049 | 
 | 2022-10-12 | 6941 | 1048 | 
 | 2022-10-11 | 6939 | 1048 | 
 | 2022-10-10 | 6936 | 1048 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 6891 | 1038 | 
 | 2022-09-16 | 6888 | 1038 | 
 | 2022-09-15 | 6886 | 1038 | 
-| 2022-09-14 | 6883 | 1038 | 
 

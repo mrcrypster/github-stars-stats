@@ -1,10 +1,10 @@
 # mokevnin/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 77
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/mokevnin/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 343 | 77 | 
 | 2022-10-12 | 342 | 77 | 
 | 2022-10-11 | 342 | 77 | 
 | 2022-10-10 | 342 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 333 | 75 | 
 | 2022-09-15 | 332 | 75 | 
 | 2022-09-14 | 332 | 75 | 
-| 2022-09-13 | 331 | 75 | 
 

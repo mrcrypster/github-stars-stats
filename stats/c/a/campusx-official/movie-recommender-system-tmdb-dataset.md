@@ -1,8 +1,8 @@
 # campusx-official/movie-recommender-system-tmdb-dataset - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 102
+☋ Forks: 104
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 58 | 104 | 
 | 2022-10-12 | 58 | 102 | 
 | 2022-10-11 | 58 | 102 | 
 | 2022-10-10 | 58 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 55 | 88 | 
 | 2022-09-16 | 55 | 89 | 
 | 2022-09-14 | 55 | 89 | 
-| 2022-09-13 | 55 | 89 | 
 

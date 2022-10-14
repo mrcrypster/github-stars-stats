@@ -1,10 +1,10 @@
 # microsoft/react-native-windows - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 1097
+☋ Forks: 1098
 
-★ Stars: 15001
+★ Stars: 15002
 
 [Open repository](https://github.com/microsoft/react-native-windows)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 15002 | 1098 | 
 | 2022-10-13 | 15001 | 1097 | 
 | 2022-10-12 | 14998 | 1097 | 
 | 2022-10-11 | 14994 | 1097 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 14963 | 1090 | 
 | 2022-09-15 | 14961 | 1090 | 
 | 2022-09-14 | 14959 | 1090 | 
-| 2022-09-13 | 14959 | 1090 | 
 

@@ -1,6 +1,6 @@
 # upenn-cis5520/03-trees - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | - | 17 | 
 | 2022-10-12 | - | 17 | 
 | 2022-10-11 | - | 17 | 
 | 2022-10-10 | - | 17 | 

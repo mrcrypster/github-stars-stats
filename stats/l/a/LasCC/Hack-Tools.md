@@ -1,10 +1,10 @@
 # LasCC/Hack-Tools - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 435
+☋ Forks: 436
 
-★ Stars: 3720
+★ Stars: 3724
 
 [Open repository](https://github.com/LasCC/Hack-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3724 | 436 | 
 | 2022-10-12 | 3720 | 435 | 
 | 2022-10-11 | 3718 | 435 | 
 | 2022-10-10 | 3715 | 435 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3671 | 429 | 
 | 2022-09-15 | 3668 | 429 | 
 | 2022-09-14 | 3667 | 429 | 
-| 2022-09-13 | 3665 | 429 | 
 

@@ -1,10 +1,10 @@
 # JuliaArrays/ArrayInterface.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 28
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/JuliaArrays/ArrayInterface.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 112 | 28 | 
 | 2022-10-13 | 111 | 28 | 
 | 2022-10-12 | 111 | 28 | 
 | 2022-10-11 | 111 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 111 | 27 | 
 | 2022-09-15 | 111 | 27 | 
 | 2022-09-14 | 111 | 27 | 
-| 2022-09-13 | 111 | 27 | 
 

@@ -1,6 +1,6 @@
 # djdallmann/GamingPCSetup - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 357 | 82 | 
 | 2022-10-12 | 357 | 82 | 
 | 2022-10-11 | 357 | 82 | 
 | 2022-10-10 | 357 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 344 | 80 | 
 | 2022-09-15 | 345 | 79 | 
 | 2022-09-14 | 345 | 79 | 
-| 2022-09-13 | 345 | 79 | 
 

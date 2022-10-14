@@ -1,6 +1,6 @@
 # fongandrew/hydeout - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 723
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 539 | 723 | 
 | 2022-10-12 | 539 | 723 | 
 | 2022-10-11 | 538 | 722 | 
 | 2022-10-10 | 537 | 722 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 535 | 724 | 
 | 2022-09-15 | 535 | 723 | 
 | 2022-09-14 | 535 | 723 | 
-| 2022-09-13 | 535 | 723 | 
 

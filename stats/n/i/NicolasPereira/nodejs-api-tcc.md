@@ -1,6 +1,6 @@
 # NicolasPereira/nodejs-api-tcc - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 59 | 4 | 
 | 2022-10-13 | 59 | 4 | 
 | 2022-10-12 | 60 | 4 | 
 | 2022-10-10 | 60 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 57 | 3 | 
 | 2022-09-15 | 57 | 3 | 
 | 2022-09-14 | 57 | 3 | 
-| 2022-09-13 | 57 | 3 | 
 

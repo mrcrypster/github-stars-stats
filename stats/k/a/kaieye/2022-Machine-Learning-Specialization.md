@@ -1,10 +1,10 @@
 # kaieye/2022-Machine-Learning-Specialization - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 345
+☋ Forks: 348
 
-★ Stars: 710
+★ Stars: 720
 
 [Open repository](https://github.com/kaieye/2022-Machine-Learning-Specialization)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 720 | 348 | 
 | 2022-10-12 | 710 | 345 | 
 | 2022-10-11 | 706 | 346 | 
 | 2022-10-10 | 685 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 542 | 253 | 
 | 2022-09-15 | 535 | 249 | 
 | 2022-09-14 | 533 | 246 | 
-| 2022-09-13 | 528 | 244 | 
 

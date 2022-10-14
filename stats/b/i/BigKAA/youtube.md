@@ -1,8 +1,8 @@
 # BigKAA/youtube - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 51
+☋ Forks: 53
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 61 | 53 | 
 | 2022-10-12 | 61 | 51 | 
 | 2022-10-11 | 61 | 51 | 
 | 2022-10-10 | 61 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 61 | 47 | 
 | 2022-09-15 | 61 | 47 | 
 | 2022-09-14 | 61 | 47 | 
-| 2022-09-13 | 61 | 47 | 
 

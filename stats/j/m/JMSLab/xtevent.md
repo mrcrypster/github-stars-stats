@@ -1,6 +1,6 @@
 # JMSLab/xtevent - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 21 | 8 | 
 | 2022-10-12 | 21 | 8 | 
 | 2022-10-11 | 21 | 8 | 
 | 2022-10-10 | 21 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 20 | 8 | 
 | 2022-09-15 | 20 | 8 | 
 | 2022-09-14 | 20 | 8 | 
-| 2022-09-13 | 19 | 8 | 
 

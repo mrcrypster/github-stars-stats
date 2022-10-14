@@ -1,10 +1,10 @@
 # pytorch/fairseq - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 4914
+☋ Forks: 4913
 
-★ Stars: 19403
+★ Stars: 19420
 
 [Open repository](https://github.com/pytorch/fairseq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 19420 | 4913 | 
 | 2022-10-12 | 19403 | 4914 | 
 | 2022-10-11 | 19397 | 4903 | 
 | 2022-10-10 | 19387 | 4899 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 19180 | 4858 | 
 | 2022-09-15 | 19163 | 4857 | 
 | 2022-09-14 | 19155 | 4854 | 
-| 2022-09-13 | 19141 | 4852 | 
 

@@ -1,10 +1,10 @@
 # ReVancedTeam/revanced-documentation - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/ReVancedTeam/revanced-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 371 | 22 | 
 | 2022-10-12 | 370 | 21 | 
 | 2022-10-11 | 370 | 21 | 
 | 2022-10-10 | 368 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 350 | 17 | 
 | 2022-09-15 | 345 | 17 | 
 | 2022-09-14 | 342 | 17 | 
-| 2022-09-13 | 339 | 17 | 
 

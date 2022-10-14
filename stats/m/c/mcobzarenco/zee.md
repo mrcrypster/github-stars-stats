@@ -1,10 +1,10 @@
 # mcobzarenco/zee - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 24
 
-★ Stars: 1146
+★ Stars: 1145
 
 [Open repository](https://github.com/mcobzarenco/zee)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1145 | 24 | 
 | 2022-10-12 | 1146 | 24 | 
 | 2022-10-11 | 1146 | 24 | 
 | 2022-10-10 | 1146 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1126 | 22 | 
 | 2022-09-15 | 1125 | 22 | 
 | 2022-09-14 | 1126 | 22 | 
-| 2022-09-13 | 1126 | 22 | 
 

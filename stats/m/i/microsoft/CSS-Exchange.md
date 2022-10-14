@@ -1,6 +1,6 @@
 # microsoft/CSS-Exchange - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1065 | 259 | 
 | 2022-10-12 | 1065 | 259 | 
 | 2022-10-11 | 1065 | 261 | 
 | 2022-10-10 | 1065 | 258 | 

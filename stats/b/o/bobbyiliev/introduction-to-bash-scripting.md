@@ -1,10 +1,10 @@
 # bobbyiliev/introduction-to-bash-scripting - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 245
 
-★ Stars: 2151
+★ Stars: 2152
 
 [Open repository](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2152 | 245 | 
 | 2022-10-12 | 2151 | 245 | 
 | 2022-10-11 | 2151 | 244 | 
 | 2022-10-10 | 2149 | 243 | 

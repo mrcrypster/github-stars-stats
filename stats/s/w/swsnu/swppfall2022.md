@@ -1,6 +1,6 @@
 # swsnu/swppfall2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 34 | 8 | 
 | 2022-10-12 | 34 | 8 | 
 | 2022-10-11 | 34 | 8 | 
 | 2022-10-10 | 34 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 32 | 4 | 
 | 2022-09-15 | 32 | 4 | 
 | 2022-09-14 | 31 | 3 | 
-| 2022-09-13 | 32 | 3 | 
 

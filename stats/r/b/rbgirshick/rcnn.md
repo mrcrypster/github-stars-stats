@@ -1,8 +1,8 @@
 # rbgirshick/rcnn - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 984
+☋ Forks: 985
 
 ★ Stars: 2256
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2256 | 985 | 
 | 2022-10-12 | 2256 | 984 | 
 | 2022-10-11 | 2254 | 984 | 
 | 2022-10-10 | 2254 | 984 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2250 | 985 | 
 | 2022-09-15 | 2249 | 985 | 
 | 2022-09-14 | 2249 | 985 | 
-| 2022-09-13 | 2249 | 985 | 
 

@@ -1,10 +1,10 @@
 # salesagility/SuiteCRM - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1680
+☋ Forks: 1685
 
-★ Stars: 3141
+★ Stars: 3147
 
 [Open repository](https://github.com/salesagility/SuiteCRM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3147 | 1685 | 
 | 2022-10-12 | 3141 | 1680 | 
 | 2022-10-11 | 3139 | 1679 | 
 | 2022-10-10 | 3137 | 1679 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3103 | 1669 | 
 | 2022-09-15 | 3101 | 1668 | 
 | 2022-09-14 | 3101 | 1667 | 
-| 2022-09-13 | 3100 | 1666 | 
 

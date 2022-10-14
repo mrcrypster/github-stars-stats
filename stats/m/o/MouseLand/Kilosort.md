@@ -1,6 +1,6 @@
 # MouseLand/Kilosort - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 261 | 161 | 
 | 2022-10-12 | 261 | 161 | 
 | 2022-10-11 | 260 | 161 | 
 | 2022-10-10 | 260 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 253 | 157 | 
 | 2022-09-15 | 253 | 157 | 
 | 2022-09-14 | 252 | 157 | 
-| 2022-09-13 | 252 | 158 | 
 

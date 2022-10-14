@@ -1,10 +1,10 @@
 # supranational/blst - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 95
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/supranational/blst)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 290 | 95 | 
 | 2022-10-12 | 289 | 95 | 
 | 2022-10-11 | 289 | 95 | 
 | 2022-10-10 | 289 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 279 | 93 | 
 | 2022-09-15 | 279 | 93 | 
 | 2022-09-14 | 279 | 92 | 
-| 2022-09-13 | 279 | 92 | 
 

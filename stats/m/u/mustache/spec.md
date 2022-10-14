@@ -1,6 +1,6 @@
 # mustache/spec - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 305 | 67 | 
 | 2022-10-12 | 305 | 67 | 
 | 2022-10-11 | 305 | 67 | 
 | 2022-10-10 | 305 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 303 | 67 | 
 | 2022-09-15 | 303 | 67 | 
 | 2022-09-14 | 303 | 67 | 
-| 2022-09-13 | 303 | 67 | 
 

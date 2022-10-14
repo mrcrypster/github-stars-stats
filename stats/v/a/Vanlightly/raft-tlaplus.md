@@ -1,6 +1,6 @@
 # Vanlightly/raft-tlaplus - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 36 | 1 | 
 | 2022-10-12 | 36 | 1 | 
 | 2022-10-11 | 36 | 1 | 
 | 2022-10-10 | 36 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 35 | 1 | 
 | 2022-09-16 | 35 | 1 | 
 | 2022-09-15 | 35 | 1 | 
-| 2022-09-14 | 35 | 1 | 
 

@@ -1,8 +1,8 @@
 # JuliaGraphs/Graphs.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 47
+☋ Forks: 48
 
 ★ Stars: 295
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 295 | 48 | 
 | 2022-10-12 | 295 | 47 | 
 | 2022-10-11 | 295 | 47 | 
 | 2022-10-10 | 295 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 283 | 46 | 
 | 2022-09-15 | 282 | 46 | 
 | 2022-09-14 | 281 | 46 | 
-| 2022-09-13 | 281 | 46 | 
 

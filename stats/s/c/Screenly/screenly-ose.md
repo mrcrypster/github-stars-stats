@@ -1,10 +1,10 @@
 # Screenly/screenly-ose - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 516
+☋ Forks: 517
 
-★ Stars: 1467
+★ Stars: 1472
 
 [Open repository](https://github.com/Screenly/screenly-ose)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1472 | 517 | 
 | 2022-10-12 | 1467 | 516 | 
 | 2022-10-11 | 1465 | 516 | 
 | 2022-10-10 | 1464 | 516 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1453 | 511 | 
 | 2022-09-15 | 1453 | 511 | 
 | 2022-09-14 | 1453 | 511 | 
-| 2022-09-13 | 1452 | 511 | 
 

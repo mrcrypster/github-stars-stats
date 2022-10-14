@@ -1,10 +1,10 @@
 # aerdem4/lofo-importance - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 67
 
-★ Stars: 654
+★ Stars: 655
 
 [Open repository](https://github.com/aerdem4/lofo-importance)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 655 | 67 | 
 | 2022-10-12 | 654 | 67 | 
 | 2022-10-11 | 652 | 67 | 
 | 2022-10-10 | 647 | 67 | 

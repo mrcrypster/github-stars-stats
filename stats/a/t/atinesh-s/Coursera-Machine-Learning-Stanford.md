@@ -1,10 +1,10 @@
 # atinesh-s/Coursera-Machine-Learning-Stanford - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 775
 
-★ Stars: 1021
+★ Stars: 1022
 
 [Open repository](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1022 | 775 | 
 | 2022-10-12 | 1021 | 775 | 
 | 2022-10-11 | 1020 | 775 | 
 | 2022-10-10 | 1019 | 775 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1015 | 774 | 
 | 2022-09-15 | 1015 | 774 | 
 | 2022-09-14 | 1014 | 774 | 
-| 2022-09-13 | 1014 | 773 | 
 

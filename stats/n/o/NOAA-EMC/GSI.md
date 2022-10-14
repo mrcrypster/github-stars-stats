@@ -1,8 +1,8 @@
 # NOAA-EMC/GSI - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 113
+☋ Forks: 115
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 39 | 115 | 
 | 2022-10-12 | 39 | 113 | 
 | 2022-10-11 | 39 | 112 | 
 | 2022-10-10 | 39 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 39 | 110 | 
 | 2022-09-15 | 39 | 110 | 
 | 2022-09-14 | 39 | 110 | 
-| 2022-09-13 | 39 | 110 | 
 

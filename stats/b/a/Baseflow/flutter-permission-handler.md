@@ -1,10 +1,10 @@
 # Baseflow/flutter-permission-handler - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 633
+☋ Forks: 634
 
-★ Stars: 1643
+★ Stars: 1647
 
 [Open repository](https://github.com/Baseflow/flutter-permission-handler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1647 | 634 | 
 | 2022-10-12 | 1643 | 633 | 
 | 2022-10-11 | 1640 | 633 | 
 | 2022-10-10 | 1640 | 632 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1608 | 622 | 
 | 2022-09-15 | 1606 | 621 | 
 | 2022-09-14 | 1604 | 620 | 
-| 2022-09-13 | 1603 | 620 | 
 

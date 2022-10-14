@@ -1,10 +1,10 @@
 # android/location-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 2817
+☋ Forks: 2818
 
-★ Stars: 2580
+★ Stars: 2581
 
 [Open repository](https://github.com/android/location-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2581 | 2818 | 
 | 2022-10-12 | 2580 | 2817 | 
 | 2022-10-11 | 2580 | 2817 | 
 | 2022-10-10 | 2580 | 2818 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2575 | 2815 | 
 | 2022-09-15 | 2575 | 2814 | 
 | 2022-09-14 | 2574 | 2811 | 
-| 2022-09-13 | 2573 | 2810 | 
 

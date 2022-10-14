@@ -1,6 +1,6 @@
 # itm4n/VBA-RunPE - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 701 | 182 | 
 | 2022-10-12 | 701 | 182 | 
 | 2022-10-11 | 700 | 182 | 
 | 2022-10-10 | 699 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 697 | 183 | 
 | 2022-09-15 | 697 | 183 | 
 | 2022-09-14 | 698 | 183 | 
-| 2022-09-13 | 698 | 183 | 
 

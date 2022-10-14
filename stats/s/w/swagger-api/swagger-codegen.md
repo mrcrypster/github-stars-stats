@@ -1,10 +1,10 @@
 # swagger-api/swagger-codegen - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 5856
+☋ Forks: 5858
 
-★ Stars: 14941
+★ Stars: 14943
 
 [Open repository](https://github.com/swagger-api/swagger-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 14943 | 5858 | 
 | 2022-10-12 | 14941 | 5856 | 
 | 2022-10-11 | 14934 | 5855 | 
 | 2022-10-10 | 14930 | 5855 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 14803 | 5847 | 
 | 2022-09-15 | 14801 | 5847 | 
 | 2022-09-14 | 14798 | 5846 | 
-| 2022-09-13 | 14797 | 5846 | 
 

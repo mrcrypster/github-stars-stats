@@ -1,6 +1,6 @@
 # wudududu/extract-video-ppt - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 260 | 26 | 
 | 2022-10-12 | 260 | 26 | 
 | 2022-10-11 | 260 | 26 | 
 | 2022-10-10 | 260 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 259 | 25 | 
 | 2022-09-15 | 258 | 25 | 
 | 2022-09-14 | 257 | 25 | 
-| 2022-09-13 | 257 | 25 | 
 

@@ -1,6 +1,6 @@
 # xyfJASON/HITSZ-miniRV-1 - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 11 | 1 | 
 | 2022-10-12 | 11 | 1 | 
 | 2022-10-11 | 11 | 1 | 
 | 2022-10-10 | 11 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 12 | 2 | 
 | 2022-09-15 | 12 | 2 | 
 | 2022-09-14 | 12 | 2 | 
-| 2022-09-13 | 12 | 2 | 
 

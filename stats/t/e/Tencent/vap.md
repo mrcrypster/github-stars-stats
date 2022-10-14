@@ -1,6 +1,6 @@
 # Tencent/vap - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 408
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3233 | 408 | 
 | 2022-10-12 | 3233 | 408 | 
 | 2022-10-11 | 3229 | 407 | 
 | 2022-10-10 | 3226 | 406 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 3196 | 402 | 
 | 2022-09-16 | 3193 | 401 | 
 | 2022-09-15 | 3188 | 401 | 
-| 2022-09-14 | 3182 | 401 | 
 

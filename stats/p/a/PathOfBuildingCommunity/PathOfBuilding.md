@@ -1,10 +1,10 @@
 # PathOfBuildingCommunity/PathOfBuilding - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1599
 
-★ Stars: 2415
+★ Stars: 2416
 
 [Open repository](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2416 | 1599 | 
 | 2022-10-12 | 2415 | 1599 | 
 | 2022-10-11 | 2413 | 1598 | 
 | 2022-10-10 | 2413 | 1598 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2398 | 1591 | 
 | 2022-09-15 | 2399 | 1591 | 
 | 2022-09-14 | 2399 | 1590 | 
-| 2022-09-13 | 2396 | 1589 | 
 

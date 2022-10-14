@@ -1,10 +1,10 @@
 # wppconnect-team/WPP4Delphi - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 22
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/wppconnect-team/WPP4Delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 71 | 22 | 
 | 2022-10-12 | 70 | 22 | 
 | 2022-10-11 | 70 | 22 | 
 | 2022-10-10 | 70 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 64 | 19 | 
 | 2022-09-15 | 62 | 19 | 
 | 2022-09-14 | 62 | 19 | 
-| 2022-09-13 | 62 | 19 | 
 

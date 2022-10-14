@@ -1,6 +1,6 @@
 # NextCitizens/ncs_core - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 116 | 41 | 
 | 2022-10-13 | 116 | 41 | 
 | 2022-10-12 | 116 | 41 | 
 | 2022-10-11 | 115 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 116 | 43 | 
 | 2022-09-15 | 116 | 43 | 
 | 2022-09-14 | 116 | 44 | 
-| 2022-09-13 | 116 | 45 | 
 

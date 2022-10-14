@@ -1,10 +1,10 @@
 # dd86k/ddui - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/dd86k/ddui)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 14 | - | 
 | 2022-10-12 | 13 | - | 
 

@@ -1,6 +1,6 @@
 # babashka/sci.configs - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 12 | 3 | 
 | 2022-10-13 | 12 | 3 | 
 | 2022-10-12 | 12 | 3 | 
 | 2022-10-10 | 12 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 11 | 3 | 
 | 2022-09-15 | 11 | 3 | 
 | 2022-09-14 | 11 | 3 | 
-| 2022-09-13 | 11 | 3 | 
 

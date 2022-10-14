@@ -1,6 +1,6 @@
 # Project-Sloth/ps-signrobbery - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 25 | 15 | 
 | 2022-10-12 | 25 | 15 | 
 | 2022-10-11 | 25 | 15 | 
 | 2022-10-10 | 25 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 22 | 15 | 
 | 2022-09-15 | 22 | 15 | 
 | 2022-09-14 | 22 | 15 | 
-| 2022-09-13 | 22 | 15 | 
 

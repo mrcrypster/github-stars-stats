@@ -1,10 +1,10 @@
 # deadc0de6/dotdrop - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 80
 
-★ Stars: 1429
+★ Stars: 1431
 
 [Open repository](https://github.com/deadc0de6/dotdrop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1431 | 80 | 
 | 2022-10-12 | 1429 | 80 | 
 | 2022-10-11 | 1429 | 80 | 
 | 2022-10-10 | 1429 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1385 | 77 | 
 | 2022-09-15 | 1384 | 77 | 
 | 2022-09-14 | 1384 | 77 | 
-| 2022-09-13 | 1383 | 77 | 
 

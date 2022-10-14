@@ -1,6 +1,6 @@
 # Rongjiehuang/FastDiff - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 243 | 39 | 
 | 2022-10-12 | 243 | 39 | 
 | 2022-10-11 | 243 | 39 | 
 | 2022-10-10 | 243 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 229 | 38 | 
 | 2022-09-15 | 229 | 38 | 
 | 2022-09-14 | 229 | 38 | 
-| 2022-09-13 | 229 | 38 | 
 

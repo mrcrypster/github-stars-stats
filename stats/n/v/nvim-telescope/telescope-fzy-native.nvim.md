@@ -1,10 +1,10 @@
 # nvim-telescope/telescope-fzy-native.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 9
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/nvim-telescope/telescope-fzy-native.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 143 | 9 | 
 | 2022-10-12 | 142 | 9 | 
 | 2022-10-11 | 142 | 9 | 
 | 2022-10-10 | 142 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 138 | 8 | 
 | 2022-09-15 | 137 | 8 | 
 | 2022-09-14 | 137 | 8 | 
-| 2022-09-13 | 137 | 8 | 
 

@@ -1,10 +1,10 @@
 # bedimcode/responsive-real-state-website - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 40
 
-★ Stars: 96
+★ Stars: 98
 
 [Open repository](https://github.com/bedimcode/responsive-real-state-website)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 98 | 40 | 
 | 2022-10-12 | 96 | 40 | 
 | 2022-10-11 | 96 | 40 | 
 | 2022-10-10 | 96 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 90 | 38 | 
 | 2022-09-15 | 90 | 38 | 
 | 2022-09-14 | 90 | 38 | 
-| 2022-09-13 | 90 | 38 | 
 

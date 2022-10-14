@@ -1,8 +1,8 @@
 # leandromoreira/digital_video_introduction - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1139
+☋ Forks: 1140
 
 ★ Stars: 13066
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 13066 | 1140 | 
 | 2022-10-12 | 13066 | 1139 | 
 | 2022-10-11 | 13066 | 1139 | 
 | 2022-10-10 | 13059 | 1138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 12974 | 1130 | 
 | 2022-09-15 | 12972 | 1130 | 
 | 2022-09-14 | 12971 | 1130 | 
-| 2022-09-13 | 12969 | 1130 | 
 

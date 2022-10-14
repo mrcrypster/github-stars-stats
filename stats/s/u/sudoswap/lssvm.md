@@ -1,6 +1,6 @@
 # sudoswap/lssvm - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 215 | 63 | 
 | 2022-10-12 | 215 | 63 | 
 | 2022-10-11 | 214 | 62 | 
 | 2022-10-10 | 214 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 192 | 56 | 
 | 2022-09-15 | 192 | 55 | 
 | 2022-09-14 | 192 | 54 | 
-| 2022-09-13 | 192 | 52 | 
 

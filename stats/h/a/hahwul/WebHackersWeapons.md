@@ -1,10 +1,10 @@
 # hahwul/WebHackersWeapons - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 476
+☋ Forks: 477
 
-★ Stars: 2346
+★ Stars: 2347
 
 [Open repository](https://github.com/hahwul/WebHackersWeapons)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2347 | 477 | 
 | 2022-10-12 | 2346 | 476 | 
 | 2022-10-11 | 2345 | 475 | 
 | 2022-10-10 | 2343 | 475 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 2277 | 470 | 
 | 2022-09-16 | 2274 | 469 | 
 | 2022-09-15 | 2274 | 469 | 
-| 2022-09-13 | 2274 | 468 | 
 

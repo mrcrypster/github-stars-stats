@@ -1,10 +1,10 @@
 # creativetimofficial/argon-dashboard-django - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/creativetimofficial/argon-dashboard-django)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 102 | 84 | 
 | 2022-10-12 | 101 | 83 | 
 | 2022-10-11 | 101 | 83 | 
 | 2022-10-10 | 101 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 99 | 77 | 
 | 2022-09-15 | 99 | 77 | 
 | 2022-09-14 | 99 | 76 | 
-| 2022-09-13 | 99 | 76 | 
 

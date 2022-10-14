@@ -1,6 +1,6 @@
 # newaetech/chipwhisperer - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 237
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 785 | 237 | 
 | 2022-10-12 | 785 | 237 | 
 | 2022-10-11 | 783 | 236 | 
 | 2022-10-10 | 781 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 773 | 233 | 
 | 2022-09-15 | 773 | 233 | 
 | 2022-09-14 | 773 | 233 | 
-| 2022-09-13 | 772 | 233 | 
 

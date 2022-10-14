@@ -1,10 +1,10 @@
 # cookieY/Yearning - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1827
 
-★ Stars: 7054
+★ Stars: 7059
 
 [Open repository](https://github.com/cookieY/Yearning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 7059 | 1827 | 
 | 2022-10-12 | 7054 | 1827 | 
 | 2022-10-11 | 7050 | 1824 | 
 | 2022-10-10 | 7047 | 1823 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 6985 | 1807 | 
 | 2022-09-15 | 6985 | 1806 | 
 | 2022-09-14 | 6984 | 1806 | 
-| 2022-09-13 | 6981 | 1806 | 
 

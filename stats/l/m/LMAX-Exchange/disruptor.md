@@ -1,10 +1,10 @@
 # LMAX-Exchange/disruptor - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3667
 
-★ Stars: 15228
+★ Stars: 15231
 
 [Open repository](https://github.com/LMAX-Exchange/disruptor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 15231 | 3667 | 
 | 2022-10-13 | 15228 | 3667 | 
 | 2022-10-12 | 15226 | 3667 | 
 | 2022-10-11 | 15225 | 3666 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 15177 | 3658 | 
 | 2022-09-15 | 15176 | 3658 | 
 | 2022-09-14 | 15174 | 3659 | 
-| 2022-09-13 | 15173 | 3658 | 
 

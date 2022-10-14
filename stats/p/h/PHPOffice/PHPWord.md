@@ -1,10 +1,10 @@
 # PHPOffice/PHPWord - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 2505
+☋ Forks: 2507
 
-★ Stars: 6404
+★ Stars: 6405
 
 [Open repository](https://github.com/PHPOffice/PHPWord)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 6405 | 2507 | 
 | 2022-10-12 | 6404 | 2505 | 
 | 2022-10-11 | 6398 | 2505 | 
 | 2022-10-10 | 6396 | 2505 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 6361 | 2494 | 
 | 2022-09-15 | 6358 | 2494 | 
 | 2022-09-14 | 6356 | 2495 | 
-| 2022-09-13 | 6353 | 2494 | 
 

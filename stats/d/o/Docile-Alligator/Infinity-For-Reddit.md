@@ -1,6 +1,6 @@
 # Docile-Alligator/Infinity-For-Reddit - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2306 | 133 | 
 | 2022-10-12 | 2306 | 133 | 
 | 2022-10-11 | 2306 | 133 | 
 | 2022-10-10 | 2304 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2220 | 119 | 
 | 2022-09-15 | 2216 | 118 | 
 | 2022-09-14 | 2213 | 117 | 
-| 2022-09-13 | 2212 | 117 | 
 

@@ -1,10 +1,10 @@
 # google/googletest - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 8874
+☋ Forks: 8878
 
-★ Stars: 28084
+★ Stars: 28102
 
 [Open repository](https://github.com/google/googletest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 28102 | 8878 | 
 | 2022-10-12 | 28084 | 8874 | 
 | 2022-10-11 | 28062 | 8869 | 
 | 2022-10-10 | 28053 | 8871 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 27585 | 8807 | 
 | 2022-09-15 | 27581 | 8803 | 
 | 2022-09-14 | 27568 | 8801 | 
-| 2022-09-13 | 27566 | 8798 | 
 

@@ -1,10 +1,10 @@
 # thanos-io/kube-thanos - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 148
 
-★ Stars: 393
+★ Stars: 394
 
 [Open repository](https://github.com/thanos-io/kube-thanos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 394 | 148 | 
 | 2022-10-12 | 393 | 148 | 
 | 2022-10-11 | 393 | 148 | 
 | 2022-10-10 | 393 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 390 | 146 | 
 | 2022-09-15 | 390 | 146 | 
 | 2022-09-14 | 390 | 146 | 
-| 2022-09-13 | 389 | 146 | 
 

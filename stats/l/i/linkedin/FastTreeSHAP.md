@@ -1,6 +1,6 @@
 # linkedin/FastTreeSHAP - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 342 | 18 | 
 | 2022-10-12 | 342 | 18 | 
 | 2022-10-11 | 342 | 18 | 
 | 2022-10-10 | 341 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 340 | 18 | 
 | 2022-09-15 | 339 | 18 | 
 | 2022-09-14 | 339 | 18 | 
-| 2022-09-13 | 339 | 18 | 
 

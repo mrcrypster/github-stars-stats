@@ -1,8 +1,8 @@
 # dgutov/diff-hl - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 42
+☋ Forks: 41
 
 ★ Stars: 701
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 701 | 41 | 
 | 2022-10-12 | 701 | 42 | 
 | 2022-10-11 | 701 | 42 | 
 | 2022-10-10 | 701 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 698 | 41 | 
 | 2022-09-15 | 699 | 41 | 
 | 2022-09-14 | 700 | 41 | 
-| 2022-09-13 | 700 | 41 | 
 

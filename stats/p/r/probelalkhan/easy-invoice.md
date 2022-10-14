@@ -1,10 +1,10 @@
 # probelalkhan/easy-invoice - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 5
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/probelalkhan/easy-invoice)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 31 | 5 | 
 | 2022-10-12 | 30 | 5 | 
 | 2022-10-11 | 30 | 5 | 
 | 2022-10-10 | 30 | 5 | 

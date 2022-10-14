@@ -1,6 +1,6 @@
 # ReactiveMongo/ReactiveMongo - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 229
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 834 | 229 | 
 | 2022-10-12 | 834 | 229 | 
 | 2022-10-11 | 834 | 229 | 
 | 2022-10-10 | 834 | 229 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 833 | 229 | 
 | 2022-09-15 | 833 | 229 | 
 | 2022-09-14 | 833 | 229 | 
-| 2022-09-13 | 833 | 229 | 
 

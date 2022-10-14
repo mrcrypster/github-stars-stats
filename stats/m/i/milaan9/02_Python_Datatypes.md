@@ -1,6 +1,6 @@
 # milaan9/02_Python_Datatypes - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 212 | 219 | 
 | 2022-10-12 | 212 | 219 | 
 | 2022-10-11 | 212 | 219 | 
 | 2022-10-10 | 212 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 211 | 217 | 
 | 2022-09-15 | 211 | 217 | 
 | 2022-09-14 | 211 | 217 | 
-| 2022-09-13 | 211 | 217 | 
 

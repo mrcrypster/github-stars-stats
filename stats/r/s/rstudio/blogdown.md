@@ -1,6 +1,6 @@
 # rstudio/blogdown - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 333
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1560 | 333 | 
 | 2022-10-12 | 1560 | 333 | 
 | 2022-10-11 | 1559 | 333 | 
 | 2022-10-10 | 1557 | 333 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1547 | 334 | 
 | 2022-09-15 | 1546 | 334 | 
 | 2022-09-14 | 1546 | 334 | 
-| 2022-09-13 | 1546 | 334 | 
 

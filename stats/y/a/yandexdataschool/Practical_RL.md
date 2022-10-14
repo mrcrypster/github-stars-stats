@@ -1,10 +1,10 @@
 # yandexdataschool/Practical_RL - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1534
 
-★ Stars: 5069
+★ Stars: 5071
 
 [Open repository](https://github.com/yandexdataschool/Practical_RL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5071 | 1534 | 
 | 2022-10-12 | 5069 | 1534 | 
 | 2022-10-11 | 5070 | 1534 | 
 | 2022-10-10 | 5070 | 1534 | 

@@ -1,6 +1,6 @@
 # bryanhrr/tarjeta-de-credito - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 17 | 8 | 
 | 2022-10-12 | 17 | 8 | 
 | 2022-10-11 | 17 | 8 | 
 | 2022-10-10 | 17 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 16 | 8 | 
 | 2022-09-15 | 16 | 8 | 
 | 2022-09-14 | 16 | 8 | 
-| 2022-09-13 | 16 | 8 | 
 

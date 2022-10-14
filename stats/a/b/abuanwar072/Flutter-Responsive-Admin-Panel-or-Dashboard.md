@@ -1,10 +1,10 @@
 # abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1436
 
-★ Stars: 5191
+★ Stars: 5193
 
 [Open repository](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5193 | 1436 | 
 | 2022-10-12 | 5191 | 1436 | 
 | 2022-10-11 | 5191 | 1436 | 
 | 2022-10-10 | 5184 | 1435 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 5130 | 1404 | 
 | 2022-09-15 | 5128 | 1403 | 
 | 2022-09-14 | 5126 | 1403 | 
-| 2022-09-13 | 5127 | 1401 | 
 

@@ -1,10 +1,10 @@
 # CeeJayDK/SweetFX - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 28
 
-★ Stars: 110
+★ Stars: 112
 
 [Open repository](https://github.com/CeeJayDK/SweetFX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 112 | 28 | 
 | 2022-10-12 | 110 | 28 | 
 | 2022-10-11 | 110 | 28 | 
 | 2022-10-10 | 110 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 109 | 27 | 
 | 2022-09-15 | 109 | 27 | 
 | 2022-09-14 | 109 | 27 | 
-| 2022-09-13 | 109 | 27 | 
 

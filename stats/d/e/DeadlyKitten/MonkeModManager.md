@@ -1,8 +1,8 @@
 # DeadlyKitten/MonkeModManager - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 374
+☋ Forks: 375
 
 ★ Stars: 59
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 59 | 375 | 
 | 2022-10-12 | 59 | 374 | 
 | 2022-10-11 | 58 | 374 | 
 | 2022-10-10 | 58 | 374 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 55 | 346 | 
 | 2022-09-15 | 55 | 345 | 
 | 2022-09-14 | 54 | 344 | 
-| 2022-09-13 | 54 | 344 | 
 

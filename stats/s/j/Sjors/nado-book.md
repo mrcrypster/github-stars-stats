@@ -1,6 +1,6 @@
 # Sjors/nado-book - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 39 | 6 | 
 | 2022-10-12 | 39 | 6 | 
 | 2022-10-11 | 39 | 6 | 
 | 2022-10-10 | 39 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 38 | 5 | 
 | 2022-09-15 | 38 | 5 | 
 | 2022-09-14 | 38 | 5 | 
-| 2022-09-13 | 37 | 5 | 
 

@@ -1,10 +1,10 @@
 # pion/webrtc - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1286
+☋ Forks: 1287
 
-★ Stars: 10094
+★ Stars: 10102
 
 [Open repository](https://github.com/pion/webrtc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 10102 | 1287 | 
 | 2022-10-12 | 10094 | 1286 | 
 | 2022-10-11 | 10090 | 1286 | 
 | 2022-10-10 | 10085 | 1286 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 9956 | 1274 | 
 | 2022-09-15 | 9945 | 1272 | 
 | 2022-09-14 | 9929 | 1271 | 
-| 2022-09-13 | 9912 | 1270 | 
 

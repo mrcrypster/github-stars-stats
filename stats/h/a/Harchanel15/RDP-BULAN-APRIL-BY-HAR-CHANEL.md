@@ -1,8 +1,8 @@
 # Harchanel15/RDP-BULAN-APRIL-BY-HAR-CHANEL - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 3178
+☋ Forks: 3180
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 49 | 3180 | 
 | 2022-10-12 | 49 | 3178 | 
 | 2022-10-11 | 48 | 3176 | 
 | 2022-10-10 | 47 | 3175 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 46 | 3127 | 
 | 2022-09-15 | 46 | 3121 | 
 | 2022-09-14 | 45 | 3112 | 
-| 2022-09-13 | 43 | 3109 | 
 

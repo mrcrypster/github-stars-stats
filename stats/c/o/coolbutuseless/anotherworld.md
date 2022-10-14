@@ -1,10 +1,10 @@
 # coolbutuseless/anotherworld - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/coolbutuseless/anotherworld)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 66 | 2 | 
 | 2022-10-12 | 65 | 2 | 
 | 2022-10-11 | 65 | 2 | 
 | 2022-10-10 | 65 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 65 | 2 | 
 | 2022-09-16 | 65 | 2 | 
 | 2022-09-15 | 65 | 2 | 
-| 2022-09-13 | 65 | 2 | 
 

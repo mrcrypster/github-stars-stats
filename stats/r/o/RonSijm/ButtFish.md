@@ -1,10 +1,10 @@
 # RonSijm/ButtFish - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 31
+☋ Forks: 30
 
-★ Stars: 1234
+★ Stars: 1238
 
 [Open repository](https://github.com/RonSijm/ButtFish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1238 | 30 | 
 | 2022-10-12 | 1234 | 31 | 
 | 2022-10-11 | 1226 | 31 | 
 | 2022-10-10 | 1211 | 31 | 

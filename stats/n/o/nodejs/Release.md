@@ -1,10 +1,10 @@
 # nodejs/Release - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 483
+☋ Forks: 484
 
-★ Stars: 2948
+★ Stars: 2950
 
 [Open repository](https://github.com/nodejs/Release)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2950 | 484 | 
 | 2022-10-12 | 2948 | 483 | 
 | 2022-10-11 | 2947 | 482 | 
 | 2022-10-10 | 2944 | 481 | 

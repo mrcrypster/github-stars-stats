@@ -1,10 +1,10 @@
 # LukeSmithxyz/based.cooking - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 526
+☋ Forks: 525
 
-★ Stars: 1904
+★ Stars: 1908
 
 [Open repository](https://github.com/LukeSmithxyz/based.cooking)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1908 | 525 | 
 | 2022-10-12 | 1904 | 526 | 
 | 2022-10-11 | 1904 | 528 | 
 | 2022-10-10 | 1902 | 526 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1883 | 523 | 
 | 2022-09-15 | 1883 | 523 | 
 | 2022-09-14 | 1882 | 523 | 
-| 2022-09-13 | 1879 | 522 | 
 

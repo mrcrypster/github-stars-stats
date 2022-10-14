@@ -1,10 +1,10 @@
 # duckdegen/apebot - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 433
+☋ Forks: 435
 
-★ Stars: 1153
+★ Stars: 1155
 
 [Open repository](https://github.com/duckdegen/apebot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1155 | 435 | 
 | 2022-10-12 | 1153 | 433 | 
 | 2022-10-11 | 1152 | 433 | 
 | 2022-10-10 | 1150 | 433 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1131 | 431 | 
 | 2022-09-15 | 1129 | 431 | 
 | 2022-09-14 | 1129 | 431 | 
-| 2022-09-13 | 1129 | 431 | 
 

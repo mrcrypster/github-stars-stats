@@ -1,10 +1,10 @@
 # bartlomieju/vite-deno-example - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 6
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/bartlomieju/vite-deno-example)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 132 | 6 | 
 | 2022-10-12 | 130 | 6 | 
 | 2022-10-11 | 118 | 6 | 
 | 2022-10-10 | 118 | 6 | 

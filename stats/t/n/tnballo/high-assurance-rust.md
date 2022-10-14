@@ -1,10 +1,10 @@
 # tnballo/high-assurance-rust - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 24
 
-★ Stars: 1039
+★ Stars: 1040
 
 [Open repository](https://github.com/tnballo/high-assurance-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1040 | 24 | 
 | 2022-10-12 | 1039 | 24 | 
 | 2022-10-11 | 1038 | 24 | 
 | 2022-10-10 | 1037 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1025 | 24 | 
 | 2022-09-15 | 1026 | 24 | 
 | 2022-09-14 | 1026 | 24 | 
-| 2022-09-13 | 1025 | 24 | 
 

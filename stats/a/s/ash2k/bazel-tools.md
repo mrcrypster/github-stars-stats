@@ -1,10 +1,10 @@
 # ash2k/bazel-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 16
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/ash2k/bazel-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 43 | 16 | 
 | 2022-10-12 | 42 | 16 | 
 | 2022-10-11 | 42 | 16 | 
 | 2022-10-10 | 42 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 42 | 14 | 
 | 2022-09-15 | 42 | 14 | 
 | 2022-09-14 | 41 | 14 | 
-| 2022-09-13 | 41 | 14 | 
 

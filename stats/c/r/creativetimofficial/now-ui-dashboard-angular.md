@@ -1,8 +1,8 @@
 # creativetimofficial/now-ui-dashboard-angular - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 69 | 67 | 
 | 2022-10-12 | 69 | 66 | 
 | 2022-10-11 | 69 | 66 | 
 | 2022-10-10 | 69 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 69 | 61 | 
 | 2022-09-15 | 69 | 61 | 
 | 2022-09-14 | 69 | 61 | 
-| 2022-09-13 | 69 | 60 | 
 

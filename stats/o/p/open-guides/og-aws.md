@@ -1,10 +1,10 @@
 # open-guides/og-aws - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 3538
+☋ Forks: 3540
 
-★ Stars: 32603
+★ Stars: 32607
 
 [Open repository](https://github.com/open-guides/og-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 32607 | 3540 | 
 | 2022-10-12 | 32603 | 3538 | 
 | 2022-10-11 | 32599 | 3537 | 
 | 2022-10-10 | 32592 | 3535 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 32483 | 3513 | 
 | 2022-09-15 | 32477 | 3512 | 
 | 2022-09-14 | 32472 | 3511 | 
-| 2022-09-13 | 32467 | 3512 | 
 

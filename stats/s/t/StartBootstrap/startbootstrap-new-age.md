@@ -1,6 +1,6 @@
 # StartBootstrap/startbootstrap-new-age - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 990
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 973 | 990 | 
 | 2022-10-12 | 973 | 990 | 
 | 2022-10-11 | 973 | 990 | 
 | 2022-10-10 | 973 | 990 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 967 | 988 | 
 | 2022-09-15 | 967 | 988 | 
 | 2022-09-14 | 967 | 988 | 
-| 2022-09-13 | 966 | 989 | 
 

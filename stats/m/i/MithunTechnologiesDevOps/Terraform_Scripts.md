@@ -1,8 +1,8 @@
 # MithunTechnologiesDevOps/Terraform_Scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 339
+☋ Forks: 340
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3 | 340 | 
 | 2022-10-12 | 3 | 339 | 
 | 2022-10-11 | 3 | 337 | 
 | 2022-10-10 | 3 | 337 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3 | 327 | 
 | 2022-09-15 | 3 | 327 | 
 | 2022-09-14 | 3 | 326 | 
-| 2022-09-13 | 3 | 326 | 
 

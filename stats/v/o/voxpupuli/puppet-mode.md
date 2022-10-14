@@ -1,6 +1,6 @@
 # voxpupuli/puppet-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 70 | 33 | 
 | 2022-10-13 | 70 | 33 | 
 | 2022-10-12 | 70 | 33 | 
 | 2022-10-11 | 70 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 67 | 32 | 
 | 2022-09-15 | 64 | 32 | 
 | 2022-09-14 | 64 | 32 | 
-| 2022-09-13 | 64 | 32 | 
 

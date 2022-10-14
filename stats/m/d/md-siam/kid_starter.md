@@ -1,10 +1,10 @@
 # md-siam/kid_starter - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 23
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/md-siam/kid_starter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 29 | 23 | 
 | 2022-10-12 | 28 | 23 | 
 | 2022-10-11 | 28 | 23 | 
 | 2022-10-10 | 28 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 28 | 23 | 
 | 2022-09-15 | 28 | 23 | 
 | 2022-09-14 | 28 | 23 | 
-| 2022-09-13 | 28 | 23 | 
 

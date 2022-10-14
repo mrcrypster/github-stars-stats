@@ -1,10 +1,10 @@
 # deliveryhero/whetstone - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 134
+★ Stars: 144
 
 [Open repository](https://github.com/deliveryhero/whetstone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 144 | 2 | 
 | 2022-10-12 | 134 | 2 | 
 | 2022-10-11 | 131 | 2 | 
 | 2022-10-10 | 127 | 1 | 

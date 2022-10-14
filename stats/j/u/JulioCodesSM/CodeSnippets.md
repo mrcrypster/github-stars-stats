@@ -1,8 +1,8 @@
 # JulioCodesSM/CodeSnippets - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 129
+☋ Forks: 128
 
 ★ Stars: 604
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 604 | 128 | 
 | 2022-10-12 | 604 | 129 | 
 | 2022-10-11 | 604 | 129 | 
 | 2022-10-10 | 603 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 591 | 127 | 
 | 2022-09-16 | 590 | 127 | 
 | 2022-09-15 | 584 | 127 | 
-| 2022-09-14 | 584 | 127 | 
 

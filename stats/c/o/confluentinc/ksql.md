@@ -1,8 +1,8 @@
 # confluentinc/ksql - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 985
+☋ Forks: 986
 
 ★ Stars: 5238
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5238 | 986 | 
 | 2022-10-12 | 5238 | 985 | 
 | 2022-10-11 | 5236 | 982 | 
 | 2022-10-10 | 5235 | 981 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 5193 | 973 | 
 | 2022-09-15 | 5193 | 972 | 
 | 2022-09-14 | 5190 | 972 | 
-| 2022-09-13 | 5190 | 972 | 
 

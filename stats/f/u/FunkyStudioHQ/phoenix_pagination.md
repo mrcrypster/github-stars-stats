@@ -1,6 +1,6 @@
 # FunkyStudioHQ/phoenix_pagination - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 20 | 10 | 
 | 2022-10-12 | 20 | 10 | 
 | 2022-10-11 | 20 | 10 | 
 | 2022-10-10 | 20 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 20 | 10 | 
 | 2022-09-16 | 20 | 10 | 
 | 2022-09-15 | 20 | 10 | 
-| 2022-09-14 | 20 | 10 | 
 

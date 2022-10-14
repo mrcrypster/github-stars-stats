@@ -1,10 +1,10 @@
 # dcloudio/uni-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 540
+☋ Forks: 541
 
-★ Stars: 1390
+★ Stars: 1392
 
 [Open repository](https://github.com/dcloudio/uni-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1392 | 541 | 
 | 2022-10-12 | 1390 | 540 | 
 | 2022-10-11 | 1387 | 539 | 
 | 2022-10-10 | 1385 | 539 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1362 | 529 | 
 | 2022-09-15 | 1361 | 529 | 
 | 2022-09-14 | 1360 | 529 | 
-| 2022-09-13 | 1358 | 528 | 
 

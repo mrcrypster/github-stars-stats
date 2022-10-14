@@ -1,6 +1,6 @@
 # Akshay-Arjun/69phisher - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 40 | 11 | 
 | 2022-10-13 | 40 | 11 | 
 | 2022-10-12 | 40 | 11 | 
 | 2022-10-11 | 40 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 41 | 10 | 
 | 2022-09-15 | 41 | 10 | 
 | 2022-09-14 | 41 | 10 | 
-| 2022-09-13 | 41 | 10 | 
 

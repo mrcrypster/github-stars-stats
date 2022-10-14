@@ -1,10 +1,10 @@
 # primer/css - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1090
+☋ Forks: 1093
 
-★ Stars: 11414
+★ Stars: 11417
 
 [Open repository](https://github.com/primer/css)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 11417 | 1093 | 
 | 2022-10-12 | 11414 | 1090 | 
 | 2022-10-11 | 11411 | 1089 | 
 | 2022-10-10 | 11405 | 1090 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 11369 | 1084 | 
 | 2022-09-15 | 11368 | 1083 | 
 | 2022-09-14 | 11364 | 1081 | 
-| 2022-09-13 | 11362 | 1081 | 
 

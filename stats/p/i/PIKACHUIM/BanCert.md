@@ -1,10 +1,10 @@
 # PIKACHUIM/BanCert - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 6
 
-★ Stars: 123
+★ Stars: 122
 
 [Open repository](https://github.com/PIKACHUIM/BanCert)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 122 | 6 | 
 | 2022-10-13 | 123 | 6 | 
 | 2022-10-12 | 122 | 6 | 
 | 2022-10-11 | 122 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 122 | 6 | 
 | 2022-09-15 | 122 | 6 | 
 | 2022-09-14 | 122 | 6 | 
-| 2022-09-13 | 122 | 6 | 
 

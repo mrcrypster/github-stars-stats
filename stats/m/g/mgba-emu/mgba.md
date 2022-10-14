@@ -1,10 +1,10 @@
 # mgba-emu/mgba - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 565
 
-★ Stars: 4009
+★ Stars: 4013
 
 [Open repository](https://github.com/mgba-emu/mgba)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 4013 | 565 | 
 | 2022-10-12 | 4009 | 565 | 
 | 2022-10-11 | 4006 | 565 | 
 | 2022-10-10 | 4005 | 565 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3966 | 560 | 
 | 2022-09-15 | 3964 | 560 | 
 | 2022-09-14 | 3961 | 559 | 
-| 2022-09-13 | 3961 | 559 | 
 

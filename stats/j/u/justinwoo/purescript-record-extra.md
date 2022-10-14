@@ -1,6 +1,6 @@
 # justinwoo/purescript-record-extra - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 26 | 16 | 
 | 2022-10-12 | 26 | 16 | 
 | 2022-10-11 | 26 | 16 | 
 | 2022-10-10 | 26 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 26 | 16 | 
 | 2022-09-15 | 26 | 16 | 
 | 2022-09-14 | 26 | 16 | 
-| 2022-09-13 | 26 | 16 | 
 

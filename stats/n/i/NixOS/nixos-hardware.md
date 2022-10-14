@@ -1,8 +1,8 @@
 # NixOS/nixos-hardware - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 282
+☋ Forks: 281
 
 ★ Stars: 795
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 795 | 281 | 
 | 2022-10-12 | 795 | 282 | 
 | 2022-10-11 | 795 | 282 | 
 | 2022-10-10 | 794 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 776 | 277 | 
 | 2022-09-15 | 776 | 277 | 
 | 2022-09-14 | 775 | 278 | 
-| 2022-09-13 | 774 | 277 | 
 

@@ -1,6 +1,6 @@
 # OverflowCat/simpublish - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 9 | 11 | 
 | 2022-10-12 | 9 | 11 | 
 | 2022-10-11 | 9 | 11 | 
 | 2022-10-10 | 9 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 7 | 8 | 
 | 2022-09-15 | 7 | 8 | 
 | 2022-09-14 | 7 | 8 | 
-| 2022-09-13 | 7 | 8 | 
 

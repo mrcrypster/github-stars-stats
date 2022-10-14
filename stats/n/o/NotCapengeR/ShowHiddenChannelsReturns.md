@@ -1,10 +1,10 @@
 # NotCapengeR/ShowHiddenChannelsReturns - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 106
+☋ Forks: 108
 
-★ Stars: 241
+★ Stars: 245
 
 [Open repository](https://github.com/NotCapengeR/ShowHiddenChannelsReturns)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 245 | 108 | 
 | 2022-10-12 | 241 | 106 | 
 | 2022-10-11 | 240 | 105 | 
 | 2022-10-10 | 240 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 169 | 49 | 
 | 2022-09-15 | 162 | 47 | 
 | 2022-09-14 | 154 | 45 | 
-| 2022-09-13 | 148 | 40 | 
 

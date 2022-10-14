@@ -1,6 +1,6 @@
 # sl-solution/InMemoryDatasets.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 102 | 16 | 
 | 2022-10-12 | 102 | 16 | 
 | 2022-10-11 | 102 | 16 | 
 | 2022-10-10 | 102 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 101 | 16 | 
 | 2022-09-15 | 101 | 16 | 
 | 2022-09-14 | 101 | 16 | 
-| 2022-09-13 | 101 | 16 | 
 

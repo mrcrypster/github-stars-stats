@@ -1,10 +1,10 @@
 # rabbitmq/ra - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 79
 
-★ Stars: 637
+★ Stars: 639
 
 [Open repository](https://github.com/rabbitmq/ra)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 639 | 79 | 
 | 2022-10-12 | 637 | 79 | 
 | 2022-10-11 | 637 | 79 | 
 | 2022-10-10 | 637 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 633 | 79 | 
 | 2022-09-15 | 633 | 79 | 
 | 2022-09-14 | 632 | 79 | 
-| 2022-09-13 | 632 | 79 | 
 

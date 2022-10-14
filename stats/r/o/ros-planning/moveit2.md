@@ -1,10 +1,10 @@
 # ros-planning/moveit2 - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 278
 
-★ Stars: 436
+★ Stars: 435
 
 [Open repository](https://github.com/ros-planning/moveit2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 435 | 278 | 
 | 2022-10-12 | 436 | 278 | 
 | 2022-10-11 | 436 | 277 | 
 | 2022-10-10 | 436 | 277 | 

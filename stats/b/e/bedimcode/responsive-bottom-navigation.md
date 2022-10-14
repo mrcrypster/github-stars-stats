@@ -1,10 +1,10 @@
 # bedimcode/responsive-bottom-navigation - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 43
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/bedimcode/responsive-bottom-navigation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 97 | 43 | 
 | 2022-10-12 | 96 | 43 | 
 | 2022-10-11 | 96 | 43 | 
 | 2022-10-10 | 96 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 95 | 39 | 
 | 2022-09-15 | 95 | 39 | 
 | 2022-09-14 | 95 | 39 | 
-| 2022-09-13 | 95 | 39 | 
 

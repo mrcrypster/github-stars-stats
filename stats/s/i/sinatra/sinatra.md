@@ -1,10 +1,10 @@
 # sinatra/sinatra - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 2067
+☋ Forks: 2068
 
-★ Stars: 11720
+★ Stars: 11726
 
 [Open repository](https://github.com/sinatra/sinatra)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 11726 | 2068 | 
 | 2022-10-12 | 11720 | 2067 | 
 | 2022-10-11 | 11720 | 2067 | 
 | 2022-10-10 | 11717 | 2068 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 11692 | 2067 | 
 | 2022-09-15 | 11689 | 2067 | 
 | 2022-09-14 | 11688 | 2067 | 
-| 2022-09-13 | 11688 | 2067 | 
 

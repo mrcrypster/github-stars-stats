@@ -1,6 +1,6 @@
 # nhsuk/nhsuk-service-manual - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 52 | 21 | 
 | 2022-10-13 | 52 | 21 | 
 | 2022-10-12 | 52 | 21 | 
 | 2022-10-11 | 52 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 51 | 21 | 
 | 2022-09-15 | 51 | 21 | 
 | 2022-09-14 | 51 | 21 | 
-| 2022-09-13 | 51 | 21 | 
 

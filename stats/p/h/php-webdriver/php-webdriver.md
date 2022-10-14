@@ -1,6 +1,6 @@
 # php-webdriver/php-webdriver - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 844
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 4686 | 844 | 
 | 2022-10-12 | 4686 | 844 | 
 | 2022-10-11 | 4686 | 844 | 
 | 2022-10-10 | 4684 | 844 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 4670 | 842 | 
 | 2022-09-15 | 4669 | 842 | 
 | 2022-09-14 | 4666 | 841 | 
-| 2022-09-13 | 4665 | 841 | 
 

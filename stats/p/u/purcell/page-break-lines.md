@@ -1,6 +1,6 @@
 # purcell/page-break-lines - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 197 | 28 | 
 | 2022-10-12 | 197 | 28 | 
 | 2022-10-11 | 197 | 28 | 
 | 2022-10-10 | 197 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 195 | 28 | 
 | 2022-09-15 | 195 | 28 | 
 | 2022-09-14 | 194 | 28 | 
-| 2022-09-13 | 194 | 28 | 
 

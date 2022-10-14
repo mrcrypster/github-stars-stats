@@ -1,6 +1,6 @@
 # csstools/postcss-plugins - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 371 | 35 | 
 | 2022-10-12 | 371 | 35 | 
 | 2022-10-11 | 370 | 35 | 
 | 2022-10-10 | 367 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 340 | 33 | 
 | 2022-09-15 | 338 | 33 | 
 | 2022-09-14 | 334 | 33 | 
-| 2022-09-13 | 333 | 33 | 
 

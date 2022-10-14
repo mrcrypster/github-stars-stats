@@ -1,8 +1,8 @@
 # widgetbook/widgetbook - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 269
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 269 | 54 | 
 | 2022-10-12 | 269 | 53 | 
 | 2022-10-11 | 269 | 53 | 
 | 2022-10-10 | 269 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 258 | 49 | 
 | 2022-09-15 | 258 | 49 | 
 | 2022-09-14 | 258 | 48 | 
-| 2022-09-13 | 256 | 48 | 
 

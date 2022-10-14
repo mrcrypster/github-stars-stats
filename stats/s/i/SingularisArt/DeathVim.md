@@ -1,6 +1,6 @@
 # SingularisArt/DeathVim - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 114 | 12 | 
 | 2022-10-12 | 114 | 12 | 
 | 2022-10-11 | 113 | 12 | 
 | 2022-10-10 | 113 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 110 | 13 | 
 | 2022-09-15 | 110 | 13 | 
 | 2022-09-14 | 110 | 11 | 
-| 2022-09-13 | 110 | 11 | 
 

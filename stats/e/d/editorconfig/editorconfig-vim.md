@@ -1,10 +1,10 @@
 # editorconfig/editorconfig-vim - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 129
 
-★ Stars: 2924
+★ Stars: 2925
 
 [Open repository](https://github.com/editorconfig/editorconfig-vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2925 | 129 | 
 | 2022-10-12 | 2924 | 129 | 
 | 2022-10-11 | 2924 | 129 | 
 | 2022-10-10 | 2923 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2910 | 129 | 
 | 2022-09-15 | 2909 | 129 | 
 | 2022-09-14 | 2909 | 129 | 
-| 2022-09-13 | 2908 | 129 | 
 

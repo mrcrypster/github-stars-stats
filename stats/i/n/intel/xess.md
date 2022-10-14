@@ -1,10 +1,10 @@
 # intel/xess - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 13
 
-★ Stars: 222
+★ Stars: 224
 
 [Open repository](https://github.com/intel/xess)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 224 | 13 | 
 | 2022-10-12 | 222 | 13 | 
 | 2022-10-11 | 221 | 13 | 
 | 2022-10-10 | 219 | 12 | 

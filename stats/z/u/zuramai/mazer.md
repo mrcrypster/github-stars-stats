@@ -1,10 +1,10 @@
 # zuramai/mazer - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 464
+☋ Forks: 466
 
-★ Stars: 1583
+★ Stars: 1584
 
 [Open repository](https://github.com/zuramai/mazer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1584 | 466 | 
 | 2022-10-12 | 1583 | 464 | 
 | 2022-10-11 | 1578 | 463 | 
 | 2022-10-10 | 1573 | 463 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1486 | 419 | 
 | 2022-09-15 | 1486 | 419 | 
 | 2022-09-14 | 1484 | 419 | 
-| 2022-09-13 | 1482 | 418 | 
 

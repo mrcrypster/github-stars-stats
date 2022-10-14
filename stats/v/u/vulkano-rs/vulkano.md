@@ -1,10 +1,10 @@
 # vulkano-rs/vulkano - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 365
 
-★ Stars: 3427
+★ Stars: 3428
 
 [Open repository](https://github.com/vulkano-rs/vulkano)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3428 | 365 | 
 | 2022-10-12 | 3427 | 365 | 
 | 2022-10-11 | 3424 | 364 | 
 | 2022-10-10 | 3422 | 364 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3371 | 363 | 
 | 2022-09-15 | 3371 | 363 | 
 | 2022-09-14 | 3371 | 363 | 
-| 2022-09-13 | 3370 | 362 | 
 

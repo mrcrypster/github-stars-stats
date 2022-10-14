@@ -1,6 +1,6 @@
 # Ankr-network/bas-genesis-config - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5 | 23 | 
 | 2022-10-12 | 5 | 23 | 
 | 2022-10-11 | 5 | 23 | 
 | 2022-10-10 | 4 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 4 | 24 | 
 | 2022-09-15 | 4 | 24 | 
 | 2022-09-14 | 4 | 24 | 
-| 2022-09-13 | 4 | 24 | 
 

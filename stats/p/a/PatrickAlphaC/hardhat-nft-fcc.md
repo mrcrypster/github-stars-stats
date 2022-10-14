@@ -1,8 +1,8 @@
 # PatrickAlphaC/hardhat-nft-fcc - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 61 | 78 | 
 | 2022-10-12 | 61 | 77 | 
 | 2022-10-11 | 61 | 77 | 
 | 2022-10-10 | 61 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 53 | 61 | 
 | 2022-09-15 | 53 | 59 | 
 | 2022-09-14 | 53 | 59 | 
-| 2022-09-13 | 53 | 58 | 
 

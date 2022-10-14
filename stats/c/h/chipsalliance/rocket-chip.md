@@ -1,10 +1,10 @@
 # chipsalliance/rocket-chip - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 911
+☋ Forks: 912
 
-★ Stars: 2376
+★ Stars: 2377
 
 [Open repository](https://github.com/chipsalliance/rocket-chip)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2377 | 912 | 
 | 2022-10-12 | 2376 | 911 | 
 | 2022-10-11 | 2376 | 911 | 
 | 2022-10-10 | 2376 | 911 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2353 | 901 | 
 | 2022-09-15 | 2354 | 901 | 
 | 2022-09-14 | 2353 | 901 | 
-| 2022-09-13 | 2350 | 899 | 
 

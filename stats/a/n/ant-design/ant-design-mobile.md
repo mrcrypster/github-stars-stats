@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 13
 
-☋ Forks: 2052
+☋ Forks: 2054
 
-★ Stars: 10585
+★ Stars: 10588
 
 [Open repository](https://github.com/ant-design/ant-design-mobile)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-13 | 10585 | 2052 | 
+| 2022-10-13 | 10588 | 2054 | 
 | 2022-10-12 | 10584 | 2052 | 
 | 2022-10-11 | 10578 | 2052 | 
 | 2022-10-10 | 10570 | 2049 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 10510 | 2032 | 
 | 2022-09-16 | 10508 | 2031 | 
 | 2022-09-15 | 10503 | 2032 | 
-| 2022-09-14 | 10501 | 2030 | 
 

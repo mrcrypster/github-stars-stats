@@ -1,8 +1,8 @@
 # 0015/ThatProject - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 652
+☋ Forks: 654
 
 ★ Stars: 1002
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1002 | 654 | 
 | 2022-10-12 | 1002 | 652 | 
 | 2022-10-11 | 1000 | 651 | 
 | 2022-10-10 | 999 | 651 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 968 | 644 | 
 | 2022-09-15 | 966 | 644 | 
 | 2022-09-14 | 965 | 643 | 
-| 2022-09-13 | 964 | 642 | 
 

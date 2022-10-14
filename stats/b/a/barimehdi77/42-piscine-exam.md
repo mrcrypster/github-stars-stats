@@ -1,6 +1,6 @@
 # barimehdi77/42-piscine-exam - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 238 | 86 | 
 | 2022-10-12 | 238 | 86 | 
 | 2022-10-11 | 238 | 86 | 
 | 2022-10-10 | 238 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 247 | 92 | 
 | 2022-09-15 | 248 | 92 | 
 | 2022-09-14 | 249 | 94 | 
-| 2022-09-13 | 249 | 95 | 
 

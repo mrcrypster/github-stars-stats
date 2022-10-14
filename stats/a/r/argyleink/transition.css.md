@@ -1,10 +1,10 @@
 # argyleink/transition.css - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 64
 
-★ Stars: 1247
+★ Stars: 1248
 
 [Open repository](https://github.com/argyleink/transition.css)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1248 | 64 | 
 | 2022-10-12 | 1247 | 64 | 
 | 2022-10-11 | 1245 | 64 | 
 | 2022-10-10 | 1235 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1202 | 62 | 
 | 2022-09-15 | 1201 | 62 | 
 | 2022-09-14 | 1201 | 62 | 
-| 2022-09-13 | 1200 | 62 | 
 

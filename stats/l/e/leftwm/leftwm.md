@@ -1,6 +1,6 @@
 # leftwm/leftwm - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1949 | 138 | 
 | 2022-10-12 | 1949 | 138 | 
 | 2022-10-11 | 1947 | 138 | 
 | 2022-10-10 | 1946 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1908 | 132 | 
 | 2022-09-15 | 1908 | 132 | 
 | 2022-09-14 | 1906 | 131 | 
-| 2022-09-13 | 1902 | 131 | 
 

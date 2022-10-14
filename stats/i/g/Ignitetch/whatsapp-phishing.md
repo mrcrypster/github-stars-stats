@@ -1,6 +1,6 @@
 # Ignitetch/whatsapp-phishing - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 406 | 108 | 
 | 2022-10-12 | 406 | 108 | 
 | 2022-10-11 | 405 | 108 | 
 | 2022-10-10 | 405 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 400 | 106 | 
 | 2022-09-15 | 400 | 105 | 
 | 2022-09-14 | 400 | 105 | 
-| 2022-09-13 | 400 | 105 | 
 

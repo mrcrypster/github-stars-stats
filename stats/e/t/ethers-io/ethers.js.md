@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 13
 
-☋ Forks: 1273
+☋ Forks: 1274
 
-★ Stars: 5779
+★ Stars: 5787
 
 [Open repository](https://github.com/ethers-io/ethers.js)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-13 | 5779 | 1273 | 
+| 2022-10-13 | 5787 | 1274 | 
 | 2022-10-12 | 5768 | 1266 | 
 | 2022-10-10 | 5762 | 1263 | 
 | 2022-10-09 | 5755 | 1263 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 5636 | 1238 | 
 | 2022-09-15 | 5633 | 1238 | 
 | 2022-09-14 | 5631 | 1237 | 
-| 2022-09-13 | 5625 | 1235 | 
 

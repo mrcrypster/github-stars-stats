@@ -1,10 +1,10 @@
 # rocksdanister/lively - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 732
+☋ Forks: 731
 
-★ Stars: 8788
+★ Stars: 8799
 
 [Open repository](https://github.com/rocksdanister/lively)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 8799 | 731 | 
 | 2022-10-12 | 8788 | 732 | 
 | 2022-10-11 | 8783 | 731 | 
 | 2022-10-10 | 8765 | 730 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 8488 | 708 | 
 | 2022-09-15 | 8480 | 708 | 
 | 2022-09-14 | 8473 | 707 | 
-| 2022-09-13 | 8460 | 706 | 
 

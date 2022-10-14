@@ -1,6 +1,6 @@
 # Infineon/TARGET_CY8CKIT-062S2-43012 - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | - | - | 
 | 2022-10-12 | - | - | 
 | 2022-10-11 | - | - | 
 

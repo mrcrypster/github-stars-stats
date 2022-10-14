@@ -1,10 +1,10 @@
 # devopsdays/devopsdays-web - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 558
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/devopsdays/devopsdays-web)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 135 | 558 | 
 | 2022-10-12 | 134 | 558 | 
 | 2022-10-11 | 134 | 557 | 
 | 2022-10-10 | 134 | 556 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 134 | 555 | 
 | 2022-09-16 | 134 | 555 | 
 | 2022-09-15 | 134 | 555 | 
-| 2022-09-14 | 134 | 554 | 
 

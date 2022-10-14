@@ -1,10 +1,10 @@
 # BishopFox/unredacter - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 554
 
-★ Stars: 5826
+★ Stars: 5828
 
 [Open repository](https://github.com/BishopFox/unredacter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5828 | 554 | 
 | 2022-10-12 | 5826 | 554 | 
 | 2022-10-11 | 5823 | 555 | 
 | 2022-10-10 | 5820 | 555 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 5731 | 544 | 
 | 2022-09-15 | 5721 | 543 | 
 | 2022-09-14 | 5714 | 543 | 
-| 2022-09-13 | 5707 | 543 | 
 

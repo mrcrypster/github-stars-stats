@@ -1,6 +1,6 @@
 # OWASP/wstg - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1012
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 4881 | 1012 | 
 | 2022-10-12 | 4881 | 1012 | 
 | 2022-10-11 | 4877 | 1011 | 
 | 2022-10-10 | 4874 | 1008 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 4788 | 999 | 
 | 2022-09-15 | 4781 | 999 | 
 | 2022-09-14 | 4780 | 999 | 
-| 2022-09-13 | 4779 | 1000 | 
 

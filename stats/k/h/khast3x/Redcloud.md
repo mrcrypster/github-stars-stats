@@ -1,10 +1,10 @@
 # khast3x/Redcloud - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 188
+☋ Forks: 189
 
-★ Stars: 1013
+★ Stars: 1014
 
 [Open repository](https://github.com/khast3x/Redcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1014 | 189 | 
 | 2022-10-13 | 1013 | 188 | 
 | 2022-10-12 | 1013 | 188 | 
 | 2022-10-11 | 1012 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 994 | 186 | 
 | 2022-09-15 | 994 | 186 | 
 | 2022-09-14 | 994 | 186 | 
-| 2022-09-13 | 994 | 186 | 
 

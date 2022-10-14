@@ -1,10 +1,10 @@
 # longguikeji/arkid - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 188
 
-★ Stars: 871
+★ Stars: 873
 
 [Open repository](https://github.com/longguikeji/arkid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 873 | 188 | 
 | 2022-10-12 | 871 | 188 | 
 | 2022-10-11 | 871 | 188 | 
 | 2022-10-10 | 870 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 860 | 186 | 
 | 2022-09-16 | 860 | 186 | 
 | 2022-09-15 | 860 | 186 | 
-| 2022-09-14 | 860 | 186 | 
 

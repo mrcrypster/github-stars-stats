@@ -1,10 +1,10 @@
 # taviso/loadlibrary - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 371
 
-★ Stars: 3988
+★ Stars: 3989
 
 [Open repository](https://github.com/taviso/loadlibrary)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3989 | 371 | 
 | 2022-10-12 | 3988 | 371 | 
 | 2022-10-11 | 3988 | 371 | 
 | 2022-10-10 | 3988 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3982 | 371 | 
 | 2022-09-15 | 3981 | 371 | 
 | 2022-09-14 | 3981 | 371 | 
-| 2022-09-13 | 3979 | 371 | 
 

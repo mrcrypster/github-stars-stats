@@ -1,10 +1,10 @@
 # alvaromontoro/almond.css - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 25
 
-★ Stars: 974
+★ Stars: 975
 
 [Open repository](https://github.com/alvaromontoro/almond.css)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 975 | 25 | 
 | 2022-10-12 | 974 | 25 | 
 | 2022-10-11 | 974 | 25 | 
 | 2022-10-10 | 974 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 973 | 25 | 
 | 2022-09-15 | 973 | 25 | 
 | 2022-09-14 | 973 | 25 | 
-| 2022-09-13 | 973 | 25 | 
 

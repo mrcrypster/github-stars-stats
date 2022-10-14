@@ -1,10 +1,10 @@
 # mhinz/vim-signify - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 98
 
-★ Stars: 2552
+★ Stars: 2553
 
 [Open repository](https://github.com/mhinz/vim-signify)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2553 | 98 | 
 | 2022-10-12 | 2552 | 98 | 
 | 2022-10-11 | 2552 | 97 | 
 | 2022-10-10 | 2552 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2540 | 95 | 
 | 2022-09-15 | 2540 | 95 | 
 | 2022-09-14 | 2539 | 95 | 
-| 2022-09-13 | 2537 | 95 | 
 

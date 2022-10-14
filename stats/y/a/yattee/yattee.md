@@ -1,10 +1,10 @@
 # yattee/yattee - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 31
 
-★ Stars: 779
+★ Stars: 784
 
 [Open repository](https://github.com/yattee/yattee)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 784 | 31 | 
 | 2022-10-12 | 779 | 31 | 
 | 2022-10-11 | 779 | 31 | 
 | 2022-10-10 | 777 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 686 | 28 | 
 | 2022-09-15 | 683 | 27 | 
 | 2022-09-14 | 679 | 27 | 
-| 2022-09-13 | 679 | 27 | 
 

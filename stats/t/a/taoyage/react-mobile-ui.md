@@ -1,6 +1,6 @@
 # taoyage/react-mobile-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 169 | 26 | 
 | 2022-10-12 | 169 | 26 | 
 | 2022-10-11 | 169 | 25 | 
 | 2022-10-10 | 169 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 155 | 22 | 
 | 2022-09-15 | 153 | 22 | 
 | 2022-09-14 | 151 | 22 | 
-| 2022-09-13 | 146 | 22 | 
 

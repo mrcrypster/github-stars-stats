@@ -1,10 +1,10 @@
 # twostraws/CodeScanner - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 164
 
-★ Stars: 567
+★ Stars: 569
 
 [Open repository](https://github.com/twostraws/CodeScanner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 569 | 164 | 
 | 2022-10-12 | 567 | 164 | 
 | 2022-10-11 | 567 | 164 | 
 | 2022-10-10 | 566 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 546 | 159 | 
 | 2022-09-15 | 546 | 158 | 
 | 2022-09-14 | 546 | 158 | 
-| 2022-09-13 | 544 | 158 | 
 

@@ -1,10 +1,10 @@
 # makerdao/multicall - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 270
 
-★ Stars: 705
+★ Stars: 708
 
 [Open repository](https://github.com/makerdao/multicall)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 708 | 270 | 
 | 2022-10-12 | 705 | 270 | 
 | 2022-10-11 | 705 | 270 | 
 | 2022-10-10 | 704 | 270 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 686 | 262 | 
 | 2022-09-15 | 686 | 261 | 
 | 2022-09-14 | 684 | 260 | 
-| 2022-09-13 | 682 | 260 | 
 

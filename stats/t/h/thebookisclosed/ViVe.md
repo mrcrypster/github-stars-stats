@@ -1,10 +1,10 @@
 # thebookisclosed/ViVe - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 132
 
-★ Stars: 1857
+★ Stars: 1862
 
 [Open repository](https://github.com/thebookisclosed/ViVe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1862 | 132 | 
 | 2022-10-12 | 1857 | 132 | 
 | 2022-10-11 | 1848 | 131 | 
 | 2022-10-10 | 1840 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1525 | 115 | 
 | 2022-09-15 | 1524 | 115 | 
 | 2022-09-14 | 1521 | 115 | 
-| 2022-09-13 | 1521 | 115 | 
 

@@ -1,10 +1,10 @@
 # opensource-f2f/episode - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 13
 
-★ Stars: 186
+★ Stars: 187
 
 [Open repository](https://github.com/opensource-f2f/episode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 187 | 13 | 
 | 2022-10-12 | 186 | 13 | 
 | 2022-10-11 | 186 | 13 | 
 | 2022-10-10 | 186 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 162 | 12 | 
 | 2022-09-15 | 162 | 12 | 
 | 2022-09-14 | 161 | 11 | 
-| 2022-09-13 | 161 | 12 | 
 

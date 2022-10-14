@@ -1,10 +1,10 @@
 # innocenzi/laravel-vite - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 68
 
-★ Stars: 564
+★ Stars: 565
 
 [Open repository](https://github.com/innocenzi/laravel-vite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 565 | 68 | 
 | 2022-10-12 | 564 | 68 | 
 | 2022-10-11 | 563 | 68 | 
 | 2022-10-10 | 562 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 557 | 70 | 
 | 2022-09-15 | 556 | 70 | 
 | 2022-09-14 | 556 | 70 | 
-| 2022-09-13 | 556 | 70 | 
 

@@ -1,6 +1,6 @@
 # NeuromatchAcademy/course-content - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 922
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 2299 | 922 | 
 | 2022-10-12 | 2299 | 922 | 
 | 2022-10-11 | 2296 | 922 | 
 | 2022-10-10 | 2296 | 922 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 2289 | 916 | 
 | 2022-09-15 | 2288 | 915 | 
 | 2022-09-14 | 2289 | 915 | 
-| 2022-09-13 | 2289 | 915 | 
 

@@ -1,6 +1,6 @@
 # ROCmSoftwarePlatform/rccl-tests - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 5 | 16 | 
 | 2022-10-12 | 5 | 16 | 
 | 2022-10-11 | 5 | 16 | 
 | 2022-10-10 | 4 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 4 | 16 | 
 | 2022-09-15 | 4 | 16 | 
 | 2022-09-14 | 4 | 16 | 
-| 2022-09-13 | 4 | 16 | 
 

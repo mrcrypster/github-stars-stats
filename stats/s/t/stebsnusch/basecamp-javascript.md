@@ -1,10 +1,10 @@
 # stebsnusch/basecamp-javascript - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 666
 
-★ Stars: 750
+★ Stars: 751
 
 [Open repository](https://github.com/stebsnusch/basecamp-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 751 | 666 | 
 | 2022-10-12 | 750 | 666 | 
 | 2022-10-11 | 750 | 665 | 
 | 2022-10-10 | 748 | 665 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 744 | 667 | 
 | 2022-09-15 | 744 | 667 | 
 | 2022-09-14 | 744 | 667 | 
-| 2022-09-13 | 744 | 667 | 
 

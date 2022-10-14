@@ -1,6 +1,6 @@
 # chenyanming/nov-xwidget - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 36 | 4 | 
 | 2022-10-12 | 36 | 4 | 
 | 2022-10-11 | 36 | 4 | 
 | 2022-10-10 | 36 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 33 | 4 | 
 | 2022-09-16 | 33 | 4 | 
 | 2022-09-15 | 33 | 4 | 
-| 2022-09-13 | 33 | 4 | 
 

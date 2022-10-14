@@ -1,6 +1,6 @@
 # googleapis/google-cloud-go - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1075
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3065 | 1075 | 
 | 2022-10-12 | 3065 | 1075 | 
 | 2022-10-11 | 3062 | 1075 | 
 | 2022-10-10 | 3061 | 1075 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3034 | 1069 | 
 | 2022-09-15 | 3032 | 1070 | 
 | 2022-09-14 | 3032 | 1069 | 
-| 2022-09-13 | 3031 | 1069 | 
 

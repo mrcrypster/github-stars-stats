@@ -1,6 +1,6 @@
 # rolandwalker/unicode-fonts - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 205 | 25 | 
 | 2022-10-12 | 205 | 25 | 
 | 2022-10-11 | 205 | 25 | 
 | 2022-10-10 | 205 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 205 | 25 | 
 | 2022-09-15 | 205 | 25 | 
 | 2022-09-14 | 205 | 25 | 
-| 2022-09-13 | 205 | 25 | 
 

@@ -1,10 +1,10 @@
 # XITRIX/iTorrent - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 130
 
-★ Stars: 1098
+★ Stars: 1101
 
 [Open repository](https://github.com/XITRIX/iTorrent)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1101 | 130 | 
 | 2022-10-12 | 1098 | 130 | 
 | 2022-10-11 | 1097 | 130 | 
 | 2022-10-10 | 1097 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1083 | 129 | 
 | 2022-09-15 | 1083 | 129 | 
 | 2022-09-14 | 1082 | 129 | 
-| 2022-09-13 | 1081 | 129 | 
 

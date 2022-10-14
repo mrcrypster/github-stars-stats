@@ -1,10 +1,10 @@
 # Kotlin/kotlinx.coroutines - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 1638
+☋ Forks: 1639
 
-★ Stars: 11337
+★ Stars: 11341
 
 [Open repository](https://github.com/Kotlin/kotlinx.coroutines)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 11341 | 1639 | 
 | 2022-10-12 | 11337 | 1638 | 
 | 2022-10-11 | 11333 | 1637 | 
 | 2022-10-10 | 11332 | 1636 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 11271 | 1625 | 
 | 2022-09-15 | 11268 | 1626 | 
 | 2022-09-14 | 11261 | 1624 | 
-| 2022-09-13 | 11258 | 1624 | 
 

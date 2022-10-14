@@ -1,10 +1,10 @@
 # skypjack/entt - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 682
 
-★ Stars: 7279
+★ Stars: 7283
 
 [Open repository](https://github.com/skypjack/entt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 7283 | 682 | 
 | 2022-10-12 | 7279 | 682 | 
 | 2022-10-11 | 7274 | 682 | 
 | 2022-10-10 | 7272 | 681 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 7179 | 674 | 
 | 2022-09-15 | 7174 | 674 | 
 | 2022-09-14 | 7167 | 673 | 
-| 2022-09-13 | 7166 | 673 | 
 

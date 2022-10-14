@@ -1,10 +1,10 @@
 # microsoft/ConditionalAccessforZeroTrustResources - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 3
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/microsoft/ConditionalAccessforZeroTrustResources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 42 | 3 | 
 | 2022-10-12 | 41 | 3 | 
 | 2022-10-11 | 41 | 3 | 
 | 2022-10-10 | 41 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 39 | 3 | 
 | 2022-09-15 | 39 | 3 | 
 | 2022-09-14 | 39 | 3 | 
-| 2022-09-13 | 38 | 3 | 
 

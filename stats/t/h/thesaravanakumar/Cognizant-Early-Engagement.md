@@ -1,6 +1,6 @@
 # thesaravanakumar/Cognizant-Early-Engagement - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 169 | 300 | 
 | 2022-10-12 | 169 | 300 | 
 | 2022-10-11 | 169 | 300 | 
 | 2022-10-10 | 169 | 299 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 169 | 293 | 
 | 2022-09-15 | 168 | 292 | 
 | 2022-09-14 | 168 | 292 | 
-| 2022-09-13 | 169 | 292 | 
 

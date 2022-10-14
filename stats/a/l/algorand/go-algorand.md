@@ -1,10 +1,10 @@
 # algorand/go-algorand - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 355
+☋ Forks: 356
 
-★ Stars: 1152
+★ Stars: 1153
 
 [Open repository](https://github.com/algorand/go-algorand)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 1153 | 356 | 
 | 2022-10-12 | 1152 | 355 | 
 | 2022-10-11 | 1152 | 355 | 
 | 2022-10-10 | 1152 | 355 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 1133 | 348 | 
 | 2022-09-15 | 1133 | 348 | 
 | 2022-09-14 | 1133 | 348 | 
-| 2022-09-13 | 1133 | 348 | 
 

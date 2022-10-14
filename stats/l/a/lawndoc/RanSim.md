@@ -1,8 +1,8 @@
 # lawndoc/RanSim - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 116 | 17 | 
 | 2022-10-13 | 116 | 16 | 
 | 2022-10-12 | 116 | 16 | 
 | 2022-10-11 | 115 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 113 | 15 | 
 | 2022-09-15 | 113 | 15 | 
 | 2022-09-14 | 113 | 15 | 
-| 2022-09-13 | 113 | 15 | 
 

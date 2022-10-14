@@ -1,10 +1,10 @@
 # crossin/snippet - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 278
+☋ Forks: 277
 
-★ Stars: 316
+★ Stars: 317
 
 [Open repository](https://github.com/crossin/snippet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 317 | 277 | 
 | 2022-10-12 | 316 | 278 | 
 | 2022-10-11 | 316 | 278 | 
 | 2022-10-10 | 316 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 315 | 279 | 
 | 2022-09-15 | 315 | 279 | 
 | 2022-09-14 | 315 | 279 | 
-| 2022-09-13 | 315 | 279 | 
 

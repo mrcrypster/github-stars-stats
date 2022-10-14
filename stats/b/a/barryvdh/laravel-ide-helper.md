@@ -1,6 +1,6 @@
 # barryvdh/laravel-ide-helper - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 1090
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 12626 | 1090 | 
 | 2022-10-12 | 12626 | 1090 | 
 | 2022-10-11 | 12626 | 1090 | 
 | 2022-10-10 | 12623 | 1090 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 12578 | 1087 | 
 | 2022-09-15 | 12577 | 1087 | 
 | 2022-09-14 | 12576 | 1086 | 
-| 2022-09-13 | 12570 | 1087 | 
 

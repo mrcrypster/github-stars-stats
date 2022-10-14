@@ -1,6 +1,6 @@
 # EasyCorp/EasyAdminBundle - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 917
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3630 | 917 | 
 | 2022-10-12 | 3630 | 917 | 
 | 2022-10-11 | 3629 | 917 | 
 | 2022-10-10 | 3627 | 917 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3612 | 916 | 
 | 2022-09-15 | 3611 | 915 | 
 | 2022-09-14 | 3612 | 914 | 
-| 2022-09-13 | 3610 | 914 | 
 

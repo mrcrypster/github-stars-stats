@@ -1,6 +1,6 @@
 # pwn1sher/frostbyte - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 311 | 38 | 
 | 2022-10-12 | 311 | 38 | 
 | 2022-10-11 | 310 | 38 | 
 | 2022-10-10 | 309 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 303 | 37 | 
 | 2022-09-16 | 303 | 37 | 
 | 2022-09-15 | 303 | 37 | 
-| 2022-09-14 | 302 | 37 | 
 

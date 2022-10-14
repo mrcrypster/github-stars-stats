@@ -1,10 +1,10 @@
 # tonsky/FiraCode - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 2898
+☋ Forks: 2899
 
-★ Stars: 66693
+★ Stars: 66714
 
 [Open repository](https://github.com/tonsky/FiraCode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 66714 | 2899 | 
 | 2022-10-12 | 66693 | 2898 | 
 | 2022-10-11 | 66673 | 2897 | 
 | 2022-10-10 | 66661 | 2896 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 66280 | 2883 | 
 | 2022-09-15 | 66250 | 2881 | 
 | 2022-09-14 | 66231 | 2879 | 
-| 2022-09-13 | 66205 | 2879 | 
 

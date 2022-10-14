@@ -1,10 +1,10 @@
 # remix-run/examples - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 99
+★ Stars: 104
 
 [Open repository](https://github.com/remix-run/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 104 | 24 | 
 | 2022-10-12 | 99 | 23 | 
 | 2022-10-11 | 96 | 23 | 
 | 2022-10-10 | 94 | 23 | 

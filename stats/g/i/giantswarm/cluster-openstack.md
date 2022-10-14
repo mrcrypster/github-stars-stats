@@ -1,10 +1,10 @@
 # giantswarm/cluster-openstack - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/giantswarm/cluster-openstack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 3 | 3 | 
 | 2022-10-12 | 2 | 3 | 
 | 2022-10-11 | 2 | 3 | 
 | 2022-10-10 | 2 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 2 | 3 | 
 | 2022-09-16 | 2 | 3 | 
 | 2022-09-15 | 2 | 3 | 
-| 2022-09-14 | 2 | 3 | 
 

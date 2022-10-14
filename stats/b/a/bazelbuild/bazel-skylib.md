@@ -1,10 +1,10 @@
 # bazelbuild/bazel-skylib - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 148
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/bazelbuild/bazel-skylib)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 263 | 148 | 
 | 2022-10-12 | 262 | 148 | 
 | 2022-10-11 | 262 | 148 | 
 | 2022-10-10 | 262 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 257 | 142 | 
 | 2022-09-15 | 257 | 142 | 
 | 2022-09-14 | 257 | 142 | 
-| 2022-09-13 | 255 | 142 | 
 

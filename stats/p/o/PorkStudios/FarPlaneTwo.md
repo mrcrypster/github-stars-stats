@@ -1,6 +1,6 @@
 # PorkStudios/FarPlaneTwo - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1336 | 43 | 
 | 2022-10-13 | 1336 | 43 | 
 | 2022-10-12 | 1335 | 43 | 
 | 2022-10-10 | 1335 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-16 | 1314 | 43 | 
 | 2022-09-15 | 1312 | 43 | 
 | 2022-09-14 | 1312 | 43 | 
-| 2022-09-13 | 1311 | 43 | 
 

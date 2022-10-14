@@ -1,6 +1,6 @@
 # umotif-public/terraform-aws-ecs-fargate-scheduled-task - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 10 | 7 | 
 | 2022-10-12 | 10 | 7 | 
 | 2022-10-11 | 10 | 7 | 
 | 2022-10-10 | 10 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-17 | 10 | 7 | 
 | 2022-09-16 | 10 | 7 | 
 | 2022-09-15 | 10 | 7 | 
-| 2022-09-14 | 10 | 7 | 
 

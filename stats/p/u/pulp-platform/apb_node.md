@@ -1,10 +1,10 @@
 # pulp-platform/apb_node - stars & forks statistics
 
-Stats updated on Oct 2022, 12
+Stats updated on Oct 2022, 13
 
 ☋ Forks: 16
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/pulp-platform/apb_node)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-13 | 4 | 16 | 
 | 2022-10-12 | 3 | 16 | 
 | 2022-10-11 | 3 | 16 | 
 | 2022-10-10 | 3 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 12
 | 2022-09-16 | 3 | 16 | 
 | 2022-09-15 | 3 | 16 | 
 | 2022-09-14 | 3 | 16 | 
-| 2022-09-13 | 3 | 16 | 
 
