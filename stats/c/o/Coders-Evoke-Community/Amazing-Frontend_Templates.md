@@ -1,10 +1,10 @@
 # Coders-Evoke-Community/Amazing-Frontend_Templates - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 103
+☋ Forks: 108
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 76 | 108 | 
 | 2022-10-13 | 75 | 103 | 
 | 2022-10-12 | 74 | 98 | 
 | 2022-10-11 | 73 | 99 | 

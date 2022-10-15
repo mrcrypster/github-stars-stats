@@ -1,6 +1,6 @@
 # liamzebedee/quark-blockchain - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 56 | 1 | 
 | 2022-10-13 | 56 | 1 | 
 | 2022-10-12 | 56 | 1 | 
 | 2022-10-11 | 56 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 55 | - | 
 | 2022-09-17 | 55 | - | 
 | 2022-09-16 | 55 | - | 
-| 2022-09-15 | 54 | - | 
 

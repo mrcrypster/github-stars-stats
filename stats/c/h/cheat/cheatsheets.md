@@ -1,6 +1,6 @@
 # cheat/cheatsheets - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1288 | 265 | 
 | 2022-10-13 | 1288 | 265 | 
 | 2022-10-12 | 1288 | 265 | 
 | 2022-10-11 | 1288 | 264 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 1254 | 252 | 
 | 2022-09-16 | 1254 | 252 | 
 | 2022-09-15 | 1252 | 252 | 
-| 2022-09-14 | 1252 | 252 | 
 

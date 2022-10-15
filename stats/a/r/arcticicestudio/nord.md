@@ -1,10 +1,10 @@
 # arcticicestudio/nord - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 164
 
-★ Stars: 5290
+★ Stars: 5291
 
 [Open repository](https://github.com/arcticicestudio/nord)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 5291 | 164 | 
 | 2022-10-14 | 5290 | 164 | 
 | 2022-10-13 | 5290 | 164 | 
 | 2022-10-12 | 5290 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 5275 | 164 | 
 | 2022-09-16 | 5273 | 164 | 
 | 2022-09-15 | 5272 | 164 | 
-| 2022-09-14 | 5272 | 164 | 
 

@@ -1,10 +1,10 @@
 # brianlovin/briOS - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 166
 
-★ Stars: 1635
+★ Stars: 1637
 
 [Open repository](https://github.com/brianlovin/briOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1637 | 166 | 
 | 2022-10-13 | 1635 | 166 | 
 | 2022-10-12 | 1635 | 166 | 
 | 2022-10-11 | 1635 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1606 | 166 | 
 | 2022-09-16 | 1603 | 165 | 
 | 2022-09-15 | 1605 | 165 | 
-| 2022-09-14 | 1603 | 165 | 
 

@@ -1,10 +1,10 @@
 # Sunnyyoung/WeChatTweak-macOS - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 1123
+☋ Forks: 1124
 
-★ Stars: 8069
+★ Stars: 8077
 
 [Open repository](https://github.com/Sunnyyoung/WeChatTweak-macOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 8077 | 1124 | 
 | 2022-10-13 | 8069 | 1123 | 
 | 2022-10-12 | 8064 | 1122 | 
 | 2022-10-11 | 8061 | 1122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 7996 | 1114 | 
 | 2022-09-16 | 7992 | 1113 | 
 | 2022-09-15 | 7985 | 1112 | 
-| 2022-09-14 | 7981 | 1113 | 
 

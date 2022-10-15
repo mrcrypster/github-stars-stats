@@ -1,8 +1,8 @@
 # chef/chef-server - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 203
+☋ Forks: 204
 
 ★ Stars: 274
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 274 | 204 | 
 | 2022-10-13 | 274 | 203 | 
 | 2022-10-12 | 274 | 203 | 
 | 2022-10-11 | 274 | 203 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 274 | 202 | 
 | 2022-09-16 | 274 | 202 | 
 | 2022-09-15 | 274 | 202 | 
-| 2022-09-14 | 274 | 202 | 
 

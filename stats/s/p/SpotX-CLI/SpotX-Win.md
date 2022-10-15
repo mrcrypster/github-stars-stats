@@ -1,10 +1,10 @@
 # SpotX-CLI/SpotX-Win - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 154
 
-★ Stars: 2494
+★ Stars: 2517
 
 [Open repository](https://github.com/SpotX-CLI/SpotX-Win)
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-14 | 2494 | 154 | 
+| 2022-10-15 | 2517 | 154 | 
+| 2022-10-14 | 2513 | 153 | 
 | 2022-10-13 | 2488 | 154 | 
 | 2022-10-12 | 2458 | 153 | 
 | 2022-10-11 | 2443 | 152 | 

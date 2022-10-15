@@ -1,10 +1,10 @@
 # LlamaLend/contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 68
+★ Stars: 70
 
 [Open repository](https://github.com/LlamaLend/contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 70 | 15 | 
 | 2022-10-13 | 68 | 14 | 
 | 2022-10-12 | 68 | 14 | 
 | 2022-10-11 | 67 | 14 | 

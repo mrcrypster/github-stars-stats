@@ -1,6 +1,6 @@
 # supabase-community/supabase-graphql-example - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 99 | 14 | 
 | 2022-10-13 | 99 | 14 | 
 | 2022-10-12 | 99 | 14 | 
 | 2022-10-11 | 99 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 93 | 13 | 
 | 2022-09-16 | 93 | 13 | 
 | 2022-09-15 | 93 | 13 | 
-| 2022-09-14 | 93 | 13 | 
 

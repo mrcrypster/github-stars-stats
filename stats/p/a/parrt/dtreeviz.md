@@ -1,10 +1,10 @@
 # parrt/dtreeviz - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 282
+☋ Forks: 281
 
-★ Stars: 2241
+★ Stars: 2242
 
 [Open repository](https://github.com/parrt/dtreeviz)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2242 | 281 | 
 | 2022-10-13 | 2241 | 282 | 
 | 2022-10-12 | 2240 | 282 | 
 | 2022-10-11 | 2239 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 2217 | 278 | 
 | 2022-09-17 | 2217 | 278 | 
 | 2022-09-16 | 2217 | 277 | 
-| 2022-09-15 | 2217 | 277 | 
 

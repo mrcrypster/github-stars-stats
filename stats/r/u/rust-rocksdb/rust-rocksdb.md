@@ -1,10 +1,10 @@
 # rust-rocksdb/rust-rocksdb - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 521
 
-★ Stars: 1281
+★ Stars: 1283
 
 [Open repository](https://github.com/rust-rocksdb/rust-rocksdb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1283 | 521 | 
 | 2022-10-13 | 1281 | 521 | 
 | 2022-10-12 | 1280 | 520 | 
 | 2022-10-11 | 1279 | 519 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1261 | 516 | 
 | 2022-09-16 | 1258 | 516 | 
 | 2022-09-15 | 1257 | 516 | 
-| 2022-09-14 | 1254 | 516 | 
 

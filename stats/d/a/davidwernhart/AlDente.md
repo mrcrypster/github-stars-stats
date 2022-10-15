@@ -1,6 +1,6 @@
 # davidwernhart/AlDente - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5348 | 214 | 
 | 2022-10-13 | 5348 | 214 | 
 | 2022-10-12 | 5347 | 214 | 
 | 2022-10-11 | 5342 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 5234 | 208 | 
 | 2022-09-16 | 5229 | 207 | 
 | 2022-09-15 | 5227 | 207 | 
-| 2022-09-14 | 5222 | 206 | 
 

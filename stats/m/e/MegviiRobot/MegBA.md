@@ -1,6 +1,6 @@
 # MegviiRobot/MegBA - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 324 | 46 | 
 | 2022-10-13 | 324 | 46 | 
 | 2022-10-12 | 320 | 45 | 
 | 2022-10-11 | 320 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 313 | 45 | 
 | 2022-09-17 | 313 | 45 | 
 | 2022-09-16 | 313 | 45 | 
-| 2022-09-15 | 313 | 45 | 
 

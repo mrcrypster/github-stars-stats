@@ -1,6 +1,6 @@
 # fxn/zeitwerk - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1639 | 97 | 
 | 2022-10-13 | 1639 | 97 | 
 | 2022-10-12 | 1638 | 97 | 
 | 2022-10-11 | 1636 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1630 | 94 | 
 | 2022-09-16 | 1629 | 94 | 
 | 2022-09-15 | 1626 | 94 | 
-| 2022-09-14 | 1625 | 94 | 
 

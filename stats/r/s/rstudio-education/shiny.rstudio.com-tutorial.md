@@ -1,6 +1,6 @@
 # rstudio-education/shiny.rstudio.com-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 318
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 291 | 318 | 
 | 2022-10-14 | 291 | 318 | 
 | 2022-10-13 | 291 | 318 | 
 | 2022-10-12 | 291 | 318 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 291 | 318 | 
 | 2022-09-16 | 290 | 318 | 
 | 2022-09-15 | 290 | 318 | 
-| 2022-09-14 | 290 | 319 | 
 

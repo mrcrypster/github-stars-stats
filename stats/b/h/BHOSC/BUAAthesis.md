@@ -1,10 +1,10 @@
 # BHOSC/BUAAthesis - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 237
 
-★ Stars: 744
+★ Stars: 745
 
 [Open repository](https://github.com/BHOSC/BUAAthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 745 | 237 | 
 | 2022-10-13 | 744 | 237 | 
 | 2022-10-12 | 744 | 237 | 
 | 2022-10-11 | 743 | 237 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 730 | 234 | 
 | 2022-09-16 | 729 | 234 | 
 | 2022-09-15 | 729 | 234 | 
-| 2022-09-14 | 728 | 234 | 
 

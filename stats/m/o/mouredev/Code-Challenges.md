@@ -1,10 +1,10 @@
 # mouredev/Code-Challenges - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 51
 
-★ Stars: 356
+★ Stars: 358
 
 [Open repository](https://github.com/mouredev/Code-Challenges)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 358 | 51 | 
 | 2022-10-13 | 356 | 51 | 
 | 2022-10-12 | 356 | 51 | 
 | 2022-10-11 | 356 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 339 | 47 | 
 | 2022-09-16 | 339 | 47 | 
 | 2022-09-15 | 337 | 47 | 
-| 2022-09-14 | 336 | 47 | 
 

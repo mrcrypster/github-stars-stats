@@ -1,10 +1,10 @@
 # TryGhost/Themes - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 35
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/TryGhost/Themes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 26 | 35 | 
 | 2022-10-13 | 25 | 35 | 
 | 2022-10-12 | 25 | 35 | 
 | 2022-10-11 | 25 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 22 | 33 | 
 | 2022-09-16 | 22 | 34 | 
 | 2022-09-15 | 22 | 34 | 
-| 2022-09-14 | 22 | 34 | 
 

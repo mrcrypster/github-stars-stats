@@ -1,6 +1,6 @@
 # PierfrancescoSoffritti/android-youtube-player - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 653
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2822 | 653 | 
 | 2022-10-13 | 2822 | 653 | 
 | 2022-10-12 | 2820 | 653 | 
 | 2022-10-11 | 2818 | 653 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2792 | 651 | 
 | 2022-09-16 | 2791 | 651 | 
 | 2022-09-15 | 2789 | 650 | 
-| 2022-09-14 | 2787 | 649 | 
 

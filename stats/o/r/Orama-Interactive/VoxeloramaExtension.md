@@ -1,10 +1,10 @@
 # Orama-Interactive/VoxeloramaExtension - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Orama-Interactive/VoxeloramaExtension)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 39 | 2 | 
 | 2022-10-13 | 38 | 2 | 
 | 2022-10-12 | 38 | 2 | 
 | 2022-10-11 | 38 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 34 | 1 | 
 | 2022-09-16 | 33 | 1 | 
 | 2022-09-15 | 33 | 1 | 
-| 2022-09-14 | 33 | 1 | 
 

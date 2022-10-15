@@ -1,10 +1,10 @@
 # AnotherEnd15/AEAssistRelease - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 8
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/AnotherEnd15/AEAssistRelease)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 9 | 8 | 
 | 2022-10-13 | 8 | 8 | 
 | 2022-10-12 | 8 | 8 | 
 | 2022-10-11 | 8 | 8 | 

@@ -1,10 +1,10 @@
 # Masterminds/html5-php - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 101
 
-★ Stars: 1092
+★ Stars: 1095
 
 [Open repository](https://github.com/Masterminds/html5-php)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1095 | 101 | 
 | 2022-10-13 | 1092 | 101 | 
 | 2022-10-12 | 1092 | 101 | 
 | 2022-10-11 | 1092 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1079 | 101 | 
 | 2022-09-16 | 1079 | 101 | 
 | 2022-09-15 | 1078 | 100 | 
-| 2022-09-14 | 1077 | 100 | 
 

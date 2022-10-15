@@ -1,6 +1,6 @@
 # MicrosoftDocs/navdevitpro-content-pr - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 6 | 28 | 
 | 2022-10-13 | 6 | 28 | 
 | 2022-10-12 | 6 | 28 | 
 | 2022-10-11 | 6 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 6 | 29 | 
 | 2022-09-16 | 6 | 29 | 
 | 2022-09-15 | 6 | 29 | 
-| 2022-09-14 | 6 | 29 | 
 

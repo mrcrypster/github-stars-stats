@@ -1,10 +1,10 @@
 # neuecc/MessagePack-CSharp - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 578
 
-★ Stars: 4201
+★ Stars: 4202
 
 [Open repository](https://github.com/neuecc/MessagePack-CSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 4202 | 578 | 
 | 2022-10-13 | 4201 | 578 | 
 | 2022-10-12 | 4201 | 576 | 
 | 2022-10-11 | 4199 | 576 | 

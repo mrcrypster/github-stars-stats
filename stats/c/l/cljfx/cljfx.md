@@ -1,6 +1,6 @@
 # cljfx/cljfx - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 813 | 45 | 
 | 2022-10-13 | 813 | 45 | 
 | 2022-10-12 | 813 | 45 | 
 | 2022-10-11 | 813 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 809 | 43 | 
 | 2022-09-16 | 809 | 43 | 
 | 2022-09-15 | 809 | 43 | 
-| 2022-09-14 | 808 | 43 | 
 

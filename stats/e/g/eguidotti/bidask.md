@@ -1,10 +1,10 @@
 # eguidotti/bidask - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 9
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/eguidotti/bidask)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 50 | 9 | 
 | 2022-10-13 | 49 | 9 | 
 | 2022-10-12 | 49 | 9 | 
 | 2022-10-11 | 49 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 40 | 8 | 
 | 2022-09-17 | 40 | 8 | 
 | 2022-09-16 | 40 | 8 | 
-| 2022-09-15 | 40 | 8 | 
 

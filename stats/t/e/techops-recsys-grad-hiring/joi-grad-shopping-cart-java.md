@@ -1,8 +1,8 @@
 # techops-recsys-grad-hiring/joi-grad-shopping-cart-java - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 167
+☋ Forks: 169
 
 ★ Stars: 76
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 76 | 169 | 
 | 2022-10-13 | 76 | 167 | 
 | 2022-10-12 | 76 | 167 | 
 | 2022-10-11 | 76 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 75 | 167 | 
 | 2022-09-16 | 74 | 165 | 
 | 2022-09-15 | 73 | 163 | 
-| 2022-09-14 | 72 | 162 | 
 

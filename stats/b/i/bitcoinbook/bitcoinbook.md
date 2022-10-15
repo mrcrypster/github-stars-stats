@@ -1,10 +1,10 @@
 # bitcoinbook/bitcoinbook - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 5413
 
-★ Stars: 20502
+★ Stars: 20504
 
 [Open repository](https://github.com/bitcoinbook/bitcoinbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 20504 | 5413 | 
 | 2022-10-13 | 20502 | 5413 | 
 | 2022-10-12 | 20498 | 5413 | 
 | 2022-10-11 | 20490 | 5409 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 20379 | 5384 | 
 | 2022-09-16 | 20371 | 5381 | 
 | 2022-09-15 | 20356 | 5379 | 
-| 2022-09-14 | 20330 | 5376 | 
 

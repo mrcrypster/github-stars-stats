@@ -1,6 +1,6 @@
 # NVIDIA/nvbench - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 195 | 39 | 
 | 2022-10-14 | 195 | 39 | 
 | 2022-10-13 | 195 | 39 | 
 | 2022-10-12 | 195 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 189 | 39 | 
 | 2022-09-16 | 189 | 39 | 
 | 2022-09-15 | 189 | 39 | 
-| 2022-09-14 | 189 | 39 | 
 

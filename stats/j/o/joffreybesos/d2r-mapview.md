@@ -1,8 +1,8 @@
 # joffreybesos/d2r-mapview - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 41
+☋ Forks: 43
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 116 | 43 | 
 | 2022-10-13 | 116 | 41 | 
 | 2022-10-12 | 116 | 41 | 
 | 2022-10-11 | 116 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 103 | 40 | 
 | 2022-09-16 | 103 | 40 | 
 | 2022-09-15 | 103 | 40 | 
-| 2022-09-14 | 103 | 40 | 
 

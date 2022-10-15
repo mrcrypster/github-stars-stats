@@ -1,10 +1,10 @@
 # dream11/zio-http - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 166
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/dream11/zio-http)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 562 | 166 | 
 | 2022-10-13 | 561 | 166 | 
 | 2022-10-12 | 561 | 166 | 
 | 2022-10-11 | 560 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 536 | 151 | 
 | 2022-09-16 | 535 | 150 | 
 | 2022-09-15 | 535 | 148 | 
-| 2022-09-14 | 535 | 148 | 
 

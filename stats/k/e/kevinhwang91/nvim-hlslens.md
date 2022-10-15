@@ -1,10 +1,10 @@
 # kevinhwang91/nvim-hlslens - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3
 
-★ Stars: 469
+★ Stars: 471
 
 [Open repository](https://github.com/kevinhwang91/nvim-hlslens)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 471 | 3 | 
 | 2022-10-13 | 469 | 3 | 
 | 2022-10-12 | 467 | 3 | 
 | 2022-10-11 | 465 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 442 | 3 | 
 | 2022-09-16 | 442 | 3 | 
 | 2022-09-15 | 442 | 3 | 
-| 2022-09-14 | 442 | 3 | 
 

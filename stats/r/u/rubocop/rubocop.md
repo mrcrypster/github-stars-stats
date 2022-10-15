@@ -1,6 +1,6 @@
 # rubocop/rubocop - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 2921
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 12009 | 2921 | 
 | 2022-10-13 | 12009 | 2921 | 
 | 2022-10-12 | 12007 | 2919 | 
 | 2022-10-11 | 12007 | 2919 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 11986 | 2913 | 
 | 2022-09-16 | 11982 | 2913 | 
 | 2022-09-15 | 11980 | 2912 | 
-| 2022-09-14 | 11979 | 2912 | 
 

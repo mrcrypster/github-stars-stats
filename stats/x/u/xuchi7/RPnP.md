@@ -1,10 +1,10 @@
 # xuchi7/RPnP - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/xuchi7/RPnP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 18 | 4 | 
 | 2022-10-13 | 17 | 4 | 
 | 2022-10-12 | 17 | 4 | 
 

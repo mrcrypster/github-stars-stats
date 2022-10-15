@@ -1,6 +1,6 @@
 # OpenIMSDK/Open-IM-SDK-iOS - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 124 | 107 | 
 | 2022-10-13 | 124 | 107 | 
 | 2022-10-12 | 124 | 107 | 
 | 2022-10-11 | 124 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 122 | 107 | 
 | 2022-09-16 | 122 | 106 | 
 | 2022-09-15 | 121 | 106 | 
-| 2022-09-14 | 120 | 106 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 14
 
 ☋ Forks: 340
 
-★ Stars: 2671
+★ Stars: 2672
 
 [Open repository](https://github.com/ViewComponent/view_component)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-14 | 2671 | 340 | 
+| 2022-10-14 | 2672 | 340 | 
 | 2022-10-13 | 2670 | 340 | 
 | 2022-10-12 | 2669 | 339 | 
 | 2022-10-11 | 2667 | 340 | 

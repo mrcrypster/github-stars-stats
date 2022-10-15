@@ -1,10 +1,10 @@
 # primefaces/primevue - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 570
+☋ Forks: 571
 
-★ Stars: 2950
+★ Stars: 2956
 
 [Open repository](https://github.com/primefaces/primevue)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2956 | 571 | 
 | 2022-10-13 | 2950 | 570 | 
 | 2022-10-12 | 2945 | 569 | 
 | 2022-10-11 | 2943 | 569 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2860 | 546 | 
 | 2022-09-16 | 2856 | 545 | 
 | 2022-09-15 | 2848 | 544 | 
-| 2022-09-14 | 2802 | 542 | 
 

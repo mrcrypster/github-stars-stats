@@ -1,8 +1,8 @@
 # fly-apps/live_beats - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 89
+☋ Forks: 91
 
 ★ Stars: 726
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 726 | 91 | 
 | 2022-10-13 | 726 | 89 | 
 | 2022-10-12 | 726 | 89 | 
 | 2022-10-11 | 725 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 711 | 86 | 
 | 2022-09-16 | 709 | 86 | 
 | 2022-09-15 | 709 | 86 | 
-| 2022-09-14 | 709 | 85 | 
 

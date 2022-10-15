@@ -1,6 +1,6 @@
 # wushangbin/MGFN - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 202 | 21 | 
 | 2022-10-13 | 202 | 21 | 
 | 2022-10-12 | 202 | 21 | 
 | 2022-10-11 | 202 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 201 | 21 | 
 | 2022-09-16 | 202 | 21 | 
 | 2022-09-15 | 202 | 21 | 
-| 2022-09-14 | 202 | 21 | 
 

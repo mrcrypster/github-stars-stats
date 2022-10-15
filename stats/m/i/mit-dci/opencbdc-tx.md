@@ -1,10 +1,10 @@
 # mit-dci/opencbdc-tx - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 152
 
-★ Stars: 750
+★ Stars: 751
 
 [Open repository](https://github.com/mit-dci/opencbdc-tx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 751 | 152 | 
 | 2022-10-13 | 750 | 152 | 
 | 2022-10-12 | 749 | 152 | 
 | 2022-10-11 | 749 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 747 | 150 | 
 | 2022-09-17 | 747 | 150 | 
 | 2022-09-16 | 745 | 150 | 
-| 2022-09-15 | 745 | 150 | 
 

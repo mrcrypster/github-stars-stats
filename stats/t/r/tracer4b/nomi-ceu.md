@@ -1,6 +1,6 @@
 # tracer4b/nomi-ceu - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 47 | 34 | 
 | 2022-10-13 | 47 | 34 | 
 | 2022-10-12 | 47 | 32 | 
 | 2022-10-11 | 46 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 44 | 27 | 
 | 2022-09-16 | 44 | 27 | 
 | 2022-09-15 | 43 | 27 | 
-| 2022-09-14 | 43 | 27 | 
 

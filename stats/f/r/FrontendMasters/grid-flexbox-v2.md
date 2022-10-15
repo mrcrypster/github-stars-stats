@@ -1,6 +1,6 @@
 # FrontendMasters/grid-flexbox-v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 212
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 102 | 212 | 
 | 2022-10-13 | 102 | 212 | 
 | 2022-10-12 | 102 | 212 | 
 | 2022-10-11 | 102 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 99 | 204 | 
 | 2022-09-17 | 99 | 203 | 
 | 2022-09-16 | 98 | 203 | 
-| 2022-09-15 | 98 | 203 | 
 

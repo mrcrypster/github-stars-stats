@@ -1,10 +1,10 @@
 # confluentinc/confluent-kafka-dotnet - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 738
+☋ Forks: 740
 
-★ Stars: 2374
+★ Stars: 2376
 
 [Open repository](https://github.com/confluentinc/confluent-kafka-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2376 | 740 | 
 | 2022-10-13 | 2374 | 738 | 
 | 2022-10-12 | 2373 | 738 | 
 | 2022-10-11 | 2373 | 737 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2353 | 733 | 
 | 2022-09-16 | 2352 | 733 | 
 | 2022-09-15 | 2352 | 732 | 
-| 2022-09-14 | 2351 | 731 | 
 

@@ -1,8 +1,8 @@
 # Arman-ali-khan-786/calculator - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 12 | 19 | 
 | 2022-10-13 | 12 | 18 | 
 | 2022-10-12 | 12 | 18 | 
 | 2022-10-11 | 12 | 18 | 

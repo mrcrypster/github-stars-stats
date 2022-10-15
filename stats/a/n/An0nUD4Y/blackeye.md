@@ -1,10 +1,10 @@
 # An0nUD4Y/blackeye - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 1174
+☋ Forks: 1176
 
-★ Stars: 1503
+★ Stars: 1508
 
 [Open repository](https://github.com/An0nUD4Y/blackeye)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1508 | 1176 | 
 | 2022-10-13 | 1503 | 1174 | 
 | 2022-10-12 | 1501 | 1172 | 
 | 2022-10-11 | 1499 | 1172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1443 | 1128 | 
 | 2022-09-16 | 1438 | 1123 | 
 | 2022-09-15 | 1434 | 1120 | 
-| 2022-09-14 | 1432 | 1119 | 
 

@@ -1,10 +1,10 @@
 # nvim-treesitter/nvim-treesitter-textobjects - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 83
 
-★ Stars: 878
+★ Stars: 880
 
 [Open repository](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 880 | 83 | 
 | 2022-10-13 | 878 | 83 | 
 | 2022-10-12 | 877 | 83 | 
 | 2022-10-11 | 876 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 845 | 82 | 
 | 2022-09-16 | 844 | 82 | 
 | 2022-09-15 | 844 | 82 | 
-| 2022-09-14 | 843 | 82 | 
 

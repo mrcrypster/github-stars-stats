@@ -1,10 +1,10 @@
 # OpenTTD/OpenTTD - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 605
 
-★ Stars: 4346
+★ Stars: 4350
 
 [Open repository](https://github.com/OpenTTD/OpenTTD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 4350 | 605 | 
 | 2022-10-13 | 4346 | 605 | 
 | 2022-10-12 | 4346 | 606 | 
 | 2022-10-11 | 4344 | 606 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 4300 | 598 | 
 | 2022-09-17 | 4299 | 596 | 
 | 2022-09-16 | 4299 | 596 | 
-| 2022-09-15 | 4296 | 595 | 
 

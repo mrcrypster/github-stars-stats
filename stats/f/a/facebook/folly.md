@@ -1,10 +1,10 @@
 # facebook/folly - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 4846
+☋ Forks: 4848
 
-★ Stars: 23301
+★ Stars: 23349
 
 [Open repository](https://github.com/facebook/folly)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 23349 | 4848 | 
 | 2022-10-13 | 23301 | 4846 | 
 | 2022-10-12 | 23263 | 4844 | 
 | 2022-10-11 | 23262 | 4843 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 23124 | 4829 | 
 | 2022-09-16 | 23120 | 4829 | 
 | 2022-09-15 | 23117 | 4829 | 
-| 2022-09-14 | 23113 | 4829 | 
 

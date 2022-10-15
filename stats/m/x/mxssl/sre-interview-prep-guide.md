@@ -1,10 +1,10 @@
 # mxssl/sre-interview-prep-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 989
+☋ Forks: 991
 
-★ Stars: 3527
+★ Stars: 3528
 
 [Open repository](https://github.com/mxssl/sre-interview-prep-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 3528 | 991 | 
 | 2022-10-13 | 3527 | 989 | 
 | 2022-10-12 | 3525 | 989 | 
 | 2022-10-11 | 3520 | 989 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 3446 | 963 | 
 | 2022-09-16 | 3431 | 960 | 
 | 2022-09-15 | 3430 | 959 | 
-| 2022-09-14 | 3428 | 959 | 
 

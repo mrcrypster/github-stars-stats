@@ -1,6 +1,6 @@
 # tiangolo/nginx-rtmp-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 721 | 288 | 
 | 2022-10-13 | 721 | 288 | 
 | 2022-10-12 | 721 | 288 | 
 | 2022-10-11 | 718 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 712 | 285 | 
 | 2022-09-17 | 712 | 285 | 
 | 2022-09-16 | 711 | 285 | 
-| 2022-09-15 | 711 | 285 | 
 

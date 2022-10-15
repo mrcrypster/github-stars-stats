@@ -1,10 +1,10 @@
 # D1rkMtr/FilelessRemotePE - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 114
 
-★ Stars: 506
+★ Stars: 513
 
 [Open repository](https://github.com/D1rkMtr/FilelessRemotePE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 513 | 114 | 
 | 2022-10-13 | 506 | 114 | 
 | 2022-10-12 | 495 | 114 | 
 | 2022-10-11 | 490 | 112 | 

@@ -1,10 +1,10 @@
 # OtacilioN/awesome-hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 577
+☋ Forks: 582
 
-★ Stars: 626
+★ Stars: 630
 
 [Open repository](https://github.com/OtacilioN/awesome-hacktoberfest-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 630 | 582 | 
 | 2022-10-13 | 626 | 577 | 
 | 2022-10-12 | 624 | 570 | 
 | 2022-10-11 | 614 | 565 | 

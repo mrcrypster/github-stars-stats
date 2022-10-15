@@ -1,10 +1,10 @@
 # marceloprates/prettymaps - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 420
+☋ Forks: 421
 
-★ Stars: 8808
+★ Stars: 8812
 
 [Open repository](https://github.com/marceloprates/prettymaps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 8812 | 421 | 
 | 2022-10-13 | 8808 | 420 | 
 | 2022-10-12 | 8807 | 420 | 
 | 2022-10-11 | 8806 | 420 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 8772 | 413 | 
 | 2022-09-16 | 8771 | 413 | 
 | 2022-09-15 | 8772 | 413 | 
-| 2022-09-14 | 8771 | 413 | 
 

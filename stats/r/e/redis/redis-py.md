@@ -1,10 +1,10 @@
 # redis/redis-py - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 2234
+☋ Forks: 2235
 
-★ Stars: 10829
+★ Stars: 10830
 
 [Open repository](https://github.com/redis/redis-py)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 10830 | 2235 | 
 | 2022-10-13 | 10829 | 2234 | 
 | 2022-10-12 | 10824 | 2233 | 
 | 2022-10-11 | 10819 | 2233 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 10752 | 2217 | 
 | 2022-09-16 | 10750 | 2218 | 
 | 2022-09-15 | 10747 | 2218 | 
-| 2022-09-14 | 10744 | 2219 | 
 

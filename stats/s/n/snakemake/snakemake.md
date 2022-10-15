@@ -1,6 +1,6 @@
 # snakemake/snakemake - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1489 | 378 | 
 | 2022-10-13 | 1489 | 378 | 
 | 2022-10-12 | 1490 | 378 | 
 | 2022-10-11 | 1490 | 378 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1480 | 368 | 
 | 2022-09-16 | 1480 | 368 | 
 | 2022-09-15 | 1480 | 368 | 
-| 2022-09-14 | 1479 | 368 | 
 

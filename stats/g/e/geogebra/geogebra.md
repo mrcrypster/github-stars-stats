@@ -1,8 +1,8 @@
 # geogebra/geogebra - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 273
+☋ Forks: 274
 
 ★ Stars: 988
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 988 | 274 | 
 | 2022-10-13 | 988 | 273 | 
 | 2022-10-12 | 986 | 273 | 
 | 2022-10-11 | 986 | 272 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 971 | 270 | 
 | 2022-09-16 | 971 | 270 | 
 | 2022-09-15 | 971 | 270 | 
-| 2022-09-14 | 970 | 270 | 
 

@@ -1,6 +1,6 @@
 # brikis98/terraform-up-and-running-code - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 1422
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2076 | 1422 | 
 | 2022-10-13 | 2076 | 1422 | 
 | 2022-10-12 | 2075 | 1422 | 
 | 2022-10-11 | 2074 | 1420 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2028 | 1389 | 
 | 2022-09-16 | 2027 | 1389 | 
 | 2022-09-15 | 2026 | 1389 | 
-| 2022-09-14 | 2025 | 1387 | 
 

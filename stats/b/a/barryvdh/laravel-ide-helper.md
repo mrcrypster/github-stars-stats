@@ -1,10 +1,10 @@
 # barryvdh/laravel-ide-helper - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 1090
 
-★ Stars: 12626
+★ Stars: 12632
 
 [Open repository](https://github.com/barryvdh/laravel-ide-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 12632 | 1090 | 
 | 2022-10-13 | 12626 | 1090 | 
 | 2022-10-12 | 12626 | 1090 | 
 | 2022-10-11 | 12626 | 1090 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 12582 | 1086 | 
 | 2022-09-16 | 12578 | 1087 | 
 | 2022-09-15 | 12577 | 1087 | 
-| 2022-09-14 | 12576 | 1086 | 
 

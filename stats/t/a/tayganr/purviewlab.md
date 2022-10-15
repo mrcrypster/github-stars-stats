@@ -1,10 +1,10 @@
 # tayganr/purviewlab - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 103
+☋ Forks: 104
 
-★ Stars: 84
+★ Stars: 86
 
 [Open repository](https://github.com/tayganr/purviewlab)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 86 | 104 | 
 | 2022-10-13 | 84 | 103 | 
 | 2022-10-12 | 84 | 103 | 
 | 2022-10-11 | 84 | 103 | 

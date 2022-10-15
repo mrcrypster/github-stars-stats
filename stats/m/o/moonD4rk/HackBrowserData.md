@@ -1,10 +1,10 @@
 # moonD4rk/HackBrowserData - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 1035
+☋ Forks: 1037
 
-★ Stars: 6114
+★ Stars: 6124
 
 [Open repository](https://github.com/moonD4rk/HackBrowserData)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 6124 | 1037 | 
 | 2022-10-13 | 6114 | 1035 | 
 | 2022-10-12 | 6103 | 1036 | 
 | 2022-10-11 | 6093 | 1035 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 5778 | 1008 | 
 | 2022-09-16 | 5774 | 1007 | 
 | 2022-09-15 | 5768 | 1007 | 
-| 2022-09-14 | 5762 | 1007 | 
 

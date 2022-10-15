@@ -1,10 +1,10 @@
 # aidenybai/million-react - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 6
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/aidenybai/million-react)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 358 | 6 | 
 | 2022-10-13 | 357 | 6 | 
 | 2022-10-12 | 357 | 6 | 
 | 2022-10-11 | 356 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 354 | 6 | 
 | 2022-09-16 | 354 | 6 | 
 | 2022-09-15 | 353 | 6 | 
-| 2022-09-14 | 352 | 6 | 
 

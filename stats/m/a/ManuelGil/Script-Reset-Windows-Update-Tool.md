@@ -1,10 +1,10 @@
 # ManuelGil/Script-Reset-Windows-Update-Tool - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 43
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 142 | 43 | 
 | 2022-10-13 | 141 | 43 | 
 | 2022-10-12 | 141 | 43 | 
 | 2022-10-11 | 141 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 134 | 41 | 
 | 2022-09-16 | 134 | 41 | 
 | 2022-09-15 | 133 | 41 | 
-| 2022-09-14 | 133 | 41 | 
 

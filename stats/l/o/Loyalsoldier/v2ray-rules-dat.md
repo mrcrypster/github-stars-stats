@@ -1,10 +1,10 @@
 # Loyalsoldier/v2ray-rules-dat - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 977
+☋ Forks: 980
 
-★ Stars: 9012
+★ Stars: 9017
 
 [Open repository](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 9017 | 980 | 
 | 2022-10-13 | 9012 | 977 | 
 | 2022-10-12 | 9002 | 976 | 
 | 2022-10-11 | 8997 | 976 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 8835 | 966 | 
 | 2022-09-17 | 8830 | 967 | 
 | 2022-09-16 | 8828 | 967 | 
-| 2022-09-15 | 8826 | 968 | 
 

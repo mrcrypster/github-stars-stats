@@ -1,10 +1,10 @@
 # t4rzsan/sql2types - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/t4rzsan/sql2types)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 10 | - | 
 | 2022-10-13 | 9 | - | 
 | 2022-10-12 | 9 | - | 
 | 2022-10-11 | 9 | - | 

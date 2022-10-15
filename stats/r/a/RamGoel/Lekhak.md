@@ -1,10 +1,10 @@
 # RamGoel/Lekhak - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 6
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/RamGoel/Lekhak)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1 | 6 | 
 | 2022-10-13 | 2 | 6 | 
 | 2022-10-12 | 2 | 6 | 
 | 2022-10-11 | 1 | 6 | 

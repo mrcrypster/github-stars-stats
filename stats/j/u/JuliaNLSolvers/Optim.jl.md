@@ -1,10 +1,10 @@
 # JuliaNLSolvers/Optim.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 201
 
-★ Stars: 892
+★ Stars: 893
 
 [Open repository](https://github.com/JuliaNLSolvers/Optim.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 893 | 201 | 
 | 2022-10-13 | 892 | 201 | 
 | 2022-10-12 | 892 | 202 | 
 | 2022-10-11 | 892 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 891 | 202 | 
 | 2022-09-16 | 890 | 202 | 
 | 2022-09-15 | 890 | 202 | 
-| 2022-09-14 | 890 | 202 | 
 

@@ -1,10 +1,10 @@
 # nvim-zh/better-escape.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 4
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/nvim-zh/better-escape.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 110 | 4 | 
 | 2022-10-13 | 109 | 4 | 
 | 2022-10-12 | 109 | 4 | 
 | 2022-10-11 | 108 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 106 | 4 | 
 | 2022-09-16 | 106 | 4 | 
 | 2022-09-15 | 106 | 4 | 
-| 2022-09-14 | 106 | 4 | 
 

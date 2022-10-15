@@ -1,10 +1,10 @@
 # adereth/dactyl-keyboard - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 721
+☋ Forks: 722
 
-★ Stars: 2429
+★ Stars: 2430
 
 [Open repository](https://github.com/adereth/dactyl-keyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2430 | 722 | 
 | 2022-10-13 | 2429 | 721 | 
 | 2022-10-12 | 2429 | 721 | 
 | 2022-10-11 | 2429 | 719 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2396 | 712 | 
 | 2022-09-16 | 2395 | 712 | 
 | 2022-09-15 | 2395 | 712 | 
-| 2022-09-14 | 2396 | 711 | 
 

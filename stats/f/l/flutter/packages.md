@@ -1,10 +1,10 @@
 # flutter/packages - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 876
+☋ Forks: 880
 
-★ Stars: 2157
+★ Stars: 2159
 
 [Open repository](https://github.com/flutter/packages)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2159 | 880 | 
 | 2022-10-13 | 2157 | 876 | 
 | 2022-10-12 | 2156 | 875 | 
 | 2022-10-11 | 2155 | 875 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2053 | 833 | 
 | 2022-09-16 | 2048 | 832 | 
 | 2022-09-15 | 2044 | 827 | 
-| 2022-09-14 | 2041 | 826 | 
 

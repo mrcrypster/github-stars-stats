@@ -1,10 +1,10 @@
 # sib-swiss/training-collection - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 110
 
-★ Stars: 618
+★ Stars: 621
 
 [Open repository](https://github.com/sib-swiss/training-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 621 | 110 | 
 | 2022-10-13 | 618 | 110 | 
 | 2022-10-12 | 616 | 110 | 
 | 2022-10-11 | 614 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 596 | 105 | 
 | 2022-09-16 | 591 | 105 | 
 | 2022-09-15 | 585 | 105 | 
-| 2022-09-14 | 585 | 104 | 
 

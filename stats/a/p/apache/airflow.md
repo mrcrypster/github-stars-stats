@@ -1,10 +1,10 @@
 # apache/airflow - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 11359
+☋ Forks: 11377
 
-★ Stars: 27811
+★ Stars: 27829
 
 [Open repository](https://github.com/apache/airflow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 27829 | 11377 | 
 | 2022-10-13 | 27811 | 11359 | 
 | 2022-10-12 | 27790 | 11353 | 
 | 2022-10-11 | 27777 | 11348 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 27457 | 11218 | 
 | 2022-09-16 | 27451 | 11211 | 
 | 2022-09-15 | 27445 | 11204 | 
-| 2022-09-14 | 27437 | 11200 | 
 

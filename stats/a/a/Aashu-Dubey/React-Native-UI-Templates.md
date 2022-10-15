@@ -1,10 +1,10 @@
 # Aashu-Dubey/React-Native-UI-Templates - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 75
+☋ Forks: 79
 
-★ Stars: 518
+★ Stars: 551
 
 [Open repository](https://github.com/Aashu-Dubey/React-Native-UI-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 551 | 79 | 
 | 2022-10-13 | 518 | 75 | 
 | 2022-10-12 | 465 | 74 | 
 | 2022-10-11 | 461 | 74 | 

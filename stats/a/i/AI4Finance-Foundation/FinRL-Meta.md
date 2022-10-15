@@ -1,8 +1,8 @@
 # AI4Finance-Foundation/FinRL-Meta - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 231
+☋ Forks: 233
 
 ★ Stars: 462
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 462 | 233 | 
 | 2022-10-13 | 462 | 231 | 
 | 2022-10-12 | 459 | 230 | 
 | 2022-10-11 | 457 | 230 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 434 | 217 | 
 | 2022-09-16 | 434 | 217 | 
 | 2022-09-15 | 434 | 217 | 
-| 2022-09-14 | 434 | 216 | 
 

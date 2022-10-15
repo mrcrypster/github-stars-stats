@@ -1,10 +1,10 @@
 # last-byte/PersistenceSniper - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 80
+☋ Forks: 81
 
-★ Stars: 866
+★ Stars: 868
 
 [Open repository](https://github.com/last-byte/PersistenceSniper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 868 | 81 | 
 | 2022-10-13 | 866 | 80 | 
 | 2022-10-12 | 862 | 79 | 
 | 2022-10-11 | 862 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 730 | 66 | 
 | 2022-09-16 | 721 | 63 | 
 | 2022-09-15 | 716 | 62 | 
-| 2022-09-14 | 714 | 62 | 
 

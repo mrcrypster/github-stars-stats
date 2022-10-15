@@ -1,6 +1,6 @@
 # alandipert/enduro - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 110 | 6 | 
 | 2022-10-13 | 110 | 6 | 
 | 2022-10-12 | 110 | 6 | 
 | 2022-10-11 | 110 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 110 | 6 | 
 | 2022-09-16 | 110 | 6 | 
 | 2022-09-15 | 110 | 6 | 
-| 2022-09-14 | 110 | 6 | 
 

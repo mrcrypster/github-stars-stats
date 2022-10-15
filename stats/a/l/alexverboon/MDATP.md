@@ -1,6 +1,6 @@
 # alexverboon/MDATP - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 336 | 49 | 
 | 2022-10-13 | 336 | 49 | 
 | 2022-10-12 | 336 | 49 | 
 | 2022-10-11 | 336 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 333 | 48 | 
 | 2022-09-16 | 333 | 48 | 
 | 2022-09-15 | 332 | 48 | 
-| 2022-09-14 | 332 | 48 | 
 

@@ -1,10 +1,10 @@
 # nmeum/android-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 23
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/nmeum/android-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 91 | 23 | 
 | 2022-10-13 | 90 | 23 | 
 | 2022-10-12 | 90 | 23 | 
 | 2022-10-11 | 90 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 89 | 23 | 
 | 2022-09-16 | 89 | 23 | 
 | 2022-09-15 | 89 | 23 | 
-| 2022-09-14 | 89 | 23 | 
 

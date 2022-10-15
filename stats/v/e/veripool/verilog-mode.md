@@ -1,10 +1,10 @@
 # veripool/verilog-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 80
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/veripool/verilog-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 181 | 80 | 
 | 2022-10-13 | 180 | 80 | 
 | 2022-10-12 | 180 | 79 | 
 | 2022-10-11 | 180 | 79 | 

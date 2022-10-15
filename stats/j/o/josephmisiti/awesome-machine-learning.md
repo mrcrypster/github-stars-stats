@@ -1,10 +1,10 @@
 # josephmisiti/awesome-machine-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 13580
+☋ Forks: 13577
 
-★ Stars: 56310
+★ Stars: 56322
 
 [Open repository](https://github.com/josephmisiti/awesome-machine-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 56322 | 13577 | 
 | 2022-10-13 | 56310 | 13580 | 
 | 2022-10-12 | 56293 | 13578 | 
 | 2022-10-11 | 56288 | 13579 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 55823 | 13527 | 
 | 2022-09-16 | 55819 | 13525 | 
 | 2022-09-15 | 55808 | 13521 | 
-| 2022-09-14 | 55801 | 13517 | 
 

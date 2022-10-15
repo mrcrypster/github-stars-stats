@@ -1,6 +1,6 @@
 # liquidx/CoreBluetoothPeripheral - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 384 | 87 | 
 | 2022-10-13 | 384 | 87 | 
 | 2022-10-12 | 384 | 87 | 
 | 2022-10-11 | 384 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 385 | 87 | 
 | 2022-09-16 | 385 | 87 | 
 | 2022-09-15 | 385 | 87 | 
-| 2022-09-14 | 385 | 87 | 
 

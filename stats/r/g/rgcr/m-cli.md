@@ -1,6 +1,6 @@
 # rgcr/m-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 316
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 9135 | 316 | 
 | 2022-10-14 | 9135 | 316 | 
 | 2022-10-13 | 9133 | 316 | 
 | 2022-10-12 | 9132 | 316 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 9099 | 316 | 
 | 2022-09-16 | 9098 | 316 | 
 | 2022-09-15 | 9099 | 317 | 
-| 2022-09-14 | 9099 | 317 | 
 

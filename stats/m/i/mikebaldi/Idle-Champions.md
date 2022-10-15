@@ -1,10 +1,10 @@
 # mikebaldi/Idle-Champions - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 117
+☋ Forks: 118
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/mikebaldi/Idle-Champions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 60 | 118 | 
 | 2022-10-13 | 59 | 117 | 
 | 2022-10-12 | 59 | 117 | 
 | 2022-10-11 | 59 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 55 | 113 | 
 | 2022-09-16 | 55 | 112 | 
 | 2022-09-15 | 55 | 112 | 
-| 2022-09-14 | 55 | 112 | 
 

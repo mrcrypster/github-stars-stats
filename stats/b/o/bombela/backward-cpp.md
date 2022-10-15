@@ -1,10 +1,10 @@
 # bombela/backward-cpp - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 380
+☋ Forks: 379
 
-★ Stars: 2704
+★ Stars: 2706
 
 [Open repository](https://github.com/bombela/backward-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2706 | 379 | 
 | 2022-10-13 | 2704 | 380 | 
 | 2022-10-12 | 2702 | 380 | 
 | 2022-10-11 | 2699 | 380 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2659 | 377 | 
 | 2022-09-16 | 2657 | 377 | 
 | 2022-09-15 | 2653 | 377 | 
-| 2022-09-14 | 2653 | 377 | 
 

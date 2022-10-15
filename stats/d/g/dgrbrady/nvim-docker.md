@@ -1,10 +1,10 @@
 # dgrbrady/nvim-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 88
+★ Stars: 90
 
 [Open repository](https://github.com/dgrbrady/nvim-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 90 | - | 
 | 2022-10-13 | 88 | - | 
 | 2022-10-12 | 87 | - | 
 | 2022-10-11 | 87 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 83 | - | 
 | 2022-09-16 | 83 | - | 
 | 2022-09-15 | 83 | - | 
-| 2022-09-14 | 83 | - | 
 

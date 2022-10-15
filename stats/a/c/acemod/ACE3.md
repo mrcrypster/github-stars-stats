@@ -1,10 +1,10 @@
 # acemod/ACE3 - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 703
 
-★ Stars: 905
+★ Stars: 906
 
 [Open repository](https://github.com/acemod/ACE3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 906 | 703 | 
 | 2022-10-13 | 905 | 703 | 
 | 2022-10-12 | 904 | 703 | 
 | 2022-10-11 | 904 | 703 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 899 | 701 | 
 | 2022-09-16 | 899 | 701 | 
 | 2022-09-15 | 899 | 701 | 
-| 2022-09-14 | 899 | 700 | 
 

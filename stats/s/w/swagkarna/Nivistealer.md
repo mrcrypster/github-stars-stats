@@ -1,10 +1,10 @@
 # swagkarna/Nivistealer - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 291
+★ Stars: 292
 
 [Open repository](https://github.com/swagkarna/Nivistealer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 292 | 84 | 
 | 2022-10-13 | 291 | 83 | 
 | 2022-10-12 | 289 | 83 | 
 | 2022-10-11 | 289 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 270 | 81 | 
 | 2022-09-16 | 270 | 81 | 
 | 2022-09-15 | 270 | 81 | 
-| 2022-09-14 | 269 | 81 | 
 

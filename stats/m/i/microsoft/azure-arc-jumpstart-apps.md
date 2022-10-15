@@ -1,8 +1,8 @@
 # microsoft/azure-arc-jumpstart-apps - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 84
+☋ Forks: 85
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5 | 85 | 
 | 2022-10-13 | 5 | 84 | 
 | 2022-10-12 | 5 | 84 | 
 | 2022-10-11 | 5 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 4 | 78 | 
 | 2022-09-16 | 4 | 78 | 
 | 2022-09-15 | 4 | 78 | 
-| 2022-09-14 | 4 | 76 | 
 

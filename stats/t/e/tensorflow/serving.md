@@ -1,10 +1,10 @@
 # tensorflow/serving - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 2160
 
-★ Stars: 5663
+★ Stars: 5665
 
 [Open repository](https://github.com/tensorflow/serving)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5665 | 2160 | 
 | 2022-10-13 | 5663 | 2160 | 
 | 2022-10-12 | 5661 | 2158 | 
 | 2022-10-11 | 5659 | 2158 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 5639 | 2156 | 
 | 2022-09-16 | 5639 | 2156 | 
 | 2022-09-15 | 5639 | 2156 | 
-| 2022-09-14 | 5638 | 2156 | 
 

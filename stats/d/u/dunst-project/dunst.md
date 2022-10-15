@@ -1,10 +1,10 @@
 # dunst-project/dunst - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 286
 
-★ Stars: 3420
+★ Stars: 3421
 
 [Open repository](https://github.com/dunst-project/dunst)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 3421 | 286 | 
 | 2022-10-13 | 3420 | 286 | 
 | 2022-10-12 | 3417 | 286 | 
 | 2022-10-11 | 3416 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 3374 | 285 | 
 | 2022-09-17 | 3372 | 284 | 
 | 2022-09-16 | 3372 | 283 | 
-| 2022-09-15 | 3371 | 283 | 
 

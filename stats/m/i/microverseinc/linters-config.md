@@ -1,10 +1,10 @@
 # microverseinc/linters-config - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 882
+☋ Forks: 883
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/microverseinc/linters-config)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 184 | 883 | 
 | 2022-10-13 | 183 | 882 | 
 | 2022-10-12 | 183 | 881 | 
 | 2022-10-11 | 183 | 880 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 178 | 837 | 
 | 2022-09-16 | 177 | 835 | 
 | 2022-09-15 | 177 | 834 | 
-| 2022-09-14 | 177 | 833 | 
 

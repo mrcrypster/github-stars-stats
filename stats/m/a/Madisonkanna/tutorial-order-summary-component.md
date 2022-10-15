@@ -1,10 +1,10 @@
 # Madisonkanna/tutorial-order-summary-component - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 23
 
-★ Stars: 24
+★ Stars: 23
 
 [Open repository](https://github.com/Madisonkanna/tutorial-order-summary-component)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 23 | 23 | 
 | 2022-10-13 | 24 | 23 | 
 | 2022-10-12 | 24 | 23 | 
 | 2022-10-11 | 24 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 22 | 20 | 
 | 2022-09-16 | 22 | 20 | 
 | 2022-09-15 | 22 | 20 | 
-| 2022-09-14 | 21 | 20 | 
 

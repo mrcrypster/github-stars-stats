@@ -1,10 +1,10 @@
 # feenkcom/gtoolkit - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 38
 
-★ Stars: 778
+★ Stars: 777
 
 [Open repository](https://github.com/feenkcom/gtoolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 777 | 38 | 
 | 2022-10-13 | 778 | 38 | 
 | 2022-10-12 | 777 | 36 | 
 | 2022-10-11 | 774 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 754 | 36 | 
 | 2022-09-16 | 754 | 36 | 
 | 2022-09-15 | 752 | 36 | 
-| 2022-09-14 | 749 | 36 | 
 

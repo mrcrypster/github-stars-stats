@@ -1,10 +1,10 @@
 # fabulousfx/FSharp.Mobile.Templates - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/fabulousfx/FSharp.Mobile.Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 66 | 3 | 
 | 2022-10-13 | 65 | 3 | 
 | 2022-10-12 | 65 | 3 | 
 | 2022-10-11 | 65 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 62 | 3 | 
 | 2022-09-16 | 62 | 3 | 
 | 2022-09-15 | 62 | 3 | 
-| 2022-09-14 | 62 | 3 | 
 

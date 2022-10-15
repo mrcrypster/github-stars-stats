@@ -1,10 +1,10 @@
 # shaunabanana/intrigue - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 2
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/shaunabanana/intrigue)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 96 | 2 | 
 | 2022-10-13 | 95 | 2 | 
 | 2022-10-12 | 95 | 2 | 
 | 2022-10-11 | 95 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 93 | 2 | 
 | 2022-09-17 | 93 | 2 | 
 | 2022-09-16 | 93 | 2 | 
-| 2022-09-14 | 93 | 2 | 
 

@@ -1,6 +1,6 @@
 # prql/prql - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5191 | 99 | 
 | 2022-10-13 | 5191 | 99 | 
 | 2022-10-12 | 5189 | 99 | 
 | 2022-10-11 | 5186 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 5002 | 96 | 
 | 2022-09-16 | 5000 | 96 | 
 | 2022-09-15 | 4997 | 96 | 
-| 2022-09-14 | 4995 | 95 | 
 

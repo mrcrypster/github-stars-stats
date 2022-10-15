@@ -1,10 +1,10 @@
 # sei-protocol/testnet - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 1629
+☋ Forks: 1630
 
-★ Stars: 104
+★ Stars: 106
 
 [Open repository](https://github.com/sei-protocol/testnet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 106 | 1630 | 
 | 2022-10-13 | 104 | 1629 | 
 | 2022-10-12 | 104 | 1629 | 
 | 2022-10-11 | 103 | 1629 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 101 | 1629 | 
 | 2022-09-16 | 101 | 1630 | 
 | 2022-09-15 | 100 | 1630 | 
-| 2022-09-14 | 100 | 1629 | 
 

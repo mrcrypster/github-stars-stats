@@ -1,6 +1,6 @@
 # sam-astro/Z-Sharp - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 418 | 43 | 
 | 2022-10-13 | 418 | 43 | 
 | 2022-10-12 | 417 | 42 | 
 | 2022-10-11 | 417 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 403 | 42 | 
 | 2022-09-16 | 401 | 41 | 
 | 2022-09-15 | 399 | 41 | 
-| 2022-09-14 | 400 | 41 | 
 

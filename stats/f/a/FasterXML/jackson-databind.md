@@ -1,10 +1,10 @@
 # FasterXML/jackson-databind - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 1242
 
-★ Stars: 3144
+★ Stars: 3146
 
 [Open repository](https://github.com/FasterXML/jackson-databind)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 3146 | 1242 | 
 | 2022-10-13 | 3144 | 1242 | 
 | 2022-10-12 | 3145 | 1241 | 
 | 2022-10-11 | 3142 | 1239 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 3118 | 1233 | 
 | 2022-09-16 | 3118 | 1232 | 
 | 2022-09-15 | 3115 | 1232 | 
-| 2022-09-14 | 3115 | 1232 | 
 

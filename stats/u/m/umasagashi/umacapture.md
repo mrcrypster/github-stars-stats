@@ -1,10 +1,10 @@
 # umasagashi/umacapture - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/umasagashi/umacapture)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 17 | 1 | 
 | 2022-10-13 | 16 | 1 | 
 | 2022-10-12 | 16 | 1 | 
 | 2022-10-11 | 16 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 14 | 1 | 
 | 2022-09-16 | 14 | 1 | 
 | 2022-09-15 | 14 | 1 | 
-| 2022-09-14 | 13 | 1 | 
 

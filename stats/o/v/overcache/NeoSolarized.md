@@ -1,10 +1,10 @@
 # overcache/NeoSolarized - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 108
 
-★ Stars: 473
+★ Stars: 474
 
 [Open repository](https://github.com/overcache/NeoSolarized)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 474 | 108 | 
 | 2022-10-13 | 473 | 108 | 
 | 2022-10-12 | 473 | 108 | 
 | 2022-10-11 | 473 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 465 | 107 | 
 | 2022-09-16 | 465 | 107 | 
 | 2022-09-15 | 465 | 107 | 
-| 2022-09-14 | 465 | 107 | 
 

@@ -1,10 +1,10 @@
 # codedchip/AMSGateArray - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 4
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/codedchip/AMSGateArray)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 26 | 4 | 
 | 2022-10-13 | 25 | 4 | 
 | 2022-10-12 | 25 | 4 | 
 | 2022-10-11 | 25 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 25 | 4 | 
 | 2022-09-16 | 25 | 4 | 
 | 2022-09-15 | 25 | 4 | 
-| 2022-09-14 | 25 | 4 | 
 

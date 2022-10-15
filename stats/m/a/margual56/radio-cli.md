@@ -1,6 +1,6 @@
 # margual56/radio-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 74 | 3 | 
 | 2022-10-13 | 74 | 3 | 
 | 2022-10-12 | 73 | 3 | 
 | 2022-10-11 | 73 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 72 | 3 | 
 | 2022-09-16 | 72 | 3 | 
 | 2022-09-15 | 72 | 3 | 
-| 2022-09-14 | 72 | 3 | 
 

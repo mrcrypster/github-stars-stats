@@ -1,6 +1,6 @@
 # camohe90/platziretoDNFT - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 8 | 78 | 
 | 2022-10-13 | 8 | 78 | 
 | 2022-10-12 | 8 | 79 | 
 | 2022-10-11 | 8 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 8 | 80 | 
 | 2022-09-16 | 8 | 80 | 
 | 2022-09-15 | 8 | 80 | 
-| 2022-09-14 | 8 | 80 | 
 

@@ -1,6 +1,6 @@
 # mkitti/ArrayAllocators.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 44 | 1 | 
 | 2022-10-13 | 44 | 1 | 
 | 2022-10-12 | 44 | 1 | 
 | 2022-10-11 | 44 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 45 | 1 | 
 | 2022-09-16 | 45 | 1 | 
 | 2022-09-15 | 45 | 1 | 
-| 2022-09-14 | 45 | 1 | 
 

@@ -1,6 +1,6 @@
 # GEJ1/Recursos-neuro - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 132 | 40 | 
 | 2022-10-13 | 132 | 40 | 
 | 2022-10-12 | 132 | 40 | 
 | 2022-10-11 | 132 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 120 | 36 | 
 | 2022-09-16 | 118 | 36 | 
 | 2022-09-15 | 118 | 36 | 
-| 2022-09-14 | 118 | 36 | 
 

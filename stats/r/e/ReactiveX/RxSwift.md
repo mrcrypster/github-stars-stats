@@ -1,10 +1,10 @@
 # ReactiveX/RxSwift - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 4013
 
-★ Stars: 22775
+★ Stars: 22780
 
 [Open repository](https://github.com/ReactiveX/RxSwift)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 22780 | 4013 | 
 | 2022-10-13 | 22775 | 4013 | 
 | 2022-10-12 | 22771 | 4012 | 
 | 2022-10-11 | 22768 | 4016 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 22578 | 4003 | 
 | 2022-09-16 | 22577 | 4001 | 
 | 2022-09-15 | 22576 | 4002 | 
-| 2022-09-14 | 22576 | 4002 | 
 

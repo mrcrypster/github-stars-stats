@@ -1,10 +1,10 @@
 # AndreaMiotto/PartialSheet - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 159
 
-★ Stars: 1337
+★ Stars: 1339
 
 [Open repository](https://github.com/AndreaMiotto/PartialSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1339 | 159 | 
 | 2022-10-13 | 1337 | 159 | 
 | 2022-10-12 | 1335 | 159 | 
 | 2022-10-11 | 1336 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1327 | 157 | 
 | 2022-09-16 | 1327 | 157 | 
 | 2022-09-15 | 1325 | 157 | 
-| 2022-09-14 | 1324 | 157 | 
 

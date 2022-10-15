@@ -1,10 +1,10 @@
 # supermariolabs/spooq - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/supermariolabs/spooq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 27 | 3 | 
 | 2022-10-13 | 26 | 3 | 
 | 2022-10-12 | 25 | 3 | 
 | 2022-10-11 | 25 | 3 | 

@@ -1,6 +1,6 @@
 # mamun001/kubernetes_playground_mamun_rashid - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 8 | 11 | 
 | 2022-10-13 | 8 | 11 | 
 | 2022-10-12 | 8 | 11 | 
 | 2022-10-11 | 8 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 8 | 11 | 
 | 2022-09-16 | 8 | 11 | 
 | 2022-09-15 | 8 | 11 | 
-| 2022-09-14 | 8 | 11 | 
 

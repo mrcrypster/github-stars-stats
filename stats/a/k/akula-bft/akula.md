@@ -1,10 +1,10 @@
 # akula-bft/akula - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 98
 
-★ Stars: 675
+★ Stars: 678
 
 [Open repository](https://github.com/akula-bft/akula)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 678 | 98 | 
 | 2022-10-13 | 675 | 98 | 
 | 2022-10-12 | 670 | 98 | 
 | 2022-10-11 | 667 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 621 | 91 | 
 | 2022-09-16 | 620 | 90 | 
 | 2022-09-15 | 614 | 88 | 
-| 2022-09-14 | 601 | 88 | 
 

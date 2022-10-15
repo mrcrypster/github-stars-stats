@@ -1,10 +1,10 @@
 # johnthebrit/CertificationMaterials - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 266
+☋ Forks: 267
 
-★ Stars: 1284
+★ Stars: 1285
 
 [Open repository](https://github.com/johnthebrit/CertificationMaterials)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1285 | 267 | 
 | 2022-10-13 | 1284 | 266 | 
 | 2022-10-12 | 1283 | 266 | 
 | 2022-10-11 | 1282 | 266 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 1271 | 263 | 
 | 2022-09-17 | 1271 | 263 | 
 | 2022-09-16 | 1269 | 263 | 
-| 2022-09-15 | 1268 | 263 | 
 

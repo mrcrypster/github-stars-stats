@@ -1,10 +1,10 @@
 # machine1337/fake-sms - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 49
 
-★ Stars: 240
+★ Stars: 243
 
 [Open repository](https://github.com/machine1337/fake-sms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 243 | 49 | 
 | 2022-10-13 | 240 | 49 | 
 | 2022-10-12 | 238 | 49 | 
 | 2022-10-11 | 237 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 219 | 44 | 
 | 2022-09-16 | 218 | 44 | 
 | 2022-09-15 | 217 | 44 | 
-| 2022-09-14 | 215 | 43 | 
 

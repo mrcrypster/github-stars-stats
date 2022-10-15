@@ -1,10 +1,10 @@
 # Jrohy/multi-v2ray - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 2366
 
-★ Stars: 5990
+★ Stars: 5991
 
 [Open repository](https://github.com/Jrohy/multi-v2ray)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5991 | 2366 | 
 | 2022-10-13 | 5990 | 2366 | 
 | 2022-10-12 | 5985 | 2366 | 
 | 2022-10-11 | 5982 | 2362 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 5938 | 2354 | 
 | 2022-09-16 | 5937 | 2355 | 
 | 2022-09-15 | 5934 | 2355 | 
-| 2022-09-14 | 5933 | 2353 | 
 

@@ -1,8 +1,8 @@
 # Azure/sqlmi - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 35 | 11 | 
 | 2022-10-13 | 35 | 10 | 
 | 2022-10-12 | 35 | 10 | 
 | 2022-10-11 | 34 | 10 | 

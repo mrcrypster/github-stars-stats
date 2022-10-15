@@ -1,10 +1,10 @@
 # tanyagupta0201/LeetCode-Problems-Solutions - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 99
+☋ Forks: 104
 
-★ Stars: 46
+★ Stars: 48
 
 [Open repository](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 48 | 104 | 
 | 2022-10-13 | 46 | 99 | 
 | 2022-10-12 | 45 | 93 | 
 | 2022-10-11 | 45 | 88 | 

@@ -1,10 +1,10 @@
 # troyhunt/password-purgatory - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 14
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/troyhunt/password-purgatory)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 121 | 14 | 
 | 2022-10-13 | 120 | 14 | 
 | 2022-10-12 | 120 | 14 | 
 | 2022-10-11 | 120 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 116 | 14 | 
 | 2022-09-16 | 116 | 14 | 
 | 2022-09-15 | 116 | 14 | 
-| 2022-09-14 | 116 | 14 | 
 

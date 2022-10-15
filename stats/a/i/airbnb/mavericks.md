@@ -1,10 +1,10 @@
 # airbnb/mavericks - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 417
+☋ Forks: 419
 
-★ Stars: 5077
+★ Stars: 5082
 
 [Open repository](https://github.com/airbnb/mavericks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5082 | 419 | 
 | 2022-10-13 | 5077 | 417 | 
 | 2022-10-12 | 5072 | 417 | 
 | 2022-10-11 | 5072 | 417 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 5015 | 408 | 
 | 2022-09-16 | 5014 | 408 | 
 | 2022-09-15 | 5011 | 408 | 
-| 2022-09-14 | 5010 | 408 | 
 

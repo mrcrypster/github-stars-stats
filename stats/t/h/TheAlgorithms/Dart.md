@@ -1,10 +1,10 @@
 # TheAlgorithms/Dart - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 286
+☋ Forks: 287
 
-★ Stars: 1057
+★ Stars: 1063
 
 [Open repository](https://github.com/TheAlgorithms/Dart)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1063 | 287 | 
 | 2022-10-13 | 1057 | 286 | 
 | 2022-10-12 | 1053 | 285 | 
 | 2022-10-11 | 1051 | 285 | 

@@ -1,6 +1,6 @@
 # dawnlh/awesome-low-light-image-enhancement - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 563 | 128 | 
 | 2022-10-13 | 563 | 128 | 
 | 2022-10-12 | 563 | 128 | 
 | 2022-10-11 | 561 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 532 | 126 | 
 | 2022-09-16 | 531 | 125 | 
 | 2022-09-15 | 531 | 125 | 
-| 2022-09-14 | 530 | 125 | 
 

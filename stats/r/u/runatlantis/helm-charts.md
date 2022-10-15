@@ -1,8 +1,8 @@
 # runatlantis/helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 107
+☋ Forks: 109
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 56 | 109 | 
 | 2022-10-13 | 56 | 107 | 
 | 2022-10-12 | 56 | 107 | 
 | 2022-10-11 | 56 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 55 | 105 | 
 | 2022-09-16 | 55 | 105 | 
 | 2022-09-15 | 55 | 104 | 
-| 2022-09-14 | 55 | 104 | 
 

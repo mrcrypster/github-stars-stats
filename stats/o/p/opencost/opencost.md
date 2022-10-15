@@ -1,8 +1,8 @@
 # opencost/opencost - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 274
+☋ Forks: 276
 
 ★ Stars: 2832
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2832 | 276 | 
 | 2022-10-13 | 2832 | 274 | 
 | 2022-10-12 | 2829 | 274 | 
 | 2022-10-11 | 2822 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2765 | 263 | 
 | 2022-09-16 | 2765 | 262 | 
 | 2022-09-15 | 2762 | 262 | 
-| 2022-09-14 | 2761 | 263 | 
 

@@ -1,10 +1,10 @@
 # unknwon/the-way-to-go_ZH_CN - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 8238
+☋ Forks: 8242
 
-★ Stars: 31198
+★ Stars: 31211
 
 [Open repository](https://github.com/unknwon/the-way-to-go_ZH_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 31211 | 8242 | 
 | 2022-10-13 | 31198 | 8238 | 
 | 2022-10-12 | 31179 | 8233 | 
 | 2022-10-11 | 31165 | 8229 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 31025 | 8207 | 
 | 2022-09-16 | 31020 | 8201 | 
 | 2022-09-15 | 31014 | 8201 | 
-| 2022-09-14 | 31005 | 8200 | 
 

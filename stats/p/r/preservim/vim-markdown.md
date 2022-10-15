@@ -1,10 +1,10 @@
 # preservim/vim-markdown - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 497
 
-★ Stars: 4226
+★ Stars: 4229
 
 [Open repository](https://github.com/preservim/vim-markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 4229 | 497 | 
 | 2022-10-13 | 4226 | 497 | 
 | 2022-10-12 | 4226 | 497 | 
 | 2022-10-11 | 4225 | 497 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 4194 | 496 | 
 | 2022-09-16 | 4190 | 496 | 
 | 2022-09-15 | 4189 | 495 | 
-| 2022-09-14 | 4188 | 495 | 
 

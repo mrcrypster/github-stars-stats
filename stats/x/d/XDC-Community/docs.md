@@ -1,8 +1,8 @@
 # XDC-Community/docs - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 4 | 20 | 
 | 2022-10-13 | 4 | 19 | 
 | 2022-10-12 | 4 | 19 | 
 | 2022-10-11 | 4 | 18 | 

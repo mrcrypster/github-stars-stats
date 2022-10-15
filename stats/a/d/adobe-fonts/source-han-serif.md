@@ -1,10 +1,10 @@
 # adobe-fonts/source-han-serif - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 639
 
-★ Stars: 6626
+★ Stars: 6629
 
 [Open repository](https://github.com/adobe-fonts/source-han-serif)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 6629 | 639 | 
 | 2022-10-14 | 6626 | 639 | 
 | 2022-10-13 | 6623 | 638 | 
 | 2022-10-12 | 6623 | 638 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 6588 | 635 | 
 | 2022-09-16 | 6586 | 635 | 
 | 2022-09-15 | 6582 | 635 | 
-| 2022-09-14 | 6582 | 635 | 
 

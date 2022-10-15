@@ -1,10 +1,10 @@
 # spiritualized1997/openFPGA-GB-GBC - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 3
 
-★ Stars: 302
+★ Stars: 305
 
 [Open repository](https://github.com/spiritualized1997/openFPGA-GB-GBC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 305 | 3 | 
 | 2022-10-13 | 302 | 3 | 
 | 2022-10-12 | 302 | 3 | 
 | 2022-10-11 | 301 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 282 | 3 | 
 | 2022-09-16 | 279 | 3 | 
 | 2022-09-15 | 278 | 3 | 
-| 2022-09-14 | 277 | 3 | 
 

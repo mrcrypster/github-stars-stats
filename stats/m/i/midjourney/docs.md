@@ -1,10 +1,10 @@
 # midjourney/docs - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 22
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/midjourney/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 164 | 22 | 
 | 2022-10-13 | 163 | 22 | 
 | 2022-10-12 | 160 | 21 | 
 | 2022-10-11 | 158 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 113 | 12 | 
 | 2022-09-16 | 112 | 11 | 
 | 2022-09-15 | 110 | 11 | 
-| 2022-09-14 | 106 | 11 | 
 

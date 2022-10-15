@@ -1,10 +1,10 @@
 # nkanaev/tipsy - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 6
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/nkanaev/tipsy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 391 | 6 | 
 | 2022-10-13 | 390 | 6 | 
 | 2022-10-12 | 389 | 6 | 
 | 2022-10-11 | 389 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 384 | 5 | 
 | 2022-09-16 | 384 | 5 | 
 | 2022-09-15 | 384 | 5 | 
-| 2022-09-14 | 384 | 5 | 
 

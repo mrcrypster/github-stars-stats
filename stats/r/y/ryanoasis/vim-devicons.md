@@ -1,10 +1,10 @@
 # ryanoasis/vim-devicons - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 245
 
-★ Stars: 4992
+★ Stars: 4993
 
 [Open repository](https://github.com/ryanoasis/vim-devicons)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 4993 | 245 | 
 | 2022-10-13 | 4992 | 245 | 
 | 2022-10-12 | 4992 | 244 | 
 | 2022-10-11 | 4993 | 244 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 4965 | 243 | 
 | 2022-09-16 | 4964 | 243 | 
 | 2022-09-15 | 4959 | 243 | 
-| 2022-09-14 | 4958 | 243 | 
 

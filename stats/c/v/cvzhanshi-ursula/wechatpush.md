@@ -1,8 +1,8 @@
 # cvzhanshi-ursula/wechatpush - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 25 | 33 | 
 | 2022-10-13 | 25 | 32 | 
 | 2022-10-12 | 25 | 32 | 
 | 2022-10-11 | 25 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 25 | 32 | 
 | 2022-09-17 | 25 | 32 | 
 | 2022-09-15 | 25 | 31 | 
-| 2022-09-14 | 24 | 31 | 
 

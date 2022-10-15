@@ -1,6 +1,6 @@
 # rebuild-123/Python-Head-First-Design-Patterns - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 266 | 31 | 
 | 2022-10-13 | 266 | 31 | 
 | 2022-10-12 | 266 | 31 | 
 | 2022-10-11 | 266 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 261 | 30 | 
 | 2022-09-16 | 261 | 30 | 
 | 2022-09-15 | 261 | 30 | 
-| 2022-09-14 | 261 | 30 | 
 

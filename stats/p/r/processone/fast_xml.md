@@ -1,6 +1,6 @@
 # processone/fast_xml - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 121 | 47 | 
 | 2022-10-13 | 121 | 47 | 
 | 2022-10-12 | 121 | 47 | 
 | 2022-10-11 | 121 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 121 | 47 | 
 | 2022-09-16 | 121 | 47 | 
 | 2022-09-15 | 121 | 47 | 
-| 2022-09-14 | 121 | 47 | 
 

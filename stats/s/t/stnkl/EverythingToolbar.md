@@ -1,10 +1,10 @@
 # stnkl/EverythingToolbar - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 259
 
-★ Stars: 4553
+★ Stars: 4559
 
 [Open repository](https://github.com/stnkl/EverythingToolbar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 4559 | 259 | 
 | 2022-10-13 | 4553 | 259 | 
 | 2022-10-12 | 4552 | 259 | 
 | 2022-10-11 | 4546 | 259 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 4482 | 257 | 
 | 2022-09-16 | 4481 | 257 | 
 | 2022-09-15 | 4475 | 257 | 
-| 2022-09-14 | 4472 | 257 | 
 

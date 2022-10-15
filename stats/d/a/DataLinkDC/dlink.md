@@ -1,10 +1,10 @@
 # DataLinkDC/dlink - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 541
+☋ Forks: 542
 
-★ Stars: 1348
+★ Stars: 1352
 
 [Open repository](https://github.com/DataLinkDC/dlink)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1352 | 542 | 
 | 2022-10-14 | 1348 | 541 | 
 | 2022-10-12 | 1345 | 540 | 
 | 2022-10-11 | 1338 | 537 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 1277 | 514 | 
 | 2022-09-16 | 1274 | 513 | 
 | 2022-09-15 | 1270 | 512 | 
-| 2022-09-14 | 1266 | 508 | 
 

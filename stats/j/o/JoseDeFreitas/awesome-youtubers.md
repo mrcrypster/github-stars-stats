@@ -1,6 +1,6 @@
 # JoseDeFreitas/awesome-youtubers - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 263
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 3527 | 263 | 
 | 2022-10-13 | 3527 | 263 | 
 | 2022-10-12 | 3523 | 263 | 
 | 2022-10-11 | 3522 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 3428 | 254 | 
 | 2022-09-16 | 3425 | 254 | 
 | 2022-09-15 | 3418 | 254 | 
-| 2022-09-14 | 3416 | 255 | 
 

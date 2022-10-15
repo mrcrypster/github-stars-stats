@@ -1,10 +1,10 @@
 # google/GoogleDataTransport - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 30
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/google/GoogleDataTransport)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 22 | 30 | 
 | 2022-10-13 | 21 | 30 | 
 | 2022-10-12 | 21 | 30 | 
 | 2022-10-11 | 21 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 19 | 29 | 
 | 2022-09-16 | 19 | 29 | 
 | 2022-09-15 | 19 | 29 | 
-| 2022-09-14 | 19 | 29 | 
 

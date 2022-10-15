@@ -1,8 +1,8 @@
 # twostraws/CodeScanner - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 164
+☋ Forks: 165
 
 ★ Stars: 569
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 569 | 165 | 
 | 2022-10-13 | 569 | 164 | 
 | 2022-10-12 | 567 | 164 | 
 | 2022-10-11 | 567 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 546 | 159 | 
 | 2022-09-16 | 546 | 159 | 
 | 2022-09-15 | 546 | 158 | 
-| 2022-09-14 | 546 | 158 | 
 

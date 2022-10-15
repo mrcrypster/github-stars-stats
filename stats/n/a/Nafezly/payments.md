@@ -1,10 +1,10 @@
 # Nafezly/payments - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 39
+☋ Forks: 41
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/Nafezly/payments)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 172 | 41 | 
 | 2022-10-13 | 170 | 39 | 
 | 2022-10-12 | 168 | 39 | 
 | 2022-10-11 | 167 | 38 | 

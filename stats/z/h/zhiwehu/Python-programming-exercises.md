@@ -1,10 +1,10 @@
 # zhiwehu/Python-programming-exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 6356
+☋ Forks: 6357
 
-★ Stars: 21016
+★ Stars: 21019
 
 [Open repository](https://github.com/zhiwehu/Python-programming-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 21019 | 6357 | 
 | 2022-10-14 | 21016 | 6356 | 
 | 2022-10-13 | 21015 | 6356 | 
 | 2022-10-12 | 20999 | 6355 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-17 | 20766 | 6331 | 
 | 2022-09-16 | 20754 | 6331 | 
 | 2022-09-15 | 20745 | 6333 | 
-| 2022-09-14 | 20742 | 6333 | 
 

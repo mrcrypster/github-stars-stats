@@ -1,10 +1,10 @@
 # Fr0sT-Brutal/awesome-pascal - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 296
 
-★ Stars: 1392
+★ Stars: 1393
 
 [Open repository](https://github.com/Fr0sT-Brutal/awesome-pascal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 1393 | 296 | 
 | 2022-10-13 | 1392 | 296 | 
 | 2022-10-12 | 1392 | 296 | 
 | 2022-10-11 | 1392 | 295 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 1379 | 295 | 
 | 2022-09-16 | 1378 | 294 | 
 | 2022-09-15 | 1378 | 294 | 
-| 2022-09-14 | 1378 | 294 | 
 

@@ -1,6 +1,6 @@
 # Sulagna-Dutta-Roy/Webeginner-projects - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 59 | 60 | 
 | 2022-10-13 | 59 | 60 | 
 | 2022-10-12 | 59 | 60 | 
 | 2022-10-11 | 60 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 51 | 61 | 
 | 2022-09-16 | 51 | 60 | 
 | 2022-09-15 | 50 | 60 | 
-| 2022-09-14 | 49 | 60 | 
 

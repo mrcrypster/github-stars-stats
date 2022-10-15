@@ -1,10 +1,10 @@
 # ManlyMarco/HS2-HF_Patch - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/ManlyMarco/HS2-HF_Patch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 85 | 12 | 
 | 2022-10-13 | 84 | 12 | 
 | 2022-10-12 | 84 | 12 | 
 | 2022-10-11 | 83 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 78 | 12 | 
 | 2022-09-16 | 76 | 12 | 
 | 2022-09-15 | 76 | 12 | 
-| 2022-09-14 | 76 | 12 | 
 

@@ -1,10 +1,10 @@
 # BookerLiu/GeekDesk - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 579
+★ Stars: 578
 
 [Open repository](https://github.com/BookerLiu/GeekDesk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 578 | 57 | 
 | 2022-10-13 | 579 | 56 | 
 | 2022-10-12 | 576 | 56 | 
 | 2022-10-11 | 575 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 533 | 52 | 
 | 2022-09-16 | 530 | 52 | 
 | 2022-09-15 | 528 | 52 | 
-| 2022-09-14 | 524 | 52 | 
 

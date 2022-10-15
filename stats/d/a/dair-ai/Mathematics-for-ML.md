@@ -1,10 +1,10 @@
 # dair-ai/Mathematics-for-ML - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 217
+☋ Forks: 219
 
-★ Stars: 2915
+★ Stars: 2918
 
 [Open repository](https://github.com/dair-ai/Mathematics-for-ML)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 2918 | 219 | 
 | 2022-10-13 | 2915 | 217 | 
 | 2022-10-12 | 2891 | 212 | 
 | 2022-10-11 | 2881 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 2830 | 196 | 
 | 2022-09-16 | 2829 | 196 | 
 | 2022-09-15 | 2827 | 195 | 
-| 2022-09-14 | 2824 | 195 | 
 

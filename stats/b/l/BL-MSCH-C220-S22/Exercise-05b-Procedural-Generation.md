@@ -1,6 +1,6 @@
 # BL-MSCH-C220-S22/Exercise-05b-Procedural-Generation - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | - | 44 | 
 | 2022-10-13 | - | 44 | 
 | 2022-10-12 | - | 44 | 
 | 2022-10-11 | - | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | - | 45 | 
 | 2022-09-17 | - | 45 | 
 | 2022-09-16 | - | 45 | 
-| 2022-09-15 | - | 45 | 
 

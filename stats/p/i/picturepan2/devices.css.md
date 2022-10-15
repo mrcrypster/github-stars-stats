@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 14
 
 ☋ Forks: 229
 
-★ Stars: 2168
+★ Stars: 2169
 
 [Open repository](https://github.com/picturepan2/devices.css)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-14 | 2168 | 229 | 
+| 2022-10-14 | 2169 | 229 | 
 | 2022-10-13 | 2168 | 229 | 
 | 2022-10-12 | 2165 | 229 | 
 | 2022-10-11 | 2158 | 229 | 

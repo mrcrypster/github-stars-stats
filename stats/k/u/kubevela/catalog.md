@@ -1,10 +1,10 @@
 # kubevela/catalog - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
 ☋ Forks: 73
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/kubevela/catalog)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 98 | 73 | 
 | 2022-10-13 | 97 | 73 | 
 | 2022-10-12 | 96 | 73 | 
 | 2022-10-11 | 96 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-18 | 93 | 74 | 
 | 2022-09-17 | 92 | 74 | 
 | 2022-09-16 | 92 | 74 | 
-| 2022-09-15 | 92 | 74 | 
 

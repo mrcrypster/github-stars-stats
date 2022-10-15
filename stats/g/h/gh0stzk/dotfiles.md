@@ -1,10 +1,10 @@
 # gh0stzk/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 301
+★ Stars: 310
 
 [Open repository](https://github.com/gh0stzk/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 310 | 18 | 
 | 2022-10-13 | 301 | 17 | 
 | 2022-10-12 | 297 | 17 | 
 | 2022-10-11 | 293 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 238 | 11 | 
 | 2022-09-16 | 238 | 11 | 
 | 2022-09-15 | 236 | 11 | 
-| 2022-09-14 | 231 | 11 | 
 

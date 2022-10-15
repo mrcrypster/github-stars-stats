@@ -1,8 +1,8 @@
 # MichaelJorky/Free_RDP_Ngrok - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 318
+☋ Forks: 319
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 5 | 319 | 
 | 2022-10-13 | 5 | 318 | 
 | 2022-10-12 | 5 | 317 | 
 | 2022-10-11 | 5 | 313 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 4 | 273 | 
 | 2022-09-16 | 4 | 272 | 
 | 2022-09-15 | 4 | 270 | 
-| 2022-09-14 | 4 | 270 | 
 

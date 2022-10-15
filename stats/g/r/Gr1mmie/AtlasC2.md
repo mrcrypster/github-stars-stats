@@ -1,10 +1,10 @@
 # Gr1mmie/AtlasC2 - stars & forks statistics
 
-Stats updated on Oct 2022, 13
+Stats updated on Oct 2022, 14
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/Gr1mmie/AtlasC2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-14 | 165 | 31 | 
 | 2022-10-13 | 164 | 30 | 
 | 2022-10-12 | 164 | 30 | 
 | 2022-10-11 | 164 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 13
 | 2022-09-17 | 153 | 30 | 
 | 2022-09-16 | 153 | 30 | 
 | 2022-09-15 | 153 | 30 | 
-| 2022-09-14 | 153 | 30 | 
 
