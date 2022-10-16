@@ -1,10 +1,10 @@
 # GlitchyTurtle/Avatar-Addon - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 24
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/GlitchyTurtle/Avatar-Addon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 18 | 24 | 
 | 2022-10-14 | 17 | 24 | 
 | 2022-10-13 | 17 | 24 | 
 | 2022-10-12 | 17 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 17 | 24 | 
 | 2022-09-17 | 17 | 24 | 
 | 2022-09-16 | 17 | 24 | 
-| 2022-09-15 | 17 | 24 | 
 

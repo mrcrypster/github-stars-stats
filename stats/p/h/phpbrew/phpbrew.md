@@ -1,10 +1,10 @@
 # phpbrew/phpbrew - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 366
 
-★ Stars: 4965
+★ Stars: 4964
 
 [Open repository](https://github.com/phpbrew/phpbrew)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 4964 | 366 | 
 | 2022-10-14 | 4965 | 366 | 
 | 2022-10-13 | 4965 | 366 | 
 | 2022-10-12 | 4966 | 366 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4958 | 366 | 
 | 2022-09-17 | 4957 | 366 | 
 | 2022-09-16 | 4956 | 366 | 
-| 2022-09-15 | 4955 | 366 | 
 

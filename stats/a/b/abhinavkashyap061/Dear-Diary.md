@@ -1,8 +1,8 @@
 # abhinavkashyap061/Dear-Diary - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 13
+☋ Forks: 12
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 11 | 12 | 
 | 2022-10-14 | 11 | 13 | 
 | 2022-10-13 | 11 | 15 | 
 | 2022-10-12 | 8 | 13 | 

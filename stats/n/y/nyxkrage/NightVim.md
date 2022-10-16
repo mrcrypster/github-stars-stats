@@ -1,6 +1,6 @@
 # nyxkrage/NightVim - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 41 | - | 
 | 2022-10-14 | 41 | - | 
 | 2022-10-13 | 41 | - | 
 | 2022-10-12 | 41 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 38 | - | 
 | 2022-09-17 | 38 | - | 
 | 2022-09-16 | 38 | - | 
-| 2022-09-15 | 38 | - | 
 

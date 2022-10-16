@@ -1,10 +1,10 @@
 # mgth/LittleBigMouse - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 101
 
-★ Stars: 1507
+★ Stars: 1509
 
 [Open repository](https://github.com/mgth/LittleBigMouse)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1509 | 101 | 
 | 2022-10-14 | 1507 | 101 | 
 | 2022-10-13 | 1504 | 101 | 
 | 2022-10-12 | 1499 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1457 | 99 | 
 | 2022-09-17 | 1456 | 98 | 
 | 2022-09-16 | 1456 | 98 | 
-| 2022-09-15 | 1456 | 98 | 
 

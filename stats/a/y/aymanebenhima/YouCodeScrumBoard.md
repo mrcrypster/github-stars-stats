@@ -1,10 +1,10 @@
 # aymanebenhima/YouCodeScrumBoard - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/aymanebenhima/YouCodeScrumBoard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1 | 7 | 
 | 2022-10-14 | - | 7 | 
 | 2022-10-13 | - | 7 | 
 

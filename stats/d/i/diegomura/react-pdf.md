@@ -1,6 +1,6 @@
 # diegomura/react-pdf - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 923
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 11275 | 923 | 
 | 2022-10-14 | 11275 | 923 | 
 | 2022-10-13 | 11270 | 922 | 
 | 2022-10-12 | 11266 | 922 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 11179 | 912 | 
 | 2022-09-17 | 11177 | 912 | 
 | 2022-09-16 | 11176 | 912 | 
-| 2022-09-15 | 11170 | 911 | 
 

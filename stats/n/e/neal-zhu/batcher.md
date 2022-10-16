@@ -1,10 +1,10 @@
 # neal-zhu/batcher - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 16
 
-☋ Forks: 17
+☋ Forks: 20
 
-★ Stars: 29
+★ Stars: 35
 
 [Open repository](https://github.com/neal-zhu/batcher)
 
@@ -13,5 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 35 | 20 | 
+| 2022-10-15 | 35 | 20 | 
 | 2022-10-14 | 29 | 17 | 
 

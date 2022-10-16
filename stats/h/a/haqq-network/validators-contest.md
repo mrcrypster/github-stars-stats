@@ -1,8 +1,8 @@
 # haqq-network/validators-contest - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1141
+☋ Forks: 1142
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 65 | 1142 | 
 | 2022-10-14 | 65 | 1141 | 
 | 2022-10-13 | 65 | 1142 | 
 | 2022-10-12 | 65 | 1142 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 64 | 1140 | 
 | 2022-09-17 | 64 | 1140 | 
 | 2022-09-16 | 63 | 1141 | 
-| 2022-09-15 | 63 | 1140 | 
 

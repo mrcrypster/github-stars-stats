@@ -1,10 +1,10 @@
 # cscherrer/Tilde.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/cscherrer/Tilde.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 67 | 2 | 
 | 2022-10-14 | 65 | 2 | 
 | 2022-10-13 | 63 | 2 | 
 | 2022-10-12 | 63 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 58 | 2 | 
 | 2022-09-17 | 58 | 2 | 
 | 2022-09-16 | 58 | 2 | 
-| 2022-09-15 | 58 | 2 | 
 

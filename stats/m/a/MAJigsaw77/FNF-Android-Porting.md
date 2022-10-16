@@ -1,6 +1,6 @@
 # MAJigsaw77/FNF-Android-Porting - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 33 | 39 | 
 | 2022-10-14 | 33 | 39 | 
 | 2022-10-13 | 33 | 39 | 
 | 2022-10-12 | 32 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 30 | 35 | 
 | 2022-09-17 | 30 | 35 | 
 | 2022-09-16 | 30 | 36 | 
-| 2022-09-15 | 30 | 35 | 
 

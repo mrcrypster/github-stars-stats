@@ -1,10 +1,10 @@
 # peter-tharwat/dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 221
+★ Stars: 224
 
 [Open repository](https://github.com/peter-tharwat/dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-15 | 221 | 94 | 
+| 2022-10-16 | 224 | 95 | 
+| 2022-10-15 | 224 | 95 | 
 | 2022-10-14 | 220 | 94 | 
 

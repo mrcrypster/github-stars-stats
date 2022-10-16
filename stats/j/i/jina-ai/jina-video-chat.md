@@ -1,10 +1,10 @@
 # jina-ai/jina-video-chat - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 25
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/jina-ai/jina-video-chat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 224 | 25 | 
 | 2022-10-14 | 223 | 25 | 
 | 2022-10-13 | 223 | 25 | 
 | 2022-10-12 | 223 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 208 | 22 | 
 | 2022-09-17 | 205 | 22 | 
 | 2022-09-16 | 205 | 22 | 
-| 2022-09-15 | 200 | 22 | 
 

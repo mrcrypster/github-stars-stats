@@ -1,6 +1,6 @@
 # hexlet-basics/exercises-elixir - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 12 | 16 | 
 | 2022-10-14 | 12 | 16 | 
 | 2022-10-13 | 12 | 16 | 
 | 2022-10-12 | 12 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 11 | 16 | 
 | 2022-09-18 | 11 | 16 | 
 | 2022-09-17 | 11 | 16 | 
-| 2022-09-16 | 11 | 16 | 
 

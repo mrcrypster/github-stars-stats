@@ -1,6 +1,6 @@
 # duneanalytics/spellbook - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 493
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 565 | 493 | 
 | 2022-10-14 | 565 | 493 | 
 | 2022-10-13 | 562 | 492 | 
 | 2022-10-12 | 562 | 489 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 531 | 451 | 
 | 2022-09-17 | 531 | 451 | 
 | 2022-09-16 | 530 | 450 | 
-| 2022-09-15 | 530 | 448 | 
 

@@ -1,10 +1,10 @@
 # katiejolly/nationalparkcolors - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 15
 
-★ Stars: 199
+★ Stars: 200
 
 [Open repository](https://github.com/katiejolly/nationalparkcolors)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 200 | 15 | 
 | 2022-10-14 | 199 | 15 | 
 | 2022-10-13 | 199 | 15 | 
 | 2022-10-12 | 198 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 196 | 15 | 
 | 2022-09-17 | 195 | 15 | 
 | 2022-09-16 | 195 | 15 | 
-| 2022-09-15 | 195 | 15 | 
 

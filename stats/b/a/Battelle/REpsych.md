@@ -1,10 +1,10 @@
 # Battelle/REpsych - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/Battelle/REpsych)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 122 | 92 | 
 | 2022-10-14 | 121 | 91 | 
 | 2022-10-13 | 118 | 91 | 
 | 2022-10-12 | 118 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 118 | 91 | 
 | 2022-09-17 | 118 | 91 | 
 | 2022-09-16 | 118 | 91 | 
-| 2022-09-15 | 118 | 91 | 
 

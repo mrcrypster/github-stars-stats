@@ -1,10 +1,10 @@
 # unsplash/intlc - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/unsplash/intlc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 33 | 2 | 
 | 2022-10-14 | 32 | 2 | 
 | 2022-10-13 | 32 | 2 | 
 | 2022-10-12 | 31 | 2 | 

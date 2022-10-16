@@ -1,8 +1,8 @@
 # Azure/azure-api-management-devops-resource-kit - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 456
+☋ Forks: 457
 
 ★ Stars: 615
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 615 | 457 | 
 | 2022-10-14 | 615 | 456 | 
 | 2022-10-13 | 614 | 456 | 
 | 2022-10-12 | 614 | 456 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 606 | 448 | 
 | 2022-09-17 | 606 | 448 | 
 | 2022-09-16 | 605 | 447 | 
-| 2022-09-15 | 604 | 447 | 
 

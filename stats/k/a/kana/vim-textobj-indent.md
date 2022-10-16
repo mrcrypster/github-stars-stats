@@ -1,10 +1,10 @@
 # kana/vim-textobj-indent - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/kana/vim-textobj-indent)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 162 | 10 | 
 | 2022-10-14 | 161 | 10 | 
 | 2022-10-13 | 161 | 10 | 
 | 2022-10-12 | 161 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 161 | 10 | 
 | 2022-09-17 | 161 | 10 | 
 | 2022-09-16 | 161 | 10 | 
-| 2022-09-15 | 161 | 10 | 
 

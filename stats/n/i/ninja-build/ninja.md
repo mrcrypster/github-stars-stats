@@ -1,10 +1,10 @@
 # ninja-build/ninja - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1368
 
-★ Stars: 8599
+★ Stars: 8604
 
 [Open repository](https://github.com/ninja-build/ninja)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 8604 | 1368 | 
 | 2022-10-14 | 8599 | 1368 | 
 | 2022-10-13 | 8592 | 1368 | 
 | 2022-10-12 | 8586 | 1368 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 8509 | 1354 | 
 | 2022-09-18 | 8506 | 1354 | 
 | 2022-09-17 | 8502 | 1354 | 
-| 2022-09-16 | 8499 | 1350 | 
 

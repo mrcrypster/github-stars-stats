@@ -1,6 +1,6 @@
 # FLEXTool/FLEX - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1596
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 13221 | 1596 | 
 | 2022-10-14 | 13221 | 1596 | 
 | 2022-10-13 | 13219 | 1594 | 
 | 2022-10-12 | 13219 | 1594 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 13196 | 1586 | 
 | 2022-09-17 | 13195 | 1585 | 
 | 2022-09-16 | 13193 | 1586 | 
-| 2022-09-15 | 13192 | 1586 | 
 

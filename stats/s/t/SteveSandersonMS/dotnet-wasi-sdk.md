@@ -1,10 +1,10 @@
 # SteveSandersonMS/dotnet-wasi-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 23
 
-★ Stars: 322
+★ Stars: 323
 
 [Open repository](https://github.com/SteveSandersonMS/dotnet-wasi-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 323 | 23 | 
 | 2022-10-14 | 322 | 23 | 
 | 2022-10-13 | 320 | 23 | 
 | 2022-10-12 | 319 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 298 | 21 | 
 | 2022-09-17 | 298 | 21 | 
 | 2022-09-16 | 298 | 21 | 
-| 2022-09-15 | 295 | 21 | 
 

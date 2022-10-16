@@ -1,6 +1,6 @@
 # eshlomo1/Microsoft-Sentinel-4-SecOps - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 136 | 43 | 
 | 2022-10-14 | 136 | 43 | 
 | 2022-10-13 | 136 | 43 | 
 | 2022-10-12 | 135 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 133 | 42 | 
 | 2022-09-17 | 133 | 42 | 
 | 2022-09-16 | 132 | 41 | 
-| 2022-09-15 | 132 | 41 | 
 

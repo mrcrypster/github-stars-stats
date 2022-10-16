@@ -1,10 +1,10 @@
 # StartBootstrap/startbootstrap-modern-business - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1156
+☋ Forks: 1157
 
-★ Stars: 886
+★ Stars: 887
 
 [Open repository](https://github.com/StartBootstrap/startbootstrap-modern-business)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 887 | 1157 | 
 | 2022-10-14 | 886 | 1156 | 
 | 2022-10-13 | 886 | 1157 | 
 | 2022-10-12 | 884 | 1157 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 877 | 1159 | 
 | 2022-09-17 | 877 | 1159 | 
 | 2022-09-16 | 877 | 1159 | 
-| 2022-09-15 | 877 | 1159 | 
 

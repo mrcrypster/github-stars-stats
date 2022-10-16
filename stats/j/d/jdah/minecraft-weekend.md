@@ -1,6 +1,6 @@
 # jdah/minecraft-weekend - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 330
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2995 | 330 | 
 | 2022-10-14 | 2995 | 330 | 
 | 2022-10-13 | 2994 | 330 | 
 | 2022-10-12 | 2991 | 330 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2960 | 328 | 
 | 2022-09-17 | 2955 | 327 | 
 | 2022-09-16 | 2956 | 327 | 
-| 2022-09-15 | 2955 | 327 | 
 

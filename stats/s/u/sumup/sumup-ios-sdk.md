@@ -1,6 +1,6 @@
 # sumup/sumup-ios-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 37 | 27 | 
 | 2022-10-14 | 37 | 27 | 
 | 2022-10-13 | 37 | 27 | 
 | 2022-10-12 | 37 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 36 | 27 | 
 | 2022-09-17 | 36 | 27 | 
 | 2022-09-16 | 36 | 27 | 
-| 2022-09-15 | 36 | 27 | 
 

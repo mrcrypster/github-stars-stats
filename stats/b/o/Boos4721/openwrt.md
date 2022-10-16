@@ -1,6 +1,6 @@
 # Boos4721/openwrt - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 198 | 96 | 
 | 2022-10-14 | 198 | 96 | 
 | 2022-10-13 | 198 | 96 | 
 | 2022-10-12 | 197 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 191 | 90 | 
 | 2022-09-17 | 191 | 90 | 
 | 2022-09-16 | 192 | 90 | 
-| 2022-09-15 | 192 | 89 | 
 

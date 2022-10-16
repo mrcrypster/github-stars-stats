@@ -1,6 +1,6 @@
 # eirslett/frontend-maven-plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 832
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3893 | 832 | 
 | 2022-10-14 | 3893 | 832 | 
 | 2022-10-13 | 3893 | 832 | 
 | 2022-10-12 | 3892 | 831 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3882 | 826 | 
 | 2022-09-17 | 3881 | 826 | 
 | 2022-09-16 | 3880 | 826 | 
-| 2022-09-15 | 3880 | 826 | 
 

@@ -1,10 +1,10 @@
 # londonappbrewery/Flutter-Course-Resources - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 2768
 
-★ Stars: 9127
+★ Stars: 9131
 
 [Open repository](https://github.com/londonappbrewery/Flutter-Course-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 9131 | 2768 | 
 | 2022-10-14 | 9127 | 2768 | 
 | 2022-10-13 | 9125 | 2766 | 
 | 2022-10-12 | 9121 | 2765 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 9064 | 2752 | 
 | 2022-09-17 | 9061 | 2752 | 
 | 2022-09-16 | 9060 | 2752 | 
-| 2022-09-15 | 9059 | 2752 | 
 

@@ -1,10 +1,10 @@
 # lroudge/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 227
+☋ Forks: 229
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/lroudge/holbertonschool-low_level_programming)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 62 | 229 | 
 | 2022-10-14 | 61 | 227 | 
 | 2022-10-13 | 61 | 223 | 
 | 2022-10-12 | 63 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 60 | 203 | 
 | 2022-09-17 | 60 | 204 | 
 | 2022-09-16 | 60 | 205 | 
-| 2022-09-15 | 58 | 204 | 
 

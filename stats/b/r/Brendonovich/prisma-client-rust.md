@@ -1,10 +1,10 @@
 # Brendonovich/prisma-client-rust - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 37
 
-★ Stars: 663
+★ Stars: 665
 
 [Open repository](https://github.com/Brendonovich/prisma-client-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 665 | 37 | 
 | 2022-10-14 | 663 | 37 | 
 | 2022-10-13 | 662 | 37 | 
 | 2022-10-12 | 661 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 615 | 38 | 
 | 2022-09-17 | 609 | 38 | 
 | 2022-09-16 | 608 | 38 | 
-| 2022-09-15 | 603 | 38 | 
 

@@ -1,6 +1,6 @@
 # hemansnation/Data-Science-ML-Full-Stack-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 270 | 79 | 
 | 2022-10-14 | 270 | 79 | 
 | 2022-10-13 | 269 | 79 | 
 | 2022-10-12 | 269 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 182 | 49 | 
 | 2022-09-17 | 181 | 48 | 
 | 2022-09-16 | 180 | 48 | 
-| 2022-09-15 | 178 | 48 | 
 

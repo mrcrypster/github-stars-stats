@@ -1,6 +1,6 @@
 # qbcore-framework/qb-shops - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 199
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 21 | 199 | 
 | 2022-10-14 | 21 | 199 | 
 | 2022-10-13 | 21 | 199 | 
 | 2022-10-12 | 21 | 199 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 20 | 200 | 
 | 2022-09-17 | 20 | 200 | 
 | 2022-09-16 | 20 | 200 | 
-| 2022-09-15 | 20 | 197 | 
 

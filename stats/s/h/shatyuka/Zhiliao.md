@@ -1,10 +1,10 @@
 # shatyuka/Zhiliao - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 51
 
-★ Stars: 1188
+★ Stars: 1189
 
 [Open repository](https://github.com/shatyuka/Zhiliao)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1189 | 51 | 
 | 2022-10-14 | 1188 | 51 | 
 | 2022-10-13 | 1188 | 50 | 
 | 2022-10-12 | 1188 | 50 | 

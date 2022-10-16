@@ -1,8 +1,8 @@
 # DatabaseCleaner/database_cleaner - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 488
+☋ Forks: 487
 
 ★ Stars: 2814
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2814 | 487 | 
 | 2022-10-14 | 2814 | 488 | 
 | 2022-10-13 | 2814 | 488 | 
 | 2022-10-12 | 2814 | 488 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2807 | 488 | 
 | 2022-09-17 | 2807 | 488 | 
 | 2022-09-16 | 2807 | 488 | 
-| 2022-09-15 | 2807 | 488 | 
 

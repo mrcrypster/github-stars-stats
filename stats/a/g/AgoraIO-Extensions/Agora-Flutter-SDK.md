@@ -1,8 +1,8 @@
 # AgoraIO-Extensions/Agora-Flutter-SDK - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 308
+☋ Forks: 309
 
 ★ Stars: 624
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 624 | 309 | 
 | 2022-10-14 | 624 | 308 | 
 | 2022-10-13 | 623 | 308 | 
 | 2022-10-12 | 622 | 308 | 

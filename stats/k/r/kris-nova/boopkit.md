@@ -1,10 +1,10 @@
 # kris-nova/boopkit - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 127
 
-★ Stars: 1219
+★ Stars: 1220
 
 [Open repository](https://github.com/kris-nova/boopkit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1220 | 127 | 
 | 2022-10-14 | 1219 | 127 | 
 | 2022-10-13 | 1218 | 127 | 
 | 2022-10-12 | 1217 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1154 | 122 | 
 | 2022-09-17 | 1152 | 121 | 
 | 2022-09-16 | 1151 | 121 | 
-| 2022-09-15 | 1149 | 120 | 
 

@@ -1,10 +1,10 @@
 # creativetimofficial/tailwind-starter-kit - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 746
 
-★ Stars: 5016
+★ Stars: 5019
 
 [Open repository](https://github.com/creativetimofficial/tailwind-starter-kit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 5019 | 746 | 
 | 2022-10-14 | 5016 | 746 | 
 | 2022-10-13 | 5016 | 747 | 
 | 2022-10-12 | 5016 | 748 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4981 | 739 | 
 | 2022-09-17 | 4980 | 739 | 
 | 2022-09-16 | 4978 | 739 | 
-| 2022-09-15 | 4977 | 740 | 
 

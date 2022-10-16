@@ -1,8 +1,8 @@
 # OHIF/Viewers - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1999
+☋ Forks: 2001
 
 ★ Stars: 2080
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2080 | 2001 | 
 | 2022-10-14 | 2080 | 1999 | 
 | 2022-10-13 | 2077 | 1994 | 
 | 2022-10-12 | 2075 | 1994 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2053 | 1963 | 
 | 2022-09-17 | 2053 | 1964 | 
 | 2022-09-16 | 2051 | 1962 | 
-| 2022-09-15 | 2048 | 1958 | 
 

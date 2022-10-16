@@ -1,10 +1,10 @@
 # emacs-lsp/dap-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 156
 
-★ Stars: 1067
+★ Stars: 1069
 
 [Open repository](https://github.com/emacs-lsp/dap-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1069 | 156 | 
 | 2022-10-14 | 1067 | 156 | 
 | 2022-10-13 | 1067 | 156 | 
 | 2022-10-12 | 1066 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1051 | 153 | 
 | 2022-09-17 | 1050 | 153 | 
 | 2022-09-16 | 1050 | 153 | 
-| 2022-09-15 | 1050 | 153 | 
 

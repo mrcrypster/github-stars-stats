@@ -1,10 +1,10 @@
 # ethereum-optimism/optimism - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 485
 
-★ Stars: 1586
+★ Stars: 1592
 
 [Open repository](https://github.com/ethereum-optimism/optimism)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1592 | 485 | 
 | 2022-10-14 | 1586 | 485 | 
 | 2022-10-13 | 1583 | 483 | 
 | 2022-10-12 | 1577 | 481 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1441 | 458 | 
 | 2022-09-17 | 1432 | 458 | 
 | 2022-09-16 | 1422 | 457 | 
-| 2022-09-15 | 1416 | 454 | 
 

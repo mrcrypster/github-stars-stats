@@ -1,6 +1,6 @@
 # bmuschko/gradle-docker-plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 343
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1109 | 343 | 
 | 2022-10-14 | 1109 | 343 | 
 | 2022-10-13 | 1108 | 343 | 
 | 2022-10-12 | 1108 | 343 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1105 | 339 | 
 | 2022-09-17 | 1105 | 339 | 
 | 2022-09-16 | 1105 | 339 | 
-| 2022-09-15 | 1105 | 339 | 
 

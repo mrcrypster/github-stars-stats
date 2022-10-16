@@ -1,10 +1,10 @@
 # xcyuyuyu/My-First-CUDA-Code - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/xcyuyuyu/My-First-CUDA-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 16 | 2 | 
 | 2022-10-14 | 15 | 2 | 
 | 2022-10-13 | 15 | 2 | 
 | 2022-10-12 | 15 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 15 | 2 | 
 | 2022-09-17 | 15 | 2 | 
 | 2022-09-16 | 15 | 2 | 
-| 2022-09-15 | 15 | 2 | 
 

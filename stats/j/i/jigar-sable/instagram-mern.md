@@ -1,10 +1,10 @@
 # jigar-sable/instagram-mern - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 67
 
-★ Stars: 292
+★ Stars: 291
 
 [Open repository](https://github.com/jigar-sable/instagram-mern)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 291 | 67 | 
 | 2022-10-14 | 292 | 67 | 
 | 2022-10-13 | 291 | 67 | 
 | 2022-10-12 | 290 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 279 | 65 | 
 | 2022-09-17 | 279 | 65 | 
 | 2022-09-16 | 279 | 65 | 
-| 2022-09-15 | 279 | 65 | 
 

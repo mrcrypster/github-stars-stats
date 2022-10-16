@@ -1,10 +1,10 @@
 # Lyx0912/XY-MQ - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 20
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/Lyx0912/XY-MQ)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 118 | 20 | 
 | 2022-10-14 | 117 | 20 | 
 | 2022-10-13 | 117 | 20 | 
 | 2022-10-12 | 117 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 118 | 20 | 
 | 2022-09-17 | 118 | 20 | 
 | 2022-09-16 | 118 | 20 | 
-| 2022-09-15 | 118 | 20 | 
 

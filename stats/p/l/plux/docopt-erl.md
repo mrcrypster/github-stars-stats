@@ -1,6 +1,6 @@
 # plux/docopt-erl - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 15 | 1 | 
 | 2022-10-14 | 15 | 1 | 
 | 2022-10-13 | 15 | 1 | 
 | 2022-10-12 | 15 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 15 | 1 | 
 | 2022-09-17 | 15 | 1 | 
 | 2022-09-16 | 15 | 1 | 
-| 2022-09-15 | 15 | 1 | 
 

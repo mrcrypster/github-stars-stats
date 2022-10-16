@@ -1,6 +1,6 @@
 # XiaoliChan/Invoke-sAMSpoofing - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 32 | 5 | 
 | 2022-10-14 | 32 | 5 | 
 | 2022-10-13 | 32 | 5 | 
 | 2022-10-12 | 32 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 32 | 5 | 
 | 2022-09-17 | 32 | 5 | 
 | 2022-09-16 | 32 | 5 | 
-| 2022-09-15 | 32 | 5 | 
 

@@ -1,6 +1,6 @@
 # Broad-sky/feature-detection-matching-algorithm - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 102 | 14 | 
 | 2022-10-15 | 102 | 14 | 
 | 2022-10-14 | 102 | 14 | 
 | 2022-10-13 | 101 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-18 | 102 | 14 | 
 | 2022-09-17 | 102 | 13 | 
 | 2022-09-16 | 102 | 13 | 
-| 2022-09-15 | 101 | 13 | 
 

@@ -1,6 +1,6 @@
 # streetcomplete/StreetComplete - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 268
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2917 | 268 | 
 | 2022-10-14 | 2917 | 268 | 
 | 2022-10-13 | 2915 | 268 | 
 | 2022-10-12 | 2913 | 268 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2880 | 262 | 
 | 2022-09-17 | 2878 | 262 | 
 | 2022-09-16 | 2879 | 262 | 
-| 2022-09-15 | 2879 | 262 | 
 

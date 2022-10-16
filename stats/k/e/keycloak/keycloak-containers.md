@@ -1,8 +1,8 @@
 # keycloak/keycloak-containers - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1303
+☋ Forks: 1304
 
 ★ Stars: 1415
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1415 | 1304 | 
 | 2022-10-14 | 1415 | 1303 | 
 | 2022-10-13 | 1415 | 1301 | 
 | 2022-10-12 | 1416 | 1300 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1398 | 1286 | 
 | 2022-09-17 | 1398 | 1286 | 
 | 2022-09-16 | 1397 | 1287 | 
-| 2022-09-15 | 1395 | 1285 | 
 

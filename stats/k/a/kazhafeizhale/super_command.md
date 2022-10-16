@@ -1,10 +1,10 @@
 # kazhafeizhale/super_command - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/kazhafeizhale/super_command)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 37 | 3 | 
 | 2022-10-14 | 36 | 3 | 
 | 2022-10-13 | 36 | 3 | 
 | 2022-10-12 | 36 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 35 | 3 | 
 | 2022-09-17 | 35 | 3 | 
 | 2022-09-16 | 35 | 3 | 
-| 2022-09-15 | 35 | 3 | 
 

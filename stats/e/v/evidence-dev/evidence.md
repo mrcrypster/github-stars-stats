@@ -1,10 +1,10 @@
 # evidence-dev/evidence - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 51
 
-★ Stars: 763
+★ Stars: 764
 
 [Open repository](https://github.com/evidence-dev/evidence)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 764 | 51 | 
 | 2022-10-14 | 763 | 51 | 
 | 2022-10-13 | 761 | 51 | 
 | 2022-10-12 | 760 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 750 | 49 | 
 | 2022-09-17 | 750 | 49 | 
 | 2022-09-16 | 750 | 49 | 
-| 2022-09-15 | 749 | 49 | 
 

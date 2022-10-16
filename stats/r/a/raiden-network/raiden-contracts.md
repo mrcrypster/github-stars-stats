@@ -1,0 +1,18 @@
+# raiden-network/raiden-contracts - stars & forks statistics
+
+Stats updated on Oct 2022, 16
+
+☋ Forks: 48
+
+★ Stars: 48
+
+[Open repository](https://github.com/raiden-network/raiden-contracts)
+
+[Open detailed stats for raiden-network/raiden-contracts](https://reviewgithub.com/rep/raiden-network/raiden-contracts)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-16 | 48 | 48 | 
+| 2022-10-15 | 48 | 48 | 
+

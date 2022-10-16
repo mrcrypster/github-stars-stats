@@ -1,10 +1,10 @@
 # LunCoSim/lunco-sim - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 5
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/LunCoSim/lunco-sim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 20 | 5 | 
 | 2022-10-14 | 19 | 5 | 
 | 2022-10-13 | 19 | 5 | 
 | 2022-10-12 | 19 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 17 | 5 | 
 | 2022-09-17 | 17 | 5 | 
 | 2022-09-16 | 17 | 5 | 
-| 2022-09-15 | 17 | 5 | 
 

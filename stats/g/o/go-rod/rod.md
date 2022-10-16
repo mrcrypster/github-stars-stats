@@ -1,10 +1,10 @@
 # go-rod/rod - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 207
+☋ Forks: 206
 
-★ Stars: 2832
+★ Stars: 2833
 
 [Open repository](https://github.com/go-rod/rod)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2833 | 206 | 
 | 2022-10-14 | 2832 | 207 | 
 | 2022-10-13 | 2832 | 207 | 
 | 2022-10-12 | 2830 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2782 | 204 | 
 | 2022-09-17 | 2779 | 204 | 
 | 2022-09-16 | 2777 | 203 | 
-| 2022-09-15 | 2776 | 201 | 
 

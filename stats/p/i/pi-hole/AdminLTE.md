@@ -1,6 +1,6 @@
 # pi-hole/AdminLTE - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 494
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1595 | 494 | 
 | 2022-10-14 | 1595 | 494 | 
 | 2022-10-13 | 1595 | 493 | 
 | 2022-10-12 | 1595 | 493 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1577 | 489 | 
 | 2022-09-17 | 1577 | 488 | 
 | 2022-09-16 | 1576 | 488 | 
-| 2022-09-15 | 1574 | 488 | 
 

@@ -1,10 +1,10 @@
 # TARANG0503/DSA-Practice - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 349
+☋ Forks: 346
 
-★ Stars: 48
+★ Stars: 47
 
 [Open repository](https://github.com/TARANG0503/DSA-Practice)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 47 | 346 | 
 | 2022-10-14 | 48 | 349 | 
 | 2022-10-13 | 48 | 346 | 
 | 2022-10-12 | 48 | 346 | 

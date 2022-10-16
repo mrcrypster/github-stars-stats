@@ -1,6 +1,6 @@
 # indygreg/PyOxidizer - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 4343 | 189 | 
 | 2022-10-14 | 4343 | 189 | 
 | 2022-10-13 | 4343 | 189 | 
 | 2022-10-12 | 4343 | 189 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4292 | 184 | 
 | 2022-09-17 | 4290 | 184 | 
 | 2022-09-16 | 4288 | 184 | 
-| 2022-09-15 | 4286 | 184 | 
 

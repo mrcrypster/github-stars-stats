@@ -1,6 +1,6 @@
 # xl7dev/WebShell - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 946
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1415 | 946 | 
 | 2022-10-14 | 1415 | 946 | 
 | 2022-10-13 | 1415 | 944 | 
 | 2022-10-12 | 1414 | 944 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 1399 | 935 | 
 | 2022-09-18 | 1398 | 935 | 
 | 2022-09-17 | 1398 | 935 | 
-| 2022-09-16 | 1397 | 934 | 
 

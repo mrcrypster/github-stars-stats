@@ -1,10 +1,10 @@
 # darold/pgbadger - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 298
 
-★ Stars: 2788
+★ Stars: 2789
 
 [Open repository](https://github.com/darold/pgbadger)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2789 | 298 | 
 | 2022-10-14 | 2788 | 298 | 
 | 2022-10-13 | 2786 | 298 | 
 | 2022-10-12 | 2784 | 298 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2761 | 293 | 
 | 2022-09-17 | 2761 | 293 | 
 | 2022-09-16 | 2759 | 293 | 
-| 2022-09-15 | 2754 | 293 | 
 

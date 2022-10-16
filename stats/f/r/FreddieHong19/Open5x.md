@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 15
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 433
+★ Stars: 439
 
 [Open repository](https://github.com/FreddieHong19/Open5x)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-15 | 433 | 62 | 
+| 2022-10-15 | 439 | 63 | 
 | 2022-10-14 | 432 | 62 | 
 | 2022-10-13 | 410 | 62 | 
 | 2022-10-12 | 410 | 62 | 

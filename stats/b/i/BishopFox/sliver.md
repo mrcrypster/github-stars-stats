@@ -1,10 +1,10 @@
 # BishopFox/sliver - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 607
+☋ Forks: 608
 
-★ Stars: 4391
+★ Stars: 4396
 
 [Open repository](https://github.com/BishopFox/sliver)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 4396 | 608 | 
 | 2022-10-14 | 4391 | 607 | 
 | 2022-10-13 | 4383 | 604 | 
 | 2022-10-12 | 4372 | 601 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4156 | 558 | 
 | 2022-09-17 | 4144 | 558 | 
 | 2022-09-16 | 4135 | 557 | 
-| 2022-09-15 | 4120 | 555 | 
 

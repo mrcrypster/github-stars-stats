@@ -1,0 +1,17 @@
+# IETS3/iets3.opensource - stars & forks statistics
+
+Stats updated on Oct 2022, 15
+
+☋ Forks: 18
+
+★ Stars: 36
+
+[Open repository](https://github.com/IETS3/iets3.opensource)
+
+[Open detailed stats for IETS3/iets3.opensource](https://reviewgithub.com/rep/IETS3/iets3.opensource)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-15 | 36 | 18 | 
+

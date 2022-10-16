@@ -1,6 +1,6 @@
 # binary-com/perl-WebService-Async-Onfido - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | - | 11 | 
 | 2022-10-14 | - | 11 | 
 | 2022-10-13 | - | 11 | 
 | 2022-10-12 | - | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | - | 11 | 
 | 2022-09-17 | - | 11 | 
 | 2022-09-16 | - | 11 | 
-| 2022-09-15 | - | 11 | 
 

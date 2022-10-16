@@ -1,10 +1,10 @@
 # shikhar13012001/css-awesomeness - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 13
+☋ Forks: 15
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/shikhar13012001/css-awesomeness)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 27 | 15 | 
 | 2022-10-14 | 26 | 13 | 
 | 2022-10-13 | 24 | 8 | 
 | 2022-10-12 | 24 | 8 | 

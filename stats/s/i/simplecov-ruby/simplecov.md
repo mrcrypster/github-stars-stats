@@ -1,6 +1,6 @@
 # simplecov-ruby/simplecov - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 533
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 4516 | 533 | 
 | 2022-10-15 | 4516 | 533 | 
 | 2022-10-14 | 4514 | 533 | 
 | 2022-10-13 | 4514 | 532 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-18 | 4502 | 530 | 
 | 2022-09-17 | 4502 | 530 | 
 | 2022-09-16 | 4502 | 530 | 
-| 2022-09-15 | 4502 | 530 | 
 

@@ -1,10 +1,10 @@
 # libbpf/libbpf - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 277
 
-★ Stars: 1127
+★ Stars: 1128
 
 [Open repository](https://github.com/libbpf/libbpf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1128 | 277 | 
 | 2022-10-14 | 1127 | 277 | 
 | 2022-10-13 | 1124 | 277 | 
 | 2022-10-12 | 1122 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1088 | 271 | 
 | 2022-09-17 | 1085 | 271 | 
 | 2022-09-16 | 1083 | 271 | 
-| 2022-09-15 | 1079 | 271 | 
 

@@ -1,6 +1,6 @@
 # ros2/tinyxml_vendor - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1 | 14 | 
 | 2022-10-14 | 1 | 14 | 
 | 2022-10-13 | 1 | 14 | 
 | 2022-10-12 | 1 | 14 | 

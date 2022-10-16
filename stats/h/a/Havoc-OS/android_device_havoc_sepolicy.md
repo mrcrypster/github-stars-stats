@@ -1,6 +1,6 @@
 # Havoc-OS/android_device_havoc_sepolicy - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | - | 12 | 
 | 2022-10-15 | - | 12 | 
 | 2022-10-14 | - | 12 | 
 | 2022-10-13 | - | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-18 | - | 13 | 
 | 2022-09-17 | - | 13 | 
 | 2022-09-16 | - | 13 | 
-| 2022-09-15 | - | 13 | 
 

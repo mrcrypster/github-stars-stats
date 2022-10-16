@@ -1,10 +1,10 @@
 # trojanpanel/install-script - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 337
+★ Stars: 339
 
 [Open repository](https://github.com/trojanpanel/install-script)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 339 | 143 | 
 | 2022-10-14 | 337 | 142 | 
 | 2022-10-13 | 332 | 141 | 
 | 2022-10-12 | 332 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 287 | 130 | 
 | 2022-09-18 | 286 | 130 | 
 | 2022-09-17 | 286 | 130 | 
-| 2022-09-16 | 286 | 130 | 
 

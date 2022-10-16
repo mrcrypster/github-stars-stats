@@ -1,6 +1,6 @@
 # yaelahaiz/hacktober-project2 - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | - | 13 | 
 | 2022-10-14 | - | 13 | 
 | 2022-10-13 | - | 14 | 
 | 2022-10-12 | - | 13 | 

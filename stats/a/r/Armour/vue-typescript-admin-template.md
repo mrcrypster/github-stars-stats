@@ -1,10 +1,10 @@
 # Armour/vue-typescript-admin-template - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1657
 
-★ Stars: 4843
+★ Stars: 4844
 
 [Open repository](https://github.com/Armour/vue-typescript-admin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 4844 | 1657 | 
 | 2022-10-14 | 4843 | 1657 | 
 | 2022-10-13 | 4841 | 1658 | 
 | 2022-10-12 | 4837 | 1656 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4813 | 1647 | 
 | 2022-09-17 | 4813 | 1646 | 
 | 2022-09-16 | 4812 | 1645 | 
-| 2022-09-15 | 4812 | 1644 | 
 

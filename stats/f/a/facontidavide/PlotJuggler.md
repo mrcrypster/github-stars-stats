@@ -1,10 +1,10 @@
 # facontidavide/PlotJuggler - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 423
+☋ Forks: 424
 
-★ Stars: 3084
+★ Stars: 3085
 
 [Open repository](https://github.com/facontidavide/PlotJuggler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3085 | 424 | 
 | 2022-10-14 | 3084 | 423 | 
 | 2022-10-13 | 3083 | 423 | 
 | 2022-10-12 | 3081 | 423 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3046 | 414 | 
 | 2022-09-17 | 3046 | 414 | 
 | 2022-09-16 | 3045 | 414 | 
-| 2022-09-15 | 3044 | 414 | 
 

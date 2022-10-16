@@ -1,6 +1,6 @@
 # dotfiles/dotfiles.github.com - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1314 | 124 | 
 | 2022-10-14 | 1314 | 124 | 
 | 2022-10-13 | 1315 | 124 | 
 | 2022-10-12 | 1312 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1306 | 123 | 
 | 2022-09-17 | 1306 | 123 | 
 | 2022-09-16 | 1306 | 124 | 
-| 2022-09-15 | 1305 | 124 | 
 

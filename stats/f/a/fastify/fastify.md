@@ -1,10 +1,10 @@
 # fastify/fastify - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1851
+☋ Forks: 1853
 
-★ Stars: 25158
+★ Stars: 25172
 
 [Open repository](https://github.com/fastify/fastify)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 25172 | 1853 | 
 | 2022-10-14 | 25158 | 1851 | 
 | 2022-10-13 | 25153 | 1849 | 
 | 2022-10-12 | 25150 | 1849 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 24951 | 1837 | 
 | 2022-09-18 | 24938 | 1837 | 
 | 2022-09-17 | 24931 | 1837 | 
-| 2022-09-16 | 24905 | 1832 | 
 

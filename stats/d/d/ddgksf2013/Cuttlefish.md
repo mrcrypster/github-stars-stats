@@ -1,10 +1,10 @@
 # ddgksf2013/Cuttlefish - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 138
+☋ Forks: 143
 
-★ Stars: 1425
+★ Stars: 1435
 
 [Open repository](https://github.com/ddgksf2013/Cuttlefish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1435 | 143 | 
 | 2022-10-14 | 1425 | 138 | 
 | 2022-10-13 | 1416 | 137 | 
 | 2022-10-12 | 1404 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1162 | 115 | 
 | 2022-09-17 | 1152 | 115 | 
 | 2022-09-16 | 1148 | 115 | 
-| 2022-09-15 | 1143 | 114 | 
 

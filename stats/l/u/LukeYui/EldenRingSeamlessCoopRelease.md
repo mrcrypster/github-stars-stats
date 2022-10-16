@@ -1,6 +1,6 @@
 # LukeYui/EldenRingSeamlessCoopRelease - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 456 | 24 | 
 | 2022-10-14 | 456 | 24 | 
 | 2022-10-13 | 451 | 24 | 
 | 2022-10-12 | 451 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 433 | 25 | 
 | 2022-09-17 | 433 | 25 | 
 | 2022-09-16 | 432 | 25 | 
-| 2022-09-15 | 432 | 24 | 
 

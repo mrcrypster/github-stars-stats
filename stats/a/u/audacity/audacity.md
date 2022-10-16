@@ -1,10 +1,10 @@
 # audacity/audacity - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1925
+☋ Forks: 1924
 
-★ Stars: 8238
+★ Stars: 8241
 
 [Open repository](https://github.com/audacity/audacity)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 8241 | 1924 | 
 | 2022-10-14 | 8238 | 1925 | 
 | 2022-10-13 | 8232 | 1925 | 
 | 2022-10-12 | 8227 | 1925 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 8054 | 1912 | 
 | 2022-09-17 | 8048 | 1911 | 
 | 2022-09-16 | 8047 | 1911 | 
-| 2022-09-15 | 8038 | 1910 | 
 

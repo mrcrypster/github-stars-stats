@@ -1,10 +1,10 @@
 # AdarshAddee/Hacktoberfest-2022-For-All - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 84
+☋ Forks: 89
 
-★ Stars: 27
+★ Stars: 29
 
 [Open repository](https://github.com/AdarshAddee/Hacktoberfest-2022-For-All)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 29 | 89 | 
 | 2022-10-14 | 27 | 84 | 
 | 2022-10-13 | 27 | 84 | 
 | 2022-10-12 | 27 | 83 | 

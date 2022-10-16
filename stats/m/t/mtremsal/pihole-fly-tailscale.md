@@ -1,6 +1,6 @@
 # mtremsal/pihole-fly-tailscale - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 93 | 2 | 
 | 2022-10-14 | 93 | 2 | 
 | 2022-10-13 | 93 | 2 | 
 | 2022-10-12 | 93 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 91 | 2 | 
 | 2022-09-18 | 91 | 2 | 
 | 2022-09-17 | 90 | 2 | 
-| 2022-09-15 | 90 | 2 | 
 

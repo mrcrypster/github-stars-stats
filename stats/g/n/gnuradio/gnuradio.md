@@ -1,8 +1,8 @@
 # gnuradio/gnuradio - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1707
+☋ Forks: 1709
 
 ★ Stars: 3989
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3989 | 1709 | 
 | 2022-10-14 | 3989 | 1707 | 
 | 2022-10-13 | 3987 | 1707 | 
 | 2022-10-12 | 3986 | 1707 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3962 | 1700 | 
 | 2022-09-17 | 3961 | 1699 | 
 | 2022-09-16 | 3961 | 1697 | 
-| 2022-09-15 | 3961 | 1697 | 
 

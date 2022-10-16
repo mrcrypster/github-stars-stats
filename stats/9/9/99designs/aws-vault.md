@@ -1,10 +1,10 @@
 # 99designs/aws-vault - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 683
 
-★ Stars: 6854
+★ Stars: 6855
 
 [Open repository](https://github.com/99designs/aws-vault)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 6855 | 683 | 
 | 2022-10-14 | 6854 | 683 | 
 | 2022-10-13 | 6854 | 683 | 
 | 2022-10-12 | 6848 | 682 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 6772 | 664 | 
 | 2022-09-17 | 6772 | 664 | 
 | 2022-09-16 | 6767 | 663 | 
-| 2022-09-15 | 6764 | 662 | 
 

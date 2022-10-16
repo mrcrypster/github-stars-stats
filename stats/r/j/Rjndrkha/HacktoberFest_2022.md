@@ -1,10 +1,10 @@
 # Rjndrkha/HacktoberFest_2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 486
+☋ Forks: 491
 
-★ Stars: 311
+★ Stars: 314
 
 [Open repository](https://github.com/Rjndrkha/HacktoberFest_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 314 | 491 | 
 | 2022-10-14 | 311 | 486 | 
 | 2022-10-13 | 302 | 472 | 
 | 2022-10-12 | 298 | 462 | 

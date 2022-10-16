@@ -1,10 +1,10 @@
 # dapphub/ds-test - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 138
+★ Stars: 139
 
 [Open repository](https://github.com/dapphub/ds-test)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 139 | 55 | 
 | 2022-10-14 | 138 | 54 | 
 | 2022-10-13 | 138 | 54 | 
 | 2022-10-12 | 137 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 133 | 53 | 
 | 2022-09-17 | 133 | 53 | 
 | 2022-09-16 | 132 | 53 | 
-| 2022-09-15 | 131 | 53 | 
 

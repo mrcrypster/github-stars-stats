@@ -1,10 +1,10 @@
 # ScenicFramework/scenic - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 129
 
-★ Stars: 1807
+★ Stars: 1808
 
 [Open repository](https://github.com/ScenicFramework/scenic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1808 | 129 | 
 | 2022-10-14 | 1807 | 129 | 
 | 2022-10-13 | 1807 | 129 | 
 | 2022-10-12 | 1806 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1794 | 127 | 
 | 2022-09-17 | 1792 | 127 | 
 | 2022-09-16 | 1792 | 126 | 
-| 2022-09-15 | 1792 | 125 | 
 

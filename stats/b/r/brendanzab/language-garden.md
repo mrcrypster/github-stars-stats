@@ -1,10 +1,10 @@
 # brendanzab/language-garden - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/brendanzab/language-garden)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 83 | 3 | 
 | 2022-10-14 | 82 | 3 | 
 | 2022-10-13 | 82 | 3 | 
 | 2022-10-12 | 82 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 70 | 3 | 
 | 2022-09-17 | 70 | 3 | 
 | 2022-09-16 | 69 | 3 | 
-| 2022-09-15 | 66 | 3 | 
 

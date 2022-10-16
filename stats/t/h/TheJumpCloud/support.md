@@ -1,6 +1,6 @@
 # TheJumpCloud/support - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 208 | 128 | 
 | 2022-10-14 | 208 | 128 | 
 | 2022-10-13 | 208 | 128 | 
 | 2022-10-12 | 208 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 206 | 128 | 
 | 2022-09-17 | 206 | 128 | 
 | 2022-09-16 | 206 | 128 | 
-| 2022-09-15 | 206 | 128 | 
 

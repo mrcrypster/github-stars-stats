@@ -1,10 +1,10 @@
 # biratdatta/Webpage-Maker - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 119
+☋ Forks: 124
 
-★ Stars: 44
+★ Stars: 47
 
 [Open repository](https://github.com/biratdatta/Webpage-Maker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 47 | 124 | 
 | 2022-10-14 | 44 | 119 | 
 | 2022-10-13 | 42 | 117 | 
 | 2022-10-12 | 42 | 116 | 

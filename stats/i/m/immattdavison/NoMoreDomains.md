@@ -1,8 +1,8 @@
 # immattdavison/NoMoreDomains - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 50
+☋ Forks: 52
 
 ★ Stars: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 52 | 52 | 
 | 2022-10-14 | 52 | 50 | 
 | 2022-10-13 | 53 | 48 | 
 | 2022-10-12 | 53 | 47 | 

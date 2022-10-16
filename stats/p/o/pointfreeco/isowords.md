@@ -1,10 +1,10 @@
 # pointfreeco/isowords - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 147
 
-★ Stars: 1917
+★ Stars: 1919
 
 [Open repository](https://github.com/pointfreeco/isowords)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1919 | 147 | 
 | 2022-10-14 | 1917 | 147 | 
 | 2022-10-13 | 1915 | 146 | 
 | 2022-10-12 | 1914 | 145 | 

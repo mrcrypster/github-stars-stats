@@ -1,6 +1,6 @@
 # mxcl/PromiseKit - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1459
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 13954 | 1459 | 
 | 2022-10-14 | 13954 | 1459 | 
 | 2022-10-13 | 13954 | 1459 | 
 | 2022-10-12 | 13954 | 1459 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 13939 | 1460 | 
 | 2022-09-17 | 13939 | 1460 | 
 | 2022-09-16 | 13938 | 1460 | 
-| 2022-09-15 | 13938 | 1460 | 
 

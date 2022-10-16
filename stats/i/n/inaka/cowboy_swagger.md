@@ -1,8 +1,8 @@
 # inaka/cowboy_swagger - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 109 | 51 | 
 | 2022-10-14 | 109 | 50 | 
 | 2022-10-13 | 109 | 50 | 
 | 2022-10-12 | 109 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 109 | 49 | 
 | 2022-09-17 | 109 | 49 | 
 | 2022-09-16 | 109 | 49 | 
-| 2022-09-15 | 109 | 49 | 
 

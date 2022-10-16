@@ -1,10 +1,10 @@
 # nonebot/nonebot2 - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 298
 
-★ Stars: 2626
+★ Stars: 2631
 
 [Open repository](https://github.com/nonebot/nonebot2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2631 | 298 | 
 | 2022-10-14 | 2626 | 298 | 
 | 2022-10-13 | 2622 | 298 | 
 | 2022-10-12 | 2615 | 299 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2522 | 290 | 
 | 2022-09-17 | 2519 | 289 | 
 | 2022-09-16 | 2515 | 289 | 
-| 2022-09-15 | 2508 | 288 | 
 

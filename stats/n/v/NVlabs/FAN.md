@@ -1,6 +1,6 @@
 # NVlabs/FAN - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 392 | 19 | 
 | 2022-10-14 | 392 | 19 | 
 | 2022-10-13 | 392 | 19 | 
 | 2022-10-12 | 390 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 384 | 18 | 
 | 2022-09-17 | 384 | 18 | 
 | 2022-09-16 | 384 | 18 | 
-| 2022-09-15 | 383 | 19 | 
 

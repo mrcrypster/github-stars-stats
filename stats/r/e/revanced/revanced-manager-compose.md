@@ -1,6 +1,6 @@
 # revanced/revanced-manager-compose - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 38 | 8 | 
 | 2022-10-14 | 38 | 8 | 
 | 2022-10-13 | 37 | 9 | 
 | 2022-10-12 | 36 | 7 | 

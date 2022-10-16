@@ -1,6 +1,6 @@
 # ballerina-platform/ballerina-lang - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 695
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3163 | 695 | 
 | 2022-10-14 | 3163 | 695 | 
 | 2022-10-13 | 3163 | 695 | 
 | 2022-10-12 | 3161 | 695 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3148 | 692 | 
 | 2022-09-17 | 3148 | 692 | 
 | 2022-09-16 | 3149 | 692 | 
-| 2022-09-15 | 3148 | 692 | 
 

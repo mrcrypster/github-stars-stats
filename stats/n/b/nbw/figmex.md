@@ -1,10 +1,10 @@
 # nbw/figmex - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 9
 
-★ Stars: 61
+★ Stars: 62
 
 [Open repository](https://github.com/nbw/figmex)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 62 | 9 | 
 | 2022-10-14 | 61 | 9 | 
 | 2022-10-13 | 61 | 9 | 
 | 2022-10-12 | 59 | 8 | 

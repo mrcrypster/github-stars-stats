@@ -1,10 +1,10 @@
 # LuxLang/lux - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 51
 
-★ Stars: 1468
+★ Stars: 1469
 
 [Open repository](https://github.com/LuxLang/lux)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1469 | 51 | 
 | 2022-10-14 | 1468 | 51 | 
 | 2022-10-13 | 1468 | 51 | 
 | 2022-10-12 | 1468 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1447 | 50 | 
 | 2022-09-17 | 1444 | 50 | 
 | 2022-09-16 | 1444 | 50 | 
-| 2022-09-15 | 1444 | 50 | 
 

@@ -1,8 +1,8 @@
 # thheller/shadow-cljs - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 157
+☋ Forks: 158
 
 ★ Stars: 1969
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1969 | 158 | 
 | 2022-10-14 | 1969 | 157 | 
 | 2022-10-13 | 1969 | 157 | 
 | 2022-10-12 | 1969 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 1955 | 154 | 
 | 2022-09-18 | 1954 | 154 | 
 | 2022-09-17 | 1954 | 154 | 
-| 2022-09-15 | 1952 | 154 | 
 

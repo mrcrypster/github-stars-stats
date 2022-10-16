@@ -1,10 +1,10 @@
 # iBotPeaches/Apktool - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 3195
+☋ Forks: 3196
 
-★ Stars: 14960
+★ Stars: 14970
 
 [Open repository](https://github.com/iBotPeaches/Apktool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 14970 | 3196 | 
 | 2022-10-14 | 14960 | 3195 | 
 | 2022-10-13 | 14954 | 3195 | 
 | 2022-10-12 | 14949 | 3194 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 14832 | 3173 | 
 | 2022-09-17 | 14827 | 3173 | 
 | 2022-09-16 | 14820 | 3173 | 
-| 2022-09-15 | 14815 | 3174 | 
 

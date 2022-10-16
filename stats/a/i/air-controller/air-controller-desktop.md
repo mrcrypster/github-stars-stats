@@ -1,10 +1,10 @@
 # air-controller/air-controller-desktop - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 47
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/air-controller/air-controller-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 351 | 47 | 
 | 2022-10-14 | 350 | 47 | 
 | 2022-10-13 | 350 | 46 | 
 | 2022-10-12 | 350 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 343 | 45 | 
 | 2022-09-17 | 343 | 45 | 
 | 2022-09-16 | 343 | 44 | 
-| 2022-09-15 | 343 | 44 | 
 

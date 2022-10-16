@@ -1,10 +1,10 @@
 # brillout/vite-plugin-ssr - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 166
 
-★ Stars: 1489
+★ Stars: 1495
 
 [Open repository](https://github.com/brillout/vite-plugin-ssr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1495 | 166 | 
 | 2022-10-14 | 1489 | 166 | 
 | 2022-10-13 | 1464 | 166 | 
 | 2022-10-12 | 1391 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1334 | 156 | 
 | 2022-09-17 | 1328 | 156 | 
 | 2022-09-16 | 1326 | 154 | 
-| 2022-09-15 | 1322 | 154 | 
 

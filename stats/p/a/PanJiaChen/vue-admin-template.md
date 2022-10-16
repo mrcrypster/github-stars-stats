@@ -1,8 +1,8 @@
 # PanJiaChen/vue-admin-template - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 6659
+☋ Forks: 6660
 
 ★ Stars: 17212
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 17212 | 6660 | 
 | 2022-10-14 | 17212 | 6659 | 
 | 2022-10-13 | 17210 | 6658 | 
 | 2022-10-12 | 17206 | 6660 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 17088 | 6613 | 
 | 2022-09-17 | 17088 | 6611 | 
 | 2022-09-16 | 17085 | 6613 | 
-| 2022-09-15 | 17081 | 6613 | 
 

@@ -1,10 +1,10 @@
 # postgres/postgres - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 3516
+☋ Forks: 3518
 
-★ Stars: 11100
+★ Stars: 11105
 
 [Open repository](https://github.com/postgres/postgres)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 11105 | 3518 | 
 | 2022-10-14 | 11100 | 3516 | 
 | 2022-10-13 | 11098 | 3515 | 
 | 2022-10-12 | 11087 | 3509 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 10961 | 3477 | 
 | 2022-09-17 | 10959 | 3477 | 
 | 2022-09-16 | 10952 | 3476 | 
-| 2022-09-15 | 10939 | 3468 | 
 

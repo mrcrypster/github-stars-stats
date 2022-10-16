@@ -1,10 +1,10 @@
 # dotnetcore/FreeSql - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 766
+☋ Forks: 765
 
-★ Stars: 3462
+★ Stars: 3463
 
 [Open repository](https://github.com/dotnetcore/FreeSql)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3463 | 765 | 
 | 2022-10-14 | 3462 | 766 | 
 | 2022-10-13 | 3461 | 766 | 
 | 2022-10-12 | 3460 | 767 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3429 | 761 | 
 | 2022-09-17 | 3428 | 761 | 
 | 2022-09-16 | 3428 | 761 | 
-| 2022-09-15 | 3427 | 761 | 
 

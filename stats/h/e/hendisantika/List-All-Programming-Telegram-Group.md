@@ -1,6 +1,6 @@
 # hendisantika/List-All-Programming-Telegram-Group - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 350
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1083 | 350 | 
 | 2022-10-14 | 1083 | 350 | 
 | 2022-10-13 | 1083 | 350 | 
 | 2022-10-12 | 1082 | 350 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 1065 | 345 | 
 | 2022-09-18 | 1065 | 345 | 
 | 2022-09-17 | 1065 | 345 | 
-| 2022-09-16 | 1065 | 345 | 
 

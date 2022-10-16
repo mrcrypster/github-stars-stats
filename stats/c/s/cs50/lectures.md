@@ -1,6 +1,6 @@
 # cs50/lectures - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 145 | 82 | 
 | 2022-10-14 | 145 | 82 | 
 | 2022-10-13 | 145 | 82 | 
 | 2022-10-12 | 144 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 140 | 78 | 
 | 2022-09-17 | 140 | 78 | 
 | 2022-09-16 | 140 | 78 | 
-| 2022-09-15 | 140 | 78 | 
 

@@ -1,10 +1,10 @@
 # fsprojects/Paket - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 520
 
-★ Stars: 1870
+★ Stars: 1871
 
 [Open repository](https://github.com/fsprojects/Paket)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1871 | 520 | 
 | 2022-10-14 | 1870 | 520 | 
 | 2022-10-13 | 1870 | 520 | 
 | 2022-10-12 | 1869 | 520 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1861 | 520 | 
 | 2022-09-17 | 1861 | 520 | 
 | 2022-09-16 | 1861 | 520 | 
-| 2022-09-15 | 1861 | 521 | 
 

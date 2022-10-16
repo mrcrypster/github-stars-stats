@@ -1,10 +1,10 @@
 # icret/EasyImages2.0 - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 208
 
-★ Stars: 1018
+★ Stars: 1021
 
 [Open repository](https://github.com/icret/EasyImages2.0)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1021 | 208 | 
 | 2022-10-14 | 1018 | 208 | 
 | 2022-10-13 | 1018 | 208 | 
 | 2022-10-12 | 1016 | 208 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 974 | 205 | 
 | 2022-09-17 | 973 | 205 | 
 | 2022-09-16 | 970 | 205 | 
-| 2022-09-15 | 969 | 204 | 
 

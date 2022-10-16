@@ -1,10 +1,10 @@
 # ikvm-revived/ikvm - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 63
 
-★ Stars: 492
+★ Stars: 493
 
 [Open repository](https://github.com/ikvm-revived/ikvm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 493 | 63 | 
 | 2022-10-14 | 492 | 63 | 
 | 2022-10-13 | 490 | 63 | 
 | 2022-10-12 | 490 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 476 | 60 | 
 | 2022-09-17 | 474 | 60 | 
 | 2022-09-16 | 474 | 60 | 
-| 2022-09-15 | 473 | 60 | 
 

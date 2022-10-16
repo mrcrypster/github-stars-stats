@@ -1,10 +1,10 @@
 # kubevirt/kubevirt - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 863
 
-★ Stars: 3575
+★ Stars: 3578
 
 [Open repository](https://github.com/kubevirt/kubevirt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3578 | 863 | 
 | 2022-10-14 | 3575 | 863 | 
 | 2022-10-13 | 3574 | 864 | 
 | 2022-10-12 | 3572 | 863 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 3531 | 857 | 
 | 2022-09-18 | 3530 | 855 | 
 | 2022-09-17 | 3529 | 855 | 
-| 2022-09-16 | 3526 | 853 | 
 

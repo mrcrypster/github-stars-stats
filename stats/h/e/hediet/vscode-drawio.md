@@ -1,6 +1,6 @@
 # hediet/vscode-drawio - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 352
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 8390 | 352 | 
 | 2022-10-14 | 8390 | 352 | 
 | 2022-10-13 | 8388 | 352 | 
 | 2022-10-12 | 8383 | 351 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 8344 | 349 | 
 | 2022-09-17 | 8344 | 349 | 
 | 2022-09-16 | 8344 | 347 | 
-| 2022-09-15 | 8339 | 347 | 
 

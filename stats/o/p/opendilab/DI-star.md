@@ -1,8 +1,8 @@
 # opendilab/DI-star - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 117
+☋ Forks: 118
 
 ★ Stars: 1047
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1047 | 118 | 
 | 2022-10-14 | 1047 | 117 | 
 | 2022-10-13 | 1047 | 117 | 
 | 2022-10-12 | 1045 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 951 | 105 | 
 | 2022-09-18 | 942 | 104 | 
 | 2022-09-17 | 938 | 103 | 
-| 2022-09-15 | 932 | 101 | 
 

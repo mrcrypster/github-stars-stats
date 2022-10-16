@@ -1,10 +1,10 @@
 # TaufeeqRiyaz/Spotify-Clone - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 34
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/TaufeeqRiyaz/Spotify-Clone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 16 | 34 | 
 | 2022-10-14 | 15 | 34 | 
 | 2022-10-13 | 15 | 33 | 
 | 2022-10-12 | 16 | 33 | 

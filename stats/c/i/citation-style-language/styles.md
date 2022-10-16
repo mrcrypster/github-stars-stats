@@ -1,10 +1,10 @@
 # citation-style-language/styles - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 3372
 
-★ Stars: 2732
+★ Stars: 2735
 
 [Open repository](https://github.com/citation-style-language/styles)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2735 | 3372 | 
 | 2022-10-14 | 2732 | 3372 | 
 | 2022-10-13 | 2732 | 3372 | 
 | 2022-10-12 | 2732 | 3372 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2711 | 3342 | 
 | 2022-09-17 | 2711 | 3342 | 
 | 2022-09-16 | 2710 | 3342 | 
-| 2022-09-15 | 2707 | 3341 | 
 

@@ -1,6 +1,6 @@
 # Patalin/HTML-CSS-LogIn - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 23 | 7 | 
 | 2022-10-14 | 23 | 7 | 
 | 2022-10-13 | 23 | 7 | 
 | 2022-10-12 | 23 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 14 | 5 | 
 | 2022-09-17 | 14 | 5 | 
 | 2022-09-16 | 13 | 5 | 
-| 2022-09-15 | 13 | 5 | 
 

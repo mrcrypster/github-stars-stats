@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 409
+★ Stars: 412
 
 [Open repository](https://github.com/Shopify/pitchfork)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-15 | 409 | 10 | 
+| 2022-10-15 | 412 | 10 | 
 | 2022-10-14 | 406 | 10 | 
 | 2022-10-13 | 398 | 10 | 
 | 2022-10-12 | 302 | 7 | 

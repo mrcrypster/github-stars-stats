@@ -1,6 +1,6 @@
 # ccfos/nightingale - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 946
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 5486 | 946 | 
 | 2022-10-14 | 5486 | 946 | 
 | 2022-10-13 | 5482 | 946 | 
 | 2022-10-12 | 5478 | 944 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 5364 | 933 | 
 | 2022-09-17 | 5360 | 932 | 
 | 2022-09-16 | 5356 | 931 | 
-| 2022-09-15 | 5351 | 931 | 
 

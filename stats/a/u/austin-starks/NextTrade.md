@@ -1,10 +1,10 @@
 # austin-starks/NextTrade - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/austin-starks/NextTrade)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 196 | 35 | 
 | 2022-10-14 | 195 | 34 | 
 | 2022-10-13 | 194 | 34 | 
 | 2022-10-12 | 193 | 34 | 

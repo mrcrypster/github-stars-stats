@@ -1,6 +1,6 @@
 # code-423n4/2022-05-alchemix - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 10 | 1 | 
 | 2022-10-14 | 10 | 1 | 
 | 2022-10-13 | 10 | 1 | 
 | 2022-10-12 | 10 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 9 | 1 | 
 | 2022-09-17 | 9 | 1 | 
 | 2022-09-16 | 9 | 1 | 
-| 2022-09-15 | 9 | 1 | 
 

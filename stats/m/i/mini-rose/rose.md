@@ -1,10 +1,10 @@
 # mini-rose/rose - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/mini-rose/rose)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 273 | 7 | 
 | 2022-10-14 | 272 | 7 | 
 | 2022-10-13 | 272 | 7 | 
 | 2022-10-12 | 272 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 271 | 7 | 
 | 2022-09-17 | 271 | 7 | 
 | 2022-09-16 | 272 | 7 | 
-| 2022-09-15 | 272 | 7 | 
 

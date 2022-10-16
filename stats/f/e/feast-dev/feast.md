@@ -1,10 +1,10 @@
 # feast-dev/feast - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 679
 
-★ Stars: 3661
+★ Stars: 3662
 
 [Open repository](https://github.com/feast-dev/feast)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3662 | 679 | 
 | 2022-10-14 | 3661 | 679 | 
 | 2022-10-13 | 3659 | 678 | 
 | 2022-10-12 | 3655 | 678 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 3605 | 658 | 
 | 2022-09-18 | 3605 | 658 | 
 | 2022-09-17 | 3605 | 658 | 
-| 2022-09-16 | 3602 | 658 | 
 

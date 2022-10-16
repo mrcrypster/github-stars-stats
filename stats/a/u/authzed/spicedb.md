@@ -1,10 +1,10 @@
 # authzed/spicedb - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 141
+☋ Forks: 140
 
-★ Stars: 2863
+★ Stars: 2866
 
 [Open repository](https://github.com/authzed/spicedb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2866 | 140 | 
 | 2022-10-14 | 2863 | 141 | 
 | 2022-10-13 | 2859 | 141 | 
 | 2022-10-12 | 2855 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 2772 | 136 | 
 | 2022-09-18 | 2768 | 136 | 
 | 2022-09-17 | 2765 | 136 | 
-| 2022-09-16 | 2761 | 135 | 
 

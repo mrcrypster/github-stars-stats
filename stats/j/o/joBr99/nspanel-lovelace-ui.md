@@ -1,8 +1,8 @@
 # joBr99/nspanel-lovelace-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 386
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 386 | 89 | 
 | 2022-10-14 | 386 | 88 | 
 | 2022-10-13 | 384 | 88 | 
 | 2022-10-12 | 383 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 363 | 77 | 
 | 2022-09-17 | 363 | 77 | 
 | 2022-09-16 | 362 | 77 | 
-| 2022-09-15 | 361 | 77 | 
 

@@ -1,10 +1,10 @@
 # Threekiii/Awesome-Redteam - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 272
 
-★ Stars: 1476
+★ Stars: 1481
 
 [Open repository](https://github.com/Threekiii/Awesome-Redteam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1481 | 272 | 
 | 2022-10-14 | 1476 | 272 | 
 | 2022-10-13 | 1462 | 268 | 
 | 2022-10-12 | 1460 | 266 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1374 | 249 | 
 | 2022-09-17 | 1369 | 245 | 
 | 2022-09-16 | 1364 | 243 | 
-| 2022-09-15 | 1358 | 242 | 
 

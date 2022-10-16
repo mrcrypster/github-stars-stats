@@ -1,10 +1,10 @@
 # automl/auto-sklearn - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1198
 
-★ Stars: 6542
+★ Stars: 6545
 
 [Open repository](https://github.com/automl/auto-sklearn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 6545 | 1198 | 
 | 2022-10-14 | 6542 | 1198 | 
 | 2022-10-13 | 6538 | 1198 | 
 | 2022-10-12 | 6535 | 1197 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 6487 | 1188 | 
 | 2022-09-17 | 6483 | 1188 | 
 | 2022-09-16 | 6483 | 1188 | 
-| 2022-09-15 | 6480 | 1188 | 
 

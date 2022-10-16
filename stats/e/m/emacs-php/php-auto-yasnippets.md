@@ -1,6 +1,6 @@
 # emacs-php/php-auto-yasnippets - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 42 | 13 | 
 | 2022-10-14 | 42 | 13 | 
 | 2022-10-13 | 42 | 13 | 
 | 2022-10-12 | 42 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 42 | 13 | 
 | 2022-09-18 | 42 | 13 | 
 | 2022-09-17 | 42 | 13 | 
-| 2022-09-16 | 42 | 13 | 
 

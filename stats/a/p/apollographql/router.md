@@ -1,10 +1,10 @@
 # apollographql/router - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 96
 
-★ Stars: 426
+★ Stars: 427
 
 [Open repository](https://github.com/apollographql/router)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 427 | 96 | 
 | 2022-10-14 | 426 | 96 | 
 | 2022-10-13 | 425 | 95 | 
 | 2022-10-12 | 422 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 385 | 89 | 
 | 2022-09-17 | 385 | 89 | 
 | 2022-09-16 | 385 | 89 | 
-| 2022-09-15 | 382 | 88 | 
 

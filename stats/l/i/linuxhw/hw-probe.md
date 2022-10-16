@@ -1,10 +1,10 @@
 # linuxhw/hw-probe - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 49
 
-★ Stars: 505
+★ Stars: 506
 
 [Open repository](https://github.com/linuxhw/hw-probe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 506 | 49 | 
 | 2022-10-14 | 505 | 49 | 
 | 2022-10-13 | 505 | 49 | 
 | 2022-10-12 | 505 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 495 | 47 | 
 | 2022-09-17 | 495 | 47 | 
 | 2022-09-16 | 495 | 47 | 
-| 2022-09-15 | 494 | 47 | 
 

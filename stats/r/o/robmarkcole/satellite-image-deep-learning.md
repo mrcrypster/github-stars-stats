@@ -1,10 +1,10 @@
 # robmarkcole/satellite-image-deep-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 965
 
-★ Stars: 5105
+★ Stars: 5108
 
 [Open repository](https://github.com/robmarkcole/satellite-image-deep-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 5108 | 965 | 
 | 2022-10-14 | 5105 | 965 | 
 | 2022-10-13 | 5095 | 964 | 
 | 2022-10-12 | 5089 | 963 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4808 | 918 | 
 | 2022-09-17 | 4802 | 916 | 
 | 2022-09-16 | 4769 | 915 | 
-| 2022-09-15 | 4753 | 913 | 
 

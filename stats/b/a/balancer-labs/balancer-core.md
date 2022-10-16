@@ -1,6 +1,6 @@
 # balancer-labs/balancer-core - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 280 | 146 | 
 | 2022-10-14 | 280 | 146 | 
 | 2022-10-13 | 280 | 146 | 
 | 2022-10-12 | 280 | 146 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 276 | 145 | 
 | 2022-09-17 | 276 | 145 | 
 | 2022-09-16 | 276 | 146 | 
-| 2022-09-15 | 276 | 146 | 
 

@@ -1,10 +1,10 @@
 # gophish/gophish - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1546
 
-★ Stars: 8182
+★ Stars: 8188
 
 [Open repository](https://github.com/gophish/gophish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 8188 | 1546 | 
 | 2022-10-14 | 8182 | 1546 | 
 | 2022-10-13 | 8176 | 1544 | 
 | 2022-10-12 | 8174 | 1541 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 8055 | 1513 | 
 | 2022-09-17 | 8049 | 1513 | 
 | 2022-09-16 | 8043 | 1512 | 
-| 2022-09-15 | 8037 | 1508 | 
 

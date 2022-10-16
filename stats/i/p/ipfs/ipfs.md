@@ -1,10 +1,10 @@
 # ipfs/ipfs - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1442
 
-★ Stars: 21326
+★ Stars: 21331
 
 [Open repository](https://github.com/ipfs/ipfs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 21331 | 1442 | 
 | 2022-10-14 | 21326 | 1442 | 
 | 2022-10-13 | 21318 | 1442 | 
 | 2022-10-12 | 21318 | 1443 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 21206 | 1439 | 
 | 2022-09-17 | 21203 | 1437 | 
 | 2022-09-16 | 21203 | 1436 | 
-| 2022-09-15 | 21199 | 1436 | 
 

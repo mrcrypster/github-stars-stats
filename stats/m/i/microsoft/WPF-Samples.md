@@ -1,10 +1,10 @@
 # microsoft/WPF-Samples - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 2906
+☋ Forks: 2907
 
-★ Stars: 3930
+★ Stars: 3932
 
 [Open repository](https://github.com/microsoft/WPF-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3932 | 2907 | 
 | 2022-10-14 | 3930 | 2906 | 
 | 2022-10-13 | 3930 | 2906 | 
 | 2022-10-12 | 3930 | 2906 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3904 | 2883 | 
 | 2022-09-17 | 3903 | 2884 | 
 | 2022-09-16 | 3902 | 2883 | 
-| 2022-09-15 | 3901 | 2880 | 
 

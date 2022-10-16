@@ -1,10 +1,10 @@
 # citusdata/docker - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 86
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/citusdata/docker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 199 | 86 | 
 | 2022-10-14 | 198 | 86 | 
 | 2022-10-13 | 198 | 86 | 
 | 2022-10-12 | 198 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 195 | 82 | 
 | 2022-09-17 | 195 | 82 | 
 | 2022-09-16 | 195 | 82 | 
-| 2022-09-15 | 195 | 82 | 
 

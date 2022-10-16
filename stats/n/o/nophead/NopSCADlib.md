@@ -1,10 +1,10 @@
 # nophead/NopSCADlib - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 126
 
-★ Stars: 822
+★ Stars: 823
 
 [Open repository](https://github.com/nophead/NopSCADlib)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 823 | 126 | 
 | 2022-10-14 | 822 | 126 | 
 | 2022-10-13 | 821 | 126 | 
 | 2022-10-12 | 820 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 808 | 122 | 
 | 2022-09-17 | 807 | 122 | 
 | 2022-09-16 | 807 | 122 | 
-| 2022-09-15 | 807 | 122 | 
 

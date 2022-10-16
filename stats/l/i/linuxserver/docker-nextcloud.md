@@ -1,6 +1,6 @@
 # linuxserver/docker-nextcloud - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 443 | 117 | 
 | 2022-10-14 | 443 | 117 | 
 | 2022-10-13 | 442 | 117 | 
 | 2022-10-12 | 441 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 428 | 117 | 
 | 2022-09-17 | 427 | 117 | 
 | 2022-09-16 | 426 | 117 | 
-| 2022-09-15 | 426 | 118 | 
 

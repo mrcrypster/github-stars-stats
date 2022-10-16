@@ -1,6 +1,6 @@
 # pinpox/lollypops - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 47 | 6 | 
 | 2022-10-14 | 47 | 6 | 
 | 2022-10-13 | 47 | 6 | 
 | 2022-10-12 | 47 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 46 | 6 | 
 | 2022-09-17 | 46 | 6 | 
 | 2022-09-16 | 46 | 6 | 
-| 2022-09-15 | 46 | 6 | 
 

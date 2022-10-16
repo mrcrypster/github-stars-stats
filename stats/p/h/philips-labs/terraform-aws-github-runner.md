@@ -1,10 +1,10 @@
 # philips-labs/terraform-aws-github-runner - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 341
+☋ Forks: 342
 
-★ Stars: 1140
+★ Stars: 1141
 
 [Open repository](https://github.com/philips-labs/terraform-aws-github-runner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1141 | 342 | 
 | 2022-10-14 | 1140 | 341 | 
 | 2022-10-13 | 1137 | 341 | 
 | 2022-10-12 | 1135 | 341 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1106 | 336 | 
 | 2022-09-17 | 1105 | 334 | 
 | 2022-09-16 | 1105 | 334 | 
-| 2022-09-15 | 1104 | 330 | 
 

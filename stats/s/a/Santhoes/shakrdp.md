@@ -1,8 +1,8 @@
 # Santhoes/shakrdp - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1011
+☋ Forks: 1018
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 16 | 1018 | 
 | 2022-10-14 | 16 | 1011 | 
 | 2022-10-13 | 16 | 1004 | 
 | 2022-10-12 | 16 | 992 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 14 | 804 | 
 | 2022-09-17 | 14 | 797 | 
 | 2022-09-16 | 13 | 790 | 
-| 2022-09-15 | 13 | 782 | 
 

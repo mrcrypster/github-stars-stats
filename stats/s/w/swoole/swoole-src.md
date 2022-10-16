@@ -1,10 +1,10 @@
 # swoole/swoole-src - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 3187
 
-★ Stars: 17603
+★ Stars: 17604
 
 [Open repository](https://github.com/swoole/swoole-src)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 17604 | 3187 | 
 | 2022-10-14 | 17603 | 3187 | 
 | 2022-10-13 | 17603 | 3187 | 
 | 2022-10-12 | 17604 | 3187 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 17578 | 3188 | 
 | 2022-09-18 | 17578 | 3188 | 
 | 2022-09-17 | 17578 | 3189 | 
-| 2022-09-16 | 17577 | 3189 | 
 

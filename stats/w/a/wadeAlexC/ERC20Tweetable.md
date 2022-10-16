@@ -1,6 +1,6 @@
 # wadeAlexC/ERC20Tweetable - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 70 | 1 | 
 | 2022-10-14 | 70 | 1 | 
 | 2022-10-13 | 70 | 1 | 
 | 2022-10-12 | 70 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 70 | 1 | 
 | 2022-09-17 | 70 | 1 | 
 | 2022-09-16 | 70 | 1 | 
-| 2022-09-15 | 70 | 1 | 
 

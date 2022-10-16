@@ -1,6 +1,6 @@
 # apache/inlong - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 972 | 335 | 
 | 2022-10-14 | 972 | 335 | 
 | 2022-10-13 | 968 | 332 | 
 | 2022-10-12 | 961 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 941 | 320 | 
 | 2022-09-17 | 941 | 320 | 
 | 2022-09-16 | 940 | 320 | 
-| 2022-09-15 | 940 | 320 | 
 

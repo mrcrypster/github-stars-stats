@@ -1,6 +1,6 @@
 # aws/aws-sdk-cpp - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 917
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1568 | 917 | 
 | 2022-10-14 | 1568 | 917 | 
 | 2022-10-13 | 1566 | 917 | 
 | 2022-10-12 | 1566 | 917 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1553 | 908 | 
 | 2022-09-17 | 1553 | 909 | 
 | 2022-09-16 | 1553 | 910 | 
-| 2022-09-15 | 1552 | 910 | 
 

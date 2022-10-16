@@ -1,10 +1,10 @@
 # laravel/sanctum - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 224
+☋ Forks: 225
 
-★ Stars: 2388
+★ Stars: 2391
 
 [Open repository](https://github.com/laravel/sanctum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2391 | 225 | 
 | 2022-10-14 | 2388 | 224 | 
 | 2022-10-13 | 2387 | 224 | 
 | 2022-10-12 | 2386 | 224 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 2374 | 223 | 
 | 2022-09-18 | 2374 | 223 | 
 | 2022-09-17 | 2374 | 223 | 
-| 2022-09-16 | 2374 | 224 | 
 

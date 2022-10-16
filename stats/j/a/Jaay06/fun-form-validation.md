@@ -1,10 +1,10 @@
 # Jaay06/fun-form-validation - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 10
 
-★ Stars: 53
+★ Stars: 58
 
 [Open repository](https://github.com/Jaay06/fun-form-validation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 58 | 10 | 
 | 2022-10-14 | 53 | 10 | 
 | 2022-10-13 | 52 | 9 | 
 | 2022-10-12 | 52 | 9 | 

@@ -1,10 +1,10 @@
 # datawhalechina/competition-baseline - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 942
+☋ Forks: 943
 
-★ Stars: 3129
+★ Stars: 3132
 
 [Open repository](https://github.com/datawhalechina/competition-baseline)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3132 | 943 | 
 | 2022-10-14 | 3129 | 942 | 
 | 2022-10-13 | 3126 | 942 | 
 | 2022-10-12 | 3122 | 942 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3089 | 933 | 
 | 2022-09-17 | 3087 | 932 | 
 | 2022-09-16 | 3085 | 931 | 
-| 2022-09-15 | 3083 | 930 | 
 

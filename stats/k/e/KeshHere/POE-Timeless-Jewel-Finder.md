@@ -1,8 +1,8 @@
 # KeshHere/POE-Timeless-Jewel-Finder - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 45 | 8 | 
 | 2022-10-14 | 45 | 7 | 
 | 2022-10-13 | 45 | 7 | 
 | 2022-10-12 | 45 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 43 | 6 | 
 | 2022-09-17 | 43 | 6 | 
 | 2022-09-16 | 43 | 6 | 
-| 2022-09-15 | 43 | 5 | 
 

@@ -1,10 +1,10 @@
 # TechEmpower/FrameworkBenchmarks - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1785
 
-★ Stars: 6615
+★ Stars: 6616
 
 [Open repository](https://github.com/TechEmpower/FrameworkBenchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 6616 | 1785 | 
 | 2022-10-14 | 6615 | 1785 | 
 | 2022-10-13 | 6610 | 1784 | 
 | 2022-10-12 | 6610 | 1784 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 6571 | 1769 | 
 | 2022-09-17 | 6568 | 1769 | 
 | 2022-09-16 | 6566 | 1768 | 
-| 2022-09-15 | 6564 | 1767 | 
 

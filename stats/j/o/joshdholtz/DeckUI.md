@@ -1,6 +1,6 @@
 # joshdholtz/DeckUI - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 411 | 16 | 
 | 2022-10-14 | 411 | 16 | 
 | 2022-10-13 | 411 | 16 | 
 | 2022-10-12 | 409 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 354 | 13 | 
 | 2022-09-17 | 342 | 13 | 
 | 2022-09-16 | 305 | 12 | 
-| 2022-09-15 | 292 | 11 | 
 

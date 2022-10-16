@@ -1,10 +1,10 @@
 # Shopify/toxiproxy - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 403
 
-★ Stars: 8600
+★ Stars: 8603
 
 [Open repository](https://github.com/Shopify/toxiproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 8603 | 403 | 
 | 2022-10-14 | 8600 | 403 | 
 | 2022-10-13 | 8596 | 403 | 
 | 2022-10-12 | 8592 | 403 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 8506 | 397 | 
 | 2022-09-17 | 8496 | 398 | 
 | 2022-09-16 | 8490 | 398 | 
-| 2022-09-15 | 8485 | 396 | 
 

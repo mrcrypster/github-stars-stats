@@ -1,6 +1,6 @@
 # rklyz/MyRice - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 229 | 11 | 
 | 2022-10-15 | 229 | 11 | 
 | 2022-10-14 | 229 | 11 | 
 | 2022-10-13 | 228 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-18 | 223 | 11 | 
 | 2022-09-17 | 220 | 11 | 
 | 2022-09-16 | 218 | 11 | 
-| 2022-09-15 | 217 | 11 | 
 

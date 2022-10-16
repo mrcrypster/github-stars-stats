@@ -1,10 +1,10 @@
 # jimmy-byte/-HactoberFest2022-For_All_Beginers- - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 342
+☋ Forks: 359
 
-★ Stars: 118
+★ Stars: 124
 
 [Open repository](https://github.com/jimmy-byte/-HactoberFest2022-For_All_Beginers-)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 124 | 359 | 
 | 2022-10-14 | 118 | 342 | 
 | 2022-10-13 | 117 | 334 | 
 | 2022-10-12 | 116 | 331 | 

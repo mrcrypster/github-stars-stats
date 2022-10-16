@@ -1,10 +1,10 @@
 # acidanthera/OpenCorePkg - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 1817
+☋ Forks: 1819
 
-★ Stars: 10234
+★ Stars: 10235
 
 [Open repository](https://github.com/acidanthera/OpenCorePkg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 10235 | 1819 | 
 | 2022-10-14 | 10234 | 1817 | 
 | 2022-10-13 | 10228 | 1817 | 
 | 2022-10-12 | 10221 | 1817 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 10124 | 1804 | 
 | 2022-09-17 | 10113 | 1803 | 
 | 2022-09-16 | 10110 | 1803 | 
-| 2022-09-15 | 10105 | 1803 | 
 

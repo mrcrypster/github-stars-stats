@@ -1,10 +1,10 @@
 # chentoast/marks.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 13
 
-★ Stars: 393
+★ Stars: 395
 
 [Open repository](https://github.com/chentoast/marks.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 395 | 13 | 
 | 2022-10-14 | 393 | 13 | 
 | 2022-10-13 | 393 | 13 | 
 | 2022-10-12 | 393 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 384 | 13 | 
 | 2022-09-17 | 384 | 13 | 
 | 2022-09-16 | 382 | 13 | 
-| 2022-09-15 | 382 | 13 | 
 

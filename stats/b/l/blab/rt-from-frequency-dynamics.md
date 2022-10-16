@@ -1,10 +1,10 @@
 # blab/rt-from-frequency-dynamics - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 4
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/blab/rt-from-frequency-dynamics)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 43 | 4 | 
 | 2022-10-14 | 42 | 4 | 
 | 2022-10-13 | 42 | 4 | 
 | 2022-10-12 | 42 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 41 | 4 | 
 | 2022-09-17 | 41 | 4 | 
 | 2022-09-16 | 41 | 4 | 
-| 2022-09-15 | 41 | 4 | 
 

@@ -1,8 +1,8 @@
 # ForrestKnight/open-source-cs - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 2809
+☋ Forks: 2808
 
 ★ Stars: 16398
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 16398 | 2808 | 
 | 2022-10-14 | 16398 | 2809 | 
 | 2022-10-13 | 16395 | 2808 | 
 | 2022-10-12 | 16390 | 2808 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 16280 | 2801 | 
 | 2022-09-18 | 16269 | 2799 | 
 | 2022-09-17 | 16266 | 2800 | 
-| 2022-09-16 | 16265 | 2799 | 
 

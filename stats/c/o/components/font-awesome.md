@@ -1,6 +1,6 @@
 # components/font-awesome - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 188 | 57 | 
 | 2022-10-14 | 188 | 57 | 
 | 2022-10-13 | 188 | 57 | 
 | 2022-10-12 | 188 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 188 | 56 | 
 | 2022-09-17 | 188 | 56 | 
 | 2022-09-16 | 188 | 56 | 
-| 2022-09-15 | 188 | 56 | 
 

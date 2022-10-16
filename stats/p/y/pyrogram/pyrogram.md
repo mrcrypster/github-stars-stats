@@ -1,10 +1,10 @@
 # pyrogram/pyrogram - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 985
 
-★ Stars: 3007
+★ Stars: 3009
 
 [Open repository](https://github.com/pyrogram/pyrogram)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3009 | 985 | 
 | 2022-10-14 | 3007 | 985 | 
 | 2022-10-13 | 3002 | 985 | 
 | 2022-10-12 | 3000 | 986 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 2948 | 983 | 
 | 2022-09-18 | 2948 | 984 | 
 | 2022-09-17 | 2946 | 984 | 
-| 2022-09-16 | 2944 | 984 | 
 

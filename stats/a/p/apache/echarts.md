@@ -1,10 +1,10 @@
 # apache/echarts - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 19208
+☋ Forks: 19213
 
-★ Stars: 52960
+★ Stars: 52966
 
 [Open repository](https://github.com/apache/echarts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 52966 | 19213 | 
 | 2022-10-14 | 52960 | 19208 | 
 | 2022-10-13 | 52946 | 19205 | 
 | 2022-10-12 | 52939 | 19206 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 52498 | 19186 | 
 | 2022-09-17 | 52490 | 19186 | 
 | 2022-09-16 | 52484 | 19185 | 
-| 2022-09-15 | 52470 | 19185 | 
 

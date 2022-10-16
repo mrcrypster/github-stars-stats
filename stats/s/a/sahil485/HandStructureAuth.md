@@ -1,6 +1,6 @@
 # sahil485/HandStructureAuth - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 12 | - | 
 | 2022-10-14 | 12 | - | 
 | 2022-10-13 | 12 | - | 
 | 2022-10-12 | 12 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 12 | - | 
 | 2022-09-17 | 12 | - | 
 | 2022-09-16 | 12 | - | 
-| 2022-09-15 | 12 | - | 
 

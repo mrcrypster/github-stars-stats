@@ -1,6 +1,6 @@
 # Paperback-iOS/website - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 42 | 89 | 
 | 2022-10-14 | 42 | 89 | 
 | 2022-10-13 | 42 | 89 | 
 | 2022-10-12 | 42 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 39 | 90 | 
 | 2022-09-17 | 39 | 90 | 
 | 2022-09-16 | 39 | 90 | 
-| 2022-09-15 | 39 | 90 | 
 

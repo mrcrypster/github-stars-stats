@@ -1,6 +1,6 @@
 # SebLague/Geographical-Adventures - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 2532 | 325 | 
 | 2022-10-14 | 2532 | 325 | 
 | 2022-10-13 | 2530 | 326 | 
 | 2022-10-12 | 2526 | 326 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 2483 | 319 | 
 | 2022-09-17 | 2483 | 317 | 
 | 2022-09-16 | 2483 | 317 | 
-| 2022-09-15 | 2481 | 315 | 
 

@@ -1,10 +1,10 @@
 # aztfmod/terraform-azurerm-caf - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 411
 
-★ Stars: 312
+★ Stars: 313
 
 [Open repository](https://github.com/aztfmod/terraform-azurerm-caf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 313 | 411 | 
 | 2022-10-14 | 312 | 411 | 
 | 2022-10-13 | 312 | 411 | 
 | 2022-10-12 | 312 | 411 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 299 | 395 | 
 | 2022-09-17 | 299 | 395 | 
 | 2022-09-16 | 299 | 394 | 
-| 2022-09-15 | 299 | 393 | 
 

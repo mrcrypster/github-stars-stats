@@ -1,6 +1,6 @@
 # flaviojmendes/trilhainfo - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 305 | 47 | 
 | 2022-10-14 | 305 | 47 | 
 | 2022-10-13 | 304 | 48 | 
 | 2022-10-12 | 304 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 205 | 34 | 
 | 2022-09-17 | 205 | 34 | 
 | 2022-09-16 | 204 | 34 | 
-| 2022-09-15 | 204 | 34 | 
 

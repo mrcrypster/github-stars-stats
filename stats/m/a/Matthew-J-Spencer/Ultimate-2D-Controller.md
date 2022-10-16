@@ -1,10 +1,10 @@
 # Matthew-J-Spencer/Ultimate-2D-Controller - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 236
 
-★ Stars: 1018
+★ Stars: 1020
 
 [Open repository](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1020 | 236 | 
 | 2022-10-14 | 1018 | 236 | 
 | 2022-10-13 | 1018 | 236 | 
 | 2022-10-12 | 1017 | 236 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 985 | 232 | 
 | 2022-09-17 | 984 | 231 | 
 | 2022-09-16 | 982 | 231 | 
-| 2022-09-15 | 982 | 231 | 
 

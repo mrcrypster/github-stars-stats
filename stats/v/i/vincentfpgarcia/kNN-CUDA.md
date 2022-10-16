@@ -1,8 +1,8 @@
 # vincentfpgarcia/kNN-CUDA - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 93
+☋ Forks: 94
 
 ★ Stars: 401
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 401 | 94 | 
 | 2022-10-14 | 401 | 93 | 
 | 2022-10-13 | 401 | 93 | 
 | 2022-10-12 | 400 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 398 | 93 | 
 | 2022-09-17 | 398 | 93 | 
 | 2022-09-16 | 398 | 93 | 
-| 2022-09-15 | 398 | 93 | 
 

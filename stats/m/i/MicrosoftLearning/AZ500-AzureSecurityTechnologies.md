@@ -1,10 +1,10 @@
 # MicrosoftLearning/AZ500-AzureSecurityTechnologies - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 567
+☋ Forks: 568
 
-★ Stars: 597
+★ Stars: 598
 
 [Open repository](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 598 | 568 | 
 | 2022-10-14 | 597 | 567 | 
 | 2022-10-13 | 597 | 567 | 
 | 2022-10-12 | 597 | 567 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 581 | 544 | 
 | 2022-09-17 | 581 | 544 | 
 | 2022-09-16 | 581 | 544 | 
-| 2022-09-15 | 581 | 544 | 
 

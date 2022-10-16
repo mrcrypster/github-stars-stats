@@ -1,6 +1,6 @@
 # OSCPU/ysyx-workbench - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 29 | 27 | 
 | 2022-10-14 | 29 | 27 | 
 | 2022-10-13 | 29 | 27 | 
 | 2022-10-12 | 29 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 24 | 25 | 
 | 2022-09-17 | 23 | 25 | 
 | 2022-09-16 | 23 | 25 | 
-| 2022-09-15 | 23 | 25 | 
 

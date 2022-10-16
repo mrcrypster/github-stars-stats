@@ -1,6 +1,6 @@
 # TableTopSecurity/d0x3d-the-game - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 188 | 45 | 
 | 2022-10-14 | 188 | 45 | 
 | 2022-10-13 | 188 | 45 | 
 | 2022-10-12 | 188 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 186 | 43 | 
 | 2022-09-17 | 186 | 43 | 
 | 2022-09-16 | 186 | 43 | 
-| 2022-09-15 | 186 | 43 | 
 

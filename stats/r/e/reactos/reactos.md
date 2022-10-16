@@ -1,10 +1,10 @@
 # reactos/reactos - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1425
 
-★ Stars: 11548
+★ Stars: 11550
 
 [Open repository](https://github.com/reactos/reactos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 11550 | 1425 | 
 | 2022-10-14 | 11548 | 1425 | 
 | 2022-10-13 | 11542 | 1425 | 
 | 2022-10-12 | 11534 | 1421 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 11439 | 1411 | 
 | 2022-09-17 | 11435 | 1410 | 
 | 2022-09-16 | 11433 | 1410 | 
-| 2022-09-15 | 11429 | 1410 | 
 

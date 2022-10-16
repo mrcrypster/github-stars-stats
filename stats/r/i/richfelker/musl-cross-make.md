@@ -1,6 +1,6 @@
 # richfelker/musl-cross-make - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 191
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 931 | 191 | 
 | 2022-10-14 | 931 | 191 | 
 | 2022-10-13 | 930 | 191 | 
 | 2022-10-12 | 930 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 917 | 188 | 
 | 2022-09-17 | 918 | 188 | 
 | 2022-09-16 | 917 | 188 | 
-| 2022-09-15 | 917 | 188 | 
 

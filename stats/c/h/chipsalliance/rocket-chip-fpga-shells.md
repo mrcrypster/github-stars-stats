@@ -1,10 +1,10 @@
 # chipsalliance/rocket-chip-fpga-shells - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/chipsalliance/rocket-chip-fpga-shells)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 7 | 2 | 
 | 2022-10-15 | 6 | 1 | 
 | 2022-10-14 | 6 | 1 | 
 | 2022-10-13 | 6 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-18 | 6 | 1 | 
 | 2022-09-17 | 6 | 1 | 
 | 2022-09-16 | 6 | 1 | 
-| 2022-09-15 | 6 | 1 | 
 

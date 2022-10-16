@@ -1,10 +1,10 @@
 # DeutscheKI/tevr-asr-tool - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 15
 
-★ Stars: 377
+★ Stars: 376
 
 [Open repository](https://github.com/DeutscheKI/tevr-asr-tool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 376 | 15 | 
 | 2022-10-14 | 377 | 15 | 
 | 2022-10-13 | 377 | 15 | 
 | 2022-10-12 | 377 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 374 | 13 | 
 | 2022-09-17 | 374 | 13 | 
 | 2022-09-16 | 374 | 13 | 
-| 2022-09-15 | 373 | 13 | 
 

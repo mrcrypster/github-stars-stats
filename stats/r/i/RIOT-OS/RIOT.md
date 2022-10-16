@@ -1,10 +1,10 @@
 # RIOT-OS/RIOT - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 1839
 
-★ Stars: 4282
+★ Stars: 4280
 
 [Open repository](https://github.com/RIOT-OS/RIOT)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 4280 | 1839 | 
 | 2022-10-14 | 4282 | 1839 | 
 | 2022-10-13 | 4280 | 1839 | 
 | 2022-10-12 | 4279 | 1839 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4263 | 1833 | 
 | 2022-09-17 | 4261 | 1833 | 
 | 2022-09-16 | 4261 | 1833 | 
-| 2022-09-15 | 4261 | 1833 | 
 

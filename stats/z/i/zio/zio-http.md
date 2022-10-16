@@ -1,10 +1,10 @@
 # zio/zio-http - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 166
 
-★ Stars: 562
+★ Stars: 563
 
 [Open repository](https://github.com/zio/zio-http)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 563 | 166 | 
 | 2022-10-14 | 562 | 166 | 
 | 2022-10-13 | 561 | 166 | 
 | 2022-10-12 | 561 | 166 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 537 | 151 | 
 | 2022-09-17 | 535 | 150 | 
 | 2022-09-16 | 535 | 150 | 
-| 2022-09-15 | 535 | 148 | 
 

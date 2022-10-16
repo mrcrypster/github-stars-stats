@@ -1,10 +1,10 @@
 # open-mmlab/mmpose - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 634
 
-★ Stars: 2516
+★ Stars: 2522
 
 [Open repository](https://github.com/open-mmlab/mmpose)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2522 | 634 | 
+| 2022-10-15 | 2522 | 634 | 
 | 2022-10-14 | 2516 | 634 | 
 | 2022-10-13 | 2512 | 633 | 
 | 2022-10-12 | 2508 | 633 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 2423 | 612 | 
 | 2022-09-18 | 2419 | 613 | 
 | 2022-09-17 | 2418 | 612 | 
-| 2022-09-16 | 2413 | 611 | 
 

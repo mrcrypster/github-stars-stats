@@ -1,10 +1,10 @@
 # webview/webview - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 825
 
-★ Stars: 10537
+★ Stars: 10544
 
 [Open repository](https://github.com/webview/webview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 10544 | 825 | 
 | 2022-10-14 | 10537 | 825 | 
 | 2022-10-13 | 10531 | 825 | 
 | 2022-10-12 | 10528 | 825 | 

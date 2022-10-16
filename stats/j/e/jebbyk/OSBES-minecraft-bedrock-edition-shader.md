@@ -1,6 +1,6 @@
 # jebbyk/OSBES-minecraft-bedrock-edition-shader - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 143 | 44 | 
 | 2022-10-14 | 143 | 44 | 
 | 2022-10-13 | 143 | 44 | 
 | 2022-10-12 | 143 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 142 | 44 | 
 | 2022-09-17 | 142 | 44 | 
 | 2022-09-16 | 142 | 44 | 
-| 2022-09-15 | 142 | 44 | 
 

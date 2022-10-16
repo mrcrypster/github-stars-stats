@@ -1,10 +1,10 @@
 # prometheus-community/helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 3542
+☋ Forks: 3543
 
-★ Stars: 3117
+★ Stars: 3119
 
 [Open repository](https://github.com/prometheus-community/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 3119 | 3543 | 
 | 2022-10-14 | 3117 | 3542 | 
 | 2022-10-13 | 3113 | 3540 | 
 | 2022-10-12 | 3106 | 3531 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 3021 | 3407 | 
 | 2022-09-17 | 3020 | 3407 | 
 | 2022-09-16 | 3018 | 3405 | 
-| 2022-09-15 | 3015 | 3403 | 
 

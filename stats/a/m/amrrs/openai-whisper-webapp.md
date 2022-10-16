@@ -1,10 +1,10 @@
 # amrrs/openai-whisper-webapp - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 9
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/amrrs/openai-whisper-webapp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 42 | 9 | 
 | 2022-10-14 | 41 | 9 | 
 | 2022-10-13 | 41 | 9 | 
 | 2022-10-12 | 41 | 9 | 

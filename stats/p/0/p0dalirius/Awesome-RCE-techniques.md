@@ -1,10 +1,10 @@
 # p0dalirius/Awesome-RCE-techniques - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 165
 
-★ Stars: 1493
+★ Stars: 1494
 
 [Open repository](https://github.com/p0dalirius/Awesome-RCE-techniques)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 1494 | 165 | 
 | 2022-10-14 | 1493 | 165 | 
 | 2022-10-13 | 1492 | 165 | 
 | 2022-10-12 | 1491 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 1464 | 160 | 
 | 2022-09-17 | 1463 | 160 | 
 | 2022-09-16 | 1464 | 160 | 
-| 2022-09-15 | 1463 | 160 | 
 

@@ -1,6 +1,6 @@
 # R-r-riddikulus/riddikulus-shanghai-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 286 | 11 | 
 | 2022-10-14 | 286 | 11 | 
 | 2022-10-13 | 286 | 11 | 
 | 2022-10-12 | 286 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 286 | 11 | 
 | 2022-09-17 | 286 | 11 | 
 | 2022-09-16 | 286 | 11 | 
-| 2022-09-15 | 286 | 11 | 
 

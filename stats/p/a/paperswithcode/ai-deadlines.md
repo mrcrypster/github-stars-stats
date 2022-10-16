@@ -1,10 +1,10 @@
 # paperswithcode/ai-deadlines - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 724
+☋ Forks: 725
 
-★ Stars: 4487
+★ Stars: 4488
 
 [Open repository](https://github.com/paperswithcode/ai-deadlines)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 4488 | 725 | 
 | 2022-10-14 | 4487 | 724 | 
 | 2022-10-13 | 4483 | 724 | 
 | 2022-10-12 | 4479 | 725 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 4429 | 721 | 
 | 2022-09-17 | 4430 | 721 | 
 | 2022-09-16 | 4430 | 721 | 
-| 2022-09-15 | 4430 | 720 | 
 

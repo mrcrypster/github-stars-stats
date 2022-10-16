@@ -1,6 +1,6 @@
 # flowhub-team/awesome-omics - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 285 | 56 | 
 | 2022-10-14 | 285 | 56 | 
 | 2022-10-13 | 285 | 56 | 
 | 2022-10-12 | 285 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-18 | 286 | 56 | 
 | 2022-09-17 | 286 | 56 | 
 | 2022-09-16 | 287 | 56 | 
-| 2022-09-15 | 287 | 56 | 
 

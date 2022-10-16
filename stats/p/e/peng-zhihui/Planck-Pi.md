@@ -1,6 +1,6 @@
 # peng-zhihui/Planck-Pi - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 812 | 194 | 
 | 2022-10-14 | 812 | 194 | 
 | 2022-10-13 | 812 | 194 | 
 | 2022-10-12 | 810 | 194 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 788 | 190 | 
 | 2022-09-18 | 789 | 190 | 
 | 2022-09-17 | 790 | 190 | 
-| 2022-09-16 | 789 | 190 | 
 

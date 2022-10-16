@@ -1,10 +1,10 @@
 # fffaraz/awesome-cpp - stars & forks statistics
 
-Stats updated on Oct 2022, 14
+Stats updated on Oct 2022, 15
 
-☋ Forks: 6555
+☋ Forks: 6559
 
-★ Stars: 40949
+★ Stars: 40969
 
 [Open repository](https://github.com/fffaraz/awesome-cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-15 | 40969 | 6559 | 
 | 2022-10-14 | 40949 | 6555 | 
 | 2022-10-13 | 40930 | 6551 | 
 | 2022-10-12 | 40909 | 6547 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 14
 | 2022-09-19 | 40197 | 6499 | 
 | 2022-09-18 | 40164 | 6497 | 
 | 2022-09-17 | 40152 | 6498 | 
-| 2022-09-16 | 40118 | 6494 | 
 
