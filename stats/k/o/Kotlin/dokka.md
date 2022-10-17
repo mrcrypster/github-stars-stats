@@ -1,10 +1,10 @@
 # Kotlin/dokka - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 332
 
-★ Stars: 2677
+★ Stars: 2679
 
 [Open repository](https://github.com/Kotlin/dokka)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2679 | 332 | 
 | 2022-10-15 | 2677 | 332 | 
 | 2022-10-14 | 2674 | 332 | 
 | 2022-10-13 | 2673 | 332 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2641 | 328 | 
 | 2022-09-18 | 2641 | 328 | 
 | 2022-09-17 | 2640 | 328 | 
-| 2022-09-16 | 2637 | 328 | 
 

@@ -1,6 +1,6 @@
 # dekuNukem/duckyPad - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 131
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 864 | 131 | 
 | 2022-10-15 | 864 | 131 | 
 | 2022-10-14 | 863 | 131 | 
 | 2022-10-13 | 863 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 839 | 128 | 
 | 2022-09-19 | 838 | 128 | 
 | 2022-09-18 | 835 | 128 | 
-| 2022-09-17 | 834 | 128 | 
 

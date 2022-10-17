@@ -1,6 +1,6 @@
 # MSEndpointMgr/Intune - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 369 | 180 | 
 | 2022-10-15 | 369 | 180 | 
 | 2022-10-14 | 369 | 180 | 
 | 2022-10-13 | 369 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 357 | 170 | 
 | 2022-09-18 | 357 | 170 | 
 | 2022-09-17 | 357 | 170 | 
-| 2022-09-16 | 357 | 169 | 
 

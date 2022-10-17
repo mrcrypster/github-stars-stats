@@ -1,10 +1,10 @@
 # PKUFlyingPig/Self-learning-Computer-Science - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 140
 
-★ Stars: 1239
+★ Stars: 1241
 
 [Open repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1241 | 140 | 
 | 2022-10-15 | 1239 | 140 | 
 | 2022-10-14 | 1239 | 140 | 
 | 2022-10-13 | 1238 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1176 | 132 | 
 | 2022-09-18 | 1172 | 132 | 
 | 2022-09-17 | 1165 | 132 | 
-| 2022-09-16 | 1160 | 132 | 
 

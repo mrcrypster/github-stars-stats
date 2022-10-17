@@ -1,10 +1,10 @@
 # joelparkerhenderson/architecture-decision-record - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 1891
+☋ Forks: 1892
 
-★ Stars: 7845
+★ Stars: 7852
 
 [Open repository](https://github.com/joelparkerhenderson/architecture-decision-record)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 7852 | 1892 | 
 | 2022-10-15 | 7845 | 1891 | 
 | 2022-10-14 | 7833 | 1889 | 
 | 2022-10-13 | 7817 | 1886 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 7694 | 1863 | 
 | 2022-09-18 | 7690 | 1862 | 
 | 2022-09-17 | 7687 | 1861 | 
-| 2022-09-16 | 7683 | 1858 | 
 

@@ -1,6 +1,6 @@
 # Cloudlordd/Cloudlord-and-pals - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 10 | 111 | 
 | 2022-10-15 | 10 | 111 | 
 | 2022-10-14 | 10 | 111 | 
 | 2022-10-13 | 10 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 9 | 108 | 
 | 2022-09-18 | 9 | 108 | 
 | 2022-09-17 | 9 | 109 | 
-| 2022-09-16 | 9 | 108 | 
 

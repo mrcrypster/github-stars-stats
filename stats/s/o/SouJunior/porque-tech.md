@@ -1,10 +1,10 @@
 # SouJunior/porque-tech - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 13
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/SouJunior/porque-tech)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 18 | 13 | 
 | 2022-10-15 | 17 | 13 | 
 | 2022-10-14 | 17 | 13 | 
 | 2022-10-13 | 17 | 13 | 

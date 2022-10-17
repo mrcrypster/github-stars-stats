@@ -1,6 +1,6 @@
 # Bai-Yu-Lan/SH-COVID19 - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 120 | 14 | 
 | 2022-10-15 | 120 | 14 | 
 | 2022-10-14 | 120 | 14 | 
 | 2022-10-13 | 120 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 117 | 13 | 
 | 2022-09-19 | 117 | 13 | 
 | 2022-09-18 | 117 | 13 | 
-| 2022-09-17 | 117 | 13 | 
 

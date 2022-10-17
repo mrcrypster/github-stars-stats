@@ -1,10 +1,10 @@
 # dromara/fast-request - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/dromara/fast-request)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 301 | 74 | 
 | 2022-10-16 | 300 | 73 | 
 | 2022-10-15 | 299 | 73 | 
 | 2022-10-13 | 299 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 284 | 64 | 
 | 2022-09-18 | 283 | 64 | 
 | 2022-09-17 | 282 | 62 | 
-| 2022-09-16 | 282 | 63 | 
 

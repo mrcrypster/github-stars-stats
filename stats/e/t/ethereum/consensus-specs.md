@@ -1,8 +1,8 @@
 # ethereum/consensus-specs - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 700
+☋ Forks: 701
 
 ★ Stars: 2870
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2870 | 701 | 
 | 2022-10-15 | 2870 | 700 | 
 | 2022-10-14 | 2868 | 696 | 
 | 2022-10-13 | 2865 | 694 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2798 | 674 | 
 | 2022-09-18 | 2794 | 674 | 
 | 2022-09-17 | 2793 | 673 | 
-| 2022-09-16 | 2788 | 671 | 
 

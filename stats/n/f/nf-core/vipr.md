@@ -1,10 +1,10 @@
 # nf-core/vipr - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 11
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/nf-core/vipr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 12 | 11 | 
 | 2022-10-15 | 11 | 11 | 
 | 2022-10-14 | 11 | 11 | 
 | 2022-10-13 | 11 | 11 | 

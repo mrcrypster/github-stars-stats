@@ -1,6 +1,6 @@
 # yegappan/mru - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 225 | 46 | 
 | 2022-10-15 | 225 | 46 | 
 | 2022-10-14 | 225 | 46 | 
 | 2022-10-13 | 225 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 222 | 46 | 
 | 2022-09-19 | 222 | 46 | 
 | 2022-09-17 | 222 | 46 | 
-| 2022-09-16 | 221 | 46 | 
 

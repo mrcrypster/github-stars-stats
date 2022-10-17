@@ -1,8 +1,8 @@
 # PoomSmart/Return-YouTube-Dislikes - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 19 | 11 | 
 | 2022-10-15 | 19 | 10 | 
 | 2022-10-14 | 19 | 10 | 
 | 2022-10-13 | 19 | 9 | 

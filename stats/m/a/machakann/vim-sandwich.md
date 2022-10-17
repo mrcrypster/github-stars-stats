@@ -1,6 +1,6 @@
 # machakann/vim-sandwich - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1194 | 31 | 
 | 2022-10-15 | 1194 | 31 | 
 | 2022-10-14 | 1194 | 31 | 
 | 2022-10-13 | 1194 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1185 | 31 | 
 | 2022-09-18 | 1185 | 31 | 
 | 2022-09-17 | 1185 | 31 | 
-| 2022-09-16 | 1184 | 31 | 
 

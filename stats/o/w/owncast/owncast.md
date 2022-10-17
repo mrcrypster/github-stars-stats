@@ -1,10 +1,10 @@
 # owncast/owncast - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 499
+☋ Forks: 500
 
-★ Stars: 6522
+★ Stars: 6523
 
 [Open repository](https://github.com/owncast/owncast)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 6523 | 500 | 
 | 2022-10-15 | 6522 | 499 | 
 | 2022-10-14 | 6518 | 499 | 
 | 2022-10-13 | 6519 | 497 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 6399 | 480 | 
 | 2022-09-19 | 6396 | 479 | 
 | 2022-09-18 | 6395 | 479 | 
-| 2022-09-17 | 6392 | 479 | 
 

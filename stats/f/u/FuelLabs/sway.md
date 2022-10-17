@@ -1,8 +1,8 @@
 # FuelLabs/sway - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 69
+☋ Forks: 68
 
 ★ Stars: 248
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 248 | 68 | 
 | 2022-10-15 | 248 | 69 | 
 | 2022-10-14 | 248 | 69 | 
 | 2022-10-13 | 249 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 237 | 60 | 
 | 2022-09-18 | 237 | 60 | 
 | 2022-09-17 | 237 | 60 | 
-| 2022-09-16 | 237 | 60 | 
 

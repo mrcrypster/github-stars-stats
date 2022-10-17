@@ -1,10 +1,10 @@
 # terraform-google-modules/terraform-google-iam - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 142
 
-★ Stars: 133
+★ Stars: 134
 
 [Open repository](https://github.com/terraform-google-modules/terraform-google-iam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 134 | 142 | 
 | 2022-10-15 | 133 | 142 | 
 | 2022-10-14 | 133 | 142 | 
 | 2022-10-13 | 133 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 131 | 138 | 
 | 2022-09-18 | 131 | 138 | 
 | 2022-09-17 | 131 | 138 | 
-| 2022-09-16 | 131 | 138 | 
 

@@ -1,6 +1,6 @@
 # magit/transient - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 52
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 456 | 52 | 
+| 2022-10-16 | 456 | 52 | 
 | 2022-10-15 | 456 | 52 | 
 | 2022-10-14 | 456 | 52 | 
 | 2022-10-13 | 456 | 52 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 449 | 52 | 
 | 2022-09-18 | 449 | 52 | 
 | 2022-09-17 | 449 | 52 | 
-| 2022-09-16 | 449 | 52 | 
 

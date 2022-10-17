@@ -1,6 +1,6 @@
 # Yamato-Security/WELA - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 456 | 49 | 
 | 2022-10-16 | 456 | 49 | 
 | 2022-10-15 | 454 | 49 | 
 | 2022-10-14 | 454 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 445 | 46 | 
 | 2022-09-18 | 446 | 46 | 
 | 2022-09-17 | 446 | 46 | 
-| 2022-09-16 | 445 | 46 | 
 

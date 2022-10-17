@@ -1,6 +1,6 @@
 # pmmp/PocketMine-MP - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1620
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2916 | 1620 | 
 | 2022-10-15 | 2916 | 1620 | 
 | 2022-10-14 | 2915 | 1620 | 
 | 2022-10-13 | 2913 | 1620 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2894 | 1621 | 
 | 2022-09-18 | 2894 | 1620 | 
 | 2022-09-17 | 2892 | 1619 | 
-| 2022-09-16 | 2891 | 1622 | 
 

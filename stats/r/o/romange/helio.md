@@ -1,6 +1,6 @@
 # romange/helio - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 195 | 14 | 
 | 2022-10-15 | 195 | 14 | 
 | 2022-10-14 | 195 | 14 | 
 | 2022-10-13 | 195 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 182 | 12 | 
 | 2022-09-19 | 182 | 12 | 
 | 2022-09-18 | 181 | 12 | 
-| 2022-09-17 | 181 | 12 | 
 

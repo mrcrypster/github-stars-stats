@@ -1,6 +1,6 @@
 # TileDB-Inc/TileDB-R - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 82 | 13 | 
 | 2022-10-15 | 82 | 13 | 
 | 2022-10-14 | 82 | 13 | 
 | 2022-10-13 | 82 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 81 | 13 | 
 | 2022-09-18 | 81 | 13 | 
 | 2022-09-17 | 81 | 13 | 
-| 2022-09-16 | 81 | 13 | 
 

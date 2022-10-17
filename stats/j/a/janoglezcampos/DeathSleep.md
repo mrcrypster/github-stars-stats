@@ -1,6 +1,6 @@
 # janoglezcampos/DeathSleep - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 368 | 56 | 
 | 2022-10-16 | 368 | 56 | 
 | 2022-10-15 | 366 | 56 | 
 | 2022-10-14 | 366 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 348 | 49 | 
 | 2022-09-18 | 343 | 48 | 
 | 2022-09-17 | 337 | 47 | 
-| 2022-09-16 | 334 | 46 | 
 

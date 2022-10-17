@@ -1,6 +1,6 @@
 # sensity-ai/dot - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2804 | 188 | 
 | 2022-10-16 | 2804 | 188 | 
 | 2022-10-15 | 2802 | 188 | 
 | 2022-10-14 | 2801 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 2774 | 180 | 
 | 2022-09-18 | 2772 | 180 | 
 | 2022-09-17 | 2772 | 180 | 
-| 2022-09-16 | 2772 | 180 | 
 

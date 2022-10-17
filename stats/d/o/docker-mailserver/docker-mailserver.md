@@ -1,6 +1,6 @@
 # docker-mailserver/docker-mailserver - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1422
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 9764 | 1422 | 
 | 2022-10-15 | 9764 | 1422 | 
 | 2022-10-14 | 9760 | 1423 | 
 | 2022-10-13 | 9746 | 1422 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 9618 | 1405 | 
 | 2022-09-18 | 9607 | 1404 | 
 | 2022-09-17 | 9606 | 1404 | 
-| 2022-09-16 | 9604 | 1403 | 
 

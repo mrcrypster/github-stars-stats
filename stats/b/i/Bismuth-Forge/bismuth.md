@@ -1,10 +1,10 @@
 # Bismuth-Forge/bismuth - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 57
 
-★ Stars: 1373
+★ Stars: 1378
 
 [Open repository](https://github.com/Bismuth-Forge/bismuth)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1378 | 57 | 
 | 2022-10-15 | 1373 | 57 | 
 | 2022-10-14 | 1367 | 57 | 
 | 2022-10-13 | 1365 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1293 | 52 | 
 | 2022-09-18 | 1289 | 52 | 
 | 2022-09-17 | 1286 | 52 | 
-| 2022-09-16 | 1281 | 52 | 
 

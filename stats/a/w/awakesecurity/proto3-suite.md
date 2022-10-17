@@ -1,10 +1,10 @@
 # awakesecurity/proto3-suite - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 46
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/awakesecurity/proto3-suite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 75 | 46 | 
 | 2022-10-15 | 74 | 46 | 
 | 2022-10-14 | 74 | 46 | 
 | 2022-10-13 | 74 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 74 | 45 | 
 | 2022-09-18 | 74 | 45 | 
 | 2022-09-17 | 74 | 45 | 
-| 2022-09-16 | 74 | 45 | 
 

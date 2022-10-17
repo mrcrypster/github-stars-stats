@@ -1,10 +1,10 @@
 # spinnaker/spinnaker - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1174
 
-★ Stars: 8659
+★ Stars: 8660
 
 [Open repository](https://github.com/spinnaker/spinnaker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 8660 | 1174 | 
 | 2022-10-15 | 8659 | 1174 | 
 | 2022-10-14 | 8658 | 1174 | 
 | 2022-10-13 | 8658 | 1174 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 8625 | 1174 | 
 | 2022-09-18 | 8625 | 1174 | 
 | 2022-09-17 | 8625 | 1174 | 
-| 2022-09-16 | 8623 | 1174 | 
 

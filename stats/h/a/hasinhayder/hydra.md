@@ -1,6 +1,6 @@
 # hasinhayder/hydra - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 845 | 120 | 
 | 2022-10-15 | 845 | 120 | 
 | 2022-10-14 | 844 | 120 | 
 | 2022-10-13 | 844 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 835 | 119 | 
 | 2022-09-18 | 835 | 119 | 
 | 2022-09-17 | 834 | 118 | 
-| 2022-09-16 | 834 | 118 | 
 

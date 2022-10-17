@@ -1,10 +1,10 @@
 # remzi-arpacidusseau/ostep-projects - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 799
+☋ Forks: 801
 
-★ Stars: 2618
+★ Stars: 2621
 
 [Open repository](https://github.com/remzi-arpacidusseau/ostep-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2621 | 801 | 
 | 2022-10-15 | 2618 | 799 | 
 | 2022-10-14 | 2616 | 800 | 
 | 2022-10-13 | 2614 | 800 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2560 | 784 | 
 | 2022-09-18 | 2560 | 783 | 
 | 2022-09-17 | 2560 | 781 | 
-| 2022-09-16 | 2560 | 781 | 
 

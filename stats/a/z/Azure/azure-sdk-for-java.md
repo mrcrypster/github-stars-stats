@@ -1,10 +1,10 @@
 # Azure/azure-sdk-for-java - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1579
 
-★ Stars: 1678
+★ Stars: 1679
 
 [Open repository](https://github.com/Azure/azure-sdk-for-java)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1679 | 1579 | 
 | 2022-10-15 | 1678 | 1579 | 
 | 2022-10-14 | 1678 | 1580 | 
 | 2022-10-13 | 1677 | 1578 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1594 | 1547 | 
 | 2022-09-18 | 1594 | 1547 | 
 | 2022-09-17 | 1594 | 1547 | 
-| 2022-09-16 | 1594 | 1547 | 
 

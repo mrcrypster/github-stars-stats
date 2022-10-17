@@ -1,10 +1,10 @@
 # knownsec/KCon - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1343
 
-★ Stars: 3827
+★ Stars: 3829
 
 [Open repository](https://github.com/knownsec/KCon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 3829 | 1343 | 
 | 2022-10-15 | 3827 | 1343 | 
 | 2022-10-14 | 3825 | 1343 | 
 | 2022-10-13 | 3821 | 1342 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 3758 | 1327 | 
 | 2022-09-18 | 3746 | 1326 | 
 | 2022-09-17 | 3743 | 1326 | 
-| 2022-09-16 | 3741 | 1326 | 
 

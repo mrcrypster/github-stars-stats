@@ -1,6 +1,6 @@
 # maren-ha/scVI.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 15 | 5 | 
 | 2022-10-15 | 15 | 5 | 
 | 2022-10-14 | 14 | 5 | 
 | 2022-10-13 | 14 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 13 | 3 | 
 | 2022-09-18 | 13 | 3 | 
 | 2022-09-17 | 13 | 3 | 
-| 2022-09-16 | 13 | 3 | 
 

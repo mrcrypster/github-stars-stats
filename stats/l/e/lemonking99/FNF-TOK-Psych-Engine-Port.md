@@ -1,10 +1,10 @@
 # lemonking99/FNF-TOK-Psych-Engine-Port - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/lemonking99/FNF-TOK-Psych-Engine-Port)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2 | 8 | 
 | 2022-10-15 | 1 | 6 | 
 | 2022-10-14 | 1 | 6 | 
 | 2022-10-13 | 1 | 6 | 

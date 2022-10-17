@@ -1,10 +1,10 @@
 # pemguin005/Third-Person-Controller---Godot-Souls-like - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 9
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/pemguin005/Third-Person-Controller---Godot-Souls-like)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 35 | 9 | 
 | 2022-10-16 | 34 | 9 | 
 | 2022-10-15 | 34 | 9 | 
 | 2022-10-14 | 34 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 29 | 8 | 
 | 2022-09-18 | 29 | 8 | 
 | 2022-09-17 | 29 | 8 | 
-| 2022-09-16 | 29 | 8 | 
 

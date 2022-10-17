@@ -1,6 +1,6 @@
 # jesvedberg/tpix - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 32 | 1 | 
 | 2022-10-15 | 32 | 1 | 
 | 2022-10-14 | 32 | 1 | 
 | 2022-10-13 | 32 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 32 | 1 | 
 | 2022-09-18 | 32 | 1 | 
 | 2022-09-17 | 32 | 1 | 
-| 2022-09-16 | 32 | 1 | 
 

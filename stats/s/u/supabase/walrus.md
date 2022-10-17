@@ -1,10 +1,10 @@
 # supabase/walrus - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 5
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/supabase/walrus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 88 | 5 | 
 | 2022-10-15 | 87 | 5 | 
 | 2022-10-14 | 87 | 5 | 
 | 2022-10-13 | 87 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 86 | 5 | 
 | 2022-09-19 | 86 | 5 | 
 | 2022-09-18 | 86 | 5 | 
-| 2022-09-17 | 86 | 5 | 
 

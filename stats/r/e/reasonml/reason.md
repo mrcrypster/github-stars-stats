@@ -1,6 +1,6 @@
 # reasonml/reason - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 442
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 9736 | 442 | 
 | 2022-10-15 | 9736 | 442 | 
 | 2022-10-14 | 9737 | 442 | 
 | 2022-10-13 | 9737 | 442 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 9720 | 442 | 
 | 2022-09-18 | 9721 | 442 | 
 | 2022-09-17 | 9722 | 442 | 
-| 2022-09-16 | 9721 | 442 | 
 

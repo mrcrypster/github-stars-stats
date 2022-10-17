@@ -1,10 +1,10 @@
 # JuliaPlots/UnicodePlots.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 63
 
-★ Stars: 971
+★ Stars: 972
 
 [Open repository](https://github.com/JuliaPlots/UnicodePlots.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 972 | 63 | 
 | 2022-10-16 | 971 | 63 | 
 | 2022-10-15 | 971 | 63 | 
 | 2022-10-14 | 971 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 965 | 63 | 
 | 2022-09-18 | 965 | 63 | 
 | 2022-09-17 | 965 | 63 | 
-| 2022-09-16 | 964 | 63 | 
 

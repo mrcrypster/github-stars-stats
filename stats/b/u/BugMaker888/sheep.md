@@ -1,10 +1,10 @@
 # BugMaker888/sheep - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 49
+★ Stars: 51
 
 [Open repository](https://github.com/BugMaker888/sheep)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 51 | 25 | 
 | 2022-10-15 | 49 | 24 | 
 | 2022-10-14 | 48 | 26 | 
 | 2022-10-13 | 47 | 25 | 

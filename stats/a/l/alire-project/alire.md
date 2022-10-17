@@ -1,10 +1,10 @@
 # alire-project/alire - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 29
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/alire-project/alire)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 186 | 29 | 
 | 2022-10-15 | 185 | 29 | 
 | 2022-10-14 | 185 | 29 | 
 | 2022-10-13 | 185 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 175 | 28 | 
 | 2022-09-18 | 171 | 28 | 
 | 2022-09-17 | 171 | 28 | 
-| 2022-09-16 | 172 | 28 | 
 

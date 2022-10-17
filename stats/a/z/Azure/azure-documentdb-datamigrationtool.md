@@ -1,6 +1,6 @@
 # Azure/azure-documentdb-datamigrationtool - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 347 | 178 | 
 | 2022-10-15 | 347 | 178 | 
 | 2022-10-14 | 347 | 178 | 
 | 2022-10-13 | 347 | 178 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 345 | 178 | 
 | 2022-09-18 | 345 | 180 | 
 | 2022-09-17 | 345 | 180 | 
-| 2022-09-16 | 344 | 180 | 
 

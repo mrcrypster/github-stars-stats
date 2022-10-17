@@ -1,10 +1,10 @@
 # aave/aave-v3-core - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 223
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/aave/aave-v3-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 371 | 223 | 
 | 2022-10-15 | 370 | 223 | 
 | 2022-10-14 | 370 | 221 | 
 | 2022-10-13 | 365 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 344 | 203 | 
 | 2022-09-18 | 342 | 202 | 
 | 2022-09-17 | 339 | 200 | 
-| 2022-09-16 | 338 | 200 | 
 

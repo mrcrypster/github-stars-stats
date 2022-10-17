@@ -1,6 +1,6 @@
 # pfusik/cito - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1377 | 40 | 
 | 2022-10-16 | 1377 | 40 | 
 | 2022-10-15 | 1375 | 40 | 
 | 2022-10-14 | 1374 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 1366 | 40 | 
 | 2022-09-18 | 1366 | 40 | 
 | 2022-09-17 | 1365 | 40 | 
-| 2022-09-16 | 1365 | 40 | 
 

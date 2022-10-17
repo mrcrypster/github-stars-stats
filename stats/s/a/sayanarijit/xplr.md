@@ -1,10 +1,10 @@
 # sayanarijit/xplr - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 32
+☋ Forks: 33
 
-★ Stars: 2372
+★ Stars: 2396
 
 [Open repository](https://github.com/sayanarijit/xplr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2396 | 33 | 
 | 2022-10-15 | 2372 | 32 | 
 | 2022-10-14 | 2332 | 32 | 
 | 2022-10-13 | 2326 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 2248 | 31 | 
 | 2022-09-19 | 2247 | 31 | 
 | 2022-09-18 | 2246 | 31 | 
-| 2022-09-16 | 2243 | 31 | 
 

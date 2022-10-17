@@ -1,6 +1,6 @@
 # Celtoys/Remotery - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 226
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2395 | 226 | 
 | 2022-10-15 | 2395 | 226 | 
 | 2022-10-14 | 2392 | 226 | 
 | 2022-10-13 | 2393 | 226 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2379 | 226 | 
 | 2022-09-18 | 2378 | 226 | 
 | 2022-09-17 | 2378 | 226 | 
-| 2022-09-16 | 2379 | 226 | 
 

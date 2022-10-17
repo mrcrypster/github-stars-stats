@@ -1,10 +1,10 @@
 # NiallEccles/Hacktoberfest-animations - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 373
+☋ Forks: 386
 
-★ Stars: 133
+★ Stars: 135
 
 [Open repository](https://github.com/NiallEccles/Hacktoberfest-animations)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 135 | 386 | 
 | 2022-10-15 | 133 | 373 | 
 | 2022-10-14 | 132 | 370 | 
 | 2022-10-13 | 132 | 368 | 

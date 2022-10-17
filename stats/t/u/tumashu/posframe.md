@@ -1,6 +1,6 @@
 # tumashu/posframe - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 338 | 49 | 
 | 2022-10-15 | 338 | 49 | 
 | 2022-10-14 | 338 | 48 | 
 | 2022-10-13 | 338 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 338 | 47 | 
 | 2022-09-18 | 338 | 47 | 
 | 2022-09-17 | 338 | 47 | 
-| 2022-09-16 | 338 | 47 | 
 

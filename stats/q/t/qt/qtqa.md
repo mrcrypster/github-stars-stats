@@ -1,6 +1,6 @@
 # qt/qtqa - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 14 | 28 | 
 | 2022-10-15 | 14 | 28 | 
 | 2022-10-14 | 14 | 28 | 
 | 2022-10-13 | 14 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 13 | 27 | 
 | 2022-09-18 | 13 | 27 | 
 | 2022-09-17 | 13 | 26 | 
-| 2022-09-16 | 13 | 26 | 
 

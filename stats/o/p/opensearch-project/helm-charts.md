@@ -1,6 +1,6 @@
 # opensearch-project/helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 85 | 135 | 
 | 2022-10-15 | 85 | 135 | 
 | 2022-10-14 | 85 | 135 | 
 | 2022-10-13 | 85 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 85 | 132 | 
 | 2022-09-18 | 85 | 132 | 
 | 2022-09-17 | 85 | 133 | 
-| 2022-09-16 | 85 | 133 | 
 

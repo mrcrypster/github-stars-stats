@@ -1,6 +1,6 @@
 # xbin-io/xbin - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 235 | 5 | 
 | 2022-10-15 | 235 | 5 | 
 | 2022-10-14 | 235 | 5 | 
 | 2022-10-13 | 235 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 235 | 5 | 
 | 2022-09-18 | 235 | 5 | 
 | 2022-09-17 | 235 | 5 | 
-| 2022-09-16 | 235 | 5 | 
 

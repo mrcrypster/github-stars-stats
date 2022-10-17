@@ -1,10 +1,10 @@
 # quantified-uncertainty/squiggle - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 17
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/quantified-uncertainty/squiggle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 59 | 17 | 
 | 2022-10-15 | 58 | 17 | 
 | 2022-10-14 | 58 | 17 | 
 | 2022-10-13 | 58 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 51 | 13 | 
 | 2022-09-18 | 51 | 13 | 
 | 2022-09-17 | 48 | 13 | 
-| 2022-09-16 | 48 | 13 | 
 

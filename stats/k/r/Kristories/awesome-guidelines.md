@@ -1,10 +1,10 @@
 # Kristories/awesome-guidelines - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 547
+☋ Forks: 548
 
-★ Stars: 8128
+★ Stars: 8133
 
 [Open repository](https://github.com/Kristories/awesome-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 8133 | 548 | 
 | 2022-10-16 | 8128 | 547 | 
 | 2022-10-15 | 8125 | 547 | 
 | 2022-10-14 | 8121 | 547 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 7978 | 527 | 
 | 2022-09-18 | 7974 | 525 | 
 | 2022-09-17 | 7965 | 525 | 
-| 2022-09-16 | 7961 | 525 | 
 

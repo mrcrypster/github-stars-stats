@@ -1,6 +1,6 @@
 # e-sensing/sits - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 294 | 65 | 
 | 2022-10-15 | 294 | 65 | 
 | 2022-10-14 | 294 | 65 | 
 | 2022-10-13 | 293 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 289 | 65 | 
 | 2022-09-18 | 289 | 65 | 
 | 2022-09-17 | 289 | 65 | 
-| 2022-09-16 | 289 | 65 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 16
 
 ☋ Forks: 33
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/d-edge/foss-acronyms)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-16 | 46 | 33 | 
+| 2022-10-16 | 47 | 33 | 
 | 2022-10-15 | 46 | 33 | 
 | 2022-10-14 | 46 | 29 | 
 | 2022-10-13 | 46 | 29 | 

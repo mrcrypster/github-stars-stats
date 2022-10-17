@@ -1,10 +1,10 @@
 # FirmanKurniawan/claten - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/FirmanKurniawan/claten)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 23 | - | 
+| 2022-10-16 | 23 | - | 
 | 2022-10-15 | 21 | - | 
 | 2022-10-14 | 19 | - | 
 | 2022-10-13 | 19 | - | 

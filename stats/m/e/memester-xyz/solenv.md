@@ -1,10 +1,10 @@
 # memester-xyz/solenv - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 6
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/memester-xyz/solenv)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 143 | 6 | 
 | 2022-10-15 | 142 | 6 | 
 | 2022-10-14 | 142 | 6 | 
 | 2022-10-13 | 142 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 140 | 6 | 
 | 2022-09-18 | 140 | 6 | 
 | 2022-09-17 | 140 | 6 | 
-| 2022-09-16 | 140 | 6 | 
 

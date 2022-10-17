@@ -1,10 +1,10 @@
 # GanyusRightThigh/Anime-Game-Updater - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/GanyusRightThigh/Anime-Game-Updater)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 8 | 5 | 
 | 2022-10-15 | 7 | 5 | 
 | 2022-10-14 | 7 | 5 | 
 | 2022-10-13 | 6 | 5 | 

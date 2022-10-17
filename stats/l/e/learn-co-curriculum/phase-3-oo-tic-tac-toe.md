@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-oo-tic-tac-toe - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 524
+☋ Forks: 526
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2 | 526 | 
 | 2022-10-15 | 2 | 524 | 
 | 2022-10-14 | 2 | 523 | 
 | 2022-10-13 | 2 | 522 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2 | 467 | 
 | 2022-09-18 | 2 | 466 | 
 | 2022-09-17 | 2 | 466 | 
-| 2022-09-16 | 2 | 466 | 
 

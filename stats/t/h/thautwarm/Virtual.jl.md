@@ -1,10 +1,10 @@
 # thautwarm/Virtual.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/thautwarm/Virtual.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 36 | 1 | 
 | 2022-10-15 | 37 | 1 | 
 | 2022-10-14 | 37 | 1 | 
 | 2022-10-13 | 37 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 35 | - | 
 | 2022-09-18 | 35 | - | 
 | 2022-09-17 | 35 | - | 
-| 2022-09-16 | 35 | - | 
 

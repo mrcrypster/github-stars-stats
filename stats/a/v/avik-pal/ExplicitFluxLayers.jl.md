@@ -1,6 +1,6 @@
 # avik-pal/ExplicitFluxLayers.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 239 | 15 | 
 | 2022-10-15 | 239 | 15 | 
 | 2022-10-14 | 239 | 15 | 
 | 2022-10-13 | 239 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 229 | 15 | 
 | 2022-09-18 | 227 | 15 | 
 | 2022-09-17 | 226 | 15 | 
-| 2022-09-16 | 226 | 15 | 
 

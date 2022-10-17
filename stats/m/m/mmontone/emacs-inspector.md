@@ -1,6 +1,6 @@
 # mmontone/emacs-inspector - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 68 | 3 | 
 | 2022-10-15 | 68 | 3 | 
 | 2022-10-14 | 68 | 3 | 
 | 2022-10-13 | 68 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 64 | 3 | 
 | 2022-09-18 | 64 | 3 | 
 | 2022-09-17 | 64 | 3 | 
-| 2022-09-16 | 62 | 3 | 
 

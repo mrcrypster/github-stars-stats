@@ -1,10 +1,10 @@
 # zeriontech/defi-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 216
 
-★ Stars: 696
+★ Stars: 697
 
 [Open repository](https://github.com/zeriontech/defi-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 697 | 216 | 
 | 2022-10-15 | 696 | 216 | 
 | 2022-10-14 | 696 | 216 | 
 | 2022-10-13 | 696 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 689 | 214 | 
 | 2022-09-19 | 688 | 214 | 
 | 2022-09-18 | 688 | 214 | 
-| 2022-09-16 | 688 | 214 | 
 

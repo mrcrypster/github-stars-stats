@@ -1,6 +1,6 @@
 # Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 3191
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 49 | 3191 | 
 | 2022-10-16 | 49 | 3191 | 
 | 2022-10-15 | 49 | 3186 | 
 | 2022-10-14 | 49 | 3181 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 45 | 3133 | 
 | 2022-09-18 | 46 | 3131 | 
 | 2022-09-17 | 46 | 3130 | 
-| 2022-09-16 | 46 | 3125 | 
 

@@ -1,6 +1,6 @@
 # helpsystems/CreateProcess - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 110 | 17 | 
 | 2022-10-15 | 110 | 17 | 
 | 2022-10-14 | 110 | 17 | 
 | 2022-10-13 | 110 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 105 | 15 | 
 | 2022-09-18 | 104 | 15 | 
 | 2022-09-17 | 104 | 15 | 
-| 2022-09-16 | 104 | 15 | 
 

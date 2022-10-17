@@ -1,6 +1,6 @@
 # element-fi/elf-council-frontend - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 73 | 51 | 
 | 2022-10-16 | 73 | 51 | 
 | 2022-10-15 | 73 | 51 | 
 | 2022-10-14 | 73 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 73 | 51 | 
 | 2022-09-18 | 73 | 51 | 
 | 2022-09-17 | 73 | 51 | 
-| 2022-09-16 | 73 | 51 | 
 

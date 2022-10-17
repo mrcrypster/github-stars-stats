@@ -1,10 +1,10 @@
 # firezone/firezone - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 113
 
-★ Stars: 2941
+★ Stars: 2947
 
 [Open repository](https://github.com/firezone/firezone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2947 | 113 | 
 | 2022-10-15 | 2941 | 113 | 
 | 2022-10-14 | 2937 | 113 | 
 | 2022-10-13 | 2935 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2827 | 109 | 
 | 2022-09-18 | 2822 | 109 | 
 | 2022-09-17 | 2818 | 109 | 
-| 2022-09-16 | 2813 | 109 | 
 

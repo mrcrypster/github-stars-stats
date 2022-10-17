@@ -1,10 +1,10 @@
 # VB10/flutter-ready-to-use-widgets - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 33
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/VB10/flutter-ready-to-use-widgets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 111 | 33 | 
 | 2022-10-16 | 110 | 33 | 
 | 2022-10-15 | 110 | 33 | 
 | 2022-10-14 | 110 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 93 | 32 | 
 | 2022-09-18 | 93 | 32 | 
 | 2022-09-17 | 93 | 31 | 
-| 2022-09-16 | 93 | 31 | 
 

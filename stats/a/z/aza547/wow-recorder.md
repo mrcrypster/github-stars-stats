@@ -1,6 +1,6 @@
 # aza547/wow-recorder - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 72 | 11 | 
 | 2022-10-15 | 72 | 11 | 
 | 2022-10-14 | 71 | 11 | 
 | 2022-10-13 | 71 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 56 | 8 | 
 | 2022-09-18 | 55 | 8 | 
 | 2022-09-17 | 55 | 8 | 
-| 2022-09-16 | 55 | 7 | 
 

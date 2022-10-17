@@ -1,10 +1,10 @@
 # frabjous/knap - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/frabjous/knap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 131 | 1 | 
 | 2022-10-15 | 130 | 1 | 
 | 2022-10-14 | 130 | 1 | 
 | 2022-10-13 | 130 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 126 | - | 
 | 2022-09-18 | 126 | - | 
 | 2022-09-17 | 125 | - | 
-| 2022-09-16 | 125 | - | 
 

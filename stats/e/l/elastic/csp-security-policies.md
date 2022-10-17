@@ -1,6 +1,6 @@
 # elastic/csp-security-policies - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 13 | 12 | 
 | 2022-10-15 | 13 | 12 | 
 | 2022-10-14 | 13 | 12 | 
 | 2022-10-13 | 13 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 9 | 11 | 
 | 2022-09-18 | 9 | 11 | 
 | 2022-09-17 | 9 | 11 | 
-| 2022-09-16 | 9 | 11 | 
 

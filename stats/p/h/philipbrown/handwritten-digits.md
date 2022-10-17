@@ -1,10 +1,10 @@
 # philipbrown/handwritten-digits - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 6
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/philipbrown/handwritten-digits)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 27 | 6 | 
 | 2022-10-15 | 26 | 6 | 
 | 2022-10-14 | 26 | 6 | 
 | 2022-10-13 | 25 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 24 | 4 | 
 | 2022-09-18 | 24 | 4 | 
 | 2022-09-17 | 24 | 4 | 
-| 2022-09-16 | 24 | 4 | 
 

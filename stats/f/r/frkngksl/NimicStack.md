@@ -1,6 +1,6 @@
 # frkngksl/NimicStack - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 79 | 5 | 
 | 2022-10-16 | 79 | 5 | 
 | 2022-10-15 | 79 | 5 | 
 | 2022-10-14 | 79 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 78 | 5 | 
 | 2022-09-18 | 78 | 5 | 
 | 2022-09-17 | 78 | 5 | 
-| 2022-09-16 | 78 | 5 | 
 

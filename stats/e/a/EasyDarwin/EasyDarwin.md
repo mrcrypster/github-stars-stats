@@ -1,6 +1,6 @@
 # EasyDarwin/EasyDarwin - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 2116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 5669 | 2116 | 
 | 2022-10-15 | 5669 | 2116 | 
 | 2022-10-14 | 5669 | 2115 | 
 | 2022-10-13 | 5666 | 2115 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 5627 | 2111 | 
 | 2022-09-18 | 5626 | 2110 | 
 | 2022-09-17 | 5624 | 2111 | 
-| 2022-09-16 | 5625 | 2112 | 
 

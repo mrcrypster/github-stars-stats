@@ -1,8 +1,8 @@
 # eclipse/jkube - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 259
+☋ Forks: 260
 
 ★ Stars: 433
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 433 | 260 | 
 | 2022-10-15 | 433 | 259 | 
 | 2022-10-14 | 431 | 256 | 
 | 2022-10-13 | 432 | 253 | 

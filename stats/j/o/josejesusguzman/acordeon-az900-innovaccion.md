@@ -1,10 +1,10 @@
 # josejesusguzman/acordeon-az900-innovaccion - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 272
 
-★ Stars: 396
+★ Stars: 398
 
 [Open repository](https://github.com/josejesusguzman/acordeon-az900-innovaccion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 398 | 272 | 
 | 2022-10-15 | 396 | 272 | 
 | 2022-10-14 | 396 | 272 | 
 | 2022-10-13 | 396 | 272 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 394 | 269 | 
 | 2022-09-18 | 394 | 269 | 
 | 2022-09-17 | 394 | 269 | 
-| 2022-09-16 | 394 | 269 | 
 

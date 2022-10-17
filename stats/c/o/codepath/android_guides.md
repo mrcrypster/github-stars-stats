@@ -1,10 +1,10 @@
 # codepath/android_guides - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 6470
 
-★ Stars: 27916
+★ Stars: 27917
 
 [Open repository](https://github.com/codepath/android_guides)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 27917 | 6470 | 
 | 2022-10-15 | 27916 | 6470 | 
 | 2022-10-14 | 27913 | 6469 | 
 | 2022-10-13 | 27913 | 6469 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 27888 | 6470 | 
 | 2022-09-18 | 27890 | 6470 | 
 | 2022-09-17 | 27888 | 6470 | 
-| 2022-09-16 | 27885 | 6469 | 
 

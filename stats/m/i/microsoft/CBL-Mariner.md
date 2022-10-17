@@ -1,6 +1,6 @@
 # microsoft/CBL-Mariner - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 359
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 3423 | 359 | 
 | 2022-10-15 | 3423 | 359 | 
 | 2022-10-14 | 3421 | 359 | 
 | 2022-10-13 | 3420 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 3385 | 346 | 
 | 2022-09-18 | 3385 | 346 | 
 | 2022-09-17 | 3385 | 346 | 
-| 2022-09-16 | 3382 | 346 | 
 

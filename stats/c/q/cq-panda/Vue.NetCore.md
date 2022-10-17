@@ -1,10 +1,10 @@
 # cq-panda/Vue.NetCore - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 969
+☋ Forks: 970
 
-★ Stars: 2891
+★ Stars: 2892
 
 [Open repository](https://github.com/cq-panda/Vue.NetCore)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2892 | 970 | 
 | 2022-10-15 | 2891 | 969 | 
 | 2022-10-14 | 2891 | 969 | 
 | 2022-10-13 | 2889 | 967 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2853 | 955 | 
 | 2022-09-18 | 2854 | 955 | 
 | 2022-09-17 | 2854 | 955 | 
-| 2022-09-16 | 2854 | 955 | 
 

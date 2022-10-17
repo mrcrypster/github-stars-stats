@@ -1,10 +1,10 @@
 # lionsoul2014/ip2region - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 2224
 
-★ Stars: 12191
+★ Stars: 12197
 
 [Open repository](https://github.com/lionsoul2014/ip2region)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 12197 | 2224 | 
 | 2022-10-15 | 12191 | 2224 | 
 | 2022-10-14 | 12188 | 2222 | 
 | 2022-10-13 | 12178 | 2221 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 12040 | 2196 | 
 | 2022-09-18 | 12031 | 2194 | 
 | 2022-09-17 | 12030 | 2192 | 
-| 2022-09-16 | 12029 | 2193 | 
 

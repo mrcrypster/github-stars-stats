@@ -1,8 +1,8 @@
 # apache/cordova-plugin-camera - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 1328
+☋ Forks: 1329
 
 ★ Stars: 929
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 929 | 1329 | 
 | 2022-10-15 | 929 | 1328 | 
 | 2022-10-14 | 929 | 1328 | 
 | 2022-10-13 | 929 | 1328 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 928 | 1324 | 
 | 2022-09-18 | 928 | 1324 | 
 | 2022-09-17 | 928 | 1324 | 
-| 2022-09-16 | 928 | 1323 | 
 

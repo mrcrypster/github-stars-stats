@@ -1,10 +1,10 @@
 # pirxthepilot/wtfis - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 23
 
-★ Stars: 499
+★ Stars: 507
 
 [Open repository](https://github.com/pirxthepilot/wtfis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 507 | 23 | 
 | 2022-10-15 | 499 | 23 | 
 | 2022-10-14 | 499 | 23 | 
 | 2022-10-13 | 499 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 478 | 22 | 
 | 2022-09-18 | 476 | 22 | 
 | 2022-09-17 | 473 | 22 | 
-| 2022-09-16 | 472 | 22 | 
 

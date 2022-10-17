@@ -1,10 +1,10 @@
 # algorithm-visualizer/algorithm-visualizer - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 6397
 
-★ Stars: 39251
+★ Stars: 39254
 
 [Open repository](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 39254 | 6397 | 
 | 2022-10-15 | 39251 | 6397 | 
 | 2022-10-14 | 39246 | 6397 | 
 | 2022-10-13 | 39237 | 6396 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 39065 | 6366 | 
 | 2022-09-18 | 39058 | 6365 | 
 | 2022-09-17 | 39052 | 6361 | 
-| 2022-09-16 | 39043 | 6358 | 
 

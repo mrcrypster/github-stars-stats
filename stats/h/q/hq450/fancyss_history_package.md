@@ -1,6 +1,6 @@
 # hq450/fancyss_history_package - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 3520
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 9066 | 3520 | 
 | 2022-10-15 | 9066 | 3520 | 
 | 2022-10-14 | 9062 | 3518 | 
 | 2022-10-13 | 9062 | 3518 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 9018 | 3506 | 
 | 2022-09-19 | 9017 | 3506 | 
 | 2022-09-18 | 9017 | 3506 | 
-| 2022-09-16 | 9013 | 3505 | 
 

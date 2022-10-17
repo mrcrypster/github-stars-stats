@@ -1,10 +1,10 @@
 # Patalin/HTML-CSS-JS-SignIN-SignUp-Form - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 23
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/Patalin/HTML-CSS-JS-SignIN-SignUp-Form)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 69 | 23 | 
 | 2022-10-15 | 68 | 23 | 
 | 2022-10-14 | 68 | 22 | 
 | 2022-10-13 | 68 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 59 | 18 | 
 | 2022-09-18 | 59 | 18 | 
 | 2022-09-17 | 58 | 18 | 
-| 2022-09-16 | 57 | 18 | 
 

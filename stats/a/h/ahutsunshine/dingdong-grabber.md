@@ -1,10 +1,10 @@
 # ahutsunshine/dingdong-grabber - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 50
 
-★ Stars: 159
+★ Stars: 158
 
 [Open repository](https://github.com/ahutsunshine/dingdong-grabber)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 158 | 50 | 
 | 2022-10-16 | 159 | 50 | 
 | 2022-10-15 | 159 | 50 | 
 | 2022-10-14 | 159 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 161 | 50 | 
 | 2022-09-18 | 161 | 50 | 
 | 2022-09-17 | 162 | 50 | 
-| 2022-09-16 | 162 | 50 | 
 

@@ -1,10 +1,10 @@
 # symfony/filesystem - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 50
 
-★ Stars: 4298
+★ Stars: 4297
 
 [Open repository](https://github.com/symfony/filesystem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 4297 | 50 | 
 | 2022-10-15 | 4298 | 50 | 
 | 2022-10-14 | 4298 | 50 | 
 | 2022-10-13 | 4297 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 4289 | 50 | 
 | 2022-09-18 | 4289 | 50 | 
 | 2022-09-17 | 4289 | 50 | 
-| 2022-09-16 | 4288 | 50 | 
 

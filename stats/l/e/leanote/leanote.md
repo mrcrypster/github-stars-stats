@@ -1,6 +1,6 @@
 # leanote/leanote - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 2426
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 11037 | 2426 | 
 | 2022-10-15 | 11037 | 2426 | 
 | 2022-10-14 | 11035 | 2426 | 
 | 2022-10-13 | 11032 | 2425 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 11014 | 2424 | 
 | 2022-09-19 | 11011 | 2424 | 
 | 2022-09-18 | 11010 | 2423 | 
-| 2022-09-17 | 11008 | 2423 | 
 

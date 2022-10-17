@@ -1,10 +1,10 @@
 # YunaiV/SpringBoot-Labs - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 5036
+☋ Forks: 5038
 
-★ Stars: 15285
+★ Stars: 15292
 
 [Open repository](https://github.com/YunaiV/SpringBoot-Labs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 15292 | 5038 | 
 | 2022-10-15 | 15285 | 5036 | 
 | 2022-10-14 | 15281 | 5034 | 
 | 2022-10-13 | 15271 | 5034 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 15086 | 4985 | 
 | 2022-09-18 | 15076 | 4981 | 
 | 2022-09-17 | 15066 | 4980 | 
-| 2022-09-16 | 15064 | 4979 | 
 

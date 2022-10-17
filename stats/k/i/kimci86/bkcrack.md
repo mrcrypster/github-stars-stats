@@ -1,10 +1,10 @@
 # kimci86/bkcrack - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 81
 
-★ Stars: 755
+★ Stars: 758
 
 [Open repository](https://github.com/kimci86/bkcrack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 758 | 81 | 
 | 2022-10-15 | 755 | 81 | 
 | 2022-10-14 | 755 | 81 | 
 | 2022-10-13 | 754 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 734 | 80 | 
 | 2022-09-18 | 734 | 80 | 
 | 2022-09-17 | 734 | 80 | 
-| 2022-09-16 | 731 | 80 | 
 

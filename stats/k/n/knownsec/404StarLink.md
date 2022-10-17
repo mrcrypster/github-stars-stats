@@ -1,10 +1,10 @@
 # knownsec/404StarLink - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 500
 
-★ Stars: 4090
+★ Stars: 4092
 
 [Open repository](https://github.com/knownsec/404StarLink)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 4092 | 500 | 
 | 2022-10-15 | 4090 | 500 | 
 | 2022-10-14 | 4087 | 500 | 
 | 2022-10-13 | 4081 | 500 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 3940 | 487 | 
 | 2022-09-18 | 3928 | 486 | 
 | 2022-09-17 | 3929 | 485 | 
-| 2022-09-16 | 3924 | 485 | 
 

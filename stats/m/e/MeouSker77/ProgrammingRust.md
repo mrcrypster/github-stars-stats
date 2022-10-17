@@ -1,6 +1,6 @@
 # MeouSker77/ProgrammingRust - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 205 | 29 | 
 | 2022-10-15 | 205 | 29 | 
 | 2022-10-14 | 205 | 29 | 
 | 2022-10-13 | 205 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 125 | 22 | 
 | 2022-09-18 | 125 | 22 | 
 | 2022-09-17 | 124 | 22 | 
-| 2022-09-16 | 123 | 21 | 
 

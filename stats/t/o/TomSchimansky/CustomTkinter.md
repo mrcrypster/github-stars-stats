@@ -1,10 +1,10 @@
 # TomSchimansky/CustomTkinter - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 235
+☋ Forks: 237
 
-★ Stars: 2768
+★ Stars: 2776
 
 [Open repository](https://github.com/TomSchimansky/CustomTkinter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2776 | 237 | 
 | 2022-10-15 | 2768 | 235 | 
 | 2022-10-14 | 2767 | 234 | 
 | 2022-10-13 | 2766 | 231 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 2615 | 215 | 
 | 2022-09-19 | 2606 | 214 | 
 | 2022-09-18 | 2595 | 214 | 
-| 2022-09-17 | 2589 | 214 | 
 

@@ -1,6 +1,6 @@
 # confluentinc/confluent-kafka-python - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 787
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2991 | 787 | 
 | 2022-10-15 | 2991 | 787 | 
 | 2022-10-14 | 2987 | 786 | 
 | 2022-10-13 | 2987 | 786 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2934 | 781 | 
 | 2022-09-18 | 2930 | 780 | 
 | 2022-09-17 | 2929 | 780 | 
-| 2022-09-16 | 2928 | 780 | 
 

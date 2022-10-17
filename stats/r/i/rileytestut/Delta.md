@@ -1,10 +1,10 @@
 # rileytestut/Delta - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 134
 
-★ Stars: 1488
+★ Stars: 1490
 
 [Open repository](https://github.com/rileytestut/Delta)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1490 | 134 | 
 | 2022-10-15 | 1488 | 134 | 
 | 2022-10-14 | 1488 | 134 | 
 | 2022-10-13 | 1487 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1432 | 127 | 
 | 2022-09-18 | 1429 | 127 | 
 | 2022-09-17 | 1424 | 127 | 
-| 2022-09-16 | 1421 | 127 | 
 

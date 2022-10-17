@@ -1,6 +1,6 @@
 # develsoftware/GMinerRelease - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 322
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1814 | 322 | 
 | 2022-10-15 | 1814 | 322 | 
 | 2022-10-14 | 1814 | 322 | 
 | 2022-10-13 | 1814 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1822 | 319 | 
 | 2022-09-18 | 1822 | 319 | 
 | 2022-09-17 | 1822 | 319 | 
-| 2022-09-16 | 1820 | 319 | 
 

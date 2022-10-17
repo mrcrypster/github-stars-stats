@@ -1,10 +1,10 @@
 # moezbhatti/qksms - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 1024
+☋ Forks: 1025
 
-★ Stars: 3820
+★ Stars: 3822
 
 [Open repository](https://github.com/moezbhatti/qksms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 3822 | 1025 | 
 | 2022-10-15 | 3820 | 1024 | 
 | 2022-10-14 | 3815 | 1024 | 
 | 2022-10-13 | 3806 | 1025 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 3787 | 1022 | 
 | 2022-09-18 | 3784 | 1022 | 
 | 2022-09-17 | 3782 | 1022 | 
-| 2022-09-16 | 3782 | 1022 | 
 

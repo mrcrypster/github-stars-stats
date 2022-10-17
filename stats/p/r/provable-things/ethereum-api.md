@@ -1,6 +1,6 @@
 # provable-things/ethereum-api - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 425
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 740 | 425 | 
 | 2022-10-15 | 740 | 425 | 
 | 2022-10-14 | 740 | 425 | 
 | 2022-10-13 | 739 | 425 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 733 | 421 | 
 | 2022-09-19 | 733 | 421 | 
 | 2022-09-18 | 731 | 421 | 
-| 2022-09-17 | 731 | 421 | 
 

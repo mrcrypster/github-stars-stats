@@ -1,6 +1,6 @@
 # wagiminator/ATtiny412-PocketRadio - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 83 | 6 | 
 | 2022-10-15 | 83 | 6 | 
 | 2022-10-14 | 83 | 6 | 
 | 2022-10-13 | 82 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 77 | 5 | 
 | 2022-09-18 | 77 | 5 | 
 | 2022-09-17 | 77 | 5 | 
-| 2022-09-16 | 77 | 5 | 
 

@@ -1,8 +1,8 @@
 # tunguyenht/AdityaRDP - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 3 | 84 | 
 | 2022-10-15 | 3 | 83 | 
 | 2022-10-14 | 3 | 83 | 
 | 2022-10-13 | 3 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 3 | 82 | 
 | 2022-09-18 | 3 | 81 | 
 | 2022-09-17 | 3 | 81 | 
-| 2022-09-16 | 3 | 81 | 
 

@@ -1,10 +1,10 @@
 # hirashoaib/learn-javascript - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 46
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/hirashoaib/learn-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 57 | 46 | 
 | 2022-10-15 | 56 | 46 | 
 | 2022-10-14 | 56 | 46 | 
 | 2022-10-13 | 56 | 46 | 

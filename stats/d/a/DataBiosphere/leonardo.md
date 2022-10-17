@@ -1,6 +1,6 @@
 # DataBiosphere/leonardo - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 35 | 16 | 
 | 2022-10-15 | 35 | 16 | 
 | 2022-10-14 | 35 | 16 | 
 | 2022-10-13 | 35 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 35 | 16 | 
 | 2022-09-18 | 35 | 16 | 
 | 2022-09-17 | 35 | 16 | 
-| 2022-09-16 | 35 | 16 | 
 

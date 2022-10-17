@@ -1,6 +1,6 @@
 # JoshuaKimsey/Linux-StableDiffusion-Script - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 31 | 31 | 
 | 2022-10-15 | 31 | 31 | 
 | 2022-10-14 | 30 | 31 | 
 | 2022-10-13 | 29 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 17 | 21 | 
 | 2022-09-18 | 17 | 20 | 
 | 2022-09-17 | 17 | 20 | 
-| 2022-09-16 | 15 | 19 | 
 

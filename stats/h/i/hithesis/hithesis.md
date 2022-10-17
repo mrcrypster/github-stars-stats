@@ -1,10 +1,10 @@
 # hithesis/hithesis - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 17
 
-☋ Forks: 294
+☋ Forks: 297
 
-★ Stars: 1143
+★ Stars: 1147
 
 [Open repository](https://github.com/hithesis/hithesis)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1147 | 297 | 
+| 2022-10-16 | 1147 | 296 | 
 | 2022-10-15 | 1143 | 294 | 
 | 2022-10-14 | 1141 | 294 | 
 | 2022-10-13 | 1140 | 294 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 1129 | 290 | 
 | 2022-09-19 | 1126 | 290 | 
 | 2022-09-17 | 1125 | 290 | 
-| 2022-09-16 | 1125 | 290 | 
 

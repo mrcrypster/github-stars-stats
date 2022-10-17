@@ -1,10 +1,10 @@
 # WordPress/gutenberg - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 3195
+☋ Forks: 3196
 
-★ Stars: 8195
+★ Stars: 8196
 
 [Open repository](https://github.com/WordPress/gutenberg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 8196 | 3196 | 
 | 2022-10-15 | 8195 | 3195 | 
 | 2022-10-14 | 8192 | 3193 | 
 | 2022-10-13 | 8191 | 3190 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 8144 | 3148 | 
 | 2022-09-18 | 8143 | 3146 | 
 | 2022-09-17 | 8143 | 3145 | 
-| 2022-09-16 | 8141 | 3141 | 
 

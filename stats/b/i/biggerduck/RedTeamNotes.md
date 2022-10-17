@@ -1,10 +1,10 @@
 # biggerduck/RedTeamNotes - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 156
 
-★ Stars: 799
+★ Stars: 801
 
 [Open repository](https://github.com/biggerduck/RedTeamNotes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 801 | 156 | 
 | 2022-10-15 | 799 | 156 | 
 | 2022-10-14 | 797 | 156 | 
 | 2022-10-13 | 796 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 778 | 149 | 
 | 2022-09-18 | 775 | 149 | 
 | 2022-09-17 | 775 | 149 | 
-| 2022-09-16 | 776 | 148 | 
 

@@ -1,6 +1,6 @@
 # dcblogdev/laravel-sent-emails - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 198 | 17 | 
 | 2022-10-16 | 198 | 17 | 
 | 2022-10-15 | 198 | 17 | 
 | 2022-10-14 | 198 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 198 | 17 | 
 | 2022-09-18 | 198 | 17 | 
 | 2022-09-17 | 198 | 17 | 
-| 2022-09-16 | 198 | 17 | 
 

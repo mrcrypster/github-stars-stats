@@ -1,10 +1,10 @@
 # JohnSundell/Publish - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 294
 
-★ Stars: 4230
+★ Stars: 4232
 
 [Open repository](https://github.com/JohnSundell/Publish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 4232 | 294 | 
 | 2022-10-15 | 4230 | 294 | 
 | 2022-10-14 | 4229 | 293 | 
 | 2022-10-13 | 4228 | 293 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 4212 | 293 | 
 | 2022-09-18 | 4211 | 293 | 
 | 2022-09-17 | 4209 | 293 | 
-| 2022-09-16 | 4208 | 292 | 
 

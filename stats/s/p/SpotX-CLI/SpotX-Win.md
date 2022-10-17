@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 16
 
 ☋ Forks: 154
 
-★ Stars: 2564
+★ Stars: 2592
 
 [Open repository](https://github.com/SpotX-CLI/SpotX-Win)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-16 | 2564 | 154 | 
+| 2022-10-16 | 2592 | 154 | 
 | 2022-10-15 | 2563 | 154 | 
 | 2022-10-14 | 2513 | 153 | 
 | 2022-10-13 | 2488 | 154 | 

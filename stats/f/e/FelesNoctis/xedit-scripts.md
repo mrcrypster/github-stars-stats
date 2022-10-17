@@ -1,0 +1,17 @@
+# FelesNoctis/xedit-scripts - stars & forks statistics
+
+Stats updated on Oct 2022, 16
+
+☋ Forks: 1
+
+★ Stars: 2
+
+[Open repository](https://github.com/FelesNoctis/xedit-scripts)
+
+[Open detailed stats for FelesNoctis/xedit-scripts](https://reviewgithub.com/rep/FelesNoctis/xedit-scripts)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-16 | 2 | 1 | 
+

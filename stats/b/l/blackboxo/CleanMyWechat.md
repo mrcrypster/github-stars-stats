@@ -1,10 +1,10 @@
 # blackboxo/CleanMyWechat - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 179
 
-★ Stars: 2769
+★ Stars: 2772
 
 [Open repository](https://github.com/blackboxo/CleanMyWechat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2772 | 179 | 
 | 2022-10-15 | 2769 | 179 | 
 | 2022-10-14 | 2767 | 179 | 
 | 2022-10-13 | 2764 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2709 | 178 | 
 | 2022-09-18 | 2708 | 178 | 
 | 2022-09-17 | 2708 | 178 | 
-| 2022-09-16 | 2708 | 178 | 
 

@@ -1,10 +1,10 @@
 # mbadolato/iTerm2-Color-Schemes - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 6318
+☋ Forks: 6316
 
-★ Stars: 22257
+★ Stars: 22264
 
 [Open repository](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 22264 | 6316 | 
 | 2022-10-15 | 22257 | 6318 | 
 | 2022-10-14 | 22246 | 6319 | 
 | 2022-10-13 | 22242 | 6317 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 22162 | 6295 | 
 | 2022-09-18 | 22158 | 6294 | 
 | 2022-09-17 | 22158 | 6295 | 
-| 2022-09-16 | 22158 | 6292 | 
 

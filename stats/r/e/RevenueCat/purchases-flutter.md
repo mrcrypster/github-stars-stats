@@ -1,10 +1,10 @@
 # RevenueCat/purchases-flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 103
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/RevenueCat/purchases-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 405 | 103 | 
 | 2022-10-15 | 404 | 103 | 
 | 2022-10-14 | 404 | 103 | 
 | 2022-10-13 | 404 | 103 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 399 | 102 | 
 | 2022-09-18 | 399 | 102 | 
 | 2022-09-17 | 399 | 101 | 
-| 2022-09-16 | 398 | 101 | 
 

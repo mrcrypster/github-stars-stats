@@ -1,8 +1,8 @@
 # Roll20/roll20-character-sheets - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 3874
+☋ Forks: 3872
 
 ★ Stars: 1063
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1063 | 3872 | 
 | 2022-10-15 | 1063 | 3874 | 
 | 2022-10-14 | 1064 | 3873 | 
 | 2022-10-13 | 1064 | 3873 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1061 | 3866 | 
 | 2022-09-18 | 1060 | 3865 | 
 | 2022-09-17 | 1060 | 3864 | 
-| 2022-09-16 | 1060 | 3865 | 
 

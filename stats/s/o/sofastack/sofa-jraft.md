@@ -1,6 +1,6 @@
 # sofastack/sofa-jraft - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 958
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2998 | 958 | 
 | 2022-10-15 | 2998 | 958 | 
 | 2022-10-14 | 2997 | 957 | 
 | 2022-10-13 | 2996 | 955 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2974 | 940 | 
 | 2022-09-18 | 2973 | 940 | 
 | 2022-09-17 | 2972 | 940 | 
-| 2022-09-16 | 2971 | 940 | 
 

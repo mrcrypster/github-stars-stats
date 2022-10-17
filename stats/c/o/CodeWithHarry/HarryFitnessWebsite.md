@@ -1,6 +1,6 @@
 # CodeWithHarry/HarryFitnessWebsite - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 40 | 23 | 
 | 2022-10-15 | 40 | 23 | 
 | 2022-10-14 | 40 | 23 | 
 | 2022-10-13 | 40 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 38 | 22 | 
 | 2022-09-18 | 38 | 23 | 
 | 2022-09-17 | 38 | 23 | 
-| 2022-09-16 | 38 | 22 | 
 

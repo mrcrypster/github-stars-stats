@@ -1,6 +1,6 @@
 # ARC-Lab-UF/intel-training-modules - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 17 | 10 | 
 | 2022-10-15 | 17 | 10 | 
 | 2022-10-14 | 17 | 10 | 
 | 2022-10-13 | 17 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 17 | 9 | 
 | 2022-09-18 | 17 | 9 | 
 | 2022-09-17 | 17 | 9 | 
-| 2022-09-16 | 17 | 9 | 
 

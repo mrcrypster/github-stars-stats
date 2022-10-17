@@ -1,10 +1,10 @@
 # net2devcrypto/nftstaking - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 64
+☋ Forks: 63
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/net2devcrypto/nftstaking)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 73 | 63 | 
 | 2022-10-15 | 72 | 64 | 
 | 2022-10-14 | 72 | 64 | 
 | 2022-10-13 | 72 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 65 | 61 | 
 | 2022-09-18 | 65 | 60 | 
 | 2022-09-17 | 65 | 59 | 
-| 2022-09-16 | 65 | 59 | 
 

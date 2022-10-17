@@ -1,10 +1,10 @@
 # ffi/ffi - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 322
 
-★ Stars: 1967
+★ Stars: 1968
 
 [Open repository](https://github.com/ffi/ffi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1968 | 322 | 
 | 2022-10-15 | 1967 | 322 | 
 | 2022-10-14 | 1967 | 322 | 
 | 2022-10-13 | 1967 | 321 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1961 | 321 | 
 | 2022-09-18 | 1961 | 321 | 
 | 2022-09-17 | 1961 | 321 | 
-| 2022-09-16 | 1961 | 321 | 
 

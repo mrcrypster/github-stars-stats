@@ -1,8 +1,8 @@
 # deaaprizal/cuyuniverse - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 137
+☋ Forks: 138
 
 ★ Stars: 156
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 156 | 138 | 
 | 2022-10-15 | 156 | 137 | 
 | 2022-10-14 | 155 | 137 | 
 | 2022-10-13 | 155 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 153 | 136 | 
 | 2022-09-18 | 153 | 137 | 
 | 2022-09-17 | 152 | 137 | 
-| 2022-09-16 | 152 | 136 | 
 

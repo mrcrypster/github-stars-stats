@@ -1,10 +1,10 @@
 # FirmanKurniawan/CSS-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/FirmanKurniawan/CSS-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 33 | 78 | 
 | 2022-10-15 | 31 | 77 | 
 | 2022-10-14 | 28 | 74 | 
 | 2022-10-13 | 28 | 73 | 

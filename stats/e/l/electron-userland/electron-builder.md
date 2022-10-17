@@ -1,10 +1,10 @@
 # electron-userland/electron-builder - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1587
 
-★ Stars: 12355
+★ Stars: 12357
 
 [Open repository](https://github.com/electron-userland/electron-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 12357 | 1587 | 
 | 2022-10-15 | 12355 | 1587 | 
 | 2022-10-14 | 12355 | 1587 | 
 | 2022-10-13 | 12352 | 1587 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 12312 | 1581 | 
 | 2022-09-18 | 12308 | 1579 | 
 | 2022-09-17 | 12308 | 1578 | 
-| 2022-09-16 | 12305 | 1577 | 
 

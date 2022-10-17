@@ -1,10 +1,10 @@
 # h4wkst3r/Blackhat-USA-2022-Materials - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 9
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/h4wkst3r/Blackhat-USA-2022-Materials)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 57 | 9 | 
 | 2022-10-15 | 56 | 9 | 
 | 2022-10-14 | 56 | 9 | 
 | 2022-10-13 | 56 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 57 | 9 | 
 | 2022-09-19 | 57 | 9 | 
 | 2022-09-18 | 57 | 9 | 
-| 2022-09-17 | 57 | 9 | 
 

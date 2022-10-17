@@ -1,6 +1,6 @@
 # cobbr/Covenant - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 636
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3259 | 636 | 
 | 2022-10-16 | 3259 | 636 | 
 | 2022-10-15 | 3258 | 635 | 
 | 2022-10-14 | 3255 | 634 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 3218 | 630 | 
 | 2022-09-18 | 3213 | 629 | 
 | 2022-09-17 | 3212 | 629 | 
-| 2022-09-16 | 3212 | 629 | 
 

@@ -1,8 +1,8 @@
 # sksjed/free_rdp - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 300
+☋ Forks: 301
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1 | 301 | 
 | 2022-10-15 | 1 | 300 | 
 | 2022-10-14 | 1 | 300 | 
 | 2022-10-13 | 1 | 300 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | - | 285 | 
 | 2022-09-18 | - | 284 | 
 | 2022-09-17 | - | 284 | 
-| 2022-09-16 | - | 284 | 
 

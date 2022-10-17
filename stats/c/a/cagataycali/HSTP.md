@@ -1,10 +1,10 @@
 # cagataycali/HSTP - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 8
 
-★ Stars: 132
+★ Stars: 134
 
 [Open repository](https://github.com/cagataycali/HSTP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 134 | 8 | 
 | 2022-10-15 | 132 | 8 | 
 | 2022-10-14 | 132 | 7 | 
 | 2022-10-13 | 132 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 121 | 7 | 
 | 2022-09-19 | 121 | 7 | 
 | 2022-09-18 | 121 | 7 | 
-| 2022-09-17 | 120 | 7 | 
 

@@ -1,10 +1,10 @@
 # tendermint/starport - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 415
+☋ Forks: 416
 
-★ Stars: 936
+★ Stars: 937
 
 [Open repository](https://github.com/tendermint/starport)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 937 | 416 | 
 | 2022-10-15 | 936 | 415 | 
 | 2022-10-14 | 935 | 415 | 
 | 2022-10-13 | 934 | 414 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 916 | 405 | 
 | 2022-09-18 | 915 | 405 | 
 | 2022-09-17 | 913 | 405 | 
-| 2022-09-16 | 912 | 405 | 
 

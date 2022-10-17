@@ -1,6 +1,6 @@
 # panjf2000/gnet - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 815
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 7003 | 815 | 
 | 2022-10-15 | 7003 | 815 | 
 | 2022-10-14 | 6996 | 815 | 
 | 2022-10-13 | 6989 | 813 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 6914 | 809 | 
 | 2022-09-18 | 6908 | 809 | 
 | 2022-09-17 | 6906 | 809 | 
-| 2022-09-16 | 6904 | 809 | 
 

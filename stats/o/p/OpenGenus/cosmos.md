@@ -1,10 +1,10 @@
 # OpenGenus/cosmos - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 3589
+☋ Forks: 3594
 
-★ Stars: 13224
+★ Stars: 13223
 
 [Open repository](https://github.com/OpenGenus/cosmos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 13223 | 3594 | 
 | 2022-10-15 | 13224 | 3589 | 
 | 2022-10-14 | 13223 | 3579 | 
 | 2022-10-13 | 13218 | 3576 | 

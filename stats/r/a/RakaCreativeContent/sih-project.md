@@ -1,6 +1,6 @@
 # RakaCreativeContent/sih-project - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | - | 3 | 
 | 2022-10-15 | - | 3 | 
 | 2022-10-14 | - | 3 | 
 | 2022-10-13 | - | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | - | 4 | 
 | 2022-09-18 | - | 4 | 
 | 2022-09-17 | - | 4 | 
-| 2022-09-16 | - | 4 | 
 

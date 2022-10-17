@@ -1,8 +1,8 @@
 # webpack/webpack - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 8517
+☋ Forks: 8515
 
 ★ Stars: 61925
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 61925 | 8515 | 
 | 2022-10-15 | 61925 | 8517 | 
 | 2022-10-14 | 61920 | 8518 | 
 | 2022-10-13 | 61915 | 8516 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 61800 | 8488 | 
 | 2022-09-19 | 61799 | 8485 | 
 | 2022-09-17 | 61793 | 8481 | 
-| 2022-09-16 | 61790 | 8479 | 
 

@@ -1,10 +1,10 @@
 # burrito-elixir/burrito - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 11
 
-★ Stars: 491
+★ Stars: 492
 
 [Open repository](https://github.com/burrito-elixir/burrito)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 492 | 11 | 
 | 2022-10-15 | 491 | 11 | 
 | 2022-10-14 | 490 | 11 | 
 | 2022-10-13 | 490 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 484 | 11 | 
 | 2022-09-18 | 484 | 11 | 
 | 2022-09-17 | 484 | 11 | 
-| 2022-09-16 | 484 | 11 | 
 

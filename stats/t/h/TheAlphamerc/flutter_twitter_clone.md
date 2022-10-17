@@ -1,10 +1,10 @@
 # TheAlphamerc/flutter_twitter_clone - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 620
+☋ Forks: 619
 
-★ Stars: 2035
+★ Stars: 2038
 
 [Open repository](https://github.com/TheAlphamerc/flutter_twitter_clone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2038 | 619 | 
 | 2022-10-15 | 2035 | 620 | 
 | 2022-10-14 | 2031 | 620 | 
 | 2022-10-13 | 2029 | 620 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1991 | 613 | 
 | 2022-09-18 | 1989 | 613 | 
 | 2022-09-17 | 1988 | 613 | 
-| 2022-09-16 | 1985 | 613 | 
 

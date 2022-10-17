@@ -1,10 +1,10 @@
 # microsoft/STL - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1208
 
-★ Stars: 8190
+★ Stars: 8195
 
 [Open repository](https://github.com/microsoft/STL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 8195 | 1208 | 
 | 2022-10-16 | 8190 | 1208 | 
 | 2022-10-15 | 8187 | 1209 | 
 | 2022-10-14 | 8186 | 1209 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 8118 | 1191 | 
 | 2022-09-18 | 8114 | 1191 | 
 | 2022-09-17 | 8112 | 1191 | 
-| 2022-09-16 | 8111 | 1191 | 
 

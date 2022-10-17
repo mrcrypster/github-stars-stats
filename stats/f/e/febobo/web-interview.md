@@ -1,10 +1,10 @@
 # febobo/web-interview - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 891
 
-★ Stars: 5271
+★ Stars: 5278
 
 [Open repository](https://github.com/febobo/web-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 5278 | 891 | 
 | 2022-10-15 | 5271 | 891 | 
 | 2022-10-14 | 5269 | 889 | 
 | 2022-10-13 | 5262 | 885 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 5078 | 869 | 
 | 2022-09-18 | 5066 | 866 | 
 | 2022-09-17 | 5063 | 865 | 
-| 2022-09-16 | 5059 | 865 | 
 

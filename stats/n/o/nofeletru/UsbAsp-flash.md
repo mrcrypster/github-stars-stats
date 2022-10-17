@@ -1,10 +1,10 @@
 # nofeletru/UsbAsp-flash - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 131
+☋ Forks: 132
 
-★ Stars: 490
+★ Stars: 492
 
 [Open repository](https://github.com/nofeletru/UsbAsp-flash)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 492 | 132 | 
 | 2022-10-15 | 490 | 131 | 
 | 2022-10-14 | 490 | 130 | 
 | 2022-10-13 | 488 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 475 | 128 | 
 | 2022-09-18 | 474 | 128 | 
 | 2022-09-17 | 473 | 128 | 
-| 2022-09-16 | 473 | 128 | 
 

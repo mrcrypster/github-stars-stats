@@ -1,10 +1,10 @@
 # sigp/lighthouse - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 433
+☋ Forks: 435
 
-★ Stars: 2042
+★ Stars: 2045
 
 [Open repository](https://github.com/sigp/lighthouse)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2045 | 435 | 
 | 2022-10-15 | 2042 | 433 | 
 | 2022-10-14 | 2041 | 432 | 
 | 2022-10-13 | 2039 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1972 | 420 | 
 | 2022-09-18 | 1972 | 419 | 
 | 2022-09-17 | 1966 | 417 | 
-| 2022-09-16 | 1964 | 414 | 
 

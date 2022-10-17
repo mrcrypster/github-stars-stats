@@ -1,10 +1,10 @@
 # chaharnishant11/PlacementPrepGuide - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 638
 
-★ Stars: 1208
+★ Stars: 1210
 
 [Open repository](https://github.com/chaharnishant11/PlacementPrepGuide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1210 | 638 | 
 | 2022-10-15 | 1208 | 638 | 
 | 2022-10-14 | 1206 | 638 | 
 | 2022-10-13 | 1206 | 638 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1195 | 634 | 
 | 2022-09-18 | 1193 | 634 | 
 | 2022-09-17 | 1192 | 635 | 
-| 2022-09-16 | 1191 | 634 | 
 

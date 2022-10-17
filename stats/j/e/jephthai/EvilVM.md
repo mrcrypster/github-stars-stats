@@ -1,6 +1,6 @@
 # jephthai/EvilVM - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 146 | 17 | 
 | 2022-10-15 | 146 | 17 | 
 | 2022-10-14 | 146 | 17 | 
 | 2022-10-13 | 146 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 146 | 17 | 
 | 2022-09-19 | 146 | 17 | 
 | 2022-09-18 | 146 | 17 | 
-| 2022-09-17 | 146 | 17 | 
 

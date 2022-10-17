@@ -1,8 +1,8 @@
 # GauravMKedia/animation-collections - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 14
+☋ Forks: 18
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2 | 18 | 
 | 2022-10-15 | 2 | 14 | 
 | 2022-10-14 | 1 | 14 | 
 | 2022-10-13 | 1 | 14 | 

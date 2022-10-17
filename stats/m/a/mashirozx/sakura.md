@@ -1,10 +1,10 @@
 # mashirozx/sakura - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 553
 
-★ Stars: 2813
+★ Stars: 2816
 
 [Open repository](https://github.com/mashirozx/sakura)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2816 | 553 | 
 | 2022-10-15 | 2813 | 553 | 
 | 2022-10-14 | 2813 | 553 | 
 | 2022-10-13 | 2813 | 553 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 2783 | 553 | 
 | 2022-09-18 | 2781 | 552 | 
 | 2022-09-17 | 2780 | 552 | 
-| 2022-09-16 | 2779 | 553 | 
 

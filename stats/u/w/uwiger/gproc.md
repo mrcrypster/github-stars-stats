@@ -1,10 +1,10 @@
 # uwiger/gproc - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 227
 
-★ Stars: 1014
+★ Stars: 1013
 
 [Open repository](https://github.com/uwiger/gproc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1013 | 227 | 
 | 2022-10-15 | 1014 | 227 | 
 | 2022-10-14 | 1014 | 227 | 
 | 2022-10-13 | 1014 | 227 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1013 | 227 | 
 | 2022-09-18 | 1013 | 227 | 
 | 2022-09-17 | 1013 | 227 | 
-| 2022-09-16 | 1013 | 227 | 
 

@@ -1,6 +1,6 @@
 # Havoc-OS/android_device_qcom_sepolicy_vndr - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 2 | 
 | 2022-10-16 | - | 2 | 
 | 2022-10-15 | - | 2 | 
 | 2022-10-14 | - | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | - | 3 | 
 | 2022-09-18 | - | 3 | 
 | 2022-09-17 | - | 3 | 
-| 2022-09-16 | - | 3 | 
 

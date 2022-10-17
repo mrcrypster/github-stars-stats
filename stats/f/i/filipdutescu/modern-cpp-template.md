@@ -1,6 +1,6 @@
 # filipdutescu/modern-cpp-template - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1127 | 135 | 
 | 2022-10-15 | 1127 | 135 | 
 | 2022-10-14 | 1127 | 135 | 
 | 2022-10-13 | 1127 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1116 | 133 | 
 | 2022-09-18 | 1116 | 133 | 
 | 2022-09-17 | 1114 | 133 | 
-| 2022-09-16 | 1111 | 133 | 
 

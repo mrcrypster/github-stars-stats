@@ -1,10 +1,10 @@
 # acl-org/acl-style-files - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 64
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/acl-org/acl-style-files)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 184 | 64 | 
 | 2022-10-15 | 183 | 64 | 
 | 2022-10-14 | 181 | 64 | 
 | 2022-10-13 | 180 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 162 | 61 | 
 | 2022-09-18 | 162 | 61 | 
 | 2022-09-17 | 162 | 60 | 
-| 2022-09-16 | 161 | 60 | 
 

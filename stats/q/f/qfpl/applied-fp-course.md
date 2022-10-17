@@ -1,6 +1,6 @@
 # qfpl/applied-fp-course - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 600 | 178 | 
 | 2022-10-15 | 600 | 178 | 
 | 2022-10-14 | 600 | 178 | 
 | 2022-10-13 | 600 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 597 | 177 | 
 | 2022-09-18 | 597 | 177 | 
 | 2022-09-17 | 597 | 177 | 
-| 2022-09-16 | 596 | 177 | 
 

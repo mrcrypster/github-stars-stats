@@ -1,10 +1,10 @@
 # LukeSmithxyz/mutt-wizard - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 350
 
-★ Stars: 2027
+★ Stars: 2028
 
 [Open repository](https://github.com/LukeSmithxyz/mutt-wizard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2028 | 350 | 
 | 2022-10-15 | 2027 | 350 | 
 | 2022-10-14 | 2026 | 350 | 
 | 2022-10-13 | 2025 | 350 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2013 | 348 | 
 | 2022-09-18 | 2012 | 348 | 
 | 2022-09-17 | 2011 | 349 | 
-| 2022-09-16 | 2011 | 349 | 
 

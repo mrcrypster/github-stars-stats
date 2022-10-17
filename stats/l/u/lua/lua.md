@@ -1,10 +1,10 @@
 # lua/lua - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 1303
+☋ Forks: 1304
 
-★ Stars: 6159
+★ Stars: 6160
 
 [Open repository](https://github.com/lua/lua)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 6160 | 1304 | 
 | 2022-10-15 | 6159 | 1303 | 
 | 2022-10-14 | 6156 | 1303 | 
 | 2022-10-13 | 6153 | 1302 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 6059 | 1291 | 
 | 2022-09-18 | 6055 | 1292 | 
 | 2022-09-17 | 6050 | 1292 | 
-| 2022-09-16 | 6046 | 1291 | 
 

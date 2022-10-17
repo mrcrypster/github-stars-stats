@@ -1,10 +1,10 @@
 # dessalines/essays - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 160
 
-★ Stars: 1259
+★ Stars: 1260
 
 [Open repository](https://github.com/dessalines/essays)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1260 | 160 | 
 | 2022-10-15 | 1259 | 160 | 
 | 2022-10-14 | 1256 | 160 | 
 | 2022-10-13 | 1255 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1244 | 159 | 
 | 2022-09-18 | 1244 | 159 | 
 | 2022-09-17 | 1244 | 159 | 
-| 2022-09-16 | 1245 | 158 | 
 

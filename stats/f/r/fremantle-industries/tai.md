@@ -1,6 +1,6 @@
 # fremantle-industries/tai - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 399 | 79 | 
 | 2022-10-15 | 399 | 79 | 
 | 2022-10-14 | 399 | 79 | 
 | 2022-10-13 | 399 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 396 | 76 | 
 | 2022-09-18 | 393 | 76 | 
 | 2022-09-17 | 393 | 76 | 
-| 2022-09-16 | 393 | 76 | 
 

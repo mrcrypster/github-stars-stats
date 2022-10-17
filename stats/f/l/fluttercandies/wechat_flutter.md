@@ -1,10 +1,10 @@
 # fluttercandies/wechat_flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 479
 
-★ Stars: 2146
+★ Stars: 2147
 
 [Open repository](https://github.com/fluttercandies/wechat_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2147 | 479 | 
 | 2022-10-15 | 2146 | 479 | 
 | 2022-10-14 | 2146 | 479 | 
 | 2022-10-13 | 2147 | 479 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2128 | 479 | 
 | 2022-09-18 | 2128 | 479 | 
 | 2022-09-17 | 2128 | 479 | 
-| 2022-09-16 | 2129 | 479 | 
 

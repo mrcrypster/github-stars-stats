@@ -1,10 +1,10 @@
 # itswadesh/svelte-commerce - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 148
 
-★ Stars: 752
+★ Stars: 755
 
 [Open repository](https://github.com/itswadesh/svelte-commerce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 755 | 148 | 
 | 2022-10-15 | 752 | 148 | 
 | 2022-10-14 | 749 | 148 | 
 | 2022-10-13 | 747 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 737 | 141 | 
 | 2022-09-18 | 737 | 141 | 
 | 2022-09-17 | 736 | 140 | 
-| 2022-09-16 | 732 | 139 | 
 

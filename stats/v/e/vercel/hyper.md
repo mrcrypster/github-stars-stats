@@ -1,10 +1,10 @@
 # vercel/hyper - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 3286
+☋ Forks: 3288
 
-★ Stars: 39442
+★ Stars: 39447
 
 [Open repository](https://github.com/vercel/hyper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 39447 | 3288 | 
 | 2022-10-15 | 39442 | 3286 | 
 | 2022-10-14 | 39434 | 3286 | 
 | 2022-10-13 | 39428 | 3284 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 39263 | 3248 | 
 | 2022-09-19 | 39255 | 3247 | 
 | 2022-09-18 | 39245 | 3244 | 
-| 2022-09-17 | 39241 | 3242 | 
 

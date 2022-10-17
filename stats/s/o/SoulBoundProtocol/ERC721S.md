@@ -1,6 +1,6 @@
 # SoulBoundProtocol/ERC721S - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 45 | 8 | 
 | 2022-10-16 | 45 | 8 | 
 | 2022-10-15 | 45 | 8 | 
 | 2022-10-14 | 45 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 44 | 7 | 
 | 2022-09-18 | 44 | 7 | 
 | 2022-09-17 | 44 | 7 | 
-| 2022-09-16 | 44 | 7 | 
 

@@ -1,6 +1,6 @@
 # tutorialworks/pipeline-library-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 271
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 72 | 271 | 
 | 2022-10-15 | 72 | 271 | 
 | 2022-10-14 | 72 | 271 | 
 | 2022-10-13 | 72 | 271 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 70 | 265 | 
 | 2022-09-19 | 70 | 265 | 
 | 2022-09-18 | 70 | 265 | 
-| 2022-09-17 | 70 | 265 | 
 

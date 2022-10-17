@@ -1,6 +1,6 @@
 # BttrDrgn/GCN-Translations - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 18 | 2 | 
 | 2022-10-15 | 18 | 2 | 
 | 2022-10-14 | 18 | 2 | 
 | 2022-10-13 | 18 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 18 | 2 | 
 | 2022-09-18 | 18 | 2 | 
 | 2022-09-17 | 18 | 2 | 
-| 2022-09-16 | 18 | 2 | 
 

@@ -1,6 +1,6 @@
 # jyotirmoy-paul/planets - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 63 | 24 | 
 | 2022-10-15 | 63 | 24 | 
 | 2022-10-14 | 63 | 24 | 
 | 2022-10-13 | 62 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 58 | 22 | 
 | 2022-09-18 | 58 | 22 | 
 | 2022-09-17 | 58 | 22 | 
-| 2022-09-16 | 58 | 22 | 
 

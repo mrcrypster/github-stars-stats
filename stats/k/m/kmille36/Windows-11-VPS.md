@@ -1,8 +1,8 @@
 # kmille36/Windows-11-VPS - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 1159
+☋ Forks: 1171
 
 ★ Stars: 363
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 363 | 1171 | 
 | 2022-10-15 | 363 | 1159 | 
 | 2022-10-14 | 363 | 1151 | 
 | 2022-10-13 | 363 | 1147 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 338 | 1066 | 
 | 2022-09-18 | 337 | 1063 | 
 | 2022-09-17 | 336 | 1059 | 
-| 2022-09-16 | 330 | 1054 | 
 

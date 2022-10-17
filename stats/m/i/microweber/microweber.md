@@ -1,10 +1,10 @@
 # microweber/microweber - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 753
 
-★ Stars: 2506
+★ Stars: 2505
 
 [Open repository](https://github.com/microweber/microweber)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2505 | 753 | 
 | 2022-10-16 | 2506 | 753 | 
 | 2022-10-15 | 2505 | 753 | 
 | 2022-10-14 | 2502 | 753 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 2480 | 744 | 
 | 2022-09-18 | 2481 | 744 | 
 | 2022-09-17 | 2480 | 744 | 
-| 2022-09-16 | 2478 | 744 | 
 

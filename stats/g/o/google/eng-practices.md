@@ -1,10 +1,10 @@
 # google/eng-practices - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1832
 
-★ Stars: 18830
+★ Stars: 18829
 
 [Open repository](https://github.com/google/eng-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 18829 | 1832 | 
 | 2022-10-15 | 18830 | 1832 | 
 | 2022-10-14 | 18830 | 1832 | 
 | 2022-10-13 | 18829 | 1832 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 18766 | 1823 | 
 | 2022-09-18 | 18761 | 1820 | 
 | 2022-09-17 | 18760 | 1820 | 
-| 2022-09-16 | 18751 | 1819 | 
 

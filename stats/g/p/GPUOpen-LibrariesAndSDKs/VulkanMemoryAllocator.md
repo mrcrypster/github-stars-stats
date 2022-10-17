@@ -1,10 +1,10 @@
 # GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 243
 
-★ Stars: 1764
+★ Stars: 1766
 
 [Open repository](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1766 | 243 | 
 | 2022-10-15 | 1764 | 243 | 
 | 2022-10-14 | 1762 | 243 | 
 | 2022-10-13 | 1762 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1734 | 240 | 
 | 2022-09-18 | 1733 | 240 | 
 | 2022-09-17 | 1732 | 240 | 
-| 2022-09-16 | 1731 | 240 | 
 

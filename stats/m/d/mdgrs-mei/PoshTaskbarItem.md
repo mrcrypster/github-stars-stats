@@ -1,10 +1,10 @@
 # mdgrs-mei/PoshTaskbarItem - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/mdgrs-mei/PoshTaskbarItem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 50 | 1 | 
 | 2022-10-15 | 48 | 1 | 
 | 2022-10-14 | 47 | 1 | 
 | 2022-10-13 | 45 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 44 | 1 | 
 | 2022-09-18 | 44 | 1 | 
 | 2022-09-17 | 44 | 1 | 
-| 2022-09-16 | 44 | 1 | 
 

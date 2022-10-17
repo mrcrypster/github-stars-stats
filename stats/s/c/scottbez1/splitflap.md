@@ -1,10 +1,10 @@
 # scottbez1/splitflap - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 201
 
-★ Stars: 2432
+★ Stars: 2433
 
 [Open repository](https://github.com/scottbez1/splitflap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2433 | 201 | 
 | 2022-10-15 | 2432 | 201 | 
 | 2022-10-14 | 2431 | 201 | 
 | 2022-10-13 | 2429 | 201 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2415 | 199 | 
 | 2022-09-18 | 2413 | 199 | 
 | 2022-09-17 | 2414 | 199 | 
-| 2022-09-16 | 2413 | 199 | 
 

@@ -1,6 +1,6 @@
 # izivkov/RemoteVideoCam - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 56 | 10 | 
 | 2022-10-15 | 56 | 10 | 
 | 2022-10-14 | 56 | 10 | 
 | 2022-10-13 | 56 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 44 | 9 | 
 | 2022-09-18 | 42 | 9 | 
 | 2022-09-17 | 40 | 9 | 
-| 2022-09-16 | 38 | 8 | 
 

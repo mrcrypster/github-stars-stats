@@ -1,8 +1,8 @@
 # snail007/proxy_admin_free - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 276
+☋ Forks: 277
 
 ★ Stars: 1117
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1117 | 277 | 
 | 2022-10-15 | 1117 | 276 | 
 | 2022-10-14 | 1114 | 276 | 
 | 2022-10-13 | 1112 | 276 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 1077 | 270 | 
 | 2022-09-19 | 1076 | 270 | 
 | 2022-09-17 | 1077 | 270 | 
-| 2022-09-16 | 1076 | 270 | 
 

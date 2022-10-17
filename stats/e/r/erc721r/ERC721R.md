@@ -1,6 +1,6 @@
 # erc721r/ERC721R - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 78 | 22 | 
 | 2022-10-15 | 78 | 22 | 
 | 2022-10-14 | 78 | 22 | 
 | 2022-10-13 | 78 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 77 | 19 | 
 | 2022-09-18 | 77 | 19 | 
 | 2022-09-17 | 77 | 19 | 
-| 2022-09-16 | 77 | 19 | 
 

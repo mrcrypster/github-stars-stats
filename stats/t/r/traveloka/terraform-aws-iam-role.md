@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-iam-role - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 40 | 46 | 
 | 2022-10-15 | 40 | 46 | 
 | 2022-10-14 | 40 | 46 | 
 | 2022-10-13 | 40 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 40 | 46 | 
 | 2022-09-18 | 40 | 46 | 
 | 2022-09-17 | 40 | 46 | 
-| 2022-09-16 | 40 | 46 | 
 

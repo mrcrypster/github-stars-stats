@@ -1,8 +1,8 @@
 # meditohq/medito-app - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 57
+☋ Forks: 58
 
 ★ Stars: 395
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 395 | 58 | 
 | 2022-10-15 | 395 | 57 | 
 | 2022-10-14 | 395 | 57 | 
 | 2022-10-13 | 395 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 383 | 56 | 
 | 2022-09-18 | 383 | 56 | 
 | 2022-09-17 | 383 | 56 | 
-| 2022-09-16 | 383 | 56 | 
 

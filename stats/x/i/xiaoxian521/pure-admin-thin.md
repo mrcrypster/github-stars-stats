@@ -1,6 +1,6 @@
 # xiaoxian521/pure-admin-thin - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 250 | 244 | 
 | 2022-10-15 | 250 | 244 | 
 | 2022-10-14 | 250 | 244 | 
 | 2022-10-13 | 250 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 231 | 224 | 
 | 2022-09-18 | 229 | 224 | 
 | 2022-09-17 | 228 | 224 | 
-| 2022-09-16 | 228 | 223 | 
 

@@ -1,6 +1,6 @@
 # Azure-Samples/cognitive-services-quickstart-code - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 401
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 251 | 401 | 
 | 2022-10-15 | 251 | 401 | 
 | 2022-10-14 | 251 | 400 | 
 | 2022-10-13 | 251 | 400 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 246 | 395 | 
 | 2022-09-18 | 246 | 394 | 
 | 2022-09-17 | 245 | 394 | 
-| 2022-09-16 | 245 | 394 | 
 

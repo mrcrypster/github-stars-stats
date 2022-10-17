@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 16
 
-☋ Forks: 39
+☋ Forks: 38
 
-★ Stars: 640
+★ Stars: 642
 
 [Open repository](https://github.com/IDEA-Research/detrex)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-16 | 640 | 39 | 
+| 2022-10-16 | 642 | 38 | 
 | 2022-10-15 | 639 | 39 | 
 | 2022-10-14 | 609 | 39 | 
 | 2022-10-13 | 526 | 34 | 

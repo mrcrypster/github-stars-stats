@@ -1,10 +1,10 @@
 # Yule718/Yule718 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 23
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/Yule718/Yule718)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 248 | 23 | 
 | 2022-10-16 | 247 | 23 | 
 | 2022-10-15 | 247 | 23 | 
 | 2022-10-14 | 246 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 225 | 23 | 
 | 2022-09-18 | 225 | 23 | 
 | 2022-09-17 | 225 | 23 | 
-| 2022-09-16 | 225 | 23 | 
 

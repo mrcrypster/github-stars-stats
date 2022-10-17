@@ -1,6 +1,6 @@
 # Fox2Code/FoxMagiskModuleManager - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1357 | 102 | 
 | 2022-10-15 | 1357 | 102 | 
 | 2022-10-14 | 1354 | 102 | 
 | 2022-10-13 | 1353 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1233 | 97 | 
 | 2022-09-18 | 1231 | 97 | 
 | 2022-09-17 | 1226 | 97 | 
-| 2022-09-16 | 1220 | 97 | 
 

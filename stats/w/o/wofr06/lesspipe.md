@@ -1,6 +1,6 @@
 # wofr06/lesspipe - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 286 | 35 | 
 | 2022-10-15 | 286 | 35 | 
 | 2022-10-14 | 286 | 34 | 
 | 2022-10-13 | 286 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 281 | 34 | 
 | 2022-09-18 | 281 | 34 | 
 | 2022-09-17 | 280 | 34 | 
-| 2022-09-16 | 280 | 34 | 
 

@@ -1,8 +1,8 @@
 # tomwhite/hadoop-book - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 2587
+☋ Forks: 2586
 
 ★ Stars: 3403
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 3403 | 2586 | 
 | 2022-10-15 | 3403 | 2587 | 
 | 2022-10-14 | 3403 | 2587 | 
 | 2022-10-13 | 3403 | 2587 | 

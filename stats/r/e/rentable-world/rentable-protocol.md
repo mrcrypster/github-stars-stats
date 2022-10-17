@@ -1,6 +1,6 @@
 # rentable-world/rentable-protocol - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 13 | 9 | 
 | 2022-10-15 | 13 | 9 | 
 | 2022-10-14 | 13 | 9 | 
 | 2022-10-13 | 13 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 11 | 7 | 
 | 2022-09-18 | 11 | 7 | 
 | 2022-09-17 | 11 | 7 | 
-| 2022-09-16 | 11 | 7 | 
 

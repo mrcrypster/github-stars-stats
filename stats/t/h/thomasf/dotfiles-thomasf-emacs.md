@@ -1,8 +1,8 @@
 # thomasf/dotfiles-thomasf-emacs - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 24 | 3 | 
 | 2022-10-15 | 24 | 2 | 
 | 2022-10-14 | 24 | 2 | 
 | 2022-10-13 | 24 | 2 | 

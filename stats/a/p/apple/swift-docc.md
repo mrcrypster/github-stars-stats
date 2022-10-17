@@ -1,10 +1,10 @@
 # apple/swift-docc - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 75
 
-★ Stars: 805
+★ Stars: 804
 
 [Open repository](https://github.com/apple/swift-docc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 804 | 75 | 
 | 2022-10-15 | 805 | 75 | 
 | 2022-10-14 | 804 | 75 | 
 | 2022-10-13 | 803 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 790 | 75 | 
 | 2022-09-18 | 789 | 75 | 
 | 2022-09-17 | 790 | 75 | 
-| 2022-09-16 | 788 | 75 | 
 

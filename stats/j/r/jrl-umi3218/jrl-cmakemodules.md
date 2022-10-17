@@ -1,6 +1,6 @@
 # jrl-umi3218/jrl-cmakemodules - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 37 | 35 | 
 | 2022-10-15 | 37 | 35 | 
 | 2022-10-14 | 37 | 35 | 
 | 2022-10-13 | 37 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 35 | 35 | 
 | 2022-09-18 | 35 | 35 | 
 | 2022-09-17 | 35 | 35 | 
-| 2022-09-16 | 35 | 35 | 
 

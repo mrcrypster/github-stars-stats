@@ -1,6 +1,6 @@
 # TdP-esami/2019-06-05-simulazione-JDK11 - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | - | 241 | 
 | 2022-10-15 | - | 241 | 
 | 2022-10-14 | - | 242 | 
 | 2022-10-13 | - | 242 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | - | 243 | 
 | 2022-09-18 | - | 243 | 
 | 2022-09-17 | - | 243 | 
-| 2022-09-16 | - | 243 | 
 

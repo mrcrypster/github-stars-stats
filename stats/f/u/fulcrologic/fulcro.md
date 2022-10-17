@@ -1,10 +1,10 @@
 # fulcrologic/fulcro - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 125
 
-★ Stars: 1355
+★ Stars: 1356
 
 [Open repository](https://github.com/fulcrologic/fulcro)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1356 | 125 | 
 | 2022-10-15 | 1355 | 125 | 
 | 2022-10-14 | 1354 | 125 | 
 | 2022-10-13 | 1354 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1339 | 125 | 
 | 2022-09-18 | 1339 | 125 | 
 | 2022-09-17 | 1339 | 125 | 
-| 2022-09-16 | 1338 | 125 | 
 

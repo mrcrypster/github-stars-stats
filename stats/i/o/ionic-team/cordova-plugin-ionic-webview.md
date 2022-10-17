@@ -1,6 +1,6 @@
 # ionic-team/cordova-plugin-ionic-webview - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 346
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 458 | 346 | 
 | 2022-10-15 | 458 | 346 | 
 | 2022-10-14 | 458 | 346 | 
 | 2022-10-13 | 458 | 346 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 457 | 345 | 
 | 2022-09-19 | 457 | 345 | 
 | 2022-09-18 | 457 | 345 | 
-| 2022-09-17 | 457 | 345 | 
 

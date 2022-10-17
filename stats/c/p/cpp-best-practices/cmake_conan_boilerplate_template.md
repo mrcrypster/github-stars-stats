@@ -1,6 +1,6 @@
 # cpp-best-practices/cmake_conan_boilerplate_template - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 125 | 32 | 
 | 2022-10-15 | 125 | 32 | 
 | 2022-10-14 | 125 | 32 | 
 | 2022-10-13 | 122 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 115 | 28 | 
 | 2022-09-18 | 115 | 28 | 
 | 2022-09-17 | 114 | 28 | 
-| 2022-09-16 | 114 | 28 | 
 

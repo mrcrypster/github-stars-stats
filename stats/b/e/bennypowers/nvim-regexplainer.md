@@ -1,6 +1,6 @@
 # bennypowers/nvim-regexplainer - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 347 | 2 | 
 | 2022-10-15 | 347 | 2 | 
 | 2022-10-14 | 348 | 2 | 
 | 2022-10-13 | 348 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 338 | 2 | 
 | 2022-09-18 | 337 | 2 | 
 | 2022-09-17 | 337 | 2 | 
-| 2022-09-16 | 335 | 2 | 
 

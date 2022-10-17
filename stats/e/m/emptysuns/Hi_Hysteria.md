@@ -1,10 +1,10 @@
 # emptysuns/Hi_Hysteria - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 371
 
-★ Stars: 1134
+★ Stars: 1137
 
 [Open repository](https://github.com/emptysuns/Hi_Hysteria)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1137 | 371 | 
 | 2022-10-15 | 1134 | 371 | 
 | 2022-10-14 | 1130 | 370 | 
 | 2022-10-13 | 1128 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1077 | 360 | 
 | 2022-09-18 | 1070 | 360 | 
 | 2022-09-17 | 1068 | 360 | 
-| 2022-09-16 | 1067 | 360 | 
 

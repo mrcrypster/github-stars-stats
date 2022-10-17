@@ -1,10 +1,10 @@
 # keijiro/HdrpVatExample - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 71
 
-★ Stars: 641
+★ Stars: 642
 
 [Open repository](https://github.com/keijiro/HdrpVatExample)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 642 | 71 | 
 | 2022-10-15 | 641 | 71 | 
 | 2022-10-14 | 640 | 71 | 
 | 2022-10-13 | 639 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 637 | 71 | 
 | 2022-09-18 | 637 | 71 | 
 | 2022-09-17 | 637 | 71 | 
-| 2022-09-16 | 637 | 71 | 
 

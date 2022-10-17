@@ -1,10 +1,10 @@
 # Qovery/Replibyte - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
-☋ Forks: 97
+☋ Forks: 98
 
-★ Stars: 3209
+★ Stars: 3211
 
 [Open repository](https://github.com/Qovery/Replibyte)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 3211 | 98 | 
 | 2022-10-15 | 3209 | 97 | 
 | 2022-10-14 | 3206 | 97 | 
 | 2022-10-13 | 3202 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 3160 | 93 | 
 | 2022-09-18 | 3160 | 93 | 
 | 2022-09-17 | 3160 | 93 | 
-| 2022-09-16 | 3158 | 93 | 
 

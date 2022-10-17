@@ -1,6 +1,6 @@
 # huachaohuang/awesome-dbdev - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 833 | 38 | 
 | 2022-10-16 | 833 | 38 | 
 | 2022-10-15 | 832 | 39 | 
 | 2022-10-14 | 832 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-19 | 807 | 40 | 
 | 2022-09-18 | 807 | 40 | 
 | 2022-09-17 | 806 | 40 | 
-| 2022-09-16 | 806 | 40 | 
 

@@ -1,10 +1,10 @@
 # armory3d/armorpaint - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 284
 
-★ Stars: 2387
+★ Stars: 2388
 
 [Open repository](https://github.com/armory3d/armorpaint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 2388 | 284 | 
 | 2022-10-15 | 2387 | 284 | 
 | 2022-10-14 | 2385 | 284 | 
 | 2022-10-13 | 2385 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 2356 | 283 | 
 | 2022-09-18 | 2357 | 283 | 
 | 2022-09-17 | 2355 | 283 | 
-| 2022-09-16 | 2356 | 283 | 
 

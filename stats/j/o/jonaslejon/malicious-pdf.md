@@ -1,6 +1,6 @@
 # jonaslejon/malicious-pdf - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 240
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 1853 | 240 | 
 | 2022-10-15 | 1853 | 240 | 
 | 2022-10-14 | 1852 | 240 | 
 | 2022-10-13 | 1851 | 240 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 1825 | 239 | 
 | 2022-09-18 | 1824 | 239 | 
 | 2022-09-17 | 1824 | 239 | 
-| 2022-09-16 | 1822 | 239 | 
 

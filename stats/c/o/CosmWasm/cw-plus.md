@@ -1,6 +1,6 @@
 # CosmWasm/cw-plus - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 386 | 261 | 
 | 2022-10-15 | 386 | 261 | 
 | 2022-10-14 | 386 | 260 | 
 | 2022-10-13 | 386 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 379 | 252 | 
 | 2022-09-18 | 379 | 252 | 
 | 2022-09-17 | 379 | 252 | 
-| 2022-09-16 | 378 | 252 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 16
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 88
+★ Stars: 94
 
 [Open repository](https://github.com/JingShing/NovelAI-installation-tutorial)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-16 | 88 | 14 | 
+| 2022-10-16 | 94 | 15 | 
 | 2022-10-15 | 86 | 14 | 
 | 2022-10-14 | 64 | 12 | 
 

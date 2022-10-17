@@ -1,10 +1,10 @@
 # mission-peace/interview - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 5129
 
-★ Stars: 10546
+★ Stars: 10548
 
 [Open repository](https://github.com/mission-peace/interview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 10548 | 5129 | 
 | 2022-10-15 | 10546 | 5129 | 
 | 2022-10-14 | 10545 | 5128 | 
 | 2022-10-13 | 10544 | 5127 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-19 | 10519 | 5126 | 
 | 2022-09-18 | 10518 | 5126 | 
 | 2022-09-17 | 10516 | 5125 | 
-| 2022-09-16 | 10514 | 5125 | 
 

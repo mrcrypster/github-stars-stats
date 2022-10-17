@@ -1,10 +1,10 @@
 # azpanel/azpanel - stars & forks statistics
 
-Stats updated on Oct 2022, 15
+Stats updated on Oct 2022, 16
 
 ☋ Forks: 190
 
-★ Stars: 390
+★ Stars: 391
 
 [Open repository](https://github.com/azpanel/azpanel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-16 | 391 | 190 | 
 | 2022-10-15 | 390 | 190 | 
 | 2022-10-14 | 390 | 190 | 
 | 2022-10-13 | 388 | 189 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 15
 | 2022-09-20 | 365 | 181 | 
 | 2022-09-19 | 361 | 181 | 
 | 2022-09-18 | 360 | 181 | 
-| 2022-09-17 | 360 | 181 | 
 
