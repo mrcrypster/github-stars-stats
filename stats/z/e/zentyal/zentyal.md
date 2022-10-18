@@ -1,10 +1,10 @@
 # zentyal/zentyal - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 134
 
-★ Stars: 442
+★ Stars: 443
 
 [Open repository](https://github.com/zentyal/zentyal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 443 | 134 | 
 | 2022-10-16 | 442 | 134 | 
 | 2022-10-15 | 442 | 134 | 
 | 2022-10-14 | 441 | 133 | 

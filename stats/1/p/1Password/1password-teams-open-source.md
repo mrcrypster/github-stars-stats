@@ -1,8 +1,8 @@
 # 1Password/1password-teams-open-source - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 545
+☋ Forks: 547
 
 ★ Stars: 1266
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1266 | 547 | 
 | 2022-10-16 | 1266 | 545 | 
 | 2022-10-15 | 1265 | 545 | 
 | 2022-10-14 | 1264 | 546 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1245 | 528 | 
 | 2022-09-19 | 1243 | 528 | 
 | 2022-09-18 | 1244 | 529 | 
-| 2022-09-17 | 1244 | 528 | 
 

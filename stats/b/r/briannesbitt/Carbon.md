@@ -1,10 +1,10 @@
 # briannesbitt/Carbon - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1221
 
-★ Stars: 15934
+★ Stars: 15936
 
 [Open repository](https://github.com/briannesbitt/Carbon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 15936 | 1221 | 
 | 2022-10-16 | 15934 | 1221 | 
 | 2022-10-15 | 15933 | 1221 | 
 | 2022-10-14 | 15932 | 1221 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 15919 | 1222 | 
 | 2022-09-19 | 15916 | 1222 | 
 | 2022-09-18 | 15914 | 1222 | 
-| 2022-09-17 | 15915 | 1222 | 
 

@@ -1,10 +1,10 @@
 # haixiangyan/jest-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 648
+★ Stars: 649
 
 [Open repository](https://github.com/haixiangyan/jest-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 649 | 55 | 
 | 2022-10-17 | 648 | 54 | 
 | 2022-10-16 | 648 | 54 | 
 | 2022-10-15 | 648 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 628 | 51 | 
 | 2022-09-19 | 627 | 51 | 
 | 2022-09-18 | 627 | 51 | 
-| 2022-09-17 | 627 | 51 | 
 

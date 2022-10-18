@@ -1,6 +1,6 @@
 # GeyserMC/Geyser - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 533
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3534 | 533 | 
 | 2022-10-16 | 3534 | 533 | 
 | 2022-10-15 | 3532 | 532 | 
 | 2022-10-14 | 3532 | 532 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3505 | 527 | 
 | 2022-09-19 | 3502 | 527 | 
 | 2022-09-18 | 3503 | 527 | 
-| 2022-09-17 | 3502 | 527 | 
 

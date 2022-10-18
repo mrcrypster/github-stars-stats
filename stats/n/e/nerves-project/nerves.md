@@ -1,6 +1,6 @@
 # nerves-project/nerves - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1935 | 162 | 
 | 2022-10-16 | 1935 | 162 | 
 | 2022-10-15 | 1935 | 162 | 
 | 2022-10-14 | 1936 | 162 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1928 | 160 | 
 | 2022-09-19 | 1926 | 160 | 
 | 2022-09-18 | 1927 | 160 | 
-| 2022-09-17 | 1927 | 160 | 
 

@@ -1,6 +1,6 @@
 # jelera/vim-javascript-syntax - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 730 | 146 | 
 | 2022-10-16 | 730 | 146 | 
 | 2022-10-15 | 730 | 146 | 
 | 2022-10-14 | 730 | 146 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 730 | 146 | 
 | 2022-09-19 | 730 | 146 | 
 | 2022-09-18 | 730 | 146 | 
-| 2022-09-17 | 730 | 146 | 
 

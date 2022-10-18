@@ -1,10 +1,10 @@
 # TeamAmaze/AmazeFileManager - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 18
 
-☋ Forks: 1330
+☋ Forks: 1329
 
-★ Stars: 4085
+★ Stars: 4088
 
 [Open repository](https://github.com/TeamAmaze/AmazeFileManager)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 4088 | 1329 | 
 | 2022-10-16 | 4085 | 1330 | 
 | 2022-10-15 | 4085 | 1328 | 
 | 2022-10-14 | 4083 | 1328 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4038 | 1326 | 
 | 2022-09-19 | 4036 | 1326 | 
 | 2022-09-18 | 4033 | 1326 | 
-| 2022-09-17 | 4031 | 1326 | 
 

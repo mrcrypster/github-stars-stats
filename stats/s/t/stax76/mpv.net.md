@@ -1,6 +1,6 @@
 # stax76/mpv.net - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1647 | 122 | 
 | 2022-10-17 | 1647 | 122 | 
 | 2022-10-16 | 1646 | 122 | 
 | 2022-10-15 | 1642 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 1596 | 119 | 
 | 2022-09-19 | 1593 | 120 | 
 | 2022-09-18 | 1591 | 120 | 
-| 2022-09-17 | 1588 | 118 | 
 

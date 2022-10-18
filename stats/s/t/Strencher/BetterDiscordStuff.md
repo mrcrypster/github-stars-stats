@@ -1,10 +1,10 @@
 # Strencher/BetterDiscordStuff - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 226
+☋ Forks: 228
 
-★ Stars: 279
+★ Stars: 280
 
 [Open repository](https://github.com/Strencher/BetterDiscordStuff)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 280 | 228 | 
 | 2022-10-16 | 279 | 226 | 
 | 2022-10-15 | 278 | 222 | 
 | 2022-10-14 | 277 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 253 | 208 | 
 | 2022-09-19 | 253 | 209 | 
 | 2022-09-18 | 254 | 209 | 
-| 2022-09-17 | 254 | 209 | 
 

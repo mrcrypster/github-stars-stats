@@ -1,10 +1,10 @@
 # donnemartin/awesome-aws - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1511
 
-★ Stars: 10879
+★ Stars: 10880
 
 [Open repository](https://github.com/donnemartin/awesome-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 10880 | 1511 | 
 | 2022-10-16 | 10879 | 1511 | 
 | 2022-10-15 | 10878 | 1511 | 
 | 2022-10-14 | 10873 | 1510 | 

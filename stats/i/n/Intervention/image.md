@@ -1,10 +1,10 @@
 # Intervention/image - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1432
 
-★ Stars: 12880
+★ Stars: 12881
 
 [Open repository](https://github.com/Intervention/image)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 12881 | 1432 | 
 | 2022-10-16 | 12880 | 1432 | 
 | 2022-10-15 | 12878 | 1432 | 
 | 2022-10-14 | 12875 | 1432 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 12840 | 1427 | 
 | 2022-09-20 | 12835 | 1425 | 
 | 2022-09-19 | 12834 | 1425 | 
-| 2022-09-18 | 12832 | 1425 | 
 

@@ -1,10 +1,10 @@
 # honghuangdc/soybean-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 328
 
-★ Stars: 1543
+★ Stars: 1547
 
 [Open repository](https://github.com/honghuangdc/soybean-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1547 | 328 | 
 | 2022-10-16 | 1543 | 328 | 
 | 2022-10-15 | 1543 | 329 | 
 | 2022-10-14 | 1542 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1446 | 308 | 
 | 2022-09-19 | 1438 | 307 | 
 | 2022-09-18 | 1433 | 306 | 
-| 2022-09-17 | 1433 | 306 | 
 

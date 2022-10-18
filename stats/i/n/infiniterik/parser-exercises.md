@@ -1,8 +1,8 @@
 # infiniterik/parser-exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 27
+☋ Forks: 26
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 26 | 
 | 2022-10-16 | - | 27 | 
 | 2022-10-15 | - | 27 | 
 | 2022-10-14 | - | 27 | 

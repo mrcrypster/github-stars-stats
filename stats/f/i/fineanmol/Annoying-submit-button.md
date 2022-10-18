@@ -1,10 +1,10 @@
 # fineanmol/Annoying-submit-button - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 86
+☋ Forks: 91
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/fineanmol/Annoying-submit-button)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 60 | 91 | 
 | 2022-10-16 | 59 | 86 | 
 | 2022-10-15 | 56 | 81 | 
 | 2022-10-14 | 54 | 76 | 

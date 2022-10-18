@@ -1,10 +1,10 @@
 # CodeWithSwastik/clash-of-chem - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 11
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/CodeWithSwastik/clash-of-chem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 15 | 11 | 
 | 2022-10-16 | 14 | 11 | 
 | 2022-10-15 | 14 | 11 | 
 | 2022-10-14 | 14 | 11 | 

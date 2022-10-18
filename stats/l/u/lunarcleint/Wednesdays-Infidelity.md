@@ -1,8 +1,8 @@
 # lunarcleint/Wednesdays-Infidelity - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 50
+☋ Forks: 52
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 30 | 52 | 
 | 2022-10-16 | 30 | 50 | 
 | 2022-10-15 | 30 | 49 | 
 | 2022-10-14 | 30 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 28 | 38 | 
 | 2022-09-19 | 23 | 37 | 
 | 2022-09-18 | 18 | 37 | 
-| 2022-09-17 | 17 | 33 | 
 

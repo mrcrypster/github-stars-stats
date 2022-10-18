@@ -1,10 +1,10 @@
 # x64dbg/x64dbg - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 18
 
-☋ Forks: 1956
+☋ Forks: 1961
 
-★ Stars: 39228
+★ Stars: 39234
 
 [Open repository](https://github.com/x64dbg/x64dbg)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 39234 | 1961 | 
+| 2022-10-17 | 39234 | 1960 | 
 | 2022-10-16 | 39228 | 1956 | 
 | 2022-10-15 | 39223 | 1956 | 
 | 2022-10-14 | 39222 | 1956 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 39079 | 1942 | 
 | 2022-09-19 | 39075 | 1942 | 
 | 2022-09-18 | 39062 | 1940 | 
-| 2022-09-17 | 39056 | 1940 | 
 

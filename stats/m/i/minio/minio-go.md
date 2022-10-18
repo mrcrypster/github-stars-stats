@@ -1,10 +1,10 @@
 # minio/minio-go - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 519
+☋ Forks: 520
 
-★ Stars: 1722
+★ Stars: 1724
 
 [Open repository](https://github.com/minio/minio-go)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1724 | 520 | 
 | 2022-10-16 | 1722 | 519 | 
 | 2022-10-15 | 1721 | 519 | 
 | 2022-10-14 | 1720 | 519 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1699 | 517 | 
 | 2022-09-19 | 1697 | 515 | 
 | 2022-09-18 | 1697 | 515 | 
-| 2022-09-17 | 1697 | 515 | 
 

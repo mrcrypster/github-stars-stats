@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-redshift - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 61 | 140 | 
 | 2022-10-16 | 61 | 140 | 
 | 2022-10-15 | 61 | 140 | 
 | 2022-10-14 | 61 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 60 | 137 | 
 | 2022-09-19 | 60 | 137 | 
 | 2022-09-18 | 60 | 137 | 
-| 2022-09-17 | 60 | 137 | 
 

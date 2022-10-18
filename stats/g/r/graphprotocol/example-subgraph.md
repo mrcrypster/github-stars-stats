@@ -1,10 +1,10 @@
 # graphprotocol/example-subgraph - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 110
 
-★ Stars: 139
+★ Stars: 138
 
 [Open repository](https://github.com/graphprotocol/example-subgraph)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 138 | 110 | 
 | 2022-10-16 | 139 | 110 | 
 | 2022-10-15 | 139 | 110 | 
 | 2022-10-14 | 138 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 134 | 108 | 
 | 2022-09-19 | 134 | 108 | 
 | 2022-09-18 | 134 | 108 | 
-| 2022-09-17 | 134 | 108 | 
 

@@ -1,10 +1,10 @@
 # game-ci/unity-actions - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 90
 
-★ Stars: 689
+★ Stars: 691
 
 [Open repository](https://github.com/game-ci/unity-actions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 691 | 90 | 
 | 2022-10-16 | 689 | 90 | 
 | 2022-10-15 | 689 | 90 | 
 | 2022-10-14 | 689 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 678 | 90 | 
 | 2022-09-19 | 678 | 90 | 
 | 2022-09-18 | 678 | 91 | 
-| 2022-09-17 | 678 | 91 | 
 

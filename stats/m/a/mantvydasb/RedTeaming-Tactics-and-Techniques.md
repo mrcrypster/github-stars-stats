@@ -1,10 +1,10 @@
 # mantvydasb/RedTeaming-Tactics-and-Techniques - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 761
 
-★ Stars: 2724
+★ Stars: 2727
 
 [Open repository](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2727 | 761 | 
 | 2022-10-16 | 2724 | 761 | 
 | 2022-10-15 | 2723 | 761 | 
 | 2022-10-14 | 2719 | 760 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2674 | 752 | 
 | 2022-09-19 | 2671 | 750 | 
 | 2022-09-18 | 2669 | 750 | 
-| 2022-09-17 | 2668 | 750 | 
 

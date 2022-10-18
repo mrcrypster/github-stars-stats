@@ -1,10 +1,10 @@
 # codebasics/roadmaps - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 261
 
-★ Stars: 483
+★ Stars: 484
 
 [Open repository](https://github.com/codebasics/roadmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 484 | 261 | 
 | 2022-10-16 | 483 | 261 | 
 | 2022-10-15 | 483 | 261 | 
 | 2022-10-14 | 483 | 261 | 

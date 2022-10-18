@@ -1,6 +1,6 @@
 # doener2323/doenerium - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 329 | 73 | 
 | 2022-10-16 | 329 | 73 | 
 | 2022-10-15 | 329 | 71 | 
 | 2022-10-14 | 330 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 251 | 62 | 
 | 2022-09-19 | 250 | 60 | 
 | 2022-09-18 | 248 | 60 | 
-| 2022-09-17 | 246 | 60 | 
 

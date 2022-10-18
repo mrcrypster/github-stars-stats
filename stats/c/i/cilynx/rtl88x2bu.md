@@ -1,10 +1,10 @@
 # cilynx/rtl88x2bu - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 265
 
-★ Stars: 1188
+★ Stars: 1189
 
 [Open repository](https://github.com/cilynx/rtl88x2bu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1189 | 265 | 
 | 2022-10-16 | 1188 | 265 | 
 | 2022-10-15 | 1186 | 265 | 
 | 2022-10-14 | 1186 | 265 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1169 | 259 | 
 | 2022-09-19 | 1167 | 259 | 
 | 2022-09-18 | 1168 | 259 | 
-| 2022-09-17 | 1167 | 258 | 
 

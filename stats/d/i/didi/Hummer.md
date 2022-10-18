@@ -1,6 +1,6 @@
 # didi/Hummer - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 987 | 140 | 
 | 2022-10-16 | 987 | 140 | 
 | 2022-10-15 | 987 | 140 | 
 | 2022-10-14 | 985 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 974 | 140 | 
 | 2022-09-19 | 973 | 140 | 
 | 2022-09-18 | 973 | 140 | 
-| 2022-09-17 | 973 | 140 | 
 

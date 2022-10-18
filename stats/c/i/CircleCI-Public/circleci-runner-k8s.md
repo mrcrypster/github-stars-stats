@@ -1,8 +1,8 @@
 # CircleCI-Public/circleci-runner-k8s - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 30
+☋ Forks: 31
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 11 | 31 | 
 | 2022-10-16 | 11 | 30 | 
 | 2022-10-15 | 11 | 30 | 
 | 2022-10-14 | 11 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 11 | 30 | 
 | 2022-09-19 | 11 | 30 | 
 | 2022-09-18 | 11 | 30 | 
-| 2022-09-17 | 11 | 30 | 
 

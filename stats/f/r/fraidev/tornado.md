@@ -1,6 +1,6 @@
 # fraidev/tornado - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 54 | - | 
 | 2022-10-16 | 54 | - | 
 | 2022-10-15 | 54 | - | 
 | 2022-10-14 | 53 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 53 | - | 
 | 2022-09-19 | 53 | - | 
 | 2022-09-18 | 54 | - | 
-| 2022-09-17 | 53 | - | 
 

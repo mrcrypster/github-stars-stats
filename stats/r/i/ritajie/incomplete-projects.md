@@ -1,6 +1,6 @@
 # ritajie/incomplete-projects - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 181 | 14 | 
 | 2022-10-16 | 181 | 14 | 
 | 2022-10-15 | 180 | 14 | 
 | 2022-10-14 | 179 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 167 | 12 | 
 | 2022-09-19 | 166 | 12 | 
 | 2022-09-18 | 164 | 12 | 
-| 2022-09-17 | 164 | 12 | 
 

@@ -1,10 +1,10 @@
 # chuongmep/Awesome-Dynamo - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/chuongmep/Awesome-Dynamo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 24 | 1 | 
 | 2022-10-16 | 23 | 1 | 
 | 2022-10-15 | 23 | 1 | 
 | 2022-10-14 | 23 | 1 | 

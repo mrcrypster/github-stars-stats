@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-active-record-associations-many-to-many - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1250
+☋ Forks: 1257
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 1257 | 
 | 2022-10-16 | - | 1250 | 
 | 2022-10-15 | - | 1247 | 
 | 2022-10-14 | - | 1246 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | - | 1193 | 
 | 2022-09-20 | - | 1193 | 
 | 2022-09-19 | - | 1191 | 
-| 2022-09-17 | - | 1190 | 
 

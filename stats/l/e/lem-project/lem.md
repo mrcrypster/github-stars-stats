@@ -1,10 +1,10 @@
 # lem-project/lem - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 89
+☋ Forks: 90
 
-★ Stars: 1293
+★ Stars: 1292
 
 [Open repository](https://github.com/lem-project/lem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1292 | 90 | 
 | 2022-10-16 | 1293 | 89 | 
 | 2022-10-15 | 1293 | 89 | 
 | 2022-10-14 | 1293 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1249 | 87 | 
 | 2022-09-19 | 1248 | 87 | 
 | 2022-09-18 | 1248 | 87 | 
-| 2022-09-17 | 1246 | 87 | 
 

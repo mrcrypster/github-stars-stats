@@ -1,6 +1,6 @@
 # trinodb/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 78 | 63 | 
 | 2022-10-16 | 78 | 63 | 
 | 2022-10-15 | 78 | 63 | 
 | 2022-10-14 | 78 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 76 | 59 | 
 | 2022-09-19 | 76 | 58 | 
 | 2022-09-18 | 76 | 58 | 
-| 2022-09-17 | 76 | 58 | 
 

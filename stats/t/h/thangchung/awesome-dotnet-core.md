@@ -1,10 +1,10 @@
 # thangchung/awesome-dotnet-core - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 2619
+☋ Forks: 2621
 
-★ Stars: 16956
+★ Stars: 16958
 
 [Open repository](https://github.com/thangchung/awesome-dotnet-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 16958 | 2621 | 
 | 2022-10-16 | 16956 | 2619 | 
 | 2022-10-15 | 16948 | 2618 | 
 | 2022-10-14 | 16945 | 2618 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 16807 | 2601 | 
 | 2022-09-19 | 16801 | 2601 | 
 | 2022-09-18 | 16793 | 2602 | 
-| 2022-09-17 | 16784 | 2601 | 
 

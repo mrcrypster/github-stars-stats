@@ -1,10 +1,10 @@
 # lucidrains/parti-pytorch - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 13
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/lucidrains/parti-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 370 | 13 | 
 | 2022-10-16 | 369 | 13 | 
 | 2022-10-15 | 369 | 13 | 
 | 2022-10-14 | 368 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 363 | 9 | 
 | 2022-09-19 | 362 | 9 | 
 | 2022-09-18 | 362 | 9 | 
-| 2022-09-17 | 362 | 10 | 
 

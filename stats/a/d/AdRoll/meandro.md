@@ -1,10 +1,10 @@
 # AdRoll/meandro - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 18
 
 [Open repository](https://github.com/AdRoll/meandro)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 18 | 1 | 
 | 2022-10-16 | 15 | 1 | 
 | 2022-10-15 | 15 | - | 
 | 2022-10-14 | 15 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 12 | - | 
 | 2022-09-19 | 12 | - | 
 | 2022-09-18 | 12 | - | 
-| 2022-09-17 | 12 | - | 
 

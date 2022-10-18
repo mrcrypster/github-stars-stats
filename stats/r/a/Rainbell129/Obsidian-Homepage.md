@@ -1,10 +1,10 @@
 # Rainbell129/Obsidian-Homepage - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 54
 
-★ Stars: 607
+★ Stars: 610
 
 [Open repository](https://github.com/Rainbell129/Obsidian-Homepage)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 610 | 54 | 
 | 2022-10-16 | 607 | 54 | 
 | 2022-10-15 | 603 | 53 | 
 | 2022-10-14 | 602 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 551 | 54 | 
 | 2022-09-19 | 550 | 54 | 
 | 2022-09-18 | 549 | 54 | 
-| 2022-09-17 | 548 | 54 | 
 

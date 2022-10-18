@@ -1,10 +1,10 @@
 # oceanbase/oceanbase - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1053
+☋ Forks: 1054
 
-★ Stars: 4742
+★ Stars: 4749
 
 [Open repository](https://github.com/oceanbase/oceanbase)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4749 | 1054 | 
 | 2022-10-16 | 4742 | 1053 | 
 | 2022-10-15 | 4739 | 1053 | 
 | 2022-10-14 | 4735 | 1053 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4657 | 1038 | 
 | 2022-09-19 | 4649 | 1038 | 
 | 2022-09-18 | 4644 | 1038 | 
-| 2022-09-17 | 4643 | 1036 | 
 

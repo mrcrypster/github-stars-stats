@@ -1,6 +1,6 @@
 # irBags/Retro-AOL-client - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 29 | 1 | 
 | 2022-10-16 | 29 | 1 | 
 | 2022-10-15 | 28 | 1 | 
 | 2022-10-14 | 29 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 29 | 1 | 
 | 2022-09-19 | 29 | 1 | 
 | 2022-09-18 | 29 | 1 | 
-| 2022-09-17 | 29 | 1 | 
 

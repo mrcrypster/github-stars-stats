@@ -1,6 +1,6 @@
 # USCbiostats/data-science-data - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 12 | 
 | 2022-10-16 | - | 12 | 
 | 2022-10-15 | - | 12 | 
 | 2022-10-14 | - | 12 | 

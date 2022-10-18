@@ -1,10 +1,10 @@
 # Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 21
 
-★ Stars: 269
+★ Stars: 271
 
 [Open repository](https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 271 | 21 | 
 | 2022-10-16 | 269 | 21 | 
 | 2022-10-15 | 268 | 21 | 
 | 2022-10-14 | 268 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 252 | 20 | 
 | 2022-09-19 | 251 | 20 | 
 | 2022-09-18 | 251 | 20 | 
-| 2022-09-17 | 251 | 20 | 
 

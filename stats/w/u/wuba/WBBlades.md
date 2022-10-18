@@ -1,8 +1,8 @@
 # wuba/WBBlades - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 139
+☋ Forks: 138
 
 ★ Stars: 978
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 978 | 138 | 
 | 2022-10-16 | 978 | 139 | 
 | 2022-10-15 | 978 | 139 | 
 | 2022-10-14 | 977 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 958 | 136 | 
 | 2022-09-19 | 956 | 136 | 
 | 2022-09-18 | 956 | 136 | 
-| 2022-09-17 | 957 | 136 | 
 

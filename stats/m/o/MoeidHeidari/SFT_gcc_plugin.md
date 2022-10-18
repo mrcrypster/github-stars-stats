@@ -1,6 +1,6 @@
 # MoeidHeidari/SFT_gcc_plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 19 | - | 
 | 2022-10-16 | 19 | - | 
 | 2022-10-15 | 19 | - | 
 | 2022-10-14 | 19 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 19 | - | 
 | 2022-09-19 | 19 | - | 
 | 2022-09-18 | 19 | - | 
-| 2022-09-17 | 19 | - | 
 

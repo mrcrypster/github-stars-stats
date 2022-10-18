@@ -1,6 +1,6 @@
 # jmshrv/finamp - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 646 | 47 | 
 | 2022-10-16 | 646 | 47 | 
 | 2022-10-15 | 646 | 47 | 
 | 2022-10-14 | 645 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 617 | 42 | 
 | 2022-09-19 | 615 | 42 | 
 | 2022-09-18 | 615 | 41 | 
-| 2022-09-17 | 612 | 41 | 
 

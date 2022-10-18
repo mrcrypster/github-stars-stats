@@ -1,6 +1,6 @@
 # bproctor/MMURTL - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 55 | 24 | 
 | 2022-10-16 | 55 | 24 | 
 | 2022-10-15 | 55 | 24 | 
 | 2022-10-14 | 55 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 55 | 24 | 
 | 2022-09-19 | 55 | 24 | 
 | 2022-09-18 | 55 | 24 | 
-| 2022-09-17 | 55 | 24 | 
 

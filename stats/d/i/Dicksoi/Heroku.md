@@ -1,8 +1,8 @@
 # Dicksoi/Heroku - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 215
+☋ Forks: 216
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 27 | 216 | 
 | 2022-10-16 | 27 | 215 | 
 | 2022-10-15 | 27 | 215 | 
 | 2022-10-14 | 27 | 215 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 26 | 197 | 
 | 2022-09-19 | 26 | 194 | 
 | 2022-09-18 | 26 | 194 | 
-| 2022-09-17 | 26 | 193 | 
 

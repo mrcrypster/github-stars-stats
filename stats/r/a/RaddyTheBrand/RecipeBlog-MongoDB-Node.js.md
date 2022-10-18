@@ -1,6 +1,6 @@
 # RaddyTheBrand/RecipeBlog-MongoDB-Node.js - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 39 | 30 | 
 | 2022-10-16 | 39 | 30 | 
 | 2022-10-15 | 39 | 31 | 
 | 2022-10-14 | 39 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 32 | 27 | 
 | 2022-09-19 | 31 | 27 | 
 | 2022-09-18 | 31 | 27 | 
-| 2022-09-17 | 31 | 27 | 
 

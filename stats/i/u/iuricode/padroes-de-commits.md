@@ -1,10 +1,10 @@
 # iuricode/padroes-de-commits - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 307
+☋ Forks: 308
 
-★ Stars: 1725
+★ Stars: 1729
 
 [Open repository](https://github.com/iuricode/padroes-de-commits)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1729 | 308 | 
 | 2022-10-16 | 1725 | 307 | 
 | 2022-10-15 | 1722 | 305 | 
 | 2022-10-14 | 1713 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1607 | 280 | 
 | 2022-09-19 | 1602 | 277 | 
 | 2022-09-18 | 1598 | 277 | 
-| 2022-09-17 | 1594 | 275 | 
 

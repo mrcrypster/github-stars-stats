@@ -1,8 +1,8 @@
 # projectdiscovery/tlsx - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 33
+☋ Forks: 34
 
 ★ Stars: 454
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 454 | 34 | 
 | 2022-10-16 | 454 | 33 | 
 | 2022-10-15 | 454 | 33 | 
 | 2022-10-14 | 454 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 437 | 33 | 
 | 2022-09-19 | 436 | 33 | 
 | 2022-09-18 | 435 | 33 | 
-| 2022-09-17 | 435 | 34 | 
 

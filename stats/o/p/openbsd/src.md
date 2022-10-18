@@ -1,10 +1,10 @@
 # openbsd/src - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 754
+☋ Forks: 756
 
-★ Stars: 2533
+★ Stars: 2534
 
 [Open repository](https://github.com/openbsd/src)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2534 | 756 | 
 | 2022-10-16 | 2533 | 754 | 
 | 2022-10-15 | 2532 | 755 | 
 | 2022-10-14 | 2532 | 755 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 2500 | 743 | 
 | 2022-09-20 | 2498 | 743 | 
 | 2022-09-19 | 2498 | 743 | 
-| 2022-09-18 | 2495 | 743 | 
 

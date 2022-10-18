@@ -1,6 +1,6 @@
 # OfficeDev/Open-XML-SDK - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 512
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3295 | 512 | 
 | 2022-10-16 | 3295 | 512 | 
 | 2022-10-15 | 3296 | 511 | 
 | 2022-10-14 | 3296 | 511 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3266 | 506 | 
 | 2022-09-19 | 3265 | 506 | 
 | 2022-09-18 | 3265 | 506 | 
-| 2022-09-17 | 3264 | 506 | 
 

@@ -1,10 +1,10 @@
 # viperproject/prusti-dev - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 1077
+★ Stars: 1093
 
 [Open repository](https://github.com/viperproject/prusti-dev)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1093 | 73 | 
 | 2022-10-16 | 1077 | 72 | 
 | 2022-10-15 | 1069 | 71 | 
 

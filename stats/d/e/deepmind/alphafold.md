@@ -1,10 +1,10 @@
 # deepmind/alphafold - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1576
 
-★ Stars: 9280
+★ Stars: 9289
 
 [Open repository](https://github.com/deepmind/alphafold)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 9289 | 1576 | 
 | 2022-10-16 | 9280 | 1576 | 
 | 2022-10-15 | 9275 | 1575 | 
 | 2022-10-14 | 9272 | 1575 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 9109 | 1544 | 
 | 2022-09-19 | 9108 | 1544 | 
 | 2022-09-18 | 9099 | 1543 | 
-| 2022-09-17 | 9093 | 1543 | 
 

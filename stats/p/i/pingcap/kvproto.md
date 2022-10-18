@@ -1,10 +1,10 @@
 # pingcap/kvproto - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 194
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/pingcap/kvproto)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 132 | 194 | 
 | 2022-10-16 | 131 | 194 | 
 | 2022-10-15 | 131 | 194 | 
 | 2022-10-14 | 131 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 131 | 191 | 
 | 2022-09-19 | 131 | 190 | 
 | 2022-09-18 | 131 | 190 | 
-| 2022-09-17 | 131 | 190 | 
 

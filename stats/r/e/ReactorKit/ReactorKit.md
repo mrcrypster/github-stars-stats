@@ -1,6 +1,6 @@
 # ReactorKit/ReactorKit - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2444 | 250 | 
 | 2022-10-16 | 2444 | 250 | 
 | 2022-10-15 | 2444 | 250 | 
 | 2022-10-14 | 2444 | 250 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2439 | 250 | 
 | 2022-09-19 | 2437 | 250 | 
 | 2022-09-18 | 2436 | 250 | 
-| 2022-09-17 | 2436 | 250 | 
 

@@ -1,10 +1,10 @@
 # veggiemonk/awesome-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 2645
+☋ Forks: 2646
 
-★ Stars: 23110
+★ Stars: 23119
 
 [Open repository](https://github.com/veggiemonk/awesome-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 23119 | 2646 | 
 | 2022-10-16 | 23110 | 2645 | 
 | 2022-10-15 | 23101 | 2644 | 
 | 2022-10-14 | 23090 | 2644 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 22869 | 2629 | 
 | 2022-09-19 | 22865 | 2629 | 
 | 2022-09-18 | 22850 | 2628 | 
-| 2022-09-17 | 22839 | 2628 | 
 

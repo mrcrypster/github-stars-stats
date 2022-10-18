@@ -1,8 +1,8 @@
 # Abracadabra-money/magic-internet-money - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 198
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 198 | 84 | 
 | 2022-10-16 | 198 | 83 | 
 | 2022-10-15 | 198 | 83 | 
 | 2022-10-14 | 198 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 192 | 82 | 
 | 2022-09-19 | 188 | 82 | 
 | 2022-09-18 | 183 | 82 | 
-| 2022-09-17 | 183 | 82 | 
 

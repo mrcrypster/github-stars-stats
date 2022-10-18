@@ -1,10 +1,10 @@
 # OxygenCobalt/Auxio - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 61
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/OxygenCobalt/Auxio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 632 | 61 | 
 | 2022-10-16 | 631 | 61 | 
 | 2022-10-15 | 632 | 61 | 
 | 2022-10-14 | 631 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 593 | 58 | 
 | 2022-09-19 | 590 | 58 | 
 | 2022-09-18 | 588 | 58 | 
-| 2022-09-17 | 586 | 58 | 
 

@@ -1,8 +1,8 @@
 # blackcoffee-study/moonbucks-menu - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 308
+☋ Forks: 310
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 65 | 310 | 
 | 2022-10-16 | 65 | 308 | 
 | 2022-10-15 | 65 | 308 | 
 | 2022-10-14 | 65 | 309 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 65 | 307 | 
 | 2022-09-19 | 65 | 306 | 
 | 2022-09-18 | 64 | 306 | 
-| 2022-09-17 | 64 | 306 | 
 

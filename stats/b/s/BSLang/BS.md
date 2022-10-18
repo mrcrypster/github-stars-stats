@@ -1,10 +1,10 @@
 # BSLang/BS - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/BSLang/BS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 168 | 7 | 
 | 2022-10-16 | 167 | 7 | 
 | 2022-10-15 | 167 | 7 | 
 | 2022-10-14 | 167 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 164 | 7 | 
 | 2022-09-19 | 163 | 7 | 
 | 2022-09-18 | 163 | 7 | 
-| 2022-09-17 | 163 | 7 | 
 

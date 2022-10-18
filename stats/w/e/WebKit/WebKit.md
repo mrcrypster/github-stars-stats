@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 17
 
-☋ Forks: 728
+☋ Forks: 729
 
-★ Stars: 5126
+★ Stars: 5149
 
 [Open repository](https://github.com/WebKit/WebKit)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-17 | 5126 | 728 | 
+| 2022-10-17 | 5149 | 729 | 
 | 2022-10-16 | 5119 | 728 | 
 | 2022-10-15 | 5077 | 728 | 
 | 2022-10-14 | 5048 | 723 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 4869 | 694 | 
 | 2022-09-19 | 4862 | 693 | 
 | 2022-09-18 | 4838 | 690 | 
-| 2022-09-17 | 4825 | 689 | 
 

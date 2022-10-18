@@ -1,10 +1,10 @@
 # badtuxx/DescomplicandoHelm - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 126
 
-★ Stars: 241
+★ Stars: 240
 
 [Open repository](https://github.com/badtuxx/DescomplicandoHelm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 240 | 126 | 
 | 2022-10-16 | 241 | 126 | 
 | 2022-10-15 | 241 | 126 | 
 | 2022-10-14 | 241 | 126 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 238 | 124 | 
 | 2022-09-19 | 238 | 124 | 
 | 2022-09-18 | 238 | 124 | 
-| 2022-09-17 | 238 | 124 | 
 

@@ -1,8 +1,8 @@
 # rileytestut/N64DeltaCore - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 16 | 7 | 
 | 2022-10-16 | 16 | 6 | 
 | 2022-10-15 | 16 | 6 | 
 | 2022-10-14 | 15 | 6 | 

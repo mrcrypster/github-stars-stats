@@ -1,6 +1,6 @@
 # Pryaxis/TShock - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 347
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1991 | 347 | 
 | 2022-10-16 | 1991 | 347 | 
 | 2022-10-15 | 1990 | 347 | 
 | 2022-10-14 | 1984 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1918 | 337 | 
 | 2022-09-19 | 1917 | 337 | 
 | 2022-09-18 | 1917 | 337 | 
-| 2022-09-17 | 1916 | 337 | 
 

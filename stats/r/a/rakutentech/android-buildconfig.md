@@ -1,0 +1,17 @@
+# rakutentech/android-buildconfig - stars & forks statistics
+
+Stats updated on Oct 2022, 17
+
+☋ Forks: 24
+
+★ Stars: 21
+
+[Open repository](https://github.com/rakutentech/android-buildconfig)
+
+[Open detailed stats for rakutentech/android-buildconfig](https://reviewgithub.com/rep/rakutentech/android-buildconfig)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-17 | 21 | 24 | 
+

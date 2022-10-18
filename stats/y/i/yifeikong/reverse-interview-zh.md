@@ -1,10 +1,10 @@
 # yifeikong/reverse-interview-zh - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1211
 
-★ Stars: 14816
+★ Stars: 14819
 
 [Open repository](https://github.com/yifeikong/reverse-interview-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 14819 | 1211 | 
 | 2022-10-17 | 14816 | 1211 | 
 | 2022-10-16 | 14813 | 1211 | 
 | 2022-10-15 | 14809 | 1211 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 14729 | 1203 | 
 | 2022-09-19 | 14717 | 1203 | 
 | 2022-09-18 | 14711 | 1203 | 
-| 2022-09-17 | 14706 | 1202 | 
 

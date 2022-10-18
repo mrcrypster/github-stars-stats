@@ -1,6 +1,6 @@
 # mrfearless/DateTime-Library - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 13 | 2 | 
 | 2022-10-16 | 13 | 2 | 
 | 2022-10-15 | 13 | 2 | 
 | 2022-10-14 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 12 | 1 | 
 | 2022-09-19 | 12 | 1 | 
 | 2022-09-18 | 12 | 1 | 
-| 2022-09-17 | 12 | 1 | 
 

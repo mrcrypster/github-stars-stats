@@ -1,10 +1,10 @@
 # PrincetonUniversity/STELLOPT - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 5
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/PrincetonUniversity/STELLOPT)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 33 | 5 | 
 | 2022-10-16 | 32 | 5 | 
 | 2022-10-15 | 32 | 5 | 
 | 2022-10-14 | 32 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 32 | 5 | 
 | 2022-09-19 | 32 | 5 | 
 | 2022-09-18 | 32 | 5 | 
-| 2022-09-17 | 32 | 5 | 
 

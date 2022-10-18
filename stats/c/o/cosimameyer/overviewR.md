@@ -1,6 +1,6 @@
 # cosimameyer/overviewR - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 39 | 7 | 
 | 2022-10-16 | 39 | 7 | 
 | 2022-10-15 | 39 | 7 | 
 | 2022-10-14 | 39 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 36 | 6 | 
 | 2022-09-19 | 36 | 6 | 
 | 2022-09-18 | 36 | 6 | 
-| 2022-09-17 | 36 | 6 | 
 

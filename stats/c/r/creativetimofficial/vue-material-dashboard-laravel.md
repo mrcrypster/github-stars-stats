@@ -1,6 +1,6 @@
 # creativetimofficial/vue-material-dashboard-laravel - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 50 | 68 | 
 | 2022-10-16 | 50 | 68 | 
 | 2022-10-15 | 50 | 67 | 
 | 2022-10-14 | 50 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 50 | 56 | 
 | 2022-09-19 | 50 | 56 | 
 | 2022-09-18 | 50 | 56 | 
-| 2022-09-17 | 50 | 55 | 
 

@@ -1,6 +1,6 @@
 # ponylang/corral - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 173 | 17 | 
 | 2022-10-16 | 173 | 17 | 
 | 2022-10-15 | 173 | 17 | 
 | 2022-10-14 | 173 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 172 | 17 | 
 | 2022-09-19 | 172 | 17 | 
 | 2022-09-18 | 172 | 17 | 
-| 2022-09-17 | 172 | 17 | 
 

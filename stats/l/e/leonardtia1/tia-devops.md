@@ -1,8 +1,8 @@
 # leonardtia1/tia-devops - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 38
+☋ Forks: 43
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1 | 43 | 
 | 2022-10-16 | 1 | 38 | 
 | 2022-10-15 | 1 | 38 | 
 | 2022-10-14 | 1 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1 | 35 | 
 | 2022-09-19 | 1 | 35 | 
 | 2022-09-18 | 1 | 35 | 
-| 2022-09-17 | 1 | 33 | 
 

@@ -1,6 +1,6 @@
 # benahm/TestDataFactory - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 166 | 77 | 
 | 2022-10-16 | 166 | 77 | 
 | 2022-10-15 | 166 | 77 | 
 | 2022-10-14 | 166 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 164 | 75 | 
 | 2022-09-19 | 164 | 75 | 
 | 2022-09-18 | 164 | 75 | 
-| 2022-09-17 | 164 | 75 | 
 

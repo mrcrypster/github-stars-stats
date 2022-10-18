@@ -1,8 +1,8 @@
 # meta-qt5/meta-qt5 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 293
+☋ Forks: 292
 
 ★ Stars: 221
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 221 | 292 | 
 | 2022-10-16 | 221 | 293 | 
 | 2022-10-15 | 221 | 293 | 
 | 2022-10-14 | 220 | 293 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 219 | 292 | 
 | 2022-09-19 | 219 | 293 | 
 | 2022-09-18 | 219 | 293 | 
-| 2022-09-17 | 219 | 293 | 
 

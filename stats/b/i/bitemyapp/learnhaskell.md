@@ -1,10 +1,10 @@
 # bitemyapp/learnhaskell - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 542
 
-★ Stars: 7678
+★ Stars: 7679
 
 [Open repository](https://github.com/bitemyapp/learnhaskell)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 7679 | 542 | 
 | 2022-10-16 | 7678 | 542 | 
 | 2022-10-15 | 7678 | 542 | 
 | 2022-10-14 | 7678 | 542 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 7661 | 544 | 
 | 2022-09-19 | 7662 | 544 | 
 | 2022-09-18 | 7663 | 544 | 
-| 2022-09-17 | 7663 | 544 | 
 

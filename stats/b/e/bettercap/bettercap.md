@@ -1,10 +1,10 @@
 # bettercap/bettercap - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1210
+☋ Forks: 1211
 
-★ Stars: 11893
+★ Stars: 11896
 
 [Open repository](https://github.com/bettercap/bettercap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 11896 | 1211 | 
 | 2022-10-16 | 11893 | 1210 | 
 | 2022-10-15 | 11887 | 1209 | 
 | 2022-10-14 | 11886 | 1209 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 11785 | 1202 | 
 | 2022-09-19 | 11783 | 1202 | 
 | 2022-09-18 | 11775 | 1202 | 
-| 2022-09-17 | 11767 | 1203 | 
 

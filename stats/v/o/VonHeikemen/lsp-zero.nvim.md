@@ -1,6 +1,6 @@
 # VonHeikemen/lsp-zero.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 386 | 13 | 
 | 2022-10-16 | 386 | 13 | 
 | 2022-10-15 | 385 | 13 | 
 | 2022-10-14 | 383 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 330 | 10 | 
 | 2022-09-19 | 327 | 10 | 
 | 2022-09-18 | 326 | 10 | 
-| 2022-09-17 | 325 | 10 | 
 

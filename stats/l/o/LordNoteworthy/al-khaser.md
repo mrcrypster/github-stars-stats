@@ -1,10 +1,10 @@
 # LordNoteworthy/al-khaser - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1017
+☋ Forks: 1018
 
-★ Stars: 4252
+★ Stars: 4257
 
 [Open repository](https://github.com/LordNoteworthy/al-khaser)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4257 | 1018 | 
 | 2022-10-16 | 4252 | 1017 | 
 | 2022-10-15 | 4248 | 1017 | 
 | 2022-10-14 | 4246 | 1016 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4185 | 1004 | 
 | 2022-09-19 | 4182 | 1004 | 
 | 2022-09-18 | 4179 | 1003 | 
-| 2022-09-17 | 4177 | 1002 | 
 

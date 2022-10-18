@@ -1,8 +1,8 @@
 # 201206030/novel - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1020
+☋ Forks: 1021
 
 ★ Stars: 3356
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3356 | 1021 | 
 | 2022-10-16 | 3356 | 1020 | 
 | 2022-10-15 | 3355 | 1020 | 
 | 2022-10-14 | 3353 | 1020 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 3301 | 1003 | 
 | 2022-09-19 | 3296 | 1002 | 
 | 2022-09-18 | 3292 | 1000 | 
-| 2022-09-17 | 3292 | 999 | 
 

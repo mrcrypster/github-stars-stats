@@ -1,10 +1,10 @@
 # opakenak/teri - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 17
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/opakenak/teri)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4 | 17 | 
 | 2022-10-16 | 3 | 17 | 
 | 2022-10-15 | 2 | 16 | 
 | 2022-10-14 | 1 | 13 | 

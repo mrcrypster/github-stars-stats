@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 17
 
 ☋ Forks: 61
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ElvinPero/PriceTemplate)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-17 | 16 | 61 | 
+| 2022-10-17 | 17 | 61 | 
 | 2022-10-16 | 16 | 61 | 
 | 2022-10-15 | 12 | 57 | 
 | 2022-10-14 | 12 | 47 | 

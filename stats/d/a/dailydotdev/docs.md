@@ -1,6 +1,6 @@
 # dailydotdev/docs - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 163 | 83 | 
 | 2022-10-16 | 163 | 83 | 
 | 2022-10-15 | 163 | 82 | 
 | 2022-10-14 | 164 | 82 | 

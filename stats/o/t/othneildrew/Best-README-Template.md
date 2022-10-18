@@ -1,10 +1,10 @@
 # othneildrew/Best-README-Template - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 17658
+☋ Forks: 17689
 
-★ Stars: 8070
+★ Stars: 8093
 
 [Open repository](https://github.com/othneildrew/Best-README-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 8093 | 17689 | 
 | 2022-10-16 | 8070 | 17658 | 
 | 2022-10-15 | 8056 | 17647 | 
 | 2022-10-14 | 8047 | 17621 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 7793 | 17018 | 
 | 2022-09-19 | 7771 | 16990 | 
 | 2022-09-18 | 7761 | 16966 | 
-| 2022-09-17 | 7755 | 16946 | 
 

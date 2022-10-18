@@ -1,10 +1,10 @@
 # Code-Pop/Vue-3-Forms - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 158
+☋ Forks: 159
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/Code-Pop/Vue-3-Forms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 83 | 159 | 
 | 2022-10-16 | 82 | 158 | 
 | 2022-10-15 | 82 | 158 | 
 | 2022-10-14 | 82 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 82 | 158 | 
 | 2022-09-19 | 82 | 158 | 
 | 2022-09-18 | 82 | 158 | 
-| 2022-09-17 | 82 | 158 | 
 

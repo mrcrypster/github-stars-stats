@@ -1,6 +1,6 @@
 # 0xAlcibiades/WolfGameMEV - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 69 | 17 | 
 | 2022-10-16 | 69 | 17 | 
 | 2022-10-15 | 68 | 17 | 
 | 2022-10-14 | 67 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 63 | 16 | 
 | 2022-09-19 | 63 | 16 | 
 | 2022-09-18 | 63 | 16 | 
-| 2022-09-17 | 63 | 16 | 
 

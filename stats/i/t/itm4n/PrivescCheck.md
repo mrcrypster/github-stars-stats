@@ -1,6 +1,6 @@
 # itm4n/PrivescCheck - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1806 | 305 | 
 | 2022-10-16 | 1806 | 305 | 
 | 2022-10-15 | 1803 | 304 | 
 | 2022-10-14 | 1802 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1760 | 297 | 
 | 2022-09-19 | 1758 | 297 | 
 | 2022-09-18 | 1758 | 297 | 
-| 2022-09-17 | 1757 | 297 | 
 

@@ -1,6 +1,6 @@
 # Bafomet666/Bigbro - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 94 | 18 | 
 | 2022-10-16 | 94 | 18 | 
 | 2022-10-15 | 93 | 18 | 
 | 2022-10-14 | 93 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 84 | 16 | 
 | 2022-09-19 | 84 | 16 | 
 | 2022-09-18 | 84 | 16 | 
-| 2022-09-17 | 83 | 15 | 
 

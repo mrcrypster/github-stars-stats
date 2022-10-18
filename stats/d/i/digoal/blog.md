@@ -1,8 +1,8 @@
 # digoal/blog - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1690
+☋ Forks: 1691
 
 ★ Stars: 6948
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 6948 | 1691 | 
 | 2022-10-16 | 6948 | 1690 | 
 | 2022-10-15 | 6945 | 1689 | 
 | 2022-10-14 | 6944 | 1688 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 6904 | 1681 | 
 | 2022-09-19 | 6899 | 1681 | 
 | 2022-09-18 | 6898 | 1681 | 
-| 2022-09-17 | 6898 | 1681 | 
 

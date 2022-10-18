@@ -1,10 +1,10 @@
 # ColinKennedy/USD-Cookbook - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 396
+★ Stars: 398
 
 [Open repository](https://github.com/ColinKennedy/USD-Cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 398 | 73 | 
 | 2022-10-16 | 396 | 72 | 
 | 2022-10-15 | 396 | 72 | 
 | 2022-10-14 | 396 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 385 | 70 | 
 | 2022-09-19 | 385 | 70 | 
 | 2022-09-18 | 384 | 69 | 
-| 2022-09-17 | 383 | 69 | 
 

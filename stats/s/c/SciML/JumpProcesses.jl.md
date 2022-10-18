@@ -1,8 +1,8 @@
 # SciML/JumpProcesses.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 94
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 94 | 23 | 
 | 2022-10-16 | 94 | 22 | 
 | 2022-10-15 | 94 | 22 | 
 | 2022-10-14 | 94 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 93 | 23 | 
 | 2022-09-19 | 93 | 23 | 
 | 2022-09-18 | 93 | 23 | 
-| 2022-09-17 | 93 | 23 | 
 

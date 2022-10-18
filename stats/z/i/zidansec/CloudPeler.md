@@ -1,10 +1,10 @@
 # zidansec/CloudPeler - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 62
 
-★ Stars: 343
+★ Stars: 345
 
 [Open repository](https://github.com/zidansec/CloudPeler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 345 | 62 | 
 | 2022-10-16 | 343 | 62 | 
 | 2022-10-15 | 341 | 61 | 
 | 2022-10-14 | 341 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 318 | 57 | 
 | 2022-09-20 | 317 | 57 | 
 | 2022-09-19 | 315 | 57 | 
-| 2022-09-17 | 315 | 57 | 
 

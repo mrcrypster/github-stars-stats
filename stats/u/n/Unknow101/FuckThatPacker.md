@@ -1,6 +1,6 @@
 # Unknow101/FuckThatPacker - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 540 | 82 | 
 | 2022-10-16 | 540 | 82 | 
 | 2022-10-15 | 540 | 82 | 
 | 2022-10-14 | 540 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 537 | 83 | 
 | 2022-09-19 | 536 | 83 | 
 | 2022-09-18 | 536 | 83 | 
-| 2022-09-17 | 537 | 83 | 
 

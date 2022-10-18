@@ -1,10 +1,10 @@
 # cruip/tailwind-dashboard-template - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 325
+☋ Forks: 326
 
-★ Stars: 1392
+★ Stars: 1394
 
 [Open repository](https://github.com/cruip/tailwind-dashboard-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1394 | 326 | 
 | 2022-10-16 | 1392 | 325 | 
 | 2022-10-15 | 1389 | 326 | 
 | 2022-10-14 | 1387 | 326 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1351 | 315 | 
 | 2022-09-19 | 1347 | 315 | 
 | 2022-09-18 | 1346 | 315 | 
-| 2022-09-17 | 1344 | 313 | 
 

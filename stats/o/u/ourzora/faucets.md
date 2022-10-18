@@ -1,10 +1,10 @@
 # ourzora/faucets - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/ourzora/faucets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 48 | 1 | 
 | 2022-10-16 | 47 | 1 | 
 | 2022-10-15 | 47 | 1 | 
 | 2022-10-14 | 47 | 1 | 

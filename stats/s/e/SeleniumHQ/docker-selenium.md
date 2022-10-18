@@ -1,6 +1,6 @@
 # SeleniumHQ/docker-selenium - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2226
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 6300 | 2226 | 
 | 2022-10-16 | 6300 | 2226 | 
 | 2022-10-15 | 6300 | 2226 | 
 | 2022-10-14 | 6298 | 2224 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 6243 | 2194 | 
 | 2022-09-19 | 6237 | 2189 | 
 | 2022-09-18 | 6234 | 2188 | 
-| 2022-09-17 | 6233 | 2188 | 
 

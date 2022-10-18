@@ -1,10 +1,10 @@
 # s8ngyu/red-dot - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/s8ngyu/red-dot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 38 | 2 | 
 | 2022-10-16 | 37 | 2 | 
 | 2022-10-15 | 37 | 2 | 
 | 2022-10-14 | 37 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 31 | 1 | 
 | 2022-09-19 | 29 | 1 | 
 | 2022-09-18 | 26 | 1 | 
-| 2022-09-17 | 25 | - | 
 

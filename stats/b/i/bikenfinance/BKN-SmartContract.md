@@ -1,8 +1,8 @@
 # bikenfinance/BKN-SmartContract - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 22 | 2 | 
 | 2022-10-16 | 22 | 1 | 
 | 2022-10-15 | 22 | 1 | 
 | 2022-10-14 | 22 | 1 | 

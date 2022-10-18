@@ -1,6 +1,6 @@
 # yume-chan/ya-webadb - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 142
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 903 | 142 | 
 | 2022-10-16 | 903 | 142 | 
 | 2022-10-15 | 902 | 141 | 
 | 2022-10-14 | 902 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 881 | 136 | 
 | 2022-09-19 | 878 | 135 | 
 | 2022-09-18 | 878 | 135 | 
-| 2022-09-17 | 876 | 135 | 
 

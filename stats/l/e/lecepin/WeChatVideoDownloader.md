@@ -1,10 +1,10 @@
 # lecepin/WeChatVideoDownloader - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 181
 
-★ Stars: 664
+★ Stars: 667
 
 [Open repository](https://github.com/lecepin/WeChatVideoDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 667 | 181 | 
 | 2022-10-16 | 664 | 181 | 
 | 2022-10-15 | 662 | 181 | 
 | 2022-10-14 | 660 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 558 | 167 | 
 | 2022-09-19 | 553 | 164 | 
 | 2022-09-18 | 542 | 162 | 
-| 2022-09-17 | 542 | 162 | 
 

@@ -1,10 +1,10 @@
 # deepmap/oapi-codegen - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 482
 
-★ Stars: 2534
+★ Stars: 2556
 
 [Open repository](https://github.com/deepmap/oapi-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2556 | 482 | 
 | 2022-10-16 | 2534 | 482 | 
 | 2022-10-15 | 2532 | 482 | 
 | 2022-10-14 | 2528 | 482 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2430 | 465 | 
 | 2022-09-19 | 2426 | 465 | 
 | 2022-09-18 | 2425 | 465 | 
-| 2022-09-17 | 2425 | 465 | 
 

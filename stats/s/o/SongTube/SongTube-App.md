@@ -1,6 +1,6 @@
 # SongTube/SongTube-App - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 780 | 121 | 
 | 2022-10-16 | 780 | 121 | 
 | 2022-10-15 | 779 | 121 | 
 | 2022-10-14 | 779 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 764 | 122 | 
 | 2022-09-19 | 764 | 122 | 
 | 2022-09-18 | 764 | 122 | 
-| 2022-09-17 | 764 | 122 | 
 

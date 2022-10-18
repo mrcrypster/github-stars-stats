@@ -1,6 +1,6 @@
 # jpg-store/contract-v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 32 | 10 | 
 | 2022-10-16 | 32 | 10 | 
 | 2022-10-15 | 32 | 10 | 
 | 2022-10-14 | 32 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 31 | 9 | 
 | 2022-09-19 | 31 | 9 | 
 | 2022-09-18 | 31 | 9 | 
-| 2022-09-17 | 31 | 9 | 
 

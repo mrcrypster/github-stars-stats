@@ -1,6 +1,6 @@
 # harrybournis/org-fancy-priorities - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 106 | 6 | 
 | 2022-10-16 | 106 | 6 | 
 | 2022-10-15 | 106 | 6 | 
 | 2022-10-14 | 106 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 105 | 6 | 
 | 2022-09-19 | 105 | 6 | 
 | 2022-09-18 | 105 | 6 | 
-| 2022-09-17 | 105 | 6 | 
 

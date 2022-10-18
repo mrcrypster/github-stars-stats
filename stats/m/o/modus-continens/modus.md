@@ -1,10 +1,10 @@
 # modus-continens/modus - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/modus-continens/modus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 267 | 7 | 
 | 2022-10-16 | 266 | 6 | 
 | 2022-10-15 | 266 | 6 | 
 | 2022-10-14 | 266 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 263 | 6 | 
 | 2022-09-19 | 260 | 6 | 
 | 2022-09-18 | 259 | 6 | 
-| 2022-09-17 | 259 | 6 | 
 

@@ -1,6 +1,6 @@
 # DiegoDBLe/Python-Basico-Lets-Code - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 33 | 26 | 
 | 2022-10-16 | 33 | 26 | 
 | 2022-10-15 | 33 | 26 | 
 | 2022-10-14 | 33 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 32 | 28 | 
 | 2022-09-19 | 30 | 28 | 
 | 2022-09-18 | 29 | 25 | 
-| 2022-09-17 | 29 | 25 | 
 

@@ -1,8 +1,8 @@
 # Yoshubs/FNF-Forever-Engine - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 34 | 13 | 
 | 2022-10-16 | 34 | 12 | 
 | 2022-10-15 | 33 | 11 | 
 | 2022-10-14 | 33 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 31 | 10 | 
 | 2022-09-19 | 30 | 10 | 
 | 2022-09-18 | 30 | 10 | 
-| 2022-09-17 | 30 | 8 | 
 

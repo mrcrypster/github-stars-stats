@@ -1,8 +1,8 @@
 # sadewa999/RDP-BAA - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 55
+☋ Forks: 56
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 5 | 56 | 
 | 2022-10-16 | 5 | 55 | 
 | 2022-10-15 | 5 | 55 | 
 | 2022-10-14 | 5 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4 | 37 | 
 | 2022-09-19 | 4 | 37 | 
 | 2022-09-18 | 4 | 37 | 
-| 2022-09-17 | 3 | 37 | 
 

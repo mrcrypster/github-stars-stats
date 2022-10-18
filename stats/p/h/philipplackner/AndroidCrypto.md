@@ -1,10 +1,10 @@
 # philipplackner/AndroidCrypto - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 10
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/philipplackner/AndroidCrypto)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 29 | 10 | 
 | 2022-10-16 | 28 | 10 | 
 | 2022-10-15 | 28 | 10 | 
 | 2022-10-14 | 27 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 25 | 8 | 
 | 2022-09-19 | 25 | 8 | 
 | 2022-09-18 | 24 | 8 | 
-| 2022-09-17 | 24 | 8 | 
 

@@ -1,6 +1,6 @@
 # anburocky3/webdesign-tamil - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 8 | 78 | 
 | 2022-10-16 | 8 | 78 | 
 | 2022-10-15 | 8 | 79 | 
 | 2022-10-14 | 8 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 7 | 75 | 
 | 2022-09-19 | 7 | 75 | 
 | 2022-09-18 | 7 | 75 | 
-| 2022-09-17 | 7 | 74 | 
 

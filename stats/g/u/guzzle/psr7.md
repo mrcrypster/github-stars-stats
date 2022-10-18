@@ -1,6 +1,6 @@
 # guzzle/psr7 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 7560 | 267 | 
 | 2022-10-16 | 7560 | 267 | 
 | 2022-10-15 | 7560 | 267 | 
 | 2022-10-14 | 7562 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 7553 | 267 | 
 | 2022-09-19 | 7553 | 267 | 
 | 2022-09-18 | 7552 | 267 | 
-| 2022-09-17 | 7552 | 267 | 
 

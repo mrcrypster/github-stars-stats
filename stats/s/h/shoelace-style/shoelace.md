@@ -1,10 +1,10 @@
 # shoelace-style/shoelace - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 468
 
-★ Stars: 7396
+★ Stars: 7398
 
 [Open repository](https://github.com/shoelace-style/shoelace)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 7398 | 468 | 
 | 2022-10-16 | 7396 | 468 | 
 | 2022-10-15 | 7390 | 468 | 
 | 2022-10-14 | 7379 | 466 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 7198 | 453 | 
 | 2022-09-20 | 7195 | 452 | 
 | 2022-09-19 | 7192 | 451 | 
-| 2022-09-18 | 7187 | 451 | 
 

@@ -1,8 +1,8 @@
 # kubernetes/repo-infra - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 84
+☋ Forks: 83
 
 ★ Stars: 82
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 82 | 83 | 
 | 2022-10-16 | 82 | 84 | 
 | 2022-10-15 | 82 | 84 | 
 | 2022-10-14 | 82 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 81 | 84 | 
 | 2022-09-19 | 81 | 84 | 
 | 2022-09-18 | 81 | 84 | 
-| 2022-09-17 | 81 | 84 | 
 

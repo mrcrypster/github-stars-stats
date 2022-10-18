@@ -1,6 +1,6 @@
 # tpope/vim-repeat - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2250 | 74 | 
 | 2022-10-16 | 2250 | 74 | 
 | 2022-10-15 | 2249 | 74 | 
 | 2022-10-14 | 2248 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2230 | 74 | 
 | 2022-09-19 | 2229 | 74 | 
 | 2022-09-18 | 2229 | 74 | 
-| 2022-09-17 | 2228 | 74 | 
 

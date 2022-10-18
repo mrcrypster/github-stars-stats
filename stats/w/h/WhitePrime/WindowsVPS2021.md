@@ -1,8 +1,8 @@
 # WhitePrime/WindowsVPS2021 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 196
+☋ Forks: 198
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4 | 198 | 
 | 2022-10-16 | 4 | 196 | 
 | 2022-10-15 | 4 | 196 | 
 | 2022-10-14 | 4 | 197 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4 | 190 | 
 | 2022-09-19 | 4 | 190 | 
 | 2022-09-18 | 4 | 191 | 
-| 2022-09-17 | 3 | 190 | 
 

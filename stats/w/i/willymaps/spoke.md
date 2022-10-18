@@ -1,10 +1,10 @@
 # willymaps/spoke - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 11
 
-★ Stars: 37
+★ Stars: 36
 
 [Open repository](https://github.com/willymaps/spoke)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 36 | 11 | 
 | 2022-10-16 | 37 | 11 | 
 | 2022-10-15 | 37 | 11 | 
 | 2022-10-14 | 37 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 37 | 11 | 
 | 2022-09-19 | 37 | 11 | 
 | 2022-09-18 | 37 | 11 | 
-| 2022-09-17 | 37 | 11 | 
 

@@ -1,6 +1,6 @@
 # Code-Pop/Touring-Vue-Router - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 47 | 137 | 
 | 2022-10-16 | 47 | 137 | 
 | 2022-10-15 | 47 | 136 | 
 | 2022-10-14 | 47 | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 48 | 132 | 
 | 2022-09-19 | 48 | 132 | 
 | 2022-09-18 | 48 | 132 | 
-| 2022-09-17 | 47 | 132 | 
 

@@ -1,10 +1,10 @@
 # sindresorhus/modern-normalize - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 319
+☋ Forks: 318
 
-★ Stars: 4581
+★ Stars: 4583
 
 [Open repository](https://github.com/sindresorhus/modern-normalize)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4583 | 318 | 
 | 2022-10-16 | 4581 | 319 | 
 | 2022-10-15 | 4579 | 319 | 
 | 2022-10-14 | 4577 | 319 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 4533 | 311 | 
 | 2022-09-20 | 4532 | 311 | 
 | 2022-09-18 | 4531 | 313 | 
-| 2022-09-17 | 4529 | 313 | 
 

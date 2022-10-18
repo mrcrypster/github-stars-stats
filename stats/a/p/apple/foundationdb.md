@@ -1,10 +1,10 @@
 # apple/foundationdb - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1158
 
-★ Stars: 11796
+★ Stars: 11798
 
 [Open repository](https://github.com/apple/foundationdb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 11798 | 1158 | 
 | 2022-10-16 | 11796 | 1158 | 
 | 2022-10-15 | 11796 | 1159 | 
 | 2022-10-14 | 11793 | 1159 | 

@@ -1,10 +1,10 @@
 # DataTables/DataTables - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2189
 
-★ Stars: 7087
+★ Stars: 7088
 
 [Open repository](https://github.com/DataTables/DataTables)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 7088 | 2189 | 
 | 2022-10-16 | 7087 | 2189 | 
 | 2022-10-15 | 7087 | 2189 | 
 | 2022-10-14 | 7087 | 2188 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 7071 | 2188 | 
 | 2022-09-19 | 7071 | 2188 | 
 | 2022-09-18 | 7071 | 2188 | 
-| 2022-09-17 | 7071 | 2188 | 
 

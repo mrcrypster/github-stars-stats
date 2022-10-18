@@ -1,6 +1,6 @@
 # shenshikexmu/IMUCalibration-Gesture - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 561 | 233 | 
 | 2022-10-17 | 561 | 233 | 
 | 2022-10-16 | 561 | 233 | 
 | 2022-10-15 | 561 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 552 | 230 | 
 | 2022-09-19 | 551 | 230 | 
 | 2022-09-18 | 551 | 230 | 
-| 2022-09-17 | 551 | 230 | 
 

@@ -1,10 +1,10 @@
 # d12frosted/vulpea - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 11
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/d12frosted/vulpea)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 154 | 11 | 
 | 2022-10-16 | 153 | 11 | 
 | 2022-10-15 | 153 | 11 | 
 | 2022-10-14 | 153 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 151 | 10 | 
 | 2022-09-19 | 150 | 10 | 
 | 2022-09-18 | 149 | 10 | 
-| 2022-09-17 | 149 | 10 | 
 

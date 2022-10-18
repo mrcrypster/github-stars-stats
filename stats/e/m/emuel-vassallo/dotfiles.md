@@ -1,6 +1,6 @@
 # emuel-vassallo/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 39 | 1 | 
 | 2022-10-16 | 39 | 1 | 
 | 2022-10-15 | 39 | 1 | 
 | 2022-10-14 | 39 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 41 | 2 | 
 | 2022-09-20 | 40 | 2 | 
 | 2022-09-19 | 40 | 2 | 
-| 2022-09-18 | 40 | 2 | 
 

@@ -1,6 +1,6 @@
 # Tencent/embedx - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 244 | 35 | 
 | 2022-10-16 | 244 | 35 | 
 | 2022-10-15 | 244 | 35 | 
 | 2022-10-14 | 244 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 241 | 35 | 
 | 2022-09-19 | 241 | 35 | 
 | 2022-09-18 | 241 | 35 | 
-| 2022-09-17 | 241 | 35 | 
 

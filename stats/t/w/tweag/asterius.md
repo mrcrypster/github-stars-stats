@@ -1,10 +1,10 @@
 # tweag/asterius - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 60
 
-★ Stars: 1983
+★ Stars: 1984
 
 [Open repository](https://github.com/tweag/asterius)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1984 | 60 | 
 | 2022-10-16 | 1983 | 60 | 
 | 2022-10-15 | 1983 | 60 | 
 | 2022-10-14 | 1982 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1970 | 60 | 
 | 2022-09-19 | 1969 | 60 | 
 | 2022-09-18 | 1968 | 60 | 
-| 2022-09-17 | 1968 | 60 | 
 

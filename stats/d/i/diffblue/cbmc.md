@@ -1,10 +1,10 @@
 # diffblue/cbmc - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 221
 
-★ Stars: 460
+★ Stars: 461
 
 [Open repository](https://github.com/diffblue/cbmc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 461 | 221 | 
 | 2022-10-16 | 460 | 221 | 
 | 2022-10-15 | 460 | 220 | 
 | 2022-10-14 | 460 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 456 | 220 | 
 | 2022-09-19 | 455 | 220 | 
 | 2022-09-18 | 455 | 220 | 
-| 2022-09-17 | 455 | 220 | 
 

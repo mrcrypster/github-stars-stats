@@ -1,10 +1,10 @@
 # dpo/mth6412b-starter-code - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 16
 
-★ Stars: 2
+★ Stars: 1
 
 [Open repository](https://github.com/dpo/mth6412b-starter-code)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1 | 16 | 
 | 2022-10-16 | 2 | 16 | 
 | 2022-10-15 | 2 | 16 | 
 | 2022-10-14 | 1 | 16 | 

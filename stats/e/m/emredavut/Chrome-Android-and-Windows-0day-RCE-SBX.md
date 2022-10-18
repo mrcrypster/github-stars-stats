@@ -1,6 +1,6 @@
 # emredavut/Chrome-Android-and-Windows-0day-RCE-SBX - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 134 | 43 | 
 | 2022-10-16 | 134 | 43 | 
 | 2022-10-15 | 134 | 43 | 
 | 2022-10-14 | 134 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 134 | 43 | 
 | 2022-09-19 | 134 | 43 | 
 | 2022-09-18 | 134 | 43 | 
-| 2022-09-17 | 134 | 43 | 
 

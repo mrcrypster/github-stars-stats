@@ -1,6 +1,6 @@
 # Azure/azure-functions-dotnet-worker - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 240 | 79 | 
 | 2022-10-16 | 240 | 79 | 
 | 2022-10-15 | 240 | 79 | 
 | 2022-10-14 | 240 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 229 | 76 | 
 | 2022-09-19 | 229 | 76 | 
 | 2022-09-18 | 227 | 76 | 
-| 2022-09-17 | 227 | 76 | 
 

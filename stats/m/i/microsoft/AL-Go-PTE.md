@@ -1,10 +1,10 @@
 # microsoft/AL-Go-PTE - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 20
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/microsoft/AL-Go-PTE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 28 | 20 | 
 | 2022-10-16 | 27 | 20 | 
 | 2022-10-15 | 27 | 20 | 
 | 2022-10-14 | 27 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 26 | 18 | 
 | 2022-09-19 | 26 | 18 | 
 | 2022-09-18 | 26 | 18 | 
-| 2022-09-17 | 26 | 18 | 
 

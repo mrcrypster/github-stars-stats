@@ -1,10 +1,10 @@
 # BeyondDimension/SteamTools - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 667
+☋ Forks: 668
 
-★ Stars: 10466
+★ Stars: 10480
 
 [Open repository](https://github.com/BeyondDimension/SteamTools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 10480 | 668 | 
 | 2022-10-16 | 10466 | 667 | 
 | 2022-10-15 | 10447 | 664 | 
 | 2022-10-14 | 10429 | 663 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 10092 | 644 | 
 | 2022-09-19 | 10086 | 643 | 
 | 2022-09-18 | 10082 | 643 | 
-| 2022-09-17 | 10073 | 642 | 
 

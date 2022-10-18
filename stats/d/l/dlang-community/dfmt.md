@@ -1,10 +1,10 @@
 # dlang-community/dfmt - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 43
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/dlang-community/dfmt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 185 | 43 | 
 | 2022-10-16 | 184 | 43 | 
 | 2022-10-15 | 184 | 43 | 
 | 2022-10-14 | 184 | 43 | 

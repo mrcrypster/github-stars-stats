@@ -1,6 +1,6 @@
 # HernanRodriguez1/MimikatzFUD - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 63 | 16 | 
 | 2022-10-16 | 63 | 16 | 
 | 2022-10-15 | 63 | 16 | 
 | 2022-10-14 | 63 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 61 | 15 | 
 | 2022-09-20 | 61 | 15 | 
 | 2022-09-19 | 61 | 15 | 
-| 2022-09-18 | 61 | 15 | 
 

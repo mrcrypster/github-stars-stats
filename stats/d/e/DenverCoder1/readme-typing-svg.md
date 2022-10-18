@@ -1,10 +1,10 @@
 # DenverCoder1/readme-typing-svg - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 309
+☋ Forks: 308
 
-★ Stars: 1620
+★ Stars: 1622
 
 [Open repository](https://github.com/DenverCoder1/readme-typing-svg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1622 | 308 | 
 | 2022-10-16 | 1620 | 309 | 
 | 2022-10-15 | 1617 | 305 | 
 | 2022-10-14 | 1610 | 305 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1488 | 280 | 
 | 2022-09-19 | 1481 | 280 | 
 | 2022-09-18 | 1471 | 280 | 
-| 2022-09-17 | 1469 | 277 | 
 

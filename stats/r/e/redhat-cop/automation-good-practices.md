@@ -1,6 +1,6 @@
 # redhat-cop/automation-good-practices - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 110 | 35 | 
 | 2022-10-16 | 110 | 35 | 
 | 2022-10-15 | 109 | 35 | 
 | 2022-10-14 | 109 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 103 | 35 | 
 | 2022-09-19 | 103 | 35 | 
 | 2022-09-18 | 103 | 35 | 
-| 2022-09-17 | 103 | 35 | 
 

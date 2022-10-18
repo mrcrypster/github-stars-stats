@@ -1,6 +1,6 @@
 # yarnpkg/yarn - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2865
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 40880 | 2865 | 
 | 2022-10-16 | 40880 | 2865 | 
 | 2022-10-15 | 40879 | 2864 | 
 | 2022-10-14 | 40875 | 2864 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 40846 | 2866 | 
 | 2022-09-19 | 40843 | 2865 | 
 | 2022-09-18 | 40841 | 2865 | 
-| 2022-09-17 | 40841 | 2865 | 
 

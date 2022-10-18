@@ -1,10 +1,10 @@
 # apache/tomcat - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 4298
+☋ Forks: 4296
 
-★ Stars: 6304
+★ Stars: 6305
 
 [Open repository](https://github.com/apache/tomcat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 6305 | 4296 | 
 | 2022-10-16 | 6304 | 4298 | 
 | 2022-10-15 | 6301 | 4296 | 
 | 2022-10-14 | 6299 | 4296 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 6271 | 4274 | 
 | 2022-09-19 | 6268 | 4273 | 
 | 2022-09-18 | 6267 | 4273 | 
-| 2022-09-17 | 6266 | 4274 | 
 

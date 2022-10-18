@@ -1,6 +1,6 @@
 # PayloadSecurity/Sandbox_Scryer - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 169 | 14 | 
 | 2022-10-16 | 169 | 14 | 
 | 2022-10-15 | 169 | 14 | 
 | 2022-10-14 | 169 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 153 | 12 | 
 | 2022-09-19 | 152 | 12 | 
 | 2022-09-18 | 150 | 11 | 
-| 2022-09-17 | 149 | 11 | 
 

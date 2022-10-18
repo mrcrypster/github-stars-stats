@@ -1,8 +1,8 @@
 # priya42bagde/JavaScriptCodingInterviewQuestions - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 105
+☋ Forks: 106
 
 ★ Stars: 221
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 221 | 106 | 
 | 2022-10-16 | 221 | 105 | 
 | 2022-10-15 | 221 | 105 | 
 | 2022-10-14 | 221 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 210 | 98 | 
 | 2022-09-19 | 209 | 98 | 
 | 2022-09-18 | 209 | 97 | 
-| 2022-09-17 | 209 | 97 | 
 

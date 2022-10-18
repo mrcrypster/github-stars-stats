@@ -1,10 +1,10 @@
 # mbugert/latex-network-diagram-template - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 8
 
-★ Stars: 126
+★ Stars: 125
 
 [Open repository](https://github.com/mbugert/latex-network-diagram-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 125 | 8 | 
 | 2022-10-16 | 126 | 8 | 
 | 2022-10-15 | 126 | 8 | 
 | 2022-10-14 | 126 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 124 | 8 | 
 | 2022-09-19 | 124 | 8 | 
 | 2022-09-18 | 124 | 8 | 
-| 2022-09-17 | 124 | 8 | 
 

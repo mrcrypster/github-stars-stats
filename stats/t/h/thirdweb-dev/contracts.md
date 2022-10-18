@@ -1,8 +1,8 @@
 # thirdweb-dev/contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 240
+☋ Forks: 241
 
 ★ Stars: 533
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 533 | 241 | 
 | 2022-10-16 | 533 | 240 | 
 | 2022-10-15 | 533 | 240 | 
 | 2022-10-14 | 533 | 239 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 500 | 228 | 
 | 2022-09-19 | 499 | 228 | 
 | 2022-09-18 | 499 | 228 | 
-| 2022-09-17 | 498 | 228 | 
 

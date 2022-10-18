@@ -1,10 +1,10 @@
 # AveYo/MediaCreationTool.bat - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 2036
+☋ Forks: 2037
 
-★ Stars: 4842
+★ Stars: 4862
 
 [Open repository](https://github.com/AveYo/MediaCreationTool.bat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4862 | 2037 | 
 | 2022-10-16 | 4842 | 2036 | 
 | 2022-10-15 | 4830 | 2030 | 
 | 2022-10-14 | 4811 | 2021 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4276 | 1862 | 
 | 2022-09-19 | 4268 | 1860 | 
 | 2022-09-18 | 4258 | 1857 | 
-| 2022-09-17 | 4251 | 1851 | 
 

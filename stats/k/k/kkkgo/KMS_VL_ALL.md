@@ -1,6 +1,6 @@
 # kkkgo/KMS_VL_ALL - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 398
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2490 | 398 | 
 | 2022-10-16 | 2490 | 398 | 
 | 2022-10-15 | 2485 | 397 | 
 | 2022-10-14 | 2484 | 397 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2462 | 394 | 
 | 2022-09-19 | 2461 | 394 | 
 | 2022-09-18 | 2457 | 393 | 
-| 2022-09-17 | 2454 | 394 | 
 

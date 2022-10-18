@@ -1,8 +1,8 @@
 # ASDS-TCD/StatsI_Fall2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 33 | 
 | 2022-10-16 | - | 32 | 
 | 2022-10-15 | - | 32 | 
 | 2022-10-14 | - | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | - | 20 | 
 | 2022-09-19 | - | 13 | 
 | 2022-09-18 | - | 13 | 
-| 2022-09-17 | - | 13 | 
 

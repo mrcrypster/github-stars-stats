@@ -1,10 +1,10 @@
 # MrMimic/data-scientist-roadmap - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1623
 
-★ Stars: 5552
+★ Stars: 5558
 
 [Open repository](https://github.com/MrMimic/data-scientist-roadmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 5558 | 1623 | 
 | 2022-10-16 | 5552 | 1623 | 
 | 2022-10-15 | 5548 | 1621 | 
 | 2022-10-14 | 5541 | 1619 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 5492 | 1615 | 
 | 2022-09-19 | 5490 | 1615 | 
 | 2022-09-18 | 5491 | 1616 | 
-| 2022-09-17 | 5490 | 1616 | 
 

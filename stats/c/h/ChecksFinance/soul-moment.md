@@ -1,10 +1,10 @@
 # ChecksFinance/soul-moment - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/ChecksFinance/soul-moment)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 38 | - | 
 | 2022-10-16 | 37 | - | 
 | 2022-10-15 | 37 | - | 
 | 2022-10-14 | 37 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 36 | - | 
 | 2022-09-19 | 36 | - | 
 | 2022-09-18 | 36 | - | 
-| 2022-09-17 | 36 | - | 
 

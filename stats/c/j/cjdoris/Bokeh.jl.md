@@ -1,10 +1,10 @@
 # cjdoris/Bokeh.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/cjdoris/Bokeh.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 60 | 2 | 
 | 2022-10-16 | 59 | 2 | 
 | 2022-10-15 | 59 | 2 | 
 | 2022-10-14 | 59 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 53 | 1 | 
 | 2022-09-19 | 53 | 1 | 
 | 2022-09-18 | 53 | 1 | 
-| 2022-09-17 | 53 | 1 | 
 

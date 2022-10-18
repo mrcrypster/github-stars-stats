@@ -1,8 +1,8 @@
 # microsoft/azure-health-data-services-workshop - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 32 | 22 | 
 | 2022-10-16 | 32 | 21 | 
 | 2022-10-15 | 32 | 21 | 
 | 2022-10-14 | 32 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 32 | 20 | 
 | 2022-09-19 | 32 | 20 | 
 | 2022-09-18 | 32 | 20 | 
-| 2022-09-17 | 32 | 20 | 
 

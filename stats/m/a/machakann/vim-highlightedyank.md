@@ -1,10 +1,10 @@
 # machakann/vim-highlightedyank - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 22
 
-★ Stars: 752
+★ Stars: 753
 
 [Open repository](https://github.com/machakann/vim-highlightedyank)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 753 | 22 | 
 | 2022-10-16 | 752 | 22 | 
 | 2022-10-15 | 752 | 22 | 
 | 2022-10-14 | 752 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 752 | 22 | 
 | 2022-09-19 | 752 | 22 | 
 | 2022-09-18 | 752 | 22 | 
-| 2022-09-17 | 752 | 22 | 
 

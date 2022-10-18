@@ -1,8 +1,8 @@
 # aymanebenhima/YouCodeScrumBoard - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1 | 8 | 
 | 2022-10-16 | 1 | 7 | 
 | 2022-10-15 | 1 | 7 | 
 | 2022-10-14 | - | 7 | 

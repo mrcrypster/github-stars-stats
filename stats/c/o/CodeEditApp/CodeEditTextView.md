@@ -1,10 +1,10 @@
 # CodeEditApp/CodeEditTextView - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 20
 
-★ Stars: 182
+★ Stars: 184
 
 [Open repository](https://github.com/CodeEditApp/CodeEditTextView)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 184 | 20 | 
 | 2022-10-16 | 182 | 20 | 
 | 2022-10-15 | 182 | 20 | 
 | 2022-10-14 | 181 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 148 | 17 | 
 | 2022-09-19 | 148 | 17 | 
 | 2022-09-18 | 148 | 17 | 
-| 2022-09-17 | 148 | 17 | 
 

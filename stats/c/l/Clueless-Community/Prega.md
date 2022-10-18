@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 17
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/Clueless-Community/Prega)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-17 | 21 | 18 | 
+| 2022-10-17 | 22 | 19 | 
 | 2022-10-16 | 21 | 18 | 
 

@@ -1,6 +1,6 @@
 # NLKNguyen/papercolor-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2346 | 214 | 
 | 2022-10-16 | 2346 | 214 | 
 | 2022-10-15 | 2344 | 214 | 
 | 2022-10-14 | 2344 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2325 | 211 | 
 | 2022-09-19 | 2325 | 211 | 
 | 2022-09-18 | 2324 | 211 | 
-| 2022-09-17 | 2323 | 211 | 
 

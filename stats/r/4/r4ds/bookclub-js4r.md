@@ -1,8 +1,8 @@
 # r4ds/bookclub-js4r - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | - | 4 | 
 | 2022-10-17 | - | 5 | 
 | 2022-10-16 | - | 5 | 
 | 2022-10-15 | - | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | - | 5 | 
 | 2022-09-19 | - | 5 | 
 | 2022-09-18 | - | 5 | 
-| 2022-09-17 | - | 5 | 
 

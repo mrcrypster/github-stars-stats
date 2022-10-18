@@ -1,10 +1,10 @@
 # thevivekpande/StriverSDESheetChallange - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 22
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/thevivekpande/StriverSDESheetChallange)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 56 | 22 | 
 | 2022-10-16 | 55 | 22 | 
 | 2022-10-15 | 55 | 22 | 
 | 2022-10-14 | 55 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 54 | 22 | 
 | 2022-09-19 | 54 | 22 | 
 | 2022-09-18 | 54 | 22 | 
-| 2022-09-17 | 54 | 22 | 
 

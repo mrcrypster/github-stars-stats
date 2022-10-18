@@ -1,10 +1,10 @@
 # StaZhu/enable-chromium-hevc-hardware-decoding - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 637
+★ Stars: 641
 
 [Open repository](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 641 | 32 | 
 | 2022-10-16 | 637 | 31 | 
 | 2022-10-15 | 637 | 31 | 
 | 2022-10-14 | 636 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 598 | 30 | 
 | 2022-09-19 | 598 | 30 | 
 | 2022-09-18 | 597 | 30 | 
-| 2022-09-17 | 596 | 30 | 
 

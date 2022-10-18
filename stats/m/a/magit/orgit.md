@@ -1,6 +1,6 @@
 # magit/orgit - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 190 | 13 | 
 | 2022-10-16 | 190 | 13 | 
 | 2022-10-15 | 189 | 13 | 
 | 2022-10-14 | 189 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 188 | 13 | 
 | 2022-09-19 | 188 | 13 | 
 | 2022-09-18 | 188 | 13 | 
-| 2022-09-17 | 189 | 13 | 
 

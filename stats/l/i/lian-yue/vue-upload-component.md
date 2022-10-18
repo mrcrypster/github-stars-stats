@@ -1,10 +1,10 @@
 # lian-yue/vue-upload-component - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 689
 
-★ Stars: 2539
+★ Stars: 2540
 
 [Open repository](https://github.com/lian-yue/vue-upload-component)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2540 | 689 | 
 | 2022-10-16 | 2539 | 689 | 
 | 2022-10-15 | 2539 | 689 | 
 | 2022-10-14 | 2538 | 689 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2535 | 686 | 
 | 2022-09-19 | 2534 | 686 | 
 | 2022-09-18 | 2534 | 686 | 
-| 2022-09-17 | 2534 | 686 | 
 

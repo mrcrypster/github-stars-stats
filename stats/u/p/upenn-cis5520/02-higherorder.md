@@ -1,6 +1,6 @@
 # upenn-cis5520/02-higherorder - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 20 | 
 | 2022-10-16 | - | 20 | 
 | 2022-10-15 | - | 20 | 
 | 2022-10-14 | - | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | - | 19 | 
 | 2022-09-19 | - | 19 | 
 | 2022-09-18 | - | 19 | 
-| 2022-09-17 | - | 19 | 
 

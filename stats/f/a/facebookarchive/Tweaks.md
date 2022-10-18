@@ -1,6 +1,6 @@
 # facebookarchive/Tweaks - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4754 | 441 | 
 | 2022-10-16 | 4754 | 441 | 
 | 2022-10-15 | 4756 | 441 | 
 | 2022-10-14 | 4756 | 441 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4758 | 442 | 
 | 2022-09-19 | 4758 | 442 | 
 | 2022-09-18 | 4758 | 442 | 
-| 2022-09-17 | 4758 | 442 | 
 

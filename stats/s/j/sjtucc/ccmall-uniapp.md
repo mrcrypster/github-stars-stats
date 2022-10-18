@@ -1,6 +1,6 @@
 # sjtucc/ccmall-uniapp - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 127 | 28 | 
 | 2022-10-17 | 127 | 28 | 
 | 2022-10-16 | 127 | 28 | 
 | 2022-10-15 | 127 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 127 | 27 | 
 | 2022-09-19 | 127 | 27 | 
 | 2022-09-18 | 127 | 27 | 
-| 2022-09-17 | 127 | 27 | 
 

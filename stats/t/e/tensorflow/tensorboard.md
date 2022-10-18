@@ -1,6 +1,6 @@
 # tensorflow/tensorboard - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1542
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 5997 | 1542 | 
 | 2022-10-16 | 5997 | 1542 | 
 | 2022-10-15 | 5996 | 1542 | 
 | 2022-10-14 | 5996 | 1542 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 5985 | 1537 | 
 | 2022-09-20 | 5983 | 1537 | 
 | 2022-09-19 | 5982 | 1537 | 
-| 2022-09-18 | 5982 | 1537 | 
 

@@ -1,10 +1,10 @@
 # jamstack/jamstack.org - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 581
 
-★ Stars: 2399
+★ Stars: 2401
 
 [Open repository](https://github.com/jamstack/jamstack.org)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2401 | 581 | 
 | 2022-10-16 | 2399 | 581 | 
 | 2022-10-15 | 2400 | 581 | 
 | 2022-10-14 | 2399 | 581 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2374 | 570 | 
 | 2022-09-19 | 2373 | 570 | 
 | 2022-09-18 | 2372 | 571 | 
-| 2022-09-17 | 2373 | 571 | 
 

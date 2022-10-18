@@ -1,8 +1,8 @@
 # containers/bubblewrap - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 185
+☋ Forks: 186
 
 ★ Stars: 2746
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2746 | 186 | 
 | 2022-10-16 | 2746 | 185 | 
 | 2022-10-15 | 2743 | 185 | 
 | 2022-10-14 | 2742 | 185 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2721 | 183 | 
 | 2022-09-19 | 2717 | 183 | 
 | 2022-09-18 | 2715 | 183 | 
-| 2022-09-17 | 2714 | 183 | 
 

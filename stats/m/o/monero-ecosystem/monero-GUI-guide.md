@@ -1,6 +1,6 @@
 # monero-ecosystem/monero-GUI-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 63 | 38 | 
 | 2022-10-16 | 63 | 38 | 
 | 2022-10-15 | 63 | 38 | 
 | 2022-10-14 | 63 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 62 | 38 | 
 | 2022-09-19 | 62 | 38 | 
 | 2022-09-18 | 62 | 38 | 
-| 2022-09-17 | 62 | 38 | 
 

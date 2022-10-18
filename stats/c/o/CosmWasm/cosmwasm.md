@@ -1,10 +1,10 @@
 # CosmWasm/cosmwasm - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 200
+☋ Forks: 201
 
-★ Stars: 750
+★ Stars: 751
 
 [Open repository](https://github.com/CosmWasm/cosmwasm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 751 | 201 | 
 | 2022-10-16 | 750 | 200 | 
 | 2022-10-15 | 750 | 200 | 
 | 2022-10-14 | 750 | 199 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 728 | 189 | 
 | 2022-09-19 | 728 | 189 | 
 | 2022-09-18 | 728 | 188 | 
-| 2022-09-17 | 728 | 188 | 
 

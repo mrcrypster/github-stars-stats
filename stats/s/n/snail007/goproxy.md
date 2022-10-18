@@ -1,10 +1,10 @@
 # snail007/goproxy - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 2576
+☋ Forks: 2580
 
-★ Stars: 12857
+★ Stars: 12862
 
 [Open repository](https://github.com/snail007/goproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 12862 | 2580 | 
 | 2022-10-16 | 12857 | 2576 | 
 | 2022-10-15 | 12853 | 2575 | 
 | 2022-10-14 | 12848 | 2575 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 12720 | 2541 | 
 | 2022-09-19 | 12717 | 2538 | 
 | 2022-09-18 | 12713 | 2538 | 
-| 2022-09-17 | 12710 | 2538 | 
 

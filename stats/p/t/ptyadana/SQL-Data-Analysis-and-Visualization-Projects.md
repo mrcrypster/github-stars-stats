@@ -1,10 +1,10 @@
 # ptyadana/SQL-Data-Analysis-and-Visualization-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 227
 
-★ Stars: 441
+★ Stars: 442
 
 [Open repository](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 442 | 227 | 
 | 2022-10-16 | 441 | 227 | 
 | 2022-10-15 | 437 | 227 | 
 | 2022-10-14 | 434 | 225 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 399 | 210 | 
 | 2022-09-19 | 399 | 210 | 
 | 2022-09-18 | 394 | 207 | 
-| 2022-09-17 | 387 | 202 | 
 

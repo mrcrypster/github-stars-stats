@@ -1,6 +1,6 @@
 # ossf/package-analysis - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 538 | 37 | 
 | 2022-10-16 | 538 | 37 | 
 | 2022-10-15 | 537 | 37 | 
 | 2022-10-14 | 537 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 522 | 34 | 
 | 2022-09-19 | 521 | 34 | 
 | 2022-09-18 | 521 | 33 | 
-| 2022-09-17 | 521 | 33 | 
 

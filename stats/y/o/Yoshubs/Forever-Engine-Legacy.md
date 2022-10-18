@@ -1,8 +1,8 @@
 # Yoshubs/Forever-Engine-Legacy - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 130
+☋ Forks: 133
 
 ★ Stars: 101
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 101 | 133 | 
 | 2022-10-16 | 101 | 130 | 
 | 2022-10-15 | 101 | 130 | 
 | 2022-10-14 | 101 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 95 | 120 | 
 | 2022-09-19 | 95 | 119 | 
 | 2022-09-18 | 95 | 119 | 
-| 2022-09-17 | 95 | 116 | 
 

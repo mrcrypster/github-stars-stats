@@ -1,10 +1,10 @@
 # wesbos/beginner-javascript - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1434
 
-★ Stars: 5712
+★ Stars: 5715
 
 [Open repository](https://github.com/wesbos/beginner-javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 5715 | 1434 | 
 | 2022-10-16 | 5712 | 1434 | 
 | 2022-10-15 | 5710 | 1434 | 
 | 2022-10-14 | 5707 | 1433 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 5673 | 1420 | 
 | 2022-09-20 | 5671 | 1419 | 
 | 2022-09-19 | 5669 | 1418 | 
-| 2022-09-18 | 5668 | 1418 | 
 

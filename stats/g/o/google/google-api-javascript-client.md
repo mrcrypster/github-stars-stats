@@ -1,10 +1,10 @@
 # google/google-api-javascript-client - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1011
 
-★ Stars: 2469
+★ Stars: 2470
 
 [Open repository](https://github.com/google/google-api-javascript-client)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2470 | 1011 | 
 | 2022-10-16 | 2469 | 1011 | 
 | 2022-10-15 | 2466 | 1010 | 
 | 2022-10-14 | 2465 | 1010 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 2436 | 998 | 
 | 2022-09-20 | 2437 | 998 | 
 | 2022-09-19 | 2433 | 997 | 
-| 2022-09-18 | 2433 | 997 | 
 

@@ -1,10 +1,10 @@
 # ProjectDimlight/RuCalculus - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 3
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/ProjectDimlight/RuCalculus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 53 | 3 | 
 | 2022-10-16 | 52 | 3 | 
 | 2022-10-15 | 52 | 3 | 
 | 2022-10-14 | 52 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 50 | 3 | 
 | 2022-09-19 | 50 | 3 | 
 | 2022-09-18 | 50 | 3 | 
-| 2022-09-17 | 50 | 3 | 
 

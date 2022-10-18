@@ -1,6 +1,6 @@
 # grafana/tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 97 | 26 | 
 | 2022-10-16 | 97 | 26 | 
 | 2022-10-15 | 97 | 26 | 
 | 2022-10-14 | 97 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 96 | 25 | 
 | 2022-09-19 | 96 | 25 | 
 | 2022-09-18 | 96 | 25 | 
-| 2022-09-17 | 96 | 25 | 
 

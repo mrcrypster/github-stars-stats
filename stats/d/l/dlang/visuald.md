@@ -1,6 +1,6 @@
 # dlang/visuald - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 277 | 73 | 
 | 2022-10-16 | 277 | 73 | 
 | 2022-10-15 | 277 | 73 | 
 | 2022-10-14 | 277 | 73 | 

@@ -1,10 +1,10 @@
 # foamzou/melody - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 145
+☋ Forks: 144
 
-★ Stars: 1698
+★ Stars: 1707
 
 [Open repository](https://github.com/foamzou/melody)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1707 | 144 | 
 | 2022-10-16 | 1698 | 145 | 
 | 2022-10-15 | 1695 | 144 | 
 | 2022-10-14 | 1691 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1454 | 125 | 
 | 2022-09-19 | 1453 | 124 | 
 | 2022-09-18 | 1449 | 124 | 
-| 2022-09-17 | 1446 | 124 | 
 

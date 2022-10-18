@@ -1,10 +1,10 @@
 # rescript-association/reanalyze - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 17
 
-★ Stars: 238
+★ Stars: 240
 
 [Open repository](https://github.com/rescript-association/reanalyze)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 240 | 17 | 
 | 2022-10-16 | 238 | 17 | 
 | 2022-10-15 | 238 | 17 | 
 | 2022-10-14 | 238 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 235 | 16 | 
 | 2022-09-19 | 235 | 16 | 
 | 2022-09-18 | 235 | 16 | 
-| 2022-09-17 | 235 | 16 | 
 

@@ -1,6 +1,6 @@
 # SchneeHertz/exhentai-manga-manager - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 256 | 7 | 
 | 2022-10-16 | 256 | 7 | 
 | 2022-10-15 | 255 | 7 | 
 | 2022-10-14 | 253 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 234 | 7 | 
 | 2022-09-19 | 230 | 7 | 
 | 2022-09-18 | 229 | 7 | 
-| 2022-09-17 | 227 | 7 | 
 

@@ -1,10 +1,10 @@
 # composite-hs/composite - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/composite-hs/composite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4 | 2 | 
 | 2022-10-16 | 3 | 2 | 
 | 2022-10-15 | 3 | 2 | 
 | 2022-10-14 | 3 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3 | 2 | 
 | 2022-09-19 | 3 | 2 | 
 | 2022-09-18 | 3 | 2 | 
-| 2022-09-17 | 3 | 2 | 
 

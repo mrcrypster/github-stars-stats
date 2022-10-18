@@ -1,10 +1,10 @@
 # EpicGames/Signup - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 2641
 
-★ Stars: 2544
+★ Stars: 2546
 
 [Open repository](https://github.com/EpicGames/Signup)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2546 | 2641 | 
 | 2022-10-16 | 2544 | 2641 | 
 | 2022-10-15 | 2544 | 2641 | 
 | 2022-10-14 | 2544 | 2640 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2523 | 2635 | 
 | 2022-09-19 | 2521 | 2636 | 
 | 2022-09-18 | 2521 | 2634 | 
-| 2022-09-17 | 2520 | 2634 | 
 

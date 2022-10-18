@@ -1,8 +1,8 @@
 # zino-hofmann/graphql-flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 530
+☋ Forks: 531
 
 ★ Stars: 3035
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3035 | 531 | 
 | 2022-10-16 | 3035 | 530 | 
 | 2022-10-15 | 3035 | 530 | 
 | 2022-10-14 | 3035 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3022 | 525 | 
 | 2022-09-19 | 3021 | 525 | 
 | 2022-09-18 | 3021 | 525 | 
-| 2022-09-17 | 3020 | 525 | 
 

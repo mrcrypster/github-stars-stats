@@ -1,10 +1,10 @@
 # Ayatans/Machine-Learning-homework - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 613
+☋ Forks: 612
 
-★ Stars: 1457
+★ Stars: 1458
 
 [Open repository](https://github.com/Ayatans/Machine-Learning-homework)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1458 | 612 | 
 | 2022-10-16 | 1457 | 613 | 
 | 2022-10-15 | 1457 | 613 | 
 | 2022-10-14 | 1455 | 613 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1400 | 599 | 
 | 2022-09-19 | 1397 | 599 | 
 | 2022-09-18 | 1394 | 599 | 
-| 2022-09-17 | 1392 | 599 | 
 

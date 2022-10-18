@@ -1,6 +1,6 @@
 # seanap/Plex-Audiobook-Guide - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 744 | 30 | 
 | 2022-10-16 | 744 | 30 | 
 | 2022-10-15 | 743 | 29 | 
 | 2022-10-14 | 743 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 713 | 28 | 
 | 2022-09-19 | 712 | 28 | 
 | 2022-09-18 | 711 | 28 | 
-| 2022-09-17 | 711 | 28 | 
 

@@ -1,8 +1,8 @@
 # CyberSecurityUP/Cloud-Security-Attacks - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 285
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 285 | 53 | 
 | 2022-10-16 | 285 | 52 | 
 | 2022-10-15 | 283 | 52 | 
 | 2022-10-14 | 275 | 51 | 

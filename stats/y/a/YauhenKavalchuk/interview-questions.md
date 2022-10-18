@@ -1,10 +1,10 @@
 # YauhenKavalchuk/interview-questions - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 365
 
-★ Stars: 2824
+★ Stars: 2828
 
 [Open repository](https://github.com/YauhenKavalchuk/interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2828 | 365 | 
 | 2022-10-16 | 2824 | 365 | 
 | 2022-10-15 | 2821 | 366 | 
 | 2022-10-14 | 2818 | 365 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2767 | 352 | 
 | 2022-09-19 | 2764 | 351 | 
 | 2022-09-18 | 2757 | 350 | 
-| 2022-09-17 | 2752 | 350 | 
 

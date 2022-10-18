@@ -1,6 +1,6 @@
 # pyramation/postgres-ast-deparser - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 29 | 5 | 
 | 2022-10-16 | 29 | 5 | 
 | 2022-10-15 | 29 | 5 | 
 | 2022-10-14 | 29 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 28 | 4 | 
 | 2022-09-20 | 28 | 4 | 
 | 2022-09-19 | 28 | 4 | 
-| 2022-09-18 | 28 | 4 | 
 

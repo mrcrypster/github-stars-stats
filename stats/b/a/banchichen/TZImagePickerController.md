@@ -1,10 +1,10 @@
 # banchichen/TZImagePickerController - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1811
 
-★ Stars: 7872
+★ Stars: 7873
 
 [Open repository](https://github.com/banchichen/TZImagePickerController)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 7873 | 1811 | 
 | 2022-10-16 | 7872 | 1811 | 
 | 2022-10-15 | 7872 | 1811 | 
 | 2022-10-14 | 7872 | 1811 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 7858 | 1810 | 
 | 2022-09-19 | 7857 | 1808 | 
 | 2022-09-18 | 7857 | 1806 | 
-| 2022-09-17 | 7857 | 1806 | 
 

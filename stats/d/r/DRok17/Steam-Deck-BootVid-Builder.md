@@ -1,10 +1,10 @@
 # DRok17/Steam-Deck-BootVid-Builder - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/DRok17/Steam-Deck-BootVid-Builder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 32 | - | 
 | 2022-10-16 | 31 | - | 
 | 2022-10-15 | 31 | - | 
 | 2022-10-14 | 31 | - | 

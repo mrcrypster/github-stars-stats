@@ -1,6 +1,6 @@
 # vmware/open-vm-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 382
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1843 | 382 | 
 | 2022-10-16 | 1843 | 382 | 
 | 2022-10-15 | 1842 | 382 | 
 | 2022-10-14 | 1842 | 382 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 1827 | 378 | 
 | 2022-09-20 | 1827 | 378 | 
 | 2022-09-19 | 1823 | 378 | 
-| 2022-09-18 | 1823 | 378 | 
 

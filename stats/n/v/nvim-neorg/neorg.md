@@ -1,10 +1,10 @@
 # nvim-neorg/neorg - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 2847
+★ Stars: 2853
 
 [Open repository](https://github.com/nvim-neorg/neorg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2853 | 89 | 
 | 2022-10-16 | 2847 | 88 | 
 | 2022-10-15 | 2843 | 88 | 
 | 2022-10-14 | 2841 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2696 | 81 | 
 | 2022-09-19 | 2696 | 81 | 
 | 2022-09-18 | 2692 | 81 | 
-| 2022-09-17 | 2689 | 81 | 
 

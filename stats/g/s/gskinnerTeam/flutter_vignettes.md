@@ -1,10 +1,10 @@
 # gskinnerTeam/flutter_vignettes - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 851
 
-★ Stars: 3804
+★ Stars: 3807
 
 [Open repository](https://github.com/gskinnerTeam/flutter_vignettes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3807 | 851 | 
 | 2022-10-16 | 3804 | 851 | 
 | 2022-10-15 | 3803 | 851 | 
 | 2022-10-14 | 3801 | 851 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3717 | 839 | 
 | 2022-09-19 | 3714 | 838 | 
 | 2022-09-18 | 3710 | 838 | 
-| 2022-09-17 | 3707 | 838 | 
 

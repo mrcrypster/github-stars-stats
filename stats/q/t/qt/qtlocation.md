@@ -1,6 +1,6 @@
 # qt/qtlocation - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 35 | 63 | 
 | 2022-10-16 | 35 | 63 | 
 | 2022-10-15 | 35 | 63 | 
 | 2022-10-14 | 35 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 35 | 62 | 
 | 2022-09-19 | 35 | 62 | 
 | 2022-09-18 | 35 | 62 | 
-| 2022-09-17 | 35 | 61 | 
 

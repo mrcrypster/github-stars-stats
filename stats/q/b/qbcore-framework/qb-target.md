@@ -1,8 +1,8 @@
 # qbcore-framework/qb-target - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 206
+☋ Forks: 205
 
 ★ Stars: 74
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 74 | 205 | 
 | 2022-10-16 | 74 | 206 | 
 | 2022-10-15 | 74 | 207 | 
 | 2022-10-14 | 74 | 207 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 73 | 206 | 
 | 2022-09-19 | 73 | 205 | 
 | 2022-09-18 | 73 | 204 | 
-| 2022-09-17 | 73 | 203 | 
 

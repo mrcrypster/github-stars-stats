@@ -1,6 +1,6 @@
 # homalg-project/homalg_project - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 9 | 16 | 
 | 2022-10-16 | 9 | 16 | 
 | 2022-10-15 | 9 | 16 | 
 | 2022-10-14 | 9 | 16 | 

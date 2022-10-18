@@ -1,6 +1,6 @@
 # symfony/config - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3928 | 39 | 
 | 2022-10-16 | 3928 | 39 | 
 | 2022-10-15 | 3928 | 39 | 
 | 2022-10-14 | 3927 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3906 | 37 | 
 | 2022-09-19 | 3905 | 37 | 
 | 2022-09-18 | 3902 | 37 | 
-| 2022-09-17 | 3902 | 37 | 
 

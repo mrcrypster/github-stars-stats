@@ -1,10 +1,10 @@
 # status-im/status-react - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 916
 
-★ Stars: 3529
+★ Stars: 3530
 
 [Open repository](https://github.com/status-im/status-react)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3530 | 916 | 
 | 2022-10-16 | 3529 | 916 | 
 | 2022-10-15 | 3527 | 916 | 
 | 2022-10-14 | 3527 | 916 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3511 | 910 | 
 | 2022-09-19 | 3511 | 910 | 
 | 2022-09-18 | 3512 | 909 | 
-| 2022-09-17 | 3511 | 909 | 
 

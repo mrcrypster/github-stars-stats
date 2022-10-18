@@ -1,6 +1,6 @@
 # pcaversaccio/snekmate - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 124 | 6 | 
 | 2022-10-16 | 124 | 6 | 
 | 2022-10-15 | 124 | 6 | 
 | 2022-10-14 | 124 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 90 | 5 | 
 | 2022-09-20 | 89 | 5 | 
 | 2022-09-19 | 89 | 5 | 
-| 2022-09-18 | 89 | 5 | 
 

@@ -1,10 +1,10 @@
 # firedancer-io/firedancer - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 20
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/firedancer-io/firedancer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 201 | 20 | 
 | 2022-10-16 | 200 | 20 | 
 | 2022-10-15 | 201 | 20 | 
 | 2022-10-14 | 200 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 189 | 17 | 
 | 2022-09-20 | 189 | 17 | 
 | 2022-09-19 | 189 | 17 | 
-| 2022-09-18 | 190 | 17 | 
 

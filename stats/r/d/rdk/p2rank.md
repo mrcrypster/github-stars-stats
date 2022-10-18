@@ -1,6 +1,6 @@
 # rdk/p2rank - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 113 | 23 | 
 | 2022-10-16 | 113 | 23 | 
 | 2022-10-15 | 113 | 23 | 
 | 2022-10-14 | 113 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 103 | 22 | 
 | 2022-09-19 | 103 | 22 | 
 | 2022-09-18 | 103 | 22 | 
-| 2022-09-17 | 103 | 22 | 
 

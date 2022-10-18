@@ -1,10 +1,10 @@
 # berthubert/googerteller - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 101
+☋ Forks: 102
 
-★ Stars: 1982
+★ Stars: 1983
 
 [Open repository](https://github.com/berthubert/googerteller)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1983 | 102 | 
 | 2022-10-16 | 1982 | 101 | 
 | 2022-10-15 | 1982 | 101 | 
 | 2022-10-14 | 1981 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 1949 | 97 | 
 | 2022-09-20 | 1935 | 96 | 
 | 2022-09-19 | 1934 | 96 | 
-| 2022-09-18 | 1931 | 96 | 
 

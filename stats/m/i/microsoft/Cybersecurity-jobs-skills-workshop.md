@@ -1,6 +1,6 @@
 # microsoft/Cybersecurity-jobs-skills-workshop - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 100 | 7 | 
 | 2022-10-16 | 100 | 7 | 
 | 2022-10-15 | 100 | 7 | 
 | 2022-10-14 | 100 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 95 | 7 | 
 | 2022-09-20 | 95 | 7 | 
 | 2022-09-19 | 95 | 7 | 
-| 2022-09-18 | 95 | 7 | 
 

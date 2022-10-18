@@ -1,10 +1,10 @@
 # mercurius-js/mercurius - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 211
 
-★ Stars: 1896
+★ Stars: 1898
 
 [Open repository](https://github.com/mercurius-js/mercurius)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1898 | 211 | 
 | 2022-10-16 | 1896 | 211 | 
 | 2022-10-15 | 1896 | 211 | 
 | 2022-10-14 | 1896 | 211 | 

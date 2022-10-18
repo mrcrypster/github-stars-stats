@@ -1,10 +1,10 @@
 # yinwang0/historical - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 21
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/yinwang0/historical)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 17 | 21 | 
 | 2022-10-17 | 18 | 21 | 
 | 2022-10-16 | 18 | 21 | 
 | 2022-10-15 | 18 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 18 | 20 | 
 | 2022-09-19 | 18 | 20 | 
 | 2022-09-18 | 18 | 20 | 
-| 2022-09-17 | 18 | 20 | 
 

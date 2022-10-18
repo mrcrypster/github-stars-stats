@@ -1,10 +1,10 @@
 # slyd0g/DLLHijackTest - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 52
 
-★ Stars: 282
+★ Stars: 283
 
 [Open repository](https://github.com/slyd0g/DLLHijackTest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 283 | 52 | 
 | 2022-10-16 | 282 | 52 | 
 | 2022-10-15 | 281 | 52 | 
 | 2022-10-14 | 278 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 271 | 51 | 
 | 2022-09-19 | 266 | 51 | 
 | 2022-09-18 | 265 | 51 | 
-| 2022-09-17 | 265 | 51 | 
 

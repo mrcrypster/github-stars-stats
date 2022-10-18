@@ -1,10 +1,10 @@
 # christikat/glow_crafting - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 13
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/christikat/glow_crafting)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 14 | 13 | 
 | 2022-10-16 | 12 | 13 | 
 | 2022-10-15 | 11 | 13 | 
 | 2022-10-14 | 7 | 12 | 

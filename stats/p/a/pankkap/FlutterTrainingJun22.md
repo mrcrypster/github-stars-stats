@@ -1,6 +1,6 @@
 # pankkap/FlutterTrainingJun22 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3 | 36 | 
 | 2022-10-16 | 3 | 36 | 
 | 2022-10-15 | 3 | 36 | 
 | 2022-10-14 | 3 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3 | 36 | 
 | 2022-09-19 | 3 | 36 | 
 | 2022-09-18 | 3 | 36 | 
-| 2022-09-17 | 3 | 36 | 
 

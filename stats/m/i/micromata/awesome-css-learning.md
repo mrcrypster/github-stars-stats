@@ -1,10 +1,10 @@
 # micromata/awesome-css-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 179
 
-★ Stars: 2346
+★ Stars: 2347
 
 [Open repository](https://github.com/micromata/awesome-css-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2347 | 179 | 
 | 2022-10-16 | 2346 | 179 | 
 | 2022-10-15 | 2342 | 179 | 
 | 2022-10-14 | 2340 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 2305 | 177 | 
 | 2022-09-20 | 2305 | 177 | 
 | 2022-09-19 | 2302 | 177 | 
-| 2022-09-18 | 2298 | 176 | 
 

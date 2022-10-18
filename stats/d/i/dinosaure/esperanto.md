@@ -1,10 +1,10 @@
 # dinosaure/esperanto - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/dinosaure/esperanto)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 73 | 1 | 
 | 2022-10-16 | 72 | 1 | 
 | 2022-10-15 | 72 | 1 | 
 | 2022-10-14 | 72 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 68 | 1 | 
 | 2022-09-19 | 64 | 1 | 
 | 2022-09-18 | 64 | 1 | 
-| 2022-09-17 | 64 | 1 | 
 

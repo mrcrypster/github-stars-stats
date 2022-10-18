@@ -1,8 +1,8 @@
 # aitoss/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 15
+☋ Forks: 17
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | - | 17 | 
 | 2022-10-16 | - | 15 | 
 | 2022-10-15 | - | 14 | 
 | 2022-10-14 | - | 15 | 

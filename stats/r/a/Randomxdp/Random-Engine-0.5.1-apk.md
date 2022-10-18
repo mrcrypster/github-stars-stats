@@ -1,6 +1,6 @@
 # Randomxdp/Random-Engine-0.5.1-apk - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 3 | 5 | 
 | 2022-10-17 | 3 | 5 | 
 | 2022-10-16 | 3 | 5 | 
 | 2022-10-15 | 3 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-20 | 3 | 4 | 
 | 2022-09-19 | 3 | 4 | 
 | 2022-09-18 | 3 | 4 | 
-| 2022-09-17 | 3 | 4 | 
 

@@ -1,10 +1,10 @@
 # Simplicity-Team/SimplicityTools - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/Simplicity-Team/SimplicityTools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 301 | 37 | 
 | 2022-10-16 | 300 | 36 | 
 | 2022-10-15 | 300 | 36 | 
 | 2022-10-14 | 297 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 283 | 32 | 
 | 2022-09-19 | 283 | 32 | 
 | 2022-09-18 | 282 | 32 | 
-| 2022-09-17 | 282 | 32 | 
 

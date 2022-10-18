@@ -1,10 +1,10 @@
 # yann0917/dedao-dl - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 207
+★ Stars: 208
 
 [Open repository](https://github.com/yann0917/dedao-dl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 208 | 47 | 
 | 2022-10-16 | 207 | 46 | 
 | 2022-10-15 | 207 | 45 | 
 | 2022-10-14 | 207 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 199 | 45 | 
 | 2022-09-19 | 198 | 45 | 
 | 2022-09-18 | 198 | 45 | 
-| 2022-09-17 | 197 | 45 | 
 

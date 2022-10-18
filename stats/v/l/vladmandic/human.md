@@ -1,6 +1,6 @@
 # vladmandic/human - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 964 | 161 | 
 | 2022-10-16 | 964 | 161 | 
 | 2022-10-15 | 964 | 161 | 
 | 2022-10-14 | 961 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 929 | 151 | 
 | 2022-09-19 | 929 | 151 | 
 | 2022-09-18 | 929 | 152 | 
-| 2022-09-17 | 927 | 152 | 
 

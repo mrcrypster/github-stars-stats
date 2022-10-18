@@ -1,10 +1,10 @@
 # wdlhao/vue2-element-touzi-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1468
 
-★ Stars: 3782
+★ Stars: 3784
 
 [Open repository](https://github.com/wdlhao/vue2-element-touzi-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3784 | 1468 | 
 | 2022-10-16 | 3782 | 1468 | 
 | 2022-10-15 | 3782 | 1468 | 
 | 2022-10-14 | 3781 | 1468 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3751 | 1464 | 
 | 2022-09-19 | 3748 | 1464 | 
 | 2022-09-18 | 3746 | 1463 | 
-| 2022-09-17 | 3743 | 1463 | 
 

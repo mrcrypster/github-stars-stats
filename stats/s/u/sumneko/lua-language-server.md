@@ -1,10 +1,10 @@
 # sumneko/lua-language-server - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 174
 
-★ Stars: 1739
+★ Stars: 1738
 
 [Open repository](https://github.com/sumneko/lua-language-server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 1738 | 174 | 
 | 2022-10-16 | 1739 | 174 | 
 | 2022-10-15 | 1732 | 174 | 
 | 2022-10-14 | 1731 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 1664 | 166 | 
 | 2022-09-19 | 1660 | 165 | 
 | 2022-09-18 | 1658 | 165 | 
-| 2022-09-17 | 1656 | 165 | 
 

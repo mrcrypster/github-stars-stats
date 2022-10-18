@@ -1,6 +1,6 @@
 # primodotso/primo - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 481 | 40 | 
 | 2022-10-16 | 481 | 40 | 
 | 2022-10-15 | 481 | 40 | 
 | 2022-10-14 | 478 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 465 | 39 | 
 | 2022-09-19 | 465 | 39 | 
 | 2022-09-18 | 465 | 38 | 
-| 2022-09-17 | 465 | 38 | 
 

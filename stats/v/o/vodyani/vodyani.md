@@ -1,6 +1,6 @@
 # vodyani/vodyani - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 125 | 20 | 
 | 2022-10-16 | 125 | 20 | 
 | 2022-10-15 | 125 | 20 | 
 | 2022-10-14 | 125 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 124 | 19 | 
 | 2022-09-19 | 124 | 19 | 
 | 2022-09-18 | 124 | 19 | 
-| 2022-09-17 | 124 | 19 | 
 

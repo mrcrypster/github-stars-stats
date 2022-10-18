@@ -1,6 +1,6 @@
 # InFoCusp/diffusion_models - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 132 | 9 | 
 | 2022-10-16 | 132 | 9 | 
 | 2022-10-15 | 132 | 9 | 
 | 2022-10-14 | 133 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 128 | 9 | 
 | 2022-09-19 | 128 | 9 | 
 | 2022-09-18 | 128 | 9 | 
-| 2022-09-17 | 128 | 9 | 
 

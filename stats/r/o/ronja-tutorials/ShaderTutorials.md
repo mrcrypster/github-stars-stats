@@ -1,10 +1,10 @@
 # ronja-tutorials/ShaderTutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 181
 
-★ Stars: 711
+★ Stars: 712
 
 [Open repository](https://github.com/ronja-tutorials/ShaderTutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 712 | 181 | 
 | 2022-10-16 | 711 | 181 | 
 | 2022-10-15 | 711 | 181 | 
 | 2022-10-14 | 711 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 704 | 180 | 
 | 2022-09-20 | 703 | 179 | 
 | 2022-09-19 | 702 | 179 | 
-| 2022-09-18 | 702 | 179 | 
 

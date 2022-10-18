@@ -1,10 +1,10 @@
 # rinnakk/japanese-stable-diffusion - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 9
 
-★ Stars: 217
+★ Stars: 221
 
 [Open repository](https://github.com/rinnakk/japanese-stable-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 221 | 9 | 
 | 2022-10-16 | 217 | 9 | 
 | 2022-10-15 | 215 | 9 | 
 | 2022-10-14 | 214 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 176 | 5 | 
 | 2022-09-19 | 172 | 4 | 
 | 2022-09-18 | 171 | 4 | 
-| 2022-09-17 | 168 | 3 | 
 

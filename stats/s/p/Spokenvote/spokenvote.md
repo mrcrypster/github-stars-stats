@@ -1,6 +1,6 @@
 # Spokenvote/spokenvote - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 42 | 45 | 
 | 2022-10-16 | 42 | 45 | 
 | 2022-10-15 | 42 | 45 | 
 | 2022-10-14 | 42 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 42 | 45 | 
 | 2022-09-19 | 42 | 45 | 
 | 2022-09-18 | 42 | 45 | 
-| 2022-09-17 | 42 | 45 | 
 

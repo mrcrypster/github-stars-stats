@@ -1,6 +1,6 @@
 # zellwk/build-and-deploy-workshop - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 8 | 5 | 
 | 2022-10-16 | 8 | 5 | 
 | 2022-10-15 | 8 | 5 | 
 | 2022-10-14 | 8 | 5 | 

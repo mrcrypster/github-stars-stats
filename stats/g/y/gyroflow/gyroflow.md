@@ -1,6 +1,6 @@
 # gyroflow/gyroflow - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3709 | 158 | 
 | 2022-10-16 | 3709 | 158 | 
 | 2022-10-15 | 3707 | 156 | 
 | 2022-10-14 | 3705 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3654 | 153 | 
 | 2022-09-19 | 3652 | 153 | 
 | 2022-09-18 | 3648 | 152 | 
-| 2022-09-17 | 3647 | 151 | 
 

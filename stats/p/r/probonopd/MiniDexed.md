@@ -1,10 +1,10 @@
 # probonopd/MiniDexed - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 41
 
-★ Stars: 645
+★ Stars: 647
 
 [Open repository](https://github.com/probonopd/MiniDexed)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 647 | 41 | 
 | 2022-10-16 | 645 | 41 | 
 | 2022-10-15 | 643 | 41 | 
 | 2022-10-14 | 643 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 628 | 37 | 
 | 2022-09-20 | 628 | 37 | 
 | 2022-09-19 | 627 | 37 | 
-| 2022-09-18 | 624 | 37 | 
 

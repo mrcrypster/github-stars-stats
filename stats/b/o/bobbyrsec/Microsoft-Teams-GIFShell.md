@@ -1,10 +1,10 @@
 # bobbyrsec/Microsoft-Teams-GIFShell - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 31
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/bobbyrsec/Microsoft-Teams-GIFShell)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 198 | 31 | 
 | 2022-10-16 | 197 | 31 | 
 | 2022-10-15 | 195 | 31 | 
 | 2022-10-14 | 195 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 171 | 29 | 
 | 2022-09-19 | 165 | 27 | 
 | 2022-09-18 | 161 | 27 | 
-| 2022-09-17 | 155 | 25 | 
 

@@ -1,6 +1,6 @@
 # hashivim/vim-terraform - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 885 | 97 | 
 | 2022-10-16 | 885 | 97 | 
 | 2022-10-15 | 885 | 97 | 
 | 2022-10-14 | 885 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 873 | 94 | 
 | 2022-09-19 | 872 | 94 | 
 | 2022-09-18 | 872 | 94 | 
-| 2022-09-17 | 872 | 94 | 
 

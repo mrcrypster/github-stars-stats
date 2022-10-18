@@ -1,10 +1,10 @@
 # merthankavak/dailyhoroscopes - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 5
 
-★ Stars: 60
+★ Stars: 59
 
 [Open repository](https://github.com/merthankavak/dailyhoroscopes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 59 | 5 | 
 | 2022-10-16 | 60 | 5 | 
 | 2022-10-15 | 60 | 5 | 
 | 2022-10-14 | 60 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 60 | 4 | 
 | 2022-09-20 | 60 | 4 | 
 | 2022-09-19 | 60 | 4 | 
-| 2022-09-18 | 60 | 4 | 
 

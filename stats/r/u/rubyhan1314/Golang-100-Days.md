@@ -1,6 +1,6 @@
 # rubyhan1314/Golang-100-Days - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 1660
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 4941 | 1660 | 
 | 2022-10-16 | 4941 | 1660 | 
 | 2022-10-15 | 4940 | 1659 | 
 | 2022-10-14 | 4938 | 1659 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 4883 | 1649 | 
 | 2022-09-19 | 4876 | 1647 | 
 | 2022-09-18 | 4875 | 1647 | 
-| 2022-09-17 | 4874 | 1647 | 
 

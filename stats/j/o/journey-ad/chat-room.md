@@ -1,10 +1,10 @@
 # journey-ad/chat-room - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 42
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/journey-ad/chat-room)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 160 | 42 | 
 | 2022-10-16 | 159 | 42 | 
 | 2022-10-15 | 159 | 42 | 
 | 2022-10-14 | 159 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-21 | 157 | 41 | 
 | 2022-09-20 | 157 | 41 | 
 | 2022-09-19 | 157 | 41 | 
-| 2022-09-18 | 157 | 41 | 
 

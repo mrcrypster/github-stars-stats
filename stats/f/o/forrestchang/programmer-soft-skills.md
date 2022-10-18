@@ -1,10 +1,10 @@
 # forrestchang/programmer-soft-skills - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 28
 
-★ Stars: 346
+★ Stars: 348
 
 [Open repository](https://github.com/forrestchang/programmer-soft-skills)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 348 | 28 | 
 | 2022-10-16 | 346 | 28 | 
 | 2022-10-15 | 346 | 28 | 
 | 2022-10-14 | 346 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 340 | 28 | 
 | 2022-09-19 | 338 | 28 | 
 | 2022-09-18 | 337 | 28 | 
-| 2022-09-17 | 337 | 28 | 
 

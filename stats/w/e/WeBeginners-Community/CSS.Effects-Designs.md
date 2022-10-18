@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 17
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/WeBeginners-Community/CSS.Effects-Designs)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-17 | 47 | 94 | 
+| 2022-10-17 | 49 | 95 | 
 | 2022-10-16 | 47 | 94 | 
 | 2022-10-15 | 45 | 79 | 
 | 2022-10-14 | 42 | 74 | 

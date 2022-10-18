@@ -1,10 +1,10 @@
 # circe/circe - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 515
 
-★ Stars: 2337
+★ Stars: 2338
 
 [Open repository](https://github.com/circe/circe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 2338 | 515 | 
 | 2022-10-16 | 2337 | 515 | 
 | 2022-10-15 | 2337 | 515 | 
 | 2022-10-14 | 2337 | 515 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 2329 | 513 | 
 | 2022-09-19 | 2329 | 513 | 
 | 2022-09-18 | 2329 | 513 | 
-| 2022-09-17 | 2329 | 513 | 
 

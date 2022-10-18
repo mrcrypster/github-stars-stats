@@ -1,10 +1,10 @@
 # antlr/grammars-v4 - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 3268
+☋ Forks: 3270
 
-★ Stars: 8075
+★ Stars: 8074
 
 [Open repository](https://github.com/antlr/grammars-v4)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 8074 | 3270 | 
 | 2022-10-16 | 8075 | 3268 | 
 | 2022-10-15 | 8074 | 3268 | 
 | 2022-10-14 | 8072 | 3268 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 8001 | 3240 | 
 | 2022-09-19 | 7998 | 3238 | 
 | 2022-09-18 | 7992 | 3237 | 
-| 2022-09-17 | 7989 | 3236 | 
 

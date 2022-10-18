@@ -1,10 +1,10 @@
 # scaleracademy/scaler-september-open-source-challenge - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 386
 
-★ Stars: 366
+★ Stars: 365
 
 [Open repository](https://github.com/scaleracademy/scaler-september-open-source-challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 365 | 386 | 
 | 2022-10-16 | 366 | 386 | 
 | 2022-10-15 | 367 | 386 | 
 | 2022-10-14 | 367 | 386 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 375 | 393 | 
 | 2022-09-19 | 375 | 393 | 
 | 2022-09-18 | 375 | 391 | 
-| 2022-09-17 | 374 | 392 | 
 

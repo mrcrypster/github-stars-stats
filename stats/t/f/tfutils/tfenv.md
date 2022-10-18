@@ -1,6 +1,6 @@
 # tfutils/tfenv - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 346
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3427 | 346 | 
 | 2022-10-16 | 3427 | 346 | 
 | 2022-10-15 | 3425 | 346 | 
 | 2022-10-14 | 3425 | 347 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3379 | 347 | 
 | 2022-09-19 | 3377 | 347 | 
 | 2022-09-18 | 3376 | 347 | 
-| 2022-09-17 | 3376 | 347 | 
 

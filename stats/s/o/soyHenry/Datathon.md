@@ -1,6 +1,6 @@
 # soyHenry/Datathon - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 6 | 148 | 
 | 2022-10-16 | 6 | 148 | 
 | 2022-10-15 | 6 | 148 | 
 | 2022-10-14 | 6 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 5 | 141 | 
 | 2022-09-19 | 2 | 80 | 
 | 2022-09-18 | 2 | 79 | 
-| 2022-09-17 | 2 | 79 | 
 

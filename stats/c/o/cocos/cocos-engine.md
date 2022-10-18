@@ -1,10 +1,10 @@
 # cocos/cocos-engine - stars & forks statistics
 
-Stats updated on Oct 2022, 16
+Stats updated on Oct 2022, 17
 
-☋ Forks: 1287
+☋ Forks: 1290
 
-★ Stars: 3313
+★ Stars: 3316
 
 [Open repository](https://github.com/cocos/cocos-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-17 | 3316 | 1290 | 
 | 2022-10-16 | 3313 | 1287 | 
 | 2022-10-15 | 3312 | 1287 | 
 | 2022-10-14 | 3308 | 1287 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 16
 | 2022-09-20 | 3229 | 1270 | 
 | 2022-09-19 | 3216 | 1265 | 
 | 2022-09-18 | 3207 | 1266 | 
-| 2022-09-17 | 3204 | 1266 | 
 
