@@ -1,10 +1,10 @@
 # shreyaschavhan/linux-commands-cheatsheet - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 12
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 118 | 12 | 
 | 2022-10-17 | 117 | 12 | 
 | 2022-10-16 | 112 | 11 | 
 | 2022-10-15 | 112 | 11 | 

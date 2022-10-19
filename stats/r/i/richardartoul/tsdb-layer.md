@@ -1,6 +1,6 @@
 # richardartoul/tsdb-layer - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 467 | 26 | 
 | 2022-10-18 | 467 | 26 | 
 | 2022-10-17 | 467 | 26 | 
 | 2022-10-16 | 468 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 466 | 26 | 
 | 2022-09-20 | 466 | 26 | 
 | 2022-09-19 | 466 | 26 | 
-| 2022-09-18 | 465 | 26 | 
 

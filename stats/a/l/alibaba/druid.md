@@ -1,10 +1,10 @@
 # alibaba/druid - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 8247
 
-★ Stars: 26126
+★ Stars: 26129
 
 [Open repository](https://github.com/alibaba/druid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 26129 | 8247 | 
 | 2022-10-17 | 26126 | 8247 | 
 | 2022-10-16 | 26123 | 8248 | 
 | 2022-10-15 | 26118 | 8248 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 26039 | 8242 | 
 | 2022-09-20 | 26037 | 8243 | 
 | 2022-09-19 | 26032 | 8244 | 
-| 2022-09-18 | 26030 | 8241 | 
 

@@ -1,10 +1,10 @@
 # mantech-oss/jira-search-helper - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/mantech-oss/jira-search-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 36 | 1 | 
 | 2022-10-17 | 35 | - | 
 | 2022-10-16 | 35 | - | 
 | 2022-10-15 | 35 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 32 | - | 
 | 2022-09-20 | 31 | - | 
 | 2022-09-19 | 30 | - | 
-| 2022-09-18 | 29 | - | 
 

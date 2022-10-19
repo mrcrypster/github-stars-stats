@@ -1,6 +1,6 @@
 # DUpdateSystem/UpgradeAll - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 528 | 16 | 
 | 2022-10-17 | 528 | 16 | 
 | 2022-10-16 | 528 | 16 | 
 | 2022-10-15 | 527 | 15 | 

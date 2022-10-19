@@ -1,10 +1,10 @@
 # hackergrrl/art-of-readme - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 423
 
-★ Stars: 6838
+★ Stars: 6839
 
 [Open repository](https://github.com/hackergrrl/art-of-readme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6839 | 423 | 
 | 2022-10-17 | 6838 | 423 | 
 | 2022-10-16 | 6838 | 425 | 
 | 2022-10-15 | 6837 | 424 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 6829 | 421 | 
 | 2022-09-20 | 6829 | 421 | 
 | 2022-09-19 | 6827 | 421 | 
-| 2022-09-18 | 6827 | 421 | 
 

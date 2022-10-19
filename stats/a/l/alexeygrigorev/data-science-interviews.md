@@ -1,10 +1,10 @@
 # alexeygrigorev/data-science-interviews - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 1453
+☋ Forks: 1458
 
-★ Stars: 6682
+★ Stars: 6688
 
 [Open repository](https://github.com/alexeygrigorev/data-science-interviews)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6688 | 1458 | 
 | 2022-10-17 | 6682 | 1453 | 
 | 2022-10-16 | 6682 | 1452 | 
 | 2022-10-15 | 6680 | 1452 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 6589 | 1428 | 
 | 2022-09-20 | 6580 | 1425 | 
 | 2022-09-19 | 6573 | 1424 | 
-| 2022-09-18 | 6570 | 1423 | 
 

@@ -1,10 +1,10 @@
 # MaxMEllon/vim-jsx-pretty - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 35
 
-★ Stars: 906
+★ Stars: 905
 
 [Open repository](https://github.com/MaxMEllon/vim-jsx-pretty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 905 | 35 | 
 | 2022-10-17 | 906 | 35 | 
 | 2022-10-16 | 905 | 35 | 
 | 2022-10-15 | 905 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 898 | 35 | 
 | 2022-09-21 | 897 | 35 | 
 | 2022-09-20 | 897 | 35 | 
-| 2022-09-19 | 897 | 35 | 
 

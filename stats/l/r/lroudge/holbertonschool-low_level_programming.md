@@ -1,8 +1,8 @@
 # lroudge/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 229
+☋ Forks: 227
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 63 | 227 | 
 | 2022-10-17 | 63 | 229 | 
 | 2022-10-16 | 62 | 231 | 
 | 2022-10-15 | 62 | 229 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 60 | 204 | 
 | 2022-09-20 | 60 | 207 | 
 | 2022-09-19 | 60 | 202 | 
-| 2022-09-18 | 60 | 203 | 
 

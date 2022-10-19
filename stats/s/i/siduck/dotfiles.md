@@ -1,6 +1,6 @@
 # siduck/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 685 | 80 | 
 | 2022-10-17 | 685 | 80 | 
 | 2022-10-16 | 684 | 80 | 
 | 2022-10-15 | 682 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 655 | 73 | 
 | 2022-09-20 | 654 | 73 | 
 | 2022-09-19 | 653 | 72 | 
-| 2022-09-18 | 650 | 72 | 
 

@@ -1,10 +1,10 @@
 # facebook/pyre-check - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 397
 
-★ Stars: 6083
+★ Stars: 6086
 
 [Open repository](https://github.com/facebook/pyre-check)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6086 | 397 | 
 | 2022-10-17 | 6083 | 397 | 
 | 2022-10-16 | 6081 | 399 | 
 | 2022-10-15 | 6081 | 399 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 6050 | 394 | 
 | 2022-09-20 | 6048 | 394 | 
 | 2022-09-19 | 6041 | 394 | 
-| 2022-09-18 | 6038 | 394 | 
 

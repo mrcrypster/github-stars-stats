@@ -1,10 +1,10 @@
 # Dev43/harpocrates - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Dev43/harpocrates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 16 | 1 | 
 | 2022-10-17 | 15 | 1 | 
 | 2022-10-16 | 15 | 1 | 
 | 2022-10-15 | 15 | 1 | 

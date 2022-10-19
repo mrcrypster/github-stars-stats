@@ -1,6 +1,6 @@
 # BigWigsMods/BigWigs - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 196 | 146 | 
 | 2022-10-17 | 196 | 146 | 
 | 2022-10-16 | 196 | 146 | 
 | 2022-10-15 | 196 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 193 | 145 | 
 | 2022-09-21 | 193 | 146 | 
 | 2022-09-20 | 193 | 146 | 
-| 2022-09-19 | 193 | 146 | 
 

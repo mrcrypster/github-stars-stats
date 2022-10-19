@@ -1,6 +1,6 @@
 # mavrick202/terraformsingleinstance - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 579
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 32 | 579 | 
 | 2022-10-17 | 32 | 579 | 
 | 2022-10-16 | 32 | 578 | 
 | 2022-10-15 | 32 | 576 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 31 | 560 | 
 | 2022-09-20 | 31 | 559 | 
 | 2022-09-19 | 31 | 560 | 
-| 2022-09-18 | 31 | 559 | 
 

@@ -1,10 +1,10 @@
 # 0xsyr0/OSCP - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 87
+☋ Forks: 94
 
-★ Stars: 454
+★ Stars: 472
 
 [Open repository](https://github.com/0xsyr0/OSCP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 472 | 94 | 
 | 2022-10-17 | 454 | 87 | 
 | 2022-10-16 | 444 | 80 | 
 | 2022-10-15 | 432 | 79 | 

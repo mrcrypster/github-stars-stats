@@ -1,10 +1,10 @@
 # jcrodriguez1989/rco - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 20
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/jcrodriguez1989/rco)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 75 | 20 | 
 | 2022-10-17 | 74 | 20 | 
 | 2022-10-16 | 74 | 20 | 
 | 2022-10-15 | 74 | 20 | 

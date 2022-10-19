@@ -1,10 +1,10 @@
 # rclone/rclone - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 3197
+☋ Forks: 3199
 
-★ Stars: 35019
+★ Stars: 35034
 
 [Open repository](https://github.com/rclone/rclone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 35034 | 3199 | 
 | 2022-10-17 | 35019 | 3197 | 
 | 2022-10-16 | 35004 | 3196 | 
 | 2022-10-15 | 34998 | 3195 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 34682 | 3167 | 
 | 2022-09-20 | 34667 | 3166 | 
 | 2022-09-19 | 34650 | 3162 | 
-| 2022-09-18 | 34641 | 3162 | 
 

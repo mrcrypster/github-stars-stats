@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/wraikny/Do.fs)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 11 | 1 | 
+| 2022-10-18 | 12 | 1 | 
 | 2022-10-17 | 11 | 1 | 
 

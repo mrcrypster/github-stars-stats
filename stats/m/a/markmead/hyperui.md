@@ -1,10 +1,10 @@
 # markmead/hyperui - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 142
+☋ Forks: 143
 
-★ Stars: 3274
+★ Stars: 3280
 
 [Open repository](https://github.com/markmead/hyperui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 3280 | 143 | 
 | 2022-10-17 | 3274 | 142 | 
 | 2022-10-16 | 3268 | 141 | 
 | 2022-10-15 | 3260 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 3026 | 124 | 
 | 2022-09-20 | 3020 | 124 | 
 | 2022-09-19 | 3011 | 124 | 
-| 2022-09-18 | 3007 | 126 | 
 

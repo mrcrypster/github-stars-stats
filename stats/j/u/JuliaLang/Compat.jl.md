@@ -1,6 +1,6 @@
 # JuliaLang/Compat.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 118 | 111 | 
 | 2022-10-17 | 118 | 111 | 
 | 2022-10-16 | 118 | 111 | 
 | 2022-10-15 | 118 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 117 | 111 | 
 | 2022-09-20 | 117 | 111 | 
 | 2022-09-19 | 117 | 111 | 
-| 2022-09-18 | 117 | 111 | 
 

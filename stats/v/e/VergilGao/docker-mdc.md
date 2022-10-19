@@ -1,6 +1,6 @@
 # VergilGao/docker-mdc - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 300 | 58 | 
 | 2022-10-17 | 300 | 58 | 
 | 2022-10-16 | 299 | 57 | 
 | 2022-10-15 | 299 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 290 | 54 | 
 | 2022-09-20 | 290 | 54 | 
 | 2022-09-19 | 290 | 54 | 
-| 2022-09-18 | 288 | 54 | 
 

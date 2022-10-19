@@ -1,10 +1,10 @@
 # google/fonts - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 2450
+☋ Forks: 2449
 
-★ Stars: 15817
+★ Stars: 15820
 
 [Open repository](https://github.com/google/fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 15820 | 2449 | 
 | 2022-10-17 | 15817 | 2450 | 
 | 2022-10-16 | 15813 | 2448 | 
 | 2022-10-15 | 15811 | 2448 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 15714 | 2436 | 
 | 2022-09-20 | 15711 | 2437 | 
 | 2022-09-19 | 15708 | 2437 | 
-| 2022-09-18 | 15705 | 2437 | 
 

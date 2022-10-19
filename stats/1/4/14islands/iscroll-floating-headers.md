@@ -1,6 +1,6 @@
 # 14islands/iscroll-floating-headers - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 24 | 3 | 
 | 2022-10-17 | 24 | 3 | 
 | 2022-10-16 | 24 | 3 | 
 | 2022-10-15 | 24 | 3 | 

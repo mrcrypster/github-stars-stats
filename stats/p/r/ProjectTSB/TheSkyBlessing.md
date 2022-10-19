@@ -1,6 +1,6 @@
 # ProjectTSB/TheSkyBlessing - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 54 | 2 | 
 | 2022-10-17 | 54 | 2 | 
 | 2022-10-16 | 54 | 3 | 
 | 2022-10-15 | 54 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 53 | 3 | 
 | 2022-09-20 | 53 | 3 | 
 | 2022-09-19 | 53 | 3 | 
-| 2022-09-18 | 53 | 3 | 
 

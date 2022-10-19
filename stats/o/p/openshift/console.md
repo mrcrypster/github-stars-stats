@@ -1,8 +1,8 @@
 # openshift/console - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 505
+☋ Forks: 506
 
 ★ Stars: 302
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 302 | 506 | 
 | 2022-10-17 | 302 | 505 | 
 | 2022-10-16 | 302 | 505 | 
 | 2022-10-15 | 302 | 504 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 297 | 501 | 
 | 2022-09-20 | 297 | 501 | 
 | 2022-09-19 | 297 | 501 | 
-| 2022-09-18 | 297 | 501 | 
 

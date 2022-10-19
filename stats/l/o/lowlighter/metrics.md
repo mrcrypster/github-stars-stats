@@ -1,10 +1,10 @@
 # lowlighter/metrics - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 984
+☋ Forks: 983
 
-★ Stars: 8586
+★ Stars: 8603
 
 [Open repository](https://github.com/lowlighter/metrics)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 8603 | 983 | 
 | 2022-10-17 | 8586 | 984 | 
 | 2022-10-16 | 8576 | 980 | 
 | 2022-10-15 | 8571 | 981 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 8378 | 937 | 
 | 2022-09-20 | 8363 | 934 | 
 | 2022-09-19 | 8357 | 933 | 
-| 2022-09-18 | 8354 | 932 | 
 

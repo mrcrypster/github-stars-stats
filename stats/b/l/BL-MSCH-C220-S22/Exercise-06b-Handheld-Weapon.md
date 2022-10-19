@@ -1,6 +1,6 @@
 # BL-MSCH-C220-S22/Exercise-06b-Handheld-Weapon - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | - | 32 | 
 | 2022-10-17 | - | 32 | 
 | 2022-10-16 | - | 32 | 
 | 2022-10-15 | - | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | - | 33 | 
 | 2022-09-21 | - | 33 | 
 | 2022-09-20 | - | 33 | 
-| 2022-09-19 | - | 33 | 
 

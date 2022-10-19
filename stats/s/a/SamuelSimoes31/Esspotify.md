@@ -1,6 +1,6 @@
 # SamuelSimoes31/Esspotify - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | - | 65 | 
 | 2022-10-17 | - | 65 | 
 | 2022-10-16 | - | 65 | 
 | 2022-10-15 | - | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | - | 65 | 
 | 2022-09-20 | - | 65 | 
 | 2022-09-19 | - | 65 | 
-| 2022-09-18 | - | 65 | 
 

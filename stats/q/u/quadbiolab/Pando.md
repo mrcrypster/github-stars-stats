@@ -1,10 +1,10 @@
 # quadbiolab/Pando - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 8
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/quadbiolab/Pando)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 33 | 8 | 
 | 2022-10-17 | 32 | 8 | 
 | 2022-10-16 | 32 | 8 | 
 | 2022-10-15 | 32 | 8 | 

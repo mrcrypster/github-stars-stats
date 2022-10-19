@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 18
 
 ☋ Forks: 102
 
-★ Stars: 454
+★ Stars: 455
 
 [Open repository](https://github.com/masonlr/obsidian-starter-templates)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 454 | 102 | 
+| 2022-10-18 | 455 | 102 | 
 | 2022-10-17 | 454 | 102 | 
 | 2022-10-16 | 451 | 102 | 
 | 2022-10-15 | 450 | 102 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 437 | 99 | 
 | 2022-09-20 | 437 | 99 | 
 | 2022-09-19 | 436 | 99 | 
-| 2022-09-18 | 434 | 98 | 
 

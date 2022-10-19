@@ -1,10 +1,10 @@
 # move-dao/move-book-zh - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 8
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/move-dao/move-book-zh)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 25 | 8 | 
 | 2022-10-17 | 24 | 8 | 
 | 2022-10-16 | 24 | 8 | 
 | 2022-10-15 | 24 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 24 | 7 | 
 | 2022-09-20 | 24 | 7 | 
 | 2022-09-19 | 24 | 6 | 
-| 2022-09-18 | 24 | 6 | 
 

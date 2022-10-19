@@ -1,8 +1,8 @@
 # certusone/wormhole - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 357
+☋ Forks: 358
 
 ★ Stars: 892
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 892 | 358 | 
 | 2022-10-17 | 892 | 357 | 
 | 2022-10-16 | 892 | 357 | 
 | 2022-10-15 | 889 | 357 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 862 | 341 | 
 | 2022-09-20 | 862 | 341 | 
 | 2022-09-19 | 860 | 340 | 
-| 2022-09-18 | 860 | 339 | 
 

@@ -1,6 +1,6 @@
 # libusb/hidapi - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 275
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 973 | 275 | 
 | 2022-10-17 | 973 | 275 | 
 | 2022-10-16 | 972 | 275 | 
 | 2022-10-15 | 972 | 275 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 950 | 270 | 
 | 2022-09-20 | 950 | 270 | 
 | 2022-09-19 | 948 | 270 | 
-| 2022-09-18 | 946 | 270 | 
 

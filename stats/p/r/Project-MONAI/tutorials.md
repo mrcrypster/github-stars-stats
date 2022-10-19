@@ -1,10 +1,10 @@
 # Project-MONAI/tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 422
+☋ Forks: 423
 
-★ Stars: 819
+★ Stars: 821
 
 [Open repository](https://github.com/Project-MONAI/tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 821 | 423 | 
 | 2022-10-17 | 819 | 422 | 
 | 2022-10-16 | 818 | 422 | 
 | 2022-10-15 | 817 | 422 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 775 | 401 | 
 | 2022-09-20 | 773 | 401 | 
 | 2022-09-19 | 766 | 400 | 
-| 2022-09-18 | 767 | 399 | 
 

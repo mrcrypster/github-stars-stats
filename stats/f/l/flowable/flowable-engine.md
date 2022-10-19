@@ -1,10 +1,10 @@
 # flowable/flowable-engine - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 2202
+☋ Forks: 2201
 
-★ Stars: 5745
+★ Stars: 5750
 
 [Open repository](https://github.com/flowable/flowable-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 5750 | 2201 | 
 | 2022-10-17 | 5745 | 2202 | 
 | 2022-10-16 | 5741 | 2201 | 
 | 2022-10-15 | 5741 | 2201 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 5672 | 2180 | 
 | 2022-09-21 | 5663 | 2178 | 
 | 2022-09-20 | 5658 | 2178 | 
-| 2022-09-19 | 5654 | 2177 | 
 

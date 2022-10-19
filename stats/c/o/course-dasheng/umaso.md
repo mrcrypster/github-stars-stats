@@ -1,6 +1,6 @@
 # course-dasheng/umaso - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 22 | 9 | 
 | 2022-10-17 | 22 | 9 | 
 | 2022-10-16 | 22 | 9 | 
 | 2022-10-15 | 22 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 21 | 8 | 
 | 2022-09-20 | 21 | 8 | 
 | 2022-09-19 | 21 | 8 | 
-| 2022-09-18 | 21 | 8 | 
 

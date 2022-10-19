@@ -1,10 +1,10 @@
 # d12frosted/homebrew-emacs-plus - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 138
+☋ Forks: 139
 
-★ Stars: 1599
+★ Stars: 1600
 
 [Open repository](https://github.com/d12frosted/homebrew-emacs-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1600 | 139 | 
 | 2022-10-17 | 1599 | 138 | 
 | 2022-10-16 | 1600 | 138 | 
 | 2022-10-15 | 1600 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1577 | 135 | 
 | 2022-09-20 | 1577 | 135 | 
 | 2022-09-19 | 1579 | 135 | 
-| 2022-09-18 | 1578 | 135 | 
 

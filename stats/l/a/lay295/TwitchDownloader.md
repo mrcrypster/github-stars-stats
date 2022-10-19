@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 18
 
 ☋ Forks: 108
 
-★ Stars: 938
+★ Stars: 939
 
 [Open repository](https://github.com/lay295/TwitchDownloader)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 938 | 108 | 
+| 2022-10-18 | 939 | 108 | 
 | 2022-10-17 | 938 | 108 | 
 | 2022-10-16 | 931 | 108 | 
 | 2022-10-15 | 931 | 108 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 906 | 101 | 
 | 2022-09-21 | 905 | 101 | 
 | 2022-09-20 | 904 | 101 | 
-| 2022-09-19 | 904 | 101 | 
 

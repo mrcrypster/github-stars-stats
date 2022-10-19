@@ -1,6 +1,6 @@
 # pontem-network/faucet - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 8 | 6 | 
 | 2022-10-17 | 8 | 6 | 
 | 2022-10-16 | 8 | 6 | 
 | 2022-10-15 | 8 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 7 | 2 | 
 | 2022-09-20 | 6 | 2 | 
 | 2022-09-19 | 6 | 2 | 
-| 2022-09-18 | 6 | 2 | 
 

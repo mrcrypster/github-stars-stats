@@ -1,10 +1,10 @@
 # foostan/kbd - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 56
 
-★ Stars: 219
+★ Stars: 220
 
 [Open repository](https://github.com/foostan/kbd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 220 | 56 | 
 | 2022-10-17 | 219 | 56 | 
 | 2022-10-16 | 219 | 56 | 
 | 2022-10-15 | 219 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 214 | 56 | 
 | 2022-09-20 | 214 | 56 | 
 | 2022-09-19 | 214 | 56 | 
-| 2022-09-18 | 214 | 56 | 
 

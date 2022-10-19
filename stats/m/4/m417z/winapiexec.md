@@ -1,8 +1,8 @@
 # m417z/winapiexec - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 11
+☋ Forks: 12
 
 ★ Stars: 90
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 90 | 12 | 
 | 2022-10-17 | 90 | 11 | 
 | 2022-10-16 | 90 | 11 | 
 | 2022-10-15 | 89 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 84 | 8 | 
 | 2022-09-20 | 83 | 8 | 
 | 2022-09-19 | 82 | 8 | 
-| 2022-09-18 | 81 | 8 | 
 

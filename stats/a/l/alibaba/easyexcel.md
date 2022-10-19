@@ -1,10 +1,10 @@
 # alibaba/easyexcel - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 6719
+☋ Forks: 6720
 
-★ Stars: 25419
+★ Stars: 25429
 
 [Open repository](https://github.com/alibaba/easyexcel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 25429 | 6720 | 
 | 2022-10-17 | 25419 | 6719 | 
 | 2022-10-16 | 25408 | 6716 | 
 | 2022-10-15 | 25401 | 6715 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 25145 | 6657 | 
 | 2022-09-20 | 25129 | 6655 | 
 | 2022-09-19 | 25117 | 6652 | 
-| 2022-09-18 | 25099 | 6648 | 
 

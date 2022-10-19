@@ -1,10 +1,10 @@
 # ruby/gem_rbs_collection - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 58
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/ruby/gem_rbs_collection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 167 | 58 | 
 | 2022-10-17 | 166 | 58 | 
 | 2022-10-16 | 166 | 58 | 
 | 2022-10-15 | 166 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 159 | 49 | 
 | 2022-09-20 | 159 | 48 | 
 | 2022-09-19 | 158 | 49 | 
-| 2022-09-18 | 158 | 48 | 
 

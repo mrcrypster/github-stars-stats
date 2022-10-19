@@ -1,10 +1,10 @@
 # jiba-plus/web - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 17
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/jiba-plus/web)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 114 | 17 | 
 | 2022-10-17 | 113 | 17 | 
 | 2022-10-16 | 112 | 17 | 
 | 2022-10-15 | 112 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 112 | 16 | 
 | 2022-09-20 | 113 | 16 | 
 | 2022-09-19 | 112 | 17 | 
-| 2022-09-18 | 112 | 16 | 
 

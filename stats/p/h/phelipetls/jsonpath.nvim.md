@@ -1,10 +1,10 @@
 # phelipetls/jsonpath.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/phelipetls/jsonpath.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 91 | 1 | 
 | 2022-10-17 | 90 | 1 | 
 | 2022-10-16 | 89 | 1 | 
 | 2022-10-15 | 87 | - | 

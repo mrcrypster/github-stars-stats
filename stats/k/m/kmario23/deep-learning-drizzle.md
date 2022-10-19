@@ -1,10 +1,10 @@
 # kmario23/deep-learning-drizzle - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 2697
 
-★ Stars: 10621
+★ Stars: 10625
 
 [Open repository](https://github.com/kmario23/deep-learning-drizzle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 10625 | 2697 | 
 | 2022-10-17 | 10621 | 2697 | 
 | 2022-10-16 | 10623 | 2697 | 
 | 2022-10-15 | 10620 | 2697 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 10346 | 2656 | 
 | 2022-09-20 | 10345 | 2655 | 
 | 2022-09-19 | 10342 | 2655 | 
-| 2022-09-18 | 10341 | 2656 | 
 

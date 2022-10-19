@@ -1,10 +1,10 @@
 # glennsl/rescript-json-combinators - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 22
 
 [Open repository](https://github.com/glennsl/rescript-json-combinators)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 22 | - | 
 | 2022-10-17 | 19 | - | 
 | 2022-10-16 | 19 | - | 
 | 2022-10-15 | 19 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 17 | - | 
 | 2022-09-20 | 17 | - | 
 | 2022-09-19 | 17 | - | 
-| 2022-09-18 | 17 | - | 
 

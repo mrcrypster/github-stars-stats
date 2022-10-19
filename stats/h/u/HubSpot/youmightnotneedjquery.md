@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 18
 
 ☋ Forks: 527
 
-★ Stars: 13782
+★ Stars: 13784
 
 [Open repository](https://github.com/HubSpot/youmightnotneedjquery)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 13782 | 527 | 
+| 2022-10-18 | 13784 | 527 | 
 | 2022-10-17 | 13782 | 527 | 
 | 2022-10-16 | 13780 | 527 | 
 | 2022-10-15 | 13781 | 527 | 

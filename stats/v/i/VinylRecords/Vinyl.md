@@ -1,10 +1,10 @@
 # VinylRecords/Vinyl - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 52
 
-★ Stars: 251
+★ Stars: 252
 
 [Open repository](https://github.com/VinylRecords/Vinyl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 252 | 52 | 
 | 2022-10-17 | 251 | 52 | 
 | 2022-10-16 | 251 | 52 | 
 | 2022-10-15 | 251 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 250 | 51 | 
 | 2022-09-20 | 250 | 51 | 
 | 2022-09-19 | 250 | 51 | 
-| 2022-09-18 | 250 | 51 | 
 

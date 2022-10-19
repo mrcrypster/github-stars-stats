@@ -1,10 +1,10 @@
 # Phobos132/PhobGCC - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 6
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/Phobos132/PhobGCC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 89 | 6 | 
 | 2022-10-17 | 88 | 6 | 
 | 2022-10-16 | 87 | 6 | 
 | 2022-10-15 | 87 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 87 | 6 | 
 | 2022-09-21 | 87 | 6 | 
 | 2022-09-19 | 86 | 6 | 
-| 2022-09-18 | 86 | 6 | 
 

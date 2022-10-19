@@ -1,8 +1,8 @@
 # MuertoGB/SMCTool - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 10 | 6 | 
 | 2022-10-17 | 10 | 5 | 
 | 2022-10-16 | 10 | 5 | 
 | 2022-10-15 | 8 | 5 | 

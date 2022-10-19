@@ -1,10 +1,10 @@
 # nndl/exercise - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1347
 
-★ Stars: 2938
+★ Stars: 2940
 
 [Open repository](https://github.com/nndl/exercise)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2940 | 1347 | 
 | 2022-10-17 | 2938 | 1347 | 
 | 2022-10-16 | 2938 | 1347 | 
 | 2022-10-15 | 2936 | 1345 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2930 | 1346 | 
 | 2022-09-20 | 2930 | 1346 | 
 | 2022-09-19 | 2930 | 1344 | 
-| 2022-09-18 | 2929 | 1343 | 
 

@@ -1,8 +1,8 @@
 # opencart/opencart - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 4603
+☋ Forks: 4602
 
 ★ Stars: 6603
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6603 | 4602 | 
 | 2022-10-17 | 6603 | 4603 | 
 | 2022-10-16 | 6601 | 4602 | 
 | 2022-10-15 | 6599 | 4600 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 6579 | 4598 | 
 | 2022-09-20 | 6575 | 4597 | 
 | 2022-09-19 | 6574 | 4597 | 
-| 2022-09-18 | 6574 | 4595 | 
 

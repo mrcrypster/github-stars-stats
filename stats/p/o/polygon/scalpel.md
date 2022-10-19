@@ -1,6 +1,6 @@
 # polygon/scalpel - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 27 | 1 | 
 | 2022-10-17 | 27 | 1 | 
 | 2022-10-16 | 27 | 1 | 
 | 2022-10-15 | 27 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 27 | 1 | 
 | 2022-09-20 | 27 | 1 | 
 | 2022-09-19 | 27 | 1 | 
-| 2022-09-18 | 27 | 1 | 
 

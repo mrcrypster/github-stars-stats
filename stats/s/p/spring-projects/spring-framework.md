@@ -1,10 +1,10 @@
 # spring-projects/spring-framework - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 34844
+☋ Forks: 34848
 
-★ Stars: 49395
+★ Stars: 49401
 
 [Open repository](https://github.com/spring-projects/spring-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 49401 | 34848 | 
 | 2022-10-17 | 49395 | 34844 | 
 | 2022-10-16 | 49386 | 34840 | 
 | 2022-10-15 | 49384 | 34837 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 49182 | 34702 | 
 | 2022-09-20 | 49173 | 34698 | 
 | 2022-09-19 | 49167 | 34692 | 
-| 2022-09-18 | 49156 | 34685 | 
 

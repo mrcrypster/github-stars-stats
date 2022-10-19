@@ -1,6 +1,6 @@
 # mapbox/turf-swift - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 175 | 48 | 
 | 2022-10-17 | 175 | 48 | 
 | 2022-10-16 | 175 | 48 | 
 | 2022-10-15 | 175 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 175 | 48 | 
 | 2022-09-21 | 175 | 47 | 
 | 2022-09-20 | 174 | 47 | 
-| 2022-09-19 | 174 | 47 | 
 

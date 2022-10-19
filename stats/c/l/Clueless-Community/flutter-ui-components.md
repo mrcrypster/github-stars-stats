@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 18
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/Clueless-Community/flutter-ui-components)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 19 | 26 | 
+| 2022-10-18 | 21 | 27 | 
 | 2022-10-17 | 18 | 26 | 
 

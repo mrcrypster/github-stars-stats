@@ -1,10 +1,10 @@
 # tldraw/tldraw - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 576
+☋ Forks: 577
 
-★ Stars: 10276
+★ Stars: 10302
 
 [Open repository](https://github.com/tldraw/tldraw)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 10302 | 577 | 
 | 2022-10-17 | 10276 | 576 | 
 | 2022-10-16 | 10256 | 571 | 
 | 2022-10-15 | 10244 | 571 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 9777 | 536 | 
 | 2022-09-20 | 9755 | 536 | 
 | 2022-09-19 | 9732 | 532 | 
-| 2022-09-18 | 9692 | 530 | 
 

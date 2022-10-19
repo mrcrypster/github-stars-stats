@@ -1,6 +1,6 @@
 # nisrulz/flutter-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1588
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6195 | 1588 | 
 | 2022-10-17 | 6195 | 1588 | 
 | 2022-10-16 | 6193 | 1588 | 
 | 2022-10-15 | 6189 | 1589 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 6164 | 1581 | 
 | 2022-09-20 | 6163 | 1581 | 
 | 2022-09-19 | 6162 | 1582 | 
-| 2022-09-18 | 6161 | 1582 | 
 

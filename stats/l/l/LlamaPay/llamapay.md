@@ -1,10 +1,10 @@
 # LlamaPay/llamapay - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 25
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/LlamaPay/llamapay)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 154 | 25 | 
 | 2022-10-17 | 153 | 25 | 
 | 2022-10-16 | 153 | 24 | 
 | 2022-10-15 | 153 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 151 | 24 | 
 | 2022-09-20 | 150 | 24 | 
 | 2022-09-19 | 150 | 24 | 
-| 2022-09-18 | 149 | 24 | 
 

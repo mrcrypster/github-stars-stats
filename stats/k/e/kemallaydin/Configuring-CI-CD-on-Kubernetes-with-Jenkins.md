@@ -1,6 +1,6 @@
 # kemallaydin/Configuring-CI-CD-on-Kubernetes-with-Jenkins - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 44 | 164 | 
 | 2022-10-17 | 44 | 164 | 
 | 2022-10-16 | 44 | 164 | 
 | 2022-10-15 | 44 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 44 | 160 | 
 | 2022-09-20 | 44 | 159 | 
 | 2022-09-19 | 44 | 158 | 
-| 2022-09-18 | 44 | 156 | 
 

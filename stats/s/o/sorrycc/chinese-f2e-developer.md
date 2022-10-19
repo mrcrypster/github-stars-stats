@@ -1,10 +1,10 @@
 # sorrycc/chinese-f2e-developer - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 44
 
-★ Stars: 730
+★ Stars: 731
 
 [Open repository](https://github.com/sorrycc/chinese-f2e-developer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 731 | 44 | 
 | 2022-10-17 | 730 | 44 | 
 | 2022-10-16 | 731 | 44 | 
 | 2022-10-15 | 731 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 712 | 45 | 
 | 2022-09-20 | 714 | 45 | 
 | 2022-09-19 | 714 | 45 | 
-| 2022-09-18 | 712 | 45 | 
 

@@ -1,10 +1,10 @@
 # games50/pong - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 908
 
-★ Stars: 642
+★ Stars: 643
 
 [Open repository](https://github.com/games50/pong)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 643 | 908 | 
 | 2022-10-17 | 642 | 908 | 
 | 2022-10-16 | 640 | 907 | 
 | 2022-10-15 | 640 | 906 | 

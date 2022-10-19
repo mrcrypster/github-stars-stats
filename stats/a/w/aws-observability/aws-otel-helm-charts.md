@@ -1,10 +1,10 @@
 # aws-observability/aws-otel-helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 27
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/aws-observability/aws-otel-helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 22 | 27 | 
 | 2022-10-17 | 21 | 27 | 
 | 2022-10-16 | 21 | 27 | 
 | 2022-10-15 | 21 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 20 | 24 | 
 | 2022-09-21 | 20 | 24 | 
 | 2022-09-20 | 20 | 23 | 
-| 2022-09-19 | 20 | 22 | 
 

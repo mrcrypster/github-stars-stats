@@ -1,10 +1,10 @@
 # Sirox228/Source-Engine - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/Sirox228/Source-Engine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6 | 2 | 
 | 2022-10-17 | 5 | 1 | 
 | 2022-10-16 | 5 | 1 | 
 | 2022-10-15 | 5 | 1 | 

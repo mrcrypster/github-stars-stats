@@ -1,10 +1,10 @@
 # t-kalinowski/Rapp - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 25
 
 [Open repository](https://github.com/t-kalinowski/Rapp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 25 | - | 
 | 2022-10-17 | 21 | - | 
 | 2022-10-16 | 17 | - | 
 | 2022-10-15 | 13 | - | 

@@ -1,6 +1,6 @@
 # nifanfa/MOOS - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 675 | 49 | 
 | 2022-10-17 | 675 | 49 | 
 | 2022-10-16 | 674 | 49 | 
 | 2022-10-15 | 674 | 49 | 

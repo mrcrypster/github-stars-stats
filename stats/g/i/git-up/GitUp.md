@@ -1,10 +1,10 @@
 # git-up/GitUp - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 899
+☋ Forks: 903
 
-★ Stars: 10523
+★ Stars: 10524
 
 [Open repository](https://github.com/git-up/GitUp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 10524 | 903 | 
 | 2022-10-17 | 10523 | 899 | 
 | 2022-10-16 | 10521 | 898 | 
 | 2022-10-15 | 10521 | 899 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 10482 | 882 | 
 | 2022-09-20 | 10480 | 882 | 
 | 2022-09-19 | 10479 | 882 | 
-| 2022-09-18 | 10479 | 881 | 
 

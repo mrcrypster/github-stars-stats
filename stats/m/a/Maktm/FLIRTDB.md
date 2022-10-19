@@ -1,6 +1,6 @@
 # Maktm/FLIRTDB - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1002 | 166 | 
 | 2022-10-17 | 1002 | 166 | 
 | 2022-10-16 | 1002 | 166 | 
 | 2022-10-15 | 1002 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 998 | 163 | 
 | 2022-09-20 | 997 | 164 | 
 | 2022-09-19 | 996 | 164 | 
-| 2022-09-18 | 996 | 164 | 
 

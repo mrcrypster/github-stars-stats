@@ -1,10 +1,10 @@
 # electron/electron - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 13933
+☋ Forks: 13935
 
-★ Stars: 104110
+★ Stars: 104113
 
 [Open repository](https://github.com/electron/electron)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 104113 | 13935 | 
 | 2022-10-17 | 104110 | 13933 | 
 | 2022-10-16 | 104105 | 13933 | 
 | 2022-10-15 | 104097 | 13927 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 103747 | 13862 | 
 | 2022-09-20 | 103729 | 13861 | 
 | 2022-09-19 | 103711 | 13862 | 
-| 2022-09-18 | 103695 | 13858 | 
 

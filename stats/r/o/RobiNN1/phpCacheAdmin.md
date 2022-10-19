@@ -1,10 +1,10 @@
 # RobiNN1/phpCacheAdmin - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 247
+★ Stars: 246
 
 [Open repository](https://github.com/RobiNN1/phpCacheAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 246 | 1 | 
 | 2022-10-17 | 247 | 1 | 
 | 2022-10-16 | 246 | 1 | 
 | 2022-10-15 | 246 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 228 | 1 | 
 | 2022-09-20 | 228 | 1 | 
 | 2022-09-19 | 228 | 1 | 
-| 2022-09-18 | 228 | 1 | 
 

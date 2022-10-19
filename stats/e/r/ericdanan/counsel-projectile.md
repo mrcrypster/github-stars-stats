@@ -1,10 +1,10 @@
 # ericdanan/counsel-projectile - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 40
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/ericdanan/counsel-projectile)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 274 | 40 | 
 | 2022-10-17 | 273 | 40 | 
 | 2022-10-16 | 273 | 40 | 
 | 2022-10-15 | 273 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 274 | 40 | 
 | 2022-09-20 | 274 | 40 | 
 | 2022-09-19 | 274 | 40 | 
-| 2022-09-18 | 274 | 40 | 
 

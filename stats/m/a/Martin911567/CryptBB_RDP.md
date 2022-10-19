@@ -1,8 +1,8 @@
 # Martin911567/CryptBB_RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 19
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 2
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2 | 20 | 
+| 2022-10-18 | 2 | 20 | 
 | 2022-10-17 | 2 | 19 | 
 | 2022-10-16 | 2 | 19 | 
 | 2022-10-15 | 2 | 15 | 

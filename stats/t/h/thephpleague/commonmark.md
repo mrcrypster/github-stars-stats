@@ -1,10 +1,10 @@
 # thephpleague/commonmark - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 185
 
-★ Stars: 2352
+★ Stars: 2354
 
 [Open repository](https://github.com/thephpleague/commonmark)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2354 | 185 | 
 | 2022-10-17 | 2352 | 185 | 
 | 2022-10-16 | 2351 | 185 | 
 | 2022-10-15 | 2350 | 185 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2339 | 184 | 
 | 2022-09-20 | 2339 | 183 | 
 | 2022-09-19 | 2338 | 182 | 
-| 2022-09-18 | 2337 | 182 | 
 

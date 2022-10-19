@@ -1,10 +1,10 @@
 # aws/aws-cdk - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 2804
+☋ Forks: 2807
 
-★ Stars: 9393
+★ Stars: 9399
 
 [Open repository](https://github.com/aws/aws-cdk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 9399 | 2807 | 
 | 2022-10-17 | 9393 | 2804 | 
 | 2022-10-16 | 9388 | 2801 | 
 | 2022-10-15 | 9386 | 2801 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 9282 | 2729 | 
 | 2022-09-20 | 9226 | 2716 | 
 | 2022-09-19 | 9189 | 2701 | 
-| 2022-09-18 | 9185 | 2695 | 
 

@@ -1,6 +1,6 @@
 # joaomaranhao/video-maker - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 117 | 22 | 
 | 2022-10-17 | 117 | 22 | 
 | 2022-10-16 | 117 | 22 | 
 | 2022-10-15 | 117 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 115 | 22 | 
 | 2022-09-20 | 114 | 22 | 
 | 2022-09-19 | 114 | 22 | 
-| 2022-09-18 | 114 | 22 | 
 

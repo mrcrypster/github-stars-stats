@@ -1,6 +1,6 @@
 # jpuri/react-draft-wysiwyg - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1086
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 5854 | 1086 | 
 | 2022-10-17 | 5854 | 1086 | 
 | 2022-10-16 | 5855 | 1086 | 
 | 2022-10-15 | 5852 | 1086 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 5818 | 1079 | 
 | 2022-09-20 | 5818 | 1078 | 
 | 2022-09-19 | 5816 | 1077 | 
-| 2022-09-18 | 5816 | 1076 | 
 

@@ -1,10 +1,10 @@
 # gsasansol/GirlScript-Asansol - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 72
+☋ Forks: 75
 
-★ Stars: 53
+★ Stars: 55
 
 [Open repository](https://github.com/gsasansol/GirlScript-Asansol)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 55 | 75 | 
 | 2022-10-17 | 53 | 72 | 
 | 2022-10-16 | 53 | 72 | 
 | 2022-10-15 | 53 | 67 | 

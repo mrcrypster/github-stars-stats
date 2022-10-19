@@ -1,10 +1,10 @@
 # lucidrains/denoising-diffusion-pytorch - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 276
+☋ Forks: 277
 
-★ Stars: 2070
+★ Stars: 2079
 
 [Open repository](https://github.com/lucidrains/denoising-diffusion-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2079 | 277 | 
 | 2022-10-17 | 2070 | 276 | 
 | 2022-10-16 | 2054 | 274 | 
 | 2022-10-15 | 2044 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1758 | 237 | 
 | 2022-09-20 | 1738 | 235 | 
 | 2022-09-19 | 1723 | 234 | 
-| 2022-09-18 | 1716 | 232 | 
 

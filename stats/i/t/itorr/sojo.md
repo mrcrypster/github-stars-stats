@@ -1,10 +1,10 @@
 # itorr/sojo - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 119
+★ Stars: 121
 
 [Open repository](https://github.com/itorr/sojo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 121 | 5 | 
 | 2022-10-17 | 119 | 4 | 
 | 2022-10-16 | 119 | 4 | 
 | 2022-10-15 | 119 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 114 | 4 | 
 | 2022-09-20 | 113 | 4 | 
 | 2022-09-19 | 113 | 4 | 
-| 2022-09-18 | 113 | 4 | 
 

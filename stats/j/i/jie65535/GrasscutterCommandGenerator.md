@@ -1,10 +1,10 @@
 # jie65535/GrasscutterCommandGenerator - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 122
 
-★ Stars: 1057
+★ Stars: 1059
 
 [Open repository](https://github.com/jie65535/GrasscutterCommandGenerator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1059 | 122 | 
 | 2022-10-17 | 1057 | 122 | 
 | 2022-10-16 | 1055 | 122 | 
 | 2022-10-15 | 1047 | 122 | 

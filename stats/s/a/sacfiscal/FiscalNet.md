@@ -1,10 +1,10 @@
 # sacfiscal/FiscalNet - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 22
 
-★ Stars: 78
+★ Stars: 77
 
 [Open repository](https://github.com/sacfiscal/FiscalNet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 77 | 22 | 
 | 2022-10-17 | 78 | 22 | 
 | 2022-10-16 | 78 | 22 | 
 | 2022-10-15 | 78 | 22 | 

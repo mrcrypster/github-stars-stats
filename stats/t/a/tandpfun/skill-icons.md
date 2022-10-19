@@ -1,6 +1,6 @@
 # tandpfun/skill-icons - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1176 | 121 | 
 | 2022-10-17 | 1176 | 121 | 
 | 2022-10-16 | 1175 | 121 | 
 | 2022-10-15 | 1170 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1063 | 106 | 
 | 2022-09-20 | 1060 | 104 | 
 | 2022-09-19 | 1054 | 103 | 
-| 2022-09-18 | 1045 | 100 | 
 

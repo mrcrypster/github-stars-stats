@@ -1,10 +1,10 @@
 # for-GET/know-your-http-well - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 159
 
-★ Stars: 2271
+★ Stars: 2270
 
 [Open repository](https://github.com/for-GET/know-your-http-well)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2270 | 159 | 
 | 2022-10-17 | 2271 | 159 | 
 | 2022-10-16 | 2271 | 159 | 
 | 2022-10-15 | 2271 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2261 | 160 | 
 | 2022-09-20 | 2261 | 160 | 
 | 2022-09-19 | 2259 | 160 | 
-| 2022-09-18 | 2259 | 160 | 
 

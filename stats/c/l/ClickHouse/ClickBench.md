@@ -1,10 +1,10 @@
 # ClickHouse/ClickBench - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 44
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/ClickHouse/ClickBench)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 221 | 44 | 
 | 2022-10-17 | 220 | 44 | 
 | 2022-10-16 | 219 | 44 | 
 | 2022-10-15 | 218 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 188 | 36 | 
 | 2022-09-20 | 188 | 35 | 
 | 2022-09-19 | 188 | 33 | 
-| 2022-09-18 | 188 | 32 | 
 

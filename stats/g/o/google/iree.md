@@ -1,10 +1,10 @@
 # google/iree - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 323
 
-★ Stars: 1449
+★ Stars: 1452
 
 [Open repository](https://github.com/google/iree)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1452 | 323 | 
 | 2022-10-17 | 1449 | 323 | 
 | 2022-10-16 | 1449 | 323 | 
 | 2022-10-15 | 1449 | 323 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1416 | 316 | 
 | 2022-09-20 | 1414 | 316 | 
 | 2022-09-19 | 1412 | 314 | 
-| 2022-09-18 | 1411 | 314 | 
 

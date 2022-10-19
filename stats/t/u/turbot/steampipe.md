@@ -1,10 +1,10 @@
 # turbot/steampipe - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 131
+☋ Forks: 133
 
-★ Stars: 3813
+★ Stars: 3828
 
 [Open repository](https://github.com/turbot/steampipe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 3828 | 133 | 
 | 2022-10-17 | 3813 | 131 | 
 | 2022-10-16 | 3774 | 130 | 
 | 2022-10-15 | 3764 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2393 | 95 | 
 | 2022-09-20 | 2375 | 95 | 
 | 2022-09-19 | 2364 | 94 | 
-| 2022-09-18 | 2357 | 94 | 
 

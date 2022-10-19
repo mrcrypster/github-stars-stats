@@ -1,10 +1,10 @@
 # jonkpirateboy/Pass-fur-alle - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 103
 
-★ Stars: 395
+★ Stars: 396
 
 [Open repository](https://github.com/jonkpirateboy/Pass-fur-alle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 396 | 103 | 
 | 2022-10-17 | 395 | 103 | 
 | 2022-10-16 | 395 | 103 | 
 | 2022-10-15 | 394 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 393 | 103 | 
 | 2022-09-20 | 393 | 103 | 
 | 2022-09-19 | 393 | 103 | 
-| 2022-09-18 | 392 | 103 | 
 

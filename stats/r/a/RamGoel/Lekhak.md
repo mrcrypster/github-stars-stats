@@ -1,6 +1,6 @@
 # RamGoel/Lekhak - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1 | 8 | 
 | 2022-10-17 | 1 | 8 | 
 | 2022-10-16 | 1 | 8 | 
 | 2022-10-15 | 1 | 6 | 

@@ -1,10 +1,10 @@
 # percona/percona-helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 79
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/percona/percona-helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 60 | 79 | 
 | 2022-10-17 | 59 | 79 | 
 | 2022-10-16 | 59 | 79 | 
 | 2022-10-15 | 59 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 57 | 75 | 
 | 2022-09-20 | 57 | 75 | 
 | 2022-09-19 | 57 | 75 | 
-| 2022-09-18 | 57 | 75 | 
 

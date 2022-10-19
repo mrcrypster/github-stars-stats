@@ -1,10 +1,10 @@
 # firefart/stunner - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 32
 
-★ Stars: 538
+★ Stars: 539
 
 [Open repository](https://github.com/firefart/stunner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 539 | 32 | 
 | 2022-10-17 | 538 | 32 | 
 | 2022-10-16 | 538 | 32 | 
 | 2022-10-15 | 534 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 531 | 32 | 
 | 2022-09-20 | 530 | 31 | 
 | 2022-09-19 | 530 | 31 | 
-| 2022-09-18 | 529 | 31 | 
 

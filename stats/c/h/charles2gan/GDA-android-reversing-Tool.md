@@ -1,10 +1,10 @@
 # charles2gan/GDA-android-reversing-Tool - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 431
 
-★ Stars: 2973
+★ Stars: 2975
 
 [Open repository](https://github.com/charles2gan/GDA-android-reversing-Tool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2975 | 431 | 
 | 2022-10-17 | 2973 | 431 | 
 | 2022-10-16 | 2971 | 430 | 
 | 2022-10-15 | 2970 | 430 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2918 | 424 | 
 | 2022-09-20 | 2916 | 422 | 
 | 2022-09-19 | 2914 | 421 | 
-| 2022-09-18 | 2911 | 421 | 
 

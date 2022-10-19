@@ -1,6 +1,6 @@
 # python/python-docs-zh-tw - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 118 | 79 | 
 | 2022-10-17 | 118 | 79 | 
 | 2022-10-16 | 117 | 79 | 
 | 2022-10-15 | 117 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 116 | 77 | 
 | 2022-09-20 | 116 | 77 | 
 | 2022-09-19 | 116 | 77 | 
-| 2022-09-18 | 116 | 77 | 
 

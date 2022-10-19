@@ -1,6 +1,6 @@
 # nashville-software-school/bangazon-inc - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 74 | 207 | 
 | 2022-10-18 | 74 | 207 | 
 | 2022-10-17 | 74 | 207 | 
 | 2022-10-15 | 74 | 207 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 74 | 203 | 
 | 2022-09-20 | 74 | 203 | 
 | 2022-09-19 | 74 | 203 | 
-| 2022-09-18 | 74 | 203 | 
 

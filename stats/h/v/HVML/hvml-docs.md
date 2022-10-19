@@ -1,8 +1,8 @@
 # HVML/hvml-docs - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 106
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 106 | 11 | 
 | 2022-10-17 | 106 | 10 | 
 | 2022-10-16 | 106 | 10 | 
 | 2022-10-15 | 106 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 101 | 10 | 
 | 2022-09-20 | 101 | 10 | 
 | 2022-09-19 | 101 | 10 | 
-| 2022-09-18 | 101 | 10 | 
 

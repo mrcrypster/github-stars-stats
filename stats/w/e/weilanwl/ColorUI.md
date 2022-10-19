@@ -1,8 +1,8 @@
 # weilanwl/ColorUI - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 2127
+☋ Forks: 2128
 
 ★ Stars: 11529
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 11529 | 2128 | 
 | 2022-10-17 | 11529 | 2127 | 
 | 2022-10-16 | 11528 | 2127 | 
 | 2022-10-15 | 11526 | 2127 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 11492 | 2124 | 
 | 2022-09-20 | 11492 | 2124 | 
 | 2022-09-19 | 11490 | 2124 | 
-| 2022-09-18 | 11488 | 2124 | 
 

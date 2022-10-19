@@ -1,10 +1,10 @@
 # rrousselGit/flutter_hooks - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 142
 
-★ Stars: 2470
+★ Stars: 2473
 
 [Open repository](https://github.com/rrousselGit/flutter_hooks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2473 | 142 | 
 | 2022-10-17 | 2470 | 142 | 
 | 2022-10-16 | 2468 | 142 | 
 | 2022-10-15 | 2465 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2423 | 141 | 
 | 2022-09-20 | 2420 | 141 | 
 | 2022-09-19 | 2420 | 141 | 
-| 2022-09-18 | 2417 | 141 | 
 

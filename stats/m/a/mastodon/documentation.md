@@ -1,8 +1,8 @@
 # mastodon/documentation - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 737
+☋ Forks: 735
 
 ★ Stars: 1489
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1489 | 735 | 
 | 2022-10-17 | 1489 | 737 | 
 | 2022-10-16 | 1489 | 737 | 
 | 2022-10-15 | 1489 | 737 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1485 | 739 | 
 | 2022-09-20 | 1485 | 739 | 
 | 2022-09-19 | 1485 | 739 | 
-| 2022-09-18 | 1485 | 739 | 
 

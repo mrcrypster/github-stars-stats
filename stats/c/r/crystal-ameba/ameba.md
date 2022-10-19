@@ -1,10 +1,10 @@
 # crystal-ameba/ameba - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 26
 
-★ Stars: 427
+★ Stars: 428
 
 [Open repository](https://github.com/crystal-ameba/ameba)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 428 | 26 | 
 | 2022-10-17 | 427 | 26 | 
 | 2022-10-16 | 427 | 26 | 
 | 2022-10-15 | 426 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 427 | 26 | 
 | 2022-09-21 | 427 | 26 | 
 | 2022-09-20 | 427 | 26 | 
-| 2022-09-18 | 425 | 26 | 
 

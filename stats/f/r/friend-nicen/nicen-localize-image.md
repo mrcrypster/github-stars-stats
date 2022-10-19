@@ -1,10 +1,10 @@
 # friend-nicen/nicen-localize-image - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 8
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/friend-nicen/nicen-localize-image)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 48 | 8 | 
 | 2022-10-17 | 47 | 8 | 
 | 2022-10-16 | 47 | 8 | 
 | 2022-10-15 | 47 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 44 | 8 | 
 | 2022-09-20 | 44 | 8 | 
 | 2022-09-19 | 44 | 8 | 
-| 2022-09-18 | 44 | 8 | 
 

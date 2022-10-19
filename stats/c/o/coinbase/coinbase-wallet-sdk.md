@@ -1,10 +1,10 @@
 # coinbase/coinbase-wallet-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 414
 
-★ Stars: 959
+★ Stars: 960
 
 [Open repository](https://github.com/coinbase/coinbase-wallet-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 960 | 414 | 
 | 2022-10-17 | 959 | 414 | 
 | 2022-10-16 | 959 | 414 | 
 | 2022-10-15 | 956 | 412 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 910 | 402 | 
 | 2022-09-20 | 909 | 399 | 
 | 2022-09-19 | 907 | 397 | 
-| 2022-09-18 | 906 | 396 | 
 

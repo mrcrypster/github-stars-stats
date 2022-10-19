@@ -1,10 +1,10 @@
 # tmuxinator/tmuxinator - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 624
 
-★ Stars: 11606
+★ Stars: 11608
 
 [Open repository](https://github.com/tmuxinator/tmuxinator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 11608 | 624 | 
 | 2022-10-17 | 11606 | 624 | 
 | 2022-10-16 | 11604 | 624 | 
 | 2022-10-15 | 11602 | 624 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 11562 | 625 | 
 | 2022-09-20 | 11559 | 625 | 
 | 2022-09-19 | 11556 | 624 | 
-| 2022-09-18 | 11555 | 624 | 
 

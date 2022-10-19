@@ -1,6 +1,6 @@
 # DynareJulia/Dynare.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 33 | 3 | 
 | 2022-10-17 | 33 | 3 | 
 | 2022-10-16 | 33 | 3 | 
 | 2022-10-15 | 33 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 32 | 3 | 
 | 2022-09-21 | 32 | 3 | 
 | 2022-09-20 | 32 | 3 | 
-| 2022-09-19 | 32 | 3 | 
 

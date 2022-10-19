@@ -1,10 +1,10 @@
 # AzureAD/microsoft-authentication-library-for-objc - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 130
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/AzureAD/microsoft-authentication-library-for-objc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 199 | 130 | 
 | 2022-10-17 | 198 | 130 | 
 | 2022-10-16 | 198 | 130 | 
 | 2022-10-15 | 198 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 195 | 128 | 
 | 2022-09-20 | 195 | 127 | 
 | 2022-09-19 | 193 | 127 | 
-| 2022-09-18 | 193 | 127 | 
 

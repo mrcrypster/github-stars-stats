@@ -1,10 +1,10 @@
 # ipkzone/three - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/ipkzone/three)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 20 | 18 | 
 | 2022-10-17 | 19 | 17 | 
 | 2022-10-16 | 18 | 16 | 
 | 2022-10-15 | 18 | 16 | 

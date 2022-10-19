@@ -1,10 +1,10 @@
 # catzsec/ForceAdmin - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 36
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/catzsec/ForceAdmin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 188 | 36 | 
 | 2022-10-17 | 187 | 36 | 
 | 2022-10-16 | 186 | 36 | 
 | 2022-10-15 | 186 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 161 | 35 | 
 | 2022-09-20 | 160 | 35 | 
 | 2022-09-19 | 154 | 35 | 
-| 2022-09-18 | 144 | 34 | 
 

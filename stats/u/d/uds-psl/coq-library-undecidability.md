@@ -1,10 +1,10 @@
 # uds-psl/coq-library-undecidability - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 19
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/uds-psl/coq-library-undecidability)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 85 | 19 | 
 | 2022-10-17 | 84 | 19 | 
 | 2022-10-16 | 84 | 19 | 
 | 2022-10-15 | 84 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 81 | 17 | 
 | 2022-09-21 | 81 | 17 | 
 | 2022-09-20 | 81 | 17 | 
-| 2022-09-18 | 81 | 17 | 
 

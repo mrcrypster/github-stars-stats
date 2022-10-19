@@ -1,10 +1,10 @@
 # Wilfred/elisp-refs - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 16
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/Wilfred/elisp-refs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 102 | 16 | 
 | 2022-10-17 | 101 | 16 | 
 | 2022-10-16 | 101 | 16 | 
 | 2022-10-15 | 101 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 101 | 16 | 
 | 2022-09-20 | 101 | 16 | 
 | 2022-09-19 | 101 | 16 | 
-| 2022-09-18 | 100 | 16 | 
 

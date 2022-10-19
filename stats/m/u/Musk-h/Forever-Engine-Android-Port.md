@@ -1,10 +1,10 @@
 # Musk-h/Forever-Engine-Android-Port - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Musk-h/Forever-Engine-Android-Port)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2 | 6 | 
 | 2022-10-17 | 1 | 5 | 
 

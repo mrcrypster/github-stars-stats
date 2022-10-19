@@ -1,10 +1,10 @@
 # tpope/vim-pathogen - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1223
 
-★ Stars: 11934
+★ Stars: 11937
 
 [Open repository](https://github.com/tpope/vim-pathogen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 11937 | 1223 | 
 | 2022-10-17 | 11934 | 1223 | 
 | 2022-10-16 | 11933 | 1223 | 
 | 2022-10-15 | 11933 | 1223 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 11918 | 1223 | 
 | 2022-09-20 | 11918 | 1223 | 
 | 2022-09-19 | 11919 | 1223 | 
-| 2022-09-18 | 11918 | 1223 | 
 

@@ -1,8 +1,8 @@
 # E-Cell-VSSUT/Hacktober2k22Tech - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 96
+☋ Forks: 103
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 45 | 103 | 
 | 2022-10-17 | 45 | 96 | 
 | 2022-10-16 | 45 | 92 | 
 | 2022-10-15 | 40 | 87 | 

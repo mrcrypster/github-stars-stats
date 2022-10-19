@@ -1,10 +1,10 @@
 # jinfagang/yolov7 - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 426
 
-★ Stars: 2863
+★ Stars: 2865
 
 [Open repository](https://github.com/jinfagang/yolov7)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2865 | 426 | 
 | 2022-10-17 | 2863 | 426 | 
 | 2022-10-16 | 2858 | 426 | 
 | 2022-10-15 | 2859 | 426 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2807 | 418 | 
 | 2022-09-20 | 2802 | 417 | 
 | 2022-09-19 | 2799 | 414 | 
-| 2022-09-18 | 2792 | 413 | 
 

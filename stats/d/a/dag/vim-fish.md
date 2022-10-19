@@ -1,10 +1,10 @@
 # dag/vim-fish - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 62
 
-★ Stars: 420
+★ Stars: 421
 
 [Open repository](https://github.com/dag/vim-fish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 421 | 62 | 
 | 2022-10-17 | 420 | 62 | 
 | 2022-10-16 | 420 | 62 | 
 | 2022-10-15 | 420 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 415 | 62 | 
 | 2022-09-20 | 415 | 62 | 
 | 2022-09-19 | 415 | 62 | 
-| 2022-09-18 | 415 | 62 | 
 

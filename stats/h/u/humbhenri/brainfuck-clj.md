@@ -1,0 +1,18 @@
+# humbhenri/brainfuck-clj - stars & forks statistics
+
+Stats updated on Oct 2022, 19
+
+☋ Forks: 0
+
+★ Stars: 0
+
+[Open repository](https://github.com/humbhenri/brainfuck-clj)
+
+[Open detailed stats for humbhenri/brainfuck-clj](https://reviewgithub.com/rep/humbhenri/brainfuck-clj)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-19 | - | - | 
+| 2022-10-18 | - | - | 
+

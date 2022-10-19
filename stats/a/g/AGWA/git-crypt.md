@@ -1,10 +1,10 @@
 # AGWA/git-crypt - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 415
 
-★ Stars: 6817
+★ Stars: 6819
 
 [Open repository](https://github.com/AGWA/git-crypt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 6819 | 415 | 
 | 2022-10-17 | 6817 | 415 | 
 | 2022-10-16 | 6815 | 415 | 
 | 2022-10-15 | 6815 | 416 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 6752 | 414 | 
 | 2022-09-20 | 6749 | 414 | 
 | 2022-09-19 | 6747 | 414 | 
-| 2022-09-18 | 6747 | 414 | 
 

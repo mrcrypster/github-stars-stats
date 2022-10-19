@@ -1,8 +1,8 @@
 # LinkedInLearning/advanced-terraform-2823489 - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 1803
+☋ Forks: 1804
 
 ★ Stars: 130
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 130 | 1804 | 
 | 2022-10-17 | 130 | 1803 | 
 | 2022-10-16 | 129 | 1801 | 
 | 2022-10-15 | 129 | 1800 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 126 | 1753 | 
 | 2022-09-20 | 126 | 1752 | 
 | 2022-09-19 | 126 | 1748 | 
-| 2022-09-18 | 126 | 1744 | 
 

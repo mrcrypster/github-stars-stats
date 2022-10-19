@@ -1,8 +1,8 @@
 # binary-com/perl-Ethereum-RPC-Client - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | - | 7 | 
 | 2022-10-17 | - | 6 | 
 | 2022-10-16 | - | 6 | 
 | 2022-10-15 | - | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | - | 7 | 
 | 2022-09-21 | - | 7 | 
 | 2022-09-20 | - | 7 | 
-| 2022-09-19 | - | 7 | 
 

@@ -1,10 +1,10 @@
 # emotion-js/emotion - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1033
 
-★ Stars: 15554
+★ Stars: 15558
 
 [Open repository](https://github.com/emotion-js/emotion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 15558 | 1033 | 
 | 2022-10-17 | 15554 | 1033 | 
 | 2022-10-16 | 15547 | 1033 | 
 | 2022-10-15 | 15546 | 1031 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 15464 | 1020 | 
 | 2022-09-21 | 15458 | 1020 | 
 | 2022-09-19 | 15457 | 1019 | 
-| 2022-09-18 | 15452 | 1019 | 
 

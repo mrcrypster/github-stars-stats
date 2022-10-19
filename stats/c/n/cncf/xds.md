@@ -1,6 +1,6 @@
 # cncf/xds - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 122 | 49 | 
 | 2022-10-17 | 122 | 49 | 
 | 2022-10-16 | 122 | 47 | 
 | 2022-10-15 | 122 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 122 | 45 | 
 | 2022-09-20 | 122 | 44 | 
 | 2022-09-19 | 122 | 44 | 
-| 2022-09-18 | 122 | 44 | 
 

@@ -1,10 +1,10 @@
 # hanmin0822/MisakaTranslator - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 347
 
-★ Stars: 3124
+★ Stars: 3123
 
 [Open repository](https://github.com/hanmin0822/MisakaTranslator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 3123 | 347 | 
 | 2022-10-17 | 3124 | 347 | 
 | 2022-10-16 | 3122 | 347 | 
 | 2022-10-15 | 3119 | 347 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 3051 | 341 | 
 | 2022-09-20 | 3045 | 341 | 
 | 2022-09-19 | 3044 | 341 | 
-| 2022-09-18 | 3042 | 341 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 18
 
 ☋ Forks: 14
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/ddoshi983001/flutter-bni_attendance)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | - | 14 | 
+| 2022-10-18 | 1 | 14 | 
 | 2022-10-17 | - | 14 | 
 

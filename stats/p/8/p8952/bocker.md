@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 18
 
-☋ Forks: 675
+☋ Forks: 677
 
-★ Stars: 10055
+★ Stars: 10220
 
 [Open repository](https://github.com/p8952/bocker)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 10055 | 675 | 
+| 2022-10-18 | 10220 | 677 | 
 | 2022-10-17 | 10038 | 673 | 
 

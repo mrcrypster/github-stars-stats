@@ -1,10 +1,10 @@
 # m-clark/mixedup - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 2
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/m-clark/mixedup)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 49 | 2 | 
 | 2022-10-17 | 48 | 2 | 
 | 2022-10-16 | 48 | 2 | 
 | 2022-10-15 | 48 | 2 | 

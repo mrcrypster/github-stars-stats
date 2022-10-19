@@ -1,10 +1,10 @@
 # fent/node-ytdl-core - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 576
 
-★ Stars: 3451
+★ Stars: 3453
 
 [Open repository](https://github.com/fent/node-ytdl-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 3453 | 576 | 
 | 2022-10-17 | 3451 | 576 | 
 | 2022-10-16 | 3451 | 575 | 
 | 2022-10-15 | 3451 | 574 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 3416 | 572 | 
 | 2022-09-20 | 3415 | 573 | 
 | 2022-09-19 | 3411 | 572 | 
-| 2022-09-18 | 3408 | 572 | 
 

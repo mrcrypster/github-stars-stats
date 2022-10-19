@@ -1,10 +1,10 @@
 # ariga/atlas - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 84
 
-★ Stars: 1977
+★ Stars: 1979
 
 [Open repository](https://github.com/ariga/atlas)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1979 | 84 | 
 | 2022-10-17 | 1977 | 84 | 
 | 2022-10-16 | 1975 | 84 | 
 | 2022-10-15 | 1975 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1853 | 73 | 
 | 2022-09-20 | 1848 | 73 | 
 | 2022-09-19 | 1841 | 72 | 
-| 2022-09-18 | 1834 | 73 | 
 

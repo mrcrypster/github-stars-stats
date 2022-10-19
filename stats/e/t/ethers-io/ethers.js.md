@@ -1,10 +1,10 @@
 # ethers-io/ethers.js - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 1280
+☋ Forks: 1281
 
-★ Stars: 5806
+★ Stars: 5815
 
 [Open repository](https://github.com/ethers-io/ethers.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 5815 | 1281 | 
 | 2022-10-17 | 5806 | 1280 | 
 | 2022-10-16 | 5803 | 1280 | 
 | 2022-10-15 | 5797 | 1277 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 5665 | 1240 | 
 | 2022-09-20 | 5659 | 1239 | 
 | 2022-09-19 | 5652 | 1239 | 
-| 2022-09-18 | 5642 | 1238 | 
 

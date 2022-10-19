@@ -1,10 +1,10 @@
 # nim-lang/nimble - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 150
 
-★ Stars: 1031
+★ Stars: 1032
 
 [Open repository](https://github.com/nim-lang/nimble)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 1032 | 150 | 
 | 2022-10-17 | 1031 | 150 | 
 | 2022-10-16 | 1031 | 150 | 
 | 2022-10-15 | 1030 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 1023 | 149 | 
 | 2022-09-21 | 1023 | 148 | 
 | 2022-09-20 | 1023 | 148 | 
-| 2022-09-19 | 1023 | 148 | 
 

@@ -1,10 +1,10 @@
 # bbatsov/helm-projectile - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 305
+★ Stars: 306
 
 [Open repository](https://github.com/bbatsov/helm-projectile)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 306 | 72 | 
 | 2022-10-17 | 305 | 71 | 
 | 2022-10-16 | 305 | 71 | 
 | 2022-10-15 | 305 | 71 | 

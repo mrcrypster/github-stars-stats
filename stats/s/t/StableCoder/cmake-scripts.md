@@ -1,6 +1,6 @@
 # StableCoder/cmake-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 382 | 55 | 
 | 2022-10-17 | 382 | 55 | 
 | 2022-10-16 | 382 | 55 | 
 | 2022-10-15 | 382 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 375 | 54 | 
 | 2022-09-20 | 375 | 54 | 
 | 2022-09-19 | 375 | 54 | 
-| 2022-09-18 | 375 | 54 | 
 

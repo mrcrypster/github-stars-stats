@@ -1,10 +1,10 @@
 # wix/AppleSimulatorUtils - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 48
 
-★ Stars: 535
+★ Stars: 536
 
 [Open repository](https://github.com/wix/AppleSimulatorUtils)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 536 | 48 | 
 | 2022-10-17 | 535 | 48 | 
 | 2022-10-16 | 535 | 47 | 
 | 2022-10-15 | 535 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 534 | 47 | 
 | 2022-09-21 | 533 | 47 | 
 | 2022-09-20 | 533 | 47 | 
-| 2022-09-19 | 535 | 47 | 
 

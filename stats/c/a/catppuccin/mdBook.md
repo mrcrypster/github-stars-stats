@@ -1,6 +1,6 @@
 # catppuccin/mdBook - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 27 | 1 | 
 | 2022-10-18 | 27 | 1 | 
 | 2022-10-17 | 26 | 1 | 
 | 2022-10-15 | 26 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 22 | 2 | 
 | 2022-09-20 | 22 | 2 | 
 | 2022-09-19 | 22 | 2 | 
-| 2022-09-18 | 22 | 2 | 
 

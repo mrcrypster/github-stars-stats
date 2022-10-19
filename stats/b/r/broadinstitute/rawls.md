@@ -1,6 +1,6 @@
 # broadinstitute/rawls - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 22 | 3 | 
 | 2022-10-18 | 22 | 3 | 
 | 2022-10-17 | 22 | 3 | 
 | 2022-10-16 | 22 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 22 | 3 | 
 | 2022-09-20 | 22 | 3 | 
 | 2022-09-19 | 22 | 3 | 
-| 2022-09-18 | 22 | 3 | 
 

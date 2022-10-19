@@ -1,6 +1,6 @@
 # deng0515001/lnglat2Geo - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 99 | 42 | 
 | 2022-10-17 | 99 | 42 | 
 | 2022-10-16 | 99 | 42 | 
 | 2022-10-15 | 99 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 98 | 42 | 
 | 2022-09-20 | 98 | 42 | 
 | 2022-09-19 | 98 | 42 | 
-| 2022-09-18 | 97 | 41 | 
 

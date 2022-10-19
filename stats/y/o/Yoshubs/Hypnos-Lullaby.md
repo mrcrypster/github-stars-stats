@@ -1,10 +1,10 @@
 # Yoshubs/Hypnos-Lullaby - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 57
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/Yoshubs/Hypnos-Lullaby)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 29 | 57 | 
 | 2022-10-18 | 28 | 57 | 
 | 2022-10-17 | 28 | 57 | 
 | 2022-10-16 | 28 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 28 | 56 | 
 | 2022-09-20 | 28 | 56 | 
 | 2022-09-19 | 28 | 56 | 
-| 2022-09-18 | 28 | 56 | 
 

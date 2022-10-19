@@ -1,10 +1,10 @@
 # Viasat/halite - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 0
+★ Stars: 3
 
 [Open repository](https://github.com/Viasat/halite)
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | - | - | 
+| 2022-10-19 | 3 | 1 | 
+| 2022-10-18 | 2 | 1 | 
 | 2022-10-17 | - | - | 
 | 2022-10-16 | - | - | 
 

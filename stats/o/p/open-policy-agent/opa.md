@@ -1,10 +1,10 @@
 # open-policy-agent/opa - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 997
 
-★ Stars: 7244
+★ Stars: 7250
 
 [Open repository](https://github.com/open-policy-agent/opa)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 7250 | 997 | 
 | 2022-10-17 | 7244 | 997 | 
 | 2022-10-16 | 7240 | 995 | 
 | 2022-10-15 | 7237 | 995 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 7138 | 974 | 
 | 2022-09-20 | 7134 | 974 | 
 | 2022-09-19 | 7128 | 974 | 
-| 2022-09-18 | 7125 | 974 | 
 

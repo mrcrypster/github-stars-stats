@@ -1,10 +1,10 @@
 # circuitvalley/USB_C_Industrial_Camera_FPGA_USB3 - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 45
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 274 | 45 | 
 | 2022-10-17 | 273 | 45 | 
 | 2022-10-16 | 273 | 45 | 
 | 2022-10-15 | 273 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 259 | 42 | 
 | 2022-09-20 | 259 | 42 | 
 | 2022-09-19 | 258 | 42 | 
-| 2022-09-18 | 258 | 42 | 
 

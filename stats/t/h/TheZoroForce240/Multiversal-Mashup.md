@@ -1,10 +1,10 @@
 # TheZoroForce240/Multiversal-Mashup - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/TheZoroForce240/Multiversal-Mashup)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 3 | 5 | 
 | 2022-10-17 | 2 | 5 | 
 | 2022-10-16 | 2 | 5 | 
 | 2022-10-15 | 2 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2 | 5 | 
 | 2022-09-20 | 2 | 5 | 
 | 2022-09-19 | 2 | 5 | 
-| 2022-09-18 | 2 | 5 | 
 

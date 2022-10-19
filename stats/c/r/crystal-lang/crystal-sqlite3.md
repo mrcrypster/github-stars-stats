@@ -1,8 +1,8 @@
 # crystal-lang/crystal-sqlite3 - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 116 | 25 | 
 | 2022-10-17 | 116 | 24 | 
 | 2022-10-16 | 116 | 24 | 
 | 2022-10-15 | 116 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 116 | 24 | 
 | 2022-09-20 | 116 | 24 | 
 | 2022-09-19 | 116 | 24 | 
-| 2022-09-18 | 116 | 24 | 
 

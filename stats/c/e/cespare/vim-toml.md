@@ -1,6 +1,6 @@
 # cespare/vim-toml - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 608 | 42 | 
 | 2022-10-17 | 608 | 42 | 
 | 2022-10-16 | 608 | 42 | 
 | 2022-10-15 | 608 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 608 | 41 | 
 | 2022-09-21 | 608 | 41 | 
 | 2022-09-20 | 608 | 41 | 
-| 2022-09-18 | 608 | 41 | 
 

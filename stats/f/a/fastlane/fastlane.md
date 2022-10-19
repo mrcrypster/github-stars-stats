@@ -1,10 +1,10 @@
 # fastlane/fastlane - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 5322
+☋ Forks: 5323
 
-★ Stars: 35919
+★ Stars: 35927
 
 [Open repository](https://github.com/fastlane/fastlane)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 35927 | 5323 | 
 | 2022-10-17 | 35919 | 5322 | 
 | 2022-10-16 | 35918 | 5321 | 
 | 2022-10-15 | 35914 | 5322 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 35811 | 5307 | 
 | 2022-09-20 | 35806 | 5307 | 
 | 2022-09-19 | 35802 | 5306 | 
-| 2022-09-18 | 35792 | 5302 | 
 

@@ -1,10 +1,10 @@
 # leanprover-community/lean-liquid - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 9
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/leanprover-community/lean-liquid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 101 | 9 | 
 | 2022-10-17 | 100 | 9 | 
 | 2022-10-16 | 100 | 9 | 
 | 2022-10-15 | 100 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 99 | 9 | 
 | 2022-09-20 | 99 | 9 | 
 | 2022-09-19 | 99 | 9 | 
-| 2022-09-18 | 99 | 9 | 
 

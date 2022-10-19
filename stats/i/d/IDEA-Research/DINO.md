@@ -1,6 +1,6 @@
 # IDEA-Research/DINO - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 947 | 95 | 
 | 2022-10-17 | 947 | 95 | 
 | 2022-10-16 | 944 | 95 | 
 | 2022-10-15 | 942 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 894 | 85 | 
 | 2022-09-20 | 892 | 85 | 
 | 2022-09-19 | 889 | 85 | 
-| 2022-09-18 | 887 | 84 | 
 

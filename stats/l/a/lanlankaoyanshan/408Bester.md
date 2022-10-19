@@ -1,10 +1,10 @@
 # lanlankaoyanshan/408Bester - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 645
+★ Stars: 648
 
 [Open repository](https://github.com/lanlankaoyanshan/408Bester)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 648 | 85 | 
 | 2022-10-17 | 645 | 84 | 
 | 2022-10-16 | 640 | 82 | 
 | 2022-10-15 | 639 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-22 | 619 | 80 | 
 | 2022-09-21 | 617 | 80 | 
 | 2022-09-20 | 616 | 80 | 
-| 2022-09-19 | 613 | 80 | 
 

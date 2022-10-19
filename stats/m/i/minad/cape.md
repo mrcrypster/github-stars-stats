@@ -1,10 +1,10 @@
 # minad/cape - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 11
 
-★ Stars: 263
+★ Stars: 265
 
 [Open repository](https://github.com/minad/cape)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 265 | 11 | 
 | 2022-10-17 | 263 | 11 | 
 | 2022-10-16 | 261 | 11 | 
 | 2022-10-15 | 257 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 244 | 11 | 
 | 2022-09-20 | 244 | 11 | 
 | 2022-09-19 | 243 | 11 | 
-| 2022-09-18 | 243 | 11 | 
 

@@ -1,6 +1,6 @@
 # iyefrat/evil-tex - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 60 | 7 | 
 | 2022-10-17 | 60 | 7 | 
 | 2022-10-16 | 60 | 7 | 
 | 2022-10-15 | 60 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 60 | 7 | 
 | 2022-09-20 | 60 | 7 | 
 | 2022-09-19 | 60 | 7 | 
-| 2022-09-18 | 60 | 7 | 
 

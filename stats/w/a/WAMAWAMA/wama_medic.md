@@ -1,10 +1,10 @@
 # WAMAWAMA/wama_medic - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 25
 
-★ Stars: 145
+★ Stars: 157
 
 [Open repository](https://github.com/WAMAWAMA/wama_medic)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 157 | 25 | 
 | 2022-10-17 | 145 | 25 | 
 

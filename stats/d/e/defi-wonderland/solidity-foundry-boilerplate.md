@@ -1,6 +1,6 @@
 # defi-wonderland/solidity-foundry-boilerplate - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 86 | 3 | 
 | 2022-10-17 | 86 | 3 | 
 | 2022-10-16 | 85 | 3 | 
 | 2022-10-15 | 85 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 80 | 2 | 
 | 2022-09-20 | 80 | 2 | 
 | 2022-09-19 | 80 | 2 | 
-| 2022-09-18 | 80 | 2 | 
 

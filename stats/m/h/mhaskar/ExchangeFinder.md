@@ -1,10 +1,10 @@
 # mhaskar/ExchangeFinder - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 11
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/mhaskar/ExchangeFinder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 109 | 11 | 
 | 2022-10-17 | 108 | 11 | 
 | 2022-10-16 | 108 | 11 | 
 | 2022-10-15 | 107 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 102 | 10 | 
 | 2022-09-20 | 99 | 10 | 
 | 2022-09-19 | 97 | 10 | 
-| 2022-09-18 | 93 | 9 | 
 

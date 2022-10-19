@@ -1,6 +1,6 @@
 # GhostPack/Koh - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 400 | 54 | 
 | 2022-10-17 | 400 | 54 | 
 | 2022-10-16 | 398 | 54 | 
 | 2022-10-15 | 398 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 395 | 53 | 
 | 2022-09-20 | 394 | 53 | 
 | 2022-09-19 | 394 | 53 | 
-| 2022-09-18 | 394 | 53 | 
 

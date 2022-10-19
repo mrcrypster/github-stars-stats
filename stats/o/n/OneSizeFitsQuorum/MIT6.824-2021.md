@@ -1,8 +1,8 @@
 # OneSizeFitsQuorum/MIT6.824-2021 - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 168
+☋ Forks: 170
 
 ★ Stars: 704
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 704 | 170 | 
 | 2022-10-17 | 704 | 168 | 
 | 2022-10-16 | 702 | 167 | 
 | 2022-10-15 | 700 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 674 | 160 | 
 | 2022-09-20 | 674 | 160 | 
 | 2022-09-19 | 671 | 160 | 
-| 2022-09-18 | 670 | 160 | 
 

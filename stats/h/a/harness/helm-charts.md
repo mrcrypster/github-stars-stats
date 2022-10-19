@@ -1,6 +1,6 @@
 # harness/helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 5 | 7 | 
 | 2022-10-17 | 5 | 7 | 
 | 2022-10-16 | 5 | 7 | 
 | 2022-10-15 | 5 | 7 | 

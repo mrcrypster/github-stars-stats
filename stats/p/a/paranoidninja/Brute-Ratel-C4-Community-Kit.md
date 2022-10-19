@@ -1,10 +1,10 @@
 # paranoidninja/Brute-Ratel-C4-Community-Kit - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 18
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/paranoidninja/Brute-Ratel-C4-Community-Kit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 132 | 18 | 
 | 2022-10-17 | 131 | 18 | 
 | 2022-10-16 | 130 | 18 | 
 | 2022-10-15 | 130 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 116 | 16 | 
 | 2022-09-20 | 112 | 16 | 
 | 2022-09-19 | 111 | 16 | 
-| 2022-09-18 | 109 | 15 | 
 

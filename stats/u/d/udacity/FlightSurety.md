@@ -1,10 +1,10 @@
 # udacity/FlightSurety - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 156
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/udacity/FlightSurety)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 42 | 156 | 
 | 2022-10-18 | 41 | 156 | 
 | 2022-10-17 | 41 | 156 | 
 | 2022-10-16 | 41 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 40 | 155 | 
 | 2022-09-20 | 40 | 155 | 
 | 2022-09-19 | 40 | 155 | 
-| 2022-09-18 | 40 | 155 | 
 

@@ -1,6 +1,6 @@
 # creativetimofficial/nextjs-argon-dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 86 | 98 | 
 | 2022-10-17 | 86 | 98 | 
 | 2022-10-16 | 86 | 98 | 
 | 2022-10-15 | 86 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 85 | 82 | 
 | 2022-09-20 | 85 | 79 | 
 | 2022-09-19 | 85 | 76 | 
-| 2022-09-18 | 85 | 76 | 
 

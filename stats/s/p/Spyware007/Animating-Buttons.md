@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 18
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/Spyware007/Animating-Buttons)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 25 | 51 | 
+| 2022-10-18 | 27 | 52 | 
 | 2022-10-17 | 25 | 51 | 
 

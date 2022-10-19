@@ -1,10 +1,10 @@
 # omlins/JustSayIt.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 4
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/omlins/JustSayIt.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 64 | 4 | 
 | 2022-10-18 | 63 | 4 | 
 | 2022-10-17 | 63 | 4 | 
 | 2022-10-16 | 63 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 61 | 4 | 
 | 2022-09-20 | 60 | 4 | 
 | 2022-09-19 | 60 | 4 | 
-| 2022-09-18 | 60 | 4 | 
 

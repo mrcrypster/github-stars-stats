@@ -1,6 +1,6 @@
 # gillescastel/latex-snippets - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 743 | 166 | 
 | 2022-10-17 | 743 | 166 | 
 | 2022-10-16 | 741 | 166 | 
 | 2022-10-15 | 740 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 732 | 165 | 
 | 2022-09-20 | 731 | 165 | 
 | 2022-09-19 | 731 | 165 | 
-| 2022-09-18 | 730 | 165 | 
 

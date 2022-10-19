@@ -1,10 +1,10 @@
 # hkchengrex/XMem - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 76
 
-★ Stars: 805
+★ Stars: 808
 
 [Open repository](https://github.com/hkchengrex/XMem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 808 | 76 | 
 | 2022-10-17 | 805 | 76 | 
 | 2022-10-16 | 804 | 76 | 
 | 2022-10-15 | 804 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 784 | 72 | 
 | 2022-09-20 | 784 | 72 | 
 | 2022-09-19 | 781 | 70 | 
-| 2022-09-18 | 781 | 70 | 
 

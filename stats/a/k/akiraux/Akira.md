@@ -1,6 +1,6 @@
 # akiraux/Akira - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 4963 | 208 | 
 | 2022-10-17 | 4963 | 208 | 
 | 2022-10-16 | 4964 | 208 | 
 | 2022-10-15 | 4963 | 208 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 4905 | 204 | 
 | 2022-09-20 | 4898 | 204 | 
 | 2022-09-19 | 4898 | 204 | 
-| 2022-09-18 | 4892 | 204 | 
 

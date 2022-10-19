@@ -1,10 +1,10 @@
 # openresty/lua-nginx-module - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1969
 
-★ Stars: 10301
+★ Stars: 10299
 
 [Open repository](https://github.com/openresty/lua-nginx-module)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 10299 | 1969 | 
 | 2022-10-17 | 10301 | 1969 | 
 | 2022-10-16 | 10299 | 1968 | 
 | 2022-10-15 | 10293 | 1968 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 10247 | 1965 | 
 | 2022-09-20 | 10246 | 1965 | 
 | 2022-09-19 | 10241 | 1964 | 
-| 2022-09-18 | 10238 | 1964 | 
 

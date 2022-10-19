@@ -1,6 +1,6 @@
 # techcraftco/rpi-usb-gadget - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 117 | 10 | 
 | 2022-10-17 | 117 | 10 | 
 | 2022-10-16 | 117 | 10 | 
 | 2022-10-15 | 117 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 114 | 10 | 
 | 2022-09-20 | 113 | 10 | 
 | 2022-09-19 | 113 | 10 | 
-| 2022-09-18 | 113 | 10 | 
 

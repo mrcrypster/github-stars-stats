@@ -1,10 +1,10 @@
 # bevy-cheatbook/bevy-cheatbook - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 59
 
-★ Stars: 839
+★ Stars: 840
 
 [Open repository](https://github.com/bevy-cheatbook/bevy-cheatbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 840 | 59 | 
 | 2022-10-17 | 839 | 59 | 
 | 2022-10-16 | 838 | 59 | 
 | 2022-10-15 | 838 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 806 | 58 | 
 | 2022-09-20 | 804 | 58 | 
 | 2022-09-19 | 801 | 58 | 
-| 2022-09-18 | 800 | 58 | 
 

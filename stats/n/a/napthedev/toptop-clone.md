@@ -1,8 +1,8 @@
 # napthedev/toptop-clone - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 22
+☋ Forks: 23
 
 ★ Stars: 95
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 95 | 23 | 
 | 2022-10-17 | 95 | 22 | 
 | 2022-10-16 | 95 | 22 | 
 | 2022-10-15 | 95 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 76 | 22 | 
 | 2022-09-20 | 76 | 22 | 
 | 2022-09-19 | 76 | 22 | 
-| 2022-09-18 | 76 | 22 | 
 

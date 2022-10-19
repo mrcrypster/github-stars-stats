@@ -1,10 +1,10 @@
 # swciitg/flutter_hacktober_2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 14
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/swciitg/flutter_hacktober_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 4 | 14 | 
 | 2022-10-17 | 3 | 14 | 
 | 2022-10-16 | 3 | 15 | 
 | 2022-10-15 | 3 | 15 | 

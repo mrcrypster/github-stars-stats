@@ -1,8 +1,8 @@
 # Nilsen84/lunar-client-qt - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 69
+☋ Forks: 68
 
 ★ Stars: 183
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 183 | 68 | 
 | 2022-10-17 | 183 | 69 | 
 | 2022-10-16 | 182 | 69 | 
 | 2022-10-15 | 182 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 175 | 66 | 
 | 2022-09-20 | 175 | 66 | 
 | 2022-09-19 | 174 | 66 | 
-| 2022-09-18 | 174 | 65 | 
 

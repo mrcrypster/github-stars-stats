@@ -1,10 +1,10 @@
 # browserslist/browserslist - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 660
+☋ Forks: 662
 
-★ Stars: 11248
+★ Stars: 11257
 
 [Open repository](https://github.com/browserslist/browserslist)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 11257 | 662 | 
 | 2022-10-17 | 11248 | 660 | 
 | 2022-10-16 | 11245 | 660 | 
 | 2022-10-15 | 11240 | 660 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 11158 | 656 | 
 | 2022-09-20 | 11147 | 656 | 
 | 2022-09-19 | 11143 | 656 | 
-| 2022-09-18 | 11134 | 656 | 
 

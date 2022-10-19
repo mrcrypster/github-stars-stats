@@ -1,8 +1,8 @@
 # rweekly/rweekly.org - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 283
+☋ Forks: 284
 
 ★ Stars: 538
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 538 | 284 | 
 | 2022-10-17 | 538 | 283 | 
 | 2022-10-16 | 537 | 283 | 
 | 2022-10-15 | 537 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 537 | 280 | 
 | 2022-09-20 | 537 | 280 | 
 | 2022-09-19 | 537 | 280 | 
-| 2022-09-18 | 536 | 280 | 
 

@@ -1,8 +1,8 @@
 # rafaballerini/Formulario - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
-☋ Forks: 533
+☋ Forks: 532
 
 ★ Stars: 873
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 873 | 532 | 
 | 2022-10-17 | 873 | 533 | 
 | 2022-10-16 | 872 | 534 | 
 | 2022-10-15 | 871 | 533 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 848 | 523 | 
 | 2022-09-20 | 847 | 523 | 
 | 2022-09-19 | 845 | 522 | 
-| 2022-09-18 | 844 | 521 | 
 

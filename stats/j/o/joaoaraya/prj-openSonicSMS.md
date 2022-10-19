@@ -1,6 +1,6 @@
 # joaoaraya/prj-openSonicSMS - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 40 | 12 | 
 | 2022-10-18 | 40 | 12 | 
 | 2022-10-17 | 40 | 11 | 
 | 2022-10-16 | 40 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-21 | 41 | 10 | 
 | 2022-09-20 | 41 | 10 | 
 | 2022-09-19 | 41 | 10 | 
-| 2022-09-18 | 41 | 10 | 
 

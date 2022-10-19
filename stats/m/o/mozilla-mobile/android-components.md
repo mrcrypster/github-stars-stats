@@ -1,10 +1,10 @@
 # mozilla-mobile/android-components - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 506
 
-★ Stars: 2029
+★ Stars: 2030
 
 [Open repository](https://github.com/mozilla-mobile/android-components)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2030 | 506 | 
 | 2022-10-17 | 2029 | 506 | 
 | 2022-10-16 | 2028 | 503 | 
 | 2022-10-15 | 2026 | 501 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 2019 | 494 | 
 | 2022-09-20 | 2018 | 493 | 
 | 2022-09-19 | 2018 | 493 | 
-| 2022-09-18 | 2018 | 493 | 
 

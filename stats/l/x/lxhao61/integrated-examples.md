@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 18
 
-☋ Forks: 235
+☋ Forks: 236
 
-★ Stars: 764
+★ Stars: 771
 
 [Open repository](https://github.com/lxhao61/integrated-examples)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-18 | 764 | 235 | 
+| 2022-10-18 | 771 | 236 | 
 | 2022-10-17 | 764 | 235 | 
 

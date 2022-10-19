@@ -1,10 +1,10 @@
 # BotsAppOfficial/BotsApp - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1213
 
-★ Stars: 5330
+★ Stars: 5336
 
 [Open repository](https://github.com/BotsAppOfficial/BotsApp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 5336 | 1213 | 
 | 2022-10-17 | 5330 | 1213 | 
 | 2022-10-16 | 5325 | 1213 | 
 | 2022-10-15 | 5319 | 1213 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 5117 | 1194 | 
 | 2022-09-20 | 5108 | 1190 | 
 | 2022-09-19 | 5098 | 1189 | 
-| 2022-09-18 | 5092 | 1189 | 
 

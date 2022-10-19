@@ -1,10 +1,10 @@
 # bedimcode/magic-motion-button - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/bedimcode/magic-motion-button)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 8 | - | 
 | 2022-10-17 | 7 | - | 
 | 2022-10-16 | 7 | - | 
 | 2022-10-15 | 7 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 5 | - | 
 | 2022-09-20 | 4 | - | 
 | 2022-09-19 | 4 | - | 
-| 2022-09-18 | 4 | - | 
 

@@ -1,6 +1,6 @@
 # ros-planning/navigation_msgs - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 29 | 51 | 
 | 2022-10-17 | 29 | 51 | 
 | 2022-10-16 | 29 | 51 | 
 | 2022-10-15 | 29 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 28 | 51 | 
 | 2022-09-20 | 28 | 51 | 
 | 2022-09-19 | 28 | 51 | 
-| 2022-09-18 | 28 | 51 | 
 

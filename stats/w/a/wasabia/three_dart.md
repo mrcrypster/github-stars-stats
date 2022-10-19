@@ -1,6 +1,6 @@
 # wasabia/three_dart - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 249 | 34 | 
 | 2022-10-17 | 249 | 34 | 
 | 2022-10-16 | 248 | 34 | 
 | 2022-10-15 | 248 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 230 | 29 | 
 | 2022-09-20 | 229 | 29 | 
 | 2022-09-19 | 228 | 28 | 
-| 2022-09-18 | 226 | 28 | 
 

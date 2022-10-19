@@ -1,10 +1,10 @@
 # UberGuidoZ/Flipper - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 353
 
-★ Stars: 2070
+★ Stars: 2072
 
 [Open repository](https://github.com/UberGuidoZ/Flipper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 2072 | 353 | 
 | 2022-10-17 | 2070 | 353 | 
 | 2022-10-16 | 2062 | 353 | 
 | 2022-10-15 | 2051 | 352 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 1770 | 286 | 
 | 2022-09-20 | 1754 | 282 | 
 | 2022-09-19 | 1722 | 275 | 
-| 2022-09-18 | 1618 | 263 | 
 

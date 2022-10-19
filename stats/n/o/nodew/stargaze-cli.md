@@ -1,6 +1,6 @@
 # nodew/stargaze-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 17
+Stats updated on Oct 2022, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-18 | 18 | 1 | 
 | 2022-10-17 | 18 | 1 | 
 | 2022-10-16 | 18 | 1 | 
 | 2022-10-15 | 18 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 17
 | 2022-09-21 | 18 | 1 | 
 | 2022-09-20 | 18 | 1 | 
 | 2022-09-19 | 18 | 1 | 
-| 2022-09-18 | 18 | 1 | 
 
