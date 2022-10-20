@@ -1,6 +1,6 @@
 # shalzuth/LostArkLogger - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 134 | 88 | 
 | 2022-10-18 | 134 | 88 | 
 | 2022-10-17 | 133 | 86 | 
 | 2022-10-16 | 133 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 131 | 82 | 
 | 2022-09-21 | 131 | 82 | 
 | 2022-09-20 | 130 | 81 | 
-| 2022-09-19 | 130 | 82 | 
 

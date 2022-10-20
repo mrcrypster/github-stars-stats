@@ -1,10 +1,10 @@
 # DFKI-NLP/thermostat - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 120
+★ Stars: 123
 
 [Open repository](https://github.com/DFKI-NLP/thermostat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 123 | 6 | 
 | 2022-10-18 | 120 | 5 | 
 | 2022-10-17 | 118 | 5 | 
 

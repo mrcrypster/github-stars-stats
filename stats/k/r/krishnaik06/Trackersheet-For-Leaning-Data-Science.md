@@ -1,6 +1,6 @@
 # krishnaik06/Trackersheet-For-Leaning-Data-Science - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 46 | 21 | 
 | 2022-10-18 | 46 | 21 | 
 | 2022-10-17 | 46 | 21 | 
 | 2022-10-16 | 46 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 44 | 22 | 
 | 2022-09-21 | 44 | 22 | 
 | 2022-09-20 | 43 | 22 | 
-| 2022-09-19 | 43 | 21 | 
 

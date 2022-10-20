@@ -1,6 +1,6 @@
 # MarginResearch/cannoli - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 377 | 16 | 
 | 2022-10-18 | 377 | 16 | 
 | 2022-10-17 | 376 | 16 | 
 | 2022-10-16 | 376 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 371 | 16 | 
 | 2022-09-21 | 371 | 15 | 
 | 2022-09-20 | 370 | 15 | 
-| 2022-09-19 | 370 | 15 | 
 

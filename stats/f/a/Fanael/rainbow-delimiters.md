@@ -1,10 +1,10 @@
 # Fanael/rainbow-delimiters - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 29
 
-★ Stars: 576
+★ Stars: 575
 
 [Open repository](https://github.com/Fanael/rainbow-delimiters)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 575 | 29 | 
 | 2022-10-18 | 576 | 29 | 
 | 2022-10-17 | 575 | 29 | 
 | 2022-10-16 | 574 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 572 | 29 | 
 | 2022-09-21 | 572 | 29 | 
 | 2022-09-20 | 572 | 29 | 
-| 2022-09-19 | 572 | 29 | 
 

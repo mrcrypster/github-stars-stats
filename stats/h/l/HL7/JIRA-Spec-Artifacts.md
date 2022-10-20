@@ -1,6 +1,6 @@
 # HL7/JIRA-Spec-Artifacts - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 5 | 85 | 
 | 2022-10-18 | 5 | 85 | 
 | 2022-10-17 | 5 | 85 | 
 | 2022-10-16 | 5 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 5 | 84 | 
 | 2022-09-21 | 5 | 84 | 
 | 2022-09-20 | 5 | 84 | 
-| 2022-09-19 | 5 | 84 | 
 

@@ -1,10 +1,10 @@
 # rappasoft/laravel-livewire-tables - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 210
 
-★ Stars: 1203
+★ Stars: 1205
 
 [Open repository](https://github.com/rappasoft/laravel-livewire-tables)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1205 | 210 | 
 | 2022-10-18 | 1203 | 210 | 
 | 2022-10-17 | 1203 | 211 | 
 | 2022-10-16 | 1204 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 1186 | 209 | 
 | 2022-09-22 | 1184 | 209 | 
 | 2022-09-21 | 1183 | 209 | 
-| 2022-09-19 | 1179 | 210 | 
 

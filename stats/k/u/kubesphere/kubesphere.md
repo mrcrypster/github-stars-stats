@@ -1,10 +1,10 @@
 # kubesphere/kubesphere - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1693
+☋ Forks: 1697
 
-★ Stars: 11180
+★ Stars: 11192
 
 [Open repository](https://github.com/kubesphere/kubesphere)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 11192 | 1697 | 
 | 2022-10-18 | 11180 | 1693 | 
 | 2022-10-17 | 11167 | 1694 | 
 | 2022-10-16 | 11162 | 1692 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 11013 | 1666 | 
 | 2022-09-21 | 11004 | 1664 | 
 | 2022-09-20 | 10998 | 1662 | 
-| 2022-09-19 | 10992 | 1662 | 
 

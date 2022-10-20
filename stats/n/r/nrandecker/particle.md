@@ -1,10 +1,10 @@
 # nrandecker/particle - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1048
+☋ Forks: 1049
 
-★ Stars: 911
+★ Stars: 910
 
 [Open repository](https://github.com/nrandecker/particle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 910 | 1049 | 
 | 2022-10-18 | 911 | 1048 | 
 | 2022-10-17 | 911 | 1048 | 
 | 2022-10-16 | 911 | 1048 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 907 | 1044 | 
 | 2022-09-21 | 907 | 1043 | 
 | 2022-09-20 | 907 | 1043 | 
-| 2022-09-19 | 907 | 1042 | 
 

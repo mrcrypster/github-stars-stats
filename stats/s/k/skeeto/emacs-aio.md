@@ -1,10 +1,10 @@
 # skeeto/emacs-aio - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 10
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/skeeto/emacs-aio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 201 | 10 | 
 | 2022-10-18 | 200 | 10 | 
 | 2022-10-17 | 201 | 10 | 
 | 2022-10-16 | 200 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 199 | 10 | 
 | 2022-09-21 | 200 | 10 | 
 | 2022-09-20 | 200 | 10 | 
-| 2022-09-19 | 200 | 10 | 
 

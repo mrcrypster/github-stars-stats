@@ -1,6 +1,6 @@
 # JuliaML/MLUtils.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 62 | 13 | 
 | 2022-10-18 | 62 | 13 | 
 | 2022-10-17 | 62 | 13 | 
 | 2022-10-16 | 62 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 60 | 13 | 
 | 2022-09-22 | 60 | 13 | 
 | 2022-09-21 | 60 | 13 | 
-| 2022-09-20 | 60 | 13 | 
 

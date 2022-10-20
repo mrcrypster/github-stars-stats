@@ -1,6 +1,6 @@
 # xiaomi-sm6150/android_vendor_xiaomi - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3 | 35 | 
 | 2022-10-18 | 3 | 35 | 
 | 2022-10-17 | 3 | 35 | 
 | 2022-10-16 | 3 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3 | 36 | 
 | 2022-09-21 | 3 | 36 | 
 | 2022-09-20 | 3 | 36 | 
-| 2022-09-19 | 2 | 37 | 
 

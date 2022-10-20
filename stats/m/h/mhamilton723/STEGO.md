@@ -1,10 +1,10 @@
 # mhamilton723/STEGO - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 83
 
-★ Stars: 423
+★ Stars: 424
 
 [Open repository](https://github.com/mhamilton723/STEGO)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 424 | 83 | 
 | 2022-10-18 | 423 | 83 | 
 | 2022-10-17 | 422 | 83 | 
 | 2022-10-16 | 422 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 410 | 82 | 
 | 2022-09-21 | 410 | 81 | 
 | 2022-09-20 | 410 | 81 | 
-| 2022-09-19 | 409 | 81 | 
 

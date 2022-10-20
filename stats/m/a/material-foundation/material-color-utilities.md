@@ -1,10 +1,10 @@
 # material-foundation/material-color-utilities - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 729
+★ Stars: 731
 
 [Open repository](https://github.com/material-foundation/material-color-utilities)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 731 | 55 | 
 | 2022-10-18 | 729 | 54 | 
 | 2022-10-17 | 726 | 54 | 
 | 2022-10-16 | 726 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 682 | 52 | 
 | 2022-09-22 | 681 | 52 | 
 | 2022-09-21 | 679 | 52 | 
-| 2022-09-20 | 675 | 51 | 
 

@@ -1,10 +1,10 @@
 # Unity-Technologies/uaal-example - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 169
 
-★ Stars: 497
+★ Stars: 500
 
 [Open repository](https://github.com/Unity-Technologies/uaal-example)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 500 | 169 | 
 | 2022-10-18 | 497 | 169 | 
 | 2022-10-17 | 495 | 167 | 
 | 2022-10-16 | 492 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 474 | 161 | 
 | 2022-09-21 | 473 | 161 | 
 | 2022-09-20 | 472 | 161 | 
-| 2022-09-19 | 471 | 160 | 
 

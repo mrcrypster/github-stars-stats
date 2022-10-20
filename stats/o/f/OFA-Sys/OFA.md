@@ -1,10 +1,10 @@
 # OFA-Sys/OFA - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 143
 
-★ Stars: 1176
+★ Stars: 1179
 
 [Open repository](https://github.com/OFA-Sys/OFA)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1179 | 143 | 
 | 2022-10-18 | 1176 | 143 | 
 | 2022-10-17 | 1170 | 143 | 
 | 2022-10-16 | 1168 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 1086 | 138 | 
 | 2022-09-22 | 1077 | 138 | 
 | 2022-09-21 | 1073 | 138 | 
-| 2022-09-20 | 1068 | 137 | 
 

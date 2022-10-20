@@ -1,10 +1,10 @@
 # ZeframLou/bunni - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 8
 
-★ Stars: 83
+★ Stars: 84
 
 [Open repository](https://github.com/ZeframLou/bunni)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 84 | 8 | 
 | 2022-10-18 | 83 | 8 | 
 | 2022-10-17 | 83 | 8 | 
 | 2022-10-16 | 83 | 8 | 

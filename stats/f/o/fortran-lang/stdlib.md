@@ -1,6 +1,6 @@
 # fortran-lang/stdlib - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 713 | 113 | 
 | 2022-10-18 | 713 | 113 | 
 | 2022-10-17 | 712 | 113 | 
 | 2022-10-16 | 712 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 705 | 111 | 
 | 2022-09-21 | 705 | 111 | 
 | 2022-09-20 | 704 | 111 | 
-| 2022-09-19 | 705 | 111 | 
 

@@ -1,10 +1,10 @@
 # manjaro/manjaro-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 17
 
-★ Stars: 73
+★ Stars: 75
 
 [Open repository](https://github.com/manjaro/manjaro-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 75 | 17 | 
 | 2022-10-18 | 73 | 17 | 
 | 2022-10-17 | 73 | 17 | 
 | 2022-10-16 | 73 | 17 | 

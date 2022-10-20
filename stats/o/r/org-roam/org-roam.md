@@ -1,10 +1,10 @@
 # org-roam/org-roam - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 418
+☋ Forks: 417
 
-★ Stars: 4659
+★ Stars: 4663
 
 [Open repository](https://github.com/org-roam/org-roam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 4663 | 417 | 
 | 2022-10-18 | 4659 | 418 | 
 | 2022-10-17 | 4656 | 418 | 
 | 2022-10-16 | 4651 | 418 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 4614 | 418 | 
 | 2022-09-21 | 4612 | 418 | 
 | 2022-09-20 | 4610 | 418 | 
-| 2022-09-19 | 4609 | 416 | 
 

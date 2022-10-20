@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 19
 
-☋ Forks: 101
+☋ Forks: 102
 
-★ Stars: 401
+★ Stars: 402
 
 [Open repository](https://github.com/supabase/auth-helpers)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 401 | 101 | 
+| 2022-10-19 | 402 | 102 | 
 | 2022-10-18 | 401 | 101 | 
 

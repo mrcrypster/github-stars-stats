@@ -1,10 +1,10 @@
 # SortableJS/Sortable - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3545
 
-★ Stars: 25739
+★ Stars: 25751
 
 [Open repository](https://github.com/SortableJS/Sortable)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 25751 | 3545 | 
 | 2022-10-18 | 25739 | 3545 | 
 | 2022-10-17 | 25716 | 3544 | 
 | 2022-10-16 | 25707 | 3542 | 

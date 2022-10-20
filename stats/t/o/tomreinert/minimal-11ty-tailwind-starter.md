@@ -1,8 +1,8 @@
 # tomreinert/minimal-11ty-tailwind-starter - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 79 | 18 | 
 | 2022-10-18 | 79 | 17 | 
 | 2022-10-17 | 79 | 17 | 
 | 2022-10-16 | 79 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 79 | 17 | 
 | 2022-09-22 | 79 | 17 | 
 | 2022-09-21 | 79 | 17 | 
-| 2022-09-20 | 79 | 17 | 
 

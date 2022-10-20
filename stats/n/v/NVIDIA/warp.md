@@ -1,10 +1,10 @@
 # NVIDIA/warp - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 53
 
-★ Stars: 736
+★ Stars: 738
 
 [Open repository](https://github.com/NVIDIA/warp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 738 | 53 | 
 | 2022-10-18 | 736 | 53 | 
 | 2022-10-17 | 736 | 53 | 
 | 2022-10-16 | 734 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 713 | 48 | 
 | 2022-09-21 | 705 | 48 | 
 | 2022-09-20 | 684 | 48 | 
-| 2022-09-19 | 684 | 48 | 
 

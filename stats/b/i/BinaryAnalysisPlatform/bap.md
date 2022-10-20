@@ -1,6 +1,6 @@
 # BinaryAnalysisPlatform/bap - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1710 | 267 | 
 | 2022-10-18 | 1710 | 267 | 
 | 2022-10-17 | 1709 | 267 | 
 | 2022-10-16 | 1707 | 266 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1699 | 263 | 
 | 2022-09-21 | 1697 | 263 | 
 | 2022-09-20 | 1697 | 263 | 
-| 2022-09-19 | 1697 | 263 | 
 

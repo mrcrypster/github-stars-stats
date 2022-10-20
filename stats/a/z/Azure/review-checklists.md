@@ -1,10 +1,10 @@
 # Azure/review-checklists - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 109
 
-★ Stars: 334
+★ Stars: 335
 
 [Open repository](https://github.com/Azure/review-checklists)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 335 | 109 | 
 | 2022-10-18 | 334 | 109 | 
 | 2022-10-17 | 333 | 109 | 
 | 2022-10-16 | 331 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 323 | 102 | 
 | 2022-09-21 | 322 | 102 | 
 | 2022-09-20 | 322 | 100 | 
-| 2022-09-19 | 322 | 99 | 
 

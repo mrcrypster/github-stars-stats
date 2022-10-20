@@ -1,10 +1,10 @@
 # tintinweb/smart-contract-sanctuary - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 205
 
-★ Stars: 1023
+★ Stars: 1022
 
 [Open repository](https://github.com/tintinweb/smart-contract-sanctuary)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1022 | 205 | 
 | 2022-10-18 | 1023 | 205 | 
 | 2022-10-17 | 1023 | 205 | 
 | 2022-10-16 | 1021 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1005 | 199 | 
 | 2022-09-21 | 1004 | 199 | 
 | 2022-09-20 | 1004 | 199 | 
-| 2022-09-19 | 1004 | 199 | 
 

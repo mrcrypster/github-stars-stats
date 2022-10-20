@@ -1,6 +1,6 @@
 # modernmcguire/mailthief - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 32 | 3 | 
 | 2022-10-18 | 32 | 3 | 
 | 2022-10-17 | 32 | 3 | 
 | 2022-10-16 | 32 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 32 | 3 | 
 | 2022-09-21 | 32 | 3 | 
 | 2022-09-20 | 32 | 3 | 
-| 2022-09-19 | 32 | 3 | 
 

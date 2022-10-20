@@ -1,6 +1,6 @@
 # KomodoPlatform/atomicDEX-Desktop - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 208 | 157 | 
 | 2022-10-18 | 208 | 157 | 
 | 2022-10-17 | 208 | 158 | 
 | 2022-10-16 | 208 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 206 | 152 | 
 | 2022-09-21 | 206 | 152 | 
 | 2022-09-20 | 206 | 152 | 
-| 2022-09-19 | 206 | 151 | 
 

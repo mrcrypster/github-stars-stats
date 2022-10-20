@@ -1,8 +1,8 @@
 # getsentry/sentry-dart - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 592
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 592 | 154 | 
 | 2022-10-18 | 592 | 153 | 
 | 2022-10-17 | 591 | 153 | 
 | 2022-10-16 | 591 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 581 | 149 | 
 | 2022-09-21 | 579 | 148 | 
 | 2022-09-20 | 579 | 148 | 
-| 2022-09-19 | 578 | 148 | 
 

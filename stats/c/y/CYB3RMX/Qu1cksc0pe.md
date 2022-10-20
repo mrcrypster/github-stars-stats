@@ -1,10 +1,10 @@
 # CYB3RMX/Qu1cksc0pe - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 80
 
-★ Stars: 409
+★ Stars: 411
 
 [Open repository](https://github.com/CYB3RMX/Qu1cksc0pe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 411 | 80 | 
 | 2022-10-18 | 409 | 80 | 
 | 2022-10-17 | 409 | 80 | 
 | 2022-10-16 | 409 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 403 | 81 | 
 | 2022-09-21 | 403 | 81 | 
 | 2022-09-20 | 401 | 81 | 
-| 2022-09-19 | 399 | 81 | 
 

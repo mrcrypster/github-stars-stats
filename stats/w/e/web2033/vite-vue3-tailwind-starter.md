@@ -1,10 +1,10 @@
 # web2033/vite-vue3-tailwind-starter - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 161
 
-★ Stars: 1035
+★ Stars: 1038
 
 [Open repository](https://github.com/web2033/vite-vue3-tailwind-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1038 | 161 | 
 | 2022-10-18 | 1035 | 161 | 
 | 2022-10-17 | 1033 | 160 | 
 | 2022-10-16 | 1033 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1015 | 154 | 
 | 2022-09-21 | 1015 | 154 | 
 | 2022-09-20 | 1015 | 154 | 
-| 2022-09-19 | 1014 | 154 | 
 

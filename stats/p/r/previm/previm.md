@@ -1,10 +1,10 @@
 # previm/previm - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 132
 
-★ Stars: 751
+★ Stars: 752
 
 [Open repository](https://github.com/previm/previm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 752 | 132 | 
 | 2022-10-18 | 751 | 132 | 
 | 2022-10-17 | 751 | 132 | 
 | 2022-10-16 | 751 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 751 | 132 | 
 | 2022-09-21 | 751 | 132 | 
 | 2022-09-20 | 751 | 132 | 
-| 2022-09-19 | 750 | 132 | 
 

@@ -1,8 +1,8 @@
 # lambdalisue/fern-renderer-nerdfont.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 54 | 4 | 
 | 2022-10-18 | 54 | 3 | 
 | 2022-10-17 | 54 | 3 | 
 | 2022-10-16 | 54 | 3 | 

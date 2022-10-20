@@ -1,10 +1,10 @@
 # 0xClandestine/RemcoMath - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/0xClandestine/RemcoMath)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 29 | - | 
 | 2022-10-18 | 28 | - | 
 | 2022-10-17 | 28 | - | 
 | 2022-10-16 | 28 | - | 

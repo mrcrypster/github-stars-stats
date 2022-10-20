@@ -1,10 +1,10 @@
 # creativetimofficial/vue-notus - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 181
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/creativetimofficial/vue-notus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 401 | 181 | 
 | 2022-10-18 | 400 | 181 | 
 | 2022-10-17 | 400 | 180 | 
 | 2022-10-16 | 400 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 389 | 161 | 
 | 2022-09-21 | 389 | 160 | 
 | 2022-09-20 | 389 | 158 | 
-| 2022-09-19 | 389 | 156 | 
 

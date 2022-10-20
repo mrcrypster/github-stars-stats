@@ -1,8 +1,8 @@
 # onelang/OneLang - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 75
+☋ Forks: 76
 
 ★ Stars: 1017
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1017 | 76 | 
 | 2022-10-18 | 1017 | 75 | 
 | 2022-10-17 | 1017 | 75 | 
 | 2022-10-16 | 1017 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1005 | 74 | 
 | 2022-09-21 | 1005 | 74 | 
 | 2022-09-20 | 1005 | 74 | 
-| 2022-09-19 | 1005 | 74 | 
 

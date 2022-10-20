@@ -1,8 +1,8 @@
 # alexaorrico/holbertonschool-low_level_programming - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 110
+☋ Forks: 109
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 28 | 109 | 
 | 2022-10-18 | 28 | 110 | 
 | 2022-10-17 | 28 | 110 | 
 | 2022-10-16 | 28 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 20 | 83 | 
 | 2022-09-21 | 19 | 82 | 
 | 2022-09-20 | 19 | 80 | 
-| 2022-09-19 | 19 | 76 | 
 

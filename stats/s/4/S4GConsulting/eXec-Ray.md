@@ -1,6 +1,6 @@
 # S4GConsulting/eXec-Ray - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 16 | 4 | 
 | 2022-10-18 | 16 | 4 | 
 | 2022-10-17 | 16 | 4 | 
 | 2022-10-16 | 16 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 16 | 4 | 
 | 2022-09-22 | 16 | 4 | 
 | 2022-09-21 | 16 | 4 | 
-| 2022-09-20 | 16 | 4 | 
 

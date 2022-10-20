@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 19
 
 ☋ Forks: 1469
 
-★ Stars: 7128
+★ Stars: 7131
 
 [Open repository](https://github.com/libretro/RetroArch)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 7128 | 1469 | 
+| 2022-10-19 | 7131 | 1469 | 
 | 2022-10-18 | 7126 | 1468 | 
 | 2022-10-17 | 7122 | 1469 | 
 | 2022-10-16 | 7110 | 1467 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 7028 | 1466 | 
 | 2022-09-22 | 7024 | 1466 | 
 | 2022-09-21 | 7021 | 1465 | 
-| 2022-09-20 | 7020 | 1463 | 
 

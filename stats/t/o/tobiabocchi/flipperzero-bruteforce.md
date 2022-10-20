@@ -1,10 +1,10 @@
 # tobiabocchi/flipperzero-bruteforce - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 21
 
-★ Stars: 279
+★ Stars: 285
 
 [Open repository](https://github.com/tobiabocchi/flipperzero-bruteforce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 285 | 21 | 
 | 2022-10-18 | 279 | 21 | 
 | 2022-10-17 | 276 | 20 | 
 | 2022-10-16 | 272 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 208 | 15 | 
 | 2022-09-21 | 205 | 15 | 
 | 2022-09-20 | 200 | 13 | 
-| 2022-09-19 | 194 | 13 | 
 

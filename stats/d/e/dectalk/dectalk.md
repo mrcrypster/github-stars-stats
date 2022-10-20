@@ -1,10 +1,10 @@
 # dectalk/dectalk - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 9
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/dectalk/dectalk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 63 | 9 | 
 | 2022-10-18 | 62 | 9 | 
 | 2022-10-17 | 55 | 9 | 
 | 2022-10-16 | 55 | 9 | 

@@ -1,8 +1,8 @@
 # stellar/stellar-core - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 997
+☋ Forks: 998
 
 ★ Stars: 3010
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3010 | 998 | 
 | 2022-10-18 | 3010 | 997 | 
 | 2022-10-17 | 3010 | 997 | 
 | 2022-10-16 | 3011 | 996 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 3005 | 995 | 
 | 2022-09-22 | 3004 | 995 | 
 | 2022-09-20 | 3003 | 996 | 
-| 2022-09-19 | 3003 | 995 | 
 

@@ -1,6 +1,6 @@
 # marcozakaria/URP-LWRP-Shaders - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 487 | 48 | 
 | 2022-10-18 | 487 | 48 | 
 | 2022-10-17 | 486 | 48 | 
 | 2022-10-16 | 486 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 481 | 47 | 
 | 2022-09-22 | 481 | 47 | 
 | 2022-09-21 | 480 | 47 | 
-| 2022-09-20 | 480 | 47 | 
 

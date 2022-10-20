@@ -1,10 +1,10 @@
 # coderflexx/laravel-ticket - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 12
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/coderflexx/laravel-ticket)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 145 | 12 | 
 | 2022-10-18 | 144 | 12 | 
 | 2022-10-17 | 143 | 12 | 
 | 2022-10-16 | 143 | 12 | 

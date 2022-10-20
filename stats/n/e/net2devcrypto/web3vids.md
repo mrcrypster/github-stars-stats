@@ -1,8 +1,8 @@
 # net2devcrypto/web3vids - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 14 | 25 | 
 | 2022-10-18 | 14 | 24 | 
 | 2022-10-17 | 14 | 24 | 
 | 2022-10-16 | 14 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 13 | 21 | 
 | 2022-09-21 | 13 | 21 | 
 | 2022-09-20 | 13 | 21 | 
-| 2022-09-19 | 13 | 21 | 
 

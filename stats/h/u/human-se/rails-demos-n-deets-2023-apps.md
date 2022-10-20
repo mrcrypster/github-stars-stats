@@ -1,6 +1,6 @@
 # human-se/rails-demos-n-deets-2023-apps - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | - | 5 | 
 | 2022-10-18 | - | 5 | 
 | 2022-10-17 | - | 5 | 
 | 2022-10-16 | - | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | - | 5 | 
 | 2022-09-21 | - | 5 | 
 | 2022-09-20 | - | 5 | 
-| 2022-09-19 | - | 5 | 
 

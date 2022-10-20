@@ -1,6 +1,6 @@
 # slaclab/axi-pcie-core - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 11 | 7 | 
 | 2022-10-18 | 11 | 7 | 
 | 2022-10-17 | 11 | 7 | 
 | 2022-10-16 | 11 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 11 | 6 | 
 | 2022-09-22 | 11 | 6 | 
 | 2022-09-21 | 11 | 6 | 
-| 2022-09-20 | 11 | 6 | 
 

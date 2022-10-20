@@ -1,10 +1,10 @@
 # google/sentencepiece - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 839
+☋ Forks: 840
 
-★ Stars: 6220
+★ Stars: 6222
 
 [Open repository](https://github.com/google/sentencepiece)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 6222 | 840 | 
 | 2022-10-18 | 6220 | 839 | 
 | 2022-10-17 | 6218 | 839 | 
 | 2022-10-16 | 6218 | 839 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 6172 | 843 | 
 | 2022-09-21 | 6170 | 843 | 
 | 2022-09-20 | 6168 | 843 | 
-| 2022-09-19 | 6168 | 843 | 
 

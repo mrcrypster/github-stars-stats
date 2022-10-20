@@ -1,10 +1,10 @@
 # dasundev/hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 137
+☋ Forks: 147
 
-★ Stars: 33
+★ Stars: 32
 
 [Open repository](https://github.com/dasundev/hacktoberfest-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 32 | 147 | 
 | 2022-10-18 | 33 | 137 | 
 | 2022-10-17 | 31 | 131 | 
 | 2022-10-16 | 30 | 121 | 

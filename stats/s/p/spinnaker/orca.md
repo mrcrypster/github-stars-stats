@@ -1,6 +1,6 @@
 # spinnaker/orca - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 785
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 220 | 785 | 
 | 2022-10-18 | 220 | 785 | 
 | 2022-10-17 | 219 | 785 | 
 | 2022-10-16 | 219 | 785 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 219 | 789 | 
 | 2022-09-21 | 219 | 789 | 
 | 2022-09-20 | 219 | 789 | 
-| 2022-09-19 | 218 | 790 | 
 

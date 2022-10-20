@@ -1,10 +1,10 @@
 # Sairyss/domain-driven-hexagon - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 692
+☋ Forks: 696
 
-★ Stars: 7555
+★ Stars: 7559
 
 [Open repository](https://github.com/Sairyss/domain-driven-hexagon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 7559 | 696 | 
 | 2022-10-18 | 7555 | 692 | 
 | 2022-10-17 | 7545 | 690 | 
 | 2022-10-16 | 7541 | 689 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 7392 | 667 | 
 | 2022-09-21 | 7386 | 668 | 
 | 2022-09-20 | 7377 | 667 | 
-| 2022-09-19 | 7363 | 666 | 
 

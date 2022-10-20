@@ -1,10 +1,10 @@
 # zerotier/ZeroTierOne - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1229
+☋ Forks: 1230
 
-★ Stars: 9635
+★ Stars: 9643
 
 [Open repository](https://github.com/zerotier/ZeroTierOne)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 9643 | 1230 | 
 | 2022-10-18 | 9635 | 1229 | 
 | 2022-10-17 | 9625 | 1229 | 
 | 2022-10-16 | 9618 | 1228 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 9503 | 1210 | 
 | 2022-09-21 | 9495 | 1210 | 
 | 2022-09-20 | 9487 | 1209 | 
-| 2022-09-19 | 9480 | 1209 | 
 

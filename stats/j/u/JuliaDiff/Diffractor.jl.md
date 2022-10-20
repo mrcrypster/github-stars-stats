@@ -1,6 +1,6 @@
 # JuliaDiff/Diffractor.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 365 | 22 | 
 | 2022-10-18 | 365 | 22 | 
 | 2022-10-17 | 365 | 22 | 
 | 2022-10-16 | 366 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 364 | 22 | 
 | 2022-09-22 | 364 | 22 | 
 | 2022-09-21 | 364 | 22 | 
-| 2022-09-20 | 365 | 22 | 
 

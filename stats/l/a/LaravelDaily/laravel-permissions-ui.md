@@ -1,10 +1,10 @@
 # LaravelDaily/laravel-permissions-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 41
 
 [Open repository](https://github.com/LaravelDaily/laravel-permissions-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 35 | 1 | 
+| 2022-10-20 | 41 | 2 | 
+| 2022-10-19 | 39 | 2 | 
 | 2022-10-18 | 32 | 1 | 
 

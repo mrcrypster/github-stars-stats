@@ -1,10 +1,10 @@
 # RocketRobz/TWiLightMenu-Updater - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 27
 
-★ Stars: 272
+★ Stars: 271
 
 [Open repository](https://github.com/RocketRobz/TWiLightMenu-Updater)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 271 | 27 | 
 | 2022-10-18 | 272 | 27 | 
 | 2022-10-17 | 272 | 27 | 
 | 2022-10-16 | 272 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 271 | 27 | 
 | 2022-09-21 | 271 | 27 | 
 | 2022-09-20 | 271 | 27 | 
-| 2022-09-19 | 271 | 27 | 
 

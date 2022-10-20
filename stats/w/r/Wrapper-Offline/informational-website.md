@@ -1,6 +1,6 @@
 # Wrapper-Offline/informational-website - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 6 | 5 | 
 | 2022-10-18 | 6 | 5 | 
 | 2022-10-17 | 6 | 5 | 
 | 2022-10-16 | 6 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3 | 5 | 
 | 2022-09-21 | 3 | 5 | 
 | 2022-09-20 | 3 | 5 | 
-| 2022-09-19 | 3 | 5 | 
 

@@ -1,10 +1,10 @@
 # Inochi2D/inochi-creator - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 22
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/Inochi2D/inochi-creator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 312 | 22 | 
 | 2022-10-18 | 311 | 22 | 
 | 2022-10-17 | 311 | 22 | 
 | 2022-10-16 | 306 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 251 | 19 | 
 | 2022-09-21 | 249 | 19 | 
 | 2022-09-20 | 247 | 19 | 
-| 2022-09-19 | 247 | 19 | 
 

@@ -1,10 +1,10 @@
 # ShapeAI/Python-and-Machine-Learning - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 492
 
-★ Stars: 346
+★ Stars: 345
 
 [Open repository](https://github.com/ShapeAI/Python-and-Machine-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 345 | 492 | 
 | 2022-10-18 | 346 | 492 | 
 | 2022-10-17 | 346 | 492 | 
 | 2022-10-16 | 346 | 492 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 297 | 450 | 
 | 2022-09-21 | 297 | 450 | 
 | 2022-09-20 | 298 | 451 | 
-| 2022-09-19 | 298 | 451 | 
 

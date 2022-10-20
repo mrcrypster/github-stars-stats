@@ -1,10 +1,10 @@
 # pop-os/pop - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 83
 
-★ Stars: 1924
+★ Stars: 1927
 
 [Open repository](https://github.com/pop-os/pop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1927 | 83 | 
 | 2022-10-18 | 1924 | 83 | 
 | 2022-10-17 | 1924 | 83 | 
 | 2022-10-16 | 1924 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1894 | 79 | 
 | 2022-09-21 | 1891 | 79 | 
 | 2022-09-20 | 1889 | 79 | 
-| 2022-09-19 | 1887 | 78 | 
 

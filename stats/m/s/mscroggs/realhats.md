@@ -1,6 +1,6 @@
 # mscroggs/realhats - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 81 | 2 | 
 | 2022-10-18 | 81 | 2 | 
 | 2022-10-17 | 81 | 2 | 
 | 2022-10-16 | 81 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 79 | 2 | 
 | 2022-09-21 | 79 | 2 | 
 | 2022-09-20 | 79 | 2 | 
-| 2022-09-19 | 79 | 2 | 
 

@@ -1,10 +1,10 @@
 # hctnm1/Learn-To-Use-Github - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 205
+☋ Forks: 212
 
-★ Stars: 65
+★ Stars: 74
 
 [Open repository](https://github.com/hctnm1/Learn-To-Use-Github)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 74 | 212 | 
 | 2022-10-18 | 65 | 205 | 
 | 2022-10-17 | 64 | 202 | 
 | 2022-10-16 | 64 | 195 | 

@@ -1,6 +1,6 @@
 # mod-cpp/cpp-template-project-vcpkg - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 30 | 3 | 
 | 2022-10-18 | 30 | 3 | 
 | 2022-10-17 | 30 | 3 | 
 | 2022-10-16 | 30 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 29 | 3 | 
 | 2022-09-21 | 29 | 3 | 
 | 2022-09-20 | 29 | 3 | 
-| 2022-09-19 | 29 | 3 | 
 

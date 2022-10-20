@@ -1,6 +1,6 @@
 # Jonathan-LeRoux/IguanaTex - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 332 | 45 | 
 | 2022-10-18 | 332 | 45 | 
 | 2022-10-17 | 332 | 45 | 
 | 2022-10-16 | 328 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 308 | 45 | 
 | 2022-09-21 | 307 | 45 | 
 | 2022-09-20 | 304 | 45 | 
-| 2022-09-19 | 303 | 45 | 
 

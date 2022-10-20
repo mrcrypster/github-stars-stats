@@ -1,6 +1,6 @@
 # codersguild/System-Design - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 250
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1024 | 250 | 
 | 2022-10-18 | 1024 | 250 | 
 | 2022-10-17 | 1020 | 249 | 
 | 2022-10-16 | 1018 | 249 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 977 | 242 | 
 | 2022-09-21 | 977 | 242 | 
 | 2022-09-20 | 975 | 242 | 
-| 2022-09-19 | 972 | 242 | 
 

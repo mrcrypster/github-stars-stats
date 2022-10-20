@@ -1,10 +1,10 @@
 # NVIDIAGameWorks/RTXGI - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 23
 
-★ Stars: 379
+★ Stars: 380
 
 [Open repository](https://github.com/NVIDIAGameWorks/RTXGI)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 380 | 23 | 
 | 2022-10-18 | 379 | 23 | 
 | 2022-10-17 | 379 | 22 | 
 | 2022-10-16 | 379 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 365 | 22 | 
 | 2022-09-21 | 363 | 22 | 
 | 2022-09-20 | 358 | 21 | 
-| 2022-09-19 | 357 | 21 | 
 

@@ -1,10 +1,10 @@
 # CarlosEsco/Neko - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 85
 
-★ Stars: 1301
+★ Stars: 1302
 
 [Open repository](https://github.com/CarlosEsco/Neko)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1302 | 85 | 
 | 2022-10-18 | 1301 | 85 | 
 | 2022-10-17 | 1299 | 84 | 
 | 2022-10-16 | 1296 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1278 | 80 | 
 | 2022-09-21 | 1278 | 80 | 
 | 2022-09-20 | 1277 | 80 | 
-| 2022-09-19 | 1275 | 80 | 
 

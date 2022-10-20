@@ -1,10 +1,10 @@
 # sqlite/sqlite - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 533
+☋ Forks: 535
 
-★ Stars: 3064
+★ Stars: 3070
 
 [Open repository](https://github.com/sqlite/sqlite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3070 | 535 | 
 | 2022-10-18 | 3064 | 533 | 
 | 2022-10-17 | 3061 | 530 | 
 | 2022-10-16 | 3058 | 530 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2957 | 510 | 
 | 2022-09-21 | 2955 | 510 | 
 | 2022-09-20 | 2951 | 511 | 
-| 2022-09-19 | 2946 | 510 | 
 

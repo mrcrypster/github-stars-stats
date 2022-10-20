@@ -1,10 +1,10 @@
 # aws/aws-sdk-ruby - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1198
+☋ Forks: 1199
 
-★ Stars: 3386
+★ Stars: 3387
 
 [Open repository](https://github.com/aws/aws-sdk-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3387 | 1199 | 
 | 2022-10-18 | 3386 | 1198 | 
 | 2022-10-17 | 3386 | 1198 | 
 | 2022-10-16 | 3386 | 1198 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 3381 | 1194 | 
 | 2022-09-22 | 3381 | 1196 | 
 | 2022-09-21 | 3381 | 1196 | 
-| 2022-09-20 | 3380 | 1196 | 
 

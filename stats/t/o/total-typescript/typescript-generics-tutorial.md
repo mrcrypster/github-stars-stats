@@ -1,8 +1,8 @@
 # total-typescript/typescript-generics-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 67
+☋ Forks: 69
 
 ★ Stars: 1012
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1012 | 69 | 
 | 2022-10-18 | 1012 | 67 | 
 | 2022-10-17 | 1012 | 66 | 
 | 2022-10-16 | 1010 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 738 | 43 | 
 | 2022-09-21 | 736 | 42 | 
 | 2022-09-20 | 735 | 42 | 
-| 2022-09-19 | 733 | 40 | 
 

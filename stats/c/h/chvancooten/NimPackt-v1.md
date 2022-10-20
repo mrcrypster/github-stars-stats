@@ -1,10 +1,10 @@
 # chvancooten/NimPackt-v1 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 56
 
-★ Stars: 341
+★ Stars: 342
 
 [Open repository](https://github.com/chvancooten/NimPackt-v1)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 342 | 56 | 
 | 2022-10-18 | 341 | 56 | 
 | 2022-10-17 | 341 | 56 | 
 | 2022-10-16 | 341 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 336 | 54 | 
 | 2022-09-21 | 336 | 54 | 
 | 2022-09-20 | 334 | 53 | 
-| 2022-09-19 | 334 | 53 | 
 

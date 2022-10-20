@@ -1,6 +1,6 @@
 # Timidan/Foundry-Hardhat-Diamonds - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 47 | 9 | 
 | 2022-10-18 | 47 | 9 | 
 | 2022-10-17 | 46 | 10 | 
 | 2022-10-16 | 46 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 35 | 3 | 
 | 2022-09-21 | 34 | 3 | 
 | 2022-09-20 | 34 | 3 | 
-| 2022-09-19 | 34 | 3 | 
 

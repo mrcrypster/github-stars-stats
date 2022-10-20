@@ -1,6 +1,6 @@
 # zyrolasting/racket-koans - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 74 | 14 | 
 | 2022-10-19 | 74 | 14 | 
 | 2022-10-18 | 74 | 14 | 
 | 2022-10-17 | 74 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 74 | 14 | 
 | 2022-09-21 | 74 | 14 | 
 | 2022-09-20 | 74 | 14 | 
-| 2022-09-19 | 74 | 14 | 
 

@@ -1,10 +1,10 @@
 # SwiftOldDriver/iOS-Weekly - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 396
 
-★ Stars: 4340
+★ Stars: 4343
 
 [Open repository](https://github.com/SwiftOldDriver/iOS-Weekly)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 4343 | 396 | 
 | 2022-10-18 | 4340 | 396 | 
 | 2022-10-17 | 4337 | 396 | 
 | 2022-10-16 | 4338 | 396 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 4322 | 395 | 
 | 2022-09-21 | 4318 | 395 | 
 | 2022-09-20 | 4317 | 395 | 
-| 2022-09-19 | 4315 | 395 | 
 

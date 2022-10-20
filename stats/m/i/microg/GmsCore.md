@@ -1,10 +1,10 @@
 # microg/GmsCore - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1102
+☋ Forks: 1103
 
-★ Stars: 5067
+★ Stars: 5068
 
 [Open repository](https://github.com/microg/GmsCore)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 5068 | 1103 | 
 | 2022-10-18 | 5067 | 1102 | 
 | 2022-10-17 | 5064 | 1104 | 
 | 2022-10-16 | 5061 | 1103 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 4997 | 1096 | 
 | 2022-09-21 | 4994 | 1095 | 
 | 2022-09-20 | 4988 | 1092 | 
-| 2022-09-19 | 4983 | 1091 | 
 

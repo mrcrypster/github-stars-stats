@@ -1,10 +1,10 @@
 # zengguocheng/e-book - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 160
 
-★ Stars: 99
+★ Stars: 100
 
 [Open repository](https://github.com/zengguocheng/e-book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 100 | 160 | 
 | 2022-10-18 | 99 | 160 | 
 | 2022-10-17 | 99 | 160 | 
 | 2022-10-16 | 99 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 97 | 153 | 
 | 2022-09-21 | 97 | 153 | 
 | 2022-09-20 | 97 | 154 | 
-| 2022-09-19 | 97 | 154 | 
 

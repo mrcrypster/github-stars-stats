@@ -1,8 +1,8 @@
 # aws/aws-sdk-go-v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 436
+☋ Forks: 439
 
 ★ Stars: 1644
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1644 | 439 | 
 | 2022-10-18 | 1644 | 436 | 
 | 2022-10-17 | 1643 | 438 | 
 | 2022-10-16 | 1644 | 438 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1601 | 425 | 
 | 2022-09-21 | 1600 | 425 | 
 | 2022-09-20 | 1598 | 424 | 
-| 2022-09-19 | 1594 | 423 | 
 

@@ -1,10 +1,10 @@
 # python/peps - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1328
+☋ Forks: 1329
 
-★ Stars: 3388
+★ Stars: 3393
 
 [Open repository](https://github.com/python/peps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3393 | 1329 | 
 | 2022-10-18 | 3388 | 1328 | 
 | 2022-10-17 | 3388 | 1330 | 
 | 2022-10-16 | 3384 | 1329 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3346 | 1306 | 
 | 2022-09-21 | 3344 | 1305 | 
 | 2022-09-20 | 3344 | 1306 | 
-| 2022-09-19 | 3336 | 1306 | 
 

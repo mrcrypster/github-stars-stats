@@ -1,6 +1,6 @@
 # google-research/parti - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1248 | 67 | 
 | 2022-10-19 | 1248 | 67 | 
 | 2022-10-18 | 1246 | 67 | 
 | 2022-10-17 | 1244 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 1218 | 67 | 
 | 2022-09-21 | 1216 | 67 | 
 | 2022-09-20 | 1215 | 67 | 
-| 2022-09-19 | 1214 | 67 | 
 

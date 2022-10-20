@@ -1,6 +1,6 @@
 # FandyAhmadAzizi/FreeRdp-1 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 188
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1 | 188 | 
 | 2022-10-18 | 1 | 188 | 
 | 2022-10-17 | 1 | 187 | 
 | 2022-10-16 | 1 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | - | 171 | 
 | 2022-09-21 | - | 170 | 
 | 2022-09-20 | - | 170 | 
-| 2022-09-19 | - | 167 | 
 

@@ -1,10 +1,10 @@
 # polarismesh/polaris - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 268
+☋ Forks: 269
 
-★ Stars: 1651
+★ Stars: 1652
 
 [Open repository](https://github.com/polarismesh/polaris)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1652 | 269 | 
 | 2022-10-18 | 1651 | 268 | 
 | 2022-10-17 | 1650 | 268 | 
 | 2022-10-16 | 1649 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1579 | 260 | 
 | 2022-09-21 | 1575 | 259 | 
 | 2022-09-20 | 1567 | 256 | 
-| 2022-09-19 | 1562 | 255 | 
 

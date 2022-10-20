@@ -1,8 +1,8 @@
 # game-ci/docker - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 93
+☋ Forks: 92
 
 ★ Stars: 277
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 277 | 92 | 
 | 2022-10-18 | 277 | 93 | 
 | 2022-10-17 | 277 | 93 | 
 | 2022-10-16 | 277 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 270 | 92 | 
 | 2022-09-21 | 269 | 91 | 
 | 2022-09-20 | 269 | 91 | 
-| 2022-09-19 | 269 | 91 | 
 

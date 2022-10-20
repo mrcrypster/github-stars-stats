@@ -1,10 +1,10 @@
 # miloyip/game-programmer - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1898
+☋ Forks: 1899
 
-★ Stars: 15326
+★ Stars: 15330
 
 [Open repository](https://github.com/miloyip/game-programmer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 15330 | 1899 | 
 | 2022-10-18 | 15326 | 1898 | 
 | 2022-10-17 | 15320 | 1897 | 
 | 2022-10-16 | 15315 | 1896 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 15233 | 1892 | 
 | 2022-09-21 | 15230 | 1890 | 
 | 2022-09-20 | 15226 | 1890 | 
-| 2022-09-19 | 15222 | 1890 | 
 

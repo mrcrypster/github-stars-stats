@@ -1,6 +1,6 @@
 # LSIR/DIS - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 60 | 91 | 
 | 2022-10-18 | 60 | 91 | 
 | 2022-10-17 | 60 | 92 | 
 | 2022-10-16 | 60 | 92 | 

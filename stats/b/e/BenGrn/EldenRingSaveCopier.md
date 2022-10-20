@@ -1,6 +1,6 @@
 # BenGrn/EldenRingSaveCopier - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 191 | 26 | 
 | 2022-10-18 | 191 | 26 | 
 | 2022-10-17 | 189 | 26 | 
 | 2022-10-16 | 189 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 184 | 25 | 
 | 2022-09-22 | 184 | 25 | 
 | 2022-09-21 | 184 | 25 | 
-| 2022-09-20 | 184 | 25 | 
 

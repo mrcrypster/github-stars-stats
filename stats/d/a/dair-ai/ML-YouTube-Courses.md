@@ -1,10 +1,10 @@
 # dair-ai/ML-YouTube-Courses - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1033
+☋ Forks: 1034
 
-★ Stars: 8625
+★ Stars: 8630
 
 [Open repository](https://github.com/dair-ai/ML-YouTube-Courses)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 8630 | 1034 | 
 | 2022-10-18 | 8625 | 1033 | 
 | 2022-10-17 | 8626 | 1033 | 
 | 2022-10-16 | 8622 | 1034 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 8527 | 1016 | 
 | 2022-09-21 | 8484 | 1011 | 
 | 2022-09-20 | 8429 | 1008 | 
-| 2022-09-19 | 8368 | 1005 | 
 

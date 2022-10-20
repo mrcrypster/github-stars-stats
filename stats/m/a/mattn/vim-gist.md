@@ -1,10 +1,10 @@
 # mattn/vim-gist - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 143
 
-★ Stars: 1659
+★ Stars: 1660
 
 [Open repository](https://github.com/mattn/vim-gist)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1660 | 143 | 
 | 2022-10-18 | 1659 | 143 | 
 | 2022-10-17 | 1659 | 143 | 
 | 2022-10-16 | 1659 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1655 | 143 | 
 | 2022-09-21 | 1655 | 143 | 
 | 2022-09-20 | 1655 | 143 | 
-| 2022-09-19 | 1655 | 143 | 
 

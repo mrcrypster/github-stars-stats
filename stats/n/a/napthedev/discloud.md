@@ -1,10 +1,10 @@
 # napthedev/discloud - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 27
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/napthedev/discloud)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 71 | 27 | 
 | 2022-10-18 | 70 | 27 | 
 | 2022-10-17 | 70 | 27 | 
 | 2022-10-16 | 70 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 66 | 27 | 
 | 2022-09-21 | 66 | 27 | 
 | 2022-09-20 | 66 | 27 | 
-| 2022-09-19 | 66 | 26 | 
 

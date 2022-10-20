@@ -1,10 +1,10 @@
 # danieleteti/delphimvcframework - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 298
 
-★ Stars: 983
+★ Stars: 984
 
 [Open repository](https://github.com/danieleteti/delphimvcframework)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 984 | 298 | 
 | 2022-10-18 | 983 | 298 | 
 | 2022-10-17 | 982 | 297 | 
 | 2022-10-16 | 982 | 297 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 973 | 296 | 
 | 2022-09-21 | 972 | 296 | 
 | 2022-09-20 | 972 | 296 | 
-| 2022-09-19 | 972 | 296 | 
 

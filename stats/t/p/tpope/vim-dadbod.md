@@ -1,10 +1,10 @@
 # tpope/vim-dadbod - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 63
 
-★ Stars: 2470
+★ Stars: 2471
 
 [Open repository](https://github.com/tpope/vim-dadbod)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2471 | 63 | 
 | 2022-10-18 | 2470 | 63 | 
 | 2022-10-17 | 2471 | 63 | 
 | 2022-10-16 | 2469 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2452 | 62 | 
 | 2022-09-21 | 2452 | 62 | 
 | 2022-09-20 | 2451 | 62 | 
-| 2022-09-19 | 2449 | 62 | 
 

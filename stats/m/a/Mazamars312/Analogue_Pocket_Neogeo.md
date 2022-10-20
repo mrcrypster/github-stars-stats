@@ -1,6 +1,6 @@
 # Mazamars312/Analogue_Pocket_Neogeo - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 191 | 5 | 
 | 2022-10-18 | 191 | 5 | 
 | 2022-10-17 | 191 | 5 | 
 | 2022-10-16 | 190 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 179 | 6 | 
 | 2022-09-21 | 179 | 5 | 
 | 2022-09-20 | 176 | 5 | 
-| 2022-09-19 | 176 | 4 | 
 

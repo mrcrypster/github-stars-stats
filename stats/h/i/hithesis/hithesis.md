@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 19
 
 ☋ Forks: 297
 
-★ Stars: 1153
+★ Stars: 1154
 
 [Open repository](https://github.com/hithesis/hithesis)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 1153 | 297 | 
+| 2022-10-19 | 1154 | 297 | 
 | 2022-10-18 | 1153 | 297 | 
 | 2022-10-17 | 1151 | 297 | 
 | 2022-10-16 | 1147 | 296 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1129 | 291 | 
 | 2022-09-22 | 1129 | 291 | 
 | 2022-09-21 | 1128 | 291 | 
-| 2022-09-20 | 1129 | 290 | 
 

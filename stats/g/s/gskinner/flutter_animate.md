@@ -1,6 +1,6 @@
 # gskinner/flutter_animate - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 290 | 15 | 
 | 2022-10-18 | 290 | 15 | 
 | 2022-10-17 | 290 | 15 | 
 | 2022-10-16 | 290 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 262 | 13 | 
 | 2022-09-21 | 261 | 13 | 
 | 2022-09-20 | 260 | 13 | 
-| 2022-09-19 | 257 | 13 | 
 

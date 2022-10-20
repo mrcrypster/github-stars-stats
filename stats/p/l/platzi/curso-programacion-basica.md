@@ -1,8 +1,8 @@
 # platzi/curso-programacion-basica - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 38
+☋ Forks: 40
 
 ★ Stars: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 48 | 40 | 
 | 2022-10-18 | 48 | 38 | 
 | 2022-10-17 | 48 | 38 | 
 | 2022-10-16 | 48 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 47 | 34 | 
 | 2022-09-22 | 47 | 34 | 
 | 2022-09-20 | 46 | 34 | 
-| 2022-09-19 | 46 | 33 | 
 

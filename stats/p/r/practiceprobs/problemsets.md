@@ -1,6 +1,6 @@
 # practiceprobs/problemsets - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 296 | 28 | 
 | 2022-10-18 | 296 | 28 | 
 | 2022-10-17 | 296 | 28 | 
 | 2022-10-16 | 296 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 291 | 27 | 
 | 2022-09-21 | 290 | 27 | 
 | 2022-09-20 | 290 | 27 | 
-| 2022-09-19 | 290 | 27 | 
 

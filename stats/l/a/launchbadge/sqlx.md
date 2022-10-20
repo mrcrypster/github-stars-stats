@@ -1,10 +1,10 @@
 # launchbadge/sqlx - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 737
 
-★ Stars: 7053
+★ Stars: 7059
 
 [Open repository](https://github.com/launchbadge/sqlx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 7059 | 737 | 
 | 2022-10-18 | 7053 | 737 | 
 | 2022-10-17 | 7041 | 740 | 
 | 2022-10-16 | 7034 | 740 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 6860 | 716 | 
 | 2022-09-21 | 6855 | 716 | 
 | 2022-09-20 | 6849 | 714 | 
-| 2022-09-19 | 6843 | 714 | 
 

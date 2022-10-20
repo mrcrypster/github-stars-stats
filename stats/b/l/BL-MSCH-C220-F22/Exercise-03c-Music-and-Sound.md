@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | - | 38 | 
 | 2022-10-18 | - | 38 | 
 | 2022-10-17 | - | 38 | 
 | 2022-10-16 | - | 38 | 

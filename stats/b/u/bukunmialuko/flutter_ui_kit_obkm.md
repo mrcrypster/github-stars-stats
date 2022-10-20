@@ -1,6 +1,6 @@
 # bukunmialuko/flutter_ui_kit_obkm - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 585 | 210 | 
 | 2022-10-18 | 585 | 210 | 
 | 2022-10-17 | 585 | 210 | 
 | 2022-10-16 | 585 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 574 | 204 | 
 | 2022-09-21 | 573 | 203 | 
 | 2022-09-20 | 573 | 201 | 
-| 2022-09-19 | 572 | 201 | 
 

@@ -1,6 +1,6 @@
 # rotu/nim-records - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 18 | - | 
 | 2022-10-18 | 18 | - | 
 | 2022-10-17 | 18 | - | 
 | 2022-10-16 | 18 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 18 | - | 
 | 2022-09-22 | 18 | - | 
 | 2022-09-21 | 18 | - | 
-| 2022-09-20 | 18 | - | 
 

@@ -1,10 +1,10 @@
 # foone/BRender-1997 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 11
 
-★ Stars: 126
+★ Stars: 125
 
 [Open repository](https://github.com/foone/BRender-1997)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 125 | 11 | 
 | 2022-10-18 | 126 | 11 | 
 | 2022-10-17 | 126 | 11 | 
 | 2022-10-16 | 126 | 11 | 

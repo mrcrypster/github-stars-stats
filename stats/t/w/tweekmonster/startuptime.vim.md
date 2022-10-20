@@ -1,6 +1,6 @@
 # tweekmonster/startuptime.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 277 | 2 | 
 | 2022-10-18 | 277 | 2 | 
 | 2022-10-17 | 277 | 2 | 
 | 2022-10-16 | 277 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 275 | 2 | 
 | 2022-09-21 | 275 | 2 | 
 | 2022-09-20 | 275 | 2 | 
-| 2022-09-19 | 275 | 2 | 
 

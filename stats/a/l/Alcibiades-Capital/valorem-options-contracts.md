@@ -1,6 +1,6 @@
 # Alcibiades-Capital/valorem-options-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 76 | 10 | 
 | 2022-10-18 | 76 | 10 | 
 | 2022-10-17 | 76 | 10 | 
 | 2022-10-16 | 76 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 75 | 9 | 
 | 2022-09-21 | 74 | 8 | 
 | 2022-09-20 | 74 | 8 | 
-| 2022-09-19 | 74 | 8 | 
 

@@ -1,6 +1,6 @@
 # foundry-rs/book - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 371 | 187 | 
 | 2022-10-18 | 371 | 187 | 
 | 2022-10-17 | 369 | 186 | 
 | 2022-10-16 | 369 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 352 | 178 | 
 | 2022-09-21 | 351 | 176 | 
 | 2022-09-20 | 351 | 176 | 
-| 2022-09-19 | 349 | 173 | 
 

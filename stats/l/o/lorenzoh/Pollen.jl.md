@@ -1,6 +1,6 @@
 # lorenzoh/Pollen.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 59 | 3 | 
 | 2022-10-18 | 59 | 3 | 
 | 2022-10-17 | 59 | 3 | 
 | 2022-10-16 | 59 | 3 | 

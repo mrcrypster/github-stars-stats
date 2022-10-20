@@ -1,6 +1,6 @@
 # emacs-evil/goto-chg - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 29 | 14 | 
 | 2022-10-18 | 29 | 14 | 
 | 2022-10-17 | 29 | 14 | 
 | 2022-10-16 | 29 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 29 | 15 | 
 | 2022-09-21 | 29 | 15 | 
 | 2022-09-20 | 28 | 15 | 
-| 2022-09-19 | 28 | 15 | 
 

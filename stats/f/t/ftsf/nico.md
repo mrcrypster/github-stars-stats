@@ -1,10 +1,10 @@
 # ftsf/nico - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 29
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/ftsf/nico)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 468 | 29 | 
 | 2022-10-18 | 467 | 29 | 
 | 2022-10-17 | 467 | 29 | 
 | 2022-10-16 | 466 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 462 | 28 | 
 | 2022-09-22 | 462 | 28 | 
 | 2022-09-21 | 462 | 28 | 
-| 2022-09-20 | 462 | 28 | 
 

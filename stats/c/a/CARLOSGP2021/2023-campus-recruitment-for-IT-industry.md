@@ -1,6 +1,6 @@
 # CARLOSGP2021/2023-campus-recruitment-for-IT-industry - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 553 | 16 | 
 | 2022-10-18 | 553 | 16 | 
 | 2022-10-17 | 554 | 16 | 
 | 2022-10-16 | 554 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 548 | 16 | 
 | 2022-09-21 | 548 | 16 | 
 | 2022-09-20 | 548 | 16 | 
-| 2022-09-19 | 547 | 16 | 
 

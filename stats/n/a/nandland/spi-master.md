@@ -1,10 +1,10 @@
 # nandland/spi-master - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 66
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/nandland/spi-master)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 126 | 66 | 
 | 2022-10-18 | 125 | 66 | 
 | 2022-10-17 | 124 | 66 | 
 | 2022-10-16 | 124 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 121 | 66 | 
 | 2022-09-21 | 121 | 66 | 
 | 2022-09-20 | 121 | 66 | 
-| 2022-09-19 | 120 | 66 | 
 

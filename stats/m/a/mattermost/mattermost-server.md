@@ -1,10 +1,10 @@
 # mattermost/mattermost-server - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 5757
+☋ Forks: 5758
 
-★ Stars: 24106
+★ Stars: 24118
 
 [Open repository](https://github.com/mattermost/mattermost-server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 24118 | 5758 | 
 | 2022-10-18 | 24106 | 5757 | 
 | 2022-10-17 | 24102 | 5749 | 
 | 2022-10-16 | 24093 | 5744 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 23895 | 5678 | 
 | 2022-09-21 | 23889 | 5676 | 
 | 2022-09-20 | 23886 | 5673 | 
-| 2022-09-19 | 23883 | 5672 | 
 

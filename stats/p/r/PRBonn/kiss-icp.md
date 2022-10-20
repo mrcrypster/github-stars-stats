@@ -1,6 +1,6 @@
 # PRBonn/kiss-icp - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 273 | 12 | 
 | 2022-10-18 | 273 | 12 | 
 | 2022-10-17 | 273 | 12 | 
 | 2022-10-16 | 267 | 12 | 

@@ -1,10 +1,10 @@
 # purcell/package-lint - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 30
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/purcell/package-lint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 163 | 30 | 
 | 2022-10-18 | 162 | 30 | 
 | 2022-10-17 | 162 | 30 | 
 | 2022-10-16 | 162 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 162 | 30 | 
 | 2022-09-21 | 162 | 30 | 
 | 2022-09-20 | 162 | 30 | 
-| 2022-09-19 | 162 | 30 | 
 

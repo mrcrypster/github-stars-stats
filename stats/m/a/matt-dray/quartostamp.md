@@ -1,10 +1,10 @@
 # matt-dray/quartostamp - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 1
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/matt-dray/quartostamp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 36 | 1 | 
 | 2022-10-18 | 35 | 1 | 
 | 2022-10-17 | 35 | 1 | 
 | 2022-10-16 | 35 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 34 | - | 
 | 2022-09-21 | 33 | - | 
 | 2022-09-20 | 33 | - | 
-| 2022-09-19 | 33 | - | 
 

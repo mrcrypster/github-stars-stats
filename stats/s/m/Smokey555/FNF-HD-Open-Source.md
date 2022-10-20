@@ -1,6 +1,6 @@
 # Smokey555/FNF-HD-Open-Source - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 27 | 58 | 
 | 2022-10-19 | 27 | 58 | 
 | 2022-10-18 | 27 | 58 | 
 | 2022-10-17 | 27 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 27 | 56 | 
 | 2022-09-21 | 27 | 56 | 
 | 2022-09-20 | 27 | 56 | 
-| 2022-09-19 | 27 | 56 | 
 

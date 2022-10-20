@@ -1,6 +1,6 @@
 # MicrosoftDocs/visualstudio-docs.ru-ru - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 15 | 40 | 
 | 2022-10-18 | 15 | 40 | 
 | 2022-10-17 | 15 | 40 | 
 | 2022-10-16 | 15 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 14 | 40 | 
 | 2022-09-21 | 14 | 40 | 
 | 2022-09-20 | 14 | 40 | 
-| 2022-09-19 | 14 | 40 | 
 

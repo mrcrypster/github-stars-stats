@@ -1,6 +1,6 @@
 # MLX15/craftymetaverse - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 21 | 12 | 
 | 2022-10-18 | 21 | 12 | 
 | 2022-10-17 | 21 | 12 | 
 | 2022-10-16 | 21 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 21 | 12 | 
 | 2022-09-21 | 21 | 12 | 
 | 2022-09-20 | 21 | 12 | 
-| 2022-09-19 | 21 | 12 | 
 

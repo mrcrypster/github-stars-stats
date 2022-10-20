@@ -1,10 +1,10 @@
 # cilame/v_jstools - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 265
+☋ Forks: 266
 
-★ Stars: 561
+★ Stars: 563
 
 [Open repository](https://github.com/cilame/v_jstools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 563 | 266 | 
 | 2022-10-18 | 561 | 265 | 
 | 2022-10-17 | 559 | 265 | 
 | 2022-10-16 | 556 | 265 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 536 | 257 | 
 | 2022-09-21 | 536 | 257 | 
 | 2022-09-20 | 536 | 257 | 
-| 2022-09-19 | 536 | 257 | 
 

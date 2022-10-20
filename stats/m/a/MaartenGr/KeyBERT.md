@@ -1,6 +1,6 @@
 # MaartenGr/KeyBERT - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1863 | 232 | 
 | 2022-10-18 | 1863 | 232 | 
 | 2022-10-17 | 1859 | 232 | 
 | 2022-10-16 | 1857 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1812 | 228 | 
 | 2022-09-21 | 1809 | 228 | 
 | 2022-09-20 | 1808 | 228 | 
-| 2022-09-19 | 1807 | 228 | 
 

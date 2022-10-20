@@ -1,10 +1,10 @@
 # Salusec/EfficientAudit - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 100
 
-★ Stars: 253
+★ Stars: 254
 
 [Open repository](https://github.com/Salusec/EfficientAudit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 254 | 100 | 
 | 2022-10-18 | 253 | 100 | 
 | 2022-10-17 | 253 | 100 | 
 | 2022-10-16 | 252 | 100 | 

@@ -1,8 +1,8 @@
 # krzysztofrewak/pwsz-inf-resources - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 80
+☋ Forks: 79
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 4 | 79 | 
 | 2022-10-18 | 4 | 80 | 
 | 2022-10-17 | 4 | 80 | 
 | 2022-10-16 | 4 | 79 | 

@@ -1,10 +1,10 @@
 # pascal-lab/Tai-e-assignments - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 122
 
-★ Stars: 687
+★ Stars: 690
 
 [Open repository](https://github.com/pascal-lab/Tai-e-assignments)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 690 | 122 | 
 | 2022-10-18 | 687 | 122 | 
 | 2022-10-17 | 685 | 119 | 
 | 2022-10-16 | 684 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 655 | 100 | 
 | 2022-09-21 | 654 | 100 | 
 | 2022-09-20 | 654 | 100 | 
-| 2022-09-19 | 651 | 100 | 
 

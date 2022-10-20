@@ -1,6 +1,6 @@
 # FaRu85/Godot-Foliage - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 38 | 4 | 
 | 2022-10-18 | 38 | 4 | 
 | 2022-10-17 | 38 | 4 | 
 | 2022-10-16 | 38 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 35 | 4 | 
 | 2022-09-21 | 34 | 4 | 
 | 2022-09-20 | 34 | 4 | 
-| 2022-09-19 | 34 | 4 | 
 

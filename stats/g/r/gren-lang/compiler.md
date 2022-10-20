@@ -1,6 +1,6 @@
 # gren-lang/compiler - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 138 | 7 | 
 | 2022-10-18 | 138 | 7 | 
 | 2022-10-17 | 133 | 7 | 
 | 2022-10-16 | 130 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 121 | 6 | 
 | 2022-09-21 | 121 | 6 | 
 | 2022-09-20 | 120 | 6 | 
-| 2022-09-19 | 120 | 6 | 
 

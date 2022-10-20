@@ -1,8 +1,8 @@
 # mdn/css-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 630
+☋ Forks: 631
 
 ★ Stars: 411
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 411 | 631 | 
 | 2022-10-18 | 411 | 630 | 
 | 2022-10-17 | 411 | 629 | 
 | 2022-10-16 | 411 | 628 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 407 | 617 | 
 | 2022-09-21 | 407 | 618 | 
 | 2022-09-20 | 407 | 617 | 
-| 2022-09-19 | 407 | 617 | 
 

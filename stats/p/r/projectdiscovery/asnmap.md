@@ -1,10 +1,10 @@
 # projectdiscovery/asnmap - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 12
+☋ Forks: 15
 
-★ Stars: 157
+★ Stars: 166
 
 [Open repository](https://github.com/projectdiscovery/asnmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 166 | 15 | 
 | 2022-10-18 | 157 | 12 | 
 | 2022-10-17 | 156 | 11 | 
 | 2022-10-16 | 155 | 11 | 

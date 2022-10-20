@@ -1,8 +1,8 @@
 # MicrosoftDocs/windows-driver-docs - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 724
+☋ Forks: 725
 
 ★ Stars: 585
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 585 | 725 | 
 | 2022-10-18 | 585 | 724 | 
 | 2022-10-17 | 585 | 723 | 
 | 2022-10-16 | 585 | 723 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 577 | 721 | 
 | 2022-09-21 | 577 | 720 | 
 | 2022-09-20 | 577 | 720 | 
-| 2022-09-19 | 577 | 719 | 
 

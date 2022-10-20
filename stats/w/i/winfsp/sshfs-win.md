@@ -1,6 +1,6 @@
 # winfsp/sshfs-win - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3399 | 193 | 
 | 2022-10-18 | 3399 | 193 | 
 | 2022-10-17 | 3394 | 193 | 
 | 2022-10-16 | 3392 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3338 | 192 | 
 | 2022-09-21 | 3334 | 192 | 
 | 2022-09-20 | 3329 | 192 | 
-| 2022-09-19 | 3325 | 192 | 
 

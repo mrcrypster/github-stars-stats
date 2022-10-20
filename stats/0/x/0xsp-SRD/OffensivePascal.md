@@ -1,6 +1,6 @@
 # 0xsp-SRD/OffensivePascal - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 122 | 10 | 
 | 2022-10-18 | 122 | 10 | 
 | 2022-10-17 | 122 | 10 | 
 | 2022-10-16 | 122 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 121 | 10 | 
 | 2022-09-21 | 121 | 10 | 
 | 2022-09-20 | 121 | 10 | 
-| 2022-09-19 | 121 | 10 | 
 

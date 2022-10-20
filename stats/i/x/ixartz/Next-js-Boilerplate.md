@@ -1,10 +1,10 @@
 # ixartz/Next-js-Boilerplate - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 589
+☋ Forks: 591
 
-★ Stars: 2563
+★ Stars: 2567
 
 [Open repository](https://github.com/ixartz/Next-js-Boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2567 | 591 | 
 | 2022-10-18 | 2563 | 589 | 
 | 2022-10-17 | 2559 | 588 | 
 | 2022-10-16 | 2556 | 588 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2465 | 555 | 
 | 2022-09-21 | 2463 | 553 | 
 | 2022-09-20 | 2460 | 551 | 
-| 2022-09-19 | 2455 | 551 | 
 

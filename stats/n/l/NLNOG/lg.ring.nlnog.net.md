@@ -1,10 +1,10 @@
 # NLNOG/lg.ring.nlnog.net - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 23
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/NLNOG/lg.ring.nlnog.net)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 22 | 23 | 
 | 2022-10-18 | 21 | 23 | 
 | 2022-10-17 | 21 | 23 | 
 | 2022-10-16 | 21 | 22 | 

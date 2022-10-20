@@ -1,6 +1,6 @@
 # goq/telegram-list - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 762
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3770 | 762 | 
 | 2022-10-18 | 3770 | 762 | 
 | 2022-10-17 | 3770 | 762 | 
 | 2022-10-16 | 3768 | 762 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3743 | 755 | 
 | 2022-09-21 | 3738 | 755 | 
 | 2022-09-20 | 3738 | 754 | 
-| 2022-09-19 | 3736 | 753 | 
 

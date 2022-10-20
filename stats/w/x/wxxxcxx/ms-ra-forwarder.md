@@ -1,10 +1,10 @@
 # wxxxcxx/ms-ra-forwarder - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 674
 
-★ Stars: 384
+★ Stars: 385
 
 [Open repository](https://github.com/wxxxcxx/ms-ra-forwarder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 385 | 674 | 
 | 2022-10-18 | 384 | 674 | 
 | 2022-10-17 | 383 | 674 | 
 | 2022-10-16 | 382 | 674 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 345 | 656 | 
 | 2022-09-21 | 344 | 655 | 
 | 2022-09-20 | 342 | 655 | 
-| 2022-09-19 | 340 | 655 | 
 

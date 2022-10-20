@@ -1,10 +1,10 @@
 # zhuye1993/file-view - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/zhuye1993/file-view)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 194 | 93 | 
 | 2022-10-18 | 193 | 92 | 
 | 2022-10-17 | 193 | 92 | 
 | 2022-10-16 | 193 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 186 | 90 | 
 | 2022-09-21 | 186 | 89 | 
 | 2022-09-20 | 185 | 89 | 
-| 2022-09-19 | 185 | 89 | 
 

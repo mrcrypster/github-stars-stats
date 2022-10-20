@@ -1,6 +1,6 @@
 # Zack-Dx/Twitter-Landing-Page - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 27 | 49 | 
 | 2022-10-18 | 27 | 49 | 
 | 2022-10-17 | 28 | 48 | 
 | 2022-10-16 | 28 | 48 | 

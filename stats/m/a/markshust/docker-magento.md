@@ -1,10 +1,10 @@
 # markshust/docker-magento - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 776
+☋ Forks: 777
 
-★ Stars: 1750
+★ Stars: 1751
 
 [Open repository](https://github.com/markshust/docker-magento)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1751 | 777 | 
 | 2022-10-18 | 1750 | 776 | 
 | 2022-10-17 | 1748 | 775 | 
 | 2022-10-16 | 1748 | 775 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1721 | 769 | 
 | 2022-09-21 | 1715 | 770 | 
 | 2022-09-20 | 1715 | 769 | 
-| 2022-09-19 | 1715 | 768 | 
 

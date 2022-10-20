@@ -1,10 +1,10 @@
 # insoxin/imaotai - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 308
+☋ Forks: 310
 
-★ Stars: 812
+★ Stars: 815
 
 [Open repository](https://github.com/insoxin/imaotai)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 815 | 310 | 
 | 2022-10-18 | 812 | 308 | 
 | 2022-10-17 | 810 | 307 | 
 | 2022-10-16 | 806 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 763 | 289 | 
 | 2022-09-21 | 762 | 289 | 
 | 2022-09-20 | 762 | 288 | 
-| 2022-09-19 | 761 | 288 | 
 

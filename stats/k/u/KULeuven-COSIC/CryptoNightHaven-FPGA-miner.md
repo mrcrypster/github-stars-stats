@@ -1,6 +1,6 @@
 # KULeuven-COSIC/CryptoNightHaven-FPGA-miner - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 5 | 2 | 
 | 2022-10-18 | 5 | 2 | 
 | 2022-10-17 | 5 | 2 | 
 | 2022-10-16 | 4 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3 | 1 | 
 | 2022-09-21 | 3 | 1 | 
 | 2022-09-20 | 3 | 1 | 
-| 2022-09-19 | 3 | 1 | 
 

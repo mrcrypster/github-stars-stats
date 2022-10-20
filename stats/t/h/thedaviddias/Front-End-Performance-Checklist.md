@@ -1,10 +1,10 @@
 # thedaviddias/Front-End-Performance-Checklist - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1122
+☋ Forks: 1124
 
-★ Stars: 15244
+★ Stars: 15242
 
 [Open repository](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 15242 | 1124 | 
 | 2022-10-19 | 15244 | 1122 | 
 | 2022-10-18 | 15243 | 1122 | 
 | 2022-10-17 | 15239 | 1122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 15198 | 1116 | 
 | 2022-09-21 | 15195 | 1115 | 
 | 2022-09-20 | 15196 | 1114 | 
-| 2022-09-19 | 15196 | 1114 | 
 

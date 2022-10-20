@@ -1,10 +1,10 @@
 # capt-meelo/NtCreateUserProcess - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/capt-meelo/NtCreateUserProcess)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 106 | 21 | 
 | 2022-10-18 | 105 | 20 | 
 | 2022-10-17 | 105 | 20 | 
 | 2022-10-16 | 105 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 103 | 20 | 
 | 2022-09-21 | 103 | 20 | 
 | 2022-09-20 | 103 | 20 | 
-| 2022-09-19 | 103 | 20 | 
 

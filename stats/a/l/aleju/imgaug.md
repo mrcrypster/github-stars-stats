@@ -1,10 +1,10 @@
 # aleju/imgaug - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 2325
+☋ Forks: 2326
 
-★ Stars: 13025
+★ Stars: 13029
 
 [Open repository](https://github.com/aleju/imgaug)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 13029 | 2326 | 
 | 2022-10-18 | 13025 | 2325 | 
 | 2022-10-17 | 13020 | 2324 | 
 | 2022-10-16 | 13019 | 2324 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 12963 | 2320 | 
 | 2022-09-21 | 12960 | 2320 | 
 | 2022-09-20 | 12960 | 2320 | 
-| 2022-09-19 | 12956 | 2318 | 
 

@@ -1,10 +1,10 @@
 # Reamd7/notion-zh_CN - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 569
+☋ Forks: 571
 
-★ Stars: 2428
+★ Stars: 2437
 
 [Open repository](https://github.com/Reamd7/notion-zh_CN)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2437 | 571 | 
 | 2022-10-18 | 2428 | 569 | 
 | 2022-10-17 | 2422 | 567 | 
 | 2022-10-16 | 2419 | 567 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2310 | 541 | 
 | 2022-09-21 | 2301 | 538 | 
 | 2022-09-20 | 2298 | 538 | 
-| 2022-09-19 | 2296 | 537 | 
 

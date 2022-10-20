@@ -1,10 +1,10 @@
 # iamchiwon/RxSwift_In_4_Hours - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 113
 
-★ Stars: 319
+★ Stars: 320
 
 [Open repository](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 320 | 113 | 
 | 2022-10-18 | 319 | 113 | 
 | 2022-10-17 | 317 | 113 | 
 | 2022-10-16 | 316 | 113 | 

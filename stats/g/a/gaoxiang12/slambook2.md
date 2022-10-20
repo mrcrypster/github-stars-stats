@@ -1,10 +1,10 @@
 # gaoxiang12/slambook2 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1507
+☋ Forks: 1508
 
-★ Stars: 3432
+★ Stars: 3438
 
 [Open repository](https://github.com/gaoxiang12/slambook2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3438 | 1508 | 
 | 2022-10-18 | 3432 | 1507 | 
 | 2022-10-17 | 3428 | 1506 | 
 | 2022-10-16 | 3425 | 1506 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3354 | 1487 | 
 | 2022-09-21 | 3352 | 1488 | 
 | 2022-09-20 | 3349 | 1487 | 
-| 2022-09-19 | 3348 | 1487 | 
 

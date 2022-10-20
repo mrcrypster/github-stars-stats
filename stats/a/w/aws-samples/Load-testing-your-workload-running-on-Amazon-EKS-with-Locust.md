@@ -1,6 +1,6 @@
 # aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 26 | 5 | 
 | 2022-10-18 | 26 | 5 | 
 | 2022-10-17 | 26 | 5 | 
 | 2022-10-16 | 26 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 25 | 4 | 
 | 2022-09-21 | 25 | 4 | 
 | 2022-09-20 | 25 | 4 | 
-| 2022-09-19 | 25 | 4 | 
 

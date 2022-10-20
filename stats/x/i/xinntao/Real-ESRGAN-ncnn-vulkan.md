@@ -1,6 +1,6 @@
 # xinntao/Real-ESRGAN-ncnn-vulkan - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 402 | 47 | 
 | 2022-10-18 | 402 | 47 | 
 | 2022-10-17 | 401 | 47 | 
 | 2022-10-16 | 400 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 356 | 44 | 
 | 2022-09-21 | 353 | 44 | 
 | 2022-09-20 | 348 | 44 | 
-| 2022-09-19 | 342 | 44 | 
 

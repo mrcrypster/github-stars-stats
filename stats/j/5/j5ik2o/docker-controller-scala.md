@@ -1,10 +1,10 @@
 # j5ik2o/docker-controller-scala - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/j5ik2o/docker-controller-scala)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 14 | 3 | 
 | 2022-10-18 | 13 | 3 | 
 | 2022-10-17 | 13 | 3 | 
 | 2022-10-16 | 13 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 13 | 3 | 
 | 2022-09-21 | 13 | 3 | 
 | 2022-09-20 | 13 | 3 | 
-| 2022-09-19 | 13 | 3 | 
 

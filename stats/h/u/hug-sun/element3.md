@@ -1,10 +1,10 @@
 # hug-sun/element3 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 1022
 
-★ Stars: 3228
+★ Stars: 3229
 
 [Open repository](https://github.com/hug-sun/element3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3229 | 1022 | 
 | 2022-10-18 | 3228 | 1022 | 
 | 2022-10-17 | 3228 | 1022 | 
 | 2022-10-16 | 3228 | 1022 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3224 | 1019 | 
 | 2022-09-21 | 3224 | 1019 | 
 | 2022-09-20 | 3223 | 1019 | 
-| 2022-09-19 | 3224 | 1019 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 19
 
 ☋ Forks: 12
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/tw93/weekly)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 111 | 12 | 
+| 2022-10-19 | 112 | 12 | 
 | 2022-10-18 | 111 | 12 | 
 | 2022-10-17 | 108 | 11 | 
 | 2022-10-16 | 98 | 10 | 

@@ -1,6 +1,6 @@
 # android/architecture-components-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 8214
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 22286 | 8214 | 
 | 2022-10-18 | 22286 | 8214 | 
 | 2022-10-17 | 22284 | 8211 | 
 | 2022-10-16 | 22281 | 8212 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 22223 | 8200 | 
 | 2022-09-21 | 22221 | 8198 | 
 | 2022-09-20 | 22220 | 8195 | 
-| 2022-09-19 | 22217 | 8194 | 
 

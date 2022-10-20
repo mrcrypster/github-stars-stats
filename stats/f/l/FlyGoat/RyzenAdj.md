@@ -1,10 +1,10 @@
 # FlyGoat/RyzenAdj - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 72
 
-★ Stars: 914
+★ Stars: 916
 
 [Open repository](https://github.com/FlyGoat/RyzenAdj)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 916 | 72 | 
 | 2022-10-18 | 914 | 72 | 
 | 2022-10-17 | 914 | 72 | 
 | 2022-10-16 | 912 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 885 | 71 | 
 | 2022-09-21 | 883 | 71 | 
 | 2022-09-20 | 882 | 71 | 
-| 2022-09-19 | 882 | 71 | 
 

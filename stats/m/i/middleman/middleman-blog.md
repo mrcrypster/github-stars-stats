@@ -1,6 +1,6 @@
 # middleman/middleman-blog - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 322 | 180 | 
 | 2022-10-19 | 322 | 180 | 
 | 2022-10-18 | 322 | 179 | 
 | 2022-10-16 | 322 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 322 | 179 | 
 | 2022-09-21 | 322 | 179 | 
 | 2022-09-20 | 322 | 179 | 
-| 2022-09-19 | 322 | 179 | 
 

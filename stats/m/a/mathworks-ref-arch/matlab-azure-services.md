@@ -1,6 +1,6 @@
 # mathworks-ref-arch/matlab-azure-services - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2 | - | 
 | 2022-10-18 | 2 | - | 
 | 2022-10-17 | 2 | - | 
 | 2022-10-16 | 2 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 2 | - | 
 | 2022-09-22 | 2 | - | 
 | 2022-09-21 | 2 | - | 
-| 2022-09-20 | 2 | - | 
 

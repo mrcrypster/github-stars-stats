@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 19
 
 ☋ Forks: 11
 
-★ Stars: 140
+★ Stars: 142
 
 [Open repository](https://github.com/mattpannella/pocket_core_autoupdate_net)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 140 | 11 | 
+| 2022-10-19 | 142 | 11 | 
 | 2022-10-18 | 138 | 11 | 
 | 2022-10-17 | 128 | 9 | 
 | 2022-10-16 | 127 | 8 | 

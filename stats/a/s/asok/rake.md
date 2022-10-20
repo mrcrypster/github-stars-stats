@@ -1,6 +1,6 @@
 # asok/rake - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 30 | 6 | 
 | 2022-10-18 | 30 | 6 | 
 | 2022-10-17 | 30 | 6 | 
 | 2022-10-16 | 30 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 30 | 7 | 
 | 2022-09-21 | 30 | 7 | 
 | 2022-09-20 | 30 | 7 | 
-| 2022-09-19 | 30 | 7 | 
 

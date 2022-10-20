@@ -1,10 +1,10 @@
 # jemalloc/jemalloc - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1258
+☋ Forks: 1259
 
-★ Stars: 7478
+★ Stars: 7482
 
 [Open repository](https://github.com/jemalloc/jemalloc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 7482 | 1259 | 
 | 2022-10-18 | 7478 | 1258 | 
 | 2022-10-17 | 7475 | 1258 | 
 | 2022-10-16 | 7471 | 1258 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 7406 | 1247 | 
 | 2022-09-21 | 7401 | 1247 | 
 | 2022-09-20 | 7399 | 1246 | 
-| 2022-09-19 | 7394 | 1246 | 
 

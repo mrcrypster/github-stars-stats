@@ -1,10 +1,10 @@
 # awslabs/gluon-ts - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 629
+☋ Forks: 631
 
-★ Stars: 3073
+★ Stars: 3075
 
 [Open repository](https://github.com/awslabs/gluon-ts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3075 | 631 | 
 | 2022-10-18 | 3073 | 629 | 
 | 2022-10-17 | 3065 | 630 | 
 | 2022-10-16 | 3058 | 630 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2977 | 619 | 
 | 2022-09-21 | 2973 | 619 | 
 | 2022-09-20 | 2972 | 618 | 
-| 2022-09-19 | 2970 | 618 | 
 

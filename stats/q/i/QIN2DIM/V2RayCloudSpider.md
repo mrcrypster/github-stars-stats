@@ -1,10 +1,10 @@
 # QIN2DIM/V2RayCloudSpider - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 235
 
-★ Stars: 992
+★ Stars: 993
 
 [Open repository](https://github.com/QIN2DIM/V2RayCloudSpider)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 993 | 235 | 
 | 2022-10-18 | 992 | 235 | 
 | 2022-10-17 | 992 | 235 | 
 | 2022-10-16 | 992 | 235 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 987 | 237 | 
 | 2022-09-21 | 987 | 238 | 
 | 2022-09-20 | 988 | 238 | 
-| 2022-09-19 | 988 | 238 | 
 

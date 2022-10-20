@@ -1,10 +1,10 @@
 # urllib3/urllib3 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 995
 
-★ Stars: 3174
+★ Stars: 3175
 
 [Open repository](https://github.com/urllib3/urllib3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3175 | 995 | 
 | 2022-10-18 | 3174 | 995 | 
 | 2022-10-17 | 3172 | 995 | 
 | 2022-10-16 | 3172 | 995 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3154 | 993 | 
 | 2022-09-21 | 3152 | 992 | 
 | 2022-09-20 | 3150 | 993 | 
-| 2022-09-19 | 3149 | 993 | 
 

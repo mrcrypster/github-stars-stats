@@ -1,10 +1,10 @@
 # swaywm/zig-wlroots - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 22
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/swaywm/zig-wlroots)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 54 | 22 | 
 | 2022-10-18 | 53 | 22 | 
 | 2022-10-17 | 53 | 22 | 
 | 2022-10-16 | 53 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 52 | 21 | 
 | 2022-09-21 | 52 | 21 | 
 | 2022-09-20 | 52 | 21 | 
-| 2022-09-19 | 52 | 21 | 
 

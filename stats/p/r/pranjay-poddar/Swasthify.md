@@ -1,8 +1,8 @@
 # pranjay-poddar/Swasthify - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 41 | 52 | 
 | 2022-10-18 | 41 | 53 | 
 | 2022-10-17 | 41 | 53 | 
 | 2022-10-16 | 41 | 52 | 

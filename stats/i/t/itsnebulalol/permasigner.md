@@ -1,10 +1,10 @@
 # itsnebulalol/permasigner - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 129
+☋ Forks: 131
 
-★ Stars: 369
+★ Stars: 370
 
 [Open repository](https://github.com/itsnebulalol/permasigner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 370 | 131 | 
 | 2022-10-18 | 369 | 129 | 
 | 2022-10-17 | 369 | 128 | 
 | 2022-10-16 | 369 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 350 | 121 | 
 | 2022-09-21 | 349 | 121 | 
 | 2022-09-20 | 348 | 119 | 
-| 2022-09-19 | 348 | 118 | 
 

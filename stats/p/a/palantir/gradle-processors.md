@@ -1,10 +1,10 @@
 # palantir/gradle-processors - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 20
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/palantir/gradle-processors)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 64 | 20 | 
 | 2022-10-18 | 63 | 20 | 
 | 2022-10-17 | 63 | 20 | 
 | 2022-10-16 | 63 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 63 | 20 | 
 | 2022-09-21 | 63 | 20 | 
 | 2022-09-20 | 63 | 20 | 
-| 2022-09-19 | 63 | 20 | 
 

@@ -1,6 +1,6 @@
 # cs225-illinois/release-f22 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 4 | 39 | 
 | 2022-10-18 | 4 | 39 | 
 | 2022-10-17 | 4 | 38 | 
 | 2022-10-16 | 4 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1 | 26 | 
 | 2022-09-21 | 1 | 24 | 
 | 2022-09-20 | 1 | 24 | 
-| 2022-09-19 | - | 24 | 
 

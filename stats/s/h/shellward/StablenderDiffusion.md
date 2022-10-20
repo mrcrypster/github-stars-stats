@@ -1,6 +1,6 @@
 # shellward/StablenderDiffusion - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 71 | 10 | 
 | 2022-10-19 | 71 | 10 | 
 | 2022-10-18 | 71 | 10 | 
 | 2022-10-17 | 70 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 61 | 10 | 
 | 2022-09-21 | 60 | 10 | 
 | 2022-09-20 | 60 | 10 | 
-| 2022-09-19 | 58 | 10 | 
 

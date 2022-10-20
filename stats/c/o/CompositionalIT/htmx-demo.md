@@ -1,10 +1,10 @@
 # CompositionalIT/htmx-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 18
+★ Stars: 21
 
 [Open repository](https://github.com/CompositionalIT/htmx-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 21 | 2 | 
 | 2022-10-18 | 18 | 1 | 
 | 2022-10-17 | 15 | 1 | 
 | 2022-10-16 | 12 | 1 | 

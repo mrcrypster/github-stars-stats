@@ -1,6 +1,6 @@
 # WICG/import-maps - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2232 | 58 | 
 | 2022-10-18 | 2232 | 58 | 
 | 2022-10-17 | 2229 | 58 | 
 | 2022-10-16 | 2228 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2208 | 56 | 
 | 2022-09-21 | 2208 | 56 | 
 | 2022-09-20 | 2207 | 56 | 
-| 2022-09-19 | 2207 | 56 | 
 

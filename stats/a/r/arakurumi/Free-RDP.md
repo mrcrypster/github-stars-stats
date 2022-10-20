@@ -1,10 +1,10 @@
 # arakurumi/Free-RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 354
+☋ Forks: 364
 
-★ Stars: 12
+★ Stars: 11
 
 [Open repository](https://github.com/arakurumi/Free-RDP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 11 | 364 | 
 | 2022-10-18 | 12 | 354 | 
 | 2022-10-17 | 12 | 341 | 
 | 2022-10-16 | 13 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 9 | 232 | 
 | 2022-09-21 | 9 | 230 | 
 | 2022-09-20 | 8 | 227 | 
-| 2022-09-19 | 8 | 224 | 
 

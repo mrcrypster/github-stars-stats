@@ -1,10 +1,10 @@
 # Redth/ZXing.Net.Maui - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 58
+☋ Forks: 59
 
-★ Stars: 194
+★ Stars: 196
 
 [Open repository](https://github.com/Redth/ZXing.Net.Maui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 196 | 59 | 
 | 2022-10-19 | 194 | 58 | 
 | 2022-10-18 | 194 | 58 | 
 | 2022-10-17 | 194 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 183 | 52 | 
 | 2022-09-21 | 183 | 52 | 
 | 2022-09-20 | 181 | 52 | 
-| 2022-09-19 | 180 | 51 | 
 

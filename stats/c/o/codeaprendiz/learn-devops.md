@@ -1,10 +1,10 @@
 # codeaprendiz/learn-devops - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 134
+☋ Forks: 135
 
-★ Stars: 832
+★ Stars: 835
 
 [Open repository](https://github.com/codeaprendiz/learn-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 835 | 135 | 
 | 2022-10-18 | 832 | 134 | 
 | 2022-10-17 | 826 | 133 | 
 | 2022-10-16 | 824 | 133 | 

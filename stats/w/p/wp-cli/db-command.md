@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 19
 
 ☋ Forks: 48
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/wp-cli/db-command)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 66 | 48 | 
+| 2022-10-19 | 67 | 48 | 
 | 2022-10-18 | 66 | 48 | 
 | 2022-10-17 | 66 | 48 | 
 | 2022-10-16 | 66 | 48 | 

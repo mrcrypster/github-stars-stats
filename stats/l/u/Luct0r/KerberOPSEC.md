@@ -1,10 +1,10 @@
 # Luct0r/KerberOPSEC - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/Luct0r/KerberOPSEC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 105 | 17 | 
 | 2022-10-19 | 104 | 16 | 
 | 2022-10-18 | 104 | 16 | 
 | 2022-10-17 | 104 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 103 | 15 | 
 | 2022-09-21 | 103 | 15 | 
 | 2022-09-20 | 103 | 15 | 
-| 2022-09-19 | 103 | 15 | 
 

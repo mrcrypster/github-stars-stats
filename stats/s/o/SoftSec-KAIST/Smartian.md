@@ -1,10 +1,10 @@
 # SoftSec-KAIST/Smartian - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/SoftSec-KAIST/Smartian)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 68 | 7 | 
 | 2022-10-18 | 67 | 6 | 
 | 2022-10-17 | 67 | 6 | 
 | 2022-10-16 | 67 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 65 | 4 | 
 | 2022-09-21 | 65 | 4 | 
 | 2022-09-20 | 65 | 4 | 
-| 2022-09-19 | 65 | 4 | 
 

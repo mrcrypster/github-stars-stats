@@ -1,10 +1,10 @@
 # hippospace/hippo-swap - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 12
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/hippospace/hippo-swap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 31 | 12 | 
 | 2022-10-18 | 30 | 12 | 
 | 2022-10-17 | 30 | 12 | 
 | 2022-10-16 | 30 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 25 | 11 | 
 | 2022-09-21 | 25 | 11 | 
 | 2022-09-20 | 25 | 11 | 
-| 2022-09-19 | 25 | 11 | 
 

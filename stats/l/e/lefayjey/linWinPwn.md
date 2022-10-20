@@ -1,10 +1,10 @@
 # lefayjey/linWinPwn - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 74
 
-★ Stars: 447
+★ Stars: 448
 
 [Open repository](https://github.com/lefayjey/linWinPwn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 448 | 74 | 
 | 2022-10-18 | 447 | 74 | 
 | 2022-10-17 | 446 | 74 | 
 | 2022-10-16 | 443 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 386 | 63 | 
 | 2022-09-21 | 384 | 61 | 
 | 2022-09-20 | 384 | 61 | 
-| 2022-09-19 | 384 | 61 | 
 

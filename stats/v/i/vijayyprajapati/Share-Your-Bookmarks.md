@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 19
 
-☋ Forks: 54
+☋ Forks: 62
 
-★ Stars: 33
+★ Stars: 35
 
 [Open repository](https://github.com/vijayyprajapati/Share-Your-Bookmarks)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 33 | 54 | 
+| 2022-10-19 | 35 | 62 | 
 | 2022-10-18 | 33 | 53 | 
 | 2022-10-17 | 24 | 30 | 
 | 2022-10-16 | 22 | 25 | 

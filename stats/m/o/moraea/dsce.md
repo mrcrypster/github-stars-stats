@@ -1,10 +1,10 @@
 # moraea/dsce - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/moraea/dsce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 29 | - | 
 | 2022-10-18 | 28 | - | 
 | 2022-10-17 | 28 | - | 
 | 2022-10-16 | 28 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 26 | - | 
 | 2022-09-21 | 26 | - | 
 | 2022-09-20 | 26 | - | 
-| 2022-09-19 | 26 | - | 
 

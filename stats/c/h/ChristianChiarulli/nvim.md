@@ -1,10 +1,10 @@
 # ChristianChiarulli/nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 263
+☋ Forks: 264
 
-★ Stars: 700
+★ Stars: 701
 
 [Open repository](https://github.com/ChristianChiarulli/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 701 | 264 | 
 | 2022-10-18 | 700 | 263 | 
 | 2022-10-17 | 700 | 263 | 
 | 2022-10-16 | 699 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 656 | 253 | 
 | 2022-09-21 | 654 | 253 | 
 | 2022-09-20 | 653 | 251 | 
-| 2022-09-19 | 648 | 247 | 
 

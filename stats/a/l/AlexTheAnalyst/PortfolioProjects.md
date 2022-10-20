@@ -1,10 +1,10 @@
 # AlexTheAnalyst/PortfolioProjects - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 491
+☋ Forks: 487
 
-★ Stars: 382
+★ Stars: 384
 
 [Open repository](https://github.com/AlexTheAnalyst/PortfolioProjects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 384 | 487 | 
 | 2022-10-18 | 382 | 491 | 
 | 2022-10-17 | 381 | 492 | 
 | 2022-10-16 | 379 | 491 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 363 | 448 | 
 | 2022-09-21 | 363 | 447 | 
 | 2022-09-20 | 362 | 449 | 
-| 2022-09-19 | 361 | 444 | 
 

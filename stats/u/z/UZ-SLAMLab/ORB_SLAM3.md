@@ -1,10 +1,10 @@
 # UZ-SLAMLab/ORB_SLAM3 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1756
+☋ Forks: 1759
 
-★ Stars: 4154
+★ Stars: 4157
 
 [Open repository](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 4157 | 1759 | 
 | 2022-10-18 | 4154 | 1756 | 
 | 2022-10-17 | 4153 | 1755 | 
 | 2022-10-16 | 4149 | 1752 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 4095 | 1720 | 
 | 2022-09-21 | 4093 | 1720 | 
 | 2022-09-20 | 4092 | 1717 | 
-| 2022-09-19 | 4090 | 1718 | 
 

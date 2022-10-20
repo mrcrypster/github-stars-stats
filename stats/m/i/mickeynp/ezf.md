@@ -1,10 +1,10 @@
 # mickeynp/ezf - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 2
 
-★ Stars: 24
+★ Stars: 27
 
 [Open repository](https://github.com/mickeynp/ezf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 27 | 2 | 
 | 2022-10-18 | 24 | 2 | 
 | 2022-10-17 | 24 | 2 | 
 | 2022-10-16 | 24 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 24 | 2 | 
 | 2022-09-21 | 24 | 2 | 
 | 2022-09-20 | 24 | 2 | 
-| 2022-09-19 | 24 | 2 | 
 

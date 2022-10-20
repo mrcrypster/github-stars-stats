@@ -1,6 +1,6 @@
 # EqualityAI/responsible_mlops - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 14 | - | 
 | 2022-10-18 | 14 | - | 
 | 2022-10-17 | 13 | - | 
 | 2022-10-16 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 12 | - | 
 | 2022-09-22 | 12 | - | 
 | 2022-09-21 | 12 | - | 
-| 2022-09-20 | 12 | - | 
 

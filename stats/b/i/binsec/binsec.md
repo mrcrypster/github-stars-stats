@@ -1,6 +1,6 @@
 # binsec/binsec - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 206 | 22 | 
 | 2022-10-19 | 206 | 22 | 
 | 2022-10-18 | 206 | 22 | 
 | 2022-10-17 | 206 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 199 | 20 | 
 | 2022-09-21 | 199 | 20 | 
 | 2022-09-20 | 197 | 20 | 
-| 2022-09-19 | 197 | 20 | 
 

@@ -1,6 +1,6 @@
 # jzhzhang/ROSEFusion - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 201 | 31 | 
 | 2022-10-18 | 201 | 31 | 
 | 2022-10-17 | 198 | 30 | 
 | 2022-10-16 | 198 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 195 | 30 | 
 | 2022-09-21 | 195 | 30 | 
 | 2022-09-20 | 195 | 30 | 
-| 2022-09-19 | 195 | 30 | 
 

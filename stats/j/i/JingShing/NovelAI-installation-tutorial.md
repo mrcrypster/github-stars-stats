@@ -1,10 +1,10 @@
 # JingShing/NovelAI-installation-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 25
+☋ Forks: 28
 
-★ Stars: 123
+★ Stars: 145
 
 [Open repository](https://github.com/JingShing/NovelAI-installation-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 145 | 28 | 
 | 2022-10-18 | 123 | 25 | 
 | 2022-10-17 | 115 | 21 | 
 | 2022-10-16 | 94 | 15 | 

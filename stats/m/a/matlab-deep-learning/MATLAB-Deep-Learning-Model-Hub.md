@@ -1,6 +1,6 @@
 # matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 235 | 53 | 
 | 2022-10-19 | 235 | 53 | 
 | 2022-10-18 | 235 | 53 | 
 | 2022-10-17 | 234 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 226 | 51 | 
 | 2022-09-21 | 226 | 51 | 
 | 2022-09-20 | 226 | 51 | 
-| 2022-09-19 | 224 | 50 | 
 

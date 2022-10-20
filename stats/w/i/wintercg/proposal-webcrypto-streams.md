@@ -1,10 +1,10 @@
 # wintercg/proposal-webcrypto-streams - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 0
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/wintercg/proposal-webcrypto-streams)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 39 | - | 
 | 2022-10-18 | 38 | - | 
 | 2022-10-17 | 37 | - | 
 | 2022-10-16 | 37 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 35 | - | 
 | 2022-09-21 | 35 | - | 
 | 2022-09-20 | 35 | - | 
-| 2022-09-19 | 35 | - | 
 

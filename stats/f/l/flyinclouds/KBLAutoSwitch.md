@@ -1,10 +1,10 @@
 # flyinclouds/KBLAutoSwitch - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 4
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/flyinclouds/KBLAutoSwitch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 72 | 4 | 
 | 2022-10-18 | 71 | 4 | 
 | 2022-10-17 | 70 | 4 | 
 | 2022-10-16 | 69 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 67 | 4 | 
 | 2022-09-22 | 67 | 4 | 
 | 2022-09-21 | 67 | 4 | 
-| 2022-09-20 | 67 | 4 | 
 

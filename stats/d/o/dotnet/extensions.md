@@ -1,8 +1,8 @@
 # dotnet/extensions - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 688
+☋ Forks: 689
 
 ★ Stars: 2218
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2218 | 689 | 
 | 2022-10-18 | 2218 | 688 | 
 | 2022-10-17 | 2218 | 688 | 
 | 2022-10-16 | 2218 | 688 | 

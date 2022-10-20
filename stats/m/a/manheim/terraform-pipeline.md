@@ -1,6 +1,6 @@
 # manheim/terraform-pipeline - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 60 | 50 | 
 | 2022-10-19 | 60 | 50 | 
 | 2022-10-17 | 60 | 50 | 
 | 2022-10-16 | 60 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 59 | 50 | 
 | 2022-09-21 | 59 | 50 | 
 | 2022-09-20 | 59 | 49 | 
-| 2022-09-19 | 59 | 49 | 
 

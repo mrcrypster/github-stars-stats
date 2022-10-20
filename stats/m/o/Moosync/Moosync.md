@@ -1,6 +1,6 @@
 # Moosync/Moosync - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 192 | 20 | 
 | 2022-10-18 | 192 | 20 | 
 | 2022-10-17 | 192 | 20 | 
 | 2022-10-16 | 192 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 173 | 20 | 
 | 2022-09-21 | 173 | 20 | 
 | 2022-09-20 | 172 | 20 | 
-| 2022-09-19 | 172 | 20 | 
 

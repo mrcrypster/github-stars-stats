@@ -1,10 +1,10 @@
 # sindresorhus/Gifski - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 251
 
-★ Stars: 6358
+★ Stars: 6359
 
 [Open repository](https://github.com/sindresorhus/Gifski)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 6359 | 251 | 
 | 2022-10-18 | 6358 | 251 | 
 | 2022-10-17 | 6355 | 251 | 
 | 2022-10-16 | 6353 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 6283 | 248 | 
 | 2022-09-21 | 6281 | 248 | 
 | 2022-09-20 | 6280 | 248 | 
-| 2022-09-19 | 6279 | 248 | 
 

@@ -1,6 +1,6 @@
 # d4rckh/nimc2 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 286 | 31 | 
 | 2022-10-18 | 286 | 31 | 
 | 2022-10-17 | 283 | 30 | 
 | 2022-10-16 | 282 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 277 | 30 | 
 | 2022-09-21 | 276 | 29 | 
 | 2022-09-20 | 276 | 29 | 
-| 2022-09-19 | 276 | 29 | 
 

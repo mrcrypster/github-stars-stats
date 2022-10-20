@@ -1,10 +1,10 @@
 # starwing/lua-protobuf - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 357
 
-★ Stars: 1447
+★ Stars: 1450
 
 [Open repository](https://github.com/starwing/lua-protobuf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1450 | 357 | 
 | 2022-10-18 | 1447 | 357 | 
 | 2022-10-17 | 1447 | 356 | 
 | 2022-10-16 | 1446 | 356 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 1435 | 353 | 
 | 2022-09-22 | 1433 | 353 | 
 | 2022-09-21 | 1433 | 352 | 
-| 2022-09-20 | 1431 | 353 | 
 

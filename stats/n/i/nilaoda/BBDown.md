@@ -1,10 +1,10 @@
 # nilaoda/BBDown - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 445
+☋ Forks: 447
 
-★ Stars: 3806
+★ Stars: 3810
 
 [Open repository](https://github.com/nilaoda/BBDown)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 3810 | 447 | 
 | 2022-10-18 | 3806 | 445 | 
 | 2022-10-17 | 3802 | 445 | 
 | 2022-10-16 | 3796 | 444 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3689 | 438 | 
 | 2022-09-21 | 3684 | 438 | 
 | 2022-09-20 | 3680 | 438 | 
-| 2022-09-19 | 3676 | 437 | 
 

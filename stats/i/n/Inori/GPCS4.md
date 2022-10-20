@@ -1,10 +1,10 @@
 # Inori/GPCS4 - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 131
+☋ Forks: 130
 
-★ Stars: 1753
+★ Stars: 1754
 
 [Open repository](https://github.com/Inori/GPCS4)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 1754 | 130 | 
 | 2022-10-18 | 1753 | 131 | 
 | 2022-10-17 | 1753 | 131 | 
 | 2022-10-16 | 1752 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 1740 | 130 | 
 | 2022-09-21 | 1739 | 130 | 
 | 2022-09-20 | 1739 | 130 | 
-| 2022-09-19 | 1739 | 130 | 
 

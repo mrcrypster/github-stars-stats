@@ -1,10 +1,10 @@
 # zerostaticthemes/hugo-serif-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 210
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/zerostaticthemes/hugo-serif-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 334 | 210 | 
 | 2022-10-18 | 333 | 210 | 
 | 2022-10-17 | 333 | 210 | 
 | 2022-10-16 | 333 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 326 | 204 | 
 | 2022-09-22 | 326 | 204 | 
 | 2022-09-21 | 326 | 204 | 
-| 2022-09-20 | 326 | 204 | 
 

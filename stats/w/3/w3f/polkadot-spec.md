@@ -1,6 +1,6 @@
 # w3f/polkadot-spec - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 137 | 39 | 
 | 2022-10-18 | 137 | 39 | 
 | 2022-10-17 | 136 | 39 | 
 | 2022-10-16 | 135 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 129 | 39 | 
 | 2022-09-22 | 128 | 39 | 
 | 2022-09-21 | 128 | 39 | 
-| 2022-09-20 | 128 | 39 | 
 

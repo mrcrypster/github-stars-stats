@@ -1,10 +1,10 @@
 # imafzalakram/dart-demos - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 16
+☋ Forks: 30
 
-★ Stars: 30
+★ Stars: 35
 
 [Open repository](https://github.com/imafzalakram/dart-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 35 | 30 | 
 | 2022-10-18 | 30 | 16 | 
 | 2022-10-17 | 30 | 16 | 
 | 2022-10-16 | 29 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 26 | 16 | 
 | 2022-09-21 | 26 | 16 | 
 | 2022-09-20 | 26 | 16 | 
-| 2022-09-19 | 26 | 16 | 
 

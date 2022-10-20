@@ -1,10 +1,10 @@
 # sass/sass-spec - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 87
 
-★ Stars: 176
+★ Stars: 177
 
 [Open repository](https://github.com/sass/sass-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 177 | 87 | 
 | 2022-10-18 | 176 | 87 | 
 | 2022-10-17 | 176 | 87 | 
 | 2022-10-16 | 176 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 176 | 86 | 
 | 2022-09-21 | 176 | 86 | 
 | 2022-09-20 | 176 | 86 | 
-| 2022-09-19 | 176 | 86 | 
 

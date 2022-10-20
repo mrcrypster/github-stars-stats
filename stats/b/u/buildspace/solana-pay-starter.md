@@ -1,8 +1,8 @@
 # buildspace/solana-pay-starter - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 506
+☋ Forks: 508
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 38 | 508 | 
 | 2022-10-19 | 38 | 506 | 
 | 2022-10-18 | 37 | 504 | 
 | 2022-10-17 | 37 | 504 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-22 | 33 | 475 | 
 | 2022-09-21 | 32 | 471 | 
 | 2022-09-20 | 32 | 471 | 
-| 2022-09-19 | 32 | 471 | 
 

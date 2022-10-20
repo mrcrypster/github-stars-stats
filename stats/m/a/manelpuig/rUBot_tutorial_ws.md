@@ -1,8 +1,8 @@
 # manelpuig/rUBot_tutorial_ws - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 59
+☋ Forks: 60
 
 ★ Stars: 1
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-19 | 1 | 59 | 
+| 2022-10-20 | 1 | 60 | 
+| 2022-10-19 | 1 | 60 | 
 | 2022-10-18 | 1 | 59 | 
 | 2022-10-17 | 1 | 48 | 
 | 2022-10-16 | 1 | 45 | 

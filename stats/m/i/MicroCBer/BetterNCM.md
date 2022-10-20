@@ -1,10 +1,10 @@
 # MicroCBer/BetterNCM - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 75
+☋ Forks: 76
 
-★ Stars: 624
+★ Stars: 626
 
 [Open repository](https://github.com/MicroCBer/BetterNCM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 626 | 76 | 
 | 2022-10-18 | 624 | 75 | 
 | 2022-10-17 | 621 | 74 | 
 | 2022-10-16 | 615 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 499 | 58 | 
 | 2022-09-21 | 499 | 58 | 
 | 2022-09-20 | 499 | 57 | 
-| 2022-09-19 | 496 | 56 | 
 

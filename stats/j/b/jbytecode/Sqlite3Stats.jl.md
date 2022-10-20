@@ -1,10 +1,10 @@
 # jbytecode/Sqlite3Stats.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/jbytecode/Sqlite3Stats.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 16 | 3 | 
 | 2022-10-18 | 15 | 3 | 
 | 2022-10-17 | 15 | 3 | 
 | 2022-10-16 | 15 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 15 | 3 | 
 | 2022-09-21 | 15 | 3 | 
 | 2022-09-20 | 15 | 3 | 
-| 2022-09-19 | 15 | 3 | 
 

@@ -1,8 +1,8 @@
 # thofma/Hecke.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 51
+☋ Forks: 52
 
 ★ Stars: 145
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 145 | 52 | 
 | 2022-10-18 | 145 | 51 | 
 | 2022-10-17 | 145 | 50 | 
 | 2022-10-16 | 145 | 50 | 

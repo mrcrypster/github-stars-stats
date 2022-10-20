@@ -1,6 +1,6 @@
 # gotthardp/lorawan-server - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 321
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 799 | 321 | 
 | 2022-10-18 | 799 | 321 | 
 | 2022-10-17 | 798 | 321 | 
 | 2022-10-16 | 798 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 798 | 320 | 
 | 2022-09-21 | 797 | 320 | 
 | 2022-09-20 | 797 | 320 | 
-| 2022-09-19 | 797 | 320 | 
 

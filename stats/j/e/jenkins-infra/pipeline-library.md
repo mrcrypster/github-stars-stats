@@ -1,6 +1,6 @@
 # jenkins-infra/pipeline-library - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 234 | 132 | 
 | 2022-10-18 | 234 | 132 | 
 | 2022-10-17 | 233 | 132 | 
 | 2022-10-16 | 233 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 229 | 132 | 
 | 2022-09-21 | 229 | 132 | 
 | 2022-09-20 | 229 | 132 | 
-| 2022-09-19 | 229 | 132 | 
 

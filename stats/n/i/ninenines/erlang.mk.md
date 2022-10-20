@@ -1,10 +1,10 @@
 # ninenines/erlang.mk - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 240
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/ninenines/erlang.mk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 559 | 240 | 
 | 2022-10-18 | 558 | 240 | 
 | 2022-10-17 | 558 | 240 | 
 | 2022-10-16 | 558 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 557 | 241 | 
 | 2022-09-21 | 557 | 241 | 
 | 2022-09-20 | 557 | 241 | 
-| 2022-09-19 | 557 | 241 | 
 

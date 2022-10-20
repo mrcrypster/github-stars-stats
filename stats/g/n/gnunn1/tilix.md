@@ -1,6 +1,6 @@
 # gnunn1/tilix - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 4941 | 281 | 
 | 2022-10-18 | 4941 | 281 | 
 | 2022-10-17 | 4942 | 281 | 
 | 2022-10-16 | 4942 | 281 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 4924 | 282 | 
 | 2022-09-21 | 4921 | 282 | 
 | 2022-09-20 | 4920 | 282 | 
-| 2022-09-19 | 4919 | 282 | 
 

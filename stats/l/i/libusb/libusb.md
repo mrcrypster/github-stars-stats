@@ -1,10 +1,10 @@
 # libusb/libusb - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 1639
+☋ Forks: 1641
 
-★ Stars: 4004
+★ Stars: 4008
 
 [Open repository](https://github.com/libusb/libusb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 4008 | 1641 | 
 | 2022-10-18 | 4004 | 1639 | 
 | 2022-10-17 | 3996 | 1639 | 
 | 2022-10-16 | 3992 | 1639 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 3960 | 1629 | 
 | 2022-09-21 | 3956 | 1628 | 
 | 2022-09-20 | 3951 | 1629 | 
-| 2022-09-19 | 3947 | 1630 | 
 

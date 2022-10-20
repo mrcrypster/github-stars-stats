@@ -1,8 +1,8 @@
 # krishnaik06/3-Months-RoadMap-For-Data-Science - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
-☋ Forks: 35
+☋ Forks: 36
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 125 | 36 | 
 | 2022-10-18 | 125 | 35 | 
 | 2022-10-17 | 125 | 35 | 
 | 2022-10-16 | 124 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-23 | 117 | 32 | 
 | 2022-09-22 | 117 | 32 | 
 | 2022-09-21 | 116 | 31 | 
-| 2022-09-20 | 116 | 30 | 
 

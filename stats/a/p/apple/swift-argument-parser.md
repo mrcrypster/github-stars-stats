@@ -1,10 +1,10 @@
 # apple/swift-argument-parser - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 249
 
-★ Stars: 2751
+★ Stars: 2753
 
 [Open repository](https://github.com/apple/swift-argument-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 2753 | 249 | 
 | 2022-10-18 | 2751 | 249 | 
 | 2022-10-17 | 2751 | 249 | 
 | 2022-10-16 | 2751 | 249 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 2741 | 247 | 
 | 2022-09-21 | 2738 | 246 | 
 | 2022-09-20 | 2737 | 246 | 
-| 2022-09-19 | 2737 | 246 | 
 

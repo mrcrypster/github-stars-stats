@@ -1,10 +1,10 @@
 # microsoft/monaco-editor - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 3020
 
-★ Stars: 31512
+★ Stars: 31530
 
 [Open repository](https://github.com/microsoft/monaco-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 31530 | 3020 | 
 | 2022-10-18 | 31512 | 3020 | 
 | 2022-10-17 | 31484 | 3021 | 
 | 2022-10-16 | 31468 | 3019 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 31192 | 2989 | 
 | 2022-09-21 | 31182 | 2987 | 
 | 2022-09-20 | 31165 | 2984 | 
-| 2022-09-19 | 31152 | 2982 | 
 

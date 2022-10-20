@@ -1,6 +1,6 @@
 # PrintNow/TodayInHistory - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 61 | 23 | 
 | 2022-10-18 | 61 | 23 | 
 | 2022-10-17 | 61 | 23 | 
 | 2022-10-16 | 61 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 61 | 23 | 
 | 2022-09-21 | 61 | 23 | 
 | 2022-09-20 | 61 | 23 | 
-| 2022-09-19 | 61 | 23 | 
 

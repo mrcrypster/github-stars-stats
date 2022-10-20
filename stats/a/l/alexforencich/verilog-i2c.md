@@ -1,6 +1,6 @@
 # alexforencich/verilog-i2c - stars & forks statistics
 
-Stats updated on Oct 2022, 18
+Stats updated on Oct 2022, 19
 
 ☋ Forks: 119
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 18
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-19 | 288 | 119 | 
 | 2022-10-18 | 288 | 119 | 
 | 2022-10-17 | 288 | 119 | 
 | 2022-10-16 | 288 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 18
 | 2022-09-22 | 286 | 118 | 
 | 2022-09-21 | 286 | 118 | 
 | 2022-09-20 | 286 | 118 | 
-| 2022-09-19 | 286 | 118 | 
 
