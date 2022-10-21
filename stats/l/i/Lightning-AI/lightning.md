@@ -1,10 +1,10 @@
 # Lightning-AI/lightning - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 2616
+☋ Forks: 2617
 
-★ Stars: 20346
+★ Stars: 20360
 
 [Open repository](https://github.com/Lightning-AI/lightning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 20360 | 2617 | 
 | 2022-10-19 | 20346 | 2616 | 
 | 2022-10-18 | 20330 | 2616 | 
 | 2022-10-17 | 20323 | 2617 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 20080 | 2594 | 
 | 2022-09-22 | 20070 | 2589 | 
 | 2022-09-21 | 20056 | 2587 | 
-| 2022-09-20 | 20039 | 2587 | 
 

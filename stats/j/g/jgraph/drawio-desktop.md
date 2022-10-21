@@ -1,10 +1,10 @@
 # jgraph/drawio-desktop - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 3791
+☋ Forks: 3797
 
-★ Stars: 34475
+★ Stars: 34520
 
 [Open repository](https://github.com/jgraph/drawio-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 34520 | 3797 | 
 | 2022-10-19 | 34475 | 3791 | 
 | 2022-10-18 | 34465 | 3790 | 
 | 2022-10-17 | 34413 | 3788 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 33762 | 3719 | 
 | 2022-09-22 | 33698 | 3716 | 
 | 2022-09-21 | 33659 | 3712 | 
-| 2022-09-20 | 33623 | 3709 | 
 

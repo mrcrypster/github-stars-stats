@@ -1,6 +1,6 @@
 # cram2/cram - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 26 | 28 | 
 | 2022-10-19 | 26 | 28 | 
 | 2022-10-18 | 26 | 27 | 
 | 2022-10-17 | 26 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 26 | 27 | 
 | 2022-09-23 | 26 | 27 | 
 | 2022-09-22 | 26 | 27 | 
-| 2022-09-20 | 26 | 27 | 
 

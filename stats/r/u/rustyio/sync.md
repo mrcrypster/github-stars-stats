@@ -1,10 +1,10 @@
 # rustyio/sync - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 165
 
-★ Stars: 725
+★ Stars: 724
 
 [Open repository](https://github.com/rustyio/sync)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 724 | 165 | 
 | 2022-10-19 | 725 | 165 | 
 | 2022-10-18 | 725 | 165 | 
 | 2022-10-17 | 725 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 724 | 165 | 
 | 2022-09-22 | 723 | 164 | 
 | 2022-09-21 | 723 | 164 | 
-| 2022-09-20 | 722 | 164 | 
 

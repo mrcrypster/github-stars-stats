@@ -1,10 +1,10 @@
 # Nixtla/statsforecast - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 85
+☋ Forks: 90
 
-★ Stars: 1547
+★ Stars: 1556
 
 [Open repository](https://github.com/Nixtla/statsforecast)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1556 | 90 | 
 | 2022-10-19 | 1547 | 85 | 
 | 2022-10-18 | 1544 | 85 | 
 | 2022-10-17 | 1543 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1484 | 84 | 
 | 2022-09-22 | 1482 | 84 | 
 | 2022-09-21 | 1479 | 83 | 
-| 2022-09-20 | 1476 | 83 | 
 

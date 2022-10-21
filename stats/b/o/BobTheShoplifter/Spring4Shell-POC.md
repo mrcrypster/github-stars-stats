@@ -1,6 +1,6 @@
 # BobTheShoplifter/Spring4Shell-POC - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 301 | 101 | 
 | 2022-10-19 | 301 | 101 | 
 | 2022-10-18 | 301 | 100 | 
 | 2022-10-17 | 301 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 297 | 98 | 
 | 2022-09-22 | 297 | 98 | 
 | 2022-09-21 | 296 | 98 | 
-| 2022-09-20 | 295 | 96 | 
 

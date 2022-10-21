@@ -1,10 +1,10 @@
 # d4rckh/vaf - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 40
 
-★ Stars: 277
+★ Stars: 279
 
 [Open repository](https://github.com/d4rckh/vaf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 279 | 40 | 
 | 2022-10-19 | 277 | 40 | 
 | 2022-10-18 | 274 | 40 | 
 | 2022-10-17 | 269 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 252 | 39 | 
 | 2022-09-22 | 253 | 39 | 
 | 2022-09-21 | 253 | 38 | 
-| 2022-09-20 | 253 | 38 | 
 

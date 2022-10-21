@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 20
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/nickytonline/connect-four)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 6 | 10 | 
+| 2022-10-20 | 7 | 11 | 
 | 2022-10-19 | 6 | 10 | 
 | 2022-10-18 | 6 | 10 | 
 | 2022-10-17 | 6 | 10 | 

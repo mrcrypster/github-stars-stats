@@ -1,8 +1,8 @@
 # jennybc/happy-git-with-r - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 300
+☋ Forks: 301
 
 ★ Stars: 506
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 506 | 301 | 
 | 2022-10-19 | 506 | 300 | 
 | 2022-10-18 | 506 | 300 | 
 | 2022-10-17 | 505 | 300 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 500 | 298 | 
 | 2022-09-22 | 500 | 298 | 
 | 2022-09-21 | 499 | 298 | 
-| 2022-09-20 | 499 | 298 | 
 

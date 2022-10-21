@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/microservices-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 4231
+☋ Forks: 4237
 
-★ Stars: 13062
+★ Stars: 13068
 
 [Open repository](https://github.com/GoogleCloudPlatform/microservices-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 13068 | 4237 | 
 | 2022-10-19 | 13062 | 4231 | 
 | 2022-10-18 | 13049 | 4229 | 
 | 2022-10-17 | 13039 | 4224 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 12910 | 4133 | 
 | 2022-09-22 | 12899 | 4133 | 
 | 2022-09-21 | 12894 | 4130 | 
-| 2022-09-20 | 12886 | 4125 | 
 

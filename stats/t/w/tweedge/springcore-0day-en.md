@@ -1,10 +1,10 @@
 # tweedge/springcore-0day-en - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 36
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/tweedge/springcore-0day-en)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 104 | 36 | 
 | 2022-10-19 | 103 | 36 | 
 | 2022-10-18 | 103 | 36 | 
 | 2022-10-17 | 103 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 103 | 36 | 
 | 2022-09-23 | 103 | 36 | 
 | 2022-09-22 | 103 | 36 | 
-| 2022-09-21 | 103 | 36 | 
 

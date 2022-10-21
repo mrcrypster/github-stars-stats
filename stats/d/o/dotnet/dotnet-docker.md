@@ -1,10 +1,10 @@
 # dotnet/dotnet-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1744
+☋ Forks: 1745
 
-★ Stars: 3531
+★ Stars: 3532
 
 [Open repository](https://github.com/dotnet/dotnet-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3532 | 1745 | 
 | 2022-10-19 | 3531 | 1744 | 
 | 2022-10-18 | 3530 | 1743 | 
 | 2022-10-17 | 3527 | 1738 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3502 | 1732 | 
 | 2022-09-22 | 3501 | 1731 | 
 | 2022-09-21 | 3501 | 1731 | 
-| 2022-09-20 | 3498 | 1731 | 
 

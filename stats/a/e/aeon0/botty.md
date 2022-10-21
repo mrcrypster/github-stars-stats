@@ -1,10 +1,10 @@
 # aeon0/botty - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 343
+☋ Forks: 344
 
-★ Stars: 460
+★ Stars: 459
 
 [Open repository](https://github.com/aeon0/botty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 459 | 344 | 
 | 2022-10-19 | 460 | 343 | 
 | 2022-10-18 | 460 | 343 | 
 | 2022-10-17 | 460 | 343 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 455 | 337 | 
 | 2022-09-22 | 452 | 336 | 
 | 2022-09-21 | 452 | 336 | 
-| 2022-09-20 | 452 | 335 | 
 

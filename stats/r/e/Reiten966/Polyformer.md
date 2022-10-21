@@ -1,8 +1,8 @@
 # Reiten966/Polyformer - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 534
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 534 | 45 | 
 | 2022-10-19 | 534 | 44 | 
 | 2022-10-18 | 534 | 44 | 
 | 2022-10-17 | 532 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 507 | 39 | 
 | 2022-09-22 | 507 | 39 | 
 | 2022-09-21 | 505 | 39 | 
-| 2022-09-20 | 505 | 39 | 
 

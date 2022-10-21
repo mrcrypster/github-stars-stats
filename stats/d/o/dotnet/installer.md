@@ -1,6 +1,6 @@
 # dotnet/installer - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 390
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1041 | 390 | 
 | 2022-10-19 | 1041 | 390 | 
 | 2022-10-18 | 1040 | 389 | 
 | 2022-10-17 | 1040 | 388 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1033 | 386 | 
 | 2022-09-22 | 1032 | 385 | 
 | 2022-09-21 | 1032 | 385 | 
-| 2022-09-20 | 1032 | 385 | 
 

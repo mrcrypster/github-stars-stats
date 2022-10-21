@@ -1,10 +1,10 @@
 # google-research/maxim - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 486
+★ Stars: 490
 
 [Open repository](https://github.com/google-research/maxim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 490 | 49 | 
 | 2022-10-19 | 486 | 48 | 
 | 2022-10-18 | 483 | 48 | 
 | 2022-10-17 | 482 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 442 | 43 | 
 | 2022-09-22 | 440 | 41 | 
 | 2022-09-21 | 440 | 41 | 
-| 2022-09-20 | 438 | 41 | 
 

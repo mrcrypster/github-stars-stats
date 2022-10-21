@@ -1,6 +1,6 @@
 # alexforencich/verilog-pcie - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 553 | 173 | 
 | 2022-10-19 | 553 | 173 | 
 | 2022-10-18 | 553 | 173 | 
 | 2022-10-17 | 553 | 173 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 538 | 170 | 
 | 2022-09-22 | 537 | 170 | 
 | 2022-09-21 | 537 | 170 | 
-| 2022-09-20 | 537 | 170 | 
 

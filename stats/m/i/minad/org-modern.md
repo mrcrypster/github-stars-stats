@@ -1,10 +1,10 @@
 # minad/org-modern - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 33
 
-★ Stars: 789
+★ Stars: 795
 
 [Open repository](https://github.com/minad/org-modern)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 795 | 33 | 
 | 2022-10-19 | 789 | 33 | 
 | 2022-10-18 | 786 | 33 | 
 | 2022-10-17 | 783 | 33 | 

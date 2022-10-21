@@ -1,10 +1,10 @@
 # HFUTTUG/HFUT_Thesis - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 18
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/HFUTTUG/HFUT_Thesis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 79 | 18 | 
 | 2022-10-19 | 78 | 18 | 
 | 2022-10-18 | 78 | 18 | 
 | 2022-10-17 | 78 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 76 | 17 | 
 | 2022-09-22 | 76 | 17 | 
 | 2022-09-21 | 76 | 17 | 
-| 2022-09-20 | 76 | 17 | 
 

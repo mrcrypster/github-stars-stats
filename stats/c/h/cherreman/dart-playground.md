@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 20
 
 ☋ Forks: 5
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/cherreman/dart-playground)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 17 | 5 | 
+| 2022-10-20 | 18 | 5 | 
 | 2022-10-19 | 17 | 5 | 
 

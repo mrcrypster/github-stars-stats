@@ -1,10 +1,10 @@
 # kokonior/HTML-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 416
+☋ Forks: 422
 
-★ Stars: 132
+★ Stars: 134
 
 [Open repository](https://github.com/kokonior/HTML-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 134 | 422 | 
 | 2022-10-19 | 132 | 416 | 
 | 2022-10-18 | 131 | 404 | 
 | 2022-10-17 | 131 | 393 | 

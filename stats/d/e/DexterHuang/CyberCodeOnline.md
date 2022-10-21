@@ -1,10 +1,10 @@
 # DexterHuang/CyberCodeOnline - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 957
+☋ Forks: 961
 
-★ Stars: 741
+★ Stars: 745
 
 [Open repository](https://github.com/DexterHuang/CyberCodeOnline)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 745 | 961 | 
 | 2022-10-19 | 741 | 957 | 
 | 2022-10-18 | 739 | 955 | 
 | 2022-10-17 | 735 | 955 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 704 | 929 | 
 | 2022-09-22 | 703 | 929 | 
 | 2022-09-21 | 704 | 930 | 
-| 2022-09-20 | 704 | 930 | 
 

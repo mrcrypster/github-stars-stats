@@ -1,10 +1,10 @@
 # JuliaConcurrent/Atomix.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/JuliaConcurrent/Atomix.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 13 | - | 
 | 2022-10-19 | 12 | - | 
 | 2022-10-18 | 12 | - | 
 | 2022-10-17 | 12 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 12 | - | 
 | 2022-09-22 | 12 | - | 
 | 2022-09-21 | 12 | - | 
-| 2022-09-20 | 12 | - | 
 

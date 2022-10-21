@@ -1,10 +1,10 @@
 # rashevskyv/switch - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 43
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/rashevskyv/switch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 19 | 43 | 
 | 2022-10-19 | 18 | 43 | 
 | 2022-10-18 | 18 | 43 | 
 | 2022-10-17 | 17 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 16 | 41 | 
 | 2022-09-22 | 16 | 41 | 
 | 2022-09-21 | 16 | 42 | 
-| 2022-09-20 | 16 | 42 | 
 

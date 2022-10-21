@@ -1,10 +1,10 @@
 # joemccann/dillinger - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1087
 
-★ Stars: 7498
+★ Stars: 7499
 
 [Open repository](https://github.com/joemccann/dillinger)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 7499 | 1087 | 
 | 2022-10-19 | 7498 | 1087 | 
 | 2022-10-18 | 7497 | 1087 | 
 | 2022-10-17 | 7495 | 1087 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 7477 | 1085 | 
 | 2022-09-22 | 7477 | 1085 | 
 | 2022-09-21 | 7476 | 1083 | 
-| 2022-09-20 | 7476 | 1082 | 
 

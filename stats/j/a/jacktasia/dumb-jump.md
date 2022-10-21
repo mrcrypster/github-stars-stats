@@ -1,10 +1,10 @@
 # jacktasia/dumb-jump - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 143
 
-★ Stars: 1417
+★ Stars: 1416
 
 [Open repository](https://github.com/jacktasia/dumb-jump)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1416 | 143 | 
 | 2022-10-19 | 1417 | 143 | 
 | 2022-10-18 | 1417 | 143 | 
 | 2022-10-17 | 1414 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1412 | 143 | 
 | 2022-09-22 | 1412 | 143 | 
 | 2022-09-21 | 1412 | 143 | 
-| 2022-09-20 | 1412 | 143 | 
 

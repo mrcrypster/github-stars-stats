@@ -1,10 +1,10 @@
 # VincentWong3/automated-driving-control - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 197
 
-★ Stars: 365
+★ Stars: 366
 
 [Open repository](https://github.com/VincentWong3/automated-driving-control)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 366 | 197 | 
 | 2022-10-19 | 365 | 197 | 
 | 2022-10-18 | 365 | 197 | 
 | 2022-10-17 | 365 | 197 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 358 | 193 | 
 | 2022-09-22 | 358 | 193 | 
 | 2022-09-21 | 358 | 192 | 
-| 2022-09-20 | 358 | 192 | 
 

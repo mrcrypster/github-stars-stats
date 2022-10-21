@@ -1,6 +1,6 @@
 # nmlgc/ReC98 - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 534 | 20 | 
 | 2022-10-19 | 534 | 20 | 
 | 2022-10-18 | 533 | 20 | 
 | 2022-10-17 | 531 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 524 | 20 | 
 | 2022-09-22 | 524 | 20 | 
 | 2022-09-21 | 524 | 20 | 
-| 2022-09-20 | 523 | 19 | 
 

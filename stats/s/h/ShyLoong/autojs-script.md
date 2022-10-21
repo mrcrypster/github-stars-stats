@@ -1,10 +1,10 @@
 # ShyLoong/autojs-script - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 164
 
-★ Stars: 379
+★ Stars: 380
 
 [Open repository](https://github.com/ShyLoong/autojs-script)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 380 | 164 | 
 | 2022-10-19 | 379 | 164 | 
 | 2022-10-18 | 379 | 164 | 
 | 2022-10-17 | 379 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 377 | 166 | 
 | 2022-09-22 | 377 | 166 | 
 | 2022-09-21 | 377 | 166 | 
-| 2022-09-20 | 377 | 166 | 
 

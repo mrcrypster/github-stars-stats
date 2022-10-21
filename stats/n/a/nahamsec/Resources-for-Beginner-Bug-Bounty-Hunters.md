@@ -1,10 +1,10 @@
 # nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1581
+☋ Forks: 1582
 
-★ Stars: 8116
+★ Stars: 8120
 
 [Open repository](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 8120 | 1582 | 
 | 2022-10-19 | 8116 | 1581 | 
 | 2022-10-18 | 8115 | 1582 | 
 | 2022-10-17 | 8112 | 1582 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 8053 | 1577 | 
 | 2022-09-22 | 8052 | 1577 | 
 | 2022-09-21 | 8050 | 1576 | 
-| 2022-09-20 | 8048 | 1576 | 
 

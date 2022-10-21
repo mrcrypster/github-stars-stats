@@ -1,10 +1,10 @@
 # JujuAdams/Input - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 19
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/JujuAdams/Input)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 135 | 19 | 
 | 2022-10-19 | 134 | 19 | 
 | 2022-10-18 | 134 | 19 | 
 | 2022-10-17 | 134 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 127 | 19 | 
 | 2022-09-22 | 127 | 19 | 
 | 2022-09-21 | 127 | 19 | 
-| 2022-09-20 | 127 | 19 | 
 

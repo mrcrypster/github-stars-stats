@@ -1,10 +1,10 @@
 # code-423n4/2022-05-opensea-seaport - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 14
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/code-423n4/2022-05-opensea-seaport)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 52 | 14 | 
 | 2022-10-19 | 50 | 14 | 
 | 2022-10-18 | 50 | 14 | 
 | 2022-10-17 | 49 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 48 | 14 | 
 | 2022-09-22 | 48 | 14 | 
 | 2022-09-21 | 48 | 14 | 
-| 2022-09-20 | 48 | 14 | 
 

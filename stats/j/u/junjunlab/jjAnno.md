@@ -1,10 +1,10 @@
 # junjunlab/jjAnno - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 7
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/junjunlab/jjAnno)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 71 | 7 | 
 | 2022-10-19 | 70 | 7 | 
 | 2022-10-18 | 69 | 7 | 
 | 2022-10-17 | 69 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 66 | 7 | 
 | 2022-09-22 | 65 | 7 | 
 | 2022-09-21 | 65 | 7 | 
-| 2022-09-20 | 65 | 7 | 
 

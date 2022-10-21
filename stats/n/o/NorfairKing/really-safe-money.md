@@ -1,6 +1,6 @@
 # NorfairKing/really-safe-money - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 32 | 1 | 
 | 2022-10-19 | 32 | 1 | 
 | 2022-10-18 | 32 | 1 | 
 | 2022-10-17 | 32 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 31 | 1 | 
 | 2022-09-22 | 31 | 1 | 
 | 2022-09-21 | 31 | 1 | 
-| 2022-09-20 | 31 | 1 | 
 

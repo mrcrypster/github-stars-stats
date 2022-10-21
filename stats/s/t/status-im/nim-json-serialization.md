@@ -1,6 +1,6 @@
 # status-im/nim-json-serialization - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 36 | 10 | 
 | 2022-10-19 | 36 | 10 | 
 | 2022-10-18 | 36 | 10 | 
 | 2022-10-17 | 36 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 36 | 10 | 
 | 2022-09-22 | 36 | 10 | 
 | 2022-09-21 | 36 | 10 | 
-| 2022-09-20 | 36 | 10 | 
 

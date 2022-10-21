@@ -1,10 +1,10 @@
 # karpathy/randomfun - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 81
 
-★ Stars: 384
+★ Stars: 385
 
 [Open repository](https://github.com/karpathy/randomfun)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 385 | 81 | 
 | 2022-10-19 | 384 | 81 | 
 | 2022-10-18 | 384 | 81 | 
 | 2022-10-17 | 384 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 381 | 80 | 
 | 2022-09-22 | 381 | 80 | 
 | 2022-09-21 | 380 | 80 | 
-| 2022-09-20 | 380 | 80 | 
 

@@ -1,8 +1,8 @@
 # learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1117
+☋ Forks: 1119
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1 | 1119 | 
 | 2022-10-19 | 1 | 1117 | 
 | 2022-10-18 | 1 | 1114 | 
 | 2022-10-17 | 1 | 1111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1 | 1058 | 
 | 2022-09-22 | 1 | 1050 | 
 | 2022-09-21 | 1 | 1048 | 
-| 2022-09-20 | 1 | 1045 | 
 

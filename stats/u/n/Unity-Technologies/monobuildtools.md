@@ -1,6 +1,6 @@
 # Unity-Technologies/monobuildtools - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 56 | 18 | 
 | 2022-10-19 | 56 | 18 | 
 | 2022-10-18 | 56 | 18 | 
 | 2022-10-17 | 56 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 56 | 18 | 
 | 2022-09-22 | 56 | 18 | 
 | 2022-09-21 | 56 | 18 | 
-| 2022-09-20 | 56 | 18 | 
 

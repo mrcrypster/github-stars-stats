@@ -1,10 +1,10 @@
 # rushout09/AutoTrader - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 74
+★ Stars: 83
 
 [Open repository](https://github.com/rushout09/AutoTrader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 83 | 9 | 
 | 2022-10-19 | 74 | 8 | 
 | 2022-10-18 | 73 | 7 | 
 

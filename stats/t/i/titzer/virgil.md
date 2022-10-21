@@ -1,10 +1,10 @@
 # titzer/virgil - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 15
 
-★ Stars: 637
+★ Stars: 639
 
 [Open repository](https://github.com/titzer/virgil)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 639 | 15 | 
 | 2022-10-19 | 637 | 15 | 
 | 2022-10-18 | 637 | 15 | 
 | 2022-10-17 | 637 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 629 | 15 | 
 | 2022-09-22 | 629 | 15 | 
 | 2022-09-21 | 628 | 15 | 
-| 2022-09-20 | 627 | 15 | 
 

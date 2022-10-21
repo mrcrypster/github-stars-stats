@@ -1,10 +1,10 @@
 # nmap/nmap - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1995
+☋ Forks: 1996
 
-★ Stars: 6943
+★ Stars: 6948
 
 [Open repository](https://github.com/nmap/nmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 6948 | 1996 | 
 | 2022-10-19 | 6943 | 1995 | 
 | 2022-10-18 | 6938 | 1994 | 
 | 2022-10-17 | 6931 | 1992 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 6793 | 1973 | 
 | 2022-09-22 | 6788 | 1970 | 
 | 2022-09-21 | 6784 | 1968 | 
-| 2022-09-20 | 6778 | 1966 | 
 

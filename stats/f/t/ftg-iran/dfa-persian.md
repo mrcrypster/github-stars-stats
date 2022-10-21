@@ -1,10 +1,10 @@
 # ftg-iran/dfa-persian - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 37
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/ftg-iran/dfa-persian)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 154 | 37 | 
 | 2022-10-19 | 153 | 37 | 
 | 2022-10-18 | 153 | 37 | 
 | 2022-10-17 | 153 | 37 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 152 | 36 | 
 | 2022-09-22 | 152 | 36 | 
 | 2022-09-21 | 152 | 36 | 
-| 2022-09-20 | 152 | 36 | 
 

@@ -1,10 +1,10 @@
 # tpope/vim-fugitive - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 968
 
-★ Stars: 16641
+★ Stars: 16639
 
 [Open repository](https://github.com/tpope/vim-fugitive)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 16639 | 968 | 
 | 2022-10-19 | 16641 | 968 | 
 | 2022-10-18 | 16639 | 968 | 
 | 2022-10-17 | 16635 | 968 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 16536 | 968 | 
 | 2022-09-22 | 16530 | 968 | 
 | 2022-09-21 | 16525 | 968 | 
-| 2022-09-20 | 16524 | 967 | 
 

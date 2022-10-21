@@ -1,10 +1,10 @@
 # liyupi/yulegeyu - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 451
 
-★ Stars: 1403
+★ Stars: 1409
 
 [Open repository](https://github.com/liyupi/yulegeyu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1409 | 451 | 
 | 2022-10-19 | 1403 | 451 | 
 | 2022-10-18 | 1398 | 450 | 
 | 2022-10-17 | 1394 | 444 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1094 | 317 | 
 | 2022-09-22 | 1014 | 301 | 
 | 2022-09-21 | 798 | 237 | 
-| 2022-09-20 | 521 | 163 | 
 

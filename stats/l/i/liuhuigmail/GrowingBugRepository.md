@@ -1,10 +1,10 @@
 # liuhuigmail/GrowingBugRepository - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 210
 
-★ Stars: 269
+★ Stars: 270
 
 [Open repository](https://github.com/liuhuigmail/GrowingBugRepository)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 270 | 210 | 
 | 2022-10-19 | 269 | 210 | 
 | 2022-10-18 | 269 | 210 | 
 | 2022-10-17 | 268 | 209 | 

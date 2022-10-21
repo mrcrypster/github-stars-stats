@@ -1,10 +1,10 @@
 # radyhaggag/live_score - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 6
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/radyhaggag/live_score)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 40 | 6 | 
 | 2022-10-19 | 39 | 6 | 
 | 2022-10-18 | 39 | 6 | 
 | 2022-10-17 | 39 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 39 | 5 | 
 | 2022-09-23 | 39 | 5 | 
 | 2022-09-22 | 39 | 5 | 
-| 2022-09-20 | 38 | 5 | 
 

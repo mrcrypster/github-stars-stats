@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 20
 
-☋ Forks: 484
+☋ Forks: 485
 
-★ Stars: 828
+★ Stars: 830
 
 [Open repository](https://github.com/jenkinsci/jenkins-scripts)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 828 | 484 | 
+| 2022-10-20 | 830 | 485 | 
 | 2022-10-19 | 828 | 482 | 
 | 2022-10-18 | 828 | 481 | 
 | 2022-10-17 | 828 | 481 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 827 | 474 | 
 | 2022-09-22 | 826 | 474 | 
 | 2022-09-21 | 826 | 473 | 
-| 2022-09-20 | 826 | 473 | 
 

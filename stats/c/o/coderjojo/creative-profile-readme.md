@@ -1,10 +1,10 @@
 # coderjojo/creative-profile-readme - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 411
 
-★ Stars: 1771
+★ Stars: 1772
 
 [Open repository](https://github.com/coderjojo/creative-profile-readme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1772 | 411 | 
 | 2022-10-19 | 1771 | 411 | 
 | 2022-10-18 | 1770 | 411 | 
 | 2022-10-17 | 1770 | 410 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1734 | 411 | 
 | 2022-09-22 | 1733 | 411 | 
 | 2022-09-21 | 1733 | 411 | 
-| 2022-09-20 | 1732 | 411 | 
 

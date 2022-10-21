@@ -1,10 +1,10 @@
 # sherlock-project/sherlock - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 4303
+☋ Forks: 4308
 
-★ Stars: 36490
+★ Stars: 36503
 
 [Open repository](https://github.com/sherlock-project/sherlock)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 36503 | 4308 | 
 | 2022-10-19 | 36490 | 4303 | 
 | 2022-10-18 | 36475 | 4300 | 
 | 2022-10-17 | 36452 | 4293 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 35501 | 4162 | 
 | 2022-09-22 | 35486 | 4160 | 
 | 2022-09-21 | 35477 | 4158 | 
-| 2022-09-20 | 35461 | 4156 | 
 

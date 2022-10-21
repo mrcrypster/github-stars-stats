@@ -1,6 +1,6 @@
 # spekka/spekka - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 25 | 3 | 
 | 2022-10-19 | 25 | 3 | 
 | 2022-10-18 | 25 | 3 | 
 | 2022-10-17 | 25 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 22 | 3 | 
 | 2022-09-22 | 22 | 3 | 
 | 2022-09-21 | 22 | 3 | 
-| 2022-09-20 | 22 | 3 | 
 

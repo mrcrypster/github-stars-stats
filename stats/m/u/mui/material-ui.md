@@ -1,10 +1,10 @@
 # mui/material-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 28284
+☋ Forks: 28286
 
-★ Stars: 82081
+★ Stars: 82100
 
 [Open repository](https://github.com/mui/material-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 82100 | 28286 | 
 | 2022-10-19 | 82081 | 28284 | 
 | 2022-10-18 | 82054 | 28275 | 
 | 2022-10-17 | 82035 | 28264 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 81437 | 28065 | 
 | 2022-09-22 | 81411 | 28061 | 
 | 2022-09-21 | 81391 | 28046 | 
-| 2022-09-20 | 81370 | 28037 | 
 

@@ -1,10 +1,10 @@
 # learnbyexample/scripting_course - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 157
 
-★ Stars: 1134
+★ Stars: 1136
 
 [Open repository](https://github.com/learnbyexample/scripting_course)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1136 | 157 | 
 | 2022-10-19 | 1134 | 157 | 
 | 2022-10-18 | 1133 | 157 | 
 | 2022-10-17 | 1130 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1125 | 157 | 
 | 2022-09-22 | 1125 | 157 | 
 | 2022-09-21 | 1125 | 157 | 
-| 2022-09-20 | 1125 | 157 | 
 

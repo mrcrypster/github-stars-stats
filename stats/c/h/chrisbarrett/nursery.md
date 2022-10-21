@@ -1,6 +1,6 @@
 # chrisbarrett/nursery - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 56 | - | 
 | 2022-10-19 | 56 | - | 
 | 2022-10-18 | 55 | - | 
 | 2022-10-17 | 54 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 25 | - | 
 | 2022-09-23 | 25 | - | 
 | 2022-09-22 | 25 | - | 
-| 2022-09-21 | 25 | - | 
 

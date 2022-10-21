@@ -1,10 +1,10 @@
 # nianticlabs/monodepth2 - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 807
+☋ Forks: 806
 
-★ Stars: 3270
+★ Stars: 3272
 
 [Open repository](https://github.com/nianticlabs/monodepth2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3272 | 806 | 
 | 2022-10-19 | 3270 | 807 | 
 | 2022-10-18 | 3267 | 807 | 
 | 2022-10-17 | 3264 | 807 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3217 | 806 | 
 | 2022-09-22 | 3216 | 805 | 
 | 2022-09-21 | 3211 | 805 | 
-| 2022-09-20 | 3207 | 806 | 
 

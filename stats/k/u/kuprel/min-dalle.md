@@ -1,10 +1,10 @@
 # kuprel/min-dalle - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 230
 
-★ Stars: 3333
+★ Stars: 3337
 
 [Open repository](https://github.com/kuprel/min-dalle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3337 | 230 | 
 | 2022-10-19 | 3333 | 230 | 
 | 2022-10-18 | 3331 | 230 | 
 | 2022-10-17 | 3329 | 231 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3323 | 228 | 
 | 2022-09-22 | 3323 | 228 | 
 | 2022-09-21 | 3320 | 228 | 
-| 2022-09-20 | 3315 | 228 | 
 

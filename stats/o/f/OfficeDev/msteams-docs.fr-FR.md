@@ -1,6 +1,6 @@
 # OfficeDev/msteams-docs.fr-FR - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 11 | 2 | 
 | 2022-10-19 | 11 | 2 | 
 | 2022-10-18 | 11 | 2 | 
 | 2022-10-17 | 11 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 11 | 2 | 
 | 2022-09-23 | 11 | 2 | 
 | 2022-09-22 | 11 | 1 | 
-| 2022-09-21 | 11 | 1 | 
 

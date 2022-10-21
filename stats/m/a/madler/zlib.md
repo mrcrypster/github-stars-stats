@@ -1,8 +1,8 @@
 # madler/zlib - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1988
+☋ Forks: 1989
 
 ★ Stars: 3910
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3910 | 1989 | 
 | 2022-10-19 | 3910 | 1988 | 
 | 2022-10-18 | 3905 | 1987 | 
 | 2022-10-17 | 3897 | 1987 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3844 | 1955 | 
 | 2022-09-22 | 3840 | 1957 | 
 | 2022-09-21 | 3839 | 1953 | 
-| 2022-09-20 | 3837 | 1953 | 
 

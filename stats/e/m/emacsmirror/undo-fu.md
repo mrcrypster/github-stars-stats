@@ -1,6 +1,6 @@
 # emacsmirror/undo-fu - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 34 | - | 
 | 2022-10-20 | 34 | - | 
 | 2022-10-19 | 34 | - | 
 | 2022-10-18 | 34 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 34 | - | 
 | 2022-09-22 | 34 | - | 
 | 2022-09-21 | 33 | - | 
-| 2022-09-20 | 33 | - | 
 

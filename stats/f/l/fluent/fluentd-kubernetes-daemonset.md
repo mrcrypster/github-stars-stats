@@ -1,8 +1,8 @@
 # fluent/fluentd-kubernetes-daemonset - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 931
+☋ Forks: 933
 
 ★ Stars: 1116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1116 | 933 | 
 | 2022-10-19 | 1116 | 931 | 
 | 2022-10-18 | 1116 | 930 | 
 | 2022-10-17 | 1116 | 928 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1106 | 920 | 
 | 2022-09-22 | 1105 | 920 | 
 | 2022-09-21 | 1105 | 920 | 
-| 2022-09-20 | 1105 | 920 | 
 

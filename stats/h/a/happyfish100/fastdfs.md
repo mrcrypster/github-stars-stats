@@ -1,6 +1,6 @@
 # happyfish100/fastdfs - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1928
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 8252 | 1928 | 
 | 2022-10-19 | 8252 | 1928 | 
 | 2022-10-18 | 8250 | 1927 | 
 | 2022-10-17 | 8248 | 1926 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 8219 | 1925 | 
 | 2022-09-22 | 8218 | 1926 | 
 | 2022-09-21 | 8218 | 1926 | 
-| 2022-09-20 | 8215 | 1926 | 
 

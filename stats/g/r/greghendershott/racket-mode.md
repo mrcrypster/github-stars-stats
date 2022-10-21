@@ -1,6 +1,6 @@
 # greghendershott/racket-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 637 | 84 | 
 | 2022-10-19 | 637 | 84 | 
 | 2022-10-18 | 637 | 84 | 
 | 2022-10-17 | 637 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 635 | 84 | 
 | 2022-09-22 | 635 | 84 | 
 | 2022-09-21 | 635 | 84 | 
-| 2022-09-20 | 635 | 84 | 
 

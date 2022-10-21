@@ -1,8 +1,8 @@
 # facebook/componentkit - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 604
+☋ Forks: 605
 
 ★ Stars: 5638
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5638 | 605 | 
 | 2022-10-19 | 5638 | 604 | 
 | 2022-10-18 | 5638 | 604 | 
 | 2022-10-17 | 5639 | 604 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5633 | 608 | 
 | 2022-09-22 | 5633 | 608 | 
 | 2022-09-21 | 5633 | 608 | 
-| 2022-09-20 | 5634 | 608 | 
 

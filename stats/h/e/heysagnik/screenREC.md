@@ -1,8 +1,8 @@
 # heysagnik/screenREC - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 27
+☋ Forks: 29
 
 ★ Stars: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 73 | 29 | 
 | 2022-10-19 | 73 | 27 | 
 | 2022-10-18 | 73 | 27 | 
 | 2022-10-17 | 72 | 27 | 

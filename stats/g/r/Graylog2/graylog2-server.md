@@ -1,6 +1,6 @@
 # Graylog2/graylog2-server - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 984
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 6289 | 984 | 
 | 2022-10-19 | 6289 | 984 | 
 | 2022-10-18 | 6285 | 983 | 
 | 2022-10-17 | 6283 | 985 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 6249 | 978 | 
 | 2022-09-22 | 6248 | 977 | 
 | 2022-09-21 | 6247 | 977 | 
-| 2022-09-20 | 6245 | 977 | 
 

@@ -1,10 +1,10 @@
 # sainnhe/edge - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 44
 
-★ Stars: 639
+★ Stars: 640
 
 [Open repository](https://github.com/sainnhe/edge)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 640 | 44 | 
 | 2022-10-19 | 639 | 44 | 
 | 2022-10-18 | 639 | 44 | 
 | 2022-10-17 | 639 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 633 | 43 | 
 | 2022-09-22 | 633 | 43 | 
 | 2022-09-21 | 632 | 43 | 
-| 2022-09-20 | 632 | 43 | 
 

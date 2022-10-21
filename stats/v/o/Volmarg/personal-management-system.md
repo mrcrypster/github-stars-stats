@@ -1,10 +1,10 @@
 # Volmarg/personal-management-system - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 194
 
-★ Stars: 2515
+★ Stars: 2513
 
 [Open repository](https://github.com/Volmarg/personal-management-system)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2513 | 194 | 
 | 2022-10-19 | 2515 | 194 | 
 | 2022-10-18 | 2515 | 194 | 
 | 2022-10-17 | 2516 | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 2497 | 196 | 
 | 2022-09-22 | 2497 | 196 | 
 | 2022-09-21 | 2495 | 196 | 
-| 2022-09-20 | 2495 | 196 | 
 

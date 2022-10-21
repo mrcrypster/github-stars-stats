@@ -1,6 +1,6 @@
 # xiph/opus - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 487
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1572 | 487 | 
 | 2022-10-19 | 1572 | 487 | 
 | 2022-10-18 | 1571 | 487 | 
 | 2022-10-17 | 1570 | 487 | 

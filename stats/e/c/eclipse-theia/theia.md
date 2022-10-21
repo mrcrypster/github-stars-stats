@@ -1,10 +1,10 @@
 # eclipse-theia/theia - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 2255
+☋ Forks: 2256
 
-★ Stars: 17468
+★ Stars: 17472
 
 [Open repository](https://github.com/eclipse-theia/theia)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 17472 | 2256 | 
 | 2022-10-19 | 17468 | 2255 | 
 | 2022-10-18 | 17466 | 2254 | 
 | 2022-10-17 | 17461 | 2252 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 17389 | 2243 | 
 | 2022-09-22 | 17383 | 2243 | 
 | 2022-09-21 | 17365 | 2239 | 
-| 2022-09-20 | 17365 | 2238 | 
 

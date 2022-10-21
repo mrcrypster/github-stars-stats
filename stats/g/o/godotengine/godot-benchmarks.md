@@ -1,10 +1,10 @@
 # godotengine/godot-benchmarks - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 5
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/godotengine/godot-benchmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 57 | 5 | 
 | 2022-10-19 | 56 | 5 | 
 | 2022-10-18 | 56 | 5 | 
 | 2022-10-17 | 56 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 56 | 5 | 
 | 2022-09-23 | 56 | 5 | 
 | 2022-09-22 | 56 | 5 | 
-| 2022-09-21 | 56 | 5 | 
 

@@ -1,10 +1,10 @@
 # yisar/asta - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 55
+☋ Forks: 58
 
-★ Stars: 576
+★ Stars: 590
 
 [Open repository](https://github.com/yisar/asta)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 590 | 58 | 
 | 2022-10-19 | 576 | 55 | 
 | 2022-10-18 | 571 | 53 | 
 

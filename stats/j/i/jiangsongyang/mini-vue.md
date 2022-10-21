@@ -1,6 +1,6 @@
 # jiangsongyang/mini-vue - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 110 | 11 | 
 | 2022-10-19 | 110 | 11 | 
 | 2022-10-18 | 110 | 11 | 
 | 2022-10-17 | 110 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 111 | 11 | 
 | 2022-09-23 | 111 | 11 | 
 | 2022-09-22 | 110 | 11 | 
-| 2022-09-21 | 110 | 11 | 
 

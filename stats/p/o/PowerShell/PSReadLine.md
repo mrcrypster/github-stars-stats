@@ -1,10 +1,10 @@
 # PowerShell/PSReadLine - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 268
 
-★ Stars: 2842
+★ Stars: 2843
 
 [Open repository](https://github.com/PowerShell/PSReadLine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2843 | 268 | 
 | 2022-10-19 | 2842 | 268 | 
 | 2022-10-18 | 2838 | 267 | 
 | 2022-10-17 | 2836 | 266 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 2794 | 265 | 
 | 2022-09-22 | 2792 | 265 | 
 | 2022-09-21 | 2788 | 265 | 
-| 2022-09-20 | 2787 | 265 | 
 

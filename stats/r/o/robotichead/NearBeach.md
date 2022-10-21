@@ -1,8 +1,8 @@
 # robotichead/NearBeach - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 43
+☋ Forks: 42
 
 ★ Stars: 112
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 112 | 42 | 
 | 2022-10-19 | 112 | 43 | 
 | 2022-10-18 | 112 | 43 | 
 | 2022-10-17 | 112 | 44 | 

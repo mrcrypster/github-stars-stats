@@ -1,6 +1,6 @@
 # sheerun/vim-polyglot - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 298
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5128 | 298 | 
 | 2022-10-19 | 5128 | 298 | 
 | 2022-10-18 | 5126 | 298 | 
 | 2022-10-17 | 5124 | 298 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5106 | 296 | 
 | 2022-09-22 | 5106 | 296 | 
 | 2022-09-21 | 5101 | 295 | 
-| 2022-09-20 | 5100 | 296 | 
 

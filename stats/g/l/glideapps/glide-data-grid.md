@@ -1,10 +1,10 @@
 # glideapps/glide-data-grid - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 154
 
-★ Stars: 2229
+★ Stars: 2230
 
 [Open repository](https://github.com/glideapps/glide-data-grid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2230 | 154 | 
 | 2022-10-19 | 2229 | 154 | 
 | 2022-10-18 | 2225 | 154 | 
 | 2022-10-17 | 2224 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 2184 | 148 | 
 | 2022-09-22 | 2178 | 148 | 
 | 2022-09-21 | 2177 | 147 | 
-| 2022-09-20 | 2167 | 147 | 
 

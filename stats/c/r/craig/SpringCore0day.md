@@ -1,10 +1,10 @@
 # craig/SpringCore0day - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 183
 
-★ Stars: 385
+★ Stars: 386
 
 [Open repository](https://github.com/craig/SpringCore0day)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 386 | 183 | 
 | 2022-10-19 | 385 | 183 | 
 | 2022-10-18 | 384 | 183 | 
 | 2022-10-17 | 384 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 384 | 182 | 
 | 2022-09-22 | 384 | 182 | 
 | 2022-09-21 | 384 | 182 | 
-| 2022-09-20 | 384 | 181 | 
 

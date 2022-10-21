@@ -1,6 +1,6 @@
 # olivierverdier/zsh-git-prompt - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 386
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1610 | 386 | 
 | 2022-10-19 | 1610 | 386 | 
 | 2022-10-18 | 1610 | 385 | 
 | 2022-10-17 | 1610 | 385 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1605 | 385 | 
 | 2022-09-22 | 1604 | 384 | 
 | 2022-09-21 | 1605 | 384 | 
-| 2022-09-20 | 1605 | 384 | 
 

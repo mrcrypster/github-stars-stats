@@ -1,10 +1,10 @@
 # lusaxweb/vuesax - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 741
+☋ Forks: 742
 
-★ Stars: 5505
+★ Stars: 5506
 
 [Open repository](https://github.com/lusaxweb/vuesax)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5506 | 742 | 
 | 2022-10-19 | 5505 | 741 | 
 | 2022-10-18 | 5505 | 741 | 
 | 2022-10-17 | 5505 | 741 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5496 | 741 | 
 | 2022-09-22 | 5496 | 741 | 
 | 2022-09-21 | 5496 | 741 | 
-| 2022-09-20 | 5495 | 741 | 
 

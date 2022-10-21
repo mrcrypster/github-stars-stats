@@ -1,10 +1,10 @@
 # phoenixframework/phoenix_template - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/phoenixframework/phoenix_template)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 36 | 1 | 
+| 2022-10-20 | 35 | 1 | 
 | 2022-10-19 | 35 | 1 | 
 | 2022-10-18 | 34 | 1 | 
 | 2022-10-17 | 34 | 1 | 

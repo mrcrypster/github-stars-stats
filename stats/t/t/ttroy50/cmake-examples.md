@@ -1,10 +1,10 @@
 # ttroy50/cmake-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2143
 
-★ Stars: 9330
+★ Stars: 9339
 
 [Open repository](https://github.com/ttroy50/cmake-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 9339 | 2143 | 
 | 2022-10-19 | 9330 | 2143 | 
 | 2022-10-18 | 9321 | 2142 | 
 | 2022-10-17 | 9297 | 2142 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 9138 | 2108 | 
 | 2022-09-22 | 9126 | 2107 | 
 | 2022-09-21 | 9110 | 2108 | 
-| 2022-09-20 | 9105 | 2106 | 
 

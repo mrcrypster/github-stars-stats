@@ -1,10 +1,10 @@
 # ange-yaghi/simple-2d-constraint-solver - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 272
+★ Stars: 276
 
 [Open repository](https://github.com/ange-yaghi/simple-2d-constraint-solver)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 276 | 31 | 
 | 2022-10-19 | 272 | 30 | 
 | 2022-10-18 | 269 | 30 | 
 | 2022-10-17 | 262 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 215 | 22 | 
 | 2022-09-22 | 213 | 22 | 
 | 2022-09-21 | 211 | 20 | 
-| 2022-09-20 | 209 | 18 | 
 

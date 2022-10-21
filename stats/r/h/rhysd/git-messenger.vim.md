@@ -1,10 +1,10 @@
 # rhysd/git-messenger.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 30
 
-★ Stars: 1179
+★ Stars: 1180
 
 [Open repository](https://github.com/rhysd/git-messenger.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1180 | 30 | 
 | 2022-10-19 | 1179 | 30 | 
 | 2022-10-18 | 1178 | 30 | 
 | 2022-10-17 | 1177 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1177 | 30 | 
 | 2022-09-22 | 1177 | 30 | 
 | 2022-09-21 | 1177 | 30 | 
-| 2022-09-20 | 1177 | 30 | 
 

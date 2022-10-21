@@ -1,6 +1,6 @@
 # Azure-Samples/azure-private-link-service - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 11 | - | 
 | 2022-10-19 | 11 | - | 
 | 2022-10-18 | 11 | - | 
 | 2022-10-17 | 11 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 11 | - | 
 | 2022-09-22 | 11 | - | 
 | 2022-09-21 | 11 | - | 
-| 2022-09-20 | 11 | - | 
 

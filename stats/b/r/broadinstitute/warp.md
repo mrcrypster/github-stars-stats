@@ -1,6 +1,6 @@
 # broadinstitute/warp - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 122 | 54 | 
 | 2022-10-19 | 122 | 54 | 
 | 2022-10-18 | 122 | 54 | 
 | 2022-10-17 | 122 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 114 | 50 | 
 | 2022-09-22 | 114 | 51 | 
 | 2022-09-21 | 114 | 51 | 
-| 2022-09-20 | 113 | 50 | 
 

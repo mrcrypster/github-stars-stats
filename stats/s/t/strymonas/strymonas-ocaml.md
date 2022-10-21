@@ -1,10 +1,10 @@
 # strymonas/strymonas-ocaml - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/strymonas/strymonas-ocaml)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 16 | - | 
 | 2022-10-19 | 14 | - | 
 | 2022-10-18 | 14 | - | 
 | 2022-10-17 | 14 | - | 

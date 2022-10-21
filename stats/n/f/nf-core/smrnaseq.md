@@ -1,6 +1,6 @@
 # nf-core/smrnaseq - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 43 | 88 | 
 | 2022-10-19 | 43 | 88 | 
 | 2022-10-18 | 43 | 88 | 
 | 2022-10-17 | 43 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 43 | 85 | 
 | 2022-09-23 | 43 | 85 | 
 | 2022-09-22 | 43 | 85 | 
-| 2022-09-21 | 43 | 85 | 
 

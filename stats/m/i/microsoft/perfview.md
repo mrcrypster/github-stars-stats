@@ -1,8 +1,8 @@
 # microsoft/perfview - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 625
+☋ Forks: 626
 
 ★ Stars: 3318
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3318 | 626 | 
 | 2022-10-20 | 3318 | 625 | 
 | 2022-10-19 | 3316 | 624 | 
 | 2022-10-18 | 3314 | 623 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 3283 | 616 | 
 | 2022-09-22 | 3278 | 616 | 
 | 2022-09-21 | 3277 | 616 | 
-| 2022-09-20 | 3274 | 615 | 
 

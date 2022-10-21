@@ -1,10 +1,10 @@
 # john-smilga/javascript-basic-projects - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 2941
+☋ Forks: 2945
 
-★ Stars: 2598
+★ Stars: 2599
 
 [Open repository](https://github.com/john-smilga/javascript-basic-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2599 | 2945 | 
 | 2022-10-19 | 2598 | 2941 | 
 | 2022-10-18 | 2593 | 2938 | 
 | 2022-10-17 | 2593 | 2936 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 2536 | 2852 | 
 | 2022-09-22 | 2532 | 2851 | 
 | 2022-09-21 | 2528 | 2848 | 
-| 2022-09-20 | 2523 | 2843 | 
 

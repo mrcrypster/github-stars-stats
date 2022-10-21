@@ -1,10 +1,10 @@
 # pterodactyl/panel - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1144
 
-★ Stars: 4264
+★ Stars: 4266
 
 [Open repository](https://github.com/pterodactyl/panel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 4266 | 1144 | 
 | 2022-10-19 | 4264 | 1144 | 
 | 2022-10-18 | 4263 | 1141 | 
 | 2022-10-17 | 4259 | 1145 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 4184 | 1110 | 
 | 2022-09-22 | 4181 | 1109 | 
 | 2022-09-21 | 4179 | 1109 | 
-| 2022-09-20 | 4179 | 1109 | 
 

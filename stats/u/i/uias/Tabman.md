@@ -1,8 +1,8 @@
 # uias/Tabman - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 211
+☋ Forks: 212
 
 ★ Stars: 2448
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2448 | 212 | 
 | 2022-10-19 | 2448 | 211 | 
 | 2022-10-18 | 2445 | 211 | 
 | 2022-10-17 | 2445 | 211 | 

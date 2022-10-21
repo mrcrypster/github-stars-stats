@@ -1,6 +1,6 @@
 # surajadkhari/user_profile_riverpod-futureprovider - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 51 | 9 | 
 | 2022-10-19 | 51 | 9 | 
 | 2022-10-18 | 51 | 9 | 
 | 2022-10-17 | 51 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 51 | 8 | 
 | 2022-09-22 | 51 | 8 | 
 | 2022-09-21 | 51 | 8 | 
-| 2022-09-20 | 51 | 8 | 
 

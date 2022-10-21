@@ -1,10 +1,10 @@
 # microsoft/winget-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1041
+☋ Forks: 1043
 
-★ Stars: 17955
+★ Stars: 17960
 
 [Open repository](https://github.com/microsoft/winget-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 17960 | 1043 | 
 | 2022-10-19 | 17955 | 1041 | 
 | 2022-10-18 | 17945 | 1040 | 
 | 2022-10-17 | 17939 | 1040 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 17818 | 1031 | 
 | 2022-09-22 | 17812 | 1031 | 
 | 2022-09-21 | 17804 | 1031 | 
-| 2022-09-20 | 17794 | 1029 | 
 

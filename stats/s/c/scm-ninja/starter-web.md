@@ -1,8 +1,8 @@
 # scm-ninja/starter-web - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 18601
+☋ Forks: 18611
 
 ★ Stars: 355
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 355 | 18611 | 
 | 2022-10-19 | 355 | 18601 | 
 | 2022-10-18 | 355 | 18602 | 
 | 2022-10-17 | 355 | 18589 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 353 | 18491 | 
 | 2022-09-22 | 353 | 18486 | 
 | 2022-09-21 | 353 | 18481 | 
-| 2022-09-20 | 352 | 18479 | 
 

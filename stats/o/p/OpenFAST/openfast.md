@@ -1,10 +1,10 @@
 # OpenFAST/openfast - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 366
+☋ Forks: 367
 
-★ Stars: 417
+★ Stars: 418
 
 [Open repository](https://github.com/OpenFAST/openfast)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 418 | 367 | 
 | 2022-10-19 | 417 | 366 | 
 | 2022-10-18 | 417 | 366 | 
 | 2022-10-17 | 417 | 365 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 410 | 358 | 
 | 2022-09-22 | 409 | 357 | 
 | 2022-09-21 | 409 | 357 | 
-| 2022-09-20 | 409 | 357 | 
 

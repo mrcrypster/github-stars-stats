@@ -1,6 +1,6 @@
 # ihub-pub/plugins - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 169 | 5 | 
 | 2022-10-19 | 169 | 5 | 
 | 2022-10-18 | 167 | 5 | 
 | 2022-10-17 | 163 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 149 | 5 | 
 | 2022-09-22 | 147 | 5 | 
 | 2022-09-21 | 147 | 5 | 
-| 2022-09-20 | 145 | 5 | 
 

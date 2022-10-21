@@ -1,10 +1,10 @@
 # statix-php/server - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1
 
-★ Stars: 111
+★ Stars: 113
 
 [Open repository](https://github.com/statix-php/server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 113 | 1 | 
 | 2022-10-19 | 111 | 1 | 
 | 2022-10-18 | 111 | 1 | 
 | 2022-10-17 | 111 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 110 | 1 | 
 | 2022-09-22 | 110 | 1 | 
 | 2022-09-21 | 107 | 1 | 
-| 2022-09-20 | 107 | 1 | 
 

@@ -1,8 +1,8 @@
 # plotly/datasets - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1416
+☋ Forks: 1415
 
 ★ Stars: 458
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 458 | 1415 | 
 | 2022-10-19 | 458 | 1416 | 
 | 2022-10-18 | 458 | 1414 | 
 | 2022-10-17 | 457 | 1414 | 

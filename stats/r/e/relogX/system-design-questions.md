@@ -1,10 +1,10 @@
 # relogX/system-design-questions - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 221
 
-★ Stars: 977
+★ Stars: 979
 
 [Open repository](https://github.com/relogX/system-design-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 979 | 221 | 
 | 2022-10-19 | 977 | 221 | 
 | 2022-10-18 | 970 | 220 | 
 | 2022-10-17 | 968 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 921 | 208 | 
 | 2022-09-22 | 920 | 208 | 
 | 2022-09-21 | 915 | 206 | 
-| 2022-09-20 | 897 | 205 | 
 

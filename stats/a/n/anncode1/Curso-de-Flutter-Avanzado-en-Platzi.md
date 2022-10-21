@@ -1,8 +1,8 @@
 # anncode1/Curso-de-Flutter-Avanzado-en-Platzi - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1126
+☋ Forks: 1127
 
 ★ Stars: 110
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 110 | 1127 | 
 | 2022-10-19 | 110 | 1126 | 
 | 2022-10-18 | 110 | 1125 | 
 | 2022-10-17 | 110 | 1125 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 108 | 1110 | 
 | 2022-09-22 | 108 | 1108 | 
 | 2022-09-21 | 108 | 1107 | 
-| 2022-09-20 | 108 | 1107 | 
 

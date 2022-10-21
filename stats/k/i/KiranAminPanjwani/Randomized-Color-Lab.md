@@ -1,6 +1,6 @@
 # KiranAminPanjwani/Randomized-Color-Lab - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 15 | 24 | 
 | 2022-10-19 | 15 | 24 | 
 | 2022-10-18 | 13 | 22 | 
 | 2022-10-17 | 13 | 22 | 

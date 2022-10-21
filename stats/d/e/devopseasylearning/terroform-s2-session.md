@@ -1,8 +1,8 @@
 # devopseasylearning/terroform-s2-session - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 20
+☋ Forks: 23
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | - | 23 | 
 | 2022-10-19 | - | 20 | 
 | 2022-10-18 | - | 20 | 
 | 2022-10-17 | - | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | - | 18 | 
 | 2022-09-22 | - | 18 | 
 | 2022-09-21 | - | 18 | 
-| 2022-09-20 | - | 18 | 
 

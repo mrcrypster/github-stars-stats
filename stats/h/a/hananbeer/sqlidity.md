@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 20
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/hananbeer/sqlidity)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 14 | 1 | 
+| 2022-10-20 | 16 | 1 | 
 | 2022-10-19 | 14 | 1 | 
 

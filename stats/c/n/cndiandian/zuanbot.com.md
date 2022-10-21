@@ -1,10 +1,10 @@
 # cndiandian/zuanbot.com - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 56
 
-★ Stars: 213
+★ Stars: 212
 
 [Open repository](https://github.com/cndiandian/zuanbot.com)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 212 | 56 | 
 | 2022-10-19 | 213 | 56 | 
 | 2022-10-18 | 212 | 56 | 
 | 2022-10-17 | 211 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 196 | 53 | 
 | 2022-09-23 | 196 | 53 | 
 | 2022-09-21 | 196 | 53 | 
-| 2022-09-20 | 196 | 53 | 
 

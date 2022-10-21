@@ -1,8 +1,8 @@
 # jwt/ruby-jwt - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 363
+☋ Forks: 365
 
 ★ Stars: 3366
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3366 | 365 | 
 | 2022-10-19 | 3366 | 363 | 
 | 2022-10-18 | 3366 | 363 | 
 | 2022-10-17 | 3365 | 363 | 

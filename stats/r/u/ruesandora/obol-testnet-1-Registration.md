@@ -1,10 +1,10 @@
 # ruesandora/obol-testnet-1-Registration - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 125
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/ruesandora/obol-testnet-1-Registration)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 44 | 125 | 
 | 2022-10-19 | 43 | 125 | 
 | 2022-10-18 | 43 | 125 | 
 | 2022-10-17 | 43 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 42 | 123 | 
 | 2022-09-22 | 42 | 123 | 
 | 2022-09-21 | 41 | 122 | 
-| 2022-09-20 | 41 | 122 | 
 

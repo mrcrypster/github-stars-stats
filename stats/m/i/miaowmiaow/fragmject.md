@@ -1,10 +1,10 @@
 # miaowmiaow/fragmject - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 167
 
-★ Stars: 796
+★ Stars: 799
 
 [Open repository](https://github.com/miaowmiaow/fragmject)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 799 | 167 | 
 | 2022-10-19 | 796 | 167 | 
 | 2022-10-18 | 796 | 167 | 
 | 2022-10-17 | 795 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 782 | 165 | 
 | 2022-09-22 | 779 | 164 | 
 | 2022-09-21 | 779 | 164 | 
-| 2022-09-20 | 779 | 164 | 
 

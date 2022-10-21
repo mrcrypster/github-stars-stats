@@ -1,10 +1,10 @@
 # conduktor/kafka-stack-docker-compose - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 958
+☋ Forks: 959
 
-★ Stars: 2212
+★ Stars: 2215
 
 [Open repository](https://github.com/conduktor/kafka-stack-docker-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2215 | 959 | 
 | 2022-10-19 | 2212 | 958 | 
 | 2022-10-18 | 2211 | 957 | 
 | 2022-10-17 | 2211 | 957 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 2182 | 945 | 
 | 2022-09-22 | 2180 | 945 | 
 | 2022-09-21 | 2176 | 945 | 
-| 2022-09-20 | 2174 | 944 | 
 

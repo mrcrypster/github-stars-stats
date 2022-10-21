@@ -1,10 +1,10 @@
 # laravel/octane - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 229
 
-★ Stars: 3252
+★ Stars: 3253
 
 [Open repository](https://github.com/laravel/octane)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3253 | 229 | 
 | 2022-10-19 | 3252 | 229 | 
 | 2022-10-18 | 3251 | 228 | 
 | 2022-10-17 | 3250 | 227 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3231 | 224 | 
 | 2022-09-22 | 3229 | 224 | 
 | 2022-09-21 | 3227 | 224 | 
-| 2022-09-20 | 3227 | 223 | 
 

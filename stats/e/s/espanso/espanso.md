@@ -1,10 +1,10 @@
 # espanso/espanso - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 179
 
-★ Stars: 6050
+★ Stars: 6059
 
 [Open repository](https://github.com/espanso/espanso)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 6059 | 179 | 
 | 2022-10-19 | 6050 | 179 | 
 | 2022-10-18 | 6037 | 179 | 
 | 2022-10-17 | 6032 | 178 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5787 | 172 | 
 | 2022-09-22 | 5782 | 172 | 
 | 2022-09-21 | 5776 | 172 | 
-| 2022-09-20 | 5773 | 172 | 
 

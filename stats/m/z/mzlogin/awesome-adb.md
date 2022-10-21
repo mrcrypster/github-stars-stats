@@ -1,10 +1,10 @@
 # mzlogin/awesome-adb - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2046
 
-★ Stars: 9461
+★ Stars: 9465
 
 [Open repository](https://github.com/mzlogin/awesome-adb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 9465 | 2046 | 
 | 2022-10-19 | 9461 | 2046 | 
 | 2022-10-18 | 9459 | 2046 | 
 | 2022-10-17 | 9458 | 2046 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 9407 | 2039 | 
 | 2022-09-22 | 9406 | 2039 | 
 | 2022-09-21 | 9403 | 2039 | 
-| 2022-09-20 | 9399 | 2040 | 
 

@@ -1,6 +1,6 @@
 # PoomSmart/YouPiP - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 52 | 19 | 
 | 2022-10-19 | 52 | 19 | 
 | 2022-10-18 | 52 | 19 | 
 | 2022-10-17 | 52 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 49 | 15 | 
 | 2022-09-22 | 49 | 15 | 
 | 2022-09-21 | 49 | 15 | 
-| 2022-09-20 | 49 | 15 | 
 

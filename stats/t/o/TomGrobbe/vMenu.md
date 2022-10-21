@@ -1,8 +1,8 @@
 # TomGrobbe/vMenu - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 303
+☋ Forks: 301
 
 ★ Stars: 272
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 272 | 301 | 
 | 2022-10-19 | 272 | 303 | 
 | 2022-10-18 | 272 | 303 | 
 | 2022-10-17 | 272 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 269 | 298 | 
 | 2022-09-22 | 269 | 298 | 
 | 2022-09-21 | 268 | 297 | 
-| 2022-09-20 | 267 | 297 | 
 

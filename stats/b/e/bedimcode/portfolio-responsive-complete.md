@@ -1,8 +1,8 @@
 # bedimcode/portfolio-responsive-complete - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 578
+☋ Forks: 582
 
 ★ Stars: 624
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 624 | 582 | 
 | 2022-10-19 | 624 | 578 | 
 | 2022-10-18 | 624 | 579 | 
 | 2022-10-17 | 623 | 580 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 607 | 565 | 
 | 2022-09-22 | 605 | 562 | 
 | 2022-09-21 | 605 | 562 | 
-| 2022-09-20 | 605 | 562 | 
 

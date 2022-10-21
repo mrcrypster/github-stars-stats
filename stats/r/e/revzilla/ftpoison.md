@@ -1,10 +1,10 @@
 # revzilla/ftpoison - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 3
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/revzilla/ftpoison)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1 | 3 | 
+| 2022-10-20 | - | 3 | 
 | 2022-10-19 | - | 3 | 
 | 2022-10-18 | - | 3 | 
 | 2022-10-17 | - | 3 | 

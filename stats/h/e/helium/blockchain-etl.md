@@ -1,6 +1,6 @@
 # helium/blockchain-etl - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 60 | 39 | 
 | 2022-10-19 | 60 | 39 | 
 | 2022-10-18 | 60 | 39 | 
 | 2022-10-17 | 60 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 60 | 39 | 
 | 2022-09-23 | 59 | 39 | 
 | 2022-09-22 | 59 | 39 | 
-| 2022-09-20 | 59 | 39 | 
 

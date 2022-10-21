@@ -1,10 +1,10 @@
 # t4sk/defi-by-example - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 164
 
-★ Stars: 372
+★ Stars: 373
 
 [Open repository](https://github.com/t4sk/defi-by-example)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 373 | 164 | 
 | 2022-10-19 | 372 | 164 | 
 | 2022-10-18 | 372 | 164 | 
 | 2022-10-17 | 371 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 350 | 157 | 
 | 2022-09-22 | 348 | 157 | 
 | 2022-09-21 | 348 | 157 | 
-| 2022-09-20 | 348 | 157 | 
 

@@ -1,10 +1,10 @@
 # FirmanKurniawan/Flutter-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/FirmanKurniawan/Flutter-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 29 | 20 | 
 | 2022-10-19 | 28 | 19 | 
 | 2022-10-18 | 28 | 18 | 
 | 2022-10-17 | 28 | 18 | 

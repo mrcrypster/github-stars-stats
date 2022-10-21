@@ -1,8 +1,8 @@
 # swaywm/sway - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 956
+☋ Forks: 955
 
 ★ Stars: 11233
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 11233 | 955 | 
 | 2022-10-19 | 11233 | 956 | 
 | 2022-10-18 | 11228 | 956 | 
 | 2022-10-17 | 11227 | 955 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 11115 | 946 | 
 | 2022-09-22 | 11111 | 945 | 
 | 2022-09-21 | 11110 | 944 | 
-| 2022-09-20 | 11108 | 944 | 
 

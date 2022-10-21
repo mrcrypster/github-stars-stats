@@ -1,10 +1,10 @@
 # Tyrrrz/CliWrap - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 169
 
-★ Stars: 2126
+★ Stars: 2127
 
 [Open repository](https://github.com/Tyrrrz/CliWrap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2127 | 169 | 
 | 2022-10-20 | 2126 | 169 | 
 | 2022-10-19 | 2125 | 167 | 
 | 2022-10-18 | 2124 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 2095 | 165 | 
 | 2022-09-22 | 2094 | 165 | 
 | 2022-09-21 | 2093 | 165 | 
-| 2022-09-20 | 2091 | 165 | 
 

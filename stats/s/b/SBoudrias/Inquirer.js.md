@@ -1,10 +1,10 @@
 # SBoudrias/Inquirer.js - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1177
+☋ Forks: 1179
 
-★ Stars: 16949
+★ Stars: 16954
 
 [Open repository](https://github.com/SBoudrias/Inquirer.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 16954 | 1179 | 
 | 2022-10-19 | 16949 | 1177 | 
 | 2022-10-18 | 16949 | 1177 | 
 | 2022-10-17 | 16946 | 1177 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 16859 | 1172 | 
 | 2022-09-22 | 16854 | 1172 | 
 | 2022-09-21 | 16844 | 1172 | 
-| 2022-09-20 | 16841 | 1172 | 
 

@@ -1,10 +1,10 @@
 # GetStream/stream-chat-android - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 191
+☋ Forks: 193
 
-★ Stars: 1025
+★ Stars: 1027
 
 [Open repository](https://github.com/GetStream/stream-chat-android)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1027 | 193 | 
 | 2022-10-19 | 1025 | 191 | 
 | 2022-10-18 | 1025 | 190 | 
 | 2022-10-17 | 1026 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 992 | 188 | 
 | 2022-09-22 | 991 | 189 | 
 | 2022-09-21 | 990 | 188 | 
-| 2022-09-20 | 990 | 188 | 
 

@@ -1,6 +1,6 @@
 # molenzwiebel/Deceive - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 641 | 132 | 
 | 2022-10-19 | 641 | 132 | 
 | 2022-10-18 | 640 | 132 | 
 | 2022-10-17 | 640 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 621 | 130 | 
 | 2022-09-22 | 621 | 130 | 
 | 2022-09-21 | 621 | 130 | 
-| 2022-09-20 | 619 | 130 | 
 

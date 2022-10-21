@@ -1,10 +1,10 @@
 # Allar/ue5-style-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 858
+☋ Forks: 859
 
-★ Stars: 3463
+★ Stars: 3465
 
 [Open repository](https://github.com/Allar/ue5-style-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3465 | 859 | 
 | 2022-10-19 | 3463 | 858 | 
 | 2022-10-18 | 3462 | 855 | 
 | 2022-10-17 | 3457 | 853 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3399 | 845 | 
 | 2022-09-22 | 3395 | 844 | 
 | 2022-09-21 | 3390 | 842 | 
-| 2022-09-20 | 3389 | 842 | 
 

@@ -1,10 +1,10 @@
 # haskell/text - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 146
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/haskell/text)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 355 | 146 | 
 | 2022-10-19 | 354 | 146 | 
 | 2022-10-18 | 354 | 146 | 
 | 2022-10-17 | 354 | 146 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 353 | 146 | 
 | 2022-09-23 | 353 | 146 | 
 | 2022-09-21 | 353 | 146 | 
-| 2022-09-20 | 353 | 146 | 
 

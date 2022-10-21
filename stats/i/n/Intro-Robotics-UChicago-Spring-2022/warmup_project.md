@@ -1,6 +1,6 @@
 # Intro-Robotics-UChicago-Spring-2022/warmup_project - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1 | 29 | 
 | 2022-10-20 | 1 | 29 | 
 | 2022-10-19 | 1 | 29 | 
 | 2022-10-18 | 1 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 1 | 29 | 
 | 2022-09-22 | 1 | 29 | 
 | 2022-09-21 | 1 | 29 | 
-| 2022-09-20 | 1 | 29 | 
 

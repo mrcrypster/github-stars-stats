@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 20
 
-☋ Forks: 454
+☋ Forks: 453
 
-★ Stars: 4565
+★ Stars: 4568
 
 [Open repository](https://github.com/newren/git-filter-repo)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 4565 | 454 | 
+| 2022-10-20 | 4568 | 453 | 
 | 2022-10-19 | 4563 | 453 | 
 

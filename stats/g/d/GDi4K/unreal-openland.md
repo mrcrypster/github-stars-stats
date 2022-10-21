@@ -1,10 +1,10 @@
 # GDi4K/unreal-openland - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 29
 
-★ Stars: 163
+★ Stars: 164
 
 [Open repository](https://github.com/GDi4K/unreal-openland)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 164 | 29 | 
 | 2022-10-20 | 163 | 29 | 
 | 2022-10-19 | 163 | 29 | 
 | 2022-10-18 | 163 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 157 | 29 | 
 | 2022-09-22 | 157 | 29 | 
 | 2022-09-21 | 157 | 29 | 
-| 2022-09-20 | 157 | 29 | 
 

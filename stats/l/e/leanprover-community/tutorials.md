@@ -1,6 +1,6 @@
 # leanprover-community/tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 146 | 50 | 
 | 2022-10-19 | 146 | 50 | 
 | 2022-10-18 | 146 | 50 | 
 | 2022-10-17 | 146 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 144 | 50 | 
 | 2022-09-22 | 144 | 50 | 
 | 2022-09-21 | 144 | 50 | 
-| 2022-09-20 | 143 | 50 | 
 

@@ -1,6 +1,6 @@
 # appliedzkp/semaphore - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 517 | 97 | 
 | 2022-10-19 | 517 | 97 | 
 | 2022-10-18 | 518 | 97 | 
 | 2022-10-17 | 518 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 504 | 90 | 
 | 2022-09-22 | 502 | 90 | 
 | 2022-09-21 | 500 | 90 | 
-| 2022-09-20 | 500 | 90 | 
 

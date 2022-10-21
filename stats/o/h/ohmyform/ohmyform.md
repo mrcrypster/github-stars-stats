@@ -1,6 +1,6 @@
 # ohmyform/ohmyform - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2020 | 286 | 
 | 2022-10-19 | 2020 | 286 | 
 | 2022-10-18 | 2018 | 287 | 
 | 2022-10-17 | 2016 | 286 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1984 | 286 | 
 | 2022-09-22 | 1984 | 286 | 
 | 2022-09-21 | 1982 | 286 | 
-| 2022-09-20 | 1982 | 287 | 
 

@@ -1,10 +1,10 @@
 # wazuh/wazuh - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 879
+☋ Forks: 880
 
-★ Stars: 5084
+★ Stars: 5089
 
 [Open repository](https://github.com/wazuh/wazuh)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5089 | 880 | 
 | 2022-10-19 | 5084 | 879 | 
 | 2022-10-18 | 5079 | 876 | 
 | 2022-10-17 | 5070 | 875 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 4761 | 853 | 
 | 2022-09-22 | 4761 | 853 | 
 | 2022-09-21 | 4757 | 852 | 
-| 2022-09-20 | 4753 | 852 | 
 

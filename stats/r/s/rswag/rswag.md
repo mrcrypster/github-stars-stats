@@ -1,6 +1,6 @@
 # rswag/rswag - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 355
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1517 | 355 | 
 | 2022-10-19 | 1517 | 355 | 
 | 2022-10-18 | 1517 | 355 | 
 | 2022-10-17 | 1515 | 355 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1493 | 350 | 
 | 2022-09-22 | 1491 | 350 | 
 | 2022-09-21 | 1491 | 349 | 
-| 2022-09-20 | 1491 | 349 | 
 

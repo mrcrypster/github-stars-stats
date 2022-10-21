@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 20
 
-☋ Forks: 442
+☋ Forks: 443
 
-★ Stars: 2006
+★ Stars: 2008
 
 [Open repository](https://github.com/Tencent/bk-ci)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 2006 | 442 | 
+| 2022-10-20 | 2008 | 443 | 
 | 2022-10-18 | 2005 | 441 | 
 | 2022-10-17 | 2003 | 441 | 
 | 2022-10-16 | 2003 | 441 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 1993 | 438 | 
 | 2022-09-22 | 1993 | 438 | 
 | 2022-09-21 | 1992 | 437 | 
-| 2022-09-20 | 1990 | 436 | 
 

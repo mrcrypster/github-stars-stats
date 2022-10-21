@@ -1,6 +1,6 @@
 # EhTagTranslation/Database - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 434 | 48 | 
 | 2022-10-19 | 434 | 48 | 
 | 2022-10-18 | 432 | 48 | 
 | 2022-10-17 | 431 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 407 | 47 | 
 | 2022-09-22 | 406 | 47 | 
 | 2022-09-21 | 406 | 47 | 
-| 2022-09-20 | 407 | 47 | 
 

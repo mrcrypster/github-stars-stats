@@ -1,6 +1,6 @@
 # google/libphonenumber - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1905
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 14262 | 1905 | 
 | 2022-10-19 | 14262 | 1905 | 
 | 2022-10-18 | 14260 | 1902 | 
 | 2022-10-17 | 14260 | 1904 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 14209 | 1887 | 
 | 2022-09-22 | 14203 | 1886 | 
 | 2022-09-21 | 14198 | 1884 | 
-| 2022-09-20 | 14189 | 1883 | 
 

@@ -1,6 +1,6 @@
 # osv/company-web - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 71 | 6 | 
 | 2022-10-19 | 71 | 6 | 
 | 2022-10-18 | 71 | 6 | 
 | 2022-10-17 | 71 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 71 | 6 | 
 | 2022-09-23 | 71 | 6 | 
 | 2022-09-22 | 71 | 6 | 
-| 2022-09-20 | 71 | 6 | 
 

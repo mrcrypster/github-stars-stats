@@ -1,6 +1,6 @@
 # leeyegy/SimCC - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 207 | 21 | 
 | 2022-10-19 | 207 | 21 | 
 | 2022-10-18 | 207 | 21 | 
 | 2022-10-17 | 207 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 197 | 19 | 
 | 2022-09-22 | 197 | 19 | 
 | 2022-09-21 | 195 | 19 | 
-| 2022-09-20 | 195 | 19 | 
 

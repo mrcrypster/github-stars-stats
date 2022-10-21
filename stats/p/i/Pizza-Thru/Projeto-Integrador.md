@@ -1,6 +1,6 @@
 # Pizza-Thru/Projeto-Integrador - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 4 | 5 | 
 | 2022-10-19 | 4 | 5 | 
 | 2022-10-18 | 4 | 5 | 
 | 2022-10-17 | 4 | 5 | 

@@ -1,8 +1,8 @@
 # Perl/perl5 - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 463
+☋ Forks: 465
 
 ★ Stars: 1507
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1507 | 465 | 
 | 2022-10-19 | 1507 | 463 | 
 | 2022-10-18 | 1505 | 463 | 
 | 2022-10-17 | 1504 | 463 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1447 | 459 | 
 | 2022-09-22 | 1446 | 459 | 
 | 2022-09-21 | 1444 | 458 | 
-| 2022-09-20 | 1444 | 458 | 
 

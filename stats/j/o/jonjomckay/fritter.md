@@ -1,10 +1,10 @@
 # jonjomckay/fritter - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 49
 
-★ Stars: 856
+★ Stars: 857
 
 [Open repository](https://github.com/jonjomckay/fritter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 857 | 49 | 
 | 2022-10-19 | 856 | 49 | 
 | 2022-10-18 | 856 | 48 | 
 | 2022-10-17 | 853 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 794 | 47 | 
 | 2022-09-22 | 793 | 47 | 
 | 2022-09-21 | 793 | 47 | 
-| 2022-09-20 | 793 | 47 | 
 

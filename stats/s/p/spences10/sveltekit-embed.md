@@ -1,6 +1,6 @@
 # spences10/sveltekit-embed - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 70 | 2 | 
 | 2022-10-19 | 70 | 2 | 
 | 2022-10-18 | 70 | 2 | 
 | 2022-10-17 | 70 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 68 | 1 | 
 | 2022-09-22 | 68 | 1 | 
 | 2022-09-21 | 68 | 1 | 
-| 2022-09-20 | 68 | 1 | 
 

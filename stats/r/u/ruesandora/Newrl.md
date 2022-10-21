@@ -1,10 +1,10 @@
 # ruesandora/Newrl - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 79
+☋ Forks: 81
 
-★ Stars: 36
+★ Stars: 39
 
 [Open repository](https://github.com/ruesandora/Newrl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 39 | 81 | 
 | 2022-10-19 | 36 | 79 | 
 | 2022-10-18 | 36 | 77 | 
 | 2022-10-17 | 36 | 77 | 

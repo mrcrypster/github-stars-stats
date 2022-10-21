@@ -1,10 +1,10 @@
 # microsoft/Microsoft365DSC - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 261
+☋ Forks: 262
 
-★ Stars: 839
+★ Stars: 840
 
 [Open repository](https://github.com/microsoft/Microsoft365DSC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 840 | 262 | 
 | 2022-10-19 | 839 | 261 | 
 | 2022-10-18 | 838 | 258 | 
 | 2022-10-17 | 836 | 258 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 808 | 253 | 
 | 2022-09-23 | 807 | 252 | 
 | 2022-09-22 | 807 | 252 | 
-| 2022-09-21 | 805 | 252 | 
 

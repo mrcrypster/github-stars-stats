@@ -1,10 +1,10 @@
 # Boolector/boolector - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 46
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/Boolector/boolector)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 248 | 46 | 
 | 2022-10-19 | 247 | 46 | 
 | 2022-10-18 | 247 | 46 | 
 | 2022-10-17 | 247 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 243 | 47 | 
 | 2022-09-22 | 243 | 47 | 
 | 2022-09-21 | 241 | 47 | 
-| 2022-09-20 | 241 | 47 | 
 

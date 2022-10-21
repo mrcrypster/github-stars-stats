@@ -1,10 +1,10 @@
 # JasperFx/marten - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 341
+☋ Forks: 342
 
-★ Stars: 1936
+★ Stars: 1937
 
 [Open repository](https://github.com/JasperFx/marten)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1937 | 342 | 
 | 2022-10-19 | 1936 | 341 | 
 | 2022-10-18 | 1934 | 341 | 
 | 2022-10-17 | 1931 | 340 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 1913 | 341 | 
 | 2022-09-23 | 1913 | 341 | 
 | 2022-09-22 | 1913 | 340 | 
-| 2022-09-20 | 1913 | 340 | 
 

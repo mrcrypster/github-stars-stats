@@ -1,10 +1,10 @@
 # arc298/instagram-scraper - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1408
+☋ Forks: 1409
 
-★ Stars: 7243
+★ Stars: 7249
 
 [Open repository](https://github.com/arc298/instagram-scraper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 7249 | 1409 | 
 | 2022-10-19 | 7243 | 1408 | 
 | 2022-10-18 | 7238 | 1408 | 
 | 2022-10-17 | 7232 | 1409 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 7183 | 1407 | 
 | 2022-09-22 | 7179 | 1405 | 
 | 2022-09-21 | 7179 | 1405 | 
-| 2022-09-20 | 7173 | 1404 | 
 

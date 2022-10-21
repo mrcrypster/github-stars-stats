@@ -1,10 +1,10 @@
 # Elements-Studio/starswap-core - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 18
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/Elements-Studio/starswap-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 31 | 18 | 
 | 2022-10-19 | 29 | 18 | 
 | 2022-10-18 | 29 | 17 | 
 | 2022-10-17 | 29 | 17 | 

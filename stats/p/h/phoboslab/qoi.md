@@ -1,6 +1,6 @@
 # phoboslab/qoi - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5837 | 281 | 
 | 2022-10-19 | 5837 | 281 | 
 | 2022-10-18 | 5836 | 281 | 
 | 2022-10-17 | 5834 | 281 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5799 | 276 | 
 | 2022-09-22 | 5800 | 277 | 
 | 2022-09-21 | 5799 | 277 | 
-| 2022-09-20 | 5797 | 275 | 
 

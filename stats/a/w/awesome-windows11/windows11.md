@@ -1,6 +1,6 @@
 # awesome-windows11/windows11 - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 381 | 35 | 
 | 2022-10-19 | 381 | 35 | 
 | 2022-10-18 | 379 | 35 | 
 | 2022-10-17 | 373 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 333 | 34 | 
 | 2022-09-22 | 332 | 33 | 
 | 2022-09-21 | 331 | 33 | 
-| 2022-09-20 | 326 | 33 | 
 

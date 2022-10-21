@@ -1,6 +1,6 @@
 # null-dev/firefox-profile-switcher - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 174 | 10 | 
 | 2022-10-19 | 174 | 10 | 
 | 2022-10-18 | 174 | 10 | 
 | 2022-10-17 | 174 | 10 | 

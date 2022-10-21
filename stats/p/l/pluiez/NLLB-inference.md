@@ -1,10 +1,10 @@
 # pluiez/NLLB-inference - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 4
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/pluiez/NLLB-inference)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 27 | 4 | 
 | 2022-10-19 | 26 | 4 | 
 | 2022-10-18 | 26 | 4 | 
 | 2022-10-17 | 26 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 26 | 3 | 
 | 2022-09-22 | 26 | 3 | 
 | 2022-09-21 | 26 | 3 | 
-| 2022-09-20 | 26 | 3 | 
 

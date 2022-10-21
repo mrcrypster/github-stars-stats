@@ -1,6 +1,6 @@
 # hyoretsu/Ultimate-Steam-Dark-Mode-Skin - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 71 | 2 | 
 | 2022-10-19 | 71 | 2 | 
 | 2022-10-18 | 70 | 2 | 
 | 2022-10-17 | 70 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 67 | 2 | 
 | 2022-09-22 | 67 | 2 | 
 | 2022-09-21 | 67 | 2 | 
-| 2022-09-20 | 65 | 2 | 
 

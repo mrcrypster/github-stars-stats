@@ -1,10 +1,10 @@
 # JingShing/novelai-colab-ver - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 208
+☋ Forks: 219
 
-★ Stars: 466
+★ Stars: 504
 
 [Open repository](https://github.com/JingShing/novelai-colab-ver)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 504 | 219 | 
 | 2022-10-19 | 466 | 208 | 
 | 2022-10-18 | 432 | 173 | 
 | 2022-10-17 | 381 | 142 | 

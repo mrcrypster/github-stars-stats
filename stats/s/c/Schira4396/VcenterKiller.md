@@ -1,10 +1,10 @@
 # Schira4396/VcenterKiller - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 524
+★ Stars: 526
 
 [Open repository](https://github.com/Schira4396/VcenterKiller)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 526 | 52 | 
 | 2022-10-19 | 524 | 51 | 
 | 2022-10-18 | 524 | 51 | 
 | 2022-10-17 | 519 | 51 | 

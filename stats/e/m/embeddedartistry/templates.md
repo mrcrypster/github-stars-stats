@@ -1,10 +1,10 @@
 # embeddedartistry/templates - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1344
+☋ Forks: 1347
 
-★ Stars: 294
+★ Stars: 295
 
 [Open repository](https://github.com/embeddedartistry/templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 295 | 1347 | 
 | 2022-10-19 | 294 | 1344 | 
 | 2022-10-18 | 294 | 1343 | 
 | 2022-10-17 | 293 | 1340 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 281 | 1319 | 
 | 2022-09-22 | 281 | 1318 | 
 | 2022-09-21 | 279 | 1318 | 
-| 2022-09-20 | 279 | 1316 | 
 

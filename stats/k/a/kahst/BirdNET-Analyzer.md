@@ -1,6 +1,6 @@
 # kahst/BirdNET-Analyzer - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 249 | 40 | 
 | 2022-10-19 | 249 | 40 | 
 | 2022-10-18 | 248 | 40 | 
 | 2022-10-17 | 247 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 238 | 39 | 
 | 2022-09-23 | 238 | 39 | 
 | 2022-09-22 | 238 | 39 | 
-| 2022-09-21 | 237 | 38 | 
 

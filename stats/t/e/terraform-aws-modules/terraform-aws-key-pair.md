@@ -1,10 +1,10 @@
 # terraform-aws-modules/terraform-aws-key-pair - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 90
 
-★ Stars: 55
+★ Stars: 54
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-key-pair)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 54 | 90 | 
 | 2022-10-19 | 55 | 90 | 
 | 2022-10-18 | 55 | 90 | 
 | 2022-10-17 | 55 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 52 | 87 | 
 | 2022-09-22 | 52 | 87 | 
 | 2022-09-21 | 52 | 87 | 
-| 2022-09-20 | 52 | 87 | 
 

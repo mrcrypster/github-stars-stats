@@ -1,6 +1,6 @@
 # johnno1962/InjectionIII - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 3303 | 269 | 
 | 2022-10-19 | 3303 | 269 | 
 | 2022-10-18 | 3302 | 269 | 
 | 2022-10-17 | 3300 | 269 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 3270 | 268 | 
 | 2022-09-22 | 3270 | 268 | 
 | 2022-09-21 | 3269 | 267 | 
-| 2022-09-20 | 3265 | 267 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 20
 
 ☋ Forks: 22
 
-★ Stars: 90
+★ Stars: 92
 
 [Open repository](https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 90 | 22 | 
+| 2022-10-20 | 92 | 22 | 
 | 2022-10-19 | 90 | 22 | 
 | 2022-10-18 | 79 | 21 | 
 

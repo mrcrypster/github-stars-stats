@@ -1,10 +1,10 @@
 # kanboard/kanboard - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1633
 
-★ Stars: 6808
+★ Stars: 6809
 
 [Open repository](https://github.com/kanboard/kanboard)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 6809 | 1633 | 
 | 2022-10-20 | 6808 | 1633 | 
 | 2022-10-19 | 6808 | 1632 | 
 | 2022-10-17 | 6804 | 1633 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-23 | 6777 | 1635 | 
 | 2022-09-22 | 6774 | 1634 | 
 | 2022-09-21 | 6773 | 1635 | 
-| 2022-09-20 | 6769 | 1635 | 
 

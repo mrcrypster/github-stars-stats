@@ -1,6 +1,6 @@
 # alphapapa/ement.el - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 271 | 23 | 
 | 2022-10-19 | 271 | 23 | 
 | 2022-10-18 | 270 | 23 | 
 | 2022-10-17 | 269 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 256 | 24 | 
 | 2022-09-22 | 256 | 23 | 
 | 2022-09-21 | 257 | 22 | 
-| 2022-09-20 | 257 | 22 | 
 

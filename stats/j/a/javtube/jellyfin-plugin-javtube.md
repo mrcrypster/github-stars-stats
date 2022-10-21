@@ -1,10 +1,10 @@
 # javtube/jellyfin-plugin-javtube - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 96
 
-★ Stars: 816
+★ Stars: 827
 
 [Open repository](https://github.com/javtube/jellyfin-plugin-javtube)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 827 | 96 | 
 | 2022-10-19 | 816 | 96 | 
 | 2022-10-18 | 807 | 97 | 
 | 2022-10-17 | 783 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 705 | 88 | 
 | 2022-09-22 | 700 | 88 | 
 | 2022-09-21 | 696 | 88 | 
-| 2022-09-20 | 693 | 87 | 
 

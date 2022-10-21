@@ -1,6 +1,6 @@
 # Fictiverse/StableDiffusion-Windows-GUI - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 126 | 9 | 
 | 2022-10-19 | 126 | 9 | 
 | 2022-10-18 | 125 | 9 | 
 | 2022-10-17 | 123 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 100 | 5 | 
 | 2022-09-22 | 99 | 5 | 
 | 2022-09-21 | 98 | 5 | 
-| 2022-09-20 | 97 | 5 | 
 

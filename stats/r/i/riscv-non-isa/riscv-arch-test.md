@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 20
 
 ☋ Forks: 135
 
-★ Stars: 330
+★ Stars: 331
 
 [Open repository](https://github.com/riscv-non-isa/riscv-arch-test)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 330 | 135 | 
+| 2022-10-20 | 331 | 135 | 
 | 2022-10-19 | 330 | 135 | 
 

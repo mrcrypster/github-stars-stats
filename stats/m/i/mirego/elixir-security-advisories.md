@@ -1,6 +1,6 @@
 # mirego/elixir-security-advisories - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 34 | 1 | 
 | 2022-10-19 | 34 | 1 | 
 | 2022-10-18 | 34 | 1 | 
 | 2022-10-17 | 34 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 32 | 1 | 
 | 2022-09-22 | 32 | 1 | 
 | 2022-09-21 | 32 | 1 | 
-| 2022-09-20 | 32 | 1 | 
 

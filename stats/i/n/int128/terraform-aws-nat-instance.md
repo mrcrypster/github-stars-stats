@@ -1,10 +1,10 @@
 # int128/terraform-aws-nat-instance - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 58
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/int128/terraform-aws-nat-instance)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 121 | 58 | 
 | 2022-10-19 | 120 | 58 | 
 | 2022-10-18 | 120 | 58 | 
 | 2022-10-17 | 120 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 117 | 56 | 
 | 2022-09-22 | 117 | 56 | 
 | 2022-09-21 | 117 | 56 | 
-| 2022-09-20 | 117 | 56 | 
 

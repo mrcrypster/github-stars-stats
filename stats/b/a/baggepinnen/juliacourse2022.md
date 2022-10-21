@@ -1,6 +1,6 @@
 # baggepinnen/juliacourse2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 8 | 2 | 
 | 2022-10-19 | 8 | 2 | 
 | 2022-10-18 | 8 | 2 | 
 | 2022-10-17 | 8 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 4 | - | 
 | 2022-09-22 | 4 | - | 
 | 2022-09-21 | 4 | - | 
-| 2022-09-20 | 4 | - | 
 

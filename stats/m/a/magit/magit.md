@@ -1,10 +1,10 @@
 # magit/magit - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 759
+☋ Forks: 760
 
-★ Stars: 5749
+★ Stars: 5750
 
 [Open repository](https://github.com/magit/magit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5750 | 760 | 
 | 2022-10-19 | 5749 | 759 | 
 | 2022-10-18 | 5748 | 759 | 
 | 2022-10-17 | 5746 | 758 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5722 | 754 | 
 | 2022-09-22 | 5722 | 755 | 
 | 2022-09-21 | 5722 | 756 | 
-| 2022-09-20 | 5722 | 756 | 
 

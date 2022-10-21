@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 20
 
-☋ Forks: 29
+☋ Forks: 35
 
-★ Stars: 1
+★ Stars: 4
 
 [Open repository](https://github.com/Deepu3311/WebDevLovers)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 1 | 29 | 
+| 2022-10-20 | 4 | 35 | 
 | 2022-10-19 | 1 | 29 | 
 

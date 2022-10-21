@@ -1,10 +1,10 @@
 # LSPosed/MagiskOnWSALocal - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 6384
+☋ Forks: 6427
 
-★ Stars: 2187
+★ Stars: 2203
 
 [Open repository](https://github.com/LSPosed/MagiskOnWSALocal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2203 | 6427 | 
 | 2022-10-19 | 2187 | 6384 | 
 | 2022-10-18 | 2161 | 6286 | 
 | 2022-10-17 | 2150 | 6260 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1562 | 4112 | 
 | 2022-09-22 | 1520 | 3944 | 
 | 2022-09-21 | 1493 | 3849 | 
-| 2022-09-20 | 1471 | 3769 | 
 

@@ -1,6 +1,6 @@
 # dominikg/summit-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 16 | 2 | 
 | 2022-10-19 | 16 | 2 | 
 | 2022-10-18 | 16 | 2 | 
 | 2022-10-17 | 16 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 14 | 1 | 
 | 2022-09-22 | 14 | 1 | 
 | 2022-09-21 | 14 | 1 | 
-| 2022-09-20 | 14 | 1 | 
 

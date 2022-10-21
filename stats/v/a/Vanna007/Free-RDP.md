@@ -1,8 +1,8 @@
 # Vanna007/Free-RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 173
+☋ Forks: 174
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2 | 174 | 
 | 2022-10-19 | 2 | 173 | 
 | 2022-10-18 | 2 | 172 | 
 | 2022-10-17 | 2 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1 | 165 | 
 | 2022-09-22 | 1 | 165 | 
 | 2022-09-21 | 1 | 165 | 
-| 2022-09-20 | 1 | 165 | 
 

@@ -1,10 +1,10 @@
 # hilverd/glossary-page-template - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/hilverd/glossary-page-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 78 | 1 | 
 | 2022-10-19 | 77 | 1 | 
 | 2022-10-18 | 77 | 1 | 
 | 2022-10-17 | 76 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 73 | 1 | 
 | 2022-09-22 | 73 | 1 | 
 | 2022-09-21 | 73 | 1 | 
-| 2022-09-20 | 73 | 1 | 
 

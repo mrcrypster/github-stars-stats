@@ -1,8 +1,8 @@
 # AvarianKnight/pma-voice - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 162
+☋ Forks: 163
 
 ★ Stars: 162
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 162 | 163 | 
 | 2022-10-19 | 162 | 162 | 
 | 2022-10-18 | 162 | 161 | 
 | 2022-10-17 | 162 | 161 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 159 | 157 | 
 | 2022-09-22 | 159 | 157 | 
 | 2022-09-21 | 159 | 156 | 
-| 2022-09-20 | 159 | 155 | 
 

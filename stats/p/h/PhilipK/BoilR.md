@@ -1,10 +1,10 @@
 # PhilipK/BoilR - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 21
 
-★ Stars: 653
+★ Stars: 655
 
 [Open repository](https://github.com/PhilipK/BoilR)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 655 | 21 | 
 | 2022-10-19 | 653 | 21 | 
 | 2022-10-18 | 649 | 20 | 
 | 2022-10-17 | 645 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 591 | 19 | 
 | 2022-09-22 | 588 | 19 | 
 | 2022-09-21 | 584 | 18 | 
-| 2022-09-20 | 577 | 18 | 
 

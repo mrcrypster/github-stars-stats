@@ -1,10 +1,10 @@
 # home-assistant/core - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 20066
+☋ Forks: 20083
 
-★ Stars: 55369
+★ Stars: 55382
 
 [Open repository](https://github.com/home-assistant/core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 55382 | 20083 | 
 | 2022-10-19 | 55369 | 20066 | 
 | 2022-10-18 | 55355 | 20051 | 
 | 2022-10-17 | 55347 | 20048 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 54932 | 19667 | 
 | 2022-09-22 | 54913 | 19655 | 
 | 2022-09-21 | 54900 | 19646 | 
-| 2022-09-20 | 54890 | 19634 | 
 

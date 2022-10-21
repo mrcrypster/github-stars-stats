@@ -1,10 +1,10 @@
 # snyk/snyk-broker-helm - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 19
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/snyk/snyk-broker-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 8 | 19 | 
 | 2022-10-19 | 7 | 19 | 
 | 2022-10-18 | 7 | 19 | 
 | 2022-10-17 | 6 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 6 | 17 | 
 | 2022-09-22 | 6 | 17 | 
 | 2022-09-21 | 5 | 17 | 
-| 2022-09-20 | 5 | 16 | 
 

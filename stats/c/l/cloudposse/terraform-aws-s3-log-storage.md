@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-s3-log-storage - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 95 | 93 | 
 | 2022-10-19 | 95 | 93 | 
 | 2022-10-18 | 95 | 93 | 
 | 2022-10-17 | 95 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 94 | 92 | 
 | 2022-09-23 | 93 | 92 | 
 | 2022-09-22 | 93 | 92 | 
-| 2022-09-21 | 92 | 92 | 
 

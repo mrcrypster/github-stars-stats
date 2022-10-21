@@ -1,8 +1,8 @@
 # reduxjs/redux-essentials-example-app - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 518
+☋ Forks: 519
 
 ★ Stars: 225
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 225 | 519 | 
 | 2022-10-19 | 225 | 518 | 
 | 2022-10-18 | 225 | 517 | 
 | 2022-10-17 | 225 | 514 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 223 | 499 | 
 | 2022-09-22 | 223 | 499 | 
 | 2022-09-21 | 222 | 498 | 
-| 2022-09-20 | 222 | 497 | 
 

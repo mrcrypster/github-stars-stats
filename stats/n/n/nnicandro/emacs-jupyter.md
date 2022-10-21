@@ -1,6 +1,6 @@
 # nnicandro/emacs-jupyter - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 733 | 71 | 
 | 2022-10-19 | 733 | 71 | 
 | 2022-10-18 | 733 | 71 | 
 | 2022-10-17 | 733 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 722 | 70 | 
 | 2022-09-22 | 722 | 70 | 
 | 2022-09-21 | 722 | 70 | 
-| 2022-09-20 | 721 | 70 | 
 

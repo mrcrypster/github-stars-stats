@@ -1,10 +1,10 @@
 # Creators-of-Create/Create - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 567
+☋ Forks: 570
 
-★ Stars: 1613
+★ Stars: 1615
 
 [Open repository](https://github.com/Creators-of-Create/Create)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1615 | 570 | 
 | 2022-10-19 | 1613 | 567 | 
 | 2022-10-18 | 1612 | 567 | 
 | 2022-10-17 | 1611 | 567 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1579 | 549 | 
 | 2022-09-22 | 1579 | 548 | 
 | 2022-09-21 | 1575 | 548 | 
-| 2022-09-20 | 1574 | 548 | 
 

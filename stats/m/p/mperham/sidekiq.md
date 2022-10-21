@@ -1,10 +1,10 @@
 # mperham/sidekiq - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 2203
+☋ Forks: 2204
 
-★ Stars: 12098
+★ Stars: 12100
 
 [Open repository](https://github.com/mperham/sidekiq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 12100 | 2204 | 
 | 2022-10-19 | 12098 | 2203 | 
 | 2022-10-18 | 12092 | 2200 | 
 | 2022-10-17 | 12092 | 2200 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 12039 | 2194 | 
 | 2022-09-22 | 12038 | 2194 | 
 | 2022-09-21 | 12037 | 2194 | 
-| 2022-09-20 | 12037 | 2191 | 
 

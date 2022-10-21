@@ -1,10 +1,10 @@
 # jitsi/docker-jitsi-meet - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 1224
+☋ Forks: 1225
 
-★ Stars: 2563
+★ Stars: 2564
 
 [Open repository](https://github.com/jitsi/docker-jitsi-meet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 2564 | 1225 | 
 | 2022-10-19 | 2563 | 1224 | 
 | 2022-10-18 | 2563 | 1224 | 
 | 2022-10-17 | 2563 | 1225 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 2551 | 1227 | 
 | 2022-09-22 | 2550 | 1225 | 
 | 2022-09-21 | 2550 | 1224 | 
-| 2022-09-20 | 2551 | 1224 | 
 

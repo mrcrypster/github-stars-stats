@@ -1,6 +1,6 @@
 # dapphub/ds-test - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 141 | 55 | 
 | 2022-10-19 | 141 | 55 | 
 | 2022-10-18 | 141 | 55 | 
 | 2022-10-17 | 140 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 134 | 53 | 
 | 2022-09-22 | 133 | 53 | 
 | 2022-09-21 | 133 | 53 | 
-| 2022-09-20 | 133 | 53 | 
 

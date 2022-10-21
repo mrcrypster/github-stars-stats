@@ -1,10 +1,10 @@
 # cj-holmes/scanline - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/cj-holmes/scanline)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 25 | - | 
 | 2022-10-19 | 24 | - | 
 | 2022-10-18 | 24 | - | 
 | 2022-10-17 | 22 | - | 

@@ -1,8 +1,8 @@
 # NLNOG/lg.ring.nlnog.net - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 22 | 24 | 
 | 2022-10-19 | 22 | 23 | 
 | 2022-10-18 | 21 | 23 | 
 | 2022-10-17 | 21 | 23 | 

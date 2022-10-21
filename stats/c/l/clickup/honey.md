@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 20
 
 ☋ Forks: 2
 
-★ Stars: 185
+★ Stars: 187
 
 [Open repository](https://github.com/clickup/honey)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 185 | 2 | 
+| 2022-10-20 | 187 | 2 | 
 | 2022-10-19 | 185 | 2 | 
 

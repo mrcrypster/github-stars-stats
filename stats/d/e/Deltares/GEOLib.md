@@ -1,6 +1,6 @@
 # Deltares/GEOLib - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 9 | 8 | 
 | 2022-10-19 | 9 | 8 | 
 | 2022-10-18 | 9 | 8 | 
 | 2022-10-17 | 9 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 9 | 7 | 
 | 2022-09-22 | 9 | 7 | 
 | 2022-09-21 | 9 | 7 | 
-| 2022-09-20 | 9 | 7 | 
 

@@ -1,10 +1,10 @@
 # quambene/rust-concurrency - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 4
 
-★ Stars: 309
+★ Stars: 310
 
 [Open repository](https://github.com/quambene/rust-concurrency)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 310 | 4 | 
 | 2022-10-19 | 309 | 4 | 
 | 2022-10-18 | 309 | 4 | 
 | 2022-10-17 | 309 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | 301 | 4 | 
 | 2022-09-23 | 301 | 4 | 
 | 2022-09-22 | 301 | 4 | 
-| 2022-09-21 | 301 | 4 | 
 

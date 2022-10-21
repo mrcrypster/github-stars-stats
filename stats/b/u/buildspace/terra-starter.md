@@ -1,6 +1,6 @@
 # buildspace/terra-starter - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 12 | 81 | 
 | 2022-10-19 | 12 | 81 | 
 | 2022-10-18 | 12 | 81 | 
 | 2022-10-17 | 12 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 12 | 82 | 
 | 2022-09-22 | 12 | 82 | 
 | 2022-09-21 | 12 | 82 | 
-| 2022-09-20 | 12 | 82 | 
 

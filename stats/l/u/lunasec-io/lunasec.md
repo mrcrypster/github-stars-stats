@@ -1,10 +1,10 @@
 # lunasec-io/lunasec - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 148
+☋ Forks: 149
 
-★ Stars: 1188
+★ Stars: 1190
 
 [Open repository](https://github.com/lunasec-io/lunasec)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 1190 | 149 | 
 | 2022-10-19 | 1188 | 148 | 
 | 2022-10-18 | 1188 | 148 | 
 | 2022-10-17 | 1187 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 1179 | 146 | 
 | 2022-09-22 | 1178 | 145 | 
 | 2022-09-21 | 1177 | 145 | 
-| 2022-09-20 | 1177 | 145 | 
 

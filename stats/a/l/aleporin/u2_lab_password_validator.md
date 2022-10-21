@@ -1,6 +1,6 @@
 # aleporin/u2_lab_password_validator - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | - | 16 | 
 | 2022-10-19 | - | 16 | 
 | 2022-10-18 | - | 16 | 
 | 2022-10-17 | - | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-24 | - | 17 | 
 | 2022-09-23 | - | 17 | 
 | 2022-09-22 | - | 18 | 
-| 2022-09-20 | - | 18 | 
 

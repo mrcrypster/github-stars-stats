@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 20
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/pythoniclaver/Dent-Clack)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 24 | 14 | 
+| 2022-10-20 | 25 | 15 | 
 | 2022-10-19 | 24 | 14 | 
 

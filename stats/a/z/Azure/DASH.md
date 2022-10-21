@@ -1,6 +1,6 @@
 # Azure/DASH - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 52 | 53 | 
 | 2022-10-19 | 52 | 53 | 
 | 2022-10-18 | 52 | 53 | 
 | 2022-10-17 | 52 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 48 | 51 | 
 | 2022-09-22 | 47 | 51 | 
 | 2022-09-21 | 47 | 50 | 
-| 2022-09-20 | 47 | 49 | 
 

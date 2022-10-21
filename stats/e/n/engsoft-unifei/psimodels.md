@@ -1,8 +1,8 @@
 # engsoft-unifei/psimodels - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-20 | 2 | 13 | 
+| 2022-10-21 | 2 | 14 | 
+| 2022-10-20 | 2 | 14 | 
 | 2022-10-19 | 2 | 13 | 
 

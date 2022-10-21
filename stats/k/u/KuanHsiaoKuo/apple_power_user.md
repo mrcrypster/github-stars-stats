@@ -1,10 +1,10 @@
 # KuanHsiaoKuo/apple_power_user - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 3
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/KuanHsiaoKuo/apple_power_user)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 25 | 3 | 
 | 2022-10-19 | 23 | 3 | 
 | 2022-10-18 | 23 | 3 | 
 | 2022-10-17 | 23 | 3 | 

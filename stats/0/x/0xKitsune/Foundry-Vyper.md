@@ -1,10 +1,10 @@
 # 0xKitsune/Foundry-Vyper - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 102
+★ Stars: 104
 
 [Open repository](https://github.com/0xKitsune/Foundry-Vyper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 104 | 12 | 
 | 2022-10-19 | 102 | 11 | 
 | 2022-10-18 | 102 | 11 | 
 | 2022-10-17 | 102 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 99 | 10 | 
 | 2022-09-22 | 99 | 10 | 
 | 2022-09-21 | 99 | 10 | 
-| 2022-09-20 | 99 | 10 | 
 

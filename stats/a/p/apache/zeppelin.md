@@ -1,8 +1,8 @@
 # apache/zeppelin - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 2707
+☋ Forks: 2708
 
 ★ Stars: 5842
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 5842 | 2708 | 
 | 2022-10-19 | 5842 | 2707 | 
 | 2022-10-18 | 5840 | 2708 | 
 | 2022-10-17 | 5840 | 2707 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 5821 | 2701 | 
 | 2022-09-22 | 5819 | 2698 | 
 | 2022-09-21 | 5815 | 2697 | 
-| 2022-09-20 | 5815 | 2696 | 
 

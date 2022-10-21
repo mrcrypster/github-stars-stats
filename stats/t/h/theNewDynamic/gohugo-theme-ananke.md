@@ -1,10 +1,10 @@
 # theNewDynamic/gohugo-theme-ananke - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
-☋ Forks: 887
+☋ Forks: 889
 
-★ Stars: 804
+★ Stars: 806
 
 [Open repository](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 806 | 889 | 
 | 2022-10-19 | 804 | 887 | 
 | 2022-10-18 | 804 | 887 | 
 | 2022-10-17 | 804 | 886 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 796 | 876 | 
 | 2022-09-22 | 796 | 875 | 
 | 2022-09-21 | 797 | 874 | 
-| 2022-09-20 | 797 | 874 | 
 

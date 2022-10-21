@@ -1,6 +1,6 @@
 # nalgeon/sqlite-weekly - stars & forks statistics
 
-Stats updated on Oct 2022, 19
+Stats updated on Oct 2022, 20
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 19
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-20 | 112 | 1 | 
 | 2022-10-19 | 112 | 1 | 
 | 2022-10-18 | 112 | 1 | 
 | 2022-10-17 | 112 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 19
 | 2022-09-23 | 108 | - | 
 | 2022-09-22 | 107 | - | 
 | 2022-09-21 | 104 | - | 
-| 2022-09-20 | 104 | - | 
 
