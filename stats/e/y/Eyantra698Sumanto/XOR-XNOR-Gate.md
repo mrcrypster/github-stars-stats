@@ -1,6 +1,6 @@
 # Eyantra698Sumanto/XOR-XNOR-Gate - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4 | 12 | 
 | 2022-10-20 | 4 | 12 | 
 | 2022-10-19 | 4 | 12 | 
 | 2022-10-18 | 3 | 12 | 

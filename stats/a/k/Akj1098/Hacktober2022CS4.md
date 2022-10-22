@@ -1,6 +1,6 @@
 # Akj1098/Hacktober2022CS4 - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1 | 9 | 
 | 2022-10-20 | 1 | 9 | 
 | 2022-10-19 | 1 | 9 | 
 | 2022-10-18 | 1 | 9 | 

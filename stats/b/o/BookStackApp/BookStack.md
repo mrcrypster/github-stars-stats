@@ -1,10 +1,10 @@
 # BookStackApp/BookStack - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1379
+☋ Forks: 1378
 
-★ Stars: 10201
+★ Stars: 10209
 
 [Open repository](https://github.com/BookStackApp/BookStack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 10209 | 1378 | 
 | 2022-10-20 | 10201 | 1379 | 
 | 2022-10-19 | 10197 | 1380 | 
 | 2022-10-18 | 10194 | 1377 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 10060 | 1354 | 
 | 2022-09-23 | 10049 | 1353 | 
 | 2022-09-22 | 10047 | 1354 | 
-| 2022-09-21 | 10042 | 1352 | 
 

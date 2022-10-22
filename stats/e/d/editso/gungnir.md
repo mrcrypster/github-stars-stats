@@ -1,10 +1,10 @@
 # editso/gungnir - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 9
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/editso/gungnir)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 73 | 9 | 
 | 2022-10-20 | 72 | 9 | 
 | 2022-10-19 | 72 | 9 | 
 | 2022-10-18 | 72 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 71 | 8 | 
 | 2022-09-24 | 71 | 8 | 
 | 2022-09-23 | 71 | 8 | 
-| 2022-09-22 | 71 | 8 | 
 

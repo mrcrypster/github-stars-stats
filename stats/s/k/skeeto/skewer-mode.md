@@ -1,6 +1,6 @@
 # skeeto/skewer-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1044 | 54 | 
 | 2022-10-20 | 1044 | 54 | 
 | 2022-10-19 | 1044 | 54 | 
 | 2022-10-18 | 1044 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1044 | 54 | 
 | 2022-09-23 | 1044 | 54 | 
 | 2022-09-22 | 1044 | 54 | 
-| 2022-09-21 | 1044 | 54 | 
 

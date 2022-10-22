@@ -1,10 +1,10 @@
 # beemdevelopment/Aegis - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 216
 
-★ Stars: 4082
+★ Stars: 4090
 
 [Open repository](https://github.com/beemdevelopment/Aegis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4090 | 216 | 
 | 2022-10-20 | 4082 | 216 | 
 | 2022-10-19 | 4082 | 216 | 
 | 2022-10-18 | 4078 | 215 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3942 | 208 | 
 | 2022-09-23 | 3936 | 207 | 
 | 2022-09-22 | 3930 | 205 | 
-| 2022-09-21 | 3926 | 205 | 
 

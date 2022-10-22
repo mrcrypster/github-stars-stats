@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 21
 
 ☋ Forks: 74
 
-★ Stars: 3314
+★ Stars: 3328
 
 [Open repository](https://github.com/facebook/memlab)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-21 | 3314 | 74 | 
+| 2022-10-21 | 3328 | 74 | 
 | 2022-10-20 | 3312 | 74 | 
 | 2022-10-19 | 3279 | 72 | 
 | 2022-10-18 | 3253 | 72 | 

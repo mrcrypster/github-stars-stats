@@ -1,10 +1,10 @@
 # toolboc/psx-pi-smbshare - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 24
 
-★ Stars: 251
+★ Stars: 253
 
 [Open repository](https://github.com/toolboc/psx-pi-smbshare)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 253 | 24 | 
 | 2022-10-20 | 251 | 24 | 
 | 2022-10-19 | 245 | 23 | 
 | 2022-10-18 | 238 | 23 | 

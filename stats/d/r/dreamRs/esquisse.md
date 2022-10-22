@@ -1,6 +1,6 @@
 # dreamRs/esquisse - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1539 | 209 | 
 | 2022-10-20 | 1539 | 209 | 
 | 2022-10-19 | 1539 | 210 | 
 | 2022-10-18 | 1538 | 210 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1529 | 208 | 
 | 2022-09-23 | 1526 | 207 | 
 | 2022-09-22 | 1526 | 207 | 
-| 2022-09-21 | 1526 | 207 | 
 

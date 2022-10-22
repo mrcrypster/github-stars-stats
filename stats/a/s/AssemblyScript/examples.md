@@ -1,10 +1,10 @@
 # AssemblyScript/examples - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 41
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/AssemblyScript/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 218 | 41 | 
 | 2022-10-20 | 217 | 41 | 
 | 2022-10-19 | 217 | 41 | 
 | 2022-10-18 | 217 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 215 | 41 | 
 | 2022-09-24 | 214 | 41 | 
 | 2022-09-23 | 213 | 41 | 
-| 2022-09-22 | 212 | 41 | 
 

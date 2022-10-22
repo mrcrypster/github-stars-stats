@@ -1,6 +1,6 @@
 # JuliaPy/PyPlot.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 429 | 85 | 
 | 2022-10-20 | 429 | 85 | 
 | 2022-10-19 | 429 | 85 | 
 | 2022-10-18 | 429 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 428 | 86 | 
 | 2022-09-24 | 428 | 86 | 
 | 2022-09-23 | 428 | 86 | 
-| 2022-09-22 | 428 | 86 | 
 

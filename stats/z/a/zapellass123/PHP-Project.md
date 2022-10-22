@@ -1,10 +1,10 @@
 # zapellass123/PHP-Project - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 246
+☋ Forks: 251
 
-★ Stars: 150
+★ Stars: 155
 
 [Open repository](https://github.com/zapellass123/PHP-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 155 | 251 | 
 | 2022-10-20 | 150 | 246 | 
 | 2022-10-19 | 149 | 244 | 
 | 2022-10-18 | 119 | 214 | 

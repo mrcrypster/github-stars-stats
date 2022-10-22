@@ -1,6 +1,6 @@
 # zwStar/vue-meituan - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 414
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1315 | 414 | 
 | 2022-10-20 | 1315 | 414 | 
 | 2022-10-19 | 1314 | 413 | 
 | 2022-10-18 | 1313 | 413 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1301 | 412 | 
 | 2022-09-23 | 1301 | 412 | 
 | 2022-09-22 | 1300 | 412 | 
-| 2022-09-21 | 1298 | 412 | 
 

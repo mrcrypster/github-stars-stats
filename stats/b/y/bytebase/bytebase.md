@@ -1,10 +1,10 @@
 # bytebase/bytebase - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 280
 
-★ Stars: 4089
+★ Stars: 4099
 
 [Open repository](https://github.com/bytebase/bytebase)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4099 | 280 | 
 | 2022-10-20 | 4089 | 280 | 
 | 2022-10-19 | 4081 | 279 | 
 | 2022-10-18 | 4074 | 277 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3900 | 251 | 
 | 2022-09-23 | 3893 | 251 | 
 | 2022-09-22 | 3887 | 251 | 
-| 2022-09-21 | 3880 | 251 | 
 

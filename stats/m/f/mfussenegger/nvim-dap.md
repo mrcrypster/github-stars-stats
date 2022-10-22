@@ -1,6 +1,6 @@
 # mfussenegger/nvim-dap - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2360 | 107 | 
 | 2022-10-20 | 2360 | 107 | 
 | 2022-10-19 | 2348 | 107 | 
 | 2022-10-18 | 2344 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 2241 | 99 | 
 | 2022-09-23 | 2236 | 99 | 
 | 2022-09-22 | 2226 | 99 | 
-| 2022-09-21 | 2222 | 99 | 
 

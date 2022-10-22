@@ -1,10 +1,10 @@
 # bit-mips/bitmips_experiments - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 7
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/bit-mips/bitmips_experiments)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 26 | 7 | 
 | 2022-10-20 | 25 | 7 | 
 | 2022-10-19 | 25 | 7 | 
 | 2022-10-18 | 25 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 25 | 7 | 
 | 2022-09-23 | 25 | 7 | 
 | 2022-09-22 | 25 | 7 | 
-| 2022-09-21 | 25 | 7 | 
 

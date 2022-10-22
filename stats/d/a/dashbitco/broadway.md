@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 21
 
 ☋ Forks: 135
 
-★ Stars: 1932
+★ Stars: 1933
 
 [Open repository](https://github.com/dashbitco/broadway)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-21 | 1932 | 135 | 
+| 2022-10-21 | 1933 | 135 | 
 | 2022-10-20 | 1932 | 135 | 
 | 2022-10-19 | 1928 | 135 | 
 | 2022-10-18 | 1927 | 135 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 1910 | 134 | 
 | 2022-09-23 | 1908 | 134 | 
 | 2022-09-22 | 1909 | 134 | 
-| 2022-09-21 | 1909 | 134 | 
 

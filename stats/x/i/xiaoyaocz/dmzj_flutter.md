@@ -1,10 +1,10 @@
 # xiaoyaocz/dmzj_flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 55
 
-★ Stars: 680
+★ Stars: 679
 
 [Open repository](https://github.com/xiaoyaocz/dmzj_flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 679 | 55 | 
 | 2022-10-20 | 680 | 55 | 
 | 2022-10-19 | 680 | 55 | 
 | 2022-10-18 | 678 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 636 | 52 | 
 | 2022-09-24 | 632 | 52 | 
 | 2022-09-23 | 632 | 52 | 
-| 2022-09-22 | 632 | 52 | 
 

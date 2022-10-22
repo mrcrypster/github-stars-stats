@@ -1,10 +1,10 @@
 # Yamato-Security/WELA - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 50
 
-★ Stars: 458
+★ Stars: 459
 
 [Open repository](https://github.com/Yamato-Security/WELA)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 459 | 50 | 
 | 2022-10-21 | 458 | 50 | 
 | 2022-10-20 | 458 | 50 | 
 | 2022-10-19 | 456 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 447 | 48 | 
 | 2022-09-23 | 447 | 48 | 
 | 2022-09-22 | 446 | 47 | 
-| 2022-09-21 | 445 | 47 | 
 

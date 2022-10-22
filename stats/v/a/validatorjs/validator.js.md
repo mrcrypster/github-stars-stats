@@ -1,10 +1,10 @@
 # validatorjs/validator.js - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 2049
+☋ Forks: 2051
 
-★ Stars: 20344
+★ Stars: 20350
 
 [Open repository](https://github.com/validatorjs/validator.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 20350 | 2051 | 
 | 2022-10-20 | 20344 | 2049 | 
 | 2022-10-19 | 20337 | 2048 | 
 | 2022-10-18 | 20332 | 2046 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 20187 | 2016 | 
 | 2022-09-23 | 20175 | 2014 | 
 | 2022-09-22 | 20172 | 2014 | 
-| 2022-09-21 | 20166 | 2014 | 
 

@@ -1,10 +1,10 @@
 # a5huynh/spyglass - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 13
 
-★ Stars: 870
+★ Stars: 871
 
 [Open repository](https://github.com/a5huynh/spyglass)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 871 | 13 | 
 | 2022-10-20 | 870 | 13 | 
 | 2022-10-19 | 870 | 13 | 
 | 2022-10-18 | 870 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 848 | 13 | 
 | 2022-09-23 | 845 | 13 | 
 | 2022-09-22 | 843 | 13 | 
-| 2022-09-21 | 842 | 13 | 
 

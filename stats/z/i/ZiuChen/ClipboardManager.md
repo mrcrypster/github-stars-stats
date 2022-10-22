@@ -1,10 +1,10 @@
 # ZiuChen/ClipboardManager - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 18
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/ZiuChen/ClipboardManager)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 71 | 18 | 
 | 2022-10-20 | 70 | 18 | 
 | 2022-10-19 | 70 | 17 | 
 | 2022-10-18 | 68 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 53 | 15 | 
 | 2022-09-23 | 52 | 15 | 
 | 2022-09-22 | 50 | 15 | 
-| 2022-09-21 | 49 | 15 | 
 

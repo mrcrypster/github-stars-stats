@@ -1,6 +1,6 @@
 # nacos-group/nacos-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 681
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 991 | 681 | 
 | 2022-10-20 | 991 | 681 | 
 | 2022-10-19 | 990 | 680 | 
 | 2022-10-18 | 990 | 680 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 977 | 666 | 
 | 2022-09-24 | 977 | 666 | 
 | 2022-09-23 | 977 | 666 | 
-| 2022-09-22 | 976 | 667 | 
 

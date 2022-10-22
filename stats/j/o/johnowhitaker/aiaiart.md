@@ -1,10 +1,10 @@
 # johnowhitaker/aiaiart - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 31
 
-★ Stars: 427
+★ Stars: 428
 
 [Open repository](https://github.com/johnowhitaker/aiaiart)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 428 | 31 | 
 | 2022-10-20 | 427 | 31 | 
 | 2022-10-19 | 427 | 31 | 
 | 2022-10-18 | 424 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 372 | 25 | 
 | 2022-09-23 | 366 | 25 | 
 | 2022-09-22 | 364 | 25 | 
-| 2022-09-21 | 359 | 25 | 
 

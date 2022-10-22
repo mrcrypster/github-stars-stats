@@ -1,6 +1,6 @@
 # scenee/FloatingPanel - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 430
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 5080 | 430 | 
 | 2022-10-20 | 5080 | 430 | 
 | 2022-10-19 | 5080 | 430 | 
 | 2022-10-18 | 5079 | 429 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 5061 | 426 | 
 | 2022-09-23 | 5060 | 426 | 
 | 2022-09-22 | 5060 | 426 | 
-| 2022-09-21 | 5058 | 425 | 
 

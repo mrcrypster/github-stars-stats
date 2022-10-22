@@ -1,10 +1,10 @@
 # appwrite/hacktoberfest - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/appwrite/hacktoberfest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 22 | 18 | 
 | 2022-10-20 | 21 | 17 | 
 | 2022-10-19 | 21 | 17 | 
 | 2022-10-18 | 21 | 17 | 

@@ -1,6 +1,6 @@
 # AnySoftKeyboard/AnySoftKeyboard - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 731
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2248 | 731 | 
 | 2022-10-20 | 2248 | 731 | 
 | 2022-10-19 | 2247 | 729 | 
 | 2022-10-18 | 2247 | 729 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 2228 | 732 | 
 | 2022-09-24 | 2228 | 733 | 
 | 2022-09-23 | 2227 | 733 | 
-| 2022-09-21 | 2227 | 730 | 
 

@@ -1,10 +1,10 @@
 # cloudposse/terraform-aws-elasticache-memcached - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 30
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/cloudposse/terraform-aws-elasticache-memcached)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 15 | 30 | 
 | 2022-10-20 | 16 | 30 | 
 | 2022-10-19 | 16 | 30 | 
 | 2022-10-18 | 16 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 16 | 30 | 
 | 2022-09-23 | 16 | 30 | 
 | 2022-09-22 | 16 | 30 | 
-| 2022-09-21 | 16 | 30 | 
 

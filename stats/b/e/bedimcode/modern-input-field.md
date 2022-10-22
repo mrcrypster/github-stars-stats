@@ -1,10 +1,10 @@
 # bedimcode/modern-input-field - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/bedimcode/modern-input-field)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 8 | - | 
 | 2022-10-21 | 7 | - | 
 | 2022-10-19 | 7 | - | 
 | 2022-10-18 | 7 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 5 | - | 
 | 2022-09-23 | 5 | - | 
 | 2022-09-22 | 5 | - | 
-| 2022-09-21 | 4 | - | 
 

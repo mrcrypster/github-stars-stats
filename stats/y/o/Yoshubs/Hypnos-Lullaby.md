@@ -1,6 +1,6 @@
 # Yoshubs/Hypnos-Lullaby - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 29 | 57 | 
 | 2022-10-21 | 29 | 57 | 
 | 2022-10-20 | 29 | 57 | 
 | 2022-10-19 | 29 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 28 | 56 | 
 | 2022-09-23 | 28 | 56 | 
 | 2022-09-22 | 28 | 56 | 
-| 2022-09-21 | 28 | 56 | 
 

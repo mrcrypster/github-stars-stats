@@ -1,6 +1,6 @@
 # zepinglee/gbt7714-bibtex-style - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 754 | 170 | 
 | 2022-10-21 | 754 | 170 | 
 | 2022-10-20 | 755 | 170 | 
 | 2022-10-18 | 755 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 746 | 170 | 
 | 2022-09-23 | 745 | 170 | 
 | 2022-09-22 | 745 | 170 | 
-| 2022-09-21 | 745 | 170 | 
 

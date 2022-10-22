@@ -1,6 +1,6 @@
 # blockscout/blockscout-rs - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 35 | 10 | 
 | 2022-10-20 | 35 | 10 | 
 | 2022-10-19 | 34 | 10 | 
 | 2022-10-18 | 34 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 33 | 8 | 
 | 2022-09-23 | 32 | 7 | 
 | 2022-09-22 | 32 | 7 | 
-| 2022-09-21 | 30 | 6 | 
 

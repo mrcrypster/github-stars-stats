@@ -1,10 +1,10 @@
 # svenstaro/genact - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 295
 
-★ Stars: 6598
+★ Stars: 6601
 
 [Open repository](https://github.com/svenstaro/genact)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 6601 | 295 | 
 | 2022-10-20 | 6598 | 295 | 
 | 2022-10-19 | 6594 | 295 | 
 | 2022-10-18 | 6592 | 295 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 6490 | 291 | 
 | 2022-09-23 | 6485 | 291 | 
 | 2022-09-22 | 6460 | 291 | 
-| 2022-09-21 | 6459 | 291 | 
 

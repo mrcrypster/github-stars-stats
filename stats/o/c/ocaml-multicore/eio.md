@@ -1,10 +1,10 @@
 # ocaml-multicore/eio - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 27
 
-★ Stars: 260
+★ Stars: 262
 
 [Open repository](https://github.com/ocaml-multicore/eio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 262 | 27 | 
 | 2022-10-20 | 260 | 27 | 
 | 2022-10-19 | 260 | 27 | 
 | 2022-10-18 | 260 | 27 | 

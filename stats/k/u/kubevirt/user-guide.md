@@ -1,8 +1,8 @@
 # kubevirt/user-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 184
+☋ Forks: 183
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 49 | 183 | 
 | 2022-10-20 | 49 | 184 | 
 | 2022-10-19 | 49 | 184 | 
 | 2022-10-18 | 49 | 184 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 48 | 178 | 
 | 2022-09-23 | 48 | 178 | 
 | 2022-09-22 | 48 | 178 | 
-| 2022-09-21 | 48 | 177 | 
 

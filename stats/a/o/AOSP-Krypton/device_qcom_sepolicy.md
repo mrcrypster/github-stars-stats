@@ -1,8 +1,8 @@
 # AOSP-Krypton/device_qcom_sepolicy - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | - | 1 | 
 | 2022-10-20 | - | - | 
 | 2022-10-19 | - | - | 
 | 2022-10-18 | - | - | 

@@ -1,10 +1,10 @@
 # michaelgutmann/ml-pen-and-paper-exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 114
 
-★ Stars: 1590
+★ Stars: 1591
 
 [Open repository](https://github.com/michaelgutmann/ml-pen-and-paper-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1591 | 114 | 
 | 2022-10-20 | 1590 | 114 | 
 | 2022-10-19 | 1589 | 114 | 
 | 2022-10-18 | 1589 | 114 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1482 | 104 | 
 | 2022-09-23 | 1481 | 104 | 
 | 2022-09-22 | 1481 | 104 | 
-| 2022-09-21 | 1481 | 104 | 
 

@@ -1,6 +1,6 @@
 # scicloj/clay - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 45 | 4 | 
 | 2022-10-20 | 45 | 4 | 
 | 2022-10-19 | 45 | 4 | 
 | 2022-10-18 | 45 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 45 | 4 | 
 | 2022-09-23 | 44 | 4 | 
 | 2022-09-22 | 44 | 4 | 
-| 2022-09-21 | 44 | 4 | 
 

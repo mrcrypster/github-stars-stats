@@ -1,8 +1,8 @@
 # 24pullrequests/24pullrequests - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 508
+☋ Forks: 507
 
 ★ Stars: 1492
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1492 | 507 | 
 | 2022-10-20 | 1492 | 508 | 
 | 2022-10-19 | 1492 | 506 | 
 | 2022-10-18 | 1492 | 506 | 

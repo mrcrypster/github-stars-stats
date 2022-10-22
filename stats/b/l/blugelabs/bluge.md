@@ -1,6 +1,6 @@
 # blugelabs/bluge - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1463 | 83 | 
 | 2022-10-20 | 1463 | 83 | 
 | 2022-10-19 | 1463 | 83 | 
 | 2022-10-18 | 1462 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1437 | 81 | 
 | 2022-09-23 | 1434 | 81 | 
 | 2022-09-22 | 1426 | 81 | 
-| 2022-09-21 | 1424 | 81 | 
 

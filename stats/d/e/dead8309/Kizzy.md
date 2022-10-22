@@ -1,10 +1,10 @@
 # dead8309/Kizzy - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/dead8309/Kizzy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 38 | 14 | 
 | 2022-10-20 | 37 | 14 | 
 | 2022-10-19 | 37 | 14 | 
 | 2022-10-18 | 34 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 17 | 9 | 
 | 2022-09-23 | 17 | 9 | 
 | 2022-09-22 | 17 | 9 | 
-| 2022-09-21 | 15 | 9 | 
 

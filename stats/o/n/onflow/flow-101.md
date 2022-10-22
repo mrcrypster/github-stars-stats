@@ -1,8 +1,8 @@
 # onflow/flow-101 - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 28 | 22 | 
 | 2022-10-20 | 28 | 21 | 
 | 2022-10-19 | 28 | 21 | 
 | 2022-10-18 | 28 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 28 | 21 | 
 | 2022-09-23 | 28 | 21 | 
 | 2022-09-22 | 28 | 21 | 
-| 2022-09-21 | 28 | 21 | 
 

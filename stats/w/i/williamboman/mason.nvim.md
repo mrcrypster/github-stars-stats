@@ -1,10 +1,10 @@
 # williamboman/mason.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 98
+☋ Forks: 100
 
-★ Stars: 2204
+★ Stars: 2218
 
 [Open repository](https://github.com/williamboman/mason.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2218 | 100 | 
 | 2022-10-20 | 2204 | 98 | 
 | 2022-10-19 | 2191 | 98 | 
 | 2022-10-18 | 2184 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1904 | 72 | 
 | 2022-09-23 | 1898 | 71 | 
 | 2022-09-22 | 1875 | 71 | 
-| 2022-09-21 | 1867 | 70 | 
 

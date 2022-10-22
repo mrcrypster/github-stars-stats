@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-argonaut-core - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 42 | 28 | 
 | 2022-10-20 | 42 | 28 | 
 | 2022-10-19 | 42 | 28 | 
 | 2022-10-18 | 42 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 42 | 28 | 
 | 2022-09-23 | 42 | 28 | 
 | 2022-09-22 | 42 | 28 | 
-| 2022-09-21 | 42 | 28 | 
 

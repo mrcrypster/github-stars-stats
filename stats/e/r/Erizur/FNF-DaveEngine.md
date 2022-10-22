@@ -1,10 +1,10 @@
 # Erizur/FNF-DaveEngine - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 11
+☋ Forks: 10
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/Erizur/FNF-DaveEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 14 | 10 | 
 | 2022-10-20 | 12 | 11 | 
 | 2022-10-19 | 12 | 9 | 
 | 2022-10-18 | 12 | 9 | 

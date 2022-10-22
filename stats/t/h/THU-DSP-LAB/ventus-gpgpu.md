@@ -1,10 +1,10 @@
 # THU-DSP-LAB/ventus-gpgpu - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 19
 
-★ Stars: 138
+★ Stars: 140
 
 [Open repository](https://github.com/THU-DSP-LAB/ventus-gpgpu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 140 | 19 | 
 | 2022-10-20 | 138 | 19 | 
 | 2022-10-19 | 138 | 19 | 
 | 2022-10-18 | 137 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 132 | 16 | 
 | 2022-09-23 | 131 | 16 | 
 | 2022-09-22 | 131 | 16 | 
-| 2022-09-21 | 130 | 16 | 
 

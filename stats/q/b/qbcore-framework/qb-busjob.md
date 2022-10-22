@@ -1,6 +1,6 @@
 # qbcore-framework/qb-busjob - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 20 | 132 | 
 | 2022-10-20 | 20 | 132 | 
 | 2022-10-19 | 20 | 132 | 
 | 2022-10-18 | 20 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 19 | 133 | 
 | 2022-09-24 | 19 | 133 | 
 | 2022-09-23 | 19 | 133 | 
-| 2022-09-22 | 19 | 134 | 
 

@@ -1,10 +1,10 @@
 # PetoiCamp/OpenCat - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 182
 
-★ Stars: 853
+★ Stars: 855
 
 [Open repository](https://github.com/PetoiCamp/OpenCat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 855 | 182 | 
 | 2022-10-20 | 853 | 182 | 
 | 2022-10-19 | 852 | 182 | 
 | 2022-10-18 | 852 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 834 | 182 | 
 | 2022-09-23 | 834 | 181 | 
 | 2022-09-22 | 834 | 181 | 
-| 2022-09-21 | 833 | 181 | 
 

@@ -1,6 +1,6 @@
 # endofunky/ida-nord-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 73 | 3 | 
 | 2022-10-20 | 73 | 3 | 
 | 2022-10-19 | 73 | 3 | 
 | 2022-10-18 | 73 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 73 | 3 | 
 | 2022-09-24 | 73 | 3 | 
 | 2022-09-23 | 73 | 3 | 
-| 2022-09-22 | 73 | 3 | 
 

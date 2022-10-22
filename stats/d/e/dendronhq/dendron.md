@@ -1,10 +1,10 @@
 # dendronhq/dendron - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 182
+☋ Forks: 181
 
-★ Stars: 4663
+★ Stars: 4670
 
 [Open repository](https://github.com/dendronhq/dendron)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4670 | 181 | 
 | 2022-10-20 | 4663 | 182 | 
 | 2022-10-19 | 4657 | 182 | 
 | 2022-10-18 | 4649 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 4523 | 182 | 
 | 2022-09-23 | 4519 | 182 | 
 | 2022-09-22 | 4518 | 182 | 
-| 2022-09-21 | 4507 | 182 | 
 

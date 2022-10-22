@@ -1,6 +1,6 @@
 # peng-zhihui/HDMI-PI - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 773
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 5036 | 773 | 
 | 2022-10-20 | 5036 | 773 | 
 | 2022-10-19 | 5035 | 773 | 
 | 2022-10-18 | 5034 | 773 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 4992 | 764 | 
 | 2022-09-23 | 4992 | 763 | 
 | 2022-09-22 | 4990 | 763 | 
-| 2022-09-21 | 4990 | 763 | 
 

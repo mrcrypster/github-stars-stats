@@ -1,6 +1,6 @@
 # jwiegley/use-package - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4022 | 252 | 
 | 2022-10-20 | 4022 | 252 | 
 | 2022-10-19 | 4021 | 252 | 
 | 2022-10-18 | 4021 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3992 | 251 | 
 | 2022-09-23 | 3991 | 251 | 
 | 2022-09-22 | 3991 | 251 | 
-| 2022-09-21 | 3991 | 251 | 
 

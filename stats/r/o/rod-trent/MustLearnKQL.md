@@ -1,8 +1,8 @@
 # rod-trent/MustLearnKQL - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 98
+☋ Forks: 97
 
 ★ Stars: 502
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 502 | 97 | 
 | 2022-10-20 | 502 | 98 | 
 | 2022-10-19 | 500 | 97 | 
 | 2022-10-18 | 499 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 483 | 93 | 
 | 2022-09-23 | 483 | 93 | 
 | 2022-09-22 | 482 | 93 | 
-| 2022-09-21 | 481 | 93 | 
 

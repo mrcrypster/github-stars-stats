@@ -1,6 +1,6 @@
 # Wh04m1001/IDiagnosticProfileUAC - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 159 | 25 | 
 | 2022-10-20 | 159 | 25 | 
 | 2022-10-19 | 159 | 25 | 
 | 2022-10-18 | 158 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 155 | 23 | 
 | 2022-09-23 | 155 | 23 | 
 | 2022-09-22 | 155 | 23 | 
-| 2022-09-21 | 154 | 23 | 
 

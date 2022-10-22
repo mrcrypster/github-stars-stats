@@ -1,6 +1,6 @@
 # certifi/erlang-certifi - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 120 | 35 | 
 | 2022-10-20 | 120 | 35 | 
 | 2022-10-19 | 120 | 35 | 
 | 2022-10-18 | 120 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 120 | 35 | 
 | 2022-09-23 | 120 | 35 | 
 | 2022-09-22 | 120 | 35 | 
-| 2022-09-21 | 120 | 35 | 
 

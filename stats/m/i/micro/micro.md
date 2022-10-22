@@ -1,6 +1,6 @@
 # micro/micro - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1001
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 11430 | 1001 | 
 | 2022-10-20 | 11430 | 1001 | 
 | 2022-10-19 | 11428 | 1001 | 
 | 2022-10-18 | 11426 | 1000 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 11313 | 996 | 
 | 2022-09-23 | 11312 | 996 | 
 | 2022-09-22 | 11312 | 996 | 
-| 2022-09-21 | 11312 | 996 | 
 

@@ -1,6 +1,6 @@
 # TauCetiStation/TauCetiClassic - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 366
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 110 | 366 | 
 | 2022-10-20 | 110 | 366 | 
 | 2022-10-19 | 109 | 366 | 
 | 2022-10-18 | 108 | 366 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 106 | 357 | 
 | 2022-09-23 | 106 | 356 | 
 | 2022-09-22 | 106 | 356 | 
-| 2022-09-21 | 106 | 356 | 
 

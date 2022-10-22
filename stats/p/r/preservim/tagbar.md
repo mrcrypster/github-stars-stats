@@ -1,10 +1,10 @@
 # preservim/tagbar - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 482
 
-★ Stars: 5709
+★ Stars: 5713
 
 [Open repository](https://github.com/preservim/tagbar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 5713 | 482 | 
 | 2022-10-20 | 5709 | 482 | 
 | 2022-10-19 | 5708 | 482 | 
 | 2022-10-18 | 5705 | 482 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 5688 | 481 | 
 | 2022-09-23 | 5685 | 481 | 
 | 2022-09-22 | 5684 | 481 | 
-| 2022-09-21 | 5684 | 481 | 
 

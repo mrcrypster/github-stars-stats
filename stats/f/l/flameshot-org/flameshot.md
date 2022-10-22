@@ -1,10 +1,10 @@
 # flameshot-org/flameshot - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1204
+☋ Forks: 1203
 
-★ Stars: 19086
+★ Stars: 19098
 
 [Open repository](https://github.com/flameshot-org/flameshot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 19098 | 1203 | 
 | 2022-10-20 | 19086 | 1204 | 
 | 2022-10-19 | 19076 | 1201 | 
 | 2022-10-18 | 19059 | 1201 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 18821 | 1183 | 
 | 2022-09-23 | 18817 | 1182 | 
 | 2022-09-22 | 18802 | 1179 | 
-| 2022-09-21 | 18797 | 1180 | 
 

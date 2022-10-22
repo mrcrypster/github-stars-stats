@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 21
 
 ☋ Forks: 8
 
-★ Stars: 41
+★ Stars: 44
 
 [Open repository](https://github.com/paxifaer/genetic_algorithm)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-21 | 41 | 8 | 
+| 2022-10-21 | 44 | 8 | 
 | 2022-10-20 | 40 | 8 | 
 

@@ -1,10 +1,10 @@
 # Open-SourceWeb/OpenSourceWeb - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 26
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Open-SourceWeb/OpenSourceWeb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 10 | 26 | 
 | 2022-10-21 | 9 | 26 | 
 | 2022-10-20 | 9 | 26 | 
 | 2022-10-19 | 9 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 8 | 24 | 
 | 2022-09-23 | 8 | 24 | 
 | 2022-09-22 | 8 | 24 | 
-| 2022-09-21 | 8 | 24 | 
 

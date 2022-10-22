@@ -1,8 +1,8 @@
 # cuiocean/ZY-Player-APP - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 149
+☋ Forks: 150
 
 ★ Stars: 725
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 725 | 150 | 
 | 2022-10-20 | 725 | 149 | 
 | 2022-10-19 | 725 | 149 | 
 | 2022-10-18 | 726 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 705 | 142 | 
 | 2022-09-23 | 703 | 142 | 
 | 2022-09-22 | 698 | 142 | 
-| 2022-09-21 | 698 | 141 | 
 

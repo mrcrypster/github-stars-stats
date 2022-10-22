@@ -1,10 +1,10 @@
 # AndrewEllis93/Ellis-PIF-Profile - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 95
 
-★ Stars: 359
+★ Stars: 360
 
 [Open repository](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 360 | 95 | 
 | 2022-10-20 | 359 | 95 | 
 | 2022-10-19 | 359 | 95 | 
 | 2022-10-18 | 358 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 337 | 88 | 
 | 2022-09-23 | 337 | 88 | 
 | 2022-09-22 | 337 | 88 | 
-| 2022-09-21 | 337 | 88 | 
 

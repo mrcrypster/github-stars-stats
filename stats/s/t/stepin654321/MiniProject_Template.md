@@ -1,8 +1,8 @@
 # stepin654321/MiniProject_Template - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 672
+☋ Forks: 671
 
 ★ Stars: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 57 | 671 | 
 | 2022-10-20 | 57 | 672 | 
 | 2022-10-19 | 57 | 672 | 
 | 2022-10-18 | 57 | 672 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 57 | 673 | 
 | 2022-09-23 | 57 | 673 | 
 | 2022-09-22 | 57 | 673 | 
-| 2022-09-21 | 57 | 673 | 
 

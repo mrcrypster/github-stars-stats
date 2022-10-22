@@ -1,8 +1,8 @@
 # secdim/play-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 19
+☋ Forks: 21
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 6 | 21 | 
 | 2022-10-20 | 6 | 19 | 
 | 2022-10-19 | 6 | 19 | 
 | 2022-10-18 | 6 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 6 | 9 | 
 | 2022-09-23 | 6 | 9 | 
 | 2022-09-22 | 5 | 8 | 
-| 2022-09-21 | 5 | 8 | 
 

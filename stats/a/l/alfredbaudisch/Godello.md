@@ -1,10 +1,10 @@
 # alfredbaudisch/Godello - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 38
 
-★ Stars: 551
+★ Stars: 552
 
 [Open repository](https://github.com/alfredbaudisch/Godello)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 552 | 38 | 
 | 2022-10-20 | 551 | 38 | 
 | 2022-10-19 | 551 | 38 | 
 | 2022-10-18 | 550 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 547 | 37 | 
 | 2022-09-23 | 547 | 37 | 
 | 2022-09-22 | 546 | 37 | 
-| 2022-09-21 | 546 | 37 | 
 

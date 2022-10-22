@@ -1,6 +1,6 @@
 # anthonydb/practical-sql - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 568 | 358 | 
 | 2022-10-20 | 568 | 358 | 
 | 2022-10-19 | 568 | 358 | 
 | 2022-10-18 | 568 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 562 | 350 | 
 | 2022-09-23 | 561 | 350 | 
 | 2022-09-22 | 561 | 350 | 
-| 2022-09-21 | 561 | 350 | 
 

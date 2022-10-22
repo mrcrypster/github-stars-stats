@@ -1,8 +1,8 @@
 # rubenlagus/TelegramBots - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 931
+☋ Forks: 930
 
 ★ Stars: 3285
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3285 | 930 | 
 | 2022-10-20 | 3285 | 931 | 
 | 2022-10-19 | 3280 | 929 | 
 | 2022-10-18 | 3277 | 928 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3234 | 915 | 
 | 2022-09-23 | 3235 | 915 | 
 | 2022-09-22 | 3236 | 915 | 
-| 2022-09-21 | 3232 | 915 | 
 

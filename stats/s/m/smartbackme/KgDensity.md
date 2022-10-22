@@ -1,6 +1,6 @@
 # smartbackme/KgDensity - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 59 | - | 
 | 2022-10-20 | 59 | - | 
 | 2022-10-19 | 59 | - | 
 | 2022-10-18 | 59 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 59 | - | 
 | 2022-09-24 | 59 | - | 
 | 2022-09-23 | 59 | - | 
-| 2022-09-22 | 59 | - | 
 

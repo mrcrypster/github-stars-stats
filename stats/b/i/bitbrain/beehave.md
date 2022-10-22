@@ -1,10 +1,10 @@
 # bitbrain/beehave - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 19
 
-★ Stars: 235
+★ Stars: 239
 
 [Open repository](https://github.com/bitbrain/beehave)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 239 | 19 | 
 | 2022-10-20 | 235 | 19 | 
 | 2022-10-19 | 235 | 19 | 
 | 2022-10-18 | 235 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 223 | 19 | 
 | 2022-09-23 | 221 | 19 | 
 | 2022-09-22 | 221 | 19 | 
-| 2022-09-21 | 220 | 19 | 
 

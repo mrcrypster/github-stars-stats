@@ -1,6 +1,6 @@
 # bitlaw-jp/the-constitution-of-japan - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 384 | 7 | 
 | 2022-10-20 | 384 | 7 | 
 | 2022-10-19 | 384 | 7 | 
 | 2022-10-18 | 384 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 385 | 7 | 
 | 2022-09-23 | 385 | 7 | 
 | 2022-09-22 | 385 | 7 | 
-| 2022-09-21 | 385 | 7 | 
 

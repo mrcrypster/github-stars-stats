@@ -1,10 +1,10 @@
 # Tencent/puerts - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 470
 
-★ Stars: 3141
+★ Stars: 3142
 
 [Open repository](https://github.com/Tencent/puerts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3142 | 470 | 
 | 2022-10-20 | 3141 | 470 | 
 | 2022-10-19 | 3141 | 470 | 
 | 2022-10-18 | 3141 | 469 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3069 | 467 | 
 | 2022-09-23 | 3068 | 467 | 
 | 2022-09-22 | 3067 | 467 | 
-| 2022-09-21 | 3067 | 467 | 
 

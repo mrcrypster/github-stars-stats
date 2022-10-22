@@ -1,10 +1,10 @@
 # tiyongliu/keeper - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 75
+★ Stars: 84
 
 [Open repository](https://github.com/tiyongliu/keeper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 84 | 1 | 
 | 2022-10-20 | 75 | 1 | 
 | 2022-10-19 | 75 | 1 | 
 | 2022-10-18 | 73 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 56 | - | 
 | 2022-09-23 | 56 | - | 
 | 2022-09-22 | 56 | - | 
-| 2022-09-21 | 56 | - | 
 

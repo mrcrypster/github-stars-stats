@@ -1,8 +1,8 @@
 # dsasaank-369/Pokemon - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 130
+☋ Forks: 131
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 45 | 131 | 
 | 2022-10-20 | 45 | 130 | 
 | 2022-10-19 | 45 | 130 | 
 | 2022-10-18 | 45 | 127 | 

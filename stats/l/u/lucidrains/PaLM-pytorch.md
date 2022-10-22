@@ -1,6 +1,6 @@
 # lucidrains/PaLM-pytorch - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 432 | 37 | 
 | 2022-10-20 | 432 | 37 | 
 | 2022-10-19 | 430 | 36 | 
 | 2022-10-18 | 429 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 418 | 33 | 
 | 2022-09-23 | 418 | 33 | 
 | 2022-09-22 | 418 | 33 | 
-| 2022-09-21 | 418 | 33 | 
 

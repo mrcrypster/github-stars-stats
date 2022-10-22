@@ -1,10 +1,10 @@
 # Rapptz/discord.py - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 3461
+☋ Forks: 3460
 
-★ Stars: 11631
+★ Stars: 11634
 
 [Open repository](https://github.com/Rapptz/discord.py)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 11634 | 3460 | 
 | 2022-10-20 | 11631 | 3461 | 
 | 2022-10-19 | 11627 | 3462 | 
 | 2022-10-18 | 11622 | 3463 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 11499 | 3445 | 
 | 2022-09-23 | 11498 | 3442 | 
 | 2022-09-22 | 11490 | 3441 | 
-| 2022-09-21 | 11485 | 3440 | 
 

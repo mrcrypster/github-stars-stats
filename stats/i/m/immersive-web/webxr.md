@@ -1,6 +1,6 @@
 # immersive-web/webxr - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 369
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2611 | 369 | 
 | 2022-10-20 | 2611 | 369 | 
 | 2022-10-19 | 2610 | 368 | 
 | 2022-10-18 | 2609 | 368 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 2584 | 366 | 
 | 2022-09-23 | 2581 | 366 | 
 | 2022-09-22 | 2581 | 366 | 
-| 2022-09-21 | 2581 | 366 | 
 

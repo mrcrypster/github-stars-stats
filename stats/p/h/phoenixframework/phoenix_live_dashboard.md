@@ -1,6 +1,6 @@
 # phoenixframework/phoenix_live_dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1764 | 161 | 
 | 2022-10-20 | 1764 | 161 | 
 | 2022-10-19 | 1763 | 161 | 
 | 2022-10-18 | 1763 | 161 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1749 | 157 | 
 | 2022-09-23 | 1749 | 157 | 
 | 2022-09-22 | 1749 | 157 | 
-| 2022-09-21 | 1749 | 157 | 
 

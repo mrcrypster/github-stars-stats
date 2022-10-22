@@ -1,10 +1,10 @@
 # microsoft/SEAL - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 564
 
-★ Stars: 2781
+★ Stars: 2783
 
 [Open repository](https://github.com/microsoft/SEAL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2783 | 564 | 
 | 2022-10-20 | 2781 | 564 | 
 | 2022-10-19 | 2781 | 561 | 
 | 2022-10-18 | 2780 | 559 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 2736 | 551 | 
 | 2022-09-23 | 2736 | 551 | 
 | 2022-09-22 | 2735 | 552 | 
-| 2022-09-21 | 2734 | 552 | 
 

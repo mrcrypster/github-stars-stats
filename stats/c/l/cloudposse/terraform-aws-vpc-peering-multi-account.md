@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-vpc-peering-multi-account - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 93 | 73 | 
 | 2022-10-20 | 93 | 73 | 
 | 2022-10-19 | 93 | 73 | 
 | 2022-10-18 | 93 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 91 | 73 | 
 | 2022-09-23 | 91 | 73 | 
 | 2022-09-22 | 91 | 73 | 
-| 2022-09-21 | 91 | 73 | 
 

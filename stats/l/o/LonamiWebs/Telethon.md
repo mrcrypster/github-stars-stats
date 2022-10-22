@@ -1,10 +1,10 @@
 # LonamiWebs/Telethon - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1196
+☋ Forks: 1195
 
-★ Stars: 7008
+★ Stars: 7009
 
 [Open repository](https://github.com/LonamiWebs/Telethon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 7009 | 1195 | 
 | 2022-10-20 | 7008 | 1196 | 
 | 2022-10-19 | 7003 | 1196 | 
 | 2022-10-18 | 7000 | 1195 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 6904 | 1190 | 
 | 2022-09-23 | 6897 | 1190 | 
 | 2022-09-22 | 6893 | 1191 | 
-| 2022-09-21 | 6889 | 1190 | 
 

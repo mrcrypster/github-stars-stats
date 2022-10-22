@@ -1,10 +1,10 @@
 # code-kern-ai/refinery - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 1012
+★ Stars: 1020
 
 [Open repository](https://github.com/code-kern-ai/refinery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1020 | 37 | 
 | 2022-10-20 | 1012 | 36 | 
 | 2022-10-19 | 1012 | 36 | 
 | 2022-10-18 | 1011 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 967 | 31 | 
 | 2022-09-23 | 967 | 31 | 
 | 2022-09-22 | 965 | 31 | 
-| 2022-09-21 | 961 | 31 | 
 

@@ -1,10 +1,10 @@
 # microsoft/go - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/microsoft/go)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 37 | 6 | 
 | 2022-10-20 | 36 | 5 | 
 | 2022-10-19 | 36 | 5 | 
 | 2022-10-18 | 36 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 34 | 4 | 
 | 2022-09-23 | 34 | 4 | 
 | 2022-09-22 | 34 | 4 | 
-| 2022-09-21 | 34 | 4 | 
 

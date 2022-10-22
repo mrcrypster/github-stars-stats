@@ -1,6 +1,6 @@
 # input-output-hk/cardano-graphql - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 240 | 95 | 
 | 2022-10-20 | 240 | 95 | 
 | 2022-10-19 | 239 | 95 | 
 | 2022-10-18 | 239 | 95 | 

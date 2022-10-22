@@ -1,10 +1,10 @@
 # qazbnm456/awesome-web-security - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1495
+☋ Forks: 1496
 
-★ Stars: 8810
+★ Stars: 8812
 
 [Open repository](https://github.com/qazbnm456/awesome-web-security)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 8812 | 1496 | 
 | 2022-10-20 | 8810 | 1495 | 
 | 2022-10-19 | 8808 | 1494 | 
 | 2022-10-18 | 8803 | 1494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 8686 | 1484 | 
 | 2022-09-23 | 8682 | 1483 | 
 | 2022-09-22 | 8676 | 1482 | 
-| 2022-09-21 | 8671 | 1482 | 
 

@@ -1,6 +1,6 @@
 # Vexu/bog - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 180 | 4 | 
 | 2022-10-20 | 180 | 4 | 
 | 2022-10-19 | 180 | 4 | 
 | 2022-10-18 | 180 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 174 | 4 | 
 | 2022-09-23 | 174 | 4 | 
 | 2022-09-22 | 174 | 4 | 
-| 2022-09-21 | 174 | 4 | 
 

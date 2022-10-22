@@ -1,10 +1,10 @@
 # Sorenon/MCXR - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 38
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/Sorenon/MCXR)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 316 | 38 | 
 | 2022-10-20 | 315 | 38 | 
 | 2022-10-19 | 314 | 38 | 
 | 2022-10-18 | 313 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 313 | 39 | 
 | 2022-09-23 | 312 | 39 | 
 | 2022-09-22 | 312 | 39 | 
-| 2022-09-21 | 312 | 39 | 
 

@@ -1,6 +1,6 @@
 # eduNEXT/tutor-contrib-codejail - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | - | 5 | 
 | 2022-10-20 | - | 5 | 
 | 2022-10-19 | - | 5 | 
 | 2022-10-18 | - | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | - | 5 | 
 | 2022-09-23 | - | 5 | 
 | 2022-09-22 | - | 5 | 
-| 2022-09-21 | - | 5 | 
 

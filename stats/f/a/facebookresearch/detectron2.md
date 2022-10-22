@@ -1,10 +1,10 @@
 # facebookresearch/detectron2 - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 6124
+☋ Forks: 6126
 
-★ Stars: 22583
+★ Stars: 22602
 
 [Open repository](https://github.com/facebookresearch/detectron2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 22602 | 6126 | 
 | 2022-10-20 | 22583 | 6124 | 
 | 2022-10-19 | 22568 | 6121 | 
 | 2022-10-18 | 22557 | 6122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 22331 | 6047 | 
 | 2022-09-23 | 22321 | 6043 | 
 | 2022-09-22 | 22304 | 6039 | 
-| 2022-09-21 | 22297 | 6038 | 
 

@@ -1,6 +1,6 @@
 # TeslaFly01/SmartSqlT - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 114 | 16 | 
 | 2022-10-20 | 114 | 16 | 
 | 2022-10-19 | 113 | 16 | 
 | 2022-10-18 | 112 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 106 | 15 | 
 | 2022-09-23 | 106 | 15 | 
 | 2022-09-22 | 106 | 15 | 
-| 2022-09-21 | 105 | 16 | 
 

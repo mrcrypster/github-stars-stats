@@ -1,6 +1,6 @@
 # zeyangli/jenkinslibrary - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 262
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 121 | 262 | 
 | 2022-10-21 | 121 | 262 | 
 | 2022-10-20 | 121 | 262 | 
 | 2022-10-19 | 121 | 262 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 121 | 259 | 
 | 2022-09-23 | 121 | 258 | 
 | 2022-09-22 | 121 | 258 | 
-| 2022-09-21 | 121 | 258 | 
 

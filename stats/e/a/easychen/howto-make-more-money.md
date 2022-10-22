@@ -1,10 +1,10 @@
 # easychen/howto-make-more-money - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1658
 
-★ Stars: 15733
+★ Stars: 15735
 
 [Open repository](https://github.com/easychen/howto-make-more-money)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 15735 | 1658 | 
 | 2022-10-20 | 15733 | 1658 | 
 | 2022-10-19 | 15733 | 1658 | 
 | 2022-10-18 | 15728 | 1658 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 15684 | 1657 | 
 | 2022-09-23 | 15683 | 1657 | 
 | 2022-09-22 | 15682 | 1657 | 
-| 2022-09-21 | 15680 | 1656 | 
 

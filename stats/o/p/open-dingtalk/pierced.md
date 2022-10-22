@@ -1,10 +1,10 @@
 # open-dingtalk/pierced - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 725
 
-★ Stars: 2104
+★ Stars: 2103
 
 [Open repository](https://github.com/open-dingtalk/pierced)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2103 | 725 | 
 | 2022-10-20 | 2104 | 725 | 
 | 2022-10-19 | 2103 | 724 | 
 | 2022-10-18 | 2102 | 723 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 2086 | 722 | 
 | 2022-09-23 | 2086 | 722 | 
 | 2022-09-22 | 2083 | 720 | 
-| 2022-09-21 | 2081 | 720 | 
 

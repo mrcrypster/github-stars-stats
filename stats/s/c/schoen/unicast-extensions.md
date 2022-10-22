@@ -1,10 +1,10 @@
 # schoen/unicast-extensions - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 9
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/schoen/unicast-extensions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 148 | 9 | 
 | 2022-10-20 | 147 | 9 | 
 | 2022-10-19 | 147 | 9 | 
 | 2022-10-18 | 147 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 148 | 9 | 
 | 2022-09-23 | 148 | 9 | 
 | 2022-09-22 | 148 | 9 | 
-| 2022-09-21 | 147 | 9 | 
 

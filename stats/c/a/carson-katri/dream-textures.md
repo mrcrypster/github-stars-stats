@@ -1,10 +1,10 @@
 # carson-katri/dream-textures - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 3239
+★ Stars: 3262
 
 [Open repository](https://github.com/carson-katri/dream-textures)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3262 | 146 | 
 | 2022-10-20 | 3239 | 145 | 
 | 2022-10-19 | 3215 | 143 | 
 | 2022-10-18 | 3200 | 142 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 2323 | 94 | 
 | 2022-09-23 | 2145 | 83 | 
 | 2022-09-22 | 2084 | 81 | 
-| 2022-09-21 | 1892 | 63 | 
 

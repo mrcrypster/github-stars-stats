@@ -1,10 +1,10 @@
 # OpenDroneMap/WebODM - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 741
 
-★ Stars: 1996
+★ Stars: 1997
 
 [Open repository](https://github.com/OpenDroneMap/WebODM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1997 | 741 | 
 | 2022-10-21 | 1996 | 741 | 
 | 2022-10-20 | 1995 | 741 | 
 | 2022-10-19 | 1994 | 739 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 1970 | 729 | 
 | 2022-09-23 | 1970 | 728 | 
 | 2022-09-22 | 1970 | 728 | 
-| 2022-09-21 | 1970 | 727 | 
 

@@ -1,8 +1,8 @@
 # Azure-Samples/aks-api-server-vnet-integration-bicep - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4 | 2 | 
 | 2022-10-20 | 4 | 1 | 
 | 2022-10-19 | 4 | 1 | 
 | 2022-10-18 | 4 | 1 | 

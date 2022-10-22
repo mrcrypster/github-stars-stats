@@ -1,10 +1,10 @@
 # jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 245
 
-★ Stars: 982
+★ Stars: 983
 
 [Open repository](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 983 | 245 | 
 | 2022-10-20 | 982 | 245 | 
 | 2022-10-19 | 982 | 245 | 
 | 2022-10-18 | 982 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 973 | 241 | 
 | 2022-09-23 | 973 | 241 | 
 | 2022-09-22 | 972 | 241 | 
-| 2022-09-21 | 971 | 241 | 
 

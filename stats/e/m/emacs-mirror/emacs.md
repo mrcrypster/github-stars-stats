@@ -1,10 +1,10 @@
 # emacs-mirror/emacs - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1110
+☋ Forks: 1111
 
-★ Stars: 3628
+★ Stars: 3631
 
 [Open repository](https://github.com/emacs-mirror/emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3631 | 1111 | 
 | 2022-10-20 | 3628 | 1110 | 
 | 2022-10-19 | 3626 | 1107 | 
 | 2022-10-18 | 3627 | 1105 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3605 | 1096 | 
 | 2022-09-23 | 3605 | 1095 | 
 | 2022-09-22 | 3604 | 1094 | 
-| 2022-09-21 | 3604 | 1094 | 
 

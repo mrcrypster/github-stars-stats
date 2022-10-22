@@ -1,10 +1,10 @@
 # rvaiya/warpd - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 60
+☋ Forks: 63
 
-★ Stars: 1697
+★ Stars: 1711
 
 [Open repository](https://github.com/rvaiya/warpd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1711 | 63 | 
 | 2022-10-20 | 1697 | 60 | 
 | 2022-10-19 | 1690 | 59 | 
 | 2022-10-18 | 1684 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 1058 | 38 | 
 | 2022-09-24 | 1058 | 38 | 
 | 2022-09-23 | 1057 | 38 | 
-| 2022-09-22 | 1057 | 38 | 
 

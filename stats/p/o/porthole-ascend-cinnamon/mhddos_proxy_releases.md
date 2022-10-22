@@ -1,10 +1,10 @@
 # porthole-ascend-cinnamon/mhddos_proxy_releases - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 8
 
-★ Stars: 44
+★ Stars: 46
 
 [Open repository](https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 46 | 8 | 
 | 2022-10-20 | 44 | 8 | 
 | 2022-10-19 | 44 | 8 | 
 | 2022-10-18 | 43 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 37 | 8 | 
 | 2022-09-23 | 37 | 7 | 
 | 2022-09-22 | 37 | 7 | 
-| 2022-09-21 | 37 | 7 | 
 

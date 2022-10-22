@@ -1,10 +1,10 @@
 # bedimcode/responsive-404-page - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/bedimcode/responsive-404-page)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 64 | 25 | 
 | 2022-10-21 | 63 | 25 | 
 | 2022-10-20 | 63 | 25 | 
 | 2022-10-19 | 63 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 58 | 23 | 
 | 2022-09-23 | 58 | 23 | 
 | 2022-09-22 | 57 | 22 | 
-| 2022-09-21 | 56 | 22 | 
 

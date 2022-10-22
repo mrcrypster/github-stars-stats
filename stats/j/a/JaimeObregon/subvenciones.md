@@ -1,6 +1,6 @@
 # JaimeObregon/subvenciones - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 223 | 60 | 
 | 2022-10-20 | 223 | 60 | 
 | 2022-10-19 | 223 | 60 | 
 | 2022-10-18 | 223 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 223 | 60 | 
 | 2022-09-23 | 223 | 60 | 
 | 2022-09-22 | 222 | 60 | 
-| 2022-09-21 | 222 | 60 | 
 

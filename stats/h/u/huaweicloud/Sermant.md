@@ -1,10 +1,10 @@
 # huaweicloud/Sermant - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 79
 
-★ Stars: 230
+★ Stars: 250
 
 [Open repository](https://github.com/huaweicloud/Sermant)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 250 | 79 | 
 | 2022-10-20 | 230 | 79 | 
 | 2022-10-19 | 227 | 79 | 
 | 2022-10-18 | 224 | 79 | 

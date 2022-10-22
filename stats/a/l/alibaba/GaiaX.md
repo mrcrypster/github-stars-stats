@@ -1,10 +1,10 @@
 # alibaba/GaiaX - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 73
+☋ Forks: 74
 
-★ Stars: 678
+★ Stars: 684
 
 [Open repository](https://github.com/alibaba/GaiaX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 684 | 74 | 
 | 2022-10-21 | 678 | 73 | 
 | 2022-10-19 | 677 | 73 | 
 | 2022-10-18 | 675 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 666 | 71 | 
 | 2022-09-23 | 665 | 71 | 
 | 2022-09-22 | 664 | 71 | 
-| 2022-09-21 | 664 | 71 | 
 

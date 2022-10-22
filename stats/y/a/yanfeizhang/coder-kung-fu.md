@@ -1,10 +1,10 @@
 # yanfeizhang/coder-kung-fu - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 695
 
-★ Stars: 4209
+★ Stars: 4216
 
 [Open repository](https://github.com/yanfeizhang/coder-kung-fu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4216 | 695 | 
 | 2022-10-20 | 4209 | 695 | 
 | 2022-10-19 | 4206 | 695 | 
 | 2022-10-18 | 4205 | 695 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 4126 | 680 | 
 | 2022-09-23 | 4123 | 680 | 
 | 2022-09-22 | 4115 | 679 | 
-| 2022-09-21 | 4111 | 678 | 
 

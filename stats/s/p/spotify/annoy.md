@@ -1,10 +1,10 @@
 # spotify/annoy - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1057
 
-★ Stars: 10398
+★ Stars: 10400
 
 [Open repository](https://github.com/spotify/annoy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 10400 | 1057 | 
 | 2022-10-20 | 10398 | 1057 | 
 | 2022-10-19 | 10394 | 1056 | 
 | 2022-10-18 | 10391 | 1055 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 10296 | 1050 | 
 | 2022-09-23 | 10294 | 1051 | 
 | 2022-09-22 | 10290 | 1051 | 
-| 2022-09-21 | 10287 | 1051 | 
 

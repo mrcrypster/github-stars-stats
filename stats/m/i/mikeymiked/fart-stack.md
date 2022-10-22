@@ -1,6 +1,6 @@
 # mikeymiked/fart-stack - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 37 | - | 
 | 2022-10-20 | 37 | - | 
 | 2022-10-19 | 37 | - | 
 | 2022-10-18 | 37 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 37 | - | 
 | 2022-09-23 | 37 | - | 
 | 2022-09-22 | 37 | - | 
-| 2022-09-21 | 37 | - | 
 

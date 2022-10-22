@@ -1,10 +1,10 @@
 # CMU-Perceptual-Computing-Lab/openpose - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 7342
+☋ Forks: 7341
 
-★ Stars: 25164
+★ Stars: 25168
 
 [Open repository](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 25168 | 7341 | 
 | 2022-10-20 | 25164 | 7342 | 
 | 2022-10-19 | 25158 | 7342 | 
 | 2022-10-18 | 25140 | 7341 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 24961 | 7300 | 
 | 2022-09-23 | 24956 | 7300 | 
 | 2022-09-22 | 24952 | 7298 | 
-| 2022-09-21 | 24943 | 7296 | 
 

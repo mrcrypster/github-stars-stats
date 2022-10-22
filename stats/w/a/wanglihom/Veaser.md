@@ -1,6 +1,6 @@
 # wanglihom/Veaser - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 27 | - | 
 | 2022-10-21 | 27 | - | 
 | 2022-10-20 | 27 | - | 
 | 2022-10-19 | 27 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 116 | - | 
 | 2022-09-23 | 117 | - | 
 | 2022-09-22 | 118 | - | 
-| 2022-09-21 | 118 | - | 
 

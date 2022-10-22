@@ -1,6 +1,6 @@
 # TykTechnologies/tyk - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 949
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 7826 | 949 | 
 | 2022-10-20 | 7826 | 949 | 
 | 2022-10-19 | 7823 | 949 | 
 | 2022-10-18 | 7823 | 948 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 7748 | 939 | 
 | 2022-09-23 | 7747 | 939 | 
 | 2022-09-22 | 7746 | 940 | 
-| 2022-09-21 | 7745 | 940 | 
 

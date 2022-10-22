@@ -1,10 +1,10 @@
 # bes-dev/stable_diffusion.openvino - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 132
 
-★ Stars: 1048
+★ Stars: 1051
 
 [Open repository](https://github.com/bes-dev/stable_diffusion.openvino)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1051 | 132 | 
 | 2022-10-20 | 1048 | 132 | 
 | 2022-10-19 | 1047 | 132 | 
 | 2022-10-18 | 1045 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 944 | 112 | 
 | 2022-09-23 | 944 | 110 | 
 | 2022-09-22 | 940 | 110 | 
-| 2022-09-21 | 937 | 110 | 
 

@@ -1,10 +1,10 @@
 # pyjarrett/septum - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 5
 
-★ Stars: 347
+★ Stars: 348
 
 [Open repository](https://github.com/pyjarrett/septum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 348 | 5 | 
 | 2022-10-20 | 347 | 5 | 
 | 2022-10-19 | 347 | 5 | 
 | 2022-10-18 | 347 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 345 | 5 | 
 | 2022-09-23 | 345 | 5 | 
 | 2022-09-22 | 345 | 5 | 
-| 2022-09-21 | 345 | 5 | 
 

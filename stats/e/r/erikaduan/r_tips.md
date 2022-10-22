@@ -1,10 +1,10 @@
 # erikaduan/r_tips - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 110
+☋ Forks: 109
 
-★ Stars: 335
+★ Stars: 337
 
 [Open repository](https://github.com/erikaduan/r_tips)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 337 | 109 | 
 | 2022-10-20 | 335 | 110 | 
 | 2022-10-19 | 333 | 109 | 
 | 2022-10-18 | 333 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 310 | 104 | 
 | 2022-09-23 | 310 | 104 | 
 | 2022-09-22 | 310 | 104 | 
-| 2022-09-21 | 310 | 104 | 
 

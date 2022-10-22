@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 21
 
-☋ Forks: 40
+☋ Forks: 52
 
-★ Stars: 146
+★ Stars: 251
 
 [Open repository](https://github.com/nihaojob/vue-fabric-editor)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-21 | 146 | 40 | 
+| 2022-10-21 | 251 | 52 | 
 | 2022-10-20 | 145 | 40 | 
 | 2022-10-19 | 136 | 39 | 
 | 2022-10-18 | 111 | 34 | 

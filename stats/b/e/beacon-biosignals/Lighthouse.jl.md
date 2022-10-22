@@ -1,6 +1,6 @@
 # beacon-biosignals/Lighthouse.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 8 | 2 | 
 | 2022-10-20 | 8 | 2 | 
 | 2022-10-19 | 8 | 2 | 
 | 2022-10-18 | 8 | 2 | 

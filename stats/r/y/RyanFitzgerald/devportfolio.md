@@ -1,10 +1,10 @@
 # RyanFitzgerald/devportfolio - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 2673
 
-★ Stars: 3880
+★ Stars: 3881
 
 [Open repository](https://github.com/RyanFitzgerald/devportfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3881 | 2673 | 
 | 2022-10-20 | 3880 | 2673 | 
 | 2022-10-19 | 3879 | 2669 | 
 | 2022-10-18 | 3878 | 2666 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3847 | 2615 | 
 | 2022-09-23 | 3847 | 2615 | 
 | 2022-09-22 | 3845 | 2612 | 
-| 2022-09-21 | 3844 | 2611 | 
 

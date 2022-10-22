@@ -1,10 +1,10 @@
 # navidrome/navidrome - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 442
 
-★ Stars: 4962
+★ Stars: 4969
 
 [Open repository](https://github.com/navidrome/navidrome)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4969 | 442 | 
 | 2022-10-20 | 4962 | 442 | 
 | 2022-10-19 | 4955 | 442 | 
 | 2022-10-18 | 4948 | 442 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 4693 | 425 | 
 | 2022-09-23 | 4685 | 425 | 
 | 2022-09-22 | 4678 | 424 | 
-| 2022-09-21 | 4673 | 424 | 
 

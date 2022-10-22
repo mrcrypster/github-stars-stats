@@ -1,6 +1,6 @@
 # Junehck/SQL-injection-bypass - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 429 | 57 | 
 | 2022-10-20 | 429 | 57 | 
 | 2022-10-19 | 429 | 57 | 
 | 2022-10-18 | 428 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 414 | 58 | 
 | 2022-09-24 | 414 | 58 | 
 | 2022-09-23 | 412 | 58 | 
-| 2022-09-22 | 410 | 58 | 
 

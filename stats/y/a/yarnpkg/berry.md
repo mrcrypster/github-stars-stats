@@ -1,10 +1,10 @@
 # yarnpkg/berry - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 876
+☋ Forks: 880
 
-★ Stars: 5629
+★ Stars: 5635
 
 [Open repository](https://github.com/yarnpkg/berry)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 5635 | 880 | 
 | 2022-10-20 | 5629 | 876 | 
 | 2022-10-19 | 5626 | 875 | 
 | 2022-10-18 | 5622 | 873 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 5548 | 862 | 
 | 2022-09-23 | 5543 | 863 | 
 | 2022-09-22 | 5543 | 863 | 
-| 2022-09-21 | 5538 | 863 | 
 

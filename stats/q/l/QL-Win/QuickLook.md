@@ -1,10 +1,10 @@
 # QL-Win/QuickLook - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 901
+☋ Forks: 902
 
-★ Stars: 12523
+★ Stars: 12527
 
 [Open repository](https://github.com/QL-Win/QuickLook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 12527 | 902 | 
 | 2022-10-20 | 12523 | 901 | 
 | 2022-10-19 | 12512 | 901 | 
 | 2022-10-18 | 12505 | 898 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 12368 | 892 | 
 | 2022-09-23 | 12364 | 892 | 
 | 2022-09-22 | 12353 | 892 | 
-| 2022-09-21 | 12346 | 892 | 
 

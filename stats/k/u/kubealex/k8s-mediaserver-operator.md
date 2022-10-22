@@ -1,6 +1,6 @@
 # kubealex/k8s-mediaserver-operator - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 327 | 40 | 
 | 2022-10-20 | 327 | 40 | 
 | 2022-10-19 | 327 | 40 | 
 | 2022-10-18 | 327 | 40 | 

@@ -1,10 +1,10 @@
 # evanw/esbuild - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 919
 
-★ Stars: 33633
+★ Stars: 33642
 
 [Open repository](https://github.com/evanw/esbuild)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 33642 | 919 | 
 | 2022-10-20 | 33633 | 919 | 
 | 2022-10-19 | 33612 | 917 | 
 | 2022-10-18 | 33595 | 915 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 33346 | 908 | 
 | 2022-09-23 | 33334 | 908 | 
 | 2022-09-22 | 33301 | 907 | 
-| 2022-09-21 | 33285 | 905 | 
 

@@ -1,6 +1,6 @@
 # JosefNemec/Playnite - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 352
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 4529 | 352 | 
 | 2022-10-20 | 4529 | 352 | 
 | 2022-10-19 | 4529 | 352 | 
 | 2022-10-18 | 4527 | 351 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 4437 | 344 | 
 | 2022-09-23 | 4436 | 344 | 
 | 2022-09-22 | 4430 | 343 | 
-| 2022-09-21 | 4429 | 343 | 
 

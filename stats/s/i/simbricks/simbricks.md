@@ -1,10 +1,10 @@
 # simbricks/simbricks - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/simbricks/simbricks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 30 | 5 | 
 | 2022-10-20 | 29 | 4 | 
 | 2022-10-19 | 29 | 4 | 
 | 2022-10-18 | 29 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 26 | 4 | 
 | 2022-09-23 | 25 | 4 | 
 | 2022-09-22 | 25 | 4 | 
-| 2022-09-21 | 25 | 4 | 
 

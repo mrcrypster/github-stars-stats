@@ -1,8 +1,8 @@
 # keijiro/TestbedHDRP - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 147
+☋ Forks: 146
 
 ★ Stars: 1088
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1088 | 146 | 
 | 2022-10-20 | 1088 | 147 | 
 | 2022-10-19 | 1089 | 147 | 
 | 2022-10-18 | 1088 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1077 | 147 | 
 | 2022-09-23 | 1076 | 147 | 
 | 2022-09-22 | 1076 | 147 | 
-| 2022-09-21 | 1076 | 147 | 
 

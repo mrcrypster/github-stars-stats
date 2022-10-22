@@ -1,10 +1,10 @@
 # wurstmeister/kafka-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 2676
 
-★ Stars: 6367
+★ Stars: 6369
 
 [Open repository](https://github.com/wurstmeister/kafka-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 6369 | 2676 | 
 | 2022-10-20 | 6367 | 2676 | 
 | 2022-10-19 | 6365 | 2676 | 
 | 2022-10-18 | 6363 | 2676 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 6333 | 2673 | 
 | 2022-09-23 | 6332 | 2672 | 
 | 2022-09-22 | 6329 | 2672 | 
-| 2022-09-21 | 6327 | 2673 | 
 

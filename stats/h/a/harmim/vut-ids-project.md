@@ -1,6 +1,6 @@
 # harmim/vut-ids-project - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | - | 4 | 
 | 2022-10-21 | - | 4 | 
 | 2022-10-20 | - | 4 | 
 | 2022-10-19 | - | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | - | 5 | 
 | 2022-09-23 | - | 5 | 
 | 2022-09-22 | - | 5 | 
-| 2022-09-21 | - | 5 | 
 

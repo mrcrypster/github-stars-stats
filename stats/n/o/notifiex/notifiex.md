@@ -1,6 +1,6 @@
 # notifiex/notifiex - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 50 | 4 | 
 | 2022-10-20 | 50 | 4 | 
 | 2022-10-19 | 50 | 4 | 
 | 2022-10-18 | 50 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 50 | 4 | 
 | 2022-09-24 | 50 | 4 | 
 | 2022-09-22 | 49 | 3 | 
-| 2022-09-21 | 49 | 3 | 
 

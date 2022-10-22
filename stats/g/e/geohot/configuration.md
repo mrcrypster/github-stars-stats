@@ -1,6 +1,6 @@
 # geohot/configuration - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 332 | 95 | 
 | 2022-10-20 | 332 | 95 | 
 | 2022-10-19 | 332 | 95 | 
 | 2022-10-18 | 332 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 331 | 96 | 
 | 2022-09-24 | 331 | 96 | 
 | 2022-09-23 | 331 | 96 | 
-| 2022-09-22 | 330 | 96 | 
 

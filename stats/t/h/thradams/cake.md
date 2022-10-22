@@ -1,6 +1,6 @@
 # thradams/cake - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 340 | 11 | 
 | 2022-10-20 | 340 | 11 | 
 | 2022-10-19 | 340 | 11 | 
 | 2022-10-18 | 339 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 310 | 11 | 
 | 2022-09-23 | 308 | 11 | 
 | 2022-09-22 | 308 | 11 | 
-| 2022-09-21 | 307 | 11 | 
 

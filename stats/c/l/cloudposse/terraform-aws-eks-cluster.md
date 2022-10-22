@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-eks-cluster - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 290
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 414 | 290 | 
 | 2022-10-20 | 414 | 290 | 
 | 2022-10-19 | 414 | 289 | 
 | 2022-10-18 | 414 | 289 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 411 | 287 | 
 | 2022-09-23 | 410 | 287 | 
 | 2022-09-22 | 410 | 287 | 
-| 2022-09-21 | 410 | 286 | 
 

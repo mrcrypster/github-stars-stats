@@ -1,6 +1,6 @@
 # haesleinhuepf/BioImageAnalysisNotebooks - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 35 | 11 | 
 | 2022-10-20 | 35 | 11 | 
 | 2022-10-19 | 35 | 11 | 
 | 2022-10-18 | 35 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 34 | 11 | 
 | 2022-09-24 | 34 | 11 | 
 | 2022-09-23 | 34 | 11 | 
-| 2022-09-22 | 34 | 11 | 
 

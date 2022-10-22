@@ -1,10 +1,10 @@
 # actions/upload-artifact - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 435
+☋ Forks: 437
 
-★ Stars: 1888
+★ Stars: 1896
 
 [Open repository](https://github.com/actions/upload-artifact)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1896 | 437 | 
 | 2022-10-20 | 1888 | 435 | 
 | 2022-10-19 | 1885 | 433 | 
 | 2022-10-18 | 1884 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1830 | 419 | 
 | 2022-09-23 | 1829 | 419 | 
 | 2022-09-22 | 1825 | 418 | 
-| 2022-09-21 | 1818 | 418 | 
 

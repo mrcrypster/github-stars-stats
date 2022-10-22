@@ -1,6 +1,6 @@
 # pnu-edward/2022_unix_github_start - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | - | 23 | 
 | 2022-10-20 | - | 23 | 
 | 2022-10-19 | - | 23 | 
 | 2022-10-18 | - | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | - | 24 | 
 | 2022-09-23 | - | 24 | 
 | 2022-09-22 | - | 24 | 
-| 2022-09-21 | - | 24 | 
 

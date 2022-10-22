@@ -1,6 +1,6 @@
 # samsface/godot-pokemon - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 31 | 2 | 
 | 2022-10-20 | 31 | 2 | 
 | 2022-10-19 | 30 | 2 | 
 | 2022-10-18 | 30 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 29 | 2 | 
 | 2022-09-24 | 29 | 2 | 
 | 2022-09-23 | 29 | 2 | 
-| 2022-09-22 | 29 | 2 | 
 

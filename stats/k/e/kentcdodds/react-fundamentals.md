@@ -1,6 +1,6 @@
 # kentcdodds/react-fundamentals - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 2637
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4385 | 2637 | 
 | 2022-10-20 | 4385 | 2637 | 
 | 2022-10-19 | 4384 | 2635 | 
 | 2022-10-18 | 4383 | 2634 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 4308 | 2565 | 
 | 2022-09-23 | 4304 | 2563 | 
 | 2022-09-22 | 4297 | 2561 | 
-| 2022-09-21 | 4292 | 2560 | 
 

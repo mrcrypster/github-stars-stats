@@ -1,10 +1,10 @@
 # chn-sunch/flutter_mycommunity_app - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 47
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/chn-sunch/flutter_mycommunity_app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 172 | 47 | 
 | 2022-10-20 | 171 | 47 | 
 | 2022-10-19 | 171 | 47 | 
 | 2022-10-18 | 170 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 159 | 42 | 
 | 2022-09-24 | 159 | 42 | 
 | 2022-09-23 | 159 | 42 | 
-| 2022-09-22 | 158 | 42 | 
 

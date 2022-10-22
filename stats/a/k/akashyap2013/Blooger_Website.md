@@ -1,10 +1,10 @@
 # akashyap2013/Blooger_Website - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 580
+☋ Forks: 581
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/akashyap2013/Blooger_Website)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 375 | 581 | 
 | 2022-10-20 | 374 | 580 | 
 | 2022-10-19 | 374 | 580 | 
 | 2022-10-18 | 374 | 580 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 369 | 579 | 
 | 2022-09-23 | 369 | 579 | 
 | 2022-09-22 | 369 | 579 | 
-| 2022-09-21 | 369 | 579 | 
 

@@ -1,8 +1,8 @@
 # Titanium-Network/Incognito - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 100
+☋ Forks: 105
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3 | 105 | 
 | 2022-10-20 | 3 | 100 | 
 | 2022-10-19 | 3 | 98 | 
 | 2022-10-18 | 3 | 94 | 

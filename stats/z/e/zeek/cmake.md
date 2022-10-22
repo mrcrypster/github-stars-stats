@@ -1,6 +1,6 @@
 # zeek/cmake - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 39 | 56 | 
 | 2022-10-20 | 39 | 56 | 
 | 2022-10-19 | 39 | 56 | 
 | 2022-10-18 | 39 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 39 | 52 | 
 | 2022-09-23 | 39 | 52 | 
 | 2022-09-22 | 39 | 52 | 
-| 2022-09-21 | 39 | 52 | 
 

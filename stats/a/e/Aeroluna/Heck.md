@@ -1,10 +1,10 @@
 # Aeroluna/Heck - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 21
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/Aeroluna/Heck)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 111 | 21 | 
 | 2022-10-20 | 110 | 21 | 
 | 2022-10-19 | 108 | 21 | 
 | 2022-10-18 | 108 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 93 | 21 | 
 | 2022-09-23 | 93 | 21 | 
 | 2022-09-22 | 93 | 21 | 
-| 2022-09-21 | 93 | 20 | 
 

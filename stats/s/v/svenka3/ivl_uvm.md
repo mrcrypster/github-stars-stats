@@ -1,6 +1,6 @@
 # svenka3/ivl_uvm - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 17 | 39 | 
 | 2022-10-20 | 17 | 39 | 
 | 2022-10-19 | 17 | 39 | 
 | 2022-10-18 | 17 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 17 | 39 | 
 | 2022-09-24 | 17 | 39 | 
 | 2022-09-23 | 17 | 39 | 
-| 2022-09-22 | 17 | 39 | 
 

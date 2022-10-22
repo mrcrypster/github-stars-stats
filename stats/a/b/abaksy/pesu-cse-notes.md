@@ -1,10 +1,10 @@
 # abaksy/pesu-cse-notes - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 13
 
-★ Stars: 129
+★ Stars: 128
 
 [Open repository](https://github.com/abaksy/pesu-cse-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 128 | 13 | 
 | 2022-10-20 | 129 | 13 | 
 | 2022-10-19 | 129 | 13 | 
 | 2022-10-18 | 128 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 122 | 11 | 
 | 2022-09-23 | 122 | 11 | 
 | 2022-09-22 | 121 | 11 | 
-| 2022-09-21 | 121 | 11 | 
 

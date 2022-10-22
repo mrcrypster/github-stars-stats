@@ -1,10 +1,10 @@
 # hrzndhrn/recode - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 3
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/hrzndhrn/recode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 85 | 3 | 
 | 2022-10-20 | 84 | 3 | 
 | 2022-10-19 | 84 | 3 | 
 | 2022-10-18 | 84 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 74 | 3 | 
 | 2022-09-24 | 74 | 3 | 
 | 2022-09-23 | 74 | 3 | 
-| 2022-09-22 | 74 | 3 | 
 

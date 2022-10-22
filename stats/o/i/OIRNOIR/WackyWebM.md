@@ -1,10 +1,10 @@
 # OIRNOIR/WackyWebM - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 62
 
-★ Stars: 529
+★ Stars: 531
 
 [Open repository](https://github.com/OIRNOIR/WackyWebM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 531 | 62 | 
 | 2022-10-21 | 529 | 62 | 
 | 2022-10-20 | 528 | 62 | 
 | 2022-10-19 | 528 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 510 | 62 | 
 | 2022-09-23 | 510 | 62 | 
 | 2022-09-22 | 509 | 62 | 
-| 2022-09-21 | 508 | 61 | 
 

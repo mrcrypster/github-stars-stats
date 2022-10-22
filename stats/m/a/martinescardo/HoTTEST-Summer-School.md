@@ -1,6 +1,6 @@
 # martinescardo/HoTTEST-Summer-School - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 182 | 49 | 
 | 2022-10-20 | 182 | 49 | 
 | 2022-10-19 | 181 | 49 | 
 | 2022-10-18 | 181 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 174 | 47 | 
 | 2022-09-24 | 174 | 47 | 
 | 2022-09-23 | 172 | 47 | 
-| 2022-09-22 | 171 | 47 | 
 

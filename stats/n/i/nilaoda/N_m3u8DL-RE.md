@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 21
 
 ☋ Forks: 34
 
-★ Stars: 353
+★ Stars: 359
 
 [Open repository](https://github.com/nilaoda/N_m3u8DL-RE)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-21 | 353 | 34 | 
+| 2022-10-21 | 359 | 34 | 
 | 2022-10-20 | 353 | 34 | 
 

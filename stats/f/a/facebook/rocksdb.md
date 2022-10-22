@@ -1,10 +1,10 @@
 # facebook/rocksdb - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 5445
 
-★ Stars: 23788
+★ Stars: 23797
 
 [Open repository](https://github.com/facebook/rocksdb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 23797 | 5445 | 
 | 2022-10-20 | 23788 | 5445 | 
 | 2022-10-19 | 23784 | 5443 | 
 | 2022-10-18 | 23765 | 5442 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 23618 | 5411 | 
 | 2022-09-23 | 23610 | 5411 | 
 | 2022-09-22 | 23592 | 5406 | 
-| 2022-09-21 | 23580 | 5402 | 
 

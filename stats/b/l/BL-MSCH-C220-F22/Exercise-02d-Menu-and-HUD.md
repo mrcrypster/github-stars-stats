@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | - | 48 | 
 | 2022-10-20 | - | 48 | 
 | 2022-10-19 | - | 48 | 
 | 2022-10-18 | - | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | - | 44 | 
 | 2022-09-23 | - | 41 | 
 | 2022-09-22 | - | 41 | 
-| 2022-09-21 | - | 39 | 
 

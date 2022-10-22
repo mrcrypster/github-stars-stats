@@ -1,6 +1,6 @@
 # losfair/blueboat - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1797 | 45 | 
 | 2022-10-20 | 1797 | 45 | 
 | 2022-10-19 | 1795 | 45 | 
 | 2022-10-18 | 1792 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1758 | 44 | 
 | 2022-09-23 | 1755 | 44 | 
 | 2022-09-22 | 1752 | 44 | 
-| 2022-09-21 | 1751 | 44 | 
 

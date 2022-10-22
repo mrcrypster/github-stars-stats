@@ -1,6 +1,6 @@
 # OneSignal/OneSignal-Flutter-SDK - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 546 | 168 | 
 | 2022-10-20 | 546 | 168 | 
 | 2022-10-19 | 546 | 167 | 
 | 2022-10-18 | 546 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 542 | 166 | 
 | 2022-09-24 | 542 | 166 | 
 | 2022-09-23 | 541 | 166 | 
-| 2022-09-22 | 540 | 166 | 
 

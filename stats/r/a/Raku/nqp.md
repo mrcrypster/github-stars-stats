@@ -1,10 +1,10 @@
 # Raku/nqp - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 129
 
-★ Stars: 297
+★ Stars: 298
 
 [Open repository](https://github.com/Raku/nqp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 298 | 129 | 
 | 2022-10-20 | 297 | 129 | 
 | 2022-10-19 | 297 | 129 | 
 | 2022-10-18 | 296 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 296 | 129 | 
 | 2022-09-23 | 296 | 129 | 
 | 2022-09-22 | 296 | 129 | 
-| 2022-09-21 | 295 | 129 | 
 

@@ -1,10 +1,10 @@
 # Dimbreath/GenshinData - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 521
+☋ Forks: 522
 
-★ Stars: 1553
+★ Stars: 1554
 
 [Open repository](https://github.com/Dimbreath/GenshinData)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1554 | 522 | 
 | 2022-10-20 | 1553 | 521 | 
 | 2022-10-19 | 1552 | 520 | 
 | 2022-10-18 | 1550 | 520 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1493 | 504 | 
 | 2022-09-23 | 1490 | 503 | 
 | 2022-09-22 | 1488 | 502 | 
-| 2022-09-21 | 1488 | 502 | 
 

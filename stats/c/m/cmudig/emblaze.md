@@ -1,6 +1,6 @@
 # cmudig/emblaze - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 73 | 4 | 
 | 2022-10-20 | 73 | 4 | 
 | 2022-10-19 | 73 | 4 | 
 | 2022-10-18 | 73 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 71 | 4 | 
 | 2022-09-23 | 71 | 4 | 
 | 2022-09-22 | 71 | 4 | 
-| 2022-09-21 | 71 | 4 | 
 

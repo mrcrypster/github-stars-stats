@@ -1,8 +1,8 @@
 # i-aka5h/Hack-October - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 52
+☋ Forks: 51
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 27 | 51 | 
 | 2022-10-20 | 27 | 52 | 
 | 2022-10-19 | 25 | 50 | 
 | 2022-10-18 | 24 | 48 | 

@@ -1,6 +1,6 @@
 # Percona-Lab/jenkins-pipelines - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 16 | 36 | 
 | 2022-10-21 | 16 | 36 | 
 | 2022-10-19 | 16 | 36 | 
 | 2022-10-18 | 16 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 16 | 35 | 
 | 2022-09-23 | 16 | 35 | 
 | 2022-09-22 | 16 | 35 | 
-| 2022-09-21 | 16 | 35 | 
 

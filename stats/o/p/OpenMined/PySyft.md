@@ -1,6 +1,6 @@
 # OpenMined/PySyft - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1869
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 8375 | 1869 | 
 | 2022-10-20 | 8375 | 1869 | 
 | 2022-10-19 | 8371 | 1869 | 
 | 2022-10-18 | 8368 | 1867 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 8325 | 1849 | 
 | 2022-09-23 | 8322 | 1849 | 
 | 2022-09-22 | 8321 | 1848 | 
-| 2022-09-21 | 8321 | 1847 | 
 

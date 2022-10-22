@@ -1,10 +1,10 @@
 # Metroxe/one-html-page-challenge - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 232
 
-★ Stars: 766
+★ Stars: 767
 
 [Open repository](https://github.com/Metroxe/one-html-page-challenge)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 767 | 232 | 
 | 2022-10-20 | 766 | 232 | 
 | 2022-10-19 | 765 | 232 | 
 | 2022-10-18 | 761 | 232 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 745 | 232 | 
 | 2022-09-23 | 744 | 232 | 
 | 2022-09-22 | 744 | 231 | 
-| 2022-09-21 | 744 | 231 | 
 

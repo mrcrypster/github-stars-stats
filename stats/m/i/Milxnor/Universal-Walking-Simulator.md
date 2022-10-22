@@ -1,10 +1,10 @@
 # Milxnor/Universal-Walking-Simulator - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 28
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/Milxnor/Universal-Walking-Simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 69 | 28 | 
 | 2022-10-20 | 68 | 28 | 
 | 2022-10-19 | 68 | 28 | 
 | 2022-10-18 | 68 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 56 | 20 | 
 | 2022-09-23 | 56 | 20 | 
 | 2022-09-22 | 56 | 22 | 
-| 2022-09-21 | 55 | 22 | 
 

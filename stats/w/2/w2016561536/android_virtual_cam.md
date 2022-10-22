@@ -1,10 +1,10 @@
 # w2016561536/android_virtual_cam - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 175
 
-★ Stars: 543
+★ Stars: 544
 
 [Open repository](https://github.com/w2016561536/android_virtual_cam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 544 | 175 | 
 | 2022-10-20 | 543 | 175 | 
 | 2022-10-19 | 542 | 175 | 
 | 2022-10-18 | 538 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 517 | 165 | 
 | 2022-09-23 | 516 | 165 | 
 | 2022-09-22 | 514 | 164 | 
-| 2022-09-21 | 514 | 164 | 
 

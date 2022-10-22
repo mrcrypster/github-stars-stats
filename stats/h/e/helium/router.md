@@ -1,6 +1,6 @@
 # helium/router - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 62 | 28 | 
 | 2022-10-20 | 62 | 28 | 
 | 2022-10-19 | 62 | 28 | 
 | 2022-10-18 | 62 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 62 | 29 | 
 | 2022-09-23 | 62 | 29 | 
 | 2022-09-22 | 62 | 29 | 
-| 2022-09-21 | 62 | 29 | 
 

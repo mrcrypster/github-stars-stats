@@ -1,6 +1,6 @@
 # felipe-augusto/clean-code-javascript - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 484
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3090 | 484 | 
 | 2022-10-20 | 3090 | 484 | 
 | 2022-10-19 | 3088 | 484 | 
 | 2022-10-18 | 3084 | 484 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3064 | 483 | 
 | 2022-09-23 | 3063 | 483 | 
 | 2022-09-22 | 3062 | 483 | 
-| 2022-09-21 | 3060 | 483 | 
 

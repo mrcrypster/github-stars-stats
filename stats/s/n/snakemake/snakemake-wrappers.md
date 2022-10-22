@@ -1,8 +1,8 @@
 # snakemake/snakemake-wrappers - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 123
+☋ Forks: 124
 
 ★ Stars: 147
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 147 | 124 | 
 | 2022-10-20 | 147 | 123 | 
 | 2022-10-19 | 147 | 123 | 
 | 2022-10-18 | 147 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 146 | 122 | 
 | 2022-09-24 | 146 | 122 | 
 | 2022-09-22 | 146 | 122 | 
-| 2022-09-21 | 146 | 122 | 
 

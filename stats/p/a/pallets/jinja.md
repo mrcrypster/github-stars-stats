@@ -1,10 +1,10 @@
 # pallets/jinja - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1515
+☋ Forks: 1516
 
-★ Stars: 8817
+★ Stars: 8821
 
 [Open repository](https://github.com/pallets/jinja)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 8821 | 1516 | 
 | 2022-10-20 | 8817 | 1515 | 
 | 2022-10-19 | 8816 | 1514 | 
 | 2022-10-18 | 8813 | 1514 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 8767 | 1512 | 
 | 2022-09-23 | 8766 | 1512 | 
 | 2022-09-22 | 8764 | 1512 | 
-| 2022-09-21 | 8762 | 1512 | 
 

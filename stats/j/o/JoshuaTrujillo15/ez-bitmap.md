@@ -1,6 +1,6 @@
 # JoshuaTrujillo15/ez-bitmap - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 41 | 1 | 
 | 2022-10-20 | 41 | 1 | 
 | 2022-10-19 | 40 | 1 | 
 | 2022-10-18 | 40 | 1 | 

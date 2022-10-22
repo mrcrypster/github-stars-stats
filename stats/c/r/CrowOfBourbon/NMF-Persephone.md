@@ -1,6 +1,6 @@
 # CrowOfBourbon/NMF-Persephone - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4 | 15 | 
 | 2022-10-21 | 4 | 15 | 
 | 2022-10-20 | 4 | 15 | 
 | 2022-10-19 | 4 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 4 | 16 | 
 | 2022-09-23 | 4 | 16 | 
 | 2022-09-22 | 4 | 16 | 
-| 2022-09-21 | 4 | 16 | 
 

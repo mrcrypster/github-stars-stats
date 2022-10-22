@@ -1,10 +1,10 @@
 # Klipper3d/klipper - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 3720
+☋ Forks: 3724
 
-★ Stars: 5468
+★ Stars: 5473
 
 [Open repository](https://github.com/Klipper3d/klipper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 5473 | 3724 | 
 | 2022-10-20 | 5468 | 3720 | 
 | 2022-10-19 | 5465 | 3723 | 
 | 2022-10-18 | 5461 | 3716 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 5351 | 3630 | 
 | 2022-09-23 | 5346 | 3623 | 
 | 2022-09-22 | 5340 | 3619 | 
-| 2022-09-21 | 5337 | 3620 | 
 

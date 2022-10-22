@@ -1,6 +1,6 @@
 # hongyonghan/Docker_Microsoft365_E5_Renew_X - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 288 | 92 | 
 | 2022-10-21 | 288 | 92 | 
 | 2022-10-20 | 285 | 90 | 
 | 2022-10-19 | 284 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 271 | 85 | 
 | 2022-09-23 | 270 | 85 | 
 | 2022-09-22 | 269 | 85 | 
-| 2022-09-21 | 268 | 84 | 
 

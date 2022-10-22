@@ -1,10 +1,10 @@
 # EMnify/aws-community-day-2022-network-troubleshooting - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/EMnify/aws-community-day-2022-network-troubleshooting)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3 | - | 
 | 2022-10-20 | 2 | - | 
 | 2022-10-19 | 2 | - | 
 | 2022-10-18 | - | - | 

@@ -1,6 +1,6 @@
 # csells/go_router - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 429 | 92 | 
 | 2022-10-20 | 429 | 92 | 
 | 2022-10-19 | 429 | 92 | 
 | 2022-10-18 | 429 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 428 | 91 | 
 | 2022-09-23 | 427 | 91 | 
 | 2022-09-22 | 425 | 89 | 
-| 2022-09-21 | 425 | 89 | 
 

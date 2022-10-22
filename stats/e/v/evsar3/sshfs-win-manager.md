@@ -1,6 +1,6 @@
 # evsar3/sshfs-win-manager - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 637 | 62 | 
 | 2022-10-20 | 637 | 62 | 
 | 2022-10-19 | 637 | 62 | 
 | 2022-10-18 | 637 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 625 | 63 | 
 | 2022-09-23 | 625 | 63 | 
 | 2022-09-22 | 624 | 63 | 
-| 2022-09-21 | 623 | 63 | 
 

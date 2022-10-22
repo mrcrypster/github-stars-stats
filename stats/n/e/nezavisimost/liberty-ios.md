@@ -1,6 +1,6 @@
 # nezavisimost/liberty-ios - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 30 | 4 | 
 | 2022-10-21 | 30 | 4 | 
 | 2022-10-20 | 30 | 4 | 
 | 2022-10-19 | 29 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 28 | 4 | 
 | 2022-09-23 | 28 | 4 | 
 | 2022-09-22 | 28 | 4 | 
-| 2022-09-21 | 28 | 4 | 
 

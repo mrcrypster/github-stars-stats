@@ -1,10 +1,10 @@
 # node-cache/node-cache - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 130
 
-★ Stars: 1854
+★ Stars: 1857
 
 [Open repository](https://github.com/node-cache/node-cache)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1857 | 130 | 
 | 2022-10-20 | 1854 | 130 | 
 | 2022-10-19 | 1852 | 130 | 
 | 2022-10-18 | 1851 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1829 | 128 | 
 | 2022-09-23 | 1828 | 128 | 
 | 2022-09-22 | 1827 | 128 | 
-| 2022-09-21 | 1827 | 128 | 
 

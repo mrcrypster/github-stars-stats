@@ -1,10 +1,10 @@
 # openai/guided-diffusion - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 363
 
-★ Stars: 2510
+★ Stars: 2518
 
 [Open repository](https://github.com/openai/guided-diffusion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 2518 | 363 | 
 | 2022-10-20 | 2510 | 363 | 
 | 2022-10-19 | 2495 | 363 | 
 | 2022-10-18 | 2486 | 361 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 2304 | 337 | 
 | 2022-09-24 | 2293 | 337 | 
 | 2022-09-23 | 2277 | 337 | 
-| 2022-09-22 | 2272 | 336 | 
 

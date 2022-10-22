@@ -1,8 +1,8 @@
 # 12CrazyPaul21/WxBox - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 107 | 25 | 
 | 2022-10-20 | 107 | 24 | 
 | 2022-10-19 | 105 | 24 | 
 | 2022-10-18 | 103 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 89 | 23 | 
 | 2022-09-23 | 89 | 23 | 
 | 2022-09-22 | 89 | 22 | 
-| 2022-09-21 | 89 | 22 | 
 

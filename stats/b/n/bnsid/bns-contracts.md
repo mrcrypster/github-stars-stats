@@ -1,10 +1,10 @@
 # bnsid/bns-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 19
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/bnsid/bns-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 89 | 19 | 
 | 2022-10-20 | 88 | 19 | 
 | 2022-10-19 | 88 | 19 | 
 | 2022-10-18 | 88 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 88 | 19 | 
 | 2022-09-23 | 88 | 19 | 
 | 2022-09-22 | 88 | 19 | 
-| 2022-09-21 | 88 | 19 | 
 

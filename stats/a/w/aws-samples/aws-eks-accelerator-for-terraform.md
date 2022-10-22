@@ -1,10 +1,10 @@
 # aws-samples/aws-eks-accelerator-for-terraform - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 602
+☋ Forks: 605
 
-★ Stars: 1251
+★ Stars: 1254
 
 [Open repository](https://github.com/aws-samples/aws-eks-accelerator-for-terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1254 | 605 | 
 | 2022-10-20 | 1251 | 602 | 
 | 2022-10-19 | 1243 | 601 | 
 | 2022-10-18 | 1237 | 596 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1134 | 544 | 
 | 2022-09-23 | 1126 | 541 | 
 | 2022-09-22 | 1120 | 537 | 
-| 2022-09-21 | 1113 | 533 | 
 

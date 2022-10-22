@@ -1,10 +1,10 @@
 # slaveOftime/Fun.Blazor - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 1
 
-★ Stars: 100
+★ Stars: 101
 
 [Open repository](https://github.com/slaveOftime/Fun.Blazor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 101 | 1 | 
 | 2022-10-20 | 100 | 1 | 
 | 2022-10-19 | 100 | 1 | 
 | 2022-10-18 | 100 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 96 | 1 | 
 | 2022-09-23 | 96 | 1 | 
 | 2022-09-22 | 96 | 1 | 
-| 2022-09-21 | 96 | 1 | 
 

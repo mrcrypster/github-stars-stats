@@ -1,10 +1,10 @@
 # brunocampos01/banco-de-dados - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 28
+☋ Forks: 27
 
-★ Stars: 112
+★ Stars: 113
 
 [Open repository](https://github.com/brunocampos01/banco-de-dados)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 113 | 27 | 
 | 2022-10-20 | 112 | 28 | 
 | 2022-10-19 | 112 | 28 | 
 | 2022-10-18 | 111 | 28 | 

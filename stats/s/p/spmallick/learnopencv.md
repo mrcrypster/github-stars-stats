@@ -1,10 +1,10 @@
 # spmallick/learnopencv - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 10713
+☋ Forks: 10717
 
-★ Stars: 17277
+★ Stars: 17286
 
 [Open repository](https://github.com/spmallick/learnopencv)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 17286 | 10717 | 
 | 2022-10-20 | 17277 | 10713 | 
 | 2022-10-19 | 17261 | 10702 | 
 | 2022-10-18 | 17256 | 10700 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 17111 | 10637 | 
 | 2022-09-23 | 17105 | 10636 | 
 | 2022-09-22 | 17101 | 10637 | 
-| 2022-09-21 | 17100 | 10634 | 
 

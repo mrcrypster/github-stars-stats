@@ -1,10 +1,10 @@
 # easymotion/vim-easymotion - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 353
+☋ Forks: 352
 
-★ Stars: 6770
+★ Stars: 6771
 
 [Open repository](https://github.com/easymotion/vim-easymotion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 6771 | 352 | 
 | 2022-10-20 | 6770 | 353 | 
 | 2022-10-19 | 6770 | 352 | 
 | 2022-10-18 | 6768 | 351 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 6714 | 346 | 
 | 2022-09-23 | 6714 | 347 | 
 | 2022-09-22 | 6713 | 347 | 
-| 2022-09-21 | 6711 | 347 | 
 

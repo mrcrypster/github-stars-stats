@@ -1,10 +1,10 @@
 # shilomagen/get-in-line - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 14
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/shilomagen/get-in-line)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 87 | 14 | 
 | 2022-10-20 | 86 | 14 | 
 | 2022-10-19 | 86 | 14 | 
 | 2022-10-18 | 86 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 85 | 14 | 
 | 2022-09-23 | 85 | 14 | 
 | 2022-09-22 | 85 | 14 | 
-| 2022-09-21 | 85 | 14 | 
 

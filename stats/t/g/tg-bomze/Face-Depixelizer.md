@@ -1,10 +1,10 @@
 # tg-bomze/Face-Depixelizer - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 243
 
-★ Stars: 1979
+★ Stars: 1978
 
 [Open repository](https://github.com/tg-bomze/Face-Depixelizer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1978 | 243 | 
 | 2022-10-21 | 1979 | 243 | 
 | 2022-10-20 | 1979 | 243 | 
 | 2022-10-19 | 1979 | 243 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 1976 | 242 | 
 | 2022-09-23 | 1976 | 243 | 
 | 2022-09-22 | 1976 | 243 | 
-| 2022-09-21 | 1977 | 242 | 
 

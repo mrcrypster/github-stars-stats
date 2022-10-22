@@ -1,10 +1,10 @@
 # sanskarmalkhede/basic-programs - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 73
+☋ Forks: 78
 
-★ Stars: 47
+★ Stars: 53
 
 [Open repository](https://github.com/sanskarmalkhede/basic-programs)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 53 | 78 | 
 | 2022-10-20 | 47 | 73 | 
 

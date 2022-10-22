@@ -1,10 +1,10 @@
 # 2881099/FreeIM - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 335
 
-★ Stars: 1091
+★ Stars: 1092
 
 [Open repository](https://github.com/2881099/FreeIM)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1092 | 335 | 
 | 2022-10-21 | 1091 | 335 | 
 | 2022-10-20 | 1091 | 335 | 
 | 2022-10-19 | 1087 | 335 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 1072 | 332 | 
 | 2022-09-23 | 1071 | 332 | 
 | 2022-09-22 | 1071 | 332 | 
-| 2022-09-21 | 1070 | 332 | 
 

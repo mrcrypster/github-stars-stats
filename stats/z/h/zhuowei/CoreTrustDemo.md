@@ -1,6 +1,6 @@
 # zhuowei/CoreTrustDemo - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 67 | 12 | 
 | 2022-10-20 | 67 | 12 | 
 | 2022-10-19 | 67 | 12 | 
 | 2022-10-18 | 67 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 57 | 10 | 
 | 2022-09-24 | 57 | 10 | 
 | 2022-09-23 | 57 | 10 | 
-| 2022-09-22 | 57 | 10 | 
 

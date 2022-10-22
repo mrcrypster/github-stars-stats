@@ -1,6 +1,6 @@
 # trusttoken/contracts-pre22 - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 290 | 116 | 
 | 2022-10-20 | 290 | 116 | 
 | 2022-10-19 | 290 | 116 | 
 

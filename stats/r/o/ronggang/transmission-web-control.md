@@ -1,6 +1,6 @@
 # ronggang/transmission-web-control - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 740
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 3917 | 740 | 
 | 2022-10-20 | 3917 | 740 | 
 | 2022-10-19 | 3912 | 739 | 
 | 2022-10-18 | 3910 | 739 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 3886 | 741 | 
 | 2022-09-23 | 3886 | 741 | 
 | 2022-09-22 | 3886 | 741 | 
-| 2022-09-21 | 3885 | 741 | 
 

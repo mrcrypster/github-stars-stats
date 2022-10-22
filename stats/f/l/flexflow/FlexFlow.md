@@ -1,10 +1,10 @@
 # flexflow/FlexFlow - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 113
 
-★ Stars: 498
+★ Stars: 500
 
 [Open repository](https://github.com/flexflow/FlexFlow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 500 | 113 | 
 | 2022-10-20 | 498 | 113 | 
 | 2022-10-19 | 498 | 113 | 
 | 2022-10-18 | 498 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 493 | 110 | 
 | 2022-09-23 | 493 | 110 | 
 | 2022-09-22 | 493 | 110 | 
-| 2022-09-21 | 491 | 110 | 
 

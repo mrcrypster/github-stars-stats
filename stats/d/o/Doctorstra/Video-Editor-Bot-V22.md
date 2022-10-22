@@ -1,10 +1,10 @@
 # Doctorstra/Video-Editor-Bot-V22 - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 32
 
-★ Stars: 8
+★ Stars: 6
 
 [Open repository](https://github.com/Doctorstra/Video-Editor-Bot-V22)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 6 | 32 | 
 | 2022-10-20 | 8 | 32 | 
 | 2022-10-19 | 8 | 32 | 
 | 2022-10-18 | 8 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 6 | 30 | 
 | 2022-09-24 | 6 | 30 | 
 | 2022-09-23 | 6 | 30 | 
-| 2022-09-21 | 6 | 30 | 
 

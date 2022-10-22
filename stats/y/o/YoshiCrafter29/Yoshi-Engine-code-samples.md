@@ -1,6 +1,6 @@
 # YoshiCrafter29/Yoshi-Engine-code-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 13 | 14 | 
 | 2022-10-21 | 13 | 14 | 
 | 2022-10-20 | 12 | 14 | 
 | 2022-10-18 | 12 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 12 | 13 | 
 | 2022-09-23 | 12 | 13 | 
 | 2022-09-22 | 12 | 12 | 
-| 2022-09-21 | 12 | 12 | 
 

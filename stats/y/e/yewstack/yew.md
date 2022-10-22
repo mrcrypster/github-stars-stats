@@ -1,10 +1,10 @@
 # yewstack/yew - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 1185
+☋ Forks: 1188
 
-★ Stars: 24561
+★ Stars: 24603
 
 [Open repository](https://github.com/yewstack/yew)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 24603 | 1188 | 
 | 2022-10-20 | 24561 | 1185 | 
 | 2022-10-19 | 24542 | 1184 | 
 | 2022-10-18 | 24520 | 1182 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 23742 | 1155 | 
 | 2022-09-23 | 23722 | 1154 | 
 | 2022-09-22 | 23691 | 1153 | 
-| 2022-09-21 | 23639 | 1152 | 
 

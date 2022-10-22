@@ -1,6 +1,6 @@
 # scalikejdbc/scalikejdbc - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 1214 | 224 | 
 | 2022-10-20 | 1214 | 224 | 
 | 2022-10-19 | 1214 | 224 | 
 | 2022-10-18 | 1214 | 224 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 1212 | 225 | 
 | 2022-09-23 | 1212 | 225 | 
 | 2022-09-22 | 1210 | 225 | 
-| 2022-09-21 | 1210 | 225 | 
 

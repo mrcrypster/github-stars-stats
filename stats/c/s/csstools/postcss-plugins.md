@@ -1,10 +1,10 @@
 # csstools/postcss-plugins - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 382
+★ Stars: 383
 
 [Open repository](https://github.com/csstools/postcss-plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 383 | 37 | 
 | 2022-10-20 | 382 | 36 | 
 | 2022-10-19 | 382 | 36 | 
 | 2022-10-18 | 381 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-25 | 354 | 34 | 
 | 2022-09-24 | 353 | 34 | 
 | 2022-09-23 | 351 | 34 | 
-| 2022-09-22 | 349 | 34 | 
 

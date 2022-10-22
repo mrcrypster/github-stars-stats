@@ -1,10 +1,10 @@
 # abdul2906/nixos-system-config - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/abdul2906/nixos-system-config)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 23 | 1 | 
 | 2022-10-21 | 22 | 1 | 
 | 2022-10-20 | 22 | 1 | 
 | 2022-10-19 | 22 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-24 | 18 | 1 | 
 | 2022-09-23 | 18 | 1 | 
 | 2022-09-22 | 18 | 1 | 
-| 2022-09-21 | 18 | 1 | 
 

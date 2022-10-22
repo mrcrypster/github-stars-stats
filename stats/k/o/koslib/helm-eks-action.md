@@ -1,6 +1,6 @@
 # koslib/helm-eks-action - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 40 | 51 | 
 | 2022-10-20 | 40 | 51 | 
 | 2022-10-19 | 40 | 51 | 
 | 2022-10-18 | 40 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 20
 | 2022-09-24 | 40 | 50 | 
 | 2022-09-23 | 40 | 49 | 
 | 2022-09-22 | 40 | 49 | 
-| 2022-09-21 | 40 | 49 | 
 

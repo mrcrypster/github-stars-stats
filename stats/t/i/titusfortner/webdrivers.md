@@ -1,8 +1,8 @@
 # titusfortner/webdrivers - stars & forks statistics
 
-Stats updated on Oct 2022, 20
+Stats updated on Oct 2022, 21
 
-☋ Forks: 93
+☋ Forks: 92
 
 ★ Stars: 553
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 20
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-21 | 553 | 92 | 
 | 2022-10-20 | 553 | 93 | 
 | 2022-10-19 | 553 | 93 | 
 | 2022-10-18 | 553 | 93 | 

@@ -1,0 +1,17 @@
+# Feeld/nix-build - stars & forks statistics
+
+Stats updated on Oct 2022, 21
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/Feeld/nix-build)
+
+[Open detailed stats for Feeld/nix-build](https://reviewgithub.com/rep/Feeld/nix-build)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-21 | 1 | - | 
+
