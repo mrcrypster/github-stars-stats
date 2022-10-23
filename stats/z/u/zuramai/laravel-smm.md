@@ -1,6 +1,6 @@
 # zuramai/laravel-smm - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 36 | 14 | 
 | 2022-10-22 | 36 | 14 | 
 | 2022-10-21 | 36 | 14 | 
 | 2022-10-20 | 36 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 33 | 14 | 
 | 2022-09-24 | 33 | 13 | 
 | 2022-09-23 | 33 | 13 | 
-| 2022-09-22 | 33 | 13 | 
 

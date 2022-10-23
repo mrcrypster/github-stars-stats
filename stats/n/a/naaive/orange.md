@@ -1,10 +1,10 @@
 # naaive/orange - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 93
 
-★ Stars: 1167
+★ Stars: 1168
 
 [Open repository](https://github.com/naaive/orange)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1168 | 93 | 
 | 2022-10-21 | 1167 | 93 | 
 | 2022-10-20 | 1166 | 93 | 
 | 2022-10-19 | 1163 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1129 | 92 | 
 | 2022-09-24 | 1128 | 92 | 
 | 2022-09-23 | 1127 | 92 | 
-| 2022-09-22 | 1123 | 92 | 
 

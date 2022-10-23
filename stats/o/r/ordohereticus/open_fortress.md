@@ -1,10 +1,10 @@
 # ordohereticus/open_fortress - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 10
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/ordohereticus/open_fortress)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 18 | 10 | 
 | 2022-10-21 | 19 | 10 | 
 | 2022-10-20 | 19 | 10 | 
 | 2022-10-19 | 19 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 19 | 10 | 
 | 2022-09-24 | 19 | 10 | 
 | 2022-09-23 | 19 | 10 | 
-| 2022-09-22 | 19 | 10 | 
 

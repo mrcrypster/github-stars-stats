@@ -1,10 +1,10 @@
 # apache/hudi - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1657
 
-★ Stars: 3605
+★ Stars: 3606
 
 [Open repository](https://github.com/apache/hudi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3606 | 1657 | 
 | 2022-10-21 | 3605 | 1657 | 
 | 2022-10-20 | 3604 | 1655 | 
 | 2022-10-19 | 3599 | 1653 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 3533 | 1621 | 
 | 2022-09-24 | 3533 | 1618 | 
 | 2022-09-23 | 3534 | 1618 | 
-| 2022-09-22 | 3531 | 1615 | 
 

@@ -1,10 +1,10 @@
 # billryan/resume - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 2052
 
-★ Stars: 6128
+★ Stars: 6133
 
 [Open repository](https://github.com/billryan/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6133 | 2052 | 
 | 2022-10-21 | 6128 | 2052 | 
 | 2022-10-20 | 6125 | 2052 | 
 | 2022-10-19 | 6125 | 2052 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6069 | 2034 | 
 | 2022-09-24 | 6066 | 2033 | 
 | 2022-09-23 | 6064 | 2033 | 
-| 2022-09-22 | 6060 | 2034 | 
 

@@ -1,10 +1,10 @@
 # saucepoint/solwiss-tournament - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 2
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/saucepoint/solwiss-tournament)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 24 | 2 | 
 | 2022-10-22 | 23 | 2 | 
 | 2022-10-21 | 23 | 2 | 
 | 2022-10-20 | 23 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 23 | 2 | 
 | 2022-09-24 | 23 | 2 | 
 | 2022-09-23 | 23 | 2 | 
-| 2022-09-22 | 23 | 2 | 
 

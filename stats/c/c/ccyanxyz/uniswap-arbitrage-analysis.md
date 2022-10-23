@@ -1,8 +1,8 @@
 # ccyanxyz/uniswap-arbitrage-analysis - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 397
+☋ Forks: 398
 
 ★ Stars: 1311
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1311 | 398 | 
 | 2022-10-22 | 1311 | 397 | 
 | 2022-10-21 | 1311 | 397 | 
 | 2022-10-19 | 1310 | 394 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 1255 | 378 | 
 | 2022-09-24 | 1254 | 377 | 
 | 2022-09-23 | 1252 | 377 | 
-| 2022-09-22 | 1251 | 377 | 
 

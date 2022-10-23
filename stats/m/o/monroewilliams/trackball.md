@@ -1,10 +1,10 @@
 # monroewilliams/trackball - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 5
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/monroewilliams/trackball)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 122 | 5 | 
 | 2022-10-21 | 121 | 5 | 
 | 2022-10-20 | 121 | 5 | 
 | 2022-10-19 | 121 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 118 | 5 | 
 | 2022-09-24 | 118 | 5 | 
 | 2022-09-23 | 118 | 5 | 
-| 2022-09-22 | 116 | 5 | 
 

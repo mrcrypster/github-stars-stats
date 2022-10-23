@@ -1,6 +1,6 @@
 # diffgram/diffgram - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1554 | 97 | 
 | 2022-10-21 | 1554 | 97 | 
 | 2022-10-20 | 1553 | 98 | 
 | 2022-10-19 | 1551 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1532 | 95 | 
 | 2022-09-24 | 1531 | 95 | 
 | 2022-09-23 | 1529 | 95 | 
-| 2022-09-22 | 1529 | 95 | 
 

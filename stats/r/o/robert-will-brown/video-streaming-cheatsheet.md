@@ -1,6 +1,6 @@
 # robert-will-brown/video-streaming-cheatsheet - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 18 | - | 
 | 2022-10-21 | 18 | - | 
 | 2022-10-20 | 18 | - | 
 | 2022-10-19 | 18 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 17 | - | 
 | 2022-09-24 | 17 | - | 
 | 2022-09-23 | 17 | - | 
-| 2022-09-22 | 17 | - | 
 

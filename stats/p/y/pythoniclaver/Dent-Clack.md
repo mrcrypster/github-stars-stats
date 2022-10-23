@@ -1,8 +1,8 @@
 # pythoniclaver/Dent-Clack - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 14
+☋ Forks: 16
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 28 | 16 | 
 | 2022-10-21 | 28 | 14 | 
 | 2022-10-20 | 25 | 15 | 
 | 2022-10-19 | 24 | 14 | 

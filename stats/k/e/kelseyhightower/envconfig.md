@@ -1,6 +1,6 @@
 # kelseyhightower/envconfig - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 354
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4293 | 354 | 
 | 2022-10-21 | 4293 | 354 | 
 | 2022-10-20 | 4292 | 354 | 
 | 2022-10-19 | 4291 | 354 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4270 | 352 | 
 | 2022-09-24 | 4270 | 352 | 
 | 2022-09-23 | 4269 | 352 | 
-| 2022-09-22 | 4269 | 352 | 
 

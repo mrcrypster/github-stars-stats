@@ -1,10 +1,10 @@
 # acacode/swagger-typescript-api - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 202
 
-★ Stars: 1428
+★ Stars: 1429
 
 [Open repository](https://github.com/acacode/swagger-typescript-api)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1429 | 202 | 
 | 2022-10-21 | 1428 | 202 | 
 | 2022-10-20 | 1426 | 202 | 
 | 2022-10-19 | 1425 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1368 | 194 | 
 | 2022-09-24 | 1360 | 194 | 
 | 2022-09-23 | 1355 | 194 | 
-| 2022-09-22 | 1351 | 194 | 
 

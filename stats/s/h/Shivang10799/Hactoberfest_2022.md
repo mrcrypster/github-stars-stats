@@ -1,8 +1,8 @@
 # Shivang10799/Hactoberfest_2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 20
+☋ Forks: 19
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1 | 19 | 
 | 2022-10-21 | 1 | 20 | 
 | 2022-10-20 | 1 | 21 | 
 | 2022-10-19 | 1 | 20 | 

@@ -1,10 +1,10 @@
 # rootsongjc/kubernetes-handbook - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 2869
 
-★ Stars: 10330
+★ Stars: 10331
 
 [Open repository](https://github.com/rootsongjc/kubernetes-handbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 10331 | 2869 | 
 | 2022-10-21 | 10330 | 2869 | 
 | 2022-10-20 | 10330 | 2869 | 
 | 2022-10-19 | 10329 | 2869 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 10300 | 2860 | 
 | 2022-09-24 | 10300 | 2860 | 
 | 2022-09-23 | 10299 | 2858 | 
-| 2022-09-22 | 10296 | 2857 | 
 

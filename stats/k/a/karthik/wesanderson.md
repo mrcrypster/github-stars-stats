@@ -1,10 +1,10 @@
 # karthik/wesanderson - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 126
 
-★ Stars: 1628
+★ Stars: 1629
 
 [Open repository](https://github.com/karthik/wesanderson)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1629 | 126 | 
 | 2022-10-21 | 1628 | 126 | 
 | 2022-10-20 | 1627 | 126 | 
 | 2022-10-19 | 1626 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1621 | 124 | 
 | 2022-09-24 | 1619 | 124 | 
 | 2022-09-23 | 1619 | 124 | 
-| 2022-09-22 | 1619 | 124 | 
 

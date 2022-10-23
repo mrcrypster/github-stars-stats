@@ -1,10 +1,10 @@
 # deployphp/deployer - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1423
+☋ Forks: 1424
 
-★ Stars: 9586
+★ Stars: 9590
 
 [Open repository](https://github.com/deployphp/deployer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 9590 | 1424 | 
 | 2022-10-21 | 9586 | 1423 | 
 | 2022-10-20 | 9581 | 1422 | 
 | 2022-10-19 | 9579 | 1422 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 9540 | 1414 | 
 | 2022-09-24 | 9539 | 1414 | 
 | 2022-09-23 | 9538 | 1414 | 
-| 2022-09-22 | 9537 | 1413 | 
 

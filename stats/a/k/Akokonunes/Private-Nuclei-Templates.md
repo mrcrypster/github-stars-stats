@@ -1,10 +1,10 @@
 # Akokonunes/Private-Nuclei-Templates - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/Akokonunes/Private-Nuclei-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 77 | 25 | 
 | 2022-10-21 | 76 | 25 | 
 | 2022-10-20 | 74 | 25 | 
 | 2022-10-19 | 74 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 69 | 23 | 
 | 2022-09-24 | 69 | 23 | 
 | 2022-09-23 | 69 | 23 | 
-| 2022-09-22 | 69 | 23 | 
 

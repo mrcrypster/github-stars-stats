@@ -1,6 +1,6 @@
 # kkzzhizhou/scoop-apps - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 177 | 39 | 
 | 2022-10-21 | 177 | 39 | 
 | 2022-10-20 | 177 | 39 | 
 | 2022-10-19 | 177 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 167 | 38 | 
 | 2022-09-24 | 167 | 38 | 
 | 2022-09-23 | 168 | 38 | 
-| 2022-09-22 | 168 | 38 | 
 

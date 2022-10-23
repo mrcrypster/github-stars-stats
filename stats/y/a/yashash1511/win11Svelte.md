@@ -1,10 +1,10 @@
 # yashash1511/win11Svelte - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 2
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/yashash1511/win11Svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 45 | 2 | 
 | 2022-10-21 | 43 | 2 | 
 | 2022-10-20 | 42 | 2 | 
 | 2022-10-19 | 42 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 38 | 2 | 
 | 2022-09-24 | 38 | 2 | 
 | 2022-09-23 | 38 | 2 | 
-| 2022-09-22 | 37 | 2 | 
 

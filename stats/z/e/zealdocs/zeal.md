@@ -1,10 +1,10 @@
 # zealdocs/zeal - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 726
 
-★ Stars: 9916
+★ Stars: 9922
 
 [Open repository](https://github.com/zealdocs/zeal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 9922 | 726 | 
 | 2022-10-22 | 9916 | 726 | 
 | 2022-10-21 | 9916 | 727 | 
 | 2022-10-20 | 9915 | 727 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 9853 | 726 | 
 | 2022-09-24 | 9849 | 726 | 
 | 2022-09-23 | 9839 | 726 | 
-| 2022-09-22 | 9832 | 724 | 
 

@@ -1,6 +1,6 @@
 # Jackriip/Voidcrew-LRP - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 10 | 69 | 
 | 2022-10-21 | 10 | 69 | 
 | 2022-10-20 | 10 | 69 | 
 | 2022-10-19 | 10 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 9 | 68 | 
 | 2022-09-24 | 9 | 68 | 
 | 2022-09-23 | 9 | 68 | 
-| 2022-09-22 | 9 | 68 | 
 

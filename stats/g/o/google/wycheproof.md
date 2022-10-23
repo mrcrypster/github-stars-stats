@@ -1,10 +1,10 @@
 # google/wycheproof - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 277
 
-★ Stars: 2567
+★ Stars: 2566
 
 [Open repository](https://github.com/google/wycheproof)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2566 | 277 | 
 | 2022-10-22 | 2567 | 277 | 
 | 2022-10-21 | 2567 | 277 | 
 | 2022-10-20 | 2566 | 277 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 2563 | 276 | 
 | 2022-09-24 | 2563 | 276 | 
 | 2022-09-23 | 2564 | 276 | 
-| 2022-09-22 | 2564 | 276 | 
 

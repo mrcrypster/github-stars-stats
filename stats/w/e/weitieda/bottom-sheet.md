@@ -1,8 +1,8 @@
 # weitieda/bottom-sheet - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 568
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 568 | 44 | 
 | 2022-10-21 | 568 | 43 | 
 | 2022-10-20 | 568 | 43 | 
 | 2022-10-19 | 568 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 548 | 44 | 
 | 2022-09-24 | 547 | 44 | 
 | 2022-09-23 | 546 | 44 | 
-| 2022-09-22 | 546 | 44 | 
 

@@ -1,6 +1,6 @@
 # NikoLuo1010/GeneDAO - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 301 | 73 | 
 | 2022-10-21 | 301 | 73 | 
 | 2022-10-20 | 301 | 73 | 
 | 2022-10-19 | 301 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 302 | 73 | 
 | 2022-09-24 | 302 | 73 | 
 | 2022-09-23 | 302 | 73 | 
-| 2022-09-22 | 302 | 73 | 
 

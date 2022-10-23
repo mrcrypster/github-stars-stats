@@ -1,6 +1,6 @@
 # raku-community-modules/XML-Query - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3 | 6 | 
 | 2022-10-21 | 3 | 6 | 
 | 2022-10-20 | 3 | 6 | 
 | 2022-10-19 | 3 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 3 | 6 | 
 | 2022-09-25 | 3 | 6 | 
 | 2022-09-24 | 3 | 6 | 
-| 2022-09-23 | 3 | 6 | 
 

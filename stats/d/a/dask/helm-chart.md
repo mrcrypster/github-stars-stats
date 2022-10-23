@@ -1,6 +1,6 @@
 # dask/helm-chart - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 77 | 87 | 
 | 2022-10-21 | 77 | 87 | 
 | 2022-10-20 | 77 | 88 | 
 | 2022-10-19 | 77 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 76 | 86 | 
 | 2022-09-24 | 76 | 86 | 
 | 2022-09-23 | 76 | 86 | 
-| 2022-09-22 | 76 | 86 | 
 

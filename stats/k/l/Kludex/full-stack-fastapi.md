@@ -1,6 +1,6 @@
 # Kludex/full-stack-fastapi - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 20 | 1 | 
 | 2022-10-22 | 20 | 1 | 
 | 2022-10-21 | 20 | 1 | 
 | 2022-10-20 | 20 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 20 | 1 | 
 | 2022-09-24 | 20 | 1 | 
 | 2022-09-23 | 20 | 1 | 
-| 2022-09-22 | 20 | 1 | 
 

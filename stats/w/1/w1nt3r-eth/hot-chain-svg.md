@@ -1,6 +1,6 @@
 # w1nt3r-eth/hot-chain-svg - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 335 | 38 | 
 | 2022-10-21 | 335 | 38 | 
 | 2022-10-20 | 335 | 38 | 
 | 2022-10-19 | 333 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 311 | 37 | 
 | 2022-09-24 | 311 | 37 | 
 | 2022-09-23 | 310 | 37 | 
-| 2022-09-22 | 309 | 37 | 
 

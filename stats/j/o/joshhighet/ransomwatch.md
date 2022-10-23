@@ -1,6 +1,6 @@
 # joshhighet/ransomwatch - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 201 | 37 | 
 | 2022-10-21 | 201 | 37 | 
 | 2022-10-20 | 200 | 37 | 
 | 2022-10-19 | 197 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 187 | 34 | 
 | 2022-09-24 | 187 | 34 | 
 | 2022-09-23 | 187 | 34 | 
-| 2022-09-22 | 187 | 34 | 
 

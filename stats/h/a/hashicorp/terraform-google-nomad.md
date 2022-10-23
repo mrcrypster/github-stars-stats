@@ -1,6 +1,6 @@
 # hashicorp/terraform-google-nomad - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 66 | 51 | 
 | 2022-10-21 | 66 | 51 | 
 | 2022-10-20 | 66 | 51 | 
 | 2022-10-19 | 66 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 65 | 51 | 
 | 2022-09-24 | 65 | 51 | 
 | 2022-09-23 | 65 | 51 | 
-| 2022-09-22 | 65 | 51 | 
 

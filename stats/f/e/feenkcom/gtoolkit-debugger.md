@@ -1,10 +1,10 @@
 # feenkcom/gtoolkit-debugger - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/feenkcom/gtoolkit-debugger)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 7 | 1 | 
 | 2022-10-21 | 6 | 1 | 
 | 2022-10-20 | 6 | 1 | 
 | 2022-10-19 | 6 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6 | 1 | 
 | 2022-09-24 | 6 | 1 | 
 | 2022-09-23 | 6 | 1 | 
-| 2022-09-22 | 6 | 1 | 
 

@@ -1,6 +1,6 @@
 # coq-community/topology - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 39 | 8 | 
 | 2022-10-21 | 39 | 8 | 
 | 2022-10-20 | 39 | 8 | 
 | 2022-10-19 | 39 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 38 | 8 | 
 | 2022-09-25 | 38 | 8 | 
 | 2022-09-24 | 38 | 8 | 
-| 2022-09-23 | 38 | 8 | 
 

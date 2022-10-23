@@ -1,6 +1,6 @@
 # kevinhwang91/nvim-hlslens - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 473 | 3 | 
 | 2022-10-21 | 473 | 3 | 
 | 2022-10-20 | 473 | 3 | 
 | 2022-10-19 | 472 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 455 | 3 | 
 | 2022-09-24 | 454 | 3 | 
 | 2022-09-23 | 452 | 3 | 
-| 2022-09-22 | 451 | 3 | 
 

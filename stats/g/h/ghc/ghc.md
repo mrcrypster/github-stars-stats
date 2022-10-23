@@ -1,6 +1,6 @@
 # ghc/ghc - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 685
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2759 | 685 | 
 | 2022-10-21 | 2759 | 685 | 
 | 2022-10-20 | 2759 | 685 | 
 | 2022-10-19 | 2758 | 685 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2751 | 687 | 
 | 2022-09-24 | 2751 | 687 | 
 | 2022-09-23 | 2751 | 687 | 
-| 2022-09-22 | 2749 | 686 | 
 

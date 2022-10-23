@@ -1,10 +1,10 @@
 # mrniko/netty-socketio - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1535
 
-★ Stars: 5945
+★ Stars: 5946
 
 [Open repository](https://github.com/mrniko/netty-socketio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 5946 | 1535 | 
 | 2022-10-21 | 5945 | 1535 | 
 | 2022-10-20 | 5943 | 1534 | 
 | 2022-10-19 | 5941 | 1533 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 5915 | 1531 | 
 | 2022-09-24 | 5914 | 1531 | 
 | 2022-09-23 | 5913 | 1531 | 
-| 2022-09-22 | 5912 | 1530 | 
 

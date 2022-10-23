@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 22
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 41
+★ Stars: 44
 
 [Open repository](https://github.com/sayajin-labs/kakarot)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 41 | 6 | 
+| 2022-10-22 | 44 | 8 | 
 | 2022-10-21 | 41 | 6 | 
 | 2022-10-20 | 34 | 5 | 
 | 2022-10-19 | 19 | - | 

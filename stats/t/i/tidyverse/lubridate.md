@@ -1,10 +1,10 @@
 # tidyverse/lubridate - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 195
 
-★ Stars: 655
+★ Stars: 656
 
 [Open repository](https://github.com/tidyverse/lubridate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 656 | 195 | 
 | 2022-10-21 | 655 | 195 | 
 | 2022-10-20 | 655 | 194 | 
 | 2022-10-19 | 656 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 654 | 192 | 
 | 2022-09-24 | 654 | 192 | 
 | 2022-09-23 | 654 | 192 | 
-| 2022-09-22 | 653 | 192 | 
 

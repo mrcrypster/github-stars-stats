@@ -1,6 +1,6 @@
 # pseudoyu/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 12 | 4 | 
 | 2022-10-21 | 12 | 4 | 
 | 2022-10-20 | 12 | 4 | 
 | 2022-10-19 | 12 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 10 | 4 | 
 | 2022-09-24 | 10 | 4 | 
 | 2022-09-23 | 10 | 4 | 
-| 2022-09-22 | 10 | 4 | 
 

@@ -1,10 +1,10 @@
 # lukef7fywmrp/netflix-redesign - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 97
 
-★ Stars: 231
+★ Stars: 232
 
 [Open repository](https://github.com/lukef7fywmrp/netflix-redesign)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 232 | 97 | 
 | 2022-10-21 | 231 | 97 | 
 | 2022-10-20 | 230 | 97 | 
 | 2022-10-19 | 229 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 221 | 85 | 
 | 2022-09-24 | 221 | 85 | 
 | 2022-09-23 | 221 | 85 | 
-| 2022-09-22 | 221 | 85 | 
 

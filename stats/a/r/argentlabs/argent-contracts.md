@@ -1,6 +1,6 @@
 # argentlabs/argent-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 403 | 151 | 
 | 2022-10-21 | 403 | 151 | 
 | 2022-10-20 | 402 | 151 | 
 | 2022-10-19 | 402 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 391 | 147 | 
 | 2022-09-25 | 390 | 147 | 
 | 2022-09-24 | 390 | 147 | 
-| 2022-09-23 | 390 | 147 | 
 

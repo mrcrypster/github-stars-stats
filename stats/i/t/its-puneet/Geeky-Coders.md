@@ -1,8 +1,8 @@
 # its-puneet/Geeky-Coders - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 124
+☋ Forks: 125
 
 ★ Stars: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 37 | 125 | 
 | 2022-10-21 | 37 | 124 | 
 | 2022-10-20 | 37 | 124 | 
 | 2022-10-19 | 37 | 123 | 

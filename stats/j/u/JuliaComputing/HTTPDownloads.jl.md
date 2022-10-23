@@ -1,6 +1,6 @@
 # JuliaComputing/HTTPDownloads.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 29 | 2 | 
 | 2022-10-21 | 29 | 2 | 
 | 2022-10-20 | 29 | 2 | 
 | 2022-10-19 | 29 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 28 | 1 | 
 | 2022-09-24 | 28 | 1 | 
 | 2022-09-23 | 28 | 1 | 
-| 2022-09-22 | 28 | 1 | 
 

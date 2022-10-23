@@ -1,6 +1,6 @@
 # philipbrown/handwritten-digits - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 28 | 6 | 
 | 2022-10-21 | 28 | 6 | 
 | 2022-10-20 | 27 | 6 | 
 | 2022-10-19 | 27 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 24 | 4 | 
 | 2022-09-24 | 24 | 4 | 
 | 2022-09-23 | 24 | 4 | 
-| 2022-09-22 | 24 | 4 | 
 

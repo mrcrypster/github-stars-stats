@@ -1,8 +1,8 @@
 # igorwojda/kotlin-coding-challenges - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 171
+☋ Forks: 170
 
 ★ Stars: 716
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 716 | 170 | 
 | 2022-10-21 | 716 | 171 | 
 | 2022-10-20 | 716 | 170 | 
 | 2022-10-19 | 715 | 170 | 

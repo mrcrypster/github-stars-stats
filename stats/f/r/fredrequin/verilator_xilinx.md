@@ -1,6 +1,6 @@
 # fredrequin/verilator_xilinx - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 11 | - | 
 | 2022-10-22 | 11 | - | 
 | 2022-10-20 | 11 | - | 
 | 2022-10-19 | 11 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 10 | - | 
 | 2022-09-24 | 10 | - | 
 | 2022-09-23 | 10 | - | 
-| 2022-09-22 | 10 | - | 
 

@@ -1,10 +1,10 @@
 # C4lme/nft-stealer-website - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 27
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/C4lme/nft-stealer-website)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 525 | 27 | 
 | 2022-10-21 | 524 | 27 | 
 | 2022-10-20 | 524 | 27 | 
 | 2022-10-19 | 524 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 521 | 23 | 
 | 2022-09-24 | 521 | 23 | 
 | 2022-09-23 | 521 | 23 | 
-| 2022-09-22 | 520 | 21 | 
 

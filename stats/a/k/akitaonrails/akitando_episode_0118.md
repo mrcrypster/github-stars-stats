@@ -1,10 +1,10 @@
 # akitaonrails/akitando_episode_0118 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 28
 
-★ Stars: 189
+★ Stars: 188
 
 [Open repository](https://github.com/akitaonrails/akitando_episode_0118)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 188 | 28 | 
 | 2022-10-21 | 189 | 28 | 
 | 2022-10-20 | 189 | 28 | 
 | 2022-10-19 | 189 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 184 | 27 | 
 | 2022-09-25 | 182 | 27 | 
 | 2022-09-24 | 182 | 27 | 
-| 2022-09-23 | 182 | 27 | 
 

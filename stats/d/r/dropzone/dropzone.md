@@ -1,8 +1,8 @@
 # dropzone/dropzone - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 3308
+☋ Forks: 3309
 
 ★ Stars: 16909
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 16909 | 3309 | 
 | 2022-10-21 | 16909 | 3308 | 
 | 2022-10-20 | 16908 | 3308 | 
 | 2022-10-19 | 16905 | 3309 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 16836 | 3309 | 
 | 2022-09-24 | 16833 | 3309 | 
 | 2022-09-23 | 16831 | 3308 | 
-| 2022-09-22 | 16828 | 3308 | 
 

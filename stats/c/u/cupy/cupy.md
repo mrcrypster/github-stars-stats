@@ -1,10 +1,10 @@
 # cupy/cupy - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 635
+☋ Forks: 634
 
-★ Stars: 6402
+★ Stars: 6406
 
 [Open repository](https://github.com/cupy/cupy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6406 | 634 | 
 | 2022-10-21 | 6402 | 635 | 
 | 2022-10-20 | 6400 | 635 | 
 | 2022-10-19 | 6400 | 634 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 6337 | 629 | 
 | 2022-09-25 | 6335 | 628 | 
 | 2022-09-24 | 6334 | 628 | 
-| 2022-09-23 | 6330 | 627 | 
 

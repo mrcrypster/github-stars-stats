@@ -1,10 +1,10 @@
 # blitz-js/blitz - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 712
 
-★ Stars: 12200
+★ Stars: 12205
 
 [Open repository](https://github.com/blitz-js/blitz)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 12205 | 712 | 
 | 2022-10-21 | 12200 | 712 | 
 | 2022-10-20 | 12194 | 712 | 
 | 2022-10-19 | 12189 | 711 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 12091 | 699 | 
 | 2022-09-24 | 12089 | 699 | 
 | 2022-09-23 | 12087 | 698 | 
-| 2022-09-22 | 12081 | 698 | 
 

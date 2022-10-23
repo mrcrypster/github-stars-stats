@@ -1,10 +1,10 @@
 # traderjoe-xyz/joe-v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/traderjoe-xyz/joe-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 18 | 2 | 
 | 2022-10-21 | 17 | 1 | 
 | 2022-10-20 | 17 | 1 | 
 | 2022-10-19 | 17 | 1 | 

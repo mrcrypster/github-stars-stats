@@ -1,10 +1,10 @@
 # mikeroyal/Raspberry-Pi-Guide - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 8
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/mikeroyal/Raspberry-Pi-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 137 | 8 | 
 | 2022-10-21 | 136 | 8 | 
 | 2022-10-20 | 136 | 8 | 
 | 2022-10-19 | 136 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 131 | 8 | 
 | 2022-09-24 | 131 | 8 | 
 | 2022-09-23 | 130 | 8 | 
-| 2022-09-22 | 130 | 8 | 
 

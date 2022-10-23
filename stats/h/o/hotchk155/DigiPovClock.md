@@ -1,6 +1,6 @@
 # hotchk155/DigiPovClock - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 12 | 10 | 
 | 2022-10-21 | 12 | 10 | 
 | 2022-10-20 | 12 | 10 | 
 | 2022-10-19 | 12 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 12 | 10 | 
 | 2022-09-25 | 12 | 10 | 
 | 2022-09-24 | 12 | 10 | 
-| 2022-09-23 | 12 | 10 | 
 

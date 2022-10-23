@@ -1,6 +1,6 @@
 # tzachar/cmp-tabnine - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 195 | 21 | 
 | 2022-10-21 | 195 | 21 | 
 | 2022-10-20 | 194 | 21 | 
 | 2022-10-19 | 193 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 185 | 21 | 
 | 2022-09-24 | 185 | 21 | 
 | 2022-09-23 | 185 | 21 | 
-| 2022-09-22 | 184 | 21 | 
 

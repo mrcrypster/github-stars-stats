@@ -1,6 +1,6 @@
 # primait/posexional - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 11 | 6 | 
 | 2022-10-21 | 11 | 6 | 
 | 2022-10-20 | 11 | 6 | 
 | 2022-10-19 | 11 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 11 | 6 | 
 | 2022-09-25 | 11 | 6 | 
 | 2022-09-24 | 11 | 6 | 
-| 2022-09-23 | 11 | 6 | 
 

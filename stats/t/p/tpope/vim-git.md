@@ -1,10 +1,10 @@
 # tpope/vim-git - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 86
 
-★ Stars: 582
+★ Stars: 583
 
 [Open repository](https://github.com/tpope/vim-git)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 583 | 86 | 
 | 2022-10-21 | 582 | 86 | 
 | 2022-10-20 | 582 | 86 | 
 | 2022-10-19 | 582 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 579 | 86 | 
 | 2022-09-24 | 579 | 86 | 
 | 2022-09-23 | 579 | 86 | 
-| 2022-09-22 | 579 | 86 | 
 

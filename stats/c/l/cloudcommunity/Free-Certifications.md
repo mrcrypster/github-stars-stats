@@ -1,10 +1,10 @@
 # cloudcommunity/Free-Certifications - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 431
+☋ Forks: 433
 
-★ Stars: 3061
+★ Stars: 3064
 
 [Open repository](https://github.com/cloudcommunity/Free-Certifications)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3064 | 433 | 
 | 2022-10-21 | 3061 | 431 | 
 | 2022-10-20 | 3057 | 430 | 
 | 2022-10-19 | 3055 | 429 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2898 | 400 | 
 | 2022-09-24 | 2898 | 400 | 
 | 2022-09-23 | 2893 | 398 | 
-| 2022-09-22 | 2872 | 394 | 
 

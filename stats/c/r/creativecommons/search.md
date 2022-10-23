@@ -1,8 +1,8 @@
 # creativecommons/search - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 81
+☋ Forks: 82
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 16 | 82 | 
 | 2022-10-21 | 16 | 81 | 
 | 2022-10-20 | 15 | 80 | 
 | 2022-10-19 | 14 | 79 | 

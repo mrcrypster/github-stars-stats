@@ -1,10 +1,10 @@
 # id-Software/Quake-III-Arena - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1718
+☋ Forks: 1719
 
-★ Stars: 6154
+★ Stars: 6155
 
 [Open repository](https://github.com/id-Software/Quake-III-Arena)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6155 | 1719 | 
 | 2022-10-21 | 6154 | 1718 | 
 | 2022-10-20 | 6153 | 1718 | 
 | 2022-10-19 | 6150 | 1718 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6120 | 1713 | 
 | 2022-09-24 | 6117 | 1713 | 
 | 2022-09-23 | 6116 | 1712 | 
-| 2022-09-22 | 6116 | 1711 | 
 

@@ -1,6 +1,6 @@
 # mbrock/wisp - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 93 | 1 | 
 | 2022-10-21 | 93 | 1 | 
 | 2022-10-20 | 92 | 1 | 
 | 2022-10-19 | 92 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 88 | 1 | 
 | 2022-09-24 | 88 | 1 | 
 | 2022-09-23 | 88 | 1 | 
-| 2022-09-22 | 88 | 1 | 
 

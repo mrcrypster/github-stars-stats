@@ -1,6 +1,6 @@
 # pop-os/iso - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 421 | 62 | 
 | 2022-10-21 | 421 | 62 | 
 | 2022-10-20 | 421 | 63 | 
 | 2022-10-19 | 421 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 419 | 61 | 
 | 2022-09-25 | 419 | 61 | 
 | 2022-09-24 | 419 | 61 | 
-| 2022-09-23 | 418 | 61 | 
 

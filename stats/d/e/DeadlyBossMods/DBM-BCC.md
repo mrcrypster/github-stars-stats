@@ -1,6 +1,6 @@
 # DeadlyBossMods/DBM-BCC - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3 | 3 | 
 | 2022-10-21 | 3 | 3 | 
 | 2022-10-20 | 3 | 3 | 
 | 2022-10-19 | 3 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 4 | 3 | 
 | 2022-09-25 | 4 | 3 | 
 | 2022-09-24 | 4 | 3 | 
-| 2022-09-23 | 4 | 3 | 
 

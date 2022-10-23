@@ -1,6 +1,6 @@
 # davisking/dlib - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3129
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 11475 | 3129 | 
 | 2022-10-21 | 11475 | 3129 | 
 | 2022-10-20 | 11471 | 3129 | 
 | 2022-10-19 | 11468 | 3128 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 11414 | 3123 | 
 | 2022-09-24 | 11412 | 3123 | 
 | 2022-09-23 | 11412 | 3121 | 
-| 2022-09-22 | 11409 | 3121 | 
 

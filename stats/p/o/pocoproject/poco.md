@@ -1,6 +1,6 @@
 # pocoproject/poco - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1867
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6438 | 1867 | 
 | 2022-10-21 | 6438 | 1867 | 
 | 2022-10-20 | 6434 | 1866 | 
 | 2022-10-19 | 6433 | 1865 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6383 | 1854 | 
 | 2022-09-24 | 6381 | 1854 | 
 | 2022-09-23 | 6377 | 1852 | 
-| 2022-09-22 | 6372 | 1851 | 
 

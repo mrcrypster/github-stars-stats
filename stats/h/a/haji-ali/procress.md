@@ -1,6 +1,6 @@
 # haji-ali/procress - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 19 | 1 | 
 | 2022-10-21 | 19 | 1 | 
 | 2022-10-20 | 19 | 1 | 
 | 2022-10-19 | 19 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 19 | 1 | 
 | 2022-09-25 | 19 | 1 | 
 | 2022-09-24 | 20 | 1 | 
-| 2022-09-23 | 20 | 1 | 
 

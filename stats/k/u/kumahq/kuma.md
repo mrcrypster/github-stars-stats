@@ -1,8 +1,8 @@
 # kumahq/kuma - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 265
+☋ Forks: 266
 
 ★ Stars: 2959
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2959 | 266 | 
 | 2022-10-21 | 2959 | 265 | 
 | 2022-10-20 | 2959 | 265 | 
 | 2022-10-19 | 2956 | 264 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2930 | 261 | 
 | 2022-09-24 | 2930 | 261 | 
 | 2022-09-23 | 2930 | 261 | 
-| 2022-09-22 | 2929 | 261 | 
 

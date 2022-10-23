@@ -1,6 +1,6 @@
 # V1D1AN/S1EM - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 257 | 59 | 
 | 2022-10-21 | 257 | 59 | 
 | 2022-10-20 | 255 | 59 | 
 | 2022-10-19 | 255 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 250 | 56 | 
 | 2022-09-24 | 250 | 56 | 
 | 2022-09-23 | 249 | 56 | 
-| 2022-09-22 | 249 | 56 | 
 

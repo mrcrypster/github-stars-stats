@@ -1,6 +1,6 @@
 # matthiassiegel/cssminify - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 22 | 8 | 
 | 2022-10-21 | 22 | 8 | 
 | 2022-10-20 | 22 | 8 | 
 | 2022-10-19 | 22 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 22 | 8 | 
 | 2022-09-24 | 22 | 8 | 
 | 2022-09-23 | 22 | 8 | 
-| 2022-09-22 | 22 | 8 | 
 

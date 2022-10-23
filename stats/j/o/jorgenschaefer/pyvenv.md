@@ -1,6 +1,6 @@
 # jorgenschaefer/pyvenv - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 304 | 52 | 
 | 2022-10-21 | 304 | 52 | 
 | 2022-10-20 | 304 | 52 | 
 | 2022-10-19 | 304 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 304 | 53 | 
 | 2022-09-25 | 304 | 53 | 
 | 2022-09-24 | 304 | 53 | 
-| 2022-09-22 | 304 | 53 | 
 

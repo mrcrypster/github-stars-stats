@@ -1,6 +1,6 @@
 # cetic/helm-zabbix - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 53 | 60 | 
 | 2022-10-21 | 53 | 60 | 
 | 2022-10-20 | 52 | 60 | 
 | 2022-10-19 | 52 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 52 | 61 | 
 | 2022-09-24 | 52 | 61 | 
 | 2022-09-23 | 52 | 61 | 
-| 2022-09-22 | 52 | 62 | 
 

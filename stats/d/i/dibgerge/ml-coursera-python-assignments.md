@@ -1,10 +1,10 @@
 # dibgerge/ml-coursera-python-assignments - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 2150
+☋ Forks: 2151
 
-★ Stars: 5169
+★ Stars: 5170
 
 [Open repository](https://github.com/dibgerge/ml-coursera-python-assignments)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 5170 | 2151 | 
 | 2022-10-21 | 5169 | 2150 | 
 | 2022-10-20 | 5169 | 2149 | 
 | 2022-10-19 | 5168 | 2149 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 5149 | 2152 | 
 | 2022-09-24 | 5148 | 2151 | 
 | 2022-09-23 | 5147 | 2151 | 
-| 2022-09-22 | 5146 | 2152 | 
 

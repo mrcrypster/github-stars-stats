@@ -1,6 +1,6 @@
 # fmarotta/kaobook - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 592 | 114 | 
 | 2022-10-21 | 592 | 114 | 
 | 2022-10-20 | 592 | 114 | 
 | 2022-10-19 | 591 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 577 | 115 | 
 | 2022-09-24 | 576 | 115 | 
 | 2022-09-23 | 576 | 115 | 
-| 2022-09-22 | 576 | 115 | 
 

@@ -1,10 +1,10 @@
 # matze/mtheme - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 772
+☋ Forks: 771
 
-★ Stars: 5603
+★ Stars: 5602
 
 [Open repository](https://github.com/matze/mtheme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 5602 | 771 | 
 | 2022-10-21 | 5603 | 772 | 
 | 2022-10-20 | 5601 | 772 | 
 | 2022-10-19 | 5599 | 772 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 5572 | 767 | 
 | 2022-09-24 | 5568 | 767 | 
 | 2022-09-23 | 5566 | 767 | 
-| 2022-09-22 | 5566 | 768 | 
 

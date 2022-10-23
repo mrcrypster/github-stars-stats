@@ -1,6 +1,6 @@
 # AvdLee/SwiftUIKitView - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 661 | 19 | 
 | 2022-10-21 | 661 | 19 | 
 | 2022-10-20 | 661 | 19 | 
 | 2022-10-19 | 661 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 635 | 17 | 
 | 2022-09-24 | 635 | 17 | 
 | 2022-09-23 | 635 | 17 | 
-| 2022-09-22 | 635 | 16 | 
 

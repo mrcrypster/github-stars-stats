@@ -1,10 +1,10 @@
 # jart/cosmopolitan - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 300
 
-★ Stars: 9407
+★ Stars: 9412
 
 [Open repository](https://github.com/jart/cosmopolitan)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 9412 | 300 | 
 | 2022-10-21 | 9407 | 300 | 
 | 2022-10-20 | 9403 | 299 | 
 | 2022-10-19 | 9401 | 298 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 9298 | 291 | 
 | 2022-09-24 | 9293 | 291 | 
 | 2022-09-23 | 9286 | 290 | 
-| 2022-09-22 | 9281 | 290 | 
 

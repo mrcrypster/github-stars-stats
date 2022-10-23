@@ -1,6 +1,6 @@
 # rbgrouleff/bclose.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 58 | 14 | 
 | 2022-10-21 | 58 | 14 | 
 | 2022-10-20 | 58 | 14 | 
 | 2022-10-19 | 58 | 14 | 

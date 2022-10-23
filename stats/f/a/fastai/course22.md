@@ -1,10 +1,10 @@
 # fastai/course22 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 180
 
-★ Stars: 532
+★ Stars: 535
 
 [Open repository](https://github.com/fastai/course22)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 535 | 180 | 
 | 2022-10-21 | 532 | 180 | 
 | 2022-10-20 | 527 | 179 | 
 | 2022-10-19 | 522 | 178 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 372 | 141 | 
 | 2022-09-24 | 372 | 141 | 
 | 2022-09-23 | 371 | 141 | 
-| 2022-09-22 | 371 | 141 | 
 

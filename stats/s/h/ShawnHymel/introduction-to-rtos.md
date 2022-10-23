@@ -1,6 +1,6 @@
 # ShawnHymel/introduction-to-rtos - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 332 | 78 | 
 | 2022-10-21 | 332 | 78 | 
 | 2022-10-20 | 330 | 78 | 
 | 2022-10-19 | 330 | 78 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 325 | 76 | 
 | 2022-09-24 | 325 | 76 | 
 | 2022-09-23 | 325 | 76 | 
-| 2022-09-22 | 325 | 76 | 
 

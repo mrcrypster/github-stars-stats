@@ -1,8 +1,8 @@
 # imvast/Discord-Account-Creator - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 193 | 46 | 
 | 2022-10-21 | 193 | 45 | 
 | 2022-10-20 | 191 | 44 | 
 | 2022-10-19 | 189 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 155 | 34 | 
 | 2022-09-24 | 155 | 34 | 
 | 2022-09-23 | 154 | 35 | 
-| 2022-09-22 | 154 | 33 | 
 

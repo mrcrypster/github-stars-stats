@@ -1,10 +1,10 @@
 # jmejia8/Metaheuristics.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 18
 
-★ Stars: 147
+★ Stars: 148
 
 [Open repository](https://github.com/jmejia8/Metaheuristics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 148 | 18 | 
 | 2022-10-21 | 147 | 18 | 
 | 2022-10-20 | 147 | 18 | 
 | 2022-10-19 | 144 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 142 | 16 | 
 | 2022-09-25 | 142 | 16 | 
 | 2022-09-24 | 142 | 16 | 
-| 2022-09-22 | 142 | 15 | 
 

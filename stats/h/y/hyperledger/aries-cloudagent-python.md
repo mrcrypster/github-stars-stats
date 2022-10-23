@@ -1,10 +1,10 @@
 # hyperledger/aries-cloudagent-python - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 395
 
-★ Stars: 297
+★ Stars: 298
 
 [Open repository](https://github.com/hyperledger/aries-cloudagent-python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 298 | 395 | 
 | 2022-10-21 | 297 | 395 | 
 | 2022-10-20 | 297 | 395 | 
 | 2022-10-19 | 296 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 290 | 388 | 
 | 2022-09-24 | 290 | 388 | 
 | 2022-09-23 | 289 | 388 | 
-| 2022-09-22 | 289 | 388 | 
 

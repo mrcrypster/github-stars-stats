@@ -1,6 +1,6 @@
 # itchyny/vim-cursorword - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 507 | 32 | 
 | 2022-10-21 | 507 | 32 | 
 | 2022-10-20 | 507 | 32 | 
 | 2022-10-19 | 507 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 504 | 33 | 
 | 2022-09-24 | 503 | 33 | 
 | 2022-09-23 | 503 | 33 | 
-| 2022-09-22 | 503 | 33 | 
 

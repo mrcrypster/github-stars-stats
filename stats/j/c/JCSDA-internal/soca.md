@@ -1,8 +1,8 @@
 # JCSDA-internal/soca - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 5 | 2 | 
 | 2022-10-21 | 5 | 1 | 
 | 2022-10-20 | 5 | 1 | 
 | 2022-10-19 | 5 | 1 | 

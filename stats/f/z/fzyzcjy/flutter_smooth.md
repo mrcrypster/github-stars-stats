@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
-★ Stars: 392
+★ Stars: 403
 
 [Open repository](https://github.com/fzyzcjy/flutter_smooth)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 392 | 6 | 
+| 2022-10-22 | 403 | 6 | 
 | 2022-10-21 | 386 | 6 | 
 | 2022-10-20 | 287 | 5 | 
 | 2022-10-19 | 222 | 3 | 

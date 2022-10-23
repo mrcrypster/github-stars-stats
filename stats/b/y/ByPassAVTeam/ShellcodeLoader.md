@@ -1,10 +1,10 @@
 # ByPassAVTeam/ShellcodeLoader - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 628
+★ Stars: 629
 
 [Open repository](https://github.com/ByPassAVTeam/ShellcodeLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 629 | 110 | 
 | 2022-10-21 | 628 | 109 | 
 | 2022-10-20 | 625 | 109 | 
 | 2022-10-19 | 624 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 555 | 100 | 
 | 2022-09-24 | 555 | 100 | 
 | 2022-09-23 | 555 | 100 | 
-| 2022-09-22 | 554 | 99 | 
 

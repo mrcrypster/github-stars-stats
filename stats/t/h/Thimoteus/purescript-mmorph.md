@@ -1,6 +1,6 @@
 # Thimoteus/purescript-mmorph - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 10 | 9 | 
 | 2022-10-21 | 10 | 9 | 
 | 2022-10-20 | 10 | 9 | 
 | 2022-10-19 | 10 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 10 | 9 | 
 | 2022-09-24 | 10 | 9 | 
 | 2022-09-23 | 10 | 9 | 
-| 2022-09-22 | 10 | 9 | 
 

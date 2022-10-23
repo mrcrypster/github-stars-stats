@@ -1,6 +1,6 @@
 # videolan/dav1d - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 223 | 34 | 
 | 2022-10-21 | 223 | 34 | 
 | 2022-10-20 | 223 | 34 | 
 | 2022-10-19 | 223 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 219 | 34 | 
 | 2022-09-24 | 218 | 34 | 
 | 2022-09-23 | 218 | 34 | 
-| 2022-09-22 | 218 | 34 | 
 

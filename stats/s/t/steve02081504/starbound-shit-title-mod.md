@@ -1,6 +1,6 @@
 # steve02081504/starbound-shit-title-mod - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 41 | 10 | 
 | 2022-10-21 | 41 | 10 | 
 | 2022-10-20 | 41 | 10 | 
 | 2022-10-19 | 41 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 41 | 10 | 
 | 2022-09-25 | 41 | 10 | 
 | 2022-09-24 | 41 | 10 | 
-| 2022-09-23 | 41 | 10 | 
 

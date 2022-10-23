@@ -1,6 +1,6 @@
 # derekwyatt/vim-scala - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1094 | 149 | 
 | 2022-10-21 | 1094 | 149 | 
 | 2022-10-20 | 1094 | 149 | 
 | 2022-10-19 | 1094 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1094 | 150 | 
 | 2022-09-24 | 1094 | 150 | 
 | 2022-09-23 | 1094 | 150 | 
-| 2022-09-22 | 1094 | 150 | 
 

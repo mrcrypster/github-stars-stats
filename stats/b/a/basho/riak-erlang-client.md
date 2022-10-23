@@ -1,6 +1,6 @@
 # basho/riak-erlang-client - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 187
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 312 | 187 | 
 | 2022-10-21 | 312 | 187 | 
 | 2022-10-20 | 312 | 187 | 
 | 2022-10-19 | 312 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 312 | 187 | 
 | 2022-09-24 | 312 | 187 | 
 | 2022-09-23 | 312 | 187 | 
-| 2022-09-22 | 312 | 187 | 
 

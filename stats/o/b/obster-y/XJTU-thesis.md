@@ -1,10 +1,10 @@
 # obster-y/XJTU-thesis - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 27
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/obster-y/XJTU-thesis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 90 | 27 | 
 | 2022-10-21 | 89 | 27 | 
 | 2022-10-20 | 89 | 27 | 
 | 2022-10-19 | 89 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 87 | 27 | 
 | 2022-09-24 | 87 | 27 | 
 | 2022-09-23 | 87 | 27 | 
-| 2022-09-22 | 87 | 27 | 
 

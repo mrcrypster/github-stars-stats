@@ -1,6 +1,6 @@
 # tuxable-ltd/meta-scikit-learn - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4 | 8 | 
 | 2022-10-21 | 4 | 8 | 
 | 2022-10-20 | 4 | 8 | 
 | 2022-10-19 | 4 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4 | 8 | 
 | 2022-09-24 | 4 | 8 | 
 | 2022-09-23 | 4 | 8 | 
-| 2022-09-22 | 4 | 8 | 
 

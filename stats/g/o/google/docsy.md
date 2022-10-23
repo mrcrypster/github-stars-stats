@@ -1,10 +1,10 @@
 # google/docsy - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 706
 
-★ Stars: 1929
+★ Stars: 1932
 
 [Open repository](https://github.com/google/docsy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1932 | 706 | 
 | 2022-10-22 | 1929 | 706 | 
 | 2022-10-21 | 1928 | 706 | 
 | 2022-10-20 | 1929 | 705 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 1897 | 679 | 
 | 2022-09-24 | 1897 | 679 | 
 | 2022-09-23 | 1896 | 679 | 
-| 2022-09-22 | 1896 | 680 | 
 

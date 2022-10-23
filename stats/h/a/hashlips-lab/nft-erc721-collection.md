@@ -1,6 +1,6 @@
 # hashlips-lab/nft-erc721-collection - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 346
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 406 | 346 | 
 | 2022-10-21 | 406 | 346 | 
 | 2022-10-20 | 406 | 346 | 
 | 2022-10-19 | 406 | 345 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 395 | 328 | 
 | 2022-09-24 | 395 | 327 | 
 | 2022-09-23 | 394 | 327 | 
-| 2022-09-22 | 393 | 327 | 
 

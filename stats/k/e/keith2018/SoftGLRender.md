@@ -1,10 +1,10 @@
 # keith2018/SoftGLRender - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 72
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/keith2018/SoftGLRender)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 452 | 72 | 
 | 2022-10-21 | 451 | 72 | 
 | 2022-10-20 | 451 | 72 | 
 | 2022-10-19 | 451 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 441 | 70 | 
 | 2022-09-24 | 440 | 70 | 
 | 2022-09-23 | 439 | 70 | 
-| 2022-09-22 | 439 | 70 | 
 

@@ -1,6 +1,6 @@
 # elbuo8/platzi-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 245
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 54 | 245 | 
 | 2022-10-21 | 54 | 245 | 
 | 2022-10-20 | 54 | 245 | 
 | 2022-10-19 | 54 | 245 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 53 | 237 | 
 | 2022-09-24 | 53 | 237 | 
 | 2022-09-23 | 53 | 237 | 
-| 2022-09-22 | 53 | 237 | 
 

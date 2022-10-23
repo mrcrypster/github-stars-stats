@@ -1,6 +1,6 @@
 # lenguaje-latino/latino - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 379 | 51 | 
 | 2022-10-21 | 379 | 51 | 
 | 2022-10-20 | 379 | 51 | 
 | 2022-10-19 | 379 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 377 | 49 | 
 | 2022-09-25 | 377 | 49 | 
 | 2022-09-24 | 377 | 49 | 
-| 2022-09-23 | 377 | 49 | 
 

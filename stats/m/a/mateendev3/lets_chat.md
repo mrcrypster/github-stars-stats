@@ -1,10 +1,10 @@
 # mateendev3/lets_chat - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 28
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/mateendev3/lets_chat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 87 | 28 | 
 | 2022-10-21 | 86 | 28 | 
 | 2022-10-20 | 86 | 28 | 
 | 2022-10-19 | 84 | 28 | 

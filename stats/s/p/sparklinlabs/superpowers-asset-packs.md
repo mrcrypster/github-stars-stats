@@ -1,10 +1,10 @@
 # sparklinlabs/superpowers-asset-packs - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 239
 
-★ Stars: 924
+★ Stars: 926
 
 [Open repository](https://github.com/sparklinlabs/superpowers-asset-packs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 926 | 239 | 
 | 2022-10-21 | 924 | 239 | 
 | 2022-10-20 | 924 | 239 | 
 | 2022-10-19 | 923 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 920 | 238 | 
 | 2022-09-24 | 919 | 238 | 
 | 2022-09-23 | 919 | 238 | 
-| 2022-09-22 | 919 | 238 | 
 

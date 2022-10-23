@@ -1,8 +1,8 @@
 # duffelhq/paginator - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 65
+☋ Forks: 64
 
 ★ Stars: 587
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 587 | 64 | 
 | 2022-10-21 | 587 | 65 | 
 | 2022-10-20 | 587 | 65 | 
 | 2022-10-19 | 587 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 579 | 65 | 
 | 2022-09-25 | 579 | 65 | 
 | 2022-09-24 | 579 | 65 | 
-| 2022-09-23 | 578 | 65 | 
 

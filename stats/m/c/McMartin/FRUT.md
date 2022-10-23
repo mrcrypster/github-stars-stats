@@ -1,6 +1,6 @@
 # McMartin/FRUT - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 324 | 35 | 
 | 2022-10-21 | 324 | 35 | 
 | 2022-10-20 | 324 | 35 | 
 | 2022-10-19 | 324 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 323 | 35 | 
 | 2022-09-24 | 323 | 35 | 
 | 2022-09-23 | 323 | 35 | 
-| 2022-09-22 | 323 | 35 | 
 

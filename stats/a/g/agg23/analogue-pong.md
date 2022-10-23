@@ -1,10 +1,10 @@
 # agg23/analogue-pong - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/agg23/analogue-pong)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 49 | 1 | 
 | 2022-10-21 | 48 | 1 | 
 | 2022-10-20 | 48 | 1 | 
 | 2022-10-19 | 48 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 44 | 1 | 
 | 2022-09-24 | 44 | 1 | 
 | 2022-09-23 | 44 | 1 | 
-| 2022-09-22 | 43 | 1 | 
 

@@ -1,10 +1,10 @@
 # ruitunion/open-letter-to-mishustin - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 83
+☋ Forks: 87
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/ruitunion/open-letter-to-mishustin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 52 | 87 | 
 | 2022-10-21 | 51 | 83 | 
 | 2022-10-20 | 51 | 81 | 
 | 2022-10-19 | 50 | 77 | 

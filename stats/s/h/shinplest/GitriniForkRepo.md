@@ -1,8 +1,8 @@
 # shinplest/GitriniForkRepo - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 119
+☋ Forks: 118
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3 | 118 | 
 | 2022-10-21 | 3 | 119 | 
 | 2022-10-20 | 3 | 119 | 
 | 2022-10-19 | 3 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 3 | 116 | 
 | 2022-09-25 | 3 | 116 | 
 | 2022-09-24 | 3 | 116 | 
-| 2022-09-23 | 3 | 116 | 
 

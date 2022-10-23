@@ -1,10 +1,10 @@
 # andresgamboaa/goduz - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/andresgamboaa/goduz)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 99 | 1 | 
 | 2022-10-21 | 97 | 1 | 
 | 2022-10-20 | 89 | 1 | 
 | 2022-10-19 | 68 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 64 | 1 | 
 | 2022-09-24 | 64 | 1 | 
 | 2022-09-23 | 64 | 1 | 
-| 2022-09-22 | 64 | 1 | 
 

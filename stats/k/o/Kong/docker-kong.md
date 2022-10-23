@@ -1,6 +1,6 @@
 # Kong/docker-kong - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 772
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1222 | 772 | 
 | 2022-10-22 | 1222 | 772 | 
 | 2022-10-21 | 1221 | 772 | 
 | 2022-10-20 | 1221 | 771 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 1214 | 767 | 
 | 2022-09-24 | 1214 | 767 | 
 | 2022-09-23 | 1214 | 767 | 
-| 2022-09-22 | 1213 | 766 | 
 

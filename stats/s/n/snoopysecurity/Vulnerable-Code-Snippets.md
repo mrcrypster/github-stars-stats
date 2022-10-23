@@ -1,6 +1,6 @@
 # snoopysecurity/Vulnerable-Code-Snippets - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 183 | 201 | 
 | 2022-10-21 | 183 | 201 | 
 | 2022-10-20 | 183 | 200 | 
 | 2022-10-19 | 183 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 171 | 192 | 
 | 2022-09-24 | 171 | 191 | 
 | 2022-09-23 | 171 | 191 | 
-| 2022-09-22 | 171 | 190 | 
 

@@ -1,6 +1,6 @@
 # afawcett/apex-sobjectdataloader - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 49 | 38 | 
 | 2022-10-21 | 49 | 38 | 
 | 2022-10-20 | 49 | 38 | 
 | 2022-10-19 | 49 | 38 | 

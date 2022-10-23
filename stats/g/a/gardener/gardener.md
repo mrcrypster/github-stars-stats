@@ -1,6 +1,6 @@
 # gardener/gardener - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 401
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2322 | 401 | 
 | 2022-10-22 | 2322 | 401 | 
 | 2022-10-21 | 2321 | 401 | 
 | 2022-10-20 | 2320 | 401 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 2303 | 394 | 
 | 2022-09-24 | 2303 | 394 | 
 | 2022-09-23 | 2303 | 394 | 
-| 2022-09-22 | 2303 | 394 | 
 

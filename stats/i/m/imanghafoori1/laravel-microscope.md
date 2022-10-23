@@ -1,6 +1,6 @@
 # imanghafoori1/laravel-microscope - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1203 | 81 | 
 | 2022-10-21 | 1203 | 81 | 
 | 2022-10-20 | 1202 | 81 | 
 | 2022-10-19 | 1202 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 1195 | 81 | 
 | 2022-09-25 | 1194 | 81 | 
 | 2022-09-24 | 1194 | 81 | 
-| 2022-09-23 | 1194 | 81 | 
 

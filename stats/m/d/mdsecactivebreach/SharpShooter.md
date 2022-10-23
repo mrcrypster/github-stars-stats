@@ -1,6 +1,6 @@
 # mdsecactivebreach/SharpShooter - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 330
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1550 | 330 | 
 | 2022-10-21 | 1550 | 330 | 
 | 2022-10-20 | 1550 | 330 | 
 | 2022-10-19 | 1549 | 330 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1546 | 330 | 
 | 2022-09-24 | 1545 | 330 | 
 | 2022-09-23 | 1543 | 330 | 
-| 2022-09-22 | 1543 | 330 | 
 

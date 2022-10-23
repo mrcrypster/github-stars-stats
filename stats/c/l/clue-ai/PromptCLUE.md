@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 10
 
-★ Stars: 107
+★ Stars: 109
 
 [Open repository](https://github.com/clue-ai/PromptCLUE)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 107 | 10 | 
+| 2022-10-22 | 109 | 10 | 
 | 2022-10-21 | 107 | 10 | 
 

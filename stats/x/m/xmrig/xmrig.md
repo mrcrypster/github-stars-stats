@@ -1,6 +1,6 @@
 # xmrig/xmrig - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3287
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 7213 | 3287 | 
 | 2022-10-21 | 7213 | 3287 | 
 | 2022-10-20 | 7211 | 3286 | 
 | 2022-10-19 | 7210 | 3283 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 7173 | 3260 | 
 | 2022-09-24 | 7170 | 3259 | 
 | 2022-09-23 | 7168 | 3259 | 
-| 2022-09-22 | 7164 | 3258 | 
 

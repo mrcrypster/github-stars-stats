@@ -1,10 +1,10 @@
 # f-person/git-blame.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 430
+★ Stars: 432
 
 [Open repository](https://github.com/f-person/git-blame.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 432 | 24 | 
 | 2022-10-21 | 430 | 23 | 
 | 2022-10-20 | 430 | 23 | 
 | 2022-10-19 | 429 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 419 | 20 | 
 | 2022-09-24 | 418 | 20 | 
 | 2022-09-23 | 418 | 20 | 
-| 2022-09-22 | 417 | 20 | 
 

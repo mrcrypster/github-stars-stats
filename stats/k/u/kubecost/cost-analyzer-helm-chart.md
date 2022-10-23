@@ -1,6 +1,6 @@
 # kubecost/cost-analyzer-helm-chart - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 277
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 277 | 277 | 
 | 2022-10-21 | 277 | 277 | 
 | 2022-10-20 | 277 | 277 | 
 | 2022-10-19 | 277 | 277 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 274 | 270 | 
 | 2022-09-24 | 274 | 270 | 
 | 2022-09-23 | 274 | 270 | 
-| 2022-09-22 | 274 | 270 | 
 

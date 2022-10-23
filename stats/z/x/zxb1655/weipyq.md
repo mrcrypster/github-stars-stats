@@ -1,10 +1,10 @@
 # zxb1655/weipyq - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 21
 
-★ Stars: 133
+★ Stars: 135
 
 [Open repository](https://github.com/zxb1655/weipyq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 135 | 21 | 
 | 2022-10-21 | 133 | 21 | 
 | 2022-10-20 | 132 | 21 | 
 | 2022-10-19 | 131 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 128 | 19 | 
 | 2022-09-24 | 128 | 19 | 
 | 2022-09-23 | 128 | 19 | 
-| 2022-09-22 | 128 | 19 | 
 

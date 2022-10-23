@@ -1,10 +1,10 @@
 # minad/corfu - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 21
 
-★ Stars: 520
+★ Stars: 522
 
 [Open repository](https://github.com/minad/corfu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 522 | 21 | 
 | 2022-10-21 | 520 | 21 | 
 | 2022-10-20 | 520 | 20 | 
 | 2022-10-19 | 520 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 490 | 19 | 
 | 2022-09-24 | 490 | 19 | 
 | 2022-09-23 | 488 | 19 | 
-| 2022-09-22 | 487 | 19 | 
 

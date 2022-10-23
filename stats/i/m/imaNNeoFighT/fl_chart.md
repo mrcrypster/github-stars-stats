@@ -1,10 +1,10 @@
 # imaNNeoFighT/fl_chart - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1295
 
-★ Stars: 5028
+★ Stars: 5029
 
 [Open repository](https://github.com/imaNNeoFighT/fl_chart)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 5029 | 1295 | 
 | 2022-10-21 | 5028 | 1295 | 
 | 2022-10-20 | 5023 | 1293 | 
 | 2022-10-19 | 5015 | 1291 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4939 | 1258 | 
 | 2022-09-24 | 4938 | 1258 | 
 | 2022-09-23 | 4935 | 1258 | 
-| 2022-09-22 | 4930 | 1258 | 
 

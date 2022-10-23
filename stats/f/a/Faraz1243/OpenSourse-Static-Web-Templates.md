@@ -1,8 +1,8 @@
 # Faraz1243/OpenSourse-Static-Web-Templates - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2 | 17 | 
 | 2022-10-21 | 2 | 16 | 
 | 2022-10-20 | 2 | 16 | 
 

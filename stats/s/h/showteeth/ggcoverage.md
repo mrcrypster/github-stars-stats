@@ -1,6 +1,6 @@
 # showteeth/ggcoverage - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 81 | 6 | 
 | 2022-10-21 | 81 | 6 | 
 | 2022-10-20 | 81 | 6 | 
 | 2022-10-19 | 81 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 73 | 5 | 
 | 2022-09-24 | 73 | 5 | 
 | 2022-09-23 | 73 | 5 | 
-| 2022-09-22 | 72 | 5 | 
 

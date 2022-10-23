@@ -1,6 +1,6 @@
 # RetroNick2020/raster-master-dos - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 19 | - | 
 | 2022-10-21 | 19 | - | 
 | 2022-10-20 | 19 | - | 
 | 2022-10-19 | 19 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 17 | - | 
 | 2022-09-24 | 17 | - | 
 | 2022-09-23 | 17 | - | 
-| 2022-09-22 | 16 | - | 
 

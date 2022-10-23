@@ -1,10 +1,10 @@
 # barteksc/AndroidPdfViewer - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1663
 
-★ Stars: 7381
+★ Stars: 7383
 
 [Open repository](https://github.com/barteksc/AndroidPdfViewer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 7383 | 1663 | 
 | 2022-10-21 | 7381 | 1663 | 
 | 2022-10-20 | 7380 | 1662 | 
 | 2022-10-19 | 7376 | 1662 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 7354 | 1651 | 
 | 2022-09-24 | 7354 | 1651 | 
 | 2022-09-23 | 7354 | 1651 | 
-| 2022-09-22 | 7353 | 1651 | 
 

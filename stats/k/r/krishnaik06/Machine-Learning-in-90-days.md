@@ -1,6 +1,6 @@
 # krishnaik06/Machine-Learning-in-90-days - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1174
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 836 | 1174 | 
 | 2022-10-21 | 836 | 1174 | 
 | 2022-10-20 | 836 | 1174 | 
 | 2022-10-19 | 835 | 1174 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 821 | 1157 | 
 | 2022-09-25 | 820 | 1153 | 
 | 2022-09-24 | 819 | 1152 | 
-| 2022-09-23 | 819 | 1152 | 
 

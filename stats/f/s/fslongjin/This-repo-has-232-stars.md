@@ -1,10 +1,10 @@
 # fslongjin/This-repo-has-232-stars - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 40
 
-★ Stars: 1367
+★ Stars: 1368
 
 [Open repository](https://github.com/fslongjin/This-repo-has-232-stars)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1368 | 40 | 
 | 2022-10-22 | 1367 | 40 | 
 | 2022-10-21 | 1356 | 40 | 
 | 2022-10-20 | 1354 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 1337 | 40 | 
 | 2022-09-24 | 1334 | 40 | 
 | 2022-09-23 | 1330 | 40 | 
-| 2022-09-22 | 1326 | 40 | 
 

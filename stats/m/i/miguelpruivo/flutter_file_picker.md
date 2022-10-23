@@ -1,6 +1,6 @@
 # miguelpruivo/flutter_file_picker - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 409
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 944 | 409 | 
 | 2022-10-21 | 944 | 409 | 
 | 2022-10-20 | 943 | 408 | 
 | 2022-10-19 | 943 | 406 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 926 | 397 | 
 | 2022-09-24 | 927 | 396 | 
 | 2022-09-23 | 926 | 396 | 
-| 2022-09-22 | 926 | 393 | 
 

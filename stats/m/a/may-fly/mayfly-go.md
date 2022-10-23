@@ -1,10 +1,10 @@
 # may-fly/mayfly-go - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 176
+☋ Forks: 178
 
-★ Stars: 716
+★ Stars: 719
 
 [Open repository](https://github.com/may-fly/mayfly-go)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 719 | 178 | 
 | 2022-10-21 | 716 | 176 | 
 | 2022-10-20 | 714 | 176 | 
 | 2022-10-19 | 710 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 505 | 121 | 
 | 2022-09-24 | 503 | 121 | 
 | 2022-09-23 | 499 | 120 | 
-| 2022-09-22 | 470 | 115 | 
 

@@ -1,10 +1,10 @@
 # WeAreMahsaAmini/Homepage - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 23
 
-★ Stars: 259
+★ Stars: 261
 
 [Open repository](https://github.com/WeAreMahsaAmini/Homepage)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 261 | 23 | 
 | 2022-10-21 | 259 | 23 | 
 | 2022-10-20 | 260 | 22 | 
 | 2022-10-19 | 261 | 22 | 

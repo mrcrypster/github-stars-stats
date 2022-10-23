@@ -1,10 +1,10 @@
 # iscyy/yoloair - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 191
 
-★ Stars: 1023
+★ Stars: 1027
 
 [Open repository](https://github.com/iscyy/yoloair)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1027 | 191 | 
 | 2022-10-21 | 1023 | 191 | 
 | 2022-10-20 | 1017 | 189 | 
 | 2022-10-19 | 1005 | 187 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 855 | 149 | 
 | 2022-09-25 | 849 | 149 | 
 | 2022-09-24 | 844 | 148 | 
-| 2022-09-23 | 832 | 148 | 
 

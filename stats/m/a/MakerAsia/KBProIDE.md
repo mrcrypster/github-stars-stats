@@ -1,6 +1,6 @@
 # MakerAsia/KBProIDE - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 123 | 42 | 
 | 2022-10-21 | 123 | 42 | 
 | 2022-10-20 | 123 | 42 | 
 | 2022-10-19 | 123 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 123 | 42 | 
 | 2022-09-24 | 123 | 42 | 
 | 2022-09-23 | 123 | 42 | 
-| 2022-09-22 | 123 | 42 | 
 

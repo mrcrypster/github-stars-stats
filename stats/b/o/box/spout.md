@@ -1,10 +1,10 @@
 # box/spout - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 586
+☋ Forks: 587
 
-★ Stars: 4162
+★ Stars: 4161
 
 [Open repository](https://github.com/box/spout)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4161 | 587 | 
 | 2022-10-21 | 4162 | 586 | 
 | 2022-10-20 | 4163 | 586 | 
 | 2022-10-19 | 4162 | 586 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4152 | 585 | 
 | 2022-09-24 | 4151 | 585 | 
 | 2022-09-23 | 4150 | 585 | 
-| 2022-09-22 | 4148 | 585 | 
 

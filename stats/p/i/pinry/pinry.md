@@ -1,6 +1,6 @@
 # pinry/pinry - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 334
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2684 | 334 | 
 | 2022-10-21 | 2684 | 334 | 
 | 2022-10-20 | 2682 | 334 | 
 | 2022-10-19 | 2681 | 334 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2659 | 334 | 
 | 2022-09-24 | 2658 | 334 | 
 | 2022-09-23 | 2658 | 334 | 
-| 2022-09-22 | 2658 | 334 | 
 

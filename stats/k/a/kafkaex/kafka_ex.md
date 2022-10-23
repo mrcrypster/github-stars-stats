@@ -1,6 +1,6 @@
 # kafkaex/kafka_ex - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 157
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 545 | 157 | 
 | 2022-10-21 | 545 | 157 | 
 | 2022-10-20 | 545 | 157 | 
 | 2022-10-19 | 545 | 157 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 545 | 157 | 
 | 2022-09-24 | 545 | 157 | 
 | 2022-09-23 | 545 | 157 | 
-| 2022-09-22 | 544 | 157 | 
 

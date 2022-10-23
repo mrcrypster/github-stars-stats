@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/awslabs/aws-terraform-dev-container)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 47 | 6 | 
+| 2022-10-22 | 48 | 6 | 
 | 2022-10-21 | 47 | 6 | 
 | 2022-10-20 | 45 | 5 | 
 | 2022-10-19 | 38 | 4 | 

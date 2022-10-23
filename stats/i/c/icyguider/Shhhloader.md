@@ -1,10 +1,10 @@
 # icyguider/Shhhloader - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 113
 
-★ Stars: 572
+★ Stars: 574
 
 [Open repository](https://github.com/icyguider/Shhhloader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 574 | 113 | 
 | 2022-10-21 | 572 | 113 | 
 | 2022-10-20 | 571 | 113 | 
 | 2022-10-19 | 570 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 547 | 103 | 
 | 2022-09-24 | 547 | 102 | 
 | 2022-09-23 | 547 | 102 | 
-| 2022-09-22 | 546 | 101 | 
 

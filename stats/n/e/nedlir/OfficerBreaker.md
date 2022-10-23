@@ -1,6 +1,6 @@
 # nedlir/OfficerBreaker - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 578 | 27 | 
 | 2022-10-21 | 578 | 27 | 
 | 2022-10-20 | 578 | 27 | 
 | 2022-10-19 | 578 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 575 | 27 | 
 | 2022-09-24 | 576 | 27 | 
 | 2022-09-23 | 576 | 27 | 
-| 2022-09-22 | 576 | 27 | 
 

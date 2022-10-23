@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 4
 
-★ Stars: 42
+★ Stars: 47
 
 [Open repository](https://github.com/liuyxpp/MakiePublication.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 42 | 4 | 
+| 2022-10-22 | 47 | 4 | 
 | 2022-10-21 | 42 | 4 | 
 | 2022-10-20 | 34 | 4 | 
 | 2022-10-19 | 27 | 4 | 

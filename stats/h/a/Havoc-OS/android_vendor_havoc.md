@@ -1,6 +1,6 @@
 # Havoc-OS/android_vendor_havoc - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 16 | 61 | 
 | 2022-10-21 | 16 | 61 | 
 | 2022-10-20 | 16 | 61 | 
 | 2022-10-19 | 15 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 15 | 60 | 
 | 2022-09-24 | 15 | 60 | 
 | 2022-09-23 | 15 | 60 | 
-| 2022-09-22 | 15 | 60 | 
 

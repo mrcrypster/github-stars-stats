@@ -1,6 +1,6 @@
 # dash-docs-el/helm-dash - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 500 | 57 | 
 | 2022-10-21 | 500 | 57 | 
 | 2022-10-20 | 500 | 57 | 
 | 2022-10-19 | 500 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 497 | 57 | 
 | 2022-09-24 | 497 | 57 | 
 | 2022-09-23 | 496 | 57 | 
-| 2022-09-22 | 496 | 57 | 
 

@@ -1,6 +1,6 @@
 # twostraws/simple-swiftui - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 545 | 42 | 
 | 2022-10-21 | 545 | 42 | 
 | 2022-10-20 | 545 | 42 | 
 | 2022-10-19 | 544 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 540 | 42 | 
 | 2022-09-24 | 540 | 42 | 
 | 2022-09-23 | 540 | 42 | 
-| 2022-09-22 | 540 | 42 | 
 

@@ -1,6 +1,6 @@
 # NotFound403/id-server - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 331 | 81 | 
 | 2022-10-21 | 331 | 81 | 
 | 2022-10-20 | 331 | 81 | 
 | 2022-10-19 | 331 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 323 | 78 | 
 | 2022-09-24 | 323 | 78 | 
 | 2022-09-23 | 322 | 78 | 
-| 2022-09-22 | 321 | 78 | 
 

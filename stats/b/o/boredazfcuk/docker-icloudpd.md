@@ -1,6 +1,6 @@
 # boredazfcuk/docker-icloudpd - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 518 | 67 | 
 | 2022-10-21 | 518 | 67 | 
 | 2022-10-20 | 517 | 67 | 
 | 2022-10-19 | 517 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 486 | 66 | 
 | 2022-09-24 | 486 | 66 | 
 | 2022-09-23 | 487 | 66 | 
-| 2022-09-22 | 487 | 66 | 
 

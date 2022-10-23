@@ -1,10 +1,10 @@
 # Apoorv-cloud/1_Hacktoberfest-22 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 100
+☋ Forks: 104
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Apoorv-cloud/1_Hacktoberfest-22)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 18 | 104 | 
 | 2022-10-21 | 17 | 100 | 
 | 2022-10-20 | 16 | 95 | 
 | 2022-10-19 | 16 | 91 | 

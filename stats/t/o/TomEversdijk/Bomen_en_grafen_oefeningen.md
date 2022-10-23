@@ -1,6 +1,6 @@
 # TomEversdijk/Bomen_en_grafen_oefeningen - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6 | 137 | 
 | 2022-10-21 | 6 | 137 | 
 | 2022-10-20 | 6 | 137 | 
 | 2022-10-19 | 6 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6 | 140 | 
 | 2022-09-24 | 6 | 140 | 
 | 2022-09-23 | 6 | 140 | 
-| 2022-09-22 | 6 | 140 | 
 

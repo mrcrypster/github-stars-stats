@@ -1,6 +1,6 @@
 # cabol/shards - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 286 | 32 | 
 | 2022-10-21 | 286 | 32 | 
 | 2022-10-20 | 286 | 32 | 
 | 2022-10-19 | 286 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 286 | 32 | 
 | 2022-09-25 | 286 | 31 | 
 | 2022-09-24 | 286 | 31 | 
-| 2022-09-23 | 286 | 31 | 
 

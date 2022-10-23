@@ -1,6 +1,6 @@
 # oauth-xx/oauth2 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 645
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2106 | 645 | 
 | 2022-10-21 | 2106 | 645 | 
 | 2022-10-20 | 2106 | 645 | 
 | 2022-10-19 | 2106 | 645 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2105 | 646 | 
 | 2022-09-24 | 2105 | 646 | 
 | 2022-09-23 | 2105 | 646 | 
-| 2022-09-22 | 2105 | 646 | 
 

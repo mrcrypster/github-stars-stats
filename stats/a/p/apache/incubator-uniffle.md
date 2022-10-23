@@ -1,10 +1,10 @@
 # apache/incubator-uniffle - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 47
 
-★ Stars: 152
+★ Stars: 153
 
 [Open repository](https://github.com/apache/incubator-uniffle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 153 | 47 | 
 | 2022-10-21 | 152 | 47 | 
 | 2022-10-20 | 151 | 47 | 
 | 2022-10-19 | 151 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 145 | 42 | 
 | 2022-09-24 | 145 | 42 | 
 | 2022-09-23 | 145 | 41 | 
-| 2022-09-22 | 144 | 41 | 
 

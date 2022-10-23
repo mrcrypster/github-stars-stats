@@ -1,10 +1,10 @@
 # GokuMohandas/mlops-course - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 300
 
-★ Stars: 1620
+★ Stars: 1622
 
 [Open repository](https://github.com/GokuMohandas/mlops-course)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1622 | 300 | 
 | 2022-10-21 | 1620 | 300 | 
 | 2022-10-20 | 1618 | 300 | 
 | 2022-10-19 | 1617 | 299 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1428 | 262 | 
 | 2022-09-24 | 1427 | 262 | 
 | 2022-09-23 | 1424 | 262 | 
-| 2022-09-22 | 1417 | 261 | 
 

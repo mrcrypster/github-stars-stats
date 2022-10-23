@@ -1,6 +1,6 @@
 # abigger87/femplate - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 229 | 33 | 
 | 2022-10-21 | 229 | 33 | 
 | 2022-10-20 | 227 | 33 | 
 | 2022-10-19 | 227 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 216 | 33 | 
 | 2022-09-24 | 216 | 33 | 
 | 2022-09-23 | 215 | 33 | 
-| 2022-09-22 | 213 | 33 | 
 

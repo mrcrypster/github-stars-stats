@@ -1,6 +1,6 @@
 # bmshifat/TecSpy - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 79 | 34 | 
 | 2022-10-21 | 79 | 34 | 
 | 2022-10-20 | 79 | 34 | 
 | 2022-10-19 | 79 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 75 | 33 | 
 | 2022-09-24 | 75 | 33 | 
 | 2022-09-23 | 75 | 33 | 
-| 2022-09-22 | 75 | 33 | 
 

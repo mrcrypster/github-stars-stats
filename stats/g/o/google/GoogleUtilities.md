@@ -1,10 +1,10 @@
 # google/GoogleUtilities - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 34
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/google/GoogleUtilities)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 59 | 34 | 
 | 2022-10-21 | 58 | 34 | 
 | 2022-10-20 | 58 | 34 | 
 | 2022-10-19 | 58 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 54 | 34 | 
 | 2022-09-24 | 53 | 34 | 
 | 2022-09-23 | 53 | 34 | 
-| 2022-09-22 | 53 | 34 | 
 

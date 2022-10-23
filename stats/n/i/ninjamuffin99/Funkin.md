@@ -1,6 +1,6 @@
 # ninjamuffin99/Funkin - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1982
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2159 | 1982 | 
 | 2022-10-21 | 2159 | 1982 | 
 | 2022-10-20 | 2159 | 1983 | 
 | 2022-10-19 | 2158 | 1980 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2148 | 1967 | 
 | 2022-09-24 | 2147 | 1964 | 
 | 2022-09-23 | 2145 | 1960 | 
-| 2022-09-22 | 2145 | 1959 | 
 

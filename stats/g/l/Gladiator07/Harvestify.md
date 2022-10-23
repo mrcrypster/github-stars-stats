@@ -1,8 +1,8 @@
 # Gladiator07/Harvestify - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 212
+☋ Forks: 213
 
 ★ Stars: 213
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 213 | 213 | 
 | 2022-10-21 | 213 | 212 | 
 | 2022-10-20 | 212 | 211 | 
 | 2022-10-19 | 212 | 210 | 

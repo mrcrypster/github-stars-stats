@@ -1,10 +1,10 @@
 # metalbear-co/mirrord - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 59
+☋ Forks: 61
 
-★ Stars: 1776
+★ Stars: 1838
 
 [Open repository](https://github.com/metalbear-co/mirrord)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1838 | 61 | 
 | 2022-10-21 | 1776 | 59 | 
 | 2022-10-20 | 1626 | 52 | 
 | 2022-10-19 | 1618 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1569 | 47 | 
 | 2022-09-24 | 1562 | 47 | 
 | 2022-09-23 | 1563 | 47 | 
-| 2022-09-22 | 1557 | 47 | 
 

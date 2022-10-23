@@ -1,6 +1,6 @@
 # immersive-web/raw-camera-access - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 28 | 10 | 
 | 2022-10-21 | 28 | 10 | 
 | 2022-10-20 | 28 | 10 | 
 | 2022-10-19 | 28 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 28 | 10 | 
 | 2022-09-25 | 28 | 10 | 
 | 2022-09-24 | 28 | 10 | 
-| 2022-09-23 | 28 | 10 | 
 

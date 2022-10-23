@@ -1,6 +1,6 @@
 # Zaoqu-Liu/IRLS - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 19 | 16 | 
 | 2022-10-21 | 19 | 16 | 
 | 2022-10-20 | 19 | 15 | 
 | 2022-10-19 | 19 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 15 | 14 | 
 | 2022-09-25 | 15 | 14 | 
 | 2022-09-24 | 15 | 14 | 
-| 2022-09-22 | 15 | 14 | 
 

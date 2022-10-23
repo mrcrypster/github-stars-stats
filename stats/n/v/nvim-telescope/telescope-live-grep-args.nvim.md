@@ -1,10 +1,10 @@
 # nvim-telescope/telescope-live-grep-args.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 13
 
-★ Stars: 155
+★ Stars: 157
 
 [Open repository](https://github.com/nvim-telescope/telescope-live-grep-args.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 157 | 13 | 
 | 2022-10-21 | 155 | 13 | 
 | 2022-10-20 | 153 | 13 | 
 | 2022-10-19 | 152 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 142 | 13 | 
 | 2022-09-24 | 142 | 13 | 
 | 2022-09-23 | 140 | 13 | 
-| 2022-09-22 | 140 | 13 | 
 

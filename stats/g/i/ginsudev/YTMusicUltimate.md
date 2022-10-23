@@ -1,10 +1,10 @@
 # ginsudev/YTMusicUltimate - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 143
+★ Stars: 147
 
 [Open repository](https://github.com/ginsudev/YTMusicUltimate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 147 | 20 | 
 | 2022-10-21 | 143 | 19 | 
 | 2022-10-20 | 142 | 19 | 
 | 2022-10-19 | 142 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 89 | 12 | 
 | 2022-09-24 | 86 | 12 | 
 | 2022-09-23 | 85 | 12 | 
-| 2022-09-22 | 85 | 12 | 
 

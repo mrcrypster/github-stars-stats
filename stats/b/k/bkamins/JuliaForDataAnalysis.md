@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 22
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 100
+★ Stars: 103
 
 [Open repository](https://github.com/bkamins/JuliaForDataAnalysis)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 100 | 14 | 
+| 2022-10-22 | 103 | 15 | 
 | 2022-10-21 | 100 | 14 | 
 | 2022-10-20 | 89 | 13 | 
 | 2022-10-19 | 81 | 11 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 62 | 8 | 
 | 2022-09-24 | 62 | 8 | 
 | 2022-09-23 | 62 | 8 | 
-| 2022-09-22 | 62 | 8 | 
 

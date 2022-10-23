@@ -1,10 +1,10 @@
 # brendangregg/FlameGraph - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1667
+☋ Forks: 1668
 
-★ Stars: 13718
+★ Stars: 13722
 
 [Open repository](https://github.com/brendangregg/FlameGraph)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 13722 | 1668 | 
 | 2022-10-21 | 13718 | 1667 | 
 | 2022-10-20 | 13706 | 1667 | 
 | 2022-10-19 | 13701 | 1664 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 13582 | 1654 | 
 | 2022-09-24 | 13579 | 1655 | 
 | 2022-09-23 | 13580 | 1655 | 
-| 2022-09-22 | 13577 | 1654 | 
 

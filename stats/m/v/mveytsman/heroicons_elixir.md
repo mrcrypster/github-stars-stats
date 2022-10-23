@@ -1,10 +1,10 @@
 # mveytsman/heroicons_elixir - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 18
 
-★ Stars: 73
+★ Stars: 75
 
 [Open repository](https://github.com/mveytsman/heroicons_elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 75 | 18 | 
 | 2022-10-22 | 73 | 18 | 
 | 2022-10-21 | 73 | 18 | 
 | 2022-10-20 | 73 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 59 | 17 | 
 | 2022-09-24 | 60 | 17 | 
 | 2022-09-23 | 60 | 18 | 
-| 2022-09-22 | 59 | 18 | 
 

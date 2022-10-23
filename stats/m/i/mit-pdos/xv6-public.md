@@ -1,10 +1,10 @@
 # mit-pdos/xv6-public - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3243
 
-★ Stars: 5910
+★ Stars: 5911
 
 [Open repository](https://github.com/mit-pdos/xv6-public)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 5911 | 3243 | 
 | 2022-10-21 | 5910 | 3243 | 
 | 2022-10-20 | 5907 | 3239 | 
 | 2022-10-19 | 5906 | 3238 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 5837 | 3186 | 
 | 2022-09-24 | 5835 | 3185 | 
 | 2022-09-23 | 5832 | 3185 | 
-| 2022-09-22 | 5831 | 3184 | 
 

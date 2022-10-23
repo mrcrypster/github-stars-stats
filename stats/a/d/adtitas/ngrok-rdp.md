@@ -1,10 +1,10 @@
 # adtitas/ngrok-rdp - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 918
+☋ Forks: 961
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/adtitas/ngrok-rdp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 43 | 961 | 
 | 2022-10-21 | 42 | 918 | 
 | 2022-10-20 | 41 | 870 | 
 | 2022-10-19 | 41 | 863 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 37 | 672 | 
 | 2022-09-24 | 36 | 670 | 
 | 2022-09-23 | 36 | 670 | 
-| 2022-09-22 | 36 | 659 | 
 

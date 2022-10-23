@@ -1,10 +1,10 @@
 # dbernheisel/seo - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3
 
-★ Stars: 51
+★ Stars: 53
 
 [Open repository](https://github.com/dbernheisel/seo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 53 | 3 | 
 | 2022-10-21 | 51 | 3 | 
 | 2022-10-20 | 50 | 3 | 
 | 2022-10-19 | 50 | 3 | 

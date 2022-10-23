@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 55
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/3kh0/ext-remover)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 65 | 55 | 
+| 2022-10-22 | 64 | 55 | 
 | 2022-10-21 | 65 | 55 | 
 | 2022-10-20 | 59 | 55 | 
 

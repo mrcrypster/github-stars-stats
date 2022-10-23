@@ -1,10 +1,10 @@
 # SNGWN/Burp-Suite - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 165
+☋ Forks: 166
 
-★ Stars: 362
+★ Stars: 367
 
 [Open repository](https://github.com/SNGWN/Burp-Suite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 367 | 166 | 
 | 2022-10-21 | 362 | 165 | 
 | 2022-10-20 | 361 | 163 | 
 | 2022-10-19 | 361 | 162 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 321 | 139 | 
 | 2022-09-24 | 321 | 138 | 
 | 2022-09-23 | 318 | 137 | 
-| 2022-09-22 | 317 | 137 | 
 

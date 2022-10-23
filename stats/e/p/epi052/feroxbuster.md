@@ -1,6 +1,6 @@
 # epi052/feroxbuster - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 311
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3271 | 311 | 
 | 2022-10-21 | 3271 | 311 | 
 | 2022-10-20 | 3270 | 310 | 
 | 2022-10-19 | 3269 | 310 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 3193 | 304 | 
 | 2022-09-24 | 3190 | 304 | 
 | 2022-09-23 | 3184 | 304 | 
-| 2022-09-22 | 3181 | 304 | 
 

@@ -1,10 +1,10 @@
 # Blankwonder/SGNetworkTest - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 7
 
-★ Stars: 95
+★ Stars: 94
 
 [Open repository](https://github.com/Blankwonder/SGNetworkTest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 94 | 7 | 
 | 2022-10-21 | 95 | 7 | 
 | 2022-10-20 | 95 | 7 | 
 | 2022-10-19 | 95 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 84 | 7 | 
 | 2022-09-24 | 84 | 7 | 
 | 2022-09-23 | 80 | 7 | 
-| 2022-09-22 | 78 | 6 | 
 

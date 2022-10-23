@@ -1,10 +1,10 @@
 # sbt/sbt - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 900
+☋ Forks: 902
 
-★ Stars: 4572
+★ Stars: 4573
 
 [Open repository](https://github.com/sbt/sbt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4573 | 902 | 
 | 2022-10-21 | 4572 | 900 | 
 | 2022-10-20 | 4571 | 900 | 
 | 2022-10-19 | 4570 | 899 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4553 | 898 | 
 | 2022-09-24 | 4553 | 898 | 
 | 2022-09-23 | 4552 | 898 | 
-| 2022-09-22 | 4550 | 898 | 
 

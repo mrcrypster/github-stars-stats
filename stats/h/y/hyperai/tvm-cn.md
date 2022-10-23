@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 33
 
-★ Stars: 102
+★ Stars: 105
 
 [Open repository](https://github.com/hyperai/tvm-cn)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 102 | 33 | 
+| 2022-10-22 | 105 | 33 | 
 | 2022-10-21 | 99 | 33 | 
 | 2022-10-20 | 86 | 26 | 
 | 2022-10-19 | 63 | 20 | 

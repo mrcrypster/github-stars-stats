@@ -1,10 +1,10 @@
 # robertkrimen/otto - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 568
 
-★ Stars: 6882
+★ Stars: 6883
 
 [Open repository](https://github.com/robertkrimen/otto)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6883 | 568 | 
 | 2022-10-21 | 6882 | 568 | 
 | 2022-10-20 | 6881 | 568 | 
 | 2022-10-19 | 6881 | 568 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6859 | 564 | 
 | 2022-09-24 | 6859 | 564 | 
 | 2022-09-23 | 6858 | 564 | 
-| 2022-09-22 | 6857 | 564 | 
 

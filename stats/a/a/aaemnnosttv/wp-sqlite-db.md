@@ -1,6 +1,6 @@
 # aaemnnosttv/wp-sqlite-db - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 411 | 75 | 
 | 2022-10-21 | 411 | 75 | 
 | 2022-10-20 | 411 | 75 | 
 | 2022-10-19 | 409 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 371 | 73 | 
 | 2022-09-24 | 352 | 73 | 
 | 2022-09-23 | 350 | 73 | 
-| 2022-09-22 | 349 | 73 | 
 

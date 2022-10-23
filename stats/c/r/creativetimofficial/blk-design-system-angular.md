@@ -1,8 +1,8 @@
 # creativetimofficial/blk-design-system-angular - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 56 | 67 | 
 | 2022-10-21 | 56 | 66 | 
 | 2022-10-20 | 56 | 64 | 
 | 2022-10-19 | 56 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 55 | 57 | 
 | 2022-09-24 | 55 | 56 | 
 | 2022-09-23 | 54 | 57 | 
-| 2022-09-22 | 54 | 57 | 
 

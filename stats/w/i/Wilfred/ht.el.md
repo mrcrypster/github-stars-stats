@@ -1,6 +1,6 @@
 # Wilfred/ht.el - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 217 | 38 | 
 | 2022-10-21 | 217 | 38 | 
 | 2022-10-20 | 217 | 38 | 
 | 2022-10-19 | 217 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 213 | 38 | 
 | 2022-09-24 | 213 | 38 | 
 | 2022-09-23 | 213 | 38 | 
-| 2022-09-22 | 213 | 38 | 
 

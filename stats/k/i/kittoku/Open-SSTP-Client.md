@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 40
 
-★ Stars: 159
+★ Stars: 162
 
 [Open repository](https://github.com/kittoku/Open-SSTP-Client)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 159 | 40 | 
+| 2022-10-22 | 162 | 40 | 
 | 2022-10-21 | 159 | 40 | 
 | 2022-10-20 | 152 | 40 | 
 | 2022-10-19 | 148 | 39 | 

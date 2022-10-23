@@ -1,10 +1,10 @@
 # rocketseat-education/ignite-lab-design-system - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 27
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/rocketseat-education/ignite-lab-design-system)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 86 | 27 | 
 | 2022-10-21 | 85 | 27 | 
 | 2022-10-20 | 84 | 25 | 
 | 2022-10-19 | 83 | 26 | 

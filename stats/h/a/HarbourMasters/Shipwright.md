@@ -1,10 +1,10 @@
 # HarbourMasters/Shipwright - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 276
+☋ Forks: 278
 
-★ Stars: 1499
+★ Stars: 1508
 
 [Open repository](https://github.com/HarbourMasters/Shipwright)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1508 | 278 | 
 | 2022-10-21 | 1499 | 276 | 
 | 2022-10-20 | 1497 | 274 | 
 | 2022-10-19 | 1489 | 272 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 1441 | 260 | 
 | 2022-09-25 | 1440 | 260 | 
 | 2022-09-24 | 1438 | 259 | 
-| 2022-09-23 | 1436 | 259 | 
 

@@ -1,6 +1,6 @@
 # well-typed/plutonomy - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 29 | 6 | 
 | 2022-10-21 | 29 | 6 | 
 | 2022-10-20 | 29 | 6 | 
 | 2022-10-19 | 29 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 28 | 5 | 
 | 2022-09-25 | 28 | 5 | 
 | 2022-09-24 | 28 | 5 | 
-| 2022-09-23 | 28 | 5 | 
 

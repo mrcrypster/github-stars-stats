@@ -1,6 +1,6 @@
 # camunda/feel-scala - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 77 | 38 | 
 | 2022-10-21 | 77 | 38 | 
 | 2022-10-20 | 77 | 38 | 
 | 2022-10-19 | 77 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 75 | 35 | 
 | 2022-09-24 | 75 | 35 | 
 | 2022-09-23 | 75 | 35 | 
-| 2022-09-22 | 75 | 35 | 
 

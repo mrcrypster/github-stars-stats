@@ -1,6 +1,6 @@
 # AbdullahO/tspdb - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 166 | 52 | 
 | 2022-10-21 | 166 | 52 | 
 | 2022-10-20 | 166 | 52 | 
 | 2022-10-19 | 166 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 165 | 51 | 
 | 2022-09-24 | 165 | 51 | 
 | 2022-09-23 | 164 | 51 | 
-| 2022-09-22 | 164 | 52 | 
 

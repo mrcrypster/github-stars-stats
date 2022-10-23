@@ -1,10 +1,10 @@
 # ziontee113/neo-minimap - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 86
+★ Stars: 89
 
 [Open repository](https://github.com/ziontee113/neo-minimap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 89 | - | 
 | 2022-10-21 | 86 | - | 
 | 2022-10-20 | 85 | - | 
 | 2022-10-19 | 83 | - | 

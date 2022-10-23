@@ -1,10 +1,10 @@
 # jonbarron/website - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1049
+☋ Forks: 1051
 
-★ Stars: 1187
+★ Stars: 1189
 
 [Open repository](https://github.com/jonbarron/website)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1189 | 1051 | 
 | 2022-10-21 | 1187 | 1049 | 
 | 2022-10-20 | 1185 | 1048 | 
 | 2022-10-19 | 1183 | 1048 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1155 | 1014 | 
 | 2022-09-24 | 1153 | 1012 | 
 | 2022-09-23 | 1151 | 1010 | 
-| 2022-09-22 | 1147 | 1007 | 
 

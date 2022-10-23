@@ -1,10 +1,10 @@
 # ashwani-rathee/ExifViewer.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/ashwani-rathee/ExifViewer.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 22 | - | 
 | 2022-10-21 | 21 | - | 
 | 2022-10-20 | 21 | - | 
 | 2022-10-19 | 21 | - | 

@@ -1,6 +1,6 @@
 # microsoft/qsharp-language - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 132 | 45 | 
 | 2022-10-21 | 132 | 45 | 
 | 2022-10-20 | 133 | 45 | 
 | 2022-10-19 | 133 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 132 | 45 | 
 | 2022-09-24 | 132 | 45 | 
 | 2022-09-23 | 132 | 45 | 
-| 2022-09-22 | 132 | 45 | 
 

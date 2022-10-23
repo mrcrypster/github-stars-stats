@@ -1,8 +1,8 @@
 # department-of-veterans-affairs/vets-api - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 56
+☋ Forks: 54
 
 ★ Stars: 134
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 134 | 54 | 
 | 2022-10-21 | 134 | 56 | 
 | 2022-10-20 | 134 | 56 | 
 | 2022-10-19 | 134 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 132 | 53 | 
 | 2022-09-24 | 132 | 53 | 
 | 2022-09-23 | 132 | 53 | 
-| 2022-09-22 | 132 | 53 | 
 

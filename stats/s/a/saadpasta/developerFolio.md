@@ -1,10 +1,10 @@
 # saadpasta/developerFolio - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1621
+☋ Forks: 1624
 
-★ Stars: 3575
+★ Stars: 3580
 
 [Open repository](https://github.com/saadpasta/developerFolio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3580 | 1624 | 
 | 2022-10-21 | 3575 | 1621 | 
 | 2022-10-20 | 3573 | 1621 | 
 | 2022-10-19 | 3573 | 1619 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 3511 | 1589 | 
 | 2022-09-24 | 3509 | 1586 | 
 | 2022-09-23 | 3508 | 1584 | 
-| 2022-09-22 | 3506 | 1584 | 
 

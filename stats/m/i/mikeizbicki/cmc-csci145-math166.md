@@ -1,6 +1,6 @@
 # mikeizbicki/cmc-csci145-math166 - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 22 | 44 | 
 | 2022-10-21 | 22 | 44 | 
 | 2022-10-20 | 22 | 44 | 
 | 2022-10-19 | 22 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 21 | 40 | 
 | 2022-09-24 | 21 | 40 | 
 | 2022-09-23 | 21 | 40 | 
-| 2022-09-22 | 21 | 40 | 
 

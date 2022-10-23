@@ -1,6 +1,6 @@
 # wuelnerdotexe/vim-enfocado - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 245 | 8 | 
 | 2022-10-21 | 245 | 8 | 
 | 2022-10-20 | 244 | 8 | 
 | 2022-10-19 | 244 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 227 | 7 | 
 | 2022-09-25 | 226 | 7 | 
 | 2022-09-24 | 226 | 7 | 
-| 2022-09-22 | 226 | 7 | 
 

@@ -1,10 +1,10 @@
 # benthosdev/benthos - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 482
 
-★ Stars: 4867
+★ Stars: 4870
 
 [Open repository](https://github.com/benthosdev/benthos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4870 | 482 | 
 | 2022-10-21 | 4867 | 482 | 
 | 2022-10-20 | 4865 | 481 | 
 | 2022-10-19 | 4862 | 481 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4799 | 471 | 
 | 2022-09-24 | 4797 | 471 | 
 | 2022-09-23 | 4796 | 470 | 
-| 2022-09-22 | 4795 | 470 | 
 

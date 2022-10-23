@@ -1,10 +1,10 @@
 # iamnihal/warf - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 28
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/iamnihal/warf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 162 | 28 | 
 | 2022-10-21 | 161 | 28 | 
 | 2022-10-20 | 160 | 28 | 
 | 2022-10-19 | 157 | 27 | 

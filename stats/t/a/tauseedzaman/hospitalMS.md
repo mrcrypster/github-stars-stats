@@ -1,10 +1,10 @@
 # tauseedzaman/hospitalMS - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 36
+★ Stars: 38
 
 [Open repository](https://github.com/tauseedzaman/hospitalMS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 38 | 25 | 
 | 2022-10-21 | 36 | 25 | 
 | 2022-10-20 | 36 | 25 | 
 | 2022-10-19 | 36 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 31 | 23 | 
 | 2022-09-24 | 31 | 23 | 
 | 2022-09-23 | 31 | 23 | 
-| 2022-09-22 | 31 | 23 | 
 

@@ -1,10 +1,10 @@
 # redguardtoo/emacs.d - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 612
+☋ Forks: 613
 
-★ Stars: 2197
+★ Stars: 2199
 
 [Open repository](https://github.com/redguardtoo/emacs.d)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2199 | 613 | 
 | 2022-10-21 | 2197 | 612 | 
 | 2022-10-20 | 2197 | 612 | 
 | 2022-10-19 | 2196 | 611 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2183 | 613 | 
 | 2022-09-24 | 2182 | 613 | 
 | 2022-09-23 | 2182 | 613 | 
-| 2022-09-22 | 2182 | 613 | 
 

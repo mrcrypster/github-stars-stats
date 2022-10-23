@@ -1,10 +1,10 @@
 # KasRoudra/PyPhisher - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 172
 
-★ Stars: 813
+★ Stars: 816
 
 [Open repository](https://github.com/KasRoudra/PyPhisher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 816 | 172 | 
 | 2022-10-21 | 813 | 172 | 
 | 2022-10-20 | 812 | 172 | 
 | 2022-10-19 | 803 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 667 | 138 | 
 | 2022-09-24 | 663 | 138 | 
 | 2022-09-23 | 661 | 135 | 
-| 2022-09-22 | 659 | 134 | 
 

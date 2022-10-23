@@ -1,6 +1,6 @@
 # Disabled-Coding/dc-casino - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 34 | 13 | 
 | 2022-10-21 | 34 | 13 | 
 | 2022-10-20 | 35 | 13 | 
 | 2022-10-19 | 35 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 26 | 11 | 
 | 2022-09-24 | 24 | 10 | 
 | 2022-09-23 | 24 | 10 | 
-| 2022-09-22 | 24 | 10 | 
 

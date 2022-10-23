@@ -1,10 +1,10 @@
 # svartalf/rust-battop - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 9
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/svartalf/rust-battop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 362 | 9 | 
 | 2022-10-21 | 361 | 9 | 
 | 2022-10-20 | 361 | 9 | 
 | 2022-10-19 | 361 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 355 | 9 | 
 | 2022-09-24 | 355 | 9 | 
 | 2022-09-23 | 354 | 9 | 
-| 2022-09-22 | 354 | 9 | 
 

@@ -1,10 +1,10 @@
 # 2point21/lba2-classic - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 34
 
-★ Stars: 439
+★ Stars: 440
 
 [Open repository](https://github.com/2point21/lba2-classic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 440 | 34 | 
 | 2022-10-21 | 439 | 34 | 
 | 2022-10-20 | 439 | 34 | 
 | 2022-10-19 | 440 | 34 | 

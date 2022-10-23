@@ -1,10 +1,10 @@
 # LaunchX-InnovaccionVirtual/onboarding-github-launchx - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 118
 
-★ Stars: 418
+★ Stars: 417
 
 [Open repository](https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 417 | 118 | 
 | 2022-10-21 | 418 | 118 | 
 | 2022-10-20 | 418 | 118 | 
 | 2022-10-19 | 418 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 417 | 118 | 
 | 2022-09-24 | 416 | 118 | 
 | 2022-09-23 | 416 | 119 | 
-| 2022-09-22 | 416 | 119 | 
 

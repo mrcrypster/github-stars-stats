@@ -1,6 +1,6 @@
 # jlevers/selling-partner-api - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 99
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 199 | 99 | 
 | 2022-10-21 | 199 | 99 | 
 | 2022-10-20 | 198 | 99 | 
 | 2022-10-19 | 198 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 194 | 94 | 
 | 2022-09-24 | 194 | 93 | 
 | 2022-09-23 | 194 | 93 | 
-| 2022-09-22 | 193 | 93 | 
 

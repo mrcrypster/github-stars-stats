@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 91
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/dotnet/blazor-samples)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 86 | 91 | 
+| 2022-10-22 | 87 | 91 | 
 | 2022-10-21 | 86 | 91 | 
 | 2022-10-20 | 84 | 90 | 
 | 2022-10-19 | 84 | 89 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 73 | 79 | 
 | 2022-09-24 | 73 | 79 | 
 | 2022-09-23 | 73 | 79 | 
-| 2022-09-22 | 72 | 79 | 
 

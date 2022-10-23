@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 22
 
-☋ Forks: 44
+☋ Forks: 46
 
-★ Stars: 21
+★ Stars: 26
 
 [Open repository](https://github.com/PrismLauncher/prismlauncher.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 21 | 44 | 
+| 2022-10-22 | 26 | 46 | 
 | 2022-10-21 | 21 | 44 | 
 | 2022-10-20 | 18 | 36 | 
 

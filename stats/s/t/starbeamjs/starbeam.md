@@ -1,6 +1,6 @@
 # starbeamjs/starbeam - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 208 | 10 | 
 | 2022-10-21 | 208 | 10 | 
 | 2022-10-20 | 207 | 10 | 
 | 2022-10-19 | 207 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 204 | 8 | 
 | 2022-09-25 | 203 | 8 | 
 | 2022-09-24 | 202 | 8 | 
-| 2022-09-23 | 202 | 8 | 
 

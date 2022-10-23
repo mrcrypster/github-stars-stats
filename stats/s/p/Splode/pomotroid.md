@@ -1,10 +1,10 @@
 # Splode/pomotroid - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 252
 
-★ Stars: 2738
+★ Stars: 2742
 
 [Open repository](https://github.com/Splode/pomotroid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2742 | 252 | 
 | 2022-10-21 | 2738 | 252 | 
 | 2022-10-20 | 2738 | 252 | 
 | 2022-10-19 | 2735 | 252 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2684 | 249 | 
 | 2022-09-24 | 2683 | 249 | 
 | 2022-09-23 | 2681 | 249 | 
-| 2022-09-22 | 2681 | 249 | 
 

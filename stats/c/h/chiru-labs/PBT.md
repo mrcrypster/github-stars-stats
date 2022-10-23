@@ -1,10 +1,10 @@
 # chiru-labs/PBT - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 135
+★ Stars: 139
 
 [Open repository](https://github.com/chiru-labs/PBT)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 139 | 17 | 
 | 2022-10-21 | 135 | 15 | 
 | 2022-10-20 | 132 | 15 | 
 | 2022-10-19 | 125 | 15 | 

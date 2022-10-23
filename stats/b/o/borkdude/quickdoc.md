@@ -1,10 +1,10 @@
 # borkdude/quickdoc - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 4
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/borkdude/quickdoc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 102 | 4 | 
 | 2022-10-21 | 101 | 4 | 
 | 2022-10-20 | 100 | 4 | 
 | 2022-10-19 | 100 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 88 | 3 | 
 | 2022-09-24 | 88 | 3 | 
 | 2022-09-23 | 88 | 3 | 
-| 2022-09-22 | 88 | 3 | 
 

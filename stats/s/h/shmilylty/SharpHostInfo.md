@@ -1,6 +1,6 @@
 # shmilylty/SharpHostInfo - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 308 | 31 | 
 | 2022-10-21 | 308 | 31 | 
 | 2022-10-20 | 307 | 31 | 
 | 2022-10-19 | 306 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 269 | 27 | 
 | 2022-09-24 | 269 | 27 | 
 | 2022-09-23 | 269 | 26 | 
-| 2022-09-22 | 266 | 26 | 
 

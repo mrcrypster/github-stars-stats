@@ -1,8 +1,8 @@
 # eclipse-tycho/tycho - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 150
+☋ Forks: 151
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 125 | 151 | 
 | 2022-10-21 | 125 | 150 | 
 | 2022-10-20 | 125 | 150 | 
 | 2022-10-19 | 125 | 149 | 

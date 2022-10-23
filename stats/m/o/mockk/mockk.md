@@ -1,10 +1,10 @@
 # mockk/mockk - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 265
 
-★ Stars: 4689
+★ Stars: 4688
 
 [Open repository](https://github.com/mockk/mockk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 4688 | 265 | 
 | 2022-10-21 | 4689 | 265 | 
 | 2022-10-20 | 4689 | 265 | 
 | 2022-10-19 | 4687 | 265 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4650 | 258 | 
 | 2022-09-24 | 4649 | 258 | 
 | 2022-09-23 | 4646 | 258 | 
-| 2022-09-22 | 4646 | 258 | 
 

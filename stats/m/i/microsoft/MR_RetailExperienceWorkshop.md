@@ -1,10 +1,10 @@
 # microsoft/MR_RetailExperienceWorkshop - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/microsoft/MR_RetailExperienceWorkshop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 21 | 6 | 
 | 2022-10-21 | 20 | 6 | 
 | 2022-10-20 | 20 | 6 | 
 | 2022-10-19 | 20 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 20 | 5 | 
 | 2022-09-24 | 20 | 5 | 
 | 2022-09-23 | 20 | 5 | 
-| 2022-09-22 | 20 | 5 | 
 

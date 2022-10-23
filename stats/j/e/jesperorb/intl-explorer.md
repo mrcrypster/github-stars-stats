@@ -1,10 +1,10 @@
 # jesperorb/intl-explorer - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 3
 
-★ Stars: 80
+★ Stars: 84
 
 [Open repository](https://github.com/jesperorb/intl-explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 84 | 3 | 
 | 2022-10-21 | 80 | 3 | 
 | 2022-10-20 | 79 | 3 | 
 | 2022-10-19 | 73 | 3 | 

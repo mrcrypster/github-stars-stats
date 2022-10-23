@@ -1,6 +1,6 @@
 # tommcdo/vim-exchange - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 668 | 24 | 
 | 2022-10-21 | 668 | 24 | 
 | 2022-10-20 | 668 | 24 | 
 | 2022-10-19 | 668 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 662 | 24 | 
 | 2022-09-24 | 661 | 24 | 
 | 2022-09-23 | 661 | 24 | 
-| 2022-09-22 | 660 | 24 | 
 

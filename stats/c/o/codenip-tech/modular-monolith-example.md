@@ -1,6 +1,6 @@
 # codenip-tech/modular-monolith-example - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 9 | 7 | 
 | 2022-10-21 | 9 | 7 | 
 | 2022-10-20 | 9 | 7 | 
 | 2022-10-19 | 9 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 8 | 7 | 
 | 2022-09-25 | 8 | 7 | 
 | 2022-09-24 | 8 | 7 | 
-| 2022-09-23 | 8 | 7 | 
 

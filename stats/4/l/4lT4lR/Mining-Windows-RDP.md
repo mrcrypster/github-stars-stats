@@ -1,8 +1,8 @@
 # 4lT4lR/Mining-Windows-RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | - | 21 | 
 | 2022-10-21 | - | 20 | 
 | 2022-10-20 | - | 20 | 
 | 2022-10-19 | - | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | - | 18 | 
 | 2022-09-24 | - | 18 | 
 | 2022-09-23 | - | 18 | 
-| 2022-09-22 | - | 18 | 
 

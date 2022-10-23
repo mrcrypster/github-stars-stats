@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-ecs-fargate-service - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6 | 33 | 
 | 2022-10-21 | 6 | 33 | 
 | 2022-10-20 | 6 | 33 | 
 | 2022-10-19 | 6 | 33 | 

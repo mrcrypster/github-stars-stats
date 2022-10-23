@@ -1,10 +1,10 @@
 # soxoj/counter-osint-guide-ru - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 25
 
-★ Stars: 149
+★ Stars: 150
 
 [Open repository](https://github.com/soxoj/counter-osint-guide-ru)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 150 | 25 | 
 | 2022-10-21 | 149 | 25 | 
 | 2022-10-20 | 149 | 25 | 
 | 2022-10-19 | 150 | 25 | 

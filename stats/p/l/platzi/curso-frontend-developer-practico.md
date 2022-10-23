@@ -1,10 +1,10 @@
 # platzi/curso-frontend-developer-practico - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1811
+☋ Forks: 1818
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/platzi/curso-frontend-developer-practico)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 180 | 1818 | 
 | 2022-10-21 | 179 | 1811 | 
 | 2022-10-20 | 179 | 1801 | 
 | 2022-10-19 | 179 | 1784 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 163 | 1459 | 
 | 2022-09-24 | 163 | 1446 | 
 | 2022-09-23 | 161 | 1429 | 
-| 2022-09-22 | 159 | 1424 | 
 

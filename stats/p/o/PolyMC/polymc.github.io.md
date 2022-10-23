@@ -1,10 +1,10 @@
 # PolyMC/polymc.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 53
+☋ Forks: 50
 
-★ Stars: 19
+★ Stars: 18
 
 [Open repository](https://github.com/PolyMC/polymc.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 18 | 50 | 
 | 2022-10-21 | 19 | 53 | 
 | 2022-10-20 | 19 | 52 | 
 | 2022-10-19 | 19 | 52 | 

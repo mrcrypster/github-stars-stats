@@ -1,10 +1,10 @@
 # tusen-ai/naive-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 1170
+☋ Forks: 1172
 
-★ Stars: 10619
+★ Stars: 10628
 
 [Open repository](https://github.com/tusen-ai/naive-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 10628 | 1172 | 
 | 2022-10-22 | 10619 | 1170 | 
 | 2022-10-21 | 10605 | 1169 | 
 | 2022-10-19 | 10592 | 1166 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 10384 | 1145 | 
 | 2022-09-24 | 10377 | 1145 | 
 | 2022-09-23 | 10374 | 1144 | 
-| 2022-09-22 | 10361 | 1145 | 
 

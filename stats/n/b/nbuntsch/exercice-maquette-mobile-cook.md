@@ -1,6 +1,6 @@
 # nbuntsch/exercice-maquette-mobile-cook - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | - | 38 | 
 | 2022-10-22 | - | 38 | 
 | 2022-10-21 | - | 38 | 
 | 2022-10-20 | - | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | - | 38 | 
 | 2022-09-24 | - | 38 | 
 | 2022-09-23 | - | 38 | 
-| 2022-09-22 | - | 38 | 
 

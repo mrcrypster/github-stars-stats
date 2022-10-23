@@ -1,6 +1,6 @@
 # mcanouil/quarto-letter - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 21 | 1 | 
 | 2022-10-21 | 21 | 1 | 
 | 2022-10-20 | 21 | 1 | 
 | 2022-10-19 | 21 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 19 | 1 | 
 | 2022-09-24 | 19 | 1 | 
 | 2022-09-23 | 19 | 1 | 
-| 2022-09-22 | 19 | 1 | 
 

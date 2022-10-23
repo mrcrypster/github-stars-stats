@@ -1,10 +1,10 @@
 # anujd64/Thunder - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 38
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/anujd64/Thunder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 173 | 38 | 
 | 2022-10-21 | 172 | 38 | 
 | 2022-10-20 | 172 | 37 | 
 | 2022-10-19 | 172 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 156 | 32 | 
 | 2022-09-24 | 156 | 32 | 
 | 2022-09-23 | 156 | 32 | 
-| 2022-09-22 | 156 | 32 | 
 

@@ -1,10 +1,10 @@
 # WazeHell/vulnerable-AD - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 235
 
-★ Stars: 1134
+★ Stars: 1135
 
 [Open repository](https://github.com/WazeHell/vulnerable-AD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1135 | 235 | 
 | 2022-10-21 | 1134 | 235 | 
 | 2022-10-20 | 1134 | 235 | 
 | 2022-10-19 | 1134 | 236 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1102 | 228 | 
 | 2022-09-24 | 1101 | 228 | 
 | 2022-09-23 | 1099 | 227 | 
-| 2022-09-22 | 1097 | 227 | 
 

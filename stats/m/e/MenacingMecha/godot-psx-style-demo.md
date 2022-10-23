@@ -1,10 +1,10 @@
 # MenacingMecha/godot-psx-style-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 14
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/MenacingMecha/godot-psx-style-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 201 | 14 | 
 | 2022-10-21 | 200 | 14 | 
 | 2022-10-20 | 200 | 14 | 
 | 2022-10-19 | 200 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 194 | 13 | 
 | 2022-09-24 | 192 | 13 | 
 | 2022-09-23 | 192 | 13 | 
-| 2022-09-22 | 192 | 13 | 
 

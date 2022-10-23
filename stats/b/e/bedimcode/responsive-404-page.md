@@ -1,6 +1,6 @@
 # bedimcode/responsive-404-page - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 64 | 25 | 
 | 2022-10-22 | 64 | 25 | 
 | 2022-10-21 | 63 | 25 | 
 | 2022-10-20 | 63 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 58 | 23 | 
 | 2022-09-24 | 58 | 23 | 
 | 2022-09-23 | 58 | 23 | 
-| 2022-09-22 | 57 | 22 | 
 

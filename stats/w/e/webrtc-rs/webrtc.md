@@ -1,10 +1,10 @@
 # webrtc-rs/webrtc - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 150
 
-★ Stars: 2317
+★ Stars: 2320
 
 [Open repository](https://github.com/webrtc-rs/webrtc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2320 | 150 | 
 | 2022-10-21 | 2317 | 150 | 
 | 2022-10-20 | 2313 | 150 | 
 | 2022-10-19 | 2312 | 150 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2218 | 140 | 
 | 2022-09-24 | 2215 | 140 | 
 | 2022-09-23 | 2198 | 138 | 
-| 2022-09-22 | 2194 | 137 | 
 

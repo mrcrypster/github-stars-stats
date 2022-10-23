@@ -1,6 +1,6 @@
 # openshiporg/openship - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 904 | 41 | 
 | 2022-10-22 | 904 | 41 | 
 | 2022-10-21 | 904 | 41 | 
 | 2022-10-19 | 903 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 884 | 39 | 
 | 2022-09-24 | 883 | 39 | 
 | 2022-09-23 | 882 | 39 | 
-| 2022-09-22 | 883 | 39 | 
 

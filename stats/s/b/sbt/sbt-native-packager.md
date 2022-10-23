@@ -1,6 +1,6 @@
 # sbt/sbt-native-packager - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 439
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1541 | 439 | 
 | 2022-10-21 | 1541 | 439 | 
 | 2022-10-20 | 1541 | 439 | 
 | 2022-10-19 | 1541 | 438 | 

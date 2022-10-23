@@ -1,8 +1,8 @@
 # jfrog/jfrog-docker-repo-simple-example - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 1793
+☋ Forks: 1794
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 36 | 1794 | 
 | 2022-10-21 | 36 | 1793 | 
 | 2022-10-20 | 36 | 1795 | 
 | 2022-10-19 | 36 | 1795 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 36 | 1794 | 
 | 2022-09-25 | 36 | 1794 | 
 | 2022-09-24 | 36 | 1794 | 
-| 2022-09-22 | 36 | 1794 | 
 

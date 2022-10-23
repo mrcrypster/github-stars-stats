@@ -1,6 +1,6 @@
 # ruby0x1/machinery_blog_archive - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 154 | 32 | 
 | 2022-10-21 | 154 | 32 | 
 | 2022-10-20 | 154 | 32 | 
 | 2022-10-19 | 153 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 140 | 28 | 
 | 2022-09-24 | 140 | 28 | 
 | 2022-09-23 | 140 | 28 | 
-| 2022-09-22 | 140 | 29 | 
 

@@ -1,6 +1,6 @@
 # weilanwl/coloruiBeta - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 454 | 100 | 
 | 2022-10-21 | 454 | 100 | 
 | 2022-10-20 | 453 | 101 | 
 | 2022-10-19 | 453 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 440 | 99 | 
 | 2022-09-24 | 440 | 99 | 
 | 2022-09-23 | 439 | 99 | 
-| 2022-09-22 | 439 | 99 | 
 

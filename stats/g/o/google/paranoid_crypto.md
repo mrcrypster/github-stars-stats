@@ -1,10 +1,10 @@
 # google/paranoid_crypto - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 38
 
-★ Stars: 725
+★ Stars: 727
 
 [Open repository](https://github.com/google/paranoid_crypto)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 727 | 38 | 
 | 2022-10-21 | 725 | 38 | 
 | 2022-10-20 | 725 | 38 | 
 | 2022-10-19 | 725 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 708 | 37 | 
 | 2022-09-24 | 707 | 37 | 
 | 2022-09-23 | 705 | 37 | 
-| 2022-09-22 | 704 | 37 | 
 

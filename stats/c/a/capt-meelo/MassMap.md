@@ -1,10 +1,10 @@
 # capt-meelo/MassMap - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 33
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/capt-meelo/MassMap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 122 | 33 | 
 | 2022-10-21 | 121 | 33 | 
 | 2022-10-20 | 121 | 33 | 
 | 2022-10-19 | 121 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 118 | 33 | 
 | 2022-09-24 | 118 | 32 | 
 | 2022-09-23 | 118 | 32 | 
-| 2022-09-22 | 118 | 32 | 
 

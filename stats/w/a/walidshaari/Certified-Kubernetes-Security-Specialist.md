@@ -1,6 +1,6 @@
 # walidshaari/Certified-Kubernetes-Security-Specialist - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 441
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1515 | 441 | 
 | 2022-10-21 | 1515 | 441 | 
 | 2022-10-20 | 1514 | 440 | 
 | 2022-10-19 | 1513 | 439 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 1493 | 431 | 
 | 2022-09-25 | 1494 | 431 | 
 | 2022-09-24 | 1494 | 431 | 
-| 2022-09-23 | 1494 | 431 | 
 

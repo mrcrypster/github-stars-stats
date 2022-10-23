@@ -1,6 +1,6 @@
 # ruesandora/stride-testnet - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 368
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 144 | 368 | 
 | 2022-10-21 | 144 | 368 | 
 | 2022-10-20 | 144 | 367 | 
 | 2022-10-19 | 144 | 367 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 142 | 364 | 
 | 2022-09-24 | 142 | 364 | 
 | 2022-09-23 | 141 | 363 | 
-| 2022-09-22 | 141 | 363 | 
 

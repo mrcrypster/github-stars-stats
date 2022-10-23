@@ -1,6 +1,6 @@
 # h2database/h2database - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 1071
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 3492 | 1071 | 
 | 2022-10-21 | 3492 | 1071 | 
 | 2022-10-20 | 3492 | 1071 | 
 | 2022-10-19 | 3492 | 1071 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 3457 | 1062 | 
 | 2022-09-24 | 3457 | 1062 | 
 | 2022-09-23 | 3454 | 1062 | 
-| 2022-09-22 | 3454 | 1062 | 
 

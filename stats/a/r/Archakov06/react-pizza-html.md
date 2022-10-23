@@ -1,6 +1,6 @@
 # Archakov06/react-pizza-html - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 55 | 134 | 
 | 2022-10-21 | 55 | 134 | 
 | 2022-10-20 | 55 | 133 | 
 | 2022-10-19 | 55 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 53 | 125 | 
 | 2022-09-25 | 53 | 125 | 
 | 2022-09-24 | 53 | 125 | 
-| 2022-09-23 | 53 | 124 | 
 

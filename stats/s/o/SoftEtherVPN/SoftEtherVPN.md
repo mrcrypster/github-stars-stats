@@ -1,10 +1,10 @@
 # SoftEtherVPN/SoftEtherVPN - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 2278
+☋ Forks: 2280
 
-★ Stars: 9348
+★ Stars: 9352
 
 [Open repository](https://github.com/SoftEtherVPN/SoftEtherVPN)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 9352 | 2280 | 
 | 2022-10-21 | 9348 | 2278 | 
 | 2022-10-20 | 9345 | 2277 | 
 | 2022-10-19 | 9337 | 2276 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 9259 | 2253 | 
 | 2022-09-24 | 9257 | 2253 | 
 | 2022-09-23 | 9252 | 2253 | 
-| 2022-09-22 | 9248 | 2253 | 
 

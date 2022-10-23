@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 7
 
-★ Stars: 157
+★ Stars: 159
 
 [Open repository](https://github.com/Yetiowner/Increasing-code-complexity)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 157 | 7 | 
+| 2022-10-22 | 159 | 7 | 
 | 2022-10-21 | 155 | 7 | 
 

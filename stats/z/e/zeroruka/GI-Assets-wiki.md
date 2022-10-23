@@ -1,6 +1,6 @@
 # zeroruka/GI-Assets-wiki - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 64 | 11 | 
 | 2022-10-21 | 64 | 11 | 
 | 2022-10-20 | 64 | 11 | 
 | 2022-10-19 | 64 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 66 | 10 | 
 | 2022-09-24 | 65 | 10 | 
 | 2022-09-23 | 65 | 10 | 
-| 2022-09-22 | 65 | 10 | 
 

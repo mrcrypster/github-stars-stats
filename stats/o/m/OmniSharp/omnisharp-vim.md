@@ -1,8 +1,8 @@
 # OmniSharp/omnisharp-vim - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 166
+☋ Forks: 165
 
 ★ Stars: 1493
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 1493 | 165 | 
 | 2022-10-21 | 1493 | 166 | 
 | 2022-10-20 | 1493 | 165 | 
 | 2022-10-19 | 1493 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 1484 | 166 | 
 | 2022-09-24 | 1483 | 166 | 
 | 2022-09-23 | 1482 | 166 | 
-| 2022-09-22 | 1482 | 166 | 
 

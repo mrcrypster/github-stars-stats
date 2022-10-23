@@ -1,6 +1,6 @@
 # moj-analytical-services/IntroRTraining - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 13 | 8 | 
 | 2022-10-21 | 13 | 8 | 
 | 2022-10-20 | 13 | 8 | 
 | 2022-10-19 | 13 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 12 | 8 | 
 | 2022-09-24 | 12 | 8 | 
 | 2022-09-23 | 12 | 8 | 
-| 2022-09-22 | 12 | 8 | 
 

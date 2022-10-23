@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/HarmonyHoney/CandyWrapper)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 31 | 1 | 
+| 2022-10-22 | 32 | 1 | 
 | 2022-10-21 | 31 | 1 | 
 

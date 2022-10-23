@@ -1,6 +1,6 @@
 # unixsea/dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 57 | 2 | 
 | 2022-10-21 | 57 | 2 | 
 | 2022-10-20 | 57 | 2 | 
 | 2022-10-19 | 56 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 53 | 1 | 
 | 2022-09-24 | 53 | 1 | 
 | 2022-09-23 | 53 | - | 
-| 2022-09-22 | 53 | - | 
 

@@ -1,6 +1,6 @@
 # sam-goodwin/typesafe-dynamodb - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 154 | 7 | 
 | 2022-10-21 | 154 | 7 | 
 | 2022-10-20 | 154 | 7 | 
 | 2022-10-19 | 154 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 151 | 7 | 
 | 2022-09-24 | 151 | 7 | 
 | 2022-09-23 | 151 | 7 | 
-| 2022-09-22 | 151 | 7 | 
 

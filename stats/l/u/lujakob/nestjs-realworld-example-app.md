@@ -1,6 +1,6 @@
 # lujakob/nestjs-realworld-example-app - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 516
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 2335 | 516 | 
 | 2022-10-21 | 2335 | 516 | 
 | 2022-10-20 | 2334 | 517 | 
 | 2022-10-19 | 2334 | 517 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 2302 | 511 | 
 | 2022-09-24 | 2300 | 510 | 
 | 2022-09-23 | 2299 | 510 | 
-| 2022-09-22 | 2295 | 510 | 
 

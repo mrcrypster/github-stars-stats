@@ -1,10 +1,10 @@
 # wuba/Antenna - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 64
 
-★ Stars: 530
+★ Stars: 531
 
 [Open repository](https://github.com/wuba/Antenna)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 531 | 64 | 
 | 2022-10-21 | 530 | 64 | 
 | 2022-10-20 | 529 | 64 | 
 | 2022-10-19 | 524 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 509 | 62 | 
 | 2022-09-24 | 507 | 62 | 
 | 2022-09-23 | 505 | 61 | 
-| 2022-09-22 | 505 | 61 | 
 

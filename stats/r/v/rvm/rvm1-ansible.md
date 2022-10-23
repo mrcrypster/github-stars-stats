@@ -1,6 +1,6 @@
 # rvm/rvm1-ansible - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 262 | 140 | 
 | 2022-10-21 | 262 | 140 | 
 | 2022-10-20 | 262 | 139 | 
 | 2022-10-19 | 262 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 262 | 139 | 
 | 2022-09-25 | 262 | 139 | 
 | 2022-09-24 | 262 | 139 | 
-| 2022-09-23 | 262 | 139 | 
 

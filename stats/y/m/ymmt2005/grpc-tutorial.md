@@ -1,6 +1,6 @@
 # ymmt2005/grpc-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 619 | 17 | 
 | 2022-10-21 | 619 | 17 | 
 | 2022-10-20 | 619 | 17 | 
 | 2022-10-19 | 619 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 618 | 17 | 
 | 2022-09-24 | 617 | 17 | 
 | 2022-09-23 | 617 | 17 | 
-| 2022-09-22 | 617 | 17 | 
 

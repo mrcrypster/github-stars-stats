@@ -1,6 +1,6 @@
 # WTTJ/ecto_anon - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 67 | - | 
 | 2022-10-21 | 67 | - | 
 | 2022-10-20 | 66 | - | 
 | 2022-10-19 | 66 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 54 | - | 
 | 2022-09-24 | 54 | - | 
 | 2022-09-23 | 52 | - | 
-| 2022-09-22 | 51 | - | 
 

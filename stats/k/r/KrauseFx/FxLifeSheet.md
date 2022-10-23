@@ -1,10 +1,10 @@
 # KrauseFx/FxLifeSheet - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 64
 
-★ Stars: 882
+★ Stars: 883
 
 [Open repository](https://github.com/KrauseFx/FxLifeSheet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 883 | 64 | 
 | 2022-10-21 | 882 | 64 | 
 | 2022-10-20 | 882 | 64 | 
 | 2022-10-19 | 881 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-26 | 873 | 65 | 
 | 2022-09-24 | 873 | 65 | 
 | 2022-09-23 | 873 | 65 | 
-| 2022-09-22 | 872 | 65 | 
 

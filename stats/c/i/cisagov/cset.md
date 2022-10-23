@@ -1,10 +1,10 @@
 # cisagov/cset - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 182
 
-★ Stars: 975
+★ Stars: 978
 
 [Open repository](https://github.com/cisagov/cset)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 978 | 182 | 
 | 2022-10-21 | 975 | 182 | 
 | 2022-10-20 | 973 | 182 | 
 | 2022-10-19 | 972 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 951 | 180 | 
 | 2022-09-24 | 951 | 180 | 
 | 2022-09-23 | 951 | 180 | 
-| 2022-09-22 | 950 | 179 | 
 

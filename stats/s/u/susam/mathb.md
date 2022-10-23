@@ -1,8 +1,8 @@
 # susam/mathb - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 229
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 229 | 17 | 
 | 2022-10-21 | 229 | 16 | 
 | 2022-10-20 | 229 | 16 | 
 | 2022-10-19 | 229 | 16 | 

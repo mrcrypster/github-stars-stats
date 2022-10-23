@@ -1,10 +1,10 @@
 # makoto56/penetration-suite-toolkit - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 158
 
-★ Stars: 912
+★ Stars: 913
 
 [Open repository](https://github.com/makoto56/penetration-suite-toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 913 | 158 | 
 | 2022-10-21 | 912 | 158 | 
 | 2022-10-20 | 912 | 159 | 
 | 2022-10-19 | 912 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 825 | 142 | 
 | 2022-09-24 | 825 | 142 | 
 | 2022-09-23 | 824 | 141 | 
-| 2022-09-22 | 824 | 140 | 
 

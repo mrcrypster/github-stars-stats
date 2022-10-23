@@ -1,6 +1,6 @@
 # songquanpeng/go-file - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 429 | 36 | 
 | 2022-10-22 | 429 | 36 | 
 | 2022-10-21 | 428 | 36 | 
 | 2022-10-20 | 426 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-25 | 410 | 33 | 
 | 2022-09-24 | 410 | 33 | 
 | 2022-09-23 | 409 | 33 | 
-| 2022-09-22 | 409 | 33 | 
 

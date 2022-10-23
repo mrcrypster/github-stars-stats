@@ -1,10 +1,10 @@
 # jinia91/blog - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 14
 
-★ Stars: 109
+★ Stars: 110
 
 [Open repository](https://github.com/jinia91/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 110 | 14 | 
 | 2022-10-21 | 109 | 14 | 
 | 2022-10-20 | 109 | 14 | 
 | 2022-10-19 | 109 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 105 | 14 | 
 | 2022-09-24 | 105 | 14 | 
 | 2022-09-23 | 105 | 14 | 
-| 2022-09-22 | 105 | 14 | 
 

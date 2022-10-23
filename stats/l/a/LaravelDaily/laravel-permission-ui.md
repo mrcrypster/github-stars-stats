@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 22
 
 ☋ Forks: 9
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/LaravelDaily/laravel-permission-ui)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-22 | 51 | 9 | 
+| 2022-10-22 | 52 | 9 | 
 | 2022-10-21 | 51 | 9 | 
 | 2022-10-20 | 43 | 4 | 
 

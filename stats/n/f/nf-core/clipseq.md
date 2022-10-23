@@ -1,6 +1,6 @@
 # nf-core/clipseq - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 11 | 16 | 
 | 2022-10-21 | 11 | 16 | 
 | 2022-10-20 | 11 | 16 | 
 | 2022-10-19 | 11 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 11 | 16 | 
 | 2022-09-24 | 11 | 16 | 
 | 2022-09-23 | 11 | 16 | 
-| 2022-09-22 | 11 | 16 | 
 

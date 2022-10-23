@@ -1,8 +1,8 @@
 # DA-southampton/NLP_ability - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 23
 
-☋ Forks: 893
+☋ Forks: 894
 
 ★ Stars: 4541
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4541 | 894 | 
 | 2022-10-21 | 4541 | 893 | 
 | 2022-10-20 | 4538 | 892 | 
 | 2022-10-19 | 4535 | 891 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 4467 | 878 | 
 | 2022-09-24 | 4464 | 878 | 
 | 2022-09-23 | 4463 | 876 | 
-| 2022-09-22 | 4460 | 875 | 
 

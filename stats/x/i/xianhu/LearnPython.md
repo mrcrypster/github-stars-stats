@@ -1,8 +1,8 @@
 # xianhu/LearnPython - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
-☋ Forks: 3688
+☋ Forks: 3690
 
 ★ Stars: 6502
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 6502 | 3690 | 
 | 2022-10-21 | 6502 | 3688 | 
 | 2022-10-20 | 6501 | 3687 | 
 | 2022-10-19 | 6499 | 3687 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 6454 | 3674 | 
 | 2022-09-24 | 6452 | 3674 | 
 | 2022-09-23 | 6449 | 3672 | 
-| 2022-09-22 | 6447 | 3671 | 
 

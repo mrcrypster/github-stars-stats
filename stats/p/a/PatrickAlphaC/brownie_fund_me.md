@@ -1,6 +1,6 @@
 # PatrickAlphaC/brownie_fund_me - stars & forks statistics
 
-Stats updated on Oct 2022, 21
+Stats updated on Oct 2022, 22
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 21
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-22 | 23 | 65 | 
 | 2022-10-21 | 23 | 65 | 
 | 2022-10-20 | 23 | 65 | 
 | 2022-10-19 | 23 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 21
 | 2022-09-25 | 23 | 65 | 
 | 2022-09-24 | 23 | 65 | 
 | 2022-09-23 | 23 | 65 | 
-| 2022-09-22 | 23 | 65 | 
 
