@@ -1,10 +1,10 @@
 # aydinnyunus/exifLooter - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 13
 
-★ Stars: 284
+★ Stars: 286
 
 [Open repository](https://github.com/aydinnyunus/exifLooter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 286 | 13 | 
 | 2022-10-22 | 284 | 13 | 
 | 2022-10-21 | 284 | 13 | 
 | 2022-10-20 | 279 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 260 | 12 | 
 | 2022-09-25 | 260 | 12 | 
 | 2022-09-24 | 259 | 12 | 
-| 2022-09-23 | 259 | 12 | 
 

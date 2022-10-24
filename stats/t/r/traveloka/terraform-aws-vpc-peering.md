@@ -1,6 +1,6 @@
 # traveloka/terraform-aws-vpc-peering - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3 | 14 | 
 | 2022-10-23 | 3 | 14 | 
 | 2022-10-22 | 3 | 14 | 
 | 2022-10-21 | 3 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 3 | 13 | 
 | 2022-09-25 | 3 | 13 | 
 | 2022-09-24 | 3 | 13 | 
-| 2022-09-23 | 3 | 13 | 
 

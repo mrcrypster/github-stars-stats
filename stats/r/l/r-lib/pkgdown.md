@@ -1,10 +1,10 @@
 # r-lib/pkgdown - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 307
 
-★ Stars: 637
+★ Stars: 638
 
 [Open repository](https://github.com/r-lib/pkgdown)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 638 | 307 | 
 | 2022-10-22 | 637 | 307 | 
 | 2022-10-21 | 637 | 307 | 
 | 2022-10-20 | 637 | 307 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 633 | 308 | 
 | 2022-09-25 | 633 | 308 | 
 | 2022-09-24 | 633 | 308 | 
-| 2022-09-23 | 633 | 308 | 
 

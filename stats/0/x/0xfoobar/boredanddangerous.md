@@ -1,6 +1,6 @@
 # 0xfoobar/boredanddangerous - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 22 | 10 | 
 | 2022-10-22 | 22 | 10 | 
 | 2022-10-21 | 22 | 10 | 
 | 2022-10-20 | 22 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 21 | 9 | 
 | 2022-09-25 | 21 | 8 | 
 | 2022-09-24 | 21 | 8 | 
-| 2022-09-23 | 21 | 8 | 
 

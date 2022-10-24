@@ -1,10 +1,10 @@
 # fool2fish/dragon-book-exercise-answers - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1691
 
-★ Stars: 5471
+★ Stars: 5472
 
 [Open repository](https://github.com/fool2fish/dragon-book-exercise-answers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 5472 | 1691 | 
 | 2022-10-22 | 5471 | 1691 | 
 | 2022-10-21 | 5470 | 1691 | 
 | 2022-10-20 | 5471 | 1692 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 5423 | 1682 | 
 | 2022-09-25 | 5423 | 1682 | 
 | 2022-09-24 | 5421 | 1680 | 
-| 2022-09-23 | 5420 | 1681 | 
 

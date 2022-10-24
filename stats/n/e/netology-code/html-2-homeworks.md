@@ -1,10 +1,10 @@
 # netology-code/html-2-homeworks - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 71
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/netology-code/html-2-homeworks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 13 | 71 | 
 | 2022-10-22 | 12 | 71 | 
 | 2022-10-21 | 12 | 71 | 
 | 2022-10-20 | 12 | 71 | 

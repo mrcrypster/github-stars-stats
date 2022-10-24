@@ -1,6 +1,6 @@
 # kupl/VeriSmart-benchmarks - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 39 | 12 | 
 | 2022-10-22 | 39 | 12 | 
 | 2022-10-21 | 39 | 12 | 
 | 2022-10-20 | 39 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 39 | 12 | 
 | 2022-09-25 | 39 | 12 | 
 | 2022-09-24 | 39 | 12 | 
-| 2022-09-23 | 39 | 12 | 
 

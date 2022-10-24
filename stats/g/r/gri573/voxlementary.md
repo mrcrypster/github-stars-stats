@@ -1,8 +1,8 @@
 # gri573/voxlementary - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 74
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 74 | 11 | 
 | 2022-10-22 | 74 | 10 | 
 | 2022-10-21 | 74 | 10 | 
 | 2022-10-20 | 74 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 70 | 8 | 
 | 2022-09-26 | 70 | 8 | 
 | 2022-09-25 | 70 | 8 | 
-| 2022-09-24 | 70 | 8 | 
 

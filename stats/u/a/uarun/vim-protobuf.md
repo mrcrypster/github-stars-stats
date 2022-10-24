@@ -1,6 +1,6 @@
 # uarun/vim-protobuf - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 82 | 25 | 
 | 2022-10-22 | 82 | 25 | 
 | 2022-10-21 | 82 | 25 | 
 | 2022-10-20 | 82 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 82 | 25 | 
 | 2022-09-25 | 82 | 25 | 
 | 2022-09-24 | 82 | 25 | 
-| 2022-09-23 | 82 | 25 | 
 

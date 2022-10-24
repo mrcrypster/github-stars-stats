@@ -1,10 +1,10 @@
 # osohq/oso - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 135
 
-★ Stars: 2750
+★ Stars: 2751
 
 [Open repository](https://github.com/osohq/oso)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2751 | 135 | 
 | 2022-10-22 | 2750 | 135 | 
 | 2022-10-21 | 2747 | 135 | 
 | 2022-10-20 | 2745 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 2701 | 132 | 
 | 2022-09-26 | 2698 | 132 | 
 | 2022-09-25 | 2698 | 132 | 
-| 2022-09-24 | 2698 | 132 | 
 

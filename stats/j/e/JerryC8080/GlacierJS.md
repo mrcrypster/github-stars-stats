@@ -1,6 +1,6 @@
 # JerryC8080/GlacierJS - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 181 | 17 | 
 | 2022-10-22 | 181 | 17 | 
 | 2022-10-21 | 181 | 17 | 
 | 2022-10-20 | 181 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 182 | 17 | 
 | 2022-09-26 | 182 | 17 | 
 | 2022-09-25 | 182 | 17 | 
-| 2022-09-24 | 182 | 17 | 
 

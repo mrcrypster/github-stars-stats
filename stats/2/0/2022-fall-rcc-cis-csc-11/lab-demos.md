@@ -1,10 +1,10 @@
 # 2022-fall-rcc-cis-csc-11/lab-demos - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/2022-fall-rcc-cis-csc-11/lab-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3 | - | 
 | 2022-10-23 | 2 | - | 
 | 2022-10-22 | 2 | - | 
 | 2022-10-21 | 2 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 2 | - | 
 | 2022-09-25 | 2 | - | 
 | 2022-09-24 | 2 | - | 
-| 2022-09-23 | 2 | - | 
 

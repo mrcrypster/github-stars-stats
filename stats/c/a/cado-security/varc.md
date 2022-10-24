@@ -1,10 +1,10 @@
 # cado-security/varc - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 9
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/cado-security/varc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 127 | 9 | 
 | 2022-10-22 | 126 | 9 | 
 | 2022-10-21 | 126 | 9 | 
 | 2022-10-20 | 126 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 86 | 8 | 
 | 2022-09-25 | 74 | 7 | 
 | 2022-09-24 | 70 | 6 | 
-| 2022-09-23 | 67 | 6 | 
 

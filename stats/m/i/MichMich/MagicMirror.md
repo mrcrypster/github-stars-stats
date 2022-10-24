@@ -1,10 +1,10 @@
 # MichMich/MagicMirror - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 3910
+☋ Forks: 3909
 
-★ Stars: 17034
+★ Stars: 17040
 
 [Open repository](https://github.com/MichMich/MagicMirror)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 17040 | 3909 | 
 | 2022-10-22 | 17034 | 3910 | 
 | 2022-10-21 | 17033 | 3908 | 
 | 2022-10-20 | 17031 | 3908 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 16946 | 3900 | 
 | 2022-09-25 | 16940 | 3899 | 
 | 2022-09-24 | 16938 | 3899 | 
-| 2022-09-23 | 16935 | 3899 | 
 

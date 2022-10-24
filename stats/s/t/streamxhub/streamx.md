@@ -1,6 +1,6 @@
 # streamxhub/streamx - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 602
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2551 | 602 | 
 | 2022-10-22 | 2551 | 602 | 
 | 2022-10-21 | 2550 | 600 | 
 | 2022-10-20 | 2546 | 600 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 2486 | 575 | 
 | 2022-09-25 | 2481 | 573 | 
 | 2022-09-24 | 2480 | 574 | 
-| 2022-09-23 | 2479 | 573 | 
 

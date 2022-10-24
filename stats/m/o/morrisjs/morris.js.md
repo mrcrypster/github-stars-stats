@@ -1,6 +1,6 @@
 # morrisjs/morris.js - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1261
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 6968 | 1261 | 
 | 2022-10-22 | 6968 | 1261 | 
 | 2022-10-21 | 6969 | 1261 | 
 | 2022-10-20 | 6969 | 1261 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 6970 | 1262 | 
 | 2022-09-25 | 6970 | 1263 | 
 | 2022-09-24 | 6969 | 1262 | 
-| 2022-09-23 | 6969 | 1262 | 
 

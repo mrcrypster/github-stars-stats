@@ -1,10 +1,10 @@
 # shuding/tilg - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 21
 
-★ Stars: 1754
+★ Stars: 1755
 
 [Open repository](https://github.com/shuding/tilg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1755 | 21 | 
 | 2022-10-22 | 1754 | 21 | 
 | 2022-10-21 | 1753 | 21 | 
 | 2022-10-20 | 1753 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1725 | 21 | 
 | 2022-09-25 | 1723 | 21 | 
 | 2022-09-24 | 1723 | 21 | 
-| 2022-09-23 | 1722 | 21 | 
 

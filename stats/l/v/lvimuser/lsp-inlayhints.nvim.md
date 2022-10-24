@@ -1,10 +1,10 @@
 # lvimuser/lsp-inlayhints.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 7
 
-★ Stars: 135
+★ Stars: 136
 
 [Open repository](https://github.com/lvimuser/lsp-inlayhints.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 136 | 7 | 
 | 2022-10-22 | 135 | 7 | 
 | 2022-10-21 | 134 | 7 | 
 | 2022-10-20 | 134 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 112 | 7 | 
 | 2022-09-25 | 109 | 7 | 
 | 2022-09-24 | 107 | 7 | 
-| 2022-09-23 | 106 | 7 | 
 

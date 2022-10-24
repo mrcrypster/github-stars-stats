@@ -1,6 +1,6 @@
 # codingo/BibWord - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 170
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 198 | 170 | 
 | 2022-10-22 | 198 | 170 | 
 | 2022-10-21 | 198 | 170 | 
 | 2022-10-20 | 197 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 195 | 168 | 
 | 2022-09-25 | 195 | 167 | 
 | 2022-09-24 | 195 | 167 | 
-| 2022-09-23 | 195 | 167 | 
 

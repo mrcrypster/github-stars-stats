@@ -1,6 +1,6 @@
 # jmcantrell/vim-virtualenv - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 571 | 50 | 
 | 2022-10-22 | 571 | 50 | 
 | 2022-10-21 | 571 | 50 | 
 | 2022-10-20 | 571 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 570 | 50 | 
 | 2022-09-25 | 570 | 50 | 
 | 2022-09-24 | 570 | 50 | 
-| 2022-09-23 | 570 | 50 | 
 

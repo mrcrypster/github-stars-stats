@@ -1,8 +1,8 @@
 # mhmzdev/devfolio - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 182
+☋ Forks: 183
 
 ★ Stars: 508
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 508 | 183 | 
 | 2022-10-22 | 508 | 182 | 
 | 2022-10-21 | 508 | 182 | 
 | 2022-10-20 | 508 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 499 | 182 | 
 | 2022-09-25 | 498 | 180 | 
 | 2022-09-24 | 498 | 179 | 
-| 2022-09-23 | 498 | 180 | 
 

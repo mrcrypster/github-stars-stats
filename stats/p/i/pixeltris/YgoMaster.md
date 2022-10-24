@@ -1,6 +1,6 @@
 # pixeltris/YgoMaster - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 287 | 56 | 
 | 2022-10-22 | 287 | 56 | 
 | 2022-10-21 | 284 | 56 | 
 | 2022-10-20 | 283 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 268 | 52 | 
 | 2022-09-25 | 268 | 52 | 
 | 2022-09-24 | 268 | 52 | 
-| 2022-09-23 | 267 | 52 | 
 

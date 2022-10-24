@@ -1,10 +1,10 @@
 # Automattic/jetpack - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 783
 
-★ Stars: 1419
+★ Stars: 1420
 
 [Open repository](https://github.com/Automattic/jetpack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1420 | 783 | 
 | 2022-10-22 | 1419 | 783 | 
 | 2022-10-21 | 1419 | 782 | 
 | 2022-10-20 | 1419 | 782 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1415 | 780 | 
 | 2022-09-25 | 1415 | 780 | 
 | 2022-09-24 | 1414 | 780 | 
-| 2022-09-23 | 1413 | 780 | 
 

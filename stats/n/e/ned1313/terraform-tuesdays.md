@@ -1,10 +1,10 @@
 # ned1313/terraform-tuesdays - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 340
+☋ Forks: 342
 
-★ Stars: 262
+★ Stars: 263
 
 [Open repository](https://github.com/ned1313/terraform-tuesdays)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 263 | 342 | 
 | 2022-10-22 | 262 | 340 | 
 | 2022-10-21 | 262 | 340 | 
 | 2022-10-20 | 261 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 254 | 318 | 
 | 2022-09-25 | 254 | 314 | 
 | 2022-09-24 | 253 | 314 | 
-| 2022-09-23 | 253 | 313 | 
 

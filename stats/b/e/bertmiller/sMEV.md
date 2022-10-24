@@ -1,10 +1,10 @@
 # bertmiller/sMEV - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 91
+☋ Forks: 92
 
-★ Stars: 409
+★ Stars: 410
 
 [Open repository](https://github.com/bertmiller/sMEV)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 410 | 92 | 
 | 2022-10-22 | 409 | 91 | 
 | 2022-10-21 | 407 | 91 | 
 | 2022-10-20 | 407 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 400 | 86 | 
 | 2022-09-25 | 400 | 86 | 
 | 2022-09-24 | 400 | 86 | 
-| 2022-09-23 | 400 | 86 | 
 

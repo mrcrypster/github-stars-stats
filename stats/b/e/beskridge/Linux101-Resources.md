@@ -1,10 +1,10 @@
 # beskridge/Linux101-Resources - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 38
 
-★ Stars: 118
+★ Stars: 119
 
 [Open repository](https://github.com/beskridge/Linux101-Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 119 | 38 | 
 | 2022-10-22 | 118 | 38 | 
 | 2022-10-21 | 118 | 38 | 
 | 2022-10-20 | 118 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 109 | 34 | 
 | 2022-09-25 | 108 | 34 | 
 | 2022-09-24 | 107 | 34 | 
-| 2022-09-23 | 107 | 33 | 
 

@@ -1,6 +1,6 @@
 # simmel/urxvt-resize-font - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 195 | 34 | 
 | 2022-10-23 | 195 | 34 | 
 | 2022-10-22 | 195 | 34 | 
 | 2022-10-21 | 195 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 194 | 34 | 
 | 2022-09-25 | 194 | 34 | 
 | 2022-09-24 | 194 | 34 | 
-| 2022-09-23 | 194 | 34 | 
 

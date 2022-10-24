@@ -1,6 +1,6 @@
 # plaid/plaid-link-ios - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 99 | 77 | 
 | 2022-10-22 | 99 | 77 | 
 | 2022-10-21 | 99 | 77 | 
 | 2022-10-20 | 99 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 97 | 77 | 
 | 2022-09-25 | 96 | 77 | 
 | 2022-09-24 | 96 | 77 | 
-| 2022-09-23 | 96 | 77 | 
 

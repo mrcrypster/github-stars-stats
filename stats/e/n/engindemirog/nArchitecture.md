@@ -1,10 +1,10 @@
 # engindemirog/nArchitecture - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 190
 
-★ Stars: 434
+★ Stars: 436
 
 [Open repository](https://github.com/engindemirog/nArchitecture)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 436 | 190 | 
 | 2022-10-22 | 434 | 190 | 
 | 2022-10-21 | 433 | 191 | 
 | 2022-10-20 | 433 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 401 | 183 | 
 | 2022-09-25 | 397 | 183 | 
 | 2022-09-24 | 391 | 182 | 
-| 2022-09-23 | 390 | 180 | 
 

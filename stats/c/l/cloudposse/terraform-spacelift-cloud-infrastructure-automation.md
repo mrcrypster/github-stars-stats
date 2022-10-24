@@ -1,6 +1,6 @@
 # cloudposse/terraform-spacelift-cloud-infrastructure-automation - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 23 | 13 | 
 | 2022-10-22 | 23 | 13 | 
 | 2022-10-21 | 23 | 13 | 
 | 2022-10-20 | 23 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 23 | 13 | 
 | 2022-09-26 | 23 | 13 | 
 | 2022-09-25 | 23 | 13 | 
-| 2022-09-24 | 23 | 13 | 
 

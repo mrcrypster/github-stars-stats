@@ -1,10 +1,10 @@
 # Macjutsu/super - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 19
 
-★ Stars: 234
+★ Stars: 236
 
 [Open repository](https://github.com/Macjutsu/super)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 236 | 19 | 
 | 2022-10-22 | 234 | 19 | 
 | 2022-10-21 | 233 | 18 | 
 | 2022-10-20 | 233 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 176 | 15 | 
 | 2022-09-25 | 176 | 15 | 
 | 2022-09-24 | 175 | 15 | 
-| 2022-09-23 | 172 | 15 | 
 

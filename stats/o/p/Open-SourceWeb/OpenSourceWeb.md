@@ -1,6 +1,6 @@
 # Open-SourceWeb/OpenSourceWeb - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 10 | 27 | 
 | 2022-10-23 | 10 | 27 | 
 | 2022-10-22 | 10 | 26 | 
 | 2022-10-21 | 9 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 9 | 24 | 
 | 2022-09-25 | 8 | 24 | 
 | 2022-09-24 | 8 | 24 | 
-| 2022-09-23 | 8 | 24 | 
 

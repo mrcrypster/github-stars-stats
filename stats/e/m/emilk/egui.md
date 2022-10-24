@@ -1,10 +1,10 @@
 # emilk/egui - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 764
 
-★ Stars: 11320
+★ Stars: 11326
 
 [Open repository](https://github.com/emilk/egui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 11326 | 764 | 
 | 2022-10-22 | 11320 | 764 | 
 | 2022-10-21 | 11296 | 762 | 
 | 2022-10-20 | 11248 | 758 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 10733 | 717 | 
 | 2022-09-25 | 10725 | 716 | 
 | 2022-09-24 | 10702 | 714 | 
-| 2022-09-23 | 10692 | 710 | 
 

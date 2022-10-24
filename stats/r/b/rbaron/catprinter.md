@@ -1,6 +1,6 @@
 # rbaron/catprinter - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 661 | 43 | 
 | 2022-10-23 | 661 | 43 | 
 | 2022-10-22 | 661 | 43 | 
 | 2022-10-20 | 659 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 659 | 39 | 
 | 2022-09-25 | 659 | 39 | 
 | 2022-09-24 | 659 | 39 | 
-| 2022-09-23 | 659 | 39 | 
 

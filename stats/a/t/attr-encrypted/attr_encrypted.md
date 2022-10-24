@@ -1,10 +1,10 @@
 # attr-encrypted/attr_encrypted - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 384
 
-★ Stars: 1935
+★ Stars: 1936
 
 [Open repository](https://github.com/attr-encrypted/attr_encrypted)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1936 | 384 | 
 | 2022-10-22 | 1935 | 384 | 
 | 2022-10-21 | 1935 | 384 | 
 | 2022-10-20 | 1935 | 385 | 

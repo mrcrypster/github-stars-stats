@@ -1,6 +1,6 @@
 # iamnihal/warf - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 162 | 28 | 
 | 2022-10-22 | 162 | 28 | 
 | 2022-10-21 | 161 | 28 | 
 | 2022-10-20 | 160 | 28 | 

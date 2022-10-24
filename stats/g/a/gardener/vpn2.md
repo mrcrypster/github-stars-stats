@@ -1,10 +1,10 @@
 # gardener/vpn2 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 6
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/gardener/vpn2)
 
@@ -13,5 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1 | 6 | 
+| 2022-10-23 | 1 | 6 | 
 | 2022-10-22 | - | 6 | 
 

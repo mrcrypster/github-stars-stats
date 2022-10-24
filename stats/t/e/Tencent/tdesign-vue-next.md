@@ -1,8 +1,8 @@
 # Tencent/tdesign-vue-next - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 246
+☋ Forks: 245
 
 ★ Stars: 773
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 773 | 245 | 
 | 2022-10-22 | 773 | 246 | 
 | 2022-10-21 | 771 | 246 | 
 | 2022-10-20 | 771 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 744 | 232 | 
 | 2022-09-25 | 743 | 231 | 
 | 2022-09-24 | 742 | 231 | 
-| 2022-09-23 | 741 | 230 | 
 

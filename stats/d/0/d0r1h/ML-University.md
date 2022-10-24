@@ -1,6 +1,6 @@
 # d0r1h/ML-University - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 576 | 80 | 
 | 2022-10-23 | 576 | 80 | 
 | 2022-10-22 | 576 | 80 | 
 | 2022-10-21 | 575 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 562 | 82 | 
 | 2022-09-25 | 561 | 82 | 
 | 2022-09-24 | 559 | 82 | 
-| 2022-09-23 | 558 | 82 | 
 

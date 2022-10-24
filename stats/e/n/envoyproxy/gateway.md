@@ -1,10 +1,10 @@
 # envoyproxy/gateway - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 77
+☋ Forks: 79
 
-★ Stars: 648
+★ Stars: 650
 
 [Open repository](https://github.com/envoyproxy/gateway)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 650 | 79 | 
 | 2022-10-22 | 648 | 77 | 
 | 2022-10-21 | 648 | 77 | 
 | 2022-10-20 | 645 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 611 | 66 | 
 | 2022-09-25 | 609 | 66 | 
 | 2022-09-24 | 608 | 66 | 
-| 2022-09-23 | 608 | 66 | 
 

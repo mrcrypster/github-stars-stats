@@ -1,10 +1,10 @@
 # GDSC-SGGSCC/Hacktoberfest-22 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 94
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/GDSC-SGGSCC/Hacktoberfest-22)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 33 | 94 | 
 | 2022-10-22 | 34 | 94 | 
 | 2022-10-21 | 34 | 91 | 
 | 2022-10-20 | 33 | 89 | 

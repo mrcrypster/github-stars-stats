@@ -1,10 +1,10 @@
 # ferdikoomen/openapi-typescript-codegen - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 271
 
-★ Stars: 1137
+★ Stars: 1138
 
 [Open repository](https://github.com/ferdikoomen/openapi-typescript-codegen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1138 | 271 | 
 | 2022-10-22 | 1137 | 271 | 
 | 2022-10-21 | 1136 | 271 | 
 | 2022-10-20 | 1134 | 271 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1087 | 264 | 
 | 2022-09-25 | 1084 | 263 | 
 | 2022-09-24 | 1083 | 263 | 
-| 2022-09-23 | 1083 | 263 | 
 

@@ -1,10 +1,10 @@
 # videolan/vlc - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 3182
+☋ Forks: 3185
 
-★ Stars: 9717
+★ Stars: 9723
 
 [Open repository](https://github.com/videolan/vlc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 9723 | 3185 | 
 | 2022-10-22 | 9717 | 3182 | 
 | 2022-10-21 | 9711 | 3182 | 
 | 2022-10-20 | 9706 | 3180 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 9591 | 3156 | 
 | 2022-09-25 | 9587 | 3152 | 
 | 2022-09-24 | 9585 | 3153 | 
-| 2022-09-23 | 9578 | 3150 | 
 

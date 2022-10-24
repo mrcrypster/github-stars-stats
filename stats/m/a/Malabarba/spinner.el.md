@@ -1,6 +1,6 @@
 # Malabarba/spinner.el - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 98 | 20 | 
 | 2022-10-22 | 98 | 20 | 
 | 2022-10-21 | 98 | 20 | 
 | 2022-10-20 | 98 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 98 | 20 | 
 | 2022-09-25 | 98 | 20 | 
 | 2022-09-24 | 98 | 20 | 
-| 2022-09-23 | 98 | 20 | 
 

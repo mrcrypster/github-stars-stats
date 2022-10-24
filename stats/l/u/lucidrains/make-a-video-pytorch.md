@@ -1,10 +1,10 @@
 # lucidrains/make-a-video-pytorch - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 53
 
-★ Stars: 854
+★ Stars: 857
 
 [Open repository](https://github.com/lucidrains/make-a-video-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 857 | 53 | 
 | 2022-10-22 | 854 | 53 | 
 | 2022-10-21 | 849 | 53 | 
 | 2022-10-20 | 843 | 53 | 

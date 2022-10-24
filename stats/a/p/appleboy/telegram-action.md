@@ -1,10 +1,10 @@
 # appleboy/telegram-action - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 86
 
-★ Stars: 568
+★ Stars: 569
 
 [Open repository](https://github.com/appleboy/telegram-action)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 569 | 86 | 
 | 2022-10-22 | 568 | 86 | 
 | 2022-10-21 | 568 | 86 | 
 | 2022-10-20 | 568 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 556 | 81 | 
 | 2022-09-26 | 556 | 81 | 
 | 2022-09-25 | 555 | 81 | 
-| 2022-09-23 | 552 | 81 | 
 

@@ -1,6 +1,6 @@
 # jcsalterego/jqq - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 278 | 3 | 
 | 2022-10-22 | 278 | 3 | 
 | 2022-10-21 | 278 | 3 | 
 | 2022-10-20 | 278 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 273 | 3 | 
 | 2022-09-26 | 271 | 3 | 
 | 2022-09-25 | 271 | 3 | 
-| 2022-09-24 | 271 | 3 | 
 

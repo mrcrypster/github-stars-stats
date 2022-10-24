@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 23
 
-☋ Forks: 140
+☋ Forks: 142
 
-★ Stars: 785
+★ Stars: 795
 
 [Open repository](https://github.com/SamirPaul1/DSAlgo)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-23 | 785 | 140 | 
+| 2022-10-23 | 795 | 142 | 
 | 2022-10-22 | 782 | 140 | 
 | 2022-10-21 | 741 | 130 | 
 

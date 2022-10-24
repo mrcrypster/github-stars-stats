@@ -1,10 +1,10 @@
 # blog-misaka/koxray - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/blog-misaka/koxray)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 3 | 9 | 
 | 2022-10-22 | 2 | 8 | 
 | 2022-10-21 | 2 | 8 | 
 | 2022-10-20 | 2 | 7 | 

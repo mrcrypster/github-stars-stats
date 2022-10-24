@@ -1,6 +1,6 @@
 # oslabs-beta/SvelTable - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 126 | 15 | 
 | 2022-10-22 | 126 | 15 | 
 | 2022-10-21 | 126 | 15 | 
 | 2022-10-20 | 126 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 126 | 14 | 
 | 2022-09-25 | 126 | 14 | 
 | 2022-09-24 | 126 | 14 | 
-| 2022-09-23 | 126 | 14 | 
 

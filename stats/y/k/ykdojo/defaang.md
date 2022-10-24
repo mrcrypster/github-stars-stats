@@ -1,6 +1,6 @@
 # ykdojo/defaang - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 448 | 116 | 
 | 2022-10-22 | 448 | 116 | 
 | 2022-10-21 | 448 | 116 | 
 | 2022-10-20 | 448 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 320 | 75 | 
 | 2022-09-25 | 317 | 74 | 
 | 2022-09-24 | 316 | 74 | 
-| 2022-09-23 | 302 | 72 | 
 

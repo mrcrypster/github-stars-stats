@@ -1,6 +1,6 @@
 # evoactivity/ember-fast-marquee - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 6 | - | 
 | 2022-10-22 | 6 | - | 
 | 2022-10-21 | 6 | - | 
 | 2022-10-20 | 6 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 6 | - | 
 | 2022-09-25 | 6 | - | 
 | 2022-09-24 | 6 | - | 
-| 2022-09-23 | 6 | - | 
 

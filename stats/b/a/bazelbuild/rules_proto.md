@@ -1,6 +1,6 @@
 # bazelbuild/rules_proto - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 121 | 54 | 
 | 2022-10-22 | 121 | 54 | 
 | 2022-10-21 | 121 | 54 | 
 | 2022-10-20 | 121 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 119 | 52 | 
 | 2022-09-25 | 118 | 52 | 
 | 2022-09-24 | 117 | 52 | 
-| 2022-09-23 | 117 | 51 | 
 

@@ -1,6 +1,6 @@
 # Hedgehog-Computing/EDUC412 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 14 | 1 | 
 | 2022-10-22 | 14 | 1 | 
 | 2022-10-21 | 14 | 1 | 
 | 2022-10-20 | 14 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 15 | 1 | 
 | 2022-09-25 | 15 | 1 | 
 | 2022-09-24 | 15 | 1 | 
-| 2022-09-23 | 15 | 1 | 
 

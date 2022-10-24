@@ -1,6 +1,6 @@
 # cashapp/sqldelight - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 414
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4825 | 414 | 
 | 2022-10-22 | 4825 | 414 | 
 | 2022-10-21 | 4819 | 414 | 
 | 2022-10-20 | 4817 | 414 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 4776 | 408 | 
 | 2022-09-25 | 4774 | 407 | 
 | 2022-09-24 | 4775 | 407 | 
-| 2022-09-23 | 4773 | 406 | 
 

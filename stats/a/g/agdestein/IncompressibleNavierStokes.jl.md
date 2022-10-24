@@ -1,6 +1,6 @@
 # agdestein/IncompressibleNavierStokes.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 20 | 2 | 
 | 2022-10-22 | 20 | 2 | 
 | 2022-10-21 | 20 | 2 | 
 | 2022-10-20 | 19 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 18 | 1 | 
 | 2022-09-25 | 18 | 1 | 
 | 2022-09-24 | 18 | 1 | 
-| 2022-09-23 | 18 | 1 | 
 

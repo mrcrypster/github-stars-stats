@@ -1,10 +1,10 @@
 # masonr/yet-another-bench-script - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 240
+☋ Forks: 241
 
-★ Stars: 1606
+★ Stars: 1610
 
 [Open repository](https://github.com/masonr/yet-another-bench-script)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1610 | 241 | 
 | 2022-10-22 | 1606 | 240 | 
 | 2022-10-21 | 1604 | 240 | 
 | 2022-10-20 | 1601 | 240 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1526 | 232 | 
 | 2022-09-25 | 1524 | 232 | 
 | 2022-09-24 | 1518 | 232 | 
-| 2022-09-23 | 1512 | 232 | 
 

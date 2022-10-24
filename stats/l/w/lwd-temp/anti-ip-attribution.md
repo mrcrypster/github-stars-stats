@@ -1,6 +1,6 @@
 # lwd-temp/anti-ip-attribution - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 469 | 47 | 
 | 2022-10-22 | 469 | 47 | 
 | 2022-10-21 | 467 | 47 | 
 | 2022-10-20 | 461 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 433 | 46 | 
 | 2022-09-25 | 434 | 46 | 
 | 2022-09-24 | 432 | 46 | 
-| 2022-09-23 | 430 | 46 | 
 

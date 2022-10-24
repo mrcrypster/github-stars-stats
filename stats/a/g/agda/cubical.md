@@ -1,6 +1,6 @@
 # agda/cubical - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 323 | 110 | 
 | 2022-10-22 | 323 | 110 | 
 | 2022-10-21 | 323 | 109 | 
 | 2022-10-20 | 323 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 321 | 108 | 
 | 2022-09-25 | 321 | 108 | 
 | 2022-09-24 | 321 | 108 | 
-| 2022-09-23 | 320 | 108 | 
 

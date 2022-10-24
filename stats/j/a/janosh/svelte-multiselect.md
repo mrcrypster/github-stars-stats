@@ -1,10 +1,10 @@
 # janosh/svelte-multiselect - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 12
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/janosh/svelte-multiselect)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 112 | 12 | 
 | 2022-10-22 | 111 | 12 | 
 | 2022-10-21 | 111 | 12 | 
 | 2022-10-20 | 111 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 100 | 11 | 
 | 2022-09-25 | 99 | 11 | 
 | 2022-09-24 | 97 | 11 | 
-| 2022-09-23 | 96 | 11 | 
 

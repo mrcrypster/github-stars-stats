@@ -1,10 +1,10 @@
 # zeronetworks/BlueHound - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 25
 
-★ Stars: 471
+★ Stars: 473
 
 [Open repository](https://github.com/zeronetworks/BlueHound)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 473 | 25 | 
 | 2022-10-22 | 471 | 25 | 
 | 2022-10-21 | 468 | 25 | 
 | 2022-10-20 | 467 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 455 | 24 | 
 | 2022-09-25 | 455 | 24 | 
 | 2022-09-24 | 454 | 24 | 
-| 2022-09-23 | 454 | 24 | 
 

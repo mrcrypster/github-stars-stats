@@ -1,6 +1,6 @@
 # t9md/vim-choosewin - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 550 | 39 | 
 | 2022-10-22 | 550 | 39 | 
 | 2022-10-21 | 550 | 39 | 
 | 2022-10-20 | 550 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 549 | 39 | 
 | 2022-09-25 | 549 | 39 | 
 | 2022-09-24 | 548 | 39 | 
-| 2022-09-23 | 548 | 39 | 
 

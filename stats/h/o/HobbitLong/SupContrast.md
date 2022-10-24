@@ -1,10 +1,10 @@
 # HobbitLong/SupContrast - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 384
 
-★ Stars: 1995
+★ Stars: 1998
 
 [Open repository](https://github.com/HobbitLong/SupContrast)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1998 | 384 | 
 | 2022-10-22 | 1995 | 384 | 
 | 2022-10-21 | 1995 | 384 | 
 | 2022-10-20 | 1992 | 384 | 

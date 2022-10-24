@@ -1,10 +1,10 @@
 # xdesro/personalsit.es - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 367
 
-★ Stars: 495
+★ Stars: 496
 
 [Open repository](https://github.com/xdesro/personalsit.es)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 496 | 367 | 
 | 2022-10-22 | 495 | 367 | 
 | 2022-10-21 | 496 | 368 | 
 | 2022-10-20 | 496 | 368 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 492 | 365 | 
 | 2022-09-25 | 492 | 365 | 
 | 2022-09-24 | 492 | 365 | 
-| 2022-09-23 | 492 | 366 | 
 

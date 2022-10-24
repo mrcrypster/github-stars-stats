@@ -1,8 +1,8 @@
 # anshrusia200/css-only-loaders - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 28
+☋ Forks: 30
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 13 | 30 | 
 | 2022-10-22 | 13 | 28 | 
 | 2022-10-21 | 13 | 28 | 
 | 2022-10-20 | 13 | 27 | 

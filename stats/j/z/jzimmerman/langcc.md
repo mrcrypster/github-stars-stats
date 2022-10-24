@@ -1,10 +1,10 @@
 # jzimmerman/langcc - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 56
 
-★ Stars: 1639
+★ Stars: 1640
 
 [Open repository](https://github.com/jzimmerman/langcc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1640 | 56 | 
 | 2022-10-22 | 1639 | 56 | 
 | 2022-10-21 | 1637 | 56 | 
 | 2022-10-20 | 1638 | 56 | 

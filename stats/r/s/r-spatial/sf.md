@@ -1,6 +1,6 @@
 # r-spatial/sf - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 260
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1062 | 260 | 
 | 2022-10-22 | 1062 | 260 | 
 | 2022-10-21 | 1061 | 259 | 
 | 2022-10-20 | 1061 | 259 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1049 | 256 | 
 | 2022-09-25 | 1049 | 256 | 
 | 2022-09-24 | 1049 | 256 | 
-| 2022-09-23 | 1049 | 255 | 
 

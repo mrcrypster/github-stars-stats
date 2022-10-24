@@ -1,6 +1,6 @@
 # responsible-financial-innovation-act22/RFIA-bill - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 257 | 65 | 
 | 2022-10-23 | 257 | 65 | 
 | 2022-10-21 | 257 | 65 | 
 | 2022-10-20 | 257 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 256 | 65 | 
 | 2022-09-25 | 256 | 65 | 
 | 2022-09-24 | 256 | 65 | 
-| 2022-09-23 | 256 | 65 | 
 

@@ -1,8 +1,8 @@
 # ton-blockchain/func-contest1 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 31 | 16 | 
 | 2022-10-22 | 31 | 15 | 
 | 2022-10-21 | 31 | 15 | 
 | 2022-10-20 | 31 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 30 | 15 | 
 | 2022-09-26 | 30 | 15 | 
 | 2022-09-25 | 30 | 15 | 
-| 2022-09-23 | 30 | 15 | 
 

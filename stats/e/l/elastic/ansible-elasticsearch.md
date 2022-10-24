@@ -1,10 +1,10 @@
 # elastic/ansible-elasticsearch - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 812
 
-★ Stars: 1526
+★ Stars: 1527
 
 [Open repository](https://github.com/elastic/ansible-elasticsearch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1527 | 812 | 
 | 2022-10-22 | 1526 | 812 | 
 | 2022-10-21 | 1525 | 812 | 
 | 2022-10-20 | 1525 | 812 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1521 | 806 | 
 | 2022-09-25 | 1521 | 806 | 
 | 2022-09-24 | 1521 | 806 | 
-| 2022-09-23 | 1521 | 806 | 
 

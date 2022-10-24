@@ -1,10 +1,10 @@
 # EstrellaXD/Auto_Bangumi - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 1521
+★ Stars: 1522
 
 [Open repository](https://github.com/EstrellaXD/Auto_Bangumi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1522 | 73 | 
 | 2022-10-23 | 1521 | 72 | 
 | 2022-10-22 | 1518 | 72 | 
 | 2022-10-21 | 1511 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 1435 | 65 | 
 | 2022-09-25 | 1432 | 65 | 
 | 2022-09-24 | 1416 | 64 | 
-| 2022-09-23 | 1415 | 64 | 
 

@@ -1,10 +1,10 @@
 # linshaoSec/csdroid - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 31
 
-★ Stars: 269
+★ Stars: 271
 
 [Open repository](https://github.com/linshaoSec/csdroid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 271 | 31 | 
 | 2022-10-22 | 269 | 31 | 
 | 2022-10-21 | 269 | 31 | 
 | 2022-10-20 | 262 | 30 | 

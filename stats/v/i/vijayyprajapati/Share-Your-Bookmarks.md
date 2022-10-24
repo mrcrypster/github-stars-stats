@@ -1,10 +1,10 @@
 # vijayyprajapati/Share-Your-Bookmarks - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 112
+☋ Forks: 120
 
-★ Stars: 50
+★ Stars: 54
 
 [Open repository](https://github.com/vijayyprajapati/Share-Your-Bookmarks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 54 | 120 | 
 | 2022-10-22 | 50 | 112 | 
 | 2022-10-21 | 47 | 94 | 
 | 2022-10-20 | 36 | 69 | 

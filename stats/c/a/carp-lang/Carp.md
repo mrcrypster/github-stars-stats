@@ -1,10 +1,10 @@
 # carp-lang/Carp - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 166
 
-★ Stars: 4704
+★ Stars: 4705
 
 [Open repository](https://github.com/carp-lang/Carp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4705 | 166 | 
 | 2022-10-22 | 4704 | 166 | 
 | 2022-10-21 | 4704 | 166 | 
 | 2022-10-20 | 4702 | 166 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 4678 | 165 | 
 | 2022-09-25 | 4678 | 165 | 
 | 2022-09-24 | 4678 | 164 | 
-| 2022-09-23 | 4678 | 164 | 
 

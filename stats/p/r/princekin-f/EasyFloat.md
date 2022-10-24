@@ -1,6 +1,6 @@
 # princekin-f/EasyFloat - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 335
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2690 | 335 | 
 | 2022-10-22 | 2690 | 335 | 
 | 2022-10-21 | 2690 | 335 | 
 | 2022-10-20 | 2687 | 335 | 

@@ -1,6 +1,6 @@
 # ChenNingCong/BuildSystem - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 16 | 1 | 
 | 2022-10-22 | 16 | 1 | 
 | 2022-10-21 | 16 | 1 | 
 | 2022-10-20 | 16 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 16 | 1 | 
 | 2022-09-25 | 16 | 1 | 
 | 2022-09-24 | 16 | 1 | 
-| 2022-09-23 | 16 | 1 | 
 

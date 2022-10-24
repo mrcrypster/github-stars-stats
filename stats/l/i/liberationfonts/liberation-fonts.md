@@ -1,10 +1,10 @@
 # liberationfonts/liberation-fonts - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 18
 
-★ Stars: 283
+★ Stars: 284
 
 [Open repository](https://github.com/liberationfonts/liberation-fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 284 | 18 | 
 | 2022-10-22 | 283 | 18 | 
 | 2022-10-21 | 283 | 18 | 
 | 2022-10-20 | 283 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 280 | 18 | 
 | 2022-09-25 | 280 | 18 | 
 | 2022-09-24 | 280 | 18 | 
-| 2022-09-23 | 280 | 18 | 
 

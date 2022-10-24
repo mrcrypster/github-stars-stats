@@ -1,6 +1,6 @@
 # rstudio-conf-2022/causal-inference-rstats - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 67 | 16 | 
 | 2022-10-22 | 67 | 16 | 
 | 2022-10-21 | 67 | 16 | 
 | 2022-10-20 | 67 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 65 | 16 | 
 | 2022-09-25 | 65 | 16 | 
 | 2022-09-24 | 65 | 16 | 
-| 2022-09-23 | 65 | 16 | 
 

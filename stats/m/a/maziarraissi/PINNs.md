@@ -1,6 +1,6 @@
 # maziarraissi/PINNs - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 804
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1807 | 804 | 
 | 2022-10-22 | 1807 | 804 | 
 | 2022-10-21 | 1804 | 801 | 
 | 2022-10-20 | 1800 | 801 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1751 | 776 | 
 | 2022-09-25 | 1749 | 776 | 
 | 2022-09-24 | 1747 | 775 | 
-| 2022-09-23 | 1746 | 774 | 
 

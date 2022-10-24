@@ -1,10 +1,10 @@
 # v2ray/v2ray-core - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 8497
 
-★ Stars: 40655
+★ Stars: 40662
 
 [Open repository](https://github.com/v2ray/v2ray-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 40662 | 8497 | 
 | 2022-10-22 | 40655 | 8497 | 
 | 2022-10-21 | 40647 | 8497 | 
 | 2022-10-20 | 40640 | 8498 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 40426 | 8485 | 
 | 2022-09-25 | 40419 | 8488 | 
 | 2022-09-24 | 40409 | 8489 | 
-| 2022-09-23 | 40403 | 8490 | 
 

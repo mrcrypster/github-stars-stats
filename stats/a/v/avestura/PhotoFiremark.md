@@ -1,6 +1,6 @@
 # avestura/PhotoFiremark - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 161 | 8 | 
 | 2022-10-22 | 161 | 8 | 
 | 2022-10-21 | 161 | 8 | 
 | 2022-10-20 | 161 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 161 | 8 | 
 | 2022-09-26 | 161 | 8 | 
 | 2022-09-25 | 161 | 8 | 
-| 2022-09-24 | 161 | 8 | 
 

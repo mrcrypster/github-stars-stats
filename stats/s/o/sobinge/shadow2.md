@@ -1,10 +1,10 @@
 # sobinge/shadow2 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 142
 
-★ Stars: 332
+★ Stars: 333
 
 [Open repository](https://github.com/sobinge/shadow2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 333 | 142 | 
 | 2022-10-22 | 332 | 142 | 
 | 2022-10-21 | 332 | 142 | 
 | 2022-10-20 | 332 | 142 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 326 | 141 | 
 | 2022-09-26 | 325 | 141 | 
 | 2022-09-25 | 325 | 141 | 
-| 2022-09-24 | 324 | 141 | 
 

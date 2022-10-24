@@ -1,6 +1,6 @@
 # redgans/RDPFREEs - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1 | 197 | 
 | 2022-10-22 | 1 | 197 | 
 | 2022-10-21 | 1 | 195 | 
 | 2022-10-20 | 1 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1 | 182 | 
 | 2022-09-25 | 1 | 181 | 
 | 2022-09-24 | 1 | 181 | 
-| 2022-09-23 | 1 | 181 | 
 

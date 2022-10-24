@@ -1,10 +1,10 @@
 # seanprashad/leetcode-patterns - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 1296
+☋ Forks: 1297
 
-★ Stars: 7314
+★ Stars: 7317
 
 [Open repository](https://github.com/seanprashad/leetcode-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 7317 | 1297 | 
 | 2022-10-22 | 7314 | 1296 | 
 | 2022-10-21 | 7305 | 1296 | 
 | 2022-10-20 | 7300 | 1296 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 7198 | 1268 | 
 | 2022-09-25 | 7192 | 1267 | 
 | 2022-09-24 | 7189 | 1267 | 
-| 2022-09-23 | 7182 | 1263 | 
 

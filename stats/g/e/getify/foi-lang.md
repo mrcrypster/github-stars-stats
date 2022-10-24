@@ -1,6 +1,6 @@
 # getify/foi-lang - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 190 | 5 | 
 | 2022-10-22 | 190 | 5 | 
 | 2022-10-21 | 190 | 5 | 
 | 2022-10-20 | 187 | 5 | 

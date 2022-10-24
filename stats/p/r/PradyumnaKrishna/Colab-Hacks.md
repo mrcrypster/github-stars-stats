@@ -1,10 +1,10 @@
 # PradyumnaKrishna/Colab-Hacks - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1350
 
-★ Stars: 682
+★ Stars: 685
 
 [Open repository](https://github.com/PradyumnaKrishna/Colab-Hacks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 685 | 1350 | 
 | 2022-10-22 | 682 | 1350 | 
 | 2022-10-21 | 682 | 1350 | 
 | 2022-10-20 | 681 | 1347 | 

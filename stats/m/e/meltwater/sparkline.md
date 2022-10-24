@@ -1,6 +1,6 @@
 # meltwater/sparkline - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4 | 1 | 
 | 2022-10-22 | 4 | 1 | 
 | 2022-10-21 | 4 | 1 | 
 | 2022-10-20 | 4 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 3 | 1 | 
 | 2022-09-25 | 3 | 1 | 
 | 2022-09-24 | 3 | 1 | 
-| 2022-09-23 | 3 | 1 | 
 

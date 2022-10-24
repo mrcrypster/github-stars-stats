@@ -1,10 +1,10 @@
 # nas5w/interview-resources - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 75
 
-★ Stars: 1650
+★ Stars: 1651
 
 [Open repository](https://github.com/nas5w/interview-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1651 | 75 | 
 | 2022-10-22 | 1650 | 75 | 
 | 2022-10-21 | 1645 | 75 | 
 | 2022-10-20 | 1642 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1408 | 65 | 
 | 2022-09-25 | 1393 | 65 | 
 | 2022-09-24 | 1366 | 64 | 
-| 2022-09-23 | 1333 | 61 | 
 

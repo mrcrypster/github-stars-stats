@@ -1,6 +1,6 @@
 # gagbo/consult-lsp - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 66 | 5 | 
 | 2022-10-22 | 66 | 5 | 
 | 2022-10-21 | 66 | 5 | 
 | 2022-10-20 | 66 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 63 | 5 | 
 | 2022-09-26 | 63 | 5 | 
 | 2022-09-25 | 63 | 5 | 
-| 2022-09-24 | 63 | 5 | 
 

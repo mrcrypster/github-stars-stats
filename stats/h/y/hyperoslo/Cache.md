@@ -1,6 +1,6 @@
 # hyperoslo/Cache - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2652 | 312 | 
 | 2022-10-22 | 2652 | 312 | 
 | 2022-10-21 | 2652 | 312 | 
 | 2022-10-20 | 2652 | 312 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 2646 | 310 | 
 | 2022-09-25 | 2646 | 310 | 
 | 2022-09-24 | 2646 | 310 | 
-| 2022-09-23 | 2645 | 310 | 
 

@@ -1,10 +1,10 @@
 # databricks/LearningSparkV2 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 530
 
-★ Stars: 807
+★ Stars: 808
 
 [Open repository](https://github.com/databricks/LearningSparkV2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 808 | 530 | 
 | 2022-10-22 | 807 | 530 | 
 | 2022-10-21 | 806 | 531 | 
 | 2022-10-20 | 806 | 531 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 788 | 518 | 
 | 2022-09-25 | 788 | 518 | 
 | 2022-09-24 | 788 | 518 | 
-| 2022-09-23 | 788 | 517 | 
 

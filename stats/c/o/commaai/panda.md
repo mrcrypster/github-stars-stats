@@ -1,6 +1,6 @@
 # commaai/panda - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 590
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1251 | 590 | 
 | 2022-10-22 | 1251 | 590 | 
 | 2022-10-21 | 1251 | 590 | 
 | 2022-10-20 | 1251 | 590 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 1245 | 586 | 
 | 2022-09-26 | 1244 | 586 | 
 | 2022-09-25 | 1244 | 586 | 
-| 2022-09-24 | 1244 | 586 | 
 

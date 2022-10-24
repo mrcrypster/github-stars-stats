@@ -1,6 +1,6 @@
 # FluentValidation/FluentValidation - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1086
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 7666 | 1086 | 
 | 2022-10-22 | 7666 | 1086 | 
 | 2022-10-21 | 7663 | 1086 | 
 | 2022-10-20 | 7658 | 1086 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 7597 | 1082 | 
 | 2022-09-25 | 7597 | 1082 | 
 | 2022-09-24 | 7595 | 1082 | 
-| 2022-09-23 | 7591 | 1083 | 
 

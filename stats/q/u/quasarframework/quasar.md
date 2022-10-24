@@ -1,10 +1,10 @@
 # quasarframework/quasar - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 2983
+☋ Forks: 2987
 
-★ Stars: 22189
+★ Stars: 22197
 
 [Open repository](https://github.com/quasarframework/quasar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 22197 | 2987 | 
 | 2022-10-22 | 22189 | 2983 | 
 | 2022-10-21 | 22184 | 2985 | 
 | 2022-10-20 | 22180 | 2986 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 22033 | 2965 | 
 | 2022-09-25 | 22031 | 2965 | 
 | 2022-09-24 | 22023 | 2964 | 
-| 2022-09-23 | 22018 | 2963 | 
 

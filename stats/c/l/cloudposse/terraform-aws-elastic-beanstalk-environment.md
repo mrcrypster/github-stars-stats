@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-elastic-beanstalk-environment - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 306
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 262 | 306 | 
 | 2022-10-22 | 262 | 306 | 
 | 2022-10-21 | 262 | 306 | 
 | 2022-10-20 | 262 | 306 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 261 | 303 | 
 | 2022-09-26 | 261 | 303 | 
 | 2022-09-25 | 261 | 303 | 
-| 2022-09-24 | 261 | 303 | 
 

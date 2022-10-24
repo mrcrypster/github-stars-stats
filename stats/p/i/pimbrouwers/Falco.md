@@ -1,10 +1,10 @@
 # pimbrouwers/Falco - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 27
 
-★ Stars: 403
+★ Stars: 405
 
 [Open repository](https://github.com/pimbrouwers/Falco)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 405 | 27 | 
 | 2022-10-22 | 403 | 27 | 
 | 2022-10-21 | 403 | 27 | 
 | 2022-10-20 | 403 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 395 | 27 | 
 | 2022-09-25 | 394 | 27 | 
 | 2022-09-24 | 393 | 27 | 
-| 2022-09-23 | 393 | 27 | 
 

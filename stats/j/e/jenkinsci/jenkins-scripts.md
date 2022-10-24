@@ -1,6 +1,6 @@
 # jenkinsci/jenkins-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 831 | 486 | 
 | 2022-10-22 | 831 | 486 | 
 | 2022-10-21 | 831 | 486 | 
 | 2022-10-20 | 830 | 485 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 827 | 474 | 
 | 2022-09-25 | 827 | 474 | 
 | 2022-09-24 | 827 | 474 | 
-| 2022-09-23 | 827 | 474 | 
 

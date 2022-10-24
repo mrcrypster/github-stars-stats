@@ -1,10 +1,10 @@
 # go-sql-driver/mysql - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 2160
+☋ Forks: 2159
 
-★ Stars: 12717
+★ Stars: 12721
 
 [Open repository](https://github.com/go-sql-driver/mysql)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 12721 | 2159 | 
 | 2022-10-22 | 12717 | 2160 | 
 | 2022-10-21 | 12714 | 2160 | 
 | 2022-10-20 | 12711 | 2159 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 12631 | 2148 | 
 | 2022-09-25 | 12626 | 2148 | 
 | 2022-09-24 | 12623 | 2147 | 
-| 2022-09-23 | 12621 | 2147 | 
 

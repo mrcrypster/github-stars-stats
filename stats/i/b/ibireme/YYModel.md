@@ -1,6 +1,6 @@
 # ibireme/YYModel - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 916
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4314 | 916 | 
 | 2022-10-23 | 4314 | 916 | 
 | 2022-10-22 | 4314 | 916 | 
 | 2022-10-20 | 4314 | 916 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 4318 | 914 | 
 | 2022-09-25 | 4318 | 914 | 
 | 2022-09-24 | 4318 | 914 | 
-| 2022-09-23 | 4318 | 914 | 
 

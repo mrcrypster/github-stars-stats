@@ -1,10 +1,10 @@
 # sourcegraph/doctree - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 25
 
-★ Stars: 827
+★ Stars: 828
 
 [Open repository](https://github.com/sourcegraph/doctree)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 828 | 25 | 
 | 2022-10-22 | 827 | 25 | 
 | 2022-10-21 | 827 | 25 | 
 | 2022-10-20 | 827 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 823 | 25 | 
 | 2022-09-26 | 823 | 25 | 
 | 2022-09-24 | 823 | 25 | 
-| 2022-09-23 | 823 | 25 | 
 

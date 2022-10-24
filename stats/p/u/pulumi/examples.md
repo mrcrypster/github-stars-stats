@@ -1,10 +1,10 @@
 # pulumi/examples - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 729
 
-★ Stars: 1851
+★ Stars: 1852
 
 [Open repository](https://github.com/pulumi/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1852 | 729 | 
 | 2022-10-22 | 1851 | 729 | 
 | 2022-10-21 | 1849 | 729 | 
 | 2022-10-20 | 1846 | 729 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1814 | 717 | 
 | 2022-09-25 | 1812 | 717 | 
 | 2022-09-24 | 1811 | 716 | 
-| 2022-09-23 | 1811 | 717 | 
 

@@ -1,6 +1,6 @@
 # zacwest/ZSWTappableLabel - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 168 | 34 | 
 | 2022-10-22 | 168 | 34 | 
 | 2022-10-21 | 168 | 34 | 
 | 2022-10-20 | 168 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 167 | 34 | 
 | 2022-09-25 | 167 | 34 | 
 | 2022-09-24 | 167 | 34 | 
-| 2022-09-23 | 167 | 34 | 
 

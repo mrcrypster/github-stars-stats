@@ -1,6 +1,6 @@
 # tmehta813/androidinternviewsquestions - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 91 | 9 | 
 | 2022-10-22 | 91 | 9 | 
 | 2022-10-21 | 91 | 9 | 
 | 2022-10-20 | 91 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 79 | 8 | 
 | 2022-09-25 | 78 | 8 | 
 | 2022-09-24 | 76 | 8 | 
-| 2022-09-23 | 75 | 8 | 
 

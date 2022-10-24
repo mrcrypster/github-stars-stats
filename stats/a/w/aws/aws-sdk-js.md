@@ -1,10 +1,10 @@
 # aws/aws-sdk-js - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1535
 
-★ Stars: 7170
+★ Stars: 7171
 
 [Open repository](https://github.com/aws/aws-sdk-js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 7171 | 1535 | 
 | 2022-10-23 | 7170 | 1535 | 
 | 2022-10-22 | 7170 | 1535 | 
 | 2022-10-21 | 7170 | 1534 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 7144 | 1527 | 
 | 2022-09-25 | 7142 | 1526 | 
 | 2022-09-24 | 7142 | 1526 | 
-| 2022-09-23 | 7142 | 1526 | 
 

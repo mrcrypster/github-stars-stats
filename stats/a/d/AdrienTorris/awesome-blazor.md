@@ -1,10 +1,10 @@
 # AdrienTorris/awesome-blazor - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 840
 
-★ Stars: 7092
+★ Stars: 7094
 
 [Open repository](https://github.com/AdrienTorris/awesome-blazor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 7094 | 840 | 
 | 2022-10-22 | 7092 | 840 | 
 | 2022-10-21 | 7089 | 840 | 
 | 2022-10-20 | 7089 | 841 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 7031 | 838 | 
 | 2022-09-26 | 7029 | 838 | 
 | 2022-09-25 | 7028 | 836 | 
-| 2022-09-24 | 7028 | 836 | 
 

@@ -1,10 +1,10 @@
 # apache/pulsar-manager - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 200
 
-★ Stars: 420
+★ Stars: 421
 
 [Open repository](https://github.com/apache/pulsar-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 421 | 200 | 
 | 2022-10-23 | 420 | 200 | 
 | 2022-10-22 | 420 | 200 | 
 | 2022-10-21 | 420 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 418 | 199 | 
 | 2022-09-25 | 418 | 199 | 
 | 2022-09-24 | 418 | 199 | 
-| 2022-09-23 | 418 | 199 | 
 

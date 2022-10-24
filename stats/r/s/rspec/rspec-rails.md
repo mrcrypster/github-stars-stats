@@ -1,10 +1,10 @@
 # rspec/rspec-rails - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 978
 
-★ Stars: 4870
+★ Stars: 4872
 
 [Open repository](https://github.com/rspec/rspec-rails)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4872 | 978 | 
 | 2022-10-22 | 4870 | 978 | 
 | 2022-10-21 | 4870 | 977 | 
 | 2022-10-20 | 4869 | 977 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 4852 | 971 | 
 | 2022-09-25 | 4850 | 970 | 
 | 2022-09-24 | 4848 | 970 | 
-| 2022-09-23 | 4848 | 970 | 
 

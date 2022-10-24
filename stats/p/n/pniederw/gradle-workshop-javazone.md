@@ -1,6 +1,6 @@
 # pniederw/gradle-workshop-javazone - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 3 | 3 | 
 | 2022-10-22 | 3 | 3 | 
 

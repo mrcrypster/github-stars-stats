@@ -1,6 +1,6 @@
 # ros2/python_cmake_module - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4 | 3 | 
 | 2022-10-22 | 4 | 3 | 
 | 2022-10-21 | 4 | 3 | 
 | 2022-10-20 | 4 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 3 | 2 | 
 | 2022-09-25 | 3 | 2 | 
 | 2022-09-24 | 3 | 2 | 
-| 2022-09-23 | 3 | 2 | 
 

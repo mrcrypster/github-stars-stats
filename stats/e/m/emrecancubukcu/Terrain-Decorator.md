@@ -1,10 +1,10 @@
 # emrecancubukcu/Terrain-Decorator - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 43
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/emrecancubukcu/Terrain-Decorator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 371 | 43 | 
 | 2022-10-22 | 370 | 43 | 
 | 2022-10-21 | 370 | 43 | 
 | 2022-10-20 | 370 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 362 | 43 | 
 | 2022-09-25 | 361 | 43 | 
 | 2022-09-24 | 361 | 43 | 
-| 2022-09-23 | 361 | 43 | 
 

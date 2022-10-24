@@ -1,10 +1,10 @@
 # commclassroom/roadmaps - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 164
+☋ Forks: 175
 
-★ Stars: 456
+★ Stars: 485
 
 [Open repository](https://github.com/commclassroom/roadmaps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 485 | 175 | 
 | 2022-10-22 | 456 | 164 | 
 | 2022-10-21 | 425 | 159 | 
 | 2022-10-20 | 421 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 363 | 124 | 
 | 2022-09-25 | 360 | 123 | 
 | 2022-09-24 | 357 | 123 | 
-| 2022-09-23 | 354 | 123 | 
 

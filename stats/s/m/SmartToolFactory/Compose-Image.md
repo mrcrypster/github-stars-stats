@@ -1,6 +1,6 @@
 # SmartToolFactory/Compose-Image - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 197 | 9 | 
 | 2022-10-22 | 197 | 9 | 
 | 2022-10-21 | 197 | 9 | 
 | 2022-10-20 | 197 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 194 | 6 | 
 | 2022-09-25 | 194 | 6 | 
 | 2022-09-24 | 194 | 6 | 
-| 2022-09-23 | 192 | 6 | 
 

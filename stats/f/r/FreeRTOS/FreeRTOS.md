@@ -1,10 +1,10 @@
 # FreeRTOS/FreeRTOS - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 1038
+☋ Forks: 1037
 
-★ Stars: 3014
+★ Stars: 3016
 
 [Open repository](https://github.com/FreeRTOS/FreeRTOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 3016 | 1037 | 
 | 2022-10-22 | 3014 | 1038 | 
 | 2022-10-21 | 3015 | 1037 | 
 | 2022-10-20 | 3013 | 1035 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 2948 | 1014 | 
 | 2022-09-25 | 2946 | 1015 | 
 | 2022-09-24 | 2943 | 1014 | 
-| 2022-09-23 | 2940 | 1012 | 
 

@@ -1,10 +1,10 @@
 # tc39/proposal-pattern-matching - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 89
 
-★ Stars: 4531
+★ Stars: 4532
 
 [Open repository](https://github.com/tc39/proposal-pattern-matching)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4532 | 89 | 
 | 2022-10-22 | 4531 | 89 | 
 | 2022-10-21 | 4528 | 89 | 
 | 2022-10-20 | 4527 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | 4476 | 88 | 
 | 2022-09-26 | 4474 | 88 | 
 | 2022-09-25 | 4474 | 88 | 
-| 2022-09-24 | 4470 | 88 | 
 

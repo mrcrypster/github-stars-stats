@@ -1,10 +1,10 @@
 # javamonn/sunspot - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 24
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/javamonn/sunspot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 64 | 24 | 
 | 2022-10-22 | 65 | 24 | 
 | 2022-10-21 | 65 | 24 | 
 | 2022-10-20 | 65 | 24 | 

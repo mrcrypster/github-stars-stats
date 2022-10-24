@@ -1,10 +1,10 @@
 # abel-otegbola/clock-app - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 23
+★ Stars: 22
 
 [Open repository](https://github.com/abel-otegbola/clock-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 22 | 35 | 
 | 2022-10-22 | 23 | 34 | 
 | 2022-10-21 | 23 | 34 | 
 | 2022-10-20 | 23 | 34 | 

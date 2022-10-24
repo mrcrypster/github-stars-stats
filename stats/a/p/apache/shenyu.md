@@ -1,10 +1,10 @@
 # apache/shenyu - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 2498
+☋ Forks: 2500
 
-★ Stars: 7342
+★ Stars: 7343
 
 [Open repository](https://github.com/apache/shenyu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 7343 | 2500 | 
 | 2022-10-22 | 7342 | 2498 | 
 | 2022-10-21 | 7340 | 2496 | 
 | 2022-10-20 | 7340 | 2496 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 7253 | 2463 | 
 | 2022-09-25 | 7247 | 2463 | 
 | 2022-09-24 | 7246 | 2463 | 
-| 2022-09-23 | 7239 | 2463 | 
 

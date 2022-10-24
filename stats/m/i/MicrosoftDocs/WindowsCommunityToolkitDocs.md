@@ -1,6 +1,6 @@
 # MicrosoftDocs/WindowsCommunityToolkitDocs - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 147
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 146 | 147 | 
 | 2022-10-22 | 146 | 147 | 
 | 2022-10-21 | 146 | 147 | 
 | 2022-10-20 | 146 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 144 | 144 | 
 | 2022-09-25 | 144 | 144 | 
 | 2022-09-24 | 144 | 144 | 
-| 2022-09-23 | 144 | 144 | 
 

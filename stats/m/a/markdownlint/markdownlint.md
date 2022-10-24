@@ -1,10 +1,10 @@
 # markdownlint/markdownlint - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 211
 
-★ Stars: 1406
+★ Stars: 1407
 
 [Open repository](https://github.com/markdownlint/markdownlint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1407 | 211 | 
 | 2022-10-22 | 1406 | 211 | 
 | 2022-10-21 | 1405 | 211 | 
 | 2022-10-20 | 1405 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1389 | 209 | 
 | 2022-09-25 | 1387 | 209 | 
 | 2022-09-24 | 1387 | 209 | 
-| 2022-09-23 | 1386 | 209 | 
 

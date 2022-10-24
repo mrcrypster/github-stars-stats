@@ -1,10 +1,10 @@
 # StanfordVL/cs131_notes - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 357
 
-★ Stars: 634
+★ Stars: 635
 
 [Open repository](https://github.com/StanfordVL/cs131_notes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 635 | 357 | 
 | 2022-10-22 | 634 | 357 | 
 | 2022-10-21 | 634 | 357 | 
 | 2022-10-20 | 634 | 357 | 

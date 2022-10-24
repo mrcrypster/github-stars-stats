@@ -1,10 +1,10 @@
 # aseprite/aseprite - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 1708
+☋ Forks: 1709
 
-★ Stars: 18989
+★ Stars: 18997
 
 [Open repository](https://github.com/aseprite/aseprite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 18997 | 1709 | 
 | 2022-10-22 | 18989 | 1708 | 
 | 2022-10-21 | 18984 | 1703 | 
 | 2022-10-20 | 18972 | 1702 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 18690 | 1668 | 
 | 2022-09-25 | 18681 | 1667 | 
 | 2022-09-24 | 18672 | 1665 | 
-| 2022-09-23 | 18659 | 1664 | 
 

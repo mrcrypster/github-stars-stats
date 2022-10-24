@@ -1,10 +1,10 @@
 # viraptor/reverse-interview - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1878
 
-★ Stars: 24310
+★ Stars: 24312
 
 [Open repository](https://github.com/viraptor/reverse-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 24312 | 1878 | 
 | 2022-10-22 | 24310 | 1878 | 
 | 2022-10-21 | 24304 | 1878 | 
 | 2022-10-20 | 24302 | 1877 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 24167 | 1870 | 
 | 2022-09-25 | 24162 | 1871 | 
 | 2022-09-24 | 24161 | 1872 | 
-| 2022-09-23 | 24160 | 1872 | 
 

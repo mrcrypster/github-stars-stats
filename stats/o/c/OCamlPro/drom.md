@@ -1,6 +1,6 @@
 # OCamlPro/drom - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 151 | 16 | 
 | 2022-10-23 | 151 | 16 | 
 | 2022-10-22 | 151 | 16 | 
 | 2022-10-21 | 151 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 142 | 15 | 
 | 2022-09-25 | 142 | 15 | 
 | 2022-09-24 | 142 | 15 | 
-| 2022-09-23 | 141 | 15 | 
 

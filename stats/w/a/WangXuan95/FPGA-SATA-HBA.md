@@ -1,6 +1,6 @@
 # WangXuan95/FPGA-SATA-HBA - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 23 | 2 | 
 | 2022-10-23 | 23 | 2 | 
 | 2022-10-22 | 22 | 2 | 
 | 2022-10-21 | 22 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 21 | 2 | 
 | 2022-09-25 | 21 | 2 | 
 | 2022-09-24 | 21 | 2 | 
-| 2022-09-23 | 21 | 2 | 
 

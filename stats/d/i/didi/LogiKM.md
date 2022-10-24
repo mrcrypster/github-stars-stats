@@ -1,8 +1,8 @@
 # didi/LogiKM - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 1018
+☋ Forks: 1017
 
 ★ Stars: 5334
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 5334 | 1017 | 
 | 2022-10-22 | 5334 | 1018 | 
 | 2022-10-21 | 5329 | 1017 | 
 | 2022-10-20 | 5325 | 1016 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 5144 | 977 | 
 | 2022-09-25 | 5141 | 977 | 
 | 2022-09-24 | 5135 | 977 | 
-| 2022-09-23 | 5133 | 977 | 
 

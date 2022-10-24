@@ -1,6 +1,6 @@
 # composer/composer - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 6465
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 27030 | 6465 | 
 | 2022-10-22 | 27030 | 6465 | 
 | 2022-10-21 | 27027 | 6464 | 
 | 2022-10-20 | 27024 | 6462 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 26943 | 6432 | 
 | 2022-09-25 | 26941 | 6430 | 
 | 2022-09-24 | 26939 | 6429 | 
-| 2022-09-23 | 26933 | 6427 | 
 

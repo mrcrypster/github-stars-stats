@@ -1,6 +1,6 @@
 # Kljunas2/activate-linux - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 85 | 5 | 
 | 2022-10-22 | 85 | 5 | 
 | 2022-10-21 | 85 | 5 | 
 | 2022-10-20 | 85 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 85 | 5 | 
 | 2022-09-25 | 85 | 5 | 
 | 2022-09-24 | 85 | 5 | 
-| 2022-09-23 | 85 | 5 | 
 

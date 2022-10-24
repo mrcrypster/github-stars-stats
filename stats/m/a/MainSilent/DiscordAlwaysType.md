@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 23
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 28
+★ Stars: 32
 
 [Open repository](https://github.com/MainSilent/DiscordAlwaysType)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-23 | 28 | 13 | 
+| 2022-10-23 | 32 | 14 | 
 | 2022-10-22 | 25 | 12 | 
 

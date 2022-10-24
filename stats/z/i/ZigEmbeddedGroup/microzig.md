@@ -1,6 +1,6 @@
 # ZigEmbeddedGroup/microzig - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 173 | 23 | 
 | 2022-10-22 | 173 | 23 | 
 | 2022-10-21 | 173 | 23 | 
 | 2022-10-20 | 172 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 157 | 20 | 
 | 2022-09-25 | 157 | 20 | 
 | 2022-09-24 | 156 | 20 | 
-| 2022-09-23 | 155 | 20 | 
 

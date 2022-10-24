@@ -1,10 +1,10 @@
 # AliceWonderland/hacktoberfest - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 7191
+☋ Forks: 7251
 
-★ Stars: 925
+★ Stars: 926
 
 [Open repository](https://github.com/AliceWonderland/hacktoberfest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 926 | 7251 | 
 | 2022-10-22 | 925 | 7191 | 
 | 2022-10-21 | 922 | 7136 | 
 | 2022-10-20 | 920 | 7076 | 

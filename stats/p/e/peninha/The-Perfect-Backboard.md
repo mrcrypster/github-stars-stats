@@ -1,6 +1,6 @@
 # peninha/The-Perfect-Backboard - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 66 | 13 | 
 | 2022-10-22 | 66 | 13 | 
 | 2022-10-21 | 66 | 13 | 
 | 2022-10-20 | 66 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 64 | 12 | 
 | 2022-09-25 | 63 | 12 | 
 | 2022-09-24 | 61 | 12 | 
-| 2022-09-23 | 59 | 12 | 
 

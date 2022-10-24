@@ -1,10 +1,10 @@
 # kunalabs-io/sui-smart-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 28
 
 [Open repository](https://github.com/kunalabs-io/sui-smart-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 28 | 1 | 
 | 2022-10-22 | 26 | 1 | 
 | 2022-10-21 | 26 | 1 | 
 | 2022-10-20 | 25 | 1 | 

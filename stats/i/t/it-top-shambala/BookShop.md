@@ -1,6 +1,6 @@
 # it-top-shambala/BookShop - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | - | 6 | 
 | 2022-10-22 | - | 6 | 
 | 2022-10-21 | - | 6 | 
 | 2022-10-20 | - | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-27 | - | 6 | 
 | 2022-09-26 | - | 6 | 
 | 2022-09-25 | - | 6 | 
-| 2022-09-24 | - | 6 | 
 

@@ -1,10 +1,10 @@
 # NGnius/PowerTools - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 7
 
-★ Stars: 224
+★ Stars: 225
 
 [Open repository](https://github.com/NGnius/PowerTools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 225 | 7 | 
 | 2022-10-22 | 224 | 7 | 
 | 2022-10-21 | 224 | 7 | 
 | 2022-10-20 | 224 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 201 | 7 | 
 | 2022-09-25 | 201 | 7 | 
 | 2022-09-24 | 199 | 7 | 
-| 2022-09-23 | 198 | 7 | 
 

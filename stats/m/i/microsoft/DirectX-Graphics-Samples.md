@@ -1,10 +1,10 @@
 # microsoft/DirectX-Graphics-Samples - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1829
 
-★ Stars: 4785
+★ Stars: 4788
 
 [Open repository](https://github.com/microsoft/DirectX-Graphics-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 4788 | 1829 | 
 | 2022-10-22 | 4785 | 1829 | 
 | 2022-10-21 | 4783 | 1828 | 
 | 2022-10-20 | 4780 | 1829 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 4738 | 1816 | 
 | 2022-09-25 | 4736 | 1815 | 
 | 2022-09-24 | 4735 | 1814 | 
-| 2022-09-23 | 4731 | 1811 | 
 

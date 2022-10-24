@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 23
 
 ☋ Forks: 270
 
-★ Stars: 4996
+★ Stars: 4999
 
 [Open repository](https://github.com/pretzelhammer/rust-blog)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-23 | 4996 | 270 | 
+| 2022-10-23 | 4999 | 270 | 
 | 2022-10-22 | 4994 | 270 | 
 | 2022-10-21 | 4969 | 269 | 
 | 2022-10-20 | 4963 | 267 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 4904 | 262 | 
 | 2022-09-25 | 4902 | 262 | 
 | 2022-09-24 | 4899 | 262 | 
-| 2022-09-23 | 4898 | 262 | 
 

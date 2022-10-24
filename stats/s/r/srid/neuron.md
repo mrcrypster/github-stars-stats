@@ -1,6 +1,6 @@
 # srid/neuron - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1428 | 150 | 
 | 2022-10-23 | 1428 | 150 | 
 | 2022-10-22 | 1428 | 150 | 
 | 2022-10-20 | 1428 | 150 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-26 | 1419 | 150 | 
 | 2022-09-25 | 1419 | 149 | 
 | 2022-09-24 | 1420 | 149 | 
-| 2022-09-23 | 1419 | 149 | 
 

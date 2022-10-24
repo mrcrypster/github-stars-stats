@@ -1,10 +1,10 @@
 # kivra/oauth2 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 71
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/kivra/oauth2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 217 | 71 | 
 | 2022-10-22 | 216 | 71 | 
 | 2022-10-21 | 216 | 71 | 
 | 2022-10-20 | 216 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 216 | 70 | 
 | 2022-09-25 | 216 | 70 | 
 | 2022-09-24 | 216 | 70 | 
-| 2022-09-23 | 216 | 70 | 
 

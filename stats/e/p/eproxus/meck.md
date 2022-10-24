@@ -1,6 +1,6 @@
 # eproxus/meck - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 775 | 230 | 
 | 2022-10-22 | 775 | 230 | 
 | 2022-10-21 | 775 | 230 | 
 | 2022-10-20 | 775 | 230 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 773 | 229 | 
 | 2022-09-25 | 773 | 229 | 
 | 2022-09-24 | 773 | 229 | 
-| 2022-09-23 | 773 | 229 | 
 

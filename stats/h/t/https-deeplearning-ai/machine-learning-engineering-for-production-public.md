@@ -1,10 +1,10 @@
 # https-deeplearning-ai/machine-learning-engineering-for-production-public - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 1445
+☋ Forks: 1446
 
-★ Stars: 1217
+★ Stars: 1220
 
 [Open repository](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1220 | 1446 | 
 | 2022-10-22 | 1217 | 1445 | 
 | 2022-10-21 | 1217 | 1444 | 
 | 2022-10-20 | 1215 | 1442 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 1078 | 1373 | 
 | 2022-09-25 | 1075 | 1369 | 
 | 2022-09-24 | 1072 | 1368 | 
-| 2022-09-23 | 1072 | 1365 | 
 

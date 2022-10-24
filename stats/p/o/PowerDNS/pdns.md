@@ -1,8 +1,8 @@
 # PowerDNS/pdns - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 791
+☋ Forks: 793
 
 ★ Stars: 2884
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2884 | 793 | 
 | 2022-10-22 | 2884 | 791 | 
 | 2022-10-21 | 2883 | 791 | 
 | 2022-10-20 | 2881 | 791 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 2860 | 786 | 
 | 2022-09-25 | 2859 | 786 | 
 | 2022-09-24 | 2858 | 786 | 
-| 2022-09-23 | 2858 | 786 | 
 

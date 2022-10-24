@@ -1,6 +1,6 @@
 # creativetimofficial/soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 218
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 375 | 218 | 
 | 2022-10-22 | 375 | 218 | 
 | 2022-10-21 | 374 | 218 | 
 | 2022-10-20 | 373 | 215 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 367 | 188 | 
 | 2022-09-25 | 367 | 186 | 
 | 2022-09-24 | 367 | 185 | 
-| 2022-09-23 | 367 | 185 | 
 

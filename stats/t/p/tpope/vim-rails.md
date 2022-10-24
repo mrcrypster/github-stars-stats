@@ -1,6 +1,6 @@
 # tpope/vim-rails - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 390
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 3978 | 390 | 
 | 2022-10-22 | 3978 | 390 | 
 | 2022-10-21 | 3977 | 390 | 
 | 2022-10-20 | 3976 | 390 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 3965 | 390 | 
 | 2022-09-25 | 3965 | 390 | 
 | 2022-09-24 | 3963 | 390 | 
-| 2022-09-23 | 3963 | 390 | 
 

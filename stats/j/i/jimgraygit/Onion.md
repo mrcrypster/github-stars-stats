@@ -1,6 +1,6 @@
 # jimgraygit/Onion - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 503 | 29 | 
 | 2022-10-22 | 503 | 29 | 
 | 2022-10-21 | 502 | 29 | 
 | 2022-10-20 | 502 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 503 | 42 | 
 | 2022-09-25 | 503 | 42 | 
 | 2022-09-24 | 503 | 42 | 
-| 2022-09-23 | 503 | 42 | 
 

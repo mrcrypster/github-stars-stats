@@ -1,6 +1,6 @@
 # protongraph/protongraph - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 887 | 62 | 
 | 2022-10-22 | 887 | 62 | 
 | 2022-10-21 | 887 | 62 | 
 | 2022-10-20 | 887 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 884 | 62 | 
 | 2022-09-25 | 884 | 62 | 
 | 2022-09-24 | 883 | 62 | 
-| 2022-09-23 | 883 | 62 | 
 

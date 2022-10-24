@@ -1,10 +1,10 @@
 # labmlai/annotated_deep_learning_paper_implementations - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 1460
 
-★ Stars: 13458
+★ Stars: 13467
 
 [Open repository](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 13467 | 1460 | 
 | 2022-10-22 | 13458 | 1460 | 
 | 2022-10-21 | 13439 | 1459 | 
 | 2022-10-20 | 13424 | 1455 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 12908 | 1374 | 
 | 2022-09-25 | 12886 | 1371 | 
 | 2022-09-24 | 12840 | 1366 | 
-| 2022-09-23 | 12797 | 1365 | 
 

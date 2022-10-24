@@ -1,6 +1,6 @@
 # microsoftgraph/msgraph-typescript-typings - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 90 | 31 | 
 | 2022-10-22 | 90 | 31 | 
 | 2022-10-21 | 90 | 31 | 
 | 2022-10-20 | 90 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 90 | 31 | 
 | 2022-09-25 | 90 | 31 | 
 | 2022-09-24 | 90 | 31 | 
-| 2022-09-23 | 91 | 31 | 
 

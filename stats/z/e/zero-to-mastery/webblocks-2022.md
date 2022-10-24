@@ -1,10 +1,10 @@
 # zero-to-mastery/webblocks-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 196
+☋ Forks: 199
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/zero-to-mastery/webblocks-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 35 | 199 | 
 | 2022-10-22 | 34 | 196 | 
 | 2022-10-21 | 33 | 194 | 
 | 2022-10-20 | 33 | 191 | 

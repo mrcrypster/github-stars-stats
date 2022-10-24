@@ -1,8 +1,8 @@
 # ddoshi983001/flutter-bni_attendance - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 1 | 16 | 
 | 2022-10-22 | 1 | 15 | 
 | 2022-10-21 | 1 | 14 | 
 | 2022-10-20 | 1 | 14 | 

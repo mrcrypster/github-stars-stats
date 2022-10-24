@@ -1,10 +1,10 @@
 # wenet-e2e/wenet - stars & forks statistics
 
-Stats updated on Oct 2022, 22
+Stats updated on Oct 2022, 23
 
 ☋ Forks: 728
 
-★ Stars: 2529
+★ Stars: 2533
 
 [Open repository](https://github.com/wenet-e2e/wenet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 22
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-23 | 2533 | 728 | 
 | 2022-10-22 | 2529 | 728 | 
 | 2022-10-21 | 2526 | 727 | 
 | 2022-10-20 | 2522 | 726 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 22
 | 2022-09-26 | 2453 | 703 | 
 | 2022-09-25 | 2451 | 702 | 
 | 2022-09-24 | 2450 | 702 | 
-| 2022-09-23 | 2447 | 702 | 
 
