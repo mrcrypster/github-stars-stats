@@ -1,6 +1,6 @@
 # BoHBranch/BoH-Bay - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 9 | 66 | 
 | 2022-10-23 | 9 | 66 | 
 | 2022-10-22 | 9 | 66 | 
 | 2022-10-21 | 9 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 10 | 66 | 
 | 2022-09-26 | 10 | 66 | 
 | 2022-09-25 | 10 | 66 | 
-| 2022-09-24 | 10 | 66 | 
 

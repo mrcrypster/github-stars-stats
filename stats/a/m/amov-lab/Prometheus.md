@@ -1,10 +1,10 @@
 # amov-lab/Prometheus - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 322
 
-★ Stars: 1532
+★ Stars: 1537
 
 [Open repository](https://github.com/amov-lab/Prometheus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1537 | 322 | 
 | 2022-10-23 | 1532 | 322 | 
 | 2022-10-22 | 1531 | 321 | 
 | 2022-10-21 | 1531 | 321 | 

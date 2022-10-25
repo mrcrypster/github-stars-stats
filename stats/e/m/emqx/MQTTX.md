@@ -1,10 +1,10 @@
 # emqx/MQTTX - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 297
 
-★ Stars: 2200
+★ Stars: 2204
 
 [Open repository](https://github.com/emqx/MQTTX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2204 | 297 | 
 | 2022-10-23 | 2200 | 297 | 
 | 2022-10-22 | 2198 | 297 | 
 | 2022-10-21 | 2197 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2148 | 293 | 
 | 2022-09-26 | 2146 | 293 | 
 | 2022-09-25 | 2145 | 293 | 
-| 2022-09-24 | 2143 | 293 | 
 

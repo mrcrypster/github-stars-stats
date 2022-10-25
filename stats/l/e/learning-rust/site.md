@@ -1,8 +1,8 @@
 # learning-rust/site - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 107
+☋ Forks: 108
 
 ★ Stars: 1185
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1185 | 108 | 
 | 2022-10-23 | 1185 | 107 | 
 | 2022-10-22 | 1185 | 107 | 
 | 2022-10-21 | 1184 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1141 | 103 | 
 | 2022-09-26 | 1140 | 103 | 
 | 2022-09-25 | 1140 | 103 | 
-| 2022-09-24 | 1139 | 103 | 
 

@@ -1,10 +1,10 @@
 # nvim-orgmode/orgmode - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 84
+☋ Forks: 85
 
-★ Stars: 1751
+★ Stars: 1754
 
 [Open repository](https://github.com/nvim-orgmode/orgmode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1754 | 85 | 
 | 2022-10-23 | 1751 | 84 | 
 | 2022-10-22 | 1749 | 84 | 
 | 2022-10-21 | 1748 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1697 | 77 | 
 | 2022-09-26 | 1696 | 78 | 
 | 2022-09-25 | 1692 | 78 | 
-| 2022-09-24 | 1690 | 77 | 
 

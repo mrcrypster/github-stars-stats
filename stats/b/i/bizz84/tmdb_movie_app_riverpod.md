@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 24
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 32
 
 [Open repository](https://github.com/bizz84/tmdb_movie_app_riverpod)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 26 | - | 
+| 2022-10-24 | 32 | 1 | 
 | 2022-10-23 | 25 | - | 
 

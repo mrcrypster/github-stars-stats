@@ -1,10 +1,10 @@
 # facebook/jest - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 6108
+☋ Forks: 6107
 
-★ Stars: 40545
+★ Stars: 40555
 
 [Open repository](https://github.com/facebook/jest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 40555 | 6107 | 
 | 2022-10-23 | 40545 | 6108 | 
 | 2022-10-22 | 40535 | 6105 | 
 | 2022-10-21 | 40529 | 6103 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 40254 | 6060 | 
 | 2022-09-26 | 40239 | 6057 | 
 | 2022-09-25 | 40235 | 6055 | 
-| 2022-09-24 | 40230 | 6054 | 
 

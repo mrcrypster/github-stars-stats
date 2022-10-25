@@ -1,10 +1,10 @@
 # ccgus/fmdb - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2791
 
-★ Stars: 13704
+★ Stars: 13705
 
 [Open repository](https://github.com/ccgus/fmdb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 13705 | 2791 | 
 | 2022-10-23 | 13704 | 2791 | 
 | 2022-10-22 | 13702 | 2792 | 
 | 2022-10-21 | 13702 | 2792 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 13685 | 2793 | 
 | 2022-09-26 | 13687 | 2793 | 
 | 2022-09-25 | 13687 | 2792 | 
-| 2022-09-24 | 13687 | 2792 | 
 

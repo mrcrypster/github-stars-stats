@@ -1,10 +1,10 @@
 # micronaut-projects/micronaut-core - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 933
+☋ Forks: 934
 
-★ Stars: 5508
+★ Stars: 5509
 
 [Open repository](https://github.com/micronaut-projects/micronaut-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 5509 | 934 | 
 | 2022-10-23 | 5508 | 933 | 
 | 2022-10-22 | 5508 | 931 | 
 | 2022-10-21 | 5507 | 931 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 5480 | 924 | 
 | 2022-09-26 | 5479 | 924 | 
 | 2022-09-25 | 5478 | 924 | 
-| 2022-09-24 | 5478 | 924 | 
 

@@ -1,10 +1,10 @@
 # Darkempire78/OpenCalc - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 21
+☋ Forks: 22
 
-★ Stars: 200
+★ Stars: 202
 
 [Open repository](https://github.com/Darkempire78/OpenCalc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 202 | 22 | 
 | 2022-10-23 | 200 | 21 | 
 | 2022-10-22 | 200 | 21 | 
 | 2022-10-21 | 200 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 196 | 20 | 
 | 2022-09-26 | 193 | 19 | 
 | 2022-09-25 | 193 | 19 | 
-| 2022-09-24 | 190 | 19 | 
 

@@ -1,10 +1,10 @@
 # AmirulAndalib/MLTB-ALPINE-DOCKER - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 24
 
-★ Stars: 17
+★ Stars: 16
 
 [Open repository](https://github.com/AmirulAndalib/MLTB-ALPINE-DOCKER)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 16 | 24 | 
 | 2022-10-23 | 17 | 24 | 
 | 2022-10-22 | 17 | 23 | 
 | 2022-10-21 | 18 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 13 | 20 | 
 | 2022-09-26 | 13 | 20 | 
 | 2022-09-25 | 13 | 20 | 
-| 2022-09-24 | 13 | 20 | 
 

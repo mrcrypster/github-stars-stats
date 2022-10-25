@@ -1,6 +1,6 @@
 # hijiangtao/resume - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 370
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 994 | 370 | 
 | 2022-10-23 | 994 | 370 | 
 | 2022-10-22 | 994 | 370 | 
 | 2022-10-21 | 994 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 986 | 367 | 
 | 2022-09-26 | 984 | 367 | 
 | 2022-09-25 | 984 | 367 | 
-| 2022-09-24 | 984 | 366 | 
 

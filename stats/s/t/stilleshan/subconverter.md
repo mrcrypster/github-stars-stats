@@ -1,6 +1,6 @@
 # stilleshan/subconverter - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 86 | 21 | 
 | 2022-10-23 | 86 | 21 | 
 | 2022-10-22 | 86 | 21 | 
 | 2022-10-21 | 86 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 81 | 21 | 
 | 2022-09-26 | 81 | 21 | 
 | 2022-09-25 | 81 | 22 | 
-| 2022-09-24 | 81 | 22 | 
 

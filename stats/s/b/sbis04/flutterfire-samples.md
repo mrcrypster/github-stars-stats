@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 24
 
 ☋ Forks: 110
 
-★ Stars: 172
+★ Stars: 174
 
 [Open repository](https://github.com/sbis04/flutterfire-samples)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 172 | 110 | 
+| 2022-10-24 | 174 | 110 | 
 | 2022-10-23 | 172 | 110 | 
 

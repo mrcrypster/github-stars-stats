@@ -1,10 +1,10 @@
 # JosiahParry/sfdep - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/JosiahParry/sfdep)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 78 | 3 | 
 | 2022-10-24 | 76 | 3 | 
 | 2022-10-23 | 76 | 3 | 
 | 2022-10-22 | 76 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 76 | 3 | 
 | 2022-09-26 | 76 | 3 | 
 | 2022-09-25 | 75 | 3 | 
-| 2022-09-24 | 75 | 3 | 
 

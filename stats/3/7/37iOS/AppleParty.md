@@ -1,6 +1,6 @@
 # 37iOS/AppleParty - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 166 | 39 | 
 | 2022-10-23 | 166 | 39 | 
 | 2022-10-22 | 166 | 39 | 
 | 2022-10-21 | 166 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 161 | 39 | 
 | 2022-09-26 | 161 | 39 | 
 | 2022-09-25 | 160 | 39 | 
-| 2022-09-24 | 160 | 39 | 
 

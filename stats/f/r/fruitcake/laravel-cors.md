@@ -1,6 +1,6 @@
 # fruitcake/laravel-cors - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 616
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 6161 | 616 | 
 | 2022-10-23 | 6161 | 616 | 
 | 2022-10-22 | 6161 | 616 | 
 | 2022-10-21 | 6161 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 6139 | 615 | 
 | 2022-09-27 | 6136 | 615 | 
 | 2022-09-25 | 6136 | 615 | 
-| 2022-09-24 | 6136 | 615 | 
 

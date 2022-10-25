@@ -1,10 +1,10 @@
 # tlaplus/Examples - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 159
 
-★ Stars: 978
+★ Stars: 979
 
 [Open repository](https://github.com/tlaplus/Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 979 | 159 | 
 | 2022-10-23 | 978 | 159 | 
 | 2022-10-22 | 977 | 159 | 
 | 2022-10-21 | 977 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 966 | 158 | 
 | 2022-09-26 | 962 | 158 | 
 | 2022-09-25 | 960 | 158 | 
-| 2022-09-24 | 960 | 158 | 
 

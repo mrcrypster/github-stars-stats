@@ -1,8 +1,8 @@
 # InfosecMatter/SSH-PuTTY-login-bruteforcer - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 175
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 175 | 67 | 
 | 2022-10-23 | 175 | 66 | 
 | 2022-10-22 | 175 | 66 | 
 | 2022-10-21 | 174 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 151 | 60 | 
 | 2022-09-26 | 151 | 60 | 
 | 2022-09-25 | 151 | 59 | 
-| 2022-09-24 | 151 | 59 | 
 

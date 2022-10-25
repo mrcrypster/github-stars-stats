@@ -1,6 +1,6 @@
 # nathansimonis1612/HAR-RV - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 60 | 15 | 
 | 2022-10-23 | 60 | 15 | 
 | 2022-10-22 | 60 | 15 | 
 | 2022-10-21 | 60 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 56 | 14 | 
 | 2022-09-26 | 56 | 14 | 
 | 2022-09-25 | 56 | 14 | 
-| 2022-09-24 | 56 | 14 | 
 

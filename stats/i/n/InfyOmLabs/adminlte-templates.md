@@ -1,10 +1,10 @@
 # InfyOmLabs/adminlte-templates - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 108
+☋ Forks: 109
 
-★ Stars: 237
+★ Stars: 238
 
 [Open repository](https://github.com/InfyOmLabs/adminlte-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 238 | 109 | 
 | 2022-10-23 | 237 | 108 | 
 | 2022-10-22 | 237 | 108 | 
 | 2022-10-21 | 237 | 108 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 236 | 108 | 
 | 2022-09-26 | 236 | 108 | 
 | 2022-09-25 | 236 | 108 | 
-| 2022-09-24 | 236 | 108 | 
 

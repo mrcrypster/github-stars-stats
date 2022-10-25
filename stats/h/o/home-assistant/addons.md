@@ -1,10 +1,10 @@
 # home-assistant/addons - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1073
+☋ Forks: 1074
 
-★ Stars: 1003
+★ Stars: 1004
 
 [Open repository](https://github.com/home-assistant/addons)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1004 | 1074 | 
 | 2022-10-23 | 1003 | 1073 | 
 | 2022-10-22 | 1003 | 1071 | 
 | 2022-10-21 | 1002 | 1069 | 

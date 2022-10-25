@@ -1,6 +1,6 @@
 # nodemcu/nodemcu-flasher - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 729
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1752 | 729 | 
 | 2022-10-23 | 1752 | 729 | 
 | 2022-10-22 | 1752 | 728 | 
 | 2022-10-21 | 1752 | 728 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1737 | 723 | 
 | 2022-09-26 | 1736 | 722 | 
 | 2022-09-25 | 1736 | 722 | 
-| 2022-09-24 | 1735 | 722 | 
 

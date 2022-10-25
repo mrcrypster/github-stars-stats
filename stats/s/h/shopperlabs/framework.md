@@ -1,6 +1,6 @@
 # shopperlabs/framework - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 498 | 74 | 
 | 2022-10-23 | 498 | 74 | 
 | 2022-10-22 | 497 | 74 | 
 | 2022-10-21 | 497 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 485 | 72 | 
 | 2022-09-26 | 484 | 72 | 
 | 2022-09-25 | 482 | 72 | 
-| 2022-09-24 | 482 | 72 | 
 

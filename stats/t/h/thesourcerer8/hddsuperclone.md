@@ -1,10 +1,10 @@
 # thesourcerer8/hddsuperclone - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 25
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/thesourcerer8/hddsuperclone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 242 | 25 | 
 | 2022-10-24 | 241 | 25 | 
 | 2022-10-22 | 242 | 25 | 
 | 2022-10-21 | 242 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 218 | 24 | 
 | 2022-09-26 | 218 | 24 | 
 | 2022-09-25 | 218 | 24 | 
-| 2022-09-24 | 218 | 24 | 
 

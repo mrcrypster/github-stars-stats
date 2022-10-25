@@ -1,6 +1,6 @@
 # midnightmonster/activerecord-summarize - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 97 | 1 | 
 | 2022-10-23 | 97 | 1 | 
 | 2022-10-22 | 97 | 1 | 
 | 2022-10-21 | 97 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 96 | 1 | 
 | 2022-09-26 | 96 | 1 | 
 | 2022-09-25 | 96 | 1 | 
-| 2022-09-24 | 96 | 1 | 
 

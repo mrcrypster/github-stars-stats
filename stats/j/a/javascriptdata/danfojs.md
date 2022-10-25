@@ -1,6 +1,6 @@
 # javascriptdata/danfojs - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3875 | 171 | 
 | 2022-10-23 | 3875 | 171 | 
 | 2022-10-22 | 3874 | 170 | 
 | 2022-10-21 | 3873 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 3847 | 169 | 
 | 2022-09-26 | 3844 | 168 | 
 | 2022-09-25 | 3844 | 168 | 
-| 2022-09-24 | 3844 | 168 | 
 

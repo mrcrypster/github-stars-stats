@@ -1,6 +1,6 @@
 # Funky-Punky/FPV_SS22_Repetitorium - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 6 | 4 | 
 | 2022-10-23 | 6 | 4 | 
 | 2022-10-22 | 6 | 4 | 
 | 2022-10-21 | 6 | 4 | 

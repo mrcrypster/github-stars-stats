@@ -1,6 +1,6 @@
 # mgeeky/ProtectMyTooling - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 404 | 48 | 
 | 2022-10-24 | 404 | 48 | 
 | 2022-10-23 | 402 | 48 | 
 | 2022-10-22 | 400 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 375 | 43 | 
 | 2022-09-26 | 374 | 43 | 
 | 2022-09-25 | 373 | 43 | 
-| 2022-09-24 | 372 | 43 | 
 

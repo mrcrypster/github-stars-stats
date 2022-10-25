@@ -1,10 +1,10 @@
 # Zhengsh123/HIT-CS-Course - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 12
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Zhengsh123/HIT-CS-Course)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 23 | 12 | 
+| 2022-10-24 | 23 | 12 | 
 | 2022-10-23 | 22 | 12 | 
 | 2022-10-22 | 22 | 11 | 
 | 2022-10-21 | 21 | 10 | 

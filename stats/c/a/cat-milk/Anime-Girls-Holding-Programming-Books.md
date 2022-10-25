@@ -1,10 +1,10 @@
 # cat-milk/Anime-Girls-Holding-Programming-Books - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 782
 
-★ Stars: 15029
+★ Stars: 15034
 
 [Open repository](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 15034 | 782 | 
 | 2022-10-23 | 15029 | 782 | 
 | 2022-10-22 | 15020 | 783 | 
 | 2022-10-21 | 15005 | 780 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 14801 | 769 | 
 | 2022-09-26 | 14790 | 769 | 
 | 2022-09-25 | 14787 | 768 | 
-| 2022-09-24 | 14780 | 769 | 
 

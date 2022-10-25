@@ -1,10 +1,10 @@
 # argosopentech/Conquest - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/argosopentech/Conquest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 59 | 3 | 
 | 2022-10-23 | 58 | 3 | 
 | 2022-10-22 | 58 | 3 | 
 | 2022-10-21 | 58 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 52 | 3 | 
 | 2022-09-26 | 52 | 3 | 
 | 2022-09-25 | 52 | 3 | 
-| 2022-09-24 | 52 | 3 | 
 

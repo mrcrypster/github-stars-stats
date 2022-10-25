@@ -1,10 +1,10 @@
 # appbaseio/dejavu - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 513
 
-★ Stars: 7941
+★ Stars: 7940
 
 [Open repository](https://github.com/appbaseio/dejavu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 7940 | 513 | 
 | 2022-10-23 | 7941 | 513 | 
 | 2022-10-22 | 7941 | 513 | 
 | 2022-10-21 | 7939 | 512 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 7918 | 512 | 
 | 2022-09-27 | 7918 | 512 | 
 | 2022-09-26 | 7916 | 512 | 
-| 2022-09-25 | 7915 | 512 | 
 

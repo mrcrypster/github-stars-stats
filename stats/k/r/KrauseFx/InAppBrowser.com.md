@@ -1,10 +1,10 @@
 # KrauseFx/InAppBrowser.com - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 28
 
-★ Stars: 436
+★ Stars: 437
 
 [Open repository](https://github.com/KrauseFx/InAppBrowser.com)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 437 | 28 | 
 | 2022-10-23 | 436 | 28 | 
 | 2022-10-22 | 437 | 28 | 
 | 2022-10-21 | 437 | 28 | 

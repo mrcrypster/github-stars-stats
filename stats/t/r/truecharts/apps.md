@@ -1,10 +1,10 @@
 # truecharts/apps - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 226
+☋ Forks: 227
 
-★ Stars: 399
+★ Stars: 401
 
 [Open repository](https://github.com/truecharts/apps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 401 | 227 | 
 | 2022-10-23 | 399 | 226 | 
 | 2022-10-22 | 399 | 224 | 
 | 2022-10-21 | 399 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 370 | 214 | 
 | 2022-09-26 | 369 | 213 | 
 | 2022-09-25 | 368 | 212 | 
-| 2022-09-24 | 367 | 211 | 
 

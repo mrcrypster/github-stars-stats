@@ -1,8 +1,8 @@
 # gruntwork-io/terragrunt - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 799
+☋ Forks: 800
 
 ★ Stars: 6261
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 6261 | 800 | 
 | 2022-10-23 | 6261 | 799 | 
 | 2022-10-22 | 6260 | 798 | 
 | 2022-10-21 | 6259 | 798 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 6190 | 793 | 
 | 2022-09-26 | 6190 | 793 | 
 | 2022-09-25 | 6186 | 793 | 
-| 2022-09-24 | 6185 | 791 | 
 

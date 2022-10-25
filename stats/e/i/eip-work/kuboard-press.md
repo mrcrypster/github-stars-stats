@@ -1,10 +1,10 @@
 # eip-work/kuboard-press - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1237
 
-★ Stars: 16410
+★ Stars: 16428
 
 [Open repository](https://github.com/eip-work/kuboard-press)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 16428 | 1237 | 
 | 2022-10-23 | 16410 | 1237 | 
 | 2022-10-22 | 16410 | 1237 | 
 | 2022-10-21 | 16400 | 1236 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 16192 | 1224 | 
 | 2022-09-26 | 16180 | 1223 | 
 | 2022-09-25 | 16162 | 1219 | 
-| 2022-09-24 | 16159 | 1219 | 
 

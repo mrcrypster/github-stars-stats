@@ -1,6 +1,6 @@
 # RamiKrispin/TSstudio - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 357 | 65 | 
 | 2022-10-24 | 357 | 65 | 
 | 2022-10-23 | 357 | 65 | 
 | 2022-10-22 | 357 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 351 | 64 | 
 | 2022-09-26 | 351 | 64 | 
 | 2022-09-25 | 351 | 64 | 
-| 2022-09-24 | 351 | 64 | 
 

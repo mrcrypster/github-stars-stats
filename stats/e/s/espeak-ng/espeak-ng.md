@@ -1,10 +1,10 @@
 # espeak-ng/espeak-ng - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 587
 
-★ Stars: 1536
+★ Stars: 1537
 
 [Open repository](https://github.com/espeak-ng/espeak-ng)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1537 | 587 | 
 | 2022-10-23 | 1536 | 587 | 
 | 2022-10-22 | 1535 | 587 | 
 | 2022-10-21 | 1534 | 587 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 1502 | 580 | 
 | 2022-09-27 | 1502 | 580 | 
 | 2022-09-26 | 1502 | 580 | 
-| 2022-09-25 | 1502 | 580 | 
 

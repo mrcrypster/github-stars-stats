@@ -1,10 +1,10 @@
 # dalcde/cam-notes - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 228
+☋ Forks: 230
 
-★ Stars: 800
+★ Stars: 801
 
 [Open repository](https://github.com/dalcde/cam-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 801 | 230 | 
 | 2022-10-23 | 800 | 228 | 
 | 2022-10-22 | 800 | 228 | 
 | 2022-10-21 | 800 | 228 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 792 | 227 | 
 | 2022-09-26 | 792 | 227 | 
 | 2022-09-25 | 791 | 227 | 
-| 2022-09-24 | 790 | 227 | 
 

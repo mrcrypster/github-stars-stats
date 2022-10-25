@@ -1,8 +1,8 @@
 # robertodevs/flutter_ecommerce_template - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 557
+☋ Forks: 556
 
 ★ Stars: 1069
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1069 | 556 | 
 | 2022-10-23 | 1069 | 557 | 
 | 2022-10-22 | 1068 | 556 | 
 | 2022-10-21 | 1066 | 555 | 

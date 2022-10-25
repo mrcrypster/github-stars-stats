@@ -1,6 +1,6 @@
 # onflow/nft-storefront - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 92 | 45 | 
 | 2022-10-23 | 92 | 45 | 
 | 2022-10-22 | 92 | 45 | 
 | 2022-10-21 | 92 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 91 | 44 | 
 | 2022-09-26 | 91 | 43 | 
 | 2022-09-25 | 91 | 43 | 
-| 2022-09-24 | 91 | 44 | 
 

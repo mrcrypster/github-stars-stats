@@ -1,6 +1,6 @@
 # ericlewis/openFPGA-DonkeyKong - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 17 | - | 
 | 2022-10-23 | 17 | - | 
 | 2022-10-22 | 17 | - | 
 | 2022-10-21 | 17 | - | 

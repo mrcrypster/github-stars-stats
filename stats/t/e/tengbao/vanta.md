@@ -1,6 +1,6 @@
 # tengbao/vanta - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 974
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4046 | 974 | 
 | 2022-10-23 | 4046 | 974 | 
 | 2022-10-22 | 4045 | 973 | 
 | 2022-10-21 | 4042 | 973 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4014 | 971 | 
 | 2022-09-26 | 4014 | 971 | 
 | 2022-09-25 | 4013 | 971 | 
-| 2022-09-24 | 4012 | 971 | 
 

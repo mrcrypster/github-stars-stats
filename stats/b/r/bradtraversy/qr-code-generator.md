@@ -1,6 +1,6 @@
 # bradtraversy/qr-code-generator - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 172 | 86 | 
 | 2022-10-23 | 172 | 86 | 
 | 2022-10-22 | 171 | 86 | 
 | 2022-10-21 | 171 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 165 | 82 | 
 | 2022-09-26 | 165 | 82 | 
 | 2022-09-25 | 165 | 81 | 
-| 2022-09-24 | 165 | 80 | 
 

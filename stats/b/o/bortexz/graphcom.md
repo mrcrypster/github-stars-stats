@@ -1,8 +1,8 @@
 # bortexz/graphcom - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 46 | 2 | 
 | 2022-10-23 | 46 | 1 | 
 | 2022-10-22 | 46 | 1 | 
 | 2022-10-21 | 43 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 31 | - | 
 | 2022-09-26 | 31 | - | 
 | 2022-09-25 | 31 | - | 
-| 2022-09-24 | 31 | - | 
 

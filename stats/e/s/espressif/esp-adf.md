@@ -1,6 +1,6 @@
 # espressif/esp-adf - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 547
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1061 | 547 | 
 | 2022-10-23 | 1061 | 547 | 
 | 2022-10-22 | 1061 | 547 | 
 | 2022-10-21 | 1061 | 547 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1047 | 539 | 
 | 2022-09-26 | 1046 | 539 | 
 | 2022-09-25 | 1046 | 539 | 
-| 2022-09-24 | 1046 | 539 | 
 

@@ -1,8 +1,8 @@
 # violin-suzutsuki/LinoriaLib - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 135
+☋ Forks: 137
 
 ★ Stars: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 22 | 137 | 
 | 2022-10-23 | 22 | 135 | 
 | 2022-10-22 | 22 | 133 | 
 | 2022-10-21 | 22 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 21 | 118 | 
 | 2022-09-26 | 21 | 118 | 
 | 2022-09-25 | 21 | 117 | 
-| 2022-09-24 | 21 | 117 | 
 

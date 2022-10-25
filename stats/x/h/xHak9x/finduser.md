@@ -1,6 +1,6 @@
 # xHak9x/finduser - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 209 | 67 | 
 | 2022-10-24 | 209 | 67 | 
 | 2022-10-23 | 209 | 67 | 
 | 2022-10-22 | 209 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 196 | 67 | 
 | 2022-09-26 | 195 | 67 | 
 | 2022-09-25 | 195 | 67 | 
-| 2022-09-24 | 194 | 67 | 
 

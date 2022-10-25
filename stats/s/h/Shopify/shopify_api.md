@@ -1,6 +1,6 @@
 # Shopify/shopify_api - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 402
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 921 | 402 | 
 | 2022-10-23 | 921 | 402 | 
 | 2022-10-22 | 921 | 401 | 
 | 2022-10-21 | 920 | 401 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 910 | 393 | 
 | 2022-09-26 | 910 | 393 | 
 | 2022-09-25 | 909 | 393 | 
-| 2022-09-24 | 909 | 393 | 
 

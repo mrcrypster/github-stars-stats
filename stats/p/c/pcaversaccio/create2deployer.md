@@ -1,6 +1,6 @@
 # pcaversaccio/create2deployer - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 71 | 11 | 
 | 2022-10-23 | 71 | 11 | 
 | 2022-10-22 | 71 | 11 | 
 | 2022-10-21 | 70 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 54 | 9 | 
 | 2022-09-26 | 53 | 9 | 
 | 2022-09-25 | 53 | 9 | 
-| 2022-09-24 | 53 | 9 | 
 

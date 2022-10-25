@@ -1,10 +1,10 @@
 # google/or-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1868
+☋ Forks: 1869
 
-★ Stars: 8687
+★ Stars: 8692
 
 [Open repository](https://github.com/google/or-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 8692 | 1869 | 
 | 2022-10-23 | 8687 | 1868 | 
 | 2022-10-22 | 8685 | 1867 | 
 | 2022-10-21 | 8681 | 1867 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 8609 | 1856 | 
 | 2022-09-26 | 8604 | 1856 | 
 | 2022-09-25 | 8601 | 1856 | 
-| 2022-09-24 | 8600 | 1856 | 
 

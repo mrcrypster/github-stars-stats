@@ -1,6 +1,6 @@
 # gvolpe/trading - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 462 | 38 | 
 | 2022-10-23 | 462 | 38 | 
 | 2022-10-22 | 462 | 38 | 
 | 2022-10-21 | 462 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 458 | 38 | 
 | 2022-09-26 | 458 | 38 | 
 | 2022-09-25 | 457 | 38 | 
-| 2022-09-24 | 457 | 38 | 
 

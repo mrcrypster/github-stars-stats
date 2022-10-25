@@ -1,6 +1,6 @@
 # Homebrew/homebrew-cask - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 10009
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 19513 | 10009 | 
 | 2022-10-23 | 19513 | 10009 | 
 | 2022-10-22 | 19510 | 10010 | 
 | 2022-10-21 | 19507 | 10009 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 19457 | 9975 | 
 | 2022-09-26 | 19455 | 9974 | 
 | 2022-09-25 | 19454 | 9972 | 
-| 2022-09-24 | 19454 | 9975 | 
 

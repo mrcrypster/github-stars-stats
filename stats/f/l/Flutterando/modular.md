@@ -1,10 +1,10 @@
 # Flutterando/modular - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 218
 
-★ Stars: 1128
+★ Stars: 1129
 
 [Open repository](https://github.com/Flutterando/modular)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1129 | 218 | 
 | 2022-10-23 | 1128 | 218 | 
 | 2022-10-22 | 1128 | 218 | 
 | 2022-10-21 | 1127 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1120 | 215 | 
 | 2022-09-26 | 1119 | 214 | 
 | 2022-09-25 | 1119 | 214 | 
-| 2022-09-24 | 1118 | 213 | 
 

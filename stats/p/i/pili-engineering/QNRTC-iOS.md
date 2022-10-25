@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 24
 
 ☋ Forks: 33
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/pili-engineering/QNRTC-iOS)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 53 | 33 | 
+| 2022-10-24 | 54 | 33 | 
 | 2022-10-23 | 53 | 33 | 
 

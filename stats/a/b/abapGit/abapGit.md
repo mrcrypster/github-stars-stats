@@ -1,10 +1,10 @@
 # abapGit/abapGit - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 461
 
-★ Stars: 1094
+★ Stars: 1095
 
 [Open repository](https://github.com/abapGit/abapGit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1095 | 461 | 
 | 2022-10-23 | 1094 | 461 | 
 | 2022-10-22 | 1094 | 461 | 
 | 2022-10-21 | 1094 | 460 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1084 | 458 | 
 | 2022-09-26 | 1084 | 458 | 
 | 2022-09-25 | 1083 | 458 | 
-| 2022-09-24 | 1083 | 458 | 
 

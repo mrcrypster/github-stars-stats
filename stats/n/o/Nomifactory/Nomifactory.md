@@ -1,6 +1,6 @@
 # Nomifactory/Nomifactory - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 205 | 86 | 
 | 2022-10-23 | 205 | 86 | 
 | 2022-10-22 | 205 | 86 | 
 | 2022-10-21 | 205 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 202 | 86 | 
 | 2022-09-26 | 202 | 86 | 
 | 2022-09-25 | 202 | 86 | 
-| 2022-09-24 | 202 | 86 | 
 

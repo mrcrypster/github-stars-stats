@@ -1,10 +1,10 @@
 # olimorris/onedarkpro.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 13
 
-★ Stars: 337
+★ Stars: 339
 
 [Open repository](https://github.com/olimorris/onedarkpro.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 339 | 13 | 
 | 2022-10-23 | 337 | 13 | 
 | 2022-10-22 | 335 | 13 | 
 | 2022-10-21 | 333 | 13 | 

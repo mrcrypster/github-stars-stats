@@ -1,8 +1,8 @@
 # dchapyshev/aspia - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 283
+☋ Forks: 284
 
 ★ Stars: 1175
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1175 | 284 | 
 | 2022-10-23 | 1175 | 283 | 
 | 2022-10-22 | 1174 | 283 | 
 | 2022-10-21 | 1175 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1167 | 281 | 
 | 2022-09-26 | 1167 | 281 | 
 | 2022-09-25 | 1166 | 281 | 
-| 2022-09-24 | 1166 | 282 | 
 

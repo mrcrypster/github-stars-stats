@@ -1,10 +1,10 @@
 # Theoyeah/Theoyeah-Engine - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 18
+☋ Forks: 19
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/Theoyeah/Theoyeah-Engine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 28 | 19 | 
 | 2022-10-23 | 27 | 18 | 
 | 2022-10-22 | 27 | 18 | 
 | 2022-10-21 | 27 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 26 | 14 | 
 | 2022-09-26 | 26 | 14 | 
 | 2022-09-25 | 26 | 14 | 
-| 2022-09-24 | 26 | 14 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/visualstudio-docs.ru-ru - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 40
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/MicrosoftDocs/visualstudio-docs.ru-ru)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 16 | 40 | 
 | 2022-10-23 | 15 | 40 | 
 | 2022-10-22 | 15 | 40 | 
 | 2022-10-21 | 15 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 15 | 40 | 
 | 2022-09-26 | 15 | 40 | 
 | 2022-09-25 | 15 | 40 | 
-| 2022-09-24 | 15 | 40 | 
 

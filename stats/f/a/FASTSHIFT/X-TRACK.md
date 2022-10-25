@@ -1,10 +1,10 @@
 # FASTSHIFT/X-TRACK - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 944
+☋ Forks: 945
 
-★ Stars: 3850
+★ Stars: 3852
 
 [Open repository](https://github.com/FASTSHIFT/X-TRACK)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3852 | 945 | 
 | 2022-10-23 | 3850 | 944 | 
 | 2022-10-22 | 3848 | 944 | 
 | 2022-10-21 | 3846 | 943 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 3791 | 933 | 
 | 2022-09-26 | 3791 | 933 | 
 | 2022-09-25 | 3788 | 932 | 
-| 2022-09-24 | 3786 | 932 | 
 

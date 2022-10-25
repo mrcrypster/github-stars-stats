@@ -1,10 +1,10 @@
 # nondanee/UnblockNeteaseMusic - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2523
 
-★ Stars: 16500
+★ Stars: 16502
 
 [Open repository](https://github.com/nondanee/UnblockNeteaseMusic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 16502 | 2523 | 
 | 2022-10-23 | 16500 | 2523 | 
 | 2022-10-22 | 16496 | 2524 | 
 | 2022-10-21 | 16491 | 2525 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 16424 | 2516 | 
 | 2022-09-26 | 16420 | 2515 | 
 | 2022-09-25 | 16420 | 2514 | 
-| 2022-09-24 | 16417 | 2513 | 
 

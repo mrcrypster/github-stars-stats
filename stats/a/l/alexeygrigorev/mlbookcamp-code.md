@@ -1,10 +1,10 @@
 # alexeygrigorev/mlbookcamp-code - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1252
+☋ Forks: 1255
 
-★ Stars: 4905
+★ Stars: 4907
 
 [Open repository](https://github.com/alexeygrigorev/mlbookcamp-code)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4907 | 1255 | 
 | 2022-10-23 | 4905 | 1252 | 
 | 2022-10-22 | 4899 | 1251 | 
 | 2022-10-21 | 4890 | 1250 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4668 | 1164 | 
 | 2022-09-26 | 4656 | 1159 | 
 | 2022-09-25 | 4647 | 1154 | 
-| 2022-09-24 | 4642 | 1147 | 
 

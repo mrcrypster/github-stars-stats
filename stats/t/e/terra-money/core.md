@@ -1,10 +1,10 @@
 # terra-money/core - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 55
 
-★ Stars: 311
+★ Stars: 312
 
 [Open repository](https://github.com/terra-money/core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 312 | 55 | 
 | 2022-10-23 | 311 | 55 | 
 | 2022-10-22 | 311 | 55 | 
 | 2022-10-21 | 310 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 305 | 54 | 
 | 2022-09-26 | 305 | 54 | 
 | 2022-09-25 | 305 | 54 | 
-| 2022-09-24 | 304 | 54 | 
 

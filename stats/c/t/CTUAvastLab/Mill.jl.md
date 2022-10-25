@@ -1,6 +1,6 @@
 # CTUAvastLab/Mill.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 67 | 6 | 
 | 2022-10-23 | 67 | 6 | 
 | 2022-10-22 | 67 | 6 | 
 | 2022-10-21 | 67 | 6 | 

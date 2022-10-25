@@ -1,10 +1,10 @@
 # brianium/indexed.db - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/brianium/indexed.db)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 20 | 2 | 
 | 2022-10-23 | 19 | 2 | 
 | 2022-10-22 | 19 | 2 | 
 | 2022-10-21 | 19 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 19 | 2 | 
 | 2022-09-26 | 19 | 2 | 
 | 2022-09-25 | 19 | 2 | 
-| 2022-09-24 | 19 | 2 | 
 

@@ -1,8 +1,8 @@
 # Wandmalfarbe/pandoc-latex-template - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 804
+☋ Forks: 803
 
 ★ Stars: 4568
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4568 | 803 | 
 | 2022-10-23 | 4568 | 804 | 
 | 2022-10-22 | 4567 | 804 | 
 | 2022-10-21 | 4567 | 804 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4515 | 786 | 
 | 2022-09-26 | 4514 | 786 | 
 | 2022-09-25 | 4512 | 784 | 
-| 2022-09-24 | 4508 | 783 | 
 

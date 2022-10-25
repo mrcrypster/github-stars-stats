@@ -1,6 +1,6 @@
 # binary-com/perl-Data-Chronicle - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 17
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 4 | 17 | 
+| 2022-10-24 | 4 | 17 | 
 | 2022-10-23 | 4 | 17 | 
 | 2022-10-22 | 4 | 17 | 
 | 2022-10-21 | 4 | 17 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4 | 16 | 
 | 2022-09-26 | 4 | 16 | 
 | 2022-09-25 | 4 | 16 | 
-| 2022-09-24 | 4 | 16 | 
 

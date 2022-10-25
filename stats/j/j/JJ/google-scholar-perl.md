@@ -1,8 +1,8 @@
 # JJ/google-scholar-perl - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 47
+☋ Forks: 46
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | - | 46 | 
 | 2022-10-23 | - | 47 | 
 | 2022-10-22 | - | 47 | 
 | 2022-10-21 | - | 47 | 

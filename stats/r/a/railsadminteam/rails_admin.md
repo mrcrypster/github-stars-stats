@@ -1,8 +1,8 @@
 # railsadminteam/rails_admin - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 2247
+☋ Forks: 2245
 
 ★ Stars: 7689
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 7689 | 2245 | 
 | 2022-10-23 | 7689 | 2247 | 
 | 2022-10-22 | 7688 | 2247 | 
 | 2022-10-21 | 7688 | 2247 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 7673 | 2242 | 
 | 2022-09-26 | 7673 | 2242 | 
 | 2022-09-25 | 7673 | 2242 | 
-| 2022-09-24 | 7672 | 2243 | 
 

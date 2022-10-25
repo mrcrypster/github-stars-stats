@@ -1,10 +1,10 @@
 # sjstoelting/pgsql-tweaks - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/sjstoelting/pgsql-tweaks)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 71 | 1 | 
 | 2022-10-23 | 70 | 1 | 
 | 2022-10-22 | 70 | 1 | 
 | 2022-10-21 | 70 | 1 | 

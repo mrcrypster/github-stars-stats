@@ -1,10 +1,10 @@
 # dmihal/ens-everywhere-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/dmihal/ens-everywhere-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 11 | 4 | 
 | 2022-10-23 | 10 | 4 | 
 | 2022-10-22 | 10 | 4 | 
 | 2022-10-21 | 10 | 4 | 

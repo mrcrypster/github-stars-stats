@@ -1,10 +1,10 @@
 # linuxserver/Heimdall - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 25
 
-☋ Forks: 433
+☋ Forks: 434
 
-★ Stars: 4927
+★ Stars: 4937
 
 [Open repository](https://github.com/linuxserver/Heimdall)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 4937 | 434 | 
+| 2022-10-24 | 4936 | 434 | 
 | 2022-10-23 | 4927 | 433 | 
 | 2022-10-22 | 4926 | 431 | 
 | 2022-10-21 | 4922 | 431 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 4800 | 418 | 
 | 2022-09-27 | 4798 | 418 | 
 | 2022-09-26 | 4789 | 418 | 
-| 2022-09-24 | 4785 | 418 | 
 

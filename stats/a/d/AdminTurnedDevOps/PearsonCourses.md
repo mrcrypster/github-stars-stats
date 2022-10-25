@@ -1,10 +1,10 @@
 # AdminTurnedDevOps/PearsonCourses - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 27
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/AdminTurnedDevOps/PearsonCourses)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 17 | 27 | 
 | 2022-10-23 | 16 | 27 | 
 | 2022-10-22 | 16 | 27 | 
 | 2022-10-21 | 16 | 27 | 

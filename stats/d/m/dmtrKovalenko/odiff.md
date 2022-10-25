@@ -1,10 +1,10 @@
 # dmtrKovalenko/odiff - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 64
 
-★ Stars: 1448
+★ Stars: 1450
 
 [Open repository](https://github.com/dmtrKovalenko/odiff)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1450 | 64 | 
 | 2022-10-23 | 1448 | 64 | 
 | 2022-10-22 | 1435 | 63 | 
 | 2022-10-21 | 1427 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1422 | 63 | 
 | 2022-09-26 | 1420 | 63 | 
 | 2022-09-25 | 1420 | 63 | 
-| 2022-09-24 | 1420 | 63 | 
 

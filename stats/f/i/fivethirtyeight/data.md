@@ -1,8 +1,8 @@
 # fivethirtyeight/data - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 10710
+☋ Forks: 10712
 
 ★ Stars: 15824
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 15824 | 10712 | 
 | 2022-10-23 | 15824 | 10710 | 
 | 2022-10-22 | 15823 | 10712 | 
 | 2022-10-21 | 15822 | 10711 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 15783 | 10653 | 
 | 2022-09-26 | 15781 | 10652 | 
 | 2022-09-25 | 15781 | 10652 | 
-| 2022-09-24 | 15781 | 10649 | 
 

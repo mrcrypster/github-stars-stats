@@ -1,10 +1,10 @@
 # code-423n4/2022-08-foundation - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 8
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/code-423n4/2022-08-foundation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 8 | 8 | 
 | 2022-10-23 | 7 | 8 | 
 | 2022-10-22 | 7 | 8 | 
 | 2022-10-21 | 7 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 6 | 8 | 
 | 2022-09-26 | 6 | 8 | 
 | 2022-09-25 | 6 | 8 | 
-| 2022-09-24 | 6 | 8 | 
 

@@ -1,6 +1,6 @@
 # qaware/cloud-native-explab - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3 | 10 | 
 | 2022-10-23 | 3 | 10 | 
 | 2022-10-22 | 3 | 10 | 
 | 2022-10-21 | 3 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 3 | 10 | 
 | 2022-09-26 | 3 | 10 | 
 | 2022-09-25 | 3 | 10 | 
-| 2022-09-24 | 3 | 10 | 
 

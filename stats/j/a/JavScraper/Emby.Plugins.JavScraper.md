@@ -1,10 +1,10 @@
 # JavScraper/Emby.Plugins.JavScraper - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 477
 
-★ Stars: 2248
+★ Stars: 2249
 
 [Open repository](https://github.com/JavScraper/Emby.Plugins.JavScraper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2249 | 477 | 
 | 2022-10-23 | 2248 | 477 | 
 | 2022-10-22 | 2244 | 476 | 
 | 2022-10-21 | 2241 | 476 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2204 | 471 | 
 | 2022-09-26 | 2205 | 470 | 
 | 2022-09-25 | 2203 | 468 | 
-| 2022-09-24 | 2199 | 468 | 
 

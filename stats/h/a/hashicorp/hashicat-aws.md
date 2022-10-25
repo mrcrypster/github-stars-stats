@@ -1,10 +1,10 @@
 # hashicorp/hashicat-aws - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1814
+☋ Forks: 1816
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/hashicorp/hashicat-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 11 | 1816 | 
 | 2022-10-23 | 10 | 1814 | 
 | 2022-10-22 | 10 | 1814 | 
 | 2022-10-21 | 10 | 1806 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 9 | 1659 | 
 | 2022-09-26 | 9 | 1656 | 
 | 2022-09-25 | 9 | 1654 | 
-| 2022-09-24 | 9 | 1654 | 
 

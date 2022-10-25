@@ -1,6 +1,6 @@
 # eguidotti/bidask - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 50 | 9 | 
 | 2022-10-23 | 50 | 9 | 
 | 2022-10-22 | 50 | 9 | 
 | 2022-10-21 | 50 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 41 | 9 | 
 | 2022-09-26 | 41 | 9 | 
 | 2022-09-25 | 41 | 9 | 
-| 2022-09-24 | 40 | 8 | 
 

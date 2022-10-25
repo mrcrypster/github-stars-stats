@@ -1,10 +1,10 @@
 # trimental/inlyne - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 11
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/trimental/inlyne)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 287 | 11 | 
 | 2022-10-23 | 286 | 11 | 
 | 2022-10-22 | 286 | 11 | 
 | 2022-10-21 | 285 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 276 | 10 | 
 | 2022-09-27 | 275 | 10 | 
 | 2022-09-25 | 275 | 10 | 
-| 2022-09-24 | 276 | 10 | 
 

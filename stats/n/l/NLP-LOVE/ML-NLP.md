@@ -1,10 +1,10 @@
 # NLP-LOVE/ML-NLP - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 4111
 
-★ Stars: 12763
+★ Stars: 12767
 
 [Open repository](https://github.com/NLP-LOVE/ML-NLP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 12767 | 4111 | 
 | 2022-10-23 | 12763 | 4111 | 
 | 2022-10-22 | 12761 | 4111 | 
 | 2022-10-21 | 12757 | 4110 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 12614 | 4083 | 
 | 2022-09-26 | 12613 | 4083 | 
 | 2022-09-25 | 12608 | 4082 | 
-| 2022-09-24 | 12600 | 4083 | 
 

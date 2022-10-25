@@ -1,10 +1,10 @@
 # libimobiledevice/libimobiledevice - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1137
+☋ Forks: 1138
 
-★ Stars: 5241
+★ Stars: 5244
 
 [Open repository](https://github.com/libimobiledevice/libimobiledevice)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 5244 | 1138 | 
 | 2022-10-23 | 5241 | 1137 | 
 | 2022-10-22 | 5241 | 1137 | 
 | 2022-10-21 | 5238 | 1136 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 5198 | 1124 | 
 | 2022-09-26 | 5197 | 1124 | 
 | 2022-09-25 | 5195 | 1124 | 
-| 2022-09-24 | 5192 | 1124 | 
 

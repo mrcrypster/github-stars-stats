@@ -1,10 +1,10 @@
 # liangxianzhe/creator - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 12
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/liangxianzhe/creator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 170 | 12 | 
 | 2022-10-23 | 169 | 12 | 
 | 2022-10-22 | 169 | 12 | 
 | 2022-10-21 | 169 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 167 | 12 | 
 | 2022-09-26 | 167 | 12 | 
 | 2022-09-25 | 167 | 12 | 
-| 2022-09-24 | 167 | 12 | 
 

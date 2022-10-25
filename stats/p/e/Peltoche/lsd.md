@@ -1,10 +1,10 @@
 # Peltoche/lsd - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 288
 
-★ Stars: 8579
+★ Stars: 8582
 
 [Open repository](https://github.com/Peltoche/lsd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 8582 | 288 | 
 | 2022-10-23 | 8579 | 288 | 
 | 2022-10-22 | 8574 | 289 | 
 | 2022-10-21 | 8575 | 289 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 8409 | 283 | 
 | 2022-09-26 | 8401 | 282 | 
 | 2022-09-25 | 8396 | 282 | 
-| 2022-09-24 | 8395 | 282 | 
 

@@ -1,6 +1,6 @@
 # aleksanderwozniak/table_calendar - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 708
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1418 | 708 | 
 | 2022-10-23 | 1418 | 708 | 
 | 2022-10-22 | 1418 | 708 | 
 | 2022-10-21 | 1415 | 709 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1402 | 705 | 
 | 2022-09-26 | 1403 | 705 | 
 | 2022-09-25 | 1403 | 705 | 
-| 2022-09-24 | 1402 | 705 | 
 

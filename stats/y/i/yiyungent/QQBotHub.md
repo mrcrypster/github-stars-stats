@@ -1,10 +1,10 @@
 # yiyungent/QQBotHub - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 37
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/yiyungent/QQBotHub)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 212 | 37 | 
 | 2022-10-24 | 211 | 37 | 
 | 2022-10-22 | 211 | 37 | 
 | 2022-10-21 | 210 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 205 | 37 | 
 | 2022-09-26 | 205 | 37 | 
 | 2022-09-25 | 205 | 37 | 
-| 2022-09-24 | 206 | 37 | 
 

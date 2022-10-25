@@ -1,10 +1,10 @@
 # exadel-inc/CompreFace - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 319
+☋ Forks: 321
 
-★ Stars: 2384
+★ Stars: 2390
 
 [Open repository](https://github.com/exadel-inc/CompreFace)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 2390 | 321 | 
 | 2022-10-24 | 2384 | 319 | 
 | 2022-10-23 | 2382 | 320 | 
 | 2022-10-22 | 2380 | 320 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 2299 | 307 | 
 | 2022-09-26 | 2298 | 308 | 
 | 2022-09-25 | 2294 | 307 | 
-| 2022-09-24 | 2291 | 307 | 
 

@@ -1,6 +1,6 @@
 # openresty/docker-openresty - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 814 | 486 | 
 | 2022-10-23 | 814 | 486 | 
 | 2022-10-22 | 814 | 486 | 
 | 2022-10-21 | 814 | 487 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 807 | 485 | 
 | 2022-09-26 | 807 | 485 | 
 | 2022-09-25 | 807 | 485 | 
-| 2022-09-24 | 807 | 485 | 
 

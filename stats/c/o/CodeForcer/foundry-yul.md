@@ -1,10 +1,10 @@
 # CodeForcer/foundry-yul - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/CodeForcer/foundry-yul)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 51 | 1 | 
 | 2022-10-23 | 50 | 1 | 
 | 2022-10-22 | 49 | 1 | 
 | 2022-10-21 | 49 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 48 | 1 | 
 | 2022-09-26 | 48 | 1 | 
 | 2022-09-25 | 48 | 1 | 
-| 2022-09-24 | 48 | 1 | 
 

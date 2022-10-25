@@ -1,0 +1,17 @@
+# trikko/parserino - stars & forks statistics
+
+Stats updated on Oct 2022, 24
+
+☋ Forks: 0
+
+★ Stars: 13
+
+[Open repository](https://github.com/trikko/parserino)
+
+[Open detailed stats for trikko/parserino](https://reviewgithub.com/rep/trikko/parserino)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-24 | 13 | - | 
+

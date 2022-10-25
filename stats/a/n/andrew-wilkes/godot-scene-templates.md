@@ -1,6 +1,6 @@
 # andrew-wilkes/godot-scene-templates - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 9 | - | 
 | 2022-10-23 | 9 | - | 
 | 2022-10-22 | 9 | - | 
 | 2022-10-21 | 9 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 9 | - | 
 | 2022-09-27 | 9 | - | 
 | 2022-09-25 | 9 | - | 
-| 2022-09-24 | 9 | - | 
 

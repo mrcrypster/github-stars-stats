@@ -1,10 +1,10 @@
 # github/pages-gem - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 388
 
-★ Stars: 1725
+★ Stars: 1726
 
 [Open repository](https://github.com/github/pages-gem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1726 | 388 | 
 | 2022-10-23 | 1725 | 388 | 
 | 2022-10-22 | 1725 | 388 | 
 | 2022-10-21 | 1725 | 388 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1723 | 385 | 
 | 2022-09-26 | 1723 | 385 | 
 | 2022-09-25 | 1724 | 385 | 
-| 2022-09-24 | 1724 | 385 | 
 

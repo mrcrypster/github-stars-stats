@@ -1,10 +1,10 @@
 # guardianproject/orbot - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 286
 
-★ Stars: 1156
+★ Stars: 1155
 
 [Open repository](https://github.com/guardianproject/orbot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1155 | 286 | 
 | 2022-10-23 | 1156 | 286 | 
 | 2022-10-22 | 1155 | 288 | 
 | 2022-10-21 | 1153 | 286 | 

@@ -1,10 +1,10 @@
 # veelenga/awesome-crystal - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 290
+☋ Forks: 291
 
-★ Stars: 3036
+★ Stars: 3038
 
 [Open repository](https://github.com/veelenga/awesome-crystal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3038 | 291 | 
 | 2022-10-23 | 3036 | 290 | 
 | 2022-10-22 | 3035 | 290 | 
 | 2022-10-21 | 3036 | 290 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 3023 | 288 | 
 | 2022-09-26 | 3023 | 288 | 
 | 2022-09-25 | 3023 | 288 | 
-| 2022-09-24 | 3023 | 288 | 
 

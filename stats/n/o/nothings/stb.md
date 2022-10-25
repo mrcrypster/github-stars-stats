@@ -1,10 +1,10 @@
 # nothings/stb - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 7028
+☋ Forks: 7031
 
-★ Stars: 20159
+★ Stars: 20174
 
 [Open repository](https://github.com/nothings/stb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 20174 | 7031 | 
 | 2022-10-23 | 20159 | 7028 | 
 | 2022-10-22 | 20152 | 7026 | 
 | 2022-10-21 | 20143 | 7021 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 19953 | 6970 | 
 | 2022-09-26 | 19952 | 6972 | 
 | 2022-09-25 | 19933 | 6967 | 
-| 2022-09-24 | 19928 | 6965 | 
 

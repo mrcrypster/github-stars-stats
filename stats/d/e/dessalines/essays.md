@@ -1,6 +1,6 @@
 # dessalines/essays - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1261 | 160 | 
 | 2022-10-23 | 1261 | 160 | 
 | 2022-10-22 | 1261 | 160 | 
 | 2022-10-21 | 1261 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1249 | 159 | 
 | 2022-09-26 | 1248 | 159 | 
 | 2022-09-25 | 1248 | 159 | 
-| 2022-09-24 | 1247 | 159 | 
 

@@ -1,8 +1,8 @@
 # VoronDesign/VoronUsers - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1531
+☋ Forks: 1533
 
 ★ Stars: 1921
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1921 | 1533 | 
 | 2022-10-23 | 1921 | 1531 | 
 | 2022-10-22 | 1919 | 1532 | 
 | 2022-10-21 | 1916 | 1531 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1860 | 1506 | 
 | 2022-09-26 | 1853 | 1504 | 
 | 2022-09-25 | 1851 | 1501 | 
-| 2022-09-24 | 1843 | 1499 | 
 

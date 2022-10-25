@@ -1,6 +1,6 @@
 # 100daysofdevops/100daysofdevops - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 622
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 660 | 622 | 
 | 2022-10-23 | 660 | 622 | 
 | 2022-10-22 | 660 | 622 | 
 | 2022-10-21 | 657 | 622 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 640 | 604 | 
 | 2022-09-26 | 640 | 604 | 
 | 2022-09-25 | 640 | 604 | 
-| 2022-09-24 | 640 | 604 | 
 

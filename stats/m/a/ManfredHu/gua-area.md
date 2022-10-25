@@ -1,10 +1,10 @@
 # ManfredHu/gua-area - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 32
 
-★ Stars: 192
+★ Stars: 194
 
 [Open repository](https://github.com/ManfredHu/gua-area)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 194 | 32 | 
 | 2022-10-23 | 192 | 32 | 
 | 2022-10-22 | 170 | 31 | 
 

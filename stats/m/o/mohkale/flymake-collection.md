@@ -1,10 +1,10 @@
 # mohkale/flymake-collection - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/mohkale/flymake-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 38 | 2 | 
 | 2022-10-23 | 37 | 2 | 
 | 2022-10-22 | 37 | 2 | 
 | 2022-10-21 | 37 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 37 | 2 | 
 | 2022-09-26 | 37 | 2 | 
 | 2022-09-25 | 37 | 2 | 
-| 2022-09-24 | 37 | 2 | 
 

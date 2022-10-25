@@ -1,6 +1,6 @@
 # tpapp/MarkdownTables.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 23 | 1 | 
 | 2022-10-23 | 23 | 1 | 
 | 2022-10-22 | 21 | 1 | 
 | 2022-10-21 | 21 | 1 | 

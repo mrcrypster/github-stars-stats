@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 24
 
-☋ Forks: 633
+☋ Forks: 634
 
-★ Stars: 9823
+★ Stars: 9825
 
 [Open repository](https://github.com/milligram/milligram)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 9823 | 633 | 
+| 2022-10-24 | 9825 | 634 | 
 | 2022-10-23 | 9823 | 634 | 
 | 2022-10-22 | 9819 | 631 | 
 | 2022-10-21 | 9816 | 631 | 

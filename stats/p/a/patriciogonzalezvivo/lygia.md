@@ -1,10 +1,10 @@
 # patriciogonzalezvivo/lygia - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 58
 
-★ Stars: 1116
+★ Stars: 1121
 
 [Open repository](https://github.com/patriciogonzalezvivo/lygia)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1121 | 58 | 
 | 2022-10-23 | 1116 | 58 | 
 | 2022-10-22 | 1115 | 58 | 
 | 2022-10-21 | 1110 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 950 | 55 | 
 | 2022-09-26 | 949 | 55 | 
 | 2022-09-25 | 945 | 55 | 
-| 2022-09-24 | 944 | 55 | 
 

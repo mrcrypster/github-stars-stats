@@ -1,10 +1,10 @@
 # edp963/davinci - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1756
 
-★ Stars: 4476
+★ Stars: 4478
 
 [Open repository](https://github.com/edp963/davinci)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4478 | 1756 | 
 | 2022-10-23 | 4476 | 1756 | 
 | 2022-10-22 | 4475 | 1756 | 
 | 2022-10-21 | 4475 | 1755 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4442 | 1745 | 
 | 2022-09-26 | 4440 | 1744 | 
 | 2022-09-25 | 4441 | 1744 | 
-| 2022-09-24 | 4440 | 1744 | 
 

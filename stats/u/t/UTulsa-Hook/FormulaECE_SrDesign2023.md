@@ -1,10 +1,10 @@
 # UTulsa-Hook/FormulaECE_SrDesign2023 - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/UTulsa-Hook/FormulaECE_SrDesign2023)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1 | 11 | 
 | 2022-10-23 | - | 10 | 
 | 2022-10-22 | - | 8 | 
 | 2022-10-21 | - | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | - | 7 | 
 | 2022-09-26 | - | 7 | 
 | 2022-09-25 | - | 7 | 
-| 2022-09-24 | - | 7 | 
 

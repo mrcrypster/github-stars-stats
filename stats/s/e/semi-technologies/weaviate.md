@@ -1,10 +1,10 @@
 # semi-technologies/weaviate - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 171
 
-★ Stars: 2866
+★ Stars: 2868
 
 [Open repository](https://github.com/semi-technologies/weaviate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2868 | 171 | 
 | 2022-10-23 | 2866 | 171 | 
 | 2022-10-22 | 2864 | 171 | 
 | 2022-10-21 | 2861 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2794 | 163 | 
 | 2022-09-26 | 2791 | 163 | 
 | 2022-09-25 | 2788 | 163 | 
-| 2022-09-24 | 2786 | 163 | 
 

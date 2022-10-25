@@ -1,10 +1,10 @@
 # Aarzoo75/Iron-man - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/Aarzoo75/Iron-man)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 20 | 3 | 
 | 2022-10-23 | 19 | 3 | 
 | 2022-10-22 | 19 | 3 | 
 | 2022-10-21 | 19 | 3 | 

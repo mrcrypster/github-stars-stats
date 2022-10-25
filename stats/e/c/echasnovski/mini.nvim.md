@@ -1,10 +1,10 @@
 # echasnovski/mini.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 41
 
-★ Stars: 1012
+★ Stars: 1029
 
 [Open repository](https://github.com/echasnovski/mini.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1029 | 41 | 
 | 2022-10-23 | 1012 | 41 | 
 | 2022-10-22 | 1006 | 40 | 
 | 2022-10-21 | 1006 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 934 | 36 | 
 | 2022-09-26 | 930 | 36 | 
 | 2022-09-25 | 929 | 36 | 
-| 2022-09-24 | 926 | 36 | 
 

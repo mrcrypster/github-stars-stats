@@ -1,10 +1,10 @@
 # swedishembedded/control - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/swedishembedded/control)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 40 | 10 | 
 | 2022-10-23 | 39 | 9 | 
 | 2022-10-22 | 39 | 9 | 
 | 2022-10-21 | 39 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 36 | 9 | 
 | 2022-09-26 | 36 | 9 | 
 | 2022-09-25 | 36 | 9 | 
-| 2022-09-24 | 35 | 9 | 
 

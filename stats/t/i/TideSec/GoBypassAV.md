@@ -1,10 +1,10 @@
 # TideSec/GoBypassAV - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 101
+☋ Forks: 103
 
-★ Stars: 639
+★ Stars: 640
 
 [Open repository](https://github.com/TideSec/GoBypassAV)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 640 | 103 | 
 | 2022-10-23 | 639 | 101 | 
 | 2022-10-22 | 636 | 100 | 
 | 2022-10-21 | 636 | 100 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 599 | 93 | 
 | 2022-09-26 | 597 | 93 | 
 | 2022-09-25 | 593 | 92 | 
-| 2022-09-24 | 591 | 92 | 
 

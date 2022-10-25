@@ -1,6 +1,6 @@
 # aave-starknet-project/aave-starknet-core - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 29 | 4 | 
 | 2022-10-23 | 29 | 4 | 
 | 2022-10-22 | 29 | 4 | 
 | 2022-10-21 | 29 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 25 | 3 | 
 | 2022-09-26 | 24 | 3 | 
 | 2022-09-25 | 24 | 3 | 
-| 2022-09-24 | 24 | 3 | 
 

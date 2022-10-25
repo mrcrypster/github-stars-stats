@@ -1,10 +1,10 @@
 # pulumi/pulumi - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 790
 
-★ Stars: 14009
+★ Stars: 14025
 
 [Open repository](https://github.com/pulumi/pulumi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 14025 | 790 | 
 | 2022-10-23 | 14009 | 790 | 
 | 2022-10-22 | 14008 | 790 | 
 | 2022-10-21 | 13998 | 790 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 13769 | 767 | 
 | 2022-09-26 | 13749 | 767 | 
 | 2022-09-25 | 13740 | 767 | 
-| 2022-09-24 | 13723 | 767 | 
 

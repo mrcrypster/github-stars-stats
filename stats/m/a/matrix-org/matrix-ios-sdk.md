@@ -1,6 +1,6 @@
 # matrix-org/matrix-ios-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 172
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 377 | 172 | 
 | 2022-10-23 | 377 | 172 | 
 | 2022-10-22 | 377 | 172 | 
 | 2022-10-21 | 377 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 368 | 169 | 
 | 2022-09-26 | 368 | 169 | 
 | 2022-09-25 | 368 | 169 | 
-| 2022-09-24 | 367 | 169 | 
 

@@ -1,10 +1,10 @@
 # trustwallet/trust-web3-provider - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 360
+☋ Forks: 361
 
-★ Stars: 524
+★ Stars: 525
 
 [Open repository](https://github.com/trustwallet/trust-web3-provider)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 525 | 361 | 
 | 2022-10-23 | 524 | 360 | 
 | 2022-10-22 | 524 | 359 | 
 | 2022-10-21 | 524 | 359 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 511 | 353 | 
 | 2022-09-26 | 511 | 353 | 
 | 2022-09-25 | 511 | 352 | 
-| 2022-09-24 | 509 | 352 | 
 

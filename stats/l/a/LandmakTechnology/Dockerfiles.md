@@ -1,8 +1,8 @@
 # LandmakTechnology/Dockerfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 903
+☋ Forks: 914
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2 | 914 | 
 | 2022-10-23 | 2 | 903 | 
 | 2022-10-22 | 2 | 899 | 
 | 2022-10-21 | 2 | 891 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2 | 859 | 
 | 2022-09-26 | 2 | 859 | 
 | 2022-09-25 | 2 | 856 | 
-| 2022-09-24 | 2 | 856 | 
 

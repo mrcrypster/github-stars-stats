@@ -1,10 +1,10 @@
 # pintariching/rustle - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 27
 
-★ Stars: 1147
+★ Stars: 1148
 
 [Open repository](https://github.com/pintariching/rustle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1148 | 27 | 
 | 2022-10-23 | 1147 | 27 | 
 | 2022-10-22 | 1147 | 27 | 
 | 2022-10-21 | 1147 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1134 | 27 | 
 | 2022-09-26 | 1132 | 27 | 
 | 2022-09-25 | 1131 | 27 | 
-| 2022-09-24 | 1132 | 27 | 
 

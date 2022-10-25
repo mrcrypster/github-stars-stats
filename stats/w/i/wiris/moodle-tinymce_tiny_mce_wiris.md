@@ -1,6 +1,6 @@
 # wiris/moodle-tinymce_tiny_mce_wiris - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 10 | 11 | 
 | 2022-10-23 | 10 | 11 | 
 | 2022-10-22 | 10 | 11 | 
 | 2022-10-21 | 10 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 10 | 11 | 
 | 2022-09-26 | 10 | 11 | 
 | 2022-09-25 | 10 | 11 | 
-| 2022-09-24 | 10 | 11 | 
 

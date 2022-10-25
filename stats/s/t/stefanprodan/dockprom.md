@@ -1,8 +1,8 @@
 # stefanprodan/dockprom - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1504
+☋ Forks: 1505
 
 ★ Stars: 5062
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 5062 | 1505 | 
 | 2022-10-23 | 5062 | 1504 | 
 | 2022-10-22 | 5062 | 1505 | 
 | 2022-10-21 | 5060 | 1504 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 5025 | 1494 | 
 | 2022-09-26 | 5024 | 1492 | 
 | 2022-09-25 | 5024 | 1491 | 
-| 2022-09-24 | 5022 | 1491 | 
 

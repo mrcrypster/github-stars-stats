@@ -1,10 +1,10 @@
 # k4m4/movies-for-hackers - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 870
 
-★ Stars: 9290
+★ Stars: 9293
 
 [Open repository](https://github.com/k4m4/movies-for-hackers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 9293 | 870 | 
 | 2022-10-23 | 9290 | 870 | 
 | 2022-10-22 | 9289 | 870 | 
 | 2022-10-21 | 9288 | 870 | 

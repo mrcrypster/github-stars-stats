@@ -1,10 +1,10 @@
 # Nyandwi/ModernConvNets - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 31
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/Nyandwi/ModernConvNets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 296 | 31 | 
 | 2022-10-23 | 295 | 31 | 
 | 2022-10-22 | 295 | 31 | 
 | 2022-10-21 | 295 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 292 | 31 | 
 | 2022-09-26 | 292 | 31 | 
 | 2022-09-25 | 291 | 31 | 
-| 2022-09-24 | 291 | 31 | 
 

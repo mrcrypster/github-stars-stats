@@ -1,6 +1,6 @@
 # cuixiaorui/mini-vue - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1794
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 8129 | 1794 | 
 | 2022-10-23 | 8129 | 1794 | 
 | 2022-10-22 | 8128 | 1795 | 
 | 2022-10-21 | 8124 | 1794 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 8015 | 1763 | 
 | 2022-09-26 | 8005 | 1759 | 
 | 2022-09-25 | 7998 | 1758 | 
-| 2022-09-24 | 7995 | 1757 | 
 

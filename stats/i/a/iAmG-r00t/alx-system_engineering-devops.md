@@ -1,10 +1,10 @@
 # iAmG-r00t/alx-system_engineering-devops - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 57
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/iAmG-r00t/alx-system_engineering-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 27 | 57 | 
 | 2022-10-23 | 26 | 57 | 
 | 2022-10-22 | 26 | 57 | 
 | 2022-10-21 | 26 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 20 | 45 | 
 | 2022-09-26 | 20 | 44 | 
 | 2022-09-25 | 20 | 44 | 
-| 2022-09-24 | 20 | 44 | 
 

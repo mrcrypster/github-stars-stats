@@ -1,6 +1,6 @@
 # jeremykenedy/laravel-users - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 391 | 109 | 
 | 2022-10-23 | 391 | 109 | 
 | 2022-10-22 | 391 | 109 | 
 | 2022-10-21 | 390 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 389 | 108 | 
 | 2022-09-26 | 389 | 108 | 
 | 2022-09-25 | 389 | 108 | 
-| 2022-09-24 | 389 | 108 | 
 

@@ -1,10 +1,10 @@
 # zbelial/lspce - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/zbelial/lspce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 37 | 2 | 
 | 2022-10-23 | 36 | 2 | 
 | 2022-10-22 | 36 | 2 | 
 | 2022-10-21 | 36 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 35 | 2 | 
 | 2022-09-26 | 35 | 2 | 
 | 2022-09-25 | 35 | 2 | 
-| 2022-09-24 | 35 | 2 | 
 

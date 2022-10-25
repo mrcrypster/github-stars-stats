@@ -1,10 +1,10 @@
 # maxent-ai/ocrpy - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/maxent-ai/ocrpy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 189 | 7 | 
 | 2022-10-23 | 188 | 7 | 
 | 2022-10-22 | 187 | 7 | 
 | 2022-10-21 | 187 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 183 | 7 | 
 | 2022-09-27 | 183 | 7 | 
 | 2022-09-26 | 183 | 7 | 
-| 2022-09-25 | 183 | 7 | 
 

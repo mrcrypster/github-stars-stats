@@ -1,8 +1,8 @@
 # google/tink - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1141
+☋ Forks: 1142
 
 ★ Stars: 12761
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 12761 | 1142 | 
 | 2022-10-23 | 12761 | 1141 | 
 | 2022-10-22 | 12761 | 1141 | 
 | 2022-10-21 | 12759 | 1141 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 12691 | 1131 | 
 | 2022-09-26 | 12686 | 1132 | 
 | 2022-09-25 | 12679 | 1132 | 
-| 2022-09-24 | 12678 | 1132 | 
 

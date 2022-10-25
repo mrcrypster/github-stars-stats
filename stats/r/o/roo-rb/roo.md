@@ -1,10 +1,10 @@
 # roo-rb/roo - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 486
 
-★ Stars: 2620
+★ Stars: 2621
 
 [Open repository](https://github.com/roo-rb/roo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2621 | 486 | 
 | 2022-10-23 | 2620 | 486 | 
 | 2022-10-22 | 2620 | 486 | 
 | 2022-10-21 | 2620 | 486 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2617 | 485 | 
 | 2022-09-26 | 2616 | 485 | 
 | 2022-09-25 | 2616 | 485 | 
-| 2022-09-24 | 2616 | 485 | 
 

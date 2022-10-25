@@ -1,10 +1,10 @@
 # develsoftware/GMinerRelease - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 322
 
-★ Stars: 1817
+★ Stars: 1818
 
 [Open repository](https://github.com/develsoftware/GMinerRelease)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1818 | 322 | 
 | 2022-10-23 | 1817 | 322 | 
 | 2022-10-22 | 1817 | 322 | 
 | 2022-10-21 | 1817 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1821 | 322 | 
 | 2022-09-26 | 1821 | 322 | 
 | 2022-09-25 | 1820 | 320 | 
-| 2022-09-24 | 1820 | 320 | 
 

@@ -1,10 +1,10 @@
 # scambier/obsidian-omnisearch - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 16
 
-★ Stars: 302
+★ Stars: 303
 
 [Open repository](https://github.com/scambier/obsidian-omnisearch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 303 | 16 | 
 | 2022-10-23 | 302 | 16 | 
 | 2022-10-22 | 299 | 16 | 
 | 2022-10-21 | 297 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 217 | 14 | 
 | 2022-09-26 | 216 | 14 | 
 | 2022-09-25 | 214 | 14 | 
-| 2022-09-24 | 213 | 14 | 
 

@@ -1,10 +1,10 @@
 # neptune-mutual-blue/protocol - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 28
 
-★ Stars: 556
+★ Stars: 563
 
 [Open repository](https://github.com/neptune-mutual-blue/protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 563 | 28 | 
 | 2022-10-23 | 556 | 28 | 
 | 2022-10-22 | 555 | 28 | 
 | 2022-10-21 | 550 | 28 | 

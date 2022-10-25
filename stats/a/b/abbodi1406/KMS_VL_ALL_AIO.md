@@ -1,10 +1,10 @@
 # abbodi1406/KMS_VL_ALL_AIO - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 704
 
-★ Stars: 4630
+★ Stars: 4639
 
 [Open repository](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4639 | 704 | 
 | 2022-10-23 | 4630 | 704 | 
 | 2022-10-22 | 4622 | 702 | 
 | 2022-10-21 | 4617 | 702 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4484 | 686 | 
 | 2022-09-26 | 4478 | 685 | 
 | 2022-09-25 | 4472 | 684 | 
-| 2022-09-24 | 4465 | 682 | 
 

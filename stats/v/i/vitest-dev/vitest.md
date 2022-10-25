@@ -1,10 +1,10 @@
 # vitest-dev/vitest - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 548
+☋ Forks: 552
 
-★ Stars: 6783
+★ Stars: 6795
 
 [Open repository](https://github.com/vitest-dev/vitest)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 6795 | 552 | 
 | 2022-10-23 | 6783 | 548 | 
 | 2022-10-22 | 6774 | 546 | 
 | 2022-10-21 | 6770 | 546 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 6432 | 505 | 
 | 2022-09-26 | 6418 | 504 | 
 | 2022-09-25 | 6408 | 504 | 
-| 2022-09-24 | 6394 | 503 | 
 

@@ -1,6 +1,6 @@
 # opa334/libSandy - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 34 | - | 
 | 2022-10-23 | 34 | - | 
 | 2022-10-22 | 34 | - | 
 | 2022-10-21 | 34 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 33 | - | 
 | 2022-09-26 | 33 | - | 
 | 2022-09-25 | 33 | - | 
-| 2022-09-24 | 33 | - | 
 

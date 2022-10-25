@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/codermert/spotifyextension)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 20 | 7 | 
+| 2022-10-24 | 21 | 7 | 
 | 2022-10-23 | 20 | 7 | 
 

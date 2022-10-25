@@ -1,8 +1,8 @@
 # firebase/quickstart-android - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 7407
+☋ Forks: 7405
 
 ★ Stars: 8253
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 8253 | 7405 | 
 | 2022-10-23 | 8253 | 7407 | 
 | 2022-10-22 | 8253 | 7407 | 
 | 2022-10-21 | 8251 | 7407 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 8233 | 7393 | 
 | 2022-09-26 | 8231 | 7394 | 
 | 2022-09-25 | 8229 | 7395 | 
-| 2022-09-24 | 8229 | 7394 | 
 

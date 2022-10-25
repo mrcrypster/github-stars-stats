@@ -1,6 +1,6 @@
 # Czechitas-JavaScript-1/lekce6-sportka - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | - | 35 | 
 | 2022-10-23 | - | 35 | 
 | 2022-10-22 | - | 35 | 
 | 2022-10-21 | - | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | - | 35 | 
 | 2022-09-27 | - | 35 | 
 | 2022-09-26 | - | 35 | 
-| 2022-09-24 | - | 35 | 
 

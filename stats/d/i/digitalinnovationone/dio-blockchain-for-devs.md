@@ -1,6 +1,6 @@
 # digitalinnovationone/dio-blockchain-for-devs - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 52 | 50 | 
 | 2022-10-23 | 52 | 50 | 
 | 2022-10-22 | 52 | 50 | 
 | 2022-10-21 | 52 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 52 | 52 | 
 | 2022-09-26 | 51 | 52 | 
 | 2022-09-25 | 51 | 52 | 
-| 2022-09-24 | 51 | 52 | 
 

@@ -1,10 +1,10 @@
 # wellle/targets.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 47
 
-★ Stars: 2323
+★ Stars: 2324
 
 [Open repository](https://github.com/wellle/targets.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2324 | 47 | 
 | 2022-10-23 | 2323 | 47 | 
 | 2022-10-22 | 2322 | 47 | 
 | 2022-10-21 | 2320 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2307 | 46 | 
 | 2022-09-26 | 2307 | 46 | 
 | 2022-09-25 | 2307 | 46 | 
-| 2022-09-24 | 2307 | 46 | 
 

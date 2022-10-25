@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 24
 
 ☋ Forks: 74
 
-★ Stars: 246
+★ Stars: 247
 
 [Open repository](https://github.com/Qexo/Qexo)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 246 | 74 | 
+| 2022-10-24 | 247 | 74 | 
 | 2022-10-23 | 246 | 74 | 
 | 2022-10-22 | 244 | 73 | 
 | 2022-10-21 | 242 | 71 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 222 | 68 | 
 | 2022-09-27 | 221 | 68 | 
 | 2022-09-26 | 221 | 68 | 
-| 2022-09-25 | 220 | 69 | 
 

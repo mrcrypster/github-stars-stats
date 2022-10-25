@@ -1,10 +1,10 @@
 # aradi/fortuno - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 18
 
 [Open repository](https://github.com/aradi/fortuno)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 18 | 1 | 
 | 2022-10-23 | 16 | 1 | 
 | 2022-10-22 | 10 | - | 
 | 2022-10-21 | 10 | - | 

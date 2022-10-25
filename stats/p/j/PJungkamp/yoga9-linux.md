@@ -1,6 +1,6 @@
 # PJungkamp/yoga9-linux - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 14 | 2 | 
 | 2022-10-23 | 14 | 2 | 
 | 2022-10-22 | 14 | 2 | 
 | 2022-10-21 | 14 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 9 | 2 | 
 | 2022-09-26 | 9 | 2 | 
 | 2022-09-25 | 9 | 2 | 
-| 2022-09-24 | 9 | 2 | 
 

@@ -1,6 +1,6 @@
 # google/btree - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 365
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2949 | 365 | 
 | 2022-10-23 | 2949 | 365 | 
 | 2022-10-22 | 2947 | 365 | 
 | 2022-10-21 | 2946 | 365 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2925 | 363 | 
 | 2022-09-26 | 2924 | 363 | 
 | 2022-09-25 | 2924 | 363 | 
-| 2022-09-24 | 2922 | 363 | 
 

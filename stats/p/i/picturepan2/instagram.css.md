@@ -1,10 +1,10 @@
 # picturepan2/instagram.css - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 240
 
-★ Stars: 3983
+★ Stars: 3982
 
 [Open repository](https://github.com/picturepan2/instagram.css)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 3982 | 240 | 
 | 2022-10-23 | 3983 | 240 | 
 | 2022-10-22 | 3983 | 240 | 
 | 2022-10-21 | 3983 | 240 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 3975 | 239 | 
 | 2022-09-26 | 3975 | 239 | 
 | 2022-09-25 | 3977 | 240 | 
-| 2022-09-24 | 3977 | 240 | 
 

@@ -1,6 +1,6 @@
 # SliShady/BingDwenDwen - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 71 | 117 | 
 | 2022-10-23 | 71 | 117 | 
 | 2022-10-22 | 71 | 117 | 
 | 2022-10-21 | 71 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 72 | 120 | 
 | 2022-09-27 | 72 | 120 | 
 | 2022-09-26 | 72 | 120 | 
-| 2022-09-25 | 72 | 120 | 
 

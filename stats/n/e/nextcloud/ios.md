@@ -1,10 +1,10 @@
 # nextcloud/ios - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 696
 
-★ Stars: 1381
+★ Stars: 1385
 
 [Open repository](https://github.com/nextcloud/ios)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1385 | 696 | 
 | 2022-10-23 | 1381 | 696 | 
 | 2022-10-22 | 1379 | 696 | 
 | 2022-10-21 | 1377 | 695 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1355 | 692 | 
 | 2022-09-26 | 1355 | 691 | 
 | 2022-09-25 | 1355 | 690 | 
-| 2022-09-24 | 1355 | 690 | 
 

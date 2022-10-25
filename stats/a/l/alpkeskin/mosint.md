@@ -1,10 +1,10 @@
 # alpkeskin/mosint - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 148
 
-★ Stars: 796
+★ Stars: 801
 
 [Open repository](https://github.com/alpkeskin/mosint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 801 | 148 | 
 | 2022-10-23 | 796 | 148 | 
 | 2022-10-22 | 795 | 148 | 
 | 2022-10-21 | 796 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 788 | 145 | 
 | 2022-09-26 | 786 | 145 | 
 | 2022-09-25 | 786 | 145 | 
-| 2022-09-24 | 786 | 145 | 
 

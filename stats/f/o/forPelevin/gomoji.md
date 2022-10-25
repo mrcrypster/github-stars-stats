@@ -1,6 +1,6 @@
 # forPelevin/gomoji - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 535 | 111 | 
 | 2022-10-23 | 535 | 111 | 
 | 2022-10-22 | 535 | 111 | 
 | 2022-10-21 | 535 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 531 | 111 | 
 | 2022-09-26 | 530 | 111 | 
 | 2022-09-25 | 530 | 111 | 
-| 2022-09-24 | 530 | 111 | 
 

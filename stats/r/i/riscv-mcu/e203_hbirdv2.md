@@ -1,10 +1,10 @@
 # riscv-mcu/e203_hbirdv2 - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 196
+☋ Forks: 198
 
-★ Stars: 582
+★ Stars: 587
 
 [Open repository](https://github.com/riscv-mcu/e203_hbirdv2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 587 | 198 | 
 | 2022-10-23 | 582 | 196 | 
 | 2022-10-22 | 580 | 195 | 
 | 2022-10-21 | 578 | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 552 | 192 | 
 | 2022-09-26 | 550 | 190 | 
 | 2022-09-25 | 549 | 190 | 
-| 2022-09-24 | 549 | 190 | 
 

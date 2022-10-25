@@ -1,6 +1,6 @@
 # hoodbu/ace-iac-day-zero - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 167
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 6 | 167 | 
 | 2022-10-23 | 6 | 167 | 
 | 2022-10-22 | 6 | 167 | 
 | 2022-10-21 | 6 | 168 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 6 | 162 | 
 | 2022-09-27 | 6 | 160 | 
 | 2022-09-25 | 6 | 160 | 
-| 2022-09-24 | 6 | 160 | 
 

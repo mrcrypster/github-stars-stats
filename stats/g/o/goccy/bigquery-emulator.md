@@ -1,6 +1,6 @@
 # goccy/bigquery-emulator - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 230 | 7 | 
 | 2022-10-23 | 230 | 7 | 
 | 2022-10-22 | 230 | 5 | 
 | 2022-10-21 | 229 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 177 | 4 | 
 | 2022-09-27 | 174 | 4 | 
 | 2022-09-26 | 173 | 4 | 
-| 2022-09-25 | 173 | 4 | 
 

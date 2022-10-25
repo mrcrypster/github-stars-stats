@@ -1,10 +1,10 @@
 # alibaba/transmittable-thread-local - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1479
 
-★ Stars: 5784
+★ Stars: 5786
 
 [Open repository](https://github.com/alibaba/transmittable-thread-local)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 5786 | 1479 | 
 | 2022-10-23 | 5784 | 1479 | 
 | 2022-10-22 | 5784 | 1479 | 
 | 2022-10-21 | 5782 | 1479 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 5724 | 1464 | 
 | 2022-09-26 | 5719 | 1464 | 
 | 2022-09-25 | 5717 | 1463 | 
-| 2022-09-24 | 5716 | 1463 | 
 

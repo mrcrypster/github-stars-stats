@@ -1,6 +1,6 @@
 # a16z/zkp-merkle-airdrop-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 609 | 61 | 
 | 2022-10-23 | 609 | 61 | 
 | 2022-10-22 | 608 | 61 | 
 | 2022-10-21 | 603 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 598 | 58 | 
 | 2022-09-26 | 598 | 58 | 
 | 2022-09-25 | 597 | 58 | 
-| 2022-09-24 | 596 | 58 | 
 

@@ -1,10 +1,10 @@
 # ethereum/solc-js - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 279
+☋ Forks: 280
 
-★ Stars: 1166
+★ Stars: 1167
 
 [Open repository](https://github.com/ethereum/solc-js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1167 | 280 | 
 | 2022-10-23 | 1166 | 279 | 
 | 2022-10-22 | 1166 | 279 | 
 | 2022-10-21 | 1165 | 279 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-28 | 1144 | 278 | 
 | 2022-09-26 | 1143 | 278 | 
 | 2022-09-25 | 1143 | 278 | 
-| 2022-09-24 | 1142 | 278 | 
 

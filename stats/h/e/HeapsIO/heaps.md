@@ -1,6 +1,6 @@
 # HeapsIO/heaps - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 305
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2762 | 305 | 
 | 2022-10-23 | 2762 | 305 | 
 | 2022-10-22 | 2761 | 304 | 
 | 2022-10-21 | 2761 | 305 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2756 | 304 | 
 | 2022-09-26 | 2754 | 304 | 
 | 2022-09-25 | 2754 | 304 | 
-| 2022-09-24 | 2754 | 304 | 
 

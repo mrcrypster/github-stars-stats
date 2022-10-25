@@ -1,10 +1,10 @@
 # facebookresearch/fairseq - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 4944
+☋ Forks: 4952
 
-★ Stars: 19554
+★ Stars: 19590
 
 [Open repository](https://github.com/facebookresearch/fairseq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 19590 | 4952 | 
 | 2022-10-23 | 19554 | 4944 | 
 | 2022-10-22 | 19546 | 4938 | 
 | 2022-10-21 | 19543 | 4936 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 19273 | 4870 | 
 | 2022-09-26 | 19260 | 4866 | 
 | 2022-09-25 | 19250 | 4865 | 
-| 2022-09-24 | 19244 | 4865 | 
 

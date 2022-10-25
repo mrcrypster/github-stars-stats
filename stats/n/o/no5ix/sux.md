@@ -1,6 +1,6 @@
 # no5ix/sux - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 56 | 6 | 
 | 2022-10-23 | 56 | 6 | 
 | 2022-10-22 | 56 | 6 | 
 | 2022-10-21 | 56 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 52 | 6 | 
 | 2022-09-26 | 52 | 6 | 
 | 2022-09-25 | 52 | 6 | 
-| 2022-09-24 | 52 | 6 | 
 

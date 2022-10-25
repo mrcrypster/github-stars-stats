@@ -1,6 +1,6 @@
 # dcetin/eth-cs-notes - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 526 | 75 | 
 | 2022-10-23 | 526 | 75 | 
 | 2022-10-22 | 526 | 75 | 
 | 2022-10-21 | 527 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 528 | 74 | 
 | 2022-09-26 | 527 | 74 | 
 | 2022-09-25 | 527 | 74 | 
-| 2022-09-24 | 527 | 74 | 
 

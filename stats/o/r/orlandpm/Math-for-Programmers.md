@@ -1,10 +1,10 @@
 # orlandpm/Math-for-Programmers - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 214
+☋ Forks: 215
 
-★ Stars: 444
+★ Stars: 445
 
 [Open repository](https://github.com/orlandpm/Math-for-Programmers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 445 | 215 | 
 | 2022-10-23 | 444 | 214 | 
 | 2022-10-22 | 444 | 214 | 
 | 2022-10-21 | 442 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 431 | 210 | 
 | 2022-09-26 | 431 | 210 | 
 | 2022-09-25 | 431 | 210 | 
-| 2022-09-24 | 430 | 210 | 
 

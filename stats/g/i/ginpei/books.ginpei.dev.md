@@ -1,10 +1,10 @@
 # ginpei/books.ginpei.dev - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/ginpei/books.ginpei.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 32 | - | 
 | 2022-10-23 | 31 | - | 
 | 2022-10-22 | 31 | - | 
 | 2022-10-21 | 31 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 31 | - | 
 | 2022-09-26 | 31 | - | 
 | 2022-09-25 | 31 | - | 
-| 2022-09-24 | 31 | - | 
 

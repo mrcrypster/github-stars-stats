@@ -1,8 +1,8 @@
 # wundergraph/wundergraph - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 701
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 701 | 38 | 
 | 2022-10-23 | 701 | 37 | 
 | 2022-10-22 | 700 | 36 | 
 | 2022-10-21 | 698 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 658 | 31 | 
 | 2022-09-26 | 656 | 30 | 
 | 2022-09-25 | 652 | 30 | 
-| 2022-09-24 | 649 | 30 | 
 

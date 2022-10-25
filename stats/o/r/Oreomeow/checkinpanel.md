@@ -1,6 +1,6 @@
 # Oreomeow/checkinpanel - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 345
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1077 | 345 | 
 | 2022-10-23 | 1077 | 345 | 
 | 2022-10-22 | 1075 | 345 | 
 | 2022-10-21 | 1074 | 345 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1052 | 341 | 
 | 2022-09-26 | 1051 | 341 | 
 | 2022-09-25 | 1049 | 340 | 
-| 2022-09-24 | 1048 | 340 | 
 

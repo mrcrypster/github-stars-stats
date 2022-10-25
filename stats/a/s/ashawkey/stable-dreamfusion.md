@@ -1,10 +1,10 @@
 # ashawkey/stable-dreamfusion - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 153
+☋ Forks: 155
 
-★ Stars: 2545
+★ Stars: 2580
 
 [Open repository](https://github.com/ashawkey/stable-dreamfusion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2580 | 155 | 
 | 2022-10-23 | 2545 | 153 | 
 | 2022-10-22 | 2511 | 150 | 
 | 2022-10-21 | 2494 | 148 | 

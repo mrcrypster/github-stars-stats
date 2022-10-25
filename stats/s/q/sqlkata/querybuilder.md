@@ -1,10 +1,10 @@
 # sqlkata/querybuilder - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 422
 
-★ Stars: 2465
+★ Stars: 2466
 
 [Open repository](https://github.com/sqlkata/querybuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2466 | 422 | 
 | 2022-10-23 | 2465 | 422 | 
 | 2022-10-22 | 2465 | 422 | 
 | 2022-10-21 | 2465 | 420 | 

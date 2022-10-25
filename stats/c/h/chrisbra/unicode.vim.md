@@ -1,10 +1,10 @@
 # chrisbra/unicode.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 26
 
-★ Stars: 406
+★ Stars: 407
 
 [Open repository](https://github.com/chrisbra/unicode.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 407 | 26 | 
 | 2022-10-23 | 406 | 26 | 
 | 2022-10-22 | 406 | 26 | 
 | 2022-10-21 | 406 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 403 | 27 | 
 | 2022-09-26 | 403 | 27 | 
 | 2022-09-25 | 402 | 27 | 
-| 2022-09-24 | 402 | 27 | 
 

@@ -1,10 +1,10 @@
 # discord/discord-api-docs - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 1183
+☋ Forks: 1185
 
-★ Stars: 4872
+★ Stars: 4874
 
 [Open repository](https://github.com/discord/discord-api-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 4874 | 1185 | 
 | 2022-10-23 | 4872 | 1183 | 
 | 2022-10-22 | 4871 | 1184 | 
 | 2022-10-21 | 4869 | 1183 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 4807 | 1179 | 
 | 2022-09-26 | 4806 | 1180 | 
 | 2022-09-25 | 4806 | 1180 | 
-| 2022-09-24 | 4805 | 1179 | 
 

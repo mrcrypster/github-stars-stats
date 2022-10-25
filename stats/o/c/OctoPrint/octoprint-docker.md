@@ -1,6 +1,6 @@
 # OctoPrint/octoprint-docker - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 173
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 263 | 173 | 
 | 2022-10-23 | 263 | 173 | 
 | 2022-10-22 | 263 | 173 | 
 | 2022-10-21 | 263 | 173 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 260 | 168 | 
 | 2022-09-26 | 260 | 168 | 
 | 2022-09-25 | 259 | 168 | 
-| 2022-09-24 | 258 | 168 | 
 

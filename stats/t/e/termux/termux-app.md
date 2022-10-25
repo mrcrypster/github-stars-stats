@@ -1,10 +1,10 @@
 # termux/termux-app - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 2103
+☋ Forks: 2105
 
-★ Stars: 16696
+★ Stars: 16706
 
 [Open repository](https://github.com/termux/termux-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 16706 | 2105 | 
 | 2022-10-23 | 16696 | 2103 | 
 | 2022-10-22 | 16663 | 2100 | 
 | 2022-10-21 | 16643 | 2096 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 16050 | 2027 | 
 | 2022-09-26 | 16001 | 2025 | 
 | 2022-09-25 | 15962 | 2025 | 
-| 2022-09-24 | 15914 | 2016 | 
 

@@ -1,10 +1,10 @@
 # adrianhajdin/project_music_player - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 64
+☋ Forks: 66
 
-★ Stars: 250
+★ Stars: 255
 
 [Open repository](https://github.com/adrianhajdin/project_music_player)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 255 | 66 | 
 | 2022-10-23 | 250 | 64 | 
 | 2022-10-22 | 246 | 63 | 
 | 2022-10-21 | 242 | 63 | 

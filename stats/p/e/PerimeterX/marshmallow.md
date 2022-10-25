@@ -1,10 +1,10 @@
 # PerimeterX/marshmallow - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 7
 
-★ Stars: 214
+★ Stars: 216
 
 [Open repository](https://github.com/PerimeterX/marshmallow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 216 | 7 | 
 | 2022-10-23 | 214 | 7 | 
 | 2022-10-22 | 214 | 7 | 
 | 2022-10-21 | 214 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 207 | 7 | 
 | 2022-09-26 | 206 | 7 | 
 | 2022-09-25 | 206 | 7 | 
-| 2022-09-24 | 206 | 7 | 
 

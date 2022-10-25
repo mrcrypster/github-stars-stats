@@ -1,10 +1,10 @@
 # girafe-ai/ml-course - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 716
+☋ Forks: 724
 
-★ Stars: 908
+★ Stars: 912
 
 [Open repository](https://github.com/girafe-ai/ml-course)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 912 | 724 | 
 | 2022-10-23 | 908 | 716 | 
 | 2022-10-22 | 908 | 716 | 
 | 2022-10-21 | 908 | 715 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 857 | 625 | 
 | 2022-09-26 | 854 | 621 | 
 | 2022-09-25 | 850 | 612 | 
-| 2022-09-24 | 849 | 611 | 
 

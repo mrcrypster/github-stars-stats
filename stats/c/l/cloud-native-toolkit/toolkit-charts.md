@@ -1,10 +1,10 @@
 # cloud-native-toolkit/toolkit-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 31
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/cloud-native-toolkit/toolkit-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 14 | 31 | 
 | 2022-10-24 | 13 | 31 | 
 | 2022-10-23 | 13 | 31 | 
 | 2022-10-22 | 13 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-27 | 13 | 29 | 
 | 2022-09-26 | 13 | 29 | 
 | 2022-09-25 | 13 | 29 | 
-| 2022-09-24 | 13 | 29 | 
 

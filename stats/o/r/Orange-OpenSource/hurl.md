@@ -1,10 +1,10 @@
 # Orange-OpenSource/hurl - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 59
+☋ Forks: 60
 
-★ Stars: 1980
+★ Stars: 1982
 
 [Open repository](https://github.com/Orange-OpenSource/hurl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 1982 | 60 | 
 | 2022-10-23 | 1980 | 59 | 
 | 2022-10-22 | 1977 | 59 | 
 | 2022-10-21 | 1960 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 1883 | 55 | 
 | 2022-09-26 | 1866 | 55 | 
 | 2022-09-25 | 1848 | 55 | 
-| 2022-09-24 | 1837 | 55 | 
 

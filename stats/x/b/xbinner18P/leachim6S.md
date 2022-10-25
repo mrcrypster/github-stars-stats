@@ -1,6 +1,6 @@
 # xbinner18P/leachim6S - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 363 | 125 | 
 | 2022-10-23 | 363 | 125 | 
 | 2022-10-22 | 363 | 125 | 
 | 2022-10-21 | 363 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 362 | 123 | 
 | 2022-09-26 | 362 | 123 | 
 | 2022-09-25 | 362 | 123 | 
-| 2022-09-24 | 362 | 123 | 
 

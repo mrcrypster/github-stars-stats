@@ -1,10 +1,10 @@
 # libgdx/libgdx - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 6353
+☋ Forks: 6352
 
-★ Stars: 20644
+★ Stars: 20651
 
 [Open repository](https://github.com/libgdx/libgdx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 20651 | 6352 | 
 | 2022-10-23 | 20644 | 6353 | 
 | 2022-10-22 | 20635 | 6353 | 
 | 2022-10-21 | 20630 | 6352 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 20521 | 6334 | 
 | 2022-09-26 | 20515 | 6334 | 
 | 2022-09-25 | 20509 | 6334 | 
-| 2022-09-24 | 20506 | 6334 | 
 

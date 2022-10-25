@@ -1,10 +1,10 @@
 # recharts/recharts - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 1452
 
-★ Stars: 19089
+★ Stars: 19095
 
 [Open repository](https://github.com/recharts/recharts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 19095 | 1452 | 
 | 2022-10-23 | 19089 | 1452 | 
 | 2022-10-22 | 19082 | 1452 | 
 | 2022-10-21 | 19082 | 1452 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 18889 | 1423 | 
 | 2022-09-26 | 18889 | 1422 | 
 | 2022-09-25 | 18883 | 1421 | 
-| 2022-09-24 | 18882 | 1421 | 
 

@@ -1,6 +1,6 @@
 # Gladtbam/ms365_e5_renewx - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 52 | 39 | 
 | 2022-10-23 | 52 | 39 | 
 | 2022-10-22 | 51 | 39 | 
 | 2022-10-21 | 51 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 46 | 37 | 
 | 2022-09-26 | 45 | 37 | 
 | 2022-09-25 | 45 | 36 | 
-| 2022-09-24 | 45 | 36 | 
 

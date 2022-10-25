@@ -1,6 +1,6 @@
 # dseconf/DSE2022MIT - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 20 | 13 | 
 | 2022-10-23 | 20 | 13 | 
 | 2022-10-22 | 20 | 13 | 
 | 2022-10-21 | 20 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 20 | 12 | 
 | 2022-09-26 | 20 | 12 | 
 | 2022-09-25 | 19 | 12 | 
-| 2022-09-24 | 19 | 12 | 
 

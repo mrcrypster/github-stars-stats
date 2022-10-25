@@ -1,10 +1,10 @@
 # haskell/haskell-language-server - stars & forks statistics
 
-Stats updated on Oct 2022, 23
+Stats updated on Oct 2022, 24
 
-☋ Forks: 268
+☋ Forks: 270
 
-★ Stars: 2198
+★ Stars: 2199
 
 [Open repository](https://github.com/haskell/haskell-language-server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 23
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-24 | 2199 | 270 | 
 | 2022-10-23 | 2198 | 268 | 
 | 2022-10-22 | 2196 | 268 | 
 | 2022-10-21 | 2196 | 267 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 23
 | 2022-09-27 | 2172 | 258 | 
 | 2022-09-26 | 2171 | 258 | 
 | 2022-09-25 | 2170 | 258 | 
-| 2022-09-24 | 2170 | 258 | 
 

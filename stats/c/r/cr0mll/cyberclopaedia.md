@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 24
 
 ☋ Forks: 10
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/cr0mll/cyberclopaedia)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-24 | 125 | 10 | 
+| 2022-10-24 | 126 | 10 | 
 | 2022-10-23 | 125 | 10 | 
 | 2022-10-22 | 125 | 10 | 
 | 2022-10-21 | 124 | 10 | 
