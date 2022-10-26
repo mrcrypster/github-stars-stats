@@ -1,6 +1,6 @@
 # escueladeingenierosec/EI-ProgramacionMATLAB - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 4 | 13 | 
 | 2022-10-24 | 4 | 13 | 
 | 2022-10-23 | 4 | 13 | 
 | 2022-10-22 | 4 | 13 | 

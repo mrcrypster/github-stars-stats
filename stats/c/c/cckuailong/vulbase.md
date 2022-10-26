@@ -1,6 +1,6 @@
 # cckuailong/vulbase - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 195
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 596 | 195 | 
 | 2022-10-24 | 596 | 195 | 
 | 2022-10-23 | 594 | 195 | 
 | 2022-10-22 | 593 | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 587 | 193 | 
 | 2022-09-27 | 587 | 193 | 
 | 2022-09-26 | 586 | 193 | 
-| 2022-09-25 | 586 | 193 | 
 

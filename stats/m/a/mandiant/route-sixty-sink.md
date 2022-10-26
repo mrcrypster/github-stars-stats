@@ -1,6 +1,6 @@
 # mandiant/route-sixty-sink - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 122 | 11 | 
 | 2022-10-24 | 122 | 11 | 
 | 2022-10-23 | 122 | 11 | 
 | 2022-10-22 | 122 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 122 | 12 | 
 | 2022-09-27 | 122 | 12 | 
 | 2022-09-26 | 122 | 12 | 
-| 2022-09-25 | 122 | 12 | 
 

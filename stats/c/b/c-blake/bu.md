@@ -1,6 +1,6 @@
 # c-blake/bu - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 16 | 1 | 
 | 2022-10-24 | 16 | 1 | 
 | 2022-10-23 | 16 | 1 | 
 | 2022-10-22 | 16 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 15 | 1 | 
 | 2022-09-28 | 15 | 1 | 
 | 2022-09-27 | 14 | 1 | 
-| 2022-09-26 | 14 | 1 | 
 

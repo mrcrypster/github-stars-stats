@@ -1,10 +1,10 @@
 # qqlittleice/MiuiHome - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 35
 
-★ Stars: 302
+★ Stars: 303
 
 [Open repository](https://github.com/qqlittleice/MiuiHome)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 303 | 35 | 
 | 2022-10-24 | 302 | 35 | 
 | 2022-10-23 | 301 | 35 | 
 | 2022-10-22 | 299 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 294 | 34 | 
 | 2022-09-27 | 294 | 34 | 
 | 2022-09-26 | 294 | 34 | 
-| 2022-09-25 | 292 | 34 | 
 

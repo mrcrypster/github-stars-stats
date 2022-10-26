@@ -1,6 +1,6 @@
 # haya14busa/vim-asterisk - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 350 | 17 | 
 | 2022-10-25 | 350 | 17 | 
 | 2022-10-24 | 351 | 17 | 
 | 2022-10-23 | 350 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 348 | 17 | 
 | 2022-09-27 | 348 | 17 | 
 | 2022-09-26 | 348 | 17 | 
-| 2022-09-25 | 348 | 17 | 
 

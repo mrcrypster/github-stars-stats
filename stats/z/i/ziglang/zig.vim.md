@@ -1,10 +1,10 @@
 # ziglang/zig.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 35
 
-★ Stars: 230
+★ Stars: 229
 
 [Open repository](https://github.com/ziglang/zig.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 229 | 35 | 
 | 2022-10-24 | 230 | 35 | 
 | 2022-10-23 | 230 | 35 | 
 | 2022-10-22 | 230 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 227 | 35 | 
 | 2022-09-27 | 227 | 35 | 
 | 2022-09-26 | 227 | 35 | 
-| 2022-09-25 | 227 | 35 | 
 

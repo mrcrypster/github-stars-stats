@@ -1,6 +1,6 @@
 # paranoidninja/O365-Doppelganger - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 220 | 31 | 
 | 2022-10-24 | 220 | 31 | 
 | 2022-10-23 | 219 | 31 | 
 | 2022-10-22 | 218 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 217 | 31 | 
 | 2022-09-28 | 217 | 31 | 
 | 2022-09-27 | 217 | 31 | 
-| 2022-09-26 | 217 | 31 | 
 

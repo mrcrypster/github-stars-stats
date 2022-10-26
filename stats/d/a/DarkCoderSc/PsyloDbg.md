@@ -1,10 +1,10 @@
 # DarkCoderSc/PsyloDbg - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 11
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/DarkCoderSc/PsyloDbg)
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-25 | 120 | 11 | 
+| 2022-10-26 | 121 | 11 | 
+| 2022-10-25 | 121 | 11 | 
 | 2022-10-24 | 118 | 11 | 
 | 2022-10-23 | 112 | 8 | 
 | 2022-10-22 | 100 | 7 | 

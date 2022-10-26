@@ -1,10 +1,10 @@
 # rstudio/chromote - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 18
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/rstudio/chromote)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 128 | 18 | 
 | 2022-10-24 | 127 | 18 | 
 | 2022-10-23 | 127 | 18 | 
 | 2022-10-22 | 127 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 127 | 18 | 
 | 2022-09-28 | 127 | 18 | 
 | 2022-09-27 | 127 | 18 | 
-| 2022-09-26 | 127 | 18 | 
 

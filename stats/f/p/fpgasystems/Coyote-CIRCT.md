@@ -1,10 +1,10 @@
 # fpgasystems/Coyote-CIRCT - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/fpgasystems/Coyote-CIRCT)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 2 | - | 
 | 2022-10-24 | 1 | - | 
 | 2022-10-23 | 1 | - | 
 | 2022-10-22 | 1 | - | 

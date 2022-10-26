@@ -1,10 +1,10 @@
 # micro-zoe/micro-app - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 377
+☋ Forks: 379
 
-★ Stars: 3523
+★ Stars: 3547
 
 [Open repository](https://github.com/micro-zoe/micro-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 3547 | 379 | 
 | 2022-10-24 | 3523 | 377 | 
 | 2022-10-23 | 3517 | 376 | 
 | 2022-10-22 | 3516 | 376 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 3420 | 372 | 
 | 2022-09-27 | 3413 | 372 | 
 | 2022-09-26 | 3407 | 372 | 
-| 2022-09-25 | 3404 | 372 | 
 

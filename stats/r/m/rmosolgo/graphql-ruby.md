@@ -1,10 +1,10 @@
 # rmosolgo/graphql-ruby - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1271
+☋ Forks: 1272
 
-★ Stars: 5139
+★ Stars: 5141
 
 [Open repository](https://github.com/rmosolgo/graphql-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5141 | 1272 | 
 | 2022-10-24 | 5139 | 1271 | 
 | 2022-10-23 | 5139 | 1271 | 
 | 2022-10-22 | 5139 | 1271 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5127 | 1259 | 
 | 2022-09-27 | 5127 | 1260 | 
 | 2022-09-26 | 5126 | 1259 | 
-| 2022-09-25 | 5126 | 1259 | 
 

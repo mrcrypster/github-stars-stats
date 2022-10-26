@@ -1,10 +1,10 @@
 # jenkinsci/pipeline-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 3157
 
-★ Stars: 3975
+★ Stars: 3977
 
 [Open repository](https://github.com/jenkinsci/pipeline-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 3977 | 3157 | 
 | 2022-10-24 | 3975 | 3157 | 
 | 2022-10-23 | 3975 | 3157 | 
 | 2022-10-22 | 3975 | 3157 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 3964 | 3128 | 
 | 2022-09-27 | 3963 | 3123 | 
 | 2022-09-26 | 3963 | 3121 | 
-| 2022-09-25 | 3963 | 3121 | 
 

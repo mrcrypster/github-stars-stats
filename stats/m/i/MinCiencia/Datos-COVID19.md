@@ -1,8 +1,8 @@
 # MinCiencia/Datos-COVID19 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 991
+☋ Forks: 990
 
 ★ Stars: 498
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 498 | 990 | 
 | 2022-10-25 | 498 | 991 | 
 | 2022-10-24 | 497 | 991 | 
 | 2022-10-23 | 497 | 990 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 495 | 987 | 
 | 2022-09-27 | 495 | 985 | 
 | 2022-09-26 | 495 | 985 | 
-| 2022-09-25 | 492 | 985 | 
 

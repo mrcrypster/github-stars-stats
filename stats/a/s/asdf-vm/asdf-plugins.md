@@ -1,10 +1,10 @@
 # asdf-vm/asdf-plugins - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 304
+☋ Forks: 303
 
-★ Stars: 717
+★ Stars: 722
 
 [Open repository](https://github.com/asdf-vm/asdf-plugins)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 722 | 303 | 
 | 2022-10-24 | 717 | 304 | 
 | 2022-10-23 | 717 | 304 | 
 | 2022-10-22 | 717 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 706 | 303 | 
 | 2022-09-27 | 705 | 303 | 
 | 2022-09-26 | 703 | 301 | 
-| 2022-09-25 | 702 | 301 | 
 

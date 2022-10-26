@@ -1,8 +1,8 @@
 # mostafa-saad/ArabicCompetitiveProgramming - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 453
+☋ Forks: 454
 
 ★ Stars: 1086
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1086 | 454 | 
 | 2022-10-24 | 1086 | 453 | 
 | 2022-10-23 | 1085 | 451 | 
 | 2022-10-22 | 1082 | 451 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1060 | 445 | 
 | 2022-09-27 | 1059 | 445 | 
 | 2022-09-26 | 1057 | 444 | 
-| 2022-09-25 | 1057 | 444 | 
 

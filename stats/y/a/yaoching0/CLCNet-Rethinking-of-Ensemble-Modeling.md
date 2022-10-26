@@ -1,10 +1,10 @@
 # yaoching0/CLCNet-Rethinking-of-Ensemble-Modeling - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 11
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/yaoching0/CLCNet-Rethinking-of-Ensemble-Modeling)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 49 | 11 | 
 | 2022-10-24 | 47 | 11 | 
 | 2022-10-23 | 46 | 10 | 
 

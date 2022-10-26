@@ -1,10 +1,10 @@
 # tuyoogame/YooAsset - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 155
+☋ Forks: 156
 
-★ Stars: 586
+★ Stars: 589
 
 [Open repository](https://github.com/tuyoogame/YooAsset)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 589 | 156 | 
 | 2022-10-24 | 586 | 155 | 
 | 2022-10-23 | 585 | 155 | 
 | 2022-10-22 | 584 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 553 | 145 | 
 | 2022-09-27 | 553 | 142 | 
 | 2022-09-26 | 552 | 142 | 
-| 2022-09-25 | 552 | 142 | 
 

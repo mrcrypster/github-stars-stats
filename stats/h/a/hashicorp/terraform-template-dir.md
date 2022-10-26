@@ -1,10 +1,10 @@
 # hashicorp/terraform-template-dir - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 8
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/hashicorp/terraform-template-dir)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 24 | 8 | 
 | 2022-10-24 | 23 | 8 | 
 | 2022-10-23 | 23 | 8 | 
 | 2022-10-22 | 23 | 8 | 

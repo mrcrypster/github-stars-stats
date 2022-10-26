@@ -1,10 +1,10 @@
 # chenyuwangjs/A-tutorial-compiler-written-in-Java - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 170
+☋ Forks: 177
 
-★ Stars: 1024
+★ Stars: 1050
 
 [Open repository](https://github.com/chenyuwangjs/A-tutorial-compiler-written-in-Java)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1050 | 177 | 
 | 2022-10-24 | 1024 | 170 | 
 | 2022-10-23 | 1023 | 170 | 
 | 2022-10-22 | 1022 | 170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 868 | 148 | 
 | 2022-09-27 | 855 | 148 | 
 | 2022-09-26 | 847 | 146 | 
-| 2022-09-25 | 837 | 145 | 
 

@@ -1,10 +1,10 @@
 # zackradisic/aussieplusplus - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 562
+★ Stars: 563
 
 [Open repository](https://github.com/zackradisic/aussieplusplus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 563 | 13 | 
 | 2022-10-24 | 562 | 13 | 
 | 2022-10-23 | 561 | 13 | 
 | 2022-10-22 | 559 | 13 | 

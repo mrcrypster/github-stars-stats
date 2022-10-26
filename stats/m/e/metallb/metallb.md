@@ -1,10 +1,10 @@
 # metallb/metallb - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 693
+☋ Forks: 694
 
-★ Stars: 5250
+★ Stars: 5251
 
 [Open repository](https://github.com/metallb/metallb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5251 | 694 | 
 | 2022-10-24 | 5250 | 693 | 
 | 2022-10-23 | 5246 | 693 | 
 | 2022-10-22 | 5244 | 693 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5182 | 682 | 
 | 2022-09-27 | 5179 | 682 | 
 | 2022-09-26 | 5177 | 682 | 
-| 2022-09-25 | 5174 | 682 | 
 

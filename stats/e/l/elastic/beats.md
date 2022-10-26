@@ -1,10 +1,10 @@
 # elastic/beats - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 4588
+☋ Forks: 4590
 
-★ Stars: 11330
+★ Stars: 11334
 
 [Open repository](https://github.com/elastic/beats)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 11334 | 4590 | 
 | 2022-10-24 | 11330 | 4588 | 
 | 2022-10-23 | 11329 | 4590 | 
 | 2022-10-22 | 11328 | 4590 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 11293 | 4578 | 
 | 2022-09-27 | 11290 | 4573 | 
 | 2022-09-26 | 11287 | 4575 | 
-| 2022-09-25 | 11285 | 4575 | 
 

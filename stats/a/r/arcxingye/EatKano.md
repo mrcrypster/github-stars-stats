@@ -1,8 +1,8 @@
 # arcxingye/EatKano - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 3220
+☋ Forks: 3227
 
 ★ Stars: 1510
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1510 | 3227 | 
 | 2022-10-24 | 1510 | 3220 | 
 | 2022-10-23 | 1510 | 3218 | 
 | 2022-10-22 | 1507 | 3214 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1471 | 3115 | 
 | 2022-09-27 | 1469 | 3103 | 
 | 2022-09-26 | 1467 | 3097 | 
-| 2022-09-25 | 1464 | 3089 | 
 

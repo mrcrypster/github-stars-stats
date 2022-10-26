@@ -1,10 +1,10 @@
 # lilt/tec - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/lilt/tec)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 13 | - | 
 | 2022-10-24 | 12 | - | 
 | 2022-10-23 | 12 | - | 
 | 2022-10-22 | 12 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 12 | - | 
 | 2022-09-28 | 12 | - | 
 | 2022-09-26 | 12 | - | 
-| 2022-09-25 | 12 | - | 
 

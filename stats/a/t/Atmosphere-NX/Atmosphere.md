@@ -1,10 +1,10 @@
 # Atmosphere-NX/Atmosphere - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 942
 
-★ Stars: 9977
+★ Stars: 9980
 
 [Open repository](https://github.com/Atmosphere-NX/Atmosphere)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 9980 | 942 | 
 | 2022-10-24 | 9977 | 942 | 
 | 2022-10-23 | 9973 | 942 | 
 | 2022-10-22 | 9964 | 941 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 9709 | 926 | 
 | 2022-09-27 | 9707 | 925 | 
 | 2022-09-26 | 9710 | 925 | 
-| 2022-09-25 | 9706 | 924 | 
 

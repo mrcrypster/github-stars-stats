@@ -1,10 +1,10 @@
 # KathanP19/HowToHunt - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1323
+☋ Forks: 1329
 
-★ Stars: 4455
+★ Stars: 4466
 
 [Open repository](https://github.com/KathanP19/HowToHunt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 4466 | 1329 | 
 | 2022-10-24 | 4455 | 1323 | 
 | 2022-10-23 | 4432 | 1312 | 
 | 2022-10-22 | 4432 | 1310 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 4357 | 1293 | 
 | 2022-09-27 | 4356 | 1293 | 
 | 2022-09-26 | 4348 | 1293 | 
-| 2022-09-25 | 4338 | 1292 | 
 

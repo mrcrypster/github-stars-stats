@@ -1,6 +1,6 @@
 # TheMuppets/proprietary_vendor_oneplus - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 453
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 210 | 453 | 
 | 2022-10-24 | 210 | 453 | 
 | 2022-10-23 | 210 | 451 | 
 | 2022-10-22 | 210 | 451 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 207 | 450 | 
 | 2022-09-28 | 207 | 450 | 
 | 2022-09-26 | 207 | 450 | 
-| 2022-09-25 | 207 | 449 | 
 

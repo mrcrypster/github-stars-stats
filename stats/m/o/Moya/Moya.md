@@ -1,10 +1,10 @@
 # Moya/Moya - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1878
+☋ Forks: 1877
 
-★ Stars: 14257
+★ Stars: 14263
 
 [Open repository](https://github.com/Moya/Moya)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 14263 | 1877 | 
 | 2022-10-24 | 14257 | 1878 | 
 | 2022-10-23 | 14257 | 1878 | 
 | 2022-10-22 | 14257 | 1878 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 14206 | 1878 | 
 | 2022-09-27 | 14203 | 1879 | 
 | 2022-09-26 | 14204 | 1879 | 
-| 2022-09-25 | 14204 | 1878 | 
 

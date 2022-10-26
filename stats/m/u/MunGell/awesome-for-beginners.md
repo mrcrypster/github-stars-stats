@@ -1,10 +1,10 @@
 # MunGell/awesome-for-beginners - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 6000
+☋ Forks: 6002
 
-★ Stars: 44877
+★ Stars: 44903
 
 [Open repository](https://github.com/MunGell/awesome-for-beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 44903 | 6002 | 
 | 2022-10-24 | 44877 | 6000 | 
 | 2022-10-23 | 44840 | 5997 | 
 | 2022-10-22 | 44815 | 5996 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 43997 | 5823 | 
 | 2022-09-27 | 43925 | 5817 | 
 | 2022-09-26 | 43894 | 5815 | 
-| 2022-09-25 | 43853 | 5814 | 
 

@@ -1,8 +1,8 @@
 # BDHU/minimalist - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 78
+☋ Forks: 77
 
 ★ Stars: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 62 | 77 | 
 | 2022-10-24 | 62 | 78 | 
 | 2022-10-23 | 62 | 80 | 
 | 2022-10-22 | 62 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 59 | 77 | 
 | 2022-09-27 | 59 | 77 | 
 | 2022-09-26 | 59 | 77 | 
-| 2022-09-25 | 59 | 76 | 
 

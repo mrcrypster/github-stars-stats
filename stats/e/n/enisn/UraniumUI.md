@@ -1,10 +1,10 @@
 # enisn/UraniumUI - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 24
 
-★ Stars: 214
+★ Stars: 215
 
 [Open repository](https://github.com/enisn/UraniumUI)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 215 | 24 | 
 | 2022-10-24 | 214 | 24 | 
 | 2022-10-23 | 212 | 24 | 
 | 2022-10-22 | 213 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 165 | 18 | 
 | 2022-09-27 | 161 | 18 | 
 | 2022-09-26 | 158 | 16 | 
-| 2022-09-25 | 149 | 15 | 
 

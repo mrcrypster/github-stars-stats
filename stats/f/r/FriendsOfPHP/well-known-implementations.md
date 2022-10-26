@@ -1,10 +1,10 @@
 # FriendsOfPHP/well-known-implementations - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 60
 
 [Open repository](https://github.com/FriendsOfPHP/well-known-implementations)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 60 | 1 | 
+| 2022-10-25 | 60 | 1 | 
 | 2022-10-24 | 48 | 1 | 
 | 2022-10-23 | 44 | 1 | 
 

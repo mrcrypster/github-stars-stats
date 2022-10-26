@@ -1,6 +1,6 @@
 # exoscale/interceptor - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 76 | 5 | 
 | 2022-10-24 | 76 | 5 | 
 | 2022-10-23 | 76 | 5 | 
 | 2022-10-22 | 76 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 74 | 5 | 
 | 2022-09-27 | 74 | 5 | 
 | 2022-09-26 | 74 | 5 | 
-| 2022-09-25 | 74 | 5 | 
 

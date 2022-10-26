@@ -1,6 +1,6 @@
 # nf-core/viralrecon - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 79 | 75 | 
 | 2022-10-24 | 79 | 75 | 
 | 2022-10-23 | 79 | 75 | 
 | 2022-10-22 | 79 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 75 | 72 | 
 | 2022-09-28 | 75 | 72 | 
 | 2022-09-27 | 75 | 71 | 
-| 2022-09-25 | 75 | 71 | 
 

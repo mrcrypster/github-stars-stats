@@ -1,10 +1,10 @@
 # remzi-arpacidusseau/ostep-homework - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 595
 
-★ Stars: 1048
+★ Stars: 1050
 
 [Open repository](https://github.com/remzi-arpacidusseau/ostep-homework)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1050 | 595 | 
 | 2022-10-24 | 1048 | 595 | 
 | 2022-10-23 | 1045 | 595 | 
 | 2022-10-22 | 1044 | 595 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1002 | 573 | 
 | 2022-09-27 | 996 | 573 | 
 | 2022-09-26 | 994 | 571 | 
-| 2022-09-25 | 989 | 568 | 
 

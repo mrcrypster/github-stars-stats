@@ -1,10 +1,10 @@
 # ajayyy/SponsorBlock - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 205
 
-★ Stars: 5777
+★ Stars: 5796
 
 [Open repository](https://github.com/ajayyy/SponsorBlock)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5796 | 205 | 
 | 2022-10-24 | 5777 | 205 | 
 | 2022-10-23 | 5755 | 204 | 
 | 2022-10-22 | 5746 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5580 | 197 | 
 | 2022-09-27 | 5575 | 197 | 
 | 2022-09-26 | 5568 | 197 | 
-| 2022-09-25 | 5561 | 197 | 
 

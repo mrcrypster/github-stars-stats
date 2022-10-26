@@ -1,6 +1,6 @@
 # JohnEdChristensen/WebbCompare - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 396 | 28 | 
 | 2022-10-24 | 396 | 28 | 
 | 2022-10-23 | 396 | 28 | 
 | 2022-10-22 | 396 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 390 | 26 | 
 | 2022-09-27 | 390 | 26 | 
 | 2022-09-26 | 390 | 26 | 
-| 2022-09-25 | 390 | 26 | 
 

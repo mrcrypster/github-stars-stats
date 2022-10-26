@@ -1,0 +1,17 @@
+# heshamerfan97/flutter_google_maps_example - stars & forks statistics
+
+Stats updated on Oct 2022, 25
+
+☋ Forks: 18
+
+★ Stars: 62
+
+[Open repository](https://github.com/heshamerfan97/flutter_google_maps_example)
+
+[Open detailed stats for heshamerfan97/flutter_google_maps_example](https://reviewgithub.com/rep/heshamerfan97/flutter_google_maps_example)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-25 | 62 | 18 | 
+

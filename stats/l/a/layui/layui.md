@@ -1,10 +1,10 @@
 # layui/layui - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 7075
+☋ Forks: 7077
 
-★ Stars: 26561
+★ Stars: 26565
 
 [Open repository](https://github.com/layui/layui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 26565 | 7077 | 
 | 2022-10-24 | 26561 | 7075 | 
 | 2022-10-23 | 26555 | 7074 | 
 | 2022-10-22 | 26554 | 7074 | 

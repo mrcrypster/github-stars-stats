@@ -1,8 +1,8 @@
 # narze/nunmun - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 4
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-25 | 4 | 43 | 
+| 2022-10-26 | 4 | 44 | 
+| 2022-10-25 | 4 | 44 | 
 | 2022-10-24 | 4 | 43 | 
 | 2022-10-23 | 4 | 40 | 
 | 2022-10-22 | 4 | 39 | 

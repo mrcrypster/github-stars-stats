@@ -1,6 +1,6 @@
 # ankane/blazer - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 423
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 3379 | 423 | 
 | 2022-10-24 | 3379 | 423 | 
 | 2022-10-23 | 3378 | 423 | 
 | 2022-10-22 | 3379 | 423 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 3362 | 421 | 
 | 2022-09-28 | 3362 | 421 | 
 | 2022-09-27 | 3361 | 421 | 
-| 2022-09-25 | 3362 | 421 | 
 

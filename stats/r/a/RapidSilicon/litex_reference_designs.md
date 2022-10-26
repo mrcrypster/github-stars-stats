@@ -1,6 +1,6 @@
 # RapidSilicon/litex_reference_designs - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3 | - | 
+| 2022-10-25 | 3 | - | 
 | 2022-10-24 | 3 | - | 
 | 2022-10-23 | 3 | - | 
 | 2022-10-22 | 3 | - | 

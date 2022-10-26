@@ -1,10 +1,10 @@
 # Liqwid-Labs/agora - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/Liqwid-Labs/agora)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 38 | 13 | 
 | 2022-10-24 | 37 | 13 | 
 | 2022-10-23 | 37 | 13 | 
 | 2022-10-22 | 37 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 35 | 13 | 
 | 2022-09-27 | 35 | 13 | 
 | 2022-09-26 | 35 | 13 | 
-| 2022-09-25 | 35 | 13 | 
 

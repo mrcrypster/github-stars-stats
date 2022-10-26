@@ -1,10 +1,10 @@
 # pumelotea/happyboot-tiger - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 20
 
-★ Stars: 217
+★ Stars: 216
 
 [Open repository](https://github.com/pumelotea/happyboot-tiger)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 216 | 20 | 
 | 2022-10-24 | 217 | 20 | 
 | 2022-10-23 | 215 | 20 | 
 | 2022-10-22 | 214 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 173 | 14 | 
 | 2022-09-27 | 170 | 13 | 
 | 2022-09-26 | 167 | 13 | 
-| 2022-09-25 | 165 | 13 | 
 

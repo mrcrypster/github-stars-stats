@@ -1,6 +1,6 @@
 # ansible-collections/community.kubernetes - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 265 | 109 | 
 | 2022-10-25 | 265 | 109 | 
 | 2022-10-24 | 265 | 109 | 
 | 2022-10-23 | 265 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 265 | 109 | 
 | 2022-09-27 | 265 | 109 | 
 | 2022-09-26 | 265 | 109 | 
-| 2022-09-25 | 265 | 109 | 
 

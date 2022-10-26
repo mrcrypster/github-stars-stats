@@ -1,6 +1,6 @@
 # srush/Tensor-Puzzles - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 831 | 64 | 
 | 2022-10-24 | 831 | 64 | 
 | 2022-10-23 | 831 | 64 | 
 | 2022-10-22 | 829 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 809 | 61 | 
 | 2022-09-28 | 808 | 61 | 
 | 2022-09-26 | 807 | 60 | 
-| 2022-09-25 | 807 | 60 | 
 

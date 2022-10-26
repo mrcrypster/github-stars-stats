@@ -1,10 +1,10 @@
 # laravel/ui - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 382
 
-★ Stars: 1966
+★ Stars: 1967
 
 [Open repository](https://github.com/laravel/ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1967 | 382 | 
 | 2022-10-24 | 1966 | 382 | 
 | 2022-10-23 | 1965 | 382 | 
 | 2022-10-22 | 1964 | 382 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1938 | 380 | 
 | 2022-09-27 | 1938 | 380 | 
 | 2022-09-26 | 1938 | 379 | 
-| 2022-09-25 | 1939 | 378 | 
 

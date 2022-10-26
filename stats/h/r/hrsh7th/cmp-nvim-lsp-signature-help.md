@@ -1,10 +1,10 @@
 # hrsh7th/cmp-nvim-lsp-signature-help - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 272
+★ Stars: 273
 
 [Open repository](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 273 | 13 | 
 | 2022-10-24 | 272 | 12 | 
 | 2022-10-23 | 271 | 12 | 
 | 2022-10-22 | 270 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 256 | 10 | 
 | 2022-09-28 | 255 | 10 | 
 | 2022-09-27 | 254 | 10 | 
-| 2022-09-26 | 254 | 10 | 
 

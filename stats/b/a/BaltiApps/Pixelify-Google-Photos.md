@@ -1,10 +1,10 @@
 # BaltiApps/Pixelify-Google-Photos - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 435
+★ Stars: 439
 
 [Open repository](https://github.com/BaltiApps/Pixelify-Google-Photos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 439 | 25 | 
 | 2022-10-24 | 435 | 24 | 
 | 2022-10-23 | 435 | 24 | 
 | 2022-10-22 | 434 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 411 | 22 | 
 | 2022-09-27 | 410 | 22 | 
 | 2022-09-26 | 409 | 22 | 
-| 2022-09-25 | 402 | 22 | 
 

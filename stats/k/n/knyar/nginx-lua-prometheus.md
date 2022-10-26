@@ -1,10 +1,10 @@
 # knyar/nginx-lua-prometheus - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 205
+☋ Forks: 206
 
-★ Stars: 1208
+★ Stars: 1210
 
 [Open repository](https://github.com/knyar/nginx-lua-prometheus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1210 | 206 | 
 | 2022-10-24 | 1208 | 205 | 
 | 2022-10-23 | 1207 | 205 | 
 | 2022-10-22 | 1207 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 1201 | 204 | 
 | 2022-09-28 | 1201 | 204 | 
 | 2022-09-27 | 1201 | 204 | 
-| 2022-09-26 | 1201 | 204 | 
 

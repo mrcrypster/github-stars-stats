@@ -1,10 +1,10 @@
 # MisterBooo/LeetCodeAnimation - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 13709
+☋ Forks: 13713
 
-★ Stars: 71733
+★ Stars: 71746
 
 [Open repository](https://github.com/MisterBooo/LeetCodeAnimation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 71746 | 13713 | 
 | 2022-10-24 | 71733 | 13709 | 
 | 2022-10-23 | 71724 | 13704 | 
 | 2022-10-22 | 71721 | 13704 | 

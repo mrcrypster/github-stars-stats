@@ -1,10 +1,10 @@
 # ferdinand-beyer/refx - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 40
+★ Stars: 43
 
 [Open repository](https://github.com/ferdinand-beyer/refx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 43 | 2 | 
 | 2022-10-24 | 40 | 1 | 
 | 2022-10-23 | 40 | 1 | 
 | 2022-10-22 | 40 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 38 | 1 | 
 | 2022-09-27 | 38 | 1 | 
 | 2022-09-26 | 38 | 1 | 
-| 2022-09-25 | 38 | 1 | 
 

@@ -1,6 +1,6 @@
 # joshaber/clojurem - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 284 | 9 | 
 | 2022-10-25 | 284 | 9 | 
 | 2022-10-24 | 284 | 9 | 
 | 2022-10-23 | 283 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 283 | 9 | 
 | 2022-09-27 | 283 | 9 | 
 | 2022-09-26 | 283 | 9 | 
-| 2022-09-25 | 283 | 9 | 
 

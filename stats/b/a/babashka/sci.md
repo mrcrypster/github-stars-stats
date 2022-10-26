@@ -1,6 +1,6 @@
 # babashka/sci - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 958 | 67 | 
 | 2022-10-24 | 958 | 67 | 
 | 2022-10-23 | 958 | 67 | 
 | 2022-10-22 | 958 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 944 | 67 | 
 | 2022-09-27 | 944 | 68 | 
 | 2022-09-26 | 943 | 68 | 
-| 2022-09-25 | 942 | 67 | 
 

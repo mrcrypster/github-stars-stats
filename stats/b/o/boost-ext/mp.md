@@ -1,6 +1,6 @@
 # boost-ext/mp - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 120 | 8 | 
 | 2022-10-24 | 120 | 8 | 
 | 2022-10-23 | 120 | 8 | 
 | 2022-10-22 | 120 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 106 | 4 | 
 | 2022-09-27 | 106 | 4 | 
 | 2022-09-26 | 106 | 4 | 
-| 2022-09-25 | 107 | 4 | 
 

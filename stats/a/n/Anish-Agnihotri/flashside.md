@@ -1,6 +1,6 @@
 # Anish-Agnihotri/flashside - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 535 | 107 | 
 | 2022-10-24 | 535 | 107 | 
 | 2022-10-23 | 535 | 107 | 
 | 2022-10-22 | 535 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 530 | 105 | 
 | 2022-09-27 | 530 | 105 | 
 | 2022-09-26 | 530 | 105 | 
-| 2022-09-25 | 529 | 105 | 
 

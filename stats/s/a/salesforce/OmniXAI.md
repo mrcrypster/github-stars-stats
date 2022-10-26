@@ -1,10 +1,10 @@
 # salesforce/OmniXAI - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 34
 
-★ Stars: 433
+★ Stars: 437
 
 [Open repository](https://github.com/salesforce/OmniXAI)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 437 | 34 | 
 | 2022-10-24 | 433 | 34 | 
 | 2022-10-23 | 433 | 35 | 
 | 2022-10-22 | 433 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 418 | 32 | 
 | 2022-09-27 | 417 | 32 | 
 | 2022-09-26 | 416 | 32 | 
-| 2022-09-25 | 416 | 33 | 
 

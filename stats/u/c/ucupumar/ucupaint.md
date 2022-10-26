@@ -1,6 +1,6 @@
 # ucupumar/ucupaint - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 183 | 10 | 
 | 2022-10-24 | 183 | 10 | 
 | 2022-10-23 | 183 | 10 | 
 | 2022-10-22 | 183 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 179 | 10 | 
 | 2022-09-28 | 179 | 10 | 
 | 2022-09-27 | 178 | 10 | 
-| 2022-09-25 | 177 | 9 | 
 

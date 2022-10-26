@@ -1,10 +1,10 @@
 # treyhunner/resume - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 123
+☋ Forks: 121
 
-★ Stars: 203
+★ Stars: 204
 
 [Open repository](https://github.com/treyhunner/resume)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 204 | 121 | 
 | 2022-10-24 | 203 | 123 | 
 | 2022-10-23 | 203 | 123 | 
 | 2022-10-22 | 202 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 201 | 119 | 
 | 2022-09-27 | 200 | 119 | 
 | 2022-09-26 | 199 | 119 | 
-| 2022-09-25 | 199 | 119 | 
 

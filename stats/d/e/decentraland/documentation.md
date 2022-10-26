@@ -1,10 +1,10 @@
 # decentraland/documentation - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 2
+☋ Forks: 4
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/decentraland/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 2 | 4 | 
 | 2022-10-24 | 1 | 2 | 
 | 2022-10-23 | 1 | 2 | 
 | 2022-10-22 | 1 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 40 | 135 | 
 | 2022-09-27 | 40 | 135 | 
 | 2022-09-26 | 40 | 135 | 
-| 2022-09-25 | 40 | 135 | 
 

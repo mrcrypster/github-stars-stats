@@ -1,8 +1,8 @@
 # Jasbir96/Batches - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 183
+☋ Forks: 184
 
 ★ Stars: 111
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 111 | 184 | 
 | 2022-10-24 | 111 | 183 | 
 | 2022-10-23 | 111 | 183 | 
 | 2022-10-22 | 109 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 107 | 180 | 
 | 2022-09-27 | 107 | 180 | 
 | 2022-09-26 | 107 | 180 | 
-| 2022-09-25 | 106 | 181 | 
 

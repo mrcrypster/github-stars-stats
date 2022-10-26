@@ -1,10 +1,10 @@
 # D3VL/L3MON - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 954
 
-★ Stars: 1916
+★ Stars: 1915
 
 [Open repository](https://github.com/D3VL/L3MON)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1915 | 954 | 
 | 2022-10-24 | 1916 | 954 | 
 | 2022-10-23 | 1915 | 955 | 
 | 2022-10-22 | 1915 | 955 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1854 | 936 | 
 | 2022-09-27 | 1853 | 932 | 
 | 2022-09-26 | 1851 | 931 | 
-| 2022-09-25 | 1850 | 930 | 
 

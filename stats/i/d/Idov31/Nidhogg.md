@@ -1,10 +1,10 @@
 # Idov31/Nidhogg - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 81
+☋ Forks: 86
 
-★ Stars: 522
+★ Stars: 538
 
 [Open repository](https://github.com/Idov31/Nidhogg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 538 | 86 | 
 | 2022-10-24 | 522 | 81 | 
 | 2022-10-23 | 479 | 77 | 
 | 2022-10-22 | 478 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 460 | 75 | 
 | 2022-09-27 | 459 | 75 | 
 | 2022-09-26 | 458 | 75 | 
-| 2022-09-25 | 453 | 74 | 
 

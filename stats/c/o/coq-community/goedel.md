@@ -1,10 +1,10 @@
 # coq-community/goedel - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 3
 
-★ Stars: 24
+★ Stars: 26
 
 [Open repository](https://github.com/coq-community/goedel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 26 | 3 | 
 | 2022-10-24 | 24 | 3 | 
 | 2022-10-23 | 24 | 3 | 
 | 2022-10-22 | 24 | 3 | 

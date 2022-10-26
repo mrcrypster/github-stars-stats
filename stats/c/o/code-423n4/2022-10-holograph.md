@@ -1,8 +1,8 @@
 # code-423n4/2022-10-holograph - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 26
 
-☋ Forks: 5
+☋ Forks: 10
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | - | 10 | 
+| 2022-10-25 | - | 10 | 
 | 2022-10-24 | - | 5 | 
 | 2022-10-23 | - | 5 | 
 | 2022-10-22 | - | 1 | 

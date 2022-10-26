@@ -1,6 +1,6 @@
 # rabbitmq/khepri - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 145 | 10 | 
 | 2022-10-24 | 145 | 10 | 
 | 2022-10-23 | 145 | 10 | 
 | 2022-10-22 | 145 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 141 | 9 | 
 | 2022-09-28 | 141 | 9 | 
 | 2022-09-27 | 141 | 9 | 
-| 2022-09-26 | 141 | 9 | 
 

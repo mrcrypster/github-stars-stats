@@ -1,10 +1,10 @@
 # open-rpa/openrpa - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 403
 
-★ Stars: 1242
+★ Stars: 1244
 
 [Open repository](https://github.com/open-rpa/openrpa)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1244 | 403 | 
 | 2022-10-25 | 1242 | 403 | 
 | 2022-10-24 | 1242 | 403 | 
 | 2022-10-23 | 1242 | 403 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 1214 | 397 | 
 | 2022-09-27 | 1214 | 396 | 
 | 2022-09-26 | 1213 | 396 | 
-| 2022-09-25 | 1213 | 396 | 
 

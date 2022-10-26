@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 25
 
 ☋ Forks: 6
 
-★ Stars: 46
+★ Stars: 48
 
 [Open repository](https://github.com/rajkumaar23/notify-abroad)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-25 | 46 | 6 | 
+| 2022-10-25 | 48 | 6 | 
 | 2022-10-24 | 46 | 6 | 
 | 2022-10-23 | 43 | 4 | 
 

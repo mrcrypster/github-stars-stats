@@ -1,10 +1,10 @@
 # ThePrimeagen/BunSpreader - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 13
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/ThePrimeagen/BunSpreader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 64 | 13 | 
 | 2022-10-24 | 63 | 13 | 
 | 2022-10-23 | 63 | 13 | 
 | 2022-10-22 | 63 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 62 | 13 | 
 | 2022-09-28 | 62 | 13 | 
 | 2022-09-26 | 62 | 13 | 
-| 2022-09-25 | 62 | 13 | 
 

@@ -1,10 +1,10 @@
 # NothingOSS/android_kernel_devicetree_nothing_sm7325 - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 8
+☋ Forks: 9
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/NothingOSS/android_kernel_devicetree_nothing_sm7325)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 71 | 9 | 
 | 2022-10-24 | 70 | 8 | 
 | 2022-10-23 | 70 | 8 | 
 | 2022-10-22 | 70 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 68 | 7 | 
 | 2022-09-28 | 68 | 7 | 
 | 2022-09-26 | 68 | 7 | 
-| 2022-09-25 | 68 | 7 | 
 

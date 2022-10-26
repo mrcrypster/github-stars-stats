@@ -1,10 +1,10 @@
 # diem/move - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 96
+☋ Forks: 97
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/diem/move)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 217 | 97 | 
 | 2022-10-25 | 216 | 96 | 
 | 2022-10-23 | 214 | 96 | 
 | 2022-10-22 | 214 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 201 | 89 | 
 | 2022-09-27 | 201 | 89 | 
 | 2022-09-26 | 200 | 88 | 
-| 2022-09-25 | 197 | 88 | 
 

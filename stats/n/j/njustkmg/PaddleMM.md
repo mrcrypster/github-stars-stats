@@ -1,6 +1,6 @@
 # njustkmg/PaddleMM - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 495 | 90 | 
 | 2022-10-24 | 495 | 90 | 
 | 2022-10-23 | 495 | 90 | 
 | 2022-10-22 | 495 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 489 | 90 | 
 | 2022-09-27 | 489 | 90 | 
 | 2022-09-26 | 487 | 90 | 
-| 2022-09-25 | 487 | 90 | 
 

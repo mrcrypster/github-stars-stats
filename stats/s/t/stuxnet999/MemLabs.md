@@ -1,6 +1,6 @@
 # stuxnet999/MemLabs - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1195 | 163 | 
 | 2022-10-24 | 1195 | 163 | 
 | 2022-10-23 | 1195 | 163 | 
 | 2022-10-22 | 1194 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1177 | 160 | 
 | 2022-09-27 | 1176 | 160 | 
 | 2022-09-26 | 1175 | 160 | 
-| 2022-09-25 | 1175 | 160 | 
 

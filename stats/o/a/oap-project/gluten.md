@@ -1,8 +1,8 @@
 # oap-project/gluten - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 286
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 286 | 78 | 
 | 2022-10-24 | 286 | 77 | 
 | 2022-10-23 | 285 | 77 | 
 | 2022-10-22 | 285 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 268 | 71 | 
 | 2022-09-27 | 268 | 71 | 
 | 2022-09-26 | 267 | 71 | 
-| 2022-09-25 | 267 | 71 | 
 

@@ -1,10 +1,10 @@
 # project-everest/hacl-star - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 148
 
-★ Stars: 1451
+★ Stars: 1452
 
 [Open repository](https://github.com/project-everest/hacl-star)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1452 | 148 | 
 | 2022-10-24 | 1451 | 148 | 
 | 2022-10-23 | 1451 | 148 | 
 | 2022-10-22 | 1452 | 148 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1449 | 146 | 
 | 2022-09-27 | 1449 | 146 | 
 | 2022-09-26 | 1448 | 146 | 
-| 2022-09-25 | 1448 | 146 | 
 

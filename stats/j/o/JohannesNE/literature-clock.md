@@ -1,6 +1,6 @@
 # JohannesNE/literature-clock - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 328 | 73 | 
 | 2022-10-24 | 328 | 73 | 
 | 2022-10-23 | 328 | 73 | 
 | 2022-10-22 | 328 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 328 | 72 | 
 | 2022-09-27 | 328 | 72 | 
 | 2022-09-26 | 324 | 72 | 
-| 2022-09-25 | 324 | 72 | 
 

@@ -1,6 +1,6 @@
 # jspahrsummers/libextobjc - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 470
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 4535 | 470 | 
 | 2022-10-24 | 4535 | 470 | 
 | 2022-10-23 | 4534 | 471 | 
 | 2022-10-22 | 4534 | 471 | 

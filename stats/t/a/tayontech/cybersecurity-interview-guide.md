@@ -1,10 +1,10 @@
 # tayontech/cybersecurity-interview-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 8
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/tayontech/cybersecurity-interview-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 71 | 8 | 
 | 2022-10-24 | 70 | 8 | 
 | 2022-10-23 | 70 | 8 | 
 | 2022-10-22 | 70 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 68 | 8 | 
 | 2022-09-27 | 68 | 8 | 
 | 2022-09-26 | 68 | 8 | 
-| 2022-09-25 | 68 | 8 | 
 

@@ -1,10 +1,10 @@
 # mgunyho/tere - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 26
 
-★ Stars: 1337
+★ Stars: 1338
 
 [Open repository](https://github.com/mgunyho/tere)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1338 | 26 | 
 | 2022-10-24 | 1337 | 26 | 
 | 2022-10-23 | 1337 | 26 | 
 | 2022-10-22 | 1335 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1312 | 24 | 
 | 2022-09-27 | 1312 | 24 | 
 | 2022-09-26 | 1311 | 24 | 
-| 2022-09-25 | 1310 | 24 | 
 

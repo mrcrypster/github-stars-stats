@@ -1,10 +1,10 @@
 # materialsproject/pymatgen - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 707
 
-★ Stars: 998
+★ Stars: 1001
 
 [Open repository](https://github.com/materialsproject/pymatgen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1001 | 707 | 
 | 2022-10-24 | 998 | 707 | 
 | 2022-10-23 | 998 | 706 | 
 | 2022-10-22 | 997 | 706 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 987 | 702 | 
 | 2022-09-27 | 986 | 702 | 
 | 2022-09-26 | 985 | 702 | 
-| 2022-09-25 | 984 | 703 | 
 

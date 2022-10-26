@@ -1,10 +1,10 @@
 # rubenmarcus/120-perguntas-frontend - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 95
 
-★ Stars: 964
+★ Stars: 965
 
 [Open repository](https://github.com/rubenmarcus/120-perguntas-frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 965 | 95 | 
 | 2022-10-24 | 964 | 95 | 
 | 2022-10-23 | 964 | 95 | 
 | 2022-10-22 | 964 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 959 | 93 | 
 | 2022-09-27 | 959 | 93 | 
 | 2022-09-26 | 959 | 93 | 
-| 2022-09-25 | 960 | 92 | 
 

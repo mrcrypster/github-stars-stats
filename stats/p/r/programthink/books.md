@@ -1,10 +1,10 @@
 # programthink/books - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 2774
+☋ Forks: 2776
 
-★ Stars: 13926
+★ Stars: 13932
 
 [Open repository](https://github.com/programthink/books)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 13932 | 2776 | 
 | 2022-10-24 | 13926 | 2774 | 
 | 2022-10-23 | 13918 | 2773 | 
 | 2022-10-22 | 13914 | 2773 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 13812 | 2759 | 
 | 2022-09-27 | 13809 | 2759 | 
 | 2022-09-26 | 13803 | 2760 | 
-| 2022-09-25 | 13797 | 2759 | 
 

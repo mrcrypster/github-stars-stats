@@ -1,6 +1,6 @@
 # phhusson/treble_experimentations - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 607
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 2582 | 607 | 
 | 2022-10-24 | 2582 | 607 | 
 | 2022-10-23 | 2580 | 607 | 
 | 2022-10-22 | 2579 | 607 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 2561 | 605 | 
 | 2022-09-27 | 2555 | 604 | 
 | 2022-09-26 | 2555 | 604 | 
-| 2022-09-25 | 2555 | 604 | 
 

@@ -1,6 +1,6 @@
 # iissnan/hexo-theme-next - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 3756
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 15802 | 3756 | 
 | 2022-10-24 | 15802 | 3756 | 
 | 2022-10-23 | 15802 | 3756 | 
 | 2022-10-22 | 15802 | 3756 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 15790 | 3755 | 
 | 2022-09-28 | 15790 | 3757 | 
 | 2022-09-27 | 15791 | 3758 | 
-| 2022-09-26 | 15791 | 3758 | 
 

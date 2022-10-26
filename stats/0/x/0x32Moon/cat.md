@@ -1,10 +1,10 @@
 # 0x32Moon/cat - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 26
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 111
+★ Stars: 110
 
 [Open repository](https://github.com/0x32Moon/cat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 110 | 29 | 
 | 2022-10-24 | 111 | 28 | 
 | 2022-10-23 | 111 | 28 | 
 | 2022-10-22 | 111 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 109 | 27 | 
 | 2022-09-27 | 109 | 27 | 
 | 2022-09-26 | 109 | 27 | 
-| 2022-09-25 | 109 | 27 | 
 

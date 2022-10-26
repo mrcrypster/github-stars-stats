@@ -1,10 +1,10 @@
 # jaspervdj/hakyll - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 409
+☋ Forks: 410
 
-★ Stars: 2513
+★ Stars: 2514
 
 [Open repository](https://github.com/jaspervdj/hakyll)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 2514 | 410 | 
 | 2022-10-24 | 2513 | 409 | 
 | 2022-10-23 | 2513 | 409 | 
 | 2022-10-22 | 2512 | 409 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 2495 | 409 | 
 | 2022-09-27 | 2495 | 409 | 
 | 2022-09-26 | 2495 | 409 | 
-| 2022-09-25 | 2496 | 409 | 
 

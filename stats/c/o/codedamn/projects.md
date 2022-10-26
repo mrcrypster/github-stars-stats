@@ -1,10 +1,10 @@
 # codedamn/projects - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 172
+☋ Forks: 175
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/codedamn/projects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 99 | 175 | 
 | 2022-10-24 | 97 | 172 | 
 | 2022-10-23 | 96 | 169 | 
 | 2022-10-22 | 96 | 167 | 

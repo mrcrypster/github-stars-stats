@@ -1,8 +1,8 @@
 # ignite-hq/cli - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 423
+☋ Forks: 424
 
 ★ Stars: 940
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 940 | 424 | 
 | 2022-10-24 | 940 | 423 | 
 | 2022-10-23 | 939 | 422 | 
 | 2022-10-22 | 938 | 421 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 920 | 406 | 
 | 2022-09-27 | 919 | 406 | 
 | 2022-09-26 | 918 | 405 | 
-| 2022-09-25 | 918 | 405 | 
 

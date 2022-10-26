@@ -1,8 +1,8 @@
 # StartBootstrap/startbootstrap-landing-page - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1624
+☋ Forks: 1623
 
 ★ Stars: 1438
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1438 | 1623 | 
 | 2022-10-24 | 1438 | 1624 | 
 | 2022-10-23 | 1438 | 1624 | 
 | 2022-10-22 | 1437 | 1625 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1428 | 1624 | 
 | 2022-09-27 | 1427 | 1623 | 
 | 2022-09-26 | 1427 | 1623 | 
-| 2022-09-25 | 1427 | 1623 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 25
 
 ☋ Forks: 6
 
-★ Stars: 111
+★ Stars: 114
 
 [Open repository](https://github.com/alexjustesen/speedtest-tracker)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-25 | 111 | 6 | 
+| 2022-10-25 | 114 | 6 | 
 | 2022-10-24 | 111 | 6 | 
 

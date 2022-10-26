@@ -1,10 +1,10 @@
 # illa-family/illa-builder - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 28
+☋ Forks: 27
 
-★ Stars: 475
+★ Stars: 476
 
 [Open repository](https://github.com/illa-family/illa-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 476 | 27 | 
 | 2022-10-24 | 475 | 28 | 
 | 2022-10-23 | 476 | 28 | 
 | 2022-10-22 | 476 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 376 | 12 | 
 | 2022-09-27 | 362 | 10 | 
 | 2022-09-26 | 357 | 10 | 
-| 2022-09-25 | 356 | 10 | 
 

@@ -1,10 +1,10 @@
 # JoshuaSullivan/SimplexNoiseFilter - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/JoshuaSullivan/SimplexNoiseFilter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 29 | 2 | 
 | 2022-10-24 | 28 | 2 | 
 | 2022-10-23 | 28 | 2 | 
 | 2022-10-22 | 28 | 2 | 

@@ -1,10 +1,10 @@
 # chengshiwen/influxdb-cluster - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 74
 
-★ Stars: 476
+★ Stars: 477
 
 [Open repository](https://github.com/chengshiwen/influxdb-cluster)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 477 | 74 | 
 | 2022-10-24 | 476 | 74 | 
 | 2022-10-23 | 475 | 74 | 
 | 2022-10-22 | 474 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 465 | 70 | 
 | 2022-09-27 | 465 | 70 | 
 | 2022-09-26 | 464 | 70 | 
-| 2022-09-25 | 444 | 70 | 
 

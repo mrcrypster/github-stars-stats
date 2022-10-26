@@ -1,10 +1,10 @@
 # git-lfs/git-lfs - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 2034
 
-★ Stars: 10761
+★ Stars: 10763
 
 [Open repository](https://github.com/git-lfs/git-lfs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 10763 | 2034 | 
 | 2022-10-24 | 10761 | 2034 | 
 | 2022-10-23 | 10759 | 2035 | 
 | 2022-10-22 | 10756 | 2034 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 10692 | 2024 | 
 | 2022-09-28 | 10689 | 2024 | 
 | 2022-09-27 | 10687 | 2024 | 
-| 2022-09-26 | 10685 | 2023 | 
 

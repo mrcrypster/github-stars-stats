@@ -1,10 +1,10 @@
 # LeventErkok/sbv - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 25
 
-★ Stars: 185
+★ Stars: 186
 
 [Open repository](https://github.com/LeventErkok/sbv)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 186 | 25 | 
 | 2022-10-24 | 185 | 25 | 
 | 2022-10-23 | 185 | 25 | 
 | 2022-10-22 | 185 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 180 | 25 | 
 | 2022-09-27 | 180 | 25 | 
 | 2022-09-26 | 180 | 25 | 
-| 2022-09-25 | 180 | 25 | 
 

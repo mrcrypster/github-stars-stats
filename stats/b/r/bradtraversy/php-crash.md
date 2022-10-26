@@ -1,10 +1,10 @@
 # bradtraversy/php-crash - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 213
+☋ Forks: 214
 
-★ Stars: 251
+★ Stars: 253
 
 [Open repository](https://github.com/bradtraversy/php-crash)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 253 | 214 | 
 | 2022-10-24 | 251 | 213 | 
 | 2022-10-23 | 251 | 212 | 
 | 2022-10-22 | 251 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 230 | 193 | 
 | 2022-09-27 | 230 | 194 | 
 | 2022-09-26 | 230 | 194 | 
-| 2022-09-25 | 230 | 192 | 
 

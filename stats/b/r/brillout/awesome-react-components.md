@@ -1,10 +1,10 @@
 # brillout/awesome-react-components - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 2826
+☋ Forks: 2829
 
-★ Stars: 32818
+★ Stars: 32829
 
 [Open repository](https://github.com/brillout/awesome-react-components)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 32829 | 2829 | 
 | 2022-10-24 | 32818 | 2826 | 
 | 2022-10-23 | 32796 | 2826 | 
 | 2022-10-22 | 32782 | 2825 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 32436 | 2805 | 
 | 2022-09-27 | 32411 | 2803 | 
 | 2022-09-26 | 32397 | 2803 | 
-| 2022-09-25 | 32386 | 2802 | 
 

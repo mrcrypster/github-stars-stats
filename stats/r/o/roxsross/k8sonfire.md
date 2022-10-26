@@ -1,10 +1,10 @@
 # roxsross/k8sonfire - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 9
+☋ Forks: 12
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/roxsross/k8sonfire)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 15 | 12 | 
 | 2022-10-24 | 13 | 9 | 
 | 2022-10-23 | 11 | 9 | 
 

@@ -1,10 +1,10 @@
 # invertase/react-native-firebase - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 2065
+☋ Forks: 2066
 
-★ Stars: 10390
+★ Stars: 10393
 
 [Open repository](https://github.com/invertase/react-native-firebase)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 10393 | 2066 | 
 | 2022-10-24 | 10390 | 2065 | 
 | 2022-10-23 | 10390 | 2065 | 
 | 2022-10-22 | 10385 | 2065 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 10328 | 2059 | 
 | 2022-09-27 | 10328 | 2059 | 
 | 2022-09-26 | 10324 | 2059 | 
-| 2022-09-25 | 10324 | 2058 | 
 

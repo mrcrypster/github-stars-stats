@@ -1,10 +1,10 @@
 # ahrm/UnstableFusion - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 44
 
-★ Stars: 856
+★ Stars: 857
 
 [Open repository](https://github.com/ahrm/UnstableFusion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 857 | 44 | 
 | 2022-10-24 | 856 | 44 | 
 | 2022-10-23 | 852 | 43 | 
 | 2022-10-22 | 849 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 644 | 29 | 
 | 2022-09-27 | 574 | 23 | 
 | 2022-09-26 | 387 | 19 | 
-| 2022-09-25 | 279 | 15 | 
 

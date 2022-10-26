@@ -1,10 +1,10 @@
 # tmrts/go-patterns - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1900
+☋ Forks: 1901
 
-★ Stars: 20315
+★ Stars: 20324
 
 [Open repository](https://github.com/tmrts/go-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 20324 | 1901 | 
 | 2022-10-24 | 20315 | 1900 | 
 | 2022-10-23 | 20304 | 1897 | 
 | 2022-10-22 | 20296 | 1896 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 20120 | 1877 | 
 | 2022-09-28 | 20110 | 1874 | 
 | 2022-09-27 | 20105 | 1874 | 
-| 2022-09-26 | 20102 | 1874 | 
 

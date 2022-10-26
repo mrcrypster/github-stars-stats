@@ -1,6 +1,6 @@
 # bodil/vgtk - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 988 | 34 | 
 | 2022-10-24 | 988 | 34 | 
 | 2022-10-23 | 988 | 34 | 
 | 2022-10-22 | 988 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 982 | 33 | 
 | 2022-09-27 | 982 | 33 | 
 | 2022-09-26 | 982 | 33 | 
-| 2022-09-25 | 982 | 33 | 
 

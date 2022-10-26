@@ -1,6 +1,6 @@
 # IIC2233/Syllabus - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 85 | 57 | 
 | 2022-10-24 | 85 | 57 | 
 | 2022-10-23 | 85 | 57 | 
 | 2022-10-22 | 85 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 79 | 45 | 
 | 2022-09-27 | 78 | 45 | 
 | 2022-09-26 | 77 | 45 | 
-| 2022-09-25 | 77 | 45 | 
 

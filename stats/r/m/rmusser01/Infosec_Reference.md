@@ -1,8 +1,8 @@
 # rmusser01/Infosec_Reference - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1096
+☋ Forks: 1097
 
 ★ Stars: 4588
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 4588 | 1097 | 
 | 2022-10-24 | 4588 | 1096 | 
 | 2022-10-23 | 4581 | 1094 | 
 | 2022-10-22 | 4581 | 1094 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 4541 | 1084 | 
 | 2022-09-27 | 4539 | 1084 | 
 | 2022-09-26 | 4539 | 1084 | 
-| 2022-09-25 | 4539 | 1084 | 
 

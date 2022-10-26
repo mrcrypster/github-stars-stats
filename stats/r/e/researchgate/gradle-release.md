@@ -1,10 +1,10 @@
 # researchgate/gradle-release - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 218
 
-★ Stars: 795
+★ Stars: 796
 
 [Open repository](https://github.com/researchgate/gradle-release)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 796 | 218 | 
 | 2022-10-24 | 795 | 218 | 
 | 2022-10-23 | 795 | 218 | 
 | 2022-10-22 | 795 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 789 | 217 | 
 | 2022-09-27 | 788 | 218 | 
 | 2022-09-26 | 788 | 218 | 
-| 2022-09-25 | 788 | 218 | 
 

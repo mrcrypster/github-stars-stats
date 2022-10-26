@@ -1,8 +1,8 @@
 # Freescale/meta-freescale - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 186
+☋ Forks: 187
 
 ★ Stars: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 125 | 187 | 
 | 2022-10-24 | 125 | 186 | 
 | 2022-10-23 | 125 | 186 | 
 | 2022-10-22 | 125 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 124 | 184 | 
 | 2022-09-27 | 124 | 184 | 
 | 2022-09-26 | 124 | 184 | 
-| 2022-09-25 | 124 | 184 | 
 

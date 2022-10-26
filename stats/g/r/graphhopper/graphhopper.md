@@ -1,10 +1,10 @@
 # graphhopper/graphhopper - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1327
+☋ Forks: 1326
 
-★ Stars: 3860
+★ Stars: 3862
 
 [Open repository](https://github.com/graphhopper/graphhopper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 3862 | 1326 | 
 | 2022-10-24 | 3860 | 1327 | 
 | 2022-10-23 | 3859 | 1328 | 
 | 2022-10-22 | 3858 | 1329 | 

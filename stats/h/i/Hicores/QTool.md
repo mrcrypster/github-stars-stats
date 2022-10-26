@@ -1,6 +1,6 @@
 # Hicores/QTool - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 272 | 62 | 
 | 2022-10-24 | 272 | 62 | 
 | 2022-10-23 | 274 | 62 | 
 | 2022-10-22 | 273 | 62 | 

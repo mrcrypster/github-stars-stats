@@ -1,8 +1,8 @@
 # cosmos/ibc - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 233
+☋ Forks: 235
 
 ★ Stars: 656
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 656 | 235 | 
 | 2022-10-24 | 656 | 233 | 
 | 2022-10-23 | 655 | 233 | 
 | 2022-10-22 | 655 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 634 | 221 | 
 | 2022-09-27 | 633 | 221 | 
 | 2022-09-26 | 633 | 221 | 
-| 2022-09-25 | 632 | 221 | 
 

@@ -1,6 +1,6 @@
 # apache/openwhisk - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 1115
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5818 | 1115 | 
 | 2022-10-24 | 5818 | 1115 | 
 | 2022-10-23 | 5817 | 1114 | 
 | 2022-10-22 | 5817 | 1114 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5793 | 1106 | 
 | 2022-09-27 | 5792 | 1107 | 
 | 2022-09-26 | 5791 | 1108 | 
-| 2022-09-25 | 5790 | 1108 | 
 

@@ -1,6 +1,6 @@
 # KaliYuga-ai/Pixel-Art-Diffusion - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 289 | 32 | 
 | 2022-10-24 | 289 | 32 | 
 | 2022-10-23 | 289 | 32 | 
 | 2022-10-22 | 289 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 277 | 31 | 
 | 2022-09-27 | 277 | 31 | 
 | 2022-09-26 | 276 | 31 | 
-| 2022-09-25 | 276 | 31 | 
 

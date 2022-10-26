@@ -1,10 +1,10 @@
 # juliangarnier/anime - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 3579
+☋ Forks: 3580
 
-★ Stars: 43512
+★ Stars: 43526
 
 [Open repository](https://github.com/juliangarnier/anime)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 43526 | 3580 | 
 | 2022-10-24 | 43512 | 3579 | 
 | 2022-10-23 | 43504 | 3578 | 
 | 2022-10-22 | 43490 | 3576 | 

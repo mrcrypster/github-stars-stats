@@ -1,10 +1,10 @@
 # jvm-profiling-tools/async-profiler - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 639
 
-★ Stars: 5507
+★ Stars: 5509
 
 [Open repository](https://github.com/jvm-profiling-tools/async-profiler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5509 | 639 | 
 | 2022-10-24 | 5507 | 639 | 
 | 2022-10-23 | 5503 | 638 | 
 | 2022-10-22 | 5501 | 638 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5430 | 631 | 
 | 2022-09-27 | 5427 | 632 | 
 | 2022-09-26 | 5427 | 632 | 
-| 2022-09-25 | 5426 | 629 | 
 

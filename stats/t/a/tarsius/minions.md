@@ -1,6 +1,6 @@
 # tarsius/minions - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 216 | 12 | 
 | 2022-10-25 | 216 | 12 | 
 | 2022-10-24 | 216 | 12 | 
 | 2022-10-23 | 216 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 213 | 12 | 
 | 2022-09-27 | 212 | 12 | 
 | 2022-09-26 | 211 | 12 | 
-| 2022-09-25 | 211 | 12 | 
 

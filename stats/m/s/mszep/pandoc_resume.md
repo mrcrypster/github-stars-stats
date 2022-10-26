@@ -1,6 +1,6 @@
 # mszep/pandoc_resume - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 682
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1337 | 682 | 
 | 2022-10-24 | 1337 | 682 | 
 | 2022-10-23 | 1337 | 683 | 
 | 2022-10-22 | 1335 | 683 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1325 | 678 | 
 | 2022-09-27 | 1325 | 678 | 
 | 2022-09-26 | 1325 | 678 | 
-| 2022-09-25 | 1325 | 678 | 
 

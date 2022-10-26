@@ -1,10 +1,10 @@
 # proofofsoulprotocol/smart-contract-wallet-4337 - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/proofofsoulprotocol/smart-contract-wallet-4337)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 78 | 15 | 
 | 2022-10-24 | 76 | 14 | 
 | 2022-10-23 | 76 | 14 | 
 | 2022-10-22 | 75 | 14 | 

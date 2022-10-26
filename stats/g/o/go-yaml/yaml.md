@@ -1,10 +1,10 @@
 # go-yaml/yaml - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 942
 
-★ Stars: 5967
+★ Stars: 5972
 
 [Open repository](https://github.com/go-yaml/yaml)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5972 | 942 | 
 | 2022-10-24 | 5967 | 942 | 
 | 2022-10-23 | 5959 | 941 | 
 | 2022-10-22 | 5957 | 940 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5920 | 935 | 
 | 2022-09-27 | 5920 | 935 | 
 | 2022-09-26 | 5919 | 935 | 
-| 2022-09-25 | 5918 | 937 | 
 

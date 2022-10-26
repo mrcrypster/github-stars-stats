@@ -1,10 +1,10 @@
 # iron-fish/ironfish - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 339
 
-★ Stars: 685
+★ Stars: 686
 
 [Open repository](https://github.com/iron-fish/ironfish)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 686 | 339 | 
 | 2022-10-25 | 685 | 339 | 
 | 2022-10-24 | 683 | 339 | 
 | 2022-10-23 | 681 | 338 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 670 | 298 | 
 | 2022-09-27 | 670 | 298 | 
 | 2022-09-26 | 669 | 296 | 
-| 2022-09-25 | 669 | 296 | 
 

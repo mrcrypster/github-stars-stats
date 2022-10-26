@@ -1,6 +1,6 @@
 # greymatter-io/greymatter-core - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 3
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 3 | 3 | 
 | 2022-10-24 | 3 | 3 | 
 

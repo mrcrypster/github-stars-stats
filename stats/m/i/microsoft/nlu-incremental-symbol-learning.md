@@ -1,10 +1,10 @@
 # microsoft/nlu-incremental-symbol-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 1
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/microsoft/nlu-incremental-symbol-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 9 | 1 | 
 | 2022-10-24 | 8 | 1 | 
 | 2022-10-23 | 7 | 1 | 
 | 2022-10-22 | 7 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 4 | 1 | 
 | 2022-09-27 | 4 | 1 | 
 | 2022-09-26 | 4 | 1 | 
-| 2022-09-25 | 4 | 1 | 
 

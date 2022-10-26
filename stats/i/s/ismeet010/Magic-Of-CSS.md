@@ -1,10 +1,10 @@
 # ismeet010/Magic-Of-CSS - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 33
+☋ Forks: 34
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/ismeet010/Magic-Of-CSS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 7 | 34 | 
 | 2022-10-24 | 6 | 33 | 
 | 2022-10-23 | 6 | 33 | 
 | 2022-10-22 | 6 | 33 | 

@@ -1,10 +1,10 @@
 # ringabout/awesome-nim - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 32
 
-★ Stars: 467
+★ Stars: 468
 
 [Open repository](https://github.com/ringabout/awesome-nim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 468 | 32 | 
 | 2022-10-24 | 467 | 32 | 
 | 2022-10-23 | 467 | 32 | 
 | 2022-10-22 | 465 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 447 | 32 | 
 | 2022-09-27 | 446 | 32 | 
 | 2022-09-26 | 445 | 32 | 
-| 2022-09-25 | 443 | 32 | 
 

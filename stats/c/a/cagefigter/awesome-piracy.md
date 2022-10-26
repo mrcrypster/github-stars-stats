@@ -1,6 +1,6 @@
 # cagefigter/awesome-piracy - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 269 | 47 | 
 | 2022-10-24 | 269 | 47 | 
 | 2022-10-23 | 269 | 47 | 
 | 2022-10-22 | 269 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 263 | 48 | 
 | 2022-09-27 | 263 | 48 | 
 | 2022-09-26 | 264 | 48 | 
-| 2022-09-25 | 264 | 48 | 
 

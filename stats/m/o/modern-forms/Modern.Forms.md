@@ -1,6 +1,6 @@
 # modern-forms/Modern.Forms - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 583 | 35 | 
 | 2022-10-24 | 583 | 35 | 
 | 2022-10-23 | 583 | 35 | 
 | 2022-10-22 | 582 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 563 | 34 | 
 | 2022-09-27 | 557 | 34 | 
 | 2022-09-26 | 555 | 34 | 
-| 2022-09-25 | 550 | 34 | 
 

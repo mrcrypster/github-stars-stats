@@ -1,10 +1,10 @@
 # plotly/Kaleido - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 19
 
-★ Stars: 250
+★ Stars: 251
 
 [Open repository](https://github.com/plotly/Kaleido)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 251 | 19 | 
 | 2022-10-24 | 250 | 19 | 
 | 2022-10-23 | 250 | 19 | 
 | 2022-10-22 | 250 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 247 | 18 | 
 | 2022-09-27 | 247 | 18 | 
 | 2022-09-26 | 247 | 18 | 
-| 2022-09-25 | 246 | 18 | 
 

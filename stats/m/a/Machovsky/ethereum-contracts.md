@@ -1,6 +1,6 @@
 # Machovsky/ethereum-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 237 | 2 | 
 | 2022-10-24 | 237 | 2 | 
 | 2022-10-23 | 237 | 2 | 
 | 2022-10-22 | 237 | 2 | 

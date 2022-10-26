@@ -1,10 +1,10 @@
 # rhobs/configuration - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 42
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/rhobs/configuration)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 21 | 42 | 
 | 2022-10-24 | 20 | 42 | 
 | 2022-10-23 | 20 | 41 | 
 | 2022-10-22 | 20 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 19 | 39 | 
 | 2022-09-27 | 19 | 39 | 
 | 2022-09-26 | 19 | 39 | 
-| 2022-09-25 | 19 | 39 | 
 

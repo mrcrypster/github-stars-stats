@@ -1,8 +1,8 @@
 # Hax4us/Nethunter-In-Termux - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 292
+☋ Forks: 293
 
 ★ Stars: 1505
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1505 | 293 | 
 | 2022-10-24 | 1505 | 292 | 
 | 2022-10-23 | 1503 | 292 | 
 | 2022-10-22 | 1502 | 292 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1470 | 289 | 
 | 2022-09-27 | 1469 | 289 | 
 | 2022-09-26 | 1467 | 289 | 
-| 2022-09-25 | 1467 | 289 | 
 

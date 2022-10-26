@@ -1,10 +1,10 @@
 # ankane/searchkick - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 725
+☋ Forks: 726
 
-★ Stars: 6034
+★ Stars: 6036
 
 [Open repository](https://github.com/ankane/searchkick)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 6036 | 726 | 
 | 2022-10-24 | 6034 | 725 | 
 | 2022-10-23 | 6034 | 725 | 
 | 2022-10-22 | 6034 | 725 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 6012 | 724 | 
 | 2022-09-27 | 6012 | 724 | 
 | 2022-09-26 | 6012 | 724 | 
-| 2022-09-25 | 6012 | 724 | 
 

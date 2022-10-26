@@ -1,10 +1,10 @@
 # jenkinsci/docker-inbound-agent - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 510
+☋ Forks: 511
 
-★ Stars: 430
+★ Stars: 431
 
 [Open repository](https://github.com/jenkinsci/docker-inbound-agent)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 431 | 511 | 
 | 2022-10-24 | 430 | 510 | 
 | 2022-10-23 | 430 | 510 | 
 | 2022-10-22 | 430 | 510 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 428 | 507 | 
 | 2022-09-27 | 428 | 507 | 
 | 2022-09-26 | 428 | 507 | 
-| 2022-09-25 | 428 | 507 | 
 

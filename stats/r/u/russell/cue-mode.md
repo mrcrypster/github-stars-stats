@@ -1,6 +1,6 @@
 # russell/cue-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 8 | 2 | 
 | 2022-10-25 | 8 | 2 | 
 | 2022-10-24 | 8 | 2 | 
 | 2022-10-23 | 8 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 6 | 2 | 
 | 2022-09-27 | 6 | 2 | 
 | 2022-09-26 | 6 | 2 | 
-| 2022-09-25 | 6 | 2 | 
 

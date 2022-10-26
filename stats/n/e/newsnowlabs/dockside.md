@@ -1,6 +1,6 @@
 # newsnowlabs/dockside - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 199 | 13 | 
 | 2022-10-25 | 199 | 13 | 
 | 2022-10-24 | 199 | 13 | 
 | 2022-10-23 | 199 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 196 | 11 | 
 | 2022-09-27 | 195 | 11 | 
 | 2022-09-26 | 194 | 11 | 
-| 2022-09-25 | 194 | 11 | 
 

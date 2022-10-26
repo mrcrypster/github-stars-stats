@@ -1,10 +1,10 @@
 # josedom24/curso_programacion - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 51
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/josedom24/curso_programacion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 43 | 51 | 
 | 2022-10-24 | 42 | 51 | 
 | 2022-10-23 | 42 | 51 | 
 | 2022-10-22 | 42 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 44 | 49 | 
 | 2022-09-27 | 44 | 48 | 
 | 2022-09-26 | 44 | 48 | 
-| 2022-09-25 | 44 | 48 | 
 

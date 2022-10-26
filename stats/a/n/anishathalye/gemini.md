@@ -1,6 +1,6 @@
 # anishathalye/gemini - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 731 | 137 | 
 | 2022-10-24 | 731 | 137 | 
 | 2022-10-23 | 732 | 137 | 
 | 2022-10-22 | 732 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 727 | 137 | 
 | 2022-09-27 | 727 | 137 | 
 | 2022-09-26 | 726 | 137 | 
-| 2022-09-25 | 727 | 137 | 
 

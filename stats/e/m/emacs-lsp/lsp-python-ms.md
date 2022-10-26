@@ -1,6 +1,6 @@
 # emacs-lsp/lsp-python-ms - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 185 | 41 | 
 | 2022-10-25 | 185 | 41 | 
 | 2022-10-24 | 185 | 41 | 
 | 2022-10-23 | 185 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 185 | 41 | 
 | 2022-09-27 | 185 | 41 | 
 | 2022-09-26 | 185 | 41 | 
-| 2022-09-25 | 185 | 41 | 
 

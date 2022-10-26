@@ -1,8 +1,8 @@
 # PHPCompatibility/PHPCompatibility - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 167
+☋ Forks: 168
 
 ★ Stars: 1856
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1856 | 168 | 
 | 2022-10-24 | 1856 | 167 | 
 | 2022-10-23 | 1856 | 167 | 
 | 2022-10-22 | 1856 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1842 | 166 | 
 | 2022-09-27 | 1841 | 166 | 
 | 2022-09-26 | 1839 | 166 | 
-| 2022-09-25 | 1839 | 165 | 
 

@@ -1,8 +1,8 @@
 # castwide/solargraph - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 121
+☋ Forks: 122
 
 ★ Stars: 1631
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1631 | 122 | 
 | 2022-10-24 | 1631 | 121 | 
 | 2022-10-23 | 1631 | 121 | 
 | 2022-10-22 | 1630 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1615 | 118 | 
 | 2022-09-27 | 1615 | 118 | 
 | 2022-09-26 | 1612 | 118 | 
-| 2022-09-25 | 1612 | 118 | 
 

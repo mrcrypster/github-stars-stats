@@ -1,6 +1,6 @@
 # Jamalianpour/time_planner - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 134 | 27 | 
 | 2022-10-24 | 134 | 27 | 
 | 2022-10-23 | 134 | 27 | 
 | 2022-10-22 | 134 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 133 | 25 | 
 | 2022-09-28 | 132 | 25 | 
 | 2022-09-27 | 132 | 25 | 
-| 2022-09-26 | 131 | 24 | 
 

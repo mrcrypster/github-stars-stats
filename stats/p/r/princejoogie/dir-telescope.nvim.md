@@ -1,10 +1,10 @@
 # princejoogie/dir-telescope.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 0
 
-★ Stars: 38
+★ Stars: 56
 
 [Open repository](https://github.com/princejoogie/dir-telescope.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 56 | - | 
 | 2022-10-24 | 38 | - | 
 | 2022-10-23 | 37 | - | 
 | 2022-10-22 | 37 | - | 

@@ -1,8 +1,8 @@
 # HarmonyHoney/CandyWrapper - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 33 | 2 | 
 | 2022-10-24 | 33 | 1 | 
 | 2022-10-23 | 32 | 1 | 
 | 2022-10-22 | 32 | 1 | 

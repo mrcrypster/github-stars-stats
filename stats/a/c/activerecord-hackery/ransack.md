@@ -1,10 +1,10 @@
 # activerecord-hackery/ransack - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 754
+☋ Forks: 753
 
-★ Stars: 5264
+★ Stars: 5266
 
 [Open repository](https://github.com/activerecord-hackery/ransack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 5266 | 753 | 
 | 2022-10-24 | 5264 | 754 | 
 | 2022-10-23 | 5264 | 754 | 
 | 2022-10-22 | 5264 | 754 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 5248 | 751 | 
 | 2022-09-27 | 5249 | 751 | 
 | 2022-09-26 | 5247 | 751 | 
-| 2022-09-25 | 5247 | 751 | 
 

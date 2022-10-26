@@ -1,10 +1,10 @@
 # ShaderCamp/shader_prototyping_2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 6
+☋ Forks: 11
 
-★ Stars: 25
+★ Stars: 41
 
 [Open repository](https://github.com/ShaderCamp/shader_prototyping_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 41 | 11 | 
 | 2022-10-24 | 25 | 6 | 
 | 2022-10-23 | 12 | 3 | 
 | 2022-10-22 | 12 | 3 | 

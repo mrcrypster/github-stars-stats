@@ -1,8 +1,8 @@
 # owlbarn/owl - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 109
+☋ Forks: 110
 
 ★ Stars: 1044
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1044 | 110 | 
 | 2022-10-24 | 1044 | 109 | 
 | 2022-10-23 | 1044 | 109 | 
 | 2022-10-22 | 1044 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 1034 | 106 | 
 | 2022-09-28 | 1034 | 106 | 
 | 2022-09-27 | 1034 | 106 | 
-| 2022-09-26 | 1034 | 106 | 
 

@@ -1,10 +1,10 @@
 # Laravel-Lang/lang - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 3083
+☋ Forks: 3084
 
-★ Stars: 6810
+★ Stars: 6813
 
 [Open repository](https://github.com/Laravel-Lang/lang)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 6813 | 3084 | 
 | 2022-10-24 | 6810 | 3083 | 
 | 2022-10-23 | 6809 | 3084 | 
 | 2022-10-22 | 6807 | 3083 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 6782 | 3078 | 
 | 2022-09-27 | 6781 | 3079 | 
 | 2022-09-26 | 6780 | 3074 | 
-| 2022-09-25 | 6781 | 3074 | 
 

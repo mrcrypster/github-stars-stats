@@ -1,10 +1,10 @@
 # pedrommcarrasco/Brooklyn - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 242
 
-★ Stars: 5211
+★ Stars: 5212
 
 [Open repository](https://github.com/pedrommcarrasco/Brooklyn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 5212 | 242 | 
 | 2022-10-25 | 5211 | 242 | 
 | 2022-10-24 | 5209 | 242 | 
 | 2022-10-23 | 5208 | 242 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-28 | 5197 | 243 | 
 | 2022-09-27 | 5196 | 243 | 
 | 2022-09-26 | 5195 | 243 | 
-| 2022-09-25 | 5196 | 244 | 
 

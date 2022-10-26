@@ -1,6 +1,6 @@
 # rarnu/golcl - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 82 | 16 | 
 | 2022-10-24 | 82 | 16 | 
 | 2022-10-23 | 82 | 16 | 
 | 2022-10-22 | 82 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 83 | 16 | 
 | 2022-09-27 | 83 | 16 | 
 | 2022-09-26 | 83 | 16 | 
-| 2022-09-25 | 83 | 16 | 
 

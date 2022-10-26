@@ -1,6 +1,6 @@
 # debasishg/tradeioZ2 - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 46 | 12 | 
 | 2022-10-24 | 46 | 12 | 
 | 2022-10-23 | 46 | 12 | 
 | 2022-10-22 | 47 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-29 | 45 | 12 | 
 | 2022-09-28 | 45 | 12 | 
 | 2022-09-26 | 44 | 12 | 
-| 2022-09-25 | 44 | 12 | 
 

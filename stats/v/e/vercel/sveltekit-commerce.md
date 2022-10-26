@@ -1,10 +1,10 @@
 # vercel/sveltekit-commerce - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 19
 
-★ Stars: 184
+★ Stars: 185
 
 [Open repository](https://github.com/vercel/sveltekit-commerce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 185 | 19 | 
 | 2022-10-24 | 184 | 19 | 
 | 2022-10-23 | 184 | 18 | 
 | 2022-10-22 | 183 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 174 | 17 | 
 | 2022-09-27 | 174 | 17 | 
 | 2022-09-26 | 173 | 17 | 
-| 2022-09-25 | 173 | 17 | 
 

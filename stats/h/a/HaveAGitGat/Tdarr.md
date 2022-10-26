@@ -1,10 +1,10 @@
 # HaveAGitGat/Tdarr - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 68
 
-★ Stars: 1707
+★ Stars: 1711
 
 [Open repository](https://github.com/HaveAGitGat/Tdarr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 1711 | 68 | 
 | 2022-10-24 | 1707 | 68 | 
 | 2022-10-23 | 1705 | 68 | 
 | 2022-10-22 | 1703 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 1654 | 67 | 
 | 2022-09-27 | 1654 | 67 | 
 | 2022-09-26 | 1651 | 67 | 
-| 2022-09-25 | 1646 | 67 | 
 

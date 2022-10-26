@@ -1,6 +1,6 @@
 # ilovexjp/trip-card - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 423 | 61 | 
 | 2022-10-24 | 423 | 61 | 
 | 2022-10-23 | 417 | 60 | 
 | 2022-10-22 | 417 | 60 | 

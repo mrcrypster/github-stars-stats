@@ -1,10 +1,10 @@
 # demisto/content - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
-☋ Forks: 1182
+☋ Forks: 1185
 
-★ Stars: 863
+★ Stars: 866
 
 [Open repository](https://github.com/demisto/content)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 866 | 1185 | 
 | 2022-10-24 | 863 | 1182 | 
 | 2022-10-23 | 863 | 1180 | 
 | 2022-10-22 | 863 | 1180 | 

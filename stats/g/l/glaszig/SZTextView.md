@@ -1,6 +1,6 @@
 # glaszig/SZTextView - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 678 | 102 | 
 | 2022-10-24 | 678 | 102 | 
 | 2022-10-23 | 678 | 102 | 
 | 2022-10-22 | 678 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 678 | 102 | 
 | 2022-09-27 | 678 | 102 | 
 | 2022-09-26 | 678 | 102 | 
-| 2022-09-25 | 678 | 102 | 
 

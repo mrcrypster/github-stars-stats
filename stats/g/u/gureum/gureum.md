@@ -1,10 +1,10 @@
 # gureum/gureum - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 121
 
-★ Stars: 739
+★ Stars: 740
 
 [Open repository](https://github.com/gureum/gureum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 740 | 121 | 
 | 2022-10-24 | 739 | 121 | 
 | 2022-10-23 | 739 | 121 | 
 | 2022-10-22 | 739 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 734 | 121 | 
 | 2022-09-27 | 734 | 121 | 
 | 2022-09-26 | 734 | 121 | 
-| 2022-09-25 | 734 | 121 | 
 

@@ -1,6 +1,6 @@
 # tmuxinator/tmuxinator - stars & forks statistics
 
-Stats updated on Oct 2022, 24
+Stats updated on Oct 2022, 25
 
 ☋ Forks: 625
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 24
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-25 | 11619 | 625 | 
 | 2022-10-24 | 11619 | 625 | 
 | 2022-10-23 | 11615 | 625 | 
 | 2022-10-22 | 11615 | 625 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 24
 | 2022-09-28 | 11572 | 624 | 
 | 2022-09-27 | 11571 | 624 | 
 | 2022-09-26 | 11570 | 624 | 
-| 2022-09-25 | 11569 | 624 | 
 
