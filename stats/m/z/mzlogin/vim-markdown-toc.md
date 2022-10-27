@@ -1,6 +1,6 @@
 # mzlogin/vim-markdown-toc - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 519 | 56 | 
 | 2022-10-25 | 519 | 56 | 
 | 2022-10-24 | 518 | 56 | 
 | 2022-10-23 | 518 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 516 | 56 | 
 | 2022-09-28 | 516 | 56 | 
 | 2022-09-27 | 516 | 56 | 
-| 2022-09-26 | 516 | 56 | 
 

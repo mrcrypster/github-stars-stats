@@ -1,6 +1,6 @@
 # HZFE/awesome-interview - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 158
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 2025 | 158 | 
 | 2022-10-25 | 2025 | 158 | 
 | 2022-10-24 | 2024 | 158 | 
 | 2022-10-23 | 2024 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 2007 | 156 | 
 | 2022-09-28 | 2008 | 156 | 
 | 2022-09-27 | 2005 | 156 | 
-| 2022-09-26 | 2003 | 157 | 
 

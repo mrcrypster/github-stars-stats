@@ -1,8 +1,8 @@
 # sighingnow/jekyll-gitbook - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 523
+☋ Forks: 526
 
 ★ Stars: 243
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 243 | 526 | 
 | 2022-10-25 | 243 | 523 | 
 | 2022-10-24 | 243 | 521 | 
 | 2022-10-23 | 243 | 521 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 231 | 501 | 
 | 2022-09-28 | 230 | 502 | 
 | 2022-09-27 | 230 | 503 | 
-| 2022-09-26 | 229 | 501 | 
 

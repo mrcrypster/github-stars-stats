@@ -1,8 +1,8 @@
 # lambdaisland/kaocha - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 76
+☋ Forks: 77
 
 ★ Stars: 687
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 687 | 77 | 
 | 2022-10-25 | 687 | 76 | 
 | 2022-10-24 | 687 | 76 | 
 | 2022-10-23 | 687 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 684 | 73 | 
 | 2022-09-28 | 684 | 73 | 
 | 2022-09-27 | 684 | 73 | 
-| 2022-09-26 | 684 | 73 | 
 

@@ -1,8 +1,8 @@
 # dennyzhang/cheatsheet-kubernetes-A4 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 860
+☋ Forks: 859
 
 ★ Stars: 1655
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1655 | 859 | 
 | 2022-10-25 | 1655 | 860 | 
 | 2022-10-24 | 1655 | 859 | 
 | 2022-10-23 | 1655 | 859 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 1634 | 855 | 
 | 2022-09-29 | 1634 | 855 | 
 | 2022-09-28 | 1633 | 855 | 
-| 2022-09-27 | 1632 | 854 | 
 

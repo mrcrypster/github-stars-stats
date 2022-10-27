@@ -1,10 +1,10 @@
 # facebookresearch/shumai - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 11
 
-★ Stars: 512
+★ Stars: 515
 
 [Open repository](https://github.com/facebookresearch/shumai)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 515 | 11 | 
 | 2022-10-25 | 512 | 11 | 
 | 2022-10-24 | 513 | 11 | 
 | 2022-10-23 | 511 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 323 | 8 | 
 | 2022-09-28 | 322 | 8 | 
 | 2022-09-27 | 320 | 8 | 
-| 2022-09-26 | 319 | 8 | 
 

@@ -1,10 +1,10 @@
 # klauspost/reedsolomon - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 217
 
-★ Stars: 1548
+★ Stars: 1549
 
 [Open repository](https://github.com/klauspost/reedsolomon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1549 | 217 | 
 | 2022-10-25 | 1548 | 217 | 
 | 2022-10-24 | 1547 | 217 | 
 | 2022-10-23 | 1546 | 216 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1533 | 213 | 
 | 2022-09-28 | 1532 | 213 | 
 | 2022-09-27 | 1532 | 213 | 
-| 2022-09-26 | 1532 | 213 | 
 

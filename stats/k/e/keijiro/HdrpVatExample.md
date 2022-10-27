@@ -1,6 +1,6 @@
 # keijiro/HdrpVatExample - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 643 | 71 | 
 | 2022-10-25 | 643 | 71 | 
 | 2022-10-24 | 642 | 70 | 
 | 2022-10-23 | 642 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 638 | 71 | 
 | 2022-09-28 | 638 | 71 | 
 | 2022-09-27 | 638 | 71 | 
-| 2022-09-26 | 638 | 71 | 
 

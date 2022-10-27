@@ -1,10 +1,10 @@
 # eugenioclrc/DeFi-Security-Summit-Stanford - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 15
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 104 | 15 | 
 | 2022-10-25 | 103 | 15 | 
 | 2022-10-24 | 102 | 15 | 
 | 2022-10-23 | 102 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 93 | 12 | 
 | 2022-09-28 | 93 | 12 | 
 | 2022-09-27 | 93 | 12 | 
-| 2022-09-26 | 93 | 12 | 
 

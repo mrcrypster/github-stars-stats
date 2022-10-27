@@ -1,10 +1,10 @@
 # SHI-Labs/Neighborhood-Attention-Transformer - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 57
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 666 | 57 | 
 | 2022-10-25 | 665 | 57 | 
 | 2022-10-24 | 663 | 57 | 
 | 2022-10-23 | 654 | 57 | 

@@ -1,0 +1,17 @@
+# contino/docker-packer - stars & forks statistics
+
+Stats updated on Oct 2022, 26
+
+☋ Forks: 0
+
+★ Stars: 1
+
+[Open repository](https://github.com/contino/docker-packer)
+
+[Open detailed stats for contino/docker-packer](https://reviewgithub.com/rep/contino/docker-packer)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-26 | 1 | - | 
+

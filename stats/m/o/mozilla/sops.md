@@ -1,10 +1,10 @@
 # mozilla/sops - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 650
 
-★ Stars: 11101
+★ Stars: 11116
 
 [Open repository](https://github.com/mozilla/sops)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 11116 | 650 | 
 | 2022-10-25 | 11101 | 650 | 
 | 2022-10-24 | 11093 | 649 | 
 | 2022-10-23 | 11086 | 648 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 10788 | 645 | 
 | 2022-09-28 | 10782 | 645 | 
 | 2022-09-27 | 10780 | 645 | 
-| 2022-09-26 | 10774 | 645 | 
 

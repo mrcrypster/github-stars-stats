@@ -1,10 +1,10 @@
 # YidaozhanYa/NSEmuHelper - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 10
 
-★ Stars: 237
+★ Stars: 239
 
 [Open repository](https://github.com/YidaozhanYa/NSEmuHelper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 239 | 10 | 
 | 2022-10-25 | 237 | 10 | 
 | 2022-10-24 | 237 | 10 | 
 | 2022-10-23 | 236 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 235 | 10 | 
 | 2022-09-28 | 235 | 10 | 
 | 2022-09-27 | 235 | 10 | 
-| 2022-09-26 | 235 | 10 | 
 

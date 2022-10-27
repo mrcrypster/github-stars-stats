@@ -1,10 +1,10 @@
 # a327ex/SNKRX - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 156
 
-★ Stars: 1045
+★ Stars: 1047
 
 [Open repository](https://github.com/a327ex/SNKRX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1047 | 156 | 
 | 2022-10-26 | 1045 | 156 | 
 | 2022-10-25 | 1045 | 156 | 
 | 2022-10-24 | 1044 | 155 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 1037 | 153 | 
 | 2022-09-28 | 1037 | 153 | 
 | 2022-09-27 | 1036 | 153 | 
-| 2022-09-26 | 1035 | 153 | 
 

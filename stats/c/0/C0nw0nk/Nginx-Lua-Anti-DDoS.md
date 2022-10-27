@@ -1,6 +1,6 @@
 # C0nw0nk/Nginx-Lua-Anti-DDoS - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 213
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 695 | 213 | 
 | 2022-10-25 | 695 | 213 | 
 | 2022-10-24 | 693 | 213 | 
 | 2022-10-23 | 692 | 212 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 673 | 211 | 
 | 2022-09-28 | 670 | 211 | 
 | 2022-09-27 | 666 | 211 | 
-| 2022-09-26 | 663 | 211 | 
 

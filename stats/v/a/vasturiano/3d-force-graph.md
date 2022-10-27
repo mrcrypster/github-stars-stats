@@ -1,10 +1,10 @@
 # vasturiano/3d-force-graph - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 612
+☋ Forks: 613
 
-★ Stars: 3046
+★ Stars: 3054
 
 [Open repository](https://github.com/vasturiano/3d-force-graph)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3054 | 613 | 
 | 2022-10-25 | 3046 | 612 | 
 | 2022-10-24 | 3042 | 611 | 
 | 2022-10-23 | 3038 | 611 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 2987 | 609 | 
 | 2022-09-28 | 2984 | 609 | 
 | 2022-09-27 | 2981 | 608 | 
-| 2022-09-26 | 2977 | 608 | 
 

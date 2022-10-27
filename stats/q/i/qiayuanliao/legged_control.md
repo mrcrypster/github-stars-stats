@@ -1,8 +1,8 @@
 # qiayuanliao/legged_control - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 34
+☋ Forks: 35
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 171 | 35 | 
 | 2022-10-25 | 171 | 34 | 
 | 2022-10-24 | 170 | 34 | 
 | 2022-10-23 | 170 | 34 | 

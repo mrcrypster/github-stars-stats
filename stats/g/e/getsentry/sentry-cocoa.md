@@ -1,8 +1,8 @@
 # getsentry/sentry-cocoa - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 227
+☋ Forks: 228
 
 ★ Stars: 582
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 582 | 228 | 
 | 2022-10-25 | 582 | 227 | 
 | 2022-10-24 | 582 | 227 | 
 | 2022-10-23 | 582 | 227 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 575 | 224 | 
 | 2022-09-28 | 576 | 224 | 
 | 2022-09-27 | 576 | 224 | 
-| 2022-09-26 | 575 | 224 | 
 

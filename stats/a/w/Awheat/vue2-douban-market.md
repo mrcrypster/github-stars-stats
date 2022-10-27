@@ -1,8 +1,8 @@
 # Awheat/vue2-douban-market - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 182
+☋ Forks: 183
 
 ★ Stars: 800
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 800 | 183 | 
 | 2022-10-25 | 800 | 182 | 
 | 2022-10-24 | 799 | 182 | 
 | 2022-10-23 | 798 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 789 | 180 | 
 | 2022-09-28 | 788 | 180 | 
 | 2022-09-27 | 788 | 180 | 
-| 2022-09-26 | 786 | 180 | 
 

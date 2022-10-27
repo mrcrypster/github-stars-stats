@@ -1,10 +1,10 @@
 # samyk/magspoof - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 570
 
-★ Stars: 3152
+★ Stars: 3154
 
 [Open repository](https://github.com/samyk/magspoof)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3154 | 570 | 
 | 2022-10-25 | 3152 | 570 | 
 | 2022-10-24 | 3149 | 569 | 
 | 2022-10-23 | 3148 | 569 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 3131 | 567 | 
 | 2022-09-29 | 3130 | 567 | 
 | 2022-09-28 | 3129 | 567 | 
-| 2022-09-27 | 3128 | 567 | 
 

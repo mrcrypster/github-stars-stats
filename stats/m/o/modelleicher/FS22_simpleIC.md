@@ -1,6 +1,6 @@
 # modelleicher/FS22_simpleIC - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 47 | 13 | 
 | 2022-10-25 | 47 | 13 | 
 | 2022-10-24 | 47 | 13 | 
 | 2022-10-23 | 47 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 46 | 13 | 
 | 2022-09-29 | 46 | 13 | 
 | 2022-09-28 | 46 | 13 | 
-| 2022-09-26 | 46 | 13 | 
 

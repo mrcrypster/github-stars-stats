@@ -1,6 +1,6 @@
 # ainfosec/FISSURE - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1218 | 52 | 
 | 2022-10-25 | 1218 | 52 | 
 | 2022-10-24 | 1216 | 52 | 
 | 2022-10-23 | 1215 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1158 | 49 | 
 | 2022-09-28 | 1153 | 48 | 
 | 2022-09-27 | 1142 | 47 | 
-| 2022-09-26 | 1137 | 47 | 
 

@@ -1,10 +1,10 @@
 # LinkedInLearning/python-essential-training-2449125 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 169
+☋ Forks: 170
 
-★ Stars: 170
+★ Stars: 172
 
 [Open repository](https://github.com/LinkedInLearning/python-essential-training-2449125)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 172 | 170 | 
 | 2022-10-25 | 170 | 169 | 
 | 2022-10-24 | 169 | 168 | 
 | 2022-10-23 | 167 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 143 | 141 | 
 | 2022-09-28 | 142 | 139 | 
 | 2022-09-27 | 140 | 136 | 
-| 2022-09-26 | 137 | 133 | 
 

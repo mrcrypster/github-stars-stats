@@ -1,10 +1,10 @@
 # pedrobergamini/flashloaner-contract - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 296
 
-★ Stars: 445
+★ Stars: 446
 
 [Open repository](https://github.com/pedrobergamini/flashloaner-contract)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 446 | 296 | 
 | 2022-10-25 | 445 | 296 | 
 | 2022-10-24 | 445 | 296 | 
 | 2022-10-23 | 444 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 431 | 290 | 
 | 2022-09-28 | 430 | 290 | 
 | 2022-09-27 | 429 | 289 | 
-| 2022-09-26 | 429 | 289 | 
 

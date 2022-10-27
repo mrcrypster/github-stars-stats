@@ -1,10 +1,10 @@
 # microsoft/Quantum-NC - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 79
 
-★ Stars: 178
+★ Stars: 179
 
 [Open repository](https://github.com/microsoft/Quantum-NC)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 179 | 79 | 
 | 2022-10-25 | 178 | 79 | 
 | 2022-10-24 | 179 | 79 | 
 | 2022-10-23 | 179 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 178 | 79 | 
 | 2022-09-29 | 178 | 79 | 
 | 2022-09-28 | 178 | 79 | 
-| 2022-09-27 | 178 | 79 | 
 

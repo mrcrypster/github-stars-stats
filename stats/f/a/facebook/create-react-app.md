@@ -1,10 +1,10 @@
 # facebook/create-react-app - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 25459
+☋ Forks: 25468
 
-★ Stars: 97673
+★ Stars: 97691
 
 [Open repository](https://github.com/facebook/create-react-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 97691 | 25468 | 
 | 2022-10-25 | 97673 | 25459 | 
 | 2022-10-24 | 97653 | 25453 | 
 | 2022-10-23 | 97640 | 25450 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 97174 | 25308 | 
 | 2022-09-28 | 97168 | 25307 | 
 | 2022-09-27 | 97159 | 25303 | 
-| 2022-09-26 | 97134 | 25294 | 
 

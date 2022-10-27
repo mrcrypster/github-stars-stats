@@ -1,6 +1,6 @@
 # dittakaviram/edureka-project - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | - | 36 | 
 | 2022-10-25 | - | 36 | 
 | 2022-10-24 | - | 36 | 
 | 2022-10-23 | - | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | - | 34 | 
 | 2022-09-28 | - | 34 | 
 | 2022-09-27 | - | 34 | 
-| 2022-09-26 | - | 34 | 
 

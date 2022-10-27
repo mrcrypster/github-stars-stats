@@ -1,8 +1,8 @@
 # OpenVPN/easy-rsa - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1084
+☋ Forks: 1086
 
 ★ Stars: 3301
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3301 | 1086 | 
 | 2022-10-25 | 3301 | 1084 | 
 | 2022-10-24 | 3298 | 1084 | 
 | 2022-10-23 | 3296 | 1084 | 

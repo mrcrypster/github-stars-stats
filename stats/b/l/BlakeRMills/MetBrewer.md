@@ -1,6 +1,6 @@
 # BlakeRMills/MetBrewer - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 770 | 61 | 
 | 2022-10-25 | 770 | 61 | 
 | 2022-10-24 | 768 | 61 | 
 | 2022-10-23 | 768 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 751 | 61 | 
 | 2022-09-28 | 751 | 61 | 
 | 2022-09-27 | 748 | 61 | 
-| 2022-09-26 | 747 | 61 | 
 

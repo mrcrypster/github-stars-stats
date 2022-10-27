@@ -1,10 +1,10 @@
 # CyrilFeng/Q-calculator - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 51
+☋ Forks: 53
 
-★ Stars: 855
+★ Stars: 857
 
 [Open repository](https://github.com/CyrilFeng/Q-calculator)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 857 | 53 | 
 | 2022-10-26 | 855 | 51 | 
 | 2022-10-25 | 845 | 47 | 
 | 2022-10-24 | 826 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 530 | 38 | 
 | 2022-09-28 | 530 | 38 | 
 | 2022-09-27 | 530 | 37 | 
-| 2022-09-26 | 530 | 37 | 
 

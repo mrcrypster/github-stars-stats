@@ -1,10 +1,10 @@
 # ruby-grape/grape - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1222
 
-★ Stars: 9618
+★ Stars: 9619
 
 [Open repository](https://github.com/ruby-grape/grape)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 9619 | 1222 | 
 | 2022-10-25 | 9618 | 1222 | 
 | 2022-10-24 | 9618 | 1222 | 
 | 2022-10-23 | 9615 | 1222 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 9595 | 1219 | 
 | 2022-09-28 | 9596 | 1219 | 
 | 2022-09-27 | 9596 | 1220 | 
-| 2022-09-26 | 9597 | 1220 | 
 

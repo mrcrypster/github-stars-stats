@@ -1,10 +1,10 @@
 # coq/coq - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 585
 
-★ Stars: 3926
+★ Stars: 3928
 
 [Open repository](https://github.com/coq/coq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3928 | 585 | 
 | 2022-10-25 | 3926 | 585 | 
 | 2022-10-24 | 3925 | 585 | 
 | 2022-10-23 | 3925 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 3906 | 580 | 
 | 2022-09-28 | 3904 | 578 | 
 | 2022-09-27 | 3903 | 578 | 
-| 2022-09-26 | 3903 | 578 | 
 

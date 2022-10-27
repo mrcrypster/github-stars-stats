@@ -1,6 +1,6 @@
 # lajp/dev_rickroll - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 69 | - | 
 | 2022-10-25 | 69 | - | 
 | 2022-10-24 | 69 | - | 
 | 2022-10-23 | 69 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 69 | - | 
 | 2022-09-28 | 69 | - | 
 | 2022-09-27 | 69 | - | 
-| 2022-09-26 | 69 | - | 
 

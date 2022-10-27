@@ -1,10 +1,10 @@
 # common-workflow-language/user_guide - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 53
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/common-workflow-language/user_guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 31 | 53 | 
 | 2022-10-25 | 30 | 53 | 
 | 2022-10-24 | 30 | 53 | 
 | 2022-10-23 | 30 | 53 | 

@@ -1,6 +1,6 @@
 # aeternity/mnesia_rocksdb - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 120 | 29 | 
 | 2022-10-25 | 120 | 29 | 
 | 2022-10-24 | 120 | 29 | 
 | 2022-10-23 | 120 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 118 | 28 | 
 | 2022-09-28 | 118 | 28 | 
 | 2022-09-27 | 118 | 28 | 
-| 2022-09-26 | 118 | 28 | 
 

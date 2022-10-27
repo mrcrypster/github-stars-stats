@@ -1,10 +1,10 @@
 # VBA-tools/VBA-Web - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 451
 
-★ Stars: 1742
+★ Stars: 1743
 
 [Open repository](https://github.com/VBA-tools/VBA-Web)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1743 | 451 | 
 | 2022-10-25 | 1742 | 451 | 
 | 2022-10-24 | 1742 | 451 | 
 | 2022-10-23 | 1742 | 450 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1730 | 450 | 
 | 2022-09-28 | 1729 | 450 | 
 | 2022-09-27 | 1728 | 450 | 
-| 2022-09-26 | 1729 | 450 | 
 

@@ -1,10 +1,10 @@
 # TrueFiEng/useDApp - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 322
 
-★ Stars: 1368
+★ Stars: 1370
 
 [Open repository](https://github.com/TrueFiEng/useDApp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1370 | 322 | 
 | 2022-10-25 | 1368 | 322 | 
 | 2022-10-24 | 1367 | 322 | 
 | 2022-10-23 | 1366 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1329 | 309 | 
 | 2022-09-28 | 1328 | 309 | 
 | 2022-09-27 | 1328 | 309 | 
-| 2022-09-26 | 1326 | 309 | 
 

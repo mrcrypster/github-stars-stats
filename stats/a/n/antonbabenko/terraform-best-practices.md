@@ -1,10 +1,10 @@
 # antonbabenko/terraform-best-practices - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 326
+☋ Forks: 327
 
-★ Stars: 1506
+★ Stars: 1509
 
 [Open repository](https://github.com/antonbabenko/terraform-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1509 | 327 | 
 | 2022-10-25 | 1506 | 326 | 
 | 2022-10-24 | 1505 | 326 | 
 | 2022-10-23 | 1504 | 326 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1479 | 321 | 
 | 2022-09-28 | 1479 | 320 | 
 | 2022-09-27 | 1478 | 320 | 
-| 2022-09-26 | 1477 | 319 | 
 

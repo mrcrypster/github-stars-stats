@@ -1,10 +1,10 @@
 # spree/spree - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 4878
 
-★ Stars: 11993
+★ Stars: 11995
 
 [Open repository](https://github.com/spree/spree)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 11995 | 4878 | 
 | 2022-10-25 | 11993 | 4878 | 
 | 2022-10-24 | 11992 | 4879 | 
 | 2022-10-23 | 11992 | 4879 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 11968 | 4875 | 
 | 2022-09-28 | 11964 | 4874 | 
 | 2022-09-27 | 11965 | 4875 | 
-| 2022-09-26 | 11964 | 4875 | 
 

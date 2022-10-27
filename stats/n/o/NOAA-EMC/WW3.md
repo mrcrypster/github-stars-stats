@@ -1,8 +1,8 @@
 # NOAA-EMC/WW3 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 346
+☋ Forks: 347
 
 ★ Stars: 184
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 184 | 347 | 
 | 2022-10-25 | 184 | 346 | 
 | 2022-10-24 | 184 | 345 | 
 | 2022-10-23 | 184 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 183 | 340 | 
 | 2022-09-28 | 183 | 338 | 
 | 2022-09-27 | 183 | 337 | 
-| 2022-09-26 | 182 | 337 | 
 

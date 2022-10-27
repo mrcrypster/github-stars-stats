@@ -1,6 +1,6 @@
 # gopl-zh/gopl-zh.github.com - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 893
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3446 | 893 | 
 | 2022-10-25 | 3446 | 893 | 
 | 2022-10-24 | 3444 | 893 | 
 | 2022-10-23 | 3442 | 893 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 3382 | 881 | 
 | 2022-09-28 | 3381 | 881 | 
 | 2022-09-27 | 3380 | 881 | 
-| 2022-09-26 | 3375 | 880 | 
 

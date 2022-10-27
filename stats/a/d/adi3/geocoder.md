@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/adi3/geocoder)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-26 | 1 | - | 
+| 2022-10-26 | 2 | - | 
 | 2022-10-25 | 1 | - | 
 | 2022-10-24 | 1 | - | 
 | 2022-10-23 | 1 | - | 

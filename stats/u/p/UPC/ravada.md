@@ -1,6 +1,6 @@
 # UPC/ravada - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 171
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 403 | 171 | 
 | 2022-10-25 | 403 | 171 | 
 | 2022-10-24 | 402 | 171 | 
 | 2022-10-23 | 402 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 396 | 160 | 
 | 2022-09-28 | 396 | 159 | 
 | 2022-09-27 | 396 | 158 | 
-| 2022-09-26 | 396 | 158 | 
 

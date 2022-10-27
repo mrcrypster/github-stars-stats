@@ -1,10 +1,10 @@
 # wine-mirror/wine - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 884
 
-★ Stars: 2278
+★ Stars: 2279
 
 [Open repository](https://github.com/wine-mirror/wine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 2279 | 884 | 
 | 2022-10-25 | 2278 | 884 | 
 | 2022-10-24 | 2275 | 884 | 
 | 2022-10-23 | 2273 | 883 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 2245 | 871 | 
 | 2022-09-28 | 2245 | 872 | 
 | 2022-09-27 | 2242 | 873 | 
-| 2022-09-26 | 2241 | 872 | 
 

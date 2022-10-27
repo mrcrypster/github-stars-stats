@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 26
 
-☋ Forks: 104
+☋ Forks: 113
 
-★ Stars: 1110
+★ Stars: 1238
 
 [Open repository](https://github.com/TheLastBen/fast-stable-diffusion)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-26 | 1110 | 104 | 
+| 2022-10-26 | 1238 | 113 | 
 | 2022-10-25 | 1092 | 101 | 
 | 2022-10-24 | 1006 | 96 | 
 | 2022-10-23 | 998 | 91 | 

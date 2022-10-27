@@ -1,6 +1,6 @@
 # SimformSolutionsPvtLtd/flutter_calendar_view - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 208 | 88 | 
 | 2022-10-25 | 208 | 88 | 
 | 2022-10-24 | 207 | 87 | 
 | 2022-10-23 | 206 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 202 | 84 | 
 | 2022-09-28 | 202 | 84 | 
 | 2022-09-27 | 201 | 84 | 
-| 2022-09-26 | 199 | 84 | 
 

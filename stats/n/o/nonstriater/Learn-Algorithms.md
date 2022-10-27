@@ -1,10 +1,10 @@
 # nonstriater/Learn-Algorithms - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 2232
+☋ Forks: 2233
 
-★ Stars: 6908
+★ Stars: 6909
 
 [Open repository](https://github.com/nonstriater/Learn-Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 6909 | 2233 | 
 | 2022-10-25 | 6908 | 2232 | 
 | 2022-10-24 | 6908 | 2231 | 
 | 2022-10-23 | 6907 | 2230 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 6867 | 2225 | 
 | 2022-09-29 | 6866 | 2225 | 
 | 2022-09-28 | 6862 | 2224 | 
-| 2022-09-26 | 6859 | 2224 | 
 

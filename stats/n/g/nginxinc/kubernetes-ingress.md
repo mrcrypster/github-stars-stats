@@ -1,10 +1,10 @@
 # nginxinc/kubernetes-ingress - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1765
 
-★ Stars: 3972
+★ Stars: 3976
 
 [Open repository](https://github.com/nginxinc/kubernetes-ingress)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 3976 | 1765 | 
 | 2022-10-26 | 3972 | 1765 | 
 | 2022-10-25 | 3972 | 1765 | 
 | 2022-10-24 | 3972 | 1765 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 3941 | 1745 | 
 | 2022-09-28 | 3941 | 1745 | 
 | 2022-09-27 | 3938 | 1745 | 
-| 2022-09-26 | 3937 | 1743 | 
 

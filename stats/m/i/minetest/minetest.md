@@ -1,8 +1,8 @@
 # minetest/minetest - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 1640
+☋ Forks: 1641
 
 ★ Stars: 8105
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 8105 | 1641 | 
 | 2022-10-26 | 8105 | 1640 | 
 | 2022-10-25 | 8100 | 1641 | 
 | 2022-10-24 | 8099 | 1642 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 8032 | 1626 | 
 | 2022-09-28 | 8027 | 1626 | 
 | 2022-09-27 | 8026 | 1625 | 
-| 2022-09-26 | 8023 | 1623 | 
 

@@ -1,10 +1,10 @@
 # kedacore/keda - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 652
 
-★ Stars: 5563
+★ Stars: 5566
 
 [Open repository](https://github.com/kedacore/keda)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 5566 | 652 | 
 | 2022-10-25 | 5563 | 652 | 
 | 2022-10-24 | 5557 | 650 | 
 | 2022-10-23 | 5556 | 650 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 5487 | 630 | 
 | 2022-09-29 | 5487 | 629 | 
 | 2022-09-27 | 5482 | 629 | 
-| 2022-09-26 | 5480 | 629 | 
 

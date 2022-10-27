@@ -1,6 +1,6 @@
 # clouddrove/terraform-aws-cross-account-role - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 10 | 18 | 
 | 2022-10-25 | 10 | 18 | 
 | 2022-10-24 | 10 | 18 | 
 | 2022-10-23 | 10 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 10 | 18 | 
 | 2022-09-28 | 10 | 18 | 
 | 2022-09-27 | 10 | 18 | 
-| 2022-09-26 | 10 | 18 | 
 

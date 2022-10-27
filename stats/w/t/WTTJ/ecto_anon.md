@@ -1,10 +1,10 @@
 # WTTJ/ecto_anon - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 0
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/WTTJ/ecto_anon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 68 | - | 
 | 2022-10-25 | 67 | - | 
 | 2022-10-24 | 67 | - | 
 | 2022-10-23 | 67 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 59 | - | 
 | 2022-09-28 | 56 | - | 
 | 2022-09-27 | 55 | - | 
-| 2022-09-26 | 54 | - | 
 

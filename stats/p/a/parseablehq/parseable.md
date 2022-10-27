@@ -1,10 +1,10 @@
 # parseablehq/parseable - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 21
 
-★ Stars: 500
+★ Stars: 503
 
 [Open repository](https://github.com/parseablehq/parseable)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 503 | 21 | 
 | 2022-10-25 | 500 | 21 | 
 | 2022-10-24 | 497 | 20 | 
 | 2022-10-23 | 485 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 328 | 11 | 
 | 2022-09-28 | 326 | 11 | 
 | 2022-09-27 | 322 | 11 | 
-| 2022-09-26 | 321 | 11 | 
 

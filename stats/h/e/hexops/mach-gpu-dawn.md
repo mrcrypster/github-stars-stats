@@ -1,6 +1,6 @@
 # hexops/mach-gpu-dawn - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 76 | 2 | 
 | 2022-10-25 | 76 | 2 | 
 | 2022-10-24 | 76 | 2 | 
 | 2022-10-23 | 76 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 74 | 2 | 
 | 2022-09-28 | 74 | 2 | 
 | 2022-09-27 | 74 | 2 | 
-| 2022-09-26 | 74 | 2 | 
 

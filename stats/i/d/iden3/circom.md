@@ -1,10 +1,10 @@
 # iden3/circom - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 80
 
-★ Stars: 581
+★ Stars: 584
 
 [Open repository](https://github.com/iden3/circom)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 584 | 80 | 
 | 2022-10-26 | 581 | 80 | 
 | 2022-10-25 | 578 | 79 | 
 | 2022-10-23 | 577 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 537 | 77 | 
 | 2022-09-28 | 536 | 77 | 
 | 2022-09-27 | 534 | 77 | 
-| 2022-09-26 | 529 | 76 | 
 

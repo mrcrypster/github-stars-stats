@@ -1,6 +1,6 @@
 # frank-nhatvm/fatherofapps-android-mvvm - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 31 | 23 | 
 | 2022-10-25 | 31 | 23 | 
 | 2022-10-24 | 31 | 22 | 
 | 2022-10-23 | 31 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 28 | 18 | 
 | 2022-09-28 | 28 | 18 | 
 | 2022-09-27 | 28 | 18 | 
-| 2022-09-26 | 28 | 18 | 
 

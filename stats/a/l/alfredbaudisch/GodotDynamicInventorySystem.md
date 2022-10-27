@@ -1,10 +1,10 @@
 # alfredbaudisch/GodotDynamicInventorySystem - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 15
 
-★ Stars: 187
+★ Stars: 188
 
 [Open repository](https://github.com/alfredbaudisch/GodotDynamicInventorySystem)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 188 | 15 | 
 | 2022-10-25 | 187 | 15 | 
 | 2022-10-24 | 187 | 15 | 
 | 2022-10-23 | 187 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 181 | 14 | 
 | 2022-09-28 | 181 | 14 | 
 | 2022-09-27 | 181 | 14 | 
-| 2022-09-26 | 181 | 14 | 
 

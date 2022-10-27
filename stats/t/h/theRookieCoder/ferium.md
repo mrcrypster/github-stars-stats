@@ -1,10 +1,10 @@
 # theRookieCoder/ferium - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 23
 
-★ Stars: 536
+★ Stars: 541
 
 [Open repository](https://github.com/theRookieCoder/ferium)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 541 | 23 | 
 | 2022-10-25 | 536 | 23 | 
 | 2022-10-24 | 533 | 23 | 
 | 2022-10-23 | 532 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 499 | 20 | 
 | 2022-09-28 | 497 | 20 | 
 | 2022-09-27 | 493 | 19 | 
-| 2022-09-26 | 493 | 19 | 
 

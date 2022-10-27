@@ -1,6 +1,6 @@
 # heavenshell/vim-jsdoc - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 428 | 41 | 
 | 2022-10-25 | 428 | 41 | 
 | 2022-10-24 | 427 | 41 | 
 | 2022-10-23 | 427 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 426 | 41 | 
 | 2022-09-28 | 426 | 41 | 
 | 2022-09-27 | 426 | 41 | 
-| 2022-09-26 | 426 | 41 | 
 

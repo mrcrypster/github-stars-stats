@@ -1,10 +1,10 @@
 # jitsi/jitsi-videobridge - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 945
+☋ Forks: 946
 
-★ Stars: 2652
+★ Stars: 2653
 
 [Open repository](https://github.com/jitsi/jitsi-videobridge)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 2653 | 946 | 
 | 2022-10-25 | 2652 | 945 | 
 | 2022-10-24 | 2652 | 945 | 
 | 2022-10-23 | 2652 | 945 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 2642 | 946 | 
 | 2022-09-28 | 2642 | 945 | 
 | 2022-09-27 | 2642 | 945 | 
-| 2022-09-26 | 2641 | 942 | 
 

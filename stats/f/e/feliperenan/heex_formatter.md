@@ -1,6 +1,6 @@
 # feliperenan/heex_formatter - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 194 | 8 | 
 | 2022-10-25 | 194 | 8 | 
 | 2022-10-24 | 194 | 8 | 
 | 2022-10-23 | 195 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 194 | 8 | 
 | 2022-09-29 | 193 | 8 | 
 | 2022-09-28 | 193 | 8 | 
-| 2022-09-27 | 193 | 8 | 
 

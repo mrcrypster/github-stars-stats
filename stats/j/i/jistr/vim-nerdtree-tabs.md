@@ -1,10 +1,10 @@
 # jistr/vim-nerdtree-tabs - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 125
 
-★ Stars: 1421
+★ Stars: 1420
 
 [Open repository](https://github.com/jistr/vim-nerdtree-tabs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1420 | 125 | 
 | 2022-10-25 | 1421 | 125 | 
 | 2022-10-24 | 1421 | 125 | 
 | 2022-10-23 | 1421 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1419 | 126 | 
 | 2022-09-28 | 1419 | 126 | 
 | 2022-09-27 | 1419 | 126 | 
-| 2022-09-26 | 1419 | 126 | 
 

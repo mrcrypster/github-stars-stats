@@ -1,10 +1,10 @@
 # emacs-lsp/lsp-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 138
 
-★ Stars: 906
+★ Stars: 905
 
 [Open repository](https://github.com/emacs-lsp/lsp-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 905 | 138 | 
 | 2022-10-25 | 906 | 138 | 
 | 2022-10-24 | 906 | 138 | 
 | 2022-10-23 | 906 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 902 | 137 | 
 | 2022-09-28 | 902 | 137 | 
 | 2022-09-27 | 902 | 137 | 
-| 2022-09-26 | 902 | 138 | 
 

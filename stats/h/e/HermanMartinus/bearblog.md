@@ -1,10 +1,10 @@
 # HermanMartinus/bearblog - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 43
 
-★ Stars: 1051
+★ Stars: 1067
 
 [Open repository](https://github.com/HermanMartinus/bearblog)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1067 | 43 | 
 | 2022-10-25 | 1051 | 43 | 
 | 2022-10-24 | 1051 | 43 | 
 | 2022-10-23 | 1049 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 993 | 43 | 
 | 2022-09-29 | 993 | 43 | 
 | 2022-09-28 | 993 | 43 | 
-| 2022-09-27 | 992 | 42 | 
 

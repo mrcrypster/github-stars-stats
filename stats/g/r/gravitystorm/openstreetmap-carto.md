@@ -1,8 +1,8 @@
 # gravitystorm/openstreetmap-carto - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 757
+☋ Forks: 758
 
 ★ Stars: 1330
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1330 | 758 | 
 | 2022-10-25 | 1330 | 757 | 
 | 2022-10-24 | 1329 | 757 | 
 | 2022-10-23 | 1329 | 757 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1322 | 751 | 
 | 2022-09-28 | 1321 | 751 | 
 | 2022-09-27 | 1321 | 751 | 
-| 2022-09-26 | 1321 | 749 | 
 

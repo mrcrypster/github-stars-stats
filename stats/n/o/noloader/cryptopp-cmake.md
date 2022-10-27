@@ -1,6 +1,6 @@
 # noloader/cryptopp-cmake - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 86 | 71 | 
 | 2022-10-25 | 86 | 71 | 
 | 2022-10-24 | 86 | 71 | 
 | 2022-10-23 | 86 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 85 | 72 | 
 | 2022-09-29 | 85 | 72 | 
 | 2022-09-28 | 85 | 72 | 
-| 2022-09-26 | 85 | 72 | 
 

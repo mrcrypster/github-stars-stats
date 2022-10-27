@@ -1,6 +1,6 @@
 # MeteoSwiss-APN/icon_data_processing_incubator - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | - | - | 
 | 2022-10-25 | - | - | 
 | 2022-10-24 | - | - | 
 | 2022-10-23 | - | - | 

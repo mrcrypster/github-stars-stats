@@ -1,6 +1,6 @@
 # nilenso/goose - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 110 | 2 | 
 | 2022-10-25 | 110 | 2 | 
 | 2022-10-24 | 110 | 2 | 
 | 2022-10-23 | 109 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 103 | 2 | 
 | 2022-09-28 | 103 | 2 | 
 | 2022-09-27 | 102 | 2 | 
-| 2022-09-26 | 102 | 2 | 
 

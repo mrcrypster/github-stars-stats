@@ -1,10 +1,10 @@
 # TarekAlabd/Flutter-Steps-Tracker - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 15
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/TarekAlabd/Flutter-Steps-Tracker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 55 | 15 | 
 | 2022-10-26 | 54 | 15 | 
 | 2022-10-25 | 54 | 15 | 
 | 2022-10-24 | 53 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 52 | 14 | 
 | 2022-09-28 | 52 | 13 | 
 | 2022-09-27 | 52 | 13 | 
-| 2022-09-26 | 52 | 13 | 
 

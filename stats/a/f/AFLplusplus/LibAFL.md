@@ -1,10 +1,10 @@
 # AFLplusplus/LibAFL - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 131
+☋ Forks: 132
 
-★ Stars: 1071
+★ Stars: 1073
 
 [Open repository](https://github.com/AFLplusplus/LibAFL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1073 | 132 | 
 | 2022-10-25 | 1071 | 131 | 
 | 2022-10-24 | 1071 | 131 | 
 | 2022-10-23 | 1070 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 1032 | 122 | 
 | 2022-09-28 | 1031 | 120 | 
 | 2022-09-27 | 1030 | 119 | 
-| 2022-09-26 | 1027 | 117 | 
 

@@ -1,6 +1,6 @@
 # binary-com/perl-Crypt-NamedKeys - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | - | 6 | 
 | 2022-10-25 | - | 6 | 
 | 2022-10-24 | - | 6 | 
 | 2022-10-23 | - | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | - | 6 | 
 | 2022-09-28 | - | 6 | 
 | 2022-09-27 | - | 6 | 
-| 2022-09-26 | - | 6 | 
 

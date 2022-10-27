@@ -1,10 +1,10 @@
 # cyrildiagne/ar-cutpaste - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 2055
 
-★ Stars: 14460
+★ Stars: 14461
 
 [Open repository](https://github.com/cyrildiagne/ar-cutpaste)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 14461 | 2055 | 
 | 2022-10-25 | 14460 | 2055 | 
 | 2022-10-24 | 14460 | 2055 | 
 | 2022-10-23 | 14460 | 2055 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 14455 | 2052 | 
 | 2022-09-28 | 14453 | 2052 | 
 | 2022-09-27 | 14452 | 2052 | 
-| 2022-09-26 | 14451 | 2052 | 
 

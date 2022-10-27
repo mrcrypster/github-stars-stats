@@ -1,10 +1,10 @@
 # TelegramMessenger/telemint - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 51
+☋ Forks: 58
 
-★ Stars: 206
+★ Stars: 221
 
 [Open repository](https://github.com/TelegramMessenger/telemint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 221 | 58 | 
 | 2022-10-25 | 206 | 51 | 
 | 2022-10-24 | 191 | 48 | 
 

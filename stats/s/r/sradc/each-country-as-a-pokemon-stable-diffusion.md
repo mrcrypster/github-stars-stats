@@ -1,8 +1,8 @@
 # sradc/each-country-as-a-pokemon-stable-diffusion - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 106
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 106 | 3 | 
 | 2022-10-25 | 106 | 2 | 
 | 2022-10-24 | 106 | 2 | 
 | 2022-10-23 | 106 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 101 | 2 | 
 | 2022-09-28 | 97 | 2 | 
 | 2022-09-27 | 97 | 2 | 
-| 2022-09-26 | 93 | 2 | 
 

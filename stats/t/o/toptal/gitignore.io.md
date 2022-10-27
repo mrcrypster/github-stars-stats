@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 26
 
 ☋ Forks: 594
 
-★ Stars: 7327
+★ Stars: 7328
 
 [Open repository](https://github.com/toptal/gitignore.io)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-26 | 7327 | 594 | 
+| 2022-10-26 | 7328 | 594 | 
 | 2022-10-25 | 7327 | 594 | 
 | 2022-10-24 | 7324 | 594 | 
 | 2022-10-23 | 7320 | 593 | 

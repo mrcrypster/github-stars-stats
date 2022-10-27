@@ -1,10 +1,10 @@
 # developerforce/Visualforce-Charting-Examples - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 22
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/developerforce/Visualforce-Charting-Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 15 | 22 | 
 | 2022-10-25 | 16 | 22 | 
 | 2022-10-24 | 16 | 22 | 
 | 2022-10-23 | 16 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 16 | 22 | 
 | 2022-09-28 | 16 | 22 | 
 | 2022-09-27 | 16 | 22 | 
-| 2022-09-26 | 16 | 22 | 
 

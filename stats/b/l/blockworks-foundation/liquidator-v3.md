@@ -1,6 +1,6 @@
 # blockworks-foundation/liquidator-v3 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 310 | 109 | 
 | 2022-10-25 | 310 | 109 | 
 | 2022-10-24 | 311 | 109 | 
 | 2022-10-23 | 311 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 308 | 108 | 
 | 2022-09-29 | 308 | 108 | 
 | 2022-09-28 | 308 | 108 | 
-| 2022-09-27 | 308 | 108 | 
 

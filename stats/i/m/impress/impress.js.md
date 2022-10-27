@@ -1,10 +1,10 @@
 # impress/impress.js - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 6833
+☋ Forks: 6834
 
-★ Stars: 36973
+★ Stars: 36971
 
 [Open repository](https://github.com/impress/impress.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 36971 | 6834 | 
 | 2022-10-26 | 36973 | 6833 | 
 | 2022-10-25 | 36975 | 6832 | 
 | 2022-10-24 | 36974 | 6832 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 36956 | 6828 | 
 | 2022-09-28 | 36955 | 6828 | 
 | 2022-09-27 | 36953 | 6828 | 
-| 2022-09-26 | 36951 | 6827 | 
 

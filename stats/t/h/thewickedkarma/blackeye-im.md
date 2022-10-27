@@ -1,6 +1,6 @@
 # thewickedkarma/blackeye-im - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 376 | 204 | 
 | 2022-10-25 | 376 | 204 | 
 | 2022-10-24 | 375 | 204 | 
 | 2022-10-23 | 375 | 203 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 367 | 200 | 
 | 2022-09-28 | 367 | 201 | 
 | 2022-09-27 | 367 | 201 | 
-| 2022-09-26 | 367 | 201 | 
 

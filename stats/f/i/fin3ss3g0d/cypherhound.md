@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 26
 
 ☋ Forks: 7
 
-★ Stars: 101
+★ Stars: 106
 
 [Open repository](https://github.com/fin3ss3g0d/cypherhound)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-26 | 101 | 7 | 
+| 2022-10-26 | 106 | 7 | 
 | 2022-10-25 | 98 | 7 | 
 

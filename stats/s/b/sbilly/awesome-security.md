@@ -1,10 +1,10 @@
 # sbilly/awesome-security - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1580
+☋ Forks: 1579
 
-★ Stars: 9044
+★ Stars: 9048
 
 [Open repository](https://github.com/sbilly/awesome-security)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 9048 | 1579 | 
 | 2022-10-25 | 9044 | 1580 | 
 | 2022-10-24 | 9043 | 1580 | 
 | 2022-10-23 | 9040 | 1580 | 

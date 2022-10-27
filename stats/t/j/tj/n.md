@@ -1,10 +1,10 @@
 # tj/n - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 725
 
-★ Stars: 16915
+★ Stars: 16916
 
 [Open repository](https://github.com/tj/n)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 16916 | 725 | 
 | 2022-10-25 | 16915 | 725 | 
 | 2022-10-24 | 16911 | 726 | 
 | 2022-10-23 | 16904 | 726 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 16812 | 723 | 
 | 2022-09-28 | 16806 | 722 | 
 | 2022-09-27 | 16802 | 722 | 
-| 2022-09-26 | 16801 | 722 | 
 

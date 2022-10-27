@@ -1,8 +1,8 @@
 # ZehCnaS34/zonokai-emacs - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 10 | 4 | 
 | 2022-10-25 | 10 | 5 | 
 | 2022-10-24 | 10 | 5 | 
 | 2022-10-23 | 10 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 10 | 5 | 
 | 2022-09-28 | 10 | 5 | 
 | 2022-09-27 | 10 | 5 | 
-| 2022-09-26 | 10 | 5 | 
 

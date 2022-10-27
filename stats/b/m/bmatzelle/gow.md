@@ -1,10 +1,10 @@
 # bmatzelle/gow - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 361
 
-★ Stars: 6365
+★ Stars: 6364
 
 [Open repository](https://github.com/bmatzelle/gow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 6364 | 361 | 
 | 2022-10-25 | 6365 | 361 | 
 | 2022-10-24 | 6365 | 361 | 
 | 2022-10-23 | 6364 | 361 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 6337 | 359 | 
 | 2022-09-28 | 6338 | 359 | 
 | 2022-09-27 | 6337 | 359 | 
-| 2022-09-26 | 6337 | 359 | 
 

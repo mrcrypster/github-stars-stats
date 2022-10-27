@@ -1,10 +1,10 @@
 # terraform-docs/terraform-docs - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 446
 
-★ Stars: 3095
+★ Stars: 3099
 
 [Open repository](https://github.com/terraform-docs/terraform-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3099 | 446 | 
 | 2022-10-25 | 3095 | 446 | 
 | 2022-10-24 | 3088 | 445 | 
 | 2022-10-23 | 3087 | 445 | 

@@ -1,6 +1,6 @@
 # antonioCoco/ConPtyShell - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 664 | 111 | 
 | 2022-10-26 | 664 | 111 | 
 | 2022-10-25 | 664 | 111 | 
 | 2022-10-24 | 664 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 651 | 110 | 
 | 2022-09-28 | 651 | 109 | 
 | 2022-09-27 | 650 | 109 | 
-| 2022-09-26 | 650 | 109 | 
 

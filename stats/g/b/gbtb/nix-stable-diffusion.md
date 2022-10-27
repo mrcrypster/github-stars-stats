@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 26
 
 ☋ Forks: 2
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/gbtb/nix-stable-diffusion)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-26 | 18 | 2 | 
+| 2022-10-26 | 19 | 2 | 
 | 2022-10-25 | 18 | 2 | 
 | 2022-10-24 | 14 | 2 | 
 

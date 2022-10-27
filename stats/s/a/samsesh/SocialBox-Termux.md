@@ -1,10 +1,10 @@
 # samsesh/SocialBox-Termux - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 174
+☋ Forks: 176
 
-★ Stars: 1666
+★ Stars: 1667
 
 [Open repository](https://github.com/samsesh/SocialBox-Termux)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1667 | 176 | 
 | 2022-10-25 | 1666 | 174 | 
 | 2022-10-24 | 1667 | 175 | 
 | 2022-10-23 | 1665 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 1615 | 172 | 
 | 2022-09-29 | 1613 | 172 | 
 | 2022-09-28 | 1610 | 171 | 
-| 2022-09-27 | 1607 | 169 | 
 

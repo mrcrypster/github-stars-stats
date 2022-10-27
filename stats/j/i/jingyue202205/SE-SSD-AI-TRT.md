@@ -1,6 +1,6 @@
 # jingyue202205/SE-SSD-AI-TRT - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 45 | 2 | 
 | 2022-10-25 | 45 | 2 | 
 | 2022-10-24 | 45 | 2 | 
 | 2022-10-23 | 45 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 44 | 1 | 
 | 2022-09-28 | 44 | 1 | 
 | 2022-09-27 | 44 | 1 | 
-| 2022-09-26 | 44 | 1 | 
 

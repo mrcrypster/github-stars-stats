@@ -1,6 +1,6 @@
 # Xeraxlabs/DX1.0-Foodplug - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | - | 57 | 
 | 2022-10-25 | - | 57 | 
 | 2022-10-24 | - | 57 | 
 | 2022-10-23 | - | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | - | 35 | 
 | 2022-09-28 | - | 35 | 
 | 2022-09-27 | - | 35 | 
-| 2022-09-26 | - | 35 | 
 

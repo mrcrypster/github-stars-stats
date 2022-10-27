@@ -1,6 +1,6 @@
 # aangelopoulos/conformal-prediction - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 200 | 19 | 
 | 2022-10-25 | 200 | 19 | 
 | 2022-10-24 | 199 | 19 | 
 | 2022-10-23 | 198 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 180 | 14 | 
 | 2022-09-28 | 180 | 14 | 
 | 2022-09-27 | 180 | 14 | 
-| 2022-09-26 | 179 | 14 | 
 

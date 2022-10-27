@@ -1,10 +1,10 @@
 # numpy/SVML - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 4
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/numpy/SVML)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 18 | 4 | 
 | 2022-10-25 | 17 | 4 | 
 | 2022-10-24 | 17 | 4 | 
 | 2022-10-23 | 17 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 17 | 4 | 
 | 2022-09-28 | 17 | 4 | 
 | 2022-09-27 | 17 | 4 | 
-| 2022-09-26 | 17 | 4 | 
 

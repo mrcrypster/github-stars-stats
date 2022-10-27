@@ -1,10 +1,10 @@
 # LightTable/LightTable - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 940
 
-★ Stars: 11739
+★ Stars: 11740
 
 [Open repository](https://github.com/LightTable/LightTable)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 11740 | 940 | 
 | 2022-10-25 | 11739 | 940 | 
 | 2022-10-24 | 11739 | 940 | 
 | 2022-10-23 | 11738 | 940 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 11726 | 939 | 
 | 2022-09-28 | 11724 | 939 | 
 | 2022-09-27 | 11724 | 939 | 
-| 2022-09-26 | 11724 | 939 | 
 

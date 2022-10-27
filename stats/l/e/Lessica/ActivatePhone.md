@@ -1,6 +1,6 @@
 # Lessica/ActivatePhone - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 17 | 1 | 
 | 2022-10-25 | 17 | 1 | 
 | 2022-10-24 | 16 | 1 | 
 | 2022-10-23 | 16 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 12 | - | 
 | 2022-09-28 | 12 | - | 
 | 2022-09-27 | 12 | - | 
-| 2022-09-26 | 12 | - | 
 

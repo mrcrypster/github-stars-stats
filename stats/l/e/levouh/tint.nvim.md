@@ -1,10 +1,10 @@
 # levouh/tint.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 4
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/levouh/tint.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 154 | 4 | 
 | 2022-10-25 | 153 | 4 | 
 | 2022-10-24 | 152 | 4 | 
 | 2022-10-23 | 151 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 141 | 4 | 
 | 2022-09-28 | 141 | 4 | 
 | 2022-09-27 | 140 | 4 | 
-| 2022-09-26 | 140 | 4 | 
 

@@ -1,10 +1,10 @@
 # narze/DaiMai - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/narze/DaiMai)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 9 | 75 | 
+| 2022-10-26 | 9 | 75 | 
 | 2022-10-25 | 8 | 74 | 
 | 2022-10-24 | 8 | 73 | 
 | 2022-10-23 | 8 | 73 | 

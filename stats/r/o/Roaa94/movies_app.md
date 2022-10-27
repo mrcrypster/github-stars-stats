@@ -1,6 +1,6 @@
 # Roaa94/movies_app - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 250 | 43 | 
 | 2022-10-25 | 250 | 43 | 
 | 2022-10-24 | 250 | 43 | 
 | 2022-10-23 | 250 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 238 | 42 | 
 | 2022-09-28 | 237 | 43 | 
 | 2022-09-27 | 237 | 41 | 
-| 2022-09-26 | 236 | 41 | 
 

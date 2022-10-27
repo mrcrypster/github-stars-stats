@@ -1,10 +1,10 @@
 # skydoves/Orbitary - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 14
 
-★ Stars: 468
+★ Stars: 471
 
 [Open repository](https://github.com/skydoves/Orbitary)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 471 | 14 | 
 | 2022-10-25 | 468 | 14 | 
 | 2022-10-24 | 467 | 14 | 
 | 2022-10-23 | 467 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 449 | 13 | 
 | 2022-09-28 | 449 | 13 | 
 | 2022-09-27 | 449 | 13 | 
-| 2022-09-26 | 446 | 13 | 
 

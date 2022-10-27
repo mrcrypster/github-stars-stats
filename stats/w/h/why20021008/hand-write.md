@@ -1,10 +1,10 @@
 # why20021008/hand-write - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 78
 
-★ Stars: 665
+★ Stars: 666
 
 [Open repository](https://github.com/why20021008/hand-write)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 666 | 78 | 
 | 2022-10-25 | 665 | 78 | 
 | 2022-10-24 | 665 | 78 | 
 | 2022-10-23 | 663 | 78 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 652 | 76 | 
 | 2022-09-28 | 651 | 76 | 
 | 2022-09-27 | 651 | 76 | 
-| 2022-09-26 | 651 | 76 | 
 

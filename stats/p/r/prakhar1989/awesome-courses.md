@@ -1,10 +1,10 @@
 # prakhar1989/awesome-courses - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 7846
+☋ Forks: 7847
 
-★ Stars: 43395
+★ Stars: 43419
 
 [Open repository](https://github.com/prakhar1989/awesome-courses)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 43419 | 7847 | 
 | 2022-10-25 | 43395 | 7846 | 
 | 2022-10-24 | 43370 | 7846 | 
 | 2022-10-23 | 43346 | 7846 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 42931 | 7824 | 
 | 2022-09-28 | 42912 | 7823 | 
 | 2022-09-27 | 42890 | 7823 | 
-| 2022-09-26 | 42866 | 7822 | 
 

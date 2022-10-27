@@ -1,10 +1,10 @@
 # n3r4zzurr0/svg-spinners - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 352
 
-★ Stars: 4314
+★ Stars: 4315
 
 [Open repository](https://github.com/n3r4zzurr0/svg-spinners)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 4315 | 352 | 
 | 2022-10-25 | 4314 | 352 | 
 | 2022-10-24 | 4313 | 348 | 
 | 2022-10-23 | 4309 | 344 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 4245 | 331 | 
 | 2022-09-28 | 4240 | 328 | 
 | 2022-09-27 | 4231 | 325 | 
-| 2022-09-26 | 4227 | 325 | 
 

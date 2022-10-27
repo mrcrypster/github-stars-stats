@@ -1,6 +1,6 @@
 # LinusHenze/Fugu14 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 310
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1317 | 310 | 
 | 2022-10-25 | 1317 | 310 | 
 | 2022-10-24 | 1317 | 310 | 
 | 2022-10-23 | 1316 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1295 | 307 | 
 | 2022-09-28 | 1295 | 306 | 
 | 2022-09-27 | 1294 | 306 | 
-| 2022-09-26 | 1293 | 307 | 
 

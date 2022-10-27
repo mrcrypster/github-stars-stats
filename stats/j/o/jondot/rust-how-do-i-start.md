@@ -1,10 +1,10 @@
 # jondot/rust-how-do-i-start - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 24
 
-★ Stars: 631
+★ Stars: 632
 
 [Open repository](https://github.com/jondot/rust-how-do-i-start)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 632 | 24 | 
 | 2022-10-25 | 631 | 24 | 
 | 2022-10-24 | 631 | 24 | 
 | 2022-10-23 | 631 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 592 | 20 | 
 | 2022-09-29 | 591 | 20 | 
 | 2022-09-27 | 589 | 20 | 
-| 2022-09-26 | 587 | 20 | 
 

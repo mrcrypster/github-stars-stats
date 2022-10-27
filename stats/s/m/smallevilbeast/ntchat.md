@@ -1,10 +1,10 @@
 # smallevilbeast/ntchat - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 94
+☋ Forks: 95
 
-★ Stars: 679
+★ Stars: 689
 
 [Open repository](https://github.com/smallevilbeast/ntchat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 689 | 95 | 
 | 2022-10-25 | 679 | 94 | 
 | 2022-10-24 | 669 | 92 | 
 | 2022-10-23 | 662 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 476 | 69 | 
 | 2022-09-28 | 465 | 68 | 
 | 2022-09-27 | 457 | 68 | 
-| 2022-09-26 | 448 | 64 | 
 

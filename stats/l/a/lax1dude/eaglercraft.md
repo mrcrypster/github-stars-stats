@@ -1,10 +1,10 @@
 # lax1dude/eaglercraft - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1682
+☋ Forks: 1705
 
-★ Stars: 930
+★ Stars: 936
 
 [Open repository](https://github.com/lax1dude/eaglercraft)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 936 | 1705 | 
 | 2022-10-25 | 930 | 1682 | 
 | 2022-10-24 | 924 | 1671 | 
 | 2022-10-23 | 921 | 1663 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 782 | 1418 | 
 | 2022-09-28 | 778 | 1400 | 
 | 2022-09-27 | 772 | 1388 | 
-| 2022-09-26 | 769 | 1378 | 
 

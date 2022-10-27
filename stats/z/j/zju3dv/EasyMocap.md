@@ -1,10 +1,10 @@
 # zju3dv/EasyMocap - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 262
+☋ Forks: 263
 
-★ Stars: 2064
+★ Stars: 2067
 
 [Open repository](https://github.com/zju3dv/EasyMocap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 2067 | 263 | 
 | 2022-10-25 | 2064 | 262 | 
 | 2022-10-24 | 2062 | 262 | 
 | 2022-10-23 | 2062 | 262 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1998 | 251 | 
 | 2022-09-28 | 1992 | 250 | 
 | 2022-09-27 | 1982 | 250 | 
-| 2022-09-26 | 1979 | 249 | 
 

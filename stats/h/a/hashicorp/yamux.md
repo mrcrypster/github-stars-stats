@@ -1,10 +1,10 @@
 # hashicorp/yamux - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 209
 
-★ Stars: 1825
+★ Stars: 1828
 
 [Open repository](https://github.com/hashicorp/yamux)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1828 | 209 | 
 | 2022-10-25 | 1825 | 209 | 
 | 2022-10-24 | 1825 | 209 | 
 | 2022-10-23 | 1825 | 209 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1809 | 204 | 
 | 2022-09-28 | 1808 | 204 | 
 | 2022-09-27 | 1808 | 204 | 
-| 2022-09-26 | 1808 | 204 | 
 

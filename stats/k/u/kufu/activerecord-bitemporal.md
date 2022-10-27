@@ -1,6 +1,6 @@
 # kufu/activerecord-bitemporal - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 155 | 32 | 
 | 2022-10-25 | 155 | 32 | 
 | 2022-10-24 | 155 | 32 | 
 | 2022-10-23 | 155 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 153 | 32 | 
 | 2022-09-28 | 153 | 32 | 
 | 2022-09-27 | 153 | 32 | 
-| 2022-09-26 | 153 | 32 | 
 

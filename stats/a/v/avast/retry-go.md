@@ -1,10 +1,10 @@
 # avast/retry-go - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 106
+☋ Forks: 108
 
-★ Stars: 1153
+★ Stars: 1189
 
 [Open repository](https://github.com/avast/retry-go)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1189 | 108 | 
 | 2022-10-25 | 1153 | 106 | 
 

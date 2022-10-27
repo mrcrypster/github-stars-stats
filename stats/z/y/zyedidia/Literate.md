@@ -1,6 +1,6 @@
 # zyedidia/Literate - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 604 | 43 | 
 | 2022-10-25 | 604 | 43 | 
 | 2022-10-24 | 604 | 43 | 
 | 2022-10-23 | 604 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 601 | 43 | 
 | 2022-09-28 | 601 | 43 | 
 | 2022-09-27 | 601 | 43 | 
-| 2022-09-26 | 601 | 43 | 
 

@@ -1,10 +1,10 @@
 # cassiozen/TDungeon - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 20
 
-★ Stars: 1049
+★ Stars: 1050
 
 [Open repository](https://github.com/cassiozen/TDungeon)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1050 | 20 | 
 | 2022-10-25 | 1049 | 20 | 
 | 2022-10-24 | 1047 | 19 | 
 | 2022-10-23 | 1047 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 915 | 16 | 
 | 2022-09-28 | 891 | 15 | 
 | 2022-09-27 | 877 | 14 | 
-| 2022-09-26 | 845 | 14 | 
 

@@ -1,10 +1,10 @@
 # gudh/ihover - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1212
 
-★ Stars: 3484
+★ Stars: 3485
 
 [Open repository](https://github.com/gudh/ihover)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3485 | 1212 | 
 | 2022-10-25 | 3484 | 1212 | 
 | 2022-10-24 | 3484 | 1212 | 
 | 2022-10-23 | 3484 | 1212 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 3485 | 1211 | 
 | 2022-09-28 | 3485 | 1211 | 
 | 2022-09-27 | 3484 | 1210 | 
-| 2022-09-26 | 3484 | 1210 | 
 

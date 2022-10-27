@@ -1,10 +1,10 @@
 # NiceSeason/gulimall-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 838
 
-★ Stars: 1440
+★ Stars: 1444
 
 [Open repository](https://github.com/NiceSeason/gulimall-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1444 | 838 | 
 | 2022-10-25 | 1440 | 838 | 
 | 2022-10-24 | 1437 | 837 | 
 | 2022-10-23 | 1437 | 838 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1397 | 818 | 
 | 2022-09-28 | 1394 | 818 | 
 | 2022-09-27 | 1393 | 818 | 
-| 2022-09-26 | 1387 | 815 | 
 

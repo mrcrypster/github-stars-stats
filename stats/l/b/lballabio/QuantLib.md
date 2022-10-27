@@ -1,10 +1,10 @@
 # lballabio/QuantLib - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1390
 
-★ Stars: 3487
+★ Stars: 3490
 
 [Open repository](https://github.com/lballabio/QuantLib)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3490 | 1390 | 
 | 2022-10-25 | 3487 | 1390 | 
 | 2022-10-24 | 3487 | 1390 | 
 | 2022-10-23 | 3485 | 1389 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 3447 | 1377 | 
 | 2022-09-29 | 3440 | 1377 | 
 | 2022-09-27 | 3437 | 1377 | 
-| 2022-09-26 | 3436 | 1374 | 
 

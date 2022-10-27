@@ -1,10 +1,10 @@
 # a11yproject/a11yproject.com - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 536
 
-★ Stars: 3562
+★ Stars: 3561
 
 [Open repository](https://github.com/a11yproject/a11yproject.com)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3561 | 536 | 
 | 2022-10-25 | 3562 | 536 | 
 | 2022-10-24 | 3562 | 536 | 
 | 2022-10-23 | 3561 | 535 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 3554 | 534 | 
 | 2022-09-28 | 3554 | 534 | 
 | 2022-09-27 | 3555 | 534 | 
-| 2022-09-26 | 3555 | 534 | 
 

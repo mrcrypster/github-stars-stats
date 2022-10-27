@@ -1,10 +1,10 @@
 # TheOdinProject/curriculum - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 8747
+☋ Forks: 8752
 
-★ Stars: 6106
+★ Stars: 6115
 
 [Open repository](https://github.com/TheOdinProject/curriculum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 6115 | 8752 | 
 | 2022-10-25 | 6106 | 8747 | 
 | 2022-10-24 | 6099 | 8739 | 
 | 2022-10-23 | 6088 | 8734 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 5986 | 8626 | 
 | 2022-09-28 | 5981 | 8625 | 
 | 2022-09-27 | 5975 | 8618 | 
-| 2022-09-26 | 5972 | 8615 | 
 

@@ -1,10 +1,10 @@
 # docker-library/php - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1990
+☋ Forks: 1993
 
-★ Stars: 3299
+★ Stars: 3302
 
 [Open repository](https://github.com/docker-library/php)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3302 | 1993 | 
 | 2022-10-25 | 3299 | 1990 | 
 | 2022-10-24 | 3298 | 1991 | 
 | 2022-10-23 | 3296 | 1989 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 3283 | 1982 | 
 | 2022-09-28 | 3283 | 1981 | 
 | 2022-09-27 | 3283 | 1981 | 
-| 2022-09-26 | 3283 | 1980 | 
 

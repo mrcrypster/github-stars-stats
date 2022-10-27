@@ -1,10 +1,10 @@
 # atom-community/ui-theme-template - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 591
 
-★ Stars: 100
+★ Stars: 99
 
 [Open repository](https://github.com/atom-community/ui-theme-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 99 | 591 | 
 | 2022-10-25 | 100 | 591 | 
 | 2022-10-24 | 100 | 591 | 
 | 2022-10-23 | 100 | 591 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 100 | 582 | 
 | 2022-09-28 | 100 | 582 | 
 | 2022-09-27 | 100 | 582 | 
-| 2022-09-26 | 100 | 582 | 
 

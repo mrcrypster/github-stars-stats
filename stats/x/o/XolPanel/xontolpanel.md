@@ -1,6 +1,6 @@
 # XolPanel/xontolpanel - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6 | 10 | 
 | 2022-10-26 | 6 | 10 | 
 | 2022-10-25 | 6 | 10 | 
 | 2022-10-24 | 6 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 4 | 11 | 
 | 2022-09-28 | 4 | 11 | 
 | 2022-09-27 | 4 | 11 | 
-| 2022-09-26 | 4 | 11 | 
 

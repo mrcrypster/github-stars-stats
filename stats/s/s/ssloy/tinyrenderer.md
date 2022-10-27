@@ -1,10 +1,10 @@
 # ssloy/tinyrenderer - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1419
+☋ Forks: 1423
 
-★ Stars: 14994
+★ Stars: 15008
 
 [Open repository](https://github.com/ssloy/tinyrenderer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 15008 | 1423 | 
 | 2022-10-25 | 14994 | 1419 | 
 | 2022-10-24 | 14984 | 1419 | 
 | 2022-10-23 | 14974 | 1417 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 14764 | 1407 | 
 | 2022-09-28 | 14755 | 1405 | 
 | 2022-09-27 | 14745 | 1403 | 
-| 2022-09-26 | 14741 | 1402 | 
 

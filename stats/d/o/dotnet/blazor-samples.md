@@ -1,8 +1,8 @@
 # dotnet/blazor-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 93
+☋ Forks: 95
 
 ★ Stars: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 87 | 95 | 
 | 2022-10-25 | 87 | 93 | 
 | 2022-10-24 | 87 | 93 | 
 | 2022-10-23 | 87 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 74 | 80 | 
 | 2022-09-28 | 73 | 80 | 
 | 2022-09-27 | 73 | 80 | 
-| 2022-09-26 | 73 | 79 | 
 

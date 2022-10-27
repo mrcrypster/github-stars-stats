@@ -1,8 +1,8 @@
 # godotengine/godot-docs - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1988
+☋ Forks: 1987
 
 ★ Stars: 1915
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1915 | 1987 | 
 | 2022-10-25 | 1915 | 1988 | 
 | 2022-10-24 | 1912 | 1984 | 
 | 2022-10-23 | 1911 | 1986 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1880 | 1961 | 
 | 2022-09-28 | 1878 | 1959 | 
 | 2022-09-27 | 1875 | 1958 | 
-| 2022-09-26 | 1874 | 1956 | 
 

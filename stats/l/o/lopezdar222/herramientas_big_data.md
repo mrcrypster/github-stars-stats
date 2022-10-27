@@ -1,8 +1,8 @@
 # lopezdar222/herramientas_big_data - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 5 | 20 | 
 | 2022-10-25 | 5 | 19 | 
 | 2022-10-24 | 5 | 18 | 
 | 2022-10-23 | 5 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 5 | 18 | 
 | 2022-09-28 | 5 | 18 | 
 | 2022-09-27 | 5 | 18 | 
-| 2022-09-26 | 5 | 18 | 
 

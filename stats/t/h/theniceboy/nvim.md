@@ -1,6 +1,6 @@
 # theniceboy/nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 513
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1484 | 513 | 
 | 2022-10-25 | 1484 | 513 | 
 | 2022-10-24 | 1486 | 513 | 
 | 2022-10-23 | 1485 | 514 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1467 | 510 | 
 | 2022-09-28 | 1468 | 511 | 
 | 2022-09-27 | 1466 | 512 | 
-| 2022-09-26 | 1465 | 512 | 
 

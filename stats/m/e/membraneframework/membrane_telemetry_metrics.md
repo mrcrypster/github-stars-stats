@@ -1,6 +1,6 @@
 # membraneframework/membrane_telemetry_metrics - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1 | - | 
 | 2022-10-25 | 1 | - | 
 | 2022-10-24 | 1 | - | 
 | 2022-10-23 | 1 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 1 | - | 
 | 2022-09-28 | 1 | - | 
 | 2022-09-27 | 1 | - | 
-| 2022-09-26 | 1 | - | 
 

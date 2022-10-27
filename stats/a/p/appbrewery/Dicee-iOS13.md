@@ -1,8 +1,8 @@
 # appbrewery/Dicee-iOS13 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 642
+☋ Forks: 643
 
 ★ Stars: 457
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 457 | 643 | 
 | 2022-10-25 | 457 | 642 | 
 | 2022-10-24 | 457 | 642 | 
 | 2022-10-23 | 457 | 643 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 452 | 635 | 
 | 2022-09-28 | 452 | 636 | 
 | 2022-09-27 | 452 | 634 | 
-| 2022-09-26 | 451 | 634 | 
 

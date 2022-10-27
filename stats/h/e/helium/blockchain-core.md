@@ -1,8 +1,8 @@
 # helium/blockchain-core - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 87
+☋ Forks: 88
 
 ★ Stars: 213
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 213 | 88 | 
 | 2022-10-25 | 213 | 87 | 
 | 2022-10-24 | 213 | 87 | 
 | 2022-10-23 | 213 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 212 | 85 | 
 | 2022-09-28 | 212 | 85 | 
 | 2022-09-27 | 212 | 84 | 
-| 2022-09-26 | 212 | 84 | 
 

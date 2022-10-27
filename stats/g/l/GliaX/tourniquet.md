@@ -1,10 +1,10 @@
 # GliaX/tourniquet - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/GliaX/tourniquet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 116 | 30 | 
 | 2022-10-25 | 115 | 29 | 
 | 2022-10-24 | 113 | 29 | 
 | 2022-10-23 | 113 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 110 | 28 | 
 | 2022-09-29 | 110 | 28 | 
 | 2022-09-28 | 110 | 28 | 
-| 2022-09-27 | 110 | 28 | 
 

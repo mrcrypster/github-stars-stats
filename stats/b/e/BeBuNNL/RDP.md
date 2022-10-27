@@ -1,6 +1,6 @@
 # BeBuNNL/RDP - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | - | 34 | 
 | 2022-10-25 | - | 34 | 
 | 2022-10-24 | - | 34 | 
 | 2022-10-23 | - | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | - | 24 | 
 | 2022-09-29 | - | 24 | 
 | 2022-09-28 | - | 24 | 
-| 2022-09-27 | - | 24 | 
 

@@ -1,10 +1,10 @@
 # cefsharp/CefSharp - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 2826
+☋ Forks: 2828
 
-★ Stars: 8983
+★ Stars: 8984
 
 [Open repository](https://github.com/cefsharp/CefSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 8984 | 2828 | 
 | 2022-10-25 | 8983 | 2826 | 
 | 2022-10-24 | 8980 | 2825 | 
 | 2022-10-23 | 8979 | 2825 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 8950 | 2821 | 
 | 2022-09-28 | 8951 | 2820 | 
 | 2022-09-27 | 8948 | 2819 | 
-| 2022-09-26 | 8946 | 2819 | 
 

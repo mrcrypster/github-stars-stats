@@ -1,10 +1,10 @@
 # ps1337/reinschauer - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 58
 
-★ Stars: 330
+★ Stars: 332
 
 [Open repository](https://github.com/ps1337/reinschauer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 332 | 58 | 
 | 2022-10-26 | 330 | 58 | 
 | 2022-10-25 | 329 | 57 | 
 | 2022-10-24 | 329 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 307 | 52 | 
 | 2022-09-28 | 307 | 51 | 
 | 2022-09-27 | 307 | 51 | 
-| 2022-09-26 | 303 | 48 | 
 

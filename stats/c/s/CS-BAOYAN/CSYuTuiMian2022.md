@@ -1,10 +1,10 @@
 # CS-BAOYAN/CSYuTuiMian2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 81
 
-★ Stars: 685
+★ Stars: 686
 
 [Open repository](https://github.com/CS-BAOYAN/CSYuTuiMian2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 686 | 81 | 
 | 2022-10-25 | 685 | 81 | 
 | 2022-10-24 | 685 | 81 | 
 | 2022-10-23 | 687 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 709 | 85 | 
 | 2022-09-28 | 710 | 86 | 
 | 2022-09-27 | 711 | 86 | 
-| 2022-09-26 | 710 | 87 | 
 

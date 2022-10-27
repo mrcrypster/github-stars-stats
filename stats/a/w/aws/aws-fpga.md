@@ -1,10 +1,10 @@
 # aws/aws-fpga - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 488
 
-★ Stars: 1285
+★ Stars: 1286
 
 [Open repository](https://github.com/aws/aws-fpga)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1286 | 488 | 
 | 2022-10-25 | 1285 | 488 | 
 | 2022-10-24 | 1285 | 488 | 
 | 2022-10-23 | 1284 | 488 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1270 | 487 | 
 | 2022-09-28 | 1270 | 488 | 
 | 2022-09-27 | 1269 | 488 | 
-| 2022-09-26 | 1269 | 488 | 
 

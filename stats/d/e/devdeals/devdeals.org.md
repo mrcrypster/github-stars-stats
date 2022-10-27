@@ -1,6 +1,6 @@
 # devdeals/devdeals.org - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 136 | 62 | 
 | 2022-10-25 | 136 | 62 | 
 | 2022-10-24 | 136 | 63 | 
 | 2022-10-23 | 136 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 135 | 62 | 
 | 2022-09-28 | 135 | 62 | 
 | 2022-09-27 | 135 | 62 | 
-| 2022-09-26 | 135 | 62 | 
 

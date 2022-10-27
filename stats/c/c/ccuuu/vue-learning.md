@@ -1,10 +1,10 @@
 # ccuuu/vue-learning - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 30
 
-★ Stars: 210
+★ Stars: 209
 
 [Open repository](https://github.com/ccuuu/vue-learning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 209 | 30 | 
 | 2022-10-25 | 210 | 30 | 
 | 2022-10-24 | 210 | 30 | 
 | 2022-10-23 | 210 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 209 | 29 | 
 | 2022-09-28 | 209 | 29 | 
 | 2022-09-27 | 209 | 29 | 
-| 2022-09-26 | 209 | 29 | 
 

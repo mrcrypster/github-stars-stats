@@ -1,8 +1,8 @@
 # akshitagupta15june/PetMe - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 103
+☋ Forks: 105
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 51 | 105 | 
 | 2022-10-25 | 51 | 103 | 
 | 2022-10-24 | 48 | 102 | 
 | 2022-10-23 | 47 | 102 | 

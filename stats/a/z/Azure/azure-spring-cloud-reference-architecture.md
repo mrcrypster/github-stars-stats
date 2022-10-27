@@ -1,6 +1,6 @@
 # Azure/azure-spring-cloud-reference-architecture - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 57 | 33 | 
 | 2022-10-25 | 57 | 33 | 
 | 2022-10-24 | 57 | 33 | 
 | 2022-10-23 | 57 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 56 | 33 | 
 | 2022-09-28 | 56 | 33 | 
 | 2022-09-27 | 56 | 33 | 
-| 2022-09-26 | 56 | 33 | 
 

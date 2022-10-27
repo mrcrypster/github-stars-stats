@@ -1,10 +1,10 @@
 # openai/CLIP - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1528
+☋ Forks: 1533
 
-★ Stars: 10423
+★ Stars: 10447
 
 [Open repository](https://github.com/openai/CLIP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 10447 | 1533 | 
 | 2022-10-25 | 10423 | 1528 | 
 | 2022-10-24 | 10393 | 1525 | 
 | 2022-10-23 | 10376 | 1520 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 9944 | 1462 | 
 | 2022-09-28 | 9914 | 1456 | 
 | 2022-09-27 | 9885 | 1452 | 
-| 2022-09-26 | 9872 | 1451 | 
 

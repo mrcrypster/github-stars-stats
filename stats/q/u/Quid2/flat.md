@@ -1,6 +1,6 @@
 # Quid2/flat - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 51 | 19 | 
 | 2022-10-25 | 51 | 19 | 
 | 2022-10-24 | 51 | 19 | 
 | 2022-10-23 | 51 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 50 | 19 | 
 | 2022-09-28 | 50 | 19 | 
 | 2022-09-27 | 50 | 19 | 
-| 2022-09-26 | 50 | 19 | 
 

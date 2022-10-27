@@ -1,6 +1,6 @@
 # fivetran/analytics-templates - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 12 | 21 | 
 | 2022-10-26 | 12 | 21 | 
 | 2022-10-25 | 12 | 21 | 
 | 2022-10-23 | 12 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 12 | 21 | 
 | 2022-09-28 | 12 | 21 | 
 | 2022-09-27 | 12 | 21 | 
-| 2022-09-26 | 12 | 21 | 
 

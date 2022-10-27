@@ -1,10 +1,10 @@
 # joomla/joomla-cms - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 3508
 
-★ Stars: 4282
+★ Stars: 4284
 
 [Open repository](https://github.com/joomla/joomla-cms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 4284 | 3508 | 
 | 2022-10-25 | 4282 | 3508 | 
 | 2022-10-24 | 4282 | 3510 | 
 | 2022-10-23 | 4283 | 3509 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 4271 | 3502 | 
 | 2022-09-28 | 4270 | 3502 | 
 | 2022-09-27 | 4269 | 3501 | 
-| 2022-09-26 | 4267 | 3501 | 
 

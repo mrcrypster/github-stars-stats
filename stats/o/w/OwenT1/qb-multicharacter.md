@@ -1,10 +1,10 @@
 # OwenT1/qb-multicharacter - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/OwenT1/qb-multicharacter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6 | - | 
 | 2022-10-26 | 5 | - | 
 | 2022-10-25 | 5 | - | 
 | 2022-10-24 | 5 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 4 | - | 
 | 2022-09-28 | 4 | - | 
 | 2022-09-27 | 4 | - | 
-| 2022-09-26 | 4 | - | 
 

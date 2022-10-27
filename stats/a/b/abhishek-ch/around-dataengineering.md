@@ -1,6 +1,6 @@
 # abhishek-ch/around-dataengineering - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 198
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 926 | 198 | 
 | 2022-10-25 | 926 | 198 | 
 | 2022-10-24 | 927 | 198 | 
 | 2022-10-23 | 927 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 916 | 197 | 
 | 2022-09-28 | 915 | 197 | 
 | 2022-09-27 | 915 | 197 | 
-| 2022-09-26 | 914 | 197 | 
 

@@ -1,10 +1,10 @@
 # Renewed-Scripts/Renewed-Weaponscarry - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 16
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Renewed-Scripts/Renewed-Weaponscarry)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 19 | 16 | 
 | 2022-10-25 | 18 | 16 | 
 | 2022-10-24 | 17 | 15 | 
 | 2022-10-23 | 17 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 15 | 12 | 
 | 2022-09-28 | 15 | 12 | 
 | 2022-09-27 | 15 | 12 | 
-| 2022-09-26 | 15 | 12 | 
 

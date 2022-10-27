@@ -1,6 +1,6 @@
 # YOURLS/YOURLS - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1768
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 8494 | 1768 | 
 | 2022-10-25 | 8494 | 1768 | 
 | 2022-10-24 | 8492 | 1767 | 
 | 2022-10-23 | 8491 | 1766 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 8434 | 1749 | 
 | 2022-09-28 | 8434 | 1749 | 
 | 2022-09-27 | 8433 | 1748 | 
-| 2022-09-26 | 8429 | 1748 | 
 

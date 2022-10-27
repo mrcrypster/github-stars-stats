@@ -1,6 +1,6 @@
 # gpit2286/armasm-by-example - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 14 | 3 | 
 | 2022-10-25 | 14 | 3 | 
 | 2022-10-24 | 14 | 3 | 
 | 2022-10-23 | 14 | 3 | 

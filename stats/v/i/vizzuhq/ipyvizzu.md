@@ -1,10 +1,10 @@
 # vizzuhq/ipyvizzu - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 50
 
-★ Stars: 653
+★ Stars: 657
 
 [Open repository](https://github.com/vizzuhq/ipyvizzu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 657 | 50 | 
 | 2022-10-25 | 653 | 50 | 
 | 2022-10-24 | 653 | 50 | 
 | 2022-10-23 | 653 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 542 | 39 | 
 | 2022-09-28 | 499 | 38 | 
 | 2022-09-27 | 497 | 38 | 
-| 2022-09-26 | 497 | 38 | 
 

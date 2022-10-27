@@ -1,10 +1,10 @@
 # wormtql/yas - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 80
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/wormtql/yas)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 614 | 80 | 
 | 2022-10-25 | 613 | 80 | 
 | 2022-10-24 | 611 | 80 | 
 | 2022-10-23 | 610 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 559 | 74 | 
 | 2022-09-29 | 558 | 73 | 
 | 2022-09-28 | 557 | 73 | 
-| 2022-09-27 | 556 | 73 | 
 

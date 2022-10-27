@@ -1,8 +1,8 @@
 # angeloanan/kominfo-d- - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 34
+☋ Forks: 33
 
 ★ Stars: 157
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 157 | 33 | 
 | 2022-10-25 | 157 | 34 | 
 | 2022-10-24 | 157 | 34 | 
 | 2022-10-23 | 157 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 159 | 34 | 
 | 2022-09-28 | 159 | 34 | 
 | 2022-09-27 | 159 | 33 | 
-| 2022-09-26 | 159 | 33 | 
 

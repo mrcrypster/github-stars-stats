@@ -1,6 +1,6 @@
 # rmehri01/onenord.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 288 | 23 | 
 | 2022-10-25 | 288 | 23 | 
 | 2022-10-24 | 288 | 23 | 
 | 2022-10-23 | 288 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 279 | 19 | 
 | 2022-09-28 | 279 | 19 | 
 | 2022-09-27 | 279 | 19 | 
-| 2022-09-26 | 279 | 19 | 
 

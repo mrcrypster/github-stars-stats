@@ -1,10 +1,10 @@
 # FreeDTV/FreeD - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 493
 
-★ Stars: 544
+★ Stars: 543
 
 [Open repository](https://github.com/FreeDTV/FreeD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 543 | 493 | 
 | 2022-10-25 | 544 | 493 | 
 | 2022-10-24 | 542 | 491 | 
 | 2022-10-23 | 541 | 491 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 535 | 488 | 
 | 2022-09-28 | 535 | 488 | 
 | 2022-09-27 | 535 | 488 | 
-| 2022-09-26 | 535 | 488 | 
 

@@ -1,10 +1,10 @@
 # StockSharp/StockSharp - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1494
 
-★ Stars: 5224
+★ Stars: 5227
 
 [Open repository](https://github.com/StockSharp/StockSharp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 5227 | 1494 | 
 | 2022-10-25 | 5224 | 1494 | 
 | 2022-10-24 | 5218 | 1493 | 
 | 2022-10-23 | 5216 | 1493 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 5174 | 1478 | 
 | 2022-09-28 | 5171 | 1479 | 
 | 2022-09-27 | 5171 | 1478 | 
-| 2022-09-26 | 5170 | 1476 | 
 

@@ -1,6 +1,6 @@
 # k8s-at-home/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 529
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1385 | 529 | 
 | 2022-10-25 | 1385 | 529 | 
 | 2022-10-24 | 1386 | 528 | 
 | 2022-10-23 | 1387 | 527 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1384 | 514 | 
 | 2022-09-28 | 1384 | 513 | 
 | 2022-09-27 | 1384 | 513 | 
-| 2022-09-26 | 1383 | 512 | 
 

@@ -1,10 +1,10 @@
 # chronoxor/NetCoreServer - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 394
+☋ Forks: 395
 
-★ Stars: 1718
+★ Stars: 1719
 
 [Open repository](https://github.com/chronoxor/NetCoreServer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1719 | 395 | 
 | 2022-10-25 | 1718 | 394 | 
 | 2022-10-24 | 1716 | 393 | 
 | 2022-10-23 | 1713 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1661 | 383 | 
 | 2022-09-28 | 1654 | 383 | 
 | 2022-09-27 | 1651 | 383 | 
-| 2022-09-26 | 1646 | 382 | 
 

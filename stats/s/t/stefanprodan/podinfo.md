@@ -1,10 +1,10 @@
 # stefanprodan/podinfo - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 1059
+☋ Forks: 1062
 
-★ Stars: 3393
+★ Stars: 3397
 
 [Open repository](https://github.com/stefanprodan/podinfo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3397 | 1062 | 
 | 2022-10-25 | 3393 | 1059 | 
 | 2022-10-24 | 3390 | 1059 | 
 | 2022-10-23 | 3382 | 1055 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 2651 | 998 | 
 | 2022-09-28 | 2647 | 997 | 
 | 2022-09-27 | 2646 | 996 | 
-| 2022-09-26 | 2644 | 994 | 
 

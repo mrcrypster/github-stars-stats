@@ -1,10 +1,10 @@
 # rhysd/conflict-marker.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 12
 
-★ Stars: 374
+★ Stars: 376
 
 [Open repository](https://github.com/rhysd/conflict-marker.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 376 | 12 | 
 | 2022-10-25 | 374 | 12 | 
 | 2022-10-24 | 374 | 12 | 
 | 2022-10-23 | 374 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 369 | 12 | 
 | 2022-09-28 | 369 | 12 | 
 | 2022-09-27 | 368 | 12 | 
-| 2022-09-26 | 368 | 12 | 
 

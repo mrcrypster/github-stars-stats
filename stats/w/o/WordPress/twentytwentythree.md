@@ -1,6 +1,6 @@
 # WordPress/twentytwentythree - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 107 | 53 | 
 | 2022-10-25 | 107 | 53 | 
 | 2022-10-24 | 107 | 52 | 
 | 2022-10-23 | 107 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 93 | 47 | 
 | 2022-09-28 | 92 | 46 | 
 | 2022-09-27 | 92 | 46 | 
-| 2022-09-26 | 92 | 46 | 
 

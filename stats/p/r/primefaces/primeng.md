@@ -1,10 +1,10 @@
 # primefaces/primeng - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 3965
 
-★ Stars: 7751
+★ Stars: 7757
 
 [Open repository](https://github.com/primefaces/primeng)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 7757 | 3965 | 
 | 2022-10-25 | 7751 | 3965 | 
 | 2022-10-24 | 7751 | 3965 | 
 | 2022-10-23 | 7749 | 3965 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 7699 | 3937 | 
 | 2022-09-28 | 7698 | 3937 | 
 | 2022-09-27 | 7695 | 3935 | 
-| 2022-09-26 | 7693 | 3933 | 
 

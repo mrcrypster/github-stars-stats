@@ -1,6 +1,6 @@
 # hauleth/mix_unused - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 167 | 9 | 
 | 2022-10-25 | 167 | 9 | 
 | 2022-10-24 | 167 | 9 | 
 | 2022-10-23 | 167 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 166 | 9 | 
 | 2022-09-28 | 166 | 9 | 
 | 2022-09-27 | 166 | 9 | 
-| 2022-09-26 | 166 | 9 | 
 

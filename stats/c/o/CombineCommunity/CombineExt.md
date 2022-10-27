@@ -1,10 +1,10 @@
 # CombineCommunity/CombineExt - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 130
 
-★ Stars: 1321
+★ Stars: 1323
 
 [Open repository](https://github.com/CombineCommunity/CombineExt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1323 | 130 | 
 | 2022-10-25 | 1321 | 130 | 
 | 2022-10-24 | 1320 | 130 | 
 | 2022-10-23 | 1316 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1308 | 128 | 
 | 2022-09-28 | 1306 | 128 | 
 | 2022-09-27 | 1302 | 128 | 
-| 2022-09-26 | 1302 | 128 | 
 

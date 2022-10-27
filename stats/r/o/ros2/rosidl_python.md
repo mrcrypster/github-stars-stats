@@ -1,10 +1,10 @@
 # ros2/rosidl_python - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 34
+☋ Forks: 35
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/ros2/rosidl_python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 17 | 35 | 
 | 2022-10-25 | 16 | 34 | 
 | 2022-10-24 | 16 | 34 | 
 | 2022-10-23 | 16 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 16 | 34 | 
 | 2022-09-28 | 16 | 34 | 
 | 2022-09-27 | 16 | 33 | 
-| 2022-09-26 | 16 | 33 | 
 

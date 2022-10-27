@@ -1,6 +1,6 @@
 # learn-co-curriculum/phase-4-rails-create-read-lab - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 1441
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3 | 1441 | 
 | 2022-10-25 | 3 | 1441 | 
 | 2022-10-24 | 3 | 1437 | 
 | 2022-10-23 | 3 | 1435 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 2 | 1288 | 
 | 2022-09-28 | 2 | 1246 | 
 | 2022-09-27 | 2 | 1169 | 
-| 2022-09-26 | 2 | 1127 | 
 

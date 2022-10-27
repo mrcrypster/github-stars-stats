@@ -1,10 +1,10 @@
 # J2TEAM/idm-trial-reset - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 394
+☋ Forks: 393
 
-★ Stars: 1499
+★ Stars: 1505
 
 [Open repository](https://github.com/J2TEAM/idm-trial-reset)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1505 | 393 | 
 | 2022-10-25 | 1499 | 394 | 
 | 2022-10-24 | 1495 | 392 | 
 | 2022-10-23 | 1492 | 392 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1434 | 382 | 
 | 2022-09-28 | 1429 | 381 | 
 | 2022-09-27 | 1429 | 381 | 
-| 2022-09-26 | 1429 | 381 | 
 

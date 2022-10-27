@@ -1,10 +1,10 @@
 # rithinskaria/kodekloud-azure - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 37
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/rithinskaria/kodekloud-azure)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 17 | 37 | 
 | 2022-10-25 | 16 | 37 | 
 | 2022-10-24 | 16 | 37 | 
 | 2022-10-23 | 16 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 12 | 27 | 
 | 2022-09-28 | 11 | 26 | 
 | 2022-09-27 | 10 | 26 | 
-| 2022-09-26 | 10 | 26 | 
 

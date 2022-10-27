@@ -1,6 +1,6 @@
 # ThrowTheSwitch/CMock - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 520 | 241 | 
 | 2022-10-25 | 520 | 241 | 
 | 2022-10-24 | 519 | 241 | 
 | 2022-10-23 | 519 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 511 | 238 | 
 | 2022-09-28 | 510 | 238 | 
 | 2022-09-27 | 509 | 237 | 
-| 2022-09-26 | 509 | 237 | 
 

@@ -1,8 +1,8 @@
 # mgilangjanuar/teledrive - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 588
+☋ Forks: 589
 
 ★ Stars: 1271
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1271 | 589 | 
 | 2022-10-25 | 1271 | 588 | 
 | 2022-10-24 | 1270 | 587 | 
 | 2022-10-23 | 1269 | 587 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1229 | 559 | 
 | 2022-09-28 | 1228 | 559 | 
 | 2022-09-27 | 1228 | 558 | 
-| 2022-09-26 | 1226 | 558 | 
 

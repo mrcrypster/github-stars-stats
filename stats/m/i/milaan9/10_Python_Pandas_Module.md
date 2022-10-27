@@ -1,6 +1,6 @@
 # milaan9/10_Python_Pandas_Module - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 213 | 214 | 
 | 2022-10-26 | 213 | 214 | 
 | 2022-10-25 | 213 | 214 | 
 | 2022-10-24 | 213 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 212 | 213 | 
 | 2022-09-28 | 212 | 213 | 
 | 2022-09-27 | 212 | 213 | 
-| 2022-09-26 | 212 | 213 | 
 

@@ -1,8 +1,8 @@
 # creativetimofficial/nuxt-black-dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 73
+☋ Forks: 74
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 42 | 74 | 
 | 2022-10-26 | 42 | 73 | 
 | 2022-10-25 | 42 | 71 | 
 | 2022-10-24 | 42 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 42 | 56 | 
 | 2022-09-28 | 42 | 56 | 
 | 2022-09-27 | 42 | 56 | 
-| 2022-09-26 | 42 | 55 | 
 

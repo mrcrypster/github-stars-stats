@@ -1,6 +1,6 @@
 # mi-sdm439/proprietary_vendor_xiaomi_sdm439-common - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 1 | 16 | 
 | 2022-10-25 | 1 | 16 | 
 | 2022-10-24 | 1 | 15 | 
 | 2022-10-23 | 1 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 1 | 15 | 
 | 2022-09-28 | 1 | 15 | 
 | 2022-09-27 | 1 | 15 | 
-| 2022-09-26 | 1 | 15 | 
 

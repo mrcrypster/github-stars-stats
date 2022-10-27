@@ -1,10 +1,10 @@
 # dortania/Getting-Started-With-ACPI - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 358
 
-★ Stars: 436
+★ Stars: 437
 
 [Open repository](https://github.com/dortania/Getting-Started-With-ACPI)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 437 | 358 | 
 | 2022-10-25 | 436 | 358 | 
 | 2022-10-24 | 436 | 358 | 
 | 2022-10-23 | 436 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 431 | 350 | 
 | 2022-09-28 | 430 | 349 | 
 | 2022-09-27 | 430 | 349 | 
-| 2022-09-26 | 430 | 349 | 
 

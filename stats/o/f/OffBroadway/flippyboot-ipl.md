@@ -1,8 +1,8 @@
 # OffBroadway/flippyboot-ipl - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 6
+☋ Forks: 5
 
 ★ Stars: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 58 | 5 | 
 | 2022-10-25 | 58 | 6 | 
 | 2022-10-24 | 57 | 6 | 
 | 2022-10-23 | 56 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 44 | 4 | 
 | 2022-09-28 | 43 | 4 | 
 | 2022-09-27 | 43 | 4 | 
-| 2022-09-26 | 42 | 4 | 
 

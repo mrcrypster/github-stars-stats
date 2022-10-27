@@ -1,10 +1,10 @@
 # jarun/nnn - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 621
 
-★ Stars: 15064
+★ Stars: 15073
 
 [Open repository](https://github.com/jarun/nnn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 15073 | 621 | 
 | 2022-10-25 | 15064 | 621 | 
 | 2022-10-24 | 15062 | 621 | 
 | 2022-10-23 | 15060 | 621 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 14941 | 617 | 
 | 2022-09-28 | 14936 | 618 | 
 | 2022-09-27 | 14930 | 617 | 
-| 2022-09-26 | 14923 | 616 | 
 

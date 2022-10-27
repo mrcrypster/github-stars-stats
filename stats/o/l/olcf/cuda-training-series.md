@@ -1,6 +1,6 @@
 # olcf/cuda-training-series - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 164 | 84 | 
 | 2022-10-25 | 164 | 84 | 
 | 2022-10-24 | 164 | 84 | 
 | 2022-10-23 | 164 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 160 | 79 | 
 | 2022-09-28 | 159 | 79 | 
 | 2022-09-27 | 158 | 79 | 
-| 2022-09-26 | 158 | 78 | 
 

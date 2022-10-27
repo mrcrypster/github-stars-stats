@@ -1,10 +1,10 @@
 # MrEliptik/godot_experiments - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 40
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/MrEliptik/godot_experiments)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 257 | 40 | 
 | 2022-10-25 | 256 | 40 | 
 | 2022-10-24 | 255 | 39 | 
 | 2022-10-23 | 254 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 248 | 38 | 
 | 2022-09-28 | 248 | 38 | 
 | 2022-09-27 | 248 | 38 | 
-| 2022-09-26 | 248 | 38 | 
 

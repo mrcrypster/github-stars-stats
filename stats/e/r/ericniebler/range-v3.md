@@ -1,10 +1,10 @@
 # ericniebler/range-v3 - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 396
+☋ Forks: 397
 
-★ Stars: 3521
+★ Stars: 3525
 
 [Open repository](https://github.com/ericniebler/range-v3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3525 | 397 | 
 | 2022-10-25 | 3521 | 396 | 
 | 2022-10-24 | 3521 | 396 | 
 | 2022-10-23 | 3521 | 396 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 3501 | 395 | 
 | 2022-09-29 | 3500 | 395 | 
 | 2022-09-28 | 3498 | 395 | 
-| 2022-09-27 | 3497 | 395 | 
 

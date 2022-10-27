@@ -1,8 +1,8 @@
 # InstaPy/InstaPy - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
-☋ Forks: 3654
+☋ Forks: 3655
 
 ★ Stars: 14723
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 14723 | 3655 | 
 | 2022-10-25 | 14723 | 3654 | 
 | 2022-10-24 | 14717 | 3654 | 
 | 2022-10-23 | 14713 | 3657 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 14653 | 3642 | 
 | 2022-09-28 | 14649 | 3643 | 
 | 2022-09-27 | 14648 | 3641 | 
-| 2022-09-26 | 14645 | 3643 | 
 

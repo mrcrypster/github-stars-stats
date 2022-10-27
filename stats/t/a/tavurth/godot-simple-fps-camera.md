@@ -1,10 +1,10 @@
 # tavurth/godot-simple-fps-camera - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 5
 
-★ Stars: 35
+★ Stars: 37
 
 [Open repository](https://github.com/tavurth/godot-simple-fps-camera)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 37 | 5 | 
 | 2022-10-25 | 35 | 5 | 
 | 2022-10-24 | 35 | 5 | 
 | 2022-10-23 | 35 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 35 | 5 | 
 | 2022-09-28 | 35 | 5 | 
 | 2022-09-27 | 35 | 5 | 
-| 2022-09-26 | 35 | 5 | 
 

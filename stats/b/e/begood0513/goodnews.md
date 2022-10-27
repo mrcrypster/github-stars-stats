@@ -1,6 +1,6 @@
 # begood0513/goodnews - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 10 | 8 | 
 | 2022-10-26 | 10 | 8 | 
 | 2022-10-25 | 10 | 8 | 
 | 2022-10-23 | 10 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 9 | 9 | 
 | 2022-09-28 | 9 | 9 | 
 | 2022-09-27 | 9 | 9 | 
-| 2022-09-26 | 9 | 9 | 
 

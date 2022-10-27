@@ -1,6 +1,6 @@
 # viniciusgerevini/godot-aseprite-wizard - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 265 | 21 | 
 | 2022-10-26 | 265 | 21 | 
 | 2022-10-25 | 264 | 20 | 
 | 2022-10-24 | 264 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-29 | 253 | 20 | 
 | 2022-09-28 | 253 | 20 | 
 | 2022-09-27 | 253 | 20 | 
-| 2022-09-26 | 253 | 20 | 
 

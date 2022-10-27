@@ -1,10 +1,10 @@
 # forcedotcom/SalesforceMobileSDK-iOS - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 425
 
-★ Stars: 507
+★ Stars: 506
 
 [Open repository](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 506 | 425 | 
 | 2022-10-25 | 507 | 425 | 
 | 2022-10-24 | 507 | 425 | 
 | 2022-10-23 | 506 | 425 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-29 | 504 | 423 | 
 | 2022-09-28 | 504 | 423 | 
 | 2022-09-27 | 504 | 423 | 
-| 2022-09-26 | 504 | 423 | 
 

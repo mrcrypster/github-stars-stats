@@ -1,6 +1,6 @@
 # polomarcus/tp - stars & forks statistics
 
-Stats updated on Oct 2022, 25
+Stats updated on Oct 2022, 26
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 25
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-26 | 3 | 53 | 
 | 2022-10-25 | 3 | 53 | 
 | 2022-10-24 | 3 | 53 | 
 | 2022-10-23 | 3 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 25
 | 2022-09-30 | 2 | 53 | 
 | 2022-09-29 | 2 | 53 | 
 | 2022-09-28 | 2 | 53 | 
-| 2022-09-27 | 2 | 53 | 
 
