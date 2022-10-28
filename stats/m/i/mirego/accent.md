@@ -1,6 +1,6 @@
 # mirego/accent - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 887 | 72 | 
 | 2022-10-26 | 887 | 72 | 
 | 2022-10-25 | 887 | 72 | 
 | 2022-10-24 | 884 | 72 | 

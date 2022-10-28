@@ -1,10 +1,10 @@
 # JuliaStats/Distances.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 93
 
-★ Stars: 354
+★ Stars: 355
 
 [Open repository](https://github.com/JuliaStats/Distances.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 355 | 93 | 
 | 2022-10-26 | 354 | 93 | 
 | 2022-10-25 | 354 | 93 | 
 | 2022-10-24 | 354 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 353 | 91 | 
 | 2022-09-29 | 353 | 91 | 
 | 2022-09-28 | 353 | 91 | 
-| 2022-09-27 | 353 | 91 | 
 

@@ -1,10 +1,10 @@
 # LambdaLabsML/examples - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 44
+☋ Forks: 45
 
-★ Stars: 339
+★ Stars: 343
 
 [Open repository](https://github.com/LambdaLabsML/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 343 | 45 | 
 | 2022-10-26 | 339 | 44 | 
 | 2022-10-25 | 332 | 43 | 
 | 2022-10-24 | 330 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 214 | 20 | 
 | 2022-09-29 | 189 | 19 | 
 | 2022-09-28 | 174 | 19 | 
-| 2022-09-27 | 160 | 17 | 
 

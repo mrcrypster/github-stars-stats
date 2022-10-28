@@ -1,10 +1,10 @@
 # b7leung/MLE-Flashcards - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 122
 
-★ Stars: 1489
+★ Stars: 1491
 
 [Open repository](https://github.com/b7leung/MLE-Flashcards)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1491 | 122 | 
 | 2022-10-26 | 1489 | 122 | 
 | 2022-10-25 | 1489 | 122 | 
 | 2022-10-24 | 1489 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1459 | 118 | 
 | 2022-09-29 | 1459 | 118 | 
 | 2022-09-28 | 1459 | 118 | 
-| 2022-09-27 | 1458 | 118 | 
 

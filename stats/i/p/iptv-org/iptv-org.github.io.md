@@ -1,10 +1,10 @@
 # iptv-org/iptv-org.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 27
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/iptv-org/iptv-org.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 54 | 27 | 
 | 2022-10-26 | 53 | 27 | 
 | 2022-10-25 | 53 | 26 | 
 | 2022-10-24 | 53 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 46 | 24 | 
 | 2022-09-29 | 46 | 24 | 
 | 2022-09-28 | 46 | 24 | 
-| 2022-09-27 | 46 | 24 | 
 

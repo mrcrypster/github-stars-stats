@@ -1,10 +1,10 @@
 # danielbohannon/Invoke-Obfuscation - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 653
+☋ Forks: 654
 
-★ Stars: 2789
+★ Stars: 2790
 
 [Open repository](https://github.com/danielbohannon/Invoke-Obfuscation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2790 | 654 | 
 | 2022-10-26 | 2789 | 653 | 
 | 2022-10-25 | 2789 | 653 | 
 | 2022-10-24 | 2788 | 653 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 2760 | 645 | 
 | 2022-09-29 | 2758 | 644 | 
 | 2022-09-28 | 2756 | 643 | 
-| 2022-09-27 | 2754 | 642 | 
 

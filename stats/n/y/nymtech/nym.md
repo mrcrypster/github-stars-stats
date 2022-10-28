@@ -1,10 +1,10 @@
 # nymtech/nym - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 120
+☋ Forks: 121
 
-★ Stars: 613
+★ Stars: 614
 
 [Open repository](https://github.com/nymtech/nym)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 614 | 121 | 
 | 2022-10-26 | 613 | 120 | 
 | 2022-10-25 | 613 | 120 | 
 | 2022-10-24 | 613 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 599 | 114 | 
 | 2022-09-29 | 599 | 113 | 
 | 2022-09-28 | 598 | 113 | 
-| 2022-09-27 | 596 | 113 | 
 

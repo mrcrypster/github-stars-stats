@@ -1,10 +1,10 @@
 # apache/spark - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 26248
+☋ Forks: 26252
 
-★ Stars: 34202
+★ Stars: 34211
 
 [Open repository](https://github.com/apache/spark)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 34211 | 26252 | 
 | 2022-10-26 | 34202 | 26248 | 
 | 2022-10-25 | 34196 | 26248 | 
 | 2022-10-24 | 34186 | 26243 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 33999 | 26139 | 
 | 2022-09-29 | 33992 | 26135 | 
 | 2022-09-28 | 33981 | 26130 | 
-| 2022-09-27 | 33972 | 26121 | 
 

@@ -1,6 +1,6 @@
 # regolith-linux/ilia - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 33 | 3 | 
 | 2022-10-26 | 33 | 3 | 
 | 2022-10-25 | 33 | 3 | 
 | 2022-10-24 | 33 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 31 | 3 | 
 | 2022-09-29 | 31 | 3 | 
 | 2022-09-28 | 31 | 3 | 
-| 2022-09-27 | 31 | 3 | 
 

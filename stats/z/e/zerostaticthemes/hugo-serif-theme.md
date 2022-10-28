@@ -1,8 +1,8 @@
 # zerostaticthemes/hugo-serif-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 209
+☋ Forks: 208
 
 ★ Stars: 336
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 336 | 208 | 
 | 2022-10-26 | 336 | 209 | 
 | 2022-10-25 | 336 | 209 | 
 | 2022-10-24 | 335 | 209 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 328 | 207 | 
 | 2022-09-29 | 328 | 207 | 
 | 2022-09-28 | 327 | 207 | 
-| 2022-09-27 | 327 | 206 | 
 

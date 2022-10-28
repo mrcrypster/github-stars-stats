@@ -1,10 +1,10 @@
 # windingwind/zotero-pdf-preview - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 5
 
-★ Stars: 249
+★ Stars: 250
 
 [Open repository](https://github.com/windingwind/zotero-pdf-preview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 250 | 5 | 
 | 2022-10-26 | 249 | 5 | 
 | 2022-10-25 | 246 | 5 | 
 | 2022-10-24 | 241 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 194 | 5 | 
 | 2022-09-29 | 191 | 5 | 
 | 2022-09-28 | 189 | 5 | 
-| 2022-09-27 | 184 | 4 | 
 

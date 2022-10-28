@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/consenlabs/tokenlon-contracts)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-27 | 28 | 3 | 
+| 2022-10-27 | 29 | 3 | 
 | 2022-10-26 | 28 | 3 | 
 

@@ -1,10 +1,10 @@
 # pulse-club/gta-brasil - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/pulse-club/gta-brasil)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 16 | 1 | 
 | 2022-10-26 | 15 | 1 | 
 | 2022-10-25 | 15 | 1 | 
 | 2022-10-24 | 15 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 9 | 2 | 
 | 2022-09-29 | 9 | 2 | 
 | 2022-09-28 | 9 | 1 | 
-| 2022-09-27 | 9 | 1 | 
 

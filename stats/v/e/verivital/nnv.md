@@ -1,6 +1,6 @@
 # verivital/nnv - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 74 | 36 | 
 | 2022-10-26 | 74 | 36 | 
 | 2022-10-25 | 74 | 36 | 
 | 2022-10-24 | 74 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 73 | 36 | 
 | 2022-09-29 | 73 | 36 | 
 | 2022-09-28 | 73 | 36 | 
-| 2022-09-27 | 73 | 36 | 
 

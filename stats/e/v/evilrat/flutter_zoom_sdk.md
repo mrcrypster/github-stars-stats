@@ -1,8 +1,8 @@
 # evilrat/flutter_zoom_sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 30 | 54 | 
 | 2022-10-26 | 30 | 53 | 
 | 2022-10-25 | 30 | 53 | 
 | 2022-10-24 | 30 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 30 | 46 | 
 | 2022-09-29 | 30 | 46 | 
 | 2022-09-28 | 30 | 46 | 
-| 2022-09-27 | 30 | 46 | 
 

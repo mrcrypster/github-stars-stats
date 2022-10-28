@@ -1,10 +1,10 @@
 # DGP-Studio/Snap.Genshin - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 163
 
-★ Stars: 1894
+★ Stars: 1895
 
 [Open repository](https://github.com/DGP-Studio/Snap.Genshin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1895 | 163 | 
 | 2022-10-26 | 1894 | 163 | 
 | 2022-10-25 | 1894 | 163 | 
 | 2022-10-24 | 1893 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1829 | 149 | 
 | 2022-09-29 | 1827 | 149 | 
 | 2022-09-28 | 1818 | 147 | 
-| 2022-09-27 | 1812 | 146 | 
 

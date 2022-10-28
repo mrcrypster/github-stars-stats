@@ -1,6 +1,6 @@
 # tuna/THU-Beamer-Theme - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 219 | 56 | 
 | 2022-10-26 | 219 | 56 | 
 | 2022-10-25 | 219 | 56 | 
 | 2022-10-24 | 219 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 215 | 54 | 
 | 2022-09-30 | 215 | 55 | 
 | 2022-09-29 | 215 | 55 | 
-| 2022-09-28 | 215 | 55 | 
 

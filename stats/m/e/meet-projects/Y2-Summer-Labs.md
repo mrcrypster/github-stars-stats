@@ -1,6 +1,6 @@
 # meet-projects/Y2-Summer-Labs - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2 | 42 | 
 | 2022-10-26 | 2 | 42 | 
 | 2022-10-25 | 2 | 42 | 
 | 2022-10-24 | 2 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 2 | 42 | 
 | 2022-09-30 | 2 | 42 | 
 | 2022-09-29 | 2 | 42 | 
-| 2022-09-27 | 2 | 42 | 
 

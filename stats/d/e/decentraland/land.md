@@ -1,6 +1,6 @@
 # decentraland/land - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 118 | 52 | 
 | 2022-10-26 | 118 | 52 | 
 | 2022-10-25 | 118 | 52 | 
 | 2022-10-24 | 118 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 118 | 52 | 
 | 2022-09-29 | 118 | 52 | 
 | 2022-09-28 | 118 | 52 | 
-| 2022-09-27 | 118 | 52 | 
 

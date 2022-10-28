@@ -1,6 +1,6 @@
 # aeternity/aeternity - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 233
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1021 | 233 | 
 | 2022-10-26 | 1021 | 233 | 
 | 2022-10-25 | 1022 | 233 | 
 | 2022-10-24 | 1022 | 233 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1020 | 232 | 
 | 2022-09-29 | 1020 | 232 | 
 | 2022-09-28 | 1019 | 232 | 
-| 2022-09-27 | 1019 | 232 | 
 

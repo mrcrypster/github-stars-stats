@@ -1,10 +1,10 @@
 # satwikkansal/wtfpython - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 2522
+☋ Forks: 2521
 
-★ Stars: 31856
+★ Stars: 31865
 
 [Open repository](https://github.com/satwikkansal/wtfpython)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 31865 | 2521 | 
 | 2022-10-26 | 31856 | 2522 | 
 | 2022-10-25 | 31834 | 2520 | 
 | 2022-10-24 | 31817 | 2520 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 31747 | 2517 | 
 | 2022-09-29 | 31743 | 2517 | 
 | 2022-09-28 | 31733 | 2516 | 
-| 2022-09-27 | 31726 | 2515 | 
 

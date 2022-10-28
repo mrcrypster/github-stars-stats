@@ -1,6 +1,6 @@
 # z-song/laravel-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 2734
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 10619 | 2734 | 
 | 2022-10-26 | 10619 | 2734 | 
 | 2022-10-25 | 10618 | 2733 | 
 | 2022-10-24 | 10618 | 2732 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 10590 | 2723 | 
 | 2022-09-29 | 10590 | 2724 | 
 | 2022-09-28 | 10588 | 2722 | 
-| 2022-09-27 | 10587 | 2721 | 
 

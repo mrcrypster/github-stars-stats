@@ -1,8 +1,8 @@
 # denysdovhan/learnyouhtml - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 152
+☋ Forks: 151
 
 ★ Stars: 150
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 150 | 151 | 
 | 2022-10-26 | 150 | 152 | 
 | 2022-10-25 | 149 | 152 | 
 | 2022-10-24 | 148 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 146 | 152 | 
 | 2022-09-29 | 146 | 152 | 
 | 2022-09-28 | 146 | 152 | 
-| 2022-09-27 | 146 | 152 | 
 

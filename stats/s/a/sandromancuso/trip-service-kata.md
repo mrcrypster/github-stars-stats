@@ -1,6 +1,6 @@
 # sandromancuso/trip-service-kata - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 478
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 372 | 478 | 
 | 2022-10-26 | 372 | 478 | 
 | 2022-10-25 | 372 | 478 | 
 | 2022-10-24 | 372 | 478 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 368 | 476 | 
 | 2022-09-29 | 368 | 475 | 
 | 2022-09-28 | 368 | 475 | 
-| 2022-09-27 | 368 | 475 | 
 

@@ -1,6 +1,6 @@
 # rikhuijzer/PrecompileSignatures.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 27 | 5 | 
 | 2022-10-26 | 27 | 5 | 
 | 2022-10-25 | 27 | 5 | 
 | 2022-10-24 | 27 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 27 | 5 | 
 | 2022-09-30 | 27 | 5 | 
 | 2022-09-28 | 27 | 5 | 
-| 2022-09-27 | 27 | 5 | 
 

@@ -1,6 +1,6 @@
 # rosasurfer/mt4-mql - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 208 | 107 | 
 | 2022-10-26 | 208 | 107 | 
 | 2022-10-25 | 208 | 107 | 
 | 2022-10-24 | 208 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 205 | 103 | 
 | 2022-09-29 | 205 | 103 | 
 | 2022-09-28 | 205 | 103 | 
-| 2022-09-27 | 205 | 103 | 
 

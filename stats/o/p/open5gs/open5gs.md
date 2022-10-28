@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 27
 
-☋ Forks: 435
+☋ Forks: 436
 
-★ Stars: 980
+★ Stars: 981
 
 [Open repository](https://github.com/open5gs/open5gs)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-27 | 980 | 435 | 
+| 2022-10-27 | 981 | 436 | 
 | 2022-10-26 | 980 | 435 | 
 | 2022-10-25 | 973 | 433 | 
 | 2022-10-24 | 973 | 432 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 959 | 420 | 
 | 2022-09-29 | 958 | 420 | 
 | 2022-09-28 | 958 | 420 | 
-| 2022-09-27 | 957 | 420 | 
 

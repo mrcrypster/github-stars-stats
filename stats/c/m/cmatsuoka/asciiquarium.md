@@ -1,8 +1,8 @@
 # cmatsuoka/asciiquarium - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 51
+☋ Forks: 52
 
 ★ Stars: 509
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 509 | 52 | 
 | 2022-10-26 | 509 | 51 | 
 | 2022-10-25 | 509 | 51 | 
 | 2022-10-24 | 509 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 495 | 51 | 
 | 2022-09-29 | 495 | 51 | 
 | 2022-09-28 | 495 | 51 | 
-| 2022-09-27 | 495 | 50 | 
 

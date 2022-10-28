@@ -1,6 +1,6 @@
 # aminGhafoory/parametric-knob-maker - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 39 | - | 
 | 2022-10-26 | 39 | - | 
 | 2022-10-25 | 39 | - | 
 | 2022-10-24 | 39 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 37 | - | 
 | 2022-09-29 | 37 | - | 
 | 2022-09-28 | 37 | - | 
-| 2022-09-27 | 37 | - | 
 

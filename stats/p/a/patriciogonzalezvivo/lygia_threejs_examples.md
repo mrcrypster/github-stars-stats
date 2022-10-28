@@ -1,10 +1,10 @@
 # patriciogonzalezvivo/lygia_threejs_examples - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/patriciogonzalezvivo/lygia_threejs_examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 16 | 1 | 
 | 2022-10-26 | 15 | 1 | 
 | 2022-10-25 | 13 | 1 | 
 | 2022-10-24 | 12 | 1 | 

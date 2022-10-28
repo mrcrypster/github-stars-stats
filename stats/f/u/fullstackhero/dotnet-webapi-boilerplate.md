@@ -1,10 +1,10 @@
 # fullstackhero/dotnet-webapi-boilerplate - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 695
+☋ Forks: 697
 
-★ Stars: 2396
+★ Stars: 2399
 
 [Open repository](https://github.com/fullstackhero/dotnet-webapi-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2399 | 697 | 
 | 2022-10-26 | 2396 | 695 | 
 | 2022-10-25 | 2396 | 694 | 
 | 2022-10-24 | 2396 | 694 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 2343 | 659 | 
 | 2022-09-29 | 2343 | 658 | 
 | 2022-09-28 | 2339 | 657 | 
-| 2022-09-27 | 2337 | 657 | 
 

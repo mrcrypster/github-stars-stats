@@ -1,10 +1,10 @@
 # nelhage/reptyr - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 197
 
-★ Stars: 4690
+★ Stars: 4693
 
 [Open repository](https://github.com/nelhage/reptyr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4693 | 197 | 
 | 2022-10-26 | 4690 | 197 | 
 | 2022-10-25 | 4690 | 197 | 
 | 2022-10-24 | 4691 | 197 | 

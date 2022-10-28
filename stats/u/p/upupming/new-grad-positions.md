@@ -1,6 +1,6 @@
 # upupming/new-grad-positions - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 808 | 35 | 
 | 2022-10-26 | 808 | 35 | 
 | 2022-10-25 | 808 | 35 | 
 | 2022-10-24 | 809 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 793 | 36 | 
 | 2022-09-29 | 791 | 36 | 
 | 2022-09-28 | 788 | 36 | 
-| 2022-09-27 | 788 | 36 | 
 

@@ -1,10 +1,10 @@
 # mintameta/mintameta-contract-nft - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 10
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/mintameta/mintameta-contract-nft)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 66 | 10 | 
 | 2022-10-26 | 67 | 10 | 
 | 2022-10-25 | 67 | 10 | 
 | 2022-10-24 | 67 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 67 | 10 | 
 | 2022-09-29 | 67 | 10 | 
 | 2022-09-28 | 67 | 10 | 
-| 2022-09-27 | 67 | 10 | 
 

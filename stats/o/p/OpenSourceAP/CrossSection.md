@@ -1,10 +1,10 @@
 # OpenSourceAP/CrossSection - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 167
 
-★ Stars: 404
+★ Stars: 405
 
 [Open repository](https://github.com/OpenSourceAP/CrossSection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 405 | 167 | 
 | 2022-10-26 | 404 | 167 | 
 | 2022-10-25 | 404 | 167 | 
 | 2022-10-24 | 404 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 397 | 165 | 
 | 2022-09-29 | 397 | 165 | 
 | 2022-09-28 | 397 | 165 | 
-| 2022-09-27 | 395 | 165 | 
 

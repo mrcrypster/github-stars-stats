@@ -1,10 +1,10 @@
 # VegaBobo/DSU-Sideloader - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 28
 
-★ Stars: 366
+★ Stars: 369
 
 [Open repository](https://github.com/VegaBobo/DSU-Sideloader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 369 | 28 | 
 | 2022-10-26 | 366 | 28 | 
 | 2022-10-25 | 365 | 28 | 
 | 2022-10-24 | 365 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 316 | 23 | 
 | 2022-09-29 | 315 | 23 | 
 | 2022-09-28 | 315 | 23 | 
-| 2022-09-27 | 314 | 23 | 
 

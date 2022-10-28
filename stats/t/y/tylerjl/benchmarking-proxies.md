@@ -1,10 +1,10 @@
 # tylerjl/benchmarking-proxies - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 4
+☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/tylerjl/benchmarking-proxies)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 20 | 3 | 
 | 2022-10-26 | 21 | 4 | 
 | 2022-10-25 | 21 | 4 | 
 | 2022-10-24 | 21 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 16 | 3 | 
 | 2022-09-29 | 16 | 3 | 
 | 2022-09-28 | 16 | 3 | 
-| 2022-09-27 | 15 | 3 | 
 

@@ -1,8 +1,8 @@
 # makerdao/multicall - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 277
+☋ Forks: 280
 
 ★ Stars: 722
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 722 | 280 | 
 | 2022-10-26 | 722 | 277 | 
 | 2022-10-25 | 721 | 277 | 
 | 2022-10-24 | 721 | 277 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 700 | 266 | 
 | 2022-09-29 | 697 | 266 | 
 | 2022-09-28 | 697 | 265 | 
-| 2022-09-27 | 696 | 265 | 
 

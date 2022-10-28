@@ -1,10 +1,10 @@
 # paulmillr/encrypted-dns - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 220
 
-★ Stars: 1545
+★ Stars: 1547
 
 [Open repository](https://github.com/paulmillr/encrypted-dns)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1547 | 220 | 
 | 2022-10-26 | 1545 | 220 | 
 | 2022-10-25 | 1542 | 219 | 
 | 2022-10-24 | 1542 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 1505 | 218 | 
 | 2022-09-30 | 1504 | 219 | 
 | 2022-09-29 | 1504 | 219 | 
-| 2022-09-28 | 1501 | 218 | 
 

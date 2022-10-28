@@ -1,6 +1,6 @@
 # joshwnj/json-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 282 | 66 | 
 | 2022-10-26 | 282 | 66 | 
 | 2022-10-25 | 282 | 66 | 
 | 2022-10-24 | 282 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 280 | 66 | 
 | 2022-09-29 | 280 | 66 | 
 | 2022-09-28 | 280 | 66 | 
-| 2022-09-27 | 280 | 66 | 
 

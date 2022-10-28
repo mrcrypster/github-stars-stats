@@ -1,8 +1,8 @@
 # evrone/go-clean-template - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 285
+☋ Forks: 286
 
 ★ Stars: 3761
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3761 | 286 | 
 | 2022-10-27 | 3761 | 285 | 
 | 2022-10-26 | 3759 | 284 | 
 | 2022-10-24 | 3754 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 3680 | 270 | 
 | 2022-09-29 | 3679 | 270 | 
 | 2022-09-28 | 3676 | 270 | 
-| 2022-09-27 | 3672 | 270 | 
 

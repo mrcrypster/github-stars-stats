@@ -1,10 +1,10 @@
 # pyenv-win/pyenv-win - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 191
 
-★ Stars: 1818
+★ Stars: 1821
 
 [Open repository](https://github.com/pyenv-win/pyenv-win)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1821 | 191 | 
 | 2022-10-26 | 1818 | 191 | 
 | 2022-10-25 | 1814 | 190 | 
 | 2022-10-24 | 1810 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1762 | 185 | 
 | 2022-09-29 | 1760 | 184 | 
 | 2022-09-28 | 1759 | 184 | 
-| 2022-09-27 | 1756 | 182 | 
 

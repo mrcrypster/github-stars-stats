@@ -1,6 +1,6 @@
 # jonsuh/hamburgers - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1692
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6793 | 1692 | 
 | 2022-10-26 | 6793 | 1692 | 
 | 2022-10-25 | 6793 | 1693 | 
 | 2022-10-24 | 6793 | 1693 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 6750 | 1688 | 
 | 2022-09-29 | 6749 | 1688 | 
 | 2022-09-28 | 6747 | 1689 | 
-| 2022-09-27 | 6746 | 1689 | 
 

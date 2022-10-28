@@ -1,6 +1,6 @@
 # getpelican/pelican - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1794
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 11186 | 1794 | 
 | 2022-10-26 | 11186 | 1794 | 
 | 2022-10-25 | 11187 | 1793 | 
 | 2022-10-24 | 11187 | 1792 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 11151 | 1789 | 
 | 2022-09-29 | 11152 | 1789 | 
 | 2022-09-28 | 11152 | 1790 | 
-| 2022-09-27 | 11152 | 1790 | 
 

@@ -1,6 +1,6 @@
 # umbraco/Umbraco-CMS - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 2427
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 3709 | 2427 | 
 | 2022-10-26 | 3709 | 2427 | 
 | 2022-10-25 | 3711 | 2426 | 
 | 2022-10-24 | 3710 | 2426 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 3696 | 2416 | 
 | 2022-09-29 | 3697 | 2412 | 
 | 2022-09-28 | 3697 | 2411 | 
-| 2022-09-27 | 3696 | 2411 | 
 

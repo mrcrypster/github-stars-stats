@@ -1,6 +1,6 @@
 # c-proof/pyglider - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 13 | 11 | 
 | 2022-10-26 | 13 | 11 | 
 | 2022-10-25 | 13 | 11 | 
 | 2022-10-24 | 13 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 12 | 10 | 
 | 2022-09-30 | 12 | 10 | 
 | 2022-09-29 | 12 | 10 | 
-| 2022-09-28 | 12 | 10 | 
 

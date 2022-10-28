@@ -1,6 +1,6 @@
 # oli233/corona-analysis - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 227 | 25 | 
 | 2022-10-26 | 227 | 25 | 
 | 2022-10-25 | 228 | 25 | 
 | 2022-10-24 | 228 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 229 | 25 | 
 | 2022-09-29 | 229 | 25 | 
 | 2022-09-28 | 229 | 25 | 
-| 2022-09-27 | 229 | 25 | 
 

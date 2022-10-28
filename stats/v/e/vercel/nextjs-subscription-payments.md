@@ -1,10 +1,10 @@
 # vercel/nextjs-subscription-payments - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 364
+☋ Forks: 365
 
-★ Stars: 2247
+★ Stars: 2251
 
 [Open repository](https://github.com/vercel/nextjs-subscription-payments)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2251 | 365 | 
 | 2022-10-26 | 2247 | 364 | 
 | 2022-10-25 | 2244 | 364 | 
 | 2022-10-24 | 2240 | 362 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 2161 | 351 | 
 | 2022-09-30 | 2158 | 351 | 
 | 2022-09-28 | 2157 | 353 | 
-| 2022-09-27 | 2155 | 352 | 
 

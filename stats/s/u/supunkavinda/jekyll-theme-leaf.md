@@ -1,8 +1,8 @@
 # supunkavinda/jekyll-theme-leaf - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 467
+☋ Forks: 469
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 86 | 469 | 
 | 2022-10-26 | 86 | 467 | 
 | 2022-10-25 | 86 | 465 | 
 | 2022-10-24 | 86 | 464 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 85 | 459 | 
 | 2022-09-29 | 84 | 458 | 
 | 2022-09-28 | 84 | 457 | 
-| 2022-09-27 | 84 | 457 | 
 

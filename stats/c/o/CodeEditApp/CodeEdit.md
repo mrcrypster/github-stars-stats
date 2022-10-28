@@ -1,10 +1,10 @@
 # CodeEditApp/CodeEdit - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 722
+☋ Forks: 721
 
-★ Stars: 15381
+★ Stars: 15396
 
 [Open repository](https://github.com/CodeEditApp/CodeEdit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 15396 | 721 | 
 | 2022-10-26 | 15381 | 722 | 
 | 2022-10-25 | 15372 | 721 | 
 | 2022-10-24 | 15369 | 718 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 14676 | 676 | 
 | 2022-09-29 | 14674 | 678 | 
 | 2022-09-28 | 14664 | 678 | 
-| 2022-09-27 | 14639 | 676 | 
 

@@ -1,10 +1,10 @@
 # LANDrop/LANDrop - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 291
+☋ Forks: 293
 
-★ Stars: 3142
+★ Stars: 3150
 
 [Open repository](https://github.com/LANDrop/LANDrop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 3150 | 293 | 
 | 2022-10-26 | 3142 | 291 | 
 | 2022-10-25 | 3137 | 291 | 
 | 2022-10-24 | 3131 | 290 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 3060 | 287 | 
 | 2022-09-29 | 3056 | 287 | 
 | 2022-09-28 | 3055 | 287 | 
-| 2022-09-27 | 3051 | 287 | 
 

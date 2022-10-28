@@ -1,10 +1,10 @@
 # Tai7sy/card-system - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 867
 
-★ Stars: 2163
+★ Stars: 2164
 
 [Open repository](https://github.com/Tai7sy/card-system)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2164 | 867 | 
 | 2022-10-27 | 2163 | 867 | 
 | 2022-10-26 | 2163 | 867 | 
 | 2022-10-25 | 2162 | 866 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 2141 | 861 | 
 | 2022-09-29 | 2141 | 860 | 
 | 2022-09-28 | 2139 | 860 | 
-| 2022-09-27 | 2139 | 860 | 
 

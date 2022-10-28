@@ -1,6 +1,6 @@
 # Johnng007/Live-Forensicator - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 310 | 54 | 
 | 2022-10-26 | 310 | 54 | 
 | 2022-10-25 | 310 | 54 | 
 | 2022-10-24 | 309 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 300 | 48 | 
 | 2022-09-29 | 296 | 48 | 
 | 2022-09-28 | 295 | 48 | 
-| 2022-09-27 | 295 | 48 | 
 

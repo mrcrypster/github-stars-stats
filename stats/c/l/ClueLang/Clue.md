@@ -1,6 +1,6 @@
 # ClueLang/Clue - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 230 | 8 | 
 | 2022-10-26 | 230 | 8 | 
 | 2022-10-25 | 230 | 9 | 
 | 2022-10-24 | 230 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 224 | 9 | 
 | 2022-09-29 | 224 | 9 | 
 | 2022-09-28 | 222 | 9 | 
-| 2022-09-27 | 222 | 9 | 
 

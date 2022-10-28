@@ -1,10 +1,10 @@
 # phpmd/phpmd - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 346
 
-★ Stars: 2117
+★ Stars: 2118
 
 [Open repository](https://github.com/phpmd/phpmd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2118 | 346 | 
 | 2022-10-26 | 2117 | 346 | 
 | 2022-10-25 | 2116 | 346 | 
 | 2022-10-24 | 2116 | 347 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 2108 | 346 | 
 | 2022-09-29 | 2108 | 346 | 
 | 2022-09-28 | 2107 | 346 | 
-| 2022-09-27 | 2106 | 346 | 
 

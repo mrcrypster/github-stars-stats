@@ -1,10 +1,10 @@
 # FavioVazquez/ds-cheatsheets - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 3317
+☋ Forks: 3322
 
-★ Stars: 11373
+★ Stars: 11397
 
 [Open repository](https://github.com/FavioVazquez/ds-cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 11397 | 3322 | 
 | 2022-10-26 | 11373 | 3317 | 
 | 2022-10-25 | 11364 | 3315 | 
 | 2022-10-24 | 11345 | 3313 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 11172 | 3283 | 
 | 2022-09-29 | 11166 | 3281 | 
 | 2022-09-28 | 11163 | 3282 | 
-| 2022-09-27 | 11154 | 3283 | 
 

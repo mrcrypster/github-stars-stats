@@ -1,10 +1,10 @@
 # phenixdigital/phx_live_storybook - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 13
 
-★ Stars: 298
+★ Stars: 299
 
 [Open repository](https://github.com/phenixdigital/phx_live_storybook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 299 | 13 | 
 | 2022-10-26 | 298 | 13 | 
 | 2022-10-25 | 295 | 12 | 
 | 2022-10-24 | 293 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 240 | 10 | 
 | 2022-09-29 | 232 | 8 | 
 | 2022-09-28 | 232 | 8 | 
-| 2022-09-27 | 231 | 8 | 
 

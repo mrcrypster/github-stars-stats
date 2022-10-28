@@ -1,10 +1,10 @@
 # babashka/http-server - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/babashka/http-server)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 44 | 2 | 
 | 2022-10-26 | 43 | 2 | 
 | 2022-10-25 | 43 | 2 | 
 | 2022-10-24 | 43 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 42 | 1 | 
 | 2022-09-29 | 42 | 1 | 
 | 2022-09-28 | 42 | 1 | 
-| 2022-09-27 | 42 | 1 | 
 

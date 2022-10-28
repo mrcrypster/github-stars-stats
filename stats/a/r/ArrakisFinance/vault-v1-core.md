@@ -1,6 +1,6 @@
 # ArrakisFinance/vault-v1-core - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 23 | 5 | 
 | 2022-10-26 | 23 | 5 | 
 | 2022-10-25 | 23 | 5 | 
 | 2022-10-24 | 23 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 23 | 5 | 
 | 2022-09-29 | 23 | 4 | 
 | 2022-09-28 | 22 | 4 | 
-| 2022-09-27 | 22 | 4 | 
 

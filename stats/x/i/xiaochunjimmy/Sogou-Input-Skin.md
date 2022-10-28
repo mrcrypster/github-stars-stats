@@ -1,10 +1,10 @@
 # xiaochunjimmy/Sogou-Input-Skin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 85
 
-★ Stars: 986
+★ Stars: 991
 
 [Open repository](https://github.com/xiaochunjimmy/Sogou-Input-Skin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 991 | 85 | 
 | 2022-10-27 | 986 | 85 | 
 | 2022-10-26 | 986 | 85 | 
 | 2022-10-25 | 986 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 961 | 80 | 
 | 2022-09-29 | 961 | 80 | 
 | 2022-09-28 | 961 | 80 | 
-| 2022-09-27 | 961 | 80 | 
 

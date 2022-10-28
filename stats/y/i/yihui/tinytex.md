@@ -1,6 +1,6 @@
 # yihui/tinytex - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 808 | 100 | 
 | 2022-10-26 | 808 | 100 | 
 | 2022-10-25 | 808 | 100 | 
 | 2022-10-24 | 808 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 801 | 100 | 
 | 2022-09-29 | 801 | 100 | 
 | 2022-09-28 | 800 | 100 | 
-| 2022-09-27 | 798 | 100 | 
 

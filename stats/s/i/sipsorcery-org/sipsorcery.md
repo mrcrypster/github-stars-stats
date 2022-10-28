@@ -1,10 +1,10 @@
 # sipsorcery-org/sipsorcery - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 305
 
-★ Stars: 897
+★ Stars: 898
 
 [Open repository](https://github.com/sipsorcery-org/sipsorcery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 898 | 305 | 
 | 2022-10-26 | 897 | 305 | 
 | 2022-10-25 | 897 | 304 | 
 | 2022-10-24 | 896 | 304 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 885 | 300 | 
 | 2022-09-30 | 885 | 300 | 
 | 2022-09-29 | 884 | 300 | 
-| 2022-09-28 | 883 | 300 | 
 

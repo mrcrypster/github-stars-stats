@@ -1,8 +1,8 @@
 # mirza2804/testfreeRdp - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 59
+☋ Forks: 65
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1 | 65 | 
 | 2022-10-26 | 1 | 59 | 
 | 2022-10-25 | 1 | 57 | 
 | 2022-10-24 | 1 | 53 | 

@@ -1,10 +1,10 @@
 # quozd/awesome-dotnet - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 2439
+☋ Forks: 2438
 
-★ Stars: 15554
+★ Stars: 15559
 
 [Open repository](https://github.com/quozd/awesome-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 15559 | 2438 | 
 | 2022-10-26 | 15554 | 2439 | 
 | 2022-10-25 | 15538 | 2438 | 
 | 2022-10-24 | 15523 | 2437 | 

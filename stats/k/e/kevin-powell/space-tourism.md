@@ -1,6 +1,6 @@
 # kevin-powell/space-tourism - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 242 | 153 | 
 | 2022-10-26 | 242 | 153 | 
 | 2022-10-25 | 241 | 153 | 
 | 2022-10-24 | 241 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 240 | 151 | 
 | 2022-09-29 | 240 | 150 | 
 | 2022-09-28 | 240 | 150 | 
-| 2022-09-27 | 239 | 149 | 
 

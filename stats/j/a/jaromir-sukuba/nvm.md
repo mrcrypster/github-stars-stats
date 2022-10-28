@@ -1,6 +1,6 @@
 # jaromir-sukuba/nvm - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 180 | 32 | 
 | 2022-10-26 | 180 | 32 | 
 | 2022-10-25 | 180 | 31 | 
 | 2022-10-24 | 180 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 175 | 30 | 
 | 2022-09-29 | 175 | 30 | 
 | 2022-09-28 | 175 | 30 | 
-| 2022-09-27 | 175 | 30 | 
 

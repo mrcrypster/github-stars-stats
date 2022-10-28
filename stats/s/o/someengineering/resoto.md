@@ -1,10 +1,10 @@
 # someengineering/resoto - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 56
 
-★ Stars: 1202
+★ Stars: 1204
 
 [Open repository](https://github.com/someengineering/resoto)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1204 | 56 | 
 | 2022-10-26 | 1202 | 56 | 
 | 2022-10-25 | 1198 | 56 | 
 | 2022-10-24 | 1198 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1147 | 53 | 
 | 2022-09-29 | 1142 | 53 | 
 | 2022-09-28 | 1139 | 53 | 
-| 2022-09-27 | 1139 | 53 | 
 

@@ -1,10 +1,10 @@
 # igorkasyanchuk/rails_performance - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 34
+☋ Forks: 33
 
-★ Stars: 600
+★ Stars: 601
 
 [Open repository](https://github.com/igorkasyanchuk/rails_performance)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 601 | 33 | 
 | 2022-10-27 | 600 | 34 | 
 | 2022-10-26 | 600 | 34 | 
 | 2022-10-25 | 599 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 590 | 32 | 
 | 2022-09-29 | 587 | 32 | 
 | 2022-09-28 | 587 | 32 | 
-| 2022-09-27 | 587 | 32 | 
 

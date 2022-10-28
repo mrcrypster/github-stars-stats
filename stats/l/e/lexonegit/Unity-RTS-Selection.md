@@ -1,8 +1,8 @@
 # lexonegit/Unity-RTS-Selection - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 54 | 7 | 
 | 2022-10-27 | 54 | 6 | 
 | 2022-10-26 | 54 | 6 | 
 | 2022-10-25 | 54 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 50 | 6 | 
 | 2022-09-29 | 50 | 6 | 
 | 2022-09-28 | 50 | 6 | 
-| 2022-09-27 | 50 | 6 | 
 

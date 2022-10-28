@@ -1,10 +1,10 @@
 # coalton-lang/coalton - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 39
 
-★ Stars: 608
+★ Stars: 609
 
 [Open repository](https://github.com/coalton-lang/coalton)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 609 | 39 | 
 | 2022-10-26 | 608 | 39 | 
 | 2022-10-25 | 607 | 39 | 
 | 2022-10-24 | 606 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 588 | 39 | 
 | 2022-09-29 | 587 | 39 | 
 | 2022-09-28 | 587 | 39 | 
-| 2022-09-27 | 586 | 39 | 
 

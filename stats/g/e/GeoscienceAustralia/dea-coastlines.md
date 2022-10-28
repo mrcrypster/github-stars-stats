@@ -1,8 +1,8 @@
 # GeoscienceAustralia/dea-coastlines - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 31 | 6 | 
 | 2022-10-26 | 31 | 5 | 
 | 2022-10-25 | 31 | 5 | 
 | 2022-10-24 | 31 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 31 | 5 | 
 | 2022-09-29 | 31 | 5 | 
 | 2022-09-28 | 31 | 5 | 
-| 2022-09-27 | 31 | 5 | 
 

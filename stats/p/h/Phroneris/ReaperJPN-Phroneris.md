@@ -1,6 +1,6 @@
 # Phroneris/ReaperJPN-Phroneris - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 42 | 6 | 
 | 2022-10-26 | 42 | 6 | 
 | 2022-10-25 | 42 | 6 | 
 | 2022-10-24 | 42 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 41 | 6 | 
 | 2022-09-29 | 41 | 6 | 
 | 2022-09-28 | 41 | 6 | 
-| 2022-09-27 | 41 | 6 | 
 

@@ -1,6 +1,6 @@
 # devopseasylearning/S2-pipeline-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | - | 12 | 
 | 2022-10-26 | - | 12 | 
 | 2022-10-25 | - | 12 | 
 | 2022-10-24 | - | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | - | 11 | 
 | 2022-09-29 | - | 11 | 
 | 2022-09-28 | - | 11 | 
-| 2022-09-27 | - | 11 | 
 

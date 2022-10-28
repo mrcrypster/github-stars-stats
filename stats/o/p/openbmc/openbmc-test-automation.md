@@ -1,6 +1,6 @@
 # openbmc/openbmc-test-automation - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 71 | 76 | 
 | 2022-10-27 | 71 | 76 | 
 | 2022-10-26 | 71 | 76 | 
 | 2022-10-25 | 71 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 71 | 74 | 
 | 2022-09-29 | 71 | 74 | 
 | 2022-09-28 | 71 | 74 | 
-| 2022-09-27 | 71 | 72 | 
 

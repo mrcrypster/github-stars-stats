@@ -1,10 +1,10 @@
 # wesbos/JavaScript30 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 28088
+☋ Forks: 28120
 
-★ Stars: 21543
+★ Stars: 21555
 
 [Open repository](https://github.com/wesbos/JavaScript30)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 21555 | 28120 | 
 | 2022-10-26 | 21543 | 28088 | 
 | 2022-10-25 | 21532 | 28058 | 
 | 2022-10-24 | 21517 | 28019 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 21197 | 27488 | 
 | 2022-09-29 | 21192 | 27481 | 
 | 2022-09-28 | 21177 | 27455 | 
-| 2022-09-27 | 21163 | 27414 | 
 

@@ -1,10 +1,10 @@
 # ac-custom-shaders-patch/acc-extension-config - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 173
+☋ Forks: 174
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/ac-custom-shaders-patch/acc-extension-config)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 140 | 174 | 
 | 2022-10-26 | 139 | 173 | 
 | 2022-10-25 | 139 | 173 | 
 | 2022-10-24 | 139 | 173 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 137 | 170 | 
 | 2022-09-29 | 136 | 170 | 
 | 2022-09-28 | 136 | 170 | 
-| 2022-09-27 | 136 | 169 | 
 

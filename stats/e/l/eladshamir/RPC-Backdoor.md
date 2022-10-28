@@ -1,10 +1,10 @@
 # eladshamir/RPC-Backdoor - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 36
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/eladshamir/RPC-Backdoor)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 170 | 36 | 
 | 2022-10-26 | 169 | 36 | 
 | 2022-10-25 | 169 | 36 | 
 | 2022-10-24 | 168 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 168 | 35 | 
 | 2022-09-29 | 167 | 35 | 
 | 2022-09-28 | 166 | 35 | 
-| 2022-09-27 | 166 | 35 | 
 

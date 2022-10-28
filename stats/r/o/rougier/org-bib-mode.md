@@ -1,10 +1,10 @@
 # rougier/org-bib-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 7
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/rougier/org-bib-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 116 | 7 | 
 | 2022-10-26 | 115 | 7 | 
 | 2022-10-25 | 115 | 7 | 
 | 2022-10-24 | 115 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 111 | 7 | 
 | 2022-09-29 | 111 | 7 | 
 | 2022-09-28 | 111 | 7 | 
-| 2022-09-27 | 111 | 7 | 
 

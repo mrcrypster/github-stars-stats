@@ -1,8 +1,8 @@
 # aws/serverless-application-model - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 2258
+☋ Forks: 2257
 
 ★ Stars: 8790
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 8790 | 2257 | 
 | 2022-10-26 | 8790 | 2258 | 
 | 2022-10-25 | 8787 | 2257 | 
 | 2022-10-24 | 8787 | 2258 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 8750 | 2245 | 
 | 2022-09-29 | 8744 | 2243 | 
 | 2022-09-28 | 8742 | 2242 | 
-| 2022-09-27 | 8741 | 2243 | 
 

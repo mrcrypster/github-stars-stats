@@ -1,10 +1,10 @@
 # Kong/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 385
+☋ Forks: 386
 
-★ Stars: 153
+★ Stars: 154
 
 [Open repository](https://github.com/Kong/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 154 | 386 | 
 | 2022-10-26 | 153 | 385 | 
 | 2022-10-25 | 153 | 384 | 
 | 2022-10-24 | 153 | 385 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 149 | 377 | 
 | 2022-09-29 | 149 | 377 | 
 | 2022-09-28 | 149 | 377 | 
-| 2022-09-27 | 148 | 375 | 
 

@@ -1,8 +1,8 @@
 # schism-dev/schism - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 50 | 53 | 
 | 2022-10-27 | 50 | 52 | 
 | 2022-10-26 | 50 | 52 | 
 | 2022-10-24 | 50 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 49 | 51 | 
 | 2022-09-29 | 48 | 50 | 
 | 2022-09-28 | 48 | 50 | 
-| 2022-09-27 | 48 | 50 | 
 

@@ -1,10 +1,10 @@
 # taozhi8833998/node-sql-parser - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 426
+★ Stars: 429
 
 [Open repository](https://github.com/taozhi8833998/node-sql-parser)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 429 | 110 | 
 | 2022-10-26 | 426 | 109 | 
 | 2022-10-25 | 424 | 109 | 
 | 2022-10-24 | 424 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 411 | 102 | 
 | 2022-09-29 | 410 | 101 | 
 | 2022-09-28 | 409 | 101 | 
-| 2022-09-27 | 408 | 101 | 
 

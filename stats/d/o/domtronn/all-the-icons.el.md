@@ -1,10 +1,10 @@
 # domtronn/all-the-icons.el - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 148
 
-★ Stars: 1278
+★ Stars: 1279
 
 [Open repository](https://github.com/domtronn/all-the-icons.el)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1279 | 148 | 
 | 2022-10-26 | 1278 | 148 | 
 | 2022-10-25 | 1278 | 148 | 
 | 2022-10-24 | 1278 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1269 | 148 | 
 | 2022-09-29 | 1269 | 148 | 
 | 2022-09-28 | 1269 | 148 | 
-| 2022-09-27 | 1269 | 148 | 
 

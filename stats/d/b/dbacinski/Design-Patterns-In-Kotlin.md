@@ -1,10 +1,10 @@
 # dbacinski/Design-Patterns-In-Kotlin - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 663
 
-★ Stars: 5420
+★ Stars: 5421
 
 [Open repository](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 5421 | 663 | 
 | 2022-10-26 | 5420 | 663 | 
 | 2022-10-25 | 5419 | 663 | 
 | 2022-10-24 | 5417 | 662 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 5378 | 657 | 
 | 2022-09-30 | 5378 | 657 | 
 | 2022-09-29 | 5377 | 657 | 
-| 2022-09-28 | 5376 | 657 | 
 

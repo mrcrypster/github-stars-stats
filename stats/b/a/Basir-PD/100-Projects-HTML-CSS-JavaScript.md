@@ -1,10 +1,10 @@
 # Basir-PD/100-Projects-HTML-CSS-JavaScript - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 238
 
-★ Stars: 174
+★ Stars: 176
 
 [Open repository](https://github.com/Basir-PD/100-Projects-HTML-CSS-JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 176 | 238 | 
 | 2022-10-26 | 174 | 238 | 
 | 2022-10-25 | 174 | 238 | 
 | 2022-10-24 | 174 | 238 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 161 | 223 | 
 | 2022-09-29 | 161 | 222 | 
 | 2022-09-28 | 161 | 222 | 
-| 2022-09-27 | 161 | 222 | 
 

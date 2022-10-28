@@ -1,10 +1,10 @@
 # CachetHQ/Cachet - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1544
 
-★ Stars: 12932
+★ Stars: 12931
 
 [Open repository](https://github.com/CachetHQ/Cachet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 12931 | 1544 | 
 | 2022-10-26 | 12932 | 1544 | 
 | 2022-10-25 | 12934 | 1542 | 
 | 2022-10-24 | 12932 | 1545 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 12900 | 1543 | 
 | 2022-09-29 | 12899 | 1542 | 
 | 2022-09-28 | 12897 | 1542 | 
-| 2022-09-27 | 12897 | 1541 | 
 

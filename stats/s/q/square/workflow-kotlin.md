@@ -1,6 +1,6 @@
 # square/workflow-kotlin - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 806 | 88 | 
 | 2022-10-26 | 806 | 88 | 
 | 2022-10-25 | 805 | 88 | 
 | 2022-10-24 | 804 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 802 | 82 | 
 | 2022-09-29 | 802 | 82 | 
 | 2022-09-28 | 802 | 82 | 
-| 2022-09-27 | 802 | 82 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 27
 
 ☋ Forks: 928
 
-★ Stars: 2008
+★ Stars: 2010
 
 [Open repository](https://github.com/docker-library/python)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-27 | 2008 | 928 | 
+| 2022-10-27 | 2010 | 928 | 
 | 2022-10-26 | 2008 | 928 | 
 | 2022-10-25 | 2008 | 928 | 
 | 2022-10-24 | 2005 | 928 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 1989 | 924 | 
 | 2022-09-29 | 1987 | 922 | 
 | 2022-09-28 | 1987 | 922 | 
-| 2022-09-27 | 1984 | 922 | 
 

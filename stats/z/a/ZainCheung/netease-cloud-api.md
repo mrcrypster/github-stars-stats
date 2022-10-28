@@ -1,10 +1,10 @@
 # ZainCheung/netease-cloud-api - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 3373
+☋ Forks: 3371
 
-★ Stars: 1214
+★ Stars: 1216
 
 [Open repository](https://github.com/ZainCheung/netease-cloud-api)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1216 | 3371 | 
 | 2022-10-26 | 1214 | 3373 | 
 | 2022-10-25 | 1214 | 3373 | 
 | 2022-10-24 | 1213 | 3371 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1206 | 3376 | 
 | 2022-09-29 | 1206 | 3377 | 
 | 2022-09-28 | 1205 | 3378 | 
-| 2022-09-27 | 1205 | 3378 | 
 

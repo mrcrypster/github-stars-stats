@@ -1,10 +1,10 @@
 # ucb-bar/constellation - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 4
 
-★ Stars: 64
+★ Stars: 65
 
 [Open repository](https://github.com/ucb-bar/constellation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 65 | 4 | 
 | 2022-10-26 | 64 | 4 | 
 | 2022-10-25 | 63 | 4 | 
 | 2022-10-24 | 62 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 43 | 3 | 
 | 2022-09-29 | 42 | 3 | 
 | 2022-09-28 | 42 | 3 | 
-| 2022-09-27 | 41 | 3 | 
 

@@ -1,10 +1,10 @@
 # sascha-wolf/ex_union - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/sascha-wolf/ex_union)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 17 | - | 
 | 2022-10-26 | 16 | - | 
 | 2022-10-25 | 16 | - | 
 | 2022-10-24 | 16 | - | 

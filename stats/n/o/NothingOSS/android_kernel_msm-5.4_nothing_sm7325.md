@@ -1,8 +1,8 @@
 # NothingOSS/android_kernel_msm-5.4_nothing_sm7325 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 134
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 134 | 22 | 
 | 2022-10-26 | 134 | 21 | 
 | 2022-10-25 | 133 | 21 | 
 | 2022-10-24 | 131 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 128 | 19 | 
 | 2022-09-30 | 128 | 19 | 
 | 2022-09-29 | 128 | 19 | 
-| 2022-09-28 | 128 | 19 | 
 

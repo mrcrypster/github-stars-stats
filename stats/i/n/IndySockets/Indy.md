@@ -1,10 +1,10 @@
 # IndySockets/Indy - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 112
 
-★ Stars: 339
+★ Stars: 340
 
 [Open repository](https://github.com/IndySockets/Indy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 340 | 112 | 
 | 2022-10-26 | 339 | 112 | 
 | 2022-10-25 | 338 | 112 | 
 | 2022-10-24 | 338 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 333 | 108 | 
 | 2022-09-29 | 332 | 108 | 
 | 2022-09-28 | 332 | 107 | 
-| 2022-09-27 | 331 | 107 | 
 

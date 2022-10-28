@@ -1,10 +1,10 @@
 # W01fh4cker/Serein - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 146
 
-★ Stars: 835
+★ Stars: 837
 
 [Open repository](https://github.com/W01fh4cker/Serein)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 837 | 146 | 
 | 2022-10-26 | 835 | 146 | 
 | 2022-10-25 | 832 | 146 | 
 | 2022-10-24 | 821 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 789 | 142 | 
 | 2022-09-29 | 786 | 141 | 
 | 2022-09-28 | 784 | 141 | 
-| 2022-09-27 | 782 | 141 | 
 

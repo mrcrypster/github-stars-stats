@@ -1,10 +1,10 @@
 # Dlang-UPB/D-Summer-School - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 13
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/Dlang-UPB/D-Summer-School)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 13 | 13 | 
 | 2022-10-26 | 12 | 13 | 
 | 2022-10-25 | 12 | 13 | 
 | 2022-10-24 | 12 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 12 | 13 | 
 | 2022-09-29 | 12 | 13 | 
 | 2022-09-28 | 12 | 13 | 
-| 2022-09-27 | 12 | 13 | 
 

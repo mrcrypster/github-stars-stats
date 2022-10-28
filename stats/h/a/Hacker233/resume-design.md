@@ -1,10 +1,10 @@
 # Hacker233/resume-design - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 57
+☋ Forks: 58
 
-★ Stars: 302
+★ Stars: 303
 
 [Open repository](https://github.com/Hacker233/resume-design)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 303 | 58 | 
 | 2022-10-26 | 302 | 57 | 
 | 2022-10-25 | 301 | 56 | 
 | 2022-10-24 | 300 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 258 | 52 | 
 | 2022-09-29 | 256 | 52 | 
 | 2022-09-28 | 257 | 52 | 
-| 2022-09-27 | 257 | 51 | 
 

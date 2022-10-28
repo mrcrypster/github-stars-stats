@@ -1,8 +1,8 @@
 # ogamespec/gc-ipl - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 4
+☋ Forks: 3
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 28 | 3 | 
 | 2022-10-26 | 28 | 4 | 
 | 2022-10-25 | 28 | 4 | 
 | 2022-10-24 | 28 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 28 | 3 | 
 | 2022-09-29 | 28 | 3 | 
 | 2022-09-28 | 28 | 3 | 
-| 2022-09-27 | 28 | 3 | 
 

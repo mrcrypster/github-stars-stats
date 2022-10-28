@@ -1,10 +1,10 @@
 # scrimba/learn-html-and-css - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 52
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/scrimba/learn-html-and-css)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 40 | 52 | 
 | 2022-10-26 | 39 | 52 | 
 | 2022-10-25 | 39 | 52 | 
 | 2022-10-24 | 39 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 31 | 40 | 
 | 2022-09-29 | 31 | 40 | 
 | 2022-09-28 | 31 | 40 | 
-| 2022-09-27 | 31 | 37 | 
 

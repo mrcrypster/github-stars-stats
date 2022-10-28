@@ -1,6 +1,6 @@
 # clavascript/clavascript - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 210 | 8 | 
 | 2022-10-27 | 210 | 8 | 
 | 2022-10-26 | 208 | 8 | 
 | 2022-10-25 | 207 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 196 | 6 | 
 | 2022-09-29 | 194 | 6 | 
 | 2022-09-28 | 193 | 6 | 
-| 2022-09-27 | 193 | 6 | 
 

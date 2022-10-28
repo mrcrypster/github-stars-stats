@@ -1,10 +1,10 @@
 # simeji/winresizer - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 20
 
-★ Stars: 511
+★ Stars: 512
 
 [Open repository](https://github.com/simeji/winresizer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 512 | 20 | 
 | 2022-10-27 | 511 | 20 | 
 | 2022-10-26 | 511 | 20 | 
 | 2022-10-25 | 510 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 507 | 20 | 
 | 2022-09-29 | 507 | 20 | 
 | 2022-09-28 | 507 | 20 | 
-| 2022-09-27 | 507 | 20 | 
 

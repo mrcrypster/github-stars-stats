@@ -1,6 +1,6 @@
 # krypto5863/COM-Modular-Installer - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 110 | 8 | 
 | 2022-10-26 | 110 | 8 | 
 | 2022-10-25 | 110 | 8 | 
 | 2022-10-24 | 110 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 107 | 8 | 
 | 2022-09-29 | 106 | 8 | 
 | 2022-09-28 | 106 | 8 | 
-| 2022-09-27 | 105 | 8 | 
 

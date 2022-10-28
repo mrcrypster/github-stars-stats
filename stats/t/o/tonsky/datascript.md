@@ -1,6 +1,6 @@
 # tonsky/datascript - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4937 | 286 | 
 | 2022-10-26 | 4937 | 286 | 
 | 2022-10-25 | 4934 | 286 | 
 | 2022-10-24 | 4934 | 286 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 4908 | 286 | 
 | 2022-09-29 | 4908 | 286 | 
 | 2022-09-28 | 4907 | 286 | 
-| 2022-09-27 | 4907 | 286 | 
 

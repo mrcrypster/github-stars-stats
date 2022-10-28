@@ -1,6 +1,6 @@
 # PradyumnaKrishna/Colab-Hacks - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1352
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 687 | 1352 | 
 | 2022-10-26 | 687 | 1352 | 
 | 2022-10-25 | 686 | 1352 | 
 | 2022-10-24 | 685 | 1351 | 

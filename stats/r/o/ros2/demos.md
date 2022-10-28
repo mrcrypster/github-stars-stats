@@ -1,6 +1,6 @@
 # ros2/demos - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 299 | 251 | 
 | 2022-10-26 | 299 | 251 | 
 | 2022-10-25 | 299 | 251 | 
 | 2022-10-24 | 299 | 250 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 295 | 246 | 
 | 2022-09-29 | 295 | 246 | 
 | 2022-09-28 | 296 | 246 | 
-| 2022-09-27 | 296 | 246 | 
 

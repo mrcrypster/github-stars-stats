@@ -1,10 +1,10 @@
 # Androz2091/discord-data-package-explorer - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 67
 
-★ Stars: 725
+★ Stars: 732
 
 [Open repository](https://github.com/Androz2091/discord-data-package-explorer)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 732 | 67 | 
+| 2022-10-27 | 732 | 67 | 
 | 2022-10-26 | 725 | 67 | 
 | 2022-10-25 | 723 | 66 | 
 | 2022-10-24 | 721 | 67 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 619 | 59 | 
 | 2022-09-30 | 614 | 59 | 
 | 2022-09-29 | 608 | 59 | 
-| 2022-09-28 | 608 | 59 | 
 

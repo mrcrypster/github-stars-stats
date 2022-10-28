@@ -1,10 +1,10 @@
 # o0HalfLife0o/list - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 59
 
-★ Stars: 340
+★ Stars: 341
 
 [Open repository](https://github.com/o0HalfLife0o/list)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 341 | 59 | 
 | 2022-10-26 | 340 | 59 | 
 | 2022-10-25 | 339 | 59 | 
 | 2022-10-24 | 338 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 324 | 60 | 
 | 2022-09-29 | 324 | 60 | 
 | 2022-09-28 | 322 | 60 | 
-| 2022-09-27 | 322 | 60 | 
 

@@ -1,10 +1,10 @@
 # z00m128/sjasmplus - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 42
 
-★ Stars: 258
+★ Stars: 259
 
 [Open repository](https://github.com/z00m128/sjasmplus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 259 | 42 | 
 | 2022-10-26 | 258 | 42 | 
 | 2022-10-25 | 258 | 42 | 
 | 2022-10-24 | 258 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 256 | 42 | 
 | 2022-09-30 | 256 | 42 | 
 | 2022-09-29 | 256 | 42 | 
-| 2022-09-28 | 256 | 42 | 
 

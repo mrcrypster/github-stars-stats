@@ -1,8 +1,8 @@
 # RomaissaAdjailia/Get-AppLockerEventlog - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 16 | 1 | 
 | 2022-10-26 | 16 | - | 
 | 2022-10-25 | 16 | - | 
 | 2022-10-24 | 16 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 16 | - | 
 | 2022-09-29 | 16 | - | 
 | 2022-09-28 | 16 | - | 
-| 2022-09-27 | 16 | - | 
 

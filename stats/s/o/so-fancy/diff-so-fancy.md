@@ -1,6 +1,6 @@
 # so-fancy/diff-so-fancy - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 339
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 15930 | 339 | 
 | 2022-10-26 | 15930 | 339 | 
 | 2022-10-25 | 15926 | 339 | 
 | 2022-10-24 | 15919 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 15878 | 338 | 
 | 2022-09-29 | 15876 | 339 | 
 | 2022-09-28 | 15876 | 339 | 
-| 2022-09-27 | 15877 | 339 | 
 

@@ -1,10 +1,10 @@
 # stuyy/chat-platform-nestjs - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 33
 
-★ Stars: 217
+★ Stars: 219
 
 [Open repository](https://github.com/stuyy/chat-platform-nestjs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 219 | 33 | 
 | 2022-10-26 | 217 | 33 | 
 | 2022-10-25 | 217 | 33 | 
 | 2022-10-24 | 217 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 198 | 31 | 
 | 2022-09-29 | 198 | 30 | 
 | 2022-09-28 | 197 | 30 | 
-| 2022-09-27 | 198 | 30 | 
 

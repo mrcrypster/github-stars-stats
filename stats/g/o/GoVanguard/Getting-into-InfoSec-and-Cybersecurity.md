@@ -1,10 +1,10 @@
 # GoVanguard/Getting-into-InfoSec-and-Cybersecurity - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 47
+☋ Forks: 51
 
-★ Stars: 441
+★ Stars: 443
 
 [Open repository](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 443 | 51 | 
 | 2022-10-26 | 441 | 47 | 
 | 2022-10-25 | 437 | 45 | 
 | 2022-10-24 | 436 | 45 | 

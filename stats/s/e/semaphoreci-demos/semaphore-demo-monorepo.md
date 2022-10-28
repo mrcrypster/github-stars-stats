@@ -1,6 +1,6 @@
 # semaphoreci-demos/semaphore-demo-monorepo - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4 | 61 | 
 | 2022-10-26 | 4 | 61 | 
 | 2022-10-25 | 4 | 61 | 
 | 2022-10-24 | 4 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 3 | 60 | 
 | 2022-09-29 | 3 | 60 | 
 | 2022-09-28 | 3 | 60 | 
-| 2022-09-27 | 3 | 60 | 
 

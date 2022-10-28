@@ -1,10 +1,10 @@
 # adobe-fonts/source-code-pro - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1627
 
-★ Stars: 18539
+★ Stars: 18544
 
 [Open repository](https://github.com/adobe-fonts/source-code-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 18544 | 1627 | 
 | 2022-10-26 | 18539 | 1627 | 
 | 2022-10-25 | 18536 | 1628 | 
 | 2022-10-24 | 18532 | 1627 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 18472 | 1625 | 
 | 2022-09-29 | 18466 | 1625 | 
 | 2022-09-28 | 18461 | 1625 | 
-| 2022-09-27 | 18461 | 1625 | 
 

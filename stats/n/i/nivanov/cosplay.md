@@ -1,10 +1,10 @@
 # nivanov/cosplay - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 3
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/nivanov/cosplay)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 91 | 3 | 
 | 2022-10-26 | 90 | 3 | 
 | 2022-10-25 | 90 | 3 | 
 | 2022-10-24 | 90 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 88 | 3 | 
 | 2022-09-29 | 88 | 3 | 
 | 2022-09-28 | 88 | 3 | 
-| 2022-09-27 | 88 | 3 | 
 

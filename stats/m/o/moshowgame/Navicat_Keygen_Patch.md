@@ -1,10 +1,10 @@
 # moshowgame/Navicat_Keygen_Patch - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 74
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/moshowgame/Navicat_Keygen_Patch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 210 | 74 | 
 | 2022-10-26 | 209 | 74 | 
 | 2022-10-25 | 209 | 74 | 
 | 2022-10-24 | 209 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 191 | 70 | 
 | 2022-09-29 | 191 | 70 | 
 | 2022-09-28 | 191 | 69 | 
-| 2022-09-27 | 191 | 69 | 
 

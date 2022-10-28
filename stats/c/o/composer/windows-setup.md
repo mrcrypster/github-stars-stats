@@ -1,6 +1,6 @@
 # composer/windows-setup - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 131 | 72 | 
 | 2022-10-26 | 131 | 72 | 
 | 2022-10-25 | 131 | 72 | 
 | 2022-10-24 | 131 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 130 | 72 | 
 | 2022-09-29 | 130 | 72 | 
 | 2022-09-28 | 130 | 72 | 
-| 2022-09-27 | 130 | 72 | 
 

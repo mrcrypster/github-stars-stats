@@ -1,10 +1,10 @@
 # leebaird/discover - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 769
+☋ Forks: 770
 
-★ Stars: 2823
+★ Stars: 2825
 
 [Open repository](https://github.com/leebaird/discover)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2825 | 770 | 
 | 2022-10-26 | 2823 | 769 | 
 | 2022-10-25 | 2823 | 769 | 
 | 2022-10-24 | 2821 | 769 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 2801 | 767 | 
 | 2022-09-30 | 2799 | 767 | 
 | 2022-09-29 | 2800 | 767 | 
-| 2022-09-28 | 2800 | 767 | 
 

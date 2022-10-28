@@ -1,6 +1,6 @@
 # netlify/functions.netlify.com - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 501 | 125 | 
 | 2022-10-26 | 501 | 125 | 
 | 2022-10-25 | 501 | 125 | 
 | 2022-10-24 | 501 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 501 | 124 | 
 | 2022-09-29 | 501 | 124 | 
 | 2022-09-28 | 501 | 124 | 
-| 2022-09-27 | 501 | 124 | 
 

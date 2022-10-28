@@ -1,6 +1,6 @@
 # eclipse/paho.mqtt.c - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 932
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1476 | 932 | 
 | 2022-10-26 | 1476 | 932 | 
 | 2022-10-25 | 1474 | 932 | 
 | 2022-10-24 | 1474 | 932 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1449 | 927 | 
 | 2022-09-29 | 1447 | 927 | 
 | 2022-09-28 | 1447 | 926 | 
-| 2022-09-27 | 1445 | 926 | 
 

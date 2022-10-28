@@ -1,6 +1,6 @@
 # rohinivsenthil/rabbitrace - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 25 | - | 
 | 2022-10-26 | 25 | - | 
 | 2022-10-25 | 25 | - | 
 | 2022-10-24 | 25 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 24 | - | 
 | 2022-09-29 | 24 | - | 
 | 2022-09-28 | 24 | - | 
-| 2022-09-27 | 24 | - | 
 

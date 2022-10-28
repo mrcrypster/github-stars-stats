@@ -1,10 +1,10 @@
 # blacklanternsecurity/bbot - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 90
 
-★ Stars: 1325
+★ Stars: 1326
 
 [Open repository](https://github.com/blacklanternsecurity/bbot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1326 | 90 | 
 | 2022-10-26 | 1325 | 90 | 
 | 2022-10-25 | 1324 | 90 | 
 | 2022-10-24 | 1322 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1155 | 77 | 
 | 2022-09-29 | 1154 | 76 | 
 | 2022-09-28 | 1151 | 76 | 
-| 2022-09-27 | 1147 | 74 | 
 

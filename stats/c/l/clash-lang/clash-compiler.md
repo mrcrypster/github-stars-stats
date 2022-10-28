@@ -1,10 +1,10 @@
 # clash-lang/clash-compiler - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 132
 
-★ Stars: 1186
+★ Stars: 1187
 
 [Open repository](https://github.com/clash-lang/clash-compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1187 | 132 | 
 | 2022-10-26 | 1186 | 132 | 
 | 2022-10-25 | 1185 | 132 | 
 | 2022-10-24 | 1185 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1183 | 131 | 
 | 2022-09-29 | 1183 | 131 | 
 | 2022-09-28 | 1183 | 131 | 
-| 2022-09-27 | 1182 | 131 | 
 

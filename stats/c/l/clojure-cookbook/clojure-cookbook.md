@@ -1,10 +1,10 @@
 # clojure-cookbook/clojure-cookbook - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 431
 
-★ Stars: 2485
+★ Stars: 2486
 
 [Open repository](https://github.com/clojure-cookbook/clojure-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2486 | 431 | 
 | 2022-10-26 | 2485 | 431 | 
 | 2022-10-25 | 2485 | 431 | 
 | 2022-10-24 | 2485 | 431 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 2483 | 431 | 
 | 2022-09-29 | 2483 | 431 | 
 | 2022-09-28 | 2482 | 431 | 
-| 2022-09-27 | 2482 | 431 | 
 

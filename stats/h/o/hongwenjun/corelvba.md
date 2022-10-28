@@ -1,10 +1,10 @@
 # hongwenjun/corelvba - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 7
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/hongwenjun/corelvba)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 28 | 7 | 
 | 2022-10-26 | 27 | 7 | 
 | 2022-10-25 | 27 | 7 | 
 | 2022-10-24 | 27 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 27 | 7 | 
 | 2022-09-29 | 27 | 7 | 
 | 2022-09-28 | 27 | 7 | 
-| 2022-09-27 | 27 | 7 | 
 

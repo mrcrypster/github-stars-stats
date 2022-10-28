@@ -1,6 +1,6 @@
 # nmeum/android-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 94 | 26 | 
 | 2022-10-27 | 94 | 26 | 
 | 2022-10-26 | 94 | 26 | 
 | 2022-10-25 | 94 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 89 | 23 | 
 | 2022-09-29 | 89 | 23 | 
 | 2022-09-28 | 89 | 23 | 
-| 2022-09-27 | 89 | 23 | 
 

@@ -1,6 +1,6 @@
 # tsoding/pinpog - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 330 | 25 | 
 | 2022-10-26 | 330 | 25 | 
 | 2022-10-25 | 329 | 24 | 
 | 2022-10-24 | 329 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 324 | 24 | 
 | 2022-09-30 | 324 | 24 | 
 | 2022-09-29 | 324 | 24 | 
-| 2022-09-28 | 323 | 24 | 
 

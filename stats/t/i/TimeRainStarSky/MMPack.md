@@ -1,10 +1,10 @@
 # TimeRainStarSky/MMPack - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 2
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/TimeRainStarSky/MMPack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 60 | 2 | 
 | 2022-10-26 | 59 | 2 | 
 | 2022-10-25 | 59 | 2 | 
 | 2022-10-24 | 59 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 58 | 2 | 
 | 2022-09-29 | 58 | 2 | 
 | 2022-09-28 | 58 | 2 | 
-| 2022-09-27 | 58 | 2 | 
 

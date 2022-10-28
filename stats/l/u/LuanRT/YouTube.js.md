@@ -1,10 +1,10 @@
 # LuanRT/YouTube.js - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 118
+☋ Forks: 117
 
-★ Stars: 2372
+★ Stars: 2375
 
 [Open repository](https://github.com/LuanRT/YouTube.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 2375 | 117 | 
 | 2022-10-26 | 2372 | 118 | 
 | 2022-10-25 | 2370 | 118 | 
 | 2022-10-24 | 2370 | 118 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 2348 | 115 | 
 | 2022-09-29 | 2347 | 115 | 
 | 2022-09-28 | 2348 | 115 | 
-| 2022-09-27 | 2347 | 115 | 
 

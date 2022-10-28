@@ -1,10 +1,10 @@
 # tomitokko/django-social-media-website - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 98
+★ Stars: 99
 
 [Open repository](https://github.com/tomitokko/django-social-media-website)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 99 | 84 | 
 | 2022-10-26 | 98 | 83 | 
 | 2022-10-25 | 98 | 83 | 
 | 2022-10-24 | 97 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 88 | 67 | 
 | 2022-09-30 | 88 | 67 | 
 | 2022-09-29 | 88 | 67 | 
-| 2022-09-28 | 88 | 67 | 
 

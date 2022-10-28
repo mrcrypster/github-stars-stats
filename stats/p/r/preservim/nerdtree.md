@@ -1,10 +1,10 @@
 # preservim/nerdtree - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 1400
+☋ Forks: 1401
 
-★ Stars: 17853
+★ Stars: 17858
 
 [Open repository](https://github.com/preservim/nerdtree)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 17858 | 1401 | 
 | 2022-10-26 | 17853 | 1400 | 
 | 2022-10-25 | 17846 | 1400 | 
 | 2022-10-24 | 17842 | 1400 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 17718 | 1404 | 
 | 2022-09-29 | 17718 | 1404 | 
 | 2022-09-28 | 17718 | 1404 | 
-| 2022-09-27 | 17712 | 1405 | 
 

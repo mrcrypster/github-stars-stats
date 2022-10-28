@@ -1,10 +1,10 @@
 # markandey007/hacktoberfest_2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/markandey007/hacktoberfest_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 33 | 129 | 
 | 2022-10-26 | 34 | 128 | 
 | 2022-10-25 | 34 | 128 | 
 | 2022-10-24 | 34 | 128 | 

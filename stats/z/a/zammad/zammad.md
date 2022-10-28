@@ -1,10 +1,10 @@
 # zammad/zammad - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 619
 
-★ Stars: 3172
+★ Stars: 3173
 
 [Open repository](https://github.com/zammad/zammad)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 3173 | 619 | 
 | 2022-10-26 | 3172 | 619 | 
 | 2022-10-25 | 3171 | 618 | 
 | 2022-10-24 | 3170 | 618 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 3136 | 608 | 
 | 2022-09-29 | 3133 | 608 | 
 | 2022-09-28 | 3129 | 608 | 
-| 2022-09-27 | 3127 | 608 | 
 

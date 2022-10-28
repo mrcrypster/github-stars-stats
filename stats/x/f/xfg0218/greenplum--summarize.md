@@ -1,6 +1,6 @@
 # xfg0218/greenplum--summarize - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 147 | 60 | 
 | 2022-10-26 | 147 | 60 | 
 | 2022-10-25 | 147 | 60 | 
 | 2022-10-24 | 147 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 145 | 60 | 
 | 2022-09-30 | 145 | 60 | 
 | 2022-09-28 | 145 | 60 | 
-| 2022-09-27 | 145 | 60 | 
 

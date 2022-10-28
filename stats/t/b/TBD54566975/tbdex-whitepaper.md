@@ -1,6 +1,6 @@
 # TBD54566975/tbdex-whitepaper - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 573 | 42 | 
 | 2022-10-26 | 573 | 42 | 
 | 2022-10-25 | 573 | 42 | 
 | 2022-10-24 | 573 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 569 | 41 | 
 | 2022-09-29 | 569 | 41 | 
 | 2022-09-28 | 569 | 41 | 
-| 2022-09-27 | 569 | 41 | 
 

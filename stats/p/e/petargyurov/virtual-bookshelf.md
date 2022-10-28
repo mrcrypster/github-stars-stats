@@ -1,10 +1,10 @@
 # petargyurov/virtual-bookshelf - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 46
+☋ Forks: 47
 
-★ Stars: 379
+★ Stars: 380
 
 [Open repository](https://github.com/petargyurov/virtual-bookshelf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 380 | 47 | 
 | 2022-10-26 | 379 | 46 | 
 | 2022-10-25 | 379 | 46 | 
 | 2022-10-24 | 379 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 379 | 44 | 
 | 2022-09-29 | 379 | 44 | 
 | 2022-09-28 | 379 | 44 | 
-| 2022-09-27 | 379 | 44 | 
 

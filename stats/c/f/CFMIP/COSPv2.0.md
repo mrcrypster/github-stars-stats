@@ -1,6 +1,6 @@
 # CFMIP/COSPv2.0 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 27 | 32 | 
 | 2022-10-26 | 27 | 32 | 
 | 2022-10-25 | 27 | 32 | 
 | 2022-10-24 | 27 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 27 | 32 | 
 | 2022-09-29 | 27 | 32 | 
 | 2022-09-28 | 27 | 32 | 
-| 2022-09-27 | 27 | 32 | 
 

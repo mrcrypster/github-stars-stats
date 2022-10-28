@@ -1,8 +1,8 @@
 # zc2638/ddshop - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 117
+☋ Forks: 116
 
 ★ Stars: 390
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 390 | 116 | 
 | 2022-10-26 | 390 | 117 | 
 | 2022-10-25 | 390 | 117 | 
 | 2022-10-24 | 390 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 393 | 119 | 
 | 2022-09-29 | 393 | 119 | 
 | 2022-09-28 | 393 | 119 | 
-| 2022-09-27 | 393 | 119 | 
 

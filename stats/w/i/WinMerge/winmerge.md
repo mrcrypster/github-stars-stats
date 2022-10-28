@@ -1,10 +1,10 @@
 # WinMerge/winmerge - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 528
+☋ Forks: 529
 
-★ Stars: 3467
+★ Stars: 3483
 
 [Open repository](https://github.com/WinMerge/winmerge)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 3483 | 529 | 
 | 2022-10-26 | 3467 | 528 | 
 | 2022-10-25 | 3461 | 525 | 
 | 2022-10-24 | 3454 | 524 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 3364 | 511 | 
 | 2022-09-29 | 3360 | 511 | 
 | 2022-09-28 | 3354 | 512 | 
-| 2022-09-27 | 3347 | 512 | 
 

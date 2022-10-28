@@ -1,8 +1,8 @@
 # E869120/math-algorithm-book - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 77
+☋ Forks: 78
 
 ★ Stars: 720
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 720 | 78 | 
 | 2022-10-26 | 720 | 77 | 
 | 2022-10-25 | 720 | 77 | 
 | 2022-10-24 | 720 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 699 | 76 | 
 | 2022-09-29 | 698 | 75 | 
 | 2022-09-28 | 698 | 75 | 
-| 2022-09-27 | 696 | 75 | 
 

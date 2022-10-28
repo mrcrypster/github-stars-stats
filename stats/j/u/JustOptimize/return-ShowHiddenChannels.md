@@ -1,10 +1,10 @@
 # JustOptimize/return-ShowHiddenChannels - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 126
+☋ Forks: 130
 
-★ Stars: 251
+★ Stars: 255
 
 [Open repository](https://github.com/JustOptimize/return-ShowHiddenChannels)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 255 | 130 | 
 | 2022-10-26 | 251 | 126 | 
 | 2022-10-25 | 245 | 126 | 
 | 2022-10-24 | 236 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 161 | 80 | 
 | 2022-09-29 | 160 | 78 | 
 | 2022-09-28 | 159 | 78 | 
-| 2022-09-27 | 154 | 78 | 
 

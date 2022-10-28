@@ -1,6 +1,6 @@
 # enesmrcn/PIC-MCU-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 28 | 3 | 
 | 2022-10-26 | 28 | 3 | 
 | 2022-10-25 | 28 | 3 | 
 | 2022-10-24 | 28 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 28 | 3 | 
 | 2022-09-30 | 28 | 3 | 
 | 2022-09-29 | 28 | 3 | 
-| 2022-09-28 | 28 | 3 | 
 

@@ -1,6 +1,6 @@
 # globaldothealth/monkeypox - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 175 | 38 | 
 | 2022-10-27 | 175 | 38 | 
 | 2022-10-25 | 175 | 38 | 
 | 2022-10-24 | 174 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 171 | 38 | 
 | 2022-09-29 | 171 | 38 | 
 | 2022-09-28 | 171 | 38 | 
-| 2022-09-27 | 171 | 38 | 
 

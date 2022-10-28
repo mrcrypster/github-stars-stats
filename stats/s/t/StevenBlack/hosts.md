@@ -1,10 +1,10 @@
 # StevenBlack/hosts - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1878
 
-★ Stars: 21714
+★ Stars: 21719
 
 [Open repository](https://github.com/StevenBlack/hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 21719 | 1878 | 
 | 2022-10-26 | 21714 | 1878 | 
 | 2022-10-25 | 21708 | 1878 | 
 | 2022-10-24 | 21704 | 1877 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 21557 | 1876 | 
 | 2022-09-29 | 21550 | 1874 | 
 | 2022-09-28 | 21544 | 1874 | 
-| 2022-09-27 | 21534 | 1874 | 
 

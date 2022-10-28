@@ -1,8 +1,8 @@
 # ShaifArfan/one-page-website-html-css-project - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 586
+☋ Forks: 585
 
 ★ Stars: 525
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 525 | 585 | 
 | 2022-10-26 | 525 | 586 | 
 | 2022-10-25 | 525 | 583 | 
 | 2022-10-24 | 524 | 583 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 521 | 568 | 
 | 2022-09-29 | 521 | 567 | 
 | 2022-09-28 | 520 | 567 | 
-| 2022-09-27 | 520 | 566 | 
 

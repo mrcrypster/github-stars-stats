@@ -1,10 +1,10 @@
 # ryanoasis/powerline-extra-symbols - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 59
 
-★ Stars: 1025
+★ Stars: 1026
 
 [Open repository](https://github.com/ryanoasis/powerline-extra-symbols)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1026 | 59 | 
 | 2022-10-26 | 1025 | 59 | 
 | 2022-10-25 | 1025 | 59 | 
 | 2022-10-24 | 1024 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1013 | 59 | 
 | 2022-09-29 | 1013 | 59 | 
 | 2022-09-28 | 1013 | 59 | 
-| 2022-09-27 | 1013 | 58 | 
 

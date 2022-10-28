@@ -1,6 +1,6 @@
 # microsoft/ALAppExtensions - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 434
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 475 | 434 | 
 | 2022-10-26 | 475 | 434 | 
 | 2022-10-25 | 474 | 433 | 
 | 2022-10-24 | 474 | 432 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 466 | 426 | 
 | 2022-09-29 | 465 | 424 | 
 | 2022-09-28 | 463 | 424 | 
-| 2022-09-27 | 463 | 421 | 
 

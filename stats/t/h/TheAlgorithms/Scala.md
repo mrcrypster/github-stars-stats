@@ -1,6 +1,6 @@
 # TheAlgorithms/Scala - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 338
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 919 | 338 | 
 | 2022-10-26 | 919 | 338 | 
 | 2022-10-25 | 917 | 337 | 
 | 2022-10-24 | 916 | 336 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 910 | 335 | 
 | 2022-09-29 | 909 | 335 | 
 | 2022-09-28 | 909 | 335 | 
-| 2022-09-27 | 909 | 334 | 
 

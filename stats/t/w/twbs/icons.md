@@ -1,10 +1,10 @@
 # twbs/icons - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 949
+☋ Forks: 952
 
-★ Stars: 6418
+★ Stars: 6419
 
 [Open repository](https://github.com/twbs/icons)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6419 | 952 | 
 | 2022-10-26 | 6418 | 949 | 
 | 2022-10-25 | 6416 | 949 | 
 | 2022-10-24 | 6415 | 948 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 6376 | 935 | 
 | 2022-09-30 | 6374 | 936 | 
 | 2022-09-28 | 6373 | 936 | 
-| 2022-09-27 | 6372 | 936 | 
 

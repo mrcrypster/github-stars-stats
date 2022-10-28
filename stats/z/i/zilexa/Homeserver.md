@@ -1,6 +1,6 @@
 # zilexa/Homeserver - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 506 | 34 | 
 | 2022-10-27 | 506 | 34 | 
 | 2022-10-26 | 506 | 34 | 
 | 2022-10-25 | 506 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 499 | 32 | 
 | 2022-09-29 | 498 | 32 | 
 | 2022-09-28 | 498 | 32 | 
-| 2022-09-27 | 498 | 32 | 
 

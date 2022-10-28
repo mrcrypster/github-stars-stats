@@ -1,10 +1,10 @@
 # peng-zhihui/L-ink_Card - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1674
 
-★ Stars: 6709
+★ Stars: 6708
 
 [Open repository](https://github.com/peng-zhihui/L-ink_Card)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6708 | 1674 | 
 | 2022-10-26 | 6709 | 1674 | 
 | 2022-10-25 | 6711 | 1675 | 
 | 2022-10-24 | 6706 | 1674 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 6670 | 1671 | 
 | 2022-09-29 | 6670 | 1672 | 
 | 2022-09-28 | 6669 | 1670 | 
-| 2022-09-27 | 6668 | 1670 | 
 

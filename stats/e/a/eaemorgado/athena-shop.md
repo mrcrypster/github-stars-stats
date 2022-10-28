@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 27
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/eaemorgado/athena-shop)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-27 | 4 | 5 | 
+| 2022-10-27 | 5 | 6 | 
 | 2022-10-26 | 4 | 5 | 
 

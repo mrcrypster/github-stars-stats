@@ -1,6 +1,6 @@
 # e-roy/create-web3 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 82 | 12 | 
 | 2022-10-26 | 82 | 12 | 
 | 2022-10-25 | 81 | 12 | 
 | 2022-10-24 | 81 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 79 | 12 | 
 | 2022-09-29 | 79 | 12 | 
 | 2022-09-28 | 79 | 12 | 
-| 2022-09-27 | 79 | 12 | 
 

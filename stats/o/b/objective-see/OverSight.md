@@ -1,6 +1,6 @@
 # objective-see/OverSight - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 241 | 27 | 
 | 2022-10-26 | 241 | 27 | 
 | 2022-10-25 | 240 | 27 | 
 | 2022-10-24 | 240 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 227 | 26 | 
 | 2022-09-29 | 227 | 26 | 
 | 2022-09-28 | 227 | 26 | 
-| 2022-09-27 | 224 | 26 | 
 

@@ -1,10 +1,10 @@
 # tdpetrou/Machine-Learning-Books-With-Python - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 575
 
-★ Stars: 862
+★ Stars: 863
 
 [Open repository](https://github.com/tdpetrou/Machine-Learning-Books-With-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 863 | 575 | 
 | 2022-10-26 | 862 | 575 | 
 | 2022-10-25 | 861 | 575 | 
 | 2022-10-24 | 861 | 575 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 855 | 571 | 
 | 2022-09-29 | 855 | 571 | 
 | 2022-09-28 | 855 | 570 | 
-| 2022-09-27 | 855 | 569 | 
 

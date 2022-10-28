@@ -1,10 +1,10 @@
 # JoshuaTrujillo15/ez-bitmap - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/JoshuaTrujillo15/ez-bitmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 42 | 1 | 
 | 2022-10-26 | 41 | 1 | 
 | 2022-10-25 | 41 | 1 | 
 | 2022-10-24 | 41 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 38 | - | 
 | 2022-09-29 | 38 | - | 
 | 2022-09-28 | 38 | - | 
-| 2022-09-27 | 38 | - | 
 

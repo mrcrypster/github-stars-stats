@@ -1,6 +1,6 @@
 # input-output-hk/plutus-pioneer-program - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 591
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1339 | 591 | 
 | 2022-10-26 | 1339 | 591 | 
 | 2022-10-25 | 1338 | 591 | 
 | 2022-10-24 | 1336 | 590 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1329 | 588 | 
 | 2022-09-29 | 1329 | 586 | 
 | 2022-09-28 | 1329 | 586 | 
-| 2022-09-27 | 1329 | 585 | 
 

@@ -1,10 +1,10 @@
 # yoshiki/yaml-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 430
+★ Stars: 431
 
 [Open repository](https://github.com/yoshiki/yaml-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 431 | 130 | 
 | 2022-10-26 | 430 | 129 | 
 | 2022-10-25 | 430 | 129 | 
 | 2022-10-24 | 430 | 129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 428 | 128 | 
 | 2022-09-29 | 428 | 128 | 
 | 2022-09-28 | 428 | 128 | 
-| 2022-09-27 | 427 | 128 | 
 

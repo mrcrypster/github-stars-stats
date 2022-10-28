@@ -1,6 +1,6 @@
 # processone/ejabberd - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1493
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 5326 | 1493 | 
 | 2022-10-26 | 5326 | 1493 | 
 | 2022-10-25 | 5325 | 1494 | 
 | 2022-10-24 | 5324 | 1494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 5304 | 1489 | 
 | 2022-09-29 | 5304 | 1489 | 
 | 2022-09-28 | 5304 | 1489 | 
-| 2022-09-27 | 5303 | 1489 | 
 

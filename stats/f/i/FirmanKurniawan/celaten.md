@@ -1,10 +1,10 @@
 # FirmanKurniawan/celaten - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/FirmanKurniawan/celaten)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 25 | - | 
 | 2022-10-26 | 24 | - | 
 | 2022-10-25 | 24 | - | 
 | 2022-10-24 | 24 | - | 

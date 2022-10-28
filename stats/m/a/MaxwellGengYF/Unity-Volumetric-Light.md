@@ -1,6 +1,6 @@
 # MaxwellGengYF/Unity-Volumetric-Light - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 398 | 72 | 
 | 2022-10-27 | 398 | 72 | 
 | 2022-10-26 | 398 | 72 | 
 | 2022-10-24 | 398 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 396 | 72 | 
 | 2022-09-29 | 396 | 72 | 
 | 2022-09-28 | 396 | 72 | 
-| 2022-09-27 | 397 | 72 | 
 

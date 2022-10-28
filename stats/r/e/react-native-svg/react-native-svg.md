@@ -1,10 +1,10 @@
 # react-native-svg/react-native-svg - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 949
+☋ Forks: 950
 
-★ Stars: 6392
+★ Stars: 6394
 
 [Open repository](https://github.com/react-native-svg/react-native-svg)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6394 | 950 | 
 | 2022-10-26 | 6392 | 949 | 
 | 2022-10-25 | 6392 | 949 | 
 | 2022-10-24 | 6391 | 949 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 6321 | 934 | 
 | 2022-09-29 | 6319 | 934 | 
 | 2022-09-28 | 6313 | 930 | 
-| 2022-09-27 | 6312 | 930 | 
 

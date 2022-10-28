@@ -1,10 +1,10 @@
 # nv-tlabs/ASE - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 46
 
-★ Stars: 318
+★ Stars: 320
 
 [Open repository](https://github.com/nv-tlabs/ASE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 320 | 46 | 
 | 2022-10-26 | 318 | 46 | 
 | 2022-10-25 | 311 | 45 | 
 | 2022-10-24 | 310 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 263 | 34 | 
 | 2022-09-29 | 262 | 34 | 
 | 2022-09-28 | 258 | 34 | 
-| 2022-09-27 | 255 | 34 | 
 

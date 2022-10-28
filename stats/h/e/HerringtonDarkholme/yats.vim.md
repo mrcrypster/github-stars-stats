@@ -1,10 +1,10 @@
 # HerringtonDarkholme/yats.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 63
 
-★ Stars: 624
+★ Stars: 625
 
 [Open repository](https://github.com/HerringtonDarkholme/yats.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 625 | 63 | 
 | 2022-10-26 | 624 | 63 | 
 | 2022-10-25 | 624 | 63 | 
 | 2022-10-24 | 624 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 625 | 63 | 
 | 2022-09-29 | 626 | 63 | 
 | 2022-09-28 | 626 | 63 | 
-| 2022-09-27 | 626 | 63 | 
 

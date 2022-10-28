@@ -1,10 +1,10 @@
 # xt34498380002003/Gauravrandheerq - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 28
 
-★ Stars: 64
+★ Stars: 63
 
 [Open repository](https://github.com/xt34498380002003/Gauravrandheerq)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 63 | 28 | 
 | 2022-10-27 | 64 | 28 | 
 | 2022-10-26 | 64 | 28 | 
 | 2022-10-25 | 64 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 64 | 28 | 
 | 2022-09-29 | 64 | 28 | 
 | 2022-09-28 | 64 | 28 | 
-| 2022-09-27 | 64 | 28 | 
 

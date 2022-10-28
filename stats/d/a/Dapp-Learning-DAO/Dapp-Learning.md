@@ -1,6 +1,6 @@
 # Dapp-Learning-DAO/Dapp-Learning - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 844
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 3107 | 844 | 
 | 2022-10-26 | 3107 | 844 | 
 | 2022-10-25 | 3105 | 842 | 
 | 2022-10-24 | 3093 | 840 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 2985 | 809 | 
 | 2022-09-29 | 2979 | 808 | 
 | 2022-09-28 | 2967 | 806 | 
-| 2022-09-27 | 2961 | 806 | 
 

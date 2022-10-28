@@ -1,10 +1,10 @@
 # yeemachine/kalidokit - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 529
+☋ Forks: 530
 
-★ Stars: 4268
+★ Stars: 4271
 
 [Open repository](https://github.com/yeemachine/kalidokit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4271 | 530 | 
 | 2022-10-26 | 4268 | 529 | 
 | 2022-10-25 | 4264 | 528 | 
 | 2022-10-24 | 4261 | 528 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 4202 | 514 | 
 | 2022-09-29 | 4198 | 513 | 
 | 2022-09-28 | 4195 | 513 | 
-| 2022-09-27 | 4191 | 512 | 
 

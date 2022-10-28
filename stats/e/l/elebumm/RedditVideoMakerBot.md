@@ -1,10 +1,10 @@
 # elebumm/RedditVideoMakerBot - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 1092
+☋ Forks: 1095
 
-★ Stars: 4144
+★ Stars: 4146
 
 [Open repository](https://github.com/elebumm/RedditVideoMakerBot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4146 | 1095 | 
 | 2022-10-26 | 4144 | 1092 | 
 | 2022-10-25 | 4141 | 1091 | 
 | 2022-10-24 | 4140 | 1088 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 4046 | 1052 | 
 | 2022-09-29 | 4043 | 1050 | 
 | 2022-09-28 | 4040 | 1048 | 
-| 2022-09-27 | 4036 | 1046 | 
 

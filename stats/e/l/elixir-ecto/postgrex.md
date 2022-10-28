@@ -1,10 +1,10 @@
 # elixir-ecto/postgrex - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 258
 
-★ Stars: 961
+★ Stars: 962
 
 [Open repository](https://github.com/elixir-ecto/postgrex)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 962 | 258 | 
 | 2022-10-26 | 961 | 258 | 
 | 2022-10-25 | 961 | 258 | 
 | 2022-10-24 | 962 | 258 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 951 | 252 | 
 | 2022-09-29 | 951 | 251 | 
 | 2022-09-28 | 951 | 251 | 
-| 2022-09-27 | 951 | 251 | 
 

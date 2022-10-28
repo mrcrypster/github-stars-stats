@@ -1,10 +1,10 @@
 # ripperhe/Bob - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 443
+☋ Forks: 445
 
-★ Stars: 6614
+★ Stars: 6630
 
 [Open repository](https://github.com/ripperhe/Bob)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 6630 | 445 | 
 | 2022-10-26 | 6614 | 443 | 
 | 2022-10-25 | 6610 | 443 | 
 | 2022-10-24 | 6604 | 442 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 6527 | 437 | 
 | 2022-09-29 | 6520 | 437 | 
 | 2022-09-28 | 6516 | 435 | 
-| 2022-09-27 | 6512 | 436 | 
 

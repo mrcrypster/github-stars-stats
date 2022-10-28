@@ -1,10 +1,10 @@
 # aws/aws-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 3464
+☋ Forks: 3469
 
-★ Stars: 13038
+★ Stars: 13042
 
 [Open repository](https://github.com/aws/aws-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 13042 | 3469 | 
 | 2022-10-26 | 13038 | 3464 | 
 | 2022-10-25 | 13032 | 3461 | 
 | 2022-10-24 | 13027 | 3459 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 12926 | 3416 | 
 | 2022-09-29 | 12924 | 3416 | 
 | 2022-09-28 | 12913 | 3414 | 
-| 2022-09-27 | 12907 | 3413 | 
 

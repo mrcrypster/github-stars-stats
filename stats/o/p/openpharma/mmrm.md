@@ -1,6 +1,6 @@
 # openpharma/mmrm - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 10 | 7 | 
 | 2022-10-26 | 10 | 7 | 
 | 2022-10-25 | 9 | 6 | 
 | 2022-10-24 | 9 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-10-01 | 8 | 5 | 
 | 2022-09-30 | 8 | 5 | 
 | 2022-09-29 | 8 | 5 | 
-| 2022-09-27 | 8 | 5 | 
 

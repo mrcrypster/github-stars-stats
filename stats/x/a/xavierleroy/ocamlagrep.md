@@ -1,6 +1,6 @@
 # xavierleroy/ocamlagrep - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 23 | 2 | 
 | 2022-10-26 | 23 | 2 | 
 | 2022-10-25 | 23 | 2 | 
 | 2022-10-24 | 23 | 2 | 

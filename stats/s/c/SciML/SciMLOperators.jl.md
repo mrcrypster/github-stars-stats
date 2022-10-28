@@ -1,10 +1,10 @@
 # SciML/SciMLOperators.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 5
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/SciML/SciMLOperators.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 18 | 5 | 
 | 2022-10-26 | 17 | 5 | 
 | 2022-10-25 | 17 | 4 | 
 | 2022-10-24 | 17 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 17 | 4 | 
 | 2022-09-29 | 17 | 4 | 
 | 2022-09-28 | 17 | 4 | 
-| 2022-09-27 | 17 | 4 | 
 

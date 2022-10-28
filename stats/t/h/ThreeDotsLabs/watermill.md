@@ -1,10 +1,10 @@
 # ThreeDotsLabs/watermill - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 286
 
-★ Stars: 4795
+★ Stars: 4799
 
 [Open repository](https://github.com/ThreeDotsLabs/watermill)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4799 | 286 | 
 | 2022-10-26 | 4795 | 286 | 
 | 2022-10-25 | 4793 | 286 | 
 | 2022-10-24 | 4788 | 285 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 4734 | 276 | 
 | 2022-09-29 | 4730 | 275 | 
 | 2022-09-28 | 4728 | 275 | 
-| 2022-09-27 | 4726 | 274 | 
 

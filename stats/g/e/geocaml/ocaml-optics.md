@@ -1,6 +1,6 @@
 # geocaml/ocaml-optics - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 13 | 1 | 
 | 2022-10-26 | 13 | 1 | 
 | 2022-10-25 | 13 | 1 | 
 | 2022-10-24 | 13 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 9 | 1 | 
 | 2022-09-29 | 9 | 1 | 
 | 2022-09-28 | 9 | 1 | 
-| 2022-09-27 | 8 | 1 | 
 

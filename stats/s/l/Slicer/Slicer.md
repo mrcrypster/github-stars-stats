@@ -1,10 +1,10 @@
 # Slicer/Slicer - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 362
 
-★ Stars: 823
+★ Stars: 824
 
 [Open repository](https://github.com/Slicer/Slicer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 824 | 362 | 
 | 2022-10-26 | 823 | 362 | 
 | 2022-10-25 | 822 | 362 | 
 | 2022-10-24 | 822 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 807 | 359 | 
 | 2022-09-29 | 807 | 359 | 
 | 2022-09-28 | 805 | 360 | 
-| 2022-09-27 | 803 | 360 | 
 

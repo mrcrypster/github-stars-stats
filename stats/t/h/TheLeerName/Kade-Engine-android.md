@@ -1,10 +1,10 @@
 # TheLeerName/Kade-Engine-android - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 36
 
-★ Stars: 9
+★ Stars: 8
 
 [Open repository](https://github.com/TheLeerName/Kade-Engine-android)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 8 | 36 | 
 | 2022-10-26 | 9 | 36 | 
 | 2022-10-25 | 9 | 36 | 
 | 2022-10-24 | 9 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 8 | 35 | 
 | 2022-09-29 | 8 | 35 | 
 | 2022-09-28 | 8 | 36 | 
-| 2022-09-27 | 8 | 35 | 
 

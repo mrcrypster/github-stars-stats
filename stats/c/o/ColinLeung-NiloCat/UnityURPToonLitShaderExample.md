@@ -1,10 +1,10 @@
 # ColinLeung-NiloCat/UnityURPToonLitShaderExample - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
-☋ Forks: 1089
+☋ Forks: 1091
 
-★ Stars: 4119
+★ Stars: 4126
 
 [Open repository](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 4126 | 1091 | 
 | 2022-10-26 | 4119 | 1089 | 
 | 2022-10-25 | 4115 | 1085 | 
 | 2022-10-24 | 4102 | 1084 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 4023 | 1061 | 
 | 2022-09-29 | 4021 | 1059 | 
 | 2022-09-28 | 4021 | 1059 | 
-| 2022-09-27 | 4021 | 1060 | 
 

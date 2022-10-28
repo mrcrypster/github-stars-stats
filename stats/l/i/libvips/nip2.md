@@ -1,10 +1,10 @@
 # libvips/nip2 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 12
 
-★ Stars: 274
+★ Stars: 275
 
 [Open repository](https://github.com/libvips/nip2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 275 | 12 | 
 | 2022-10-26 | 274 | 12 | 
 | 2022-10-25 | 274 | 12 | 
 | 2022-10-24 | 273 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 272 | 12 | 
 | 2022-09-29 | 272 | 12 | 
 | 2022-09-28 | 272 | 12 | 
-| 2022-09-27 | 272 | 12 | 
 

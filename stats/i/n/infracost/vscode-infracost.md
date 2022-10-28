@@ -1,6 +1,6 @@
 # infracost/vscode-infracost - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 1599 | 50 | 
 | 2022-10-26 | 1599 | 50 | 
 | 2022-10-25 | 1600 | 50 | 
 | 2022-10-24 | 1600 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 1585 | 49 | 
 | 2022-09-29 | 1585 | 49 | 
 | 2022-09-28 | 1585 | 49 | 
-| 2022-09-27 | 1584 | 48 | 
 

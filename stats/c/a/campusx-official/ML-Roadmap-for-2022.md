@@ -1,10 +1,10 @@
 # campusx-official/ML-Roadmap-for-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 27
 
 ☋ Forks: 172
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/campusx-official/ML-Roadmap-for-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-27 | 249 | 172 | 
 | 2022-10-26 | 248 | 172 | 
 | 2022-10-25 | 248 | 172 | 
 | 2022-10-24 | 244 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 229 | 162 | 
 | 2022-09-29 | 229 | 161 | 
 | 2022-09-28 | 228 | 160 | 
-| 2022-09-27 | 228 | 160 | 
 

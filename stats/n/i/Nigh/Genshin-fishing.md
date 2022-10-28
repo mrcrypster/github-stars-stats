@@ -1,8 +1,8 @@
 # Nigh/Genshin-fishing - stars & forks statistics
 
-Stats updated on Oct 2022, 26
+Stats updated on Oct 2022, 28
 
-☋ Forks: 21
+☋ Forks: 20
 
 ★ Stars: 230
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 26
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 230 | 20 | 
 | 2022-10-26 | 230 | 21 | 
 | 2022-10-25 | 230 | 21 | 
 | 2022-10-24 | 230 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 26
 | 2022-09-30 | 227 | 21 | 
 | 2022-09-29 | 227 | 21 | 
 | 2022-09-28 | 227 | 21 | 
-| 2022-09-27 | 227 | 21 | 
 

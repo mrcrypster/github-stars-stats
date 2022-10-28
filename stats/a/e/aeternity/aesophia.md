@@ -1,8 +1,8 @@
 # aeternity/aesophia - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 44 | 21 | 
 | 2022-10-27 | 44 | 20 | 
 | 2022-10-26 | 44 | 20 | 
 | 2022-10-25 | 43 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 43 | 20 | 
 | 2022-09-29 | 43 | 20 | 
 | 2022-09-28 | 43 | 20 | 
-| 2022-09-27 | 43 | 20 | 
 

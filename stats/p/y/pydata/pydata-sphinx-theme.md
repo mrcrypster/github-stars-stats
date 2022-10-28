@@ -1,10 +1,10 @@
 # pydata/pydata-sphinx-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 193
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/pydata/pydata-sphinx-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 296 | 193 | 
 | 2022-10-27 | 295 | 193 | 
 | 2022-10-26 | 294 | 193 | 
 | 2022-10-25 | 294 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-09-30 | 288 | 187 | 
 | 2022-09-29 | 287 | 187 | 
 | 2022-09-28 | 287 | 187 | 
-| 2022-09-27 | 287 | 188 | 
 
