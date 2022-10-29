@@ -1,6 +1,6 @@
 # bradtraversy/svelte-feedback-app - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 120 | 60 | 
 | 2022-10-27 | 120 | 60 | 
 | 2022-10-26 | 120 | 60 | 
 | 2022-10-25 | 120 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 119 | 59 | 
 | 2022-10-01 | 119 | 59 | 
 | 2022-09-30 | 119 | 59 | 
-| 2022-09-29 | 119 | 59 | 
 

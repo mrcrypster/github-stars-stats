@@ -1,10 +1,10 @@
 # dfinity/examples - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 210
+☋ Forks: 211
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/dfinity/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 354 | 211 | 
 | 2022-10-27 | 353 | 210 | 
 | 2022-10-26 | 353 | 210 | 
 | 2022-10-25 | 353 | 208 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 350 | 200 | 
 | 2022-09-30 | 350 | 200 | 
 | 2022-09-29 | 350 | 200 | 
-| 2022-09-28 | 350 | 200 | 
 

@@ -1,10 +1,10 @@
 # cran-task-views/MixedModels - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 3
+☋ Forks: 5
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/cran-task-views/MixedModels)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 16 | 5 | 
 | 2022-10-27 | 15 | 3 | 
 | 2022-10-26 | 13 | 3 | 
 | 2022-10-25 | 13 | 3 | 

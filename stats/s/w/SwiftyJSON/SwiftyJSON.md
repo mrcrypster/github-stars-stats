@@ -1,10 +1,10 @@
 # SwiftyJSON/SwiftyJSON - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 3361
+☋ Forks: 3360
 
-★ Stars: 21594
+★ Stars: 21598
 
 [Open repository](https://github.com/SwiftyJSON/SwiftyJSON)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 21598 | 3360 | 
 | 2022-10-27 | 21594 | 3361 | 
 | 2022-10-26 | 21590 | 3360 | 
 | 2022-10-25 | 21592 | 3360 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 21552 | 3357 | 
 | 2022-09-30 | 21553 | 3357 | 
 | 2022-09-29 | 21550 | 3357 | 
-| 2022-09-28 | 21551 | 3357 | 
 

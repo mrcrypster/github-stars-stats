@@ -1,10 +1,10 @@
 # MrXujiang/h5-Dooring - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1354
 
-★ Stars: 6941
+★ Stars: 6943
 
 [Open repository](https://github.com/MrXujiang/h5-Dooring)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6943 | 1354 | 
 | 2022-10-27 | 6941 | 1354 | 
 | 2022-10-26 | 6939 | 1354 | 
 | 2022-10-25 | 6939 | 1354 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 6882 | 1347 | 
 | 2022-09-30 | 6878 | 1346 | 
 | 2022-09-29 | 6875 | 1345 | 
-| 2022-09-28 | 6872 | 1344 | 
 

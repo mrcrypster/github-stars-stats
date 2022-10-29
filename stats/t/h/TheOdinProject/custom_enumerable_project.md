@@ -1,8 +1,8 @@
 # TheOdinProject/custom_enumerable_project - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 288
+☋ Forks: 289
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2 | 289 | 
 | 2022-10-27 | 2 | 288 | 
 | 2022-10-26 | 2 | 287 | 
 | 2022-10-25 | 2 | 286 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2 | 256 | 
 | 2022-09-30 | 2 | 256 | 
 | 2022-09-29 | 2 | 254 | 
-| 2022-09-28 | 2 | 254 | 
 

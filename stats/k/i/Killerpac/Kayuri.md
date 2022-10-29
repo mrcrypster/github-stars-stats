@@ -1,6 +1,6 @@
 # Killerpac/Kayuri - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 384 | 32 | 
 | 2022-10-27 | 384 | 32 | 
 | 2022-10-26 | 383 | 32 | 
 | 2022-10-25 | 382 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 362 | 31 | 
 | 2022-09-30 | 361 | 31 | 
 | 2022-09-29 | 359 | 31 | 
-| 2022-09-28 | 359 | 31 | 
 

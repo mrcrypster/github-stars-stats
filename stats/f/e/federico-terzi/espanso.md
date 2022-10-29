@@ -1,10 +1,10 @@
 # federico-terzi/espanso - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 179
 
-★ Stars: 6097
+★ Stars: 6104
 
 [Open repository](https://github.com/federico-terzi/espanso)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6104 | 179 | 
 | 2022-10-27 | 6097 | 179 | 
 | 2022-10-26 | 6090 | 179 | 
 | 2022-10-25 | 6087 | 179 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 5910 | 175 | 
 | 2022-09-30 | 5902 | 175 | 
 | 2022-09-29 | 5887 | 175 | 
-| 2022-09-28 | 5853 | 175 | 
 

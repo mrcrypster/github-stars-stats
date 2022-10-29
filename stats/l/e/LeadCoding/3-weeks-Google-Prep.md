@@ -1,8 +1,8 @@
 # LeadCoding/3-weeks-Google-Prep - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 464
+☋ Forks: 465
 
 ★ Stars: 1020
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1020 | 465 | 
 | 2022-10-27 | 1020 | 464 | 
 | 2022-10-26 | 1019 | 464 | 
 | 2022-10-25 | 1018 | 463 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 987 | 440 | 
 | 2022-09-30 | 986 | 440 | 
 | 2022-09-29 | 984 | 439 | 
-| 2022-09-28 | 983 | 438 | 
 

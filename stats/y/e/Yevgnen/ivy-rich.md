@@ -1,6 +1,6 @@
 # Yevgnen/ivy-rich - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 339 | 38 | 
 | 2022-10-27 | 339 | 38 | 
 | 2022-10-26 | 339 | 38 | 
 | 2022-10-25 | 339 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 337 | 38 | 
 | 2022-09-30 | 337 | 38 | 
 | 2022-09-29 | 337 | 38 | 
-| 2022-09-28 | 337 | 38 | 
 

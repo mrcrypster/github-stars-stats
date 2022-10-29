@@ -1,10 +1,10 @@
 # ggandor/leap.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 1992
+★ Stars: 2004
 
 [Open repository](https://github.com/ggandor/leap.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2004 | 20 | 
 | 2022-10-27 | 1992 | 19 | 
 | 2022-10-26 | 1991 | 19 | 
 | 2022-10-25 | 1979 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 553 | 7 | 
 | 2022-09-30 | 551 | 7 | 
 | 2022-09-29 | 544 | 7 | 
-| 2022-09-28 | 544 | 7 | 
 

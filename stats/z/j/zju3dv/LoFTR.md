@@ -1,6 +1,6 @@
 # zju3dv/LoFTR - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 204
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1305 | 204 | 
 | 2022-10-27 | 1305 | 204 | 
 | 2022-10-26 | 1303 | 204 | 
 | 2022-10-25 | 1300 | 204 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1262 | 192 | 
 | 2022-09-30 | 1260 | 192 | 
 | 2022-09-29 | 1259 | 192 | 
-| 2022-09-28 | 1259 | 192 | 
 

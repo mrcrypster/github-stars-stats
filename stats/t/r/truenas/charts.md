@@ -1,6 +1,6 @@
 # truenas/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 79 | 95 | 
 | 2022-10-27 | 79 | 95 | 
 | 2022-10-26 | 79 | 94 | 
 | 2022-10-25 | 79 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 73 | 90 | 
 | 2022-09-30 | 72 | 90 | 
 | 2022-09-29 | 72 | 90 | 
-| 2022-09-28 | 72 | 89 | 
 

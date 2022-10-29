@@ -1,10 +1,10 @@
 # EmulatorOS/EmulatorOS.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 43
+☋ Forks: 45
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/EmulatorOS/EmulatorOS.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 19 | 45 | 
 | 2022-10-27 | 18 | 43 | 
 | 2022-10-26 | 18 | 44 | 
 | 2022-10-25 | 18 | 43 | 

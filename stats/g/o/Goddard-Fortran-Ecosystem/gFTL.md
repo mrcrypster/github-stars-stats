@@ -1,6 +1,6 @@
 # Goddard-Fortran-Ecosystem/gFTL - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 31 | 8 | 
 | 2022-10-27 | 31 | 8 | 
 | 2022-10-26 | 31 | 8 | 
 | 2022-10-25 | 31 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 29 | 8 | 
 | 2022-09-30 | 29 | 8 | 
 | 2022-09-29 | 29 | 8 | 
-| 2022-09-28 | 29 | 8 | 
 

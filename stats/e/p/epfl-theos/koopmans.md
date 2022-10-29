@@ -1,8 +1,8 @@
 # epfl-theos/koopmans - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 7 | 2 | 
 | 2022-10-27 | 7 | 1 | 
 | 2022-10-26 | 7 | 1 | 
 | 2022-10-25 | 7 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 7 | 1 | 
 | 2022-09-30 | 7 | 1 | 
 | 2022-09-29 | 7 | 1 | 
-| 2022-09-28 | 7 | 1 | 
 

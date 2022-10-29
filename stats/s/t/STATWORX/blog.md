@@ -1,6 +1,6 @@
 # STATWORX/blog - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 487
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 106 | 487 | 
 | 2022-10-27 | 106 | 487 | 
 | 2022-10-26 | 106 | 487 | 
 | 2022-10-25 | 106 | 486 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 104 | 484 | 
 | 2022-09-30 | 104 | 484 | 
 | 2022-09-29 | 104 | 484 | 
-| 2022-09-28 | 104 | 483 | 
 

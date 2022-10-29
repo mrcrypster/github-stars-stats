@@ -1,10 +1,10 @@
 # jdtsmith/outli - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/jdtsmith/outli)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 23 | - | 
 | 2022-10-27 | 22 | - | 
 | 2022-10-26 | 22 | - | 
 | 2022-10-25 | 22 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 22 | - | 
 | 2022-09-30 | 21 | - | 
 | 2022-09-29 | 21 | - | 
-| 2022-09-28 | 21 | - | 
 

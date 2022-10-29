@@ -1,10 +1,10 @@
 # Araq/mastering_nim - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 23
 
 [Open repository](https://github.com/Araq/mastering_nim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 23 | - | 
 | 2022-10-27 | 21 | - | 
 | 2022-10-26 | 21 | - | 
 | 2022-10-25 | 21 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 21 | - | 
 | 2022-09-30 | 20 | - | 
 | 2022-09-29 | 20 | - | 
-| 2022-09-28 | 20 | - | 
 

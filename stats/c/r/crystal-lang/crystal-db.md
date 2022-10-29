@@ -1,6 +1,6 @@
 # crystal-lang/crystal-db - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 253 | 45 | 
 | 2022-10-27 | 253 | 45 | 
 | 2022-10-26 | 253 | 45 | 
 | 2022-10-25 | 253 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 254 | 44 | 
 | 2022-09-30 | 253 | 44 | 
 | 2022-09-29 | 253 | 44 | 
-| 2022-09-28 | 253 | 44 | 
 

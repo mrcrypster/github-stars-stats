@@ -1,6 +1,6 @@
 # ImminentFate/SiriShortcuts - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 103 | 10 | 
 | 2022-10-27 | 103 | 10 | 
 | 2022-10-26 | 102 | 10 | 
 | 2022-10-25 | 102 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 99 | 9 | 
 | 2022-10-01 | 99 | 9 | 
 | 2022-09-30 | 99 | 9 | 
-| 2022-09-28 | 98 | 9 | 
 

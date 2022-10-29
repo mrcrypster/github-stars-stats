@@ -1,10 +1,10 @@
 # Tropix126/fluent-svelte - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 14
 
-★ Stars: 357
+★ Stars: 359
 
 [Open repository](https://github.com/Tropix126/fluent-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 359 | 14 | 
 | 2022-10-27 | 357 | 14 | 
 | 2022-10-26 | 356 | 14 | 
 | 2022-10-25 | 356 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 343 | 14 | 
 | 2022-10-01 | 343 | 14 | 
 | 2022-09-29 | 344 | 14 | 
-| 2022-09-28 | 344 | 13 | 
 

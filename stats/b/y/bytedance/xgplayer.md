@@ -1,10 +1,10 @@
 # bytedance/xgplayer - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 653
 
-★ Stars: 5678
+★ Stars: 5682
 
 [Open repository](https://github.com/bytedance/xgplayer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 5682 | 653 | 
 | 2022-10-27 | 5678 | 653 | 
 | 2022-10-26 | 5674 | 653 | 
 | 2022-10-25 | 5670 | 653 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 5609 | 645 | 
 | 2022-09-30 | 5607 | 645 | 
 | 2022-09-29 | 5604 | 645 | 
-| 2022-09-28 | 5598 | 645 | 
 

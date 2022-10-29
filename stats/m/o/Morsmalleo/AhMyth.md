@@ -1,10 +1,10 @@
 # Morsmalleo/AhMyth - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 50
 
-★ Stars: 150
+★ Stars: 153
 
 [Open repository](https://github.com/Morsmalleo/AhMyth)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 153 | 50 | 
 | 2022-10-27 | 150 | 50 | 
 | 2022-10-26 | 149 | 50 | 
 | 2022-10-25 | 148 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 140 | 49 | 
 | 2022-09-30 | 138 | 49 | 
 | 2022-09-29 | 137 | 48 | 
-| 2022-09-28 | 135 | 48 | 
 

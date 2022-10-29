@@ -1,6 +1,6 @@
 # datamallchain/dmchain_contract - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 109 | 40 | 
 | 2022-10-27 | 109 | 40 | 
 | 2022-10-26 | 110 | 40 | 
 | 2022-10-25 | 110 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 110 | 40 | 
 | 2022-10-01 | 110 | 40 | 
 | 2022-09-30 | 110 | 40 | 
-| 2022-09-29 | 110 | 40 | 
 

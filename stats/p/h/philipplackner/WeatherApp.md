@@ -1,6 +1,6 @@
 # philipplackner/WeatherApp - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 85 | 34 | 
 | 2022-10-27 | 85 | 34 | 
 | 2022-10-26 | 84 | 34 | 
 | 2022-10-25 | 83 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 79 | 33 | 
 | 2022-10-01 | 79 | 33 | 
 | 2022-09-30 | 79 | 33 | 
-| 2022-09-29 | 79 | 32 | 
 

@@ -1,10 +1,10 @@
 # aquanauts/python_interview - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 29
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/aquanauts/python_interview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 23 | 29 | 
 | 2022-10-28 | 22 | 29 | 
 | 2022-10-27 | 22 | 29 | 
 | 2022-10-25 | 22 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 22 | 29 | 
 | 2022-09-30 | 22 | 29 | 
 | 2022-09-29 | 22 | 29 | 
-| 2022-09-28 | 22 | 28 | 
 

@@ -1,6 +1,6 @@
 # PatilShreyas/permission-flow-android - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 280 | 11 | 
 | 2022-10-27 | 280 | 11 | 
 | 2022-10-26 | 279 | 11 | 
 | 2022-10-25 | 278 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 271 | 10 | 
 | 2022-09-30 | 271 | 10 | 
 | 2022-09-29 | 271 | 10 | 
-| 2022-09-28 | 270 | 10 | 
 

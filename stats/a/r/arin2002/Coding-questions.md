@@ -1,10 +1,10 @@
 # arin2002/Coding-questions - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 291
+☋ Forks: 320
 
-★ Stars: 80
+★ Stars: 87
 
 [Open repository](https://github.com/arin2002/Coding-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 87 | 320 | 
 | 2022-10-27 | 80 | 291 | 
 | 2022-10-26 | 75 | 268 | 
 | 2022-10-25 | 66 | 232 | 

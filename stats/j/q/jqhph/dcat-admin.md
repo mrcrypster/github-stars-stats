@@ -1,10 +1,10 @@
 # jqhph/dcat-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 540
 
-★ Stars: 3194
+★ Stars: 3196
 
 [Open repository](https://github.com/jqhph/dcat-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3196 | 540 | 
 | 2022-10-27 | 3194 | 540 | 
 | 2022-10-26 | 3192 | 540 | 
 | 2022-10-25 | 3189 | 540 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3172 | 534 | 
 | 2022-09-30 | 3172 | 534 | 
 | 2022-09-29 | 3172 | 534 | 
-| 2022-09-28 | 3169 | 534 | 
 

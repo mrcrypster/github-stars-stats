@@ -1,10 +1,10 @@
 # kailong321200875/vue-element-plus-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 145
+☋ Forks: 147
 
-★ Stars: 647
+★ Stars: 649
 
 [Open repository](https://github.com/kailong321200875/vue-element-plus-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 649 | 147 | 
 | 2022-10-27 | 647 | 145 | 
 | 2022-10-26 | 644 | 145 | 
 | 2022-10-25 | 638 | 142 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 592 | 131 | 
 | 2022-09-30 | 592 | 129 | 
 | 2022-09-29 | 585 | 126 | 
-| 2022-09-28 | 584 | 126 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 16
+★ Stars: 19
 
 [Open repository](https://github.com/redhat-developer/helm-backstage)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 16 | 5 | 
+| 2022-10-28 | 19 | 5 | 
 | 2022-10-27 | 16 | 5 | 
 | 2022-10-26 | 14 | 5 | 
 | 2022-10-25 | 2 | 4 | 

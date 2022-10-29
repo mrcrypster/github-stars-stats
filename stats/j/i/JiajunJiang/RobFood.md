@@ -1,6 +1,6 @@
 # JiajunJiang/RobFood - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 175 | 47 | 
 | 2022-10-27 | 175 | 47 | 
 | 2022-10-26 | 176 | 47 | 
 | 2022-10-25 | 176 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 177 | 47 | 
 | 2022-10-01 | 177 | 47 | 
 | 2022-09-30 | 177 | 47 | 
-| 2022-09-29 | 177 | 47 | 
 

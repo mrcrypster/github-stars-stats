@@ -1,6 +1,6 @@
 # projectcalico/calico - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 939
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3980 | 939 | 
 | 2022-10-27 | 3980 | 939 | 
 | 2022-10-26 | 3975 | 939 | 
 | 2022-10-25 | 3971 | 940 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3911 | 930 | 
 | 2022-09-30 | 3909 | 929 | 
 | 2022-09-29 | 3905 | 928 | 
-| 2022-09-28 | 3899 | 929 | 
 

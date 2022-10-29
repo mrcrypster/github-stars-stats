@@ -1,6 +1,6 @@
 # Engelberg/instaparse - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2582 | 139 | 
 | 2022-10-27 | 2582 | 139 | 
 | 2022-10-26 | 2582 | 139 | 
 | 2022-10-25 | 2582 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2573 | 139 | 
 | 2022-09-30 | 2573 | 139 | 
 | 2022-09-29 | 2573 | 139 | 
-| 2022-09-28 | 2573 | 139 | 
 

@@ -1,8 +1,8 @@
 # Stefan-Schmidt/oniro - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 1
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1 | 11 | 
+| 2022-10-28 | 1 | 11 | 
 | 2022-10-27 | 1 | 10 | 
 | 2022-10-26 | 1 | 10 | 
 | 2022-10-25 | 1 | 10 | 

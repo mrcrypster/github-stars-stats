@@ -1,6 +1,6 @@
 # 1milligram/1loc - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 494
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6276 | 494 | 
 | 2022-10-27 | 6276 | 494 | 
 | 2022-10-26 | 6275 | 494 | 
 | 2022-10-25 | 6273 | 494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 6247 | 489 | 
 | 2022-09-30 | 6244 | 489 | 
 | 2022-09-29 | 6241 | 489 | 
-| 2022-09-28 | 6230 | 489 | 
 

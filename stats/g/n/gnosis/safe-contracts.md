@@ -1,10 +1,10 @@
 # gnosis/safe-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 619
+☋ Forks: 620
 
-★ Stars: 1182
+★ Stars: 1184
 
 [Open repository](https://github.com/gnosis/safe-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1184 | 620 | 
 | 2022-10-27 | 1182 | 619 | 
 | 2022-10-26 | 1181 | 618 | 
 | 2022-10-25 | 1179 | 618 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1139 | 601 | 
 | 2022-09-30 | 1138 | 601 | 
 | 2022-09-29 | 1134 | 600 | 
-| 2022-09-28 | 1134 | 600 | 
 

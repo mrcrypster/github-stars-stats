@@ -1,10 +1,10 @@
 # trane-project/trane - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 11
 
-★ Stars: 498
+★ Stars: 499
 
 [Open repository](https://github.com/trane-project/trane)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 499 | 11 | 
 | 2022-10-27 | 498 | 11 | 
 | 2022-10-26 | 498 | 11 | 
 | 2022-10-25 | 497 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 489 | 11 | 
 | 2022-10-01 | 490 | 11 | 
 | 2022-09-30 | 490 | 11 | 
-| 2022-09-29 | 488 | 11 | 
 

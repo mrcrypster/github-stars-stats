@@ -1,10 +1,10 @@
 # stephane/libmodbus - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1461
+☋ Forks: 1460
 
-★ Stars: 2441
+★ Stars: 2443
 
 [Open repository](https://github.com/stephane/libmodbus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2443 | 1460 | 
 | 2022-10-27 | 2441 | 1461 | 
 | 2022-10-26 | 2441 | 1461 | 
 | 2022-10-25 | 2442 | 1461 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2421 | 1448 | 
 | 2022-09-30 | 2421 | 1448 | 
 | 2022-09-29 | 2416 | 1446 | 
-| 2022-09-28 | 2415 | 1446 | 
 

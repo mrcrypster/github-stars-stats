@@ -1,6 +1,6 @@
 # mirage/irmin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 154
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1647 | 154 | 
 | 2022-10-27 | 1647 | 154 | 
 | 2022-10-26 | 1647 | 154 | 
 | 2022-10-25 | 1646 | 154 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1639 | 152 | 
 | 2022-09-30 | 1639 | 152 | 
 | 2022-09-29 | 1639 | 152 | 
-| 2022-09-28 | 1639 | 152 | 
 

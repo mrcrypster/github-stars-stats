@@ -1,6 +1,6 @@
 # mobilecoinfoundation/mobilecoin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1098 | 127 | 
 | 2022-10-27 | 1098 | 127 | 
 | 2022-10-26 | 1098 | 127 | 
 | 2022-10-25 | 1097 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1095 | 126 | 
 | 2022-09-30 | 1095 | 126 | 
 | 2022-09-29 | 1095 | 126 | 
-| 2022-09-28 | 1095 | 126 | 
 

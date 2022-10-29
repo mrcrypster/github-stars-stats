@@ -1,10 +1,10 @@
 # headkaze/Hackintool - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 194
 
-★ Stars: 2195
+★ Stars: 2197
 
 [Open repository](https://github.com/headkaze/Hackintool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2197 | 194 | 
 | 2022-10-27 | 2195 | 194 | 
 | 2022-10-26 | 2194 | 194 | 
 | 2022-10-25 | 2193 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2171 | 191 | 
 | 2022-09-30 | 2170 | 190 | 
 | 2022-09-29 | 2169 | 190 | 
-| 2022-09-28 | 2169 | 190 | 
 

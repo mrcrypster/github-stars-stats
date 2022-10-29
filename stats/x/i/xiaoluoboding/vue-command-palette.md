@@ -1,10 +1,10 @@
 # xiaoluoboding/vue-command-palette - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 8
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/xiaoluoboding/vue-command-palette)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 212 | 8 | 
 | 2022-10-27 | 211 | 8 | 
 | 2022-10-26 | 211 | 8 | 
 | 2022-10-25 | 211 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 155 | 5 | 
 | 2022-09-30 | 142 | 5 | 
 | 2022-09-29 | 101 | 5 | 
-| 2022-09-28 | 75 | 2 | 
 

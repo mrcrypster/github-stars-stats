@@ -1,8 +1,8 @@
 # react-native-camera/react-native-camera - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 3334
+☋ Forks: 3336
 
 ★ Stars: 9586
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 9586 | 3336 | 
 | 2022-10-27 | 9586 | 3334 | 
 | 2022-10-26 | 9587 | 3333 | 
 | 2022-10-25 | 9587 | 3333 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 9582 | 3308 | 
 | 2022-09-30 | 9582 | 3309 | 
 | 2022-09-29 | 9582 | 3309 | 
-| 2022-09-28 | 9581 | 3308 | 
 

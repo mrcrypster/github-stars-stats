@@ -1,10 +1,10 @@
 # OneLoneCoder/olcPixelGameEngine - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 876
+☋ Forks: 877
 
-★ Stars: 3280
+★ Stars: 3282
 
 [Open repository](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3282 | 877 | 
 | 2022-10-27 | 3280 | 876 | 
 | 2022-10-26 | 3280 | 877 | 
 | 2022-10-25 | 3277 | 877 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3250 | 877 | 
 | 2022-09-30 | 3250 | 878 | 
 | 2022-09-29 | 3250 | 879 | 
-| 2022-09-28 | 3249 | 879 | 
 

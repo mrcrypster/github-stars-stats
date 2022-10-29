@@ -1,6 +1,6 @@
 # atsign-foundation/atmosphere_pro - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 38 | 42 | 
 | 2022-10-27 | 38 | 42 | 
 | 2022-10-26 | 38 | 42 | 
 | 2022-10-25 | 38 | 42 | 

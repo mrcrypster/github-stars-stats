@@ -1,10 +1,10 @@
 # FloatTech/ZeroBot-Plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 807
+☋ Forks: 808
 
-★ Stars: 1292
+★ Stars: 1294
 
 [Open repository](https://github.com/FloatTech/ZeroBot-Plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1294 | 808 | 
 | 2022-10-27 | 1292 | 807 | 
 | 2022-10-26 | 1292 | 803 | 
 | 2022-10-25 | 1290 | 802 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1180 | 754 | 
 | 2022-09-30 | 1179 | 753 | 
 | 2022-09-29 | 1174 | 751 | 
-| 2022-09-28 | 1171 | 750 | 
 

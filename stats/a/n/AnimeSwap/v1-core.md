@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/AnimeSwap/v1-core)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 12 | 6 | 
+| 2022-10-28 | 14 | 6 | 
 | 2022-10-27 | 12 | 6 | 
 

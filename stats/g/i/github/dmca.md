@@ -1,10 +1,10 @@
 # github/dmca - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1276
 
-★ Stars: 4953
+★ Stars: 4954
 
 [Open repository](https://github.com/github/dmca)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4954 | 1276 | 
 | 2022-10-27 | 4953 | 1276 | 
 | 2022-10-26 | 4954 | 1276 | 
 | 2022-10-25 | 4953 | 1276 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4945 | 1276 | 
 | 2022-09-30 | 4944 | 1276 | 
 | 2022-09-29 | 4943 | 1274 | 
-| 2022-09-28 | 4939 | 1274 | 
 

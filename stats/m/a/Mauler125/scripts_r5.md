@@ -1,6 +1,6 @@
 # Mauler125/scripts_r5 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 136 | 98 | 
 | 2022-10-27 | 136 | 98 | 
 | 2022-10-26 | 136 | 98 | 
 | 2022-10-25 | 136 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 134 | 94 | 
 | 2022-09-30 | 134 | 93 | 
 | 2022-09-29 | 134 | 93 | 
-| 2022-09-28 | 134 | 93 | 
 

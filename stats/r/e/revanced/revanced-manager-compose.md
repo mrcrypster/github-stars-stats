@@ -1,10 +1,10 @@
 # revanced/revanced-manager-compose - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 10
 
-★ Stars: 42
+★ Stars: 45
 
 [Open repository](https://github.com/revanced/revanced-manager-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 45 | 10 | 
 | 2022-10-27 | 42 | 10 | 
 | 2022-10-26 | 41 | 10 | 
 | 2022-10-25 | 40 | 10 | 

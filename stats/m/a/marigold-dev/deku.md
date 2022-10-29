@@ -1,8 +1,8 @@
 # marigold-dev/deku - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 15
+☋ Forks: 17
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 79 | 17 | 
 | 2022-10-27 | 79 | 15 | 
 | 2022-10-26 | 79 | 15 | 
 | 2022-10-25 | 79 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 76 | 15 | 
 | 2022-09-30 | 76 | 15 | 
 | 2022-09-29 | 76 | 15 | 
-| 2022-09-28 | 76 | 15 | 
 

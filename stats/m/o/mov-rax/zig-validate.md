@@ -1,10 +1,10 @@
 # mov-rax/zig-validate - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 33
 
 [Open repository](https://github.com/mov-rax/zig-validate)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 33 | - | 
 | 2022-10-27 | 31 | - | 
 | 2022-10-26 | 31 | - | 
 | 2022-10-25 | 31 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 25 | - | 
 | 2022-09-30 | 24 | - | 
 | 2022-09-29 | 24 | - | 
-| 2022-09-28 | 24 | - | 
 

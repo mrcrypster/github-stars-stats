@@ -1,10 +1,10 @@
 # RedPRL/agda-mugen - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/RedPRL/agda-mugen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 12 | 1 | 
 | 2022-10-28 | 10 | 1 | 
 | 2022-10-27 | 10 | 1 | 
 | 2022-10-26 | 10 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 8 | - | 
 | 2022-09-30 | 8 | - | 
 | 2022-09-29 | 8 | - | 
-| 2022-09-28 | 8 | - | 
 

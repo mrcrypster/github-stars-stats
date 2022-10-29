@@ -1,6 +1,6 @@
 # perlatex/R_for_Data_Science - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 185 | 125 | 
 | 2022-10-27 | 185 | 125 | 
 | 2022-10-26 | 185 | 125 | 
 | 2022-10-25 | 185 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 180 | 118 | 
 | 2022-09-30 | 180 | 117 | 
 | 2022-09-29 | 181 | 117 | 
-| 2022-09-28 | 181 | 117 | 
 

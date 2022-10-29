@@ -1,6 +1,6 @@
 # google/GoogleUtilities - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 59 | 34 | 
 | 2022-10-27 | 59 | 34 | 
 | 2022-10-26 | 59 | 34 | 
 | 2022-10-25 | 59 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 54 | 34 | 
 | 2022-09-30 | 54 | 34 | 
 | 2022-09-29 | 54 | 34 | 
-| 2022-09-28 | 53 | 34 | 
 

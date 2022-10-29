@@ -1,10 +1,10 @@
 # devsisters/shardcake - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 13
 
-★ Stars: 250
+★ Stars: 252
 
 [Open repository](https://github.com/devsisters/shardcake)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 252 | 13 | 
 | 2022-10-27 | 250 | 13 | 
 | 2022-10-26 | 249 | 13 | 
 | 2022-10-25 | 249 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 228 | 11 | 
 | 2022-09-30 | 227 | 11 | 
 | 2022-09-29 | 227 | 11 | 
-| 2022-09-28 | 227 | 11 | 
 

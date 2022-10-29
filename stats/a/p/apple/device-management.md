@@ -1,6 +1,6 @@
 # apple/device-management - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 232 | 16 | 
 | 2022-10-28 | 232 | 16 | 
 | 2022-10-27 | 231 | 16 | 
 | 2022-10-26 | 230 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 211 | 16 | 
 | 2022-09-30 | 211 | 16 | 
 | 2022-09-29 | 210 | 16 | 
-| 2022-09-28 | 210 | 16 | 
 

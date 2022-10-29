@@ -1,10 +1,10 @@
 # ggreer/the_silver_searcher - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1358
 
-★ Stars: 24243
+★ Stars: 24246
 
 [Open repository](https://github.com/ggreer/the_silver_searcher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 24246 | 1358 | 
 | 2022-10-27 | 24243 | 1358 | 
 | 2022-10-26 | 24240 | 1358 | 
 | 2022-10-25 | 24232 | 1358 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 24162 | 1356 | 
 | 2022-09-30 | 24156 | 1355 | 
 | 2022-09-29 | 24153 | 1355 | 
-| 2022-09-28 | 24151 | 1355 | 
 

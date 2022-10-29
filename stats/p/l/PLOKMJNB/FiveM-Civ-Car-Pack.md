@@ -1,8 +1,8 @@
 # PLOKMJNB/FiveM-Civ-Car-Pack - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 192
+☋ Forks: 191
 
 ★ Stars: 151
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 151 | 191 | 
 | 2022-10-27 | 151 | 192 | 
 | 2022-10-26 | 151 | 192 | 
 | 2022-10-25 | 151 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 144 | 184 | 
 | 2022-09-30 | 144 | 185 | 
 | 2022-09-29 | 143 | 184 | 
-| 2022-09-28 | 143 | 184 | 
 

@@ -1,8 +1,8 @@
 # MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.ja-JP - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3 | 4 | 
 | 2022-10-27 | 3 | 3 | 
 | 2022-10-26 | 3 | 3 | 
 | 2022-10-25 | 3 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3 | 3 | 
 | 2022-09-30 | 3 | 3 | 
 | 2022-09-29 | 3 | 3 | 
-| 2022-09-28 | 3 | 3 | 
 

@@ -1,10 +1,10 @@
 # antfu/vitesse - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 695
+☋ Forks: 696
 
-★ Stars: 6191
+★ Stars: 6193
 
 [Open repository](https://github.com/antfu/vitesse)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6193 | 696 | 
 | 2022-10-27 | 6191 | 695 | 
 | 2022-10-26 | 6189 | 694 | 
 | 2022-10-25 | 6184 | 694 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 6049 | 680 | 
 | 2022-09-30 | 6044 | 681 | 
 | 2022-09-29 | 6037 | 683 | 
-| 2022-09-28 | 6030 | 675 | 
 

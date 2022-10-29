@@ -1,10 +1,10 @@
 # Alexander-Miller/company-shell - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/Alexander-Miller/company-shell)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 88 | 6 | 
 | 2022-10-27 | 87 | 6 | 
 | 2022-10-26 | 87 | 6 | 
 | 2022-10-25 | 87 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 87 | 6 | 
 | 2022-09-30 | 87 | 6 | 
 | 2022-09-29 | 87 | 6 | 
-| 2022-09-28 | 87 | 6 | 
 

@@ -1,6 +1,6 @@
 # dooboolab/react-native-iap - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 533
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2231 | 533 | 
 | 2022-10-27 | 2231 | 533 | 
 | 2022-10-26 | 2230 | 533 | 
 | 2022-10-25 | 2229 | 532 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2210 | 523 | 
 | 2022-09-30 | 2209 | 523 | 
 | 2022-09-29 | 2209 | 523 | 
-| 2022-09-28 | 2207 | 523 | 
 

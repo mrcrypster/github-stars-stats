@@ -1,10 +1,10 @@
 # emukidid/swiss-gc - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 83
 
-★ Stars: 854
+★ Stars: 856
 
 [Open repository](https://github.com/emukidid/swiss-gc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 856 | 83 | 
 | 2022-10-27 | 854 | 83 | 
 | 2022-10-26 | 853 | 82 | 
 | 2022-10-25 | 852 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 826 | 81 | 
 | 2022-09-30 | 826 | 81 | 
 | 2022-09-29 | 826 | 81 | 
-| 2022-09-28 | 824 | 81 | 
 

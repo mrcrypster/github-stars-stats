@@ -1,10 +1,8 @@
 # 3xp0rt/LockBit-Black-Builder - stars & forks statistics
 
-Stats updated on Sep 2022, 28
+☋ Forks: 
 
-☋ Forks: 234
-
-★ Stars: 358
+★ Stars: 
 
 [Open repository](https://github.com/3xp0rt/LockBit-Black-Builder)
 
@@ -13,5 +11,4 @@ Stats updated on Sep 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-09-28 | 358 | 234 | 
 

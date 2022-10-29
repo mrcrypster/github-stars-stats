@@ -1,6 +1,6 @@
 # bootstrap-vue/bootstrap-vue - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1898
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 14097 | 1898 | 
 | 2022-10-27 | 14097 | 1898 | 
 | 2022-10-26 | 14096 | 1898 | 
 | 2022-10-25 | 14093 | 1898 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 14065 | 1893 | 
 | 2022-09-30 | 14065 | 1893 | 
 | 2022-09-29 | 14064 | 1892 | 
-| 2022-09-28 | 14063 | 1892 | 
 

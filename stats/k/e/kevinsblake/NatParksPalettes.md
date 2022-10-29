@@ -1,6 +1,6 @@
 # kevinsblake/NatParksPalettes - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 181 | 1 | 
 | 2022-10-27 | 181 | 1 | 
 | 2022-10-26 | 180 | 1 | 
 | 2022-10-25 | 179 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 170 | 1 | 
 | 2022-09-30 | 170 | 1 | 
 | 2022-09-29 | 170 | 1 | 
-| 2022-09-28 | 170 | 1 | 
 

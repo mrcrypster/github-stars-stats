@@ -1,6 +1,6 @@
 # nat-henderson/terraform-provider-dominos - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 999 | 66 | 
 | 2022-10-27 | 999 | 66 | 
 | 2022-10-26 | 998 | 66 | 
 | 2022-10-25 | 996 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 988 | 68 | 
 | 2022-09-30 | 988 | 68 | 
 | 2022-09-29 | 988 | 68 | 
-| 2022-09-28 | 988 | 68 | 
 

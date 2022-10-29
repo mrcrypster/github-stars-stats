@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 17
 
 [Open repository](https://github.com/Himujjal/zig-json5)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 14 | - | 
+| 2022-10-28 | 17 | - | 
 | 2022-10-27 | 14 | - | 
 | 2022-10-26 | 13 | - | 
 

@@ -1,10 +1,10 @@
 # sourabh-joshi/awesome-quincy-larson-emails - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 119
 
-★ Stars: 905
+★ Stars: 904
 
 [Open repository](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 904 | 119 | 
 | 2022-10-28 | 905 | 119 | 
 | 2022-10-27 | 905 | 119 | 
 | 2022-10-26 | 905 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 904 | 117 | 
 | 2022-09-30 | 904 | 117 | 
 | 2022-09-29 | 904 | 117 | 
-| 2022-09-28 | 904 | 117 | 
 

@@ -1,6 +1,6 @@
 # popey/unsnap - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 658 | 34 | 
 | 2022-10-27 | 658 | 34 | 
 | 2022-10-26 | 657 | 34 | 
 | 2022-10-25 | 656 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 651 | 33 | 
 | 2022-10-01 | 650 | 33 | 
 | 2022-09-30 | 649 | 33 | 
-| 2022-09-29 | 649 | 33 | 
 

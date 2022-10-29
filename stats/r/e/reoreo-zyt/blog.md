@@ -1,6 +1,6 @@
 # reoreo-zyt/blog - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 32 | - | 
 | 2022-10-27 | 32 | - | 
 | 2022-10-26 | 32 | - | 
 | 2022-10-25 | 32 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 32 | - | 
 | 2022-10-01 | 32 | - | 
 | 2022-09-30 | 32 | - | 
-| 2022-09-29 | 32 | - | 
 

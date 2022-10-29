@@ -1,6 +1,6 @@
 # evoko/zendesk-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 23 | 52 | 
 | 2022-10-27 | 23 | 52 | 
 | 2022-10-26 | 23 | 52 | 
 | 2022-10-25 | 23 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 23 | 51 | 
 | 2022-10-01 | 23 | 51 | 
 | 2022-09-30 | 23 | 51 | 
-| 2022-09-29 | 23 | 51 | 
 

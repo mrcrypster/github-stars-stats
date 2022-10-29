@@ -1,10 +1,10 @@
 # gpuweb/gpuweb - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 242
 
-★ Stars: 3272
+★ Stars: 3274
 
 [Open repository](https://github.com/gpuweb/gpuweb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3274 | 242 | 
 | 2022-10-27 | 3272 | 242 | 
 | 2022-10-26 | 3270 | 242 | 
 | 2022-10-25 | 3271 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3231 | 243 | 
 | 2022-09-30 | 3229 | 243 | 
 | 2022-09-29 | 3226 | 241 | 
-| 2022-09-28 | 3224 | 241 | 
 

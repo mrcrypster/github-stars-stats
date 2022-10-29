@@ -1,10 +1,10 @@
 # inoutcode/ethereum_book - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 742
 
-★ Stars: 2616
+★ Stars: 2623
 
 [Open repository](https://github.com/inoutcode/ethereum_book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2623 | 742 | 
 | 2022-10-27 | 2616 | 742 | 
 | 2022-10-26 | 2610 | 740 | 
 | 2022-10-25 | 2606 | 739 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2482 | 720 | 
 | 2022-09-30 | 2477 | 719 | 
 | 2022-09-29 | 2474 | 719 | 
-| 2022-09-28 | 2467 | 717 | 
 

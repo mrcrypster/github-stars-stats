@@ -1,10 +1,10 @@
 # Azure/azure-rest-api-specs - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 4021
+☋ Forks: 4020
 
-★ Stars: 1850
+★ Stars: 1863
 
 [Open repository](https://github.com/Azure/azure-rest-api-specs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1863 | 4020 | 
 | 2022-10-27 | 1850 | 4021 | 
 | 2022-10-26 | 1833 | 4016 | 
 | 2022-10-25 | 1821 | 4010 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1802 | 3953 | 
 | 2022-09-30 | 1801 | 3954 | 
 | 2022-09-29 | 1801 | 3950 | 
-| 2022-09-28 | 1801 | 3943 | 
 

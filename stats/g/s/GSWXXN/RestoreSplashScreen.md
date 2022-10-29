@@ -1,10 +1,10 @@
 # GSWXXN/RestoreSplashScreen - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 7
 
-★ Stars: 80
+★ Stars: 81
 
 [Open repository](https://github.com/GSWXXN/RestoreSplashScreen)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 81 | 7 | 
 | 2022-10-27 | 80 | 7 | 
 | 2022-10-26 | 80 | 7 | 
 | 2022-10-25 | 80 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 74 | 7 | 
 | 2022-09-30 | 74 | 7 | 
 | 2022-09-29 | 74 | 7 | 
-| 2022-09-28 | 74 | 7 | 
 

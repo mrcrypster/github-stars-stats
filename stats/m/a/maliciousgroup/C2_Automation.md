@@ -1,10 +1,10 @@
 # maliciousgroup/C2_Automation - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 7
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/maliciousgroup/C2_Automation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 28 | 7 | 
 | 2022-10-27 | 27 | 7 | 
 | 2022-10-26 | 27 | 7 | 
 | 2022-10-25 | 27 | 7 | 

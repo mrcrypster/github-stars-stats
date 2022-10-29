@@ -1,10 +1,10 @@
 # johnthebrit/AzureMasterClass - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 266
 
-★ Stars: 636
+★ Stars: 637
 
 [Open repository](https://github.com/johnthebrit/AzureMasterClass)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 637 | 266 | 
 | 2022-10-27 | 636 | 266 | 
 | 2022-10-26 | 636 | 266 | 
 | 2022-10-25 | 636 | 266 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 633 | 259 | 
 | 2022-10-01 | 633 | 259 | 
 | 2022-09-30 | 633 | 258 | 
-| 2022-09-29 | 632 | 258 | 
 

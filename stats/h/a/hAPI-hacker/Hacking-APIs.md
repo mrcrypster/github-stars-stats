@@ -1,10 +1,10 @@
 # hAPI-hacker/Hacking-APIs - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 40
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/hAPI-hacker/Hacking-APIs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 143 | 40 | 
 | 2022-10-27 | 142 | 40 | 
 | 2022-10-26 | 141 | 40 | 
 | 2022-10-25 | 141 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 131 | 38 | 
 | 2022-09-30 | 131 | 38 | 
 | 2022-09-29 | 131 | 38 | 
-| 2022-09-28 | 131 | 38 | 
 

@@ -1,10 +1,10 @@
 # sta/websocket-sharp - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1508
 
-★ Stars: 4827
+★ Stars: 4825
 
 [Open repository](https://github.com/sta/websocket-sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4825 | 1508 | 
 | 2022-10-27 | 4827 | 1508 | 
 | 2022-10-26 | 4827 | 1508 | 
 | 2022-10-25 | 4825 | 1507 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4798 | 1497 | 
 | 2022-09-30 | 4797 | 1497 | 
 | 2022-09-29 | 4795 | 1497 | 
-| 2022-09-28 | 4795 | 1497 | 
 

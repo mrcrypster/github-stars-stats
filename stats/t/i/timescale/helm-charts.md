@@ -1,10 +1,10 @@
 # timescale/helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 182
 
-★ Stars: 226
+★ Stars: 227
 
 [Open repository](https://github.com/timescale/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 227 | 182 | 
 | 2022-10-27 | 226 | 182 | 
 | 2022-10-26 | 226 | 182 | 
 | 2022-10-25 | 226 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 222 | 176 | 
 | 2022-09-30 | 222 | 176 | 
 | 2022-09-29 | 221 | 176 | 
-| 2022-09-28 | 221 | 176 | 
 

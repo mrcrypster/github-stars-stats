@@ -1,10 +1,10 @@
 # DV8FromTheWorld/JDA - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 665
 
-★ Stars: 3346
+★ Stars: 3350
 
 [Open repository](https://github.com/DV8FromTheWorld/JDA)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3350 | 665 | 
 | 2022-10-27 | 3346 | 665 | 
 | 2022-10-26 | 3344 | 666 | 
 | 2022-10-25 | 3342 | 666 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3289 | 665 | 
 | 2022-09-30 | 3290 | 664 | 
 | 2022-09-29 | 3290 | 663 | 
-| 2022-09-28 | 3289 | 663 | 
 

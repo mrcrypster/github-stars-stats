@@ -1,6 +1,6 @@
 # SolanaNFTHolder/MagicEden-minting-bot - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 128 | 77 | 
 | 2022-10-27 | 128 | 77 | 
 | 2022-10-26 | 128 | 77 | 
 | 2022-10-25 | 128 | 77 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 123 | 73 | 
 | 2022-10-01 | 123 | 73 | 
 | 2022-09-30 | 123 | 73 | 
-| 2022-09-29 | 122 | 73 | 
 

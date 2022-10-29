@@ -1,6 +1,6 @@
 # doctrine/lexer - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 10747 | 52 | 
 | 2022-10-27 | 10747 | 52 | 
 | 2022-10-26 | 10746 | 52 | 
 | 2022-10-25 | 10745 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 10733 | 52 | 
 | 2022-09-30 | 10733 | 52 | 
 | 2022-09-29 | 10734 | 52 | 
-| 2022-09-28 | 10735 | 52 | 
 

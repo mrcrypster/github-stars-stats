@@ -1,10 +1,10 @@
 # techiescamp/python-for-devops - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 85
+☋ Forks: 87
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/techiescamp/python-for-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 209 | 87 | 
 | 2022-10-27 | 208 | 85 | 
 | 2022-10-26 | 207 | 85 | 
 | 2022-10-25 | 207 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 200 | 71 | 
 | 2022-09-30 | 199 | 71 | 
 | 2022-09-29 | 198 | 70 | 
-| 2022-09-28 | 197 | 69 | 
 

@@ -1,6 +1,6 @@
 # gnea/grbl - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1434
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3416 | 1434 | 
 | 2022-10-27 | 3416 | 1434 | 
 | 2022-10-26 | 3416 | 1434 | 
 | 2022-10-25 | 3414 | 1433 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3396 | 1423 | 
 | 2022-09-30 | 3395 | 1423 | 
 | 2022-09-29 | 3395 | 1423 | 
-| 2022-09-28 | 3393 | 1423 | 
 

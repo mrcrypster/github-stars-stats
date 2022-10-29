@@ -1,6 +1,6 @@
 # jozhn/ddmc.monitor - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 82 | 29 | 
 | 2022-10-28 | 82 | 29 | 
 | 2022-10-27 | 82 | 29 | 
 | 2022-10-25 | 82 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 82 | 30 | 
 | 2022-09-30 | 82 | 30 | 
 | 2022-09-29 | 82 | 30 | 
-| 2022-09-28 | 82 | 30 | 
 

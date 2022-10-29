@@ -1,6 +1,6 @@
 # nozaq/terraform-aws-secure-baseline - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 313
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 930 | 313 | 
 | 2022-10-27 | 930 | 313 | 
 | 2022-10-26 | 930 | 313 | 
 | 2022-10-25 | 930 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 924 | 311 | 
 | 2022-09-30 | 924 | 311 | 
 | 2022-09-29 | 923 | 311 | 
-| 2022-09-28 | 923 | 310 | 
 

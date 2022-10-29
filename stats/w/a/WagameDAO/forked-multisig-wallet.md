@@ -1,6 +1,6 @@
 # WagameDAO/forked-multisig-wallet - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 15 | 28 | 
 | 2022-10-27 | 15 | 28 | 
 | 2022-10-26 | 15 | 28 | 
 | 2022-10-25 | 15 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 14 | 28 | 
 | 2022-09-30 | 14 | 29 | 
 | 2022-09-29 | 14 | 29 | 
-| 2022-09-28 | 14 | 29 | 
 

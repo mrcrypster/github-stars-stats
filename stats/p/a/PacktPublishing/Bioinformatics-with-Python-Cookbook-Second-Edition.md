@@ -1,8 +1,8 @@
 # PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 183
+☋ Forks: 184
 
 ★ Stars: 258
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 258 | 184 | 
 | 2022-10-27 | 258 | 183 | 
 | 2022-10-26 | 258 | 182 | 
 | 2022-10-25 | 257 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 254 | 181 | 
 | 2022-09-30 | 254 | 181 | 
 | 2022-09-29 | 254 | 180 | 
-| 2022-09-28 | 253 | 180 | 
 

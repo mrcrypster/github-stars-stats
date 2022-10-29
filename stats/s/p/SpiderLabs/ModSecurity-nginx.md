@@ -1,6 +1,6 @@
 # SpiderLabs/ModSecurity-nginx - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 238
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1148 | 238 | 
 | 2022-10-27 | 1148 | 238 | 
 | 2022-10-26 | 1147 | 238 | 
 | 2022-10-25 | 1147 | 238 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1125 | 233 | 
 | 2022-09-30 | 1125 | 233 | 
 | 2022-09-29 | 1124 | 233 | 
-| 2022-09-28 | 1122 | 233 | 
 

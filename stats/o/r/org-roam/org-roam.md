@@ -1,6 +1,6 @@
 # org-roam/org-roam - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 417
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4669 | 417 | 
 | 2022-10-27 | 4669 | 417 | 
 | 2022-10-26 | 4668 | 417 | 
 | 2022-10-25 | 4668 | 417 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4633 | 417 | 
 | 2022-09-30 | 4630 | 417 | 
 | 2022-09-29 | 4628 | 417 | 
-| 2022-09-28 | 4626 | 417 | 
 

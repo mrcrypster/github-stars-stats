@@ -1,10 +1,10 @@
 # godotengine/tps-demo - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 661
+★ Stars: 664
 
 [Open repository](https://github.com/godotengine/tps-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 664 | 128 | 
 | 2022-10-27 | 661 | 127 | 
 | 2022-10-26 | 661 | 127 | 
 | 2022-10-25 | 659 | 126 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 653 | 126 | 
 | 2022-09-30 | 650 | 126 | 
 | 2022-09-29 | 649 | 126 | 
-| 2022-09-28 | 649 | 126 | 
 

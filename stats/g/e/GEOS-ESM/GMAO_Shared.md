@@ -1,6 +1,6 @@
 # GEOS-ESM/GMAO_Shared - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3 | 8 | 
 | 2022-10-27 | 3 | 8 | 
 | 2022-10-26 | 3 | 8 | 
 | 2022-10-25 | 3 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2 | 8 | 
 | 2022-09-30 | 2 | 8 | 
 | 2022-09-29 | 2 | 8 | 
-| 2022-09-28 | 2 | 8 | 
 

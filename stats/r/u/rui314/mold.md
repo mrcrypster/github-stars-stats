@@ -1,10 +1,10 @@
 # rui314/mold - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 312
 
-★ Stars: 9035
+★ Stars: 9046
 
 [Open repository](https://github.com/rui314/mold)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 9046 | 312 | 
 | 2022-10-27 | 9035 | 312 | 
 | 2022-10-26 | 9030 | 310 | 
 | 2022-10-25 | 9021 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 8849 | 299 | 
 | 2022-09-30 | 8839 | 298 | 
 | 2022-09-29 | 8827 | 296 | 
-| 2022-09-28 | 8823 | 296 | 
 

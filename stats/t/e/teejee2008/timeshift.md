@@ -1,6 +1,6 @@
 # teejee2008/timeshift - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 278
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4444 | 278 | 
 | 2022-10-27 | 4444 | 278 | 
 | 2022-10-26 | 4443 | 278 | 
 | 2022-10-25 | 4444 | 278 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4422 | 277 | 
 | 2022-09-30 | 4423 | 277 | 
 | 2022-09-29 | 4423 | 278 | 
-| 2022-09-28 | 4424 | 278 | 
 

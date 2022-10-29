@@ -1,6 +1,6 @@
 # thomasp85/gganimate - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 312
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1827 | 312 | 
 | 2022-10-27 | 1827 | 312 | 
 | 2022-10-26 | 1826 | 312 | 
 | 2022-10-25 | 1825 | 312 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1817 | 312 | 
 | 2022-09-30 | 1817 | 312 | 
 | 2022-09-29 | 1816 | 312 | 
-| 2022-09-28 | 1816 | 312 | 
 

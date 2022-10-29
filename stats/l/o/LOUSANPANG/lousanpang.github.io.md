@@ -1,10 +1,10 @@
 # LOUSANPANG/lousanpang.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 7
 
-★ Stars: 450
+★ Stars: 452
 
 [Open repository](https://github.com/LOUSANPANG/lousanpang.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 452 | 7 | 
 | 2022-10-27 | 450 | 7 | 
 | 2022-10-26 | 449 | 7 | 
 | 2022-10-25 | 447 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 439 | 7 | 
 | 2022-09-30 | 439 | 7 | 
 | 2022-09-29 | 439 | 7 | 
-| 2022-09-28 | 438 | 7 | 
 

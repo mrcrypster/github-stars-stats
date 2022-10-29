@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 92
+★ Stars: 96
 
 [Open repository](https://github.com/hanoglu/TermiC)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 92 | 2 | 
+| 2022-10-28 | 96 | 2 | 
 | 2022-10-27 | 91 | 2 | 
 

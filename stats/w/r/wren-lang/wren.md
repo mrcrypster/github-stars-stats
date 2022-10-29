@@ -1,6 +1,6 @@
 # wren-lang/wren - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 486
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6038 | 486 | 
 | 2022-10-27 | 6038 | 486 | 
 | 2022-10-26 | 6039 | 486 | 
 | 2022-10-25 | 6038 | 486 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 6001 | 484 | 
 | 2022-09-30 | 6000 | 484 | 
 | 2022-09-29 | 5997 | 483 | 
-| 2022-09-28 | 5994 | 482 | 
 

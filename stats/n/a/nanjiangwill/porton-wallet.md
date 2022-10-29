@@ -1,10 +1,10 @@
 # nanjiangwill/porton-wallet - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 0
+☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 15
 
 [Open repository](https://github.com/nanjiangwill/porton-wallet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 15 | 2 | 
 | 2022-10-27 | 13 | - | 
 | 2022-10-26 | 12 | - | 
 | 2022-10-25 | 12 | - | 

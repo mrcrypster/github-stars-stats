@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 99
 
-★ Stars: 1715
+★ Stars: 1718
 
 [Open repository](https://github.com/agoraxyz/guild.xyz)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 1715 | 99 | 
+| 2022-10-28 | 1718 | 99 | 
 | 2022-10-27 | 1715 | 99 | 
 | 2022-10-26 | 1696 | 95 | 
 | 2022-10-25 | 1693 | 93 | 
@@ -42,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 1659 | 85 | 
 | 2022-09-30 | 1659 | 85 | 
 | 2022-09-29 | 1658 | 85 | 
-| 2022-09-28 | 1658 | 85 | 
 

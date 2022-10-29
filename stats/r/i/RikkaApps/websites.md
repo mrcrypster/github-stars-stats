@@ -1,6 +1,6 @@
 # RikkaApps/websites - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 447
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 61 | 447 | 
 | 2022-10-27 | 61 | 447 | 
 | 2022-10-26 | 61 | 447 | 
 | 2022-10-25 | 61 | 447 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 61 | 439 | 
 | 2022-09-30 | 61 | 438 | 
 | 2022-09-29 | 61 | 437 | 
-| 2022-09-28 | 61 | 437 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 6
 
-★ Stars: 50
+★ Stars: 55
 
 [Open repository](https://github.com/yfszzx/stable-diffusion-webui-images-browser)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 50 | 6 | 
+| 2022-10-28 | 55 | 6 | 
 | 2022-10-27 | 48 | 6 | 
 

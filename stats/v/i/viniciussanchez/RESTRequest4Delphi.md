@@ -1,10 +1,10 @@
 # viniciussanchez/RESTRequest4Delphi - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 100
 
-★ Stars: 344
+★ Stars: 345
 
 [Open repository](https://github.com/viniciussanchez/RESTRequest4Delphi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 345 | 100 | 
 | 2022-10-27 | 344 | 100 | 
 | 2022-10-26 | 344 | 100 | 
 | 2022-10-25 | 344 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 336 | 98 | 
 | 2022-09-30 | 336 | 98 | 
 | 2022-09-29 | 336 | 98 | 
-| 2022-09-28 | 335 | 98 | 
 

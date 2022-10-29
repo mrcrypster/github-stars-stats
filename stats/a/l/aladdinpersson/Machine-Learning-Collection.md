@@ -1,10 +1,10 @@
 # aladdinpersson/Machine-Learning-Collection - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1932
+☋ Forks: 1934
 
-★ Stars: 4349
+★ Stars: 4350
 
 [Open repository](https://github.com/aladdinpersson/Machine-Learning-Collection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4350 | 1934 | 
 | 2022-10-27 | 4349 | 1932 | 
 | 2022-10-26 | 4340 | 1931 | 
 | 2022-10-25 | 4334 | 1927 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4230 | 1885 | 
 | 2022-09-30 | 4222 | 1883 | 
 | 2022-09-29 | 4218 | 1883 | 
-| 2022-09-28 | 4212 | 1879 | 
 

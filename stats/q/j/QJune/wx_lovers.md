@@ -1,10 +1,10 @@
 # QJune/wx_lovers - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 17
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/QJune/wx_lovers)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 55 | 17 | 
 | 2022-10-27 | 54 | 17 | 
 | 2022-10-26 | 54 | 17 | 
 | 2022-10-25 | 54 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 52 | 17 | 
 | 2022-09-30 | 52 | 17 | 
 | 2022-09-29 | 52 | 17 | 
-| 2022-09-28 | 52 | 17 | 
 

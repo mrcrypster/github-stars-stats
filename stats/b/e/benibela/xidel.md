@@ -1,6 +1,6 @@
 # benibela/xidel - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 513 | 35 | 
 | 2022-10-27 | 513 | 35 | 
 | 2022-10-26 | 513 | 35 | 
 | 2022-10-25 | 513 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 503 | 34 | 
 | 2022-09-30 | 503 | 34 | 
 | 2022-09-29 | 503 | 34 | 
-| 2022-09-28 | 503 | 34 | 
 

@@ -1,6 +1,6 @@
 # mszell/geospatialdatascience - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 227 | 38 | 
 | 2022-10-28 | 227 | 38 | 
 | 2022-10-27 | 227 | 38 | 
 | 2022-10-26 | 227 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 224 | 36 | 
 | 2022-09-30 | 224 | 36 | 
 | 2022-09-29 | 224 | 36 | 
-| 2022-09-28 | 224 | 36 | 
 

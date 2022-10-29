@@ -1,10 +1,10 @@
 # pbatard/rufus - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2110
 
-★ Stars: 20499
+★ Stars: 20508
 
 [Open repository](https://github.com/pbatard/rufus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 20508 | 2110 | 
 | 2022-10-27 | 20499 | 2110 | 
 | 2022-10-26 | 20489 | 2108 | 
 | 2022-10-25 | 20482 | 2106 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 20236 | 2077 | 
 | 2022-09-30 | 20230 | 2076 | 
 | 2022-09-29 | 20223 | 2075 | 
-| 2022-09-28 | 20217 | 2074 | 
 

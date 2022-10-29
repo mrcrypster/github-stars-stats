@@ -1,10 +1,10 @@
 # narze/awesome-cheab-quotes - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 72
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/narze/awesome-cheab-quotes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 12 | 72 | 
 | 2022-10-27 | 11 | 72 | 
 | 2022-10-26 | 11 | 70 | 
 | 2022-10-25 | 10 | 68 | 

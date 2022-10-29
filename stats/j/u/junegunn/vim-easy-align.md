@@ -1,10 +1,10 @@
 # junegunn/vim-easy-align - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 110
 
-★ Stars: 3772
+★ Stars: 3771
 
 [Open repository](https://github.com/junegunn/vim-easy-align)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3771 | 110 | 
 | 2022-10-27 | 3772 | 110 | 
 | 2022-10-26 | 3772 | 110 | 
 | 2022-10-25 | 3773 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3744 | 109 | 
 | 2022-09-30 | 3742 | 109 | 
 | 2022-09-29 | 3742 | 109 | 
-| 2022-09-28 | 3741 | 109 | 
 

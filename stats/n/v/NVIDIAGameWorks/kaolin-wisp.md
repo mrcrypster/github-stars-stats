@@ -1,10 +1,10 @@
 # NVIDIAGameWorks/kaolin-wisp - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 74
 
-★ Stars: 976
+★ Stars: 977
 
 [Open repository](https://github.com/NVIDIAGameWorks/kaolin-wisp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 977 | 74 | 
 | 2022-10-28 | 976 | 74 | 
 | 2022-10-27 | 972 | 74 | 
 | 2022-10-26 | 972 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 943 | 70 | 
 | 2022-09-30 | 942 | 70 | 
 | 2022-09-29 | 940 | 70 | 
-| 2022-09-28 | 939 | 70 | 
 

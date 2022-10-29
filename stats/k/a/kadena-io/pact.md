@@ -1,8 +1,8 @@
 # kadena-io/pact - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 527
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 527 | 89 | 
 | 2022-10-27 | 527 | 88 | 
 | 2022-10-26 | 527 | 88 | 
 | 2022-10-25 | 527 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 527 | 87 | 
 | 2022-09-30 | 527 | 87 | 
 | 2022-09-29 | 527 | 87 | 
-| 2022-09-28 | 527 | 87 | 
 

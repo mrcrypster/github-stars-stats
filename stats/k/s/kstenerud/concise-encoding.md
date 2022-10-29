@@ -1,10 +1,10 @@
 # kstenerud/concise-encoding - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 5
 
-★ Stars: 231
+★ Stars: 232
 
 [Open repository](https://github.com/kstenerud/concise-encoding)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 232 | 5 | 
 | 2022-10-28 | 231 | 5 | 
 | 2022-10-27 | 231 | 5 | 
 | 2022-10-25 | 231 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 231 | 5 | 
 | 2022-09-30 | 231 | 5 | 
 | 2022-09-29 | 231 | 5 | 
-| 2022-09-28 | 231 | 5 | 
 

@@ -1,6 +1,6 @@
 # Remix-Design/RemixIcon - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 356
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4871 | 356 | 
 | 2022-10-27 | 4871 | 356 | 
 | 2022-10-26 | 4870 | 356 | 
 | 2022-10-25 | 4870 | 356 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4805 | 350 | 
 | 2022-09-30 | 4803 | 350 | 
 | 2022-09-29 | 4791 | 348 | 
-| 2022-09-28 | 4791 | 348 | 
 

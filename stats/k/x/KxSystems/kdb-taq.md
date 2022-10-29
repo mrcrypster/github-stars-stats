@@ -1,8 +1,8 @@
 # KxSystems/kdb-taq - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 54
+☋ Forks: 53
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 13 | 53 | 
 | 2022-10-27 | 13 | 54 | 
 | 2022-10-26 | 13 | 54 | 
 | 2022-10-25 | 13 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 13 | 51 | 
 | 2022-09-30 | 13 | 51 | 
 | 2022-09-29 | 13 | 50 | 
-| 2022-09-28 | 13 | 50 | 
 

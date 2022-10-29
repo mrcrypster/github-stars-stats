@@ -1,8 +1,8 @@
 # kaushalmodi/ox-hugo - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 122
+☋ Forks: 123
 
 ★ Stars: 753
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 753 | 123 | 
 | 2022-10-27 | 753 | 122 | 
 | 2022-10-26 | 752 | 122 | 
 | 2022-10-25 | 753 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 747 | 124 | 
 | 2022-09-30 | 746 | 124 | 
 | 2022-09-29 | 746 | 124 | 
-| 2022-09-28 | 745 | 124 | 
 

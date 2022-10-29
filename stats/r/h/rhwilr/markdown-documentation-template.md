@@ -1,10 +1,10 @@
 # rhwilr/markdown-documentation-template - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 185
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/rhwilr/markdown-documentation-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 29 | 185 | 
 | 2022-10-27 | 28 | 185 | 
 | 2022-10-26 | 28 | 185 | 
 | 2022-10-25 | 28 | 185 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 26 | 179 | 
 | 2022-09-30 | 26 | 181 | 
 | 2022-09-29 | 26 | 180 | 
-| 2022-09-28 | 26 | 179 | 
 

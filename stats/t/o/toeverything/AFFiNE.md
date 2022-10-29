@@ -1,10 +1,10 @@
 # toeverything/AFFiNE - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 419
+☋ Forks: 420
 
-★ Stars: 10650
+★ Stars: 10665
 
 [Open repository](https://github.com/toeverything/AFFiNE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 10665 | 420 | 
 | 2022-10-27 | 10650 | 419 | 
 | 2022-10-26 | 10637 | 417 | 
 | 2022-10-25 | 10622 | 415 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 10158 | 393 | 
 | 2022-09-30 | 10135 | 393 | 
 | 2022-09-29 | 10071 | 393 | 
-| 2022-09-28 | 10037 | 390 | 
 

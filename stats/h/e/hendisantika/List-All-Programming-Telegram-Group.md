@@ -1,10 +1,10 @@
 # hendisantika/List-All-Programming-Telegram-Group - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 352
+☋ Forks: 353
 
-★ Stars: 1091
+★ Stars: 1092
 
 [Open repository](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1092 | 353 | 
 | 2022-10-27 | 1091 | 352 | 
 | 2022-10-26 | 1089 | 352 | 
 | 2022-10-25 | 1089 | 352 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1073 | 347 | 
 | 2022-09-30 | 1072 | 346 | 
 | 2022-09-29 | 1072 | 346 | 
-| 2022-09-28 | 1073 | 346 | 
 

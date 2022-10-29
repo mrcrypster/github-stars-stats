@@ -1,10 +1,10 @@
 # google/sympy2jax - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/google/sympy2jax)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 214 | 6 | 
 | 2022-10-27 | 213 | 6 | 
 | 2022-10-26 | 211 | 6 | 
 | 2022-10-25 | 211 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 207 | 6 | 
 | 2022-09-30 | 205 | 6 | 
 | 2022-09-29 | 205 | 6 | 
-| 2022-09-28 | 205 | 6 | 
 

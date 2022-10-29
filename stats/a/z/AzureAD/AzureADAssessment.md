@@ -1,6 +1,6 @@
 # AzureAD/AzureADAssessment - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 376 | 63 | 
 | 2022-10-28 | 376 | 63 | 
 | 2022-10-27 | 375 | 63 | 
 | 2022-10-26 | 374 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 361 | 60 | 
 | 2022-09-30 | 361 | 60 | 
 | 2022-09-29 | 360 | 60 | 
-| 2022-09-28 | 360 | 60 | 
 

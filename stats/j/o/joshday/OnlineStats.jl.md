@@ -1,6 +1,6 @@
 # joshday/OnlineStats.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 724 | 62 | 
 | 2022-10-27 | 724 | 62 | 
 | 2022-10-26 | 724 | 62 | 
 | 2022-10-25 | 724 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 721 | 62 | 
 | 2022-09-30 | 721 | 62 | 
 | 2022-09-29 | 720 | 62 | 
-| 2022-09-28 | 719 | 62 | 
 

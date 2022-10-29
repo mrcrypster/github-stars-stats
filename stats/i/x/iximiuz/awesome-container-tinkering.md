@@ -1,6 +1,6 @@
 # iximiuz/awesome-container-tinkering - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 227 | 12 | 
 | 2022-10-27 | 227 | 12 | 
 | 2022-10-26 | 227 | 12 | 
 | 2022-10-25 | 227 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 120 | 9 | 
 | 2022-09-30 | 115 | 9 | 
 | 2022-09-29 | 102 | 9 | 
-| 2022-09-28 | 101 | 9 | 
 

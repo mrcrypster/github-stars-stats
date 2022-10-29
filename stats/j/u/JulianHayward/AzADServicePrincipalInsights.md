@@ -1,6 +1,6 @@
 # JulianHayward/AzADServicePrincipalInsights - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 99 | 21 | 
 | 2022-10-27 | 99 | 21 | 
 | 2022-10-26 | 99 | 21 | 
 | 2022-10-25 | 99 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 81 | 17 | 
 | 2022-09-30 | 81 | 17 | 
 | 2022-09-29 | 81 | 17 | 
-| 2022-09-28 | 81 | 17 | 
 

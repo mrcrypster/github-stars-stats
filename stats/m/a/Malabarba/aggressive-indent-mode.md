@@ -1,10 +1,10 @@
 # Malabarba/aggressive-indent-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 37
 
-★ Stars: 746
+★ Stars: 747
 
 [Open repository](https://github.com/Malabarba/aggressive-indent-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 747 | 37 | 
 | 2022-10-27 | 746 | 37 | 
 | 2022-10-26 | 745 | 37 | 
 | 2022-10-25 | 745 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 745 | 37 | 
 | 2022-09-30 | 745 | 37 | 
 | 2022-09-29 | 745 | 37 | 
-| 2022-09-28 | 744 | 37 | 
 

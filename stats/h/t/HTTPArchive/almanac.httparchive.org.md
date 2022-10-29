@@ -1,6 +1,6 @@
 # HTTPArchive/almanac.httparchive.org - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 536 | 153 | 
 | 2022-10-27 | 536 | 153 | 
 | 2022-10-26 | 534 | 153 | 
 | 2022-10-25 | 535 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 510 | 144 | 
 | 2022-10-01 | 509 | 144 | 
 | 2022-09-30 | 508 | 144 | 
-| 2022-09-29 | 504 | 143 | 
 

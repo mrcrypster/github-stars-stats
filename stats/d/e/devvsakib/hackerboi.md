@@ -1,10 +1,10 @@
 # devvsakib/hackerboi - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/devvsakib/hackerboi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 10 | 21 | 
 | 2022-10-27 | 9 | 20 | 
 | 2022-10-26 | 9 | 20 | 
 | 2022-10-25 | 9 | 21 | 

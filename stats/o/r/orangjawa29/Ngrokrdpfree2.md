@@ -1,8 +1,8 @@
 # orangjawa29/Ngrokrdpfree2 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
-☋ Forks: 5
+☋ Forks: 8
 
 ★ Stars: 1
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1 | 8 | 
+| 2022-10-28 | 1 | 8 | 
 | 2022-10-27 | 1 | 5 | 
 | 2022-10-26 | 1 | 5 | 
 

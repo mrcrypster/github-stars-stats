@@ -1,6 +1,6 @@
 # bitbeans/SimpleDnsCrypt - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 225
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2059 | 225 | 
 | 2022-10-27 | 2059 | 225 | 
 | 2022-10-26 | 2060 | 225 | 
 | 2022-10-25 | 2060 | 225 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2044 | 223 | 
 | 2022-09-30 | 2044 | 223 | 
 | 2022-09-29 | 2044 | 223 | 
-| 2022-09-28 | 2043 | 223 | 
 

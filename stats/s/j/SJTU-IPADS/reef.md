@@ -1,10 +1,10 @@
 # SJTU-IPADS/reef - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/SJTU-IPADS/reef)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 28 | 2 | 
 | 2022-10-27 | 27 | 2 | 
 | 2022-10-26 | 27 | 2 | 
 | 2022-10-25 | 26 | 2 | 

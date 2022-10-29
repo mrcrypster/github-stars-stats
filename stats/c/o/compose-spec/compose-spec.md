@@ -1,10 +1,10 @@
 # compose-spec/compose-spec - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 643
+☋ Forks: 646
 
-★ Stars: 1465
+★ Stars: 1471
 
 [Open repository](https://github.com/compose-spec/compose-spec)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1471 | 646 | 
 | 2022-10-27 | 1465 | 643 | 
 | 2022-10-26 | 1463 | 643 | 
 | 2022-10-25 | 1461 | 643 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1439 | 625 | 
 | 2022-09-30 | 1438 | 625 | 
 | 2022-09-29 | 1438 | 625 | 
-| 2022-09-28 | 1436 | 625 | 
 

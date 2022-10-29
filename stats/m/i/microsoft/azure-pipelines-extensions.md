@@ -1,6 +1,6 @@
 # microsoft/azure-pipelines-extensions - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 398
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 251 | 398 | 
 | 2022-10-27 | 251 | 398 | 
 | 2022-10-26 | 251 | 398 | 
 | 2022-10-25 | 250 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 250 | 398 | 
 | 2022-09-30 | 250 | 398 | 
 | 2022-09-29 | 250 | 398 | 
-| 2022-09-28 | 250 | 398 | 
 

@@ -1,6 +1,6 @@
 # chidiebubeuchenna/monitraka - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1 | 3 | 
 | 2022-10-27 | 1 | 3 | 
 | 2022-10-26 | 1 | 3 | 
 | 2022-10-25 | 1 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 1 | 3 | 
 | 2022-10-01 | 1 | 3 | 
 | 2022-09-30 | 1 | 3 | 
-| 2022-09-29 | 1 | 3 | 
 

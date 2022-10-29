@@ -1,8 +1,8 @@
 # cantaro86/Financial-Models-Numerical-Methods - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 718
+☋ Forks: 719
 
 ★ Stars: 3954
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3954 | 719 | 
 | 2022-10-27 | 3954 | 718 | 
 | 2022-10-26 | 3953 | 718 | 
 | 2022-10-25 | 3951 | 717 | 

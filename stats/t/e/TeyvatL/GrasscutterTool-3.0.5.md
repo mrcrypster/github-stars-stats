@@ -1,6 +1,6 @@
 # TeyvatL/GrasscutterTool-3.0.5 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 94 | 10 | 
 | 2022-10-27 | 94 | 10 | 
 | 2022-10-26 | 94 | 10 | 
 | 2022-10-25 | 94 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 87 | 9 | 
 | 2022-09-30 | 87 | 9 | 
 | 2022-09-29 | 85 | 9 | 
-| 2022-09-28 | 84 | 9 | 
 

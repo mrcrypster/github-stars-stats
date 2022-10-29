@@ -1,6 +1,6 @@
 # icyguider/Nimcrypt2 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 495 | 86 | 
 | 2022-10-27 | 495 | 86 | 
 | 2022-10-26 | 494 | 86 | 
 | 2022-10-25 | 494 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 486 | 85 | 
 | 2022-09-30 | 486 | 85 | 
 | 2022-09-29 | 484 | 84 | 
-| 2022-09-28 | 483 | 84 | 
 

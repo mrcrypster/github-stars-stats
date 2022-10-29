@@ -1,10 +1,10 @@
 # dgknca/css-skeletons - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/dgknca/css-skeletons)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 44 | 5 | 
 | 2022-10-27 | 43 | 5 | 
 | 2022-10-26 | 43 | 5 | 
 | 2022-10-25 | 43 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 43 | 5 | 
 | 2022-09-30 | 43 | 5 | 
 | 2022-09-29 | 43 | 5 | 
-| 2022-09-28 | 43 | 5 | 
 

@@ -1,10 +1,10 @@
 # libsm64/libsm64 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 17
 
-★ Stars: 370
+★ Stars: 373
 
 [Open repository](https://github.com/libsm64/libsm64)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 373 | 17 | 
 | 2022-10-27 | 370 | 17 | 
 | 2022-10-26 | 370 | 17 | 
 | 2022-10-25 | 369 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 368 | 15 | 
 | 2022-10-01 | 368 | 15 | 
 | 2022-09-30 | 367 | 15 | 
-| 2022-09-29 | 367 | 15 | 
 

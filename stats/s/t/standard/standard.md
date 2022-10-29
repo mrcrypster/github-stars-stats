@@ -1,6 +1,6 @@
 # standard/standard - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2322
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 27591 | 2322 | 
 | 2022-10-27 | 27591 | 2322 | 
 | 2022-10-26 | 27586 | 2322 | 
 | 2022-10-25 | 27583 | 2321 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 27490 | 2309 | 
 | 2022-09-30 | 27487 | 2308 | 
 | 2022-09-29 | 27485 | 2305 | 
-| 2022-09-28 | 27479 | 2303 | 
 

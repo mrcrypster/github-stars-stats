@@ -1,10 +1,10 @@
 # lululxvi/deepxde - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 444
+☋ Forks: 446
 
-★ Stars: 1279
+★ Stars: 1289
 
 [Open repository](https://github.com/lululxvi/deepxde)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1289 | 446 | 
 | 2022-10-27 | 1279 | 444 | 
 | 2022-10-26 | 1278 | 445 | 
 | 2022-10-25 | 1276 | 445 | 

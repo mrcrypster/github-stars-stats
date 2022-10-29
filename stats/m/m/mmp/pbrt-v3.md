@@ -1,8 +1,8 @@
 # mmp/pbrt-v3 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1105
+☋ Forks: 1106
 
 ★ Stars: 4307
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4307 | 1106 | 
 | 2022-10-27 | 4307 | 1105 | 
 | 2022-10-26 | 4306 | 1105 | 
 | 2022-10-25 | 4304 | 1105 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 4271 | 1100 | 
 | 2022-09-30 | 4271 | 1100 | 
 | 2022-09-29 | 4273 | 1100 | 
-| 2022-09-28 | 4274 | 1100 | 
 

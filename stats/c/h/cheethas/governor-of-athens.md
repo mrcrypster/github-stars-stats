@@ -1,6 +1,6 @@
 # cheethas/governor-of-athens - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 88 | 2 | 
 | 2022-10-27 | 88 | 2 | 
 | 2022-10-26 | 88 | 2 | 
 | 2022-10-25 | 88 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 84 | 2 | 
 | 2022-09-30 | 84 | 2 | 
 | 2022-09-29 | 83 | 2 | 
-| 2022-09-28 | 83 | 2 | 
 

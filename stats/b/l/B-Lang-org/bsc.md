@@ -1,10 +1,10 @@
 # B-Lang-org/bsc - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 115
 
-★ Stars: 709
+★ Stars: 712
 
 [Open repository](https://github.com/B-Lang-org/bsc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 712 | 115 | 
 | 2022-10-27 | 709 | 115 | 
 | 2022-10-26 | 709 | 115 | 
 | 2022-10-25 | 708 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 702 | 115 | 
 | 2022-09-30 | 701 | 115 | 
 | 2022-09-29 | 700 | 115 | 
-| 2022-09-28 | 698 | 115 | 
 

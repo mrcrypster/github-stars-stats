@@ -1,6 +1,6 @@
 # microsoft/vscode-codicons - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 130
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 524 | 130 | 
 | 2022-10-27 | 524 | 130 | 
 | 2022-10-26 | 523 | 130 | 
 | 2022-10-25 | 523 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 513 | 122 | 
 | 2022-09-30 | 511 | 121 | 
 | 2022-09-29 | 511 | 121 | 
-| 2022-09-28 | 510 | 121 | 
 

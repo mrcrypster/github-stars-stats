@@ -1,10 +1,10 @@
 # arthurspk/guiadevbrasil - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1134
+☋ Forks: 1138
 
-★ Stars: 8390
+★ Stars: 8395
 
 [Open repository](https://github.com/arthurspk/guiadevbrasil)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 8395 | 1138 | 
 | 2022-10-27 | 8390 | 1134 | 
 | 2022-10-26 | 8383 | 1133 | 
 | 2022-10-25 | 8377 | 1131 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 8093 | 1090 | 
 | 2022-09-30 | 8084 | 1090 | 
 | 2022-09-29 | 8077 | 1089 | 
-| 2022-09-28 | 8074 | 1088 | 
 

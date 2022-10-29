@@ -1,6 +1,6 @@
 # md-siam/package_of_the_day - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 369 | 66 | 
 | 2022-10-27 | 369 | 66 | 
 | 2022-10-26 | 369 | 66 | 
 | 2022-10-25 | 369 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 369 | 65 | 
 | 2022-10-01 | 369 | 65 | 
 | 2022-09-30 | 368 | 65 | 
-| 2022-09-29 | 367 | 65 | 
 

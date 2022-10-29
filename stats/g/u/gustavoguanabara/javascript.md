@@ -1,10 +1,10 @@
 # gustavoguanabara/javascript - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 403
+☋ Forks: 401
 
-★ Stars: 2198
+★ Stars: 2199
 
 [Open repository](https://github.com/gustavoguanabara/javascript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2199 | 401 | 
 | 2022-10-27 | 2198 | 403 | 
 | 2022-10-26 | 2195 | 403 | 
 | 2022-10-25 | 2196 | 402 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2132 | 395 | 
 | 2022-09-30 | 2129 | 395 | 
 | 2022-09-29 | 2129 | 397 | 
-| 2022-09-28 | 2124 | 395 | 
 

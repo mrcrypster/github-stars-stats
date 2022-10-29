@@ -1,6 +1,6 @@
 # casouri/vundo - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 206 | 15 | 
 | 2022-10-27 | 206 | 15 | 
 | 2022-10-26 | 205 | 15 | 
 | 2022-10-25 | 204 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 196 | 15 | 
 | 2022-09-30 | 196 | 15 | 
 | 2022-09-29 | 196 | 15 | 
-| 2022-09-28 | 196 | 15 | 
 

@@ -1,10 +1,10 @@
 # apache/dubbo - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 25379
+☋ Forks: 25382
 
-★ Stars: 38023
+★ Stars: 38026
 
 [Open repository](https://github.com/apache/dubbo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 38026 | 25382 | 
 | 2022-10-27 | 38023 | 25379 | 
 | 2022-10-26 | 38022 | 25378 | 
 | 2022-10-25 | 38018 | 25379 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 37919 | 25340 | 
 | 2022-09-30 | 37917 | 25338 | 
 | 2022-09-29 | 37913 | 25337 | 
-| 2022-09-28 | 37905 | 25337 | 
 

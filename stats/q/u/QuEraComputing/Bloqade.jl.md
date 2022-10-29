@@ -1,6 +1,6 @@
 # QuEraComputing/Bloqade.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 92 | 16 | 
 | 2022-10-27 | 92 | 16 | 
 | 2022-10-26 | 92 | 16 | 
 | 2022-10-25 | 91 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 84 | 13 | 
 | 2022-09-30 | 84 | 13 | 
 | 2022-09-29 | 83 | 13 | 
-| 2022-09-28 | 83 | 13 | 
 

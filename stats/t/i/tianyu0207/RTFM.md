@@ -1,6 +1,6 @@
 # tianyu0207/RTFM - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 230 | 58 | 
 | 2022-10-27 | 230 | 58 | 
 | 2022-10-26 | 230 | 58 | 
 | 2022-10-25 | 230 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 223 | 50 | 
 | 2022-09-30 | 223 | 50 | 
 | 2022-09-29 | 223 | 50 | 
-| 2022-09-28 | 223 | 50 | 
 

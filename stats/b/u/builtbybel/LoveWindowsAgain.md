@@ -1,6 +1,6 @@
 # builtbybel/LoveWindowsAgain - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 367 | 13 | 
 | 2022-10-27 | 367 | 13 | 
 | 2022-10-26 | 366 | 13 | 
 | 2022-10-25 | 366 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 350 | 13 | 
 | 2022-09-30 | 346 | 13 | 
 | 2022-09-29 | 344 | 13 | 
-| 2022-09-28 | 343 | 13 | 
 

@@ -1,10 +1,10 @@
 # TimUntersberger/neogit - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 93
 
-★ Stars: 1744
+★ Stars: 1753
 
 [Open repository](https://github.com/TimUntersberger/neogit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1753 | 93 | 
 | 2022-10-27 | 1744 | 93 | 
 | 2022-10-26 | 1744 | 92 | 
 | 2022-10-25 | 1736 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1675 | 81 | 
 | 2022-09-30 | 1673 | 81 | 
 | 2022-09-29 | 1665 | 81 | 
-| 2022-09-28 | 1662 | 79 | 
 

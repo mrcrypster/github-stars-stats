@@ -1,10 +1,10 @@
 # CrossroadsAcademy/queue-user-frontend - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 5
 
-★ Stars: 1
+★ Stars: 3
 
 [Open repository](https://github.com/CrossroadsAcademy/queue-user-frontend)
 
@@ -13,5 +13,6 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3 | 5 | 
 | 2022-10-27 | 1 | 5 | 
 

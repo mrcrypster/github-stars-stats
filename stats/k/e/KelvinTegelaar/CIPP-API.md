@@ -1,8 +1,8 @@
 # KelvinTegelaar/CIPP-API - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1458
+☋ Forks: 1468
 
 ★ Stars: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 79 | 1468 | 
 | 2022-10-27 | 79 | 1458 | 
 | 2022-10-26 | 79 | 1450 | 
 | 2022-10-25 | 79 | 1448 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 74 | 1300 | 
 | 2022-09-30 | 74 | 1298 | 
 | 2022-09-29 | 73 | 1293 | 
-| 2022-09-28 | 72 | 1286 | 
 

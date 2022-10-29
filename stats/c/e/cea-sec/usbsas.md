@@ -1,10 +1,10 @@
 # cea-sec/usbsas - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 180
+★ Stars: 182
 
 [Open repository](https://github.com/cea-sec/usbsas)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 182 | 12 | 
 | 2022-10-27 | 180 | 11 | 
 | 2022-10-26 | 179 | 11 | 
 | 2022-10-25 | 175 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 147 | 7 | 
 | 2022-09-30 | 147 | 7 | 
 | 2022-09-29 | 147 | 7 | 
-| 2022-09-28 | 147 | 7 | 
 

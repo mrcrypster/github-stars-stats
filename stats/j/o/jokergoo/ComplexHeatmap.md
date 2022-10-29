@@ -1,10 +1,10 @@
 # jokergoo/ComplexHeatmap - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 180
 
-★ Stars: 940
+★ Stars: 941
 
 [Open repository](https://github.com/jokergoo/ComplexHeatmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 941 | 180 | 
 | 2022-10-27 | 940 | 180 | 
 | 2022-10-26 | 939 | 180 | 
 | 2022-10-25 | 939 | 180 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 926 | 179 | 
 | 2022-09-30 | 926 | 179 | 
 | 2022-09-29 | 925 | 178 | 
-| 2022-09-28 | 925 | 178 | 
 

@@ -1,6 +1,6 @@
 # theos/logos - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 148 | 27 | 
 | 2022-10-27 | 148 | 27 | 
 | 2022-10-26 | 148 | 27 | 
 | 2022-10-25 | 148 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 147 | 27 | 
 | 2022-09-30 | 147 | 27 | 
 | 2022-09-29 | 147 | 27 | 
-| 2022-09-28 | 148 | 26 | 
 

@@ -1,8 +1,8 @@
 # Archaegeo/Archaegeo-Orbital-Hud - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 43
+☋ Forks: 52
 
 ★ Stars: 55
 
@@ -13,7 +13,8 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 55 | 43 | 
+| 2022-10-29 | 55 | 52 | 
+| 2022-10-28 | 55 | 52 | 
 | 2022-10-27 | 55 | 42 | 
 | 2022-10-26 | 52 | 38 | 
 | 2022-10-25 | 50 | 38 | 

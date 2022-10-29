@@ -1,6 +1,6 @@
 # FraxFinance/frax-solidity - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 307 | 116 | 
 | 2022-10-27 | 307 | 116 | 
 | 2022-10-26 | 307 | 116 | 
 | 2022-10-25 | 306 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 298 | 115 | 
 | 2022-09-30 | 298 | 115 | 
 | 2022-09-29 | 298 | 115 | 
-| 2022-09-28 | 298 | 115 | 
 

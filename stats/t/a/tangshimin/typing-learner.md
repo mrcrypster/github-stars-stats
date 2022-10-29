@@ -1,6 +1,6 @@
 # tangshimin/typing-learner - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 678 | 42 | 
 | 2022-10-27 | 678 | 42 | 
 | 2022-10-26 | 675 | 42 | 
 | 2022-10-25 | 670 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 639 | 39 | 
 | 2022-09-30 | 639 | 39 | 
 | 2022-09-29 | 639 | 39 | 
-| 2022-09-28 | 639 | 38 | 
 

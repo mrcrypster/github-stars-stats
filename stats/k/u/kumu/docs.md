@@ -1,8 +1,8 @@
 # kumu/docs - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 374
+☋ Forks: 376
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 21 | 376 | 
 | 2022-10-27 | 21 | 374 | 
 | 2022-10-26 | 21 | 375 | 
 | 2022-10-25 | 21 | 375 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 21 | 364 | 
 | 2022-10-01 | 21 | 364 | 
 | 2022-09-30 | 21 | 364 | 
-| 2022-09-29 | 21 | 364 | 
 

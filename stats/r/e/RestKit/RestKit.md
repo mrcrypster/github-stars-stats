@@ -1,6 +1,6 @@
 # RestKit/RestKit - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 2172
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 10246 | 2172 | 
 | 2022-10-28 | 10246 | 2172 | 
 | 2022-10-27 | 10246 | 2172 | 
 | 2022-10-26 | 10246 | 2172 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 10245 | 2175 | 
 | 2022-09-30 | 10245 | 2175 | 
 | 2022-09-29 | 10245 | 2175 | 
-| 2022-09-28 | 10245 | 2175 | 
 

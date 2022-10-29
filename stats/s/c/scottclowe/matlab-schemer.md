@@ -1,6 +1,6 @@
 # scottclowe/matlab-schemer - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 960 | 255 | 
 | 2022-10-27 | 960 | 255 | 
 | 2022-10-26 | 960 | 255 | 
 | 2022-10-25 | 960 | 255 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 947 | 252 | 
 | 2022-09-30 | 947 | 253 | 
 | 2022-09-29 | 947 | 253 | 
-| 2022-09-28 | 947 | 253 | 
 

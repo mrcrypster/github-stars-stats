@@ -1,10 +1,10 @@
 # pandao/editor.md - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 2360
+☋ Forks: 2359
 
-★ Stars: 12556
+★ Stars: 12558
 
 [Open repository](https://github.com/pandao/editor.md)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 12558 | 2359 | 
 | 2022-10-28 | 12556 | 2360 | 
 | 2022-10-27 | 12556 | 2359 | 
 | 2022-10-26 | 12556 | 2359 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 12509 | 2351 | 
 | 2022-09-30 | 12505 | 2350 | 
 | 2022-09-29 | 12504 | 2350 | 
-| 2022-09-28 | 12501 | 2349 | 
 

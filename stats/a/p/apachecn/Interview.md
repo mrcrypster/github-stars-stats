@@ -1,10 +1,10 @@
 # apachecn/Interview - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2143
 
-★ Stars: 7757
+★ Stars: 7758
 
 [Open repository](https://github.com/apachecn/Interview)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 7758 | 2143 | 
 | 2022-10-27 | 7757 | 2143 | 
 | 2022-10-26 | 7754 | 2142 | 
 | 2022-10-25 | 7754 | 2141 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 7718 | 2139 | 
 | 2022-09-30 | 7718 | 2138 | 
 | 2022-09-29 | 7717 | 2138 | 
-| 2022-09-28 | 7717 | 2139 | 
 

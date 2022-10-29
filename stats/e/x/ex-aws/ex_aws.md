@@ -1,8 +1,8 @@
 # ex-aws/ex_aws - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 472
+☋ Forks: 473
 
 ★ Stars: 1166
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1166 | 473 | 
 | 2022-10-27 | 1166 | 472 | 
 | 2022-10-26 | 1166 | 472 | 
 | 2022-10-25 | 1166 | 472 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 1161 | 468 | 
 | 2022-10-01 | 1159 | 468 | 
 | 2022-09-30 | 1159 | 468 | 
-| 2022-09-29 | 1158 | 469 | 
 

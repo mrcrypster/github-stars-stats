@@ -1,10 +1,10 @@
 # idealo/terraform-aws-mwaa - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 15
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/idealo/terraform-aws-mwaa)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 24 | 15 | 
 | 2022-10-27 | 23 | 15 | 
 | 2022-10-26 | 23 | 15 | 
 | 2022-10-25 | 23 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 21 | 14 | 
 | 2022-09-30 | 21 | 14 | 
 | 2022-09-29 | 21 | 14 | 
-| 2022-09-28 | 21 | 14 | 
 

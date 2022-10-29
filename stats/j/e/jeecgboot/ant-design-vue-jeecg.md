@@ -1,6 +1,6 @@
 # jeecgboot/ant-design-vue-jeecg - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 48 | 54 | 
 | 2022-10-27 | 48 | 54 | 
 | 2022-10-26 | 46 | 54 | 
 | 2022-10-25 | 45 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 23 | 37 | 
 | 2022-09-30 | 23 | 37 | 
 | 2022-09-29 | 20 | 37 | 
-| 2022-09-28 | 20 | 37 | 
 

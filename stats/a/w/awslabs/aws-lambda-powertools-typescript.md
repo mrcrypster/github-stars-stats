@@ -1,10 +1,10 @@
 # awslabs/aws-lambda-powertools-typescript - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 64
+☋ Forks: 65
 
-★ Stars: 944
+★ Stars: 946
 
 [Open repository](https://github.com/awslabs/aws-lambda-powertools-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 946 | 65 | 
 | 2022-10-27 | 944 | 64 | 
 | 2022-10-26 | 943 | 64 | 
 | 2022-10-25 | 943 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 923 | 61 | 
 | 2022-09-30 | 923 | 61 | 
 | 2022-09-29 | 923 | 61 | 
-| 2022-09-28 | 923 | 61 | 
 

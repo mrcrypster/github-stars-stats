@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 40
 
-★ Stars: 522
+★ Stars: 524
 
 [Open repository](https://github.com/facebook/ktfmt)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 522 | 40 | 
+| 2022-10-28 | 524 | 40 | 
 | 2022-10-27 | 522 | 40 | 
 

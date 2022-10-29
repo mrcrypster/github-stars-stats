@@ -1,8 +1,8 @@
 # hsl947/react-antd-multi-tabs-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 93
+☋ Forks: 94
 
 ★ Stars: 370
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 370 | 94 | 
 | 2022-10-27 | 370 | 93 | 
 | 2022-10-26 | 368 | 93 | 
 | 2022-10-25 | 368 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 359 | 90 | 
 | 2022-09-30 | 359 | 90 | 
 | 2022-09-29 | 358 | 90 | 
-| 2022-09-28 | 358 | 88 | 
 

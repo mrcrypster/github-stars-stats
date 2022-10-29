@@ -1,6 +1,6 @@
 # YUXUAN888/FSM3 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 102 | 13 | 
 | 2022-10-27 | 102 | 13 | 
 | 2022-10-26 | 102 | 13 | 
 | 2022-10-25 | 102 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 102 | 13 | 
 | 2022-09-30 | 102 | 13 | 
 | 2022-09-29 | 102 | 13 | 
-| 2022-09-28 | 102 | 13 | 
 

@@ -1,6 +1,6 @@
 # muhammedAnjoom/netflix-clone - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 34 | 14 | 
 | 2022-10-27 | 34 | 14 | 
 | 2022-10-26 | 34 | 14 | 
 | 2022-10-25 | 34 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 35 | 14 | 
 | 2022-09-30 | 34 | 14 | 
 | 2022-09-29 | 34 | 14 | 
-| 2022-09-28 | 34 | 14 | 
 

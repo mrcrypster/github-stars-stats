@@ -1,8 +1,8 @@
 # Lauriethefish/QuestPatcher - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 343
+☋ Forks: 344
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 98 | 344 | 
 | 2022-10-27 | 98 | 343 | 
 | 2022-10-26 | 97 | 343 | 
 | 2022-10-25 | 97 | 343 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 95 | 339 | 
 | 2022-09-30 | 94 | 338 | 
 | 2022-09-29 | 93 | 338 | 
-| 2022-09-28 | 92 | 338 | 
 

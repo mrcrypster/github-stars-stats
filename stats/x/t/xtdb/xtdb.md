@@ -1,10 +1,10 @@
 # xtdb/xtdb - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 149
 
-★ Stars: 2020
+★ Stars: 2021
 
 [Open repository](https://github.com/xtdb/xtdb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2021 | 149 | 
 | 2022-10-27 | 2020 | 149 | 
 | 2022-10-26 | 2021 | 149 | 
 | 2022-10-25 | 2021 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2002 | 146 | 
 | 2022-09-30 | 2002 | 146 | 
 | 2022-09-29 | 1997 | 146 | 
-| 2022-09-28 | 1996 | 146 | 
 

@@ -1,10 +1,10 @@
 # astropy/astropy - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1543
 
-★ Stars: 3548
+★ Stars: 3551
 
 [Open repository](https://github.com/astropy/astropy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3551 | 1543 | 
 | 2022-10-27 | 3548 | 1543 | 
 | 2022-10-26 | 3546 | 1542 | 
 | 2022-10-25 | 3544 | 1541 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3512 | 1538 | 
 | 2022-09-30 | 3512 | 1537 | 
 | 2022-09-29 | 3510 | 1537 | 
-| 2022-09-28 | 3508 | 1538 | 
 

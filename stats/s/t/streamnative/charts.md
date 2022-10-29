@@ -1,8 +1,8 @@
 # streamnative/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 70
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 70 | 61 | 
 | 2022-10-27 | 70 | 60 | 
 | 2022-10-26 | 70 | 60 | 
 | 2022-10-25 | 70 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 69 | 60 | 
 | 2022-10-01 | 69 | 60 | 
 | 2022-09-30 | 69 | 60 | 
-| 2022-09-29 | 69 | 60 | 
 

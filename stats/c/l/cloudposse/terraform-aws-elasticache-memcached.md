@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-elasticache-memcached - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 15 | 30 | 
 | 2022-10-27 | 15 | 30 | 
 | 2022-10-26 | 15 | 30 | 
 | 2022-10-25 | 15 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 16 | 30 | 
 | 2022-10-01 | 16 | 30 | 
 | 2022-09-30 | 16 | 30 | 
-| 2022-09-29 | 16 | 30 | 
 

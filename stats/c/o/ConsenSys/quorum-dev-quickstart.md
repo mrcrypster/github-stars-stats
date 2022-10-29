@@ -1,6 +1,6 @@
 # ConsenSys/quorum-dev-quickstart - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 77 | 67 | 
 | 2022-10-27 | 77 | 67 | 
 | 2022-10-26 | 77 | 67 | 
 | 2022-10-25 | 76 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 72 | 64 | 
 | 2022-09-30 | 72 | 64 | 
 | 2022-09-29 | 72 | 64 | 
-| 2022-09-28 | 72 | 64 | 
 

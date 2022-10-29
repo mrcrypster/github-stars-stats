@@ -1,10 +1,10 @@
 # arut/nginx-rtmp-module - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 3413
 
-★ Stars: 12172
+★ Stars: 12174
 
 [Open repository](https://github.com/arut/nginx-rtmp-module)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 12174 | 3413 | 
 | 2022-10-27 | 12172 | 3413 | 
 | 2022-10-26 | 12171 | 3413 | 
 | 2022-10-25 | 12170 | 3412 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 12125 | 3402 | 
 | 2022-09-30 | 12124 | 3402 | 
 | 2022-09-29 | 12123 | 3403 | 
-| 2022-09-28 | 12123 | 3403 | 
 

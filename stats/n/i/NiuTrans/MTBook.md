@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 28
 
 ☋ Forks: 825
 
-★ Stars: 2500
+★ Stars: 2501
 
 [Open repository](https://github.com/NiuTrans/MTBook)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 2500 | 825 | 
+| 2022-10-28 | 2501 | 825 | 
 | 2022-10-27 | 2500 | 825 | 
 | 2022-10-26 | 2498 | 826 | 
 | 2022-10-25 | 2497 | 826 | 

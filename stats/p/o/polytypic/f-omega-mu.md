@@ -1,6 +1,6 @@
 # polytypic/f-omega-mu - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 43 | 1 | 
 | 2022-10-27 | 43 | 1 | 
 | 2022-10-26 | 43 | 1 | 
 | 2022-10-25 | 43 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 37 | 1 | 
 | 2022-09-30 | 37 | 1 | 
 | 2022-09-29 | 37 | 1 | 
-| 2022-09-28 | 37 | 1 | 
 

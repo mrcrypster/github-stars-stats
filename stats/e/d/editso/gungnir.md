@@ -1,6 +1,6 @@
 # editso/gungnir - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 74 | 8 | 
 | 2022-10-27 | 74 | 8 | 
 | 2022-10-26 | 74 | 8 | 
 | 2022-10-25 | 74 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 71 | 8 | 
 | 2022-10-01 | 71 | 8 | 
 | 2022-09-30 | 71 | 8 | 
-| 2022-09-29 | 71 | 8 | 
 

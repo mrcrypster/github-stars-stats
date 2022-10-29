@@ -1,6 +1,6 @@
 # li-xiaojun/XPopup - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1086
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6728 | 1086 | 
 | 2022-10-27 | 6728 | 1086 | 
 | 2022-10-26 | 6724 | 1086 | 
 | 2022-10-25 | 6724 | 1086 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 6686 | 1084 | 
 | 2022-09-30 | 6685 | 1084 | 
 | 2022-09-29 | 6684 | 1084 | 
-| 2022-09-28 | 6680 | 1082 | 
 

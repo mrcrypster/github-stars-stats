@@ -1,8 +1,8 @@
 # lowRISC/ariane-ethernet - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 7 | 5 | 
 | 2022-10-27 | 7 | 4 | 
 | 2022-10-26 | 7 | 4 | 
 | 2022-10-25 | 7 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 7 | 4 | 
 | 2022-09-30 | 7 | 4 | 
 | 2022-09-29 | 7 | 4 | 
-| 2022-09-28 | 7 | 4 | 
 

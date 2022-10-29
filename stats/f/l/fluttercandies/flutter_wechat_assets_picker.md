@@ -1,10 +1,10 @@
 # fluttercandies/flutter_wechat_assets_picker - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 289
 
-★ Stars: 1075
+★ Stars: 1078
 
 [Open repository](https://github.com/fluttercandies/flutter_wechat_assets_picker)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1078 | 289 | 
 | 2022-10-27 | 1075 | 289 | 
 | 2022-10-26 | 1074 | 289 | 
 | 2022-10-25 | 1073 | 289 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 1055 | 285 | 
 | 2022-10-01 | 1055 | 285 | 
 | 2022-09-30 | 1055 | 285 | 
-| 2022-09-28 | 1053 | 284 | 
 

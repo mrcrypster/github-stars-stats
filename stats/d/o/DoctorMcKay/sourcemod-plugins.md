@@ -1,8 +1,8 @@
 # DoctorMcKay/sourcemod-plugins - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 56
+☋ Forks: 57
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 21 | 57 | 
 | 2022-10-27 | 21 | 56 | 
 | 2022-10-26 | 21 | 56 | 
 | 2022-10-25 | 21 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 20 | 55 | 
 | 2022-09-30 | 20 | 55 | 
 | 2022-09-29 | 20 | 55 | 
-| 2022-09-28 | 20 | 55 | 
 

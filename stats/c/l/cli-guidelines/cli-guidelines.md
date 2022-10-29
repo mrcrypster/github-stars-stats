@@ -1,10 +1,10 @@
 # cli-guidelines/cli-guidelines - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 70
 
-★ Stars: 1970
+★ Stars: 1971
 
 [Open repository](https://github.com/cli-guidelines/cli-guidelines)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1971 | 70 | 
 | 2022-10-27 | 1970 | 70 | 
 | 2022-10-26 | 1970 | 70 | 
 | 2022-10-25 | 1970 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1941 | 68 | 
 | 2022-09-30 | 1941 | 68 | 
 | 2022-09-29 | 1941 | 68 | 
-| 2022-09-28 | 1940 | 67 | 
 

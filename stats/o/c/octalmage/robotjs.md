@@ -1,6 +1,6 @@
 # octalmage/robotjs - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 867
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 11365 | 867 | 
 | 2022-10-27 | 11365 | 867 | 
 | 2022-10-26 | 11364 | 867 | 
 | 2022-10-25 | 11361 | 867 | 

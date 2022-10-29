@@ -1,10 +1,10 @@
 # Digilent/vivado-boards - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 178
+☋ Forks: 179
 
-★ Stars: 260
+★ Stars: 261
 
 [Open repository](https://github.com/Digilent/vivado-boards)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 261 | 179 | 
 | 2022-10-27 | 260 | 178 | 
 | 2022-10-26 | 260 | 178 | 
 | 2022-10-25 | 260 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 255 | 179 | 
 | 2022-09-30 | 255 | 179 | 
 | 2022-09-29 | 255 | 178 | 
-| 2022-09-28 | 255 | 178 | 
 

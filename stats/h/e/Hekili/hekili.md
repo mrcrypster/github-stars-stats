@@ -1,10 +1,10 @@
 # Hekili/hekili - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 76
 
-★ Stars: 162
+★ Stars: 164
 
 [Open repository](https://github.com/Hekili/hekili)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 164 | 76 | 
 | 2022-10-27 | 162 | 76 | 
 | 2022-10-26 | 158 | 73 | 
 | 2022-10-25 | 154 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 148 | 64 | 
 | 2022-09-30 | 147 | 64 | 
 | 2022-09-29 | 144 | 64 | 
-| 2022-09-28 | 144 | 64 | 
 

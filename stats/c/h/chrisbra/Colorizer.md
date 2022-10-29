@@ -1,10 +1,10 @@
 # chrisbra/Colorizer - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 34
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/chrisbra/Colorizer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 488 | 34 | 
 | 2022-10-27 | 487 | 34 | 
 | 2022-10-26 | 487 | 34 | 
 | 2022-10-25 | 488 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 487 | 34 | 
 | 2022-10-01 | 487 | 34 | 
 | 2022-09-30 | 487 | 34 | 
-| 2022-09-29 | 487 | 34 | 
 

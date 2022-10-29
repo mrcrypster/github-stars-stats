@@ -1,6 +1,6 @@
 # arcaneenergy/tilemap-level-editor - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 37 | - | 
 | 2022-10-27 | 37 | - | 
 | 2022-10-26 | 37 | - | 
 | 2022-10-25 | 37 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 36 | - | 
 | 2022-10-01 | 36 | - | 
 | 2022-09-30 | 36 | - | 
-| 2022-09-29 | 36 | - | 
 

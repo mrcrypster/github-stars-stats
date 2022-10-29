@@ -1,10 +1,10 @@
 # tesseract-ocr/tessdata - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1873
+☋ Forks: 1874
 
-★ Stars: 4733
+★ Stars: 4736
 
 [Open repository](https://github.com/tesseract-ocr/tessdata)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 4736 | 1874 | 
 | 2022-10-27 | 4733 | 1873 | 
 | 2022-10-26 | 4730 | 1872 | 
 | 2022-10-25 | 4727 | 1871 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 4691 | 1867 | 
 | 2022-10-01 | 4690 | 1867 | 
 | 2022-09-30 | 4690 | 1867 | 
-| 2022-09-29 | 4688 | 1865 | 
 

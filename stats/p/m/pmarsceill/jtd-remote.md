@@ -1,8 +1,8 @@
 # pmarsceill/jtd-remote - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 392
+☋ Forks: 393
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 49 | 393 | 
 | 2022-10-27 | 49 | 392 | 
 | 2022-10-26 | 49 | 392 | 
 | 2022-10-25 | 49 | 392 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 48 | 385 | 
 | 2022-09-30 | 48 | 385 | 
 | 2022-09-29 | 48 | 385 | 
-| 2022-09-28 | 48 | 385 | 
 

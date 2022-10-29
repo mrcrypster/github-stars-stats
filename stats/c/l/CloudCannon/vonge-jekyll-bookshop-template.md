@@ -1,10 +1,10 @@
 # CloudCannon/vonge-jekyll-bookshop-template - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 46
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/CloudCannon/vonge-jekyll-bookshop-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 69 | 46 | 
 | 2022-10-28 | 68 | 46 | 
 | 2022-10-27 | 68 | 46 | 
 | 2022-10-25 | 68 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 59 | 44 | 
 | 2022-09-30 | 59 | 44 | 
 | 2022-09-29 | 59 | 43 | 
-| 2022-09-28 | 59 | 43 | 
 

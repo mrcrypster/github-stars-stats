@@ -1,6 +1,6 @@
 # Adrien-Kourganoff/TP2_WEB_OCRES - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 286
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | - | 286 | 
 | 2022-10-27 | - | 286 | 
 | 2022-10-26 | - | 286 | 
 | 2022-10-25 | - | 286 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | - | 287 | 
 | 2022-09-30 | - | 287 | 
 | 2022-09-29 | - | 287 | 
-| 2022-09-28 | - | 287 | 
 

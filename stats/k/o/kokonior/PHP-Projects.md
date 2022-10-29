@@ -1,8 +1,8 @@
 # kokonior/PHP-Projects - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
-☋ Forks: 342
+☋ Forks: 348
 
 ★ Stars: 84
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 84 | 348 | 
+| 2022-10-28 | 84 | 348 | 
 | 2022-10-27 | 84 | 342 | 
 | 2022-10-26 | 84 | 340 | 
 | 2022-10-25 | 84 | 340 | 

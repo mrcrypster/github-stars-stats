@@ -1,10 +1,10 @@
 # haskellfoundation/error-message-index - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/haskellfoundation/error-message-index)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 60 | 4 | 
 | 2022-10-27 | 59 | 4 | 
 | 2022-10-26 | 58 | 4 | 
 | 2022-10-25 | 56 | 4 | 

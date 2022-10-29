@@ -1,10 +1,10 @@
 # ashuang360/jd-tb - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 49
+★ Stars: 60
 
 [Open repository](https://github.com/ashuang360/jd-tb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 60 | 20 | 
 | 2022-10-27 | 49 | 19 | 
 | 2022-10-26 | 46 | 17 | 
 | 2022-10-25 | 42 | 15 | 

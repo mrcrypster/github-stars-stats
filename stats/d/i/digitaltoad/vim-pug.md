@@ -1,6 +1,6 @@
 # digitaltoad/vim-pug - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 821 | 77 | 
 | 2022-10-27 | 821 | 77 | 
 | 2022-10-26 | 820 | 77 | 
 | 2022-10-25 | 820 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 820 | 77 | 
 | 2022-09-30 | 820 | 77 | 
 | 2022-09-29 | 820 | 77 | 
-| 2022-09-28 | 820 | 77 | 
 

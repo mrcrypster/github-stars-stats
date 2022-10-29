@@ -1,8 +1,8 @@
 # UNSTOP4BLE/PE-0.5.1-mobile-html5 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 127
+☋ Forks: 128
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 14 | 128 | 
 | 2022-10-27 | 14 | 127 | 
 | 2022-10-26 | 14 | 127 | 
 | 2022-10-25 | 14 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 13 | 106 | 
 | 2022-09-30 | 13 | 105 | 
 | 2022-09-29 | 12 | 104 | 
-| 2022-09-28 | 12 | 103 | 
 

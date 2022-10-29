@@ -1,10 +1,10 @@
 # tolerious/Programming_learning_resource - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 445
 
-★ Stars: 1294
+★ Stars: 1295
 
 [Open repository](https://github.com/tolerious/Programming_learning_resource)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1295 | 445 | 
 | 2022-10-27 | 1294 | 445 | 
 | 2022-10-26 | 1293 | 445 | 
 | 2022-10-25 | 1293 | 445 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1285 | 445 | 
 | 2022-09-30 | 1284 | 445 | 
 | 2022-09-29 | 1284 | 445 | 
-| 2022-09-28 | 1283 | 445 | 
 

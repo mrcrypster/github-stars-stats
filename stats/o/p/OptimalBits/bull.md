@@ -1,10 +1,10 @@
 # OptimalBits/bull - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1390
 
-★ Stars: 13194
+★ Stars: 13201
 
 [Open repository](https://github.com/OptimalBits/bull)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 13201 | 1390 | 
 | 2022-10-27 | 13194 | 1390 | 
 | 2022-10-26 | 13185 | 1389 | 
 | 2022-10-25 | 13177 | 1389 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 13067 | 1380 | 
 | 2022-09-30 | 13061 | 1379 | 
 | 2022-09-29 | 13060 | 1379 | 
-| 2022-09-28 | 13052 | 1375 | 
 

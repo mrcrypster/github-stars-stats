@@ -1,10 +1,10 @@
 # sebischair/bbse - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 47
 
-★ Stars: 293
+★ Stars: 294
 
 [Open repository](https://github.com/sebischair/bbse)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 294 | 47 | 
 | 2022-10-27 | 293 | 47 | 
 | 2022-10-26 | 293 | 47 | 
 | 2022-10-25 | 293 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 287 | 47 | 
 | 2022-09-30 | 287 | 47 | 
 | 2022-09-29 | 287 | 47 | 
-| 2022-09-28 | 287 | 47 | 
 

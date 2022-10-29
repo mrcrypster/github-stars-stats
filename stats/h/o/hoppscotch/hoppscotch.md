@@ -1,10 +1,10 @@
 # hoppscotch/hoppscotch - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 3260
+☋ Forks: 3265
 
-★ Stars: 47798
+★ Stars: 47825
 
 [Open repository](https://github.com/hoppscotch/hoppscotch)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 47825 | 3265 | 
 | 2022-10-27 | 47798 | 3260 | 
 | 2022-10-26 | 47786 | 3257 | 
 | 2022-10-25 | 47754 | 3255 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 47189 | 3193 | 
 | 2022-09-30 | 47173 | 3185 | 
 | 2022-09-29 | 47146 | 3183 | 
-| 2022-09-28 | 47107 | 3179 | 
 

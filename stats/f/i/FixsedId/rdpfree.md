@@ -1,8 +1,8 @@
 # FixsedId/rdpfree - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 65
+☋ Forks: 66
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | - | 66 | 
 | 2022-10-27 | - | 65 | 
 | 2022-10-26 | - | 65 | 
 | 2022-10-25 | - | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | - | 65 | 
 | 2022-09-30 | - | 65 | 
 | 2022-09-29 | - | 65 | 
-| 2022-09-28 | - | 65 | 
 

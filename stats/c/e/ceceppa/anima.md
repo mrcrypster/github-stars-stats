@@ -1,6 +1,6 @@
 # ceceppa/anima - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 373 | 16 | 
 | 2022-10-27 | 373 | 16 | 
 | 2022-10-26 | 373 | 16 | 
 | 2022-10-25 | 372 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 369 | 15 | 
 | 2022-09-30 | 369 | 15 | 
 | 2022-09-29 | 369 | 15 | 
-| 2022-09-28 | 369 | 15 | 
 

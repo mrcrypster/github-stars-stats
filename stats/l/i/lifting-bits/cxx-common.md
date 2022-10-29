@@ -1,10 +1,10 @@
 # lifting-bits/cxx-common - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/lifting-bits/cxx-common)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 20 | 12 | 
 | 2022-10-27 | 19 | 11 | 
 | 2022-10-26 | 19 | 10 | 
 | 2022-10-25 | 19 | 10 | 

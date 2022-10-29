@@ -1,6 +1,6 @@
 # dottantgal/ROS2_learning - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 214 | 28 | 
 | 2022-10-27 | 214 | 28 | 
 | 2022-10-26 | 214 | 28 | 
 | 2022-10-25 | 214 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 214 | 28 | 
 | 2022-10-01 | 213 | 28 | 
 | 2022-09-30 | 213 | 28 | 
-| 2022-09-28 | 213 | 28 | 
 

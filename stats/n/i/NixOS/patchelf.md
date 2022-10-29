@@ -1,10 +1,10 @@
 # NixOS/patchelf - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 378
 
-★ Stars: 2421
+★ Stars: 2423
 
 [Open repository](https://github.com/NixOS/patchelf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2423 | 378 | 
 | 2022-10-27 | 2421 | 378 | 
 | 2022-10-26 | 2419 | 377 | 
 | 2022-10-25 | 2416 | 375 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2376 | 373 | 
 | 2022-09-30 | 2376 | 373 | 
 | 2022-09-29 | 2375 | 373 | 
-| 2022-09-28 | 2373 | 373 | 
 

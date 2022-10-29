@@ -1,10 +1,10 @@
 # spdermn02/TouchPortal_Discord_Plugin - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 21
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/spdermn02/TouchPortal_Discord_Plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 43 | 21 | 
 | 2022-10-28 | 42 | 21 | 
 | 2022-10-27 | 42 | 21 | 
 | 2022-10-26 | 42 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 42 | 21 | 
 | 2022-09-30 | 42 | 21 | 
 | 2022-09-29 | 42 | 21 | 
-| 2022-09-28 | 42 | 21 | 
 

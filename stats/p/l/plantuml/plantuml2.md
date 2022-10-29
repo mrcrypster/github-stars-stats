@@ -1,10 +1,10 @@
 # plantuml/plantuml2 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 23
+★ Stars: 24
 
 [Open repository](https://github.com/plantuml/plantuml2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 24 | 4 | 
 | 2022-10-27 | 23 | 4 | 
 | 2022-10-26 | 23 | 4 | 
 | 2022-10-25 | 23 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 22 | 4 | 
 | 2022-09-30 | 22 | 4 | 
 | 2022-09-29 | 22 | 4 | 
-| 2022-09-28 | 22 | 4 | 
 

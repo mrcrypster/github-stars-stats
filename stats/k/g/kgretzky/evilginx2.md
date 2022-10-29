@@ -1,10 +1,10 @@
 # kgretzky/evilginx2 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1267
+☋ Forks: 1268
 
-★ Stars: 6279
+★ Stars: 6285
 
 [Open repository](https://github.com/kgretzky/evilginx2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 6285 | 1268 | 
 | 2022-10-27 | 6279 | 1267 | 
 | 2022-10-26 | 6273 | 1265 | 
 | 2022-10-25 | 6266 | 1264 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 6166 | 1232 | 
 | 2022-09-30 | 6162 | 1231 | 
 | 2022-09-29 | 6157 | 1232 | 
-| 2022-09-28 | 6147 | 1231 | 
 

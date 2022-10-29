@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 28
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 201
+★ Stars: 202
 
 [Open repository](https://github.com/Apebotting/MEV-bot)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-28 | 201 | 50 | 
+| 2022-10-28 | 202 | 51 | 
 | 2022-10-27 | 201 | 50 | 
 

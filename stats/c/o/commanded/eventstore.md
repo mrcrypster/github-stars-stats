@@ -1,6 +1,6 @@
 # commanded/eventstore - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 909 | 127 | 
 | 2022-10-27 | 909 | 127 | 
 | 2022-10-26 | 909 | 127 | 
 | 2022-10-25 | 909 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 903 | 125 | 
 | 2022-09-30 | 903 | 125 | 
 | 2022-09-29 | 903 | 125 | 
-| 2022-09-28 | 903 | 125 | 
 

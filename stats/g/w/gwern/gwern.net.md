@@ -1,6 +1,6 @@
 # gwern/gwern.net - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 222 | 23 | 
 | 2022-10-27 | 222 | 23 | 
 | 2022-10-26 | 221 | 23 | 
 | 2022-10-25 | 221 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 217 | 22 | 
 | 2022-09-30 | 214 | 22 | 
 | 2022-09-29 | 214 | 22 | 
-| 2022-09-28 | 214 | 22 | 
 

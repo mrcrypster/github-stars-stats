@@ -1,10 +1,10 @@
 # r-dbi/bigrquery - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 175
 
-★ Stars: 477
+★ Stars: 478
 
 [Open repository](https://github.com/r-dbi/bigrquery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 478 | 175 | 
 | 2022-10-27 | 477 | 175 | 
 | 2022-10-26 | 477 | 175 | 
 | 2022-10-25 | 477 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 477 | 174 | 
 | 2022-09-30 | 477 | 174 | 
 | 2022-09-29 | 477 | 174 | 
-| 2022-09-28 | 477 | 174 | 
 

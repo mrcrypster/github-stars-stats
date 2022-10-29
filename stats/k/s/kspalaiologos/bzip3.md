@@ -1,10 +1,10 @@
 # kspalaiologos/bzip3 - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 22
 
-★ Stars: 427
+★ Stars: 428
 
 [Open repository](https://github.com/kspalaiologos/bzip3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 428 | 22 | 
 | 2022-10-27 | 427 | 22 | 
 | 2022-10-26 | 426 | 21 | 
 | 2022-10-25 | 426 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 426 | 20 | 
 | 2022-10-01 | 426 | 20 | 
 | 2022-09-30 | 426 | 20 | 
-| 2022-09-29 | 426 | 20 | 
 

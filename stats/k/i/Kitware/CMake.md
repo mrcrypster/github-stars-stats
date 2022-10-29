@@ -1,6 +1,6 @@
 # Kitware/CMake - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2343
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 5185 | 2343 | 
 | 2022-10-27 | 5185 | 2343 | 
 | 2022-10-26 | 5182 | 2342 | 
 | 2022-10-25 | 5181 | 2340 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 5115 | 2330 | 
 | 2022-09-30 | 5115 | 2331 | 
 | 2022-09-29 | 5111 | 2329 | 
-| 2022-09-28 | 5110 | 2330 | 
 

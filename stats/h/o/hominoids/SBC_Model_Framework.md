@@ -1,10 +1,10 @@
 # hominoids/SBC_Model_Framework - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 10
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/hominoids/SBC_Model_Framework)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 39 | 10 | 
 | 2022-10-27 | 38 | 10 | 
 | 2022-10-26 | 38 | 10 | 
 | 2022-10-25 | 37 | 10 | 

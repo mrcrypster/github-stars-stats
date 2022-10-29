@@ -1,10 +1,10 @@
 # netology-code/bjs-diplom - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 615
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/netology-code/bjs-diplom)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 10 | 615 | 
 | 2022-10-27 | 11 | 615 | 
 | 2022-10-26 | 11 | 614 | 
 | 2022-10-25 | 11 | 614 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 10 | 592 | 
 | 2022-09-30 | 10 | 591 | 
 | 2022-09-29 | 10 | 590 | 
-| 2022-09-28 | 10 | 588 | 
 

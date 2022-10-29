@@ -1,6 +1,6 @@
 # iquiw/company-restclient - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 56 | 1 | 
 | 2022-10-27 | 56 | 1 | 
 | 2022-10-26 | 56 | 1 | 
 | 2022-10-25 | 56 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 56 | 1 | 
 | 2022-10-01 | 56 | 1 | 
 | 2022-09-30 | 56 | 1 | 
-| 2022-09-29 | 56 | 1 | 
 

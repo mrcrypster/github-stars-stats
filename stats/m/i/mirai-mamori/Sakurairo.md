@@ -1,10 +1,10 @@
 # mirai-mamori/Sakurairo - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 245
 
-★ Stars: 1523
+★ Stars: 1526
 
 [Open repository](https://github.com/mirai-mamori/Sakurairo)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1526 | 245 | 
 | 2022-10-27 | 1523 | 245 | 
 | 2022-10-26 | 1520 | 245 | 
 | 2022-10-25 | 1520 | 244 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1478 | 236 | 
 | 2022-09-30 | 1477 | 235 | 
 | 2022-09-29 | 1474 | 235 | 
-| 2022-09-28 | 1473 | 235 | 
 

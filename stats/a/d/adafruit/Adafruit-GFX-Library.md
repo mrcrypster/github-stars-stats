@@ -1,8 +1,8 @@
 # adafruit/Adafruit-GFX-Library - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1414
+☋ Forks: 1415
 
 ★ Stars: 1911
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1911 | 1415 | 
 | 2022-10-27 | 1911 | 1414 | 
 | 2022-10-26 | 1911 | 1414 | 
 | 2022-10-25 | 1911 | 1413 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 1903 | 1406 | 
 | 2022-09-30 | 1903 | 1406 | 
 | 2022-09-29 | 1902 | 1406 | 
-| 2022-09-28 | 1902 | 1406 | 
 

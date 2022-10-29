@@ -1,6 +1,6 @@
 # vegandevs/vegan - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 332 | 87 | 
 | 2022-10-27 | 332 | 87 | 
 | 2022-10-26 | 331 | 87 | 
 | 2022-10-25 | 331 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 329 | 86 | 
 | 2022-09-30 | 329 | 86 | 
 | 2022-09-29 | 329 | 86 | 
-| 2022-09-28 | 329 | 86 | 
 

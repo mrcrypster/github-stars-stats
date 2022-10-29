@@ -1,8 +1,8 @@
 # input-output-hk/io-sim - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 15 | 8 | 
 | 2022-10-27 | 15 | 7 | 
 | 2022-10-26 | 15 | 7 | 
 | 2022-10-25 | 15 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 13 | 6 | 
 | 2022-09-30 | 13 | 6 | 
 | 2022-09-29 | 13 | 6 | 
-| 2022-09-28 | 13 | 6 | 
 

@@ -1,10 +1,10 @@
 # sjtug/SJTUBeamer - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 26
 
-★ Stars: 332
+★ Stars: 334
 
 [Open repository](https://github.com/sjtug/SJTUBeamer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 334 | 26 | 
 | 2022-10-27 | 332 | 26 | 
 | 2022-10-26 | 332 | 26 | 
 | 2022-10-25 | 332 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 326 | 26 | 
 | 2022-09-30 | 325 | 26 | 
 | 2022-09-29 | 325 | 26 | 
-| 2022-09-28 | 324 | 26 | 
 

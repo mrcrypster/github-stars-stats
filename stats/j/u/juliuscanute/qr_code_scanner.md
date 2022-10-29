@@ -1,8 +1,8 @@
 # juliuscanute/qr_code_scanner - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 559
+☋ Forks: 561
 
 ★ Stars: 848
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 848 | 561 | 
 | 2022-10-27 | 848 | 559 | 
 | 2022-10-26 | 847 | 559 | 
 | 2022-10-25 | 847 | 559 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 840 | 549 | 
 | 2022-09-30 | 840 | 549 | 
 | 2022-09-29 | 840 | 549 | 
-| 2022-09-28 | 838 | 549 | 
 

@@ -1,6 +1,6 @@
 # adoptium/ci-jenkins-pipelines - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 15 | 49 | 
 | 2022-10-27 | 15 | 49 | 
 | 2022-10-26 | 15 | 49 | 
 | 2022-10-25 | 15 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 15 | 41 | 
 | 2022-10-01 | 15 | 41 | 
 | 2022-09-30 | 15 | 41 | 
-| 2022-09-29 | 15 | 41 | 
 

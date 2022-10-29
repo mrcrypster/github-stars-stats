@@ -1,10 +1,10 @@
 # jindrapetrik/jpexs-decompiler - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 561
+☋ Forks: 562
 
-★ Stars: 3378
+★ Stars: 3380
 
 [Open repository](https://github.com/jindrapetrik/jpexs-decompiler)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3380 | 562 | 
 | 2022-10-27 | 3378 | 561 | 
 | 2022-10-26 | 3377 | 561 | 
 | 2022-10-25 | 3375 | 560 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 3348 | 558 | 
 | 2022-09-30 | 3347 | 557 | 
 | 2022-09-29 | 3347 | 557 | 
-| 2022-09-28 | 3346 | 556 | 
 

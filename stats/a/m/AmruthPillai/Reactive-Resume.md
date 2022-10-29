@@ -1,8 +1,8 @@
 # AmruthPillai/Reactive-Resume - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1009
+☋ Forks: 1010
 
 ★ Stars: 7907
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 7907 | 1010 | 
 | 2022-10-27 | 7907 | 1009 | 
 | 2022-10-26 | 7901 | 1006 | 
 | 2022-10-25 | 7899 | 1004 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 7663 | 970 | 
 | 2022-09-30 | 7662 | 970 | 
 | 2022-09-29 | 7655 | 968 | 
-| 2022-09-28 | 7652 | 967 | 
 

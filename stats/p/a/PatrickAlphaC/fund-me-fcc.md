@@ -1,10 +1,10 @@
 # PatrickAlphaC/fund-me-fcc - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 69
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/PatrickAlphaC/fund-me-fcc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 28 | 69 | 
 | 2022-10-27 | 27 | 69 | 
 | 2022-10-26 | 27 | 69 | 
 | 2022-10-25 | 27 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 26 | 54 | 
 | 2022-09-30 | 26 | 55 | 
 | 2022-09-29 | 25 | 55 | 
-| 2022-09-28 | 24 | 52 | 
 

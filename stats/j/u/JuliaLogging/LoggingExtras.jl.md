@@ -1,6 +1,6 @@
 # JuliaLogging/LoggingExtras.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 113 | 15 | 
 | 2022-10-27 | 113 | 15 | 
 | 2022-10-26 | 112 | 15 | 
 | 2022-10-25 | 112 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 112 | 15 | 
 | 2022-09-30 | 112 | 15 | 
 | 2022-09-29 | 112 | 15 | 
-| 2022-09-28 | 112 | 15 | 
 

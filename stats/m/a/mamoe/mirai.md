@@ -1,6 +1,6 @@
 # mamoe/mirai - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 2329
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 10721 | 2329 | 
 | 2022-10-27 | 10721 | 2329 | 
 | 2022-10-26 | 10709 | 2329 | 
 | 2022-10-25 | 10700 | 2330 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 10550 | 2314 | 
 | 2022-09-30 | 10546 | 2313 | 
 | 2022-09-29 | 10539 | 2309 | 
-| 2022-09-28 | 10534 | 2310 | 
 

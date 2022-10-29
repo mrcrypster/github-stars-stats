@@ -1,10 +1,10 @@
 # Kungsgeten/org-brain - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 101
 
-★ Stars: 1603
+★ Stars: 1604
 
 [Open repository](https://github.com/Kungsgeten/org-brain)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 1604 | 101 | 
 | 2022-10-27 | 1603 | 101 | 
 | 2022-10-26 | 1603 | 101 | 
 | 2022-10-25 | 1602 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 1596 | 102 | 
 | 2022-10-01 | 1596 | 102 | 
 | 2022-09-30 | 1595 | 102 | 
-| 2022-09-29 | 1594 | 102 | 
 

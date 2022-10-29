@@ -1,6 +1,6 @@
 # LDrakura/Remote_ShellcodeLoader - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 216 | 55 | 
 | 2022-10-27 | 216 | 55 | 
 | 2022-10-26 | 216 | 55 | 
 | 2022-10-25 | 215 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 195 | 48 | 
 | 2022-09-30 | 193 | 48 | 
 | 2022-09-29 | 190 | 48 | 
-| 2022-09-28 | 190 | 48 | 
 

@@ -1,10 +1,10 @@
 # alexcasalboni/aws-lambda-power-tuning - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 281
 
-★ Stars: 3968
+★ Stars: 3973
 
 [Open repository](https://github.com/alexcasalboni/aws-lambda-power-tuning)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 3973 | 281 | 
 | 2022-10-27 | 3968 | 281 | 
 | 2022-10-26 | 3958 | 280 | 
 | 2022-10-25 | 3957 | 279 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 3910 | 277 | 
 | 2022-10-01 | 3909 | 276 | 
 | 2022-09-30 | 3905 | 275 | 
-| 2022-09-28 | 3903 | 274 | 
 

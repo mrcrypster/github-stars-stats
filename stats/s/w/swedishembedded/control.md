@@ -1,6 +1,6 @@
 # swedishembedded/control - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 40 | 10 | 
 | 2022-10-28 | 40 | 10 | 
 | 2022-10-27 | 40 | 10 | 
 | 2022-10-25 | 40 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 36 | 9 | 
 | 2022-09-30 | 36 | 9 | 
 | 2022-09-29 | 36 | 9 | 
-| 2022-09-28 | 36 | 9 | 
 

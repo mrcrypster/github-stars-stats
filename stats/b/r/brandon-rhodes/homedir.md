@@ -1,6 +1,6 @@
 # brandon-rhodes/homedir - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 197 | 21 | 
 | 2022-10-27 | 197 | 21 | 
 | 2022-10-26 | 197 | 21 | 
 | 2022-10-25 | 197 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 196 | 21 | 
 | 2022-09-30 | 196 | 21 | 
 | 2022-09-29 | 196 | 21 | 
-| 2022-09-28 | 196 | 21 | 
 

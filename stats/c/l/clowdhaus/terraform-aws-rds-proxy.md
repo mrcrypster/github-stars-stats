@@ -1,6 +1,6 @@
 # clowdhaus/terraform-aws-rds-proxy - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 39 | 15 | 
 | 2022-10-27 | 39 | 15 | 
 | 2022-10-26 | 39 | 15 | 
 | 2022-10-25 | 39 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 39 | 14 | 
 | 2022-09-30 | 39 | 14 | 
 | 2022-09-29 | 38 | 14 | 
-| 2022-09-28 | 38 | 14 | 
 

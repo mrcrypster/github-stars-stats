@@ -1,10 +1,10 @@
 # ether/etherpad-lite - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 2455
+☋ Forks: 2456
 
-★ Stars: 13435
+★ Stars: 13438
 
 [Open repository](https://github.com/ether/etherpad-lite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 13438 | 2456 | 
 | 2022-10-27 | 13435 | 2455 | 
 | 2022-10-26 | 13432 | 2456 | 
 | 2022-10-25 | 13424 | 2455 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 13347 | 2448 | 
 | 2022-09-30 | 13339 | 2447 | 
 | 2022-09-29 | 13336 | 2447 | 
-| 2022-09-28 | 13327 | 2447 | 
 

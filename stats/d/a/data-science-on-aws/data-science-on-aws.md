@@ -1,10 +1,10 @@
 # data-science-on-aws/data-science-on-aws - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 899
+☋ Forks: 900
 
-★ Stars: 2772
+★ Stars: 2773
 
 [Open repository](https://github.com/data-science-on-aws/data-science-on-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2773 | 900 | 
 | 2022-10-27 | 2772 | 899 | 
 | 2022-10-26 | 2772 | 899 | 
 | 2022-10-25 | 2772 | 898 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2749 | 888 | 
 | 2022-09-30 | 2748 | 888 | 
 | 2022-09-29 | 2747 | 887 | 
-| 2022-09-28 | 2745 | 887 | 
 

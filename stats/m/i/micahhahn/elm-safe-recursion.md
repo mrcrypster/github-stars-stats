@@ -1,6 +1,6 @@
 # micahhahn/elm-safe-recursion - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 13 | 1 | 
 | 2022-10-27 | 13 | 1 | 
 | 2022-10-26 | 13 | 1 | 
 | 2022-10-25 | 13 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 13 | 1 | 
 | 2022-09-30 | 12 | 1 | 
 | 2022-09-29 | 12 | 1 | 
-| 2022-09-28 | 12 | 1 | 
 

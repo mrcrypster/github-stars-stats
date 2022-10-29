@@ -1,10 +1,10 @@
 # semicons/java_oci_manage - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 215
+☋ Forks: 216
 
-★ Stars: 739
+★ Stars: 741
 
 [Open repository](https://github.com/semicons/java_oci_manage)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 741 | 216 | 
 | 2022-10-27 | 739 | 215 | 
 | 2022-10-26 | 738 | 215 | 
 | 2022-10-25 | 738 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 707 | 215 | 
 | 2022-09-30 | 706 | 214 | 
 | 2022-09-29 | 705 | 214 | 
-| 2022-09-28 | 703 | 214 | 
 

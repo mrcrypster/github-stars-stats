@@ -1,6 +1,6 @@
 # jpetazzo/ampernetacle - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 400
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 2393 | 400 | 
 | 2022-10-27 | 2393 | 400 | 
 | 2022-10-26 | 2393 | 400 | 
 | 2022-10-25 | 2393 | 400 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 2379 | 398 | 
 | 2022-09-30 | 2379 | 397 | 
 | 2022-09-29 | 2379 | 397 | 
-| 2022-09-28 | 2377 | 397 | 
 

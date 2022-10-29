@@ -1,10 +1,10 @@
 # devofspine/spine - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 4
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/devofspine/spine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 192 | 4 | 
 | 2022-10-27 | 191 | 4 | 
 | 2022-10-26 | 191 | 4 | 
 | 2022-10-25 | 191 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 184 | 4 | 
 | 2022-09-30 | 184 | 4 | 
 | 2022-09-29 | 184 | 4 | 
-| 2022-09-28 | 183 | 4 | 
 

@@ -1,10 +1,10 @@
 # erlcloud/erlcloud - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 426
 
-★ Stars: 644
+★ Stars: 645
 
 [Open repository](https://github.com/erlcloud/erlcloud)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 645 | 426 | 
 | 2022-10-27 | 644 | 426 | 
 | 2022-10-26 | 644 | 426 | 
 | 2022-10-25 | 644 | 426 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 645 | 424 | 
 | 2022-09-30 | 645 | 424 | 
 | 2022-09-29 | 645 | 424 | 
-| 2022-09-28 | 645 | 424 | 
 

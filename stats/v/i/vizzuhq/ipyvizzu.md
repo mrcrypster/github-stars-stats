@@ -1,6 +1,6 @@
 # vizzuhq/ipyvizzu - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 659 | 50 | 
 | 2022-10-27 | 659 | 50 | 
 | 2022-10-26 | 657 | 50 | 
 | 2022-10-25 | 653 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 593 | 41 | 
 | 2022-09-30 | 587 | 41 | 
 | 2022-09-29 | 542 | 39 | 
-| 2022-09-28 | 499 | 38 | 
 

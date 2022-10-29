@@ -1,8 +1,8 @@
 # WhoIsSethDaniel/mason-tool-installer.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 107
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 107 | 7 | 
 | 2022-10-28 | 107 | 6 | 
 | 2022-10-27 | 106 | 6 | 
 | 2022-10-26 | 106 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-01 | 89 | 6 | 
 | 2022-09-30 | 89 | 6 | 
 | 2022-09-29 | 88 | 6 | 
-| 2022-09-28 | 87 | 6 | 
 

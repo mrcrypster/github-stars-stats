@@ -1,6 +1,6 @@
 # qewer33/leaf-kde - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 47 | 1 | 
 | 2022-10-27 | 47 | 1 | 
 | 2022-10-26 | 47 | 1 | 
 | 2022-10-25 | 48 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-02 | 47 | 1 | 
 | 2022-10-01 | 46 | 1 | 
 | 2022-09-30 | 46 | 1 | 
-| 2022-09-29 | 46 | 1 | 
 

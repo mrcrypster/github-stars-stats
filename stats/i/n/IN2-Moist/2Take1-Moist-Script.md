@@ -1,6 +1,6 @@
 # IN2-Moist/2Take1-Moist-Script - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 54 | 19 | 
 | 2022-10-27 | 54 | 19 | 
 | 2022-10-26 | 54 | 19 | 
 | 2022-10-25 | 54 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 49 | 19 | 
 | 2022-09-30 | 49 | 19 | 
 | 2022-09-29 | 49 | 19 | 
-| 2022-09-28 | 49 | 19 | 
 

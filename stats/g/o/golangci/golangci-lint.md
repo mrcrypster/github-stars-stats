@@ -1,10 +1,10 @@
 # golangci/golangci-lint - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
-☋ Forks: 1120
+☋ Forks: 1121
 
-★ Stars: 11394
+★ Stars: 11401
 
 [Open repository](https://github.com/golangci/golangci-lint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 11401 | 1121 | 
 | 2022-10-27 | 11394 | 1120 | 
 | 2022-10-26 | 11390 | 1120 | 
 | 2022-10-25 | 11384 | 1119 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 11229 | 1095 | 
 | 2022-09-30 | 11226 | 1095 | 
 | 2022-09-29 | 11220 | 1095 | 
-| 2022-09-28 | 11216 | 1094 | 
 

@@ -1,6 +1,6 @@
 # 0x7ff/gaster - stars & forks statistics
 
-Stats updated on Oct 2022, 27
+Stats updated on Oct 2022, 28
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 27
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-28 | 117 | 36 | 
 | 2022-10-27 | 117 | 36 | 
 | 2022-10-26 | 116 | 36 | 
 | 2022-10-25 | 116 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 27
 | 2022-10-01 | 100 | 25 | 
 | 2022-09-30 | 100 | 25 | 
 | 2022-09-29 | 100 | 26 | 
-| 2022-09-28 | 98 | 26 | 
 
