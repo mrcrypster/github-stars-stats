@@ -1,10 +1,10 @@
 # apache/apisix-helm-chart - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 116
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/apache/apisix-helm-chart)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 128 | 116 | 
 | 2022-10-28 | 127 | 116 | 
 | 2022-10-27 | 127 | 117 | 
 | 2022-10-26 | 126 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 124 | 106 | 
 | 2022-10-01 | 124 | 106 | 
 | 2022-09-30 | 124 | 105 | 
-| 2022-09-29 | 123 | 104 | 
 

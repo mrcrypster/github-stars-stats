@@ -1,10 +1,10 @@
 # noib3/nvim-compleet - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 10
 
-★ Stars: 509
+★ Stars: 510
 
 [Open repository](https://github.com/noib3/nvim-compleet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 510 | 10 | 
 | 2022-10-28 | 509 | 10 | 
 | 2022-10-27 | 509 | 10 | 
 | 2022-10-26 | 509 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 495 | 10 | 
 | 2022-10-01 | 495 | 10 | 
 | 2022-09-30 | 496 | 10 | 
-| 2022-09-29 | 496 | 10 | 
 

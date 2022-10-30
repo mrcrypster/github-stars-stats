@@ -1,10 +1,10 @@
 # TianZerL/ACNetGLSL - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 4
 
-★ Stars: 90
+★ Stars: 89
 
 [Open repository](https://github.com/TianZerL/ACNetGLSL)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 89 | 4 | 
 | 2022-10-28 | 90 | 4 | 
 | 2022-10-27 | 90 | 4 | 
 | 2022-10-26 | 90 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 89 | 4 | 
 | 2022-10-01 | 89 | 4 | 
 | 2022-09-30 | 88 | 4 | 
-| 2022-09-29 | 88 | 4 | 
 

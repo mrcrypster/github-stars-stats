@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 29
 
-☋ Forks: 10
+☋ Forks: 12
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/maykbrito/nlw-copa-card)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 15 | 10 | 
+| 2022-10-29 | 16 | 12 | 
 | 2022-10-28 | 14 | 9 | 
 

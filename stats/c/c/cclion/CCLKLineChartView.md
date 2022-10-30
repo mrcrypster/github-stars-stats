@@ -1,6 +1,6 @@
 # cclion/CCLKLineChartView - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 100 | 17 | 
 | 2022-10-28 | 100 | 17 | 
 | 2022-10-27 | 100 | 17 | 
 | 2022-10-26 | 100 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 100 | 17 | 
 | 2022-10-01 | 100 | 17 | 
 | 2022-09-30 | 100 | 17 | 
-| 2022-09-29 | 100 | 17 | 
 

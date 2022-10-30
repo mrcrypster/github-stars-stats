@@ -1,10 +1,10 @@
 # gopherjs/gopherjs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 537
 
-★ Stars: 11551
+★ Stars: 11553
 
 [Open repository](https://github.com/gopherjs/gopherjs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 11553 | 537 | 
 | 2022-10-28 | 11551 | 537 | 
 | 2022-10-27 | 11548 | 537 | 
 | 2022-10-26 | 11544 | 537 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 11504 | 530 | 
 | 2022-10-02 | 11503 | 528 | 
 | 2022-10-01 | 11498 | 528 | 
-| 2022-09-30 | 11492 | 528 | 
 

@@ -1,10 +1,10 @@
 # redis-rs/redis-rs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 410
 
-★ Stars: 2696
+★ Stars: 2697
 
 [Open repository](https://github.com/redis-rs/redis-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2697 | 410 | 
 | 2022-10-28 | 2696 | 410 | 
 | 2022-10-27 | 2696 | 410 | 
 | 2022-10-26 | 2694 | 410 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2661 | 404 | 
 | 2022-10-01 | 2659 | 404 | 
 | 2022-09-30 | 2657 | 404 | 
-| 2022-09-29 | 2656 | 404 | 
 

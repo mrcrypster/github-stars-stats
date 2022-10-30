@@ -1,10 +1,10 @@
 # MazeWave/Vanilla-Raytraced - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 2
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/MazeWave/Vanilla-Raytraced)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 29 | 2 | 
 | 2022-10-28 | 28 | 2 | 
 | 2022-10-27 | 28 | 2 | 
 | 2022-10-26 | 28 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 27 | 2 | 
 | 2022-10-01 | 27 | 2 | 
 | 2022-09-30 | 27 | 2 | 
-| 2022-09-29 | 27 | 2 | 
 

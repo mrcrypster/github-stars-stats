@@ -1,6 +1,6 @@
 # binary-com/perl-Cache-RedisDB - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2 | 6 | 
 | 2022-10-28 | 2 | 6 | 
 | 2022-10-27 | 2 | 6 | 
 | 2022-10-26 | 2 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 2 | 5 | 
 | 2022-10-02 | 2 | 5 | 
 | 2022-10-01 | 2 | 5 | 
-| 2022-09-30 | 2 | 5 | 
 

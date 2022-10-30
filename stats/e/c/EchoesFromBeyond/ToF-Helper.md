@@ -1,10 +1,10 @@
 # EchoesFromBeyond/ToF-Helper - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 4
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/EchoesFromBeyond/ToF-Helper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 8 | 4 | 
 | 2022-10-28 | 7 | 4 | 
 | 2022-10-27 | 7 | 4 | 
 | 2022-10-26 | 7 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 6 | 4 | 
 | 2022-10-01 | 6 | 4 | 
 | 2022-09-30 | 6 | 4 | 
-| 2022-09-29 | 6 | 4 | 
 

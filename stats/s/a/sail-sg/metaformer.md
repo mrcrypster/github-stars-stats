@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 3
 
-★ Stars: 86
+★ Stars: 89
 
 [Open repository](https://github.com/sail-sg/metaformer)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 86 | 3 | 
+| 2022-10-29 | 89 | 3 | 
 | 2022-10-28 | 85 | 3 | 
 

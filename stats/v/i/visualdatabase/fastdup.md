@@ -1,10 +1,10 @@
 # visualdatabase/fastdup - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 23
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/visualdatabase/fastdup)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 389 | 23 | 
 | 2022-10-28 | 388 | 23 | 
 | 2022-10-27 | 387 | 23 | 
 | 2022-10-26 | 381 | 23 | 

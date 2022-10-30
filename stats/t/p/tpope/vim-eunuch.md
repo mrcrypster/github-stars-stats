@@ -1,6 +1,6 @@
 # tpope/vim-eunuch - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1653 | 67 | 
 | 2022-10-28 | 1653 | 67 | 
 | 2022-10-27 | 1653 | 67 | 
 | 2022-10-26 | 1653 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1643 | 65 | 
 | 2022-10-01 | 1642 | 65 | 
 | 2022-09-30 | 1642 | 65 | 
-| 2022-09-29 | 1642 | 65 | 
 

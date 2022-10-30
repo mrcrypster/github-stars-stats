@@ -1,8 +1,8 @@
 # geekcompany/ResumeSample - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 9055
+☋ Forks: 9056
 
 ★ Stars: 25605
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 25605 | 9056 | 
 | 2022-10-28 | 25605 | 9055 | 
 | 2022-10-27 | 25602 | 9056 | 
 | 2022-10-26 | 25599 | 9056 | 

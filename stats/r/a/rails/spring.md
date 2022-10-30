@@ -1,8 +1,8 @@
 # rails/spring - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 336
+☋ Forks: 335
 
 ★ Stars: 2746
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2746 | 335 | 
 | 2022-10-28 | 2746 | 336 | 
 | 2022-10-27 | 2746 | 336 | 
 | 2022-10-26 | 2746 | 336 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2743 | 333 | 
 | 2022-10-01 | 2743 | 333 | 
 | 2022-09-30 | 2743 | 333 | 
-| 2022-09-29 | 2743 | 333 | 
 

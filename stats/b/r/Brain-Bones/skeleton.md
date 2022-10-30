@@ -1,10 +1,10 @@
 # Brain-Bones/skeleton - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 37
+☋ Forks: 36
 
-★ Stars: 462
+★ Stars: 465
 
 [Open repository](https://github.com/Brain-Bones/skeleton)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 465 | 36 | 
 | 2022-10-28 | 462 | 37 | 
 | 2022-10-27 | 460 | 36 | 
 | 2022-10-26 | 459 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 384 | 27 | 
 | 2022-10-01 | 381 | 26 | 
 | 2022-09-30 | 378 | 26 | 
-| 2022-09-29 | 375 | 26 | 
 

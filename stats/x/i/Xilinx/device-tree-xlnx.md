@@ -1,6 +1,6 @@
 # Xilinx/device-tree-xlnx - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 157 | 175 | 
 | 2022-10-28 | 157 | 175 | 
 | 2022-10-27 | 157 | 175 | 
 | 2022-10-26 | 157 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 154 | 175 | 
 | 2022-10-01 | 154 | 175 | 
 | 2022-09-30 | 154 | 175 | 
-| 2022-09-29 | 154 | 175 | 
 

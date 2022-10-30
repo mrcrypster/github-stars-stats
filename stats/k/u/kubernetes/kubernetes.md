@@ -1,10 +1,10 @@
 # kubernetes/kubernetes - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 34195
+☋ Forks: 34200
 
-★ Stars: 93245
+★ Stars: 93270
 
 [Open repository](https://github.com/kubernetes/kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 93270 | 34200 | 
 | 2022-10-28 | 93245 | 34195 | 
 | 2022-10-27 | 93218 | 34182 | 
 | 2022-10-26 | 93190 | 34170 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 92521 | 33928 | 
 | 2022-10-01 | 92493 | 33927 | 
 | 2022-09-30 | 92473 | 33920 | 
-| 2022-09-29 | 92443 | 33908 | 
 

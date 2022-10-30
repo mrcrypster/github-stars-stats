@@ -1,10 +1,10 @@
 # material-components/material-components-ios - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 911
 
-★ Stars: 4578
+★ Stars: 4579
 
 [Open repository](https://github.com/material-components/material-components-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4579 | 911 | 
 | 2022-10-28 | 4578 | 911 | 
 | 2022-10-27 | 4578 | 911 | 
 | 2022-10-26 | 4578 | 911 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 4573 | 910 | 
 | 2022-10-01 | 4573 | 910 | 
 | 2022-09-30 | 4573 | 910 | 
-| 2022-09-29 | 4573 | 910 | 
 

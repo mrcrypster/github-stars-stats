@@ -1,6 +1,6 @@
 # spryker/spryker-docs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 65
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 6 | 65 | 
+| 2022-10-29 | 6 | 65 | 
 | 2022-10-28 | 6 | 65 | 
 | 2022-10-27 | 6 | 65 | 
 | 2022-10-26 | 6 | 65 | 
@@ -41,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 6 | 62 | 
 | 2022-10-02 | 6 | 62 | 
 | 2022-10-01 | 5 | 62 | 
-| 2022-09-29 | 5 | 61 | 
 

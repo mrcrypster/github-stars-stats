@@ -1,6 +1,6 @@
 # harrywang/tailpages - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 16 | 37 | 
 | 2022-10-28 | 16 | 37 | 
 | 2022-10-27 | 15 | 38 | 
 | 2022-10-26 | 15 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 14 | 36 | 
 | 2022-10-01 | 13 | 36 | 
 | 2022-09-30 | 13 | 36 | 
-| 2022-09-29 | 13 | 36 | 
 

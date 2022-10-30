@@ -1,6 +1,6 @@
 # SwiftUIX/SwiftUIX - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 325
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 5072 | 325 | 
 | 2022-10-28 | 5072 | 325 | 
 | 2022-10-27 | 5072 | 325 | 
 | 2022-10-26 | 5070 | 325 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 5024 | 321 | 
 | 2022-10-01 | 5021 | 321 | 
 | 2022-09-30 | 5022 | 321 | 
-| 2022-09-29 | 5020 | 321 | 
 

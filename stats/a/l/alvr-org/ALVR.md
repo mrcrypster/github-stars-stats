@@ -1,8 +1,8 @@
 # alvr-org/ALVR - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 280
+☋ Forks: 279
 
 ★ Stars: 2842
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2842 | 279 | 
 | 2022-10-28 | 2842 | 280 | 
 | 2022-10-27 | 2839 | 281 | 
 | 2022-10-26 | 2838 | 280 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2772 | 273 | 
 | 2022-10-01 | 2769 | 272 | 
 | 2022-09-30 | 2766 | 271 | 
-| 2022-09-29 | 2766 | 271 | 
 

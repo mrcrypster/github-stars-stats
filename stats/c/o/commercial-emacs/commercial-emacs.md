@@ -1,6 +1,6 @@
 # commercial-emacs/commercial-emacs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 284 | 6 | 
 | 2022-10-28 | 284 | 6 | 
 | 2022-10-27 | 283 | 6 | 
 | 2022-10-26 | 283 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 265 | 6 | 
 | 2022-10-01 | 265 | 6 | 
 | 2022-09-30 | 265 | 6 | 
-| 2022-09-29 | 265 | 6 | 
 

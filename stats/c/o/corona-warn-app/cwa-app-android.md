@@ -1,10 +1,10 @@
 # corona-warn-app/cwa-app-android - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 510
 
-★ Stars: 2497
+★ Stars: 2496
 
 [Open repository](https://github.com/corona-warn-app/cwa-app-android)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2496 | 510 | 
 | 2022-10-28 | 2497 | 510 | 
 | 2022-10-27 | 2497 | 510 | 
 | 2022-10-26 | 2497 | 510 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2497 | 514 | 
 | 2022-10-01 | 2495 | 514 | 
 | 2022-09-30 | 2495 | 514 | 
-| 2022-09-29 | 2495 | 514 | 
 

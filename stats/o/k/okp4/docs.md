@@ -1,10 +1,10 @@
 # okp4/docs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/okp4/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 29 | 6 | 
 | 2022-10-28 | 28 | 6 | 
 | 2022-10-27 | 28 | 6 | 
 | 2022-10-26 | 28 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 24 | 1 | 
 | 2022-10-01 | 24 | 1 | 
 | 2022-09-30 | 24 | 1 | 
-| 2022-09-29 | 24 | 1 | 
 

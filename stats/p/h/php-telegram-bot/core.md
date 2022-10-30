@@ -1,10 +1,10 @@
 # php-telegram-bot/core - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 902
+☋ Forks: 901
 
-★ Stars: 3304
+★ Stars: 3307
 
 [Open repository](https://github.com/php-telegram-bot/core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3307 | 901 | 
 | 2022-10-28 | 3304 | 902 | 
 | 2022-10-27 | 3302 | 902 | 
 | 2022-10-26 | 3299 | 902 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3269 | 894 | 
 | 2022-10-01 | 3268 | 892 | 
 | 2022-09-30 | 3266 | 891 | 
-| 2022-09-29 | 3265 | 891 | 
 

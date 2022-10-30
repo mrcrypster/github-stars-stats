@@ -1,10 +1,10 @@
 # pyalot/webgl-heatmap - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 147
 
-★ Stars: 900
+★ Stars: 901
 
 [Open repository](https://github.com/pyalot/webgl-heatmap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 901 | 147 | 
 | 2022-10-28 | 900 | 147 | 
 | 2022-10-27 | 900 | 147 | 
 | 2022-10-26 | 900 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 900 | 148 | 
 | 2022-10-01 | 900 | 148 | 
 | 2022-09-30 | 900 | 148 | 
-| 2022-09-29 | 900 | 148 | 
 

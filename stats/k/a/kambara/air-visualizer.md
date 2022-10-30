@@ -1,6 +1,6 @@
 # kambara/air-visualizer - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 117 | 8 | 
 | 2022-10-28 | 117 | 8 | 
 | 2022-10-27 | 117 | 8 | 
 | 2022-10-26 | 117 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 113 | 7 | 
 | 2022-10-02 | 113 | 7 | 
 | 2022-10-01 | 113 | 7 | 
-| 2022-09-30 | 113 | 7 | 
 

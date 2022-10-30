@@ -1,6 +1,6 @@
 # Vexu/arocc - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 401 | 15 | 
 | 2022-10-28 | 401 | 15 | 
 | 2022-10-27 | 400 | 15 | 
 | 2022-10-26 | 399 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 389 | 16 | 
 | 2022-10-01 | 389 | 16 | 
 | 2022-09-30 | 389 | 16 | 
-| 2022-09-29 | 389 | 16 | 
 

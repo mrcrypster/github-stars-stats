@@ -1,8 +1,8 @@
 # MarlinFirmware/Configurations - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 2714
+☋ Forks: 2718
 
 ★ Stars: 1465
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1465 | 2718 | 
 | 2022-10-28 | 1465 | 2714 | 
 | 2022-10-27 | 1464 | 2710 | 
 | 2022-10-26 | 1463 | 2710 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1436 | 2663 | 
 | 2022-10-01 | 1434 | 2659 | 
 | 2022-09-30 | 1432 | 2656 | 
-| 2022-09-29 | 1431 | 2654 | 
 

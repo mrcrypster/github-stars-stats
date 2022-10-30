@@ -1,6 +1,6 @@
 # dependency-check/dependency-check-gradle - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 275 | 75 | 
 | 2022-10-28 | 275 | 75 | 
 | 2022-10-27 | 275 | 75 | 
 | 2022-10-26 | 275 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 274 | 74 | 
 | 2022-10-01 | 274 | 73 | 
 | 2022-09-30 | 274 | 73 | 
-| 2022-09-29 | 274 | 73 | 
 

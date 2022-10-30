@@ -1,8 +1,8 @@
 # cloudflare/terraform-provider-cloudflare - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 371
+☋ Forks: 370
 
 ★ Stars: 452
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 452 | 370 | 
 | 2022-10-29 | 452 | 371 | 
 | 2022-10-28 | 452 | 370 | 
 | 2022-10-27 | 451 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 438 | 361 | 
 | 2022-10-01 | 437 | 361 | 
 | 2022-09-30 | 437 | 361 | 
-| 2022-09-29 | 436 | 359 | 
 

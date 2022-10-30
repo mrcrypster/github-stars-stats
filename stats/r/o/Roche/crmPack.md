@@ -1,6 +1,6 @@
 # Roche/crmPack - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 12 | 8 | 
+| 2022-10-29 | 12 | 8 | 
 | 2022-10-28 | 12 | 8 | 
 | 2022-10-27 | 12 | 8 | 
 

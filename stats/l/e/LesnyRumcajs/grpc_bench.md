@@ -1,6 +1,6 @@
 # LesnyRumcajs/grpc_bench - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 677 | 101 | 
 | 2022-10-28 | 677 | 101 | 
 | 2022-10-27 | 675 | 99 | 
 | 2022-10-26 | 673 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 642 | 93 | 
 | 2022-10-01 | 640 | 93 | 
 | 2022-09-30 | 639 | 93 | 
-| 2022-09-29 | 638 | 93 | 
 

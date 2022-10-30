@@ -1,8 +1,8 @@
 # FIRST-Tech-Challenge/FtcRobotController - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 1851
+☋ Forks: 1856
 
 ★ Stars: 344
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 344 | 1856 | 
 | 2022-10-28 | 344 | 1851 | 
 | 2022-10-27 | 344 | 1844 | 
 | 2022-10-26 | 344 | 1839 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 329 | 1729 | 
 | 2022-10-01 | 328 | 1727 | 
 | 2022-09-30 | 326 | 1723 | 
-| 2022-09-29 | 324 | 1712 | 
 

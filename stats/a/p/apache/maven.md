@@ -1,6 +1,6 @@
 # apache/maven - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 2321
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3332 | 2321 | 
 | 2022-10-28 | 3332 | 2321 | 
 | 2022-10-27 | 3332 | 2320 | 
 | 2022-10-26 | 3331 | 2319 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3298 | 2304 | 
 | 2022-10-01 | 3296 | 2301 | 
 | 2022-09-30 | 3296 | 2301 | 
-| 2022-09-29 | 3294 | 2300 | 
 

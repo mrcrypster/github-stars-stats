@@ -1,10 +1,10 @@
 # cvg/nice-slam - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 92
+☋ Forks: 95
 
-★ Stars: 743
+★ Stars: 745
 
 [Open repository](https://github.com/cvg/nice-slam)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 745 | 95 | 
 | 2022-10-28 | 743 | 92 | 
 | 2022-10-27 | 743 | 91 | 
 | 2022-10-26 | 739 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 692 | 84 | 
 | 2022-10-01 | 692 | 83 | 
 | 2022-09-30 | 691 | 83 | 
-| 2022-09-29 | 687 | 83 | 
 

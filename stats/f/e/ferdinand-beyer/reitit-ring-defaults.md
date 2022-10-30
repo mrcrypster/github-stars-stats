@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/ferdinand-beyer/reitit-ring-defaults)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 18 | 1 | 
+| 2022-10-29 | 19 | 1 | 
 | 2022-10-28 | 18 | 1 | 
 

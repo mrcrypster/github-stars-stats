@@ -1,8 +1,8 @@
 # elastic/integrations - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 202
+☋ Forks: 201
 
 ★ Stars: 98
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 98 | 201 | 
 | 2022-10-28 | 98 | 202 | 
 | 2022-10-27 | 97 | 202 | 
 | 2022-10-26 | 96 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 91 | 201 | 
 | 2022-10-01 | 91 | 201 | 
 | 2022-09-30 | 92 | 200 | 
-| 2022-09-29 | 92 | 200 | 
 

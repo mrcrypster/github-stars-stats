@@ -1,10 +1,10 @@
 # JetBrains/kotlin - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 5309
+☋ Forks: 5314
 
-★ Stars: 42973
+★ Stars: 42981
 
 [Open repository](https://github.com/JetBrains/kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 42981 | 5314 | 
 | 2022-10-28 | 42973 | 5309 | 
 | 2022-10-27 | 42970 | 5309 | 
 | 2022-10-26 | 42961 | 5308 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 42737 | 5280 | 
 | 2022-10-01 | 42732 | 5278 | 
 | 2022-09-30 | 42725 | 5277 | 
-| 2022-09-29 | 42712 | 5274 | 
 

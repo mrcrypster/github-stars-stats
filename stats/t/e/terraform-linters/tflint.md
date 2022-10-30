@@ -1,8 +1,8 @@
 # terraform-linters/tflint - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 292
+☋ Forks: 291
 
 ★ Stars: 3447
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3447 | 291 | 
 | 2022-10-28 | 3447 | 292 | 
 | 2022-10-27 | 3445 | 291 | 
 | 2022-10-26 | 3442 | 290 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3392 | 284 | 
 | 2022-10-01 | 3391 | 284 | 
 | 2022-09-30 | 3391 | 284 | 
-| 2022-09-29 | 3388 | 284 | 
 

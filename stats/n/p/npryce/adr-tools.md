@@ -1,10 +1,10 @@
 # npryce/adr-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 508
 
-★ Stars: 3599
+★ Stars: 3602
 
 [Open repository](https://github.com/npryce/adr-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3602 | 508 | 
 | 2022-10-28 | 3599 | 508 | 
 | 2022-10-27 | 3595 | 507 | 
 | 2022-10-26 | 3594 | 507 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3555 | 502 | 
 | 2022-10-01 | 3556 | 502 | 
 | 2022-09-30 | 3554 | 502 | 
-| 2022-09-29 | 3552 | 502 | 
 

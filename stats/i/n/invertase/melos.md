@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 119
 
-★ Stars: 664
+★ Stars: 667
 
 [Open repository](https://github.com/invertase/melos)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 664 | 119 | 
+| 2022-10-29 | 667 | 119 | 
 | 2022-10-28 | 664 | 119 | 
 | 2022-10-27 | 661 | 117 | 
 | 2022-10-26 | 660 | 117 | 

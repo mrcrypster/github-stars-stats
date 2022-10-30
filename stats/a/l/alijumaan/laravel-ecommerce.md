@@ -1,6 +1,6 @@
 # alijumaan/laravel-ecommerce - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 100 | 55 | 
 | 2022-10-28 | 100 | 55 | 
 | 2022-10-27 | 100 | 55 | 
 | 2022-10-26 | 100 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 97 | 52 | 
 | 2022-10-01 | 97 | 51 | 
 | 2022-09-30 | 96 | 50 | 
-| 2022-09-29 | 96 | 50 | 
 

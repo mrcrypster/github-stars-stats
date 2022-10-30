@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/40ants/openrpc)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 2 | - | 
+| 2022-10-29 | 3 | - | 
 | 2022-10-28 | 2 | - | 
 

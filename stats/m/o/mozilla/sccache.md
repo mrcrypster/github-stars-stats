@@ -1,6 +1,6 @@
 # mozilla/sccache - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 380
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3316 | 380 | 
 | 2022-10-28 | 3316 | 380 | 
 | 2022-10-27 | 3315 | 379 | 
 | 2022-10-26 | 3311 | 378 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3257 | 378 | 
 | 2022-10-01 | 3257 | 378 | 
 | 2022-09-30 | 3256 | 377 | 
-| 2022-09-29 | 3253 | 376 | 
 

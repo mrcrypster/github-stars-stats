@@ -1,6 +1,6 @@
 # katychuang/cisc3140_lab3 - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2 | 14 | 
 | 2022-10-28 | 2 | 14 | 
 | 2022-10-27 | 2 | 14 | 
 | 2022-10-26 | 2 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2 | 14 | 
 | 2022-10-01 | 2 | 14 | 
 | 2022-09-30 | 2 | 14 | 
-| 2022-09-29 | 2 | 14 | 
 

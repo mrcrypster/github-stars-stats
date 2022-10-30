@@ -1,10 +1,10 @@
 # mbpowers/nvimager - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/mbpowers/nvimager)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 53 | 1 | 
 | 2022-10-28 | 52 | 1 | 
 | 2022-10-27 | 52 | 1 | 
 | 2022-10-26 | 52 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 52 | 1 | 
 | 2022-10-01 | 52 | 1 | 
 | 2022-09-30 | 52 | 1 | 
-| 2022-09-29 | 52 | 1 | 
 

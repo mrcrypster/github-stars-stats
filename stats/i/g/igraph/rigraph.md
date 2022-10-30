@@ -1,6 +1,6 @@
 # igraph/rigraph - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 176
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 451 | 176 | 
 | 2022-10-28 | 451 | 176 | 
 | 2022-10-27 | 451 | 176 | 
 | 2022-10-26 | 451 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 446 | 176 | 
 | 2022-10-01 | 445 | 176 | 
 | 2022-09-30 | 445 | 176 | 
-| 2022-09-29 | 445 | 176 | 
 

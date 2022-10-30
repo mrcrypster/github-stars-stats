@@ -1,6 +1,6 @@
 # deadc0de6/dotdrop - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1441 | 81 | 
 | 2022-10-28 | 1441 | 81 | 
 | 2022-10-27 | 1440 | 81 | 
 | 2022-10-26 | 1441 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 1425 | 79 | 
 | 2022-10-02 | 1425 | 78 | 
 | 2022-09-30 | 1422 | 78 | 
-| 2022-09-29 | 1420 | 78 | 
 

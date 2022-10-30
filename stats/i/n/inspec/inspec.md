@@ -1,10 +1,10 @@
 # inspec/inspec - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 671
 
-★ Stars: 2579
+★ Stars: 2580
 
 [Open repository](https://github.com/inspec/inspec)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2580 | 671 | 
 | 2022-10-28 | 2579 | 671 | 
 | 2022-10-27 | 2579 | 671 | 
 | 2022-10-26 | 2577 | 670 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2559 | 669 | 
 | 2022-10-01 | 2559 | 669 | 
 | 2022-09-30 | 2559 | 669 | 
-| 2022-09-29 | 2559 | 669 | 
 

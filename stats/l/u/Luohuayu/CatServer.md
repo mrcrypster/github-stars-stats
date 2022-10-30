@@ -1,10 +1,10 @@
 # Luohuayu/CatServer - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 170
 
-★ Stars: 1566
+★ Stars: 1565
 
 [Open repository](https://github.com/Luohuayu/CatServer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1565 | 170 | 
 | 2022-10-28 | 1566 | 170 | 
 | 2022-10-27 | 1567 | 170 | 
 | 2022-10-26 | 1567 | 171 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1555 | 170 | 
 | 2022-10-01 | 1555 | 169 | 
 | 2022-09-30 | 1553 | 168 | 
-| 2022-09-29 | 1553 | 168 | 
 

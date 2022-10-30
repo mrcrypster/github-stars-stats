@@ -1,6 +1,6 @@
 # roswell/roswell - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1552 | 118 | 
 | 2022-10-28 | 1552 | 118 | 
 | 2022-10-27 | 1551 | 118 | 
 | 2022-10-26 | 1551 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1541 | 118 | 
 | 2022-10-01 | 1540 | 118 | 
 | 2022-09-30 | 1540 | 118 | 
-| 2022-09-29 | 1540 | 118 | 
 

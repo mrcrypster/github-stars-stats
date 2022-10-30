@@ -1,10 +1,10 @@
 # a-schaefers/systemE - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 12
 
-★ Stars: 615
+★ Stars: 616
 
 [Open repository](https://github.com/a-schaefers/systemE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 616 | 12 | 
 | 2022-10-28 | 615 | 12 | 
 | 2022-10-27 | 615 | 12 | 
 | 2022-10-26 | 615 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 604 | 12 | 
 | 2022-10-01 | 604 | 12 | 
 | 2022-09-30 | 604 | 12 | 
-| 2022-09-29 | 604 | 12 | 
 

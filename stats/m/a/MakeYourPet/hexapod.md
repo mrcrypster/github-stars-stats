@@ -1,10 +1,10 @@
 # MakeYourPet/hexapod - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 13
 
-★ Stars: 231
+★ Stars: 236
 
 [Open repository](https://github.com/MakeYourPet/hexapod)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 236 | 13 | 
 | 2022-10-28 | 231 | 13 | 
 | 2022-10-27 | 228 | 13 | 
 | 2022-10-26 | 224 | 12 | 

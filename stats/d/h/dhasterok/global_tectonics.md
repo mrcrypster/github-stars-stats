@@ -1,6 +1,6 @@
 # dhasterok/global_tectonics - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 68 | 11 | 
 | 2022-10-28 | 68 | 11 | 
 | 2022-10-27 | 67 | 11 | 
 | 2022-10-26 | 66 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 65 | 10 | 
 | 2022-10-02 | 65 | 10 | 
 | 2022-09-30 | 65 | 10 | 
-| 2022-09-29 | 65 | 10 | 
 

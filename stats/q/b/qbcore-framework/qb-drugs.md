@@ -1,6 +1,6 @@
 # qbcore-framework/qb-drugs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 169
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 24 | 169 | 
 | 2022-10-28 | 24 | 169 | 
 | 2022-10-27 | 24 | 170 | 
 | 2022-10-26 | 24 | 171 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 23 | 176 | 
 | 2022-10-01 | 23 | 177 | 
 | 2022-09-30 | 23 | 178 | 
-| 2022-09-29 | 23 | 178 | 
 

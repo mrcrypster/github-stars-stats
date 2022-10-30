@@ -1,10 +1,10 @@
 # hzbnb/affair - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 40
+☋ Forks: 42
 
-★ Stars: 68
+★ Stars: 70
 
 [Open repository](https://github.com/hzbnb/affair)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 70 | 42 | 
 | 2022-10-28 | 68 | 40 | 
 | 2022-10-27 | 67 | 40 | 
 | 2022-10-26 | 66 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 48 | 34 | 
 | 2022-10-01 | 46 | 34 | 
 | 2022-09-30 | 46 | 34 | 
-| 2022-09-29 | 41 | 31 | 
 

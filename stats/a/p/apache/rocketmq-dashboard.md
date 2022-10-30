@@ -1,8 +1,8 @@
 # apache/rocketmq-dashboard - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 262
+☋ Forks: 263
 
 ★ Stars: 553
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 553 | 263 | 
 | 2022-10-28 | 553 | 262 | 
 | 2022-10-27 | 553 | 260 | 
 | 2022-10-26 | 549 | 260 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 528 | 254 | 
 | 2022-10-01 | 528 | 254 | 
 | 2022-09-30 | 525 | 253 | 
-| 2022-09-29 | 524 | 252 | 
 

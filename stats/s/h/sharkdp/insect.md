@@ -1,10 +1,10 @@
 # sharkdp/insect - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 114
 
-★ Stars: 2822
+★ Stars: 2823
 
 [Open repository](https://github.com/sharkdp/insect)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2823 | 114 | 
 | 2022-10-28 | 2822 | 114 | 
 | 2022-10-27 | 2822 | 114 | 
 | 2022-10-26 | 2822 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2801 | 111 | 
 | 2022-10-01 | 2801 | 111 | 
 | 2022-09-30 | 2801 | 111 | 
-| 2022-09-29 | 2800 | 111 | 
 

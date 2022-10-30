@@ -1,6 +1,6 @@
 # nf-core/bacass - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 37 | 26 | 
 | 2022-10-28 | 37 | 26 | 
 | 2022-10-27 | 37 | 26 | 
 | 2022-10-26 | 37 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 37 | 27 | 
 | 2022-10-02 | 37 | 27 | 
 | 2022-09-30 | 37 | 27 | 
-| 2022-09-29 | 37 | 27 | 
 

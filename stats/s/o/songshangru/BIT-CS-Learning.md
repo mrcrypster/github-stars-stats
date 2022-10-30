@@ -1,6 +1,6 @@
 # songshangru/BIT-CS-Learning - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 64 | 36 | 
 | 2022-10-28 | 64 | 36 | 
 | 2022-10-27 | 63 | 36 | 
 | 2022-10-26 | 62 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 58 | 33 | 
 | 2022-10-01 | 58 | 32 | 
 | 2022-09-30 | 58 | 32 | 
-| 2022-09-29 | 58 | 32 | 
 

@@ -1,10 +1,10 @@
 # microsoft/sbom-tool - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 48
 
-★ Stars: 873
+★ Stars: 874
 
 [Open repository](https://github.com/microsoft/sbom-tool)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 874 | 48 | 
 | 2022-10-28 | 873 | 48 | 
 | 2022-10-27 | 870 | 48 | 
 | 2022-10-26 | 868 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 836 | 46 | 
 | 2022-10-02 | 836 | 46 | 
 | 2022-10-01 | 836 | 46 | 
-| 2022-09-30 | 835 | 46 | 
 

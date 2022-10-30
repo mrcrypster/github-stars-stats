@@ -1,10 +1,10 @@
 # iamakhileshmishra/Mini_Projects_JavaScript - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 22
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/iamakhileshmishra/Mini_Projects_JavaScript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 7 | 22 | 
 | 2022-10-28 | 6 | 22 | 
 | 2022-10-27 | 6 | 21 | 
 | 2022-10-26 | 6 | 18 | 

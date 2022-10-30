@@ -1,6 +1,6 @@
 # Advanced-Frontend/Daily-Interview-Question - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 3287
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 26278 | 3287 | 
 | 2022-10-28 | 26278 | 3287 | 
 | 2022-10-27 | 26273 | 3287 | 
 | 2022-10-26 | 26270 | 3287 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 26229 | 3282 | 
 | 2022-10-01 | 26228 | 3281 | 
 | 2022-09-30 | 26226 | 3281 | 
-| 2022-09-29 | 26225 | 3281 | 
 

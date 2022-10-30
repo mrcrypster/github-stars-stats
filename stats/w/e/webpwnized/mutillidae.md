@@ -1,6 +1,6 @@
 # webpwnized/mutillidae - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 279
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 884 | 279 | 
 | 2022-10-28 | 884 | 279 | 
 | 2022-10-27 | 883 | 278 | 
 | 2022-10-26 | 883 | 278 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 863 | 275 | 
 | 2022-10-01 | 863 | 275 | 
 | 2022-09-30 | 862 | 275 | 
-| 2022-09-29 | 862 | 274 | 
 

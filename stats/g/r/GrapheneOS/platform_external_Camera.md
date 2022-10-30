@@ -1,10 +1,10 @@
 # GrapheneOS/platform_external_Camera - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/GrapheneOS/platform_external_Camera)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 18 | 6 | 
 | 2022-10-28 | 17 | 6 | 
 | 2022-10-27 | 17 | 6 | 
 | 2022-10-26 | 17 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 17 | 6 | 
 | 2022-10-01 | 17 | 6 | 
 | 2022-09-30 | 16 | 6 | 
-| 2022-09-29 | 16 | 6 | 
 

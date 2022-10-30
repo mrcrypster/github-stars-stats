@@ -1,6 +1,6 @@
 # memN0ps/srdi-rs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 155 | 15 | 
 | 2022-10-28 | 155 | 15 | 
 | 2022-10-27 | 155 | 15 | 
 | 2022-10-26 | 154 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 144 | 12 | 
 | 2022-10-01 | 142 | 12 | 
 | 2022-09-30 | 140 | 12 | 
-| 2022-09-29 | 137 | 12 | 
 

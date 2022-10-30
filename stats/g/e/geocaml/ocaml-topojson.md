@@ -1,10 +1,10 @@
 # geocaml/ocaml-topojson - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 11
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/geocaml/ocaml-topojson)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 8 | 11 | 
 | 2022-10-28 | 7 | 11 | 
 | 2022-10-27 | 7 | 11 | 
 | 2022-10-26 | 7 | 11 | 

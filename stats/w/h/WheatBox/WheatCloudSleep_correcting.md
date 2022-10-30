@@ -1,10 +1,10 @@
 # WheatBox/WheatCloudSleep_correcting - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 36
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/WheatBox/WheatCloudSleep_correcting)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 305 | 36 | 
 | 2022-10-28 | 304 | 36 | 
 | 2022-10-27 | 305 | 36 | 
 | 2022-10-26 | 305 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 294 | 35 | 
 | 2022-10-01 | 294 | 35 | 
 | 2022-09-30 | 293 | 35 | 
-| 2022-09-29 | 293 | 35 | 
 

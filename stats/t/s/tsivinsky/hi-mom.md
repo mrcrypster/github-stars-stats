@@ -1,6 +1,6 @@
 # tsivinsky/hi-mom - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 316 | 43 | 
 | 2022-10-28 | 316 | 43 | 
 | 2022-10-27 | 316 | 43 | 
 | 2022-10-26 | 316 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 315 | 43 | 
 | 2022-10-01 | 315 | 43 | 
 | 2022-09-30 | 315 | 43 | 
-| 2022-09-29 | 315 | 43 | 
 

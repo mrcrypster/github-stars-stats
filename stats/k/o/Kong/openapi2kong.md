@@ -1,10 +1,10 @@
 # Kong/openapi2kong - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/Kong/openapi2kong)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 5 | - | 
 | 2022-10-28 | 4 | - | 
 | 2022-10-27 | 4 | - | 
 | 2022-10-26 | 4 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 4 | - | 
 | 2022-10-01 | 4 | - | 
 | 2022-09-30 | 4 | - | 
-| 2022-09-29 | 4 | - | 
 

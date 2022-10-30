@@ -1,10 +1,10 @@
 # Hackplayers/evil-winrm - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 494
 
-★ Stars: 2998
+★ Stars: 2999
 
 [Open repository](https://github.com/Hackplayers/evil-winrm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2999 | 494 | 
 | 2022-10-28 | 2998 | 494 | 
 | 2022-10-27 | 2998 | 494 | 
 | 2022-10-26 | 2996 | 494 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2946 | 490 | 
 | 2022-10-01 | 2944 | 490 | 
 | 2022-09-30 | 2942 | 490 | 
-| 2022-09-29 | 2942 | 490 | 
 

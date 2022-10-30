@@ -1,10 +1,10 @@
 # holographxyz/holograph-protocol - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/holographxyz/holograph-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 17 | 1 | 
 | 2022-10-28 | 16 | 1 | 
 | 2022-10-27 | 16 | 1 | 
 | 2022-10-26 | 16 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 15 | 1 | 
 | 2022-10-01 | 15 | 1 | 
 | 2022-09-30 | 15 | 1 | 
-| 2022-09-29 | 15 | 1 | 
 

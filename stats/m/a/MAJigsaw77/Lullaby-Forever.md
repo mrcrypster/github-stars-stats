@@ -1,10 +1,10 @@
 # MAJigsaw77/Lullaby-Forever - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 13
 
 [Open repository](https://github.com/MAJigsaw77/Lullaby-Forever)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 10 | 4 | 
+| 2022-10-30 | 13 | 4 | 
+| 2022-10-29 | 13 | 4 | 
 | 2022-10-28 | 9 | 4 | 
 

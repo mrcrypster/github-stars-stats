@@ -1,8 +1,8 @@
 # xmake-io/xmake-repo - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 154
+☋ Forks: 153
 
 ★ Stars: 315
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 315 | 153 | 
 | 2022-10-28 | 315 | 154 | 
 | 2022-10-27 | 315 | 154 | 
 | 2022-10-26 | 315 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 301 | 152 | 
 | 2022-10-02 | 300 | 152 | 
 | 2022-10-01 | 300 | 152 | 
-| 2022-09-30 | 300 | 152 | 
 

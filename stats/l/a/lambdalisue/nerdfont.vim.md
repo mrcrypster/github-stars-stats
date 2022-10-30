@@ -1,10 +1,10 @@
 # lambdalisue/nerdfont.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 10
 
-★ Stars: 97
+★ Stars: 98
 
 [Open repository](https://github.com/lambdalisue/nerdfont.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 98 | 10 | 
 | 2022-10-28 | 97 | 10 | 
 | 2022-10-27 | 97 | 10 | 
 

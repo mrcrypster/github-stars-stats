@@ -1,10 +1,10 @@
 # htr-tech/nexphisher - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 520
 
-★ Stars: 2617
+★ Stars: 2619
 
 [Open repository](https://github.com/htr-tech/nexphisher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2619 | 520 | 
 | 2022-10-28 | 2617 | 520 | 
 | 2022-10-27 | 2616 | 519 | 
 | 2022-10-26 | 2614 | 519 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2568 | 502 | 
 | 2022-10-01 | 2567 | 502 | 
 | 2022-09-30 | 2565 | 502 | 
-| 2022-09-29 | 2564 | 502 | 
 

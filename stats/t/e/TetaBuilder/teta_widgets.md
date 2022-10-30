@@ -1,6 +1,6 @@
 # TetaBuilder/teta_widgets - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 121 | 19 | 
 | 2022-10-28 | 121 | 19 | 
 | 2022-10-27 | 121 | 19 | 
 | 2022-10-26 | 121 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 119 | 19 | 
 | 2022-10-01 | 119 | 19 | 
 | 2022-09-30 | 119 | 19 | 
-| 2022-09-29 | 118 | 19 | 
 

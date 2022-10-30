@@ -1,6 +1,6 @@
 # RicoSuter/NSwag - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1044
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 5456 | 1044 | 
 | 2022-10-28 | 5456 | 1044 | 
 | 2022-10-27 | 5453 | 1044 | 
 | 2022-10-26 | 5453 | 1043 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 5398 | 1028 | 
 | 2022-10-01 | 5398 | 1028 | 
 | 2022-09-30 | 5397 | 1027 | 
-| 2022-09-29 | 5395 | 1026 | 
 

@@ -1,10 +1,10 @@
 # treeform/fidget - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 30
 
-★ Stars: 642
+★ Stars: 644
 
 [Open repository](https://github.com/treeform/fidget)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 644 | 30 | 
 | 2022-10-28 | 642 | 30 | 
 | 2022-10-27 | 642 | 30 | 
 | 2022-10-26 | 642 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 640 | 30 | 
 | 2022-10-01 | 640 | 30 | 
 | 2022-09-30 | 638 | 30 | 
-| 2022-09-29 | 627 | 30 | 
 

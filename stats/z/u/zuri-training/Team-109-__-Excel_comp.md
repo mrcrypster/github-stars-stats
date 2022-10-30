@@ -1,6 +1,6 @@
 # zuri-training/Team-109-__-Excel_comp - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3 | 34 | 
 | 2022-10-28 | 3 | 34 | 
 | 2022-10-27 | 3 | 34 | 
 | 2022-10-26 | 3 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3 | 34 | 
 | 2022-10-01 | 3 | 34 | 
 | 2022-09-30 | 3 | 34 | 
-| 2022-09-29 | 3 | 34 | 
 

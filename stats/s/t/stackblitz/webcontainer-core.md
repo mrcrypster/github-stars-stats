@@ -1,10 +1,10 @@
 # stackblitz/webcontainer-core - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 96
 
-★ Stars: 2407
+★ Stars: 2410
 
 [Open repository](https://github.com/stackblitz/webcontainer-core)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2410 | 96 | 
 | 2022-10-28 | 2407 | 96 | 
 | 2022-10-27 | 2404 | 96 | 
 | 2022-10-26 | 2402 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2347 | 93 | 
 | 2022-10-01 | 2346 | 93 | 
 | 2022-09-30 | 2346 | 93 | 
-| 2022-09-29 | 2345 | 93 | 
 

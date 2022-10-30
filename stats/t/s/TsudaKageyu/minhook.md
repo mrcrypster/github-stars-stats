@@ -1,6 +1,6 @@
 # TsudaKageyu/minhook - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 705
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2964 | 705 | 
 | 2022-10-28 | 2964 | 705 | 
 | 2022-10-27 | 2962 | 705 | 
 | 2022-10-26 | 2961 | 705 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2929 | 701 | 
 | 2022-10-01 | 2927 | 701 | 
 | 2022-09-30 | 2924 | 701 | 
-| 2022-09-29 | 2922 | 700 | 
 

@@ -1,8 +1,8 @@
 # brewchetta/phase-3-practice-code-challenge-animal-shelter - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 58
+☋ Forks: 56
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | - | 56 | 
 | 2022-10-28 | - | 58 | 
 | 2022-10-27 | - | 58 | 
 | 2022-10-26 | - | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | - | 53 | 
 | 2022-10-01 | - | 53 | 
 | 2022-09-30 | - | 53 | 
-| 2022-09-29 | - | 53 | 
 

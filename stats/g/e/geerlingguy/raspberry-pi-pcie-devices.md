@@ -1,10 +1,10 @@
 # geerlingguy/raspberry-pi-pcie-devices - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 100
+☋ Forks: 98
 
-★ Stars: 1146
+★ Stars: 1147
 
 [Open repository](https://github.com/geerlingguy/raspberry-pi-pcie-devices)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1147 | 98 | 
 | 2022-10-28 | 1146 | 100 | 
 | 2022-10-27 | 1146 | 100 | 
 | 2022-10-26 | 1146 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1136 | 98 | 
 | 2022-10-01 | 1137 | 97 | 
 | 2022-09-30 | 1136 | 97 | 
-| 2022-09-29 | 1136 | 97 | 
 

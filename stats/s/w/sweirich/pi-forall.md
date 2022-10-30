@@ -1,6 +1,6 @@
 # sweirich/pi-forall - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 452 | 79 | 
 | 2022-10-28 | 452 | 79 | 
 | 2022-10-27 | 452 | 79 | 
 | 2022-10-26 | 452 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 452 | 80 | 
 | 2022-10-01 | 452 | 79 | 
 | 2022-09-30 | 452 | 79 | 
-| 2022-09-29 | 452 | 79 | 
 

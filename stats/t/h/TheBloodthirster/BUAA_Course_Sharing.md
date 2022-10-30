@@ -1,10 +1,10 @@
 # TheBloodthirster/BUAA_Course_Sharing - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 204
 
-★ Stars: 825
+★ Stars: 826
 
 [Open repository](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 826 | 204 | 
 | 2022-10-28 | 825 | 204 | 
 | 2022-10-27 | 824 | 204 | 
 | 2022-10-26 | 823 | 204 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 803 | 201 | 
 | 2022-10-01 | 803 | 201 | 
 | 2022-09-30 | 803 | 201 | 
-| 2022-09-29 | 802 | 201 | 
 

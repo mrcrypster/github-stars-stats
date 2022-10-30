@@ -1,10 +1,10 @@
 # ridvanaltun/react-native-deepar - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 7
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/ridvanaltun/react-native-deepar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 75 | 7 | 
 | 2022-10-28 | 74 | 7 | 
 | 2022-10-27 | 74 | 7 | 
 | 2022-10-26 | 74 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 71 | 5 | 
 | 2022-10-02 | 71 | 5 | 
 | 2022-10-01 | 70 | 5 | 
-| 2022-09-30 | 70 | 5 | 
 

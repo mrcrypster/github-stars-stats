@@ -1,10 +1,10 @@
 # indra0421/navbar - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 9
+★ Stars: 11
 
 [Open repository](https://github.com/indra0421/navbar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 11 | 17 | 
 | 2022-10-28 | 9 | 15 | 
 | 2022-10-27 | 10 | 15 | 
 | 2022-10-26 | 10 | 15 | 

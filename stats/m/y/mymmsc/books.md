@@ -1,6 +1,6 @@
 # mymmsc/books - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 823
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1864 | 823 | 
 | 2022-10-28 | 1864 | 823 | 
 | 2022-10-27 | 1863 | 822 | 
 | 2022-10-26 | 1862 | 822 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1842 | 813 | 
 | 2022-10-01 | 1842 | 813 | 
 | 2022-09-30 | 1842 | 812 | 
-| 2022-09-29 | 1840 | 810 | 
 

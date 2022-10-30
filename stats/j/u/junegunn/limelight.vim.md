@@ -1,6 +1,6 @@
 # junegunn/limelight.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2211 | 48 | 
 | 2022-10-28 | 2211 | 48 | 
 | 2022-10-27 | 2210 | 48 | 
 | 2022-10-26 | 2210 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2208 | 48 | 
 | 2022-10-01 | 2208 | 48 | 
 | 2022-09-30 | 2207 | 48 | 
-| 2022-09-29 | 2207 | 48 | 
 

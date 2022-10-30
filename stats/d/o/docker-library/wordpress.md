@@ -1,10 +1,10 @@
 # docker-library/wordpress - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 960
+☋ Forks: 961
 
-★ Stars: 1430
+★ Stars: 1431
 
 [Open repository](https://github.com/docker-library/wordpress)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1431 | 961 | 
 | 2022-10-28 | 1430 | 960 | 
 | 2022-10-27 | 1430 | 959 | 
 | 2022-10-26 | 1430 | 958 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1424 | 952 | 
 | 2022-10-01 | 1425 | 951 | 
 | 2022-09-30 | 1425 | 951 | 
-| 2022-09-29 | 1425 | 951 | 
 

@@ -1,6 +1,6 @@
 # powercord-org/powercord - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 175
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1220 | 175 | 
 | 2022-10-28 | 1220 | 175 | 
 | 2022-10-27 | 1221 | 175 | 
 | 2022-10-26 | 1221 | 176 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1221 | 177 | 
 | 2022-10-01 | 1220 | 177 | 
 | 2022-09-30 | 1220 | 177 | 
-| 2022-09-29 | 1220 | 178 | 
 

@@ -1,6 +1,6 @@
 # IonelPopJara/ascii-video-player - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 430 | 64 | 
 | 2022-10-29 | 430 | 64 | 
 | 2022-10-27 | 430 | 64 | 
 | 2022-10-26 | 430 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 431 | 64 | 
 | 2022-10-01 | 431 | 64 | 
 | 2022-09-30 | 431 | 64 | 
-| 2022-09-29 | 431 | 64 | 
 

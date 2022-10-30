@@ -1,10 +1,10 @@
 # elastic/apm - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 90
 
-★ Stars: 285
+★ Stars: 286
 
 [Open repository](https://github.com/elastic/apm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 286 | 90 | 
 | 2022-10-28 | 285 | 90 | 
 | 2022-10-27 | 285 | 90 | 
 | 2022-10-26 | 285 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 275 | 87 | 
 | 2022-10-01 | 275 | 87 | 
 | 2022-09-30 | 275 | 87 | 
-| 2022-09-29 | 274 | 87 | 
 

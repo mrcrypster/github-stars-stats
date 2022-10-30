@@ -1,10 +1,10 @@
 # mtijanic/nwccc - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/mtijanic/nwccc)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 10 | 2 | 
+| 2022-10-29 | 10 | 2 | 
 | 2022-10-28 | 9 | 1 | 
 | 2022-10-27 | 9 | 1 | 
 | 2022-10-26 | 8 | 1 | 

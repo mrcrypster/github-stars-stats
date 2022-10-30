@@ -1,10 +1,10 @@
 # darklow/django-suit - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 675
 
-★ Stars: 2184
+★ Stars: 2183
 
 [Open repository](https://github.com/darklow/django-suit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2183 | 675 | 
 | 2022-10-28 | 2184 | 675 | 
 | 2022-10-27 | 2183 | 675 | 
 | 2022-10-26 | 2183 | 674 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2176 | 674 | 
 | 2022-10-01 | 2176 | 674 | 
 | 2022-09-30 | 2176 | 674 | 
-| 2022-09-29 | 2176 | 674 | 
 

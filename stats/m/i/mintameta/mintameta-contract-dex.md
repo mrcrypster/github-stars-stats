@@ -1,6 +1,6 @@
 # mintameta/mintameta-contract-dex - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 63 | 18 | 
 | 2022-10-28 | 63 | 18 | 
 | 2022-10-27 | 63 | 18 | 
 | 2022-10-26 | 63 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 63 | 18 | 
 | 2022-10-01 | 63 | 18 | 
 | 2022-09-30 | 63 | 18 | 
-| 2022-09-29 | 63 | 18 | 
 

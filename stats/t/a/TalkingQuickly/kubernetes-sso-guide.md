@@ -1,6 +1,6 @@
 # TalkingQuickly/kubernetes-sso-guide - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 48 | 18 | 
 | 2022-10-28 | 48 | 18 | 
 | 2022-10-27 | 48 | 18 | 
 | 2022-10-26 | 48 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 48 | 18 | 
 | 2022-10-01 | 48 | 18 | 
 | 2022-09-30 | 48 | 18 | 
-| 2022-09-29 | 48 | 18 | 
 

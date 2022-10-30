@@ -1,10 +1,10 @@
 # f2e-developer/chinese-f2e-developer - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 44
 
-★ Stars: 734
+★ Stars: 735
 
 [Open repository](https://github.com/f2e-developer/chinese-f2e-developer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 735 | 44 | 
 | 2022-10-28 | 734 | 44 | 
 | 2022-10-27 | 733 | 44 | 
 | 2022-10-26 | 732 | 44 | 

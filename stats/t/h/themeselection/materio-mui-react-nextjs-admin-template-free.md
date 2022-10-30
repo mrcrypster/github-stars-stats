@@ -1,6 +1,6 @@
 # themeselection/materio-mui-react-nextjs-admin-template-free - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 146
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 489 | 146 | 
 | 2022-10-28 | 489 | 146 | 
 | 2022-10-27 | 487 | 145 | 
 | 2022-10-26 | 485 | 145 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 459 | 132 | 
 | 2022-10-01 | 459 | 132 | 
 | 2022-09-30 | 458 | 132 | 
-| 2022-09-29 | 458 | 132 | 
 

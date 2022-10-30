@@ -1,6 +1,6 @@
 # microsoft/ARI - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 432 | 182 | 
 | 2022-10-28 | 432 | 182 | 
 | 2022-10-27 | 432 | 182 | 
 | 2022-10-26 | 430 | 182 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 409 | 168 | 
 | 2022-10-01 | 407 | 168 | 
 | 2022-09-30 | 406 | 167 | 
-| 2022-09-29 | 402 | 166 | 
 

@@ -1,6 +1,6 @@
 # day8/re-frame - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 725
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 5189 | 725 | 
 | 2022-10-28 | 5189 | 725 | 
 | 2022-10-27 | 5187 | 725 | 
 | 2022-10-26 | 5187 | 724 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 5163 | 716 | 
 | 2022-10-01 | 5163 | 717 | 
 | 2022-09-30 | 5163 | 717 | 
-| 2022-09-29 | 5163 | 716 | 
 

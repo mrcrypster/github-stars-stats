@@ -1,10 +1,10 @@
 # realm/SwiftLint - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 2000
 
-★ Stars: 16678
+★ Stars: 16681
 
 [Open repository](https://github.com/realm/SwiftLint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 16681 | 2000 | 
 | 2022-10-28 | 16678 | 2000 | 
 | 2022-10-27 | 16672 | 2000 | 
 | 2022-10-26 | 16663 | 1999 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 16581 | 1980 | 
 | 2022-10-01 | 16581 | 1980 | 
 | 2022-09-30 | 16577 | 1980 | 
-| 2022-09-29 | 16570 | 1979 | 
 

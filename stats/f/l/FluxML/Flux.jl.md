@@ -1,10 +1,10 @@
 # FluxML/Flux.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 537
 
-★ Stars: 3852
+★ Stars: 3853
 
 [Open repository](https://github.com/FluxML/Flux.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3853 | 537 | 
 | 2022-10-28 | 3852 | 537 | 
 | 2022-10-27 | 3851 | 537 | 
 | 2022-10-26 | 3850 | 537 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3831 | 536 | 
 | 2022-10-01 | 3829 | 535 | 
 | 2022-09-30 | 3829 | 535 | 
-| 2022-09-29 | 3829 | 535 | 
 

@@ -1,6 +1,6 @@
 # ChackBR/MyBot_v7 - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 61 | 53 | 
 | 2022-10-28 | 61 | 53 | 
 | 2022-10-27 | 61 | 53 | 
 | 2022-10-26 | 61 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 59 | 53 | 
 | 2022-10-01 | 59 | 53 | 
 | 2022-09-30 | 59 | 53 | 
-| 2022-09-29 | 59 | 53 | 
 

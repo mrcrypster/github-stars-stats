@@ -1,10 +1,10 @@
 # kwea123/nerf_pl - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 324
+☋ Forks: 325
 
-★ Stars: 1642
+★ Stars: 1646
 
 [Open repository](https://github.com/kwea123/nerf_pl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1646 | 325 | 
 | 2022-10-28 | 1642 | 324 | 
 | 2022-10-27 | 1642 | 324 | 
 | 2022-10-26 | 1642 | 324 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1563 | 305 | 
 | 2022-10-01 | 1562 | 305 | 
 | 2022-09-30 | 1562 | 305 | 
-| 2022-09-29 | 1556 | 305 | 
 

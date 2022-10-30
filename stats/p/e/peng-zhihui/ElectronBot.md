@@ -1,8 +1,8 @@
 # peng-zhihui/ElectronBot - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1399
+☋ Forks: 1400
 
 ★ Stars: 5690
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 5690 | 1400 | 
 | 2022-10-29 | 5690 | 1399 | 
 | 2022-10-28 | 5688 | 1398 | 
 | 2022-10-27 | 5687 | 1398 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 5579 | 1367 | 
 | 2022-10-01 | 5577 | 1365 | 
 | 2022-09-30 | 5576 | 1365 | 
-| 2022-09-29 | 5570 | 1366 | 
 

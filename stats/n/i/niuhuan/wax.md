@@ -1,10 +1,10 @@
 # niuhuan/wax - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/niuhuan/wax)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 140 | 1 | 
 | 2022-10-28 | 139 | 1 | 
 | 2022-10-27 | 137 | 1 | 
 | 2022-10-26 | 134 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 118 | 1 | 
 | 2022-10-01 | 118 | 1 | 
 | 2022-09-30 | 118 | 1 | 
-| 2022-09-29 | 117 | 1 | 
 

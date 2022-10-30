@@ -1,6 +1,6 @@
 # deeflored/Simple-DevOps-Project - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 259
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 13 | 259 | 
 | 2022-10-29 | 13 | 259 | 
 | 2022-10-28 | 13 | 259 | 
 | 2022-10-27 | 13 | 259 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 13 | 254 | 
 | 2022-10-01 | 13 | 253 | 
 | 2022-09-30 | 13 | 252 | 
-| 2022-09-29 | 13 | 252 | 
 

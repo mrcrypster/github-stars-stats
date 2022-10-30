@@ -1,8 +1,8 @@
 # dillonzq/LoveIt - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
-☋ Forks: 803
+☋ Forks: 805
 
 ★ Stars: 2399
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2399 | 805 | 
 | 2022-10-28 | 2399 | 803 | 
 | 2022-10-27 | 2399 | 803 | 
 | 2022-10-26 | 2393 | 801 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2324 | 775 | 
 | 2022-10-01 | 2321 | 771 | 
 | 2022-09-30 | 2311 | 771 | 
-| 2022-09-29 | 2308 | 770 | 
 

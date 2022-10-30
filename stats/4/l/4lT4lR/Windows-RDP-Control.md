@@ -1,6 +1,6 @@
 # 4lT4lR/Windows-RDP-Control - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4 | 30 | 
 | 2022-10-28 | 4 | 30 | 
 | 2022-10-27 | 4 | 28 | 
 | 2022-10-26 | 4 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2 | 26 | 
 | 2022-10-01 | 2 | 26 | 
 | 2022-09-30 | 2 | 26 | 
-| 2022-09-29 | 1 | 26 | 
 

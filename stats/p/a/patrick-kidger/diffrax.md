@@ -1,10 +1,10 @@
 # patrick-kidger/diffrax - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 45
 
-★ Stars: 649
+★ Stars: 650
 
 [Open repository](https://github.com/patrick-kidger/diffrax)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 650 | 45 | 
 | 2022-10-28 | 649 | 45 | 
 | 2022-10-27 | 647 | 45 | 
 | 2022-10-26 | 647 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 627 | 41 | 
 | 2022-10-01 | 626 | 41 | 
 | 2022-09-30 | 622 | 41 | 
-| 2022-09-29 | 620 | 40 | 
 

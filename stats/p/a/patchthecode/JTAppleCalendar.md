@@ -1,8 +1,8 @@
 # patchthecode/JTAppleCalendar - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 742
+☋ Forks: 741
 
 ★ Stars: 7260
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 7260 | 741 | 
 | 2022-10-28 | 7260 | 742 | 
 | 2022-10-27 | 7261 | 742 | 
 | 2022-10-26 | 7261 | 742 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 7257 | 740 | 
 | 2022-10-01 | 7257 | 740 | 
 | 2022-09-30 | 7258 | 740 | 
-| 2022-09-29 | 7256 | 740 | 
 

@@ -1,10 +1,10 @@
 # LuckyLi706/short_video_spider_client - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 26
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/LuckyLi706/short_video_spider_client)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 122 | 26 | 
 | 2022-10-28 | 121 | 26 | 
 | 2022-10-27 | 121 | 26 | 
 | 2022-10-26 | 121 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 121 | 26 | 
 | 2022-10-01 | 121 | 26 | 
 | 2022-09-30 | 121 | 26 | 
-| 2022-09-29 | 121 | 26 | 
 

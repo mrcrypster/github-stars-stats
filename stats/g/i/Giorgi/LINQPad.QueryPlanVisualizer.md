@@ -1,6 +1,6 @@
 # Giorgi/LINQPad.QueryPlanVisualizer - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 350 | 26 | 
 | 2022-10-28 | 350 | 26 | 
 | 2022-10-27 | 350 | 26 | 
 | 2022-10-26 | 350 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 341 | 26 | 
 | 2022-10-01 | 341 | 26 | 
 | 2022-09-30 | 341 | 26 | 
-| 2022-09-29 | 341 | 26 | 
 

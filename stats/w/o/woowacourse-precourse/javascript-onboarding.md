@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 29
 
-☋ Forks: 677
+☋ Forks: 694
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/woowacourse-precourse/javascript-onboarding)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 51 | 677 | 
+| 2022-10-29 | 52 | 694 | 
 | 2022-10-28 | 51 | 675 | 
 

@@ -1,6 +1,6 @@
 # johnBuffer/AntSimulator - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 244
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1942 | 244 | 
 | 2022-10-28 | 1942 | 244 | 
 | 2022-10-27 | 1940 | 244 | 
 | 2022-10-26 | 1940 | 244 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1933 | 241 | 
 | 2022-10-01 | 1933 | 241 | 
 | 2022-09-30 | 1934 | 242 | 
-| 2022-09-29 | 1934 | 242 | 
 

@@ -1,6 +1,6 @@
 # vrischmann/zig-sqlite - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 166 | 19 | 
 | 2022-10-28 | 166 | 19 | 
 | 2022-10-27 | 166 | 19 | 
 | 2022-10-26 | 166 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 166 | 18 | 
 | 2022-10-01 | 166 | 18 | 
 | 2022-09-30 | 165 | 18 | 
-| 2022-09-29 | 163 | 18 | 
 

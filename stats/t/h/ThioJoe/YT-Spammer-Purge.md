@@ -1,6 +1,6 @@
 # ThioJoe/YT-Spammer-Purge - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4208 | 394 | 
 | 2022-10-28 | 4208 | 394 | 
 | 2022-10-27 | 4207 | 395 | 
 | 2022-10-26 | 4206 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 4175 | 392 | 
 | 2022-10-01 | 4174 | 392 | 
 | 2022-09-30 | 4175 | 391 | 
-| 2022-09-29 | 4176 | 391 | 
 

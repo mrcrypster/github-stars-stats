@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 59
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/IBM-EPBL/Assignments-CApD)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 92 | 59 | 
+| 2022-10-29 | 93 | 59 | 
 | 2022-10-28 | 92 | 59 | 
 | 2022-10-27 | 89 | 52 | 
 | 2022-10-26 | 83 | 50 | 

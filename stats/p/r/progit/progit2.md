@@ -1,10 +1,10 @@
 # progit/progit2 - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1930
 
-★ Stars: 4867
+★ Stars: 4868
 
 [Open repository](https://github.com/progit/progit2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4868 | 1930 | 
 | 2022-10-28 | 4867 | 1930 | 
 | 2022-10-27 | 4866 | 1930 | 
 | 2022-10-26 | 4864 | 1929 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 4833 | 1911 | 
 | 2022-10-01 | 4832 | 1911 | 
 | 2022-09-30 | 4831 | 1911 | 
-| 2022-09-29 | 4830 | 1910 | 
 

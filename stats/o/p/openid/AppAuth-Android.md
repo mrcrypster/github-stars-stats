@@ -1,8 +1,8 @@
 # openid/AppAuth-Android - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 803
+☋ Forks: 802
 
 ★ Stars: 2264
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2264 | 802 | 
 | 2022-10-28 | 2264 | 803 | 
 | 2022-10-27 | 2264 | 803 | 
 | 2022-10-26 | 2263 | 803 | 

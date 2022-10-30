@@ -1,10 +1,10 @@
 # DouyinFE/semi-design - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 493
+☋ Forks: 492
 
-★ Stars: 6329
+★ Stars: 6332
 
 [Open repository](https://github.com/DouyinFE/semi-design)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 6332 | 492 | 
 | 2022-10-29 | 6329 | 493 | 
 | 2022-10-28 | 6327 | 493 | 
 | 2022-10-27 | 6326 | 492 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 6254 | 485 | 
 | 2022-10-01 | 6254 | 485 | 
 | 2022-09-30 | 6250 | 485 | 
-| 2022-09-29 | 6248 | 483 | 
 

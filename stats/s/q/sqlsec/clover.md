@@ -1,6 +1,6 @@
 # sqlsec/clover - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 615
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1309 | 615 | 
 | 2022-10-28 | 1309 | 615 | 
 | 2022-10-27 | 1309 | 615 | 
 | 2022-10-26 | 1309 | 615 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1307 | 614 | 
 | 2022-10-01 | 1307 | 614 | 
 | 2022-09-30 | 1307 | 613 | 
-| 2022-09-29 | 1308 | 613 | 
 

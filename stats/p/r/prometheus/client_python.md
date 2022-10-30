@@ -1,10 +1,10 @@
 # prometheus/client_python - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 694
+☋ Forks: 693
 
-★ Stars: 3003
+★ Stars: 3004
 
 [Open repository](https://github.com/prometheus/client_python)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3004 | 693 | 
 | 2022-10-28 | 3003 | 694 | 
 | 2022-10-27 | 3002 | 693 | 
 | 2022-10-26 | 3000 | 692 | 

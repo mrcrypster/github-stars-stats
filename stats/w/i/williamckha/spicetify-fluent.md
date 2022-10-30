@@ -1,10 +1,10 @@
 # williamckha/spicetify-fluent - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 15
 
-★ Stars: 205
+★ Stars: 206
 
 [Open repository](https://github.com/williamckha/spicetify-fluent)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 206 | 15 | 
 | 2022-10-28 | 205 | 15 | 
 | 2022-10-27 | 205 | 14 | 
 | 2022-10-26 | 205 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 203 | 14 | 
 | 2022-10-01 | 203 | 14 | 
 | 2022-09-30 | 202 | 14 | 
-| 2022-09-29 | 202 | 14 | 
 

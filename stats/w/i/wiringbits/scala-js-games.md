@@ -1,10 +1,10 @@
 # wiringbits/scala-js-games - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/wiringbits/scala-js-games)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 55 | 3 | 
 | 2022-10-28 | 54 | 3 | 
 | 2022-10-27 | 54 | 3 | 
 | 2022-10-26 | 54 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 54 | 3 | 
 | 2022-10-02 | 54 | 3 | 
 | 2022-10-01 | 54 | 3 | 
-| 2022-09-30 | 54 | 3 | 
 

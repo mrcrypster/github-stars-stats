@@ -1,10 +1,10 @@
 # felt/ultimate-elixir-ci - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/felt/ultimate-elixir-ci)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 55 | 6 | 
 | 2022-10-28 | 54 | 5 | 
 | 2022-10-27 | 53 | 5 | 
 | 2022-10-26 | 53 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 46 | 5 | 
 | 2022-10-01 | 46 | 5 | 
 | 2022-09-30 | 46 | 5 | 
-| 2022-09-29 | 46 | 5 | 
 

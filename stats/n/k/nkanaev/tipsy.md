@@ -1,6 +1,6 @@
 # nkanaev/tipsy - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 392 | 6 | 
 | 2022-10-28 | 392 | 6 | 
 | 2022-10-27 | 392 | 6 | 
 | 2022-10-26 | 392 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 387 | 6 | 
 | 2022-10-01 | 387 | 6 | 
 | 2022-09-30 | 387 | 6 | 
-| 2022-09-29 | 387 | 6 | 
 

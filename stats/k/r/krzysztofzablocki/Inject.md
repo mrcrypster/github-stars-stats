@@ -1,10 +1,10 @@
 # krzysztofzablocki/Inject - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 75
 
-★ Stars: 1294
+★ Stars: 1298
 
 [Open repository](https://github.com/krzysztofzablocki/Inject)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1298 | 75 | 
 | 2022-10-28 | 1294 | 75 | 
 | 2022-10-27 | 1293 | 74 | 
 | 2022-10-26 | 1291 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1234 | 72 | 
 | 2022-10-01 | 1234 | 72 | 
 | 2022-09-30 | 1234 | 72 | 
-| 2022-09-29 | 1232 | 72 | 
 

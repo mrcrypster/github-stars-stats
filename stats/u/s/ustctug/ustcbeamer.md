@@ -1,10 +1,10 @@
 # ustctug/ustcbeamer - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 54
+☋ Forks: 55
 
-★ Stars: 179
+★ Stars: 178
 
 [Open repository](https://github.com/ustctug/ustcbeamer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 178 | 55 | 
 | 2022-10-28 | 179 | 54 | 
 | 2022-10-27 | 179 | 54 | 
 | 2022-10-26 | 179 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 178 | 53 | 
 | 2022-10-01 | 176 | 53 | 
 | 2022-09-30 | 175 | 53 | 
-| 2022-09-29 | 175 | 53 | 
 

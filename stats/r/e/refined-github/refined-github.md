@@ -1,10 +1,10 @@
 # refined-github/refined-github - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 1351
+☋ Forks: 1352
 
-★ Stars: 19154
+★ Stars: 19171
 
 [Open repository](https://github.com/refined-github/refined-github)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 19171 | 1352 | 
 | 2022-10-28 | 19154 | 1351 | 
 | 2022-10-27 | 19144 | 1351 | 
 | 2022-10-26 | 19133 | 1348 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 18982 | 1338 | 
 | 2022-10-02 | 18976 | 1338 | 
 | 2022-10-01 | 18968 | 1338 | 
-| 2022-09-30 | 18958 | 1338 | 
 

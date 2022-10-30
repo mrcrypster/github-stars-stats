@@ -1,10 +1,10 @@
 # iovisor/bcc - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 3125
 
-★ Stars: 15815
+★ Stars: 15819
 
 [Open repository](https://github.com/iovisor/bcc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 15819 | 3125 | 
 | 2022-10-28 | 15815 | 3125 | 
 | 2022-10-27 | 15804 | 3124 | 
 | 2022-10-26 | 15793 | 3123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 15597 | 3086 | 
 | 2022-10-01 | 15593 | 3085 | 
 | 2022-09-30 | 15589 | 3084 | 
-| 2022-09-29 | 15571 | 3081 | 
 

@@ -1,10 +1,10 @@
 # MarlinFirmware/Marlin - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 17332
+☋ Forks: 17334
 
-★ Stars: 13914
+★ Stars: 13919
 
 [Open repository](https://github.com/MarlinFirmware/Marlin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 13919 | 17334 | 
 | 2022-10-28 | 13914 | 17332 | 
 | 2022-10-27 | 13909 | 17326 | 
 | 2022-10-26 | 13906 | 17325 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 13808 | 17229 | 
 | 2022-10-01 | 13806 | 17223 | 
 | 2022-09-30 | 13805 | 17223 | 
-| 2022-09-29 | 13803 | 17220 | 
 

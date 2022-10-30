@@ -1,6 +1,6 @@
 # fossasia/loklak-webtweets - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1535 | 13 | 
 | 2022-10-28 | 1535 | 13 | 
 | 2022-10-27 | 1535 | 13 | 
 | 2022-10-26 | 1535 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1538 | 13 | 
 | 2022-10-01 | 1538 | 13 | 
 | 2022-09-30 | 1538 | 13 | 
-| 2022-09-29 | 1538 | 13 | 
 

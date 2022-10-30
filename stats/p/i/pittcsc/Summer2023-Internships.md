@@ -1,10 +1,10 @@
 # pittcsc/Summer2023-Internships - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 1566
+☋ Forks: 1570
 
-★ Stars: 14604
+★ Stars: 14623
 
 [Open repository](https://github.com/pittcsc/Summer2023-Internships)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 14623 | 1570 | 
 | 2022-10-28 | 14604 | 1566 | 
 | 2022-10-27 | 14573 | 1559 | 
 | 2022-10-26 | 14566 | 1558 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 13971 | 1442 | 
 | 2022-10-01 | 13950 | 1436 | 
 | 2022-09-30 | 13913 | 1430 | 
-| 2022-09-29 | 13865 | 1421 | 
 

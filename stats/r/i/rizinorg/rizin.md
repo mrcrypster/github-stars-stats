@@ -1,6 +1,6 @@
 # rizinorg/rizin - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1635 | 196 | 
 | 2022-10-28 | 1635 | 196 | 
 | 2022-10-27 | 1635 | 196 | 
 | 2022-10-26 | 1635 | 197 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1604 | 190 | 
 | 2022-10-01 | 1603 | 190 | 
 | 2022-09-30 | 1603 | 190 | 
-| 2022-09-29 | 1601 | 191 | 
 

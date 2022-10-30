@@ -1,10 +1,10 @@
 # messense/aliyundrive-webdav - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 821
+☋ Forks: 822
 
-★ Stars: 5644
+★ Stars: 5651
 
 [Open repository](https://github.com/messense/aliyundrive-webdav)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 5651 | 822 | 
 | 2022-10-28 | 5644 | 821 | 
 | 2022-10-27 | 5632 | 819 | 
 | 2022-10-26 | 5626 | 818 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 5389 | 792 | 
 | 2022-10-01 | 5384 | 791 | 
 | 2022-09-30 | 5380 | 790 | 
-| 2022-09-29 | 5371 | 788 | 
 

@@ -1,6 +1,6 @@
 # NVIDIA/radtts - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 170 | 16 | 
 | 2022-10-28 | 170 | 16 | 
 | 2022-10-27 | 169 | 15 | 
 | 2022-10-26 | 168 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 163 | 15 | 
 | 2022-10-02 | 163 | 15 | 
 | 2022-10-01 | 163 | 15 | 
-| 2022-09-30 | 163 | 15 | 
 

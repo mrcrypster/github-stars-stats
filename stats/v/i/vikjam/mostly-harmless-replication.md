@@ -1,6 +1,6 @@
 # vikjam/mostly-harmless-replication - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 256
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 477 | 256 | 
 | 2022-10-28 | 477 | 256 | 
 | 2022-10-27 | 476 | 256 | 
 | 2022-10-26 | 476 | 256 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 470 | 252 | 
 | 2022-10-01 | 470 | 251 | 
 | 2022-09-30 | 470 | 251 | 
-| 2022-09-29 | 469 | 251 | 
 

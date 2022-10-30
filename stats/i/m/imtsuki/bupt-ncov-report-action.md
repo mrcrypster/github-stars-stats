@@ -1,8 +1,8 @@
 # imtsuki/bupt-ncov-report-action - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 325
+☋ Forks: 324
 
 ★ Stars: 254
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 254 | 324 | 
 | 2022-10-28 | 254 | 325 | 
 | 2022-10-27 | 254 | 325 | 
 | 2022-10-26 | 254 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 249 | 311 | 
 | 2022-10-01 | 249 | 309 | 
 | 2022-09-30 | 249 | 308 | 
-| 2022-09-29 | 248 | 306 | 
 

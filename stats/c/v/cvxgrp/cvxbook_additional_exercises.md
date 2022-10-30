@@ -1,10 +1,10 @@
 # cvxgrp/cvxbook_additional_exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 20
 
-★ Stars: 65
+★ Stars: 67
 
 [Open repository](https://github.com/cvxgrp/cvxbook_additional_exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 67 | 20 | 
 | 2022-10-28 | 65 | 20 | 
 | 2022-10-27 | 65 | 20 | 
 | 2022-10-26 | 64 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 45 | 10 | 
 | 2022-10-01 | 43 | 10 | 
 | 2022-09-30 | 43 | 10 | 
-| 2022-09-29 | 42 | 10 | 
 

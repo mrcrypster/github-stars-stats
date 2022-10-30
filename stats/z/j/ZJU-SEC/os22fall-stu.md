@@ -1,10 +1,10 @@
 # ZJU-SEC/os22fall-stu - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 18
 
-★ Stars: 49
+★ Stars: 48
 
 [Open repository](https://github.com/ZJU-SEC/os22fall-stu)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 48 | 18 | 
 | 2022-10-28 | 49 | 18 | 
 | 2022-10-27 | 46 | 18 | 
 | 2022-10-26 | 46 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 35 | 7 | 
 | 2022-10-01 | 35 | 7 | 
 | 2022-09-30 | 34 | 7 | 
-| 2022-09-29 | 34 | 7 | 
 

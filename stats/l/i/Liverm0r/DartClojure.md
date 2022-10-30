@@ -1,6 +1,6 @@
 # Liverm0r/DartClojure - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 63 | 2 | 
 | 2022-10-28 | 63 | 2 | 
 | 2022-10-27 | 63 | 2 | 
 | 2022-10-26 | 63 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 63 | 2 | 
 | 2022-10-02 | 63 | 2 | 
 | 2022-10-01 | 63 | 2 | 
-| 2022-09-30 | 63 | 2 | 
 

@@ -1,10 +1,10 @@
 # lexonegit/Unity-RTS-Selection - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 7
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/lexonegit/Unity-RTS-Selection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 56 | 7 | 
 | 2022-10-29 | 55 | 7 | 
 | 2022-10-28 | 54 | 7 | 
 | 2022-10-27 | 54 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 52 | 6 | 
 | 2022-10-01 | 51 | 6 | 
 | 2022-09-30 | 50 | 6 | 
-| 2022-09-29 | 50 | 6 | 
 

@@ -1,6 +1,6 @@
 # newmarcel/KeepingYouAwake - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4733 | 200 | 
 | 2022-10-28 | 4733 | 200 | 
 | 2022-10-27 | 4732 | 200 | 
 | 2022-10-26 | 4732 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 4699 | 198 | 
 | 2022-10-01 | 4697 | 198 | 
 | 2022-09-30 | 4694 | 198 | 
-| 2022-09-29 | 4693 | 198 | 
 

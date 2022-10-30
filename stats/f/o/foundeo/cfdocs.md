@@ -1,6 +1,6 @@
 # foundeo/cfdocs - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 306
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 170 | 306 | 
 | 2022-10-28 | 170 | 306 | 
 | 2022-10-27 | 170 | 306 | 
 | 2022-10-26 | 170 | 306 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 169 | 303 | 
 | 2022-10-01 | 169 | 303 | 
 | 2022-09-30 | 169 | 303 | 
-| 2022-09-29 | 169 | 303 | 
 

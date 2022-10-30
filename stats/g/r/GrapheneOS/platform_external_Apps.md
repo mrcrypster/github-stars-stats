@@ -1,6 +1,6 @@
 # GrapheneOS/platform_external_Apps - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4 | 1 | 
 | 2022-10-28 | 4 | 1 | 
 | 2022-10-27 | 4 | 1 | 
 | 2022-10-26 | 4 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 5 | 1 | 
 | 2022-10-01 | 5 | 1 | 
 | 2022-09-30 | 4 | 1 | 
-| 2022-09-29 | 4 | 1 | 
 

@@ -1,6 +1,6 @@
 # chrislockard/api_wordlist - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 525 | 162 | 
 | 2022-10-28 | 525 | 162 | 
 | 2022-10-27 | 525 | 162 | 
 | 2022-10-26 | 524 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 519 | 154 | 
 | 2022-10-02 | 520 | 154 | 
 | 2022-10-01 | 520 | 154 | 
-| 2022-09-30 | 520 | 154 | 
 

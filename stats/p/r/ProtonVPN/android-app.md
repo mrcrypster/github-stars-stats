@@ -1,10 +1,10 @@
 # ProtonVPN/android-app - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 178
 
-★ Stars: 1075
+★ Stars: 1077
 
 [Open repository](https://github.com/ProtonVPN/android-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1077 | 178 | 
 | 2022-10-28 | 1075 | 178 | 
 | 2022-10-27 | 1075 | 178 | 
 | 2022-10-26 | 1071 | 178 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1031 | 174 | 
 | 2022-10-01 | 1030 | 174 | 
 | 2022-09-30 | 1030 | 174 | 
-| 2022-09-29 | 1029 | 174 | 
 

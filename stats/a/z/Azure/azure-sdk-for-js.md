@@ -1,8 +1,8 @@
 # Azure/azure-sdk-for-js - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 903
+☋ Forks: 904
 
 ★ Stars: 1419
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1419 | 904 | 
 | 2022-10-28 | 1419 | 903 | 
 | 2022-10-27 | 1419 | 901 | 
 | 2022-10-26 | 1417 | 901 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1401 | 885 | 
 | 2022-10-01 | 1401 | 885 | 
 | 2022-09-30 | 1401 | 885 | 
-| 2022-09-29 | 1398 | 885 | 
 

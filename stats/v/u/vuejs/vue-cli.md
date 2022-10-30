@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 6364
 
-★ Stars: 29502
+★ Stars: 29503
 
 [Open repository](https://github.com/vuejs/vue-cli)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 29502 | 6364 | 
+| 2022-10-29 | 29503 | 6364 | 
 | 2022-10-28 | 29502 | 6364 | 
 

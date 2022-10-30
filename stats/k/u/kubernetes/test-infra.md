@@ -1,8 +1,8 @@
 # kubernetes/test-infra - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 2343
+☋ Forks: 2344
 
 ★ Stars: 3497
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 3497 | 2344 | 
 | 2022-10-28 | 3497 | 2343 | 
 | 2022-10-27 | 3496 | 2343 | 
 | 2022-10-26 | 3493 | 2342 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 3462 | 2319 | 
 | 2022-10-01 | 3462 | 2316 | 
 | 2022-09-30 | 3463 | 2316 | 
-| 2022-09-29 | 3461 | 2317 | 
 

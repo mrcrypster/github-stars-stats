@@ -1,8 +1,8 @@
 # xamarin/xamarin-forms-samples - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 7505
+☋ Forks: 7506
 
 ★ Stars: 4251
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 4251 | 7506 | 
 | 2022-10-28 | 4251 | 7505 | 
 | 2022-10-27 | 4251 | 7503 | 
 | 2022-10-26 | 4250 | 7501 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 4231 | 7473 | 
 | 2022-10-01 | 4231 | 7472 | 
 | 2022-09-30 | 4229 | 7472 | 
-| 2022-09-29 | 4229 | 7471 | 
 

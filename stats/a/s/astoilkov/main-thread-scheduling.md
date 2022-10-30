@@ -1,10 +1,10 @@
 # astoilkov/main-thread-scheduling - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 6
 
-★ Stars: 323
+★ Stars: 322
 
 [Open repository](https://github.com/astoilkov/main-thread-scheduling)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 322 | 6 | 
 | 2022-10-28 | 323 | 6 | 
 | 2022-10-27 | 324 | 5 | 
 | 2022-10-26 | 323 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 321 | 5 | 
 | 2022-10-01 | 321 | 5 | 
 | 2022-09-30 | 321 | 5 | 
-| 2022-09-29 | 321 | 5 | 
 

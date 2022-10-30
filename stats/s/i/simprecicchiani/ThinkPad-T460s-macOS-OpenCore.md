@@ -1,6 +1,6 @@
 # simprecicchiani/ThinkPad-T460s-macOS-OpenCore - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 305 | 53 | 
 | 2022-10-28 | 305 | 53 | 
 | 2022-10-27 | 304 | 53 | 
 | 2022-10-26 | 304 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 302 | 52 | 
 | 2022-10-01 | 302 | 52 | 
 | 2022-09-30 | 302 | 52 | 
-| 2022-09-29 | 302 | 52 | 
 

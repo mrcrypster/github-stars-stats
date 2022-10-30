@@ -1,10 +1,10 @@
 # easychen/lean-side-bussiness - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 151
+☋ Forks: 152
 
-★ Stars: 2205
+★ Stars: 2207
 
 [Open repository](https://github.com/easychen/lean-side-bussiness)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2207 | 152 | 
 | 2022-10-28 | 2205 | 151 | 
 | 2022-10-27 | 2203 | 150 | 
 | 2022-10-26 | 2202 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 2135 | 144 | 
 | 2022-10-02 | 2135 | 144 | 
 | 2022-10-01 | 2134 | 143 | 
-| 2022-09-29 | 2129 | 143 | 
 

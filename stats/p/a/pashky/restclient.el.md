@@ -1,6 +1,6 @@
 # pashky/restclient.el - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 1798 | 148 | 
 | 2022-10-28 | 1798 | 148 | 
 | 2022-10-27 | 1798 | 148 | 
 | 2022-10-26 | 1798 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 1785 | 147 | 
 | 2022-10-01 | 1784 | 147 | 
 | 2022-09-30 | 1783 | 147 | 
-| 2022-09-29 | 1782 | 147 | 
 

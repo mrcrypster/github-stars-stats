@@ -1,10 +1,10 @@
 # glepnir/nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 61
 
-★ Stars: 601
+★ Stars: 603
 
 [Open repository](https://github.com/glepnir/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 603 | 61 | 
 | 2022-10-28 | 601 | 61 | 
 | 2022-10-27 | 601 | 61 | 
 | 2022-10-26 | 601 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 592 | 56 | 
 | 2022-10-01 | 592 | 56 | 
 | 2022-09-30 | 591 | 56 | 
-| 2022-09-29 | 591 | 56 | 
 

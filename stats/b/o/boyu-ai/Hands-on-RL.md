@@ -1,8 +1,8 @@
 # boyu-ai/Hands-on-RL - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 191
+☋ Forks: 193
 
 ★ Stars: 620
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 620 | 193 | 
 | 2022-10-28 | 620 | 191 | 
 | 2022-10-27 | 620 | 191 | 
 | 2022-10-26 | 619 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 577 | 171 | 
 | 2022-10-01 | 577 | 171 | 
 | 2022-09-30 | 575 | 171 | 
-| 2022-09-29 | 575 | 171 | 
 

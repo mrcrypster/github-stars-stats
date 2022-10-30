@@ -1,10 +1,10 @@
 # ossf/package-manager-best-practices - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 17
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/ossf/package-manager-best-practices)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 137 | 17 | 
 | 2022-10-29 | 136 | 17 | 
 | 2022-10-28 | 136 | 17 | 
 | 2022-10-26 | 136 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 131 | 17 | 
 | 2022-10-01 | 131 | 17 | 
 | 2022-09-30 | 130 | 17 | 
-| 2022-09-29 | 129 | 17 | 
 

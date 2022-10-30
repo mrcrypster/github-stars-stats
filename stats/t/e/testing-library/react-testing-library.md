@@ -1,8 +1,8 @@
 # testing-library/react-testing-library - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 1017
+☋ Forks: 1018
 
 ★ Stars: 17121
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 17121 | 1018 | 
 | 2022-10-28 | 17121 | 1017 | 
 | 2022-10-27 | 17115 | 1017 | 
 | 2022-10-26 | 17112 | 1017 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 17023 | 1004 | 
 | 2022-10-01 | 17019 | 1005 | 
 | 2022-09-30 | 17014 | 1004 | 
-| 2022-09-29 | 17011 | 1004 | 
 

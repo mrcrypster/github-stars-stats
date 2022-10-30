@@ -1,6 +1,6 @@
 # sivan/heti - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 222
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 5089 | 222 | 
 | 2022-10-28 | 5089 | 222 | 
 | 2022-10-27 | 5089 | 222 | 
 | 2022-10-26 | 5085 | 222 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 5054 | 222 | 
 | 2022-10-01 | 5052 | 222 | 
 | 2022-09-30 | 5052 | 222 | 
-| 2022-09-29 | 5051 | 222 | 
 

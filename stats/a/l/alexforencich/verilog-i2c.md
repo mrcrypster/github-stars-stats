@@ -1,10 +1,10 @@
 # alexforencich/verilog-i2c - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 119
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/alexforencich/verilog-i2c)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 290 | 119 | 
 | 2022-10-28 | 289 | 119 | 
 | 2022-10-27 | 289 | 119 | 
 | 2022-10-26 | 289 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 287 | 119 | 
 | 2022-10-02 | 287 | 119 | 
 | 2022-09-30 | 286 | 119 | 
-| 2022-09-29 | 286 | 120 | 
 

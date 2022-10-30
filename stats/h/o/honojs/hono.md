@@ -1,10 +1,10 @@
 # honojs/hono - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 80
 
-★ Stars: 2606
+★ Stars: 2609
 
 [Open repository](https://github.com/honojs/hono)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2609 | 80 | 
 | 2022-10-28 | 2606 | 80 | 
 | 2022-10-27 | 2595 | 80 | 
 | 2022-10-26 | 2581 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 2303 | 73 | 
 | 2022-10-01 | 2298 | 72 | 
 | 2022-09-30 | 2290 | 72 | 
-| 2022-09-29 | 2282 | 70 | 
 

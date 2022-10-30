@@ -1,10 +1,10 @@
 # arkenfox/user.js - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 417
 
-★ Stars: 6440
+★ Stars: 6444
 
 [Open repository](https://github.com/arkenfox/user.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 6444 | 417 | 
 | 2022-10-28 | 6440 | 417 | 
 | 2022-10-27 | 6436 | 417 | 
 | 2022-10-26 | 6432 | 417 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 6296 | 403 | 
 | 2022-10-02 | 6292 | 403 | 
 | 2022-10-01 | 6288 | 402 | 
-| 2022-09-30 | 6283 | 401 | 
 

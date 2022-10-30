@@ -1,10 +1,10 @@
 # DualCoder/vgpu_unlock - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 337
 
-★ Stars: 3522
+★ Stars: 3525
 
 [Open repository](https://github.com/DualCoder/vgpu_unlock)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3525 | 337 | 
 | 2022-10-29 | 3522 | 337 | 
 | 2022-10-28 | 3519 | 336 | 
 | 2022-10-27 | 3518 | 335 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 3453 | 332 | 
 | 2022-10-01 | 3452 | 331 | 
 | 2022-09-30 | 3451 | 331 | 
-| 2022-09-29 | 3450 | 330 | 
 

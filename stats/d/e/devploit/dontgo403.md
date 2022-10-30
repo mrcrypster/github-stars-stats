@@ -1,10 +1,10 @@
 # devploit/dontgo403 - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 61
 
-★ Stars: 450
+★ Stars: 451
 
 [Open repository](https://github.com/devploit/dontgo403)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 451 | 61 | 
 | 2022-10-28 | 450 | 61 | 
 | 2022-10-27 | 450 | 61 | 
 | 2022-10-26 | 450 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 440 | 59 | 
 | 2022-10-01 | 440 | 59 | 
 | 2022-09-30 | 439 | 59 | 
-| 2022-09-29 | 438 | 59 | 
 

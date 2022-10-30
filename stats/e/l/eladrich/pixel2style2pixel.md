@@ -1,10 +1,10 @@
 # eladrich/pixel2style2pixel - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 487
 
-★ Stars: 2738
+★ Stars: 2739
 
 [Open repository](https://github.com/eladrich/pixel2style2pixel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 2739 | 487 | 
 | 2022-10-28 | 2738 | 487 | 
 | 2022-10-27 | 2738 | 483 | 
 | 2022-10-26 | 2736 | 483 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-03 | 2698 | 475 | 
 | 2022-10-02 | 2697 | 475 | 
 | 2022-10-01 | 2697 | 475 | 
-| 2022-09-30 | 2694 | 475 | 
 

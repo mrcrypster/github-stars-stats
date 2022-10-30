@@ -1,10 +1,10 @@
 # matthiasjost/dotnet-content-creators - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 98
+☋ Forks: 100
 
-★ Stars: 759
+★ Stars: 769
 
 [Open repository](https://github.com/matthiasjost/dotnet-content-creators)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 769 | 100 | 
 | 2022-10-28 | 759 | 98 | 
 | 2022-10-27 | 755 | 98 | 
 | 2022-10-26 | 753 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 653 | 79 | 
 | 2022-10-01 | 653 | 79 | 
 | 2022-09-30 | 652 | 79 | 
-| 2022-09-29 | 652 | 79 | 
 

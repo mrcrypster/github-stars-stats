@@ -1,10 +1,10 @@
 # TeamYukki/YukkiMusicBot - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
-☋ Forks: 3436
+☋ Forks: 3442
 
-★ Stars: 950
+★ Stars: 951
 
 [Open repository](https://github.com/TeamYukki/YukkiMusicBot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 951 | 3442 | 
 | 2022-10-28 | 950 | 3436 | 
 | 2022-10-27 | 949 | 3433 | 
 | 2022-10-26 | 946 | 3430 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 951 | 3274 | 
 | 2022-10-01 | 949 | 3267 | 
 | 2022-09-30 | 949 | 3263 | 
-| 2022-09-29 | 948 | 3263 | 
 

@@ -1,6 +1,6 @@
 # rougier/book-mode - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 111 | 2 | 
 | 2022-10-28 | 111 | 2 | 
 | 2022-10-27 | 111 | 2 | 
 | 2022-10-26 | 111 | 2 | 

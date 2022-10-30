@@ -1,10 +1,10 @@
 # hyd628/moonbeam-intro-course-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 13
 
-★ Stars: 13
+★ Stars: 12
 
 [Open repository](https://github.com/hyd628/moonbeam-intro-course-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 12 | 13 | 
 | 2022-10-28 | 13 | 13 | 
 | 2022-10-27 | 13 | 13 | 
 | 2022-10-26 | 13 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 11 | 13 | 
 | 2022-10-01 | 11 | 13 | 
 | 2022-09-30 | 11 | 13 | 
-| 2022-09-29 | 11 | 13 | 
 

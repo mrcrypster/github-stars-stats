@@ -1,10 +1,10 @@
 # myth984/wechat-report - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 123
 
-★ Stars: 1010
+★ Stars: 1011
 
 [Open repository](https://github.com/myth984/wechat-report)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1011 | 123 | 
 | 2022-10-29 | 1010 | 123 | 
 | 2022-10-28 | 1009 | 123 | 
 | 2022-10-27 | 1008 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-02 | 1000 | 121 | 
 | 2022-10-01 | 1000 | 121 | 
 | 2022-09-30 | 1000 | 121 | 
-| 2022-09-29 | 999 | 121 | 
 

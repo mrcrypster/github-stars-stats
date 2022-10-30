@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 29
 
 ☋ Forks: 55
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/ShapeAI/Python-for-Data-Science-)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-29 | 87 | 55 | 
+| 2022-10-29 | 88 | 55 | 
 | 2022-10-28 | 87 | 55 | 
 | 2022-10-27 | 85 | 55 | 
 | 2022-10-26 | 79 | 53 | 

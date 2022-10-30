@@ -1,6 +1,6 @@
 # nvim-treesitter/nvim-treesitter-textobjects - stars & forks statistics
 
-Stats updated on Oct 2022, 28
+Stats updated on Oct 2022, 29
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 28
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-29 | 904 | 85 | 
 | 2022-10-28 | 904 | 85 | 
 | 2022-10-27 | 901 | 85 | 
 | 2022-10-26 | 900 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 28
 | 2022-10-02 | 858 | 80 | 
 | 2022-10-01 | 858 | 80 | 
 | 2022-09-30 | 858 | 80 | 
-| 2022-09-29 | 855 | 81 | 
 
