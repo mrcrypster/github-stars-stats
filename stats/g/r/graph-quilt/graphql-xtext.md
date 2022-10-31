@@ -1,6 +1,6 @@
 # graph-quilt/graphql-xtext - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 5
 
@@ -13,5 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 9 | 5 | 
+| 2022-10-30 | 9 | 5 | 
 | 2022-10-29 | 9 | 5 | 
 

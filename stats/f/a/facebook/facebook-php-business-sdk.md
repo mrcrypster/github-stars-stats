@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 30
 
 ☋ Forks: 485
 
-★ Stars: 711
+★ Stars: 712
 
 [Open repository](https://github.com/facebook/facebook-php-business-sdk)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 711 | 485 | 
+| 2022-10-30 | 712 | 485 | 
 | 2022-10-29 | 711 | 485 | 
 

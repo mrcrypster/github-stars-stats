@@ -1,6 +1,6 @@
 # DragonflyStats/Coursera-ML - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 307
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 388 | 307 | 
 | 2022-10-29 | 388 | 307 | 
 | 2022-10-28 | 388 | 307 | 
 | 2022-10-27 | 388 | 307 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 388 | 307 | 
 | 2022-10-02 | 388 | 307 | 
 | 2022-10-01 | 388 | 307 | 
-| 2022-09-30 | 388 | 307 | 
 

@@ -1,6 +1,6 @@
 # mattn/zig-curl - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 23 | - | 
 | 2022-10-29 | 23 | - | 
 | 2022-10-28 | 23 | - | 
 | 2022-10-27 | 23 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 23 | - | 
 | 2022-10-02 | 23 | - | 
 | 2022-10-01 | 23 | - | 
-| 2022-09-30 | 23 | - | 
 

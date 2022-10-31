@@ -1,10 +1,10 @@
 # spinnaker/clouddriver - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 996
+☋ Forks: 995
 
-★ Stars: 381
+★ Stars: 382
 
 [Open repository](https://github.com/spinnaker/clouddriver)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 382 | 995 | 
 | 2022-10-29 | 381 | 996 | 
 | 2022-10-28 | 381 | 997 | 
 | 2022-10-27 | 381 | 997 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 376 | 998 | 
 | 2022-10-02 | 376 | 998 | 
 | 2022-10-01 | 376 | 998 | 
-| 2022-09-30 | 376 | 998 | 
 

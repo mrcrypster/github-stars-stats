@@ -1,6 +1,6 @@
 # Kl4rry/simp - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 209 | 8 | 
 | 2022-10-29 | 209 | 8 | 
 | 2022-10-28 | 209 | 8 | 
 | 2022-10-27 | 209 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 201 | 7 | 
 | 2022-10-02 | 201 | 7 | 
 | 2022-10-01 | 201 | 7 | 
-| 2022-09-30 | 201 | 7 | 
 

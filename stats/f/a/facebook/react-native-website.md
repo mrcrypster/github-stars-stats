@@ -1,10 +1,10 @@
 # facebook/react-native-website - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 4073
+☋ Forks: 4072
 
-★ Stars: 1692
+★ Stars: 1693
 
 [Open repository](https://github.com/facebook/react-native-website)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1693 | 4072 | 
 | 2022-10-29 | 1692 | 4073 | 
 | 2022-10-28 | 1692 | 4068 | 
 | 2022-10-27 | 1692 | 4067 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1681 | 4043 | 
 | 2022-10-02 | 1678 | 4042 | 
 | 2022-10-01 | 1677 | 4040 | 
-| 2022-09-30 | 1677 | 4037 | 
 

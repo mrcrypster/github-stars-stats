@@ -1,6 +1,6 @@
 # mathiasvr/bluejay - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 342 | 32 | 
 | 2022-10-29 | 342 | 32 | 
 | 2022-10-28 | 342 | 32 | 
 | 2022-10-27 | 342 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 334 | 30 | 
 | 2022-10-02 | 334 | 30 | 
 | 2022-10-01 | 332 | 30 | 
-| 2022-09-30 | 332 | 30 | 
 

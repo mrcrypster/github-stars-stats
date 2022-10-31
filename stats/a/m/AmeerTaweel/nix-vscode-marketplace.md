@@ -1,10 +1,10 @@
 # AmeerTaweel/nix-vscode-marketplace - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/AmeerTaweel/nix-vscode-marketplace)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 33 | 1 | 
 | 2022-10-29 | 32 | 1 | 
 | 2022-10-28 | 32 | 1 | 
 | 2022-10-27 | 32 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 31 | 1 | 
 | 2022-10-02 | 31 | 1 | 
 | 2022-10-01 | 31 | 1 | 
-| 2022-09-30 | 31 | 1 | 
 

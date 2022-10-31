@@ -1,10 +1,10 @@
 # renovatebot/helm-charts - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 49
 
-★ Stars: 69
+★ Stars: 68
 
 [Open repository](https://github.com/renovatebot/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 68 | 49 | 
 | 2022-10-29 | 69 | 49 | 
 | 2022-10-28 | 68 | 49 | 
 | 2022-10-27 | 68 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 68 | 46 | 
 | 2022-10-02 | 68 | 46 | 
 | 2022-10-01 | 68 | 46 | 
-| 2022-09-30 | 68 | 46 | 
 

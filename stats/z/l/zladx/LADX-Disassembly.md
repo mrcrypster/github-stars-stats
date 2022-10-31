@@ -1,8 +1,8 @@
 # zladx/LADX-Disassembly - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 50
+☋ Forks: 51
 
 ★ Stars: 357
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 357 | 51 | 
 | 2022-10-29 | 357 | 50 | 
 | 2022-10-28 | 357 | 50 | 
 | 2022-10-27 | 357 | 50 | 

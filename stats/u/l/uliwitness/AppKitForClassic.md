@@ -1,6 +1,6 @@
 # uliwitness/AppKitForClassic - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 100 | 1 | 
 | 2022-10-29 | 100 | 1 | 
 | 2022-10-28 | 100 | 1 | 
 | 2022-10-27 | 100 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 98 | 1 | 
 | 2022-10-02 | 98 | 1 | 
 | 2022-10-01 | 98 | 1 | 
-| 2022-09-30 | 98 | 1 | 
 

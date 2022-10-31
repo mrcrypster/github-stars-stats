@@ -1,10 +1,10 @@
 # nix-community/nixago - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/nix-community/nixago)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 49 | 1 | 
 | 2022-10-30 | 48 | 1 | 
 | 2022-10-29 | 48 | 1 | 
 | 2022-10-28 | 48 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 44 | 1 | 
 | 2022-10-02 | 43 | 1 | 
 | 2022-10-01 | 43 | 1 | 
-| 2022-09-30 | 43 | 1 | 
 

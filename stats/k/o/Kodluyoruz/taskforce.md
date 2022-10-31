@@ -1,10 +1,10 @@
 # Kodluyoruz/taskforce - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1958
+☋ Forks: 1960
 
-★ Stars: 651
+★ Stars: 652
 
 [Open repository](https://github.com/Kodluyoruz/taskforce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 652 | 1960 | 
 | 2022-10-29 | 651 | 1958 | 
 | 2022-10-28 | 651 | 1953 | 
 | 2022-10-27 | 651 | 1950 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 630 | 1880 | 
 | 2022-10-02 | 629 | 1873 | 
 | 2022-10-01 | 628 | 1870 | 
-| 2022-09-30 | 628 | 1867 | 
 

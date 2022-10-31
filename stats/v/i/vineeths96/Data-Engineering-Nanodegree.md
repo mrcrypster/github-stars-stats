@@ -1,10 +1,10 @@
 # vineeths96/Data-Engineering-Nanodegree - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 52
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/vineeths96/Data-Engineering-Nanodegree)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 75 | 52 | 
 | 2022-10-29 | 74 | 52 | 
 | 2022-10-28 | 74 | 52 | 
 | 2022-10-27 | 74 | 52 | 

@@ -1,6 +1,6 @@
 # jsonapi-serializer/jsonapi-serializer - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1200 | 110 | 
 | 2022-10-30 | 1200 | 110 | 
 | 2022-10-28 | 1200 | 110 | 
 | 2022-10-27 | 1200 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 1198 | 111 | 
 | 2022-10-02 | 1197 | 111 | 
 | 2022-10-01 | 1196 | 111 | 
-| 2022-09-30 | 1196 | 111 | 
 

@@ -1,6 +1,6 @@
 # Baeldung/scala-tutorials - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 198 | 162 | 
 | 2022-10-29 | 198 | 162 | 
 | 2022-10-28 | 197 | 162 | 
 | 2022-10-27 | 196 | 162 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 194 | 159 | 
 | 2022-10-02 | 194 | 159 | 
 | 2022-10-01 | 194 | 159 | 
-| 2022-09-30 | 194 | 158 | 
 

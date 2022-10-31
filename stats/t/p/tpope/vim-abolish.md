@@ -1,6 +1,6 @@
 # tpope/vim-abolish - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2349 | 72 | 
 | 2022-10-29 | 2349 | 72 | 
 | 2022-10-28 | 2349 | 72 | 
 | 2022-10-27 | 2349 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2330 | 72 | 
 | 2022-10-02 | 2330 | 72 | 
 | 2022-10-01 | 2330 | 72 | 
-| 2022-09-30 | 2329 | 72 | 
 

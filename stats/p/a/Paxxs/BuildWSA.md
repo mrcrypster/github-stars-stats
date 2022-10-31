@@ -1,10 +1,10 @@
 # Paxxs/BuildWSA - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 592
+☋ Forks: 599
 
-★ Stars: 332
+★ Stars: 337
 
 [Open repository](https://github.com/Paxxs/BuildWSA)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 337 | 599 | 
 | 2022-10-29 | 332 | 592 | 
 | 2022-10-28 | 324 | 584 | 
 | 2022-10-27 | 320 | 578 | 

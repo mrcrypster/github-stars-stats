@@ -1,10 +1,10 @@
 # wgpsec/ENScan_GO - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 129
+☋ Forks: 128
 
-★ Stars: 869
+★ Stars: 872
 
 [Open repository](https://github.com/wgpsec/ENScan_GO)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 872 | 128 | 
 | 2022-10-29 | 869 | 129 | 
 | 2022-10-28 | 869 | 129 | 
 | 2022-10-27 | 867 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 825 | 119 | 
 | 2022-10-02 | 825 | 119 | 
 | 2022-10-01 | 825 | 119 | 
-| 2022-09-30 | 825 | 119 | 
 

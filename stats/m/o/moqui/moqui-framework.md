@@ -1,6 +1,6 @@
 # moqui/moqui-framework - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 181
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 235 | 181 | 
 | 2022-10-29 | 235 | 181 | 
 | 2022-10-28 | 235 | 181 | 
 | 2022-10-27 | 235 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 235 | 178 | 
 | 2022-10-02 | 235 | 178 | 
 | 2022-10-01 | 235 | 178 | 
-| 2022-09-30 | 235 | 178 | 
 

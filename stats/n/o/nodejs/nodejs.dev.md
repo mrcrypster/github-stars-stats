@@ -1,10 +1,10 @@
 # nodejs/nodejs.dev - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 936
+☋ Forks: 938
 
-★ Stars: 2152
+★ Stars: 2151
 
 [Open repository](https://github.com/nodejs/nodejs.dev)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2151 | 938 | 
 | 2022-10-29 | 2152 | 936 | 
 | 2022-10-28 | 2152 | 935 | 
 | 2022-10-27 | 2151 | 934 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2110 | 896 | 
 | 2022-10-02 | 2107 | 888 | 
 | 2022-10-01 | 2106 | 887 | 
-| 2022-09-30 | 2106 | 883 | 
 

@@ -1,10 +1,10 @@
 # dortania/OpenCore-Legacy-Patcher - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 422
+☋ Forks: 425
 
-★ Stars: 3788
+★ Stars: 3824
 
 [Open repository](https://github.com/dortania/OpenCore-Legacy-Patcher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3824 | 425 | 
 | 2022-10-29 | 3788 | 422 | 
 | 2022-10-28 | 3783 | 421 | 
 | 2022-10-27 | 3739 | 420 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3294 | 384 | 
 | 2022-10-02 | 3293 | 382 | 
 | 2022-10-01 | 3287 | 382 | 
-| 2022-09-30 | 3282 | 380 | 
 

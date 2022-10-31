@@ -1,6 +1,6 @@
 # ossia/libossia - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 173 | 26 | 
 | 2022-10-29 | 173 | 26 | 
 | 2022-10-28 | 173 | 26 | 
 | 2022-10-27 | 173 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 172 | 26 | 
 | 2022-10-03 | 171 | 26 | 
 | 2022-10-02 | 171 | 26 | 
-| 2022-10-01 | 171 | 26 | 
 

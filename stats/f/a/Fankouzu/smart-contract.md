@@ -1,6 +1,6 @@
 # Fankouzu/smart-contract - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 383 | 269 | 
 | 2022-10-29 | 383 | 269 | 
 | 2022-10-28 | 382 | 269 | 
 | 2022-10-27 | 382 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 378 | 264 | 
 | 2022-10-02 | 378 | 264 | 
 | 2022-10-01 | 377 | 264 | 
-| 2022-09-30 | 377 | 264 | 
 

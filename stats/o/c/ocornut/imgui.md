@@ -1,10 +1,10 @@
 # ocornut/imgui - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 7464
+☋ Forks: 7482
 
-★ Stars: 42543
+★ Stars: 42610
 
 [Open repository](https://github.com/ocornut/imgui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 42610 | 7482 | 
 | 2022-10-29 | 42543 | 7464 | 
 | 2022-10-28 | 42523 | 7460 | 
 | 2022-10-27 | 42505 | 7454 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 41965 | 7344 | 
 | 2022-10-02 | 41951 | 7336 | 
 | 2022-10-01 | 41933 | 7334 | 
-| 2022-09-30 | 41896 | 7325 | 
 

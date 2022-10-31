@@ -1,6 +1,6 @@
 # xujiyou/zhihu-flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 546
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3101 | 546 | 
 | 2022-10-29 | 3101 | 546 | 
 | 2022-10-28 | 3102 | 545 | 
 | 2022-10-27 | 3102 | 545 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3099 | 544 | 
 | 2022-10-02 | 3099 | 544 | 
 | 2022-10-01 | 3099 | 544 | 
-| 2022-09-30 | 3099 | 544 | 
 

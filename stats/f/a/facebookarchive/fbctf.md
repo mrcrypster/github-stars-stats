@@ -1,6 +1,6 @@
 # facebookarchive/fbctf - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1359
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 6455 | 1359 | 
 | 2022-10-29 | 6455 | 1359 | 
 | 2022-10-28 | 6454 | 1359 | 
 | 2022-10-27 | 6454 | 1361 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 6453 | 1363 | 
 | 2022-10-02 | 6453 | 1363 | 
 | 2022-10-01 | 6453 | 1363 | 
-| 2022-09-30 | 6452 | 1362 | 
 

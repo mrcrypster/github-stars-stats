@@ -1,10 +1,10 @@
 # hwdsl2/setup-ipsec-vpn - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 5465
 
-★ Stars: 20174
+★ Stars: 20180
 
 [Open repository](https://github.com/hwdsl2/setup-ipsec-vpn)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 20180 | 5465 | 
 | 2022-10-29 | 20174 | 5465 | 
 | 2022-10-28 | 20160 | 5463 | 
 | 2022-10-27 | 20148 | 5461 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 19897 | 5405 | 
 | 2022-10-02 | 19884 | 5405 | 
 | 2022-10-01 | 19876 | 5403 | 
-| 2022-09-30 | 19859 | 5397 | 
 

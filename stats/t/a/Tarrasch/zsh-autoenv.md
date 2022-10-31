@@ -1,8 +1,8 @@
 # Tarrasch/zsh-autoenv - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 28
+☋ Forks: 27
 
 ★ Stars: 601
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 601 | 27 | 
 | 2022-10-29 | 601 | 28 | 
 | 2022-10-28 | 600 | 28 | 
 | 2022-10-27 | 600 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 598 | 28 | 
 | 2022-10-02 | 598 | 28 | 
 | 2022-10-01 | 598 | 28 | 
-| 2022-09-30 | 598 | 28 | 
 

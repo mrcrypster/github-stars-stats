@@ -1,6 +1,6 @@
 # forrestbao/Run - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 250 | 7 | 
 | 2022-10-29 | 250 | 7 | 
 | 2022-10-28 | 250 | 7 | 
 | 2022-10-27 | 250 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 243 | 7 | 
 | 2022-10-02 | 243 | 7 | 
 | 2022-10-01 | 243 | 7 | 
-| 2022-09-30 | 243 | 7 | 
 

@@ -1,10 +1,10 @@
 # venetisgr/space_titanic_basic - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 100
 
-★ Stars: 257
+★ Stars: 315
 
 [Open repository](https://github.com/venetisgr/space_titanic_basic)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 315 | 100 | 
 | 2022-10-29 | 257 | 100 | 
 | 2022-10-28 | 216 | 100 | 
 | 2022-10-27 | 212 | 100 | 

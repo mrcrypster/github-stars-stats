@@ -1,6 +1,6 @@
 # WOA-Project/SurfaceDuoPkg - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 84 | 12 | 
 | 2022-10-29 | 84 | 12 | 
 | 2022-10-28 | 84 | 12 | 
 | 2022-10-27 | 84 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 78 | 12 | 
 | 2022-10-03 | 78 | 12 | 
 | 2022-10-02 | 78 | 12 | 
-| 2022-10-01 | 75 | 11 | 
 

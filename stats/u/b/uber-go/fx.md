@@ -1,10 +1,10 @@
 # uber-go/fx - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 209
+☋ Forks: 210
 
-★ Stars: 3195
+★ Stars: 3197
 
 [Open repository](https://github.com/uber-go/fx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3197 | 210 | 
 | 2022-10-29 | 3195 | 209 | 
 | 2022-10-28 | 3194 | 211 | 
 | 2022-10-27 | 3194 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3138 | 208 | 
 | 2022-10-02 | 3137 | 208 | 
 | 2022-10-01 | 3130 | 208 | 
-| 2022-09-30 | 3124 | 208 | 
 

@@ -1,8 +1,8 @@
 # square/kotlinpoet - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 256
+☋ Forks: 255
 
 ★ Stars: 3345
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3345 | 255 | 
 | 2022-10-29 | 3345 | 256 | 
 | 2022-10-28 | 3345 | 257 | 
 | 2022-10-27 | 3345 | 257 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3323 | 252 | 
 | 2022-10-02 | 3322 | 252 | 
 | 2022-10-01 | 3321 | 252 | 
-| 2022-09-30 | 3321 | 252 | 
 

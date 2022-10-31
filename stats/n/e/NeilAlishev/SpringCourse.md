@@ -1,8 +1,8 @@
 # NeilAlishev/SpringCourse - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 948
+☋ Forks: 949
 
 ★ Stars: 283
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 283 | 949 | 
 | 2022-10-29 | 283 | 948 | 
 | 2022-10-28 | 283 | 946 | 
 | 2022-10-27 | 283 | 942 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 267 | 897 | 
 | 2022-10-02 | 267 | 897 | 
 | 2022-10-01 | 267 | 896 | 
-| 2022-09-30 | 267 | 894 | 
 

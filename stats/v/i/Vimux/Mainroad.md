@@ -1,10 +1,10 @@
 # Vimux/Mainroad - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 395
 
-★ Stars: 696
+★ Stars: 697
 
 [Open repository](https://github.com/Vimux/Mainroad)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 697 | 395 | 
 | 2022-10-29 | 696 | 395 | 
 | 2022-10-28 | 696 | 395 | 
 | 2022-10-27 | 696 | 395 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 694 | 393 | 
 | 2022-10-03 | 694 | 392 | 
 | 2022-10-02 | 695 | 392 | 
-| 2022-10-01 | 695 | 391 | 
 

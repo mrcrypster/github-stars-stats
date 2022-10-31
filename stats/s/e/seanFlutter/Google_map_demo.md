@@ -1,6 +1,6 @@
 # seanFlutter/Google_map_demo - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 16 | 7 | 
 | 2022-10-30 | 16 | 7 | 
 | 2022-10-29 | 16 | 7 | 
 | 2022-10-28 | 16 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 16 | 7 | 
 | 2022-10-02 | 16 | 7 | 
 | 2022-10-01 | 16 | 7 | 
-| 2022-09-30 | 16 | 7 | 
 

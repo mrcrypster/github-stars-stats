@@ -1,6 +1,6 @@
 # geohot/tinyvoice - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 321 | 35 | 
 | 2022-10-29 | 321 | 35 | 
 | 2022-10-28 | 321 | 35 | 
 | 2022-10-27 | 321 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 324 | 36 | 
 | 2022-10-02 | 324 | 36 | 
 | 2022-10-01 | 324 | 36 | 
-| 2022-09-30 | 325 | 36 | 
 

@@ -1,10 +1,10 @@
 # BenSampo/laravel-enum - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 139
 
-★ Stars: 1735
+★ Stars: 1736
 
 [Open repository](https://github.com/BenSampo/laravel-enum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1736 | 139 | 
 | 2022-10-29 | 1735 | 139 | 
 | 2022-10-28 | 1733 | 139 | 
 | 2022-10-27 | 1733 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1713 | 135 | 
 | 2022-10-02 | 1713 | 135 | 
 | 2022-10-01 | 1713 | 136 | 
-| 2022-09-30 | 1712 | 136 | 
 

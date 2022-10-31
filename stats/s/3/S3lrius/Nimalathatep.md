@@ -1,6 +1,6 @@
 # S3lrius/Nimalathatep - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 37 | 7 | 
 | 2022-10-29 | 37 | 7 | 
 | 2022-10-28 | 37 | 6 | 
 | 2022-10-27 | 37 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 35 | 6 | 
 | 2022-10-02 | 35 | 6 | 
 | 2022-10-01 | 34 | 6 | 
-| 2022-09-30 | 33 | 6 | 
 

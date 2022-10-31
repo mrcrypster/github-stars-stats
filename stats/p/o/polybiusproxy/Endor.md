@@ -1,6 +1,6 @@
 # polybiusproxy/Endor - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15 | 2 | 
 | 2022-10-30 | 15 | 2 | 
 | 2022-10-29 | 15 | 2 | 
 | 2022-10-27 | 15 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 11 | 2 | 
 | 2022-10-02 | 11 | 2 | 
 | 2022-10-01 | 11 | 2 | 
-| 2022-09-30 | 11 | 2 | 
 

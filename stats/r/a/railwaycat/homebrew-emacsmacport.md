@@ -1,10 +1,10 @@
 # railwaycat/homebrew-emacsmacport - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 112
 
-★ Stars: 1448
+★ Stars: 1449
 
 [Open repository](https://github.com/railwaycat/homebrew-emacsmacport)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1449 | 112 | 
 | 2022-10-30 | 1448 | 112 | 
 | 2022-10-29 | 1448 | 113 | 
 | 2022-10-27 | 1448 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 1429 | 111 | 
 | 2022-10-02 | 1428 | 111 | 
 | 2022-10-01 | 1428 | 111 | 
-| 2022-09-30 | 1428 | 111 | 
 

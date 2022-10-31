@@ -1,6 +1,6 @@
 # YGYOOO/WeChat-Shelter - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 852 | 127 | 
 | 2022-10-29 | 852 | 127 | 
 | 2022-10-28 | 852 | 127 | 
 | 2022-10-27 | 852 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 848 | 127 | 
 | 2022-10-03 | 848 | 127 | 
 | 2022-10-02 | 848 | 127 | 
-| 2022-10-01 | 849 | 127 | 
 

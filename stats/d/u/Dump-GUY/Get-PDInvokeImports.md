@@ -1,10 +1,10 @@
 # Dump-GUY/Get-PDInvokeImports - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 5
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/Dump-GUY/Get-PDInvokeImports)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 45 | 5 | 
 | 2022-10-29 | 44 | 5 | 
 | 2022-10-28 | 44 | 5 | 
 | 2022-10-27 | 44 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 43 | 5 | 
 | 2022-10-02 | 43 | 5 | 
 | 2022-10-01 | 43 | 5 | 
-| 2022-09-30 | 43 | 5 | 
 

@@ -1,6 +1,6 @@
 # AtsushiSakai/MATLABRobotics - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 460 | 294 | 
 | 2022-10-29 | 460 | 294 | 
 | 2022-10-28 | 460 | 294 | 
 | 2022-10-27 | 460 | 294 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 453 | 294 | 
 | 2022-10-02 | 453 | 294 | 
 | 2022-10-01 | 453 | 294 | 
-| 2022-09-30 | 453 | 294 | 
 

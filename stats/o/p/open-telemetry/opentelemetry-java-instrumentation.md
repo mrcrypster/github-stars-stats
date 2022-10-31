@@ -1,10 +1,10 @@
 # open-telemetry/opentelemetry-java-instrumentation - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 462
 
-★ Stars: 1048
+★ Stars: 1049
 
 [Open repository](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1049 | 462 | 
 | 2022-10-29 | 1048 | 462 | 
 | 2022-10-28 | 1047 | 464 | 
 | 2022-10-27 | 1045 | 464 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1013 | 451 | 
 | 2022-10-02 | 1013 | 451 | 
 | 2022-10-01 | 1013 | 451 | 
-| 2022-09-30 | 1013 | 450 | 
 

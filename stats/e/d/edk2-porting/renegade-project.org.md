@@ -1,10 +1,10 @@
 # edk2-porting/renegade-project.org - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 454
+☋ Forks: 453
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/edk2-porting/renegade-project.org)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 422 | 453 | 
 | 2022-10-29 | 421 | 454 | 
 | 2022-10-28 | 421 | 454 | 
 | 2022-10-27 | 421 | 454 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 414 | 435 | 
 | 2022-10-02 | 412 | 435 | 
 | 2022-10-01 | 412 | 434 | 
-| 2022-09-30 | 411 | 433 | 
 

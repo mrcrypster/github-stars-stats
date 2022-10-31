@@ -1,10 +1,10 @@
 # dstotijn/hetty - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 277
 
-★ Stars: 4974
+★ Stars: 4976
 
 [Open repository](https://github.com/dstotijn/hetty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 4976 | 277 | 
 | 2022-10-29 | 4974 | 277 | 
 | 2022-10-28 | 4972 | 277 | 
 | 2022-10-27 | 4971 | 277 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 4901 | 271 | 
 | 2022-10-03 | 4901 | 271 | 
 | 2022-10-02 | 4900 | 271 | 
-| 2022-09-30 | 4899 | 271 | 
 

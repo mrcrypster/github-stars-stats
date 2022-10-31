@@ -1,10 +1,10 @@
 # bytedance/monoio - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 117
 
-★ Stars: 2312
+★ Stars: 2314
 
 [Open repository](https://github.com/bytedance/monoio)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2314 | 117 | 
 | 2022-10-29 | 2312 | 117 | 
 | 2022-10-28 | 2310 | 117 | 
 | 2022-10-27 | 2308 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 2243 | 113 | 
 | 2022-10-03 | 2240 | 112 | 
 | 2022-10-02 | 2239 | 111 | 
-| 2022-10-01 | 2239 | 111 | 
 

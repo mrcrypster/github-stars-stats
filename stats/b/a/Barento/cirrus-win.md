@@ -1,6 +1,6 @@
 # Barento/cirrus-win - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2 | 36 | 
 | 2022-10-29 | 2 | 36 | 
 | 2022-10-28 | 2 | 36 | 
 | 2022-10-27 | 2 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1 | 36 | 
 | 2022-10-02 | 1 | 36 | 
 | 2022-10-01 | 1 | 36 | 
-| 2022-09-30 | 1 | 36 | 
 

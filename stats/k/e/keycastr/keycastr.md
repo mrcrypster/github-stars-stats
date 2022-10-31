@@ -1,10 +1,10 @@
 # keycastr/keycastr - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 437
 
-★ Stars: 9303
+★ Stars: 9308
 
 [Open repository](https://github.com/keycastr/keycastr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 9308 | 437 | 
 | 2022-10-29 | 9303 | 437 | 
 | 2022-10-28 | 9298 | 437 | 
 | 2022-10-27 | 9294 | 437 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 9159 | 432 | 
 | 2022-10-02 | 9158 | 432 | 
 | 2022-10-01 | 9153 | 432 | 
-| 2022-09-30 | 9151 | 432 | 
 

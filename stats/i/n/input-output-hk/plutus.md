@@ -1,10 +1,10 @@
 # input-output-hk/plutus - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 428
 
-★ Stars: 1413
+★ Stars: 1412
 
 [Open repository](https://github.com/input-output-hk/plutus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1412 | 428 | 
 | 2022-10-29 | 1413 | 428 | 
 | 2022-10-28 | 1413 | 428 | 
 | 2022-10-27 | 1413 | 428 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1405 | 423 | 
 | 2022-10-02 | 1405 | 423 | 
 | 2022-10-01 | 1405 | 423 | 
-| 2022-09-30 | 1404 | 424 | 
 

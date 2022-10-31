@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 30
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/NikodemBartnik/Pico-Mars-Rover)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 19 | 3 | 
+| 2022-10-30 | 21 | 3 | 
 | 2022-10-29 | 19 | 3 | 
 | 2022-10-28 | 17 | 3 | 
 

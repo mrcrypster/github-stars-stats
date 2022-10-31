@@ -1,8 +1,8 @@
 # Eisbison/TheOtherRoles - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 253
+☋ Forks: 252
 
 ★ Stars: 586
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 586 | 252 | 
 | 2022-10-29 | 586 | 253 | 
 | 2022-10-28 | 584 | 253 | 
 | 2022-10-27 | 584 | 253 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 572 | 246 | 
 | 2022-10-02 | 572 | 245 | 
 | 2022-10-01 | 572 | 245 | 
-| 2022-09-30 | 572 | 244 | 
 

@@ -1,10 +1,10 @@
 # UnoSD/Pulumi.FSharp.Extensions - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 76
+★ Stars: 78
 
 [Open repository](https://github.com/UnoSD/Pulumi.FSharp.Extensions)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 78 | 4 | 
 | 2022-10-29 | 76 | 4 | 
 | 2022-10-28 | 76 | 4 | 
 | 2022-10-27 | 76 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 76 | 4 | 
 | 2022-10-02 | 76 | 4 | 
 | 2022-10-01 | 76 | 4 | 
-| 2022-09-30 | 76 | 4 | 
 

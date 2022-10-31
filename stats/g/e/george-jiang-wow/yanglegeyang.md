@@ -1,6 +1,6 @@
 # george-jiang-wow/yanglegeyang - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 273 | 288 | 
 | 2022-10-29 | 273 | 288 | 
 | 2022-10-28 | 272 | 287 | 
 | 2022-10-27 | 272 | 286 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 258 | 257 | 
 | 2022-10-02 | 255 | 255 | 
 | 2022-10-01 | 255 | 254 | 
-| 2022-09-30 | 254 | 255 | 
 

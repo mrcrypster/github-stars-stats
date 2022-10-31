@@ -1,6 +1,6 @@
 # FluxML/GeometricFlux.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 306 | 25 | 
 | 2022-10-29 | 306 | 25 | 
 | 2022-10-28 | 306 | 25 | 
 | 2022-10-27 | 306 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 303 | 25 | 
 | 2022-10-02 | 303 | 25 | 
 | 2022-10-01 | 303 | 25 | 
-| 2022-09-30 | 303 | 25 | 
 

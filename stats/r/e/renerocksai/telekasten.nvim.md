@@ -1,6 +1,6 @@
 # renerocksai/telekasten.nvim - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 525 | 36 | 
 | 2022-10-29 | 525 | 36 | 
 | 2022-10-28 | 524 | 36 | 
 | 2022-10-27 | 519 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 478 | 32 | 
 | 2022-10-02 | 477 | 32 | 
 | 2022-10-01 | 476 | 32 | 
-| 2022-09-30 | 476 | 32 | 
 

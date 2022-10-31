@@ -1,10 +1,10 @@
 # mathworks/MathWorks-Excellence-in-Innovation - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 149
 
-★ Stars: 540
+★ Stars: 539
 
 [Open repository](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 539 | 149 | 
 | 2022-10-29 | 540 | 149 | 
 | 2022-10-28 | 537 | 148 | 
 | 2022-10-27 | 535 | 148 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 518 | 142 | 
 | 2022-10-02 | 518 | 142 | 
 | 2022-10-01 | 518 | 141 | 
-| 2022-09-30 | 517 | 141 | 
 

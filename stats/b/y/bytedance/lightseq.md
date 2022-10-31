@@ -1,6 +1,6 @@
 # bytedance/lightseq - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 253
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2367 | 253 | 
 | 2022-10-30 | 2367 | 253 | 
 | 2022-10-29 | 2367 | 253 | 
 | 2022-10-27 | 2367 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 2318 | 248 | 
 | 2022-10-02 | 2315 | 248 | 
 | 2022-10-01 | 2315 | 248 | 
-| 2022-09-30 | 2316 | 248 | 
 

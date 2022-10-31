@@ -1,6 +1,6 @@
 # rainbow-me/rainbowkit - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1309 | 208 | 
 | 2022-10-29 | 1309 | 208 | 
 | 2022-10-28 | 1306 | 206 | 
 | 2022-10-27 | 1302 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1205 | 164 | 
 | 2022-10-02 | 1203 | 164 | 
 | 2022-10-01 | 1198 | 164 | 
-| 2022-09-30 | 1197 | 162 | 
 

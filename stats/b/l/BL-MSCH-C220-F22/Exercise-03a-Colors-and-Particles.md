@@ -1,6 +1,6 @@
 # BL-MSCH-C220-F22/Exercise-03a-Colors-and-Particles - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | - | 43 | 
 | 2022-10-29 | - | 43 | 
 | 2022-10-28 | - | 43 | 
 | 2022-10-27 | - | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | - | 40 | 
 | 2022-10-02 | - | 40 | 
 | 2022-10-01 | - | 39 | 
-| 2022-09-30 | - | 37 | 
 

@@ -1,10 +1,10 @@
 # JoeSzymkowiczFiveM/qb-chameleonpaint - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 11
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/JoeSzymkowiczFiveM/qb-chameleonpaint)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 13 | 11 | 
 | 2022-10-29 | 12 | 11 | 
 | 2022-10-28 | 12 | 11 | 
 | 2022-10-27 | 12 | 11 | 

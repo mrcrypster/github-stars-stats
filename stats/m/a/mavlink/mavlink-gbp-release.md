@@ -1,10 +1,10 @@
 # mavlink/mavlink-gbp-release - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 66
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/mavlink/mavlink-gbp-release)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 19 | 66 | 
 | 2022-10-29 | 18 | 66 | 
 | 2022-10-28 | 18 | 66 | 
 | 2022-10-27 | 18 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 18 | 67 | 
 | 2022-10-03 | 18 | 67 | 
 | 2022-10-02 | 18 | 67 | 
-| 2022-10-01 | 18 | 67 | 
 

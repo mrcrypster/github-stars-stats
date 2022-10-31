@@ -1,10 +1,10 @@
 # arthurchoung/HOTDOG - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 6
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/arthurchoung/HOTDOG)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 195 | 6 | 
 | 2022-10-29 | 194 | 6 | 
 | 2022-10-28 | 194 | 6 | 
 | 2022-10-27 | 194 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 193 | 6 | 
 | 2022-10-02 | 193 | 6 | 
 | 2022-10-01 | 192 | 6 | 
-| 2022-09-30 | 192 | 6 | 
 

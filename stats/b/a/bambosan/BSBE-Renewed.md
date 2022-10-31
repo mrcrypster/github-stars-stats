@@ -1,6 +1,6 @@
 # bambosan/BSBE-Renewed - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 18 | 5 | 
 | 2022-10-29 | 18 | 5 | 
 | 2022-10-28 | 18 | 5 | 
 | 2022-10-27 | 18 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 18 | 5 | 
 | 2022-10-02 | 18 | 5 | 
 | 2022-10-01 | 18 | 5 | 
-| 2022-09-30 | 18 | 5 | 
 

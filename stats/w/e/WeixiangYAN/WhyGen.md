@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 30
 
 ☋ Forks: 10
 
-★ Stars: 41
+★ Stars: 46
 
 [Open repository](https://github.com/WeixiangYAN/WhyGen)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 41 | 10 | 
+| 2022-10-30 | 46 | 10 | 
 | 2022-10-29 | 39 | 10 | 
 

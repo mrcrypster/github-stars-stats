@@ -1,10 +1,10 @@
 # rainbow-me/rainbow - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 429
+☋ Forks: 428
 
-★ Stars: 3069
+★ Stars: 3074
 
 [Open repository](https://github.com/rainbow-me/rainbow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3074 | 428 | 
 | 2022-10-29 | 3069 | 429 | 
 | 2022-10-28 | 3067 | 428 | 
 | 2022-10-27 | 3066 | 427 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3027 | 419 | 
 | 2022-10-02 | 3025 | 419 | 
 | 2022-10-01 | 3025 | 419 | 
-| 2022-09-30 | 3023 | 419 | 
 

@@ -1,8 +1,8 @@
 # khuyentran1401/Data-science - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 785
+☋ Forks: 786
 
 ★ Stars: 2882
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2882 | 786 | 
 | 2022-10-29 | 2882 | 785 | 
 | 2022-10-28 | 2882 | 785 | 
 | 2022-10-27 | 2882 | 785 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2843 | 782 | 
 | 2022-10-02 | 2841 | 782 | 
 | 2022-10-01 | 2840 | 781 | 
-| 2022-09-30 | 2835 | 779 | 
 

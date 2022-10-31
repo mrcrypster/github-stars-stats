@@ -1,6 +1,6 @@
 # MPR-News/covid-data - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 17 | 1 | 
 | 2022-10-29 | 17 | 1 | 
 | 2022-10-28 | 17 | 1 | 
 | 2022-10-27 | 17 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 17 | 1 | 
 | 2022-10-03 | 17 | 1 | 
 | 2022-10-02 | 17 | 1 | 
-| 2022-10-01 | 17 | 1 | 
 

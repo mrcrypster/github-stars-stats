@@ -1,6 +1,6 @@
 # erfanoabdi/gbinder-python - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 7 | 12 | 
 | 2022-10-29 | 7 | 12 | 
 | 2022-10-28 | 7 | 12 | 
 | 2022-10-27 | 7 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 6 | 11 | 
 | 2022-10-02 | 6 | 11 | 
 | 2022-10-01 | 6 | 11 | 
-| 2022-09-30 | 6 | 11 | 
 

@@ -1,6 +1,6 @@
 # t3l3machus/eviltree - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 177 | 15 | 
 | 2022-10-29 | 177 | 15 | 
 | 2022-10-28 | 177 | 15 | 
 | 2022-10-27 | 176 | 15 | 

@@ -1,10 +1,10 @@
 # simplcommerce/SimplCommerce - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1380
 
-★ Stars: 3718
+★ Stars: 3719
 
 [Open repository](https://github.com/simplcommerce/SimplCommerce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3719 | 1380 | 
 | 2022-10-29 | 3718 | 1380 | 
 | 2022-10-28 | 3717 | 1382 | 
 | 2022-10-27 | 3715 | 1381 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3698 | 1365 | 
 | 2022-10-02 | 3697 | 1365 | 
 | 2022-10-01 | 3695 | 1366 | 
-| 2022-09-30 | 3695 | 1365 | 
 

@@ -1,6 +1,6 @@
 # rootclay/WMIHACKER - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 194
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 904 | 194 | 
 | 2022-10-30 | 904 | 194 | 
 | 2022-10-29 | 904 | 194 | 
 | 2022-10-28 | 904 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 897 | 193 | 
 | 2022-10-02 | 897 | 193 | 
 | 2022-10-01 | 896 | 193 | 
-| 2022-09-30 | 895 | 193 | 
 

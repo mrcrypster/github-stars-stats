@@ -1,6 +1,6 @@
 # ClosedXML/ClosedXML - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 665
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3354 | 665 | 
 | 2022-10-29 | 3354 | 665 | 
 | 2022-10-28 | 3353 | 666 | 
 | 2022-10-27 | 3352 | 664 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3311 | 662 | 
 | 2022-10-02 | 3309 | 662 | 
 | 2022-10-01 | 3308 | 662 | 
-| 2022-09-30 | 3307 | 662 | 
 

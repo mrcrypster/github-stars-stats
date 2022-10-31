@@ -1,6 +1,6 @@
 # WangXuan95/FpOC - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 178 | 75 | 
 | 2022-10-29 | 178 | 75 | 
 | 2022-10-28 | 178 | 75 | 
 | 2022-10-27 | 177 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 167 | 72 | 
 | 2022-10-02 | 167 | 71 | 
 | 2022-10-01 | 167 | 71 | 
-| 2022-09-30 | 167 | 71 | 
 

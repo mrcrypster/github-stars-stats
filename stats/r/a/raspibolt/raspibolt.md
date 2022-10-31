@@ -1,6 +1,6 @@
 # raspibolt/raspibolt - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 332
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1061 | 332 | 
 | 2022-10-29 | 1061 | 332 | 
 | 2022-10-28 | 1061 | 332 | 
 | 2022-10-27 | 1061 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 1060 | 330 | 
 | 2022-10-03 | 1060 | 330 | 
 | 2022-10-01 | 1059 | 330 | 
-| 2022-09-30 | 1059 | 330 | 
 

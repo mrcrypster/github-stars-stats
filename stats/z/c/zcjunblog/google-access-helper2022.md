@@ -1,10 +1,10 @@
 # zcjunblog/google-access-helper2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 154
 
-★ Stars: 348
+★ Stars: 349
 
 [Open repository](https://github.com/zcjunblog/google-access-helper2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 349 | 154 | 
 | 2022-10-29 | 348 | 154 | 
 | 2022-10-28 | 348 | 155 | 
 | 2022-10-27 | 347 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 341 | 149 | 
 | 2022-10-02 | 341 | 149 | 
 | 2022-10-01 | 342 | 149 | 
-| 2022-09-30 | 341 | 149 | 
 

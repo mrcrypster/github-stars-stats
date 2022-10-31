@@ -1,6 +1,6 @@
 # pozil/sf-docs-to-s3 - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 16 | 7 | 
 | 2022-10-29 | 16 | 7 | 
 | 2022-10-28 | 16 | 7 | 
 | 2022-10-27 | 16 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 14 | 7 | 
 | 2022-10-03 | 14 | 7 | 
 | 2022-10-02 | 14 | 7 | 
-| 2022-10-01 | 14 | 7 | 
 

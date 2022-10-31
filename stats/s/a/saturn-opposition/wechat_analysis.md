@@ -1,10 +1,10 @@
 # saturn-opposition/wechat_analysis - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 23
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/saturn-opposition/wechat_analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 128 | 23 | 
 | 2022-10-29 | 127 | 23 | 
 | 2022-10-28 | 125 | 23 | 
 | 2022-10-27 | 125 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 110 | 20 | 
 | 2022-10-02 | 110 | 20 | 
 | 2022-10-01 | 110 | 20 | 
-| 2022-09-30 | 109 | 20 | 
 

@@ -1,6 +1,6 @@
 # zhuifengshaonianhanlu/pikachu - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 599
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2497 | 599 | 
 | 2022-10-29 | 2497 | 599 | 
 | 2022-10-28 | 2497 | 598 | 
 | 2022-10-27 | 2493 | 597 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 2441 | 583 | 
 | 2022-10-03 | 2440 | 583 | 
 | 2022-10-02 | 2440 | 583 | 
-| 2022-10-01 | 2440 | 583 | 
 

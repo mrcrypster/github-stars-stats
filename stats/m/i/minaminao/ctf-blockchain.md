@@ -1,10 +1,10 @@
 # minaminao/ctf-blockchain - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 8
 
-★ Stars: 268
+★ Stars: 272
 
 [Open repository](https://github.com/minaminao/ctf-blockchain)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 272 | 8 | 
 | 2022-10-30 | 268 | 8 | 
 | 2022-10-29 | 268 | 8 | 
 | 2022-10-28 | 268 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 249 | 7 | 
 | 2022-10-02 | 248 | 7 | 
 | 2022-10-01 | 247 | 7 | 
-| 2022-09-30 | 247 | 7 | 
 

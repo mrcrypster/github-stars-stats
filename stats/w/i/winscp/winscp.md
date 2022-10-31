@@ -1,10 +1,10 @@
 # winscp/winscp - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 226
 
-★ Stars: 1498
+★ Stars: 1501
 
 [Open repository](https://github.com/winscp/winscp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1501 | 226 | 
 | 2022-10-29 | 1498 | 226 | 
 | 2022-10-28 | 1495 | 226 | 
 | 2022-10-27 | 1492 | 226 | 

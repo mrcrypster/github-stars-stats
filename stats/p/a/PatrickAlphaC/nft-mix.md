@@ -1,6 +1,6 @@
 # PatrickAlphaC/nft-mix - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 421
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 797 | 421 | 
 | 2022-10-29 | 797 | 421 | 
 | 2022-10-28 | 797 | 421 | 
 | 2022-10-27 | 797 | 421 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 796 | 419 | 
 | 2022-10-03 | 794 | 419 | 
 | 2022-10-02 | 793 | 419 | 
-| 2022-10-01 | 793 | 419 | 
 

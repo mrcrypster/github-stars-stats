@@ -1,6 +1,6 @@
 # Zuntek/WeekToDoWeb - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 313 | 33 | 
 | 2022-10-29 | 313 | 33 | 
 | 2022-10-28 | 312 | 33 | 
 | 2022-10-27 | 311 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 306 | 31 | 
 | 2022-10-02 | 306 | 31 | 
 | 2022-10-01 | 306 | 31 | 
-| 2022-09-30 | 306 | 31 | 
 

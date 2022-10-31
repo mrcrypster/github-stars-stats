@@ -1,6 +1,6 @@
 # sambacha/Procedural-Approaches-Towards-MEV - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 44 | 1 | 
 | 2022-10-29 | 44 | 1 | 
 | 2022-10-28 | 44 | 1 | 
 | 2022-10-27 | 44 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 39 | 1 | 
 | 2022-10-02 | 39 | 1 | 
 | 2022-10-01 | 39 | 1 | 
-| 2022-09-30 | 39 | 1 | 
 

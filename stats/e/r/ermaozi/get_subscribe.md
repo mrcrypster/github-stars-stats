@@ -1,6 +1,6 @@
 # ermaozi/get_subscribe - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 385
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2965 | 385 | 
 | 2022-10-29 | 2965 | 385 | 
 | 2022-10-28 | 2959 | 385 | 
 | 2022-10-27 | 2951 | 384 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2754 | 372 | 
 | 2022-10-02 | 2748 | 370 | 
 | 2022-10-01 | 2741 | 369 | 
-| 2022-09-30 | 2733 | 368 | 
 

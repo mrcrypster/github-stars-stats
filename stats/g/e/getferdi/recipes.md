@@ -1,8 +1,8 @@
 # getferdi/recipes - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 209
+☋ Forks: 210
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 9 | 210 | 
 | 2022-10-29 | 9 | 209 | 
 | 2022-10-28 | 9 | 209 | 
 | 2022-10-27 | 9 | 209 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 9 | 212 | 
 | 2022-10-02 | 9 | 212 | 
 | 2022-10-01 | 9 | 212 | 
-| 2022-09-30 | 9 | 213 | 
 

@@ -1,10 +1,10 @@
 # GoneTone/genshin-impact-wish-gacha-analyzer - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 14
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 125 | 14 | 
 | 2022-10-30 | 124 | 14 | 
 | 2022-10-28 | 124 | 14 | 
 | 2022-10-27 | 124 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 123 | 14 | 
 | 2022-10-02 | 123 | 14 | 
 | 2022-10-01 | 123 | 14 | 
-| 2022-09-30 | 123 | 14 | 
 

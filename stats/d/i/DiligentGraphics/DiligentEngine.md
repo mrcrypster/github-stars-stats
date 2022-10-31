@@ -1,10 +1,10 @@
 # DiligentGraphics/DiligentEngine - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 260
 
-★ Stars: 2554
+★ Stars: 2555
 
 [Open repository](https://github.com/DiligentGraphics/DiligentEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2555 | 260 | 
 | 2022-10-29 | 2554 | 260 | 
 | 2022-10-28 | 2555 | 260 | 
 | 2022-10-27 | 2553 | 260 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2513 | 258 | 
 | 2022-10-02 | 2511 | 258 | 
 | 2022-10-01 | 2509 | 258 | 
-| 2022-09-30 | 2509 | 257 | 
 

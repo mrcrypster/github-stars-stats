@@ -1,6 +1,6 @@
 # openshift/verification-tests - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 42 | 152 | 
 | 2022-10-29 | 42 | 152 | 
 | 2022-10-28 | 42 | 152 | 
 | 2022-10-27 | 42 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 42 | 152 | 
 | 2022-10-02 | 42 | 152 | 
 | 2022-10-01 | 42 | 152 | 
-| 2022-09-30 | 42 | 152 | 
 

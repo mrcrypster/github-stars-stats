@@ -1,6 +1,6 @@
 # ECE452-S22/project - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | - | 3 | 
 | 2022-10-30 | - | 3 | 
 | 2022-10-29 | - | 3 | 
 | 2022-10-27 | - | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | - | 3 | 
 | 2022-10-02 | - | 3 | 
 | 2022-10-01 | - | 3 | 
-| 2022-09-30 | - | 3 | 
 

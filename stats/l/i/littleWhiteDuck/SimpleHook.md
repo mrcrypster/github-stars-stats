@@ -1,6 +1,6 @@
 # littleWhiteDuck/SimpleHook - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 159 | 25 | 
 | 2022-10-29 | 159 | 25 | 
 | 2022-10-28 | 158 | 25 | 
 | 2022-10-27 | 156 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 147 | 22 | 
 | 2022-10-02 | 146 | 22 | 
 | 2022-10-01 | 145 | 22 | 
-| 2022-09-30 | 145 | 22 | 
 

@@ -1,6 +1,6 @@
 # leandromoreira/cdn-up-and-running - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 227 | 19 | 
 | 2022-10-29 | 227 | 19 | 
 | 2022-10-28 | 227 | 19 | 
 | 2022-10-27 | 227 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 224 | 18 | 
 | 2022-10-02 | 223 | 18 | 
 | 2022-10-01 | 223 | 18 | 
-| 2022-09-30 | 221 | 18 | 
 

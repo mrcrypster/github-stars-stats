@@ -1,10 +1,10 @@
 # select2/select2 - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 6348
+☋ Forks: 6349
 
-★ Stars: 25450
+★ Stars: 25451
 
 [Open repository](https://github.com/select2/select2)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 25451 | 6349 | 
 | 2022-10-29 | 25450 | 6348 | 
 | 2022-10-28 | 25450 | 6348 | 
 | 2022-10-27 | 25449 | 6349 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 25443 | 6340 | 
 | 2022-10-03 | 25443 | 6341 | 
 | 2022-10-02 | 25441 | 6342 | 
-| 2022-10-01 | 25439 | 6342 | 
 

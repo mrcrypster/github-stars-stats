@@ -1,10 +1,10 @@
 # woodrush/lambdavm - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/woodrush/lambdavm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 31 | 1 | 
 | 2022-10-29 | 30 | 1 | 
 | 2022-10-28 | 30 | 1 | 
 | 2022-10-27 | 30 | 1 | 

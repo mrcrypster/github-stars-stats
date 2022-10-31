@@ -1,8 +1,8 @@
 # janestreet/base - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 86
+☋ Forks: 87
 
 ★ Stars: 630
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 630 | 87 | 
 | 2022-10-29 | 630 | 86 | 
 | 2022-10-28 | 630 | 86 | 
 | 2022-10-27 | 628 | 86 | 

@@ -1,10 +1,10 @@
 # thenickdude/wacom-driver-fix - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 52
 
-★ Stars: 1106
+★ Stars: 1107
 
 [Open repository](https://github.com/thenickdude/wacom-driver-fix)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1107 | 52 | 
 | 2022-10-29 | 1106 | 52 | 
 | 2022-10-28 | 1104 | 52 | 
 | 2022-10-27 | 1104 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1089 | 49 | 
 | 2022-10-02 | 1088 | 49 | 
 | 2022-10-01 | 1087 | 49 | 
-| 2022-09-30 | 1086 | 49 | 
 

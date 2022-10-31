@@ -1,10 +1,10 @@
 # yusufyilmazfr/tasarim-desenleri-turkce-kaynak - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 378
+☋ Forks: 377
 
-★ Stars: 2669
+★ Stars: 2670
 
 [Open repository](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2670 | 377 | 
 | 2022-10-29 | 2669 | 378 | 
 | 2022-10-28 | 2670 | 379 | 
 | 2022-10-27 | 2670 | 379 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2640 | 374 | 
 | 2022-10-02 | 2640 | 374 | 
 | 2022-10-01 | 2640 | 374 | 
-| 2022-09-30 | 2639 | 374 | 
 

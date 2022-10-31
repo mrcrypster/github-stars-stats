@@ -1,6 +1,6 @@
 # fei-protocol/flywheel-v2 - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 56 | 13 | 
 | 2022-10-29 | 56 | 13 | 
 | 2022-10-28 | 56 | 13 | 
 | 2022-10-27 | 56 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 54 | 13 | 
 | 2022-10-02 | 54 | 13 | 
 | 2022-10-01 | 54 | 13 | 
-| 2022-09-30 | 54 | 13 | 
 

@@ -1,6 +1,6 @@
 # zio/zio-http - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 186
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 571 | 186 | 
 | 2022-10-29 | 571 | 186 | 
 | 2022-10-28 | 571 | 185 | 
 | 2022-10-27 | 569 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 556 | 163 | 
 | 2022-10-02 | 555 | 163 | 
 | 2022-10-01 | 554 | 162 | 
-| 2022-09-30 | 554 | 162 | 
 

@@ -1,8 +1,8 @@
 # cdnjs/cdnjs - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 4540
+☋ Forks: 4539
 
 ★ Stars: 9685
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 9685 | 4539 | 
 | 2022-10-29 | 9685 | 4540 | 
 | 2022-10-28 | 9685 | 4539 | 
 | 2022-10-27 | 9685 | 4539 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 9661 | 4532 | 
 | 2022-10-02 | 9659 | 4532 | 
 | 2022-10-01 | 9660 | 4533 | 
-| 2022-09-30 | 9660 | 4533 | 
 

@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 30
 
 ☋ Forks: 6
 
-★ Stars: 67
+★ Stars: 71
 
 [Open repository](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 67 | 6 | 
+| 2022-10-30 | 71 | 6 | 
 | 2022-10-29 | 66 | 6 | 
 | 2022-10-28 | 64 | 5 | 
 | 2022-10-27 | 54 | 5 | 

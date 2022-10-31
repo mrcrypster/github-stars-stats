@@ -1,6 +1,6 @@
 # dart-homework-2022B/logical_operators - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1 | 8 | 
 | 2022-10-30 | 1 | 8 | 
 | 2022-10-29 | 1 | 8 | 
 | 2022-10-27 | 1 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 1 | 8 | 
 | 2022-10-02 | 1 | 8 | 
 | 2022-10-01 | 1 | 8 | 
-| 2022-09-30 | 1 | 8 | 
 

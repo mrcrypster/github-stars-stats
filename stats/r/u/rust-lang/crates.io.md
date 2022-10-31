@@ -1,10 +1,10 @@
 # rust-lang/crates.io - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 528
 
-★ Stars: 2280
+★ Stars: 2282
 
 [Open repository](https://github.com/rust-lang/crates.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2282 | 528 | 
 | 2022-10-29 | 2280 | 528 | 
 | 2022-10-28 | 2278 | 528 | 
 | 2022-10-27 | 2277 | 528 | 

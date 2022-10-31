@@ -1,6 +1,6 @@
 # spurin/cncf-psi-k8s-linux-simulator - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 83 | 12 | 
 | 2022-10-30 | 83 | 12 | 
 | 2022-10-29 | 83 | 12 | 
 | 2022-10-28 | 83 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 83 | 12 | 
 | 2022-10-02 | 83 | 12 | 
 | 2022-10-01 | 83 | 12 | 
-| 2022-09-30 | 83 | 12 | 
 

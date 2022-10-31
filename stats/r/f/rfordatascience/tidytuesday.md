@@ -1,6 +1,6 @@
 # rfordatascience/tidytuesday - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 2027
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 5091 | 2027 | 
 | 2022-10-29 | 5091 | 2027 | 
 | 2022-10-28 | 5089 | 2027 | 
 | 2022-10-27 | 5088 | 2026 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 5016 | 2000 | 
 | 2022-10-02 | 5015 | 1999 | 
 | 2022-10-01 | 5013 | 1999 | 
-| 2022-09-30 | 5011 | 1998 | 
 

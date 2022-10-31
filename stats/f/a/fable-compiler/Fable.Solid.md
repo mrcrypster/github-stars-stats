@@ -1,10 +1,10 @@
 # fable-compiler/Fable.Solid - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/fable-compiler/Fable.Solid)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 16 | 1 | 
 | 2022-10-30 | 14 | 1 | 
 | 2022-10-28 | 14 | 1 | 
 | 2022-10-27 | 14 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 12 | - | 
 | 2022-10-02 | 12 | - | 
 | 2022-10-01 | 12 | - | 
-| 2022-09-30 | 12 | - | 
 

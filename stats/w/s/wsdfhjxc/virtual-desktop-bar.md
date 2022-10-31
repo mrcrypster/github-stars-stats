@@ -1,10 +1,10 @@
 # wsdfhjxc/virtual-desktop-bar - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 19
 
-★ Stars: 290
+★ Stars: 289
 
 [Open repository](https://github.com/wsdfhjxc/virtual-desktop-bar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 289 | 19 | 
 | 2022-10-29 | 290 | 19 | 
 | 2022-10-28 | 291 | 19 | 
 | 2022-10-27 | 291 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 285 | 18 | 
 | 2022-10-03 | 285 | 18 | 
 | 2022-10-02 | 285 | 18 | 
-| 2022-10-01 | 285 | 17 | 
 

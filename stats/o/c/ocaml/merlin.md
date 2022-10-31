@@ -1,10 +1,10 @@
 # ocaml/merlin - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 212
 
-★ Stars: 1432
+★ Stars: 1433
 
 [Open repository](https://github.com/ocaml/merlin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1433 | 212 | 
 | 2022-10-29 | 1432 | 212 | 
 | 2022-10-28 | 1431 | 212 | 
 | 2022-10-27 | 1431 | 212 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1423 | 211 | 
 | 2022-10-02 | 1423 | 211 | 
 | 2022-10-01 | 1422 | 211 | 
-| 2022-09-30 | 1422 | 211 | 
 

@@ -1,8 +1,8 @@
 # ggerganov/kbd-audio - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 454
+☋ Forks: 455
 
 ★ Stars: 5737
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 5737 | 455 | 
 | 2022-10-29 | 5737 | 454 | 
 | 2022-10-28 | 5736 | 454 | 
 | 2022-10-27 | 5734 | 454 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 5712 | 455 | 
 | 2022-10-02 | 5712 | 455 | 
 | 2022-10-01 | 5712 | 455 | 
-| 2022-09-30 | 5712 | 455 | 
 

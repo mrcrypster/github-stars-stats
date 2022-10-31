@@ -1,10 +1,10 @@
 # Wulf/create-rust-app - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 38
+☋ Forks: 37
 
-★ Stars: 956
+★ Stars: 957
 
 [Open repository](https://github.com/Wulf/create-rust-app)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 957 | 37 | 
 | 2022-10-29 | 956 | 38 | 
 | 2022-10-28 | 955 | 37 | 
 | 2022-10-27 | 954 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 917 | 33 | 
 | 2022-10-02 | 916 | 33 | 
 | 2022-10-01 | 915 | 33 | 
-| 2022-09-30 | 914 | 33 | 
 

@@ -1,6 +1,6 @@
 # CodingForCrypt0/pancakeswap-sniper-bot - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 338 | 122 | 
 | 2022-10-29 | 338 | 122 | 
 | 2022-10-28 | 338 | 121 | 
 | 2022-10-27 | 337 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 302 | 119 | 
 | 2022-10-02 | 297 | 119 | 
 | 2022-10-01 | 293 | 119 | 
-| 2022-09-30 | 291 | 119 | 
 

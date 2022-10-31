@@ -1,10 +1,10 @@
 # haosulab/cvpr-tutorial-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 3
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/haosulab/cvpr-tutorial-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 22 | 3 | 
 | 2022-10-29 | 21 | 3 | 
 | 2022-10-28 | 21 | 3 | 
 | 2022-10-27 | 21 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 20 | 2 | 
 | 2022-10-02 | 20 | 2 | 
 | 2022-10-01 | 20 | 2 | 
-| 2022-09-30 | 20 | 2 | 
 

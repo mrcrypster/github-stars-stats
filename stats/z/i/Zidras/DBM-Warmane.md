@@ -1,8 +1,8 @@
 # Zidras/DBM-Warmane - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 40
+☋ Forks: 39
 
 ★ Stars: 77
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 77 | 39 | 
 | 2022-10-29 | 77 | 40 | 
 | 2022-10-28 | 77 | 40 | 
 | 2022-10-27 | 77 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 76 | 39 | 
 | 2022-10-03 | 76 | 39 | 
 | 2022-10-02 | 76 | 39 | 
-| 2022-10-01 | 76 | 39 | 
 

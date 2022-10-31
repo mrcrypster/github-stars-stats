@@ -1,10 +1,10 @@
 # azure-rtos/threadx - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 508
 
-★ Stars: 1509
+★ Stars: 1510
 
 [Open repository](https://github.com/azure-rtos/threadx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1510 | 508 | 
 | 2022-10-29 | 1509 | 508 | 
 | 2022-10-28 | 1508 | 509 | 
 | 2022-10-27 | 1504 | 509 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1484 | 503 | 
 | 2022-10-02 | 1484 | 503 | 
 | 2022-10-01 | 1483 | 503 | 
-| 2022-09-30 | 1483 | 503 | 
 

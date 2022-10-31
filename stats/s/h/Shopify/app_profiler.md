@@ -1,8 +1,8 @@
 # Shopify/app_profiler - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 6
+☋ Forks: 5
 
 ★ Stars: 138
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 138 | 5 | 
 | 2022-10-29 | 138 | 6 | 
 | 2022-10-28 | 138 | 6 | 
 | 2022-10-27 | 138 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 137 | 5 | 
 | 2022-10-02 | 137 | 5 | 
 | 2022-10-01 | 137 | 5 | 
-| 2022-09-30 | 137 | 5 | 
 

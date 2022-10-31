@@ -1,10 +1,10 @@
 # kenwheeler/slick - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 5939
+☋ Forks: 5938
 
-★ Stars: 27719
+★ Stars: 27718
 
 [Open repository](https://github.com/kenwheeler/slick)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 27718 | 5938 | 
 | 2022-10-29 | 27719 | 5939 | 
 | 2022-10-28 | 27718 | 5938 | 
 | 2022-10-27 | 27718 | 5939 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 27680 | 5932 | 
 | 2022-10-02 | 27680 | 5931 | 
 | 2022-10-01 | 27680 | 5931 | 
-| 2022-09-30 | 27681 | 5931 | 
 

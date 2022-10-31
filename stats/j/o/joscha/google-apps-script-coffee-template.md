@@ -1,6 +1,6 @@
 # joscha/google-apps-script-coffee-template - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 11 | 3 | 
 | 2022-10-29 | 11 | 3 | 
 | 2022-10-28 | 11 | 3 | 
 | 2022-10-27 | 11 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 11 | 3 | 
 | 2022-10-03 | 11 | 3 | 
 | 2022-10-02 | 11 | 3 | 
-| 2022-10-01 | 11 | 3 | 
 

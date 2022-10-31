@@ -1,10 +1,10 @@
 # apache/couchdb - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1021
+☋ Forks: 1020
 
-★ Stars: 5477
+★ Stars: 5479
 
 [Open repository](https://github.com/apache/couchdb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 5479 | 1020 | 
 | 2022-10-29 | 5477 | 1021 | 
 | 2022-10-28 | 5475 | 1021 | 
 | 2022-10-27 | 5475 | 1021 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 5465 | 1019 | 
 | 2022-10-02 | 5465 | 1019 | 
 | 2022-10-01 | 5462 | 1019 | 
-| 2022-09-30 | 5462 | 1019 | 
 

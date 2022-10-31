@@ -1,10 +1,10 @@
 # yiyixuxu/denoising-diffusion-flax - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 4
 
-★ Stars: 64
+★ Stars: 66
 
 [Open repository](https://github.com/yiyixuxu/denoising-diffusion-flax)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 66 | 4 | 
 | 2022-10-29 | 64 | 4 | 
 | 2022-10-28 | 63 | 4 | 
 | 2022-10-27 | 63 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 54 | 3 | 
 | 2022-10-02 | 54 | 3 | 
 | 2022-10-01 | 53 | 3 | 
-| 2022-09-30 | 54 | 3 | 
 

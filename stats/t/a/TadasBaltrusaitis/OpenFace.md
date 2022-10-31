@@ -1,8 +1,8 @@
 # TadasBaltrusaitis/OpenFace - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1714
+☋ Forks: 1715
 
 ★ Stars: 5788
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 5788 | 1715 | 
 | 2022-10-29 | 5788 | 1714 | 
 | 2022-10-28 | 5786 | 1714 | 
 | 2022-10-27 | 5781 | 1713 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 5756 | 1708 | 
 | 2022-10-02 | 5755 | 1708 | 
 | 2022-10-01 | 5754 | 1708 | 
-| 2022-09-30 | 5755 | 1708 | 
 

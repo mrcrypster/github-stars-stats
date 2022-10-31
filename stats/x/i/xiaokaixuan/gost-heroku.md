@@ -1,6 +1,6 @@
 # xiaokaixuan/gost-heroku - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 750
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 50 | 750 | 
 | 2022-10-30 | 50 | 750 | 
 | 2022-10-29 | 50 | 751 | 
 | 2022-10-28 | 50 | 751 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 49 | 746 | 
 | 2022-10-02 | 49 | 747 | 
 | 2022-10-01 | 49 | 747 | 
-| 2022-09-30 | 49 | 746 | 
 

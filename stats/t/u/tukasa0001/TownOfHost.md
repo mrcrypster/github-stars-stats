@@ -1,8 +1,8 @@
 # tukasa0001/TownOfHost - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 79
+☋ Forks: 81
 
 ★ Stars: 109
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 109 | 81 | 
 | 2022-10-29 | 109 | 79 | 
 | 2022-10-28 | 109 | 79 | 
 | 2022-10-27 | 108 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 96 | 74 | 
 | 2022-10-02 | 96 | 74 | 
 | 2022-10-01 | 95 | 72 | 
-| 2022-09-30 | 95 | 71 | 
 

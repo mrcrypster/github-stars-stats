@@ -1,10 +1,10 @@
 # wcandillon/can-it-be-done-in-react-native - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1208
 
-★ Stars: 3486
+★ Stars: 3487
 
 [Open repository](https://github.com/wcandillon/can-it-be-done-in-react-native)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3487 | 1208 | 
 | 2022-10-29 | 3486 | 1208 | 
 | 2022-10-28 | 3481 | 1207 | 
 | 2022-10-27 | 3480 | 1207 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 3450 | 1192 | 
 | 2022-10-03 | 3450 | 1192 | 
 | 2022-10-02 | 3450 | 1191 | 
-| 2022-10-01 | 3449 | 1191 | 
 

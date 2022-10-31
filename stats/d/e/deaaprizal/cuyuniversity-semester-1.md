@@ -1,10 +1,10 @@
 # deaaprizal/cuyuniversity-semester-1 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 18
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/deaaprizal/cuyuniversity-semester-1)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 22 | 18 | 
 | 2022-10-30 | 21 | 18 | 
 | 2022-10-29 | 21 | 18 | 
 | 2022-10-28 | 21 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 20 | 14 | 
 | 2022-10-02 | 20 | 14 | 
 | 2022-10-01 | 20 | 14 | 
-| 2022-09-30 | 20 | 14 | 
 

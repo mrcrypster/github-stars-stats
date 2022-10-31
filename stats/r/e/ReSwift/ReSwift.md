@@ -1,10 +1,10 @@
 # ReSwift/ReSwift - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 511
 
-★ Stars: 7294
+★ Stars: 7295
 
 [Open repository](https://github.com/ReSwift/ReSwift)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 7295 | 511 | 
 | 2022-10-29 | 7294 | 511 | 
 | 2022-10-28 | 7293 | 512 | 
 | 2022-10-27 | 7294 | 512 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 7278 | 511 | 
 | 2022-10-02 | 7278 | 511 | 
 | 2022-10-01 | 7278 | 511 | 
-| 2022-09-30 | 7277 | 511 | 
 

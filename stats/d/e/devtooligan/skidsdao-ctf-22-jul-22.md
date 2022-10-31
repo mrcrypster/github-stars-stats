@@ -1,6 +1,6 @@
 # devtooligan/skidsdao-ctf-22-jul-22 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 17 | 1 | 
 | 2022-10-30 | 17 | 1 | 
 | 2022-10-29 | 17 | 1 | 
 | 2022-10-27 | 17 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 17 | 1 | 
 | 2022-10-02 | 17 | 1 | 
 | 2022-10-01 | 17 | 1 | 
-| 2022-09-30 | 17 | 1 | 
 

@@ -1,10 +1,10 @@
 # alexbatalov/fallout2-re - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 19
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/alexbatalov/fallout2-re)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 214 | 19 | 
 | 2022-10-29 | 213 | 19 | 
 | 2022-10-28 | 213 | 19 | 
 | 2022-10-27 | 212 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 207 | 17 | 
 | 2022-10-02 | 208 | 17 | 
 | 2022-10-01 | 208 | 17 | 
-| 2022-09-30 | 207 | 17 | 
 

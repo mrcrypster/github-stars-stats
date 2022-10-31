@@ -1,10 +1,10 @@
 # cheat-engine/cheat-engine - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1674
+☋ Forks: 1676
 
-★ Stars: 9200
+★ Stars: 9208
 
 [Open repository](https://github.com/cheat-engine/cheat-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 9208 | 1676 | 
 | 2022-10-29 | 9200 | 1674 | 
 | 2022-10-28 | 9191 | 1673 | 
 | 2022-10-27 | 9189 | 1672 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 9019 | 1658 | 
 | 2022-10-02 | 9016 | 1657 | 
 | 2022-10-01 | 9010 | 1656 | 
-| 2022-09-30 | 9005 | 1655 | 
 

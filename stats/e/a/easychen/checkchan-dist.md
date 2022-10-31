@@ -1,6 +1,6 @@
 # easychen/checkchan-dist - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 892 | 88 | 
 | 2022-10-29 | 892 | 88 | 
 | 2022-10-28 | 891 | 88 | 
 | 2022-10-27 | 890 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 865 | 84 | 
 | 2022-10-02 | 865 | 84 | 
 | 2022-10-01 | 864 | 84 | 
-| 2022-09-30 | 863 | 84 | 
 

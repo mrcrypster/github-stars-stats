@@ -1,6 +1,6 @@
 # HariSekhon/lib - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 17 | 31 | 
 | 2022-10-30 | 17 | 31 | 
 | 2022-10-29 | 17 | 31 | 
 | 2022-10-28 | 17 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 17 | 32 | 
 | 2022-10-02 | 17 | 32 | 
 | 2022-10-01 | 17 | 32 | 
-| 2022-09-30 | 17 | 32 | 
 

@@ -1,10 +1,10 @@
 # google-research/multinerf - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 196
 
-★ Stars: 2389
+★ Stars: 2393
 
 [Open repository](https://github.com/google-research/multinerf)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2393 | 196 | 
 | 2022-10-29 | 2389 | 196 | 
 | 2022-10-28 | 2386 | 196 | 
 | 2022-10-27 | 2383 | 195 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2268 | 178 | 
 | 2022-10-02 | 2265 | 178 | 
 | 2022-10-01 | 2263 | 178 | 
-| 2022-09-30 | 2255 | 178 | 
 

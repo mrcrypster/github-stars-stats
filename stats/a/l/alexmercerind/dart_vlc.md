@@ -1,10 +1,10 @@
 # alexmercerind/dart_vlc - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 96
 
-★ Stars: 386
+★ Stars: 387
 
 [Open repository](https://github.com/alexmercerind/dart_vlc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 387 | 96 | 
 | 2022-10-29 | 386 | 96 | 
 | 2022-10-28 | 386 | 96 | 
 | 2022-10-27 | 386 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 379 | 89 | 
 | 2022-10-03 | 379 | 89 | 
 | 2022-10-02 | 379 | 89 | 
-| 2022-09-30 | 379 | 90 | 
 

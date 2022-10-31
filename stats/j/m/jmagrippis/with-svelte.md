@@ -1,10 +1,10 @@
 # jmagrippis/with-svelte - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 14
 
-★ Stars: 47
+★ Stars: 49
 
 [Open repository](https://github.com/jmagrippis/with-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 49 | 14 | 
 | 2022-10-29 | 47 | 14 | 
 | 2022-10-28 | 47 | 14 | 
 | 2022-10-27 | 47 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 42 | 12 | 
 | 2022-10-02 | 42 | 12 | 
 | 2022-10-01 | 42 | 12 | 
-| 2022-09-30 | 42 | 12 | 
 

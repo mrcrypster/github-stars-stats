@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 30
 
-☋ Forks: 156
+☋ Forks: 157
 
-★ Stars: 165
+★ Stars: 168
 
 [Open repository](https://github.com/Clueless-Community/web-ui-kit)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 165 | 156 | 
+| 2022-10-30 | 168 | 157 | 
 | 2022-10-29 | 165 | 156 | 
 | 2022-10-28 | 163 | 151 | 
 | 2022-10-27 | 157 | 144 | 

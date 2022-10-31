@@ -1,6 +1,6 @@
 # peng1999/PkgDependency.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 63 | 1 | 
 | 2022-10-29 | 63 | 1 | 
 | 2022-10-28 | 63 | 1 | 
 | 2022-10-27 | 63 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 59 | - | 
 | 2022-10-02 | 59 | - | 
 | 2022-10-01 | 58 | - | 
-| 2022-09-30 | 58 | - | 
 

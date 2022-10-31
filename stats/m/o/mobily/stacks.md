@@ -1,6 +1,6 @@
 # mobily/stacks - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 776 | 23 | 
 | 2022-10-29 | 776 | 23 | 
 | 2022-10-28 | 776 | 23 | 
 | 2022-10-27 | 776 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 775 | 23 | 
 | 2022-10-03 | 775 | 23 | 
 | 2022-10-02 | 775 | 23 | 
-| 2022-10-01 | 775 | 23 | 
 

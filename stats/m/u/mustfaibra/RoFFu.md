@@ -1,6 +1,6 @@
 # mustfaibra/RoFFu - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 99 | 14 | 
 | 2022-10-29 | 99 | 14 | 
 | 2022-10-28 | 99 | 14 | 
 | 2022-10-27 | 99 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 94 | 13 | 
 | 2022-10-02 | 94 | 13 | 
 | 2022-10-01 | 93 | 13 | 
-| 2022-09-30 | 93 | 13 | 
 

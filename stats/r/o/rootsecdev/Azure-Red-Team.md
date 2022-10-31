@@ -1,6 +1,6 @@
 # rootsecdev/Azure-Red-Team - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1032 | 143 | 
 | 2022-10-29 | 1032 | 143 | 
 | 2022-10-28 | 1031 | 143 | 
 | 2022-10-27 | 1029 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 1014 | 139 | 
 | 2022-10-03 | 1014 | 139 | 
 | 2022-10-02 | 1014 | 139 | 
-| 2022-09-30 | 1012 | 139 | 
 

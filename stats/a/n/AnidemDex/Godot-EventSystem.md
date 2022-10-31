@@ -1,6 +1,6 @@
 # AnidemDex/Godot-EventSystem - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 171 | 7 | 
 | 2022-10-29 | 171 | 7 | 
 | 2022-10-28 | 171 | 7 | 
 | 2022-10-27 | 171 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 172 | 7 | 
 | 2022-10-02 | 172 | 7 | 
 | 2022-10-01 | 172 | 7 | 
-| 2022-09-30 | 172 | 7 | 
 

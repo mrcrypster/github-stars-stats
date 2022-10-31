@@ -1,10 +1,10 @@
 # Faraz1243/OpenSourse-Static-Web-Templates - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 2
+★ Stars: 4
 
 [Open repository](https://github.com/Faraz1243/OpenSourse-Static-Web-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 4 | 18 | 
 | 2022-10-29 | 2 | 17 | 
 | 2022-10-28 | 2 | 17 | 
 | 2022-10-27 | 2 | 17 | 

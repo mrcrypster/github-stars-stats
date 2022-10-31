@@ -1,10 +1,10 @@
 # t1m0thyj/WinDynamicDesktop - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 258
+☋ Forks: 257
 
-★ Stars: 3346
+★ Stars: 3350
 
 [Open repository](https://github.com/t1m0thyj/WinDynamicDesktop)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3350 | 257 | 
 | 2022-10-29 | 3346 | 258 | 
 | 2022-10-28 | 3346 | 258 | 
 | 2022-10-27 | 3344 | 258 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3275 | 254 | 
 | 2022-10-02 | 3270 | 254 | 
 | 2022-10-01 | 3269 | 254 | 
-| 2022-09-30 | 3269 | 253 | 
 

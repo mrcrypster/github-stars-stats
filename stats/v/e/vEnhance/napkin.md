@@ -1,6 +1,6 @@
 # vEnhance/napkin - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 753 | 81 | 
 | 2022-10-29 | 753 | 81 | 
 | 2022-10-28 | 753 | 82 | 
 | 2022-10-27 | 754 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 742 | 80 | 
 | 2022-10-02 | 742 | 80 | 
 | 2022-10-01 | 742 | 80 | 
-| 2022-09-30 | 742 | 80 | 
 

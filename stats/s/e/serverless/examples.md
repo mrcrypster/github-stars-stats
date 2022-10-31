@@ -1,8 +1,8 @@
 # serverless/examples - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 4227
+☋ Forks: 4229
 
 ★ Stars: 10483
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 10483 | 4229 | 
 | 2022-10-30 | 10483 | 4227 | 
 | 2022-10-29 | 10481 | 4226 | 
 | 2022-10-28 | 10480 | 4224 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 10428 | 4200 | 
 | 2022-10-02 | 10426 | 4200 | 
 | 2022-10-01 | 10423 | 4198 | 
-| 2022-09-30 | 10421 | 4197 | 
 

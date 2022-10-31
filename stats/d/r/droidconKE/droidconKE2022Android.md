@@ -1,10 +1,10 @@
 # droidconKE/droidconKE2022Android - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 55
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/droidconKE/droidconKE2022Android)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 77 | 55 | 
 | 2022-10-30 | 76 | 55 | 
 | 2022-10-29 | 76 | 55 | 
 | 2022-10-28 | 76 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 74 | 53 | 
 | 2022-10-02 | 74 | 53 | 
 | 2022-10-01 | 74 | 53 | 
-| 2022-09-30 | 74 | 53 | 
 

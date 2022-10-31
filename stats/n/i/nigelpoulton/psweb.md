@@ -1,10 +1,10 @@
 # nigelpoulton/psweb - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 259
+☋ Forks: 260
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/nigelpoulton/psweb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 131 | 260 | 
 | 2022-10-29 | 130 | 259 | 
 | 2022-10-28 | 130 | 259 | 
 | 2022-10-27 | 130 | 258 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 130 | 254 | 
 | 2022-10-02 | 130 | 254 | 
 | 2022-10-01 | 130 | 254 | 
-| 2022-09-30 | 129 | 254 | 
 

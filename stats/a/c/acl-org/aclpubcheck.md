@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 30
 
 ☋ Forks: 24
 
-★ Stars: 255
+★ Stars: 258
 
 [Open repository](https://github.com/acl-org/aclpubcheck)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 255 | 24 | 
+| 2022-10-30 | 258 | 24 | 
 | 2022-10-29 | 255 | 24 | 
 

@@ -1,6 +1,6 @@
 # tornadocash-community/tornado-nova - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 4 | 26 | 
 | 2022-10-30 | 4 | 26 | 
 | 2022-10-28 | 4 | 26 | 
 | 2022-10-27 | 4 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 4 | 26 | 
 | 2022-10-02 | 4 | 26 | 
 | 2022-10-01 | 4 | 26 | 
-| 2022-09-30 | 4 | 26 | 
 

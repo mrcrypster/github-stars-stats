@@ -1,8 +1,8 @@
 # guanzhi/GmSSL - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1320
+☋ Forks: 1321
 
 ★ Stars: 3559
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 3559 | 1321 | 
 | 2022-10-29 | 3559 | 1320 | 
 | 2022-10-28 | 3554 | 1319 | 
 | 2022-10-27 | 3549 | 1317 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 3471 | 1298 | 
 | 2022-10-02 | 3468 | 1298 | 
 | 2022-10-01 | 3467 | 1298 | 
-| 2022-09-30 | 3465 | 1298 | 
 

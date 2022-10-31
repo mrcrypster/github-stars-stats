@@ -1,6 +1,6 @@
 # 3nock/sub3suite - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 306 | 43 | 
 | 2022-10-29 | 306 | 43 | 
 | 2022-10-28 | 306 | 43 | 
 | 2022-10-27 | 305 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 296 | 43 | 
 | 2022-10-03 | 295 | 43 | 
 | 2022-10-02 | 295 | 43 | 
-| 2022-10-01 | 295 | 43 | 
 

@@ -1,10 +1,10 @@
 # Newbion6/re - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 14
+☋ Forks: 16
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/Newbion6/re)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1 | 16 | 
 | 2022-10-29 | - | 14 | 
 | 2022-10-28 | - | 14 | 
 | 2022-10-27 | - | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | - | 8 | 
 | 2022-10-02 | - | 6 | 
 | 2022-10-01 | - | 3 | 
-| 2022-09-30 | - | 6 | 
 

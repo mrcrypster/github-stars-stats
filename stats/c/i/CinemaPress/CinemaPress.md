@@ -1,8 +1,8 @@
 # CinemaPress/CinemaPress - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 65
+☋ Forks: 64
 
 ★ Stars: 149
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 149 | 64 | 
 | 2022-10-29 | 149 | 65 | 
 | 2022-10-28 | 148 | 65 | 
 | 2022-10-27 | 148 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 147 | 65 | 
 | 2022-10-02 | 147 | 65 | 
 | 2022-10-01 | 147 | 65 | 
-| 2022-09-30 | 147 | 65 | 
 

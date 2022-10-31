@@ -1,10 +1,10 @@
 # ibraheemdev/seize - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 8
 
-★ Stars: 229
+★ Stars: 228
 
 [Open repository](https://github.com/ibraheemdev/seize)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 228 | 8 | 
 | 2022-10-29 | 229 | 8 | 
 | 2022-10-28 | 229 | 8 | 
 | 2022-10-27 | 229 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 228 | 8 | 
 | 2022-10-02 | 228 | 8 | 
 | 2022-10-01 | 228 | 8 | 
-| 2022-09-30 | 228 | 8 | 
 

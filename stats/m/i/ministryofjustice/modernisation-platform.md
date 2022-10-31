@@ -1,6 +1,6 @@
 # ministryofjustice/modernisation-platform - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 306 | 137 | 
 | 2022-10-29 | 306 | 137 | 
 | 2022-10-28 | 306 | 137 | 
 | 2022-10-27 | 306 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 306 | 136 | 
 | 2022-10-02 | 306 | 136 | 
 | 2022-10-01 | 306 | 136 | 
-| 2022-09-30 | 306 | 136 | 
 

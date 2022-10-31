@@ -1,10 +1,10 @@
 # JuliaReinforcementLearning/ReinforcementLearning.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 76
 
-★ Stars: 438
+★ Stars: 439
 
 [Open repository](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 439 | 76 | 
 | 2022-10-29 | 438 | 76 | 
 | 2022-10-28 | 438 | 76 | 
 | 2022-10-27 | 438 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 434 | 75 | 
 | 2022-10-03 | 434 | 75 | 
 | 2022-10-02 | 434 | 75 | 
-| 2022-10-01 | 434 | 75 | 
 

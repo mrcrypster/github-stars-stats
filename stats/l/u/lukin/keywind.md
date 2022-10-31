@@ -1,10 +1,10 @@
 # lukin/keywind - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 37
 
-★ Stars: 144
+★ Stars: 145
 
 [Open repository](https://github.com/lukin/keywind)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 145 | 37 | 
 | 2022-10-29 | 144 | 37 | 
 | 2022-10-28 | 144 | 37 | 
 | 2022-10-27 | 144 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 135 | 34 | 
 | 2022-10-02 | 134 | 34 | 
 | 2022-10-01 | 133 | 34 | 
-| 2022-09-30 | 132 | 33 | 
 

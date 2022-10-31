@@ -1,10 +1,10 @@
 # confluentinc/demo-scene - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 798
 
-★ Stars: 1234
+★ Stars: 1235
 
 [Open repository](https://github.com/confluentinc/demo-scene)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1235 | 798 | 
 | 2022-10-29 | 1234 | 798 | 
 | 2022-10-28 | 1234 | 799 | 
 | 2022-10-27 | 1234 | 799 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1226 | 790 | 
 | 2022-10-02 | 1226 | 790 | 
 | 2022-10-01 | 1226 | 789 | 
-| 2022-09-30 | 1226 | 789 | 
 

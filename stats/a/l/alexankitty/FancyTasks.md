@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 30
 
-☋ Forks: 1
+☋ Forks: 3
 
-★ Stars: 31
+★ Stars: 39
 
 [Open repository](https://github.com/alexankitty/FancyTasks)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 31 | 1 | 
+| 2022-10-30 | 39 | 3 | 
 | 2022-10-29 | 28 | 1 | 
 

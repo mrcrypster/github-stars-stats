@@ -1,10 +1,10 @@
 # obss/sahi - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 321
 
-★ Stars: 2071
+★ Stars: 2073
 
 [Open repository](https://github.com/obss/sahi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2073 | 321 | 
 | 2022-10-29 | 2071 | 321 | 
 | 2022-10-28 | 2067 | 321 | 
 | 2022-10-27 | 2065 | 321 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2010 | 309 | 
 | 2022-10-02 | 2008 | 308 | 
 | 2022-10-01 | 2008 | 308 | 
-| 2022-09-30 | 2009 | 307 | 
 

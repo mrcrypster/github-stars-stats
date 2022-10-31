@@ -1,10 +1,10 @@
 # Linfeng-Tang/Image-Fusion - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 38
 
-★ Stars: 128
+★ Stars: 130
 
 [Open repository](https://github.com/Linfeng-Tang/Image-Fusion)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 130 | 38 | 
 | 2022-10-29 | 128 | 38 | 
 | 2022-10-28 | 128 | 38 | 
 | 2022-10-27 | 127 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 116 | 32 | 
 | 2022-10-03 | 116 | 32 | 
 | 2022-10-02 | 115 | 31 | 
-| 2022-09-30 | 115 | 31 | 
 

@@ -1,6 +1,6 @@
 # DataDog/security-agent-policies - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 14 | 3 | 
 | 2022-10-30 | 14 | 3 | 
 | 2022-10-29 | 14 | 3 | 
 | 2022-10-28 | 14 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 14 | 3 | 
 | 2022-10-02 | 14 | 3 | 
 | 2022-10-01 | 14 | 3 | 
-| 2022-09-30 | 14 | 3 | 
 

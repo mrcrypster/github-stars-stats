@@ -1,10 +1,10 @@
 # 0xsp-SRD/mortar - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 179
 
-★ Stars: 978
+★ Stars: 979
 
 [Open repository](https://github.com/0xsp-SRD/mortar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 979 | 179 | 
 | 2022-10-29 | 978 | 179 | 
 | 2022-10-28 | 978 | 179 | 
 | 2022-10-27 | 977 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 968 | 179 | 
 | 2022-10-02 | 968 | 179 | 
 | 2022-10-01 | 968 | 179 | 
-| 2022-09-30 | 967 | 179 | 
 

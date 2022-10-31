@@ -1,6 +1,6 @@
 # mabDc/eso - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 663 | 114 | 
 | 2022-10-29 | 663 | 114 | 
 | 2022-10-28 | 662 | 113 | 
 | 2022-10-27 | 661 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 639 | 110 | 
 | 2022-10-02 | 639 | 110 | 
 | 2022-10-01 | 639 | 110 | 
-| 2022-09-30 | 639 | 110 | 
 

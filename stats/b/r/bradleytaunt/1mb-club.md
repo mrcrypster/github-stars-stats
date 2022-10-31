@@ -1,8 +1,8 @@
 # bradleytaunt/1mb-club - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 253
+☋ Forks: 254
 
 ★ Stars: 330
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 330 | 254 | 
 | 2022-10-29 | 330 | 253 | 
 | 2022-10-28 | 330 | 252 | 
 | 2022-10-27 | 330 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 324 | 247 | 
 | 2022-10-02 | 323 | 246 | 
 | 2022-10-01 | 323 | 247 | 
-| 2022-09-30 | 323 | 247 | 
 

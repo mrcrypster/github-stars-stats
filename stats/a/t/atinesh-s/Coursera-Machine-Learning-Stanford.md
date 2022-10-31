@@ -1,6 +1,6 @@
 # atinesh-s/Coursera-Machine-Learning-Stanford - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 776
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1027 | 776 | 
 | 2022-10-29 | 1027 | 776 | 
 | 2022-10-28 | 1027 | 776 | 
 | 2022-10-27 | 1027 | 776 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1017 | 773 | 
 | 2022-10-02 | 1017 | 773 | 
 | 2022-10-01 | 1017 | 773 | 
-| 2022-09-30 | 1017 | 773 | 
 

@@ -1,6 +1,6 @@
 # ziritrion/dataeng-zoomcamp - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 150 | 88 | 
 | 2022-10-29 | 150 | 88 | 
 | 2022-10-28 | 150 | 88 | 
 | 2022-10-27 | 150 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 145 | 84 | 
 | 2022-10-02 | 144 | 84 | 
 | 2022-10-01 | 144 | 83 | 
-| 2022-09-30 | 144 | 82 | 
 

@@ -1,6 +1,6 @@
 # ganelson/inform - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 917 | 53 | 
 | 2022-10-29 | 917 | 53 | 
 | 2022-10-28 | 916 | 53 | 
 | 2022-10-27 | 915 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 896 | 53 | 
 | 2022-10-03 | 896 | 53 | 
 | 2022-10-02 | 893 | 53 | 
-| 2022-10-01 | 893 | 53 | 
 

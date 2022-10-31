@@ -1,10 +1,10 @@
 # cri-o/cri-o - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 863
 
-★ Stars: 4288
+★ Stars: 4289
 
 [Open repository](https://github.com/cri-o/cri-o)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 4289 | 863 | 
 | 2022-10-30 | 4288 | 863 | 
 | 2022-10-28 | 4288 | 863 | 
 | 2022-10-27 | 4286 | 863 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 4252 | 848 | 
 | 2022-10-02 | 4251 | 848 | 
 | 2022-10-01 | 4250 | 847 | 
-| 2022-09-30 | 4251 | 844 | 
 

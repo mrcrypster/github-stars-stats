@@ -1,8 +1,8 @@
 # cloudforet-io/launchpad - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 5 | 1 | 
 | 2022-10-30 | 5 | - | 
 | 2022-10-29 | 5 | - | 
 | 2022-10-28 | 5 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 4 | - | 
 | 2022-10-02 | 4 | - | 
 | 2022-10-01 | 4 | - | 
-| 2022-09-30 | 4 | - | 
 

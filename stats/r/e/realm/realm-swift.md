@@ -1,10 +1,10 @@
 # realm/realm-swift - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 2103
 
-★ Stars: 15581
+★ Stars: 15582
 
 [Open repository](https://github.com/realm/realm-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 15582 | 2103 | 
 | 2022-10-29 | 15581 | 2103 | 
 | 2022-10-28 | 15581 | 2104 | 
 | 2022-10-27 | 15577 | 2104 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 15533 | 2095 | 
 | 2022-10-02 | 15533 | 2095 | 
 | 2022-10-01 | 15533 | 2095 | 
-| 2022-09-30 | 15532 | 2095 | 
 

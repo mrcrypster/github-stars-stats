@@ -1,10 +1,10 @@
 # Baio1977/EFI-Hackintosh-collection - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 81
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Baio1977/EFI-Hackintosh-collection)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 39 | 81 | 
 | 2022-10-29 | 38 | 81 | 
 | 2022-10-28 | 38 | 81 | 
 | 2022-10-27 | 38 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 37 | 76 | 
 | 2022-10-02 | 36 | 75 | 
 | 2022-10-01 | 35 | 73 | 
-| 2022-09-30 | 34 | 72 | 
 

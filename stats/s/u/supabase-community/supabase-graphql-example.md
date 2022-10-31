@@ -1,10 +1,10 @@
 # supabase-community/supabase-graphql-example - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 15
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/supabase-community/supabase-graphql-example)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 102 | 15 | 
 | 2022-10-29 | 101 | 15 | 
 | 2022-10-28 | 100 | 15 | 
 | 2022-10-27 | 100 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 96 | 14 | 
 | 2022-10-03 | 95 | 13 | 
 | 2022-10-02 | 95 | 13 | 
-| 2022-10-01 | 95 | 13 | 
 

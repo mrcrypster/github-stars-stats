@@ -1,8 +1,8 @@
 # getbem/getbem.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 210
+☋ Forks: 211
 
 ★ Stars: 5487
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 5487 | 211 | 
 | 2022-10-29 | 5487 | 210 | 
 | 2022-10-28 | 5487 | 210 | 
 | 2022-10-27 | 5486 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 5476 | 208 | 
 | 2022-10-02 | 5475 | 208 | 
 | 2022-10-01 | 5475 | 208 | 
-| 2022-09-30 | 5475 | 208 | 
 

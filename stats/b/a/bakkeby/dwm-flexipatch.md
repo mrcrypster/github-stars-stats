@@ -1,6 +1,6 @@
 # bakkeby/dwm-flexipatch - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 801 | 153 | 
 | 2022-10-29 | 801 | 153 | 
 | 2022-10-28 | 801 | 151 | 
 | 2022-10-27 | 800 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 786 | 149 | 
 | 2022-10-02 | 786 | 149 | 
 | 2022-10-01 | 786 | 149 | 
-| 2022-09-30 | 784 | 149 | 
 

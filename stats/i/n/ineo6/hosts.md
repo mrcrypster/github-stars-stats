@@ -1,10 +1,10 @@
 # ineo6/hosts - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 263
+☋ Forks: 265
 
-★ Stars: 2526
+★ Stars: 2529
 
 [Open repository](https://github.com/ineo6/hosts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2529 | 265 | 
 | 2022-10-29 | 2526 | 263 | 
 | 2022-10-28 | 2523 | 263 | 
 | 2022-10-27 | 2513 | 261 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2370 | 246 | 
 | 2022-10-02 | 2367 | 245 | 
 | 2022-10-01 | 2364 | 245 | 
-| 2022-09-30 | 2361 | 245 | 
 

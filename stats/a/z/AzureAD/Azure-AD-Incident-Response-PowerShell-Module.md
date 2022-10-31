@@ -1,10 +1,10 @@
 # AzureAD/Azure-AD-Incident-Response-PowerShell-Module - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 26
 
-★ Stars: 248
+★ Stars: 251
 
 [Open repository](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 251 | 26 | 
 | 2022-10-29 | 248 | 26 | 
 | 2022-10-28 | 231 | 26 | 
 | 2022-10-27 | 231 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 213 | 24 | 
 | 2022-10-02 | 213 | 24 | 
 | 2022-10-01 | 213 | 24 | 
-| 2022-09-30 | 213 | 24 | 
 

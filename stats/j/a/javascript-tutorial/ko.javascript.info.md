@@ -1,6 +1,6 @@
 # javascript-tutorial/ko.javascript.info - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 777
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1437 | 777 | 
 | 2022-10-29 | 1437 | 777 | 
 | 2022-10-28 | 1438 | 778 | 
 | 2022-10-27 | 1437 | 776 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 1420 | 737 | 
 | 2022-10-02 | 1419 | 736 | 
 | 2022-10-01 | 1419 | 736 | 
-| 2022-09-30 | 1417 | 736 | 
 

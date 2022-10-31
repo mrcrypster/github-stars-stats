@@ -1,6 +1,6 @@
 # sergiotapia/torrentinim - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 709 | 35 | 
 | 2022-10-29 | 709 | 35 | 
 | 2022-10-28 | 708 | 35 | 
 | 2022-10-27 | 708 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 703 | 34 | 
 | 2022-10-02 | 704 | 34 | 
 | 2022-10-01 | 704 | 34 | 
-| 2022-09-30 | 704 | 34 | 
 

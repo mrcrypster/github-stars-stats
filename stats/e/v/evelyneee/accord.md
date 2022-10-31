@@ -1,10 +1,10 @@
 # evelyneee/accord - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 22
 
-★ Stars: 238
+★ Stars: 240
 
 [Open repository](https://github.com/evelyneee/accord)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 240 | 22 | 
 | 2022-10-29 | 238 | 22 | 
 | 2022-10-28 | 238 | 22 | 
 | 2022-10-27 | 235 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 213 | 16 | 
 | 2022-10-03 | 210 | 16 | 
 | 2022-10-02 | 210 | 16 | 
-| 2022-10-01 | 208 | 16 | 
 

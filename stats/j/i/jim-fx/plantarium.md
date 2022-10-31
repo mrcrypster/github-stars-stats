@@ -1,6 +1,6 @@
 # jim-fx/plantarium - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 236 | 6 | 
 | 2022-10-29 | 236 | 6 | 
 | 2022-10-28 | 236 | 6 | 
 | 2022-10-27 | 236 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 236 | 6 | 
 | 2022-10-03 | 236 | 6 | 
 | 2022-10-02 | 236 | 6 | 
-| 2022-10-01 | 236 | 6 | 
 

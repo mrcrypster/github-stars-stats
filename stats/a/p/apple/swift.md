@@ -1,8 +1,8 @@
 # apple/swift - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 9797
+☋ Forks: 9796
 
 ★ Stars: 60958
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 60958 | 9796 | 
 | 2022-10-29 | 60958 | 9797 | 
 | 2022-10-28 | 60951 | 9794 | 
 | 2022-10-27 | 60947 | 9793 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 60751 | 9758 | 
 | 2022-10-02 | 60743 | 9757 | 
 | 2022-10-01 | 60736 | 9757 | 
-| 2022-09-30 | 60733 | 9755 | 
 

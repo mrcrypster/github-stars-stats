@@ -1,6 +1,6 @@
 # jeremygibbs/nsf-proposal-latex - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 94 | 57 | 
 | 2022-10-29 | 94 | 57 | 
 | 2022-10-28 | 94 | 58 | 
 | 2022-10-27 | 94 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 92 | 58 | 
 | 2022-10-02 | 92 | 58 | 
 | 2022-10-01 | 92 | 58 | 
-| 2022-09-30 | 92 | 58 | 
 

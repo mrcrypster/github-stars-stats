@@ -1,10 +1,10 @@
 # maxiee/dighub - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/maxiee/dighub)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 48 | 1 | 
 | 2022-10-29 | 47 | 1 | 
 | 2022-10-28 | 47 | 1 | 
 | 2022-10-27 | 46 | 1 | 

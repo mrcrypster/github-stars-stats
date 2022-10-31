@@ -1,6 +1,6 @@
 # dortania/Getting-Started-With-ACPI - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 359
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 439 | 359 | 
 | 2022-10-29 | 439 | 359 | 
 | 2022-10-28 | 439 | 358 | 
 | 2022-10-27 | 438 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 431 | 350 | 
 | 2022-10-02 | 431 | 350 | 
 | 2022-10-01 | 431 | 350 | 
-| 2022-09-30 | 431 | 350 | 
 

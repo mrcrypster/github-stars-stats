@@ -1,6 +1,6 @@
 # doorgan/sourceror - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 206 | 8 | 
 | 2022-10-29 | 206 | 8 | 
 | 2022-10-28 | 205 | 8 | 
 | 2022-10-27 | 205 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 198 | 8 | 
 | 2022-10-02 | 198 | 8 | 
 | 2022-10-01 | 198 | 8 | 
-| 2022-09-30 | 198 | 8 | 
 

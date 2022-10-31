@@ -1,6 +1,6 @@
 # tankbottoms/vebanny-bannyverse-on-chain - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2 | 1 | 
 | 2022-10-30 | 2 | 1 | 
 | 2022-10-29 | 2 | 1 | 
 | 2022-10-27 | 2 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 2 | 1 | 
 | 2022-10-02 | 2 | 1 | 
 | 2022-10-01 | 2 | 1 | 
-| 2022-09-30 | 2 | 1 | 
 

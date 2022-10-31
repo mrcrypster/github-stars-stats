@@ -1,6 +1,6 @@
 # bet4it/udbserver - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 237 | 40 | 
 | 2022-10-30 | 237 | 40 | 
 | 2022-10-29 | 237 | 40 | 
 | 2022-10-28 | 237 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 235 | 39 | 
 | 2022-10-02 | 235 | 39 | 
 | 2022-10-01 | 235 | 39 | 
-| 2022-09-30 | 235 | 39 | 
 

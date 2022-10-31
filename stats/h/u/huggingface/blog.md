@@ -1,6 +1,6 @@
 # huggingface/blog - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 479 | 224 | 
 | 2022-10-30 | 479 | 224 | 
 | 2022-10-29 | 479 | 224 | 
 | 2022-10-28 | 479 | 224 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 445 | 216 | 
 | 2022-10-02 | 444 | 216 | 
 | 2022-10-01 | 444 | 216 | 
-| 2022-09-30 | 442 | 216 | 
 

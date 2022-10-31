@@ -1,10 +1,10 @@
 # fabiensanglard/cpsb - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 16
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/fabiensanglard/cpsb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 49 | 16 | 
 | 2022-10-29 | 48 | 16 | 
 | 2022-10-28 | 48 | 15 | 
 | 2022-10-27 | 48 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 38 | 11 | 
 | 2022-10-02 | 38 | 11 | 
 | 2022-10-01 | 37 | 10 | 
-| 2022-09-30 | 35 | 9 | 
 

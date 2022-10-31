@@ -1,10 +1,10 @@
 # csev/py4e - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 1595
 
-★ Stars: 1954
+★ Stars: 1955
 
 [Open repository](https://github.com/csev/py4e)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 1955 | 1595 | 
 | 2022-10-29 | 1954 | 1595 | 
 | 2022-10-28 | 1955 | 1595 | 
 | 2022-10-27 | 1954 | 1593 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 1940 | 1580 | 
 | 2022-10-03 | 1940 | 1578 | 
 | 2022-10-02 | 1937 | 1577 | 
-| 2022-10-01 | 1937 | 1577 | 
 

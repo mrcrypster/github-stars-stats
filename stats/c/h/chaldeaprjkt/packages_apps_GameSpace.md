@@ -1,6 +1,6 @@
 # chaldeaprjkt/packages_apps_GameSpace - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 23 | 26 | 
 | 2022-10-29 | 23 | 26 | 
 | 2022-10-28 | 23 | 26 | 
 | 2022-10-27 | 23 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 22 | 27 | 
 | 2022-10-02 | 22 | 27 | 
 | 2022-10-01 | 22 | 27 | 
-| 2022-09-30 | 22 | 27 | 
 

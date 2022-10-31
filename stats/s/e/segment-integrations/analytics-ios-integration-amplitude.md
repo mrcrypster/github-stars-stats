@@ -1,6 +1,6 @@
 # segment-integrations/analytics-ios-integration-amplitude - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 11 | 43 | 
 | 2022-10-29 | 11 | 43 | 
 | 2022-10-28 | 11 | 43 | 
 | 2022-10-27 | 11 | 43 | 

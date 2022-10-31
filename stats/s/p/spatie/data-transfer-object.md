@@ -1,10 +1,10 @@
 # spatie/data-transfer-object - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 152
 
-★ Stars: 2178
+★ Stars: 2177
 
 [Open repository](https://github.com/spatie/data-transfer-object)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 2177 | 152 | 
 | 2022-10-29 | 2178 | 152 | 
 | 2022-10-28 | 2177 | 152 | 
 | 2022-10-27 | 2175 | 152 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 2155 | 149 | 
 | 2022-10-02 | 2154 | 149 | 
 | 2022-10-01 | 2154 | 149 | 
-| 2022-09-30 | 2153 | 149 | 
 

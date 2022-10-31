@@ -1,8 +1,8 @@
 # thoughtbot/paperclip - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 2415
+☋ Forks: 2414
 
 ★ Stars: 9065
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 9065 | 2414 | 
 | 2022-10-29 | 9065 | 2415 | 
 | 2022-10-28 | 9065 | 2415 | 
 | 2022-10-27 | 9065 | 2415 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 9058 | 2412 | 
 | 2022-10-02 | 9057 | 2413 | 
 | 2022-10-01 | 9057 | 2413 | 
-| 2022-09-30 | 9057 | 2413 | 
 

@@ -1,8 +1,8 @@
 # nebulazorua/andromeda-engine - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 31
 
-☋ Forks: 60
+☋ Forks: 59
 
 ★ Stars: 78
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 78 | 59 | 
 | 2022-10-29 | 78 | 60 | 
 | 2022-10-28 | 78 | 60 | 
 | 2022-10-27 | 79 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 79 | 55 | 
 | 2022-10-02 | 79 | 55 | 
 | 2022-10-01 | 79 | 55 | 
-| 2022-09-30 | 79 | 55 | 
 

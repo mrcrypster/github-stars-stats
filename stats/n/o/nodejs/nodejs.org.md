@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 30
 
-☋ Forks: 5703
+☋ Forks: 5702
 
-★ Stars: 2272
+★ Stars: 2275
 
 [Open repository](https://github.com/nodejs/nodejs.org)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-30 | 2272 | 5703 | 
+| 2022-10-30 | 2275 | 5702 | 
 | 2022-10-29 | 2272 | 5702 | 
 

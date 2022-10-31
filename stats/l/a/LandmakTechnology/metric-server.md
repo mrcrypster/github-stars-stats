@@ -1,6 +1,6 @@
 # LandmakTechnology/metric-server - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | - | 205 | 
 | 2022-10-29 | - | 205 | 
 | 2022-10-28 | - | 204 | 
 | 2022-10-27 | - | 204 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | - | 204 | 
 | 2022-10-02 | - | 203 | 
 | 2022-10-01 | - | 202 | 
-| 2022-09-30 | - | 202 | 
 

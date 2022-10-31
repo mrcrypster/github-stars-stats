@@ -1,10 +1,10 @@
 # adap/flower - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 360
 
-★ Stars: 1708
+★ Stars: 1709
 
 [Open repository](https://github.com/adap/flower)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1709 | 360 | 
 | 2022-10-30 | 1708 | 360 | 
 | 2022-10-29 | 1707 | 359 | 
 | 2022-10-28 | 1707 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-03 | 1656 | 341 | 
 | 2022-10-02 | 1655 | 339 | 
 | 2022-10-01 | 1654 | 339 | 
-| 2022-09-30 | 1654 | 340 | 
 

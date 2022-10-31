@@ -1,6 +1,6 @@
 # kubeflow/kfserving-lts - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 9 | 6 | 
 | 2022-10-29 | 9 | 6 | 
 | 2022-10-28 | 9 | 6 | 
 | 2022-10-27 | 9 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 9 | 7 | 
 | 2022-10-03 | 9 | 7 | 
 | 2022-10-02 | 9 | 7 | 
-| 2022-09-30 | 9 | 7 | 
 

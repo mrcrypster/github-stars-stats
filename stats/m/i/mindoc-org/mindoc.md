@@ -1,10 +1,10 @@
 # mindoc-org/mindoc - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 1676
+☋ Forks: 1675
 
-★ Stars: 6024
+★ Stars: 6026
 
 [Open repository](https://github.com/mindoc-org/mindoc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 6026 | 1675 | 
 | 2022-10-29 | 6024 | 1676 | 
 | 2022-10-28 | 6022 | 1677 | 
 | 2022-10-27 | 6022 | 1676 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-04 | 5971 | 1667 | 
 | 2022-10-03 | 5971 | 1667 | 
 | 2022-10-02 | 5970 | 1667 | 
-| 2022-10-01 | 5969 | 1667 | 
 

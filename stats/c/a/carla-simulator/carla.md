@@ -1,10 +1,10 @@
 # carla-simulator/carla - stars & forks statistics
 
-Stats updated on Oct 2022, 29
+Stats updated on Oct 2022, 30
 
-☋ Forks: 2568
+☋ Forks: 2567
 
-★ Stars: 8439
+★ Stars: 8441
 
 [Open repository](https://github.com/carla-simulator/carla)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 29
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-30 | 8441 | 2567 | 
 | 2022-10-29 | 8439 | 2568 | 
 | 2022-10-28 | 8436 | 2568 | 
 | 2022-10-27 | 8424 | 2563 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 29
 | 2022-10-03 | 8310 | 2526 | 
 | 2022-10-02 | 8309 | 2524 | 
 | 2022-10-01 | 8309 | 2521 | 
-| 2022-09-30 | 8306 | 2518 | 
 
