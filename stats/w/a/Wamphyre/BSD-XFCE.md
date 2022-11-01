@@ -1,10 +1,10 @@
 # Wamphyre/BSD-XFCE - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 10
 
-★ Stars: 220
+★ Stars: 221
 
 [Open repository](https://github.com/Wamphyre/BSD-XFCE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 221 | 10 | 
 | 2022-10-30 | 220 | 10 | 
 | 2022-10-29 | 220 | 10 | 
 | 2022-10-28 | 220 | 10 | 

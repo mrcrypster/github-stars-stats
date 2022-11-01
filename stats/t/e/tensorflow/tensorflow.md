@@ -1,10 +1,10 @@
 # tensorflow/tensorflow - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 87384
+☋ Forks: 87418
 
-★ Stars: 168737
+★ Stars: 168778
 
 [Open repository](https://github.com/tensorflow/tensorflow)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 168778 | 87418 | 
 | 2022-10-30 | 168737 | 87384 | 
 | 2022-10-29 | 168713 | 87377 | 
 | 2022-10-28 | 168706 | 87373 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 168150 | 87236 | 
 | 2022-10-03 | 168133 | 87235 | 
 | 2022-10-02 | 168106 | 87229 | 
-| 2022-10-01 | 168088 | 87227 | 
 

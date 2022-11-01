@@ -1,10 +1,10 @@
 # espressif/ESP8266_RTOS_SDK - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1463
 
-★ Stars: 2876
+★ Stars: 2877
 
 [Open repository](https://github.com/espressif/ESP8266_RTOS_SDK)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2877 | 1463 | 
 | 2022-10-30 | 2876 | 1463 | 
 | 2022-10-29 | 2875 | 1463 | 
 | 2022-10-28 | 2872 | 1462 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2860 | 1453 | 
 | 2022-10-03 | 2859 | 1453 | 
 | 2022-10-02 | 2858 | 1452 | 
-| 2022-10-01 | 2858 | 1452 | 
 

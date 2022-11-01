@@ -1,6 +1,6 @@
 # LineageOS/android_packages_overlays_Lineage - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2 | 35 | 
 | 2022-10-30 | 2 | 35 | 
 | 2022-10-29 | 2 | 35 | 
 | 2022-10-28 | 2 | 35 | 

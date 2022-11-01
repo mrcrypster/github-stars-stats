@@ -1,6 +1,6 @@
 # DerekSelander/dsdump - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 924 | 93 | 
 | 2022-10-30 | 924 | 93 | 
 | 2022-10-29 | 924 | 93 | 
 | 2022-10-28 | 924 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 912 | 91 | 
 | 2022-10-03 | 911 | 91 | 
 | 2022-10-02 | 911 | 91 | 
-| 2022-10-01 | 911 | 91 | 
 

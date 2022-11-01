@@ -1,8 +1,8 @@
 # godofredoninja/simply - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 150
+☋ Forks: 149
 
 ★ Stars: 509
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 509 | 149 | 
 | 2022-10-30 | 509 | 150 | 
 | 2022-10-29 | 509 | 151 | 
 | 2022-10-28 | 509 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 507 | 151 | 
 | 2022-10-03 | 507 | 151 | 
 | 2022-10-02 | 507 | 151 | 
-| 2022-10-01 | 507 | 151 | 
 

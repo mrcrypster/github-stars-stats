@@ -1,10 +1,10 @@
 # Shougo/neosnippet.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 106
+☋ Forks: 108
 
-★ Stars: 1097
+★ Stars: 1098
 
 [Open repository](https://github.com/Shougo/neosnippet.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1098 | 108 | 
 | 2022-10-30 | 1097 | 106 | 
 | 2022-10-29 | 1097 | 106 | 
 | 2022-10-28 | 1097 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 1096 | 106 | 
 | 2022-10-03 | 1095 | 106 | 
 | 2022-10-02 | 1095 | 106 | 
-| 2022-10-01 | 1095 | 106 | 
 

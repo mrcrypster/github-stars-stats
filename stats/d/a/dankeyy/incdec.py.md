@@ -1,10 +1,10 @@
 # dankeyy/incdec.py - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/dankeyy/incdec.py)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 94 | 2 | 
 | 2022-10-30 | 93 | 2 | 
 | 2022-10-29 | 93 | 2 | 
 | 2022-10-28 | 93 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 93 | 2 | 
 | 2022-10-03 | 92 | 2 | 
 | 2022-10-02 | 92 | 2 | 
-| 2022-10-01 | 92 | 2 | 
 

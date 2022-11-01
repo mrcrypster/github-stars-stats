@@ -1,10 +1,10 @@
 # 5T33Z0/OC-Little-Translated - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 29
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/5T33Z0/OC-Little-Translated)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 201 | 29 | 
 | 2022-10-30 | 200 | 29 | 
 | 2022-10-29 | 200 | 29 | 
 | 2022-10-28 | 199 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 189 | 27 | 
 | 2022-10-03 | 189 | 27 | 
 | 2022-10-02 | 188 | 27 | 
-| 2022-10-01 | 188 | 27 | 
 

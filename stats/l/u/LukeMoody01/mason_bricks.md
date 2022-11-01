@@ -1,6 +1,6 @@
 # LukeMoody01/mason_bricks - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 77 | 26 | 
 | 2022-10-30 | 77 | 26 | 
 | 2022-10-29 | 77 | 26 | 
 | 2022-10-28 | 77 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 74 | 24 | 
 | 2022-10-03 | 74 | 24 | 
 | 2022-10-02 | 73 | 23 | 
-| 2022-10-01 | 71 | 23 | 
 

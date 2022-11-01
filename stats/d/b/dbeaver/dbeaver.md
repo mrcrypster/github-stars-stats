@@ -1,10 +1,10 @@
 # dbeaver/dbeaver - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 2645
+☋ Forks: 2646
 
-★ Stars: 28907
+★ Stars: 28919
 
 [Open repository](https://github.com/dbeaver/dbeaver)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 28919 | 2646 | 
 | 2022-10-30 | 28907 | 2645 | 
 | 2022-10-29 | 28903 | 2645 | 
 | 2022-10-28 | 28898 | 2646 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 28555 | 2616 | 
 | 2022-10-03 | 28548 | 2615 | 
 | 2022-10-02 | 28548 | 2615 | 
-| 2022-10-01 | 28541 | 2614 | 
 

@@ -1,6 +1,6 @@
 # volta-cli/volta - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 162
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 6882 | 162 | 
 | 2022-10-30 | 6882 | 162 | 
 | 2022-10-29 | 6876 | 162 | 
 | 2022-10-28 | 6870 | 161 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 6739 | 158 | 
 | 2022-10-04 | 6735 | 158 | 
 | 2022-10-03 | 6730 | 158 | 
-| 2022-10-02 | 6728 | 159 | 
 

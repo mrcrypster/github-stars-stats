@@ -1,8 +1,8 @@
 # tpope/vim-markdown - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 194
+☋ Forks: 195
 
 ★ Stars: 1169
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1169 | 195 | 
 | 2022-10-30 | 1169 | 194 | 
 | 2022-10-29 | 1169 | 194 | 
 | 2022-10-28 | 1168 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1165 | 192 | 
 | 2022-10-03 | 1165 | 192 | 
 | 2022-10-02 | 1165 | 192 | 
-| 2022-10-01 | 1165 | 192 | 
 

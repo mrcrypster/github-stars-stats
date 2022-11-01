@@ -1,10 +1,10 @@
 # krenx1983/openctp - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 722
+★ Stars: 727
 
 [Open repository](https://github.com/krenx1983/openctp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 727 | 218 | 
 | 2022-10-30 | 722 | 217 | 
 | 2022-10-29 | 719 | 217 | 
 | 2022-10-28 | 719 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 673 | 204 | 
 | 2022-10-03 | 672 | 204 | 
 | 2022-10-02 | 672 | 204 | 
-| 2022-10-01 | 672 | 204 | 
 

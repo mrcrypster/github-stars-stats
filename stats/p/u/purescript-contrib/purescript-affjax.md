@@ -1,6 +1,6 @@
 # purescript-contrib/purescript-affjax - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 118 | 79 | 
 | 2022-10-30 | 118 | 79 | 
 | 2022-10-29 | 118 | 79 | 
 | 2022-10-28 | 118 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 117 | 79 | 
 | 2022-10-03 | 117 | 79 | 
 | 2022-10-02 | 117 | 79 | 
-| 2022-10-01 | 117 | 79 | 
 

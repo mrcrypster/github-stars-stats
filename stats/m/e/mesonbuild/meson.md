@@ -1,10 +1,10 @@
 # mesonbuild/meson - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 1257
+☋ Forks: 1259
 
-★ Stars: 4279
+★ Stars: 4282
 
 [Open repository](https://github.com/mesonbuild/meson)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 4282 | 1259 | 
 | 2022-10-30 | 4279 | 1257 | 
 | 2022-10-29 | 4280 | 1256 | 
 | 2022-10-28 | 4279 | 1255 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 4230 | 1239 | 
 | 2022-10-04 | 4230 | 1238 | 
 | 2022-10-03 | 4227 | 1237 | 
-| 2022-10-02 | 4228 | 1237 | 
 

@@ -1,6 +1,6 @@
 # Alex-1992/flaskblog - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 42 | 9 | 
 | 2022-10-30 | 42 | 9 | 
 | 2022-10-29 | 42 | 9 | 
 | 2022-10-28 | 42 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 43 | 9 | 
 | 2022-10-03 | 43 | 9 | 
 | 2022-10-02 | 43 | 9 | 
-| 2022-10-01 | 43 | 9 | 
 

@@ -1,8 +1,8 @@
 # gaurav-nelson/github-action-markdown-link-check - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 63
+☋ Forks: 64
 
 ★ Stars: 306
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 306 | 64 | 
 | 2022-10-30 | 306 | 63 | 
 | 2022-10-29 | 306 | 63 | 
 | 2022-10-28 | 306 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 300 | 62 | 
 | 2022-10-03 | 300 | 62 | 
 | 2022-10-02 | 300 | 62 | 
-| 2022-10-01 | 300 | 62 | 
 

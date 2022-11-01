@@ -1,6 +1,6 @@
 # bats-core/bats-core - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 333
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3542 | 333 | 
 | 2022-10-30 | 3542 | 333 | 
 | 2022-10-29 | 3537 | 334 | 
 | 2022-10-28 | 3537 | 333 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 3474 | 328 | 
 | 2022-10-03 | 3471 | 328 | 
 | 2022-10-02 | 3468 | 328 | 
-| 2022-10-01 | 3465 | 328 | 
 

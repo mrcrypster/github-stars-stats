@@ -1,0 +1,18 @@
+# johanfylling/jarl - stars & forks statistics
+
+Stats updated on Nov 2022, 01
+
+☋ Forks: 0
+
+★ Stars: 13
+
+[Open repository](https://github.com/johanfylling/jarl)
+
+[Open detailed stats for johanfylling/jarl](https://reviewgithub.com/rep/johanfylling/jarl)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-01 | 13 | - | 
+| 2022-10-31 | 13 | - | 
+

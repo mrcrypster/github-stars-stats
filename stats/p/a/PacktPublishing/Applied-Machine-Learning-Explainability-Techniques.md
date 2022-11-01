@@ -1,6 +1,6 @@
 # PacktPublishing/Applied-Machine-Learning-Explainability-Techniques - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 150 | 55 | 
 | 2022-10-30 | 150 | 55 | 
 | 2022-10-29 | 149 | 54 | 
 | 2022-10-28 | 149 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 147 | 52 | 
 | 2022-10-04 | 146 | 52 | 
 | 2022-10-03 | 146 | 52 | 
-| 2022-10-02 | 146 | 52 | 
 

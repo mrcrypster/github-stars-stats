@@ -1,6 +1,6 @@
 # aadityamp01/Androapps - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 71 | 54 | 
 | 2022-10-30 | 71 | 54 | 
 | 2022-10-29 | 70 | 54 | 
 | 2022-10-28 | 70 | 55 | 

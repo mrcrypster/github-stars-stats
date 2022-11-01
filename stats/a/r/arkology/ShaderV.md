@@ -1,8 +1,8 @@
 # arkology/ShaderV - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 24
+☋ Forks: 25
 
 ★ Stars: 258
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 258 | 25 | 
 | 2022-10-30 | 258 | 24 | 
 | 2022-10-29 | 258 | 24 | 
 | 2022-10-28 | 257 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 245 | 22 | 
 | 2022-10-03 | 245 | 22 | 
 | 2022-10-02 | 245 | 22 | 
-| 2022-10-01 | 245 | 22 | 
 

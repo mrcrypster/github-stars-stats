@@ -1,6 +1,6 @@
 # Arachnid/solidity-stringutils - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 336
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 978 | 336 | 
 | 2022-10-30 | 978 | 336 | 
 | 2022-10-29 | 976 | 336 | 
 | 2022-10-28 | 975 | 336 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 969 | 334 | 
 | 2022-10-03 | 968 | 334 | 
 | 2022-10-02 | 967 | 334 | 
-| 2022-10-01 | 967 | 334 | 
 

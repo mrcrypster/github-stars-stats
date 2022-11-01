@@ -1,10 +1,10 @@
 # ThreeMammals/Ocelot - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 1493
+☋ Forks: 1495
 
-★ Stars: 7307
+★ Stars: 7309
 
 [Open repository](https://github.com/ThreeMammals/Ocelot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 7309 | 1495 | 
 | 2022-10-30 | 7307 | 1493 | 
 | 2022-10-29 | 7305 | 1494 | 
 | 2022-10-28 | 7304 | 1495 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 7248 | 1489 | 
 | 2022-10-03 | 7247 | 1488 | 
 | 2022-10-02 | 7246 | 1488 | 
-| 2022-10-01 | 7244 | 1489 | 
 

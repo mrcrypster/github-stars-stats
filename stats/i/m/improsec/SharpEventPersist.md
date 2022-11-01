@@ -1,6 +1,6 @@
 # improsec/SharpEventPersist - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 311 | 47 | 
 | 2022-10-30 | 311 | 47 | 
 | 2022-10-29 | 310 | 47 | 
 | 2022-10-28 | 310 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 278 | 43 | 
 | 2022-10-03 | 275 | 43 | 
 | 2022-10-02 | 275 | 43 | 
-| 2022-10-01 | 273 | 43 | 
 

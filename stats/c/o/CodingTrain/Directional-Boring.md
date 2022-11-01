@@ -1,6 +1,6 @@
 # CodingTrain/Directional-Boring - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 40 | 18 | 
 | 2022-10-30 | 40 | 18 | 
 | 2022-10-29 | 40 | 18 | 
 | 2022-10-28 | 40 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 39 | 17 | 
 | 2022-10-03 | 39 | 17 | 
 | 2022-10-02 | 39 | 17 | 
-| 2022-10-01 | 39 | 17 | 
 

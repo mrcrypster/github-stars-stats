@@ -1,10 +1,10 @@
 # zkLinkProtocol/zklink-contracts - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 6
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/zkLinkProtocol/zklink-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15 | 6 | 
 | 2022-10-30 | 14 | 6 | 
 | 2022-10-29 | 14 | 6 | 
 | 2022-10-28 | 14 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 13 | 6 | 
 | 2022-10-03 | 13 | 6 | 
 | 2022-10-02 | 13 | 6 | 
-| 2022-10-01 | 13 | 6 | 
 

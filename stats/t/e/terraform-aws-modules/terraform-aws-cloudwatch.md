@@ -1,6 +1,6 @@
 # terraform-aws-modules/terraform-aws-cloudwatch - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 149
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 105 | 149 | 
 | 2022-10-30 | 105 | 149 | 
 | 2022-10-29 | 105 | 149 | 
 | 2022-10-28 | 105 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 104 | 148 | 
 | 2022-10-03 | 104 | 147 | 
 | 2022-10-02 | 103 | 147 | 
-| 2022-10-01 | 103 | 147 | 
 

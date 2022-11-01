@@ -1,10 +1,10 @@
 # Dragonfly-Capital/useful-solidity-patterns - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 374
+★ Stars: 377
 
 [Open repository](https://github.com/Dragonfly-Capital/useful-solidity-patterns)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 377 | 15 | 
 | 2022-10-30 | 374 | 14 | 
 | 2022-10-29 | 373 | 14 | 
 | 2022-10-28 | 373 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 273 | 10 | 
 | 2022-10-03 | 246 | 9 | 
 | 2022-10-02 | 128 | 2 | 
-| 2022-10-01 | 74 | 2 | 
 

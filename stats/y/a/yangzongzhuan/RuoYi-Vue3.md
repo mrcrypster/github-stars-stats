@@ -1,10 +1,10 @@
 # yangzongzhuan/RuoYi-Vue3 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 606
+☋ Forks: 608
 
-★ Stars: 1323
+★ Stars: 1328
 
 [Open repository](https://github.com/yangzongzhuan/RuoYi-Vue3)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1328 | 608 | 
 | 2022-10-30 | 1323 | 606 | 
 | 2022-10-29 | 1320 | 605 | 
 | 2022-10-28 | 1319 | 605 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1171 | 566 | 
 | 2022-10-03 | 1171 | 566 | 
 | 2022-10-02 | 1171 | 566 | 
-| 2022-10-01 | 1171 | 565 | 
 

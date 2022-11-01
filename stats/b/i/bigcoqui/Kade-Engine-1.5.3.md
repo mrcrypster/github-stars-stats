@@ -1,6 +1,6 @@
 # bigcoqui/Kade-Engine-1.5.3 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1 | 10 | 
 | 2022-10-30 | 1 | 10 | 
 | 2022-10-29 | 1 | 10 | 
 | 2022-10-28 | 1 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1 | 8 | 
 | 2022-10-03 | 1 | 8 | 
 | 2022-10-02 | 1 | 8 | 
-| 2022-10-01 | 1 | 8 | 
 

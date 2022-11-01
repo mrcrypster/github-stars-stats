@@ -1,10 +1,10 @@
 # kedacore/charts - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 110
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/kedacore/charts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 82 | 110 | 
 | 2022-10-30 | 81 | 110 | 
 | 2022-10-29 | 81 | 110 | 
 | 2022-10-28 | 81 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 79 | 105 | 
 | 2022-10-03 | 79 | 106 | 
 | 2022-10-02 | 79 | 106 | 
-| 2022-10-01 | 79 | 106 | 
 

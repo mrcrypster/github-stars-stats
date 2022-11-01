@@ -1,6 +1,6 @@
 # pentagonxyz/move-oracles - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 46 | 1 | 
 | 2022-10-31 | 46 | 1 | 
 | 2022-10-30 | 46 | 1 | 
 | 2022-10-29 | 46 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 45 | 1 | 
 | 2022-10-03 | 45 | 1 | 
 | 2022-10-02 | 45 | 1 | 
-| 2022-10-01 | 45 | 1 | 
 

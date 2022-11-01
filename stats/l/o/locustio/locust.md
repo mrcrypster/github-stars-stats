@@ -1,10 +1,10 @@
 # locustio/locust - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2581
 
-★ Stars: 20015
+★ Stars: 20020
 
 [Open repository](https://github.com/locustio/locust)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 20020 | 2581 | 
 | 2022-10-30 | 20015 | 2581 | 
 | 2022-10-29 | 20013 | 2580 | 
 | 2022-10-28 | 20008 | 2581 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 19860 | 2564 | 
 | 2022-10-03 | 19854 | 2562 | 
 | 2022-10-02 | 19851 | 2563 | 
-| 2022-10-01 | 19846 | 2563 | 
 

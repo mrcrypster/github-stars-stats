@@ -1,10 +1,10 @@
 # joaoaccaldeira/goblinSuiWarriorNFT - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 16
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/joaoaccaldeira/goblinSuiWarriorNFT)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 49 | 16 | 
 | 2022-10-30 | 48 | 16 | 
 | 2022-10-29 | 47 | 16 | 
 | 2022-10-28 | 46 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 4 | 5 | 
 | 2022-10-03 | 4 | 5 | 
 | 2022-10-02 | 4 | 5 | 
-| 2022-10-01 | 4 | 5 | 
 

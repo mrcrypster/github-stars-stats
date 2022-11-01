@@ -1,10 +1,10 @@
 # primefaces/sakai-react - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 206
 
-★ Stars: 351
+★ Stars: 352
 
 [Open repository](https://github.com/primefaces/sakai-react)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 352 | 206 | 
 | 2022-10-30 | 351 | 206 | 
 | 2022-10-29 | 348 | 205 | 
 | 2022-10-28 | 347 | 205 | 

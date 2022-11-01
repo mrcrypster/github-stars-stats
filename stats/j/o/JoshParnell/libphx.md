@@ -1,10 +1,10 @@
 # JoshParnell/libphx - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 50
+☋ Forks: 52
 
-★ Stars: 177
+★ Stars: 178
 
 [Open repository](https://github.com/JoshParnell/libphx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 178 | 52 | 
 | 2022-10-30 | 177 | 50 | 
 | 2022-10-29 | 177 | 50 | 
 | 2022-10-28 | 177 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 176 | 50 | 
 | 2022-10-03 | 175 | 50 | 
 | 2022-10-02 | 175 | 50 | 
-| 2022-10-01 | 175 | 50 | 
 

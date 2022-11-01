@@ -1,10 +1,10 @@
 # dunovank/jupyter-themes - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1047
 
-★ Stars: 9318
+★ Stars: 9319
 
 [Open repository](https://github.com/dunovank/jupyter-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 9319 | 1047 | 
 | 2022-10-30 | 9318 | 1047 | 
 | 2022-10-29 | 9318 | 1047 | 
 | 2022-10-28 | 9317 | 1047 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 9267 | 1044 | 
 | 2022-10-03 | 9266 | 1044 | 
 | 2022-10-02 | 9265 | 1044 | 
-| 2022-10-01 | 9264 | 1044 | 
 

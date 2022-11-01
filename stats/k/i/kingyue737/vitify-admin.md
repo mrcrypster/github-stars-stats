@@ -1,10 +1,10 @@
 # kingyue737/vitify-admin - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/kingyue737/vitify-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 43 | 8 | 
 | 2022-10-30 | 42 | 7 | 
 | 2022-10-29 | 42 | 7 | 
 | 2022-10-28 | 42 | 7 | 

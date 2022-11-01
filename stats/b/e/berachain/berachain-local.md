@@ -1,6 +1,6 @@
 # berachain/berachain-local - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 21 | 9 | 
 | 2022-10-31 | 21 | 9 | 
 | 2022-10-29 | 21 | 9 | 
 | 2022-10-28 | 21 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 17 | 8 | 
 | 2022-10-03 | 16 | 8 | 
 | 2022-10-02 | 16 | 8 | 
-| 2022-10-01 | 16 | 8 | 
 

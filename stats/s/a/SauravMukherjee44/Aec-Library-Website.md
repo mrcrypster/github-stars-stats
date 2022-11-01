@@ -1,8 +1,8 @@
 # SauravMukherjee44/Aec-Library-Website - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 132
+☋ Forks: 131
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 49 | 131 | 
 | 2022-10-30 | 49 | 132 | 
 | 2022-10-29 | 50 | 132 | 
 | 2022-10-28 | 50 | 132 | 

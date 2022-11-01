@@ -1,6 +1,6 @@
 # LandmakTechnology/JenkinsSharedLibraries - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 505
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | - | 505 | 
 | 2022-10-30 | - | 505 | 
 | 2022-10-29 | - | 505 | 
 | 2022-10-28 | - | 505 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | - | 478 | 
 | 2022-10-03 | - | 474 | 
 | 2022-10-02 | - | 472 | 
-| 2022-10-01 | - | 471 | 
 

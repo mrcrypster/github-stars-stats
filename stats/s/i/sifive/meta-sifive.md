@@ -1,6 +1,6 @@
 # sifive/meta-sifive - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 35 | 32 | 
 | 2022-10-30 | 35 | 32 | 
 | 2022-10-29 | 35 | 32 | 
 | 2022-10-28 | 35 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 32 | 32 | 
 | 2022-10-03 | 32 | 32 | 
 | 2022-10-02 | 32 | 32 | 
-| 2022-10-01 | 32 | 32 | 
 

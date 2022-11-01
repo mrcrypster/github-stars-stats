@@ -1,6 +1,6 @@
 # DNXLabs/terraform-aws-client-vpn - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 37 | 46 | 
 | 2022-10-30 | 37 | 46 | 
 | 2022-10-29 | 37 | 46 | 
 | 2022-10-28 | 37 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 36 | 46 | 
 | 2022-10-03 | 36 | 46 | 
 | 2022-10-02 | 36 | 46 | 
-| 2022-10-01 | 36 | 46 | 
 

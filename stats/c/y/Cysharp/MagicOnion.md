@@ -1,8 +1,8 @@
 # Cysharp/MagicOnion - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 355
+☋ Forks: 356
 
 ★ Stars: 2912
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2912 | 356 | 
 | 2022-10-30 | 2912 | 355 | 
 | 2022-10-29 | 2912 | 355 | 
 | 2022-10-28 | 2911 | 356 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2891 | 356 | 
 | 2022-10-03 | 2890 | 356 | 
 | 2022-10-02 | 2890 | 356 | 
-| 2022-10-01 | 2886 | 356 | 
 

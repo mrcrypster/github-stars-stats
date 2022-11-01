@@ -1,6 +1,6 @@
 # openmlsys/openmlsys-cuda - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 37 | 2 | 
 | 2022-10-30 | 37 | 2 | 
 | 2022-10-29 | 37 | 2 | 
 | 2022-10-28 | 37 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 33 | 2 | 
 | 2022-10-04 | 33 | 2 | 
 | 2022-10-03 | 33 | 2 | 
-| 2022-10-01 | 33 | 2 | 
 

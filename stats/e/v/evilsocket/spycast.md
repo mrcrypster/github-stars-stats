@@ -1,10 +1,10 @@
 # evilsocket/spycast - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 10
 
-★ Stars: 267
+★ Stars: 269
 
 [Open repository](https://github.com/evilsocket/spycast)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 269 | 10 | 
 | 2022-10-30 | 267 | 10 | 
 | 2022-10-29 | 266 | 10 | 
 | 2022-10-28 | 265 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 230 | 9 | 
 | 2022-10-03 | 223 | 8 | 
 | 2022-10-02 | 219 | 8 | 
-| 2022-10-01 | 214 | 8 | 
 

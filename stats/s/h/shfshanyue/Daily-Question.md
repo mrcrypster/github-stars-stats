@@ -1,8 +1,8 @@
 # shfshanyue/Daily-Question - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 451
+☋ Forks: 452
 
 ★ Stars: 4132
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 4132 | 452 | 
 | 2022-10-30 | 4132 | 451 | 
 | 2022-10-29 | 4130 | 451 | 
 | 2022-10-28 | 4129 | 451 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 4075 | 446 | 
 | 2022-10-03 | 4074 | 445 | 
 | 2022-10-02 | 4073 | 445 | 
-| 2022-10-01 | 4073 | 445 | 
 

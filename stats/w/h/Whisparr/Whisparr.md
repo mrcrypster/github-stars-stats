@@ -1,6 +1,6 @@
 # Whisparr/Whisparr - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 144 | 10 | 
 | 2022-10-30 | 144 | 10 | 
 | 2022-10-29 | 144 | 10 | 
 | 2022-10-28 | 143 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 136 | 8 | 
 | 2022-10-03 | 136 | 8 | 
 | 2022-10-02 | 136 | 8 | 
-| 2022-10-01 | 136 | 8 | 
 

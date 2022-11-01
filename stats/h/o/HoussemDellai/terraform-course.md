@@ -1,8 +1,8 @@
 # HoussemDellai/terraform-course - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 619
+☋ Forks: 621
 
 ★ Stars: 173
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 173 | 621 | 
 | 2022-10-30 | 173 | 619 | 
 | 2022-10-29 | 173 | 618 | 
 | 2022-10-28 | 173 | 617 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 169 | 596 | 
 | 2022-10-03 | 169 | 595 | 
 | 2022-10-02 | 169 | 592 | 
-| 2022-10-01 | 169 | 591 | 
 

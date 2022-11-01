@@ -1,6 +1,6 @@
 # tlringer/ml-for-proofs - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 30 | 2 | 
 | 2022-10-30 | 30 | 2 | 
 | 2022-10-29 | 30 | 2 | 
 | 2022-10-28 | 30 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 29 | 2 | 
 | 2022-10-04 | 29 | 2 | 
 | 2022-10-03 | 29 | 2 | 
-| 2022-10-02 | 29 | 2 | 
 

@@ -1,8 +1,8 @@
 # Poor4ever/Some-defivuln-exp - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 29 | 3 | 
 | 2022-10-30 | 29 | 2 | 
 | 2022-10-29 | 29 | 2 | 
 | 2022-10-28 | 29 | 2 | 

@@ -1,10 +1,10 @@
 # RiiConnect24/Wii-Guide - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 55
 
-★ Stars: 78
+★ Stars: 79
 
 [Open repository](https://github.com/RiiConnect24/Wii-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 79 | 55 | 
 | 2022-10-30 | 78 | 55 | 
 | 2022-10-29 | 78 | 55 | 
 | 2022-10-28 | 78 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 76 | 54 | 
 | 2022-10-04 | 76 | 54 | 
 | 2022-10-02 | 76 | 54 | 
-| 2022-10-01 | 76 | 54 | 
 

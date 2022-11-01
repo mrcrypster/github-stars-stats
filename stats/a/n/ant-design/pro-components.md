@@ -1,10 +1,10 @@
 # ant-design/pro-components - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 963
 
-★ Stars: 2979
+★ Stars: 2980
 
 [Open repository](https://github.com/ant-design/pro-components)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2980 | 963 | 
 | 2022-10-30 | 2979 | 963 | 
 | 2022-10-29 | 2977 | 964 | 
 | 2022-10-28 | 2975 | 964 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2926 | 943 | 
 | 2022-10-03 | 2923 | 942 | 
 | 2022-10-02 | 2922 | 942 | 
-| 2022-10-01 | 2922 | 941 | 
 

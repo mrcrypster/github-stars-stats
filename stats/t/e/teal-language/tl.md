@@ -1,10 +1,10 @@
 # teal-language/tl - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 74
 
-★ Stars: 1373
+★ Stars: 1376
 
 [Open repository](https://github.com/teal-language/tl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1376 | 74 | 
 | 2022-10-30 | 1373 | 74 | 
 | 2022-10-29 | 1372 | 74 | 
 | 2022-10-28 | 1371 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1336 | 72 | 
 | 2022-10-03 | 1335 | 72 | 
 | 2022-10-02 | 1334 | 72 | 
-| 2022-10-01 | 1332 | 71 | 
 

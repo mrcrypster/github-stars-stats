@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 31
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 111
+★ Stars: 127
 
 [Open repository](https://github.com/intel/intel-extension-for-tensorflow)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-31 | 111 | 7 | 
+| 2022-10-31 | 127 | 8 | 
 | 2022-10-30 | 109 | 6 | 
 

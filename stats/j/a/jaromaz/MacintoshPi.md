@@ -1,10 +1,10 @@
 # jaromaz/MacintoshPi - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 10
 
-★ Stars: 444
+★ Stars: 445
 
 [Open repository](https://github.com/jaromaz/MacintoshPi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 445 | 10 | 
 | 2022-10-30 | 444 | 10 | 
 | 2022-10-29 | 443 | 10 | 
 | 2022-10-28 | 443 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 434 | 10 | 
 | 2022-10-03 | 434 | 10 | 
 | 2022-10-02 | 432 | 10 | 
-| 2022-10-01 | 431 | 10 | 
 

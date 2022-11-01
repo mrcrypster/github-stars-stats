@@ -1,10 +1,10 @@
 # rambasnet/CPP-Fundamentals - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 26
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/rambasnet/CPP-Fundamentals)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15 | 26 | 
 | 2022-10-30 | 14 | 26 | 
 | 2022-10-29 | 14 | 26 | 
 | 2022-10-28 | 14 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 13 | 24 | 
 | 2022-10-03 | 13 | 24 | 
 | 2022-10-02 | 13 | 24 | 
-| 2022-10-01 | 13 | 24 | 
 

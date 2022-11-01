@@ -1,6 +1,6 @@
 # 0xBeans/IAmTheOptimizor - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 69 | 3 | 
 | 2022-10-30 | 69 | 3 | 
 | 2022-10-29 | 69 | 3 | 
 | 2022-10-28 | 69 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 59 | 2 | 
 | 2022-10-03 | 59 | 2 | 
 | 2022-10-02 | 59 | 2 | 
-| 2022-10-01 | 59 | 2 | 
 

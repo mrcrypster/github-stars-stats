@@ -1,6 +1,6 @@
 # robjhyndman/forecast - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 331
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1003 | 331 | 
 | 2022-10-30 | 1003 | 331 | 
 | 2022-10-29 | 1003 | 331 | 
 | 2022-10-28 | 1003 | 331 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1001 | 331 | 
 | 2022-10-03 | 1001 | 331 | 
 | 2022-10-02 | 1001 | 331 | 
-| 2022-10-01 | 1001 | 331 | 
 

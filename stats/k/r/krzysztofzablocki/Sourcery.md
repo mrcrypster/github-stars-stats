@@ -1,10 +1,10 @@
 # krzysztofzablocki/Sourcery - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 539
 
-★ Stars: 6859
+★ Stars: 6860
 
 [Open repository](https://github.com/krzysztofzablocki/Sourcery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 6860 | 539 | 
 | 2022-10-30 | 6859 | 539 | 
 | 2022-10-29 | 6858 | 540 | 
 | 2022-10-28 | 6857 | 540 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 6820 | 530 | 
 | 2022-10-03 | 6816 | 530 | 
 | 2022-10-02 | 6813 | 529 | 
-| 2022-10-01 | 6813 | 529 | 
 

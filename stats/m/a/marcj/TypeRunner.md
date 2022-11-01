@@ -1,10 +1,10 @@
 # marcj/TypeRunner - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 32
+☋ Forks: 34
 
-★ Stars: 2236
+★ Stars: 2264
 
 [Open repository](https://github.com/marcj/TypeRunner)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2264 | 34 | 
 | 2022-10-30 | 2236 | 32 | 
 | 2022-10-29 | 2223 | 33 | 
 | 2022-10-28 | 2204 | 33 | 

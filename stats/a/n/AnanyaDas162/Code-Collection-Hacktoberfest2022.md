@@ -1,8 +1,8 @@
 # AnanyaDas162/Code-Collection-Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 197
+☋ Forks: 198
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 44 | 198 | 
 | 2022-10-30 | 44 | 197 | 
 | 2022-10-29 | 44 | 200 | 
 | 2022-10-28 | 44 | 200 | 

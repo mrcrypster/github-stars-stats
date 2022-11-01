@@ -1,10 +1,10 @@
 # pratikbutani/awesome-flutter-snippets - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/pratikbutani/awesome-flutter-snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 16 | 30 | 
 | 2022-10-30 | 15 | 29 | 
 | 2022-10-29 | 15 | 29 | 
 | 2022-10-28 | 14 | 29 | 

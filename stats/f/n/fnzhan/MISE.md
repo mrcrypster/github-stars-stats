@@ -1,10 +1,10 @@
 # fnzhan/MISE - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 36
 
-★ Stars: 410
+★ Stars: 411
 
 [Open repository](https://github.com/fnzhan/MISE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 411 | 36 | 
 | 2022-10-30 | 410 | 36 | 
 | 2022-10-29 | 410 | 36 | 
 | 2022-10-28 | 410 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 401 | 36 | 
 | 2022-10-03 | 402 | 36 | 
 | 2022-10-02 | 401 | 36 | 
-| 2022-10-01 | 401 | 36 | 
 

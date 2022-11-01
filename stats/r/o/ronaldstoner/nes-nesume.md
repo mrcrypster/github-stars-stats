@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/ronaldstoner/nes-nesume)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-31 | 34 | - | 
+| 2022-10-31 | 35 | - | 
 | 2022-10-30 | 34 | - | 
 

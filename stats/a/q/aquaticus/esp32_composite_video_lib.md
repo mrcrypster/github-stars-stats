@@ -1,10 +1,10 @@
 # aquaticus/esp32_composite_video_lib - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
-★ Stars: 102
+★ Stars: 103
 
 [Open repository](https://github.com/aquaticus/esp32_composite_video_lib)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 103 | 2 | 
 | 2022-10-30 | 102 | 2 | 
 | 2022-10-29 | 102 | 2 | 
 | 2022-10-28 | 102 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 99 | 2 | 
 | 2022-10-03 | 99 | 2 | 
 | 2022-10-02 | 99 | 2 | 
-| 2022-10-01 | 99 | 2 | 
 

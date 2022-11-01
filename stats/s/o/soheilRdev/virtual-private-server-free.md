@@ -1,6 +1,6 @@
 # soheilRdev/virtual-private-server-free - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1 | 24 | 
 | 2022-10-30 | 1 | 24 | 
 | 2022-10-29 | 1 | 24 | 
 | 2022-10-28 | 1 | 21 | 

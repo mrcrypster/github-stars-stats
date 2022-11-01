@@ -1,10 +1,10 @@
 # MustangYM/WeChatExtension-ForMac - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3406
 
-★ Stars: 20014
+★ Stars: 20015
 
 [Open repository](https://github.com/MustangYM/WeChatExtension-ForMac)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 20015 | 3406 | 
 | 2022-10-30 | 20014 | 3406 | 
 | 2022-10-29 | 20014 | 3405 | 
 | 2022-10-28 | 20009 | 3405 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 19899 | 3396 | 
 | 2022-10-03 | 19897 | 3396 | 
 | 2022-10-02 | 19897 | 3396 | 
-| 2022-10-01 | 19898 | 3396 | 
 

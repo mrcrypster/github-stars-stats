@@ -1,10 +1,10 @@
 # tot0p/Hello-World - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/tot0p/Hello-World)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 6 | 3 | 
 | 2022-10-30 | 5 | 3 | 
 | 2022-10-29 | 5 | 3 | 
 | 2022-10-28 | 5 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 5 | 3 | 
 | 2022-10-03 | 5 | 3 | 
 | 2022-10-02 | 5 | 3 | 
-| 2022-10-01 | 5 | 3 | 
 

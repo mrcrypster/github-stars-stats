@@ -1,10 +1,10 @@
 # eip-work/kuboard-spray - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 85
 
-★ Stars: 691
+★ Stars: 692
 
 [Open repository](https://github.com/eip-work/kuboard-spray)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 692 | 85 | 
 | 2022-10-30 | 691 | 85 | 
 | 2022-10-29 | 691 | 85 | 
 | 2022-10-28 | 690 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 665 | 82 | 
 | 2022-10-03 | 665 | 82 | 
 | 2022-10-02 | 664 | 82 | 
-| 2022-10-01 | 664 | 82 | 
 

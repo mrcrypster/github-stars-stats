@@ -1,6 +1,6 @@
 # The-Merchants-Guild/Merchant-Station-13 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 8 | 53 | 
 | 2022-10-30 | 8 | 53 | 
 | 2022-10-29 | 8 | 54 | 
 | 2022-10-28 | 8 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 8 | 54 | 
 | 2022-10-03 | 8 | 54 | 
 | 2022-10-02 | 8 | 54 | 
-| 2022-10-01 | 8 | 54 | 
 

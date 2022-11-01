@@ -1,8 +1,8 @@
 # syncfusion/flutter-examples - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 650
+☋ Forks: 649
 
 ★ Stars: 1518
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1518 | 649 | 
 | 2022-10-30 | 1518 | 650 | 
 | 2022-10-29 | 1518 | 650 | 
 | 2022-10-28 | 1517 | 649 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1499 | 641 | 
 | 2022-10-03 | 1496 | 638 | 
 | 2022-10-02 | 1496 | 637 | 
-| 2022-10-01 | 1495 | 637 | 
 

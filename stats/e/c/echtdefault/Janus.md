@@ -1,10 +1,10 @@
 # echtdefault/Janus - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 26
 
-★ Stars: 193
+★ Stars: 194
 
 [Open repository](https://github.com/echtdefault/Janus)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 194 | 26 | 
 | 2022-10-30 | 193 | 26 | 
 | 2022-10-29 | 193 | 26 | 
 | 2022-10-28 | 193 | 26 | 

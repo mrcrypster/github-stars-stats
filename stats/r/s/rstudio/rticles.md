@@ -1,10 +1,10 @@
 # rstudio/rticles - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 493
+☋ Forks: 494
 
-★ Stars: 1242
+★ Stars: 1243
 
 [Open repository](https://github.com/rstudio/rticles)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1243 | 494 | 
 | 2022-10-30 | 1242 | 493 | 
 | 2022-10-29 | 1242 | 493 | 
 | 2022-10-28 | 1241 | 493 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1229 | 492 | 
 | 2022-10-03 | 1229 | 492 | 
 | 2022-10-02 | 1229 | 492 | 
-| 2022-10-01 | 1229 | 492 | 
 

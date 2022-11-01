@@ -1,10 +1,10 @@
 # fluent/fluentd - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 1271
+☋ Forks: 1272
 
-★ Stars: 11574
+★ Stars: 11577
 
 [Open repository](https://github.com/fluent/fluentd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 11577 | 1272 | 
 | 2022-10-30 | 11574 | 1271 | 
 | 2022-10-29 | 11574 | 1271 | 
 | 2022-10-28 | 11573 | 1273 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 11525 | 1270 | 
 | 2022-10-03 | 11522 | 1268 | 
 | 2022-10-02 | 11522 | 1268 | 
-| 2022-10-01 | 11522 | 1268 | 
 

@@ -1,6 +1,6 @@
 # evilC/AutoHotInterception - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 405 | 42 | 
 | 2022-10-30 | 405 | 42 | 
 | 2022-10-29 | 402 | 42 | 
 | 2022-10-28 | 402 | 42 | 

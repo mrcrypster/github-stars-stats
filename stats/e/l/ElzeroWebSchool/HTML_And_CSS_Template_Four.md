@@ -1,10 +1,10 @@
 # ElzeroWebSchool/HTML_And_CSS_Template_Four - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 22
 
-★ Stars: 62
+★ Stars: 64
 
 [Open repository](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Four)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 64 | 22 | 
 | 2022-10-30 | 62 | 22 | 
 | 2022-10-29 | 62 | 22 | 
 | 2022-10-28 | 62 | 23 | 

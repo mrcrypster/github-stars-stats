@@ -1,10 +1,10 @@
 # ern0/howto-wasm-minimal - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 18
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/ern0/howto-wasm-minimal)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 452 | 18 | 
 | 2022-10-30 | 451 | 18 | 
 | 2022-10-29 | 451 | 18 | 
 | 2022-10-28 | 451 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 449 | 18 | 
 | 2022-10-03 | 449 | 18 | 
 | 2022-10-02 | 449 | 18 | 
-| 2022-10-01 | 449 | 18 | 
 

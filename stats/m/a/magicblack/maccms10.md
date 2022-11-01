@@ -1,10 +1,10 @@
 # magicblack/maccms10 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 551
 
-★ Stars: 1387
+★ Stars: 1389
 
 [Open repository](https://github.com/magicblack/maccms10)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1389 | 551 | 
 | 2022-10-30 | 1387 | 551 | 
 | 2022-10-29 | 1387 | 551 | 
 | 2022-10-28 | 1386 | 552 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1369 | 550 | 
 | 2022-10-03 | 1369 | 550 | 
 | 2022-10-02 | 1369 | 550 | 
-| 2022-10-01 | 1369 | 550 | 
 

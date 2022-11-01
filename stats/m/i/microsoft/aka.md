@@ -1,10 +1,10 @@
 # microsoft/aka - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/microsoft/aka)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 159 | 13 | 
 | 2022-10-30 | 158 | 12 | 
 | 2022-10-29 | 158 | 12 | 
 | 2022-10-28 | 158 | 12 | 

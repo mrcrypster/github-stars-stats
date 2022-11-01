@@ -1,10 +1,10 @@
 # CryoByte33/steam-deck-swap-resizer - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3
 
-★ Stars: 50
+★ Stars: 52
 
 [Open repository](https://github.com/CryoByte33/steam-deck-swap-resizer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 52 | 3 | 
 | 2022-10-30 | 50 | 3 | 
 | 2022-10-29 | 48 | 3 | 
 | 2022-10-28 | 47 | 3 | 

@@ -1,6 +1,6 @@
 # payalgulati909/appium-ruby-cucumber-geolocation - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15 | 9 | 
 | 2022-10-30 | 15 | 9 | 
 | 2022-10-29 | 15 | 9 | 
 | 2022-10-28 | 15 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 15 | 9 | 
 | 2022-10-04 | 15 | 9 | 
 | 2022-10-02 | 15 | 9 | 
-| 2022-10-01 | 15 | 9 | 
 

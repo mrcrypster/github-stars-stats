@@ -1,10 +1,10 @@
 # DHDAXCW/NanoPi-R4S-R4SE - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 196
 
-★ Stars: 949
+★ Stars: 950
 
 [Open repository](https://github.com/DHDAXCW/NanoPi-R4S-R4SE)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 950 | 196 | 
 | 2022-10-30 | 949 | 196 | 
 | 2022-10-29 | 949 | 198 | 
 | 2022-10-28 | 948 | 198 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 918 | 194 | 
 | 2022-10-03 | 917 | 194 | 
 | 2022-10-02 | 913 | 194 | 
-| 2022-10-01 | 913 | 194 | 
 

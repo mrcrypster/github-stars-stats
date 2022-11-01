@@ -1,6 +1,6 @@
 # kwea123/pytorch-cppcuda-tutorial - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 104 | 5 | 
 | 2022-10-30 | 104 | 5 | 
 | 2022-10-29 | 104 | 5 | 
 | 2022-10-28 | 103 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 98 | 5 | 
 | 2022-10-03 | 97 | 5 | 
 | 2022-10-02 | 97 | 5 | 
-| 2022-10-01 | 97 | 5 | 
 

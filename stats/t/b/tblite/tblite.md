@@ -1,10 +1,10 @@
 # tblite/tblite - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 16
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/tblite/tblite)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 33 | 16 | 
 | 2022-10-30 | 32 | 16 | 
 | 2022-10-29 | 32 | 16 | 
 | 2022-10-28 | 32 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 31 | 14 | 
 | 2022-10-03 | 31 | 14 | 
 | 2022-10-02 | 31 | 14 | 
-| 2022-10-01 | 31 | 14 | 
 

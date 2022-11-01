@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 31
 
 ☋ Forks: 14
 
-★ Stars: 52
+★ Stars: 57
 
 [Open repository](https://github.com/Mixtape-Sessions/Machine-Learning)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-31 | 52 | 14 | 
+| 2022-10-31 | 57 | 14 | 
 | 2022-10-30 | 51 | 14 | 
 

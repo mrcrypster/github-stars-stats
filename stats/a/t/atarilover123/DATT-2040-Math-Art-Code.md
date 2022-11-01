@@ -1,6 +1,6 @@
 # atarilover123/DATT-2040-Math-Art-Code - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 5 | 4 | 
 | 2022-10-30 | 5 | 4 | 
 | 2022-10-29 | 5 | 4 | 
 | 2022-10-28 | 5 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 6 | 3 | 
 | 2022-10-03 | 6 | 3 | 
 | 2022-10-02 | 6 | 3 | 
-| 2022-10-01 | 6 | 3 | 
 

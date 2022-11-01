@@ -1,6 +1,6 @@
 # Aicirou/goindex-theme-acrou - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 126
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 105 | 126 | 
 | 2022-10-30 | 105 | 126 | 
 | 2022-10-29 | 105 | 126 | 
 | 2022-10-28 | 105 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 99 | 115 | 
 | 2022-10-03 | 99 | 115 | 
 | 2022-10-02 | 99 | 116 | 
-| 2022-10-01 | 97 | 115 | 
 

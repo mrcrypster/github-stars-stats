@@ -1,6 +1,6 @@
 # vueschool/vuejs-forge-the-project - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 69 | 63 | 
 | 2022-10-30 | 69 | 63 | 
 | 2022-10-29 | 69 | 63 | 
 | 2022-10-28 | 69 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 70 | 63 | 
 | 2022-10-03 | 70 | 63 | 
 | 2022-10-02 | 70 | 63 | 
-| 2022-10-01 | 70 | 63 | 
 

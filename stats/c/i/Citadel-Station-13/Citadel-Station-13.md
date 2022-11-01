@@ -1,10 +1,10 @@
 # Citadel-Station-13/Citadel-Station-13 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 410
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/Citadel-Station-13/Citadel-Station-13)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 67 | 410 | 
 | 2022-10-30 | 66 | 410 | 
 | 2022-10-29 | 66 | 410 | 
 | 2022-10-28 | 66 | 410 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 64 | 409 | 
 | 2022-10-04 | 64 | 409 | 
 | 2022-10-03 | 64 | 408 | 
-| 2022-10-02 | 64 | 408 | 
 

@@ -1,10 +1,10 @@
 # dapr/quickstarts - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 370
 
-★ Stars: 782
+★ Stars: 784
 
 [Open repository](https://github.com/dapr/quickstarts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 784 | 370 | 
 | 2022-10-30 | 782 | 370 | 
 | 2022-10-29 | 782 | 371 | 
 | 2022-10-28 | 781 | 371 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 768 | 359 | 
 | 2022-10-03 | 768 | 359 | 
 | 2022-10-02 | 767 | 359 | 
-| 2022-10-01 | 767 | 359 | 
 

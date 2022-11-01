@@ -1,10 +1,10 @@
 # gitdagray/react_redux_toolkit - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 243
+☋ Forks: 246
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/gitdagray/react_redux_toolkit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 256 | 246 | 
 | 2022-10-30 | 255 | 243 | 
 | 2022-10-29 | 253 | 242 | 
 | 2022-10-28 | 252 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 225 | 210 | 
 | 2022-10-03 | 223 | 208 | 
 | 2022-10-02 | 225 | 208 | 
-| 2022-10-01 | 224 | 206 | 
 

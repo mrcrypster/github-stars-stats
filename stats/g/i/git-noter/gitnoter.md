@@ -1,10 +1,10 @@
 # git-noter/gitnoter - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 85
+☋ Forks: 86
 
-★ Stars: 1789
+★ Stars: 1790
 
 [Open repository](https://github.com/git-noter/gitnoter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1790 | 86 | 
 | 2022-10-30 | 1789 | 85 | 
 | 2022-10-29 | 1789 | 85 | 
 | 2022-10-28 | 1788 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1771 | 85 | 
 | 2022-10-03 | 1769 | 85 | 
 | 2022-10-02 | 1765 | 85 | 
-| 2022-10-01 | 1762 | 84 | 
 

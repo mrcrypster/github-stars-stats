@@ -1,6 +1,6 @@
 # hrzntal/horizon - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 16 | 52 | 
 | 2022-10-30 | 16 | 52 | 
 | 2022-10-29 | 16 | 52 | 
 | 2022-10-28 | 16 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 16 | 51 | 
 | 2022-10-03 | 16 | 51 | 
 | 2022-10-02 | 16 | 51 | 
-| 2022-10-01 | 16 | 51 | 
 

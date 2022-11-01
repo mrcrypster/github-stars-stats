@@ -1,6 +1,6 @@
 # AckslD/nvim-trevJ.lua - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 119 | 7 | 
 | 2022-10-30 | 119 | 7 | 
 | 2022-10-29 | 119 | 7 | 
 | 2022-10-28 | 119 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 117 | 7 | 
 | 2022-10-03 | 117 | 7 | 
 | 2022-10-02 | 116 | 7 | 
-| 2022-10-01 | 116 | 7 | 
 

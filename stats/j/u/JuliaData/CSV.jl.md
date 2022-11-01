@@ -1,10 +1,10 @@
 # JuliaData/CSV.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 124
 
-★ Stars: 375
+★ Stars: 376
 
 [Open repository](https://github.com/JuliaData/CSV.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 376 | 124 | 
 | 2022-10-30 | 375 | 124 | 
 | 2022-10-29 | 375 | 124 | 
 | 2022-10-28 | 375 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 368 | 123 | 
 | 2022-10-03 | 368 | 123 | 
 | 2022-10-02 | 368 | 123 | 
-| 2022-10-01 | 367 | 122 | 
 

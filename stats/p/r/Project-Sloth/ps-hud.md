@@ -1,10 +1,10 @@
 # Project-Sloth/ps-hud - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 94
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/Project-Sloth/ps-hud)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 60 | 94 | 
 | 2022-10-30 | 59 | 94 | 
 | 2022-10-29 | 59 | 93 | 
 | 2022-10-28 | 59 | 93 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 56 | 79 | 
 | 2022-10-03 | 56 | 79 | 
 | 2022-10-02 | 56 | 79 | 
-| 2022-10-01 | 56 | 79 | 
 

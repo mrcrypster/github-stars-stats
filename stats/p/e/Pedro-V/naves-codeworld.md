@@ -1,6 +1,6 @@
 # Pedro-V/naves-codeworld - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 13 | - | 
 | 2022-10-30 | 13 | - | 
 | 2022-10-29 | 13 | - | 
 | 2022-10-28 | 13 | - | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 12 | - | 
 | 2022-10-04 | 12 | - | 
 | 2022-10-03 | 12 | - | 
-| 2022-10-02 | 12 | - | 
 

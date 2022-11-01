@@ -1,10 +1,10 @@
 # sympy/sympy - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 3765
+☋ Forks: 3766
 
-★ Stars: 9746
+★ Stars: 9748
 
 [Open repository](https://github.com/sympy/sympy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 9748 | 3766 | 
 | 2022-10-30 | 9746 | 3765 | 
 | 2022-10-29 | 9742 | 3763 | 
 | 2022-10-28 | 9741 | 3762 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 9656 | 3744 | 
 | 2022-10-03 | 9654 | 3745 | 
 | 2022-10-02 | 9653 | 3745 | 
-| 2022-10-01 | 9649 | 3746 | 
 

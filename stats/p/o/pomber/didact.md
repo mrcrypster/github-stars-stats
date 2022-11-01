@@ -1,10 +1,10 @@
 # pomber/didact - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 450
+☋ Forks: 451
 
-★ Stars: 5154
+★ Stars: 5159
 
 [Open repository](https://github.com/pomber/didact)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 5159 | 451 | 
 | 2022-10-31 | 5154 | 450 | 
 | 2022-10-29 | 5153 | 449 | 
 | 2022-10-28 | 5150 | 449 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 5087 | 445 | 
 | 2022-10-03 | 5084 | 445 | 
 | 2022-10-02 | 5083 | 445 | 
-| 2022-10-01 | 5082 | 445 | 
 

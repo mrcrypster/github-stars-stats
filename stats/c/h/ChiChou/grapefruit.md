@@ -1,6 +1,6 @@
 # ChiChou/grapefruit - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 616 | 51 | 
 | 2022-10-30 | 616 | 51 | 
 | 2022-10-29 | 616 | 51 | 
 | 2022-10-28 | 616 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 607 | 51 | 
 | 2022-10-03 | 606 | 51 | 
 | 2022-10-02 | 606 | 51 | 
-| 2022-10-01 | 606 | 51 | 
 

@@ -1,8 +1,8 @@
 # takkza/ddos-java - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 53
+☋ Forks: 54
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 39 | 54 | 
 | 2022-10-30 | 39 | 53 | 
 | 2022-10-29 | 39 | 53 | 
 | 2022-10-28 | 37 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 31 | 43 | 
 | 2022-10-04 | 31 | 43 | 
 | 2022-10-03 | 31 | 42 | 
-| 2022-10-02 | 30 | 42 | 
 

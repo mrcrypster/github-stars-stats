@@ -1,10 +1,10 @@
 # google/gf180mcu-pdk - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 35
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/google/gf180mcu-pdk)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 182 | 35 | 
 | 2022-10-30 | 181 | 35 | 
 | 2022-10-29 | 181 | 35 | 
 | 2022-10-28 | 180 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 174 | 31 | 
 | 2022-10-03 | 173 | 31 | 
 | 2022-10-02 | 173 | 31 | 
-| 2022-10-01 | 173 | 31 | 
 

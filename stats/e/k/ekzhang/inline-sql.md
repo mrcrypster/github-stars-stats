@@ -1,10 +1,10 @@
 # ekzhang/inline-sql - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 7
 
-★ Stars: 315
+★ Stars: 316
 
 [Open repository](https://github.com/ekzhang/inline-sql)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 316 | 7 | 
 | 2022-10-30 | 315 | 7 | 
 | 2022-10-29 | 315 | 7 | 
 | 2022-10-28 | 315 | 7 | 

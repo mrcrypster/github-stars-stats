@@ -1,10 +1,10 @@
 # DapperLib/Dapper - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 3569
+☋ Forks: 3570
 
-★ Stars: 15462
+★ Stars: 15466
 
 [Open repository](https://github.com/DapperLib/Dapper)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15466 | 3570 | 
 | 2022-10-30 | 15462 | 3569 | 
 | 2022-10-29 | 15461 | 3570 | 
 | 2022-10-28 | 15461 | 3571 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 15385 | 3568 | 
 | 2022-10-03 | 15383 | 3568 | 
 | 2022-10-02 | 15382 | 3568 | 
-| 2022-10-01 | 15377 | 3567 | 
 

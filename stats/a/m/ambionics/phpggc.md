@@ -1,10 +1,10 @@
 # ambionics/phpggc - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 415
 
-★ Stars: 2438
+★ Stars: 2439
 
 [Open repository](https://github.com/ambionics/phpggc)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2439 | 415 | 
 | 2022-10-30 | 2438 | 415 | 
 | 2022-10-29 | 2438 | 415 | 
 | 2022-10-28 | 2437 | 415 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2397 | 415 | 
 | 2022-10-03 | 2395 | 415 | 
 | 2022-10-02 | 2394 | 415 | 
-| 2022-10-01 | 2393 | 415 | 
 

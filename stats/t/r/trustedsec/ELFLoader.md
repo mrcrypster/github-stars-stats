@@ -1,10 +1,10 @@
 # trustedsec/ELFLoader - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 36
 
-★ Stars: 183
+★ Stars: 182
 
 [Open repository](https://github.com/trustedsec/ELFLoader)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 182 | 36 | 
 | 2022-10-31 | 183 | 36 | 
 | 2022-10-30 | 183 | 36 | 
 | 2022-10-29 | 183 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 182 | 35 | 
 | 2022-10-03 | 182 | 35 | 
 | 2022-10-02 | 182 | 35 | 
-| 2022-10-01 | 182 | 35 | 
 

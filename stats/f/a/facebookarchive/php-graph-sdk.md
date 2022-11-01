@@ -1,8 +1,8 @@
 # facebookarchive/php-graph-sdk - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1891
+☋ Forks: 1890
 
 ★ Stars: 3123
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3123 | 1890 | 
 | 2022-10-31 | 3123 | 1891 | 
 | 2022-10-30 | 3123 | 1891 | 
 | 2022-10-29 | 3123 | 1891 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 3119 | 1884 | 
 | 2022-10-03 | 3120 | 1885 | 
 | 2022-10-02 | 3120 | 1884 | 
-| 2022-10-01 | 3120 | 1884 | 
 

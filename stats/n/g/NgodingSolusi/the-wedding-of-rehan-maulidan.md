@@ -1,10 +1,10 @@
 # NgodingSolusi/the-wedding-of-rehan-maulidan - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 25
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/NgodingSolusi/the-wedding-of-rehan-maulidan)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 43 | 25 | 
 | 2022-10-30 | 42 | 25 | 
 | 2022-10-29 | 42 | 25 | 
 | 2022-10-28 | 42 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 38 | 23 | 
 | 2022-10-03 | 38 | 22 | 
 | 2022-10-02 | 37 | 22 | 
-| 2022-10-01 | 37 | 22 | 
 

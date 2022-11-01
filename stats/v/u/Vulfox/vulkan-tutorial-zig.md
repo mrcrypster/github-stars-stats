@@ -1,6 +1,6 @@
 # Vulfox/vulkan-tutorial-zig - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 21 | - | 
 | 2022-10-30 | 21 | - | 
 | 2022-10-29 | 21 | - | 
 | 2022-10-28 | 21 | - | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 21 | - | 
 | 2022-10-03 | 21 | - | 
 | 2022-10-02 | 21 | - | 
-| 2022-10-01 | 21 | - | 
 

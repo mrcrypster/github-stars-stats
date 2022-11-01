@@ -1,10 +1,10 @@
 # phuocng/csslayout - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 467
 
-★ Stars: 6886
+★ Stars: 6890
 
 [Open repository](https://github.com/phuocng/csslayout)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 6890 | 467 | 
 | 2022-10-30 | 6886 | 467 | 
 | 2022-10-29 | 6883 | 467 | 
 | 2022-10-28 | 6880 | 466 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 6775 | 461 | 
 | 2022-10-03 | 6772 | 462 | 
 | 2022-10-02 | 6768 | 462 | 
-| 2022-10-01 | 6765 | 462 | 
 

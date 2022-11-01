@@ -1,6 +1,6 @@
 # ipinfo/cli - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 991 | 90 | 
 | 2022-10-30 | 991 | 90 | 
 | 2022-10-29 | 990 | 89 | 
 | 2022-10-28 | 989 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 968 | 85 | 
 | 2022-10-03 | 966 | 85 | 
 | 2022-10-02 | 965 | 85 | 
-| 2022-10-01 | 949 | 85 | 
 

@@ -1,10 +1,10 @@
 # Binary-Hackers/42_Subjects - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 263
 
-★ Stars: 928
+★ Stars: 929
 
 [Open repository](https://github.com/Binary-Hackers/42_Subjects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 929 | 263 | 
 | 2022-10-31 | 928 | 263 | 
 | 2022-10-30 | 928 | 263 | 
 | 2022-10-29 | 928 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 921 | 262 | 
 | 2022-10-03 | 921 | 262 | 
 | 2022-10-02 | 920 | 264 | 
-| 2022-10-01 | 918 | 264 | 
 

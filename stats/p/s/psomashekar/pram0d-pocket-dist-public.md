@@ -1,10 +1,10 @@
 # psomashekar/pram0d-pocket-dist-public - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 0
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/psomashekar/pram0d-pocket-dist-public)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 25 | - | 
 | 2022-10-30 | 23 | - | 
 | 2022-10-29 | 16 | - | 
 | 2022-10-28 | 16 | - | 

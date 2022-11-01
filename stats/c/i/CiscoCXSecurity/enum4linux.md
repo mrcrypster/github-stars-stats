@@ -1,6 +1,6 @@
 # CiscoCXSecurity/enum4linux - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 791 | 197 | 
 | 2022-10-30 | 791 | 197 | 
 | 2022-10-29 | 791 | 197 | 
 | 2022-10-28 | 791 | 197 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 791 | 196 | 
 | 2022-10-03 | 791 | 196 | 
 | 2022-10-02 | 790 | 196 | 
-| 2022-10-01 | 790 | 196 | 
 

@@ -1,6 +1,6 @@
 # dweiller/zubench - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 15 | 1 | 
 | 2022-10-30 | 15 | 1 | 
 | 2022-10-29 | 15 | 1 | 
 | 2022-10-28 | 15 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 14 | 1 | 
 | 2022-10-03 | 14 | 1 | 
 | 2022-10-02 | 14 | 1 | 
-| 2022-10-01 | 14 | 1 | 
 

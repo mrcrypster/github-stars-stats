@@ -1,6 +1,6 @@
 # Anmol92verma/SlackAndroidClone - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 302 | 57 | 
 | 2022-10-30 | 302 | 57 | 
 | 2022-10-29 | 301 | 57 | 
 | 2022-10-28 | 301 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 296 | 56 | 
 | 2022-10-03 | 296 | 56 | 
 | 2022-10-02 | 294 | 56 | 
-| 2022-10-01 | 294 | 55 | 
 

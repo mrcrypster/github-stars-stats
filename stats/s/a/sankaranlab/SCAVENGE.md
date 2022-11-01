@@ -1,6 +1,6 @@
 # sankaranlab/SCAVENGE - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 33 | 8 | 
 | 2022-10-30 | 33 | 8 | 
 | 2022-10-29 | 33 | 8 | 
 | 2022-10-28 | 32 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 29 | 8 | 
 | 2022-10-04 | 29 | 8 | 
 | 2022-10-02 | 29 | 8 | 
-| 2022-10-01 | 29 | 8 | 
 

@@ -1,10 +1,10 @@
 # htrgouvea/nipe - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 295
 
-★ Stars: 1478
+★ Stars: 1479
 
 [Open repository](https://github.com/htrgouvea/nipe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1479 | 295 | 
 | 2022-10-30 | 1478 | 295 | 
 | 2022-10-29 | 1477 | 295 | 
 | 2022-10-28 | 1476 | 295 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1464 | 293 | 
 | 2022-10-03 | 1463 | 293 | 
 | 2022-10-02 | 1463 | 293 | 
-| 2022-10-01 | 1461 | 293 | 
 

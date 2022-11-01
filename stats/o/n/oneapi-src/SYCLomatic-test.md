@@ -1,8 +1,8 @@
 # oneapi-src/SYCLomatic-test - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 8 | 18 | 
 | 2022-10-31 | 8 | 17 | 
 | 2022-10-29 | 8 | 17 | 
 | 2022-10-28 | 8 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 6 | 15 | 
 | 2022-10-03 | 6 | 15 | 
 | 2022-10-02 | 6 | 15 | 
-| 2022-10-01 | 6 | 15 | 
 

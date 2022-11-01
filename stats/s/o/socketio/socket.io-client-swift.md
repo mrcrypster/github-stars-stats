@@ -1,10 +1,10 @@
 # socketio/socket.io-client-swift - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 755
 
-★ Stars: 4881
+★ Stars: 4884
 
 [Open repository](https://github.com/socketio/socket.io-client-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 4884 | 755 | 
 | 2022-10-30 | 4881 | 755 | 
 | 2022-10-29 | 4879 | 755 | 
 | 2022-10-28 | 4879 | 756 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 4869 | 752 | 
 | 2022-10-03 | 4869 | 752 | 
 | 2022-10-02 | 4869 | 752 | 
-| 2022-10-01 | 4869 | 752 | 
 

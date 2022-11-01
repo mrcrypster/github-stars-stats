@@ -1,8 +1,8 @@
 # openvinotoolkit/openvino - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 1526
+☋ Forks: 1528
 
 ★ Stars: 3740
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3740 | 1528 | 
 | 2022-10-30 | 3740 | 1526 | 
 | 2022-10-29 | 3736 | 1527 | 
 | 2022-10-28 | 3731 | 1526 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 3662 | 1517 | 
 | 2022-10-03 | 3660 | 1518 | 
 | 2022-10-02 | 3659 | 1517 | 
-| 2022-10-01 | 3656 | 1517 | 
 

@@ -1,10 +1,10 @@
 # prevwong/craft.js - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 526
+☋ Forks: 527
 
-★ Stars: 5274
+★ Stars: 5295
 
 [Open repository](https://github.com/prevwong/craft.js)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 5295 | 527 | 
 | 2022-10-30 | 5274 | 526 | 
 | 2022-10-29 | 5274 | 525 | 
 | 2022-10-28 | 5273 | 525 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 5209 | 520 | 
 | 2022-10-03 | 5206 | 520 | 
 | 2022-10-02 | 5205 | 520 | 
-| 2022-10-01 | 5204 | 519 | 
 

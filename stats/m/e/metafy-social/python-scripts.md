@@ -1,8 +1,8 @@
 # metafy-social/python-scripts - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 168
+☋ Forks: 167
 
 ★ Stars: 265
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 265 | 167 | 
 | 2022-10-30 | 265 | 168 | 
 | 2022-10-29 | 264 | 169 | 
 | 2022-10-28 | 264 | 167 | 

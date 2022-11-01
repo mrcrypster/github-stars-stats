@@ -1,10 +1,10 @@
 # wifiphisher/wifiphisher - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 2417
 
-★ Stars: 11209
+★ Stars: 11217
 
 [Open repository](https://github.com/wifiphisher/wifiphisher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 11217 | 2417 | 
 | 2022-10-31 | 11209 | 2417 | 
 | 2022-10-29 | 11209 | 2418 | 
 | 2022-10-28 | 11205 | 2419 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 11130 | 2401 | 
 | 2022-10-03 | 11128 | 2401 | 
 | 2022-10-02 | 11125 | 2400 | 
-| 2022-10-01 | 11124 | 2398 | 
 

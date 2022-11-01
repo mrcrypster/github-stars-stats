@@ -1,10 +1,10 @@
 # rainboyOJ/problems - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 17
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/rainboyOJ/problems)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 19 | 17 | 
 | 2022-10-30 | 18 | 17 | 
 | 2022-10-29 | 18 | 17 | 
 | 2022-10-28 | 18 | 17 | 

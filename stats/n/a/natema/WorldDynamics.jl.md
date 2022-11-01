@@ -1,6 +1,6 @@
 # natema/WorldDynamics.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 31 | 2 | 
 | 2022-10-30 | 31 | 2 | 
 | 2022-10-29 | 31 | 2 | 
 | 2022-10-28 | 30 | 2 | 

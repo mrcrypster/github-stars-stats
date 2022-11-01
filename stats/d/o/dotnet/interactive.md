@@ -1,10 +1,10 @@
 # dotnet/interactive - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 281
+☋ Forks: 282
 
-★ Stars: 2056
+★ Stars: 2058
 
 [Open repository](https://github.com/dotnet/interactive)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2058 | 282 | 
 | 2022-10-30 | 2056 | 281 | 
 | 2022-10-29 | 2055 | 282 | 
 | 2022-10-28 | 2054 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2002 | 278 | 
 | 2022-10-03 | 2000 | 277 | 
 | 2022-10-02 | 1998 | 277 | 
-| 2022-10-01 | 1997 | 277 | 
 

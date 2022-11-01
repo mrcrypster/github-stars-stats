@@ -1,6 +1,6 @@
 # JaimeObregon/retrosantander - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 70 | 9 | 
 | 2022-10-30 | 70 | 9 | 
 | 2022-10-29 | 70 | 9 | 
 | 2022-10-28 | 70 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 70 | 9 | 
 | 2022-10-03 | 70 | 9 | 
 | 2022-10-02 | 70 | 9 | 
-| 2022-10-01 | 70 | 9 | 
 

@@ -1,10 +1,10 @@
 # HariSekhon/Spotify-tools - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 4
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/HariSekhon/Spotify-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 51 | 4 | 
 | 2022-10-30 | 50 | 4 | 
 | 2022-10-29 | 50 | 4 | 
 | 2022-10-28 | 50 | 4 | 

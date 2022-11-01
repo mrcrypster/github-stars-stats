@@ -1,10 +1,10 @@
 # dotnet/MQTTnet - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 820
+☋ Forks: 821
 
-★ Stars: 3146
+★ Stars: 3148
 
 [Open repository](https://github.com/dotnet/MQTTnet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3148 | 821 | 
 | 2022-10-30 | 3146 | 820 | 
 | 2022-10-29 | 3144 | 821 | 
 | 2022-10-28 | 3143 | 822 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 3078 | 809 | 
 | 2022-10-03 | 3072 | 806 | 
 | 2022-10-02 | 3071 | 805 | 
-| 2022-10-01 | 3070 | 805 | 
 

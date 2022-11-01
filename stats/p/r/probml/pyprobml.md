@@ -1,8 +1,8 @@
 # probml/pyprobml - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 1227
+☋ Forks: 1229
 
 ★ Stars: 5185
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 5185 | 1229 | 
 | 2022-10-30 | 5185 | 1227 | 
 | 2022-10-29 | 5182 | 1227 | 
 | 2022-10-28 | 5179 | 1227 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 5132 | 1217 | 
 | 2022-10-03 | 5133 | 1217 | 
 | 2022-10-02 | 5129 | 1216 | 
-| 2022-10-01 | 5117 | 1214 | 
 

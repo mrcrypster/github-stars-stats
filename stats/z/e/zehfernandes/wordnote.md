@@ -1,10 +1,10 @@
 # zehfernandes/wordnote - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 29
 
-★ Stars: 587
+★ Stars: 588
 
 [Open repository](https://github.com/zehfernandes/wordnote)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 588 | 29 | 
 | 2022-10-30 | 587 | 29 | 
 | 2022-10-29 | 587 | 29 | 
 | 2022-10-28 | 587 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 581 | 29 | 
 | 2022-10-04 | 580 | 29 | 
 | 2022-10-02 | 580 | 29 | 
-| 2022-10-01 | 580 | 28 | 
 

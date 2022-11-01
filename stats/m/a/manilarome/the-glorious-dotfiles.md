@@ -1,6 +1,6 @@
 # manilarome/the-glorious-dotfiles - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2130 | 141 | 
 | 2022-10-30 | 2130 | 141 | 
 | 2022-10-29 | 2127 | 141 | 
 | 2022-10-28 | 2126 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2108 | 143 | 
 | 2022-10-03 | 2106 | 142 | 
 | 2022-10-02 | 2106 | 142 | 
-| 2022-10-01 | 2101 | 142 | 
 

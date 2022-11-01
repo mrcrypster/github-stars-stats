@@ -1,6 +1,6 @@
 # llvm-mirror/llvm - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2123
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 4512 | 2123 | 
 | 2022-10-30 | 4512 | 2123 | 
 | 2022-10-29 | 4512 | 2123 | 
 | 2022-10-28 | 4512 | 2123 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 4512 | 2123 | 
 | 2022-10-03 | 4512 | 2123 | 
 | 2022-10-02 | 4512 | 2123 | 
-| 2022-10-01 | 4512 | 2123 | 
 

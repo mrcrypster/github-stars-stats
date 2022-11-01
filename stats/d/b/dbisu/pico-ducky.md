@@ -1,10 +1,10 @@
 # dbisu/pico-ducky - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 264
 
-★ Stars: 1067
+★ Stars: 1070
 
 [Open repository](https://github.com/dbisu/pico-ducky)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1070 | 264 | 
 | 2022-10-30 | 1067 | 264 | 
 | 2022-10-29 | 1065 | 263 | 
 | 2022-10-28 | 1063 | 263 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1025 | 247 | 
 | 2022-10-03 | 1021 | 247 | 
 | 2022-10-02 | 1016 | 245 | 
-| 2022-10-01 | 1012 | 245 | 
 

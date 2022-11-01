@@ -1,10 +1,10 @@
 # All-Cups/aicup22 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 29
 
-★ Stars: 65
+★ Stars: 64
 
 [Open repository](https://github.com/All-Cups/aicup22)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 64 | 29 | 
 | 2022-10-30 | 65 | 29 | 
 | 2022-10-29 | 65 | 29 | 
 | 2022-10-28 | 65 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 65 | 29 | 
 | 2022-10-03 | 65 | 29 | 
 | 2022-10-02 | 65 | 29 | 
-| 2022-10-01 | 65 | 29 | 
 

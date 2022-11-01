@@ -1,10 +1,10 @@
 # qt/qtrepotools - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 26
 
-★ Stars: 16
+★ Stars: 15
 
 [Open repository](https://github.com/qt/qtrepotools)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15 | 26 | 
 | 2022-10-30 | 16 | 26 | 
 | 2022-10-29 | 16 | 26 | 
 | 2022-10-28 | 16 | 26 | 

@@ -1,10 +1,10 @@
 # sakkiii/minio-docker-letsencrypt-deploy - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 11
 
-★ Stars: 8
+★ Stars: 7
 
 [Open repository](https://github.com/sakkiii/minio-docker-letsencrypt-deploy)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 7 | 11 | 
 | 2022-10-30 | 8 | 11 | 
 | 2022-10-29 | 8 | 11 | 
 | 2022-10-28 | 8 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 8 | 10 | 
 | 2022-10-03 | 8 | 10 | 
 | 2022-10-02 | 8 | 10 | 
-| 2022-10-01 | 8 | 10 | 
 

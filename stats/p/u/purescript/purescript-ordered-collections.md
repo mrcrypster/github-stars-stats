@@ -1,10 +1,10 @@
 # purescript/purescript-ordered-collections - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 27
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/purescript/purescript-ordered-collections)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 33 | 27 | 
 | 2022-10-30 | 32 | 27 | 
 | 2022-10-29 | 32 | 27 | 
 | 2022-10-28 | 32 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 32 | 27 | 
 | 2022-10-03 | 32 | 27 | 
 | 2022-10-02 | 32 | 27 | 
-| 2022-10-01 | 32 | 27 | 
 

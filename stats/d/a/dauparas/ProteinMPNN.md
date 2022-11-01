@@ -1,10 +1,10 @@
 # dauparas/ProteinMPNN - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 99
+☋ Forks: 100
 
-★ Stars: 359
+★ Stars: 360
 
 [Open repository](https://github.com/dauparas/ProteinMPNN)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 360 | 100 | 
 | 2022-10-30 | 359 | 99 | 
 | 2022-10-29 | 359 | 99 | 
 | 2022-10-28 | 359 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 320 | 84 | 
 | 2022-10-03 | 318 | 83 | 
 | 2022-10-02 | 317 | 82 | 
-| 2022-10-01 | 317 | 82 | 
 

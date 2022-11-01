@@ -1,10 +1,10 @@
 # codecombat/codecombat - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 4026
 
-★ Stars: 7657
+★ Stars: 7659
 
 [Open repository](https://github.com/codecombat/codecombat)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 7659 | 4026 | 
 | 2022-10-30 | 7657 | 4026 | 
 | 2022-10-29 | 7656 | 4026 | 
 | 2022-10-28 | 7656 | 4027 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 7640 | 4017 | 
 | 2022-10-03 | 7640 | 4017 | 
 | 2022-10-02 | 7640 | 4017 | 
-| 2022-10-01 | 7639 | 4017 | 
 

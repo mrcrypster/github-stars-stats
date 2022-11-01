@@ -1,6 +1,6 @@
 # Ciyfly/microwaveo - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 192 | 23 | 
 | 2022-10-31 | 192 | 23 | 
 | 2022-10-30 | 192 | 23 | 
 | 2022-10-29 | 192 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 164 | 18 | 
 | 2022-10-03 | 164 | 18 | 
 | 2022-10-02 | 164 | 18 | 
-| 2022-10-01 | 164 | 18 | 
 

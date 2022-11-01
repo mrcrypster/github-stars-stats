@@ -1,8 +1,8 @@
 # LandmakTechnology/k8s-ansible - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 292
+☋ Forks: 293
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | - | 293 | 
 | 2022-10-30 | - | 292 | 
 | 2022-10-29 | - | 292 | 
 | 2022-10-28 | - | 292 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | - | 285 | 
 | 2022-10-03 | - | 285 | 
 | 2022-10-02 | - | 285 | 
-| 2022-10-01 | - | 285 | 
 

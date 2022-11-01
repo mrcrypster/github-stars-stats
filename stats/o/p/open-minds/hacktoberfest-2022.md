@@ -1,10 +1,10 @@
 # open-minds/hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/open-minds/hacktoberfest-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1 | 14 | 
 | 2022-10-30 | - | 13 | 
 | 2022-10-29 | - | 12 | 
 | 2022-10-28 | - | 10 | 

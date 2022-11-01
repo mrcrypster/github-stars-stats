@@ -1,10 +1,10 @@
 # Wh04m1001/DFSCoerce - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 75
 
-★ Stars: 527
+★ Stars: 528
 
 [Open repository](https://github.com/Wh04m1001/DFSCoerce)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 528 | 75 | 
 | 2022-10-30 | 527 | 75 | 
 | 2022-10-29 | 527 | 75 | 
 | 2022-10-28 | 527 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 514 | 74 | 
 | 2022-10-03 | 513 | 74 | 
 | 2022-10-02 | 513 | 74 | 
-| 2022-10-01 | 511 | 74 | 
 

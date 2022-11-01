@@ -1,10 +1,10 @@
 # probml/pml-book - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 449
+☋ Forks: 450
 
-★ Stars: 3596
+★ Stars: 3597
 
 [Open repository](https://github.com/probml/pml-book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3597 | 450 | 
 | 2022-10-30 | 3596 | 449 | 
 | 2022-10-29 | 3595 | 449 | 
 | 2022-10-28 | 3595 | 449 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 3549 | 443 | 
 | 2022-10-03 | 3545 | 443 | 
 | 2022-10-02 | 3541 | 442 | 
-| 2022-10-01 | 3538 | 442 | 
 

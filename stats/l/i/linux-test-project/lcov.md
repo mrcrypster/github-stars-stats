@@ -1,6 +1,6 @@
 # linux-test-project/lcov - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 193
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 603 | 193 | 
 | 2022-10-30 | 603 | 193 | 
 | 2022-10-29 | 603 | 193 | 
 | 2022-10-28 | 603 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 595 | 193 | 
 | 2022-10-03 | 595 | 193 | 
 | 2022-10-02 | 595 | 193 | 
-| 2022-10-01 | 595 | 193 | 
 

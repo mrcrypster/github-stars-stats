@@ -1,10 +1,10 @@
 # Kraigie/nostrum - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/Kraigie/nostrum)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 452 | 105 | 
 | 2022-10-30 | 451 | 104 | 
 | 2022-10-29 | 449 | 104 | 
 | 2022-10-28 | 449 | 104 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 445 | 104 | 
 | 2022-10-03 | 445 | 104 | 
 | 2022-10-02 | 445 | 104 | 
-| 2022-10-01 | 445 | 104 | 
 

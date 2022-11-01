@@ -1,10 +1,10 @@
 # Visual-Attention-Network/SegNeXt - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 41
 
-★ Stars: 453
+★ Stars: 456
 
 [Open repository](https://github.com/Visual-Attention-Network/SegNeXt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 456 | 41 | 
 | 2022-10-30 | 453 | 41 | 
 | 2022-10-29 | 452 | 42 | 
 | 2022-10-28 | 451 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 376 | 25 | 
 | 2022-10-03 | 371 | 25 | 
 | 2022-10-02 | 369 | 25 | 
-| 2022-10-01 | 368 | 24 | 
 

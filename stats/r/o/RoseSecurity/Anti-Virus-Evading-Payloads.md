@@ -1,10 +1,10 @@
 # RoseSecurity/Anti-Virus-Evading-Payloads - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 54
 
-★ Stars: 435
+★ Stars: 439
 
 [Open repository](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 439 | 54 | 
 | 2022-10-30 | 435 | 54 | 
 | 2022-10-29 | 434 | 54 | 
 | 2022-10-28 | 433 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 408 | 51 | 
 | 2022-10-04 | 407 | 51 | 
 | 2022-10-03 | 407 | 51 | 
-| 2022-10-02 | 407 | 51 | 
 

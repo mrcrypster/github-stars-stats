@@ -1,6 +1,6 @@
 # myarist/DQLab - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 47 | 66 | 
 | 2022-10-30 | 47 | 66 | 
 | 2022-10-29 | 47 | 66 | 
 | 2022-10-28 | 47 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 45 | 62 | 
 | 2022-10-03 | 45 | 62 | 
 | 2022-10-02 | 44 | 61 | 
-| 2022-10-01 | 44 | 60 | 
 

@@ -1,10 +1,10 @@
 # zapstiko/Bug-Bounty - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 183
+★ Stars: 184
 
 [Open repository](https://github.com/zapstiko/Bug-Bounty)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 184 | 36 | 
 | 2022-10-30 | 183 | 35 | 
 | 2022-10-29 | 179 | 35 | 
 | 2022-10-28 | 174 | 34 | 

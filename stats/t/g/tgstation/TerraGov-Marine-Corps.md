@@ -1,10 +1,10 @@
 # tgstation/TerraGov-Marine-Corps - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 574
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/tgstation/TerraGov-Marine-Corps)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 104 | 574 | 
 | 2022-10-30 | 103 | 574 | 
 | 2022-10-29 | 103 | 574 | 
 | 2022-10-28 | 103 | 573 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 98 | 559 | 
 | 2022-10-03 | 98 | 556 | 
 | 2022-10-02 | 98 | 556 | 
-| 2022-10-01 | 98 | 556 | 
 

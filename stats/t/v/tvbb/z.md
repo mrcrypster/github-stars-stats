@@ -1,8 +1,8 @@
 # tvbb/z - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 85
+☋ Forks: 84
 
 ★ Stars: 101
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 101 | 84 | 
 | 2022-10-30 | 101 | 85 | 
 | 2022-10-29 | 101 | 85 | 
 | 2022-10-28 | 101 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 102 | 85 | 
 | 2022-10-03 | 102 | 85 | 
 | 2022-10-02 | 102 | 85 | 
-| 2022-10-01 | 102 | 85 | 
 

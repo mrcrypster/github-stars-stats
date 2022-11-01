@@ -1,10 +1,10 @@
 # meirwah/awesome-incident-response - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1339
 
-★ Stars: 5618
+★ Stars: 5621
 
 [Open repository](https://github.com/meirwah/awesome-incident-response)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 5621 | 1339 | 
 | 2022-10-30 | 5618 | 1339 | 
 | 2022-10-29 | 5616 | 1339 | 
 | 2022-10-28 | 5613 | 1339 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 5474 | 1318 | 
 | 2022-10-03 | 5470 | 1318 | 
 | 2022-10-02 | 5466 | 1318 | 
-| 2022-10-01 | 5465 | 1317 | 
 

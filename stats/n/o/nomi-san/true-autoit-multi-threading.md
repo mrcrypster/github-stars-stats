@@ -1,6 +1,6 @@
 # nomi-san/true-autoit-multi-threading - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 37 | 6 | 
 | 2022-10-30 | 37 | 6 | 
 | 2022-10-29 | 37 | 6 | 
 | 2022-10-28 | 37 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 31 | 5 | 
 | 2022-10-03 | 31 | 5 | 
 | 2022-10-02 | 31 | 5 | 
-| 2022-10-01 | 31 | 5 | 
 

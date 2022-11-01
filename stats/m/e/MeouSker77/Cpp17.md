@@ -1,10 +1,10 @@
 # MeouSker77/Cpp17 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 167
 
-★ Stars: 878
+★ Stars: 879
 
 [Open repository](https://github.com/MeouSker77/Cpp17)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 879 | 167 | 
 | 2022-10-30 | 878 | 167 | 
 | 2022-10-29 | 878 | 167 | 
 | 2022-10-28 | 878 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 862 | 162 | 
 | 2022-10-03 | 862 | 162 | 
 | 2022-10-02 | 861 | 161 | 
-| 2022-10-01 | 861 | 161 | 
 

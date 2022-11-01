@@ -1,10 +1,10 @@
 # apple/ml-mobileone - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 24
 
-★ Stars: 288
+★ Stars: 289
 
 [Open repository](https://github.com/apple/ml-mobileone)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 289 | 24 | 
 | 2022-10-30 | 288 | 24 | 
 | 2022-10-29 | 287 | 24 | 
 | 2022-10-28 | 285 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 269 | 20 | 
 | 2022-10-03 | 268 | 20 | 
 | 2022-10-02 | 268 | 20 | 
-| 2022-10-01 | 267 | 20 | 
 

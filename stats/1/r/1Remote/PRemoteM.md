@@ -4,7 +4,7 @@ Stats updated on Oct 2022, 31
 
 ☋ Forks: 153
 
-★ Stars: 853
+★ Stars: 862
 
 [Open repository](https://github.com/1Remote/PRemoteM)
 
@@ -13,6 +13,6 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-31 | 853 | 153 | 
+| 2022-10-31 | 862 | 153 | 
 | 2022-10-30 | 853 | 153 | 
 

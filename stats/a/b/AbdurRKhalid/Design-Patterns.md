@@ -2,9 +2,9 @@
 
 Stats updated on Oct 2022, 31
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 389
+★ Stars: 393
 
 [Open repository](https://github.com/AbdurRKhalid/Design-Patterns)
 
@@ -13,7 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-10-31 | 389 | 13 | 
+| 2022-10-31 | 393 | 14 | 
 | 2022-10-30 | 387 | 13 | 
 | 2022-10-29 | 373 | 13 | 
 | 2022-10-28 | 314 | 12 | 

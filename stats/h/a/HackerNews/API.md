@@ -1,10 +1,10 @@
 # HackerNews/API - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 580
 
-★ Stars: 9446
+★ Stars: 9447
 
 [Open repository](https://github.com/HackerNews/API)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 9447 | 580 | 
 | 2022-10-30 | 9446 | 580 | 
 | 2022-10-29 | 9446 | 580 | 
 | 2022-10-28 | 9446 | 580 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 9397 | 576 | 
 | 2022-10-03 | 9397 | 575 | 
 | 2022-10-02 | 9395 | 575 | 
-| 2022-10-01 | 9394 | 575 | 
 

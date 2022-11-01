@@ -1,6 +1,6 @@
 # open-fpga/core-template - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 54 | 9 | 
 | 2022-10-31 | 54 | 9 | 
 | 2022-10-30 | 54 | 9 | 
 | 2022-10-29 | 54 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 48 | 7 | 
 | 2022-10-03 | 48 | 7 | 
 | 2022-10-02 | 48 | 7 | 
-| 2022-10-01 | 48 | 7 | 
 

@@ -1,10 +1,10 @@
 # deepmind/educational - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 179
 
-★ Stars: 1280
+★ Stars: 1281
 
 [Open repository](https://github.com/deepmind/educational)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1281 | 179 | 
 | 2022-10-30 | 1280 | 179 | 
 | 2022-10-29 | 1280 | 179 | 
 | 2022-10-28 | 1279 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1234 | 172 | 
 | 2022-10-03 | 1233 | 172 | 
 | 2022-10-02 | 1230 | 171 | 
-| 2022-10-01 | 1229 | 170 | 
 

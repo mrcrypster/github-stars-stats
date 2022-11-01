@@ -1,6 +1,6 @@
 # hadley/adv-r - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1659
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2129 | 1659 | 
 | 2022-10-30 | 2129 | 1659 | 
 | 2022-10-29 | 2129 | 1659 | 
 | 2022-10-28 | 2129 | 1660 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2120 | 1655 | 
 | 2022-10-03 | 2119 | 1655 | 
 | 2022-10-02 | 2119 | 1655 | 
-| 2022-10-01 | 2119 | 1655 | 
 

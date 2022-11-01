@@ -1,10 +1,10 @@
 # OreosLab/checkinpanel - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 344
 
-★ Stars: 1081
+★ Stars: 1082
 
 [Open repository](https://github.com/OreosLab/checkinpanel)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1082 | 344 | 
 | 2022-10-30 | 1081 | 344 | 
 | 2022-10-29 | 1080 | 345 | 
 | 2022-10-28 | 1080 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1057 | 341 | 
 | 2022-10-03 | 1056 | 341 | 
 | 2022-10-02 | 1056 | 341 | 
-| 2022-10-01 | 1055 | 341 | 
 

@@ -1,6 +1,6 @@
 # devcreatives/first_contribution - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 33 | 92 | 
 | 2022-10-30 | 33 | 92 | 
 | 2022-10-29 | 33 | 92 | 
 | 2022-10-28 | 33 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 33 | 91 | 
 | 2022-10-03 | 33 | 91 | 
 | 2022-10-02 | 33 | 91 | 
-| 2022-10-01 | 33 | 91 | 
 

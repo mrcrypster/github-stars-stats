@@ -1,10 +1,10 @@
 # baomidou/dynamic-datasource-spring-boot-starter - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 966
 
-★ Stars: 3710
+★ Stars: 3712
 
 [Open repository](https://github.com/baomidou/dynamic-datasource-spring-boot-starter)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3712 | 966 | 
 | 2022-10-31 | 3710 | 966 | 
 | 2022-10-30 | 3710 | 966 | 
 | 2022-10-29 | 3710 | 966 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 3663 | 951 | 
 | 2022-10-03 | 3663 | 951 | 
 | 2022-10-02 | 3663 | 951 | 
-| 2022-10-01 | 3663 | 951 | 
 

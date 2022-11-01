@@ -1,10 +1,10 @@
 # zhangchuangiie/SimpleKafka - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 20
 
-★ Stars: 226
+★ Stars: 239
 
 [Open repository](https://github.com/zhangchuangiie/SimpleKafka)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 239 | 20 | 
 | 2022-10-30 | 226 | 20 | 
 | 2022-10-29 | 220 | 20 | 
 | 2022-10-28 | 211 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 197 | 20 | 
 | 2022-10-03 | 197 | 20 | 
 | 2022-10-02 | 197 | 20 | 
-| 2022-10-01 | 197 | 20 | 
 

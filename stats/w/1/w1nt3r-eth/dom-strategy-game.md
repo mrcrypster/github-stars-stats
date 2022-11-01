@@ -1,6 +1,6 @@
 # w1nt3r-eth/dom-strategy-game - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 54 | 3 | 
 | 2022-10-30 | 54 | 3 | 
 | 2022-10-29 | 54 | 3 | 
 | 2022-10-28 | 54 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 49 | 2 | 
 | 2022-10-03 | 49 | 2 | 
 | 2022-10-02 | 49 | 2 | 
-| 2022-10-01 | 49 | 2 | 
 

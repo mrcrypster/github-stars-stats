@@ -1,8 +1,8 @@
 # chipsalliance/chisel3 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 491
+☋ Forks: 492
 
 ★ Stars: 2772
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2772 | 492 | 
 | 2022-10-30 | 2772 | 491 | 
 | 2022-10-29 | 2767 | 490 | 
 | 2022-10-28 | 2766 | 488 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2719 | 483 | 
 | 2022-10-03 | 2718 | 483 | 
 | 2022-10-02 | 2716 | 482 | 
-| 2022-10-01 | 2714 | 482 | 
 

@@ -1,6 +1,6 @@
 # laluka/bypass-url-parser - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 738 | 73 | 
 | 2022-10-30 | 738 | 73 | 
 | 2022-10-29 | 737 | 73 | 
 | 2022-10-28 | 737 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 713 | 70 | 
 | 2022-10-04 | 711 | 70 | 
 | 2022-10-03 | 711 | 69 | 
-| 2022-10-01 | 711 | 69 | 
 

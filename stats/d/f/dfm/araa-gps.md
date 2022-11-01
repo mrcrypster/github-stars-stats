@@ -1,6 +1,6 @@
 # dfm/araa-gps - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 23 | 4 | 
 | 2022-10-30 | 23 | 4 | 
 | 2022-10-29 | 23 | 4 | 
 | 2022-10-28 | 23 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 21 | 3 | 
 | 2022-10-03 | 20 | 3 | 
 | 2022-10-02 | 20 | 3 | 
-| 2022-10-01 | 20 | 3 | 
 

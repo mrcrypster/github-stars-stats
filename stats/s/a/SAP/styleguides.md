@@ -1,10 +1,10 @@
 # SAP/styleguides - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 354
 
-★ Stars: 1160
+★ Stars: 1161
 
 [Open repository](https://github.com/SAP/styleguides)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1161 | 354 | 
 | 2022-10-30 | 1160 | 354 | 
 | 2022-10-29 | 1160 | 354 | 
 | 2022-10-28 | 1160 | 354 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1148 | 350 | 
 | 2022-10-03 | 1148 | 350 | 
 | 2022-10-02 | 1147 | 350 | 
-| 2022-10-01 | 1147 | 350 | 
 

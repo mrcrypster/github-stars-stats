@@ -1,8 +1,8 @@
 # LandmakTechnology/kubernetes-notes - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 1200
+☋ Forks: 1201
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3 | 1201 | 
 | 2022-10-30 | 3 | 1200 | 
 | 2022-10-29 | 3 | 1198 | 
 | 2022-10-28 | 3 | 1198 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2 | 1170 | 
 | 2022-10-03 | 2 | 1168 | 
 | 2022-10-02 | 2 | 1167 | 
-| 2022-10-01 | 2 | 1167 | 
 

@@ -1,6 +1,6 @@
 # AlmostFancy/true-dutch - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 24 | 2 | 
 | 2022-10-30 | 24 | 2 | 
 | 2022-10-29 | 24 | 2 | 
 | 2022-10-28 | 24 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 24 | 2 | 
 | 2022-10-04 | 24 | 2 | 
 | 2022-10-03 | 24 | 2 | 
-| 2022-10-02 | 24 | 2 | 
 

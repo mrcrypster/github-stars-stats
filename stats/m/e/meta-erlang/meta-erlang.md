@@ -1,6 +1,6 @@
 # meta-erlang/meta-erlang - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 41 | 32 | 
 | 2022-10-30 | 41 | 32 | 
 | 2022-10-29 | 41 | 32 | 
 | 2022-10-28 | 41 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 41 | 30 | 
 | 2022-10-04 | 41 | 30 | 
 | 2022-10-02 | 41 | 30 | 
-| 2022-10-01 | 41 | 30 | 
 

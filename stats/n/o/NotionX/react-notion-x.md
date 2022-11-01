@@ -1,10 +1,10 @@
 # NotionX/react-notion-x - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 332
 
-★ Stars: 2958
+★ Stars: 2959
 
 [Open repository](https://github.com/NotionX/react-notion-x)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2959 | 332 | 
 | 2022-10-30 | 2958 | 332 | 
 | 2022-10-29 | 2955 | 332 | 
 | 2022-10-28 | 2955 | 331 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2860 | 323 | 
 | 2022-10-03 | 2857 | 322 | 
 | 2022-10-02 | 2855 | 321 | 
-| 2022-10-01 | 2854 | 321 | 
 

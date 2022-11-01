@@ -1,6 +1,6 @@
 # nix-community/comma - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 545 | 34 | 
 | 2022-10-30 | 545 | 34 | 
 | 2022-10-29 | 544 | 34 | 
 | 2022-10-28 | 544 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 519 | 34 | 
 | 2022-10-03 | 519 | 34 | 
 | 2022-10-02 | 520 | 34 | 
-| 2022-10-01 | 520 | 34 | 
 

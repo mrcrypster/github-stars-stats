@@ -1,10 +1,10 @@
 # app-generator/sample-django-celery - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/app-generator/sample-django-celery)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 15 | 1 | 
 | 2022-10-30 | 14 | 1 | 
 | 2022-10-29 | 14 | 1 | 
 | 2022-10-28 | 14 | 1 | 

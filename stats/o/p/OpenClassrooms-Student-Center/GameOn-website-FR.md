@@ -1,6 +1,6 @@
 # OpenClassrooms-Student-Center/GameOn-website-FR - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1170
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 33 | 1170 | 
 | 2022-10-30 | 33 | 1170 | 
 | 2022-10-29 | 33 | 1169 | 
 | 2022-10-28 | 33 | 1168 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 31 | 1131 | 
 | 2022-10-03 | 31 | 1131 | 
 | 2022-10-02 | 31 | 1128 | 
-| 2022-10-01 | 31 | 1127 | 
 

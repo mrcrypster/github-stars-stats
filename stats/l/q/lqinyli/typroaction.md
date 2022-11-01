@@ -1,10 +1,10 @@
 # lqinyli/typroaction - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 9
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/lqinyli/typroaction)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 10 | 9 | 
 | 2022-10-30 | 9 | 9 | 
 | 2022-10-29 | 9 | 9 | 
 | 2022-10-28 | 9 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 9 | 9 | 
 | 2022-10-03 | 9 | 9 | 
 | 2022-10-02 | 9 | 9 | 
-| 2022-10-01 | 9 | 9 | 
 

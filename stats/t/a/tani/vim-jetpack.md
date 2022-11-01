@@ -1,10 +1,10 @@
 # tani/vim-jetpack - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 23
 
-★ Stars: 201
+★ Stars: 204
 
 [Open repository](https://github.com/tani/vim-jetpack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 204 | 23 | 
 | 2022-10-30 | 201 | 23 | 
 | 2022-10-29 | 201 | 23 | 
 | 2022-10-28 | 200 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 196 | 22 | 
 | 2022-10-03 | 196 | 22 | 
 | 2022-10-02 | 195 | 22 | 
-| 2022-10-01 | 195 | 22 | 
 

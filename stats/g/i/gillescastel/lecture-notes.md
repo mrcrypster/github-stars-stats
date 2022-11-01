@@ -1,6 +1,6 @@
 # gillescastel/lecture-notes - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 92 | 12 | 
 | 2022-10-30 | 92 | 12 | 
 | 2022-10-29 | 90 | 12 | 
 | 2022-10-28 | 89 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 85 | 10 | 
 | 2022-10-03 | 85 | 10 | 
 | 2022-10-02 | 84 | 10 | 
-| 2022-10-01 | 84 | 10 | 
 

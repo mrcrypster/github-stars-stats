@@ -1,10 +1,10 @@
 # robinuniverse/TwitFix - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 94
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/robinuniverse/TwitFix)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 671 | 94 | 
 | 2022-10-30 | 670 | 94 | 
 | 2022-10-29 | 670 | 94 | 
 | 2022-10-28 | 670 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 668 | 94 | 
 | 2022-10-03 | 668 | 94 | 
 | 2022-10-02 | 668 | 94 | 
-| 2022-10-01 | 668 | 93 | 
 

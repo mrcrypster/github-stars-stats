@@ -1,6 +1,6 @@
 # LeDragoX/Win-Debloat-Tools - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1493 | 103 | 
 | 2022-10-30 | 1493 | 103 | 
 | 2022-10-29 | 1492 | 103 | 
 | 2022-10-28 | 1489 | 103 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 1397 | 94 | 
 | 2022-10-03 | 1395 | 94 | 
 | 2022-10-02 | 1385 | 93 | 
-| 2022-10-01 | 1384 | 93 | 
 

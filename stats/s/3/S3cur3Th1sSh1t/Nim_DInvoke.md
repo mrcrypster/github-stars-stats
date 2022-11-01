@@ -1,10 +1,10 @@
 # S3cur3Th1sSh1t/Nim_DInvoke - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 6
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/S3cur3Th1sSh1t/Nim_DInvoke)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 93 | 6 | 
 | 2022-10-30 | 92 | 6 | 
 | 2022-10-29 | 92 | 6 | 
 | 2022-10-28 | 92 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 92 | 6 | 
 | 2022-10-03 | 92 | 6 | 
 | 2022-10-02 | 92 | 6 | 
-| 2022-10-01 | 92 | 6 | 
 

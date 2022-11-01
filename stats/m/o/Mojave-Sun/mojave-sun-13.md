@@ -1,8 +1,8 @@
 # Mojave-Sun/mojave-sun-13 - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 53
+☋ Forks: 52
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 14 | 52 | 
 | 2022-10-30 | 14 | 53 | 
 | 2022-10-29 | 14 | 53 | 
 | 2022-10-28 | 14 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 14 | 52 | 
 | 2022-10-03 | 14 | 52 | 
 | 2022-10-02 | 14 | 52 | 
-| 2022-10-01 | 14 | 52 | 
 

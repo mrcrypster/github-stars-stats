@@ -1,10 +1,10 @@
 # flower-corp/rosedb - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 506
+☋ Forks: 505
 
-★ Stars: 3331
+★ Stars: 3335
 
 [Open repository](https://github.com/flower-corp/rosedb)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3335 | 505 | 
 | 2022-10-30 | 3331 | 506 | 
 | 2022-10-29 | 3329 | 506 | 
 | 2022-10-28 | 3328 | 506 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 3228 | 483 | 
 | 2022-10-03 | 3223 | 483 | 
 | 2022-10-02 | 3218 | 484 | 
-| 2022-10-01 | 3216 | 484 | 
 

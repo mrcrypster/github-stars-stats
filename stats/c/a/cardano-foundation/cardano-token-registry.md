@@ -1,10 +1,10 @@
 # cardano-foundation/cardano-token-registry - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 868
 
-★ Stars: 184
+★ Stars: 183
 
 [Open repository](https://github.com/cardano-foundation/cardano-token-registry)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 183 | 868 | 
 | 2022-10-30 | 184 | 868 | 
 | 2022-10-29 | 184 | 868 | 
 | 2022-10-28 | 184 | 868 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 179 | 851 | 
 | 2022-10-03 | 179 | 851 | 
 | 2022-10-02 | 179 | 851 | 
-| 2022-10-01 | 179 | 849 | 
 

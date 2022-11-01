@@ -1,6 +1,6 @@
 # rocketseat-education/nlw-06-flutter - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 388 | 200 | 
 | 2022-10-31 | 388 | 200 | 
 | 2022-10-30 | 388 | 200 | 
 | 2022-10-29 | 388 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-04 | 386 | 199 | 
 | 2022-10-03 | 386 | 199 | 
 | 2022-10-02 | 386 | 199 | 
-| 2022-10-01 | 386 | 199 | 
 

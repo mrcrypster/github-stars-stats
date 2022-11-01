@@ -1,6 +1,6 @@
 # zeroc00I/AllVideoPocsFromHackerOne - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 734 | 202 | 
 | 2022-10-30 | 734 | 202 | 
 | 2022-10-29 | 734 | 202 | 
 | 2022-10-28 | 734 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 718 | 198 | 
 | 2022-10-03 | 717 | 198 | 
 | 2022-10-02 | 717 | 198 | 
-| 2022-10-01 | 717 | 198 | 
 

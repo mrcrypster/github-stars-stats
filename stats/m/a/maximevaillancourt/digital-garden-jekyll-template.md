@@ -1,10 +1,10 @@
 # maximevaillancourt/digital-garden-jekyll-template - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 482
+☋ Forks: 481
 
-★ Stars: 539
+★ Stars: 540
 
 [Open repository](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 540 | 481 | 
 | 2022-10-30 | 539 | 482 | 
 | 2022-10-29 | 539 | 480 | 
 | 2022-10-28 | 537 | 479 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 521 | 457 | 
 | 2022-10-03 | 521 | 457 | 
 | 2022-10-02 | 521 | 457 | 
-| 2022-10-01 | 521 | 456 | 
 

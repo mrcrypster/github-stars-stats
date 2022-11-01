@@ -1,10 +1,10 @@
 # peng8350/flutter_pulltorefresh - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 637
 
-★ Stars: 2479
+★ Stars: 2481
 
 [Open repository](https://github.com/peng8350/flutter_pulltorefresh)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2481 | 637 | 
 | 2022-10-30 | 2479 | 637 | 
 | 2022-10-29 | 2479 | 637 | 
 | 2022-10-28 | 2478 | 637 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2468 | 632 | 
 | 2022-10-03 | 2468 | 632 | 
 | 2022-10-02 | 2468 | 632 | 
-| 2022-10-01 | 2467 | 632 | 
 

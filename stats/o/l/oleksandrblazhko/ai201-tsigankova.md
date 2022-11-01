@@ -1,0 +1,17 @@
+# oleksandrblazhko/ai201-tsigankova - stars & forks statistics
+
+Stats updated on Oct 2022, 31
+
+☋ Forks: 7
+
+★ Stars: 1
+
+[Open repository](https://github.com/oleksandrblazhko/ai201-tsigankova)
+
+[Open detailed stats for oleksandrblazhko/ai201-tsigankova](https://reviewgithub.com/rep/oleksandrblazhko/ai201-tsigankova)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-10-31 | 1 | 7 | 
+

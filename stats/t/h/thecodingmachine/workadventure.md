@@ -1,10 +1,10 @@
 # thecodingmachine/workadventure - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 457
 
-★ Stars: 2767
+★ Stars: 2770
 
 [Open repository](https://github.com/thecodingmachine/workadventure)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2770 | 457 | 
 | 2022-10-30 | 2767 | 457 | 
 | 2022-10-29 | 2767 | 457 | 
 | 2022-10-28 | 2767 | 457 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 2735 | 452 | 
 | 2022-10-04 | 2735 | 452 | 
 | 2022-10-03 | 2735 | 452 | 
-| 2022-10-02 | 2735 | 452 | 
 

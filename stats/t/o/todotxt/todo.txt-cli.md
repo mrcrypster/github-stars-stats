@@ -1,10 +1,10 @@
 # todotxt/todo.txt-cli - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 658
 
-★ Stars: 5058
+★ Stars: 5061
 
 [Open repository](https://github.com/todotxt/todo.txt-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 5061 | 658 | 
 | 2022-10-30 | 5058 | 658 | 
 | 2022-10-29 | 5058 | 658 | 
 | 2022-10-28 | 5058 | 658 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 5043 | 661 | 
 | 2022-10-03 | 5042 | 661 | 
 | 2022-10-02 | 5042 | 661 | 
-| 2022-10-01 | 5041 | 662 | 
 

@@ -1,6 +1,6 @@
 # MicrosoftDocs/intellicode - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 621 | 56 | 
 | 2022-10-30 | 621 | 56 | 
 | 2022-10-29 | 621 | 56 | 
 | 2022-10-28 | 621 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 617 | 54 | 
 | 2022-10-03 | 617 | 54 | 
 | 2022-10-02 | 618 | 54 | 
-| 2022-10-01 | 617 | 53 | 
 

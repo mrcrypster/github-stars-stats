@@ -1,10 +1,10 @@
 # GoogleCloudPlatform/terraformer - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 1217
 
-★ Stars: 8860
+★ Stars: 8866
 
 [Open repository](https://github.com/GoogleCloudPlatform/terraformer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 8866 | 1217 | 
 | 2022-10-30 | 8860 | 1217 | 
 | 2022-10-29 | 8857 | 1218 | 
 | 2022-10-28 | 8854 | 1215 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 8718 | 1196 | 
 | 2022-10-03 | 8707 | 1195 | 
 | 2022-10-02 | 8706 | 1195 | 
-| 2022-10-01 | 8699 | 1196 | 
 

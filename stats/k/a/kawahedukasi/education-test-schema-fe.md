@@ -1,6 +1,6 @@
 # kawahedukasi/education-test-schema-fe - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 3 | 86 | 
 | 2022-10-30 | 3 | 86 | 
 | 2022-10-29 | 3 | 86 | 
 | 2022-10-28 | 3 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 3 | 85 | 
 | 2022-10-03 | 3 | 85 | 
 | 2022-10-02 | 3 | 85 | 
-| 2022-10-01 | 3 | 85 | 
 

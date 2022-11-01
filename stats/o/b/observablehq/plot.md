@@ -1,10 +1,10 @@
 # observablehq/plot - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 104
+☋ Forks: 105
 
-★ Stars: 2120
+★ Stars: 2127
 
 [Open repository](https://github.com/observablehq/plot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2127 | 105 | 
 | 2022-10-30 | 2120 | 104 | 
 | 2022-10-29 | 2118 | 104 | 
 | 2022-10-28 | 2117 | 103 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2087 | 99 | 
 | 2022-10-03 | 2086 | 99 | 
 | 2022-10-02 | 2086 | 100 | 
-| 2022-10-01 | 2085 | 100 | 
 

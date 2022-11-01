@@ -1,10 +1,10 @@
 # MauritsWilke/mcpfp - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 7
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/MauritsWilke/mcpfp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 28 | 7 | 
 | 2022-10-30 | 27 | 7 | 
 | 2022-10-29 | 26 | 7 | 
 | 2022-10-28 | 26 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 24 | 5 | 
 | 2022-10-03 | 24 | 5 | 
 | 2022-10-02 | 24 | 5 | 
-| 2022-10-01 | 24 | 5 | 
 

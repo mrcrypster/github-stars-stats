@@ -1,6 +1,6 @@
 # supabase/pg_jsonschema - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 598 | 4 | 
 | 2022-10-30 | 598 | 4 | 
 | 2022-10-29 | 598 | 4 | 
 | 2022-10-28 | 598 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 592 | 4 | 
 | 2022-10-03 | 592 | 4 | 
 | 2022-10-02 | 592 | 4 | 
-| 2022-10-01 | 592 | 4 | 
 

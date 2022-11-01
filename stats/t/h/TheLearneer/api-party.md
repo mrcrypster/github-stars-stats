@@ -1,10 +1,10 @@
 # TheLearneer/api-party - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
-☋ Forks: 41
+☋ Forks: 46
 
-★ Stars: 16
+★ Stars: 21
 
 [Open repository](https://github.com/TheLearneer/api-party)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 21 | 46 | 
 | 2022-10-30 | 16 | 41 | 
 | 2022-10-29 | 16 | 41 | 
 | 2022-10-28 | 16 | 41 | 

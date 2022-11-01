@@ -1,10 +1,10 @@
 # openshift/okd - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 260
 
-★ Stars: 1348
+★ Stars: 1349
 
 [Open repository](https://github.com/openshift/okd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 1349 | 260 | 
 | 2022-10-30 | 1348 | 260 | 
 | 2022-10-29 | 1347 | 260 | 
 | 2022-10-28 | 1347 | 260 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-05 | 1322 | 256 | 
 | 2022-10-03 | 1320 | 256 | 
 | 2022-10-02 | 1320 | 256 | 
-| 2022-10-01 | 1321 | 256 | 
 

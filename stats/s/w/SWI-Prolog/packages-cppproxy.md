@@ -1,6 +1,6 @@
 # SWI-Prolog/packages-cppproxy - stars & forks statistics
 
-Stats updated on Oct 2022, 30
+Stats updated on Oct 2022, 31
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 30
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-10-31 | 2 | 4 | 
 | 2022-10-30 | 2 | 4 | 
 | 2022-10-29 | 2 | 4 | 
 | 2022-10-28 | 2 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 30
 | 2022-10-04 | 2 | 4 | 
 | 2022-10-03 | 2 | 4 | 
 | 2022-10-02 | 2 | 4 | 
-| 2022-10-01 | 2 | 4 | 
 
