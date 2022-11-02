@@ -1,10 +1,10 @@
 # AdguardTeam/AdGuardHome - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1260
+☋ Forks: 1261
 
-★ Stars: 13548
+★ Stars: 13558
 
 [Open repository](https://github.com/AdguardTeam/AdGuardHome)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 13558 | 1261 | 
 | 2022-10-31 | 13548 | 1260 | 
 | 2022-10-30 | 13468 | 1256 | 
 | 2022-10-29 | 13299 | 1255 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 13052 | 1243 | 
 | 2022-10-04 | 13040 | 1242 | 
 | 2022-10-03 | 13029 | 1243 | 
-| 2022-10-02 | 13013 | 1241 | 
 

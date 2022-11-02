@@ -1,10 +1,10 @@
 # RRethy/nvim-base16 - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 41
 
-★ Stars: 283
+★ Stars: 285
 
 [Open repository](https://github.com/RRethy/nvim-base16)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 285 | 41 | 
 | 2022-10-31 | 283 | 41 | 
 | 2022-10-30 | 281 | 41 | 
 | 2022-10-29 | 281 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 267 | 38 | 
 | 2022-10-04 | 267 | 38 | 
 | 2022-10-03 | 267 | 38 | 
-| 2022-10-02 | 266 | 38 | 
 

@@ -1,10 +1,10 @@
 # TheOdinProject/css-exercises - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 29721
+☋ Forks: 29802
 
-★ Stars: 736
+★ Stars: 735
 
 [Open repository](https://github.com/TheOdinProject/css-exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 735 | 29802 | 
 | 2022-10-31 | 736 | 29721 | 
 | 2022-10-30 | 732 | 29631 | 
 | 2022-10-29 | 731 | 29522 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 679 | 27817 | 
 | 2022-10-04 | 678 | 27719 | 
 | 2022-10-03 | 677 | 27634 | 
-| 2022-10-02 | 673 | 27524 | 
 

@@ -1,10 +1,10 @@
 # WebAudio/web-audio-api - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 161
 
-★ Stars: 933
+★ Stars: 934
 
 [Open repository](https://github.com/WebAudio/web-audio-api)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 934 | 161 | 
 | 2022-10-31 | 933 | 161 | 
 | 2022-10-30 | 931 | 161 | 
 | 2022-10-29 | 931 | 161 | 

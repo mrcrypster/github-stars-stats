@@ -1,10 +1,10 @@
 # jupeter/clean-code-php - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2785
+☋ Forks: 2787
 
-★ Stars: 11189
+★ Stars: 11190
 
 [Open repository](https://github.com/jupeter/clean-code-php)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 11190 | 2787 | 
 | 2022-10-31 | 11189 | 2785 | 
 | 2022-10-30 | 11188 | 2785 | 
 | 2022-10-29 | 11187 | 2783 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 11126 | 2760 | 
 | 2022-10-04 | 11123 | 2760 | 
 | 2022-10-03 | 11119 | 2759 | 
-| 2022-10-02 | 11113 | 2757 | 
 

@@ -1,10 +1,10 @@
 # mohamedhaloka/todo_app_tdd - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 4
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/mohamedhaloka/todo_app_tdd)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 51 | 4 | 
 | 2022-10-31 | 50 | 4 | 
 | 2022-10-30 | 50 | 4 | 
 | 2022-10-29 | 49 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 49 | 4 | 
 | 2022-10-04 | 49 | 4 | 
 | 2022-10-03 | 49 | 4 | 
-| 2022-10-02 | 49 | 4 | 
 

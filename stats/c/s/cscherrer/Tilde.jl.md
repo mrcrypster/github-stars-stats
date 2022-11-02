@@ -1,6 +1,6 @@
 # cscherrer/Tilde.jl - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 69 | 2 | 
 | 2022-10-31 | 69 | 2 | 
 | 2022-10-30 | 69 | 2 | 
 | 2022-10-29 | 69 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 62 | 2 | 
 | 2022-10-04 | 62 | 2 | 
 | 2022-10-03 | 60 | 2 | 
-| 2022-10-02 | 60 | 2 | 
 

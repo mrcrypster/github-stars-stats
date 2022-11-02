@@ -1,6 +1,6 @@
 # Mcompetitions/M4-methods - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 288
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 616 | 288 | 
 | 2022-10-31 | 616 | 288 | 
 | 2022-10-30 | 616 | 288 | 
 | 2022-10-29 | 616 | 288 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 610 | 285 | 
 | 2022-10-04 | 610 | 284 | 
 | 2022-10-03 | 610 | 284 | 
-| 2022-10-02 | 610 | 283 | 
 

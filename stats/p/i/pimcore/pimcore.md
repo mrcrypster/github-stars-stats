@@ -1,10 +1,10 @@
 # pimcore/pimcore - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 1221
 
-★ Stars: 2655
+★ Stars: 2657
 
 [Open repository](https://github.com/pimcore/pimcore)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2657 | 1221 | 
 | 2022-10-31 | 2655 | 1221 | 
 | 2022-10-30 | 2655 | 1221 | 
 | 2022-10-29 | 2655 | 1222 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 2638 | 1209 | 
 | 2022-10-04 | 2635 | 1207 | 
 | 2022-10-03 | 2635 | 1204 | 
-| 2022-10-02 | 2635 | 1204 | 
 

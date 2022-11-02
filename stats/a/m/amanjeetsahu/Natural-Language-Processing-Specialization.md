@@ -1,6 +1,6 @@
 # amanjeetsahu/Natural-Language-Processing-Specialization - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 505
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 496 | 505 | 
 | 2022-10-31 | 496 | 505 | 
 | 2022-10-30 | 495 | 504 | 
 | 2022-10-29 | 495 | 503 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 482 | 492 | 
 | 2022-10-04 | 482 | 491 | 
 | 2022-10-03 | 482 | 491 | 
-| 2022-10-02 | 482 | 491 | 
 

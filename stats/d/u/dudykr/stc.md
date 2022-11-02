@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 01
 
-☋ Forks: 48
+☋ Forks: 49
 
-★ Stars: 2065
+★ Stars: 2237
 
 [Open repository](https://github.com/dudykr/stc)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-01 | 2065 | 48 | 
+| 2022-11-01 | 2237 | 49 | 
 | 2022-10-31 | 2042 | 47 | 
 | 2022-10-30 | 1665 | 32 | 
 

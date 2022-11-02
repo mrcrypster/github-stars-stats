@@ -1,10 +1,10 @@
 # mg979/vim-visual-multi - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 52
 
-★ Stars: 2557
+★ Stars: 2558
 
 [Open repository](https://github.com/mg979/vim-visual-multi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2558 | 52 | 
 | 2022-10-31 | 2557 | 52 | 
 | 2022-10-30 | 2556 | 52 | 
 | 2022-10-29 | 2554 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 2501 | 50 | 
 | 2022-10-04 | 2495 | 50 | 
 | 2022-10-03 | 2495 | 50 | 
-| 2022-10-02 | 2492 | 50 | 
 

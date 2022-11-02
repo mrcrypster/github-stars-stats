@@ -1,6 +1,6 @@
 # ponylang/http_server - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 23 | 5 | 
 | 2022-10-31 | 23 | 5 | 
 | 2022-10-30 | 23 | 5 | 
 | 2022-10-29 | 23 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 23 | 5 | 
 | 2022-10-04 | 23 | 5 | 
 | 2022-10-03 | 23 | 5 | 
-| 2022-10-02 | 23 | 5 | 
 

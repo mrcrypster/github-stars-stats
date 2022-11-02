@@ -1,6 +1,6 @@
 # Dashibase/dashibase - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 475 | 34 | 
 | 2022-10-31 | 475 | 34 | 
 | 2022-10-30 | 474 | 34 | 
 | 2022-10-29 | 473 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 460 | 33 | 
 | 2022-10-04 | 459 | 33 | 
 | 2022-10-03 | 458 | 33 | 
-| 2022-10-02 | 456 | 33 | 
 

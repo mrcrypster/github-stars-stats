@@ -1,10 +1,10 @@
 # JohannesPfeifer/DSGE_mod - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 316
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/JohannesPfeifer/DSGE_mod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 311 | 316 | 
 | 2022-11-01 | 310 | 316 | 
 | 2022-10-31 | 310 | 316 | 
 | 2022-10-30 | 310 | 316 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 308 | 312 | 
 | 2022-10-04 | 308 | 312 | 
 | 2022-10-03 | 308 | 312 | 
-| 2022-10-02 | 308 | 312 | 
 

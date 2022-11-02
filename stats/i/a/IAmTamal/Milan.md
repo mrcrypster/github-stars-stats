@@ -1,10 +1,10 @@
 # IAmTamal/Milan - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 158
+☋ Forks: 157
 
-★ Stars: 117
+★ Stars: 119
 
 [Open repository](https://github.com/IAmTamal/Milan)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 119 | 157 | 
 | 2022-10-31 | 117 | 158 | 
 | 2022-10-30 | 117 | 157 | 
 | 2022-10-29 | 118 | 158 | 

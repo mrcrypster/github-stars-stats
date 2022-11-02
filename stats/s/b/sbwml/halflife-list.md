@@ -1,10 +1,10 @@
 # sbwml/halflife-list - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 28
 
-★ Stars: 118
+★ Stars: 117
 
 [Open repository](https://github.com/sbwml/halflife-list)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 117 | 28 | 
 | 2022-10-31 | 118 | 28 | 
 | 2022-10-30 | 118 | 28 | 
 | 2022-10-29 | 116 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 101 | 27 | 
 | 2022-10-04 | 100 | 27 | 
 | 2022-10-03 | 100 | 27 | 
-| 2022-10-02 | 99 | 27 | 
 

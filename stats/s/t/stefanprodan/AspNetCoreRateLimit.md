@@ -1,10 +1,10 @@
 # stefanprodan/AspNetCoreRateLimit - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 391
 
-★ Stars: 2664
+★ Stars: 2665
 
 [Open repository](https://github.com/stefanprodan/AspNetCoreRateLimit)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2665 | 391 | 
 | 2022-10-31 | 2664 | 391 | 
 | 2022-10-30 | 2664 | 392 | 
 | 2022-10-29 | 2664 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 2637 | 386 | 
 | 2022-10-04 | 2636 | 386 | 
 | 2022-10-03 | 2636 | 385 | 
-| 2022-10-02 | 2635 | 385 | 
 

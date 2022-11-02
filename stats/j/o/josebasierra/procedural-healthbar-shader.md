@@ -1,6 +1,6 @@
 # josebasierra/procedural-healthbar-shader - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 82 | 12 | 
 | 2022-11-01 | 82 | 12 | 
 | 2022-10-31 | 82 | 12 | 
 | 2022-10-30 | 82 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 80 | 12 | 
 | 2022-10-04 | 80 | 12 | 
 | 2022-10-03 | 80 | 12 | 
-| 2022-10-02 | 80 | 12 | 
 

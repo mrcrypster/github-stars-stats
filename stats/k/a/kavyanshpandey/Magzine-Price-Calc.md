@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 01
 
 ☋ Forks: 54
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/kavyanshpandey/Magzine-Price-Calc)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-01 | 3 | 54 | 
+| 2022-11-01 | 4 | 54 | 
 | 2022-10-31 | 3 | 54 | 
 | 2022-10-30 | 3 | 53 | 
 | 2022-10-29 | 3 | 51 | 

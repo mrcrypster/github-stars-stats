@@ -1,10 +1,10 @@
 # valeman/awesome-conformal-prediction - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 87
 
-★ Stars: 908
+★ Stars: 909
 
 [Open repository](https://github.com/valeman/awesome-conformal-prediction)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 909 | 87 | 
 | 2022-10-31 | 908 | 87 | 
 | 2022-10-30 | 906 | 86 | 
 | 2022-10-29 | 905 | 86 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 822 | 80 | 
 | 2022-10-04 | 819 | 80 | 
 | 2022-10-03 | 819 | 80 | 
-| 2022-10-02 | 818 | 80 | 
 

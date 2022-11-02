@@ -1,10 +1,10 @@
 # TalkingData/iview-weapp - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1162
+☋ Forks: 1163
 
-★ Stars: 6274
+★ Stars: 6275
 
 [Open repository](https://github.com/TalkingData/iview-weapp)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 6275 | 1163 | 
 | 2022-10-31 | 6274 | 1162 | 
 | 2022-10-30 | 6273 | 1162 | 
 | 2022-10-29 | 6273 | 1162 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 6257 | 1160 | 
 | 2022-10-04 | 6256 | 1160 | 
 | 2022-10-03 | 6256 | 1160 | 
-| 2022-10-02 | 6256 | 1160 | 
 

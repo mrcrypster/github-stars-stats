@@ -1,6 +1,6 @@
 # Kudaes/Elevator - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 416 | 48 | 
 | 2022-11-01 | 416 | 48 | 
 | 2022-10-31 | 414 | 48 | 
 | 2022-10-30 | 414 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 398 | 46 | 
 | 2022-10-04 | 397 | 46 | 
 | 2022-10-03 | 397 | 46 | 
-| 2022-10-02 | 397 | 46 | 
 

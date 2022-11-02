@@ -1,6 +1,6 @@
 # ARM-software/arm-trusted-firmware - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 1130
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1497 | 1130 | 
 | 2022-10-31 | 1497 | 1130 | 
 | 2022-10-30 | 1497 | 1130 | 
 | 2022-10-29 | 1497 | 1129 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1479 | 1123 | 
 | 2022-10-04 | 1477 | 1123 | 
 | 2022-10-03 | 1474 | 1122 | 
-| 2022-10-02 | 1474 | 1122 | 
 

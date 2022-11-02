@@ -1,8 +1,8 @@
 # creativetimofficial/paper-dashboard-angular - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 164
+☋ Forks: 166
 
 ★ Stars: 142
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 142 | 166 | 
 | 2022-10-31 | 142 | 164 | 
 | 2022-10-30 | 142 | 163 | 
 | 2022-10-29 | 142 | 162 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 140 | 143 | 
 | 2022-10-04 | 140 | 141 | 
 | 2022-10-03 | 140 | 142 | 
-| 2022-10-02 | 139 | 141 | 
 

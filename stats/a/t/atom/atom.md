@@ -1,10 +1,10 @@
 # atom/atom - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 18025
+☋ Forks: 18032
 
-★ Stars: 58649
+★ Stars: 58652
 
 [Open repository](https://github.com/atom/atom)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 58652 | 18032 | 
 | 2022-10-31 | 58649 | 18025 | 
 | 2022-10-30 | 58646 | 18020 | 
 | 2022-10-29 | 58639 | 18019 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 58563 | 17928 | 
 | 2022-10-04 | 58558 | 17924 | 
 | 2022-10-03 | 58552 | 17916 | 
-| 2022-10-02 | 58549 | 17921 | 
 

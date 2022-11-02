@@ -1,10 +1,10 @@
 # apple/swift-distributed-actors - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 39
 
-★ Stars: 454
+★ Stars: 455
 
 [Open repository](https://github.com/apple/swift-distributed-actors)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 455 | 39 | 
 | 2022-10-31 | 454 | 39 | 
 | 2022-10-30 | 454 | 39 | 
 | 2022-10-29 | 454 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 445 | 35 | 
 | 2022-10-04 | 445 | 35 | 
 | 2022-10-03 | 445 | 35 | 
-| 2022-10-02 | 445 | 35 | 
 

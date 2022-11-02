@@ -1,10 +1,10 @@
 # janet-lang/janet - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 181
 
-★ Stars: 2594
+★ Stars: 2593
 
 [Open repository](https://github.com/janet-lang/janet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2593 | 181 | 
 | 2022-10-31 | 2594 | 181 | 
 | 2022-10-30 | 2594 | 181 | 
 | 2022-10-29 | 2594 | 181 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 2568 | 180 | 
 | 2022-10-04 | 2567 | 180 | 
 | 2022-10-03 | 2566 | 180 | 
-| 2022-10-02 | 2566 | 180 | 
 

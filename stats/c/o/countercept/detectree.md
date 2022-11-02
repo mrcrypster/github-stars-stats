@@ -1,6 +1,6 @@
 # countercept/detectree - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 111 | 6 | 
 | 2022-10-31 | 111 | 6 | 
 | 2022-10-30 | 111 | 6 | 
 | 2022-10-29 | 111 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 105 | 6 | 
 | 2022-10-05 | 105 | 6 | 
 | 2022-10-04 | 105 | 6 | 
-| 2022-10-03 | 105 | 6 | 
 

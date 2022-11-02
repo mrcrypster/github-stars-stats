@@ -1,6 +1,6 @@
 # C4lme/eth-nft-drainer-website - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 528 | 28 | 
 | 2022-10-31 | 528 | 28 | 
 | 2022-10-30 | 528 | 28 | 
 | 2022-10-29 | 528 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 523 | 23 | 
 | 2022-10-05 | 523 | 23 | 
 | 2022-10-03 | 523 | 23 | 
-| 2022-10-02 | 522 | 23 | 
 

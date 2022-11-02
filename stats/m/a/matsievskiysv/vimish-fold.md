@@ -1,10 +1,10 @@
 # matsievskiysv/vimish-fold - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 18
 
-★ Stars: 238
+★ Stars: 239
 
 [Open repository](https://github.com/matsievskiysv/vimish-fold)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 239 | 18 | 
 | 2022-10-31 | 238 | 18 | 
 | 2022-10-30 | 238 | 18 | 
 | 2022-10-29 | 238 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 237 | 18 | 
 | 2022-10-04 | 237 | 18 | 
 | 2022-10-03 | 236 | 18 | 
-| 2022-10-02 | 236 | 18 | 
 

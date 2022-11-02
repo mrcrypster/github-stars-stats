@@ -1,10 +1,10 @@
 # polybar/polybar - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 586
+☋ Forks: 587
 
-★ Stars: 11572
+★ Stars: 11577
 
 [Open repository](https://github.com/polybar/polybar)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 11577 | 587 | 
 | 2022-10-31 | 11572 | 586 | 
 | 2022-10-30 | 11572 | 585 | 
 | 2022-10-29 | 11566 | 585 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 11428 | 585 | 
 | 2022-10-04 | 11423 | 585 | 
 | 2022-10-03 | 11412 | 585 | 
-| 2022-10-02 | 11408 | 585 | 
 

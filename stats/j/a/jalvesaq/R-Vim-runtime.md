@@ -1,10 +1,10 @@
 # jalvesaq/R-Vim-runtime - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 27
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/jalvesaq/R-Vim-runtime)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 23 | 27 | 
 | 2022-10-31 | 22 | 27 | 
 | 2022-10-30 | 22 | 27 | 
 | 2022-10-29 | 22 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 22 | 27 | 
 | 2022-10-05 | 22 | 27 | 
 | 2022-10-03 | 22 | 27 | 
-| 2022-10-02 | 22 | 27 | 
 

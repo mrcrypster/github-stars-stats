@@ -1,6 +1,6 @@
 # getsentry/unity - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 22 | 9 | 
 | 2022-10-31 | 22 | 9 | 
 | 2022-10-30 | 22 | 9 | 
 | 2022-10-29 | 22 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 21 | 8 | 
 | 2022-10-05 | 21 | 7 | 
 | 2022-10-04 | 21 | 7 | 
-| 2022-10-02 | 21 | 7 | 
 

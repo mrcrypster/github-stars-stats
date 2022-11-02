@@ -1,10 +1,10 @@
 # DataDog/dd-trace-dotnet - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 105
+☋ Forks: 104
 
-★ Stars: 259
+★ Stars: 260
 
 [Open repository](https://github.com/DataDog/dd-trace-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 260 | 104 | 
 | 2022-10-31 | 259 | 105 | 
 | 2022-10-30 | 257 | 104 | 
 | 2022-10-29 | 257 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 254 | 103 | 
 | 2022-10-04 | 254 | 103 | 
 | 2022-10-03 | 253 | 103 | 
-| 2022-10-02 | 252 | 103 | 
 

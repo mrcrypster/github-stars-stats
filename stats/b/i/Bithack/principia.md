@@ -1,10 +1,10 @@
 # Bithack/principia - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 13
 
-★ Stars: 145
+★ Stars: 146
 
 [Open repository](https://github.com/Bithack/principia)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 146 | 13 | 
 | 2022-11-01 | 145 | 13 | 
 | 2022-10-31 | 145 | 13 | 
 | 2022-10-30 | 145 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 140 | 13 | 
 | 2022-10-04 | 140 | 13 | 
 | 2022-10-03 | 140 | 13 | 
-| 2022-10-02 | 140 | 13 | 
 

@@ -1,10 +1,10 @@
 # moonlight-stream/moonlight-qt - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 328
+☋ Forks: 329
 
-★ Stars: 4146
+★ Stars: 4153
 
 [Open repository](https://github.com/moonlight-stream/moonlight-qt)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 4153 | 329 | 
 | 2022-10-31 | 4146 | 328 | 
 | 2022-10-30 | 4142 | 327 | 
 | 2022-10-29 | 4137 | 328 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 4014 | 320 | 
 | 2022-10-04 | 4008 | 320 | 
 | 2022-10-03 | 4003 | 319 | 
-| 2022-10-02 | 3994 | 319 | 
 

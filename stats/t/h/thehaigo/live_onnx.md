@@ -1,10 +1,10 @@
 # thehaigo/live_onnx - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/thehaigo/live_onnx)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 42 | 4 | 
 | 2022-10-31 | 41 | 3 | 
 | 2022-10-30 | 41 | 3 | 
 | 2022-10-29 | 41 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 41 | 3 | 
 | 2022-10-04 | 41 | 3 | 
 | 2022-10-03 | 41 | 3 | 
-| 2022-10-02 | 41 | 3 | 
 

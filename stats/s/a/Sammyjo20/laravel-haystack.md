@@ -1,10 +1,10 @@
 # Sammyjo20/laravel-haystack - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 9
 
-★ Stars: 461
+★ Stars: 462
 
 [Open repository](https://github.com/Sammyjo20/laravel-haystack)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 462 | 9 | 
 | 2022-10-31 | 461 | 9 | 
 | 2022-10-30 | 457 | 9 | 
 | 2022-10-29 | 456 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 428 | 9 | 
 | 2022-10-04 | 425 | 9 | 
 | 2022-10-03 | 418 | 8 | 
-| 2022-10-02 | 416 | 8 | 
 

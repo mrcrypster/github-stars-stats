@@ -1,10 +1,10 @@
 # Xilinx/kria-vitis-platforms - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 24
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/Xilinx/kria-vitis-platforms)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 49 | 24 | 
 | 2022-10-31 | 48 | 24 | 
 | 2022-10-30 | 48 | 24 | 
 | 2022-10-29 | 48 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 45 | 24 | 
 | 2022-10-05 | 45 | 24 | 
 | 2022-10-04 | 45 | 24 | 
-| 2022-10-03 | 45 | 24 | 
 

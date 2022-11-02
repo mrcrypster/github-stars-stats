@@ -1,6 +1,6 @@
 # gvsu-sta518/activity11-simulation - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | - | 45 | 
 | 2022-10-31 | - | 45 | 
 | 2022-10-30 | - | 45 | 
 | 2022-10-29 | - | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | - | 46 | 
 | 2022-10-04 | - | 46 | 
 | 2022-10-03 | - | 46 | 
-| 2022-10-02 | - | 46 | 
 

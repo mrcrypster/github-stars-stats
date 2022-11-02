@@ -1,10 +1,10 @@
 # Koko-boya/Grasscutter_Resources - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 419
 
-★ Stars: 1133
+★ Stars: 1135
 
 [Open repository](https://github.com/Koko-boya/Grasscutter_Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1135 | 419 | 
 | 2022-10-31 | 1133 | 419 | 
 | 2022-10-30 | 1132 | 418 | 
 | 2022-10-29 | 1130 | 420 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1065 | 393 | 
 | 2022-10-04 | 1063 | 392 | 
 | 2022-10-03 | 1058 | 391 | 
-| 2022-10-02 | 1055 | 390 | 
 

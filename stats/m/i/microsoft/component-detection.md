@@ -1,8 +1,8 @@
 # microsoft/component-detection - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 32
+☋ Forks: 33
 
 ★ Stars: 221
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 221 | 33 | 
 | 2022-11-01 | 221 | 32 | 
 | 2022-10-31 | 221 | 32 | 
 | 2022-10-30 | 221 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 215 | 26 | 
 | 2022-10-04 | 215 | 26 | 
 | 2022-10-03 | 214 | 26 | 
-| 2022-10-02 | 214 | 26 | 
 

@@ -1,10 +1,10 @@
 # riscv-boom/riscv-boom - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 323
 
-★ Stars: 1222
+★ Stars: 1226
 
 [Open repository](https://github.com/riscv-boom/riscv-boom)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1226 | 323 | 
 | 2022-10-31 | 1222 | 323 | 
 | 2022-10-30 | 1222 | 323 | 
 | 2022-10-29 | 1223 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1208 | 316 | 
 | 2022-10-04 | 1208 | 315 | 
 | 2022-10-03 | 1207 | 314 | 
-| 2022-10-02 | 1207 | 314 | 
 

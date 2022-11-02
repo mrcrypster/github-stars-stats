@@ -1,10 +1,10 @@
 # reddelexc/hackerone-reports - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 285
 
-★ Stars: 1117
+★ Stars: 1129
 
 [Open repository](https://github.com/reddelexc/hackerone-reports)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1129 | 285 | 
 | 2022-10-31 | 1117 | 285 | 
 | 2022-10-30 | 1114 | 284 | 
 | 2022-10-29 | 1112 | 283 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 1064 | 269 | 
 | 2022-10-05 | 1061 | 269 | 
 | 2022-10-04 | 1061 | 269 | 
-| 2022-10-03 | 1061 | 268 | 
 

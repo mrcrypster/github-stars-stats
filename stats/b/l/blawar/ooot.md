@@ -1,10 +1,10 @@
 # blawar/ooot - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 95
 
-★ Stars: 651
+★ Stars: 652
 
 [Open repository](https://github.com/blawar/ooot)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 652 | 95 | 
 | 2022-10-31 | 651 | 95 | 
 | 2022-10-30 | 651 | 95 | 
 | 2022-10-29 | 651 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 646 | 94 | 
 | 2022-10-04 | 646 | 94 | 
 | 2022-10-03 | 646 | 94 | 
-| 2022-10-02 | 646 | 94 | 
 

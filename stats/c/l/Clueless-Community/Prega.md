@@ -1,8 +1,8 @@
 # Clueless-Community/Prega - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 24
+☋ Forks: 23
 
 ★ Stars: 23
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 23 | 23 | 
 | 2022-10-31 | 23 | 24 | 
 | 2022-10-30 | 23 | 24 | 
 | 2022-10-29 | 23 | 24 | 

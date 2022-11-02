@@ -1,6 +1,6 @@
 # alexkirsz/dispatch-proxy - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 242
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3428 | 242 | 
 | 2022-10-31 | 3428 | 242 | 
 | 2022-10-30 | 3428 | 242 | 
 | 2022-10-29 | 3428 | 242 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 3424 | 243 | 
 | 2022-10-04 | 3424 | 243 | 
 | 2022-10-03 | 3423 | 243 | 
-| 2022-10-02 | 3423 | 243 | 
 

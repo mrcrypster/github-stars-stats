@@ -1,10 +1,10 @@
 # rbenv/ruby-build - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 768
 
-★ Stars: 3683
+★ Stars: 3682
 
 [Open repository](https://github.com/rbenv/ruby-build)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3682 | 768 | 
 | 2022-10-31 | 3683 | 768 | 
 | 2022-10-30 | 3683 | 768 | 
 | 2022-10-29 | 3682 | 769 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 3674 | 767 | 
 | 2022-10-05 | 3674 | 767 | 
 | 2022-10-04 | 3674 | 767 | 
-| 2022-10-03 | 3673 | 768 | 
 

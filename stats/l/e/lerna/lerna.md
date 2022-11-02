@@ -1,10 +1,10 @@
 # lerna/lerna - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2248
+☋ Forks: 2249
 
-★ Stars: 33814
+★ Stars: 33823
 
 [Open repository](https://github.com/lerna/lerna)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 33823 | 2249 | 
 | 2022-10-31 | 33814 | 2248 | 
 | 2022-10-30 | 33807 | 2249 | 
 | 2022-10-29 | 33804 | 2249 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 33651 | 2243 | 
 | 2022-10-04 | 33643 | 2242 | 
 | 2022-10-03 | 33639 | 2242 | 
-| 2022-10-02 | 33634 | 2242 | 
 

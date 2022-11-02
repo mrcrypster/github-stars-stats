@@ -1,10 +1,10 @@
 # ondevirarvoto/ondevirarvoto.github.io - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 10
+☋ Forks: 9
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/ondevirarvoto/ondevirarvoto.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 28 | 9 | 
 | 2022-10-31 | 27 | 10 | 
 | 2022-10-30 | 27 | 10 | 
 | 2022-10-29 | 26 | 10 | 

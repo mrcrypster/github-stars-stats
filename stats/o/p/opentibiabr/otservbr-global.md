@@ -1,6 +1,6 @@
 # opentibiabr/otservbr-global - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 128 | 185 | 
 | 2022-10-31 | 128 | 185 | 
 | 2022-10-30 | 128 | 185 | 
 | 2022-10-29 | 127 | 184 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 123 | 178 | 
 | 2022-10-04 | 123 | 178 | 
 | 2022-10-03 | 123 | 177 | 
-| 2022-10-02 | 123 | 176 | 
 

@@ -1,10 +1,10 @@
 # thebioengineer/camcorder - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 4
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/thebioengineer/camcorder)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 142 | 4 | 
 | 2022-10-31 | 141 | 4 | 
 | 2022-10-30 | 141 | 4 | 
 | 2022-10-29 | 140 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 123 | 4 | 
 | 2022-10-04 | 123 | 4 | 
 | 2022-10-03 | 122 | 4 | 
-| 2022-10-02 | 122 | 4 | 
 

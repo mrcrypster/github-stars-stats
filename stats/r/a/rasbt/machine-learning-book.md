@@ -1,10 +1,10 @@
 # rasbt/machine-learning-book - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 440
+☋ Forks: 442
 
-★ Stars: 1221
+★ Stars: 1224
 
 [Open repository](https://github.com/rasbt/machine-learning-book)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1224 | 442 | 
 | 2022-10-31 | 1221 | 440 | 
 | 2022-10-30 | 1221 | 440 | 
 | 2022-10-29 | 1221 | 439 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1167 | 419 | 
 | 2022-10-04 | 1166 | 417 | 
 | 2022-10-03 | 1163 | 417 | 
-| 2022-10-02 | 1158 | 417 | 
 

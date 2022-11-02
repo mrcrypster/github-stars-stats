@@ -1,10 +1,10 @@
 # ShareX/ShareX - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2708
+☋ Forks: 2710
 
-★ Stars: 22033
+★ Stars: 22042
 
 [Open repository](https://github.com/ShareX/ShareX)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 22042 | 2710 | 
 | 2022-10-31 | 22033 | 2708 | 
 | 2022-10-30 | 22028 | 2707 | 
 | 2022-10-29 | 22025 | 2706 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 21822 | 2685 | 
 | 2022-10-04 | 21818 | 2685 | 
 | 2022-10-03 | 21805 | 2684 | 
-| 2022-10-02 | 21791 | 2683 | 
 

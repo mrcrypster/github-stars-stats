@@ -1,6 +1,6 @@
 # boostorg/docca - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 11 | 17 | 
 | 2022-10-31 | 11 | 17 | 
 | 2022-10-30 | 11 | 17 | 
 | 2022-10-29 | 11 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 11 | 17 | 
 | 2022-10-04 | 11 | 17 | 
 | 2022-10-03 | 11 | 17 | 
-| 2022-10-02 | 11 | 17 | 
 

@@ -1,8 +1,8 @@
 # Ajmal-Achu/Wizard-MD - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 986
+☋ Forks: 997
 
 ★ Stars: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 42 | 997 | 
 | 2022-11-01 | 42 | 986 | 
 | 2022-10-31 | 42 | 982 | 
 | 2022-10-29 | 42 | 981 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 28 | 748 | 
 | 2022-10-04 | 27 | 714 | 
 | 2022-10-03 | 27 | 685 | 
-| 2022-10-02 | 26 | 660 | 
 

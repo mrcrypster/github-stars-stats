@@ -1,6 +1,6 @@
 # RadeonOpenCompute/rocm-cmake - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 30 | 34 | 
 | 2022-10-31 | 30 | 34 | 
 | 2022-10-30 | 30 | 34 | 
 | 2022-10-29 | 30 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 29 | 35 | 
 | 2022-10-05 | 29 | 35 | 
 | 2022-10-03 | 29 | 35 | 
-| 2022-10-02 | 29 | 35 | 
 

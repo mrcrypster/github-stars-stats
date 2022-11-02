@@ -1,10 +1,10 @@
 # ngosang/trackerslist - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 6288
+☋ Forks: 6292
 
-★ Stars: 36394
+★ Stars: 36404
 
 [Open repository](https://github.com/ngosang/trackerslist)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 36404 | 6292 | 
 | 2022-10-31 | 36394 | 6288 | 
 | 2022-10-30 | 36372 | 6287 | 
 | 2022-10-29 | 36357 | 6286 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 36010 | 6259 | 
 | 2022-10-04 | 35995 | 6256 | 
 | 2022-10-03 | 35983 | 6254 | 
-| 2022-10-02 | 35975 | 6252 | 
 

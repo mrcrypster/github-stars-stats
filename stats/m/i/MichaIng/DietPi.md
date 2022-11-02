@@ -1,10 +1,10 @@
 # MichaIng/DietPi - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 410
 
-★ Stars: 3471
+★ Stars: 3474
 
 [Open repository](https://github.com/MichaIng/DietPi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3474 | 410 | 
 | 2022-10-31 | 3471 | 410 | 
 | 2022-10-30 | 3470 | 410 | 
 | 2022-10-29 | 3468 | 410 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 3428 | 407 | 
 | 2022-10-04 | 3428 | 406 | 
 | 2022-10-03 | 3426 | 405 | 
-| 2022-10-02 | 3421 | 405 | 
 

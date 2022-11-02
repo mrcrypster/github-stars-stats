@@ -1,10 +1,10 @@
 # crytic/slither - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 603
 
-★ Stars: 3334
+★ Stars: 3340
 
 [Open repository](https://github.com/crytic/slither)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3340 | 603 | 
 | 2022-10-31 | 3334 | 603 | 
 | 2022-10-30 | 3331 | 600 | 
 | 2022-10-29 | 3328 | 601 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 3175 | 563 | 
 | 2022-10-04 | 3171 | 561 | 
 | 2022-10-03 | 3167 | 560 | 
-| 2022-10-02 | 3160 | 561 | 
 

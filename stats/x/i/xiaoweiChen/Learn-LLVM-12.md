@@ -1,10 +1,10 @@
 # xiaoweiChen/Learn-LLVM-12 - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 55
 
-★ Stars: 430
+★ Stars: 429
 
 [Open repository](https://github.com/xiaoweiChen/Learn-LLVM-12)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 429 | 55 | 
 | 2022-10-31 | 430 | 55 | 
 | 2022-10-30 | 430 | 55 | 
 | 2022-10-29 | 429 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 419 | 55 | 
 | 2022-10-05 | 419 | 55 | 
 | 2022-10-04 | 419 | 55 | 
-| 2022-10-03 | 418 | 54 | 
 

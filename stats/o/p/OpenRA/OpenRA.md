@@ -1,10 +1,10 @@
 # OpenRA/OpenRA - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2459
+☋ Forks: 2461
 
-★ Stars: 11950
+★ Stars: 11954
 
 [Open repository](https://github.com/OpenRA/OpenRA)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 11954 | 2461 | 
 | 2022-10-31 | 11950 | 2459 | 
 | 2022-10-30 | 11947 | 2456 | 
 | 2022-10-29 | 11938 | 2454 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 11830 | 2441 | 
 | 2022-10-04 | 11826 | 2441 | 
 | 2022-10-03 | 11824 | 2441 | 
-| 2022-10-02 | 11816 | 2440 | 
 

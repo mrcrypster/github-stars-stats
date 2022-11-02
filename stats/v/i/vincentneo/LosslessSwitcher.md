@@ -1,6 +1,6 @@
 # vincentneo/LosslessSwitcher - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 339 | 22 | 
 | 2022-10-31 | 339 | 22 | 
 | 2022-10-30 | 338 | 22 | 
 | 2022-10-29 | 337 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 321 | 20 | 
 | 2022-10-05 | 320 | 20 | 
 | 2022-10-04 | 320 | 20 | 
-| 2022-10-03 | 319 | 20 | 
 

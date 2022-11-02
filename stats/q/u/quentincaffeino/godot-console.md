@@ -1,6 +1,6 @@
 # quentincaffeino/godot-console - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 563 | 50 | 
 | 2022-10-31 | 563 | 50 | 
 | 2022-10-30 | 563 | 50 | 
 | 2022-10-29 | 562 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 553 | 49 | 
 | 2022-10-04 | 551 | 49 | 
 | 2022-10-03 | 551 | 49 | 
-| 2022-10-02 | 551 | 49 | 
 

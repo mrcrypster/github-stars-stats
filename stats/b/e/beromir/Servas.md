@@ -1,10 +1,10 @@
 # beromir/Servas - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 6
 
-★ Stars: 200
+★ Stars: 201
 
 [Open repository](https://github.com/beromir/Servas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 201 | 6 | 
 | 2022-11-01 | 200 | 6 | 
 | 2022-10-31 | 200 | 6 | 
 | 2022-10-30 | 200 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 199 | 6 | 
 | 2022-10-04 | 199 | 6 | 
 | 2022-10-03 | 198 | 6 | 
-| 2022-10-02 | 198 | 6 | 
 

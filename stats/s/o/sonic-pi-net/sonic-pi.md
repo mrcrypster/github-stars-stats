@@ -1,6 +1,6 @@
 # sonic-pi-net/sonic-pi - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 874
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 9531 | 874 | 
 | 2022-10-31 | 9531 | 874 | 
 | 2022-10-30 | 9528 | 873 | 
 | 2022-10-29 | 9526 | 874 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 9467 | 871 | 
 | 2022-10-05 | 9465 | 871 | 
 | 2022-10-04 | 9465 | 871 | 
-| 2022-10-03 | 9462 | 871 | 
 

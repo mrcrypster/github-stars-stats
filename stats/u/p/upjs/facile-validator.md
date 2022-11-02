@@ -1,6 +1,6 @@
 # upjs/facile-validator - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 309 | 11 | 
 | 2022-10-31 | 309 | 11 | 
 | 2022-10-30 | 309 | 11 | 
 | 2022-10-29 | 309 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 308 | 11 | 
 | 2022-10-05 | 308 | 11 | 
 | 2022-10-04 | 307 | 11 | 
-| 2022-10-03 | 307 | 11 | 
 

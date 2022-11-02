@@ -1,10 +1,10 @@
 # SchemaStore/schemastore - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1121
+☋ Forks: 1122
 
-★ Stars: 1974
+★ Stars: 1975
 
 [Open repository](https://github.com/SchemaStore/schemastore)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1975 | 1122 | 
 | 2022-10-31 | 1974 | 1121 | 
 | 2022-10-30 | 1973 | 1121 | 
 | 2022-10-29 | 1973 | 1119 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1939 | 1093 | 
 | 2022-10-04 | 1937 | 1093 | 
 | 2022-10-03 | 1935 | 1091 | 
-| 2022-10-02 | 1933 | 1091 | 
 

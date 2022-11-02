@@ -1,10 +1,10 @@
 # chrislgarry/Apollo-11 - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 6824
+☋ Forks: 6823
 
-★ Stars: 53772
+★ Stars: 53821
 
 [Open repository](https://github.com/chrislgarry/Apollo-11)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 53821 | 6823 | 
 | 2022-10-31 | 53772 | 6824 | 
 | 2022-10-30 | 53760 | 6824 | 
 | 2022-10-29 | 53749 | 6823 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 53618 | 6808 | 
 | 2022-10-04 | 53611 | 6808 | 
 | 2022-10-03 | 53598 | 6805 | 
-| 2022-10-02 | 53595 | 6804 | 
 

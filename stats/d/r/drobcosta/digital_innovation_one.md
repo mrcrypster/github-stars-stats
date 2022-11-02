@@ -1,6 +1,6 @@
 # drobcosta/digital_innovation_one - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 264 | 358 | 
 | 2022-11-01 | 264 | 358 | 
 | 2022-10-30 | 262 | 358 | 
 | 2022-10-29 | 262 | 357 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 259 | 354 | 
 | 2022-10-04 | 257 | 354 | 
 | 2022-10-03 | 257 | 354 | 
-| 2022-10-02 | 257 | 354 | 
 

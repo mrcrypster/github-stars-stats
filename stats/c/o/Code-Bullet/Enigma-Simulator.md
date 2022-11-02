@@ -1,6 +1,6 @@
 # Code-Bullet/Enigma-Simulator - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 416 | 134 | 
 | 2022-10-31 | 416 | 134 | 
 | 2022-10-30 | 416 | 133 | 
 | 2022-10-29 | 416 | 133 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 415 | 134 | 
 | 2022-10-04 | 415 | 134 | 
 | 2022-10-03 | 415 | 134 | 
-| 2022-10-02 | 416 | 134 | 
 

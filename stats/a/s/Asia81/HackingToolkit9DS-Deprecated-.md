@@ -1,6 +1,6 @@
 # Asia81/HackingToolkit9DS-Deprecated- - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 183 | 59 | 
 | 2022-10-31 | 183 | 59 | 
 | 2022-10-30 | 183 | 59 | 
 | 2022-10-29 | 183 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 181 | 59 | 
 | 2022-10-04 | 181 | 59 | 
 | 2022-10-03 | 180 | 59 | 
-| 2022-10-02 | 180 | 59 | 
 

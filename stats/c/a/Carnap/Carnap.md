@@ -1,10 +1,10 @@
 # Carnap/Carnap - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 23
 
-★ Stars: 214
+★ Stars: 213
 
 [Open repository](https://github.com/Carnap/Carnap)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 213 | 23 | 
 | 2022-10-31 | 214 | 23 | 
 | 2022-10-30 | 214 | 23 | 
 | 2022-10-29 | 214 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 212 | 23 | 
 | 2022-10-04 | 212 | 23 | 
 | 2022-10-03 | 211 | 23 | 
-| 2022-10-02 | 211 | 23 | 
 

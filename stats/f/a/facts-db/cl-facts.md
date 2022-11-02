@@ -1,10 +1,10 @@
 # facts-db/cl-facts - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 3
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/facts-db/cl-facts)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 52 | 3 | 
 | 2022-10-31 | 51 | 3 | 
 | 2022-10-30 | 51 | 3 | 
 

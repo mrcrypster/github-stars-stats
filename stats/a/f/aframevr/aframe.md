@@ -1,10 +1,10 @@
 # aframevr/aframe - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 3577
+☋ Forks: 3578
 
-★ Stars: 14678
+★ Stars: 14684
 
 [Open repository](https://github.com/aframevr/aframe)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 14684 | 3578 | 
 | 2022-10-31 | 14678 | 3577 | 
 | 2022-10-30 | 14679 | 3574 | 
 | 2022-10-29 | 14676 | 3574 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 14612 | 3541 | 
 | 2022-10-04 | 14601 | 3540 | 
 | 2022-10-03 | 14596 | 3540 | 
-| 2022-10-02 | 14595 | 3541 | 
 

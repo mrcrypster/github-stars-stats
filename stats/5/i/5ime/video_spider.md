@@ -1,10 +1,10 @@
 # 5ime/video_spider - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 370
+☋ Forks: 371
 
-★ Stars: 1184
+★ Stars: 1187
 
 [Open repository](https://github.com/5ime/video_spider)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1187 | 371 | 
 | 2022-11-01 | 1184 | 370 | 
 | 2022-10-31 | 1181 | 369 | 
 | 2022-10-30 | 1179 | 368 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 1147 | 360 | 
 | 2022-10-04 | 1144 | 360 | 
 | 2022-10-03 | 1143 | 360 | 
-| 2022-10-02 | 1140 | 360 | 
 

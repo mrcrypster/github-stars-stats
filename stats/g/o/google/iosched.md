@@ -1,10 +1,10 @@
 # google/iosched - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 6284
 
-★ Stars: 21676
+★ Stars: 21677
 
 [Open repository](https://github.com/google/iosched)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 21677 | 6284 | 
 | 2022-10-31 | 21676 | 6284 | 
 | 2022-10-30 | 21673 | 6283 | 
 | 2022-10-29 | 21666 | 6281 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 21644 | 6280 | 
 | 2022-10-04 | 21643 | 6279 | 
 | 2022-10-03 | 21641 | 6279 | 
-| 2022-10-02 | 21641 | 6278 | 
 

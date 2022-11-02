@@ -1,10 +1,10 @@
 # MahdiMashrur/Awesome-Application-Security-Checklist - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 37
 
-★ Stars: 440
+★ Stars: 441
 
 [Open repository](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 441 | 37 | 
 | 2022-10-31 | 440 | 37 | 
 | 2022-10-30 | 440 | 37 | 
 | 2022-10-29 | 440 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 401 | 33 | 
 | 2022-10-04 | 402 | 33 | 
 | 2022-10-03 | 400 | 33 | 
-| 2022-10-02 | 400 | 33 | 
 

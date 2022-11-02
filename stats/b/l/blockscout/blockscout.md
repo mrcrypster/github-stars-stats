@@ -1,10 +1,10 @@
 # blockscout/blockscout - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1230
+☋ Forks: 1234
 
-★ Stars: 2043
+★ Stars: 2050
 
 [Open repository](https://github.com/blockscout/blockscout)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2050 | 1234 | 
 | 2022-10-31 | 2043 | 1230 | 
 | 2022-10-30 | 2042 | 1231 | 
 | 2022-10-29 | 2042 | 1231 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1987 | 1186 | 
 | 2022-10-04 | 1986 | 1185 | 
 | 2022-10-03 | 1986 | 1185 | 
-| 2022-10-02 | 1986 | 1184 | 
 

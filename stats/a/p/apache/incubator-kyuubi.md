@@ -1,10 +1,10 @@
 # apache/incubator-kyuubi - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 479
+☋ Forks: 480
 
-★ Stars: 1266
+★ Stars: 1267
 
 [Open repository](https://github.com/apache/incubator-kyuubi)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1267 | 480 | 
 | 2022-10-31 | 1266 | 479 | 
 | 2022-10-30 | 1265 | 478 | 
 | 2022-10-29 | 1265 | 479 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1228 | 457 | 
 | 2022-10-04 | 1228 | 457 | 
 | 2022-10-03 | 1228 | 457 | 
-| 2022-10-02 | 1227 | 455 | 
 

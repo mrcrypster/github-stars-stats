@@ -1,10 +1,10 @@
 # CareyWang/sub-web - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 1331
 
-★ Stars: 2687
+★ Stars: 2688
 
 [Open repository](https://github.com/CareyWang/sub-web)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2688 | 1331 | 
 | 2022-10-31 | 2687 | 1331 | 
 | 2022-10-30 | 2679 | 1331 | 
 | 2022-10-29 | 2679 | 1330 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 2581 | 1306 | 
 | 2022-10-04 | 2580 | 1307 | 
 | 2022-10-03 | 2580 | 1306 | 
-| 2022-10-02 | 2578 | 1305 | 
 

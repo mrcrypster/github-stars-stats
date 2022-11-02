@@ -1,10 +1,10 @@
 # facebook/yoga - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1336
+☋ Forks: 1335
 
-★ Stars: 15667
+★ Stars: 15672
 
 [Open repository](https://github.com/facebook/yoga)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 15672 | 1335 | 
 | 2022-10-31 | 15667 | 1336 | 
 | 2022-10-30 | 15667 | 1335 | 
 | 2022-10-29 | 15666 | 1336 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 15574 | 1333 | 
 | 2022-10-04 | 15573 | 1333 | 
 | 2022-10-03 | 15570 | 1331 | 
-| 2022-10-02 | 15570 | 1330 | 
 

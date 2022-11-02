@@ -1,10 +1,10 @@
 # yeahwu/v2ray-wss - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 145
 
-★ Stars: 596
+★ Stars: 598
 
 [Open repository](https://github.com/yeahwu/v2ray-wss)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 598 | 145 | 
 | 2022-10-31 | 596 | 145 | 
 | 2022-10-30 | 589 | 145 | 
 | 2022-10-29 | 532 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 449 | 126 | 
 | 2022-10-05 | 449 | 126 | 
 | 2022-10-03 | 448 | 126 | 
-| 2022-10-02 | 444 | 123 | 
 

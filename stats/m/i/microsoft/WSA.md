@@ -1,10 +1,10 @@
 # microsoft/WSA - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 52
+☋ Forks: 54
 
-★ Stars: 390
+★ Stars: 392
 
 [Open repository](https://github.com/microsoft/WSA)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 392 | 54 | 
 | 2022-10-31 | 390 | 52 | 
 | 2022-10-30 | 386 | 48 | 
 | 2022-10-29 | 382 | 45 | 

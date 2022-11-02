@@ -1,10 +1,10 @@
 # balena-os/balena-asus-tinker-board - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 0
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/balena-os/balena-asus-tinker-board)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 7 | - | 
 | 2022-10-31 | 6 | - | 
 | 2022-10-30 | 6 | - | 
 | 2022-10-29 | 6 | - | 

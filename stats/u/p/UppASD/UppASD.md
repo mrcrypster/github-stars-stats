@@ -1,10 +1,10 @@
 # UppASD/UppASD - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/UppASD/UppASD)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 57 | 28 | 
 | 2022-10-31 | 56 | 27 | 
 | 2022-10-30 | 56 | 27 | 
 | 2022-10-29 | 56 | 27 | 

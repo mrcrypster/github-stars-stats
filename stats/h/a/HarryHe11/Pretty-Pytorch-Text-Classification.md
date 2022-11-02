@@ -1,10 +1,10 @@
 # HarryHe11/Pretty-Pytorch-Text-Classification - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 9
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/HarryHe11/Pretty-Pytorch-Text-Classification)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 111 | 9 | 
 | 2022-10-31 | 110 | 9 | 
 | 2022-10-30 | 110 | 9 | 
 | 2022-10-29 | 110 | 9 | 

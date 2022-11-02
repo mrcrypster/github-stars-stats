@@ -1,6 +1,6 @@
 # COMP30019/Workshop-1 - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | - | 68 | 
 | 2022-10-31 | - | 68 | 
 | 2022-10-30 | - | 68 | 
 | 2022-10-29 | - | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | - | 68 | 
 | 2022-10-04 | - | 68 | 
 | 2022-10-03 | - | 68 | 
-| 2022-10-02 | - | 68 | 
 

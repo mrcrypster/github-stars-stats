@@ -1,6 +1,6 @@
 # AlreadyBored/basic-js-ds - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 3680
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 68 | 3680 | 
 | 2022-10-31 | 68 | 3680 | 
 | 2022-10-30 | 68 | 3680 | 
 | 2022-10-29 | 68 | 3680 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 62 | 2593 | 
 | 2022-10-04 | 62 | 2593 | 
 | 2022-10-03 | 62 | 2592 | 
-| 2022-10-02 | 62 | 2593 | 
 

@@ -1,10 +1,10 @@
 # libredirect/libredirect - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 55
+☋ Forks: 54
 
-★ Stars: 1582
+★ Stars: 1586
 
 [Open repository](https://github.com/libredirect/libredirect)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1586 | 54 | 
 | 2022-10-31 | 1582 | 55 | 
 | 2022-10-30 | 1581 | 56 | 
 | 2022-10-29 | 1579 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1464 | 50 | 
 | 2022-10-04 | 1457 | 50 | 
 | 2022-10-03 | 1455 | 50 | 
-| 2022-10-02 | 1450 | 49 | 
 

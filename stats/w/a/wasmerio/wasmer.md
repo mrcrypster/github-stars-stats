@@ -1,10 +1,10 @@
 # wasmerio/wasmer - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 578
+☋ Forks: 580
 
-★ Stars: 13242
+★ Stars: 13248
 
 [Open repository](https://github.com/wasmerio/wasmer)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 13248 | 580 | 
 | 2022-10-31 | 13242 | 578 | 
 | 2022-10-30 | 13238 | 576 | 
 | 2022-10-29 | 13233 | 576 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 13106 | 574 | 
 | 2022-10-04 | 13104 | 571 | 
 | 2022-10-03 | 13098 | 571 | 
-| 2022-10-02 | 13098 | 571 | 
 

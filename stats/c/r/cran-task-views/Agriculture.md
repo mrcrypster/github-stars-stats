@@ -1,10 +1,10 @@
 # cran-task-views/Agriculture - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/cran-task-views/Agriculture)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 21 | 6 | 
 | 2022-10-31 | 20 | 6 | 
 | 2022-10-30 | 20 | 6 | 
 | 2022-10-29 | 20 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 19 | 6 | 
 | 2022-10-04 | 19 | 6 | 
 | 2022-10-03 | 19 | 6 | 
-| 2022-10-02 | 19 | 6 | 
 

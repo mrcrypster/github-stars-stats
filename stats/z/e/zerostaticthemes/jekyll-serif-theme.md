@@ -1,6 +1,6 @@
 # zerostaticthemes/jekyll-serif-theme - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 517
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 489 | 517 | 
 | 2022-10-31 | 489 | 517 | 
 | 2022-10-30 | 489 | 518 | 
 | 2022-10-29 | 489 | 516 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 479 | 502 | 
 | 2022-10-04 | 478 | 502 | 
 | 2022-10-03 | 479 | 502 | 
-| 2022-10-02 | 479 | 502 | 
 

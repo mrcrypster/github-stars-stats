@@ -1,10 +1,10 @@
 # CoderLeixiaoshuai/java-eight-part - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 590
 
-★ Stars: 2638
+★ Stars: 2639
 
 [Open repository](https://github.com/CoderLeixiaoshuai/java-eight-part)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2639 | 590 | 
 | 2022-10-31 | 2638 | 590 | 
 | 2022-10-30 | 2634 | 589 | 
 | 2022-10-29 | 2630 | 589 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 2519 | 557 | 
 | 2022-10-04 | 2516 | 557 | 
 | 2022-10-03 | 2516 | 557 | 
-| 2022-10-02 | 2514 | 555 | 
 

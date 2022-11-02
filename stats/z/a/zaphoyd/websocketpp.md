@@ -1,8 +1,8 @@
 # zaphoyd/websocketpp - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1761
+☋ Forks: 1762
 
 ★ Stars: 5866
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 5866 | 1762 | 
 | 2022-10-31 | 5866 | 1761 | 
 | 2022-10-30 | 5866 | 1761 | 
 | 2022-10-29 | 5865 | 1761 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 5826 | 1746 | 
 | 2022-10-04 | 5823 | 1746 | 
 | 2022-10-03 | 5822 | 1745 | 
-| 2022-10-02 | 5821 | 1744 | 
 

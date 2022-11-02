@@ -1,10 +1,10 @@
 # Pixeval/Pixeval - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 168
 
-★ Stars: 1734
+★ Stars: 1738
 
 [Open repository](https://github.com/Pixeval/Pixeval)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1738 | 168 | 
 | 2022-10-31 | 1734 | 168 | 
 | 2022-10-30 | 1731 | 168 | 
 | 2022-10-29 | 1732 | 168 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1710 | 164 | 
 | 2022-10-04 | 1708 | 164 | 
 | 2022-10-03 | 1707 | 164 | 
-| 2022-10-02 | 1707 | 164 | 
 

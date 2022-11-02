@@ -1,10 +1,10 @@
 # wmjordan/PDFPatcher - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1060
+☋ Forks: 1061
 
-★ Stars: 6409
+★ Stars: 6414
 
 [Open repository](https://github.com/wmjordan/PDFPatcher)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 6414 | 1061 | 
 | 2022-10-31 | 6409 | 1060 | 
 | 2022-10-30 | 6403 | 1060 | 
 | 2022-10-29 | 6399 | 1060 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 6316 | 1050 | 
 | 2022-10-05 | 6310 | 1050 | 
 | 2022-10-04 | 6305 | 1049 | 
-| 2022-10-03 | 6300 | 1049 | 
 

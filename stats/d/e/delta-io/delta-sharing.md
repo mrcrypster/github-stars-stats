@@ -1,10 +1,10 @@
 # delta-io/delta-sharing - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 95
 
-★ Stars: 463
+★ Stars: 465
 
 [Open repository](https://github.com/delta-io/delta-sharing)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 465 | 95 | 
 | 2022-10-31 | 463 | 95 | 
 | 2022-10-30 | 463 | 95 | 
 | 2022-10-29 | 463 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 458 | 93 | 
 | 2022-10-04 | 458 | 93 | 
 | 2022-10-03 | 458 | 93 | 
-| 2022-10-02 | 458 | 93 | 
 

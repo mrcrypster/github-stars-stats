@@ -1,8 +1,8 @@
 # YiiGuxing/TranslationPlugin - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 677
+☋ Forks: 678
 
 ★ Stars: 9175
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 9175 | 678 | 
 | 2022-10-31 | 9175 | 677 | 
 | 2022-10-30 | 9170 | 676 | 
 | 2022-10-29 | 9169 | 675 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 9024 | 667 | 
 | 2022-10-04 | 9022 | 667 | 
 | 2022-10-03 | 9019 | 666 | 
-| 2022-10-02 | 9015 | 666 | 
 

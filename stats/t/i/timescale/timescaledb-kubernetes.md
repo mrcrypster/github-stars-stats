@@ -1,10 +1,10 @@
 # timescale/timescaledb-kubernetes - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 182
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/timescale/timescaledb-kubernetes)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 228 | 182 | 
 | 2022-10-31 | 227 | 182 | 
 | 2022-10-30 | 227 | 182 | 
 | 2022-10-29 | 227 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 222 | 176 | 
 | 2022-10-04 | 222 | 176 | 
 | 2022-10-03 | 222 | 176 | 
-| 2022-10-02 | 222 | 176 | 
 

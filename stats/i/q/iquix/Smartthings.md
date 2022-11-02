@@ -1,6 +1,6 @@
 # iquix/Smartthings - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 392
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 48 | 392 | 
 | 2022-10-31 | 48 | 392 | 
 | 2022-10-30 | 48 | 392 | 
 | 2022-10-29 | 48 | 390 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 47 | 385 | 
 | 2022-10-04 | 47 | 386 | 
 | 2022-10-03 | 47 | 386 | 
-| 2022-10-02 | 47 | 386 | 
 

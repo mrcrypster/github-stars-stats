@@ -1,6 +1,6 @@
 # ArkEcosystem/docs - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 9 | 9 | 
 | 2022-10-31 | 9 | 9 | 
 | 2022-10-30 | 9 | 9 | 
 | 2022-10-29 | 9 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 9 | 10 | 
 | 2022-10-04 | 9 | 10 | 
 | 2022-10-03 | 9 | 10 | 
-| 2022-10-02 | 9 | 10 | 
 

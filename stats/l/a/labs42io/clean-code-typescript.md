@@ -1,10 +1,10 @@
 # labs42io/clean-code-typescript - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 832
+☋ Forks: 834
 
-★ Stars: 6712
+★ Stars: 6715
 
 [Open repository](https://github.com/labs42io/clean-code-typescript)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 6715 | 834 | 
 | 2022-10-31 | 6712 | 832 | 
 | 2022-10-30 | 6701 | 830 | 
 | 2022-10-29 | 6701 | 830 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 6605 | 821 | 
 | 2022-10-04 | 6604 | 820 | 
 | 2022-10-03 | 6597 | 820 | 
-| 2022-10-02 | 6596 | 820 | 
 

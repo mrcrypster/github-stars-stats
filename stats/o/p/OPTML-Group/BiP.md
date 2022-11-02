@@ -1,10 +1,10 @@
 # OPTML-Group/BiP - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 32
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/OPTML-Group/BiP)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 121 | 32 | 
 | 2022-10-31 | 120 | 32 | 
 | 2022-10-30 | 120 | 32 | 
 | 2022-10-29 | 120 | 32 | 

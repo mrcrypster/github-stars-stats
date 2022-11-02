@@ -1,10 +1,10 @@
 # dusty-nv/jetson-containers - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 226
 
-★ Stars: 721
+★ Stars: 722
 
 [Open repository](https://github.com/dusty-nv/jetson-containers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 722 | 226 | 
 | 2022-11-01 | 721 | 226 | 
 | 2022-10-31 | 719 | 226 | 
 | 2022-10-30 | 719 | 226 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 697 | 224 | 
 | 2022-10-04 | 695 | 224 | 
 | 2022-10-03 | 694 | 224 | 
-| 2022-10-02 | 693 | 224 | 
 

@@ -1,8 +1,8 @@
 # liaozhelin/yds-charger - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 91
+☋ Forks: 92
 
 ★ Stars: 403
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 403 | 92 | 
 | 2022-10-31 | 403 | 91 | 
 | 2022-10-30 | 402 | 90 | 
 | 2022-10-29 | 401 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 374 | 87 | 
 | 2022-10-04 | 374 | 87 | 
 | 2022-10-03 | 373 | 87 | 
-| 2022-10-02 | 372 | 87 | 
 

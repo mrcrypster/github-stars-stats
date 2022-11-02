@@ -1,10 +1,10 @@
 # bambash/helm-cronjobs - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 92
 
-★ Stars: 154
+★ Stars: 157
 
 [Open repository](https://github.com/bambash/helm-cronjobs)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 157 | 92 | 
 | 2022-10-31 | 154 | 92 | 
 | 2022-10-30 | 154 | 92 | 
 | 2022-10-29 | 154 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 153 | 92 | 
 | 2022-10-04 | 153 | 92 | 
 | 2022-10-03 | 153 | 92 | 
-| 2022-10-02 | 153 | 92 | 
 

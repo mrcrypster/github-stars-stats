@@ -1,10 +1,10 @@
 # kishandiemm/single-page-website - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 02
 
-☋ Forks: 19
+☋ Forks: 23
 
-★ Stars: 20
+★ Stars: 26
 
 [Open repository](https://github.com/kishandiemm/single-page-website)
 
@@ -13,6 +13,8 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 26 | 23 | 
+| 2022-11-01 | 26 | 23 | 
 | 2022-10-31 | 20 | 19 | 
 | 2022-10-30 | 20 | 19 | 
 | 2022-10-29 | 20 | 19 | 

@@ -1,10 +1,10 @@
 # bradtraversy/vanillawebprojects - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 3940
 
-★ Stars: 13756
+★ Stars: 13759
 
 [Open repository](https://github.com/bradtraversy/vanillawebprojects)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 13759 | 3940 | 
 | 2022-10-31 | 13756 | 3940 | 
 | 2022-10-30 | 13752 | 3940 | 
 | 2022-10-29 | 13749 | 3940 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 13587 | 3890 | 
 | 2022-10-04 | 13585 | 3889 | 
 | 2022-10-03 | 13585 | 3889 | 
-| 2022-10-02 | 13579 | 3887 | 
 

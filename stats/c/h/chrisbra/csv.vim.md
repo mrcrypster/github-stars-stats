@@ -1,8 +1,8 @@
 # chrisbra/csv.vim - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 55
+☋ Forks: 54
 
 ★ Stars: 1129
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1129 | 54 | 
 | 2022-10-31 | 1129 | 55 | 
 | 2022-10-30 | 1129 | 55 | 
 | 2022-10-29 | 1130 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1128 | 56 | 
 | 2022-10-04 | 1128 | 56 | 
 | 2022-10-03 | 1127 | 56 | 
-| 2022-10-02 | 1126 | 56 | 
 

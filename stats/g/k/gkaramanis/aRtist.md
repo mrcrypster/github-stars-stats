@@ -1,6 +1,6 @@
 # gkaramanis/aRtist - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 167 | 17 | 
 | 2022-11-01 | 167 | 17 | 
 | 2022-10-31 | 167 | 17 | 
 | 2022-10-30 | 167 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 166 | 17 | 
 | 2022-10-04 | 165 | 17 | 
 | 2022-10-03 | 165 | 17 | 
-| 2022-10-02 | 165 | 17 | 
 

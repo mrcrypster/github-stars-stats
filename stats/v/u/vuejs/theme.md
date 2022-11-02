@@ -1,10 +1,10 @@
 # vuejs/theme - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 56
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/vuejs/theme)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 128 | 56 | 
 | 2022-10-31 | 127 | 56 | 
 | 2022-10-30 | 127 | 56 | 
 | 2022-10-29 | 127 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 124 | 51 | 
 | 2022-10-04 | 124 | 51 | 
 | 2022-10-03 | 124 | 51 | 
-| 2022-10-02 | 123 | 50 | 
 

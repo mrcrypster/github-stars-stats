@@ -1,10 +1,10 @@
 # ardalis/CleanArchitecture - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2094
+☋ Forks: 2095
 
-★ Stars: 11342
+★ Stars: 11355
 
 [Open repository](https://github.com/ardalis/CleanArchitecture)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 11355 | 2095 | 
 | 2022-10-31 | 11342 | 2094 | 
 | 2022-10-30 | 11343 | 2093 | 
 | 2022-10-29 | 11336 | 2091 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 11177 | 2061 | 
 | 2022-10-04 | 11172 | 2059 | 
 | 2022-10-03 | 11166 | 2057 | 
-| 2022-10-02 | 11154 | 2057 | 
 

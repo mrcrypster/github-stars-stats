@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 01
 
 ☋ Forks: 358
 
-★ Stars: 331
+★ Stars: 332
 
 [Open repository](https://github.com/husky/husky)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-01 | 331 | 358 | 
+| 2022-11-01 | 332 | 358 | 
 | 2022-10-31 | 331 | 358 | 
 | 2022-10-30 | 331 | 356 | 
 | 2022-10-29 | 331 | 356 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 325 | 353 | 
 | 2022-10-05 | 325 | 353 | 
 | 2022-10-04 | 325 | 352 | 
-| 2022-10-03 | 325 | 352 | 
 

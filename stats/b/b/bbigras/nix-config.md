@@ -1,10 +1,10 @@
 # bbigras/nix-config - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/bbigras/nix-config)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 35 | 2 | 
 | 2022-10-31 | 34 | 2 | 
 | 2022-10-30 | 34 | 2 | 
 

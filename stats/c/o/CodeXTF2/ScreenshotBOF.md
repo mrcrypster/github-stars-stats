@@ -1,10 +1,10 @@
 # CodeXTF2/ScreenshotBOF - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 202
+★ Stars: 207
 
 [Open repository](https://github.com/CodeXTF2/ScreenshotBOF)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 207 | 31 | 
 | 2022-10-31 | 202 | 30 | 
 | 2022-10-30 | 199 | 29 | 
 | 2022-10-29 | 197 | 28 | 

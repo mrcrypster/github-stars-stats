@@ -1,8 +1,8 @@
 # ROM-builders/temporary - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 732
+☋ Forks: 731
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 86 | 731 | 
 | 2022-10-31 | 86 | 732 | 
 | 2022-10-30 | 86 | 732 | 
 | 2022-10-29 | 85 | 730 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 87 | 700 | 
 | 2022-10-04 | 87 | 698 | 
 | 2022-10-03 | 86 | 697 | 
-| 2022-10-02 | 85 | 696 | 
 

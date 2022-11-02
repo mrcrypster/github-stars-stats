@@ -1,10 +1,10 @@
 # DustinBrett/daedalOS - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 365
+☋ Forks: 368
 
-★ Stars: 5594
+★ Stars: 5595
 
 [Open repository](https://github.com/DustinBrett/daedalOS)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 5595 | 368 | 
 | 2022-10-31 | 5594 | 365 | 
 | 2022-10-30 | 5592 | 366 | 
 | 2022-10-29 | 5590 | 366 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 5457 | 351 | 
 | 2022-10-05 | 5446 | 350 | 
 | 2022-10-04 | 5443 | 349 | 
-| 2022-10-02 | 5440 | 349 | 
 

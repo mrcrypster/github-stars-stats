@@ -1,6 +1,6 @@
 # M1k3G0/Win10_LTSC_VP9_Installer - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 58 | 16 | 
 | 2022-10-31 | 58 | 16 | 
 | 2022-10-30 | 58 | 16 | 
 | 2022-10-29 | 58 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 56 | 15 | 
 | 2022-10-04 | 56 | 15 | 
 | 2022-10-03 | 56 | 15 | 
-| 2022-10-02 | 56 | 15 | 
 

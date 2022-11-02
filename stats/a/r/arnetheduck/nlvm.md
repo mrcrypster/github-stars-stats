@@ -1,10 +1,10 @@
 # arnetheduck/nlvm - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 35
 
-★ Stars: 533
+★ Stars: 535
 
 [Open repository](https://github.com/arnetheduck/nlvm)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 535 | 35 | 
 | 2022-10-31 | 533 | 35 | 
 | 2022-10-30 | 532 | 35 | 
 | 2022-10-29 | 531 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 524 | 36 | 
 | 2022-10-04 | 524 | 36 | 
 | 2022-10-03 | 524 | 36 | 
-| 2022-10-02 | 524 | 36 | 
 

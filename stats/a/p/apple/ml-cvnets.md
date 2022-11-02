@@ -1,10 +1,10 @@
 # apple/ml-cvnets - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 131
 
-★ Stars: 1064
+★ Stars: 1068
 
 [Open repository](https://github.com/apple/ml-cvnets)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1068 | 131 | 
 | 2022-10-31 | 1064 | 131 | 
 | 2022-10-30 | 1064 | 131 | 
 | 2022-10-29 | 1063 | 131 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 1028 | 127 | 
 | 2022-10-04 | 1025 | 127 | 
 | 2022-10-03 | 1022 | 125 | 
-| 2022-10-02 | 1022 | 125 | 
 

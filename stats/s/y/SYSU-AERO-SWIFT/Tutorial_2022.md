@@ -1,6 +1,6 @@
 # SYSU-AERO-SWIFT/Tutorial_2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 11 | 20 | 
 | 2022-11-01 | 11 | 20 | 
 | 2022-10-31 | 11 | 20 | 
 | 2022-10-30 | 11 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 11 | 21 | 
 | 2022-10-04 | 11 | 21 | 
 | 2022-10-03 | 11 | 21 | 
-| 2022-10-02 | 11 | 21 | 
 

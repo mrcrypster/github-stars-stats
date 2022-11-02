@@ -1,10 +1,10 @@
 # Prowlarr/Prowlarr - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 92
 
-★ Stars: 1774
+★ Stars: 1775
 
 [Open repository](https://github.com/Prowlarr/Prowlarr)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 1775 | 92 | 
 | 2022-10-31 | 1774 | 92 | 
 | 2022-10-30 | 1774 | 91 | 
 | 2022-10-29 | 1769 | 92 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 1711 | 87 | 
 | 2022-10-05 | 1707 | 87 | 
 | 2022-10-04 | 1704 | 87 | 
-| 2022-10-03 | 1702 | 87 | 
 

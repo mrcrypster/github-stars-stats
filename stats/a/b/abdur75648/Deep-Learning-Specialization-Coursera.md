@@ -1,10 +1,10 @@
 # abdur75648/Deep-Learning-Specialization-Coursera - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 140
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 121 | 140 | 
 | 2022-11-01 | 120 | 140 | 
 | 2022-10-31 | 119 | 137 | 
 | 2022-10-30 | 119 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-05 | 101 | 115 | 
 | 2022-10-04 | 100 | 115 | 
 | 2022-10-03 | 99 | 114 | 
-| 2022-10-02 | 98 | 114 | 
 

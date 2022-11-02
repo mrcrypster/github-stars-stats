@@ -1,6 +1,6 @@
 # CloudHealth/terraform-cloudhealth-iam - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 24 | 26 | 
 | 2022-10-31 | 24 | 26 | 
 | 2022-10-30 | 24 | 26 | 
 | 2022-10-29 | 24 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 24 | 26 | 
 | 2022-10-04 | 24 | 26 | 
 | 2022-10-03 | 24 | 26 | 
-| 2022-10-02 | 24 | 26 | 
 

@@ -1,8 +1,8 @@
 # serenity-bdd/serenity-core - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 472
+☋ Forks: 473
 
 ★ Stars: 647
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 647 | 473 | 
 | 2022-10-31 | 647 | 472 | 
 | 2022-10-30 | 647 | 473 | 
 | 2022-10-29 | 647 | 474 | 

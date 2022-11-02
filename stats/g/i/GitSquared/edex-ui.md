@@ -1,10 +1,10 @@
 # GitSquared/edex-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2137
+☋ Forks: 2138
 
-★ Stars: 36207
+★ Stars: 36213
 
 [Open repository](https://github.com/GitSquared/edex-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 36213 | 2138 | 
 | 2022-10-31 | 36207 | 2137 | 
 | 2022-10-30 | 36199 | 2136 | 
 | 2022-10-29 | 36195 | 2137 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 36070 | 2125 | 
 | 2022-10-05 | 36063 | 2125 | 
 | 2022-10-04 | 36063 | 2125 | 
-| 2022-10-03 | 36057 | 2124 | 
 

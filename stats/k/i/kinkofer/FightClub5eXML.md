@@ -1,6 +1,6 @@
 # kinkofer/FightClub5eXML - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 358
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 541 | 358 | 
 | 2022-10-31 | 541 | 358 | 
 | 2022-10-30 | 540 | 358 | 
 | 2022-10-29 | 540 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 537 | 353 | 
 | 2022-10-04 | 536 | 353 | 
 | 2022-10-03 | 536 | 353 | 
-| 2022-10-02 | 536 | 353 | 
 

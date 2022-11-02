@@ -1,8 +1,8 @@
 # racket/racket - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 625
+☋ Forks: 624
 
 ★ Stars: 4383
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 4383 | 624 | 
 | 2022-10-31 | 4383 | 625 | 
 | 2022-10-30 | 4381 | 623 | 
 | 2022-10-29 | 4381 | 623 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 4361 | 622 | 
 | 2022-10-04 | 4361 | 622 | 
 | 2022-10-03 | 4360 | 622 | 
-| 2022-10-02 | 4360 | 623 | 
 

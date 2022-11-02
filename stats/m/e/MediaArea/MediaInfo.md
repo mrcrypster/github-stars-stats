@@ -1,6 +1,6 @@
 # MediaArea/MediaInfo - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 845 | 112 | 
 | 2022-10-31 | 845 | 112 | 
 | 2022-10-30 | 844 | 112 | 
 | 2022-10-29 | 844 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 823 | 108 | 
 | 2022-10-04 | 823 | 108 | 
 | 2022-10-03 | 822 | 107 | 
-| 2022-10-02 | 821 | 107 | 
 

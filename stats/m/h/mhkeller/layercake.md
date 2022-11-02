@@ -1,6 +1,6 @@
 # mhkeller/layercake - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 682 | 24 | 
 | 2022-10-31 | 682 | 24 | 
 | 2022-10-30 | 681 | 24 | 
 | 2022-10-29 | 681 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-06 | 665 | 23 | 
 | 2022-10-05 | 662 | 23 | 
 | 2022-10-04 | 662 | 23 | 
-| 2022-10-03 | 660 | 23 | 
 

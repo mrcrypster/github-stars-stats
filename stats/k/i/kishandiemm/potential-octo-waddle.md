@@ -1,10 +1,10 @@
 # kishandiemm/potential-octo-waddle - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 20
+★ Stars: 25
 
 [Open repository](https://github.com/kishandiemm/potential-octo-waddle)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 25 | 25 | 
 | 2022-10-31 | 20 | 21 | 
 | 2022-10-30 | 20 | 21 | 
 | 2022-10-29 | 20 | 21 | 

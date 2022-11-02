@@ -1,10 +1,10 @@
 # dsacademybr/PythonFundamentos - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2532
+☋ Forks: 2535
 
-★ Stars: 1998
+★ Stars: 2000
 
 [Open repository](https://github.com/dsacademybr/PythonFundamentos)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 2000 | 2535 | 
 | 2022-10-31 | 1998 | 2532 | 
 | 2022-10-30 | 1996 | 2531 | 
 | 2022-10-29 | 1996 | 2530 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 1965 | 2520 | 
 | 2022-10-04 | 1960 | 2515 | 
 | 2022-10-03 | 1959 | 2513 | 
-| 2022-10-02 | 1958 | 2514 | 
 

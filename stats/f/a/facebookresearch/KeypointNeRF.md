@@ -1,10 +1,10 @@
 # facebookresearch/KeypointNeRF - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 15
+☋ Forks: 17
 
-★ Stars: 259
+★ Stars: 261
 
 [Open repository](https://github.com/facebookresearch/KeypointNeRF)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 261 | 17 | 
 | 2022-10-31 | 259 | 15 | 
 | 2022-10-30 | 256 | 15 | 
 | 2022-10-29 | 256 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 224 | 14 | 
 | 2022-10-04 | 223 | 14 | 
 | 2022-10-03 | 222 | 14 | 
-| 2022-10-02 | 219 | 14 | 
 

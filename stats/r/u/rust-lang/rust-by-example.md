@@ -1,10 +1,10 @@
 # rust-lang/rust-by-example - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1063
+☋ Forks: 1064
 
-★ Stars: 5221
+★ Stars: 5226
 
 [Open repository](https://github.com/rust-lang/rust-by-example)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 5226 | 1064 | 
 | 2022-10-31 | 5221 | 1063 | 
 | 2022-10-30 | 5220 | 1063 | 
 | 2022-10-29 | 5215 | 1063 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 5133 | 1041 | 
 | 2022-10-04 | 5130 | 1040 | 
 | 2022-10-03 | 5125 | 1039 | 
-| 2022-10-02 | 5124 | 1039 | 
 

@@ -1,10 +1,10 @@
 # LLK/scratch-gui - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 2729
+☋ Forks: 2731
 
-★ Stars: 3626
+★ Stars: 3629
 
 [Open repository](https://github.com/LLK/scratch-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 3629 | 2731 | 
 | 2022-10-31 | 3626 | 2729 | 
 | 2022-10-30 | 3624 | 2727 | 
 | 2022-10-29 | 3624 | 2725 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 3597 | 2701 | 
 | 2022-10-04 | 3597 | 2698 | 
 | 2022-10-03 | 3596 | 2697 | 
-| 2022-10-02 | 3596 | 2697 | 
 

@@ -1,6 +1,6 @@
 # readpage/undraw-ui - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 172 | 6 | 
 | 2022-10-31 | 172 | 6 | 
 | 2022-10-30 | 171 | 6 | 
 | 2022-10-29 | 171 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 129 | 3 | 
 | 2022-10-04 | 124 | 3 | 
 | 2022-10-03 | 120 | 3 | 
-| 2022-10-02 | 118 | 3 | 
 

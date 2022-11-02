@@ -1,8 +1,8 @@
 # onolab-tmu/TFLCbeamformer - stars & forks statistics
 
-Stats updated on Oct 2022, 31
+Stats updated on Nov 2022, 01
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Oct 2022, 31
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-01 | 7 | 2 | 
 | 2022-10-31 | 7 | 1 | 
 | 2022-10-30 | 7 | 1 | 
 | 2022-10-29 | 7 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Oct 2022, 31
 | 2022-10-05 | 7 | 1 | 
 | 2022-10-04 | 7 | 1 | 
 | 2022-10-03 | 7 | 1 | 
-| 2022-10-02 | 7 | 1 | 
 

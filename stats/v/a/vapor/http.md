@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 01
 
 ☋ Forks: 70
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/vapor/http)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-01 | 235 | 70 | 
+| 2022-11-01 | 236 | 70 | 
 | 2022-10-31 | 235 | 70 | 
 | 2022-10-30 | 235 | 70 | 
 | 2022-10-29 | 235 | 70 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 235 | 70 | 
 | 2022-10-05 | 235 | 70 | 
 | 2022-10-03 | 235 | 70 | 
-| 2022-10-02 | 235 | 70 | 
 
