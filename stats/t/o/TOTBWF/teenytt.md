@@ -1,6 +1,6 @@
 # TOTBWF/teenytt - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 25 | 2 | 
 | 2022-11-01 | 25 | 2 | 
 | 2022-10-31 | 25 | 2 | 
 | 2022-10-30 | 25 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 25 | 2 | 
 | 2022-10-06 | 25 | 2 | 
 | 2022-10-05 | 25 | 2 | 
-| 2022-10-04 | 25 | 2 | 
 

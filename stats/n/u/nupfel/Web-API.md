@@ -1,6 +1,6 @@
 # nupfel/Web-API - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 8 | 6 | 
 | 2022-11-01 | 8 | 6 | 
 | 2022-10-31 | 8 | 6 | 
 | 2022-10-30 | 8 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 8 | 6 | 
 | 2022-10-05 | 8 | 6 | 
 | 2022-10-04 | 8 | 6 | 
-| 2022-10-03 | 8 | 6 | 
 

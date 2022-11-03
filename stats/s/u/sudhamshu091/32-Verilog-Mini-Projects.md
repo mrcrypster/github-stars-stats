@@ -1,10 +1,10 @@
 # sudhamshu091/32-Verilog-Mini-Projects - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 63
 
-★ Stars: 165
+★ Stars: 167
 
 [Open repository](https://github.com/sudhamshu091/32-Verilog-Mini-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 167 | 63 | 
 | 2022-11-01 | 165 | 63 | 
 | 2022-10-31 | 165 | 63 | 
 | 2022-10-30 | 162 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 147 | 61 | 
 | 2022-10-05 | 147 | 61 | 
 | 2022-10-04 | 147 | 61 | 
-| 2022-10-03 | 146 | 61 | 
 

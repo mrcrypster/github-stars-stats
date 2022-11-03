@@ -1,10 +1,10 @@
 # PatWalters/practical_cheminformatics_tutorials - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 45
 
-★ Stars: 284
+★ Stars: 285
 
 [Open repository](https://github.com/PatWalters/practical_cheminformatics_tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 285 | 45 | 
 | 2022-11-01 | 284 | 45 | 
 | 2022-10-31 | 284 | 45 | 
 | 2022-10-30 | 284 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 279 | 43 | 
 | 2022-10-05 | 278 | 43 | 
 | 2022-10-04 | 278 | 43 | 
-| 2022-10-03 | 278 | 43 | 
 

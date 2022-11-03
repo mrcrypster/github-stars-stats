@@ -1,10 +1,10 @@
 # thoughtbot/administrate - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1050
 
-★ Stars: 5467
+★ Stars: 5468
 
 [Open repository](https://github.com/thoughtbot/administrate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5468 | 1050 | 
 | 2022-11-01 | 5467 | 1050 | 
 | 2022-10-31 | 5466 | 1050 | 
 | 2022-10-30 | 5466 | 1050 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 5446 | 1048 | 
 | 2022-10-05 | 5446 | 1048 | 
 | 2022-10-04 | 5444 | 1048 | 
-| 2022-10-03 | 5442 | 1048 | 
 

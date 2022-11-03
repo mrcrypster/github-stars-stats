@@ -1,6 +1,6 @@
 # w0ng/vim-hybrid - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 230
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1433 | 230 | 
 | 2022-11-01 | 1433 | 230 | 
 | 2022-10-31 | 1433 | 230 | 
 | 2022-10-30 | 1433 | 230 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1432 | 230 | 
 | 2022-10-05 | 1432 | 230 | 
 | 2022-10-04 | 1433 | 230 | 
-| 2022-10-03 | 1433 | 230 | 
 

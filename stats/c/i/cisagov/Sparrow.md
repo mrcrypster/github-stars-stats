@@ -1,10 +1,10 @@
 # cisagov/Sparrow - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 182
 
-★ Stars: 1347
+★ Stars: 1348
 
 [Open repository](https://github.com/cisagov/Sparrow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1348 | 182 | 
 | 2022-11-01 | 1347 | 182 | 
 | 2022-10-31 | 1346 | 182 | 
 | 2022-10-30 | 1346 | 182 | 

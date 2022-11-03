@@ -1,10 +1,10 @@
 # ag2s20150909/TTS - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 251
+☋ Forks: 252
 
-★ Stars: 1700
+★ Stars: 1701
 
 [Open repository](https://github.com/ag2s20150909/TTS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1701 | 252 | 
 | 2022-11-01 | 1700 | 251 | 
 | 2022-10-31 | 1696 | 251 | 
 | 2022-10-30 | 1693 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1570 | 235 | 
 | 2022-10-05 | 1564 | 235 | 
 | 2022-10-04 | 1564 | 235 | 
-| 2022-10-03 | 1560 | 234 | 
 

@@ -1,10 +1,10 @@
 # DrFlower/TowerDefense-GameFramework-Demo - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 138
+☋ Forks: 141
 
-★ Stars: 522
+★ Stars: 526
 
 [Open repository](https://github.com/DrFlower/TowerDefense-GameFramework-Demo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 526 | 141 | 
 | 2022-11-01 | 522 | 138 | 
 | 2022-10-31 | 521 | 138 | 
 | 2022-10-30 | 521 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 491 | 134 | 
 | 2022-10-05 | 491 | 134 | 
 | 2022-10-04 | 491 | 134 | 
-| 2022-10-03 | 491 | 134 | 
 

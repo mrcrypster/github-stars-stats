@@ -1,6 +1,6 @@
 # 7eu7d7/pixiv_AI_crawler - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 315 | 24 | 
 | 2022-11-01 | 315 | 24 | 
 | 2022-10-31 | 314 | 24 | 
 | 2022-10-30 | 314 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 254 | 12 | 
 | 2022-10-05 | 253 | 12 | 
 | 2022-10-04 | 252 | 12 | 
-| 2022-10-03 | 251 | 12 | 
 

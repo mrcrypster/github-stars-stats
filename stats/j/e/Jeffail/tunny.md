@@ -1,10 +1,10 @@
 # Jeffail/tunny - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 275
+☋ Forks: 277
 
-★ Stars: 3397
+★ Stars: 3399
 
 [Open repository](https://github.com/Jeffail/tunny)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 3399 | 277 | 
 | 2022-11-01 | 3397 | 275 | 
 | 2022-10-31 | 3398 | 275 | 
 | 2022-10-30 | 3397 | 275 | 

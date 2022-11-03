@@ -1,6 +1,6 @@
 # QuantlabFinancial/cpp_tip_of_the_week - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 867 | 44 | 
 | 2022-11-01 | 867 | 44 | 
 | 2022-10-31 | 865 | 44 | 
 | 2022-10-30 | 865 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 843 | 43 | 
 | 2022-10-05 | 841 | 43 | 
 | 2022-10-04 | 839 | 43 | 
-| 2022-10-03 | 839 | 43 | 
 

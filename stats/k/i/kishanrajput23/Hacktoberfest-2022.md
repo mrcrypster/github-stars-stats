@@ -1,10 +1,10 @@
 # kishanrajput23/Hacktoberfest-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 368
+☋ Forks: 367
 
-★ Stars: 195
+★ Stars: 194
 
 [Open repository](https://github.com/kishanrajput23/Hacktoberfest-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 194 | 367 | 
 | 2022-11-01 | 195 | 368 | 
 | 2022-10-31 | 196 | 368 | 
 | 2022-10-30 | 196 | 367 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 172 | 259 | 
 | 2022-10-05 | 167 | 244 | 
 | 2022-10-04 | 159 | 232 | 
-| 2022-10-03 | 160 | 232 | 
 

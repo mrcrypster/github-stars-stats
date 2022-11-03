@@ -1,6 +1,6 @@
 # redguardtoo/evil-nerd-commenter - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 356 | 32 | 
 | 2022-11-01 | 356 | 32 | 
 | 2022-10-31 | 356 | 32 | 
 | 2022-10-30 | 356 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 355 | 32 | 
 | 2022-10-05 | 355 | 32 | 
 | 2022-10-04 | 355 | 32 | 
-| 2022-10-03 | 355 | 32 | 
 

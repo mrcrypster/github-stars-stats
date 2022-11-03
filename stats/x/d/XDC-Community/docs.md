@@ -1,10 +1,10 @@
 # XDC-Community/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 22
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/XDC-Community/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5 | 22 | 
 | 2022-11-01 | 4 | 22 | 
 | 2022-10-31 | 4 | 22 | 
 | 2022-10-30 | 4 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4 | 17 | 
 | 2022-10-05 | 4 | 17 | 
 | 2022-10-04 | 4 | 17 | 
-| 2022-10-03 | 4 | 17 | 
 

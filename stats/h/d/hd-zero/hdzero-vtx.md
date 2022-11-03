@@ -1,6 +1,6 @@
 # hd-zero/hdzero-vtx - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 89 | 17 | 
 | 2022-11-01 | 89 | 17 | 
 | 2022-10-31 | 89 | 16 | 
 | 2022-10-30 | 89 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 86 | 16 | 
 | 2022-10-06 | 86 | 16 | 
 | 2022-10-05 | 86 | 16 | 
-| 2022-10-04 | 86 | 16 | 
 

@@ -1,10 +1,10 @@
 # The-AI-Summer/Deep-Learning-In-Production - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 194
 
-★ Stars: 876
+★ Stars: 877
 
 [Open repository](https://github.com/The-AI-Summer/Deep-Learning-In-Production)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 877 | 194 | 
 | 2022-11-01 | 876 | 194 | 
 | 2022-10-31 | 876 | 194 | 
 | 2022-10-30 | 876 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 860 | 191 | 
 | 2022-10-05 | 859 | 191 | 
 | 2022-10-04 | 857 | 191 | 
-| 2022-10-03 | 857 | 190 | 
 

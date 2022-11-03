@@ -1,10 +1,10 @@
 # p0dalirius/windows-coerced-authentication-methods - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 35
+☋ Forks: 38
 
-★ Stars: 283
+★ Stars: 287
 
 [Open repository](https://github.com/p0dalirius/windows-coerced-authentication-methods)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 287 | 38 | 
 | 2022-11-01 | 283 | 35 | 
 | 2022-10-31 | 271 | 33 | 
 | 2022-10-30 | 264 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 255 | 28 | 
 | 2022-10-06 | 255 | 28 | 
 | 2022-10-04 | 254 | 27 | 
-| 2022-10-03 | 254 | 27 | 
 

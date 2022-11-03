@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 02
 
-☋ Forks: 127
+☋ Forks: 128
 
-★ Stars: 5507
+★ Stars: 5518
 
 [Open repository](https://github.com/ChartsCSS/charts.css)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-02 | 5507 | 127 | 
+| 2022-11-02 | 5518 | 128 | 
 | 2022-11-01 | 5506 | 127 | 
 

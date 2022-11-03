@@ -1,10 +1,10 @@
 # DataDog/datadog-api-client-python - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 22
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/DataDog/datadog-api-client-python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 53 | 22 | 
 | 2022-11-01 | 52 | 22 | 
 | 2022-10-31 | 52 | 22 | 
 | 2022-10-30 | 52 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 48 | 20 | 
 | 2022-10-05 | 48 | 19 | 
 | 2022-10-04 | 47 | 18 | 
-| 2022-10-03 | 46 | 18 | 
 

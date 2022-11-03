@@ -1,10 +1,10 @@
 # emacs-lsp/lsp-metals - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 30
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/emacs-lsp/lsp-metals)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 52 | 30 | 
 | 2022-11-01 | 51 | 30 | 
 | 2022-10-31 | 51 | 30 | 
 | 2022-10-30 | 51 | 30 | 

@@ -1,6 +1,6 @@
 # esirplayground/AutoBuild-OpenWrt - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 3907
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1223 | 3907 | 
 | 2022-11-01 | 1223 | 3907 | 
 | 2022-10-31 | 1223 | 3908 | 
 | 2022-10-30 | 1223 | 3908 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1202 | 3878 | 
 | 2022-10-05 | 1201 | 3879 | 
 | 2022-10-04 | 1201 | 3876 | 
-| 2022-10-03 | 1199 | 3871 | 
 

@@ -1,10 +1,10 @@
 # actions-runner-controller/actions-runner-controller - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 576
 
-★ Stars: 2343
+★ Stars: 2351
 
 [Open repository](https://github.com/actions-runner-controller/actions-runner-controller)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2351 | 576 | 
 | 2022-11-01 | 2343 | 576 | 
 | 2022-10-31 | 2341 | 575 | 
 | 2022-10-30 | 2340 | 575 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 2263 | 555 | 
 | 2022-10-06 | 2260 | 553 | 
 | 2022-10-05 | 2252 | 553 | 
-| 2022-10-04 | 2241 | 550 | 
 

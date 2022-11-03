@@ -1,6 +1,6 @@
 # kyzfrintin/Godot-Mixing-Desk - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 519 | 25 | 
 | 2022-11-02 | 519 | 25 | 
 | 2022-11-01 | 518 | 25 | 
 | 2022-10-31 | 517 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 513 | 24 | 
 | 2022-10-05 | 512 | 24 | 
 | 2022-10-04 | 511 | 24 | 
-| 2022-10-03 | 511 | 24 | 
 

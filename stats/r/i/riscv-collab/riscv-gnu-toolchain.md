@@ -1,10 +1,10 @@
 # riscv-collab/riscv-gnu-toolchain - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 784
+☋ Forks: 785
 
-★ Stars: 1927
+★ Stars: 1931
 
 [Open repository](https://github.com/riscv-collab/riscv-gnu-toolchain)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1931 | 785 | 
 | 2022-11-01 | 1927 | 784 | 
 | 2022-10-31 | 1924 | 783 | 
 | 2022-10-30 | 1922 | 781 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1878 | 759 | 
 | 2022-10-05 | 1876 | 756 | 
 | 2022-10-04 | 1873 | 754 | 
-| 2022-10-03 | 1872 | 753 | 
 

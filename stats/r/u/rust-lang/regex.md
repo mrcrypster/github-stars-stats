@@ -1,10 +1,10 @@
 # rust-lang/regex - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 350
 
-★ Stars: 2534
+★ Stars: 2538
 
 [Open repository](https://github.com/rust-lang/regex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2538 | 350 | 
 | 2022-11-01 | 2534 | 350 | 
 | 2022-10-31 | 2534 | 350 | 
 | 2022-10-30 | 2533 | 350 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 2509 | 349 | 
 | 2022-10-05 | 2509 | 347 | 
 | 2022-10-04 | 2508 | 346 | 
-| 2022-10-03 | 2508 | 345 | 
 

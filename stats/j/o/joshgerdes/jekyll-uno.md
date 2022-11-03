@@ -1,6 +1,6 @@
 # joshgerdes/jekyll-uno - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 579
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 593 | 579 | 
 | 2022-11-01 | 593 | 579 | 
 | 2022-10-31 | 593 | 580 | 
 | 2022-10-30 | 593 | 580 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 593 | 580 | 
 | 2022-10-06 | 593 | 580 | 
 | 2022-10-05 | 593 | 580 | 
-| 2022-10-04 | 593 | 579 | 
 

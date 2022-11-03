@@ -1,10 +1,10 @@
 # anonystick/anonystick - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 51
+☋ Forks: 53
 
-★ Stars: 193
+★ Stars: 196
 
 [Open repository](https://github.com/anonystick/anonystick)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 196 | 53 | 
 | 2022-11-01 | 193 | 51 | 
 | 2022-10-31 | 192 | 51 | 
 | 2022-10-30 | 189 | 50 | 

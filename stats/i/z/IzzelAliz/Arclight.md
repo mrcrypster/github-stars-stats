@@ -1,6 +1,6 @@
 # IzzelAliz/Arclight - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 722 | 87 | 
 | 2022-11-02 | 722 | 87 | 
 | 2022-11-01 | 720 | 87 | 
 | 2022-10-31 | 720 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 707 | 83 | 
 | 2022-10-05 | 706 | 84 | 
 | 2022-10-04 | 707 | 84 | 
-| 2022-10-03 | 704 | 84 | 
 

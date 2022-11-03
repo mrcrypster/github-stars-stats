@@ -1,6 +1,6 @@
 # GDQuest/godot-2d-space-game - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 624 | 78 | 
 | 2022-11-01 | 624 | 78 | 
 | 2022-10-31 | 623 | 78 | 
 | 2022-10-30 | 623 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 620 | 77 | 
 | 2022-10-06 | 620 | 77 | 
 | 2022-10-04 | 620 | 78 | 
-| 2022-10-03 | 620 | 78 | 
 

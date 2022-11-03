@@ -1,10 +1,10 @@
 # jamesbachini/DEX-Arbitrage - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/jamesbachini/DEX-Arbitrage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 311 | 187 | 
 | 2022-11-01 | 310 | 186 | 
 | 2022-10-31 | 310 | 186 | 
 | 2022-10-30 | 310 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 283 | 177 | 
 | 2022-10-05 | 282 | 174 | 
 | 2022-10-04 | 280 | 170 | 
-| 2022-10-03 | 279 | 170 | 
 

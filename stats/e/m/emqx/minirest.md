@@ -1,6 +1,6 @@
 # emqx/minirest - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 31 | 13 | 
 | 2022-11-02 | 31 | 13 | 
 | 2022-10-31 | 31 | 13 | 
 | 2022-10-30 | 31 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 31 | 13 | 
 | 2022-10-05 | 31 | 13 | 
 | 2022-10-04 | 31 | 13 | 
-| 2022-10-03 | 31 | 13 | 
 

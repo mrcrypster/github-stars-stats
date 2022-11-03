@@ -1,10 +1,10 @@
 # docker-library/official-images - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2068
+☋ Forks: 2076
 
-★ Stars: 5558
+★ Stars: 5567
 
 [Open repository](https://github.com/docker-library/official-images)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5567 | 2076 | 
 | 2022-11-01 | 5558 | 2068 | 
 | 2022-10-31 | 5558 | 2068 | 
 | 2022-10-30 | 5554 | 2067 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 5518 | 2056 | 
 | 2022-10-05 | 5517 | 2054 | 
 | 2022-10-04 | 5516 | 2054 | 
-| 2022-10-03 | 5515 | 2053 | 
 

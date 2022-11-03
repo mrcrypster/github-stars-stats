@@ -1,10 +1,10 @@
 # codenteq/laerx - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 13
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/codenteq/laerx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 85 | 13 | 
 | 2022-11-01 | 84 | 13 | 
 | 2022-10-31 | 84 | 13 | 
 | 2022-10-30 | 84 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 75 | 11 | 
 | 2022-10-05 | 75 | 11 | 
 | 2022-10-04 | 75 | 11 | 
-| 2022-10-03 | 75 | 11 | 
 

@@ -1,6 +1,6 @@
 # flingyp/vue-admire-plus - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 117 | 13 | 
 | 2022-11-01 | 117 | 13 | 
 | 2022-10-31 | 117 | 13 | 
 | 2022-10-30 | 117 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 117 | 13 | 
 | 2022-10-06 | 117 | 13 | 
 | 2022-10-05 | 117 | 13 | 
-| 2022-10-04 | 117 | 13 | 
 

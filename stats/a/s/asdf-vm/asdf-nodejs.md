@@ -1,10 +1,10 @@
 # asdf-vm/asdf-nodejs - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 123
 
-★ Stars: 647
+★ Stars: 648
 
 [Open repository](https://github.com/asdf-vm/asdf-nodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 648 | 123 | 
 | 2022-11-01 | 647 | 123 | 
 | 2022-10-31 | 646 | 123 | 
 | 2022-10-30 | 646 | 123 | 

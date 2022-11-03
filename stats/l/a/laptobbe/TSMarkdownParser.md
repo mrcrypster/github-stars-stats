@@ -1,6 +1,6 @@
 # laptobbe/TSMarkdownParser - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 200 | 75 | 
 | 2022-11-01 | 200 | 75 | 
 | 2022-10-31 | 200 | 75 | 
 | 2022-10-30 | 200 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 200 | 75 | 
 | 2022-10-05 | 200 | 75 | 
 | 2022-10-04 | 200 | 75 | 
-| 2022-10-03 | 200 | 75 | 
 

@@ -1,10 +1,10 @@
 # aptos-labs/aptos-core - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2400
+☋ Forks: 2404
 
-★ Stars: 4500
+★ Stars: 4504
 
 [Open repository](https://github.com/aptos-labs/aptos-core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4504 | 2404 | 
 | 2022-11-01 | 4500 | 2400 | 
 | 2022-10-31 | 4490 | 2390 | 
 | 2022-10-30 | 4478 | 2378 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 3878 | 2161 | 
 | 2022-10-05 | 3873 | 2157 | 
 | 2022-10-04 | 3870 | 2155 | 
-| 2022-10-03 | 3865 | 2150 | 
 

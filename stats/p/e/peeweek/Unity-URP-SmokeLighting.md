@@ -1,10 +1,10 @@
 # peeweek/Unity-URP-SmokeLighting - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 12
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/peeweek/Unity-URP-SmokeLighting)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 149 | 12 | 
 | 2022-11-01 | 148 | 12 | 
 | 2022-10-31 | 148 | 12 | 
 | 2022-10-30 | 148 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 146 | 12 | 
 | 2022-10-05 | 146 | 12 | 
 | 2022-10-04 | 146 | 12 | 
-| 2022-10-03 | 146 | 12 | 
 

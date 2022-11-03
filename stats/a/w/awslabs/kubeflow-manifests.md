@@ -1,10 +1,10 @@
 # awslabs/kubeflow-manifests - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 53
 
-★ Stars: 81
+★ Stars: 82
 
 [Open repository](https://github.com/awslabs/kubeflow-manifests)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 82 | 53 | 
 | 2022-11-01 | 81 | 53 | 
 | 2022-10-31 | 81 | 53 | 
 | 2022-10-30 | 79 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 71 | 49 | 
 | 2022-10-05 | 71 | 49 | 
 | 2022-10-04 | 71 | 49 | 
-| 2022-10-03 | 71 | 49 | 
 

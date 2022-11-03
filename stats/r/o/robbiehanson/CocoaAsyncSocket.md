@@ -1,10 +1,10 @@
 # robbiehanson/CocoaAsyncSocket - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2933
+☋ Forks: 2934
 
-★ Stars: 12268
+★ Stars: 12270
 
 [Open repository](https://github.com/robbiehanson/CocoaAsyncSocket)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 12270 | 2934 | 
 | 2022-11-01 | 12268 | 2933 | 
 | 2022-10-31 | 12268 | 2933 | 
 | 2022-10-30 | 12268 | 2933 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 12257 | 2930 | 
 | 2022-10-05 | 12257 | 2930 | 
 | 2022-10-04 | 12257 | 2930 | 
-| 2022-10-03 | 12258 | 2929 | 
 

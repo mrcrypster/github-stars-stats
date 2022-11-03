@@ -1,10 +1,10 @@
 # volantis-x/hexo-theme-volantis - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 513
+☋ Forks: 514
 
-★ Stars: 1607
+★ Stars: 1609
 
 [Open repository](https://github.com/volantis-x/hexo-theme-volantis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1609 | 514 | 
 | 2022-11-01 | 1607 | 513 | 
 | 2022-10-31 | 1604 | 512 | 
 | 2022-10-30 | 1603 | 513 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1578 | 497 | 
 | 2022-10-05 | 1578 | 498 | 
 | 2022-10-04 | 1577 | 498 | 
-| 2022-10-03 | 1577 | 500 | 
 

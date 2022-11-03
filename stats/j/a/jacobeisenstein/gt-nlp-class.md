@@ -1,6 +1,6 @@
 # jacobeisenstein/gt-nlp-class - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1038
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4652 | 1038 | 
 | 2022-11-01 | 4652 | 1038 | 
 | 2022-10-31 | 4652 | 1038 | 
 | 2022-10-30 | 4653 | 1038 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4644 | 1037 | 
 | 2022-10-05 | 4643 | 1037 | 
 | 2022-10-04 | 4641 | 1037 | 
-| 2022-10-03 | 4641 | 1037 | 
 

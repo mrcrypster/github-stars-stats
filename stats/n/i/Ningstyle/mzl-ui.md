@@ -1,10 +1,10 @@
 # Ningstyle/mzl-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/Ningstyle/mzl-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 73 | 39 | 
 | 2022-11-01 | 72 | 38 | 
 | 2022-10-31 | 72 | 37 | 
 | 2022-10-30 | 72 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 68 | 35 | 
 | 2022-10-05 | 68 | 35 | 
 | 2022-10-04 | 67 | 35 | 
-| 2022-10-03 | 67 | 35 | 
 

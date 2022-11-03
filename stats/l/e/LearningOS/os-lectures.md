@@ -1,10 +1,10 @@
 # LearningOS/os-lectures - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 52
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/LearningOS/os-lectures)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 343 | 52 | 
 | 2022-11-01 | 342 | 52 | 
 | 2022-10-31 | 342 | 52 | 
 | 2022-10-30 | 342 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 334 | 51 | 
 | 2022-10-05 | 334 | 51 | 
 | 2022-10-04 | 334 | 51 | 
-| 2022-10-03 | 334 | 51 | 
 

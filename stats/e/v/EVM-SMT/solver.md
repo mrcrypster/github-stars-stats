@@ -1,6 +1,6 @@
 # EVM-SMT/solver - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 66 | 2 | 
 | 2022-11-01 | 66 | 2 | 
 | 2022-10-31 | 66 | 2 | 
 | 2022-10-30 | 66 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 64 | 2 | 
 | 2022-10-05 | 64 | 2 | 
 | 2022-10-04 | 64 | 2 | 
-| 2022-10-03 | 64 | 2 | 
 

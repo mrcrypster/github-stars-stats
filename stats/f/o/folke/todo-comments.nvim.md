@@ -1,10 +1,10 @@
 # folke/todo-comments.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 1203
+★ Stars: 1209
 
 [Open repository](https://github.com/folke/todo-comments.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1209 | 36 | 
 | 2022-11-01 | 1203 | 35 | 
 | 2022-10-31 | 1203 | 35 | 
 | 2022-10-30 | 1203 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1138 | 36 | 
 | 2022-10-05 | 1136 | 36 | 
 | 2022-10-04 | 1134 | 36 | 
-| 2022-10-03 | 1130 | 37 | 
 

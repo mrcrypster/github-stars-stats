@@ -1,10 +1,10 @@
 # lyhue1991/eat_pytorch_in_20_days - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 893
 
-★ Stars: 3601
+★ Stars: 3604
 
 [Open repository](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 3604 | 893 | 
 | 2022-11-01 | 3601 | 893 | 
 | 2022-10-31 | 3597 | 891 | 
 | 2022-10-30 | 3594 | 891 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 3534 | 886 | 
 | 2022-10-05 | 3532 | 886 | 
 | 2022-10-04 | 3531 | 886 | 
-| 2022-10-03 | 3525 | 885 | 
 

@@ -1,6 +1,6 @@
 # motemen/xslate-vim - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 24 | 7 | 
 | 2022-11-01 | 24 | 7 | 
 | 2022-10-31 | 24 | 7 | 
 | 2022-10-30 | 24 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 24 | 7 | 
 | 2022-10-06 | 24 | 7 | 
 | 2022-10-05 | 24 | 7 | 
-| 2022-10-04 | 24 | 7 | 
 

@@ -1,10 +1,10 @@
 # prabirshrestha/asyncomplete.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 58
 
-★ Stars: 820
+★ Stars: 821
 
 [Open repository](https://github.com/prabirshrestha/asyncomplete.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 821 | 58 | 
 | 2022-11-01 | 820 | 58 | 
 | 2022-10-31 | 820 | 58 | 
 | 2022-10-30 | 820 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 819 | 59 | 
 | 2022-10-05 | 818 | 59 | 
 | 2022-10-04 | 817 | 59 | 
-| 2022-10-03 | 817 | 59 | 
 

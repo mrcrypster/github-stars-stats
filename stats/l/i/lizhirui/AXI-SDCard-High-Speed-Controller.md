@@ -1,8 +1,8 @@
 # lizhirui/AXI-SDCard-High-Speed-Controller - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 6
+☋ Forks: 7
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 60 | 7 | 
 | 2022-11-01 | 60 | 6 | 
 | 2022-10-31 | 60 | 6 | 
 | 2022-10-30 | 60 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 55 | 4 | 
 | 2022-10-05 | 55 | 4 | 
 | 2022-10-04 | 55 | 4 | 
-| 2022-10-03 | 55 | 4 | 
 

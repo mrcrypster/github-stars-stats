@@ -1,6 +1,6 @@
 # Dolibarr/dolibarr - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 2175
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 3552 | 2175 | 
 | 2022-11-01 | 3552 | 2175 | 
 | 2022-10-31 | 3551 | 2175 | 
 | 2022-10-30 | 3546 | 2173 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 3484 | 2150 | 
 | 2022-10-05 | 3483 | 2150 | 
 | 2022-10-04 | 3483 | 2150 | 
-| 2022-10-03 | 3476 | 2148 | 
 

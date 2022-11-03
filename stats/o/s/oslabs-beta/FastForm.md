@@ -1,10 +1,10 @@
 # oslabs-beta/FastForm - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 6
 
-★ Stars: 44
+★ Stars: 43
 
 [Open repository](https://github.com/oslabs-beta/FastForm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 43 | 6 | 
 | 2022-11-01 | 44 | 6 | 
 | 2022-10-31 | 44 | 6 | 
 | 2022-10-30 | 44 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 44 | 6 | 
 | 2022-10-05 | 44 | 6 | 
 | 2022-10-04 | 44 | 6 | 
-| 2022-10-03 | 44 | 6 | 
 

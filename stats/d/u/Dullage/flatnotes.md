@@ -1,10 +1,10 @@
 # Dullage/flatnotes - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 3
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/Dullage/flatnotes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 109 | 3 | 
 | 2022-11-01 | 108 | 3 | 
 | 2022-10-31 | 106 | 3 | 
 | 2022-10-30 | 105 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 101 | 3 | 
 | 2022-10-05 | 101 | 3 | 
 | 2022-10-04 | 100 | 3 | 
-| 2022-10-03 | 96 | 3 | 
 

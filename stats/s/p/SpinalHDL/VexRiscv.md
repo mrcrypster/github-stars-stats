@@ -1,10 +1,10 @@
 # SpinalHDL/VexRiscv - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 302
 
-★ Stars: 1704
+★ Stars: 1707
 
 [Open repository](https://github.com/SpinalHDL/VexRiscv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1707 | 302 | 
 | 2022-11-01 | 1704 | 302 | 
 | 2022-10-31 | 1702 | 302 | 
 | 2022-10-30 | 1698 | 303 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1665 | 299 | 
 | 2022-10-05 | 1663 | 300 | 
 | 2022-10-04 | 1662 | 300 | 
-| 2022-10-03 | 1661 | 299 | 
 

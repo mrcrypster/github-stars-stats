@@ -1,10 +1,10 @@
 # qewer33/Exquisite - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 3
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/qewer33/Exquisite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 108 | 3 | 
 | 2022-11-01 | 107 | 3 | 
 | 2022-10-31 | 106 | 3 | 
 | 2022-10-30 | 106 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 100 | 3 | 
 | 2022-10-05 | 100 | 3 | 
 | 2022-10-04 | 100 | 3 | 
-| 2022-10-03 | 100 | 3 | 
 

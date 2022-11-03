@@ -1,10 +1,10 @@
 # lxwily/yanglegeyang - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 25
 
-★ Stars: 124
+★ Stars: 123
 
 [Open repository](https://github.com/lxwily/yanglegeyang)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 123 | 25 | 
 | 2022-11-01 | 124 | 25 | 
 | 2022-10-31 | 124 | 25 | 
 | 2022-10-30 | 124 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 125 | 23 | 
 | 2022-10-05 | 121 | 23 | 
 | 2022-10-04 | 121 | 22 | 
-| 2022-10-03 | 118 | 22 | 
 

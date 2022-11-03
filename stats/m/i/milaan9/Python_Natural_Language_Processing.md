@@ -1,6 +1,6 @@
 # milaan9/Python_Natural_Language_Processing - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 168
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 169 | 168 | 
 | 2022-11-01 | 169 | 168 | 
 | 2022-10-31 | 169 | 168 | 
 | 2022-10-30 | 169 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 167 | 168 | 
 | 2022-10-05 | 167 | 168 | 
 | 2022-10-04 | 167 | 168 | 
-| 2022-10-03 | 167 | 168 | 
 

@@ -1,10 +1,10 @@
 # TheAlgorithms/PHP - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 256
 
-★ Stars: 966
+★ Stars: 967
 
 [Open repository](https://github.com/TheAlgorithms/PHP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 967 | 256 | 
 | 2022-11-01 | 966 | 256 | 
 | 2022-10-31 | 965 | 257 | 
 | 2022-10-30 | 961 | 256 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 930 | 242 | 
 | 2022-10-06 | 926 | 241 | 
 | 2022-10-05 | 917 | 238 | 
-| 2022-10-04 | 916 | 238 | 
 

@@ -1,10 +1,10 @@
 # jsonnet-libs/k8s - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 49
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/jsonnet-libs/k8s)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 106 | 49 | 
 | 2022-11-01 | 105 | 49 | 
 | 2022-10-31 | 105 | 49 | 
 | 2022-10-30 | 105 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 105 | 50 | 
 | 2022-10-05 | 105 | 50 | 
 | 2022-10-04 | 105 | 50 | 
-| 2022-10-03 | 105 | 50 | 
 

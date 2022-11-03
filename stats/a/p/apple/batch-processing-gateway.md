@@ -1,10 +1,10 @@
 # apple/batch-processing-gateway - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 13
 
-★ Stars: 98
+★ Stars: 101
 
 [Open repository](https://github.com/apple/batch-processing-gateway)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 101 | 13 | 
 | 2022-11-01 | 98 | 13 | 
 | 2022-10-31 | 93 | 11 | 
 | 2022-10-30 | 90 | 10 | 

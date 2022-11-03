@@ -1,10 +1,10 @@
 # dephraiim/minimal-youtube - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 145
+★ Stars: 144
 
 [Open repository](https://github.com/dephraiim/minimal-youtube)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 144 | 7 | 
 | 2022-11-01 | 145 | 6 | 
 | 2022-10-31 | 143 | 6 | 
 | 2022-10-30 | 142 | 6 | 

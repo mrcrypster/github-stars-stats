@@ -1,6 +1,6 @@
 # QuantEcon/book-networks - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 41 | 16 | 
 | 2022-11-01 | 41 | 16 | 
 | 2022-10-31 | 41 | 16 | 
 | 2022-10-30 | 41 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 41 | 16 | 
 | 2022-10-05 | 39 | 15 | 
 | 2022-10-04 | 39 | 15 | 
-| 2022-10-03 | 39 | 15 | 
 

@@ -1,10 +1,10 @@
 # riscv-software-src/riscv-isa-sim - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 575
 
-★ Stars: 1509
+★ Stars: 1510
 
 [Open repository](https://github.com/riscv-software-src/riscv-isa-sim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1510 | 575 | 
 | 2022-11-01 | 1509 | 575 | 
 | 2022-10-31 | 1507 | 575 | 
 | 2022-10-30 | 1507 | 573 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1468 | 563 | 
 | 2022-10-05 | 1467 | 563 | 
 | 2022-10-04 | 1464 | 564 | 
-| 2022-10-03 | 1463 | 564 | 
 

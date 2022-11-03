@@ -1,10 +1,10 @@
 # ProgrammingHero1/B610-Learning-Platform-Assignment - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 54
+☋ Forks: 53
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/ProgrammingHero1/B610-Learning-Platform-Assignment)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 13 | 53 | 
 | 2022-11-01 | 12 | 54 | 
 | 2022-10-31 | 11 | 54 | 
 | 2022-10-30 | 11 | 55 | 

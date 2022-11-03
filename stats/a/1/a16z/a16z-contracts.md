@@ -1,10 +1,10 @@
 # a16z/a16z-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 38
 
-★ Stars: 225
+★ Stars: 226
 
 [Open repository](https://github.com/a16z/a16z-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 226 | 38 | 
 | 2022-11-01 | 225 | 38 | 
 | 2022-10-31 | 225 | 38 | 
 | 2022-10-30 | 225 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 215 | 35 | 
 | 2022-10-05 | 215 | 34 | 
 | 2022-10-04 | 214 | 33 | 
-| 2022-10-03 | 213 | 33 | 
 

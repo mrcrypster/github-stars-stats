@@ -1,8 +1,8 @@
 # xtaci/kcptun - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2508
+☋ Forks: 2507
 
 ★ Stars: 13062
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 13062 | 2507 | 
 | 2022-11-01 | 13062 | 2508 | 
 | 2022-10-31 | 13062 | 2508 | 
 | 2022-10-30 | 13061 | 2506 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 13019 | 2505 | 
 | 2022-10-05 | 13019 | 2504 | 
 | 2022-10-04 | 13019 | 2504 | 
-| 2022-10-03 | 13019 | 2504 | 
 

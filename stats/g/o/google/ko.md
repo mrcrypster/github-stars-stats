@@ -1,10 +1,10 @@
 # google/ko - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 290
 
-★ Stars: 5230
+★ Stars: 5233
 
 [Open repository](https://github.com/google/ko)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5233 | 290 | 
 | 2022-11-01 | 5230 | 290 | 
 | 2022-10-31 | 5224 | 289 | 
 | 2022-10-30 | 5222 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 5059 | 277 | 
 | 2022-10-06 | 5059 | 277 | 
 | 2022-10-05 | 5057 | 277 | 
-| 2022-10-04 | 5057 | 276 | 
 

@@ -1,10 +1,10 @@
 # chengxy-nds/Springboot-Notebook - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 725
+☋ Forks: 727
 
-★ Stars: 1593
+★ Stars: 1598
 
 [Open repository](https://github.com/chengxy-nds/Springboot-Notebook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1598 | 727 | 
 | 2022-11-01 | 1593 | 725 | 
 | 2022-10-31 | 1589 | 725 | 
 | 2022-10-30 | 1586 | 725 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1513 | 696 | 
 | 2022-10-05 | 1513 | 696 | 
 | 2022-10-04 | 1513 | 696 | 
-| 2022-10-03 | 1513 | 696 | 
 

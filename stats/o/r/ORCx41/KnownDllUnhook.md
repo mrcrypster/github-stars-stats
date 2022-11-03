@@ -1,10 +1,10 @@
 # ORCx41/KnownDllUnhook - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 27
 
-★ Stars: 191
+★ Stars: 193
 
 [Open repository](https://github.com/ORCx41/KnownDllUnhook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 193 | 27 | 
 | 2022-11-01 | 191 | 27 | 
 | 2022-10-31 | 191 | 26 | 
 | 2022-10-30 | 189 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 159 | 20 | 
 | 2022-10-05 | 157 | 20 | 
 | 2022-10-04 | 154 | 20 | 
-| 2022-10-03 | 152 | 20 | 
 

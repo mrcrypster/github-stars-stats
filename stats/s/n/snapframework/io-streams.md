@@ -1,0 +1,18 @@
+# snapframework/io-streams - stars & forks statistics
+
+Stats updated on Nov 2022, 03
+
+☋ Forks: 37
+
+★ Stars: 101
+
+[Open repository](https://github.com/snapframework/io-streams)
+
+[Open detailed stats for snapframework/io-streams](https://reviewgithub.com/rep/snapframework/io-streams)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-03 | 101 | 37 | 
+| 2022-11-02 | 101 | 37 | 
+

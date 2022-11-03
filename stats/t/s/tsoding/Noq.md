@@ -1,10 +1,10 @@
 # tsoding/Noq - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 12
 
-★ Stars: 177
+★ Stars: 179
 
 [Open repository](https://github.com/tsoding/Noq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 179 | 12 | 
 | 2022-11-01 | 177 | 12 | 
 | 2022-10-31 | 177 | 12 | 
 | 2022-10-30 | 177 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 174 | 12 | 
 | 2022-10-05 | 174 | 12 | 
 | 2022-10-04 | 174 | 12 | 
-| 2022-10-03 | 174 | 12 | 
 

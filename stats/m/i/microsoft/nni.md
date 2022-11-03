@@ -1,10 +1,10 @@
 # microsoft/nni - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1714
 
-★ Stars: 12143
+★ Stars: 12148
 
 [Open repository](https://github.com/microsoft/nni)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 12148 | 1714 | 
 | 2022-11-01 | 12143 | 1714 | 
 | 2022-10-31 | 12142 | 1714 | 
 | 2022-10-30 | 12140 | 1713 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 12042 | 1702 | 
 | 2022-10-05 | 12042 | 1702 | 
 | 2022-10-04 | 12042 | 1702 | 
-| 2022-10-03 | 12039 | 1702 | 
 

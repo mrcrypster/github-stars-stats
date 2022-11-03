@@ -1,10 +1,10 @@
 # GeekQiaQia/vue3.0-template-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 279
 
-★ Stars: 873
+★ Stars: 874
 
 [Open repository](https://github.com/GeekQiaQia/vue3.0-template-admin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 874 | 279 | 
 | 2022-11-01 | 873 | 279 | 
 | 2022-10-31 | 873 | 278 | 
 | 2022-10-30 | 872 | 277 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 847 | 264 | 
 | 2022-10-05 | 847 | 264 | 
 | 2022-10-04 | 846 | 264 | 
-| 2022-10-03 | 846 | 264 | 
 

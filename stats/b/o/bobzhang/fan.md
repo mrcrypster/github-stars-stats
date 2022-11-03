@@ -1,6 +1,6 @@
 # bobzhang/fan - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 59 | 4 | 
 | 2022-11-01 | 59 | 4 | 
 | 2022-10-31 | 59 | 4 | 
 | 2022-10-30 | 59 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 59 | 4 | 
 | 2022-10-05 | 59 | 4 | 
 | 2022-10-04 | 59 | 4 | 
-| 2022-10-03 | 59 | 4 | 
 

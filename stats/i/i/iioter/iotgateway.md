@@ -1,10 +1,10 @@
 # iioter/iotgateway - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 141
 
-★ Stars: 449
+★ Stars: 450
 
 [Open repository](https://github.com/iioter/iotgateway)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 450 | 141 | 
 | 2022-11-01 | 449 | 141 | 
 | 2022-10-31 | 449 | 141 | 
 | 2022-10-30 | 449 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 439 | 140 | 
 | 2022-10-05 | 438 | 140 | 
 | 2022-10-04 | 437 | 140 | 
-| 2022-10-03 | 437 | 140 | 
 

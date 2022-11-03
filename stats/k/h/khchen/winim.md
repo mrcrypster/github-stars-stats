@@ -1,6 +1,6 @@
 # khchen/winim - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 352 | 30 | 
 | 2022-11-01 | 352 | 30 | 
 | 2022-10-31 | 352 | 30 | 
 | 2022-10-30 | 352 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 348 | 30 | 
 | 2022-10-05 | 348 | 30 | 
 | 2022-10-04 | 348 | 30 | 
-| 2022-10-03 | 348 | 30 | 
 

@@ -1,10 +1,10 @@
 # phalcon/cphalcon - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 1923
+☋ Forks: 1924
 
-★ Stars: 10644
+★ Stars: 10645
 
 [Open repository](https://github.com/phalcon/cphalcon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 10645 | 1924 | 
 | 2022-11-01 | 10644 | 1923 | 
 | 2022-10-31 | 10644 | 1922 | 
 | 2022-10-30 | 10644 | 1921 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 10642 | 1921 | 
 | 2022-10-05 | 10640 | 1921 | 
 | 2022-10-04 | 10638 | 1922 | 
-| 2022-10-03 | 10636 | 1923 | 
 

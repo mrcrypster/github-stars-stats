@@ -1,10 +1,10 @@
 # pmb6tz/windows-desktop-switcher - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 188
 
-★ Stars: 860
+★ Stars: 861
 
 [Open repository](https://github.com/pmb6tz/windows-desktop-switcher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 861 | 188 | 
 | 2022-11-01 | 860 | 188 | 
 | 2022-10-31 | 860 | 188 | 
 | 2022-10-30 | 860 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 849 | 187 | 
 | 2022-10-05 | 848 | 187 | 
 | 2022-10-04 | 848 | 187 | 
-| 2022-10-03 | 848 | 187 | 
 

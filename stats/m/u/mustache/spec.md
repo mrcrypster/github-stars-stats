@@ -1,10 +1,10 @@
 # mustache/spec - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 68
 
-★ Stars: 306
+★ Stars: 307
 
 [Open repository](https://github.com/mustache/spec)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 307 | 68 | 
 | 2022-11-01 | 306 | 68 | 
 | 2022-10-31 | 306 | 68 | 
 | 2022-10-30 | 306 | 68 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 305 | 66 | 
 | 2022-10-06 | 305 | 66 | 
 | 2022-10-05 | 305 | 66 | 
-| 2022-10-04 | 305 | 66 | 
 

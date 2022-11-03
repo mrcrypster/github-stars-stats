@@ -1,6 +1,6 @@
 # hlissner/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 955 | 92 | 
 | 2022-11-01 | 955 | 92 | 
 | 2022-10-31 | 953 | 92 | 
 | 2022-10-30 | 953 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 929 | 90 | 
 | 2022-10-05 | 927 | 90 | 
 | 2022-10-04 | 926 | 90 | 
-| 2022-10-03 | 926 | 90 | 
 

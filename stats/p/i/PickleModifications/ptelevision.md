@@ -1,10 +1,10 @@
 # PickleModifications/ptelevision - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 12
+☋ Forks: 14
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/PickleModifications/ptelevision)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-02 | 25 | 12 | 
+| 2022-11-03 | 27 | 14 | 
+| 2022-11-02 | 27 | 14 | 
 | 2022-11-01 | 25 | 12 | 
 

@@ -1,6 +1,6 @@
 # ssddanbrown/rss - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 244 | 8 | 
 | 2022-11-01 | 244 | 8 | 
 | 2022-10-31 | 244 | 8 | 
 | 2022-10-30 | 244 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 239 | 8 | 
 | 2022-10-06 | 239 | 8 | 
 | 2022-10-05 | 239 | 8 | 
-| 2022-10-04 | 239 | 8 | 
 

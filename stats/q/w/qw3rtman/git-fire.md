@@ -1,10 +1,10 @@
 # qw3rtman/git-fire - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 137
 
-★ Stars: 4091
+★ Stars: 4101
 
 [Open repository](https://github.com/qw3rtman/git-fire)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4101 | 137 | 
 | 2022-11-01 | 4091 | 137 | 
 | 2022-10-31 | 4090 | 137 | 
 | 2022-10-30 | 4090 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4083 | 138 | 
 | 2022-10-05 | 4083 | 138 | 
 | 2022-10-04 | 4081 | 138 | 
-| 2022-10-03 | 4080 | 138 | 
 

@@ -1,10 +1,10 @@
 # ericclemmons/click-to-component - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 43
 
-★ Stars: 1308
+★ Stars: 1310
 
 [Open repository](https://github.com/ericclemmons/click-to-component)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1310 | 43 | 
 | 2022-11-01 | 1308 | 43 | 
 | 2022-10-31 | 1307 | 43 | 
 | 2022-10-30 | 1306 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 1287 | 44 | 
 | 2022-10-05 | 1286 | 42 | 
 | 2022-10-04 | 1285 | 42 | 
-| 2022-10-03 | 1285 | 42 | 
 

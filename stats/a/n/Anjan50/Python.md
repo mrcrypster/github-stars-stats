@@ -1,8 +1,8 @@
 # Anjan50/Python - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 89
+☋ Forks: 88
 
 ★ Stars: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 12 | 88 | 
 | 2022-11-01 | 12 | 89 | 
 | 2022-10-31 | 12 | 89 | 
 | 2022-10-30 | 12 | 89 | 

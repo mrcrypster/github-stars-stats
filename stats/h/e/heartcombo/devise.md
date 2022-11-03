@@ -1,10 +1,10 @@
 # heartcombo/devise - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 5479
+☋ Forks: 5481
 
-★ Stars: 22823
+★ Stars: 22825
 
 [Open repository](https://github.com/heartcombo/devise)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 22825 | 5481 | 
 | 2022-11-01 | 22823 | 5479 | 
 | 2022-10-31 | 22819 | 5477 | 
 | 2022-10-30 | 22817 | 5478 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 22771 | 5466 | 
 | 2022-10-05 | 22765 | 5466 | 
 | 2022-10-04 | 22762 | 5466 | 
-| 2022-10-03 | 22761 | 5464 | 
 

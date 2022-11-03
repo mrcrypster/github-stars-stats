@@ -1,10 +1,10 @@
 # nasw1h/BloodHub - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 39
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/nasw1h/BloodHub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4 | 39 | 
 | 2022-11-01 | 3 | 39 | 
 | 2022-10-31 | 3 | 39 | 
 | 2022-10-30 | 3 | 39 | 

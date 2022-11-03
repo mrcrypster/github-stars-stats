@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 02
 
 ☋ Forks: 94
 
-★ Stars: 534
+★ Stars: 539
 
 [Open repository](https://github.com/vxunderground/VX-API)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-02 | 534 | 94 | 
+| 2022-11-02 | 539 | 94 | 
 | 2022-11-01 | 534 | 94 | 
 | 2022-10-31 | 508 | 91 | 
 

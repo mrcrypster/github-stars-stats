@@ -1,10 +1,10 @@
 # stavyan/TinyShop-UniApp - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 496
+☋ Forks: 498
 
-★ Stars: 1304
+★ Stars: 1305
 
 [Open repository](https://github.com/stavyan/TinyShop-UniApp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1305 | 498 | 
 | 2022-11-01 | 1304 | 496 | 
 | 2022-10-31 | 1304 | 496 | 
 | 2022-10-30 | 1303 | 495 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 1289 | 486 | 
 | 2022-10-05 | 1289 | 486 | 
 | 2022-10-04 | 1289 | 485 | 
-| 2022-10-03 | 1288 | 485 | 
 

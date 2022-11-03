@@ -1,8 +1,8 @@
 # truecharts/catalog - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 95
+☋ Forks: 96
 
 ★ Stars: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 92 | 96 | 
 | 2022-11-01 | 92 | 95 | 
 | 2022-10-31 | 92 | 95 | 
 | 2022-10-30 | 90 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 85 | 91 | 
 | 2022-10-05 | 85 | 91 | 
 | 2022-10-04 | 85 | 92 | 
-| 2022-10-03 | 85 | 91 | 
 

@@ -1,10 +1,10 @@
 # XayahSuSuSu/Android-DataBackup - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 12
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/XayahSuSuSu/Android-DataBackup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 244 | 12 | 
 | 2022-11-01 | 243 | 12 | 
 | 2022-10-31 | 241 | 12 | 
 | 2022-10-30 | 240 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 204 | 13 | 
 | 2022-10-05 | 202 | 13 | 
 | 2022-10-04 | 197 | 13 | 
-| 2022-10-03 | 195 | 14 | 
 

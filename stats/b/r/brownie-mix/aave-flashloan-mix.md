@@ -1,10 +1,10 @@
 # brownie-mix/aave-flashloan-mix - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 247
 
-★ Stars: 359
+★ Stars: 358
 
 [Open repository](https://github.com/brownie-mix/aave-flashloan-mix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 358 | 247 | 
 | 2022-11-01 | 359 | 247 | 
 | 2022-10-31 | 359 | 247 | 
 | 2022-10-30 | 359 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 356 | 241 | 
 | 2022-10-05 | 356 | 241 | 
 | 2022-10-04 | 356 | 241 | 
-| 2022-10-03 | 356 | 241 | 
 

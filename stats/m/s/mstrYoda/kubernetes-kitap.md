@@ -1,10 +1,10 @@
 # mstrYoda/kubernetes-kitap - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 137
 
-★ Stars: 1300
+★ Stars: 1301
 
 [Open repository](https://github.com/mstrYoda/kubernetes-kitap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1301 | 137 | 
 | 2022-11-02 | 1300 | 137 | 
 | 2022-11-01 | 1298 | 137 | 
 | 2022-10-31 | 1298 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 1277 | 132 | 
 | 2022-10-05 | 1274 | 132 | 
 | 2022-10-04 | 1274 | 132 | 
-| 2022-10-03 | 1273 | 132 | 
 

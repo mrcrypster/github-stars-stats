@@ -1,6 +1,6 @@
 # drlocutus/depth-map - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 3 | 2 | 
 | 2022-11-01 | 3 | 2 | 
 | 2022-10-31 | 3 | 2 | 
 | 2022-10-30 | 3 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 3 | 2 | 
 | 2022-10-05 | 3 | 2 | 
 | 2022-10-04 | 3 | 2 | 
-| 2022-10-03 | 3 | 2 | 
 

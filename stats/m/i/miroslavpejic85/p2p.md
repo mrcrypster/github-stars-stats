@@ -1,10 +1,10 @@
 # miroslavpejic85/p2p - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 167
+☋ Forks: 168
 
-★ Stars: 1494
+★ Stars: 1515
 
 [Open repository](https://github.com/miroslavpejic85/p2p)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1515 | 168 | 
 | 2022-11-01 | 1494 | 167 | 
 | 2022-10-31 | 1489 | 165 | 
 | 2022-10-30 | 1487 | 165 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 1437 | 157 | 
 | 2022-10-05 | 1436 | 157 | 
 | 2022-10-04 | 1434 | 157 | 
-| 2022-10-03 | 1434 | 157 | 
 

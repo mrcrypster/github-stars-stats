@@ -1,8 +1,8 @@
 # christopheradams/elixir_style_guide - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 297
+☋ Forks: 298
 
 ★ Stars: 4080
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4080 | 298 | 
 | 2022-11-01 | 4080 | 297 | 
 | 2022-10-31 | 4080 | 297 | 
 | 2022-10-30 | 4080 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4072 | 298 | 
 | 2022-10-05 | 4070 | 298 | 
 | 2022-10-04 | 4069 | 298 | 
-| 2022-10-03 | 4068 | 297 | 
 

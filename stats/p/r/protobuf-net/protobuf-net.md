@@ -1,8 +1,8 @@
 # protobuf-net/protobuf-net - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 986
+☋ Forks: 987
 
 ★ Stars: 4000
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4000 | 987 | 
 | 2022-11-01 | 4000 | 986 | 
 | 2022-10-31 | 3998 | 986 | 
 | 2022-10-30 | 3997 | 986 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 3982 | 984 | 
 | 2022-10-06 | 3982 | 984 | 
 | 2022-10-05 | 3981 | 984 | 
-| 2022-10-04 | 3981 | 984 | 
 

@@ -1,10 +1,10 @@
 # krakendio/krakend-ce - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 346
 
-★ Stars: 968
+★ Stars: 969
 
 [Open repository](https://github.com/krakendio/krakend-ce)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 969 | 346 | 
 | 2022-11-01 | 968 | 346 | 
 | 2022-10-31 | 967 | 345 | 
 | 2022-10-30 | 963 | 345 | 

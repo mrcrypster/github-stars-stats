@@ -1,10 +1,10 @@
 # dolevshor/azure-orphan-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 51
+☋ Forks: 50
 
-★ Stars: 203
+★ Stars: 205
 
 [Open repository](https://github.com/dolevshor/azure-orphan-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 205 | 50 | 
 | 2022-11-01 | 203 | 51 | 
 | 2022-10-31 | 203 | 51 | 
 | 2022-10-30 | 200 | 50 | 

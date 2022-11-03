@@ -1,10 +1,10 @@
 # sjtug/SJTUThesis - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 720
 
-★ Stars: 2629
+★ Stars: 2632
 
 [Open repository](https://github.com/sjtug/SJTUThesis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2632 | 720 | 
 | 2022-11-01 | 2629 | 720 | 
 | 2022-10-31 | 2628 | 719 | 
 | 2022-10-30 | 2627 | 718 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 2613 | 720 | 
 | 2022-10-05 | 2613 | 720 | 
 | 2022-10-04 | 2613 | 720 | 
-| 2022-10-03 | 2611 | 720 | 
 

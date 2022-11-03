@@ -1,6 +1,6 @@
 # mavlink/mavlink-gbp-release - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 19 | 66 | 
 | 2022-11-01 | 19 | 66 | 
 | 2022-10-31 | 19 | 66 | 
 | 2022-10-30 | 19 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 18 | 67 | 
 | 2022-10-05 | 18 | 67 | 
 | 2022-10-04 | 18 | 67 | 
-| 2022-10-03 | 18 | 67 | 
 

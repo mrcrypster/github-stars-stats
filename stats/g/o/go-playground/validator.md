@@ -1,10 +1,10 @@
 # go-playground/validator - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 1069
+☋ Forks: 1070
 
-★ Stars: 11691
+★ Stars: 11698
 
 [Open repository](https://github.com/go-playground/validator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 11698 | 1070 | 
 | 2022-11-01 | 11691 | 1069 | 
 | 2022-10-31 | 11685 | 1067 | 
 | 2022-10-30 | 11678 | 1067 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 11506 | 1048 | 
 | 2022-10-05 | 11506 | 1048 | 
 | 2022-10-04 | 11502 | 1047 | 
-| 2022-10-03 | 11497 | 1044 | 
 

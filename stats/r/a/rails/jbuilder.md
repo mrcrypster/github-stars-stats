@@ -1,10 +1,10 @@
 # rails/jbuilder - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 418
+☋ Forks: 417
 
-★ Stars: 4150
+★ Stars: 4152
 
 [Open repository](https://github.com/rails/jbuilder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4152 | 417 | 
 | 2022-11-01 | 4150 | 418 | 
 | 2022-10-31 | 4150 | 417 | 
 | 2022-10-30 | 4150 | 417 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4139 | 416 | 
 | 2022-10-05 | 4139 | 416 | 
 | 2022-10-04 | 4138 | 416 | 
-| 2022-10-03 | 4138 | 416 | 
 

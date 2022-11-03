@@ -1,10 +1,10 @@
 # applenob/Cpp_Primer_Practice - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1456
 
-★ Stars: 5117
+★ Stars: 5119
 
 [Open repository](https://github.com/applenob/Cpp_Primer_Practice)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5119 | 1456 | 
 | 2022-11-01 | 5117 | 1456 | 
 | 2022-10-31 | 5110 | 1456 | 
 | 2022-10-30 | 5107 | 1456 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4983 | 1421 | 
 | 2022-10-05 | 4981 | 1418 | 
 | 2022-10-04 | 4975 | 1416 | 
-| 2022-10-03 | 4973 | 1415 | 
 

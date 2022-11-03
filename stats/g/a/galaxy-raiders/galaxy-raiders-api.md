@@ -1,6 +1,6 @@
 # galaxy-raiders/galaxy-raiders-api - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2 | 60 | 
 | 2022-11-01 | 2 | 60 | 
 | 2022-10-31 | 2 | 60 | 
 | 2022-10-30 | 2 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 2 | 60 | 
 | 2022-10-06 | 2 | 60 | 
 | 2022-10-05 | 2 | 60 | 
-| 2022-10-04 | 2 | 60 | 
 

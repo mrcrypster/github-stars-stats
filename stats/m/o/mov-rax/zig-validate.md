@@ -1,6 +1,6 @@
 # mov-rax/zig-validate - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 36 | - | 
 | 2022-11-01 | 36 | - | 
 | 2022-10-31 | 33 | - | 
 | 2022-10-30 | 33 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 26 | - | 
 | 2022-10-05 | 26 | - | 
 | 2022-10-04 | 26 | - | 
-| 2022-10-03 | 26 | - | 
 

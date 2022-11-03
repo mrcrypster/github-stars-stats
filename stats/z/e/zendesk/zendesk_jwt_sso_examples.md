@@ -1,10 +1,10 @@
 # zendesk/zendesk_jwt_sso_examples - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/zendesk/zendesk_jwt_sso_examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 137 | 83 | 
 | 2022-11-01 | 136 | 82 | 
 | 2022-10-31 | 136 | 82 | 
 | 2022-10-30 | 136 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 136 | 82 | 
 | 2022-10-06 | 136 | 82 | 
 | 2022-10-05 | 136 | 82 | 
-| 2022-10-04 | 136 | 82 | 
 

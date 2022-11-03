@@ -1,10 +1,10 @@
 # FE-Ocean/who-be-go - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 6
 
-★ Stars: 2
+★ Stars: 5
 
 [Open repository](https://github.com/FE-Ocean/who-be-go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5 | 6 | 
 | 2022-11-01 | 2 | 6 | 
 | 2022-10-31 | 2 | 6 | 
 | 2022-10-30 | 2 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1 | 6 | 
 | 2022-10-05 | 1 | 6 | 
 | 2022-10-04 | 1 | 6 | 
-| 2022-10-03 | 1 | 6 | 
 

@@ -1,10 +1,10 @@
 # denysdovhan/wtfjs - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2099
+☋ Forks: 2102
 
-★ Stars: 28877
+★ Stars: 28880
 
 [Open repository](https://github.com/denysdovhan/wtfjs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 28880 | 2102 | 
 | 2022-11-01 | 28877 | 2099 | 
 | 2022-10-31 | 28866 | 2098 | 
 | 2022-10-30 | 28859 | 2098 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 28565 | 2058 | 
 | 2022-10-05 | 28536 | 2057 | 
 | 2022-10-04 | 28523 | 2057 | 
-| 2022-10-03 | 28513 | 2054 | 
 

@@ -1,10 +1,10 @@
 # enzymejs/enzyme - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 2103
+☋ Forks: 2102
 
-★ Stars: 19954
+★ Stars: 19952
 
 [Open repository](https://github.com/enzymejs/enzyme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 19952 | 2102 | 
 | 2022-11-02 | 19954 | 2103 | 
 | 2022-11-01 | 19954 | 2103 | 
 | 2022-10-31 | 19953 | 2103 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 19947 | 2103 | 
 | 2022-10-05 | 19946 | 2103 | 
 | 2022-10-04 | 19946 | 2102 | 
-| 2022-10-03 | 19948 | 2102 | 
 

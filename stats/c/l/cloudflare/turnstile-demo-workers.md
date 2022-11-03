@@ -1,8 +1,8 @@
 # cloudflare/turnstile-demo-workers - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 63 | 13 | 
 | 2022-11-01 | 63 | 12 | 
 | 2022-10-31 | 63 | 12 | 
 | 2022-10-30 | 63 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 47 | 8 | 
 | 2022-10-05 | 46 | 8 | 
 | 2022-10-04 | 43 | 7 | 
-| 2022-10-03 | 41 | 6 | 
 

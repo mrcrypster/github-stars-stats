@@ -1,10 +1,10 @@
 # pengxiaotian/datav-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 149
 
-★ Stars: 476
+★ Stars: 478
 
 [Open repository](https://github.com/pengxiaotian/datav-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 478 | 149 | 
 | 2022-11-01 | 476 | 149 | 
 | 2022-10-31 | 476 | 149 | 
 | 2022-10-30 | 476 | 149 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 466 | 144 | 
 | 2022-10-05 | 466 | 144 | 
 | 2022-10-04 | 466 | 144 | 
-| 2022-10-03 | 467 | 144 | 
 

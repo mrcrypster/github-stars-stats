@@ -1,6 +1,6 @@
 # jmagrippis/with-svelte - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 51 | 14 | 
 | 2022-11-02 | 51 | 14 | 
 | 2022-11-01 | 51 | 14 | 
 | 2022-10-30 | 49 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 42 | 12 | 
 | 2022-10-05 | 42 | 12 | 
 | 2022-10-04 | 42 | 12 | 
-| 2022-10-03 | 42 | 12 | 
 

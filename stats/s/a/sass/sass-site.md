@@ -1,10 +1,10 @@
 # sass/sass-site - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 211
+☋ Forks: 212
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/sass/sass-site)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 267 | 212 | 
 | 2022-11-01 | 266 | 211 | 
 | 2022-10-31 | 266 | 211 | 
 | 2022-10-30 | 266 | 211 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 261 | 209 | 
 | 2022-10-05 | 261 | 209 | 
 | 2022-10-04 | 261 | 209 | 
-| 2022-10-03 | 261 | 209 | 
 

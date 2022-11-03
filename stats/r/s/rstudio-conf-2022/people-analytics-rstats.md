@@ -1,10 +1,10 @@
 # rstudio-conf-2022/people-analytics-rstats - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 33
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/rstudio-conf-2022/people-analytics-rstats)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 109 | 33 | 
 | 2022-11-01 | 108 | 33 | 
 | 2022-10-31 | 108 | 33 | 
 | 2022-10-30 | 108 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 107 | 33 | 
 | 2022-10-05 | 107 | 33 | 
 | 2022-10-04 | 107 | 33 | 
-| 2022-10-03 | 107 | 33 | 
 

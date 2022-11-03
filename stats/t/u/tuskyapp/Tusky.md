@@ -1,10 +1,10 @@
 # tuskyapp/Tusky - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 289
+☋ Forks: 290
 
-★ Stars: 1410
+★ Stars: 1417
 
 [Open repository](https://github.com/tuskyapp/Tusky)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1417 | 290 | 
 | 2022-11-01 | 1410 | 289 | 
 | 2022-10-31 | 1400 | 287 | 
 | 2022-10-30 | 1394 | 287 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 1378 | 288 | 
 | 2022-10-06 | 1377 | 288 | 
 | 2022-10-05 | 1377 | 288 | 
-| 2022-10-04 | 1377 | 288 | 
 

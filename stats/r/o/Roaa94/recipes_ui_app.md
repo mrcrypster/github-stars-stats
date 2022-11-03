@@ -1,10 +1,10 @@
 # Roaa94/recipes_ui_app - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 86
 
-★ Stars: 351
+★ Stars: 352
 
 [Open repository](https://github.com/Roaa94/recipes_ui_app)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 352 | 86 | 
 | 2022-11-01 | 351 | 86 | 
 | 2022-10-31 | 350 | 85 | 
 | 2022-10-30 | 349 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 336 | 79 | 
 | 2022-10-05 | 335 | 79 | 
 | 2022-10-04 | 333 | 79 | 
-| 2022-10-03 | 331 | 78 | 
 

@@ -1,10 +1,10 @@
 # ucoProject/UCO - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 32
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/ucoProject/UCO)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 55 | 32 | 
 | 2022-11-01 | 54 | 32 | 
 | 2022-10-31 | 54 | 32 | 
 | 2022-10-30 | 53 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 50 | 32 | 
 | 2022-10-05 | 50 | 32 | 
 | 2022-10-04 | 50 | 32 | 
-| 2022-10-03 | 50 | 32 | 
 

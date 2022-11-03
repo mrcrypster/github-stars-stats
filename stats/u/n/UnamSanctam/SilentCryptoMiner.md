@@ -1,10 +1,10 @@
 # UnamSanctam/SilentCryptoMiner - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 158
 
-★ Stars: 537
+★ Stars: 538
 
 [Open repository](https://github.com/UnamSanctam/SilentCryptoMiner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 538 | 158 | 
 | 2022-11-01 | 537 | 158 | 
 | 2022-10-31 | 536 | 158 | 
 | 2022-10-30 | 536 | 158 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 524 | 157 | 
 | 2022-10-05 | 525 | 156 | 
 | 2022-10-04 | 525 | 157 | 
-| 2022-10-03 | 523 | 157 | 
 

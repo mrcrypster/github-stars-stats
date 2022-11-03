@@ -1,10 +1,10 @@
 # eqlabs/pathfinder - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 62
+☋ Forks: 63
 
-★ Stars: 300
+★ Stars: 301
 
 [Open repository](https://github.com/eqlabs/pathfinder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 301 | 63 | 
 | 2022-11-01 | 300 | 62 | 
 | 2022-10-31 | 300 | 62 | 
 | 2022-10-30 | 299 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 288 | 55 | 
 | 2022-10-05 | 288 | 55 | 
 | 2022-10-04 | 288 | 55 | 
-| 2022-10-03 | 287 | 55 | 
 

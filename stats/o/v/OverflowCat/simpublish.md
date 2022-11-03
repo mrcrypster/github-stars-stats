@@ -1,10 +1,10 @@
 # OverflowCat/simpublish - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 11
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/OverflowCat/simpublish)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 10 | 11 | 
 | 2022-11-01 | 9 | 11 | 
 | 2022-10-31 | 9 | 11 | 
 | 2022-10-30 | 9 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 9 | 11 | 
 | 2022-10-05 | 9 | 11 | 
 | 2022-10-04 | 9 | 11 | 
-| 2022-10-03 | 9 | 11 | 
 

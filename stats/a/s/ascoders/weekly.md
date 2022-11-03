@@ -1,10 +1,10 @@
 # ascoders/weekly - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2639
+☋ Forks: 2642
 
-★ Stars: 22011
+★ Stars: 22026
 
 [Open repository](https://github.com/ascoders/weekly)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 22026 | 2642 | 
 | 2022-11-01 | 22011 | 2639 | 
 | 2022-10-31 | 22006 | 2636 | 
 | 2022-10-30 | 21994 | 2636 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 21812 | 2616 | 
 | 2022-10-05 | 21810 | 2615 | 
 | 2022-10-04 | 21810 | 2615 | 
-| 2022-10-03 | 21809 | 2616 | 
 

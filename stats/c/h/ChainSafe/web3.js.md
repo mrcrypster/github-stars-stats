@@ -1,10 +1,10 @@
 # ChainSafe/web3.js - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 4298
+☋ Forks: 4299
 
-★ Stars: 16381
+★ Stars: 16387
 
 [Open repository](https://github.com/ChainSafe/web3.js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 16387 | 4299 | 
 | 2022-11-01 | 16381 | 4298 | 
 | 2022-10-31 | 16380 | 4297 | 
 | 2022-10-30 | 16371 | 4296 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 16164 | 4255 | 
 | 2022-10-05 | 16158 | 4253 | 
 | 2022-10-04 | 16154 | 4252 | 
-| 2022-10-03 | 16148 | 4251 | 
 

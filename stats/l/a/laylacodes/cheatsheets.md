@@ -1,10 +1,10 @@
 # laylacodes/cheatsheets - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 38
 
-★ Stars: 385
+★ Stars: 386
 
 [Open repository](https://github.com/laylacodes/cheatsheets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 386 | 38 | 
 | 2022-11-01 | 385 | 38 | 
 | 2022-10-31 | 385 | 38 | 
 | 2022-10-30 | 385 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 384 | 39 | 
 | 2022-10-06 | 384 | 39 | 
 | 2022-10-05 | 383 | 39 | 
-| 2022-10-04 | 382 | 39 | 
 

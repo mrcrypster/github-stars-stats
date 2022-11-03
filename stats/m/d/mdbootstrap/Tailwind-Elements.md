@@ -1,10 +1,10 @@
 # mdbootstrap/Tailwind-Elements - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 1505
+☋ Forks: 1506
 
-★ Stars: 9820
+★ Stars: 9826
 
 [Open repository](https://github.com/mdbootstrap/Tailwind-Elements)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 9826 | 1506 | 
 | 2022-11-01 | 9820 | 1505 | 
 | 2022-10-31 | 9814 | 1505 | 
 | 2022-10-30 | 9805 | 1505 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 9680 | 1501 | 
 | 2022-10-05 | 9676 | 1501 | 
 | 2022-10-04 | 9674 | 1502 | 
-| 2022-10-03 | 9673 | 1502 | 
 

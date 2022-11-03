@@ -1,10 +1,10 @@
 # ElemeFE/node-interview - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1560
 
-★ Stars: 10296
+★ Stars: 10298
 
 [Open repository](https://github.com/ElemeFE/node-interview)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 10298 | 1560 | 
 | 2022-11-01 | 10296 | 1560 | 
 | 2022-10-31 | 10295 | 1560 | 
 | 2022-10-30 | 10295 | 1560 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 10282 | 1561 | 
 | 2022-10-05 | 10282 | 1561 | 
 | 2022-10-04 | 10282 | 1561 | 
-| 2022-10-03 | 10282 | 1560 | 
 

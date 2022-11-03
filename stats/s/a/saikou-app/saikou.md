@@ -1,10 +1,10 @@
 # saikou-app/saikou - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 2487
+★ Stars: 2490
 
 [Open repository](https://github.com/saikou-app/saikou)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2490 | 141 | 
 | 2022-11-01 | 2487 | 140 | 
 | 2022-10-31 | 2480 | 139 | 
 | 2022-10-30 | 2475 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 2338 | 136 | 
 | 2022-10-05 | 2334 | 136 | 
 | 2022-10-04 | 2321 | 135 | 
-| 2022-10-03 | 2320 | 135 | 
 

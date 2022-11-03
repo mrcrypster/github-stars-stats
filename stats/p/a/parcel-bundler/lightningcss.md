@@ -1,6 +1,6 @@
 # parcel-bundler/lightningcss - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2768 | 78 | 
 | 2022-11-01 | 2768 | 78 | 
 | 2022-10-31 | 2764 | 78 | 
 | 2022-10-30 | 2757 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 2692 | 76 | 
 | 2022-10-05 | 2688 | 76 | 
 | 2022-10-04 | 2689 | 76 | 
-| 2022-10-03 | 2686 | 76 | 
 

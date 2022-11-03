@@ -1,10 +1,10 @@
 # slundberg/shap - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2683
+☋ Forks: 2686
 
-★ Stars: 17813
+★ Stars: 17817
 
 [Open repository](https://github.com/slundberg/shap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 17817 | 2686 | 
 | 2022-11-01 | 17813 | 2683 | 
 | 2022-10-31 | 17804 | 2681 | 
 | 2022-10-30 | 17797 | 2679 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 17626 | 2664 | 
 | 2022-10-05 | 17613 | 2663 | 
 | 2022-10-04 | 17605 | 2663 | 
-| 2022-10-03 | 17598 | 2664 | 
 

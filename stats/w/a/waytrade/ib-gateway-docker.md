@@ -1,6 +1,6 @@
 # waytrade/ib-gateway-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 53 | 34 | 
 | 2022-11-01 | 53 | 34 | 
 | 2022-10-31 | 53 | 34 | 
 | 2022-10-30 | 53 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 53 | 34 | 
 | 2022-10-05 | 53 | 34 | 
 | 2022-10-04 | 52 | 33 | 
-| 2022-10-03 | 52 | 33 | 
 

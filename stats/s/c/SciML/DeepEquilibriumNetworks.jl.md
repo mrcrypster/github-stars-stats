@@ -1,6 +1,6 @@
 # SciML/DeepEquilibriumNetworks.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 34 | 3 | 
 | 2022-11-01 | 34 | 3 | 
 | 2022-10-31 | 34 | 3 | 
 | 2022-10-30 | 34 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 29 | 1 | 
 | 2022-10-05 | 29 | 1 | 
 | 2022-10-04 | 29 | 1 | 
-| 2022-10-03 | 29 | 1 | 
 

@@ -1,10 +1,10 @@
 # casr/vim-colors-reference - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 0
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/casr/vim-colors-reference)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 54 | - | 
 | 2022-11-01 | 53 | - | 
 | 2022-10-31 | 53 | - | 
 | 2022-10-30 | 53 | - | 

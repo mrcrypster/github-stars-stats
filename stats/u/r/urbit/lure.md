@@ -1,10 +1,10 @@
 # urbit/lure - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/urbit/lure)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 5 | - | 
 | 2022-11-01 | 4 | - | 
 | 2022-10-31 | 4 | - | 
 | 2022-10-30 | 4 | - | 

@@ -1,10 +1,10 @@
 # xuebinqin/DIS - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 76
+☋ Forks: 78
 
-★ Stars: 693
+★ Stars: 699
 
 [Open repository](https://github.com/xuebinqin/DIS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 699 | 78 | 
 | 2022-11-01 | 693 | 76 | 
 | 2022-10-31 | 693 | 75 | 
 | 2022-10-30 | 690 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 631 | 67 | 
 | 2022-10-05 | 630 | 65 | 
 | 2022-10-04 | 629 | 65 | 
-| 2022-10-03 | 628 | 64 | 
 

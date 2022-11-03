@@ -1,10 +1,10 @@
 # NVIDIA/DeepLearningExamples - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 03
 
-☋ Forks: 2548
+☋ Forks: 2556
 
-★ Stars: 9444
+★ Stars: 9538
 
 [Open repository](https://github.com/NVIDIA/DeepLearningExamples)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 9538 | 2556 | 
+| 2022-11-02 | 9525 | 2555 | 
 | 2022-11-01 | 9444 | 2548 | 
 | 2022-10-31 | 9433 | 2548 | 
 | 2022-10-30 | 9429 | 2547 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 9333 | 2513 | 
 | 2022-10-06 | 9333 | 2513 | 
 | 2022-10-05 | 9331 | 2513 | 
-| 2022-10-04 | 9329 | 2512 | 
 

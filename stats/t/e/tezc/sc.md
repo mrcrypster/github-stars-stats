@@ -1,10 +1,10 @@
 # tezc/sc - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 165
 
-★ Stars: 1748
+★ Stars: 1750
 
 [Open repository](https://github.com/tezc/sc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1750 | 165 | 
 | 2022-11-02 | 1748 | 165 | 
 | 2022-11-01 | 1747 | 165 | 
 | 2022-10-31 | 1745 | 165 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 1721 | 159 | 
 | 2022-10-05 | 1719 | 159 | 
 | 2022-10-04 | 1718 | 159 | 
-| 2022-10-03 | 1718 | 159 | 
 

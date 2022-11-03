@@ -1,10 +1,10 @@
 # gskinner/flutter_animate - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 16
 
-★ Stars: 319
+★ Stars: 321
 
 [Open repository](https://github.com/gskinner/flutter_animate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 321 | 16 | 
 | 2022-11-01 | 319 | 16 | 
 | 2022-10-31 | 319 | 17 | 
 | 2022-10-30 | 313 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 280 | 15 | 
 | 2022-10-05 | 277 | 15 | 
 | 2022-10-04 | 277 | 15 | 
-| 2022-10-03 | 277 | 15 | 
 

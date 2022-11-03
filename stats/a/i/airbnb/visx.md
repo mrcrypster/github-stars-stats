@@ -1,10 +1,10 @@
 # airbnb/visx - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 633
 
-★ Stars: 16054
+★ Stars: 16060
 
 [Open repository](https://github.com/airbnb/visx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 16060 | 633 | 
 | 2022-11-01 | 16054 | 633 | 
 | 2022-10-31 | 16051 | 633 | 
 | 2022-10-30 | 16047 | 633 | 

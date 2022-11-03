@@ -1,10 +1,10 @@
 # elixirs/faker - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 199
 
-★ Stars: 897
+★ Stars: 898
 
 [Open repository](https://github.com/elixirs/faker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 898 | 199 | 
 | 2022-11-01 | 897 | 199 | 
 | 2022-10-31 | 897 | 199 | 
 | 2022-10-30 | 897 | 199 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 890 | 198 | 
 | 2022-10-05 | 888 | 198 | 
 | 2022-10-04 | 888 | 198 | 
-| 2022-10-03 | 887 | 198 | 
 

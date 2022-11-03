@@ -1,10 +1,10 @@
 # homebrew8088/8088-PC-Compatible - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 10
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/homebrew8088/8088-PC-Compatible)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 126 | 10 | 
 | 2022-11-01 | 125 | 10 | 
 | 2022-10-31 | 125 | 10 | 
 | 2022-10-30 | 124 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 118 | 9 | 
 | 2022-10-05 | 118 | 9 | 
 | 2022-10-04 | 117 | 9 | 
-| 2022-10-03 | 116 | 9 | 
 

@@ -1,6 +1,6 @@
 # spacekookie/gay - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 413 | 25 | 
 | 2022-11-01 | 413 | 25 | 
 | 2022-10-31 | 411 | 25 | 
 | 2022-10-30 | 412 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 410 | 25 | 
 | 2022-10-05 | 410 | 25 | 
 | 2022-10-04 | 410 | 25 | 
-| 2022-10-03 | 410 | 25 | 
 

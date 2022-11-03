@@ -1,6 +1,6 @@
 # gytis-ivaskevicius/high-quality-nix-content - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 121 | 11 | 
 | 2022-11-01 | 121 | 11 | 
 | 2022-10-31 | 121 | 11 | 
 | 2022-10-30 | 121 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 119 | 11 | 
 | 2022-10-05 | 119 | 11 | 
 | 2022-10-04 | 119 | 11 | 
-| 2022-10-03 | 119 | 11 | 
 

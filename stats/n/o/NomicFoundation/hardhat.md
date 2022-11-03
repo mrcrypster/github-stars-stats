@@ -1,10 +1,10 @@
 # NomicFoundation/hardhat - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 961
+☋ Forks: 963
 
-★ Stars: 4612
+★ Stars: 4621
 
 [Open repository](https://github.com/NomicFoundation/hardhat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4621 | 963 | 
 | 2022-11-01 | 4612 | 961 | 
 | 2022-10-31 | 4606 | 961 | 
 | 2022-10-30 | 4597 | 960 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4392 | 940 | 
 | 2022-10-05 | 4386 | 938 | 
 | 2022-10-04 | 4381 | 937 | 
-| 2022-10-03 | 4375 | 936 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 02
 
 ☋ Forks: 9
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/moj-analytical-services/IntroRTraining)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-02 | 14 | 9 | 
+| 2022-11-02 | 15 | 9 | 
 | 2022-11-01 | 14 | 9 | 
 | 2022-10-31 | 14 | 8 | 
 | 2022-10-30 | 14 | 8 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 12 | 8 | 
 | 2022-10-05 | 12 | 8 | 
 | 2022-10-04 | 12 | 8 | 
-| 2022-10-03 | 12 | 8 | 
 

@@ -1,10 +1,10 @@
 # erlydtl/erlydtl - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 187
 
-★ Stars: 500
+★ Stars: 499
 
 [Open repository](https://github.com/erlydtl/erlydtl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 499 | 187 | 
 | 2022-11-01 | 500 | 187 | 
 | 2022-10-31 | 500 | 187 | 
 | 2022-10-30 | 500 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 499 | 187 | 
 | 2022-10-05 | 499 | 187 | 
 | 2022-10-04 | 499 | 187 | 
-| 2022-10-03 | 499 | 187 | 
 

@@ -1,10 +1,10 @@
 # keplergl/kepler.gl - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 1525
+☋ Forks: 1527
 
-★ Stars: 8977
+★ Stars: 8982
 
 [Open repository](https://github.com/keplergl/kepler.gl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 8982 | 1527 | 
 | 2022-11-02 | 8977 | 1525 | 
 | 2022-11-01 | 8974 | 1522 | 
 | 2022-10-31 | 8972 | 1522 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 8906 | 1517 | 
 | 2022-10-05 | 8903 | 1517 | 
 | 2022-10-04 | 8899 | 1515 | 
-| 2022-10-03 | 8899 | 1515 | 
 

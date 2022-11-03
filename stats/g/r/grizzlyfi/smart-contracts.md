@@ -1,6 +1,6 @@
 # grizzlyfi/smart-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 24 | 15 | 
 | 2022-11-01 | 24 | 15 | 
 | 2022-10-31 | 24 | 15 | 
 | 2022-10-30 | 24 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 24 | 14 | 
 | 2022-10-05 | 24 | 14 | 
 | 2022-10-04 | 23 | 13 | 
-| 2022-10-03 | 22 | 13 | 
 

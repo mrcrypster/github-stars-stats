@@ -1,8 +1,8 @@
 # iNeuronai/interview-question-data-science- - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 823
+☋ Forks: 825
 
 ★ Stars: 1185
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1185 | 825 | 
 | 2022-11-01 | 1185 | 823 | 
 | 2022-10-31 | 1182 | 822 | 
 | 2022-10-30 | 1181 | 822 | 

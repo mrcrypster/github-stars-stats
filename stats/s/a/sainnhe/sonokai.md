@@ -1,10 +1,10 @@
 # sainnhe/sonokai - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 94
 
-★ Stars: 1015
+★ Stars: 1019
 
 [Open repository](https://github.com/sainnhe/sonokai)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1019 | 94 | 
 | 2022-11-01 | 1015 | 94 | 
 | 2022-10-31 | 1016 | 94 | 
 | 2022-10-30 | 1015 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 999 | 88 | 
 | 2022-10-05 | 997 | 88 | 
 | 2022-10-04 | 996 | 88 | 
-| 2022-10-03 | 996 | 89 | 
 

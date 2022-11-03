@@ -1,10 +1,10 @@
 # JordanMarr/FSharp.SystemCommandLine - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 2
+☋ Forks: 1
 
-★ Stars: 80
+★ Stars: 82
 
 [Open repository](https://github.com/JordanMarr/FSharp.SystemCommandLine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 82 | 1 | 
 | 2022-11-01 | 80 | 2 | 
 | 2022-10-31 | 80 | 2 | 
 | 2022-10-30 | 80 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-07 | 75 | 1 | 
 | 2022-10-06 | 75 | 1 | 
 | 2022-10-05 | 75 | 1 | 
-| 2022-10-04 | 75 | 1 | 
 

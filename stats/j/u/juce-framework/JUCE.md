@@ -1,10 +1,10 @@
 # juce-framework/JUCE - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 1338
+☋ Forks: 1337
 
-★ Stars: 4584
+★ Stars: 4591
 
 [Open repository](https://github.com/juce-framework/JUCE)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4591 | 1337 | 
 | 2022-11-01 | 4584 | 1338 | 
 | 2022-10-31 | 4582 | 1338 | 
 | 2022-10-30 | 4582 | 1337 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 4519 | 1330 | 
 | 2022-10-05 | 4516 | 1329 | 
 | 2022-10-04 | 4514 | 1328 | 
-| 2022-10-03 | 4512 | 1326 | 
 

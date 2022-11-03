@@ -1,6 +1,6 @@
 # microsoft/fluentui-apple - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 710 | 132 | 
 | 2022-11-01 | 710 | 132 | 
 | 2022-10-31 | 710 | 131 | 
 | 2022-10-30 | 710 | 131 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 701 | 130 | 
 | 2022-10-05 | 701 | 130 | 
 | 2022-10-04 | 701 | 130 | 
-| 2022-10-03 | 701 | 129 | 
 

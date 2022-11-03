@@ -1,6 +1,6 @@
 # alexey-goloburdin/nvim-config - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 139 | 65 | 
 | 2022-11-01 | 139 | 65 | 
 | 2022-10-31 | 137 | 65 | 
 | 2022-10-30 | 136 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 124 | 56 | 
 | 2022-10-05 | 124 | 57 | 
 | 2022-10-04 | 124 | 57 | 
-| 2022-10-03 | 124 | 58 | 
 

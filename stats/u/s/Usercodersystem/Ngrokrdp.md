@@ -1,10 +1,10 @@
 # Usercodersystem/Ngrokrdp - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 238
+☋ Forks: 265
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/Usercodersystem/Ngrokrdp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 4 | 265 | 
 | 2022-11-01 | 3 | 238 | 
 | 2022-10-31 | 2 | 223 | 
 | 2022-10-30 | 1 | 210 | 

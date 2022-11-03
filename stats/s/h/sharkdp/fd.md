@@ -1,10 +1,10 @@
 # sharkdp/fd - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 649
+☋ Forks: 650
 
-★ Stars: 25082
+★ Stars: 25099
 
 [Open repository](https://github.com/sharkdp/fd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 25099 | 650 | 
 | 2022-11-01 | 25082 | 649 | 
 | 2022-10-31 | 25072 | 648 | 
 | 2022-10-30 | 25068 | 649 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 24796 | 644 | 
 | 2022-10-05 | 24782 | 644 | 
 | 2022-10-04 | 24773 | 644 | 
-| 2022-10-03 | 24771 | 643 | 
 

@@ -1,10 +1,10 @@
 # abigger87/metamorphic - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/abigger87/metamorphic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 29 | 1 | 
 | 2022-11-01 | 28 | 1 | 
 | 2022-10-31 | 28 | 1 | 
 | 2022-10-30 | 28 | 1 | 

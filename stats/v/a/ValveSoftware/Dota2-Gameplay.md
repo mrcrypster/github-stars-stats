@@ -1,6 +1,6 @@
 # ValveSoftware/Dota2-Gameplay - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 824 | 28 | 
 | 2022-11-02 | 824 | 28 | 
 | 2022-11-01 | 822 | 28 | 
 | 2022-10-31 | 821 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 806 | 25 | 
 | 2022-10-05 | 805 | 25 | 
 | 2022-10-04 | 804 | 25 | 
-| 2022-10-03 | 804 | 25 | 
 

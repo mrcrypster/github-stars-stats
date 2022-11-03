@@ -1,10 +1,10 @@
 # Zeal-Operating-System/ZealOS - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 30
 
-★ Stars: 400
+★ Stars: 401
 
 [Open repository](https://github.com/Zeal-Operating-System/ZealOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 401 | 30 | 
 | 2022-11-01 | 400 | 30 | 
 | 2022-10-31 | 400 | 30 | 
 | 2022-10-30 | 400 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 395 | 29 | 
 | 2022-10-05 | 395 | 29 | 
 | 2022-10-04 | 395 | 29 | 
-| 2022-10-03 | 395 | 29 | 
 

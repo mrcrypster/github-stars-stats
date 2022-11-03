@@ -1,8 +1,8 @@
 # bluecapesecurity/PWF - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 128
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 128 | 27 | 
 | 2022-11-01 | 128 | 26 | 
 | 2022-10-31 | 128 | 26 | 
 | 2022-10-30 | 128 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 120 | 26 | 
 | 2022-10-05 | 120 | 26 | 
 | 2022-10-04 | 120 | 26 | 
-| 2022-10-03 | 120 | 26 | 
 

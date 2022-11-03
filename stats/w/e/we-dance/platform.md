@@ -1,6 +1,6 @@
 # we-dance/platform - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 25 | 47 | 
 | 2022-11-01 | 25 | 47 | 
 | 2022-10-31 | 24 | 48 | 
 | 2022-10-30 | 24 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 24 | 44 | 
 | 2022-10-05 | 24 | 44 | 
 | 2022-10-04 | 24 | 44 | 
-| 2022-10-03 | 24 | 44 | 
 

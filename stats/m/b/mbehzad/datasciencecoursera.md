@@ -1,8 +1,8 @@
 # mbehzad/datasciencecoursera - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1 | 18 | 
 | 2022-11-01 | 1 | 17 | 
 | 2022-10-31 | 1 | 16 | 
 | 2022-10-30 | 1 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1 | 9 | 
 | 2022-10-05 | 1 | 9 | 
 | 2022-10-04 | 1 | 9 | 
-| 2022-10-03 | 1 | 9 | 
 

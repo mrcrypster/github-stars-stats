@@ -1,10 +1,10 @@
 # lipis/flag-icons - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1600
 
-★ Stars: 8972
+★ Stars: 8971
 
 [Open repository](https://github.com/lipis/flag-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 8971 | 1600 | 
 | 2022-11-01 | 8972 | 1600 | 
 | 2022-10-31 | 8968 | 1598 | 
 | 2022-10-30 | 8967 | 1598 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 8919 | 1575 | 
 | 2022-10-05 | 8918 | 1574 | 
 | 2022-10-04 | 8916 | 1573 | 
-| 2022-10-03 | 8914 | 1571 | 
 

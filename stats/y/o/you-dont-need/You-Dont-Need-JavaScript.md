@@ -1,6 +1,6 @@
 # you-dont-need/You-Dont-Need-JavaScript - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1060
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 17658 | 1060 | 
 | 2022-11-01 | 17658 | 1060 | 
 | 2022-10-31 | 17658 | 1058 | 
 | 2022-10-30 | 17658 | 1057 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 17569 | 1030 | 
 | 2022-10-05 | 17567 | 1027 | 
 | 2022-10-04 | 17567 | 1026 | 
-| 2022-10-03 | 17566 | 1026 | 
 

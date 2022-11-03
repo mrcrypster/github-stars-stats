@@ -1,10 +1,10 @@
 # jackyzha0/quartz - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 869
+☋ Forks: 868
 
-★ Stars: 1208
+★ Stars: 1211
 
 [Open repository](https://github.com/jackyzha0/quartz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1211 | 868 | 
 | 2022-11-01 | 1208 | 869 | 
 | 2022-10-31 | 1208 | 869 | 
 | 2022-10-30 | 1199 | 863 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1077 | 768 | 
 | 2022-10-05 | 1073 | 763 | 
 | 2022-10-04 | 1060 | 757 | 
-| 2022-10-03 | 1054 | 757 | 
 

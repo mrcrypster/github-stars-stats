@@ -1,8 +1,8 @@
 # YangModels/yang - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 1118
+☋ Forks: 1119
 
 ★ Stars: 1261
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1261 | 1119 | 
 | 2022-11-01 | 1261 | 1118 | 
 | 2022-10-31 | 1261 | 1118 | 
 | 2022-10-30 | 1261 | 1117 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1252 | 1110 | 
 | 2022-10-05 | 1252 | 1109 | 
 | 2022-10-04 | 1251 | 1108 | 
-| 2022-10-03 | 1251 | 1107 | 
 

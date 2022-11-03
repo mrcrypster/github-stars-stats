@@ -1,10 +1,10 @@
 # roburio/http-mirage-client - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 0
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/roburio/http-mirage-client)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 9 | - | 
 | 2022-11-01 | 8 | - | 
 | 2022-10-31 | 8 | - | 
 | 2022-10-30 | 8 | - | 

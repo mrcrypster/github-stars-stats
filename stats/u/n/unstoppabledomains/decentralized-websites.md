@@ -1,10 +1,10 @@
 # unstoppabledomains/decentralized-websites - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 340
 
-★ Stars: 191
+★ Stars: 192
 
 [Open repository](https://github.com/unstoppabledomains/decentralized-websites)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 192 | 340 | 
 | 2022-11-01 | 191 | 340 | 
 | 2022-10-31 | 191 | 340 | 
 | 2022-10-30 | 191 | 339 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 188 | 333 | 
 | 2022-10-05 | 188 | 333 | 
 | 2022-10-04 | 188 | 333 | 
-| 2022-10-03 | 188 | 334 | 
 

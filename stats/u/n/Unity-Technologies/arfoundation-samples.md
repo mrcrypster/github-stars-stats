@@ -1,10 +1,10 @@
 # Unity-Technologies/arfoundation-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 859
+☋ Forks: 861
 
-★ Stars: 2292
+★ Stars: 2293
 
 [Open repository](https://github.com/Unity-Technologies/arfoundation-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 2293 | 861 | 
 | 2022-11-01 | 2292 | 859 | 
 | 2022-10-31 | 2292 | 859 | 
 | 2022-10-30 | 2291 | 858 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 2257 | 848 | 
 | 2022-10-05 | 2257 | 848 | 
 | 2022-10-04 | 2255 | 848 | 
-| 2022-10-03 | 2255 | 847 | 
 

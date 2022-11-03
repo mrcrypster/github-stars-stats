@@ -1,10 +1,10 @@
 # PurpleVsGreen/beacown - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 10
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/PurpleVsGreen/beacown)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 116 | 10 | 
 | 2022-11-01 | 115 | 10 | 
 | 2022-10-31 | 115 | 10 | 
 | 2022-10-30 | 115 | 10 | 

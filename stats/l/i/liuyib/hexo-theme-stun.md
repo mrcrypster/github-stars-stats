@@ -1,10 +1,10 @@
 # liuyib/hexo-theme-stun - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 120
 
-★ Stars: 556
+★ Stars: 557
 
 [Open repository](https://github.com/liuyib/hexo-theme-stun)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 557 | 120 | 
 | 2022-11-01 | 556 | 120 | 
 | 2022-10-31 | 556 | 120 | 
 | 2022-10-30 | 556 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 555 | 121 | 
 | 2022-10-05 | 555 | 121 | 
 | 2022-10-04 | 555 | 121 | 
-| 2022-10-03 | 554 | 121 | 
 

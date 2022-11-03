@@ -1,10 +1,10 @@
 # Light-City/CPlusPlusThings - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 6342
+☋ Forks: 6349
 
-★ Stars: 25495
+★ Stars: 25522
 
 [Open repository](https://github.com/Light-City/CPlusPlusThings)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 25522 | 6349 | 
 | 2022-11-01 | 25495 | 6342 | 
 | 2022-10-31 | 25474 | 6336 | 
 | 2022-10-30 | 25454 | 6330 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 24899 | 6220 | 
 | 2022-10-05 | 24880 | 6217 | 
 | 2022-10-04 | 24869 | 6212 | 
-| 2022-10-03 | 24852 | 6205 | 
 

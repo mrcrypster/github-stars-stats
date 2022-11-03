@@ -1,6 +1,6 @@
 # cloudflare/gokey - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 78
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1478 | 78 | 
 | 2022-11-01 | 1478 | 78 | 
 | 2022-10-31 | 1478 | 78 | 
 | 2022-10-30 | 1478 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1468 | 74 | 
 | 2022-10-05 | 1468 | 74 | 
 | 2022-10-04 | 1468 | 74 | 
-| 2022-10-03 | 1468 | 74 | 
 

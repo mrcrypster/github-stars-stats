@@ -1,6 +1,6 @@
 # avinassh/py-caskdb - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 850 | 52 | 
 | 2022-11-01 | 850 | 52 | 
 | 2022-10-31 | 850 | 52 | 
 | 2022-10-30 | 849 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 848 | 49 | 
 | 2022-10-05 | 849 | 49 | 
 | 2022-10-04 | 849 | 49 | 
-| 2022-10-03 | 849 | 49 | 
 

@@ -1,10 +1,10 @@
 # simibac/ConfettiSwiftUI - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 45
 
-★ Stars: 686
+★ Stars: 688
 
 [Open repository](https://github.com/simibac/ConfettiSwiftUI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 688 | 45 | 
 | 2022-11-01 | 686 | 45 | 
 | 2022-10-31 | 685 | 45 | 
 | 2022-10-30 | 684 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 659 | 44 | 
 | 2022-10-05 | 658 | 44 | 
 | 2022-10-04 | 653 | 44 | 
-| 2022-10-03 | 651 | 44 | 
 

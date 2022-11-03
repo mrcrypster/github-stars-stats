@@ -1,10 +1,10 @@
 # jdhao/nvim-config - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 314
+☋ Forks: 317
 
-★ Stars: 1825
+★ Stars: 1830
 
 [Open repository](https://github.com/jdhao/nvim-config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 1830 | 317 | 
 | 2022-11-01 | 1825 | 314 | 
 | 2022-10-31 | 1817 | 316 | 
 | 2022-10-30 | 1813 | 313 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 1696 | 291 | 
 | 2022-10-05 | 1668 | 287 | 
 | 2022-10-04 | 1658 | 286 | 
-| 2022-10-03 | 1652 | 285 | 
 

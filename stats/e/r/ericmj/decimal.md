@@ -1,10 +1,10 @@
 # ericmj/decimal - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 97
 
-★ Stars: 405
+★ Stars: 406
 
 [Open repository](https://github.com/ericmj/decimal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 406 | 97 | 
 | 2022-11-01 | 405 | 97 | 
 | 2022-10-31 | 405 | 97 | 
 | 2022-10-30 | 405 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 402 | 96 | 
 | 2022-10-05 | 402 | 96 | 
 | 2022-10-04 | 402 | 96 | 
-| 2022-10-03 | 402 | 96 | 
 

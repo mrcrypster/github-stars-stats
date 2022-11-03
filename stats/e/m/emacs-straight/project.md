@@ -1,6 +1,6 @@
 # emacs-straight/project - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | - | 1 | 
 | 2022-11-01 | - | 1 | 
 | 2022-10-31 | - | 1 | 
 | 2022-10-30 | - | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | - | - | 
 | 2022-10-05 | - | - | 
 | 2022-10-04 | - | - | 
-| 2022-10-03 | - | - | 
 

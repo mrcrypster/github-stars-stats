@@ -1,10 +1,10 @@
 # vigoux/notifier.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 5
 
-★ Stars: 114
+★ Stars: 113
 
 [Open repository](https://github.com/vigoux/notifier.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 113 | 5 | 
 | 2022-11-01 | 114 | 5 | 
 | 2022-10-31 | 114 | 5 | 
 | 2022-10-30 | 114 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 100 | 5 | 
 | 2022-10-05 | 93 | 5 | 
 | 2022-10-04 | 79 | 4 | 
-| 2022-10-03 | 78 | 4 | 
 

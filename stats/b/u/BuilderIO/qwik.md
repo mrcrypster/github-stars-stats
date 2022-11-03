@@ -1,10 +1,10 @@
 # BuilderIO/qwik - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 515
+☋ Forks: 519
 
-★ Stars: 12710
+★ Stars: 12777
 
 [Open repository](https://github.com/BuilderIO/qwik)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 12777 | 519 | 
 | 2022-11-01 | 12710 | 515 | 
 | 2022-10-31 | 12657 | 509 | 
 | 2022-10-30 | 12627 | 508 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 10571 | 393 | 
 | 2022-10-05 | 10376 | 382 | 
 | 2022-10-04 | 10245 | 375 | 
-| 2022-10-03 | 10142 | 370 | 
 

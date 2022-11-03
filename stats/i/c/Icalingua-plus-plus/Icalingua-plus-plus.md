@@ -1,10 +1,10 @@
 # Icalingua-plus-plus/Icalingua-plus-plus - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 145
+☋ Forks: 146
 
-★ Stars: 2066
+★ Stars: 2073
 
 [Open repository](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 2073 | 146 | 
 | 2022-11-02 | 2066 | 145 | 
 | 2022-11-01 | 2056 | 145 | 
 | 2022-10-30 | 2052 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 1925 | 137 | 
 | 2022-10-05 | 1921 | 137 | 
 | 2022-10-04 | 1915 | 137 | 
-| 2022-10-03 | 1905 | 137 | 
 

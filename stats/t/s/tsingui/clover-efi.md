@@ -1,8 +1,8 @@
 # tsingui/clover-efi - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
-☋ Forks: 1822
+☋ Forks: 1823
 
 ★ Stars: 867
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 867 | 1823 | 
 | 2022-11-01 | 867 | 1822 | 
 | 2022-10-31 | 866 | 1821 | 
 | 2022-10-30 | 866 | 1822 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 861 | 1815 | 
 | 2022-10-05 | 861 | 1815 | 
 | 2022-10-04 | 861 | 1815 | 
-| 2022-10-03 | 861 | 1815 | 
 

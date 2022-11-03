@@ -1,6 +1,6 @@
 # hrsh7th/cmp-nvim-lsp - stars & forks statistics
 
-Stats updated on Nov 2022, 01
+Stats updated on Nov 2022, 02
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 01
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-02 | 411 | 26 | 
 | 2022-11-01 | 411 | 26 | 
 | 2022-10-31 | 409 | 26 | 
 | 2022-10-30 | 408 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 01
 | 2022-10-06 | 358 | 20 | 
 | 2022-10-05 | 358 | 20 | 
 | 2022-10-04 | 358 | 20 | 
-| 2022-10-03 | 357 | 20 | 
 

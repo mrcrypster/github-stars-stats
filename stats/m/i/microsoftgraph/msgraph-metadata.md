@@ -1,6 +1,6 @@
 # microsoftgraph/msgraph-metadata - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 57 | 14 | 
 | 2022-11-02 | 57 | 14 | 
 | 2022-11-01 | 57 | 14 | 
 | 2022-10-31 | 56 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-06 | 55 | 14 | 
 | 2022-10-05 | 55 | 14 | 
 | 2022-10-04 | 55 | 14 | 
-| 2022-10-03 | 55 | 14 | 
 
