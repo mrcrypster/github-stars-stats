@@ -1,6 +1,6 @@
 # langzishen/DDFoodHook - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 48 | 35 | 
 | 2022-11-02 | 48 | 35 | 
 | 2022-11-01 | 48 | 35 | 
 | 2022-10-31 | 48 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 48 | 36 | 
 | 2022-10-06 | 48 | 36 | 
 | 2022-10-05 | 48 | 36 | 
-| 2022-10-04 | 48 | 36 | 
 

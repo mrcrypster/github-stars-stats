@@ -1,10 +1,10 @@
 # vim-scripts/ReplaceWithRegister - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 18
 
-★ Stars: 256
+★ Stars: 257
 
 [Open repository](https://github.com/vim-scripts/ReplaceWithRegister)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 257 | 18 | 
 | 2022-11-02 | 256 | 18 | 
 | 2022-11-01 | 256 | 18 | 
 | 2022-10-31 | 255 | 18 | 

@@ -1,6 +1,6 @@
 # liuxinyu95/AlgoXY - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 699
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 5442 | 699 | 
 | 2022-11-02 | 5442 | 699 | 
 | 2022-11-01 | 5441 | 699 | 
 | 2022-10-31 | 5441 | 699 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 5404 | 697 | 
 | 2022-10-06 | 5401 | 697 | 
 | 2022-10-05 | 5400 | 697 | 
-| 2022-10-04 | 5400 | 697 | 
 

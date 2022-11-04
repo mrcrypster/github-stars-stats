@@ -1,8 +1,8 @@
 # PhoenixAceVFX/Roblox-Scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 688
+☋ Forks: 691
 
 ★ Stars: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 140 | 691 | 
 | 2022-11-02 | 140 | 688 | 
 | 2022-11-01 | 139 | 688 | 
 | 2022-10-31 | 138 | 687 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 133 | 654 | 
 | 2022-10-06 | 134 | 654 | 
 | 2022-10-05 | 134 | 652 | 
-| 2022-10-04 | 133 | 650 | 
 

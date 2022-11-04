@@ -1,10 +1,10 @@
 # microsoft/MixedRealityToolkit-Unity - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 2028
 
-★ Stars: 5413
+★ Stars: 5415
 
 [Open repository](https://github.com/microsoft/MixedRealityToolkit-Unity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 5415 | 2028 | 
 | 2022-11-02 | 5413 | 2028 | 
 | 2022-11-01 | 5412 | 2028 | 
 | 2022-10-31 | 5408 | 2028 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 5363 | 2018 | 
 | 2022-10-06 | 5362 | 2018 | 
 | 2022-10-05 | 5359 | 2018 | 
-| 2022-10-04 | 5358 | 2019 | 
 

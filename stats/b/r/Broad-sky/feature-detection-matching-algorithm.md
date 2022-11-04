@@ -1,10 +1,10 @@
 # Broad-sky/feature-detection-matching-algorithm - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/Broad-sky/feature-detection-matching-algorithm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 105 | 15 | 
 | 2022-11-02 | 104 | 14 | 
 | 2022-11-01 | 104 | 14 | 
 | 2022-10-31 | 103 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 101 | 14 | 
 | 2022-10-06 | 101 | 14 | 
 | 2022-10-05 | 101 | 14 | 
-| 2022-10-04 | 101 | 14 | 
 

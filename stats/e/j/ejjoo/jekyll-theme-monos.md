@@ -1,8 +1,8 @@
 # ejjoo/jekyll-theme-monos - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 212
+☋ Forks: 213
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 27 | 213 | 
 | 2022-11-02 | 27 | 212 | 
 | 2022-11-01 | 27 | 212 | 
 | 2022-10-31 | 27 | 212 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 26 | 209 | 
 | 2022-10-07 | 26 | 209 | 
 | 2022-10-06 | 26 | 210 | 
-| 2022-10-05 | 26 | 209 | 
 

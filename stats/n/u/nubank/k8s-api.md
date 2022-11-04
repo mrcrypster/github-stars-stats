@@ -1,10 +1,10 @@
 # nubank/k8s-api - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 8
 
-★ Stars: 98
+★ Stars: 97
 
 [Open repository](https://github.com/nubank/k8s-api)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 97 | 8 | 
 | 2022-11-02 | 98 | 8 | 
 | 2022-11-01 | 98 | 8 | 
 | 2022-10-31 | 98 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 98 | 7 | 
 | 2022-10-06 | 98 | 7 | 
 | 2022-10-05 | 98 | 7 | 
-| 2022-10-04 | 98 | 7 | 
 

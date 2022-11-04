@@ -1,10 +1,10 @@
 # elihunter173/dirbuf.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 8
 
-★ Stars: 304
+★ Stars: 305
 
 [Open repository](https://github.com/elihunter173/dirbuf.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 305 | 8 | 
 | 2022-11-02 | 304 | 8 | 
 | 2022-11-01 | 304 | 8 | 
 | 2022-10-31 | 304 | 8 | 

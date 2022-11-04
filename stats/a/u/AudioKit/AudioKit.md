@@ -1,10 +1,10 @@
 # AudioKit/AudioKit - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 1455
+☋ Forks: 1454
 
-★ Stars: 9414
+★ Stars: 9415
 
 [Open repository](https://github.com/AudioKit/AudioKit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 9415 | 1454 | 
 | 2022-11-02 | 9414 | 1455 | 
 | 2022-11-01 | 9410 | 1456 | 
 | 2022-10-31 | 9410 | 1456 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 9366 | 1453 | 
 | 2022-10-06 | 9364 | 1452 | 
 | 2022-10-05 | 9359 | 1452 | 
-| 2022-10-04 | 9358 | 1452 | 
 

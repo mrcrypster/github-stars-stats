@@ -1,10 +1,10 @@
 # elenapan/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 180
 
-★ Stars: 3138
+★ Stars: 3139
 
 [Open repository](https://github.com/elenapan/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3139 | 180 | 
 | 2022-11-02 | 3138 | 180 | 
 | 2022-11-01 | 3136 | 180 | 
 | 2022-10-31 | 3135 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 3114 | 179 | 
 | 2022-10-07 | 3115 | 179 | 
 | 2022-10-06 | 3111 | 178 | 
-| 2022-10-05 | 3111 | 178 | 
 

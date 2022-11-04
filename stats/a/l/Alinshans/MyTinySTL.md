@@ -1,10 +1,10 @@
 # Alinshans/MyTinySTL - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 2560
+☋ Forks: 2561
 
-★ Stars: 7425
+★ Stars: 7429
 
 [Open repository](https://github.com/Alinshans/MyTinySTL)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 7429 | 2561 | 
 | 2022-11-02 | 7425 | 2560 | 
 | 2022-11-01 | 7421 | 2561 | 
 | 2022-10-31 | 7416 | 2561 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 7256 | 2509 | 
 | 2022-10-06 | 7248 | 2506 | 
 | 2022-10-05 | 7243 | 2504 | 
-| 2022-10-04 | 7232 | 2501 | 
 

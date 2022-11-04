@@ -1,10 +1,10 @@
 # josevalim/nested-map-reduce-traversal - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/josevalim/nested-map-reduce-traversal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 12 | - | 
 | 2022-11-03 | 11 | - | 
 | 2022-11-02 | 11 | - | 
 | 2022-11-01 | 11 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 11 | - | 
 | 2022-10-06 | 11 | - | 
 | 2022-10-05 | 11 | - | 
-| 2022-10-04 | 11 | - | 
 

@@ -1,10 +1,10 @@
 # rejeep/f.el - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 67
 
-★ Stars: 596
+★ Stars: 597
 
 [Open repository](https://github.com/rejeep/f.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 597 | 67 | 
 | 2022-11-02 | 596 | 67 | 
 | 2022-11-01 | 596 | 67 | 
 | 2022-10-31 | 595 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 589 | 67 | 
 | 2022-10-06 | 586 | 67 | 
 | 2022-10-05 | 586 | 67 | 
-| 2022-10-04 | 586 | 67 | 
 

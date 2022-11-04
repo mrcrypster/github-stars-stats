@@ -1,10 +1,10 @@
 # JohnHammond/msdt-follina - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 354
 
-★ Stars: 1480
+★ Stars: 1482
 
 [Open repository](https://github.com/JohnHammond/msdt-follina)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1482 | 354 | 
 | 2022-11-03 | 1480 | 354 | 
 | 2022-11-01 | 1480 | 354 | 
 | 2022-10-31 | 1479 | 353 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 1461 | 341 | 
 | 2022-10-06 | 1459 | 341 | 
 | 2022-10-05 | 1457 | 339 | 
-| 2022-10-04 | 1457 | 339 | 
 

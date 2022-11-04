@@ -1,8 +1,8 @@
 # dotnet/project-system - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 362
+☋ Forks: 363
 
 ★ Stars: 824
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 824 | 363 | 
 | 2022-11-03 | 824 | 362 | 
 | 2022-11-02 | 823 | 362 | 
 | 2022-11-01 | 822 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 818 | 358 | 
 | 2022-10-06 | 818 | 358 | 
 | 2022-10-05 | 818 | 358 | 
-| 2022-10-04 | 818 | 357 | 
 

@@ -1,8 +1,8 @@
 # JuliaBooks/Books.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 17
+☋ Forks: 16
 
 ★ Stars: 237
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 237 | 16 | 
 | 2022-11-02 | 237 | 17 | 
 | 2022-11-01 | 237 | 17 | 
 | 2022-10-31 | 237 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 237 | 17 | 
 | 2022-10-06 | 237 | 17 | 
 | 2022-10-05 | 237 | 17 | 
-| 2022-10-04 | 237 | 17 | 
 

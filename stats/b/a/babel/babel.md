@@ -1,10 +1,10 @@
 # babel/babel - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 5488
+☋ Forks: 5487
 
-★ Stars: 41563
+★ Stars: 41565
 
 [Open repository](https://github.com/babel/babel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 41565 | 5487 | 
 | 2022-11-02 | 41563 | 5488 | 
 | 2022-11-01 | 41559 | 5487 | 
 | 2022-10-31 | 41552 | 5486 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 41469 | 5469 | 
 | 2022-10-06 | 41463 | 5468 | 
 | 2022-10-05 | 41458 | 5465 | 
-| 2022-10-04 | 41452 | 5464 | 
 

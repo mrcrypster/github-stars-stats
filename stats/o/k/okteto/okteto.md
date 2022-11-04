@@ -1,10 +1,10 @@
 # okteto/okteto - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 248
+☋ Forks: 250
 
-★ Stars: 2573
+★ Stars: 2588
 
 [Open repository](https://github.com/okteto/okteto)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 2588 | 250 | 
 | 2022-11-02 | 2573 | 248 | 
 | 2022-11-01 | 2562 | 248 | 
 | 2022-10-31 | 2549 | 246 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 2518 | 241 | 
 | 2022-10-06 | 2517 | 241 | 
 | 2022-10-05 | 2516 | 241 | 
-| 2022-10-04 | 2516 | 241 | 
 

@@ -1,10 +1,10 @@
 # space-wizards/space-station-14 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 913
+☋ Forks: 916
 
-★ Stars: 940
+★ Stars: 943
 
 [Open repository](https://github.com/space-wizards/space-station-14)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 943 | 916 | 
 | 2022-11-02 | 940 | 913 | 
 | 2022-11-01 | 939 | 912 | 
 | 2022-10-31 | 938 | 911 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 917 | 882 | 
 | 2022-10-06 | 916 | 882 | 
 | 2022-10-05 | 916 | 880 | 
-| 2022-10-04 | 915 | 880 | 
 

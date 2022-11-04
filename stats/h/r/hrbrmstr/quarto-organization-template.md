@@ -1,10 +1,10 @@
 # hrbrmstr/quarto-organization-template - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 1
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/hrbrmstr/quarto-organization-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 48 | 1 | 
 | 2022-11-02 | 47 | 1 | 
 | 2022-11-01 | 47 | 1 | 
 | 2022-10-31 | 47 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 45 | 1 | 
 | 2022-10-06 | 44 | 1 | 
 | 2022-10-05 | 44 | 1 | 
-| 2022-10-04 | 42 | 1 | 
 

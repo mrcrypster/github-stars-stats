@@ -1,10 +1,10 @@
 # nexxeln/create-t3-app - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 360
 
-★ Stars: 8641
+★ Stars: 8730
 
 [Open repository](https://github.com/nexxeln/create-t3-app)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 8730 | 360 | 
 | 2022-11-02 | 8641 | 360 | 
 | 2022-11-01 | 8617 | 359 | 
 | 2022-10-31 | 8584 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 7749 | 314 | 
 | 2022-10-07 | 7706 | 310 | 
 | 2022-10-06 | 7675 | 309 | 
-| 2022-10-05 | 7623 | 306 | 
 

@@ -1,10 +1,10 @@
 # tomusdrw/rust-web3 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 375
 
-★ Stars: 1113
+★ Stars: 1116
 
 [Open repository](https://github.com/tomusdrw/rust-web3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1116 | 375 | 
 | 2022-11-02 | 1113 | 375 | 
 | 2022-11-01 | 1113 | 375 | 
 | 2022-10-31 | 1113 | 375 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1088 | 367 | 
 | 2022-10-06 | 1086 | 366 | 
 | 2022-10-05 | 1082 | 365 | 
-| 2022-10-04 | 1080 | 365 | 
 

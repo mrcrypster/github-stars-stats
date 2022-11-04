@@ -1,10 +1,10 @@
 # satijalab/seurat - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 779
 
-★ Stars: 1612
+★ Stars: 1613
 
 [Open repository](https://github.com/satijalab/seurat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1613 | 779 | 
 | 2022-11-02 | 1612 | 779 | 
 | 2022-11-01 | 1610 | 779 | 
 | 2022-10-31 | 1609 | 776 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1587 | 758 | 
 | 2022-10-06 | 1586 | 757 | 
 | 2022-10-05 | 1586 | 756 | 
-| 2022-10-04 | 1586 | 755 | 
 

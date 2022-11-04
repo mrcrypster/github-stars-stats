@@ -1,6 +1,6 @@
 # S3cur3Th1sSh1t/Nim_DInvoke - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 93 | 6 | 
 | 2022-11-03 | 93 | 6 | 
 | 2022-11-01 | 93 | 6 | 
 | 2022-10-31 | 93 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 92 | 6 | 
 | 2022-10-06 | 92 | 6 | 
 | 2022-10-05 | 92 | 6 | 
-| 2022-10-04 | 92 | 6 | 
 

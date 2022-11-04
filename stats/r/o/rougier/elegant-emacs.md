@@ -1,10 +1,10 @@
 # rougier/elegant-emacs - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 75
 
-★ Stars: 1214
+★ Stars: 1218
 
 [Open repository](https://github.com/rougier/elegant-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1218 | 75 | 
 | 2022-11-02 | 1214 | 75 | 
 | 2022-11-01 | 1214 | 75 | 
 | 2022-10-31 | 1213 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1208 | 74 | 
 | 2022-10-06 | 1207 | 74 | 
 | 2022-10-05 | 1207 | 74 | 
-| 2022-10-04 | 1205 | 74 | 
 

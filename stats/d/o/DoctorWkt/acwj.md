@@ -1,10 +1,10 @@
 # DoctorWkt/acwj - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 665
 
-★ Stars: 6937
+★ Stars: 6942
 
 [Open repository](https://github.com/DoctorWkt/acwj)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 6942 | 665 | 
 | 2022-11-02 | 6937 | 665 | 
 | 2022-11-01 | 6935 | 663 | 
 | 2022-10-31 | 6931 | 662 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 6856 | 647 | 
 | 2022-10-07 | 6854 | 646 | 
 | 2022-10-06 | 6854 | 645 | 
-| 2022-10-05 | 6853 | 646 | 
 

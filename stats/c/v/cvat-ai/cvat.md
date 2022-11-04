@@ -1,10 +1,10 @@
 # cvat-ai/cvat - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 2184
 
-★ Stars: 8107
+★ Stars: 8115
 
 [Open repository](https://github.com/cvat-ai/cvat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 8115 | 2184 | 
 | 2022-11-02 | 8107 | 2184 | 
 | 2022-11-01 | 8102 | 2183 | 
 | 2022-10-31 | 8097 | 2182 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 7971 | 2141 | 
 | 2022-10-06 | 7970 | 2140 | 
 | 2022-10-05 | 7967 | 2135 | 
-| 2022-10-04 | 7963 | 2133 | 
 

@@ -1,10 +1,10 @@
 # mwaterfall/MWPhotoBrowser - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 2757
 
-★ Stars: 8770
+★ Stars: 8771
 
 [Open repository](https://github.com/mwaterfall/MWPhotoBrowser)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 8771 | 2757 | 
 | 2022-11-02 | 8770 | 2757 | 
 | 2022-11-01 | 8770 | 2757 | 
 | 2022-10-31 | 8771 | 2758 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 8767 | 2754 | 
 | 2022-10-06 | 8767 | 2754 | 
 | 2022-10-05 | 8767 | 2754 | 
-| 2022-10-04 | 8766 | 2755 | 
 

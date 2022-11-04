@@ -1,10 +1,10 @@
 # pinauten/KernelPatchfinder - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 5
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/pinauten/KernelPatchfinder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 56 | 5 | 
 | 2022-11-02 | 54 | 5 | 
 | 2022-11-01 | 53 | 5 | 
 | 2022-10-31 | 49 | 5 | 

@@ -1,10 +1,10 @@
 # Freaky/Compactor - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 36
 
-★ Stars: 838
+★ Stars: 840
 
 [Open repository](https://github.com/Freaky/Compactor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 840 | 36 | 
 | 2022-11-02 | 838 | 36 | 
 | 2022-11-01 | 838 | 36 | 
 | 2022-10-31 | 838 | 36 | 

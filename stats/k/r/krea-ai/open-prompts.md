@@ -1,10 +1,10 @@
 # krea-ai/open-prompts - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 23
 
-★ Stars: 556
+★ Stars: 559
 
 [Open repository](https://github.com/krea-ai/open-prompts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 559 | 23 | 
 | 2022-11-02 | 556 | 23 | 
 | 2022-11-01 | 553 | 23 | 
 | 2022-10-31 | 551 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 518 | 17 | 
 | 2022-10-06 | 515 | 17 | 
 | 2022-10-05 | 512 | 17 | 
-| 2022-10-04 | 510 | 17 | 
 

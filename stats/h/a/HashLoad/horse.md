@@ -1,6 +1,6 @@
 # HashLoad/horse - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 790 | 164 | 
 | 2022-11-02 | 790 | 164 | 
 | 2022-11-01 | 789 | 164 | 
 | 2022-10-31 | 789 | 164 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 775 | 162 | 
 | 2022-10-06 | 773 | 162 | 
 | 2022-10-05 | 773 | 162 | 
-| 2022-10-04 | 773 | 162 | 
 

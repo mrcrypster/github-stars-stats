@@ -1,10 +1,10 @@
 # emacs-evil/evil-surround - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 54
 
-★ Stars: 546
+★ Stars: 547
 
 [Open repository](https://github.com/emacs-evil/evil-surround)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 547 | 54 | 
 | 2022-11-02 | 546 | 54 | 
 | 2022-11-01 | 545 | 54 | 
 | 2022-10-31 | 543 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 539 | 54 | 
 | 2022-10-06 | 539 | 54 | 
 | 2022-10-05 | 539 | 54 | 
-| 2022-10-04 | 538 | 54 | 
 

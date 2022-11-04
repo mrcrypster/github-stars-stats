@@ -1,6 +1,6 @@
 # vim-jp/vital.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 549 | 64 | 
 | 2022-11-02 | 549 | 64 | 
 | 2022-11-01 | 549 | 64 | 
 | 2022-10-31 | 549 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 548 | 64 | 
 | 2022-10-06 | 548 | 64 | 
 | 2022-10-05 | 548 | 64 | 
-| 2022-10-04 | 548 | 64 | 
 

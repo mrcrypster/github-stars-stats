@@ -1,10 +1,10 @@
 # Unity-Technologies/com.unity.demoteam.hair - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 56
+☋ Forks: 57
 
-★ Stars: 420
+★ Stars: 424
 
 [Open repository](https://github.com/Unity-Technologies/com.unity.demoteam.hair)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 424 | 57 | 
 | 2022-11-02 | 420 | 56 | 
 | 2022-11-01 | 414 | 56 | 
 | 2022-10-31 | 414 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 402 | 50 | 
 | 2022-10-07 | 401 | 49 | 
 | 2022-10-06 | 401 | 48 | 
-| 2022-10-05 | 401 | 48 | 
 

@@ -1,10 +1,10 @@
 # LITTLESITE/BPXD - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 24
 
-★ Stars: 70
+★ Stars: 71
 
 [Open repository](https://github.com/LITTLESITE/BPXD)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 71 | 24 | 
 | 2022-11-02 | 70 | 24 | 
 | 2022-11-01 | 70 | 24 | 
 | 2022-10-31 | 70 | 24 | 

@@ -1,10 +1,10 @@
 # aws-actions/configure-aws-credentials - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 305
+☋ Forks: 306
 
-★ Stars: 1452
+★ Stars: 1454
 
 [Open repository](https://github.com/aws-actions/configure-aws-credentials)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1454 | 306 | 
 | 2022-11-02 | 1452 | 305 | 
 | 2022-11-01 | 1450 | 304 | 
 | 2022-10-31 | 1447 | 304 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1323 | 265 | 
 | 2022-10-06 | 1321 | 263 | 
 | 2022-10-05 | 1320 | 263 | 
-| 2022-10-04 | 1318 | 264 | 
 

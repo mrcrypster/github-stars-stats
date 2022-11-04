@@ -1,6 +1,6 @@
 # gel-rb/gel - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 719 | 26 | 
 | 2022-11-02 | 719 | 26 | 
 | 2022-11-01 | 719 | 25 | 
 | 2022-10-31 | 718 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 715 | 24 | 
 | 2022-10-07 | 714 | 24 | 
 | 2022-10-06 | 714 | 24 | 
-| 2022-10-05 | 714 | 24 | 
 

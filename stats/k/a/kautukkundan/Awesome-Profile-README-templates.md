@@ -1,10 +1,10 @@
 # kautukkundan/Awesome-Profile-README-templates - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 6931
+☋ Forks: 6937
 
-★ Stars: 9620
+★ Stars: 9622
 
 [Open repository](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 9622 | 6937 | 
 | 2022-11-02 | 9620 | 6931 | 
 | 2022-11-01 | 9617 | 6924 | 
 | 2022-10-31 | 9615 | 6921 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 9565 | 6818 | 
 | 2022-10-06 | 9562 | 6811 | 
 | 2022-10-05 | 9558 | 6803 | 
-| 2022-10-04 | 9553 | 6794 | 
 

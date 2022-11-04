@@ -1,10 +1,10 @@
 # Moham3dRiahi/Th3inspector - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 447
 
-★ Stars: 1449
+★ Stars: 1450
 
 [Open repository](https://github.com/Moham3dRiahi/Th3inspector)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1450 | 447 | 
 | 2022-11-02 | 1449 | 447 | 
 | 2022-11-01 | 1449 | 447 | 
 | 2022-10-31 | 1446 | 447 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1430 | 447 | 
 | 2022-10-06 | 1431 | 447 | 
 | 2022-10-05 | 1430 | 447 | 
-| 2022-10-04 | 1427 | 447 | 
 

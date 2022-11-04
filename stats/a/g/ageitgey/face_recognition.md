@@ -1,10 +1,10 @@
 # ageitgey/face_recognition - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 12562
+☋ Forks: 12563
 
-★ Stars: 46317
+★ Stars: 46327
 
 [Open repository](https://github.com/ageitgey/face_recognition)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 46327 | 12563 | 
 | 2022-11-02 | 46317 | 12562 | 
 | 2022-11-01 | 46306 | 12558 | 
 | 2022-10-31 | 46295 | 12556 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 45968 | 12514 | 
 | 2022-10-06 | 45958 | 12514 | 
 | 2022-10-05 | 45943 | 12514 | 
-| 2022-10-04 | 45929 | 12510 | 
 

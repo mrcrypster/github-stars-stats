@@ -1,10 +1,10 @@
 # cristiantela/lula2turno - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 29
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/cristiantela/lula2turno)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 55 | 29 | 
 | 2022-11-02 | 54 | 29 | 
 | 2022-11-01 | 54 | 29 | 
 | 2022-10-31 | 54 | 28 | 

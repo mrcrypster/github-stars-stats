@@ -1,10 +1,10 @@
 # appwrite/appwrite - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 2214
+☋ Forks: 2217
 
-★ Stars: 26918
+★ Stars: 26947
 
 [Open repository](https://github.com/appwrite/appwrite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 26947 | 2217 | 
 | 2022-11-02 | 26918 | 2214 | 
 | 2022-11-01 | 26893 | 2215 | 
 | 2022-10-31 | 26880 | 2213 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 26019 | 2089 | 
 | 2022-10-06 | 25966 | 2086 | 
 | 2022-10-05 | 25927 | 2073 | 
-| 2022-10-04 | 25915 | 2065 | 
 

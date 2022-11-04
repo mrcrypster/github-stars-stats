@@ -1,10 +1,10 @@
 # zeromq/libzmq - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 2191
 
-★ Stars: 8097
+★ Stars: 8099
 
 [Open repository](https://github.com/zeromq/libzmq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 8099 | 2191 | 
 | 2022-11-02 | 8097 | 2191 | 
 | 2022-11-01 | 8096 | 2189 | 
 | 2022-10-31 | 8092 | 2188 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 8047 | 2184 | 
 | 2022-10-06 | 8046 | 2184 | 
 | 2022-10-05 | 8043 | 2185 | 
-| 2022-10-04 | 8042 | 2184 | 
 

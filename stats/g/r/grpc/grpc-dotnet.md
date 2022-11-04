@@ -1,10 +1,10 @@
 # grpc/grpc-dotnet - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 669
 
-★ Stars: 3368
+★ Stars: 3369
 
 [Open repository](https://github.com/grpc/grpc-dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3369 | 669 | 
 | 2022-11-02 | 3368 | 669 | 
 | 2022-11-01 | 3365 | 667 | 
 | 2022-10-31 | 3364 | 667 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 3317 | 659 | 
 | 2022-10-06 | 3318 | 658 | 
 | 2022-10-05 | 3316 | 658 | 
-| 2022-10-04 | 3315 | 658 | 
 

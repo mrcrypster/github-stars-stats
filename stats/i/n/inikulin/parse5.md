@@ -1,10 +1,10 @@
 # inikulin/parse5 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 233
+☋ Forks: 234
 
-★ Stars: 3160
+★ Stars: 3164
 
 [Open repository](https://github.com/inikulin/parse5)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3164 | 234 | 
 | 2022-11-02 | 3160 | 233 | 
 | 2022-11-01 | 3159 | 233 | 
 | 2022-10-31 | 3158 | 233 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 3133 | 231 | 
 | 2022-10-06 | 3133 | 231 | 
 | 2022-10-05 | 3133 | 231 | 
-| 2022-10-04 | 3133 | 231 | 
 

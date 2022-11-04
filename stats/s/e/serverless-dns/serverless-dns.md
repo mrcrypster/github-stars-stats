@@ -1,10 +1,10 @@
 # serverless-dns/serverless-dns - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 400
+☋ Forks: 404
 
-★ Stars: 1069
+★ Stars: 1070
 
 [Open repository](https://github.com/serverless-dns/serverless-dns)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1070 | 404 | 
 | 2022-11-02 | 1069 | 400 | 
 | 2022-11-01 | 1068 | 398 | 
 | 2022-10-31 | 1067 | 398 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1035 | 376 | 
 | 2022-10-06 | 1032 | 373 | 
 | 2022-10-05 | 1029 | 372 | 
-| 2022-10-04 | 1028 | 371 | 
 

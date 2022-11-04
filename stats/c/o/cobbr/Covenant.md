@@ -1,10 +1,10 @@
 # cobbr/Covenant - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 648
 
-★ Stars: 3278
+★ Stars: 3281
 
 [Open repository](https://github.com/cobbr/Covenant)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3281 | 648 | 
 | 2022-11-02 | 3278 | 648 | 
 | 2022-11-01 | 3278 | 648 | 
 | 2022-10-31 | 3275 | 649 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 3245 | 635 | 
 | 2022-10-06 | 3242 | 635 | 
 | 2022-10-05 | 3239 | 635 | 
-| 2022-10-04 | 3238 | 635 | 
 

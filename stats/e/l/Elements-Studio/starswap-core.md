@@ -1,6 +1,6 @@
 # Elements-Studio/starswap-core - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 36 | 19 | 
 | 2022-11-02 | 36 | 19 | 
 | 2022-11-01 | 36 | 18 | 
 | 2022-10-31 | 36 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 26 | 17 | 
 | 2022-10-06 | 26 | 17 | 
 | 2022-10-05 | 26 | 17 | 
-| 2022-10-04 | 26 | 17 | 
 

@@ -1,10 +1,10 @@
 # ThePrimeagen/harpoon - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 1354
+★ Stars: 1358
 
 [Open repository](https://github.com/ThePrimeagen/harpoon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1358 | 110 | 
 | 2022-11-02 | 1354 | 109 | 
 | 2022-11-01 | 1351 | 109 | 
 | 2022-10-31 | 1349 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1244 | 101 | 
 | 2022-10-06 | 1240 | 101 | 
 | 2022-10-05 | 1236 | 101 | 
-| 2022-10-04 | 1234 | 101 | 
 

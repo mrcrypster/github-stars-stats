@@ -1,10 +1,10 @@
 # SuperSimpleDev/html-css-course-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 394
+☋ Forks: 396
 
-★ Stars: 363
+★ Stars: 364
 
 [Open repository](https://github.com/SuperSimpleDev/html-css-course-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 364 | 396 | 
 | 2022-11-02 | 363 | 394 | 
 | 2022-11-01 | 362 | 393 | 
 | 2022-10-31 | 361 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 315 | 352 | 
 | 2022-10-06 | 315 | 352 | 
 | 2022-10-05 | 315 | 352 | 
-| 2022-10-04 | 315 | 348 | 
 

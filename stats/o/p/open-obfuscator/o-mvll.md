@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 03
 
 ☋ Forks: 9
 
-★ Stars: 157
+★ Stars: 159
 
 [Open repository](https://github.com/open-obfuscator/o-mvll)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-03 | 157 | 9 | 
+| 2022-11-03 | 159 | 9 | 
 | 2022-11-02 | 157 | 9 | 
 

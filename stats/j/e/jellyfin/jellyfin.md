@@ -1,10 +1,10 @@
 # jellyfin/jellyfin - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 1705
 
-★ Stars: 17866
+★ Stars: 17883
 
 [Open repository](https://github.com/jellyfin/jellyfin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 17883 | 1705 | 
 | 2022-11-02 | 17866 | 1705 | 
 | 2022-11-01 | 17759 | 1701 | 
 | 2022-10-31 | 17627 | 1695 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 16851 | 1652 | 
 | 2022-10-06 | 16843 | 1651 | 
 | 2022-10-05 | 16829 | 1649 | 
-| 2022-10-04 | 16817 | 1646 | 
 

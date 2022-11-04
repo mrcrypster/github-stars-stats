@@ -1,10 +1,10 @@
 # michaeljsmith/vim-indent-object - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 53
 
-★ Stars: 646
+★ Stars: 647
 
 [Open repository](https://github.com/michaeljsmith/vim-indent-object)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 647 | 53 | 
 | 2022-11-02 | 646 | 53 | 
 | 2022-11-01 | 646 | 53 | 
 | 2022-10-31 | 646 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 642 | 53 | 
 | 2022-10-06 | 642 | 53 | 
 | 2022-10-05 | 641 | 53 | 
-| 2022-10-04 | 640 | 53 | 
 

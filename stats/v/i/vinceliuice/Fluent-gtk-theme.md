@@ -1,10 +1,10 @@
 # vinceliuice/Fluent-gtk-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 42
 
-★ Stars: 671
+★ Stars: 673
 
 [Open repository](https://github.com/vinceliuice/Fluent-gtk-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 673 | 42 | 
 | 2022-11-02 | 671 | 42 | 
 | 2022-11-01 | 670 | 42 | 
 | 2022-10-31 | 670 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 650 | 42 | 
 | 2022-10-06 | 650 | 42 | 
 | 2022-10-05 | 650 | 42 | 
-| 2022-10-04 | 649 | 42 | 
 

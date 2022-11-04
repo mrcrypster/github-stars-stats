@@ -1,10 +1,10 @@
 # conwnet/wpa-dictionary - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 481
 
-★ Stars: 1610
+★ Stars: 1611
 
 [Open repository](https://github.com/conwnet/wpa-dictionary)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1611 | 481 | 
 | 2022-11-02 | 1610 | 481 | 
 | 2022-11-01 | 1606 | 481 | 
 | 2022-10-31 | 1602 | 481 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1569 | 476 | 
 | 2022-10-06 | 1567 | 475 | 
 | 2022-10-05 | 1564 | 475 | 
-| 2022-10-04 | 1561 | 474 | 
 

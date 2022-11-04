@@ -1,10 +1,10 @@
 # korsbo/Latexify.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 42
 
-★ Stars: 446
+★ Stars: 447
 
 [Open repository](https://github.com/korsbo/Latexify.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 447 | 42 | 
 | 2022-11-02 | 446 | 42 | 
 | 2022-11-01 | 446 | 42 | 
 | 2022-10-31 | 445 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 440 | 40 | 
 | 2022-10-06 | 439 | 40 | 
 | 2022-10-05 | 438 | 40 | 
-| 2022-10-04 | 438 | 40 | 
 

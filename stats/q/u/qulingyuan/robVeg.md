@@ -1,10 +1,10 @@
 # qulingyuan/robVeg - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 91
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/qulingyuan/robVeg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 293 | 91 | 
 | 2022-11-02 | 292 | 91 | 
 | 2022-11-01 | 292 | 91 | 
 | 2022-10-31 | 292 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 291 | 89 | 
 | 2022-10-06 | 291 | 89 | 
 | 2022-10-05 | 291 | 89 | 
-| 2022-10-04 | 291 | 89 | 
 

@@ -1,6 +1,6 @@
 # KDE/plasma-wayland-protocols - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 12 | 4 | 
 | 2022-11-02 | 12 | 4 | 
 | 2022-11-01 | 12 | 4 | 
 | 2022-10-31 | 12 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 12 | 4 | 
 | 2022-10-06 | 12 | 4 | 
 | 2022-10-05 | 12 | 4 | 
-| 2022-10-04 | 12 | 4 | 
 

@@ -1,8 +1,8 @@
 # 1N3/Sn1per - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 1548
+☋ Forks: 1549
 
 ★ Stars: 5678
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 5678 | 1549 | 
 | 2022-11-02 | 5678 | 1548 | 
 | 2022-11-01 | 5674 | 1547 | 
 | 2022-10-31 | 5672 | 1547 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 5609 | 1537 | 
 | 2022-10-06 | 5606 | 1536 | 
 | 2022-10-05 | 5603 | 1536 | 
-| 2022-10-04 | 5601 | 1536 | 
 

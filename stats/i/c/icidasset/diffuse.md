@@ -1,10 +1,10 @@
 # icidasset/diffuse - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 60
 
-★ Stars: 679
+★ Stars: 680
 
 [Open repository](https://github.com/icidasset/diffuse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 680 | 60 | 
 | 2022-11-02 | 679 | 60 | 
 | 2022-11-01 | 678 | 60 | 
 | 2022-10-31 | 678 | 60 | 

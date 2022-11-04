@@ -1,6 +1,6 @@
 # kottory/NJU-health-report - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 405
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 112 | 405 | 
 | 2022-11-02 | 112 | 405 | 
 | 2022-11-01 | 112 | 405 | 
 | 2022-10-31 | 112 | 407 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 112 | 409 | 
 | 2022-10-06 | 112 | 409 | 
 | 2022-10-05 | 112 | 409 | 
-| 2022-10-04 | 112 | 409 | 
 

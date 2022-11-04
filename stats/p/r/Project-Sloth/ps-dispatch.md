@@ -1,10 +1,10 @@
 # Project-Sloth/ps-dispatch - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 90
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/Project-Sloth/ps-dispatch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 69 | 90 | 
 | 2022-11-02 | 68 | 90 | 
 | 2022-11-01 | 68 | 90 | 
 | 2022-10-31 | 68 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 61 | 81 | 
 | 2022-10-06 | 61 | 80 | 
 | 2022-10-05 | 61 | 79 | 
-| 2022-10-04 | 60 | 78 | 
 

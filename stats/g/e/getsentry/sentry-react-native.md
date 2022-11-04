@@ -1,10 +1,10 @@
 # getsentry/sentry-react-native - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 293
+☋ Forks: 294
 
-★ Stars: 1325
+★ Stars: 1326
 
 [Open repository](https://github.com/getsentry/sentry-react-native)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1326 | 294 | 
 | 2022-11-02 | 1325 | 293 | 
 | 2022-11-01 | 1325 | 292 | 
 | 2022-10-31 | 1323 | 291 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1318 | 287 | 
 | 2022-10-06 | 1318 | 287 | 
 | 2022-10-05 | 1318 | 287 | 
-| 2022-10-04 | 1315 | 287 | 
 

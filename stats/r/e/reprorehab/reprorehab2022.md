@@ -1,8 +1,8 @@
 # reprorehab/reprorehab2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 4 | 11 | 
 | 2022-11-02 | 4 | 10 | 
 | 2022-11-01 | 4 | 10 | 
 | 2022-10-31 | 4 | 10 | 

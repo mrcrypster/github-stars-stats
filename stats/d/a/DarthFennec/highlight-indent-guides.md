@@ -1,10 +1,10 @@
 # DarthFennec/highlight-indent-guides - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 22
 
-★ Stars: 463
+★ Stars: 462
 
 [Open repository](https://github.com/DarthFennec/highlight-indent-guides)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 462 | 22 | 
 | 2022-11-02 | 463 | 22 | 
 | 2022-11-01 | 463 | 22 | 
 | 2022-10-31 | 463 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 455 | 22 | 
 | 2022-10-06 | 455 | 22 | 
 | 2022-10-05 | 455 | 22 | 
-| 2022-10-04 | 455 | 22 | 
 

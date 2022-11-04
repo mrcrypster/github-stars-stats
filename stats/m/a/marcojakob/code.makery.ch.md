@@ -1,6 +1,6 @@
 # marcojakob/code.makery.ch - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 1516
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 175 | 1516 | 
 | 2022-11-02 | 175 | 1516 | 
 | 2022-11-01 | 175 | 1515 | 
 | 2022-10-31 | 175 | 1513 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 175 | 1511 | 
 | 2022-10-06 | 175 | 1511 | 
 | 2022-10-05 | 175 | 1511 | 
-| 2022-10-04 | 175 | 1512 | 
 

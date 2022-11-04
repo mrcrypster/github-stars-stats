@@ -1,10 +1,10 @@
 # NLKNguyen/papercolor-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 215
 
-★ Stars: 2361
+★ Stars: 2363
 
 [Open repository](https://github.com/NLKNguyen/papercolor-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 2363 | 215 | 
 | 2022-11-02 | 2361 | 215 | 
 | 2022-11-01 | 2361 | 214 | 
 | 2022-10-31 | 2358 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 2341 | 212 | 
 | 2022-10-06 | 2339 | 212 | 
 | 2022-10-05 | 2339 | 213 | 
-| 2022-10-04 | 2338 | 213 | 
 

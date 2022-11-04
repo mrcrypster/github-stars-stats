@@ -1,10 +1,10 @@
 # AgnosticUI/agnosticui - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 31
 
-★ Stars: 519
+★ Stars: 520
 
 [Open repository](https://github.com/AgnosticUI/agnosticui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 520 | 31 | 
 | 2022-11-02 | 519 | 31 | 
 | 2022-11-01 | 518 | 31 | 
 | 2022-10-31 | 517 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 502 | 30 | 
 | 2022-10-07 | 502 | 30 | 
 | 2022-10-06 | 501 | 30 | 
-| 2022-10-05 | 498 | 30 | 
 

@@ -1,6 +1,6 @@
 # lorint/AdventureWorks-for-Postgres - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 125
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 219 | 125 | 
 | 2022-11-03 | 219 | 125 | 
 | 2022-11-02 | 219 | 125 | 
 | 2022-11-01 | 219 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 210 | 122 | 
 | 2022-10-06 | 210 | 122 | 
 | 2022-10-05 | 210 | 122 | 
-| 2022-10-04 | 210 | 122 | 
 

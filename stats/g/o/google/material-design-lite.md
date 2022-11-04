@@ -1,10 +1,10 @@
 # google/material-design-lite - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 5208
 
-★ Stars: 32105
+★ Stars: 32103
 
 [Open repository](https://github.com/google/material-design-lite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 32103 | 5208 | 
 | 2022-11-02 | 32105 | 5208 | 
 | 2022-11-01 | 32106 | 5207 | 
 | 2022-10-31 | 32107 | 5207 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 32099 | 5210 | 
 | 2022-10-06 | 32095 | 5209 | 
 | 2022-10-05 | 32096 | 5211 | 
-| 2022-10-04 | 32097 | 5210 | 
 

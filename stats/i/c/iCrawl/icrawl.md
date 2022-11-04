@@ -1,6 +1,6 @@
 # iCrawl/icrawl - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 7 | 27 | 
 | 2022-11-02 | 7 | 27 | 
 | 2022-11-01 | 7 | 26 | 
 | 2022-10-31 | 7 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 7 | 24 | 
 | 2022-10-07 | 7 | 25 | 
 | 2022-10-06 | 6 | 24 | 
-| 2022-10-05 | 6 | 24 | 
 

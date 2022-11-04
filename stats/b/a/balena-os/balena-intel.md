@@ -1,10 +1,10 @@
 # balena-os/balena-intel - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 19
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/balena-os/balena-intel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 29 | 19 | 
 | 2022-11-02 | 28 | 19 | 
 | 2022-11-01 | 28 | 19 | 
 | 2022-10-31 | 28 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 28 | 18 | 
 | 2022-10-06 | 28 | 18 | 
 | 2022-10-05 | 28 | 18 | 
-| 2022-10-04 | 28 | 18 | 
 

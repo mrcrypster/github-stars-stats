@@ -1,6 +1,6 @@
 # ic3w0lf22/Unnamed-ESP - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 41 | 83 | 
 | 2022-11-02 | 41 | 83 | 
 | 2022-11-01 | 41 | 83 | 
 | 2022-10-31 | 40 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 38 | 80 | 
 | 2022-10-06 | 38 | 80 | 
 | 2022-10-05 | 38 | 80 | 
-| 2022-10-04 | 38 | 80 | 
 

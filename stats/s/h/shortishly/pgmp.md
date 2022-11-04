@@ -1,6 +1,6 @@
 # shortishly/pgmp - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 34 | 1 | 
 | 2022-11-02 | 34 | 1 | 
 | 2022-11-01 | 33 | 1 | 
 | 2022-10-31 | 33 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 30 | 1 | 
 | 2022-10-06 | 30 | 1 | 
 | 2022-10-05 | 30 | 1 | 
-| 2022-10-04 | 30 | 1 | 
 

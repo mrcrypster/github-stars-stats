@@ -1,10 +1,10 @@
 # Epix-Incorporated/Adonis - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 116
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/Epix-Incorporated/Adonis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 167 | 116 | 
 | 2022-11-02 | 166 | 116 | 
 | 2022-11-01 | 166 | 116 | 
 | 2022-10-31 | 165 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 161 | 114 | 
 | 2022-10-06 | 161 | 114 | 
 | 2022-10-05 | 161 | 114 | 
-| 2022-10-04 | 161 | 114 | 
 

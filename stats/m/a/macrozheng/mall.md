@@ -1,10 +1,10 @@
 # macrozheng/mall - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 25818
+☋ Forks: 25825
 
-★ Stars: 61921
+★ Stars: 61939
 
 [Open repository](https://github.com/macrozheng/mall)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 61939 | 25825 | 
 | 2022-11-02 | 61921 | 25818 | 
 | 2022-11-01 | 61899 | 25808 | 
 | 2022-10-31 | 61876 | 25798 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 61375 | 25664 | 
 | 2022-10-06 | 61363 | 25660 | 
 | 2022-10-05 | 61352 | 25652 | 
-| 2022-10-04 | 61344 | 25650 | 
 

@@ -1,6 +1,6 @@
 # seraheazari/MahsaAminiHashflag - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 34 | 3 | 
 | 2022-11-02 | 34 | 3 | 
 | 2022-11-01 | 34 | 3 | 
 | 2022-10-31 | 34 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 30 | 3 | 
 | 2022-10-06 | 29 | 3 | 
 | 2022-10-05 | 29 | 3 | 
-| 2022-10-04 | 29 | 3 | 
 

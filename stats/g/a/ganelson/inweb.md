@@ -1,10 +1,10 @@
 # ganelson/inweb - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 17
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/ganelson/inweb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 63 | 17 | 
 | 2022-11-02 | 62 | 17 | 
 | 2022-11-01 | 62 | 17 | 
 | 2022-10-31 | 62 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 62 | 17 | 
 | 2022-10-07 | 62 | 17 | 
 | 2022-10-06 | 62 | 17 | 
-| 2022-10-05 | 62 | 17 | 
 

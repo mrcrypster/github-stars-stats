@@ -1,10 +1,10 @@
 # PrestaShop/hummingbird - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 32
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/PrestaShop/hummingbird)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 43 | 32 | 
 | 2022-11-02 | 42 | 32 | 
 | 2022-11-01 | 42 | 32 | 
 | 2022-10-31 | 41 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 40 | 30 | 
 | 2022-10-06 | 40 | 30 | 
 | 2022-10-05 | 39 | 29 | 
-| 2022-10-04 | 38 | 29 | 
 

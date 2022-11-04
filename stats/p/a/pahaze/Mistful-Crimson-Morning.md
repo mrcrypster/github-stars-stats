@@ -1,8 +1,8 @@
 # pahaze/Mistful-Crimson-Morning - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 9
+☋ Forks: 12
 
 ★ Stars: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 7 | 12 | 
 | 2022-11-02 | 7 | 9 | 
 | 2022-11-01 | 7 | 9 | 
 | 2022-10-31 | 7 | 9 | 

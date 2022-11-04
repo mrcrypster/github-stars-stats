@@ -1,6 +1,6 @@
 # Runc2333/dingdong-helper-node - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 206 | 54 | 
 | 2022-11-02 | 206 | 54 | 
 | 2022-11-01 | 206 | 54 | 
 | 2022-10-31 | 206 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 206 | 54 | 
 | 2022-10-07 | 206 | 54 | 
 | 2022-10-06 | 206 | 54 | 
-| 2022-10-05 | 206 | 54 | 
 

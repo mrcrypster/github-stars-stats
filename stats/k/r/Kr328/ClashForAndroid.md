@@ -1,10 +1,10 @@
 # Kr328/ClashForAndroid - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 2091
+☋ Forks: 2092
 
-★ Stars: 17357
+★ Stars: 17386
 
 [Open repository](https://github.com/Kr328/ClashForAndroid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 17386 | 2092 | 
 | 2022-11-02 | 17357 | 2091 | 
 | 2022-11-01 | 17338 | 2089 | 
 | 2022-10-31 | 17311 | 2086 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 16675 | 2034 | 
 | 2022-10-06 | 16648 | 2030 | 
 | 2022-10-05 | 16622 | 2028 | 
-| 2022-10-04 | 16603 | 2027 | 
 

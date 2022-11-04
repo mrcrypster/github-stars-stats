@@ -1,6 +1,6 @@
 # ziontee113/color-picker.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 150 | 4 | 
 | 2022-11-02 | 150 | 4 | 
 | 2022-11-01 | 151 | 4 | 
 | 2022-10-31 | 150 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 147 | 4 | 
 | 2022-10-06 | 147 | 4 | 
 | 2022-10-05 | 146 | 4 | 
-| 2022-10-04 | 145 | 4 | 
 

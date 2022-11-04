@@ -1,10 +1,10 @@
 # google/wireit - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 59
 
-★ Stars: 3760
+★ Stars: 3761
 
 [Open repository](https://github.com/google/wireit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3761 | 59 | 
 | 2022-11-02 | 3760 | 59 | 
 | 2022-11-01 | 3760 | 59 | 
 | 2022-10-31 | 3760 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 3737 | 54 | 
 | 2022-10-07 | 3738 | 54 | 
 | 2022-10-06 | 3735 | 54 | 
-| 2022-10-04 | 3733 | 54 | 
 

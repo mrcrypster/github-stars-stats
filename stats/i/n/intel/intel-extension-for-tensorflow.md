@@ -1,10 +1,10 @@
 # intel/intel-extension-for-tensorflow - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 158
+★ Stars: 161
 
 [Open repository](https://github.com/intel/intel-extension-for-tensorflow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 161 | 13 | 
 | 2022-11-02 | 158 | 12 | 
 | 2022-11-01 | 153 | 9 | 
 | 2022-10-31 | 127 | 8 | 

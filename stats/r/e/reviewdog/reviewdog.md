@@ -1,10 +1,10 @@
 # reviewdog/reviewdog - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 311
+☋ Forks: 312
 
-★ Stars: 5724
+★ Stars: 5726
 
 [Open repository](https://github.com/reviewdog/reviewdog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 5726 | 312 | 
 | 2022-11-02 | 5724 | 311 | 
 | 2022-11-01 | 5720 | 310 | 
 | 2022-10-31 | 5712 | 309 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 5595 | 306 | 
 | 2022-10-07 | 5587 | 305 | 
 | 2022-10-05 | 5584 | 304 | 
-| 2022-10-04 | 5581 | 304 | 
 

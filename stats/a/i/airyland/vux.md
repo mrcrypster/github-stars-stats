@@ -1,10 +1,10 @@
 # airyland/vux - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 3807
+☋ Forks: 3808
 
-★ Stars: 17638
+★ Stars: 17637
 
 [Open repository](https://github.com/airyland/vux)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 17637 | 3808 | 
 | 2022-11-02 | 17638 | 3807 | 
 | 2022-11-01 | 17636 | 3806 | 
 | 2022-10-31 | 17639 | 3806 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 17635 | 3809 | 
 | 2022-10-06 | 17635 | 3809 | 
 | 2022-10-05 | 17636 | 3809 | 
-| 2022-10-04 | 17635 | 3809 | 
 

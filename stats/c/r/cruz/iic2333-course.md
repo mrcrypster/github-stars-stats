@@ -1,10 +1,10 @@
 # cruz/iic2333-course - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 0
 
-★ Stars: 59
+★ Stars: 58
 
 [Open repository](https://github.com/cruz/iic2333-course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 58 | - | 
 | 2022-11-02 | 59 | - | 
 | 2022-11-01 | 59 | - | 
 | 2022-10-31 | 60 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 60 | - | 
 | 2022-10-06 | 60 | - | 
 | 2022-10-05 | 60 | - | 
-| 2022-10-04 | 60 | - | 
 

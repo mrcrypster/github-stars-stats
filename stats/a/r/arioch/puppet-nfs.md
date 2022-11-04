@@ -1,0 +1,18 @@
+# arioch/puppet-nfs - stars & forks statistics
+
+Stats updated on Nov 2022, 04
+
+☋ Forks: 6
+
+★ Stars: 7
+
+[Open repository](https://github.com/arioch/puppet-nfs)
+
+[Open detailed stats for arioch/puppet-nfs](https://reviewgithub.com/rep/arioch/puppet-nfs)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-04 | 7 | 6 | 
+| 2022-11-03 | 7 | 6 | 
+

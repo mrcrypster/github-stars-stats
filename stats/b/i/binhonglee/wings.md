@@ -1,10 +1,10 @@
 # binhonglee/wings - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 5
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/binhonglee/wings)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-03 | 15 | 5 | 
+| 2022-11-04 | 16 | 5 | 
+| 2022-11-03 | 16 | 5 | 
 | 2022-11-02 | 15 | 5 | 
 | 2022-11-01 | 15 | 5 | 
 | 2022-10-31 | 15 | 5 | 

@@ -1,10 +1,10 @@
 # google/closure-compiler - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 1143
 
-★ Stars: 6660
+★ Stars: 6664
 
 [Open repository](https://github.com/google/closure-compiler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 6664 | 1143 | 
 | 2022-11-03 | 6660 | 1143 | 
 | 2022-11-02 | 6660 | 1143 | 
 | 2022-11-01 | 6659 | 1142 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 6628 | 1140 | 
 | 2022-10-06 | 6626 | 1139 | 
 | 2022-10-05 | 6626 | 1139 | 
-| 2022-10-04 | 6624 | 1139 | 
 

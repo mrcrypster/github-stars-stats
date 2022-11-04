@@ -1,10 +1,10 @@
 # haskell/cabal - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 619
 
-★ Stars: 1419
+★ Stars: 1420
 
 [Open repository](https://github.com/haskell/cabal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1420 | 619 | 
 | 2022-11-02 | 1419 | 619 | 
 | 2022-11-01 | 1419 | 619 | 
 | 2022-10-31 | 1419 | 619 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1417 | 614 | 
 | 2022-10-06 | 1416 | 614 | 
 | 2022-10-05 | 1416 | 614 | 
-| 2022-10-04 | 1416 | 614 | 
 

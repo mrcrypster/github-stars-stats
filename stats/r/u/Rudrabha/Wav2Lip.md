@@ -1,10 +1,10 @@
 # Rudrabha/Wav2Lip - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 773
 
-★ Stars: 3456
+★ Stars: 3457
 
 [Open repository](https://github.com/Rudrabha/Wav2Lip)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3457 | 773 | 
 | 2022-11-03 | 3456 | 773 | 
 | 2022-11-02 | 3455 | 771 | 
 | 2022-11-01 | 3454 | 769 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 3387 | 753 | 
 | 2022-10-06 | 3385 | 753 | 
 | 2022-10-05 | 3382 | 753 | 
-| 2022-10-04 | 3379 | 750 | 
 

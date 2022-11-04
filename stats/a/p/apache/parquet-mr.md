@@ -1,10 +1,10 @@
 # apache/parquet-mr - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 1234
+☋ Forks: 1233
 
-★ Stars: 1746
+★ Stars: 1748
 
 [Open repository](https://github.com/apache/parquet-mr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1748 | 1233 | 
 | 2022-11-02 | 1746 | 1234 | 
 | 2022-11-01 | 1746 | 1234 | 
 | 2022-10-31 | 1744 | 1233 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1711 | 1225 | 
 | 2022-10-06 | 1710 | 1225 | 
 | 2022-10-05 | 1709 | 1224 | 
-| 2022-10-04 | 1710 | 1223 | 
 

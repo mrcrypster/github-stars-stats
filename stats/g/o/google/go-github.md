@@ -1,10 +1,10 @@
 # google/go-github - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 1855
 
-★ Stars: 8913
+★ Stars: 8916
 
 [Open repository](https://github.com/google/go-github)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 8916 | 1855 | 
 | 2022-11-02 | 8913 | 1855 | 
 | 2022-11-01 | 8907 | 1854 | 
 | 2022-10-31 | 8903 | 1853 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 8838 | 1818 | 
 | 2022-10-06 | 8836 | 1818 | 
 | 2022-10-05 | 8835 | 1818 | 
-| 2022-10-04 | 8835 | 1818 | 
 

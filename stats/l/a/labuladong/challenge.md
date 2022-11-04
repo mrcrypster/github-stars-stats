@@ -1,6 +1,6 @@
 # labuladong/challenge - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 155 | 38 | 
 | 2022-11-03 | 155 | 38 | 
 | 2022-11-02 | 156 | 38 | 
 | 2022-11-01 | 156 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 157 | 38 | 
 | 2022-10-06 | 157 | 38 | 
 | 2022-10-05 | 157 | 38 | 
-| 2022-10-04 | 157 | 38 | 
 

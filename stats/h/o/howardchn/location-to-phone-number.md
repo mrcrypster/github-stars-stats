@@ -1,6 +1,6 @@
 # howardchn/location-to-phone-number - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 152 | 28 | 
 | 2022-11-02 | 152 | 28 | 
 | 2022-11-01 | 152 | 28 | 
 | 2022-10-31 | 152 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 146 | 28 | 
 | 2022-10-06 | 146 | 28 | 
 | 2022-10-05 | 146 | 28 | 
-| 2022-10-04 | 146 | 28 | 
 

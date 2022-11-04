@@ -1,10 +1,10 @@
 # Miksus/rocketry - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 04
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 2251
+★ Stars: 2260
 
 [Open repository](https://github.com/Miksus/rocketry)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2260 | 51 | 
 | 2022-11-02 | 2251 | 50 | 
 | 2022-11-01 | 2250 | 50 | 
 | 2022-10-31 | 2248 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 2136 | 43 | 
 | 2022-10-06 | 2129 | 43 | 
 | 2022-10-05 | 2121 | 42 | 
-| 2022-10-04 | 2113 | 42 | 
 

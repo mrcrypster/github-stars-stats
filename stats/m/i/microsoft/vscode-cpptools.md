@@ -1,10 +1,10 @@
 # microsoft/vscode-cpptools - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 1422
 
-★ Stars: 4831
+★ Stars: 4834
 
 [Open repository](https://github.com/microsoft/vscode-cpptools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 4834 | 1422 | 
 | 2022-11-02 | 4831 | 1422 | 
 | 2022-11-01 | 4830 | 1422 | 
 | 2022-10-31 | 4827 | 1421 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 4808 | 1407 | 
 | 2022-10-06 | 4807 | 1406 | 
 | 2022-10-05 | 4806 | 1406 | 
-| 2022-10-04 | 4803 | 1407 | 
 

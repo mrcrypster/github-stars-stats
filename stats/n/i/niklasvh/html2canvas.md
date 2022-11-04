@@ -1,10 +1,10 @@
 # niklasvh/html2canvas - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 4501
+☋ Forks: 4503
 
-★ Stars: 26996
+★ Stars: 27005
 
 [Open repository](https://github.com/niklasvh/html2canvas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 27005 | 4503 | 
 | 2022-11-02 | 26996 | 4501 | 
 | 2022-11-01 | 26990 | 4501 | 
 | 2022-10-31 | 26986 | 4501 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 26802 | 4492 | 
 | 2022-10-06 | 26798 | 4491 | 
 | 2022-10-05 | 26791 | 4490 | 
-| 2022-10-04 | 26789 | 4480 | 
 

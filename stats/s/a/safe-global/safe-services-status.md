@@ -1,10 +1,10 @@
 # safe-global/safe-services-status - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 6
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/safe-global/safe-services-status)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 4 | 6 | 
 | 2022-11-02 | 3 | 6 | 
 | 2022-11-01 | 3 | 6 | 
 | 2022-10-31 | 3 | 6 | 

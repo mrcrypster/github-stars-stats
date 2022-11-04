@@ -1,10 +1,10 @@
 # HunnicCyber/SharpSniper - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 53
 
-★ Stars: 345
+★ Stars: 346
 
 [Open repository](https://github.com/HunnicCyber/SharpSniper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 346 | 53 | 
 | 2022-11-02 | 345 | 53 | 
 | 2022-11-01 | 344 | 53 | 
 | 2022-10-31 | 344 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 341 | 52 | 
 | 2022-10-06 | 341 | 52 | 
 | 2022-10-05 | 341 | 52 | 
-| 2022-10-04 | 341 | 52 | 
 

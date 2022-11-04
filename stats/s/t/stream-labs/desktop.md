@@ -1,10 +1,10 @@
 # stream-labs/desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 632
 
-★ Stars: 3923
+★ Stars: 3927
 
 [Open repository](https://github.com/stream-labs/desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3927 | 632 | 
 | 2022-11-02 | 3923 | 632 | 
 | 2022-11-01 | 3920 | 632 | 
 | 2022-10-31 | 3918 | 632 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 3884 | 625 | 
 | 2022-10-06 | 3883 | 625 | 
 | 2022-10-05 | 3883 | 625 | 
-| 2022-10-04 | 3882 | 625 | 
 

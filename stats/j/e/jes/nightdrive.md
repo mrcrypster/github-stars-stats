@@ -1,10 +1,10 @@
 # jes/nightdrive - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 10
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/jes/nightdrive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 168 | 10 | 
 | 2022-11-02 | 167 | 10 | 
 | 2022-11-01 | 167 | 10 | 
 | 2022-10-31 | 167 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 159 | 10 | 
 | 2022-10-06 | 159 | 10 | 
 | 2022-10-05 | 156 | 10 | 
-| 2022-10-04 | 154 | 10 | 
 

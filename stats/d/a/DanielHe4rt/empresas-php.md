@@ -1,10 +1,10 @@
 # DanielHe4rt/empresas-php - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 182
+★ Stars: 183
 
 [Open repository](https://github.com/DanielHe4rt/empresas-php)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 183 | 52 | 
 | 2022-11-02 | 182 | 51 | 
 | 2022-11-01 | 182 | 51 | 
 | 2022-10-31 | 182 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 164 | 48 | 
 | 2022-10-06 | 164 | 48 | 
 | 2022-10-05 | 164 | 48 | 
-| 2022-10-04 | 163 | 48 | 
 

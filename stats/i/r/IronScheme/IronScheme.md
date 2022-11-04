@@ -1,6 +1,6 @@
 # IronScheme/IronScheme - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 330 | 35 | 
 | 2022-11-02 | 330 | 35 | 
 | 2022-11-01 | 330 | 35 | 
 | 2022-10-31 | 330 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 328 | 35 | 
 | 2022-10-06 | 328 | 35 | 
 | 2022-10-05 | 328 | 35 | 
-| 2022-10-04 | 328 | 35 | 
 

@@ -1,10 +1,10 @@
 # themsaid/hover - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 207
+★ Stars: 209
 
 [Open repository](https://github.com/themsaid/hover)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 209 | 14 | 
 | 2022-11-02 | 207 | 13 | 
 | 2022-11-01 | 204 | 12 | 
 | 2022-10-31 | 197 | 12 | 

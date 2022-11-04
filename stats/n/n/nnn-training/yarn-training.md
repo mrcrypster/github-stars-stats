@@ -1,6 +1,6 @@
 # nnn-training/yarn-training - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 618
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | - | 618 | 
 | 2022-11-02 | - | 618 | 
 | 2022-11-01 | - | 618 | 
 | 2022-10-31 | - | 616 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | - | 605 | 
 | 2022-10-06 | - | 604 | 
 | 2022-10-05 | - | 605 | 
-| 2022-10-04 | - | 607 | 
 

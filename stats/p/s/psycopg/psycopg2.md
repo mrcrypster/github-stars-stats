@@ -1,10 +1,10 @@
 # psycopg/psycopg2 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 461
+☋ Forks: 463
 
-★ Stars: 2787
+★ Stars: 2786
 
 [Open repository](https://github.com/psycopg/psycopg2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 2786 | 463 | 
 | 2022-11-02 | 2787 | 461 | 
 | 2022-11-01 | 2786 | 461 | 
 | 2022-10-31 | 2786 | 461 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 2756 | 459 | 
 | 2022-10-06 | 2752 | 459 | 
 | 2022-10-05 | 2750 | 459 | 
-| 2022-10-04 | 2749 | 459 | 
 

@@ -1,6 +1,6 @@
 # Aarzoo75/Iron-man - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 20 | 3 | 
 | 2022-11-02 | 20 | 3 | 
 | 2022-11-01 | 20 | 3 | 
 | 2022-10-31 | 20 | 3 | 

@@ -1,10 +1,10 @@
 # schollz/croc - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 921
+☋ Forks: 920
 
-★ Stars: 21092
+★ Stars: 21098
 
 [Open repository](https://github.com/schollz/croc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 21098 | 920 | 
 | 2022-11-02 | 21092 | 921 | 
 | 2022-11-01 | 21090 | 921 | 
 | 2022-10-31 | 21082 | 920 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 20857 | 906 | 
 | 2022-10-06 | 20849 | 905 | 
 | 2022-10-05 | 20842 | 904 | 
-| 2022-10-04 | 20834 | 904 | 
 

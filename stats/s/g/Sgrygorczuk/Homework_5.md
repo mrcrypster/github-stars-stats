@@ -1,6 +1,6 @@
 # Sgrygorczuk/Homework_5 - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | - | 13 | 
 | 2022-11-03 | - | 13 | 
 | 2022-11-01 | - | 13 | 
 | 2022-10-31 | - | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | - | 13 | 
 | 2022-10-06 | - | 13 | 
 | 2022-10-05 | - | 13 | 
-| 2022-10-04 | - | 13 | 
 

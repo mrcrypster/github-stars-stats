@@ -1,10 +1,10 @@
 # quartz-scheduler/quartz - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 1749
 
-★ Stars: 5278
+★ Stars: 5287
 
 [Open repository](https://github.com/quartz-scheduler/quartz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5287 | 1749 | 
 | 2022-11-03 | 5278 | 1749 | 
 | 2022-11-02 | 5274 | 1749 | 
 | 2022-11-01 | 5272 | 1746 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-07 | 5238 | 1737 | 
 | 2022-10-06 | 5238 | 1738 | 
 | 2022-10-05 | 5237 | 1738 | 
-| 2022-10-04 | 5235 | 1738 | 
 

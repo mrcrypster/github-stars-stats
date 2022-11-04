@@ -1,10 +1,10 @@
 # BVLC/caffe - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 18992
 
-★ Stars: 32944
+★ Stars: 32945
 
 [Open repository](https://github.com/BVLC/caffe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 32945 | 18992 | 
 | 2022-11-02 | 32944 | 18992 | 
 | 2022-11-01 | 32944 | 18994 | 
 | 2022-10-31 | 32940 | 18994 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 32898 | 18995 | 
 | 2022-10-06 | 32894 | 18996 | 
 | 2022-10-05 | 32891 | 18995 | 
-| 2022-10-04 | 32886 | 18996 | 
 

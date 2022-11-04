@@ -1,10 +1,10 @@
 # facebookresearch/ConvNeXt - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 541
+☋ Forks: 542
 
-★ Stars: 4388
+★ Stars: 4387
 
 [Open repository](https://github.com/facebookresearch/ConvNeXt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 4387 | 542 | 
 | 2022-11-02 | 4388 | 541 | 
 | 2022-11-01 | 4385 | 540 | 
 | 2022-10-31 | 4382 | 539 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-08 | 4296 | 521 | 
 | 2022-10-07 | 4292 | 521 | 
 | 2022-10-06 | 4285 | 521 | 
-| 2022-10-05 | 4281 | 519 | 
 

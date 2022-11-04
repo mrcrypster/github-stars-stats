@@ -1,10 +1,10 @@
 # LuaJIT/LuaJIT - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
-☋ Forks: 774
+☋ Forks: 775
 
-★ Stars: 3506
+★ Stars: 3508
 
 [Open repository](https://github.com/LuaJIT/LuaJIT)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3508 | 775 | 
 | 2022-11-02 | 3506 | 774 | 
 | 2022-11-01 | 3502 | 774 | 
 | 2022-10-31 | 3501 | 774 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 3459 | 765 | 
 | 2022-10-06 | 3454 | 764 | 
 | 2022-10-05 | 3449 | 764 | 
-| 2022-10-04 | 3448 | 764 | 
 

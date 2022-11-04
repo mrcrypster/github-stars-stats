@@ -1,10 +1,10 @@
 # react-native-webview/react-native-webview - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 2558
 
-★ Stars: 5118
+★ Stars: 5119
 
 [Open repository](https://github.com/react-native-webview/react-native-webview)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 5119 | 2558 | 
 | 2022-11-02 | 5118 | 2558 | 
 | 2022-11-01 | 5110 | 2552 | 
 | 2022-10-31 | 5105 | 2551 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 5051 | 2540 | 
 | 2022-10-06 | 5047 | 2540 | 
 | 2022-10-05 | 5046 | 2539 | 
-| 2022-10-04 | 5046 | 2540 | 
 

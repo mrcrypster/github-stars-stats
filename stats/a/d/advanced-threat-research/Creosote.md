@@ -1,6 +1,6 @@
 # advanced-threat-research/Creosote - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 75 | 13 | 
 | 2022-11-02 | 75 | 13 | 
 | 2022-11-01 | 75 | 13 | 
 | 2022-10-31 | 75 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 71 | 10 | 
 | 2022-10-06 | 71 | 10 | 
 | 2022-10-05 | 71 | 10 | 
-| 2022-10-04 | 71 | 10 | 
 

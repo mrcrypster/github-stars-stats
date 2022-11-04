@@ -1,6 +1,6 @@
 # MLH-Fellowship/prep-portfolio-22.AUG.PREP.2 - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 3 | 15 | 
 | 2022-11-02 | 3 | 15 | 
 | 2022-11-01 | 3 | 15 | 
 | 2022-10-31 | 3 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 3 | 16 | 
 | 2022-10-06 | 3 | 16 | 
 | 2022-10-05 | 3 | 16 | 
-| 2022-10-04 | 3 | 16 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 03
 
-☋ Forks: 15
+☋ Forks: 16
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/Azure/deployment-environments)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-03 | 7 | 15 | 
+| 2022-11-03 | 8 | 16 | 
 | 2022-11-02 | 6 | 15 | 
 | 2022-11-01 | 5 | 13 | 
 | 2022-10-31 | 3 | 12 | 

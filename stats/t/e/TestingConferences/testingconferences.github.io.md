@@ -1,10 +1,10 @@
 # TestingConferences/testingconferences.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 181
 
-★ Stars: 88
+★ Stars: 89
 
 [Open repository](https://github.com/TestingConferences/testingconferences.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 89 | 181 | 
 | 2022-11-02 | 88 | 181 | 
 | 2022-11-01 | 88 | 181 | 
 | 2022-10-31 | 88 | 181 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 86 | 179 | 
 | 2022-10-06 | 86 | 179 | 
 | 2022-10-05 | 86 | 179 | 
-| 2022-10-04 | 86 | 179 | 
 

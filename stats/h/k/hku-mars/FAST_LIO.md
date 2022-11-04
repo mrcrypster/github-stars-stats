@@ -1,10 +1,10 @@
 # hku-mars/FAST_LIO - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 418
 
-★ Stars: 1124
+★ Stars: 1126
 
 [Open repository](https://github.com/hku-mars/FAST_LIO)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1126 | 418 | 
 | 2022-11-02 | 1124 | 418 | 
 | 2022-11-01 | 1118 | 417 | 
 | 2022-10-31 | 1114 | 417 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1081 | 404 | 
 | 2022-10-06 | 1080 | 404 | 
 | 2022-10-05 | 1080 | 404 | 
-| 2022-10-04 | 1080 | 404 | 
 

@@ -1,10 +1,10 @@
 # bmstu-iu8-cpp-sem-3/lab-09-producer-consumer - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 19
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/bmstu-iu8-cpp-sem-3/lab-09-producer-consumer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 4 | 19 | 
 | 2022-11-02 | 3 | 19 | 
 | 2022-11-01 | 3 | 19 | 
 | 2022-10-31 | 3 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 3 | 19 | 
 | 2022-10-06 | 3 | 19 | 
 | 2022-10-05 | 3 | 19 | 
-| 2022-10-04 | 3 | 19 | 
 

@@ -1,10 +1,10 @@
 # Roche/crmPack - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 8
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/Roche/crmPack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 13 | 8 | 
 | 2022-11-02 | 12 | 8 | 
 | 2022-11-01 | 12 | 8 | 
 | 2022-10-31 | 12 | 8 | 

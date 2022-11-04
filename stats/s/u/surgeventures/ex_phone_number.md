@@ -1,0 +1,17 @@
+# surgeventures/ex_phone_number - stars & forks statistics
+
+Stats updated on Nov 2022, 03
+
+☋ Forks: 2
+
+★ Stars: 4
+
+[Open repository](https://github.com/surgeventures/ex_phone_number)
+
+[Open detailed stats for surgeventures/ex_phone_number](https://reviewgithub.com/rep/surgeventures/ex_phone_number)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-03 | 4 | 2 | 
+

@@ -1,10 +1,10 @@
 # wasabeef/flutter-architecture-blueprints - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 231
 
-★ Stars: 1453
+★ Stars: 1454
 
 [Open repository](https://github.com/wasabeef/flutter-architecture-blueprints)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 1454 | 231 | 
 | 2022-11-02 | 1453 | 231 | 
 | 2022-11-01 | 1453 | 230 | 
 | 2022-10-31 | 1453 | 230 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 1447 | 229 | 
 | 2022-10-06 | 1447 | 229 | 
 | 2022-10-05 | 1445 | 229 | 
-| 2022-10-04 | 1445 | 229 | 
 

@@ -1,10 +1,10 @@
 # liveviewnative/ios-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 02
+Stats updated on Nov 2022, 03
 
 ☋ Forks: 5
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/liveviewnative/ios-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 02
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-03 | 34 | 5 | 
 | 2022-11-02 | 33 | 5 | 
 | 2022-11-01 | 32 | 5 | 
 | 2022-10-31 | 32 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 02
 | 2022-10-07 | 32 | 5 | 
 | 2022-10-06 | 32 | 5 | 
 | 2022-10-05 | 32 | 5 | 
-| 2022-10-04 | 32 | 5 | 
 
