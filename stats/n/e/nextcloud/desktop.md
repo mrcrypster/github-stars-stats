@@ -1,6 +1,6 @@
 # nextcloud/desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 646
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2208 | 646 | 
 | 2022-11-03 | 2208 | 646 | 
 | 2022-11-02 | 2207 | 645 | 
 | 2022-11-01 | 2207 | 645 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 2182 | 634 | 
 | 2022-10-08 | 2181 | 634 | 
 | 2022-10-07 | 2180 | 634 | 
-| 2022-10-06 | 2179 | 634 | 
 

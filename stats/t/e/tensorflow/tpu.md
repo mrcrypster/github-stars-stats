@@ -1,10 +1,10 @@
 # tensorflow/tpu - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 1741
+☋ Forks: 1742
 
-★ Stars: 4935
+★ Stars: 4936
 
 [Open repository](https://github.com/tensorflow/tpu)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 4936 | 1742 | 
 | 2022-11-03 | 4935 | 1741 | 
 | 2022-11-02 | 4932 | 1740 | 
 | 2022-11-01 | 4930 | 1741 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 4902 | 1737 | 
 | 2022-10-07 | 4900 | 1737 | 
 | 2022-10-06 | 4900 | 1737 | 
-| 2022-10-05 | 4898 | 1737 | 
 

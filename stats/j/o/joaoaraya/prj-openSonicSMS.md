@@ -1,10 +1,10 @@
 # joaoaraya/prj-openSonicSMS - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 12
 
-★ Stars: 40
+★ Stars: 42
 
 [Open repository](https://github.com/joaoaraya/prj-openSonicSMS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 42 | 12 | 
 | 2022-11-03 | 40 | 12 | 
 | 2022-11-02 | 40 | 12 | 
 | 2022-11-01 | 40 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 40 | 11 | 
 | 2022-10-07 | 40 | 11 | 
 | 2022-10-06 | 40 | 11 | 
-| 2022-10-05 | 40 | 11 | 
 

@@ -1,10 +1,10 @@
 # bannedbook/fanqiang - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 5861
+☋ Forks: 5865
 
-★ Stars: 27421
+★ Stars: 27440
 
 [Open repository](https://github.com/bannedbook/fanqiang)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 27440 | 5865 | 
 | 2022-11-03 | 27421 | 5861 | 
 | 2022-11-02 | 27398 | 5857 | 
 | 2022-11-01 | 27378 | 5850 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 26908 | 5795 | 
 | 2022-10-07 | 26889 | 5793 | 
 | 2022-10-06 | 26880 | 5791 | 
-| 2022-10-05 | 26874 | 5790 | 
 

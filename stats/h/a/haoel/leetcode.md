@@ -1,10 +1,10 @@
 # haoel/leetcode - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 4784
 
-★ Stars: 16480
+★ Stars: 16478
 
 [Open repository](https://github.com/haoel/leetcode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 16478 | 4784 | 
 | 2022-11-03 | 16480 | 4784 | 
 | 2022-11-02 | 16475 | 4784 | 
 | 2022-11-01 | 16471 | 4784 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 16398 | 4775 | 
 | 2022-10-08 | 16396 | 4774 | 
 | 2022-10-07 | 16394 | 4773 | 
-| 2022-10-06 | 16390 | 4772 | 
 

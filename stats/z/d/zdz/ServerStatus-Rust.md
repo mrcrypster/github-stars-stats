@@ -1,10 +1,10 @@
 # zdz/ServerStatus-Rust - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 108
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/zdz/ServerStatus-Rust)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 362 | 108 | 
 | 2022-11-03 | 361 | 108 | 
 | 2022-11-02 | 360 | 108 | 
 | 2022-11-01 | 359 | 107 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 340 | 101 | 
 | 2022-10-07 | 341 | 101 | 
 | 2022-10-06 | 341 | 101 | 
-| 2022-10-05 | 341 | 101 | 
 

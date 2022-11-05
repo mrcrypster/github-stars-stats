@@ -1,10 +1,10 @@
 # openai/whisper - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 1103
+☋ Forks: 1113
 
-★ Stars: 14013
+★ Stars: 14087
 
 [Open repository](https://github.com/openai/whisper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 14087 | 1113 | 
 | 2022-11-03 | 14013 | 1103 | 
 | 2022-11-02 | 13947 | 1095 | 
 | 2022-11-01 | 13907 | 1093 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 11816 | 828 | 
 | 2022-10-07 | 11642 | 807 | 
 | 2022-10-06 | 11440 | 771 | 
-| 2022-10-05 | 11295 | 756 | 
 

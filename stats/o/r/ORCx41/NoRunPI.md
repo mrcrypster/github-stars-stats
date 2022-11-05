@@ -1,10 +1,10 @@
 # ORCx41/NoRunPI - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 29
+☋ Forks: 30
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/ORCx41/NoRunPI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 149 | 30 | 
 | 2022-11-03 | 148 | 29 | 
 | 2022-11-02 | 148 | 28 | 
 | 2022-11-01 | 147 | 28 | 

@@ -1,10 +1,10 @@
 # nextauthjs/next-auth-example - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 559
+☋ Forks: 558
 
-★ Stars: 1800
+★ Stars: 1801
 
 [Open repository](https://github.com/nextauthjs/next-auth-example)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1801 | 558 | 
 | 2022-11-03 | 1800 | 559 | 
 | 2022-11-02 | 1799 | 559 | 
 | 2022-11-01 | 1800 | 558 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 1751 | 535 | 
 | 2022-10-07 | 1749 | 534 | 
 | 2022-10-06 | 1748 | 534 | 
-| 2022-10-05 | 1745 | 533 | 
 

@@ -1,6 +1,6 @@
 # jacobobryant/platypub - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 34 | 8 | 
 | 2022-11-03 | 34 | 8 | 
 | 2022-11-02 | 34 | 8 | 
 | 2022-11-01 | 33 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 32 | 7 | 
 | 2022-10-08 | 32 | 7 | 
 | 2022-10-06 | 32 | 7 | 
-| 2022-10-05 | 32 | 7 | 
 

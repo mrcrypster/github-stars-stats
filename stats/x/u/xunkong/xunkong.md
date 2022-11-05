@@ -1,10 +1,10 @@
 # xunkong/xunkong - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 24
 
-★ Stars: 466
+★ Stars: 474
 
 [Open repository](https://github.com/xunkong/xunkong)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 474 | 24 | 
 | 2022-11-03 | 466 | 24 | 
 | 2022-11-02 | 464 | 24 | 
 | 2022-11-01 | 461 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 403 | 20 | 
 | 2022-10-07 | 402 | 20 | 
 | 2022-10-06 | 399 | 20 | 
-| 2022-10-05 | 398 | 21 | 
 

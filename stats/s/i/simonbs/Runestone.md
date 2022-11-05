@@ -1,10 +1,10 @@
 # simonbs/Runestone - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 105
 
-★ Stars: 1969
+★ Stars: 1970
 
 [Open repository](https://github.com/simonbs/Runestone)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1970 | 105 | 
 | 2022-11-04 | 1969 | 105 | 
 | 2022-11-03 | 1967 | 105 | 
 | 2022-11-02 | 1965 | 105 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 1936 | 102 | 
 | 2022-10-07 | 1933 | 102 | 
 | 2022-10-06 | 1930 | 102 | 
-| 2022-10-05 | 1927 | 102 | 
 

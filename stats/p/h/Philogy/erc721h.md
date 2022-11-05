@@ -1,8 +1,8 @@
 # Philogy/erc721h - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 2
+☋ Forks: 1
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 29 | 1 | 
 | 2022-11-04 | 29 | 2 | 
 | 2022-11-03 | 29 | 2 | 
 | 2022-11-01 | 29 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 27 | 2 | 
 | 2022-10-07 | 27 | 2 | 
 | 2022-10-06 | 27 | 2 | 
-| 2022-10-05 | 27 | 2 | 
 

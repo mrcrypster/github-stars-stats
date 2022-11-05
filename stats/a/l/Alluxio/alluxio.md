@@ -1,6 +1,6 @@
 # Alluxio/alluxio - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 2757
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5956 | 2757 | 
 | 2022-11-03 | 5956 | 2757 | 
 | 2022-11-02 | 5954 | 2757 | 
 | 2022-11-01 | 5954 | 2756 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 5911 | 2744 | 
 | 2022-10-07 | 5910 | 2743 | 
 | 2022-10-06 | 5910 | 2742 | 
-| 2022-10-05 | 5907 | 2742 | 
 

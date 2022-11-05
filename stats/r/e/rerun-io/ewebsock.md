@@ -1,6 +1,6 @@
 # rerun-io/ewebsock - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 75 | 8 | 
 | 2022-11-03 | 75 | 8 | 
 | 2022-11-02 | 74 | 8 | 
 | 2022-11-01 | 74 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 68 | 6 | 
 | 2022-10-07 | 68 | 6 | 
 | 2022-10-06 | 67 | 6 | 
-| 2022-10-05 | 59 | 5 | 
 

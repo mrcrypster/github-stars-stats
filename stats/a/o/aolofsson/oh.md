@@ -1,10 +1,10 @@
 # aolofsson/oh - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 257
 
-★ Stars: 868
+★ Stars: 869
 
 [Open repository](https://github.com/aolofsson/oh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 869 | 257 | 
 | 2022-11-03 | 868 | 257 | 
 | 2022-11-02 | 867 | 256 | 
 | 2022-11-01 | 866 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 851 | 254 | 
 | 2022-10-07 | 851 | 254 | 
 | 2022-10-06 | 851 | 254 | 
-| 2022-10-05 | 849 | 254 | 
 

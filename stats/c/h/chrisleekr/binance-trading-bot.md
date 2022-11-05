@@ -1,10 +1,10 @@
 # chrisleekr/binance-trading-bot - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 873
 
-★ Stars: 4129
+★ Stars: 4130
 
 [Open repository](https://github.com/chrisleekr/binance-trading-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 4130 | 873 | 
 | 2022-11-03 | 4129 | 873 | 
 | 2022-11-02 | 4129 | 873 | 
 | 2022-11-01 | 4127 | 875 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 4100 | 867 | 
 | 2022-10-07 | 4098 | 868 | 
 | 2022-10-06 | 4095 | 866 | 
-| 2022-10-05 | 4092 | 865 | 
 

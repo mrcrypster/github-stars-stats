@@ -1,6 +1,6 @@
 # fufexan/nix-gaming - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 102 | 12 | 
 | 2022-11-03 | 102 | 12 | 
 | 2022-11-02 | 102 | 13 | 
 | 2022-11-01 | 102 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 99 | 11 | 
 | 2022-10-07 | 99 | 11 | 
 | 2022-10-06 | 97 | 11 | 
-| 2022-10-05 | 97 | 11 | 
 

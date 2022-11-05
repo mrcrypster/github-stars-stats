@@ -1,6 +1,6 @@
 # agilord/aws_client - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 174 | 62 | 
 | 2022-11-03 | 174 | 62 | 
 | 2022-11-02 | 174 | 62 | 
 | 2022-11-01 | 174 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 172 | 60 | 
 | 2022-10-08 | 172 | 60 | 
 | 2022-10-07 | 172 | 60 | 
-| 2022-10-06 | 172 | 61 | 
 

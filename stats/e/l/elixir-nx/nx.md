@@ -1,10 +1,10 @@
 # elixir-nx/nx - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 130
 
-★ Stars: 1952
+★ Stars: 1956
 
 [Open repository](https://github.com/elixir-nx/nx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1956 | 130 | 
 | 2022-11-03 | 1952 | 130 | 
 | 2022-11-02 | 1951 | 130 | 
 | 2022-11-01 | 1949 | 130 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 1928 | 127 | 
 | 2022-10-07 | 1927 | 127 | 
 | 2022-10-06 | 1926 | 127 | 
-| 2022-10-05 | 1925 | 127 | 
 

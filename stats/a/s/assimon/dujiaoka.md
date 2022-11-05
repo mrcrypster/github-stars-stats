@@ -1,10 +1,10 @@
 # assimon/dujiaoka - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 1053
+☋ Forks: 1056
 
-★ Stars: 3255
+★ Stars: 3259
 
 [Open repository](https://github.com/assimon/dujiaoka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3259 | 1056 | 
 | 2022-11-03 | 3255 | 1053 | 
 | 2022-11-02 | 3253 | 1052 | 
 | 2022-11-01 | 3247 | 1051 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3138 | 1028 | 
 | 2022-10-07 | 3135 | 1025 | 
 | 2022-10-06 | 3134 | 1024 | 
-| 2022-10-05 | 3130 | 1022 | 
 

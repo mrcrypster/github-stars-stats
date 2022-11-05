@@ -1,10 +1,10 @@
 # espnet/espnet - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1746
 
-★ Stars: 5664
+★ Stars: 5671
 
 [Open repository](https://github.com/espnet/espnet)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-04 | 5664 | 1746 | 
+| 2022-11-05 | 5671 | 1746 | 
+| 2022-11-04 | 5671 | 1746 | 
 | 2022-11-03 | 5662 | 1746 | 
 | 2022-11-02 | 5652 | 1741 | 
 | 2022-11-01 | 5643 | 1740 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 5547 | 1725 | 
 | 2022-10-07 | 5542 | 1724 | 
 | 2022-10-06 | 5535 | 1724 | 
-| 2022-10-05 | 5532 | 1723 | 
 

@@ -1,6 +1,6 @@
 # issaafalkattan/React-Landing-Page-Template - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 575
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 737 | 575 | 
 | 2022-11-03 | 737 | 575 | 
 | 2022-11-02 | 736 | 575 | 
 | 2022-11-01 | 735 | 575 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 721 | 562 | 
 | 2022-10-08 | 721 | 560 | 
 | 2022-10-06 | 721 | 559 | 
-| 2022-10-05 | 720 | 558 | 
 

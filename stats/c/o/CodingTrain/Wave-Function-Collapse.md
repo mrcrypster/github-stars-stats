@@ -1,8 +1,8 @@
 # CodingTrain/Wave-Function-Collapse - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 43
+☋ Forks: 45
 
 ★ Stars: 93
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 93 | 45 | 
 | 2022-11-03 | 93 | 43 | 
 | 2022-11-02 | 93 | 43 | 
 | 2022-11-01 | 93 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 86 | 41 | 
 | 2022-10-07 | 86 | 41 | 
 | 2022-10-06 | 86 | 41 | 
-| 2022-10-05 | 85 | 41 | 
 

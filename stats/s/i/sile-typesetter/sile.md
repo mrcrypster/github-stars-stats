@@ -1,10 +1,10 @@
 # sile-typesetter/sile - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 05
 
-☋ Forks: 83
+☋ Forks: 85
 
-★ Stars: 1282
+★ Stars: 1383
 
 [Open repository](https://github.com/sile-typesetter/sile)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1383 | 85 | 
+| 2022-11-04 | 1381 | 85 | 
 | 2022-11-03 | 1282 | 83 | 
 | 2022-11-02 | 1262 | 82 | 
 | 2022-11-01 | 1262 | 83 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 1251 | 81 | 
 | 2022-10-08 | 1251 | 81 | 
 | 2022-10-06 | 1251 | 81 | 
-| 2022-10-05 | 1251 | 81 | 
 

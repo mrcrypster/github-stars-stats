@@ -1,6 +1,6 @@
 # ColinLeung-NiloCat/UnityURP-BillboardLensFlareShader - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 311 | 57 | 
 | 2022-11-03 | 311 | 57 | 
 | 2022-11-02 | 310 | 57 | 
 | 2022-11-01 | 310 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 290 | 56 | 
 | 2022-10-07 | 290 | 56 | 
 | 2022-10-06 | 290 | 56 | 
-| 2022-10-05 | 290 | 56 | 
 

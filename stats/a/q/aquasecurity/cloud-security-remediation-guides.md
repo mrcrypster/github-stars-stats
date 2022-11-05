@@ -1,6 +1,6 @@
 # aquasecurity/cloud-security-remediation-guides - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 584 | 137 | 
 | 2022-11-03 | 584 | 137 | 
 | 2022-11-02 | 584 | 137 | 
 | 2022-11-01 | 583 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 504 | 115 | 
 | 2022-10-07 | 504 | 115 | 
 | 2022-10-06 | 499 | 112 | 
-| 2022-10-05 | 495 | 112 | 
 

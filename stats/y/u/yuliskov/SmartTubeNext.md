@@ -1,10 +1,10 @@
 # yuliskov/SmartTubeNext - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 546
+☋ Forks: 548
 
-★ Stars: 7730
+★ Stars: 7749
 
 [Open repository](https://github.com/yuliskov/SmartTubeNext)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 7749 | 548 | 
 | 2022-11-03 | 7730 | 546 | 
 | 2022-11-02 | 7710 | 546 | 
 | 2022-11-01 | 7693 | 545 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 7372 | 515 | 
 | 2022-10-07 | 7370 | 514 | 
 | 2022-10-06 | 7354 | 514 | 
-| 2022-10-05 | 7330 | 512 | 
 

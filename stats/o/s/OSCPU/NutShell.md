@@ -1,10 +1,10 @@
 # OSCPU/NutShell - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 193
 
-★ Stars: 1086
+★ Stars: 1085
 
 [Open repository](https://github.com/OSCPU/NutShell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1085 | 193 | 
 | 2022-11-03 | 1086 | 193 | 
 | 2022-11-02 | 1085 | 193 | 
 | 2022-11-01 | 1084 | 193 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 1081 | 192 | 
 | 2022-10-07 | 1081 | 192 | 
 | 2022-10-06 | 1079 | 192 | 
-| 2022-10-05 | 1078 | 192 | 
 

@@ -1,10 +1,10 @@
 # ikatyang/emoji-cheat-sheet - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 3743
+☋ Forks: 3748
 
-★ Stars: 8716
+★ Stars: 8727
 
 [Open repository](https://github.com/ikatyang/emoji-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 8727 | 3748 | 
 | 2022-11-03 | 8716 | 3743 | 
 | 2022-11-02 | 8702 | 3740 | 
 | 2022-11-01 | 8691 | 3739 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 8506 | 3640 | 
 | 2022-10-07 | 8496 | 3633 | 
 | 2022-10-06 | 8481 | 3624 | 
-| 2022-10-05 | 8476 | 3623 | 
 

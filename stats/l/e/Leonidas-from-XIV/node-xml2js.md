@@ -1,8 +1,8 @@
 # Leonidas-from-XIV/node-xml2js - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 555
+☋ Forks: 554
 
 ★ Stars: 4590
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 4590 | 554 | 
 | 2022-11-03 | 4590 | 555 | 
 | 2022-11-02 | 4590 | 553 | 
 | 2022-11-01 | 4589 | 553 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 4578 | 550 | 
 | 2022-10-07 | 4578 | 550 | 
 | 2022-10-06 | 4578 | 550 | 
-| 2022-10-05 | 4578 | 550 | 
 

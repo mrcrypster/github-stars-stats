@@ -1,6 +1,6 @@
 # WebDevSimplified/youtube-video-player-clone - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 55
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 101 | 55 | 
 | 2022-11-03 | 101 | 55 | 
 | 2022-11-02 | 101 | 54 | 
 | 2022-11-01 | 100 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 96 | 44 | 
 | 2022-10-08 | 96 | 44 | 
 | 2022-10-07 | 96 | 44 | 
-| 2022-10-06 | 96 | 44 | 
 

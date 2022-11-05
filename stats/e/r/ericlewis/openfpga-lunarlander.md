@@ -1,6 +1,6 @@
 # ericlewis/openfpga-lunarlander - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 28 | - | 
 | 2022-11-03 | 28 | - | 
 | 2022-11-02 | 28 | - | 
 | 2022-11-01 | 28 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 24 | - | 
 | 2022-10-07 | 24 | - | 
 | 2022-10-06 | 24 | - | 
-| 2022-10-05 | 24 | - | 
 

@@ -1,8 +1,8 @@
 # Mortalitas/GShade - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 71
+☋ Forks: 72
 
 ★ Stars: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 251 | 72 | 
 | 2022-11-03 | 251 | 71 | 
 | 2022-11-02 | 251 | 71 | 
 | 2022-11-01 | 250 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 242 | 71 | 
 | 2022-10-07 | 241 | 71 | 
 | 2022-10-06 | 241 | 71 | 
-| 2022-10-05 | 240 | 71 | 
 

@@ -1,6 +1,6 @@
 # erdewit/HiFiScan - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 843 | 16 | 
 | 2022-11-04 | 843 | 16 | 
 | 2022-11-03 | 842 | 16 | 
 | 2022-11-02 | 842 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 828 | 14 | 
 | 2022-10-07 | 827 | 14 | 
 | 2022-10-06 | 826 | 14 | 
-| 2022-10-05 | 826 | 14 | 
 

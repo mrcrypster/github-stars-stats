@@ -1,8 +1,8 @@
 # USGS-VIZLAB/chart-challenge-22 - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 25
+☋ Forks: 26
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 41 | 26 | 
 | 2022-11-03 | 41 | 25 | 
 | 2022-11-02 | 41 | 25 | 
 | 2022-11-01 | 41 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 40 | 25 | 
 | 2022-10-07 | 40 | 25 | 
 | 2022-10-06 | 40 | 25 | 
-| 2022-10-05 | 40 | 25 | 
 

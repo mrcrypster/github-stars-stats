@@ -1,10 +1,10 @@
 # angular/components - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 6313
+☋ Forks: 6314
 
-★ Stars: 23056
+★ Stars: 23058
 
 [Open repository](https://github.com/angular/components)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 23058 | 6314 | 
 | 2022-11-03 | 23056 | 6313 | 
 | 2022-11-02 | 23054 | 6311 | 
 | 2022-11-01 | 23054 | 6311 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 22992 | 6298 | 
 | 2022-10-07 | 22995 | 6297 | 
 | 2022-10-06 | 22992 | 6300 | 
-| 2022-10-05 | 22991 | 6296 | 
 

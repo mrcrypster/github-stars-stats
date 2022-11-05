@@ -1,10 +1,10 @@
 # fzaninotto/Faker - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 3444
+☋ Forks: 3447
 
-★ Stars: 26631
+★ Stars: 26633
 
 [Open repository](https://github.com/fzaninotto/Faker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 26633 | 3447 | 
 | 2022-11-03 | 26631 | 3444 | 
 | 2022-11-02 | 26631 | 3444 | 
 | 2022-11-01 | 26629 | 3443 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 26605 | 3432 | 
 | 2022-10-07 | 26604 | 3431 | 
 | 2022-10-06 | 26601 | 3429 | 
-| 2022-10-05 | 26600 | 3428 | 
 

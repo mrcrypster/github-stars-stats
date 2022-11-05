@@ -1,10 +1,10 @@
 # UrbanOS-Public/smartcitiesdata - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 8
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/UrbanOS-Public/smartcitiesdata)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 56 | 8 | 
 | 2022-11-03 | 55 | 8 | 
 | 2022-11-02 | 55 | 8 | 
 | 2022-11-01 | 55 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 53 | 8 | 
 | 2022-10-07 | 53 | 8 | 
 | 2022-10-06 | 53 | 8 | 
-| 2022-10-05 | 53 | 8 | 
 

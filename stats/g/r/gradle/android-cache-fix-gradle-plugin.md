@@ -1,10 +1,10 @@
 # gradle/android-cache-fix-gradle-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 41
 
-★ Stars: 349
+★ Stars: 351
 
 [Open repository](https://github.com/gradle/android-cache-fix-gradle-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 351 | 41 | 
 | 2022-11-03 | 349 | 41 | 
 | 2022-11-02 | 349 | 41 | 
 | 2022-11-01 | 349 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 344 | 40 | 
 | 2022-10-08 | 344 | 40 | 
 | 2022-10-07 | 343 | 40 | 
-| 2022-10-05 | 343 | 40 | 
 

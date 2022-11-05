@@ -1,8 +1,8 @@
 # sadanandpai/frontend-learning-kit - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 450
+☋ Forks: 451
 
 ★ Stars: 2268
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2268 | 451 | 
 | 2022-11-04 | 2268 | 450 | 
 | 2022-11-02 | 2268 | 450 | 
 | 2022-11-01 | 2266 | 450 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 2236 | 442 | 
 | 2022-10-07 | 2234 | 442 | 
 | 2022-10-06 | 2233 | 442 | 
-| 2022-10-05 | 2233 | 442 | 
 

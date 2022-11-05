@@ -1,6 +1,6 @@
 # yangdaozhao/ylgy - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 155 | 49 | 
 | 2022-11-03 | 155 | 49 | 
 | 2022-11-02 | 154 | 49 | 
 | 2022-11-01 | 154 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 159 | 52 | 
 | 2022-10-07 | 162 | 52 | 
 | 2022-10-06 | 161 | 52 | 
-| 2022-10-05 | 161 | 52 | 
 

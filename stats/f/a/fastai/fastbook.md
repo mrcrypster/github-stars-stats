@@ -1,10 +1,10 @@
 # fastai/fastbook - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 6220
+☋ Forks: 6222
 
-★ Stars: 16384
+★ Stars: 16385
 
 [Open repository](https://github.com/fastai/fastbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 16385 | 6222 | 
 | 2022-11-03 | 16384 | 6220 | 
 | 2022-11-02 | 16376 | 6210 | 
 | 2022-11-01 | 16365 | 6207 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 16204 | 6113 | 
 | 2022-10-07 | 16195 | 6108 | 
 | 2022-10-06 | 16188 | 6102 | 
-| 2022-10-05 | 16187 | 6101 | 
 

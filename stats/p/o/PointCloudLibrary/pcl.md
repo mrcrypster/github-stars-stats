@@ -1,10 +1,10 @@
 # PointCloudLibrary/pcl - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 4350
 
-★ Stars: 7865
+★ Stars: 7866
 
 [Open repository](https://github.com/PointCloudLibrary/pcl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 7866 | 4350 | 
 | 2022-11-03 | 7865 | 4350 | 
 | 2022-11-02 | 7863 | 4351 | 
 | 2022-11-01 | 7863 | 4350 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 7771 | 4320 | 
 | 2022-10-07 | 7769 | 4320 | 
 | 2022-10-06 | 7769 | 4319 | 
-| 2022-10-05 | 7767 | 4319 | 
 

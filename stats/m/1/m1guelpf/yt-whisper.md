@@ -1,8 +1,8 @@
 # m1guelpf/yt-whisper - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 38
+☋ Forks: 39
 
 ★ Stars: 572
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 572 | 39 | 
 | 2022-11-03 | 572 | 38 | 
 | 2022-11-02 | 570 | 37 | 
 | 2022-11-01 | 565 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 494 | 22 | 
 | 2022-10-07 | 490 | 22 | 
 | 2022-10-06 | 486 | 22 | 
-| 2022-10-05 | 483 | 22 | 
 

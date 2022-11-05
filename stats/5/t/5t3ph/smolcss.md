@@ -1,10 +1,10 @@
 # 5t3ph/smolcss - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 9
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/5t3ph/smolcss)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 546 | 9 | 
 | 2022-11-03 | 545 | 9 | 
 | 2022-11-02 | 545 | 9 | 
 | 2022-11-01 | 544 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 544 | 9 | 
 | 2022-10-07 | 544 | 9 | 
 | 2022-10-06 | 544 | 9 | 
-| 2022-10-05 | 544 | 9 | 
 

@@ -1,10 +1,10 @@
 # ed-o-saurus/PLHaskell - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 0
 
-★ Stars: 59
+★ Stars: 62
 
 [Open repository](https://github.com/ed-o-saurus/PLHaskell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 62 | - | 
 | 2022-11-03 | 59 | - | 
 | 2022-11-02 | 59 | - | 
 | 2022-11-01 | 59 | - | 

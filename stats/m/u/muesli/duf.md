@@ -1,6 +1,6 @@
 # muesli/duf - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 326
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 10044 | 326 | 
 | 2022-11-03 | 10044 | 326 | 
 | 2022-11-02 | 10039 | 326 | 
 | 2022-11-01 | 10037 | 326 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 9933 | 319 | 
 | 2022-10-07 | 9929 | 318 | 
 | 2022-10-06 | 9925 | 318 | 
-| 2022-10-05 | 9921 | 318 | 
 

@@ -1,10 +1,10 @@
 # safak/youtube - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 4104
+☋ Forks: 4119
 
-★ Stars: 3517
+★ Stars: 3522
 
 [Open repository](https://github.com/safak/youtube)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3522 | 4119 | 
 | 2022-11-03 | 3517 | 4104 | 
 | 2022-11-02 | 3509 | 4096 | 
 | 2022-11-01 | 3505 | 4093 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3399 | 4006 | 
 | 2022-10-07 | 3392 | 3997 | 
 | 2022-10-06 | 3388 | 3993 | 
-| 2022-10-05 | 3382 | 3982 | 
 

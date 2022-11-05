@@ -1,10 +1,10 @@
 # wren-lang/wren - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 488
 
-★ Stars: 6045
+★ Stars: 6053
 
 [Open repository](https://github.com/wren-lang/wren)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 6053 | 488 | 
 | 2022-11-03 | 6045 | 488 | 
 | 2022-11-02 | 6042 | 488 | 
 | 2022-11-01 | 6041 | 488 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 6011 | 483 | 
 | 2022-10-07 | 6007 | 483 | 
 | 2022-10-06 | 6007 | 483 | 
-| 2022-10-05 | 6008 | 483 | 
 

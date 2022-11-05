@@ -1,10 +1,10 @@
 # MasteringNuxt/mastering-nuxt-3 - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 20
+☋ Forks: 21
 
-★ Stars: 80
+★ Stars: 85
 
 [Open repository](https://github.com/MasteringNuxt/mastering-nuxt-3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 85 | 21 | 
 | 2022-11-03 | 80 | 20 | 
 | 2022-11-02 | 76 | 18 | 
 | 2022-11-01 | 72 | 16 | 

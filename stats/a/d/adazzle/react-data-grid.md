@@ -1,10 +1,10 @@
 # adazzle/react-data-grid - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 2044
+☋ Forks: 2045
 
-★ Stars: 5660
+★ Stars: 5664
 
 [Open repository](https://github.com/adazzle/react-data-grid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5664 | 2045 | 
 | 2022-11-03 | 5660 | 2044 | 
 | 2022-11-02 | 5657 | 2044 | 
 | 2022-11-01 | 5656 | 2043 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 5620 | 2035 | 
 | 2022-10-07 | 5616 | 2035 | 
 | 2022-10-06 | 5615 | 2034 | 
-| 2022-10-05 | 5612 | 2035 | 
 

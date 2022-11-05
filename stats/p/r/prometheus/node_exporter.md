@@ -1,10 +1,10 @@
 # prometheus/node_exporter - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 1944
 
-★ Stars: 8074
+★ Stars: 8080
 
 [Open repository](https://github.com/prometheus/node_exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 8080 | 1944 | 
 | 2022-11-03 | 8074 | 1944 | 
 | 2022-11-02 | 8069 | 1940 | 
 | 2022-11-01 | 8064 | 1939 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 7963 | 1911 | 
 | 2022-10-07 | 7958 | 1911 | 
 | 2022-10-06 | 7951 | 1912 | 
-| 2022-10-05 | 7948 | 1912 | 
 

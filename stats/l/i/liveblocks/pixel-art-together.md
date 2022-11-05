@@ -1,8 +1,8 @@
 # liveblocks/pixel-art-together - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 154
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 154 | 5 | 
 | 2022-11-03 | 154 | 4 | 
 | 2022-11-02 | 154 | 4 | 
 | 2022-11-01 | 154 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 152 | 4 | 
 | 2022-10-07 | 153 | 4 | 
 | 2022-10-06 | 153 | 4 | 
-| 2022-10-05 | 153 | 4 | 
 

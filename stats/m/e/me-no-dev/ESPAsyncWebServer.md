@@ -1,10 +1,10 @@
 # me-no-dev/ESPAsyncWebServer - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 832
 
-★ Stars: 2595
+★ Stars: 2600
 
 [Open repository](https://github.com/me-no-dev/ESPAsyncWebServer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2600 | 832 | 
 | 2022-11-03 | 2595 | 832 | 
 | 2022-11-02 | 2593 | 832 | 
 | 2022-11-01 | 2593 | 830 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 2560 | 817 | 
 | 2022-10-08 | 2560 | 817 | 
 | 2022-10-07 | 2559 | 816 | 
-| 2022-10-06 | 2557 | 814 | 
 

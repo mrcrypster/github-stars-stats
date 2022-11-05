@@ -1,10 +1,10 @@
 # Azure/azure-sdk-vcpkg-betas - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 4
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/Azure/azure-sdk-vcpkg-betas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3 | 4 | 
 | 2022-11-03 | 2 | 4 | 
 | 2022-11-02 | 2 | 4 | 
 | 2022-11-01 | 2 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2 | 4 | 
 | 2022-10-07 | 2 | 4 | 
 | 2022-10-06 | 2 | 4 | 
-| 2022-10-05 | 2 | 4 | 
 

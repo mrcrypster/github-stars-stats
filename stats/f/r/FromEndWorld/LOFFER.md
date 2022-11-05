@@ -1,6 +1,6 @@
 # FromEndWorld/LOFFER - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 391
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 334 | 391 | 
 | 2022-11-03 | 334 | 391 | 
 | 2022-11-02 | 334 | 390 | 
 | 2022-11-01 | 334 | 389 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 331 | 391 | 
 | 2022-10-07 | 331 | 391 | 
 | 2022-10-06 | 331 | 390 | 
-| 2022-10-05 | 331 | 391 | 
 

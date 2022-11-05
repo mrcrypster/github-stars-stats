@@ -1,8 +1,8 @@
 # quarkusio/quarkus-super-heroes - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 67
+☋ Forks: 68
 
 ★ Stars: 117
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 117 | 68 | 
 | 2022-11-03 | 117 | 67 | 
 | 2022-11-02 | 116 | 67 | 
 | 2022-11-01 | 116 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 107 | 63 | 
 | 2022-10-07 | 107 | 63 | 
 | 2022-10-06 | 106 | 60 | 
-| 2022-10-05 | 106 | 58 | 
 

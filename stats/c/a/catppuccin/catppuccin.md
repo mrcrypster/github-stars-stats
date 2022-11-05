@@ -1,10 +1,10 @@
 # catppuccin/catppuccin - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 91
+☋ Forks: 93
 
-★ Stars: 3898
+★ Stars: 3914
 
 [Open repository](https://github.com/catppuccin/catppuccin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3914 | 93 | 
 | 2022-11-03 | 3898 | 91 | 
 | 2022-11-02 | 3887 | 89 | 
 | 2022-11-01 | 3884 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3367 | 82 | 
 | 2022-10-07 | 3351 | 79 | 
 | 2022-10-06 | 3342 | 79 | 
-| 2022-10-05 | 3328 | 78 | 
 

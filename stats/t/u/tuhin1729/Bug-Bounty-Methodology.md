@@ -1,10 +1,10 @@
 # tuhin1729/Bug-Bounty-Methodology - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 162
+★ Stars: 185
 
 [Open repository](https://github.com/tuhin1729/Bug-Bounty-Methodology)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 185 | 18 | 
 | 2022-11-03 | 162 | 16 | 
 | 2022-11-02 | 162 | 16 | 
 | 2022-11-01 | 162 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 152 | 17 | 
 | 2022-10-07 | 152 | 17 | 
 | 2022-10-06 | 152 | 17 | 
-| 2022-10-05 | 152 | 17 | 
 

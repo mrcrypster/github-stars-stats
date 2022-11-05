@@ -1,10 +1,10 @@
 # benbusby/whoogle-search - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 702
 
-★ Stars: 6507
+★ Stars: 6537
 
 [Open repository](https://github.com/benbusby/whoogle-search)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 6537 | 702 | 
 | 2022-11-03 | 6507 | 702 | 
 | 2022-11-02 | 6498 | 701 | 
 | 2022-11-01 | 6496 | 701 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 6407 | 697 | 
 | 2022-10-07 | 6401 | 697 | 
 | 2022-10-06 | 6397 | 697 | 
-| 2022-10-05 | 6393 | 696 | 
 

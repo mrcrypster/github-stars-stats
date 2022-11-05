@@ -1,10 +1,10 @@
 # nisrulz/flutter-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 1589
 
-★ Stars: 6219
+★ Stars: 6220
 
 [Open repository](https://github.com/nisrulz/flutter-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 6220 | 1589 | 
 | 2022-11-03 | 6219 | 1589 | 
 | 2022-11-02 | 6218 | 1588 | 
 | 2022-11-01 | 6216 | 1588 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 6182 | 1583 | 
 | 2022-10-07 | 6182 | 1583 | 
 | 2022-10-06 | 6180 | 1583 | 
-| 2022-10-05 | 6180 | 1583 | 
 

@@ -1,10 +1,10 @@
 # MadMaxChow/VLOOK - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 109
 
-★ Stars: 851
+★ Stars: 852
 
 [Open repository](https://github.com/MadMaxChow/VLOOK)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 852 | 109 | 
 | 2022-11-03 | 851 | 109 | 
 | 2022-11-02 | 851 | 109 | 
 | 2022-11-01 | 851 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 847 | 108 | 
 | 2022-10-08 | 847 | 108 | 
 | 2022-10-07 | 847 | 108 | 
-| 2022-10-05 | 847 | 108 | 
 

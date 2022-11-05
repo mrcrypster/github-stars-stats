@@ -1,10 +1,10 @@
 # margelo/react-native-graph - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 40
 
-★ Stars: 1055
+★ Stars: 1056
 
 [Open repository](https://github.com/margelo/react-native-graph)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1056 | 40 | 
 | 2022-11-03 | 1055 | 40 | 
 | 2022-11-02 | 1055 | 40 | 
 | 2022-11-01 | 1054 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 1022 | 38 | 
 | 2022-10-08 | 1022 | 38 | 
 | 2022-10-06 | 1013 | 38 | 
-| 2022-10-05 | 1012 | 38 | 
 

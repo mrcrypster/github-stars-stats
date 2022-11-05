@@ -1,10 +1,10 @@
 # Blankj/AndroidUtilCode - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 10452
+☋ Forks: 10453
 
-★ Stars: 31531
+★ Stars: 31532
 
 [Open repository](https://github.com/Blankj/AndroidUtilCode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 31532 | 10453 | 
 | 2022-11-03 | 31531 | 10452 | 
 | 2022-11-02 | 31524 | 10452 | 
 | 2022-11-01 | 31513 | 10452 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 31423 | 10431 | 
 | 2022-10-07 | 31420 | 10428 | 
 | 2022-10-06 | 31419 | 10429 | 
-| 2022-10-05 | 31423 | 10428 | 
 

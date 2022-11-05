@@ -1,6 +1,6 @@
 # elliottt/llvm-pretty - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 22 | 15 | 
 | 2022-11-03 | 22 | 15 | 
 | 2022-11-02 | 22 | 15 | 
 | 2022-11-01 | 22 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 22 | 15 | 
 | 2022-10-07 | 22 | 15 | 
 | 2022-10-06 | 22 | 15 | 
-| 2022-10-05 | 22 | 15 | 
 

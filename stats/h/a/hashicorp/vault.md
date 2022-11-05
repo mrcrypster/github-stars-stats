@@ -1,10 +1,10 @@
 # hashicorp/vault - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 3581
+☋ Forks: 3587
 
-★ Stars: 26101
+★ Stars: 26103
 
 [Open repository](https://github.com/hashicorp/vault)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 26103 | 3587 | 
 | 2022-11-03 | 26101 | 3581 | 
 | 2022-11-02 | 26099 | 3581 | 
 | 2022-11-01 | 26091 | 3577 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 25945 | 3558 | 
 | 2022-10-07 | 25936 | 3557 | 
 | 2022-10-06 | 25927 | 3557 | 
-| 2022-10-05 | 25927 | 3555 | 
 

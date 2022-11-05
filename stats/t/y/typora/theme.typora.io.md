@@ -1,6 +1,6 @@
 # typora/theme.typora.io - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 420
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 713 | 420 | 
 | 2022-11-03 | 713 | 420 | 
 | 2022-11-02 | 712 | 420 | 
 | 2022-11-01 | 712 | 420 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 709 | 419 | 
 | 2022-10-08 | 709 | 419 | 
 | 2022-10-07 | 710 | 418 | 
-| 2022-10-06 | 710 | 416 | 
 

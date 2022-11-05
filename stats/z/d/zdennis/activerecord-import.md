@@ -1,6 +1,6 @@
 # zdennis/activerecord-import - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 610
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3766 | 610 | 
 | 2022-11-03 | 3766 | 610 | 
 | 2022-11-02 | 3766 | 609 | 
 | 2022-11-01 | 3763 | 609 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3756 | 607 | 
 | 2022-10-07 | 3752 | 607 | 
 | 2022-10-06 | 3751 | 607 | 
-| 2022-10-05 | 3749 | 607 | 
 

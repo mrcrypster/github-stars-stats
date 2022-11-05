@@ -1,10 +1,10 @@
 # srush/GPU-Puzzles - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 99
+☋ Forks: 100
 
-★ Stars: 2773
+★ Stars: 2774
 
 [Open repository](https://github.com/srush/GPU-Puzzles)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2774 | 100 | 
 | 2022-11-03 | 2773 | 99 | 
 | 2022-11-02 | 2770 | 99 | 
 | 2022-11-01 | 2768 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2723 | 98 | 
 | 2022-10-07 | 2724 | 98 | 
 | 2022-10-06 | 2723 | 98 | 
-| 2022-10-05 | 2722 | 98 | 
 

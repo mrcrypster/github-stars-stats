@@ -1,10 +1,10 @@
 # ahmedshahein/DSP-RTL-Lib - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 16
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/ahmedshahein/DSP-RTL-Lib)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 49 | 16 | 
 | 2022-11-03 | 48 | 16 | 
 | 2022-11-02 | 48 | 16 | 
 | 2022-11-01 | 48 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 47 | 16 | 
 | 2022-10-08 | 47 | 16 | 
 | 2022-10-07 | 46 | 16 | 
-| 2022-10-05 | 46 | 16 | 
 

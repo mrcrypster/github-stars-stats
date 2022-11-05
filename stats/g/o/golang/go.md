@@ -1,10 +1,10 @@
 # golang/go - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 15579
+☋ Forks: 15587
 
-★ Stars: 105439
+★ Stars: 105447
 
 [Open repository](https://github.com/golang/go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 105447 | 15587 | 
 | 2022-11-03 | 105439 | 15579 | 
 | 2022-11-02 | 105388 | 15566 | 
 | 2022-11-01 | 105352 | 15557 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 104449 | 15462 | 
 | 2022-10-07 | 104433 | 15462 | 
 | 2022-10-06 | 104406 | 15463 | 
-| 2022-10-05 | 104375 | 15459 | 
 

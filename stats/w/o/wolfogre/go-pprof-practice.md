@@ -1,10 +1,10 @@
 # wolfogre/go-pprof-practice - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 75
+☋ Forks: 76
 
-★ Stars: 270
+★ Stars: 271
 
 [Open repository](https://github.com/wolfogre/go-pprof-practice)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 271 | 76 | 
 | 2022-11-03 | 270 | 75 | 
 | 2022-11-02 | 270 | 75 | 
 | 2022-11-01 | 270 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 265 | 75 | 
 | 2022-10-07 | 264 | 75 | 
 | 2022-10-06 | 264 | 75 | 
-| 2022-10-05 | 264 | 75 | 
 

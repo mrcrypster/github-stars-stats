@@ -1,6 +1,6 @@
 # Dashibase/lotion - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2458 | 98 | 
 | 2022-11-03 | 2458 | 98 | 
 | 2022-11-02 | 2458 | 99 | 
 | 2022-11-01 | 2457 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2414 | 96 | 
 | 2022-10-07 | 2412 | 96 | 
 | 2022-10-06 | 2409 | 94 | 
-| 2022-10-05 | 2404 | 94 | 
 

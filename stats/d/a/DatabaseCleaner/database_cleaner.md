@@ -1,10 +1,10 @@
 # DatabaseCleaner/database_cleaner - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 489
 
-★ Stars: 2820
+★ Stars: 2822
 
 [Open repository](https://github.com/DatabaseCleaner/database_cleaner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2822 | 489 | 
 | 2022-11-03 | 2820 | 489 | 
 | 2022-11-02 | 2820 | 488 | 
 | 2022-11-01 | 2820 | 488 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2812 | 488 | 
 | 2022-10-07 | 2811 | 488 | 
 | 2022-10-06 | 2811 | 488 | 
-| 2022-10-05 | 2811 | 488 | 
 

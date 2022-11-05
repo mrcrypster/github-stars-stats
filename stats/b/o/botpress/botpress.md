@@ -1,10 +1,10 @@
 # botpress/botpress - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 1333
+☋ Forks: 1335
 
-★ Stars: 9929
+★ Stars: 9933
 
 [Open repository](https://github.com/botpress/botpress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 9933 | 1335 | 
 | 2022-11-03 | 9929 | 1333 | 
 | 2022-11-02 | 9925 | 1333 | 
 | 2022-11-01 | 9922 | 1334 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 9890 | 1326 | 
 | 2022-10-07 | 9891 | 1325 | 
 | 2022-10-06 | 9890 | 1325 | 
-| 2022-10-05 | 9885 | 1326 | 
 

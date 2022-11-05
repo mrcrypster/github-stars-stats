@@ -1,10 +1,10 @@
 # marcosci/climate_multiples - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/marcosci/climate_multiples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 21 | 6 | 
 | 2022-11-03 | 20 | 6 | 
 | 2022-11-02 | 20 | 6 | 
 | 2022-11-01 | 20 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 20 | 6 | 
 | 2022-10-07 | 20 | 6 | 
 | 2022-10-06 | 20 | 6 | 
-| 2022-10-05 | 20 | 6 | 
 

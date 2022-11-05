@@ -1,10 +1,10 @@
 # Unity-Technologies/game-programming-patterns-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 27
 
-★ Stars: 618
+★ Stars: 620
 
 [Open repository](https://github.com/Unity-Technologies/game-programming-patterns-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 620 | 27 | 
 | 2022-11-03 | 618 | 27 | 
 | 2022-11-02 | 617 | 27 | 
 | 2022-11-01 | 613 | 27 | 

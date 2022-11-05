@@ -1,6 +1,6 @@
 # mgechev/mk.js - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1447 | 394 | 
 | 2022-11-04 | 1447 | 394 | 
 | 2022-11-03 | 1447 | 393 | 
 | 2022-11-02 | 1446 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 1440 | 394 | 
 | 2022-10-07 | 1440 | 394 | 
 | 2022-10-06 | 1440 | 393 | 
-| 2022-10-05 | 1440 | 393 | 
 

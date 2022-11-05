@@ -1,10 +1,10 @@
 # Olosinsk-commits/MYSQL - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 17
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/Olosinsk-commits/MYSQL)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 10 | 17 | 
 | 2022-11-03 | 9 | 17 | 
 | 2022-11-02 | 9 | 17 | 
 | 2022-11-01 | 9 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 7 | 16 | 
 | 2022-10-07 | 7 | 16 | 
 | 2022-10-06 | 7 | 16 | 
-| 2022-10-05 | 7 | 16 | 
 

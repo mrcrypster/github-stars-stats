@@ -1,6 +1,6 @@
 # mabaorui/PredictableContextPrior - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 130 | 25 | 
 | 2022-11-03 | 130 | 25 | 
 | 2022-11-02 | 130 | 25 | 
 | 2022-11-01 | 130 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 130 | 24 | 
 | 2022-10-08 | 129 | 24 | 
 | 2022-10-07 | 129 | 24 | 
-| 2022-10-05 | 129 | 24 | 
 

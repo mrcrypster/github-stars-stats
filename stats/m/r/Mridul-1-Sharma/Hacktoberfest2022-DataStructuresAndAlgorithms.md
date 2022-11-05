@@ -1,10 +1,10 @@
 # Mridul-1-Sharma/Hacktoberfest2022-DataStructuresAndAlgorithms - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 135
 
-★ Stars: 46
+★ Stars: 45
 
 [Open repository](https://github.com/Mridul-1-Sharma/Hacktoberfest2022-DataStructuresAndAlgorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 45 | 135 | 
 | 2022-11-03 | 46 | 135 | 
 | 2022-11-02 | 46 | 135 | 
 | 2022-11-01 | 46 | 135 | 

@@ -1,10 +1,10 @@
 # pymupdf/PyMuPDF - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 284
+☋ Forks: 283
 
-★ Stars: 1851
+★ Stars: 1854
 
 [Open repository](https://github.com/pymupdf/PyMuPDF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1854 | 283 | 
 | 2022-11-03 | 1851 | 284 | 
 | 2022-11-02 | 1850 | 284 | 
 | 2022-11-01 | 1848 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 1801 | 275 | 
 | 2022-10-07 | 1797 | 275 | 
 | 2022-10-06 | 1794 | 275 | 
-| 2022-10-05 | 1790 | 275 | 
 

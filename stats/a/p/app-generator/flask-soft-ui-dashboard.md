@@ -1,10 +1,10 @@
 # app-generator/flask-soft-ui-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 47
 
-★ Stars: 90
+★ Stars: 91
 
 [Open repository](https://github.com/app-generator/flask-soft-ui-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 91 | 47 | 
 | 2022-11-03 | 90 | 47 | 
 | 2022-11-02 | 90 | 47 | 
 | 2022-11-01 | 90 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 90 | 47 | 
 | 2022-10-07 | 90 | 47 | 
 | 2022-10-06 | 90 | 47 | 
-| 2022-10-05 | 90 | 47 | 
 

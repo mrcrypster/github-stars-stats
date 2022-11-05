@@ -1,10 +1,10 @@
 # OfficeDev/msteams-docs.ja-JP - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 2
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/OfficeDev/msteams-docs.ja-JP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3 | 2 | 
 | 2022-11-03 | 2 | 2 | 
 | 2022-11-02 | 2 | 2 | 
 | 2022-11-01 | 2 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2 | 2 | 
 | 2022-10-07 | 2 | 2 | 
 | 2022-10-06 | 2 | 2 | 
-| 2022-10-05 | 2 | 2 | 
 

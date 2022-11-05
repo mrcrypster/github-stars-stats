@@ -1,10 +1,10 @@
 # Autodesk-Forge/forge-tutorial-postman - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 162
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/Autodesk-Forge/forge-tutorial-postman)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 70 | 162 | 
 | 2022-11-03 | 69 | 162 | 
 | 2022-11-02 | 69 | 162 | 
 | 2022-11-01 | 69 | 162 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 68 | 159 | 
 | 2022-10-07 | 68 | 159 | 
 | 2022-10-06 | 68 | 159 | 
-| 2022-10-05 | 68 | 159 | 
 

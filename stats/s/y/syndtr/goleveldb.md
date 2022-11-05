@@ -1,6 +1,6 @@
 # syndtr/goleveldb - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 832
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5431 | 832 | 
 | 2022-11-03 | 5431 | 832 | 
 | 2022-11-02 | 5429 | 831 | 
 | 2022-11-01 | 5428 | 829 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 5393 | 827 | 
 | 2022-10-08 | 5391 | 827 | 
 | 2022-10-07 | 5392 | 827 | 
-| 2022-10-05 | 5391 | 827 | 
 

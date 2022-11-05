@@ -1,10 +1,10 @@
 # rainbowhxch/accelerated-jk.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 0
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/rainbowhxch/accelerated-jk.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 32 | - | 
 | 2022-11-03 | 31 | - | 
 | 2022-11-02 | 31 | - | 
 | 2022-11-01 | 31 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 31 | - | 
 | 2022-10-07 | 31 | - | 
 | 2022-10-06 | 31 | - | 
-| 2022-10-05 | 31 | - | 
 

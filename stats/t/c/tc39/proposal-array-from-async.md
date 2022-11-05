@@ -1,10 +1,10 @@
 # tc39/proposal-array-from-async - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 11
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/tc39/proposal-array-from-async)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 109 | 11 | 
 | 2022-11-03 | 108 | 11 | 
 | 2022-11-02 | 108 | 11 | 
 | 2022-11-01 | 108 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 103 | 10 | 
 | 2022-10-07 | 102 | 10 | 
 | 2022-10-06 | 102 | 10 | 
-| 2022-10-05 | 102 | 10 | 
 

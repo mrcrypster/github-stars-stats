@@ -1,10 +1,10 @@
 # FrameworkComputer/Mainboard - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 35
+☋ Forks: 36
 
-★ Stars: 1015
+★ Stars: 1016
 
 [Open repository](https://github.com/FrameworkComputer/Mainboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1016 | 36 | 
 | 2022-11-03 | 1015 | 35 | 
 | 2022-11-02 | 1016 | 35 | 
 | 2022-11-01 | 1016 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 996 | 33 | 
 | 2022-10-07 | 996 | 33 | 
 | 2022-10-06 | 996 | 33 | 
-| 2022-10-05 | 995 | 33 | 
 

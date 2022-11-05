@@ -1,8 +1,8 @@
 # statping/statping - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 520
+☋ Forks: 521
 
 ★ Stars: 6341
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 6341 | 521 | 
 | 2022-11-04 | 6341 | 520 | 
 | 2022-11-03 | 6341 | 520 | 
 | 2022-11-01 | 6340 | 520 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 6323 | 515 | 
 | 2022-10-07 | 6320 | 515 | 
 | 2022-10-06 | 6318 | 515 | 
-| 2022-10-05 | 6317 | 515 | 
 

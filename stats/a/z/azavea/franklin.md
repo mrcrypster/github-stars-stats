@@ -1,6 +1,6 @@
 # azavea/franklin - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 65 | 16 | 
 | 2022-11-03 | 65 | 16 | 
 | 2022-11-02 | 64 | 16 | 
 | 2022-11-01 | 64 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 63 | 16 | 
 | 2022-10-07 | 63 | 16 | 
 | 2022-10-06 | 62 | 16 | 
-| 2022-10-05 | 62 | 16 | 
 

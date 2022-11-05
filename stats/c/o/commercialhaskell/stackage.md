@@ -1,10 +1,10 @@
 # commercialhaskell/stackage - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 772
 
-★ Stars: 489
+★ Stars: 490
 
 [Open repository](https://github.com/commercialhaskell/stackage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 490 | 772 | 
 | 2022-11-03 | 489 | 772 | 
 | 2022-11-02 | 489 | 772 | 
 | 2022-11-01 | 489 | 772 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 489 | 769 | 
 | 2022-10-07 | 489 | 769 | 
 | 2022-10-06 | 488 | 769 | 
-| 2022-10-05 | 488 | 769 | 
 

@@ -1,10 +1,10 @@
 # vaxerski/Hyprland - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 122
+☋ Forks: 123
 
-★ Stars: 3532
+★ Stars: 3544
 
 [Open repository](https://github.com/vaxerski/Hyprland)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3544 | 123 | 
 | 2022-11-03 | 3532 | 122 | 
 | 2022-11-02 | 3520 | 122 | 
 | 2022-11-01 | 3504 | 119 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 3079 | 110 | 
 | 2022-10-08 | 3073 | 109 | 
 | 2022-10-07 | 3059 | 108 | 
-| 2022-10-06 | 3051 | 108 | 
 

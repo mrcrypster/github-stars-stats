@@ -1,8 +1,8 @@
 # Big-Data-01/ml-data-pipeline - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 25 | 62 | 
 | 2022-11-03 | 25 | 61 | 
 | 2022-11-02 | 25 | 61 | 
 | 2022-11-01 | 25 | 61 | 

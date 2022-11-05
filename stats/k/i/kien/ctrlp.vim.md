@@ -1,6 +1,6 @@
 # kien/ctrlp.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 674
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 7167 | 674 | 
 | 2022-11-03 | 7167 | 674 | 
 | 2022-11-02 | 7166 | 674 | 
 | 2022-11-01 | 7166 | 674 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 7156 | 676 | 
 | 2022-10-07 | 7156 | 676 | 
 | 2022-10-06 | 7154 | 677 | 
-| 2022-10-05 | 7154 | 677 | 
 

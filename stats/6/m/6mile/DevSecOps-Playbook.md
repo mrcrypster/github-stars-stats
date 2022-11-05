@@ -1,8 +1,8 @@
 # 6mile/DevSecOps-Playbook - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 153
+☋ Forks: 154
 
 ★ Stars: 881
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 881 | 154 | 
 | 2022-11-03 | 881 | 153 | 
 | 2022-11-02 | 879 | 153 | 
 | 2022-11-01 | 878 | 153 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 864 | 151 | 
 | 2022-10-08 | 864 | 152 | 
 | 2022-10-07 | 862 | 152 | 
-| 2022-10-06 | 861 | 152 | 
 

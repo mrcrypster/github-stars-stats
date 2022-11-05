@@ -1,8 +1,8 @@
 # goatcorp/Dalamud - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 158
+☋ Forks: 159
 
 ★ Stars: 569
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 569 | 159 | 
 | 2022-11-03 | 569 | 158 | 
 | 2022-11-02 | 568 | 158 | 
 | 2022-11-01 | 568 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 554 | 154 | 
 | 2022-10-07 | 554 | 154 | 
 | 2022-10-06 | 554 | 154 | 
-| 2022-10-05 | 554 | 155 | 
 

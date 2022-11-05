@@ -1,6 +1,6 @@
 # rwv/lookscanned.io - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1171 | 65 | 
 | 2022-11-04 | 1171 | 65 | 
 | 2022-11-02 | 1168 | 65 | 
 | 2022-11-01 | 1168 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 1152 | 65 | 
 | 2022-10-07 | 1152 | 65 | 
 | 2022-10-06 | 1151 | 64 | 
-| 2022-10-05 | 1151 | 64 | 
 

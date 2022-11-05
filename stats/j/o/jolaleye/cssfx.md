@@ -1,10 +1,10 @@
 # jolaleye/cssfx - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 339
 
-★ Stars: 5921
+★ Stars: 5920
 
 [Open repository](https://github.com/jolaleye/cssfx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5920 | 339 | 
 | 2022-11-03 | 5921 | 339 | 
 | 2022-11-02 | 5920 | 339 | 
 | 2022-11-01 | 5920 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 5911 | 337 | 
 | 2022-10-07 | 5911 | 335 | 
 | 2022-10-06 | 5909 | 334 | 
-| 2022-10-05 | 5907 | 334 | 
 

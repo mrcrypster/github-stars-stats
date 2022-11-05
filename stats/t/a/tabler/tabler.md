@@ -1,10 +1,10 @@
 # tabler/tabler - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 3361
+☋ Forks: 3363
 
-★ Stars: 31932
+★ Stars: 31937
 
 [Open repository](https://github.com/tabler/tabler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 31937 | 3363 | 
 | 2022-11-03 | 31932 | 3361 | 
 | 2022-11-02 | 31913 | 3358 | 
 | 2022-11-01 | 31899 | 3358 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 31665 | 3319 | 
 | 2022-10-07 | 31658 | 3320 | 
 | 2022-10-06 | 31654 | 3316 | 
-| 2022-10-05 | 31647 | 3314 | 
 

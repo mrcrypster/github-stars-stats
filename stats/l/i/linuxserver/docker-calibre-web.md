@@ -1,6 +1,6 @@
 # linuxserver/docker-calibre-web - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 548 | 91 | 
 | 2022-11-03 | 548 | 91 | 
 | 2022-11-02 | 548 | 91 | 
 | 2022-11-01 | 548 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 533 | 87 | 
 | 2022-10-07 | 532 | 87 | 
 | 2022-10-06 | 532 | 87 | 
-| 2022-10-05 | 532 | 87 | 
 

@@ -1,10 +1,10 @@
 # zabbix-community/helm-zabbix - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 4
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/zabbix-community/helm-zabbix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 14 | 4 | 
 | 2022-11-03 | 13 | 4 | 
 | 2022-11-02 | 12 | 4 | 
 | 2022-11-01 | 12 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 6 | 3 | 
 | 2022-10-07 | 5 | 3 | 
 | 2022-10-06 | 5 | 3 | 
-| 2022-10-05 | 5 | 3 | 
 

@@ -1,6 +1,6 @@
 # bcgit/bc-java - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1006
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1795 | 1006 | 
 | 2022-11-04 | 1795 | 1006 | 
 | 2022-11-03 | 1792 | 1006 | 
 | 2022-11-01 | 1792 | 1005 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 1785 | 998 | 
 | 2022-10-07 | 1785 | 997 | 
 | 2022-10-06 | 1785 | 996 | 
-| 2022-10-05 | 1785 | 996 | 
 

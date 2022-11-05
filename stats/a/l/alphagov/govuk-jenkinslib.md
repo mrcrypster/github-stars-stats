@@ -1,10 +1,10 @@
 # alphagov/govuk-jenkinslib - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 4
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/alphagov/govuk-jenkinslib)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5 | 4 | 
 | 2022-11-03 | 4 | 4 | 
 | 2022-11-02 | 4 | 4 | 
 | 2022-11-01 | 4 | 4 | 

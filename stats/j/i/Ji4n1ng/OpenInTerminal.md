@@ -1,6 +1,6 @@
 # Ji4n1ng/OpenInTerminal - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 4919 | 210 | 
 | 2022-11-03 | 4919 | 210 | 
 | 2022-11-02 | 4916 | 210 | 
 | 2022-11-01 | 4914 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 4861 | 208 | 
 | 2022-10-07 | 4859 | 208 | 
 | 2022-10-06 | 4859 | 208 | 
-| 2022-10-05 | 4857 | 208 | 
 

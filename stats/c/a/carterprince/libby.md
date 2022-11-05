@@ -1,10 +1,10 @@
 # carterprince/libby - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 1
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/carterprince/libby)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 112 | 1 | 
 | 2022-11-03 | 111 | 1 | 
 | 2022-11-02 | 111 | 1 | 
 | 2022-11-01 | 110 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 105 | 2 | 
 | 2022-10-07 | 105 | 2 | 
 | 2022-10-06 | 105 | 2 | 
-| 2022-10-05 | 105 | 2 | 
 

@@ -1,10 +1,10 @@
 # midnight-studios/obs-lua - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 72
+☋ Forks: 73
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/midnight-studios/obs-lua)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 48 | 73 | 
 | 2022-11-03 | 47 | 72 | 
 | 2022-11-02 | 47 | 72 | 
 | 2022-11-01 | 47 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 45 | 69 | 
 | 2022-10-07 | 45 | 68 | 
 | 2022-10-06 | 45 | 68 | 
-| 2022-10-05 | 44 | 68 | 
 

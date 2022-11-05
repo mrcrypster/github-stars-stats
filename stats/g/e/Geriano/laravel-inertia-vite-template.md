@@ -1,10 +1,10 @@
 # Geriano/laravel-inertia-vite-template - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Geriano/laravel-inertia-vite-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 50 | 13 | 
 | 2022-11-03 | 49 | 12 | 
 | 2022-11-02 | 49 | 12 | 
 | 2022-11-01 | 48 | 12 | 

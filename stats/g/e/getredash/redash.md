@@ -1,8 +1,8 @@
 # getredash/redash - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 3834
+☋ Forks: 3835
 
 ★ Stars: 22005
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 22005 | 3835 | 
 | 2022-11-03 | 22005 | 3834 | 
 | 2022-11-02 | 21998 | 3834 | 
 | 2022-11-01 | 21993 | 3834 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 21860 | 3806 | 
 | 2022-10-08 | 21857 | 3807 | 
 | 2022-10-07 | 21850 | 3808 | 
-| 2022-10-06 | 21840 | 3809 | 
 

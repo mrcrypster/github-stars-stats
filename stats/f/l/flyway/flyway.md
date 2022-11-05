@@ -1,10 +1,10 @@
 # flyway/flyway - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 1338
 
-★ Stars: 6820
+★ Stars: 6824
 
 [Open repository](https://github.com/flyway/flyway)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 6824 | 1338 | 
 | 2022-11-03 | 6820 | 1338 | 
 | 2022-11-02 | 6819 | 1338 | 
 | 2022-11-01 | 6817 | 1338 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 6750 | 1331 | 
 | 2022-10-08 | 6750 | 1331 | 
 | 2022-10-07 | 6750 | 1332 | 
-| 2022-10-05 | 6750 | 1330 | 
 

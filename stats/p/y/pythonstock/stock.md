@@ -1,8 +1,8 @@
 # pythonstock/stock - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 1965
+☋ Forks: 1966
 
 ★ Stars: 5773
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5773 | 1966 | 
 | 2022-11-03 | 5773 | 1965 | 
 | 2022-11-02 | 5769 | 1962 | 
 | 2022-11-01 | 5766 | 1962 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 5749 | 1950 | 
 | 2022-10-08 | 5748 | 1949 | 
 | 2022-10-07 | 5748 | 1949 | 
-| 2022-10-06 | 5748 | 1948 | 
 

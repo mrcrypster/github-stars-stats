@@ -1,6 +1,6 @@
 # Celemony/ARA_SDK - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 114 | 4 | 
 | 2022-11-04 | 114 | 4 | 
 | 2022-11-02 | 114 | 4 | 
 | 2022-11-01 | 113 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 111 | 4 | 
 | 2022-10-07 | 111 | 4 | 
 | 2022-10-06 | 111 | 4 | 
-| 2022-10-05 | 111 | 4 | 
 

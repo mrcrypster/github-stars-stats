@@ -1,10 +1,10 @@
 # prestodb/presto - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 4845
+☋ Forks: 4846
 
-★ Stars: 14141
+★ Stars: 14150
 
 [Open repository](https://github.com/prestodb/presto)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 14150 | 4846 | 
 | 2022-11-03 | 14141 | 4845 | 
 | 2022-11-02 | 14137 | 4845 | 
 | 2022-11-01 | 14138 | 4845 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 14031 | 4815 | 
 | 2022-10-07 | 14028 | 4815 | 
 | 2022-10-06 | 14027 | 4816 | 
-| 2022-10-05 | 14024 | 4815 | 
 

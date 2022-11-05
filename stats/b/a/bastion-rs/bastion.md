@@ -1,6 +1,6 @@
 # bastion-rs/bastion - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2564 | 98 | 
 | 2022-11-03 | 2564 | 98 | 
 | 2022-11-02 | 2563 | 98 | 
 | 2022-11-01 | 2559 | 98 | 

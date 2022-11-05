@@ -1,10 +1,10 @@
 # samber/lo - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 358
+☋ Forks: 359
 
-★ Stars: 8427
+★ Stars: 8443
 
 [Open repository](https://github.com/samber/lo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 8443 | 359 | 
 | 2022-11-03 | 8427 | 358 | 
 | 2022-11-02 | 8392 | 357 | 
 | 2022-11-01 | 8384 | 356 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 8020 | 329 | 
 | 2022-10-07 | 8000 | 327 | 
 | 2022-10-06 | 7981 | 325 | 
-| 2022-10-05 | 7969 | 323 | 
 

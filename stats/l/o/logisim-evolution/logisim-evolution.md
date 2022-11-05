@@ -1,10 +1,10 @@
 # logisim-evolution/logisim-evolution - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 402
 
-★ Stars: 2780
+★ Stars: 2782
 
 [Open repository](https://github.com/logisim-evolution/logisim-evolution)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2782 | 402 | 
 | 2022-11-03 | 2780 | 402 | 
 | 2022-11-02 | 2776 | 402 | 
 | 2022-11-01 | 2771 | 402 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2700 | 393 | 
 | 2022-10-07 | 2692 | 393 | 
 | 2022-10-06 | 2692 | 392 | 
-| 2022-10-05 | 2691 | 392 | 
 

@@ -1,10 +1,10 @@
 # Germey/AwesomeWebScraping - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/Germey/AwesomeWebScraping)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 144 | 24 | 
 | 2022-11-03 | 143 | 23 | 
 | 2022-11-02 | 143 | 23 | 
 | 2022-11-01 | 143 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 139 | 23 | 
 | 2022-10-07 | 139 | 23 | 
 | 2022-10-06 | 139 | 23 | 
-| 2022-10-05 | 139 | 23 | 
 

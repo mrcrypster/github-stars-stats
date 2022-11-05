@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 04
 
-☋ Forks: 138
+☋ Forks: 140
 
-★ Stars: 1477
+★ Stars: 1518
 
 [Open repository](https://github.com/carefree0910/carefree-creator)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-04 | 1477 | 138 | 
+| 2022-11-04 | 1518 | 140 | 
 | 2022-11-03 | 1470 | 138 | 
 | 2022-11-02 | 1429 | 135 | 
 | 2022-11-01 | 1252 | 124 | 

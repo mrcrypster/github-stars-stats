@@ -1,10 +1,10 @@
 # microsoft/ImagineCup - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 157
 
-★ Stars: 437
+★ Stars: 444
 
 [Open repository](https://github.com/microsoft/ImagineCup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 444 | 157 | 
 | 2022-11-03 | 437 | 157 | 
 | 2022-11-02 | 436 | 157 | 
 | 2022-11-01 | 434 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 399 | 138 | 
 | 2022-10-07 | 384 | 134 | 
 | 2022-10-06 | 364 | 123 | 
-| 2022-10-05 | 357 | 119 | 
 

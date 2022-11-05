@@ -1,10 +1,10 @@
 # mlr-org/bbotk - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 8
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/mlr-org/bbotk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 19 | 8 | 
 | 2022-11-03 | 18 | 8 | 
 | 2022-11-02 | 18 | 8 | 
 | 2022-11-01 | 18 | 8 | 

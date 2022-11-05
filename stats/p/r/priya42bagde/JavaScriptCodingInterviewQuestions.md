@@ -1,10 +1,10 @@
 # priya42bagde/JavaScriptCodingInterviewQuestions - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 235
+★ Stars: 237
 
 [Open repository](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 237 | 117 | 
 | 2022-11-03 | 235 | 116 | 
 | 2022-11-02 | 234 | 114 | 
 | 2022-11-01 | 231 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 217 | 102 | 
 | 2022-10-07 | 217 | 102 | 
 | 2022-10-06 | 214 | 102 | 
-| 2022-10-05 | 214 | 102 | 
 

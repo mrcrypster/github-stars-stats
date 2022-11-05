@@ -1,10 +1,10 @@
 # getgridea/gridea - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 750
 
-★ Stars: 8862
+★ Stars: 8863
 
 [Open repository](https://github.com/getgridea/gridea)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 8863 | 750 | 
 | 2022-11-03 | 8862 | 750 | 
 | 2022-11-02 | 8860 | 749 | 
 | 2022-11-01 | 8856 | 750 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 8809 | 747 | 
 | 2022-10-07 | 8809 | 747 | 
 | 2022-10-06 | 8810 | 747 | 
-| 2022-10-05 | 8809 | 748 | 
 

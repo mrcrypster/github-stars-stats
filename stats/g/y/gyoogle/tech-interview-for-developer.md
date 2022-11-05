@@ -1,10 +1,10 @@
 # gyoogle/tech-interview-for-developer - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 2209
+☋ Forks: 2212
 
-★ Stars: 8698
+★ Stars: 8705
 
 [Open repository](https://github.com/gyoogle/tech-interview-for-developer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 8705 | 2212 | 
 | 2022-11-03 | 8698 | 2209 | 
 | 2022-11-02 | 8670 | 2204 | 
 | 2022-11-01 | 8648 | 2200 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 8418 | 2143 | 
 | 2022-10-07 | 8416 | 2142 | 
 | 2022-10-06 | 8409 | 2142 | 
-| 2022-10-05 | 8387 | 2139 | 
 

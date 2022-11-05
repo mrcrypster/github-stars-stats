@@ -1,8 +1,8 @@
 # MicrosoftDocs/dynamics-365-unified-operations-public - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 618
+☋ Forks: 619
 
 ★ Stars: 220
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 220 | 619 | 
 | 2022-11-03 | 220 | 618 | 
 | 2022-11-02 | 220 | 618 | 
 | 2022-11-01 | 219 | 618 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 216 | 612 | 
 | 2022-10-07 | 216 | 611 | 
 | 2022-10-06 | 216 | 610 | 
-| 2022-10-05 | 216 | 610 | 
 

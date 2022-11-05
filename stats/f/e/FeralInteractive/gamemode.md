@@ -1,10 +1,10 @@
 # FeralInteractive/gamemode - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 168
 
-★ Stars: 3421
+★ Stars: 3422
 
 [Open repository](https://github.com/FeralInteractive/gamemode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3422 | 168 | 
 | 2022-11-03 | 3421 | 168 | 
 | 2022-11-02 | 3419 | 168 | 
 | 2022-11-01 | 3419 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3371 | 164 | 
 | 2022-10-07 | 3362 | 164 | 
 | 2022-10-06 | 3362 | 164 | 
-| 2022-10-05 | 3362 | 164 | 
 

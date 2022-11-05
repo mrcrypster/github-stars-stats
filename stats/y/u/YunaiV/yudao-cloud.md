@@ -1,10 +1,10 @@
 # YunaiV/yudao-cloud - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 2363
 
-★ Stars: 6739
+★ Stars: 6741
 
 [Open repository](https://github.com/YunaiV/yudao-cloud)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 6741 | 2363 | 
 | 2022-11-03 | 6739 | 2363 | 
 | 2022-11-02 | 6735 | 2360 | 
 | 2022-11-01 | 6732 | 2359 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 6660 | 2330 | 
 | 2022-10-07 | 6658 | 2329 | 
 | 2022-10-06 | 6658 | 2328 | 
-| 2022-10-05 | 6657 | 2328 | 
 

@@ -1,10 +1,10 @@
 # zu1k/nali - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 254
 
-★ Stars: 2465
+★ Stars: 2472
 
 [Open repository](https://github.com/zu1k/nali)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2472 | 254 | 
 | 2022-11-03 | 2465 | 254 | 
 | 2022-11-02 | 2463 | 254 | 
 | 2022-11-01 | 2460 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2353 | 243 | 
 | 2022-10-07 | 2351 | 243 | 
 | 2022-10-06 | 2348 | 243 | 
-| 2022-10-05 | 2347 | 243 | 
 

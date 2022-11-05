@@ -1,10 +1,10 @@
 # ccxt/ccxt - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 6408
+☋ Forks: 6412
 
-★ Stars: 26250
+★ Stars: 26261
 
 [Open repository](https://github.com/ccxt/ccxt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 26261 | 6412 | 
 | 2022-11-03 | 26250 | 6408 | 
 | 2022-11-02 | 26242 | 6404 | 
 | 2022-11-01 | 26227 | 6398 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 25884 | 6348 | 
 | 2022-10-07 | 25874 | 6342 | 
 | 2022-10-06 | 25860 | 6340 | 
-| 2022-10-05 | 25846 | 6341 | 
 

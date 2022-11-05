@@ -1,10 +1,10 @@
 # ESCOMP/CTSM - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 245
 
-★ Stars: 195
+★ Stars: 197
 
 [Open repository](https://github.com/ESCOMP/CTSM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 197 | 245 | 
 | 2022-11-03 | 195 | 245 | 
 | 2022-11-02 | 195 | 245 | 
 | 2022-11-01 | 195 | 245 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 193 | 245 | 
 | 2022-10-07 | 193 | 245 | 
 | 2022-10-06 | 193 | 245 | 
-| 2022-10-05 | 193 | 244 | 
 

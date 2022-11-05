@@ -1,10 +1,10 @@
 # llsc12/ballpa1n - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 10
+☋ Forks: 11
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/llsc12/ballpa1n)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 40 | 11 | 
 | 2022-11-03 | 39 | 10 | 
 | 2022-11-02 | 39 | 10 | 
 | 2022-11-01 | 38 | 9 | 

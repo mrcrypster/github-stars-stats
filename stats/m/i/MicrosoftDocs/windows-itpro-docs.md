@@ -1,10 +1,10 @@
 # MicrosoftDocs/windows-itpro-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 1810
+☋ Forks: 1812
 
-★ Stars: 1294
+★ Stars: 1296
 
 [Open repository](https://github.com/MicrosoftDocs/windows-itpro-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1296 | 1812 | 
 | 2022-11-03 | 1294 | 1810 | 
 | 2022-11-02 | 1292 | 1810 | 
 | 2022-11-01 | 1291 | 1807 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 1278 | 1790 | 
 | 2022-10-07 | 1278 | 1790 | 
 | 2022-10-06 | 1276 | 1789 | 
-| 2022-10-05 | 1275 | 1787 | 
 

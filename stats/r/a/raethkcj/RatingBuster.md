@@ -1,10 +1,10 @@
 # raethkcj/RatingBuster - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 14
 
-★ Stars: 51
+★ Stars: 52
 
 [Open repository](https://github.com/raethkcj/RatingBuster)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 52 | 14 | 
 | 2022-11-03 | 51 | 14 | 
 | 2022-11-02 | 51 | 14 | 
 | 2022-11-01 | 51 | 14 | 

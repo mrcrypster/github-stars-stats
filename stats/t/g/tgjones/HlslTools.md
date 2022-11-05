@@ -1,6 +1,6 @@
 # tgjones/HlslTools - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 426 | 75 | 
 | 2022-11-03 | 426 | 75 | 
 | 2022-11-02 | 426 | 75 | 
 | 2022-11-01 | 426 | 75 | 

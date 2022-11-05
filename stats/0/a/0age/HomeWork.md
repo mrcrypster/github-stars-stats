@@ -1,6 +1,6 @@
 # 0age/HomeWork - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 107 | 8 | 
 | 2022-11-03 | 107 | 8 | 
 | 2022-11-02 | 106 | 8 | 
 | 2022-11-01 | 105 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 104 | 8 | 
 | 2022-10-07 | 104 | 8 | 
 | 2022-10-06 | 104 | 8 | 
-| 2022-10-05 | 104 | 8 | 
 

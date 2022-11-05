@@ -1,10 +1,10 @@
 # tidalcycles/Tidal - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 222
+☋ Forks: 223
 
-★ Stars: 1700
+★ Stars: 1701
 
 [Open repository](https://github.com/tidalcycles/Tidal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1701 | 223 | 
 | 2022-11-03 | 1700 | 222 | 
 | 2022-11-02 | 1698 | 222 | 
 | 2022-11-01 | 1698 | 222 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 1684 | 221 | 
 | 2022-10-07 | 1684 | 221 | 
 | 2022-10-06 | 1684 | 221 | 
-| 2022-10-05 | 1683 | 221 | 
 

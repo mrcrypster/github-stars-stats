@@ -1,6 +1,6 @@
 # processing-js/processing-js - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 909
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3070 | 909 | 
 | 2022-11-03 | 3070 | 909 | 
 | 2022-11-02 | 3070 | 909 | 
 | 2022-11-01 | 3069 | 909 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3069 | 909 | 
 | 2022-10-07 | 3069 | 909 | 
 | 2022-10-06 | 3069 | 909 | 
-| 2022-10-05 | 3069 | 908 | 
 

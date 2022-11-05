@@ -1,10 +1,10 @@
 # Finb/Bark - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 322
+☋ Forks: 323
 
-★ Stars: 3306
+★ Stars: 3310
 
 [Open repository](https://github.com/Finb/Bark)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3310 | 323 | 
 | 2022-11-03 | 3306 | 322 | 
 | 2022-11-02 | 3307 | 322 | 
 | 2022-11-01 | 3304 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3259 | 317 | 
 | 2022-10-07 | 3258 | 316 | 
 | 2022-10-06 | 3255 | 316 | 
-| 2022-10-05 | 3254 | 316 | 
 

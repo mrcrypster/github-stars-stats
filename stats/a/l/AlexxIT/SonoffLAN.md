@@ -1,10 +1,10 @@
 # AlexxIT/SonoffLAN - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 320
+☋ Forks: 321
 
-★ Stars: 1855
+★ Stars: 1856
 
 [Open repository](https://github.com/AlexxIT/SonoffLAN)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1856 | 321 | 
 | 2022-11-03 | 1855 | 320 | 
 | 2022-11-02 | 1854 | 320 | 
 | 2022-11-01 | 1853 | 318 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 1823 | 317 | 
 | 2022-10-08 | 1821 | 316 | 
 | 2022-10-07 | 1819 | 317 | 
-| 2022-10-06 | 1819 | 317 | 
 

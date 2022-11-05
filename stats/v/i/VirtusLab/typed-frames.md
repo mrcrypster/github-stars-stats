@@ -1,10 +1,10 @@
 # VirtusLab/typed-frames - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/VirtusLab/typed-frames)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 92 | 5 | 
 | 2022-11-03 | 91 | 4 | 
 | 2022-11-02 | 90 | 4 | 
 | 2022-11-01 | 90 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 83 | 3 | 
 | 2022-10-07 | 83 | 3 | 
 | 2022-10-06 | 81 | 3 | 
-| 2022-10-05 | 81 | 3 | 
 

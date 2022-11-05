@@ -1,10 +1,10 @@
 # blaze-init/blaze - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 33
 
-★ Stars: 306
+★ Stars: 307
 
 [Open repository](https://github.com/blaze-init/blaze)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 307 | 33 | 
 | 2022-11-03 | 306 | 33 | 
 | 2022-11-02 | 305 | 33 | 
 | 2022-11-01 | 304 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 295 | 33 | 
 | 2022-10-07 | 295 | 33 | 
 | 2022-10-06 | 294 | 32 | 
-| 2022-10-05 | 294 | 32 | 
 

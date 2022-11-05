@@ -1,6 +1,6 @@
 # apache/cordova-plugin-network-information - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 323
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 449 | 323 | 
 | 2022-11-03 | 449 | 323 | 
 | 2022-11-02 | 449 | 323 | 
 | 2022-11-01 | 449 | 323 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 449 | 321 | 
 | 2022-10-08 | 449 | 321 | 
 | 2022-10-07 | 449 | 321 | 
-| 2022-10-06 | 449 | 319 | 
 

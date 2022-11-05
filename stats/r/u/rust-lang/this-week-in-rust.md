@@ -1,10 +1,10 @@
 # rust-lang/this-week-in-rust - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 803
 
-★ Stars: 1435
+★ Stars: 1437
 
 [Open repository](https://github.com/rust-lang/this-week-in-rust)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1437 | 803 | 
 | 2022-11-03 | 1435 | 803 | 
 | 2022-11-02 | 1430 | 803 | 
 | 2022-11-01 | 1423 | 802 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 1333 | 788 | 
 | 2022-10-08 | 1331 | 789 | 
 | 2022-10-07 | 1330 | 790 | 
-| 2022-10-05 | 1328 | 790 | 
 

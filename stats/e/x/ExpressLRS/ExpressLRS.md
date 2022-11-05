@@ -1,10 +1,10 @@
 # ExpressLRS/ExpressLRS - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 406
 
-★ Stars: 2015
+★ Stars: 2016
 
 [Open repository](https://github.com/ExpressLRS/ExpressLRS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2016 | 406 | 
 | 2022-11-04 | 2015 | 406 | 
 | 2022-11-02 | 2014 | 406 | 
 | 2022-11-01 | 2013 | 407 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 1980 | 399 | 
 | 2022-10-07 | 1976 | 399 | 
 | 2022-10-06 | 1974 | 399 | 
-| 2022-10-05 | 1970 | 398 | 
 

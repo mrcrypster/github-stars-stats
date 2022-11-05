@@ -1,6 +1,6 @@
 # rafaballerini/TwitterSentimentAnalysis - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 63 | 5 | 
 | 2022-11-03 | 63 | 5 | 
 | 2022-11-02 | 63 | 5 | 
 | 2022-11-01 | 63 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 60 | 5 | 
 | 2022-10-08 | 60 | 5 | 
 | 2022-10-06 | 60 | 5 | 
-| 2022-10-05 | 60 | 5 | 
 

@@ -1,8 +1,8 @@
 # aws-amplify/amplify-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 717
+☋ Forks: 718
 
 ★ Stars: 2608
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 2608 | 718 | 
 | 2022-11-03 | 2608 | 717 | 
 | 2022-11-02 | 2606 | 717 | 
 | 2022-11-01 | 2605 | 717 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 2595 | 705 | 
 | 2022-10-07 | 2595 | 705 | 
 | 2022-10-06 | 2594 | 705 | 
-| 2022-10-05 | 2594 | 705 | 
 

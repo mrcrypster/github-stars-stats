@@ -1,10 +1,10 @@
 # hanoglu/TermiC - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 3
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/hanoglu/TermiC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 141 | 3 | 
 | 2022-11-03 | 140 | 3 | 
 | 2022-11-02 | 135 | 3 | 
 | 2022-11-01 | 122 | 3 | 

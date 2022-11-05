@@ -1,10 +1,10 @@
 # baldsealion/Steamdeck-Ultimate-Windows11-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 30
+★ Stars: 32
 
 [Open repository](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-04 | 30 | 1 | 
+| 2022-11-05 | 32 | 1 | 
+| 2022-11-04 | 31 | 1 | 
 | 2022-11-03 | 30 | 1 | 
 | 2022-11-02 | 28 | 1 | 
 | 2022-11-01 | 28 | 1 | 

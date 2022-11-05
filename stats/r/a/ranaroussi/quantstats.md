@@ -1,8 +1,8 @@
 # ranaroussi/quantstats - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 506
+☋ Forks: 507
 
 ★ Stars: 2499
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2499 | 507 | 
 | 2022-11-04 | 2499 | 506 | 
 | 2022-11-03 | 2496 | 505 | 
 | 2022-11-02 | 2495 | 505 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-08 | 2435 | 494 | 
 | 2022-10-07 | 2432 | 494 | 
 | 2022-10-06 | 2432 | 492 | 
-| 2022-10-05 | 2428 | 492 | 
 

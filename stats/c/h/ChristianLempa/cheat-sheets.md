@@ -1,10 +1,10 @@
 # ChristianLempa/cheat-sheets - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 590
+☋ Forks: 602
 
-★ Stars: 1713
+★ Stars: 1723
 
 [Open repository](https://github.com/ChristianLempa/cheat-sheets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1723 | 602 | 
 | 2022-11-03 | 1713 | 590 | 
 | 2022-11-02 | 1702 | 583 | 
 | 2022-11-01 | 1688 | 579 | 

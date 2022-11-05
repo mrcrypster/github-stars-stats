@@ -1,10 +1,10 @@
 # wikihost-opensource/als - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 32
 
-★ Stars: 198
+★ Stars: 200
 
 [Open repository](https://github.com/wikihost-opensource/als)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 200 | 32 | 
 | 2022-11-03 | 198 | 32 | 
 | 2022-11-02 | 198 | 32 | 
 | 2022-11-01 | 198 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 167 | 27 | 
 | 2022-10-07 | 167 | 27 | 
 | 2022-10-06 | 165 | 27 | 
-| 2022-10-05 | 164 | 27 | 
 

@@ -1,10 +1,10 @@
 # RipMeApp/ripme - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 572
+☋ Forks: 573
 
-★ Stars: 3190
+★ Stars: 3191
 
 [Open repository](https://github.com/RipMeApp/ripme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 3191 | 573 | 
 | 2022-11-03 | 3190 | 572 | 
 | 2022-11-02 | 3189 | 572 | 
 | 2022-11-01 | 3189 | 572 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 3150 | 561 | 
 | 2022-10-07 | 3145 | 560 | 
 | 2022-10-06 | 3142 | 559 | 
-| 2022-10-05 | 3138 | 559 | 
 

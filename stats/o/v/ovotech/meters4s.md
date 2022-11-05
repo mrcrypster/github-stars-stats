@@ -1,8 +1,8 @@
 # ovotech/meters4s - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 4
+☋ Forks: 3
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 5 | 3 | 
 | 2022-11-03 | 5 | 4 | 
 | 2022-11-02 | 5 | 4 | 
 | 2022-11-01 | 5 | 4 | 

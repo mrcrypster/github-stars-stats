@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 04
 
 ☋ Forks: 10
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/JuliaLinearAlgebra/SpecialMatrices.jl)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-04 | 35 | 10 | 
+| 2022-11-04 | 36 | 10 | 
 | 2022-11-03 | 35 | 10 | 
 | 2022-11-02 | 35 | 10 | 
 | 2022-11-01 | 35 | 10 | 

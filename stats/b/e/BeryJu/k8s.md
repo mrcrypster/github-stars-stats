@@ -1,6 +1,6 @@
 # BeryJu/k8s - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 7 | 3 | 
+| 2022-11-04 | 7 | 3 | 
 | 2022-11-03 | 7 | 3 | 
 | 2022-11-02 | 7 | 3 | 
 | 2022-11-01 | 7 | 3 | 

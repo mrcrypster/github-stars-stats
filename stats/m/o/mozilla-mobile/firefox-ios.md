@@ -1,8 +1,8 @@
 # mozilla-mobile/firefox-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
-☋ Forks: 2620
+☋ Forks: 2619
 
 ★ Stars: 11065
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 11065 | 2619 | 
 | 2022-11-03 | 11065 | 2620 | 
 | 2022-11-02 | 11062 | 2619 | 
 | 2022-11-01 | 11059 | 2620 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 11033 | 2606 | 
 | 2022-10-07 | 11033 | 2604 | 
 | 2022-10-06 | 11033 | 2602 | 
-| 2022-10-05 | 11029 | 2602 | 
 

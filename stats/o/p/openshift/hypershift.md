@@ -1,10 +1,10 @@
 # openshift/hypershift - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 167
 
-★ Stars: 284
+★ Stars: 286
 
 [Open repository](https://github.com/openshift/hypershift)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 286 | 167 | 
 | 2022-11-03 | 284 | 167 | 
 | 2022-11-02 | 284 | 167 | 
 | 2022-11-01 | 284 | 167 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 271 | 158 | 
 | 2022-10-07 | 270 | 158 | 
 | 2022-10-06 | 269 | 157 | 
-| 2022-10-05 | 270 | 157 | 
 

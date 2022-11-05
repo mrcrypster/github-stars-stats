@@ -1,10 +1,10 @@
 # twitter/pelikan - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 138
 
-★ Stars: 1635
+★ Stars: 1637
 
 [Open repository](https://github.com/twitter/pelikan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 1637 | 138 | 
 | 2022-11-03 | 1635 | 138 | 
 | 2022-11-02 | 1632 | 138 | 
 | 2022-11-01 | 1626 | 138 | 

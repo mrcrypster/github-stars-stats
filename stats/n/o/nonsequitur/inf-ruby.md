@@ -1,10 +1,10 @@
 # nonsequitur/inf-ruby - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 66
 
-★ Stars: 199
+★ Stars: 200
 
 [Open repository](https://github.com/nonsequitur/inf-ruby)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 200 | 66 | 
 | 2022-11-03 | 199 | 66 | 
 | 2022-11-02 | 199 | 66 | 
 | 2022-11-01 | 199 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 198 | 66 | 
 | 2022-10-07 | 198 | 66 | 
 | 2022-10-06 | 198 | 65 | 
-| 2022-10-05 | 198 | 65 | 
 

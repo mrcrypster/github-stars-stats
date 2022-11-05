@@ -1,10 +1,10 @@
 # titzer/wizard-engine - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 6
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/titzer/wizard-engine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 135 | 6 | 
 | 2022-11-03 | 134 | 6 | 
 | 2022-11-02 | 134 | 6 | 
 | 2022-11-01 | 134 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-08 | 129 | 4 | 
 | 2022-10-07 | 127 | 4 | 
 | 2022-10-06 | 127 | 4 | 
-| 2022-10-05 | 127 | 4 | 
 

@@ -1,6 +1,6 @@
 # roscopeco/jasm - stars & forks statistics
 
-Stats updated on Nov 2022, 03
+Stats updated on Nov 2022, 04
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 03
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-04 | 391 | 7 | 
 | 2022-11-03 | 391 | 7 | 
 | 2022-11-02 | 391 | 7 | 
 | 2022-11-01 | 391 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 03
 | 2022-10-09 | 390 | 7 | 
 | 2022-10-07 | 390 | 7 | 
 | 2022-10-06 | 390 | 7 | 
-| 2022-10-05 | 390 | 7 | 
 
