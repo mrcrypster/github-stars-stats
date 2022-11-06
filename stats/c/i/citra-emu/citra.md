@@ -1,10 +1,10 @@
 # citra-emu/citra - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1503
 
-★ Stars: 7807
+★ Stars: 7816
 
 [Open repository](https://github.com/citra-emu/citra)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 7816 | 1503 | 
 | 2022-11-04 | 7807 | 1503 | 
 | 2022-11-03 | 7808 | 1504 | 
 | 2022-11-02 | 7805 | 1503 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 7742 | 1498 | 
 | 2022-10-08 | 7740 | 1498 | 
 | 2022-10-07 | 7738 | 1499 | 
-| 2022-10-06 | 7734 | 1500 | 
 

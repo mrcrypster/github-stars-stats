@@ -1,10 +1,10 @@
 # microsoft/foldingdiff - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 11
 
-★ Stars: 164
+★ Stars: 167
 
 [Open repository](https://github.com/microsoft/foldingdiff)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 167 | 11 | 
 | 2022-11-04 | 164 | 11 | 
 | 2022-11-03 | 164 | 11 | 
 | 2022-11-02 | 162 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 128 | 8 | 
 | 2022-10-08 | 117 | 8 | 
 | 2022-10-07 | 110 | 7 | 
-| 2022-10-06 | 97 | 6 | 
 

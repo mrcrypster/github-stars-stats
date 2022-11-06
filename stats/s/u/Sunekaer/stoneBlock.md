@@ -1,6 +1,6 @@
 # Sunekaer/stoneBlock - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 30 | 42 | 
 | 2022-11-05 | 30 | 42 | 
 | 2022-11-04 | 30 | 42 | 
 | 2022-11-02 | 30 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 29 | 42 | 
 | 2022-10-08 | 29 | 42 | 
 | 2022-10-07 | 29 | 42 | 
-| 2022-10-06 | 29 | 42 | 
 

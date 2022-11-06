@@ -1,10 +1,10 @@
 # Sceleratis/Adonis - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 116
 
-★ Stars: 167
+★ Stars: 168
 
 [Open repository](https://github.com/Sceleratis/Adonis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 168 | 116 | 
 | 2022-11-04 | 167 | 116 | 
 | 2022-11-03 | 167 | 116 | 
 | 2022-11-02 | 166 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 161 | 114 | 
 | 2022-10-09 | 161 | 114 | 
 | 2022-10-08 | 161 | 114 | 
-| 2022-10-07 | 161 | 114 | 
 

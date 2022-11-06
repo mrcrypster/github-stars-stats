@@ -1,10 +1,10 @@
 # MLEveryday/100-Days-Of-ML-Code - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 5281
 
-★ Stars: 19264
+★ Stars: 19266
 
 [Open repository](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 19266 | 5281 | 
 | 2022-11-04 | 19264 | 5281 | 
 | 2022-11-03 | 19259 | 5281 | 
 | 2022-11-02 | 19252 | 5278 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 19206 | 5279 | 
 | 2022-10-09 | 19204 | 5278 | 
 | 2022-10-08 | 19200 | 5277 | 
-| 2022-10-07 | 19197 | 5276 | 
 

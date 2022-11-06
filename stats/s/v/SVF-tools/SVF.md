@@ -1,10 +1,10 @@
 # SVF-tools/SVF - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 322
 
-★ Stars: 942
+★ Stars: 943
 
 [Open repository](https://github.com/SVF-tools/SVF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 943 | 322 | 
 | 2022-11-04 | 942 | 322 | 
 | 2022-11-03 | 942 | 322 | 
 | 2022-11-02 | 942 | 321 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 925 | 317 | 
 | 2022-10-08 | 924 | 317 | 
 | 2022-10-07 | 922 | 317 | 
-| 2022-10-06 | 921 | 318 | 
 

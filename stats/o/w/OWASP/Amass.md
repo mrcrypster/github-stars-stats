@@ -1,10 +1,10 @@
 # OWASP/Amass - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 1483
+☋ Forks: 1482
 
-★ Stars: 8044
+★ Stars: 8054
 
 [Open repository](https://github.com/OWASP/Amass)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 8054 | 1482 | 
 | 2022-11-04 | 8044 | 1483 | 
 | 2022-11-03 | 8039 | 1481 | 
 | 2022-11-02 | 8035 | 1481 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 7883 | 1456 | 
 | 2022-10-08 | 7876 | 1456 | 
 | 2022-10-07 | 7871 | 1453 | 
-| 2022-10-06 | 7866 | 1453 | 
 

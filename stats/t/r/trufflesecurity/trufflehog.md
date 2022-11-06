@@ -1,10 +1,10 @@
 # trufflesecurity/trufflehog - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1171
 
-★ Stars: 9634
+★ Stars: 9642
 
 [Open repository](https://github.com/trufflesecurity/trufflehog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 9642 | 1171 | 
 | 2022-11-04 | 9634 | 1171 | 
 | 2022-11-03 | 9630 | 1168 | 
 | 2022-11-02 | 9619 | 1167 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 9336 | 1150 | 
 | 2022-10-08 | 9329 | 1149 | 
 | 2022-10-07 | 9324 | 1149 | 
-| 2022-10-06 | 9317 | 1148 | 
 

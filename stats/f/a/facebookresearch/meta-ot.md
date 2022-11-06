@@ -1,6 +1,6 @@
 # facebookresearch/meta-ot - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 77 | 5 | 
 | 2022-11-04 | 77 | 5 | 
 | 2022-11-03 | 77 | 5 | 
 | 2022-11-02 | 77 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 75 | 5 | 
 | 2022-10-08 | 75 | 5 | 
 | 2022-10-07 | 75 | 5 | 
-| 2022-10-06 | 75 | 5 | 
 

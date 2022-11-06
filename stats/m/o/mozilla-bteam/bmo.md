@@ -1,10 +1,10 @@
 # mozilla-bteam/bmo - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 182
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/mozilla-bteam/bmo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 132 | 182 | 
 | 2022-11-04 | 131 | 182 | 
 | 2022-11-03 | 131 | 182 | 
 | 2022-11-02 | 131 | 182 | 

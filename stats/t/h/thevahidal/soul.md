@@ -1,10 +1,10 @@
 # thevahidal/soul - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 18
 
-★ Stars: 477
+★ Stars: 486
 
 [Open repository](https://github.com/thevahidal/soul)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 486 | 18 | 
 | 2022-11-04 | 477 | 18 | 
 | 2022-11-03 | 461 | 17 | 
 | 2022-11-02 | 443 | 15 | 

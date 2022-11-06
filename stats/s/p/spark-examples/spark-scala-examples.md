@@ -1,8 +1,8 @@
 # spark-examples/spark-scala-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 434
+☋ Forks: 435
 
 ★ Stars: 419
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 419 | 435 | 
 | 2022-11-04 | 419 | 434 | 
 | 2022-11-03 | 418 | 434 | 
 | 2022-11-02 | 418 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 412 | 424 | 
 | 2022-10-09 | 410 | 424 | 
 | 2022-10-07 | 410 | 424 | 
-| 2022-10-06 | 409 | 422 | 
 

@@ -1,10 +1,10 @@
 # VoronDesign/Voron-Stealthburner - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 258
+★ Stars: 260
 
 [Open repository](https://github.com/VoronDesign/Voron-Stealthburner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 260 | 67 | 
 | 2022-11-04 | 258 | 66 | 
 | 2022-11-03 | 257 | 66 | 
 | 2022-11-02 | 256 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 240 | 53 | 
 | 2022-10-08 | 239 | 53 | 
 | 2022-10-07 | 238 | 52 | 
-| 2022-10-06 | 238 | 52 | 
 

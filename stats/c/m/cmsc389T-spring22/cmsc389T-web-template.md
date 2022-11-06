@@ -1,10 +1,10 @@
 # cmsc389T-spring22/cmsc389T-web-template - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 29
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/cmsc389T-spring22/cmsc389T-web-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2 | 29 | 
 | 2022-11-04 | 1 | 29 | 
 | 2022-11-03 | 1 | 29 | 
 | 2022-11-02 | 1 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 1 | 29 | 
 | 2022-10-09 | 1 | 29 | 
 | 2022-10-08 | 1 | 29 | 
-| 2022-10-07 | 1 | 29 | 
 

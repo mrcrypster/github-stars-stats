@@ -1,10 +1,10 @@
 # zesterer/chumsky - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 78
 
-★ Stars: 2290
+★ Stars: 2291
 
 [Open repository](https://github.com/zesterer/chumsky)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2291 | 78 | 
 | 2022-11-04 | 2290 | 78 | 
 | 2022-11-03 | 2288 | 79 | 
 | 2022-11-02 | 2284 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 2203 | 76 | 
 | 2022-10-08 | 2203 | 76 | 
 | 2022-10-07 | 2199 | 75 | 
-| 2022-10-06 | 2196 | 75 | 
 

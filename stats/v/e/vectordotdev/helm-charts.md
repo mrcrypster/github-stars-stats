@@ -1,6 +1,6 @@
 # vectordotdev/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 47 | 38 | 
 | 2022-11-04 | 47 | 38 | 
 | 2022-11-03 | 47 | 38 | 
 | 2022-11-02 | 46 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 40 | 37 | 
 | 2022-10-08 | 40 | 37 | 
 | 2022-10-07 | 40 | 37 | 
-| 2022-10-06 | 40 | 37 | 
 

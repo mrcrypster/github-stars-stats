@@ -1,10 +1,10 @@
 # jesse-ai/jesse - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 567
+☋ Forks: 568
 
-★ Stars: 4280
+★ Stars: 4284
 
 [Open repository](https://github.com/jesse-ai/jesse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 4284 | 568 | 
 | 2022-11-04 | 4280 | 567 | 
 | 2022-11-03 | 4279 | 566 | 
 | 2022-11-02 | 4275 | 566 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 4227 | 558 | 
 | 2022-10-08 | 4223 | 557 | 
 | 2022-10-07 | 4219 | 556 | 
-| 2022-10-06 | 4218 | 553 | 
 

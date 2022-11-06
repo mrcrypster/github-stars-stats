@@ -1,6 +1,6 @@
 # mds1/solidity-trigonometry - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 116 | 14 | 
 | 2022-11-05 | 116 | 14 | 
 | 2022-11-04 | 116 | 14 | 
 | 2022-11-03 | 116 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 111 | 14 | 
 | 2022-10-08 | 111 | 14 | 
 | 2022-10-07 | 111 | 14 | 
-| 2022-10-06 | 111 | 14 | 
 

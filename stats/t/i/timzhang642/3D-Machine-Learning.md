@@ -1,6 +1,6 @@
 # timzhang642/3D-Machine-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1698
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 8454 | 1698 | 
 | 2022-11-04 | 8454 | 1698 | 
 | 2022-11-03 | 8451 | 1697 | 
 | 2022-11-02 | 8447 | 1696 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 8378 | 1683 | 
 | 2022-10-08 | 8377 | 1682 | 
 | 2022-10-07 | 8379 | 1682 | 
-| 2022-10-06 | 8378 | 1682 | 
 

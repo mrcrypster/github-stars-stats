@@ -1,10 +1,10 @@
 # braintree/braintree_ios - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 296
 
-★ Stars: 517
+★ Stars: 518
 
 [Open repository](https://github.com/braintree/braintree_ios)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 518 | 296 | 
 | 2022-11-04 | 517 | 296 | 
 | 2022-11-03 | 517 | 296 | 
 | 2022-11-02 | 517 | 296 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 515 | 293 | 
 | 2022-10-08 | 515 | 293 | 
 | 2022-10-07 | 515 | 292 | 
-| 2022-10-06 | 515 | 292 | 
 

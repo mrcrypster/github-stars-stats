@@ -1,10 +1,10 @@
 # soheilpro/mailwind - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 61
 
-★ Stars: 2737
+★ Stars: 2738
 
 [Open repository](https://github.com/soheilpro/mailwind)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2738 | 61 | 
 | 2022-11-04 | 2737 | 61 | 
 | 2022-11-03 | 2737 | 61 | 
 | 2022-11-02 | 2736 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 2713 | 61 | 
 | 2022-10-09 | 2712 | 61 | 
 | 2022-10-08 | 2711 | 61 | 
-| 2022-10-07 | 2712 | 61 | 
 

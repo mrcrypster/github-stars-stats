@@ -1,10 +1,10 @@
 # bobalice7/PCS-Prediction - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 120
 
-★ Stars: 206
+★ Stars: 186
 
 [Open repository](https://github.com/bobalice7/PCS-Prediction)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 186 | 120 | 
 | 2022-11-04 | 206 | 120 | 
 | 2022-11-03 | 209 | 120 | 
 | 2022-11-02 | 209 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 208 | 117 | 
 | 2022-10-08 | 208 | 116 | 
 | 2022-10-07 | 208 | 116 | 
-| 2022-10-06 | 208 | 116 | 
 

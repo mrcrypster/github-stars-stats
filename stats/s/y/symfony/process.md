@@ -1,10 +1,10 @@
 # symfony/process - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 102
 
-★ Stars: 7105
+★ Stars: 7106
 
 [Open repository](https://github.com/symfony/process)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 7106 | 102 | 
 | 2022-11-04 | 7105 | 102 | 
 | 2022-11-03 | 7102 | 102 | 
 | 2022-11-02 | 7103 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 7088 | 101 | 
 | 2022-10-08 | 7088 | 101 | 
 | 2022-10-07 | 7086 | 101 | 
-| 2022-10-06 | 7085 | 101 | 
 

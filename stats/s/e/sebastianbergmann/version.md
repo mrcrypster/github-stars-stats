@@ -1,10 +1,10 @@
 # sebastianbergmann/version - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 30
 
-★ Stars: 6247
+★ Stars: 6248
 
 [Open repository](https://github.com/sebastianbergmann/version)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 6248 | 30 | 
 | 2022-11-04 | 6247 | 30 | 
 | 2022-11-03 | 6245 | 30 | 
 | 2022-11-02 | 6246 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 6231 | 29 | 
 | 2022-10-08 | 6231 | 29 | 
 | 2022-10-07 | 6229 | 29 | 
-| 2022-10-06 | 6227 | 29 | 
 

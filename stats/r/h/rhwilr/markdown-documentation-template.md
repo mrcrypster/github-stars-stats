@@ -1,8 +1,8 @@
 # rhwilr/markdown-documentation-template - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 189
+☋ Forks: 191
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 29 | 191 | 
 | 2022-11-04 | 29 | 189 | 
 | 2022-11-03 | 29 | 188 | 
 | 2022-11-02 | 29 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 27 | 177 | 
 | 2022-10-08 | 27 | 177 | 
 | 2022-10-07 | 27 | 178 | 
-| 2022-10-06 | 27 | 179 | 
 

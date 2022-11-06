@@ -1,10 +1,10 @@
 # InternetForIran/InternetForIran - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 12
 
-★ Stars: 168
+★ Stars: 167
 
 [Open repository](https://github.com/InternetForIran/InternetForIran)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 167 | 12 | 
 | 2022-11-04 | 168 | 12 | 
 | 2022-11-03 | 167 | 12 | 
 | 2022-11-02 | 167 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 121 | 9 | 
 | 2022-10-08 | 114 | 7 | 
 | 2022-10-07 | 110 | 7 | 
-| 2022-10-06 | 108 | 7 | 
 

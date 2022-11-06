@@ -1,6 +1,6 @@
 # glennrp/libpng - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 489
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 904 | 489 | 
 | 2022-11-04 | 904 | 489 | 
 | 2022-11-03 | 903 | 488 | 
 | 2022-11-02 | 903 | 488 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 894 | 481 | 
 | 2022-10-08 | 894 | 481 | 
 | 2022-10-07 | 894 | 481 | 
-| 2022-10-06 | 894 | 481 | 
 

@@ -1,10 +1,10 @@
 # archguard/archguard - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 70
 
-★ Stars: 437
+★ Stars: 436
 
 [Open repository](https://github.com/archguard/archguard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 436 | 70 | 
 | 2022-11-04 | 437 | 70 | 
 | 2022-11-03 | 437 | 70 | 
 | 2022-11-02 | 437 | 70 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 433 | 70 | 
 | 2022-10-08 | 433 | 70 | 
 | 2022-10-07 | 433 | 70 | 
-| 2022-10-06 | 433 | 70 | 
 

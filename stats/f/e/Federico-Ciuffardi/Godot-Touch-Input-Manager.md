@@ -1,10 +1,10 @@
 # Federico-Ciuffardi/Godot-Touch-Input-Manager - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 195
+★ Stars: 197
 
 [Open repository](https://github.com/Federico-Ciuffardi/Godot-Touch-Input-Manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 197 | 17 | 
 | 2022-11-04 | 195 | 16 | 
 | 2022-11-03 | 195 | 16 | 
 | 2022-11-02 | 195 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 187 | 16 | 
 | 2022-10-08 | 187 | 16 | 
 | 2022-10-07 | 187 | 17 | 
-| 2022-10-06 | 186 | 17 | 
 

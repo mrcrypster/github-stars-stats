@@ -1,10 +1,10 @@
 # xdp-project/xdp-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 401
 
-★ Stars: 1533
+★ Stars: 1536
 
 [Open repository](https://github.com/xdp-project/xdp-tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1536 | 401 | 
 | 2022-11-04 | 1533 | 401 | 
 | 2022-11-03 | 1532 | 401 | 
 | 2022-11-02 | 1531 | 400 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 1500 | 394 | 
 | 2022-10-08 | 1500 | 394 | 
 | 2022-10-07 | 1497 | 394 | 
-| 2022-10-06 | 1495 | 394 | 
 

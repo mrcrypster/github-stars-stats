@@ -1,6 +1,6 @@
 # omegaup/omegaup - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 159 | 209 | 
 | 2022-11-04 | 159 | 209 | 
 | 2022-11-03 | 158 | 209 | 
 | 2022-11-02 | 158 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 155 | 208 | 
 | 2022-10-09 | 155 | 208 | 
 | 2022-10-08 | 155 | 208 | 
-| 2022-10-07 | 155 | 208 | 
 

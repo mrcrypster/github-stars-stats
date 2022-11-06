@@ -1,6 +1,6 @@
 # moveline/mongoose-pagination - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 57 | 10 | 
 | 2022-11-04 | 57 | 10 | 
 | 2022-11-03 | 57 | 10 | 
 | 2022-11-02 | 57 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 57 | 10 | 
 | 2022-10-09 | 57 | 10 | 
 | 2022-10-08 | 57 | 10 | 
-| 2022-10-06 | 57 | 10 | 
 

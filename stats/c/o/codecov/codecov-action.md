@@ -1,10 +1,10 @@
 # codecov/codecov-action - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 178
 
-★ Stars: 1111
+★ Stars: 1112
 
 [Open repository](https://github.com/codecov/codecov-action)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1112 | 178 | 
 | 2022-11-04 | 1111 | 178 | 
 | 2022-11-03 | 1111 | 178 | 
 | 2022-11-02 | 1110 | 178 | 

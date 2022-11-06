@@ -1,6 +1,6 @@
 # square/papa - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 245 | 11 | 
 | 2022-11-04 | 245 | 11 | 
 | 2022-11-03 | 245 | 11 | 
 | 2022-11-02 | 245 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 237 | 10 | 
 | 2022-10-08 | 236 | 10 | 
 | 2022-10-07 | 236 | 10 | 
-| 2022-10-06 | 236 | 10 | 
 

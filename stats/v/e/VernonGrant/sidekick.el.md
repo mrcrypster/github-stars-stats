@@ -1,6 +1,6 @@
 # VernonGrant/sidekick.el - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 34 | 5 | 
 | 2022-11-04 | 34 | 5 | 
 | 2022-11-03 | 34 | 5 | 
 | 2022-11-02 | 34 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 33 | 4 | 
 | 2022-10-09 | 33 | 4 | 
 | 2022-10-08 | 33 | 4 | 
-| 2022-10-06 | 33 | 4 | 
 

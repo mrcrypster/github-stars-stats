@@ -1,6 +1,6 @@
 # DefiKingdoms/contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 112 | 64 | 
 | 2022-11-05 | 112 | 64 | 
 | 2022-11-04 | 112 | 64 | 
 | 2022-11-03 | 112 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 110 | 64 | 
 | 2022-10-08 | 110 | 64 | 
 | 2022-10-07 | 110 | 64 | 
-| 2022-10-06 | 110 | 64 | 
 

@@ -1,10 +1,10 @@
 # pankod/refine - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 356
+☋ Forks: 366
 
-★ Stars: 4795
+★ Stars: 4955
 
 [Open repository](https://github.com/pankod/refine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 4955 | 366 | 
 | 2022-11-04 | 4795 | 356 | 
 | 2022-11-03 | 4517 | 351 | 
 | 2022-11-02 | 4357 | 348 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 3713 | 266 | 
 | 2022-10-08 | 3572 | 257 | 
 | 2022-10-07 | 3273 | 244 | 
-| 2022-10-06 | 3141 | 232 | 
 

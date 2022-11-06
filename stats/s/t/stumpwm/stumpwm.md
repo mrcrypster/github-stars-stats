@@ -1,6 +1,6 @@
 # stumpwm/stumpwm - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 254
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1724 | 254 | 
 | 2022-11-04 | 1724 | 254 | 
 | 2022-11-03 | 1722 | 254 | 
 | 2022-11-02 | 1722 | 254 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 1710 | 253 | 
 | 2022-10-08 | 1711 | 253 | 
 | 2022-10-07 | 1711 | 253 | 
-| 2022-10-06 | 1709 | 253 | 
 

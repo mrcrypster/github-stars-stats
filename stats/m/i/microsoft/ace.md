@@ -1,6 +1,6 @@
 # microsoft/ace - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 164
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 848 | 164 | 
 | 2022-11-04 | 848 | 164 | 
 | 2022-11-03 | 848 | 164 | 
 | 2022-11-02 | 848 | 164 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 848 | 166 | 
 | 2022-10-09 | 848 | 166 | 
 | 2022-10-07 | 848 | 166 | 
-| 2022-10-06 | 849 | 166 | 
 

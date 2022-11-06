@@ -1,6 +1,6 @@
 # dart-lang/http - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 875 | 285 | 
 | 2022-11-04 | 875 | 285 | 
 | 2022-11-03 | 874 | 285 | 
 | 2022-11-02 | 874 | 285 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 861 | 283 | 
 | 2022-10-08 | 861 | 283 | 
 | 2022-10-07 | 861 | 284 | 
-| 2022-10-06 | 861 | 282 | 
 

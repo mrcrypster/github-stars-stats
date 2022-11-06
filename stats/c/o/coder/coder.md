@@ -1,10 +1,10 @@
 # coder/coder - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 172
+☋ Forks: 173
 
-★ Stars: 2576
+★ Stars: 2590
 
 [Open repository](https://github.com/coder/coder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2590 | 173 | 
 | 2022-11-04 | 2576 | 172 | 
 | 2022-11-03 | 2573 | 170 | 
 | 2022-11-02 | 2566 | 168 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 2453 | 141 | 
 | 2022-10-08 | 2445 | 140 | 
 | 2022-10-07 | 2440 | 140 | 
-| 2022-10-06 | 2434 | 138 | 
 

@@ -1,10 +1,10 @@
 # balancer-labs/balancer-core - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 147
+☋ Forks: 149
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/balancer-labs/balancer-core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 281 | 149 | 
 | 2022-11-04 | 280 | 147 | 
 | 2022-11-03 | 280 | 147 | 
 | 2022-11-02 | 280 | 146 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 280 | 146 | 
 | 2022-10-08 | 280 | 146 | 
 | 2022-10-07 | 280 | 146 | 
-| 2022-10-06 | 280 | 146 | 
 

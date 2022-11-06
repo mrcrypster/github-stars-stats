@@ -1,8 +1,8 @@
 # microsoft/SmartHotel360-Website - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 6194
+☋ Forks: 6197
 
 ★ Stars: 187
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 187 | 6197 | 
 | 2022-11-04 | 187 | 6194 | 
 | 2022-11-03 | 187 | 6195 | 
 | 2022-11-02 | 186 | 6180 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 186 | 5965 | 
 | 2022-10-08 | 186 | 5962 | 
 | 2022-10-07 | 186 | 5954 | 
-| 2022-10-06 | 186 | 5949 | 
 

@@ -1,10 +1,10 @@
 # shishan100/Java-Interview-Advanced - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 1637
+☋ Forks: 1638
 
-★ Stars: 3767
+★ Stars: 3769
 
 [Open repository](https://github.com/shishan100/Java-Interview-Advanced)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3769 | 1638 | 
 | 2022-11-05 | 3767 | 1637 | 
 | 2022-11-04 | 3767 | 1637 | 
 | 2022-11-03 | 3766 | 1637 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 3756 | 1637 | 
 | 2022-10-08 | 3755 | 1637 | 
 | 2022-10-07 | 3754 | 1637 | 
-| 2022-10-06 | 3754 | 1637 | 
 

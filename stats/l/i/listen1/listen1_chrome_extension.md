@@ -1,10 +1,10 @@
 # listen1/listen1_chrome_extension - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 1812
+☋ Forks: 1815
 
-★ Stars: 9136
+★ Stars: 9144
 
 [Open repository](https://github.com/listen1/listen1_chrome_extension)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 9144 | 1815 | 
 | 2022-11-04 | 9136 | 1812 | 
 | 2022-11-03 | 9131 | 1812 | 
 | 2022-11-02 | 9130 | 1812 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 9034 | 1803 | 
 | 2022-10-08 | 9020 | 1802 | 
 | 2022-10-07 | 9008 | 1801 | 
-| 2022-10-06 | 8997 | 1801 | 
 

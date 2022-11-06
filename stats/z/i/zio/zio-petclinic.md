@@ -1,6 +1,6 @@
 # zio/zio-petclinic - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 76 | 13 | 
 | 2022-11-04 | 76 | 13 | 
 | 2022-11-03 | 76 | 13 | 
 | 2022-11-02 | 76 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 74 | 12 | 
 | 2022-10-08 | 73 | 12 | 
 | 2022-10-07 | 73 | 12 | 
-| 2022-10-06 | 71 | 12 | 
 

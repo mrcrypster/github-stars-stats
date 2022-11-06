@@ -1,10 +1,10 @@
 # github/codeql-coding-standards - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 16
+☋ Forks: 19
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/github/codeql-coding-standards)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 41 | 19 | 
 | 2022-11-04 | 40 | 16 | 
 | 2022-11-03 | 40 | 16 | 
 | 2022-11-02 | 40 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 37 | 14 | 
 | 2022-10-08 | 37 | 14 | 
 | 2022-10-07 | 37 | 14 | 
-| 2022-10-06 | 37 | 14 | 
 

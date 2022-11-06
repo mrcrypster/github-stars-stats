@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 05
 
-☋ Forks: 17
+☋ Forks: 18
 
-★ Stars: 97
+★ Stars: 99
 
 [Open repository](https://github.com/ucarno/ow-league-tokens)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-05 | 97 | 17 | 
+| 2022-11-05 | 99 | 18 | 
 | 2022-11-04 | 97 | 17 | 
 

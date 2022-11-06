@@ -1,10 +1,10 @@
 # z-huang/music - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 52
 
-★ Stars: 595
+★ Stars: 610
 
 [Open repository](https://github.com/z-huang/music)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 610 | 52 | 
 | 2022-11-04 | 595 | 52 | 
 | 2022-11-03 | 574 | 50 | 
 | 2022-11-02 | 552 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 440 | 40 | 
 | 2022-10-08 | 436 | 39 | 
 | 2022-10-07 | 432 | 39 | 
-| 2022-10-06 | 427 | 37 | 
 

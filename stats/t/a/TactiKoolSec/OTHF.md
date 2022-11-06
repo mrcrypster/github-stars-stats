@@ -1,6 +1,6 @@
 # TactiKoolSec/OTHF - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 55 | 5 | 
 | 2022-11-05 | 55 | 5 | 
 | 2022-11-04 | 55 | 5 | 
 | 2022-11-03 | 55 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 53 | 5 | 
 | 2022-10-08 | 53 | 5 | 
 | 2022-10-07 | 52 | 5 | 
-| 2022-10-06 | 52 | 5 | 
 

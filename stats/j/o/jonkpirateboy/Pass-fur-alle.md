@@ -1,6 +1,6 @@
 # jonkpirateboy/Pass-fur-alle - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 395 | 103 | 
 | 2022-11-04 | 395 | 103 | 
 | 2022-11-03 | 396 | 103 | 
 | 2022-11-02 | 396 | 103 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 394 | 103 | 
 | 2022-10-08 | 394 | 103 | 
 | 2022-10-07 | 394 | 103 | 
-| 2022-10-06 | 394 | 103 | 
 

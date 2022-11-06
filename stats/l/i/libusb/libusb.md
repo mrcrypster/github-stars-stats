@@ -1,6 +1,6 @@
 # libusb/libusb - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1641
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 4037 | 1641 | 
 | 2022-11-04 | 4037 | 1641 | 
 | 2022-11-03 | 4035 | 1641 | 
 | 2022-11-02 | 4033 | 1641 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 3982 | 1637 | 
 | 2022-10-08 | 3981 | 1635 | 
 | 2022-10-07 | 3981 | 1635 | 
-| 2022-10-06 | 3981 | 1635 | 
 

@@ -1,10 +1,10 @@
 # obsidianmd/obsidian-sample-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 312
 
-★ Stars: 1031
+★ Stars: 1035
 
 [Open repository](https://github.com/obsidianmd/obsidian-sample-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1035 | 312 | 
 | 2022-11-04 | 1031 | 312 | 
 | 2022-11-03 | 1030 | 312 | 
 | 2022-11-02 | 1027 | 312 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 958 | 290 | 
 | 2022-10-08 | 956 | 291 | 
 | 2022-10-07 | 954 | 291 | 
-| 2022-10-06 | 953 | 290 | 
 

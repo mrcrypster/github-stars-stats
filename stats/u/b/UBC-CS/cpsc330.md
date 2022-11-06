@@ -1,6 +1,6 @@
 # UBC-CS/cpsc330 - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 207
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 161 | 207 | 
 | 2022-11-04 | 161 | 207 | 
 | 2022-11-03 | 160 | 207 | 
 | 2022-11-02 | 160 | 207 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 157 | 204 | 
 | 2022-10-08 | 156 | 202 | 
 | 2022-10-07 | 156 | 202 | 
-| 2022-10-06 | 156 | 202 | 
 

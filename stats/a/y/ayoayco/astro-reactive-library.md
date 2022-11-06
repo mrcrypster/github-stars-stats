@@ -1,10 +1,10 @@
 # ayoayco/astro-reactive-library - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 39
 
-★ Stars: 22
+★ Stars: 25
 
 [Open repository](https://github.com/ayoayco/astro-reactive-library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 25 | 39 | 
 | 2022-11-04 | 22 | 39 | 
 | 2022-11-03 | 21 | 39 | 
 | 2022-11-02 | 21 | 39 | 

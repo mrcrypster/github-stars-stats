@@ -1,6 +1,6 @@
 # Olical/aniseed - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 475 | 27 | 
 | 2022-11-04 | 475 | 27 | 
 | 2022-11-03 | 475 | 27 | 
 | 2022-11-02 | 475 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 469 | 27 | 
 | 2022-10-08 | 469 | 27 | 
 | 2022-10-07 | 468 | 27 | 
-| 2022-10-06 | 468 | 27 | 
 

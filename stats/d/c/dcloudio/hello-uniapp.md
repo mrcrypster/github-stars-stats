@@ -1,8 +1,8 @@
 # dcloudio/hello-uniapp - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 1523
+☋ Forks: 1524
 
 ★ Stars: 2153
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2153 | 1524 | 
 | 2022-11-04 | 2153 | 1523 | 
 | 2022-11-03 | 2151 | 1523 | 
 | 2022-11-02 | 2149 | 1522 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 2132 | 1516 | 
 | 2022-10-08 | 2129 | 1514 | 
 | 2022-10-07 | 2129 | 1515 | 
-| 2022-10-06 | 2128 | 1515 | 
 

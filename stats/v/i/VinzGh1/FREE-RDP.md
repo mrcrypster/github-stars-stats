@@ -1,8 +1,8 @@
 # VinzGh1/FREE-RDP - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 06
 
-☋ Forks: 21
+☋ Forks: 23
 
 ★ Stars: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | - | 23 | 
+| 2022-11-05 | - | 22 | 
 | 2022-11-04 | - | 21 | 
 | 2022-11-03 | - | 17 | 
 

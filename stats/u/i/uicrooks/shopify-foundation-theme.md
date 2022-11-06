@@ -1,6 +1,6 @@
 # uicrooks/shopify-foundation-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 210 | 54 | 
 | 2022-11-04 | 210 | 54 | 
 | 2022-11-03 | 210 | 54 | 
 | 2022-11-02 | 210 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 206 | 54 | 
 | 2022-10-08 | 206 | 54 | 
 | 2022-10-07 | 206 | 54 | 
-| 2022-10-06 | 205 | 54 | 
 

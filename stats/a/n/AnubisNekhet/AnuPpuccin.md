@@ -1,10 +1,10 @@
 # AnubisNekhet/AnuPpuccin - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 59
+★ Stars: 63
 
 [Open repository](https://github.com/AnubisNekhet/AnuPpuccin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 63 | 10 | 
 | 2022-11-04 | 59 | 9 | 
 | 2022-11-03 | 53 | 9 | 
 | 2022-11-02 | 45 | 9 | 

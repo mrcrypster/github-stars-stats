@@ -1,10 +1,10 @@
 # mortenbra/alexandria-plsql-utils - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 292
 
-★ Stars: 685
+★ Stars: 686
 
 [Open repository](https://github.com/mortenbra/alexandria-plsql-utils)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 686 | 292 | 
 | 2022-11-04 | 685 | 292 | 
 | 2022-11-03 | 685 | 293 | 
 | 2022-11-02 | 685 | 293 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 680 | 290 | 
 | 2022-10-08 | 680 | 290 | 
 | 2022-10-07 | 680 | 290 | 
-| 2022-10-06 | 680 | 290 | 
 

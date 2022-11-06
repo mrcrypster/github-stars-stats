@@ -1,10 +1,10 @@
 # wcb1969/iptv - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 166
+☋ Forks: 169
 
-★ Stars: 235
+★ Stars: 236
 
 [Open repository](https://github.com/wcb1969/iptv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 236 | 169 | 
 | 2022-11-04 | 235 | 166 | 
 | 2022-11-03 | 235 | 165 | 
 | 2022-11-02 | 235 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 216 | 156 | 
 | 2022-10-08 | 214 | 154 | 
 | 2022-10-07 | 212 | 154 | 
-| 2022-10-06 | 211 | 153 | 
 

@@ -1,6 +1,6 @@
 # mspnp/aks-fabrikam-dronedelivery - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 92 | 103 | 
 | 2022-11-04 | 92 | 103 | 
 | 2022-11-03 | 92 | 103 | 
 | 2022-11-02 | 92 | 103 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 91 | 101 | 
 | 2022-10-08 | 91 | 101 | 
 | 2022-10-07 | 91 | 101 | 
-| 2022-10-06 | 91 | 100 | 
 

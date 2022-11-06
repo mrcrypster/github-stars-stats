@@ -1,10 +1,10 @@
 # Crequency/KitX - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 39
 
-★ Stars: 943
+★ Stars: 944
 
 [Open repository](https://github.com/Crequency/KitX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 944 | 39 | 
 | 2022-11-04 | 943 | 39 | 
 | 2022-11-03 | 944 | 39 | 
 | 2022-11-02 | 943 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 918 | 37 | 
 | 2022-10-08 | 911 | 38 | 
 | 2022-10-07 | 911 | 38 | 
-| 2022-10-06 | 907 | 38 | 
 

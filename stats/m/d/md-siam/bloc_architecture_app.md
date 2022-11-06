@@ -1,6 +1,6 @@
 # md-siam/bloc_architecture_app - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 54 | 16 | 
 | 2022-11-04 | 54 | 16 | 
 | 2022-11-03 | 54 | 16 | 
 | 2022-11-02 | 54 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 54 | 16 | 
 | 2022-10-09 | 54 | 16 | 
 | 2022-10-08 | 54 | 16 | 
-| 2022-10-07 | 54 | 16 | 
 

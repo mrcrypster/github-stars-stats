@@ -1,10 +1,10 @@
 # javascript-tutorial/ru.javascript.info - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 847
 
-★ Stars: 3220
+★ Stars: 3221
 
 [Open repository](https://github.com/javascript-tutorial/ru.javascript.info)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 3221 | 847 | 
 | 2022-11-04 | 3220 | 847 | 
 | 2022-11-03 | 3216 | 847 | 
 | 2022-11-02 | 3214 | 847 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 3184 | 842 | 
 | 2022-10-08 | 3183 | 843 | 
 | 2022-10-07 | 3182 | 842 | 
-| 2022-10-06 | 3179 | 842 | 
 

@@ -1,8 +1,8 @@
 # iampawan/Flutter-Music-Player - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 484
+☋ Forks: 485
 
 ★ Stars: 1506
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1506 | 485 | 
 | 2022-11-05 | 1506 | 484 | 
 | 2022-11-04 | 1504 | 484 | 
 | 2022-11-03 | 1504 | 484 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 1482 | 479 | 
 | 2022-10-08 | 1481 | 478 | 
 | 2022-10-07 | 1481 | 478 | 
-| 2022-10-06 | 1481 | 478 | 
 

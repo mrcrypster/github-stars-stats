@@ -1,8 +1,8 @@
 # bpampuch/pdfmake - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 1903
+☋ Forks: 1904
 
 ★ Stars: 10465
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 10465 | 1904 | 
 | 2022-11-05 | 10465 | 1903 | 
 | 2022-11-03 | 10462 | 1903 | 
 | 2022-11-02 | 10461 | 1902 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 10420 | 1896 | 
 | 2022-10-08 | 10419 | 1896 | 
 | 2022-10-07 | 10418 | 1896 | 
-| 2022-10-06 | 10416 | 1895 | 
 

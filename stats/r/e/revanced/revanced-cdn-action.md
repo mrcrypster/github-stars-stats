@@ -1,8 +1,8 @@
 # revanced/revanced-cdn-action - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 13 | 2 | 
 | 2022-11-04 | 13 | 1 | 
 | 2022-11-03 | 13 | 1 | 
 | 2022-11-02 | 13 | 1 | 

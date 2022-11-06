@@ -1,10 +1,10 @@
 # toss/slash - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 1614
+★ Stars: 1617
 
 [Open repository](https://github.com/toss/slash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1617 | 89 | 
 | 2022-11-04 | 1614 | 88 | 
 | 2022-11-03 | 1607 | 87 | 
 | 2022-11-02 | 1597 | 85 | 

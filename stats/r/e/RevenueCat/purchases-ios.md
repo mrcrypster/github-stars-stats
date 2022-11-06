@@ -1,6 +1,6 @@
 # RevenueCat/purchases-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 203
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1525 | 203 | 
 | 2022-11-04 | 1525 | 203 | 
 | 2022-11-03 | 1523 | 203 | 
 | 2022-11-02 | 1520 | 203 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 1464 | 197 | 
 | 2022-10-08 | 1458 | 195 | 
 | 2022-10-07 | 1457 | 194 | 
-| 2022-10-06 | 1457 | 194 | 
 

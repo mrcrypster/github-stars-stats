@@ -1,8 +1,8 @@
 # ipython/ipyparallel - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 937
+☋ Forks: 938
 
 ★ Stars: 2295
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2295 | 938 | 
 | 2022-11-04 | 2295 | 937 | 
 | 2022-11-03 | 2294 | 937 | 
 | 2022-11-02 | 2292 | 937 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 2276 | 929 | 
 | 2022-10-08 | 2276 | 929 | 
 | 2022-10-07 | 2276 | 926 | 
-| 2022-10-06 | 2276 | 925 | 
 

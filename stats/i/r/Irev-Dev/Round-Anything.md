@@ -1,6 +1,6 @@
 # Irev-Dev/Round-Anything - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 288 | 31 | 
 | 2022-11-04 | 288 | 31 | 
 | 2022-11-03 | 288 | 31 | 
 | 2022-11-02 | 288 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 281 | 28 | 
 | 2022-10-08 | 281 | 28 | 
 | 2022-10-07 | 281 | 28 | 
-| 2022-10-06 | 280 | 28 | 
 

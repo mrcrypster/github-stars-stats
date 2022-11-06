@@ -1,10 +1,10 @@
 # phpDocumentor/ReflectionDocBlock - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 106
 
-★ Stars: 9124
+★ Stars: 9125
 
 [Open repository](https://github.com/phpDocumentor/ReflectionDocBlock)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 9125 | 106 | 
 | 2022-11-04 | 9124 | 106 | 
 | 2022-11-03 | 9125 | 105 | 
 | 2022-11-02 | 9124 | 105 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 9120 | 103 | 
 | 2022-10-09 | 9120 | 103 | 
 | 2022-10-08 | 9120 | 103 | 
-| 2022-10-06 | 9117 | 103 | 
 

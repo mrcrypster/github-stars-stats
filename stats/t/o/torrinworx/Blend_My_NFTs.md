@@ -1,8 +1,8 @@
 # torrinworx/Blend_My_NFTs - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 327
+☋ Forks: 328
 
 ★ Stars: 870
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 870 | 328 | 
 | 2022-11-04 | 870 | 327 | 
 | 2022-11-03 | 869 | 327 | 
 | 2022-11-02 | 869 | 327 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 857 | 321 | 
 | 2022-10-09 | 857 | 321 | 
 | 2022-10-08 | 857 | 320 | 
-| 2022-10-07 | 857 | 320 | 
 

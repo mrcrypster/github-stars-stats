@@ -1,8 +1,8 @@
 # android/user-interface-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 1510
+☋ Forks: 1509
 
 ★ Stars: 3625
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 3625 | 1509 | 
 | 2022-11-04 | 3625 | 1510 | 
 | 2022-11-03 | 3625 | 1510 | 
 | 2022-11-02 | 3625 | 1511 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 3588 | 1503 | 
 | 2022-10-08 | 3587 | 1503 | 
 | 2022-10-07 | 3584 | 1503 | 
-| 2022-10-06 | 3580 | 1503 | 
 

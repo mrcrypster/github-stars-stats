@@ -1,6 +1,6 @@
 # j5ik2o/docker-controller-scala - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 15 | 3 | 
 | 2022-11-04 | 15 | 3 | 
 | 2022-11-03 | 15 | 3 | 
 | 2022-11-02 | 14 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 13 | 3 | 
 | 2022-10-08 | 13 | 3 | 
 | 2022-10-07 | 13 | 3 | 
-| 2022-10-06 | 13 | 3 | 
 

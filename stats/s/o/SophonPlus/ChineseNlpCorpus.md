@@ -1,6 +1,6 @@
 # SophonPlus/ChineseNlpCorpus - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1227
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 4337 | 1227 | 
 | 2022-11-04 | 4337 | 1227 | 
 | 2022-11-03 | 4336 | 1227 | 
 | 2022-11-02 | 4335 | 1226 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 4299 | 1218 | 
 | 2022-10-09 | 4298 | 1218 | 
 | 2022-10-08 | 4295 | 1217 | 
-| 2022-10-06 | 4294 | 1216 | 
 

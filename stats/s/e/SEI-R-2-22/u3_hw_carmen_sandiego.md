@@ -1,6 +1,6 @@
 # SEI-R-2-22/u3_hw_carmen_sandiego - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | - | 32 | 
 | 2022-11-04 | - | 32 | 
 | 2022-11-03 | - | 32 | 
 | 2022-11-02 | - | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | - | 32 | 
 | 2022-10-08 | - | 32 | 
 | 2022-10-07 | - | 32 | 
-| 2022-10-06 | - | 32 | 
 

@@ -1,6 +1,6 @@
 # abdallahdib/NextFace - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 420 | 53 | 
 | 2022-11-05 | 420 | 53 | 
 | 2022-11-04 | 420 | 53 | 
 | 2022-11-03 | 420 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 398 | 52 | 
 | 2022-10-08 | 398 | 52 | 
 | 2022-10-07 | 398 | 52 | 
-| 2022-10-06 | 398 | 52 | 
 

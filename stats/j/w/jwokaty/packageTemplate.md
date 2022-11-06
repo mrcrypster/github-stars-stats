@@ -1,6 +1,6 @@
 # jwokaty/packageTemplate - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2 | 9 | 
 | 2022-11-04 | 2 | 9 | 
 | 2022-11-03 | 2 | 10 | 
 | 2022-11-02 | 2 | 10 | 

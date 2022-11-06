@@ -1,10 +1,10 @@
 # datawhalechina/joyful-pandas - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 1537
+☋ Forks: 1538
 
-★ Stars: 3539
+★ Stars: 3540
 
 [Open repository](https://github.com/datawhalechina/joyful-pandas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 3540 | 1538 | 
 | 2022-11-04 | 3539 | 1537 | 
 | 2022-11-03 | 3535 | 1536 | 
 | 2022-11-02 | 3535 | 1535 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 3494 | 1516 | 
 | 2022-10-08 | 3492 | 1516 | 
 | 2022-10-07 | 3489 | 1512 | 
-| 2022-10-06 | 3489 | 1511 | 
 

@@ -1,6 +1,6 @@
 # ryu0007/EncryptMinerProxy - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 313 | 84 | 
 | 2022-11-04 | 313 | 84 | 
 | 2022-11-03 | 313 | 84 | 
 | 2022-11-02 | 313 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 314 | 84 | 
 | 2022-10-08 | 314 | 84 | 
 | 2022-10-07 | 314 | 84 | 
-| 2022-10-06 | 315 | 84 | 
 

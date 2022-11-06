@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 05
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/Bloceducare/Web3Bridge-DAO)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-05 | 1 | - | 
+| 2022-11-05 | 2 | 1 | 
 | 2022-11-04 | - | - | 
 

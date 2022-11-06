@@ -1,6 +1,6 @@
 # UTMIST/WallStreetBots - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 38 | 14 | 
 | 2022-11-04 | 38 | 14 | 
 | 2022-11-03 | 38 | 14 | 
 | 2022-11-02 | 38 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 37 | 10 | 
 | 2022-10-09 | 37 | 10 | 
 | 2022-10-08 | 37 | 10 | 
-| 2022-10-07 | 36 | 10 | 
 

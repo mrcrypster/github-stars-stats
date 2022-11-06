@@ -1,6 +1,6 @@
 # knoldus/Studio-9 - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 102 | 4 | 
 | 2022-11-05 | 102 | 4 | 
 | 2022-11-04 | 102 | 4 | 
 | 2022-11-03 | 102 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 103 | 4 | 
 | 2022-10-08 | 103 | 4 | 
 | 2022-10-07 | 103 | 4 | 
-| 2022-10-06 | 103 | 4 | 
 

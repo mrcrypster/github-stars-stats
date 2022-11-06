@@ -1,6 +1,6 @@
 # mantoufan/yzhanNotify - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 42 | - | 
 | 2022-11-04 | 42 | - | 
 | 2022-11-03 | 42 | - | 
 | 2022-11-02 | 42 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 42 | - | 
 | 2022-10-09 | 42 | - | 
 | 2022-10-08 | 42 | - | 
-| 2022-10-07 | 42 | - | 
 

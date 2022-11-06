@@ -1,10 +1,10 @@
 # unlock-music/unlock-music - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 274
+☋ Forks: 259
 
-★ Stars: 13274
+★ Stars: 13279
 
 [Open repository](https://github.com/unlock-music/unlock-music)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 13279 | 259 | 
 | 2022-11-04 | 13274 | 274 | 
 | 2022-11-03 | 13268 | 273 | 
 | 2022-11-02 | 13266 | 272 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 13076 | 240 | 
 | 2022-10-08 | 13069 | 239 | 
 | 2022-10-07 | 13059 | 237 | 
-| 2022-10-06 | 13051 | 235 | 
 

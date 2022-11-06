@@ -1,8 +1,8 @@
 # afollestad/material-dialogs - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 3157
+☋ Forks: 3156
 
 ★ Stars: 19429
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 19429 | 3156 | 
 | 2022-11-04 | 19429 | 3157 | 
 | 2022-11-03 | 19427 | 3156 | 
 | 2022-11-02 | 19427 | 3157 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 19409 | 3149 | 
 | 2022-10-08 | 19410 | 3150 | 
 | 2022-10-07 | 19410 | 3150 | 
-| 2022-10-06 | 19408 | 3150 | 
 

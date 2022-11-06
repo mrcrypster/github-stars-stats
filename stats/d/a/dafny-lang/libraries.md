@@ -1,6 +1,6 @@
 # dafny-lang/libraries - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 20 | 20 | 
 | 2022-11-04 | 20 | 20 | 
 | 2022-11-03 | 20 | 20 | 
 | 2022-11-02 | 20 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 18 | 20 | 
 | 2022-10-08 | 18 | 20 | 
 | 2022-10-07 | 18 | 20 | 
-| 2022-10-06 | 18 | 20 | 
 

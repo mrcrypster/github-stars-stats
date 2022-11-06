@@ -1,8 +1,8 @@
 # Bowen7/regex-vis - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 152
+☋ Forks: 153
 
 ★ Stars: 2219
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2219 | 153 | 
 | 2022-11-04 | 2219 | 152 | 
 | 2022-11-03 | 2219 | 152 | 
 | 2022-11-02 | 2215 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 2164 | 149 | 
 | 2022-10-09 | 2162 | 149 | 
 | 2022-10-08 | 2160 | 149 | 
-| 2022-10-07 | 2160 | 149 | 
 

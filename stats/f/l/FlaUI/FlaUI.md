@@ -1,8 +1,8 @@
 # FlaUI/FlaUI - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 283
+☋ Forks: 284
 
 ★ Stars: 1446
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1446 | 284 | 
 | 2022-11-04 | 1446 | 283 | 
 | 2022-11-03 | 1444 | 283 | 
 | 2022-11-02 | 1443 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 1420 | 279 | 
 | 2022-10-08 | 1418 | 279 | 
 | 2022-10-07 | 1413 | 278 | 
-| 2022-10-06 | 1408 | 278 | 
 

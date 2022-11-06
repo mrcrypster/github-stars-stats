@@ -1,6 +1,6 @@
 # zigtools/scip-zig - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 8 | - | 
 | 2022-11-05 | 8 | - | 
 | 2022-11-04 | 8 | - | 
 | 2022-11-03 | 8 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 3 | - | 
 | 2022-10-08 | 3 | - | 
 | 2022-10-07 | 2 | - | 
-| 2022-10-06 | 2 | - | 
 

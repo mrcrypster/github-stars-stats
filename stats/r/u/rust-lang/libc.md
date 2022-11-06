@@ -1,10 +1,10 @@
 # rust-lang/libc - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 796
+☋ Forks: 797
 
-★ Stars: 1489
+★ Stars: 1490
 
 [Open repository](https://github.com/rust-lang/libc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 1490 | 797 | 
 | 2022-11-04 | 1489 | 796 | 
 | 2022-11-03 | 1487 | 795 | 
 | 2022-11-02 | 1485 | 795 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 1459 | 787 | 
 | 2022-10-08 | 1457 | 787 | 
 | 2022-10-07 | 1453 | 786 | 
-| 2022-10-06 | 1453 | 786 | 
 

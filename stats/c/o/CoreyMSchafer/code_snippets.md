@@ -1,10 +1,10 @@
 # CoreyMSchafer/code_snippets - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 16995
+☋ Forks: 16997
 
-★ Stars: 9246
+★ Stars: 9249
 
 [Open repository](https://github.com/CoreyMSchafer/code_snippets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 9249 | 16997 | 
 | 2022-11-04 | 9246 | 16995 | 
 | 2022-11-03 | 9246 | 16994 | 
 | 2022-11-02 | 9243 | 16991 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 9165 | 16887 | 
 | 2022-10-08 | 9161 | 16886 | 
 | 2022-10-07 | 9160 | 16885 | 
-| 2022-10-06 | 9155 | 16885 | 
 

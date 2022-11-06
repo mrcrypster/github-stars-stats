@@ -1,10 +1,10 @@
 # jivoi/awesome-osint - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 2076
+☋ Forks: 2077
 
-★ Stars: 10742
+★ Stars: 10752
 
 [Open repository](https://github.com/jivoi/awesome-osint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 10752 | 2077 | 
 | 2022-11-04 | 10742 | 2076 | 
 | 2022-11-03 | 10735 | 2074 | 
 | 2022-11-02 | 10726 | 2075 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 10526 | 2046 | 
 | 2022-10-08 | 10520 | 2043 | 
 | 2022-10-07 | 10510 | 2043 | 
-| 2022-10-06 | 10497 | 2040 | 
 

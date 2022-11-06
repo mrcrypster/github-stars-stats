@@ -1,10 +1,10 @@
 # livebook-dev/kino - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 26
 
-★ Stars: 197
+★ Stars: 198
 
 [Open repository](https://github.com/livebook-dev/kino)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 198 | 26 | 
 | 2022-11-04 | 197 | 26 | 
 | 2022-11-03 | 197 | 26 | 
 | 2022-11-02 | 196 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 191 | 25 | 
 | 2022-10-08 | 190 | 25 | 
 | 2022-10-07 | 189 | 25 | 
-| 2022-10-06 | 188 | 25 | 
 

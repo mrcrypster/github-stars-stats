@@ -1,10 +1,10 @@
 # GetPublii/Publii - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 314
+☋ Forks: 316
 
-★ Stars: 5049
+★ Stars: 5054
 
 [Open repository](https://github.com/GetPublii/Publii)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 5054 | 316 | 
 | 2022-11-04 | 5049 | 314 | 
 | 2022-11-03 | 5046 | 314 | 
 | 2022-11-02 | 5042 | 313 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 4984 | 306 | 
 | 2022-10-08 | 4983 | 306 | 
 | 2022-10-07 | 4982 | 306 | 
-| 2022-10-06 | 4982 | 306 | 
 

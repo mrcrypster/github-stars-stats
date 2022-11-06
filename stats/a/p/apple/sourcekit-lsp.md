@@ -1,6 +1,6 @@
 # apple/sourcekit-lsp - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 216
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2670 | 216 | 
 | 2022-11-04 | 2670 | 216 | 
 | 2022-11-03 | 2670 | 216 | 
 | 2022-11-02 | 2669 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 2653 | 212 | 
 | 2022-10-09 | 2652 | 212 | 
 | 2022-10-08 | 2652 | 212 | 
-| 2022-10-07 | 2652 | 212 | 
 

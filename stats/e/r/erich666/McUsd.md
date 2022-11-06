@@ -1,10 +1,10 @@
 # erich666/McUsd - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/erich666/McUsd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 50 | 1 | 
 | 2022-11-04 | 49 | 1 | 
 | 2022-11-03 | 49 | 1 | 
 | 2022-11-02 | 49 | 1 | 

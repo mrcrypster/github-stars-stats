@@ -1,6 +1,6 @@
 # joostkremers/writeroom-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 509 | 22 | 
 | 2022-11-04 | 509 | 22 | 
 | 2022-11-03 | 509 | 22 | 
 | 2022-11-02 | 508 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 505 | 22 | 
 | 2022-10-08 | 504 | 22 | 
 | 2022-10-07 | 503 | 22 | 
-| 2022-10-06 | 503 | 22 | 
 

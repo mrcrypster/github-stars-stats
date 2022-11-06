@@ -1,6 +1,6 @@
 # f-person/git-blame.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 439 | 23 | 
 | 2022-11-04 | 439 | 23 | 
 | 2022-11-03 | 438 | 23 | 
 | 2022-11-02 | 436 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 425 | 23 | 
 | 2022-10-08 | 425 | 23 | 
 | 2022-10-07 | 425 | 23 | 
-| 2022-10-06 | 425 | 22 | 
 

@@ -1,6 +1,6 @@
 # pentagonxyz/dpd-assembly - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 26 | 1 | 
 | 2022-11-04 | 26 | 1 | 
 | 2022-11-03 | 26 | 1 | 
 | 2022-11-02 | 26 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 24 | 1 | 
 | 2022-10-08 | 24 | 1 | 
 | 2022-10-07 | 24 | 1 | 
-| 2022-10-06 | 24 | 1 | 
 

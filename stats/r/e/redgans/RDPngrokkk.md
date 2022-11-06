@@ -1,10 +1,10 @@
 # redgans/RDPngrokkk - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
-☋ Forks: 3213
+☋ Forks: 3226
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/redgans/RDPngrokkk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 70 | 3226 | 
 | 2022-11-04 | 69 | 3213 | 
 | 2022-11-03 | 69 | 3200 | 
 | 2022-11-02 | 69 | 3190 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 54 | 2726 | 
 | 2022-10-08 | 52 | 2688 | 
 | 2022-10-07 | 52 | 2651 | 
-| 2022-10-06 | 51 | 2611 | 
 

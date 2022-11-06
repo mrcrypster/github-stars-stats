@@ -1,10 +1,10 @@
 # imbushuo/EnergyStar - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 64
 
-★ Stars: 2022
+★ Stars: 2025
 
 [Open repository](https://github.com/imbushuo/EnergyStar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 2025 | 64 | 
 | 2022-11-04 | 2022 | 64 | 
 | 2022-11-03 | 2022 | 63 | 
 | 2022-11-02 | 2018 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 1952 | 58 | 
 | 2022-10-08 | 1947 | 57 | 
 | 2022-10-07 | 1943 | 55 | 
-| 2022-10-06 | 1935 | 55 | 
 

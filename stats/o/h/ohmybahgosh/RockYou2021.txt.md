@@ -1,10 +1,10 @@
 # ohmybahgosh/RockYou2021.txt - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 88
 
-★ Stars: 457
+★ Stars: 460
 
 [Open repository](https://github.com/ohmybahgosh/RockYou2021.txt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 460 | 88 | 
 | 2022-11-04 | 457 | 88 | 
 | 2022-11-03 | 455 | 88 | 
 | 2022-11-02 | 452 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 424 | 86 | 
 | 2022-10-08 | 421 | 86 | 
 | 2022-10-07 | 421 | 86 | 
-| 2022-10-06 | 419 | 86 | 
 

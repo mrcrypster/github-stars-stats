@@ -1,6 +1,6 @@
 # guochengqian/PointNeXt - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 338 | 48 | 
 | 2022-11-04 | 338 | 48 | 
 | 2022-11-03 | 336 | 48 | 
 | 2022-11-02 | 335 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 316 | 44 | 
 | 2022-10-08 | 316 | 43 | 
 | 2022-10-07 | 316 | 43 | 
-| 2022-10-06 | 316 | 43 | 
 

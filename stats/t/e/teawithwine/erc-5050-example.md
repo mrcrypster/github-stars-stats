@@ -1,6 +1,6 @@
 # teawithwine/erc-5050-example - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 12 | 6 | 
 | 2022-11-04 | 12 | 6 | 
 | 2022-11-03 | 12 | 6 | 
 | 2022-11-02 | 12 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 10 | 5 | 
 | 2022-10-09 | 10 | 5 | 
 | 2022-10-08 | 10 | 5 | 
-| 2022-10-07 | 10 | 5 | 
 

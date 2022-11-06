@@ -1,6 +1,6 @@
 # nodusclient/gaslight - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 443 | 7 | 
 | 2022-11-04 | 443 | 7 | 
 | 2022-11-03 | 442 | 7 | 
 | 2022-11-02 | 443 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 441 | 7 | 
 | 2022-10-09 | 441 | 7 | 
 | 2022-10-08 | 441 | 7 | 
-| 2022-10-06 | 441 | 7 | 
 

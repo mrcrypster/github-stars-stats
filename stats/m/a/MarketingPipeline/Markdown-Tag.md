@@ -1,10 +1,10 @@
 # MarketingPipeline/Markdown-Tag - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 14
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/MarketingPipeline/Markdown-Tag)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 375 | 14 | 
 | 2022-11-04 | 374 | 14 | 
 | 2022-11-03 | 374 | 14 | 
 | 2022-11-02 | 374 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-10 | 372 | 13 | 
 | 2022-10-09 | 372 | 13 | 
 | 2022-10-08 | 372 | 13 | 
-| 2022-10-07 | 372 | 13 | 
 

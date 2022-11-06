@@ -1,10 +1,10 @@
 # floating-ui/floating-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1413
 
-★ Stars: 23316
+★ Stars: 23320
 
 [Open repository](https://github.com/floating-ui/floating-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 23320 | 1413 | 
 | 2022-11-05 | 23316 | 1413 | 
 | 2022-11-04 | 23298 | 1411 | 
 | 2022-11-03 | 23283 | 1411 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 23095 | 1403 | 
 | 2022-10-08 | 23078 | 1403 | 
 | 2022-10-07 | 23069 | 1404 | 
-| 2022-10-06 | 23060 | 1404 | 
 

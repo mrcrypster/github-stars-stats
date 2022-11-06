@@ -1,10 +1,10 @@
 # ValveSoftware/openvr - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1236
 
-★ Stars: 5366
+★ Stars: 5367
 
 [Open repository](https://github.com/ValveSoftware/openvr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 5367 | 1236 | 
 | 2022-11-04 | 5366 | 1236 | 
 | 2022-11-03 | 5365 | 1236 | 
 | 2022-11-02 | 5366 | 1236 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 5337 | 1231 | 
 | 2022-10-08 | 5335 | 1231 | 
 | 2022-10-07 | 5335 | 1231 | 
-| 2022-10-06 | 5335 | 1231 | 
 

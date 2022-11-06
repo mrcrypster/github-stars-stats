@@ -1,6 +1,6 @@
 # Push3AX/GrabAccess - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 166 | 35 | 
 | 2022-11-05 | 166 | 35 | 
 | 2022-11-04 | 166 | 35 | 
 | 2022-11-03 | 165 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 153 | 30 | 
 | 2022-10-08 | 153 | 30 | 
 | 2022-10-07 | 152 | 30 | 
-| 2022-10-06 | 150 | 29 | 
 

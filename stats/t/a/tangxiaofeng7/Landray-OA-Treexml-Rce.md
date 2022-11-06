@@ -1,10 +1,10 @@
 # tangxiaofeng7/Landray-OA-Treexml-Rce - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 36
 
-★ Stars: 102
+★ Stars: 104
 
 [Open repository](https://github.com/tangxiaofeng7/Landray-OA-Treexml-Rce)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 104 | 36 | 
 | 2022-11-04 | 102 | 36 | 
 | 2022-11-03 | 102 | 36 | 
 | 2022-11-02 | 101 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 101 | 35 | 
 | 2022-10-08 | 101 | 35 | 
 | 2022-10-07 | 101 | 35 | 
-| 2022-10-06 | 101 | 35 | 
 

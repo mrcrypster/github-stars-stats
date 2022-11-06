@@ -1,10 +1,10 @@
 # oauth2-proxy/oauth2-proxy - stars & forks statistics
 
-Stats updated on Nov 2022, 04
+Stats updated on Nov 2022, 05
 
 ☋ Forks: 1095
 
-★ Stars: 6013
+★ Stars: 6021
 
 [Open repository](https://github.com/oauth2-proxy/oauth2-proxy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 04
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-05 | 6021 | 1095 | 
 | 2022-11-04 | 6013 | 1095 | 
 | 2022-11-03 | 6010 | 1096 | 
 | 2022-11-02 | 6004 | 1095 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 04
 | 2022-10-09 | 5862 | 1075 | 
 | 2022-10-08 | 5856 | 1074 | 
 | 2022-10-07 | 5843 | 1071 | 
-| 2022-10-06 | 5833 | 1068 | 
 

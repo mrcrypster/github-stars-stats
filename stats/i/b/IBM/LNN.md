@@ -1,6 +1,6 @@
 # IBM/LNN - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 307
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 129 | 307 | 
 | 2022-11-05 | 129 | 307 | 
 | 2022-11-04 | 128 | 307 | 
 | 2022-11-03 | 128 | 306 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-09 | 121 | 302 | 
 | 2022-10-08 | 121 | 301 | 
 | 2022-10-07 | 120 | 301 | 
-| 2022-10-06 | 119 | 301 | 
 
