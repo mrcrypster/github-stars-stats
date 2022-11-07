@@ -1,10 +1,10 @@
 # matcornic/hugo-theme-learn - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 1271
+☋ Forks: 1270
 
-★ Stars: 1463
+★ Stars: 1464
 
 [Open repository](https://github.com/matcornic/hugo-theme-learn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1464 | 1270 | 
 | 2022-11-05 | 1463 | 1271 | 
 | 2022-11-04 | 1462 | 1274 | 
 | 2022-11-03 | 1462 | 1275 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 1452 | 1262 | 
 | 2022-10-10 | 1451 | 1262 | 
 | 2022-10-09 | 1451 | 1261 | 
-| 2022-10-08 | 1450 | 1261 | 
 

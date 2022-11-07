@@ -1,6 +1,6 @@
 # pharmaverse/admiral - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 112 | 22 | 
 | 2022-11-05 | 112 | 22 | 
 | 2022-11-04 | 112 | 22 | 
 | 2022-11-03 | 111 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 106 | 23 | 
 | 2022-10-09 | 106 | 23 | 
 | 2022-10-08 | 106 | 23 | 
-| 2022-10-07 | 106 | 23 | 
 

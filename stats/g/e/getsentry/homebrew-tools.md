@@ -1,6 +1,6 @@
 # getsentry/homebrew-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3 | 6 | 
 | 2022-11-05 | 3 | 6 | 
 | 2022-11-04 | 3 | 6 | 
 | 2022-11-03 | 3 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2 | 6 | 
 | 2022-10-09 | 2 | 6 | 
 | 2022-10-08 | 2 | 6 | 
-| 2022-10-07 | 2 | 6 | 
 

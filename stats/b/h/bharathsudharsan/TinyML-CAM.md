@@ -1,10 +1,10 @@
 # bharathsudharsan/TinyML-CAM - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 11
 
-★ Stars: 149
+★ Stars: 152
 
 [Open repository](https://github.com/bharathsudharsan/TinyML-CAM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 152 | 11 | 
 | 2022-11-05 | 149 | 11 | 
 | 2022-11-04 | 146 | 11 | 
 | 2022-11-03 | 143 | 11 | 

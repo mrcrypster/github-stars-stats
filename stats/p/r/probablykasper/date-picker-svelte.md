@@ -1,10 +1,10 @@
 # probablykasper/date-picker-svelte - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 21
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/probablykasper/date-picker-svelte)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 125 | 21 | 
 | 2022-11-05 | 124 | 21 | 
 | 2022-11-04 | 123 | 21 | 
 | 2022-11-03 | 123 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 114 | 19 | 
 | 2022-10-09 | 114 | 19 | 
 | 2022-10-08 | 114 | 19 | 
-| 2022-10-07 | 114 | 19 | 
 

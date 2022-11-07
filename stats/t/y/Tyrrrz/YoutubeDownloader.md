@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 06
 
-☋ Forks: 631
+☋ Forks: 634
 
-★ Stars: 3371
+★ Stars: 3374
 
 [Open repository](https://github.com/Tyrrrz/YoutubeDownloader)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 3371 | 631 | 
+| 2022-11-06 | 3374 | 634 | 
 | 2022-11-05 | 3371 | 631 | 
 | 2022-11-04 | 3364 | 628 | 
 | 2022-11-03 | 3361 | 627 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3277 | 614 | 
 | 2022-10-10 | 3271 | 614 | 
 | 2022-10-09 | 3268 | 615 | 
-| 2022-10-08 | 3264 | 615 | 
 

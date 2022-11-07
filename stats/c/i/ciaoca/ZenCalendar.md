@@ -1,10 +1,10 @@
 # ciaoca/ZenCalendar - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 6
 
-★ Stars: 80
+★ Stars: 79
 
 [Open repository](https://github.com/ciaoca/ZenCalendar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 79 | 6 | 
 | 2022-11-05 | 80 | 6 | 
 | 2022-11-04 | 80 | 6 | 
 | 2022-11-03 | 80 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 79 | 6 | 
 | 2022-10-09 | 79 | 6 | 
 | 2022-10-08 | 79 | 6 | 
-| 2022-10-07 | 79 | 6 | 
 

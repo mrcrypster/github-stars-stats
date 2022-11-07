@@ -1,8 +1,8 @@
 # digitalinnovationone/trilha-net-banco-de-dados - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 49
+☋ Forks: 51
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 5 | 51 | 
 | 2022-11-05 | 5 | 49 | 
 | 2022-11-04 | 5 | 47 | 
 | 2022-11-03 | 5 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 4 | 22 | 
 | 2022-10-09 | 4 | 22 | 
 | 2022-10-08 | 4 | 21 | 
-| 2022-10-07 | 4 | 20 | 
 

@@ -1,10 +1,10 @@
 # checkra1n/PongoOS - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 319
 
-★ Stars: 2126
+★ Stars: 2128
 
 [Open repository](https://github.com/checkra1n/PongoOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2128 | 319 | 
 | 2022-11-05 | 2126 | 319 | 
 | 2022-11-04 | 2126 | 319 | 
 | 2022-11-03 | 2125 | 320 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2120 | 318 | 
 | 2022-10-09 | 2120 | 318 | 
 | 2022-10-08 | 2119 | 318 | 
-| 2022-10-07 | 2120 | 318 | 
 

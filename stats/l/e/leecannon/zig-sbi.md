@@ -1,10 +1,10 @@
 # leecannon/zig-sbi - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 3
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/leecannon/zig-sbi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 6 | 3 | 
 | 2022-11-05 | 5 | 3 | 
 | 2022-11-04 | 5 | 3 | 
 | 2022-11-03 | 5 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 5 | 3 | 
 | 2022-10-09 | 5 | 3 | 
 | 2022-10-08 | 5 | 3 | 
-| 2022-10-07 | 5 | 3 | 
 

@@ -1,10 +1,10 @@
 # amehime/hexo-theme-shoka - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 157
 
-★ Stars: 518
+★ Stars: 521
 
 [Open repository](https://github.com/amehime/hexo-theme-shoka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 521 | 157 | 
 | 2022-11-05 | 518 | 157 | 
 | 2022-11-04 | 519 | 157 | 
 | 2022-11-03 | 518 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 499 | 147 | 
 | 2022-10-09 | 499 | 147 | 
 | 2022-10-08 | 497 | 148 | 
-| 2022-10-07 | 497 | 148 | 
 

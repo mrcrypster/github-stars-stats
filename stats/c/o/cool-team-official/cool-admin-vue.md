@@ -1,10 +1,10 @@
 # cool-team-official/cool-admin-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 242
 
-★ Stars: 869
+★ Stars: 870
 
 [Open repository](https://github.com/cool-team-official/cool-admin-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 870 | 242 | 
 | 2022-11-05 | 869 | 242 | 
 | 2022-11-04 | 869 | 242 | 
 | 2022-11-03 | 869 | 242 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 860 | 239 | 
 | 2022-10-09 | 859 | 239 | 
 | 2022-10-08 | 858 | 238 | 
-| 2022-10-07 | 857 | 236 | 
 

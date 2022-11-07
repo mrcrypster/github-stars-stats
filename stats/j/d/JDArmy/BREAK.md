@@ -1,10 +1,10 @@
 # JDArmy/BREAK - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 32
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/JDArmy/BREAK)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 151 | 32 | 
 | 2022-11-05 | 150 | 32 | 
 | 2022-11-04 | 147 | 32 | 
 | 2022-11-03 | 137 | 31 | 

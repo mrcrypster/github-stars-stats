@@ -1,6 +1,6 @@
 # isucon/isucon11-qualify - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 154 | 69 | 
 | 2022-11-05 | 154 | 69 | 
 | 2022-11-04 | 154 | 69 | 
 | 2022-11-03 | 154 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 153 | 71 | 
 | 2022-10-09 | 153 | 71 | 
 | 2022-10-08 | 153 | 71 | 
-| 2022-10-07 | 153 | 71 | 
 

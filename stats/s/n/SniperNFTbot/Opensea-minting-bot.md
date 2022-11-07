@@ -1,10 +1,10 @@
 # SniperNFTbot/Opensea-minting-bot - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 38
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/SniperNFTbot/Opensea-minting-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 66 | 38 | 
 | 2022-11-05 | 67 | 38 | 
 | 2022-11-04 | 67 | 38 | 
 | 2022-11-03 | 67 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 64 | 38 | 
 | 2022-10-09 | 64 | 38 | 
 | 2022-10-08 | 64 | 38 | 
-| 2022-10-07 | 64 | 38 | 
 

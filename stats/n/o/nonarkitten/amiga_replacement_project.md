@@ -1,6 +1,6 @@
 # nonarkitten/amiga_replacement_project - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 143 | 16 | 
 | 2022-11-05 | 143 | 16 | 
 | 2022-11-04 | 143 | 16 | 
 | 2022-11-03 | 143 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 141 | 16 | 
 | 2022-10-09 | 141 | 16 | 
 | 2022-10-08 | 141 | 16 | 
-| 2022-10-07 | 141 | 16 | 
 

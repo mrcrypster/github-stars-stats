@@ -1,6 +1,6 @@
 # baptixta/game-design-refs - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 155 | 14 | 
 | 2022-11-05 | 155 | 14 | 
 | 2022-11-04 | 154 | 14 | 
 | 2022-11-03 | 154 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 152 | 13 | 
 | 2022-10-09 | 152 | 13 | 
 | 2022-10-08 | 152 | 13 | 
-| 2022-10-07 | 152 | 13 | 
 

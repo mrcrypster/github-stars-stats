@@ -1,6 +1,6 @@
 # xiongtx/eros - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 95 | 10 | 
 | 2022-11-05 | 95 | 10 | 
 | 2022-11-04 | 95 | 10 | 
 | 2022-11-03 | 95 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 94 | 11 | 
 | 2022-10-09 | 94 | 11 | 
 | 2022-10-08 | 94 | 11 | 
-| 2022-10-07 | 94 | 11 | 
 

@@ -1,10 +1,10 @@
 # KinzP/cicd_terraform - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/KinzP/cicd_terraform)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3 | 10 | 
 | 2022-11-05 | 2 | 9 | 
 | 2022-11-04 | 2 | 9 | 
 | 2022-11-03 | 2 | 9 | 

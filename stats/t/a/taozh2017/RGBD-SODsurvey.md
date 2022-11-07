@@ -1,6 +1,6 @@
 # taozh2017/RGBD-SODsurvey - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 210 | 25 | 
 | 2022-11-05 | 210 | 25 | 
 | 2022-11-04 | 210 | 25 | 
 | 2022-11-03 | 210 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 201 | 24 | 
 | 2022-10-09 | 200 | 24 | 
 | 2022-10-08 | 200 | 24 | 
-| 2022-10-07 | 200 | 24 | 
 

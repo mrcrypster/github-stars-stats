@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 06
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 35
+★ Stars: 39
 
 [Open repository](https://github.com/fabioarnold/zeroman)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 35 | 1 | 
+| 2022-11-06 | 39 | 2 | 
 | 2022-11-05 | 34 | 1 | 
 

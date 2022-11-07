@@ -1,10 +1,10 @@
 # Aseman-Land/Tricks - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 3
 
-★ Stars: 18
+★ Stars: 19
 
 [Open repository](https://github.com/Aseman-Land/Tricks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 19 | 3 | 
 | 2022-11-05 | 18 | 3 | 
 | 2022-11-04 | 18 | 3 | 
 | 2022-11-03 | 18 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 16 | 4 | 
 | 2022-10-09 | 16 | 4 | 
 | 2022-10-08 | 16 | 4 | 
-| 2022-10-07 | 16 | 4 | 
 

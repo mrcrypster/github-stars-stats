@@ -1,6 +1,6 @@
 # API-Security/APISandbox - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 302 | 45 | 
 | 2022-11-05 | 302 | 45 | 
 | 2022-11-04 | 302 | 45 | 
 | 2022-11-03 | 302 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 298 | 44 | 
 | 2022-10-09 | 298 | 44 | 
 | 2022-10-08 | 298 | 44 | 
-| 2022-10-07 | 298 | 44 | 
 

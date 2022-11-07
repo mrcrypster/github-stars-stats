@@ -1,10 +1,10 @@
 # mayank99/reset.css - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 4
 
-★ Stars: 134
+★ Stars: 137
 
 [Open repository](https://github.com/mayank99/reset.css)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 137 | 4 | 
 | 2022-11-05 | 134 | 4 | 
 | 2022-11-04 | 131 | 4 | 
 | 2022-11-03 | 130 | 4 | 

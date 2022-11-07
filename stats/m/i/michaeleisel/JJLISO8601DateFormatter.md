@@ -1,10 +1,10 @@
 # michaeleisel/JJLISO8601DateFormatter - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 8
 
-★ Stars: 73
+★ Stars: 74
 
 [Open repository](https://github.com/michaeleisel/JJLISO8601DateFormatter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 74 | 8 | 
 | 2022-11-05 | 73 | 8 | 
 | 2022-11-04 | 73 | 8 | 
 | 2022-11-03 | 73 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 73 | 8 | 
 | 2022-10-09 | 73 | 8 | 
 | 2022-10-08 | 73 | 8 | 
-| 2022-10-07 | 73 | 8 | 
 

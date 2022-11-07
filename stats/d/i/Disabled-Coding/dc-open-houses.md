@@ -1,10 +1,10 @@
 # Disabled-Coding/dc-open-houses - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 33
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/Disabled-Coding/dc-open-houses)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 47 | 33 | 
 | 2022-11-05 | 46 | 33 | 
 | 2022-11-04 | 46 | 33 | 
 | 2022-11-03 | 46 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 43 | 31 | 
 | 2022-10-09 | 43 | 31 | 
 | 2022-10-08 | 43 | 31 | 
-| 2022-10-07 | 43 | 31 | 
 

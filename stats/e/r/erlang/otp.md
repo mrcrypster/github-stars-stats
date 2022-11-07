@@ -1,6 +1,6 @@
 # erlang/otp - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 2790
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 10098 | 2790 | 
 | 2022-11-05 | 10098 | 2790 | 
 | 2022-11-04 | 10099 | 2791 | 
 | 2022-11-03 | 10098 | 2790 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 10049 | 2771 | 
 | 2022-10-09 | 10047 | 2771 | 
 | 2022-10-08 | 10044 | 2771 | 
-| 2022-10-07 | 10042 | 2771 | 
 

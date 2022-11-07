@@ -1,10 +1,10 @@
 # fantix/kloop - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 8
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/fantix/kloop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 156 | 8 | 
 | 2022-11-05 | 155 | 8 | 
 | 2022-11-04 | 155 | 8 | 
 | 2022-11-03 | 154 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 152 | 8 | 
 | 2022-10-09 | 152 | 8 | 
 | 2022-10-08 | 152 | 8 | 
-| 2022-10-07 | 152 | 8 | 
 

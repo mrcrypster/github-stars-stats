@@ -1,10 +1,10 @@
 # xiaogdgenuine/Doll - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 8
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/xiaogdgenuine/Doll)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 244 | 8 | 
 | 2022-11-05 | 243 | 8 | 
 | 2022-11-04 | 242 | 8 | 
 | 2022-11-03 | 241 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 211 | 9 | 
 | 2022-10-09 | 210 | 8 | 
 | 2022-10-08 | 210 | 8 | 
-| 2022-10-07 | 210 | 8 | 
 

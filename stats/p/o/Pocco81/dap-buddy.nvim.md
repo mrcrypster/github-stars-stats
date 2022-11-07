@@ -1,6 +1,6 @@
 # Pocco81/dap-buddy.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 358 | 54 | 
 | 2022-11-05 | 358 | 54 | 
 | 2022-11-04 | 358 | 53 | 
 | 2022-11-03 | 357 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 350 | 54 | 
 | 2022-10-09 | 350 | 54 | 
 | 2022-10-08 | 350 | 54 | 
-| 2022-10-07 | 349 | 54 | 
 

@@ -1,10 +1,10 @@
 # jaquadro/NBTExplorer - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 229
+☋ Forks: 230
 
-★ Stars: 1625
+★ Stars: 1628
 
 [Open repository](https://github.com/jaquadro/NBTExplorer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1628 | 230 | 
 | 2022-11-05 | 1625 | 229 | 
 | 2022-11-04 | 1624 | 229 | 
 | 2022-11-03 | 1624 | 229 | 

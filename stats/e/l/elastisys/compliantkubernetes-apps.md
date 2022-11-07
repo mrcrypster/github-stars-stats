@@ -1,6 +1,6 @@
 # elastisys/compliantkubernetes-apps - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 28 | 6 | 
+| 2022-11-06 | 28 | 6 | 
 | 2022-11-05 | 28 | 6 | 
 | 2022-11-04 | 28 | 6 | 
 | 2022-11-03 | 28 | 6 | 

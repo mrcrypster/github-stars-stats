@@ -1,10 +1,10 @@
 # learning-zone/java-interview-questions - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 558
+☋ Forks: 560
 
-★ Stars: 1133
+★ Stars: 1137
 
 [Open repository](https://github.com/learning-zone/java-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1137 | 560 | 
 | 2022-11-05 | 1133 | 558 | 
 | 2022-11-04 | 1132 | 558 | 
 | 2022-11-03 | 1130 | 559 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1108 | 545 | 
 | 2022-10-09 | 1103 | 545 | 
 | 2022-10-08 | 1098 | 544 | 
-| 2022-10-07 | 1095 | 544 | 
 

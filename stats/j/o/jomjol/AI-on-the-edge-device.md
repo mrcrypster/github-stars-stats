@@ -1,10 +1,10 @@
 # jomjol/AI-on-the-edge-device - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 351
+☋ Forks: 352
 
-★ Stars: 2639
+★ Stars: 2651
 
 [Open repository](https://github.com/jomjol/AI-on-the-edge-device)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2651 | 352 | 
 | 2022-11-05 | 2639 | 351 | 
 | 2022-11-04 | 2624 | 351 | 
 | 2022-11-03 | 2609 | 350 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2501 | 337 | 
 | 2022-10-09 | 2499 | 336 | 
 | 2022-10-08 | 2495 | 335 | 
-| 2022-10-07 | 2494 | 335 | 
 

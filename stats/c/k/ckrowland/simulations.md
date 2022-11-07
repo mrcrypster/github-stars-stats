@@ -1,10 +1,10 @@
 # ckrowland/simulations - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 2
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/ckrowland/simulations)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 14 | 2 | 
 | 2022-11-05 | 13 | 2 | 
 | 2022-11-04 | 13 | 2 | 
 | 2022-11-03 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 12 | 2 | 
 | 2022-10-09 | 12 | 2 | 
 | 2022-10-08 | 12 | 2 | 
-| 2022-10-07 | 12 | 2 | 
 

@@ -1,10 +1,10 @@
 # RfidResearchGroup/proxmark3 - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 692
+☋ Forks: 691
 
-★ Stars: 2128
+★ Stars: 2129
 
 [Open repository](https://github.com/RfidResearchGroup/proxmark3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2129 | 691 | 
 | 2022-11-05 | 2128 | 692 | 
 | 2022-11-04 | 2125 | 690 | 
 | 2022-11-03 | 2121 | 688 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2046 | 670 | 
 | 2022-10-09 | 2042 | 670 | 
 | 2022-10-08 | 2038 | 670 | 
-| 2022-10-07 | 2029 | 670 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 06
 
-☋ Forks: 363
+☋ Forks: 364
 
-★ Stars: 1462
+★ Stars: 1464
 
 [Open repository](https://github.com/Chatterino/chatterino2)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 1462 | 363 | 
+| 2022-11-06 | 1464 | 364 | 
 | 2022-11-05 | 1460 | 360 | 
 | 2022-11-04 | 1459 | 358 | 
 | 2022-11-03 | 1458 | 358 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 1437 | 350 | 
 | 2022-10-09 | 1436 | 349 | 
 | 2022-10-08 | 1436 | 349 | 
-| 2022-10-07 | 1434 | 349 | 
 

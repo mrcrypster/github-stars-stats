@@ -1,10 +1,10 @@
 # FransBouma/OtisFX - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 24
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/FransBouma/OtisFX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 72 | 24 | 
 | 2022-11-05 | 71 | 24 | 
 | 2022-11-04 | 71 | 24 | 
 | 2022-11-03 | 71 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 71 | 23 | 
 | 2022-10-09 | 71 | 23 | 
 | 2022-10-08 | 71 | 23 | 
-| 2022-10-07 | 71 | 23 | 
 

@@ -1,10 +1,10 @@
 # pradyunsg/furo - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 185
+☋ Forks: 187
 
-★ Stars: 1367
+★ Stars: 1371
 
 [Open repository](https://github.com/pradyunsg/furo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1371 | 187 | 
 | 2022-11-05 | 1367 | 185 | 
 | 2022-11-04 | 1365 | 185 | 
 | 2022-11-03 | 1362 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1298 | 178 | 
 | 2022-10-09 | 1293 | 178 | 
 | 2022-10-08 | 1290 | 178 | 
-| 2022-10-07 | 1289 | 178 | 
 

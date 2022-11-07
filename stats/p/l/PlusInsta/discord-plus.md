@@ -1,6 +1,6 @@
 # PlusInsta/discord-plus - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 210 | 85 | 
 | 2022-11-05 | 210 | 85 | 
 | 2022-11-04 | 210 | 85 | 
 | 2022-11-03 | 210 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 207 | 84 | 
 | 2022-10-09 | 207 | 84 | 
 | 2022-10-08 | 207 | 84 | 
-| 2022-10-07 | 207 | 84 | 
 

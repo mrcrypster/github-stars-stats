@@ -1,8 +1,8 @@
 # codingphasedotcom/codingphase-style-vs-code - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 36 | 13 | 
 | 2022-11-05 | 36 | 12 | 
 | 2022-11-04 | 35 | 12 | 
 | 2022-11-03 | 35 | 12 | 

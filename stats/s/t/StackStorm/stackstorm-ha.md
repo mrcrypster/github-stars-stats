@@ -1,8 +1,8 @@
 # StackStorm/stackstorm-ha - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 83
+☋ Forks: 84
 
 ★ Stars: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 88 | 84 | 
 | 2022-11-05 | 88 | 83 | 
 | 2022-11-04 | 88 | 83 | 
 | 2022-11-03 | 88 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 87 | 81 | 
 | 2022-10-10 | 87 | 81 | 
 | 2022-10-09 | 87 | 81 | 
-| 2022-10-07 | 87 | 81 | 
 

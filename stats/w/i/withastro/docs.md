@@ -1,8 +1,8 @@
 # withastro/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 367
+☋ Forks: 368
 
 ★ Stars: 319
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 319 | 368 | 
 | 2022-11-05 | 319 | 367 | 
 | 2022-11-04 | 317 | 367 | 
 | 2022-11-03 | 316 | 364 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 286 | 322 | 
 | 2022-10-09 | 286 | 321 | 
 | 2022-10-08 | 285 | 319 | 
-| 2022-10-07 | 284 | 317 | 
 

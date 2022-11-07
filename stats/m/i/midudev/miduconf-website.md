@@ -1,6 +1,6 @@
 # midudev/miduconf-website - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 425 | 51 | 
 | 2022-11-05 | 425 | 51 | 
 | 2022-11-04 | 425 | 51 | 
 | 2022-11-03 | 425 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 422 | 50 | 
 | 2022-10-09 | 422 | 50 | 
 | 2022-10-08 | 421 | 50 | 
-| 2022-10-07 | 421 | 50 | 
 

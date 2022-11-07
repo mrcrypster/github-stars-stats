@@ -1,10 +1,10 @@
 # maykbrito/nlw-copa-card - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/maykbrito/nlw-copa-card)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 31 | 14 | 
 | 2022-11-05 | 29 | 13 | 
 | 2022-11-04 | 28 | 12 | 
 | 2022-11-03 | 28 | 14 | 

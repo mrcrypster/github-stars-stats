@@ -1,6 +1,6 @@
 # TryHello/DogCs4.4 - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 466 | 73 | 
 | 2022-11-05 | 466 | 73 | 
 | 2022-11-04 | 466 | 73 | 
 | 2022-11-03 | 464 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 436 | 68 | 
 | 2022-10-09 | 432 | 67 | 
 | 2022-10-08 | 432 | 67 | 
-| 2022-10-07 | 430 | 67 | 
 

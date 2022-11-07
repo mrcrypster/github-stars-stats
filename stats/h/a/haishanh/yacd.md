@@ -1,6 +1,6 @@
 # haishanh/yacd - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 265
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1926 | 265 | 
 | 2022-11-05 | 1926 | 265 | 
 | 2022-11-04 | 1923 | 265 | 
 | 2022-11-03 | 1923 | 264 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1866 | 255 | 
 | 2022-10-09 | 1863 | 253 | 
 | 2022-10-08 | 1863 | 253 | 
-| 2022-10-07 | 1863 | 253 | 
 

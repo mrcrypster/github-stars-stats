@@ -1,10 +1,10 @@
 # sunflower-land/sunflower-land - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 436
 
-★ Stars: 1388
+★ Stars: 1389
 
 [Open repository](https://github.com/sunflower-land/sunflower-land)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1389 | 436 | 
 | 2022-11-05 | 1388 | 436 | 
 | 2022-11-04 | 1387 | 436 | 
 | 2022-11-03 | 1387 | 436 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1377 | 428 | 
 | 2022-10-09 | 1377 | 428 | 
 | 2022-10-08 | 1377 | 428 | 
-| 2022-10-07 | 1377 | 428 | 
 

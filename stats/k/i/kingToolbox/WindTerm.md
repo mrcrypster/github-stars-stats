@@ -1,10 +1,10 @@
 # kingToolbox/WindTerm - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 698
+☋ Forks: 699
 
-★ Stars: 10103
+★ Stars: 10120
 
 [Open repository](https://github.com/kingToolbox/WindTerm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 10120 | 699 | 
 | 2022-11-05 | 10103 | 698 | 
 | 2022-11-04 | 10078 | 696 | 
 | 2022-11-03 | 10059 | 697 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 9396 | 665 | 
 | 2022-10-09 | 9362 | 662 | 
 | 2022-10-08 | 9325 | 661 | 
-| 2022-10-07 | 9288 | 657 | 
 

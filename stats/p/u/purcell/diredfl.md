@@ -1,6 +1,6 @@
 # purcell/diredfl - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 109 | 7 | 
 | 2022-11-05 | 109 | 7 | 
 | 2022-11-04 | 109 | 7 | 
 | 2022-11-03 | 109 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 108 | 7 | 
 | 2022-10-09 | 108 | 7 | 
 | 2022-10-08 | 108 | 7 | 
-| 2022-10-07 | 108 | 7 | 
 

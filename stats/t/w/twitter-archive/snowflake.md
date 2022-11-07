@@ -1,10 +1,10 @@
 # twitter-archive/snowflake - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1127
 
-★ Stars: 7156
+★ Stars: 7159
 
 [Open repository](https://github.com/twitter-archive/snowflake)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 7159 | 1127 | 
 | 2022-11-05 | 7156 | 1127 | 
 | 2022-11-04 | 7151 | 1127 | 
 | 2022-11-03 | 7150 | 1127 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 7129 | 1123 | 
 | 2022-10-09 | 7127 | 1124 | 
 | 2022-10-08 | 7125 | 1124 | 
-| 2022-10-07 | 7125 | 1124 | 
 

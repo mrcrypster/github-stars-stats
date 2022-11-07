@@ -1,8 +1,8 @@
 # VeryGoodOpenSource/dart_frog - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 61
+☋ Forks: 62
 
 ★ Stars: 939
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 939 | 62 | 
 | 2022-11-05 | 939 | 61 | 
 | 2022-11-04 | 938 | 61 | 
 | 2022-11-03 | 935 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 904 | 54 | 
 | 2022-10-09 | 904 | 54 | 
 | 2022-10-08 | 900 | 54 | 
-| 2022-10-07 | 898 | 54 | 
 

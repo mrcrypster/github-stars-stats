@@ -1,10 +1,10 @@
 # H4de5-7/geacon_pro - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 63
+☋ Forks: 64
 
-★ Stars: 423
+★ Stars: 442
 
 [Open repository](https://github.com/H4de5-7/geacon_pro)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 442 | 64 | 
 | 2022-11-05 | 423 | 63 | 
 | 2022-11-04 | 413 | 62 | 
 | 2022-11-03 | 389 | 61 | 

@@ -1,10 +1,10 @@
 # build-trust/ockam - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 271
+☋ Forks: 270
 
-★ Stars: 2629
+★ Stars: 2630
 
 [Open repository](https://github.com/build-trust/ockam)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2630 | 270 | 
 | 2022-11-05 | 2629 | 271 | 
 | 2022-11-04 | 2624 | 270 | 
 | 2022-11-03 | 2622 | 271 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2538 | 247 | 
 | 2022-10-09 | 2534 | 244 | 
 | 2022-10-08 | 2530 | 243 | 
-| 2022-10-07 | 2517 | 243 | 
 

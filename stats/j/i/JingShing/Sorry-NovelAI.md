@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 06
 
 ☋ Forks: 12
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/JingShing/Sorry-NovelAI)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 25 | 12 | 
+| 2022-11-06 | 26 | 12 | 
 | 2022-11-05 | 25 | 12 | 
 

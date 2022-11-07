@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 06
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 90
+★ Stars: 104
 
 [Open repository](https://github.com/daweedkob/daweedkob.github.io)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 90 | 2 | 
+| 2022-11-06 | 104 | 3 | 
 | 2022-11-05 | 89 | 1 | 
 | 2022-11-04 | 74 | 1 | 
 | 2022-11-03 | 52 | - | 

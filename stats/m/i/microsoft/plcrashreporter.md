@@ -1,6 +1,6 @@
 # microsoft/plcrashreporter - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 494
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2536 | 494 | 
 | 2022-11-05 | 2536 | 494 | 
 | 2022-11-04 | 2535 | 494 | 
 | 2022-11-03 | 2535 | 494 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2512 | 490 | 
 | 2022-10-09 | 2512 | 489 | 
 | 2022-10-08 | 2511 | 489 | 
-| 2022-10-07 | 2509 | 489 | 
 

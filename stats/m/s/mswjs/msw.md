@@ -1,6 +1,6 @@
 # mswjs/msw - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 345
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 10847 | 345 | 
 | 2022-11-05 | 10847 | 345 | 
 | 2022-11-04 | 10844 | 345 | 
 | 2022-11-03 | 10839 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 10585 | 335 | 
 | 2022-10-09 | 10577 | 333 | 
 | 2022-10-08 | 10563 | 333 | 
-| 2022-10-07 | 10560 | 333 | 
 

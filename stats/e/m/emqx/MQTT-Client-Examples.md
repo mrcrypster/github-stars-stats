@@ -1,10 +1,10 @@
 # emqx/MQTT-Client-Examples - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 400
+☋ Forks: 401
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/emqx/MQTT-Client-Examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 311 | 401 | 
 | 2022-11-05 | 310 | 400 | 
 | 2022-11-04 | 309 | 399 | 
 | 2022-11-03 | 309 | 398 | 

@@ -1,6 +1,6 @@
 # itsFrank/MinecraftHDL - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 901 | 21 | 
 | 2022-11-05 | 901 | 21 | 
 | 2022-11-04 | 901 | 21 | 
 | 2022-11-03 | 901 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 892 | 19 | 
 | 2022-10-09 | 891 | 19 | 
 | 2022-10-08 | 891 | 19 | 
-| 2022-10-07 | 890 | 19 | 
 

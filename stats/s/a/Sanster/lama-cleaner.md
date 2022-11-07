@@ -1,10 +1,10 @@
 # Sanster/lama-cleaner - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 252
+☋ Forks: 264
 
-★ Stars: 2925
+★ Stars: 3078
 
 [Open repository](https://github.com/Sanster/lama-cleaner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3078 | 264 | 
 | 2022-11-05 | 2925 | 252 | 
 | 2022-11-04 | 2730 | 233 | 
 | 2022-11-03 | 2428 | 215 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1465 | 160 | 
 | 2022-10-09 | 1453 | 159 | 
 | 2022-10-08 | 1440 | 159 | 
-| 2022-10-07 | 1432 | 158 | 
 

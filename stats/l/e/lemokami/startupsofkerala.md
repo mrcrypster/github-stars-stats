@@ -1,10 +1,10 @@
 # lemokami/startupsofkerala - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 15
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/lemokami/startupsofkerala)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 20 | 15 | 
 | 2022-11-05 | 19 | 15 | 
 | 2022-11-04 | 19 | 15 | 
 | 2022-11-03 | 19 | 15 | 

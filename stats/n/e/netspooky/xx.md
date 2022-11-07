@@ -1,10 +1,10 @@
 # netspooky/xx - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 15
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/netspooky/xx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 281 | 15 | 
 | 2022-11-05 | 280 | 15 | 
 | 2022-11-04 | 280 | 15 | 
 | 2022-11-03 | 280 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 265 | 15 | 
 | 2022-10-09 | 263 | 15 | 
 | 2022-10-08 | 262 | 15 | 
-| 2022-10-07 | 254 | 15 | 
 

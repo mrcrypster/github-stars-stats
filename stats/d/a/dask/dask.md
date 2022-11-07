@@ -1,6 +1,6 @@
 # dask/dask - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1555
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 10462 | 1555 | 
 | 2022-11-05 | 10462 | 1555 | 
 | 2022-11-04 | 10456 | 1553 | 
 | 2022-11-03 | 10454 | 1553 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 10377 | 1542 | 
 | 2022-10-10 | 10376 | 1541 | 
 | 2022-10-09 | 10374 | 1541 | 
-| 2022-10-08 | 10371 | 1540 | 
 

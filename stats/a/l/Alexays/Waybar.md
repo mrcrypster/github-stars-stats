@@ -1,8 +1,8 @@
 # Alexays/Waybar - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 395
+☋ Forks: 396
 
 ★ Stars: 2792
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2792 | 396 | 
 | 2022-11-05 | 2792 | 395 | 
 | 2022-11-04 | 2791 | 395 | 
 | 2022-11-03 | 2786 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2698 | 381 | 
 | 2022-10-09 | 2696 | 380 | 
 | 2022-10-08 | 2694 | 380 | 
-| 2022-10-07 | 2692 | 380 | 
 

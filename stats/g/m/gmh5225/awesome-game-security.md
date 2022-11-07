@@ -1,10 +1,10 @@
 # gmh5225/awesome-game-security - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 231
 
-★ Stars: 1457
+★ Stars: 1458
 
 [Open repository](https://github.com/gmh5225/awesome-game-security)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1458 | 231 | 
 | 2022-11-05 | 1457 | 231 | 
 | 2022-11-04 | 1452 | 230 | 
 | 2022-11-03 | 1451 | 229 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1417 | 219 | 
 | 2022-10-09 | 1415 | 219 | 
 | 2022-10-08 | 1413 | 219 | 
-| 2022-10-07 | 1412 | 218 | 
 

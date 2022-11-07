@@ -1,6 +1,6 @@
 # WhatsApp/eqwalizer - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 405 | 10 | 
 | 2022-11-05 | 405 | 10 | 
 | 2022-11-04 | 405 | 10 | 
 | 2022-11-03 | 405 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 398 | 10 | 
 | 2022-10-09 | 397 | 10 | 
 | 2022-10-08 | 397 | 10 | 
-| 2022-10-07 | 397 | 10 | 
 

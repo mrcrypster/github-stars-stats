@@ -1,10 +1,10 @@
 # Taiga74164/Akebi-GC - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 496
+☋ Forks: 499
 
-★ Stars: 787
+★ Stars: 799
 
 [Open repository](https://github.com/Taiga74164/Akebi-GC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 799 | 499 | 
 | 2022-11-05 | 787 | 496 | 
 | 2022-11-04 | 756 | 491 | 
 | 2022-11-03 | 712 | 485 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 456 | 451 | 
 | 2022-10-09 | 446 | 447 | 
 | 2022-10-08 | 434 | 446 | 
-| 2022-10-07 | 420 | 446 | 
 

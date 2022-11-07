@@ -1,10 +1,10 @@
 # SleepyAsh0191/sheep-n-sheep-backend - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 44
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/SleepyAsh0191/sheep-n-sheep-backend)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 48 | 44 | 
 | 2022-11-05 | 47 | 44 | 
 | 2022-11-04 | 47 | 44 | 
 | 2022-11-03 | 47 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 40 | 40 | 
 | 2022-10-09 | 39 | 40 | 
 | 2022-10-08 | 38 | 40 | 
-| 2022-10-07 | 38 | 38 | 
 

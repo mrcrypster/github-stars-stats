@@ -1,10 +1,10 @@
 # asahilina/gpu-rust-playground - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 127
+★ Stars: 128
 
 [Open repository](https://github.com/asahilina/gpu-rust-playground)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 128 | 5 | 
 | 2022-11-05 | 127 | 5 | 
 | 2022-11-04 | 127 | 5 | 
 | 2022-11-03 | 127 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 117 | 4 | 
 | 2022-10-09 | 117 | 4 | 
 | 2022-10-08 | 117 | 4 | 
-| 2022-10-07 | 117 | 4 | 
 

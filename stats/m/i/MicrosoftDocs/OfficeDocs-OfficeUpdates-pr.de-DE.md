@@ -1,6 +1,6 @@
 # MicrosoftDocs/OfficeDocs-OfficeUpdates-pr.de-DE - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 8 | 4 | 
 | 2022-11-06 | 8 | 4 | 
 | 2022-11-05 | 8 | 4 | 
 | 2022-11-04 | 8 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 8 | 4 | 
 | 2022-10-09 | 8 | 4 | 
 | 2022-10-08 | 8 | 4 | 
-| 2022-10-07 | 8 | 4 | 
 

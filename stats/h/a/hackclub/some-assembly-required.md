@@ -1,6 +1,6 @@
 # hackclub/some-assembly-required - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2216 | 90 | 
 | 2022-11-05 | 2216 | 90 | 
 | 2022-11-04 | 2216 | 90 | 
 | 2022-11-03 | 2216 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2187 | 89 | 
 | 2022-10-09 | 2187 | 89 | 
 | 2022-10-08 | 2186 | 89 | 
-| 2022-10-07 | 2185 | 89 | 
 

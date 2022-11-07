@@ -1,10 +1,10 @@
 # biuuu/genshin-wish-export - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 356
+☋ Forks: 357
 
-★ Stars: 2835
+★ Stars: 2840
 
 [Open repository](https://github.com/biuuu/genshin-wish-export)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2840 | 357 | 
 | 2022-11-05 | 2835 | 356 | 
 | 2022-11-04 | 2828 | 354 | 
 | 2022-11-03 | 2821 | 353 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 2763 | 353 | 
 | 2022-10-10 | 2763 | 353 | 
 | 2022-10-09 | 2757 | 352 | 
-| 2022-10-08 | 2755 | 352 | 
 

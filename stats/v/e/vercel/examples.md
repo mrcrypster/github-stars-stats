@@ -1,10 +1,10 @@
 # vercel/examples - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 313
+☋ Forks: 315
 
-★ Stars: 1547
+★ Stars: 1550
 
 [Open repository](https://github.com/vercel/examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1550 | 315 | 
 | 2022-11-05 | 1547 | 313 | 
 | 2022-11-04 | 1541 | 311 | 
 | 2022-11-03 | 1539 | 310 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1445 | 289 | 
 | 2022-10-09 | 1443 | 290 | 
 | 2022-10-08 | 1442 | 290 | 
-| 2022-10-07 | 1439 | 289 | 
 

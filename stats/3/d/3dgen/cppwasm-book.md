@@ -1,10 +1,10 @@
 # 3dgen/cppwasm-book - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 151
 
-★ Stars: 1190
+★ Stars: 1191
 
 [Open repository](https://github.com/3dgen/cppwasm-book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1191 | 151 | 
 | 2022-11-05 | 1190 | 151 | 
 | 2022-11-04 | 1189 | 151 | 
 | 2022-11-03 | 1187 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1149 | 148 | 
 | 2022-10-09 | 1148 | 146 | 
 | 2022-10-08 | 1147 | 146 | 
-| 2022-10-07 | 1147 | 146 | 
 

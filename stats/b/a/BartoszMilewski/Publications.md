@@ -1,6 +1,6 @@
 # BartoszMilewski/Publications - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1060 | 33 | 
 | 2022-11-05 | 1060 | 33 | 
 | 2022-11-04 | 1060 | 33 | 
 | 2022-11-03 | 1060 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 1046 | 33 | 
 | 2022-10-10 | 1046 | 33 | 
 | 2022-10-09 | 1046 | 33 | 
-| 2022-10-08 | 1047 | 33 | 
 

@@ -1,6 +1,6 @@
 # couchbase/tlm - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 36 | 49 | 
 | 2022-11-05 | 36 | 49 | 
 | 2022-11-04 | 36 | 49 | 
 | 2022-11-03 | 35 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 35 | 47 | 
 | 2022-10-09 | 35 | 47 | 
 | 2022-10-08 | 35 | 47 | 
-| 2022-10-07 | 35 | 47 | 
 

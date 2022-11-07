@@ -1,6 +1,6 @@
 # petercorke/robotics-toolbox-matlab - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 404
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 933 | 404 | 
 | 2022-11-05 | 933 | 404 | 
 | 2022-11-04 | 933 | 404 | 
 | 2022-11-03 | 933 | 404 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 921 | 400 | 
 | 2022-10-09 | 921 | 400 | 
 | 2022-10-08 | 920 | 400 | 
-| 2022-10-07 | 920 | 400 | 
 

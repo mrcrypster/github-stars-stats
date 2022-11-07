@@ -1,6 +1,6 @@
 # Shopify/starter-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 440 | 261 | 
 | 2022-11-05 | 440 | 261 | 
 | 2022-11-04 | 440 | 261 | 
 | 2022-11-03 | 439 | 261 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 437 | 262 | 
 | 2022-10-09 | 437 | 262 | 
 | 2022-10-08 | 437 | 262 | 
-| 2022-10-07 | 437 | 262 | 
 

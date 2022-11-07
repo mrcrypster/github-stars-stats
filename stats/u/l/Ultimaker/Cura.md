@@ -1,6 +1,6 @@
 # Ultimaker/Cura - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1720
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 4236 | 1720 | 
 | 2022-11-06 | 4236 | 1720 | 
 | 2022-11-05 | 4232 | 1721 | 
 | 2022-11-04 | 4232 | 1722 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 4171 | 1700 | 
 | 2022-10-09 | 4169 | 1697 | 
 | 2022-10-08 | 4169 | 1697 | 
-| 2022-10-07 | 4168 | 1697 | 
 

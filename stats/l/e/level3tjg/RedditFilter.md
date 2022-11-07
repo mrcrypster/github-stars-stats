@@ -1,8 +1,8 @@
 # level3tjg/RedditFilter - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 9 | 3 | 
 | 2022-11-05 | 9 | 2 | 
 | 2022-11-04 | 9 | 2 | 
 | 2022-11-03 | 9 | 2 | 

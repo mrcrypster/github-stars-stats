@@ -1,10 +1,10 @@
 # statsmodels/statsmodels - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 2602
 
-★ Stars: 7870
+★ Stars: 7869
 
 [Open repository](https://github.com/statsmodels/statsmodels)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 7869 | 2602 | 
 | 2022-11-05 | 7870 | 2602 | 
 | 2022-11-04 | 7869 | 2600 | 
 | 2022-11-03 | 7864 | 2598 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 7804 | 2582 | 
 | 2022-10-09 | 7801 | 2583 | 
 | 2022-10-08 | 7800 | 2583 | 
-| 2022-10-07 | 7797 | 2581 | 
 

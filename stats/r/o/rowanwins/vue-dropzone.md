@@ -1,6 +1,6 @@
 # rowanwins/vue-dropzone - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1313
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1985 | 1313 | 
 | 2022-11-05 | 1985 | 1313 | 
 | 2022-11-04 | 1985 | 1313 | 
 | 2022-11-03 | 1985 | 1313 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1985 | 1309 | 
 | 2022-10-09 | 1985 | 1309 | 
 | 2022-10-08 | 1984 | 1309 | 
-| 2022-10-07 | 1984 | 1309 | 
 

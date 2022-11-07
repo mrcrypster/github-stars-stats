@@ -1,10 +1,10 @@
 # CoryMcCartan/midterms-22 - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/CoryMcCartan/midterms-22)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 15 | - | 
 | 2022-11-05 | 14 | - | 
 | 2022-11-04 | 14 | - | 
 | 2022-11-03 | 13 | - | 

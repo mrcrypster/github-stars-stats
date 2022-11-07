@@ -1,10 +1,10 @@
 # jina-ai/docarray - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 99
 
-★ Stars: 1300
+★ Stars: 1318
 
 [Open repository](https://github.com/jina-ai/docarray)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1318 | 99 | 
 | 2022-11-05 | 1300 | 99 | 
 | 2022-11-04 | 1276 | 99 | 
 | 2022-11-03 | 1275 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1158 | 94 | 
 | 2022-10-09 | 1159 | 94 | 
 | 2022-10-08 | 1157 | 94 | 
-| 2022-10-07 | 1155 | 94 | 
 

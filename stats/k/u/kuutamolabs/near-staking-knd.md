@@ -1,6 +1,6 @@
 # kuutamolabs/near-staking-knd - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 12 | 5 | 
 | 2022-11-05 | 12 | 5 | 
 | 2022-11-04 | 12 | 5 | 
 | 2022-11-03 | 12 | 5 | 

@@ -1,8 +1,8 @@
 # GlossMod/UnityScriptTrainer - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 29
+☋ Forks: 30
 
 ★ Stars: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 69 | 30 | 
 | 2022-11-05 | 69 | 29 | 
 | 2022-11-04 | 68 | 28 | 
 | 2022-11-03 | 68 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 63 | 28 | 
 | 2022-10-09 | 63 | 28 | 
 | 2022-10-08 | 61 | 25 | 
-| 2022-10-07 | 60 | 25 | 
 

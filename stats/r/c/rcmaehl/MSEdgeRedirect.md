@@ -1,10 +1,10 @@
 # rcmaehl/MSEdgeRedirect - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 64
 
-★ Stars: 1798
+★ Stars: 1799
 
 [Open repository](https://github.com/rcmaehl/MSEdgeRedirect)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1799 | 64 | 
 | 2022-11-05 | 1798 | 64 | 
 | 2022-11-04 | 1792 | 64 | 
 | 2022-11-03 | 1791 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1728 | 63 | 
 | 2022-10-09 | 1728 | 63 | 
 | 2022-10-08 | 1725 | 63 | 
-| 2022-10-07 | 1724 | 64 | 
 

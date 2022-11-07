@@ -1,10 +1,10 @@
 # platformatic/platformatic - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 44
 
-★ Stars: 586
+★ Stars: 592
 
 [Open repository](https://github.com/platformatic/platformatic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 592 | 44 | 
 | 2022-11-05 | 586 | 44 | 
 | 2022-11-04 | 583 | 42 | 
 | 2022-11-03 | 578 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 491 | 24 | 
 | 2022-10-09 | 488 | 24 | 
 | 2022-10-08 | 482 | 24 | 
-| 2022-10-07 | 478 | 25 | 
 

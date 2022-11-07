@@ -1,10 +1,10 @@
 # alpinejs/alpine - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 987
+☋ Forks: 988
 
-★ Stars: 22081
+★ Stars: 22086
 
 [Open repository](https://github.com/alpinejs/alpine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 22086 | 988 | 
 | 2022-11-05 | 22081 | 987 | 
 | 2022-11-04 | 22078 | 987 | 
 | 2022-11-03 | 22051 | 987 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 21835 | 974 | 
 | 2022-10-09 | 21824 | 974 | 
 | 2022-10-08 | 21823 | 974 | 
-| 2022-10-07 | 21818 | 974 | 
 

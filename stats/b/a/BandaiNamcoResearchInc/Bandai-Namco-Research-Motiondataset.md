@@ -1,10 +1,10 @@
 # BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 337
 
-★ Stars: 2599
+★ Stars: 2600
 
 [Open repository](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2600 | 337 | 
 | 2022-11-05 | 2599 | 337 | 
 | 2022-11-04 | 2598 | 336 | 
 | 2022-11-03 | 2597 | 336 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2567 | 332 | 
 | 2022-10-09 | 2563 | 331 | 
 | 2022-10-08 | 2559 | 331 | 
-| 2022-10-07 | 2557 | 331 | 
 

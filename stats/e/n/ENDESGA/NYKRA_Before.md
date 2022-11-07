@@ -1,10 +1,10 @@
 # ENDESGA/NYKRA_Before - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/ENDESGA/NYKRA_Before)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 20 | - | 
 | 2022-11-05 | 19 | - | 
 | 2022-11-04 | 19 | - | 
 | 2022-11-03 | 19 | - | 

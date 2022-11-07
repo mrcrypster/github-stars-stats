@@ -1,10 +1,10 @@
 # prowler-cloud/prowler - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 1031
+☋ Forks: 1032
 
-★ Stars: 6914
+★ Stars: 6942
 
 [Open repository](https://github.com/prowler-cloud/prowler)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 6942 | 1032 | 
 | 2022-11-05 | 6914 | 1031 | 
 | 2022-11-04 | 6852 | 1025 | 
 | 2022-11-03 | 6846 | 1023 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 6772 | 1014 | 
 | 2022-10-09 | 6764 | 1014 | 
 | 2022-10-08 | 6694 | 1010 | 
-| 2022-10-07 | 6646 | 1010 | 
 

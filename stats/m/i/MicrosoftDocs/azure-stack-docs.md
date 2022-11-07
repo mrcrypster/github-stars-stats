@@ -1,6 +1,6 @@
 # MicrosoftDocs/azure-stack-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 292
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 161 | 292 | 
 | 2022-11-05 | 161 | 292 | 
 | 2022-11-04 | 161 | 291 | 
 | 2022-11-03 | 160 | 291 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 159 | 281 | 
 | 2022-10-10 | 159 | 281 | 
 | 2022-10-09 | 159 | 281 | 
-| 2022-10-08 | 159 | 281 | 
 

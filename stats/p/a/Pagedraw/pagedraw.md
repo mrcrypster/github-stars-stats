@@ -1,6 +1,6 @@
 # Pagedraw/pagedraw - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 438
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3264 | 438 | 
 | 2022-11-05 | 3264 | 438 | 
 | 2022-11-04 | 3264 | 438 | 
 | 2022-11-03 | 3264 | 438 | 

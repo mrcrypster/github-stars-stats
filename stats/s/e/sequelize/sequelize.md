@@ -1,10 +1,10 @@
 # sequelize/sequelize - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 4122
 
-★ Stars: 26999
+★ Stars: 27002
 
 [Open repository](https://github.com/sequelize/sequelize)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 27002 | 4122 | 
 | 2022-11-05 | 26999 | 4122 | 
 | 2022-11-04 | 26991 | 4120 | 
 | 2022-11-03 | 26984 | 4120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 26856 | 4104 | 
 | 2022-10-09 | 26839 | 4103 | 
 | 2022-10-08 | 26828 | 4102 | 
-| 2022-10-07 | 26826 | 4104 | 
 

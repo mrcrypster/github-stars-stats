@@ -1,10 +1,10 @@
 # xuchunyang/eshell-z - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/xuchunyang/eshell-z)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 41 | 5 | 
 | 2022-11-05 | 40 | 5 | 
 | 2022-11-04 | 40 | 5 | 
 | 2022-11-03 | 40 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 40 | 5 | 
 | 2022-10-09 | 40 | 5 | 
 | 2022-10-08 | 40 | 5 | 
-| 2022-10-07 | 40 | 5 | 
 

@@ -1,6 +1,6 @@
 # Sylius/Sylius - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1990
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 7066 | 1990 | 
 | 2022-11-05 | 7066 | 1990 | 
 | 2022-11-04 | 7062 | 1990 | 
 | 2022-11-03 | 7063 | 1990 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 7019 | 1978 | 
 | 2022-10-09 | 7018 | 1978 | 
 | 2022-10-08 | 7017 | 1978 | 
-| 2022-10-07 | 7016 | 1977 | 
 

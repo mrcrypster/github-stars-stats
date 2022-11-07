@@ -1,6 +1,6 @@
 # facebook/FBRetainCycleDetector - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 568
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 4105 | 568 | 
 | 2022-11-05 | 4105 | 568 | 
 | 2022-11-04 | 4105 | 568 | 
 | 2022-11-03 | 4103 | 568 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 4099 | 565 | 
 | 2022-10-09 | 4099 | 565 | 
 | 2022-10-08 | 4099 | 565 | 
-| 2022-10-07 | 4097 | 565 | 
 

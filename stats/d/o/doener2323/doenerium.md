@@ -1,10 +1,10 @@
 # doener2323/doenerium - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 75
 
-★ Stars: 348
+★ Stars: 349
 
 [Open repository](https://github.com/doener2323/doenerium)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 349 | 75 | 
 | 2022-11-05 | 348 | 75 | 
 | 2022-11-04 | 346 | 75 | 
 | 2022-11-03 | 346 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 320 | 70 | 
 | 2022-10-09 | 315 | 70 | 
 | 2022-10-08 | 311 | 70 | 
-| 2022-10-07 | 310 | 70 | 
 

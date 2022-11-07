@@ -1,6 +1,6 @@
 # jeromeetienne/AR.js - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 2205
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 15635 | 2205 | 
 | 2022-11-05 | 15635 | 2205 | 
 | 2022-11-04 | 15634 | 2205 | 
 | 2022-11-03 | 15635 | 2205 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 15619 | 2205 | 
 | 2022-10-10 | 15616 | 2205 | 
 | 2022-10-09 | 15616 | 2206 | 
-| 2022-10-08 | 15614 | 2206 | 
 

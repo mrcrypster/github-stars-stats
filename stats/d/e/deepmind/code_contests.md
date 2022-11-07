@@ -1,6 +1,6 @@
 # deepmind/code_contests - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1217 | 135 | 
 | 2022-11-05 | 1217 | 135 | 
 | 2022-11-04 | 1217 | 135 | 
 | 2022-11-03 | 1217 | 135 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 1208 | 136 | 
 | 2022-10-10 | 1207 | 136 | 
 | 2022-10-09 | 1205 | 136 | 
-| 2022-10-08 | 1205 | 133 | 
 

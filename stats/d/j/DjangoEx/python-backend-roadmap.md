@@ -1,6 +1,6 @@
 # DjangoEx/python-backend-roadmap - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 688 | 94 | 
 | 2022-11-05 | 688 | 94 | 
 | 2022-11-04 | 688 | 94 | 
 | 2022-11-03 | 686 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 658 | 88 | 
 | 2022-10-09 | 658 | 88 | 
 | 2022-10-08 | 658 | 88 | 
-| 2022-10-07 | 658 | 88 | 
 

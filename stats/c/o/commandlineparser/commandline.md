@@ -1,6 +1,6 @@
 # commandlineparser/commandline - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 436
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3728 | 436 | 
 | 2022-11-05 | 3728 | 436 | 
 | 2022-11-04 | 3727 | 436 | 
 | 2022-11-03 | 3725 | 436 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 3697 | 435 | 
 | 2022-10-09 | 3695 | 435 | 
 | 2022-10-08 | 3694 | 435 | 
-| 2022-10-07 | 3693 | 435 | 
 

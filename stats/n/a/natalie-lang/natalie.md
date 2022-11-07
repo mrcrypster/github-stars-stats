@@ -1,8 +1,8 @@
 # natalie-lang/natalie - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 56
+☋ Forks: 55
 
 ★ Stars: 720
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 720 | 55 | 
 | 2022-11-05 | 720 | 56 | 
 | 2022-11-04 | 720 | 55 | 
 | 2022-11-03 | 719 | 55 | 

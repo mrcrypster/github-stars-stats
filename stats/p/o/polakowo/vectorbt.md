@@ -1,10 +1,10 @@
 # polakowo/vectorbt - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 411
 
-★ Stars: 2339
+★ Stars: 2342
 
 [Open repository](https://github.com/polakowo/vectorbt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2342 | 411 | 
 | 2022-11-06 | 2339 | 411 | 
 | 2022-11-05 | 2340 | 411 | 
 | 2022-11-04 | 2339 | 411 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 2282 | 406 | 
 | 2022-10-09 | 2281 | 406 | 
 | 2022-10-08 | 2281 | 406 | 
-| 2022-10-07 | 2277 | 405 | 
 

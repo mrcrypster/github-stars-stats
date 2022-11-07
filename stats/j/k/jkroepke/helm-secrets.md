@@ -1,10 +1,10 @@
 # jkroepke/helm-secrets - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 86
 
-★ Stars: 767
+★ Stars: 769
 
 [Open repository](https://github.com/jkroepke/helm-secrets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 769 | 86 | 
 | 2022-11-05 | 767 | 86 | 
 | 2022-11-04 | 767 | 86 | 
 | 2022-11-03 | 767 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 736 | 82 | 
 | 2022-10-09 | 735 | 82 | 
 | 2022-10-08 | 734 | 82 | 
-| 2022-10-07 | 732 | 82 | 
 

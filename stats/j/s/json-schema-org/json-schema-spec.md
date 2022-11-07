@@ -1,6 +1,6 @@
 # json-schema-org/json-schema-spec - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 248
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2723 | 248 | 
 | 2022-11-05 | 2723 | 248 | 
 | 2022-11-04 | 2722 | 247 | 
 | 2022-11-03 | 2721 | 247 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2698 | 247 | 
 | 2022-10-09 | 2698 | 247 | 
 | 2022-10-08 | 2696 | 247 | 
-| 2022-10-07 | 2693 | 247 | 
 

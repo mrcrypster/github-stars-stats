@@ -1,8 +1,8 @@
 # akinsho/bufferline.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 100
+☋ Forks: 99
 
 ★ Stars: 1804
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1804 | 99 | 
 | 2022-11-05 | 1804 | 100 | 
 | 2022-11-04 | 1799 | 100 | 
 | 2022-11-03 | 1797 | 99 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1717 | 93 | 
 | 2022-10-09 | 1709 | 93 | 
 | 2022-10-08 | 1706 | 93 | 
-| 2022-10-07 | 1704 | 92 | 
 

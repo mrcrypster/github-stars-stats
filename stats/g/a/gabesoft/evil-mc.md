@@ -1,6 +1,6 @@
 # gabesoft/evil-mc - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 353 | 31 | 
 | 2022-11-06 | 353 | 31 | 
 | 2022-11-05 | 353 | 31 | 
 | 2022-11-04 | 353 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 351 | 31 | 
 | 2022-10-09 | 351 | 31 | 
 | 2022-10-08 | 351 | 31 | 
-| 2022-10-07 | 351 | 31 | 
 

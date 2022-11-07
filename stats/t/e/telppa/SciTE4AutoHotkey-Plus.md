@@ -1,10 +1,10 @@
 # telppa/SciTE4AutoHotkey-Plus - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 31
 
-★ Stars: 229
+★ Stars: 230
 
 [Open repository](https://github.com/telppa/SciTE4AutoHotkey-Plus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 230 | 31 | 
 | 2022-11-05 | 229 | 31 | 
 | 2022-11-04 | 229 | 31 | 
 | 2022-11-03 | 229 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 219 | 29 | 
 | 2022-10-09 | 219 | 29 | 
 | 2022-10-08 | 219 | 29 | 
-| 2022-10-07 | 219 | 29 | 
 

@@ -1,6 +1,6 @@
 # AckslD/swenv.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 52 | - | 
 | 2022-11-05 | 52 | - | 
 | 2022-11-04 | 52 | - | 
 | 2022-11-03 | 52 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 50 | - | 
 | 2022-10-09 | 50 | - | 
 | 2022-10-08 | 50 | - | 
-| 2022-10-07 | 49 | - | 
 

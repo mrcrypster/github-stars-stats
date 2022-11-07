@@ -1,6 +1,6 @@
 # Azure-Samples/ms-identity-node - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 15 | 15 | 
+| 2022-11-06 | 15 | 15 | 
 | 2022-11-05 | 15 | 15 | 
 | 2022-11-04 | 15 | 15 | 
 | 2022-11-03 | 16 | 15 | 

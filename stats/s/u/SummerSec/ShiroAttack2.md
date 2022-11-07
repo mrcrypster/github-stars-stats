@@ -1,10 +1,10 @@
 # SummerSec/ShiroAttack2 - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 205
+☋ Forks: 206
 
-★ Stars: 1242
+★ Stars: 1243
 
 [Open repository](https://github.com/SummerSec/ShiroAttack2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1243 | 206 | 
 | 2022-11-05 | 1242 | 205 | 
 | 2022-11-04 | 1241 | 205 | 
 | 2022-11-03 | 1240 | 205 | 

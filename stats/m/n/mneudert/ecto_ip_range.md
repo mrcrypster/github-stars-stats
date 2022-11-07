@@ -1,10 +1,10 @@
 # mneudert/ecto_ip_range - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 3
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/mneudert/ecto_ip_range)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3 | 3 | 
 | 2022-11-05 | 2 | 3 | 
 | 2022-11-04 | 2 | 3 | 
 | 2022-11-03 | 2 | 3 | 

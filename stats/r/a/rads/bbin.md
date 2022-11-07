@@ -1,6 +1,6 @@
 # rads/bbin - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 65 | 3 | 
 | 2022-11-05 | 65 | 3 | 
 | 2022-11-04 | 65 | 3 | 
 | 2022-11-03 | 64 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 59 | 3 | 
 | 2022-10-09 | 59 | 3 | 
 | 2022-10-08 | 59 | 3 | 
-| 2022-10-07 | 59 | 3 | 
 

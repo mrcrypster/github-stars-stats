@@ -1,10 +1,10 @@
 # abhiamishra/ggshakeR - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 9
 
-★ Stars: 92
+★ Stars: 93
 
 [Open repository](https://github.com/abhiamishra/ggshakeR)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 93 | 9 | 
 | 2022-11-05 | 92 | 9 | 
 | 2022-11-04 | 92 | 9 | 
 | 2022-11-03 | 92 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 91 | 10 | 
 | 2022-10-10 | 91 | 10 | 
 | 2022-10-09 | 91 | 10 | 
-| 2022-10-08 | 91 | 10 | 
 

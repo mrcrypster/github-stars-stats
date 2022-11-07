@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 06
 
-☋ Forks: 16
+☋ Forks: 17
 
-★ Stars: 116
+★ Stars: 131
 
 [Open repository](https://github.com/fikretsengul/flutter_advanced_boilerplate)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 116 | 16 | 
+| 2022-11-06 | 131 | 17 | 
 | 2022-11-05 | 116 | 16 | 
 

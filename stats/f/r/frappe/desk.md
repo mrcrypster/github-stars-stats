@@ -1,10 +1,10 @@
 # frappe/desk - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 53
 
-★ Stars: 95
+★ Stars: 97
 
 [Open repository](https://github.com/frappe/desk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 97 | 53 | 
 | 2022-11-05 | 95 | 53 | 
 | 2022-11-04 | 95 | 53 | 
 | 2022-11-03 | 95 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 86 | 48 | 
 | 2022-10-09 | 86 | 48 | 
 | 2022-10-08 | 85 | 48 | 
-| 2022-10-07 | 83 | 48 | 
 

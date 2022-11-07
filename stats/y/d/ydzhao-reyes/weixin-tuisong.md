@@ -1,6 +1,6 @@
 # ydzhao-reyes/weixin-tuisong - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 71 | 88 | 
 | 2022-11-05 | 71 | 88 | 
 | 2022-11-04 | 71 | 88 | 
 | 2022-11-03 | 71 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 68 | 82 | 
 | 2022-10-09 | 68 | 82 | 
 | 2022-10-08 | 68 | 82 | 
-| 2022-10-07 | 68 | 82 | 
 

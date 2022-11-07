@@ -1,10 +1,10 @@
 # elastic/kibana - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 7491
+☋ Forks: 7493
 
-★ Stars: 17982
+★ Stars: 17984
 
 [Open repository](https://github.com/elastic/kibana)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 17984 | 7493 | 
 | 2022-11-05 | 17982 | 7491 | 
 | 2022-11-04 | 17982 | 7489 | 
 | 2022-11-03 | 17975 | 7488 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 17905 | 7440 | 
 | 2022-10-09 | 17902 | 7437 | 
 | 2022-10-08 | 17896 | 7437 | 
-| 2022-10-07 | 17896 | 7436 | 
 

@@ -1,10 +1,10 @@
 # JuliaData/DataFrames.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 339
 
-★ Stars: 1475
+★ Stars: 1477
 
 [Open repository](https://github.com/JuliaData/DataFrames.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1477 | 339 | 
 | 2022-11-05 | 1475 | 339 | 
 | 2022-11-04 | 1475 | 339 | 
 | 2022-11-03 | 1475 | 339 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1460 | 338 | 
 | 2022-10-09 | 1460 | 338 | 
 | 2022-10-08 | 1460 | 338 | 
-| 2022-10-07 | 1460 | 338 | 
 

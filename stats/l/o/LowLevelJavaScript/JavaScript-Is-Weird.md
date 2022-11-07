@@ -1,10 +1,10 @@
 # LowLevelJavaScript/JavaScript-Is-Weird - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 66
 
-★ Stars: 266
+★ Stars: 268
 
 [Open repository](https://github.com/LowLevelJavaScript/JavaScript-Is-Weird)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 268 | 66 | 
 | 2022-11-05 | 266 | 66 | 
 | 2022-11-04 | 266 | 66 | 
 | 2022-11-03 | 265 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 257 | 57 | 
 | 2022-10-09 | 257 | 57 | 
 | 2022-10-08 | 257 | 57 | 
-| 2022-10-07 | 257 | 57 | 
 

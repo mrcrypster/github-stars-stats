@@ -1,10 +1,10 @@
 # diego3g/jivia-godot - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/diego3g/jivia-godot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 46 | 1 | 
 | 2022-11-05 | 45 | 1 | 
 | 2022-11-04 | 45 | 1 | 
 | 2022-11-03 | 45 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 45 | 1 | 
 | 2022-10-10 | 45 | 1 | 
 | 2022-10-09 | 45 | 1 | 
-| 2022-10-07 | 45 | 1 | 
 

@@ -1,10 +1,10 @@
 # toruzz/SuperMarioLandDX - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 0
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/toruzz/SuperMarioLandDX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 31 | - | 
 | 2022-11-05 | 30 | - | 
 | 2022-11-04 | 30 | - | 
 | 2022-11-03 | 30 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 30 | - | 
 | 2022-10-09 | 30 | - | 
 | 2022-10-08 | 30 | - | 
-| 2022-10-07 | 30 | - | 
 

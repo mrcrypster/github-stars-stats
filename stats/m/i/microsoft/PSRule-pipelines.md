@@ -1,6 +1,6 @@
 # microsoft/PSRule-pipelines - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 53 | 15 | 
+| 2022-11-06 | 53 | 15 | 
 | 2022-11-05 | 53 | 15 | 
 | 2022-11-04 | 53 | 15 | 
 | 2022-11-03 | 52 | 15 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 50 | 14 | 
 | 2022-10-10 | 49 | 14 | 
 | 2022-10-09 | 49 | 14 | 
-| 2022-10-08 | 49 | 14 | 
 

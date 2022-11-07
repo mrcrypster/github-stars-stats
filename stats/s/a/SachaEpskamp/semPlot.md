@@ -1,10 +1,10 @@
 # SachaEpskamp/semPlot - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 19
 
-★ Stars: 58
+★ Stars: 57
 
 [Open repository](https://github.com/SachaEpskamp/semPlot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 57 | 19 | 
 | 2022-11-05 | 58 | 19 | 
 | 2022-11-04 | 58 | 19 | 
 | 2022-11-03 | 58 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 58 | 19 | 
 | 2022-10-09 | 58 | 19 | 
 | 2022-10-08 | 58 | 19 | 
-| 2022-10-07 | 58 | 19 | 
 

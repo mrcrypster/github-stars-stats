@@ -1,10 +1,10 @@
 # ashishpatel26/Andrew-NG-Notes - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 600
 
-★ Stars: 1390
+★ Stars: 1392
 
 [Open repository](https://github.com/ashishpatel26/Andrew-NG-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1392 | 600 | 
 | 2022-11-05 | 1390 | 600 | 
 | 2022-11-04 | 1390 | 600 | 
 | 2022-11-03 | 1390 | 600 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1334 | 584 | 
 | 2022-10-09 | 1334 | 584 | 
 | 2022-10-08 | 1332 | 583 | 
-| 2022-10-07 | 1330 | 583 | 
 

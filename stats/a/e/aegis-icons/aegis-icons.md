@@ -1,6 +1,6 @@
 # aegis-icons/aegis-icons - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 467 | 38 | 
 | 2022-11-05 | 467 | 38 | 
 | 2022-11-04 | 464 | 38 | 
 | 2022-11-03 | 464 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 448 | 37 | 
 | 2022-10-09 | 448 | 37 | 
 | 2022-10-08 | 447 | 37 | 
-| 2022-10-07 | 446 | 37 | 
 

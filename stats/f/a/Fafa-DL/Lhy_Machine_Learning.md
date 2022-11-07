@@ -1,6 +1,6 @@
 # Fafa-DL/Lhy_Machine_Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1053
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3069 | 1053 | 
 | 2022-11-05 | 3069 | 1053 | 
 | 2022-11-04 | 3064 | 1051 | 
 | 2022-11-03 | 3061 | 1051 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2937 | 1025 | 
 | 2022-10-09 | 2930 | 1023 | 
 | 2022-10-08 | 2927 | 1022 | 
-| 2022-10-07 | 2919 | 1022 | 
 

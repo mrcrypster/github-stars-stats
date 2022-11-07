@@ -1,6 +1,6 @@
 # jvallbona/exercici2 - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1 | 38 | 
 | 2022-11-05 | 1 | 38 | 
 | 2022-11-04 | 1 | 38 | 
 | 2022-11-03 | 1 | 38 | 

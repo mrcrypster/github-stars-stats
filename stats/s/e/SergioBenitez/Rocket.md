@@ -1,10 +1,10 @@
 # SergioBenitez/Rocket - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1346
 
-★ Stars: 18875
+★ Stars: 18889
 
 [Open repository](https://github.com/SergioBenitez/Rocket)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 18889 | 1346 | 
 | 2022-11-05 | 18875 | 1346 | 
 | 2022-11-04 | 18867 | 1346 | 
 | 2022-11-03 | 18862 | 1343 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 18640 | 1324 | 
 | 2022-10-09 | 18624 | 1323 | 
 | 2022-10-08 | 18607 | 1317 | 
-| 2022-10-07 | 18595 | 1317 | 
 

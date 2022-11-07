@@ -1,10 +1,10 @@
 # FrancescoXX/free-Web3-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 409
+☋ Forks: 412
 
-★ Stars: 2866
+★ Stars: 2868
 
 [Open repository](https://github.com/FrancescoXX/free-Web3-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2868 | 412 | 
 | 2022-11-05 | 2866 | 409 | 
 | 2022-11-04 | 2863 | 409 | 
 | 2022-11-03 | 2859 | 409 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2693 | 363 | 
 | 2022-10-09 | 2682 | 358 | 
 | 2022-10-08 | 2669 | 341 | 
-| 2022-10-07 | 2662 | 341 | 
 

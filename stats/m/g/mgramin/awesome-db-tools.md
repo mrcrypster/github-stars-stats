@@ -1,10 +1,10 @@
 # mgramin/awesome-db-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 190
+☋ Forks: 191
 
-★ Stars: 2381
+★ Stars: 2383
 
 [Open repository](https://github.com/mgramin/awesome-db-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2383 | 191 | 
 | 2022-11-05 | 2381 | 190 | 
 | 2022-11-04 | 2381 | 190 | 
 | 2022-11-03 | 2380 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2347 | 189 | 
 | 2022-10-09 | 2347 | 189 | 
 | 2022-10-08 | 2344 | 189 | 
-| 2022-10-07 | 2340 | 189 | 
 

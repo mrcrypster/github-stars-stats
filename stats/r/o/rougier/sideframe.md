@@ -1,6 +1,6 @@
 # rougier/sideframe - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 82 | 1 | 
 | 2022-11-05 | 82 | 1 | 
 | 2022-11-04 | 82 | 1 | 
 | 2022-11-03 | 82 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 78 | 1 | 
 | 2022-10-09 | 78 | 1 | 
 | 2022-10-08 | 77 | 1 | 
-| 2022-10-07 | 77 | 1 | 
 

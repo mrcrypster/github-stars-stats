@@ -1,10 +1,10 @@
 # madskristensen/RainbowBraces - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/madskristensen/RainbowBraces)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 83 | 5 | 
 | 2022-11-05 | 82 | 5 | 
 | 2022-11-04 | 81 | 5 | 
 | 2022-11-03 | 81 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 78 | 5 | 
 | 2022-10-09 | 78 | 5 | 
 | 2022-10-08 | 78 | 5 | 
-| 2022-10-07 | 76 | 5 | 
 

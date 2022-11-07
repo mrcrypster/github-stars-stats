@@ -1,8 +1,8 @@
 # google/btree - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 367
+☋ Forks: 368
 
 ★ Stars: 2953
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2953 | 368 | 
 | 2022-11-05 | 2953 | 367 | 
 | 2022-11-04 | 2952 | 367 | 
 | 2022-11-03 | 2951 | 367 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2938 | 364 | 
 | 2022-10-09 | 2938 | 364 | 
 | 2022-10-08 | 2938 | 364 | 
-| 2022-10-07 | 2935 | 364 | 
 

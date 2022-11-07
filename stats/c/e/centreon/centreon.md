@@ -1,10 +1,10 @@
 # centreon/centreon - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 260
 
-★ Stars: 581
+★ Stars: 582
 
 [Open repository](https://github.com/centreon/centreon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 582 | 260 | 
 | 2022-11-05 | 581 | 260 | 
 | 2022-11-04 | 581 | 260 | 
 | 2022-11-03 | 581 | 260 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 574 | 259 | 
 | 2022-10-09 | 574 | 259 | 
 | 2022-10-08 | 574 | 259 | 
-| 2022-10-07 | 574 | 259 | 
 

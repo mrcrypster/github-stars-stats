@@ -1,10 +1,10 @@
 # vuejs-translations/docs-zh-cn - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 825
+☋ Forks: 829
 
-★ Stars: 823
+★ Stars: 824
 
 [Open repository](https://github.com/vuejs-translations/docs-zh-cn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 824 | 829 | 
 | 2022-11-05 | 823 | 825 | 
 | 2022-11-04 | 822 | 821 | 
 | 2022-11-03 | 821 | 814 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 807 | 701 | 
 | 2022-10-09 | 805 | 696 | 
 | 2022-10-08 | 805 | 685 | 
-| 2022-10-07 | 805 | 676 | 
 

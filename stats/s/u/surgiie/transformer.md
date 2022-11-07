@@ -1,10 +1,10 @@
 # surgiie/transformer - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 104
+★ Stars: 105
 
 [Open repository](https://github.com/surgiie/transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 105 | 5 | 
 | 2022-11-05 | 104 | 5 | 
 | 2022-11-04 | 104 | 5 | 
 | 2022-11-03 | 103 | 5 | 

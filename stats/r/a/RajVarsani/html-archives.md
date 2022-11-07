@@ -1,8 +1,8 @@
 # RajVarsani/html-archives - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 113
+☋ Forks: 112
 
 ★ Stars: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 66 | 112 | 
 | 2022-11-05 | 66 | 113 | 
 | 2022-11-04 | 66 | 113 | 
 | 2022-11-03 | 66 | 113 | 

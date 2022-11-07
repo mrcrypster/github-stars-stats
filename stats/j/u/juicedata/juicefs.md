@@ -1,10 +1,10 @@
 # juicedata/juicefs - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 594
+☋ Forks: 596
 
-★ Stars: 6951
+★ Stars: 6954
 
 [Open repository](https://github.com/juicedata/juicefs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 6954 | 596 | 
 | 2022-11-05 | 6951 | 594 | 
 | 2022-11-04 | 6948 | 593 | 
 | 2022-11-03 | 6939 | 593 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 6779 | 579 | 
 | 2022-10-09 | 6772 | 579 | 
 | 2022-10-08 | 6766 | 576 | 
-| 2022-10-07 | 6760 | 573 | 
 

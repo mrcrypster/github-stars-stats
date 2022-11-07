@@ -1,10 +1,10 @@
 # PyCQA/bandit - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 487
 
-★ Stars: 4620
+★ Stars: 4622
 
 [Open repository](https://github.com/PyCQA/bandit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 4622 | 487 | 
 | 2022-11-05 | 4620 | 487 | 
 | 2022-11-04 | 4619 | 487 | 
 | 2022-11-03 | 4615 | 487 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 4551 | 483 | 
 | 2022-10-09 | 4549 | 483 | 
 | 2022-10-08 | 4545 | 483 | 
-| 2022-10-07 | 4541 | 482 | 
 

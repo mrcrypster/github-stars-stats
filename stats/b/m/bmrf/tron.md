@@ -1,10 +1,10 @@
 # bmrf/tron - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 282
 
-★ Stars: 3698
+★ Stars: 3701
 
 [Open repository](https://github.com/bmrf/tron)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3701 | 282 | 
 | 2022-11-05 | 3698 | 282 | 
 | 2022-11-04 | 3698 | 283 | 
 | 2022-11-03 | 3696 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 3678 | 284 | 
 | 2022-10-09 | 3676 | 283 | 
 | 2022-10-08 | 3676 | 283 | 
-| 2022-10-07 | 3672 | 283 | 
 

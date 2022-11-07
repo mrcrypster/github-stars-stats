@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 06
 
 ☋ Forks: 379
 
-★ Stars: 1894
+★ Stars: 1897
 
 [Open repository](https://github.com/casbin/jcasbin)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 1894 | 379 | 
+| 2022-11-06 | 1897 | 379 | 
 | 2022-11-05 | 1893 | 379 | 
 

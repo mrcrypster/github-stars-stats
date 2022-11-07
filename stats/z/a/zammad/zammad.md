@@ -1,6 +1,6 @@
 # zammad/zammad - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 622
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 3184 | 622 | 
 | 2022-11-05 | 3184 | 622 | 
 | 2022-11-04 | 3183 | 622 | 
 | 2022-11-03 | 3181 | 621 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 3150 | 613 | 
 | 2022-10-09 | 3149 | 612 | 
 | 2022-10-08 | 3147 | 612 | 
-| 2022-10-07 | 3145 | 611 | 
 

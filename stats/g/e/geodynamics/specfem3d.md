@@ -1,8 +1,8 @@
 # geodynamics/specfem3d - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 206
+☋ Forks: 207
 
 ★ Stars: 275
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 275 | 207 | 
 | 2022-11-06 | 275 | 206 | 
 | 2022-11-04 | 275 | 206 | 
 | 2022-11-03 | 274 | 206 | 

@@ -1,10 +1,10 @@
 # tonybaloney/vscode-pets - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 221
+☋ Forks: 220
 
-★ Stars: 1353
+★ Stars: 1358
 
 [Open repository](https://github.com/tonybaloney/vscode-pets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1358 | 220 | 
 | 2022-11-05 | 1353 | 221 | 
 | 2022-11-04 | 1353 | 222 | 
 | 2022-11-03 | 1351 | 221 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1145 | 158 | 
 | 2022-10-09 | 1114 | 139 | 
 | 2022-10-08 | 1035 | 138 | 
-| 2022-10-07 | 1026 | 134 | 
 

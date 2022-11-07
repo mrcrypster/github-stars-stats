@@ -1,6 +1,6 @@
 # syy11cn/hexo-theme-linear - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 32 | 4 | 
 | 2022-11-05 | 32 | 4 | 
 | 2022-11-04 | 32 | 4 | 
 | 2022-11-03 | 32 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 32 | 4 | 
 | 2022-10-10 | 32 | 4 | 
 | 2022-10-09 | 32 | 4 | 
-| 2022-10-08 | 32 | 4 | 
 

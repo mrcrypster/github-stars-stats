@@ -1,10 +1,10 @@
 # aheze/Popovers - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 38
 
-★ Stars: 819
+★ Stars: 820
 
 [Open repository](https://github.com/aheze/Popovers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 820 | 38 | 
 | 2022-11-05 | 819 | 38 | 
 | 2022-11-04 | 819 | 38 | 
 | 2022-11-03 | 815 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 782 | 36 | 
 | 2022-10-09 | 781 | 36 | 
 | 2022-10-08 | 780 | 36 | 
-| 2022-10-07 | 778 | 35 | 
 

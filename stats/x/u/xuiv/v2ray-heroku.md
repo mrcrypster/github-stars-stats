@@ -1,6 +1,6 @@
 # xuiv/v2ray-heroku - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 7 | 97 | 
 | 2022-11-05 | 7 | 97 | 
 | 2022-11-04 | 7 | 97 | 
 | 2022-11-03 | 7 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 7 | 94 | 
 | 2022-10-10 | 7 | 94 | 
 | 2022-10-09 | 7 | 94 | 
-| 2022-10-08 | 7 | 94 | 
 

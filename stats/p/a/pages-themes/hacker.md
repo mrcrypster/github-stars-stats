@@ -1,10 +1,10 @@
 # pages-themes/hacker - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 958
+☋ Forks: 957
 
-★ Stars: 670
+★ Stars: 672
 
 [Open repository](https://github.com/pages-themes/hacker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 672 | 957 | 
 | 2022-11-05 | 670 | 958 | 
 | 2022-11-04 | 669 | 958 | 
 | 2022-11-03 | 668 | 958 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 666 | 956 | 
 | 2022-10-09 | 666 | 956 | 
 | 2022-10-08 | 666 | 955 | 
-| 2022-10-07 | 666 | 954 | 
 

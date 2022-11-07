@@ -1,10 +1,10 @@
 # easychen/checkchan-dist - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 90
 
-★ Stars: 901
+★ Stars: 903
 
 [Open repository](https://github.com/easychen/checkchan-dist)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 903 | 90 | 
 | 2022-11-05 | 901 | 90 | 
 | 2022-11-04 | 901 | 90 | 
 | 2022-11-03 | 898 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 870 | 86 | 
 | 2022-10-10 | 869 | 85 | 
 | 2022-10-09 | 868 | 85 | 
-| 2022-10-08 | 867 | 85 | 
 

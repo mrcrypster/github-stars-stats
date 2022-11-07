@@ -1,10 +1,10 @@
 # tibordp/alumina - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 5
 
-★ Stars: 102
+★ Stars: 101
 
 [Open repository](https://github.com/tibordp/alumina)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 101 | 5 | 
 | 2022-11-05 | 102 | 5 | 
 | 2022-11-04 | 102 | 5 | 
 | 2022-11-03 | 102 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 97 | 4 | 
 | 2022-10-09 | 97 | 4 | 
 | 2022-10-08 | 97 | 4 | 
-| 2022-10-07 | 97 | 4 | 
 

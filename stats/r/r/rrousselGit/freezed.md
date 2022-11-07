@@ -1,6 +1,6 @@
 # rrousselGit/freezed - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1333 | 177 | 
 | 2022-11-05 | 1333 | 177 | 
 | 2022-11-04 | 1333 | 177 | 
 | 2022-11-03 | 1333 | 177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1306 | 179 | 
 | 2022-10-09 | 1306 | 179 | 
 | 2022-10-08 | 1303 | 179 | 
-| 2022-10-07 | 1303 | 179 | 
 

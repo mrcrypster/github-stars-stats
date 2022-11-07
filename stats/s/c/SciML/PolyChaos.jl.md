@@ -1,10 +1,10 @@
 # SciML/PolyChaos.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 23
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/SciML/PolyChaos.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 94 | 23 | 
 | 2022-11-05 | 93 | 23 | 
 | 2022-11-04 | 93 | 23 | 
 | 2022-11-03 | 93 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 85 | 21 | 
 | 2022-10-09 | 85 | 21 | 
 | 2022-10-08 | 85 | 21 | 
-| 2022-10-07 | 85 | 22 | 
 

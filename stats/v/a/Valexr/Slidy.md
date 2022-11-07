@@ -1,10 +1,10 @@
 # Valexr/Slidy - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 10
 
-★ Stars: 227
+★ Stars: 228
 
 [Open repository](https://github.com/Valexr/Slidy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 228 | 10 | 
 | 2022-11-05 | 227 | 10 | 
 | 2022-11-04 | 227 | 10 | 
 | 2022-11-03 | 227 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 219 | 10 | 
 | 2022-10-09 | 219 | 10 | 
 | 2022-10-08 | 218 | 10 | 
-| 2022-10-07 | 218 | 10 | 
 

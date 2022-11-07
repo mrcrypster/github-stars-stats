@@ -1,6 +1,6 @@
 # elixir-crawly/crawly - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 630 | 80 | 
 | 2022-11-05 | 630 | 80 | 
 | 2022-11-04 | 630 | 80 | 
 | 2022-11-03 | 630 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 624 | 78 | 
 | 2022-10-09 | 623 | 79 | 
 | 2022-10-08 | 623 | 79 | 
-| 2022-10-07 | 623 | 79 | 
 

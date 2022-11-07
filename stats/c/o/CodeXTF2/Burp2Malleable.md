@@ -1,6 +1,6 @@
 # CodeXTF2/Burp2Malleable - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 264 | 24 | 
 | 2022-11-05 | 264 | 24 | 
 | 2022-11-04 | 263 | 24 | 
 | 2022-11-03 | 262 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 243 | 22 | 
 | 2022-10-09 | 242 | 22 | 
 | 2022-10-08 | 241 | 22 | 
-| 2022-10-07 | 239 | 22 | 
 

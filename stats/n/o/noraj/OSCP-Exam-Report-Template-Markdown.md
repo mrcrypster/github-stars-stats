@@ -1,6 +1,6 @@
 # noraj/OSCP-Exam-Report-Template-Markdown - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 619
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2577 | 619 | 
 | 2022-11-05 | 2577 | 619 | 
 | 2022-11-04 | 2575 | 618 | 
 | 2022-11-03 | 2570 | 617 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2525 | 605 | 
 | 2022-10-09 | 2524 | 605 | 
 | 2022-10-08 | 2524 | 603 | 
-| 2022-10-07 | 2524 | 603 | 
 

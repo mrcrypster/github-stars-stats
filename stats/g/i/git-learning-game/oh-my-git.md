@@ -1,6 +1,6 @@
 # git-learning-game/oh-my-git - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1076 | 83 | 
 | 2022-11-05 | 1076 | 83 | 
 | 2022-11-04 | 1076 | 83 | 
 | 2022-11-03 | 1076 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1015 | 79 | 
 | 2022-10-09 | 1015 | 79 | 
 | 2022-10-08 | 1015 | 79 | 
-| 2022-10-07 | 1015 | 79 | 
 

@@ -1,6 +1,6 @@
 # matsuu/isucon12q - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 46 | 1 | 
 | 2022-11-05 | 46 | 1 | 
 | 2022-11-04 | 46 | 1 | 
 | 2022-11-03 | 46 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 46 | 1 | 
 | 2022-10-09 | 46 | 1 | 
 | 2022-10-08 | 46 | 1 | 
-| 2022-10-07 | 46 | 1 | 
 

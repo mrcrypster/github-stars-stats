@@ -1,6 +1,6 @@
 # nickytonline/connect-four - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 16
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 8 | 16 | 
+| 2022-11-06 | 8 | 16 | 
 | 2022-11-05 | 8 | 16 | 
 | 2022-11-04 | 8 | 16 | 
 | 2022-11-03 | 8 | 16 | 

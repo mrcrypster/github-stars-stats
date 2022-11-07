@@ -1,6 +1,6 @@
 # JuliaApproximation/ApproxFun.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 453 | 69 | 
 | 2022-11-05 | 453 | 69 | 
 | 2022-11-04 | 453 | 69 | 
 | 2022-11-03 | 453 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 443 | 67 | 
 | 2022-10-09 | 442 | 67 | 
 | 2022-10-08 | 441 | 67 | 
-| 2022-10-07 | 441 | 67 | 
 

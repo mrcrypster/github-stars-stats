@@ -1,6 +1,6 @@
 # stedolan/jq - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 1365
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 23487 | 1365 | 
 | 2022-11-05 | 23487 | 1365 | 
 | 2022-11-04 | 23483 | 1365 | 
 | 2022-11-03 | 23466 | 1364 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 23265 | 1358 | 
 | 2022-10-09 | 23258 | 1358 | 
 | 2022-10-08 | 23248 | 1357 | 
-| 2022-10-07 | 23244 | 1356 | 
 

@@ -1,10 +1,10 @@
 # janeczku/calibre-web - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 977
+☋ Forks: 978
 
-★ Stars: 7839
+★ Stars: 7845
 
 [Open repository](https://github.com/janeczku/calibre-web)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 7845 | 978 | 
 | 2022-11-05 | 7839 | 977 | 
 | 2022-11-04 | 7832 | 977 | 
 | 2022-11-03 | 7824 | 975 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 7658 | 965 | 
 | 2022-10-09 | 7648 | 964 | 
 | 2022-10-08 | 7632 | 962 | 
-| 2022-10-07 | 7595 | 961 | 
 

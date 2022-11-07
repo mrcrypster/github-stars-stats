@@ -1,10 +1,10 @@
 # stevearc/aerial.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 633
+★ Stars: 634
 
 [Open repository](https://github.com/stevearc/aerial.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 634 | 37 | 
 | 2022-11-05 | 633 | 36 | 
 | 2022-11-04 | 633 | 36 | 
 | 2022-11-03 | 631 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 587 | 32 | 
 | 2022-10-09 | 586 | 32 | 
 | 2022-10-08 | 583 | 32 | 
-| 2022-10-07 | 580 | 32 | 
 

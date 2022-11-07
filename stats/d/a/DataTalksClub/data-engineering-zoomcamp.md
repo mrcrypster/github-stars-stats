@@ -1,8 +1,8 @@
 # DataTalksClub/data-engineering-zoomcamp - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 1623
+☋ Forks: 1624
 
 ★ Stars: 6749
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 6749 | 1624 | 
 | 2022-11-05 | 6749 | 1623 | 
 | 2022-11-04 | 6741 | 1623 | 
 | 2022-11-03 | 6728 | 1621 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 6401 | 1565 | 
 | 2022-10-09 | 6383 | 1565 | 
 | 2022-10-08 | 6376 | 1562 | 
-| 2022-10-07 | 6367 | 1562 | 
 

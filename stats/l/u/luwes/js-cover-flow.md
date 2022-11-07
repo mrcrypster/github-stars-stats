@@ -1,6 +1,6 @@
 # luwes/js-cover-flow - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 109 | 38 | 
 | 2022-11-05 | 109 | 38 | 
 | 2022-11-04 | 109 | 38 | 
 | 2022-11-03 | 109 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 109 | 38 | 
 | 2022-10-09 | 109 | 38 | 
 | 2022-10-08 | 109 | 38 | 
-| 2022-10-07 | 109 | 38 | 
 

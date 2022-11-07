@@ -1,10 +1,10 @@
 # TheNetAdmin/zjuthesis - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 361
 
-★ Stars: 1506
+★ Stars: 1507
 
 [Open repository](https://github.com/TheNetAdmin/zjuthesis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1507 | 361 | 
 | 2022-11-05 | 1506 | 361 | 
 | 2022-11-04 | 1499 | 360 | 
 | 2022-11-03 | 1498 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1439 | 342 | 
 | 2022-10-09 | 1430 | 343 | 
 | 2022-10-08 | 1429 | 343 | 
-| 2022-10-07 | 1428 | 342 | 
 

@@ -1,10 +1,10 @@
 # getlantern/download - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 3051
 
-★ Stars: 16184
+★ Stars: 16190
 
 [Open repository](https://github.com/getlantern/download)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 16190 | 3051 | 
 | 2022-11-05 | 16184 | 3051 | 
 | 2022-11-04 | 16183 | 3051 | 
 | 2022-11-03 | 16179 | 3050 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 16114 | 3052 | 
 | 2022-10-09 | 16114 | 3051 | 
 | 2022-10-08 | 16111 | 3051 | 
-| 2022-10-07 | 16108 | 3052 | 
 

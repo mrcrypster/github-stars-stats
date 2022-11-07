@@ -1,10 +1,10 @@
 # equalsraf/neovim-qt - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 166
+☋ Forks: 165
 
-★ Stars: 1479
+★ Stars: 1478
 
 [Open repository](https://github.com/equalsraf/neovim-qt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 1478 | 165 | 
 | 2022-11-05 | 1479 | 166 | 
 | 2022-11-04 | 1479 | 166 | 
 | 2022-11-03 | 1478 | 166 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 1466 | 165 | 
 | 2022-10-09 | 1466 | 165 | 
 | 2022-10-08 | 1465 | 165 | 
-| 2022-10-07 | 1464 | 165 | 
 

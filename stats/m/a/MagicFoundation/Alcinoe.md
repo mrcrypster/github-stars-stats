@@ -1,6 +1,6 @@
 # MagicFoundation/Alcinoe - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 189
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 827 | 189 | 
 | 2022-11-05 | 827 | 189 | 
 | 2022-11-04 | 827 | 189 | 
 | 2022-11-03 | 827 | 189 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 820 | 186 | 
 | 2022-10-09 | 820 | 186 | 
 | 2022-10-08 | 819 | 186 | 
-| 2022-10-07 | 819 | 186 | 
 

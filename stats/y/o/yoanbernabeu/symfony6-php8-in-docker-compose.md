@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 06
 
 ☋ Forks: 44
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/yoanbernabeu/symfony6-php8-in-docker-compose)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-06 | 41 | 44 | 
+| 2022-11-06 | 42 | 44 | 
 | 2022-11-05 | 41 | 44 | 
 | 2022-11-04 | 41 | 43 | 
 | 2022-11-03 | 41 | 43 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 40 | 39 | 
 | 2022-10-09 | 40 | 39 | 
 | 2022-10-08 | 40 | 38 | 
-| 2022-10-07 | 40 | 38 | 
 

@@ -1,10 +1,10 @@
 # mohammedabdulbari/Java-SE - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
-☋ Forks: 198
+☋ Forks: 199
 
-★ Stars: 130
+★ Stars: 131
 
 [Open repository](https://github.com/mohammedabdulbari/Java-SE)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 131 | 199 | 
 | 2022-11-05 | 130 | 198 | 
 | 2022-11-04 | 130 | 198 | 
 | 2022-11-03 | 129 | 198 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-11 | 122 | 192 | 
 | 2022-10-10 | 121 | 191 | 
 | 2022-10-09 | 120 | 190 | 
-| 2022-10-08 | 120 | 190 | 
 

@@ -1,6 +1,6 @@
 # graphprotocol/graph-node - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 656
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 2245 | 656 | 
 | 2022-11-05 | 2245 | 656 | 
 | 2022-11-04 | 2242 | 656 | 
 | 2022-11-03 | 2239 | 657 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 2178 | 638 | 
 | 2022-10-09 | 2177 | 639 | 
 | 2022-10-08 | 2177 | 639 | 
-| 2022-10-07 | 2177 | 639 | 
 

@@ -1,6 +1,6 @@
 # Code-Pop/Real-World_Vue-3 - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 450
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 225 | 450 | 
 | 2022-11-06 | 225 | 450 | 
 | 2022-11-05 | 225 | 450 | 
 | 2022-11-03 | 225 | 450 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-10 | 225 | 446 | 
 | 2022-10-09 | 225 | 445 | 
 | 2022-10-08 | 225 | 445 | 
-| 2022-10-07 | 225 | 445 | 
 

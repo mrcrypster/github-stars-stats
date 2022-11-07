@@ -1,6 +1,6 @@
 # fifty-six/zig.SteamManifestPatcher - stars & forks statistics
 
-Stats updated on Nov 2022, 05
+Stats updated on Nov 2022, 06
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 05
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-06 | 113 | 14 | 
 | 2022-11-05 | 113 | 14 | 
 | 2022-11-04 | 113 | 14 | 
 | 2022-11-03 | 113 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 05
 | 2022-10-10 | 112 | 14 | 
 | 2022-10-09 | 112 | 14 | 
 | 2022-10-08 | 111 | 14 | 
-| 2022-10-07 | 111 | 14 | 
 
