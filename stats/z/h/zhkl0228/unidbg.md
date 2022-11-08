@@ -1,10 +1,10 @@
 # zhkl0228/unidbg - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 728
 
-★ Stars: 2355
+★ Stars: 2357
 
 [Open repository](https://github.com/zhkl0228/unidbg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2357 | 728 | 
 | 2022-11-07 | 2355 | 728 | 
 | 2022-11-05 | 2355 | 728 | 
 | 2022-11-04 | 2354 | 728 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 2318 | 720 | 
 | 2022-10-10 | 2316 | 720 | 
 | 2022-10-09 | 2313 | 720 | 
-| 2022-10-08 | 2311 | 719 | 
 

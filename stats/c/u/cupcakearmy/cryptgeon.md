@@ -1,10 +1,10 @@
 # cupcakearmy/cryptgeon - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 39
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/cupcakearmy/cryptgeon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 390 | 39 | 
 | 2022-11-06 | 389 | 39 | 
 | 2022-11-05 | 389 | 39 | 
 | 2022-11-04 | 388 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 375 | 38 | 
 | 2022-10-10 | 375 | 38 | 
 | 2022-10-09 | 374 | 38 | 
-| 2022-10-08 | 373 | 38 | 
 

@@ -1,6 +1,6 @@
 # nextail/pulpocon-data-pipelines - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 10 | 5 | 
 | 2022-11-06 | 10 | 5 | 
 | 2022-11-05 | 10 | 5 | 
 | 2022-11-04 | 10 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 10 | 4 | 
 | 2022-10-11 | 10 | 4 | 
 | 2022-10-10 | 10 | 4 | 
-| 2022-10-09 | 10 | 4 | 
 

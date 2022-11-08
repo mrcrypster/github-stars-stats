@@ -1,6 +1,6 @@
 # inket/Autoclick - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 206 | 294 | 
 | 2022-11-06 | 206 | 294 | 
 | 2022-11-05 | 206 | 294 | 
 | 2022-11-04 | 206 | 294 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 198 | 289 | 
 | 2022-10-10 | 197 | 289 | 
 | 2022-10-09 | 197 | 289 | 
-| 2022-10-08 | 196 | 286 | 
 

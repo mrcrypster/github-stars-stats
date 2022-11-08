@@ -1,10 +1,10 @@
 # codemistic/Data-Structures-and-Algorithms - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 332
+☋ Forks: 330
 
-★ Stars: 209
+★ Stars: 211
 
 [Open repository](https://github.com/codemistic/Data-Structures-and-Algorithms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 211 | 330 | 
 | 2022-11-06 | 209 | 332 | 
 | 2022-11-05 | 209 | 332 | 
 | 2022-11-04 | 209 | 334 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 209 | 348 | 
 | 2022-10-10 | 207 | 348 | 
 | 2022-10-09 | 203 | 351 | 
-| 2022-10-08 | 198 | 348 | 
 

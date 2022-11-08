@@ -1,10 +1,10 @@
 # poteto/hiring-without-whiteboards - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 2870
+☋ Forks: 2869
 
-★ Stars: 33353
+★ Stars: 33372
 
 [Open repository](https://github.com/poteto/hiring-without-whiteboards)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 33372 | 2869 | 
 | 2022-11-06 | 33353 | 2870 | 
 | 2022-11-05 | 33340 | 2869 | 
 | 2022-11-04 | 33292 | 2866 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 32348 | 2831 | 
 | 2022-10-11 | 32329 | 2827 | 
 | 2022-10-10 | 32306 | 2826 | 
-| 2022-10-09 | 32299 | 2827 | 
 

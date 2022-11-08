@@ -1,10 +1,10 @@
 # stefanwille/crystal-redis - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 61
 
-★ Stars: 374
+★ Stars: 375
 
 [Open repository](https://github.com/stefanwille/crystal-redis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 375 | 61 | 
 | 2022-11-06 | 374 | 61 | 
 | 2022-11-05 | 374 | 61 | 
 | 2022-11-04 | 374 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 374 | 60 | 
 | 2022-10-10 | 374 | 60 | 
 | 2022-10-09 | 373 | 60 | 
-| 2022-10-08 | 373 | 60 | 
 

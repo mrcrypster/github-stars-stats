@@ -1,10 +1,10 @@
 # SheerSt/pokewilds - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 87
+☋ Forks: 91
 
-★ Stars: 1038
+★ Stars: 1069
 
 [Open repository](https://github.com/SheerSt/pokewilds)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1069 | 91 | 
 | 2022-11-06 | 1038 | 87 | 
 | 2022-11-05 | 967 | 86 | 
 | 2022-11-04 | 861 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 458 | 57 | 
 | 2022-10-10 | 457 | 57 | 
 | 2022-10-09 | 457 | 57 | 
-| 2022-10-08 | 457 | 57 | 
 

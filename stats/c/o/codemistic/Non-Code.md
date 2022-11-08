@@ -1,8 +1,8 @@
 # codemistic/Non-Code - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 235
+☋ Forks: 233
 
 ★ Stars: 85
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 85 | 233 | 
 | 2022-11-06 | 85 | 235 | 
 | 2022-11-05 | 85 | 235 | 
 | 2022-11-04 | 85 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 47 | 138 | 
 | 2022-10-10 | 43 | 137 | 
 | 2022-10-09 | 43 | 136 | 
-| 2022-10-08 | 38 | 120 | 
 

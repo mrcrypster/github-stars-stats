@@ -1,10 +1,10 @@
 # diaspora/diaspora - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 2949
 
-★ Stars: 13160
+★ Stars: 13161
 
 [Open repository](https://github.com/diaspora/diaspora)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 13161 | 2949 | 
 | 2022-11-07 | 13160 | 2949 | 
 | 2022-11-06 | 13160 | 2949 | 
 | 2022-11-05 | 13156 | 2948 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 13131 | 2942 | 
 | 2022-10-11 | 13130 | 2943 | 
 | 2022-10-10 | 13127 | 2943 | 
-| 2022-10-09 | 13126 | 2944 | 
 

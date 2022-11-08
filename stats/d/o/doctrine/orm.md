@@ -1,10 +1,10 @@
 # doctrine/orm - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 2447
 
-★ Stars: 9392
+★ Stars: 9390
 
 [Open repository](https://github.com/doctrine/orm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 9390 | 2447 | 
 | 2022-11-06 | 9392 | 2447 | 
 | 2022-11-05 | 9392 | 2447 | 
 | 2022-11-04 | 9394 | 2448 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 9375 | 2440 | 
 | 2022-10-10 | 9373 | 2438 | 
 | 2022-10-09 | 9372 | 2438 | 
-| 2022-10-08 | 9372 | 2438 | 
 

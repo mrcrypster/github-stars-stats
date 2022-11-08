@@ -1,10 +1,10 @@
 # cryptoAlgorithm/Swiftcord - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 38
 
-★ Stars: 988
+★ Stars: 990
 
 [Open repository](https://github.com/cryptoAlgorithm/Swiftcord)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 990 | 38 | 
 | 2022-11-06 | 988 | 38 | 
 | 2022-11-05 | 986 | 38 | 
 | 2022-11-04 | 984 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 955 | 35 | 
 | 2022-10-10 | 952 | 35 | 
 | 2022-10-09 | 947 | 35 | 
-| 2022-10-08 | 945 | 35 | 
 

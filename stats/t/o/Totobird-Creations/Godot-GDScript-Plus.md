@@ -1,6 +1,6 @@
 # Totobird-Creations/Godot-GDScript-Plus - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 26 | 2 | 
 | 2022-11-06 | 26 | 2 | 
 | 2022-11-05 | 26 | 2 | 
 | 2022-11-04 | 26 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 24 | 2 | 
 | 2022-10-10 | 24 | 2 | 
 | 2022-10-09 | 24 | 2 | 
-| 2022-10-08 | 24 | 2 | 
 

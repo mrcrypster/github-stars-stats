@@ -1,10 +1,10 @@
 # meienberger/runtipi - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 98
 
-★ Stars: 4211
+★ Stars: 4215
 
 [Open repository](https://github.com/meienberger/runtipi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 4215 | 98 | 
 | 2022-11-06 | 4211 | 98 | 
 | 2022-11-05 | 4209 | 98 | 
 | 2022-11-04 | 4204 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 4115 | 84 | 
 | 2022-10-10 | 4112 | 84 | 
 | 2022-10-09 | 4106 | 84 | 
-| 2022-10-08 | 4097 | 82 | 
 

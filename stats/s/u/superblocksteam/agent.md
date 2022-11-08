@@ -1,6 +1,6 @@
 # superblocksteam/agent - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 28 | 2 | 
 | 2022-11-07 | 28 | 2 | 
 | 2022-11-05 | 28 | 2 | 
 | 2022-11-04 | 28 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 26 | 2 | 
 | 2022-10-10 | 26 | 2 | 
 | 2022-10-09 | 26 | 2 | 
-| 2022-10-08 | 25 | 2 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 07
 
 ☋ Forks: 54
 
-★ Stars: 115
+★ Stars: 116
 
 [Open repository](https://github.com/withastro/astro.build)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 115 | 54 | 
+| 2022-11-07 | 116 | 54 | 
 | 2022-11-05 | 114 | 54 | 
 | 2022-11-04 | 114 | 54 | 
 | 2022-11-03 | 114 | 53 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 101 | 49 | 
 | 2022-10-10 | 100 | 49 | 
 | 2022-10-09 | 98 | 49 | 
-| 2022-10-08 | 97 | 49 | 
 

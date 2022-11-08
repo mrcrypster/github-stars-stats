@@ -1,6 +1,6 @@
 # VitorAVPereira/projeto-videos-time-2 - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 4 | 10 | 
 | 2022-11-06 | 4 | 10 | 
 | 2022-11-05 | 4 | 10 | 
 | 2022-11-04 | 4 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 4 | 10 | 
 | 2022-10-11 | 4 | 10 | 
 | 2022-10-10 | 4 | 10 | 
-| 2022-10-08 | 4 | 10 | 
 

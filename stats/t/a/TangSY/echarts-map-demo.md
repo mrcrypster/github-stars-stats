@@ -1,10 +1,10 @@
 # TangSY/echarts-map-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 248
 
-★ Stars: 1045
+★ Stars: 1046
 
 [Open repository](https://github.com/TangSY/echarts-map-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1046 | 248 | 
 | 2022-11-06 | 1045 | 248 | 
 | 2022-11-05 | 1045 | 248 | 
 | 2022-11-04 | 1045 | 248 | 

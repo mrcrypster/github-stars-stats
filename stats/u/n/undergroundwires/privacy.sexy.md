@@ -1,10 +1,10 @@
 # undergroundwires/privacy.sexy - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 96
+☋ Forks: 98
 
-★ Stars: 1874
+★ Stars: 1877
 
 [Open repository](https://github.com/undergroundwires/privacy.sexy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1877 | 98 | 
 | 2022-11-06 | 1874 | 96 | 
 | 2022-11-05 | 1868 | 96 | 
 | 2022-11-04 | 1867 | 96 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1812 | 92 | 
 | 2022-10-10 | 1811 | 92 | 
 | 2022-10-09 | 1809 | 92 | 
-| 2022-10-08 | 1807 | 92 | 
 

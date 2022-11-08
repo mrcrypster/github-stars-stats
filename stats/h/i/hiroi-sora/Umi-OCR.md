@@ -1,10 +1,10 @@
 # hiroi-sora/Umi-OCR - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 285
+☋ Forks: 289
 
-★ Stars: 2479
+★ Stars: 2513
 
 [Open repository](https://github.com/hiroi-sora/Umi-OCR)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2513 | 289 | 
 | 2022-11-06 | 2479 | 285 | 
 | 2022-11-05 | 2466 | 283 | 
 | 2022-11-04 | 2441 | 277 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1670 | 180 | 
 | 2022-10-10 | 1667 | 180 | 
 | 2022-10-09 | 1656 | 180 | 
-| 2022-10-08 | 1627 | 178 | 
 

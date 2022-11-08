@@ -1,8 +1,8 @@
 # glpi-project/glpi - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 967
+☋ Forks: 969
 
 ★ Stars: 2878
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2878 | 969 | 
 | 2022-11-06 | 2878 | 967 | 
 | 2022-11-05 | 2877 | 967 | 
 | 2022-11-04 | 2872 | 967 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 2824 | 955 | 
 | 2022-10-10 | 2822 | 954 | 
 | 2022-10-09 | 2822 | 954 | 
-| 2022-10-08 | 2822 | 954 | 
 

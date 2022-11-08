@@ -1,6 +1,6 @@
 # apriya-ram/AXI_FIFO_BFM - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 3 | 31 | 
 | 2022-11-06 | 3 | 31 | 
 | 2022-11-05 | 3 | 31 | 
 | 2022-11-04 | 3 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3 | 31 | 
 | 2022-10-10 | 3 | 31 | 
 | 2022-10-09 | 2 | 31 | 
-| 2022-10-08 | 2 | 31 | 
 

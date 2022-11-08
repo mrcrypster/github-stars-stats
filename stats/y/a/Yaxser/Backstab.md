@@ -1,10 +1,10 @@
 # Yaxser/Backstab - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 1027
+★ Stars: 1028
 
 [Open repository](https://github.com/Yaxser/Backstab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1028 | 184 | 
 | 2022-11-06 | 1027 | 183 | 
 | 2022-11-05 | 1027 | 183 | 
 | 2022-11-04 | 1027 | 183 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 964 | 176 | 
 | 2022-10-10 | 963 | 176 | 
 | 2022-10-09 | 961 | 176 | 
-| 2022-10-08 | 959 | 176 | 
 

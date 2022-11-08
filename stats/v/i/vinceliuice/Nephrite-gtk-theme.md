@@ -1,6 +1,6 @@
 # vinceliuice/Nephrite-gtk-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 139 | 4 | 
 | 2022-11-06 | 139 | 4 | 
 | 2022-11-05 | 138 | 4 | 
 | 2022-11-04 | 138 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 132 | 2 | 
 | 2022-10-11 | 132 | 2 | 
 | 2022-10-10 | 132 | 2 | 
-| 2022-10-09 | 131 | 2 | 
 

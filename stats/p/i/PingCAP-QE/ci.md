@@ -1,8 +1,8 @@
 # PingCAP-QE/ci - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 74
+☋ Forks: 75
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 14 | 75 | 
 | 2022-11-06 | 14 | 74 | 
 | 2022-11-05 | 14 | 74 | 
 | 2022-11-04 | 14 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 13 | 71 | 
 | 2022-10-10 | 13 | 71 | 
 | 2022-10-09 | 13 | 71 | 
-| 2022-10-08 | 13 | 71 | 
 

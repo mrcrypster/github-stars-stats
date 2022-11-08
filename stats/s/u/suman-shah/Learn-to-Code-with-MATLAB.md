@@ -1,6 +1,6 @@
 # suman-shah/Learn-to-Code-with-MATLAB - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 50 | 57 | 
 | 2022-11-06 | 50 | 57 | 
 | 2022-11-05 | 50 | 57 | 
 | 2022-11-04 | 50 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 50 | 53 | 
 | 2022-10-10 | 50 | 53 | 
 | 2022-10-09 | 50 | 54 | 
-| 2022-10-08 | 50 | 54 | 
 

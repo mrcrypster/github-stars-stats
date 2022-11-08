@@ -1,10 +1,10 @@
 # adam-p/markdown-here - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 11117
+☋ Forks: 11120
 
-★ Stars: 57189
+★ Stars: 57195
 
 [Open repository](https://github.com/adam-p/markdown-here)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 57195 | 11120 | 
 | 2022-11-06 | 57189 | 11117 | 
 | 2022-11-05 | 57187 | 11120 | 
 | 2022-11-04 | 57173 | 11119 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 56897 | 11076 | 
 | 2022-10-10 | 56886 | 11075 | 
 | 2022-10-09 | 56884 | 11073 | 
-| 2022-10-08 | 56876 | 11071 | 
 

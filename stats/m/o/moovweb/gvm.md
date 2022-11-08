@@ -1,10 +1,10 @@
 # moovweb/gvm - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 440
 
-★ Stars: 7930
+★ Stars: 7932
 
 [Open repository](https://github.com/moovweb/gvm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 7932 | 440 | 
 | 2022-11-06 | 7930 | 440 | 
 | 2022-11-05 | 7928 | 440 | 
 | 2022-11-04 | 7926 | 440 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 7844 | 439 | 
 | 2022-10-10 | 7833 | 439 | 
 | 2022-10-09 | 7829 | 439 | 
-| 2022-10-08 | 7826 | 439 | 
 

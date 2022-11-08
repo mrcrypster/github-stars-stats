@@ -1,6 +1,6 @@
 # ybakos/se303_ex07_production_plan - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | - | 52 | 
 | 2022-11-07 | - | 52 | 
 | 2022-11-05 | - | 52 | 
 | 2022-11-04 | - | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | - | 52 | 
 | 2022-10-10 | - | 52 | 
 | 2022-10-09 | - | 52 | 
-| 2022-10-08 | - | 52 | 
 

@@ -1,10 +1,10 @@
 # JuliaDynamics/DrWatson.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 70
 
-★ Stars: 658
+★ Stars: 659
 
 [Open repository](https://github.com/JuliaDynamics/DrWatson.jl)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 658 | 70 | 
+| 2022-11-08 | 659 | 70 | 
+| 2022-11-07 | 659 | 70 | 
 | 2022-11-06 | 658 | 70 | 
 | 2022-11-05 | 657 | 70 | 
 | 2022-11-04 | 655 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 645 | 70 | 
 | 2022-10-10 | 645 | 70 | 
 | 2022-10-09 | 645 | 70 | 
-| 2022-10-08 | 645 | 70 | 
 

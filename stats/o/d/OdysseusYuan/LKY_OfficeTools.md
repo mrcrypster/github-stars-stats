@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 07
 
-☋ Forks: 1
+☋ Forks: 13
 
-★ Stars: 40
+★ Stars: 141
 
 [Open repository](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 40 | 1 | 
+| 2022-11-07 | 141 | 13 | 
 | 2022-11-06 | 39 | 1 | 
 | 2022-11-05 | 24 | 1 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 07
 
-☋ Forks: 16
+☋ Forks: 22
 
-★ Stars: 70
+★ Stars: 97
 
 [Open repository](https://github.com/Ben-love-zy/web-editor-markdown)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 70 | 16 | 
+| 2022-11-07 | 97 | 22 | 
 | 2022-11-06 | 63 | 16 | 
 

@@ -1,10 +1,10 @@
 # XTLS/Xray-core - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1726
 
-★ Stars: 10395
+★ Stars: 10402
 
 [Open repository](https://github.com/XTLS/Xray-core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 10402 | 1726 | 
 | 2022-11-06 | 10395 | 1726 | 
 | 2022-11-05 | 10382 | 1723 | 
 | 2022-11-04 | 10363 | 1721 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 9919 | 1669 | 
 | 2022-10-10 | 9899 | 1668 | 
 | 2022-10-09 | 9888 | 1666 | 
-| 2022-10-08 | 9880 | 1665 | 
 

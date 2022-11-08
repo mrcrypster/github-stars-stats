@@ -1,10 +1,10 @@
 # dart-lang/build - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 188
 
-★ Stars: 663
+★ Stars: 665
 
 [Open repository](https://github.com/dart-lang/build)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 665 | 188 | 
 | 2022-11-06 | 663 | 188 | 
 | 2022-11-05 | 663 | 188 | 
 | 2022-11-04 | 661 | 188 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 645 | 182 | 
 | 2022-10-10 | 645 | 182 | 
 | 2022-10-09 | 645 | 182 | 
-| 2022-10-08 | 645 | 182 | 
 

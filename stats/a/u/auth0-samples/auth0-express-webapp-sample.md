@@ -1,10 +1,10 @@
 # auth0-samples/auth0-express-webapp-sample - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 69
 
-★ Stars: 43
+★ Stars: 44
 
 [Open repository](https://github.com/auth0-samples/auth0-express-webapp-sample)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 44 | 69 | 
 | 2022-11-06 | 43 | 69 | 
 | 2022-11-05 | 43 | 69 | 
 | 2022-11-04 | 43 | 69 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 39 | 68 | 
 | 2022-10-11 | 39 | 68 | 
 | 2022-10-09 | 39 | 68 | 
-| 2022-10-08 | 39 | 68 | 
 

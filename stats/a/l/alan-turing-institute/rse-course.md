@@ -1,10 +1,10 @@
 # alan-turing-institute/rse-course - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 86
 
-★ Stars: 170
+★ Stars: 171
 
 [Open repository](https://github.com/alan-turing-institute/rse-course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 171 | 86 | 
 | 2022-11-06 | 170 | 86 | 
 | 2022-11-05 | 170 | 86 | 
 

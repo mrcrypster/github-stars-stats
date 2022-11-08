@@ -1,10 +1,10 @@
 # dongyuwei/hallelujahIM - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 111
 
-★ Stars: 1644
+★ Stars: 1645
 
 [Open repository](https://github.com/dongyuwei/hallelujahIM)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1645 | 111 | 
+| 2022-11-07 | 1645 | 111 | 
 | 2022-11-06 | 1644 | 111 | 
 | 2022-11-05 | 1644 | 111 | 
 | 2022-11-04 | 1643 | 110 | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1632 | 110 | 
 | 2022-10-10 | 1632 | 110 | 
 | 2022-10-09 | 1631 | 110 | 
-| 2022-10-08 | 1632 | 110 | 
 

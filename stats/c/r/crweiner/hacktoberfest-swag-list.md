@@ -1,10 +1,10 @@
 # crweiner/hacktoberfest-swag-list - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 528
 
-★ Stars: 1440
+★ Stars: 1441
 
 [Open repository](https://github.com/crweiner/hacktoberfest-swag-list)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1441 | 528 | 
 | 2022-11-06 | 1440 | 528 | 
 | 2022-11-05 | 1440 | 529 | 
 | 2022-11-04 | 1439 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1432 | 512 | 
 | 2022-10-10 | 1431 | 511 | 
 | 2022-10-09 | 1431 | 512 | 
-| 2022-10-08 | 1431 | 508 | 
 

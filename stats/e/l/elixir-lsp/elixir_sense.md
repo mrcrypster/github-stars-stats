@@ -1,10 +1,10 @@
 # elixir-lsp/elixir_sense - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 33
 
-★ Stars: 234
+★ Stars: 235
 
 [Open repository](https://github.com/elixir-lsp/elixir_sense)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 235 | 33 | 
 | 2022-11-06 | 234 | 33 | 
 | 2022-11-05 | 234 | 33 | 
 | 2022-11-04 | 234 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 231 | 32 | 
 | 2022-10-10 | 231 | 32 | 
 | 2022-10-09 | 231 | 32 | 
-| 2022-10-08 | 231 | 32 | 
 

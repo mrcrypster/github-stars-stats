@@ -1,10 +1,10 @@
 # magnars/expand-region.el - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 121
 
-★ Stars: 1203
+★ Stars: 1204
 
 [Open repository](https://github.com/magnars/expand-region.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1204 | 121 | 
 | 2022-11-06 | 1203 | 121 | 
 | 2022-11-05 | 1203 | 121 | 
 | 2022-11-04 | 1203 | 121 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1191 | 121 | 
 | 2022-10-10 | 1191 | 121 | 
 | 2022-10-09 | 1191 | 121 | 
-| 2022-10-08 | 1191 | 121 | 
 

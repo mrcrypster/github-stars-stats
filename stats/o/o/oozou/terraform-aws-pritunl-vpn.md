@@ -1,8 +1,8 @@
 # oozou/terraform-aws-pritunl-vpn - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 1
+☋ Forks: 0
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1 | - | 
 | 2022-11-06 | 1 | 1 | 
 | 2022-11-05 | 1 | 1 | 
 | 2022-11-04 | 1 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 1 | - | 
 | 2022-10-11 | 1 | - | 
 | 2022-10-10 | 1 | - | 
-| 2022-10-09 | 1 | - | 
 

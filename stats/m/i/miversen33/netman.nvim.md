@@ -1,10 +1,10 @@
 # miversen33/netman.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 140
+★ Stars: 141
 
 [Open repository](https://github.com/miversen33/netman.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 141 | - | 
 | 2022-11-06 | 140 | - | 
 | 2022-11-05 | 140 | - | 
 | 2022-11-04 | 140 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 95 | - | 
 | 2022-10-11 | 95 | - | 
 | 2022-10-10 | 95 | - | 
-| 2022-10-09 | 95 | - | 
 

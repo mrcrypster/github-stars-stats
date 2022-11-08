@@ -1,6 +1,6 @@
 # w3c/IntersectionObserver - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 572
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3602 | 572 | 
 | 2022-11-06 | 3602 | 572 | 
 | 2022-11-05 | 3602 | 572 | 
 | 2022-11-04 | 3602 | 572 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3597 | 572 | 
 | 2022-10-10 | 3596 | 572 | 
 | 2022-10-09 | 3596 | 572 | 
-| 2022-10-08 | 3595 | 574 | 
 

@@ -1,10 +1,10 @@
 # stacksimplify/aws-eks-kubernetes-masterclass - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 3374
+☋ Forks: 3381
 
-★ Stars: 623
+★ Stars: 625
 
 [Open repository](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 625 | 3381 | 
 | 2022-11-06 | 623 | 3374 | 
 | 2022-11-05 | 623 | 3372 | 
 | 2022-11-04 | 622 | 3368 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 599 | 3245 | 
 | 2022-10-10 | 599 | 3242 | 
 | 2022-10-09 | 598 | 3237 | 
-| 2022-10-08 | 598 | 3231 | 
 

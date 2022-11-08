@@ -1,6 +1,6 @@
 # udayvir-singh/tangerine.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 121 | 6 | 
 | 2022-11-06 | 121 | 6 | 
 | 2022-11-05 | 121 | 6 | 
 | 2022-11-04 | 121 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 114 | 7 | 
 | 2022-10-10 | 114 | 7 | 
 | 2022-10-09 | 114 | 7 | 
-| 2022-10-08 | 114 | 7 | 
 

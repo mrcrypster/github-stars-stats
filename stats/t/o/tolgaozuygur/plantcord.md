@@ -1,10 +1,10 @@
 # tolgaozuygur/plantcord - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 26
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/tolgaozuygur/plantcord)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 87 | 26 | 
 | 2022-11-06 | 86 | 26 | 
 | 2022-11-05 | 86 | 26 | 
 | 2022-11-04 | 86 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 85 | 26 | 
 | 2022-10-10 | 84 | 26 | 
 | 2022-10-09 | 84 | 26 | 
-| 2022-10-08 | 83 | 26 | 
 

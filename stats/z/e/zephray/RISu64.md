@@ -1,6 +1,6 @@
 # zephray/RISu64 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 34 | 5 | 
 | 2022-11-07 | 34 | 5 | 
 | 2022-11-05 | 34 | 5 | 
 | 2022-11-04 | 34 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 33 | 4 | 
 | 2022-10-10 | 33 | 4 | 
 | 2022-10-09 | 33 | 4 | 
-| 2022-10-08 | 33 | 4 | 
 

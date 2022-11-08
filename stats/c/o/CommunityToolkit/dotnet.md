@@ -1,10 +1,10 @@
 # CommunityToolkit/dotnet - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 106
 
-★ Stars: 1524
+★ Stars: 1532
 
 [Open repository](https://github.com/CommunityToolkit/dotnet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1532 | 106 | 
 | 2022-11-06 | 1524 | 106 | 
 | 2022-11-05 | 1523 | 106 | 
 | 2022-11-04 | 1517 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1458 | 103 | 
 | 2022-10-10 | 1452 | 102 | 
 | 2022-10-09 | 1450 | 102 | 
-| 2022-10-08 | 1447 | 102 | 
 

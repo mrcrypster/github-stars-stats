@@ -1,10 +1,10 @@
 # hashicorp/vault-helm - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 724
 
-★ Stars: 814
+★ Stars: 815
 
 [Open repository](https://github.com/hashicorp/vault-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 815 | 724 | 
 | 2022-11-06 | 814 | 724 | 
 | 2022-11-05 | 814 | 724 | 
 | 2022-11-04 | 814 | 724 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 800 | 716 | 
 | 2022-10-10 | 800 | 713 | 
 | 2022-10-09 | 800 | 712 | 
-| 2022-10-08 | 799 | 712 | 
 

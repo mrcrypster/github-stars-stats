@@ -1,10 +1,10 @@
 # QuiltMC/quilt-loader - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 52
 
-★ Stars: 265
+★ Stars: 268
 
 [Open repository](https://github.com/QuiltMC/quilt-loader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 268 | 52 | 
 | 2022-11-06 | 265 | 52 | 
 | 2022-11-05 | 263 | 50 | 
 | 2022-11-04 | 262 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 251 | 48 | 
 | 2022-10-10 | 251 | 48 | 
 | 2022-10-09 | 251 | 48 | 
-| 2022-10-08 | 251 | 48 | 
 

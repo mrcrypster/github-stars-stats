@@ -1,10 +1,10 @@
 # RobinLinus/snapdrop - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 1252
+☋ Forks: 1255
 
-★ Stars: 13783
+★ Stars: 13785
 
 [Open repository](https://github.com/RobinLinus/snapdrop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 13785 | 1255 | 
 | 2022-11-06 | 13783 | 1252 | 
 | 2022-11-05 | 13777 | 1252 | 
 | 2022-11-04 | 13768 | 1250 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 13551 | 1219 | 
 | 2022-10-10 | 13531 | 1219 | 
 | 2022-10-09 | 13525 | 1219 | 
-| 2022-10-08 | 13515 | 1220 | 
 

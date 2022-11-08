@@ -1,8 +1,8 @@
 # Meraz-IITBhilai/meraz22 - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | - | 6 | 
 | 2022-11-06 | - | 5 | 
 | 2022-11-05 | - | 5 | 
 | 2022-11-04 | - | 5 | 

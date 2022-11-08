@@ -1,10 +1,10 @@
 # tecosaur/emacs-config - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 119
 
-★ Stars: 853
+★ Stars: 855
 
 [Open repository](https://github.com/tecosaur/emacs-config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 855 | 119 | 
 | 2022-11-06 | 853 | 119 | 
 | 2022-11-05 | 853 | 119 | 
 | 2022-11-04 | 853 | 119 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 844 | 120 | 
 | 2022-10-10 | 843 | 120 | 
 | 2022-10-09 | 841 | 120 | 
-| 2022-10-08 | 841 | 120 | 
 

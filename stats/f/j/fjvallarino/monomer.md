@@ -1,6 +1,6 @@
 # fjvallarino/monomer - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 413 | 29 | 
 | 2022-11-07 | 413 | 29 | 
 | 2022-11-06 | 413 | 29 | 
 | 2022-11-05 | 412 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 406 | 27 | 
 | 2022-10-10 | 405 | 27 | 
 | 2022-10-09 | 405 | 27 | 
-| 2022-10-08 | 405 | 27 | 
 

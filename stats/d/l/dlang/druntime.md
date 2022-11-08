@@ -1,10 +1,10 @@
 # dlang/druntime - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 453
 
-★ Stars: 664
+★ Stars: 663
 
 [Open repository](https://github.com/dlang/druntime)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 663 | 453 | 
 | 2022-11-06 | 664 | 453 | 
 | 2022-11-05 | 664 | 453 | 
 | 2022-11-04 | 664 | 453 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 660 | 453 | 
 | 2022-10-10 | 660 | 453 | 
 | 2022-10-09 | 660 | 453 | 
-| 2022-10-08 | 660 | 453 | 
 

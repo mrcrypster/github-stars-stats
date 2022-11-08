@@ -1,6 +1,6 @@
 # matloff/fasteR - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 112
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 655 | 112 | 
 | 2022-11-06 | 655 | 112 | 
 | 2022-11-05 | 655 | 112 | 
 | 2022-11-04 | 655 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 633 | 113 | 
 | 2022-10-10 | 632 | 113 | 
 | 2022-10-09 | 631 | 113 | 
-| 2022-10-08 | 624 | 112 | 
 

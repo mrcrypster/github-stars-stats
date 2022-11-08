@@ -1,10 +1,10 @@
 # jupyter-naas/awesome-notebooks - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 268
+☋ Forks: 269
 
-★ Stars: 1717
+★ Stars: 1720
 
 [Open repository](https://github.com/jupyter-naas/awesome-notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1720 | 269 | 
 | 2022-11-06 | 1717 | 268 | 
 | 2022-11-05 | 1706 | 266 | 
 | 2022-11-04 | 1702 | 266 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 1393 | 219 | 
 | 2022-10-11 | 1392 | 218 | 
 | 2022-10-10 | 1390 | 218 | 
-| 2022-10-09 | 1388 | 217 | 
 

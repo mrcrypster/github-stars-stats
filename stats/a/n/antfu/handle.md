@@ -1,6 +1,6 @@
 # antfu/handle - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1014 | 140 | 
 | 2022-11-06 | 1014 | 140 | 
 | 2022-11-05 | 1013 | 140 | 
 | 2022-11-04 | 1013 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 996 | 138 | 
 | 2022-10-10 | 996 | 138 | 
 | 2022-10-09 | 995 | 138 | 
-| 2022-10-08 | 995 | 138 | 
 

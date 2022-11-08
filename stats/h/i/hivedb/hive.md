@@ -1,10 +1,10 @@
 # hivedb/hive - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 311
 
-★ Stars: 3286
+★ Stars: 3292
 
 [Open repository](https://github.com/hivedb/hive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3292 | 311 | 
 | 2022-11-06 | 3286 | 311 | 
 | 2022-11-05 | 3284 | 311 | 
 | 2022-11-04 | 3283 | 311 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3257 | 309 | 
 | 2022-10-10 | 3254 | 309 | 
 | 2022-10-09 | 3251 | 309 | 
-| 2022-10-08 | 3249 | 309 | 
 

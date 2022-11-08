@@ -1,10 +1,10 @@
 # hexops/mach-glfw - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 12
 
-★ Stars: 188
+★ Stars: 189
 
 [Open repository](https://github.com/hexops/mach-glfw)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 189 | 12 | 
 | 2022-11-06 | 188 | 12 | 
 | 2022-11-05 | 188 | 12 | 
 | 2022-11-04 | 188 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 186 | 11 | 
 | 2022-10-10 | 186 | 11 | 
 | 2022-10-09 | 186 | 11 | 
-| 2022-10-08 | 186 | 11 | 
 

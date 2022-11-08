@@ -1,10 +1,10 @@
 # ElementAI/picard - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 72
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/ElementAI/picard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 197 | 72 | 
 | 2022-11-06 | 196 | 72 | 
 | 2022-11-05 | 196 | 72 | 
 | 2022-11-04 | 196 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 192 | 67 | 
 | 2022-10-11 | 192 | 67 | 
 | 2022-10-10 | 192 | 67 | 
-| 2022-10-09 | 192 | 67 | 
 

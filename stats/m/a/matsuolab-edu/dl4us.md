@@ -1,6 +1,6 @@
 # matsuolab-edu/dl4us - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 232
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1013 | 232 | 
 | 2022-11-06 | 1013 | 232 | 
 | 2022-11-05 | 1013 | 232 | 
 | 2022-11-04 | 1013 | 232 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1009 | 231 | 
 | 2022-10-10 | 1009 | 231 | 
 | 2022-10-09 | 1009 | 231 | 
-| 2022-10-08 | 1009 | 231 | 
 

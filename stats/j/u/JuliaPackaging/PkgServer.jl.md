@@ -1,6 +1,6 @@
 # JuliaPackaging/PkgServer.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 33 | 13 | 
 | 2022-11-07 | 33 | 13 | 
 | 2022-11-05 | 33 | 13 | 
 | 2022-11-04 | 33 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 32 | 13 | 
 | 2022-10-10 | 32 | 13 | 
 | 2022-10-09 | 32 | 13 | 
-| 2022-10-08 | 32 | 13 | 
 

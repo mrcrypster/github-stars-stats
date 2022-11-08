@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 07
 
-☋ Forks: 210
+☋ Forks: 211
 
-★ Stars: 1928
+★ Stars: 1935
 
 [Open repository](https://github.com/midudev/preguntas-entrevista-react)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 1928 | 210 | 
+| 2022-11-07 | 1935 | 211 | 
 | 2022-11-06 | 1923 | 209 | 
 | 2022-11-05 | 1885 | 207 | 
 | 2022-11-04 | 1856 | 203 | 

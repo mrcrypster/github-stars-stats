@@ -1,10 +1,10 @@
 # TimTeaFan/loopurrr - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 48
+★ Stars: 49
 
 [Open repository](https://github.com/TimTeaFan/loopurrr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 49 | 1 | 
 | 2022-11-07 | 48 | 1 | 
 | 2022-11-06 | 48 | 1 | 
 | 2022-11-05 | 48 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 47 | 1 | 
 | 2022-10-10 | 47 | 1 | 
 | 2022-10-09 | 47 | 1 | 
-| 2022-10-08 | 47 | 1 | 
 

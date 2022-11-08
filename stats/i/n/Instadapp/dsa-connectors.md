@@ -1,10 +1,10 @@
 # Instadapp/dsa-connectors - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 64
 
-★ Stars: 57
+★ Stars: 58
 
 [Open repository](https://github.com/Instadapp/dsa-connectors)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 58 | 64 | 
 | 2022-11-06 | 57 | 64 | 
 | 2022-11-05 | 57 | 64 | 
 | 2022-11-04 | 57 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 57 | 63 | 
 | 2022-10-11 | 57 | 63 | 
 | 2022-10-10 | 57 | 63 | 
-| 2022-10-09 | 57 | 63 | 
 

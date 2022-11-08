@@ -1,10 +1,10 @@
 # DuskieWhy/Transparent-and-MultiWindow-FNF - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 13
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/DuskieWhy/Transparent-and-MultiWindow-FNF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 27 | 13 | 
 | 2022-11-06 | 26 | 13 | 
 | 2022-11-05 | 26 | 13 | 
 | 2022-11-04 | 26 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 20 | 6 | 
 | 2022-10-10 | 19 | 6 | 
 | 2022-10-09 | 19 | 6 | 
-| 2022-10-08 | 19 | 6 | 
 

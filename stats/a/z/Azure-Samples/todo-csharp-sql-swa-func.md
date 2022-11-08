@@ -1,8 +1,8 @@
 # Azure-Samples/todo-csharp-sql-swa-func - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 3
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3 | 2 | 
 | 2022-11-06 | 3 | 1 | 
 

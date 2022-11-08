@@ -1,6 +1,6 @@
 # colrdavidson/spall - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 38 | 2 | 
 | 2022-11-06 | 38 | 2 | 
 | 2022-11-05 | 38 | 2 | 
 | 2022-11-04 | 37 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 28 | 2 | 
 | 2022-10-10 | 27 | 2 | 
 | 2022-10-09 | 25 | 2 | 
-| 2022-10-08 | 24 | 2 | 
 

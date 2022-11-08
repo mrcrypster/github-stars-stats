@@ -1,10 +1,10 @@
 # smallnest/go_test_workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 22
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/smallnest/go_test_workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 94 | 22 | 
 | 2022-11-06 | 93 | 22 | 
 | 2022-11-05 | 93 | 22 | 
 | 2022-11-04 | 93 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 93 | 21 | 
 | 2022-10-10 | 93 | 21 | 
 | 2022-10-09 | 92 | 21 | 
-| 2022-10-08 | 91 | 20 | 
 

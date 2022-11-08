@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 07
 
 ☋ Forks: 9
 
-★ Stars: 81
+★ Stars: 88
 
 [Open repository](https://github.com/Haunted-Banshee/ErebusGate)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 81 | 9 | 
+| 2022-11-07 | 88 | 9 | 
 | 2022-11-06 | 80 | 9 | 
 | 2022-11-05 | 76 | 8 | 
 | 2022-11-04 | 76 | 8 | 

@@ -1,6 +1,6 @@
 # moment/moment - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 7120
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 47024 | 7120 | 
 | 2022-11-06 | 47024 | 7120 | 
 | 2022-11-05 | 47025 | 7120 | 
 | 2022-11-04 | 47022 | 7120 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 46961 | 7107 | 
 | 2022-10-10 | 46957 | 7107 | 
 | 2022-10-09 | 46957 | 7108 | 
-| 2022-10-08 | 46956 | 7108 | 
 

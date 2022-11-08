@@ -1,6 +1,6 @@
 # rstudio-conf-2022/get-started-shiny - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 25 | 14 | 
 | 2022-11-06 | 25 | 14 | 
 | 2022-11-05 | 25 | 14 | 
 | 2022-11-04 | 25 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 24 | 14 | 
 | 2022-10-11 | 24 | 14 | 
 | 2022-10-10 | 24 | 14 | 
-| 2022-10-09 | 24 | 14 | 
 

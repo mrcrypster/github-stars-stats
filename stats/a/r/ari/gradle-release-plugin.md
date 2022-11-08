@@ -1,6 +1,6 @@
 # ari/gradle-release-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 52 | 27 | 
 | 2022-11-06 | 52 | 27 | 
 | 2022-11-05 | 52 | 27 | 
 | 2022-11-04 | 52 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 52 | 27 | 
 | 2022-10-11 | 52 | 27 | 
 | 2022-10-10 | 52 | 27 | 
-| 2022-10-09 | 52 | 27 | 
 

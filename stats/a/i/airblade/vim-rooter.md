@@ -1,6 +1,6 @@
 # airblade/vim-rooter - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1075 | 72 | 
 | 2022-11-06 | 1075 | 72 | 
 | 2022-11-05 | 1076 | 72 | 
 | 2022-11-04 | 1076 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1067 | 72 | 
 | 2022-10-10 | 1067 | 72 | 
 | 2022-10-09 | 1064 | 72 | 
-| 2022-10-08 | 1064 | 72 | 
 

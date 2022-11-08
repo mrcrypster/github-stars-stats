@@ -1,6 +1,6 @@
 # liamg/dismember - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 291 | 21 | 
 | 2022-11-06 | 291 | 21 | 
 | 2022-11-05 | 291 | 21 | 
 | 2022-11-04 | 291 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 281 | 21 | 
 | 2022-10-11 | 280 | 21 | 
 | 2022-10-10 | 280 | 21 | 
-| 2022-10-09 | 280 | 21 | 
 

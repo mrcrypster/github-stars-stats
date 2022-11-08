@@ -1,6 +1,6 @@
 # andrejbauer/homotopy-type-theory-course - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 251 | 7 | 
 | 2022-11-06 | 251 | 7 | 
 | 2022-11-05 | 251 | 7 | 
 | 2022-11-04 | 251 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 251 | 7 | 
 | 2022-10-10 | 251 | 7 | 
 | 2022-10-09 | 251 | 7 | 
-| 2022-10-08 | 251 | 7 | 
 

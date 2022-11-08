@@ -1,10 +1,10 @@
 # priyankavergadia/google-cloud-4-words - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1505
 
-★ Stars: 7035
+★ Stars: 7039
 
 [Open repository](https://github.com/priyankavergadia/google-cloud-4-words)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 7039 | 1505 | 
 | 2022-11-06 | 7035 | 1505 | 
 | 2022-11-05 | 7035 | 1505 | 
 | 2022-11-04 | 7031 | 1504 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 6987 | 1488 | 
 | 2022-10-10 | 6983 | 1485 | 
 | 2022-10-09 | 6981 | 1483 | 
-| 2022-10-08 | 6967 | 1481 | 
 

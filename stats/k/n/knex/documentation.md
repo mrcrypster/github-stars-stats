@@ -1,6 +1,6 @@
 # knex/documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 135 | 192 | 
 | 2022-11-06 | 135 | 192 | 
 | 2022-11-05 | 135 | 192 | 
 | 2022-11-04 | 135 | 191 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 126 | 185 | 
 | 2022-10-10 | 126 | 185 | 
 | 2022-10-09 | 126 | 185 | 
-| 2022-10-08 | 124 | 185 | 
 

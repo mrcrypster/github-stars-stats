@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 07
 
 ☋ Forks: 9
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/sourcelocation/DebToIPA)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 210 | 9 | 
+| 2022-11-07 | 211 | 9 | 
 | 2022-11-06 | 210 | 9 | 
 | 2022-11-05 | 210 | 9 | 
 | 2022-11-04 | 204 | 8 | 

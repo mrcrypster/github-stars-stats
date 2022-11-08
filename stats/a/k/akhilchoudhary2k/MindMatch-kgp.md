@@ -1,8 +1,8 @@
 # akhilchoudhary2k/MindMatch-kgp - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 11
+☋ Forks: 10
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3 | 10 | 
 | 2022-11-06 | 3 | 11 | 
 | 2022-11-05 | 3 | 11 | 
 | 2022-11-04 | 3 | 11 | 

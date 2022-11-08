@@ -1,10 +1,10 @@
 # libp2p/rust-libp2p - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 604
 
-★ Stars: 2830
+★ Stars: 2832
 
 [Open repository](https://github.com/libp2p/rust-libp2p)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2832 | 604 | 
 | 2022-11-06 | 2830 | 604 | 
 | 2022-11-05 | 2829 | 604 | 
 | 2022-11-04 | 2826 | 601 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 2777 | 591 | 
 | 2022-10-10 | 2773 | 590 | 
 | 2022-10-09 | 2773 | 589 | 
-| 2022-10-08 | 2771 | 586 | 
 

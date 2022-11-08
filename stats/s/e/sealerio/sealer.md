@@ -1,10 +1,10 @@
 # sealerio/sealer - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 314
 
-★ Stars: 1694
+★ Stars: 1698
 
 [Open repository](https://github.com/sealerio/sealer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1698 | 314 | 
 | 2022-11-06 | 1694 | 314 | 
 | 2022-11-05 | 1693 | 314 | 
 | 2022-11-04 | 1693 | 314 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1672 | 311 | 
 | 2022-10-10 | 1671 | 311 | 
 | 2022-10-09 | 1671 | 311 | 
-| 2022-10-08 | 1671 | 310 | 
 

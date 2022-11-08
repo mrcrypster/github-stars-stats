@@ -1,10 +1,10 @@
 # solana-labs/solana-program-library - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 1280
+☋ Forks: 1281
 
-★ Stars: 2108
+★ Stars: 2110
 
 [Open repository](https://github.com/solana-labs/solana-program-library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2110 | 1281 | 
 | 2022-11-06 | 2108 | 1280 | 
 | 2022-11-05 | 2106 | 1280 | 
 | 2022-11-04 | 2106 | 1280 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 2090 | 1257 | 
 | 2022-10-10 | 2090 | 1257 | 
 | 2022-10-09 | 2089 | 1256 | 
-| 2022-10-08 | 2087 | 1256 | 
 

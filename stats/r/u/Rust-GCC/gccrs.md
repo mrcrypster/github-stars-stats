@@ -1,6 +1,6 @@
 # Rust-GCC/gccrs - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 88
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1753 | 88 | 
 | 2022-11-06 | 1753 | 88 | 
 | 2022-11-05 | 1752 | 88 | 
 | 2022-11-04 | 1752 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1719 | 85 | 
 | 2022-10-10 | 1716 | 85 | 
 | 2022-10-09 | 1713 | 83 | 
-| 2022-10-08 | 1712 | 82 | 
 

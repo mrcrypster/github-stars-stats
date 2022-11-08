@@ -1,6 +1,6 @@
 # zendesk/api_live_tests - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2 | 3 | 
 | 2022-11-06 | 2 | 3 | 
 | 2022-11-05 | 2 | 3 | 
 | 2022-11-04 | 2 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 2 | 3 | 
 | 2022-10-11 | 2 | 3 | 
 | 2022-10-10 | 2 | 3 | 
-| 2022-10-09 | 2 | 3 | 
 

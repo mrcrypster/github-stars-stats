@@ -1,10 +1,10 @@
 # athos/Postmortem - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 2
 
-★ Stars: 140
+★ Stars: 143
 
 [Open repository](https://github.com/athos/Postmortem)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 143 | 2 | 
 | 2022-11-06 | 140 | 2 | 
 | 2022-11-05 | 135 | 1 | 
 | 2022-11-04 | 135 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 135 | 1 | 
 | 2022-10-10 | 135 | 1 | 
 | 2022-10-09 | 135 | 1 | 
-| 2022-10-08 | 135 | 1 | 
 

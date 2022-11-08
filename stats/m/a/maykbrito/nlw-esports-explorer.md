@@ -1,8 +1,8 @@
 # maykbrito/nlw-esports-explorer - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 64
+☋ Forks: 61
 
 ★ Stars: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 87 | 61 | 
 | 2022-11-07 | 87 | 64 | 
 | 2022-11-05 | 86 | 61 | 
 | 2022-11-04 | 86 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 84 | 37 | 
 | 2022-10-10 | 84 | 37 | 
 | 2022-10-09 | 84 | 37 | 
-| 2022-10-08 | 84 | 37 | 
 

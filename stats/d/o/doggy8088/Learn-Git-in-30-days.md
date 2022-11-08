@@ -1,6 +1,6 @@
 # doggy8088/Learn-Git-in-30-days - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1894
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3364 | 1894 | 
 | 2022-11-06 | 3364 | 1894 | 
 | 2022-11-05 | 3364 | 1894 | 
 | 2022-11-04 | 3364 | 1893 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3355 | 1890 | 
 | 2022-10-10 | 3355 | 1889 | 
 | 2022-10-09 | 3354 | 1890 | 
-| 2022-10-08 | 3353 | 1889 | 
 

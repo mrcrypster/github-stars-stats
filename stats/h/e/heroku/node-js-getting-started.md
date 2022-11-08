@@ -1,10 +1,10 @@
 # heroku/node-js-getting-started - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 3717
+☋ Forks: 3719
 
-★ Stars: 1028
+★ Stars: 1029
 
 [Open repository](https://github.com/heroku/node-js-getting-started)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1029 | 3719 | 
 | 2022-11-06 | 1028 | 3717 | 
 | 2022-11-05 | 1028 | 3717 | 
 | 2022-11-04 | 1028 | 3716 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1019 | 3688 | 
 | 2022-10-10 | 1019 | 3688 | 
 | 2022-10-09 | 1019 | 3688 | 
-| 2022-10-08 | 1017 | 3689 | 
 

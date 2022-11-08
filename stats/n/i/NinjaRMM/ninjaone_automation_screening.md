@@ -1,10 +1,10 @@
 # NinjaRMM/ninjaone_automation_screening - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/NinjaRMM/ninjaone_automation_screening)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2 | 21 | 
 | 2022-11-06 | 1 | 19 | 
 | 2022-11-05 | 1 | 19 | 
 | 2022-11-04 | 1 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1 | 11 | 
 | 2022-10-10 | 1 | 10 | 
 | 2022-10-09 | 1 | 10 | 
-| 2022-10-08 | 1 | 10 | 
 

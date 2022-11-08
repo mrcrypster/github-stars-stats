@@ -1,10 +1,10 @@
 # Cryptocandy342/Pancakeswap-Sniper-Bot - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 67
 
-★ Stars: 84
+★ Stars: 85
 
 [Open repository](https://github.com/Cryptocandy342/Pancakeswap-Sniper-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 85 | 67 | 
 | 2022-11-06 | 84 | 67 | 
 | 2022-11-05 | 84 | 67 | 
 | 2022-11-04 | 84 | 67 | 

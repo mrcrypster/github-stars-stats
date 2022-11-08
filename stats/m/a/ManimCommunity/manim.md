@@ -1,10 +1,10 @@
 # ManimCommunity/manim - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 1022
+☋ Forks: 1023
 
-★ Stars: 11845
+★ Stars: 11855
 
 [Open repository](https://github.com/ManimCommunity/manim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 11855 | 1023 | 
 | 2022-11-06 | 11845 | 1022 | 
 | 2022-11-05 | 11831 | 1021 | 
 | 2022-11-04 | 11819 | 1019 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 11556 | 997 | 
 | 2022-10-10 | 11549 | 996 | 
 | 2022-10-09 | 11537 | 994 | 
-| 2022-10-08 | 11519 | 992 | 
 

@@ -1,10 +1,10 @@
 # seantallen-org/lori - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 4
 
-★ Stars: 10
+★ Stars: 12
 
 [Open repository](https://github.com/seantallen-org/lori)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 12 | 4 | 
 | 2022-11-06 | 10 | 4 | 
 | 2022-11-05 | 10 | 4 | 
 | 2022-11-04 | 10 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 9 | 4 | 
 | 2022-10-10 | 9 | 4 | 
 | 2022-10-09 | 9 | 4 | 
-| 2022-10-08 | 9 | 4 | 
 

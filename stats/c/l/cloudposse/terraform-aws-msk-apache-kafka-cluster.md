@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-msk-apache-kafka-cluster - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 52 | 72 | 
 | 2022-11-06 | 52 | 72 | 
 | 2022-11-05 | 52 | 72 | 
 | 2022-11-04 | 52 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 51 | 70 | 
 | 2022-10-11 | 51 | 70 | 
 | 2022-10-09 | 51 | 69 | 
-| 2022-10-08 | 51 | 69 | 
 

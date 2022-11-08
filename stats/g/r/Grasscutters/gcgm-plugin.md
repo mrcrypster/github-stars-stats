@@ -1,10 +1,10 @@
 # Grasscutters/gcgm-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 10
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/Grasscutters/gcgm-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 39 | 10 | 
 | 2022-11-06 | 38 | 10 | 
 | 2022-11-05 | 38 | 10 | 
 | 2022-11-04 | 38 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 37 | 10 | 
 | 2022-10-10 | 36 | 10 | 
 | 2022-10-09 | 36 | 10 | 
-| 2022-10-08 | 36 | 10 | 
 

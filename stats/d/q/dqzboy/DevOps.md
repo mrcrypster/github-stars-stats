@@ -1,6 +1,6 @@
 # dqzboy/DevOps - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 26 | 10 | 
 | 2022-11-07 | 26 | 10 | 
 | 2022-11-06 | 26 | 10 | 
 | 2022-11-05 | 26 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 25 | 10 | 
 | 2022-10-10 | 25 | 10 | 
 | 2022-10-09 | 25 | 10 | 
-| 2022-10-08 | 25 | 10 | 
 

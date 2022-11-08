@@ -1,10 +1,10 @@
 # LSPosed/LSPatch - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 143
+☋ Forks: 144
 
-★ Stars: 1604
+★ Stars: 1607
 
 [Open repository](https://github.com/LSPosed/LSPatch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1607 | 144 | 
 | 2022-11-06 | 1604 | 143 | 
 | 2022-11-05 | 1594 | 144 | 
 | 2022-11-04 | 1590 | 144 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1454 | 131 | 
 | 2022-10-10 | 1448 | 130 | 
 | 2022-10-09 | 1442 | 130 | 
-| 2022-10-08 | 1436 | 130 | 
 

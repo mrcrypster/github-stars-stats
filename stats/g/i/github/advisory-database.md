@@ -1,10 +1,10 @@
 # github/advisory-database - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 129
+☋ Forks: 130
 
-★ Stars: 1187
+★ Stars: 1189
 
 [Open repository](https://github.com/github/advisory-database)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1189 | 130 | 
 | 2022-11-06 | 1187 | 129 | 
 | 2022-11-05 | 1187 | 128 | 
 | 2022-11-04 | 1187 | 125 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1165 | 117 | 
 | 2022-10-10 | 1165 | 117 | 
 | 2022-10-09 | 1165 | 116 | 
-| 2022-10-08 | 1164 | 116 | 
 

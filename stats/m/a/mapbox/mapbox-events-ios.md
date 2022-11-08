@@ -1,10 +1,10 @@
 # mapbox/mapbox-events-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 37
 
-★ Stars: 21
+★ Stars: 20
 
 [Open repository](https://github.com/mapbox/mapbox-events-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 20 | 37 | 
 | 2022-11-06 | 21 | 37 | 
 | 2022-11-05 | 21 | 37 | 
 | 2022-11-04 | 21 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 21 | 37 | 
 | 2022-10-10 | 21 | 37 | 
 | 2022-10-09 | 21 | 37 | 
-| 2022-10-08 | 21 | 37 | 
 

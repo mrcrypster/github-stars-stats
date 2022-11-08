@@ -1,8 +1,8 @@
 # cpp-best-practices/gui_starter_template - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 427
+☋ Forks: 428
 
 ★ Stars: 2067
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2067 | 428 | 
 | 2022-11-06 | 2067 | 427 | 
 | 2022-11-05 | 2067 | 427 | 
 | 2022-11-04 | 2065 | 427 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 2046 | 423 | 
 | 2022-10-10 | 2043 | 423 | 
 | 2022-10-09 | 2041 | 423 | 
-| 2022-10-08 | 2041 | 423 | 
 

@@ -1,6 +1,6 @@
 # Rjndrkha/HacktoberFest_2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 37
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | - | 37 | 
 | 2022-11-06 | - | 37 | 
 | 2022-11-05 | - | 37 | 
 | 2022-11-04 | - | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 294 | 451 | 
 | 2022-10-10 | 287 | 437 | 
 | 2022-10-09 | 281 | 426 | 
-| 2022-10-08 | 269 | 412 | 
 

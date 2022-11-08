@@ -1,6 +1,6 @@
 # tidyverse/tidyr - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 394
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1191 | 394 | 
 | 2022-11-06 | 1191 | 394 | 
 | 2022-11-05 | 1190 | 394 | 
 | 2022-11-04 | 1189 | 394 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1184 | 394 | 
 | 2022-10-10 | 1183 | 394 | 
 | 2022-10-09 | 1182 | 394 | 
-| 2022-10-08 | 1182 | 395 | 
 

@@ -1,6 +1,6 @@
 # simonmichael/hledger - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 267
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 2202 | 267 | 
 | 2022-11-06 | 2202 | 267 | 
 | 2022-11-05 | 2199 | 267 | 
 | 2022-11-04 | 2195 | 266 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 2170 | 264 | 
 | 2022-10-10 | 2169 | 264 | 
 | 2022-10-09 | 2169 | 264 | 
-| 2022-10-08 | 2169 | 264 | 
 

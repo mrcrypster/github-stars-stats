@@ -1,10 +1,10 @@
 # Adzz/data_schema - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 6
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/Adzz/data_schema)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 50 | 6 | 
 | 2022-11-06 | 49 | 6 | 
 | 2022-11-05 | 49 | 6 | 
 | 2022-11-04 | 49 | 6 | 

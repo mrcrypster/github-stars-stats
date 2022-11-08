@@ -1,10 +1,10 @@
 # trekhleb/state-of-the-art-shitcode - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 234
 
-★ Stars: 3814
+★ Stars: 3817
 
 [Open repository](https://github.com/trekhleb/state-of-the-art-shitcode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3817 | 234 | 
 | 2022-11-06 | 3814 | 234 | 
 | 2022-11-05 | 3812 | 235 | 
 | 2022-11-04 | 3809 | 235 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3724 | 231 | 
 | 2022-10-10 | 3721 | 231 | 
 | 2022-10-09 | 3718 | 231 | 
-| 2022-10-08 | 3715 | 231 | 
 

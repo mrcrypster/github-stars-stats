@@ -1,6 +1,6 @@
 # viduraakalanka/HDL-Bits-Solutions - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 153 | 51 | 
 | 2022-11-06 | 153 | 51 | 
 | 2022-11-05 | 153 | 51 | 
 | 2022-11-04 | 153 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 146 | 46 | 
 | 2022-10-10 | 146 | 46 | 
 | 2022-10-09 | 145 | 46 | 
-| 2022-10-08 | 145 | 46 | 
 

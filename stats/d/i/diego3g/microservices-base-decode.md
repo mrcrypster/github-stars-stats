@@ -1,6 +1,6 @@
 # diego3g/microservices-base-decode - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 159 | 84 | 
 | 2022-11-06 | 159 | 84 | 
 | 2022-11-05 | 159 | 84 | 
 | 2022-11-04 | 159 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 156 | 84 | 
 | 2022-10-10 | 156 | 84 | 
 | 2022-10-09 | 156 | 84 | 
-| 2022-10-08 | 156 | 84 | 
 

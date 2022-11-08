@@ -1,10 +1,10 @@
 # files-community/Website - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 102
+☋ Forks: 104
 
-★ Stars: 223
+★ Stars: 224
 
 [Open repository](https://github.com/files-community/Website)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 224 | 104 | 
 | 2022-11-06 | 223 | 102 | 
 | 2022-11-05 | 222 | 102 | 
 | 2022-11-04 | 221 | 102 | 

@@ -1,10 +1,10 @@
 # naver/billboard.js - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 343
 
-★ Stars: 5391
+★ Stars: 5393
 
 [Open repository](https://github.com/naver/billboard.js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 5393 | 343 | 
 | 2022-11-06 | 5391 | 343 | 
 | 2022-11-05 | 5391 | 344 | 
 | 2022-11-04 | 5391 | 343 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 5363 | 338 | 
 | 2022-10-11 | 5361 | 338 | 
 | 2022-10-10 | 5360 | 338 | 
-| 2022-10-09 | 5357 | 338 | 
 

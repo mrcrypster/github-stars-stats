@@ -1,6 +1,6 @@
 # shaunsingh/oxocarbon.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 296 | 15 | 
 | 2022-11-06 | 296 | 15 | 
 | 2022-11-05 | 295 | 16 | 
 | 2022-11-04 | 295 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 276 | 11 | 
 | 2022-10-10 | 274 | 11 | 
 | 2022-10-09 | 271 | 11 | 
-| 2022-10-08 | 268 | 11 | 
 

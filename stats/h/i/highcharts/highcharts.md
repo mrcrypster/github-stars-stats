@@ -1,10 +1,10 @@
 # highcharts/highcharts - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 3146
+☋ Forks: 3147
 
-★ Stars: 10832
+★ Stars: 10833
 
 [Open repository](https://github.com/highcharts/highcharts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 10833 | 3147 | 
 | 2022-11-06 | 10832 | 3146 | 
 | 2022-11-05 | 10831 | 3146 | 
 | 2022-11-04 | 10828 | 3146 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 10781 | 3123 | 
 | 2022-10-10 | 10781 | 3121 | 
 | 2022-10-09 | 10781 | 3119 | 
-| 2022-10-08 | 10779 | 3118 | 
 

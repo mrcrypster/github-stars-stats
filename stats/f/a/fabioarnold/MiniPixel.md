@@ -1,8 +1,8 @@
 # fabioarnold/MiniPixel - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 3
+☋ Forks: 4
 
 ★ Stars: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 97 | 4 | 
 | 2022-11-06 | 97 | 3 | 
 | 2022-11-05 | 96 | 3 | 
 | 2022-11-04 | 96 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 91 | 3 | 
 | 2022-10-10 | 91 | 3 | 
 | 2022-10-09 | 91 | 3 | 
-| 2022-10-08 | 91 | 3 | 
 

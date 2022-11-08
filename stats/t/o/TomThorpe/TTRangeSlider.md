@@ -1,6 +1,6 @@
 # TomThorpe/TTRangeSlider - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 200
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 953 | 200 | 
 | 2022-11-06 | 953 | 200 | 
 | 2022-11-05 | 953 | 200 | 
 | 2022-11-04 | 953 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 953 | 201 | 
 | 2022-10-10 | 953 | 201 | 
 | 2022-10-09 | 953 | 201 | 
-| 2022-10-08 | 953 | 201 | 
 

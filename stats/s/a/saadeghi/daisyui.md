@@ -1,10 +1,10 @@
 # saadeghi/daisyui - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 619
+☋ Forks: 620
 
-★ Stars: 15299
+★ Stars: 15326
 
 [Open repository](https://github.com/saadeghi/daisyui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 15326 | 620 | 
 | 2022-11-06 | 15299 | 619 | 
 | 2022-11-05 | 15278 | 618 | 
 | 2022-11-04 | 15259 | 618 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 14763 | 595 | 
 | 2022-10-10 | 14740 | 596 | 
 | 2022-10-09 | 14719 | 592 | 
-| 2022-10-08 | 14700 | 592 | 
 

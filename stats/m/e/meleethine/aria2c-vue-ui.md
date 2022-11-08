@@ -1,6 +1,6 @@
 # meleethine/aria2c-vue-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 45 | 1 | 
 | 2022-11-06 | 45 | 1 | 
 | 2022-11-05 | 45 | 1 | 
 | 2022-11-04 | 45 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 45 | 1 | 
 | 2022-10-10 | 46 | 1 | 
 | 2022-10-09 | 46 | 1 | 
-| 2022-10-08 | 46 | 1 | 
 

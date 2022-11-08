@@ -1,10 +1,10 @@
 # VUnit/vunit - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 218
+☋ Forks: 219
 
-★ Stars: 563
+★ Stars: 564
 
 [Open repository](https://github.com/VUnit/vunit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 564 | 219 | 
 | 2022-11-06 | 563 | 218 | 
 | 2022-11-05 | 563 | 218 | 
 | 2022-11-04 | 562 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 560 | 214 | 
 | 2022-10-10 | 560 | 214 | 
 | 2022-10-09 | 560 | 214 | 
-| 2022-10-08 | 560 | 214 | 
 

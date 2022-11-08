@@ -1,10 +1,10 @@
 # margual56/radio-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 3
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/margual56/radio-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 95 | 3 | 
 | 2022-11-06 | 94 | 3 | 
 | 2022-11-05 | 94 | 3 | 
 | 2022-11-04 | 94 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 73 | 3 | 
 | 2022-10-10 | 73 | 3 | 
 | 2022-10-09 | 72 | 3 | 
-| 2022-10-08 | 72 | 3 | 
 

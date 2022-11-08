@@ -1,6 +1,6 @@
 # ORCx41/NoRunPI - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 153 | 30 | 
 | 2022-11-06 | 153 | 30 | 
 | 2022-11-05 | 151 | 30 | 
 | 2022-11-04 | 149 | 30 | 

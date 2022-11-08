@@ -1,10 +1,10 @@
 # php-amqplib/php-amqplib - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1010
 
-★ Stars: 4164
+★ Stars: 4165
 
 [Open repository](https://github.com/php-amqplib/php-amqplib)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 4165 | 1010 | 
 | 2022-11-06 | 4164 | 1010 | 
 | 2022-11-05 | 4163 | 1010 | 
 | 2022-11-04 | 4160 | 1009 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 4147 | 1008 | 
 | 2022-10-10 | 4146 | 1008 | 
 | 2022-10-09 | 4146 | 1009 | 
-| 2022-10-08 | 4146 | 1009 | 
 

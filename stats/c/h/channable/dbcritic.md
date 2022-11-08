@@ -1,6 +1,6 @@
 # channable/dbcritic - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 161 | 2 | 
 | 2022-11-06 | 161 | 2 | 
 | 2022-11-05 | 161 | 2 | 
 | 2022-11-04 | 161 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 159 | 2 | 
 | 2022-10-11 | 159 | 2 | 
 | 2022-10-10 | 159 | 2 | 
-| 2022-10-09 | 158 | 2 | 
 

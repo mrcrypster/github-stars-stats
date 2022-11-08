@@ -1,10 +1,10 @@
 # ilovexjp/ykm-simulator - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 73
+★ Stars: 79
 
 [Open repository](https://github.com/ilovexjp/ykm-simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 79 | - | 
 | 2022-11-06 | 73 | - | 
 | 2022-11-05 | 68 | - | 
 | 2022-11-04 | 61 | 1 | 

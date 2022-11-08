@@ -1,10 +1,10 @@
 # metaStor/SpringScan - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 38
 
-★ Stars: 372
+★ Stars: 374
 
 [Open repository](https://github.com/metaStor/SpringScan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 374 | 38 | 
 | 2022-11-06 | 372 | 38 | 
 | 2022-11-05 | 372 | 38 | 
 | 2022-11-04 | 372 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 358 | 38 | 
 | 2022-10-10 | 358 | 38 | 
 | 2022-10-09 | 358 | 38 | 
-| 2022-10-08 | 358 | 38 | 
 

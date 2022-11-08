@@ -1,10 +1,10 @@
 # uvm-plaid/programming-dp - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 106
+★ Stars: 109
 
 [Open repository](https://github.com/uvm-plaid/programming-dp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 109 | 46 | 
 | 2022-11-06 | 106 | 45 | 
 | 2022-11-05 | 104 | 44 | 
 | 2022-11-04 | 104 | 44 | 

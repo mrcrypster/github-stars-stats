@@ -1,10 +1,10 @@
 # owenmcateer/FlipDigits - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 5
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/owenmcateer/FlipDigits)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 37 | 5 | 
 | 2022-11-07 | 36 | 5 | 
 | 2022-11-06 | 36 | 5 | 
 | 2022-11-05 | 36 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 36 | 5 | 
 | 2022-10-10 | 36 | 5 | 
 | 2022-10-09 | 36 | 5 | 
-| 2022-10-08 | 36 | 5 | 
 

@@ -1,6 +1,6 @@
 # grailbio/bazel-compilation-database - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 376 | 102 | 
 | 2022-11-07 | 376 | 102 | 
 | 2022-11-06 | 376 | 102 | 
 | 2022-11-05 | 376 | 102 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 373 | 102 | 
 | 2022-10-10 | 373 | 102 | 
 | 2022-10-09 | 372 | 102 | 
-| 2022-10-08 | 372 | 102 | 
 

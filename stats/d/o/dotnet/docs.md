@@ -1,10 +1,10 @@
 # dotnet/docs - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 5387
+☋ Forks: 5388
 
-★ Stars: 3583
+★ Stars: 3584
 
 [Open repository](https://github.com/dotnet/docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3584 | 5388 | 
 | 2022-11-06 | 3583 | 5387 | 
 | 2022-11-05 | 3582 | 5384 | 
 | 2022-11-04 | 3581 | 5384 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 3564 | 5353 | 
 | 2022-10-10 | 3562 | 5348 | 
 | 2022-10-09 | 3562 | 5346 | 
-| 2022-10-08 | 3562 | 5344 | 
 

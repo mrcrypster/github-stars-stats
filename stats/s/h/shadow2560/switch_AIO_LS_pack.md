@@ -1,10 +1,10 @@
 # shadow2560/switch_AIO_LS_pack - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/shadow2560/switch_AIO_LS_pack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 15 | - | 
 | 2022-11-06 | 14 | - | 
 | 2022-11-05 | 14 | - | 
 | 2022-11-04 | 14 | - | 

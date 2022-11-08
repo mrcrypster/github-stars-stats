@@ -1,6 +1,6 @@
 # uheartbeast/astar-tilemap - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 41 | 9 | 
 | 2022-11-07 | 41 | 9 | 
 | 2022-11-05 | 41 | 9 | 
 | 2022-11-04 | 41 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-11 | 39 | 9 | 
 | 2022-10-10 | 39 | 9 | 
 | 2022-10-09 | 39 | 9 | 
-| 2022-10-08 | 39 | 9 | 
 

@@ -1,6 +1,6 @@
 # yearn/yearn-protocol - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 210
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 431 | 210 | 
 | 2022-11-06 | 431 | 210 | 
 | 2022-11-05 | 431 | 210 | 
 | 2022-11-04 | 431 | 210 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 429 | 210 | 
 | 2022-10-10 | 429 | 210 | 
 | 2022-10-09 | 429 | 210 | 
-| 2022-10-08 | 429 | 210 | 
 

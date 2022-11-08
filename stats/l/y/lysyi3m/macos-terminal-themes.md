@@ -1,10 +1,10 @@
 # lysyi3m/macos-terminal-themes - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 846
 
-★ Stars: 5205
+★ Stars: 5206
 
 [Open repository](https://github.com/lysyi3m/macos-terminal-themes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 5206 | 846 | 
 | 2022-11-06 | 5205 | 846 | 
 | 2022-11-05 | 5201 | 846 | 
 | 2022-11-04 | 5198 | 847 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 5160 | 849 | 
 | 2022-10-10 | 5158 | 849 | 
 | 2022-10-09 | 5156 | 848 | 
-| 2022-10-08 | 5155 | 848 | 
 

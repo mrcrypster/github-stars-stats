@@ -1,10 +1,10 @@
 # BentonEdmondson/knock - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 29
 
-★ Stars: 569
+★ Stars: 570
 
 [Open repository](https://github.com/BentonEdmondson/knock)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 570 | 29 | 
 | 2022-11-06 | 569 | 29 | 
 | 2022-11-05 | 566 | 29 | 
 | 2022-11-04 | 564 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 521 | 28 | 
 | 2022-10-10 | 513 | 28 | 
 | 2022-10-09 | 460 | 28 | 
-| 2022-10-08 | 460 | 28 | 
 

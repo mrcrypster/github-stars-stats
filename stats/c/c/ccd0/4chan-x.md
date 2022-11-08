@@ -1,10 +1,10 @@
 # ccd0/4chan-x - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 111
 
-★ Stars: 841
+★ Stars: 840
 
 [Open repository](https://github.com/ccd0/4chan-x)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 840 | 111 | 
 | 2022-11-06 | 841 | 111 | 
 | 2022-11-05 | 841 | 111 | 
 | 2022-11-04 | 841 | 111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 838 | 111 | 
 | 2022-10-10 | 837 | 111 | 
 | 2022-10-09 | 837 | 111 | 
-| 2022-10-08 | 837 | 111 | 
 

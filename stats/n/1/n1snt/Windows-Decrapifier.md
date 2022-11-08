@@ -1,6 +1,6 @@
 # n1snt/Windows-Decrapifier - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 240 | 48 | 
 | 2022-11-06 | 240 | 48 | 
 | 2022-11-05 | 240 | 48 | 
 | 2022-11-04 | 240 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 235 | 47 | 
 | 2022-10-10 | 236 | 47 | 
 | 2022-10-09 | 235 | 47 | 
-| 2022-10-08 | 235 | 47 | 
 

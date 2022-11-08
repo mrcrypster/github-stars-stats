@@ -1,10 +1,10 @@
 # hellojuantu/image_border_optimizer - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 41
+☋ Forks: 43
 
-★ Stars: 168
+★ Stars: 173
 
 [Open repository](https://github.com/hellojuantu/image_border_optimizer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 173 | 43 | 
 | 2022-11-06 | 168 | 41 | 
 | 2022-11-05 | 168 | 41 | 
 | 2022-11-04 | 167 | 41 | 

@@ -1,10 +1,10 @@
 # zachgoll/fullstack-roadmap-series - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 95
+☋ Forks: 96
 
-★ Stars: 630
+★ Stars: 635
 
 [Open repository](https://github.com/zachgoll/fullstack-roadmap-series)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 635 | 96 | 
 | 2022-11-06 | 630 | 95 | 
 | 2022-11-05 | 629 | 94 | 
 | 2022-11-04 | 628 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 566 | 82 | 
 | 2022-10-10 | 564 | 81 | 
 | 2022-10-09 | 562 | 80 | 
-| 2022-10-08 | 559 | 79 | 
 

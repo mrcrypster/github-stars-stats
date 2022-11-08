@@ -1,6 +1,6 @@
 # VincentWong3/automated-driving-control - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 202
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 379 | 202 | 
 | 2022-11-06 | 379 | 202 | 
 | 2022-11-05 | 379 | 202 | 
 | 2022-11-04 | 379 | 201 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 365 | 197 | 
 | 2022-10-10 | 364 | 197 | 
 | 2022-10-09 | 364 | 197 | 
-| 2022-10-08 | 364 | 197 | 
 

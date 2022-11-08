@@ -1,10 +1,10 @@
 # griffithlab/rnaseq_tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 606
 
-★ Stars: 1195
+★ Stars: 1196
 
 [Open repository](https://github.com/griffithlab/rnaseq_tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1196 | 606 | 
 | 2022-11-06 | 1195 | 606 | 
 | 2022-11-05 | 1195 | 606 | 
 | 2022-11-04 | 1195 | 606 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1192 | 607 | 
 | 2022-10-10 | 1192 | 607 | 
 | 2022-10-09 | 1191 | 606 | 
-| 2022-10-08 | 1191 | 606 | 
 

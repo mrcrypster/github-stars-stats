@@ -1,6 +1,6 @@
 # chmykh/apl-life - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 68 | 3 | 
 | 2022-11-06 | 68 | 3 | 
 | 2022-11-05 | 68 | 3 | 
 | 2022-11-04 | 68 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 68 | 3 | 
 | 2022-10-10 | 68 | 3 | 
 | 2022-10-09 | 68 | 3 | 
-| 2022-10-08 | 68 | 3 | 
 

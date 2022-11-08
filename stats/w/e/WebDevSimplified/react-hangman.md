@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 07
 
 ☋ Forks: 17
 
-★ Stars: 18
+★ Stars: 22
 
 [Open repository](https://github.com/WebDevSimplified/react-hangman)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 18 | 17 | 
+| 2022-11-07 | 22 | 17 | 
 | 2022-11-06 | 18 | 17 | 
 

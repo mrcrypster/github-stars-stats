@@ -1,10 +1,10 @@
 # FongMi/TV - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 373
+☋ Forks: 375
 
-★ Stars: 244
+★ Stars: 246
 
 [Open repository](https://github.com/FongMi/TV)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 246 | 375 | 
 | 2022-11-06 | 244 | 373 | 
 | 2022-11-05 | 243 | 373 | 
 | 2022-11-04 | 242 | 371 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 209 | 352 | 
 | 2022-10-10 | 209 | 352 | 
 | 2022-10-09 | 209 | 352 | 
-| 2022-10-08 | 208 | 352 | 
 

@@ -1,8 +1,8 @@
 # lemmoor/jigsaw-svelte - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 7
+☋ Forks: 6
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 3 | 6 | 
 | 2022-11-06 | 3 | 7 | 
 | 2022-11-05 | 3 | 6 | 
 | 2022-11-04 | 3 | 6 | 

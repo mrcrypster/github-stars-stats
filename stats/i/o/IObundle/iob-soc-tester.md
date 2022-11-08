@@ -1,10 +1,10 @@
 # IObundle/iob-soc-tester - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/IObundle/iob-soc-tester)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 4 | 1 | 
 | 2022-11-06 | 3 | 1 | 
 | 2022-11-05 | 3 | 1 | 
 | 2022-11-04 | 3 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | - | 1 | 
 | 2022-10-10 | - | 1 | 
 | 2022-10-09 | - | 1 | 
-| 2022-10-08 | - | 1 | 
 

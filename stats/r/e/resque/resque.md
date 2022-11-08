@@ -1,10 +1,10 @@
 # resque/resque - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 1669
+☋ Forks: 1670
 
-★ Stars: 9207
+★ Stars: 9208
 
 [Open repository](https://github.com/resque/resque)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 9208 | 1670 | 
 | 2022-11-06 | 9207 | 1669 | 
 | 2022-11-05 | 9207 | 1669 | 
 | 2022-11-04 | 9207 | 1669 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 9195 | 1664 | 
 | 2022-10-10 | 9193 | 1664 | 
 | 2022-10-09 | 9192 | 1663 | 
-| 2022-10-08 | 9192 | 1663 | 
 

@@ -1,10 +1,10 @@
 # MohamedRadwan-DevOps/devops-step-by-step - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 08
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 593
+★ Stars: 594
 
 [Open repository](https://github.com/MohamedRadwan-DevOps/devops-step-by-step)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 594 | 141 | 
 | 2022-11-06 | 593 | 140 | 
 | 2022-11-05 | 593 | 139 | 
 | 2022-11-04 | 593 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 587 | 134 | 
 | 2022-10-10 | 587 | 134 | 
 | 2022-10-09 | 585 | 134 | 
-| 2022-10-08 | 585 | 134 | 
 

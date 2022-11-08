@@ -1,10 +1,10 @@
 # StackExchange/StackExchange.Redis - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 1439
 
-★ Stars: 5352
+★ Stars: 5353
 
 [Open repository](https://github.com/StackExchange/StackExchange.Redis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 5353 | 1439 | 
 | 2022-11-06 | 5352 | 1439 | 
 | 2022-11-05 | 5351 | 1439 | 
 | 2022-11-04 | 5351 | 1439 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 5319 | 1431 | 
 | 2022-10-11 | 5317 | 1430 | 
 | 2022-10-10 | 5317 | 1430 | 
-| 2022-10-09 | 5316 | 1430 | 
 

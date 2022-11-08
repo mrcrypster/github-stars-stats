@@ -1,10 +1,10 @@
 # oh-my-fish/oh-my-fish - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 795
+☋ Forks: 797
 
-★ Stars: 8911
+★ Stars: 8915
 
 [Open repository](https://github.com/oh-my-fish/oh-my-fish)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 8915 | 797 | 
 | 2022-11-06 | 8911 | 795 | 
 | 2022-11-05 | 8906 | 795 | 
 | 2022-11-04 | 8904 | 795 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 8832 | 785 | 
 | 2022-10-10 | 8831 | 785 | 
 | 2022-10-09 | 8831 | 785 | 
-| 2022-10-08 | 8832 | 784 | 
 

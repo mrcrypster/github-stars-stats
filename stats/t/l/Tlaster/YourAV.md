@@ -1,6 +1,6 @@
 # Tlaster/YourAV - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 101
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1196 | 101 | 
 | 2022-11-06 | 1196 | 101 | 
 | 2022-11-05 | 1196 | 101 | 
 | 2022-11-04 | 1195 | 101 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 1174 | 99 | 
 | 2022-10-11 | 1174 | 99 | 
 | 2022-10-10 | 1174 | 99 | 
-| 2022-10-08 | 1174 | 99 | 
 

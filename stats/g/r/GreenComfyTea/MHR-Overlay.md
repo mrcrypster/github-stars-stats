@@ -1,6 +1,6 @@
 # GreenComfyTea/MHR-Overlay - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 52 | 22 | 
 | 2022-11-06 | 52 | 22 | 
 | 2022-11-05 | 52 | 22 | 
 | 2022-11-04 | 52 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-12 | 51 | 22 | 
 | 2022-10-10 | 51 | 22 | 
 | 2022-10-09 | 50 | 22 | 
-| 2022-10-08 | 50 | 22 | 
 

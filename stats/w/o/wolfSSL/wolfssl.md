@@ -1,10 +1,10 @@
 # wolfSSL/wolfssl - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
 ☋ Forks: 653
 
-★ Stars: 1757
+★ Stars: 1758
 
 [Open repository](https://github.com/wolfSSL/wolfssl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 1758 | 653 | 
 | 2022-11-06 | 1757 | 653 | 
 | 2022-11-05 | 1757 | 653 | 
 | 2022-11-04 | 1755 | 653 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 1726 | 645 | 
 | 2022-10-10 | 1724 | 645 | 
 | 2022-10-09 | 1723 | 645 | 
-| 2022-10-08 | 1720 | 644 | 
 

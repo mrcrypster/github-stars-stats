@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 07
 
 ☋ Forks: 0
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/filtron/MarkovKernels.jl)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-07 | 4 | - | 
+| 2022-11-07 | 5 | - | 
 | 2022-11-06 | 4 | - | 
 

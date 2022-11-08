@@ -1,6 +1,6 @@
 # chrovis/cljam - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 83 | 11 | 
 | 2022-11-06 | 83 | 11 | 
 | 2022-11-05 | 83 | 11 | 
 | 2022-11-04 | 83 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 83 | 11 | 
 | 2022-10-10 | 83 | 11 | 
 | 2022-10-09 | 83 | 11 | 
-| 2022-10-08 | 83 | 11 | 
 

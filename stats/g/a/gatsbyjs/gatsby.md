@@ -1,10 +1,10 @@
 # gatsbyjs/gatsby - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 10463
+☋ Forks: 10465
 
-★ Stars: 53755
+★ Stars: 53757
 
 [Open repository](https://github.com/gatsbyjs/gatsby)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 53757 | 10465 | 
 | 2022-11-06 | 53755 | 10463 | 
 | 2022-11-05 | 53751 | 10464 | 
 | 2022-11-04 | 53746 | 10462 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 53634 | 10448 | 
 | 2022-10-10 | 53626 | 10442 | 
 | 2022-10-09 | 53619 | 10444 | 
-| 2022-10-08 | 53616 | 10445 | 
 

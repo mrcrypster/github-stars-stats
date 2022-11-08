@@ -1,10 +1,10 @@
 # apache/rocketmq-externals - stars & forks statistics
 
-Stats updated on Nov 2022, 06
+Stats updated on Nov 2022, 07
 
-☋ Forks: 3032
+☋ Forks: 3033
 
-★ Stars: 4310
+★ Stars: 4311
 
 [Open repository](https://github.com/apache/rocketmq-externals)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 06
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-07 | 4311 | 3033 | 
 | 2022-11-06 | 4310 | 3032 | 
 | 2022-11-05 | 4309 | 3032 | 
 | 2022-11-04 | 4308 | 3032 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 06
 | 2022-10-11 | 4291 | 3030 | 
 | 2022-10-10 | 4291 | 3029 | 
 | 2022-10-09 | 4287 | 3030 | 
-| 2022-10-08 | 4286 | 3031 | 
 
