@@ -1,10 +1,10 @@
 # helium/blockchain-etl - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 39
 
-★ Stars: 62
+★ Stars: 63
 
 [Open repository](https://github.com/helium/blockchain-etl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 63 | 39 | 
 | 2022-11-07 | 62 | 39 | 
 | 2022-11-06 | 62 | 39 | 
 | 2022-11-05 | 62 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 60 | 39 | 
 | 2022-10-11 | 60 | 39 | 
 | 2022-10-10 | 60 | 39 | 
-| 2022-10-09 | 60 | 39 | 
 

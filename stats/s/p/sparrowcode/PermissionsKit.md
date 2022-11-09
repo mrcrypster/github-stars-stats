@@ -1,10 +1,10 @@
 # sparrowcode/PermissionsKit - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 417
 
-★ Stars: 5052
+★ Stars: 5057
 
 [Open repository](https://github.com/sparrowcode/PermissionsKit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 5057 | 417 | 
 | 2022-11-07 | 5052 | 417 | 
 | 2022-11-06 | 5048 | 416 | 
 | 2022-11-05 | 5045 | 414 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 5027 | 413 | 
 | 2022-10-11 | 5027 | 413 | 
 | 2022-10-10 | 5025 | 412 | 
-| 2022-10-09 | 5025 | 412 | 
 

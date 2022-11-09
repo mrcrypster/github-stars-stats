@@ -1,10 +1,10 @@
 # automl/TabPFN - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 518
+★ Stars: 523
 
 [Open repository](https://github.com/automl/TabPFN)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 523 | 32 | 
 | 2022-11-07 | 518 | 31 | 
 | 2022-11-06 | 514 | 30 | 
 | 2022-11-05 | 511 | 30 | 

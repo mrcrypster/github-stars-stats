@@ -1,8 +1,8 @@
 # Autodesk/maya-usd - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 167
+☋ Forks: 168
 
 ★ Stars: 557
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 557 | 168 | 
 | 2022-11-07 | 557 | 167 | 
 | 2022-11-06 | 557 | 167 | 
 | 2022-11-05 | 557 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 545 | 166 | 
 | 2022-10-11 | 545 | 166 | 
 | 2022-10-10 | 545 | 166 | 
-| 2022-10-09 | 545 | 166 | 
 

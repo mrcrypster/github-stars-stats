@@ -1,10 +1,10 @@
 # LedgerHQ/ledger-live - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 127
 
-★ Stars: 138
+★ Stars: 140
 
 [Open repository](https://github.com/LedgerHQ/ledger-live)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 140 | 127 | 
 | 2022-11-07 | 138 | 127 | 
 | 2022-11-06 | 136 | 128 | 
 | 2022-11-05 | 136 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 125 | 114 | 
 | 2022-10-11 | 125 | 114 | 
 | 2022-10-10 | 124 | 114 | 
-| 2022-10-09 | 121 | 114 | 
 

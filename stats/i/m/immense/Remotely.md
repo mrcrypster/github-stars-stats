@@ -1,10 +1,10 @@
 # immense/Remotely - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 1438
+☋ Forks: 1440
 
-★ Stars: 2799
+★ Stars: 2800
 
 [Open repository](https://github.com/immense/Remotely)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2800 | 1440 | 
 | 2022-11-07 | 2799 | 1438 | 
 | 2022-11-06 | 2799 | 1439 | 
 | 2022-11-05 | 2796 | 1438 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 2757 | 1415 | 
 | 2022-10-11 | 2752 | 1414 | 
 | 2022-10-10 | 2748 | 1413 | 
-| 2022-10-09 | 2747 | 1412 | 
 

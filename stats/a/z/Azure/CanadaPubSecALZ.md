@@ -1,8 +1,8 @@
 # Azure/CanadaPubSecALZ - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 57
+☋ Forks: 59
 
 ★ Stars: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 74 | 59 | 
 | 2022-11-07 | 74 | 57 | 
 | 2022-11-06 | 74 | 57 | 
 | 2022-11-05 | 74 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 70 | 56 | 
 | 2022-10-11 | 70 | 56 | 
 | 2022-10-10 | 69 | 56 | 
-| 2022-10-09 | 69 | 56 | 
 

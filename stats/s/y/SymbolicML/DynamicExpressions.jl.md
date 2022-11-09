@@ -1,10 +1,10 @@
 # SymbolicML/DynamicExpressions.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/SymbolicML/DynamicExpressions.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 34 | - | 
 | 2022-11-07 | 33 | - | 
 | 2022-11-06 | 33 | - | 
 | 2022-11-05 | 33 | - | 

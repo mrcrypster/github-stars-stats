@@ -1,10 +1,10 @@
 # tanelpoder/tpt-oracle - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 270
+☋ Forks: 271
 
-★ Stars: 544
+★ Stars: 545
 
 [Open repository](https://github.com/tanelpoder/tpt-oracle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 545 | 271 | 
 | 2022-11-07 | 544 | 270 | 
 | 2022-11-06 | 544 | 270 | 
 | 2022-11-05 | 544 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 535 | 265 | 
 | 2022-10-12 | 534 | 265 | 
 | 2022-10-11 | 533 | 265 | 
-| 2022-10-10 | 533 | 265 | 
 

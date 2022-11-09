@@ -1,6 +1,6 @@
 # bambash/helm-cronjobs - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 93
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 157 | 93 | 
 | 2022-11-07 | 157 | 93 | 
 | 2022-11-06 | 157 | 93 | 
 | 2022-11-05 | 157 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 153 | 92 | 
 | 2022-10-12 | 153 | 92 | 
 | 2022-10-11 | 153 | 92 | 
-| 2022-10-10 | 153 | 92 | 
 

@@ -1,6 +1,6 @@
 # koillection/koillection - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 222 | 10 | 
 | 2022-11-07 | 222 | 10 | 
 | 2022-11-06 | 221 | 10 | 
 | 2022-11-05 | 221 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 213 | 10 | 
 | 2022-10-12 | 213 | 10 | 
 | 2022-10-11 | 213 | 10 | 
-| 2022-10-09 | 213 | 10 | 
 

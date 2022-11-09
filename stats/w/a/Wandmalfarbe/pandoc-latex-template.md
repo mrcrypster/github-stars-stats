@@ -1,10 +1,10 @@
 # Wandmalfarbe/pandoc-latex-template - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 805
 
-★ Stars: 4594
+★ Stars: 4596
 
 [Open repository](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 4596 | 805 | 
 | 2022-11-07 | 4594 | 805 | 
 | 2022-11-06 | 4594 | 805 | 
 | 2022-11-05 | 4594 | 805 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 4547 | 790 | 
 | 2022-10-11 | 4543 | 791 | 
 | 2022-10-10 | 4542 | 790 | 
-| 2022-10-09 | 4541 | 790 | 
 

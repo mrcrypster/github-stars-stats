@@ -1,8 +1,8 @@
 # project-violet/violet - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 31
+☋ Forks: 32
 
 ★ Stars: 258
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 258 | 32 | 
 | 2022-11-07 | 258 | 31 | 
 | 2022-11-06 | 256 | 31 | 
 | 2022-11-05 | 252 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 246 | 32 | 
 | 2022-10-11 | 246 | 32 | 
 | 2022-10-10 | 247 | 33 | 
-| 2022-10-09 | 247 | 33 | 
 

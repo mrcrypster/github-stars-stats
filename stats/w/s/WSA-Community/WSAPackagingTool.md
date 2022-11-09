@@ -1,6 +1,6 @@
 # WSA-Community/WSAPackagingTool - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 100 | 89 | 
 | 2022-11-07 | 100 | 89 | 
 | 2022-11-06 | 100 | 89 | 
 | 2022-11-05 | 99 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 96 | 82 | 
 | 2022-10-11 | 96 | 82 | 
 | 2022-10-10 | 95 | 82 | 
-| 2022-10-09 | 95 | 82 | 
 

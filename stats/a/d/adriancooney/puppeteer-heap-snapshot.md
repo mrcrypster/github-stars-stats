@@ -1,6 +1,6 @@
 # adriancooney/puppeteer-heap-snapshot - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 853 | 50 | 
 | 2022-11-08 | 853 | 50 | 
 | 2022-11-06 | 853 | 50 | 
 | 2022-11-05 | 853 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 851 | 48 | 
 | 2022-10-11 | 851 | 48 | 
 | 2022-10-10 | 851 | 48 | 
-| 2022-10-09 | 851 | 48 | 
 

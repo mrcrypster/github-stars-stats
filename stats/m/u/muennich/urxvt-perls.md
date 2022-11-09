@@ -1,10 +1,10 @@
 # muennich/urxvt-perls - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 115
 
-★ Stars: 753
+★ Stars: 754
 
 [Open repository](https://github.com/muennich/urxvt-perls)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 754 | 115 | 
 | 2022-11-07 | 753 | 115 | 
 | 2022-11-06 | 753 | 115 | 
 | 2022-11-05 | 754 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 757 | 115 | 
 | 2022-10-11 | 757 | 115 | 
 | 2022-10-10 | 757 | 115 | 
-| 2022-10-09 | 757 | 115 | 
 

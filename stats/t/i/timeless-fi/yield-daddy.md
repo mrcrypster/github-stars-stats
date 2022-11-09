@@ -1,6 +1,6 @@
 # timeless-fi/yield-daddy - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 80 | 12 | 
 | 2022-11-07 | 80 | 12 | 
 | 2022-11-06 | 80 | 12 | 
 | 2022-11-05 | 80 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 75 | 11 | 
 | 2022-10-11 | 75 | 11 | 
 | 2022-10-10 | 76 | 11 | 
-| 2022-10-09 | 76 | 10 | 
 

@@ -1,10 +1,10 @@
 # vueComponent/ant-design-vue-pro - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 2937
+☋ Forks: 2940
 
-★ Stars: 9813
+★ Stars: 9818
 
 [Open repository](https://github.com/vueComponent/ant-design-vue-pro)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 9818 | 2940 | 
 | 2022-11-07 | 9813 | 2937 | 
 | 2022-11-06 | 9814 | 2937 | 
 | 2022-11-05 | 9810 | 2937 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 9739 | 2931 | 
 | 2022-10-11 | 9736 | 2928 | 
 | 2022-10-10 | 9735 | 2927 | 
-| 2022-10-09 | 9734 | 2927 | 
 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/Virtualization-Documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 1523
 
-★ Stars: 1611
+★ Stars: 1610
 
 [Open repository](https://github.com/MicrosoftDocs/Virtualization-Documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1610 | 1523 | 
 | 2022-11-07 | 1611 | 1523 | 
 | 2022-11-06 | 1611 | 1523 | 
 | 2022-11-05 | 1611 | 1522 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1600 | 1510 | 
 | 2022-10-11 | 1600 | 1510 | 
 | 2022-10-10 | 1600 | 1508 | 
-| 2022-10-09 | 1600 | 1508 | 
 

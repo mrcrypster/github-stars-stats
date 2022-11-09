@@ -1,10 +1,10 @@
 # backuppc/backuppc - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 170
 
-★ Stars: 1135
+★ Stars: 1136
 
 [Open repository](https://github.com/backuppc/backuppc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1136 | 170 | 
 | 2022-11-07 | 1135 | 170 | 
 | 2022-11-06 | 1135 | 170 | 
 | 2022-11-05 | 1135 | 170 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1127 | 170 | 
 | 2022-10-11 | 1127 | 170 | 
 | 2022-10-10 | 1127 | 169 | 
-| 2022-10-09 | 1126 | 169 | 
 

@@ -1,10 +1,10 @@
 # bigfangfang/IBMVPS - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1226
 
-★ Stars: 371
+★ Stars: 370
 
 [Open repository](https://github.com/bigfangfang/IBMVPS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 370 | 1226 | 
 | 2022-11-07 | 371 | 1226 | 
 | 2022-11-06 | 371 | 1226 | 
 | 2022-11-05 | 371 | 1226 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 370 | 1227 | 
 | 2022-10-11 | 370 | 1227 | 
 | 2022-10-10 | 370 | 1227 | 
-| 2022-10-09 | 370 | 1227 | 
 

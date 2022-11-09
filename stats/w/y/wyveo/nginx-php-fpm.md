@@ -1,8 +1,8 @@
 # wyveo/nginx-php-fpm - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 189
+☋ Forks: 190
 
 ★ Stars: 261
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 261 | 190 | 
 | 2022-11-07 | 261 | 189 | 
 | 2022-11-06 | 259 | 189 | 
 | 2022-11-05 | 259 | 189 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 254 | 189 | 
 | 2022-10-11 | 254 | 189 | 
 | 2022-10-10 | 254 | 189 | 
-| 2022-10-09 | 254 | 189 | 
 

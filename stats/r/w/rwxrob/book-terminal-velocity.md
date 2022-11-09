@@ -1,8 +1,8 @@
 # rwxrob/book-terminal-velocity - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 0
+☋ Forks: 1
 
 ★ Stars: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 21 | 1 | 
 | 2022-11-07 | 21 | - | 
 | 2022-11-06 | 20 | - | 
 | 2022-11-05 | 20 | - | 

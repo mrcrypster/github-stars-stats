@@ -1,6 +1,6 @@
 # api-hogs/bureaucrat - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 319 | 61 | 
 | 2022-11-07 | 319 | 61 | 
 | 2022-11-06 | 319 | 61 | 
 | 2022-11-05 | 319 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 318 | 61 | 
 | 2022-10-11 | 318 | 61 | 
 | 2022-10-10 | 318 | 61 | 
-| 2022-10-09 | 318 | 61 | 
 

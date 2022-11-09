@@ -1,10 +1,10 @@
 # libxzr/KonaBess - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 40
 
-★ Stars: 352
+★ Stars: 353
 
 [Open repository](https://github.com/libxzr/KonaBess)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 353 | 40 | 
 | 2022-11-07 | 352 | 40 | 
 | 2022-11-06 | 352 | 40 | 
 | 2022-11-05 | 352 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 342 | 39 | 
 | 2022-10-11 | 341 | 39 | 
 | 2022-10-10 | 342 | 39 | 
-| 2022-10-09 | 341 | 39 | 
 

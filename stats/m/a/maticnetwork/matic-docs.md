@@ -1,10 +1,10 @@
 # maticnetwork/matic-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 364
 
-★ Stars: 164
+★ Stars: 165
 
 [Open repository](https://github.com/maticnetwork/matic-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 165 | 364 | 
 | 2022-11-07 | 164 | 364 | 
 | 2022-11-06 | 164 | 364 | 
 | 2022-11-05 | 164 | 362 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 159 | 354 | 
 | 2022-10-11 | 159 | 352 | 
 | 2022-10-10 | 158 | 351 | 
-| 2022-10-09 | 157 | 351 | 
 

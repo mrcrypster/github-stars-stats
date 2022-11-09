@@ -1,8 +1,8 @@
 # dkniffin/active_material - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 174
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 174 | 67 | 
 | 2022-11-07 | 174 | 66 | 
 | 2022-11-06 | 174 | 66 | 
 | 2022-11-05 | 174 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 174 | 64 | 
 | 2022-10-12 | 174 | 64 | 
 | 2022-10-11 | 174 | 64 | 
-| 2022-10-10 | 174 | 64 | 
 

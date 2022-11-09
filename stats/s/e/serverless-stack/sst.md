@@ -1,10 +1,10 @@
 # serverless-stack/sst - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 795
+☋ Forks: 796
 
-★ Stars: 9572
+★ Stars: 9588
 
 [Open repository](https://github.com/serverless-stack/sst)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 9588 | 796 | 
 | 2022-11-07 | 9572 | 795 | 
 | 2022-11-06 | 9563 | 793 | 
 | 2022-11-05 | 9549 | 792 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 9155 | 759 | 
 | 2022-10-11 | 9145 | 759 | 
 | 2022-10-10 | 9134 | 759 | 
-| 2022-10-09 | 9124 | 759 | 
 

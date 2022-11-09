@@ -1,10 +1,10 @@
 # hashicorp/terraform-provider-aws - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 7329
+☋ Forks: 7334
 
-★ Stars: 7880
+★ Stars: 7884
 
 [Open repository](https://github.com/hashicorp/terraform-provider-aws)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 7884 | 7334 | 
 | 2022-11-07 | 7880 | 7329 | 
 | 2022-11-06 | 7876 | 7329 | 
 | 2022-11-05 | 7875 | 7331 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 7794 | 7220 | 
 | 2022-10-11 | 7794 | 7217 | 
 | 2022-10-10 | 7789 | 7213 | 
-| 2022-10-09 | 7785 | 7207 | 
 

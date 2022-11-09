@@ -1,10 +1,10 @@
 # topepo/caret - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 635
 
-★ Stars: 1489
+★ Stars: 1490
 
 [Open repository](https://github.com/topepo/caret)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1490 | 635 | 
 | 2022-11-07 | 1489 | 635 | 
 | 2022-11-06 | 1489 | 635 | 
 | 2022-11-05 | 1486 | 635 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1478 | 630 | 
 | 2022-10-11 | 1475 | 630 | 
 | 2022-10-10 | 1475 | 630 | 
-| 2022-10-09 | 1474 | 630 | 
 

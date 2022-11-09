@@ -1,6 +1,6 @@
 # LineageOS/android_device_qcom_sepolicy - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 121
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 7 | 121 | 
 | 2022-11-07 | 7 | 121 | 
 | 2022-11-06 | 7 | 121 | 
 | 2022-11-05 | 7 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 7 | 119 | 
 | 2022-10-11 | 7 | 119 | 
 | 2022-10-10 | 7 | 119 | 
-| 2022-10-09 | 7 | 119 | 
 

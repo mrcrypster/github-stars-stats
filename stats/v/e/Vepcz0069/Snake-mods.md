@@ -1,8 +1,8 @@
 # Vepcz0069/Snake-mods - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 291
+☋ Forks: 292
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 38 | 292 | 
 | 2022-11-07 | 38 | 291 | 
 | 2022-11-06 | 38 | 291 | 
 | 2022-11-05 | 38 | 291 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 37 | 274 | 
 | 2022-10-11 | 37 | 274 | 
 | 2022-10-10 | 37 | 274 | 
-| 2022-10-09 | 37 | 274 | 
 

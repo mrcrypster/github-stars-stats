@@ -1,10 +1,10 @@
 # luochen1990/rainbow - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 87
 
-★ Stars: 1626
+★ Stars: 1625
 
 [Open repository](https://github.com/luochen1990/rainbow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1625 | 87 | 
 | 2022-11-07 | 1626 | 87 | 
 | 2022-11-06 | 1625 | 87 | 
 | 2022-11-05 | 1625 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1614 | 85 | 
 | 2022-10-11 | 1614 | 85 | 
 | 2022-10-10 | 1614 | 85 | 
-| 2022-10-09 | 1614 | 86 | 
 

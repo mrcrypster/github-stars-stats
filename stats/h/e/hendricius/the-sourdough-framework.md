@@ -1,10 +1,10 @@
 # hendricius/the-sourdough-framework - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 16
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/hendricius/the-sourdough-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 133 | 16 | 
 | 2022-11-07 | 132 | 16 | 
 | 2022-11-06 | 132 | 16 | 
 | 2022-11-05 | 131 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 115 | 13 | 
 | 2022-10-12 | 115 | 13 | 
 | 2022-10-11 | 115 | 13 | 
-| 2022-10-10 | 114 | 13 | 
 

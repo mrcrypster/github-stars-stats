@@ -1,10 +1,10 @@
 # abuanwar072/Quiz-App-Flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 259
 
-★ Stars: 422
+★ Stars: 423
 
 [Open repository](https://github.com/abuanwar072/Quiz-App-Flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 423 | 259 | 
 | 2022-11-07 | 422 | 259 | 
 | 2022-11-06 | 421 | 257 | 
 | 2022-11-05 | 421 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 415 | 252 | 
 | 2022-10-11 | 415 | 252 | 
 | 2022-10-10 | 415 | 252 | 
-| 2022-10-09 | 415 | 252 | 
 

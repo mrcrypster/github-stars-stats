@@ -1,8 +1,8 @@
 # foldright/auto-pipeline - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 23
+☋ Forks: 24
 
 ★ Stars: 102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 102 | 24 | 
 | 2022-11-07 | 102 | 23 | 
 | 2022-11-06 | 102 | 23 | 
 | 2022-11-05 | 102 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 77 | 16 | 
 | 2022-10-11 | 76 | 16 | 
 | 2022-10-10 | 76 | 16 | 
-| 2022-10-09 | 76 | 16 | 
 

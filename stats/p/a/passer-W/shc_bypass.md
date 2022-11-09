@@ -1,6 +1,6 @@
 # passer-W/shc_bypass - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 98 | 19 | 
 | 2022-11-07 | 98 | 19 | 
 | 2022-11-06 | 98 | 19 | 
 | 2022-11-05 | 98 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 95 | 18 | 
 | 2022-10-11 | 95 | 18 | 
 | 2022-10-10 | 95 | 18 | 
-| 2022-10-09 | 95 | 18 | 
 

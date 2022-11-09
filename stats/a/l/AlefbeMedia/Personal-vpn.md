@@ -1,6 +1,6 @@
 # AlefbeMedia/Personal-vpn - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 88 | 49 | 
 | 2022-11-07 | 88 | 49 | 
 | 2022-11-06 | 87 | 48 | 
 | 2022-11-05 | 86 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 73 | 43 | 
 | 2022-10-11 | 70 | 41 | 
 | 2022-10-10 | 69 | 38 | 
-| 2022-10-09 | 65 | 37 | 
 

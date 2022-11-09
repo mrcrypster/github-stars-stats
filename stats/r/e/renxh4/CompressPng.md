@@ -1,6 +1,6 @@
 # renxh4/CompressPng - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 27 | 1 | 
 | 2022-11-07 | 27 | 1 | 
 | 2022-11-06 | 27 | 1 | 
 | 2022-11-05 | 27 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 24 | 1 | 
 | 2022-10-12 | 23 | 1 | 
 | 2022-10-10 | 22 | 1 | 
-| 2022-10-09 | 22 | 1 | 
 

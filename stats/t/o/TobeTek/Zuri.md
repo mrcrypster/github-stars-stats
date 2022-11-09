@@ -1,6 +1,6 @@
 # TobeTek/Zuri - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 373
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 54 | 373 | 
 | 2022-11-07 | 54 | 373 | 
 | 2022-11-06 | 54 | 373 | 
 | 2022-11-05 | 54 | 373 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 54 | 373 | 
 | 2022-10-12 | 53 | 373 | 
 | 2022-10-11 | 53 | 373 | 
-| 2022-10-10 | 53 | 373 | 
 

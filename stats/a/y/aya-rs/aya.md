@@ -1,10 +1,10 @@
 # aya-rs/aya - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 112
 
-★ Stars: 1303
+★ Stars: 1307
 
 [Open repository](https://github.com/aya-rs/aya)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1307 | 112 | 
 | 2022-11-07 | 1303 | 112 | 
 | 2022-11-06 | 1301 | 112 | 
 | 2022-11-05 | 1301 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1260 | 103 | 
 | 2022-10-11 | 1257 | 102 | 
 | 2022-10-10 | 1253 | 102 | 
-| 2022-10-09 | 1251 | 100 | 
 

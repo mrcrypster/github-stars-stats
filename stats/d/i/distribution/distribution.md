@@ -1,8 +1,8 @@
 # distribution/distribution - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 2181
+☋ Forks: 2182
 
 ★ Stars: 7044
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 7044 | 2182 | 
 | 2022-11-07 | 7044 | 2181 | 
 | 2022-11-06 | 7039 | 2179 | 
 | 2022-11-05 | 7037 | 2179 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 6987 | 2164 | 
 | 2022-10-11 | 6984 | 2164 | 
 | 2022-10-10 | 6982 | 2162 | 
-| 2022-10-09 | 6980 | 2161 | 
 

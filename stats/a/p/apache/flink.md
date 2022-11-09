@@ -1,10 +1,10 @@
 # apache/flink - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 11388
+☋ Forks: 11390
 
-★ Stars: 20102
+★ Stars: 20107
 
 [Open repository](https://github.com/apache/flink)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 20107 | 11390 | 
 | 2022-11-07 | 20102 | 11388 | 
 | 2022-11-06 | 20096 | 11379 | 
 | 2022-11-05 | 20093 | 11380 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 19927 | 11290 | 
 | 2022-10-11 | 19917 | 11287 | 
 | 2022-10-10 | 19913 | 11286 | 
-| 2022-10-09 | 19905 | 11279 | 
 

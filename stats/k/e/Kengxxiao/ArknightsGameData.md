@@ -1,6 +1,6 @@
 # Kengxxiao/ArknightsGameData - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 884 | 196 | 
 | 2022-11-07 | 884 | 196 | 
 | 2022-11-06 | 884 | 196 | 
 | 2022-11-05 | 884 | 196 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 860 | 193 | 
 | 2022-10-11 | 859 | 193 | 
 | 2022-10-10 | 856 | 193 | 
-| 2022-10-09 | 857 | 193 | 
 

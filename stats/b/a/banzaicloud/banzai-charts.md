@@ -1,6 +1,6 @@
 # banzaicloud/banzai-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 354 | 269 | 
 | 2022-11-07 | 354 | 269 | 
 | 2022-11-06 | 354 | 269 | 
 | 2022-11-05 | 354 | 269 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 353 | 268 | 
 | 2022-10-11 | 353 | 268 | 
 | 2022-10-10 | 353 | 268 | 
-| 2022-10-09 | 353 | 268 | 
 

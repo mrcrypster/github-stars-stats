@@ -1,10 +1,10 @@
 # dhall-lang/dhall-haskell - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 190
 
-★ Stars: 831
+★ Stars: 832
 
 [Open repository](https://github.com/dhall-lang/dhall-haskell)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 832 | 190 | 
 | 2022-11-07 | 831 | 190 | 
 | 2022-11-06 | 831 | 190 | 
 | 2022-11-05 | 831 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 827 | 189 | 
 | 2022-10-11 | 827 | 188 | 
 | 2022-10-10 | 827 | 188 | 
-| 2022-10-09 | 827 | 188 | 
 

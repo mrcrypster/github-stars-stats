@@ -1,8 +1,8 @@
 # wardviaene/terraform-course - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 3530
+☋ Forks: 3531
 
 ★ Stars: 1379
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1379 | 3531 | 
 | 2022-11-08 | 1379 | 3530 | 
 | 2022-11-07 | 1378 | 3529 | 
 | 2022-11-05 | 1378 | 3528 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 1364 | 3498 | 
 | 2022-10-11 | 1364 | 3496 | 
 | 2022-10-10 | 1364 | 3496 | 
-| 2022-10-09 | 1364 | 3498 | 
 

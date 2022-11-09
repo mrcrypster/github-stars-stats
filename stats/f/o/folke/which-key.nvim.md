@@ -1,10 +1,10 @@
 # folke/which-key.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 90
 
-★ Stars: 2071
+★ Stars: 2078
 
 [Open repository](https://github.com/folke/which-key.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2078 | 90 | 
 | 2022-11-07 | 2071 | 90 | 
 | 2022-11-06 | 2055 | 90 | 
 | 2022-11-05 | 2052 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1966 | 86 | 
 | 2022-10-11 | 1964 | 86 | 
 | 2022-10-10 | 1954 | 86 | 
-| 2022-10-09 | 1950 | 86 | 
 

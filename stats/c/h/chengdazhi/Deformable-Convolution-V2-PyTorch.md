@@ -1,10 +1,10 @@
 # chengdazhi/Deformable-Convolution-V2-PyTorch - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 205
 
-★ Stars: 1257
+★ Stars: 1258
 
 [Open repository](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1258 | 205 | 
 | 2022-11-08 | 1257 | 205 | 
 | 2022-11-07 | 1257 | 205 | 
 | 2022-11-06 | 1257 | 205 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 1245 | 204 | 
 | 2022-10-11 | 1245 | 204 | 
 | 2022-10-10 | 1245 | 204 | 
-| 2022-10-09 | 1245 | 204 | 
 

@@ -1,6 +1,6 @@
 # gosling-lang/grosling - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 32 | - | 
 | 2022-11-07 | 32 | - | 
 | 2022-11-06 | 32 | - | 
 | 2022-11-05 | 32 | - | 

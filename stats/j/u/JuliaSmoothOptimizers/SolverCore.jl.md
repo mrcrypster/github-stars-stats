@@ -1,6 +1,6 @@
 # JuliaSmoothOptimizers/SolverCore.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 5 | 5 | 
 | 2022-11-07 | 5 | 5 | 
 | 2022-11-06 | 5 | 5 | 
 | 2022-11-05 | 5 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 5 | 5 | 
 | 2022-10-12 | 5 | 5 | 
 | 2022-10-11 | 5 | 5 | 
-| 2022-10-10 | 5 | 5 | 
 

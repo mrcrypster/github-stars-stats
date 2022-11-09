@@ -1,6 +1,6 @@
 # dyc87112/SpringBoot-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 4795
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 14821 | 4795 | 
 | 2022-11-07 | 14821 | 4795 | 
 | 2022-11-06 | 14819 | 4795 | 
 | 2022-11-05 | 14817 | 4795 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 14772 | 4788 | 
 | 2022-10-11 | 14770 | 4788 | 
 | 2022-10-10 | 14765 | 4789 | 
-| 2022-10-09 | 14763 | 4790 | 
 

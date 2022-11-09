@@ -1,6 +1,6 @@
 # marcan/takeover.sh - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 366
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 6885 | 366 | 
 | 2022-11-07 | 6885 | 366 | 
 | 2022-11-06 | 6884 | 366 | 
 | 2022-11-05 | 6884 | 366 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 6873 | 367 | 
 | 2022-10-12 | 6872 | 367 | 
 | 2022-10-11 | 6872 | 367 | 
-| 2022-10-10 | 6871 | 367 | 
 

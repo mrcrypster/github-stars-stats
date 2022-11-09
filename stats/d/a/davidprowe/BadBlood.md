@@ -1,10 +1,10 @@
 # davidprowe/BadBlood - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 214
 
-★ Stars: 1440
+★ Stars: 1442
 
 [Open repository](https://github.com/davidprowe/BadBlood)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1442 | 214 | 
 | 2022-11-07 | 1440 | 214 | 
 | 2022-11-06 | 1439 | 214 | 
 | 2022-11-05 | 1437 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1410 | 215 | 
 | 2022-10-11 | 1408 | 214 | 
 | 2022-10-10 | 1407 | 214 | 
-| 2022-10-09 | 1405 | 214 | 
 

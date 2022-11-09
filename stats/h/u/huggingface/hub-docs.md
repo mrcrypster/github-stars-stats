@@ -1,10 +1,10 @@
 # huggingface/hub-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 80
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/huggingface/hub-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 68 | 80 | 
 | 2022-11-07 | 67 | 80 | 
 | 2022-11-06 | 65 | 80 | 
 | 2022-11-05 | 65 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 52 | 59 | 
 | 2022-10-11 | 52 | 59 | 
 | 2022-10-10 | 49 | 53 | 
-| 2022-10-09 | 49 | 52 | 
 

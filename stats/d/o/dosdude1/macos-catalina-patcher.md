@@ -1,6 +1,6 @@
 # dosdude1/macos-catalina-patcher - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 355 | 52 | 
 | 2022-11-08 | 355 | 52 | 
 | 2022-11-07 | 355 | 52 | 
 | 2022-11-05 | 355 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 349 | 50 | 
 | 2022-10-11 | 349 | 50 | 
 | 2022-10-10 | 347 | 50 | 
-| 2022-10-09 | 346 | 50 | 
 

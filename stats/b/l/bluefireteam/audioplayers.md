@@ -1,6 +1,6 @@
 # bluefireteam/audioplayers - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 671
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1485 | 671 | 
 | 2022-11-07 | 1485 | 671 | 
 | 2022-11-06 | 1486 | 671 | 
 | 2022-11-05 | 1486 | 670 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1465 | 657 | 
 | 2022-10-11 | 1465 | 656 | 
 | 2022-10-10 | 1464 | 656 | 
-| 2022-10-09 | 1461 | 656 | 
 

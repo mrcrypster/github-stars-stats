@@ -1,8 +1,8 @@
 # SonicCloudOrg/sonic-offical-website - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 24 | 5 | 
 | 2022-11-07 | 24 | 4 | 
 | 2022-11-06 | 24 | 3 | 
 | 2022-11-05 | 24 | 3 | 

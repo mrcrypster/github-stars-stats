@@ -1,6 +1,6 @@
 # amachanic/sp_whoisactive - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 231
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 890 | 231 | 
 | 2022-11-07 | 890 | 231 | 
 | 2022-11-06 | 890 | 231 | 
 | 2022-11-05 | 890 | 231 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 879 | 227 | 
 | 2022-10-11 | 878 | 227 | 
 | 2022-10-10 | 877 | 227 | 
-| 2022-10-09 | 877 | 227 | 
 

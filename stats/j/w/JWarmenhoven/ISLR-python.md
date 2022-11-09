@@ -1,10 +1,10 @@
 # JWarmenhoven/ISLR-python - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 2337
+☋ Forks: 2338
 
-★ Stars: 3750
+★ Stars: 3752
 
 [Open repository](https://github.com/JWarmenhoven/ISLR-python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 3752 | 2338 | 
 | 2022-11-07 | 3750 | 2337 | 
 | 2022-11-06 | 3749 | 2337 | 
 | 2022-11-05 | 3749 | 2337 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 3721 | 2328 | 
 | 2022-10-11 | 3721 | 2328 | 
 | 2022-10-10 | 3718 | 2329 | 
-| 2022-10-09 | 3716 | 2329 | 
 

@@ -1,10 +1,10 @@
 # nestybox/sysbox - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 101
 
-★ Stars: 1666
+★ Stars: 1669
 
 [Open repository](https://github.com/nestybox/sysbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1669 | 101 | 
 | 2022-11-08 | 1666 | 101 | 
 | 2022-11-06 | 1665 | 101 | 
 | 2022-11-05 | 1665 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 1623 | 98 | 
 | 2022-10-11 | 1623 | 97 | 
 | 2022-10-10 | 1622 | 97 | 
-| 2022-10-09 | 1621 | 97 | 
 

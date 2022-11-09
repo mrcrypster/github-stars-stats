@@ -1,10 +1,10 @@
 # fractalnetworksco/selfhosted-gateway - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 504
+★ Stars: 507
 
 [Open repository](https://github.com/fractalnetworksco/selfhosted-gateway)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 507 | 13 | 
 | 2022-11-07 | 504 | 12 | 
 | 2022-11-06 | 503 | 12 | 
 | 2022-11-05 | 498 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 310 | 10 | 
 | 2022-10-11 | 305 | 10 | 
 | 2022-10-10 | 291 | 9 | 
-| 2022-10-09 | 287 | 9 | 
 

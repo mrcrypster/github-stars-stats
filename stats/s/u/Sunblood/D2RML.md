@@ -1,10 +1,10 @@
 # Sunblood/D2RML - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 26
 
-★ Stars: 132
+★ Stars: 133
 
 [Open repository](https://github.com/Sunblood/D2RML)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 133 | 26 | 
 | 2022-11-07 | 132 | 26 | 
 | 2022-11-06 | 132 | 26 | 
 | 2022-11-05 | 133 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 133 | 26 | 
 | 2022-10-11 | 133 | 26 | 
 | 2022-10-10 | 133 | 26 | 
-| 2022-10-09 | 133 | 26 | 
 

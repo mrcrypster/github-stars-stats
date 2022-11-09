@@ -1,6 +1,6 @@
 # shatyuka/Zhiliao - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1238 | 54 | 
 | 2022-11-07 | 1238 | 54 | 
 | 2022-11-06 | 1237 | 54 | 
 | 2022-11-05 | 1234 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1188 | 50 | 
 | 2022-10-11 | 1186 | 50 | 
 | 2022-10-10 | 1184 | 50 | 
-| 2022-10-09 | 1180 | 50 | 
 

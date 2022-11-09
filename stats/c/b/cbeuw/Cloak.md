@@ -1,10 +1,10 @@
 # cbeuw/Cloak - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 213
 
-★ Stars: 1961
+★ Stars: 1963
 
 [Open repository](https://github.com/cbeuw/Cloak)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1963 | 213 | 
 | 2022-11-07 | 1961 | 213 | 
 | 2022-11-06 | 1958 | 213 | 
 | 2022-11-05 | 1955 | 212 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1488 | 180 | 
 | 2022-10-11 | 1487 | 180 | 
 | 2022-10-10 | 1487 | 180 | 
-| 2022-10-09 | 1486 | 180 | 
 

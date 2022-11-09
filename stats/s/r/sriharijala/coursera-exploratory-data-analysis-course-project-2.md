@@ -1,6 +1,6 @@
 # sriharijala/coursera-exploratory-data-analysis-course-project-2 - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | - | 36 | 
 | 2022-11-08 | - | 36 | 
 | 2022-11-07 | - | 36 | 
 | 2022-11-05 | - | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | - | 35 | 
 | 2022-10-11 | - | 35 | 
 | 2022-10-10 | - | 35 | 
-| 2022-10-09 | - | 35 | 
 

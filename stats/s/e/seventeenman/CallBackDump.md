@@ -1,10 +1,10 @@
 # seventeenman/CallBackDump - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 57
 
-★ Stars: 381
+★ Stars: 382
 
 [Open repository](https://github.com/seventeenman/CallBackDump)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 382 | 57 | 
 | 2022-11-07 | 381 | 57 | 
 | 2022-11-06 | 380 | 56 | 
 | 2022-11-05 | 380 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 351 | 50 | 
 | 2022-10-11 | 350 | 50 | 
 | 2022-10-10 | 350 | 50 | 
-| 2022-10-09 | 343 | 48 | 
 

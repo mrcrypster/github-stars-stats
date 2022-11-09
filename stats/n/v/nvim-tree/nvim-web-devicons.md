@@ -1,10 +1,10 @@
 # nvim-tree/nvim-web-devicons - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 85
+☋ Forks: 84
 
-★ Stars: 834
+★ Stars: 837
 
 [Open repository](https://github.com/nvim-tree/nvim-web-devicons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 837 | 84 | 
 | 2022-11-07 | 834 | 85 | 
 | 2022-11-06 | 833 | 85 | 
 | 2022-11-05 | 832 | 86 | 

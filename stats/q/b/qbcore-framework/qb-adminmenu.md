@@ -1,8 +1,8 @@
 # qbcore-framework/qb-adminmenu - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 219
+☋ Forks: 220
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 28 | 220 | 
 | 2022-11-08 | 28 | 219 | 
 | 2022-11-07 | 28 | 219 | 
 | 2022-11-05 | 28 | 219 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 27 | 220 | 
 | 2022-10-11 | 27 | 221 | 
 | 2022-10-10 | 27 | 221 | 
-| 2022-10-09 | 27 | 221 | 
 

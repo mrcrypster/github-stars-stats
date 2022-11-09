@@ -1,10 +1,10 @@
 # googleapis/release-please - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 191
 
-★ Stars: 1693
+★ Stars: 1700
 
 [Open repository](https://github.com/googleapis/release-please)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1700 | 191 | 
 | 2022-11-07 | 1693 | 191 | 
 | 2022-11-06 | 1688 | 191 | 
 | 2022-11-05 | 1687 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1601 | 183 | 
 | 2022-10-11 | 1594 | 183 | 
 | 2022-10-10 | 1590 | 183 | 
-| 2022-10-09 | 1586 | 183 | 
 

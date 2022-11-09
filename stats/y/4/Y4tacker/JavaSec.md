@@ -1,10 +1,10 @@
 # Y4tacker/JavaSec - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 117
 
-★ Stars: 701
+★ Stars: 705
 
 [Open repository](https://github.com/Y4tacker/JavaSec)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 705 | 117 | 
 | 2022-11-07 | 701 | 117 | 
 | 2022-11-06 | 700 | 117 | 
 | 2022-11-05 | 699 | 116 | 

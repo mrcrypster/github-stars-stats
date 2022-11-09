@@ -1,10 +1,10 @@
 # ravynsoft/ravynos - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 148
+☋ Forks: 151
 
-★ Stars: 4501
+★ Stars: 4532
 
 [Open repository](https://github.com/ravynsoft/ravynos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 4532 | 151 | 
 | 2022-11-07 | 4501 | 148 | 
 | 2022-11-06 | 4483 | 146 | 
 | 2022-11-05 | 4469 | 146 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 4234 | 137 | 
 | 2022-10-11 | 4234 | 137 | 
 | 2022-10-10 | 4231 | 138 | 
-| 2022-10-09 | 4227 | 137 | 
 

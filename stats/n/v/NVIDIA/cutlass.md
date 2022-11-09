@@ -1,10 +1,10 @@
 # NVIDIA/cutlass - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 434
 
-★ Stars: 2246
+★ Stars: 2250
 
 [Open repository](https://github.com/NVIDIA/cutlass)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2250 | 434 | 
 | 2022-11-07 | 2246 | 434 | 
 | 2022-11-06 | 2242 | 433 | 
 | 2022-11-05 | 2242 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 2161 | 417 | 
 | 2022-10-11 | 2156 | 416 | 
 | 2022-10-10 | 2153 | 413 | 
-| 2022-10-09 | 2150 | 413 | 
 

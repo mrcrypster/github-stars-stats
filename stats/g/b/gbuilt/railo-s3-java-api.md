@@ -1,6 +1,6 @@
 # gbuilt/railo-s3-java-api - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 9 | 2 | 
+| 2022-11-08 | 9 | 2 | 
 | 2022-11-07 | 9 | 2 | 
 | 2022-11-06 | 9 | 2 | 
 | 2022-11-05 | 9 | 2 | 

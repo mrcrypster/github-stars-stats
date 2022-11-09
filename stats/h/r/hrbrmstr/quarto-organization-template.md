@@ -1,6 +1,6 @@
 # hrbrmstr/quarto-organization-template - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 48 | 1 | 
 | 2022-11-07 | 48 | 1 | 
 | 2022-11-06 | 48 | 1 | 
 | 2022-11-05 | 48 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 45 | 1 | 
 | 2022-10-11 | 45 | 1 | 
 | 2022-10-10 | 45 | 1 | 
-| 2022-10-09 | 45 | 1 | 
 

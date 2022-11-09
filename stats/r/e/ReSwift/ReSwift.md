@@ -1,6 +1,6 @@
 # ReSwift/ReSwift - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 512
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 7307 | 512 | 
 | 2022-11-07 | 7307 | 512 | 
 | 2022-11-06 | 7306 | 512 | 
 | 2022-11-05 | 7305 | 512 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 7283 | 510 | 
 | 2022-10-11 | 7283 | 510 | 
 | 2022-10-10 | 7282 | 511 | 
-| 2022-10-09 | 7282 | 511 | 
 

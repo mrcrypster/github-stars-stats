@@ -1,10 +1,10 @@
 # zhiburt/tabled - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 39
 
-★ Stars: 1204
+★ Stars: 1206
 
 [Open repository](https://github.com/zhiburt/tabled)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1206 | 39 | 
 | 2022-11-08 | 1204 | 39 | 
 | 2022-11-07 | 1203 | 39 | 
 | 2022-11-05 | 1203 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 1179 | 34 | 
 | 2022-10-11 | 1179 | 34 | 
 | 2022-10-10 | 1177 | 34 | 
-| 2022-10-09 | 1174 | 35 | 
 

@@ -1,10 +1,10 @@
 # HeapsIO/hide - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 46
 
-★ Stars: 413
+★ Stars: 414
 
 [Open repository](https://github.com/HeapsIO/hide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 414 | 46 | 
 | 2022-11-07 | 413 | 46 | 
 | 2022-11-06 | 413 | 46 | 
 | 2022-11-05 | 413 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 411 | 45 | 
 | 2022-10-11 | 411 | 45 | 
 | 2022-10-10 | 411 | 45 | 
-| 2022-10-09 | 411 | 45 | 
 

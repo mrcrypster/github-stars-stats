@@ -1,10 +1,10 @@
 # bigrando420/thomas - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 6
 
-★ Stars: 76
+★ Stars: 77
 
 [Open repository](https://github.com/bigrando420/thomas)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 77 | 6 | 
 | 2022-11-07 | 76 | 6 | 
 | 2022-11-06 | 76 | 6 | 
 | 2022-11-05 | 76 | 6 | 

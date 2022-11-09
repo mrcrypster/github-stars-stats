@@ -1,10 +1,10 @@
 # jonsuh/hamburgers - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 1692
 
-★ Stars: 6802
+★ Stars: 6803
 
 [Open repository](https://github.com/jonsuh/hamburgers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 6803 | 1692 | 
 | 2022-11-07 | 6802 | 1692 | 
 | 2022-11-06 | 6800 | 1692 | 
 | 2022-11-05 | 6798 | 1690 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 6777 | 1694 | 
 | 2022-10-11 | 6770 | 1692 | 
 | 2022-10-10 | 6767 | 1693 | 
-| 2022-10-09 | 6765 | 1694 | 
 

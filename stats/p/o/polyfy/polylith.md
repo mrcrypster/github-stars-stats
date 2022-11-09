@@ -1,10 +1,10 @@
 # polyfy/polylith - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 32
 
-★ Stars: 342
+★ Stars: 343
 
 [Open repository](https://github.com/polyfy/polylith)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 343 | 32 | 
 | 2022-11-07 | 342 | 32 | 
 | 2022-11-06 | 342 | 32 | 
 | 2022-11-05 | 342 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 336 | 32 | 
 | 2022-10-11 | 335 | 32 | 
 | 2022-10-10 | 335 | 32 | 
-| 2022-10-09 | 335 | 32 | 
 

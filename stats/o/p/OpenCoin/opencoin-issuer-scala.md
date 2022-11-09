@@ -1,6 +1,6 @@
 # OpenCoin/opencoin-issuer-scala - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 7 | 3 | 
 | 2022-11-07 | 7 | 3 | 
 | 2022-11-06 | 7 | 3 | 
 | 2022-11-05 | 7 | 3 | 

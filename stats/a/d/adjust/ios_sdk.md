@@ -1,6 +1,6 @@
 # adjust/ios_sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 284
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 531 | 284 | 
 | 2022-11-07 | 531 | 284 | 
 | 2022-11-06 | 531 | 284 | 
 | 2022-11-05 | 531 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 526 | 281 | 
 | 2022-10-11 | 526 | 281 | 
 | 2022-10-10 | 526 | 281 | 
-| 2022-10-09 | 526 | 281 | 
 

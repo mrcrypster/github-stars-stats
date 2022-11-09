@@ -1,8 +1,8 @@
 # ory/k8s - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 204
+☋ Forks: 205
 
 ★ Stars: 250
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 250 | 205 | 
 | 2022-11-07 | 250 | 204 | 
 | 2022-11-06 | 250 | 203 | 
 | 2022-11-05 | 248 | 202 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 242 | 200 | 
 | 2022-10-11 | 242 | 200 | 
 | 2022-10-10 | 242 | 199 | 
-| 2022-10-09 | 242 | 199 | 
 

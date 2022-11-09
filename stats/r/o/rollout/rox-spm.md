@@ -1,10 +1,10 @@
 # rollout/rox-spm - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 1
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/rollout/rox-spm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 3 | 1 | 
 | 2022-11-07 | 2 | 1 | 
 | 2022-11-06 | 2 | 1 | 
 | 2022-11-05 | 2 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 2 | 1 | 
 | 2022-10-11 | 2 | 1 | 
 | 2022-10-10 | 2 | 1 | 
-| 2022-10-09 | 2 | 1 | 
 

@@ -1,6 +1,6 @@
 # elixir-protobuf/protobuf - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 676 | 122 | 
 | 2022-11-07 | 676 | 122 | 
 | 2022-11-06 | 676 | 122 | 
 | 2022-11-05 | 676 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 665 | 122 | 
 | 2022-10-11 | 665 | 122 | 
 | 2022-10-10 | 665 | 122 | 
-| 2022-10-09 | 665 | 122 | 
 

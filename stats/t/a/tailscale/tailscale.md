@@ -1,10 +1,10 @@
 # tailscale/tailscale - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 613
+☋ Forks: 614
 
-★ Stars: 9619
+★ Stars: 9633
 
 [Open repository](https://github.com/tailscale/tailscale)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 9633 | 614 | 
 | 2022-11-07 | 9619 | 613 | 
 | 2022-11-06 | 9609 | 613 | 
 | 2022-11-05 | 9596 | 612 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 9291 | 591 | 
 | 2022-10-11 | 9281 | 590 | 
 | 2022-10-10 | 9273 | 590 | 
-| 2022-10-09 | 9259 | 590 | 
 

@@ -1,10 +1,10 @@
 # lightdash/lightdash - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 118
+☋ Forks: 120
 
-★ Stars: 1768
+★ Stars: 1777
 
 [Open repository](https://github.com/lightdash/lightdash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1777 | 120 | 
 | 2022-11-07 | 1768 | 118 | 
 | 2022-11-06 | 1766 | 118 | 
 | 2022-11-05 | 1766 | 118 | 

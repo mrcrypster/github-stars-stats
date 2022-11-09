@@ -1,8 +1,8 @@
 # pranjay-poddar/Dev-Geeks - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 257
+☋ Forks: 256
 
 ★ Stars: 155
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 155 | 256 | 
 | 2022-11-07 | 155 | 257 | 
 | 2022-11-06 | 155 | 257 | 
 | 2022-11-05 | 155 | 257 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 153 | 271 | 
 | 2022-10-11 | 144 | 260 | 
 | 2022-10-10 | 144 | 260 | 
-| 2022-10-09 | 134 | 238 | 
 

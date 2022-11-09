@@ -1,6 +1,6 @@
 # AdaCore/libadalang - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 123 | 40 | 
 | 2022-11-07 | 123 | 40 | 
 | 2022-11-06 | 123 | 40 | 
 | 2022-11-05 | 123 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 122 | 39 | 
 | 2022-10-11 | 122 | 39 | 
 | 2022-10-10 | 122 | 39 | 
-| 2022-10-09 | 122 | 39 | 
 

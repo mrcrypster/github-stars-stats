@@ -1,6 +1,6 @@
 # vgod/vimrc - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 408
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 989 | 408 | 
 | 2022-11-07 | 989 | 408 | 
 | 2022-11-06 | 989 | 408 | 
 | 2022-11-05 | 990 | 408 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 990 | 408 | 
 | 2022-10-11 | 990 | 408 | 
 | 2022-10-10 | 990 | 408 | 
-| 2022-10-09 | 991 | 408 | 
 

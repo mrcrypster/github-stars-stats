@@ -1,10 +1,10 @@
 # donald-f-ferguson/Intro-to-Databases-F22 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 21
 
-★ Stars: 34
+★ Stars: 36
 
 [Open repository](https://github.com/donald-f-ferguson/Intro-to-Databases-F22)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 36 | 21 | 
 | 2022-11-07 | 34 | 21 | 
 | 2022-11-06 | 34 | 21 | 
 | 2022-11-05 | 34 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 31 | 19 | 
 | 2022-10-11 | 30 | 19 | 
 | 2022-10-10 | 30 | 19 | 
-| 2022-10-09 | 30 | 19 | 
 

@@ -1,10 +1,10 @@
 # HaxeFlixel/flixel - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 354
 
-★ Stars: 1655
+★ Stars: 1656
 
 [Open repository](https://github.com/HaxeFlixel/flixel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1656 | 354 | 
 | 2022-11-07 | 1655 | 354 | 
 | 2022-11-06 | 1655 | 354 | 
 | 2022-11-05 | 1655 | 354 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1641 | 351 | 
 | 2022-10-11 | 1641 | 351 | 
 | 2022-10-10 | 1641 | 351 | 
-| 2022-10-09 | 1640 | 350 | 
 

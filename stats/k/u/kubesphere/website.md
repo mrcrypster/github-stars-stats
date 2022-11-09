@@ -1,6 +1,6 @@
 # kubesphere/website - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 208
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 55 | 208 | 
 | 2022-11-07 | 55 | 208 | 
 | 2022-11-06 | 54 | 208 | 
 | 2022-11-05 | 54 | 208 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 54 | 204 | 
 | 2022-10-12 | 54 | 205 | 
 | 2022-10-10 | 54 | 205 | 
-| 2022-10-09 | 54 | 205 | 
 

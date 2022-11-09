@@ -1,10 +1,10 @@
 # HandBrake/HandBrake - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 1027
+☋ Forks: 1029
 
-★ Stars: 11068
+★ Stars: 11077
 
 [Open repository](https://github.com/HandBrake/HandBrake)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 11077 | 1029 | 
 | 2022-11-07 | 11068 | 1027 | 
 | 2022-11-06 | 11062 | 1026 | 
 | 2022-11-05 | 11051 | 1027 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 10913 | 1022 | 
 | 2022-10-11 | 10900 | 1023 | 
 | 2022-10-10 | 10892 | 1023 | 
-| 2022-10-09 | 10886 | 1023 | 
 

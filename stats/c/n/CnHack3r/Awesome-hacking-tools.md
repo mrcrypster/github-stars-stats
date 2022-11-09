@@ -1,10 +1,10 @@
 # CnHack3r/Awesome-hacking-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 17
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/CnHack3r/Awesome-hacking-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 96 | 17 | 
 | 2022-11-08 | 95 | 17 | 
 | 2022-11-07 | 95 | 17 | 
 | 2022-11-05 | 95 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 93 | 17 | 
 | 2022-10-11 | 93 | 17 | 
 | 2022-10-10 | 93 | 17 | 
-| 2022-10-09 | 93 | 17 | 
 

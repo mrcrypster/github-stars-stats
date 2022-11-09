@@ -1,10 +1,10 @@
 # jsx-eslint/eslint-plugin-react - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 2688
 
-★ Stars: 8128
+★ Stars: 8132
 
 [Open repository](https://github.com/jsx-eslint/eslint-plugin-react)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 8132 | 2688 | 
 | 2022-11-07 | 8128 | 2688 | 
 | 2022-11-06 | 8125 | 2687 | 
 | 2022-11-05 | 8121 | 2686 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 8075 | 2658 | 
 | 2022-10-11 | 8068 | 2657 | 
 | 2022-10-10 | 8064 | 2652 | 
-| 2022-10-09 | 8058 | 2649 | 
 

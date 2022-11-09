@@ -1,6 +1,6 @@
 # wctsai20002/navicat-refresh - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 127 | 71 | 
 | 2022-11-07 | 127 | 71 | 
 | 2022-11-06 | 127 | 71 | 
 | 2022-11-05 | 127 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 127 | 70 | 
 | 2022-10-11 | 127 | 70 | 
 | 2022-10-10 | 126 | 70 | 
-| 2022-10-09 | 126 | 69 | 
 

@@ -1,6 +1,6 @@
 # RavelloH/RTheme - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 49 | 3 | 
 | 2022-11-07 | 49 | 3 | 
 | 2022-11-06 | 49 | 3 | 
 | 2022-11-05 | 49 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 49 | 3 | 
 | 2022-10-11 | 49 | 3 | 
 | 2022-10-10 | 49 | 3 | 
-| 2022-10-09 | 49 | 3 | 
 

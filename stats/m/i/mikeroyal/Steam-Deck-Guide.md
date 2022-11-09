@@ -1,10 +1,10 @@
 # mikeroyal/Steam-Deck-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 36
 
-★ Stars: 1141
+★ Stars: 1143
 
 [Open repository](https://github.com/mikeroyal/Steam-Deck-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1143 | 36 | 
 | 2022-11-07 | 1141 | 36 | 
 | 2022-11-06 | 1141 | 36 | 
 | 2022-11-05 | 1139 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1052 | 35 | 
 | 2022-10-11 | 1049 | 35 | 
 | 2022-10-10 | 1040 | 35 | 
-| 2022-10-09 | 1027 | 34 | 
 

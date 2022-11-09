@@ -1,6 +1,6 @@
 # lightninglabs/taro - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 189 | 31 | 
 | 2022-11-07 | 189 | 31 | 
 | 2022-11-06 | 187 | 30 | 
 | 2022-11-05 | 187 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 170 | 22 | 
 | 2022-10-11 | 169 | 22 | 
 | 2022-10-10 | 168 | 21 | 
-| 2022-10-09 | 167 | 21 | 
 

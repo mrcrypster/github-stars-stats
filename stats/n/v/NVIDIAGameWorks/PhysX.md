@@ -1,10 +1,10 @@
 # NVIDIAGameWorks/PhysX - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 743
 
-★ Stars: 2641
+★ Stars: 2642
 
 [Open repository](https://github.com/NVIDIAGameWorks/PhysX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2642 | 743 | 
 | 2022-11-07 | 2641 | 743 | 
 | 2022-11-06 | 2637 | 743 | 
 | 2022-11-05 | 2637 | 742 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 2605 | 732 | 
 | 2022-10-11 | 2605 | 731 | 
 | 2022-10-10 | 2602 | 730 | 
-| 2022-10-09 | 2602 | 729 | 
 

@@ -1,6 +1,6 @@
 # tgstation/tgstation - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 3974
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1374 | 3974 | 
 | 2022-11-07 | 1374 | 3974 | 
 | 2022-11-06 | 1374 | 3974 | 
 | 2022-11-05 | 1372 | 3973 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1360 | 3935 | 
 | 2022-10-11 | 1360 | 3935 | 
 | 2022-10-10 | 1359 | 3933 | 
-| 2022-10-09 | 1360 | 3933 | 
 

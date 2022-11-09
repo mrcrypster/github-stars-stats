@@ -1,10 +1,10 @@
 # facemoji/alter-core - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 38
 
-★ Stars: 402
+★ Stars: 403
 
 [Open repository](https://github.com/facemoji/alter-core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 403 | 38 | 
 | 2022-11-07 | 402 | 38 | 
 | 2022-11-06 | 402 | 37 | 
 | 2022-11-05 | 402 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 390 | 32 | 
 | 2022-10-11 | 390 | 32 | 
 | 2022-10-10 | 390 | 32 | 
-| 2022-10-09 | 390 | 32 | 
 

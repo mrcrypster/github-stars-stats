@@ -1,6 +1,6 @@
 # jrnold/r4ds-exercise-solutions - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 293 | 223 | 
 | 2022-11-07 | 293 | 223 | 
 | 2022-11-06 | 293 | 223 | 
 | 2022-11-05 | 293 | 223 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 291 | 220 | 
 | 2022-10-11 | 291 | 220 | 
 | 2022-10-10 | 291 | 220 | 
-| 2022-10-09 | 291 | 221 | 
 

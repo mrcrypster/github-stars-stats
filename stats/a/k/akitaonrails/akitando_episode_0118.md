@@ -1,6 +1,6 @@
 # akitaonrails/akitando_episode_0118 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 191 | 28 | 
 | 2022-11-07 | 191 | 28 | 
 | 2022-11-06 | 191 | 28 | 
 | 2022-11-05 | 191 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 188 | 28 | 
 | 2022-10-11 | 188 | 28 | 
 | 2022-10-10 | 188 | 28 | 
-| 2022-10-09 | 188 | 28 | 
 

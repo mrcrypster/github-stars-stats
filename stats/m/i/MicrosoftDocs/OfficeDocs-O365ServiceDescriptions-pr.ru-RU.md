@@ -1,6 +1,6 @@
 # MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr.ru-RU - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2 | 3 | 
 | 2022-11-07 | 2 | 3 | 
 | 2022-11-06 | 2 | 3 | 
 | 2022-11-05 | 2 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 2 | 4 | 
 | 2022-10-12 | 2 | 4 | 
 | 2022-10-11 | 2 | 4 | 
-| 2022-10-10 | 2 | 4 | 
 

@@ -1,6 +1,6 @@
 # origin0110/OriginShader - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 264 | 127 | 
 | 2022-11-07 | 264 | 127 | 
 | 2022-11-06 | 264 | 127 | 
 | 2022-11-05 | 264 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 263 | 126 | 
 | 2022-10-12 | 263 | 126 | 
 | 2022-10-11 | 263 | 126 | 
-| 2022-10-10 | 263 | 126 | 
 

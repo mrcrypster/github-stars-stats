@@ -1,10 +1,10 @@
 # airalab/hs-web3 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 60
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/airalab/hs-web3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 176 | 60 | 
 | 2022-11-07 | 175 | 60 | 
 | 2022-11-06 | 175 | 60 | 
 | 2022-11-05 | 175 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 173 | 60 | 
 | 2022-10-11 | 173 | 60 | 
 | 2022-10-10 | 173 | 60 | 
-| 2022-10-09 | 173 | 60 | 
 

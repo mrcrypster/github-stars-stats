@@ -1,8 +1,8 @@
 # microsoft/python-sample-vscode-flask-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 3167
+☋ Forks: 3172
 
 ★ Stars: 246
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 246 | 3172 | 
 | 2022-11-07 | 246 | 3167 | 
 | 2022-11-06 | 246 | 3163 | 
 | 2022-11-05 | 246 | 3163 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 243 | 3101 | 
 | 2022-10-11 | 242 | 3098 | 
 | 2022-10-10 | 242 | 3095 | 
-| 2022-10-09 | 242 | 3090 | 
 

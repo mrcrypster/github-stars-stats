@@ -1,10 +1,10 @@
 # likeyun/liKeYun_Dwz - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 57
+☋ Forks: 59
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/likeyun/liKeYun_Dwz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 181 | 59 | 
 | 2022-11-07 | 180 | 57 | 
 | 2022-11-06 | 179 | 57 | 
 | 2022-11-05 | 179 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 168 | 54 | 
 | 2022-10-12 | 166 | 54 | 
 | 2022-10-11 | 166 | 54 | 
-| 2022-10-10 | 166 | 54 | 
 

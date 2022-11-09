@@ -1,6 +1,6 @@
 # rebelchris/daily-dev-tips - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 67 | 148 | 
 | 2022-11-07 | 67 | 148 | 
 | 2022-11-06 | 67 | 148 | 
 | 2022-11-05 | 67 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 64 | 132 | 
 | 2022-10-11 | 64 | 130 | 
 | 2022-10-10 | 64 | 128 | 
-| 2022-10-09 | 63 | 127 | 
 

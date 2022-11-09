@@ -1,6 +1,6 @@
 # tpope/vim-ragtag - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 349 | 58 | 
 | 2022-11-07 | 349 | 58 | 
 | 2022-11-06 | 349 | 58 | 
 | 2022-11-05 | 349 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 349 | 58 | 
 | 2022-10-11 | 349 | 57 | 
 | 2022-10-10 | 348 | 57 | 
-| 2022-10-09 | 348 | 57 | 
 

@@ -1,10 +1,10 @@
 # rstudio/rmarkdown-cookbook - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 177
 
-★ Stars: 481
+★ Stars: 482
 
 [Open repository](https://github.com/rstudio/rmarkdown-cookbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 482 | 177 | 
 | 2022-11-07 | 481 | 177 | 
 | 2022-11-06 | 481 | 177 | 
 | 2022-11-05 | 480 | 177 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 475 | 175 | 
 | 2022-10-11 | 475 | 175 | 
 | 2022-10-10 | 475 | 174 | 
-| 2022-10-09 | 474 | 174 | 
 

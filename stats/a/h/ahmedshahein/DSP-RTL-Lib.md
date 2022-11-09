@@ -1,6 +1,6 @@
 # ahmedshahein/DSP-RTL-Lib - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 49 | 16 | 
 | 2022-11-07 | 49 | 16 | 
 | 2022-11-06 | 49 | 16 | 
 | 2022-11-05 | 49 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 47 | 16 | 
 | 2022-10-12 | 47 | 16 | 
 | 2022-10-11 | 47 | 16 | 
-| 2022-10-10 | 47 | 16 | 
 

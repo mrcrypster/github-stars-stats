@@ -1,10 +1,10 @@
 # CAIC-AD/YOLOPv2 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 30
+☋ Forks: 31
 
-★ Stars: 247
+★ Stars: 249
 
 [Open repository](https://github.com/CAIC-AD/YOLOPv2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 249 | 31 | 
 | 2022-11-07 | 247 | 30 | 
 | 2022-11-06 | 247 | 30 | 
 | 2022-11-05 | 247 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 223 | 26 | 
 | 2022-10-11 | 223 | 26 | 
 | 2022-10-10 | 222 | 26 | 
-| 2022-10-09 | 220 | 26 | 
 

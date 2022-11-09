@@ -1,6 +1,6 @@
 # andreasgrafen/cascade - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 91
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 620 | 91 | 
 | 2022-11-07 | 620 | 91 | 
 | 2022-11-06 | 618 | 91 | 
 | 2022-11-05 | 618 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 535 | 81 | 
 | 2022-10-11 | 533 | 79 | 
 | 2022-10-10 | 529 | 79 | 
-| 2022-10-09 | 530 | 78 | 
 

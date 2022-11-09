@@ -1,10 +1,10 @@
 # moodle/moodle - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 5703
+☋ Forks: 5704
 
-★ Stars: 4405
+★ Stars: 4406
 
 [Open repository](https://github.com/moodle/moodle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 4406 | 5704 | 
 | 2022-11-07 | 4405 | 5703 | 
 | 2022-11-06 | 4404 | 5705 | 
 | 2022-11-05 | 4402 | 5706 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 4361 | 5660 | 
 | 2022-10-11 | 4359 | 5660 | 
 | 2022-10-10 | 4355 | 5655 | 
-| 2022-10-09 | 4353 | 5654 | 
 

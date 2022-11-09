@@ -1,10 +1,10 @@
 # metaplex-foundation/sugar - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 77
+☋ Forks: 78
 
-★ Stars: 141
+★ Stars: 142
 
 [Open repository](https://github.com/metaplex-foundation/sugar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 142 | 78 | 
 | 2022-11-07 | 141 | 77 | 
 | 2022-11-06 | 141 | 77 | 
 | 2022-11-05 | 141 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 138 | 74 | 
 | 2022-10-11 | 138 | 75 | 
 | 2022-10-10 | 138 | 76 | 
-| 2022-10-09 | 138 | 74 | 
 

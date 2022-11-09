@@ -1,6 +1,6 @@
 # MikeSchulze/gdUnit3 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 236 | 19 | 
 | 2022-11-07 | 236 | 19 | 
 | 2022-11-06 | 236 | 19 | 
 | 2022-11-05 | 236 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 228 | 18 | 
 | 2022-10-12 | 228 | 18 | 
 | 2022-10-11 | 227 | 18 | 
-| 2022-10-10 | 227 | 17 | 
 

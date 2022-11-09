@@ -1,10 +1,10 @@
 # stuhli/awesome-event-ids - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 66
+☋ Forks: 67
 
-★ Stars: 391
+★ Stars: 392
 
 [Open repository](https://github.com/stuhli/awesome-event-ids)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 392 | 67 | 
 | 2022-11-07 | 391 | 66 | 
 | 2022-11-06 | 387 | 66 | 
 | 2022-11-05 | 385 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 379 | 62 | 
 | 2022-10-11 | 379 | 62 | 
 | 2022-10-10 | 377 | 62 | 
-| 2022-10-09 | 376 | 62 | 
 

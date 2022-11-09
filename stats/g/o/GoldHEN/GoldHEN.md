@@ -1,8 +1,8 @@
 # GoldHEN/GoldHEN - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 69
+☋ Forks: 70
 
 ★ Stars: 587
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 587 | 70 | 
 | 2022-11-07 | 587 | 69 | 
 | 2022-11-06 | 587 | 69 | 
 | 2022-11-05 | 586 | 69 | 

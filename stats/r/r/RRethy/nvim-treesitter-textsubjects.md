@@ -1,6 +1,6 @@
 # RRethy/nvim-treesitter-textsubjects - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 303 | 13 | 
 | 2022-11-07 | 303 | 13 | 
 | 2022-11-06 | 303 | 13 | 
 | 2022-11-05 | 303 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 295 | 12 | 
 | 2022-10-11 | 294 | 12 | 
 | 2022-10-10 | 294 | 12 | 
-| 2022-10-09 | 293 | 12 | 
 

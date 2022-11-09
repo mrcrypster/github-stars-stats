@@ -1,10 +1,10 @@
 # MatsuriDayo/Matsuri - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 112
+☋ Forks: 113
 
-★ Stars: 1063
+★ Stars: 1071
 
 [Open repository](https://github.com/MatsuriDayo/Matsuri)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1071 | 113 | 
 | 2022-11-07 | 1063 | 112 | 
 | 2022-11-06 | 1063 | 111 | 
 | 2022-11-05 | 1048 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 910 | 102 | 
 | 2022-10-11 | 904 | 102 | 
 | 2022-10-10 | 899 | 101 | 
-| 2022-10-09 | 898 | 101 | 
 

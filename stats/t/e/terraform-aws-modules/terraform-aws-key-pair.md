@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 08
 
 ☋ Forks: 91
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/terraform-aws-modules/terraform-aws-key-pair)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-08 | 56 | 91 | 
+| 2022-11-08 | 57 | 91 | 
 | 2022-11-07 | 56 | 91 | 
 | 2022-11-06 | 55 | 91 | 
 | 2022-11-05 | 55 | 91 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-12 | 55 | 90 | 
 | 2022-10-11 | 55 | 90 | 
 | 2022-10-10 | 54 | 90 | 
-| 2022-10-09 | 53 | 90 | 
 

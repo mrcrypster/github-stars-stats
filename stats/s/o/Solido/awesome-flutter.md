@@ -1,10 +1,10 @@
 # Solido/awesome-flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 6131
 
-★ Stars: 43808
+★ Stars: 43832
 
 [Open repository](https://github.com/Solido/awesome-flutter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 43832 | 6131 | 
 | 2022-11-07 | 43808 | 6131 | 
 | 2022-11-06 | 43810 | 6131 | 
 | 2022-11-05 | 43800 | 6130 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 43168 | 6096 | 
 | 2022-10-11 | 43156 | 6093 | 
 | 2022-10-10 | 43142 | 6092 | 
-| 2022-10-09 | 43133 | 6092 | 
 

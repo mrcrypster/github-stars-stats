@@ -1,6 +1,6 @@
 # publicsamples/Oi-Grandad - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 82 | 3 | 
 | 2022-11-07 | 82 | 3 | 
 | 2022-11-06 | 81 | 3 | 
 | 2022-11-05 | 81 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 78 | 3 | 
 | 2022-10-11 | 78 | 3 | 
 | 2022-10-10 | 76 | 3 | 
-| 2022-10-09 | 74 | 3 | 
 

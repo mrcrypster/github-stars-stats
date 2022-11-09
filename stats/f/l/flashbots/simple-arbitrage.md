@@ -1,10 +1,10 @@
 # flashbots/simple-arbitrage - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 568
+☋ Forks: 569
 
-★ Stars: 1440
+★ Stars: 1442
 
 [Open repository](https://github.com/flashbots/simple-arbitrage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 1442 | 569 | 
 | 2022-11-07 | 1440 | 568 | 
 | 2022-11-06 | 1437 | 568 | 
 | 2022-11-05 | 1437 | 568 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1402 | 547 | 
 | 2022-10-11 | 1398 | 546 | 
 | 2022-10-10 | 1393 | 546 | 
-| 2022-10-09 | 1388 | 545 | 
 

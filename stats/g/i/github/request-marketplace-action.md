@@ -1,6 +1,6 @@
 # github/request-marketplace-action - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 11 | 4 | 
 | 2022-11-07 | 11 | 4 | 
 | 2022-11-06 | 11 | 4 | 
 | 2022-11-05 | 11 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 8 | 4 | 
 | 2022-10-11 | 8 | 4 | 
 | 2022-10-10 | 8 | 4 | 
-| 2022-10-09 | 8 | 4 | 
 

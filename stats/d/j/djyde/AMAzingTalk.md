@@ -1,6 +1,6 @@
 # djyde/AMAzingTalk - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 28 | 15 | 
 | 2022-11-07 | 28 | 15 | 
 | 2022-11-06 | 28 | 15 | 
 | 2022-11-05 | 28 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 27 | 13 | 
 | 2022-10-11 | 27 | 13 | 
 | 2022-10-10 | 27 | 13 | 
-| 2022-10-09 | 27 | 13 | 
 

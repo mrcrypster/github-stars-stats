@@ -1,6 +1,6 @@
 # takshal/freq - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 179 | 67 | 
 | 2022-11-07 | 179 | 67 | 
 | 2022-11-06 | 179 | 67 | 
 | 2022-11-05 | 177 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 176 | 67 | 
 | 2022-10-11 | 176 | 67 | 
 | 2022-10-10 | 176 | 67 | 
-| 2022-10-09 | 176 | 67 | 
 

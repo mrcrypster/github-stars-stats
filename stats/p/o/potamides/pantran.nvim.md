@@ -1,10 +1,10 @@
 # potamides/pantran.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 2
 
-★ Stars: 112
+★ Stars: 115
 
 [Open repository](https://github.com/potamides/pantran.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 115 | 2 | 
 | 2022-11-07 | 112 | 2 | 
 | 2022-11-06 | 111 | 2 | 
 | 2022-11-05 | 110 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-13 | 90 | 2 | 
 | 2022-10-12 | 90 | 2 | 
 | 2022-10-11 | 89 | 1 | 
-| 2022-10-10 | 89 | 1 | 
 

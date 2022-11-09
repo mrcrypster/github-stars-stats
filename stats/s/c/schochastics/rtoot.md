@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 08
 
 ☋ Forks: 2
 
-★ Stars: 50
+★ Stars: 55
 
 [Open repository](https://github.com/schochastics/rtoot)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-08 | 50 | 2 | 
+| 2022-11-08 | 55 | 2 | 
 | 2022-11-07 | 49 | 2 | 
 

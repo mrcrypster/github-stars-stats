@@ -1,6 +1,6 @@
 # vikas99341/K8S-pipeline - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | - | 34 | 
 | 2022-11-07 | - | 34 | 
 | 2022-11-06 | - | 34 | 
 | 2022-11-05 | - | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | - | 34 | 
 | 2022-10-11 | - | 34 | 
 | 2022-10-10 | - | 34 | 
-| 2022-10-09 | - | 34 | 
 

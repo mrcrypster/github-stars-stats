@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 08
 
-☋ Forks: 29
+☋ Forks: 31
 
-★ Stars: 335
+★ Stars: 384
 
 [Open repository](https://github.com/idanya/algo-trader)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-08 | 335 | 29 | 
+| 2022-11-08 | 384 | 31 | 
 | 2022-11-07 | 316 | 29 | 
 

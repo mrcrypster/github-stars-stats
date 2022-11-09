@@ -1,10 +1,10 @@
 # lizhipay/acg-faka - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 154
 
-★ Stars: 670
+★ Stars: 671
 
 [Open repository](https://github.com/lizhipay/acg-faka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 671 | 154 | 
 | 2022-11-07 | 670 | 154 | 
 | 2022-11-06 | 671 | 154 | 
 | 2022-11-05 | 670 | 154 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 637 | 142 | 
 | 2022-10-11 | 636 | 142 | 
 | 2022-10-10 | 633 | 142 | 
-| 2022-10-09 | 629 | 140 | 
 

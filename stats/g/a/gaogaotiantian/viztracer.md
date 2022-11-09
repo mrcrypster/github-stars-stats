@@ -1,10 +1,10 @@
 # gaogaotiantian/viztracer - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 269
 
-★ Stars: 2647
+★ Stars: 2651
 
 [Open repository](https://github.com/gaogaotiantian/viztracer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 2651 | 269 | 
 | 2022-11-07 | 2647 | 269 | 
 | 2022-11-06 | 2644 | 269 | 
 | 2022-11-05 | 2643 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 2586 | 261 | 
 | 2022-10-11 | 2582 | 261 | 
 | 2022-10-10 | 2577 | 260 | 
-| 2022-10-09 | 2574 | 258 | 
 

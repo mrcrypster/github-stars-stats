@@ -1,10 +1,10 @@
 # elkowar/eww - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 169
 
-★ Stars: 4098
+★ Stars: 4099
 
 [Open repository](https://github.com/elkowar/eww)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 4099 | 169 | 
 | 2022-11-07 | 4098 | 169 | 
 | 2022-11-06 | 4094 | 168 | 
 | 2022-11-05 | 4085 | 167 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 3926 | 161 | 
 | 2022-10-11 | 3921 | 161 | 
 | 2022-10-10 | 3860 | 160 | 
-| 2022-10-09 | 3846 | 160 | 
 

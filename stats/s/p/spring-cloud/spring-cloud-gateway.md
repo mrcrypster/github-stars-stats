@@ -1,6 +1,6 @@
 # spring-cloud/spring-cloud-gateway - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 2848
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 3768 | 2848 | 
 | 2022-11-07 | 3768 | 2848 | 
 | 2022-11-06 | 3766 | 2847 | 
 | 2022-11-05 | 3766 | 2847 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 3735 | 2832 | 
 | 2022-10-11 | 3734 | 2831 | 
 | 2022-10-10 | 3732 | 2831 | 
-| 2022-10-09 | 3729 | 2831 | 
 

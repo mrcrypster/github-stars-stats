@@ -1,6 +1,6 @@
 # PyO3/maturin - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1452 | 123 | 
 | 2022-11-07 | 1452 | 123 | 
 | 2022-11-06 | 1449 | 122 | 
 | 2022-11-05 | 1447 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 1404 | 121 | 
 | 2022-10-11 | 1398 | 121 | 
 | 2022-10-10 | 1395 | 121 | 
-| 2022-10-09 | 1394 | 121 | 
 

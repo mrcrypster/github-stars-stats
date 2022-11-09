@@ -1,10 +1,10 @@
 # defund-labs/testnet - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 1034
+☋ Forks: 1036
 
-★ Stars: 23
+★ Stars: 25
 
 [Open repository](https://github.com/defund-labs/testnet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 25 | 1036 | 
 | 2022-11-07 | 23 | 1034 | 
 | 2022-11-06 | 23 | 1027 | 
 | 2022-11-05 | 23 | 1026 | 

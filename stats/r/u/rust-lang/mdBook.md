@@ -1,10 +1,10 @@
 # rust-lang/mdBook - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 1203
+☋ Forks: 1204
 
-★ Stars: 11085
+★ Stars: 11092
 
 [Open repository](https://github.com/rust-lang/mdBook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 11092 | 1204 | 
 | 2022-11-07 | 11085 | 1203 | 
 | 2022-11-06 | 11076 | 1202 | 
 | 2022-11-05 | 11068 | 1202 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 10860 | 1186 | 
 | 2022-10-11 | 10854 | 1184 | 
 | 2022-10-10 | 10844 | 1182 | 
-| 2022-10-09 | 10840 | 1182 | 
 

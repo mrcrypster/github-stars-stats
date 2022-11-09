@@ -1,10 +1,10 @@
 # BoyceLig/Clash_Chinese_Patch - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 916
+☋ Forks: 918
 
-★ Stars: 9891
+★ Stars: 9918
 
 [Open repository](https://github.com/BoyceLig/Clash_Chinese_Patch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 9918 | 918 | 
 | 2022-11-07 | 9891 | 916 | 
 | 2022-11-06 | 9878 | 917 | 
 | 2022-11-05 | 9843 | 915 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 9335 | 882 | 
 | 2022-10-11 | 9316 | 880 | 
 | 2022-10-10 | 9292 | 879 | 
-| 2022-10-09 | 9271 | 878 | 
 

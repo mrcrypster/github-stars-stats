@@ -1,10 +1,10 @@
 # pantor/ruckig - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 85
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/pantor/ruckig)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 354 | 85 | 
 | 2022-11-07 | 353 | 85 | 
 | 2022-11-06 | 351 | 85 | 
 | 2022-11-05 | 351 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 336 | 80 | 
 | 2022-10-11 | 336 | 80 | 
 | 2022-10-10 | 334 | 79 | 
-| 2022-10-09 | 334 | 79 | 
 

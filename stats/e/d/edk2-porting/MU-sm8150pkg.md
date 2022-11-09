@@ -1,10 +1,10 @@
 # edk2-porting/MU-sm8150pkg - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 19
 
-★ Stars: 16
+★ Stars: 19
 
 [Open repository](https://github.com/edk2-porting/MU-sm8150pkg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 19 | 19 | 
 | 2022-11-07 | 16 | 19 | 
 | 2022-11-06 | 16 | 19 | 
 | 2022-11-05 | 14 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 9 | 9 | 
 | 2022-10-11 | 8 | 9 | 
 | 2022-10-10 | 8 | 9 | 
-| 2022-10-09 | 8 | 9 | 
 

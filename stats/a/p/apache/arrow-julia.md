@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 08
 
 ☋ Forks: 46
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/apache/arrow-julia)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-08 | 210 | 46 | 
+| 2022-11-08 | 211 | 46 | 
 | 2022-11-07 | 210 | 46 | 
 

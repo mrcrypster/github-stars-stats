@@ -1,6 +1,6 @@
 # huaweicloud/Sermant - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 357 | 84 | 
 | 2022-11-07 | 357 | 84 | 
 | 2022-11-06 | 357 | 84 | 
 | 2022-11-05 | 357 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 203 | 72 | 
 | 2022-10-11 | 201 | 69 | 
 | 2022-10-10 | 194 | 66 | 
-| 2022-10-09 | 194 | 66 | 
 

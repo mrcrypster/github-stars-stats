@@ -1,10 +1,10 @@
 # quchen/generative-art - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
-☋ Forks: 7
+☋ Forks: 6
 
-★ Stars: 129
+★ Stars: 130
 
 [Open repository](https://github.com/quchen/generative-art)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 130 | 6 | 
 | 2022-11-07 | 129 | 7 | 
 | 2022-11-06 | 128 | 7 | 
 | 2022-11-05 | 128 | 7 | 

@@ -1,10 +1,10 @@
 # ergrelet/unlicense - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 85
 
-★ Stars: 447
+★ Stars: 446
 
 [Open repository](https://github.com/ergrelet/unlicense)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 446 | 85 | 
 | 2022-11-07 | 447 | 85 | 
 | 2022-11-06 | 446 | 85 | 
 | 2022-11-05 | 446 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 435 | 82 | 
 | 2022-10-11 | 435 | 82 | 
 | 2022-10-10 | 435 | 82 | 
-| 2022-10-09 | 434 | 82 | 
 

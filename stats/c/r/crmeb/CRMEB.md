@@ -1,10 +1,10 @@
 # crmeb/CRMEB - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 1078
 
-★ Stars: 3774
+★ Stars: 3775
 
 [Open repository](https://github.com/crmeb/CRMEB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 3775 | 1078 | 
 | 2022-11-07 | 3774 | 1078 | 
 | 2022-11-06 | 3774 | 1078 | 
 | 2022-11-05 | 3773 | 1078 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 3752 | 1072 | 
 | 2022-10-11 | 3752 | 1072 | 
 | 2022-10-10 | 3749 | 1072 | 
-| 2022-10-09 | 3746 | 1072 | 
 

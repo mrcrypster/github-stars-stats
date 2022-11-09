@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 08
 
-☋ Forks: 23
+☋ Forks: 27
 
-★ Stars: 75
+★ Stars: 87
 
 [Open repository](https://github.com/Art0white/FastBeeIM)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-08 | 75 | 23 | 
+| 2022-11-08 | 87 | 27 | 
 | 2022-11-07 | 72 | 22 | 
 | 2022-11-06 | 55 | 15 | 
 

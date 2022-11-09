@@ -1,6 +1,6 @@
 # LinkedInLearning/python-essential-training-2449125 - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 177
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 181 | 177 | 
 | 2022-11-07 | 181 | 177 | 
 | 2022-11-06 | 180 | 176 | 
 | 2022-11-05 | 179 | 175 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 159 | 164 | 
 | 2022-10-11 | 156 | 163 | 
 | 2022-10-10 | 154 | 161 | 
-| 2022-10-09 | 153 | 160 | 
 

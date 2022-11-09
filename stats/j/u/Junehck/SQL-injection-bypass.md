@@ -1,10 +1,10 @@
 # Junehck/SQL-injection-bypass - stars & forks statistics
 
-Stats updated on Nov 2022, 07
+Stats updated on Nov 2022, 08
 
 ☋ Forks: 59
 
-★ Stars: 435
+★ Stars: 437
 
 [Open repository](https://github.com/Junehck/SQL-injection-bypass)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 07
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-08 | 437 | 59 | 
 | 2022-11-07 | 435 | 59 | 
 | 2022-11-06 | 435 | 59 | 
 | 2022-11-05 | 435 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 07
 | 2022-10-12 | 424 | 57 | 
 | 2022-10-11 | 423 | 57 | 
 | 2022-10-10 | 423 | 58 | 
-| 2022-10-09 | 423 | 58 | 
 
