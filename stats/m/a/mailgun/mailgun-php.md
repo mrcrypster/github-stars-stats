@@ -1,10 +1,10 @@
 # mailgun/mailgun-php - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 318
 
-★ Stars: 1037
+★ Stars: 1038
 
 [Open repository](https://github.com/mailgun/mailgun-php)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1038 | 318 | 
 | 2022-11-09 | 1037 | 318 | 
 | 2022-11-08 | 1037 | 318 | 
 | 2022-11-07 | 1037 | 318 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 1034 | 318 | 
 | 2022-10-12 | 1034 | 318 | 
 | 2022-10-11 | 1034 | 318 | 
-| 2022-10-10 | 1034 | 318 | 
 

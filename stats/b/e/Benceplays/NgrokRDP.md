@@ -1,8 +1,8 @@
 # Benceplays/NgrokRDP - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 63
+☋ Forks: 65
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1 | 65 | 
 | 2022-11-08 | 1 | 63 | 
 | 2022-11-07 | 1 | 62 | 
 | 2022-11-06 | 1 | 61 | 

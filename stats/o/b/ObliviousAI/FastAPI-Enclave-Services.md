@@ -1,6 +1,6 @@
 # ObliviousAI/FastAPI-Enclave-Services - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 90 | 1 | 
 | 2022-11-08 | 90 | 1 | 
 | 2022-11-07 | 90 | 1 | 
 | 2022-11-06 | 89 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 87 | 1 | 
 | 2022-10-12 | 87 | 1 | 
 | 2022-10-11 | 87 | 1 | 
-| 2022-10-10 | 87 | 1 | 
 

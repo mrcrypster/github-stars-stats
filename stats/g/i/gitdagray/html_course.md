@@ -1,8 +1,8 @@
 # gitdagray/html_course - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 248
+☋ Forks: 251
 
 ★ Stars: 260
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 260 | 251 | 
 | 2022-11-08 | 260 | 248 | 
 | 2022-11-07 | 258 | 248 | 
 | 2022-11-06 | 257 | 247 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 229 | 214 | 
 | 2022-10-12 | 228 | 212 | 
 | 2022-10-11 | 228 | 211 | 
-| 2022-10-10 | 228 | 211 | 
 

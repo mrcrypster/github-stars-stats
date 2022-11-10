@@ -1,10 +1,10 @@
 # canove/whaticket - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 410
+☋ Forks: 409
 
-★ Stars: 727
+★ Stars: 728
 
 [Open repository](https://github.com/canove/whaticket)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 728 | 409 | 
 | 2022-11-08 | 727 | 410 | 
 | 2022-11-07 | 724 | 410 | 
 | 2022-11-06 | 722 | 410 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 701 | 387 | 
 | 2022-10-12 | 700 | 386 | 
 | 2022-10-11 | 699 | 385 | 
-| 2022-10-10 | 698 | 384 | 
 

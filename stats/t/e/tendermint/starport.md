@@ -1,6 +1,6 @@
 # tendermint/starport - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 431
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 960 | 431 | 
 | 2022-11-08 | 960 | 431 | 
 | 2022-11-07 | 960 | 431 | 
 | 2022-11-06 | 960 | 431 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 934 | 414 | 
 | 2022-10-12 | 934 | 412 | 
 | 2022-10-11 | 933 | 411 | 
-| 2022-10-10 | 931 | 412 | 
 

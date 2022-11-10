@@ -1,10 +1,10 @@
 # openwdl/workflow-template-wdl - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 6
 
 [Open repository](https://github.com/openwdl/workflow-template-wdl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 6 | - | 
 | 2022-11-08 | 2 | - | 
 | 2022-11-07 | 2 | - | 
 | 2022-11-06 | 2 | - | 

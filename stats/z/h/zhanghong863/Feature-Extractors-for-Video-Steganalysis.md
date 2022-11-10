@@ -1,10 +1,10 @@
 # zhanghong863/Feature-Extractors-for-Video-Steganalysis - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 11
 
-★ Stars: 79
+★ Stars: 80
 
 [Open repository](https://github.com/zhanghong863/Feature-Extractors-for-Video-Steganalysis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 80 | 11 | 
 | 2022-11-08 | 79 | 11 | 
 | 2022-11-07 | 79 | 11 | 
 | 2022-11-06 | 79 | 11 | 

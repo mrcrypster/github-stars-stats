@@ -1,10 +1,10 @@
 # rafaqz/Interfaces.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/rafaqz/Interfaces.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 40 | - | 
 | 2022-11-08 | 39 | - | 
 | 2022-11-07 | 39 | - | 
 | 2022-11-06 | 39 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 39 | - | 
 | 2022-10-13 | 39 | - | 
 | 2022-10-12 | 39 | - | 
-| 2022-10-10 | 39 | - | 
 

@@ -1,10 +1,10 @@
 # antonmedv/fx - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 437
+☋ Forks: 438
 
-★ Stars: 15407
+★ Stars: 15417
 
 [Open repository](https://github.com/antonmedv/fx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 15417 | 438 | 
 | 2022-11-08 | 15407 | 437 | 
 | 2022-11-07 | 15402 | 437 | 
 | 2022-11-06 | 15398 | 437 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 15312 | 432 | 
 | 2022-10-12 | 15310 | 432 | 
 | 2022-10-11 | 15308 | 432 | 
-| 2022-10-10 | 15306 | 432 | 
 

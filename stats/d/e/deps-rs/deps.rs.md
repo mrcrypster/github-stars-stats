@@ -1,6 +1,6 @@
 # deps-rs/deps.rs - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 363 | 24 | 
 | 2022-11-08 | 363 | 24 | 
 | 2022-11-07 | 363 | 24 | 
 | 2022-11-06 | 363 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 360 | 23 | 
 | 2022-10-12 | 360 | 23 | 
 | 2022-10-11 | 359 | 23 | 
-| 2022-10-10 | 359 | 23 | 
 

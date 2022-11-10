@@ -1,6 +1,6 @@
 # sonic-net/SONiC - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 910
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1648 | 910 | 
 | 2022-11-08 | 1648 | 910 | 
 | 2022-11-07 | 1647 | 910 | 
 | 2022-11-06 | 1646 | 910 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1618 | 901 | 
 | 2022-10-12 | 1618 | 898 | 
 | 2022-10-11 | 1618 | 897 | 
-| 2022-10-10 | 1616 | 894 | 
 

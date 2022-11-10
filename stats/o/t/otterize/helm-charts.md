@@ -1,6 +1,6 @@
 # otterize/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 9 | - | 
 | 2022-11-08 | 9 | - | 
 | 2022-11-07 | 9 | - | 
 | 2022-11-06 | 9 | - | 

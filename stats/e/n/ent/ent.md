@@ -1,10 +1,10 @@
 # ent/ent - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 714
 
-★ Stars: 12299
+★ Stars: 12306
 
 [Open repository](https://github.com/ent/ent)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 12306 | 714 | 
 | 2022-11-08 | 12299 | 714 | 
 | 2022-11-07 | 12280 | 711 | 
 | 2022-11-06 | 12275 | 710 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 11771 | 689 | 
 | 2022-10-12 | 11765 | 687 | 
 | 2022-10-11 | 11759 | 687 | 
-| 2022-10-10 | 11754 | 686 | 
 

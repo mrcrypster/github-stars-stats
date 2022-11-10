@@ -1,10 +1,10 @@
 # open-source-parsers/jsoncpp - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 2428
+☋ Forks: 2429
 
-★ Stars: 6782
+★ Stars: 6785
 
 [Open repository](https://github.com/open-source-parsers/jsoncpp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 6785 | 2429 | 
 | 2022-11-08 | 6782 | 2428 | 
 | 2022-11-07 | 6779 | 2429 | 
 | 2022-11-06 | 6778 | 2426 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 6708 | 2414 | 
 | 2022-10-12 | 6708 | 2413 | 
 | 2022-10-11 | 6706 | 2413 | 
-| 2022-10-10 | 6702 | 2413 | 
 

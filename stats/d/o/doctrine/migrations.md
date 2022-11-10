@@ -1,10 +1,10 @@
 # doctrine/migrations - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 370
 
-★ Stars: 4429
+★ Stars: 4430
 
 [Open repository](https://github.com/doctrine/migrations)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 4430 | 370 | 
 | 2022-11-09 | 4429 | 370 | 
 | 2022-11-08 | 4429 | 370 | 
 | 2022-11-07 | 4429 | 370 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 4424 | 367 | 
 | 2022-10-12 | 4421 | 367 | 
 | 2022-10-11 | 4421 | 367 | 
-| 2022-10-10 | 4421 | 367 | 
 

@@ -1,6 +1,6 @@
 # boogie-org/boogie - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 382 | 100 | 
 | 2022-11-08 | 382 | 100 | 
 | 2022-11-07 | 381 | 99 | 
 | 2022-11-06 | 380 | 99 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 373 | 98 | 
 | 2022-10-13 | 373 | 98 | 
 | 2022-10-12 | 372 | 98 | 
-| 2022-10-10 | 372 | 98 | 
 

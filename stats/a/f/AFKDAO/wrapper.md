@@ -1,10 +1,10 @@
 # AFKDAO/wrapper - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 86
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/AFKDAO/wrapper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 546 | 86 | 
 | 2022-11-08 | 545 | 86 | 
 | 2022-11-07 | 545 | 86 | 
 | 2022-11-06 | 545 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 546 | 86 | 
 | 2022-10-12 | 546 | 86 | 
 | 2022-10-11 | 546 | 86 | 
-| 2022-10-10 | 545 | 85 | 
 

@@ -1,8 +1,8 @@
 # devopsjourney1/devops-project2021 - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 52
+☋ Forks: 53
 
 ★ Stars: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 26 | 53 | 
 | 2022-11-09 | 26 | 52 | 
 | 2022-11-07 | 26 | 52 | 
 | 2022-11-06 | 26 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 21 | 49 | 
 | 2022-10-12 | 21 | 49 | 
 | 2022-10-11 | 21 | 49 | 
-| 2022-10-10 | 21 | 49 | 
 

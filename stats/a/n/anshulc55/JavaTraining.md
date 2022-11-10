@@ -1,8 +1,8 @@
 # anshulc55/JavaTraining - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 274
+☋ Forks: 275
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 60 | 275 | 
 | 2022-11-08 | 60 | 274 | 
 | 2022-11-07 | 60 | 274 | 
 | 2022-11-06 | 60 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 59 | 269 | 
 | 2022-10-12 | 59 | 269 | 
 | 2022-10-11 | 59 | 269 | 
-| 2022-10-10 | 59 | 270 | 
 

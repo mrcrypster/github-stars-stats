@@ -1,10 +1,10 @@
 # AzureAD/microsoft-authentication-library-for-android - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 106
 
-★ Stars: 155
+★ Stars: 156
 
 [Open repository](https://github.com/AzureAD/microsoft-authentication-library-for-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 156 | 106 | 
 | 2022-11-08 | 155 | 106 | 
 | 2022-11-07 | 154 | 107 | 
 | 2022-11-06 | 154 | 106 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 152 | 106 | 
 | 2022-10-12 | 152 | 106 | 
 | 2022-10-11 | 152 | 106 | 
-| 2022-10-10 | 152 | 106 | 
 

@@ -1,10 +1,10 @@
 # codingphasedotcom/codingphase-style-vs-code - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 13
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/codingphasedotcom/codingphase-style-vs-code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 38 | 13 | 
 | 2022-11-08 | 37 | 13 | 
 | 2022-11-07 | 36 | 13 | 
 | 2022-11-06 | 36 | 13 | 

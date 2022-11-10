@@ -1,6 +1,6 @@
 # Cal-Poly-Advanced-R/meangirls - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2 | 28 | 
 | 2022-11-08 | 2 | 28 | 
 | 2022-11-07 | 2 | 28 | 
 | 2022-11-06 | 2 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 2 | 28 | 
 | 2022-10-13 | 2 | 28 | 
 | 2022-10-12 | 2 | 28 | 
-| 2022-10-11 | 2 | 28 | 
 

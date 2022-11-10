@@ -1,10 +1,10 @@
 # oracle-terraform-modules/terraform-oci-oke - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 144
 
-★ Stars: 105
+★ Stars: 106
 
 [Open repository](https://github.com/oracle-terraform-modules/terraform-oci-oke)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 106 | 144 | 
 | 2022-11-08 | 105 | 144 | 
 | 2022-11-07 | 105 | 144 | 
 | 2022-11-06 | 105 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 97 | 136 | 
 | 2022-10-12 | 97 | 136 | 
 | 2022-10-11 | 97 | 135 | 
-| 2022-10-10 | 97 | 135 | 
 

@@ -1,10 +1,10 @@
 # r-lib/testthat - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 299
 
-★ Stars: 813
+★ Stars: 814
 
 [Open repository](https://github.com/r-lib/testthat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 814 | 299 | 
 | 2022-11-08 | 813 | 299 | 
 | 2022-11-07 | 813 | 299 | 
 | 2022-11-06 | 812 | 299 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 810 | 299 | 
 | 2022-10-12 | 810 | 299 | 
 | 2022-10-11 | 810 | 299 | 
-| 2022-10-10 | 809 | 299 | 
 

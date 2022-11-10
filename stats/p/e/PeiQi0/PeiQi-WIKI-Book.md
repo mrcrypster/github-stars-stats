@@ -1,10 +1,10 @@
 # PeiQi0/PeiQi-WIKI-Book - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 246
+☋ Forks: 245
 
-★ Stars: 1217
+★ Stars: 1221
 
 [Open repository](https://github.com/PeiQi0/PeiQi-WIKI-Book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1221 | 245 | 
 | 2022-11-08 | 1217 | 246 | 
 | 2022-11-07 | 1215 | 246 | 
 | 2022-11-06 | 1209 | 245 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 1154 | 237 | 
 | 2022-10-13 | 1151 | 237 | 
 | 2022-10-12 | 1148 | 234 | 
-| 2022-10-11 | 1146 | 232 | 
 

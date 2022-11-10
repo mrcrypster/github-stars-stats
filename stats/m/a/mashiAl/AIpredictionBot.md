@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 09
 
 ☋ Forks: 402
 
-★ Stars: 328
+★ Stars: 329
 
 [Open repository](https://github.com/mashiAl/AIpredictionBot)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 328 | 402 | 
+| 2022-11-09 | 329 | 402 | 
 | 2022-11-08 | 328 | 402 | 
 | 2022-11-07 | 247 | 326 | 
 | 2022-11-06 | 240 | 320 | 

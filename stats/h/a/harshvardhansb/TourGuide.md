@@ -1,8 +1,8 @@
 # harshvardhansb/TourGuide - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 90
+☋ Forks: 89
 
 ★ Stars: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 33 | 89 | 
 | 2022-11-08 | 33 | 90 | 
 | 2022-11-07 | 32 | 91 | 
 | 2022-11-06 | 32 | 92 | 

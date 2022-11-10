@@ -1,10 +1,10 @@
 # friebetill/TubeCards - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 17
 
-★ Stars: 175
+★ Stars: 176
 
 [Open repository](https://github.com/friebetill/TubeCards)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 176 | 17 | 
 | 2022-11-08 | 175 | 17 | 
 | 2022-11-07 | 174 | 17 | 
 | 2022-11-06 | 173 | 17 | 

@@ -1,6 +1,6 @@
 # camunda/camunda-bpm-platform - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1240
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2984 | 1240 | 
 | 2022-11-08 | 2984 | 1240 | 
 | 2022-11-07 | 2980 | 1240 | 
 | 2022-11-06 | 2977 | 1239 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 2928 | 1226 | 
 | 2022-10-12 | 2926 | 1226 | 
 | 2022-10-11 | 2919 | 1226 | 
-| 2022-10-10 | 2914 | 1226 | 
 

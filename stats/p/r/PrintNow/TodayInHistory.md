@@ -1,10 +1,10 @@
 # PrintNow/TodayInHistory - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 23
+☋ Forks: 22
 
-★ Stars: 63
+★ Stars: 62
 
 [Open repository](https://github.com/PrintNow/TodayInHistory)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 62 | 22 | 
 | 2022-11-09 | 63 | 23 | 
 | 2022-11-08 | 63 | 23 | 
 | 2022-11-07 | 63 | 23 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 61 | 23 | 
 | 2022-10-12 | 61 | 23 | 
 | 2022-10-11 | 61 | 23 | 
-| 2022-10-10 | 61 | 23 | 
 

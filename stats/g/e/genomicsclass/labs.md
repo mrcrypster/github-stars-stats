@@ -1,10 +1,10 @@
 # genomicsclass/labs - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1858
 
-★ Stars: 1705
+★ Stars: 1704
 
 [Open repository](https://github.com/genomicsclass/labs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1704 | 1858 | 
 | 2022-11-09 | 1705 | 1858 | 
 | 2022-11-08 | 1705 | 1858 | 
 | 2022-11-06 | 1705 | 1858 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 1697 | 1860 | 
 | 2022-10-12 | 1696 | 1859 | 
 | 2022-10-11 | 1696 | 1859 | 
-| 2022-10-10 | 1696 | 1859 | 
 

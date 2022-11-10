@@ -1,8 +1,8 @@
 # xcfcode/Summarization-Papers - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 133
+☋ Forks: 132
 
 ★ Stars: 813
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 813 | 132 | 
 | 2022-11-08 | 813 | 133 | 
 | 2022-11-07 | 812 | 134 | 
 | 2022-11-06 | 811 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 791 | 131 | 
 | 2022-10-12 | 790 | 131 | 
 | 2022-10-11 | 788 | 131 | 
-| 2022-10-10 | 786 | 131 | 
 

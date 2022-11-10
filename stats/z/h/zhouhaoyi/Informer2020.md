@@ -1,10 +1,10 @@
 # zhouhaoyi/Informer2020 - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 671
 
-★ Stars: 2949
+★ Stars: 2953
 
 [Open repository](https://github.com/zhouhaoyi/Informer2020)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2953 | 671 | 
 | 2022-11-08 | 2949 | 671 | 
 | 2022-11-07 | 2941 | 669 | 
 | 2022-11-06 | 2939 | 668 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 2823 | 648 | 
 | 2022-10-12 | 2819 | 644 | 
 | 2022-10-11 | 2809 | 643 | 
-| 2022-10-10 | 2805 | 643 | 
 

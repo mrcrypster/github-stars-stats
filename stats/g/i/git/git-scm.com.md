@@ -1,10 +1,10 @@
 # git/git-scm.com - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1241
 
-★ Stars: 1994
+★ Stars: 1995
 
 [Open repository](https://github.com/git/git-scm.com)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1995 | 1241 | 
 | 2022-11-08 | 1994 | 1241 | 
 | 2022-11-07 | 1995 | 1240 | 
 | 2022-11-06 | 1995 | 1239 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1986 | 1231 | 
 | 2022-10-12 | 1986 | 1231 | 
 | 2022-10-11 | 1986 | 1231 | 
-| 2022-10-10 | 1986 | 1231 | 
 

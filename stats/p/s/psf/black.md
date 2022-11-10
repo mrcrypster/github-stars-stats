@@ -1,10 +1,10 @@
 # psf/black - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 1934
+☋ Forks: 1936
 
-★ Stars: 30113
+★ Stars: 30131
 
 [Open repository](https://github.com/psf/black)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 30131 | 1936 | 
 | 2022-11-08 | 30113 | 1934 | 
 | 2022-11-07 | 30102 | 1932 | 
 | 2022-11-06 | 30083 | 1931 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 29752 | 1892 | 
 | 2022-10-12 | 29740 | 1889 | 
 | 2022-10-11 | 29723 | 1889 | 
-| 2022-10-10 | 29694 | 1887 | 
 

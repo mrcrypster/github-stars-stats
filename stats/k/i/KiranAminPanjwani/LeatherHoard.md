@@ -1,8 +1,8 @@
 # KiranAminPanjwani/LeatherHoard - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 57
+☋ Forks: 56
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 30 | 56 | 
 | 2022-11-08 | 30 | 57 | 
 | 2022-11-07 | 30 | 57 | 
 | 2022-11-06 | 30 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 28 | 51 | 
 | 2022-10-12 | 25 | 49 | 
 | 2022-10-11 | 24 | 49 | 
-| 2022-10-10 | 23 | 48 | 
 

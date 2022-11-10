@@ -1,10 +1,10 @@
 # square/laravel-hyrule - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 6
 
-★ Stars: 324
+★ Stars: 326
 
 [Open repository](https://github.com/square/laravel-hyrule)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 326 | 6 | 
 | 2022-11-08 | 324 | 6 | 
 | 2022-11-07 | 324 | 6 | 
 | 2022-11-06 | 323 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 322 | 6 | 
 | 2022-10-13 | 322 | 6 | 
 | 2022-10-12 | 322 | 6 | 
-| 2022-10-11 | 322 | 6 | 
 

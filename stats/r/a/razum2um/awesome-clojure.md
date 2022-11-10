@@ -1,10 +1,10 @@
 # razum2um/awesome-clojure - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 195
 
-★ Stars: 2441
+★ Stars: 2442
 
 [Open repository](https://github.com/razum2um/awesome-clojure)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2442 | 195 | 
 | 2022-11-08 | 2441 | 195 | 
 | 2022-11-07 | 2440 | 195 | 
 | 2022-11-06 | 2440 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 2431 | 194 | 
 | 2022-10-13 | 2431 | 194 | 
 | 2022-10-12 | 2431 | 194 | 
-| 2022-10-11 | 2430 | 194 | 
 

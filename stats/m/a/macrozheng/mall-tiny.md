@@ -1,10 +1,10 @@
 # macrozheng/mall-tiny - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 986
+☋ Forks: 987
 
-★ Stars: 1355
+★ Stars: 1356
 
 [Open repository](https://github.com/macrozheng/mall-tiny)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1356 | 987 | 
 | 2022-11-08 | 1355 | 986 | 
 | 2022-11-07 | 1354 | 986 | 
 | 2022-11-06 | 1352 | 986 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1331 | 978 | 
 | 2022-10-12 | 1330 | 977 | 
 | 2022-10-11 | 1329 | 975 | 
-| 2022-10-10 | 1329 | 973 | 
 

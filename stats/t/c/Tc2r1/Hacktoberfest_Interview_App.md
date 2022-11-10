@@ -1,10 +1,10 @@
 # Tc2r1/Hacktoberfest_Interview_App - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 65
 
-★ Stars: 48
+★ Stars: 47
 
 [Open repository](https://github.com/Tc2r1/Hacktoberfest_Interview_App)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 47 | 65 | 
 | 2022-11-08 | 48 | 65 | 
 | 2022-11-07 | 48 | 65 | 
 | 2022-11-06 | 48 | 66 | 

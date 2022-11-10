@@ -1,6 +1,6 @@
 # RWTH-EBC/AixLib - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 139 | 73 | 
 | 2022-11-08 | 139 | 73 | 
 | 2022-11-07 | 139 | 73 | 
 | 2022-11-06 | 139 | 73 | 

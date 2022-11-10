@@ -1,6 +1,6 @@
 # epfl-si/elements - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 13 | 9 | 
+| 2022-11-09 | 13 | 9 | 
 | 2022-11-08 | 13 | 9 | 
 | 2022-11-07 | 13 | 9 | 
 | 2022-11-06 | 13 | 9 | 

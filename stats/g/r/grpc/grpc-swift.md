@@ -1,10 +1,10 @@
 # grpc/grpc-swift - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 361
 
-★ Stars: 1630
+★ Stars: 1631
 
 [Open repository](https://github.com/grpc/grpc-swift)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1631 | 361 | 
 | 2022-11-08 | 1630 | 361 | 
 | 2022-11-07 | 1628 | 361 | 
 | 2022-11-06 | 1628 | 361 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 1617 | 353 | 
 | 2022-10-13 | 1617 | 353 | 
 | 2022-10-12 | 1615 | 353 | 
-| 2022-10-10 | 1614 | 353 | 
 

@@ -1,10 +1,10 @@
 # PyojinKim/Sensors-Data-Logger - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 14
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/PyojinKim/Sensors-Data-Logger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 36 | 14 | 
 | 2022-11-08 | 35 | 14 | 
 | 2022-11-07 | 35 | 14 | 
 | 2022-11-06 | 34 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 34 | 15 | 
 | 2022-10-13 | 34 | 15 | 
 | 2022-10-12 | 34 | 15 | 
-| 2022-10-11 | 34 | 15 | 
 

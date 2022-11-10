@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 09
 
-☋ Forks: 119
+☋ Forks: 122
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/maykbrito/nlw-10-copa)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 32 | 119 | 
+| 2022-11-09 | 33 | 122 | 
 | 2022-11-08 | 32 | 119 | 
 

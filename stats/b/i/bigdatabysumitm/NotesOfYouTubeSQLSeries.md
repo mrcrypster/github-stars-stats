@@ -1,10 +1,10 @@
 # bigdatabysumitm/NotesOfYouTubeSQLSeries - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 94
 
-★ Stars: 212
+★ Stars: 213
 
 [Open repository](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 213 | 94 | 
 | 2022-11-08 | 212 | 94 | 
 | 2022-11-07 | 210 | 94 | 
 | 2022-11-06 | 210 | 94 | 

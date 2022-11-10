@@ -1,10 +1,10 @@
 # vyzo/gerbil - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 92
 
-★ Stars: 912
+★ Stars: 913
 
 [Open repository](https://github.com/vyzo/gerbil)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 913 | 92 | 
 | 2022-11-08 | 912 | 92 | 
 | 2022-11-07 | 912 | 92 | 
 | 2022-11-06 | 912 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 908 | 93 | 
 | 2022-10-12 | 908 | 93 | 
 | 2022-10-11 | 908 | 93 | 
-| 2022-10-10 | 908 | 93 | 
 

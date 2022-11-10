@@ -1,8 +1,8 @@
 # rubygems/bundler-site - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 223
+☋ Forks: 224
 
 ★ Stars: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 97 | 224 | 
 | 2022-11-09 | 97 | 223 | 
 | 2022-11-08 | 97 | 223 | 
 | 2022-11-06 | 96 | 223 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 96 | 220 | 
 | 2022-10-12 | 96 | 220 | 
 | 2022-10-11 | 96 | 220 | 
-| 2022-10-10 | 96 | 220 | 
 

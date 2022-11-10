@@ -1,8 +1,8 @@
 # mikelustosa/Projeto-TInject - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 110
+☋ Forks: 111
 
 ★ Stars: 186
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 186 | 111 | 
 | 2022-11-08 | 186 | 110 | 
 | 2022-11-07 | 186 | 110 | 
 | 2022-11-06 | 186 | 110 | 

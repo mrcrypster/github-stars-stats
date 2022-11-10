@@ -1,6 +1,6 @@
 # jeromedalbert/real-world-react-apps - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2938 | 251 | 
 | 2022-11-08 | 2938 | 251 | 
 | 2022-11-07 | 2936 | 250 | 
 | 2022-11-06 | 2936 | 248 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 2878 | 232 | 
 | 2022-10-13 | 2856 | 227 | 
 | 2022-10-12 | 2851 | 225 | 
-| 2022-10-11 | 2844 | 225 | 
 

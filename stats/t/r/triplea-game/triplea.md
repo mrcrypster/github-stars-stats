@@ -1,10 +1,10 @@
 # triplea-game/triplea - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 161
+☋ Forks: 159
 
-★ Stars: 602
+★ Stars: 606
 
 [Open repository](https://github.com/triplea-game/triplea)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 606 | 159 | 
 | 2022-11-08 | 602 | 161 | 
 | 2022-11-07 | 598 | 160 | 
 | 2022-11-06 | 595 | 160 | 

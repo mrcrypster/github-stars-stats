@@ -1,10 +1,10 @@
 # francescoalemanno/BayesHistogram.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/francescoalemanno/BayesHistogram.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 35 | 2 | 
 | 2022-11-08 | 34 | 2 | 
 | 2022-11-07 | 34 | 2 | 
 | 2022-11-06 | 34 | 2 | 

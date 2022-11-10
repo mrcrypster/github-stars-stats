@@ -1,10 +1,10 @@
 # WICG/shared-element-transitions - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 29
 
-★ Stars: 644
+★ Stars: 645
 
 [Open repository](https://github.com/WICG/shared-element-transitions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 645 | 29 | 
 | 2022-11-08 | 644 | 29 | 
 | 2022-11-07 | 644 | 29 | 
 | 2022-11-06 | 644 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 628 | 28 | 
 | 2022-10-12 | 627 | 28 | 
 | 2022-10-11 | 626 | 28 | 
-| 2022-10-10 | 626 | 28 | 
 

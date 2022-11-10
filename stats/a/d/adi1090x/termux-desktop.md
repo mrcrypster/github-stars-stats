@@ -1,10 +1,10 @@
 # adi1090x/termux-desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 187
 
-★ Stars: 1460
+★ Stars: 1462
 
 [Open repository](https://github.com/adi1090x/termux-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1462 | 187 | 
 | 2022-11-08 | 1460 | 187 | 
 | 2022-11-07 | 1457 | 187 | 
 | 2022-11-06 | 1456 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1414 | 182 | 
 | 2022-10-12 | 1411 | 182 | 
 | 2022-10-11 | 1410 | 182 | 
-| 2022-10-10 | 1410 | 182 | 
 

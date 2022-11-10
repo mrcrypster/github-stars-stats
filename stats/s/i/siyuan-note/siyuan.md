@@ -1,10 +1,10 @@
 # siyuan-note/siyuan - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 568
+☋ Forks: 569
 
-★ Stars: 7542
+★ Stars: 7551
 
 [Open repository](https://github.com/siyuan-note/siyuan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 7551 | 569 | 
 | 2022-11-08 | 7542 | 568 | 
 | 2022-11-07 | 7534 | 566 | 
 | 2022-11-06 | 7527 | 565 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 7201 | 549 | 
 | 2022-10-12 | 7196 | 549 | 
 | 2022-10-11 | 7186 | 549 | 
-| 2022-10-10 | 7178 | 549 | 
 

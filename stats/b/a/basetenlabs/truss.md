@@ -1,6 +1,6 @@
 # basetenlabs/truss - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 470 | 19 | 
 | 2022-11-08 | 470 | 19 | 
 | 2022-11-07 | 471 | 19 | 
 | 2022-11-06 | 471 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 467 | 18 | 
 | 2022-10-13 | 464 | 18 | 
 | 2022-10-11 | 465 | 18 | 
-| 2022-10-10 | 465 | 18 | 
 

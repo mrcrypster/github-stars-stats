@@ -1,10 +1,10 @@
 # mkpoli/word-order - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 10
+★ Stars: 9
 
 [Open repository](https://github.com/mkpoli/word-order)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 9 | 2 | 
 | 2022-11-08 | 10 | 2 | 
 | 2022-11-07 | 10 | 2 | 
 | 2022-11-06 | 10 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 9 | 2 | 
 | 2022-10-13 | 9 | 2 | 
 | 2022-10-12 | 9 | 2 | 
-| 2022-10-11 | 9 | 2 | 
 

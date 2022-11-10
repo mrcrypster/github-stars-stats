@@ -1,6 +1,6 @@
 # braintree/braintree-ios-drop-in - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 73
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 91 | 73 | 
 | 2022-11-08 | 91 | 73 | 
 | 2022-11-07 | 91 | 73 | 
 | 2022-11-06 | 91 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 91 | 73 | 
 | 2022-10-12 | 91 | 73 | 
 | 2022-10-11 | 91 | 73 | 
-| 2022-10-10 | 91 | 73 | 
 

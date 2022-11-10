@@ -1,6 +1,6 @@
 # nalinbhardwaj/zordle - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 140 | 6 | 
 | 2022-11-08 | 140 | 6 | 
 | 2022-11-07 | 140 | 6 | 
 | 2022-11-06 | 140 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 137 | 7 | 
 | 2022-10-12 | 137 | 7 | 
 | 2022-10-11 | 136 | 7 | 
-| 2022-10-10 | 136 | 7 | 
 

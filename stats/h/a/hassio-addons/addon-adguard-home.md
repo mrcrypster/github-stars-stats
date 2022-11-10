@@ -1,8 +1,8 @@
 # hassio-addons/addon-adguard-home - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 44
+☋ Forks: 43
 
 ★ Stars: 258
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 258 | 43 | 
 | 2022-11-08 | 258 | 44 | 
 | 2022-11-07 | 259 | 43 | 
 | 2022-11-06 | 258 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 255 | 39 | 
 | 2022-10-12 | 255 | 39 | 
 | 2022-10-11 | 255 | 39 | 
-| 2022-10-10 | 255 | 40 | 
 

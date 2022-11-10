@@ -1,10 +1,10 @@
 # alibaba/ilogtail - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 174
 
-★ Stars: 1005
+★ Stars: 1008
 
 [Open repository](https://github.com/alibaba/ilogtail)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1008 | 174 | 
 | 2022-11-08 | 1005 | 174 | 
 | 2022-11-07 | 1002 | 174 | 
 | 2022-11-06 | 1001 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 972 | 166 | 
 | 2022-10-13 | 968 | 166 | 
 | 2022-10-12 | 967 | 166 | 
-| 2022-10-11 | 964 | 166 | 
 

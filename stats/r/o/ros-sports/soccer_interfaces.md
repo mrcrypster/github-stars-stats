@@ -1,6 +1,6 @@
 # ros-sports/soccer_interfaces - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 6 | 2 | 
 | 2022-11-08 | 6 | 2 | 
 | 2022-11-07 | 6 | 2 | 
 | 2022-11-06 | 6 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 6 | 2 | 
 | 2022-10-12 | 6 | 2 | 
 | 2022-10-11 | 6 | 2 | 
-| 2022-10-10 | 6 | 2 | 
 

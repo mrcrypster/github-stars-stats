@@ -1,10 +1,10 @@
 # MicroUtils/kotlin-logging - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 92
 
-★ Stars: 1999
+★ Stars: 2000
 
 [Open repository](https://github.com/MicroUtils/kotlin-logging)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2000 | 92 | 
 | 2022-11-08 | 1999 | 92 | 
 | 2022-11-07 | 1997 | 93 | 
 | 2022-11-06 | 1993 | 93 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1970 | 92 | 
 | 2022-10-12 | 1969 | 92 | 
 | 2022-10-11 | 1968 | 92 | 
-| 2022-10-10 | 1967 | 92 | 
 

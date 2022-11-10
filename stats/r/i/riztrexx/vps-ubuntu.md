@@ -1,8 +1,8 @@
 # riztrexx/vps-ubuntu - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 41
+☋ Forks: 42
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 3 | 42 | 
 | 2022-11-08 | 3 | 41 | 
 | 2022-11-07 | 3 | 41 | 
 | 2022-11-06 | 3 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 3 | 40 | 
 | 2022-10-12 | 3 | 40 | 
 | 2022-10-11 | 3 | 40 | 
-| 2022-10-10 | 3 | 40 | 
 

@@ -1,6 +1,6 @@
 # justinmk/vim-dirvish - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1074 | 60 | 
 | 2022-11-08 | 1074 | 60 | 
 | 2022-11-07 | 1074 | 60 | 
 | 2022-11-06 | 1074 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1069 | 60 | 
 | 2022-10-12 | 1069 | 60 | 
 | 2022-10-11 | 1070 | 60 | 
-| 2022-10-10 | 1070 | 60 | 
 

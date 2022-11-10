@@ -1,10 +1,10 @@
 # jpg-store/contract-v2 - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 11
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/jpg-store/contract-v2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 34 | 11 | 
 | 2022-11-08 | 33 | 11 | 
 | 2022-11-07 | 33 | 11 | 
 | 2022-11-06 | 33 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 32 | 10 | 
 | 2022-10-12 | 32 | 10 | 
 | 2022-10-11 | 32 | 10 | 
-| 2022-10-10 | 32 | 10 | 
 

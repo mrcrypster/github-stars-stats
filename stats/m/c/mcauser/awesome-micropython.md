@@ -1,10 +1,10 @@
 # mcauser/awesome-micropython - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 107
+☋ Forks: 108
 
-★ Stars: 711
+★ Stars: 712
 
 [Open repository](https://github.com/mcauser/awesome-micropython)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 712 | 108 | 
 | 2022-11-08 | 711 | 107 | 
 | 2022-11-07 | 710 | 108 | 
 | 2022-11-06 | 709 | 107 | 

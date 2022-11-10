@@ -1,10 +1,10 @@
 # moul/http2curl - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 59
 
-★ Stars: 588
+★ Stars: 590
 
 [Open repository](https://github.com/moul/http2curl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 590 | 59 | 
 | 2022-11-08 | 588 | 59 | 
 | 2022-11-07 | 588 | 59 | 
 | 2022-11-06 | 587 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 573 | 58 | 
 | 2022-10-12 | 570 | 58 | 
 | 2022-10-11 | 570 | 58 | 
-| 2022-10-10 | 570 | 58 | 
 

@@ -1,10 +1,10 @@
 # malcommac/SwiftDate - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 712
 
-★ Stars: 7109
+★ Stars: 7110
 
 [Open repository](https://github.com/malcommac/SwiftDate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 7110 | 712 | 
 | 2022-11-08 | 7109 | 712 | 
 | 2022-11-07 | 7108 | 712 | 
 | 2022-11-06 | 7108 | 712 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 7065 | 708 | 
 | 2022-10-12 | 7064 | 708 | 
 | 2022-10-11 | 7064 | 708 | 
-| 2022-10-10 | 7062 | 708 | 
 

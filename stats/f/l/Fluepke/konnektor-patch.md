@@ -1,10 +1,10 @@
 # Fluepke/konnektor-patch - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 12
 
-★ Stars: 387
+★ Stars: 388
 
 [Open repository](https://github.com/Fluepke/konnektor-patch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 388 | 12 | 
 | 2022-11-08 | 387 | 12 | 
 | 2022-11-07 | 387 | 12 | 
 | 2022-11-06 | 380 | 12 | 

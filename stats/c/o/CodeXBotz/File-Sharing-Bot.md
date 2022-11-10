@@ -1,10 +1,10 @@
 # CodeXBotz/File-Sharing-Bot - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 3205
+☋ Forks: 3211
 
-★ Stars: 1087
+★ Stars: 1088
 
 [Open repository](https://github.com/CodeXBotz/File-Sharing-Bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1088 | 3211 | 
 | 2022-11-08 | 1087 | 3205 | 
 | 2022-11-07 | 1087 | 3201 | 
 | 2022-11-06 | 1086 | 3191 | 

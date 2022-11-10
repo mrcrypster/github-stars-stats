@@ -1,10 +1,10 @@
 # jamestthompson3/nvim-remote-containers - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 10
 
-★ Stars: 430
+★ Stars: 431
 
 [Open repository](https://github.com/jamestthompson3/nvim-remote-containers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 431 | 10 | 
 | 2022-11-09 | 430 | 10 | 
 | 2022-11-07 | 430 | 10 | 
 | 2022-11-06 | 430 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 421 | 10 | 
 | 2022-10-12 | 421 | 10 | 
 | 2022-10-11 | 416 | 10 | 
-| 2022-10-10 | 416 | 10 | 
 

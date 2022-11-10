@@ -1,10 +1,10 @@
 # steve02081504/starbound-shit-title-mod - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 10
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/steve02081504/starbound-shit-title-mod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 41 | 10 | 
 | 2022-11-08 | 40 | 10 | 
 | 2022-11-07 | 40 | 10 | 
 | 2022-11-06 | 40 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 41 | 10 | 
 | 2022-10-12 | 41 | 10 | 
 | 2022-10-11 | 41 | 10 | 
-| 2022-10-10 | 41 | 10 | 
 

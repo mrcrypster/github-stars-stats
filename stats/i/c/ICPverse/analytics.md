@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/ICPverse/analytics)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 33 | - | 
+| 2022-11-09 | 34 | - | 
 | 2022-11-08 | 33 | - | 
 | 2022-11-07 | 33 | - | 
 

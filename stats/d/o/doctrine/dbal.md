@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 09
 
 ☋ Forks: 1232
 
-★ Stars: 8853
+★ Stars: 8854
 
 [Open repository](https://github.com/doctrine/dbal)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 8853 | 1232 | 
+| 2022-11-09 | 8854 | 1232 | 
 | 2022-11-08 | 8853 | 1232 | 
 | 2022-11-07 | 8852 | 1232 | 
 | 2022-11-06 | 8852 | 1232 | 

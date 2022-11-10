@@ -1,8 +1,8 @@
 # debtdao/Line-of-Credit - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 17 | 17 | 
 | 2022-11-08 | 17 | 16 | 
 | 2022-11-07 | 17 | 16 | 
 | 2022-11-06 | 17 | 14 | 

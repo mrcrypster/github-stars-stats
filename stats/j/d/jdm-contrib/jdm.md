@@ -1,6 +1,6 @@
 # jdm-contrib/jdm - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 642 | 241 | 
 | 2022-11-08 | 642 | 241 | 
 | 2022-11-07 | 642 | 241 | 
 | 2022-11-06 | 641 | 241 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 629 | 238 | 
 | 2022-10-13 | 629 | 237 | 
 | 2022-10-12 | 628 | 236 | 
-| 2022-10-11 | 628 | 238 | 
 

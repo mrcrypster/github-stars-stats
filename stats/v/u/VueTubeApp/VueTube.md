@@ -1,6 +1,6 @@
 # VueTubeApp/VueTube - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2370 | 132 | 
 | 2022-11-08 | 2370 | 132 | 
 | 2022-11-07 | 2369 | 132 | 
 | 2022-11-06 | 2368 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 2335 | 125 | 
 | 2022-10-12 | 2331 | 125 | 
 | 2022-10-11 | 2327 | 125 | 
-| 2022-10-10 | 2324 | 125 | 
 

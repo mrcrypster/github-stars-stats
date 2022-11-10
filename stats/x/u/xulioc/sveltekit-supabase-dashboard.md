@@ -1,8 +1,8 @@
 # xulioc/sveltekit-supabase-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 31 | 3 | 
 | 2022-11-08 | 31 | 2 | 
 | 2022-11-07 | 31 | 2 | 
 | 2022-11-06 | 31 | 2 | 

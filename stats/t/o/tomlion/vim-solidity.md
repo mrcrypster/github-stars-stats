@@ -1,10 +1,10 @@
 # tomlion/vim-solidity - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 100
 
-★ Stars: 479
+★ Stars: 480
 
 [Open repository](https://github.com/tomlion/vim-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 480 | 100 | 
 | 2022-11-08 | 479 | 100 | 
 | 2022-11-07 | 479 | 100 | 
 | 2022-11-06 | 479 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 476 | 99 | 
 | 2022-10-12 | 475 | 100 | 
 | 2022-10-11 | 474 | 100 | 
-| 2022-10-10 | 474 | 100 | 
 

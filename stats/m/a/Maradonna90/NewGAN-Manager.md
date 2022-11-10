@@ -1,10 +1,10 @@
 # Maradonna90/NewGAN-Manager - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 16
 
-★ Stars: 72
+★ Stars: 73
 
 [Open repository](https://github.com/Maradonna90/NewGAN-Manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 73 | 16 | 
 | 2022-11-08 | 72 | 16 | 
 | 2022-11-07 | 72 | 16 | 
 | 2022-11-06 | 72 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 67 | 15 | 
 | 2022-10-12 | 67 | 14 | 
 | 2022-10-11 | 67 | 14 | 
-| 2022-10-10 | 67 | 14 | 
 

@@ -1,10 +1,10 @@
 # Demotivacija/smanjivac_plate - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 3
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/Demotivacija/smanjivac_plate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 23 | 3 | 
 | 2022-11-08 | 22 | 3 | 
 | 2022-11-07 | 20 | 3 | 
 | 2022-11-06 | 19 | 3 | 

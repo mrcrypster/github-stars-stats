@@ -1,6 +1,6 @@
 # nop-tech/OSED - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 195 | 52 | 
 | 2022-11-08 | 195 | 52 | 
 | 2022-11-07 | 195 | 52 | 
 | 2022-11-06 | 195 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 182 | 48 | 
 | 2022-10-12 | 182 | 48 | 
 | 2022-10-11 | 181 | 48 | 
-| 2022-10-10 | 181 | 48 | 
 

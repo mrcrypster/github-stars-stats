@@ -1,6 +1,6 @@
 # rmosolgo/graphiql-rails - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 423 | 120 | 
 | 2022-11-09 | 423 | 120 | 
 | 2022-11-08 | 423 | 120 | 
 | 2022-11-07 | 423 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 420 | 119 | 
 | 2022-10-12 | 420 | 119 | 
 | 2022-10-11 | 419 | 119 | 
-| 2022-10-10 | 419 | 119 | 
 

@@ -1,10 +1,10 @@
 # nestjs/swagger - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 316
 
-★ Stars: 1221
+★ Stars: 1223
 
 [Open repository](https://github.com/nestjs/swagger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1223 | 316 | 
 | 2022-11-08 | 1221 | 316 | 
 | 2022-11-07 | 1221 | 316 | 
 | 2022-11-06 | 1219 | 316 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1194 | 311 | 
 | 2022-10-12 | 1193 | 311 | 
 | 2022-10-11 | 1190 | 311 | 
-| 2022-10-10 | 1190 | 311 | 
 

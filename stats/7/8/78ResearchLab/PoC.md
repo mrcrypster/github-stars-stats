@@ -1,10 +1,10 @@
 # 78ResearchLab/PoC - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 21
 
-★ Stars: 119
+★ Stars: 118
 
 [Open repository](https://github.com/78ResearchLab/PoC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 118 | 21 | 
 | 2022-11-08 | 119 | 21 | 
 | 2022-11-07 | 119 | 21 | 
 | 2022-11-06 | 119 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 118 | 20 | 
 | 2022-10-12 | 118 | 20 | 
 | 2022-10-11 | 118 | 20 | 
-| 2022-10-10 | 118 | 20 | 
 

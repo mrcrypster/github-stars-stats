@@ -1,8 +1,8 @@
 # KhronosGroup/SPIRV-LLVM-Translator - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 157
+☋ Forks: 156
 
 ★ Stars: 345
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 345 | 156 | 
 | 2022-11-08 | 345 | 157 | 
 | 2022-11-07 | 344 | 157 | 
 | 2022-11-06 | 344 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 340 | 155 | 
 | 2022-10-12 | 339 | 155 | 
 | 2022-10-11 | 336 | 155 | 
-| 2022-10-10 | 336 | 155 | 
 

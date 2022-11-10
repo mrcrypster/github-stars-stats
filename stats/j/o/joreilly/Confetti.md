@@ -1,10 +1,10 @@
 # joreilly/Confetti - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 5
 
-★ Stars: 60
+★ Stars: 61
 
 [Open repository](https://github.com/joreilly/Confetti)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 61 | 5 | 
 | 2022-11-08 | 60 | 5 | 
 | 2022-11-07 | 58 | 5 | 
 | 2022-11-06 | 57 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 44 | 4 | 
 | 2022-10-12 | 44 | 4 | 
 | 2022-10-11 | 43 | 4 | 
-| 2022-10-10 | 43 | 4 | 
 

@@ -1,10 +1,10 @@
 # fzf404/Monit - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 15
 
-★ Stars: 268
+★ Stars: 277
 
 [Open repository](https://github.com/fzf404/Monit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 277 | 15 | 
 | 2022-11-08 | 268 | 15 | 
 | 2022-11-07 | 263 | 15 | 
 | 2022-11-06 | 243 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 215 | 13 | 
 | 2022-10-12 | 212 | 13 | 
 | 2022-10-11 | 205 | 13 | 
-| 2022-10-10 | 200 | 13 | 
 

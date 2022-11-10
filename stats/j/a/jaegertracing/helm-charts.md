@@ -1,6 +1,6 @@
 # jaegertracing/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 255
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 187 | 255 | 
 | 2022-11-08 | 187 | 255 | 
 | 2022-11-07 | 187 | 255 | 
 | 2022-11-06 | 187 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 181 | 249 | 
 | 2022-10-12 | 181 | 248 | 
 | 2022-10-11 | 181 | 247 | 
-| 2022-10-10 | 181 | 247 | 
 

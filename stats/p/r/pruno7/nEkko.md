@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 12
+★ Stars: 14
 
 [Open repository](https://github.com/pruno7/nEkko)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 12 | - | 
+| 2022-11-09 | 14 | - | 
 | 2022-11-08 | 12 | - | 
 

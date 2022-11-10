@@ -1,10 +1,10 @@
 # electron-vite/electron-vite-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 257
 
-★ Stars: 1651
+★ Stars: 1655
 
 [Open repository](https://github.com/electron-vite/electron-vite-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1655 | 257 | 
 | 2022-11-08 | 1651 | 257 | 
 | 2022-11-07 | 1647 | 257 | 
 | 2022-11-06 | 1642 | 256 | 

@@ -1,10 +1,10 @@
 # ros/urdf_tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 220
 
-★ Stars: 136
+★ Stars: 135
 
 [Open repository](https://github.com/ros/urdf_tutorial)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 135 | 220 | 
 | 2022-11-08 | 136 | 220 | 
 | 2022-11-07 | 136 | 220 | 
 | 2022-11-06 | 136 | 220 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 133 | 220 | 
 | 2022-10-12 | 133 | 219 | 
 | 2022-10-11 | 132 | 219 | 
-| 2022-10-10 | 132 | 218 | 
 

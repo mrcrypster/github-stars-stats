@@ -1,10 +1,10 @@
 # natemoo-re/feed - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 1
+☋ Forks: 0
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/natemoo-re/feed)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 41 | - | 
 | 2022-11-08 | 40 | 1 | 
 | 2022-11-07 | 39 | - | 
 

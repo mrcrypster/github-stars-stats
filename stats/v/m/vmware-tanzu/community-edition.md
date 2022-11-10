@@ -1,10 +1,10 @@
 # vmware-tanzu/community-edition - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 278
+☋ Forks: 280
 
-★ Stars: 1346
+★ Stars: 1347
 
 [Open repository](https://github.com/vmware-tanzu/community-edition)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1347 | 280 | 
 | 2022-11-08 | 1346 | 278 | 
 | 2022-11-07 | 1346 | 277 | 
 | 2022-11-06 | 1346 | 276 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1336 | 260 | 
 | 2022-10-12 | 1335 | 260 | 
 | 2022-10-11 | 1334 | 260 | 
-| 2022-10-10 | 1335 | 260 | 
 

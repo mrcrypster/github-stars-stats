@@ -1,10 +1,10 @@
 # photonstorm/phaser - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 6844
+☋ Forks: 6845
 
-★ Stars: 33085
+★ Stars: 33094
 
 [Open repository](https://github.com/photonstorm/phaser)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 33094 | 6845 | 
 | 2022-11-08 | 33085 | 6844 | 
 | 2022-11-07 | 33082 | 6845 | 
 | 2022-11-06 | 33081 | 6844 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 32953 | 6829 | 
 | 2022-10-12 | 32946 | 6826 | 
 | 2022-10-11 | 32943 | 6827 | 
-| 2022-10-10 | 32938 | 6826 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 09
 
 ☋ Forks: 5
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/JuliaSmoothOptimizers/JSOSuite.jl)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 7 | 5 | 
+| 2022-11-09 | 8 | 5 | 
 | 2022-11-08 | 7 | 5 | 
 

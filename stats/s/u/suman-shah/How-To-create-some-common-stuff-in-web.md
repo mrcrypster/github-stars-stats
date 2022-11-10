@@ -1,6 +1,6 @@
 # suman-shah/How-To-create-some-common-stuff-in-web - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 50 | 53 | 
 | 2022-11-08 | 50 | 53 | 
 | 2022-11-07 | 50 | 53 | 
 | 2022-11-06 | 50 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 49 | 52 | 
 | 2022-10-12 | 49 | 52 | 
 | 2022-10-11 | 49 | 52 | 
-| 2022-10-10 | 49 | 52 | 
 

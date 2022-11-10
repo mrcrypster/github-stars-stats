@@ -1,10 +1,10 @@
 # middleman/middleman-blog - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 180
 
-★ Stars: 321
+★ Stars: 320
 
 [Open repository](https://github.com/middleman/middleman-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 320 | 180 | 
 | 2022-11-08 | 321 | 180 | 
 | 2022-11-07 | 321 | 180 | 
 | 2022-11-06 | 321 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 322 | 179 | 
 | 2022-10-12 | 322 | 179 | 
 | 2022-10-11 | 322 | 179 | 
-| 2022-10-10 | 322 | 179 | 
 

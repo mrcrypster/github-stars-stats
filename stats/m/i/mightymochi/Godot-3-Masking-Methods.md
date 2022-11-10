@@ -1,10 +1,10 @@
 # mightymochi/Godot-3-Masking-Methods - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/mightymochi/Godot-3-Masking-Methods)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 23 | 2 | 
 | 2022-11-08 | 22 | 2 | 
 | 2022-11-07 | 22 | 2 | 
 | 2022-11-06 | 22 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 23 | 2 | 
 | 2022-10-12 | 23 | 2 | 
 | 2022-10-11 | 23 | 2 | 
-| 2022-10-10 | 23 | 2 | 
 

@@ -1,10 +1,10 @@
 # google/blockly - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 3407
+☋ Forks: 3410
 
-★ Stars: 10729
+★ Stars: 10735
 
 [Open repository](https://github.com/google/blockly)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 10735 | 3410 | 
 | 2022-11-08 | 10729 | 3407 | 
 | 2022-11-07 | 10728 | 3407 | 
 | 2022-11-06 | 10725 | 3406 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 10675 | 3389 | 
 | 2022-10-12 | 10673 | 3389 | 
 | 2022-10-11 | 10670 | 3387 | 
-| 2022-10-10 | 10667 | 3386 | 
 

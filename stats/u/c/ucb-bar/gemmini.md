@@ -1,10 +1,10 @@
 # ucb-bar/gemmini - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 77
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/ucb-bar/gemmini)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 367 | 77 | 
 | 2022-11-08 | 366 | 77 | 
 | 2022-11-07 | 363 | 77 | 
 | 2022-11-06 | 363 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 359 | 77 | 
 | 2022-10-12 | 358 | 77 | 
 | 2022-10-11 | 357 | 77 | 
-| 2022-10-10 | 356 | 77 | 
 

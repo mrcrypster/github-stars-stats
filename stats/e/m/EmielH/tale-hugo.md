@@ -1,10 +1,10 @@
 # EmielH/tale-hugo - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 121
 
-★ Stars: 246
+★ Stars: 245
 
 [Open repository](https://github.com/EmielH/tale-hugo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 245 | 121 | 
 | 2022-11-08 | 246 | 121 | 
 | 2022-11-07 | 246 | 121 | 
 | 2022-11-06 | 246 | 121 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 248 | 121 | 
 | 2022-10-12 | 248 | 121 | 
 | 2022-10-11 | 248 | 121 | 
-| 2022-10-10 | 248 | 121 | 
 

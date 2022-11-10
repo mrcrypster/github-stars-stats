@@ -1,8 +1,8 @@
 # kamyu104/LeetCode-Solutions - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 1312
+☋ Forks: 1314
 
 ★ Stars: 3689
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 3689 | 1314 | 
 | 2022-11-08 | 3689 | 1312 | 
 | 2022-11-07 | 3686 | 1311 | 
 | 2022-11-06 | 3684 | 1311 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 3583 | 1293 | 
 | 2022-10-12 | 3580 | 1293 | 
 | 2022-10-11 | 3579 | 1290 | 
-| 2022-10-10 | 3574 | 1288 | 
 

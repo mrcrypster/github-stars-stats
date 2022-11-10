@@ -1,10 +1,10 @@
 # sorentwo/oban - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 226
 
-★ Stars: 2384
+★ Stars: 2385
 
 [Open repository](https://github.com/sorentwo/oban)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2385 | 226 | 
 | 2022-11-08 | 2384 | 226 | 
 | 2022-11-07 | 2384 | 226 | 
 | 2022-11-06 | 2383 | 226 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 2368 | 225 | 
 | 2022-10-12 | 2366 | 225 | 
 | 2022-10-11 | 2366 | 225 | 
-| 2022-10-10 | 2365 | 224 | 
 

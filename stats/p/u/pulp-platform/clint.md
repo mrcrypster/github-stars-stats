@@ -1,6 +1,6 @@
 # pulp-platform/clint - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 5
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5 | 5 | 
+| 2022-11-09 | 5 | 5 | 
 | 2022-11-08 | 5 | 5 | 
 | 2022-11-07 | 5 | 5 | 
 | 2022-11-06 | 5 | 5 | 

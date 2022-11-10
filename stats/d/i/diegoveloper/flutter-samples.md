@@ -1,6 +1,6 @@
 # diegoveloper/flutter-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 706
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2754 | 706 | 
 | 2022-11-08 | 2754 | 706 | 
 | 2022-11-07 | 2751 | 706 | 
 | 2022-11-06 | 2751 | 705 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 2743 | 706 | 
 | 2022-10-12 | 2742 | 706 | 
 | 2022-10-11 | 2742 | 706 | 
-| 2022-10-10 | 2741 | 706 | 
 

@@ -1,10 +1,10 @@
 # gdalle/ImplicitDifferentiation.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/gdalle/ImplicitDifferentiation.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 69 | 1 | 
 | 2022-11-08 | 68 | 1 | 
 | 2022-11-07 | 68 | 1 | 
 | 2022-11-06 | 68 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 66 | 1 | 
 | 2022-10-12 | 66 | 1 | 
 | 2022-10-11 | 66 | 1 | 
-| 2022-10-10 | 66 | 1 | 
 

@@ -1,6 +1,6 @@
 # naganandy/graph-based-deep-learning-literature - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 678
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 3966 | 678 | 
 | 2022-11-08 | 3966 | 678 | 
 | 2022-11-07 | 3962 | 678 | 
 | 2022-11-06 | 3960 | 678 | 

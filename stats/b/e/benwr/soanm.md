@@ -1,10 +1,10 @@
 # benwr/soanm - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/benwr/soanm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 37 | - | 
 | 2022-11-08 | 36 | - | 
 | 2022-11-07 | 36 | - | 
 | 2022-11-06 | 35 | - | 

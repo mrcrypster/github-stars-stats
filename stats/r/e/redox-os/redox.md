@@ -1,10 +1,10 @@
 # redox-os/redox - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 902
+☋ Forks: 903
 
-★ Stars: 14180
+★ Stars: 14181
 
 [Open repository](https://github.com/redox-os/redox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 14181 | 903 | 
 | 2022-11-08 | 14180 | 902 | 
 | 2022-11-07 | 14178 | 902 | 
 | 2022-11-06 | 14177 | 902 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 14142 | 898 | 
 | 2022-10-12 | 14138 | 897 | 
 | 2022-10-11 | 14135 | 897 | 
-| 2022-10-10 | 14131 | 896 | 
 

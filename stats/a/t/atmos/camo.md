@@ -1,10 +1,10 @@
 # atmos/camo - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 376
 
-★ Stars: 1715
+★ Stars: 1714
 
 [Open repository](https://github.com/atmos/camo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1714 | 376 | 
 | 2022-11-08 | 1715 | 376 | 
 | 2022-11-07 | 1713 | 376 | 
 | 2022-11-06 | 1713 | 376 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1708 | 374 | 
 | 2022-10-12 | 1708 | 374 | 
 | 2022-10-11 | 1708 | 374 | 
-| 2022-10-10 | 1708 | 375 | 
 

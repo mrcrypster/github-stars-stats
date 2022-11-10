@@ -1,10 +1,10 @@
 # uber/RIBs - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 845
 
-★ Stars: 7165
+★ Stars: 7170
 
 [Open repository](https://github.com/uber/RIBs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 7170 | 845 | 
 | 2022-11-08 | 7165 | 845 | 
 | 2022-11-07 | 7164 | 845 | 
 | 2022-11-06 | 7162 | 845 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 7116 | 840 | 
 | 2022-10-12 | 7115 | 840 | 
 | 2022-10-11 | 7115 | 840 | 
-| 2022-10-10 | 7111 | 840 | 
 

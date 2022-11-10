@@ -1,10 +1,10 @@
 # bitnami/bitnami-docker-kafka - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 296
 
-★ Stars: 711
+★ Stars: 710
 
 [Open repository](https://github.com/bitnami/bitnami-docker-kafka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 710 | 296 | 
 | 2022-11-08 | 711 | 296 | 
 | 2022-11-07 | 712 | 297 | 
 | 2022-11-06 | 712 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 708 | 297 | 
 | 2022-10-13 | 708 | 297 | 
 | 2022-10-12 | 708 | 297 | 
-| 2022-10-11 | 708 | 297 | 
 

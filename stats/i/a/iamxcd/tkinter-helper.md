@@ -1,10 +1,10 @@
 # iamxcd/tkinter-helper - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 19
 
-★ Stars: 267
+★ Stars: 269
 
 [Open repository](https://github.com/iamxcd/tkinter-helper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 269 | 19 | 
 | 2022-11-08 | 267 | 19 | 
 | 2022-11-07 | 267 | 19 | 
 | 2022-11-06 | 267 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 256 | 19 | 
 | 2022-10-12 | 256 | 19 | 
 | 2022-10-11 | 256 | 19 | 
-| 2022-10-10 | 256 | 19 | 
 

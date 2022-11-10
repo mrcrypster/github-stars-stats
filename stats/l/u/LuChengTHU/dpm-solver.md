@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 09
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 295
+★ Stars: 297
 
 [Open repository](https://github.com/LuChengTHU/dpm-solver)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 295 | 19 | 
+| 2022-11-09 | 297 | 20 | 
 | 2022-11-08 | 294 | 19 | 
 | 2022-11-07 | 284 | 17 | 
 

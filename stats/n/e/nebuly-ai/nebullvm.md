@@ -1,10 +1,10 @@
 # nebuly-ai/nebullvm - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 64
 
-★ Stars: 1445
+★ Stars: 1447
 
 [Open repository](https://github.com/nebuly-ai/nebullvm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1447 | 64 | 
 | 2022-11-08 | 1445 | 64 | 
 | 2022-11-07 | 1443 | 64 | 
 | 2022-11-06 | 1442 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1415 | 63 | 
 | 2022-10-12 | 1414 | 62 | 
 | 2022-10-11 | 1414 | 62 | 
-| 2022-10-10 | 1410 | 62 | 
 

@@ -1,10 +1,10 @@
 # sonnysangha/lottery-smart-contract - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 16
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/sonnysangha/lottery-smart-contract)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 30 | 16 | 
 | 2022-11-09 | 29 | 16 | 
 | 2022-11-07 | 29 | 16 | 
 | 2022-11-06 | 28 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 28 | 15 | 
 | 2022-10-12 | 28 | 15 | 
 | 2022-10-11 | 28 | 15 | 
-| 2022-10-10 | 28 | 15 | 
 

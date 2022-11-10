@@ -1,10 +1,10 @@
 # GrimAnticheat/Grim - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 120
 
-★ Stars: 458
+★ Stars: 460
 
 [Open repository](https://github.com/GrimAnticheat/Grim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 460 | 120 | 
 | 2022-11-08 | 458 | 120 | 
 | 2022-11-07 | 458 | 120 | 
 | 2022-11-06 | 457 | 120 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 444 | 121 | 
 | 2022-10-12 | 442 | 121 | 
 | 2022-10-11 | 441 | 121 | 
-| 2022-10-10 | 440 | 120 | 
 

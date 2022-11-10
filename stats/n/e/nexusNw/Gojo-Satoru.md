@@ -1,8 +1,8 @@
 # nexusNw/Gojo-Satoru - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 2796
+☋ Forks: 2805
 
 ★ Stars: 205
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 205 | 2805 | 
 | 2022-11-08 | 205 | 2796 | 
 | 2022-11-07 | 207 | 2789 | 
 | 2022-11-06 | 207 | 2777 | 

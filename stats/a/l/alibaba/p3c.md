@@ -1,10 +1,10 @@
 # alibaba/p3c - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 7794
+☋ Forks: 7796
 
-★ Stars: 28421
+★ Stars: 28427
 
 [Open repository](https://github.com/alibaba/p3c)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 28427 | 7796 | 
 | 2022-11-08 | 28421 | 7794 | 
 | 2022-11-07 | 28416 | 7791 | 
 | 2022-11-06 | 28408 | 7791 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 28304 | 7765 | 
 | 2022-10-12 | 28302 | 7764 | 
 | 2022-10-11 | 28297 | 7762 | 
-| 2022-10-10 | 28286 | 7760 | 
 

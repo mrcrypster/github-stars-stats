@@ -1,10 +1,10 @@
 # Qqwy/elixir-type_check - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 18
 
-★ Stars: 442
+★ Stars: 443
 
 [Open repository](https://github.com/Qqwy/elixir-type_check)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 443 | 18 | 
 | 2022-11-08 | 442 | 18 | 
 | 2022-11-07 | 442 | 18 | 
 | 2022-11-06 | 441 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 425 | 17 | 
 | 2022-10-13 | 425 | 17 | 
 | 2022-10-12 | 425 | 16 | 
-| 2022-10-11 | 423 | 16 | 
 

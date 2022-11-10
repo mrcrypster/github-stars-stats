@@ -1,10 +1,10 @@
 # guygastineau/rust-trees-that-grow - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/guygastineau/rust-trees-that-grow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 32 | 1 | 
 | 2022-11-08 | 31 | 1 | 
 | 2022-11-07 | 31 | 1 | 
 | 2022-11-06 | 29 | 1 | 

@@ -1,10 +1,10 @@
 # MicrosoftDocs/azure-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 17873
+☋ Forks: 17882
 
-★ Stars: 7957
+★ Stars: 7959
 
 [Open repository](https://github.com/MicrosoftDocs/azure-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 7959 | 17882 | 
 | 2022-11-08 | 7957 | 17873 | 
 | 2022-11-07 | 7954 | 17860 | 
 | 2022-11-06 | 7948 | 17854 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 7837 | 17652 | 
 | 2022-10-12 | 7833 | 17642 | 
 | 2022-10-11 | 7829 | 17625 | 
-| 2022-10-10 | 7817 | 17603 | 
 

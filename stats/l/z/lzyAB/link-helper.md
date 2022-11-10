@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 09
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 257
+★ Stars: 265
 
 [Open repository](https://github.com/lzyAB/link-helper)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 257 | 50 | 
+| 2022-11-09 | 265 | 51 | 
 | 2022-11-08 | 256 | 50 | 
 | 2022-11-07 | 223 | 48 | 
 | 2022-11-06 | 195 | 44 | 

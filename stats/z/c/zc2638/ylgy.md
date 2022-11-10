@@ -1,6 +1,6 @@
 # zc2638/ylgy - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 95
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 346 | 95 | 
 | 2022-11-08 | 346 | 95 | 
 | 2022-11-07 | 347 | 95 | 
 | 2022-11-06 | 348 | 95 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 353 | 95 | 
 | 2022-10-12 | 353 | 96 | 
 | 2022-10-11 | 353 | 96 | 
-| 2022-10-10 | 354 | 97 | 
 

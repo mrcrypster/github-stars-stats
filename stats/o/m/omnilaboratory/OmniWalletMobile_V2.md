@@ -1,10 +1,10 @@
 # omnilaboratory/OmniWalletMobile_V2 - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 11
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/omnilaboratory/OmniWalletMobile_V2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 57 | 11 | 
 | 2022-11-08 | 56 | 11 | 
 | 2022-11-07 | 55 | 11 | 
 | 2022-11-06 | 55 | 11 | 

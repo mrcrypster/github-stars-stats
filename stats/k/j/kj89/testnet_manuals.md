@@ -1,10 +1,10 @@
 # kj89/testnet_manuals - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 458
+☋ Forks: 459
 
-★ Stars: 218
+★ Stars: 219
 
 [Open repository](https://github.com/kj89/testnet_manuals)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 219 | 459 | 
 | 2022-11-08 | 218 | 458 | 
 | 2022-11-07 | 217 | 458 | 
 | 2022-11-06 | 216 | 454 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 204 | 429 | 
 | 2022-10-12 | 204 | 429 | 
 | 2022-10-11 | 204 | 429 | 
-| 2022-10-10 | 204 | 427 | 
 

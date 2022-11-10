@@ -1,10 +1,10 @@
 # joncampbell123/dosbox-x - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 280
+☋ Forks: 281
 
-★ Stars: 1806
+★ Stars: 1808
 
 [Open repository](https://github.com/joncampbell123/dosbox-x)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1808 | 281 | 
 | 2022-11-08 | 1806 | 280 | 
 | 2022-11-07 | 1804 | 280 | 
 | 2022-11-06 | 1803 | 280 | 

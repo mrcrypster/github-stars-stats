@@ -1,10 +1,10 @@
 # lukasz-madon/awesome-remote-job - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2325
 
-★ Stars: 23403
+★ Stars: 23410
 
 [Open repository](https://github.com/lukasz-madon/awesome-remote-job)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 23410 | 2325 | 
 | 2022-11-08 | 23403 | 2325 | 
 | 2022-11-07 | 23393 | 2324 | 
 | 2022-11-06 | 23380 | 2323 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 23219 | 2313 | 
 | 2022-10-12 | 23212 | 2313 | 
 | 2022-10-11 | 23207 | 2313 | 
-| 2022-10-10 | 23199 | 2312 | 
 

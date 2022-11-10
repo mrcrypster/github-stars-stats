@@ -1,6 +1,6 @@
 # pedrib/PoC - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 161
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 668 | 161 | 
 | 2022-11-08 | 668 | 161 | 
 | 2022-11-07 | 668 | 161 | 
 | 2022-11-06 | 668 | 161 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 661 | 159 | 
 | 2022-10-12 | 660 | 159 | 
 | 2022-10-11 | 659 | 159 | 
-| 2022-10-10 | 659 | 159 | 
 

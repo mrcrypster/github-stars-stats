@@ -1,10 +1,10 @@
 # GSK-Biostatistics/tfrmt - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1
 
-★ Stars: 32
+★ Stars: 36
 
 [Open repository](https://github.com/GSK-Biostatistics/tfrmt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 36 | 1 | 
 | 2022-11-08 | 32 | 1 | 
 | 2022-11-07 | 32 | 1 | 
 | 2022-11-06 | 32 | 1 | 

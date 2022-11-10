@@ -1,8 +1,8 @@
 # MAJigsaw77/FNF-Chain-Saw-Engine - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 8 | 21 | 
 | 2022-11-08 | 8 | 20 | 
 | 2022-11-07 | 8 | 20 | 
 | 2022-11-06 | 8 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 5 | 7 | 
 | 2022-10-12 | 5 | 7 | 
 | 2022-10-11 | 5 | 7 | 
-| 2022-10-10 | 5 | 6 | 
 

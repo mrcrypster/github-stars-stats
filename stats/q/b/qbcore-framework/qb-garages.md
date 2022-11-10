@@ -1,10 +1,10 @@
 # qbcore-framework/qb-garages - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 242
+☋ Forks: 245
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/qbcore-framework/qb-garages)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 33 | 245 | 
 | 2022-11-08 | 32 | 242 | 
 | 2022-11-07 | 32 | 242 | 
 | 2022-11-06 | 32 | 243 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 32 | 244 | 
 | 2022-10-12 | 32 | 245 | 
 | 2022-10-11 | 32 | 245 | 
-| 2022-10-10 | 31 | 245 | 
 

@@ -1,6 +1,6 @@
 # mojs/mojs - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 940
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 17758 | 940 | 
 | 2022-11-08 | 17758 | 940 | 
 | 2022-11-07 | 17758 | 940 | 
 | 2022-11-06 | 17755 | 939 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 17734 | 939 | 
 | 2022-10-12 | 17734 | 939 | 
 | 2022-10-11 | 17735 | 939 | 
-| 2022-10-10 | 17733 | 939 | 
 

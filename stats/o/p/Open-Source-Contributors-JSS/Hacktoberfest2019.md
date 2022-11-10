@@ -1,10 +1,10 @@
 # Open-Source-Contributors-JSS/Hacktoberfest2019 - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1030
 
-★ Stars: 396
+★ Stars: 395
 
 [Open repository](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 395 | 1030 | 
 | 2022-11-08 | 396 | 1030 | 
 | 2022-11-07 | 396 | 1030 | 
 | 2022-11-06 | 396 | 1030 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 396 | 991 | 
 | 2022-10-12 | 396 | 991 | 
 | 2022-10-11 | 396 | 990 | 
-| 2022-10-10 | 396 | 991 | 
 

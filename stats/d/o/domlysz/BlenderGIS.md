@@ -1,10 +1,10 @@
 # domlysz/BlenderGIS - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1064
 
-★ Stars: 5748
+★ Stars: 5751
 
 [Open repository](https://github.com/domlysz/BlenderGIS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 5751 | 1064 | 
 | 2022-11-08 | 5748 | 1064 | 
 | 2022-11-07 | 5745 | 1064 | 
 | 2022-11-06 | 5742 | 1064 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 5680 | 1051 | 
 | 2022-10-12 | 5679 | 1050 | 
 | 2022-10-11 | 5677 | 1050 | 
-| 2022-10-10 | 5676 | 1050 | 
 

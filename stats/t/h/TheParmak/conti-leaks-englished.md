@@ -1,10 +1,10 @@
 # TheParmak/conti-leaks-englished - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 133
 
-★ Stars: 505
+★ Stars: 506
 
 [Open repository](https://github.com/TheParmak/conti-leaks-englished)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 506 | 133 | 
 | 2022-11-08 | 505 | 133 | 
 | 2022-11-07 | 505 | 133 | 
 | 2022-11-06 | 504 | 133 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 500 | 132 | 
 | 2022-10-12 | 500 | 132 | 
 | 2022-10-11 | 500 | 132 | 
-| 2022-10-10 | 499 | 132 | 
 

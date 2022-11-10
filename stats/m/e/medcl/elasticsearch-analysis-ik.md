@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 09
 
-☋ Forks: 3073
+☋ Forks: 3075
 
-★ Stars: 14467
+★ Stars: 14472
 
 [Open repository](https://github.com/medcl/elasticsearch-analysis-ik)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 14467 | 3073 | 
+| 2022-11-09 | 14472 | 3075 | 
 | 2022-11-08 | 14466 | 3073 | 
 | 2022-11-07 | 14457 | 3072 | 
 | 2022-11-06 | 14451 | 3069 | 

@@ -1,10 +1,10 @@
 # MatsuriDayo/nekoray - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 70
 
-★ Stars: 662
+★ Stars: 672
 
 [Open repository](https://github.com/MatsuriDayo/nekoray)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 672 | 70 | 
 | 2022-11-08 | 662 | 70 | 
 | 2022-11-07 | 653 | 69 | 
 | 2022-11-06 | 646 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 413 | 39 | 
 | 2022-10-12 | 411 | 39 | 
 | 2022-10-11 | 407 | 39 | 
-| 2022-10-10 | 404 | 39 | 
 

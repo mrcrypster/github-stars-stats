@@ -1,6 +1,6 @@
 # lsmor/snake-fury - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 37 | 4 | 
 | 2022-11-08 | 37 | 4 | 
 | 2022-11-07 | 37 | 4 | 
 | 2022-11-06 | 37 | 4 | 

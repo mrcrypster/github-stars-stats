@@ -1,10 +1,10 @@
 # clan4456/CSTK_Icon_Creator - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 2
 
-★ Stars: 17
+★ Stars: 19
 
 [Open repository](https://github.com/clan4456/CSTK_Icon_Creator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 19 | 2 | 
 | 2022-11-08 | 17 | 2 | 
 | 2022-11-07 | 17 | 2 | 
 | 2022-11-06 | 17 | 2 | 

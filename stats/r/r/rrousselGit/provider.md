@@ -1,6 +1,6 @@
 # rrousselGit/provider - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 465
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 4522 | 465 | 
 | 2022-11-08 | 4522 | 465 | 
 | 2022-11-07 | 4520 | 465 | 
 | 2022-11-06 | 4520 | 465 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 4497 | 465 | 
 | 2022-10-12 | 4496 | 465 | 
 | 2022-10-11 | 4494 | 465 | 
-| 2022-10-10 | 4490 | 464 | 
 

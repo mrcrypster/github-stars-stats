@@ -1,10 +1,10 @@
 # testing-library/react-testing-library - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 1020
 
-★ Stars: 17148
+★ Stars: 17156
 
 [Open repository](https://github.com/testing-library/react-testing-library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 17156 | 1020 | 
 | 2022-11-08 | 17148 | 1020 | 
 | 2022-11-07 | 17147 | 1019 | 
 | 2022-11-06 | 17140 | 1019 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 17068 | 1009 | 
 | 2022-10-12 | 17067 | 1009 | 
 | 2022-10-11 | 17061 | 1009 | 
-| 2022-10-10 | 17053 | 1009 | 
 

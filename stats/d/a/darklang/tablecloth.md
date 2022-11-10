@@ -1,6 +1,6 @@
 # darklang/tablecloth - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 497 | 45 | 
 | 2022-11-09 | 497 | 45 | 
 | 2022-11-08 | 497 | 45 | 
 | 2022-11-07 | 497 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-13 | 488 | 45 | 
 | 2022-10-12 | 488 | 45 | 
 | 2022-10-11 | 488 | 45 | 
-| 2022-10-10 | 488 | 44 | 
 

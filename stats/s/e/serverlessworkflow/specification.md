@@ -1,10 +1,10 @@
 # serverlessworkflow/specification - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 116
 
-★ Stars: 501
+★ Stars: 502
 
 [Open repository](https://github.com/serverlessworkflow/specification)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 502 | 116 | 
 | 2022-11-08 | 501 | 116 | 
 | 2022-11-07 | 501 | 116 | 
 | 2022-11-06 | 501 | 116 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 490 | 113 | 
 | 2022-10-12 | 490 | 113 | 
 | 2022-10-11 | 490 | 113 | 
-| 2022-10-10 | 490 | 113 | 
 

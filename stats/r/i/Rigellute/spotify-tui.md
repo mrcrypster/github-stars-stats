@@ -1,10 +1,10 @@
 # Rigellute/spotify-tui - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 427
+☋ Forks: 428
 
-★ Stars: 13622
+★ Stars: 13629
 
 [Open repository](https://github.com/Rigellute/spotify-tui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 13629 | 428 | 
 | 2022-11-08 | 13622 | 427 | 
 | 2022-11-07 | 13616 | 428 | 
 | 2022-11-06 | 13614 | 428 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 13398 | 426 | 
 | 2022-10-12 | 13392 | 426 | 
 | 2022-10-11 | 13381 | 426 | 
-| 2022-10-10 | 13374 | 423 | 
 

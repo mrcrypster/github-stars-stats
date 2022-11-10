@@ -1,10 +1,10 @@
 # acantril/learn-cantrill-io-labs - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 1135
+☋ Forks: 1137
 
-★ Stars: 2888
+★ Stars: 2892
 
 [Open repository](https://github.com/acantril/learn-cantrill-io-labs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 2892 | 1137 | 
 | 2022-11-08 | 2888 | 1135 | 
 | 2022-11-07 | 2881 | 1132 | 
 | 2022-11-06 | 2878 | 1130 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 2690 | 1076 | 
 | 2022-10-12 | 2685 | 1072 | 
 | 2022-10-11 | 2679 | 1068 | 
-| 2022-10-10 | 2673 | 1067 | 
 

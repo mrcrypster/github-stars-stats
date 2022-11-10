@@ -1,10 +1,10 @@
 # corgi-emacs/corgi - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 18
 
-★ Stars: 139
+★ Stars: 140
 
 [Open repository](https://github.com/corgi-emacs/corgi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 140 | 18 | 
 | 2022-11-08 | 139 | 18 | 
 | 2022-11-07 | 139 | 18 | 
 | 2022-11-06 | 139 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 137 | 18 | 
 | 2022-10-12 | 137 | 18 | 
 | 2022-10-11 | 137 | 18 | 
-| 2022-10-10 | 137 | 17 | 
 

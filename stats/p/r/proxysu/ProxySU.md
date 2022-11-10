@@ -1,10 +1,10 @@
 # proxysu/ProxySU - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 1403
+☋ Forks: 1404
 
-★ Stars: 4305
+★ Stars: 4306
 
 [Open repository](https://github.com/proxysu/ProxySU)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 4306 | 1404 | 
 | 2022-11-08 | 4305 | 1403 | 
 | 2022-11-07 | 4299 | 1402 | 
 | 2022-11-06 | 4286 | 1397 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 4089 | 1369 | 
 | 2022-10-12 | 4084 | 1370 | 
 | 2022-10-11 | 4073 | 1368 | 
-| 2022-10-10 | 4065 | 1367 | 
 

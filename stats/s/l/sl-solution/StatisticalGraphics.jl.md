@@ -1,10 +1,10 @@
 # sl-solution/StatisticalGraphics.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/sl-solution/StatisticalGraphics.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 22 | - | 
 | 2022-11-08 | 21 | - | 
 | 2022-11-07 | 20 | - | 
 | 2022-11-06 | 20 | - | 

@@ -1,10 +1,10 @@
 # imroc/istio-guide - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 12
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/imroc/istio-guide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 47 | 12 | 
 | 2022-11-08 | 46 | 12 | 
 | 2022-11-07 | 45 | 12 | 
 | 2022-11-06 | 45 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-14 | 44 | 11 | 
 | 2022-10-13 | 44 | 11 | 
 | 2022-10-12 | 43 | 10 | 
-| 2022-10-11 | 43 | 10 | 
 

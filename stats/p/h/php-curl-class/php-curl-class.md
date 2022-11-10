@@ -1,6 +1,6 @@
 # php-curl-class/php-curl-class - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 803
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 3077 | 803 | 
 | 2022-11-08 | 3077 | 803 | 
 | 2022-11-07 | 3076 | 803 | 
 | 2022-11-06 | 3075 | 803 | 

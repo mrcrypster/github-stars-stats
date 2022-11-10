@@ -1,10 +1,10 @@
 # V4NSH4J/discord-mass-DM-GO - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 523
 
-★ Stars: 1663
+★ Stars: 1664
 
 [Open repository](https://github.com/V4NSH4J/discord-mass-DM-GO)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 1664 | 523 | 
 | 2022-11-08 | 1663 | 523 | 
 | 2022-11-07 | 1659 | 523 | 
 | 2022-11-06 | 1655 | 523 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 1607 | 515 | 
 | 2022-10-12 | 1606 | 514 | 
 | 2022-10-11 | 1604 | 512 | 
-| 2022-10-10 | 1602 | 512 | 
 

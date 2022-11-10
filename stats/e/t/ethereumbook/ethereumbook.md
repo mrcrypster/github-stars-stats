@@ -1,10 +1,10 @@
 # ethereumbook/ethereumbook - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
-☋ Forks: 4085
+☋ Forks: 4087
 
-★ Stars: 16591
+★ Stars: 16595
 
 [Open repository](https://github.com/ethereumbook/ethereumbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 16595 | 4087 | 
 | 2022-11-08 | 16591 | 4085 | 
 | 2022-11-07 | 16584 | 4087 | 
 | 2022-11-06 | 16580 | 4088 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 08
 | 2022-10-13 | 16369 | 4052 | 
 | 2022-10-12 | 16360 | 4049 | 
 | 2022-10-11 | 16347 | 4045 | 
-| 2022-10-10 | 16338 | 4040 | 
 

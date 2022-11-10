@@ -1,10 +1,10 @@
 # kaspth/active_record-ingress - stars & forks statistics
 
-Stats updated on Nov 2022, 08
+Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/kaspth/active_record-ingress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 08
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-09 | 30 | - | 
 | 2022-11-08 | 29 | - | 
 | 2022-11-07 | 27 | - | 
 | 2022-11-06 | 27 | - | 

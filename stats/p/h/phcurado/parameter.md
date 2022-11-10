@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 09
 
 ☋ Forks: 0
 
-★ Stars: 26
+★ Stars: 27
 
 [Open repository](https://github.com/phcurado/parameter)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-09 | 26 | - | 
+| 2022-11-09 | 27 | - | 
 | 2022-11-08 | 26 | - | 
 | 2022-11-07 | 25 | - | 
 | 2022-11-06 | 24 | - | 
