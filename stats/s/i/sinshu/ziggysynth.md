@@ -1,6 +1,6 @@
 # sinshu/ziggysynth - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 24 | - | 
 | 2022-11-09 | 24 | - | 
 | 2022-11-08 | 24 | - | 
 | 2022-11-07 | 24 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 20 | - | 
 | 2022-10-13 | 20 | - | 
 | 2022-10-12 | 20 | - | 
-| 2022-10-11 | 20 | - | 
 

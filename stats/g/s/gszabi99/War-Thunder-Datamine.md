@@ -1,10 +1,10 @@
 # gszabi99/War-Thunder-Datamine - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 31
+☋ Forks: 32
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/gszabi99/War-Thunder-Datamine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 109 | 32 | 
 | 2022-11-09 | 108 | 31 | 
 | 2022-11-08 | 107 | 31 | 
 | 2022-11-07 | 107 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 105 | 30 | 
 | 2022-10-13 | 105 | 30 | 
 | 2022-10-12 | 105 | 30 | 
-| 2022-10-11 | 104 | 30 | 
 

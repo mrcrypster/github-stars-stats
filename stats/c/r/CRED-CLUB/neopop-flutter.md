@@ -1,6 +1,6 @@
 # CRED-CLUB/neopop-flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 345 | 35 | 
 | 2022-11-09 | 345 | 35 | 
 | 2022-11-08 | 345 | 35 | 
 | 2022-11-07 | 344 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 341 | 32 | 
 | 2022-10-13 | 341 | 32 | 
 | 2022-10-12 | 341 | 32 | 
-| 2022-10-11 | 341 | 32 | 
 

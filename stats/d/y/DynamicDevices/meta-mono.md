@@ -1,8 +1,8 @@
 # DynamicDevices/meta-mono - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 20
+☋ Forks: 21
 
 ★ Stars: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 9 | 21 | 
 | 2022-11-09 | 9 | 20 | 
 | 2022-11-08 | 9 | 20 | 
 | 2022-11-07 | 9 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 9 | 20 | 
 | 2022-10-13 | 9 | 20 | 
 | 2022-10-12 | 9 | 19 | 
-| 2022-10-11 | 9 | 19 | 
 

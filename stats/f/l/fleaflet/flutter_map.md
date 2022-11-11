@@ -1,10 +1,10 @@
 # fleaflet/flutter_map - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 696
 
-★ Stars: 2205
+★ Stars: 2208
 
 [Open repository](https://github.com/fleaflet/flutter_map)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2208 | 696 | 
 | 2022-11-09 | 2205 | 696 | 
 | 2022-11-08 | 2204 | 694 | 
 | 2022-11-07 | 2204 | 693 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2185 | 685 | 
 | 2022-10-13 | 2184 | 685 | 
 | 2022-10-12 | 2181 | 685 | 
-| 2022-10-11 | 2179 | 685 | 
 

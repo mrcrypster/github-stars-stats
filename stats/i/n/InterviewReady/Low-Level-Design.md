@@ -1,6 +1,6 @@
 # InterviewReady/Low-Level-Design - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 359 | 59 | 
 | 2022-11-09 | 359 | 59 | 
 | 2022-11-08 | 359 | 59 | 
 | 2022-11-07 | 359 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 270 | 42 | 
 | 2022-10-13 | 269 | 42 | 
 | 2022-10-12 | 268 | 41 | 
-| 2022-10-11 | 267 | 41 | 
 

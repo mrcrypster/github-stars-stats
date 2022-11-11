@@ -1,6 +1,6 @@
 # nickson-jose/vsdstdcelldesign - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 37 | 32 | 
 | 2022-11-10 | 37 | 32 | 
 | 2022-11-09 | 37 | 32 | 
 | 2022-11-08 | 37 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 37 | 32 | 
 | 2022-10-13 | 37 | 32 | 
 | 2022-10-12 | 37 | 32 | 
-| 2022-10-11 | 37 | 32 | 
 

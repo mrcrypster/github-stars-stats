@@ -1,10 +1,10 @@
 # jameswenzel/are-we-immutable-yet - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/jameswenzel/are-we-immutable-yet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 21 | - | 
 | 2022-11-09 | 20 | - | 
 | 2022-11-08 | 20 | - | 
 | 2022-11-07 | 20 | - | 

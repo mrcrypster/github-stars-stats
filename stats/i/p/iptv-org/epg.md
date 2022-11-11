@@ -1,6 +1,6 @@
 # iptv-org/epg - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 258
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 846 | 258 | 
 | 2022-11-09 | 846 | 258 | 
 | 2022-11-08 | 843 | 259 | 
 | 2022-11-07 | 842 | 259 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 797 | 251 | 
 | 2022-10-13 | 795 | 249 | 
 | 2022-10-12 | 793 | 249 | 
-| 2022-10-11 | 790 | 249 | 
 

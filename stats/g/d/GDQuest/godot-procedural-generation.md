@@ -1,10 +1,10 @@
 # GDQuest/godot-procedural-generation - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 45
 
-★ Stars: 902
+★ Stars: 904
 
 [Open repository](https://github.com/GDQuest/godot-procedural-generation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 904 | 45 | 
 | 2022-11-09 | 902 | 45 | 
 | 2022-11-08 | 902 | 44 | 
 | 2022-11-07 | 902 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 886 | 43 | 
 | 2022-10-13 | 884 | 42 | 
 | 2022-10-12 | 881 | 42 | 
-| 2022-10-11 | 880 | 42 | 
 

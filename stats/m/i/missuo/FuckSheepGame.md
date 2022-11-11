@@ -1,6 +1,6 @@
 # missuo/FuckSheepGame - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 61 | 24 | 
 | 2022-11-10 | 61 | 24 | 
 | 2022-11-09 | 61 | 24 | 
 | 2022-11-07 | 61 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 65 | 24 | 
 | 2022-10-13 | 65 | 24 | 
 | 2022-10-12 | 65 | 24 | 
-| 2022-10-11 | 66 | 24 | 
 

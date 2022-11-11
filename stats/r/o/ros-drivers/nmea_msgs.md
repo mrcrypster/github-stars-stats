@@ -1,6 +1,6 @@
 # ros-drivers/nmea_msgs - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 20 | 17 | 
 | 2022-11-09 | 20 | 17 | 
 | 2022-11-08 | 20 | 17 | 
 | 2022-11-07 | 20 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 19 | 17 | 
 | 2022-10-13 | 19 | 17 | 
 | 2022-10-12 | 19 | 17 | 
-| 2022-10-11 | 19 | 17 | 
 

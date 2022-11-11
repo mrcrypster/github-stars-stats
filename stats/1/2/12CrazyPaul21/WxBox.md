@@ -1,10 +1,10 @@
 # 12CrazyPaul21/WxBox - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 26
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/12CrazyPaul21/WxBox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 114 | 26 | 
 | 2022-11-09 | 113 | 26 | 
 | 2022-11-08 | 113 | 26 | 
 | 2022-11-07 | 113 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 95 | 24 | 
 | 2022-10-13 | 95 | 24 | 
 | 2022-10-12 | 96 | 24 | 
-| 2022-10-11 | 96 | 24 | 
 

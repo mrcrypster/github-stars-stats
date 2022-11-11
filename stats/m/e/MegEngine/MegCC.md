@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 10
 
-☋ Forks: 19
+☋ Forks: 21
 
-★ Stars: 206
+★ Stars: 224
 
 [Open repository](https://github.com/MegEngine/MegCC)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 206 | 19 | 
+| 2022-11-10 | 224 | 21 | 
 | 2022-11-09 | 206 | 19 | 
 

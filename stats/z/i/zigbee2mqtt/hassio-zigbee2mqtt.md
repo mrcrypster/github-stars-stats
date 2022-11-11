@@ -1,6 +1,6 @@
 # zigbee2mqtt/hassio-zigbee2mqtt - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 179
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 479 | 179 | 
 | 2022-11-10 | 479 | 179 | 
 | 2022-11-09 | 479 | 179 | 
 | 2022-11-07 | 478 | 179 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 463 | 173 | 
 | 2022-10-13 | 463 | 173 | 
 | 2022-10-12 | 461 | 174 | 
-| 2022-10-11 | 460 | 174 | 
 

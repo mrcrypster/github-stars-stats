@@ -1,10 +1,10 @@
 # olcf/cuda-training-series - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 85
 
-★ Stars: 168
+★ Stars: 170
 
 [Open repository](https://github.com/olcf/cuda-training-series)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 170 | 85 | 
 | 2022-11-09 | 168 | 85 | 
 | 2022-11-08 | 168 | 85 | 
 | 2022-11-07 | 168 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 164 | 84 | 
 | 2022-10-13 | 164 | 84 | 
 | 2022-10-12 | 164 | 83 | 
-| 2022-10-11 | 164 | 83 | 
 

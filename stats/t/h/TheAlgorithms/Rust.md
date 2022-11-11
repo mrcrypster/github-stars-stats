@@ -1,10 +1,10 @@
 # TheAlgorithms/Rust - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1259
+☋ Forks: 1263
 
-★ Stars: 12501
+★ Stars: 12507
 
 [Open repository](https://github.com/TheAlgorithms/Rust)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 12507 | 1263 | 
 | 2022-11-09 | 12501 | 1259 | 
 | 2022-11-08 | 12491 | 1259 | 
 | 2022-11-07 | 12482 | 1256 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 11687 | 1187 | 
 | 2022-10-13 | 11670 | 1184 | 
 | 2022-10-12 | 11662 | 1184 | 
-| 2022-10-11 | 11654 | 1181 | 
 

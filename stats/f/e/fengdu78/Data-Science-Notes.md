@@ -1,10 +1,10 @@
 # fengdu78/Data-Science-Notes - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 2931
 
-★ Stars: 6930
+★ Stars: 6934
 
 [Open repository](https://github.com/fengdu78/Data-Science-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 6934 | 2931 | 
 | 2022-11-09 | 6930 | 2931 | 
 | 2022-11-08 | 6922 | 2928 | 
 | 2022-11-07 | 6918 | 2928 | 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/pulp-platform/iDMA)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 14 | 6 | 
+| 2022-11-10 | 15 | 6 | 
 | 2022-11-09 | 14 | 6 | 
 | 2022-11-08 | 14 | 5 | 
 | 2022-11-07 | 14 | 5 | 

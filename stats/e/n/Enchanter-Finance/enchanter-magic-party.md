@@ -1,10 +1,10 @@
 # Enchanter-Finance/enchanter-magic-party - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/Enchanter-Finance/enchanter-magic-party)
 
@@ -13,5 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 15 | 2 | 
+| 2022-11-10 | 14 | 2 | 
 | 2022-11-09 | 14 | 2 | 
 

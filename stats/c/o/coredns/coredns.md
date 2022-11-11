@@ -1,10 +1,10 @@
 # coredns/coredns - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1777
+☋ Forks: 1778
 
-★ Stars: 9947
+★ Stars: 9950
 
 [Open repository](https://github.com/coredns/coredns)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 9950 | 1778 | 
 | 2022-11-09 | 9947 | 1777 | 
 | 2022-11-08 | 9940 | 1779 | 
 | 2022-11-07 | 9933 | 1779 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 9833 | 1771 | 
 | 2022-10-14 | 9830 | 1769 | 
 | 2022-10-13 | 9825 | 1769 | 
-| 2022-10-12 | 9819 | 1768 | 
 

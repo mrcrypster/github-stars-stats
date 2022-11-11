@@ -1,10 +1,10 @@
 # opf/openproject - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1713
+☋ Forks: 1714
 
-★ Stars: 6187
+★ Stars: 6188
 
 [Open repository](https://github.com/opf/openproject)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 6188 | 1714 | 
 | 2022-11-09 | 6187 | 1713 | 
 | 2022-11-08 | 6187 | 1713 | 
 | 2022-11-07 | 6185 | 1714 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 6113 | 1697 | 
 | 2022-10-13 | 6112 | 1695 | 
 | 2022-10-12 | 6110 | 1695 | 
-| 2022-10-11 | 6106 | 1694 | 
 

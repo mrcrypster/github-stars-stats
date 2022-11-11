@@ -1,6 +1,6 @@
 # getsentry/sentry-elixir - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 152
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 534 | 152 | 
 | 2022-11-09 | 534 | 152 | 
 | 2022-11-08 | 534 | 152 | 
 | 2022-11-07 | 534 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 534 | 152 | 
 | 2022-10-13 | 534 | 152 | 
 | 2022-10-12 | 534 | 152 | 
-| 2022-10-11 | 534 | 152 | 
 

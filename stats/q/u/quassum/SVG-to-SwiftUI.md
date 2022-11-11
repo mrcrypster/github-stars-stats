@@ -1,6 +1,6 @@
 # quassum/SVG-to-SwiftUI - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 457 | 26 | 
 | 2022-11-09 | 457 | 26 | 
 | 2022-11-08 | 455 | 26 | 
 | 2022-11-07 | 453 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 439 | 24 | 
 | 2022-10-13 | 439 | 24 | 
 | 2022-10-12 | 437 | 24 | 
-| 2022-10-11 | 436 | 24 | 
 

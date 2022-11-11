@@ -1,10 +1,10 @@
 # sbasu7241/AWS-Threat-Simulation-and-Detection - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 32
 
-★ Stars: 220
+★ Stars: 219
 
 [Open repository](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 219 | 32 | 
 | 2022-11-09 | 220 | 32 | 
 | 2022-11-08 | 220 | 32 | 
 | 2022-11-07 | 220 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 218 | 31 | 
 | 2022-10-13 | 218 | 31 | 
 | 2022-10-12 | 217 | 31 | 
-| 2022-10-11 | 216 | 31 | 
 

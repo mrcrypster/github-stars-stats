@@ -1,10 +1,10 @@
 # aave/lens-protocol - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 327
 
-★ Stars: 1523
+★ Stars: 1525
 
 [Open repository](https://github.com/aave/lens-protocol)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1525 | 327 | 
 | 2022-11-09 | 1523 | 327 | 
 | 2022-11-08 | 1520 | 326 | 
 | 2022-11-07 | 1513 | 325 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 838 | 298 | 
 | 2022-10-13 | 839 | 299 | 
 | 2022-10-12 | 837 | 299 | 
-| 2022-10-11 | 837 | 298 | 
 

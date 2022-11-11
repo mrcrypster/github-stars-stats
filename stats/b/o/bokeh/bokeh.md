@@ -1,10 +1,10 @@
 # bokeh/bokeh - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 4005
+☋ Forks: 4004
 
-★ Stars: 16875
+★ Stars: 16877
 
 [Open repository](https://github.com/bokeh/bokeh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 16877 | 4004 | 
 | 2022-11-09 | 16875 | 4005 | 
 | 2022-11-08 | 16870 | 4005 | 
 | 2022-11-07 | 16869 | 4004 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 16778 | 3991 | 
 | 2022-10-13 | 16772 | 3990 | 
 | 2022-10-12 | 16769 | 3990 | 
-| 2022-10-11 | 16767 | 3990 | 
 

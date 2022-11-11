@@ -1,10 +1,10 @@
 # singgel/JAVA - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1374
 
-★ Stars: 3614
+★ Stars: 3621
 
 [Open repository](https://github.com/singgel/JAVA)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3621 | 1374 | 
 | 2022-11-09 | 3614 | 1374 | 
 | 2022-11-08 | 3606 | 1372 | 
 | 2022-11-07 | 3602 | 1372 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3538 | 1356 | 
 | 2022-10-13 | 3535 | 1355 | 
 | 2022-10-12 | 3534 | 1355 | 
-| 2022-10-11 | 3531 | 1353 | 
 

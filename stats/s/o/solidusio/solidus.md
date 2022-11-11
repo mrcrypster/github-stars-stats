@@ -1,10 +1,10 @@
 # solidusio/solidus - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1224
+☋ Forks: 1226
 
-★ Stars: 4472
+★ Stars: 4476
 
 [Open repository](https://github.com/solidusio/solidus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 4476 | 1226 | 
 | 2022-11-09 | 4472 | 1224 | 
 | 2022-11-08 | 4473 | 1224 | 
 | 2022-11-07 | 4472 | 1224 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 4447 | 1218 | 
 | 2022-10-13 | 4444 | 1218 | 
 | 2022-10-12 | 4442 | 1217 | 
-| 2022-10-11 | 4442 | 1217 | 
 

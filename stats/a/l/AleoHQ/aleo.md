@@ -1,8 +1,8 @@
 # AleoHQ/aleo - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 181
+☋ Forks: 182
 
 ★ Stars: 229
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 229 | 182 | 
 | 2022-11-09 | 229 | 181 | 
 | 2022-11-08 | 228 | 181 | 
 | 2022-11-07 | 231 | 181 | 

@@ -1,10 +1,10 @@
 # waydabber/m1ddc - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 17
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/waydabber/m1ddc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 166 | 17 | 
 | 2022-11-09 | 165 | 17 | 
 | 2022-11-08 | 165 | 17 | 
 | 2022-11-07 | 165 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 152 | 16 | 
 | 2022-10-13 | 151 | 16 | 
 | 2022-10-12 | 149 | 16 | 
-| 2022-10-11 | 149 | 16 | 
 

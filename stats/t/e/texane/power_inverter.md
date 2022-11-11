@@ -1,10 +1,10 @@
 # texane/power_inverter - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 24
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/texane/power_inverter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 13 | 24 | 
 | 2022-11-09 | 12 | 24 | 
 | 2022-11-08 | 12 | 24 | 
 | 2022-11-07 | 12 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 12 | 23 | 
 | 2022-10-13 | 12 | 23 | 
 | 2022-10-12 | 12 | 22 | 
-| 2022-10-11 | 12 | 22 | 
 

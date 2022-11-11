@@ -1,6 +1,6 @@
 # idaholab/large_media - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3 | 21 | 
 | 2022-11-09 | 3 | 21 | 
 | 2022-11-08 | 3 | 20 | 
 | 2022-11-07 | 2 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2 | 19 | 
 | 2022-10-13 | 2 | 19 | 
 | 2022-10-12 | 2 | 19 | 
-| 2022-10-11 | 2 | 19 | 
 

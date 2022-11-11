@@ -1,8 +1,8 @@
 # greymatter-io/gitops-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 4
+☋ Forks: 3
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3 | 3 | 
 | 2022-11-09 | 3 | 4 | 
 | 2022-11-08 | 3 | 4 | 
 | 2022-11-07 | 3 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2 | 5 | 
 | 2022-10-13 | 2 | 5 | 
 | 2022-10-12 | 2 | 5 | 
-| 2022-10-11 | 2 | 5 | 
 

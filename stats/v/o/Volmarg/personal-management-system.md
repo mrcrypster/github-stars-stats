@@ -1,6 +1,6 @@
 # Volmarg/personal-management-system - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 196
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2539 | 196 | 
 | 2022-11-09 | 2539 | 196 | 
 | 2022-11-08 | 2538 | 196 | 
 | 2022-11-07 | 2535 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2507 | 195 | 
 | 2022-10-13 | 2506 | 195 | 
 | 2022-10-12 | 2505 | 195 | 
-| 2022-10-11 | 2505 | 195 | 
 

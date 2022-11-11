@@ -1,10 +1,10 @@
 # Homebrew/homebrew-cask-fonts - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 454
+☋ Forks: 455
 
-★ Stars: 2436
+★ Stars: 2437
 
 [Open repository](https://github.com/Homebrew/homebrew-cask-fonts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2437 | 455 | 
 | 2022-11-09 | 2436 | 454 | 
 | 2022-11-08 | 2436 | 454 | 
 | 2022-11-07 | 2434 | 454 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2415 | 446 | 
 | 2022-10-13 | 2411 | 445 | 
 | 2022-10-12 | 2411 | 445 | 
-| 2022-10-11 | 2411 | 445 | 
 

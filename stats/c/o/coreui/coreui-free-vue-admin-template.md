@@ -1,10 +1,10 @@
 # coreui/coreui-free-vue-admin-template - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 885
 
-★ Stars: 3091
+★ Stars: 3093
 
 [Open repository](https://github.com/coreui/coreui-free-vue-admin-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3093 | 885 | 
 | 2022-11-09 | 3091 | 885 | 
 | 2022-11-08 | 3090 | 885 | 
 | 2022-11-07 | 3089 | 884 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 3080 | 881 | 
 | 2022-10-14 | 3080 | 880 | 
 | 2022-10-13 | 3080 | 880 | 
-| 2022-10-12 | 3079 | 879 | 
 

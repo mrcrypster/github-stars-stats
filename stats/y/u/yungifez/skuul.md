@@ -1,8 +1,8 @@
 # yungifez/skuul - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 37
+☋ Forks: 38
 
 ★ Stars: 142
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 142 | 38 | 
 | 2022-11-09 | 142 | 37 | 
 | 2022-11-08 | 142 | 36 | 
 | 2022-11-07 | 142 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 133 | 30 | 
 | 2022-10-13 | 133 | 30 | 
 | 2022-10-12 | 133 | 30 | 
-| 2022-10-11 | 133 | 30 | 
 

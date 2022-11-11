@@ -1,6 +1,6 @@
 # shahednasser/awesome-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 384
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 500 | 384 | 
 | 2022-11-09 | 500 | 384 | 
 | 2022-11-08 | 500 | 385 | 
 | 2022-11-07 | 497 | 386 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 418 | 345 | 
 | 2022-10-13 | 417 | 342 | 
 | 2022-10-12 | 414 | 340 | 
-| 2022-10-11 | 413 | 337 | 
 

@@ -1,10 +1,10 @@
 # Axx8/ShellCode_Loader - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 33
 
-★ Stars: 293
+★ Stars: 295
 
 [Open repository](https://github.com/Axx8/ShellCode_Loader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 295 | 33 | 
 | 2022-11-10 | 293 | 33 | 
 | 2022-11-09 | 294 | 31 | 
 | 2022-11-07 | 293 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 271 | 29 | 
 | 2022-10-13 | 270 | 29 | 
 | 2022-10-12 | 268 | 29 | 
-| 2022-10-11 | 268 | 29 | 
 

@@ -1,10 +1,10 @@
 # schochastics/rtoot - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 55
+★ Stars: 59
 
 [Open repository](https://github.com/schochastics/rtoot)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 59 | 3 | 
+| 2022-11-10 | 59 | 3 | 
 | 2022-11-09 | 55 | 2 | 
 | 2022-11-08 | 55 | 2 | 
 | 2022-11-07 | 49 | 2 | 

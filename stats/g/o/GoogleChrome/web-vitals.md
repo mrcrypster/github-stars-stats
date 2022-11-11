@@ -1,10 +1,10 @@
 # GoogleChrome/web-vitals - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 278
 
-★ Stars: 5466
+★ Stars: 5470
 
 [Open repository](https://github.com/GoogleChrome/web-vitals)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5470 | 278 | 
 | 2022-11-09 | 5466 | 278 | 
 | 2022-11-08 | 5461 | 278 | 
 | 2022-11-07 | 5452 | 275 | 

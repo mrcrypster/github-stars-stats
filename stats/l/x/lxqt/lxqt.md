@@ -1,6 +1,6 @@
 # lxqt/lxqt - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1389 | 129 | 
 | 2022-11-09 | 1389 | 129 | 
 | 2022-11-08 | 1389 | 129 | 
 | 2022-11-07 | 1386 | 129 | 

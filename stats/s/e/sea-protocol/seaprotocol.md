@@ -1,10 +1,10 @@
 # sea-protocol/seaprotocol - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 19
 
-★ Stars: 4904
+★ Stars: 4914
 
 [Open repository](https://github.com/sea-protocol/seaprotocol)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 4914 | 19 | 
 | 2022-11-09 | 4904 | 19 | 
 | 2022-11-08 | 4896 | 19 | 
 | 2022-11-07 | 4878 | 19 | 

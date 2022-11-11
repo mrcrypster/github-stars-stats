@@ -1,10 +1,10 @@
 # Atarpara/DateTimeLib - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/Atarpara/DateTimeLib)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 16 | - | 
 | 2022-11-09 | 15 | - | 
 

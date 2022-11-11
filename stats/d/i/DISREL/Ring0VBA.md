@@ -1,10 +1,10 @@
 # DISREL/Ring0VBA - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 9
 
-★ Stars: 45
+★ Stars: 44
 
 [Open repository](https://github.com/DISREL/Ring0VBA)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 44 | 9 | 
 | 2022-11-09 | 45 | 9 | 
 | 2022-11-08 | 44 | 9 | 
 | 2022-11-07 | 44 | 9 | 

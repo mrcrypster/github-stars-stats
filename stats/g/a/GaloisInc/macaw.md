@@ -1,6 +1,6 @@
 # GaloisInc/macaw - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 168 | 19 | 
 | 2022-11-09 | 168 | 19 | 
 | 2022-11-08 | 168 | 19 | 
 | 2022-11-07 | 168 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 167 | 19 | 
 | 2022-10-13 | 167 | 19 | 
 | 2022-10-12 | 167 | 19 | 
-| 2022-10-11 | 167 | 19 | 
 

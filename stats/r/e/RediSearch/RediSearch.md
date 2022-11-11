@@ -1,6 +1,6 @@
 # RediSearch/RediSearch - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3992 | 424 | 
 | 2022-11-09 | 3992 | 424 | 
 | 2022-11-08 | 3990 | 424 | 
 | 2022-11-07 | 3986 | 424 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3961 | 417 | 
 | 2022-10-13 | 3960 | 417 | 
 | 2022-10-12 | 3956 | 417 | 
-| 2022-10-11 | 3954 | 417 | 
 

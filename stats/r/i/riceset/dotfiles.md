@@ -1,10 +1,10 @@
 # riceset/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 1
 
-★ Stars: 27
+★ Stars: 29
 
 [Open repository](https://github.com/riceset/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 29 | 1 | 
 | 2022-11-10 | 27 | 1 | 
 | 2022-11-09 | 27 | 1 | 
 | 2022-11-07 | 27 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 23 | 1 | 
 | 2022-10-13 | 23 | 1 | 
 | 2022-10-12 | 23 | 1 | 
-| 2022-10-11 | 23 | 1 | 
 

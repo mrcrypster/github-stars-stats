@@ -1,6 +1,6 @@
 # tryashtar/shulker-preview - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 46 | 2 | 
 | 2022-11-09 | 46 | 2 | 
 | 2022-11-08 | 46 | 2 | 
 | 2022-11-07 | 46 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 46 | 2 | 
 | 2022-10-13 | 46 | 2 | 
 | 2022-10-12 | 45 | 2 | 
-| 2022-10-11 | 45 | 2 | 
 

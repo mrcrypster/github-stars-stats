@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 10
 
-☋ Forks: 24
+☋ Forks: 29
 
-★ Stars: 115
+★ Stars: 138
 
 [Open repository](https://github.com/ilovexjp/jkb-simulator)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 115 | 24 | 
+| 2022-11-10 | 138 | 29 | 
 | 2022-11-09 | 111 | 24 | 
 | 2022-11-08 | 70 | 22 | 
 | 2022-11-07 | 55 | 15 | 

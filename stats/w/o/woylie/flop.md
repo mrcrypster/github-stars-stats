@@ -1,6 +1,6 @@
 # woylie/flop - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 126 | 9 | 
 | 2022-11-09 | 126 | 9 | 
 | 2022-11-08 | 126 | 9 | 
 | 2022-11-07 | 126 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 116 | 8 | 
 | 2022-10-13 | 114 | 8 | 
 | 2022-10-12 | 114 | 8 | 
-| 2022-10-11 | 114 | 8 | 
 

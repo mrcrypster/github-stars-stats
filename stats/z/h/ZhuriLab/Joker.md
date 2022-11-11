@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 10
 
-☋ Forks: 21
+☋ Forks: 25
 
-★ Stars: 156
+★ Stars: 173
 
 [Open repository](https://github.com/ZhuriLab/Joker)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 156 | 21 | 
+| 2022-11-10 | 173 | 25 | 
 | 2022-11-09 | 152 | 21 | 
 

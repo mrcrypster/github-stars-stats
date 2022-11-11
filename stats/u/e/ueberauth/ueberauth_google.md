@@ -1,10 +1,10 @@
 # ueberauth/ueberauth_google - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 83
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/ueberauth/ueberauth_google)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 144 | 83 | 
 | 2022-11-09 | 143 | 83 | 
 | 2022-11-08 | 143 | 83 | 
 | 2022-11-07 | 144 | 83 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 141 | 82 | 
 | 2022-10-13 | 141 | 82 | 
 | 2022-10-12 | 141 | 82 | 
-| 2022-10-11 | 141 | 82 | 
 

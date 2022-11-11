@@ -1,10 +1,10 @@
 # r-darwish/topgrade - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 186
+☋ Forks: 185
 
-★ Stars: 3453
+★ Stars: 3454
 
 [Open repository](https://github.com/r-darwish/topgrade)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3454 | 185 | 
 | 2022-11-09 | 3453 | 186 | 
 | 2022-11-08 | 3454 | 186 | 
 | 2022-11-07 | 3457 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3470 | 189 | 
 | 2022-10-13 | 3472 | 190 | 
 | 2022-10-12 | 3468 | 190 | 
-| 2022-10-11 | 3455 | 190 | 
 

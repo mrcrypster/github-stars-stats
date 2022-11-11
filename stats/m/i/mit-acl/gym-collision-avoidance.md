@@ -1,10 +1,10 @@
 # mit-acl/gym-collision-avoidance - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 52
 
-★ Stars: 161
+★ Stars: 162
 
 [Open repository](https://github.com/mit-acl/gym-collision-avoidance)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 162 | 52 | 
 | 2022-11-09 | 161 | 52 | 
 | 2022-11-08 | 161 | 52 | 
 | 2022-11-07 | 161 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 156 | 50 | 
 | 2022-10-14 | 156 | 50 | 
 | 2022-10-13 | 156 | 50 | 
-| 2022-10-12 | 156 | 50 | 
 

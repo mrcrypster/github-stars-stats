@@ -1,6 +1,6 @@
 # abuanwar072/Welcome-Login-Signup-Page-Flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 732
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 976 | 732 | 
 | 2022-11-09 | 976 | 732 | 
 | 2022-11-08 | 977 | 732 | 
 | 2022-11-07 | 977 | 732 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 954 | 720 | 
 | 2022-10-13 | 954 | 720 | 
 | 2022-10-12 | 953 | 717 | 
-| 2022-10-11 | 953 | 717 | 
 

@@ -1,10 +1,10 @@
 # allegroai/clearml - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 498
+☋ Forks: 499
 
-★ Stars: 3742
+★ Stars: 3744
 
 [Open repository](https://github.com/allegroai/clearml)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3744 | 499 | 
 | 2022-11-09 | 3742 | 498 | 
 | 2022-11-08 | 3739 | 497 | 
 | 2022-11-07 | 3735 | 497 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 3668 | 491 | 
 | 2022-10-14 | 3667 | 490 | 
 | 2022-10-13 | 3663 | 490 | 
-| 2022-10-12 | 3659 | 490 | 
 

@@ -1,10 +1,10 @@
 # Code-Institute-Org/gitpod-full-template - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 316
+☋ Forks: 317
 
-★ Stars: 396
+★ Stars: 398
 
 [Open repository](https://github.com/Code-Institute-Org/gitpod-full-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 398 | 317 | 
 | 2022-11-09 | 396 | 316 | 
 | 2022-11-08 | 396 | 316 | 
 | 2022-11-06 | 395 | 317 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 388 | 315 | 
 | 2022-10-13 | 388 | 315 | 
 | 2022-10-12 | 387 | 315 | 
-| 2022-10-11 | 387 | 314 | 
 

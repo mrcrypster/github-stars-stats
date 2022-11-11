@@ -1,10 +1,10 @@
 # math-comp/analysis - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 33
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/math-comp/analysis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 138 | 33 | 
 | 2022-11-09 | 137 | 33 | 
 | 2022-11-08 | 137 | 33 | 
 | 2022-11-07 | 137 | 33 | 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 10
 
-☋ Forks: 9
+☋ Forks: 13
 
-★ Stars: 152
+★ Stars: 164
 
 [Open repository](https://github.com/ilovexjp/ykm-simulator)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 152 | 9 | 
+| 2022-11-10 | 164 | 13 | 
 | 2022-11-09 | 152 | 9 | 
 | 2022-11-08 | 96 | 2 | 
 | 2022-11-07 | 79 | - | 

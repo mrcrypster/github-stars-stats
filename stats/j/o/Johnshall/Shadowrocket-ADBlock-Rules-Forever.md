@@ -1,10 +1,10 @@
 # Johnshall/Shadowrocket-ADBlock-Rules-Forever - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 146
 
-★ Stars: 2344
+★ Stars: 2364
 
 [Open repository](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2364 | 146 | 
 | 2022-11-10 | 2344 | 146 | 
 | 2022-11-09 | 2329 | 145 | 
 | 2022-11-08 | 2314 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 1981 | 122 | 
 | 2022-10-13 | 1972 | 121 | 
 | 2022-10-12 | 1954 | 119 | 
-| 2022-10-11 | 1945 | 119 | 
 

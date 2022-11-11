@@ -1,10 +1,10 @@
 # GenXProject/GenX - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 64
 
-★ Stars: 137
+★ Stars: 138
 
 [Open repository](https://github.com/GenXProject/GenX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 138 | 64 | 
 | 2022-11-09 | 137 | 64 | 
 | 2022-11-08 | 137 | 64 | 
 | 2022-11-07 | 137 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 133 | 61 | 
 | 2022-10-13 | 133 | 61 | 
 | 2022-10-12 | 133 | 61 | 
-| 2022-10-11 | 132 | 61 | 
 

@@ -1,6 +1,6 @@
 # f-dong/hexo-theme-minimalism - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 191 | 40 | 
 | 2022-11-09 | 191 | 40 | 
 | 2022-11-08 | 191 | 40 | 
 | 2022-11-07 | 193 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 185 | 38 | 
 | 2022-10-13 | 184 | 37 | 
 | 2022-10-12 | 184 | 37 | 
-| 2022-10-11 | 183 | 35 | 
 

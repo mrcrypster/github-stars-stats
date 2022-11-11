@@ -1,10 +1,10 @@
 # guoyingtao/Mantis - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 97
 
-★ Stars: 518
+★ Stars: 520
 
 [Open repository](https://github.com/guoyingtao/Mantis)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 520 | 97 | 
 | 2022-11-09 | 518 | 97 | 
 | 2022-11-08 | 517 | 97 | 
 | 2022-11-07 | 516 | 97 | 

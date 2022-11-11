@@ -1,6 +1,6 @@
 # lh3/miniprot - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 147 | 3 | 
 | 2022-11-10 | 147 | 3 | 
 | 2022-11-09 | 146 | 3 | 
 | 2022-11-08 | 146 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 136 | 2 | 
 | 2022-10-13 | 136 | 2 | 
 | 2022-10-12 | 136 | 2 | 
-| 2022-10-11 | 135 | 2 | 
 

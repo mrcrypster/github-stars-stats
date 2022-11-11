@@ -1,10 +1,10 @@
 # michal-z/zig-gamedev - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 48
 
-★ Stars: 1176
+★ Stars: 1177
 
 [Open repository](https://github.com/michal-z/zig-gamedev)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1177 | 48 | 
 | 2022-11-09 | 1176 | 48 | 
 | 2022-11-08 | 1174 | 48 | 
 | 2022-11-07 | 1174 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1145 | 49 | 
 | 2022-10-13 | 1144 | 49 | 
 | 2022-10-12 | 1144 | 49 | 
-| 2022-10-11 | 1143 | 49 | 
 

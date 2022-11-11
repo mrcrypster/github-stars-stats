@@ -1,10 +1,10 @@
 # ToolJet/ToolJet - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1338
+☋ Forks: 1339
 
-★ Stars: 14966
+★ Stars: 14980
 
 [Open repository](https://github.com/ToolJet/ToolJet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 14980 | 1339 | 
 | 2022-11-09 | 14966 | 1338 | 
 | 2022-11-08 | 14956 | 1336 | 
 | 2022-11-07 | 14945 | 1334 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 13983 | 1235 | 
 | 2022-10-13 | 13966 | 1230 | 
 | 2022-10-12 | 13957 | 1224 | 
-| 2022-10-11 | 13936 | 1216 | 
 

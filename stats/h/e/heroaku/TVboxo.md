@@ -1,8 +1,8 @@
 # heroaku/TVboxo - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 203
+☋ Forks: 205
 
 ★ Stars: 163
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 163 | 205 | 
 | 2022-11-09 | 163 | 203 | 
 | 2022-11-08 | 161 | 202 | 
 | 2022-11-07 | 159 | 202 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 118 | 165 | 
 | 2022-10-14 | 116 | 160 | 
 | 2022-10-12 | 116 | 157 | 
-| 2022-10-11 | 116 | 152 | 
 

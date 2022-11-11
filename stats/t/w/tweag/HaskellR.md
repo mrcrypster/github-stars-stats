@@ -1,10 +1,10 @@
 # tweag/HaskellR - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 40
 
-★ Stars: 551
+★ Stars: 552
 
 [Open repository](https://github.com/tweag/HaskellR)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 552 | 40 | 
 | 2022-11-10 | 551 | 40 | 
 | 2022-11-09 | 551 | 40 | 
 | 2022-11-07 | 550 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 548 | 38 | 
 | 2022-10-13 | 547 | 38 | 
 | 2022-10-12 | 547 | 38 | 
-| 2022-10-11 | 547 | 38 | 
 

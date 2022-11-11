@@ -1,10 +1,10 @@
 # status-im/nim-serialization - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 6
+☋ Forks: 8
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/status-im/nim-serialization)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 48 | 8 | 
 | 2022-11-09 | 47 | 6 | 
 | 2022-11-08 | 47 | 6 | 
 | 2022-11-07 | 47 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 45 | 6 | 
 | 2022-10-13 | 45 | 6 | 
 | 2022-10-12 | 45 | 6 | 
-| 2022-10-11 | 45 | 6 | 
 

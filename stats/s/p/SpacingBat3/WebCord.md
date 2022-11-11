@@ -1,10 +1,10 @@
 # SpacingBat3/WebCord - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 51
 
-★ Stars: 688
+★ Stars: 693
 
 [Open repository](https://github.com/SpacingBat3/WebCord)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 693 | 51 | 
 | 2022-11-10 | 688 | 51 | 
 | 2022-11-09 | 686 | 51 | 
 | 2022-11-08 | 685 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 620 | 47 | 
 | 2022-10-13 | 618 | 47 | 
 | 2022-10-12 | 615 | 47 | 
-| 2022-10-11 | 612 | 47 | 
 

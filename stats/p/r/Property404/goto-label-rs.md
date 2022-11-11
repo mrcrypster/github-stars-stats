@@ -1,10 +1,10 @@
 # Property404/goto-label-rs - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 3
 
-★ Stars: 91
+★ Stars: 92
 
 [Open repository](https://github.com/Property404/goto-label-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 92 | 3 | 
 | 2022-11-09 | 91 | 3 | 
 | 2022-11-08 | 91 | 3 | 
 | 2022-11-07 | 91 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 92 | 3 | 
 | 2022-10-14 | 92 | 3 | 
 | 2022-10-13 | 92 | 3 | 
-| 2022-10-12 | 92 | 3 | 
 

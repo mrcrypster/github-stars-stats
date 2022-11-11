@@ -1,6 +1,6 @@
 # mbbarbosa/libsnark-supercop - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2 | 8 | 
 | 2022-11-09 | 2 | 8 | 
 | 2022-11-08 | 2 | 8 | 
 | 2022-11-07 | 2 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 2 | 8 | 
 | 2022-10-14 | 2 | 8 | 
 | 2022-10-13 | 2 | 8 | 
-| 2022-10-12 | 2 | 8 | 
 

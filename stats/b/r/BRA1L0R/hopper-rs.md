@@ -1,10 +1,10 @@
 # BRA1L0R/hopper-rs - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 151
+★ Stars: 152
 
 [Open repository](https://github.com/BRA1L0R/hopper-rs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 152 | 6 | 
 | 2022-11-09 | 151 | 6 | 
 | 2022-11-08 | 151 | 5 | 
 | 2022-11-07 | 151 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 149 | 5 | 
 | 2022-10-13 | 149 | 5 | 
 | 2022-10-12 | 149 | 5 | 
-| 2022-10-11 | 149 | 5 | 
 

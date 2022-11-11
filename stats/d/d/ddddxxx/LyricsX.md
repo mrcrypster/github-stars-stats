@@ -1,10 +1,10 @@
 # ddddxxx/LyricsX - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 294
 
-★ Stars: 3724
+★ Stars: 3725
 
 [Open repository](https://github.com/ddddxxx/LyricsX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3725 | 294 | 
 | 2022-11-09 | 3724 | 294 | 
 | 2022-11-08 | 3724 | 294 | 
 | 2022-11-07 | 3723 | 293 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3681 | 289 | 
 | 2022-10-13 | 3681 | 288 | 
 | 2022-10-12 | 3678 | 287 | 
-| 2022-10-11 | 3677 | 287 | 
 

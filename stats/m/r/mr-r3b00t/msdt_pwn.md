@@ -1,10 +1,10 @@
 # mr-r3b00t/msdt_pwn - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 9
 
-★ Stars: 20
+★ Stars: 19
 
 [Open repository](https://github.com/mr-r3b00t/msdt_pwn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 19 | 9 | 
 | 2022-11-09 | 20 | 9 | 
 | 2022-11-08 | 20 | 9 | 
 | 2022-11-07 | 20 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 20 | 9 | 
 | 2022-10-13 | 20 | 9 | 
 | 2022-10-12 | 20 | 9 | 
-| 2022-10-11 | 20 | 9 | 
 

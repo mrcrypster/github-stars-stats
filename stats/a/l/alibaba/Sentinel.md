@@ -1,10 +1,10 @@
 # alibaba/Sentinel - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 7289
+☋ Forks: 7290
 
-★ Stars: 20136
+★ Stars: 20139
 
 [Open repository](https://github.com/alibaba/Sentinel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 20139 | 7290 | 
 | 2022-11-09 | 20136 | 7289 | 
 | 2022-11-08 | 20131 | 7288 | 
 | 2022-11-07 | 20123 | 7283 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 20006 | 7234 | 
 | 2022-10-13 | 20002 | 7232 | 
 | 2022-10-12 | 19995 | 7230 | 
-| 2022-10-11 | 19986 | 7226 | 
 

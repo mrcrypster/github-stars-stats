@@ -1,10 +1,10 @@
 # nathanhoad/godot_dialogue_manager - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 37
 
-★ Stars: 466
+★ Stars: 467
 
 [Open repository](https://github.com/nathanhoad/godot_dialogue_manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 467 | 37 | 
 | 2022-11-09 | 466 | 37 | 
 | 2022-11-08 | 465 | 36 | 
 | 2022-11-07 | 446 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 416 | 33 | 
 | 2022-10-13 | 415 | 33 | 
 | 2022-10-12 | 413 | 32 | 
-| 2022-10-11 | 412 | 32 | 
 

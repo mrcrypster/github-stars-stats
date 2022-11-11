@@ -1,10 +1,10 @@
 # emqx/neuron - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 95
+☋ Forks: 97
 
-★ Stars: 483
+★ Stars: 485
 
 [Open repository](https://github.com/emqx/neuron)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 485 | 97 | 
 | 2022-11-09 | 483 | 95 | 
 | 2022-11-08 | 482 | 95 | 
 | 2022-11-07 | 481 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 464 | 89 | 
 | 2022-10-14 | 463 | 88 | 
 | 2022-10-13 | 462 | 88 | 
-| 2022-10-12 | 460 | 88 | 
 

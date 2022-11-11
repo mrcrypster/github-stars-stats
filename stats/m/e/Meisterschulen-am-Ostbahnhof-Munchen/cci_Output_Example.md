@@ -1,6 +1,6 @@
 # Meisterschulen-am-Ostbahnhof-Munchen/cci_Output_Example - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1 | 17 | 
 | 2022-11-09 | 1 | 17 | 
 | 2022-11-08 | 1 | 17 | 
 | 2022-11-07 | 1 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 1 | 17 | 
 | 2022-10-14 | 1 | 17 | 
 | 2022-10-13 | 1 | 17 | 
-| 2022-10-12 | 1 | 17 | 
 

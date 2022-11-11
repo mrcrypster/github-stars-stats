@@ -1,10 +1,10 @@
 # eko/gocache - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 140
+☋ Forks: 141
 
-★ Stars: 1546
+★ Stars: 1549
 
 [Open repository](https://github.com/eko/gocache)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1549 | 141 | 
 | 2022-11-09 | 1546 | 140 | 
 | 2022-11-08 | 1545 | 140 | 
 | 2022-11-07 | 1542 | 140 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1499 | 139 | 
 | 2022-10-13 | 1498 | 139 | 
 | 2022-10-12 | 1497 | 139 | 
-| 2022-10-11 | 1496 | 139 | 
 

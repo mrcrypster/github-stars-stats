@@ -1,10 +1,10 @@
 # go-swagger/go-swagger - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1177
+☋ Forks: 1178
 
-★ Stars: 8111
+★ Stars: 8115
 
 [Open repository](https://github.com/go-swagger/go-swagger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 8115 | 1178 | 
 | 2022-11-09 | 8111 | 1177 | 
 | 2022-11-08 | 8106 | 1176 | 
 | 2022-11-07 | 8104 | 1176 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 8052 | 1168 | 
 | 2022-10-13 | 8043 | 1167 | 
 | 2022-10-12 | 8039 | 1165 | 
-| 2022-10-11 | 8036 | 1165 | 
 

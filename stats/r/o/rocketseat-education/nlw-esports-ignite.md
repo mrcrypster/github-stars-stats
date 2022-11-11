@@ -1,6 +1,6 @@
 # rocketseat-education/nlw-esports-ignite - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 141 | 54 | 
 | 2022-11-09 | 141 | 54 | 
 | 2022-11-08 | 141 | 53 | 
 | 2022-11-07 | 141 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 137 | 51 | 
 | 2022-10-13 | 137 | 51 | 
 | 2022-10-12 | 137 | 50 | 
-| 2022-10-11 | 136 | 50 | 
 

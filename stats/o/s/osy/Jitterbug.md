@@ -1,6 +1,6 @@
 # osy/Jitterbug - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 572 | 46 | 
 | 2022-11-09 | 572 | 46 | 
 | 2022-11-08 | 567 | 46 | 
 | 2022-11-07 | 567 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 540 | 45 | 
 | 2022-10-13 | 539 | 45 | 
 | 2022-10-12 | 538 | 45 | 
-| 2022-10-11 | 538 | 45 | 
 

@@ -1,10 +1,10 @@
 # AnimMouse/frp-flyapp - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 41
+★ Stars: 42
 
 [Open repository](https://github.com/AnimMouse/frp-flyapp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 42 | 5 | 
 | 2022-11-09 | 41 | 4 | 
 | 2022-11-08 | 41 | 4 | 
 | 2022-11-07 | 41 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 38 | 4 | 
 | 2022-10-13 | 38 | 4 | 
 | 2022-10-12 | 37 | 4 | 
-| 2022-10-11 | 37 | 4 | 
 

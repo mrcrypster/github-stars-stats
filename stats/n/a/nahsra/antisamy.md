@@ -1,6 +1,6 @@
 # nahsra/antisamy - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 136 | 80 | 
 | 2022-11-09 | 136 | 80 | 
 | 2022-11-08 | 136 | 80 | 
 | 2022-11-07 | 136 | 80 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 135 | 78 | 
 | 2022-10-13 | 135 | 78 | 
 | 2022-10-12 | 135 | 78 | 
-| 2022-10-11 | 135 | 78 | 
 

@@ -1,8 +1,8 @@
 # chaosblade-io/chaosblade - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 850
+☋ Forks: 851
 
 ★ Stars: 5039
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5039 | 851 | 
 | 2022-11-09 | 5039 | 850 | 
 | 2022-11-08 | 5039 | 849 | 
 | 2022-11-07 | 5036 | 848 | 

@@ -1,6 +1,6 @@
 # code-423n4/2022-05-opensea-seaport - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 52 | 14 | 
 | 2022-11-09 | 52 | 14 | 
 | 2022-11-08 | 52 | 14 | 
 | 2022-11-07 | 52 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 49 | 14 | 
 | 2022-10-13 | 49 | 14 | 
 | 2022-10-12 | 49 | 14 | 
-| 2022-10-11 | 49 | 14 | 
 

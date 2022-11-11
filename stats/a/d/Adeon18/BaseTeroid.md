@@ -1,6 +1,6 @@
 # Adeon18/BaseTeroid - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 8 | 1 | 
 | 2022-11-09 | 8 | 1 | 
 | 2022-11-08 | 8 | 1 | 
 | 2022-11-07 | 8 | 1 | 

@@ -1,10 +1,10 @@
 # resume/resume.github.com - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1377
+☋ Forks: 1376
 
-★ Stars: 58740
+★ Stars: 58745
 
 [Open repository](https://github.com/resume/resume.github.com)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 58745 | 1376 | 
 | 2022-11-09 | 58740 | 1377 | 
 | 2022-11-08 | 58730 | 1377 | 
 | 2022-11-07 | 58723 | 1377 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 58617 | 1377 | 
 | 2022-10-14 | 58611 | 1376 | 
 | 2022-10-13 | 58606 | 1376 | 
-| 2022-10-12 | 58598 | 1376 | 
 

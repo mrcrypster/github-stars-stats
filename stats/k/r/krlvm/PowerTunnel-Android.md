@@ -1,10 +1,10 @@
 # krlvm/PowerTunnel-Android - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 67
 
-★ Stars: 586
+★ Stars: 587
 
 [Open repository](https://github.com/krlvm/PowerTunnel-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 587 | 67 | 
 | 2022-11-09 | 586 | 67 | 
 | 2022-11-08 | 585 | 67 | 
 | 2022-11-07 | 583 | 67 | 

@@ -1,10 +1,10 @@
 # yekta/stablecog - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 38
+★ Stars: 42
 
 [Open repository](https://github.com/yekta/stablecog)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 42 | 2 | 
+| 2022-11-10 | 41 | 2 | 
 | 2022-11-09 | 38 | 2 | 
 | 2022-11-08 | 37 | 2 | 
 | 2022-11-07 | 35 | 2 | 

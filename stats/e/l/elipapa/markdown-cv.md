@@ -1,8 +1,8 @@
 # elipapa/markdown-cv - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2551
+☋ Forks: 2554
 
 ★ Stars: 1015
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1015 | 2554 | 
 | 2022-11-10 | 1015 | 2551 | 
 | 2022-11-09 | 1015 | 2547 | 
 | 2022-11-07 | 1015 | 2545 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 998 | 2507 | 
 | 2022-10-13 | 998 | 2504 | 
 | 2022-10-12 | 998 | 2503 | 
-| 2022-10-11 | 998 | 2502 | 
 

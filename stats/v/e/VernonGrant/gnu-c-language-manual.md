@@ -1,10 +1,10 @@
 # VernonGrant/gnu-c-language-manual - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 9
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/VernonGrant/gnu-c-language-manual)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 288 | 9 | 
 | 2022-11-09 | 287 | 9 | 
 | 2022-11-08 | 287 | 9 | 
 | 2022-11-07 | 287 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 278 | 9 | 
 | 2022-10-13 | 278 | 9 | 
 | 2022-10-12 | 278 | 9 | 
-| 2022-10-11 | 278 | 9 | 
 

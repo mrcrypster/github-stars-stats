@@ -1,6 +1,6 @@
 # prawnpdf/prawn - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 669
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 4380 | 669 | 
 | 2022-11-09 | 4380 | 669 | 
 | 2022-11-08 | 4378 | 669 | 
 | 2022-11-07 | 4377 | 669 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 4365 | 669 | 
 | 2022-10-14 | 4366 | 669 | 
 | 2022-10-13 | 4366 | 669 | 
-| 2022-10-12 | 4366 | 669 | 
 

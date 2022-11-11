@@ -1,10 +1,10 @@
 # status-im/status-desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 39
+☋ Forks: 43
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/status-im/status-desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 172 | 43 | 
 | 2022-11-09 | 171 | 39 | 
 | 2022-11-08 | 171 | 39 | 
 | 2022-11-07 | 170 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 167 | 38 | 
 | 2022-10-13 | 167 | 38 | 
 | 2022-10-12 | 167 | 38 | 
-| 2022-10-11 | 167 | 38 | 
 

@@ -1,10 +1,10 @@
 # s0md3v/Smap - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 187
 
-★ Stars: 2244
+★ Stars: 2245
 
 [Open repository](https://github.com/s0md3v/Smap)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2245 | 187 | 
 | 2022-11-09 | 2244 | 187 | 
 | 2022-11-08 | 2244 | 187 | 
 | 2022-11-07 | 2242 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2231 | 185 | 
 | 2022-10-13 | 2231 | 185 | 
 | 2022-10-12 | 2231 | 185 | 
-| 2022-10-11 | 2231 | 185 | 
 

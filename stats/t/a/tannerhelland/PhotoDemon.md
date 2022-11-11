@@ -1,10 +1,10 @@
 # tannerhelland/PhotoDemon - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 154
 
-★ Stars: 841
+★ Stars: 842
 
 [Open repository](https://github.com/tannerhelland/PhotoDemon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 842 | 154 | 
 | 2022-11-09 | 841 | 154 | 
 | 2022-11-08 | 841 | 154 | 
 | 2022-11-07 | 841 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 821 | 152 | 
 | 2022-10-13 | 816 | 152 | 
 | 2022-10-12 | 814 | 152 | 
-| 2022-10-11 | 811 | 152 | 
 

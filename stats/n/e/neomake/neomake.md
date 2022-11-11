@@ -1,6 +1,6 @@
 # neomake/neomake - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 374
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2578 | 374 | 
 | 2022-11-09 | 2578 | 374 | 
 | 2022-11-08 | 2578 | 375 | 
 | 2022-11-07 | 2578 | 375 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2576 | 374 | 
 | 2022-10-13 | 2577 | 374 | 
 | 2022-10-12 | 2577 | 374 | 
-| 2022-10-11 | 2577 | 374 | 
 

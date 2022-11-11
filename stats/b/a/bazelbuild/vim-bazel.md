@@ -1,6 +1,6 @@
 # bazelbuild/vim-bazel - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 118 | 24 | 
 | 2022-11-09 | 118 | 24 | 
 | 2022-11-08 | 118 | 24 | 
 | 2022-11-07 | 118 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 117 | 24 | 
 | 2022-10-13 | 117 | 24 | 
 | 2022-10-12 | 117 | 24 | 
-| 2022-10-11 | 117 | 24 | 
 

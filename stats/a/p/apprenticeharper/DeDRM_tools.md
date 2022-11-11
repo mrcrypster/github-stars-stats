@@ -1,10 +1,10 @@
 # apprenticeharper/DeDRM_tools - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1277
 
-★ Stars: 13023
+★ Stars: 13025
 
 [Open repository](https://github.com/apprenticeharper/DeDRM_tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 13025 | 1277 | 
 | 2022-11-09 | 13023 | 1277 | 
 | 2022-11-08 | 13021 | 1276 | 
 | 2022-11-07 | 13015 | 1276 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 12948 | 1262 | 
 | 2022-10-13 | 12946 | 1262 | 
 | 2022-10-12 | 12942 | 1262 | 
-| 2022-10-11 | 12939 | 1261 | 
 

@@ -1,10 +1,10 @@
 # mgeeky/Penetration-Testing-Tools - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
-☋ Forks: 358
+☋ Forks: 359
 
-★ Stars: 1736
+★ Stars: 1738
 
 [Open repository](https://github.com/mgeeky/Penetration-Testing-Tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1738 | 359 | 
 | 2022-11-09 | 1736 | 358 | 
 | 2022-11-08 | 1737 | 358 | 
 | 2022-11-07 | 1737 | 358 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1710 | 351 | 
 | 2022-10-13 | 1710 | 351 | 
 | 2022-10-12 | 1707 | 350 | 
-| 2022-10-11 | 1708 | 350 | 
 

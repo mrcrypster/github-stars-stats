@@ -1,10 +1,10 @@
 # je-suis-tm/quant-trading - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 789
 
-★ Stars: 3462
+★ Stars: 3463
 
 [Open repository](https://github.com/je-suis-tm/quant-trading)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3463 | 789 | 
 | 2022-11-09 | 3462 | 789 | 
 | 2022-11-08 | 3459 | 789 | 
 | 2022-11-07 | 3458 | 789 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3413 | 779 | 
 | 2022-10-13 | 3411 | 779 | 
 | 2022-10-12 | 3409 | 778 | 
-| 2022-10-11 | 3405 | 778 | 
 

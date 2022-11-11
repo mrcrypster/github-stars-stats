@@ -1,6 +1,6 @@
 # phpDocumentor/ReflectionCommon - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 8829 | 20 | 
 | 2022-11-09 | 8829 | 20 | 
 | 2022-11-08 | 8827 | 20 | 
 | 2022-11-07 | 8827 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 8822 | 20 | 
 | 2022-10-14 | 8822 | 20 | 
 | 2022-10-13 | 8821 | 20 | 
-| 2022-10-12 | 8822 | 20 | 
 

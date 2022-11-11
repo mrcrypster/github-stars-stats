@@ -1,10 +1,10 @@
 # total-typescript/type-transformations-workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 58
 
-★ Stars: 541
+★ Stars: 539
 
 [Open repository](https://github.com/total-typescript/type-transformations-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 539 | 58 | 
 | 2022-11-10 | 541 | 58 | 
 | 2022-11-09 | 540 | 58 | 
 | 2022-11-07 | 538 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 530 | 52 | 
 | 2022-10-13 | 530 | 52 | 
 | 2022-10-12 | 529 | 52 | 
-| 2022-10-11 | 529 | 52 | 
 

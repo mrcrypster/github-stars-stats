@@ -1,10 +1,10 @@
 # google/guava - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 10249
+☋ Forks: 10250
 
-★ Stars: 46127
+★ Stars: 46143
 
 [Open repository](https://github.com/google/guava)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 46143 | 10250 | 
 | 2022-11-09 | 46127 | 10249 | 
 | 2022-11-08 | 46118 | 10249 | 
 | 2022-11-07 | 46108 | 10251 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 45911 | 10199 | 
 | 2022-10-13 | 45906 | 10193 | 
 | 2022-10-12 | 45901 | 10191 | 
-| 2022-10-11 | 45892 | 10191 | 
 

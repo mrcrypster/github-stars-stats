@@ -1,6 +1,6 @@
 # upptime/status-page - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 102 | 58 | 
 | 2022-11-09 | 102 | 58 | 
 | 2022-11-08 | 102 | 58 | 
 | 2022-11-07 | 102 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 101 | 59 | 
 | 2022-10-13 | 101 | 59 | 
 | 2022-10-12 | 101 | 59 | 
-| 2022-10-11 | 101 | 59 | 
 

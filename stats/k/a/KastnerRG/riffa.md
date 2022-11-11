@@ -1,6 +1,6 @@
 # KastnerRG/riffa - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 251
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 509 | 251 | 
 | 2022-11-09 | 509 | 251 | 
 | 2022-11-08 | 508 | 251 | 
 | 2022-11-07 | 508 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 494 | 245 | 
 | 2022-10-13 | 494 | 245 | 
 | 2022-10-12 | 494 | 245 | 
-| 2022-10-11 | 494 | 245 | 
 

@@ -1,10 +1,10 @@
 # Lailloken/Lailloken-UI - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 9
 
-★ Stars: 142
+★ Stars: 143
 
 [Open repository](https://github.com/Lailloken/Lailloken-UI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 143 | 9 | 
 | 2022-11-09 | 142 | 9 | 
 | 2022-11-08 | 141 | 9 | 
 | 2022-11-07 | 141 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 138 | 9 | 
 | 2022-10-13 | 138 | 9 | 
 | 2022-10-12 | 138 | 9 | 
-| 2022-10-11 | 135 | 9 | 
 

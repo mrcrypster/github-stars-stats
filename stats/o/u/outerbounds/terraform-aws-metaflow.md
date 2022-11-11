@@ -1,10 +1,10 @@
 # outerbounds/terraform-aws-metaflow - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 20
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/outerbounds/terraform-aws-metaflow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 17 | 20 | 
 | 2022-11-09 | 16 | 20 | 
 | 2022-11-08 | 16 | 20 | 
 | 2022-11-07 | 16 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 15 | 20 | 
 | 2022-10-13 | 15 | 20 | 
 | 2022-10-12 | 15 | 20 | 
-| 2022-10-11 | 15 | 20 | 
 

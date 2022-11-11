@@ -1,10 +1,10 @@
 # sundowndev/phoneinfoga - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 2345
+☋ Forks: 2346
 
-★ Stars: 7804
+★ Stars: 7808
 
 [Open repository](https://github.com/sundowndev/phoneinfoga)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 7808 | 2346 | 
 | 2022-11-09 | 7804 | 2345 | 
 | 2022-11-08 | 7799 | 2344 | 
 | 2022-11-07 | 7792 | 2341 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 7674 | 2319 | 
 | 2022-10-13 | 7670 | 2319 | 
 | 2022-10-12 | 7664 | 2319 | 
-| 2022-10-11 | 7658 | 2316 | 
 

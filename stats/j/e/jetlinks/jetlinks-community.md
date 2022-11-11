@@ -1,10 +1,10 @@
 # jetlinks/jetlinks-community - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1203
 
-★ Stars: 3398
+★ Stars: 3400
 
 [Open repository](https://github.com/jetlinks/jetlinks-community)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3400 | 1203 | 
 | 2022-11-09 | 3398 | 1203 | 
 | 2022-11-08 | 3396 | 1203 | 
 | 2022-11-07 | 3396 | 1201 | 

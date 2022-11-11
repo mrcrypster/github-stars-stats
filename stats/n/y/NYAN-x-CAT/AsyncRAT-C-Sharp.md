@@ -1,10 +1,10 @@
 # NYAN-x-CAT/AsyncRAT-C-Sharp - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 604
 
-★ Stars: 1496
+★ Stars: 1497
 
 [Open repository](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1497 | 604 | 
 | 2022-11-09 | 1496 | 604 | 
 | 2022-11-08 | 1494 | 603 | 
 | 2022-11-07 | 1492 | 603 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1471 | 601 | 
 | 2022-10-13 | 1471 | 601 | 
 | 2022-10-12 | 1471 | 598 | 
-| 2022-10-11 | 1469 | 598 | 
 

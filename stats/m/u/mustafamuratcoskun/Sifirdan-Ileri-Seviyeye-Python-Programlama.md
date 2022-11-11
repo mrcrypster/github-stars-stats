@@ -1,10 +1,10 @@
 # mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 696
 
-★ Stars: 1528
+★ Stars: 1530
 
 [Open repository](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1530 | 696 | 
 | 2022-11-09 | 1528 | 696 | 
 | 2022-11-08 | 1528 | 695 | 
 | 2022-11-07 | 1522 | 693 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1479 | 674 | 
 | 2022-10-13 | 1479 | 673 | 
 | 2022-10-12 | 1478 | 673 | 
-| 2022-10-11 | 1477 | 673 | 
 

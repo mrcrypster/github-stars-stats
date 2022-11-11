@@ -1,10 +1,10 @@
 # lambdalisue/suda.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 18
 
-★ Stars: 448
+★ Stars: 449
 
 [Open repository](https://github.com/lambdalisue/suda.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 449 | 18 | 
 | 2022-11-09 | 448 | 18 | 
 | 2022-11-08 | 447 | 18 | 
 | 2022-11-07 | 446 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 438 | 18 | 
 | 2022-10-13 | 438 | 18 | 
 | 2022-10-12 | 438 | 18 | 
-| 2022-10-11 | 438 | 18 | 
 

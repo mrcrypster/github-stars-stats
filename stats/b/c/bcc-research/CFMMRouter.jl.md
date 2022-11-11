@@ -1,6 +1,6 @@
 # bcc-research/CFMMRouter.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 229 | 39 | 
 | 2022-11-09 | 229 | 39 | 
 | 2022-11-08 | 228 | 39 | 
 | 2022-11-07 | 228 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 222 | 38 | 
 | 2022-10-13 | 220 | 38 | 
 | 2022-10-12 | 217 | 38 | 
-| 2022-10-11 | 211 | 37 | 
 

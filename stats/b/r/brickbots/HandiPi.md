@@ -1,6 +1,6 @@
 # brickbots/HandiPi - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 537 | 20 | 
 | 2022-11-09 | 537 | 20 | 
 | 2022-11-08 | 538 | 20 | 
 | 2022-11-07 | 538 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 483 | 18 | 
 | 2022-10-13 | 479 | 17 | 
 | 2022-10-12 | 478 | 17 | 
-| 2022-10-11 | 471 | 17 | 
 

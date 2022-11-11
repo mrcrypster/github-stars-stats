@@ -1,6 +1,6 @@
 # rafaqz/Interfaces.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 40 | - | 
 | 2022-11-09 | 40 | - | 
 | 2022-11-08 | 39 | - | 
 | 2022-11-07 | 39 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 39 | - | 
 | 2022-10-14 | 39 | - | 
 | 2022-10-13 | 39 | - | 
-| 2022-10-12 | 39 | - | 
 

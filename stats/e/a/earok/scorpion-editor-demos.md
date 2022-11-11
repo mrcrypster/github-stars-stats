@@ -1,10 +1,10 @@
 # earok/scorpion-editor-demos - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 111
+★ Stars: 112
 
 [Open repository](https://github.com/earok/scorpion-editor-demos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 112 | 6 | 
 | 2022-11-09 | 111 | 6 | 
 | 2022-11-08 | 111 | 6 | 
 | 2022-11-07 | 111 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 108 | 6 | 
 | 2022-10-13 | 108 | 6 | 
 | 2022-10-12 | 108 | 6 | 
-| 2022-10-11 | 108 | 6 | 
 

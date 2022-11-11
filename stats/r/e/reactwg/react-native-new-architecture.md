@@ -1,10 +1,10 @@
 # reactwg/react-native-new-architecture - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 8
 
-★ Stars: 649
+★ Stars: 651
 
 [Open repository](https://github.com/reactwg/react-native-new-architecture)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 651 | 8 | 
 | 2022-11-09 | 649 | 8 | 
 | 2022-11-08 | 649 | 8 | 
 | 2022-11-07 | 649 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 634 | 8 | 
 | 2022-10-13 | 633 | 8 | 
 | 2022-10-12 | 632 | 8 | 
-| 2022-10-11 | 630 | 8 | 
 

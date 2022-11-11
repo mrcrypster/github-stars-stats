@@ -1,10 +1,10 @@
 # microsoft/fluentui - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 2340
 
-★ Stars: 14224
+★ Stars: 14234
 
 [Open repository](https://github.com/microsoft/fluentui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 14234 | 2340 | 
 | 2022-11-09 | 14224 | 2340 | 
 | 2022-11-08 | 14220 | 2338 | 
 | 2022-11-07 | 14216 | 2338 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 14123 | 2321 | 
 | 2022-10-13 | 14117 | 2318 | 
 | 2022-10-12 | 14112 | 2316 | 
-| 2022-10-11 | 14103 | 2314 | 
 

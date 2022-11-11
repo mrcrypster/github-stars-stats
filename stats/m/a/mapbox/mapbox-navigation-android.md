@@ -1,10 +1,10 @@
 # mapbox/mapbox-navigation-android - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 315
 
-★ Stars: 541
+★ Stars: 540
 
 [Open repository](https://github.com/mapbox/mapbox-navigation-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 540 | 315 | 
 | 2022-11-09 | 541 | 315 | 
 | 2022-11-08 | 541 | 315 | 
 | 2022-11-07 | 541 | 315 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 538 | 315 | 
 | 2022-10-13 | 539 | 315 | 
 | 2022-10-12 | 539 | 315 | 
-| 2022-10-11 | 538 | 315 | 
 

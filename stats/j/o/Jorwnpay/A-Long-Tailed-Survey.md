@@ -1,10 +1,10 @@
 # Jorwnpay/A-Long-Tailed-Survey - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/Jorwnpay/A-Long-Tailed-Survey)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 25 | 1 | 
 | 2022-11-09 | 24 | 1 | 
 | 2022-11-08 | 24 | 1 | 
 | 2022-11-07 | 24 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 23 | 1 | 
 | 2022-10-13 | 23 | 1 | 
 | 2022-10-12 | 23 | 1 | 
-| 2022-10-11 | 23 | 1 | 
 

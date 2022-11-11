@@ -1,6 +1,6 @@
 # PolarityWorks/zmk-config-rotr - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2 | 66 | 
 | 2022-11-09 | 2 | 66 | 
 | 2022-11-08 | 2 | 65 | 
 | 2022-11-07 | 2 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2 | 63 | 
 | 2022-10-13 | 2 | 63 | 
 | 2022-10-12 | 2 | 63 | 
-| 2022-10-11 | 2 | 63 | 
 

@@ -1,10 +1,10 @@
 # adrianhajdin/project_shareme_social_media - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 273
 
-★ Stars: 1138
+★ Stars: 1144
 
 [Open repository](https://github.com/adrianhajdin/project_shareme_social_media)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1144 | 273 | 
 | 2022-11-09 | 1138 | 273 | 
 | 2022-11-08 | 1133 | 272 | 
 | 2022-11-07 | 1133 | 270 | 

@@ -1,10 +1,10 @@
 # P3TERX/Aria2-Pro-Docker - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 303
 
-★ Stars: 1914
+★ Stars: 1916
 
 [Open repository](https://github.com/P3TERX/Aria2-Pro-Docker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1916 | 303 | 
 | 2022-11-09 | 1914 | 303 | 
 | 2022-11-08 | 1913 | 303 | 
 | 2022-11-07 | 1911 | 302 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1865 | 293 | 
 | 2022-10-13 | 1865 | 293 | 
 | 2022-10-12 | 1863 | 292 | 
-| 2022-10-11 | 1859 | 292 | 
 

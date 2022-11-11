@@ -1,10 +1,10 @@
 # semiosis/prompts - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 28
 
-★ Stars: 243
+★ Stars: 247
 
 [Open repository](https://github.com/semiosis/prompts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 247 | 28 | 
 | 2022-11-09 | 243 | 28 | 
 | 2022-11-08 | 243 | 28 | 
 | 2022-11-07 | 241 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 218 | 25 | 
 | 2022-10-13 | 218 | 25 | 
 | 2022-10-12 | 218 | 24 | 
-| 2022-10-11 | 217 | 24 | 
 

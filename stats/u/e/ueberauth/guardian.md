@@ -1,10 +1,10 @@
 # ueberauth/guardian - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 369
+☋ Forks: 370
 
-★ Stars: 3245
+★ Stars: 3246
 
 [Open repository](https://github.com/ueberauth/guardian)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3246 | 370 | 
 | 2022-11-09 | 3245 | 369 | 
 | 2022-11-08 | 3246 | 369 | 
 | 2022-11-07 | 3246 | 369 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3238 | 371 | 
 | 2022-10-13 | 3237 | 370 | 
 | 2022-10-12 | 3237 | 370 | 
-| 2022-10-11 | 3237 | 369 | 
 

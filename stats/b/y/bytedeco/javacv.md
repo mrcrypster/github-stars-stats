@@ -1,10 +1,10 @@
 # bytedeco/javacv - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1474
 
-★ Stars: 6273
+★ Stars: 6279
 
 [Open repository](https://github.com/bytedeco/javacv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 6279 | 1474 | 
 | 2022-11-09 | 6273 | 1474 | 
 | 2022-11-08 | 6269 | 1474 | 
 | 2022-11-07 | 6264 | 1473 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 6218 | 1463 | 
 | 2022-10-13 | 6216 | 1463 | 
 | 2022-10-12 | 6214 | 1463 | 
-| 2022-10-11 | 6213 | 1462 | 
 

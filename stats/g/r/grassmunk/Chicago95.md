@@ -1,10 +1,10 @@
 # grassmunk/Chicago95 - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 123
 
-★ Stars: 2921
+★ Stars: 2923
 
 [Open repository](https://github.com/grassmunk/Chicago95)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2923 | 123 | 
 | 2022-11-09 | 2921 | 123 | 
 | 2022-11-08 | 2921 | 123 | 
 | 2022-11-07 | 2920 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2887 | 123 | 
 | 2022-10-13 | 2887 | 123 | 
 | 2022-10-12 | 2887 | 123 | 
-| 2022-10-11 | 2884 | 123 | 
 

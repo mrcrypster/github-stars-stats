@@ -1,10 +1,10 @@
 # mantinedev/ui.mantine.dev - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 146
 
-★ Stars: 928
+★ Stars: 936
 
 [Open repository](https://github.com/mantinedev/ui.mantine.dev)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 928 | 146 | 
+| 2022-11-11 | 936 | 146 | 
+| 2022-11-10 | 933 | 146 | 
 | 2022-11-09 | 918 | 143 | 
 | 2022-11-08 | 915 | 141 | 
 | 2022-11-07 | 912 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 845 | 124 | 
 | 2022-10-13 | 844 | 123 | 
 | 2022-10-12 | 841 | 123 | 
-| 2022-10-11 | 839 | 123 | 
 

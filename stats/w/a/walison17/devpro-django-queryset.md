@@ -1,6 +1,6 @@
 # walison17/devpro-django-queryset - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2 | 3 | 
 | 2022-11-09 | 2 | 3 | 
 | 2022-11-08 | 2 | 3 | 
 | 2022-11-07 | 2 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2 | 2 | 
 | 2022-10-13 | 2 | 2 | 
 | 2022-10-12 | 2 | 2 | 
-| 2022-10-11 | 2 | 2 | 
 

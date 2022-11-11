@@ -1,6 +1,6 @@
 # pruno7/nEkko - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 14 | - | 
+| 2022-11-10 | 14 | - | 
 | 2022-11-09 | 14 | - | 
 | 2022-11-08 | 12 | - | 
 

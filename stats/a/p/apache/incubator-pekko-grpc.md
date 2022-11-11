@@ -1,10 +1,10 @@
 # apache/incubator-pekko-grpc - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 3
+☋ Forks: 4
 
-★ Stars: 5
+★ Stars: 7
 
 [Open repository](https://github.com/apache/incubator-pekko-grpc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 7 | 4 | 
 | 2022-11-09 | 5 | 3 | 
 | 2022-11-08 | 3 | 2 | 
 | 2022-11-07 | 3 | 2 | 

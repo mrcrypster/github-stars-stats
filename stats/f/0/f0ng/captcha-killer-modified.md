@@ -1,6 +1,6 @@
 # f0ng/captcha-killer-modified - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 492 | 68 | 
 | 2022-11-09 | 492 | 68 | 
 | 2022-11-08 | 490 | 68 | 
 | 2022-11-07 | 489 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 471 | 67 | 
 | 2022-10-13 | 469 | 67 | 
 | 2022-10-12 | 468 | 67 | 
-| 2022-10-11 | 468 | 67 | 
 

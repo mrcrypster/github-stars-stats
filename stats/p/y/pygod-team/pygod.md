@@ -1,10 +1,10 @@
 # pygod-team/pygod - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 62
 
-★ Stars: 699
+★ Stars: 702
 
 [Open repository](https://github.com/pygod-team/pygod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 702 | 62 | 
 | 2022-11-09 | 699 | 62 | 
 | 2022-11-08 | 699 | 62 | 
 | 2022-11-07 | 698 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 663 | 58 | 
 | 2022-10-14 | 663 | 58 | 
 | 2022-10-13 | 663 | 58 | 
-| 2022-10-12 | 663 | 57 | 
 

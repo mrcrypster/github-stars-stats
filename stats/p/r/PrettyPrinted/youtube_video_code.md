@@ -1,10 +1,10 @@
 # PrettyPrinted/youtube_video_code - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1442
+☋ Forks: 1443
 
-★ Stars: 542
+★ Stars: 543
 
 [Open repository](https://github.com/PrettyPrinted/youtube_video_code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 543 | 1443 | 
 | 2022-11-09 | 542 | 1442 | 
 | 2022-11-08 | 541 | 1440 | 
 | 2022-11-07 | 541 | 1439 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 517 | 1396 | 
 | 2022-10-13 | 517 | 1394 | 
 | 2022-10-12 | 517 | 1393 | 
-| 2022-10-11 | 517 | 1393 | 
 

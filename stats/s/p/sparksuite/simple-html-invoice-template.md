@@ -1,8 +1,8 @@
 # sparksuite/simple-html-invoice-template - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1135
+☋ Forks: 1137
 
 ★ Stars: 1317
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1317 | 1137 | 
 | 2022-11-09 | 1317 | 1135 | 
 | 2022-11-08 | 1317 | 1134 | 
 | 2022-11-07 | 1316 | 1133 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1303 | 1123 | 
 | 2022-10-13 | 1303 | 1123 | 
 | 2022-10-12 | 1302 | 1122 | 
-| 2022-10-11 | 1301 | 1122 | 
 

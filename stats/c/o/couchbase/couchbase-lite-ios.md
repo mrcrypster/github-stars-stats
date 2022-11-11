@@ -1,10 +1,10 @@
 # couchbase/couchbase-lite-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 298
 
-★ Stars: 1573
+★ Stars: 1574
 
 [Open repository](https://github.com/couchbase/couchbase-lite-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1574 | 298 | 
 | 2022-11-09 | 1573 | 298 | 
 | 2022-11-08 | 1572 | 298 | 
 | 2022-11-07 | 1572 | 298 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 1570 | 298 | 
 | 2022-10-14 | 1570 | 298 | 
 | 2022-10-13 | 1570 | 298 | 
-| 2022-10-12 | 1570 | 298 | 
 

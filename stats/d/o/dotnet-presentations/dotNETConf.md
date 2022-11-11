@@ -1,10 +1,10 @@
 # dotnet-presentations/dotNETConf - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 228
+☋ Forks: 230
 
-★ Stars: 877
+★ Stars: 889
 
 [Open repository](https://github.com/dotnet-presentations/dotNETConf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 889 | 230 | 
 | 2022-11-09 | 877 | 228 | 
 | 2022-11-08 | 858 | 226 | 
 | 2022-11-07 | 834 | 223 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 818 | 223 | 
 | 2022-10-13 | 816 | 222 | 
 | 2022-10-12 | 815 | 219 | 
-| 2022-10-11 | 815 | 219 | 
 

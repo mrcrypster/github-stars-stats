@@ -1,10 +1,10 @@
 # bugzilla/bugzilla - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 257
 
-★ Stars: 479
+★ Stars: 480
 
 [Open repository](https://github.com/bugzilla/bugzilla)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 480 | 257 | 
 | 2022-11-09 | 479 | 257 | 
 | 2022-11-08 | 479 | 257 | 
 | 2022-11-07 | 479 | 257 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 474 | 258 | 
 | 2022-10-13 | 474 | 258 | 
 | 2022-10-12 | 474 | 258 | 
-| 2022-10-11 | 473 | 258 | 
 

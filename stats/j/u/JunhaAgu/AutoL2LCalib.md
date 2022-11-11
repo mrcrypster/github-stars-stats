@@ -1,10 +1,10 @@
 # JunhaAgu/AutoL2LCalib - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/JunhaAgu/AutoL2LCalib)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 34 | 7 | 
 | 2022-11-09 | 33 | 6 | 
 | 2022-11-08 | 33 | 6 | 
 | 2022-11-07 | 33 | 6 | 

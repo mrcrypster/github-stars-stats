@@ -1,10 +1,10 @@
 # cia-foundation/TempleOS - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 215
 
-★ Stars: 1971
+★ Stars: 1974
 
 [Open repository](https://github.com/cia-foundation/TempleOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1974 | 215 | 
 | 2022-11-09 | 1971 | 215 | 
 | 2022-11-08 | 1969 | 215 | 
 | 2022-11-07 | 1967 | 215 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1935 | 212 | 
 | 2022-10-13 | 1934 | 212 | 
 | 2022-10-12 | 1933 | 212 | 
-| 2022-10-11 | 1933 | 212 | 
 

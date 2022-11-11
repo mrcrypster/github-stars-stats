@@ -1,6 +1,6 @@
 # robertfeldt/BlackBoxOptim.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 367 | 54 | 
 | 2022-11-10 | 367 | 54 | 
 | 2022-11-08 | 366 | 54 | 
 | 2022-11-07 | 366 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 359 | 54 | 
 | 2022-10-13 | 359 | 53 | 
 | 2022-10-12 | 359 | 53 | 
-| 2022-10-11 | 359 | 53 | 
 

@@ -1,10 +1,10 @@
 # tihanyin/PSSW100AVB - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 158
 
-★ Stars: 949
+★ Stars: 948
 
 [Open repository](https://github.com/tihanyin/PSSW100AVB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 948 | 158 | 
 | 2022-11-09 | 949 | 158 | 
 | 2022-11-08 | 948 | 158 | 
 | 2022-11-07 | 948 | 158 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 942 | 157 | 
 | 2022-10-13 | 941 | 157 | 
 | 2022-10-12 | 940 | 157 | 
-| 2022-10-11 | 939 | 156 | 
 

@@ -1,8 +1,8 @@
 # jerry-git/learn-python3 - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1505
+☋ Forks: 1506
 
 ★ Stars: 5281
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5281 | 1506 | 
 | 2022-11-09 | 5281 | 1505 | 
 | 2022-11-08 | 5279 | 1505 | 
 | 2022-11-07 | 5278 | 1505 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 5233 | 1489 | 
 | 2022-10-14 | 5230 | 1488 | 
 | 2022-10-13 | 5229 | 1487 | 
-| 2022-10-12 | 5226 | 1486 | 
 

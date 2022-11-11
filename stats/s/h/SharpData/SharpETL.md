@@ -1,6 +1,6 @@
 # SharpData/SharpETL - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 34 | 3 | 
 | 2022-11-09 | 34 | 3 | 
 | 2022-11-08 | 34 | 3 | 
 | 2022-11-07 | 34 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 32 | 3 | 
 | 2022-10-13 | 32 | 3 | 
 | 2022-10-12 | 32 | 3 | 
-| 2022-10-11 | 32 | 3 | 
 

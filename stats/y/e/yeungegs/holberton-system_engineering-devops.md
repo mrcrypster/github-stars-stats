@@ -1,8 +1,8 @@
 # yeungegs/holberton-system_engineering-devops - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 39
+☋ Forks: 38
 
 ★ Stars: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5 | 38 | 
 | 2022-11-09 | 5 | 39 | 
 | 2022-11-08 | 5 | 39 | 
 | 2022-11-07 | 5 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 5 | 40 | 
 | 2022-10-13 | 5 | 41 | 
 | 2022-10-12 | 5 | 40 | 
-| 2022-10-11 | 5 | 39 | 
 

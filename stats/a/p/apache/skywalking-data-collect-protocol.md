@@ -1,6 +1,6 @@
 # apache/skywalking-data-collect-protocol - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 81 | 83 | 
 | 2022-11-09 | 81 | 83 | 
 | 2022-11-08 | 81 | 82 | 
 | 2022-11-07 | 82 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 79 | 80 | 
 | 2022-10-13 | 79 | 80 | 
 | 2022-10-12 | 79 | 80 | 
-| 2022-10-11 | 79 | 80 | 
 

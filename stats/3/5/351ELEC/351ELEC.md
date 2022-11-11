@@ -1,6 +1,6 @@
 # 351ELEC/351ELEC - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 117
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 836 | 117 | 
 | 2022-11-09 | 836 | 117 | 
 | 2022-11-08 | 835 | 117 | 
 | 2022-11-07 | 835 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 829 | 117 | 
 | 2022-10-13 | 828 | 117 | 
 | 2022-10-12 | 826 | 117 | 
-| 2022-10-11 | 825 | 117 | 
 

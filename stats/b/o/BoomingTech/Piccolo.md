@@ -1,10 +1,10 @@
 # BoomingTech/Piccolo - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1303
+☋ Forks: 1305
 
-★ Stars: 3732
+★ Stars: 3739
 
 [Open repository](https://github.com/BoomingTech/Piccolo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3739 | 1305 | 
 | 2022-11-09 | 3732 | 1303 | 
 | 2022-11-08 | 3729 | 1302 | 
 | 2022-11-07 | 3721 | 1297 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3570 | 1240 | 
 | 2022-10-13 | 3564 | 1236 | 
 | 2022-10-12 | 3558 | 1236 | 
-| 2022-10-11 | 3555 | 1234 | 
 

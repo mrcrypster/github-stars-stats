@@ -1,10 +1,10 @@
 # rethinkdb/rethinkdb - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1873
 
-★ Stars: 25759
+★ Stars: 25762
 
 [Open repository](https://github.com/rethinkdb/rethinkdb)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 25762 | 1873 | 
 | 2022-11-09 | 25759 | 1873 | 
 | 2022-11-08 | 25755 | 1873 | 
 | 2022-11-07 | 25756 | 1873 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 25723 | 1875 | 
 | 2022-10-13 | 25723 | 1875 | 
 | 2022-10-12 | 25723 | 1875 | 
-| 2022-10-11 | 25722 | 1874 | 
 

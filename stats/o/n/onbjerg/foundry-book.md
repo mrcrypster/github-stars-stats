@@ -1,10 +1,10 @@
 # onbjerg/foundry-book - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 196
+☋ Forks: 197
 
-★ Stars: 385
+★ Stars: 386
 
 [Open repository](https://github.com/onbjerg/foundry-book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 386 | 197 | 
 | 2022-11-09 | 385 | 196 | 
 | 2022-11-08 | 383 | 196 | 
 | 2022-11-07 | 383 | 196 | 

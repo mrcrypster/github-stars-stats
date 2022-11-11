@@ -1,10 +1,10 @@
 # node-gradle/gradle-node-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 90
 
-★ Stars: 455
+★ Stars: 454
 
 [Open repository](https://github.com/node-gradle/gradle-node-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 454 | 90 | 
 | 2022-11-09 | 455 | 90 | 
 | 2022-11-08 | 455 | 89 | 
 | 2022-11-07 | 455 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 450 | 90 | 
 | 2022-10-13 | 450 | 90 | 
 | 2022-10-12 | 449 | 90 | 
-| 2022-10-11 | 449 | 90 | 
 

@@ -1,6 +1,6 @@
 # openvenues/libpostal - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 384
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3599 | 384 | 
 | 2022-11-09 | 3599 | 384 | 
 | 2022-11-08 | 3600 | 384 | 
 | 2022-11-07 | 3599 | 384 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3585 | 384 | 
 | 2022-10-13 | 3585 | 384 | 
 | 2022-10-12 | 3584 | 384 | 
-| 2022-10-11 | 3584 | 384 | 
 

@@ -1,6 +1,6 @@
 # jimilinuxguy/flipperzero-touchtunes - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 151 | 12 | 
 | 2022-11-09 | 151 | 12 | 
 | 2022-11-08 | 151 | 12 | 
 | 2022-11-07 | 151 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 141 | 10 | 
 | 2022-10-13 | 140 | 10 | 
 | 2022-10-12 | 140 | 10 | 
-| 2022-10-11 | 140 | 10 | 
 

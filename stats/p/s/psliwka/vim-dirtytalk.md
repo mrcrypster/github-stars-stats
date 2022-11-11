@@ -1,6 +1,6 @@
 # psliwka/vim-dirtytalk - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 105 | 3 | 
 | 2022-11-09 | 105 | 3 | 
 | 2022-11-08 | 105 | 3 | 
 | 2022-11-07 | 105 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 105 | 2 | 
 | 2022-10-13 | 105 | 2 | 
 | 2022-10-12 | 105 | 2 | 
-| 2022-10-11 | 105 | 2 | 
 

@@ -1,10 +1,10 @@
 # eashanhatti/peridot - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 5
 
-★ Stars: 388
+★ Stars: 389
 
 [Open repository](https://github.com/eashanhatti/peridot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 389 | 5 | 
 | 2022-11-09 | 388 | 5 | 
 | 2022-11-08 | 388 | 5 | 
 | 2022-11-07 | 388 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 389 | 5 | 
 | 2022-10-13 | 389 | 5 | 
 | 2022-10-12 | 389 | 5 | 
-| 2022-10-11 | 389 | 5 | 
 

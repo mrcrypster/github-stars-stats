@@ -1,8 +1,8 @@
 # dogecoin/dogecoin - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 2621
+☋ Forks: 2623
 
 ★ Stars: 14199
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 14199 | 2623 | 
 | 2022-11-09 | 14199 | 2621 | 
 | 2022-11-08 | 14197 | 2621 | 
 | 2022-11-07 | 14194 | 2622 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 14165 | 2619 | 
 | 2022-10-13 | 14164 | 2621 | 
 | 2022-10-12 | 14165 | 2620 | 
-| 2022-10-11 | 14165 | 2620 | 
 

@@ -1,6 +1,6 @@
 # retrio/gb-test-roms - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 298 | 42 | 
 | 2022-11-09 | 298 | 42 | 
 | 2022-11-08 | 297 | 42 | 
 | 2022-11-07 | 297 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 295 | 40 | 
 | 2022-10-13 | 295 | 39 | 
 | 2022-10-12 | 295 | 39 | 
-| 2022-10-11 | 295 | 39 | 
 

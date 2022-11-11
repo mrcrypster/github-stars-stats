@@ -1,10 +1,10 @@
 # DeveloperRAYAN1991/Acc-Streaming-V13- - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 11
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/DeveloperRAYAN1991/Acc-Streaming-V13-)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1 | 11 | 
 | 2022-11-09 | - | 11 | 
 | 2022-11-08 | - | 10 | 
 | 2022-11-07 | - | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | - | 9 | 
 | 2022-10-13 | - | 9 | 
 | 2022-10-12 | - | 9 | 
-| 2022-10-11 | - | 9 | 
 

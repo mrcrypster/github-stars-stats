@@ -1,10 +1,10 @@
 # mit-han-lab/torchsparse - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 88
 
-★ Stars: 647
+★ Stars: 648
 
 [Open repository](https://github.com/mit-han-lab/torchsparse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 648 | 88 | 
 | 2022-11-09 | 647 | 88 | 
 | 2022-11-08 | 647 | 88 | 
 | 2022-11-07 | 647 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 623 | 84 | 
 | 2022-10-13 | 621 | 84 | 
 | 2022-10-12 | 621 | 84 | 
-| 2022-10-11 | 621 | 83 | 
 

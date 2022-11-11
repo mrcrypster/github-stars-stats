@@ -1,10 +1,10 @@
 # KumarRobotics/sloam - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 14
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/KumarRobotics/sloam)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 121 | 14 | 
 | 2022-11-09 | 120 | 14 | 
 | 2022-11-08 | 120 | 14 | 
 | 2022-11-07 | 120 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 118 | 13 | 
 | 2022-10-14 | 118 | 13 | 
 | 2022-10-13 | 118 | 13 | 
-| 2022-10-12 | 118 | 13 | 
 

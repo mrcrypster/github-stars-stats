@@ -1,6 +1,6 @@
 # libris/librisxl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 49 | 7 | 
 | 2022-11-10 | 49 | 7 | 
 | 2022-11-09 | 49 | 7 | 
 | 2022-11-08 | 49 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 47 | 7 | 
 | 2022-10-13 | 47 | 7 | 
 | 2022-10-12 | 47 | 7 | 
-| 2022-10-11 | 47 | 7 | 
 

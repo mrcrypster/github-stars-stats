@@ -1,10 +1,10 @@
 # elastic/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1767
+☋ Forks: 1769
 
-★ Stars: 1687
+★ Stars: 1688
 
 [Open repository](https://github.com/elastic/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1688 | 1769 | 
 | 2022-11-09 | 1687 | 1767 | 
 | 2022-11-08 | 1685 | 1764 | 
 | 2022-11-07 | 1685 | 1762 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1666 | 1738 | 
 | 2022-10-13 | 1665 | 1735 | 
 | 2022-10-12 | 1664 | 1734 | 
-| 2022-10-11 | 1664 | 1730 | 
 

@@ -1,10 +1,10 @@
 # evidentlyai/evidently - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 311
+☋ Forks: 312
 
-★ Stars: 2847
+★ Stars: 2849
 
 [Open repository](https://github.com/evidentlyai/evidently)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2849 | 312 | 
 | 2022-11-09 | 2847 | 311 | 
 | 2022-11-08 | 2846 | 311 | 
 | 2022-11-07 | 2842 | 311 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2785 | 303 | 
 | 2022-10-13 | 2780 | 301 | 
 | 2022-10-12 | 2774 | 300 | 
-| 2022-10-11 | 2772 | 299 | 
 

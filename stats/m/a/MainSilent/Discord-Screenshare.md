@@ -1,10 +1,10 @@
 # MainSilent/Discord-Screenshare - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 74
+☋ Forks: 75
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/MainSilent/Discord-Screenshare)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 256 | 75 | 
 | 2022-11-09 | 255 | 74 | 
 | 2022-11-08 | 254 | 73 | 
 | 2022-11-07 | 252 | 72 | 

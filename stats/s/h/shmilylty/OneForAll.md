@@ -1,6 +1,6 @@
 # shmilylty/OneForAll - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1011
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5598 | 1011 | 
 | 2022-11-09 | 5598 | 1011 | 
 | 2022-11-08 | 5591 | 1010 | 
 | 2022-11-07 | 5586 | 1010 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 5520 | 1005 | 
 | 2022-10-13 | 5516 | 1004 | 
 | 2022-10-12 | 5511 | 1003 | 
-| 2022-10-11 | 5504 | 1002 | 
 

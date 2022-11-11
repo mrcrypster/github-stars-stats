@@ -1,10 +1,10 @@
 # vyos/vyos-documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 248
 
-★ Stars: 136
+★ Stars: 135
 
 [Open repository](https://github.com/vyos/vyos-documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 135 | 248 | 
 | 2022-11-09 | 136 | 248 | 
 | 2022-11-08 | 136 | 247 | 
 | 2022-11-07 | 136 | 247 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 136 | 246 | 
 | 2022-10-13 | 136 | 245 | 
 | 2022-10-12 | 136 | 245 | 
-| 2022-10-11 | 136 | 245 | 
 

@@ -1,10 +1,10 @@
 # PipedreamHQ/pipedream - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 3363
+☋ Forks: 3367
 
-★ Stars: 4773
+★ Stars: 4776
 
 [Open repository](https://github.com/PipedreamHQ/pipedream)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 4776 | 3367 | 
 | 2022-11-09 | 4773 | 3363 | 
 | 2022-11-08 | 4768 | 3359 | 
 | 2022-11-07 | 4759 | 3352 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 4586 | 3164 | 
 | 2022-10-13 | 4583 | 3157 | 
 | 2022-10-12 | 4571 | 3144 | 
-| 2022-10-11 | 4564 | 3140 | 
 

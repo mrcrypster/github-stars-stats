@@ -1,6 +1,6 @@
 # lexik/LexikJWTAuthenticationBundle - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 586
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 2337 | 586 | 
 | 2022-11-09 | 2337 | 586 | 
 | 2022-11-08 | 2335 | 586 | 
 | 2022-11-07 | 2335 | 586 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 2330 | 582 | 
 | 2022-10-13 | 2329 | 582 | 
 | 2022-10-12 | 2329 | 582 | 
-| 2022-10-11 | 2329 | 582 | 
 

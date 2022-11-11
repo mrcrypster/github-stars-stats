@@ -1,6 +1,6 @@
 # Noboilerplate/code - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 214 | 13 | 
 | 2022-11-09 | 214 | 13 | 
 | 2022-11-08 | 214 | 13 | 
 | 2022-11-07 | 212 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 198 | 13 | 
 | 2022-10-13 | 197 | 13 | 
 | 2022-10-12 | 197 | 13 | 
-| 2022-10-11 | 195 | 13 | 
 

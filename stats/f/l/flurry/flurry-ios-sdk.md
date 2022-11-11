@@ -1,6 +1,6 @@
 # flurry/flurry-ios-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 148 | 64 | 
 | 2022-11-09 | 148 | 64 | 
 | 2022-11-08 | 148 | 64 | 
 | 2022-11-07 | 148 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 146 | 64 | 
 | 2022-10-13 | 146 | 64 | 
 | 2022-10-12 | 146 | 64 | 
-| 2022-10-11 | 146 | 64 | 
 

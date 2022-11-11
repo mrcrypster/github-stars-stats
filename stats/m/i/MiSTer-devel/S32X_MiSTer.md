@@ -1,6 +1,6 @@
 # MiSTer-devel/S32X_MiSTer - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 38 | 13 | 
 | 2022-11-09 | 38 | 13 | 
 | 2022-11-08 | 38 | 13 | 
 | 2022-11-07 | 38 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 36 | 13 | 
 | 2022-10-13 | 36 | 13 | 
 | 2022-10-12 | 36 | 13 | 
-| 2022-10-11 | 36 | 13 | 
 

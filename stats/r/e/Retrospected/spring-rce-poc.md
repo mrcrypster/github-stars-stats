@@ -1,10 +1,10 @@
 # Retrospected/spring-rce-poc - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 24
 
-★ Stars: 87
+★ Stars: 86
 
 [Open repository](https://github.com/Retrospected/spring-rce-poc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 86 | 24 | 
 | 2022-11-09 | 87 | 24 | 
 | 2022-11-08 | 87 | 24 | 
 | 2022-11-07 | 87 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 88 | 24 | 
 | 2022-10-13 | 88 | 24 | 
 | 2022-10-12 | 88 | 24 | 
-| 2022-10-11 | 88 | 24 | 
 

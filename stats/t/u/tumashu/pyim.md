@@ -1,6 +1,6 @@
 # tumashu/pyim - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 82
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 818 | 82 | 
 | 2022-11-09 | 818 | 82 | 
 | 2022-11-08 | 817 | 82 | 
 | 2022-11-07 | 817 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 812 | 82 | 
 | 2022-10-13 | 812 | 81 | 
 | 2022-10-12 | 812 | 81 | 
-| 2022-10-11 | 811 | 81 | 
 

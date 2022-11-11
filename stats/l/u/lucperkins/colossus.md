@@ -1,10 +1,10 @@
 # lucperkins/colossus - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 61
 
-★ Stars: 969
+★ Stars: 970
 
 [Open repository](https://github.com/lucperkins/colossus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 970 | 61 | 
 | 2022-11-10 | 969 | 61 | 
 | 2022-11-09 | 969 | 61 | 
 | 2022-11-08 | 970 | 61 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 961 | 60 | 
 | 2022-10-13 | 961 | 60 | 
 | 2022-10-12 | 961 | 60 | 
-| 2022-10-11 | 961 | 60 | 
 

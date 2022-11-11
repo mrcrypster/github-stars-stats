@@ -1,8 +1,8 @@
 # neodyme-labs/SolDragon - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 7
+☋ Forks: 8
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 63 | 8 | 
 | 2022-11-09 | 63 | 7 | 
 | 2022-11-08 | 63 | 7 | 
 | 2022-11-07 | 63 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 63 | 6 | 
 | 2022-10-13 | 63 | 6 | 
 | 2022-10-12 | 63 | 6 | 
-| 2022-10-11 | 63 | 6 | 
 

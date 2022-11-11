@@ -1,8 +1,8 @@
 # OpenPLi/openpli-oe-core - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 110
+☋ Forks: 109
 
 ★ Stars: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 75 | 109 | 
 | 2022-11-09 | 75 | 110 | 
 | 2022-11-08 | 75 | 110 | 
 | 2022-11-07 | 75 | 110 | 

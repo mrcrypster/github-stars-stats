@@ -1,6 +1,6 @@
 # alufers/mitmproxy2swagger - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 155
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 4049 | 155 | 
 | 2022-11-09 | 4049 | 155 | 
 | 2022-11-08 | 4049 | 155 | 
 | 2022-11-07 | 4049 | 155 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 4022 | 155 | 
 | 2022-10-13 | 4017 | 155 | 
 | 2022-10-12 | 4017 | 155 | 
-| 2022-10-11 | 4017 | 155 | 
 

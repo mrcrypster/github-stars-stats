@@ -1,10 +1,10 @@
 # Azure-Samples/aks-workload-identity - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 7
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/Azure-Samples/aks-workload-identity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 18 | 7 | 
 | 2022-11-09 | 17 | 7 | 
 | 2022-11-08 | 17 | 7 | 
 | 2022-11-07 | 17 | 6 | 

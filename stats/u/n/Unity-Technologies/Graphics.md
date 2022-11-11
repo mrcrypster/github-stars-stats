@@ -1,10 +1,10 @@
 # Unity-Technologies/Graphics - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 625
 
-★ Stars: 1861
+★ Stars: 1862
 
 [Open repository](https://github.com/Unity-Technologies/Graphics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1862 | 625 | 
 | 2022-11-09 | 1861 | 625 | 
 | 2022-11-08 | 1861 | 624 | 
 | 2022-11-07 | 1860 | 624 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1828 | 616 | 
 | 2022-10-13 | 1827 | 616 | 
 | 2022-10-12 | 1825 | 616 | 
-| 2022-10-11 | 1824 | 615 | 
 

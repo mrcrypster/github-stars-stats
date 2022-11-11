@@ -1,10 +1,10 @@
 # GaloisInc/elf-edit - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 6
 
-★ Stars: 35
+★ Stars: 36
 
 [Open repository](https://github.com/GaloisInc/elf-edit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 36 | 6 | 
 | 2022-11-09 | 35 | 6 | 
 | 2022-11-08 | 35 | 6 | 
 | 2022-11-07 | 35 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 35 | 8 | 
 | 2022-10-13 | 35 | 8 | 
 | 2022-10-12 | 35 | 8 | 
-| 2022-10-11 | 35 | 8 | 
 

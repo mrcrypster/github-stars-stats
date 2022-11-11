@@ -1,10 +1,10 @@
 # devcows/hugo-universal-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 464
+☋ Forks: 465
 
-★ Stars: 623
+★ Stars: 624
 
 [Open repository](https://github.com/devcows/hugo-universal-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 624 | 465 | 
 | 2022-11-09 | 623 | 464 | 
 | 2022-11-08 | 622 | 463 | 
 | 2022-11-07 | 622 | 463 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 611 | 458 | 
 | 2022-10-13 | 611 | 457 | 
 | 2022-10-12 | 611 | 457 | 
-| 2022-10-11 | 611 | 457 | 
 

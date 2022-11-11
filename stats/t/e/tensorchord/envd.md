@@ -1,10 +1,10 @@
 # tensorchord/envd - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 92
+☋ Forks: 93
 
-★ Stars: 1175
+★ Stars: 1178
 
 [Open repository](https://github.com/tensorchord/envd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1178 | 93 | 
 | 2022-11-09 | 1175 | 92 | 
 | 2022-11-08 | 1165 | 90 | 
 | 2022-11-07 | 1164 | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1085 | 82 | 
 | 2022-10-13 | 1083 | 82 | 
 | 2022-10-12 | 1078 | 80 | 
-| 2022-10-11 | 1075 | 80 | 
 

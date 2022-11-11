@@ -1,10 +1,10 @@
 # soyHenry/Prep-Course - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 19290
+☋ Forks: 19384
 
-★ Stars: 458
+★ Stars: 461
 
 [Open repository](https://github.com/soyHenry/Prep-Course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 461 | 19384 | 
 | 2022-11-09 | 458 | 19290 | 
 | 2022-11-08 | 457 | 19177 | 
 | 2022-11-07 | 453 | 19079 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 388 | 16883 | 
 | 2022-10-13 | 386 | 16756 | 
 | 2022-10-12 | 384 | 16649 | 
-| 2022-10-11 | 384 | 16482 | 
 

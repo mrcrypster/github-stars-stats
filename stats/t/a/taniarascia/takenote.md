@@ -1,10 +1,10 @@
 # taniarascia/takenote - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1000
+☋ Forks: 1001
 
-★ Stars: 5929
+★ Stars: 5930
 
 [Open repository](https://github.com/taniarascia/takenote)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 5930 | 1001 | 
 | 2022-11-09 | 5929 | 1000 | 
 | 2022-11-08 | 5929 | 1000 | 
 | 2022-11-07 | 5927 | 999 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 5880 | 981 | 
 | 2022-10-13 | 5877 | 981 | 
 | 2022-10-12 | 5876 | 981 | 
-| 2022-10-11 | 5873 | 980 | 
 

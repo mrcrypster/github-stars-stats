@@ -1,6 +1,6 @@
 # Fanael/edit-indirect - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 87 | 18 | 
 | 2022-11-09 | 87 | 18 | 
 | 2022-11-08 | 87 | 18 | 
 | 2022-11-07 | 87 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 85 | 18 | 
 | 2022-10-13 | 85 | 18 | 
 | 2022-10-12 | 85 | 18 | 
-| 2022-10-11 | 85 | 18 | 
 

@@ -1,10 +1,10 @@
 # apple/device-management - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 19
 
-★ Stars: 241
+★ Stars: 242
 
 [Open repository](https://github.com/apple/device-management)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 242 | 19 | 
 | 2022-11-09 | 241 | 19 | 
 | 2022-11-08 | 239 | 19 | 
 | 2022-11-07 | 239 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 219 | 16 | 
 | 2022-10-13 | 219 | 16 | 
 | 2022-10-12 | 216 | 16 | 
-| 2022-10-11 | 215 | 16 | 
 

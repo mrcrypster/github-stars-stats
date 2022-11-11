@@ -1,10 +1,10 @@
 # Guardsquare/proguard - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 296
+☋ Forks: 298
 
-★ Stars: 1661
+★ Stars: 1664
 
 [Open repository](https://github.com/Guardsquare/proguard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1664 | 298 | 
 | 2022-11-09 | 1661 | 296 | 
 | 2022-11-08 | 1658 | 295 | 
 | 2022-11-07 | 1657 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 1638 | 286 | 
 | 2022-10-14 | 1635 | 286 | 
 | 2022-10-13 | 1632 | 286 | 
-| 2022-10-12 | 1631 | 286 | 
 

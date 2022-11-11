@@ -1,10 +1,10 @@
 # fotherja/EV_Charger - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/fotherja/EV_Charger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 95 | 14 | 
 | 2022-11-09 | 94 | 13 | 
 | 2022-11-08 | 94 | 13 | 
 | 2022-11-07 | 94 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 94 | 13 | 
 | 2022-10-13 | 94 | 13 | 
 | 2022-10-12 | 94 | 13 | 
-| 2022-10-11 | 94 | 13 | 
 

@@ -1,8 +1,8 @@
 # LearnPrologNow/lpn - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 231
+☋ Forks: 232
 
 ★ Stars: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 65 | 232 | 
 | 2022-11-09 | 65 | 231 | 
 | 2022-11-08 | 65 | 231 | 
 | 2022-11-07 | 65 | 231 | 

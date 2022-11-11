@@ -1,10 +1,10 @@
 # avinash201199/Resume-Templates - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 19
 
-★ Stars: 4
+★ Stars: 6
 
 [Open repository](https://github.com/avinash201199/Resume-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 6 | 19 | 
 | 2022-11-09 | 4 | 19 | 
 | 2022-11-08 | 4 | 19 | 
 | 2022-11-07 | 4 | 19 | 

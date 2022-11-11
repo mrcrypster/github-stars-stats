@@ -1,10 +1,10 @@
 # COPS-IITBHU/sdg-site - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 69
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/COPS-IITBHU/sdg-site)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 10 | 69 | 
 | 2022-11-09 | 11 | 69 | 
 | 2022-11-08 | 11 | 69 | 
 | 2022-11-07 | 11 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 12 | 69 | 
 | 2022-10-13 | 12 | 69 | 
 | 2022-10-12 | 12 | 69 | 
-| 2022-10-11 | 12 | 69 | 
 

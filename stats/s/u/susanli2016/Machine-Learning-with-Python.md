@@ -1,10 +1,10 @@
 # susanli2016/Machine-Learning-with-Python - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 4580
 
-★ Stars: 3729
+★ Stars: 3731
 
 [Open repository](https://github.com/susanli2016/Machine-Learning-with-Python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 3731 | 4580 | 
 | 2022-11-09 | 3729 | 4580 | 
 | 2022-11-08 | 3727 | 4579 | 
 | 2022-11-07 | 3724 | 4577 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 3704 | 4537 | 
 | 2022-10-13 | 3704 | 4536 | 
 | 2022-10-12 | 3703 | 4533 | 
-| 2022-10-11 | 3703 | 4533 | 
 

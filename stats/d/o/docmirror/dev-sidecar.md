@@ -1,10 +1,10 @@
 # docmirror/dev-sidecar - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1333
+☋ Forks: 1335
 
-★ Stars: 11042
+★ Stars: 11059
 
 [Open repository](https://github.com/docmirror/dev-sidecar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 11059 | 1335 | 
 | 2022-11-09 | 11042 | 1333 | 
 | 2022-11-08 | 11028 | 1333 | 
 | 2022-11-07 | 11017 | 1330 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 10673 | 1275 | 
 | 2022-10-13 | 10649 | 1271 | 
 | 2022-10-12 | 10631 | 1267 | 
-| 2022-10-11 | 10614 | 1264 | 
 

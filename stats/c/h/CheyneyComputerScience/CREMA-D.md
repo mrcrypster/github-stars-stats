@@ -1,6 +1,6 @@
 # CheyneyComputerScience/CREMA-D - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 182 | 83 | 
 | 2022-11-09 | 182 | 83 | 
 | 2022-11-08 | 182 | 83 | 
 | 2022-11-07 | 180 | 83 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 177 | 83 | 
 | 2022-10-13 | 177 | 83 | 
 | 2022-10-12 | 176 | 83 | 
-| 2022-10-11 | 176 | 83 | 
 

@@ -1,6 +1,6 @@
 # upenn-cis5520/04-classes - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | - | 16 | 
 | 2022-11-10 | - | 16 | 
 | 2022-11-09 | - | 16 | 
 | 2022-11-08 | - | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | - | 16 | 
 | 2022-10-13 | - | 16 | 
 | 2022-10-12 | - | 16 | 
-| 2022-10-11 | - | 16 | 
 

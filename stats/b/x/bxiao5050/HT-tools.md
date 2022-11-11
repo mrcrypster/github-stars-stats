@@ -1,10 +1,10 @@
 # bxiao5050/HT-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 26
 
-★ Stars: 89
+★ Stars: 90
 
 [Open repository](https://github.com/bxiao5050/HT-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 90 | 26 | 
 | 2022-11-09 | 89 | 26 | 
 | 2022-11-08 | 89 | 26 | 
 | 2022-11-07 | 89 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 90 | 26 | 
 | 2022-10-14 | 90 | 26 | 
 | 2022-10-12 | 90 | 26 | 
-| 2022-10-11 | 90 | 26 | 
 

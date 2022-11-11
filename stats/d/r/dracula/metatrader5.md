@@ -1,6 +1,6 @@
 # dracula/metatrader5 - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 7 | - | 
 | 2022-11-09 | 7 | - | 
 | 2022-11-08 | 7 | - | 
 | 2022-11-07 | 7 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 7 | - | 
 | 2022-10-13 | 7 | - | 
 | 2022-10-12 | 7 | - | 
-| 2022-10-11 | 7 | - | 
 

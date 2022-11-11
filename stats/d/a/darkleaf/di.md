@@ -1,6 +1,6 @@
 # darkleaf/di - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 18 | - | 
 | 2022-11-09 | 18 | - | 
 | 2022-11-08 | 18 | - | 
 | 2022-11-07 | 18 | - | 

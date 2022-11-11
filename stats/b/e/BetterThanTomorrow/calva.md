@@ -1,6 +1,6 @@
 # BetterThanTomorrow/calva - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 182
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 1206 | 182 | 
 | 2022-11-09 | 1206 | 182 | 
 | 2022-11-08 | 1206 | 181 | 
 | 2022-11-07 | 1204 | 181 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 1188 | 178 | 
 | 2022-10-13 | 1186 | 179 | 
 | 2022-10-12 | 1186 | 179 | 
-| 2022-10-11 | 1185 | 179 | 
 

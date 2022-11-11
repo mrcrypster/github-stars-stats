@@ -1,10 +1,10 @@
 # Gurupreet/ComposeCookBook - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 601
+☋ Forks: 600
 
-★ Stars: 4702
+★ Stars: 4707
 
 [Open repository](https://github.com/Gurupreet/ComposeCookBook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 4707 | 600 | 
 | 2022-11-10 | 4702 | 601 | 
 | 2022-11-09 | 4702 | 601 | 
 | 2022-11-08 | 4701 | 599 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 4645 | 589 | 
 | 2022-10-13 | 4644 | 589 | 
 | 2022-10-12 | 4643 | 589 | 
-| 2022-10-11 | 4638 | 588 | 
 

@@ -1,6 +1,6 @@
 # NgodingSolusi/the-wedding-of-rehan-maulidan - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 44 | 26 | 
 | 2022-11-10 | 44 | 26 | 
 | 2022-11-09 | 44 | 26 | 
 | 2022-11-07 | 44 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 40 | 24 | 
 | 2022-10-13 | 40 | 24 | 
 | 2022-10-12 | 40 | 24 | 
-| 2022-10-11 | 39 | 23 | 
 

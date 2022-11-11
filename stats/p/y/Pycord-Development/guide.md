@@ -1,6 +1,6 @@
 # Pycord-Development/guide - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 50 | 45 | 
 | 2022-11-09 | 50 | 45 | 
 | 2022-11-08 | 50 | 45 | 
 | 2022-11-07 | 50 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 47 | 42 | 
 | 2022-10-13 | 47 | 42 | 
 | 2022-10-12 | 47 | 42 | 
-| 2022-10-11 | 46 | 42 | 
 

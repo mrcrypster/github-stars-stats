@@ -1,10 +1,10 @@
 # JupiterBroadcasting/jupiterbroadcasting.com - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 34
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 67 | 34 | 
 | 2022-11-09 | 66 | 34 | 
 | 2022-11-08 | 66 | 34 | 
 | 2022-11-07 | 66 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 60 | 31 | 
 | 2022-10-13 | 60 | 31 | 
 | 2022-10-12 | 60 | 31 | 
-| 2022-10-11 | 60 | 31 | 
 

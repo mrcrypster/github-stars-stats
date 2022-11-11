@@ -1,6 +1,6 @@
 # Machine-Hum/ovrdrive - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 47 | 2 | 
 | 2022-11-10 | 47 | 2 | 
 | 2022-11-09 | 47 | 2 | 
 | 2022-11-07 | 47 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-14 | 26 | 2 | 
 | 2022-10-13 | 26 | 2 | 
 | 2022-10-12 | 26 | 2 | 
-| 2022-10-11 | 26 | 2 | 
 

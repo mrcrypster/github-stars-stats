@@ -1,10 +1,10 @@
 # boltdb/bolt - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1902
+☋ Forks: 1901
 
-★ Stars: 13244
+★ Stars: 13246
 
 [Open repository](https://github.com/boltdb/bolt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 13246 | 1901 | 
 | 2022-11-09 | 13244 | 1902 | 
 | 2022-11-08 | 13241 | 1902 | 
 | 2022-11-07 | 13238 | 1902 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 13198 | 1889 | 
 | 2022-10-13 | 13195 | 1889 | 
 | 2022-10-12 | 13194 | 1889 | 
-| 2022-10-11 | 13194 | 1889 | 
 

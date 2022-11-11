@@ -1,8 +1,8 @@
 # rasbt/stat453-deep-learning-ss21 - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 156
+☋ Forks: 157
 
 ★ Stars: 253
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 253 | 157 | 
 | 2022-11-09 | 253 | 156 | 
 | 2022-11-08 | 252 | 155 | 
 | 2022-11-07 | 251 | 155 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 249 | 149 | 
 | 2022-10-14 | 249 | 149 | 
 | 2022-10-13 | 249 | 149 | 
-| 2022-10-12 | 249 | 149 | 
 

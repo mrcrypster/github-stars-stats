@@ -1,10 +1,10 @@
 # ecomfe/echarts-for-weixin - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 1503
+☋ Forks: 1504
 
-★ Stars: 6108
+★ Stars: 6111
 
 [Open repository](https://github.com/ecomfe/echarts-for-weixin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 6111 | 1504 | 
 | 2022-11-09 | 6108 | 1503 | 
 | 2022-11-08 | 6108 | 1503 | 
 | 2022-11-07 | 6106 | 1503 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 6061 | 1492 | 
 | 2022-10-13 | 6057 | 1491 | 
 | 2022-10-12 | 6054 | 1489 | 
-| 2022-10-11 | 6048 | 1489 | 
 

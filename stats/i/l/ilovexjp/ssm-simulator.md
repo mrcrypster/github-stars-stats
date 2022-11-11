@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 10
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 25
+★ Stars: 31
 
 [Open repository](https://github.com/ilovexjp/ssm-simulator)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-10 | 25 | 7 | 
+| 2022-11-10 | 31 | 8 | 
 | 2022-11-09 | 25 | 7 | 
 

@@ -1,6 +1,6 @@
 # frappe/insights - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 122 | 42 | 
 | 2022-11-09 | 122 | 42 | 
 | 2022-11-08 | 121 | 42 | 
 | 2022-11-07 | 121 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 108 | 37 | 
 | 2022-10-13 | 108 | 37 | 
 | 2022-10-12 | 108 | 37 | 
-| 2022-10-11 | 106 | 37 | 
 

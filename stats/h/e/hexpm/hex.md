@@ -1,6 +1,6 @@
 # hexpm/hex - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 174
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 863 | 174 | 
 | 2022-11-09 | 863 | 174 | 
 | 2022-11-08 | 863 | 174 | 
 | 2022-11-07 | 862 | 174 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 857 | 174 | 
 | 2022-10-13 | 857 | 174 | 
 | 2022-10-12 | 857 | 174 | 
-| 2022-10-11 | 856 | 174 | 
 

@@ -1,8 +1,8 @@
 # ionic-team/ionic-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
-☋ Forks: 2379
+☋ Forks: 2381
 
 ★ Stars: 491
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 491 | 2381 | 
 | 2022-11-09 | 491 | 2379 | 
 | 2022-11-08 | 491 | 2377 | 
 | 2022-11-07 | 489 | 2375 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-14 | 484 | 2350 | 
 | 2022-10-13 | 485 | 2350 | 
 | 2022-10-12 | 485 | 2349 | 
-| 2022-10-11 | 485 | 2349 | 
 

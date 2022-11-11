@@ -1,10 +1,10 @@
 # iGhibli/iOS-DeviceSupport - stars & forks statistics
 
-Stats updated on Nov 2022, 09
+Stats updated on Nov 2022, 10
 
 ☋ Forks: 1093
 
-★ Stars: 7367
+★ Stars: 7372
 
 [Open repository](https://github.com/iGhibli/iOS-DeviceSupport)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 09
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-10 | 7372 | 1093 | 
 | 2022-11-09 | 7367 | 1093 | 
 | 2022-11-08 | 7361 | 1092 | 
 | 2022-11-07 | 7359 | 1091 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 09
 | 2022-10-15 | 7270 | 1078 | 
 | 2022-10-14 | 7265 | 1078 | 
 | 2022-10-13 | 7263 | 1078 | 
-| 2022-10-12 | 7258 | 1078 | 
 
