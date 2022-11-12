@@ -1,10 +1,10 @@
 # Suzhou-Tongyuan/ObjectOriented.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 4
 
-★ Stars: 59
+★ Stars: 61
 
 [Open repository](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 61 | 4 | 
 | 2022-11-10 | 59 | 4 | 
 | 2022-11-09 | 59 | 4 | 
 | 2022-11-08 | 59 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 57 | 4 | 
 | 2022-10-14 | 57 | 4 | 
 | 2022-10-13 | 57 | 4 | 
-| 2022-10-12 | 57 | 4 | 
 

@@ -1,10 +1,10 @@
 # microsoft/BotBuilder-Samples - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 4693
+☋ Forks: 4692
 
-★ Stars: 3867
+★ Stars: 3869
 
 [Open repository](https://github.com/microsoft/BotBuilder-Samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3869 | 4692 | 
 | 2022-11-10 | 3867 | 4693 | 
 | 2022-11-09 | 3867 | 4692 | 
 | 2022-11-08 | 3868 | 4692 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3851 | 4674 | 
 | 2022-10-14 | 3850 | 4674 | 
 | 2022-10-13 | 3850 | 4671 | 
-| 2022-10-12 | 3849 | 4670 | 
 

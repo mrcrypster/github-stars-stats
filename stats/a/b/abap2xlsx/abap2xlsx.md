@@ -1,6 +1,6 @@
 # abap2xlsx/abap2xlsx - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 239
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 502 | 239 | 
 | 2022-11-10 | 502 | 239 | 
 | 2022-11-09 | 502 | 239 | 
 | 2022-11-08 | 502 | 239 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 496 | 236 | 
 | 2022-10-14 | 495 | 236 | 
 | 2022-10-13 | 495 | 236 | 
-| 2022-10-12 | 494 | 236 | 
 

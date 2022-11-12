@@ -1,6 +1,6 @@
 # zh-google-styleguide/zh-google-styleguide - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2703
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 9212 | 2703 | 
 | 2022-11-10 | 9212 | 2703 | 
 | 2022-11-09 | 9211 | 2703 | 
 | 2022-11-08 | 9208 | 2703 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 9139 | 2693 | 
 | 2022-10-14 | 9137 | 2692 | 
 | 2022-10-13 | 9136 | 2691 | 
-| 2022-10-12 | 9131 | 2692 | 
 

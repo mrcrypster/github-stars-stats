@@ -1,10 +1,10 @@
 # module-federation/nextjs-mf - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 31
 
-★ Stars: 244
+★ Stars: 246
 
 [Open repository](https://github.com/module-federation/nextjs-mf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 246 | 31 | 
 | 2022-11-10 | 244 | 31 | 
 | 2022-11-09 | 243 | 30 | 
 | 2022-11-08 | 242 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 205 | 25 | 
 | 2022-10-14 | 203 | 25 | 
 | 2022-10-13 | 201 | 25 | 
-| 2022-10-12 | 197 | 24 | 
 

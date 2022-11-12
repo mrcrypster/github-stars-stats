@@ -1,10 +1,10 @@
 # thunlp/OpenPrompt - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 230
+☋ Forks: 231
 
-★ Stars: 2077
+★ Stars: 2081
 
 [Open repository](https://github.com/thunlp/OpenPrompt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2081 | 231 | 
 | 2022-11-10 | 2077 | 230 | 
 | 2022-11-09 | 2072 | 229 | 
 | 2022-11-08 | 2069 | 228 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 1977 | 211 | 
 | 2022-10-15 | 1976 | 210 | 
 | 2022-10-14 | 1973 | 208 | 
-| 2022-10-12 | 1971 | 208 | 
 

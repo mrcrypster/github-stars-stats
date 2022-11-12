@@ -1,10 +1,10 @@
 # selva86/datasets - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1686
+☋ Forks: 1687
 
-★ Stars: 470
+★ Stars: 471
 
 [Open repository](https://github.com/selva86/datasets)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 471 | 1687 | 
 | 2022-11-10 | 470 | 1686 | 
 | 2022-11-09 | 470 | 1685 | 
 | 2022-11-08 | 469 | 1684 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 460 | 1662 | 
 | 2022-10-14 | 459 | 1662 | 
 | 2022-10-13 | 458 | 1662 | 
-| 2022-10-12 | 457 | 1660 | 
 

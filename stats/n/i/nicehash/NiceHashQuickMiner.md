@@ -1,10 +1,10 @@
 # nicehash/NiceHashQuickMiner - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 187
 
-★ Stars: 418
+★ Stars: 417
 
 [Open repository](https://github.com/nicehash/NiceHashQuickMiner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 417 | 187 | 
 | 2022-11-10 | 418 | 187 | 
 | 2022-11-09 | 418 | 187 | 
 | 2022-11-08 | 418 | 187 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 415 | 188 | 
 | 2022-10-14 | 415 | 188 | 
 | 2022-10-13 | 415 | 188 | 
-| 2022-10-12 | 414 | 188 | 
 

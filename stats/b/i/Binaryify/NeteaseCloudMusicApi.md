@@ -1,10 +1,10 @@
 # Binaryify/NeteaseCloudMusicApi - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 11278
+☋ Forks: 11300
 
-★ Stars: 26089
+★ Stars: 26098
 
 [Open repository](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 26098 | 11300 | 
 | 2022-11-10 | 26089 | 11278 | 
 | 2022-11-09 | 26082 | 11267 | 
 | 2022-11-08 | 26074 | 11257 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 25811 | 10915 | 
 | 2022-10-14 | 25804 | 10905 | 
 | 2022-10-13 | 25791 | 10883 | 
-| 2022-10-12 | 25784 | 10860 | 
 

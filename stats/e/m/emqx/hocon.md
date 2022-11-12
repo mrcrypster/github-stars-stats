@@ -1,10 +1,10 @@
 # emqx/hocon - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 13
 
-★ Stars: 26
+★ Stars: 25
 
 [Open repository](https://github.com/emqx/hocon)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 25 | 13 | 
 | 2022-11-10 | 26 | 13 | 
 

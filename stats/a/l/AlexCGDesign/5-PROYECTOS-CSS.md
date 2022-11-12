@@ -1,6 +1,6 @@
 # AlexCGDesign/5-PROYECTOS-CSS - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 5 | 6 | 
 | 2022-11-10 | 5 | 6 | 
 | 2022-11-09 | 5 | 6 | 
 | 2022-11-08 | 5 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 4 | 7 | 
 | 2022-10-15 | 4 | 7 | 
 | 2022-10-14 | 4 | 7 | 
-| 2022-10-13 | 4 | 7 | 
 

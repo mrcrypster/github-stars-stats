@@ -1,10 +1,10 @@
 # alexbieber/Bug_Bounty_writeups - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 600
+★ Stars: 605
 
 [Open repository](https://github.com/alexbieber/Bug_Bounty_writeups)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 605 | 89 | 
 | 2022-11-10 | 600 | 88 | 
 | 2022-11-09 | 600 | 88 | 
 | 2022-11-08 | 600 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 590 | 87 | 
 | 2022-10-14 | 590 | 87 | 
 | 2022-10-13 | 590 | 87 | 
-| 2022-10-12 | 590 | 87 | 
 

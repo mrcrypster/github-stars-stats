@@ -1,10 +1,10 @@
 # SerenityOS/ladybird - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 100
 
-★ Stars: 1453
+★ Stars: 1456
 
 [Open repository](https://github.com/SerenityOS/ladybird)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1456 | 100 | 
 | 2022-11-10 | 1453 | 100 | 
 | 2022-11-09 | 1448 | 99 | 
 | 2022-11-08 | 1438 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1319 | 87 | 
 | 2022-10-14 | 1317 | 87 | 
 | 2022-10-13 | 1312 | 87 | 
-| 2022-10-12 | 1309 | 87 | 
 

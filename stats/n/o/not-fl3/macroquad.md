@@ -1,10 +1,10 @@
 # not-fl3/macroquad - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 181
+☋ Forks: 182
 
-★ Stars: 1775
+★ Stars: 1778
 
 [Open repository](https://github.com/not-fl3/macroquad)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1778 | 182 | 
 | 2022-11-10 | 1775 | 181 | 
 | 2022-11-09 | 1775 | 181 | 
 | 2022-11-08 | 1775 | 181 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1737 | 171 | 
 | 2022-10-14 | 1736 | 171 | 
 | 2022-10-13 | 1734 | 171 | 
-| 2022-10-12 | 1734 | 169 | 
 

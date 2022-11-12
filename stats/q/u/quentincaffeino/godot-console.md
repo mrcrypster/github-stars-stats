@@ -1,10 +1,10 @@
 # quentincaffeino/godot-console - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 49
 
-★ Stars: 567
+★ Stars: 569
 
 [Open repository](https://github.com/quentincaffeino/godot-console)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 569 | 49 | 
 | 2022-11-10 | 567 | 49 | 
 | 2022-11-09 | 567 | 49 | 
 | 2022-11-08 | 567 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 557 | 50 | 
 | 2022-10-14 | 556 | 50 | 
 | 2022-10-13 | 556 | 50 | 
-| 2022-10-12 | 556 | 50 | 
 

@@ -1,10 +1,10 @@
 # zhoubolei/CAM - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 455
+☋ Forks: 456
 
-★ Stars: 1696
+★ Stars: 1697
 
 [Open repository](https://github.com/zhoubolei/CAM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1697 | 456 | 
 | 2022-11-10 | 1696 | 455 | 
 | 2022-11-09 | 1696 | 455 | 
 | 2022-11-08 | 1696 | 455 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1683 | 453 | 
 | 2022-10-14 | 1683 | 453 | 
 | 2022-10-13 | 1682 | 453 | 
-| 2022-10-12 | 1682 | 453 | 
 

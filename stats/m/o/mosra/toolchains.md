@@ -1,6 +1,6 @@
 # mosra/toolchains - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 78 | 31 | 
 | 2022-11-10 | 78 | 31 | 
 | 2022-11-09 | 78 | 31 | 
 | 2022-11-08 | 78 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 77 | 30 | 
 | 2022-10-14 | 77 | 30 | 
 | 2022-10-13 | 77 | 30 | 
-| 2022-10-12 | 77 | 30 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 11
 
 ☋ Forks: 118
 
-★ Stars: 2388
+★ Stars: 2446
 
 [Open repository](https://github.com/tw93/Pake)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-11 | 2388 | 118 | 
+| 2022-11-11 | 2446 | 118 | 
 | 2022-11-10 | 2385 | 118 | 
 | 2022-11-09 | 2315 | 107 | 
 | 2022-11-08 | 2113 | 98 | 

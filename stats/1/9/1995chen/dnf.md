@@ -1,6 +1,6 @@
 # 1995chen/dnf - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 320 | 160 | 
 | 2022-11-10 | 320 | 160 | 
 | 2022-11-09 | 319 | 160 | 
 | 2022-11-08 | 319 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 300 | 152 | 
 | 2022-10-14 | 298 | 153 | 
 | 2022-10-13 | 298 | 153 | 
-| 2022-10-12 | 298 | 153 | 
 

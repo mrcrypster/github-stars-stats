@@ -1,6 +1,6 @@
 # couchbaselabs/iOS-Couchbase - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 406 | 32 | 
 | 2022-11-10 | 406 | 32 | 
 | 2022-11-09 | 406 | 32 | 
 | 2022-11-08 | 406 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 406 | 32 | 
 | 2022-10-14 | 406 | 32 | 
 | 2022-10-13 | 406 | 32 | 
-| 2022-10-12 | 406 | 32 | 
 

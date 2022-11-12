@@ -1,10 +1,10 @@
 # cs3110/textbook - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 69
+☋ Forks: 70
 
-★ Stars: 363
+★ Stars: 366
 
 [Open repository](https://github.com/cs3110/textbook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 366 | 70 | 
 | 2022-11-10 | 363 | 69 | 
 | 2022-11-09 | 361 | 69 | 
 | 2022-11-08 | 359 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 343 | 61 | 
 | 2022-10-14 | 343 | 61 | 
 | 2022-10-13 | 343 | 61 | 
-| 2022-10-12 | 343 | 61 | 
 

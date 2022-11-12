@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-backup - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 70 | 43 | 
 | 2022-11-10 | 70 | 43 | 
 | 2022-11-09 | 69 | 43 | 
 | 2022-11-08 | 69 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 67 | 42 | 
 | 2022-10-15 | 67 | 42 | 
 | 2022-10-14 | 67 | 42 | 
-| 2022-10-13 | 67 | 42 | 
 

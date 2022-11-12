@@ -1,10 +1,10 @@
 # Ben-love-zy/web-editor-markdown - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 33
 
-★ Stars: 166
+★ Stars: 172
 
 [Open repository](https://github.com/Ben-love-zy/web-editor-markdown)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 172 | 33 | 
 | 2022-11-10 | 166 | 33 | 
 | 2022-11-09 | 160 | 33 | 
 | 2022-11-08 | 121 | 31 | 

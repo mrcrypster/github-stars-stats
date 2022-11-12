@@ -1,10 +1,10 @@
 # naver/fe-news - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 213
 
-★ Stars: 3660
+★ Stars: 3662
 
 [Open repository](https://github.com/naver/fe-news)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3662 | 213 | 
 | 2022-11-10 | 3660 | 213 | 
 | 2022-11-09 | 3656 | 213 | 
 | 2022-11-08 | 3653 | 213 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3593 | 201 | 
 | 2022-10-14 | 3586 | 201 | 
 | 2022-10-13 | 3580 | 201 | 
-| 2022-10-12 | 3577 | 201 | 
 

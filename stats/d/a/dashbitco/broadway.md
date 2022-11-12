@@ -1,6 +1,6 @@
 # dashbitco/broadway - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1943 | 135 | 
 | 2022-11-10 | 1943 | 135 | 
 | 2022-11-09 | 1942 | 135 | 
 | 2022-11-08 | 1941 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1924 | 135 | 
 | 2022-10-14 | 1924 | 135 | 
 | 2022-10-13 | 1923 | 135 | 
-| 2022-10-12 | 1920 | 135 | 
 

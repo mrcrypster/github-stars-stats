@@ -1,6 +1,6 @@
 # deepmaterials/dlmatreview - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 53 | 13 | 
 | 2022-11-10 | 53 | 13 | 
 | 2022-11-09 | 53 | 13 | 
 | 2022-11-08 | 53 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 50 | 13 | 
 | 2022-10-14 | 50 | 13 | 
 | 2022-10-13 | 50 | 13 | 
-| 2022-10-12 | 50 | 13 | 
 

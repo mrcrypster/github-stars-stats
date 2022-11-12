@@ -1,8 +1,8 @@
 # ojroques/vim-oscyank - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 21
+☋ Forks: 22
 
 ★ Stars: 404
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 404 | 22 | 
 | 2022-11-10 | 404 | 21 | 
 | 2022-11-09 | 404 | 21 | 
 | 2022-11-08 | 404 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 389 | 21 | 
 | 2022-10-14 | 390 | 22 | 
 | 2022-10-13 | 389 | 22 | 
-| 2022-10-12 | 388 | 22 | 
 

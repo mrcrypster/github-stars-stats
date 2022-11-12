@@ -1,10 +1,10 @@
 # MyLittleSuite/pine - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 3
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/MyLittleSuite/pine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 31 | 3 | 
 | 2022-11-10 | 30 | 3 | 
 | 2022-11-09 | 30 | 3 | 
 | 2022-11-08 | 30 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 30 | 3 | 
 | 2022-10-15 | 30 | 3 | 
 | 2022-10-14 | 30 | 3 | 
-| 2022-10-13 | 30 | 3 | 
 

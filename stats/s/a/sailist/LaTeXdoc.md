@@ -1,6 +1,6 @@
 # sailist/LaTeXdoc - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 178 | 42 | 
 | 2022-11-11 | 178 | 42 | 
 | 2022-11-09 | 177 | 42 | 
 | 2022-11-08 | 177 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 176 | 42 | 
 | 2022-10-14 | 176 | 42 | 
 | 2022-10-13 | 176 | 42 | 
-| 2022-10-12 | 176 | 42 | 
 

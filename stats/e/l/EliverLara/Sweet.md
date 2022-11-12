@@ -1,10 +1,10 @@
 # EliverLara/Sweet - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 75
 
-★ Stars: 1142
+★ Stars: 1143
 
 [Open repository](https://github.com/EliverLara/Sweet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1143 | 75 | 
 | 2022-11-10 | 1142 | 75 | 
 | 2022-11-09 | 1142 | 75 | 
 | 2022-11-08 | 1142 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1126 | 73 | 
 | 2022-10-14 | 1126 | 73 | 
 | 2022-10-13 | 1124 | 73 | 
-| 2022-10-12 | 1124 | 73 | 
 

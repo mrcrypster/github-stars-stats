@@ -1,6 +1,6 @@
 # lgatto/RforProteomics - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 64 | 32 | 
 | 2022-11-10 | 64 | 32 | 
 | 2022-11-09 | 64 | 32 | 
 | 2022-11-08 | 64 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 64 | 32 | 
 | 2022-10-14 | 64 | 32 | 
 | 2022-10-13 | 64 | 32 | 
-| 2022-10-12 | 64 | 32 | 
 

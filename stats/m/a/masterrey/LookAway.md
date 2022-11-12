@@ -1,6 +1,6 @@
 # masterrey/LookAway - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 31
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1 | 31 | 
 | 2022-11-10 | 1 | 31 | 
 | 2022-11-09 | 1 | 31 | 
 | 2022-11-08 | 1 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1 | 31 | 
 | 2022-10-14 | 1 | 31 | 
 | 2022-10-13 | 1 | 31 | 
-| 2022-10-12 | 1 | 31 | 
 

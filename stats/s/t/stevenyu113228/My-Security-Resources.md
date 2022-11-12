@@ -1,6 +1,6 @@
 # stevenyu113228/My-Security-Resources - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 175 | 12 | 
 | 2022-11-10 | 175 | 12 | 
 | 2022-11-09 | 175 | 12 | 
 | 2022-11-08 | 175 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 173 | 12 | 
 | 2022-10-14 | 173 | 12 | 
 | 2022-10-13 | 173 | 12 | 
-| 2022-10-12 | 173 | 11 | 
 

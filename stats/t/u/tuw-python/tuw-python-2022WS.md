@@ -1,6 +1,6 @@
 # tuw-python/tuw-python-2022WS - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 29 | 21 | 
 | 2022-11-10 | 29 | 21 | 
 | 2022-11-09 | 29 | 21 | 
 | 2022-11-08 | 29 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 28 | 19 | 
 | 2022-10-14 | 28 | 19 | 
 | 2022-10-13 | 27 | 19 | 
-| 2022-10-12 | 27 | 19 | 
 

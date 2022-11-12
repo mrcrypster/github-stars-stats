@@ -1,6 +1,6 @@
 # besuper/TwitchNoSub - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 218 | 27 | 
 | 2022-11-10 | 218 | 27 | 
 | 2022-11-09 | 216 | 27 | 
 | 2022-11-08 | 215 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 198 | 25 | 
 | 2022-10-14 | 197 | 25 | 
 | 2022-10-13 | 197 | 25 | 
-| 2022-10-12 | 197 | 25 | 
 

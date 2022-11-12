@@ -1,8 +1,8 @@
 # am-kantox/md - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1
+☋ Forks: 2
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 45 | 2 | 
 | 2022-11-10 | 45 | 1 | 
 | 2022-11-09 | 45 | 1 | 
 | 2022-11-08 | 45 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 44 | 1 | 
 | 2022-10-14 | 44 | 1 | 
 | 2022-10-13 | 44 | 1 | 
-| 2022-10-12 | 44 | 1 | 
 

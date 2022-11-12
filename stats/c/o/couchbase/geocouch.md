@@ -1,6 +1,6 @@
 # couchbase/geocouch - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 513 | 63 | 
 | 2022-11-10 | 513 | 63 | 
 | 2022-11-09 | 513 | 63 | 
 | 2022-11-08 | 513 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 511 | 63 | 
 | 2022-10-14 | 511 | 63 | 
 | 2022-10-13 | 511 | 63 | 
-| 2022-10-12 | 511 | 63 | 
 

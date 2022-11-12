@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleDetection - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2282
+☋ Forks: 2283
 
-★ Stars: 9000
+★ Stars: 9010
 
 [Open repository](https://github.com/PaddlePaddle/PaddleDetection)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 9010 | 2283 | 
 | 2022-11-10 | 9000 | 2282 | 
 | 2022-11-09 | 8987 | 2277 | 
 | 2022-11-08 | 8978 | 2274 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 8618 | 2203 | 
 | 2022-10-14 | 8614 | 2203 | 
 | 2022-10-13 | 8607 | 2202 | 
-| 2022-10-12 | 8597 | 2202 | 
 

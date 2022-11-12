@@ -1,6 +1,6 @@
 # ViGEm/ViGEmBus - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1672 | 201 | 
 | 2022-11-10 | 1672 | 201 | 
 | 2022-11-09 | 1670 | 201 | 
 | 2022-11-08 | 1669 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 1627 | 199 | 
 | 2022-10-15 | 1627 | 199 | 
 | 2022-10-14 | 1624 | 198 | 
-| 2022-10-13 | 1624 | 198 | 
 

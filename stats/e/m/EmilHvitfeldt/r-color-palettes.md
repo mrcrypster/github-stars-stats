@@ -1,10 +1,10 @@
 # EmilHvitfeldt/r-color-palettes - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 117
 
-★ Stars: 1119
+★ Stars: 1121
 
 [Open repository](https://github.com/EmilHvitfeldt/r-color-palettes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1121 | 117 | 
 | 2022-11-10 | 1119 | 117 | 
 | 2022-11-09 | 1119 | 117 | 
 | 2022-11-08 | 1119 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1103 | 116 | 
 | 2022-10-14 | 1103 | 116 | 
 | 2022-10-13 | 1103 | 116 | 
-| 2022-10-12 | 1103 | 116 | 
 

@@ -1,6 +1,6 @@
 # hiett/serverless-redis-http - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 25 | 1 | 
 | 2022-11-10 | 25 | 1 | 
 | 2022-11-09 | 25 | 1 | 
 | 2022-11-08 | 24 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 19 | 1 | 
 | 2022-10-14 | 19 | 1 | 
 | 2022-10-13 | 19 | 1 | 
-| 2022-10-12 | 19 | 1 | 
 

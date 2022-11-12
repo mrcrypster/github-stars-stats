@@ -1,6 +1,6 @@
 # cbm755/octsympy - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 119 | 36 | 
 | 2022-11-10 | 119 | 36 | 
 | 2022-11-09 | 119 | 36 | 
 | 2022-11-08 | 119 | 36 | 

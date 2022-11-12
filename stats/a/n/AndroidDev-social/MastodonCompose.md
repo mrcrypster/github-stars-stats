@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 11
 
 ☋ Forks: 15
 
-★ Stars: 64
+★ Stars: 69
 
 [Open repository](https://github.com/AndroidDev-social/MastodonCompose)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-11 | 64 | 15 | 
+| 2022-11-11 | 69 | 15 | 
 | 2022-11-10 | 62 | 15 | 
 

@@ -1,10 +1,10 @@
 # ConsenSys/secureum-diligence-bootcamp - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/ConsenSys/secureum-diligence-bootcamp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 21 | - | 
 | 2022-11-10 | 20 | - | 
 | 2022-11-09 | 20 | - | 
 | 2022-11-08 | 19 | - | 

@@ -1,10 +1,10 @@
 # FrontEndGitHub/FrontEndGitHub - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 771
+☋ Forks: 770
 
-★ Stars: 4577
+★ Stars: 4581
 
 [Open repository](https://github.com/FrontEndGitHub/FrontEndGitHub)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 4581 | 770 | 
 | 2022-11-10 | 4577 | 771 | 
 | 2022-11-09 | 4577 | 771 | 
 | 2022-11-08 | 4574 | 770 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 4498 | 760 | 
 | 2022-10-14 | 4497 | 760 | 
 | 2022-10-13 | 4497 | 759 | 
-| 2022-10-12 | 4494 | 759 | 
 

@@ -1,10 +1,10 @@
 # HashLips/hashlips_art_engine - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 3983
+☋ Forks: 3986
 
-★ Stars: 6531
+★ Stars: 6540
 
 [Open repository](https://github.com/HashLips/hashlips_art_engine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6540 | 3986 | 
 | 2022-11-10 | 6531 | 3983 | 
 | 2022-11-09 | 6525 | 3982 | 
 | 2022-11-08 | 6522 | 3982 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 6437 | 3926 | 
 | 2022-10-14 | 6436 | 3926 | 
 | 2022-10-13 | 6432 | 3923 | 
-| 2022-10-12 | 6430 | 3920 | 
 

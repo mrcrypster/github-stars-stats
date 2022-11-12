@@ -1,10 +1,10 @@
 # maticnetwork/pos-portal - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/maticnetwork/pos-portal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 212 | 184 | 
 | 2022-11-10 | 211 | 183 | 
 | 2022-11-09 | 211 | 183 | 
 | 2022-11-08 | 210 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 209 | 176 | 
 | 2022-10-14 | 209 | 176 | 
 | 2022-10-13 | 209 | 176 | 
-| 2022-10-12 | 209 | 176 | 
 

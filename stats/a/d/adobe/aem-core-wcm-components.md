@@ -1,6 +1,6 @@
 # adobe/aem-core-wcm-components - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 647
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 619 | 647 | 
 | 2022-11-10 | 619 | 647 | 
 | 2022-11-09 | 619 | 647 | 
 | 2022-11-08 | 619 | 646 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 611 | 638 | 
 | 2022-10-14 | 611 | 636 | 
 | 2022-10-13 | 611 | 637 | 
-| 2022-10-12 | 611 | 637 | 
 

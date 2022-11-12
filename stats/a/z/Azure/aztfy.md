@@ -1,10 +1,10 @@
 # Azure/aztfy - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 95
 
-★ Stars: 869
+★ Stars: 871
 
 [Open repository](https://github.com/Azure/aztfy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 871 | 95 | 
 | 2022-11-10 | 869 | 95 | 
 | 2022-11-09 | 867 | 94 | 
 | 2022-11-08 | 864 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 827 | 89 | 
 | 2022-10-15 | 828 | 89 | 
 | 2022-10-14 | 825 | 89 | 
-| 2022-10-13 | 823 | 88 | 
 

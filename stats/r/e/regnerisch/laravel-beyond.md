@@ -1,6 +1,6 @@
 # regnerisch/laravel-beyond - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 148 | 10 | 
 | 2022-11-10 | 148 | 10 | 
 | 2022-11-09 | 148 | 10 | 
 | 2022-11-08 | 147 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 145 | 11 | 
 | 2022-10-14 | 145 | 11 | 
 | 2022-10-13 | 145 | 11 | 
-| 2022-10-12 | 145 | 11 | 
 

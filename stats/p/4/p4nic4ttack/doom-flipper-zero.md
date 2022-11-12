@@ -1,10 +1,10 @@
 # p4nic4ttack/doom-flipper-zero - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 134
+★ Stars: 135
 
 [Open repository](https://github.com/p4nic4ttack/doom-flipper-zero)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 135 | 2 | 
 | 2022-11-10 | 134 | 2 | 
 | 2022-11-09 | 133 | 2 | 
 | 2022-11-08 | 133 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 126 | 1 | 
 | 2022-10-14 | 126 | 1 | 
 | 2022-10-13 | 126 | 1 | 
-| 2022-10-12 | 126 | 1 | 
 

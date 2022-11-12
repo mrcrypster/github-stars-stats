@@ -1,8 +1,8 @@
 # Tencent/xLua - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2321
+☋ Forks: 2323
 
 ★ Stars: 8058
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 8058 | 2323 | 
 | 2022-11-10 | 8058 | 2321 | 
 | 2022-11-09 | 8054 | 2320 | 
 | 2022-11-08 | 8052 | 2320 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 7978 | 2308 | 
 | 2022-10-14 | 7977 | 2307 | 
 | 2022-10-13 | 7978 | 2305 | 
-| 2022-10-12 | 7978 | 2305 | 
 

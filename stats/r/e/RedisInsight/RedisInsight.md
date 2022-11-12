@@ -1,10 +1,10 @@
 # RedisInsight/RedisInsight - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 118
+☋ Forks: 120
 
-★ Stars: 2024
+★ Stars: 2031
 
 [Open repository](https://github.com/RedisInsight/RedisInsight)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2031 | 120 | 
 | 2022-11-10 | 2024 | 118 | 
 | 2022-11-09 | 2019 | 118 | 
 | 2022-11-08 | 2014 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1908 | 111 | 
 | 2022-10-14 | 1906 | 111 | 
 | 2022-10-13 | 1900 | 111 | 
-| 2022-10-12 | 1894 | 110 | 
 

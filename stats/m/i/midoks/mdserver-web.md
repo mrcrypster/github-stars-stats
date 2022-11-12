@@ -1,10 +1,10 @@
 # midoks/mdserver-web - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 411
+☋ Forks: 412
 
-★ Stars: 1950
+★ Stars: 1958
 
 [Open repository](https://github.com/midoks/mdserver-web)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1958 | 412 | 
 | 2022-11-10 | 1950 | 411 | 
 | 2022-11-09 | 1946 | 410 | 
 | 2022-11-08 | 1941 | 408 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1667 | 379 | 
 | 2022-10-14 | 1664 | 379 | 
 | 2022-10-13 | 1662 | 379 | 
-| 2022-10-12 | 1660 | 379 | 
 

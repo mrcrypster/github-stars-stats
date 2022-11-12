@@ -1,10 +1,10 @@
 # raamcosta/compose-destinations - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 82
 
-★ Stars: 1700
+★ Stars: 1702
 
 [Open repository](https://github.com/raamcosta/compose-destinations)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1702 | 82 | 
 | 2022-11-10 | 1700 | 82 | 
 | 2022-11-09 | 1700 | 82 | 
 | 2022-11-08 | 1695 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1626 | 79 | 
 | 2022-10-14 | 1626 | 79 | 
 | 2022-10-13 | 1619 | 79 | 
-| 2022-10-12 | 1612 | 79 | 
 

@@ -1,6 +1,6 @@
 # ExtropyIO/ExpertSolidityBootcamp - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 20 | 14 | 
 | 2022-11-10 | 20 | 14 | 
 | 2022-11-09 | 20 | 14 | 
 | 2022-11-08 | 20 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 19 | 13 | 
 | 2022-10-14 | 18 | 13 | 
 | 2022-10-13 | 18 | 13 | 
-| 2022-10-12 | 18 | 13 | 
 

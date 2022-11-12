@@ -1,10 +1,10 @@
 # lucasvreis/organon - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/lucasvreis/organon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 12 | - | 
 | 2022-11-10 | 11 | - | 
 | 2022-11-09 | 11 | - | 
 | 2022-11-08 | 11 | - | 

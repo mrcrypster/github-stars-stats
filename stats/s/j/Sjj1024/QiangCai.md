@@ -1,10 +1,10 @@
 # Sjj1024/QiangCai - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 66
 
-★ Stars: 242
+★ Stars: 244
 
 [Open repository](https://github.com/Sjj1024/QiangCai)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 244 | 66 | 
 | 2022-11-10 | 242 | 66 | 
 | 2022-11-09 | 240 | 66 | 
 | 2022-11-08 | 240 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 229 | 65 | 
 | 2022-10-14 | 229 | 65 | 
 | 2022-10-13 | 229 | 65 | 
-| 2022-10-12 | 229 | 65 | 
 

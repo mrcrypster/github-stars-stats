@@ -1,6 +1,6 @@
 # fiatjaf/cliche - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 36 | 6 | 
 | 2022-11-10 | 36 | 6 | 
 | 2022-11-09 | 36 | 6 | 
 | 2022-11-08 | 36 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 29 | 5 | 
 | 2022-10-14 | 28 | 4 | 
 | 2022-10-13 | 28 | 4 | 
-| 2022-10-12 | 27 | 4 | 
 

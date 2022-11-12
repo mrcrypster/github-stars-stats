@@ -1,6 +1,6 @@
 # kshyam/flask-blog-with-db - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 30 | 7 | 
 | 2022-11-11 | 30 | 7 | 
 | 2022-11-10 | 30 | 7 | 
 | 2022-11-08 | 30 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 29 | 5 | 
 | 2022-10-14 | 29 | 5 | 
 | 2022-10-13 | 29 | 5 | 
-| 2022-10-12 | 29 | 5 | 
 

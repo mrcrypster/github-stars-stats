@@ -1,6 +1,6 @@
 # AzureAD/azure-activedirectory-library-for-objc - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 178 | 124 | 
 | 2022-11-10 | 178 | 124 | 
 | 2022-11-09 | 178 | 124 | 
 | 2022-11-08 | 178 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 178 | 124 | 
 | 2022-10-14 | 178 | 124 | 
 | 2022-10-13 | 178 | 124 | 
-| 2022-10-12 | 178 | 124 | 
 

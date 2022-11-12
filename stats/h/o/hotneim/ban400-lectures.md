@@ -1,8 +1,8 @@
 # hotneim/ban400-lectures - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 10
+☋ Forks: 11
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2 | 11 | 
 | 2022-11-10 | 2 | 10 | 
 | 2022-11-09 | 2 | 10 | 
 | 2022-11-08 | 2 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2 | 10 | 
 | 2022-10-14 | 2 | 10 | 
 | 2022-10-13 | 2 | 10 | 
-| 2022-10-12 | 2 | 10 | 
 

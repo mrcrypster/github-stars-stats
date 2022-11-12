@@ -1,8 +1,8 @@
 # daattali/addinslist - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 134
+☋ Forks: 135
 
 ★ Stars: 745
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 745 | 135 | 
 | 2022-11-10 | 745 | 134 | 
 | 2022-11-09 | 745 | 134 | 
 | 2022-11-08 | 745 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 742 | 134 | 
 | 2022-10-14 | 742 | 134 | 
 | 2022-10-13 | 742 | 134 | 
-| 2022-10-12 | 742 | 134 | 
 

@@ -1,10 +1,10 @@
 # MoldyGH/VsDave - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
-☋ Forks: 48
+☋ Forks: 51
 
-★ Stars: 30
+★ Stars: 31
 
 [Open repository](https://github.com/MoldyGH/VsDave)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 31 | 51 | 
+| 2022-11-11 | 31 | 51 | 
 | 2022-11-10 | 30 | 48 | 
 | 2022-11-09 | 29 | 48 | 
 | 2022-11-08 | 29 | 47 | 

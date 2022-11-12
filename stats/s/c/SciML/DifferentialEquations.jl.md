@@ -1,10 +1,10 @@
 # SciML/DifferentialEquations.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 190
 
-★ Stars: 2372
+★ Stars: 2373
 
 [Open repository](https://github.com/SciML/DifferentialEquations.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2373 | 190 | 
 | 2022-11-10 | 2372 | 190 | 
 | 2022-11-09 | 2372 | 190 | 
 | 2022-11-08 | 2369 | 190 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2348 | 187 | 
 | 2022-10-14 | 2346 | 187 | 
 | 2022-10-13 | 2346 | 187 | 
-| 2022-10-12 | 2345 | 187 | 
 

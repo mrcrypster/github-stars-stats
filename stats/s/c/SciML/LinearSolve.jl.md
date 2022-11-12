@@ -1,6 +1,6 @@
 # SciML/LinearSolve.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 147 | 19 | 
 | 2022-11-10 | 147 | 19 | 
 | 2022-11-09 | 147 | 18 | 
 | 2022-11-08 | 147 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 140 | 14 | 
 | 2022-10-14 | 140 | 15 | 
 | 2022-10-13 | 139 | 15 | 
-| 2022-10-12 | 139 | 15 | 
 

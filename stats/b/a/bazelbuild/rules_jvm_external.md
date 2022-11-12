@@ -1,6 +1,6 @@
 # bazelbuild/rules_jvm_external - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 163
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 253 | 163 | 
 | 2022-11-10 | 253 | 163 | 
 | 2022-11-09 | 253 | 163 | 
 | 2022-11-08 | 253 | 163 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 249 | 161 | 
 | 2022-10-14 | 249 | 161 | 
 | 2022-10-13 | 249 | 160 | 
-| 2022-10-12 | 248 | 160 | 
 

@@ -1,10 +1,10 @@
 # lunarcleint/Psych-Advanced-Hscript - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 4
 
-★ Stars: 9
+★ Stars: 11
 
 [Open repository](https://github.com/lunarcleint/Psych-Advanced-Hscript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 11 | 4 | 
 | 2022-11-10 | 9 | 4 | 
 | 2022-11-09 | 9 | 4 | 
 | 2022-11-08 | 9 | 4 | 

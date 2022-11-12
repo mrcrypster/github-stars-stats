@@ -1,6 +1,6 @@
 # TaufeeqRiyaz/Spotify-Clone - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 16 | 35 | 
 | 2022-11-10 | 16 | 35 | 
 | 2022-11-09 | 15 | 35 | 
 | 2022-11-08 | 15 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 16 | 34 | 
 | 2022-10-14 | 15 | 34 | 
 | 2022-10-13 | 15 | 33 | 
-| 2022-10-12 | 16 | 33 | 
 

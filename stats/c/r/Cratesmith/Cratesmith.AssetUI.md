@@ -1,6 +1,6 @@
 # Cratesmith/Cratesmith.AssetUI - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 183 | 18 | 
 | 2022-11-10 | 183 | 18 | 
 | 2022-11-09 | 183 | 18 | 
 | 2022-11-08 | 182 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 180 | 18 | 
 | 2022-10-14 | 180 | 18 | 
 | 2022-10-13 | 180 | 18 | 
-| 2022-10-12 | 180 | 18 | 
 

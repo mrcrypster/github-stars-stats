@@ -1,8 +1,8 @@
 # stacksimplify/hashicorp-certified-terraform-associate - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 2064
+☋ Forks: 2065
 
 ★ Stars: 266
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 266 | 2065 | 
 | 2022-11-11 | 266 | 2064 | 
 | 2022-11-09 | 265 | 2061 | 
 | 2022-11-08 | 263 | 2058 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 255 | 1989 | 
 | 2022-10-14 | 255 | 1985 | 
 | 2022-10-13 | 255 | 1977 | 
-| 2022-10-12 | 255 | 1976 | 
 

@@ -1,6 +1,6 @@
 # google/GTMAppAuth - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 309 | 217 | 
 | 2022-11-10 | 309 | 217 | 
 | 2022-11-09 | 309 | 217 | 
 | 2022-11-08 | 309 | 217 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 307 | 216 | 
 | 2022-10-14 | 307 | 216 | 
 | 2022-10-13 | 307 | 216 | 
-| 2022-10-12 | 307 | 216 | 
 

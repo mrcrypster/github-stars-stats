@@ -1,6 +1,6 @@
 # 0xInuarashi/ERC721G - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 43 | 3 | 
 | 2022-11-10 | 43 | 3 | 
 | 2022-11-09 | 43 | 3 | 
 | 2022-11-08 | 43 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 34 | 3 | 
 | 2022-10-14 | 33 | 3 | 
 | 2022-10-13 | 32 | 3 | 
-| 2022-10-12 | 32 | 3 | 
 

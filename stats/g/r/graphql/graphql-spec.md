@@ -1,8 +1,8 @@
 # graphql/graphql-spec - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1157
+☋ Forks: 1156
 
 ★ Stars: 13926
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 13926 | 1156 | 
 | 2022-11-10 | 13926 | 1157 | 
 | 2022-11-09 | 13924 | 1157 | 
 | 2022-11-08 | 13923 | 1157 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 13897 | 1151 | 
 | 2022-10-14 | 13897 | 1150 | 
 | 2022-10-13 | 13896 | 1150 | 
-| 2022-10-12 | 13893 | 1150 | 
 

@@ -1,10 +1,10 @@
 # KikiLetGo/MyDisk - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 28
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/KikiLetGo/MyDisk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 160 | 28 | 
 | 2022-11-10 | 159 | 28 | 
 | 2022-11-09 | 158 | 28 | 
 | 2022-11-08 | 157 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 141 | 27 | 
 | 2022-10-14 | 140 | 27 | 
 | 2022-10-13 | 138 | 26 | 
-| 2022-10-12 | 135 | 25 | 
 

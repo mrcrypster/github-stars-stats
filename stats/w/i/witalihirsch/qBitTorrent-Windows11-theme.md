@@ -1,10 +1,10 @@
 # witalihirsch/qBitTorrent-Windows11-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 9
 
-★ Stars: 447
+★ Stars: 446
 
 [Open repository](https://github.com/witalihirsch/qBitTorrent-Windows11-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 446 | 9 | 
 | 2022-11-10 | 447 | 9 | 
 | 2022-11-09 | 447 | 9 | 
 | 2022-11-08 | 447 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 414 | 9 | 
 | 2022-10-14 | 413 | 9 | 
 | 2022-10-13 | 410 | 8 | 
-| 2022-10-12 | 410 | 8 | 
 

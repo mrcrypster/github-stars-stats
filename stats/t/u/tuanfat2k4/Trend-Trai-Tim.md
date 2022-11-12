@@ -1,8 +1,8 @@
 # tuanfat2k4/Trend-Trai-Tim - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3 | 17 | 
 | 2022-11-10 | 3 | 16 | 
 | 2022-11-09 | 3 | 16 | 
 

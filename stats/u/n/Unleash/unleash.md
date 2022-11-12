@@ -1,10 +1,10 @@
 # Unleash/unleash - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 451
+☋ Forks: 450
 
-★ Stars: 6604
+★ Stars: 6610
 
 [Open repository](https://github.com/Unleash/unleash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6610 | 450 | 
 | 2022-11-10 | 6604 | 451 | 
 | 2022-11-09 | 6601 | 451 | 
 | 2022-11-08 | 6597 | 451 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 6498 | 437 | 
 | 2022-10-14 | 6496 | 437 | 
 | 2022-10-13 | 6493 | 437 | 
-| 2022-10-12 | 6485 | 436 | 
 

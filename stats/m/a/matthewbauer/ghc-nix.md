@@ -1,10 +1,10 @@
 # matthewbauer/ghc-nix - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/matthewbauer/ghc-nix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 95 | 2 | 
 | 2022-11-10 | 94 | 2 | 
 | 2022-11-09 | 94 | 2 | 
 | 2022-11-08 | 94 | 2 | 

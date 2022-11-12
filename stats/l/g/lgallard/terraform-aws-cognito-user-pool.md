@@ -1,6 +1,6 @@
 # lgallard/terraform-aws-cognito-user-pool - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 63 | 72 | 
 | 2022-11-10 | 63 | 72 | 
 | 2022-11-09 | 62 | 72 | 
 | 2022-11-08 | 62 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 62 | 70 | 
 | 2022-10-14 | 62 | 70 | 
 | 2022-10-13 | 62 | 70 | 
-| 2022-10-12 | 62 | 70 | 
 

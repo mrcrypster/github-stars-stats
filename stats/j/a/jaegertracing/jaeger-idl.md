@@ -1,10 +1,10 @@
 # jaegertracing/jaeger-idl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 64
 
-★ Stars: 66
+★ Stars: 67
 
 [Open repository](https://github.com/jaegertracing/jaeger-idl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 67 | 64 | 
 | 2022-11-10 | 66 | 64 | 
 | 2022-11-09 | 66 | 64 | 
 | 2022-11-08 | 66 | 63 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 64 | 63 | 
 | 2022-10-14 | 64 | 63 | 
 | 2022-10-13 | 64 | 63 | 
-| 2022-10-12 | 64 | 63 | 
 

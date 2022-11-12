@@ -1,6 +1,6 @@
 # HeapsIO/hide - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 412 | 46 | 
 | 2022-11-10 | 412 | 46 | 
 | 2022-11-09 | 414 | 46 | 
 | 2022-11-08 | 414 | 46 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 412 | 45 | 
 | 2022-10-15 | 411 | 45 | 
 | 2022-10-14 | 411 | 45 | 
-| 2022-10-13 | 411 | 45 | 
 

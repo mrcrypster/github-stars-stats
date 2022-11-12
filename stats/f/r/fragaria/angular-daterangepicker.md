@@ -1,10 +1,10 @@
 # fragaria/angular-daterangepicker - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 376
+☋ Forks: 377
 
-★ Stars: 522
+★ Stars: 523
 
 [Open repository](https://github.com/fragaria/angular-daterangepicker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 523 | 377 | 
 | 2022-11-10 | 522 | 376 | 
 | 2022-11-09 | 522 | 376 | 
 | 2022-11-08 | 522 | 376 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 522 | 377 | 
 | 2022-10-14 | 522 | 377 | 
 | 2022-10-13 | 522 | 377 | 
-| 2022-10-12 | 522 | 377 | 
 

@@ -1,10 +1,10 @@
 # BoiseState/CS321-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 22
 
-★ Stars: 3
+★ Stars: 4
 
 [Open repository](https://github.com/BoiseState/CS321-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 4 | 22 | 
 | 2022-11-10 | 3 | 22 | 
 | 2022-11-09 | 3 | 22 | 
 | 2022-11-08 | 3 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2 | 21 | 
 | 2022-10-14 | 2 | 20 | 
 | 2022-10-13 | 2 | 20 | 
-| 2022-10-12 | 2 | 20 | 
 

@@ -1,10 +1,10 @@
 # d0r1h/ML-University - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 81
 
-★ Stars: 577
+★ Stars: 578
 
 [Open repository](https://github.com/d0r1h/ML-University)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 578 | 81 | 
 | 2022-11-10 | 577 | 81 | 
 | 2022-11-09 | 577 | 81 | 
 | 2022-11-08 | 577 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 574 | 80 | 
 | 2022-10-14 | 573 | 80 | 
 | 2022-10-13 | 573 | 80 | 
-| 2022-10-12 | 573 | 80 | 
 

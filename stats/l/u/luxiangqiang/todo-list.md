@@ -1,10 +1,10 @@
 # luxiangqiang/todo-list - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 5
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/luxiangqiang/todo-list)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 32 | 5 | 
 | 2022-11-11 | 31 | 5 | 
 | 2022-11-09 | 31 | 5 | 
 | 2022-11-08 | 31 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 31 | 4 | 
 | 2022-10-14 | 31 | 4 | 
 | 2022-10-13 | 31 | 4 | 
-| 2022-10-12 | 31 | 4 | 
 

@@ -1,10 +1,10 @@
 # DLR-RM/stable-baselines3 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 995
+☋ Forks: 994
 
-★ Stars: 4404
+★ Stars: 4411
 
 [Open repository](https://github.com/DLR-RM/stable-baselines3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 4411 | 994 | 
 | 2022-11-10 | 4404 | 995 | 
 | 2022-11-09 | 4397 | 994 | 
 | 2022-11-08 | 4392 | 994 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 4281 | 966 | 
 | 2022-10-14 | 4276 | 966 | 
 | 2022-10-13 | 4269 | 964 | 
-| 2022-10-12 | 4262 | 963 | 
 

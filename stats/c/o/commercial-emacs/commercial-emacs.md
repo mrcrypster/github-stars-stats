@@ -1,10 +1,10 @@
 # commercial-emacs/commercial-emacs - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 6
 
-★ Stars: 287
+★ Stars: 288
 
 [Open repository](https://github.com/commercial-emacs/commercial-emacs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 288 | 6 | 
 | 2022-11-10 | 287 | 6 | 
 | 2022-11-09 | 285 | 6 | 
 | 2022-11-08 | 285 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 281 | 6 | 
 | 2022-10-14 | 281 | 6 | 
 | 2022-10-13 | 280 | 6 | 
-| 2022-10-12 | 278 | 6 | 
 

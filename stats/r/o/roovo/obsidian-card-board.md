@@ -1,10 +1,10 @@
 # roovo/obsidian-card-board - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 8
 
-★ Stars: 179
+★ Stars: 180
 
 [Open repository](https://github.com/roovo/obsidian-card-board)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 180 | 8 | 
 | 2022-11-10 | 179 | 8 | 
 | 2022-11-09 | 179 | 8 | 
 | 2022-11-08 | 179 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 148 | 8 | 
 | 2022-10-14 | 148 | 8 | 
 | 2022-10-13 | 148 | 8 | 
-| 2022-10-12 | 148 | 8 | 
 

@@ -1,6 +1,6 @@
 # Activiti/activiti-cloud-full-chart - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 12 | 21 | 
 | 2022-11-10 | 12 | 21 | 
 | 2022-11-09 | 12 | 21 | 
 | 2022-11-08 | 12 | 21 | 

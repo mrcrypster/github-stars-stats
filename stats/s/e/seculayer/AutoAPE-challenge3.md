@@ -1,6 +1,6 @@
 # seculayer/AutoAPE-challenge3 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 23
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 14 | 23 | 
 | 2022-11-10 | 14 | 23 | 
 

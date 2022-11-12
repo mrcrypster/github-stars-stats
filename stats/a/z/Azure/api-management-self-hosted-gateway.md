@@ -1,6 +1,6 @@
 # Azure/api-management-self-hosted-gateway - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 30 | 14 | 
 | 2022-11-10 | 30 | 14 | 
 | 2022-11-09 | 30 | 14 | 
 | 2022-11-08 | 30 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 29 | 13 | 
 | 2022-10-14 | 29 | 13 | 
 | 2022-10-13 | 29 | 13 | 
-| 2022-10-12 | 29 | 13 | 
 

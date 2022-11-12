@@ -1,10 +1,10 @@
 # divanov11/Hackathon---Code-Battle-Edition - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 5
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/divanov11/Hackathon---Code-Battle-Edition)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 46 | 5 | 
 | 2022-11-10 | 45 | 5 | 
 | 2022-11-09 | 45 | 5 | 
 | 2022-11-08 | 45 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 46 | 5 | 
 | 2022-10-14 | 46 | 5 | 
 | 2022-10-13 | 46 | 5 | 
-| 2022-10-12 | 46 | 5 | 
 

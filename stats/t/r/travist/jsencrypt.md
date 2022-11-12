@@ -1,10 +1,10 @@
 # travist/jsencrypt - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1970
+☋ Forks: 1973
 
-★ Stars: 6027
+★ Stars: 6028
 
 [Open repository](https://github.com/travist/jsencrypt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6028 | 1973 | 
 | 2022-11-10 | 6027 | 1970 | 
 | 2022-11-09 | 6028 | 1970 | 
 | 2022-11-08 | 6024 | 1968 | 

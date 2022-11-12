@@ -1,6 +1,6 @@
 # star-sg/NotQuite0day - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 66 | 13 | 
 | 2022-11-10 | 66 | 13 | 
 | 2022-11-09 | 67 | 13 | 
 | 2022-11-08 | 67 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 68 | 13 | 
 | 2022-10-14 | 68 | 13 | 
 | 2022-10-13 | 68 | 13 | 
-| 2022-10-12 | 68 | 13 | 
 

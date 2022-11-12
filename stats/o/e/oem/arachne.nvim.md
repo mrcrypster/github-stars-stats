@@ -1,6 +1,6 @@
 # oem/arachne.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 26 | - | 
 | 2022-11-10 | 26 | - | 
 | 2022-11-09 | 26 | - | 
 | 2022-11-08 | 26 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 25 | - | 
 | 2022-10-14 | 25 | - | 
 | 2022-10-13 | 25 | - | 
-| 2022-10-12 | 25 | - | 
 

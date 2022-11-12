@@ -1,6 +1,6 @@
 # ShadowMario/PsychEngine-AprilFools - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 12 | 10 | 
 | 2022-11-10 | 12 | 10 | 
 | 2022-11-09 | 12 | 10 | 
 | 2022-11-08 | 12 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 13 | 10 | 
 | 2022-10-14 | 13 | 10 | 
 | 2022-10-13 | 13 | 10 | 
-| 2022-10-12 | 13 | 10 | 
 

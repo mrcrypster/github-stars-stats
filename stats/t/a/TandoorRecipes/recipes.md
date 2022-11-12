@@ -1,10 +1,10 @@
 # TandoorRecipes/recipes - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 372
 
-★ Stars: 3543
+★ Stars: 3544
 
 [Open repository](https://github.com/TandoorRecipes/recipes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3544 | 372 | 
 | 2022-11-10 | 3543 | 372 | 
 | 2022-11-09 | 3542 | 371 | 
 | 2022-11-08 | 3541 | 372 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3474 | 349 | 
 | 2022-10-14 | 3474 | 347 | 
 | 2022-10-13 | 3472 | 347 | 
-| 2022-10-12 | 3471 | 348 | 
 

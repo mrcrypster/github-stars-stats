@@ -1,6 +1,6 @@
 # AguzzTN54/Genshin-Impact-Wish-Simulator - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 58 | 26 | 
 | 2022-11-10 | 58 | 26 | 
 | 2022-11-09 | 58 | 26 | 
 | 2022-11-08 | 58 | 26 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 52 | 21 | 
 | 2022-10-14 | 51 | 21 | 
 | 2022-10-13 | 50 | 21 | 
-| 2022-10-12 | 50 | 21 | 
 

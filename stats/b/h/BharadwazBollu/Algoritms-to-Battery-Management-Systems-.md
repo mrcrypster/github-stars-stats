@@ -1,10 +1,10 @@
 # BharadwazBollu/Algoritms-to-Battery-Management-Systems- - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/BharadwazBollu/Algoritms-to-Battery-Management-Systems-)
 
@@ -13,7 +13,8 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-11 | 13 | 6 | 
+| 2022-11-12 | 14 | 7 | 
+| 2022-11-11 | 14 | 7 | 
 | 2022-11-10 | 13 | 6 | 
 | 2022-11-09 | 12 | 6 | 
 | 2022-11-08 | 12 | 6 | 

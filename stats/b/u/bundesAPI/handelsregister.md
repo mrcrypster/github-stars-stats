@@ -1,6 +1,6 @@
 # bundesAPI/handelsregister - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 201 | 14 | 
 | 2022-11-10 | 201 | 14 | 
 | 2022-11-09 | 201 | 14 | 
 | 2022-11-08 | 201 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 196 | 12 | 
 | 2022-10-14 | 196 | 12 | 
 | 2022-10-13 | 195 | 12 | 
-| 2022-10-12 | 195 | 12 | 
 

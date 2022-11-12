@@ -1,6 +1,6 @@
 # jazzychad/bridge-trainer - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 7 | 1 | 
+| 2022-11-11 | 7 | 1 | 
 | 2022-11-10 | 7 | 1 | 
 | 2022-11-09 | 7 | 1 | 
 

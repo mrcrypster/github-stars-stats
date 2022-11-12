@@ -1,10 +1,10 @@
 # skeeto/elfeed - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 101
 
-★ Stars: 1265
+★ Stars: 1266
 
 [Open repository](https://github.com/skeeto/elfeed)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1266 | 101 | 
 | 2022-11-10 | 1265 | 101 | 
 | 2022-11-09 | 1265 | 101 | 
 | 2022-11-08 | 1265 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1251 | 100 | 
 | 2022-10-14 | 1251 | 100 | 
 | 2022-10-13 | 1250 | 100 | 
-| 2022-10-12 | 1250 | 100 | 
 

@@ -1,6 +1,6 @@
 # brockelmore/memmove - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 153 | 5 | 
 | 2022-11-10 | 153 | 5 | 
 | 2022-11-09 | 153 | 5 | 
 | 2022-11-08 | 152 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 149 | 5 | 
 | 2022-10-14 | 149 | 5 | 
 | 2022-10-13 | 149 | 5 | 
-| 2022-10-12 | 149 | 5 | 
 

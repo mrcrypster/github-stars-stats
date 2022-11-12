@@ -1,10 +1,10 @@
 # SoftwareBrothers/adminjs - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 474
+☋ Forks: 473
 
-★ Stars: 6090
+★ Stars: 6099
 
 [Open repository](https://github.com/SoftwareBrothers/adminjs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6099 | 473 | 
 | 2022-11-10 | 6090 | 474 | 
 | 2022-11-09 | 6088 | 473 | 
 | 2022-11-08 | 6082 | 472 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 5698 | 452 | 
 | 2022-10-14 | 5687 | 452 | 
 | 2022-10-13 | 5646 | 450 | 
-| 2022-10-12 | 5636 | 450 | 
 

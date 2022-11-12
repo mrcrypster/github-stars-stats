@@ -1,6 +1,6 @@
 # zellerin/http2 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 20 | - | 
 | 2022-11-10 | 20 | - | 
 | 2022-11-09 | 20 | - | 
 | 2022-11-08 | 20 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 19 | - | 
 | 2022-10-15 | 19 | - | 
 | 2022-10-14 | 19 | - | 
-| 2022-10-13 | 19 | - | 
 

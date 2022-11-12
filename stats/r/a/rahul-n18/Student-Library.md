@@ -1,6 +1,6 @@
 # rahul-n18/Student-Library - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 94
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 62 | 94 | 
 | 2022-11-10 | 62 | 94 | 
 | 2022-11-09 | 62 | 94 | 
 | 2022-11-08 | 62 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 61 | 83 | 
 | 2022-10-14 | 61 | 81 | 
 | 2022-10-13 | 59 | 79 | 
-| 2022-10-12 | 57 | 80 | 
 

@@ -1,6 +1,6 @@
 # RWTH-HPC/CMake-codecov - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 82 | 34 | 
 | 2022-11-10 | 82 | 34 | 
 | 2022-11-09 | 82 | 34 | 
 | 2022-11-08 | 82 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 81 | 32 | 
 | 2022-10-15 | 81 | 32 | 
 | 2022-10-14 | 81 | 32 | 
-| 2022-10-13 | 81 | 32 | 
 

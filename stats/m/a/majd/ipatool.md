@@ -1,10 +1,10 @@
 # majd/ipatool - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
-☋ Forks: 256
+☋ Forks: 257
 
-★ Stars: 2801
+★ Stars: 2805
 
 [Open repository](https://github.com/majd/ipatool)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2805 | 257 | 
 | 2022-11-10 | 2801 | 256 | 
 | 2022-11-09 | 2796 | 256 | 
 | 2022-11-08 | 2794 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2680 | 241 | 
 | 2022-10-14 | 2679 | 241 | 
 | 2022-10-13 | 2675 | 240 | 
-| 2022-10-12 | 2673 | 240 | 
 

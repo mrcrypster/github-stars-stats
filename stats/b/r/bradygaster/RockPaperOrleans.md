@@ -1,10 +1,10 @@
 # bradygaster/RockPaperOrleans - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 6
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/bradygaster/RockPaperOrleans)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 14 | 6 | 
 | 2022-11-10 | 13 | 6 | 
 

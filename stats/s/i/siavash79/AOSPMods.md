@@ -1,10 +1,10 @@
 # siavash79/AOSPMods - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 49
+☋ Forks: 50
 
-★ Stars: 560
+★ Stars: 562
 
 [Open repository](https://github.com/siavash79/AOSPMods)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 562 | 50 | 
 | 2022-11-10 | 560 | 49 | 
 | 2022-11-09 | 556 | 49 | 
 | 2022-11-08 | 556 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 491 | 46 | 
 | 2022-10-14 | 487 | 46 | 
 | 2022-10-13 | 481 | 46 | 
-| 2022-10-12 | 473 | 46 | 
 

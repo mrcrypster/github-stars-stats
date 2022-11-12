@@ -1,10 +1,10 @@
 # lapce/lapce - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 584
+☋ Forks: 585
 
-★ Stars: 20246
+★ Stars: 20266
 
 [Open repository](https://github.com/lapce/lapce)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 20266 | 585 | 
 | 2022-11-10 | 20246 | 584 | 
 | 2022-11-09 | 20239 | 585 | 
 | 2022-11-08 | 20199 | 583 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 19477 | 551 | 
 | 2022-10-14 | 19414 | 547 | 
 | 2022-10-13 | 19320 | 545 | 
-| 2022-10-12 | 19121 | 537 | 
 

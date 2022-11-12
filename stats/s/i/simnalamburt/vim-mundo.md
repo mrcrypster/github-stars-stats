@@ -1,10 +1,10 @@
 # simnalamburt/vim-mundo - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 28
 
-★ Stars: 682
+★ Stars: 684
 
 [Open repository](https://github.com/simnalamburt/vim-mundo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 684 | 28 | 
 | 2022-11-10 | 682 | 28 | 
 | 2022-11-09 | 681 | 28 | 
 | 2022-11-08 | 681 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 679 | 27 | 
 | 2022-10-14 | 679 | 27 | 
 | 2022-10-13 | 679 | 27 | 
-| 2022-10-12 | 679 | 27 | 
 

@@ -1,6 +1,6 @@
 # HenriqueAJNB/data-science-escalavel - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 48 | 12 | 
 | 2022-11-10 | 48 | 12 | 
 | 2022-11-09 | 48 | 12 | 
 | 2022-11-08 | 48 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 41 | 11 | 
 | 2022-10-14 | 41 | 11 | 
 | 2022-10-13 | 41 | 11 | 
-| 2022-10-12 | 41 | 11 | 
 

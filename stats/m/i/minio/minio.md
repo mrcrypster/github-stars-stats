@@ -1,10 +1,10 @@
 # minio/minio - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 4293
+☋ Forks: 4297
 
-★ Stars: 36210
+★ Stars: 36227
 
 [Open repository](https://github.com/minio/minio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 36227 | 4297 | 
 | 2022-11-10 | 36210 | 4293 | 
 | 2022-11-09 | 36201 | 4293 | 
 | 2022-11-08 | 36180 | 4288 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 35732 | 4236 | 
 | 2022-10-14 | 35723 | 4234 | 
 | 2022-10-13 | 35708 | 4227 | 
-| 2022-10-12 | 35694 | 4227 | 
 

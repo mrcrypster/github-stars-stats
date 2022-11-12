@@ -1,10 +1,10 @@
 # EqualityAI/responsible_mlops - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 15
 
 [Open repository](https://github.com/EqualityAI/responsible_mlops)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 15 | - | 
 | 2022-11-10 | 14 | - | 
 | 2022-11-09 | 14 | - | 
 | 2022-11-08 | 14 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 13 | - | 
 | 2022-10-14 | 13 | - | 
 | 2022-10-13 | 13 | - | 
-| 2022-10-12 | 13 | - | 
 

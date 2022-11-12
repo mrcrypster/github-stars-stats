@@ -1,8 +1,8 @@
 # Nrosa01/pmd-quiz-online - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2
+☋ Forks: 3
 
 ★ Stars: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 20 | 3 | 
 | 2022-11-10 | 20 | 2 | 
 | 2022-11-09 | 19 | 2 | 
 | 2022-11-08 | 19 | 2 | 

@@ -1,6 +1,6 @@
 # PerlAlien/Alien-Build - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 17 | 24 | 
 | 2022-11-10 | 17 | 24 | 
 | 2022-11-09 | 17 | 24 | 
 | 2022-11-08 | 17 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 17 | 25 | 
 | 2022-10-15 | 17 | 25 | 
 | 2022-10-14 | 17 | 25 | 
-| 2022-10-13 | 17 | 25 | 
 

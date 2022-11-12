@@ -1,10 +1,10 @@
 # agalwood/Motrix - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 3944
 
-★ Stars: 34244
+★ Stars: 34256
 
 [Open repository](https://github.com/agalwood/Motrix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 34256 | 3944 | 
 | 2022-11-10 | 34244 | 3944 | 
 | 2022-11-09 | 34229 | 3944 | 
 | 2022-11-08 | 34209 | 3938 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 33852 | 3907 | 
 | 2022-10-14 | 33835 | 3907 | 
 | 2022-10-13 | 33816 | 3906 | 
-| 2022-10-12 | 33806 | 3905 | 
 

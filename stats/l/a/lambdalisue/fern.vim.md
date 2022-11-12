@@ -1,10 +1,10 @@
 # lambdalisue/fern.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 47
 
-★ Stars: 1017
+★ Stars: 1016
 
 [Open repository](https://github.com/lambdalisue/fern.vim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1016 | 47 | 
 | 2022-11-10 | 1017 | 47 | 
 | 2022-11-09 | 1016 | 47 | 
 | 2022-11-08 | 1016 | 47 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 994 | 46 | 
 | 2022-10-14 | 993 | 46 | 
 | 2022-10-13 | 990 | 46 | 
-| 2022-10-12 | 991 | 46 | 
 

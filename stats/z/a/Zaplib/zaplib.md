@@ -1,6 +1,6 @@
 # Zaplib/zaplib - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1164 | 32 | 
 | 2022-11-10 | 1164 | 32 | 
 | 2022-11-09 | 1164 | 32 | 
 | 2022-11-08 | 1164 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1164 | 30 | 
 | 2022-10-14 | 1164 | 30 | 
 | 2022-10-13 | 1164 | 30 | 
-| 2022-10-12 | 1166 | 30 | 
 

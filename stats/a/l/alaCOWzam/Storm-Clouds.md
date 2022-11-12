@@ -1,6 +1,6 @@
 # alaCOWzam/Storm-Clouds - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 24 | 4 | 
 | 2022-11-10 | 24 | 4 | 
 | 2022-11-09 | 24 | 4 | 
 | 2022-11-08 | 24 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 23 | 4 | 
 | 2022-10-14 | 23 | 4 | 
 | 2022-10-13 | 23 | 4 | 
-| 2022-10-12 | 23 | 4 | 
 

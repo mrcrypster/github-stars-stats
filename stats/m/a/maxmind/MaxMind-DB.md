@@ -1,6 +1,6 @@
 # maxmind/MaxMind-DB - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 212 | 47 | 
 | 2022-11-10 | 212 | 47 | 
 | 2022-11-09 | 212 | 47 | 
 | 2022-11-08 | 212 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 210 | 47 | 
 | 2022-10-14 | 210 | 47 | 
 | 2022-10-13 | 210 | 47 | 
-| 2022-10-12 | 210 | 47 | 
 

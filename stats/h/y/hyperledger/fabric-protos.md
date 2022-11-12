@@ -1,6 +1,6 @@
 # hyperledger/fabric-protos - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 36 | 59 | 
 | 2022-11-10 | 36 | 59 | 
 | 2022-11-09 | 36 | 59 | 
 | 2022-11-08 | 36 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 34 | 56 | 
 | 2022-10-14 | 34 | 56 | 
 | 2022-10-13 | 34 | 56 | 
-| 2022-10-12 | 34 | 56 | 
 

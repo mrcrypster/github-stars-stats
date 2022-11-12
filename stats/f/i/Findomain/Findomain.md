@@ -1,8 +1,8 @@
 # Findomain/Findomain - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 332
+☋ Forks: 333
 
 ★ Stars: 2613
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2613 | 333 | 
 | 2022-11-10 | 2613 | 332 | 
 | 2022-11-09 | 2613 | 332 | 
 | 2022-11-08 | 2611 | 332 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2595 | 326 | 
 | 2022-10-14 | 2595 | 326 | 
 | 2022-10-13 | 2593 | 326 | 
-| 2022-10-12 | 2591 | 326 | 
 

@@ -1,10 +1,10 @@
 # quilljs/quill - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2918
+☋ Forks: 2917
 
-★ Stars: 34006
+★ Stars: 34013
 
 [Open repository](https://github.com/quilljs/quill)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 34013 | 2917 | 
 | 2022-11-10 | 34006 | 2918 | 
 | 2022-11-09 | 33997 | 2918 | 
 | 2022-11-08 | 33982 | 2915 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 33810 | 2894 | 
 | 2022-10-14 | 33804 | 2894 | 
 | 2022-10-13 | 33786 | 2893 | 
-| 2022-10-12 | 33777 | 2892 | 
 

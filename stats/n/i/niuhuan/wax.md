@@ -1,6 +1,6 @@
 # niuhuan/wax - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 144 | 1 | 
 | 2022-11-11 | 144 | 1 | 
 | 2022-11-10 | 144 | 1 | 
 | 2022-11-08 | 143 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 125 | 1 | 
 | 2022-10-14 | 123 | 1 | 
 | 2022-10-13 | 123 | 1 | 
-| 2022-10-12 | 122 | 1 | 
 

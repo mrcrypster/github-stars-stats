@@ -1,10 +1,10 @@
 # googleprojectzero/weggli - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 101
 
-★ Stars: 1941
+★ Stars: 1942
 
 [Open repository](https://github.com/googleprojectzero/weggli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1942 | 101 | 
 | 2022-11-10 | 1941 | 101 | 
 | 2022-11-09 | 1939 | 101 | 
 | 2022-11-08 | 1940 | 101 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1875 | 95 | 
 | 2022-10-14 | 1872 | 95 | 
 | 2022-10-13 | 1872 | 95 | 
-| 2022-10-12 | 1872 | 95 | 
 

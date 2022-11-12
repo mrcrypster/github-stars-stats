@@ -1,10 +1,10 @@
 # jpetrucciani/nix - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 2
 
-★ Stars: 24
+★ Stars: 23
 
 [Open repository](https://github.com/jpetrucciani/nix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 23 | 2 | 
 | 2022-11-10 | 24 | 2 | 
 | 2022-11-09 | 24 | 2 | 
 | 2022-11-08 | 24 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 22 | 2 | 
 | 2022-10-14 | 21 | 2 | 
 | 2022-10-13 | 21 | 2 | 
-| 2022-10-12 | 21 | 2 | 
 

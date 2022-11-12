@@ -1,10 +1,10 @@
 # Sitoi/dailycheckin - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 867
 
-★ Stars: 3238
+★ Stars: 3242
 
 [Open repository](https://github.com/Sitoi/dailycheckin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3242 | 867 | 
 | 2022-11-10 | 3238 | 867 | 
 | 2022-11-09 | 3229 | 867 | 
 | 2022-11-08 | 3226 | 867 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3159 | 854 | 
 | 2022-10-14 | 3157 | 854 | 
 | 2022-10-13 | 3156 | 855 | 
-| 2022-10-12 | 3154 | 853 | 
 

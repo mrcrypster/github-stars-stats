@@ -1,10 +1,10 @@
 # jenndryden/Canadian-Tech-Internships-Summer-2023 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 84
 
-★ Stars: 1005
+★ Stars: 1007
 
 [Open repository](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1007 | 84 | 
 | 2022-11-10 | 1005 | 84 | 
 | 2022-11-09 | 1000 | 84 | 
 | 2022-11-08 | 1001 | 84 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 958 | 83 | 
 | 2022-10-14 | 956 | 82 | 
 | 2022-10-13 | 951 | 82 | 
-| 2022-10-12 | 950 | 82 | 
 

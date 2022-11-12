@@ -1,10 +1,10 @@
 # Nithur-M/work-from-anywhere - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 15
 
-★ Stars: 614
+★ Stars: 615
 
 [Open repository](https://github.com/Nithur-M/work-from-anywhere)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 615 | 15 | 
 | 2022-11-10 | 614 | 15 | 
 | 2022-11-09 | 614 | 15 | 
 | 2022-11-08 | 614 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 604 | 15 | 
 | 2022-10-14 | 604 | 15 | 
 | 2022-10-13 | 604 | 15 | 
-| 2022-10-12 | 603 | 15 | 
 

@@ -1,10 +1,10 @@
 # higan-emu/higan - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 96
 
-★ Stars: 914
+★ Stars: 918
 
 [Open repository](https://github.com/higan-emu/higan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 918 | 96 | 
 | 2022-11-10 | 914 | 96 | 
 | 2022-11-09 | 915 | 96 | 
 | 2022-11-08 | 914 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 906 | 95 | 
 | 2022-10-14 | 906 | 95 | 
 | 2022-10-13 | 905 | 95 | 
-| 2022-10-12 | 904 | 95 | 
 

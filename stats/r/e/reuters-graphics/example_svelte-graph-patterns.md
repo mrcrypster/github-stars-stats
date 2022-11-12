@@ -1,6 +1,6 @@
 # reuters-graphics/example_svelte-graph-patterns - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 106 | 6 | 
 | 2022-11-10 | 106 | 6 | 
 | 2022-11-09 | 106 | 6 | 
 | 2022-11-08 | 106 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 102 | 5 | 
 | 2022-10-14 | 102 | 5 | 
 | 2022-10-13 | 102 | 5 | 
-| 2022-10-12 | 102 | 5 | 
 

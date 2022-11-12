@@ -1,6 +1,6 @@
 # shreyaschavhan/linux-commands-cheatsheet - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 131 | 12 | 
 | 2022-11-10 | 131 | 12 | 
 | 2022-11-09 | 130 | 12 | 
 | 2022-11-08 | 130 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 112 | 11 | 
 | 2022-10-14 | 111 | 10 | 
 | 2022-10-13 | 107 | 10 | 
-| 2022-10-12 | 105 | 10 | 
 

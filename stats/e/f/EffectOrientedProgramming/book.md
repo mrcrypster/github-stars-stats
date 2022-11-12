@@ -1,10 +1,10 @@
 # EffectOrientedProgramming/book - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 7
 
-★ Stars: 169
+★ Stars: 170
 
 [Open repository](https://github.com/EffectOrientedProgramming/book)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 170 | 7 | 
 | 2022-11-10 | 169 | 7 | 
 | 2022-11-09 | 169 | 7 | 
 | 2022-11-08 | 161 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 147 | 5 | 
 | 2022-10-14 | 147 | 5 | 
 | 2022-10-13 | 147 | 5 | 
-| 2022-10-12 | 147 | 5 | 
 

@@ -1,10 +1,10 @@
 # dotnet-presentations/dotnet-maui-workshop - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 278
 
-★ Stars: 1156
+★ Stars: 1158
 
 [Open repository](https://github.com/dotnet-presentations/dotnet-maui-workshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1158 | 278 | 
 | 2022-11-11 | 1156 | 278 | 
 | 2022-11-10 | 1154 | 276 | 
 | 2022-11-08 | 1154 | 276 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 1122 | 260 | 
 | 2022-10-14 | 1121 | 261 | 
 | 2022-10-13 | 1120 | 260 | 
-| 2022-10-12 | 1119 | 258 | 
 

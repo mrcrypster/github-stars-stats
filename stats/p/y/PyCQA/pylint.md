@@ -1,10 +1,10 @@
 # PyCQA/pylint - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 929
 
-★ Stars: 4323
+★ Stars: 4324
 
 [Open repository](https://github.com/PyCQA/pylint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 4324 | 929 | 
 | 2022-11-10 | 4323 | 929 | 
 | 2022-11-09 | 4321 | 927 | 
 | 2022-11-08 | 4320 | 927 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 4279 | 922 | 
 | 2022-10-14 | 4277 | 920 | 
 | 2022-10-13 | 4274 | 918 | 
-| 2022-10-12 | 4273 | 918 | 
 

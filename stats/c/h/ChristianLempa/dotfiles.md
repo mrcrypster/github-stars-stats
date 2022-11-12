@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 11
 
-☋ Forks: 181
+☋ Forks: 182
 
-★ Stars: 319
+★ Stars: 321
 
 [Open repository](https://github.com/ChristianLempa/dotfiles)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-11 | 319 | 181 | 
+| 2022-11-11 | 321 | 182 | 
 | 2022-11-10 | 317 | 181 | 
 

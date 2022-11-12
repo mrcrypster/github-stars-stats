@@ -1,6 +1,6 @@
 # JuliaLabs/LULESH.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 5 | 4 | 
 | 2022-11-10 | 5 | 4 | 
 | 2022-11-09 | 5 | 4 | 
 | 2022-11-08 | 5 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 5 | 4 | 
 | 2022-10-15 | 5 | 4 | 
 | 2022-10-14 | 5 | 4 | 
-| 2022-10-13 | 5 | 4 | 
 

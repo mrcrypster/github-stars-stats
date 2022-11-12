@@ -1,10 +1,10 @@
 # clojure-emacs/clojure-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 236
 
-★ Stars: 857
+★ Stars: 858
 
 [Open repository](https://github.com/clojure-emacs/clojure-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 858 | 236 | 
 | 2022-11-10 | 857 | 236 | 
 | 2022-11-09 | 857 | 236 | 
 | 2022-11-08 | 857 | 237 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 854 | 237 | 
 | 2022-10-14 | 853 | 237 | 
 | 2022-10-13 | 853 | 237 | 
-| 2022-10-12 | 853 | 237 | 
 

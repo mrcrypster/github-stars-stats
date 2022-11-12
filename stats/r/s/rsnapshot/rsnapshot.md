@@ -1,6 +1,6 @@
 # rsnapshot/rsnapshot - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2624 | 241 | 
 | 2022-11-10 | 2624 | 241 | 
 | 2022-11-09 | 2625 | 240 | 
 | 2022-11-08 | 2624 | 239 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 2613 | 239 | 
 | 2022-10-15 | 2613 | 238 | 
 | 2022-10-14 | 2612 | 238 | 
-| 2022-10-13 | 2612 | 238 | 
 

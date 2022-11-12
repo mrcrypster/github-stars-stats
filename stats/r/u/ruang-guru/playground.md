@@ -1,6 +1,6 @@
 # ruang-guru/playground - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 378
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 42 | 378 | 
 | 2022-11-11 | 42 | 378 | 
 | 2022-11-09 | 42 | 378 | 
 | 2022-11-08 | 43 | 378 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 42 | 378 | 
 | 2022-10-14 | 42 | 378 | 
 | 2022-10-13 | 42 | 378 | 
-| 2022-10-12 | 41 | 378 | 
 

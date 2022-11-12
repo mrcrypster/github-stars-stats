@@ -1,8 +1,8 @@
 # wellle/context.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 1027
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1027 | 14 | 
 | 2022-11-10 | 1027 | 13 | 
 | 2022-11-09 | 1026 | 13 | 
 | 2022-11-08 | 1024 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1017 | 13 | 
 | 2022-10-14 | 1017 | 13 | 
 | 2022-10-13 | 1016 | 13 | 
-| 2022-10-12 | 1016 | 13 | 
 

@@ -1,10 +1,10 @@
 # google-research/vision_transformer - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 850
 
-★ Stars: 6157
+★ Stars: 6163
 
 [Open repository](https://github.com/google-research/vision_transformer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6163 | 850 | 
 | 2022-11-10 | 6157 | 850 | 
 | 2022-11-09 | 6149 | 848 | 
 | 2022-11-08 | 6142 | 847 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 6015 | 831 | 
 | 2022-10-14 | 6012 | 831 | 
 | 2022-10-13 | 6007 | 830 | 
-| 2022-10-12 | 6004 | 828 | 
 

@@ -1,10 +1,10 @@
 # ZhooL/FS22_EnhancedVehicle - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 34
 
-★ Stars: 176
+★ Stars: 175
 
 [Open repository](https://github.com/ZhooL/FS22_EnhancedVehicle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 175 | 34 | 
 | 2022-11-10 | 176 | 34 | 
 | 2022-11-09 | 176 | 34 | 
 | 2022-11-08 | 176 | 34 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 174 | 34 | 
 | 2022-10-14 | 174 | 34 | 
 | 2022-10-13 | 174 | 34 | 
-| 2022-10-12 | 174 | 34 | 
 

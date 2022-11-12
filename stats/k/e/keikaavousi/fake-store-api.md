@@ -1,8 +1,8 @@
 # keikaavousi/fake-store-api - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 183
+☋ Forks: 184
 
 ★ Stars: 937
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 937 | 184 | 
 | 2022-11-10 | 937 | 183 | 
 | 2022-11-09 | 936 | 183 | 
 | 2022-11-08 | 934 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 895 | 175 | 
 | 2022-10-14 | 892 | 175 | 
 | 2022-10-13 | 891 | 175 | 
-| 2022-10-12 | 891 | 175 | 
 

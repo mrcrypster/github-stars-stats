@@ -1,10 +1,10 @@
 # quarbby/FYP-LaTeX-Template - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 44
+★ Stars: 45
 
 [Open repository](https://github.com/quarbby/FYP-LaTeX-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 45 | 40 | 
 | 2022-11-10 | 44 | 39 | 
 | 2022-11-09 | 44 | 39 | 
 | 2022-11-08 | 44 | 39 | 

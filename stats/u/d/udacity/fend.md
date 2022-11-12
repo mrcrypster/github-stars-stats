@@ -1,6 +1,6 @@
 # udacity/fend - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 3617
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 262 | 3617 | 
 | 2022-11-10 | 262 | 3617 | 
 | 2022-11-09 | 262 | 3616 | 
 | 2022-11-08 | 262 | 3617 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 254 | 3534 | 
 | 2022-10-14 | 254 | 3532 | 
 | 2022-10-13 | 254 | 3531 | 
-| 2022-10-12 | 254 | 3528 | 
 

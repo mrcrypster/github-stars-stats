@@ -1,10 +1,10 @@
 # aschmelyun/docker-compose-wordpress - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 98
 
-★ Stars: 154
+★ Stars: 155
 
 [Open repository](https://github.com/aschmelyun/docker-compose-wordpress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 155 | 98 | 
 | 2022-11-10 | 154 | 98 | 
 | 2022-11-09 | 154 | 98 | 
 | 2022-11-08 | 154 | 98 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 149 | 95 | 
 | 2022-10-14 | 147 | 95 | 
 | 2022-10-13 | 147 | 95 | 
-| 2022-10-12 | 147 | 95 | 
 

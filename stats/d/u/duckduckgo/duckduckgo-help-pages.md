@@ -1,10 +1,10 @@
 # duckduckgo/duckduckgo-help-pages - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 54
 
-★ Stars: 61
+★ Stars: 63
 
 [Open repository](https://github.com/duckduckgo/duckduckgo-help-pages)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 63 | 54 | 
 | 2022-11-10 | 61 | 54 | 
 | 2022-11-09 | 61 | 54 | 
 | 2022-11-08 | 61 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 57 | 51 | 
 | 2022-10-14 | 57 | 51 | 
 | 2022-10-13 | 57 | 51 | 
-| 2022-10-12 | 57 | 51 | 
 

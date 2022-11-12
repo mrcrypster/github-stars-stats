@@ -1,10 +1,10 @@
 # tangtangcoding/C-C- - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 1094
 
-★ Stars: 3974
+★ Stars: 3980
 
 [Open repository](https://github.com/tangtangcoding/C-C-)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3980 | 1094 | 
 | 2022-11-10 | 3974 | 1094 | 
 | 2022-11-09 | 3969 | 1092 | 
 | 2022-11-08 | 3962 | 1092 | 

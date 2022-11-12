@@ -1,10 +1,10 @@
 # toutiaoio/A-Guide-To-Stockpiling - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 41
 
-★ Stars: 358
+★ Stars: 360
 
 [Open repository](https://github.com/toutiaoio/A-Guide-To-Stockpiling)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 360 | 41 | 
 | 2022-11-10 | 358 | 41 | 
 | 2022-11-09 | 358 | 41 | 
 | 2022-11-08 | 358 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 355 | 41 | 
 | 2022-10-14 | 355 | 41 | 
 | 2022-10-13 | 355 | 41 | 
-| 2022-10-12 | 355 | 41 | 
 

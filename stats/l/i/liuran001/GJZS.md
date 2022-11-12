@@ -1,10 +1,10 @@
 # liuran001/GJZS - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 47
 
-★ Stars: 535
+★ Stars: 537
 
 [Open repository](https://github.com/liuran001/GJZS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 537 | 47 | 
 | 2022-11-10 | 535 | 47 | 
 | 2022-11-09 | 534 | 47 | 
 | 2022-11-08 | 534 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 515 | 46 | 
 | 2022-10-14 | 516 | 46 | 
 | 2022-10-13 | 516 | 46 | 
-| 2022-10-12 | 515 | 46 | 
 

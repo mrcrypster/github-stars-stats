@@ -1,6 +1,6 @@
 # dathlin/HslCommunication - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 475
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1044 | 475 | 
 | 2022-11-10 | 1044 | 475 | 
 | 2022-11-09 | 1044 | 475 | 
 | 2022-11-08 | 1044 | 475 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 1019 | 469 | 
 | 2022-10-15 | 1019 | 469 | 
 | 2022-10-14 | 1018 | 469 | 
-| 2022-10-13 | 1014 | 467 | 
 

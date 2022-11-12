@@ -1,10 +1,10 @@
 # kyazdani42/nvim-tree.lua - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 404
 
-★ Stars: 3610
+★ Stars: 3617
 
 [Open repository](https://github.com/kyazdani42/nvim-tree.lua)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3617 | 404 | 
 | 2022-11-10 | 3610 | 404 | 
 | 2022-11-09 | 3607 | 402 | 
 | 2022-11-08 | 3602 | 398 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3427 | 370 | 
 | 2022-10-14 | 3419 | 369 | 
 | 2022-10-13 | 3413 | 369 | 
-| 2022-10-12 | 3403 | 369 | 
 

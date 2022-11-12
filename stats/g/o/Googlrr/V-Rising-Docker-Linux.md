@@ -1,6 +1,6 @@
 # Googlrr/V-Rising-Docker-Linux - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 36 | 34 | 
 | 2022-11-10 | 36 | 34 | 
 | 2022-11-09 | 36 | 34 | 
 | 2022-11-08 | 36 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 34 | 34 | 
 | 2022-10-15 | 34 | 34 | 
 | 2022-10-14 | 34 | 34 | 
-| 2022-10-13 | 34 | 34 | 
 

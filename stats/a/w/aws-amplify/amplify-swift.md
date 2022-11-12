@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 11
 
 ☋ Forks: 143
 
-★ Stars: 292
+★ Stars: 293
 
 [Open repository](https://github.com/aws-amplify/amplify-swift)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-11 | 292 | 143 | 
+| 2022-11-11 | 293 | 143 | 
 | 2022-11-10 | 292 | 143 | 
 | 2022-11-09 | 291 | 143 | 
 | 2022-11-08 | 289 | 143 | 

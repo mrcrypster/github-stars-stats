@@ -1,8 +1,8 @@
 # feunixs/RDP-FREE-W10 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | - | 29 | 
 | 2022-11-10 | - | 28 | 
 | 2022-11-09 | - | 28 | 
 | 2022-11-08 | - | 28 | 

@@ -1,10 +1,10 @@
 # LunarVim/Neovim-from-scratch - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 946
+☋ Forks: 943
 
-★ Stars: 3759
+★ Stars: 3767
 
 [Open repository](https://github.com/LunarVim/Neovim-from-scratch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 3767 | 943 | 
 | 2022-11-10 | 3759 | 946 | 
 | 2022-11-09 | 3755 | 943 | 
 | 2022-11-08 | 3751 | 940 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3518 | 892 | 
 | 2022-10-14 | 3518 | 893 | 
 | 2022-10-13 | 3508 | 890 | 
-| 2022-10-12 | 3503 | 887 | 
 

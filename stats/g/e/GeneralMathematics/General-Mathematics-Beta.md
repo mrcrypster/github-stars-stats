@@ -1,6 +1,6 @@
 # GeneralMathematics/General-Mathematics-Beta - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 11 | 92 | 
 | 2022-11-10 | 11 | 92 | 
 | 2022-11-09 | 11 | 91 | 
 | 2022-11-08 | 11 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 9 | 58 | 
 | 2022-10-14 | 9 | 58 | 
 | 2022-10-13 | 9 | 58 | 
-| 2022-10-12 | 9 | 56 | 
 

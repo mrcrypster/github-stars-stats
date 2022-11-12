@@ -1,10 +1,10 @@
 # Atcold/pytorch-Deep-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2053
+☋ Forks: 2059
 
-★ Stars: 6085
+★ Stars: 6097
 
 [Open repository](https://github.com/Atcold/pytorch-Deep-Learning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6097 | 2059 | 
 | 2022-11-10 | 6085 | 2053 | 
 | 2022-11-09 | 6078 | 2051 | 
 | 2022-11-08 | 6075 | 2051 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 6048 | 2038 | 
 | 2022-10-14 | 6048 | 2037 | 
 | 2022-10-13 | 6043 | 2032 | 
-| 2022-10-12 | 6042 | 2028 | 
 

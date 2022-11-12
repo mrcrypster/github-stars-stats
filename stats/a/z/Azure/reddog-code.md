@@ -1,10 +1,10 @@
 # Azure/reddog-code - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 57
 
-★ Stars: 108
+★ Stars: 109
 
 [Open repository](https://github.com/Azure/reddog-code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 109 | 57 | 
 | 2022-11-10 | 108 | 57 | 
 | 2022-11-09 | 108 | 57 | 
 | 2022-11-08 | 108 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 104 | 54 | 
 | 2022-10-15 | 104 | 54 | 
 | 2022-10-14 | 104 | 54 | 
-| 2022-10-13 | 104 | 54 | 
 

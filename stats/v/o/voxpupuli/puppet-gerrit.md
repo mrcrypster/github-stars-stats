@@ -1,6 +1,6 @@
 # voxpupuli/puppet-gerrit - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1 | 14 | 
 | 2022-11-10 | 1 | 14 | 
 | 2022-11-09 | 1 | 14 | 
 | 2022-11-08 | 1 | 14 | 

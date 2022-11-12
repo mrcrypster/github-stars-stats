@@ -1,6 +1,6 @@
 # EddieHubCommunity/good-first-issue-finder - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 134
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 185 | 134 | 
 | 2022-11-10 | 185 | 134 | 
 | 2022-11-09 | 185 | 134 | 
 | 2022-11-08 | 185 | 134 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 175 | 124 | 
 | 2022-10-14 | 174 | 124 | 
 | 2022-10-13 | 174 | 123 | 
-| 2022-10-12 | 172 | 123 | 
 

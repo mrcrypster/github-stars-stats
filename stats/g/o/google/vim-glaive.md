@@ -1,6 +1,6 @@
 # google/vim-glaive - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 74 | 21 | 
 | 2022-11-10 | 74 | 21 | 
 | 2022-11-09 | 74 | 21 | 
 | 2022-11-08 | 74 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 73 | 21 | 
 | 2022-10-14 | 73 | 21 | 
 | 2022-10-13 | 73 | 21 | 
-| 2022-10-12 | 73 | 21 | 
 

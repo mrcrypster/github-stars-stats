@@ -1,6 +1,6 @@
 # jvsell/dcw-app - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 6 | 8 | 
 | 2022-11-10 | 6 | 8 | 
 | 2022-11-09 | 6 | 8 | 
 | 2022-11-08 | 6 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 6 | 8 | 
 | 2022-10-14 | 6 | 8 | 
 | 2022-10-13 | 6 | 8 | 
-| 2022-10-12 | 6 | 8 | 
 

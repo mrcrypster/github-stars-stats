@@ -1,10 +1,10 @@
 # foundry-rs/foundry - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 629
+☋ Forks: 633
 
-★ Stars: 4667
+★ Stars: 4678
 
 [Open repository](https://github.com/foundry-rs/foundry)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 4678 | 633 | 
 | 2022-11-10 | 4667 | 629 | 
 | 2022-11-09 | 4657 | 626 | 
 | 2022-11-08 | 4647 | 627 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 4440 | 597 | 
 | 2022-10-14 | 4436 | 596 | 
 | 2022-10-13 | 4425 | 596 | 
-| 2022-10-12 | 4415 | 596 | 
 

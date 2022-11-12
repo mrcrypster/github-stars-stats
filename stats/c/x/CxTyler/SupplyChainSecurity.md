@@ -1,6 +1,6 @@
 # CxTyler/SupplyChainSecurity - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 4 | 20 | 
 | 2022-11-10 | 4 | 20 | 
 | 2022-11-09 | 4 | 20 | 
 | 2022-11-08 | 4 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 3 | 20 | 
 | 2022-10-14 | 3 | 20 | 
 | 2022-10-13 | 3 | 20 | 
-| 2022-10-12 | 3 | 20 | 
 

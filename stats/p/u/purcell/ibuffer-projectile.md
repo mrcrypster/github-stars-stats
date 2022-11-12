@@ -1,6 +1,6 @@
 # purcell/ibuffer-projectile - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 58 | 9 | 
 | 2022-11-10 | 58 | 9 | 
 | 2022-11-09 | 58 | 9 | 
 | 2022-11-08 | 58 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 57 | 9 | 
 | 2022-10-15 | 57 | 9 | 
 | 2022-10-14 | 57 | 9 | 
-| 2022-10-13 | 57 | 9 | 
 

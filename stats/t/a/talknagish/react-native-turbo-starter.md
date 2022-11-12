@@ -1,6 +1,6 @@
 # talknagish/react-native-turbo-starter - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 354 | 20 | 
 | 2022-11-10 | 354 | 20 | 
 | 2022-11-09 | 354 | 20 | 
 | 2022-11-08 | 354 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 353 | 20 | 
 | 2022-10-14 | 353 | 20 | 
 | 2022-10-13 | 353 | 20 | 
-| 2022-10-12 | 353 | 20 | 
 

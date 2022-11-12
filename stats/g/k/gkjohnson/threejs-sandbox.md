@@ -1,10 +1,10 @@
 # gkjohnson/threejs-sandbox - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 64
 
-★ Stars: 435
+★ Stars: 436
 
 [Open repository](https://github.com/gkjohnson/threejs-sandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 436 | 64 | 
 | 2022-11-10 | 435 | 64 | 
 | 2022-11-09 | 435 | 64 | 
 | 2022-11-08 | 435 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 429 | 61 | 
 | 2022-10-14 | 429 | 61 | 
 | 2022-10-13 | 429 | 61 | 
-| 2022-10-12 | 429 | 61 | 
 

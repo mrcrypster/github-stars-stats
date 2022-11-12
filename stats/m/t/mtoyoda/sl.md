@@ -1,10 +1,10 @@
 # mtoyoda/sl - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 379
 
-★ Stars: 2456
+★ Stars: 2457
 
 [Open repository](https://github.com/mtoyoda/sl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2457 | 379 | 
 | 2022-11-10 | 2456 | 379 | 
 | 2022-11-09 | 2456 | 378 | 
 | 2022-11-08 | 2455 | 377 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2452 | 377 | 
 | 2022-10-14 | 2449 | 377 | 
 | 2022-10-13 | 2447 | 377 | 
-| 2022-10-12 | 2446 | 376 | 
 

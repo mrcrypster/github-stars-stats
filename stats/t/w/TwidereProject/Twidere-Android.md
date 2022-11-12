@@ -1,10 +1,10 @@
 # TwidereProject/Twidere-Android - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 383
 
-★ Stars: 2657
+★ Stars: 2658
 
 [Open repository](https://github.com/TwidereProject/Twidere-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2658 | 383 | 
 | 2022-11-10 | 2657 | 383 | 
 | 2022-11-09 | 2656 | 383 | 
 | 2022-11-08 | 2656 | 383 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2651 | 382 | 
 | 2022-10-14 | 2650 | 382 | 
 | 2022-10-13 | 2649 | 382 | 
-| 2022-10-12 | 2649 | 382 | 
 

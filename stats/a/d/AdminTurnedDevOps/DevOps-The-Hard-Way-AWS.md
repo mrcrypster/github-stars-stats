@@ -1,8 +1,8 @@
 # AdminTurnedDevOps/DevOps-The-Hard-Way-AWS - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 781
+☋ Forks: 782
 
 ★ Stars: 1463
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1463 | 782 | 
 | 2022-11-10 | 1463 | 781 | 
 | 2022-11-09 | 1462 | 780 | 
 | 2022-11-08 | 1461 | 780 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1406 | 736 | 
 | 2022-10-14 | 1405 | 735 | 
 | 2022-10-13 | 1404 | 735 | 
-| 2022-10-12 | 1401 | 731 | 
 

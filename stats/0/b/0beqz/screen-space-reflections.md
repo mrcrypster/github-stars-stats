@@ -1,10 +1,10 @@
 # 0beqz/screen-space-reflections - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 28
 
-★ Stars: 415
+★ Stars: 417
 
 [Open repository](https://github.com/0beqz/screen-space-reflections)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 417 | 28 | 
 | 2022-11-10 | 415 | 28 | 
 | 2022-11-09 | 413 | 28 | 
 | 2022-11-08 | 412 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 377 | 27 | 
 | 2022-10-14 | 377 | 27 | 
 | 2022-10-13 | 377 | 27 | 
-| 2022-10-12 | 377 | 27 | 
 

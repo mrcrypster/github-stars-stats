@@ -1,6 +1,6 @@
 # dappradar/nft-sales-adapters - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 280
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 237 | 280 | 
 | 2022-11-10 | 237 | 280 | 
 | 2022-11-09 | 237 | 280 | 
 | 2022-11-08 | 237 | 280 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 236 | 278 | 
 | 2022-10-14 | 236 | 278 | 
 | 2022-10-13 | 236 | 278 | 
-| 2022-10-12 | 236 | 278 | 
 

@@ -1,8 +1,8 @@
 # edtrejo/rdpwrap - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1847
+☋ Forks: 1849
 
 ★ Stars: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 27 | 1849 | 
 | 2022-11-10 | 27 | 1847 | 
 | 2022-11-09 | 27 | 1847 | 
 | 2022-11-08 | 27 | 1847 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 27 | 1849 | 
 | 2022-10-14 | 27 | 1849 | 
 | 2022-10-13 | 27 | 1849 | 
-| 2022-10-12 | 27 | 1849 | 
 

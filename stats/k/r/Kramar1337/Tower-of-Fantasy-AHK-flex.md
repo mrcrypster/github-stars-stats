@@ -1,6 +1,6 @@
 # Kramar1337/Tower-of-Fantasy-AHK-flex - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 30 | 11 | 
 | 2022-11-11 | 30 | 11 | 
 | 2022-11-10 | 30 | 11 | 
 | 2022-11-08 | 30 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-15 | 29 | 11 | 
 | 2022-10-14 | 29 | 11 | 
 | 2022-10-13 | 29 | 11 | 
-| 2022-10-12 | 29 | 11 | 
 

@@ -1,10 +1,10 @@
 # alexed1/LightningFlowComponents - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 452
 
-★ Stars: 424
+★ Stars: 426
 
 [Open repository](https://github.com/alexed1/LightningFlowComponents)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 426 | 452 | 
 | 2022-11-10 | 424 | 452 | 
 | 2022-11-09 | 424 | 452 | 
 | 2022-11-08 | 423 | 452 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 415 | 443 | 
 | 2022-10-14 | 415 | 443 | 
 | 2022-10-13 | 415 | 443 | 
-| 2022-10-12 | 415 | 443 | 
 

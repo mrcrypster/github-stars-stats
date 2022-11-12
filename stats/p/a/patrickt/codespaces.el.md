@@ -1,10 +1,10 @@
 # patrickt/codespaces.el - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 4
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/patrickt/codespaces.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 32 | 4 | 
 | 2022-11-10 | 31 | 4 | 
 | 2022-11-09 | 30 | 4 | 
 | 2022-11-08 | 30 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 25 | 4 | 
 | 2022-10-14 | 25 | 4 | 
 | 2022-10-13 | 25 | 4 | 
-| 2022-10-12 | 25 | 4 | 
 

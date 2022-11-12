@@ -1,6 +1,6 @@
 # polymode/polymode - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 617 | 60 | 
 | 2022-11-10 | 617 | 60 | 
 | 2022-11-09 | 617 | 60 | 
 | 2022-11-08 | 617 | 60 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 611 | 61 | 
 | 2022-10-14 | 611 | 61 | 
 | 2022-10-13 | 611 | 61 | 
-| 2022-10-12 | 611 | 61 | 
 

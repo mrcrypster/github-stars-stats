@@ -1,6 +1,6 @@
 # SoftwareAG/sagdevops-ci-assets - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 24 | 140 | 
 | 2022-11-10 | 24 | 140 | 
 | 2022-11-09 | 24 | 140 | 
 | 2022-11-08 | 24 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 23 | 139 | 
 | 2022-10-14 | 23 | 139 | 
 | 2022-10-13 | 23 | 139 | 
-| 2022-10-12 | 23 | 139 | 
 

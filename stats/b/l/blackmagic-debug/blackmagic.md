@@ -1,6 +1,6 @@
 # blackmagic-debug/blackmagic - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 625
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2174 | 625 | 
 | 2022-11-10 | 2174 | 625 | 
 | 2022-11-09 | 2174 | 625 | 
 | 2022-11-08 | 2174 | 625 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2142 | 621 | 
 | 2022-10-14 | 2141 | 621 | 
 | 2022-10-13 | 2140 | 621 | 
-| 2022-10-12 | 2137 | 621 | 
 

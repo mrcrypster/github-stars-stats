@@ -1,8 +1,8 @@
 # monero-project/monero - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 3375
+☋ Forks: 3376
 
 ★ Stars: 7417
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 7417 | 3376 | 
 | 2022-11-10 | 7417 | 3375 | 
 | 2022-11-09 | 7415 | 3378 | 
 | 2022-11-08 | 7414 | 3378 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 7372 | 3379 | 
 | 2022-10-14 | 7368 | 3380 | 
 | 2022-10-13 | 7366 | 3379 | 
-| 2022-10-12 | 7363 | 3379 | 
 

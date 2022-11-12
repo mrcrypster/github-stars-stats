@@ -1,6 +1,6 @@
 # hyzaw/AllJDScripts - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 160
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 176 | 160 | 
 | 2022-11-10 | 176 | 160 | 
 | 2022-11-09 | 176 | 160 | 
 | 2022-11-08 | 176 | 160 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 171 | 156 | 
 | 2022-10-14 | 171 | 156 | 
 | 2022-10-13 | 171 | 156 | 
-| 2022-10-12 | 171 | 156 | 
 

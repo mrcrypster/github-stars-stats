@@ -1,6 +1,6 @@
 # nickcoutsos/dactyl-flatpacked - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 75 | 4 | 
 | 2022-11-10 | 75 | 4 | 
 | 2022-11-09 | 75 | 4 | 
 | 2022-11-08 | 75 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 75 | 5 | 
 | 2022-10-14 | 75 | 5 | 
 | 2022-10-13 | 75 | 5 | 
-| 2022-10-12 | 75 | 5 | 
 

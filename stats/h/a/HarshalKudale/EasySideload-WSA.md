@@ -1,6 +1,6 @@
 # HarshalKudale/EasySideload-WSA - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 261
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 137 | 261 | 
 | 2022-11-10 | 137 | 261 | 
 | 2022-11-09 | 137 | 261 | 
 | 2022-11-08 | 137 | 261 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 138 | 261 | 
 | 2022-10-14 | 138 | 261 | 
 | 2022-10-13 | 138 | 260 | 
-| 2022-10-12 | 138 | 260 | 
 

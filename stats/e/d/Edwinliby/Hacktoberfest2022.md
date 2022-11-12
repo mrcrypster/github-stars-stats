@@ -1,10 +1,10 @@
 # Edwinliby/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 246
 
-★ Stars: 63
+★ Stars: 62
 
 [Open repository](https://github.com/Edwinliby/Hacktoberfest2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 62 | 246 | 
 | 2022-11-10 | 63 | 246 | 
 | 2022-11-09 | 63 | 246 | 
 | 2022-11-08 | 63 | 246 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 43 | 158 | 
 | 2022-10-14 | 38 | 144 | 
 | 2022-10-13 | 42 | 140 | 
-| 2022-10-12 | 42 | 137 | 
 

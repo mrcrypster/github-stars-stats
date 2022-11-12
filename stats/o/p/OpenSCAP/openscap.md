@@ -1,6 +1,6 @@
 # OpenSCAP/openscap - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 320
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 996 | 320 | 
 | 2022-11-10 | 996 | 320 | 
 | 2022-11-09 | 996 | 320 | 
 | 2022-11-08 | 995 | 319 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 983 | 318 | 
 | 2022-10-14 | 981 | 318 | 
 | 2022-10-13 | 981 | 318 | 
-| 2022-10-12 | 980 | 318 | 
 

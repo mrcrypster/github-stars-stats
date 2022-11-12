@@ -1,10 +1,10 @@
 # he4rt/he4rtoberfest-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 241
+☋ Forks: 240
 
-★ Stars: 282
+★ Stars: 281
 
 [Open repository](https://github.com/he4rt/he4rtoberfest-2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 281 | 240 | 
 | 2022-11-10 | 282 | 241 | 
 | 2022-11-09 | 282 | 241 | 
 | 2022-11-08 | 284 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 288 | 257 | 
 | 2022-10-14 | 288 | 258 | 
 | 2022-10-13 | 288 | 258 | 
-| 2022-10-12 | 280 | 237 | 
 

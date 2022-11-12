@@ -1,10 +1,10 @@
 # nodejs/docker-node - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 1870
+☋ Forks: 1872
 
-★ Stars: 7449
+★ Stars: 7451
 
 [Open repository](https://github.com/nodejs/docker-node)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 7451 | 1872 | 
 | 2022-11-10 | 7449 | 1870 | 
 | 2022-11-09 | 7448 | 1870 | 
 | 2022-11-08 | 7448 | 1869 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 7402 | 1850 | 
 | 2022-10-14 | 7398 | 1849 | 
 | 2022-10-13 | 7396 | 1848 | 
-| 2022-10-12 | 7394 | 1847 | 
 

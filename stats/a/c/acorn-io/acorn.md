@@ -1,6 +1,6 @@
 # acorn-io/acorn - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 844 | 56 | 
 | 2022-11-10 | 844 | 56 | 
 | 2022-11-09 | 842 | 56 | 
 | 2022-11-08 | 841 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 814 | 53 | 
 | 2022-10-15 | 814 | 52 | 
 | 2022-10-13 | 814 | 52 | 
-| 2022-10-12 | 812 | 52 | 
 

@@ -1,10 +1,10 @@
 # webfansplz/temir - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 33
 
-★ Stars: 900
+★ Stars: 903
 
 [Open repository](https://github.com/webfansplz/temir)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 903 | 33 | 
 | 2022-11-10 | 900 | 33 | 
 | 2022-11-09 | 900 | 33 | 
 | 2022-11-08 | 900 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 885 | 31 | 
 | 2022-10-14 | 884 | 31 | 
 | 2022-10-13 | 884 | 31 | 
-| 2022-10-12 | 883 | 31 | 
 

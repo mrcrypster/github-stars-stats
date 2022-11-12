@@ -1,10 +1,10 @@
 # Metaschoolso/Learning-Projects - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 73
 
-★ Stars: 196
+★ Stars: 197
 
 [Open repository](https://github.com/Metaschoolso/Learning-Projects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 197 | 73 | 
 | 2022-11-10 | 196 | 73 | 
 | 2022-11-09 | 195 | 73 | 
 | 2022-11-08 | 195 | 73 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-16 | 180 | 67 | 
 | 2022-10-15 | 177 | 66 | 
 | 2022-10-14 | 177 | 66 | 
-| 2022-10-13 | 176 | 66 | 
 

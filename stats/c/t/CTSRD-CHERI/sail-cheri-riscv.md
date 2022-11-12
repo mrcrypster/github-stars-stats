@@ -1,6 +1,6 @@
 # CTSRD-CHERI/sail-cheri-riscv - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 35 | 12 | 
 | 2022-11-10 | 35 | 12 | 
 | 2022-11-09 | 35 | 12 | 
 | 2022-11-08 | 34 | 12 | 

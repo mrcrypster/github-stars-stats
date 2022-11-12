@@ -1,10 +1,10 @@
 # tidyverse/nycflights13 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 210
 
-★ Stars: 107
+★ Stars: 108
 
 [Open repository](https://github.com/tidyverse/nycflights13)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 108 | 210 | 
 | 2022-11-10 | 107 | 210 | 
 | 2022-11-09 | 107 | 210 | 
 | 2022-11-08 | 107 | 209 | 

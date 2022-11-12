@@ -1,10 +1,10 @@
 # libopencm3/libopencm3 - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 932
+☋ Forks: 933
 
-★ Stars: 2492
+★ Stars: 2493
 
 [Open repository](https://github.com/libopencm3/libopencm3)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2493 | 933 | 
 | 2022-11-10 | 2492 | 932 | 
 | 2022-11-09 | 2491 | 932 | 
 | 2022-11-08 | 2490 | 932 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 2482 | 928 | 
 | 2022-10-14 | 2482 | 928 | 
 | 2022-10-13 | 2481 | 927 | 
-| 2022-10-12 | 2479 | 928 | 
 

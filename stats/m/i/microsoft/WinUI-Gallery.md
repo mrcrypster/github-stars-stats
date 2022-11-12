@@ -1,10 +1,10 @@
 # microsoft/WinUI-Gallery - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 498
 
-★ Stars: 1778
+★ Stars: 1780
 
 [Open repository](https://github.com/microsoft/WinUI-Gallery)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 1780 | 498 | 
 | 2022-11-10 | 1778 | 498 | 
 | 2022-11-09 | 1777 | 498 | 
 | 2022-11-08 | 1776 | 497 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 1752 | 488 | 
 | 2022-10-14 | 1751 | 488 | 
 | 2022-10-13 | 1751 | 488 | 
-| 2022-10-12 | 1751 | 487 | 
 

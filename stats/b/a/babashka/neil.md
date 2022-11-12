@@ -1,6 +1,6 @@
 # babashka/neil - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 212 | 17 | 
 | 2022-11-10 | 212 | 17 | 
 | 2022-11-09 | 212 | 17 | 
 | 2022-11-08 | 212 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 201 | 16 | 
 | 2022-10-14 | 201 | 16 | 
 | 2022-10-13 | 200 | 16 | 
-| 2022-10-12 | 200 | 15 | 
 

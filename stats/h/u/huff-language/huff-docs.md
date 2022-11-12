@@ -1,8 +1,8 @@
 # huff-language/huff-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 14
+☋ Forks: 15
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 24 | 15 | 
 | 2022-11-10 | 24 | 14 | 
 | 2022-11-09 | 24 | 14 | 
 | 2022-11-08 | 24 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 23 | 13 | 
 | 2022-10-14 | 23 | 13 | 
 | 2022-10-13 | 23 | 13 | 
-| 2022-10-12 | 23 | 13 | 
 

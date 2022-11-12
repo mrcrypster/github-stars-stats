@@ -1,6 +1,6 @@
 # boostorg/context - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 226 | 123 | 
 | 2022-11-10 | 226 | 123 | 
 | 2022-11-09 | 226 | 123 | 
 | 2022-11-08 | 226 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 225 | 122 | 
 | 2022-10-14 | 225 | 122 | 
 | 2022-10-13 | 225 | 122 | 
-| 2022-10-12 | 225 | 122 | 
 

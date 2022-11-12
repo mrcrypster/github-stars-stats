@@ -1,6 +1,6 @@
 # ao-org/argentum20-server - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 8 | 8 | 
 | 2022-11-10 | 8 | 8 | 
 | 2022-11-09 | 8 | 8 | 
 | 2022-11-08 | 8 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 7 | 7 | 
 | 2022-10-14 | 7 | 7 | 
 | 2022-10-13 | 7 | 7 | 
-| 2022-10-12 | 7 | 7 | 
 

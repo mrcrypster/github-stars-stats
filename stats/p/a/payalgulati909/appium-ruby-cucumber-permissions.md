@@ -1,6 +1,6 @@
 # payalgulati909/appium-ruby-cucumber-permissions - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 15 | 9 | 
 | 2022-11-10 | 15 | 9 | 
 | 2022-11-09 | 15 | 9 | 
 | 2022-11-08 | 15 | 9 | 

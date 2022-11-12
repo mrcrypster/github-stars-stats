@@ -1,6 +1,6 @@
 # ianhorswill/CS376-student - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 9 | 33 | 
 | 2022-11-10 | 9 | 33 | 
 | 2022-11-09 | 9 | 33 | 
 | 2022-11-08 | 9 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 9 | 30 | 
 | 2022-10-14 | 9 | 30 | 
 | 2022-10-13 | 9 | 30 | 
-| 2022-10-12 | 9 | 30 | 
 

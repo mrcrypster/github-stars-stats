@@ -1,6 +1,6 @@
 # MicrosoftLearning/DP-300T00-Administering-Relational-Databases-on-Azure - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 153
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 129 | 153 | 
 | 2022-11-10 | 129 | 153 | 
 | 2022-11-09 | 129 | 153 | 
 | 2022-11-08 | 129 | 153 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 129 | 152 | 
 | 2022-10-14 | 129 | 152 | 
 | 2022-10-13 | 129 | 151 | 
-| 2022-10-12 | 129 | 151 | 
 

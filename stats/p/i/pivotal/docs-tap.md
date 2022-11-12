@@ -1,8 +1,8 @@
 # pivotal/docs-tap - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 198
+☋ Forks: 200
 
 ★ Stars: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 30 | 200 | 
 | 2022-11-10 | 30 | 198 | 
 | 2022-11-09 | 30 | 198 | 
 | 2022-11-08 | 30 | 198 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 29 | 194 | 
 | 2022-10-14 | 29 | 194 | 
 | 2022-10-13 | 29 | 194 | 
-| 2022-10-12 | 29 | 193 | 
 

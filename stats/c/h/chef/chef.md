@@ -1,10 +1,10 @@
 # chef/chef - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 2568
+☋ Forks: 2569
 
-★ Stars: 7054
+★ Stars: 7057
 
 [Open repository](https://github.com/chef/chef)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 7057 | 2569 | 
 | 2022-11-10 | 7054 | 2568 | 
 | 2022-11-09 | 7051 | 2569 | 
 | 2022-11-08 | 7050 | 2569 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 7029 | 2569 | 
 | 2022-10-14 | 7028 | 2569 | 
 | 2022-10-13 | 7027 | 2569 | 
-| 2022-10-12 | 7026 | 2568 | 
 

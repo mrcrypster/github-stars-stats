@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 11
 
 ☋ Forks: 15
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/MLH-Fellowship/prep-portfolio-22.NOV.PREP.2)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-11 | 1 | 15 | 
+| 2022-11-11 | 2 | 15 | 
 | 2022-11-10 | 1 | 15 | 
 

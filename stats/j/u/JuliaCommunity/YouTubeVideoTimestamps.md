@@ -1,10 +1,10 @@
 # JuliaCommunity/YouTubeVideoTimestamps - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
 ☋ Forks: 31
 
-★ Stars: 40
+★ Stars: 41
 
 [Open repository](https://github.com/JuliaCommunity/YouTubeVideoTimestamps)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 41 | 31 | 
 | 2022-11-10 | 40 | 31 | 
 | 2022-11-09 | 40 | 31 | 
 | 2022-11-08 | 40 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 40 | 30 | 
 | 2022-10-14 | 40 | 30 | 
 | 2022-10-13 | 39 | 30 | 
-| 2022-10-12 | 39 | 30 | 
 

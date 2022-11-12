@@ -1,10 +1,10 @@
 # bazelbuild/rules_android - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 16
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/bazelbuild/rules_android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 137 | 16 | 
 | 2022-11-10 | 136 | 16 | 
 | 2022-11-09 | 136 | 16 | 
 | 2022-11-08 | 136 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 10
 | 2022-10-15 | 136 | 15 | 
 | 2022-10-14 | 136 | 15 | 
 | 2022-10-13 | 136 | 15 | 
-| 2022-10-12 | 136 | 15 | 
 

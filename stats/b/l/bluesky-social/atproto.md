@@ -1,10 +1,10 @@
 # bluesky-social/atproto - stars & forks statistics
 
-Stats updated on Nov 2022, 10
+Stats updated on Nov 2022, 11
 
-☋ Forks: 104
+☋ Forks: 107
 
-★ Stars: 2108
+★ Stars: 2128
 
 [Open repository](https://github.com/bluesky-social/atproto)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 10
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-11 | 2128 | 107 | 
 | 2022-11-10 | 2108 | 104 | 
 | 2022-11-09 | 2089 | 103 | 
 | 2022-11-08 | 2060 | 103 | 
