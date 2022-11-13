@@ -1,6 +1,6 @@
 # 2DegreesInvesting/PACTA_analysis - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 21 | 62 | 
 | 2022-11-11 | 21 | 62 | 
 | 2022-11-10 | 21 | 62 | 
 | 2022-11-09 | 21 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 20 | 61 | 
 | 2022-10-15 | 20 | 61 | 
 | 2022-10-14 | 20 | 61 | 
-| 2022-10-13 | 20 | 61 | 
 

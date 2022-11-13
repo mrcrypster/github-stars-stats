@@ -1,8 +1,8 @@
 # frickelzeugs/FingerprintDoorbell - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 167
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 167 | 16 | 
 | 2022-11-11 | 167 | 15 | 
 | 2022-11-10 | 166 | 14 | 
 | 2022-11-09 | 166 | 13 | 

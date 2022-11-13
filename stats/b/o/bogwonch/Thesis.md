@@ -1,6 +1,6 @@
 # bogwonch/Thesis - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3 | 2 | 
 | 2022-11-11 | 3 | 2 | 
 | 2022-11-10 | 3 | 2 | 
 | 2022-11-09 | 3 | 2 | 

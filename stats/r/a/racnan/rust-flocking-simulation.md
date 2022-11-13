@@ -1,6 +1,6 @@
 # racnan/rust-flocking-simulation - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 88 | 1 | 
 | 2022-11-11 | 88 | 1 | 
 | 2022-11-10 | 88 | 1 | 
 | 2022-11-09 | 88 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 88 | 1 | 
 | 2022-10-15 | 88 | 1 | 
 | 2022-10-14 | 88 | 1 | 
-| 2022-10-13 | 88 | 1 | 
 

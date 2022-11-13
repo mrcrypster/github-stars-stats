@@ -1,6 +1,6 @@
 # SuperHackio/GalaxyLevelEngine - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 31 | 2 | 
 | 2022-11-11 | 31 | 2 | 
 | 2022-11-10 | 30 | 2 | 
 | 2022-11-09 | 30 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 28 | 2 | 
 | 2022-10-15 | 28 | 2 | 
 | 2022-10-14 | 28 | 2 | 
-| 2022-10-13 | 28 | 2 | 
 

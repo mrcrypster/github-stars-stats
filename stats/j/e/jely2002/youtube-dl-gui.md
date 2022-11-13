@@ -1,10 +1,10 @@
 # jely2002/youtube-dl-gui - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 320
 
-★ Stars: 5170
+★ Stars: 5175
 
 [Open repository](https://github.com/jely2002/youtube-dl-gui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 5175 | 320 | 
 | 2022-11-11 | 5170 | 320 | 
 | 2022-11-10 | 5164 | 320 | 
 | 2022-11-09 | 5160 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 5060 | 311 | 
 | 2022-10-16 | 5053 | 312 | 
 | 2022-10-15 | 5049 | 312 | 
-| 2022-10-14 | 5049 | 311 | 
 

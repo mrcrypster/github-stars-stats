@@ -1,6 +1,6 @@
 # javalin/javalin - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 505
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6136 | 505 | 
 | 2022-11-11 | 6136 | 505 | 
 | 2022-11-10 | 6135 | 505 | 
 | 2022-11-09 | 6133 | 505 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 6042 | 504 | 
 | 2022-10-15 | 6042 | 503 | 
 | 2022-10-14 | 6036 | 503 | 
-| 2022-10-13 | 6030 | 503 | 
 

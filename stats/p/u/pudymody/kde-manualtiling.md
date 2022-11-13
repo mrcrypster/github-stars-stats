@@ -1,10 +1,10 @@
 # pudymody/kde-manualtiling - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/pudymody/kde-manualtiling)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 17 | - | 
 | 2022-11-11 | 16 | - | 
 | 2022-11-10 | 16 | - | 
 | 2022-11-09 | 16 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 16 | - | 
 | 2022-10-16 | 16 | - | 
 | 2022-10-15 | 16 | - | 
-| 2022-10-14 | 16 | - | 
 

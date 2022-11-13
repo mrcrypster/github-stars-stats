@@ -1,10 +1,10 @@
 # scaffold-eth/scaffold-eth - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 2903
+☋ Forks: 2906
 
-★ Stars: 8101
+★ Stars: 8104
 
 [Open repository](https://github.com/scaffold-eth/scaffold-eth)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 8104 | 2906 | 
 | 2022-11-11 | 8101 | 2903 | 
 | 2022-11-10 | 8099 | 2900 | 
 | 2022-11-09 | 8091 | 2895 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 7979 | 2831 | 
 | 2022-10-15 | 7974 | 2826 | 
 | 2022-10-14 | 7971 | 2821 | 
-| 2022-10-13 | 7966 | 2815 | 
 

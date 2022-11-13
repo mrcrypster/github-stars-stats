@@ -1,10 +1,10 @@
 # plotly/dash - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1795
+☋ Forks: 1796
 
-★ Stars: 17614
+★ Stars: 17623
 
 [Open repository](https://github.com/plotly/dash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 17623 | 1796 | 
 | 2022-11-11 | 17614 | 1795 | 
 | 2022-11-10 | 17611 | 1796 | 
 | 2022-11-09 | 17607 | 1797 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 17478 | 1780 | 
 | 2022-10-15 | 17479 | 1780 | 
 | 2022-10-14 | 17476 | 1780 | 
-| 2022-10-13 | 17471 | 1780 | 
 

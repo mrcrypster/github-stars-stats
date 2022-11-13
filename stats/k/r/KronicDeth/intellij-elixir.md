@@ -1,8 +1,8 @@
 # KronicDeth/intellij-elixir - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 127
+☋ Forks: 126
 
 ★ Stars: 1619
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1619 | 126 | 
 | 2022-11-11 | 1619 | 127 | 
 | 2022-11-10 | 1619 | 127 | 
 | 2022-11-09 | 1620 | 127 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1617 | 128 | 
 | 2022-10-15 | 1617 | 128 | 
 | 2022-10-14 | 1617 | 128 | 
-| 2022-10-13 | 1617 | 128 | 
 

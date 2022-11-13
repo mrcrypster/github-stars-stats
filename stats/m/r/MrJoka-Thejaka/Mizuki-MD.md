@@ -1,8 +1,8 @@
 # MrJoka-Thejaka/Mizuki-MD - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
-☋ Forks: 7
+☋ Forks: 9
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1 | 9 | 
 | 2022-11-11 | 1 | 7 | 
 | 2022-11-10 | 1 | 7 | 
 | 2022-11-09 | 1 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1 | 6 | 
 | 2022-10-15 | 1 | 6 | 
 | 2022-10-14 | 1 | 5 | 
-| 2022-10-13 | 1 | 5 | 
 

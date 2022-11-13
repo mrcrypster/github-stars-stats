@@ -1,10 +1,10 @@
 # alexbelgium/hassio-addons - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 83
+☋ Forks: 84
 
-★ Stars: 441
+★ Stars: 442
 
 [Open repository](https://github.com/alexbelgium/hassio-addons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 442 | 84 | 
 | 2022-11-11 | 441 | 83 | 
 | 2022-11-10 | 441 | 82 | 
 | 2022-11-09 | 441 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 407 | 76 | 
 | 2022-10-15 | 405 | 76 | 
 | 2022-10-14 | 403 | 76 | 
-| 2022-10-13 | 401 | 76 | 
 

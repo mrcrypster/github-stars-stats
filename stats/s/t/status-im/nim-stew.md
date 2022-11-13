@@ -1,10 +1,10 @@
 # status-im/nim-stew - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 16
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/status-im/nim-stew)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 102 | 16 | 
 | 2022-11-11 | 101 | 16 | 
 | 2022-11-10 | 101 | 16 | 
 | 2022-11-09 | 100 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 95 | 13 | 
 | 2022-10-15 | 95 | 13 | 
 | 2022-10-14 | 95 | 13 | 
-| 2022-10-13 | 95 | 13 | 
 

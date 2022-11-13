@@ -1,10 +1,10 @@
 # gwuhaolin/dive-into-webpack - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 714
 
-★ Stars: 4187
+★ Stars: 4188
 
 [Open repository](https://github.com/gwuhaolin/dive-into-webpack)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 4188 | 714 | 
 | 2022-11-11 | 4187 | 714 | 
 | 2022-11-10 | 4186 | 714 | 
 | 2022-11-09 | 4185 | 714 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 4168 | 711 | 
 | 2022-10-15 | 4168 | 711 | 
 | 2022-10-14 | 4167 | 711 | 
-| 2022-10-13 | 4167 | 711 | 
 

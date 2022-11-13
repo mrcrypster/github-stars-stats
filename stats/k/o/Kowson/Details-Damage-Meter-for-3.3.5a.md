@@ -1,6 +1,6 @@
 # Kowson/Details-Damage-Meter-for-3.3.5a - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 24 | 13 | 
 | 2022-11-11 | 24 | 13 | 
 | 2022-11-10 | 24 | 13 | 
 | 2022-11-09 | 24 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 23 | 13 | 
 | 2022-10-16 | 23 | 13 | 
 | 2022-10-15 | 23 | 13 | 
-| 2022-10-14 | 23 | 13 | 
 

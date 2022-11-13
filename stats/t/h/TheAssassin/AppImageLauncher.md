@@ -1,10 +1,10 @@
 # TheAssassin/AppImageLauncher - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 180
 
-★ Stars: 3242
+★ Stars: 3243
 
 [Open repository](https://github.com/TheAssassin/AppImageLauncher)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3243 | 180 | 
 | 2022-11-11 | 3242 | 180 | 
 | 2022-11-10 | 3237 | 180 | 
 | 2022-11-09 | 3236 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3150 | 177 | 
 | 2022-10-15 | 3148 | 177 | 
 | 2022-10-14 | 3140 | 177 | 
-| 2022-10-13 | 3137 | 177 | 
 

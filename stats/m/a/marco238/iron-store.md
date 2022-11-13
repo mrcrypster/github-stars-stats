@@ -1,6 +1,6 @@
 # marco238/iron-store - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | - | 8 | 
 | 2022-11-11 | - | 8 | 
 | 2022-11-10 | - | 8 | 
 | 2022-11-09 | - | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | - | 8 | 
 | 2022-10-15 | - | 8 | 
 | 2022-10-14 | - | 8 | 
-| 2022-10-13 | - | 8 | 
 

@@ -1,6 +1,6 @@
 # DanijelkMSFT/ThisandThat - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 9 | 7 | 
 | 2022-11-11 | 9 | 7 | 
 | 2022-11-10 | 9 | 6 | 
 | 2022-11-09 | 9 | 6 | 

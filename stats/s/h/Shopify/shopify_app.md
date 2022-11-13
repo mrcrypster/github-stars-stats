@@ -1,8 +1,8 @@
 # Shopify/shopify_app - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 630
+☋ Forks: 631
 
 ★ Stars: 1583
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1583 | 631 | 
 | 2022-11-11 | 1583 | 630 | 
 | 2022-11-10 | 1583 | 631 | 
 | 2022-11-09 | 1581 | 631 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 1572 | 627 | 
 | 2022-10-16 | 1572 | 627 | 
 | 2022-10-15 | 1571 | 627 | 
-| 2022-10-14 | 1572 | 625 | 
 

@@ -1,6 +1,6 @@
 # github/india - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1649 | 381 | 
 | 2022-11-11 | 1649 | 381 | 
 | 2022-11-10 | 1649 | 381 | 
 | 2022-11-09 | 1648 | 381 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1629 | 379 | 
 | 2022-10-15 | 1629 | 378 | 
 | 2022-10-14 | 1629 | 378 | 
-| 2022-10-13 | 1627 | 377 | 
 

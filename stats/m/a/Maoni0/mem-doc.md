@@ -1,6 +1,6 @@
 # Maoni0/mem-doc - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 120
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1511 | 120 | 
 | 2022-11-11 | 1511 | 120 | 
 | 2022-11-10 | 1511 | 120 | 
 | 2022-11-09 | 1510 | 120 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1472 | 118 | 
 | 2022-10-15 | 1471 | 118 | 
 | 2022-10-14 | 1471 | 118 | 
-| 2022-10-13 | 1471 | 118 | 
 

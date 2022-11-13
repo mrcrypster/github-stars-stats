@@ -1,6 +1,6 @@
 # DSCI-310/DSCI-310-Group-8-package - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | - | 6 | 
 | 2022-11-11 | - | 6 | 
 | 2022-11-10 | - | 6 | 
 | 2022-11-09 | - | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | - | 6 | 
 | 2022-10-15 | - | 6 | 
 | 2022-10-14 | - | 6 | 
-| 2022-10-13 | - | 6 | 
 

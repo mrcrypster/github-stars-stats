@@ -1,10 +1,10 @@
 # zdharma-continuum/zinit - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 108
 
-★ Stars: 1437
+★ Stars: 1438
 
 [Open repository](https://github.com/zdharma-continuum/zinit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1438 | 108 | 
 | 2022-11-11 | 1437 | 108 | 
 | 2022-11-10 | 1433 | 108 | 
 | 2022-11-09 | 1431 | 108 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1375 | 105 | 
 | 2022-10-15 | 1369 | 104 | 
 | 2022-10-14 | 1365 | 104 | 
-| 2022-10-13 | 1364 | 104 | 
 

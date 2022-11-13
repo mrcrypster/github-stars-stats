@@ -1,6 +1,6 @@
 # percona/pg_stat_monitor - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 284 | 46 | 
 | 2022-11-11 | 284 | 46 | 
 | 2022-11-10 | 284 | 46 | 
 | 2022-11-09 | 284 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 280 | 45 | 
 | 2022-10-15 | 280 | 45 | 
 | 2022-10-14 | 280 | 45 | 
-| 2022-10-13 | 280 | 45 | 
 

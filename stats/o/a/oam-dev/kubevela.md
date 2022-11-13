@@ -1,10 +1,10 @@
 # oam-dev/kubevela - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 626
 
-★ Stars: 4389
+★ Stars: 4392
 
 [Open repository](https://github.com/oam-dev/kubevela)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 4392 | 626 | 
 | 2022-11-11 | 4389 | 626 | 
 | 2022-11-10 | 4385 | 625 | 
 | 2022-11-09 | 4382 | 624 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 4295 | 609 | 
 | 2022-10-15 | 4293 | 609 | 
 | 2022-10-14 | 4287 | 609 | 
-| 2022-10-13 | 4285 | 608 | 
 

@@ -1,6 +1,6 @@
 # iview/iview - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 4230
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 23995 | 4230 | 
 | 2022-11-11 | 23995 | 4230 | 
 | 2022-11-10 | 23995 | 4230 | 
 | 2022-11-09 | 23998 | 4230 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 24000 | 4216 | 
 | 2022-10-15 | 24000 | 4216 | 
 | 2022-10-14 | 24000 | 4216 | 
-| 2022-10-13 | 23999 | 4216 | 
 

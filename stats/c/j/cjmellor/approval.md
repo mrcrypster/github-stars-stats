@@ -1,6 +1,6 @@
 # cjmellor/approval - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 155 | 4 | 
 | 2022-11-11 | 155 | 4 | 
 | 2022-11-10 | 155 | 4 | 
 | 2022-11-09 | 154 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 148 | 4 | 
 | 2022-10-16 | 148 | 4 | 
 | 2022-10-15 | 148 | 4 | 
-| 2022-10-14 | 148 | 4 | 
 

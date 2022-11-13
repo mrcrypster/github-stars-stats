@@ -1,6 +1,6 @@
 # ivanceras/sakila - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 113
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 113 | 113 | 
 | 2022-11-11 | 113 | 113 | 
 | 2022-11-10 | 113 | 113 | 
 | 2022-11-09 | 112 | 113 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 107 | 112 | 
 | 2022-10-15 | 107 | 112 | 
 | 2022-10-14 | 107 | 112 | 
-| 2022-10-13 | 107 | 112 | 
 

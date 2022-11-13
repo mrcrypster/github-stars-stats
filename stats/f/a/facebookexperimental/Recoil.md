@@ -1,10 +1,10 @@
 # facebookexperimental/Recoil - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1022
+☋ Forks: 1023
 
-★ Stars: 17940
+★ Stars: 17946
 
 [Open repository](https://github.com/facebookexperimental/Recoil)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 17946 | 1023 | 
 | 2022-11-11 | 17940 | 1022 | 
 | 2022-11-10 | 17936 | 1022 | 
 | 2022-11-09 | 17930 | 1021 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 17809 | 1005 | 
 | 2022-10-15 | 17807 | 1005 | 
 | 2022-10-14 | 17804 | 1003 | 
-| 2022-10-13 | 17793 | 1001 | 
 

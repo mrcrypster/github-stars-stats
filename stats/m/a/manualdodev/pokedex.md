@@ -1,8 +1,8 @@
 # manualdodev/pokedex - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 28
+☋ Forks: 29
 
 ★ Stars: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 86 | 29 | 
 | 2022-11-11 | 86 | 28 | 
 | 2022-11-10 | 86 | 28 | 
 | 2022-11-09 | 85 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 81 | 26 | 
 | 2022-10-15 | 81 | 26 | 
 | 2022-10-14 | 81 | 26 | 
-| 2022-10-13 | 81 | 25 | 
 

@@ -1,6 +1,6 @@
 # ucb-bar/barstools - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 28 | 14 | 
 | 2022-11-11 | 28 | 14 | 
 | 2022-11-10 | 28 | 14 | 
 | 2022-11-09 | 28 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 26 | 14 | 
 | 2022-10-15 | 26 | 14 | 
 | 2022-10-14 | 26 | 14 | 
-| 2022-10-13 | 26 | 14 | 
 

@@ -1,6 +1,6 @@
 # thuml/Transfer-Learning-Library - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 396
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2026 | 396 | 
 | 2022-11-11 | 2026 | 396 | 
 | 2022-11-10 | 2020 | 396 | 
 | 2022-11-09 | 2017 | 395 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1935 | 388 | 
 | 2022-10-15 | 1933 | 387 | 
 | 2022-10-14 | 1930 | 386 | 
-| 2022-10-13 | 1924 | 385 | 
 

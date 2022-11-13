@@ -1,6 +1,6 @@
 # apple/swift-experimental-string-processing - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 230 | 36 | 
 | 2022-11-11 | 230 | 36 | 
 | 2022-11-10 | 230 | 36 | 
 | 2022-11-09 | 230 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 227 | 35 | 
 | 2022-10-15 | 227 | 35 | 
 | 2022-10-14 | 226 | 35 | 
-| 2022-10-13 | 226 | 35 | 
 

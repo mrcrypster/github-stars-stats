@@ -1,10 +1,10 @@
 # tarsius/minions - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 12
 
-★ Stars: 218
+★ Stars: 217
 
 [Open repository](https://github.com/tarsius/minions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 217 | 12 | 
 | 2022-11-11 | 218 | 12 | 
 | 2022-11-10 | 218 | 12 | 
 | 2022-11-09 | 218 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 216 | 12 | 
 | 2022-10-15 | 215 | 12 | 
 | 2022-10-14 | 215 | 12 | 
-| 2022-10-13 | 215 | 12 | 
 

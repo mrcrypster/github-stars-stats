@@ -1,6 +1,6 @@
 # nicklockwood/iCarousel - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2581
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 11938 | 2581 | 
 | 2022-11-11 | 11938 | 2581 | 
 | 2022-11-10 | 11939 | 2581 | 
 | 2022-11-09 | 11939 | 2581 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 11931 | 2582 | 
 | 2022-10-15 | 11931 | 2582 | 
 | 2022-10-14 | 11932 | 2582 | 
-| 2022-10-13 | 11932 | 2580 | 
 

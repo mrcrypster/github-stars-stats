@@ -1,10 +1,10 @@
 # qiao/difflib.js - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 36
 
-★ Stars: 228
+★ Stars: 227
 
 [Open repository](https://github.com/qiao/difflib.js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 227 | 36 | 
 | 2022-11-12 | 228 | 36 | 
 | 2022-11-11 | 228 | 36 | 
 | 2022-11-09 | 228 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 228 | 36 | 
 | 2022-10-15 | 228 | 36 | 
 | 2022-10-14 | 228 | 36 | 
-| 2022-10-13 | 228 | 36 | 
 

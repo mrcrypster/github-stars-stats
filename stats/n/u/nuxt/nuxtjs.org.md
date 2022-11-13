@@ -1,6 +1,6 @@
 # nuxt/nuxtjs.org - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1154
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2163 | 1154 | 
 | 2022-11-11 | 2163 | 1154 | 
 | 2022-11-10 | 2163 | 1156 | 
 | 2022-11-09 | 2164 | 1156 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2160 | 1147 | 
 | 2022-10-15 | 2160 | 1148 | 
 | 2022-10-14 | 2160 | 1147 | 
-| 2022-10-13 | 2160 | 1147 | 
 

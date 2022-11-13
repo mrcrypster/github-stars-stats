@@ -1,6 +1,6 @@
 # StackExchange/Stacks - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 75
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 514 | 75 | 
 | 2022-11-11 | 514 | 75 | 
 | 2022-11-10 | 514 | 75 | 
 | 2022-11-09 | 513 | 75 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 505 | 72 | 
 | 2022-10-15 | 506 | 72 | 
 | 2022-10-14 | 506 | 72 | 
-| 2022-10-13 | 506 | 72 | 
 

@@ -1,6 +1,6 @@
 # conventional-commits/conventionalcommits.org - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 413
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 4695 | 413 | 
 | 2022-11-11 | 4695 | 413 | 
 | 2022-11-10 | 4691 | 412 | 
 | 2022-11-09 | 4691 | 412 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 4604 | 405 | 
 | 2022-10-15 | 4602 | 405 | 
 | 2022-10-14 | 4600 | 405 | 
-| 2022-10-13 | 4596 | 402 | 
 

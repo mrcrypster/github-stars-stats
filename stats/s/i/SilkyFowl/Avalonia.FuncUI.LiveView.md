@@ -1,10 +1,10 @@
 # SilkyFowl/Avalonia.FuncUI.LiveView - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
-★ Stars: 29
+★ Stars: 31
 
 [Open repository](https://github.com/SilkyFowl/Avalonia.FuncUI.LiveView)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 31 | 1 | 
 | 2022-11-11 | 29 | 1 | 
 | 2022-11-10 | 29 | 1 | 
 | 2022-11-09 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 29 | 1 | 
 | 2022-10-15 | 29 | 1 | 
 | 2022-10-14 | 29 | 1 | 
-| 2022-10-13 | 29 | 1 | 
 

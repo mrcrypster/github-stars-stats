@@ -1,6 +1,6 @@
 # WebDevSimplified/css-magic-indicator-nav - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 40 | 25 | 
 | 2022-11-11 | 40 | 25 | 
 | 2022-11-10 | 40 | 25 | 
 | 2022-11-09 | 40 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 39 | 22 | 
 | 2022-10-15 | 39 | 22 | 
 | 2022-10-14 | 39 | 22 | 
-| 2022-10-13 | 39 | 22 | 
 

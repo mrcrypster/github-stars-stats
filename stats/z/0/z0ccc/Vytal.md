@@ -1,6 +1,6 @@
 # z0ccc/Vytal - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 67
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1446 | 67 | 
 | 2022-11-11 | 1446 | 67 | 
 | 2022-11-10 | 1445 | 67 | 
 | 2022-11-09 | 1444 | 67 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1423 | 66 | 
 | 2022-10-15 | 1423 | 66 | 
 | 2022-10-14 | 1423 | 66 | 
-| 2022-10-13 | 1422 | 66 | 
 

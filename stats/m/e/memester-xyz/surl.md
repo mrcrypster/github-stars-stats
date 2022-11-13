@@ -1,10 +1,10 @@
 # memester-xyz/surl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 12
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/memester-xyz/surl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 244 | 12 | 
 | 2022-11-11 | 243 | 12 | 
 | 2022-11-10 | 243 | 12 | 
 | 2022-11-09 | 243 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 241 | 12 | 
 | 2022-10-15 | 241 | 12 | 
 | 2022-10-14 | 241 | 12 | 
-| 2022-10-13 | 241 | 12 | 
 

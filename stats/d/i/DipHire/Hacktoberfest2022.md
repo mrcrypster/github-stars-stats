@@ -1,6 +1,6 @@
 # DipHire/Hacktoberfest2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 28 | 76 | 
 | 2022-11-11 | 28 | 76 | 
 | 2022-11-10 | 28 | 76 | 
 | 2022-11-09 | 28 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 28 | 60 | 
 | 2022-10-15 | 28 | 60 | 
 | 2022-10-14 | 28 | 58 | 
-| 2022-10-13 | 28 | 58 | 
 

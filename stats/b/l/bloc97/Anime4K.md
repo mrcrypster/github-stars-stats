@@ -1,10 +1,10 @@
 # bloc97/Anime4K - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1305
 
-★ Stars: 15497
+★ Stars: 15499
 
 [Open repository](https://github.com/bloc97/Anime4K)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 15499 | 1305 | 
 | 2022-11-11 | 15497 | 1305 | 
 | 2022-11-10 | 15494 | 1305 | 
 | 2022-11-09 | 15488 | 1305 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 15392 | 1300 | 
 | 2022-10-16 | 15390 | 1300 | 
 | 2022-10-14 | 15388 | 1300 | 
-| 2022-10-13 | 15380 | 1300 | 
 

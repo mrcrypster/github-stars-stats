@@ -1,6 +1,6 @@
 # code-warrior/assignment-3--fundamentals-of-computing-1--cs-114--fall-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1 | 8 | 
 | 2022-11-11 | 1 | 8 | 
 | 2022-11-10 | 1 | 8 | 
 | 2022-11-09 | - | 7 | 

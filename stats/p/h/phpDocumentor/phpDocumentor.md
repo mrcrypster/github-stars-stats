@@ -1,10 +1,10 @@
 # phpDocumentor/phpDocumentor - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 620
 
-★ Stars: 3689
+★ Stars: 3691
 
 [Open repository](https://github.com/phpDocumentor/phpDocumentor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3691 | 620 | 
 | 2022-11-11 | 3689 | 620 | 
 | 2022-11-10 | 3687 | 620 | 
 | 2022-11-09 | 3686 | 621 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3665 | 619 | 
 | 2022-10-15 | 3664 | 619 | 
 | 2022-10-14 | 3663 | 618 | 
-| 2022-10-13 | 3664 | 618 | 
 

@@ -1,10 +1,10 @@
 # fermyon/spin - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 125
 
-★ Stars: 2000
+★ Stars: 2007
 
 [Open repository](https://github.com/fermyon/spin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2007 | 125 | 
 | 2022-11-11 | 2000 | 125 | 
 | 2022-11-10 | 1994 | 125 | 
 | 2022-11-09 | 1987 | 125 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1853 | 117 | 
 | 2022-10-15 | 1851 | 117 | 
 | 2022-10-14 | 1849 | 118 | 
-| 2022-10-13 | 1843 | 118 | 
 

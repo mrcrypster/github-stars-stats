@@ -1,6 +1,6 @@
 # Copilot-Language/copilot - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 425 | 27 | 
 | 2022-11-11 | 425 | 27 | 
 | 2022-11-10 | 425 | 27 | 
 | 2022-11-09 | 425 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 422 | 27 | 
 | 2022-10-15 | 422 | 26 | 
 | 2022-10-14 | 421 | 26 | 
-| 2022-10-13 | 421 | 26 | 
 

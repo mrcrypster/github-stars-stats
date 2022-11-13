@@ -1,10 +1,10 @@
 # tanakh/tgbr - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2
 
-★ Stars: 87
+★ Stars: 88
 
 [Open repository](https://github.com/tanakh/tgbr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 88 | 2 | 
 | 2022-11-11 | 87 | 2 | 
 | 2022-11-10 | 87 | 2 | 
 | 2022-11-09 | 87 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 86 | 2 | 
 | 2022-10-15 | 86 | 2 | 
 | 2022-10-14 | 86 | 2 | 
-| 2022-10-13 | 86 | 2 | 
 

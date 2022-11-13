@@ -1,6 +1,6 @@
 # chirag04/react-native-mail - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 243
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 429 | 243 | 
 | 2022-11-11 | 429 | 243 | 
 | 2022-11-10 | 429 | 243 | 
 | 2022-11-09 | 430 | 243 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 429 | 242 | 
 | 2022-10-15 | 429 | 242 | 
 | 2022-10-14 | 429 | 242 | 
-| 2022-10-13 | 429 | 242 | 
 

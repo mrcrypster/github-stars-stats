@@ -1,6 +1,6 @@
 # sp614x/optifine - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 434
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1619 | 434 | 
 | 2022-11-11 | 1619 | 434 | 
 | 2022-11-10 | 1618 | 434 | 
 | 2022-11-09 | 1618 | 434 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1609 | 429 | 
 | 2022-10-15 | 1606 | 427 | 
 | 2022-10-14 | 1606 | 427 | 
-| 2022-10-13 | 1606 | 427 | 
 

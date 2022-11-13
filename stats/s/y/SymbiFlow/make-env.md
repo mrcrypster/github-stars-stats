@@ -1,6 +1,6 @@
 # SymbiFlow/make-env - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 8 | 6 | 
 | 2022-11-11 | 8 | 6 | 
 | 2022-11-10 | 8 | 6 | 
 | 2022-11-09 | 8 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 8 | 5 | 
 | 2022-10-15 | 8 | 5 | 
 | 2022-10-14 | 8 | 5 | 
-| 2022-10-13 | 8 | 5 | 
 

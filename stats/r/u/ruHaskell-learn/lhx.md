@@ -1,6 +1,6 @@
 # ruHaskell-learn/lhx - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 15 | 5 | 
 | 2022-11-12 | 15 | 5 | 
 | 2022-11-10 | 15 | 5 | 
 | 2022-11-09 | 15 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 15 | 6 | 
 | 2022-10-15 | 15 | 5 | 
 | 2022-10-14 | 15 | 5 | 
-| 2022-10-13 | 15 | 5 | 
 

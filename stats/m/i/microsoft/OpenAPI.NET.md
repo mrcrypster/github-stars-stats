@@ -1,10 +1,10 @@
 # microsoft/OpenAPI.NET - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 173
 
-★ Stars: 1038
+★ Stars: 1039
 
 [Open repository](https://github.com/microsoft/OpenAPI.NET)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1039 | 173 | 
 | 2022-11-11 | 1038 | 173 | 
 | 2022-11-10 | 1038 | 173 | 
 | 2022-11-09 | 1038 | 172 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1029 | 170 | 
 | 2022-10-15 | 1028 | 170 | 
 | 2022-10-14 | 1028 | 169 | 
-| 2022-10-13 | 1028 | 168 | 
 

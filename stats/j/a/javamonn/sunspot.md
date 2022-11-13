@@ -1,6 +1,6 @@
 # javamonn/sunspot - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 64 | 25 | 
 | 2022-11-12 | 64 | 25 | 
 | 2022-11-10 | 64 | 25 | 
 | 2022-11-09 | 64 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 65 | 24 | 
 | 2022-10-15 | 65 | 24 | 
 | 2022-10-14 | 64 | 24 | 
-| 2022-10-13 | 62 | 24 | 
 

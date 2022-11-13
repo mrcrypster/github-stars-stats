@@ -1,6 +1,6 @@
 # cjdoris/LogarithmicNumbers.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 51 | 3 | 
 | 2022-11-11 | 51 | 3 | 
 | 2022-11-10 | 51 | 3 | 
 | 2022-11-09 | 51 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 51 | 3 | 
 | 2022-10-15 | 51 | 3 | 
 | 2022-10-14 | 51 | 3 | 
-| 2022-10-13 | 50 | 3 | 
 

@@ -1,6 +1,6 @@
 # taichi-ishitani/tvip-axi - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 156 | 62 | 
 | 2022-11-11 | 156 | 62 | 
 | 2022-11-10 | 156 | 62 | 
 | 2022-11-09 | 155 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 148 | 61 | 
 | 2022-10-15 | 148 | 61 | 
 | 2022-10-14 | 148 | 61 | 
-| 2022-10-13 | 148 | 61 | 
 

@@ -1,6 +1,6 @@
 # NagliNagli/BountyTricks - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 111
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 620 | 111 | 
 | 2022-11-11 | 620 | 111 | 
 | 2022-11-10 | 620 | 110 | 
 | 2022-11-09 | 621 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 596 | 104 | 
 | 2022-10-16 | 592 | 104 | 
 | 2022-10-15 | 575 | 103 | 
-| 2022-10-14 | 511 | 98 | 
 

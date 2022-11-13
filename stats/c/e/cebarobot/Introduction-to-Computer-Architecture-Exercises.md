@@ -1,10 +1,10 @@
 # cebarobot/Introduction-to-Computer-Architecture-Exercises - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 14
 
-★ Stars: 29
+★ Stars: 30
 
 [Open repository](https://github.com/cebarobot/Introduction-to-Computer-Architecture-Exercises)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 30 | 14 | 
 | 2022-11-11 | 29 | 14 | 
 | 2022-11-10 | 29 | 14 | 
 | 2022-11-09 | 29 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 29 | 13 | 
 | 2022-10-15 | 29 | 13 | 
 | 2022-10-14 | 29 | 13 | 
-| 2022-10-13 | 29 | 13 | 
 

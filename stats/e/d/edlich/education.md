@@ -1,8 +1,8 @@
 # edlich/education - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 283
+☋ Forks: 282
 
 ★ Stars: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 14 | 282 | 
 | 2022-11-11 | 14 | 283 | 
 | 2022-11-10 | 14 | 283 | 
 | 2022-11-09 | 14 | 283 | 

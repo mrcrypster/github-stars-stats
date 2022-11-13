@@ -1,6 +1,6 @@
 # terraform-google-modules/terraform-google-bastion-host - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 81
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 84 | 81 | 
 | 2022-11-11 | 84 | 81 | 
 | 2022-11-10 | 84 | 81 | 
 | 2022-11-09 | 84 | 81 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 83 | 79 | 
 | 2022-10-15 | 83 | 79 | 
 | 2022-10-14 | 83 | 79 | 
-| 2022-10-13 | 83 | 79 | 
 

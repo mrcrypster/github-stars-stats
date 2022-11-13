@@ -1,10 +1,10 @@
 # PaddlePaddle/Paddle-Lite - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1521
+☋ Forks: 1520
 
-★ Stars: 6280
+★ Stars: 6281
 
 [Open repository](https://github.com/PaddlePaddle/Paddle-Lite)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 6281 | 1520 | 
 | 2022-11-11 | 6280 | 1521 | 
 | 2022-11-10 | 6275 | 1521 | 
 | 2022-11-09 | 6274 | 1521 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 6244 | 1506 | 
 | 2022-10-15 | 6242 | 1506 | 
 | 2022-10-14 | 6242 | 1506 | 
-| 2022-10-13 | 6242 | 1506 | 
 

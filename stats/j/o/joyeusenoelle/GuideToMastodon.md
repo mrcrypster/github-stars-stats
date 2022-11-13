@@ -1,10 +1,10 @@
 # joyeusenoelle/GuideToMastodon - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 23
 
-★ Stars: 504
+★ Stars: 517
 
 [Open repository](https://github.com/joyeusenoelle/GuideToMastodon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 517 | 23 | 
 | 2022-11-11 | 504 | 23 | 
 | 2022-11-10 | 487 | 22 | 
 | 2022-11-09 | 471 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 287 | 17 | 
 | 2022-10-15 | 287 | 17 | 
 | 2022-10-14 | 287 | 17 | 
-| 2022-10-13 | 288 | 17 | 
 

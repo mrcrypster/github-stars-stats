@@ -1,10 +1,10 @@
 # vobyjs/voby - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 12
 
-★ Stars: 581
+★ Stars: 583
 
 [Open repository](https://github.com/vobyjs/voby)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 583 | 12 | 
 | 2022-11-11 | 581 | 12 | 
 | 2022-11-10 | 580 | 12 | 
 | 2022-11-09 | 579 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 569 | 12 | 
 | 2022-10-15 | 567 | 12 | 
 | 2022-10-14 | 567 | 12 | 
-| 2022-10-13 | 566 | 12 | 
 

@@ -1,10 +1,10 @@
 # rafaballerini/rafaballerini - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 16098
+☋ Forks: 16114
 
-★ Stars: 2038
+★ Stars: 2042
 
 [Open repository](https://github.com/rafaballerini/rafaballerini)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2042 | 16114 | 
 | 2022-11-11 | 2038 | 16098 | 
 | 2022-11-10 | 2033 | 16090 | 
 | 2022-11-09 | 2032 | 16074 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1996 | 15664 | 
 | 2022-10-15 | 1990 | 15650 | 
 | 2022-10-14 | 1989 | 15633 | 
-| 2022-10-13 | 1986 | 15610 | 
 

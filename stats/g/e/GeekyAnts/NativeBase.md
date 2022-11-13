@@ -1,10 +1,10 @@
 # GeekyAnts/NativeBase - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2296
 
-★ Stars: 18582
+★ Stars: 18586
 
 [Open repository](https://github.com/GeekyAnts/NativeBase)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 18586 | 2296 | 
 | 2022-11-11 | 18582 | 2296 | 
 | 2022-11-10 | 18573 | 2295 | 
 | 2022-11-09 | 18571 | 2296 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 18431 | 2285 | 
 | 2022-10-15 | 18427 | 2286 | 
 | 2022-10-14 | 18427 | 2286 | 
-| 2022-10-13 | 18420 | 2283 | 
 

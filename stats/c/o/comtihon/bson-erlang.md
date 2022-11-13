@@ -1,6 +1,6 @@
 # comtihon/bson-erlang - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 59 | 79 | 
 | 2022-11-11 | 59 | 79 | 
 | 2022-11-10 | 59 | 79 | 
 | 2022-11-09 | 59 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 59 | 79 | 
 | 2022-10-15 | 59 | 79 | 
 | 2022-10-14 | 59 | 79 | 
-| 2022-10-13 | 59 | 79 | 
 

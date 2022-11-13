@@ -1,6 +1,6 @@
 # vmware-tanzu/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 283
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 173 | 283 | 
 | 2022-11-11 | 173 | 283 | 
 | 2022-11-10 | 173 | 283 | 
 | 2022-11-09 | 173 | 281 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 172 | 277 | 
 | 2022-10-15 | 172 | 277 | 
 | 2022-10-14 | 172 | 277 | 
-| 2022-10-13 | 170 | 277 | 
 

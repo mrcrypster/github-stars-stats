@@ -1,6 +1,6 @@
 # surajp92/CFD_Julia - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 331 | 118 | 
 | 2022-11-11 | 331 | 118 | 
 | 2022-11-10 | 329 | 118 | 
 | 2022-11-09 | 329 | 118 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 317 | 114 | 
 | 2022-10-15 | 317 | 114 | 
 | 2022-10-14 | 317 | 114 | 
-| 2022-10-13 | 317 | 113 | 
 

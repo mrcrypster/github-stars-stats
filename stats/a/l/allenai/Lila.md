@@ -1,10 +1,10 @@
 # allenai/Lila - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 25
+★ Stars: 26
 
 [Open repository](https://github.com/allenai/Lila)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 26 | 5 | 
 | 2022-11-11 | 25 | 4 | 
 | 2022-11-10 | 25 | 4 | 
 | 2022-11-09 | 25 | 4 | 

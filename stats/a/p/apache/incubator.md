@@ -1,8 +1,8 @@
 # apache/incubator - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 41
+☋ Forks: 40
 
 ★ Stars: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 35 | 40 | 
 | 2022-11-11 | 35 | 41 | 
 | 2022-11-10 | 35 | 41 | 
 | 2022-11-09 | 35 | 41 | 

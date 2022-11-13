@@ -1,10 +1,10 @@
 # mcrumm/req_sandbox - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 23
 
 [Open repository](https://github.com/mcrumm/req_sandbox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 23 | - | 
 | 2022-11-11 | 22 | - | 
 | 2022-11-10 | 22 | - | 
 | 2022-11-09 | 22 | - | 

@@ -1,6 +1,6 @@
 # omerbsezer/Fast-Kubernetes - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 197
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 533 | 197 | 
 | 2022-11-11 | 533 | 197 | 
 | 2022-11-10 | 533 | 196 | 
 | 2022-11-09 | 532 | 196 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 525 | 191 | 
 | 2022-10-15 | 525 | 191 | 
 | 2022-10-14 | 525 | 190 | 
-| 2022-10-13 | 525 | 190 | 
 

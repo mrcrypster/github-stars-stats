@@ -1,6 +1,6 @@
 # merakiui/merakiui - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 123
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1546 | 123 | 
 | 2022-11-11 | 1546 | 123 | 
 | 2022-11-10 | 1545 | 123 | 
 | 2022-11-09 | 1545 | 123 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1520 | 123 | 
 | 2022-10-15 | 1519 | 123 | 
 | 2022-10-14 | 1517 | 123 | 
-| 2022-10-13 | 1516 | 123 | 
 

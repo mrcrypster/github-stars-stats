@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 12
 
-☋ Forks: 28
+☋ Forks: 29
 
-★ Stars: 121
+★ Stars: 125
 
 [Open repository](https://github.com/devcontainers/images)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-12 | 121 | 28 | 
+| 2022-11-12 | 125 | 29 | 
 | 2022-11-11 | 120 | 28 | 
 

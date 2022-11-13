@@ -1,10 +1,10 @@
 # lovell/sharp - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1180
+☋ Forks: 1179
 
-★ Stars: 23748
+★ Stars: 23755
 
 [Open repository](https://github.com/lovell/sharp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 23755 | 1179 | 
 | 2022-11-11 | 23748 | 1180 | 
 | 2022-11-10 | 23740 | 1179 | 
 | 2022-11-09 | 23728 | 1178 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 23537 | 1173 | 
 | 2022-10-15 | 23528 | 1173 | 
 | 2022-10-14 | 23526 | 1173 | 
-| 2022-10-13 | 23518 | 1173 | 
 

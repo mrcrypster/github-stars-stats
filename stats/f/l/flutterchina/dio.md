@@ -1,10 +1,10 @@
 # flutterchina/dio - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1340
+☋ Forks: 1341
 
-★ Stars: 11104
+★ Stars: 11107
 
 [Open repository](https://github.com/flutterchina/dio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 11107 | 1341 | 
 | 2022-11-11 | 11104 | 1340 | 
 | 2022-11-10 | 11103 | 1337 | 
 | 2022-11-09 | 11102 | 1336 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 11047 | 1323 | 
 | 2022-10-15 | 11047 | 1323 | 
 | 2022-10-14 | 11044 | 1323 | 
-| 2022-10-13 | 11043 | 1321 | 
 

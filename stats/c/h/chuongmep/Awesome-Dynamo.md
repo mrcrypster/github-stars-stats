@@ -1,6 +1,6 @@
 # chuongmep/Awesome-Dynamo - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 25 | 1 | 
 | 2022-11-12 | 25 | 1 | 
 | 2022-11-10 | 25 | 1 | 
 | 2022-11-09 | 25 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 23 | 1 | 
 | 2022-10-15 | 23 | 1 | 
 | 2022-10-14 | 23 | 1 | 
-| 2022-10-13 | 23 | 1 | 
 

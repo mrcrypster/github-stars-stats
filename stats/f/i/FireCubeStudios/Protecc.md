@@ -1,10 +1,10 @@
 # FireCubeStudios/Protecc - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 32
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/FireCubeStudios/Protecc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 209 | 32 | 
 | 2022-11-11 | 208 | 32 | 
 | 2022-11-10 | 207 | 32 | 
 | 2022-11-09 | 204 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 185 | 29 | 
 | 2022-10-16 | 183 | 29 | 
 | 2022-10-15 | 183 | 29 | 
-| 2022-10-14 | 183 | 29 | 
 

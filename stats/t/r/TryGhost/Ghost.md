@@ -1,10 +1,10 @@
 # TryGhost/Ghost - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 9017
+☋ Forks: 9018
 
-★ Stars: 41680
+★ Stars: 41684
 
 [Open repository](https://github.com/TryGhost/Ghost)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 41684 | 9018 | 
 | 2022-11-11 | 41680 | 9017 | 
 | 2022-11-10 | 41674 | 9017 | 
 | 2022-11-09 | 41675 | 9014 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 41499 | 8967 | 
 | 2022-10-15 | 41491 | 8960 | 
 | 2022-10-14 | 41487 | 8959 | 
-| 2022-10-13 | 41478 | 8955 | 
 

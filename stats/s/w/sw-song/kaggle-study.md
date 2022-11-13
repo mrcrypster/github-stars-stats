@@ -1,6 +1,6 @@
 # sw-song/kaggle-study - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 47 | 9 | 
 | 2022-11-11 | 47 | 9 | 
 | 2022-11-10 | 47 | 9 | 
 | 2022-11-09 | 47 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 46 | 9 | 
 | 2022-10-15 | 46 | 9 | 
 | 2022-10-14 | 46 | 9 | 
-| 2022-10-13 | 46 | 9 | 
 

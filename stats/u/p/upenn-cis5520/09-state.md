@@ -1,6 +1,6 @@
 # upenn-cis5520/09-state - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | - | 10 | 
 | 2022-11-11 | - | 10 | 
 | 2022-11-10 | - | 10 | 
 | 2022-11-09 | - | 10 | 

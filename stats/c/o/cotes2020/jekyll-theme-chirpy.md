@@ -1,10 +1,10 @@
 # cotes2020/jekyll-theme-chirpy - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 2992
+☋ Forks: 2996
 
-★ Stars: 3092
+★ Stars: 3099
 
 [Open repository](https://github.com/cotes2020/jekyll-theme-chirpy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3099 | 2996 | 
 | 2022-11-11 | 3092 | 2992 | 
 | 2022-11-10 | 3087 | 2984 | 
 | 2022-11-09 | 3086 | 2987 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2983 | 2914 | 
 | 2022-10-15 | 2980 | 2911 | 
 | 2022-10-14 | 2977 | 2906 | 
-| 2022-10-13 | 2972 | 2900 | 
 

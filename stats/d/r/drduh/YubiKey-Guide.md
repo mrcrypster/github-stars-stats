@@ -1,10 +1,10 @@
 # drduh/YubiKey-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 948
+☋ Forks: 949
 
-★ Stars: 8690
+★ Stars: 8702
 
 [Open repository](https://github.com/drduh/YubiKey-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 8702 | 949 | 
 | 2022-11-11 | 8690 | 948 | 
 | 2022-11-10 | 8686 | 948 | 
 | 2022-11-09 | 8685 | 948 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 8569 | 940 | 
 | 2022-10-15 | 8565 | 940 | 
 | 2022-10-14 | 8560 | 939 | 
-| 2022-10-13 | 8558 | 938 | 
 

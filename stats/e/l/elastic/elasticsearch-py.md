@@ -1,6 +1,6 @@
 # elastic/elasticsearch-py - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1129
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3782 | 1129 | 
 | 2022-11-11 | 3782 | 1129 | 
 | 2022-11-10 | 3781 | 1128 | 
 | 2022-11-09 | 3781 | 1127 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3766 | 1123 | 
 | 2022-10-15 | 3766 | 1124 | 
 | 2022-10-14 | 3765 | 1124 | 
-| 2022-10-13 | 3765 | 1123 | 
 

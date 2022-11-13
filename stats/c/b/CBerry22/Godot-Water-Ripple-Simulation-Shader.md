@@ -1,10 +1,10 @@
 # CBerry22/Godot-Water-Ripple-Simulation-Shader - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/CBerry22/Godot-Water-Ripple-Simulation-Shader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 18 | 1 | 
 | 2022-11-11 | 17 | - | 
 | 2022-11-10 | 15 | - | 
 | 2022-11-09 | 15 | - | 

@@ -1,10 +1,10 @@
 # yuanhao-cui/Must-Reading-on-ISAC - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 72
 
-★ Stars: 211
+★ Stars: 212
 
 [Open repository](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 212 | 72 | 
 | 2022-11-11 | 211 | 72 | 
 | 2022-11-10 | 211 | 72 | 
 | 2022-11-09 | 211 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 189 | 64 | 
 | 2022-10-15 | 187 | 64 | 
 | 2022-10-14 | 187 | 64 | 
-| 2022-10-13 | 187 | 64 | 
 

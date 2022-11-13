@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 12
 
 ☋ Forks: 3359
 
-★ Stars: 1911
+★ Stars: 1912
 
 [Open repository](https://github.com/liferay/liferay-portal)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-12 | 1911 | 3359 | 
+| 2022-11-12 | 1912 | 3359 | 
 | 2022-11-11 | 1911 | 3359 | 
 | 2022-11-10 | 1911 | 3358 | 
 | 2022-11-09 | 1909 | 3359 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 1905 | 3344 | 
 | 2022-10-15 | 1905 | 3345 | 
 | 2022-10-14 | 1905 | 3346 | 
-| 2022-10-13 | 1906 | 3346 | 
 

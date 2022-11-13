@@ -1,10 +1,10 @@
 # davidrmiller/biosim4 - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 333
+☋ Forks: 334
 
-★ Stars: 2277
+★ Stars: 2279
 
 [Open repository](https://github.com/davidrmiller/biosim4)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2279 | 334 | 
 | 2022-11-11 | 2277 | 333 | 
 | 2022-11-10 | 2277 | 333 | 
 | 2022-11-09 | 2276 | 332 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2253 | 327 | 
 | 2022-10-15 | 2252 | 327 | 
 | 2022-10-14 | 2251 | 327 | 
-| 2022-10-13 | 2250 | 327 | 
 

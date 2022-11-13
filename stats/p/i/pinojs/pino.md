@@ -1,6 +1,6 @@
 # pinojs/pino - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 754
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 10380 | 754 | 
 | 2022-11-11 | 10380 | 754 | 
 | 2022-11-10 | 10372 | 754 | 
 | 2022-11-09 | 10367 | 752 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 10183 | 742 | 
 | 2022-10-15 | 10180 | 742 | 
 | 2022-10-14 | 10177 | 742 | 
-| 2022-10-13 | 10174 | 742 | 
 

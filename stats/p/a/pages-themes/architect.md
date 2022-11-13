@@ -1,10 +1,10 @@
 # pages-themes/architect - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 622
+☋ Forks: 624
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/pages-themes/architect)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 240 | 624 | 
 | 2022-11-11 | 239 | 622 | 
 | 2022-11-10 | 238 | 619 | 
 | 2022-11-09 | 237 | 618 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 234 | 611 | 
 | 2022-10-15 | 234 | 611 | 
 | 2022-10-14 | 234 | 610 | 
-| 2022-10-13 | 234 | 610 | 
 

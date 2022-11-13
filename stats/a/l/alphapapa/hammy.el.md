@@ -1,10 +1,10 @@
 # alphapapa/hammy.el - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 3
 
-★ Stars: 93
+★ Stars: 94
 
 [Open repository](https://github.com/alphapapa/hammy.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 94 | 3 | 
 | 2022-11-11 | 93 | 3 | 
 | 2022-11-10 | 93 | 3 | 
 | 2022-11-09 | 93 | 3 | 

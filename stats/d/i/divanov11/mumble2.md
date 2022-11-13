@@ -1,10 +1,10 @@
 # divanov11/mumble2 - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 52
+☋ Forks: 53
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/divanov11/mumble2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 75 | 53 | 
 | 2022-11-11 | 74 | 52 | 
 | 2022-11-10 | 74 | 52 | 
 | 2022-11-09 | 73 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 67 | 50 | 
 | 2022-10-15 | 65 | 48 | 
 | 2022-10-14 | 65 | 48 | 
-| 2022-10-13 | 65 | 47 | 
 

@@ -1,10 +1,10 @@
 # LianjiaTech/bruno - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 336
 
-★ Stars: 2114
+★ Stars: 2116
 
 [Open repository](https://github.com/LianjiaTech/bruno)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2116 | 336 | 
 | 2022-11-11 | 2114 | 336 | 
 | 2022-11-10 | 2114 | 337 | 
 | 2022-11-09 | 2110 | 337 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2048 | 332 | 
 | 2022-10-15 | 2046 | 332 | 
 | 2022-10-14 | 2045 | 329 | 
-| 2022-10-13 | 2044 | 328 | 
 

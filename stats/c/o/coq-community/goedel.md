@@ -1,6 +1,6 @@
 # coq-community/goedel - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 26 | 3 | 
 | 2022-11-12 | 26 | 3 | 
 | 2022-11-11 | 26 | 3 | 
 | 2022-11-09 | 26 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 24 | 4 | 
 | 2022-10-15 | 24 | 4 | 
 | 2022-10-14 | 24 | 4 | 
-| 2022-10-13 | 24 | 4 | 
 

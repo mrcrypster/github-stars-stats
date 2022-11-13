@@ -1,10 +1,10 @@
 # IndustryEssentials/ymir - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 94
 
-★ Stars: 326
+★ Stars: 327
 
 [Open repository](https://github.com/IndustryEssentials/ymir)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 327 | 94 | 
 | 2022-11-11 | 326 | 94 | 
 | 2022-11-10 | 326 | 94 | 
 | 2022-11-09 | 324 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 310 | 86 | 
 | 2022-10-15 | 310 | 86 | 
 | 2022-10-14 | 310 | 86 | 
-| 2022-10-13 | 308 | 86 | 
 

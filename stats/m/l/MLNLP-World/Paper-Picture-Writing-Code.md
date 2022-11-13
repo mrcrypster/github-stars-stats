@@ -1,10 +1,10 @@
 # MLNLP-World/Paper-Picture-Writing-Code - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 55
 
-★ Stars: 534
+★ Stars: 536
 
 [Open repository](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 536 | 55 | 
 | 2022-11-11 | 534 | 55 | 
 | 2022-11-10 | 533 | 55 | 
 | 2022-11-09 | 532 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 320 | 29 | 
 | 2022-10-15 | 320 | 29 | 
 | 2022-10-14 | 320 | 29 | 
-| 2022-10-13 | 320 | 29 | 
 

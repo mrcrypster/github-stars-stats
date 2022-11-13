@@ -1,6 +1,6 @@
 # wolfenrain/wattles - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 129 | 3 | 
 | 2022-11-11 | 129 | 3 | 
 | 2022-11-10 | 129 | 3 | 
 | 2022-11-09 | 129 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 127 | 3 | 
 | 2022-10-15 | 127 | 3 | 
 | 2022-10-14 | 127 | 3 | 
-| 2022-10-13 | 127 | 3 | 
 

@@ -1,8 +1,8 @@
 # mlr-org/mlr3learners - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
-☋ Forks: 16
+☋ Forks: 17
 
 ★ Stars: 75
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 75 | 17 | 
+| 2022-11-12 | 75 | 17 | 
 | 2022-11-11 | 75 | 16 | 
 | 2022-11-10 | 75 | 16 | 
 | 2022-11-09 | 75 | 16 | 

@@ -1,6 +1,6 @@
 # gflclan-cs-go-ze/ZE-Configs - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 44 | 57 | 
 | 2022-11-11 | 44 | 57 | 
 | 2022-11-10 | 44 | 57 | 
 | 2022-11-09 | 44 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 44 | 54 | 
 | 2022-10-15 | 44 | 54 | 
 | 2022-10-14 | 44 | 54 | 
-| 2022-10-13 | 44 | 54 | 
 

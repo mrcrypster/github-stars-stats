@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 12
 
-☋ Forks: 143
+☋ Forks: 144
 
-★ Stars: 1997
+★ Stars: 2001
 
 [Open repository](https://github.com/MubertAI/Mubert-Text-to-Music)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-12 | 1997 | 143 | 
+| 2022-11-12 | 2001 | 144 | 
 | 2022-11-11 | 1996 | 143 | 
 | 2022-11-10 | 1943 | 144 | 
 | 2022-11-09 | 1832 | 132 | 

@@ -1,6 +1,6 @@
 # cloudposse/terraform-aws-ssm-tls-self-signed-cert - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 7 | 6 | 
 | 2022-11-11 | 7 | 6 | 
 | 2022-11-10 | 7 | 6 | 
 | 2022-11-09 | 7 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 7 | 6 | 
 | 2022-10-16 | 7 | 6 | 
 | 2022-10-15 | 7 | 6 | 
-| 2022-10-14 | 7 | 5 | 
 

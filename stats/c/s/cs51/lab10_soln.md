@@ -1,6 +1,6 @@
 # cs51/lab10_soln - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | - | 4 | 
 | 2022-11-11 | - | 4 | 
 | 2022-11-10 | - | 4 | 
 | 2022-11-09 | - | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | - | 4 | 
 | 2022-10-15 | - | 4 | 
 | 2022-10-14 | - | 4 | 
-| 2022-10-13 | - | 4 | 
 

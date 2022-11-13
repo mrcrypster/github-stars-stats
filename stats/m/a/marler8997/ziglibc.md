@@ -1,10 +1,10 @@
 # marler8997/ziglibc - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/marler8997/ziglibc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 83 | 1 | 
 | 2022-11-11 | 82 | 1 | 
 | 2022-11-10 | 81 | 1 | 
 | 2022-11-09 | 80 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 32 | - | 
 | 2022-10-15 | 32 | - | 
 | 2022-10-14 | 32 | - | 
-| 2022-10-13 | 32 | - | 
 

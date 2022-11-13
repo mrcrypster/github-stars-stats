@@ -1,10 +1,10 @@
 # teamssix/cf - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 131
 
-★ Stars: 1323
+★ Stars: 1325
 
 [Open repository](https://github.com/teamssix/cf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1325 | 131 | 
 | 2022-11-11 | 1323 | 131 | 
 | 2022-11-10 | 1321 | 131 | 
 | 2022-11-09 | 1318 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1207 | 110 | 
 | 2022-10-15 | 1205 | 110 | 
 | 2022-10-14 | 1205 | 110 | 
-| 2022-10-13 | 1203 | 110 | 
 

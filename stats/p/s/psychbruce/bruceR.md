@@ -1,6 +1,6 @@
 # psychbruce/bruceR - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 110 | 28 | 
 | 2022-11-11 | 110 | 28 | 
 | 2022-11-10 | 110 | 28 | 
 | 2022-11-09 | 110 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 105 | 28 | 
 | 2022-10-15 | 105 | 28 | 
 | 2022-10-14 | 104 | 28 | 
-| 2022-10-13 | 104 | 28 | 
 

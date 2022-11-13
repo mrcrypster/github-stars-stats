@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 12
 
 ☋ Forks: 8
 
-★ Stars: 37
+★ Stars: 41
 
 [Open repository](https://github.com/menglong521/Protobuf)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-12 | 37 | 8 | 
+| 2022-11-12 | 41 | 8 | 
 | 2022-11-11 | 36 | 8 | 
 

@@ -1,6 +1,6 @@
 # facebook/flow - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1854
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 21870 | 1854 | 
 | 2022-11-11 | 21870 | 1854 | 
 | 2022-11-10 | 21870 | 1854 | 
 | 2022-11-09 | 21871 | 1854 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 21848 | 1851 | 
 | 2022-10-15 | 21847 | 1851 | 
 | 2022-10-14 | 21846 | 1851 | 
-| 2022-10-13 | 21848 | 1851 | 
 

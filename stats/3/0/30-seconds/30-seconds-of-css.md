@@ -1,10 +1,10 @@
 # 30-seconds/30-seconds-of-css - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1074
+☋ Forks: 1075
 
-★ Stars: 15761
+★ Stars: 15763
 
 [Open repository](https://github.com/30-seconds/30-seconds-of-css)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 15763 | 1075 | 
 | 2022-11-11 | 15761 | 1074 | 
 | 2022-11-10 | 15759 | 1074 | 
 | 2022-11-09 | 15759 | 1074 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 15712 | 1067 | 
 | 2022-10-15 | 15710 | 1067 | 
 | 2022-10-14 | 15708 | 1067 | 
-| 2022-10-13 | 15704 | 1066 | 
 

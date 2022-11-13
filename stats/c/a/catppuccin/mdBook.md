@@ -1,10 +1,10 @@
 # catppuccin/mdBook - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2
 
-★ Stars: 33
+★ Stars: 34
 
 [Open repository](https://github.com/catppuccin/mdBook)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 34 | 2 | 
 | 2022-11-11 | 33 | 2 | 
 | 2022-11-10 | 33 | 2 | 
 | 2022-11-09 | 33 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 26 | 1 | 
 | 2022-10-15 | 26 | 1 | 
 | 2022-10-14 | 26 | 1 | 
-| 2022-10-13 | 26 | 1 | 
 

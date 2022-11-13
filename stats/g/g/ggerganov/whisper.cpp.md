@@ -1,10 +1,10 @@
 # ggerganov/whisper.cpp - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 76
+☋ Forks: 77
 
-★ Stars: 789
+★ Stars: 805
 
 [Open repository](https://github.com/ggerganov/whisper.cpp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 805 | 77 | 
 | 2022-11-11 | 789 | 76 | 
 | 2022-11-10 | 766 | 74 | 
 | 2022-11-09 | 750 | 73 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 301 | 29 | 
 | 2022-10-15 | 285 | 25 | 
 | 2022-10-14 | 278 | 26 | 
-| 2022-10-13 | 256 | 25 | 
 

@@ -1,10 +1,10 @@
 # stemrollerapp/stemroller - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 41
 
-★ Stars: 1698
+★ Stars: 1700
 
 [Open repository](https://github.com/stemrollerapp/stemroller)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1700 | 41 | 
 | 2022-11-11 | 1698 | 41 | 
 | 2022-11-10 | 1697 | 41 | 
 | 2022-11-09 | 1698 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1677 | 41 | 
 | 2022-10-15 | 1675 | 41 | 
 | 2022-10-14 | 1672 | 41 | 
-| 2022-10-13 | 1669 | 40 | 
 

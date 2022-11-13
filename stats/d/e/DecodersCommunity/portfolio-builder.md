@@ -1,6 +1,6 @@
 # DecodersCommunity/portfolio-builder - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 15 | 64 | 
 | 2022-11-11 | 15 | 64 | 
 | 2022-11-10 | 15 | 64 | 
 | 2022-11-09 | 15 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 14 | 46 | 
 | 2022-10-15 | 14 | 45 | 
 | 2022-10-14 | 14 | 42 | 
-| 2022-10-13 | 14 | 41 | 
 

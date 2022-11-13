@@ -1,10 +1,10 @@
 # CSBiology/FSharp.FGL - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 10
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/CSBiology/FSharp.FGL)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 50 | 10 | 
 | 2022-11-11 | 49 | 10 | 
 | 2022-11-10 | 49 | 10 | 
 | 2022-11-09 | 49 | 10 | 

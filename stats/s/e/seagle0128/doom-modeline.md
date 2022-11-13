@@ -1,10 +1,10 @@
 # seagle0128/doom-modeline - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 136
 
-★ Stars: 1005
+★ Stars: 1006
 
 [Open repository](https://github.com/seagle0128/doom-modeline)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1006 | 136 | 
 | 2022-11-11 | 1005 | 136 | 
 | 2022-11-10 | 1006 | 136 | 
 | 2022-11-09 | 1006 | 136 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 989 | 132 | 
 | 2022-10-15 | 989 | 132 | 
 | 2022-10-14 | 988 | 132 | 
-| 2022-10-13 | 988 | 132 | 
 

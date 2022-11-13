@@ -1,6 +1,6 @@
 # taoyage/yg-configs - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 273 | 41 | 
 | 2022-11-11 | 273 | 41 | 
 | 2022-11-10 | 273 | 41 | 
 | 2022-11-09 | 273 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 267 | 40 | 
 | 2022-10-15 | 267 | 40 | 
 | 2022-10-14 | 266 | 40 | 
-| 2022-10-13 | 265 | 40 | 
 

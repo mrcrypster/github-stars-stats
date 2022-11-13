@@ -1,6 +1,6 @@
 # Azure/NoOpsAccelerator - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 32 | 20 | 
 | 2022-11-11 | 32 | 20 | 
 | 2022-11-10 | 29 | 20 | 
 | 2022-11-09 | 28 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 23 | 8 | 
 | 2022-10-15 | 23 | 8 | 
 | 2022-10-14 | 23 | 8 | 
-| 2022-10-13 | 23 | 8 | 
 

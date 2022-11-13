@@ -1,6 +1,6 @@
 # BioJulia/BioSequences.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 118 | 42 | 
 | 2022-11-11 | 118 | 42 | 
 | 2022-11-10 | 116 | 42 | 
 | 2022-11-09 | 116 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 114 | 42 | 
 | 2022-10-16 | 114 | 42 | 
 | 2022-10-15 | 114 | 42 | 
-| 2022-10-14 | 114 | 42 | 
 

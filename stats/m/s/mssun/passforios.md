@@ -1,6 +1,6 @@
 # mssun/passforios - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1264 | 86 | 
 | 2022-11-11 | 1264 | 86 | 
 | 2022-11-10 | 1264 | 86 | 
 | 2022-11-09 | 1264 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1256 | 83 | 
 | 2022-10-15 | 1254 | 83 | 
 | 2022-10-14 | 1253 | 82 | 
-| 2022-10-13 | 1252 | 82 | 
 

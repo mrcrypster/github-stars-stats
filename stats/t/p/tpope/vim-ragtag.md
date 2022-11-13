@@ -1,10 +1,10 @@
 # tpope/vim-ragtag - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 58
 
-★ Stars: 350
+★ Stars: 351
 
 [Open repository](https://github.com/tpope/vim-ragtag)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 351 | 58 | 
 | 2022-11-11 | 350 | 58 | 
 | 2022-11-10 | 349 | 58 | 
 | 2022-11-09 | 349 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 349 | 58 | 
 | 2022-10-15 | 349 | 58 | 
 | 2022-10-14 | 349 | 58 | 
-| 2022-10-13 | 349 | 58 | 
 

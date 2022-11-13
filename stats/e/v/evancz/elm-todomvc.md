@@ -1,10 +1,10 @@
 # evancz/elm-todomvc - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 334
 
-★ Stars: 1205
+★ Stars: 1206
 
 [Open repository](https://github.com/evancz/elm-todomvc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1206 | 334 | 
 | 2022-11-11 | 1205 | 334 | 
 | 2022-11-10 | 1204 | 334 | 
 | 2022-11-09 | 1204 | 334 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1204 | 334 | 
 | 2022-10-15 | 1204 | 334 | 
 | 2022-10-14 | 1204 | 334 | 
-| 2022-10-13 | 1204 | 334 | 
 

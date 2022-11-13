@@ -1,10 +1,10 @@
 # Tw1sm/RITM - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 19
 
-★ Stars: 221
+★ Stars: 222
 
 [Open repository](https://github.com/Tw1sm/RITM)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 222 | 19 | 
 | 2022-11-12 | 221 | 19 | 
 | 2022-11-10 | 220 | 19 | 
 | 2022-11-09 | 220 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 196 | 17 | 
 | 2022-10-15 | 194 | 17 | 
 | 2022-10-14 | 191 | 17 | 
-| 2022-10-13 | 188 | 17 | 
 

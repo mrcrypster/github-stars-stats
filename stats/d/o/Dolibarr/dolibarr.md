@@ -1,10 +1,10 @@
 # Dolibarr/dolibarr - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 2178
+☋ Forks: 2176
 
-★ Stars: 3580
+★ Stars: 3582
 
 [Open repository](https://github.com/Dolibarr/dolibarr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3582 | 2176 | 
 | 2022-11-11 | 3580 | 2178 | 
 | 2022-11-10 | 3579 | 2178 | 
 | 2022-11-09 | 3575 | 2178 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3513 | 2159 | 
 | 2022-10-15 | 3509 | 2160 | 
 | 2022-10-14 | 3506 | 2162 | 
-| 2022-10-13 | 3504 | 2161 | 
 

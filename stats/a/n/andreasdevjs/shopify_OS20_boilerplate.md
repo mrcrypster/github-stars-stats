@@ -1,8 +1,8 @@
 # andreasdevjs/shopify_OS20_boilerplate - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
-☋ Forks: 18
+☋ Forks: 19
 
 ★ Stars: 60
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 60 | 19 | 
 | 2022-11-11 | 60 | 18 | 
 | 2022-11-10 | 60 | 18 | 
 | 2022-11-09 | 60 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 60 | 16 | 
 | 2022-10-15 | 60 | 16 | 
 | 2022-10-14 | 60 | 16 | 
-| 2022-10-13 | 60 | 15 | 
 

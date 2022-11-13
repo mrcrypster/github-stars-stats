@@ -1,6 +1,6 @@
 # lilxyzw/lilToon - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 469 | 38 | 
 | 2022-11-11 | 469 | 38 | 
 | 2022-11-10 | 469 | 38 | 
 | 2022-11-09 | 469 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 459 | 39 | 
 | 2022-10-15 | 457 | 39 | 
 | 2022-10-14 | 457 | 38 | 
-| 2022-10-13 | 457 | 38 | 
 

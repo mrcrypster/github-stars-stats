@@ -1,6 +1,6 @@
 # estevam5s/pedacinho-do-ceu-website - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2 | 13 | 
 | 2022-11-11 | 2 | 13 | 
 | 2022-11-10 | 2 | 13 | 
 

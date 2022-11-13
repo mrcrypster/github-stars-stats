@@ -1,10 +1,10 @@
 # void-linux/void-packages - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1648
+☋ Forks: 1651
 
-★ Stars: 1850
+★ Stars: 1852
 
 [Open repository](https://github.com/void-linux/void-packages)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1852 | 1651 | 
 | 2022-11-11 | 1850 | 1648 | 
 | 2022-11-10 | 1849 | 1647 | 
 | 2022-11-09 | 1848 | 1649 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1834 | 1627 | 
 | 2022-10-15 | 1834 | 1625 | 
 | 2022-10-14 | 1833 | 1624 | 
-| 2022-10-13 | 1830 | 1622 | 
 

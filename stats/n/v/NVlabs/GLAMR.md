@@ -1,6 +1,6 @@
 # NVlabs/GLAMR - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 246 | 18 | 
 | 2022-11-11 | 246 | 18 | 
 | 2022-11-10 | 246 | 18 | 
 | 2022-11-09 | 246 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 238 | 18 | 
 | 2022-10-15 | 238 | 18 | 
 | 2022-10-14 | 236 | 18 | 
-| 2022-10-13 | 236 | 18 | 
 

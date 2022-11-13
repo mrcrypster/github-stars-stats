@@ -1,6 +1,6 @@
 # FengYun27/Sheep_Hair - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 95 | 51 | 
 | 2022-11-11 | 95 | 51 | 
 | 2022-11-10 | 95 | 50 | 
 | 2022-11-09 | 95 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 90 | 48 | 
 | 2022-10-15 | 90 | 48 | 
 | 2022-10-14 | 90 | 48 | 
-| 2022-10-13 | 90 | 48 | 
 

@@ -1,6 +1,6 @@
 # SebastianUA/terraform - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 84
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 148 | 84 | 
 | 2022-11-11 | 148 | 84 | 
 | 2022-11-10 | 148 | 84 | 
 | 2022-11-09 | 148 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 147 | 79 | 
 | 2022-10-16 | 147 | 79 | 
 | 2022-10-15 | 147 | 79 | 
-| 2022-10-14 | 147 | 79 | 
 

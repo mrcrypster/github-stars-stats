@@ -1,6 +1,6 @@
 # GaryLuck/GarysBasic - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 8 | 1 | 
+| 2022-11-12 | 8 | 1 | 
 | 2022-11-11 | 8 | 1 | 
 | 2022-11-10 | 7 | 1 | 
 

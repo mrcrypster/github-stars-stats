@@ -1,6 +1,6 @@
 # davidbombal/hak5 - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 133
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 288 | 133 | 
 | 2022-11-11 | 288 | 133 | 
 | 2022-11-10 | 288 | 132 | 
 | 2022-11-09 | 287 | 132 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 274 | 130 | 
 | 2022-10-15 | 273 | 128 | 
 | 2022-10-14 | 271 | 128 | 
-| 2022-10-13 | 271 | 128 | 
 

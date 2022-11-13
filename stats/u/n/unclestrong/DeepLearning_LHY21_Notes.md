@@ -1,6 +1,6 @@
 # unclestrong/DeepLearning_LHY21_Notes - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 407
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1327 | 407 | 
 | 2022-11-11 | 1327 | 407 | 
 | 2022-11-10 | 1327 | 407 | 
 | 2022-11-09 | 1327 | 407 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1309 | 403 | 
 | 2022-10-15 | 1309 | 403 | 
 | 2022-10-14 | 1310 | 403 | 
-| 2022-10-13 | 1310 | 403 | 
 

@@ -1,6 +1,6 @@
 # justdeleteme/justdelete.me - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 424
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1258 | 424 | 
 | 2022-11-11 | 1258 | 424 | 
 | 2022-11-10 | 1257 | 424 | 
 | 2022-11-09 | 1258 | 424 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1247 | 424 | 
 | 2022-10-15 | 1247 | 425 | 
 | 2022-10-14 | 1247 | 425 | 
-| 2022-10-13 | 1247 | 425 | 
 

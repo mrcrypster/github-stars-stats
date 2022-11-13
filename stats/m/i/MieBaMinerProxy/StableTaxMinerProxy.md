@@ -1,6 +1,6 @@
 # MieBaMinerProxy/StableTaxMinerProxy - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 59
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 237 | 59 | 
 | 2022-11-11 | 237 | 59 | 
 | 2022-11-10 | 237 | 59 | 
 | 2022-11-09 | 236 | 59 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 238 | 59 | 
 | 2022-10-15 | 238 | 59 | 
 | 2022-10-14 | 238 | 59 | 
-| 2022-10-13 | 238 | 59 | 
 

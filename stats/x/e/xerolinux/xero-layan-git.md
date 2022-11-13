@@ -1,10 +1,10 @@
 # xerolinux/xero-layan-git - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 8
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/xerolinux/xero-layan-git)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 35 | 8 | 
 | 2022-11-11 | 34 | 8 | 
 | 2022-11-10 | 34 | 8 | 
 | 2022-11-09 | 34 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 33 | 9 | 
 | 2022-10-16 | 33 | 9 | 
 | 2022-10-14 | 33 | 9 | 
-| 2022-10-13 | 33 | 9 | 
 

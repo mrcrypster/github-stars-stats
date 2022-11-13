@@ -1,10 +1,10 @@
 # decompiler-explorer/decompiler-explorer - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 57
 
-★ Stars: 1023
+★ Stars: 1025
 
 [Open repository](https://github.com/decompiler-explorer/decompiler-explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1025 | 57 | 
 | 2022-11-11 | 1023 | 57 | 
 | 2022-11-10 | 1023 | 57 | 
 | 2022-11-09 | 1023 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 976 | 53 | 
 | 2022-10-16 | 976 | 53 | 
 | 2022-10-15 | 975 | 53 | 
-| 2022-10-14 | 974 | 53 | 
 

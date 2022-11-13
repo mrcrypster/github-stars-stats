@@ -1,10 +1,10 @@
 # tabler/tabler-icons - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 658
 
-★ Stars: 13069
+★ Stars: 13071
 
 [Open repository](https://github.com/tabler/tabler-icons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 13071 | 658 | 
 | 2022-11-11 | 13069 | 658 | 
 | 2022-11-10 | 13065 | 658 | 
 | 2022-11-09 | 13057 | 658 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 12917 | 653 | 
 | 2022-10-15 | 12914 | 653 | 
 | 2022-10-14 | 12904 | 653 | 
-| 2022-10-13 | 12899 | 653 | 
 

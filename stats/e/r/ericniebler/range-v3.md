@@ -1,8 +1,8 @@
 # ericniebler/range-v3 - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 398
+☋ Forks: 397
 
 ★ Stars: 3540
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3540 | 397 | 
 | 2022-11-11 | 3540 | 398 | 
 | 2022-11-10 | 3537 | 398 | 
 | 2022-11-09 | 3536 | 397 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3512 | 395 | 
 | 2022-10-15 | 3512 | 395 | 
 | 2022-10-14 | 3511 | 395 | 
-| 2022-10-13 | 3511 | 395 | 
 

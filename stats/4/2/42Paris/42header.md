@@ -1,8 +1,8 @@
 # 42Paris/42header - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 94
+☋ Forks: 95
 
 ★ Stars: 167
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 167 | 95 | 
 | 2022-11-11 | 167 | 94 | 
 | 2022-11-10 | 167 | 94 | 
 | 2022-11-09 | 167 | 94 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 167 | 94 | 
 | 2022-10-15 | 167 | 94 | 
 | 2022-10-14 | 167 | 94 | 
-| 2022-10-13 | 166 | 94 | 
 

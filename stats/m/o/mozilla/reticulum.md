@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 12
 
 ☋ Forks: 136
 
-★ Stars: 385
+★ Stars: 386
 
 [Open repository](https://github.com/mozilla/reticulum)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-12 | 385 | 136 | 
+| 2022-11-12 | 386 | 136 | 
 | 2022-11-11 | 385 | 136 | 
 | 2022-11-10 | 385 | 136 | 
 | 2022-11-09 | 385 | 136 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 381 | 131 | 
 | 2022-10-15 | 381 | 131 | 
 | 2022-10-14 | 381 | 131 | 
-| 2022-10-13 | 381 | 131 | 
 

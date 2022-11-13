@@ -1,8 +1,8 @@
 # StartBootstrap/startbootstrap-resume - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 2464
+☋ Forks: 2465
 
 ★ Stars: 1811
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1811 | 2465 | 
 | 2022-11-11 | 1811 | 2464 | 
 | 2022-11-10 | 1811 | 2464 | 
 | 2022-11-09 | 1810 | 2464 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1793 | 2432 | 
 | 2022-10-15 | 1793 | 2430 | 
 | 2022-10-14 | 1793 | 2430 | 
-| 2022-10-13 | 1792 | 2432 | 
 

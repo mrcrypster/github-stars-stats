@@ -1,10 +1,10 @@
 # cuynu/ytvanced - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 109
+☋ Forks: 110
 
-★ Stars: 910
+★ Stars: 930
 
 [Open repository](https://github.com/cuynu/ytvanced)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 930 | 110 | 
 | 2022-11-11 | 910 | 109 | 
 | 2022-11-10 | 902 | 108 | 
 | 2022-11-09 | 884 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 660 | 90 | 
 | 2022-10-15 | 655 | 90 | 
 | 2022-10-14 | 644 | 90 | 
-| 2022-10-13 | 637 | 90 | 
 

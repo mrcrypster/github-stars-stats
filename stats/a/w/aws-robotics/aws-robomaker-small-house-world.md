@@ -1,6 +1,6 @@
 # aws-robotics/aws-robomaker-small-house-world - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 133 | 46 | 
 | 2022-11-11 | 133 | 46 | 
 | 2022-11-10 | 133 | 46 | 
 | 2022-11-09 | 133 | 46 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 131 | 46 | 
 | 2022-10-15 | 131 | 46 | 
 | 2022-10-14 | 131 | 46 | 
-| 2022-10-13 | 131 | 46 | 
 

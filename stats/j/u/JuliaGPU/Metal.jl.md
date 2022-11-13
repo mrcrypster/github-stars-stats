@@ -1,10 +1,10 @@
 # JuliaGPU/Metal.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 10
 
-★ Stars: 197
+★ Stars: 199
 
 [Open repository](https://github.com/JuliaGPU/Metal.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 199 | 10 | 
 | 2022-11-11 | 197 | 10 | 
 | 2022-11-10 | 196 | 9 | 
 | 2022-11-09 | 196 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 187 | 9 | 
 | 2022-10-15 | 185 | 9 | 
 | 2022-10-14 | 185 | 9 | 
-| 2022-10-13 | 185 | 9 | 
 

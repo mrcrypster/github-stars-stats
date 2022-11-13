@@ -1,10 +1,10 @@
 # vuejs/create-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 176
+☋ Forks: 178
 
-★ Stars: 1492
+★ Stars: 1498
 
 [Open repository](https://github.com/vuejs/create-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1498 | 178 | 
 | 2022-11-11 | 1492 | 176 | 
 | 2022-11-10 | 1489 | 176 | 
 | 2022-11-09 | 1484 | 175 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1395 | 161 | 
 | 2022-10-15 | 1388 | 161 | 
 | 2022-10-14 | 1384 | 160 | 
-| 2022-10-13 | 1380 | 158 | 
 

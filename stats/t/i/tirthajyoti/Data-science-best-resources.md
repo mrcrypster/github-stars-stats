@@ -1,8 +1,8 @@
 # tirthajyoti/Data-science-best-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 802
+☋ Forks: 803
 
 ★ Stars: 2104
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2104 | 803 | 
 | 2022-11-11 | 2104 | 802 | 
 | 2022-11-10 | 2102 | 802 | 
 | 2022-11-09 | 2102 | 802 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2073 | 790 | 
 | 2022-10-15 | 2068 | 790 | 
 | 2022-10-14 | 2064 | 790 | 
-| 2022-10-13 | 2062 | 789 | 
 

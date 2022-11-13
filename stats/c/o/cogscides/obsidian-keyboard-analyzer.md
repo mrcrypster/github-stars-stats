@@ -1,10 +1,10 @@
 # cogscides/obsidian-keyboard-analyzer - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
-★ Stars: 38
+★ Stars: 39
 
 [Open repository](https://github.com/cogscides/obsidian-keyboard-analyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 39 | 1 | 
 | 2022-11-11 | 38 | 1 | 
 | 2022-11-10 | 38 | 1 | 
 | 2022-11-09 | 38 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 32 | 1 | 
 | 2022-10-15 | 31 | 1 | 
 | 2022-10-14 | 29 | 1 | 
-| 2022-10-13 | 29 | 1 | 
 

@@ -1,8 +1,8 @@
 # invenia/Mocking.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 11
+☋ Forks: 10
 
 ★ Stars: 46
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 46 | 10 | 
 | 2022-11-11 | 46 | 11 | 
 | 2022-11-10 | 46 | 11 | 
 | 2022-11-09 | 46 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 45 | 11 | 
 | 2022-10-15 | 45 | 11 | 
 | 2022-10-14 | 45 | 11 | 
-| 2022-10-13 | 45 | 11 | 
 

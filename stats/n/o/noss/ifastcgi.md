@@ -1,6 +1,6 @@
 # noss/ifastcgi - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 17 | 1 | 
 | 2022-11-11 | 17 | 1 | 
 | 2022-11-10 | 17 | 1 | 
 | 2022-11-09 | 17 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 17 | 1 | 
 | 2022-10-16 | 17 | 1 | 
 | 2022-10-15 | 17 | 1 | 
-| 2022-10-14 | 17 | 1 | 
 

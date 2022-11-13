@@ -1,10 +1,10 @@
 # alvaroreis/bolsonaro2turno - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 73
 
-★ Stars: 123
+★ Stars: 122
 
 [Open repository](https://github.com/alvaroreis/bolsonaro2turno)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 122 | 73 | 
 | 2022-11-11 | 123 | 73 | 
 | 2022-11-10 | 123 | 73 | 
 | 2022-11-09 | 123 | 73 | 

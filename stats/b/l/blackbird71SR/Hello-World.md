@@ -1,10 +1,10 @@
 # blackbird71SR/Hello-World - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1810
 
-★ Stars: 630
+★ Stars: 631
 
 [Open repository](https://github.com/blackbird71SR/Hello-World)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 631 | 1810 | 
 | 2022-11-11 | 630 | 1810 | 
 | 2022-11-10 | 630 | 1809 | 
 | 2022-11-09 | 630 | 1809 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 623 | 1803 | 
 | 2022-10-15 | 623 | 1802 | 
 | 2022-10-14 | 622 | 1802 | 
-| 2022-10-13 | 622 | 1801 | 
 

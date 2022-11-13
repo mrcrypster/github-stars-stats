@@ -1,10 +1,10 @@
 # rougier/minibuffer-header - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 3
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/rougier/minibuffer-header)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 38 | 3 | 
 | 2022-11-11 | 37 | 3 | 
 | 2022-11-10 | 37 | 3 | 
 | 2022-11-09 | 37 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 37 | 3 | 
 | 2022-10-15 | 37 | 3 | 
 | 2022-10-14 | 37 | 3 | 
-| 2022-10-13 | 37 | 3 | 
 

@@ -1,10 +1,10 @@
 # nuxt/movies - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 55
+☋ Forks: 56
 
-★ Stars: 765
+★ Stars: 766
 
 [Open repository](https://github.com/nuxt/movies)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 766 | 56 | 
 | 2022-11-11 | 765 | 55 | 
 | 2022-11-10 | 762 | 55 | 
 | 2022-11-09 | 762 | 55 | 

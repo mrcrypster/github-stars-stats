@@ -1,10 +1,10 @@
 # hlissner/emacs-hide-mode-line - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 4
 
-★ Stars: 49
+★ Stars: 50
 
 [Open repository](https://github.com/hlissner/emacs-hide-mode-line)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 50 | 4 | 
 | 2022-11-11 | 49 | 4 | 
 | 2022-11-10 | 49 | 4 | 
 | 2022-11-09 | 49 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 49 | 4 | 
 | 2022-10-15 | 49 | 4 | 
 | 2022-10-14 | 49 | 4 | 
-| 2022-10-13 | 49 | 4 | 
 

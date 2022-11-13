@@ -1,6 +1,6 @@
 # papers-we-love/papers-we-love.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 166 | 68 | 
 | 2022-11-11 | 166 | 68 | 
 | 2022-11-10 | 166 | 68 | 
 | 2022-11-09 | 166 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 165 | 68 | 
 | 2022-10-15 | 165 | 68 | 
 | 2022-10-14 | 165 | 68 | 
-| 2022-10-13 | 165 | 68 | 
 

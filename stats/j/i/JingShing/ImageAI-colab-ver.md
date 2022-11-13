@@ -1,10 +1,10 @@
 # JingShing/ImageAI-colab-ver - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 17
+☋ Forks: 16
 
-★ Stars: 52
+★ Stars: 55
 
 [Open repository](https://github.com/JingShing/ImageAI-colab-ver)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 55 | 16 | 
 | 2022-11-11 | 52 | 17 | 
 | 2022-11-10 | 52 | 16 | 
 | 2022-11-09 | 52 | 15 | 

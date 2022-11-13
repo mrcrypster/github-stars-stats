@@ -1,6 +1,6 @@
 # ManasHarsh/Cobra - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 169 | 38 | 
 | 2022-11-11 | 169 | 38 | 
 | 2022-11-10 | 169 | 38 | 
 | 2022-11-09 | 169 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 165 | 36 | 
 | 2022-10-15 | 165 | 36 | 
 | 2022-10-14 | 165 | 36 | 
-| 2022-10-13 | 165 | 36 | 
 

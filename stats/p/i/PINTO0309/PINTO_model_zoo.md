@@ -1,10 +1,10 @@
 # PINTO0309/PINTO_model_zoo - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 392
 
-★ Stars: 2262
+★ Stars: 2263
 
 [Open repository](https://github.com/PINTO0309/PINTO_model_zoo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2263 | 392 | 
 | 2022-11-11 | 2262 | 392 | 
 | 2022-11-10 | 2261 | 390 | 
 | 2022-11-09 | 2258 | 389 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 2195 | 373 | 
 | 2022-10-16 | 2194 | 372 | 
 | 2022-10-15 | 2194 | 371 | 
-| 2022-10-14 | 2193 | 371 | 
 

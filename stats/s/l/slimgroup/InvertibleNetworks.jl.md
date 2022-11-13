@@ -1,6 +1,6 @@
 # slimgroup/InvertibleNetworks.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 89 | 12 | 
 | 2022-11-11 | 89 | 12 | 
 | 2022-11-10 | 89 | 12 | 
 | 2022-11-09 | 89 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 87 | 12 | 
 | 2022-10-15 | 87 | 12 | 
 | 2022-10-14 | 87 | 12 | 
-| 2022-10-13 | 87 | 12 | 
 

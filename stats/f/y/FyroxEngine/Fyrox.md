@@ -1,10 +1,10 @@
 # FyroxEngine/Fyrox - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 214
 
-★ Stars: 5137
+★ Stars: 5144
 
 [Open repository](https://github.com/FyroxEngine/Fyrox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 5144 | 214 | 
 | 2022-11-11 | 5137 | 214 | 
 | 2022-11-10 | 5133 | 214 | 
 | 2022-11-09 | 5127 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 4922 | 202 | 
 | 2022-10-15 | 4916 | 202 | 
 | 2022-10-14 | 4902 | 201 | 
-| 2022-10-13 | 4810 | 197 | 
 

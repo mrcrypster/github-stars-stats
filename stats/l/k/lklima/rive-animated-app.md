@@ -1,6 +1,6 @@
 # lklima/rive-animated-app - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 287 | 44 | 
 | 2022-11-11 | 287 | 44 | 
 | 2022-11-10 | 287 | 44 | 
 | 2022-11-09 | 287 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 284 | 43 | 
 | 2022-10-15 | 284 | 43 | 
 | 2022-10-14 | 284 | 43 | 
-| 2022-10-13 | 283 | 43 | 
 

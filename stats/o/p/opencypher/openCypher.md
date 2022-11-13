@@ -1,6 +1,6 @@
 # opencypher/openCypher - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 139
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 699 | 139 | 
 | 2022-11-11 | 699 | 139 | 
 | 2022-11-10 | 699 | 139 | 
 | 2022-11-09 | 699 | 138 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 687 | 137 | 
 | 2022-10-15 | 687 | 137 | 
 | 2022-10-14 | 687 | 137 | 
-| 2022-10-13 | 687 | 137 | 
 

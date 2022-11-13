@@ -1,6 +1,6 @@
 # epiccastle/bbssh - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 27 | 1 | 
 | 2022-11-11 | 27 | 1 | 
 | 2022-11-10 | 27 | 1 | 
 | 2022-11-09 | 27 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 26 | - | 
 | 2022-10-15 | 25 | - | 
 | 2022-10-14 | 24 | - | 
-| 2022-10-13 | 24 | - | 
 

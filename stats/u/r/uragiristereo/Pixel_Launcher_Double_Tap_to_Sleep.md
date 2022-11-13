@@ -1,6 +1,6 @@
 # uragiristereo/Pixel_Launcher_Double_Tap_to_Sleep - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 16 | - | 
 | 2022-11-11 | 16 | - | 
 | 2022-11-10 | 15 | - | 
 | 2022-11-09 | 15 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 14 | - | 
 | 2022-10-15 | 14 | - | 
 | 2022-10-14 | 14 | - | 
-| 2022-10-13 | 14 | - | 
 

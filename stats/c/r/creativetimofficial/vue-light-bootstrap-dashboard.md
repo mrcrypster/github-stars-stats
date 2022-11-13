@@ -1,6 +1,6 @@
 # creativetimofficial/vue-light-bootstrap-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 316
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 725 | 316 | 
 | 2022-11-11 | 725 | 316 | 
 | 2022-11-10 | 725 | 314 | 
 | 2022-11-09 | 724 | 313 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 722 | 291 | 
 | 2022-10-15 | 721 | 288 | 
 | 2022-10-14 | 721 | 288 | 
-| 2022-10-13 | 721 | 288 | 
 

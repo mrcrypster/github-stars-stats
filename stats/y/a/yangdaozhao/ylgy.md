@@ -1,10 +1,10 @@
 # yangdaozhao/ylgy - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 48
 
-★ Stars: 153
+★ Stars: 152
 
 [Open repository](https://github.com/yangdaozhao/ylgy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 152 | 48 | 
 | 2022-11-11 | 153 | 48 | 
 | 2022-11-10 | 153 | 48 | 
 | 2022-11-09 | 153 | 48 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 155 | 51 | 
 | 2022-10-15 | 155 | 51 | 
 | 2022-10-14 | 155 | 51 | 
-| 2022-10-13 | 156 | 51 | 
 

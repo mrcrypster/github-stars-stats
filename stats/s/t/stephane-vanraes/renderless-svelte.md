@@ -1,6 +1,6 @@
 # stephane-vanraes/renderless-svelte - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 266 | 11 | 
 | 2022-11-11 | 266 | 11 | 
 | 2022-11-10 | 266 | 11 | 
 | 2022-11-09 | 266 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 264 | 11 | 
 | 2022-10-15 | 264 | 11 | 
 | 2022-10-14 | 264 | 11 | 
-| 2022-10-13 | 264 | 11 | 
 

@@ -1,10 +1,10 @@
 # transmissions11/foundry-template - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 15
 
-★ Stars: 131
+★ Stars: 132
 
 [Open repository](https://github.com/transmissions11/foundry-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 132 | 15 | 
 | 2022-11-11 | 131 | 15 | 
 | 2022-11-10 | 130 | 13 | 
 | 2022-11-09 | 130 | 13 | 

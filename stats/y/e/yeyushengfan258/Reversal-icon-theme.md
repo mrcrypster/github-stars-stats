@@ -1,10 +1,10 @@
 # yeyushengfan258/Reversal-icon-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 22
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/yeyushengfan258/Reversal-icon-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 248 | 22 | 
 | 2022-11-11 | 247 | 22 | 
 | 2022-11-10 | 246 | 22 | 
 | 2022-11-09 | 245 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 240 | 21 | 
 | 2022-10-15 | 240 | 21 | 
 | 2022-10-14 | 239 | 21 | 
-| 2022-10-13 | 239 | 21 | 
 

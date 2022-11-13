@@ -1,6 +1,6 @@
 # pelias/pelias - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 223
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2874 | 223 | 
 | 2022-11-11 | 2874 | 223 | 
 | 2022-11-10 | 2872 | 223 | 
 | 2022-11-09 | 2872 | 223 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2862 | 222 | 
 | 2022-10-15 | 2862 | 222 | 
 | 2022-10-14 | 2862 | 222 | 
-| 2022-10-13 | 2862 | 222 | 
 

@@ -1,10 +1,10 @@
 # BNDong/Cnblogs-Theme-SimpleMemory - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1504
+☋ Forks: 1507
 
-★ Stars: 3207
+★ Stars: 3210
 
 [Open repository](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3210 | 1507 | 
 | 2022-11-11 | 3207 | 1504 | 
 | 2022-11-10 | 3207 | 1505 | 
 | 2022-11-09 | 3205 | 1506 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3162 | 1495 | 
 | 2022-10-15 | 3162 | 1495 | 
 | 2022-10-14 | 3162 | 1496 | 
-| 2022-10-13 | 3162 | 1495 | 
 

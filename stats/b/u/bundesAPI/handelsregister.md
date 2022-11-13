@@ -1,10 +1,10 @@
 # bundesAPI/handelsregister - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 14
 
-★ Stars: 201
+★ Stars: 204
 
 [Open repository](https://github.com/bundesAPI/handelsregister)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 204 | 14 | 
 | 2022-11-11 | 201 | 14 | 
 | 2022-11-10 | 201 | 14 | 
 | 2022-11-09 | 201 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 196 | 12 | 
 | 2022-10-15 | 196 | 12 | 
 | 2022-10-14 | 196 | 12 | 
-| 2022-10-13 | 195 | 12 | 
 

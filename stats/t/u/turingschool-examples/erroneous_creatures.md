@@ -1,6 +1,6 @@
 # turingschool-examples/erroneous_creatures - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 294
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1 | 294 | 
 | 2022-11-11 | 1 | 294 | 
 | 2022-11-10 | 1 | 294 | 
 | 2022-11-09 | 1 | 294 | 

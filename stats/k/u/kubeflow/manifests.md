@@ -1,10 +1,10 @@
 # kubeflow/manifests - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 624
 
-★ Stars: 502
+★ Stars: 503
 
 [Open repository](https://github.com/kubeflow/manifests)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 503 | 624 | 
 | 2022-11-11 | 502 | 624 | 
 | 2022-11-10 | 502 | 624 | 
 | 2022-11-09 | 501 | 624 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 489 | 619 | 
 | 2022-10-15 | 489 | 619 | 
 | 2022-10-14 | 489 | 619 | 
-| 2022-10-13 | 488 | 619 | 
 

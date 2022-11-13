@@ -1,8 +1,8 @@
 # yunyuyuan/nuxt2-blog - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 87
+☋ Forks: 88
 
 ★ Stars: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 8 | 88 | 
 | 2022-11-11 | 8 | 87 | 
 | 2022-11-10 | 8 | 87 | 
 | 2022-11-09 | 8 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 8 | 91 | 
 | 2022-10-15 | 8 | 91 | 
 | 2022-10-14 | 8 | 91 | 
-| 2022-10-13 | 8 | 91 | 
 

@@ -1,6 +1,6 @@
 # shenyaocn/IP-Camera-Bridge - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 386 | 116 | 
 | 2022-11-11 | 386 | 116 | 
 | 2022-11-10 | 384 | 116 | 
 | 2022-11-09 | 384 | 116 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 378 | 116 | 
 | 2022-10-15 | 378 | 116 | 
 | 2022-10-14 | 378 | 116 | 
-| 2022-10-13 | 376 | 116 | 
 

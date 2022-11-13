@@ -1,6 +1,6 @@
 # juxt/site - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 110 | 19 | 
 | 2022-11-11 | 110 | 19 | 
 | 2022-11-10 | 110 | 19 | 
 | 2022-11-09 | 110 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 109 | 18 | 
 | 2022-10-15 | 109 | 18 | 
 | 2022-10-14 | 109 | 18 | 
-| 2022-10-13 | 109 | 18 | 
 

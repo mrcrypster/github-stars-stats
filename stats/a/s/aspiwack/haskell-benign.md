@@ -1,10 +1,10 @@
 # aspiwack/haskell-benign - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 14
+★ Stars: 16
 
 [Open repository](https://github.com/aspiwack/haskell-benign)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 16 | - | 
 | 2022-11-11 | 14 | - | 
 | 2022-11-10 | 14 | - | 
 

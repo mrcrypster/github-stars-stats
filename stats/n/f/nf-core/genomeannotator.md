@@ -1,6 +1,6 @@
 # nf-core/genomeannotator - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 6 | 7 | 
 | 2022-11-11 | 6 | 7 | 
 | 2022-11-10 | 5 | 7 | 
 | 2022-11-09 | 5 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 5 | 6 | 
 | 2022-10-15 | 5 | 5 | 
 | 2022-10-14 | 5 | 5 | 
-| 2022-10-13 | 3 | 4 | 
 

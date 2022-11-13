@@ -1,6 +1,6 @@
 # aodaod0987/SF-220-finalProject - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | - | 2 | 
 | 2022-11-12 | - | 2 | 
 | 2022-11-10 | - | 4 | 
 | 2022-11-09 | - | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | - | 4 | 
 | 2022-10-15 | - | 4 | 
 | 2022-10-14 | - | 4 | 
-| 2022-10-13 | - | 4 | 
 

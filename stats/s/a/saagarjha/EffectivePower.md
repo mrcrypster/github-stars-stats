@@ -1,6 +1,6 @@
 # saagarjha/EffectivePower - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 128 | 4 | 
 | 2022-11-11 | 128 | 4 | 
 | 2022-11-10 | 128 | 4 | 
 | 2022-11-09 | 127 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 125 | 4 | 
 | 2022-10-15 | 125 | 4 | 
 | 2022-10-14 | 125 | 4 | 
-| 2022-10-13 | 125 | 4 | 
 

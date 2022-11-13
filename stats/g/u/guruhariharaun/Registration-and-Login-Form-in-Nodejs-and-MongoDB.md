@@ -1,10 +1,10 @@
 # guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 40
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 69 | 40 | 
 | 2022-11-11 | 68 | 40 | 
 | 2022-11-10 | 68 | 40 | 
 | 2022-11-09 | 68 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 64 | 35 | 
 | 2022-10-16 | 64 | 35 | 
 | 2022-10-15 | 64 | 35 | 
-| 2022-10-14 | 64 | 34 | 
 

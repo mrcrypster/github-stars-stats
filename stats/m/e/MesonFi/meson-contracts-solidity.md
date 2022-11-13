@@ -1,10 +1,10 @@
 # MesonFi/meson-contracts-solidity - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 18
 
-★ Stars: 86
+★ Stars: 87
 
 [Open repository](https://github.com/MesonFi/meson-contracts-solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 87 | 18 | 
 | 2022-11-11 | 86 | 18 | 
 | 2022-11-10 | 86 | 18 | 
 | 2022-11-09 | 86 | 18 | 

@@ -1,10 +1,10 @@
 # onnx/onnx-tensorrt - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 484
 
-★ Stars: 2181
+★ Stars: 2182
 
 [Open repository](https://github.com/onnx/onnx-tensorrt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2182 | 484 | 
 | 2022-11-11 | 2181 | 484 | 
 | 2022-11-10 | 2178 | 483 | 
 | 2022-11-09 | 2177 | 482 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 2141 | 477 | 
 | 2022-10-15 | 2140 | 477 | 
 | 2022-10-14 | 2140 | 477 | 
-| 2022-10-13 | 2139 | 478 | 
 

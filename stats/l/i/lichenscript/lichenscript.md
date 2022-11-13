@@ -1,6 +1,6 @@
 # lichenscript/lichenscript - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 60 | 2 | 
 | 2022-11-11 | 60 | 2 | 
 | 2022-11-10 | 60 | 2 | 
 | 2022-11-09 | 60 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 60 | 2 | 
 | 2022-10-15 | 60 | 2 | 
 | 2022-10-14 | 60 | 2 | 
-| 2022-10-13 | 60 | 2 | 
 

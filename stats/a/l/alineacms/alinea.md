@@ -1,10 +1,10 @@
 # alineacms/alinea - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 29
 
-★ Stars: 580
+★ Stars: 582
 
 [Open repository](https://github.com/alineacms/alinea)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 582 | 29 | 
 | 2022-11-12 | 580 | 29 | 
 | 2022-11-10 | 580 | 29 | 
 | 2022-11-09 | 576 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 531 | 27 | 
 | 2022-10-15 | 528 | 27 | 
 | 2022-10-14 | 521 | 28 | 
-| 2022-10-13 | 509 | 27 | 
 

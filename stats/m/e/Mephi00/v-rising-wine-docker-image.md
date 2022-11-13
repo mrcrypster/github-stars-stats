@@ -1,6 +1,6 @@
 # Mephi00/v-rising-wine-docker-image - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 43 | 23 | 
 | 2022-11-11 | 43 | 23 | 
 | 2022-11-10 | 43 | 23 | 
 | 2022-11-09 | 43 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 41 | 23 | 
 | 2022-10-15 | 41 | 23 | 
 | 2022-10-14 | 41 | 23 | 
-| 2022-10-13 | 41 | 23 | 
 

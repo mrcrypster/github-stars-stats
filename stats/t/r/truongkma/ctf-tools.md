@@ -1,6 +1,6 @@
 # truongkma/ctf-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 434
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 599 | 434 | 
 | 2022-11-11 | 599 | 434 | 
 | 2022-11-10 | 599 | 433 | 
 | 2022-11-09 | 599 | 433 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 594 | 429 | 
 | 2022-10-15 | 594 | 429 | 
 | 2022-10-14 | 594 | 429 | 
-| 2022-10-13 | 594 | 428 | 
 

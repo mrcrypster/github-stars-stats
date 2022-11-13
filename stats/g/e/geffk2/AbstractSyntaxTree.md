@@ -1,6 +1,6 @@
 # geffk2/AbstractSyntaxTree - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 5 | - | 
 | 2022-11-11 | 5 | - | 
 | 2022-11-10 | 5 | - | 
 | 2022-11-09 | 5 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 6 | - | 
 | 2022-10-15 | 6 | - | 
 | 2022-10-14 | 6 | - | 
-| 2022-10-13 | 6 | - | 
 

@@ -1,6 +1,6 @@
 # ZipArchive/ZipArchive - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1249
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5125 | 1249 | 
 | 2022-11-11 | 5125 | 1249 | 
 | 2022-11-10 | 5124 | 1248 | 
 | 2022-11-09 | 5124 | 1249 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 5112 | 1250 | 
 | 2022-10-15 | 5111 | 1250 | 
 | 2022-10-14 | 5110 | 1250 | 
-| 2022-10-13 | 5109 | 1250 | 
 

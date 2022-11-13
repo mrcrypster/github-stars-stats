@@ -1,10 +1,10 @@
 # QIN2DIM/hcaptcha-challenger - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 123
 
-★ Stars: 561
+★ Stars: 562
 
 [Open repository](https://github.com/QIN2DIM/hcaptcha-challenger)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 562 | 123 | 
 | 2022-11-11 | 561 | 123 | 
 | 2022-11-10 | 560 | 122 | 
 | 2022-11-09 | 560 | 122 | 

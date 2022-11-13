@@ -1,10 +1,10 @@
 # pjones/plasma-manager - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 3
 
-★ Stars: 54
+★ Stars: 56
 
 [Open repository](https://github.com/pjones/plasma-manager)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 56 | 3 | 
 | 2022-11-11 | 54 | 3 | 
 | 2022-11-10 | 51 | 3 | 
 | 2022-11-09 | 51 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 46 | 2 | 
 | 2022-10-15 | 46 | 2 | 
 | 2022-10-14 | 45 | 2 | 
-| 2022-10-13 | 44 | 2 | 
 

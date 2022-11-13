@@ -1,8 +1,8 @@
 # fishpondstudio/IndustryIdle - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 13
+☋ Forks: 14
 
 ★ Stars: 189
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 189 | 14 | 
 | 2022-11-11 | 189 | 13 | 
 | 2022-11-10 | 188 | 13 | 
 | 2022-11-09 | 187 | 13 | 

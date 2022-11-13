@@ -1,6 +1,6 @@
 # jeffreyvr/tailpress - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 115
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 779 | 115 | 
 | 2022-11-11 | 779 | 115 | 
 | 2022-11-10 | 778 | 115 | 
 | 2022-11-09 | 776 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 759 | 110 | 
 | 2022-10-15 | 759 | 110 | 
 | 2022-10-14 | 757 | 110 | 
-| 2022-10-13 | 757 | 110 | 
 

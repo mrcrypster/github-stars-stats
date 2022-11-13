@@ -1,10 +1,10 @@
 # mtdvio/every-programmer-should-know - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 6081
+☋ Forks: 6087
 
-★ Stars: 63908
+★ Stars: 63942
 
 [Open repository](https://github.com/mtdvio/every-programmer-should-know)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 63942 | 6087 | 
 | 2022-11-11 | 63908 | 6081 | 
 | 2022-11-10 | 63886 | 6068 | 
 | 2022-11-09 | 63877 | 6066 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 63419 | 6013 | 
 | 2022-10-15 | 63409 | 6013 | 
 | 2022-10-14 | 63392 | 6012 | 
-| 2022-10-13 | 63382 | 6010 | 
 

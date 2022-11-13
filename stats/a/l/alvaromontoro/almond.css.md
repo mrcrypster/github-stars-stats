@@ -1,6 +1,6 @@
 # alvaromontoro/almond.css - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 976 | 26 | 
 | 2022-11-11 | 976 | 26 | 
 | 2022-11-10 | 976 | 26 | 
 | 2022-11-09 | 976 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 975 | 25 | 
 | 2022-10-15 | 975 | 25 | 
 | 2022-10-14 | 975 | 25 | 
-| 2022-10-13 | 975 | 25 | 
 

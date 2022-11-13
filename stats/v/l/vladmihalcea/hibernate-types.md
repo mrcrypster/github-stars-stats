@@ -1,10 +1,10 @@
 # vladmihalcea/hibernate-types - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 278
 
-★ Stars: 1758
+★ Stars: 1759
 
 [Open repository](https://github.com/vladmihalcea/hibernate-types)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1759 | 278 | 
 | 2022-11-11 | 1758 | 278 | 
 | 2022-11-10 | 1758 | 278 | 
 | 2022-11-09 | 1757 | 279 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1736 | 277 | 
 | 2022-10-15 | 1735 | 277 | 
 | 2022-10-14 | 1735 | 276 | 
-| 2022-10-13 | 1735 | 275 | 
 

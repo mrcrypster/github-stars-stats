@@ -1,8 +1,8 @@
 # crossin/snippet - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 278
+☋ Forks: 279
 
 ★ Stars: 318
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 318 | 279 | 
 | 2022-11-11 | 318 | 278 | 
 | 2022-11-10 | 318 | 278 | 
 | 2022-11-09 | 318 | 278 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 318 | 277 | 
 | 2022-10-15 | 317 | 277 | 
 | 2022-10-14 | 317 | 277 | 
-| 2022-10-13 | 317 | 277 | 
 

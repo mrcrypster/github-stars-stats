@@ -1,6 +1,6 @@
 # nocodb/nocodb-seed-heroku - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 116
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 14 | 116 | 
 | 2022-11-11 | 14 | 116 | 
 | 2022-11-10 | 14 | 115 | 
 | 2022-11-09 | 14 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 14 | 110 | 
 | 2022-10-15 | 14 | 110 | 
 | 2022-10-14 | 14 | 109 | 
-| 2022-10-13 | 14 | 108 | 
 

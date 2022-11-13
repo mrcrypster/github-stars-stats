@@ -1,6 +1,6 @@
 # Ankit404butfound/PyWhatKit - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 205
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 854 | 205 | 
 | 2022-11-11 | 854 | 205 | 
 | 2022-11-10 | 854 | 205 | 
 | 2022-11-09 | 853 | 205 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 835 | 198 | 
 | 2022-10-16 | 835 | 198 | 
 | 2022-10-15 | 834 | 196 | 
-| 2022-10-14 | 834 | 196 | 
 

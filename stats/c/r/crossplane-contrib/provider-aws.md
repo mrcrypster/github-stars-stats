@@ -1,6 +1,6 @@
 # crossplane-contrib/provider-aws - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 290 | 296 | 
 | 2022-11-11 | 290 | 296 | 
 | 2022-11-10 | 289 | 297 | 
 | 2022-11-09 | 287 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 279 | 288 | 
 | 2022-10-16 | 278 | 288 | 
 | 2022-10-15 | 278 | 288 | 
-| 2022-10-14 | 278 | 287 | 
 

@@ -1,10 +1,10 @@
 # mulesoft/data-weave-analytics-library - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/mulesoft/data-weave-analytics-library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2 | - | 
 | 2022-11-11 | 1 | - | 
 | 2022-11-10 | 1 | - | 
 | 2022-11-09 | 1 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 1 | - | 
 | 2022-10-16 | 1 | - | 
 | 2022-10-15 | 1 | - | 
-| 2022-10-14 | 1 | - | 
 

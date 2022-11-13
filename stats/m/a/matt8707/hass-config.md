@@ -1,10 +1,10 @@
 # matt8707/hass-config - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 544
+☋ Forks: 545
 
-★ Stars: 3512
+★ Stars: 3515
 
 [Open repository](https://github.com/matt8707/hass-config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3515 | 545 | 
 | 2022-11-11 | 3512 | 544 | 
 | 2022-11-10 | 3511 | 545 | 
 | 2022-11-09 | 3510 | 544 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 3441 | 539 | 
 | 2022-10-15 | 3441 | 538 | 
 | 2022-10-14 | 3437 | 538 | 
-| 2022-10-13 | 3436 | 538 | 
 

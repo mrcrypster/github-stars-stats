@@ -1,6 +1,6 @@
 # Jaay06/fun-form-validation - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 59 | 8 | 
 | 2022-11-11 | 59 | 8 | 
 | 2022-11-10 | 59 | 8 | 
 | 2022-11-09 | 59 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 58 | 10 | 
 | 2022-10-15 | 58 | 10 | 
 | 2022-10-14 | 53 | 10 | 
-| 2022-10-13 | 52 | 9 | 
 

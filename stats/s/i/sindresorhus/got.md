@@ -1,10 +1,10 @@
 # sindresorhus/got - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 847
+☋ Forks: 846
 
-★ Stars: 12247
+★ Stars: 12249
 
 [Open repository](https://github.com/sindresorhus/got)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 12249 | 846 | 
 | 2022-11-11 | 12247 | 847 | 
 | 2022-11-10 | 12240 | 845 | 
 | 2022-11-09 | 12237 | 845 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 12147 | 838 | 
 | 2022-10-15 | 12142 | 838 | 
 | 2022-10-14 | 12139 | 838 | 
-| 2022-10-13 | 12129 | 838 | 
 

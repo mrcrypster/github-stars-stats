@@ -1,6 +1,6 @@
 # djust270/IntuneEndpointTools - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 29 | 1 | 
 | 2022-11-11 | 29 | 1 | 
 | 2022-11-10 | 29 | 1 | 
 | 2022-11-09 | 29 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 27 | - | 
 | 2022-10-15 | 27 | - | 
 | 2022-10-14 | 27 | - | 
-| 2022-10-13 | 27 | - | 
 

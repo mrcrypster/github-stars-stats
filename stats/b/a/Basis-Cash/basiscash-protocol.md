@@ -1,8 +1,8 @@
 # Basis-Cash/basiscash-protocol - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 256
+☋ Forks: 255
 
 ★ Stars: 255
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 255 | 255 | 
 | 2022-11-11 | 255 | 256 | 
 | 2022-11-10 | 255 | 256 | 
 | 2022-11-09 | 255 | 256 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 255 | 255 | 
 | 2022-10-15 | 255 | 255 | 
 | 2022-10-14 | 255 | 255 | 
-| 2022-10-13 | 255 | 255 | 
 

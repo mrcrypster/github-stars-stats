@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 12
 
-☋ Forks: 10
+☋ Forks: 16
 
-★ Stars: 9
+★ Stars: 10
 
 [Open repository](https://github.com/fromann/heart)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-12 | 9 | 10 | 
+| 2022-11-12 | 10 | 16 | 
 | 2022-11-11 | 9 | 10 | 
 

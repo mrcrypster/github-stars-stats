@@ -1,10 +1,10 @@
 # sagishahar/lpeworkshop - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 409
+☋ Forks: 410
 
-★ Stars: 1494
+★ Stars: 1496
 
 [Open repository](https://github.com/sagishahar/lpeworkshop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1496 | 410 | 
 | 2022-11-11 | 1494 | 409 | 
 | 2022-11-10 | 1494 | 409 | 
 | 2022-11-09 | 1495 | 409 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1478 | 406 | 
 | 2022-10-15 | 1478 | 405 | 
 | 2022-10-14 | 1477 | 405 | 
-| 2022-10-13 | 1477 | 404 | 
 

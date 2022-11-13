@@ -1,6 +1,6 @@
 # zk/clojuredocs - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 952 | 72 | 
 | 2022-11-12 | 952 | 72 | 
 | 2022-11-10 | 952 | 72 | 
 | 2022-11-09 | 952 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 946 | 72 | 
 | 2022-10-15 | 946 | 72 | 
 | 2022-10-14 | 946 | 72 | 
-| 2022-10-13 | 946 | 72 | 
 

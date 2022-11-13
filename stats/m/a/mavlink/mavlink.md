@@ -1,10 +1,10 @@
 # mavlink/mavlink - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1646
+☋ Forks: 1647
 
-★ Stars: 1253
+★ Stars: 1254
 
 [Open repository](https://github.com/mavlink/mavlink)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1254 | 1647 | 
 | 2022-11-11 | 1253 | 1646 | 
 | 2022-11-10 | 1252 | 1645 | 
 | 2022-11-09 | 1250 | 1644 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1234 | 1633 | 
 | 2022-10-15 | 1234 | 1633 | 
 | 2022-10-14 | 1233 | 1633 | 
-| 2022-10-13 | 1232 | 1633 | 
 

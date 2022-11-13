@@ -1,6 +1,6 @@
 # crystal-lang/shards - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 712 | 96 | 
 | 2022-11-11 | 712 | 96 | 
 | 2022-11-10 | 712 | 96 | 
 | 2022-11-09 | 712 | 96 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 710 | 96 | 
 | 2022-10-15 | 710 | 96 | 
 | 2022-10-14 | 710 | 96 | 
-| 2022-10-13 | 710 | 96 | 
 

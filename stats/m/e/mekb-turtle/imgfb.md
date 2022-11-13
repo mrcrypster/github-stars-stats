@@ -1,6 +1,6 @@
 # mekb-turtle/imgfb - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 52 | 1 | 
 | 2022-11-11 | 52 | 1 | 
 | 2022-11-10 | 52 | 1 | 
 | 2022-11-09 | 52 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 50 | 1 | 
 | 2022-10-15 | 50 | 1 | 
 | 2022-10-14 | 50 | 1 | 
-| 2022-10-13 | 50 | 1 | 
 

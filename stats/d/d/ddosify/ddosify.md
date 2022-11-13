@@ -1,10 +1,10 @@
 # ddosify/ddosify - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 216
+☋ Forks: 215
 
-★ Stars: 5074
+★ Stars: 5079
 
 [Open repository](https://github.com/ddosify/ddosify)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 5079 | 215 | 
 | 2022-11-11 | 5074 | 216 | 
 | 2022-11-10 | 5072 | 215 | 
 | 2022-11-09 | 5072 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 4978 | 208 | 
 | 2022-10-15 | 4979 | 208 | 
 | 2022-10-14 | 4978 | 208 | 
-| 2022-10-13 | 4971 | 208 | 
 

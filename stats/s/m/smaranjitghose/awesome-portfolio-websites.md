@@ -1,10 +1,10 @@
 # smaranjitghose/awesome-portfolio-websites - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 1185
+☋ Forks: 1184
 
-★ Stars: 1687
+★ Stars: 1690
 
 [Open repository](https://github.com/smaranjitghose/awesome-portfolio-websites)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 1690 | 1184 | 
 | 2022-11-11 | 1687 | 1185 | 
 | 2022-11-10 | 1686 | 1183 | 
 | 2022-11-09 | 1684 | 1181 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 1631 | 1158 | 
 | 2022-10-15 | 1628 | 1158 | 
 | 2022-10-14 | 1626 | 1156 | 
-| 2022-10-13 | 1626 | 1155 | 
 

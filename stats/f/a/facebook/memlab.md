@@ -1,10 +1,10 @@
 # facebook/memlab - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 3478
+★ Stars: 3481
 
 [Open repository](https://github.com/facebook/memlab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3481 | 83 | 
 | 2022-11-11 | 3478 | 82 | 
 | 2022-11-10 | 3471 | 82 | 
 | 2022-11-09 | 3467 | 82 | 

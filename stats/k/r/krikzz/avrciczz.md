@@ -1,6 +1,6 @@
 # krikzz/avrciczz - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 29 | 6 | 
 | 2022-11-11 | 29 | 6 | 
 | 2022-11-10 | 29 | 6 | 
 | 2022-11-09 | 29 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 28 | 6 | 
 | 2022-10-15 | 28 | 5 | 
 | 2022-10-14 | 28 | 5 | 
-| 2022-10-13 | 28 | 5 | 
 

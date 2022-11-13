@@ -1,6 +1,6 @@
 # mingcheng/socks5lb - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 354 | 19 | 
 | 2022-11-11 | 354 | 19 | 
 | 2022-11-10 | 354 | 19 | 
 | 2022-11-09 | 354 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 352 | 19 | 
 | 2022-10-15 | 352 | 19 | 
 | 2022-10-14 | 352 | 19 | 
-| 2022-10-13 | 352 | 19 | 
 

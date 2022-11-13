@@ -1,6 +1,6 @@
 # PMunch/nimlsp - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 326 | 36 | 
 | 2022-11-11 | 326 | 36 | 
 | 2022-11-10 | 326 | 36 | 
 | 2022-11-09 | 325 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 318 | 36 | 
 | 2022-10-16 | 317 | 36 | 
 | 2022-10-15 | 317 | 36 | 
-| 2022-10-14 | 316 | 36 | 
 

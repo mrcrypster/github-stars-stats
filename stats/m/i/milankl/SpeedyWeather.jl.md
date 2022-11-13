@@ -1,10 +1,10 @@
 # milankl/SpeedyWeather.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 10
 
-★ Stars: 148
+★ Stars: 149
 
 [Open repository](https://github.com/milankl/SpeedyWeather.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 149 | 10 | 
 | 2022-11-11 | 148 | 10 | 
 | 2022-11-10 | 143 | 10 | 
 | 2022-11-09 | 143 | 10 | 

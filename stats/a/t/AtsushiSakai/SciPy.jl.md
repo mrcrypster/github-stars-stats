@@ -1,6 +1,6 @@
 # AtsushiSakai/SciPy.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 21 | 9 | 
 | 2022-11-11 | 21 | 9 | 
 | 2022-11-10 | 21 | 9 | 
 | 2022-11-09 | 21 | 9 | 

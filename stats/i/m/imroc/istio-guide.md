@@ -1,6 +1,6 @@
 # imroc/istio-guide - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 47 | 12 | 
 | 2022-11-11 | 47 | 12 | 
 | 2022-11-10 | 47 | 12 | 
 | 2022-11-09 | 47 | 12 | 

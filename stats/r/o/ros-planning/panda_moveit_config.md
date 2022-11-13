@@ -1,6 +1,6 @@
 # ros-planning/panda_moveit_config - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 72 | 145 | 
 | 2022-11-12 | 72 | 145 | 
 | 2022-11-10 | 72 | 145 | 
 | 2022-11-09 | 72 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 66 | 144 | 
 | 2022-10-15 | 66 | 144 | 
 | 2022-10-14 | 66 | 144 | 
-| 2022-10-13 | 66 | 144 | 
 

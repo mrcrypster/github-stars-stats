@@ -1,6 +1,6 @@
 # numbersprotocol/nit - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 4674 | - | 
 | 2022-11-11 | 4674 | - | 
 | 2022-11-10 | 4674 | - | 
 | 2022-11-09 | 4674 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 4673 | - | 
 | 2022-10-15 | 4673 | - | 
 | 2022-10-14 | 4673 | - | 
-| 2022-10-13 | 4673 | - | 
 

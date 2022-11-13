@@ -1,6 +1,6 @@
 # kean/Get - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 725 | 53 | 
 | 2022-11-11 | 725 | 53 | 
 | 2022-11-10 | 723 | 53 | 
 | 2022-11-09 | 722 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 698 | 49 | 
 | 2022-10-16 | 697 | 49 | 
 | 2022-10-15 | 697 | 49 | 
-| 2022-10-14 | 696 | 49 | 
 

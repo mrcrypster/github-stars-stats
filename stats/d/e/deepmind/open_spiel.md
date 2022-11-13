@@ -1,8 +1,8 @@
 # deepmind/open_spiel - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 730
+☋ Forks: 732
 
 ★ Stars: 3380
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 3380 | 732 | 
 | 2022-11-11 | 3380 | 730 | 
 | 2022-11-10 | 3380 | 730 | 
 | 2022-11-09 | 3376 | 730 | 

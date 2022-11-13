@@ -1,6 +1,6 @@
 # IOTEROP/IOWA - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 104
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 197 | 104 | 
 | 2022-11-11 | 197 | 104 | 
 | 2022-11-10 | 197 | 104 | 
 | 2022-11-09 | 197 | 104 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 221 | 104 | 
 | 2022-10-15 | 221 | 104 | 
 | 2022-10-14 | 221 | 104 | 
-| 2022-10-13 | 221 | 104 | 
 

@@ -1,6 +1,6 @@
 # dundalek/lazy-lsp.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 101 | 2 | 
 | 2022-11-11 | 101 | 2 | 
 | 2022-11-10 | 101 | 2 | 
 | 2022-11-09 | 101 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 92 | 1 | 
 | 2022-10-15 | 91 | 1 | 
 | 2022-10-14 | 91 | 1 | 
-| 2022-10-13 | 91 | 1 | 
 

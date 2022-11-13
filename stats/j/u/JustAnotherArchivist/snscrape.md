@@ -1,10 +1,10 @@
 # JustAnotherArchivist/snscrape - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
-☋ Forks: 386
+☋ Forks: 388
 
-★ Stars: 2058
+★ Stars: 2062
 
 [Open repository](https://github.com/JustAnotherArchivist/snscrape)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2062 | 388 | 
 | 2022-11-11 | 2058 | 386 | 
 | 2022-11-10 | 2049 | 385 | 
 | 2022-11-09 | 2047 | 385 | 

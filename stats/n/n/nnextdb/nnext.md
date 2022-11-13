@@ -1,6 +1,6 @@
 # nnextdb/nnext - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 118 | 3 | 
 | 2022-11-11 | 118 | 3 | 
 | 2022-11-10 | 118 | 3 | 
 | 2022-11-09 | 118 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 117 | 3 | 
 | 2022-10-15 | 117 | 3 | 
 | 2022-10-14 | 117 | 3 | 
-| 2022-10-13 | 117 | 3 | 
 

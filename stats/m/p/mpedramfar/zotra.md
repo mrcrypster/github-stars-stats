@@ -1,10 +1,10 @@
 # mpedramfar/zotra - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 0
 
-★ Stars: 46
+★ Stars: 47
 
 [Open repository](https://github.com/mpedramfar/zotra)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 47 | - | 
 | 2022-11-11 | 46 | - | 
 | 2022-11-10 | 46 | - | 
 | 2022-11-09 | 46 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 42 | - | 
 | 2022-10-15 | 42 | - | 
 | 2022-10-14 | 41 | - | 
-| 2022-10-13 | 41 | - | 
 

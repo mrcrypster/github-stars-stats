@@ -1,6 +1,6 @@
 # Al-Andrew/SmartHouse-Builder - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6 | 24 | 
 | 2022-11-11 | 6 | 24 | 
 | 2022-11-10 | 6 | 24 | 
 | 2022-11-09 | 6 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 6 | 24 | 
 | 2022-10-15 | 6 | 24 | 
 | 2022-10-14 | 6 | 24 | 
-| 2022-10-13 | 6 | 24 | 
 

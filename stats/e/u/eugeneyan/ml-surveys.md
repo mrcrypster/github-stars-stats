@@ -1,6 +1,6 @@
 # eugeneyan/ml-surveys - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 258
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 2369 | 258 | 
 | 2022-11-11 | 2369 | 258 | 
 | 2022-11-10 | 2369 | 257 | 
 | 2022-11-09 | 2368 | 257 | 

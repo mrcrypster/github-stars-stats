@@ -1,6 +1,6 @@
 # solid/solid-oidc - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 12 | 9 | 
 | 2022-11-11 | 12 | 9 | 
 | 2022-11-10 | 12 | 9 | 
 | 2022-11-09 | 12 | 9 | 

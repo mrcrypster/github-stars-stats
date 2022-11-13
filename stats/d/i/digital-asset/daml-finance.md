@@ -1,6 +1,6 @@
 # digital-asset/daml-finance - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 8 | 5 | 
 | 2022-11-11 | 8 | 5 | 
 | 2022-11-10 | 8 | 5 | 
 | 2022-11-09 | 8 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 5 | 4 | 
 | 2022-10-15 | 5 | 4 | 
 | 2022-10-14 | 5 | 4 | 
-| 2022-10-13 | 5 | 4 | 
 

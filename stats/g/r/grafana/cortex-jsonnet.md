@@ -1,6 +1,6 @@
 # grafana/cortex-jsonnet - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 75 | 52 | 
 | 2022-11-11 | 75 | 52 | 
 | 2022-11-10 | 75 | 52 | 
 | 2022-11-09 | 75 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 75 | 50 | 
 | 2022-10-15 | 75 | 50 | 
 | 2022-10-14 | 75 | 50 | 
-| 2022-10-13 | 75 | 50 | 
 

@@ -1,10 +1,10 @@
 # devkitPro/installer - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 36
 
-★ Stars: 273
+★ Stars: 274
 
 [Open repository](https://github.com/devkitPro/installer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 274 | 36 | 
 | 2022-11-11 | 273 | 36 | 
 | 2022-11-10 | 273 | 36 | 
 | 2022-11-09 | 273 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-17 | 266 | 36 | 
 | 2022-10-16 | 266 | 36 | 
 | 2022-10-15 | 265 | 36 | 
-| 2022-10-14 | 266 | 36 | 
 

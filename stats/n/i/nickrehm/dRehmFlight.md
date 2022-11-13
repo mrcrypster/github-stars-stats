@@ -1,6 +1,6 @@
 # nickrehm/dRehmFlight - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 106
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 470 | 106 | 
 | 2022-11-11 | 470 | 106 | 
 | 2022-11-10 | 469 | 106 | 
 | 2022-11-09 | 468 | 106 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 442 | 101 | 
 | 2022-10-15 | 441 | 99 | 
 | 2022-10-14 | 439 | 97 | 
-| 2022-10-13 | 436 | 97 | 
 

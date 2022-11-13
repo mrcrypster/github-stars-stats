@@ -1,6 +1,6 @@
 # lokalise/lokalise-ios-framework - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 47 | 15 | 
 | 2022-11-11 | 47 | 15 | 
 | 2022-11-10 | 47 | 15 | 
 | 2022-11-09 | 47 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 47 | 15 | 
 | 2022-10-15 | 47 | 15 | 
 | 2022-10-14 | 47 | 15 | 
-| 2022-10-13 | 47 | 15 | 
 

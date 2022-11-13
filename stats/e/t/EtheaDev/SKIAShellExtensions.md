@@ -1,6 +1,6 @@
 # EtheaDev/SKIAShellExtensions - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 22 | 6 | 
 | 2022-11-11 | 22 | 6 | 
 | 2022-11-10 | 22 | 6 | 
 | 2022-11-09 | 22 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 21 | 5 | 
 | 2022-10-15 | 21 | 5 | 
 | 2022-10-14 | 21 | 5 | 
-| 2022-10-13 | 21 | 5 | 
 

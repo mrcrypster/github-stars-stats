@@ -1,6 +1,6 @@
 # notpeelz/reshade-xhair - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 48
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 151 | 48 | 
 | 2022-11-11 | 151 | 48 | 
 | 2022-11-10 | 151 | 48 | 
 | 2022-11-09 | 151 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 146 | 49 | 
 | 2022-10-15 | 146 | 49 | 
 | 2022-10-14 | 146 | 49 | 
-| 2022-10-13 | 146 | 49 | 
 

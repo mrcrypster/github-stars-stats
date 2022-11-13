@@ -1,6 +1,6 @@
 # emqx/ekka - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 89 | 41 | 
 | 2022-11-11 | 89 | 41 | 
 | 2022-11-10 | 89 | 41 | 
 | 2022-11-09 | 89 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 89 | 42 | 
 | 2022-10-15 | 89 | 42 | 
 | 2022-10-14 | 89 | 42 | 
-| 2022-10-13 | 89 | 42 | 
 

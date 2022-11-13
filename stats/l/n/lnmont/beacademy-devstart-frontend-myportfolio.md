@@ -1,6 +1,6 @@
 # lnmont/beacademy-devstart-frontend-myportfolio - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 10 | 1 | 
 | 2022-11-12 | 10 | 1 | 
 | 2022-11-11 | 10 | 1 | 
 | 2022-11-09 | 10 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 10 | 1 | 
 | 2022-10-15 | 10 | 1 | 
 | 2022-10-14 | 10 | 1 | 
-| 2022-10-13 | 10 | 1 | 
 

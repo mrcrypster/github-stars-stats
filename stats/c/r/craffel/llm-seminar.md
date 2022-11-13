@@ -1,10 +1,10 @@
 # craffel/llm-seminar - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 11
 
-★ Stars: 265
+★ Stars: 266
 
 [Open repository](https://github.com/craffel/llm-seminar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 266 | 11 | 
 | 2022-11-12 | 265 | 11 | 
 | 2022-11-10 | 265 | 11 | 
 | 2022-11-09 | 265 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-16 | 258 | 11 | 
 | 2022-10-15 | 258 | 11 | 
 | 2022-10-14 | 257 | 11 | 
-| 2022-10-13 | 257 | 11 | 
 

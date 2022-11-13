@@ -1,6 +1,6 @@
 # plantuml/plantuml - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 705
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 7019 | 705 | 
 | 2022-11-11 | 7019 | 705 | 
 | 2022-11-10 | 7012 | 706 | 
 | 2022-11-09 | 7009 | 705 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 6869 | 691 | 
 | 2022-10-15 | 6864 | 690 | 
 | 2022-10-14 | 6859 | 689 | 
-| 2022-10-13 | 6851 | 689 | 
 

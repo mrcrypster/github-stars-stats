@@ -1,6 +1,6 @@
 # ament/ament_cmake - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 85
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 56 | 85 | 
 | 2022-11-11 | 56 | 85 | 
 | 2022-11-10 | 56 | 85 | 
 | 2022-11-09 | 56 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 11
 | 2022-10-16 | 55 | 83 | 
 | 2022-10-15 | 55 | 83 | 
 | 2022-10-14 | 55 | 83 | 
-| 2022-10-13 | 55 | 83 | 
 

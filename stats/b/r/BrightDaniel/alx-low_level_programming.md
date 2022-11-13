@@ -1,6 +1,6 @@
 # BrightDaniel/alx-low_level_programming - stars & forks statistics
 
-Stats updated on Nov 2022, 11
+Stats updated on Nov 2022, 12
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 11
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-12 | 53 | 108 | 
 | 2022-11-11 | 53 | 108 | 
 | 2022-11-10 | 53 | 108 | 
 | 2022-11-09 | 53 | 108 | 
