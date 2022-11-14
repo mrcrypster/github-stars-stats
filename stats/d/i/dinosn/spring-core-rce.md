@@ -1,10 +1,10 @@
 # dinosn/spring-core-rce - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 30
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/dinosn/spring-core-rce)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 60 | 30 | 
 | 2022-11-12 | 59 | 30 | 
 | 2022-11-11 | 59 | 30 | 
 | 2022-11-10 | 59 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 60 | 30 | 
 | 2022-10-16 | 60 | 30 | 
 | 2022-10-15 | 60 | 30 | 
-| 2022-10-14 | 60 | 30 | 
 

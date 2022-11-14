@@ -1,10 +1,10 @@
 # holtzy/The-Python-Graph-Gallery - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 296
+☋ Forks: 297
 
-★ Stars: 1211
+★ Stars: 1212
 
 [Open repository](https://github.com/holtzy/The-Python-Graph-Gallery)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1212 | 297 | 
 | 2022-11-12 | 1211 | 296 | 
 | 2022-11-11 | 1210 | 296 | 
 | 2022-11-10 | 1208 | 296 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 1178 | 289 | 
 | 2022-10-17 | 1176 | 289 | 
 | 2022-10-16 | 1175 | 289 | 
-| 2022-10-14 | 1176 | 289 | 
 

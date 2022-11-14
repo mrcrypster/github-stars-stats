@@ -1,8 +1,8 @@
 # CN-annotation-team/redis7.0-chinese-annotated - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 76
+☋ Forks: 77
 
 ★ Stars: 262
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 262 | 77 | 
 | 2022-11-12 | 262 | 76 | 
 | 2022-11-11 | 262 | 76 | 
 | 2022-11-10 | 261 | 76 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 249 | 74 | 
 | 2022-10-16 | 249 | 74 | 
 | 2022-10-15 | 249 | 74 | 
-| 2022-10-14 | 248 | 74 | 
 

@@ -1,10 +1,10 @@
 # baskerville/bspwm - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 412
 
-★ Stars: 6590
+★ Stars: 6594
 
 [Open repository](https://github.com/baskerville/bspwm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6594 | 412 | 
 | 2022-11-12 | 6590 | 412 | 
 | 2022-11-11 | 6586 | 412 | 
 | 2022-11-10 | 6584 | 412 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 6535 | 408 | 
 | 2022-10-16 | 6535 | 408 | 
 | 2022-10-15 | 6534 | 408 | 
-| 2022-10-14 | 6533 | 408 | 
 

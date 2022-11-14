@@ -1,10 +1,10 @@
 # klzgrad/naiveproxy - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 500
+☋ Forks: 502
 
-★ Stars: 3400
+★ Stars: 3419
 
 [Open repository](https://github.com/klzgrad/naiveproxy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3419 | 502 | 
 | 2022-11-12 | 3400 | 500 | 
 | 2022-11-11 | 3389 | 499 | 
 | 2022-11-10 | 3360 | 497 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2830 | 418 | 
 | 2022-10-16 | 2810 | 416 | 
 | 2022-10-15 | 2798 | 415 | 
-| 2022-10-14 | 2788 | 413 | 
 

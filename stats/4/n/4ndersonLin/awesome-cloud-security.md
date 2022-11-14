@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 210
 
-★ Stars: 1352
+★ Stars: 1353
 
 [Open repository](https://github.com/4ndersonLin/awesome-cloud-security)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 1352 | 210 | 
+| 2022-11-13 | 1353 | 210 | 
 | 2022-11-12 | 1353 | 210 | 
 

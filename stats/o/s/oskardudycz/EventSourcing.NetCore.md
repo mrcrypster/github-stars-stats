@@ -1,10 +1,10 @@
 # oskardudycz/EventSourcing.NetCore - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 393
 
-★ Stars: 2571
+★ Stars: 2573
 
 [Open repository](https://github.com/oskardudycz/EventSourcing.NetCore)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2573 | 393 | 
 | 2022-11-12 | 2571 | 393 | 
 | 2022-11-11 | 2570 | 393 | 
 | 2022-11-10 | 2568 | 393 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2421 | 376 | 
 | 2022-10-16 | 2421 | 375 | 
 | 2022-10-15 | 2420 | 375 | 
-| 2022-10-14 | 2418 | 375 | 
 

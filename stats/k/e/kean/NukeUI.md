@@ -1,6 +1,6 @@
 # kean/NukeUI - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6 | 33 | 
 | 2022-11-12 | 6 | 33 | 
 | 2022-11-11 | 6 | 33 | 
 | 2022-11-10 | 6 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3 | 33 | 
 | 2022-10-16 | 3 | 33 | 
 | 2022-10-15 | 3 | 33 | 
-| 2022-10-14 | 3 | 33 | 
 

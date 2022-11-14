@@ -1,6 +1,6 @@
 # conaticus/boolean - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 79 | 57 | 
 | 2022-11-12 | 79 | 57 | 
 | 2022-11-11 | 79 | 57 | 
 | 2022-11-10 | 79 | 57 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 76 | 58 | 
 | 2022-10-16 | 76 | 59 | 
 | 2022-10-15 | 76 | 59 | 
-| 2022-10-14 | 76 | 59 | 
 

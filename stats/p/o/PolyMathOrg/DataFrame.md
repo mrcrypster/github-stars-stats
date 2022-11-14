@@ -1,10 +1,10 @@
 # PolyMathOrg/DataFrame - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 18
 
-★ Stars: 65
+★ Stars: 66
 
 [Open repository](https://github.com/PolyMathOrg/DataFrame)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 66 | 18 | 
 | 2022-11-12 | 65 | 18 | 
 | 2022-11-11 | 65 | 18 | 
 | 2022-11-10 | 65 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 66 | 18 | 
 | 2022-10-16 | 66 | 18 | 
 | 2022-10-15 | 66 | 18 | 
-| 2022-10-14 | 66 | 18 | 
 

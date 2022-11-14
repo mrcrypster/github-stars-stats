@@ -1,6 +1,6 @@
 # SJTU-IPADS/reef - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 32 | 2 | 
 | 2022-11-12 | 32 | 2 | 
 | 2022-11-11 | 32 | 2 | 
 | 2022-11-09 | 31 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 25 | 2 | 
 | 2022-10-16 | 25 | 2 | 
 | 2022-10-15 | 25 | 2 | 
-| 2022-10-14 | 25 | 2 | 
 

@@ -1,8 +1,8 @@
 # RocketChat/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 24 | 40 | 
 | 2022-11-13 | 24 | 39 | 
 | 2022-11-11 | 24 | 39 | 
 | 2022-11-10 | 24 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 23 | 39 | 
 | 2022-10-16 | 23 | 39 | 
 | 2022-10-15 | 23 | 39 | 
-| 2022-10-14 | 23 | 39 | 
 

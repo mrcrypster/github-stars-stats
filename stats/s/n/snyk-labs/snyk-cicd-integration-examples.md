@@ -1,6 +1,6 @@
 # snyk-labs/snyk-cicd-integration-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 114
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 45 | 114 | 
 | 2022-11-12 | 45 | 114 | 
 | 2022-11-11 | 45 | 114 | 
 | 2022-11-10 | 45 | 114 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 41 | 110 | 
 | 2022-10-16 | 41 | 110 | 
 | 2022-10-15 | 41 | 110 | 
-| 2022-10-14 | 41 | 110 | 
 

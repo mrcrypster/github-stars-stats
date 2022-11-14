@@ -1,6 +1,6 @@
 # probe-rs/rusty-probe - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 36 | 2 | 
 | 2022-11-12 | 36 | 2 | 
 | 2022-11-11 | 36 | 2 | 
 | 2022-11-10 | 36 | 2 | 

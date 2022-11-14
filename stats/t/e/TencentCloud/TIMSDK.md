@@ -1,10 +1,10 @@
 # TencentCloud/TIMSDK - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2688
 
-★ Stars: 2296
+★ Stars: 2297
 
 [Open repository](https://github.com/TencentCloud/TIMSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2297 | 2688 | 
 | 2022-11-12 | 2296 | 2688 | 
 | 2022-11-11 | 2296 | 2688 | 
 | 2022-11-10 | 2296 | 2688 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2266 | 2645 | 
 | 2022-10-16 | 2263 | 2644 | 
 | 2022-10-15 | 2263 | 2644 | 
-| 2022-10-14 | 2263 | 2644 | 
 

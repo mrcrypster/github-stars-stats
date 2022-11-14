@@ -1,10 +1,10 @@
 # EyeDaleHim/FNF-Mechanics - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 11
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/EyeDaleHim/FNF-Mechanics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 14 | 11 | 
 | 2022-11-12 | 13 | 11 | 
 | 2022-11-11 | 13 | 11 | 
 | 2022-11-10 | 13 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 13 | 11 | 
 | 2022-10-16 | 13 | 11 | 
 | 2022-10-15 | 12 | 10 | 
-| 2022-10-14 | 12 | 10 | 
 

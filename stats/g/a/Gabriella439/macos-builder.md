@@ -1,10 +1,10 @@
 # Gabriella439/macos-builder - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 59
+★ Stars: 61
 
 [Open repository](https://github.com/Gabriella439/macos-builder)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 61 | - | 
 | 2022-11-12 | 59 | - | 
 | 2022-11-11 | 58 | - | 
 | 2022-11-10 | 58 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 54 | - | 
 | 2022-10-16 | 54 | - | 
 | 2022-10-15 | 54 | - | 
-| 2022-10-14 | 53 | - | 
 

@@ -1,8 +1,8 @@
 # Serhiodev/Aptos_Bluemove_mint_bot - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 43
+☋ Forks: 44
 
 ★ Stars: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 63 | 44 | 
 | 2022-11-12 | 63 | 43 | 
 | 2022-11-11 | 63 | 43 | 
 | 2022-11-10 | 63 | 42 | 

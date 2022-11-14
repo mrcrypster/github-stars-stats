@@ -1,10 +1,10 @@
 # pybind/pybind11 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1706
 
-★ Stars: 11829
+★ Stars: 11830
 
 [Open repository](https://github.com/pybind/pybind11)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 11830 | 1706 | 
 | 2022-11-12 | 11829 | 1706 | 
 | 2022-11-11 | 11823 | 1706 | 
 | 2022-11-10 | 11815 | 1702 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 11702 | 1694 | 
 | 2022-10-16 | 11701 | 1693 | 
 | 2022-10-15 | 11694 | 1693 | 
-| 2022-10-14 | 11693 | 1693 | 
 

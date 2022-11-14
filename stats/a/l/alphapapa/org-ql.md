@@ -1,10 +1,10 @@
 # alphapapa/org-ql - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 78
 
-★ Stars: 1063
+★ Stars: 1064
 
 [Open repository](https://github.com/alphapapa/org-ql)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1064 | 78 | 
 | 2022-11-12 | 1063 | 78 | 
 | 2022-11-11 | 1063 | 78 | 
 | 2022-11-10 | 1063 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1052 | 78 | 
 | 2022-10-16 | 1051 | 78 | 
 | 2022-10-15 | 1051 | 78 | 
-| 2022-10-14 | 1051 | 78 | 
 

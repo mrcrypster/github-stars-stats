@@ -1,10 +1,10 @@
 # bytecodealliance/wasmtime - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 841
+☋ Forks: 843
 
-★ Stars: 10503
+★ Stars: 10504
 
 [Open repository](https://github.com/bytecodealliance/wasmtime)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 10504 | 843 | 
 | 2022-11-12 | 10503 | 841 | 
 | 2022-11-11 | 10496 | 841 | 
 | 2022-11-10 | 10488 | 838 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 10160 | 813 | 
 | 2022-10-16 | 10152 | 812 | 
 | 2022-10-15 | 10135 | 813 | 
-| 2022-10-14 | 10118 | 813 | 
 

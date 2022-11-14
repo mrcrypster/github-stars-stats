@@ -1,6 +1,6 @@
 # mcxiaoke/mqtt - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1111
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 4438 | 1111 | 
 | 2022-11-12 | 4438 | 1111 | 
 | 2022-11-11 | 4438 | 1111 | 
 | 2022-11-10 | 4436 | 1111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 4411 | 1105 | 
 | 2022-10-16 | 4409 | 1104 | 
 | 2022-10-15 | 4409 | 1104 | 
-| 2022-10-14 | 4408 | 1104 | 
 

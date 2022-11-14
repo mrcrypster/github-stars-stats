@@ -1,6 +1,6 @@
 # opentelemetry-beam/opentelemetry_plug - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 26 | 14 | 
 | 2022-11-12 | 26 | 14 | 
 | 2022-11-11 | 26 | 14 | 
 | 2022-11-10 | 26 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 25 | 13 | 
 | 2022-10-17 | 25 | 13 | 
 | 2022-10-16 | 25 | 13 | 
-| 2022-10-15 | 25 | 13 | 
 

@@ -1,10 +1,10 @@
 # wudskq/wc-manager-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 10
 
-★ Stars: 50
+★ Stars: 51
 
 [Open repository](https://github.com/wudskq/wc-manager-ui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 51 | 10 | 
 | 2022-11-12 | 50 | 10 | 
 | 2022-11-11 | 50 | 10 | 
 | 2022-11-10 | 50 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 49 | 9 | 
 | 2022-10-17 | 49 | 9 | 
 | 2022-10-16 | 49 | 9 | 
-| 2022-10-15 | 49 | 9 | 
 

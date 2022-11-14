@@ -1,6 +1,6 @@
 # npx08/nlw-flix - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 20 | 1 | 
 | 2022-11-12 | 20 | 1 | 
 | 2022-11-11 | 20 | 1 | 
 | 2022-11-10 | 20 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 21 | 1 | 
 | 2022-10-16 | 21 | 1 | 
 | 2022-10-15 | 21 | 1 | 
-| 2022-10-14 | 21 | 1 | 
 

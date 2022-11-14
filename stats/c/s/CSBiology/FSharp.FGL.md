@@ -1,6 +1,6 @@
 # CSBiology/FSharp.FGL - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 50 | 10 | 
 | 2022-11-12 | 50 | 10 | 
 | 2022-11-11 | 49 | 10 | 
 | 2022-11-10 | 49 | 10 | 

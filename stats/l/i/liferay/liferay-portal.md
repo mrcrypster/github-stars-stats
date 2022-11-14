@@ -1,6 +1,6 @@
 # liferay/liferay-portal - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3359
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1912 | 3359 | 
 | 2022-11-12 | 1912 | 3359 | 
 | 2022-11-11 | 1911 | 3359 | 
 | 2022-11-10 | 1911 | 3358 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1905 | 3345 | 
 | 2022-10-16 | 1905 | 3344 | 
 | 2022-10-15 | 1905 | 3345 | 
-| 2022-10-14 | 1905 | 3346 | 
 

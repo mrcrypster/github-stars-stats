@@ -1,10 +1,10 @@
 # avo-hq/avo - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 109
 
-★ Stars: 866
+★ Stars: 867
 
 [Open repository](https://github.com/avo-hq/avo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 867 | 109 | 
 | 2022-11-12 | 866 | 109 | 
 | 2022-11-11 | 865 | 109 | 
 | 2022-11-10 | 864 | 109 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 837 | 99 | 
 | 2022-10-16 | 836 | 99 | 
 | 2022-10-15 | 836 | 99 | 
-| 2022-10-14 | 835 | 97 | 
 

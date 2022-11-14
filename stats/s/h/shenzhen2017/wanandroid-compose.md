@@ -1,10 +1,10 @@
 # shenzhen2017/wanandroid-compose - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 54
 
-★ Stars: 310
+★ Stars: 311
 
 [Open repository](https://github.com/shenzhen2017/wanandroid-compose)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 311 | 54 | 
 | 2022-11-12 | 310 | 54 | 
 | 2022-11-11 | 310 | 54 | 
 | 2022-11-10 | 309 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 303 | 54 | 
 | 2022-10-16 | 303 | 54 | 
 | 2022-10-15 | 303 | 54 | 
-| 2022-10-14 | 303 | 54 | 
 

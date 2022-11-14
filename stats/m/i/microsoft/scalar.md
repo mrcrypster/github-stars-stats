@@ -1,10 +1,10 @@
 # microsoft/scalar - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 57
 
-★ Stars: 1080
+★ Stars: 1082
 
 [Open repository](https://github.com/microsoft/scalar)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1082 | 57 | 
 | 2022-11-12 | 1080 | 57 | 
 | 2022-11-10 | 1079 | 57 | 
 | 2022-11-09 | 1076 | 57 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1035 | 56 | 
 | 2022-10-16 | 1029 | 56 | 
 | 2022-10-15 | 1027 | 56 | 
-| 2022-10-14 | 1021 | 56 | 
 

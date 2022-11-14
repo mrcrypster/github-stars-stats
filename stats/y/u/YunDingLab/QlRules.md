@@ -1,6 +1,6 @@
 # YunDingLab/QlRules - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 57 | 2 | 
 | 2022-11-12 | 57 | 2 | 
 | 2022-11-11 | 57 | 2 | 
 | 2022-11-10 | 57 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 49 | 1 | 
 | 2022-10-16 | 49 | 1 | 
 | 2022-10-15 | 49 | 1 | 
-| 2022-10-14 | 49 | 1 | 
 

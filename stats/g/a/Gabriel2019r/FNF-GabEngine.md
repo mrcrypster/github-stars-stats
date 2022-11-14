@@ -1,6 +1,6 @@
 # Gabriel2019r/FNF-GabEngine - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 8 | 11 | 
 | 2022-11-12 | 8 | 11 | 
 | 2022-11-11 | 8 | 11 | 
 | 2022-11-10 | 8 | 11 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 7 | 8 | 
 | 2022-10-16 | 7 | 8 | 
 | 2022-10-15 | 6 | 7 | 
-| 2022-10-14 | 6 | 7 | 
 

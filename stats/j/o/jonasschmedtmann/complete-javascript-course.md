@@ -1,10 +1,10 @@
 # jonasschmedtmann/complete-javascript-course - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 13074
+☋ Forks: 13086
 
-★ Stars: 10874
+★ Stars: 10880
 
 [Open repository](https://github.com/jonasschmedtmann/complete-javascript-course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 10880 | 13086 | 
 | 2022-11-12 | 10874 | 13074 | 
 | 2022-11-11 | 10867 | 13063 | 
 | 2022-11-10 | 10858 | 13057 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 10641 | 12817 | 
 | 2022-10-16 | 10631 | 12813 | 
 | 2022-10-15 | 10622 | 12806 | 
-| 2022-10-14 | 10615 | 12795 | 
 

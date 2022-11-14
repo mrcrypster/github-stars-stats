@@ -1,10 +1,10 @@
 # overtone/overtone - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 449
 
-★ Stars: 5549
+★ Stars: 5550
 
 [Open repository](https://github.com/overtone/overtone)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5550 | 449 | 
 | 2022-11-12 | 5549 | 449 | 
 | 2022-11-11 | 5549 | 448 | 
 | 2022-11-10 | 5550 | 448 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 5531 | 447 | 
 | 2022-10-16 | 5531 | 447 | 
 | 2022-10-15 | 5531 | 447 | 
-| 2022-10-14 | 5531 | 447 | 
 

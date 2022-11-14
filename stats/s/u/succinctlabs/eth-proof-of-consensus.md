@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 13
 
-☋ Forks: 9
+☋ Forks: 10
 
-★ Stars: 43
+★ Stars: 45
 
 [Open repository](https://github.com/succinctlabs/eth-proof-of-consensus)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 43 | 9 | 
+| 2022-11-13 | 45 | 10 | 
 | 2022-11-12 | 41 | 9 | 
 | 2022-11-11 | 41 | 9 | 
 | 2022-11-10 | 40 | 7 | 

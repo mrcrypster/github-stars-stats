@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 16
 
-★ Stars: 452
+★ Stars: 453
 
 [Open repository](https://github.com/cplusplus/papers)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 452 | 16 | 
+| 2022-11-13 | 453 | 16 | 
 | 2022-11-12 | 452 | 16 | 
 | 2022-11-11 | 452 | 16 | 
 | 2022-11-10 | 452 | 16 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 445 | 16 | 
 | 2022-10-16 | 445 | 16 | 
 | 2022-10-15 | 445 | 16 | 
-| 2022-10-14 | 445 | 16 | 
 

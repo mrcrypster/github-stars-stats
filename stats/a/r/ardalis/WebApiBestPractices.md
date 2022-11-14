@@ -1,6 +1,6 @@
 # ardalis/WebApiBestPractices - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 79 | 22 | 
 | 2022-11-12 | 79 | 22 | 
 | 2022-11-11 | 79 | 22 | 
 | 2022-11-10 | 78 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 67 | 20 | 
 | 2022-10-16 | 67 | 20 | 
 | 2022-10-15 | 66 | 20 | 
-| 2022-10-14 | 65 | 20 | 
 

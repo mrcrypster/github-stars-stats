@@ -1,6 +1,6 @@
 # digint/btrbk - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 96
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1010 | 96 | 
 | 2022-11-12 | 1010 | 96 | 
 | 2022-11-11 | 1010 | 95 | 
 | 2022-11-10 | 1010 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 988 | 95 | 
 | 2022-10-16 | 987 | 95 | 
 | 2022-10-15 | 987 | 95 | 
-| 2022-10-14 | 986 | 95 | 
 

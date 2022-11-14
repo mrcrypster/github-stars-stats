@@ -1,10 +1,10 @@
 # CodingForCrypt0/MagicEden-minting-bot - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 84
+☋ Forks: 86
 
-★ Stars: 104
+★ Stars: 106
 
 [Open repository](https://github.com/CodingForCrypt0/MagicEden-minting-bot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 106 | 86 | 
 | 2022-11-12 | 104 | 84 | 
 | 2022-11-11 | 104 | 84 | 
 | 2022-11-10 | 104 | 84 | 

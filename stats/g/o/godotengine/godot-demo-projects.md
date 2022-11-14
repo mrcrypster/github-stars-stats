@@ -1,10 +1,10 @@
 # godotengine/godot-demo-projects - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1091
+☋ Forks: 1092
 
-★ Stars: 2753
+★ Stars: 2754
 
 [Open repository](https://github.com/godotengine/godot-demo-projects)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2754 | 1092 | 
 | 2022-11-12 | 2753 | 1091 | 
 | 2022-11-11 | 2748 | 1091 | 
 | 2022-11-10 | 2748 | 1091 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2692 | 1075 | 
 | 2022-10-16 | 2687 | 1074 | 
 | 2022-10-15 | 2685 | 1074 | 
-| 2022-10-14 | 2681 | 1074 | 
 

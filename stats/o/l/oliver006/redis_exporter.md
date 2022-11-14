@@ -1,10 +1,10 @@
 # oliver006/redis_exporter - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 757
 
-★ Stars: 2443
+★ Stars: 2444
 
 [Open repository](https://github.com/oliver006/redis_exporter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2444 | 757 | 
 | 2022-11-12 | 2443 | 757 | 
 | 2022-11-10 | 2442 | 757 | 
 | 2022-11-09 | 2439 | 758 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2412 | 752 | 
 | 2022-10-16 | 2410 | 751 | 
 | 2022-10-15 | 2411 | 751 | 
-| 2022-10-14 | 2411 | 751 | 
 

@@ -1,10 +1,10 @@
 # FaarisAnsari/dotfiles - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 7
 
-★ Stars: 83
+★ Stars: 82
 
 [Open repository](https://github.com/FaarisAnsari/dotfiles)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 82 | 7 | 
 | 2022-11-12 | 83 | 7 | 
 | 2022-11-11 | 83 | 7 | 
 | 2022-11-10 | 83 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 84 | 7 | 
 | 2022-10-16 | 84 | 7 | 
 | 2022-10-15 | 84 | 7 | 
-| 2022-10-14 | 84 | 7 | 
 

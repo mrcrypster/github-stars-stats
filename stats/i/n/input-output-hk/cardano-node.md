@@ -1,6 +1,6 @@
 # input-output-hk/cardano-node - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 650
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2824 | 650 | 
 | 2022-11-12 | 2824 | 650 | 
 | 2022-11-11 | 2823 | 650 | 
 | 2022-11-10 | 2826 | 651 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2812 | 645 | 
 | 2022-10-16 | 2812 | 644 | 
 | 2022-10-15 | 2813 | 646 | 
-| 2022-10-14 | 2813 | 646 | 
 

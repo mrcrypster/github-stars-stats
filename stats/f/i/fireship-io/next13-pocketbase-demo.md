@@ -1,10 +1,10 @@
 # fireship-io/next13-pocketbase-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 53
 
-★ Stars: 101
+★ Stars: 104
 
 [Open repository](https://github.com/fireship-io/next13-pocketbase-demo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 104 | 53 | 
 | 2022-11-12 | 101 | 53 | 
 | 2022-11-11 | 99 | 52 | 
 | 2022-11-10 | 97 | 48 | 

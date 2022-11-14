@@ -1,10 +1,10 @@
 # mengshukeji/Luckysheet - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1728
+☋ Forks: 1729
 
-★ Stars: 12477
+★ Stars: 12482
 
 [Open repository](https://github.com/mengshukeji/Luckysheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 12482 | 1729 | 
 | 2022-11-12 | 12477 | 1728 | 
 | 2022-11-11 | 12472 | 1725 | 
 | 2022-11-10 | 12461 | 1722 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 12280 | 1686 | 
 | 2022-10-16 | 12269 | 1684 | 
 | 2022-10-15 | 12261 | 1682 | 
-| 2022-10-14 | 12259 | 1681 | 
 

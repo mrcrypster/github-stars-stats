@@ -1,6 +1,6 @@
 # juzaweb/juzacms - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 101 | 33 | 
 | 2022-11-12 | 101 | 33 | 
 | 2022-11-11 | 101 | 33 | 
 | 2022-11-10 | 101 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 97 | 32 | 
 | 2022-10-16 | 97 | 32 | 
 | 2022-10-15 | 97 | 32 | 
-| 2022-10-14 | 97 | 32 | 
 

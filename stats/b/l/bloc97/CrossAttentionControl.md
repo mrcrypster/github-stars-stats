@@ -1,6 +1,6 @@
 # bloc97/CrossAttentionControl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 57
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 781 | 57 | 
 | 2022-11-12 | 781 | 57 | 
 | 2022-11-11 | 781 | 57 | 
 | 2022-11-10 | 779 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 677 | 45 | 
 | 2022-10-16 | 645 | 40 | 
 | 2022-10-15 | 642 | 40 | 
-| 2022-10-14 | 636 | 39 | 
 

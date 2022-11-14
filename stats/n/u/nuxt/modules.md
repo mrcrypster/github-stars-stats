@@ -1,10 +1,10 @@
 # nuxt/modules - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 87
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/nuxt/modules)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 558 | 87 | 
 | 2022-11-12 | 557 | 87 | 
 | 2022-11-11 | 556 | 86 | 
 | 2022-11-10 | 556 | 86 | 

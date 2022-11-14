@@ -1,6 +1,6 @@
 # akicho8/string-inflection - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 212 | 21 | 
 | 2022-11-12 | 212 | 21 | 
 | 2022-11-10 | 212 | 21 | 
 | 2022-11-09 | 211 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 209 | 21 | 
 | 2022-10-16 | 209 | 21 | 
 | 2022-10-15 | 209 | 21 | 
-| 2022-10-14 | 209 | 21 | 
 

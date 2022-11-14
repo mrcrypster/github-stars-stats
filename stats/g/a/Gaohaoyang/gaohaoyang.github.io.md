@@ -1,8 +1,8 @@
 # Gaohaoyang/gaohaoyang.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 2013
+☋ Forks: 2014
 
 ★ Stars: 1761
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1761 | 2014 | 
 | 2022-11-13 | 1761 | 2013 | 
 | 2022-11-11 | 1761 | 2013 | 
 | 2022-11-10 | 1760 | 2012 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 1753 | 2018 | 
 | 2022-10-16 | 1753 | 2018 | 
 | 2022-10-15 | 1753 | 2018 | 
-| 2022-10-14 | 1753 | 2017 | 
 

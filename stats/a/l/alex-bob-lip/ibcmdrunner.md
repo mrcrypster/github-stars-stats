@@ -1,10 +1,10 @@
 # alex-bob-lip/ibcmdrunner - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 6
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/alex-bob-lip/ibcmdrunner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 21 | 6 | 
 | 2022-11-12 | 20 | 6 | 
 | 2022-11-11 | 19 | 6 | 
 | 2022-11-09 | 19 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 19 | 6 | 
 | 2022-10-16 | 19 | 6 | 
 | 2022-10-15 | 19 | 6 | 
-| 2022-10-14 | 19 | 6 | 
 

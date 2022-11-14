@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 7
 
-★ Stars: 181
+★ Stars: 182
 
 [Open repository](https://github.com/liuliu/swift-diffusion)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 181 | 7 | 
+| 2022-11-13 | 182 | 7 | 
 | 2022-11-12 | 180 | 7 | 
 | 2022-11-10 | 149 | 4 | 
 | 2022-11-09 | 76 | 2 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 50 | 2 | 
 | 2022-10-16 | 47 | 2 | 
 | 2022-10-15 | 46 | 2 | 
-| 2022-10-14 | 44 | 2 | 
 

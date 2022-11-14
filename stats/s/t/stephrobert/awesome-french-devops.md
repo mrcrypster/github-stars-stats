@@ -1,10 +1,10 @@
 # stephrobert/awesome-french-devops - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 67
+☋ Forks: 68
 
-★ Stars: 716
+★ Stars: 722
 
 [Open repository](https://github.com/stephrobert/awesome-french-devops)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 722 | 68 | 
 | 2022-11-12 | 716 | 67 | 
 | 2022-11-10 | 710 | 66 | 
 | 2022-11-09 | 705 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 545 | 57 | 
 | 2022-10-16 | 535 | 56 | 
 | 2022-10-15 | 520 | 54 | 
-| 2022-10-14 | 490 | 54 | 
 

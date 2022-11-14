@@ -1,6 +1,6 @@
 # Deltaphish/UwUpp - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 235 | 4 | 
 | 2022-11-12 | 235 | 4 | 
 | 2022-11-11 | 235 | 4 | 
 | 2022-11-10 | 235 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 234 | 3 | 
 | 2022-10-16 | 234 | 3 | 
 | 2022-10-15 | 234 | 3 | 
-| 2022-10-14 | 234 | 3 | 
 

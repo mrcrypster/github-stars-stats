@@ -1,10 +1,10 @@
 # JSorngard/cosmic_ray_detection - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3
 
-★ Stars: 101
+★ Stars: 102
 
 [Open repository](https://github.com/JSorngard/cosmic_ray_detection)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 102 | 3 | 
 | 2022-11-12 | 101 | 3 | 
 | 2022-11-11 | 101 | 3 | 
 | 2022-11-10 | 101 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 98 | 3 | 
 | 2022-10-16 | 98 | 3 | 
 | 2022-10-15 | 98 | 3 | 
-| 2022-10-14 | 98 | 3 | 
 

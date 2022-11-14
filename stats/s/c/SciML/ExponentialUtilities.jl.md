@@ -1,10 +1,10 @@
 # SciML/ExponentialUtilities.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 24
 
-★ Stars: 65
+★ Stars: 68
 
 [Open repository](https://github.com/SciML/ExponentialUtilities.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 68 | 24 | 
 | 2022-11-12 | 65 | 24 | 
 | 2022-11-11 | 65 | 25 | 
 | 2022-11-10 | 64 | 25 | 

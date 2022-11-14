@@ -1,6 +1,6 @@
 # valpackett/httpotion - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 105
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 723 | 105 | 
 | 2022-11-12 | 723 | 105 | 
 | 2022-11-11 | 723 | 105 | 
 | 2022-11-10 | 723 | 105 | 

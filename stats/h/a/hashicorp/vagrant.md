@@ -1,10 +1,10 @@
 # hashicorp/vagrant - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 4323
+☋ Forks: 4325
 
-★ Stars: 24630
+★ Stars: 24632
 
 [Open repository](https://github.com/hashicorp/vagrant)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 24632 | 4325 | 
 | 2022-11-12 | 24630 | 4323 | 
 | 2022-11-11 | 24625 | 4322 | 
 | 2022-11-10 | 24624 | 4323 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 24474 | 4308 | 
 | 2022-10-16 | 24471 | 4308 | 
 | 2022-10-15 | 24470 | 4309 | 
-| 2022-10-14 | 24461 | 4309 | 
 

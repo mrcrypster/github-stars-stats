@@ -1,6 +1,6 @@
 # pnkl1999/DDTank41 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 22 | 34 | 
 | 2022-11-12 | 22 | 34 | 
 | 2022-11-11 | 22 | 34 | 
 | 2022-11-10 | 21 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 21 | 31 | 
 | 2022-10-16 | 21 | 30 | 
 | 2022-10-15 | 21 | 30 | 
-| 2022-10-14 | 21 | 30 | 
 

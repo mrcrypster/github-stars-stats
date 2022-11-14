@@ -1,10 +1,10 @@
 # abbodi1406/BatUtil - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 183
 
-★ Stars: 545
+★ Stars: 546
 
 [Open repository](https://github.com/abbodi1406/BatUtil)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 546 | 183 | 
 | 2022-11-12 | 545 | 183 | 
 | 2022-11-11 | 543 | 182 | 
 | 2022-11-10 | 543 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 536 | 180 | 
 | 2022-10-16 | 535 | 180 | 
 | 2022-10-15 | 535 | 180 | 
-| 2022-10-14 | 535 | 180 | 
 

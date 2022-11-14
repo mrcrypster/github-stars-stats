@@ -1,10 +1,10 @@
 # leonardomso/33-js-concepts - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 7381
+☋ Forks: 7384
 
-★ Stars: 52954
+★ Stars: 52967
 
 [Open repository](https://github.com/leonardomso/33-js-concepts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 52967 | 7384 | 
 | 2022-11-12 | 52954 | 7381 | 
 | 2022-11-11 | 52929 | 7378 | 
 | 2022-11-10 | 52922 | 7377 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 52255 | 7261 | 
 | 2022-10-16 | 52239 | 7259 | 
 | 2022-10-15 | 52224 | 7253 | 
-| 2022-10-14 | 52216 | 7248 | 
 

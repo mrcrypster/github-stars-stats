@@ -1,6 +1,6 @@
 # goatcorp/DalamudPlugins - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 192
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 184 | 192 | 
 | 2022-11-12 | 184 | 192 | 
 | 2022-11-11 | 184 | 192 | 
 | 2022-11-10 | 183 | 192 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 177 | 191 | 
 | 2022-10-16 | 177 | 192 | 
 | 2022-10-15 | 177 | 192 | 
-| 2022-10-14 | 177 | 192 | 
 

@@ -1,10 +1,10 @@
 # h3xduck/TripleCross - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 141
+☋ Forks: 142
 
-★ Stars: 1217
+★ Stars: 1218
 
 [Open repository](https://github.com/h3xduck/TripleCross)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1218 | 142 | 
 | 2022-11-12 | 1217 | 141 | 
 | 2022-11-11 | 1216 | 141 | 
 | 2022-11-10 | 1215 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1191 | 137 | 
 | 2022-10-16 | 1190 | 137 | 
 | 2022-10-15 | 1189 | 137 | 
-| 2022-10-14 | 1189 | 137 | 
 

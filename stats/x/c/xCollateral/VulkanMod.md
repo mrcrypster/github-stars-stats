@@ -1,10 +1,10 @@
 # xCollateral/VulkanMod - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 57
 
-★ Stars: 691
+★ Stars: 693
 
 [Open repository](https://github.com/xCollateral/VulkanMod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 693 | 57 | 
 | 2022-11-12 | 691 | 57 | 
 | 2022-11-11 | 691 | 56 | 
 | 2022-11-10 | 689 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 648 | 51 | 
 | 2022-10-16 | 649 | 52 | 
 | 2022-10-15 | 644 | 52 | 
-| 2022-10-14 | 643 | 52 | 
 

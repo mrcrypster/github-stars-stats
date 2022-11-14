@@ -1,10 +1,10 @@
 # arma7x/svelte-telekram - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/arma7x/svelte-telekram)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 20 | 3 | 
 | 2022-11-12 | 19 | 3 | 
 | 2022-11-11 | 19 | 3 | 
 | 2022-11-10 | 19 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 17 | 3 | 
 | 2022-10-16 | 17 | 3 | 
 | 2022-10-15 | 17 | 3 | 
-| 2022-10-14 | 17 | 3 | 
 

@@ -1,6 +1,6 @@
 # muhammadtalhasultan/flutter-login-ui-kit - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 128 | 32 | 
 | 2022-11-12 | 128 | 32 | 
 | 2022-11-11 | 128 | 32 | 
 | 2022-11-10 | 128 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 121 | 32 | 
 | 2022-10-16 | 121 | 32 | 
 | 2022-10-15 | 121 | 32 | 
-| 2022-10-14 | 121 | 32 | 
 

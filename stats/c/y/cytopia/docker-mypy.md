@@ -1,6 +1,6 @@
 # cytopia/docker-mypy - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5 | 1 | 
 | 2022-11-12 | 5 | 1 | 
 | 2022-11-11 | 5 | 1 | 
 

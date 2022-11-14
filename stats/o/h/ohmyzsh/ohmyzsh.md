@@ -1,10 +1,10 @@
 # ohmyzsh/ohmyzsh - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 24709
+☋ Forks: 24712
 
-★ Stars: 152105
+★ Stars: 152155
 
 [Open repository](https://github.com/ohmyzsh/ohmyzsh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 152155 | 24712 | 
 | 2022-11-12 | 152105 | 24709 | 
 | 2022-11-11 | 152071 | 24704 | 
 | 2022-11-10 | 152063 | 24704 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 151163 | 24606 | 
 | 2022-10-16 | 151148 | 24603 | 
 | 2022-10-15 | 151090 | 24595 | 
-| 2022-10-14 | 151056 | 24592 | 
 

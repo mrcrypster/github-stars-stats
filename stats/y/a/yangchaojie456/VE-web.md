@@ -1,6 +1,6 @@
 # yangchaojie456/VE-web - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 235 | 29 | 
 | 2022-11-12 | 235 | 29 | 
 | 2022-11-11 | 235 | 29 | 
 | 2022-11-10 | 235 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 233 | 29 | 
 | 2022-10-16 | 233 | 29 | 
 | 2022-10-15 | 232 | 28 | 
-| 2022-10-14 | 232 | 28 | 
 

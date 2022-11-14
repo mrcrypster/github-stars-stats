@@ -1,10 +1,10 @@
 # PrestaShop/example-modules - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 77
 
-★ Stars: 113
+★ Stars: 114
 
 [Open repository](https://github.com/PrestaShop/example-modules)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 114 | 77 | 
 | 2022-11-12 | 113 | 77 | 
 | 2022-11-11 | 113 | 77 | 
 | 2022-11-10 | 113 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 109 | 73 | 
 | 2022-10-16 | 109 | 73 | 
 | 2022-10-15 | 109 | 73 | 
-| 2022-10-14 | 109 | 72 | 
 

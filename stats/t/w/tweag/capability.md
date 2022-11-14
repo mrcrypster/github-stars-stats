@@ -1,6 +1,6 @@
 # tweag/capability - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 207 | 9 | 
 | 2022-11-12 | 207 | 9 | 
 | 2022-11-11 | 207 | 9 | 
 | 2022-11-09 | 207 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 208 | 9 | 
 | 2022-10-16 | 208 | 9 | 
 | 2022-10-15 | 208 | 9 | 
-| 2022-10-14 | 208 | 9 | 
 

@@ -1,10 +1,10 @@
 # quarkusio/quarkus - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2031
 
-★ Stars: 10984
+★ Stars: 10987
 
 [Open repository](https://github.com/quarkusio/quarkus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 10987 | 2031 | 
 | 2022-11-12 | 10984 | 2031 | 
 | 2022-11-11 | 10979 | 2030 | 
 | 2022-11-10 | 10977 | 2030 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 10834 | 2005 | 
 | 2022-10-16 | 10828 | 2005 | 
 | 2022-10-15 | 10823 | 2002 | 
-| 2022-10-14 | 10812 | 2000 | 
 

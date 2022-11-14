@@ -1,10 +1,10 @@
 # dominikh/go-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 323
 
-★ Stars: 5038
+★ Stars: 5039
 
 [Open repository](https://github.com/dominikh/go-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5039 | 323 | 
 | 2022-11-12 | 5038 | 323 | 
 | 2022-11-11 | 5036 | 324 | 
 | 2022-11-10 | 5038 | 324 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 5003 | 323 | 
 | 2022-10-16 | 5000 | 323 | 
 | 2022-10-15 | 4998 | 323 | 
-| 2022-10-14 | 4996 | 323 | 
 

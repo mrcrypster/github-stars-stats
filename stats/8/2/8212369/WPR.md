@@ -1,6 +1,6 @@
 # 8212369/WPR - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 155 | 6 | 
 | 2022-11-12 | 155 | 6 | 
 | 2022-11-11 | 153 | 6 | 
 | 2022-11-10 | 153 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 141 | 6 | 
 | 2022-10-16 | 140 | 6 | 
 | 2022-10-15 | 134 | 6 | 
-| 2022-10-14 | 133 | 6 | 
 

@@ -1,10 +1,10 @@
 # flathub/shared-modules - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 64
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/flathub/shared-modules)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 53 | 64 | 
 | 2022-11-12 | 52 | 64 | 
 | 2022-11-11 | 52 | 64 | 
 | 2022-11-10 | 52 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 52 | 64 | 
 | 2022-10-16 | 52 | 64 | 
 | 2022-10-15 | 52 | 64 | 
-| 2022-10-14 | 52 | 64 | 
 

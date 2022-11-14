@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 314
 
-★ Stars: 3133
+★ Stars: 3138
 
 [Open repository](https://github.com/LibreTranslate/LibreTranslate)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 3133 | 314 | 
+| 2022-11-13 | 3138 | 314 | 
 | 2022-11-12 | 3129 | 314 | 
 | 2022-11-11 | 3084 | 312 | 
 | 2022-11-10 | 2985 | 311 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 2886 | 298 | 
 | 2022-10-17 | 2885 | 296 | 
 | 2022-10-15 | 2879 | 296 | 
-| 2022-10-14 | 2877 | 295 | 
 

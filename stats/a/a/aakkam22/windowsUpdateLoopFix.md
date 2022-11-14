@@ -1,6 +1,6 @@
 # aakkam22/windowsUpdateLoopFix - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 103 | 13 | 
 | 2022-11-12 | 103 | 13 | 
 | 2022-11-10 | 103 | 13 | 
 | 2022-11-09 | 103 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 103 | 13 | 
 | 2022-10-16 | 103 | 13 | 
 | 2022-10-15 | 103 | 13 | 
-| 2022-10-14 | 103 | 13 | 
 

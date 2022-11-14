@@ -1,10 +1,10 @@
 # cyberbuddy-io/open-source-contribution-for-beginners - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 134
 
-★ Stars: 74
+★ Stars: 75
 
 [Open repository](https://github.com/cyberbuddy-io/open-source-contribution-for-beginners)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 75 | 134 | 
 | 2022-11-12 | 74 | 134 | 
 | 2022-11-11 | 74 | 135 | 
 | 2022-11-10 | 74 | 135 | 

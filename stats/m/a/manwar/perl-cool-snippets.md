@@ -1,6 +1,6 @@
 # manwar/perl-cool-snippets - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 39 | 5 | 
 | 2022-11-13 | 39 | 5 | 
 | 2022-11-11 | 39 | 5 | 
 | 2022-11-10 | 39 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 39 | 5 | 
 | 2022-10-16 | 39 | 5 | 
 | 2022-10-15 | 39 | 5 | 
-| 2022-10-14 | 39 | 5 | 
 

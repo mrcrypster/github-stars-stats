@@ -1,6 +1,6 @@
 # c3lang/c3c - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 835 | 44 | 
 | 2022-11-12 | 835 | 44 | 
 | 2022-11-11 | 835 | 44 | 
 | 2022-11-10 | 835 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 818 | 44 | 
 | 2022-10-16 | 818 | 44 | 
 | 2022-10-15 | 817 | 44 | 
-| 2022-10-14 | 817 | 44 | 
 

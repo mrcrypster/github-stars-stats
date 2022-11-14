@@ -1,10 +1,10 @@
 # racket/zuo - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
-★ Stars: 156
+★ Stars: 158
 
 [Open repository](https://github.com/racket/zuo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 158 | 9 | 
 | 2022-11-12 | 156 | 9 | 
 | 2022-11-11 | 148 | 7 | 
 | 2022-11-10 | 148 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 148 | 7 | 
 | 2022-10-16 | 147 | 7 | 
 | 2022-10-15 | 147 | 7 | 
-| 2022-10-14 | 148 | 7 | 
 

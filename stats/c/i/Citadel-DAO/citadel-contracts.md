@@ -1,10 +1,10 @@
 # Citadel-DAO/citadel-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 34
+★ Stars: 33
 
 [Open repository](https://github.com/Citadel-DAO/citadel-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 33 | 12 | 
 | 2022-11-12 | 34 | 12 | 
 | 2022-11-11 | 34 | 12 | 
 | 2022-11-10 | 34 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 34 | 12 | 
 | 2022-10-16 | 34 | 12 | 
 | 2022-10-15 | 34 | 12 | 
-| 2022-10-14 | 34 | 12 | 
 

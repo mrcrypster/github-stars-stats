@@ -1,8 +1,8 @@
 # FabricMC/fabric-example-mod - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 657
+☋ Forks: 658
 
 ★ Stars: 1009
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1009 | 658 | 
 | 2022-11-12 | 1009 | 657 | 
 | 2022-11-11 | 1007 | 656 | 
 | 2022-11-10 | 1007 | 656 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 972 | 637 | 
 | 2022-10-16 | 972 | 637 | 
 | 2022-10-15 | 972 | 636 | 
-| 2022-10-14 | 970 | 636 | 
 

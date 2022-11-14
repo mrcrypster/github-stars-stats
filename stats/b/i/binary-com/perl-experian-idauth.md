@@ -1,6 +1,6 @@
 # binary-com/perl-experian-idauth - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1 | 8 | 
 | 2022-11-12 | 1 | 8 | 
 | 2022-11-11 | 1 | 8 | 
 | 2022-11-10 | 1 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1 | 8 | 
 | 2022-10-16 | 1 | 8 | 
 | 2022-10-15 | 1 | 8 | 
-| 2022-10-14 | 1 | 8 | 
 

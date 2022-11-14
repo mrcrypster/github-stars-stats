@@ -1,8 +1,8 @@
 # CallMeDaddyBro/EthicalPixel-Admin - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 26
+☋ Forks: 27
 
 ★ Stars: 39
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 39 | 27 | 
 | 2022-11-12 | 39 | 26 | 
 | 2022-11-11 | 39 | 26 | 
 | 2022-11-10 | 39 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 38 | 26 | 
 | 2022-10-16 | 38 | 26 | 
 | 2022-10-15 | 38 | 26 | 
-| 2022-10-14 | 38 | 26 | 
 

@@ -1,6 +1,6 @@
 # c99tn/vMass - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 109 | 27 | 
 | 2022-11-12 | 109 | 27 | 
 | 2022-11-11 | 109 | 27 | 
 | 2022-11-10 | 108 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 81 | 24 | 
 | 2022-10-16 | 81 | 24 | 
 | 2022-10-15 | 81 | 24 | 
-| 2022-10-14 | 81 | 24 | 
 

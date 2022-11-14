@@ -1,6 +1,6 @@
 # shinydevelopment/SimulatorStatusMagic - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 145
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2271 | 145 | 
 | 2022-11-12 | 2271 | 145 | 
 | 2022-11-11 | 2271 | 146 | 
 | 2022-11-10 | 2271 | 146 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2273 | 145 | 
 | 2022-10-16 | 2273 | 145 | 
 | 2022-10-15 | 2272 | 145 | 
-| 2022-10-14 | 2272 | 145 | 
 

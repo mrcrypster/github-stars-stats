@@ -1,6 +1,6 @@
 # doctrine/common - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 300
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5598 | 300 | 
 | 2022-11-12 | 5598 | 300 | 
 | 2022-11-11 | 5596 | 300 | 
 | 2022-11-09 | 5597 | 300 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 5592 | 300 | 
 | 2022-10-16 | 5591 | 300 | 
 | 2022-10-15 | 5592 | 300 | 
-| 2022-10-14 | 5592 | 300 | 
 

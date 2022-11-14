@@ -1,10 +1,10 @@
 # acepleiades/XP32-Maximum-Skeleton-Special-Extended - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/acepleiades/XP32-Maximum-Skeleton-Special-Extended)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3 | - | 
 | 2022-11-12 | 2 | - | 
 | 2022-11-11 | 2 | - | 
 | 2022-11-10 | 2 | - | 

@@ -1,10 +1,10 @@
 # silverhack/monkey365 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 45
 
-★ Stars: 451
+★ Stars: 455
 
 [Open repository](https://github.com/silverhack/monkey365)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 455 | 45 | 
 | 2022-11-12 | 451 | 45 | 
 | 2022-11-11 | 451 | 45 | 
 | 2022-11-10 | 451 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 354 | 36 | 
 | 2022-10-16 | 347 | 36 | 
 | 2022-10-15 | 341 | 36 | 
-| 2022-10-14 | 322 | 33 | 
 

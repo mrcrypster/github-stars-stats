@@ -1,6 +1,6 @@
 # juxt/reap - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 47 | 4 | 
 | 2022-11-12 | 47 | 4 | 
 | 2022-11-11 | 47 | 4 | 
 | 2022-11-09 | 47 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 47 | 4 | 
 | 2022-10-16 | 47 | 4 | 
 | 2022-10-15 | 47 | 4 | 
-| 2022-10-14 | 47 | 4 | 
 

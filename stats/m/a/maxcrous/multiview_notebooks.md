@@ -1,10 +1,10 @@
 # maxcrous/multiview_notebooks - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
-★ Stars: 56
+★ Stars: 58
 
 [Open repository](https://github.com/maxcrous/multiview_notebooks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 58 | 9 | 
 | 2022-11-12 | 56 | 9 | 
 | 2022-11-11 | 56 | 9 | 
 | 2022-11-10 | 56 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 55 | 9 | 
 | 2022-10-16 | 55 | 9 | 
 | 2022-10-15 | 55 | 9 | 
-| 2022-10-14 | 55 | 9 | 
 

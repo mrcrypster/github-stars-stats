@@ -1,10 +1,10 @@
 # GoldHEN/GoldHEN - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 70
 
-★ Stars: 595
+★ Stars: 598
 
 [Open repository](https://github.com/GoldHEN/GoldHEN)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 598 | 70 | 
 | 2022-11-12 | 595 | 70 | 
 | 2022-11-11 | 593 | 70 | 
 | 2022-11-10 | 590 | 70 | 

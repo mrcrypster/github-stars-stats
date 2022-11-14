@@ -1,10 +1,10 @@
 # JamesHockenberry/VALORANT-CHEAT-HACK-AIMBOT-ESP-SKINCHANGER - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 18
 
-★ Stars: 36
+★ Stars: 37
 
 [Open repository](https://github.com/JamesHockenberry/VALORANT-CHEAT-HACK-AIMBOT-ESP-SKINCHANGER)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 37 | 18 | 
 | 2022-11-12 | 36 | 18 | 
 | 2022-11-11 | 36 | 18 | 
 | 2022-11-10 | 36 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 28 | 6 | 
 | 2022-10-16 | 28 | 6 | 
 | 2022-10-15 | 27 | 6 | 
-| 2022-10-14 | 27 | 6 | 
 

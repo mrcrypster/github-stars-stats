@@ -1,6 +1,6 @@
 # akira/exq_ui - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 65
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 126 | 65 | 
 | 2022-11-12 | 126 | 65 | 
 | 2022-11-11 | 126 | 65 | 
 | 2022-11-09 | 126 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 122 | 65 | 
 | 2022-10-16 | 121 | 65 | 
 | 2022-10-15 | 121 | 65 | 
-| 2022-10-14 | 121 | 65 | 
 

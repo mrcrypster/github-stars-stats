@@ -1,10 +1,10 @@
 # MaxLeiter/Drift - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 45
 
-★ Stars: 881
+★ Stars: 882
 
 [Open repository](https://github.com/MaxLeiter/Drift)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 882 | 45 | 
 | 2022-11-12 | 881 | 45 | 
 | 2022-11-11 | 880 | 45 | 
 | 2022-11-10 | 879 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 865 | 45 | 
 | 2022-10-16 | 865 | 45 | 
 | 2022-10-15 | 864 | 45 | 
-| 2022-10-14 | 863 | 45 | 
 

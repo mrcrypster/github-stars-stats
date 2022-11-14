@@ -1,6 +1,6 @@
 # sakra/cotire - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1276 | 143 | 
 | 2022-11-12 | 1276 | 143 | 
 | 2022-11-11 | 1276 | 143 | 
 | 2022-11-10 | 1276 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1274 | 142 | 
 | 2022-10-16 | 1273 | 142 | 
 | 2022-10-15 | 1274 | 142 | 
-| 2022-10-14 | 1274 | 142 | 
 

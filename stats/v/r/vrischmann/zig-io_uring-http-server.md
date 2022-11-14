@@ -1,6 +1,6 @@
 # vrischmann/zig-io_uring-http-server - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 18 | - | 
 | 2022-11-12 | 18 | - | 
 | 2022-11-11 | 18 | - | 
 | 2022-11-09 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 18 | - | 
 | 2022-10-16 | 18 | - | 
 | 2022-10-15 | 18 | - | 
-| 2022-10-14 | 18 | - | 
 

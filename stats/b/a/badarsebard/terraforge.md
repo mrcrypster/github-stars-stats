@@ -1,10 +1,10 @@
 # badarsebard/terraforge - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 5
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/badarsebard/terraforge)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 60 | 5 | 
 | 2022-11-12 | 59 | 5 | 
 | 2022-11-11 | 59 | 5 | 
 | 2022-11-10 | 59 | 5 | 

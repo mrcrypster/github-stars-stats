@@ -1,6 +1,6 @@
 # edgexfoundry/edgex-global-pipelines - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 17 | 18 | 
 | 2022-11-12 | 17 | 18 | 
 | 2022-11-11 | 17 | 18 | 
 | 2022-11-10 | 17 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 16 | 17 | 
 | 2022-10-16 | 16 | 17 | 
 | 2022-10-15 | 16 | 17 | 
-| 2022-10-14 | 16 | 17 | 
 

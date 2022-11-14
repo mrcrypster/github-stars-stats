@@ -1,6 +1,6 @@
 # zalando/zally - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 127
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 739 | 127 | 
 | 2022-11-13 | 739 | 127 | 
 | 2022-11-11 | 738 | 127 | 
 | 2022-11-10 | 737 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 731 | 123 | 
 | 2022-10-16 | 726 | 123 | 
 | 2022-10-15 | 724 | 123 | 
-| 2022-10-14 | 721 | 123 | 
 

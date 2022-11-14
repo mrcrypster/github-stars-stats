@@ -1,10 +1,10 @@
 # sanic-org/sanic - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1475
+☋ Forks: 1474
 
-★ Stars: 16595
+★ Stars: 16597
 
 [Open repository](https://github.com/sanic-org/sanic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 16597 | 1474 | 
 | 2022-11-12 | 16595 | 1475 | 
 | 2022-11-11 | 16590 | 1476 | 
 | 2022-11-10 | 16587 | 1477 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 16524 | 1472 | 
 | 2022-10-16 | 16521 | 1471 | 
 | 2022-10-15 | 16518 | 1471 | 
-| 2022-10-14 | 16515 | 1471 | 
 

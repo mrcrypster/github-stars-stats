@@ -1,6 +1,6 @@
 # markodenic/public-apis - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 136 | 18 | 
 | 2022-11-12 | 136 | 18 | 
 | 2022-11-11 | 136 | 18 | 
 | 2022-11-10 | 136 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 137 | 18 | 
 | 2022-10-16 | 137 | 18 | 
 | 2022-10-15 | 137 | 18 | 
-| 2022-10-14 | 136 | 18 | 
 

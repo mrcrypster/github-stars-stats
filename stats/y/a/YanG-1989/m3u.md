@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 13
 
-☋ Forks: 105
+☋ Forks: 106
 
-★ Stars: 426
+★ Stars: 431
 
 [Open repository](https://github.com/YanG-1989/m3u)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 426 | 105 | 
+| 2022-11-13 | 431 | 106 | 
 | 2022-11-12 | 425 | 104 | 
 | 2022-11-11 | 393 | 98 | 
 | 2022-11-10 | 322 | 87 | 

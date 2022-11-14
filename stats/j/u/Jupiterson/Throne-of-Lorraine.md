@@ -1,6 +1,6 @@
 # Jupiterson/Throne-of-Lorraine - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 17 | 15 | 
 | 2022-11-12 | 17 | 15 | 
 | 2022-11-11 | 17 | 15 | 
 | 2022-11-10 | 17 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 17 | 15 | 
 | 2022-10-16 | 17 | 15 | 
 | 2022-10-15 | 17 | 15 | 
-| 2022-10-14 | 17 | 15 | 
 

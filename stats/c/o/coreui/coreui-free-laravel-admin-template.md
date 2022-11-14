@@ -1,6 +1,6 @@
 # coreui/coreui-free-laravel-admin-template - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 309
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 533 | 309 | 
 | 2022-11-13 | 533 | 309 | 
 | 2022-11-11 | 533 | 309 | 
 | 2022-11-10 | 533 | 309 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 530 | 307 | 
 | 2022-10-16 | 530 | 307 | 
 | 2022-10-15 | 530 | 307 | 
-| 2022-10-14 | 530 | 307 | 
 

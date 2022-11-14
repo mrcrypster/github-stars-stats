@@ -1,10 +1,10 @@
 # dddddd1/loveMove - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 12
+☋ Forks: 16
 
-★ Stars: 21
+★ Stars: 24
 
 [Open repository](https://github.com/dddddd1/loveMove)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 24 | 16 | 
 | 2022-11-12 | 21 | 12 | 
 | 2022-11-11 | 18 | 12 | 
 

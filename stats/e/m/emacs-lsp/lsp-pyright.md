@@ -1,10 +1,10 @@
 # emacs-lsp/lsp-pyright - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 19
 
-★ Stars: 206
+★ Stars: 207
 
 [Open repository](https://github.com/emacs-lsp/lsp-pyright)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 207 | 19 | 
 | 2022-11-12 | 206 | 19 | 
 | 2022-11-11 | 206 | 19 | 
 | 2022-11-10 | 206 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 203 | 18 | 
 | 2022-10-16 | 203 | 18 | 
 | 2022-10-15 | 203 | 18 | 
-| 2022-10-14 | 203 | 18 | 
 

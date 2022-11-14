@@ -1,6 +1,6 @@
 # NGEET/fates - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 77
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 77 | 77 | 
 | 2022-11-12 | 77 | 77 | 
 | 2022-11-11 | 77 | 77 | 
 | 2022-11-10 | 77 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 76 | 74 | 
 | 2022-10-16 | 76 | 74 | 
 | 2022-10-15 | 76 | 74 | 
-| 2022-10-14 | 76 | 74 | 
 

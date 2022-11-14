@@ -1,6 +1,6 @@
 # dustinkirkland/hollywood - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2283 | 219 | 
 | 2022-11-12 | 2283 | 219 | 
 | 2022-11-11 | 2282 | 219 | 
 | 2022-11-10 | 2283 | 219 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2260 | 218 | 
 | 2022-10-16 | 2260 | 217 | 
 | 2022-10-15 | 2259 | 217 | 
-| 2022-10-14 | 2257 | 217 | 
 

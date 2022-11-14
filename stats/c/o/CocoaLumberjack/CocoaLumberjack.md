@@ -1,6 +1,6 @@
 # CocoaLumberjack/CocoaLumberjack - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2233
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 12824 | 2233 | 
 | 2022-11-12 | 12824 | 2233 | 
 | 2022-11-11 | 12823 | 2233 | 
 | 2022-11-10 | 12820 | 2232 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 12799 | 2230 | 
 | 2022-10-16 | 12798 | 2230 | 
 | 2022-10-15 | 12794 | 2230 | 
-| 2022-10-14 | 12794 | 2230 | 
 

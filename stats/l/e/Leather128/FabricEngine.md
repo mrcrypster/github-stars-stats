@@ -1,10 +1,10 @@
 # Leather128/FabricEngine - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/Leather128/FabricEngine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 12 | 2 | 
 | 2022-11-12 | 11 | 2 | 
 | 2022-11-11 | 11 | 2 | 
 | 2022-11-10 | 11 | 2 | 

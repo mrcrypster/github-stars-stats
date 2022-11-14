@@ -1,6 +1,6 @@
 # input-output-hk/ce-semantics-dsl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6 | 1 | 
 | 2022-11-12 | 6 | 1 | 
 | 2022-11-10 | 6 | 1 | 
 | 2022-11-09 | 6 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 6 | 1 | 
 | 2022-10-16 | 6 | 1 | 
 | 2022-10-15 | 6 | 1 | 
-| 2022-10-14 | 6 | 1 | 
 

@@ -1,10 +1,10 @@
 # smjonas/live-command.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 259
+★ Stars: 261
 
 [Open repository](https://github.com/smjonas/live-command.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 261 | - | 
 | 2022-11-12 | 259 | - | 
 | 2022-11-10 | 258 | - | 
 | 2022-11-09 | 258 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 162 | - | 
 | 2022-10-16 | 160 | - | 
 | 2022-10-15 | 157 | - | 
-| 2022-10-14 | 156 | - | 
 

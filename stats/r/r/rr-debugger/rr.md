@@ -1,6 +1,6 @@
 # rr-debugger/rr - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 470
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 7466 | 470 | 
 | 2022-11-12 | 7466 | 470 | 
 | 2022-11-11 | 7464 | 470 | 
 | 2022-11-10 | 7463 | 470 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 7417 | 464 | 
 | 2022-10-16 | 7416 | 464 | 
 | 2022-10-15 | 7415 | 464 | 
-| 2022-10-14 | 7414 | 464 | 
 

@@ -1,6 +1,6 @@
 # cloudflare/lua-resty-cookie - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 156
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 319 | 156 | 
 | 2022-11-12 | 319 | 156 | 
 | 2022-11-10 | 318 | 156 | 
 | 2022-11-09 | 318 | 156 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 317 | 156 | 
 | 2022-10-16 | 317 | 156 | 
 | 2022-10-15 | 317 | 156 | 
-| 2022-10-14 | 317 | 156 | 
 

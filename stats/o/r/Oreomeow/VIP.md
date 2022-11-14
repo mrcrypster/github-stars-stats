@@ -1,6 +1,6 @@
 # Oreomeow/VIP - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 209
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 454 | 209 | 
 | 2022-11-12 | 454 | 209 | 
 | 2022-11-11 | 454 | 209 | 
 | 2022-11-10 | 454 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 453 | 209 | 
 | 2022-10-16 | 453 | 209 | 
 | 2022-10-15 | 453 | 209 | 
-| 2022-10-14 | 453 | 209 | 
 

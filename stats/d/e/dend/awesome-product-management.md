@@ -1,10 +1,10 @@
 # dend/awesome-product-management - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 84
 
-★ Stars: 873
+★ Stars: 874
 
 [Open repository](https://github.com/dend/awesome-product-management)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 874 | 84 | 
 | 2022-11-12 | 873 | 84 | 
 | 2022-11-11 | 873 | 84 | 
 | 2022-11-10 | 873 | 84 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 856 | 84 | 
 | 2022-10-16 | 856 | 84 | 
 | 2022-10-15 | 856 | 84 | 
-| 2022-10-14 | 856 | 84 | 
 

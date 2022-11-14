@@ -1,6 +1,6 @@
 # pointfreeco/combine-schedulers - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 70
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 516 | 70 | 
 | 2022-11-12 | 516 | 70 | 
 | 2022-11-11 | 515 | 70 | 
 | 2022-11-10 | 515 | 70 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 510 | 70 | 
 | 2022-10-17 | 509 | 70 | 
 | 2022-10-16 | 509 | 70 | 
-| 2022-10-15 | 509 | 69 | 
 

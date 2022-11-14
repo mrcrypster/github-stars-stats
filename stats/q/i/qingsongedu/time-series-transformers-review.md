@@ -1,10 +1,10 @@
 # qingsongedu/time-series-transformers-review - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 79
 
-★ Stars: 738
+★ Stars: 741
 
 [Open repository](https://github.com/qingsongedu/time-series-transformers-review)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 741 | 79 | 
 | 2022-11-12 | 738 | 79 | 
 | 2022-11-11 | 736 | 80 | 
 | 2022-11-09 | 732 | 80 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 651 | 74 | 
 | 2022-10-16 | 647 | 73 | 
 | 2022-10-15 | 644 | 72 | 
-| 2022-10-14 | 638 | 72 | 
 

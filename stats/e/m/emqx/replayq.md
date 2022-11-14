@@ -1,6 +1,6 @@
 # emqx/replayq - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 29 | 14 | 
 | 2022-11-12 | 29 | 14 | 
 | 2022-11-11 | 29 | 14 | 
 | 2022-11-10 | 29 | 14 | 

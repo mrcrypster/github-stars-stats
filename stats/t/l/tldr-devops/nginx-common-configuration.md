@@ -1,10 +1,10 @@
 # tldr-devops/nginx-common-configuration - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 17
 
-★ Stars: 558
+★ Stars: 559
 
 [Open repository](https://github.com/tldr-devops/nginx-common-configuration)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 559 | 17 | 
 | 2022-11-12 | 558 | 17 | 
 | 2022-11-11 | 558 | 17 | 
 | 2022-11-10 | 558 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 555 | 17 | 
 | 2022-10-16 | 555 | 17 | 
 | 2022-10-15 | 556 | 17 | 
-| 2022-10-14 | 556 | 17 | 
 

@@ -1,10 +1,10 @@
 # timlrx/tailwind-nextjs-starter-blog - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 883
+☋ Forks: 887
 
-★ Stars: 3582
+★ Stars: 3594
 
 [Open repository](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3594 | 887 | 
 | 2022-11-12 | 3582 | 883 | 
 | 2022-11-11 | 3579 | 881 | 
 | 2022-11-10 | 3573 | 878 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3458 | 844 | 
 | 2022-10-16 | 3450 | 844 | 
 | 2022-10-15 | 3447 | 842 | 
-| 2022-10-14 | 3441 | 841 | 
 

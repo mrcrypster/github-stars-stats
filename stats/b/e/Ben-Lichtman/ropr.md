@@ -1,6 +1,6 @@
 # Ben-Lichtman/ropr - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 338 | 21 | 
 | 2022-11-12 | 338 | 21 | 
 | 2022-11-11 | 338 | 21 | 
 | 2022-11-10 | 338 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 335 | 21 | 
 | 2022-10-16 | 332 | 21 | 
 | 2022-10-15 | 332 | 21 | 
-| 2022-10-14 | 332 | 21 | 
 

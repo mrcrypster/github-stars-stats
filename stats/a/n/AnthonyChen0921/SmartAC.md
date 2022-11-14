@@ -1,10 +1,10 @@
 # AnthonyChen0921/SmartAC - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 11
 
-★ Stars: 95
+★ Stars: 94
 
 [Open repository](https://github.com/AnthonyChen0921/SmartAC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 94 | 11 | 
 | 2022-11-12 | 95 | 11 | 
 | 2022-11-11 | 95 | 11 | 
 | 2022-11-10 | 95 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 95 | 11 | 
 | 2022-10-16 | 95 | 11 | 
 | 2022-10-15 | 95 | 11 | 
-| 2022-10-14 | 95 | 11 | 
 

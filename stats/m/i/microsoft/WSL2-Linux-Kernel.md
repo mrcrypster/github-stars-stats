@@ -1,10 +1,10 @@
 # microsoft/WSL2-Linux-Kernel - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 754
 
-★ Stars: 6111
+★ Stars: 6113
 
 [Open repository](https://github.com/microsoft/WSL2-Linux-Kernel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6113 | 754 | 
 | 2022-11-12 | 6111 | 754 | 
 | 2022-11-11 | 6107 | 755 | 
 | 2022-11-10 | 6101 | 753 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 6052 | 737 | 
 | 2022-10-16 | 6051 | 736 | 
 | 2022-10-15 | 6046 | 735 | 
-| 2022-10-14 | 6044 | 735 | 
 

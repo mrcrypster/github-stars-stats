@@ -1,10 +1,10 @@
 # linyacool/WebServer - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1803
+☋ Forks: 1804
 
-★ Stars: 5475
+★ Stars: 5477
 
 [Open repository](https://github.com/linyacool/WebServer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5477 | 1804 | 
 | 2022-11-12 | 5475 | 1803 | 
 | 2022-11-11 | 5473 | 1803 | 
 | 2022-11-10 | 5471 | 1803 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 5415 | 1792 | 
 | 2022-10-16 | 5411 | 1793 | 
 | 2022-10-15 | 5409 | 1793 | 
-| 2022-10-14 | 5405 | 1793 | 
 

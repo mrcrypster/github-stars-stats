@@ -1,10 +1,10 @@
 # NVIDIA/cuda-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1001
+☋ Forks: 1002
 
-★ Stars: 2715
+★ Stars: 2716
 
 [Open repository](https://github.com/NVIDIA/cuda-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2716 | 1002 | 
 | 2022-11-12 | 2715 | 1001 | 
 | 2022-11-11 | 2714 | 1003 | 
 | 2022-11-10 | 2710 | 1000 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2606 | 951 | 
 | 2022-10-16 | 2603 | 947 | 
 | 2022-10-15 | 2597 | 945 | 
-| 2022-10-14 | 2596 | 945 | 
 

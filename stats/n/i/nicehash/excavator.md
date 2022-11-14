@@ -1,6 +1,6 @@
 # nicehash/excavator - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 51 | 18 | 
 | 2022-11-12 | 51 | 18 | 
 | 2022-11-11 | 51 | 18 | 
 | 2022-11-10 | 51 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 50 | 18 | 
 | 2022-10-16 | 50 | 18 | 
 | 2022-10-15 | 50 | 18 | 
-| 2022-10-14 | 50 | 18 | 
 

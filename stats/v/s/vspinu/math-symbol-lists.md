@@ -1,10 +1,10 @@
 # vspinu/math-symbol-lists - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 4
 
-★ Stars: 31
+★ Stars: 32
 
 [Open repository](https://github.com/vspinu/math-symbol-lists)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 32 | 4 | 
 | 2022-11-12 | 31 | 4 | 
 | 2022-11-11 | 31 | 4 | 
 | 2022-11-10 | 31 | 4 | 

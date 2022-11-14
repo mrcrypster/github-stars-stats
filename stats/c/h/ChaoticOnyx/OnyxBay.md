@@ -1,6 +1,6 @@
 # ChaoticOnyx/OnyxBay - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 185
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 77 | 185 | 
 | 2022-11-12 | 77 | 185 | 
 | 2022-11-11 | 77 | 185 | 
 | 2022-11-10 | 77 | 185 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 78 | 185 | 
 | 2022-10-16 | 78 | 185 | 
 | 2022-10-15 | 78 | 185 | 
-| 2022-10-14 | 77 | 185 | 
 

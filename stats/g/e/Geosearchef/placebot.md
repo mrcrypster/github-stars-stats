@@ -1,6 +1,6 @@
 # Geosearchef/placebot - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 22 | 22 | 
 | 2022-11-12 | 22 | 22 | 
 | 2022-11-11 | 22 | 22 | 
 | 2022-11-10 | 22 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 22 | 22 | 
 | 2022-10-16 | 22 | 22 | 
 | 2022-10-15 | 22 | 22 | 
-| 2022-10-14 | 22 | 22 | 
 

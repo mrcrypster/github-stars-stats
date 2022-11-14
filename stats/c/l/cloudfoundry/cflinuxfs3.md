@@ -1,6 +1,6 @@
 # cloudfoundry/cflinuxfs3 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 13 | 14 | 
 | 2022-11-12 | 13 | 14 | 
 | 2022-11-11 | 13 | 14 | 
 | 2022-11-10 | 13 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 12 | 14 | 
 | 2022-10-16 | 12 | 14 | 
 | 2022-10-15 | 12 | 14 | 
-| 2022-10-14 | 12 | 14 | 
 

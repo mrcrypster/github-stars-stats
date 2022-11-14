@@ -1,10 +1,10 @@
 # ezshine/wxapkg-convertor - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 252
 
-★ Stars: 754
+★ Stars: 756
 
 [Open repository](https://github.com/ezshine/wxapkg-convertor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 756 | 252 | 
 | 2022-11-12 | 754 | 252 | 
 | 2022-11-11 | 752 | 251 | 
 | 2022-11-10 | 750 | 251 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 685 | 242 | 
 | 2022-10-16 | 683 | 242 | 
 | 2022-10-15 | 683 | 242 | 
-| 2022-10-14 | 683 | 242 | 
 

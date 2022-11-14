@@ -1,10 +1,10 @@
 # gleam-lang/gleam - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 217
+☋ Forks: 218
 
-★ Stars: 4239
+★ Stars: 4241
 
 [Open repository](https://github.com/gleam-lang/gleam)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 4241 | 218 | 
 | 2022-11-12 | 4239 | 217 | 
 | 2022-11-11 | 4238 | 217 | 
 | 2022-11-10 | 4238 | 218 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 4191 | 215 | 
 | 2022-10-16 | 4191 | 215 | 
 | 2022-10-15 | 4190 | 215 | 
-| 2022-10-14 | 4187 | 213 | 
 

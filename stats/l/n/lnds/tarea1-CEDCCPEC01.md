@@ -1,6 +1,6 @@
 # lnds/tarea1-CEDCCPEC01 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | - | 30 | 
 | 2022-11-12 | - | 30 | 
 | 2022-11-11 | - | 30 | 
 | 2022-11-10 | - | 30 | 

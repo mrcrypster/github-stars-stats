@@ -1,8 +1,8 @@
 # ETCE-LAB/teaching-material - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 11
+☋ Forks: 10
 
 ★ Stars: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6 | 10 | 
 | 2022-11-12 | 6 | 11 | 
 | 2022-11-11 | 6 | 11 | 
 | 2022-11-10 | 6 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 5 | 11 | 
 | 2022-10-17 | 5 | 11 | 
 | 2022-10-16 | 5 | 11 | 
-| 2022-10-15 | 5 | 11 | 
 

@@ -1,6 +1,6 @@
 # vitest-dev/vscode - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 432 | 32 | 
 | 2022-11-12 | 432 | 32 | 
 | 2022-11-11 | 431 | 32 | 
 | 2022-11-10 | 430 | 32 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 418 | 29 | 
 | 2022-10-16 | 417 | 29 | 
 | 2022-10-15 | 416 | 29 | 
-| 2022-10-14 | 415 | 29 | 
 

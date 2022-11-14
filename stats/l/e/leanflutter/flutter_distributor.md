@@ -1,6 +1,6 @@
 # leanflutter/flutter_distributor - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 400 | 50 | 
 | 2022-11-12 | 400 | 50 | 
 | 2022-11-11 | 400 | 50 | 
 | 2022-11-10 | 400 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 385 | 49 | 
 | 2022-10-16 | 385 | 49 | 
 | 2022-10-15 | 385 | 49 | 
-| 2022-10-14 | 385 | 49 | 
 

@@ -1,6 +1,6 @@
 # builtbybel/TweakUIX - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 237 | 20 | 
 | 2022-11-12 | 237 | 20 | 
 | 2022-11-11 | 237 | 20 | 
 | 2022-11-10 | 237 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 231 | 19 | 
 | 2022-10-16 | 231 | 19 | 
 | 2022-10-15 | 231 | 19 | 
-| 2022-10-14 | 231 | 19 | 
 

@@ -1,10 +1,10 @@
 # misterblack1/trs80-diagnosticrom - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 42
+★ Stars: 44
 
 [Open repository](https://github.com/misterblack1/trs80-diagnosticrom)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 44 | 12 | 
 | 2022-11-12 | 42 | 12 | 
 | 2022-11-11 | 42 | 12 | 
 | 2022-11-10 | 42 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 40 | 11 | 
 | 2022-10-16 | 39 | 11 | 
 | 2022-10-15 | 39 | 11 | 
-| 2022-10-14 | 39 | 11 | 
 

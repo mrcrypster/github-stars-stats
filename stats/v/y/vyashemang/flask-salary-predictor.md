@@ -1,10 +1,10 @@
 # vyashemang/flask-salary-predictor - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 128
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/vyashemang/flask-salary-predictor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 78 | 128 | 
 | 2022-11-12 | 77 | 128 | 
 | 2022-11-11 | 77 | 128 | 
 | 2022-11-10 | 76 | 128 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 75 | 127 | 
 | 2022-10-16 | 75 | 127 | 
 | 2022-10-15 | 75 | 127 | 
-| 2022-10-14 | 75 | 127 | 
 

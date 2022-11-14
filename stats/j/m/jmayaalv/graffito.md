@@ -1,10 +1,10 @@
 # jmayaalv/graffito - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 0
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/jmayaalv/graffito)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 18 | - | 
 | 2022-11-12 | 17 | - | 
 | 2022-11-11 | 17 | - | 
 | 2022-11-10 | 17 | - | 

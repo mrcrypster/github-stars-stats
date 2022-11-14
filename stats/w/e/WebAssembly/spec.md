@@ -1,6 +1,6 @@
 # WebAssembly/spec - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 418
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2739 | 418 | 
 | 2022-11-12 | 2739 | 418 | 
 | 2022-11-11 | 2738 | 417 | 
 | 2022-11-10 | 2738 | 416 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2719 | 414 | 
 | 2022-10-16 | 2719 | 413 | 
 | 2022-10-15 | 2719 | 413 | 
-| 2022-10-14 | 2718 | 413 | 
 

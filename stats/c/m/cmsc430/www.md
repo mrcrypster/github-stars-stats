@@ -1,6 +1,6 @@
 # cmsc430/www - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 29 | 23 | 
 | 2022-11-12 | 29 | 23 | 
 | 2022-11-11 | 29 | 23 | 
 | 2022-11-10 | 29 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 19 | 19 | 
 | 2022-10-16 | 19 | 19 | 
 | 2022-10-15 | 19 | 19 | 
-| 2022-10-14 | 17 | 19 | 
 

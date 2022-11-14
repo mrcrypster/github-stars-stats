@@ -1,6 +1,6 @@
 # markulie/AnimLayerCleaner - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7 | 5 | 
 | 2022-11-12 | 7 | 5 | 
 | 2022-11-11 | 7 | 5 | 
 | 2022-11-10 | 7 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 6 | 5 | 
 | 2022-10-16 | 6 | 5 | 
 | 2022-10-15 | 6 | 5 | 
-| 2022-10-14 | 6 | 5 | 
 

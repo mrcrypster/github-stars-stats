@@ -1,6 +1,6 @@
 # clasp-developers/clasp - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 135
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2232 | 135 | 
 | 2022-11-12 | 2232 | 135 | 
 | 2022-11-11 | 2232 | 135 | 
 | 2022-11-10 | 2231 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2194 | 132 | 
 | 2022-10-16 | 2194 | 132 | 
 | 2022-10-15 | 2194 | 132 | 
-| 2022-10-14 | 2193 | 132 | 
 

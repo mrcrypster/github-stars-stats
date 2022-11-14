@@ -1,6 +1,6 @@
 # xstriver/vps-heroku - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 270
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 27 | 270 | 
 | 2022-11-12 | 27 | 270 | 
 | 2022-11-11 | 27 | 271 | 
 | 2022-11-09 | 27 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 26 | 267 | 
 | 2022-10-16 | 26 | 267 | 
 | 2022-10-15 | 26 | 266 | 
-| 2022-10-14 | 26 | 266 | 
 

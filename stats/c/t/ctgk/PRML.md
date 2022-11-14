@@ -1,6 +1,6 @@
 # ctgk/PRML - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 3198
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 10773 | 3198 | 
 | 2022-11-12 | 10773 | 3198 | 
 | 2022-11-11 | 10773 | 3199 | 
 | 2022-11-10 | 10768 | 3199 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 10731 | 3199 | 
 | 2022-10-16 | 10729 | 3200 | 
 | 2022-10-15 | 10728 | 3200 | 
-| 2022-10-14 | 10726 | 3200 | 
 

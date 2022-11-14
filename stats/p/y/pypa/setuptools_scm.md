@@ -1,6 +1,6 @@
 # pypa/setuptools_scm - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 180
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 647 | 180 | 
 | 2022-11-12 | 647 | 180 | 
 | 2022-11-11 | 647 | 180 | 
 | 2022-11-10 | 647 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 636 | 178 | 
 | 2022-10-16 | 636 | 178 | 
 | 2022-10-15 | 636 | 178 | 
-| 2022-10-14 | 636 | 178 | 
 

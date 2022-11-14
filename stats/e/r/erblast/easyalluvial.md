@@ -1,6 +1,6 @@
 # erblast/easyalluvial - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 100 | 9 | 
 | 2022-11-12 | 100 | 9 | 
 | 2022-11-11 | 100 | 9 | 
 | 2022-11-10 | 100 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 100 | 8 | 
 | 2022-10-16 | 100 | 8 | 
 | 2022-10-15 | 100 | 8 | 
-| 2022-10-14 | 100 | 8 | 
 

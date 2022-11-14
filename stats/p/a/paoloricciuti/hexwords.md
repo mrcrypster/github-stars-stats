@@ -1,6 +1,6 @@
 # paoloricciuti/hexwords - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 99 | 6 | 
 | 2022-11-12 | 99 | 6 | 
 | 2022-11-11 | 99 | 6 | 
 | 2022-11-10 | 99 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 99 | 6 | 
 | 2022-10-16 | 99 | 6 | 
 | 2022-10-15 | 99 | 6 | 
-| 2022-10-14 | 99 | 6 | 
 

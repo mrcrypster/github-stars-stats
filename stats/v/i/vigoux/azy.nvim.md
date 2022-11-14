@@ -1,6 +1,6 @@
 # vigoux/azy.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 28 | 1 | 
 | 2022-11-12 | 28 | 1 | 
 | 2022-11-11 | 28 | 1 | 
 | 2022-11-10 | 28 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 29 | 1 | 
 | 2022-10-16 | 29 | 1 | 
 | 2022-10-15 | 30 | 1 | 
-| 2022-10-14 | 30 | 1 | 
 

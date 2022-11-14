@@ -1,0 +1,18 @@
+# amperity/ken - stars & forks statistics
+
+Stats updated on Nov 2022, 14
+
+☋ Forks: 1
+
+★ Stars: 38
+
+[Open repository](https://github.com/amperity/ken)
+
+[Open detailed stats for amperity/ken](https://reviewgithub.com/rep/amperity/ken)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-14 | 38 | 1 | 
+| 2022-11-13 | 38 | 1 | 
+

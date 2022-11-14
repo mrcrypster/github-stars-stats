@@ -1,6 +1,6 @@
 # Prajwal100/Advance-Ecommerce-in-laravel-7 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 285
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 397 | 285 | 
 | 2022-11-12 | 397 | 285 | 
 | 2022-11-11 | 397 | 284 | 
 | 2022-11-10 | 396 | 284 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 388 | 277 | 
 | 2022-10-16 | 387 | 277 | 
 | 2022-10-15 | 387 | 277 | 
-| 2022-10-14 | 387 | 277 | 
 

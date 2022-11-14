@@ -1,6 +1,6 @@
 # radarlabs/radar-sdk-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 23
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 54 | 23 | 
 | 2022-11-12 | 54 | 23 | 
 | 2022-11-11 | 54 | 23 | 
 | 2022-11-10 | 54 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 53 | 23 | 
 | 2022-10-16 | 53 | 23 | 
 | 2022-10-15 | 53 | 23 | 
-| 2022-10-14 | 53 | 23 | 
 

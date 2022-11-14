@@ -1,6 +1,6 @@
 # zhanglele666/loli3_RC - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 62 | 27 | 
 | 2022-11-12 | 62 | 27 | 
 | 2022-11-10 | 62 | 27 | 
 | 2022-11-09 | 62 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 60 | 27 | 
 | 2022-10-16 | 60 | 27 | 
 | 2022-10-15 | 60 | 27 | 
-| 2022-10-14 | 60 | 27 | 
 

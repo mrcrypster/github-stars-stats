@@ -1,6 +1,6 @@
 # grafana/doom-datasource - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 68 | 5 | 
 | 2022-11-12 | 68 | 5 | 
 | 2022-11-11 | 67 | 5 | 
 | 2022-11-10 | 67 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 67 | 5 | 
 | 2022-10-16 | 67 | 5 | 
 | 2022-10-15 | 67 | 5 | 
-| 2022-10-14 | 67 | 5 | 
 

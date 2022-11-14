@@ -1,10 +1,10 @@
 # bubbliiiing/yolov5-pytorch - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 93
 
-★ Stars: 441
+★ Stars: 442
 
 [Open repository](https://github.com/bubbliiiing/yolov5-pytorch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 442 | 93 | 
 | 2022-11-12 | 441 | 93 | 
 | 2022-11-11 | 441 | 93 | 
 | 2022-11-10 | 439 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 417 | 86 | 
 | 2022-10-16 | 416 | 86 | 
 | 2022-10-15 | 414 | 86 | 
-| 2022-10-14 | 413 | 85 | 
 

@@ -1,8 +1,8 @@
 # tchapi/markdown-cheatsheet - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 5911
+☋ Forks: 5912
 
 ★ Stars: 4035
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 4035 | 5912 | 
 | 2022-11-12 | 4035 | 5911 | 
 | 2022-11-11 | 4034 | 5912 | 
 | 2022-11-10 | 4031 | 5910 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3990 | 5833 | 
 | 2022-10-16 | 3984 | 5829 | 
 | 2022-10-15 | 3984 | 5826 | 
-| 2022-10-14 | 3981 | 5824 | 
 

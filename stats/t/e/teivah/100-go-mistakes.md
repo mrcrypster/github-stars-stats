@@ -1,10 +1,10 @@
 # teivah/100-go-mistakes - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 205
 
-★ Stars: 3599
+★ Stars: 3608
 
 [Open repository](https://github.com/teivah/100-go-mistakes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3608 | 205 | 
 | 2022-11-12 | 3599 | 205 | 
 | 2022-11-11 | 3574 | 205 | 
 | 2022-11-10 | 3541 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3322 | 196 | 
 | 2022-10-16 | 3317 | 195 | 
 | 2022-10-15 | 3311 | 195 | 
-| 2022-10-14 | 3307 | 193 | 
 

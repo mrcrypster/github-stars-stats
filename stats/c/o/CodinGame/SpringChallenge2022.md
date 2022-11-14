@@ -1,6 +1,6 @@
 # CodinGame/SpringChallenge2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 100 | 49 | 
 | 2022-11-12 | 100 | 49 | 
 | 2022-11-11 | 100 | 49 | 
 | 2022-11-10 | 100 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 100 | 47 | 
 | 2022-10-16 | 100 | 47 | 
 | 2022-10-15 | 100 | 47 | 
-| 2022-10-14 | 100 | 47 | 
 

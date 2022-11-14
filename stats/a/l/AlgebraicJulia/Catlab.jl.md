@@ -1,10 +1,10 @@
 # AlgebraicJulia/Catlab.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 48
 
-★ Stars: 487
+★ Stars: 488
 
 [Open repository](https://github.com/AlgebraicJulia/Catlab.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 488 | 48 | 
 | 2022-11-12 | 487 | 48 | 
 | 2022-11-11 | 487 | 48 | 
 | 2022-11-10 | 487 | 48 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 476 | 46 | 
 | 2022-10-16 | 476 | 46 | 
 | 2022-10-15 | 476 | 46 | 
-| 2022-10-14 | 476 | 46 | 
 

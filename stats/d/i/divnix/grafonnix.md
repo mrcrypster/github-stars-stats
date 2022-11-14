@@ -1,6 +1,6 @@
 # divnix/grafonnix - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 9 | 1 | 
 | 2022-11-12 | 9 | 1 | 
 | 2022-11-10 | 9 | 1 | 
 | 2022-11-09 | 9 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 8 | 1 | 
 | 2022-10-16 | 8 | 1 | 
 | 2022-10-15 | 8 | 1 | 
-| 2022-10-14 | 8 | 1 | 
 

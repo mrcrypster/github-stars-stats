@@ -1,10 +1,10 @@
 # rauversion/rauversion-phx - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 10
 
-★ Stars: 247
+★ Stars: 248
 
 [Open repository](https://github.com/rauversion/rauversion-phx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 248 | 10 | 
 | 2022-11-12 | 247 | 10 | 
 | 2022-11-11 | 247 | 10 | 
 | 2022-11-10 | 247 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 231 | 8 | 
 | 2022-10-16 | 229 | 8 | 
 | 2022-10-15 | 229 | 8 | 
-| 2022-10-14 | 229 | 8 | 
 

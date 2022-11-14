@@ -1,6 +1,6 @@
 # mojio/mojio-js - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 13 | 9 | 
 | 2022-11-12 | 13 | 9 | 
 | 2022-11-11 | 13 | 9 | 
 | 2022-11-10 | 13 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 13 | 9 | 
 | 2022-10-16 | 13 | 9 | 
 | 2022-10-15 | 13 | 9 | 
-| 2022-10-14 | 13 | 9 | 
 

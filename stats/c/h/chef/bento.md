@@ -1,6 +1,6 @@
 # chef/bento - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1088
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3968 | 1088 | 
 | 2022-11-12 | 3968 | 1088 | 
 | 2022-11-11 | 3967 | 1088 | 
 | 2022-11-10 | 3967 | 1088 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3952 | 1082 | 
 | 2022-10-16 | 3949 | 1082 | 
 | 2022-10-15 | 3948 | 1082 | 
-| 2022-10-14 | 3947 | 1082 | 
 

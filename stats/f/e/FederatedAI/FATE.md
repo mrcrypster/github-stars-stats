@@ -1,8 +1,8 @@
 # FederatedAI/FATE - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1392
+☋ Forks: 1393
 
 ★ Stars: 4663
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 4663 | 1393 | 
 | 2022-11-12 | 4663 | 1392 | 
 | 2022-11-11 | 4662 | 1391 | 
 | 2022-11-10 | 4658 | 1387 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 4586 | 1367 | 
 | 2022-10-16 | 4585 | 1366 | 
 | 2022-10-15 | 4584 | 1364 | 
-| 2022-10-14 | 4583 | 1365 | 
 

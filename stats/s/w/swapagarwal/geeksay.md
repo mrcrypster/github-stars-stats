@@ -1,10 +1,10 @@
 # swapagarwal/geeksay - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 313
+☋ Forks: 312
 
-★ Stars: 195
+★ Stars: 196
 
 [Open repository](https://github.com/swapagarwal/geeksay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 196 | 312 | 
 | 2022-11-12 | 195 | 313 | 
 | 2022-11-10 | 194 | 313 | 
 | 2022-11-09 | 194 | 313 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 190 | 309 | 
 | 2022-10-16 | 190 | 308 | 
 | 2022-10-15 | 188 | 308 | 
-| 2022-10-14 | 187 | 308 | 
 

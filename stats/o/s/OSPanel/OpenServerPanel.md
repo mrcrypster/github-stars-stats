@@ -1,10 +1,10 @@
 # OSPanel/OpenServerPanel - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 19
+★ Stars: 20
 
 [Open repository](https://github.com/OSPanel/OpenServerPanel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 20 | 5 | 
 | 2022-11-13 | 19 | 5 | 
 | 2022-11-11 | 18 | 5 | 
 | 2022-11-10 | 18 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 16 | 5 | 
 | 2022-10-16 | 15 | 5 | 
 | 2022-10-15 | 15 | 5 | 
-| 2022-10-14 | 15 | 5 | 
 

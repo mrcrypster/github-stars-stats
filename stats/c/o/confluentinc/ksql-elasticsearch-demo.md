@@ -1,8 +1,8 @@
 # confluentinc/ksql-elasticsearch-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 4
+☋ Forks: 5
 
 ★ Stars: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 4 | 5 | 
 | 2022-11-12 | 4 | 4 | 
 | 2022-11-10 | 4 | 4 | 
 | 2022-11-09 | 4 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 4 | 4 | 
 | 2022-10-16 | 4 | 4 | 
 | 2022-10-15 | 4 | 4 | 
-| 2022-10-14 | 4 | 4 | 
 

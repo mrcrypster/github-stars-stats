@@ -1,6 +1,6 @@
 # nousr/koi - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 376 | 26 | 
 | 2022-11-12 | 376 | 26 | 
 | 2022-11-11 | 376 | 26 | 
 | 2022-11-10 | 376 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 371 | 26 | 
 | 2022-10-16 | 371 | 26 | 
 | 2022-10-15 | 370 | 26 | 
-| 2022-10-14 | 369 | 25 | 
 

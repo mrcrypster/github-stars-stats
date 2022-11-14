@@ -1,8 +1,8 @@
 # kaal-coder/hacktoberfest - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 68
+☋ Forks: 66
 
 ★ Stars: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 54 | 66 | 
 | 2022-11-12 | 54 | 68 | 
 | 2022-11-11 | 54 | 68 | 
 | 2022-11-10 | 54 | 68 | 

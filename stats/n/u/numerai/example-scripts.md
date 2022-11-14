@@ -1,10 +1,10 @@
 # numerai/example-scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 202
 
-★ Stars: 480
+★ Stars: 481
 
 [Open repository](https://github.com/numerai/example-scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 481 | 202 | 
 | 2022-11-12 | 480 | 202 | 
 | 2022-11-11 | 480 | 203 | 
 | 2022-11-10 | 479 | 203 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 466 | 201 | 
 | 2022-10-16 | 466 | 200 | 
 | 2022-10-15 | 466 | 200 | 
-| 2022-10-14 | 466 | 200 | 
 

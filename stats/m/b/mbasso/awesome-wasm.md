@@ -1,10 +1,10 @@
 # mbasso/awesome-wasm - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 434
+☋ Forks: 433
 
-★ Stars: 7307
+★ Stars: 7308
 
 [Open repository](https://github.com/mbasso/awesome-wasm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 7308 | 433 | 
 | 2022-11-12 | 7307 | 434 | 
 | 2022-11-11 | 7304 | 434 | 
 | 2022-11-09 | 7301 | 434 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 7244 | 429 | 
 | 2022-10-16 | 7240 | 429 | 
 | 2022-10-15 | 7239 | 429 | 
-| 2022-10-14 | 7237 | 429 | 
 

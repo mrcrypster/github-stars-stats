@@ -1,6 +1,6 @@
 # cask/cask - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1211 | 150 | 
 | 2022-11-12 | 1211 | 150 | 
 | 2022-11-11 | 1211 | 150 | 
 | 2022-11-10 | 1211 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1208 | 151 | 
 | 2022-10-16 | 1209 | 151 | 
 | 2022-10-15 | 1209 | 151 | 
-| 2022-10-14 | 1208 | 151 | 
 

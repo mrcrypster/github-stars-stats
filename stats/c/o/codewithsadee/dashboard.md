@@ -1,10 +1,10 @@
 # codewithsadee/dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 24
+☋ Forks: 25
 
-★ Stars: 121
+★ Stars: 122
 
 [Open repository](https://github.com/codewithsadee/dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 122 | 25 | 
 | 2022-11-12 | 121 | 24 | 
 | 2022-11-11 | 120 | 24 | 
 | 2022-11-10 | 120 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 118 | 23 | 
 | 2022-10-16 | 118 | 23 | 
 | 2022-10-15 | 117 | 23 | 
-| 2022-10-14 | 117 | 23 | 
 

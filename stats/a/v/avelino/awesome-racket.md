@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 14
 
-★ Stars: 358
+★ Stars: 359
 
 [Open repository](https://github.com/avelino/awesome-racket)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 358 | 14 | 
+| 2022-11-13 | 359 | 14 | 
 | 2022-11-12 | 358 | 14 | 
 

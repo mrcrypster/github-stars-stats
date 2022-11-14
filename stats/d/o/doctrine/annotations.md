@@ -1,6 +1,6 @@
 # doctrine/annotations - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 235
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 6537 | 235 | 
 | 2022-11-12 | 6537 | 235 | 
 | 2022-11-11 | 6537 | 235 | 
 | 2022-11-10 | 6535 | 235 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 6528 | 233 | 
 | 2022-10-17 | 6527 | 233 | 
 | 2022-10-16 | 6527 | 233 | 
-| 2022-10-15 | 6528 | 233 | 
 

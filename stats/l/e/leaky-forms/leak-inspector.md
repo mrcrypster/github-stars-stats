@@ -1,6 +1,6 @@
 # leaky-forms/leak-inspector - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 119 | 8 | 
 | 2022-11-12 | 119 | 8 | 
 | 2022-11-11 | 119 | 8 | 
 | 2022-11-10 | 119 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 118 | 8 | 
 | 2022-10-16 | 118 | 8 | 
 | 2022-10-15 | 118 | 8 | 
-| 2022-10-14 | 118 | 8 | 
 

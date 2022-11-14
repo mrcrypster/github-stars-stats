@@ -1,6 +1,6 @@
 # spatie/data-transfer-object - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2176 | 159 | 
 | 2022-11-12 | 2176 | 159 | 
 | 2022-11-11 | 2176 | 159 | 
 | 2022-11-10 | 2177 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2170 | 150 | 
 | 2022-10-16 | 2169 | 150 | 
 | 2022-10-15 | 2168 | 150 | 
-| 2022-10-14 | 2168 | 150 | 
 

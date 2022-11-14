@@ -1,10 +1,10 @@
 # TomBursch/kitchenowl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/TomBursch/kitchenowl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 210 | 14 | 
 | 2022-11-12 | 209 | 13 | 
 | 2022-11-11 | 206 | 12 | 
 | 2022-11-10 | 203 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 175 | 11 | 
 | 2022-10-16 | 175 | 11 | 
 | 2022-10-15 | 175 | 11 | 
-| 2022-10-14 | 174 | 11 | 
 

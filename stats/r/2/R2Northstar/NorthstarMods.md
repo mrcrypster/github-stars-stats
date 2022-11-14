@@ -1,6 +1,6 @@
 # R2Northstar/NorthstarMods - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 133 | 98 | 
 | 2022-11-12 | 133 | 98 | 
 | 2022-11-11 | 133 | 98 | 
 | 2022-11-10 | 133 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 131 | 98 | 
 | 2022-10-16 | 131 | 98 | 
 | 2022-10-15 | 131 | 98 | 
-| 2022-10-14 | 131 | 98 | 
 

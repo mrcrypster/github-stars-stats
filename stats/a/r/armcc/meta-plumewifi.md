@@ -1,6 +1,6 @@
 # armcc/meta-plumewifi - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1 | 2 | 
 | 2022-11-12 | 1 | 2 | 
 | 2022-11-11 | 1 | 2 | 
 | 2022-11-10 | 1 | 2 | 

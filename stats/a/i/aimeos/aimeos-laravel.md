@@ -1,10 +1,10 @@
 # aimeos/aimeos-laravel - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 914
 
-★ Stars: 5801
+★ Stars: 5802
 
 [Open repository](https://github.com/aimeos/aimeos-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5802 | 914 | 
 | 2022-11-12 | 5801 | 914 | 
 | 2022-11-10 | 5801 | 914 | 
 | 2022-11-09 | 5801 | 913 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 5757 | 913 | 
 | 2022-10-16 | 5757 | 913 | 
 | 2022-10-15 | 5756 | 913 | 
-| 2022-10-14 | 5753 | 913 | 
 

@@ -1,6 +1,6 @@
 # webyang-male/nuxt3-edu - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 121 | 17 | 
 | 2022-11-12 | 121 | 17 | 
 | 2022-11-11 | 119 | 17 | 
 | 2022-11-10 | 118 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 110 | 16 | 
 | 2022-10-16 | 110 | 16 | 
 | 2022-10-15 | 110 | 16 | 
-| 2022-10-14 | 110 | 16 | 
 

@@ -1,10 +1,10 @@
 # creagia/laravel-sign-pad - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 9
 
-★ Stars: 232
+★ Stars: 234
 
 [Open repository](https://github.com/creagia/laravel-sign-pad)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 234 | 9 | 
 | 2022-11-12 | 232 | 9 | 
 | 2022-11-11 | 232 | 9 | 
 | 2022-11-10 | 230 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 67 | 1 | 
 | 2022-10-16 | 58 | 1 | 
 | 2022-10-15 | 58 | 1 | 
-| 2022-10-14 | 57 | 1 | 
 

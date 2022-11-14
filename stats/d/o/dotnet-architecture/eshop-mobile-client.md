@@ -1,6 +1,6 @@
 # dotnet-architecture/eshop-mobile-client - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 98
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 250 | 98 | 
 | 2022-11-12 | 250 | 98 | 
 | 2022-11-11 | 249 | 98 | 
 | 2022-11-09 | 248 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 230 | 96 | 
 | 2022-10-16 | 230 | 96 | 
 | 2022-10-15 | 230 | 96 | 
-| 2022-10-14 | 230 | 96 | 
 

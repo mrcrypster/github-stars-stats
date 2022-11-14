@@ -1,10 +1,10 @@
 # ARMmbed/mbedtls - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 2128
+☋ Forks: 2129
 
-★ Stars: 3819
+★ Stars: 3820
 
 [Open repository](https://github.com/ARMmbed/mbedtls)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3820 | 2129 | 
 | 2022-11-12 | 3819 | 2128 | 
 | 2022-11-11 | 3819 | 2126 | 
 | 2022-11-09 | 3815 | 2128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3781 | 2106 | 
 | 2022-10-16 | 3781 | 2104 | 
 | 2022-10-15 | 3780 | 2104 | 
-| 2022-10-14 | 3778 | 2103 | 
 

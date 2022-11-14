@@ -1,10 +1,10 @@
 # IanLunn/Hover - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 5747
 
-★ Stars: 27423
+★ Stars: 27424
 
 [Open repository](https://github.com/IanLunn/Hover)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 27424 | 5747 | 
 | 2022-11-12 | 27423 | 5747 | 
 | 2022-11-11 | 27414 | 5744 | 
 | 2022-11-10 | 27406 | 5741 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 26433 | 5672 | 
 | 2022-10-16 | 26430 | 5672 | 
 | 2022-10-15 | 26430 | 5672 | 
-| 2022-10-14 | 26425 | 5670 | 
 

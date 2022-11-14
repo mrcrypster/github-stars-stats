@@ -1,6 +1,6 @@
 # Azure/FTALive-Sessions - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 63 | 52 | 
 | 2022-11-12 | 63 | 52 | 
 | 2022-11-10 | 63 | 52 | 
 | 2022-11-09 | 63 | 51 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 53 | 47 | 
 | 2022-10-16 | 53 | 46 | 
 | 2022-10-15 | 53 | 46 | 
-| 2022-10-14 | 53 | 46 | 
 

@@ -1,6 +1,6 @@
 # Crepe-Inc/Iridium - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 155 | 63 | 
 | 2022-11-12 | 155 | 63 | 
 | 2022-11-11 | 155 | 63 | 
 | 2022-11-10 | 155 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 151 | 62 | 
 | 2022-10-16 | 151 | 62 | 
 | 2022-10-15 | 151 | 62 | 
-| 2022-10-14 | 151 | 62 | 
 

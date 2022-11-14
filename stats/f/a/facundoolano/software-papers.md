@@ -1,10 +1,10 @@
 # facundoolano/software-papers - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 124
+☋ Forks: 125
 
-★ Stars: 3142
+★ Stars: 3144
 
 [Open repository](https://github.com/facundoolano/software-papers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3144 | 125 | 
 | 2022-11-12 | 3142 | 124 | 
 | 2022-11-11 | 3142 | 124 | 
 | 2022-11-10 | 3142 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3114 | 120 | 
 | 2022-10-16 | 3114 | 120 | 
 | 2022-10-15 | 3114 | 120 | 
-| 2022-10-14 | 3113 | 120 | 
 

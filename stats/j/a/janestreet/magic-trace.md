@@ -1,6 +1,6 @@
 # janestreet/magic-trace - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 62
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3911 | 62 | 
 | 2022-11-12 | 3911 | 62 | 
 | 2022-11-11 | 3911 | 62 | 
 | 2022-11-10 | 3910 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3869 | 61 | 
 | 2022-10-16 | 3869 | 61 | 
 | 2022-10-15 | 3869 | 61 | 
-| 2022-10-14 | 3868 | 61 | 
 

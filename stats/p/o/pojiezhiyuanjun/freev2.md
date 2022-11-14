@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 451
 
-★ Stars: 735
+★ Stars: 737
 
 [Open repository](https://github.com/pojiezhiyuanjun/freev2)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 735 | 451 | 
+| 2022-11-13 | 737 | 451 | 
 | 2022-11-11 | 731 | 448 | 
 | 2022-11-10 | 731 | 448 | 
 | 2022-11-09 | 731 | 448 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 707 | 438 | 
 | 2022-10-16 | 706 | 438 | 
 | 2022-10-15 | 705 | 439 | 
-| 2022-10-14 | 705 | 439 | 
 

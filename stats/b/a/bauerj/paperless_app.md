@@ -1,6 +1,6 @@
 # bauerj/paperless_app - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 357 | 41 | 
 | 2022-11-12 | 357 | 41 | 
 | 2022-11-11 | 356 | 41 | 
 | 2022-11-10 | 356 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 349 | 40 | 
 | 2022-10-16 | 349 | 40 | 
 | 2022-10-15 | 349 | 40 | 
-| 2022-10-14 | 349 | 40 | 
 

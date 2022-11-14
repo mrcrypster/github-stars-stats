@@ -1,10 +1,10 @@
 # karpathy/micrograd - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 284
 
-★ Stars: 3174
+★ Stars: 3185
 
 [Open repository](https://github.com/karpathy/micrograd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3185 | 284 | 
 | 2022-11-12 | 3174 | 284 | 
 | 2022-11-11 | 3164 | 284 | 
 | 2022-11-10 | 3148 | 282 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2868 | 267 | 
 | 2022-10-16 | 2865 | 267 | 
 | 2022-10-15 | 2856 | 267 | 
-| 2022-10-14 | 2851 | 267 | 
 

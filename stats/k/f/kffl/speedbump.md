@@ -1,6 +1,6 @@
 # kffl/speedbump - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 543 | 16 | 
 | 2022-11-12 | 543 | 16 | 
 | 2022-11-11 | 543 | 16 | 
 | 2022-11-10 | 543 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 538 | 16 | 
 | 2022-10-16 | 538 | 16 | 
 | 2022-10-15 | 538 | 16 | 
-| 2022-10-14 | 538 | 16 | 
 

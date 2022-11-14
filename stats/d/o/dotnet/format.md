@@ -1,10 +1,10 @@
 # dotnet/format - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 134
 
-★ Stars: 1575
+★ Stars: 1576
 
 [Open repository](https://github.com/dotnet/format)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1576 | 134 | 
 | 2022-11-12 | 1575 | 134 | 
 | 2022-11-11 | 1575 | 133 | 
 | 2022-11-10 | 1575 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1554 | 134 | 
 | 2022-10-16 | 1554 | 134 | 
 | 2022-10-15 | 1554 | 134 | 
-| 2022-10-14 | 1554 | 134 | 
 

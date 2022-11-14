@@ -1,10 +1,10 @@
 # TASEmulators/BizHawk-Prereqs - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 21
 
-★ Stars: 103
+★ Stars: 104
 
 [Open repository](https://github.com/TASEmulators/BizHawk-Prereqs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 104 | 21 | 
 | 2022-11-12 | 103 | 21 | 
 | 2022-11-11 | 103 | 21 | 
 | 2022-11-10 | 103 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 100 | 21 | 
 | 2022-10-16 | 100 | 21 | 
 | 2022-10-15 | 100 | 21 | 
-| 2022-10-14 | 100 | 21 | 
 

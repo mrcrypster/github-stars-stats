@@ -1,6 +1,6 @@
 # fossasia/pslab-hardware - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1610 | 87 | 
 | 2022-11-12 | 1610 | 87 | 
 | 2022-11-11 | 1610 | 87 | 
 | 2022-11-10 | 1610 | 87 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1613 | 88 | 
 | 2022-10-16 | 1613 | 88 | 
 | 2022-10-15 | 1614 | 88 | 
-| 2022-10-14 | 1615 | 88 | 
 

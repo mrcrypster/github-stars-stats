@@ -1,6 +1,6 @@
 # mufeedvh/moonwalk - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 103
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1046 | 103 | 
 | 2022-11-12 | 1046 | 103 | 
 | 2022-11-11 | 1045 | 103 | 
 | 2022-11-10 | 1045 | 103 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1034 | 102 | 
 | 2022-10-16 | 1033 | 102 | 
 | 2022-10-15 | 1033 | 102 | 
-| 2022-10-14 | 1033 | 102 | 
 

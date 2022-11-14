@@ -1,10 +1,10 @@
 # mattermost/focalboard - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1065
+☋ Forks: 1067
 
-★ Stars: 13536
+★ Stars: 13551
 
 [Open repository](https://github.com/mattermost/focalboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 13551 | 1067 | 
 | 2022-11-12 | 13536 | 1065 | 
 | 2022-11-11 | 13529 | 1062 | 
 | 2022-11-10 | 13526 | 1061 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 12705 | 1012 | 
 | 2022-10-16 | 12691 | 1009 | 
 | 2022-10-15 | 12680 | 1009 | 
-| 2022-10-14 | 12673 | 1009 | 
 

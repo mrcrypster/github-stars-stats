@@ -1,6 +1,6 @@
 # ZeframLou/foundry-canary - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 43 | - | 
 | 2022-11-12 | 43 | - | 
 | 2022-11-11 | 43 | - | 
 | 2022-11-10 | 43 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 41 | - | 
 | 2022-10-16 | 41 | - | 
 | 2022-10-15 | 41 | - | 
-| 2022-10-14 | 41 | - | 
 

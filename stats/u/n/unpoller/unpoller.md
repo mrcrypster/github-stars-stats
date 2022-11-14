@@ -1,6 +1,6 @@
 # unpoller/unpoller - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 132
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1551 | 132 | 
 | 2022-11-12 | 1551 | 132 | 
 | 2022-11-11 | 1549 | 132 | 
 | 2022-11-10 | 1549 | 132 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1527 | 133 | 
 | 2022-10-16 | 1527 | 133 | 
 | 2022-10-15 | 1527 | 133 | 
-| 2022-10-14 | 1526 | 133 | 
 

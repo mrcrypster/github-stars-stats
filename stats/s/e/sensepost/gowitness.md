@@ -1,6 +1,6 @@
 # sensepost/gowitness - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 235
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1852 | 235 | 
 | 2022-11-12 | 1852 | 235 | 
 | 2022-11-11 | 1850 | 235 | 
 | 2022-11-10 | 1849 | 235 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1812 | 231 | 
 | 2022-10-16 | 1809 | 230 | 
 | 2022-10-15 | 1808 | 230 | 
-| 2022-10-14 | 1808 | 230 | 
 

@@ -1,10 +1,10 @@
 # rescript-lang/syntax - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 37
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/rescript-lang/syntax)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 256 | 37 | 
 | 2022-11-12 | 255 | 37 | 
 | 2022-11-11 | 255 | 37 | 
 | 2022-11-10 | 255 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 252 | 36 | 
 | 2022-10-16 | 253 | 36 | 
 | 2022-10-15 | 253 | 36 | 
-| 2022-10-14 | 253 | 36 | 
 

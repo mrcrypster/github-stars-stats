@@ -1,6 +1,6 @@
 # jsoslow2/Fantasy-Football-Models - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 74 | 22 | 
 | 2022-11-12 | 74 | 22 | 
 | 2022-11-11 | 73 | 22 | 
 | 2022-11-10 | 72 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 72 | 22 | 
 | 2022-10-16 | 72 | 22 | 
 | 2022-10-15 | 72 | 22 | 
-| 2022-10-14 | 71 | 22 | 
 

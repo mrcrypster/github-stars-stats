@@ -1,6 +1,6 @@
 # skanehira/denops-twihi.vim - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 40 | 6 | 
 | 2022-11-12 | 40 | 6 | 
 | 2022-11-10 | 40 | 6 | 
 | 2022-11-09 | 40 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 38 | 6 | 
 | 2022-10-16 | 38 | 6 | 
 | 2022-10-15 | 38 | 5 | 
-| 2022-10-14 | 38 | 5 | 
 

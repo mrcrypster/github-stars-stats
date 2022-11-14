@@ -1,6 +1,6 @@
 # delneg/Fable-tauri-vite-feliz-starter - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 21 | 1 | 
 | 2022-11-12 | 21 | 1 | 
 | 2022-11-11 | 21 | 1 | 
 | 2022-11-10 | 21 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 21 | 1 | 
 | 2022-10-16 | 20 | 1 | 
 | 2022-10-15 | 20 | 1 | 
-| 2022-10-14 | 20 | 1 | 
 

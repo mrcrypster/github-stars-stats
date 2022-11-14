@@ -1,6 +1,6 @@
 # nvie/vim-flake8 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 100
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1033 | 100 | 
 | 2022-11-12 | 1033 | 100 | 
 | 2022-11-11 | 1033 | 100 | 
 | 2022-11-10 | 1033 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1030 | 100 | 
 | 2022-10-16 | 1030 | 100 | 
 | 2022-10-15 | 1029 | 100 | 
-| 2022-10-14 | 1029 | 100 | 
 

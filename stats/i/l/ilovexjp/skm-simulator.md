@@ -1,10 +1,10 @@
 # ilovexjp/skm-simulator - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 10
 
-★ Stars: 52
+★ Stars: 53
 
 [Open repository](https://github.com/ilovexjp/skm-simulator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 53 | 10 | 
 | 2022-11-12 | 52 | 10 | 
 | 2022-11-11 | 51 | 10 | 
 | 2022-11-10 | 48 | 10 | 

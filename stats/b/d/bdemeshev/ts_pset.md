@@ -1,6 +1,6 @@
 # bdemeshev/ts_pset - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1 | 5 | 
 | 2022-11-12 | 1 | 5 | 
 | 2022-11-11 | 1 | 5 | 
 | 2022-11-10 | 1 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 1 | 5 | 
 | 2022-10-17 | 1 | 5 | 
 | 2022-10-16 | 1 | 5 | 
-| 2022-10-15 | 1 | 5 | 
 

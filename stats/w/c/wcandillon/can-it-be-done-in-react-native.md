@@ -1,8 +1,8 @@
 # wcandillon/can-it-be-done-in-react-native - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1217
+☋ Forks: 1221
 
 ★ Stars: 3508
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3508 | 1221 | 
 | 2022-11-12 | 3508 | 1217 | 
 | 2022-11-11 | 3507 | 1217 | 
 | 2022-11-10 | 3506 | 1216 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3458 | 1201 | 
 | 2022-10-16 | 3457 | 1200 | 
 | 2022-10-15 | 3457 | 1199 | 
-| 2022-10-14 | 3456 | 1195 | 
 

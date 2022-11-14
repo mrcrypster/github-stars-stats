@@ -1,10 +1,10 @@
 # mifi/lossless-cut - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 822
+☋ Forks: 825
 
-★ Stars: 13029
+★ Stars: 13063
 
 [Open repository](https://github.com/mifi/lossless-cut)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 13063 | 825 | 
 | 2022-11-12 | 13029 | 822 | 
 | 2022-11-11 | 13003 | 817 | 
 | 2022-11-10 | 12995 | 818 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 12774 | 808 | 
 | 2022-10-16 | 12757 | 807 | 
 | 2022-10-15 | 12742 | 806 | 
-| 2022-10-14 | 12734 | 806 | 
 

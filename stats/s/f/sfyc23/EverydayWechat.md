@@ -1,10 +1,10 @@
 # sfyc23/EverydayWechat - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
-☋ Forks: 2220
+☋ Forks: 2222
 
-★ Stars: 9254
+★ Stars: 9258
 
 [Open repository](https://github.com/sfyc23/EverydayWechat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 9258 | 2222 | 
 | 2022-11-12 | 9254 | 2220 | 
 | 2022-11-11 | 9255 | 2221 | 
 | 2022-11-10 | 9254 | 2221 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 9218 | 2207 | 
 | 2022-10-16 | 9213 | 2209 | 
 | 2022-10-15 | 9212 | 2209 | 
-| 2022-10-14 | 9211 | 2209 | 
 

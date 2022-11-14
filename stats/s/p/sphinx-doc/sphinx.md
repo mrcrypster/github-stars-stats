@@ -1,10 +1,10 @@
 # sphinx-doc/sphinx - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1782
 
-★ Stars: 4985
+★ Stars: 4988
 
 [Open repository](https://github.com/sphinx-doc/sphinx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 4988 | 1782 | 
 | 2022-11-12 | 4985 | 1782 | 
 | 2022-11-11 | 4985 | 1782 | 
 | 2022-11-10 | 4982 | 1782 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 4937 | 1769 | 
 | 2022-10-16 | 4938 | 1769 | 
 | 2022-10-15 | 4936 | 1768 | 
-| 2022-10-14 | 4934 | 1767 | 
 

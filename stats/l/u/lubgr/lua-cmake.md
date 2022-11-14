@@ -1,6 +1,6 @@
 # lubgr/lua-cmake - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 16 | 6 | 
+| 2022-11-13 | 16 | 6 | 
 | 2022-11-12 | 16 | 6 | 
 | 2022-11-11 | 16 | 6 | 
 | 2022-11-10 | 16 | 6 | 

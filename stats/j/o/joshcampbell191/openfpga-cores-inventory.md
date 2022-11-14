@@ -1,6 +1,6 @@
 # joshcampbell191/openfpga-cores-inventory - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 45 | 8 | 
 | 2022-11-12 | 45 | 8 | 
 | 2022-11-10 | 44 | 8 | 
 | 2022-11-09 | 44 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 40 | 7 | 
 | 2022-10-16 | 40 | 6 | 
 | 2022-10-15 | 40 | 6 | 
-| 2022-10-14 | 39 | 6 | 
 

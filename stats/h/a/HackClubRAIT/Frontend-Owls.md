@@ -1,10 +1,10 @@
 # HackClubRAIT/Frontend-Owls - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 30
 
-★ Stars: 11
+★ Stars: 10
 
 [Open repository](https://github.com/HackClubRAIT/Frontend-Owls)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 10 | 30 | 
 | 2022-11-12 | 11 | 30 | 
 | 2022-11-11 | 11 | 30 | 
 | 2022-11-10 | 11 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 11 | 30 | 
 | 2022-10-16 | 11 | 30 | 
 | 2022-10-15 | 11 | 30 | 
-| 2022-10-14 | 11 | 30 | 
 

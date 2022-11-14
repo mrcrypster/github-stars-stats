@@ -1,10 +1,10 @@
 # nnicandro/emacs-jupyter - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 71
 
-★ Stars: 742
+★ Stars: 743
 
 [Open repository](https://github.com/nnicandro/emacs-jupyter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 743 | 71 | 
 | 2022-11-12 | 742 | 71 | 
 | 2022-11-11 | 742 | 71 | 
 | 2022-11-10 | 742 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 733 | 71 | 
 | 2022-10-16 | 732 | 71 | 
 | 2022-10-15 | 731 | 71 | 
-| 2022-10-14 | 731 | 71 | 
 

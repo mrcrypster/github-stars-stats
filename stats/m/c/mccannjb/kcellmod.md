@@ -1,6 +1,6 @@
 # mccannjb/kcellmod - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1 | - | 
+| 2022-11-13 | 1 | - | 
 | 2022-11-12 | 1 | - | 
 | 2022-11-11 | 1 | - | 
 

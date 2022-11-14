@@ -1,6 +1,6 @@
 # Devipriya1921/Physical_Design_Using_OpenLANE_Sky130 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | - | 8 | 
 | 2022-11-12 | - | 8 | 
 | 2022-11-11 | - | 8 | 
 | 2022-11-10 | - | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | - | 8 | 
 | 2022-10-16 | - | 8 | 
 | 2022-10-15 | - | 8 | 
-| 2022-10-14 | - | 8 | 
 

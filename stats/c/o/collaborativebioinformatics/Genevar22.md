@@ -1,6 +1,6 @@
 # collaborativebioinformatics/Genevar22 - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 2 | 4 | 
 | 2022-11-12 | 2 | 4 | 
 | 2022-11-11 | 2 | 4 | 
 | 2022-11-10 | 2 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2 | 4 | 
 | 2022-10-16 | 2 | 4 | 
 | 2022-10-15 | 2 | 4 | 
-| 2022-10-14 | 2 | 4 | 
 

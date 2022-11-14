@@ -1,6 +1,6 @@
 # Peergos/Peergos - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1566 | 137 | 
 | 2022-11-12 | 1566 | 137 | 
 | 2022-11-11 | 1565 | 137 | 
 | 2022-11-10 | 1564 | 137 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1545 | 138 | 
 | 2022-10-16 | 1544 | 138 | 
 | 2022-10-15 | 1543 | 138 | 
-| 2022-10-14 | 1541 | 138 | 
 

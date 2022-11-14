@@ -1,6 +1,6 @@
 # enzymejs/enzyme - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 2102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 19948 | 2102 | 
 | 2022-11-12 | 19948 | 2102 | 
 | 2022-11-11 | 19950 | 2102 | 
 | 2022-11-10 | 19951 | 2102 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 19956 | 2104 | 
 | 2022-10-16 | 19956 | 2103 | 
 | 2022-10-15 | 19954 | 2103 | 
-| 2022-10-14 | 19954 | 2103 | 
 

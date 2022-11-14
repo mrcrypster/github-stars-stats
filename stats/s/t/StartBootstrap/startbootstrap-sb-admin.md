@@ -1,8 +1,8 @@
 # StartBootstrap/startbootstrap-sb-admin - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1958
+☋ Forks: 1956
 
 ★ Stars: 3001
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3001 | 1956 | 
 | 2022-11-12 | 3001 | 1958 | 
 | 2022-11-11 | 3001 | 1957 | 
 | 2022-11-10 | 3000 | 1956 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2993 | 1956 | 
 | 2022-10-16 | 2992 | 1957 | 
 | 2022-10-15 | 2991 | 1958 | 
-| 2022-10-14 | 2991 | 1957 | 
 

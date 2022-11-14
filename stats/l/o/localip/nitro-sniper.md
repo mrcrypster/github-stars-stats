@@ -1,8 +1,8 @@
 # localip/nitro-sniper - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 3213
+☋ Forks: 3214
 
 ★ Stars: 713
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 713 | 3214 | 
 | 2022-11-12 | 713 | 3213 | 
 | 2022-11-11 | 713 | 3213 | 
 | 2022-11-10 | 713 | 3212 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 703 | 3216 | 
 | 2022-10-16 | 702 | 3217 | 
 | 2022-10-15 | 702 | 3217 | 
-| 2022-10-14 | 702 | 3219 | 
 

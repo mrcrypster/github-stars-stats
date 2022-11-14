@@ -1,10 +1,10 @@
 # schultek/jaspr - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 10
 
-★ Stars: 295
+★ Stars: 296
 
 [Open repository](https://github.com/schultek/jaspr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 296 | 10 | 
 | 2022-11-12 | 295 | 10 | 
 | 2022-11-11 | 295 | 10 | 
 | 2022-11-10 | 295 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 295 | 10 | 
 | 2022-10-16 | 295 | 10 | 
 | 2022-10-15 | 295 | 10 | 
-| 2022-10-14 | 295 | 10 | 
 

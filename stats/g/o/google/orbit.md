@@ -1,10 +1,10 @@
 # google/orbit - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 297
 
-★ Stars: 2863
+★ Stars: 2864
 
 [Open repository](https://github.com/google/orbit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2864 | 297 | 
 | 2022-11-12 | 2863 | 297 | 
 | 2022-11-11 | 2860 | 297 | 
 | 2022-11-10 | 2860 | 296 | 

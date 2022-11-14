@@ -1,6 +1,6 @@
 # eclecticiq/eiq-er-ce - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 26 | 9 | 
 | 2022-11-12 | 26 | 9 | 
 | 2022-11-11 | 26 | 9 | 
 | 2022-11-10 | 26 | 9 | 

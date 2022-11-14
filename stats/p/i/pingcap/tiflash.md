@@ -1,6 +1,6 @@
 # pingcap/tiflash - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 381
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 833 | 381 | 
 | 2022-11-12 | 833 | 381 | 
 | 2022-11-11 | 833 | 381 | 
 | 2022-11-10 | 830 | 380 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 822 | 376 | 
 | 2022-10-16 | 822 | 374 | 
 | 2022-10-15 | 822 | 374 | 
-| 2022-10-14 | 822 | 374 | 
 

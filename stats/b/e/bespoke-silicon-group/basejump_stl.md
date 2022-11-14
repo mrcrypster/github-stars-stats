@@ -1,6 +1,6 @@
 # bespoke-silicon-group/basejump_stl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 309 | 68 | 
 | 2022-11-12 | 309 | 68 | 
 | 2022-11-11 | 309 | 68 | 
 | 2022-11-10 | 309 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 306 | 65 | 
 | 2022-10-16 | 306 | 65 | 
 | 2022-10-15 | 306 | 65 | 
-| 2022-10-14 | 306 | 65 | 
 

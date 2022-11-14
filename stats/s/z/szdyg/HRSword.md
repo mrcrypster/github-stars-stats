@@ -1,6 +1,6 @@
 # szdyg/HRSword - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 67 | 10 | 
 | 2022-11-12 | 67 | 10 | 
 | 2022-11-11 | 67 | 10 | 
 | 2022-11-10 | 67 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 59 | 10 | 
 | 2022-10-16 | 56 | 10 | 
 | 2022-10-15 | 55 | 10 | 
-| 2022-10-14 | 53 | 10 | 
 

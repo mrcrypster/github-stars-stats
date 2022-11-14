@@ -1,10 +1,10 @@
 # erxes/erxes - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 956
 
-★ Stars: 2550
+★ Stars: 2552
 
 [Open repository](https://github.com/erxes/erxes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2552 | 956 | 
 | 2022-11-12 | 2550 | 956 | 
 | 2022-11-11 | 2539 | 955 | 
 | 2022-11-10 | 2522 | 953 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2430 | 927 | 
 | 2022-10-16 | 2430 | 928 | 
 | 2022-10-15 | 2427 | 926 | 
-| 2022-10-14 | 2427 | 925 | 
 

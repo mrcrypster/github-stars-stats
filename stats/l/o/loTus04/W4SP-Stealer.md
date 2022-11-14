@@ -1,10 +1,10 @@
 # loTus04/W4SP-Stealer - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 15
 
-★ Stars: 114
+★ Stars: 113
 
 [Open repository](https://github.com/loTus04/W4SP-Stealer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 113 | 15 | 
 | 2022-11-12 | 114 | 15 | 
 | 2022-11-11 | 113 | 15 | 
 | 2022-11-10 | 108 | 15 | 

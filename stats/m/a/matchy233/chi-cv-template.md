@@ -1,6 +1,6 @@
 # matchy233/chi-cv-template - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 236 | 16 | 
 | 2022-11-12 | 236 | 16 | 
 | 2022-11-11 | 236 | 16 | 
 | 2022-11-10 | 236 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 179 | 12 | 
 | 2022-10-16 | 179 | 12 | 
 | 2022-10-15 | 179 | 12 | 
-| 2022-10-14 | 178 | 12 | 
 

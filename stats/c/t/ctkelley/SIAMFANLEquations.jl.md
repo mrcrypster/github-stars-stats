@@ -1,6 +1,6 @@
 # ctkelley/SIAMFANLEquations.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 69 | 4 | 
 | 2022-11-12 | 69 | 4 | 
 | 2022-11-11 | 69 | 4 | 
 | 2022-11-10 | 69 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 66 | 4 | 
 | 2022-10-16 | 66 | 4 | 
 | 2022-10-15 | 66 | 4 | 
-| 2022-10-14 | 66 | 4 | 
 

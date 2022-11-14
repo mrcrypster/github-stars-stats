@@ -1,6 +1,6 @@
 # rstudio-conf-2022/ggplot2-graphic-design - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 103 | 45 | 
 | 2022-11-13 | 103 | 45 | 
 | 2022-11-11 | 102 | 45 | 
 | 2022-11-10 | 102 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-17 | 98 | 43 | 
 | 2022-10-16 | 95 | 43 | 
 | 2022-10-15 | 95 | 43 | 
-| 2022-10-14 | 94 | 43 | 
 

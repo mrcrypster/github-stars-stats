@@ -1,6 +1,6 @@
 # algorand/algorand-sdk-testing - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 14 | 27 | 
 | 2022-11-12 | 14 | 27 | 
 | 2022-11-11 | 14 | 27 | 
 | 2022-11-10 | 14 | 27 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 13 | 27 | 
 | 2022-10-16 | 13 | 27 | 
 | 2022-10-15 | 13 | 27 | 
-| 2022-10-14 | 13 | 27 | 
 

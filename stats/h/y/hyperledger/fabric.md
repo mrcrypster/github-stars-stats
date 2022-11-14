@@ -1,10 +1,10 @@
 # hyperledger/fabric - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 8279
+☋ Forks: 8283
 
-★ Stars: 14142
+★ Stars: 14143
 
 [Open repository](https://github.com/hyperledger/fabric)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 14143 | 8283 | 
 | 2022-11-12 | 14142 | 8279 | 
 | 2022-11-11 | 14139 | 8279 | 
 | 2022-11-10 | 14139 | 8280 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 14061 | 8233 | 
 | 2022-10-16 | 14059 | 8233 | 
 | 2022-10-15 | 14058 | 8230 | 
-| 2022-10-14 | 14058 | 8231 | 
 

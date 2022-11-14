@@ -1,8 +1,8 @@
 # SBoudrias/Inquirer.js - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 1185
+☋ Forks: 1186
 
 ★ Stars: 17056
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 17056 | 1186 | 
 | 2022-11-12 | 17056 | 1185 | 
 | 2022-11-11 | 17055 | 1186 | 
 | 2022-11-10 | 17045 | 1186 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 16946 | 1177 | 
 | 2022-10-16 | 16940 | 1177 | 
 | 2022-10-15 | 16938 | 1177 | 
-| 2022-10-14 | 16935 | 1177 | 
 

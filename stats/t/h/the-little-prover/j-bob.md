@@ -1,6 +1,6 @@
 # the-little-prover/j-bob - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 400 | 58 | 
 | 2022-11-12 | 400 | 58 | 
 | 2022-11-11 | 400 | 58 | 
 | 2022-11-10 | 400 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 398 | 57 | 
 | 2022-10-16 | 398 | 57 | 
 | 2022-10-15 | 398 | 57 | 
-| 2022-10-14 | 398 | 57 | 
 

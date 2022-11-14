@@ -1,6 +1,6 @@
 # refact0r/startpage - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 50 | 13 | 
 | 2022-11-12 | 50 | 13 | 
 | 2022-11-11 | 49 | 13 | 
 | 2022-11-10 | 49 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 46 | 13 | 
 | 2022-10-16 | 46 | 13 | 
 | 2022-10-15 | 46 | 13 | 
-| 2022-10-14 | 45 | 13 | 
 

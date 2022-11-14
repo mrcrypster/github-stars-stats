@@ -1,6 +1,6 @@
 # lipanski/docker-static-website - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 477 | 29 | 
 | 2022-11-12 | 477 | 29 | 
 | 2022-11-11 | 477 | 29 | 
 | 2022-11-10 | 476 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 468 | 25 | 
 | 2022-10-16 | 467 | 25 | 
 | 2022-10-15 | 467 | 25 | 
-| 2022-10-14 | 466 | 25 | 
 

@@ -1,10 +1,10 @@
 # woltapp/blurhash - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 272
 
-★ Stars: 12153
+★ Stars: 12160
 
 [Open repository](https://github.com/woltapp/blurhash)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 12160 | 272 | 
 | 2022-11-12 | 12153 | 272 | 
 | 2022-11-11 | 12140 | 271 | 
 | 2022-11-10 | 12127 | 271 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 11155 | 255 | 
 | 2022-10-16 | 11150 | 255 | 
 | 2022-10-15 | 11144 | 255 | 
-| 2022-10-14 | 11136 | 255 | 
 

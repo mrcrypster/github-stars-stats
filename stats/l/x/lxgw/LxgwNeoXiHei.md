@@ -1,6 +1,6 @@
 # lxgw/LxgwNeoXiHei - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 168 | 1 | 
 | 2022-11-12 | 168 | 1 | 
 | 2022-11-11 | 167 | 1 | 
 | 2022-11-10 | 164 | 1 | 

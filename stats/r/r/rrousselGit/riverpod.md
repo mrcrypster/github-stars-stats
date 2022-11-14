@@ -1,10 +1,10 @@
 # rrousselGit/riverpod - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 596
 
-★ Stars: 3697
+★ Stars: 3700
 
 [Open repository](https://github.com/rrousselGit/riverpod)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3700 | 596 | 
 | 2022-11-12 | 3697 | 596 | 
 | 2022-11-11 | 3689 | 595 | 
 | 2022-11-10 | 3685 | 595 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3589 | 562 | 
 | 2022-10-16 | 3582 | 561 | 
 | 2022-10-15 | 3579 | 559 | 
-| 2022-10-14 | 3575 | 559 | 
 

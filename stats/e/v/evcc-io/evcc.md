@@ -1,8 +1,8 @@
 # evcc-io/evcc - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 195
+☋ Forks: 196
 
 ★ Stars: 871
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 871 | 196 | 
 | 2022-11-12 | 871 | 195 | 
 | 2022-11-11 | 869 | 195 | 
 | 2022-11-10 | 868 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 830 | 185 | 
 | 2022-10-16 | 828 | 184 | 
 | 2022-10-15 | 825 | 182 | 
-| 2022-10-14 | 821 | 182 | 
 

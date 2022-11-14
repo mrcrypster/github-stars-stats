@@ -1,6 +1,6 @@
 # skillcrush/105-coding_resources - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 1936
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 3 | 1936 | 
 | 2022-11-12 | 3 | 1936 | 
 | 2022-11-11 | 3 | 1935 | 
 | 2022-11-10 | 3 | 1933 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 3 | 1904 | 
 | 2022-10-16 | 3 | 1902 | 
 | 2022-10-15 | 3 | 1902 | 
-| 2022-10-14 | 3 | 1901 | 
 

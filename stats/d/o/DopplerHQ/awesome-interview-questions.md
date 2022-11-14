@@ -1,10 +1,10 @@
 # DopplerHQ/awesome-interview-questions - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 7308
+☋ Forks: 7307
 
-★ Stars: 51240
+★ Stars: 51267
 
 [Open repository](https://github.com/DopplerHQ/awesome-interview-questions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 51267 | 7307 | 
 | 2022-11-12 | 51240 | 7308 | 
 | 2022-11-11 | 51219 | 7306 | 
 | 2022-11-10 | 51176 | 7302 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 50426 | 7237 | 
 | 2022-10-16 | 50404 | 7237 | 
 | 2022-10-15 | 50389 | 7237 | 
-| 2022-10-14 | 50369 | 7236 | 
 

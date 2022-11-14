@@ -1,10 +1,10 @@
 # Polytonic/Glitter - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 366
 
-★ Stars: 2204
+★ Stars: 2205
 
 [Open repository](https://github.com/Polytonic/Glitter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2205 | 366 | 
 | 2022-11-12 | 2204 | 366 | 
 | 2022-11-11 | 2204 | 366 | 
 | 2022-11-10 | 2204 | 366 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 2188 | 361 | 
 | 2022-10-17 | 2188 | 361 | 
 | 2022-10-16 | 2187 | 361 | 
-| 2022-10-15 | 2186 | 361 | 
 

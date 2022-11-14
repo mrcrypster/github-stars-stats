@@ -1,8 +1,8 @@
 # bcpierce00/unison - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 183
+☋ Forks: 184
 
 ★ Stars: 2589
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 2589 | 184 | 
 | 2022-11-12 | 2589 | 183 | 
 | 2022-11-11 | 2589 | 183 | 
 | 2022-11-10 | 2587 | 183 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 2534 | 181 | 
 | 2022-10-16 | 2530 | 181 | 
 | 2022-10-15 | 2530 | 181 | 
-| 2022-10-14 | 2527 | 181 | 
 

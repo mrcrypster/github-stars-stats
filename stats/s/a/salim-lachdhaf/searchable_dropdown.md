@@ -1,10 +1,10 @@
 # salim-lachdhaf/searchable_dropdown - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 209
 
-★ Stars: 233
+★ Stars: 234
 
 [Open repository](https://github.com/salim-lachdhaf/searchable_dropdown)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 234 | 209 | 
 | 2022-11-12 | 233 | 209 | 
 | 2022-11-11 | 233 | 209 | 
 | 2022-11-10 | 232 | 209 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 225 | 203 | 
 | 2022-10-16 | 225 | 203 | 
 | 2022-10-15 | 225 | 203 | 
-| 2022-10-14 | 225 | 203 | 
 

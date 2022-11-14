@@ -1,6 +1,6 @@
 # matsumotory/ngx_mruby - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 967 | 109 | 
 | 2022-11-12 | 967 | 109 | 
 | 2022-11-11 | 967 | 109 | 
 | 2022-11-09 | 968 | 110 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 966 | 110 | 
 | 2022-10-16 | 966 | 110 | 
 | 2022-10-15 | 966 | 110 | 
-| 2022-10-14 | 966 | 110 | 
 

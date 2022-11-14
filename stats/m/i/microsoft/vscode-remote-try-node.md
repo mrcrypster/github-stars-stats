@@ -1,6 +1,6 @@
 # microsoft/vscode-remote-try-node - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 508
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 501 | 508 | 
 | 2022-11-12 | 501 | 508 | 
 | 2022-11-11 | 501 | 507 | 
 | 2022-11-10 | 499 | 507 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 485 | 490 | 
 | 2022-10-16 | 485 | 489 | 
 | 2022-10-15 | 483 | 489 | 
-| 2022-10-14 | 482 | 488 | 
 

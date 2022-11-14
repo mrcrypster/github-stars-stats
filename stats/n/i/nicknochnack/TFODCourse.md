@@ -1,10 +1,10 @@
 # nicknochnack/TFODCourse - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 638
+☋ Forks: 640
 
-★ Stars: 630
+★ Stars: 632
 
 [Open repository](https://github.com/nicknochnack/TFODCourse)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 632 | 640 | 
 | 2022-11-12 | 630 | 638 | 
 | 2022-11-11 | 628 | 637 | 
 | 2022-11-10 | 627 | 637 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 603 | 621 | 
 | 2022-10-16 | 602 | 616 | 
 | 2022-10-15 | 601 | 616 | 
-| 2022-10-14 | 598 | 616 | 
 

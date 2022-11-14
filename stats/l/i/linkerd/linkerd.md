@@ -1,6 +1,6 @@
 # linkerd/linkerd - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 524
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 5374 | 524 | 
 | 2022-11-12 | 5374 | 524 | 
 | 2022-11-11 | 5374 | 524 | 
 | 2022-11-10 | 5374 | 524 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 5373 | 526 | 
 | 2022-10-16 | 5373 | 526 | 
 | 2022-10-15 | 5374 | 526 | 
-| 2022-10-14 | 5374 | 526 | 
 

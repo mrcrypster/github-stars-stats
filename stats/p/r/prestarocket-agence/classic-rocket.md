@@ -1,6 +1,6 @@
 # prestarocket-agence/classic-rocket - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 129
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 207 | 129 | 
 | 2022-11-12 | 207 | 129 | 
 | 2022-11-11 | 207 | 129 | 
 | 2022-11-10 | 207 | 129 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 205 | 128 | 
 | 2022-10-16 | 205 | 128 | 
 | 2022-10-15 | 205 | 128 | 
-| 2022-10-14 | 205 | 128 | 
 

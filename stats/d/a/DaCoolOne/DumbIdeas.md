@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 13
 
 ☋ Forks: 7
 
-★ Stars: 33
+★ Stars: 37
 
 [Open repository](https://github.com/DaCoolOne/DumbIdeas)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-13 | 33 | 7 | 
+| 2022-11-13 | 37 | 7 | 
 | 2022-11-12 | 31 | 7 | 
 

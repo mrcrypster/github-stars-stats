@@ -1,10 +1,10 @@
 # tbl00c/TLChat - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
-☋ Forks: 487
+☋ Forks: 488
 
-★ Stars: 1251
+★ Stars: 1252
 
 [Open repository](https://github.com/tbl00c/TLChat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 1252 | 488 | 
 | 2022-11-12 | 1251 | 487 | 
 | 2022-11-11 | 1251 | 487 | 
 | 2022-11-10 | 1251 | 487 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 1243 | 481 | 
 | 2022-10-16 | 1241 | 481 | 
 | 2022-10-15 | 1240 | 481 | 
-| 2022-10-14 | 1238 | 481 | 
 

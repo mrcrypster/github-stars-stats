@@ -1,6 +1,6 @@
 # tans/online-editor - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 21 | 6 | 
 | 2022-11-12 | 21 | 6 | 
 | 2022-11-11 | 20 | 6 | 
 | 2022-11-10 | 20 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 19 | 7 | 
 | 2022-10-16 | 19 | 7 | 
 | 2022-10-15 | 19 | 7 | 
-| 2022-10-14 | 19 | 7 | 
 

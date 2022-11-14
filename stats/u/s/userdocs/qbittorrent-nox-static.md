@@ -1,10 +1,10 @@
 # userdocs/qbittorrent-nox-static - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 70
 
-★ Stars: 537
+★ Stars: 539
 
 [Open repository](https://github.com/userdocs/qbittorrent-nox-static)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 539 | 70 | 
 | 2022-11-12 | 537 | 70 | 
 | 2022-11-11 | 536 | 69 | 
 | 2022-11-10 | 534 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 520 | 68 | 
 | 2022-10-16 | 520 | 68 | 
 | 2022-10-15 | 520 | 68 | 
-| 2022-10-14 | 516 | 67 | 
 

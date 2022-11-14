@@ -1,6 +1,6 @@
 # Tanishka-dev/Weather-App-JS - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 13
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-13 | 42 | 6 | 
 | 2022-11-12 | 42 | 6 | 
 | 2022-11-11 | 42 | 6 | 
 | 2022-11-10 | 42 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-18 | 40 | 5 | 
 | 2022-10-17 | 40 | 5 | 
 | 2022-10-16 | 40 | 5 | 
-| 2022-10-15 | 41 | 5 | 
 

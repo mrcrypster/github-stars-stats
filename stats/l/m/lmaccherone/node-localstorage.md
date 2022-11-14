@@ -1,6 +1,6 @@
 # lmaccherone/node-localstorage - stars & forks statistics
 
-Stats updated on Nov 2022, 12
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 12
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 405 | 38 | 
 | 2022-11-12 | 405 | 38 | 
 | 2022-11-11 | 404 | 38 | 
 | 2022-11-10 | 404 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 12
 | 2022-10-17 | 401 | 38 | 
 | 2022-10-16 | 401 | 38 | 
 | 2022-10-15 | 401 | 38 | 
-| 2022-10-14 | 401 | 38 | 
 
