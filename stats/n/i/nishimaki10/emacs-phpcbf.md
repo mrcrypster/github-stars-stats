@@ -1,6 +1,6 @@
 # nishimaki10/emacs-phpcbf - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 20 | 7 | 
 | 2022-11-14 | 20 | 7 | 
 | 2022-11-12 | 20 | 7 | 
 | 2022-11-11 | 20 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 20 | 8 | 
 | 2022-10-17 | 20 | 8 | 
 | 2022-10-16 | 20 | 8 | 
-| 2022-10-15 | 20 | 8 | 
 

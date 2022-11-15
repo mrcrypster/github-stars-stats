@@ -1,6 +1,6 @@
 # YXJ2018/SpringBoot-Vue-OnlineExam - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 296
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 949 | 296 | 
 | 2022-11-13 | 949 | 296 | 
 | 2022-11-12 | 947 | 296 | 
 | 2022-11-11 | 945 | 296 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 926 | 295 | 
 | 2022-10-17 | 925 | 295 | 
 | 2022-10-16 | 925 | 295 | 
-| 2022-10-15 | 923 | 295 | 
 

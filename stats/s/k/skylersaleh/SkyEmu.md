@@ -1,10 +1,10 @@
 # skylersaleh/SkyEmu - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 7
 
-★ Stars: 272
+★ Stars: 275
 
 [Open repository](https://github.com/skylersaleh/SkyEmu)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 275 | 7 | 
 | 2022-11-13 | 272 | 7 | 
 | 2022-11-12 | 272 | 7 | 
 | 2022-11-11 | 272 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 223 | 4 | 
 | 2022-10-17 | 223 | 4 | 
 | 2022-10-16 | 223 | 4 | 
-| 2022-10-15 | 223 | 4 | 
 

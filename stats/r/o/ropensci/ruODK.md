@@ -1,6 +1,6 @@
 # ropensci/ruODK - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 36 | 9 | 
 | 2022-11-13 | 36 | 9 | 
 | 2022-11-12 | 36 | 9 | 
 | 2022-11-11 | 36 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 35 | 9 | 
 | 2022-10-18 | 35 | 9 | 
 | 2022-10-17 | 35 | 9 | 
-| 2022-10-16 | 35 | 9 | 
 

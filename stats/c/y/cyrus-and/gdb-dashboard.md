@@ -1,10 +1,10 @@
 # cyrus-and/gdb-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 668
 
-★ Stars: 8949
+★ Stars: 8950
 
 [Open repository](https://github.com/cyrus-and/gdb-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 8950 | 668 | 
 | 2022-11-14 | 8949 | 668 | 
 | 2022-11-12 | 8947 | 668 | 
 | 2022-11-11 | 8946 | 668 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 8906 | 665 | 
 | 2022-10-17 | 8905 | 664 | 
 | 2022-10-16 | 8904 | 664 | 
-| 2022-10-15 | 8905 | 662 | 
 

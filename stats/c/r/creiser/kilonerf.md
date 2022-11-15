@@ -1,10 +1,10 @@
 # creiser/kilonerf - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 45
 
-★ Stars: 353
+★ Stars: 354
 
 [Open repository](https://github.com/creiser/kilonerf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 354 | 45 | 
 | 2022-11-13 | 353 | 45 | 
 | 2022-11-12 | 353 | 45 | 
 | 2022-11-11 | 354 | 45 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 345 | 42 | 
 | 2022-10-17 | 345 | 42 | 
 | 2022-10-16 | 345 | 42 | 
-| 2022-10-15 | 345 | 42 | 
 

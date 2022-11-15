@@ -1,10 +1,10 @@
 # markodenic/web-development-resources - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 859
+☋ Forks: 867
 
-★ Stars: 4908
+★ Stars: 4931
 
 [Open repository](https://github.com/markodenic/web-development-resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4931 | 867 | 
 | 2022-11-13 | 4908 | 859 | 
 | 2022-11-12 | 4896 | 858 | 
 | 2022-11-11 | 4894 | 858 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4711 | 834 | 
 | 2022-10-17 | 4710 | 834 | 
 | 2022-10-16 | 4705 | 832 | 
-| 2022-10-15 | 4701 | 832 | 
 

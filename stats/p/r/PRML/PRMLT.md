@@ -1,10 +1,10 @@
 # PRML/PRMLT - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 2122
+☋ Forks: 2123
 
-★ Stars: 5610
+★ Stars: 5611
 
 [Open repository](https://github.com/PRML/PRMLT)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 5611 | 2123 | 
 | 2022-11-13 | 5610 | 2122 | 
 | 2022-11-12 | 5610 | 2122 | 
 | 2022-11-11 | 5611 | 2122 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 5599 | 2124 | 
 | 2022-10-17 | 5599 | 2124 | 
 | 2022-10-16 | 5599 | 2124 | 
-| 2022-10-15 | 5599 | 2124 | 
 

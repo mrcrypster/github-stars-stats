@@ -1,6 +1,6 @@
 # jvirtanen/vim-hcl - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 96 | 9 | 
 | 2022-11-13 | 96 | 9 | 
 | 2022-11-12 | 96 | 9 | 
 | 2022-11-11 | 96 | 9 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 95 | 9 | 
 | 2022-10-17 | 95 | 9 | 
 | 2022-10-16 | 95 | 9 | 
-| 2022-10-15 | 95 | 9 | 
 

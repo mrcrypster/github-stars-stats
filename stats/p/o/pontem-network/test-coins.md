@@ -1,6 +1,6 @@
 # pontem-network/test-coins - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7 | 5 | 
 | 2022-11-13 | 7 | 5 | 
 | 2022-11-12 | 7 | 5 | 
 | 2022-11-11 | 7 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3 | 5 | 
 | 2022-10-17 | 3 | 5 | 
 | 2022-10-16 | 3 | 5 | 
-| 2022-10-15 | 3 | 4 | 
 

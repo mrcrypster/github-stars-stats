@@ -1,6 +1,6 @@
 # parviz-93/jenkins_lesson7 - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | - | 7 | 
 | 2022-11-13 | - | 7 | 
 | 2022-11-12 | - | 7 | 
 | 2022-11-11 | - | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | - | 7 | 
 | 2022-10-17 | - | 7 | 
 | 2022-10-16 | - | 6 | 
-| 2022-10-15 | - | 6 | 
 

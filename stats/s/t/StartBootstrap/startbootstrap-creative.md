@@ -1,6 +1,6 @@
 # StartBootstrap/startbootstrap-creative - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 3110
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1955 | 3110 | 
 | 2022-11-13 | 1955 | 3110 | 
 | 2022-11-12 | 1955 | 3111 | 
 | 2022-11-11 | 1956 | 3111 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1952 | 3114 | 
 | 2022-10-17 | 1952 | 3115 | 
 | 2022-10-16 | 1952 | 3115 | 
-| 2022-10-15 | 1951 | 3114 | 
 

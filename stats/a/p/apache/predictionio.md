@@ -1,10 +1,10 @@
 # apache/predictionio - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 2018
 
-★ Stars: 12540
+★ Stars: 12539
 
 [Open repository](https://github.com/apache/predictionio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 12539 | 2018 | 
 | 2022-11-13 | 12540 | 2018 | 
 | 2022-11-12 | 12540 | 2018 | 
 | 2022-11-11 | 12541 | 2018 | 

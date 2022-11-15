@@ -1,10 +1,10 @@
 # gibsjose/cpp-cheat-sheet - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1331
+☋ Forks: 1332
 
-★ Stars: 4079
+★ Stars: 4082
 
 [Open repository](https://github.com/gibsjose/cpp-cheat-sheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4082 | 1332 | 
 | 2022-11-13 | 4079 | 1331 | 
 | 2022-11-12 | 4078 | 1331 | 
 | 2022-11-11 | 4077 | 1331 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 4035 | 1321 | 
 | 2022-10-18 | 4035 | 1320 | 
 | 2022-10-17 | 4032 | 1320 | 
-| 2022-10-16 | 4031 | 1319 | 
 

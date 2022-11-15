@@ -1,6 +1,6 @@
 # readthedocs/readthedocs.org - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 3650
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7310 | 3650 | 
 | 2022-11-13 | 7310 | 3650 | 
 | 2022-11-11 | 7309 | 3650 | 
 | 2022-11-10 | 7309 | 3650 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 7280 | 3641 | 
 | 2022-10-17 | 7278 | 3640 | 
 | 2022-10-16 | 7278 | 3639 | 
-| 2022-10-15 | 7279 | 3639 | 
 

@@ -1,10 +1,10 @@
 # paulrberg/check-same-sign - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 47
+★ Stars: 46
 
 [Open repository](https://github.com/paulrberg/check-same-sign)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 46 | - | 
 | 2022-11-13 | 47 | - | 
 | 2022-11-12 | 47 | - | 
 | 2022-11-11 | 47 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 47 | - | 
 | 2022-10-18 | 47 | - | 
 | 2022-10-17 | 47 | - | 
-| 2022-10-16 | 47 | - | 
 

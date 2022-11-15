@@ -1,6 +1,6 @@
 # TheEconomist/covid-19-the-economist-global-excess-deaths-model - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 430 | 76 | 
 | 2022-11-13 | 430 | 76 | 
 | 2022-11-12 | 430 | 76 | 
 | 2022-11-11 | 430 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 424 | 76 | 
 | 2022-10-17 | 424 | 76 | 
 | 2022-10-16 | 424 | 76 | 
-| 2022-10-15 | 424 | 76 | 
 

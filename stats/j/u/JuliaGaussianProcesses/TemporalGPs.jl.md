@@ -1,10 +1,10 @@
 # JuliaGaussianProcesses/TemporalGPs.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/JuliaGaussianProcesses/TemporalGPs.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 86 | 5 | 
 | 2022-11-13 | 85 | 5 | 
 | 2022-11-12 | 85 | 5 | 
 

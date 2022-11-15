@@ -1,10 +1,10 @@
 # phodal/github - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1703
+☋ Forks: 1705
 
-★ Stars: 8299
+★ Stars: 8306
 
 [Open repository](https://github.com/phodal/github)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 8306 | 1705 | 
 | 2022-11-13 | 8299 | 1703 | 
 | 2022-11-12 | 8283 | 1699 | 
 | 2022-11-11 | 8280 | 1698 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 8113 | 1679 | 
 | 2022-10-17 | 8111 | 1679 | 
 | 2022-10-16 | 8103 | 1679 | 
-| 2022-10-15 | 8100 | 1679 | 
 

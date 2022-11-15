@@ -1,10 +1,10 @@
 # PolyMathOrg/PolyMath - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 40
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/PolyMathOrg/PolyMath)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 163 | 40 | 
 | 2022-11-14 | 162 | 40 | 
 | 2022-11-12 | 161 | 40 | 
 | 2022-11-11 | 162 | 40 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 163 | 40 | 
 | 2022-10-17 | 162 | 40 | 
 | 2022-10-16 | 162 | 40 | 
-| 2022-10-15 | 162 | 40 | 
 

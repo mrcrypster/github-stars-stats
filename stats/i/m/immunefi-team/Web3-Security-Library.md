@@ -1,10 +1,10 @@
 # immunefi-team/Web3-Security-Library - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 608
+★ Stars: 614
 
 [Open repository](https://github.com/immunefi-team/Web3-Security-Library)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 614 | 72 | 
 | 2022-11-13 | 608 | 71 | 
 | 2022-11-12 | 605 | 71 | 
 | 2022-11-11 | 604 | 70 | 

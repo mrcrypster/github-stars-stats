@@ -1,6 +1,6 @@
 # cruip/laravel-tailwindcss-admin-dashboard-template - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 38 | 7 | 
 | 2022-11-13 | 38 | 7 | 
 | 2022-11-12 | 37 | 7 | 
 | 2022-11-11 | 36 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 28 | 7 | 
 | 2022-10-17 | 26 | 7 | 
 | 2022-10-16 | 26 | 7 | 
-| 2022-10-15 | 26 | 7 | 
 

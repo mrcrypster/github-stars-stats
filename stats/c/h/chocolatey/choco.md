@@ -1,10 +1,10 @@
 # chocolatey/choco - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 855
+☋ Forks: 856
 
-★ Stars: 8671
+★ Stars: 8673
 
 [Open repository](https://github.com/chocolatey/choco)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 8673 | 856 | 
 | 2022-11-13 | 8671 | 855 | 
 | 2022-11-12 | 8668 | 855 | 
 | 2022-11-11 | 8667 | 855 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 8612 | 851 | 
 | 2022-10-17 | 8607 | 852 | 
 | 2022-10-16 | 8606 | 852 | 
-| 2022-10-15 | 8600 | 852 | 
 

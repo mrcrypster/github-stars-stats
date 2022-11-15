@@ -1,10 +1,10 @@
 # ianyh/Amethyst - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 422
 
-★ Stars: 11908
+★ Stars: 11912
 
 [Open repository](https://github.com/ianyh/Amethyst)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 11912 | 422 | 
 | 2022-11-13 | 11908 | 422 | 
 | 2022-11-12 | 11897 | 422 | 
 | 2022-11-11 | 11894 | 422 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 11758 | 414 | 
 | 2022-10-17 | 11749 | 414 | 
 | 2022-10-16 | 11746 | 412 | 
-| 2022-10-15 | 11743 | 412 | 
 

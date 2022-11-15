@@ -1,6 +1,6 @@
 # Loopring/protocols - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 223 | 56 | 
 | 2022-11-13 | 223 | 56 | 
 | 2022-11-12 | 223 | 55 | 
 | 2022-11-11 | 223 | 55 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 222 | 53 | 
 | 2022-10-17 | 222 | 53 | 
 | 2022-10-16 | 222 | 53 | 
-| 2022-10-15 | 222 | 53 | 
 

@@ -1,6 +1,6 @@
 # yieldprotocol/vault-v2 - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 111 | 21 | 
 | 2022-11-13 | 111 | 21 | 
 | 2022-11-12 | 111 | 21 | 
 | 2022-11-11 | 111 | 21 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 105 | 21 | 
 | 2022-10-17 | 105 | 21 | 
 | 2022-10-16 | 105 | 21 | 
-| 2022-10-15 | 105 | 21 | 
 

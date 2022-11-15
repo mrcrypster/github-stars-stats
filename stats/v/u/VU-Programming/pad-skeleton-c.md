@@ -1,6 +1,6 @@
 # VU-Programming/pad-skeleton-c - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 10 | 24 | 
 | 2022-11-13 | 10 | 24 | 
 | 2022-11-12 | 10 | 24 | 
 | 2022-11-11 | 10 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 10 | 25 | 
 | 2022-10-17 | 10 | 25 | 
 | 2022-10-16 | 10 | 25 | 
-| 2022-10-15 | 10 | 25 | 
 

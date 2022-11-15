@@ -1,10 +1,10 @@
 # zhenyolka/DPITunnel-android - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 16
 
-★ Stars: 239
+★ Stars: 240
 
 [Open repository](https://github.com/zhenyolka/DPITunnel-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 240 | 16 | 
 | 2022-11-13 | 239 | 16 | 
 | 2022-11-12 | 237 | 16 | 
 | 2022-11-11 | 237 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 224 | 15 | 
 | 2022-10-17 | 223 | 15 | 
 | 2022-10-16 | 223 | 15 | 
-| 2022-10-15 | 223 | 15 | 
 

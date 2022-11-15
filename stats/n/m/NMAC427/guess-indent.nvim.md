@@ -1,10 +1,10 @@
 # NMAC427/guess-indent.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1
 
-★ Stars: 139
+★ Stars: 138
 
 [Open repository](https://github.com/NMAC427/guess-indent.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 138 | 1 | 
 | 2022-11-13 | 139 | 1 | 
 | 2022-11-12 | 139 | 1 | 
 | 2022-11-11 | 139 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 133 | 1 | 
 | 2022-10-17 | 133 | 1 | 
 | 2022-10-16 | 133 | 1 | 
-| 2022-10-15 | 133 | 1 | 
 

@@ -1,10 +1,10 @@
 # macrozheng/mall-swarm - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 4457
+☋ Forks: 4458
 
-★ Stars: 9552
+★ Stars: 9558
 
 [Open repository](https://github.com/macrozheng/mall-swarm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 9558 | 4458 | 
 | 2022-11-13 | 9552 | 4457 | 
 | 2022-11-12 | 9553 | 4457 | 
 | 2022-11-11 | 9552 | 4456 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 9456 | 4402 | 
 | 2022-10-17 | 9452 | 4401 | 
 | 2022-10-16 | 9446 | 4400 | 
-| 2022-10-15 | 9443 | 4399 | 
 

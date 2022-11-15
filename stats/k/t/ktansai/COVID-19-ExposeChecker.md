@@ -1,6 +1,6 @@
 # ktansai/COVID-19-ExposeChecker - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 94 | 10 | 
 | 2022-11-13 | 94 | 10 | 
 | 2022-11-12 | 94 | 10 | 
 | 2022-11-11 | 94 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 94 | 10 | 
 | 2022-10-17 | 94 | 10 | 
 | 2022-10-16 | 94 | 10 | 
-| 2022-10-15 | 94 | 10 | 
 

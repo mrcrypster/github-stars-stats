@@ -1,10 +1,10 @@
 # fiveoutofnine/cool-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 30
 
-★ Stars: 460
+★ Stars: 459
 
 [Open repository](https://github.com/fiveoutofnine/cool-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 459 | 30 | 
 | 2022-11-14 | 460 | 30 | 
 | 2022-11-13 | 460 | 30 | 
 | 2022-11-11 | 460 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 457 | 30 | 
 | 2022-10-17 | 457 | 30 | 
 | 2022-10-16 | 457 | 30 | 
-| 2022-10-15 | 457 | 30 | 
 

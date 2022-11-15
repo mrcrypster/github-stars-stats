@@ -1,6 +1,6 @@
 # HariSekhon/DevOps-Perl-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 76 | 41 | 
 | 2022-11-14 | 76 | 41 | 
 | 2022-11-12 | 76 | 41 | 
 | 2022-11-11 | 76 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 75 | 41 | 
 | 2022-10-17 | 75 | 41 | 
 | 2022-10-16 | 75 | 41 | 
-| 2022-10-15 | 75 | 41 | 
 

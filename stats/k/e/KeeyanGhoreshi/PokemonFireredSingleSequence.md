@@ -1,10 +1,10 @@
 # KeeyanGhoreshi/PokemonFireredSingleSequence - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1
+☋ Forks: 2
 
-★ Stars: 48
+★ Stars: 50
 
 [Open repository](https://github.com/KeeyanGhoreshi/PokemonFireredSingleSequence)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 50 | 2 | 
 | 2022-11-13 | 48 | 1 | 
 | 2022-11-11 | 46 | 1 | 
 | 2022-11-10 | 46 | 1 | 

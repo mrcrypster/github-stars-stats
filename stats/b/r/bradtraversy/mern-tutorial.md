@@ -1,8 +1,8 @@
 # bradtraversy/mern-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 329
+☋ Forks: 330
 
 ★ Stars: 526
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 526 | 330 | 
 | 2022-11-13 | 526 | 329 | 
 | 2022-11-12 | 524 | 329 | 
 | 2022-11-11 | 523 | 327 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 497 | 310 | 
 | 2022-10-18 | 497 | 308 | 
 | 2022-10-17 | 496 | 306 | 
-| 2022-10-16 | 494 | 303 | 
 

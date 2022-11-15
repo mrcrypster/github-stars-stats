@@ -1,10 +1,10 @@
 # TheOdinProject/theodinproject - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1607
+☋ Forks: 1608
 
-★ Stars: 2160
+★ Stars: 2161
 
 [Open repository](https://github.com/TheOdinProject/theodinproject)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 2161 | 1608 | 
 | 2022-11-13 | 2160 | 1607 | 
 | 2022-11-12 | 2161 | 1606 | 
 | 2022-11-11 | 2160 | 1606 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 2127 | 1564 | 
 | 2022-10-17 | 2125 | 1564 | 
 | 2022-10-16 | 2122 | 1564 | 
-| 2022-10-15 | 2115 | 1559 | 
 

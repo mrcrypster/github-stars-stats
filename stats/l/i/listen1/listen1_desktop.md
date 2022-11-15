@@ -1,10 +1,10 @@
 # listen1/listen1_desktop - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1187
+☋ Forks: 1188
 
-★ Stars: 6751
+★ Stars: 6761
 
 [Open repository](https://github.com/listen1/listen1_desktop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 6761 | 1188 | 
 | 2022-11-13 | 6751 | 1187 | 
 | 2022-11-12 | 6740 | 1187 | 
 | 2022-11-11 | 6738 | 1187 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 6592 | 1165 | 
 | 2022-10-17 | 6585 | 1165 | 
 | 2022-10-16 | 6582 | 1164 | 
-| 2022-10-15 | 6574 | 1160 | 
 

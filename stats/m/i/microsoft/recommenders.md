@@ -1,10 +1,10 @@
 # microsoft/recommenders - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 2538
+☋ Forks: 2540
 
-★ Stars: 14438
+★ Stars: 14456
 
 [Open repository](https://github.com/microsoft/recommenders)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 14456 | 2540 | 
 | 2022-11-13 | 14438 | 2538 | 
 | 2022-11-12 | 14428 | 2537 | 
 | 2022-11-11 | 14416 | 2535 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 14233 | 2507 | 
 | 2022-10-17 | 14226 | 2510 | 
 | 2022-10-16 | 14221 | 2509 | 
-| 2022-10-15 | 14215 | 2509 | 
 

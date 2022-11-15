@@ -1,10 +1,10 @@
 # tatsuz0u/EhPanda - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 163
 
-★ Stars: 1852
+★ Stars: 1857
 
 [Open repository](https://github.com/tatsuz0u/EhPanda)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1857 | 163 | 
 | 2022-11-13 | 1852 | 163 | 
 | 2022-11-12 | 1850 | 163 | 
 | 2022-11-10 | 1846 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1782 | 163 | 
 | 2022-10-17 | 1779 | 163 | 
 | 2022-10-16 | 1776 | 163 | 
-| 2022-10-15 | 1776 | 163 | 
 

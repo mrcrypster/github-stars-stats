@@ -1,10 +1,10 @@
 # ilovexjp/health-code-index - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 306
+☋ Forks: 324
 
-★ Stars: 2040
+★ Stars: 2147
 
 [Open repository](https://github.com/ilovexjp/health-code-index)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 2147 | 324 | 
 | 2022-11-13 | 2040 | 306 | 
 | 2022-11-12 | 2020 | 301 | 
 | 2022-11-11 | 1907 | 288 | 

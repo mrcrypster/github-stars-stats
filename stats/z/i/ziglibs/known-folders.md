@@ -1,6 +1,6 @@
 # ziglibs/known-folders - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 130 | 10 | 
 | 2022-11-13 | 130 | 10 | 
 | 2022-11-12 | 130 | 10 | 
 | 2022-11-11 | 130 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 129 | 10 | 
 | 2022-10-17 | 127 | 10 | 
 | 2022-10-16 | 127 | 10 | 
-| 2022-10-15 | 127 | 10 | 
 

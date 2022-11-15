@@ -1,10 +1,10 @@
 # garrettj403/SciencePlots - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 526
+☋ Forks: 527
 
-★ Stars: 4201
+★ Stars: 4204
 
 [Open repository](https://github.com/garrettj403/SciencePlots)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4204 | 527 | 
 | 2022-11-13 | 4201 | 526 | 
 | 2022-11-12 | 4202 | 526 | 
 | 2022-11-11 | 4203 | 525 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4076 | 519 | 
 | 2022-10-17 | 4071 | 519 | 
 | 2022-10-16 | 4063 | 519 | 
-| 2022-10-15 | 4058 | 518 | 
 

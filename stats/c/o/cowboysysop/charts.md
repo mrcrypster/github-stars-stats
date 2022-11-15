@@ -1,6 +1,6 @@
 # cowboysysop/charts - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 66 | 36 | 
 | 2022-11-13 | 66 | 36 | 
 | 2022-11-12 | 66 | 36 | 
 | 2022-11-11 | 66 | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 66 | 35 | 
 | 2022-10-17 | 66 | 35 | 
 | 2022-10-16 | 66 | 35 | 
-| 2022-10-15 | 66 | 35 | 
 

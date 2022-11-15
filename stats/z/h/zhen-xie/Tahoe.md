@@ -1,6 +1,6 @@
 # zhen-xie/Tahoe - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 32 | 6 | 
 | 2022-11-13 | 32 | 6 | 
 | 2022-11-12 | 32 | 6 | 
 | 2022-11-11 | 32 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 32 | 6 | 
 | 2022-10-17 | 32 | 6 | 
 | 2022-10-16 | 32 | 6 | 
-| 2022-10-15 | 32 | 6 | 
 

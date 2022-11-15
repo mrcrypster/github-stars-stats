@@ -1,8 +1,8 @@
 # john-smilga/redux-toolkit-tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 160
+☋ Forks: 159
 
 ★ Stars: 148
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 148 | 159 | 
 | 2022-11-13 | 148 | 160 | 
 | 2022-11-12 | 147 | 160 | 
 | 2022-11-10 | 147 | 160 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 134 | 138 | 
 | 2022-10-17 | 133 | 139 | 
 | 2022-10-16 | 133 | 138 | 
-| 2022-10-15 | 132 | 138 | 
 

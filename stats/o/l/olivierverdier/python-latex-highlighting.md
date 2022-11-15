@@ -1,6 +1,6 @@
 # olivierverdier/python-latex-highlighting - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 118
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 379 | 118 | 
 | 2022-11-13 | 379 | 118 | 
 | 2022-11-12 | 379 | 118 | 
 | 2022-11-10 | 379 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 378 | 116 | 
 | 2022-10-17 | 378 | 116 | 
 | 2022-10-16 | 378 | 116 | 
-| 2022-10-15 | 378 | 116 | 
 

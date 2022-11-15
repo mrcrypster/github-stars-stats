@@ -1,6 +1,6 @@
 # jfrog/jfrog-spring-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 87 | 8 | 
 | 2022-11-13 | 87 | 8 | 
 | 2022-11-12 | 86 | 8 | 
 | 2022-11-11 | 86 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 86 | 8 | 
 | 2022-10-17 | 86 | 8 | 
 | 2022-10-16 | 86 | 8 | 
-| 2022-10-15 | 86 | 8 | 
 

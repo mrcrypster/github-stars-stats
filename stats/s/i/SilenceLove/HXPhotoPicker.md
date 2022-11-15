@@ -1,10 +1,10 @@
 # SilenceLove/HXPhotoPicker - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 540
 
-★ Stars: 2558
+★ Stars: 2559
 
 [Open repository](https://github.com/SilenceLove/HXPhotoPicker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 2559 | 540 | 
 | 2022-11-13 | 2558 | 540 | 
 | 2022-11-12 | 2557 | 540 | 
 | 2022-11-11 | 2557 | 540 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 2546 | 540 | 
 | 2022-10-18 | 2544 | 540 | 
 | 2022-10-17 | 2541 | 540 | 
-| 2022-10-16 | 2541 | 540 | 
 

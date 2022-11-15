@@ -1,8 +1,8 @@
 # 0xfoobar/nft-delegation - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 22
+☋ Forks: 21
 
 ★ Stars: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 76 | 21 | 
 | 2022-11-14 | 76 | 22 | 
 | 2022-11-12 | 75 | 22 | 
 | 2022-11-11 | 75 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 74 | 21 | 
 | 2022-10-17 | 74 | 21 | 
 | 2022-10-16 | 74 | 21 | 
-| 2022-10-15 | 74 | 21 | 
 

@@ -1,6 +1,6 @@
 # realworldocaml/book - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 143
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1034 | 143 | 
 | 2022-11-13 | 1034 | 143 | 
 | 2022-11-12 | 1034 | 143 | 
 | 2022-11-11 | 1034 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1020 | 140 | 
 | 2022-10-17 | 1017 | 139 | 
 | 2022-10-16 | 1018 | 139 | 
-| 2022-10-15 | 1013 | 139 | 
 

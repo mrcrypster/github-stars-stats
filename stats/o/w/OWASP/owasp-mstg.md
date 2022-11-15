@@ -1,10 +1,10 @@
 # OWASP/owasp-mstg - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 2057
+☋ Forks: 2056
 
-★ Stars: 9604
+★ Stars: 9606
 
 [Open repository](https://github.com/OWASP/owasp-mstg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 9606 | 2056 | 
 | 2022-11-14 | 9604 | 2057 | 
 | 2022-11-12 | 9602 | 2056 | 
 | 2022-11-11 | 9599 | 2056 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 9514 | 2047 | 
 | 2022-10-17 | 9508 | 2045 | 
 | 2022-10-16 | 9504 | 2044 | 
-| 2022-10-15 | 9501 | 2043 | 
 

@@ -1,8 +1,8 @@
 # alan-turing-institute/the-turing-way - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 530
+☋ Forks: 533
 
 ★ Stars: 1434
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1434 | 533 | 
 | 2022-11-13 | 1434 | 530 | 
 | 2022-11-12 | 1434 | 530 | 
 | 2022-11-11 | 1433 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1417 | 524 | 
 | 2022-10-17 | 1414 | 523 | 
 | 2022-10-16 | 1414 | 522 | 
-| 2022-10-15 | 1412 | 522 | 
 

@@ -1,6 +1,6 @@
 # rive-app/rive-flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 735 | 124 | 
 | 2022-11-13 | 735 | 124 | 
 | 2022-11-12 | 734 | 124 | 
 | 2022-11-11 | 734 | 124 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 724 | 122 | 
 | 2022-10-17 | 724 | 122 | 
 | 2022-10-16 | 724 | 122 | 
-| 2022-10-15 | 724 | 122 | 
 

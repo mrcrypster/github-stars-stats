@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 14
 
 ☋ Forks: 1007
 
-★ Stars: 2602
+★ Stars: 2606
 
 [Open repository](https://github.com/raycast/extensions)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-14 | 2602 | 1007 | 
+| 2022-11-14 | 2606 | 1007 | 
 | 2022-11-13 | 2602 | 1008 | 
 | 2022-11-12 | 2588 | 1004 | 
 | 2022-11-11 | 2582 | 1002 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 2476 | 949 | 
 | 2022-10-17 | 2473 | 948 | 
 | 2022-10-16 | 2472 | 946 | 
-| 2022-10-15 | 2470 | 943 | 
 

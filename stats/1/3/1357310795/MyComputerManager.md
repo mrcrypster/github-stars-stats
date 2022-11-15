@@ -1,6 +1,6 @@
 # 1357310795/MyComputerManager - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1155 | 38 | 
 | 2022-11-13 | 1155 | 38 | 
 | 2022-11-12 | 1152 | 38 | 
 | 2022-11-11 | 1149 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1111 | 37 | 
 | 2022-10-17 | 1111 | 37 | 
 | 2022-10-16 | 1109 | 37 | 
-| 2022-10-15 | 1105 | 37 | 
 

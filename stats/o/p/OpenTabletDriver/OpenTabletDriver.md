@@ -1,10 +1,10 @@
 # OpenTabletDriver/OpenTabletDriver - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 217
 
-★ Stars: 1665
+★ Stars: 1666
 
 [Open repository](https://github.com/OpenTabletDriver/OpenTabletDriver)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1666 | 217 | 
 | 2022-11-13 | 1665 | 217 | 
 | 2022-11-12 | 1664 | 216 | 
 | 2022-11-11 | 1661 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1630 | 211 | 
 | 2022-10-17 | 1630 | 210 | 
 | 2022-10-16 | 1628 | 210 | 
-| 2022-10-15 | 1628 | 209 | 
 

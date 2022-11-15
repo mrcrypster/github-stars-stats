@@ -1,10 +1,10 @@
 # EliverLara/Nordic - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 88
 
-★ Stars: 1650
+★ Stars: 1653
 
 [Open repository](https://github.com/EliverLara/Nordic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1653 | 88 | 
 | 2022-11-13 | 1650 | 88 | 
 | 2022-11-12 | 1650 | 88 | 
 | 2022-11-11 | 1649 | 88 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1621 | 86 | 
 | 2022-10-17 | 1619 | 86 | 
 | 2022-10-16 | 1617 | 86 | 
-| 2022-10-15 | 1616 | 86 | 
 

@@ -1,6 +1,6 @@
 # hercules-ci/flake-modules-core - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 119 | 10 | 
 | 2022-11-13 | 119 | 10 | 
 | 2022-11-12 | 117 | 10 | 
 | 2022-11-11 | 117 | 10 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 96 | 10 | 
 | 2022-10-17 | 96 | 10 | 
 | 2022-10-16 | 96 | 10 | 
-| 2022-10-15 | 96 | 10 | 
 

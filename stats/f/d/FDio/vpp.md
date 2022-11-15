@@ -1,8 +1,8 @@
 # FDio/vpp - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 484
+☋ Forks: 485
 
 ★ Stars: 857
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 857 | 485 | 
 | 2022-11-13 | 857 | 484 | 
 | 2022-11-12 | 857 | 484 | 
 | 2022-11-11 | 856 | 484 | 

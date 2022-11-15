@@ -1,10 +1,10 @@
 # pabloariasal/protofmt - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 22
+★ Stars: 24
 
 [Open repository](https://github.com/pabloariasal/protofmt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 24 | - | 
 | 2022-11-13 | 22 | - | 
 | 2022-11-12 | 22 | - | 
 | 2022-11-11 | 22 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 22 | - | 
 | 2022-10-17 | 22 | - | 
 | 2022-10-16 | 22 | - | 
-| 2022-10-15 | 22 | - | 
 

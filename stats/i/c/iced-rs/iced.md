@@ -1,10 +1,10 @@
 # iced-rs/iced - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 723
 
-★ Stars: 16940
+★ Stars: 16950
 
 [Open repository](https://github.com/iced-rs/iced)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 16950 | 723 | 
 | 2022-11-13 | 16940 | 723 | 
 | 2022-11-12 | 16933 | 723 | 
 | 2022-11-11 | 16921 | 724 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 16409 | 689 | 
 | 2022-10-17 | 16386 | 685 | 
 | 2022-10-16 | 16365 | 684 | 
-| 2022-10-15 | 16341 | 682 | 
 

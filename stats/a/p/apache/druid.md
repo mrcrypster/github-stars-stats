@@ -1,10 +1,10 @@
 # apache/druid - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 3377
+☋ Forks: 3378
 
-★ Stars: 12194
+★ Stars: 12195
 
 [Open repository](https://github.com/apache/druid)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 12195 | 3378 | 
 | 2022-11-13 | 12194 | 3377 | 
 | 2022-11-12 | 12192 | 3375 | 
 | 2022-11-11 | 12188 | 3375 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 12120 | 3361 | 
 | 2022-10-17 | 12113 | 3360 | 
 | 2022-10-16 | 12109 | 3360 | 
-| 2022-10-15 | 12109 | 3360 | 
 

@@ -1,10 +1,10 @@
 # walidshaari/Certified-Kubernetes-Security-Specialist - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 450
+☋ Forks: 451
 
-★ Stars: 1523
+★ Stars: 1524
 
 [Open repository](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1524 | 451 | 
 | 2022-11-13 | 1523 | 450 | 
 | 2022-11-12 | 1523 | 450 | 
 | 2022-11-11 | 1523 | 450 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1511 | 439 | 
 | 2022-10-17 | 1510 | 439 | 
 | 2022-10-16 | 1509 | 439 | 
-| 2022-10-15 | 1509 | 439 | 
 

@@ -1,10 +1,10 @@
 # Flexiana/notion-to-md - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/Flexiana/notion-to-md)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 25 | - | 
 | 2022-11-13 | 24 | - | 
 | 2022-11-12 | 24 | - | 
 | 2022-11-11 | 24 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 23 | - | 
 | 2022-10-18 | 23 | - | 
 | 2022-10-17 | 23 | - | 
-| 2022-10-16 | 23 | - | 
 

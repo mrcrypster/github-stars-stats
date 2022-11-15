@@ -1,10 +1,10 @@
 # yangyangwithgnu/use_vim_as_ide - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 2429
 
-★ Stars: 9195
+★ Stars: 9196
 
 [Open repository](https://github.com/yangyangwithgnu/use_vim_as_ide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 9196 | 2429 | 
 | 2022-11-13 | 9195 | 2429 | 
 | 2022-11-12 | 9194 | 2429 | 
 | 2022-11-11 | 9195 | 2429 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 9192 | 2428 | 
 | 2022-10-17 | 9193 | 2428 | 
 | 2022-10-16 | 9193 | 2429 | 
-| 2022-10-15 | 9194 | 2429 | 
 

@@ -1,10 +1,10 @@
 # faker-js/faker - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 619
+☋ Forks: 622
 
-★ Stars: 8021
+★ Stars: 8033
 
 [Open repository](https://github.com/faker-js/faker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 8033 | 622 | 
 | 2022-11-13 | 8021 | 619 | 
 | 2022-11-12 | 8014 | 618 | 
 | 2022-11-11 | 8001 | 617 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 7750 | 598 | 
 | 2022-10-17 | 7728 | 596 | 
 | 2022-10-16 | 7718 | 595 | 
-| 2022-10-15 | 7707 | 595 | 
 

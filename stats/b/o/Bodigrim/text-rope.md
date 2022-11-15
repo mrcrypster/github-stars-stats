@@ -1,6 +1,6 @@
 # Bodigrim/text-rope - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 33 | - | 
 | 2022-11-13 | 33 | - | 
 | 2022-11-12 | 33 | - | 
 | 2022-11-11 | 33 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 32 | - | 
 | 2022-10-18 | 32 | - | 
 | 2022-10-16 | 32 | - | 
-| 2022-10-15 | 32 | - | 
 

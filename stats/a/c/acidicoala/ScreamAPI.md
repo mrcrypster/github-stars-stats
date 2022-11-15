@@ -1,10 +1,10 @@
 # acidicoala/ScreamAPI - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 78
 
-★ Stars: 578
+★ Stars: 579
 
 [Open repository](https://github.com/acidicoala/ScreamAPI)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 579 | 78 | 
 | 2022-11-13 | 578 | 78 | 
 | 2022-11-11 | 577 | 78 | 
 | 2022-11-10 | 576 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 563 | 76 | 
 | 2022-10-17 | 563 | 75 | 
 | 2022-10-16 | 562 | 75 | 
-| 2022-10-15 | 563 | 75 | 
 

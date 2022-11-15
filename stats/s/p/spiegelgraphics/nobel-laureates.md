@@ -1,10 +1,10 @@
 # spiegelgraphics/nobel-laureates - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 63
+★ Stars: 64
 
 [Open repository](https://github.com/spiegelgraphics/nobel-laureates)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 64 | 5 | 
 | 2022-11-13 | 63 | 5 | 
 | 2022-11-12 | 63 | 5 | 
 | 2022-11-10 | 63 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 61 | 5 | 
 | 2022-10-17 | 61 | 5 | 
 | 2022-10-16 | 61 | 5 | 
-| 2022-10-15 | 61 | 5 | 
 

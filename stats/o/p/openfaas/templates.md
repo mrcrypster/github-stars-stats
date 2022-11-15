@@ -1,6 +1,6 @@
 # openfaas/templates - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 215
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 246 | 215 | 
 | 2022-11-14 | 246 | 215 | 
 | 2022-11-12 | 246 | 215 | 
 | 2022-11-11 | 246 | 215 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 245 | 215 | 
 | 2022-10-18 | 245 | 215 | 
 | 2022-10-17 | 244 | 214 | 
-| 2022-10-16 | 242 | 214 | 
 

@@ -1,10 +1,10 @@
 # juice-shop/juice-shop - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 6288
 
-★ Stars: 7378
+★ Stars: 7381
 
 [Open repository](https://github.com/juice-shop/juice-shop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7381 | 6288 | 
 | 2022-11-14 | 7378 | 6288 | 
 | 2022-11-12 | 7374 | 6286 | 
 | 2022-11-11 | 7371 | 6287 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 7302 | 6145 | 
 | 2022-10-17 | 7296 | 6141 | 
 | 2022-10-16 | 7294 | 6136 | 
-| 2022-10-15 | 7286 | 6133 | 
 

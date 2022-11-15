@@ -1,10 +1,10 @@
 # lukesyy/jd_yun - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 321
 
-★ Stars: 656
+★ Stars: 655
 
 [Open repository](https://github.com/lukesyy/jd_yun)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 655 | 321 | 
 | 2022-11-13 | 656 | 321 | 
 | 2022-11-12 | 656 | 322 | 
 | 2022-11-11 | 656 | 322 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 658 | 322 | 
 | 2022-10-17 | 658 | 321 | 
 | 2022-10-16 | 658 | 321 | 
-| 2022-10-15 | 658 | 321 | 
 

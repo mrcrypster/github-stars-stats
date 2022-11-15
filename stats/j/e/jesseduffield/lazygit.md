@@ -1,10 +1,10 @@
 # jesseduffield/lazygit - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1264
+☋ Forks: 1265
 
-★ Stars: 30884
+★ Stars: 30913
 
 [Open repository](https://github.com/jesseduffield/lazygit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 30913 | 1265 | 
 | 2022-11-13 | 30884 | 1264 | 
 | 2022-11-12 | 30866 | 1262 | 
 | 2022-11-11 | 30850 | 1262 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 30349 | 1233 | 
 | 2022-10-17 | 30315 | 1229 | 
 | 2022-10-16 | 30277 | 1227 | 
-| 2022-10-15 | 30257 | 1226 | 
 

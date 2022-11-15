@@ -1,6 +1,6 @@
 # djs55/ocaml-gpt - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 10 | - | 
 | 2022-11-13 | 10 | - | 
 | 2022-11-12 | 10 | - | 
 | 2022-11-11 | 10 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 10 | - | 
 | 2022-10-17 | 10 | - | 
 | 2022-10-16 | 10 | - | 
-| 2022-10-15 | 10 | - | 
 

@@ -1,10 +1,10 @@
 # jeecgboot/JimuReport - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1185
 
-★ Stars: 3729
+★ Stars: 3732
 
 [Open repository](https://github.com/jeecgboot/JimuReport)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3732 | 1185 | 
 | 2022-11-13 | 3729 | 1185 | 
 | 2022-11-12 | 3728 | 1183 | 
 | 2022-11-11 | 3727 | 1183 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3633 | 1158 | 
 | 2022-10-17 | 3629 | 1159 | 
 | 2022-10-16 | 3625 | 1157 | 
-| 2022-10-15 | 3623 | 1156 | 
 

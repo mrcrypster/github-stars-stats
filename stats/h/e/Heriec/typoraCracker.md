@@ -1,10 +1,10 @@
 # Heriec/typoraCracker - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 45
 
-★ Stars: 77
+★ Stars: 78
 
 [Open repository](https://github.com/Heriec/typoraCracker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 78 | 45 | 
 | 2022-11-13 | 77 | 45 | 
 | 2022-11-12 | 77 | 45 | 
 | 2022-11-11 | 77 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 67 | 38 | 
 | 2022-10-17 | 65 | 38 | 
 | 2022-10-16 | 65 | 36 | 
-| 2022-10-15 | 65 | 36 | 
 

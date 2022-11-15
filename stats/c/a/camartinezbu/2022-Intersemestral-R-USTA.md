@@ -1,6 +1,6 @@
 # camartinezbu/2022-Intersemestral-R-USTA - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3 | 17 | 
 | 2022-11-13 | 3 | 17 | 
 | 2022-11-12 | 3 | 17 | 
 | 2022-11-11 | 3 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 3 | 17 | 
 | 2022-10-18 | 3 | 17 | 
 | 2022-10-17 | 3 | 17 | 
-| 2022-10-16 | 3 | 17 | 
 

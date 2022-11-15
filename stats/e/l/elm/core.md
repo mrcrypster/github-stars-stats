@@ -1,6 +1,6 @@
 # elm/core - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 359
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 2711 | 359 | 
 | 2022-11-13 | 2711 | 359 | 
 | 2022-11-11 | 2711 | 359 | 
 | 2022-11-10 | 2711 | 359 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 2706 | 358 | 
 | 2022-10-17 | 2705 | 358 | 
 | 2022-10-16 | 2705 | 358 | 
-| 2022-10-15 | 2704 | 358 | 
 

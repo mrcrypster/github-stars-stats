@@ -1,6 +1,6 @@
 # ntex-rs/ntex - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 64
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1074 | 64 | 
 | 2022-11-13 | 1074 | 64 | 
 | 2022-11-12 | 1072 | 64 | 
 | 2022-11-11 | 1072 | 64 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1050 | 61 | 
 | 2022-10-17 | 1049 | 61 | 
 | 2022-10-16 | 1049 | 58 | 
-| 2022-10-15 | 1049 | 58 | 
 

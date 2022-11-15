@@ -1,10 +1,10 @@
 # vyperlang/vyper - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 727
+☋ Forks: 728
 
-★ Stars: 4341
+★ Stars: 4342
 
 [Open repository](https://github.com/vyperlang/vyper)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4342 | 728 | 
 | 2022-11-13 | 4341 | 727 | 
 | 2022-11-12 | 4341 | 727 | 
 | 2022-11-11 | 4339 | 726 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4306 | 714 | 
 | 2022-10-17 | 4300 | 714 | 
 | 2022-10-16 | 4300 | 714 | 
-| 2022-10-15 | 4298 | 715 | 
 

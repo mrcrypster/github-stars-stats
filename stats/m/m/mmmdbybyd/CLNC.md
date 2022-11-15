@@ -1,10 +1,10 @@
 # mmmdbybyd/CLNC - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 139
 
-★ Stars: 346
+★ Stars: 347
 
 [Open repository](https://github.com/mmmdbybyd/CLNC)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 347 | 139 | 
 | 2022-11-13 | 346 | 139 | 
 | 2022-11-12 | 346 | 139 | 
 | 2022-11-10 | 346 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 331 | 137 | 
 | 2022-10-17 | 331 | 137 | 
 | 2022-10-16 | 331 | 137 | 
-| 2022-10-15 | 331 | 137 | 
 

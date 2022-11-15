@@ -1,6 +1,6 @@
 # lemokami/startupsofkerala - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 21 | 15 | 
 | 2022-11-14 | 21 | 15 | 
 | 2022-11-12 | 21 | 15 | 
 | 2022-11-11 | 21 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 17 | 16 | 
 | 2022-10-17 | 17 | 15 | 
 | 2022-10-16 | 17 | 15 | 
-| 2022-10-15 | 17 | 15 | 
 

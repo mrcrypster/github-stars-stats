@@ -1,10 +1,10 @@
 # weavejester/integrant - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 61
 
-★ Stars: 1052
+★ Stars: 1053
 
 [Open repository](https://github.com/weavejester/integrant)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1053 | 61 | 
 | 2022-11-13 | 1052 | 61 | 
 | 2022-11-12 | 1050 | 61 | 
 | 2022-11-11 | 1050 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1043 | 61 | 
 | 2022-10-17 | 1043 | 61 | 
 | 2022-10-16 | 1041 | 61 | 
-| 2022-10-15 | 1040 | 61 | 
 

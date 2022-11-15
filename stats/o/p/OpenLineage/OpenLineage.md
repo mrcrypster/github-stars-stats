@@ -1,10 +1,10 @@
 # OpenLineage/OpenLineage - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 128
+☋ Forks: 129
 
-★ Stars: 1082
+★ Stars: 1083
 
 [Open repository](https://github.com/OpenLineage/OpenLineage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1083 | 129 | 
 | 2022-11-13 | 1082 | 128 | 
 | 2022-11-12 | 1082 | 128 | 
 | 2022-11-11 | 1081 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1060 | 124 | 
 | 2022-10-17 | 1058 | 123 | 
 | 2022-10-16 | 1058 | 123 | 
-| 2022-10-15 | 1058 | 123 | 
 

@@ -1,10 +1,10 @@
 # adi1090x/rofi - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 213
 
-★ Stars: 4472
+★ Stars: 4474
 
 [Open repository](https://github.com/adi1090x/rofi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4474 | 213 | 
 | 2022-11-13 | 4472 | 213 | 
 | 2022-11-12 | 4471 | 214 | 
 | 2022-11-11 | 4468 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4379 | 211 | 
 | 2022-10-17 | 4375 | 212 | 
 | 2022-10-16 | 4372 | 212 | 
-| 2022-10-15 | 4371 | 211 | 
 

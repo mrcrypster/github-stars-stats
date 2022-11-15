@@ -1,10 +1,10 @@
 # nix-community/dream2nix - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 57
+☋ Forks: 59
 
-★ Stars: 303
+★ Stars: 304
 
 [Open repository](https://github.com/nix-community/dream2nix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 304 | 59 | 
 | 2022-11-13 | 303 | 57 | 
 | 2022-11-12 | 303 | 57 | 
 | 2022-11-10 | 303 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 290 | 54 | 
 | 2022-10-17 | 289 | 54 | 
 | 2022-10-16 | 288 | 54 | 
-| 2022-10-15 | 287 | 54 | 
 

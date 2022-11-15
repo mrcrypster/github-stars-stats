@@ -1,6 +1,6 @@
 # SlyFabi/WSysMon - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 236 | 6 | 
 | 2022-11-13 | 236 | 6 | 
 | 2022-11-11 | 236 | 6 | 
 | 2022-11-10 | 236 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 237 | 5 | 
 | 2022-10-17 | 237 | 5 | 
 | 2022-10-16 | 237 | 5 | 
-| 2022-10-15 | 237 | 5 | 
 

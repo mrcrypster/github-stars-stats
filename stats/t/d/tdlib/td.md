@@ -1,10 +1,10 @@
 # tdlib/td - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1050
+☋ Forks: 1052
 
-★ Stars: 5121
+★ Stars: 5122
 
 [Open repository](https://github.com/tdlib/td)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 5122 | 1052 | 
 | 2022-11-13 | 5121 | 1050 | 
 | 2022-11-12 | 5118 | 1049 | 
 | 2022-11-11 | 5112 | 1048 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 5031 | 1038 | 
 | 2022-10-17 | 5027 | 1037 | 
 | 2022-10-16 | 5023 | 1036 | 
-| 2022-10-15 | 5022 | 1034 | 
 

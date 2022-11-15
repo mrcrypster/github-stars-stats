@@ -1,10 +1,10 @@
 # worksome/request-factories - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 3
 
-★ Stars: 378
+★ Stars: 380
 
 [Open repository](https://github.com/worksome/request-factories)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 380 | 3 | 
 | 2022-11-13 | 378 | 3 | 
 | 2022-11-12 | 378 | 3 | 
 | 2022-11-11 | 376 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 371 | 3 | 
 | 2022-10-17 | 372 | 3 | 
 | 2022-10-16 | 372 | 3 | 
-| 2022-10-15 | 372 | 3 | 
 

@@ -1,10 +1,10 @@
 # TwiN/gatus - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 220
 
-★ Stars: 3134
+★ Stars: 3146
 
 [Open repository](https://github.com/TwiN/gatus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3146 | 220 | 
 | 2022-11-13 | 3134 | 220 | 
 | 2022-11-12 | 3121 | 219 | 
 | 2022-11-11 | 3112 | 219 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 2999 | 210 | 
 | 2022-10-17 | 2996 | 209 | 
 | 2022-10-16 | 2993 | 208 | 
-| 2022-10-15 | 2992 | 208 | 
 

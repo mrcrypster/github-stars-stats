@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/PixelToast/puro)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-14 | 25 | - | 
+| 2022-11-14 | 27 | - | 
 | 2022-11-13 | 25 | - | 
 

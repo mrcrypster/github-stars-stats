@@ -1,8 +1,8 @@
 # py-pdf/PyPDF2 - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1134
+☋ Forks: 1133
 
 ★ Stars: 4888
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4888 | 1133 | 
 | 2022-11-13 | 4888 | 1134 | 
 | 2022-11-12 | 4887 | 1132 | 
 | 2022-11-11 | 4886 | 1130 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4804 | 1121 | 
 | 2022-10-17 | 4800 | 1121 | 
 | 2022-10-16 | 4794 | 1120 | 
-| 2022-10-15 | 4791 | 1120 | 
 

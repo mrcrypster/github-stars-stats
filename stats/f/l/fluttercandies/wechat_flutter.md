@@ -1,6 +1,6 @@
 # fluttercandies/wechat_flutter - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 481
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 2158 | 481 | 
 | 2022-11-13 | 2158 | 481 | 
 | 2022-11-12 | 2158 | 481 | 
 | 2022-11-11 | 2157 | 481 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 2146 | 479 | 
 | 2022-10-17 | 2147 | 479 | 
 | 2022-10-16 | 2147 | 479 | 
-| 2022-10-15 | 2146 | 479 | 
 

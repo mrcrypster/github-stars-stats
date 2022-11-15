@@ -1,10 +1,10 @@
 # liupan1890/aliyunpan - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 946
+☋ Forks: 947
 
-★ Stars: 8916
+★ Stars: 8926
 
 [Open repository](https://github.com/liupan1890/aliyunpan)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 8926 | 947 | 
 | 2022-11-13 | 8916 | 946 | 
 | 2022-11-12 | 8909 | 946 | 
 | 2022-11-11 | 8902 | 946 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 8695 | 928 | 
 | 2022-10-17 | 8686 | 929 | 
 | 2022-10-16 | 8681 | 929 | 
-| 2022-10-15 | 8677 | 929 | 
 

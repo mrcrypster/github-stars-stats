@@ -1,10 +1,10 @@
 # ArztSamuel/Applying_EANNs - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 321
 
-★ Stars: 1241
+★ Stars: 1243
 
 [Open repository](https://github.com/ArztSamuel/Applying_EANNs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1243 | 321 | 
 | 2022-11-13 | 1241 | 321 | 
 | 2022-11-12 | 1241 | 321 | 
 | 2022-11-11 | 1240 | 320 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1233 | 319 | 
 | 2022-10-17 | 1233 | 319 | 
 | 2022-10-16 | 1233 | 319 | 
-| 2022-10-15 | 1233 | 319 | 
 

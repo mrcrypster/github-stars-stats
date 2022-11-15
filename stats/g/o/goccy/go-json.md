@@ -1,8 +1,8 @@
 # goccy/go-json - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 75
+☋ Forks: 77
 
 ★ Stars: 1875
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1875 | 77 | 
 | 2022-11-13 | 1875 | 75 | 
 | 2022-11-12 | 1874 | 76 | 
 | 2022-11-11 | 1874 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1809 | 69 | 
 | 2022-10-17 | 1807 | 68 | 
 | 2022-10-16 | 1804 | 68 | 
-| 2022-10-15 | 1802 | 68 | 
 

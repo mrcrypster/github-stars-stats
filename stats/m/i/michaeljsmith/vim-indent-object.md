@@ -1,6 +1,6 @@
 # michaeljsmith/vim-indent-object - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 649 | 53 | 
 | 2022-11-13 | 649 | 53 | 
 | 2022-11-12 | 649 | 53 | 
 | 2022-11-11 | 647 | 53 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 644 | 53 | 
 | 2022-10-17 | 644 | 53 | 
 | 2022-10-16 | 642 | 53 | 
-| 2022-10-15 | 642 | 53 | 
 

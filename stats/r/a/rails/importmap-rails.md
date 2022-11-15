@@ -1,6 +1,6 @@
 # rails/importmap-rails - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 86
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 771 | 86 | 
 | 2022-11-13 | 771 | 86 | 
 | 2022-11-12 | 771 | 86 | 
 | 2022-11-11 | 771 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 761 | 84 | 
 | 2022-10-17 | 760 | 84 | 
 | 2022-10-16 | 760 | 84 | 
-| 2022-10-15 | 760 | 84 | 
 

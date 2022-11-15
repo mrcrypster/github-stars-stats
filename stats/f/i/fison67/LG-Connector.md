@@ -1,6 +1,6 @@
 # fison67/LG-Connector - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 178
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 62 | 178 | 
 | 2022-11-13 | 62 | 178 | 
 | 2022-11-12 | 62 | 178 | 
 | 2022-11-11 | 62 | 178 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 62 | 176 | 
 | 2022-10-17 | 62 | 176 | 
 | 2022-10-16 | 63 | 176 | 
-| 2022-10-15 | 63 | 176 | 
 

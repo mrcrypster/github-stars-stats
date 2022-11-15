@@ -1,6 +1,6 @@
 # pivpn/pivpn - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 514
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 5603 | 514 | 
 | 2022-11-13 | 5603 | 514 | 
 | 2022-11-12 | 5600 | 514 | 
 | 2022-11-11 | 5600 | 514 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 5553 | 513 | 
 | 2022-10-17 | 5550 | 513 | 
 | 2022-10-16 | 5547 | 514 | 
-| 2022-10-15 | 5548 | 514 | 
 

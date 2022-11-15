@@ -1,10 +1,10 @@
 # yetanalytics/datasim - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/yetanalytics/datasim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 14 | 6 | 
 | 2022-11-13 | 13 | 5 | 
 | 2022-11-12 | 13 | 5 | 
 | 2022-11-11 | 13 | 5 | 

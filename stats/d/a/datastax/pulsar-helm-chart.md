@@ -1,6 +1,6 @@
 # datastax/pulsar-helm-chart - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 32 | 30 | 
 | 2022-11-13 | 32 | 30 | 
 | 2022-11-12 | 32 | 30 | 
 | 2022-11-11 | 32 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 30 | 30 | 
 | 2022-10-17 | 29 | 30 | 
 | 2022-10-16 | 29 | 30 | 
-| 2022-10-15 | 29 | 30 | 
 

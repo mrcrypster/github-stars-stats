@@ -1,10 +1,10 @@
 # codewithsadee/vcard-personal-portfolio - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 320
 
-★ Stars: 1249
+★ Stars: 1254
 
 [Open repository](https://github.com/codewithsadee/vcard-personal-portfolio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1254 | 320 | 
 | 2022-11-13 | 1249 | 320 | 
 | 2022-11-12 | 1240 | 317 | 
 | 2022-11-11 | 1236 | 315 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1142 | 275 | 
 | 2022-10-17 | 1139 | 271 | 
 | 2022-10-16 | 1128 | 270 | 
-| 2022-10-15 | 1125 | 269 | 
 

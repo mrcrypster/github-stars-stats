@@ -1,10 +1,10 @@
 # spring-cloud/spring-cloud-gateway - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 2849
+☋ Forks: 2848
 
-★ Stars: 3774
+★ Stars: 3772
 
 [Open repository](https://github.com/spring-cloud/spring-cloud-gateway)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3772 | 2848 | 
 | 2022-11-14 | 3774 | 2849 | 
 | 2022-11-12 | 3774 | 2848 | 
 | 2022-11-11 | 3773 | 2848 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 3746 | 2835 | 
 | 2022-10-17 | 3745 | 2836 | 
 | 2022-10-16 | 3742 | 2833 | 
-| 2022-10-15 | 3740 | 2832 | 
 

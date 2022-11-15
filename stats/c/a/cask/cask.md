@@ -1,10 +1,10 @@
 # cask/cask - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 150
 
-★ Stars: 1211
+★ Stars: 1212
 
 [Open repository](https://github.com/cask/cask)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1212 | 150 | 
 | 2022-11-13 | 1211 | 150 | 
 | 2022-11-12 | 1211 | 150 | 
 | 2022-11-11 | 1211 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1209 | 151 | 
 | 2022-10-17 | 1208 | 151 | 
 | 2022-10-16 | 1209 | 151 | 
-| 2022-10-15 | 1209 | 151 | 
 

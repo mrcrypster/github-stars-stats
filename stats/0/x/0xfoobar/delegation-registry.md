@@ -1,10 +1,10 @@
 # 0xfoobar/delegation-registry - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 22
 
-★ Stars: 75
+★ Stars: 76
 
 [Open repository](https://github.com/0xfoobar/delegation-registry)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 76 | 22 | 
 | 2022-11-13 | 75 | 22 | 
 | 2022-11-12 | 75 | 22 | 
 | 2022-11-10 | 75 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 74 | 21 | 
 | 2022-10-17 | 74 | 21 | 
 | 2022-10-16 | 74 | 21 | 
-| 2022-10-15 | 74 | 21 | 
 

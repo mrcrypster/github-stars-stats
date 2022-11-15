@@ -1,10 +1,10 @@
 # 0x100101/lab.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 118
+★ Stars: 117
 
 [Open repository](https://github.com/0x100101/lab.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 117 | - | 
 | 2022-11-13 | 118 | - | 
 | 2022-11-12 | 118 | - | 
 | 2022-11-11 | 117 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 108 | - | 
 | 2022-10-17 | 108 | - | 
 | 2022-10-16 | 108 | - | 
-| 2022-10-15 | 108 | - | 
 

@@ -1,10 +1,10 @@
 # bxcodec/go-clean-arch - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 985
 
-★ Stars: 6811
+★ Stars: 6814
 
 [Open repository](https://github.com/bxcodec/go-clean-arch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 6814 | 985 | 
 | 2022-11-13 | 6811 | 985 | 
 | 2022-11-12 | 6809 | 985 | 
 | 2022-11-11 | 6801 | 985 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 6710 | 970 | 
 | 2022-10-17 | 6706 | 969 | 
 | 2022-10-16 | 6699 | 969 | 
-| 2022-10-15 | 6670 | 968 | 
 

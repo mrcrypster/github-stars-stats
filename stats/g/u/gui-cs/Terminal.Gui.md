@@ -1,10 +1,10 @@
 # gui-cs/Terminal.Gui - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 575
 
-★ Stars: 7665
+★ Stars: 7669
 
 [Open repository](https://github.com/gui-cs/Terminal.Gui)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7669 | 575 | 
 | 2022-11-13 | 7665 | 575 | 
 | 2022-11-12 | 7665 | 575 | 
 | 2022-11-11 | 7662 | 575 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 7576 | 571 | 
 | 2022-10-17 | 7573 | 571 | 
 | 2022-10-16 | 7563 | 571 | 
-| 2022-10-15 | 7559 | 571 | 
 

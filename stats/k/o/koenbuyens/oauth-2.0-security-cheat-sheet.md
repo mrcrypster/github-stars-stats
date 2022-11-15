@@ -1,6 +1,6 @@
 # koenbuyens/oauth-2.0-security-cheat-sheet - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 190 | 33 | 
 | 2022-11-13 | 190 | 33 | 
 | 2022-11-12 | 190 | 33 | 
 | 2022-11-11 | 190 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 191 | 33 | 
 | 2022-10-17 | 191 | 33 | 
 | 2022-10-16 | 190 | 33 | 
-| 2022-10-15 | 190 | 33 | 
 

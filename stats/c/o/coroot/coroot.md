@@ -1,10 +1,10 @@
 # coroot/coroot - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 42
 
-★ Stars: 1631
+★ Stars: 1635
 
 [Open repository](https://github.com/coroot/coroot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1635 | 42 | 
 | 2022-11-13 | 1631 | 42 | 
 | 2022-11-12 | 1628 | 42 | 
 | 2022-11-11 | 1626 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1511 | 38 | 
 | 2022-10-17 | 1507 | 38 | 
 | 2022-10-16 | 1492 | 38 | 
-| 2022-10-15 | 1480 | 38 | 
 

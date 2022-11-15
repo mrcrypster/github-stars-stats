@@ -1,6 +1,6 @@
 # elcritch/fidgetty - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 48 | 1 | 
 | 2022-11-13 | 48 | 1 | 
 | 2022-11-12 | 48 | 1 | 
 | 2022-11-11 | 48 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 45 | 1 | 
 | 2022-10-17 | 44 | 1 | 
 | 2022-10-16 | 44 | 1 | 
-| 2022-10-15 | 44 | 1 | 
 

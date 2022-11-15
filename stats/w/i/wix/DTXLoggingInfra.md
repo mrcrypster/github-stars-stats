@@ -1,6 +1,6 @@
 # wix/DTXLoggingInfra - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 18 | 3 | 
 | 2022-11-13 | 18 | 3 | 
 | 2022-11-12 | 18 | 3 | 
 | 2022-11-11 | 18 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 18 | 3 | 
 | 2022-10-17 | 18 | 3 | 
 | 2022-10-16 | 18 | 3 | 
-| 2022-10-15 | 18 | 3 | 
 

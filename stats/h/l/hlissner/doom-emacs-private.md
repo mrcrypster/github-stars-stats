@@ -1,10 +1,10 @@
 # hlissner/doom-emacs-private - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 49
+☋ Forks: 48
 
-★ Stars: 143
+★ Stars: 145
 
 [Open repository](https://github.com/hlissner/doom-emacs-private)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 145 | 48 | 
 | 2022-11-13 | 143 | 49 | 
 | 2022-11-12 | 143 | 49 | 
 | 2022-11-11 | 143 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 143 | 49 | 
 | 2022-10-17 | 143 | 49 | 
 | 2022-10-16 | 143 | 49 | 
-| 2022-10-15 | 143 | 49 | 
 

@@ -1,10 +1,10 @@
 # 0xmostima/EBMP - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 3
 
-★ Stars: 69
+★ Stars: 68
 
 [Open repository](https://github.com/0xmostima/EBMP)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 68 | 3 | 
 | 2022-11-13 | 69 | 3 | 
 | 2022-11-12 | 69 | 3 | 
 | 2022-11-11 | 69 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 68 | 3 | 
 | 2022-10-17 | 68 | 3 | 
 | 2022-10-16 | 68 | 3 | 
-| 2022-10-15 | 68 | 3 | 
 

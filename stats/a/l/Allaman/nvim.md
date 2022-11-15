@@ -1,10 +1,10 @@
 # Allaman/nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 36
+☋ Forks: 37
 
-★ Stars: 275
+★ Stars: 277
 
 [Open repository](https://github.com/Allaman/nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 277 | 37 | 
 | 2022-11-13 | 275 | 36 | 
 | 2022-11-12 | 275 | 36 | 
 | 2022-11-11 | 274 | 36 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 256 | 34 | 
 | 2022-10-18 | 255 | 34 | 
 | 2022-10-17 | 256 | 34 | 
-| 2022-10-16 | 254 | 34 | 
 

@@ -1,10 +1,10 @@
 # lambdaclass/circom_export_to_cairo - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 2
 
-★ Stars: 29
+★ Stars: 28
 
 [Open repository](https://github.com/lambdaclass/circom_export_to_cairo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 28 | 2 | 
 | 2022-11-13 | 29 | 2 | 
 | 2022-11-12 | 29 | 2 | 
 | 2022-11-11 | 29 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 29 | 2 | 
 | 2022-10-17 | 29 | 2 | 
 | 2022-10-16 | 29 | 2 | 
-| 2022-10-15 | 29 | 2 | 
 

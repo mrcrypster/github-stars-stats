@@ -1,10 +1,10 @@
 # odyslam/foundry101 - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 2
 
-★ Stars: 86
+★ Stars: 85
 
 [Open repository](https://github.com/odyslam/foundry101)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 85 | 2 | 
 | 2022-11-13 | 86 | 2 | 
 | 2022-11-12 | 86 | 2 | 
 | 2022-11-11 | 86 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 86 | 2 | 
 | 2022-10-17 | 86 | 2 | 
 | 2022-10-16 | 86 | 2 | 
-| 2022-10-15 | 86 | 2 | 
 

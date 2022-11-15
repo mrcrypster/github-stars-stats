@@ -1,10 +1,10 @@
 # openreplay/openreplay - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 287
+☋ Forks: 288
 
-★ Stars: 6257
+★ Stars: 6267
 
 [Open repository](https://github.com/openreplay/openreplay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 6267 | 288 | 
 | 2022-11-13 | 6257 | 287 | 
 | 2022-11-12 | 6250 | 286 | 
 | 2022-11-10 | 6240 | 284 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 6053 | 271 | 
 | 2022-10-17 | 6044 | 271 | 
 | 2022-10-16 | 6029 | 271 | 
-| 2022-10-15 | 6024 | 271 | 
 

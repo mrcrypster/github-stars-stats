@@ -1,10 +1,10 @@
 # yoanbernabeu/Cronify - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 13
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/yoanbernabeu/Cronify)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 118 | 13 | 
 | 2022-11-13 | 117 | 13 | 
 | 2022-11-12 | 115 | 13 | 
 | 2022-11-11 | 115 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 99 | 9 | 
 | 2022-10-17 | 99 | 9 | 
 | 2022-10-16 | 99 | 9 | 
-| 2022-10-15 | 99 | 9 | 
 

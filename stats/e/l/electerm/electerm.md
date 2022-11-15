@@ -1,10 +1,10 @@
 # electerm/electerm - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 727
+☋ Forks: 726
 
-★ Stars: 7417
+★ Stars: 7428
 
 [Open repository](https://github.com/electerm/electerm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7428 | 726 | 
 | 2022-11-13 | 7417 | 727 | 
 | 2022-11-12 | 7407 | 725 | 
 | 2022-11-11 | 7402 | 725 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 7249 | 710 | 
 | 2022-10-17 | 7247 | 710 | 
 | 2022-10-16 | 7244 | 709 | 
-| 2022-10-15 | 7240 | 708 | 
 

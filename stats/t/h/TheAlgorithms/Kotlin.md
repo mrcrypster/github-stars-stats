@@ -1,10 +1,10 @@
 # TheAlgorithms/Kotlin - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 280
 
-★ Stars: 927
+★ Stars: 928
 
 [Open repository](https://github.com/TheAlgorithms/Kotlin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 928 | 280 | 
 | 2022-11-13 | 927 | 280 | 
 | 2022-11-12 | 926 | 280 | 
 | 2022-11-11 | 924 | 280 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 906 | 267 | 
 | 2022-10-17 | 905 | 266 | 
 | 2022-10-16 | 905 | 265 | 
-| 2022-10-15 | 905 | 265 | 
 

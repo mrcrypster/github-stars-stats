@@ -1,8 +1,8 @@
 # metaplex-foundation/metaplex - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 6606
+☋ Forks: 6605
 
 ★ Stars: 3224
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3224 | 6605 | 
 | 2022-11-13 | 3224 | 6606 | 
 | 2022-11-12 | 3224 | 6606 | 
 | 2022-11-11 | 3224 | 6606 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3215 | 6591 | 
 | 2022-10-17 | 3212 | 6592 | 
 | 2022-10-16 | 3212 | 6593 | 
-| 2022-10-15 | 3213 | 6592 | 
 

@@ -1,6 +1,6 @@
 # Authing/Authing - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 940 | 66 | 
 | 2022-11-13 | 940 | 66 | 
 | 2022-11-12 | 940 | 66 | 
 | 2022-11-11 | 939 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 918 | 64 | 
 | 2022-10-17 | 918 | 64 | 
 | 2022-10-16 | 918 | 64 | 
-| 2022-10-15 | 918 | 64 | 
 

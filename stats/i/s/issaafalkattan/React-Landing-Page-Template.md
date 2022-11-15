@@ -1,10 +1,10 @@
 # issaafalkattan/React-Landing-Page-Template - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 583
 
-★ Stars: 741
+★ Stars: 742
 
 [Open repository](https://github.com/issaafalkattan/React-Landing-Page-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 742 | 583 | 
 | 2022-11-13 | 741 | 583 | 
 | 2022-11-12 | 740 | 582 | 
 | 2022-11-11 | 740 | 581 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 729 | 568 | 
 | 2022-10-17 | 729 | 567 | 
 | 2022-10-16 | 729 | 566 | 
-| 2022-10-15 | 728 | 566 | 
 

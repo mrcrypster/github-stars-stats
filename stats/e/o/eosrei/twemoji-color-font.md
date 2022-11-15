@@ -1,6 +1,6 @@
 # eosrei/twemoji-color-font - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1366 | 56 | 
 | 2022-11-13 | 1366 | 56 | 
 | 2022-11-12 | 1365 | 56 | 
 | 2022-11-11 | 1362 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1352 | 55 | 
 | 2022-10-17 | 1351 | 55 | 
 | 2022-10-16 | 1350 | 55 | 
-| 2022-10-15 | 1350 | 55 | 
 

@@ -1,10 +1,10 @@
 # jonasschmedtmann/advanced-css-course - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 4706
+☋ Forks: 4705
 
-★ Stars: 3835
+★ Stars: 3838
 
 [Open repository](https://github.com/jonasschmedtmann/advanced-css-course)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3838 | 4705 | 
 | 2022-11-13 | 3835 | 4706 | 
 | 2022-11-12 | 3835 | 4702 | 
 | 2022-11-11 | 3834 | 4703 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3792 | 4660 | 
 | 2022-10-17 | 3787 | 4659 | 
 | 2022-10-16 | 3786 | 4660 | 
-| 2022-10-15 | 3784 | 4660 | 
 

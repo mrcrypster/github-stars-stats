@@ -1,8 +1,8 @@
 # ASHWIN990/ADB-Toolkit - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 136
+☋ Forks: 137
 
 ★ Stars: 691
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 691 | 137 | 
 | 2022-11-13 | 691 | 136 | 
 | 2022-11-12 | 689 | 136 | 
 | 2022-11-10 | 689 | 136 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 665 | 134 | 
 | 2022-10-17 | 664 | 134 | 
 | 2022-10-16 | 661 | 132 | 
-| 2022-10-15 | 660 | 132 | 
 

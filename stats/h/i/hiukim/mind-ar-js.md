@@ -1,10 +1,10 @@
 # hiukim/mind-ar-js - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 221
+☋ Forks: 222
 
-★ Stars: 1262
+★ Stars: 1263
 
 [Open repository](https://github.com/hiukim/mind-ar-js)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1263 | 222 | 
 | 2022-11-13 | 1262 | 221 | 
 | 2022-11-12 | 1260 | 220 | 
 | 2022-11-11 | 1258 | 220 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1209 | 207 | 
 | 2022-10-17 | 1207 | 206 | 
 | 2022-10-16 | 1203 | 206 | 
-| 2022-10-15 | 1202 | 205 | 
 

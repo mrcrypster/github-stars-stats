@@ -1,6 +1,6 @@
 # haskell/alex - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 254 | 74 | 
 | 2022-11-13 | 254 | 74 | 
 | 2022-11-12 | 254 | 74 | 
 | 2022-11-10 | 254 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 253 | 74 | 
 | 2022-10-17 | 253 | 74 | 
 | 2022-10-16 | 253 | 74 | 
-| 2022-10-15 | 253 | 74 | 
 

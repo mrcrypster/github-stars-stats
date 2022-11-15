@@ -1,10 +1,10 @@
 # yugabyte/yugabyte-db - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 858
 
-★ Stars: 7242
+★ Stars: 7243
 
 [Open repository](https://github.com/yugabyte/yugabyte-db)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7243 | 858 | 
 | 2022-11-13 | 7242 | 858 | 
 | 2022-11-12 | 7242 | 858 | 
 | 2022-11-11 | 7240 | 858 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 7171 | 851 | 
 | 2022-10-17 | 7171 | 850 | 
 | 2022-10-16 | 7163 | 850 | 
-| 2022-10-15 | 7159 | 850 | 
 

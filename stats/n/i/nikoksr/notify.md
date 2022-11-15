@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 14
 
 ☋ Forks: 119
 
-★ Stars: 1455
+★ Stars: 1462
 
 [Open repository](https://github.com/nikoksr/notify)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-14 | 1455 | 119 | 
+| 2022-11-14 | 1462 | 119 | 
 | 2022-11-13 | 1429 | 119 | 
 

@@ -1,10 +1,10 @@
 # mashirozx/Pixiv-Nginx - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 186
+☋ Forks: 187
 
-★ Stars: 1506
+★ Stars: 1507
 
 [Open repository](https://github.com/mashirozx/Pixiv-Nginx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1507 | 187 | 
 | 2022-11-13 | 1506 | 186 | 
 | 2022-11-12 | 1506 | 186 | 
 | 2022-11-11 | 1505 | 186 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1484 | 183 | 
 | 2022-10-17 | 1484 | 183 | 
 | 2022-10-16 | 1483 | 183 | 
-| 2022-10-15 | 1483 | 183 | 
 

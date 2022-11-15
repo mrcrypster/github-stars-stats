@@ -1,6 +1,6 @@
 # cncf/udpa - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 71
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 212 | 71 | 
 | 2022-11-13 | 212 | 71 | 
 | 2022-11-12 | 212 | 71 | 
 | 2022-11-11 | 212 | 71 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 211 | 71 | 
 | 2022-10-17 | 211 | 71 | 
 | 2022-10-16 | 211 | 71 | 
-| 2022-10-15 | 211 | 71 | 
 

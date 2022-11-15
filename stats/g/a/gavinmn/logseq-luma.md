@@ -1,6 +1,6 @@
 # gavinmn/logseq-luma - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 83 | 5 | 
 | 2022-11-13 | 83 | 5 | 
 | 2022-11-12 | 82 | 5 | 
 | 2022-11-11 | 82 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 79 | 4 | 
 | 2022-10-17 | 79 | 4 | 
 | 2022-10-16 | 79 | 4 | 
-| 2022-10-15 | 79 | 4 | 
 

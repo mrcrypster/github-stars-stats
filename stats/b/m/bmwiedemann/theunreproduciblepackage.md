@@ -1,6 +1,6 @@
 # bmwiedemann/theunreproduciblepackage - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 41 | 8 | 
 | 2022-11-13 | 41 | 8 | 
 | 2022-11-12 | 41 | 8 | 
 | 2022-11-11 | 41 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 41 | 8 | 
 | 2022-10-18 | 41 | 8 | 
 | 2022-10-17 | 41 | 8 | 
-| 2022-10-16 | 41 | 8 | 
 

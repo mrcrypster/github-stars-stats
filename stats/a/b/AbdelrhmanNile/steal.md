@@ -1,10 +1,10 @@
 # AbdelrhmanNile/steal - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 12
 
-★ Stars: 180
+★ Stars: 181
 
 [Open repository](https://github.com/AbdelrhmanNile/steal)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 181 | 12 | 
 | 2022-11-13 | 180 | 12 | 
 | 2022-11-12 | 179 | 12 | 
 | 2022-11-11 | 179 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 170 | 12 | 
 | 2022-10-17 | 170 | 12 | 
 | 2022-10-16 | 170 | 12 | 
-| 2022-10-15 | 170 | 12 | 
 

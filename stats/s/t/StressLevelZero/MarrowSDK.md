@@ -1,10 +1,10 @@
 # StressLevelZero/MarrowSDK - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 22
 
-★ Stars: 248
+★ Stars: 249
 
 [Open repository](https://github.com/StressLevelZero/MarrowSDK)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 249 | 22 | 
 | 2022-11-13 | 248 | 22 | 
 | 2022-11-12 | 248 | 22 | 
 | 2022-11-10 | 248 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 235 | 21 | 
 | 2022-10-17 | 232 | 21 | 
 | 2022-10-16 | 228 | 21 | 
-| 2022-10-15 | 226 | 20 | 
 

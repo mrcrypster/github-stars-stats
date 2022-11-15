@@ -1,10 +1,10 @@
 # rougier/book-mode - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 117
+★ Stars: 118
 
 [Open repository](https://github.com/rougier/book-mode)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 118 | 3 | 
 | 2022-11-14 | 117 | 3 | 
 | 2022-11-12 | 116 | 3 | 
 | 2022-11-11 | 115 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 106 | 2 | 
 | 2022-10-17 | 105 | 2 | 
 | 2022-10-16 | 105 | 2 | 
-| 2022-10-15 | 104 | 2 | 
 

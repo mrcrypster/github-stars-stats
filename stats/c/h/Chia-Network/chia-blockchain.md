@@ -1,10 +1,10 @@
 # Chia-Network/chia-blockchain - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 1950
+☋ Forks: 1951
 
-★ Stars: 10931
+★ Stars: 10928
 
 [Open repository](https://github.com/Chia-Network/chia-blockchain)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 10928 | 1951 | 
 | 2022-11-13 | 10931 | 1950 | 
 | 2022-11-12 | 10931 | 1949 | 
 | 2022-11-11 | 10930 | 1948 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 10931 | 1939 | 
 | 2022-10-17 | 10930 | 1940 | 
 | 2022-10-16 | 10931 | 1939 | 
-| 2022-10-15 | 10929 | 1938 | 
 

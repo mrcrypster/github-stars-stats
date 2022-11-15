@@ -1,6 +1,6 @@
 # luk4z7/go-concurrency-guide - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 109
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1899 | 109 | 
 | 2022-11-13 | 1899 | 109 | 
 | 2022-11-12 | 1898 | 109 | 
 | 2022-11-10 | 1897 | 109 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1882 | 108 | 
 | 2022-10-17 | 1879 | 108 | 
 | 2022-10-16 | 1878 | 108 | 
-| 2022-10-15 | 1876 | 108 | 
 

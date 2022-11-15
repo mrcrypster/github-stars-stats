@@ -1,6 +1,6 @@
 # Th30neAnd0nly/AIRAVAT - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 285 | 140 | 
 | 2022-11-13 | 285 | 140 | 
 | 2022-11-12 | 283 | 141 | 
 | 2022-11-11 | 284 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 255 | 115 | 
 | 2022-10-17 | 254 | 113 | 
 | 2022-10-16 | 251 | 113 | 
-| 2022-10-15 | 251 | 112 | 
 

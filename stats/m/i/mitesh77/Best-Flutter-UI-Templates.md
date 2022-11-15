@@ -1,10 +1,10 @@
 # mitesh77/Best-Flutter-UI-Templates - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 3722
+☋ Forks: 3723
 
-★ Stars: 16048
+★ Stars: 16049
 
 [Open repository](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 16049 | 3723 | 
 | 2022-11-13 | 16048 | 3722 | 
 | 2022-11-12 | 16042 | 3720 | 
 | 2022-11-11 | 16039 | 3718 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 15845 | 3673 | 
 | 2022-10-17 | 15831 | 3672 | 
 | 2022-10-16 | 15817 | 3670 | 
-| 2022-10-15 | 15808 | 3667 | 
 

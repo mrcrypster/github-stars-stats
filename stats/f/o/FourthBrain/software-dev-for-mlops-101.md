@@ -1,8 +1,8 @@
 # FourthBrain/software-dev-for-mlops-101 - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 60
+☋ Forks: 61
 
 ★ Stars: 181
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 181 | 61 | 
 | 2022-11-13 | 181 | 60 | 
 | 2022-11-12 | 181 | 60 | 
 | 2022-11-11 | 179 | 60 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 156 | 53 | 
 | 2022-10-17 | 154 | 53 | 
 | 2022-10-16 | 153 | 53 | 
-| 2022-10-15 | 153 | 53 | 
 

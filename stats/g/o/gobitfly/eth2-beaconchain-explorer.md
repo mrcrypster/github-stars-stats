@@ -1,10 +1,10 @@
 # gobitfly/eth2-beaconchain-explorer - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 273
+☋ Forks: 274
 
-★ Stars: 507
+★ Stars: 509
 
 [Open repository](https://github.com/gobitfly/eth2-beaconchain-explorer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 509 | 274 | 
 | 2022-11-13 | 507 | 273 | 
 | 2022-11-12 | 507 | 272 | 
 | 2022-11-11 | 507 | 272 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 494 | 260 | 
 | 2022-10-17 | 492 | 259 | 
 | 2022-10-16 | 493 | 257 | 
-| 2022-10-15 | 491 | 257 | 
 

@@ -1,10 +1,10 @@
 # jamealg/KT-companion - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 13
 
-★ Stars: 526
+★ Stars: 528
 
 [Open repository](https://github.com/jamealg/KT-companion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 528 | 13 | 
 | 2022-11-13 | 526 | 13 | 
 | 2022-11-12 | 526 | 13 | 
 | 2022-11-11 | 523 | 13 | 

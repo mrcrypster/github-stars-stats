@@ -1,10 +1,10 @@
 # ONLYOFFICE/DesktopEditors - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 251
 
-★ Stars: 1749
+★ Stars: 1751
 
 [Open repository](https://github.com/ONLYOFFICE/DesktopEditors)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1751 | 251 | 
 | 2022-11-13 | 1749 | 251 | 
 | 2022-11-12 | 1749 | 251 | 
 | 2022-11-11 | 1747 | 251 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1715 | 248 | 
 | 2022-10-17 | 1713 | 248 | 
 | 2022-10-16 | 1714 | 248 | 
-| 2022-10-15 | 1713 | 248 | 
 

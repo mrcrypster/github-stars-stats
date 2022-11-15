@@ -1,10 +1,10 @@
 # hackclub/sprig - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 162
+☋ Forks: 165
 
-★ Stars: 478
+★ Stars: 486
 
 [Open repository](https://github.com/hackclub/sprig)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 486 | 165 | 
 | 2022-11-13 | 478 | 162 | 
 | 2022-11-12 | 475 | 158 | 
 | 2022-11-11 | 467 | 154 | 

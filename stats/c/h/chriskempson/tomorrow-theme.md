@@ -1,10 +1,10 @@
 # chriskempson/tomorrow-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
-☋ Forks: 3247
+☋ Forks: 3248
 
-★ Stars: 13313
+★ Stars: 13315
 
 [Open repository](https://github.com/chriskempson/tomorrow-theme)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 13315 | 3248 | 
 | 2022-11-13 | 13313 | 3247 | 
 | 2022-11-12 | 13313 | 3247 | 
 | 2022-11-11 | 13311 | 3245 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 13286 | 3240 | 
 | 2022-10-17 | 13284 | 3240 | 
 | 2022-10-16 | 13281 | 3239 | 
-| 2022-10-15 | 13279 | 3238 | 
 

@@ -1,8 +1,8 @@
 # easyawslearn/Terraform-Tutorial - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 589
+☋ Forks: 594
 
 ★ Stars: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 92 | 594 | 
 | 2022-11-13 | 92 | 589 | 
 | 2022-11-12 | 92 | 589 | 
 | 2022-11-11 | 92 | 589 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 91 | 575 | 
 | 2022-10-17 | 91 | 574 | 
 | 2022-10-16 | 91 | 573 | 
-| 2022-10-15 | 91 | 573 | 
 

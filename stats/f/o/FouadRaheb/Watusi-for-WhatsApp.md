@@ -1,10 +1,10 @@
 # FouadRaheb/Watusi-for-WhatsApp - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 56
 
-★ Stars: 618
+★ Stars: 620
 
 [Open repository](https://github.com/FouadRaheb/Watusi-for-WhatsApp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 620 | 56 | 
 | 2022-11-13 | 618 | 56 | 
 | 2022-11-12 | 618 | 56 | 
 | 2022-11-11 | 616 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 594 | 55 | 
 | 2022-10-17 | 592 | 55 | 
 | 2022-10-16 | 590 | 54 | 
-| 2022-10-15 | 590 | 54 | 
 

@@ -1,10 +1,10 @@
 # zhanghao5683934/Meihu-Beautyface-sdk - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 53
 
-★ Stars: 194
+★ Stars: 195
 
 [Open repository](https://github.com/zhanghao5683934/Meihu-Beautyface-sdk)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 195 | 53 | 
 | 2022-11-13 | 194 | 53 | 
 | 2022-11-12 | 192 | 53 | 
 | 2022-11-11 | 191 | 52 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 175 | 46 | 
 | 2022-10-17 | 174 | 46 | 
 | 2022-10-16 | 173 | 46 | 
-| 2022-10-15 | 173 | 46 | 
 

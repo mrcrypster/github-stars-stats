@@ -1,10 +1,10 @@
 # JuliaML/MLUtils.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 14
 
-★ Stars: 67
+★ Stars: 69
 
 [Open repository](https://github.com/JuliaML/MLUtils.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 69 | 14 | 
 | 2022-11-14 | 67 | 14 | 
 | 2022-11-12 | 67 | 14 | 
 | 2022-11-11 | 67 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 62 | 13 | 
 | 2022-10-17 | 62 | 13 | 
 | 2022-10-16 | 62 | 13 | 
-| 2022-10-15 | 62 | 13 | 
 

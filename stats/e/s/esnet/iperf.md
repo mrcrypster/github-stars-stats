@@ -1,10 +1,10 @@
 # esnet/iperf - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1068
 
-★ Stars: 4834
+★ Stars: 4841
 
 [Open repository](https://github.com/esnet/iperf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4841 | 1068 | 
 | 2022-11-13 | 4834 | 1068 | 
 | 2022-11-12 | 4831 | 1068 | 
 | 2022-11-11 | 4830 | 1068 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4757 | 1063 | 
 | 2022-10-17 | 4755 | 1063 | 
 | 2022-10-16 | 4748 | 1063 | 
-| 2022-10-15 | 4743 | 1063 | 
 

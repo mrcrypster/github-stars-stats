@@ -1,10 +1,10 @@
 # grosser/maxitest - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 9
 
-★ Stars: 389
+★ Stars: 390
 
 [Open repository](https://github.com/grosser/maxitest)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 390 | 9 | 
 | 2022-11-13 | 389 | 9 | 
 | 2022-11-12 | 389 | 9 | 
 | 2022-11-11 | 388 | 9 | 

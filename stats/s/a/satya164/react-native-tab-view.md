@@ -1,10 +1,10 @@
 # satya164/react-native-tab-view - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1100
 
-★ Stars: 5090
+★ Stars: 5091
 
 [Open repository](https://github.com/satya164/react-native-tab-view)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 5091 | 1100 | 
 | 2022-11-13 | 5090 | 1100 | 
 | 2022-11-12 | 5086 | 1100 | 
 | 2022-11-11 | 5084 | 1100 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 5063 | 1094 | 
 | 2022-10-17 | 5061 | 1093 | 
 | 2022-10-16 | 5060 | 1093 | 
-| 2022-10-15 | 5057 | 1093 | 
 

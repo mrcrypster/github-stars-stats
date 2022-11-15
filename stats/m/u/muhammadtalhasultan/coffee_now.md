@@ -1,6 +1,6 @@
 # muhammadtalhasultan/coffee_now - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 24
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 65 | 24 | 
 | 2022-11-14 | 65 | 24 | 
 | 2022-11-12 | 65 | 24 | 
 | 2022-11-11 | 65 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 64 | 24 | 
 | 2022-10-17 | 64 | 24 | 
 | 2022-10-16 | 64 | 24 | 
-| 2022-10-15 | 64 | 24 | 
 

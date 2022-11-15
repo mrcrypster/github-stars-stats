@@ -1,10 +1,10 @@
 # tamilpp25/Grasscutter_Resources - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 445
 
-★ Stars: 1177
+★ Stars: 1180
 
 [Open repository](https://github.com/tamilpp25/Grasscutter_Resources)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1180 | 445 | 
 | 2022-11-13 | 1177 | 445 | 
 | 2022-11-12 | 1175 | 443 | 
 | 2022-11-11 | 1175 | 442 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1094 | 408 | 
 | 2022-10-17 | 1092 | 408 | 
 | 2022-10-16 | 1084 | 403 | 
-| 2022-10-15 | 1082 | 401 | 
 

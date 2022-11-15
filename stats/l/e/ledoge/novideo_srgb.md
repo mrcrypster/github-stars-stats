@@ -1,6 +1,6 @@
 # ledoge/novideo_srgb - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 16
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 420 | 16 | 
 | 2022-11-13 | 420 | 16 | 
 | 2022-11-12 | 419 | 16 | 
 | 2022-11-11 | 417 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 391 | 15 | 
 | 2022-10-17 | 390 | 15 | 
 | 2022-10-16 | 386 | 15 | 
-| 2022-10-15 | 385 | 15 | 
 

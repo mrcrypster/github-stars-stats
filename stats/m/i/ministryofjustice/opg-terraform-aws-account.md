@@ -1,6 +1,6 @@
 # ministryofjustice/opg-terraform-aws-account - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3 | 1 | 
 | 2022-11-13 | 3 | 1 | 
 | 2022-11-12 | 3 | 1 | 
 | 2022-11-11 | 3 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3 | 1 | 
 | 2022-10-17 | 3 | 1 | 
 | 2022-10-16 | 3 | 1 | 
-| 2022-10-15 | 3 | 1 | 
 

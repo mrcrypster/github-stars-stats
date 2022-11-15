@@ -1,10 +1,10 @@
 # tidyverse/dbplyr - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 142
 
-★ Stars: 379
+★ Stars: 380
 
 [Open repository](https://github.com/tidyverse/dbplyr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 380 | 142 | 
 | 2022-11-13 | 379 | 142 | 
 | 2022-11-12 | 379 | 142 | 
 | 2022-11-11 | 379 | 142 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 377 | 140 | 
 | 2022-10-17 | 377 | 140 | 
 | 2022-10-16 | 377 | 140 | 
-| 2022-10-15 | 377 | 140 | 
 

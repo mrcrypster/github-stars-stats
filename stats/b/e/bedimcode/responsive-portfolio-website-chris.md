@@ -1,8 +1,8 @@
 # bedimcode/responsive-portfolio-website-chris - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 28
+☋ Forks: 27
 
 ★ Stars: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 49 | 27 | 
 | 2022-11-13 | 49 | 28 | 
 | 2022-11-12 | 48 | 29 | 
 | 2022-11-10 | 48 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 41 | 25 | 
 | 2022-10-17 | 41 | 25 | 
 | 2022-10-16 | 41 | 25 | 
-| 2022-10-15 | 41 | 24 | 
 

@@ -1,10 +1,10 @@
 # chrisdee/Scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 158
+★ Stars: 159
 
 [Open repository](https://github.com/chrisdee/Scripts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 159 | 124 | 
 | 2022-11-13 | 158 | 123 | 
 | 2022-11-12 | 158 | 123 | 
 | 2022-11-11 | 158 | 122 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 158 | 120 | 
 | 2022-10-17 | 158 | 120 | 
 | 2022-10-16 | 158 | 120 | 
-| 2022-10-15 | 158 | 120 | 
 

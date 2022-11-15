@@ -1,6 +1,6 @@
 # pop-os/gtk-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 79
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 712 | 79 | 
 | 2022-11-13 | 712 | 79 | 
 | 2022-11-12 | 712 | 79 | 
 | 2022-11-11 | 712 | 79 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 711 | 80 | 
 | 2022-10-17 | 711 | 80 | 
 | 2022-10-16 | 710 | 80 | 
-| 2022-10-15 | 710 | 80 | 
 

@@ -1,10 +1,10 @@
 # Alcibiades-Capital/valorem-options-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 10
 
-★ Stars: 77
+★ Stars: 76
 
 [Open repository](https://github.com/Alcibiades-Capital/valorem-options-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 76 | 10 | 
 | 2022-11-13 | 77 | 10 | 
 | 2022-11-12 | 77 | 10 | 
 | 2022-11-11 | 77 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 76 | 10 | 
 | 2022-10-17 | 76 | 10 | 
 | 2022-10-16 | 76 | 10 | 
-| 2022-10-15 | 76 | 10 | 
 

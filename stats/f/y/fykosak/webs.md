@@ -1,6 +1,6 @@
 # fykosak/webs - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | - | 1 | 
 | 2022-11-13 | - | 1 | 
 | 2022-11-12 | - | 1 | 
 | 2022-11-11 | - | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | - | - | 
 | 2022-10-17 | - | - | 
 | 2022-10-16 | - | - | 
-| 2022-10-15 | - | - | 
 

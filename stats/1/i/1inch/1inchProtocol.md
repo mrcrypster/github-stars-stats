@@ -1,10 +1,10 @@
 # 1inch/1inchProtocol - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 233
 
-★ Stars: 439
+★ Stars: 440
 
 [Open repository](https://github.com/1inch/1inchProtocol)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 440 | 233 | 
 | 2022-11-13 | 439 | 233 | 
 | 2022-11-12 | 439 | 233 | 
 | 2022-11-11 | 439 | 233 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 439 | 233 | 
 | 2022-10-17 | 440 | 233 | 
 | 2022-10-16 | 440 | 234 | 
-| 2022-10-15 | 439 | 234 | 
 

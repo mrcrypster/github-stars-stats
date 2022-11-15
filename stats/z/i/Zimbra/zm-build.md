@@ -1,10 +1,10 @@
 # Zimbra/zm-build - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 65
 
-★ Stars: 113
+★ Stars: 112
 
 [Open repository](https://github.com/Zimbra/zm-build)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 112 | 65 | 
 | 2022-11-13 | 113 | 65 | 
 | 2022-11-12 | 113 | 65 | 
 | 2022-11-11 | 113 | 65 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 110 | 66 | 
 | 2022-10-17 | 110 | 66 | 
 | 2022-10-16 | 110 | 66 | 
-| 2022-10-15 | 110 | 66 | 
 

@@ -1,6 +1,6 @@
 # MetalPetal/MetalPetal - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 201
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1497 | 201 | 
 | 2022-11-13 | 1497 | 201 | 
 | 2022-11-12 | 1497 | 201 | 
 | 2022-11-11 | 1496 | 201 | 

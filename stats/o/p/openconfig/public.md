@@ -1,6 +1,6 @@
 # openconfig/public - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 561
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 761 | 561 | 
 | 2022-11-13 | 761 | 561 | 
 | 2022-11-12 | 761 | 561 | 
 | 2022-11-11 | 761 | 560 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 756 | 550 | 
 | 2022-10-17 | 755 | 550 | 
 | 2022-10-16 | 755 | 550 | 
-| 2022-10-15 | 755 | 550 | 
 

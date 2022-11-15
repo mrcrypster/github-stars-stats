@@ -1,6 +1,6 @@
 # nschum/fringe-helper.el - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 44 | 8 | 
 | 2022-11-13 | 44 | 8 | 
 | 2022-11-12 | 44 | 8 | 
 | 2022-11-11 | 44 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 44 | 8 | 
 | 2022-10-17 | 44 | 8 | 
 | 2022-10-16 | 44 | 8 | 
-| 2022-10-15 | 44 | 8 | 
 

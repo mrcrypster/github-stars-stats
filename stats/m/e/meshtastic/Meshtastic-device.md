@@ -1,10 +1,10 @@
 # meshtastic/Meshtastic-device - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 375
 
-★ Stars: 1821
+★ Stars: 1822
 
 [Open repository](https://github.com/meshtastic/Meshtastic-device)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1822 | 375 | 
 | 2022-11-14 | 1821 | 375 | 
 | 2022-11-12 | 1820 | 374 | 
 | 2022-11-11 | 1820 | 374 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 1793 | 362 | 
 | 2022-10-17 | 1793 | 361 | 
 | 2022-10-16 | 1793 | 361 | 
-| 2022-10-15 | 1792 | 361 | 
 

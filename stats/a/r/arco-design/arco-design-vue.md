@@ -1,10 +1,10 @@
 # arco-design/arco-design-vue - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 248
+☋ Forks: 249
 
-★ Stars: 1636
+★ Stars: 1638
 
 [Open repository](https://github.com/arco-design/arco-design-vue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1638 | 249 | 
 | 2022-11-13 | 1636 | 248 | 
 | 2022-11-12 | 1633 | 247 | 
 | 2022-11-11 | 1630 | 246 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1585 | 244 | 
 | 2022-10-17 | 1583 | 243 | 
 | 2022-10-16 | 1579 | 244 | 
-| 2022-10-15 | 1577 | 244 | 
 

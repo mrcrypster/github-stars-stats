@@ -1,6 +1,6 @@
 # hydescarf/Obsidian-Theme-Mado-Miniflow - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 99 | 7 | 
 | 2022-11-13 | 99 | 7 | 
 | 2022-11-12 | 98 | 7 | 
 | 2022-11-11 | 97 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 90 | 7 | 
 | 2022-10-17 | 89 | 7 | 
 | 2022-10-16 | 89 | 7 | 
-| 2022-10-15 | 89 | 7 | 
 

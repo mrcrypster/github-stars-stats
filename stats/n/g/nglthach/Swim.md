@@ -1,10 +1,10 @@
 # nglthach/Swim - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 6
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/nglthach/Swim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 25 | 6 | 
 | 2022-11-13 | 24 | 6 | 
 | 2022-11-12 | 24 | 6 | 
 | 2022-11-11 | 24 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 22 | 6 | 
 | 2022-10-18 | 22 | 6 | 
 | 2022-10-16 | 22 | 6 | 
-| 2022-10-15 | 22 | 6 | 
 

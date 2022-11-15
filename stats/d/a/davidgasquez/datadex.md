@@ -1,10 +1,10 @@
 # davidgasquez/datadex - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 3
 
-★ Stars: 71
+★ Stars: 72
 
 [Open repository](https://github.com/davidgasquez/datadex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 72 | 3 | 
 | 2022-11-14 | 71 | 3 | 
 | 2022-11-12 | 70 | 3 | 
 | 2022-11-11 | 70 | 3 | 

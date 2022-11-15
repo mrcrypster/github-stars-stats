@@ -1,6 +1,6 @@
 # Bhavya1912/Hacktober2k22 - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 76
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 21 | 76 | 
 | 2022-11-14 | 21 | 76 | 
 | 2022-11-12 | 21 | 77 | 
 | 2022-11-11 | 21 | 77 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 22 | 68 | 
 | 2022-10-17 | 22 | 68 | 
 | 2022-10-16 | 22 | 68 | 
-| 2022-10-15 | 22 | 67 | 
 

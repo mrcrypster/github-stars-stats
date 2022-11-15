@@ -1,10 +1,10 @@
 # dominikh/go-mode.el - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 204
 
-★ Stars: 1279
+★ Stars: 1278
 
 [Open repository](https://github.com/dominikh/go-mode.el)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1278 | 204 | 
 | 2022-11-13 | 1279 | 204 | 
 | 2022-11-12 | 1279 | 204 | 
 | 2022-11-11 | 1279 | 204 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1274 | 204 | 
 | 2022-10-17 | 1273 | 204 | 
 | 2022-10-16 | 1273 | 204 | 
-| 2022-10-15 | 1273 | 204 | 
 

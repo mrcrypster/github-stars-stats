@@ -1,10 +1,10 @@
 # vavkamil/awesome-bugbounty-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 342
 
-★ Stars: 1941
+★ Stars: 1944
 
 [Open repository](https://github.com/vavkamil/awesome-bugbounty-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1944 | 342 | 
 | 2022-11-13 | 1941 | 342 | 
 | 2022-11-12 | 1939 | 340 | 
 | 2022-11-11 | 1939 | 340 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1866 | 325 | 
 | 2022-10-17 | 1853 | 323 | 
 | 2022-10-16 | 1850 | 323 | 
-| 2022-10-15 | 1839 | 322 | 
 

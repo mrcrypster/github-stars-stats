@@ -1,10 +1,10 @@
 # explorium-ai/kube-auto-puller - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1
 
-★ Stars: 19
+★ Stars: 21
 
 [Open repository](https://github.com/explorium-ai/kube-auto-puller)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 21 | 1 | 
 | 2022-11-13 | 19 | 1 | 
 | 2022-11-12 | 19 | 1 | 
 | 2022-11-11 | 19 | 1 | 

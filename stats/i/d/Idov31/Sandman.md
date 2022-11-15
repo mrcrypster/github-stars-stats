@@ -1,10 +1,10 @@
 # Idov31/Sandman - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 56
+☋ Forks: 59
 
-★ Stars: 457
+★ Stars: 477
 
 [Open repository](https://github.com/Idov31/Sandman)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 477 | 59 | 
 | 2022-11-13 | 457 | 56 | 
 | 2022-11-12 | 450 | 55 | 
 | 2022-11-11 | 434 | 51 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 353 | 37 | 
 | 2022-10-17 | 353 | 37 | 
 | 2022-10-16 | 352 | 37 | 
-| 2022-10-15 | 351 | 37 | 
 

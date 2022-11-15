@@ -1,10 +1,10 @@
 # ThomasChln/mastodon - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 5
 
-★ Stars: 34
+★ Stars: 35
 
 [Open repository](https://github.com/ThomasChln/mastodon)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 35 | 5 | 
 | 2022-11-13 | 34 | 5 | 
 | 2022-11-12 | 34 | 5 | 
 | 2022-11-11 | 34 | 5 | 

@@ -1,6 +1,6 @@
 # Diptenusarkar/Website-Template - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 39 | 97 | 
 | 2022-11-13 | 39 | 97 | 
 | 2022-11-12 | 37 | 97 | 
 | 2022-11-11 | 37 | 97 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 30 | 85 | 
 | 2022-10-17 | 29 | 82 | 
 | 2022-10-16 | 29 | 78 | 
-| 2022-10-15 | 28 | 75 | 
 

@@ -1,10 +1,10 @@
 # miracleyoo/pytorch-lightning-template - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 102
+☋ Forks: 103
 
-★ Stars: 556
+★ Stars: 558
 
 [Open repository](https://github.com/miracleyoo/pytorch-lightning-template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 558 | 103 | 
 | 2022-11-13 | 556 | 102 | 
 | 2022-11-12 | 555 | 102 | 
 | 2022-11-11 | 555 | 100 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 511 | 91 | 
 | 2022-10-17 | 510 | 91 | 
 | 2022-10-16 | 507 | 89 | 
-| 2022-10-15 | 506 | 89 | 
 

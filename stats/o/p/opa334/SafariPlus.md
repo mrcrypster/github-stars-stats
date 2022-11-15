@@ -1,6 +1,6 @@
 # opa334/SafariPlus - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 69
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 254 | 69 | 
 | 2022-11-13 | 254 | 69 | 
 | 2022-11-12 | 253 | 69 | 
 | 2022-11-11 | 252 | 69 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 238 | 68 | 
 | 2022-10-17 | 237 | 68 | 
 | 2022-10-16 | 234 | 67 | 
-| 2022-10-15 | 234 | 66 | 
 

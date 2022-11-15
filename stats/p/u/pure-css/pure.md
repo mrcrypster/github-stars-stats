@@ -1,8 +1,8 @@
 # pure-css/pure - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 2508
+☋ Forks: 2509
 
 ★ Stars: 22618
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 22618 | 2509 | 
 | 2022-11-13 | 22618 | 2508 | 
 | 2022-11-12 | 22617 | 2507 | 
 | 2022-11-11 | 22616 | 2507 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 22585 | 2503 | 
 | 2022-10-17 | 22584 | 2503 | 
 | 2022-10-16 | 22583 | 2503 | 
-| 2022-10-15 | 22580 | 2501 | 
 

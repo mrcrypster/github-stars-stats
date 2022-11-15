@@ -1,10 +1,10 @@
 # jwiegley/use-package - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 253
 
-★ Stars: 4038
+★ Stars: 4039
 
 [Open repository](https://github.com/jwiegley/use-package)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4039 | 253 | 
 | 2022-11-13 | 4038 | 253 | 
 | 2022-11-12 | 4038 | 253 | 
 | 2022-11-11 | 4037 | 253 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4021 | 251 | 
 | 2022-10-17 | 4019 | 251 | 
 | 2022-10-16 | 4019 | 251 | 
-| 2022-10-15 | 4017 | 250 | 
 

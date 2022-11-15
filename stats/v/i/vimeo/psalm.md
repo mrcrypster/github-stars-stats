@@ -1,10 +1,10 @@
 # vimeo/psalm - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 559
+☋ Forks: 560
 
-★ Stars: 4974
+★ Stars: 4978
 
 [Open repository](https://github.com/vimeo/psalm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4978 | 560 | 
 | 2022-11-13 | 4974 | 559 | 
 | 2022-11-12 | 4974 | 560 | 
 | 2022-11-11 | 4974 | 561 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4938 | 556 | 
 | 2022-10-17 | 4937 | 555 | 
 | 2022-10-16 | 4936 | 554 | 
-| 2022-10-15 | 4935 | 554 | 
 

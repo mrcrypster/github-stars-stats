@@ -1,10 +1,10 @@
 # CTCaer/hekate - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 434
 
-★ Stars: 4185
+★ Stars: 4190
 
 [Open repository](https://github.com/CTCaer/hekate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4190 | 434 | 
 | 2022-11-13 | 4185 | 434 | 
 | 2022-11-12 | 4184 | 435 | 
 | 2022-11-10 | 4176 | 432 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4124 | 430 | 
 | 2022-10-17 | 4123 | 430 | 
 | 2022-10-16 | 4119 | 430 | 
-| 2022-10-15 | 4116 | 430 | 
 

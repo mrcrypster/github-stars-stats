@@ -1,6 +1,6 @@
 # movabletype/mt-dev - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 11 | 4 | 
 | 2022-11-13 | 11 | 4 | 
 | 2022-11-12 | 11 | 4 | 
 | 2022-11-11 | 11 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 11 | 4 | 
 | 2022-10-18 | 11 | 4 | 
 | 2022-10-16 | 11 | 4 | 
-| 2022-10-15 | 11 | 4 | 
 

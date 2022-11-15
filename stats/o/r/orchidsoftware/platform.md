@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 14
 
 ☋ Forks: 541
 
-★ Stars: 3371
+★ Stars: 3372
 
 [Open repository](https://github.com/orchidsoftware/platform)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-14 | 3371 | 541 | 
+| 2022-11-14 | 3372 | 541 | 
 | 2022-11-12 | 3366 | 540 | 
 | 2022-11-11 | 3363 | 540 | 
 | 2022-11-10 | 3361 | 541 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 3313 | 533 | 
 | 2022-10-17 | 3313 | 532 | 
 | 2022-10-16 | 3313 | 533 | 
-| 2022-10-15 | 3313 | 533 | 
 

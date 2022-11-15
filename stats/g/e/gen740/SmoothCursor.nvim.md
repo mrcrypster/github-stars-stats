@@ -1,10 +1,10 @@
 # gen740/SmoothCursor.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 7
 
-★ Stars: 163
+★ Stars: 162
 
 [Open repository](https://github.com/gen740/SmoothCursor.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 162 | 7 | 
 | 2022-11-13 | 163 | 7 | 
 | 2022-11-12 | 163 | 7 | 
 | 2022-11-11 | 163 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 149 | 7 | 
 | 2022-10-17 | 148 | 7 | 
 | 2022-10-16 | 148 | 7 | 
-| 2022-10-15 | 147 | 7 | 
 

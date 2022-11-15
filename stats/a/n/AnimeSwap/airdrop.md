@@ -1,10 +1,10 @@
 # AnimeSwap/airdrop - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 170
+☋ Forks: 174
 
-★ Stars: 27
+★ Stars: 28
 
 [Open repository](https://github.com/AnimeSwap/airdrop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 28 | 174 | 
 | 2022-11-13 | 27 | 170 | 
 | 2022-11-12 | 26 | 167 | 
 | 2022-11-11 | 25 | 166 | 

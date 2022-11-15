@@ -1,10 +1,10 @@
 # sh3d0ww01f/nim_shellloader - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 78
+★ Stars: 83
 
 [Open repository](https://github.com/sh3d0ww01f/nim_shellloader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 83 | 20 | 
 | 2022-11-13 | 78 | 19 | 
 | 2022-11-12 | 72 | 19 | 
 | 2022-11-11 | 72 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 70 | 19 | 
 | 2022-10-17 | 70 | 19 | 
 | 2022-10-16 | 70 | 19 | 
-| 2022-10-15 | 70 | 19 | 
 

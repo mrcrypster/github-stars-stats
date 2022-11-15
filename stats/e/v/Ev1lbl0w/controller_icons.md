@@ -1,10 +1,10 @@
 # Ev1lbl0w/controller_icons - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 2
 
-★ Stars: 20
+★ Stars: 24
 
 [Open repository](https://github.com/Ev1lbl0w/controller_icons)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 24 | 2 | 
 | 2022-11-13 | 20 | 2 | 
 | 2022-11-12 | 20 | 2 | 
 | 2022-11-11 | 20 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 19 | 1 | 
 | 2022-10-17 | 19 | 1 | 
 | 2022-10-16 | 19 | 1 | 
-| 2022-10-15 | 19 | 1 | 
 

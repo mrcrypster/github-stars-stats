@@ -1,6 +1,6 @@
 # Tichau/FileConverter - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 241
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2034 | 241 | 
 | 2022-11-14 | 2034 | 241 | 
 | 2022-11-12 | 2034 | 241 | 
 | 2022-11-11 | 2033 | 241 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 1940 | 230 | 
 | 2022-10-17 | 1936 | 230 | 
 | 2022-10-16 | 1935 | 230 | 
-| 2022-10-15 | 1935 | 229 | 
 

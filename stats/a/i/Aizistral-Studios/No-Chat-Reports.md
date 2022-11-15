@@ -1,10 +1,10 @@
 # Aizistral-Studios/No-Chat-Reports - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 65
 
-★ Stars: 815
+★ Stars: 817
 
 [Open repository](https://github.com/Aizistral-Studios/No-Chat-Reports)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 817 | 65 | 
 | 2022-11-13 | 815 | 65 | 
 | 2022-11-12 | 815 | 65 | 
 | 2022-11-11 | 815 | 64 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 798 | 60 | 
 | 2022-10-17 | 798 | 58 | 
 | 2022-10-16 | 797 | 58 | 
-| 2022-10-15 | 795 | 58 | 
 

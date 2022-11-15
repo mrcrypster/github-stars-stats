@@ -1,10 +1,10 @@
 # tidyverse/ggplot2 - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1909
 
-★ Stars: 5656
+★ Stars: 5661
 
 [Open repository](https://github.com/tidyverse/ggplot2)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 5661 | 1909 | 
 | 2022-11-13 | 5656 | 1909 | 
 | 2022-11-12 | 5656 | 1910 | 
 | 2022-11-11 | 5656 | 1910 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 5618 | 1898 | 
 | 2022-10-17 | 5617 | 1898 | 
 | 2022-10-16 | 5617 | 1898 | 
-| 2022-10-15 | 5616 | 1898 | 
 

@@ -1,6 +1,6 @@
 # MicrosoftDocs/microsoft-365-docs-pr.nb-NO - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4 | 1 | 
 | 2022-11-13 | 4 | 1 | 
 | 2022-11-12 | 4 | 1 | 
 | 2022-11-11 | 4 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3 | 1 | 
 | 2022-10-17 | 3 | 1 | 
 | 2022-10-16 | 3 | 1 | 
-| 2022-10-15 | 3 | 1 | 
 

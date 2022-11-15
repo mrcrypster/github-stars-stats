@@ -1,6 +1,6 @@
 # mochi/mochiweb - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 476
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 1822 | 476 | 
 | 2022-11-13 | 1822 | 476 | 
 | 2022-11-12 | 1822 | 476 | 
 | 2022-11-11 | 1822 | 476 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 1820 | 477 | 
 | 2022-10-17 | 1820 | 477 | 
 | 2022-10-16 | 1819 | 477 | 
-| 2022-10-15 | 1819 | 477 | 
 

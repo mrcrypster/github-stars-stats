@@ -1,6 +1,6 @@
 # rockthejvm/cats-course - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 52
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 42 | 52 | 
 | 2022-11-14 | 42 | 52 | 
 | 2022-11-12 | 42 | 52 | 
 | 2022-11-11 | 42 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 41 | 52 | 
 | 2022-10-17 | 41 | 52 | 
 | 2022-10-16 | 41 | 52 | 
-| 2022-10-15 | 41 | 52 | 
 

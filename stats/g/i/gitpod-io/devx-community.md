@@ -1,6 +1,6 @@
 # gitpod-io/devx-community - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 7 | 4 | 
 | 2022-11-13 | 7 | 4 | 
 | 2022-11-12 | 7 | 4 | 
 | 2022-11-11 | 7 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 7 | 4 | 
 | 2022-10-18 | 7 | 3 | 
 | 2022-10-17 | 7 | 3 | 
-| 2022-10-15 | 7 | 3 | 
 

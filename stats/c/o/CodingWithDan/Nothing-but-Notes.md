@@ -1,8 +1,8 @@
 # CodingWithDan/Nothing-but-Notes - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3 | 4 | 
 | 2022-11-13 | 3 | 5 | 
 | 2022-11-12 | 3 | 5 | 
 | 2022-11-11 | 3 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3 | 5 | 
 | 2022-10-17 | 3 | 5 | 
 | 2022-10-16 | 3 | 5 | 
-| 2022-10-15 | 3 | 5 | 
 

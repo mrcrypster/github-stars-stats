@@ -1,10 +1,10 @@
 # AndyGlx/FullControl-GCode-Designer - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 53
 
-★ Stars: 367
+★ Stars: 368
 
 [Open repository](https://github.com/AndyGlx/FullControl-GCode-Designer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 368 | 53 | 
 | 2022-11-13 | 367 | 53 | 
 | 2022-11-12 | 367 | 53 | 
 | 2022-11-10 | 367 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 353 | 52 | 
 | 2022-10-17 | 353 | 52 | 
 | 2022-10-16 | 353 | 53 | 
-| 2022-10-15 | 351 | 53 | 
 

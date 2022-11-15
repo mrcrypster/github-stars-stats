@@ -1,10 +1,10 @@
 # xcad2k/videos - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 62
 
-★ Stars: 130
+★ Stars: 132
 
 [Open repository](https://github.com/xcad2k/videos)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 132 | 62 | 
 | 2022-11-13 | 130 | 62 | 
 | 2022-11-12 | 127 | 62 | 
 | 2022-11-11 | 125 | 62 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 93 | 41 | 
 | 2022-10-17 | 92 | 41 | 
 | 2022-10-16 | 89 | 40 | 
-| 2022-10-15 | 88 | 40 | 
 

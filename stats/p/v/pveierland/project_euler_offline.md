@@ -1,10 +1,10 @@
 # pveierland/project_euler_offline - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/pveierland/project_euler_offline)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 29 | - | 
 | 2022-11-13 | 28 | - | 
 | 2022-11-12 | 28 | - | 
 | 2022-11-11 | 28 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 27 | - | 
 | 2022-10-18 | 27 | - | 
 | 2022-10-17 | 27 | - | 
-| 2022-10-16 | 27 | - | 
 

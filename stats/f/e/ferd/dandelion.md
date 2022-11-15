@@ -1,6 +1,6 @@
 # ferd/dandelion - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 36 | 2 | 
 | 2022-11-13 | 36 | 2 | 
 | 2022-11-12 | 36 | 2 | 
 | 2022-11-11 | 36 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 36 | 2 | 
 | 2022-10-17 | 36 | 2 | 
 | 2022-10-16 | 36 | 2 | 
-| 2022-10-15 | 36 | 2 | 
 

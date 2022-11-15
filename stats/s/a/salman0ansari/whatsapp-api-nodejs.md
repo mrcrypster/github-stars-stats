@@ -1,10 +1,10 @@
 # salman0ansari/whatsapp-api-nodejs - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 208
 
-★ Stars: 418
+★ Stars: 419
 
 [Open repository](https://github.com/salman0ansari/whatsapp-api-nodejs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 419 | 208 | 
 | 2022-11-13 | 418 | 208 | 
 | 2022-11-12 | 418 | 208 | 
 | 2022-11-11 | 418 | 207 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 385 | 190 | 
 | 2022-10-17 | 385 | 190 | 
 | 2022-10-16 | 384 | 190 | 
-| 2022-10-15 | 384 | 189 | 
 

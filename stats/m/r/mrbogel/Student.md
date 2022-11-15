@@ -1,6 +1,6 @@
 # mrbogel/Student - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 150
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | - | 150 | 
 | 2022-11-13 | - | 150 | 
 | 2022-11-12 | - | 150 | 
 | 2022-11-11 | - | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | - | 149 | 
 | 2022-10-17 | - | 149 | 
 | 2022-10-16 | - | 149 | 
-| 2022-10-15 | - | 150 | 
 

@@ -1,8 +1,8 @@
 # scalatest/scalatest - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 323
+☋ Forks: 322
 
 ★ Stars: 1068
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1068 | 322 | 
 | 2022-11-14 | 1068 | 323 | 
 | 2022-11-13 | 1068 | 323 | 
 | 2022-11-11 | 1069 | 323 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 1067 | 320 | 
 | 2022-10-17 | 1067 | 320 | 
 | 2022-10-16 | 1067 | 320 | 
-| 2022-10-15 | 1067 | 320 | 
 

@@ -1,10 +1,10 @@
 # Th3Wall/Fakeflix - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 643
 
-★ Stars: 4736
+★ Stars: 4738
 
 [Open repository](https://github.com/Th3Wall/Fakeflix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4738 | 643 | 
 | 2022-11-13 | 4736 | 643 | 
 | 2022-11-12 | 4735 | 643 | 
 | 2022-11-11 | 4735 | 643 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 4714 | 638 | 
 | 2022-10-18 | 4713 | 636 | 
 | 2022-10-17 | 4712 | 636 | 
-| 2022-10-15 | 4711 | 635 | 
 

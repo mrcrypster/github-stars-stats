@@ -1,10 +1,10 @@
 # jorgebucaran/awsm.fish - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 112
 
-★ Stars: 3179
+★ Stars: 3180
 
 [Open repository](https://github.com/jorgebucaran/awsm.fish)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 3180 | 112 | 
 | 2022-11-13 | 3179 | 112 | 
 | 2022-11-12 | 3179 | 112 | 
 | 2022-11-11 | 3176 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 3129 | 112 | 
 | 2022-10-17 | 3125 | 112 | 
 | 2022-10-16 | 3126 | 112 | 
-| 2022-10-15 | 3126 | 114 | 
 

@@ -1,10 +1,10 @@
 # peng-zhihui/HelloWord-Keyboard - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 679
+☋ Forks: 683
 
-★ Stars: 4231
+★ Stars: 4241
 
 [Open repository](https://github.com/peng-zhihui/HelloWord-Keyboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4241 | 683 | 
 | 2022-11-13 | 4231 | 679 | 
 | 2022-11-12 | 4225 | 677 | 
 | 2022-11-11 | 4214 | 674 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4076 | 648 | 
 | 2022-10-17 | 4071 | 646 | 
 | 2022-10-16 | 4057 | 645 | 
-| 2022-10-15 | 4050 | 644 | 
 

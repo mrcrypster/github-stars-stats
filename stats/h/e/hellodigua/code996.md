@@ -1,10 +1,10 @@
 # hellodigua/code996 - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 43
 
-★ Stars: 1127
+★ Stars: 1131
 
 [Open repository](https://github.com/hellodigua/code996)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1131 | 43 | 
 | 2022-11-14 | 1127 | 43 | 
 | 2022-11-12 | 1126 | 43 | 
 | 2022-11-11 | 1127 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 1104 | 42 | 
 | 2022-10-17 | 1098 | 42 | 
 | 2022-10-16 | 1094 | 42 | 
-| 2022-10-15 | 1094 | 42 | 
 

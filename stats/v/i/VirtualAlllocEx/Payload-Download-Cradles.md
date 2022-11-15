@@ -1,6 +1,6 @@
 # VirtualAlllocEx/Payload-Download-Cradles - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 204 | 42 | 
 | 2022-11-13 | 204 | 42 | 
 | 2022-11-12 | 203 | 42 | 
 | 2022-11-11 | 203 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-19 | 170 | 37 | 
 | 2022-10-18 | 169 | 37 | 
 | 2022-10-17 | 169 | 37 | 
-| 2022-10-16 | 169 | 37 | 
 

@@ -1,6 +1,6 @@
 # protonKitto/eating_Out - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | - | 54 | 
 | 2022-11-13 | - | 54 | 
 | 2022-11-12 | - | 54 | 
 | 2022-11-11 | - | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | - | 50 | 
 | 2022-10-17 | - | 50 | 
 | 2022-10-16 | - | 50 | 
-| 2022-10-15 | - | 50 | 
 

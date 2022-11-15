@@ -1,6 +1,6 @@
 # stoplightio/prism - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 274
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3210 | 274 | 
 | 2022-11-14 | 3210 | 274 | 
 | 2022-11-12 | 3206 | 274 | 
 | 2022-11-11 | 3206 | 274 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-18 | 3160 | 266 | 
 | 2022-10-17 | 3161 | 266 | 
 | 2022-10-16 | 3161 | 266 | 
-| 2022-10-15 | 3160 | 266 | 
 

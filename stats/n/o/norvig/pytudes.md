@@ -1,10 +1,10 @@
 # norvig/pytudes - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 2234
+☋ Forks: 2233
 
-★ Stars: 19289
+★ Stars: 19291
 
 [Open repository](https://github.com/norvig/pytudes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 19291 | 2233 | 
 | 2022-11-13 | 19289 | 2234 | 
 | 2022-11-12 | 19289 | 2233 | 
 | 2022-11-11 | 19286 | 2232 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 19216 | 2227 | 
 | 2022-10-17 | 19217 | 2227 | 
 | 2022-10-16 | 19216 | 2225 | 
-| 2022-10-15 | 19213 | 2225 | 
 

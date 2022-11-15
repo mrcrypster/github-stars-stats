@@ -1,10 +1,10 @@
 # RobotsAndPencils/XcodesApp - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 179
 
-★ Stars: 4307
+★ Stars: 4312
 
 [Open repository](https://github.com/RobotsAndPencils/XcodesApp)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 4312 | 179 | 
 | 2022-11-13 | 4307 | 179 | 
 | 2022-11-12 | 4305 | 179 | 
 | 2022-11-11 | 4300 | 178 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 4154 | 165 | 
 | 2022-10-17 | 4143 | 165 | 
 | 2022-10-16 | 4139 | 165 | 
-| 2022-10-15 | 4136 | 164 | 
 

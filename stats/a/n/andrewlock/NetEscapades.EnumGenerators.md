@@ -1,10 +1,10 @@
 # andrewlock/NetEscapades.EnumGenerators - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
 ☋ Forks: 32
 
-★ Stars: 668
+★ Stars: 669
 
 [Open repository](https://github.com/andrewlock/NetEscapades.EnumGenerators)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 669 | 32 | 
 | 2022-11-13 | 668 | 32 | 
 | 2022-11-12 | 667 | 32 | 
 | 2022-11-11 | 666 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 13
 | 2022-10-18 | 653 | 30 | 
 | 2022-10-17 | 652 | 29 | 
 | 2022-10-16 | 651 | 29 | 
-| 2022-10-15 | 651 | 29 | 
 

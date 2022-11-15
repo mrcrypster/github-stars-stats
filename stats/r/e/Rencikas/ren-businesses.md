@@ -1,8 +1,8 @@
 # Rencikas/ren-businesses - stars & forks statistics
 
-Stats updated on Nov 2022, 13
+Stats updated on Nov 2022, 14
 
-☋ Forks: 17
+☋ Forks: 18
 
 ★ Stars: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 13
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-14 | 28 | 18 | 
 | 2022-11-13 | 28 | 17 | 
 | 2022-11-12 | 28 | 18 | 
 | 2022-11-11 | 27 | 18 | 
