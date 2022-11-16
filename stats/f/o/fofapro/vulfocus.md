@@ -1,10 +1,10 @@
 # fofapro/vulfocus - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 410
+☋ Forks: 411
 
-★ Stars: 2500
+★ Stars: 2501
 
 [Open repository](https://github.com/fofapro/vulfocus)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2501 | 411 | 
 | 2022-11-14 | 2500 | 410 | 
 | 2022-11-13 | 2498 | 410 | 
 | 2022-11-12 | 2497 | 410 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2461 | 409 | 
 | 2022-10-18 | 2460 | 408 | 
 | 2022-10-17 | 2458 | 408 | 
-| 2022-10-16 | 2458 | 408 | 
 

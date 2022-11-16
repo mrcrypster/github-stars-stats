@@ -1,8 +1,8 @@
 # dexidp/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 58
+☋ Forks: 59
 
 ★ Stars: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 29 | 59 | 
 | 2022-11-14 | 29 | 58 | 
 | 2022-11-13 | 29 | 58 | 
 | 2022-11-12 | 29 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 29 | 58 | 
 | 2022-10-18 | 29 | 58 | 
 | 2022-10-17 | 29 | 58 | 
-| 2022-10-16 | 29 | 58 | 
 

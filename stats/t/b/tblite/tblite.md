@@ -1,6 +1,6 @@
 # tblite/tblite - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 33 | 17 | 
 | 2022-11-14 | 33 | 17 | 
 | 2022-11-13 | 33 | 17 | 
 | 2022-11-12 | 33 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 32 | 16 | 
 | 2022-10-18 | 32 | 15 | 
 | 2022-10-17 | 32 | 15 | 
-| 2022-10-16 | 31 | 15 | 
 

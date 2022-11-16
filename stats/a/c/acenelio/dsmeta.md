@@ -1,10 +1,10 @@
 # acenelio/dsmeta - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 12
+☋ Forks: 13
 
-★ Stars: 25
+★ Stars: 27
 
 [Open repository](https://github.com/acenelio/dsmeta)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 27 | 13 | 
 | 2022-11-14 | 25 | 12 | 
 | 2022-11-13 | 25 | 12 | 
 | 2022-11-12 | 25 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 25 | 12 | 
 | 2022-10-19 | 25 | 12 | 
 | 2022-10-18 | 25 | 12 | 
-| 2022-10-17 | 25 | 12 | 
 

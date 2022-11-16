@@ -1,10 +1,10 @@
 # SanderMertens/flecs - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 242
+☋ Forks: 243
 
-★ Stars: 3336
+★ Stars: 3338
 
 [Open repository](https://github.com/SanderMertens/flecs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3338 | 243 | 
 | 2022-11-14 | 3336 | 242 | 
 | 2022-11-13 | 3336 | 242 | 
 | 2022-11-12 | 3334 | 242 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 3255 | 230 | 
 | 2022-10-18 | 3250 | 230 | 
 | 2022-10-17 | 3247 | 230 | 
-| 2022-10-16 | 3224 | 228 | 
 

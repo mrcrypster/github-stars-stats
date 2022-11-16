@@ -1,8 +1,8 @@
 # iuricode/readme-template - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 2682
+☋ Forks: 2685
 
 ★ Stars: 1981
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1981 | 2685 | 
 | 2022-11-14 | 1981 | 2682 | 
 | 2022-11-13 | 1976 | 2678 | 
 | 2022-11-12 | 1975 | 2674 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1902 | 2569 | 
 | 2022-10-18 | 1899 | 2569 | 
 | 2022-10-17 | 1897 | 2569 | 
-| 2022-10-16 | 1893 | 2565 | 
 

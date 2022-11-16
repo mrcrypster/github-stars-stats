@@ -1,10 +1,10 @@
 # C0nw0nk/Nginx-Lua-Anti-DDoS - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 216
 
-★ Stars: 712
+★ Stars: 713
 
 [Open repository](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 713 | 216 | 
 | 2022-11-14 | 712 | 216 | 
 | 2022-11-13 | 711 | 216 | 
 | 2022-11-12 | 710 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 682 | 212 | 
 | 2022-10-18 | 681 | 211 | 
 | 2022-10-17 | 681 | 211 | 
-| 2022-10-16 | 681 | 211 | 
 

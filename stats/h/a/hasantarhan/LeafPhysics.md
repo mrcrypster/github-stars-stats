@@ -1,10 +1,10 @@
 # hasantarhan/LeafPhysics - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 194
+★ Stars: 197
 
 [Open repository](https://github.com/hasantarhan/LeafPhysics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 197 | 28 | 
 | 2022-11-14 | 194 | 27 | 
 | 2022-11-13 | 192 | 26 | 
 | 2022-11-12 | 188 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 94 | 16 | 
 | 2022-10-18 | 94 | 16 | 
 | 2022-10-17 | 93 | 16 | 
-| 2022-10-16 | 88 | 16 | 
 

@@ -1,10 +1,10 @@
 # aolofsson/awesome-hardware-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 66
 
-★ Stars: 1060
+★ Stars: 1059
 
 [Open repository](https://github.com/aolofsson/awesome-hardware-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1059 | 66 | 
 | 2022-11-14 | 1060 | 66 | 
 | 2022-11-13 | 1060 | 66 | 
 | 2022-11-12 | 1060 | 66 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1049 | 66 | 
 | 2022-10-18 | 1049 | 66 | 
 | 2022-10-17 | 1049 | 66 | 
-| 2022-10-16 | 1049 | 66 | 
 

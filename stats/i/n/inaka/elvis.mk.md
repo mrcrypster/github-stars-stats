@@ -1,6 +1,6 @@
 # inaka/elvis.mk - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5 | 8 | 
 | 2022-11-14 | 5 | 8 | 
 | 2022-11-13 | 5 | 8 | 
 | 2022-11-12 | 5 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 5 | 7 | 
 | 2022-10-18 | 5 | 7 | 
 | 2022-10-17 | 5 | 7 | 
-| 2022-10-16 | 5 | 7 | 
 

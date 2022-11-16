@@ -1,10 +1,10 @@
 # LaravelDaily/Best-Laravel-Packages - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 32
 
-★ Stars: 266
+★ Stars: 267
 
 [Open repository](https://github.com/LaravelDaily/Best-Laravel-Packages)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 267 | 32 | 
 | 2022-11-14 | 266 | 32 | 
 | 2022-11-13 | 266 | 32 | 
 | 2022-11-11 | 265 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 258 | 31 | 
 | 2022-10-18 | 258 | 31 | 
 | 2022-10-17 | 258 | 31 | 
-| 2022-10-16 | 256 | 31 | 
 

@@ -1,6 +1,6 @@
 # nwchemgit/nwchem - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 141
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 355 | 141 | 
 | 2022-11-14 | 355 | 141 | 
 | 2022-11-13 | 355 | 141 | 
 | 2022-11-12 | 355 | 141 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 350 | 140 | 
 | 2022-10-18 | 350 | 140 | 
 | 2022-10-17 | 349 | 140 | 
-| 2022-10-16 | 349 | 140 | 
 

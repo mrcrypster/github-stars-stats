@@ -1,10 +1,10 @@
 # RootMyTV/RootMyTV.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 42
 
-★ Stars: 1619
+★ Stars: 1621
 
 [Open repository](https://github.com/RootMyTV/RootMyTV.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1621 | 42 | 
 | 2022-11-14 | 1619 | 42 | 
 | 2022-11-13 | 1619 | 42 | 
 | 2022-11-12 | 1619 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1564 | 41 | 
 | 2022-10-18 | 1562 | 41 | 
 | 2022-10-17 | 1558 | 39 | 
-| 2022-10-16 | 1556 | 39 | 
 

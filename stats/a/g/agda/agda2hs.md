@@ -1,10 +1,10 @@
 # agda/agda2hs - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 14
+☋ Forks: 15
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/agda/agda2hs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 97 | 15 | 
 | 2022-11-14 | 96 | 14 | 
 | 2022-11-12 | 96 | 14 | 
 | 2022-11-11 | 96 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 85 | 12 | 
 | 2022-10-18 | 85 | 12 | 
 | 2022-10-17 | 85 | 12 | 
-| 2022-10-16 | 85 | 12 | 
 

@@ -1,10 +1,10 @@
 # vladmandic/face-api - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 78
 
-★ Stars: 370
+★ Stars: 371
 
 [Open repository](https://github.com/vladmandic/face-api)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 371 | 78 | 
 | 2022-11-14 | 370 | 78 | 
 | 2022-11-13 | 370 | 78 | 
 | 2022-11-12 | 370 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 361 | 74 | 
 | 2022-10-18 | 359 | 74 | 
 | 2022-10-17 | 358 | 74 | 
-| 2022-10-16 | 357 | 72 | 
 

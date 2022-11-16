@@ -1,10 +1,10 @@
 # slick/slick - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 605
 
-★ Stars: 2572
+★ Stars: 2571
 
 [Open repository](https://github.com/slick/slick)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2571 | 605 | 
 | 2022-11-14 | 2572 | 605 | 
 | 2022-11-13 | 2572 | 605 | 
 | 2022-11-12 | 2573 | 605 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2569 | 601 | 
 | 2022-10-18 | 2567 | 600 | 
 | 2022-10-17 | 2567 | 600 | 
-| 2022-10-16 | 2567 | 600 | 
 

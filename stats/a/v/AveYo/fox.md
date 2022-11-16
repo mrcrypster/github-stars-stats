@@ -1,10 +1,10 @@
 # AveYo/fox - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 39
 
-★ Stars: 216
+★ Stars: 217
 
 [Open repository](https://github.com/AveYo/fox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 217 | 39 | 
 | 2022-11-14 | 216 | 39 | 
 | 2022-11-13 | 216 | 39 | 
 | 2022-11-11 | 214 | 39 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 202 | 36 | 
 | 2022-10-18 | 201 | 36 | 
 | 2022-10-17 | 201 | 36 | 
-| 2022-10-16 | 201 | 35 | 
 

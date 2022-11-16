@@ -1,10 +1,10 @@
 # Aerthas/UNITY-Arc-system-Works-Shader - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 45
 
-★ Stars: 277
+★ Stars: 278
 
 [Open repository](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 278 | 45 | 
 | 2022-11-15 | 277 | 45 | 
 | 2022-11-13 | 277 | 45 | 
 | 2022-11-12 | 276 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 269 | 44 | 
 | 2022-10-18 | 269 | 44 | 
 | 2022-10-17 | 269 | 44 | 
-| 2022-10-16 | 269 | 44 | 
 

@@ -1,6 +1,6 @@
 # JPHaus/data-engineering-wiki - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 367 | 25 | 
 | 2022-11-14 | 367 | 25 | 
 | 2022-11-13 | 365 | 25 | 
 | 2022-11-12 | 365 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 344 | 22 | 
 | 2022-10-18 | 342 | 22 | 
 | 2022-10-17 | 339 | 22 | 
-| 2022-10-16 | 339 | 22 | 
 

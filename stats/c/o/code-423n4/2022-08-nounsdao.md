@@ -1,6 +1,6 @@
 # code-423n4/2022-08-nounsdao - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5 | 1 | 
 | 2022-11-14 | 5 | 1 | 
 | 2022-11-12 | 5 | 1 | 
 | 2022-11-11 | 5 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 4 | 1 | 
 | 2022-10-18 | 4 | 1 | 
 | 2022-10-17 | 4 | 1 | 
-| 2022-10-16 | 4 | 1 | 
 

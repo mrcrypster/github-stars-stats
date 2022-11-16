@@ -1,10 +1,10 @@
 # doctest/doctest - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 531
+☋ Forks: 533
 
-★ Stars: 4329
+★ Stars: 4339
 
 [Open repository](https://github.com/doctest/doctest)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 4339 | 533 | 
 | 2022-11-15 | 4329 | 531 | 
 | 2022-11-13 | 4317 | 532 | 
 | 2022-11-12 | 4313 | 531 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 4269 | 525 | 
 | 2022-10-18 | 4268 | 524 | 
 | 2022-10-17 | 4264 | 525 | 
-| 2022-10-16 | 4262 | 525 | 
 

@@ -1,6 +1,6 @@
 # overtake/TelegramSwift - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 687
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 4068 | 687 | 
 | 2022-11-14 | 4068 | 687 | 
 | 2022-11-13 | 4067 | 687 | 
 | 2022-11-12 | 4065 | 687 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 4013 | 678 | 
 | 2022-10-18 | 4011 | 679 | 
 | 2022-10-17 | 4012 | 679 | 
-| 2022-10-16 | 4010 | 678 | 
 

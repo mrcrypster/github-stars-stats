@@ -1,10 +1,10 @@
 # binance/binance-spot-api-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1045
 
-★ Stars: 2858
+★ Stars: 2866
 
 [Open repository](https://github.com/binance/binance-spot-api-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2866 | 1045 | 
 | 2022-11-14 | 2858 | 1045 | 
 | 2022-11-13 | 2857 | 1046 | 
 | 2022-11-12 | 2857 | 1046 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2824 | 1034 | 
 | 2022-10-18 | 2820 | 1034 | 
 | 2022-10-17 | 2815 | 1033 | 
-| 2022-10-16 | 2812 | 1032 | 
 

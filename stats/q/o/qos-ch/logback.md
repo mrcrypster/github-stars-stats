@@ -1,8 +1,8 @@
 # qos-ch/logback - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 1171
+☋ Forks: 1170
 
 ★ Stars: 2582
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2582 | 1170 | 
 | 2022-11-14 | 2582 | 1171 | 
 | 2022-11-13 | 2582 | 1172 | 
 | 2022-11-12 | 2581 | 1173 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2562 | 1170 | 
 | 2022-10-18 | 2560 | 1169 | 
 | 2022-10-17 | 2559 | 1168 | 
-| 2022-10-16 | 2557 | 1168 | 
 

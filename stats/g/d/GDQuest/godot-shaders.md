@@ -1,6 +1,6 @@
 # GDQuest/godot-shaders - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1882 | 138 | 
 | 2022-11-14 | 1882 | 138 | 
 | 2022-11-13 | 1878 | 137 | 
 | 2022-11-12 | 1874 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1846 | 135 | 
 | 2022-10-18 | 1846 | 135 | 
 | 2022-10-17 | 1847 | 135 | 
-| 2022-10-16 | 1846 | 135 | 
 

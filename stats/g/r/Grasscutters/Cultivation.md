@@ -1,6 +1,6 @@
 # Grasscutters/Cultivation - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 89
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 367 | 89 | 
 | 2022-11-14 | 367 | 89 | 
 | 2022-11-13 | 365 | 89 | 
 | 2022-11-12 | 362 | 89 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 318 | 80 | 
 | 2022-10-18 | 313 | 79 | 
 | 2022-10-17 | 312 | 79 | 
-| 2022-10-16 | 306 | 79 | 
 

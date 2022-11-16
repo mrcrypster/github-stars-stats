@@ -1,6 +1,6 @@
 # alamaison/emacs-cmake-project - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 29 | 9 | 
 | 2022-11-14 | 29 | 9 | 
 | 2022-11-13 | 29 | 9 | 
 | 2022-11-12 | 29 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 29 | 9 | 
 | 2022-10-19 | 29 | 9 | 
 | 2022-10-18 | 29 | 9 | 
-| 2022-10-17 | 29 | 9 | 
 

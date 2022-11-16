@@ -1,10 +1,10 @@
 # kavyanshpandey/Magzine-Price-Calc - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 54
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/kavyanshpandey/Magzine-Price-Calc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5 | 54 | 
 | 2022-11-14 | 4 | 54 | 
 | 2022-11-13 | 4 | 54 | 
 | 2022-11-12 | 4 | 54 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 3 | 34 | 
 | 2022-10-18 | 3 | 34 | 
 | 2022-10-17 | 3 | 35 | 
-| 2022-10-16 | 3 | 33 | 
 

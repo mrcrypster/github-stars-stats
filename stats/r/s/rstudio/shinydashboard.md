@@ -1,6 +1,6 @@
 # rstudio/shinydashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 297
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 797 | 297 | 
 | 2022-11-14 | 797 | 297 | 
 | 2022-11-13 | 797 | 297 | 
 | 2022-11-12 | 797 | 297 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 796 | 294 | 
 | 2022-10-19 | 795 | 294 | 
 | 2022-10-18 | 795 | 294 | 
-| 2022-10-17 | 795 | 294 | 
 

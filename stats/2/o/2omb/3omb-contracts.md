@@ -1,6 +1,6 @@
 # 2omb/3omb-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 47
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 4 | 47 | 
 | 2022-11-14 | 4 | 47 | 
 | 2022-11-13 | 5 | 47 | 
 | 2022-11-12 | 5 | 47 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 5 | 47 | 
 | 2022-10-19 | 5 | 47 | 
 | 2022-10-18 | 5 | 47 | 
-| 2022-10-17 | 5 | 47 | 
 

@@ -1,10 +1,10 @@
 # cutterkom/generativeart - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 144
 
-★ Stars: 796
+★ Stars: 797
 
 [Open repository](https://github.com/cutterkom/generativeart)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 797 | 144 | 
 | 2022-11-14 | 796 | 144 | 
 | 2022-11-13 | 796 | 144 | 
 | 2022-11-12 | 796 | 144 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 785 | 144 | 
 | 2022-10-19 | 784 | 144 | 
 | 2022-10-17 | 784 | 144 | 
-| 2022-10-16 | 783 | 144 | 
 

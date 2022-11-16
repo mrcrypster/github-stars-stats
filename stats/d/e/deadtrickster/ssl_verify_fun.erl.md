@@ -1,6 +1,6 @@
 # deadtrickster/ssl_verify_fun.erl - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 84 | 41 | 
 | 2022-11-14 | 84 | 41 | 
 | 2022-11-13 | 84 | 41 | 
 | 2022-11-12 | 84 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 84 | 41 | 
 | 2022-10-18 | 84 | 41 | 
 | 2022-10-17 | 84 | 41 | 
-| 2022-10-16 | 84 | 41 | 
 

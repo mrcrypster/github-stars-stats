@@ -1,10 +1,10 @@
 # F5OEO/rpitx - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 432
+☋ Forks: 433
 
-★ Stars: 3244
+★ Stars: 3246
 
 [Open repository](https://github.com/F5OEO/rpitx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3246 | 433 | 
 | 2022-11-14 | 3244 | 432 | 
 | 2022-11-13 | 3242 | 432 | 
 | 2022-11-12 | 3240 | 431 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 3226 | 428 | 
 | 2022-10-18 | 3226 | 428 | 
 | 2022-10-17 | 3223 | 428 | 
-| 2022-10-16 | 3223 | 428 | 
 

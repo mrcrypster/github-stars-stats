@@ -1,10 +1,10 @@
 # pyscripter/pyscripter - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 283
 
-★ Stars: 809
+★ Stars: 810
 
 [Open repository](https://github.com/pyscripter/pyscripter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 810 | 283 | 
 | 2022-11-14 | 809 | 283 | 
 | 2022-11-13 | 809 | 283 | 
 | 2022-11-12 | 809 | 283 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 795 | 277 | 
 | 2022-10-18 | 795 | 277 | 
 | 2022-10-17 | 795 | 276 | 
-| 2022-10-16 | 795 | 276 | 
 

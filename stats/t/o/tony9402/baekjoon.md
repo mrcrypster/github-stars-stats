@@ -1,6 +1,6 @@
 # tony9402/baekjoon - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 716
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3169 | 716 | 
 | 2022-11-14 | 3169 | 716 | 
 | 2022-11-13 | 3164 | 715 | 
 | 2022-11-12 | 3160 | 716 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 3060 | 696 | 
 | 2022-10-18 | 3056 | 697 | 
 | 2022-10-17 | 3052 | 696 | 
-| 2022-10-16 | 3045 | 693 | 
 

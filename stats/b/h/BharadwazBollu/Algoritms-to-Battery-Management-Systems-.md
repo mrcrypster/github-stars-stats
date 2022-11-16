@@ -1,6 +1,6 @@
 # BharadwazBollu/Algoritms-to-Battery-Management-Systems- - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 14 | 7 | 
+| 2022-11-15 | 14 | 7 | 
 | 2022-11-14 | 14 | 7 | 
 | 2022-11-13 | 14 | 7 | 
 | 2022-11-12 | 14 | 7 | 

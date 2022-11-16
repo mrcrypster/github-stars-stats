@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 15
 
-☋ Forks: 51
+☋ Forks: 52
 
-★ Stars: 32
+★ Stars: 33
 
 [Open repository](https://github.com/MoldyGH/VsDave)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-15 | 32 | 51 | 
+| 2022-11-15 | 33 | 52 | 
 | 2022-11-14 | 32 | 52 | 
 | 2022-11-13 | 31 | 52 | 
 | 2022-11-12 | 31 | 52 | 

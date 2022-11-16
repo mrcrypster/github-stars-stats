@@ -1,6 +1,6 @@
 # cerbero90/enum - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 103 | - | 
 | 2022-11-14 | 103 | - | 
 | 2022-11-13 | 103 | - | 
 | 2022-11-12 | 103 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 101 | - | 
 | 2022-10-19 | 101 | - | 
 | 2022-10-18 | 101 | - | 
-| 2022-10-17 | 101 | - | 
 

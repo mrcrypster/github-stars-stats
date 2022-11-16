@@ -1,10 +1,10 @@
 # nim-works/nimskull - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 22
+☋ Forks: 23
 
-★ Stars: 166
+★ Stars: 167
 
 [Open repository](https://github.com/nim-works/nimskull)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 167 | 23 | 
 | 2022-11-15 | 166 | 22 | 
 | 2022-11-14 | 166 | 22 | 
 | 2022-11-12 | 166 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 163 | 22 | 
 | 2022-10-18 | 163 | 22 | 
 | 2022-10-17 | 162 | 22 | 
-| 2022-10-16 | 162 | 22 | 
 

@@ -1,6 +1,6 @@
 # Hunlongyu/ZY-Player - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1957
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 11955 | 1957 | 
 | 2022-11-14 | 11955 | 1957 | 
 | 2022-11-13 | 11948 | 1956 | 
 | 2022-11-12 | 11943 | 1956 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 11832 | 1932 | 
 | 2022-10-18 | 11828 | 1932 | 
 | 2022-10-17 | 11819 | 1928 | 
-| 2022-10-16 | 11816 | 1927 | 
 

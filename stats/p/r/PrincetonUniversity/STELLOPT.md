@@ -1,6 +1,6 @@
 # PrincetonUniversity/STELLOPT - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 35 | 5 | 
 | 2022-11-14 | 35 | 5 | 
 | 2022-11-13 | 35 | 5 | 
 | 2022-11-12 | 35 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 34 | 5 | 
 | 2022-10-18 | 33 | 5 | 
 | 2022-10-17 | 33 | 5 | 
-| 2022-10-16 | 32 | 5 | 
 

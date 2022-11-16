@@ -1,10 +1,10 @@
 # Netflix/zuul - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2264
 
-★ Stars: 12293
+★ Stars: 12296
 
 [Open repository](https://github.com/Netflix/zuul)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 12296 | 2264 | 
 | 2022-11-14 | 12293 | 2264 | 
 | 2022-11-13 | 12292 | 2264 | 
 | 2022-11-12 | 12289 | 2264 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 12216 | 2254 | 
 | 2022-10-18 | 12216 | 2253 | 
 | 2022-10-17 | 12215 | 2253 | 
-| 2022-10-16 | 12215 | 2252 | 
 

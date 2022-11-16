@@ -1,10 +1,10 @@
 # phoenixframework/phoenix_view - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 16
 
-★ Stars: 58
+★ Stars: 59
 
 [Open repository](https://github.com/phoenixframework/phoenix_view)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 59 | 16 | 
 | 2022-11-14 | 58 | 16 | 
 | 2022-11-13 | 58 | 16 | 
 | 2022-11-12 | 58 | 16 | 

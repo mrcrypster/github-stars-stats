@@ -1,10 +1,10 @@
 # quartznet/quartznet - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1563
 
-★ Stars: 5320
+★ Stars: 5323
 
 [Open repository](https://github.com/quartznet/quartznet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5323 | 1563 | 
 | 2022-11-14 | 5320 | 1563 | 
 | 2022-11-13 | 5318 | 1563 | 
 | 2022-11-12 | 5314 | 1561 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 5273 | 1554 | 
 | 2022-10-18 | 5273 | 1553 | 
 | 2022-10-17 | 5273 | 1554 | 
-| 2022-10-16 | 5272 | 1554 | 
 

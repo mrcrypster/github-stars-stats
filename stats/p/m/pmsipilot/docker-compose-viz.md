@@ -1,10 +1,10 @@
 # pmsipilot/docker-compose-viz - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 53
 
-★ Stars: 674
+★ Stars: 675
 
 [Open repository](https://github.com/pmsipilot/docker-compose-viz)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 675 | 53 | 
 | 2022-11-14 | 674 | 53 | 
 | 2022-11-13 | 674 | 53 | 
 | 2022-11-12 | 674 | 53 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 666 | 53 | 
 | 2022-10-18 | 666 | 53 | 
 | 2022-10-17 | 666 | 53 | 
-| 2022-10-16 | 666 | 53 | 
 

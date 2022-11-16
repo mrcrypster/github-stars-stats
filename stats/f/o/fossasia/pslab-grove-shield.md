@@ -1,10 +1,10 @@
 # fossasia/pslab-grove-shield - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 8
 
-★ Stars: 1507
+★ Stars: 1506
 
 [Open repository](https://github.com/fossasia/pslab-grove-shield)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1506 | 8 | 
 | 2022-11-14 | 1507 | 8 | 
 | 2022-11-13 | 1507 | 8 | 
 | 2022-11-12 | 1507 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1510 | 8 | 
 | 2022-10-18 | 1510 | 8 | 
 | 2022-10-17 | 1510 | 8 | 
-| 2022-10-16 | 1510 | 8 | 
 

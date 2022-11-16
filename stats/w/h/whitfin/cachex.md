@@ -1,6 +1,6 @@
 # whitfin/cachex - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1265 | 80 | 
 | 2022-11-14 | 1265 | 80 | 
 | 2022-11-13 | 1265 | 81 | 
 | 2022-11-12 | 1265 | 81 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1258 | 80 | 
 | 2022-10-18 | 1258 | 80 | 
 | 2022-10-17 | 1258 | 80 | 
-| 2022-10-16 | 1256 | 80 | 
 

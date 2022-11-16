@@ -1,6 +1,6 @@
 # godweiyang/hexo-theme-sungod - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 341
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 453 | 341 | 
 | 2022-11-14 | 453 | 341 | 
 | 2022-11-13 | 453 | 340 | 
 | 2022-11-12 | 452 | 340 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 451 | 337 | 
 | 2022-10-18 | 451 | 337 | 
 | 2022-10-17 | 451 | 337 | 
-| 2022-10-16 | 451 | 337 | 
 

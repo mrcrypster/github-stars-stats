@@ -1,10 +1,10 @@
 # 1jsingh/paint2pix - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 12
 
-★ Stars: 94
+★ Stars: 95
 
 [Open repository](https://github.com/1jsingh/paint2pix)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 95 | 12 | 
 | 2022-11-15 | 94 | 12 | 
 | 2022-11-14 | 94 | 12 | 
 | 2022-11-12 | 94 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 86 | 11 | 
 | 2022-10-18 | 86 | 11 | 
 | 2022-10-17 | 86 | 11 | 
-| 2022-10-16 | 86 | 11 | 
 

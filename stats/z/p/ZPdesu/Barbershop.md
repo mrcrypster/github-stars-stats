@@ -1,10 +1,10 @@
 # ZPdesu/Barbershop - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 175
+☋ Forks: 176
 
-★ Stars: 904
+★ Stars: 905
 
 [Open repository](https://github.com/ZPdesu/Barbershop)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 905 | 176 | 
 | 2022-11-14 | 904 | 175 | 
 | 2022-11-13 | 903 | 175 | 
 | 2022-11-12 | 903 | 174 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 889 | 174 | 
 | 2022-10-18 | 888 | 174 | 
 | 2022-10-17 | 888 | 174 | 
-| 2022-10-16 | 886 | 173 | 
 

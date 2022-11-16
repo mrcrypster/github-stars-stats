@@ -1,6 +1,6 @@
 # guzzle/promises - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 110
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7279 | 110 | 
 | 2022-11-14 | 7279 | 110 | 
 | 2022-11-13 | 7277 | 110 | 
 | 2022-11-12 | 7277 | 110 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 7261 | 110 | 
 | 2022-10-18 | 7259 | 110 | 
 | 2022-10-17 | 7258 | 110 | 
-| 2022-10-16 | 7257 | 111 | 
 

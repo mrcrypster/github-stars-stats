@@ -1,6 +1,6 @@
 # sreekanthnkartha/DBMS-LAB-FOR-KTU-S5-CSE- - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | - | 10 | 
 | 2022-11-15 | - | 10 | 
 | 2022-11-14 | - | 10 | 
 | 2022-11-12 | - | 10 | 

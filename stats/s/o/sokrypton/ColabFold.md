@@ -1,8 +1,8 @@
 # sokrypton/ColabFold - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 264
+☋ Forks: 265
 
 ★ Stars: 975
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 975 | 265 | 
 | 2022-11-14 | 975 | 264 | 
 | 2022-11-13 | 973 | 262 | 
 | 2022-11-12 | 973 | 262 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 932 | 250 | 
 | 2022-10-18 | 931 | 250 | 
 | 2022-10-17 | 930 | 249 | 
-| 2022-10-16 | 929 | 249 | 
 

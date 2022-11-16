@@ -1,10 +1,10 @@
 # erg-lang/erg - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 43
 
-★ Stars: 2022
+★ Stars: 2023
 
 [Open repository](https://github.com/erg-lang/erg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2023 | 43 | 
 | 2022-11-14 | 2022 | 43 | 
 | 2022-11-13 | 2019 | 43 | 
 | 2022-11-12 | 2018 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2001 | 43 | 
 | 2022-10-18 | 2002 | 43 | 
 | 2022-10-17 | 2000 | 43 | 
-| 2022-10-16 | 2001 | 43 | 
 

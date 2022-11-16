@@ -1,6 +1,6 @@
 # SpruceGabriela/instagram-dio - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 699
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 230 | 699 | 
 | 2022-11-14 | 230 | 699 | 
 | 2022-11-13 | 230 | 699 | 
 | 2022-11-12 | 230 | 699 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 229 | 704 | 
 | 2022-10-18 | 230 | 704 | 
 | 2022-10-17 | 230 | 704 | 
-| 2022-10-16 | 230 | 704 | 
 

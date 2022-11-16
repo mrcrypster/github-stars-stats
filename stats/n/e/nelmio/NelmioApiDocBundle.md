@@ -1,6 +1,6 @@
 # nelmio/NelmioApiDocBundle - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 804
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2092 | 804 | 
 | 2022-11-14 | 2092 | 804 | 
 | 2022-11-13 | 2092 | 804 | 
 | 2022-11-12 | 2092 | 804 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2086 | 803 | 
 | 2022-10-18 | 2085 | 802 | 
 | 2022-10-17 | 2085 | 802 | 
-| 2022-10-16 | 2085 | 802 | 
 

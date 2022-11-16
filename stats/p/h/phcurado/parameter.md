@@ -1,10 +1,10 @@
 # phcurado/parameter - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 0
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/phcurado/parameter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 29 | - | 
 | 2022-11-14 | 28 | - | 
 | 2022-11-13 | 28 | - | 
 | 2022-11-12 | 28 | - | 

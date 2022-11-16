@@ -1,10 +1,10 @@
 # benphelps/homepage - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 123
+☋ Forks: 124
 
-★ Stars: 2267
+★ Stars: 2287
 
 [Open repository](https://github.com/benphelps/homepage)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2287 | 124 | 
 | 2022-11-14 | 2267 | 123 | 
 | 2022-11-13 | 2260 | 123 | 
 | 2022-11-12 | 2257 | 123 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1700 | 96 | 
 | 2022-10-18 | 1646 | 94 | 
 | 2022-10-17 | 1642 | 94 | 
-| 2022-10-16 | 1635 | 95 | 
 

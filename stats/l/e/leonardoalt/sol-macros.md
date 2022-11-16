@@ -1,6 +1,6 @@
 # leonardoalt/sol-macros - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 28 | 1 | 
 | 2022-11-14 | 28 | 1 | 
 | 2022-11-13 | 28 | 1 | 
 | 2022-11-12 | 28 | 1 | 

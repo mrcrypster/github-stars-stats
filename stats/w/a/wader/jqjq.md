@@ -1,6 +1,6 @@
 # wader/jqjq - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 99 | 2 | 
 | 2022-11-15 | 99 | 2 | 
 | 2022-11-13 | 99 | 2 | 
 | 2022-11-12 | 99 | 2 | 

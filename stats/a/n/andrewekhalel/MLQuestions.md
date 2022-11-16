@@ -1,10 +1,10 @@
 # andrewekhalel/MLQuestions - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 309
+☋ Forks: 308
 
-★ Stars: 1611
+★ Stars: 1613
 
 [Open repository](https://github.com/andrewekhalel/MLQuestions)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1613 | 308 | 
 | 2022-11-14 | 1611 | 309 | 
 | 2022-11-13 | 1609 | 309 | 
 | 2022-11-12 | 1607 | 309 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1571 | 303 | 
 | 2022-10-18 | 1570 | 303 | 
 | 2022-10-17 | 1570 | 303 | 
-| 2022-10-16 | 1570 | 303 | 
 

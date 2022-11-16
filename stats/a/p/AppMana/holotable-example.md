@@ -1,8 +1,8 @@
 # AppMana/holotable-example - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 5
+☋ Forks: 4
 
 ★ Stars: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | - | 4 | 
 | 2022-11-14 | - | 5 | 
 | 2022-11-13 | - | 5 | 
 | 2022-11-12 | - | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | - | 3 | 
 | 2022-10-18 | - | 3 | 
 | 2022-10-17 | - | 3 | 
-| 2022-10-16 | - | 3 | 
 

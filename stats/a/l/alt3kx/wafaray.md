@@ -1,6 +1,6 @@
 # alt3kx/wafaray - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 61 | 6 | 
 | 2022-11-14 | 61 | 6 | 
 | 2022-11-13 | 61 | 6 | 
 | 2022-11-12 | 61 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 57 | 6 | 
 | 2022-10-18 | 57 | 6 | 
 | 2022-10-17 | 57 | 6 | 
-| 2022-10-16 | 57 | 6 | 
 

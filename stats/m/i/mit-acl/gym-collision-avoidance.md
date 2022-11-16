@@ -1,6 +1,6 @@
 # mit-acl/gym-collision-avoidance - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 162 | 53 | 
 | 2022-11-14 | 162 | 53 | 
 | 2022-11-13 | 162 | 52 | 
 | 2022-11-12 | 162 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 156 | 51 | 
 | 2022-10-18 | 156 | 50 | 
 | 2022-10-17 | 156 | 50 | 
-| 2022-10-16 | 156 | 50 | 
 

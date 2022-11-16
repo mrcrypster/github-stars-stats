@@ -1,6 +1,6 @@
 # aws/aws-codebuild-docker-images - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 855
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 938 | 855 | 
 | 2022-11-14 | 938 | 855 | 
 | 2022-11-13 | 938 | 855 | 
 | 2022-11-12 | 938 | 856 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 932 | 845 | 
 | 2022-10-18 | 931 | 843 | 
 | 2022-10-17 | 930 | 843 | 
-| 2022-10-16 | 930 | 843 | 
 

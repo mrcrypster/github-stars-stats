@@ -1,10 +1,10 @@
 # luk400/vim-lichess - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 0
 
-★ Stars: 67
+★ Stars: 70
 
 [Open repository](https://github.com/luk400/vim-lichess)
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 70 | - | 
+| 2022-11-15 | 70 | - | 
 | 2022-11-14 | 67 | - | 
 | 2022-11-13 | 62 | - | 
 | 2022-11-12 | 62 | - | 
@@ -41,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 56 | - | 
 | 2022-10-18 | 55 | - | 
 | 2022-10-17 | 54 | - | 
-| 2022-10-16 | 54 | - | 
 

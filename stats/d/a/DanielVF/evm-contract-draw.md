@@ -1,10 +1,10 @@
 # DanielVF/evm-contract-draw - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 13
 
-★ Stars: 124
+★ Stars: 123
 
 [Open repository](https://github.com/DanielVF/evm-contract-draw)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 123 | 13 | 
 | 2022-11-14 | 124 | 13 | 
 | 2022-11-13 | 124 | 13 | 
 | 2022-11-12 | 124 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 122 | 13 | 
 | 2022-10-18 | 122 | 13 | 
 | 2022-10-17 | 122 | 13 | 
-| 2022-10-16 | 122 | 13 | 
 

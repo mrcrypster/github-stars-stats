@@ -1,8 +1,8 @@
 # microsoft/routeros-scanner - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 115
+☋ Forks: 116
 
 ★ Stars: 818
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 818 | 116 | 
 | 2022-11-14 | 818 | 115 | 
 | 2022-11-13 | 818 | 115 | 
 | 2022-11-12 | 815 | 115 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 806 | 114 | 
 | 2022-10-18 | 806 | 114 | 
 | 2022-10-17 | 804 | 114 | 
-| 2022-10-16 | 804 | 114 | 
 

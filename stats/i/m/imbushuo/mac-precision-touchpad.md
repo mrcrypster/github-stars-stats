@@ -1,10 +1,10 @@
 # imbushuo/mac-precision-touchpad - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 429
 
-★ Stars: 6665
+★ Stars: 6666
 
 [Open repository](https://github.com/imbushuo/mac-precision-touchpad)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 6666 | 429 | 
 | 2022-11-14 | 6665 | 429 | 
 | 2022-11-13 | 6657 | 429 | 
 | 2022-11-12 | 6652 | 428 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 6530 | 419 | 
 | 2022-10-18 | 6525 | 419 | 
 | 2022-10-17 | 6519 | 417 | 
-| 2022-10-16 | 6515 | 417 | 
 

@@ -1,10 +1,10 @@
 # cabaletta/baritone - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 1269
+☋ Forks: 1271
 
-★ Stars: 5076
+★ Stars: 5079
 
 [Open repository](https://github.com/cabaletta/baritone)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5079 | 1271 | 
 | 2022-11-14 | 5076 | 1269 | 
 | 2022-11-13 | 5071 | 1269 | 
 | 2022-11-12 | 5067 | 1269 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 4987 | 1263 | 
 | 2022-10-18 | 4982 | 1262 | 
 | 2022-10-17 | 4981 | 1264 | 
-| 2022-10-16 | 4978 | 1263 | 
 

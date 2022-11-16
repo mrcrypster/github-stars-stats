@@ -1,10 +1,10 @@
 # chiahsien/CHTCollectionViewWaterfallLayout - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 704
+☋ Forks: 703
 
-★ Stars: 4403
+★ Stars: 4404
 
 [Open repository](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 4404 | 703 | 
 | 2022-11-14 | 4403 | 704 | 
 | 2022-11-13 | 4403 | 704 | 
 | 2022-11-12 | 4402 | 704 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 4397 | 705 | 
 | 2022-10-18 | 4397 | 705 | 
 | 2022-10-17 | 4397 | 704 | 
-| 2022-10-16 | 4397 | 704 | 
 

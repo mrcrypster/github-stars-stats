@@ -1,10 +1,10 @@
 # tymondesigns/jwt-auth - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1533
 
-★ Stars: 10677
+★ Stars: 10678
 
 [Open repository](https://github.com/tymondesigns/jwt-auth)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 10678 | 1533 | 
 | 2022-11-14 | 10677 | 1533 | 
 | 2022-11-13 | 10675 | 1532 | 
 | 2022-11-12 | 10675 | 1531 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 10656 | 1528 | 
 | 2022-10-18 | 10653 | 1528 | 
 | 2022-10-17 | 10650 | 1528 | 
-| 2022-10-16 | 10651 | 1528 | 
 

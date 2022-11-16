@@ -1,10 +1,10 @@
 # leeyegy/TokenPose - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 19
 
-★ Stars: 82
+★ Stars: 83
 
 [Open repository](https://github.com/leeyegy/TokenPose)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 83 | 19 | 
 | 2022-11-14 | 82 | 19 | 
 | 2022-11-13 | 82 | 19 | 
 | 2022-11-12 | 82 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 80 | 19 | 
 | 2022-10-18 | 80 | 19 | 
 | 2022-10-17 | 80 | 19 | 
-| 2022-10-16 | 79 | 19 | 
 

@@ -1,10 +1,10 @@
 # aidenybai/million - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 150
+☋ Forks: 151
 
-★ Stars: 5376
+★ Stars: 5381
 
 [Open repository](https://github.com/aidenybai/million)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5381 | 151 | 
 | 2022-11-14 | 5376 | 150 | 
 | 2022-11-13 | 5375 | 150 | 
 | 2022-11-11 | 5374 | 150 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 5309 | 147 | 
 | 2022-10-18 | 5302 | 147 | 
 | 2022-10-17 | 5302 | 147 | 
-| 2022-10-16 | 5300 | 147 | 
 

@@ -1,10 +1,10 @@
 # castai/helm-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 5
 
-★ Stars: 2
+★ Stars: 3
 
 [Open repository](https://github.com/castai/helm-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3 | 5 | 
 | 2022-11-14 | 2 | 5 | 
 | 2022-11-13 | 2 | 5 | 
 | 2022-11-12 | 2 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2 | 4 | 
 | 2022-10-18 | 2 | 4 | 
 | 2022-10-17 | 1 | 4 | 
-| 2022-10-16 | 1 | 4 | 
 

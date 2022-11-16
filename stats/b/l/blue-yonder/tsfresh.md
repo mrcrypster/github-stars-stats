@@ -1,10 +1,10 @@
 # blue-yonder/tsfresh - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 1076
+☋ Forks: 1079
 
-★ Stars: 6847
+★ Stars: 6851
 
 [Open repository](https://github.com/blue-yonder/tsfresh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 6851 | 1079 | 
 | 2022-11-14 | 6847 | 1076 | 
 | 2022-11-13 | 6844 | 1076 | 
 | 2022-11-12 | 6839 | 1076 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 6692 | 1061 | 
 | 2022-10-18 | 6687 | 1061 | 
 | 2022-10-17 | 6684 | 1060 | 
-| 2022-10-16 | 6684 | 1059 | 
 

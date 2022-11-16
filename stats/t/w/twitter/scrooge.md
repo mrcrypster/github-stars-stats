@@ -1,10 +1,10 @@
 # twitter/scrooge - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 240
 
-★ Stars: 765
+★ Stars: 766
 
 [Open repository](https://github.com/twitter/scrooge)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 766 | 240 | 
 | 2022-11-14 | 765 | 240 | 
 | 2022-11-13 | 764 | 239 | 
 | 2022-11-12 | 765 | 239 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 765 | 237 | 
 | 2022-10-18 | 765 | 237 | 
 | 2022-10-17 | 765 | 237 | 
-| 2022-10-16 | 765 | 237 | 
 

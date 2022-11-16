@@ -1,6 +1,6 @@
 # LeonardoDG2084/cia-08 - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2 | 15 | 
 | 2022-11-14 | 2 | 15 | 
 | 2022-11-13 | 2 | 15 | 
 | 2022-11-12 | 2 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 2 | 15 | 
 | 2022-10-19 | 2 | 15 | 
 | 2022-10-18 | 2 | 15 | 
-| 2022-10-17 | 2 | 15 | 
 

@@ -1,6 +1,6 @@
 # sarah-ek/pulp - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 109 | 1 | 
 | 2022-11-15 | 109 | 1 | 
 | 2022-11-14 | 109 | 1 | 
 | 2022-11-12 | 109 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 107 | 1 | 
 | 2022-10-18 | 106 | 1 | 
 | 2022-10-17 | 106 | 1 | 
-| 2022-10-16 | 106 | 1 | 
 

@@ -1,6 +1,6 @@
 # zimfw/zimfw - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 166
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2870 | 166 | 
 | 2022-11-14 | 2870 | 166 | 
 | 2022-11-13 | 2868 | 166 | 
 | 2022-11-11 | 2865 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2826 | 167 | 
 | 2022-10-18 | 2824 | 167 | 
 | 2022-10-17 | 2822 | 167 | 
-| 2022-10-16 | 2820 | 167 | 
 

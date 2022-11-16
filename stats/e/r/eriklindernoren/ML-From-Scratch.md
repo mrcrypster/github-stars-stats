@@ -1,10 +1,10 @@
 # eriklindernoren/ML-From-Scratch - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 4254
+☋ Forks: 4255
 
-★ Stars: 21652
+★ Stars: 21653
 
 [Open repository](https://github.com/eriklindernoren/ML-From-Scratch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 21653 | 4255 | 
 | 2022-11-14 | 21652 | 4254 | 
 | 2022-11-13 | 21647 | 4253 | 
 | 2022-11-12 | 21648 | 4252 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 21592 | 4250 | 
 | 2022-10-18 | 21586 | 4249 | 
 | 2022-10-17 | 21585 | 4249 | 
-| 2022-10-16 | 21584 | 4245 | 
 

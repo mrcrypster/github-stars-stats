@@ -1,6 +1,6 @@
 # google/skywater-pdk-sky130-raw-data - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 34 | 14 | 
 | 2022-11-14 | 34 | 14 | 
 | 2022-11-13 | 34 | 14 | 
 | 2022-11-12 | 34 | 14 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 33 | 12 | 
 | 2022-10-18 | 33 | 12 | 
 | 2022-10-17 | 33 | 12 | 
-| 2022-10-16 | 33 | 12 | 
 

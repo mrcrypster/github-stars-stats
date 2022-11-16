@@ -1,6 +1,6 @@
 # ElvinPero/PriceTemplate - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 61
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 19 | 61 | 
 | 2022-11-14 | 19 | 61 | 
 | 2022-11-13 | 19 | 61 | 
 | 2022-11-11 | 19 | 61 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 18 | 64 | 
 | 2022-10-18 | 18 | 63 | 
 | 2022-10-17 | 17 | 61 | 
-| 2022-10-16 | 16 | 61 | 
 

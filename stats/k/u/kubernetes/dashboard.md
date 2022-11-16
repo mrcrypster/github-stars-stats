@@ -1,10 +1,10 @@
 # kubernetes/dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 3782
+☋ Forks: 3783
 
-★ Stars: 11857
+★ Stars: 11859
 
 [Open repository](https://github.com/kubernetes/dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 11859 | 3783 | 
 | 2022-11-14 | 11857 | 3782 | 
 | 2022-11-12 | 11853 | 3780 | 
 | 2022-11-11 | 11849 | 3778 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 11771 | 3754 | 
 | 2022-10-18 | 11768 | 3750 | 
 | 2022-10-17 | 11760 | 3750 | 
-| 2022-10-16 | 11758 | 3748 | 
 

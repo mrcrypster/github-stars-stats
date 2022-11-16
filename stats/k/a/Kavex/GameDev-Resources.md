@@ -1,6 +1,6 @@
 # Kavex/GameDev-Resources - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 281
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2708 | 281 | 
 | 2022-11-14 | 2708 | 281 | 
 | 2022-11-13 | 2705 | 281 | 
 | 2022-11-12 | 2704 | 281 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2656 | 278 | 
 | 2022-10-18 | 2653 | 278 | 
 | 2022-10-17 | 2651 | 278 | 
-| 2022-10-16 | 2652 | 277 | 
 

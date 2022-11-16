@@ -1,10 +1,10 @@
 # socure-inc/socure-docv-sdk-ios - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 5
+★ Stars: 6
 
 [Open repository](https://github.com/socure-inc/socure-docv-sdk-ios)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6 | 1 | 
 | 2022-11-15 | 5 | 1 | 
 | 2022-11-14 | 5 | 1 | 
 | 2022-11-12 | 5 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 5 | 1 | 
 | 2022-10-18 | 5 | 1 | 
 | 2022-10-17 | 5 | 1 | 
-| 2022-10-16 | 5 | 1 | 
 

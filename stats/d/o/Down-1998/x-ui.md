@@ -1,6 +1,6 @@
 # Down-1998/x-ui - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 124 | 9 | 
 | 2022-11-14 | 124 | 9 | 
 | 2022-11-13 | 123 | 9 | 
 | 2022-11-12 | 123 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 123 | 9 | 
 | 2022-10-18 | 123 | 9 | 
 | 2022-10-17 | 123 | 9 | 
-| 2022-10-16 | 123 | 9 | 
 

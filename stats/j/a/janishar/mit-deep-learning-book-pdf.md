@@ -1,10 +1,10 @@
 # janishar/mit-deep-learning-book-pdf - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 2384
+☋ Forks: 2383
 
-★ Stars: 10689
+★ Stars: 10691
 
 [Open repository](https://github.com/janishar/mit-deep-learning-book-pdf)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 10691 | 2383 | 
 | 2022-11-14 | 10689 | 2384 | 
 | 2022-11-13 | 10683 | 2384 | 
 | 2022-11-12 | 10679 | 2384 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 10607 | 2380 | 
 | 2022-10-18 | 10605 | 2380 | 
 | 2022-10-17 | 10600 | 2380 | 
-| 2022-10-16 | 10597 | 2380 | 
 

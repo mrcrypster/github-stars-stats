@@ -1,10 +1,10 @@
 # shipshapecode/react-shepherd - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 29
 
-★ Stars: 415
+★ Stars: 417
 
 [Open repository](https://github.com/shipshapecode/react-shepherd)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 417 | 29 | 
 | 2022-11-14 | 415 | 29 | 
 | 2022-11-13 | 415 | 29 | 
 | 2022-11-12 | 415 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 402 | 28 | 
 | 2022-10-19 | 402 | 28 | 
 | 2022-10-18 | 401 | 28 | 
-| 2022-10-17 | 399 | 28 | 
 

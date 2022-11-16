@@ -1,10 +1,10 @@
 # apache/apisix-dashboard - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 387
 
-★ Stars: 721
+★ Stars: 723
 
 [Open repository](https://github.com/apache/apisix-dashboard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 723 | 387 | 
 | 2022-11-14 | 721 | 387 | 
 | 2022-11-13 | 721 | 386 | 
 | 2022-11-12 | 721 | 386 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 709 | 381 | 
 | 2022-10-18 | 709 | 381 | 
 | 2022-10-17 | 709 | 381 | 
-| 2022-10-16 | 708 | 381 | 
 

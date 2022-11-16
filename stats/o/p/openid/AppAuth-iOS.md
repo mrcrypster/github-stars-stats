@@ -1,10 +1,10 @@
 # openid/AppAuth-iOS - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 659
+☋ Forks: 658
 
-★ Stars: 1441
+★ Stars: 1442
 
 [Open repository](https://github.com/openid/AppAuth-iOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1442 | 658 | 
 | 2022-11-14 | 1441 | 659 | 
 | 2022-11-13 | 1440 | 657 | 
 | 2022-11-12 | 1438 | 657 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1427 | 656 | 
 | 2022-10-18 | 1427 | 655 | 
 | 2022-10-17 | 1425 | 655 | 
-| 2022-10-16 | 1425 | 655 | 
 

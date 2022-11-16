@@ -1,6 +1,6 @@
 # EmilHvitfeldt/ISLR-tidymodels-labs - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 56
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 129 | 56 | 
 | 2022-11-14 | 129 | 56 | 
 | 2022-11-13 | 129 | 56 | 
 | 2022-11-11 | 129 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 128 | 56 | 
 | 2022-10-18 | 128 | 56 | 
 | 2022-10-17 | 128 | 56 | 
-| 2022-10-16 | 128 | 56 | 
 

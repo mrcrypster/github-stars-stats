@@ -1,10 +1,10 @@
 # sakra/cotire - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 143
 
-★ Stars: 1276
+★ Stars: 1278
 
 [Open repository](https://github.com/sakra/cotire)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1278 | 143 | 
 | 2022-11-14 | 1276 | 143 | 
 | 2022-11-13 | 1276 | 143 | 
 | 2022-11-12 | 1276 | 143 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1275 | 142 | 
 | 2022-10-18 | 1275 | 142 | 
 | 2022-10-17 | 1274 | 142 | 
-| 2022-10-16 | 1273 | 142 | 
 

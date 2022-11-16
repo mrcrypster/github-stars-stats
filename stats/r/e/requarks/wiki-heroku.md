@@ -1,6 +1,6 @@
 # requarks/wiki-heroku - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 151
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 48 | 151 | 
 | 2022-11-14 | 48 | 151 | 
 | 2022-11-13 | 48 | 151 | 
 | 2022-11-12 | 48 | 151 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 48 | 147 | 
 | 2022-10-18 | 48 | 147 | 
 | 2022-10-17 | 48 | 147 | 
-| 2022-10-16 | 48 | 147 | 
 

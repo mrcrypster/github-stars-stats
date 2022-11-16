@@ -1,10 +1,10 @@
 # meirwah/awesome-workflow-engines - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 450
 
-★ Stars: 3872
+★ Stars: 3874
 
 [Open repository](https://github.com/meirwah/awesome-workflow-engines)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 3874 | 450 | 
 | 2022-11-14 | 3872 | 450 | 
 | 2022-11-13 | 3869 | 449 | 
 | 2022-11-12 | 3866 | 449 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 3797 | 445 | 
 | 2022-10-18 | 3795 | 445 | 
 | 2022-10-17 | 3788 | 445 | 
-| 2022-10-16 | 3789 | 445 | 
 

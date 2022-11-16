@@ -1,10 +1,10 @@
 # VNCERT-CC/0dayex-checker - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 12
 
-★ Stars: 55
+★ Stars: 56
 
 [Open repository](https://github.com/VNCERT-CC/0dayex-checker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 56 | 12 | 
 | 2022-11-14 | 55 | 12 | 
 | 2022-11-13 | 55 | 12 | 
 | 2022-11-12 | 54 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 52 | 11 | 
 | 2022-10-18 | 51 | 11 | 
 | 2022-10-17 | 51 | 11 | 
-| 2022-10-16 | 51 | 11 | 
 

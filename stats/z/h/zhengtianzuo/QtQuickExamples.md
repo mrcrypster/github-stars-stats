@@ -1,10 +1,10 @@
 # zhengtianzuo/QtQuickExamples - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 463
 
-★ Stars: 886
+★ Stars: 888
 
 [Open repository](https://github.com/zhengtianzuo/QtQuickExamples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 888 | 463 | 
 | 2022-11-14 | 886 | 463 | 
 | 2022-11-13 | 885 | 463 | 
 | 2022-11-11 | 885 | 463 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 875 | 459 | 
 | 2022-10-18 | 875 | 459 | 
 | 2022-10-17 | 875 | 459 | 
-| 2022-10-16 | 875 | 459 | 
 

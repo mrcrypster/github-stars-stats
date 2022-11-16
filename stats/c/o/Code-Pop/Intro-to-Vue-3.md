@@ -1,8 +1,8 @@
 # Code-Pop/Intro-to-Vue-3 - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 2458
+☋ Forks: 2459
 
 ★ Stars: 569
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 569 | 2459 | 
 | 2022-11-14 | 569 | 2458 | 
 | 2022-11-13 | 569 | 2456 | 
 | 2022-11-12 | 568 | 2457 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 561 | 2393 | 
 | 2022-10-18 | 561 | 2389 | 
 | 2022-10-17 | 560 | 2386 | 
-| 2022-10-16 | 559 | 2385 | 
 

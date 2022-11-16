@@ -1,10 +1,10 @@
 # CoatiSoftware/Sourcetrail - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 1113
+☋ Forks: 1110
 
-★ Stars: 13007
+★ Stars: 13006
 
 [Open repository](https://github.com/CoatiSoftware/Sourcetrail)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 13006 | 1110 | 
 | 2022-11-14 | 13007 | 1113 | 
 | 2022-11-13 | 13005 | 1112 | 
 | 2022-11-12 | 13003 | 1112 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 12963 | 1096 | 
 | 2022-10-18 | 12963 | 1096 | 
 | 2022-10-17 | 12957 | 1095 | 
-| 2022-10-16 | 12952 | 1096 | 
 

@@ -1,10 +1,10 @@
 # brodieG/r2c - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 5
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/brodieG/r2c)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 68 | 5 | 
 | 2022-11-15 | 67 | 5 | 
 | 2022-11-14 | 67 | 5 | 
 | 2022-11-12 | 67 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 66 | 5 | 
 | 2022-10-18 | 66 | 5 | 
 | 2022-10-17 | 66 | 5 | 
-| 2022-10-16 | 66 | 5 | 
 

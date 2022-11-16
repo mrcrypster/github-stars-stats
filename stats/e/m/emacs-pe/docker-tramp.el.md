@@ -1,6 +1,6 @@
 # emacs-pe/docker-tramp.el - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 316 | 27 | 
 | 2022-11-14 | 316 | 27 | 
 | 2022-11-13 | 316 | 27 | 
 | 2022-11-12 | 316 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 315 | 27 | 
 | 2022-10-18 | 315 | 27 | 
 | 2022-10-17 | 315 | 27 | 
-| 2022-10-16 | 315 | 27 | 
 

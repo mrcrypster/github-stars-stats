@@ -1,6 +1,6 @@
 # GreenleafLab/ArchR - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 251 | 92 | 
 | 2022-11-14 | 251 | 92 | 
 | 2022-11-13 | 250 | 92 | 
 | 2022-11-12 | 250 | 92 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 247 | 88 | 
 | 2022-10-18 | 247 | 88 | 
 | 2022-10-17 | 247 | 88 | 
-| 2022-10-16 | 247 | 88 | 
 

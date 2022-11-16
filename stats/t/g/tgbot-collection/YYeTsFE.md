@@ -1,10 +1,10 @@
 # tgbot-collection/YYeTsFE - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 49
 
-★ Stars: 172
+★ Stars: 173
 
 [Open repository](https://github.com/tgbot-collection/YYeTsFE)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 173 | 49 | 
 | 2022-11-14 | 172 | 49 | 
 | 2022-11-13 | 172 | 49 | 
 | 2022-11-12 | 172 | 49 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 170 | 47 | 
 | 2022-10-19 | 170 | 47 | 
 | 2022-10-18 | 170 | 47 | 
-| 2022-10-17 | 170 | 47 | 
 

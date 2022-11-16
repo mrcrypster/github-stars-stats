@@ -1,6 +1,6 @@
 # moove-it/sidekiq-scheduler - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 217
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1534 | 217 | 
 | 2022-11-14 | 1534 | 217 | 
 | 2022-11-13 | 1534 | 217 | 
 | 2022-11-12 | 1534 | 217 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1529 | 215 | 
 | 2022-10-18 | 1529 | 215 | 
 | 2022-10-17 | 1528 | 214 | 
-| 2022-10-16 | 1528 | 214 | 
 

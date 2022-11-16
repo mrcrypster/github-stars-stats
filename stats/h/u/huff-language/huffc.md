@@ -1,10 +1,10 @@
 # huff-language/huffc - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 27
 
-★ Stars: 255
+★ Stars: 256
 
 [Open repository](https://github.com/huff-language/huffc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 256 | 27 | 
 | 2022-11-14 | 255 | 27 | 
 | 2022-11-13 | 255 | 27 | 
 | 2022-11-11 | 255 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 255 | 27 | 
 | 2022-10-18 | 255 | 27 | 
 | 2022-10-17 | 255 | 27 | 
-| 2022-10-16 | 255 | 27 | 
 

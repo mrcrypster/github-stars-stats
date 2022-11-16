@@ -1,10 +1,10 @@
 # VictoriaMetrics/VictoriaMetrics - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 723
+☋ Forks: 725
 
-★ Stars: 7403
+★ Stars: 7406
 
 [Open repository](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7406 | 725 | 
 | 2022-11-14 | 7403 | 723 | 
 | 2022-11-13 | 7401 | 722 | 
 | 2022-11-12 | 7399 | 722 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 7292 | 710 | 
 | 2022-10-18 | 7283 | 709 | 
 | 2022-10-17 | 7278 | 708 | 
-| 2022-10-16 | 7276 | 708 | 
 

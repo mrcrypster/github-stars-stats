@@ -1,10 +1,10 @@
 # b23r0/Heroinn - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 196
 
-★ Stars: 471
+★ Stars: 472
 
 [Open repository](https://github.com/b23r0/Heroinn)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 472 | 196 | 
 | 2022-11-14 | 471 | 196 | 
 | 2022-11-13 | 471 | 196 | 
 | 2022-11-12 | 471 | 196 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 453 | 192 | 
 | 2022-10-18 | 453 | 191 | 
 | 2022-10-17 | 451 | 191 | 
-| 2022-10-16 | 451 | 190 | 
 

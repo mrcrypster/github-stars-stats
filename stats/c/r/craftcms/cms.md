@@ -1,8 +1,8 @@
 # craftcms/cms - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 604
+☋ Forks: 602
 
 ★ Stars: 2901
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2901 | 602 | 
 | 2022-11-14 | 2901 | 604 | 
 | 2022-11-13 | 2899 | 603 | 
 | 2022-11-12 | 2899 | 603 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 2892 | 603 | 
 | 2022-10-19 | 2892 | 602 | 
 | 2022-10-17 | 2892 | 602 | 
-| 2022-10-16 | 2892 | 602 | 
 

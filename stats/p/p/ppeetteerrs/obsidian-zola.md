@@ -1,6 +1,6 @@
 # ppeetteerrs/obsidian-zola - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 331 | 74 | 
 | 2022-11-14 | 331 | 74 | 
 | 2022-11-13 | 330 | 73 | 
 | 2022-11-12 | 329 | 72 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 309 | 68 | 
 | 2022-10-18 | 308 | 68 | 
 | 2022-10-17 | 308 | 67 | 
-| 2022-10-16 | 308 | 66 | 
 

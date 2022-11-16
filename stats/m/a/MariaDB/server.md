@@ -1,10 +1,10 @@
 # MariaDB/server - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 1422
+☋ Forks: 1421
 
-★ Stars: 4536
+★ Stars: 4539
 
 [Open repository](https://github.com/MariaDB/server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 4539 | 1421 | 
 | 2022-11-14 | 4536 | 1422 | 
 | 2022-11-13 | 4535 | 1423 | 
 | 2022-11-12 | 4533 | 1422 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 4496 | 1409 | 
 | 2022-10-18 | 4493 | 1407 | 
 | 2022-10-17 | 4493 | 1406 | 
-| 2022-10-16 | 4491 | 1406 | 
 

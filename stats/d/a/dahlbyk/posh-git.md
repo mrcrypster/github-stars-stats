@@ -1,6 +1,6 @@
 # dahlbyk/posh-git - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 791
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 6583 | 791 | 
 | 2022-11-14 | 6583 | 791 | 
 | 2022-11-13 | 6581 | 791 | 
 | 2022-11-12 | 6581 | 792 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 6536 | 790 | 
 | 2022-10-18 | 6535 | 790 | 
 | 2022-10-17 | 6533 | 790 | 
-| 2022-10-16 | 6534 | 789 | 
 

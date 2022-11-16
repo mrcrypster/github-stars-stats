@@ -1,10 +1,10 @@
 # sindresorhus/KeyboardShortcuts - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 94
 
-★ Stars: 1077
+★ Stars: 1078
 
 [Open repository](https://github.com/sindresorhus/KeyboardShortcuts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1078 | 94 | 
 | 2022-11-14 | 1077 | 94 | 
 | 2022-11-13 | 1076 | 94 | 
 | 2022-11-12 | 1076 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1052 | 90 | 
 | 2022-10-18 | 1051 | 90 | 
 | 2022-10-17 | 1046 | 90 | 
-| 2022-10-16 | 1046 | 90 | 
 

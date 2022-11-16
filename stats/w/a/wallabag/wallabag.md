@@ -1,10 +1,10 @@
 # wallabag/wallabag - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 687
 
-★ Stars: 7569
+★ Stars: 7572
 
 [Open repository](https://github.com/wallabag/wallabag)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7572 | 687 | 
 | 2022-11-14 | 7569 | 687 | 
 | 2022-11-13 | 7569 | 687 | 
 | 2022-11-12 | 7566 | 687 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 7508 | 684 | 
 | 2022-10-18 | 7505 | 685 | 
 | 2022-10-17 | 7502 | 685 | 
-| 2022-10-16 | 7487 | 685 | 
 

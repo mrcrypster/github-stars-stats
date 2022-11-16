@@ -1,10 +1,10 @@
 # vinceliuice/Nephrite-kde - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 0
 
-★ Stars: 20
+★ Stars: 21
 
 [Open repository](https://github.com/vinceliuice/Nephrite-kde)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 21 | - | 
 | 2022-11-14 | 20 | - | 
 | 2022-11-13 | 20 | - | 
 | 2022-11-12 | 20 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 19 | - | 
 | 2022-10-18 | 19 | - | 
 | 2022-10-17 | 19 | - | 
-| 2022-10-16 | 19 | - | 
 

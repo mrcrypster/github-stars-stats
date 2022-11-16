@@ -1,10 +1,10 @@
 # haiwen/seafile - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1469
 
-★ Stars: 10180
+★ Stars: 10182
 
 [Open repository](https://github.com/haiwen/seafile)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 10182 | 1469 | 
 | 2022-11-14 | 10180 | 1469 | 
 | 2022-11-13 | 10176 | 1469 | 
 | 2022-11-12 | 10173 | 1470 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 10108 | 1465 | 
 | 2022-10-18 | 10103 | 1463 | 
 | 2022-10-17 | 10101 | 1464 | 
-| 2022-10-16 | 10099 | 1464 | 
 

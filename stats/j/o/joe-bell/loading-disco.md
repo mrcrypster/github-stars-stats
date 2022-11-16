@@ -1,6 +1,6 @@
 # joe-bell/loading-disco - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 157 | 1 | 
 | 2022-11-14 | 157 | 1 | 
 | 2022-11-13 | 157 | 1 | 
 | 2022-11-12 | 155 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 144 | 1 | 
 | 2022-10-18 | 144 | 1 | 
 | 2022-10-17 | 144 | 1 | 
-| 2022-10-16 | 144 | 1 | 
 

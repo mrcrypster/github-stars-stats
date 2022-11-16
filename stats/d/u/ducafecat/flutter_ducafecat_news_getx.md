@@ -1,10 +1,10 @@
 # ducafecat/flutter_ducafecat_news_getx - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 112
 
-★ Stars: 425
+★ Stars: 426
 
 [Open repository](https://github.com/ducafecat/flutter_ducafecat_news_getx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 426 | 112 | 
 | 2022-11-14 | 425 | 112 | 
 | 2022-11-13 | 425 | 112 | 
 | 2022-11-12 | 424 | 112 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 407 | 107 | 
 | 2022-10-18 | 406 | 107 | 
 | 2022-10-17 | 404 | 107 | 
-| 2022-10-16 | 404 | 107 | 
 

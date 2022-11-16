@@ -1,6 +1,6 @@
 # Mr-MeerMoazzam/Machine-Learning - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 33 | 25 | 
 | 2022-11-14 | 33 | 25 | 
 | 2022-11-13 | 33 | 25 | 
 | 2022-11-12 | 33 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 33 | 25 | 
 | 2022-10-18 | 33 | 25 | 
 | 2022-10-17 | 33 | 25 | 
-| 2022-10-16 | 33 | 25 | 
 

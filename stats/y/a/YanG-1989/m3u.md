@@ -1,10 +1,10 @@
 # YanG-1989/m3u - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 116
+☋ Forks: 117
 
-★ Stars: 442
+★ Stars: 458
 
 [Open repository](https://github.com/YanG-1989/m3u)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 458 | 117 | 
 | 2022-11-14 | 442 | 116 | 
 | 2022-11-13 | 431 | 106 | 
 | 2022-11-12 | 425 | 104 | 

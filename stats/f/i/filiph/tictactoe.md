@@ -1,6 +1,6 @@
 # filiph/tictactoe - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 87
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 299 | 87 | 
 | 2022-11-14 | 299 | 87 | 
 | 2022-11-13 | 299 | 87 | 
 | 2022-11-12 | 298 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 291 | 86 | 
 | 2022-10-18 | 290 | 86 | 
 | 2022-10-17 | 290 | 86 | 
-| 2022-10-16 | 290 | 84 | 
 

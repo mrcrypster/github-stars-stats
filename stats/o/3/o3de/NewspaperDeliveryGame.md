@@ -1,10 +1,10 @@
 # o3de/NewspaperDeliveryGame - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 6
 
-★ Stars: 0
+★ Stars: 1
 
 [Open repository](https://github.com/o3de/NewspaperDeliveryGame)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1 | 6 | 
 | 2022-11-14 | - | 6 | 
 | 2022-11-13 | - | 6 | 
 | 2022-11-11 | - | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | - | - | 
 | 2022-10-18 | - | - | 
 | 2022-10-17 | - | - | 
-| 2022-10-16 | - | - | 
 

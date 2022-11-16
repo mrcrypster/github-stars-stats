@@ -1,6 +1,6 @@
 # cckuailong/spring-cloud-function-SpEL-RCE - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 42
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 132 | 42 | 
 | 2022-11-14 | 132 | 42 | 
 | 2022-11-13 | 132 | 42 | 
 | 2022-11-12 | 132 | 42 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 133 | 42 | 
 | 2022-10-18 | 133 | 42 | 
 | 2022-10-17 | 133 | 42 | 
-| 2022-10-16 | 132 | 42 | 
 

@@ -1,10 +1,10 @@
 # nasa/fprime - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 1171
+☋ Forks: 1172
 
-★ Stars: 9104
+★ Stars: 9106
 
 [Open repository](https://github.com/nasa/fprime)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 9106 | 1172 | 
 | 2022-11-14 | 9104 | 1171 | 
 | 2022-11-13 | 9099 | 1172 | 
 | 2022-11-12 | 9096 | 1172 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 9058 | 1160 | 
 | 2022-10-18 | 9058 | 1160 | 
 | 2022-10-17 | 9054 | 1160 | 
-| 2022-10-16 | 9053 | 1160 | 
 

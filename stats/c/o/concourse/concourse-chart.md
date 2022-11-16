@@ -1,6 +1,6 @@
 # concourse/concourse-chart - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 159
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 120 | 159 | 
 | 2022-11-14 | 120 | 159 | 
 | 2022-11-13 | 120 | 159 | 
 | 2022-11-12 | 120 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 116 | 158 | 
 | 2022-10-18 | 116 | 158 | 
 | 2022-10-17 | 116 | 158 | 
-| 2022-10-16 | 116 | 158 | 
 

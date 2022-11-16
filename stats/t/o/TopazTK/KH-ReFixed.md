@@ -1,6 +1,6 @@
 # TopazTK/KH-ReFixed - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 132 | 5 | 
 | 2022-11-14 | 132 | 5 | 
 | 2022-11-13 | 132 | 5 | 
 | 2022-11-12 | 132 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 130 | 5 | 
 | 2022-10-18 | 130 | 5 | 
 | 2022-10-17 | 130 | 5 | 
-| 2022-10-16 | 129 | 5 | 
 

@@ -1,10 +1,10 @@
 # fulibus/fuliba - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 9
 
-★ Stars: 120
+★ Stars: 121
 
 [Open repository](https://github.com/fulibus/fuliba)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 121 | 9 | 
 | 2022-11-14 | 120 | 9 | 
 | 2022-11-13 | 120 | 9 | 
 | 2022-11-12 | 120 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 120 | 9 | 
 | 2022-10-19 | 120 | 9 | 
 | 2022-10-18 | 120 | 9 | 
-| 2022-10-17 | 120 | 9 | 
 

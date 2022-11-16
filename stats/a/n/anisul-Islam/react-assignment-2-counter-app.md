@@ -1,8 +1,8 @@
 # anisul-Islam/react-assignment-2-counter-app - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 66
+☋ Forks: 67
 
 ★ Stars: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 50 | 67 | 
 | 2022-11-14 | 50 | 66 | 
 | 2022-11-13 | 50 | 66 | 
 | 2022-11-12 | 50 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 36 | 44 | 
 | 2022-10-18 | 37 | 44 | 
 | 2022-10-17 | 37 | 43 | 
-| 2022-10-16 | 37 | 43 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 15
 
 ☋ Forks: 490
 
-★ Stars: 7345
+★ Stars: 7351
 
 [Open repository](https://github.com/hajimehoshi/ebiten)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-15 | 7345 | 490 | 
+| 2022-11-15 | 7351 | 490 | 
 | 2022-11-14 | 7345 | 490 | 
 | 2022-11-13 | 7332 | 491 | 
 | 2022-11-12 | 7328 | 491 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 7233 | 485 | 
 | 2022-10-18 | 7223 | 483 | 
 | 2022-10-17 | 7212 | 483 | 
-| 2022-10-16 | 7204 | 483 | 
 

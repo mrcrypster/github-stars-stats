@@ -1,10 +1,10 @@
 # gytis-ivaskevicius/neovitality - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 52
+★ Stars: 51
 
 [Open repository](https://github.com/gytis-ivaskevicius/neovitality)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 51 | 2 | 
 | 2022-11-14 | 52 | 2 | 
 | 2022-11-13 | 52 | 2 | 
 | 2022-11-12 | 52 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 49 | 2 | 
 | 2022-10-18 | 49 | 2 | 
 | 2022-10-17 | 49 | 2 | 
-| 2022-10-16 | 49 | 2 | 
 

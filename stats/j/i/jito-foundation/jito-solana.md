@@ -1,10 +1,10 @@
 # jito-foundation/jito-solana - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 6
+☋ Forks: 7
 
-★ Stars: 60
+★ Stars: 62
 
 [Open repository](https://github.com/jito-foundation/jito-solana)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 62 | 7 | 
 | 2022-11-14 | 60 | 6 | 
 | 2022-11-13 | 60 | 6 | 
 | 2022-11-12 | 60 | 6 | 

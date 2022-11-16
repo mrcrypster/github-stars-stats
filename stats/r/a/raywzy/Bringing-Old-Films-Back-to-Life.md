@@ -1,10 +1,10 @@
 # raywzy/Bringing-Old-Films-Back-to-Life - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 21
 
-★ Stars: 323
+★ Stars: 324
 
 [Open repository](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 324 | 21 | 
 | 2022-11-14 | 323 | 21 | 
 | 2022-11-13 | 324 | 21 | 
 | 2022-11-12 | 323 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 311 | 21 | 
 | 2022-10-18 | 311 | 21 | 
 | 2022-10-17 | 311 | 21 | 
-| 2022-10-16 | 311 | 21 | 
 

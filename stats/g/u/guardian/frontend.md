@@ -1,10 +1,10 @@
 # guardian/frontend - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 563
 
-★ Stars: 5641
+★ Stars: 5642
 
 [Open repository](https://github.com/guardian/frontend)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5642 | 563 | 
 | 2022-11-14 | 5641 | 563 | 
 | 2022-11-13 | 5641 | 563 | 
 | 2022-11-12 | 5640 | 563 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 5637 | 564 | 
 | 2022-10-18 | 5636 | 563 | 
 | 2022-10-17 | 5637 | 563 | 
-| 2022-10-16 | 5637 | 563 | 
 

@@ -1,10 +1,10 @@
 # mr-r3b00t/NotProxyShellHunter - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 24
+★ Stars: 25
 
 [Open repository](https://github.com/mr-r3b00t/NotProxyShellHunter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 25 | 8 | 
 | 2022-11-14 | 24 | 7 | 
 | 2022-11-13 | 24 | 7 | 
 | 2022-11-12 | 24 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 24 | 7 | 
 | 2022-10-18 | 24 | 7 | 
 | 2022-10-17 | 24 | 7 | 
-| 2022-10-16 | 24 | 7 | 
 

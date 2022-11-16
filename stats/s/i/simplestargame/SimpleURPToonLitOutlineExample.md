@@ -1,6 +1,6 @@
 # simplestargame/SimpleURPToonLitOutlineExample - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 70 | 13 | 
 | 2022-11-15 | 70 | 13 | 
 | 2022-11-13 | 70 | 13 | 
 | 2022-11-12 | 70 | 13 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 59 | 12 | 
 | 2022-10-18 | 59 | 12 | 
 | 2022-10-17 | 59 | 12 | 
-| 2022-10-16 | 59 | 12 | 
 

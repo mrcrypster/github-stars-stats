@@ -1,10 +1,10 @@
 # 12Knocksinna/Office365itpros - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 356
+☋ Forks: 357
 
-★ Stars: 666
+★ Stars: 667
 
 [Open repository](https://github.com/12Knocksinna/Office365itpros)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 667 | 357 | 
 | 2022-11-14 | 666 | 356 | 
 | 2022-11-13 | 666 | 356 | 
 | 2022-11-12 | 666 | 356 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 648 | 340 | 
 | 2022-10-18 | 647 | 340 | 
 | 2022-10-17 | 647 | 338 | 
-| 2022-10-16 | 647 | 338 | 
 

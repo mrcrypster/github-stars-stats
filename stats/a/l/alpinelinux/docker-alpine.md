@@ -1,8 +1,8 @@
 # alpinelinux/docker-alpine - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 163
+☋ Forks: 162
 
 ★ Stars: 739
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 739 | 162 | 
 | 2022-11-14 | 739 | 163 | 
 | 2022-11-13 | 738 | 161 | 
 | 2022-11-12 | 737 | 162 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 724 | 159 | 
 | 2022-10-18 | 722 | 159 | 
 | 2022-10-17 | 720 | 159 | 
-| 2022-10-16 | 720 | 159 | 
 

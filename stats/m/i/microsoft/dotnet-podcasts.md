@@ -1,8 +1,8 @@
 # microsoft/dotnet-podcasts - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 495
+☋ Forks: 494
 
 ★ Stars: 1836
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1836 | 494 | 
 | 2022-11-14 | 1836 | 495 | 
 | 2022-11-13 | 1834 | 494 | 
 | 2022-11-12 | 1834 | 492 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1767 | 462 | 
 | 2022-10-18 | 1766 | 461 | 
 | 2022-10-17 | 1764 | 461 | 
-| 2022-10-16 | 1762 | 461 | 
 

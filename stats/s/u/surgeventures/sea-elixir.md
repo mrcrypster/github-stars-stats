@@ -1,10 +1,10 @@
 # surgeventures/sea-elixir - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/surgeventures/sea-elixir)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 12 | 2 | 
 | 2022-11-14 | 11 | 2 | 
 | 2022-11-13 | 11 | 2 | 
 | 2022-11-12 | 11 | 2 | 

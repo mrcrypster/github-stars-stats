@@ -1,10 +1,10 @@
 # fonsp/Pluto.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 254
 
-★ Stars: 4208
+★ Stars: 4210
 
 [Open repository](https://github.com/fonsp/Pluto.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 4210 | 254 | 
 | 2022-11-14 | 4208 | 254 | 
 | 2022-11-13 | 4206 | 255 | 
 | 2022-11-12 | 4204 | 255 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 4155 | 254 | 
 | 2022-10-18 | 4156 | 252 | 
 | 2022-10-17 | 4156 | 252 | 
-| 2022-10-16 | 4154 | 252 | 
 

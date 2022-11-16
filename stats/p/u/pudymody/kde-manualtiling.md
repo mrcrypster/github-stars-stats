@@ -1,6 +1,6 @@
 # pudymody/kde-manualtiling - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 17 | - | 
 | 2022-11-14 | 17 | - | 
 | 2022-11-13 | 17 | - | 
 | 2022-11-12 | 17 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 16 | - | 
 | 2022-10-19 | 16 | - | 
 | 2022-10-18 | 16 | - | 
-| 2022-10-17 | 16 | - | 
 

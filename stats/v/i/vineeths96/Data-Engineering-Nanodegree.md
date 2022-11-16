@@ -1,6 +1,6 @@
 # vineeths96/Data-Engineering-Nanodegree - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 50
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 76 | 50 | 
 | 2022-11-14 | 76 | 50 | 
 | 2022-11-12 | 76 | 50 | 
 | 2022-11-11 | 76 | 50 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 74 | 51 | 
 | 2022-10-18 | 74 | 51 | 
 | 2022-10-17 | 74 | 51 | 
-| 2022-10-16 | 74 | 51 | 
 

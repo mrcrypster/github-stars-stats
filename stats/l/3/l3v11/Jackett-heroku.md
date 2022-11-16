@@ -1,8 +1,8 @@
 # l3v11/Jackett-heroku - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 85
+☋ Forks: 86
 
 ★ Stars: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 36 | 86 | 
 | 2022-11-14 | 36 | 85 | 
 | 2022-11-13 | 36 | 85 | 
 | 2022-11-12 | 36 | 85 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 36 | 86 | 
 | 2022-10-19 | 36 | 86 | 
 | 2022-10-18 | 36 | 86 | 
-| 2022-10-17 | 37 | 86 | 
 

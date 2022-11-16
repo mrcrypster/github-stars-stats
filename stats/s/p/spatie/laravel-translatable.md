@@ -1,10 +1,10 @@
 # spatie/laravel-translatable - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 237
 
-★ Stars: 1856
+★ Stars: 1858
 
 [Open repository](https://github.com/spatie/laravel-translatable)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1858 | 237 | 
 | 2022-11-14 | 1856 | 237 | 
 | 2022-11-13 | 1855 | 237 | 
 | 2022-11-12 | 1853 | 237 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1841 | 233 | 
 | 2022-10-18 | 1840 | 233 | 
 | 2022-10-17 | 1839 | 233 | 
-| 2022-10-16 | 1838 | 233 | 
 

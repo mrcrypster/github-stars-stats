@@ -1,6 +1,6 @@
 # whitenois3/nplate - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 101 | 1 | 
 | 2022-11-14 | 101 | 1 | 
 | 2022-11-13 | 101 | 1 | 
 | 2022-11-12 | 100 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 90 | 1 | 
 | 2022-10-18 | 88 | 1 | 
 | 2022-10-17 | 83 | 1 | 
-| 2022-10-16 | 76 | 1 | 
 

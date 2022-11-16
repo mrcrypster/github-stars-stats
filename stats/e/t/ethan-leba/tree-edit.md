@@ -1,10 +1,10 @@
 # ethan-leba/tree-edit - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 15
 
-★ Stars: 286
+★ Stars: 287
 
 [Open repository](https://github.com/ethan-leba/tree-edit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 287 | 15 | 
 | 2022-11-14 | 286 | 15 | 
 | 2022-11-13 | 285 | 15 | 
 | 2022-11-12 | 285 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 278 | 15 | 
 | 2022-10-18 | 278 | 15 | 
 | 2022-10-17 | 278 | 15 | 
-| 2022-10-16 | 278 | 15 | 
 

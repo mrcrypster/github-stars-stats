@@ -1,6 +1,6 @@
 # muveso/URPVertexDensity - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 51 | - | 
 | 2022-11-14 | 51 | - | 
 | 2022-11-13 | 51 | - | 
 | 2022-11-12 | 51 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 51 | - | 
 | 2022-10-18 | 51 | - | 
 | 2022-10-17 | 51 | - | 
-| 2022-10-16 | 51 | - | 
 

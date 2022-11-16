@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 15
 
 ☋ Forks: 29
 
-★ Stars: 154
+★ Stars: 157
 
 [Open repository](https://github.com/craftzdog/inkdrop-ui-mockup-react-native)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-15 | 154 | 29 | 
+| 2022-11-15 | 157 | 29 | 
 | 2022-11-14 | 153 | 29 | 
 

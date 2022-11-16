@@ -1,10 +1,10 @@
 # imrenagi/sipencari - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 30
 
-★ Stars: 236
+★ Stars: 235
 
 [Open repository](https://github.com/imrenagi/sipencari)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 235 | 30 | 
 | 2022-11-14 | 236 | 30 | 
 | 2022-11-13 | 236 | 30 | 
 | 2022-11-12 | 236 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 237 | 30 | 
 | 2022-10-18 | 237 | 30 | 
 | 2022-10-17 | 237 | 30 | 
-| 2022-10-16 | 237 | 30 | 
 

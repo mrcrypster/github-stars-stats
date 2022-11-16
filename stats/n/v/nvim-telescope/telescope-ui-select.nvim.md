@@ -1,6 +1,6 @@
 # nvim-telescope/telescope-ui-select.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 275 | 7 | 
 | 2022-11-14 | 275 | 7 | 
 | 2022-11-13 | 275 | 7 | 
 | 2022-11-12 | 275 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 261 | 7 | 
 | 2022-10-18 | 261 | 7 | 
 | 2022-10-17 | 260 | 7 | 
-| 2022-10-16 | 261 | 7 | 
 

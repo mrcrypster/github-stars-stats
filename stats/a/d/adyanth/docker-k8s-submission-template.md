@@ -1,6 +1,6 @@
 # adyanth/docker-k8s-submission-template - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 36
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | - | 36 | 
 | 2022-11-14 | - | 36 | 
 | 2022-11-13 | - | 36 | 
 | 2022-11-12 | - | 36 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | - | 36 | 
 | 2022-10-18 | - | 36 | 
 | 2022-10-17 | - | 36 | 
-| 2022-10-16 | - | 36 | 
 

@@ -1,10 +1,10 @@
 # scipy/scipy - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 4472
+☋ Forks: 4473
 
-★ Stars: 10459
+★ Stars: 10464
 
 [Open repository](https://github.com/scipy/scipy)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 10464 | 4473 | 
 | 2022-11-14 | 10459 | 4472 | 
 | 2022-11-13 | 10458 | 4471 | 
 | 2022-11-12 | 10455 | 4471 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 10363 | 4433 | 
 | 2022-10-18 | 10358 | 4432 | 
 | 2022-10-17 | 10353 | 4428 | 
-| 2022-10-16 | 10348 | 4428 | 
 

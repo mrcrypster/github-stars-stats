@@ -1,6 +1,6 @@
 # purcell/package-lint - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 166 | 30 | 
 | 2022-11-14 | 166 | 30 | 
 | 2022-11-13 | 166 | 30 | 
 | 2022-11-12 | 166 | 30 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 163 | 30 | 
 | 2022-10-18 | 162 | 30 | 
 | 2022-10-17 | 162 | 30 | 
-| 2022-10-16 | 162 | 30 | 
 

@@ -1,6 +1,6 @@
 # phalconer/fladminvue - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 100 | 32 | 
 | 2022-11-14 | 100 | 32 | 
 | 2022-11-13 | 100 | 32 | 
 | 2022-11-11 | 100 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 100 | 32 | 
 | 2022-10-18 | 100 | 32 | 
 | 2022-10-17 | 100 | 32 | 
-| 2022-10-16 | 100 | 32 | 
 

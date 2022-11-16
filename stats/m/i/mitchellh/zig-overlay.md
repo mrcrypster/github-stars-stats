@@ -1,10 +1,10 @@
 # mitchellh/zig-overlay - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 7
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/mitchellh/zig-overlay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 29 | 7 | 
 | 2022-11-14 | 28 | 7 | 
 | 2022-11-13 | 28 | 7 | 
 | 2022-11-11 | 28 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 22 | 5 | 
 | 2022-10-18 | 22 | 5 | 
 | 2022-10-17 | 22 | 4 | 
-| 2022-10-16 | 22 | 4 | 
 

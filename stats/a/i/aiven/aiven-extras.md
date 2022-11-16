@@ -1,8 +1,8 @@
 # aiven/aiven-extras - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 5
+☋ Forks: 6
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 10 | 6 | 
 | 2022-11-14 | 10 | 5 | 
 | 2022-11-13 | 10 | 5 | 
 | 2022-11-12 | 10 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 9 | 5 | 
 | 2022-10-18 | 9 | 5 | 
 | 2022-10-17 | 9 | 5 | 
-| 2022-10-16 | 9 | 5 | 
 

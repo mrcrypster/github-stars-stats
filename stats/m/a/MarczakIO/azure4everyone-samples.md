@@ -1,10 +1,10 @@
 # MarczakIO/azure4everyone-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 932
 
-★ Stars: 198
+★ Stars: 199
 
 [Open repository](https://github.com/MarczakIO/azure4everyone-samples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 199 | 932 | 
 | 2022-11-14 | 198 | 932 | 
 | 2022-11-13 | 198 | 928 | 
 | 2022-11-12 | 198 | 928 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 195 | 915 | 
 | 2022-10-18 | 195 | 915 | 
 | 2022-10-17 | 194 | 910 | 
-| 2022-10-16 | 194 | 910 | 
 

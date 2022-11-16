@@ -1,10 +1,10 @@
 # qbcore-framework/qb-core - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 842
+☋ Forks: 838
 
-★ Stars: 357
+★ Stars: 358
 
 [Open repository](https://github.com/qbcore-framework/qb-core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 358 | 838 | 
 | 2022-11-14 | 357 | 842 | 
 | 2022-11-13 | 357 | 842 | 
 | 2022-11-12 | 357 | 842 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 347 | 830 | 
 | 2022-10-18 | 347 | 828 | 
 | 2022-10-17 | 347 | 829 | 
-| 2022-10-16 | 346 | 830 | 
 

@@ -1,8 +1,8 @@
 # cszn/DnCNN - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 507
+☋ Forks: 506
 
 ★ Stars: 1146
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1146 | 506 | 
 | 2022-11-14 | 1146 | 507 | 
 | 2022-11-13 | 1146 | 507 | 
 | 2022-11-12 | 1145 | 507 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1130 | 504 | 
 | 2022-10-18 | 1130 | 504 | 
 | 2022-10-17 | 1130 | 503 | 
-| 2022-10-16 | 1130 | 503 | 
 

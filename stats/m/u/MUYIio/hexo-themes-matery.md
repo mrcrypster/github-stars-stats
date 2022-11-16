@@ -1,10 +1,10 @@
 # MUYIio/hexo-themes-matery - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 43
+☋ Forks: 44
 
-★ Stars: 68
+★ Stars: 69
 
 [Open repository](https://github.com/MUYIio/hexo-themes-matery)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 69 | 44 | 
 | 2022-11-14 | 68 | 43 | 
 | 2022-11-13 | 68 | 43 | 
 | 2022-11-12 | 67 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 64 | 43 | 
 | 2022-10-18 | 62 | 43 | 
 | 2022-10-17 | 62 | 43 | 
-| 2022-10-16 | 62 | 43 | 
 

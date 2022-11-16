@@ -1,10 +1,10 @@
 # NetEase/arctic - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 89
 
-★ Stars: 330
+★ Stars: 332
 
 [Open repository](https://github.com/NetEase/arctic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 332 | 89 | 
 | 2022-11-14 | 330 | 89 | 
 | 2022-11-13 | 329 | 89 | 
 | 2022-11-11 | 329 | 89 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 301 | 80 | 
 | 2022-10-18 | 301 | 80 | 
 | 2022-10-17 | 301 | 80 | 
-| 2022-10-16 | 300 | 80 | 
 

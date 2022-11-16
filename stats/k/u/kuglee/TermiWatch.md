@@ -1,10 +1,10 @@
 # kuglee/TermiWatch - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 159
 
-★ Stars: 1868
+★ Stars: 1870
 
 [Open repository](https://github.com/kuglee/TermiWatch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1870 | 159 | 
 | 2022-11-15 | 1868 | 159 | 
 | 2022-11-13 | 1868 | 159 | 
 | 2022-11-12 | 1868 | 159 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-19 | 1853 | 160 | 
 | 2022-10-18 | 1852 | 160 | 
 | 2022-10-17 | 1851 | 161 | 
-| 2022-10-16 | 1851 | 161 | 
 

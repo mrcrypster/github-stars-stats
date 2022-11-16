@@ -1,10 +1,10 @@
 # shavitush/bhoptimer - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 86
 
-★ Stars: 208
+★ Stars: 209
 
 [Open repository](https://github.com/shavitush/bhoptimer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 209 | 86 | 
 | 2022-11-14 | 208 | 86 | 
 | 2022-11-13 | 208 | 85 | 
 | 2022-11-12 | 208 | 85 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 204 | 87 | 
 | 2022-10-18 | 204 | 87 | 
 | 2022-10-17 | 204 | 87 | 
-| 2022-10-16 | 204 | 87 | 
 

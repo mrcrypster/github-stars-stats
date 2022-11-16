@@ -1,10 +1,10 @@
 # firefly-iii/firefly-iii - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 949
+☋ Forks: 956
 
-★ Stars: 9190
+★ Stars: 9212
 
 [Open repository](https://github.com/firefly-iii/firefly-iii)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 9212 | 956 | 
 | 2022-11-14 | 9190 | 949 | 
 | 2022-11-13 | 9190 | 949 | 
 | 2022-11-12 | 9179 | 949 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 9066 | 934 | 
 | 2022-10-18 | 9063 | 934 | 
 | 2022-10-17 | 9054 | 935 | 
-| 2022-10-16 | 9047 | 932 | 
 

@@ -1,10 +1,10 @@
 # balena-os/balena-generic - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2
 
-★ Stars: 4
+★ Stars: 5
 
 [Open repository](https://github.com/balena-os/balena-generic)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 5 | 2 | 
 | 2022-11-14 | 4 | 2 | 
 | 2022-11-13 | 4 | 2 | 
 | 2022-11-12 | 4 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 3 | 2 | 
 | 2022-10-18 | 3 | 2 | 
 | 2022-10-17 | 3 | 2 | 
-| 2022-10-16 | 3 | 2 | 
 

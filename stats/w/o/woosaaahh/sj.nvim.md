@@ -1,10 +1,10 @@
 # woosaaahh/sj.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 70
+★ Stars: 72
 
 [Open repository](https://github.com/woosaaahh/sj.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 72 | 1 | 
 | 2022-11-14 | 70 | 1 | 
 | 2022-11-13 | 70 | 1 | 
 | 2022-11-12 | 68 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 53 | 1 | 
 | 2022-10-18 | 52 | 1 | 
 | 2022-10-17 | 52 | 1 | 
-| 2022-10-16 | 52 | 1 | 
 

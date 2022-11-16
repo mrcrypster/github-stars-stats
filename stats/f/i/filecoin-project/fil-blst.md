@@ -1,10 +1,10 @@
 # filecoin-project/fil-blst - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 14
 
-★ Stars: 6
+★ Stars: 7
 
 [Open repository](https://github.com/filecoin-project/fil-blst)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7 | 14 | 
 | 2022-11-14 | 6 | 14 | 
 | 2022-11-13 | 6 | 14 | 
 | 2022-11-12 | 6 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 6 | 14 | 
 | 2022-10-18 | 6 | 14 | 
 | 2022-10-17 | 6 | 14 | 
-| 2022-10-16 | 6 | 14 | 
 

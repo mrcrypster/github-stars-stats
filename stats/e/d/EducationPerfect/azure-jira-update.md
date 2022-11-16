@@ -1,6 +1,6 @@
 # EducationPerfect/azure-jira-update - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 17 | 15 | 
 | 2022-11-14 | 17 | 15 | 
 | 2022-11-13 | 17 | 15 | 
 | 2022-11-11 | 17 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 16 | 15 | 
 | 2022-10-18 | 16 | 15 | 
 | 2022-10-17 | 16 | 15 | 
-| 2022-10-16 | 16 | 15 | 
 

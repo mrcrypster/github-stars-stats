@@ -1,10 +1,10 @@
 # VOICEVOX/voicevox - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 157
 
-★ Stars: 1265
+★ Stars: 1266
 
 [Open repository](https://github.com/VOICEVOX/voicevox)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1266 | 157 | 
 | 2022-11-14 | 1265 | 157 | 
 | 2022-11-13 | 1260 | 157 | 
 | 2022-11-12 | 1258 | 157 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1230 | 154 | 
 | 2022-10-18 | 1231 | 154 | 
 | 2022-10-17 | 1230 | 154 | 
-| 2022-10-16 | 1227 | 154 | 
 

@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 15
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 64
+★ Stars: 67
 
 [Open repository](https://github.com/zonemeen/netease-recent-profile)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-15 | 64 | 5 | 
+| 2022-11-15 | 67 | 6 | 
 | 2022-11-14 | 63 | 5 | 
 | 2022-11-13 | 58 | 5 | 
 

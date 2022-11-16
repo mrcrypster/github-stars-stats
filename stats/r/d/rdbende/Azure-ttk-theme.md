@@ -1,8 +1,8 @@
 # rdbende/Azure-ttk-theme - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 76
+☋ Forks: 77
 
 ★ Stars: 400
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 400 | 77 | 
 | 2022-11-14 | 400 | 76 | 
 | 2022-11-13 | 398 | 75 | 
 | 2022-11-12 | 398 | 75 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 390 | 70 | 
 | 2022-10-18 | 388 | 70 | 
 | 2022-10-17 | 388 | 70 | 
-| 2022-10-16 | 387 | 69 | 
 

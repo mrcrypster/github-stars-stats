@@ -1,6 +1,6 @@
 # cognitedata/cognite-sdk-scala - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6 | 2 | 
+| 2022-11-15 | 6 | 2 | 
 | 2022-11-14 | 6 | 2 | 
 | 2022-11-13 | 6 | 2 | 
 | 2022-11-12 | 6 | 2 | 

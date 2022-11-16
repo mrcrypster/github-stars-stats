@@ -1,6 +1,6 @@
 # crimethinc/website - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 34
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 86 | 34 | 
 | 2022-11-14 | 86 | 34 | 
 | 2022-11-13 | 85 | 34 | 
 | 2022-11-12 | 85 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 83 | 34 | 
 | 2022-10-18 | 83 | 34 | 
 | 2022-10-17 | 83 | 34 | 
-| 2022-10-16 | 83 | 34 | 
 

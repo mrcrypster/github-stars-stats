@@ -1,10 +1,10 @@
 # CMD-X/CMD-X - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 78
 
-★ Stars: 69
+★ Stars: 70
 
 [Open repository](https://github.com/CMD-X/CMD-X)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 70 | 78 | 
 | 2022-11-14 | 69 | 78 | 
 | 2022-11-13 | 69 | 78 | 
 | 2022-11-11 | 69 | 78 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 69 | 76 | 
 | 2022-10-18 | 69 | 76 | 
 | 2022-10-17 | 69 | 76 | 
-| 2022-10-16 | 69 | 77 | 
 

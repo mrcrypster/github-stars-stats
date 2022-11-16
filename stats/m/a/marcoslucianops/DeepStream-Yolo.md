@@ -1,10 +1,10 @@
 # marcoslucianops/DeepStream-Yolo - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 211
+☋ Forks: 212
 
-★ Stars: 704
+★ Stars: 706
 
 [Open repository](https://github.com/marcoslucianops/DeepStream-Yolo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 706 | 212 | 
 | 2022-11-14 | 704 | 211 | 
 | 2022-11-13 | 702 | 211 | 
 | 2022-11-12 | 701 | 211 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 681 | 207 | 
 | 2022-10-18 | 680 | 207 | 
 | 2022-10-17 | 679 | 206 | 
-| 2022-10-16 | 678 | 206 | 
 

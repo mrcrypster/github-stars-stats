@@ -1,6 +1,6 @@
 # freebsd/freebsd-quarterly - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 124
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 51 | 124 | 
 | 2022-11-14 | 51 | 124 | 
 | 2022-11-13 | 51 | 124 | 
 | 2022-11-12 | 51 | 124 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 51 | 123 | 
 | 2022-10-18 | 51 | 123 | 
 | 2022-10-17 | 51 | 123 | 
-| 2022-10-16 | 51 | 123 | 
 

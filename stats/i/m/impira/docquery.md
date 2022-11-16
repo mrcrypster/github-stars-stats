@@ -1,6 +1,6 @@
 # impira/docquery - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 43
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1174 | 43 | 
 | 2022-11-14 | 1174 | 43 | 
 | 2022-11-13 | 1173 | 43 | 
 | 2022-11-12 | 1171 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1126 | 39 | 
 | 2022-10-18 | 1123 | 39 | 
 | 2022-10-17 | 1116 | 38 | 
-| 2022-10-16 | 1113 | 38 | 
 

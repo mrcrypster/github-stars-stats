@@ -1,10 +1,10 @@
 # xmrig/xmrig - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
-☋ Forks: 3309
+☋ Forks: 3311
 
-★ Stars: 7246
+★ Stars: 7247
 
 [Open repository](https://github.com/xmrig/xmrig)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7247 | 3311 | 
 | 2022-11-14 | 7246 | 3309 | 
 | 2022-11-13 | 7245 | 3306 | 
 | 2022-11-12 | 7245 | 3305 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 7210 | 3283 | 
 | 2022-10-18 | 7211 | 3283 | 
 | 2022-10-17 | 7211 | 3283 | 
-| 2022-10-16 | 7209 | 3283 | 
 

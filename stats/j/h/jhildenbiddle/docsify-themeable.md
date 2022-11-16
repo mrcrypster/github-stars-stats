@@ -1,10 +1,10 @@
 # jhildenbiddle/docsify-themeable - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 268
 
-★ Stars: 421
+★ Stars: 422
 
 [Open repository](https://github.com/jhildenbiddle/docsify-themeable)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 422 | 268 | 
 | 2022-11-14 | 421 | 268 | 
 | 2022-11-13 | 421 | 268 | 
 | 2022-11-12 | 421 | 268 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 418 | 265 | 
 | 2022-10-18 | 417 | 265 | 
 | 2022-10-17 | 416 | 264 | 
-| 2022-10-16 | 416 | 263 | 
 

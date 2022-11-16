@@ -1,6 +1,6 @@
 # MartinThoma/LaTeX-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 409
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 1362 | 409 | 
 | 2022-11-14 | 1362 | 409 | 
 | 2022-11-13 | 1362 | 409 | 
 | 2022-11-12 | 1362 | 409 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 1355 | 407 | 
 | 2022-10-18 | 1356 | 407 | 
 | 2022-10-17 | 1356 | 407 | 
-| 2022-10-16 | 1356 | 406 | 
 

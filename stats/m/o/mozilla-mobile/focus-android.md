@@ -1,10 +1,10 @@
 # mozilla-mobile/focus-android - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 743
 
-★ Stars: 2109
+★ Stars: 2110
 
 [Open repository](https://github.com/mozilla-mobile/focus-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2110 | 743 | 
 | 2022-11-14 | 2109 | 743 | 
 | 2022-11-13 | 2107 | 743 | 
 | 2022-11-12 | 2106 | 743 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2091 | 739 | 
 | 2022-10-18 | 2091 | 738 | 
 | 2022-10-17 | 2091 | 739 | 
-| 2022-10-16 | 2092 | 738 | 
 

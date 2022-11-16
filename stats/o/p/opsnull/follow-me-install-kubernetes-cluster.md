@@ -1,10 +1,10 @@
 # opsnull/follow-me-install-kubernetes-cluster - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2870
 
-★ Stars: 7053
+★ Stars: 7052
 
 [Open repository](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 7052 | 2870 | 
 | 2022-11-14 | 7053 | 2870 | 
 | 2022-11-13 | 7052 | 2870 | 
 | 2022-11-12 | 7051 | 2869 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 7028 | 2857 | 
 | 2022-10-18 | 7027 | 2857 | 
 | 2022-10-17 | 7028 | 2857 | 
-| 2022-10-16 | 7026 | 2857 | 
 

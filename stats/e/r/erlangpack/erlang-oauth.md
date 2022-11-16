@@ -1,6 +1,6 @@
 # erlangpack/erlang-oauth - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 102
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 297 | 102 | 
 | 2022-11-14 | 297 | 102 | 
 | 2022-11-13 | 297 | 102 | 
 | 2022-11-12 | 297 | 102 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-20 | 298 | 102 | 
 | 2022-10-19 | 298 | 102 | 
 | 2022-10-18 | 298 | 102 | 
-| 2022-10-17 | 298 | 102 | 
 

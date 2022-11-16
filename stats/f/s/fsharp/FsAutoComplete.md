@@ -1,6 +1,6 @@
 # fsharp/FsAutoComplete - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 140
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 297 | 140 | 
 | 2022-11-14 | 297 | 140 | 
 | 2022-11-13 | 296 | 140 | 
 | 2022-11-12 | 296 | 139 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 290 | 140 | 
 | 2022-10-18 | 290 | 140 | 
 | 2022-10-17 | 290 | 140 | 
-| 2022-10-16 | 290 | 140 | 
 

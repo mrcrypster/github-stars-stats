@@ -1,10 +1,10 @@
 # juvet/juvet - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 1
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/juvet/juvet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 55 | 1 | 
 | 2022-11-14 | 54 | 1 | 
 | 2022-11-13 | 54 | 1 | 
 | 2022-11-12 | 54 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 41 | - | 
 | 2022-10-18 | 41 | - | 
 | 2022-10-17 | 41 | - | 
-| 2022-10-16 | 41 | - | 
 

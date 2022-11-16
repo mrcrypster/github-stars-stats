@@ -1,10 +1,10 @@
 # whatwg/html - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 2328
 
-★ Stars: 6205
+★ Stars: 6214
 
 [Open repository](https://github.com/whatwg/html)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 6214 | 2328 | 
 | 2022-11-14 | 6205 | 2328 | 
 | 2022-11-13 | 6203 | 2325 | 
 | 2022-11-12 | 6203 | 2323 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 6123 | 2295 | 
 | 2022-10-18 | 6119 | 2295 | 
 | 2022-10-17 | 6116 | 2292 | 
-| 2022-10-16 | 6113 | 2290 | 
 

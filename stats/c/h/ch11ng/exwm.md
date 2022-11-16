@@ -1,10 +1,10 @@
 # ch11ng/exwm - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 140
 
-★ Stars: 2631
+★ Stars: 2633
 
 [Open repository](https://github.com/ch11ng/exwm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 2633 | 140 | 
 | 2022-11-14 | 2631 | 140 | 
 | 2022-11-13 | 2630 | 140 | 
 | 2022-11-12 | 2629 | 140 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 2620 | 138 | 
 | 2022-10-18 | 2620 | 138 | 
 | 2022-10-17 | 2619 | 138 | 
-| 2022-10-16 | 2619 | 138 | 
 

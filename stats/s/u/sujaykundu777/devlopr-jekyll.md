@@ -1,6 +1,6 @@
 # sujaykundu777/devlopr-jekyll - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 775
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 536 | 775 | 
 | 2022-11-14 | 536 | 775 | 
 | 2022-11-13 | 536 | 774 | 
 | 2022-11-12 | 536 | 774 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 525 | 766 | 
 | 2022-10-18 | 525 | 766 | 
 | 2022-10-17 | 525 | 766 | 
-| 2022-10-16 | 525 | 766 | 
 

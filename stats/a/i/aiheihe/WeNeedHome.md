@@ -1,10 +1,10 @@
 # aiheihe/WeNeedHome - stars & forks statistics
 
-Stats updated on Nov 2022, 14
+Stats updated on Nov 2022, 15
 
 ☋ Forks: 14
 
-★ Stars: 140
+★ Stars: 139
 
 [Open repository](https://github.com/aiheihe/WeNeedHome)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 14
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-15 | 139 | 14 | 
 | 2022-11-14 | 140 | 14 | 
 | 2022-11-13 | 140 | 14 | 
 | 2022-11-12 | 140 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 14
 | 2022-10-19 | 137 | 14 | 
 | 2022-10-18 | 137 | 14 | 
 | 2022-10-17 | 137 | 14 | 
-| 2022-10-16 | 137 | 14 | 
 
