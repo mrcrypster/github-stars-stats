@@ -1,10 +1,10 @@
 # acecilia/OpenWRTInvasion - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 206
 
-★ Stars: 931
+★ Stars: 932
 
 [Open repository](https://github.com/acecilia/OpenWRTInvasion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 932 | 206 | 
 | 2022-11-15 | 931 | 206 | 
 | 2022-11-14 | 930 | 206 | 
 | 2022-11-13 | 928 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 903 | 200 | 
 | 2022-10-19 | 903 | 200 | 
 | 2022-10-18 | 902 | 200 | 
-| 2022-10-17 | 902 | 200 | 
 

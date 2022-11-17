@@ -1,6 +1,6 @@
 # sql-bi/Contoso-Data-Generator - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 92 | 19 | 
 | 2022-11-16 | 92 | 19 | 
 | 2022-11-14 | 91 | 19 | 
 | 2022-11-13 | 91 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 90 | 19 | 
 | 2022-10-19 | 90 | 18 | 
 | 2022-10-18 | 90 | 18 | 
-| 2022-10-17 | 90 | 18 | 
 

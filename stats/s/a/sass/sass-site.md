@@ -1,6 +1,6 @@
 # sass/sass-site - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 214
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 267 | 214 | 
 | 2022-11-15 | 267 | 214 | 
 | 2022-11-14 | 268 | 214 | 
 | 2022-11-13 | 268 | 214 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 262 | 211 | 
 | 2022-10-19 | 262 | 210 | 
 | 2022-10-18 | 261 | 210 | 
-| 2022-10-17 | 261 | 211 | 
 

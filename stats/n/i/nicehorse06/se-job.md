@@ -1,6 +1,6 @@
 # nicehorse06/se-job - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 407 | 41 | 
 | 2022-11-15 | 407 | 41 | 
 | 2022-11-14 | 407 | 41 | 
 | 2022-11-13 | 407 | 41 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 402 | 41 | 
 | 2022-10-19 | 402 | 41 | 
 | 2022-10-18 | 402 | 41 | 
-| 2022-10-17 | 399 | 41 | 
 

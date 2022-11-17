@@ -1,8 +1,8 @@
 # lunduniversity/introprog - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 152
+☋ Forks: 154
 
 ★ Stars: 123
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 123 | 154 | 
 | 2022-11-15 | 123 | 152 | 
 | 2022-11-14 | 123 | 151 | 
 | 2022-11-12 | 123 | 151 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 121 | 149 | 
 | 2022-10-19 | 121 | 149 | 
 | 2022-10-18 | 121 | 149 | 
-| 2022-10-17 | 121 | 149 | 
 

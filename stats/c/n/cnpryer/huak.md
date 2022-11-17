@@ -1,6 +1,6 @@
 # cnpryer/huak - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 170 | 20 | 
 | 2022-11-15 | 170 | 20 | 
 | 2022-11-14 | 170 | 20 | 
 | 2022-11-13 | 170 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 165 | 19 | 
 | 2022-10-19 | 164 | 19 | 
 | 2022-10-18 | 164 | 19 | 
-| 2022-10-17 | 164 | 19 | 
 

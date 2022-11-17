@@ -1,6 +1,6 @@
 # 0xOverflow/RedTeam-Physical-Tools - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 21
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 118 | 21 | 
 | 2022-11-16 | 118 | 21 | 
 | 2022-11-14 | 117 | 21 | 
 | 2022-11-13 | 117 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 116 | 20 | 
 | 2022-10-19 | 116 | 20 | 
 | 2022-10-18 | 116 | 20 | 
-| 2022-10-17 | 116 | 20 | 
 

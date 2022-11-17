@@ -1,6 +1,6 @@
 # Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 14 | 40 | 
 | 2022-11-15 | 14 | 40 | 
 | 2022-11-14 | 14 | 40 | 
 | 2022-11-13 | 14 | 40 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 15 | 28 | 
 | 2022-10-19 | 4 | 25 | 
 | 2022-10-18 | 4 | 24 | 
-| 2022-10-17 | 4 | 24 | 
 

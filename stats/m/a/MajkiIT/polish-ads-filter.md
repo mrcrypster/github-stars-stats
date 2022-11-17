@@ -1,10 +1,10 @@
 # MajkiIT/polish-ads-filter - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 90
 
-★ Stars: 561
+★ Stars: 560
 
 [Open repository](https://github.com/MajkiIT/polish-ads-filter)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 560 | 90 | 
 | 2022-11-15 | 561 | 90 | 
 | 2022-11-14 | 561 | 90 | 
 | 2022-11-13 | 561 | 90 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 558 | 88 | 
 | 2022-10-19 | 558 | 88 | 
 | 2022-10-18 | 558 | 88 | 
-| 2022-10-17 | 558 | 88 | 
 

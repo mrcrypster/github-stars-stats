@@ -1,10 +1,10 @@
 # portainer/portainer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 2073
+☋ Forks: 2077
 
-★ Stars: 23619
+★ Stars: 23631
 
 [Open repository](https://github.com/portainer/portainer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 23631 | 2077 | 
 | 2022-11-15 | 23619 | 2073 | 
 | 2022-11-14 | 23611 | 2071 | 
 | 2022-11-13 | 23601 | 2071 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 23360 | 2065 | 
 | 2022-10-19 | 23348 | 2061 | 
 | 2022-10-18 | 23342 | 2057 | 
-| 2022-10-17 | 23329 | 2056 | 
 

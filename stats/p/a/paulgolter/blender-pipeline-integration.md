@@ -1,10 +1,10 @@
 # paulgolter/blender-pipeline-integration - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 140
+★ Stars: 143
 
 [Open repository](https://github.com/paulgolter/blender-pipeline-integration)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 143 | 2 | 
 | 2022-11-16 | 140 | 2 | 
 | 2022-11-14 | 140 | 2 | 
 | 2022-11-13 | 139 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 125 | 2 | 
 | 2022-10-19 | 125 | 2 | 
 | 2022-10-18 | 117 | 2 | 
-| 2022-10-17 | 109 | 2 | 
 

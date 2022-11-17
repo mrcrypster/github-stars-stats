@@ -1,10 +1,10 @@
 # pinpoint-apm/pinpoint - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 3650
+☋ Forks: 3649
 
-★ Stars: 12472
+★ Stars: 12473
 
 [Open repository](https://github.com/pinpoint-apm/pinpoint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 12473 | 3649 | 
 | 2022-11-15 | 12472 | 3650 | 
 | 2022-11-14 | 12473 | 3651 | 
 | 2022-11-13 | 12471 | 3651 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 12434 | 3643 | 
 | 2022-10-19 | 12432 | 3643 | 
 | 2022-10-18 | 12431 | 3642 | 
-| 2022-10-17 | 12429 | 3644 | 
 

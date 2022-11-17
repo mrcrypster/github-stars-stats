@@ -1,10 +1,10 @@
 # biaochenxuying/blog - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 692
 
-★ Stars: 4035
+★ Stars: 4040
 
 [Open repository](https://github.com/biaochenxuying/blog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 4040 | 692 | 
 | 2022-11-15 | 4035 | 692 | 
 | 2022-11-14 | 4034 | 692 | 
 | 2022-11-13 | 4034 | 692 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 3986 | 691 | 
 | 2022-10-19 | 3985 | 691 | 
 | 2022-10-18 | 3979 | 691 | 
-| 2022-10-17 | 3972 | 691 | 
 

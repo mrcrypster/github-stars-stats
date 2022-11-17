@@ -1,10 +1,10 @@
 # Xuyuanp/nerdtree-git-plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 147
 
-★ Stars: 2070
+★ Stars: 2071
 
 [Open repository](https://github.com/Xuyuanp/nerdtree-git-plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2071 | 147 | 
 | 2022-11-15 | 2070 | 147 | 
 | 2022-11-14 | 2070 | 147 | 
 | 2022-11-13 | 2071 | 147 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2067 | 146 | 
 | 2022-10-19 | 2067 | 146 | 
 | 2022-10-18 | 2067 | 146 | 
-| 2022-10-17 | 2067 | 146 | 
 

@@ -1,10 +1,10 @@
 # MichaelCade/90DaysOfDevOps - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 4305
+☋ Forks: 4320
 
-★ Stars: 19606
+★ Stars: 19635
 
 [Open repository](https://github.com/MichaelCade/90DaysOfDevOps)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 19635 | 4320 | 
 | 2022-11-15 | 19606 | 4305 | 
 | 2022-11-14 | 19598 | 4303 | 
 | 2022-11-13 | 19576 | 4289 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 18771 | 4005 | 
 | 2022-10-19 | 18681 | 3966 | 
 | 2022-10-18 | 18666 | 3962 | 
-| 2022-10-17 | 18634 | 3954 | 
 

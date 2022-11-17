@@ -1,8 +1,8 @@
 # jtv/libpqxx - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 196
+☋ Forks: 195
 
 ★ Stars: 698
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 698 | 195 | 
 | 2022-11-15 | 698 | 196 | 
 | 2022-11-14 | 697 | 195 | 
 | 2022-11-12 | 696 | 195 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 687 | 196 | 
 | 2022-10-19 | 686 | 195 | 
 | 2022-10-18 | 686 | 195 | 
-| 2022-10-17 | 686 | 195 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 87
 
-★ Stars: 401
+★ Stars: 402
 
 [Open repository](https://github.com/eth-sri/securify2)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 401 | 87 | 
+| 2022-11-16 | 402 | 87 | 
 | 2022-11-15 | 401 | 87 | 
 | 2022-11-14 | 398 | 86 | 
 | 2022-11-12 | 397 | 86 | 
@@ -41,5 +41,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 382 | 83 | 
 | 2022-10-19 | 382 | 83 | 
 | 2022-10-18 | 382 | 83 | 
-| 2022-10-17 | 380 | 82 | 
 

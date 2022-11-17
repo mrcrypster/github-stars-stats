@@ -1,10 +1,10 @@
 # IceWhaleTech/CasaOS - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 475
+☋ Forks: 476
 
-★ Stars: 7267
+★ Stars: 7272
 
 [Open repository](https://github.com/IceWhaleTech/CasaOS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 7272 | 476 | 
 | 2022-11-15 | 7267 | 475 | 
 | 2022-11-14 | 7258 | 475 | 
 | 2022-11-13 | 7250 | 475 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 6827 | 438 | 
 | 2022-10-19 | 6816 | 437 | 
 | 2022-10-18 | 6803 | 433 | 
-| 2022-10-17 | 6792 | 433 | 
 

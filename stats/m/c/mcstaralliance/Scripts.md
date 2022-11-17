@@ -1,6 +1,6 @@
 # mcstaralliance/Scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 10 | 11 | 
 | 2022-11-15 | 10 | 11 | 
 | 2022-11-14 | 10 | 11 | 
 | 2022-11-13 | 10 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 10 | 11 | 
 | 2022-10-19 | 10 | 11 | 
 | 2022-10-18 | 10 | 11 | 
-| 2022-10-17 | 10 | 11 | 
 

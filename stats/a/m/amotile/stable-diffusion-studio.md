@@ -1,10 +1,10 @@
 # amotile/stable-diffusion-studio - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 24
 
-★ Stars: 416
+★ Stars: 418
 
 [Open repository](https://github.com/amotile/stable-diffusion-studio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 418 | 24 | 
 | 2022-11-16 | 416 | 24 | 
 | 2022-11-15 | 414 | 24 | 
 | 2022-11-13 | 414 | 24 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 358 | 20 | 
 | 2022-10-19 | 350 | 20 | 
 | 2022-10-18 | 348 | 20 | 
-| 2022-10-17 | 332 | 20 | 
 

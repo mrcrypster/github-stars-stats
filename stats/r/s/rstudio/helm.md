@@ -1,10 +1,10 @@
 # rstudio/helm - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 15
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/rstudio/helm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 14 | 15 | 
 | 2022-11-15 | 13 | 15 | 
 | 2022-11-14 | 13 | 15 | 
 | 2022-11-13 | 13 | 15 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 11 | 14 | 
 | 2022-10-19 | 11 | 13 | 
 | 2022-10-18 | 11 | 13 | 
-| 2022-10-17 | 11 | 13 | 
 

@@ -1,6 +1,6 @@
 # therealbazzi/Audio-Signal-Processing-Basics - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 15 | 5 | 
 | 2022-11-15 | 15 | 5 | 
 | 2022-11-14 | 15 | 5 | 
 | 2022-11-13 | 15 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 15 | 5 | 
 | 2022-10-19 | 15 | 5 | 
 | 2022-10-18 | 15 | 5 | 
-| 2022-10-17 | 15 | 5 | 
 

@@ -1,6 +1,6 @@
 # neuecc/UniRx - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 811
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6134 | 811 | 
 | 2022-11-15 | 6134 | 811 | 
 | 2022-11-14 | 6128 | 810 | 
 | 2022-11-13 | 6128 | 810 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 6099 | 808 | 
 | 2022-10-19 | 6093 | 808 | 
 | 2022-10-18 | 6093 | 807 | 
-| 2022-10-17 | 6091 | 807 | 
 

@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 237
+★ Stars: 246
 
 [Open repository](https://github.com/cshuaimin/ssr.nvim)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 237 | 1 | 
+| 2022-11-16 | 246 | 1 | 
 | 2022-11-15 | 234 | 1 | 
 

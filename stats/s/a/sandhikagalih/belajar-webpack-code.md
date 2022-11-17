@@ -1,10 +1,10 @@
 # sandhikagalih/belajar-webpack-code - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
-☋ Forks: 45
+☋ Forks: 46
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/sandhikagalih/belajar-webpack-code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 54 | 46 | 
 | 2022-11-15 | 53 | 45 | 
 | 2022-11-14 | 53 | 45 | 
 | 2022-11-13 | 53 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 51 | 36 | 
 | 2022-10-19 | 51 | 36 | 
 | 2022-10-18 | 53 | 35 | 
-| 2022-10-17 | 53 | 35 | 
 

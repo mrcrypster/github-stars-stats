@@ -1,10 +1,10 @@
 # pytorch/torchdynamo - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 203
 
-★ Stars: 707
+★ Stars: 708
 
 [Open repository](https://github.com/pytorch/torchdynamo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 708 | 203 | 
 | 2022-11-15 | 707 | 203 | 
 | 2022-11-14 | 706 | 203 | 
 | 2022-11-13 | 706 | 203 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 634 | 194 | 
 | 2022-10-19 | 630 | 194 | 
 | 2022-10-18 | 628 | 194 | 
-| 2022-10-17 | 628 | 194 | 
 

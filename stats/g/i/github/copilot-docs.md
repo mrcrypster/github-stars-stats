@@ -1,10 +1,10 @@
 # github/copilot-docs - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 2370
 
-★ Stars: 21314
+★ Stars: 21316
 
 [Open repository](https://github.com/github/copilot-docs)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 21316 | 2370 | 
 | 2022-11-15 | 21314 | 2370 | 
 | 2022-11-14 | 21311 | 2370 | 
 | 2022-11-13 | 21310 | 2369 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 21326 | 2375 | 
 | 2022-10-20 | 21328 | 2375 | 
 | 2022-10-19 | 21327 | 2376 | 
-| 2022-10-18 | 21330 | 2377 | 
 

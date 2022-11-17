@@ -1,10 +1,10 @@
 # evilsocket/jscythe - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 23
 
-★ Stars: 289
+★ Stars: 290
 
 [Open repository](https://github.com/evilsocket/jscythe)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 290 | 23 | 
 | 2022-11-15 | 289 | 23 | 
 | 2022-11-14 | 288 | 23 | 
 | 2022-11-13 | 286 | 23 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 265 | 18 | 
 | 2022-10-20 | 265 | 18 | 
 | 2022-10-19 | 265 | 18 | 
-| 2022-10-18 | 265 | 17 | 
 

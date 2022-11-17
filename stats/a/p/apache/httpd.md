@@ -1,6 +1,6 @@
 # apache/httpd - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 1007
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3096 | 1007 | 
 | 2022-11-16 | 3096 | 1007 | 
 | 2022-11-15 | 3092 | 1007 | 
 | 2022-11-13 | 3092 | 1007 | 

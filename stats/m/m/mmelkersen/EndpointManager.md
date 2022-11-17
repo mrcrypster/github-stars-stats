@@ -1,6 +1,6 @@
 # mmelkersen/EndpointManager - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 15
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 95 | 15 | 
 | 2022-11-15 | 95 | 15 | 
 | 2022-11-14 | 95 | 15 | 
 | 2022-11-13 | 95 | 15 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 95 | 15 | 
 | 2022-10-20 | 95 | 15 | 
 | 2022-10-19 | 95 | 15 | 
-| 2022-10-18 | 95 | 14 | 
 

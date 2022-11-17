@@ -1,10 +1,10 @@
 # vxunderground/VXUG-Papers - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 180
+☋ Forks: 181
 
-★ Stars: 784
+★ Stars: 787
 
 [Open repository](https://github.com/vxunderground/VXUG-Papers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 787 | 181 | 
 | 2022-11-15 | 784 | 180 | 
 | 2022-11-14 | 783 | 180 | 
 | 2022-11-13 | 782 | 180 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 758 | 176 | 
 | 2022-10-19 | 757 | 175 | 
 | 2022-10-18 | 757 | 174 | 
-| 2022-10-17 | 756 | 173 | 
 

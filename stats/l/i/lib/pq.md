@@ -1,10 +1,10 @@
 # lib/pq - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 867
 
-★ Stars: 7694
+★ Stars: 7696
 
 [Open repository](https://github.com/lib/pq)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 7696 | 867 | 
 | 2022-11-15 | 7694 | 867 | 
 | 2022-11-14 | 7693 | 867 | 
 | 2022-11-12 | 7693 | 867 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 7645 | 864 | 
 | 2022-10-19 | 7645 | 864 | 
 | 2022-10-18 | 7644 | 865 | 
-| 2022-10-17 | 7643 | 865 | 
 

@@ -1,10 +1,10 @@
 # vuejs/vitepress - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 997
+☋ Forks: 1001
 
-★ Stars: 6109
+★ Stars: 6123
 
 [Open repository](https://github.com/vuejs/vitepress)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6123 | 1001 | 
 | 2022-11-15 | 6109 | 997 | 
 | 2022-11-14 | 6103 | 994 | 
 | 2022-11-13 | 6100 | 993 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 5906 | 947 | 
 | 2022-10-19 | 5900 | 946 | 
 | 2022-10-18 | 5894 | 942 | 
-| 2022-10-17 | 5883 | 940 | 
 

@@ -1,10 +1,10 @@
 # coells/100days - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1042
 
-★ Stars: 6966
+★ Stars: 6965
 
 [Open repository](https://github.com/coells/100days)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6965 | 1042 | 
 | 2022-11-15 | 6966 | 1042 | 
 | 2022-11-14 | 6966 | 1042 | 
 | 2022-11-13 | 6966 | 1041 | 

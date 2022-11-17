@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 16
 
-☋ Forks: 119
+☋ Forks: 122
 
-★ Stars: 1343
+★ Stars: 1352
 
 [Open repository](https://github.com/EAimTY/tuic)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 1343 | 119 | 
+| 2022-11-16 | 1352 | 122 | 
 | 2022-11-15 | 1343 | 119 | 
 | 2022-11-14 | 1334 | 119 | 
 | 2022-11-13 | 1307 | 119 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1088 | 95 | 
 | 2022-10-20 | 1071 | 94 | 
 | 2022-10-19 | 1049 | 91 | 
-| 2022-10-18 | 1011 | 87 | 
 

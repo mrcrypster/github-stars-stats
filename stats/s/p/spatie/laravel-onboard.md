@@ -1,6 +1,6 @@
 # spatie/laravel-onboard - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 456 | 17 | 
 | 2022-11-15 | 456 | 17 | 
 | 2022-11-14 | 455 | 17 | 
 | 2022-11-13 | 455 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 446 | 19 | 
 | 2022-10-19 | 446 | 19 | 
 | 2022-10-18 | 446 | 19 | 
-| 2022-10-17 | 446 | 19 | 
 

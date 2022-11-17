@@ -1,6 +1,6 @@
 # unblevable/quick-scope - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1216 | 45 | 
 | 2022-11-15 | 1216 | 45 | 
 | 2022-11-14 | 1216 | 45 | 
 | 2022-11-13 | 1215 | 45 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1205 | 45 | 
 | 2022-10-19 | 1205 | 45 | 
 | 2022-10-18 | 1205 | 45 | 
-| 2022-10-17 | 1204 | 45 | 
 

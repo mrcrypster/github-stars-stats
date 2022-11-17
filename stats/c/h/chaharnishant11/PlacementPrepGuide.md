@@ -1,6 +1,6 @@
 # chaharnishant11/PlacementPrepGuide - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 644
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1221 | 644 | 
 | 2022-11-15 | 1221 | 644 | 
 | 2022-11-14 | 1221 | 644 | 
 | 2022-11-13 | 1221 | 643 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1215 | 639 | 
 | 2022-10-19 | 1212 | 639 | 
 | 2022-10-18 | 1212 | 637 | 
-| 2022-10-17 | 1210 | 638 | 
 

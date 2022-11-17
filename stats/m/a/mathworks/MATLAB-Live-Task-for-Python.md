@@ -1,6 +1,6 @@
 # mathworks/MATLAB-Live-Task-for-Python - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 45 | 10 | 
 | 2022-11-15 | 45 | 10 | 
 | 2022-11-14 | 45 | 10 | 
 | 2022-11-13 | 45 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 44 | 10 | 
 | 2022-10-19 | 44 | 10 | 
 | 2022-10-18 | 44 | 10 | 
-| 2022-10-17 | 44 | 10 | 
 

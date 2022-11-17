@@ -1,6 +1,6 @@
 # vpt-tus/ppe - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 11 | 19 | 
+| 2022-11-16 | 11 | 19 | 
 | 2022-11-15 | 11 | 19 | 
 | 2022-11-14 | 10 | 17 | 
 | 2022-11-13 | 10 | 17 | 

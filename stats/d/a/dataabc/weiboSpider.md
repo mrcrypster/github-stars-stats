@@ -1,10 +1,10 @@
 # dataabc/weiboSpider - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 1686
+☋ Forks: 1687
 
-★ Stars: 6271
+★ Stars: 6276
 
 [Open repository](https://github.com/dataabc/weiboSpider)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6276 | 1687 | 
 | 2022-11-15 | 6271 | 1686 | 
 | 2022-11-14 | 6267 | 1685 | 
 | 2022-11-13 | 6263 | 1684 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 6161 | 1670 | 
 | 2022-10-19 | 6156 | 1669 | 
 | 2022-10-18 | 6151 | 1668 | 
-| 2022-10-17 | 6147 | 1668 | 
 

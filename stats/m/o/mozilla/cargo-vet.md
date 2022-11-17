@@ -1,10 +1,10 @@
 # mozilla/cargo-vet - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 19
 
-★ Stars: 280
+★ Stars: 281
 
 [Open repository](https://github.com/mozilla/cargo-vet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 281 | 19 | 
 | 2022-11-15 | 280 | 19 | 
 | 2022-11-14 | 280 | 19 | 
 | 2022-11-13 | 280 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 276 | 18 | 
 | 2022-10-19 | 276 | 18 | 
 | 2022-10-18 | 275 | 18 | 
-| 2022-10-17 | 273 | 18 | 
 

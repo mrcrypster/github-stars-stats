@@ -1,10 +1,10 @@
 # median-research-group/LibMTL - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 75
+☋ Forks: 76
 
-★ Stars: 652
+★ Stars: 654
 
 [Open repository](https://github.com/median-research-group/LibMTL)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 654 | 76 | 
 | 2022-11-15 | 652 | 75 | 
 | 2022-11-14 | 646 | 75 | 
 | 2022-11-13 | 642 | 74 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 581 | 71 | 
 | 2022-10-19 | 580 | 71 | 
 | 2022-10-18 | 578 | 71 | 
-| 2022-10-17 | 578 | 69 | 
 

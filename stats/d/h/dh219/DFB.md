@@ -1,10 +1,10 @@
 # dh219/DFB - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
-★ Stars: 21
+★ Stars: 22
 
 [Open repository](https://github.com/dh219/DFB)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 22 | 4 | 
 | 2022-11-15 | 21 | 4 | 
 | 2022-11-14 | 21 | 4 | 
 | 2022-11-13 | 21 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 21 | 4 | 
 | 2022-10-19 | 21 | 4 | 
 | 2022-10-18 | 21 | 4 | 
-| 2022-10-17 | 21 | 4 | 
 

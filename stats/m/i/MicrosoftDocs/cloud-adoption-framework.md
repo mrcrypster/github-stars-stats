@@ -1,10 +1,10 @@
 # MicrosoftDocs/cloud-adoption-framework - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 413
 
-★ Stars: 228
+★ Stars: 231
 
 [Open repository](https://github.com/MicrosoftDocs/cloud-adoption-framework)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 231 | 413 | 
 | 2022-11-15 | 228 | 413 | 
 | 2022-11-14 | 228 | 413 | 
 | 2022-11-13 | 228 | 411 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 223 | 400 | 
 | 2022-10-19 | 223 | 401 | 
 | 2022-10-18 | 222 | 399 | 
-| 2022-10-17 | 222 | 398 | 
 

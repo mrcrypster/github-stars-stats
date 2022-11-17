@@ -1,6 +1,6 @@
 # pacstall/pacstall - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 732 | 20 | 
 | 2022-11-15 | 732 | 20 | 
 | 2022-11-14 | 732 | 22 | 
 | 2022-11-13 | 730 | 22 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 701 | 21 | 
 | 2022-10-19 | 697 | 21 | 
 | 2022-10-18 | 694 | 21 | 
-| 2022-10-17 | 686 | 21 | 
 

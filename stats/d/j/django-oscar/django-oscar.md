@@ -1,8 +1,8 @@
 # django-oscar/django-oscar - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 2017
+☋ Forks: 2018
 
 ★ Stars: 5514
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 5514 | 2018 | 
 | 2022-11-15 | 5514 | 2017 | 
 | 2022-11-14 | 5514 | 2017 | 
 | 2022-11-13 | 5514 | 2017 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 5490 | 2007 | 
 | 2022-10-19 | 5488 | 2007 | 
 | 2022-10-18 | 5487 | 2007 | 
-| 2022-10-17 | 5485 | 2009 | 
 

@@ -1,10 +1,10 @@
 # divkit/divkit - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 66
 
-★ Stars: 1572
+★ Stars: 1574
 
 [Open repository](https://github.com/divkit/divkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1574 | 66 | 
 | 2022-11-15 | 1572 | 66 | 
 | 2022-11-14 | 1570 | 66 | 
 | 2022-11-13 | 1569 | 65 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1534 | 63 | 
 | 2022-10-19 | 1534 | 63 | 
 | 2022-10-18 | 1531 | 63 | 
-| 2022-10-17 | 1531 | 63 | 
 

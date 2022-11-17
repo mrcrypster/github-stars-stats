@@ -1,6 +1,6 @@
 # chaossocial/about - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 77 | 7 | 
 | 2022-11-15 | 77 | 7 | 
 | 2022-11-14 | 77 | 7 | 
 | 2022-11-13 | 75 | 6 | 

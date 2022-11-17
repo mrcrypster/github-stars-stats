@@ -1,10 +1,10 @@
 # danhper/asdf-python - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 44
 
-★ Stars: 449
+★ Stars: 450
 
 [Open repository](https://github.com/danhper/asdf-python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 450 | 44 | 
 | 2022-11-15 | 449 | 44 | 
 | 2022-11-14 | 449 | 44 | 
 | 2022-11-13 | 448 | 43 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 440 | 42 | 
 | 2022-10-19 | 440 | 42 | 
 | 2022-10-18 | 438 | 42 | 
-| 2022-10-17 | 438 | 42 | 
 

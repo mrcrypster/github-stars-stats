@@ -1,10 +1,10 @@
 # augmentedstartups/AS-One - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 27
+☋ Forks: 28
 
-★ Stars: 145
+★ Stars: 149
 
 [Open repository](https://github.com/augmentedstartups/AS-One)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 149 | 28 | 
 | 2022-11-15 | 145 | 27 | 
 | 2022-11-14 | 139 | 27 | 
 | 2022-11-13 | 130 | 26 | 

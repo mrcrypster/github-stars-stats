@@ -1,10 +1,10 @@
 # BobbyAnguelov/Esoterica - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 31
 
-★ Stars: 536
+★ Stars: 539
 
 [Open repository](https://github.com/BobbyAnguelov/Esoterica)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 539 | 31 | 
 | 2022-11-15 | 536 | 31 | 
 | 2022-11-14 | 535 | 31 | 
 | 2022-11-13 | 532 | 31 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 508 | 25 | 
 | 2022-10-19 | 506 | 25 | 
 | 2022-10-18 | 501 | 25 | 
-| 2022-10-17 | 500 | 25 | 
 

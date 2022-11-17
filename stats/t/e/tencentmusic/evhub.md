@@ -1,6 +1,6 @@
 # tencentmusic/evhub - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 158 | 19 | 
 | 2022-11-16 | 158 | 19 | 
 | 2022-11-14 | 158 | 19 | 
 | 2022-11-13 | 158 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 148 | 17 | 
 | 2022-10-19 | 130 | 16 | 
 | 2022-10-18 | 111 | 16 | 
-| 2022-10-17 | 91 | 12 | 
 

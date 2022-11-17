@@ -1,6 +1,6 @@
 # evgenyb/aks-workshops - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 32
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 25 | 32 | 
 | 2022-11-15 | 25 | 32 | 
 | 2022-11-14 | 25 | 32 | 
 | 2022-11-13 | 25 | 32 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 25 | 31 | 
 | 2022-10-20 | 25 | 31 | 
 | 2022-10-19 | 25 | 31 | 
-| 2022-10-18 | 25 | 31 | 
 

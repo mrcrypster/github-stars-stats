@@ -1,10 +1,10 @@
 # gs-shop/vue-slick-carousel - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 169
 
-★ Stars: 718
+★ Stars: 720
 
 [Open repository](https://github.com/gs-shop/vue-slick-carousel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 720 | 169 | 
 | 2022-11-15 | 718 | 169 | 
 | 2022-11-14 | 718 | 169 | 
 | 2022-11-13 | 718 | 169 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 714 | 169 | 
 | 2022-10-19 | 714 | 169 | 
 | 2022-10-18 | 714 | 169 | 
-| 2022-10-17 | 714 | 168 | 
 

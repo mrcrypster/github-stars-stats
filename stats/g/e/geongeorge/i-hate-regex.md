@@ -1,10 +1,10 @@
 # geongeorge/i-hate-regex - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 276
+☋ Forks: 277
 
-★ Stars: 3967
+★ Stars: 3976
 
 [Open repository](https://github.com/geongeorge/i-hate-regex)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 3976 | 277 | 
 | 2022-11-15 | 3967 | 276 | 
 | 2022-11-14 | 3964 | 276 | 
 | 2022-11-13 | 3962 | 274 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 3929 | 275 | 
 | 2022-10-19 | 3928 | 275 | 
 | 2022-10-18 | 3927 | 275 | 
-| 2022-10-17 | 3928 | 275 | 
 

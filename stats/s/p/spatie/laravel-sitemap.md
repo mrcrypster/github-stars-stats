@@ -1,6 +1,6 @@
 # spatie/laravel-sitemap - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 224
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1818 | 224 | 
 | 2022-11-15 | 1818 | 224 | 
 | 2022-11-14 | 1817 | 224 | 
 | 2022-11-13 | 1816 | 223 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1792 | 223 | 
 | 2022-10-19 | 1791 | 223 | 
 | 2022-10-18 | 1791 | 223 | 
-| 2022-10-17 | 1791 | 223 | 
 

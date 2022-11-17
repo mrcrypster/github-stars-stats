@@ -1,10 +1,10 @@
 # laradock/laradock - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 4254
+☋ Forks: 4253
 
-★ Stars: 11579
+★ Stars: 11588
 
 [Open repository](https://github.com/laradock/laradock)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 11588 | 4253 | 
 | 2022-11-15 | 11579 | 4254 | 
 | 2022-11-14 | 11576 | 4254 | 
 | 2022-11-13 | 11576 | 4254 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 11543 | 4245 | 
 | 2022-10-19 | 11540 | 4244 | 
 | 2022-10-18 | 11536 | 4243 | 
-| 2022-10-17 | 11529 | 4244 | 
 

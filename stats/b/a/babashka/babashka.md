@@ -1,10 +1,10 @@
 # babashka/babashka - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 200
+☋ Forks: 201
 
-★ Stars: 3022
+★ Stars: 3023
 
 [Open repository](https://github.com/babashka/babashka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 3023 | 201 | 
 | 2022-11-15 | 3022 | 200 | 
 | 2022-11-14 | 3020 | 200 | 
 | 2022-11-13 | 3018 | 200 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2977 | 196 | 
 | 2022-10-19 | 2975 | 196 | 
 | 2022-10-18 | 2970 | 196 | 
-| 2022-10-17 | 2970 | 196 | 
 

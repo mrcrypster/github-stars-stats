@@ -1,10 +1,10 @@
 # TheAlgorithms/Solidity - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 66
 
-★ Stars: 177
+★ Stars: 180
 
 [Open repository](https://github.com/TheAlgorithms/Solidity)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 180 | 66 | 
 | 2022-11-15 | 177 | 66 | 
 | 2022-11-14 | 176 | 66 | 
 | 2022-11-13 | 176 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 163 | 57 | 
 | 2022-10-19 | 161 | 56 | 
 | 2022-10-18 | 160 | 52 | 
-| 2022-10-17 | 158 | 50 | 
 

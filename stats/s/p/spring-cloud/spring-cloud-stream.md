@@ -1,10 +1,10 @@
 # spring-cloud/spring-cloud-stream - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 530
 
-★ Stars: 844
+★ Stars: 847
 
 [Open repository](https://github.com/spring-cloud/spring-cloud-stream)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 847 | 530 | 
 | 2022-11-15 | 844 | 530 | 
 | 2022-11-14 | 844 | 530 | 
 | 2022-11-13 | 844 | 530 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 837 | 528 | 
 | 2022-10-19 | 837 | 527 | 
 | 2022-10-18 | 837 | 527 | 
-| 2022-10-17 | 837 | 526 | 
 

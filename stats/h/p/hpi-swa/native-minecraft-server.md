@@ -1,10 +1,10 @@
 # hpi-swa/native-minecraft-server - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
-★ Stars: 213
+★ Stars: 214
 
 [Open repository](https://github.com/hpi-swa/native-minecraft-server)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 214 | 4 | 
 | 2022-11-15 | 213 | 4 | 
 | 2022-11-14 | 212 | 4 | 
 | 2022-11-13 | 212 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 205 | 4 | 
 | 2022-10-19 | 205 | 4 | 
 | 2022-10-18 | 204 | 4 | 
-| 2022-10-17 | 204 | 4 | 
 

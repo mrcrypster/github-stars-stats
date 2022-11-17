@@ -1,10 +1,10 @@
 # stylelint/stylelint - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 939
+☋ Forks: 938
 
-★ Stars: 9994
+★ Stars: 9997
 
 [Open repository](https://github.com/stylelint/stylelint)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 9997 | 938 | 
 | 2022-11-15 | 9994 | 939 | 
 | 2022-11-14 | 9992 | 940 | 
 | 2022-11-13 | 9993 | 941 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 9944 | 936 | 
 | 2022-10-19 | 9941 | 936 | 
 | 2022-10-18 | 9940 | 935 | 
-| 2022-10-17 | 9938 | 935 | 
 

@@ -1,10 +1,10 @@
 # Rubberduckycooly/Sonic-Mania-Decompilation - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 71
+☋ Forks: 72
 
-★ Stars: 366
+★ Stars: 367
 
 [Open repository](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 367 | 72 | 
 | 2022-11-15 | 366 | 71 | 
 | 2022-11-14 | 366 | 71 | 
 | 2022-11-13 | 366 | 71 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 352 | 66 | 
 | 2022-10-19 | 351 | 66 | 
 | 2022-10-18 | 349 | 66 | 
-| 2022-10-17 | 348 | 65 | 
 

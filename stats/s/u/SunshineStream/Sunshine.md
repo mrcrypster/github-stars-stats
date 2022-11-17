@@ -1,10 +1,10 @@
 # SunshineStream/Sunshine - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 88
+☋ Forks: 89
 
-★ Stars: 1191
+★ Stars: 1202
 
 [Open repository](https://github.com/SunshineStream/Sunshine)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1202 | 89 | 
 | 2022-11-15 | 1191 | 88 | 
 | 2022-11-14 | 1182 | 88 | 
 | 2022-11-13 | 1174 | 88 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 999 | 80 | 
 | 2022-10-20 | 994 | 80 | 
 | 2022-10-19 | 991 | 80 | 
-| 2022-10-18 | 978 | 79 | 
 

@@ -1,10 +1,10 @@
 # KeenSecurityLab/BinAbsInspector - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 183
+☋ Forks: 184
 
-★ Stars: 1227
+★ Stars: 1228
 
 [Open repository](https://github.com/KeenSecurityLab/BinAbsInspector)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1228 | 184 | 
 | 2022-11-15 | 1227 | 183 | 
 | 2022-11-14 | 1227 | 183 | 
 | 2022-11-13 | 1226 | 182 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1214 | 181 | 
 | 2022-10-19 | 1212 | 181 | 
 | 2022-10-18 | 1210 | 181 | 
-| 2022-10-17 | 1210 | 181 | 
 

@@ -1,10 +1,10 @@
 # wezm/rsspls - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
-★ Stars: 162
+★ Stars: 163
 
 [Open repository](https://github.com/wezm/rsspls)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 163 | 4 | 
 | 2022-11-15 | 162 | 4 | 
 | 2022-11-14 | 162 | 4 | 
 | 2022-11-13 | 161 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 160 | 4 | 
 | 2022-10-20 | 160 | 4 | 
 | 2022-10-18 | 160 | 4 | 
-| 2022-10-17 | 159 | 4 | 
 

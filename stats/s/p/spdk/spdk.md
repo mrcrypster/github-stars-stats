@@ -1,6 +1,6 @@
 # spdk/spdk - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 902
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2238 | 902 | 
 | 2022-11-15 | 2238 | 902 | 
 | 2022-11-14 | 2239 | 902 | 
 | 2022-11-13 | 2237 | 902 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2216 | 899 | 
 | 2022-10-19 | 2216 | 898 | 
 | 2022-10-18 | 2215 | 897 | 
-| 2022-10-17 | 2213 | 897 | 
 

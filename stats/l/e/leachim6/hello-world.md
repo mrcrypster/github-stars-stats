@@ -1,10 +1,10 @@
 # leachim6/hello-world - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1727
 
-★ Stars: 8889
+★ Stars: 8892
 
 [Open repository](https://github.com/leachim6/hello-world)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 8892 | 1727 | 
 | 2022-11-15 | 8889 | 1727 | 
 | 2022-11-14 | 8883 | 1724 | 
 | 2022-11-13 | 8883 | 1725 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 8814 | 1704 | 
 | 2022-10-19 | 8807 | 1699 | 
 | 2022-10-18 | 8802 | 1697 | 
-| 2022-10-17 | 8796 | 1695 | 
 

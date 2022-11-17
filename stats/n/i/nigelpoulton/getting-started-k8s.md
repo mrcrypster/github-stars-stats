@@ -1,6 +1,6 @@
 # nigelpoulton/getting-started-k8s - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 347
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 253 | 347 | 
 | 2022-11-15 | 253 | 347 | 
 | 2022-11-14 | 251 | 348 | 
 | 2022-11-13 | 251 | 347 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 243 | 338 | 
 | 2022-10-19 | 243 | 337 | 
 | 2022-10-18 | 243 | 336 | 
-| 2022-10-17 | 243 | 336 | 
 

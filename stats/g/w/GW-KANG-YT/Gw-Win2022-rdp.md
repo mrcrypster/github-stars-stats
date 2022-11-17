@@ -1,8 +1,8 @@
 # GW-KANG-YT/Gw-Win2022-rdp - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
-☋ Forks: 88
+☋ Forks: 89
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1 | 89 | 
 | 2022-11-15 | 1 | 88 | 
 | 2022-11-14 | 1 | 87 | 
 | 2022-11-13 | 1 | 86 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | - | 41 | 
 | 2022-10-19 | - | 40 | 
 | 2022-10-18 | - | 39 | 
-| 2022-10-17 | - | 36 | 
 

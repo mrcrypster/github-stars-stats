@@ -1,8 +1,8 @@
 # platzi/js-challenge - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 508
+☋ Forks: 506
 
 ★ Stars: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 44 | 506 | 
 | 2022-11-15 | 44 | 508 | 
 | 2022-11-14 | 44 | 508 | 
 | 2022-11-13 | 44 | 509 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 44 | 513 | 
 | 2022-10-20 | 44 | 514 | 
 | 2022-10-19 | 44 | 514 | 
-| 2022-10-18 | 44 | 514 | 
 

@@ -1,6 +1,6 @@
 # turingschool-examples/intro_to_testing - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 90
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | - | 90 | 
 | 2022-11-15 | - | 90 | 
 | 2022-11-14 | - | 90 | 
 | 2022-11-12 | - | 90 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | - | 92 | 
 | 2022-10-19 | - | 92 | 
 | 2022-10-18 | - | 92 | 
-| 2022-10-17 | - | 92 | 
 

@@ -1,8 +1,8 @@
 # GoogleCloudPlatform/cloud-sdk-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 230
+☋ Forks: 232
 
 ★ Stars: 652
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 652 | 232 | 
 | 2022-11-15 | 652 | 230 | 
 | 2022-11-14 | 652 | 229 | 
 | 2022-11-12 | 652 | 229 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 648 | 229 | 
 | 2022-10-19 | 648 | 229 | 
 | 2022-10-18 | 648 | 229 | 
-| 2022-10-17 | 648 | 229 | 
 

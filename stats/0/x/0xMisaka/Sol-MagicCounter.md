@@ -1,6 +1,6 @@
 # 0xMisaka/Sol-MagicCounter - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 95 | 6 | 
 | 2022-11-15 | 95 | 6 | 
 | 2022-11-14 | 95 | 6 | 
 | 2022-11-13 | 96 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 90 | 6 | 
 | 2022-10-19 | 90 | 6 | 
 | 2022-10-18 | 90 | 6 | 
-| 2022-10-17 | 90 | 6 | 
 

@@ -1,10 +1,10 @@
 # braveclojure/cftbat-code - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 94
 
-★ Stars: 361
+★ Stars: 362
 
 [Open repository](https://github.com/braveclojure/cftbat-code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 362 | 94 | 
 | 2022-11-15 | 361 | 94 | 
 | 2022-11-14 | 361 | 94 | 
 | 2022-11-13 | 361 | 94 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 358 | 94 | 
 | 2022-10-20 | 358 | 94 | 
 | 2022-10-19 | 358 | 94 | 
-| 2022-10-18 | 358 | 94 | 
 

@@ -1,10 +1,10 @@
 # ApexAI/rules_ros - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 5
 
-★ Stars: 17
+★ Stars: 18
 
 [Open repository](https://github.com/ApexAI/rules_ros)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 18 | 5 | 
 | 2022-11-15 | 17 | 5 | 
 | 2022-11-14 | 16 | 5 | 
 | 2022-11-13 | 16 | 4 | 

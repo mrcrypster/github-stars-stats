@@ -1,10 +1,10 @@
 # warpdotdev/themes - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 101
+☋ Forks: 103
 
-★ Stars: 330
+★ Stars: 332
 
 [Open repository](https://github.com/warpdotdev/themes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 332 | 103 | 
 | 2022-11-15 | 330 | 101 | 
 | 2022-11-14 | 328 | 101 | 
 | 2022-11-13 | 324 | 97 | 

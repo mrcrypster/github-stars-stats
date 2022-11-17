@@ -1,6 +1,6 @@
 # jeffbencteux/mailsecchk - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 68 | 4 | 
 | 2022-11-15 | 68 | 4 | 
 | 2022-11-14 | 68 | 4 | 
 | 2022-11-12 | 68 | 4 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 66 | 4 | 
 | 2022-10-19 | 65 | 4 | 
 | 2022-10-18 | 65 | 4 | 
-| 2022-10-17 | 65 | 4 | 
 

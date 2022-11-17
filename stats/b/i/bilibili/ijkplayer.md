@@ -1,10 +1,10 @@
 # bilibili/ijkplayer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 7889
+☋ Forks: 7888
 
-★ Stars: 30906
+★ Stars: 30914
 
 [Open repository](https://github.com/bilibili/ijkplayer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 30914 | 7888 | 
 | 2022-11-15 | 30906 | 7889 | 
 | 2022-11-14 | 30904 | 7888 | 
 | 2022-11-13 | 30900 | 7889 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 30833 | 7880 | 
 | 2022-10-19 | 30831 | 7881 | 
 | 2022-10-18 | 30828 | 7879 | 
-| 2022-10-17 | 30826 | 7879 | 
 

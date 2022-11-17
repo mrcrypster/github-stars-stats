@@ -1,10 +1,10 @@
 # wordpress-mobile/WordPress-Android - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1334
 
-★ Stars: 2739
+★ Stars: 2740
 
 [Open repository](https://github.com/wordpress-mobile/WordPress-Android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2740 | 1334 | 
 | 2022-11-15 | 2739 | 1334 | 
 | 2022-11-14 | 2739 | 1335 | 
 | 2022-11-13 | 2739 | 1336 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2727 | 1334 | 
 | 2022-10-19 | 2726 | 1333 | 
 | 2022-10-18 | 2727 | 1331 | 
-| 2022-10-17 | 2727 | 1331 | 
 

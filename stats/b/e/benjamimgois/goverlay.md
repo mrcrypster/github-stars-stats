@@ -1,10 +1,10 @@
 # benjamimgois/goverlay - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 30
 
-★ Stars: 121
+★ Stars: 123
 
 [Open repository](https://github.com/benjamimgois/goverlay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 123 | 30 | 
 | 2022-11-15 | 121 | 30 | 
 | 2022-11-14 | 121 | 30 | 
 | 2022-11-13 | 120 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 108 | 29 | 
 | 2022-10-19 | 107 | 29 | 
 | 2022-10-18 | 107 | 29 | 
-| 2022-10-17 | 106 | 29 | 
 

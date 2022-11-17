@@ -1,6 +1,6 @@
 # greenpeace/planet4-docker-compose - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 11 | 18 | 
 | 2022-11-15 | 11 | 18 | 
 | 2022-11-14 | 11 | 18 | 
 | 2022-11-13 | 11 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 12 | 18 | 
 | 2022-10-19 | 12 | 18 | 
 | 2022-10-18 | 12 | 18 | 
-| 2022-10-17 | 12 | 18 | 
 

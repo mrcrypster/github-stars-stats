@@ -1,6 +1,6 @@
 # antmicro/yosys-systemverilog - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 35 | 3 | 
 | 2022-11-15 | 35 | 3 | 
 | 2022-11-14 | 35 | 3 | 
 | 2022-11-13 | 34 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 26 | 3 | 
 | 2022-10-19 | 26 | 3 | 
 | 2022-10-18 | 26 | 3 | 
-| 2022-10-17 | 26 | 3 | 
 

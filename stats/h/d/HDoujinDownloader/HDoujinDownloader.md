@@ -1,10 +1,10 @@
 # HDoujinDownloader/HDoujinDownloader - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 13
+☋ Forks: 14
 
-★ Stars: 236
+★ Stars: 237
 
 [Open repository](https://github.com/HDoujinDownloader/HDoujinDownloader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 237 | 14 | 
 | 2022-11-15 | 236 | 13 | 
 | 2022-11-14 | 236 | 13 | 
 | 2022-11-13 | 236 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 226 | 13 | 
 | 2022-10-19 | 226 | 13 | 
 | 2022-10-18 | 226 | 13 | 
-| 2022-10-17 | 226 | 13 | 
 

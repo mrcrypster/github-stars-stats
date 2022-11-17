@@ -1,10 +1,10 @@
 # joshaber/clojurem - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 9
 
-★ Stars: 284
+★ Stars: 283
 
 [Open repository](https://github.com/joshaber/clojurem)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 283 | 9 | 
 | 2022-11-15 | 284 | 9 | 
 | 2022-11-14 | 284 | 9 | 
 | 2022-11-13 | 284 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 283 | 9 | 
 | 2022-10-19 | 283 | 9 | 
 | 2022-10-18 | 283 | 9 | 
-| 2022-10-17 | 283 | 9 | 
 

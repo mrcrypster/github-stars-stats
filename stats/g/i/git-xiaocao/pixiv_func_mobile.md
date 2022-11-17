@@ -1,10 +1,10 @@
 # git-xiaocao/pixiv_func_mobile - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 23
 
-★ Stars: 325
+★ Stars: 328
 
 [Open repository](https://github.com/git-xiaocao/pixiv_func_mobile)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 328 | 23 | 
 | 2022-11-15 | 325 | 23 | 
 | 2022-11-14 | 325 | 22 | 
 | 2022-11-13 | 325 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 309 | 22 | 
 | 2022-10-19 | 309 | 22 | 
 | 2022-10-18 | 308 | 22 | 
-| 2022-10-17 | 305 | 22 | 
 

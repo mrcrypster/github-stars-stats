@@ -1,6 +1,6 @@
 # zwave-js/zwavejs2mqtt - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 137
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 632 | 137 | 
 | 2022-11-15 | 632 | 137 | 
 | 2022-11-14 | 631 | 137 | 
 | 2022-11-13 | 631 | 137 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 617 | 134 | 
 | 2022-10-19 | 616 | 134 | 
 | 2022-10-18 | 614 | 134 | 
-| 2022-10-17 | 612 | 133 | 
 

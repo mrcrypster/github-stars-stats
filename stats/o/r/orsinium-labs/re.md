@@ -1,10 +1,10 @@
 # orsinium-labs/re - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 1
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/orsinium-labs/re)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 40 | 1 | 
 | 2022-11-15 | 39 | 1 | 
 | 2022-11-14 | 39 | 1 | 
 | 2022-11-13 | 39 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 38 | 1 | 
 | 2022-10-19 | 38 | 1 | 
 | 2022-10-18 | 38 | 1 | 
-| 2022-10-17 | 38 | 1 | 
 

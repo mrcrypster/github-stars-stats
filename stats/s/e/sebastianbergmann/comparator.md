@@ -1,10 +1,10 @@
 # sebastianbergmann/comparator - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 58
 
-★ Stars: 6686
+★ Stars: 6688
 
 [Open repository](https://github.com/sebastianbergmann/comparator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6688 | 58 | 
 | 2022-11-15 | 6686 | 58 | 
 | 2022-11-14 | 6684 | 58 | 
 | 2022-11-13 | 6683 | 58 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 6673 | 57 | 
 | 2022-10-19 | 6673 | 57 | 
 | 2022-10-18 | 6674 | 57 | 
-| 2022-10-17 | 6671 | 57 | 
 

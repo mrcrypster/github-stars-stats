@@ -1,10 +1,10 @@
 # xeon1989/Proton-X50-APK-Installer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 34
 
-★ Stars: 47
+★ Stars: 48
 
 [Open repository](https://github.com/xeon1989/Proton-X50-APK-Installer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 48 | 34 | 
 | 2022-11-15 | 47 | 34 | 
 | 2022-11-14 | 47 | 34 | 
 | 2022-11-13 | 47 | 34 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 46 | 34 | 
 | 2022-10-19 | 46 | 34 | 
 | 2022-10-18 | 46 | 34 | 
-| 2022-10-17 | 46 | 34 | 
 

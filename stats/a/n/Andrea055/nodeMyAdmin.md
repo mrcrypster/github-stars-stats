@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 2
 
-★ Stars: 49
+★ Stars: 52
 
 [Open repository](https://github.com/Andrea055/nodeMyAdmin)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 49 | 2 | 
+| 2022-11-16 | 52 | 2 | 
 | 2022-11-15 | 49 | 2 | 
 

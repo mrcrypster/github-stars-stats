@@ -1,6 +1,6 @@
 # wakatime/vim-wakatime - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 68
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 838 | 68 | 
 | 2022-11-15 | 838 | 68 | 
 | 2022-11-14 | 838 | 68 | 
 | 2022-11-13 | 837 | 68 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 824 | 68 | 
 | 2022-10-19 | 823 | 68 | 
 | 2022-10-18 | 821 | 68 | 
-| 2022-10-17 | 820 | 68 | 
 

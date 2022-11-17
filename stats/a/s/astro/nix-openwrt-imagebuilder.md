@@ -1,6 +1,6 @@
 # astro/nix-openwrt-imagebuilder - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 25 | 4 | 
 | 2022-11-15 | 25 | 4 | 
 | 2022-11-14 | 25 | 4 | 
 | 2022-11-13 | 25 | 4 | 

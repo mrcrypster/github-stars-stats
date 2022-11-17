@@ -1,6 +1,6 @@
 # KKKyrie/giftie - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 128
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 407 | 128 | 
 | 2022-11-15 | 407 | 128 | 
 | 2022-11-14 | 407 | 128 | 
 | 2022-11-13 | 407 | 128 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 405 | 128 | 
 | 2022-10-19 | 404 | 128 | 
 | 2022-10-18 | 402 | 128 | 
-| 2022-10-17 | 401 | 128 | 
 

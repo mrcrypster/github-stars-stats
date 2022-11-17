@@ -1,8 +1,8 @@
 # JosefPihrt/Roslynator - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 216
+☋ Forks: 217
 
 ★ Stars: 2516
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2516 | 217 | 
 | 2022-11-15 | 2516 | 216 | 
 | 2022-11-14 | 2515 | 216 | 
 | 2022-11-13 | 2515 | 216 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2490 | 215 | 
 | 2022-10-19 | 2489 | 215 | 
 | 2022-10-18 | 2489 | 214 | 
-| 2022-10-17 | 2489 | 214 | 
 

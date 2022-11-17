@@ -1,10 +1,10 @@
 # mjskay/ggdist - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 17
 
-★ Stars: 557
+★ Stars: 558
 
 [Open repository](https://github.com/mjskay/ggdist)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 558 | 17 | 
 | 2022-11-15 | 557 | 17 | 
 | 2022-11-14 | 557 | 17 | 
 | 2022-11-13 | 557 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 554 | 17 | 
 | 2022-10-19 | 554 | 17 | 
 | 2022-10-18 | 554 | 17 | 
-| 2022-10-17 | 554 | 17 | 
 

@@ -1,10 +1,10 @@
 # ionic-team/capacitor - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 805
+☋ Forks: 806
 
-★ Stars: 8259
+★ Stars: 8263
 
 [Open repository](https://github.com/ionic-team/capacitor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 8263 | 806 | 
 | 2022-11-15 | 8259 | 805 | 
 | 2022-11-14 | 8252 | 805 | 
 | 2022-11-13 | 8247 | 806 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 8129 | 801 | 
 | 2022-10-19 | 8119 | 800 | 
 | 2022-10-18 | 8108 | 799 | 
-| 2022-10-17 | 8104 | 800 | 
 

@@ -1,10 +1,10 @@
 # apache/incubator-eventmesh - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 424
+☋ Forks: 425
 
-★ Stars: 1096
+★ Stars: 1098
 
 [Open repository](https://github.com/apache/incubator-eventmesh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1098 | 425 | 
 | 2022-11-15 | 1096 | 424 | 
 | 2022-11-14 | 1096 | 424 | 
 | 2022-11-13 | 1092 | 421 | 

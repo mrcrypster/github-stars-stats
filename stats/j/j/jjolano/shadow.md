@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 74
 
-★ Stars: 327
+★ Stars: 329
 
 [Open repository](https://github.com/jjolano/shadow)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 327 | 74 | 
+| 2022-11-16 | 329 | 74 | 
 | 2022-11-15 | 327 | 74 | 
 | 2022-11-14 | 321 | 73 | 
 | 2022-11-13 | 320 | 73 | 

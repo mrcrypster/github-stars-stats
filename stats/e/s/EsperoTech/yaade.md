@@ -1,10 +1,10 @@
 # EsperoTech/yaade - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 35
 
-★ Stars: 1026
+★ Stars: 1027
 
 [Open repository](https://github.com/EsperoTech/yaade)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1027 | 35 | 
 | 2022-11-15 | 1026 | 35 | 
 | 2022-11-14 | 1026 | 35 | 
 | 2022-11-13 | 1027 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1016 | 33 | 
 | 2022-10-19 | 1016 | 33 | 
 | 2022-10-18 | 1015 | 33 | 
-| 2022-10-17 | 1015 | 33 | 
 

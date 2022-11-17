@@ -1,10 +1,10 @@
 # EddyVerbruggen/SocialSharing-PhoneGap-Plugin - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 878
 
-★ Stars: 1774
+★ Stars: 1775
 
 [Open repository](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1775 | 878 | 
 | 2022-11-15 | 1774 | 878 | 
 | 2022-11-14 | 1774 | 878 | 
 | 2022-11-13 | 1774 | 878 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1772 | 877 | 
 | 2022-10-19 | 1772 | 877 | 
 | 2022-10-18 | 1772 | 878 | 
-| 2022-10-17 | 1772 | 878 | 
 

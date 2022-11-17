@@ -1,6 +1,6 @@
 # jorgenschaefer/elpy - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 252
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1804 | 252 | 
 | 2022-11-15 | 1804 | 252 | 
 | 2022-11-14 | 1803 | 252 | 
 | 2022-11-13 | 1803 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1801 | 252 | 
 | 2022-10-19 | 1801 | 252 | 
 | 2022-10-18 | 1801 | 252 | 
-| 2022-10-17 | 1801 | 252 | 
 

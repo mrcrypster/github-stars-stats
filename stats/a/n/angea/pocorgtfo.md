@@ -1,10 +1,10 @@
 # angea/pocorgtfo - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 82
+☋ Forks: 83
 
-★ Stars: 959
+★ Stars: 960
 
 [Open repository](https://github.com/angea/pocorgtfo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 960 | 83 | 
 | 2022-11-15 | 959 | 82 | 
 | 2022-11-14 | 958 | 82 | 
 | 2022-11-13 | 958 | 82 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 948 | 83 | 
 | 2022-10-19 | 948 | 83 | 
 | 2022-10-18 | 947 | 83 | 
-| 2022-10-17 | 947 | 83 | 
 

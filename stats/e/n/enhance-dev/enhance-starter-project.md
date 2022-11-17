@@ -1,10 +1,10 @@
 # enhance-dev/enhance-starter-project - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 8
 
-★ Stars: 243
+★ Stars: 244
 
 [Open repository](https://github.com/enhance-dev/enhance-starter-project)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 244 | 8 | 
 | 2022-11-15 | 243 | 8 | 
 | 2022-11-14 | 243 | 8 | 
 | 2022-11-13 | 243 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 236 | 8 | 
 | 2022-10-19 | 236 | 8 | 
 | 2022-10-18 | 236 | 8 | 
-| 2022-10-17 | 236 | 8 | 
 

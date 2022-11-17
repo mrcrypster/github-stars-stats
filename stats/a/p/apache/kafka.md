@@ -1,10 +1,10 @@
 # apache/kafka - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 12061
+☋ Forks: 12070
 
-★ Stars: 23542
+★ Stars: 23550
 
 [Open repository](https://github.com/apache/kafka)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 23550 | 12070 | 
 | 2022-11-15 | 23542 | 12061 | 
 | 2022-11-14 | 23538 | 12046 | 
 | 2022-11-13 | 23531 | 12043 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 23359 | 11981 | 
 | 2022-10-19 | 23345 | 11977 | 
 | 2022-10-18 | 23333 | 11975 | 
-| 2022-10-17 | 23320 | 11972 | 
 

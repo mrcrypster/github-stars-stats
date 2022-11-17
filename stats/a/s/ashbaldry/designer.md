@@ -1,10 +1,10 @@
 # ashbaldry/designer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 6
 
-★ Stars: 95
+★ Stars: 96
 
 [Open repository](https://github.com/ashbaldry/designer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 96 | 6 | 
 | 2022-11-15 | 95 | 6 | 
 | 2022-11-14 | 95 | 6 | 
 | 2022-11-13 | 95 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 94 | 6 | 
 | 2022-10-19 | 94 | 6 | 
 | 2022-10-18 | 94 | 6 | 
-| 2022-10-17 | 93 | 6 | 
 

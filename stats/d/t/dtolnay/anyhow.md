@@ -1,6 +1,6 @@
 # dtolnay/anyhow - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 108
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 3460 | 108 | 
 | 2022-11-15 | 3460 | 108 | 
 | 2022-11-14 | 3457 | 108 | 
 | 2022-11-13 | 3453 | 108 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 3378 | 106 | 
 | 2022-10-19 | 3377 | 106 | 
 | 2022-10-18 | 3374 | 106 | 
-| 2022-10-17 | 3372 | 105 | 
 

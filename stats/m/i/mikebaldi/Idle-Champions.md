@@ -1,6 +1,6 @@
 # mikebaldi/Idle-Champions - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 122
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 61 | 122 | 
 | 2022-11-15 | 61 | 122 | 
 | 2022-11-14 | 61 | 122 | 
 | 2022-11-13 | 61 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 60 | 118 | 
 | 2022-10-19 | 60 | 118 | 
 | 2022-10-18 | 60 | 118 | 
-| 2022-10-17 | 60 | 118 | 
 

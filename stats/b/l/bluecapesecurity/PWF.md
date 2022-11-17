@@ -1,10 +1,10 @@
 # bluecapesecurity/PWF - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 27
 
-★ Stars: 136
+★ Stars: 137
 
 [Open repository](https://github.com/bluecapesecurity/PWF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 137 | 27 | 
 | 2022-11-15 | 136 | 27 | 
 | 2022-11-14 | 136 | 27 | 
 | 2022-11-13 | 136 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 124 | 26 | 
 | 2022-10-20 | 123 | 26 | 
 | 2022-10-19 | 123 | 26 | 
-| 2022-10-18 | 122 | 26 | 
 

@@ -1,10 +1,10 @@
 # PHASTA/phasta - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 46
 
-★ Stars: 56
+★ Stars: 57
 
 [Open repository](https://github.com/PHASTA/phasta)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 57 | 46 | 
 | 2022-11-15 | 56 | 46 | 
 | 2022-11-14 | 55 | 46 | 
 | 2022-11-13 | 55 | 46 | 

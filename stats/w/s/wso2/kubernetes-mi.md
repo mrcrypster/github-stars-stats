@@ -1,8 +1,8 @@
 # wso2/kubernetes-mi - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 15
+☋ Forks: 16
 
 ★ Stars: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1 | 16 | 
 | 2022-11-15 | 1 | 15 | 
 | 2022-11-14 | 1 | 15 | 
 | 2022-11-13 | 1 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1 | 14 | 
 | 2022-10-19 | 1 | 14 | 
 | 2022-10-18 | 1 | 14 | 
-| 2022-10-17 | 1 | 14 | 
 

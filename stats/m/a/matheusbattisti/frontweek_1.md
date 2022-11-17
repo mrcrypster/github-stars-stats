@@ -1,10 +1,10 @@
 # matheusbattisti/frontweek_1 - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 23
+☋ Forks: 24
 
-★ Stars: 32
+★ Stars: 31
 
 [Open repository](https://github.com/matheusbattisti/frontweek_1)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 31 | 24 | 
 | 2022-11-15 | 32 | 23 | 
 | 2022-11-14 | 32 | 23 | 
 | 2022-11-13 | 30 | 22 | 

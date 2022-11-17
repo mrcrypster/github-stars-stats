@@ -1,8 +1,8 @@
 # solana-labs/wallet-adapter - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
-☋ Forks: 640
+☋ Forks: 641
 
 ★ Stars: 1021
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1021 | 641 | 
 | 2022-11-15 | 1021 | 640 | 
 | 2022-11-14 | 1020 | 640 | 
 | 2022-11-13 | 1018 | 640 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 993 | 626 | 
 | 2022-10-19 | 993 | 625 | 
 | 2022-10-18 | 993 | 624 | 
-| 2022-10-17 | 992 | 626 | 
 

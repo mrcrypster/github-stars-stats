@@ -1,10 +1,10 @@
 # johlanse/study_xxqg - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 144
+☋ Forks: 145
 
-★ Stars: 460
+★ Stars: 462
 
 [Open repository](https://github.com/johlanse/study_xxqg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 462 | 145 | 
 | 2022-11-15 | 460 | 144 | 
 | 2022-11-14 | 457 | 141 | 
 | 2022-11-13 | 454 | 141 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 380 | 103 | 
 | 2022-10-19 | 376 | 104 | 
 | 2022-10-18 | 375 | 101 | 
-| 2022-10-17 | 370 | 101 | 
 

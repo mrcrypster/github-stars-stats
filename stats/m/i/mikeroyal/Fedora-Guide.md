@@ -1,10 +1,10 @@
 # mikeroyal/Fedora-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 6
 
-★ Stars: 143
+★ Stars: 144
 
 [Open repository](https://github.com/mikeroyal/Fedora-Guide)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 144 | 6 | 
 | 2022-11-15 | 143 | 6 | 
 | 2022-11-14 | 143 | 6 | 
 | 2022-11-13 | 143 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 139 | 5 | 
 | 2022-10-20 | 139 | 5 | 
 | 2022-10-19 | 139 | 5 | 
-| 2022-10-18 | 139 | 5 | 
 

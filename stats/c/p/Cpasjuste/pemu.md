@@ -1,10 +1,10 @@
 # Cpasjuste/pemu - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 43
 
-★ Stars: 333
+★ Stars: 334
 
 [Open repository](https://github.com/Cpasjuste/pemu)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 334 | 43 | 
 | 2022-11-15 | 333 | 43 | 
 | 2022-11-14 | 333 | 43 | 
 | 2022-11-13 | 332 | 43 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 323 | 43 | 
 | 2022-10-19 | 323 | 43 | 
 | 2022-10-18 | 323 | 42 | 
-| 2022-10-17 | 323 | 42 | 
 

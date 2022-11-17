@@ -1,10 +1,10 @@
 # mml-book/mml-book.github.io - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 2081
+☋ Forks: 2082
 
-★ Stars: 10518
+★ Stars: 10521
 
 [Open repository](https://github.com/mml-book/mml-book.github.io)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 10521 | 2082 | 
 | 2022-11-15 | 10518 | 2081 | 
 | 2022-11-14 | 10518 | 2081 | 
 | 2022-11-12 | 10515 | 2081 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 10455 | 2076 | 
 | 2022-10-19 | 10449 | 2076 | 
 | 2022-10-18 | 10446 | 2075 | 
-| 2022-10-17 | 10439 | 2075 | 
 

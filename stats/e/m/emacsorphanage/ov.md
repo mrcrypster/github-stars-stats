@@ -1,6 +1,6 @@
 # emacsorphanage/ov - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 193 | 18 | 
 | 2022-11-15 | 193 | 18 | 
 | 2022-11-14 | 193 | 18 | 
 | 2022-11-13 | 193 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 193 | 17 | 
 | 2022-10-19 | 193 | 17 | 
 | 2022-10-18 | 193 | 17 | 
-| 2022-10-17 | 193 | 17 | 
 

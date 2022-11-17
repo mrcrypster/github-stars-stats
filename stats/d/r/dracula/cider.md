@@ -1,6 +1,6 @@
 # dracula/cider - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 11 | 4 | 
 | 2022-11-15 | 11 | 4 | 
 | 2022-11-14 | 11 | 4 | 
 | 2022-11-13 | 11 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 11 | 4 | 
 | 2022-10-19 | 11 | 4 | 
 | 2022-10-18 | 11 | 4 | 
-| 2022-10-17 | 11 | 4 | 
 

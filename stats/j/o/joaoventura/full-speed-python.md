@@ -1,10 +1,10 @@
 # joaoventura/full-speed-python - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 566
 
-★ Stars: 3753
+★ Stars: 3754
 
 [Open repository](https://github.com/joaoventura/full-speed-python)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 3754 | 566 | 
 | 2022-11-15 | 3753 | 566 | 
 | 2022-11-14 | 3752 | 565 | 
 | 2022-11-13 | 3752 | 565 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 3736 | 567 | 
 | 2022-10-20 | 3736 | 567 | 
 | 2022-10-19 | 3735 | 567 | 
-| 2022-10-18 | 3735 | 567 | 
 

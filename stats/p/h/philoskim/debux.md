@@ -1,6 +1,6 @@
 # philoskim/debux - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 432 | 17 | 
 | 2022-11-15 | 432 | 17 | 
 | 2022-11-14 | 432 | 17 | 
 | 2022-11-13 | 432 | 17 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 432 | 17 | 
 | 2022-10-19 | 432 | 17 | 
 | 2022-10-18 | 432 | 17 | 
-| 2022-10-17 | 432 | 17 | 
 

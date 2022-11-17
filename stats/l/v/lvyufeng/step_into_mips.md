@@ -1,10 +1,10 @@
 # lvyufeng/step_into_mips - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 117
 
-★ Stars: 445
+★ Stars: 446
 
 [Open repository](https://github.com/lvyufeng/step_into_mips)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 446 | 117 | 
 | 2022-11-15 | 445 | 117 | 
 | 2022-11-14 | 445 | 117 | 
 | 2022-11-13 | 445 | 117 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 438 | 114 | 
 | 2022-10-19 | 438 | 114 | 
 | 2022-10-18 | 438 | 114 | 
-| 2022-10-17 | 438 | 114 | 
 

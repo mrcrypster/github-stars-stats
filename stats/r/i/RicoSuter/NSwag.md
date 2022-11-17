@@ -1,10 +1,10 @@
 # RicoSuter/NSwag - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1055
 
-★ Stars: 5496
+★ Stars: 5498
 
 [Open repository](https://github.com/RicoSuter/NSwag)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 5498 | 1055 | 
 | 2022-11-15 | 5496 | 1055 | 
 | 2022-11-14 | 5492 | 1053 | 
 | 2022-11-13 | 5490 | 1055 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 5441 | 1042 | 
 | 2022-10-19 | 5436 | 1040 | 
 | 2022-10-18 | 5433 | 1038 | 
-| 2022-10-17 | 5431 | 1038 | 
 

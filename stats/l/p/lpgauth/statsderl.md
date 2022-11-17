@@ -1,8 +1,8 @@
 # lpgauth/statsderl - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 62
+☋ Forks: 63
 
 ★ Stars: 99
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 99 | 63 | 
 | 2022-11-15 | 99 | 62 | 
 | 2022-11-14 | 99 | 62 | 
 | 2022-11-13 | 99 | 62 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 99 | 61 | 
 | 2022-10-20 | 99 | 61 | 
 | 2022-10-19 | 99 | 61 | 
-| 2022-10-18 | 99 | 61 | 
 

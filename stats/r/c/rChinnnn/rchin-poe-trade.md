@@ -1,10 +1,10 @@
 # rChinnnn/rchin-poe-trade - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 33
 
-★ Stars: 171
+★ Stars: 172
 
 [Open repository](https://github.com/rChinnnn/rchin-poe-trade)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 172 | 33 | 
 | 2022-11-15 | 171 | 33 | 
 | 2022-11-14 | 171 | 33 | 
 | 2022-11-13 | 171 | 33 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 172 | 33 | 
 | 2022-10-19 | 172 | 33 | 
 | 2022-10-18 | 172 | 33 | 
-| 2022-10-17 | 172 | 33 | 
 

@@ -1,8 +1,8 @@
 # O3Labs/assets - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 12
+☋ Forks: 13
 
 ★ Stars: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2 | 13 | 
 | 2022-11-15 | 2 | 12 | 
 | 2022-11-14 | 2 | 12 | 
 | 2022-11-13 | 2 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1 | 12 | 
 | 2022-10-19 | 1 | 12 | 
 | 2022-10-18 | 1 | 12 | 
-| 2022-10-17 | 1 | 12 | 
 

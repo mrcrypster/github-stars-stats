@@ -1,6 +1,6 @@
 # nedap/formatting-stack - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 90 | 2 | 
 | 2022-11-15 | 90 | 2 | 
 | 2022-11-14 | 90 | 2 | 
 | 2022-11-13 | 90 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 90 | 2 | 
 | 2022-10-19 | 89 | 2 | 
 | 2022-10-18 | 89 | 2 | 
-| 2022-10-17 | 89 | 2 | 
 

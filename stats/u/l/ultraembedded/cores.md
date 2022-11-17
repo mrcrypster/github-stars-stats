@@ -1,10 +1,10 @@
 # ultraembedded/cores - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 166
+☋ Forks: 167
 
-★ Stars: 460
+★ Stars: 461
 
 [Open repository](https://github.com/ultraembedded/cores)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 461 | 167 | 
 | 2022-11-15 | 460 | 166 | 
 | 2022-11-14 | 460 | 166 | 
 | 2022-11-13 | 460 | 166 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 444 | 165 | 
 | 2022-10-20 | 444 | 165 | 
 | 2022-10-19 | 444 | 165 | 
-| 2022-10-18 | 442 | 165 | 
 

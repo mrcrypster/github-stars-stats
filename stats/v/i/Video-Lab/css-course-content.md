@@ -1,6 +1,6 @@
 # Video-Lab/css-course-content - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 627
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 565 | 627 | 
 | 2022-11-15 | 565 | 627 | 
 | 2022-11-14 | 565 | 626 | 
 | 2022-11-13 | 565 | 626 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 559 | 618 | 
 | 2022-10-19 | 559 | 618 | 
 | 2022-10-18 | 559 | 618 | 
-| 2022-10-17 | 559 | 618 | 
 

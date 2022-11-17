@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 30
 
-★ Stars: 230
+★ Stars: 231
 
 [Open repository](https://github.com/LOUSANPANG/fe-workflow)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 230 | 30 | 
+| 2022-11-16 | 231 | 30 | 
 | 2022-11-15 | 229 | 30 | 
 

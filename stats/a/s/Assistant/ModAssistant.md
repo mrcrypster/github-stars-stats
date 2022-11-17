@@ -1,8 +1,8 @@
 # Assistant/ModAssistant - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 397
+☋ Forks: 396
 
 ★ Stars: 1966
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1966 | 396 | 
 | 2022-11-15 | 1966 | 397 | 
 | 2022-11-14 | 1965 | 397 | 
 | 2022-11-13 | 1964 | 397 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1936 | 395 | 
 | 2022-10-19 | 1936 | 395 | 
 | 2022-10-18 | 1936 | 394 | 
-| 2022-10-17 | 1934 | 394 | 
 

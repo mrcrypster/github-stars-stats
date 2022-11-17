@@ -1,10 +1,10 @@
 # go-chi/chi - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 822
 
-★ Stars: 12582
+★ Stars: 12589
 
 [Open repository](https://github.com/go-chi/chi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 12589 | 822 | 
 | 2022-11-15 | 12582 | 822 | 
 | 2022-11-14 | 12575 | 821 | 
 | 2022-11-13 | 12572 | 820 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 12427 | 814 | 
 | 2022-10-19 | 12421 | 814 | 
 | 2022-10-18 | 12409 | 815 | 
-| 2022-10-17 | 12399 | 813 | 
 

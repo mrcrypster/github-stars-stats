@@ -1,10 +1,10 @@
 # lucasvegi/Elixir-Code-Smells - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 37
+☋ Forks: 38
 
-★ Stars: 1175
+★ Stars: 1174
 
 [Open repository](https://github.com/lucasvegi/Elixir-Code-Smells)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1174 | 38 | 
 | 2022-11-15 | 1175 | 37 | 
 | 2022-11-14 | 1173 | 37 | 
 | 2022-11-13 | 1173 | 37 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1156 | 35 | 
 | 2022-10-19 | 1156 | 35 | 
 | 2022-10-18 | 1156 | 35 | 
-| 2022-10-17 | 1155 | 35 | 
 

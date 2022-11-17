@@ -1,6 +1,6 @@
 # LineageOS/android_hardware_qcom_bt - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2 | 41 | 
 | 2022-11-15 | 2 | 41 | 
 | 2022-11-14 | 2 | 41 | 
 | 2022-11-13 | 2 | 41 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2 | 41 | 
 | 2022-10-19 | 2 | 41 | 
 | 2022-10-18 | 2 | 41 | 
-| 2022-10-17 | 2 | 41 | 
 

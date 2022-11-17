@@ -1,0 +1,17 @@
+# SavoyaEngineering/retro - stars & forks statistics
+
+Stats updated on Nov 2022, 16
+
+☋ Forks: 0
+
+★ Stars: 2
+
+[Open repository](https://github.com/SavoyaEngineering/retro)
+
+[Open detailed stats for SavoyaEngineering/retro](https://reviewgithub.com/rep/SavoyaEngineering/retro)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-16 | 2 | - | 
+

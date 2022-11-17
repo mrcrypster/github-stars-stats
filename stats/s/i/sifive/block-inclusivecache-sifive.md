@@ -1,10 +1,10 @@
 # sifive/block-inclusivecache-sifive - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 54
+★ Stars: 55
 
 [Open repository](https://github.com/sifive/block-inclusivecache-sifive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 55 | 40 | 
 | 2022-11-15 | 54 | 39 | 
 | 2022-11-14 | 54 | 38 | 
 | 2022-11-13 | 54 | 38 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 53 | 38 | 
 | 2022-10-19 | 53 | 38 | 
 | 2022-10-18 | 53 | 38 | 
-| 2022-10-17 | 53 | 38 | 
 

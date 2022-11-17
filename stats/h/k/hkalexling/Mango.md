@@ -1,10 +1,10 @@
 # hkalexling/Mango - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 87
+☋ Forks: 88
 
-★ Stars: 1220
+★ Stars: 1221
 
 [Open repository](https://github.com/hkalexling/Mango)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1221 | 88 | 
 | 2022-11-15 | 1220 | 87 | 
 | 2022-11-14 | 1219 | 87 | 
 | 2022-11-13 | 1217 | 87 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1204 | 85 | 
 | 2022-10-19 | 1204 | 85 | 
 | 2022-10-18 | 1202 | 85 | 
-| 2022-10-17 | 1201 | 85 | 
 

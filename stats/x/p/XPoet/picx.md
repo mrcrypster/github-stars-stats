@@ -1,6 +1,6 @@
 # XPoet/picx - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 257
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1500 | 257 | 
 | 2022-11-15 | 1500 | 257 | 
 | 2022-11-14 | 1499 | 257 | 
 | 2022-11-13 | 1497 | 257 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1458 | 251 | 
 | 2022-10-19 | 1458 | 251 | 
 | 2022-10-18 | 1457 | 251 | 
-| 2022-10-17 | 1456 | 251 | 
 

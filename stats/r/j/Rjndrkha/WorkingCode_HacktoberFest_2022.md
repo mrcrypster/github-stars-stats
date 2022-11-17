@@ -1,10 +1,10 @@
 # Rjndrkha/WorkingCode_HacktoberFest_2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 489
 
-★ Stars: 311
+★ Stars: 310
 
 [Open repository](https://github.com/Rjndrkha/WorkingCode_HacktoberFest_2022)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 310 | 489 | 
 | 2022-11-15 | 311 | 489 | 
 | 2022-11-14 | 311 | 490 | 
 | 2022-11-13 | 311 | 491 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 319 | 500 | 
 | 2022-10-19 | 319 | 499 | 
 | 2022-10-18 | 317 | 496 | 
-| 2022-10-17 | 316 | 497 | 
 

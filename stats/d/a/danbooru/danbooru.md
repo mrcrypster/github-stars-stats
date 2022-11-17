@@ -1,10 +1,10 @@
 # danbooru/danbooru - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 379
 
-★ Stars: 1607
+★ Stars: 1609
 
 [Open repository](https://github.com/danbooru/danbooru)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1609 | 379 | 
 | 2022-11-16 | 1607 | 379 | 
 | 2022-11-15 | 1607 | 379 | 
 | 2022-11-14 | 1607 | 379 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 1576 | 370 | 
 | 2022-10-19 | 1574 | 369 | 
 | 2022-10-18 | 1570 | 368 | 
-| 2022-10-17 | 1569 | 368 | 
 

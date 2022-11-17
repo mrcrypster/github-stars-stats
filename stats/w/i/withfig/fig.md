@@ -1,10 +1,10 @@
 # withfig/fig - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 28
 
-★ Stars: 1362
+★ Stars: 1365
 
 [Open repository](https://github.com/withfig/fig)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1365 | 28 | 
 | 2022-11-15 | 1362 | 28 | 
 | 2022-11-14 | 1359 | 28 | 
 | 2022-11-13 | 1358 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1311 | 28 | 
 | 2022-10-19 | 1308 | 28 | 
 | 2022-10-18 | 1306 | 28 | 
-| 2022-10-17 | 1303 | 28 | 
 

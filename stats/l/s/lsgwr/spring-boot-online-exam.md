@@ -1,10 +1,10 @@
 # lsgwr/spring-boot-online-exam - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 478
 
-★ Stars: 1171
+★ Stars: 1172
 
 [Open repository](https://github.com/lsgwr/spring-boot-online-exam)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1172 | 478 | 
 | 2022-11-15 | 1171 | 478 | 
 | 2022-11-14 | 1170 | 478 | 
 | 2022-11-13 | 1169 | 478 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1149 | 475 | 
 | 2022-10-19 | 1146 | 475 | 
 | 2022-10-18 | 1146 | 475 | 
-| 2022-10-17 | 1143 | 474 | 
 

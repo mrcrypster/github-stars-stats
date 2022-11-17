@@ -1,6 +1,6 @@
 # Azure/RDS-Templates - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 579
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 388 | 579 | 
 | 2022-11-15 | 388 | 579 | 
 | 2022-11-14 | 388 | 579 | 
 | 2022-11-13 | 388 | 578 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 384 | 567 | 
 | 2022-10-20 | 383 | 567 | 
 | 2022-10-19 | 382 | 567 | 
-| 2022-10-18 | 382 | 568 | 
 

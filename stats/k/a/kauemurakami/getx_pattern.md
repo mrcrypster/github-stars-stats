@@ -1,10 +1,10 @@
 # kauemurakami/getx_pattern - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 213
 
-★ Stars: 825
+★ Stars: 828
 
 [Open repository](https://github.com/kauemurakami/getx_pattern)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 828 | 213 | 
 | 2022-11-15 | 825 | 213 | 
 | 2022-11-14 | 825 | 213 | 
 | 2022-11-13 | 825 | 213 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 819 | 208 | 
 | 2022-10-19 | 819 | 208 | 
 | 2022-10-18 | 819 | 208 | 
-| 2022-10-17 | 819 | 208 | 
 

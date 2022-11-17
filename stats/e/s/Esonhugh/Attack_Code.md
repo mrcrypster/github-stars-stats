@@ -1,10 +1,10 @@
 # Esonhugh/Attack_Code - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 28
 
-★ Stars: 305
+★ Stars: 306
 
 [Open repository](https://github.com/Esonhugh/Attack_Code)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 306 | 28 | 
 | 2022-11-15 | 305 | 28 | 
 | 2022-11-14 | 304 | 28 | 
 | 2022-11-12 | 300 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 283 | 27 | 
 | 2022-10-19 | 281 | 27 | 
 | 2022-10-18 | 280 | 27 | 
-| 2022-10-17 | 280 | 27 | 
 

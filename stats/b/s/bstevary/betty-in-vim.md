@@ -1,8 +1,8 @@
 # bstevary/betty-in-vim - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 5
+☋ Forks: 7
 
 ★ Stars: 41
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 41 | 7 | 
 | 2022-11-15 | 41 | 5 | 
 | 2022-11-14 | 41 | 5 | 
 | 2022-11-13 | 41 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 40 | 4 | 
 | 2022-10-19 | 40 | 4 | 
 | 2022-10-18 | 40 | 4 | 
-| 2022-10-17 | 40 | 4 | 
 

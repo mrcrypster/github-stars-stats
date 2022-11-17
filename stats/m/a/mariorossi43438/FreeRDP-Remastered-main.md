@@ -1,8 +1,8 @@
 # mariorossi43438/FreeRDP-Remastered-main - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 1640
+☋ Forks: 1648
 
 ★ Stars: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 19 | 1648 | 
 | 2022-11-15 | 19 | 1640 | 
 | 2022-11-14 | 19 | 1632 | 
 | 2022-11-13 | 18 | 1626 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 15 | 1346 | 
 | 2022-10-19 | 15 | 1327 | 
 | 2022-10-18 | 15 | 1321 | 
-| 2022-10-17 | 15 | 1303 | 
 

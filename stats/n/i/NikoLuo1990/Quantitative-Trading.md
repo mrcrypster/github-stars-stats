@@ -1,6 +1,6 @@
 # NikoLuo1990/Quantitative-Trading - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 19
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 81 | 19 | 
 | 2022-11-15 | 81 | 19 | 
 | 2022-11-14 | 81 | 19 | 
 | 2022-11-13 | 81 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 81 | 19 | 
 | 2022-10-19 | 81 | 19 | 
 | 2022-10-18 | 81 | 19 | 
-| 2022-10-17 | 81 | 19 | 
 

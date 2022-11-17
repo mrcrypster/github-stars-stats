@@ -1,6 +1,6 @@
 # alfonsogarciacaro/Feliz.Solid - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 50 | 1 | 
 | 2022-11-15 | 50 | 1 | 
 | 2022-11-14 | 50 | 1 | 
 | 2022-11-13 | 50 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 47 | 1 | 
 | 2022-10-19 | 47 | 1 | 
 | 2022-10-18 | 47 | 1 | 
-| 2022-10-17 | 47 | 1 | 
 

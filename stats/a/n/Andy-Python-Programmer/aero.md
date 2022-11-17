@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 34
 
-★ Stars: 583
+★ Stars: 592
 
 [Open repository](https://github.com/Andy-Python-Programmer/aero)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 583 | 34 | 
+| 2022-11-16 | 592 | 34 | 
 | 2022-11-15 | 580 | 34 | 
 

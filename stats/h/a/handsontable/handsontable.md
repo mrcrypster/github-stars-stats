@@ -1,10 +1,10 @@
 # handsontable/handsontable - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 2819
 
-★ Stars: 17249
+★ Stars: 17255
 
 [Open repository](https://github.com/handsontable/handsontable)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 17255 | 2819 | 
 | 2022-11-15 | 17249 | 2819 | 
 | 2022-11-14 | 17247 | 2818 | 
 | 2022-11-13 | 17248 | 2817 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 17125 | 2813 | 
 | 2022-10-19 | 17122 | 2812 | 
 | 2022-10-18 | 17120 | 2812 | 
-| 2022-10-17 | 17116 | 2812 | 
 

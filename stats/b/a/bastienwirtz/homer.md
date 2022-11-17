@@ -1,10 +1,10 @@
 # bastienwirtz/homer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 562
 
-★ Stars: 5996
+★ Stars: 6002
 
 [Open repository](https://github.com/bastienwirtz/homer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6002 | 562 | 
 | 2022-11-15 | 5996 | 562 | 
 | 2022-11-14 | 5993 | 562 | 
 | 2022-11-13 | 5982 | 562 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 5855 | 543 | 
 | 2022-10-19 | 5853 | 541 | 
 | 2022-10-18 | 5847 | 541 | 
-| 2022-10-17 | 5843 | 541 | 
 

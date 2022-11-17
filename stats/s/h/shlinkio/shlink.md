@@ -1,6 +1,6 @@
 # shlinkio/shlink - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 148
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1659 | 148 | 
 | 2022-11-15 | 1659 | 148 | 
 | 2022-11-14 | 1658 | 148 | 
 | 2022-11-13 | 1656 | 147 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 1618 | 142 | 
 | 2022-10-19 | 1617 | 142 | 
 | 2022-10-18 | 1616 | 142 | 
-| 2022-10-17 | 1613 | 141 | 
 

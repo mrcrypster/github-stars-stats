@@ -1,10 +1,10 @@
 # mswjs/msw - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 347
 
-★ Stars: 10933
+★ Stars: 10960
 
 [Open repository](https://github.com/mswjs/msw)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 10960 | 347 | 
 | 2022-11-15 | 10933 | 347 | 
 | 2022-11-14 | 10920 | 346 | 
 | 2022-11-13 | 10918 | 346 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 10700 | 338 | 
 | 2022-10-19 | 10690 | 338 | 
 | 2022-10-18 | 10685 | 338 | 
-| 2022-10-17 | 10661 | 337 | 
 

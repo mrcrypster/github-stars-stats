@@ -1,10 +1,10 @@
 # MadAppGang/httplog - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3
 
-★ Stars: 110
+★ Stars: 111
 
 [Open repository](https://github.com/MadAppGang/httplog)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 111 | 3 | 
 | 2022-11-15 | 110 | 3 | 
 | 2022-11-14 | 110 | 3 | 
 | 2022-11-13 | 110 | 3 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 109 | 3 | 
 | 2022-10-19 | 108 | 3 | 
 | 2022-10-18 | 108 | 3 | 
-| 2022-10-17 | 108 | 3 | 
 

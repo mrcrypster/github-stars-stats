@@ -1,10 +1,10 @@
 # nutonomy/nuscenes-devkit - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 511
 
-★ Stars: 1529
+★ Stars: 1530
 
 [Open repository](https://github.com/nutonomy/nuscenes-devkit)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1530 | 511 | 
 | 2022-11-15 | 1529 | 511 | 
 | 2022-11-14 | 1526 | 511 | 
 | 2022-11-13 | 1524 | 511 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 1491 | 506 | 
 | 2022-10-20 | 1490 | 507 | 
 | 2022-10-19 | 1487 | 507 | 
-| 2022-10-18 | 1486 | 507 | 
 

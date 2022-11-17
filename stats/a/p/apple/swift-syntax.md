@@ -1,8 +1,8 @@
 # apple/swift-syntax - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 204
+☋ Forks: 206
 
 ★ Stars: 2008
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2008 | 206 | 
 | 2022-11-15 | 2008 | 204 | 
 | 2022-11-14 | 2007 | 204 | 
 | 2022-11-13 | 2006 | 204 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1968 | 198 | 
 | 2022-10-19 | 1967 | 198 | 
 | 2022-10-18 | 1966 | 198 | 
-| 2022-10-17 | 1965 | 198 | 
 

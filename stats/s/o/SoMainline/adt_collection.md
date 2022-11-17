@@ -1,10 +1,10 @@
 # SoMainline/adt_collection - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 18
 
-★ Stars: 53
+★ Stars: 54
 
 [Open repository](https://github.com/SoMainline/adt_collection)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 54 | 18 | 
 | 2022-11-15 | 53 | 18 | 
 | 2022-11-14 | 53 | 18 | 
 | 2022-11-13 | 52 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 49 | 18 | 
 | 2022-10-20 | 49 | 18 | 
 | 2022-10-19 | 49 | 18 | 
-| 2022-10-18 | 49 | 18 | 
 

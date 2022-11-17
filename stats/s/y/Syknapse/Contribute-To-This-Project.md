@@ -1,10 +1,10 @@
 # Syknapse/Contribute-To-This-Project - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 1701
+☋ Forks: 1707
 
-★ Stars: 1240
+★ Stars: 1241
 
 [Open repository](https://github.com/Syknapse/Contribute-To-This-Project)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1241 | 1707 | 
 | 2022-11-15 | 1240 | 1701 | 
 | 2022-11-14 | 1236 | 1697 | 
 | 2022-11-13 | 1234 | 1695 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1175 | 1634 | 
 | 2022-10-19 | 1171 | 1633 | 
 | 2022-10-18 | 1168 | 1629 | 
-| 2022-10-17 | 1167 | 1624 | 
 

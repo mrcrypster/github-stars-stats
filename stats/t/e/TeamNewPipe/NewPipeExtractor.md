@@ -1,6 +1,6 @@
 # TeamNewPipe/NewPipeExtractor - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 314
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 791 | 314 | 
 | 2022-11-15 | 791 | 314 | 
 | 2022-11-14 | 792 | 315 | 
 | 2022-11-13 | 792 | 315 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 772 | 306 | 
 | 2022-10-19 | 771 | 305 | 
 | 2022-10-18 | 771 | 305 | 
-| 2022-10-17 | 771 | 301 | 
 

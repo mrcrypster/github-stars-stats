@@ -1,6 +1,6 @@
 # josiahsrc/dough - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 522 | 20 | 
 | 2022-11-15 | 522 | 20 | 
 | 2022-11-14 | 521 | 20 | 
 | 2022-11-13 | 521 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 518 | 20 | 
 | 2022-10-19 | 517 | 20 | 
 | 2022-10-18 | 518 | 20 | 
-| 2022-10-17 | 518 | 20 | 
 

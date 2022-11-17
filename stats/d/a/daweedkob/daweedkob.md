@@ -1,10 +1,10 @@
 # daweedkob/daweedkob - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 118
+☋ Forks: 129
 
-★ Stars: 89
+★ Stars: 94
 
 [Open repository](https://github.com/daweedkob/daweedkob)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 94 | 129 | 
 | 2022-11-15 | 89 | 118 | 
 | 2022-11-14 | 86 | 111 | 
 | 2022-11-13 | 86 | 112 | 

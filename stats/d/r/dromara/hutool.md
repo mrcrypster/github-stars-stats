@@ -1,10 +1,10 @@
 # dromara/hutool - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 6735
+☋ Forks: 6736
 
-★ Stars: 24459
+★ Stars: 24471
 
 [Open repository](https://github.com/dromara/hutool)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 24471 | 6736 | 
 | 2022-11-15 | 24459 | 6735 | 
 | 2022-11-14 | 24448 | 6732 | 
 | 2022-11-13 | 24448 | 6733 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 24264 | 6687 | 
 | 2022-10-19 | 24255 | 6683 | 
 | 2022-10-18 | 24249 | 6684 | 
-| 2022-10-17 | 24236 | 6686 | 
 

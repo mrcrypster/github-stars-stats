@@ -1,10 +1,10 @@
 # thephpleague/flysystem - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 772
 
-★ Stars: 12700
+★ Stars: 12701
 
 [Open repository](https://github.com/thephpleague/flysystem)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 12701 | 772 | 
 | 2022-11-15 | 12700 | 772 | 
 | 2022-11-14 | 12699 | 771 | 
 | 2022-11-13 | 12700 | 770 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 12661 | 762 | 
 | 2022-10-19 | 12660 | 762 | 
 | 2022-10-18 | 12660 | 763 | 
-| 2022-10-17 | 12659 | 763 | 
 

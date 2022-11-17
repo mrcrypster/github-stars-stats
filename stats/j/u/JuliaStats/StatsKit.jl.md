@@ -1,10 +1,10 @@
 # JuliaStats/StatsKit.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 12
 
-★ Stars: 124
+★ Stars: 125
 
 [Open repository](https://github.com/JuliaStats/StatsKit.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 125 | 12 | 
 | 2022-11-15 | 124 | 12 | 
 | 2022-11-14 | 124 | 12 | 
 | 2022-11-13 | 124 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 123 | 13 | 
 | 2022-10-19 | 123 | 13 | 
 | 2022-10-18 | 123 | 13 | 
-| 2022-10-17 | 123 | 12 | 
 

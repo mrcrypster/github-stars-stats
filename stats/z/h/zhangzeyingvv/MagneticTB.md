@@ -1,6 +1,6 @@
 # zhangzeyingvv/MagneticTB - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 14
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 17 | 14 | 
 | 2022-11-16 | 17 | 14 | 
 | 2022-11-15 | 17 | 14 | 
 | 2022-11-13 | 17 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 17 | 13 | 
 | 2022-10-19 | 17 | 13 | 
 | 2022-10-18 | 17 | 13 | 
-| 2022-10-17 | 17 | 13 | 
 

@@ -1,10 +1,10 @@
 # Azure/azureml-examples - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 615
 
-★ Stars: 844
+★ Stars: 847
 
 [Open repository](https://github.com/Azure/azureml-examples)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 847 | 615 | 
 | 2022-11-15 | 844 | 615 | 
 | 2022-11-14 | 843 | 613 | 
 | 2022-11-13 | 842 | 610 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 812 | 580 | 
 | 2022-10-19 | 811 | 578 | 
 | 2022-10-18 | 809 | 576 | 
-| 2022-10-17 | 808 | 576 | 
 

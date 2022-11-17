@@ -1,8 +1,8 @@
 # Slicer/Slicer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 367
+☋ Forks: 369
 
 ★ Stars: 840
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 840 | 369 | 
 | 2022-11-15 | 840 | 367 | 
 | 2022-11-14 | 839 | 367 | 
 | 2022-11-13 | 839 | 366 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 819 | 362 | 
 | 2022-10-19 | 818 | 362 | 
 | 2022-10-18 | 816 | 362 | 
-| 2022-10-17 | 815 | 362 | 
 

@@ -1,10 +1,10 @@
 # codebasics/py - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 14576
+☋ Forks: 14585
 
-★ Stars: 5664
+★ Stars: 5669
 
 [Open repository](https://github.com/codebasics/py)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 5669 | 14585 | 
 | 2022-11-15 | 5664 | 14576 | 
 | 2022-11-14 | 5657 | 14568 | 
 | 2022-11-13 | 5655 | 14567 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 5566 | 14320 | 
 | 2022-10-19 | 5564 | 14311 | 
 | 2022-10-18 | 5553 | 14286 | 
-| 2022-10-17 | 5549 | 14270 | 
 

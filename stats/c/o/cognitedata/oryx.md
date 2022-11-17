@@ -1,10 +1,10 @@
 # cognitedata/oryx - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 11
+☋ Forks: 12
 
-★ Stars: 192
+★ Stars: 193
 
 [Open repository](https://github.com/cognitedata/oryx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 193 | 12 | 
 | 2022-11-15 | 192 | 11 | 
 | 2022-11-14 | 192 | 11 | 
 | 2022-11-13 | 192 | 11 | 

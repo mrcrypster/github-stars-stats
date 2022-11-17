@@ -1,10 +1,10 @@
 # tinoryj/UESTC-Thesis-Latex-Template - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 16
+☋ Forks: 18
 
-★ Stars: 82
+★ Stars: 84
 
 [Open repository](https://github.com/tinoryj/UESTC-Thesis-Latex-Template)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 84 | 18 | 
 | 2022-11-15 | 82 | 16 | 
 | 2022-11-14 | 82 | 16 | 
 | 2022-11-13 | 81 | 16 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 78 | 15 | 
 | 2022-10-19 | 77 | 15 | 
 | 2022-10-18 | 76 | 15 | 
-| 2022-10-17 | 74 | 15 | 
 

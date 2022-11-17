@@ -1,6 +1,6 @@
 # devtooligan/huffhuffpass - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 25 | 2 | 
 | 2022-11-15 | 25 | 2 | 
 | 2022-11-14 | 25 | 2 | 
 | 2022-11-13 | 26 | 2 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 26 | 2 | 
 | 2022-10-19 | 26 | 2 | 
 | 2022-10-18 | 26 | 2 | 
-| 2022-10-17 | 26 | 2 | 
 

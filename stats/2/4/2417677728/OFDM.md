@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 80
 
-★ Stars: 152
+★ Stars: 154
 
 [Open repository](https://github.com/2417677728/OFDM)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 152 | 80 | 
+| 2022-11-16 | 154 | 80 | 
 | 2022-11-15 | 152 | 80 | 
 

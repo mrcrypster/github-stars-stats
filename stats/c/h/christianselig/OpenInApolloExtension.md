@@ -1,6 +1,6 @@
 # christianselig/OpenInApolloExtension - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 9
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 188 | 9 | 
 | 2022-11-15 | 188 | 9 | 
 | 2022-11-14 | 188 | 9 | 
 | 2022-11-13 | 188 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 183 | 9 | 
 | 2022-10-19 | 182 | 9 | 
 | 2022-10-18 | 182 | 9 | 
-| 2022-10-17 | 182 | 9 | 
 

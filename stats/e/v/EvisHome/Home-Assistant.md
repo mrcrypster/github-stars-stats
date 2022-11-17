@@ -1,10 +1,10 @@
 # EvisHome/Home-Assistant - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 4
 
-★ Stars: 96
+★ Stars: 97
 
 [Open repository](https://github.com/EvisHome/Home-Assistant)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 97 | 4 | 
 | 2022-11-15 | 96 | 4 | 
 | 2022-11-14 | 96 | 4 | 
 | 2022-11-13 | 96 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 90 | 4 | 
 | 2022-10-19 | 90 | 4 | 
 | 2022-10-18 | 86 | 3 | 
-| 2022-10-17 | 83 | 2 | 
 

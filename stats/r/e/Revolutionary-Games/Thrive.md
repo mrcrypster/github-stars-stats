@@ -1,10 +1,10 @@
 # Revolutionary-Games/Thrive - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 373
 
-★ Stars: 1820
+★ Stars: 1821
 
 [Open repository](https://github.com/Revolutionary-Games/Thrive)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1821 | 373 | 
 | 2022-11-15 | 1820 | 373 | 
 | 2022-11-14 | 1819 | 373 | 
 | 2022-11-13 | 1817 | 373 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1793 | 371 | 
 | 2022-10-19 | 1791 | 371 | 
 | 2022-10-18 | 1789 | 371 | 
-| 2022-10-17 | 1787 | 370 | 
 

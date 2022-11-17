@@ -1,10 +1,10 @@
 # aheze/OpenFind - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 39
+☋ Forks: 40
 
-★ Stars: 710
+★ Stars: 712
 
 [Open repository](https://github.com/aheze/OpenFind)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 712 | 40 | 
 | 2022-11-15 | 710 | 39 | 
 | 2022-11-14 | 709 | 39 | 
 | 2022-11-13 | 707 | 39 | 

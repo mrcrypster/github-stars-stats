@@ -1,10 +1,10 @@
 # drakkan/sftpgo - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 448
+☋ Forks: 450
 
-★ Stars: 5093
+★ Stars: 5099
 
 [Open repository](https://github.com/drakkan/sftpgo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 5099 | 450 | 
 | 2022-11-15 | 5093 | 448 | 
 | 2022-11-14 | 5087 | 448 | 
 | 2022-11-13 | 5082 | 447 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 4895 | 430 | 
 | 2022-10-19 | 4889 | 430 | 
 | 2022-10-18 | 4883 | 429 | 
-| 2022-10-17 | 4877 | 429 | 
 

@@ -1,10 +1,10 @@
 # mitre/cti - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 337
 
-★ Stars: 1242
+★ Stars: 1245
 
 [Open repository](https://github.com/mitre/cti)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1245 | 337 | 
 | 2022-11-15 | 1242 | 337 | 
 | 2022-11-14 | 1242 | 336 | 
 | 2022-11-13 | 1242 | 336 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1215 | 331 | 
 | 2022-10-19 | 1215 | 332 | 
 | 2022-10-18 | 1213 | 332 | 
-| 2022-10-17 | 1211 | 332 | 
 

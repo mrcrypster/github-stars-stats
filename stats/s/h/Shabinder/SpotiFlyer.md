@@ -1,10 +1,10 @@
 # Shabinder/SpotiFlyer - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 533
+☋ Forks: 532
 
-★ Stars: 6530
+★ Stars: 6543
 
 [Open repository](https://github.com/Shabinder/SpotiFlyer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6543 | 532 | 
 | 2022-11-15 | 6530 | 533 | 
 | 2022-11-14 | 6507 | 533 | 
 | 2022-11-13 | 6502 | 532 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 6031 | 499 | 
 | 2022-10-19 | 6013 | 498 | 
 | 2022-10-18 | 5999 | 497 | 
-| 2022-10-17 | 5983 | 496 | 
 

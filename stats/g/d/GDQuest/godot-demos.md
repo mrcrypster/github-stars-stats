@@ -1,6 +1,6 @@
 # GDQuest/godot-demos - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 975
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1645 | 975 | 
 | 2022-11-15 | 1645 | 975 | 
 | 2022-11-14 | 1644 | 975 | 
 | 2022-11-13 | 1644 | 975 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1631 | 972 | 
 | 2022-10-19 | 1631 | 972 | 
 | 2022-10-18 | 1633 | 970 | 
-| 2022-10-17 | 1632 | 971 | 
 

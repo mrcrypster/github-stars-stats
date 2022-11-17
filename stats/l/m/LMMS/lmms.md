@@ -1,10 +1,10 @@
 # LMMS/lmms - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 877
 
-★ Stars: 6242
+★ Stars: 6241
 
 [Open repository](https://github.com/LMMS/lmms)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 6241 | 877 | 
 | 2022-11-15 | 6242 | 877 | 
 | 2022-11-14 | 6240 | 876 | 
 | 2022-11-13 | 6239 | 876 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 6182 | 869 | 
 | 2022-10-19 | 6180 | 868 | 
 | 2022-10-18 | 6180 | 868 | 
-| 2022-10-17 | 6178 | 868 | 
 

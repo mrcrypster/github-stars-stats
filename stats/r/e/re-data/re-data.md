@@ -1,6 +1,6 @@
 # re-data/re-data - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1291 | 97 | 
 | 2022-11-15 | 1291 | 97 | 
 | 2022-11-14 | 1289 | 97 | 
 | 2022-11-13 | 1287 | 97 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1268 | 96 | 
 | 2022-10-19 | 1267 | 96 | 
 | 2022-10-18 | 1265 | 96 | 
-| 2022-10-17 | 1265 | 96 | 
 

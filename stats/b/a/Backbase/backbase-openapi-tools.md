@@ -1,0 +1,17 @@
+# Backbase/backbase-openapi-tools - stars & forks statistics
+
+Stats updated on Nov 2022, 16
+
+☋ Forks: 17
+
+★ Stars: 28
+
+[Open repository](https://github.com/Backbase/backbase-openapi-tools)
+
+[Open detailed stats for Backbase/backbase-openapi-tools](https://reviewgithub.com/rep/Backbase/backbase-openapi-tools)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-16 | 28 | 17 | 
+

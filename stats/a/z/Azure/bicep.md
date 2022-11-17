@@ -1,8 +1,8 @@
 # Azure/bicep - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 646
+☋ Forks: 647
 
 ★ Stars: 2596
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2596 | 647 | 
 | 2022-11-15 | 2596 | 646 | 
 | 2022-11-14 | 2595 | 646 | 
 | 2022-11-13 | 2595 | 646 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2564 | 643 | 
 | 2022-10-19 | 2563 | 643 | 
 | 2022-10-18 | 2561 | 642 | 
-| 2022-10-17 | 2557 | 642 | 
 

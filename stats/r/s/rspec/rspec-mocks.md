@@ -1,6 +1,6 @@
 # rspec/rspec-mocks - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 334
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 1089 | 334 | 
 | 2022-11-15 | 1089 | 334 | 
 | 2022-11-14 | 1089 | 334 | 
 | 2022-11-12 | 1088 | 334 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 1085 | 333 | 
 | 2022-10-19 | 1085 | 333 | 
 | 2022-10-18 | 1085 | 332 | 
-| 2022-10-17 | 1085 | 332 | 
 

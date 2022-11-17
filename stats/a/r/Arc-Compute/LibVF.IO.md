@@ -1,10 +1,10 @@
 # Arc-Compute/LibVF.IO - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 451
+★ Stars: 452
 
 [Open repository](https://github.com/Arc-Compute/LibVF.IO)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 452 | 27 | 
 | 2022-11-15 | 451 | 26 | 
 | 2022-11-14 | 450 | 25 | 
 | 2022-11-13 | 449 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 427 | 24 | 
 | 2022-10-19 | 427 | 25 | 
 | 2022-10-18 | 427 | 24 | 
-| 2022-10-17 | 427 | 24 | 
 

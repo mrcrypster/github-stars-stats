@@ -1,8 +1,8 @@
 # aave/interface - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 140
+☋ Forks: 141
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 171 | 141 | 
 | 2022-11-15 | 171 | 140 | 
 | 2022-11-14 | 170 | 140 | 
 | 2022-11-13 | 168 | 139 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 142 | 126 | 
 | 2022-10-19 | 142 | 126 | 
 | 2022-10-18 | 139 | 125 | 
-| 2022-10-17 | 138 | 124 | 
 

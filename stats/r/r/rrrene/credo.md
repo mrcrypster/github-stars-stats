@@ -1,10 +1,10 @@
 # rrrene/credo - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 381
 
-★ Stars: 4475
+★ Stars: 4476
 
 [Open repository](https://github.com/rrrene/credo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 4476 | 381 | 
 | 2022-11-15 | 4475 | 381 | 
 | 2022-11-14 | 4474 | 381 | 
 | 2022-11-13 | 4473 | 380 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 4464 | 377 | 
 | 2022-10-19 | 4462 | 378 | 
 | 2022-10-18 | 4462 | 378 | 
-| 2022-10-17 | 4462 | 378 | 
 

@@ -1,6 +1,6 @@
 # google/automl - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1377
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 5192 | 1377 | 
 | 2022-11-15 | 5192 | 1377 | 
 | 2022-11-14 | 5189 | 1377 | 
 | 2022-11-13 | 5187 | 1375 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 5159 | 1371 | 
 | 2022-10-19 | 5159 | 1371 | 
 | 2022-10-18 | 5158 | 1371 | 
-| 2022-10-17 | 5157 | 1371 | 
 

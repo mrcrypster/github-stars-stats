@@ -1,8 +1,8 @@
 # dangrossman/daterangepicker - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 3306
+☋ Forks: 3308
 
 ★ Stars: 10514
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 10514 | 3308 | 
 | 2022-11-15 | 10514 | 3306 | 
 | 2022-11-14 | 10514 | 3306 | 
 | 2022-11-13 | 10514 | 3307 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 10502 | 3300 | 
 | 2022-10-19 | 10501 | 3299 | 
 | 2022-10-18 | 10502 | 3298 | 
-| 2022-10-17 | 10501 | 3298 | 
 

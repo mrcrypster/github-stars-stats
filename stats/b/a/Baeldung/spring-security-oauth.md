@@ -1,8 +1,8 @@
 # Baeldung/spring-security-oauth - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 1808
+☋ Forks: 1809
 
 ★ Stars: 1809
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1809 | 1809 | 
 | 2022-11-16 | 1809 | 1808 | 
 | 2022-11-15 | 1808 | 1807 | 
 | 2022-11-14 | 1808 | 1805 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 1791 | 1788 | 
 | 2022-10-19 | 1790 | 1787 | 
 | 2022-10-18 | 1790 | 1786 | 
-| 2022-10-17 | 1790 | 1786 | 
 

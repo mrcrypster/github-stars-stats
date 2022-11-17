@@ -1,6 +1,6 @@
 # course-dprep/Formula1-event-on-Airbnb-prices - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5 | 4 | 
 | 2022-11-15 | 5 | 4 | 
 | 2022-11-14 | 5 | 4 | 
 | 2022-11-13 | 5 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 4 | 5 | 
 | 2022-10-19 | 4 | 5 | 
 | 2022-10-18 | 3 | 4 | 
-| 2022-10-17 | 3 | 4 | 
 

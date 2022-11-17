@@ -1,10 +1,10 @@
 # raspberrypi/documentation - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 1905
+☋ Forks: 1906
 
-★ Stars: 4694
+★ Stars: 4692
 
 [Open repository](https://github.com/raspberrypi/documentation)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 4692 | 1906 | 
 | 2022-11-15 | 4694 | 1905 | 
 | 2022-11-14 | 4692 | 1906 | 
 | 2022-11-13 | 4692 | 1904 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 4679 | 1899 | 
 | 2022-10-20 | 4679 | 1901 | 
 | 2022-10-19 | 4680 | 1901 | 
-| 2022-10-18 | 4680 | 1900 | 
 

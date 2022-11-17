@@ -1,6 +1,6 @@
 # andyngojs/crush-love - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 219
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 40 | 219 | 
 | 2022-11-15 | 40 | 219 | 
 | 2022-11-14 | 40 | 218 | 
 | 2022-11-13 | 40 | 218 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-21 | 38 | 204 | 
 | 2022-10-19 | 38 | 202 | 
 | 2022-10-18 | 38 | 202 | 
-| 2022-10-17 | 38 | 202 | 
 

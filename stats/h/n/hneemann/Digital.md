@@ -1,8 +1,8 @@
 # hneemann/Digital - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 294
+☋ Forks: 295
 
 ★ Stars: 2710
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2710 | 295 | 
 | 2022-11-15 | 2710 | 294 | 
 | 2022-11-14 | 2710 | 294 | 
 | 2022-11-13 | 2705 | 294 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2659 | 291 | 
 | 2022-10-19 | 2659 | 292 | 
 | 2022-10-18 | 2657 | 290 | 
-| 2022-10-17 | 2654 | 292 | 
 

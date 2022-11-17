@@ -1,6 +1,6 @@
 # emacsfodder/move-text - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 139 | 10 | 
 | 2022-11-15 | 139 | 10 | 
 | 2022-11-14 | 139 | 10 | 
 | 2022-11-13 | 139 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 138 | 10 | 
 | 2022-10-19 | 138 | 10 | 
 | 2022-10-18 | 138 | 10 | 
-| 2022-10-17 | 137 | 10 | 
 

@@ -1,6 +1,6 @@
 # feenkcom/gt4graphql - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,8 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | - | - | 
+| 2022-11-16 | - | - | 
 | 2022-11-15 | - | - | 
 | 2022-11-14 | - | - | 
 | 2022-11-13 | - | - | 

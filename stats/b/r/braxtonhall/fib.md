@@ -1,10 +1,10 @@
 # braxtonhall/fib - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 38
 
-★ Stars: 12
+★ Stars: 13
 
 [Open repository](https://github.com/braxtonhall/fib)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 13 | 38 | 
 | 2022-11-15 | 12 | 38 | 
 | 2022-11-14 | 12 | 37 | 
 | 2022-11-13 | 11 | 36 | 

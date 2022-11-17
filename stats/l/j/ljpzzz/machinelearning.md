@@ -1,10 +1,10 @@
 # ljpzzz/machinelearning - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 3544
+☋ Forks: 3550
 
-★ Stars: 7201
+★ Stars: 7211
 
 [Open repository](https://github.com/ljpzzz/machinelearning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 7211 | 3550 | 
 | 2022-11-15 | 7201 | 3544 | 
 | 2022-11-14 | 7197 | 3543 | 
 | 2022-11-12 | 7197 | 3543 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 7124 | 3529 | 
 | 2022-10-19 | 7121 | 3529 | 
 | 2022-10-18 | 7115 | 3529 | 
-| 2022-10-17 | 7108 | 3526 | 
 

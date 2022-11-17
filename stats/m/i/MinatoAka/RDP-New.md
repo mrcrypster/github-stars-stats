@@ -1,8 +1,8 @@
 # MinatoAka/RDP-New - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 3122
+☋ Forks: 3142
 
 ★ Stars: 45
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 45 | 3142 | 
 | 2022-11-15 | 45 | 3122 | 
 | 2022-11-14 | 45 | 3102 | 
 | 2022-11-13 | 45 | 3082 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 37 | 2393 | 
 | 2022-10-19 | 36 | 2350 | 
 | 2022-10-18 | 36 | 2335 | 
-| 2022-10-17 | 36 | 2325 | 
 

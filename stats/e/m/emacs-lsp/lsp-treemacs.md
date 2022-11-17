@@ -1,8 +1,8 @@
 # emacs-lsp/lsp-treemacs - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 39
+☋ Forks: 40
 
 ★ Stars: 311
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 311 | 40 | 
 | 2022-11-15 | 311 | 39 | 
 | 2022-11-14 | 311 | 39 | 
 | 2022-11-13 | 310 | 39 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 307 | 37 | 
 | 2022-10-19 | 306 | 37 | 
 | 2022-10-18 | 305 | 37 | 
-| 2022-10-17 | 305 | 37 | 
 

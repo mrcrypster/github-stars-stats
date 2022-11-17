@@ -1,10 +1,10 @@
 # orchest/orchest - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 205
 
-★ Stars: 3526
+★ Stars: 3527
 
 [Open repository](https://github.com/orchest/orchest)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 3527 | 205 | 
 | 2022-11-15 | 3526 | 205 | 
 | 2022-11-14 | 3523 | 206 | 
 | 2022-11-13 | 3524 | 206 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 3475 | 207 | 
 | 2022-10-19 | 3470 | 207 | 
 | 2022-10-18 | 3469 | 206 | 
-| 2022-10-17 | 3468 | 207 | 
 

@@ -1,10 +1,10 @@
 # NozakiYuu/FacebookWidget - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 2
+☋ Forks: 3
 
-★ Stars: 13
+★ Stars: 14
 
 [Open repository](https://github.com/NozakiYuu/FacebookWidget)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 14 | 3 | 
 | 2022-11-15 | 13 | 2 | 
 | 2022-11-14 | 13 | 2 | 
 | 2022-11-13 | 13 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 13 | 2 | 
 | 2022-10-19 | 13 | 2 | 
 | 2022-10-18 | 13 | 2 | 
-| 2022-10-17 | 13 | 2 | 
 

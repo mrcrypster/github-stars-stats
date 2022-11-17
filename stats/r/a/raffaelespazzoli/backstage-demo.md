@@ -1,8 +1,8 @@
 # raffaelespazzoli/backstage-demo - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 19
+☋ Forks: 20
 
 ★ Stars: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 10 | 20 | 
 | 2022-11-15 | 10 | 19 | 
 | 2022-11-14 | 10 | 19 | 
 | 2022-11-13 | 10 | 19 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 10 | 19 | 
 | 2022-10-19 | 10 | 19 | 
 | 2022-10-18 | 10 | 19 | 
-| 2022-10-17 | 10 | 19 | 
 

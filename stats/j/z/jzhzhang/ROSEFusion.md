@@ -1,10 +1,10 @@
 # jzhzhang/ROSEFusion - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 31
 
-★ Stars: 209
+★ Stars: 210
 
 [Open repository](https://github.com/jzhzhang/ROSEFusion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 210 | 31 | 
 | 2022-11-15 | 209 | 31 | 
 | 2022-11-14 | 208 | 31 | 
 | 2022-11-13 | 208 | 31 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 201 | 31 | 
 | 2022-10-19 | 201 | 31 | 
 | 2022-10-18 | 201 | 31 | 
-| 2022-10-17 | 198 | 30 | 
 

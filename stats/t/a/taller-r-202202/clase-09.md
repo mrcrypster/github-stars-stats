@@ -1,6 +1,6 @@
 # taller-r-202202/clase-09 - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2 | 11 | 
 | 2022-11-15 | 2 | 11 | 
 | 2022-11-14 | 2 | 11 | 
 | 2022-11-12 | 2 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2 | 10 | 
 | 2022-10-19 | 2 | 10 | 
 | 2022-10-18 | 2 | 10 | 
-| 2022-10-17 | 1 | 10 | 
 

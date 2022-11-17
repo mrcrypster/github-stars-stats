@@ -1,10 +1,10 @@
 # darlinghq/darling - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 378
 
-★ Stars: 9324
+★ Stars: 9323
 
 [Open repository](https://github.com/darlinghq/darling)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 9323 | 378 | 
 | 2022-11-15 | 9324 | 378 | 
 | 2022-11-14 | 9321 | 379 | 
 | 2022-11-13 | 9319 | 378 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 9280 | 373 | 
 | 2022-10-19 | 9279 | 373 | 
 | 2022-10-18 | 9277 | 372 | 
-| 2022-10-17 | 9276 | 372 | 
 

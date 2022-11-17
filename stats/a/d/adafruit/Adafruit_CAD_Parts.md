@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 16
 
 ☋ Forks: 164
 
-★ Stars: 730
+★ Stars: 731
 
 [Open repository](https://github.com/adafruit/Adafruit_CAD_Parts)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-16 | 730 | 164 | 
+| 2022-11-16 | 731 | 164 | 
 | 2022-11-15 | 730 | 164 | 
 | 2022-11-14 | 730 | 163 | 
 | 2022-11-13 | 730 | 163 | 
@@ -42,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | 721 | 160 | 
 | 2022-10-19 | 720 | 161 | 
 | 2022-10-18 | 721 | 161 | 
-| 2022-10-17 | 720 | 161 | 
 

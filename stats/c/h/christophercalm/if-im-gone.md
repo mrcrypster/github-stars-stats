@@ -1,10 +1,10 @@
 # christophercalm/if-im-gone - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 127
 
-★ Stars: 971
+★ Stars: 972
 
 [Open repository](https://github.com/christophercalm/if-im-gone)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 972 | 127 | 
 | 2022-11-15 | 971 | 127 | 
 | 2022-11-14 | 971 | 127 | 
 | 2022-11-13 | 971 | 127 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 970 | 126 | 
 | 2022-10-19 | 970 | 126 | 
 | 2022-10-18 | 970 | 125 | 
-| 2022-10-17 | 970 | 125 | 
 

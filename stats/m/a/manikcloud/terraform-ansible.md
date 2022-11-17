@@ -1,6 +1,6 @@
 # manikcloud/terraform-ansible - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 49
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | - | 49 | 
 | 2022-11-16 | - | 49 | 
 | 2022-11-15 | - | 49 | 
 | 2022-11-13 | - | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-20 | - | 49 | 
 | 2022-10-19 | - | 49 | 
 | 2022-10-18 | - | 49 | 
-| 2022-10-17 | - | 49 | 
 

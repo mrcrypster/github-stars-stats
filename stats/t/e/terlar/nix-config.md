@@ -1,10 +1,10 @@
 # terlar/nix-config - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3
 
-★ Stars: 67
+★ Stars: 66
 
 [Open repository](https://github.com/terlar/nix-config)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 66 | 3 | 
 | 2022-11-16 | 67 | 3 | 
 | 2022-11-15 | 66 | 3 | 
 | 2022-11-13 | 66 | 3 | 

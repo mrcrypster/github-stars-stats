@@ -1,10 +1,10 @@
 # DataDog/go-profiler-notes - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 163
 
-★ Stars: 2678
+★ Stars: 2680
 
 [Open repository](https://github.com/DataDog/go-profiler-notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 2680 | 163 | 
 | 2022-11-15 | 2678 | 163 | 
 | 2022-11-14 | 2674 | 163 | 
 | 2022-11-13 | 2672 | 163 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 2648 | 158 | 
 | 2022-10-19 | 2647 | 158 | 
 | 2022-10-18 | 2646 | 158 | 
-| 2022-10-17 | 2645 | 157 | 
 

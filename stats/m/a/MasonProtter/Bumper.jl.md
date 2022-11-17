@@ -1,10 +1,10 @@
 # MasonProtter/Bumper.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 1
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/MasonProtter/Bumper.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 17 | 1 | 
 | 2022-11-15 | 16 | 1 | 
 | 2022-11-14 | 14 | 1 | 
 | 2022-11-13 | 14 | 1 | 

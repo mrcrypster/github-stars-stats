@@ -1,10 +1,10 @@
 # avinash201199/Free-courses-with-Certificates - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 155
+☋ Forks: 156
 
-★ Stars: 150
+★ Stars: 151
 
 [Open repository](https://github.com/avinash201199/Free-courses-with-Certificates)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 151 | 156 | 
 | 2022-11-15 | 150 | 155 | 
 | 2022-11-14 | 150 | 155 | 
 | 2022-11-13 | 150 | 156 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 116 | 121 | 
 | 2022-10-19 | 114 | 117 | 
 | 2022-10-18 | 115 | 116 | 
-| 2022-10-17 | 112 | 114 | 
 

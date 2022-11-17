@@ -1,10 +1,10 @@
 # anadius/sims-4-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 11
 
-★ Stars: 10
+★ Stars: 11
 
 [Open repository](https://github.com/anadius/sims-4-tools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 11 | 11 | 
 | 2022-11-15 | 10 | 11 | 
 | 2022-11-14 | 10 | 11 | 
 | 2022-11-13 | 10 | 11 | 

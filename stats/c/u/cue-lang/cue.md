@@ -1,10 +1,10 @@
 # cue-lang/cue - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 194
 
-★ Stars: 3165
+★ Stars: 3171
 
 [Open repository](https://github.com/cue-lang/cue)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 3171 | 194 | 
 | 2022-11-15 | 3165 | 194 | 
 | 2022-11-14 | 3161 | 194 | 
 | 2022-11-13 | 3156 | 194 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 3059 | 183 | 
 | 2022-10-19 | 3058 | 182 | 
 | 2022-10-18 | 3056 | 181 | 
-| 2022-10-17 | 3055 | 181 | 
 

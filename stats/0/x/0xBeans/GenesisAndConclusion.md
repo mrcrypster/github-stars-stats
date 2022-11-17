@@ -1,10 +1,10 @@
 # 0xBeans/GenesisAndConclusion - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
 ☋ Forks: 3
 
-★ Stars: 28
+★ Stars: 29
 
 [Open repository](https://github.com/0xBeans/GenesisAndConclusion)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 29 | 3 | 
 | 2022-11-15 | 28 | 3 | 
 | 2022-11-14 | 28 | 3 | 
 | 2022-11-13 | 28 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 28 | 3 | 
 | 2022-10-19 | 28 | 3 | 
 | 2022-10-18 | 28 | 3 | 
-| 2022-10-17 | 28 | 3 | 
 

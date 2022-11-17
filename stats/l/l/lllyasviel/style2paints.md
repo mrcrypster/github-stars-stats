@@ -1,10 +1,10 @@
 # lllyasviel/style2paints - stars & forks statistics
 
-Stats updated on Nov 2022, 15
+Stats updated on Nov 2022, 16
 
-☋ Forks: 1888
+☋ Forks: 1889
 
-★ Stars: 15293
+★ Stars: 15294
 
 [Open repository](https://github.com/lllyasviel/style2paints)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 15
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-16 | 15294 | 1889 | 
 | 2022-11-15 | 15293 | 1888 | 
 | 2022-11-14 | 15288 | 1886 | 
 | 2022-11-13 | 15290 | 1886 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 15
 | 2022-10-20 | 15210 | 1879 | 
 | 2022-10-19 | 15202 | 1878 | 
 | 2022-10-18 | 15194 | 1878 | 
-| 2022-10-17 | 15191 | 1878 | 
 
