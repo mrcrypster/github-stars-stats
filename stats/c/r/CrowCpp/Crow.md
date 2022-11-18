@@ -1,10 +1,10 @@
 # CrowCpp/Crow - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 152
+☋ Forks: 153
 
-★ Stars: 1305
+★ Stars: 1310
 
 [Open repository](https://github.com/CrowCpp/Crow)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1310 | 153 | 
 | 2022-11-16 | 1305 | 152 | 
 | 2022-11-15 | 1303 | 152 | 
 | 2022-11-14 | 1297 | 152 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1247 | 144 | 
 | 2022-10-20 | 1239 | 143 | 
 | 2022-10-19 | 1237 | 142 | 
-| 2022-10-18 | 1236 | 142 | 
 

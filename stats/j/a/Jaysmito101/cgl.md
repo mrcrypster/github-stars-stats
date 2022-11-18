@@ -1,10 +1,10 @@
 # Jaysmito101/cgl - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 135
+★ Stars: 137
 
 [Open repository](https://github.com/Jaysmito101/cgl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 137 | 7 | 
 | 2022-11-16 | 135 | 7 | 
 | 2022-11-15 | 131 | 7 | 
 

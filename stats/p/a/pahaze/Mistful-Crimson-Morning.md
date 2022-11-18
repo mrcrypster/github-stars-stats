@@ -1,10 +1,10 @@
 # pahaze/Mistful-Crimson-Morning - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 12
 
-★ Stars: 7
+★ Stars: 8
 
 [Open repository](https://github.com/pahaze/Mistful-Crimson-Morning)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 8 | 12 | 
 | 2022-11-16 | 7 | 12 | 
 | 2022-11-15 | 7 | 12 | 
 | 2022-11-14 | 7 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 5 | 10 | 
 | 2022-10-20 | 5 | 10 | 
 | 2022-10-19 | 5 | 10 | 
-| 2022-10-18 | 5 | 10 | 
 

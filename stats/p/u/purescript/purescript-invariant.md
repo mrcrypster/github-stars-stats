@@ -1,6 +1,6 @@
 # purescript/purescript-invariant - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 6 | 5 | 
 | 2022-11-16 | 6 | 5 | 
 | 2022-11-15 | 6 | 5 | 
 | 2022-11-14 | 6 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 6 | 5 | 
 | 2022-10-20 | 6 | 5 | 
 | 2022-10-19 | 6 | 5 | 
-| 2022-10-18 | 6 | 5 | 
 

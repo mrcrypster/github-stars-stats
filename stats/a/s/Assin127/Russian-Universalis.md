@@ -1,6 +1,6 @@
 # Assin127/Russian-Universalis - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 13
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5 | 13 | 
 | 2022-11-16 | 5 | 13 | 
 | 2022-11-15 | 5 | 13 | 
 | 2022-11-13 | 5 | 13 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 5 | 13 | 
 | 2022-10-20 | 5 | 13 | 
 | 2022-10-19 | 5 | 13 | 
-| 2022-10-18 | 5 | 13 | 
 

@@ -1,8 +1,8 @@
 # rstudio/rstudio-docker-products - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 45
+☋ Forks: 46
 
 ★ Stars: 38
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 38 | 46 | 
 | 2022-11-16 | 38 | 45 | 
 | 2022-11-15 | 38 | 45 | 
 | 2022-11-14 | 38 | 44 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 37 | 43 | 
 | 2022-10-20 | 37 | 43 | 
 | 2022-10-19 | 37 | 43 | 
-| 2022-10-18 | 37 | 43 | 
 

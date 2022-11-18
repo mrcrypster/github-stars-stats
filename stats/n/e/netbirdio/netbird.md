@@ -1,10 +1,10 @@
 # netbirdio/netbird - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 123
 
-★ Stars: 3765
+★ Stars: 3768
 
 [Open repository](https://github.com/netbirdio/netbird)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3768 | 123 | 
 | 2022-11-16 | 3765 | 123 | 
 | 2022-11-15 | 3762 | 123 | 
 | 2022-11-14 | 3761 | 122 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 3628 | 116 | 
 | 2022-10-20 | 3621 | 116 | 
 | 2022-10-19 | 3615 | 116 | 
-| 2022-10-18 | 3604 | 115 | 
 

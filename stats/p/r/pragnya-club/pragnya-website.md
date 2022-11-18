@@ -1,10 +1,10 @@
 # pragnya-club/pragnya-website - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 143
+☋ Forks: 155
 
-★ Stars: 0
+★ Stars: 2
 
 [Open repository](https://github.com/pragnya-club/pragnya-website)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2 | 155 | 
 | 2022-11-16 | - | 143 | 
 | 2022-11-15 | - | 142 | 
 | 2022-11-14 | - | 142 | 

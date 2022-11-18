@@ -1,10 +1,10 @@
 # jasononeil/hxrandom - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 12
 
-★ Stars: 39
+★ Stars: 40
 
 [Open repository](https://github.com/jasononeil/hxrandom)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 40 | 12 | 
 | 2022-11-16 | 39 | 12 | 
 | 2022-11-15 | 39 | 12 | 
 | 2022-11-14 | 39 | 12 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 39 | 12 | 
 | 2022-10-20 | 39 | 12 | 
 | 2022-10-19 | 39 | 12 | 
-| 2022-10-18 | 39 | 12 | 
 

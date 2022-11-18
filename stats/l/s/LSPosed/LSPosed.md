@@ -1,10 +1,10 @@
 # LSPosed/LSPosed - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 1142
+☋ Forks: 1144
 
-★ Stars: 7504
+★ Stars: 7518
 
 [Open repository](https://github.com/LSPosed/LSPosed)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 7518 | 1144 | 
 | 2022-11-16 | 7504 | 1142 | 
 | 2022-11-15 | 7474 | 1139 | 
 | 2022-11-14 | 7444 | 1139 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 7094 | 1078 | 
 | 2022-10-20 | 7088 | 1077 | 
 | 2022-10-19 | 7075 | 1076 | 
-| 2022-10-18 | 7061 | 1070 | 
 

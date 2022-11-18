@@ -1,6 +1,6 @@
 # turingschool/ruby-exercises - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 719
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 220 | 719 | 
 | 2022-11-17 | 220 | 719 | 
 | 2022-11-15 | 220 | 718 | 
 | 2022-11-14 | 220 | 717 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 218 | 707 | 
 | 2022-10-20 | 217 | 707 | 
 | 2022-10-19 | 217 | 706 | 
-| 2022-10-18 | 217 | 706 | 
 

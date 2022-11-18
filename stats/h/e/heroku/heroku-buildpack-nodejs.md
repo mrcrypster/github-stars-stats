@@ -1,8 +1,8 @@
 # heroku/heroku-buildpack-nodejs - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 2638
+☋ Forks: 2636
 
 ★ Stars: 1244
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1244 | 2636 | 
 | 2022-11-16 | 1244 | 2638 | 
 | 2022-11-15 | 1244 | 2638 | 
 | 2022-11-14 | 1244 | 2639 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1239 | 2635 | 
 | 2022-10-20 | 1238 | 2635 | 
 | 2022-10-19 | 1238 | 2634 | 
-| 2022-10-18 | 1238 | 2633 | 
 

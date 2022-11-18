@@ -1,6 +1,6 @@
 # macadmins/nudge - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 138
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 607 | 138 | 
 | 2022-11-16 | 607 | 138 | 
 | 2022-11-15 | 606 | 136 | 
 | 2022-11-14 | 604 | 135 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 584 | 130 | 
 | 2022-10-20 | 581 | 130 | 
 | 2022-10-19 | 580 | 130 | 
-| 2022-10-18 | 578 | 130 | 
 

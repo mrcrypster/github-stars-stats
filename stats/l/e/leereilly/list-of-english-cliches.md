@@ -1,6 +1,6 @@
 # leereilly/list-of-english-cliches - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 27 | 11 | 
 | 2022-11-16 | 27 | 11 | 
 | 2022-11-15 | 27 | 11 | 
 | 2022-11-14 | 27 | 11 | 

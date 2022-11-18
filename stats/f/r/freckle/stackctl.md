@@ -1,10 +1,10 @@
 # freckle/stackctl - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 11
+★ Stars: 12
 
 [Open repository](https://github.com/freckle/stackctl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 12 | - | 
 | 2022-11-16 | 11 | - | 
 | 2022-11-15 | 11 | - | 
 | 2022-11-14 | 11 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 11 | - | 
 | 2022-10-20 | 11 | - | 
 | 2022-10-19 | 11 | - | 
-| 2022-10-18 | 11 | - | 
 

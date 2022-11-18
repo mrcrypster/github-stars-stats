@@ -1,6 +1,6 @@
 # Sayi/poi-tl - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 817
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2951 | 817 | 
 | 2022-11-16 | 2951 | 817 | 
 | 2022-11-15 | 2949 | 817 | 
 | 2022-11-14 | 2950 | 817 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2911 | 810 | 
 | 2022-10-20 | 2907 | 809 | 
 | 2022-10-19 | 2905 | 808 | 
-| 2022-10-18 | 2904 | 808 | 
 

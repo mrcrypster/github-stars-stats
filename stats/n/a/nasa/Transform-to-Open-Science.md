@@ -1,6 +1,6 @@
 # nasa/Transform-to-Open-Science - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 369 | 72 | 
 | 2022-11-16 | 369 | 72 | 
 | 2022-11-15 | 367 | 72 | 
 | 2022-11-14 | 366 | 72 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 350 | 70 | 
 | 2022-10-20 | 348 | 70 | 
 | 2022-10-19 | 346 | 69 | 
-| 2022-10-18 | 345 | 68 | 
 

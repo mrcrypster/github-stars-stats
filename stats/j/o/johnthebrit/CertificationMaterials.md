@@ -1,6 +1,6 @@
 # johnthebrit/CertificationMaterials - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 269
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1307 | 269 | 
 | 2022-11-16 | 1307 | 269 | 
 | 2022-11-15 | 1308 | 269 | 
 | 2022-11-14 | 1306 | 270 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1293 | 268 | 
 | 2022-10-20 | 1292 | 268 | 
 | 2022-10-19 | 1292 | 268 | 
-| 2022-10-18 | 1291 | 267 | 
 

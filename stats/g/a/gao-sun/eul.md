@@ -1,10 +1,10 @@
 # gao-sun/eul - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 309
 
-★ Stars: 8112
+★ Stars: 8115
 
 [Open repository](https://github.com/gao-sun/eul)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 8115 | 309 | 
 | 2022-11-16 | 8112 | 309 | 
 | 2022-11-15 | 8112 | 309 | 
 | 2022-11-14 | 8111 | 309 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 8044 | 306 | 
 | 2022-10-20 | 8039 | 304 | 
 | 2022-10-19 | 8040 | 304 | 
-| 2022-10-18 | 8036 | 304 | 
 

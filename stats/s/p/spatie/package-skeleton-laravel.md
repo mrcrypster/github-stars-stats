@@ -1,10 +1,10 @@
 # spatie/package-skeleton-laravel - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 439
 
-★ Stars: 1363
+★ Stars: 1364
 
 [Open repository](https://github.com/spatie/package-skeleton-laravel)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1364 | 439 | 
 | 2022-11-16 | 1363 | 439 | 
 | 2022-11-15 | 1361 | 439 | 
 | 2022-11-14 | 1361 | 439 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1333 | 434 | 
 | 2022-10-20 | 1332 | 433 | 
 | 2022-10-19 | 1332 | 432 | 
-| 2022-10-18 | 1330 | 432 | 
 

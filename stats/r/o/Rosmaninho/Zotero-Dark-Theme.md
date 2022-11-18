@@ -1,6 +1,6 @@
 # Rosmaninho/Zotero-Dark-Theme - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 530 | 92 | 
 | 2022-11-16 | 530 | 92 | 
 | 2022-11-15 | 529 | 92 | 
 | 2022-11-14 | 529 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 513 | 85 | 
 | 2022-10-20 | 513 | 85 | 
 | 2022-10-19 | 512 | 85 | 
-| 2022-10-18 | 511 | 84 | 
 

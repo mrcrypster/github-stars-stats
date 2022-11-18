@@ -1,10 +1,10 @@
 # sd805/l4d2vr - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 7
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/sd805/l4d2vr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 166 | 7 | 
 | 2022-11-17 | 165 | 7 | 
 | 2022-11-15 | 165 | 7 | 
 | 2022-11-14 | 165 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 158 | 7 | 
 | 2022-10-20 | 158 | 7 | 
 | 2022-10-19 | 158 | 7 | 
-| 2022-10-18 | 158 | 7 | 
 

@@ -1,10 +1,10 @@
 # jerryscript-project/jerryscript - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 656
 
-★ Stars: 6416
+★ Stars: 6417
 
 [Open repository](https://github.com/jerryscript-project/jerryscript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6417 | 656 | 
 | 2022-11-17 | 6416 | 656 | 
 | 2022-11-15 | 6415 | 656 | 
 | 2022-11-14 | 6414 | 656 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 6379 | 649 | 
 | 2022-10-20 | 6376 | 650 | 
 | 2022-10-19 | 6373 | 649 | 
-| 2022-10-18 | 6372 | 649 | 
 

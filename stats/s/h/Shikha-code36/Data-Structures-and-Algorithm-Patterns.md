@@ -1,6 +1,6 @@
 # Shikha-code36/Data-Structures-and-Algorithm-Patterns - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 18
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 103 | 18 | 
 | 2022-11-16 | 103 | 18 | 
 | 2022-11-15 | 103 | 18 | 
 | 2022-11-14 | 103 | 18 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 103 | 18 | 
 | 2022-10-20 | 103 | 18 | 
 | 2022-10-19 | 103 | 18 | 
-| 2022-10-18 | 103 | 18 | 
 

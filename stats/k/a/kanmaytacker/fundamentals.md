@@ -1,6 +1,6 @@
 # kanmaytacker/fundamentals - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 63
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 27 | 63 | 
 | 2022-11-16 | 27 | 63 | 
 | 2022-11-15 | 27 | 63 | 
 | 2022-11-14 | 27 | 63 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 26 | 60 | 
 | 2022-10-21 | 26 | 60 | 
 | 2022-10-20 | 25 | 59 | 
-| 2022-10-19 | 25 | 59 | 
 

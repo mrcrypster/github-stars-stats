@@ -1,6 +1,6 @@
 # haizlin/fe-interview - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3069
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 22426 | 3069 | 
 | 2022-11-16 | 22426 | 3069 | 
 | 2022-11-15 | 22415 | 3068 | 
 | 2022-11-14 | 22404 | 3068 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 22241 | 3049 | 
 | 2022-10-20 | 22231 | 3049 | 
 | 2022-10-19 | 22223 | 3050 | 
-| 2022-10-18 | 22218 | 3051 | 
 

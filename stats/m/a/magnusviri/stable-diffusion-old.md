@@ -1,6 +1,6 @@
 # magnusviri/stable-diffusion-old - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 90 | 7 | 
 | 2022-11-16 | 90 | 7 | 
 | 2022-11-15 | 90 | 7 | 
 | 2022-11-14 | 90 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 90 | 7 | 
 | 2022-10-21 | 90 | 7 | 
 | 2022-10-20 | 90 | 7 | 
-| 2022-10-19 | 90 | 7 | 
 

@@ -1,10 +1,10 @@
 # aws-amplify/amplify-android - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 90
 
-★ Stars: 159
+★ Stars: 160
 
 [Open repository](https://github.com/aws-amplify/amplify-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 160 | 90 | 
 | 2022-11-16 | 159 | 90 | 
 | 2022-11-15 | 159 | 90 | 
 | 2022-11-14 | 159 | 91 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 157 | 90 | 
 | 2022-10-20 | 157 | 91 | 
 | 2022-10-19 | 157 | 90 | 
-| 2022-10-18 | 157 | 90 | 
 

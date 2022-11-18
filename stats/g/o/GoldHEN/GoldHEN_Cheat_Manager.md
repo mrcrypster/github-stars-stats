@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 17
 
 ☋ Forks: 17
 
-★ Stars: 125
+★ Stars: 126
 
 [Open repository](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-17 | 125 | 17 | 
+| 2022-11-17 | 126 | 17 | 
 | 2022-11-16 | 124 | 17 | 
 | 2022-11-15 | 118 | 15 | 
 

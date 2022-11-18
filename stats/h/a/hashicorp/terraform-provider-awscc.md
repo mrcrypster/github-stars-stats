@@ -1,6 +1,6 @@
 # hashicorp/terraform-provider-awscc - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 27
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 135 | 27 | 
 | 2022-11-16 | 135 | 27 | 
 | 2022-11-15 | 135 | 27 | 
 | 2022-11-14 | 136 | 27 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 132 | 27 | 
 | 2022-10-20 | 131 | 27 | 
 | 2022-10-19 | 131 | 27 | 
-| 2022-10-18 | 131 | 27 | 
 

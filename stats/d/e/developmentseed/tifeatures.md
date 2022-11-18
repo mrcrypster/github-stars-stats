@@ -1,10 +1,10 @@
 # developmentseed/tifeatures - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 0
+☋ Forks: 1
 
-★ Stars: 26
+★ Stars: 30
 
 [Open repository](https://github.com/developmentseed/tifeatures)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 30 | 1 | 
 | 2022-11-17 | 26 | - | 
 | 2022-11-15 | 26 | - | 
 | 2022-11-14 | 26 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 23 | - | 
 | 2022-10-20 | 23 | - | 
 | 2022-10-19 | 23 | - | 
-| 2022-10-18 | 23 | - | 
 

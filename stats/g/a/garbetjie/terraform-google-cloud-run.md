@@ -1,6 +1,6 @@
 # garbetjie/terraform-google-cloud-run - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 39 | 22 | 
 | 2022-11-16 | 39 | 22 | 
 | 2022-11-15 | 39 | 22 | 
 | 2022-11-14 | 39 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 37 | 21 | 
 | 2022-10-21 | 37 | 21 | 
 | 2022-10-20 | 37 | 21 | 
-| 2022-10-19 | 36 | 21 | 
 

@@ -1,10 +1,10 @@
 # ismailbangee/smart-contracts - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 14
 
-★ Stars: 10
+★ Stars: 14
 
 [Open repository](https://github.com/ismailbangee/smart-contracts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 14 | 14 | 
 | 2022-11-17 | 10 | 14 | 
 | 2022-11-15 | 10 | 14 | 
 | 2022-11-14 | 10 | 14 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 8 | 16 | 
 | 2022-10-20 | 8 | 15 | 
 | 2022-10-19 | 8 | 16 | 
-| 2022-10-18 | 8 | 16 | 
 

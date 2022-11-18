@@ -1,10 +1,10 @@
 # checkstyle/checkstyle - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 8393
+☋ Forks: 8394
 
-★ Stars: 7366
+★ Stars: 7369
 
 [Open repository](https://github.com/checkstyle/checkstyle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 7369 | 8394 | 
 | 2022-11-16 | 7366 | 8393 | 
 | 2022-11-15 | 7365 | 8394 | 
 | 2022-11-14 | 7364 | 8395 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 7336 | 8376 | 
 | 2022-10-20 | 7335 | 8375 | 
 | 2022-10-19 | 7334 | 8376 | 
-| 2022-10-18 | 7328 | 8374 | 
 

@@ -1,6 +1,6 @@
 # Yamato-Security/EnableWindowsLogSettings - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 205 | 20 | 
 | 2022-11-16 | 205 | 20 | 
 | 2022-11-15 | 204 | 20 | 
 | 2022-11-14 | 202 | 20 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 143 | 14 | 
 | 2022-10-20 | 141 | 14 | 
 | 2022-10-19 | 139 | 14 | 
-| 2022-10-18 | 139 | 14 | 
 

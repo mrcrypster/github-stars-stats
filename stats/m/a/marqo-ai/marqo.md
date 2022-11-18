@@ -1,10 +1,10 @@
 # marqo-ai/marqo - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 51
 
-★ Stars: 1178
+★ Stars: 1192
 
 [Open repository](https://github.com/marqo-ai/marqo)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1192 | 51 | 
 | 2022-11-16 | 1178 | 51 | 
 | 2022-11-15 | 1161 | 51 | 
 | 2022-11-14 | 1147 | 49 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 662 | 31 | 
 | 2022-10-20 | 655 | 28 | 
 | 2022-10-19 | 654 | 28 | 
-| 2022-10-18 | 651 | 28 | 
 

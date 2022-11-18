@@ -1,10 +1,10 @@
 # xManager-v2/xManager-Spotify - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 144
+☋ Forks: 145
 
-★ Stars: 3177
+★ Stars: 3185
 
 [Open repository](https://github.com/xManager-v2/xManager-Spotify)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3185 | 145 | 
 | 2022-11-16 | 3177 | 144 | 
 | 2022-11-15 | 3166 | 144 | 
 | 2022-11-14 | 3157 | 145 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2906 | 138 | 
 | 2022-10-20 | 2898 | 138 | 
 | 2022-10-19 | 2886 | 138 | 
-| 2022-10-18 | 2884 | 138 | 
 

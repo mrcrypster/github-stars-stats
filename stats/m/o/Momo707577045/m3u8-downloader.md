@@ -1,10 +1,10 @@
 # Momo707577045/m3u8-downloader - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 720
+☋ Forks: 722
 
-★ Stars: 3041
+★ Stars: 3048
 
 [Open repository](https://github.com/Momo707577045/m3u8-downloader)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3048 | 722 | 
 | 2022-11-16 | 3041 | 720 | 
 | 2022-11-15 | 3035 | 719 | 
 | 2022-11-14 | 3032 | 719 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2871 | 692 | 
 | 2022-10-20 | 2869 | 690 | 
 | 2022-10-19 | 2862 | 690 | 
-| 2022-10-18 | 2853 | 690 | 
 

@@ -1,6 +1,6 @@
 # AArnott/Library.Template - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 17
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 99 | 17 | 
 | 2022-11-16 | 99 | 17 | 
 | 2022-11-15 | 99 | 17 | 
 | 2022-11-14 | 99 | 17 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 98 | 17 | 
 | 2022-10-20 | 97 | 17 | 
 | 2022-10-19 | 97 | 17 | 
-| 2022-10-18 | 97 | 17 | 
 

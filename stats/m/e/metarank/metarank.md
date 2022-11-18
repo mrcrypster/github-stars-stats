@@ -1,10 +1,10 @@
 # metarank/metarank - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 59
 
-★ Stars: 1590
+★ Stars: 1591
 
 [Open repository](https://github.com/metarank/metarank)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1591 | 59 | 
 | 2022-11-16 | 1590 | 59 | 
 | 2022-11-15 | 1589 | 59 | 
 | 2022-11-14 | 1587 | 59 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1538 | 58 | 
 | 2022-10-20 | 1537 | 58 | 
 | 2022-10-19 | 1536 | 57 | 
-| 2022-10-18 | 1536 | 57 | 
 

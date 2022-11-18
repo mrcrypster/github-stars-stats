@@ -1,8 +1,8 @@
 # Azure/azure-powershell - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 3255
+☋ Forks: 3257
 
 ★ Stars: 3356
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3356 | 3257 | 
 | 2022-11-16 | 3356 | 3255 | 
 | 2022-11-15 | 3356 | 3253 | 
 | 2022-11-14 | 3354 | 3248 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 3319 | 3225 | 
 | 2022-10-20 | 3318 | 3225 | 
 | 2022-10-19 | 3317 | 3222 | 
-| 2022-10-18 | 3316 | 3220 | 
 

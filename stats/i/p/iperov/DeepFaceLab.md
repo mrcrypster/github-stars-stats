@@ -1,10 +1,10 @@
 # iperov/DeepFaceLab - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 8054
+☋ Forks: 8058
 
-★ Stars: 35773
+★ Stars: 35786
 
 [Open repository](https://github.com/iperov/DeepFaceLab)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 35786 | 8058 | 
 | 2022-11-16 | 35773 | 8054 | 
 | 2022-11-15 | 35755 | 8053 | 
 | 2022-11-14 | 35738 | 8047 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 35441 | 7980 | 
 | 2022-10-20 | 35436 | 7977 | 
 | 2022-10-19 | 35425 | 7977 | 
-| 2022-10-18 | 35402 | 7976 | 
 

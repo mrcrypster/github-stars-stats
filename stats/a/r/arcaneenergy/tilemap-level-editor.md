@@ -1,10 +1,10 @@
 # arcaneenergy/tilemap-level-editor - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 37
+★ Stars: 38
 
 [Open repository](https://github.com/arcaneenergy/tilemap-level-editor)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 38 | - | 
 | 2022-11-16 | 37 | - | 
 | 2022-11-15 | 37 | - | 
 | 2022-11-13 | 37 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 37 | - | 
 | 2022-10-20 | 37 | - | 
 | 2022-10-19 | 37 | - | 
-| 2022-10-18 | 37 | - | 
 

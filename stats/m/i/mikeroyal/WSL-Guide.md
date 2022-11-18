@@ -1,6 +1,6 @@
 # mikeroyal/WSL-Guide - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 138 | 11 | 
 | 2022-11-16 | 138 | 11 | 
 | 2022-11-15 | 138 | 11 | 
 | 2022-11-14 | 138 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 134 | 11 | 
 | 2022-10-20 | 134 | 11 | 
 | 2022-10-19 | 132 | 11 | 
-| 2022-10-18 | 132 | 11 | 
 

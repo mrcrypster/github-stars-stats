@@ -1,6 +1,6 @@
 # common-workflow-language/user_guide - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 58
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 31 | 58 | 
 | 2022-11-16 | 31 | 58 | 
 | 2022-11-15 | 31 | 58 | 
 | 2022-11-14 | 31 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 29 | 53 | 
 | 2022-10-20 | 29 | 53 | 
 | 2022-10-19 | 29 | 53 | 
-| 2022-10-18 | 28 | 52 | 
 

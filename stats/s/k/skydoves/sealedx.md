@@ -1,10 +1,10 @@
 # skydoves/sealedx - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 5
+☋ Forks: 6
 
-★ Stars: 234
+★ Stars: 233
 
 [Open repository](https://github.com/skydoves/sealedx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 233 | 6 | 
 | 2022-11-16 | 234 | 5 | 
 | 2022-11-15 | 234 | 5 | 
 | 2022-11-14 | 234 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 227 | 5 | 
 | 2022-10-20 | 227 | 5 | 
 | 2022-10-19 | 227 | 5 | 
-| 2022-10-18 | 227 | 5 | 
 

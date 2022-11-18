@@ -1,10 +1,10 @@
 # corsix/amx - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 24
 
-★ Stars: 480
+★ Stars: 483
 
 [Open repository](https://github.com/corsix/amx)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 483 | 24 | 
 | 2022-11-16 | 480 | 24 | 
 | 2022-11-15 | 476 | 24 | 
 | 2022-11-14 | 472 | 24 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 375 | 18 | 
 | 2022-10-21 | 374 | 18 | 
 | 2022-10-20 | 374 | 18 | 
-| 2022-10-19 | 374 | 18 | 
 

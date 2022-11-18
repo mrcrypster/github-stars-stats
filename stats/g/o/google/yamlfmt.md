@@ -1,10 +1,10 @@
 # google/yamlfmt - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 21
 
-★ Stars: 653
+★ Stars: 654
 
 [Open repository](https://github.com/google/yamlfmt)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 654 | 21 | 
 | 2022-11-16 | 653 | 21 | 
 | 2022-11-15 | 651 | 21 | 
 | 2022-11-14 | 648 | 21 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 623 | 20 | 
 | 2022-10-20 | 623 | 20 | 
 | 2022-10-19 | 621 | 20 | 
-| 2022-10-18 | 621 | 20 | 
 

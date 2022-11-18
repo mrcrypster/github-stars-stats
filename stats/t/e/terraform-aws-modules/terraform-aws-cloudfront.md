@@ -1,8 +1,8 @@
 # terraform-aws-modules/terraform-aws-cloudfront - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 161
+☋ Forks: 162
 
 ★ Stars: 72
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 72 | 162 | 
 | 2022-11-16 | 72 | 161 | 
 | 2022-11-15 | 71 | 161 | 
 | 2022-11-14 | 71 | 159 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 69 | 155 | 
 | 2022-10-20 | 69 | 154 | 
 | 2022-10-19 | 69 | 154 | 
-| 2022-10-18 | 69 | 154 | 
 

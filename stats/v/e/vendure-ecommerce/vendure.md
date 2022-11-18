@@ -1,10 +1,10 @@
 # vendure-ecommerce/vendure - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 667
 
-★ Stars: 3912
+★ Stars: 3916
 
 [Open repository](https://github.com/vendure-ecommerce/vendure)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3916 | 667 | 
 | 2022-11-16 | 3912 | 667 | 
 | 2022-11-15 | 3910 | 667 | 
 | 2022-11-14 | 3910 | 665 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 3864 | 656 | 
 | 2022-10-21 | 3864 | 656 | 
 | 2022-10-20 | 3861 | 656 | 
-| 2022-10-19 | 3858 | 656 | 
 

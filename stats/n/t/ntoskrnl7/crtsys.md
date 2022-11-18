@@ -1,6 +1,6 @@
 # ntoskrnl7/crtsys - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 121 | 22 | 
 | 2022-11-16 | 121 | 22 | 
 | 2022-11-15 | 121 | 22 | 
 | 2022-11-14 | 121 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 120 | 22 | 
 | 2022-10-20 | 121 | 22 | 
 | 2022-10-19 | 121 | 22 | 
-| 2022-10-18 | 121 | 22 | 
 

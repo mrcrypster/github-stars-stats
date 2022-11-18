@@ -1,6 +1,6 @@
 # Azure-Samples/cognitive-services-ruby-sdk-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1 | 5 | 
 | 2022-11-17 | 1 | 5 | 
 | 2022-11-16 | 1 | 5 | 
 | 2022-11-14 | 1 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 1 | 5 | 
 | 2022-10-20 | 1 | 5 | 
 | 2022-10-19 | 1 | 5 | 
-| 2022-10-18 | 1 | 5 | 
 

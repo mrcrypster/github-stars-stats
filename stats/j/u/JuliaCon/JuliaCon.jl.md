@@ -1,6 +1,6 @@
 # JuliaCon/JuliaCon.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 69 | 8 | 
 | 2022-11-16 | 69 | 8 | 
 | 2022-11-15 | 69 | 8 | 
 | 2022-11-14 | 69 | 8 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 69 | 8 | 
 | 2022-10-20 | 69 | 8 | 
 | 2022-10-19 | 69 | 8 | 
-| 2022-10-18 | 69 | 8 | 
 

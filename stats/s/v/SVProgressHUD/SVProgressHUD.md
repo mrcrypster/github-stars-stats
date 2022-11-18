@@ -1,10 +1,10 @@
 # SVProgressHUD/SVProgressHUD - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2580
 
-★ Stars: 12367
+★ Stars: 12366
 
 [Open repository](https://github.com/SVProgressHUD/SVProgressHUD)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 12366 | 2580 | 
 | 2022-11-16 | 12367 | 2580 | 
 | 2022-11-15 | 12367 | 2579 | 
 | 2022-11-14 | 12367 | 2578 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 12365 | 2577 | 
 | 2022-10-20 | 12365 | 2578 | 
 | 2022-10-19 | 12365 | 2577 | 
-| 2022-10-18 | 12363 | 2576 | 
 

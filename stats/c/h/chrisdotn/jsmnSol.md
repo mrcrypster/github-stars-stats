@@ -1,6 +1,6 @@
 # chrisdotn/jsmnSol - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 120 | 28 | 
 | 2022-11-16 | 120 | 28 | 
 | 2022-11-15 | 120 | 28 | 
 | 2022-11-14 | 120 | 28 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 120 | 27 | 
 | 2022-10-20 | 120 | 27 | 
 | 2022-10-19 | 119 | 27 | 
-| 2022-10-18 | 119 | 27 | 
 

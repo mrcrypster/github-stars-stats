@@ -1,8 +1,8 @@
 # JuliaLang/www.julialang.org - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 392
+☋ Forks: 393
 
 ★ Stars: 290
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 290 | 393 | 
 | 2022-11-16 | 290 | 392 | 
 | 2022-11-15 | 290 | 392 | 
 | 2022-11-14 | 290 | 391 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 286 | 391 | 
 | 2022-10-20 | 286 | 391 | 
 | 2022-10-19 | 286 | 391 | 
-| 2022-10-18 | 286 | 391 | 
 

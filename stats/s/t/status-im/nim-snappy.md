@@ -1,6 +1,6 @@
 # status-im/nim-snappy - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 22 | 1 | 
 | 2022-11-16 | 22 | 1 | 
 | 2022-11-15 | 22 | 1 | 
 | 2022-11-14 | 22 | 1 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 21 | 1 | 
 | 2022-10-20 | 21 | 1 | 
 | 2022-10-19 | 20 | 1 | 
-| 2022-10-18 | 20 | 1 | 
 

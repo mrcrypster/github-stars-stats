@@ -1,6 +1,6 @@
 # zodiacon/DbgPrint - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 10
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 43 | 10 | 
 | 2022-11-16 | 43 | 10 | 
 | 2022-11-15 | 43 | 10 | 
 | 2022-11-14 | 43 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 41 | 10 | 
 | 2022-10-21 | 41 | 10 | 
 | 2022-10-19 | 41 | 10 | 
-| 2022-10-18 | 41 | 10 | 
 

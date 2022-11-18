@@ -1,6 +1,6 @@
 # AR-js-org/AR.js - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 722
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 4139 | 722 | 
 | 2022-11-16 | 4139 | 722 | 
 | 2022-11-15 | 4132 | 722 | 
 | 2022-11-14 | 4127 | 722 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 4056 | 701 | 
 | 2022-10-20 | 4053 | 701 | 
 | 2022-10-19 | 4049 | 702 | 
-| 2022-10-18 | 4045 | 701 | 
 

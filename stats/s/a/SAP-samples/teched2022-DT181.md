@@ -1,0 +1,17 @@
+# SAP-samples/teched2022-DT181 - stars & forks statistics
+
+Stats updated on Nov 2022, 17
+
+☋ Forks: 6
+
+★ Stars: 14
+
+[Open repository](https://github.com/SAP-samples/teched2022-DT181)
+
+[Open detailed stats for SAP-samples/teched2022-DT181](https://reviewgithub.com/rep/SAP-samples/teched2022-DT181)
+
+## Historical data
+| Date | Stars | Forks |
+|------|-------|-------|
+| 2022-11-17 | 14 | 6 | 
+

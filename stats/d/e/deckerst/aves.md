@@ -1,10 +1,10 @@
 # deckerst/aves - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 35
 
-★ Stars: 579
+★ Stars: 580
 
 [Open repository](https://github.com/deckerst/aves)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 580 | 35 | 
 | 2022-11-16 | 579 | 35 | 
 | 2022-11-15 | 575 | 35 | 
 | 2022-11-14 | 572 | 35 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 530 | 35 | 
 | 2022-10-20 | 529 | 35 | 
 | 2022-10-19 | 528 | 34 | 
-| 2022-10-18 | 528 | 34 | 
 

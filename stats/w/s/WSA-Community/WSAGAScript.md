@@ -1,10 +1,10 @@
 # WSA-Community/WSAGAScript - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 2759
+☋ Forks: 2761
 
-★ Stars: 2981
+★ Stars: 2983
 
 [Open repository](https://github.com/WSA-Community/WSAGAScript)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2983 | 2761 | 
 | 2022-11-16 | 2981 | 2759 | 
 | 2022-11-15 | 2981 | 2753 | 
 | 2022-11-14 | 2978 | 2747 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2910 | 2592 | 
 | 2022-10-20 | 2903 | 2584 | 
 | 2022-10-19 | 2901 | 2578 | 
-| 2022-10-18 | 2896 | 2569 | 
 

@@ -1,6 +1,6 @@
 # xuchunyang/eshell-z - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 41 | 5 | 
 | 2022-11-17 | 41 | 5 | 
 | 2022-11-15 | 41 | 5 | 
 | 2022-11-14 | 41 | 5 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 40 | 5 | 
 | 2022-10-20 | 40 | 5 | 
 | 2022-10-19 | 40 | 5 | 
-| 2022-10-18 | 40 | 5 | 
 

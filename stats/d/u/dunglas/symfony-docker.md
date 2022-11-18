@@ -1,10 +1,10 @@
 # dunglas/symfony-docker - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 451
+☋ Forks: 453
 
-★ Stars: 1608
+★ Stars: 1610
 
 [Open repository](https://github.com/dunglas/symfony-docker)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1610 | 453 | 
 | 2022-11-16 | 1608 | 451 | 
 | 2022-11-15 | 1606 | 451 | 
 | 2022-11-14 | 1605 | 451 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1579 | 430 | 
 | 2022-10-20 | 1578 | 430 | 
 | 2022-10-19 | 1578 | 430 | 
-| 2022-10-18 | 1577 | 430 | 
 

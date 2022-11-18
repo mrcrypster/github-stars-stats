@@ -1,6 +1,6 @@
 # klezVirus/NimlineWhispers3 - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 12
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 114 | 12 | 
 | 2022-11-16 | 114 | 12 | 
 | 2022-11-15 | 113 | 12 | 
 | 2022-11-14 | 113 | 12 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 112 | 12 | 
 | 2022-10-20 | 112 | 12 | 
 | 2022-10-19 | 112 | 12 | 
-| 2022-10-18 | 112 | 12 | 
 

@@ -1,10 +1,10 @@
 # gtworek/VolatileDataCollector - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 16
 
-★ Stars: 126
+★ Stars: 127
 
 [Open repository](https://github.com/gtworek/VolatileDataCollector)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 127 | 16 | 
 | 2022-11-16 | 126 | 16 | 
 | 2022-11-15 | 126 | 16 | 
 | 2022-11-14 | 126 | 16 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 116 | 15 | 
 | 2022-10-20 | 116 | 15 | 
 | 2022-10-19 | 116 | 15 | 
-| 2022-10-18 | 116 | 15 | 
 

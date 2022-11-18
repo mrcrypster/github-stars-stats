@@ -1,10 +1,10 @@
 # greycodee/wechat-backup - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 145
 
-★ Stars: 1757
+★ Stars: 1762
 
 [Open repository](https://github.com/greycodee/wechat-backup)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 1762 | 145 | 
 | 2022-11-16 | 1757 | 145 | 
 | 2022-11-15 | 1752 | 145 | 
 | 2022-11-14 | 1749 | 143 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1598 | 132 | 
 | 2022-10-20 | 1596 | 132 | 
 | 2022-10-19 | 1592 | 131 | 
-| 2022-10-18 | 1589 | 131 | 
 

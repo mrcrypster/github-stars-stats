@@ -1,10 +1,10 @@
 # rust-embedded/rust-raspberrypi-OS-tutorials - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 564
 
-★ Stars: 9399
+★ Stars: 9405
 
 [Open repository](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 9405 | 564 | 
 | 2022-11-16 | 9399 | 564 | 
 | 2022-11-15 | 9391 | 564 | 
 | 2022-11-14 | 9382 | 563 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 9181 | 548 | 
 | 2022-10-20 | 9174 | 548 | 
 | 2022-10-19 | 9168 | 547 | 
-| 2022-10-18 | 9161 | 546 | 
 

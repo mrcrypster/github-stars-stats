@@ -1,8 +1,8 @@
 # developerforce/trailhead-code-samples - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 852
+☋ Forks: 851
 
 ★ Stars: 171
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 171 | 851 | 
 | 2022-11-16 | 171 | 852 | 
 | 2022-11-15 | 170 | 852 | 
 | 2022-11-14 | 170 | 852 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 166 | 849 | 
 | 2022-10-20 | 166 | 849 | 
 | 2022-10-19 | 166 | 849 | 
-| 2022-10-18 | 166 | 848 | 
 

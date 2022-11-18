@@ -1,10 +1,10 @@
 # kkent030315/evil-mhyprot-cli - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 57
 
-★ Stars: 210
+★ Stars: 211
 
 [Open repository](https://github.com/kkent030315/evil-mhyprot-cli)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 211 | 57 | 
 | 2022-11-16 | 210 | 57 | 
 | 2022-11-15 | 210 | 57 | 
 | 2022-11-14 | 209 | 56 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 208 | 56 | 
 | 2022-10-20 | 208 | 56 | 
 | 2022-10-19 | 207 | 54 | 
-| 2022-10-18 | 207 | 54 | 
 

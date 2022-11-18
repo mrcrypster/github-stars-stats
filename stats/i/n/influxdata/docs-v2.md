@@ -1,8 +1,8 @@
 # influxdata/docs-v2 - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 198
+☋ Forks: 199
 
 ★ Stars: 51
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 51 | 199 | 
 | 2022-11-16 | 51 | 198 | 
 | 2022-11-15 | 51 | 198 | 
 | 2022-11-14 | 51 | 198 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 49 | 195 | 
 | 2022-10-20 | 49 | 195 | 
 | 2022-10-19 | 49 | 195 | 
-| 2022-10-18 | 49 | 193 | 
 

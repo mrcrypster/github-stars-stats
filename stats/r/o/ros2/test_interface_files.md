@@ -1,10 +1,10 @@
 # ros2/test_interface_files - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 6
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/ros2/test_interface_files)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2 | 6 | 
 | 2022-11-16 | 1 | 6 | 
 | 2022-11-15 | 1 | 6 | 
 | 2022-11-14 | 1 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1 | 6 | 
 | 2022-10-20 | 1 | 6 | 
 | 2022-10-19 | 1 | 6 | 
-| 2022-10-18 | 1 | 6 | 
 

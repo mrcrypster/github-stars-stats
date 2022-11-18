@@ -1,6 +1,6 @@
 # ImperialCollegeLondon/natural_number_game - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 66
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 241 | 66 | 
 | 2022-11-16 | 241 | 66 | 
 | 2022-11-15 | 240 | 66 | 
 | 2022-11-14 | 240 | 66 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 231 | 66 | 
 | 2022-10-20 | 230 | 66 | 
 | 2022-10-19 | 228 | 66 | 
-| 2022-10-18 | 228 | 66 | 
 

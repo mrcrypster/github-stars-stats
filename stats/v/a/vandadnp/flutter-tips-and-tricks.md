@@ -1,10 +1,10 @@
 # vandadnp/flutter-tips-and-tricks - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 841
 
-★ Stars: 5617
+★ Stars: 5619
 
 [Open repository](https://github.com/vandadnp/flutter-tips-and-tricks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5619 | 841 | 
 | 2022-11-16 | 5617 | 841 | 
 | 2022-11-15 | 5612 | 839 | 
 | 2022-11-14 | 5606 | 838 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 5495 | 817 | 
 | 2022-10-20 | 5494 | 816 | 
 | 2022-10-19 | 5490 | 815 | 
-| 2022-10-18 | 5488 | 815 | 
 

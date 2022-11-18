@@ -1,10 +1,10 @@
 # fei-ke/HMSPush - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 7
 
-★ Stars: 166
+★ Stars: 169
 
 [Open repository](https://github.com/fei-ke/HMSPush)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 169 | 7 | 
 | 2022-11-17 | 166 | 7 | 
 | 2022-11-15 | 166 | 7 | 
 | 2022-11-14 | 165 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 135 | 7 | 
 | 2022-10-20 | 133 | 7 | 
 | 2022-10-19 | 132 | 7 | 
-| 2022-10-18 | 131 | 7 | 
 

@@ -1,10 +1,10 @@
 # whitenois3/huh - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 0
 
-★ Stars: 45
+★ Stars: 46
 
 [Open repository](https://github.com/whitenois3/huh)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 46 | - | 
 | 2022-11-17 | 45 | - | 
 | 2022-11-15 | 45 | - | 
 | 2022-11-14 | 45 | - | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 45 | - | 
 | 2022-10-20 | 45 | - | 
 | 2022-10-19 | 44 | - | 
-| 2022-10-18 | 42 | - | 
 

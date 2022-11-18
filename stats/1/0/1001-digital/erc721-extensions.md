@@ -1,6 +1,6 @@
 # 1001-digital/erc721-extensions - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 44
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 153 | 44 | 
 | 2022-11-16 | 153 | 44 | 
 | 2022-11-15 | 153 | 44 | 
 | 2022-11-14 | 153 | 44 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 149 | 44 | 
 | 2022-10-20 | 149 | 44 | 
 | 2022-10-19 | 149 | 44 | 
-| 2022-10-18 | 149 | 44 | 
 

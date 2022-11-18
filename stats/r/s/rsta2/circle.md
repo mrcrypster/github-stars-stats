@@ -1,10 +1,10 @@
 # rsta2/circle - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 188
 
-★ Stars: 1413
+★ Stars: 1414
 
 [Open repository](https://github.com/rsta2/circle)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1414 | 188 | 
 | 2022-11-16 | 1413 | 188 | 
 | 2022-11-15 | 1413 | 188 | 
 | 2022-11-14 | 1412 | 188 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1395 | 184 | 
 | 2022-10-20 | 1395 | 184 | 
 | 2022-10-19 | 1395 | 184 | 
-| 2022-10-18 | 1395 | 185 | 
 

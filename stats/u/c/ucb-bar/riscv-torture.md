@@ -1,10 +1,10 @@
 # ucb-bar/riscv-torture - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 38
+☋ Forks: 39
 
-★ Stars: 114
+★ Stars: 115
 
 [Open repository](https://github.com/ucb-bar/riscv-torture)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 115 | 39 | 
 | 2022-11-16 | 114 | 38 | 
 | 2022-11-15 | 114 | 38 | 
 | 2022-11-14 | 114 | 38 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 114 | 38 | 
 | 2022-10-20 | 114 | 38 | 
 | 2022-10-19 | 113 | 38 | 
-| 2022-10-18 | 113 | 38 | 
 

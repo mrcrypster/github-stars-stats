@@ -1,6 +1,6 @@
 # vmayoral/ros-robotics-companies - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 80
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 594 | 80 | 
 | 2022-11-16 | 594 | 80 | 
 | 2022-11-15 | 594 | 80 | 
 | 2022-11-14 | 594 | 79 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 575 | 78 | 
 | 2022-10-20 | 574 | 77 | 
 | 2022-10-19 | 572 | 77 | 
-| 2022-10-18 | 571 | 77 | 
 

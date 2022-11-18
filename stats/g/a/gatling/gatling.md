@@ -1,10 +1,10 @@
 # gatling/gatling - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 1138
+☋ Forks: 1139
 
-★ Stars: 5735
+★ Stars: 5736
 
 [Open repository](https://github.com/gatling/gatling)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5736 | 1139 | 
 | 2022-11-16 | 5735 | 1138 | 
 | 2022-11-15 | 5735 | 1138 | 
 | 2022-11-14 | 5734 | 1140 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 5706 | 1131 | 
 | 2022-10-20 | 5702 | 1131 | 
 | 2022-10-19 | 5701 | 1130 | 
-| 2022-10-18 | 5701 | 1130 | 
 

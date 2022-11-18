@@ -1,10 +1,10 @@
 # node-fetch/node-fetch - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 971
 
-★ Stars: 7976
+★ Stars: 7979
 
 [Open repository](https://github.com/node-fetch/node-fetch)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 7979 | 971 | 
 | 2022-11-16 | 7976 | 971 | 
 | 2022-11-15 | 7972 | 971 | 
 | 2022-11-14 | 7968 | 971 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 7921 | 962 | 
 | 2022-10-20 | 7917 | 962 | 
 | 2022-10-19 | 7916 | 961 | 
-| 2022-10-18 | 7912 | 960 | 
 

@@ -1,10 +1,10 @@
 # snolab/CapsLockX - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 18
 
-★ Stars: 191
+★ Stars: 193
 
 [Open repository](https://github.com/snolab/CapsLockX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 193 | 18 | 
 | 2022-11-16 | 191 | 18 | 
 | 2022-11-15 | 190 | 18 | 
 | 2022-11-14 | 190 | 18 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 187 | 18 | 
 | 2022-10-20 | 186 | 18 | 
 | 2022-10-19 | 186 | 18 | 
-| 2022-10-18 | 185 | 18 | 
 

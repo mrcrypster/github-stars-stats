@@ -1,6 +1,6 @@
 # supabase/pg_netstat - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 225 | 3 | 
 | 2022-11-16 | 225 | 3 | 
 | 2022-11-15 | 224 | 3 | 
 | 2022-11-14 | 224 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 219 | 3 | 
 | 2022-10-20 | 217 | 3 | 
 | 2022-10-19 | 217 | 3 | 
-| 2022-10-18 | 217 | 3 | 
 

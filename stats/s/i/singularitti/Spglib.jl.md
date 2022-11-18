@@ -1,10 +1,10 @@
 # singularitti/Spglib.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 8
+★ Stars: 9
 
 [Open repository](https://github.com/singularitti/Spglib.jl)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 9 | 7 | 
 | 2022-11-16 | 8 | 7 | 
 | 2022-11-15 | 8 | 7 | 
 | 2022-11-14 | 8 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 8 | 6 | 
 | 2022-10-20 | 8 | 6 | 
 | 2022-10-19 | 7 | 6 | 
-| 2022-10-18 | 6 | 6 | 
 

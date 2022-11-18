@@ -1,6 +1,6 @@
 # openpharma/visR - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 29
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 167 | 29 | 
 | 2022-11-16 | 167 | 29 | 
 | 2022-11-15 | 167 | 29 | 
 | 2022-11-14 | 167 | 29 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 165 | 29 | 
 | 2022-10-20 | 165 | 29 | 
 | 2022-10-19 | 165 | 29 | 
-| 2022-10-18 | 165 | 29 | 
 

@@ -1,10 +1,10 @@
 # mastodon/mastodon-android - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 71
+☋ Forks: 74
 
-★ Stars: 814
+★ Stars: 819
 
 [Open repository](https://github.com/mastodon/mastodon-android)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 819 | 74 | 
 | 2022-11-16 | 814 | 71 | 
 | 2022-11-15 | 806 | 68 | 
 | 2022-11-14 | 788 | 67 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 350 | 28 | 
 | 2022-10-21 | 348 | 28 | 
 | 2022-10-20 | 348 | 28 | 
-| 2022-10-19 | 348 | 28 | 
 

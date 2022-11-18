@@ -1,10 +1,10 @@
 # residentsummer/watoi - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 56
 
-★ Stars: 425
+★ Stars: 424
 
 [Open repository](https://github.com/residentsummer/watoi)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 424 | 56 | 
 | 2022-11-16 | 425 | 56 | 
 | 2022-11-15 | 425 | 56 | 
 | 2022-11-14 | 425 | 56 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 425 | 54 | 
 | 2022-10-21 | 425 | 54 | 
 | 2022-10-20 | 425 | 54 | 
-| 2022-10-19 | 425 | 54 | 
 

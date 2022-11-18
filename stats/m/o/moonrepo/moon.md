@@ -1,6 +1,6 @@
 # moonrepo/moon - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 26
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1097 | 26 | 
 | 2022-11-16 | 1097 | 26 | 
 | 2022-11-15 | 1097 | 25 | 
 | 2022-11-14 | 1096 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 1067 | 24 | 
 | 2022-10-21 | 1067 | 24 | 
 | 2022-10-20 | 1067 | 24 | 
-| 2022-10-19 | 1067 | 24 | 
 

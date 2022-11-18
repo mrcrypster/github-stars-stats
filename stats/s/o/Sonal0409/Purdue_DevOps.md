@@ -1,6 +1,6 @@
 # Sonal0409/Purdue_DevOps - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 30
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1 | 30 | 
 | 2022-11-16 | 1 | 30 | 
 | 2022-11-15 | 1 | 30 | 
 | 2022-11-14 | 1 | 30 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 1 | 29 | 
 | 2022-10-21 | 1 | 29 | 
 | 2022-10-20 | 1 | 29 | 
-| 2022-10-19 | 1 | 29 | 
 

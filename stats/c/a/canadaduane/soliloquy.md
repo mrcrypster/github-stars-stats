@@ -1,6 +1,6 @@
 # canadaduane/soliloquy - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 12 | 1 | 
 | 2022-11-16 | 12 | 1 | 
 | 2022-11-15 | 12 | 1 | 
 | 2022-11-14 | 12 | 1 | 

@@ -1,10 +1,10 @@
 # MatthewYork/DateTools - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 941
 
-★ Stars: 7207
+★ Stars: 7206
 
 [Open repository](https://github.com/MatthewYork/DateTools)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 7206 | 941 | 
 | 2022-11-16 | 7207 | 941 | 
 | 2022-11-15 | 7207 | 941 | 
 | 2022-11-14 | 7207 | 941 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 7207 | 941 | 
 | 2022-10-20 | 7207 | 941 | 
 | 2022-10-19 | 7207 | 941 | 
-| 2022-10-18 | 7207 | 941 | 
 

@@ -1,10 +1,10 @@
 # serengil/deepface - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 1067
+☋ Forks: 1069
 
-★ Stars: 4915
+★ Stars: 4926
 
 [Open repository](https://github.com/serengil/deepface)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 4926 | 1069 | 
 | 2022-11-16 | 4915 | 1067 | 
 | 2022-11-15 | 4907 | 1062 | 
 | 2022-11-14 | 4897 | 1060 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 4764 | 1027 | 
 | 2022-10-20 | 4756 | 1026 | 
 | 2022-10-19 | 4757 | 1025 | 
-| 2022-10-18 | 4749 | 1022 | 
 

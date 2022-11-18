@@ -1,6 +1,6 @@
 # pointfreeco/swift-custom-dump - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 54
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 614 | 54 | 
 | 2022-11-16 | 614 | 54 | 
 | 2022-11-15 | 614 | 54 | 
 | 2022-11-14 | 613 | 55 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 594 | 53 | 
 | 2022-10-20 | 594 | 53 | 
 | 2022-10-19 | 594 | 52 | 
-| 2022-10-18 | 593 | 52 | 
 

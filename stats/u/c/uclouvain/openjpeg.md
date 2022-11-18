@@ -1,6 +1,6 @@
 # uclouvain/openjpeg - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 428
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 833 | 428 | 
 | 2022-11-16 | 833 | 428 | 
 | 2022-11-15 | 834 | 428 | 
 | 2022-11-14 | 834 | 428 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 830 | 426 | 
 | 2022-10-20 | 830 | 426 | 
 | 2022-10-19 | 830 | 426 | 
-| 2022-10-18 | 830 | 425 | 
 

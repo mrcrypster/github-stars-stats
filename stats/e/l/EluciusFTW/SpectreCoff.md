@@ -1,10 +1,10 @@
 # EluciusFTW/SpectreCoff - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 0
 
-★ Stars: 15
+★ Stars: 16
 
 [Open repository](https://github.com/EluciusFTW/SpectreCoff)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 16 | - | 
 | 2022-11-16 | 15 | - | 
 | 2022-11-15 | 14 | - | 
 | 2022-11-14 | 13 | - | 

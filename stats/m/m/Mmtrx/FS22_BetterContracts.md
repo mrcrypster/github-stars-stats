@@ -1,6 +1,6 @@
 # Mmtrx/FS22_BetterContracts - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 47 | 11 | 
 | 2022-11-16 | 47 | 11 | 
 | 2022-11-15 | 47 | 10 | 
 | 2022-11-14 | 47 | 10 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 41 | 9 | 
 | 2022-10-20 | 40 | 9 | 
 | 2022-10-19 | 40 | 7 | 
-| 2022-10-18 | 40 | 7 | 
 

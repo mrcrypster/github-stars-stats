@@ -1,6 +1,6 @@
 # dekuNukem/RGBeeb - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 155 | 6 | 
 | 2022-11-17 | 155 | 6 | 
 | 2022-11-16 | 154 | 6 | 
 | 2022-11-14 | 154 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 154 | 6 | 
 | 2022-10-20 | 154 | 6 | 
 | 2022-10-19 | 154 | 6 | 
-| 2022-10-18 | 151 | 6 | 
 

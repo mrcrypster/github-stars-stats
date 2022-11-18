@@ -1,6 +1,6 @@
 # Azure-Terraform/terraform-azurerm-storage-account - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 35
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 8 | 35 | 
 | 2022-11-16 | 8 | 35 | 
 | 2022-11-15 | 8 | 35 | 
 | 2022-11-13 | 8 | 35 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 8 | 34 | 
 | 2022-10-20 | 8 | 34 | 
 | 2022-10-19 | 8 | 34 | 
-| 2022-10-18 | 8 | 34 | 
 

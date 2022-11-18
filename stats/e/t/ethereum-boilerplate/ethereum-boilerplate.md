@@ -1,10 +1,10 @@
 # ethereum-boilerplate/ethereum-boilerplate - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 2989
+☋ Forks: 2990
 
-★ Stars: 3614
+★ Stars: 3616
 
 [Open repository](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3616 | 2990 | 
 | 2022-11-16 | 3614 | 2989 | 
 | 2022-11-15 | 3611 | 2991 | 
 | 2022-11-14 | 3608 | 2990 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 3565 | 2978 | 
 | 2022-10-20 | 3564 | 2979 | 
 | 2022-10-19 | 3563 | 2978 | 
-| 2022-10-18 | 3561 | 2975 | 
 

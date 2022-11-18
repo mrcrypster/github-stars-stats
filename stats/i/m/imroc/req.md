@@ -1,10 +1,10 @@
 # imroc/req - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 252
 
-★ Stars: 2832
+★ Stars: 2833
 
 [Open repository](https://github.com/imroc/req)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2833 | 252 | 
 | 2022-11-16 | 2832 | 252 | 
 | 2022-11-15 | 2830 | 252 | 
 | 2022-11-14 | 2828 | 252 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2782 | 249 | 
 | 2022-10-20 | 2777 | 249 | 
 | 2022-10-19 | 2773 | 249 | 
-| 2022-10-18 | 2769 | 249 | 
 

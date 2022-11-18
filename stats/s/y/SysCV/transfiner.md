@@ -1,10 +1,10 @@
 # SysCV/transfiner - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 43
 
-★ Stars: 416
+★ Stars: 420
 
 [Open repository](https://github.com/SysCV/transfiner)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 420 | 43 | 
 | 2022-11-16 | 416 | 43 | 
 | 2022-11-15 | 416 | 43 | 
 | 2022-11-14 | 416 | 42 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 405 | 41 | 
 | 2022-10-20 | 403 | 41 | 
 | 2022-10-19 | 403 | 41 | 
-| 2022-10-18 | 402 | 41 | 
 

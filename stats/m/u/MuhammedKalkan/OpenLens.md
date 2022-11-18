@@ -1,10 +1,10 @@
 # MuhammedKalkan/OpenLens - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 85
 
-★ Stars: 1163
+★ Stars: 1179
 
 [Open repository](https://github.com/MuhammedKalkan/OpenLens)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1179 | 85 | 
 | 2022-11-16 | 1163 | 85 | 
 | 2022-11-15 | 1145 | 83 | 
 | 2022-11-14 | 1135 | 82 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 944 | 70 | 
 | 2022-10-20 | 935 | 69 | 
 | 2022-10-19 | 934 | 68 | 
-| 2022-10-18 | 922 | 68 | 
 

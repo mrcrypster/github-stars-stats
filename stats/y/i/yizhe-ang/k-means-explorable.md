@@ -1,10 +1,10 @@
 # yizhe-ang/k-means-explorable - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 6
 
-★ Stars: 78
+★ Stars: 80
 
 [Open repository](https://github.com/yizhe-ang/k-means-explorable)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 80 | 6 | 
 | 2022-11-16 | 78 | 6 | 
 | 2022-11-15 | 77 | 6 | 
 | 2022-11-14 | 77 | 6 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 73 | 5 | 
 | 2022-10-20 | 73 | 5 | 
 | 2022-10-19 | 70 | 5 | 
-| 2022-10-18 | 70 | 4 | 
 

@@ -1,6 +1,6 @@
 # okfn/sphinx-theme-okfn - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 12 | 7 | 
 | 2022-11-16 | 12 | 7 | 
 | 2022-11-15 | 12 | 7 | 
 | 2022-11-14 | 12 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 12 | 7 | 
 | 2022-10-20 | 12 | 7 | 
 | 2022-10-19 | 12 | 7 | 
-| 2022-10-18 | 12 | 7 | 
 

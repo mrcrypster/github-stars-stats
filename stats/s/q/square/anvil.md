@@ -1,10 +1,10 @@
 # square/anvil - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 50
+☋ Forks: 51
 
-★ Stars: 998
+★ Stars: 999
 
 [Open repository](https://github.com/square/anvil)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 999 | 51 | 
 | 2022-11-16 | 998 | 50 | 
 | 2022-11-15 | 998 | 50 | 
 | 2022-11-14 | 996 | 50 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 989 | 50 | 
 | 2022-10-20 | 988 | 50 | 
 | 2022-10-19 | 987 | 50 | 
-| 2022-10-18 | 987 | 50 | 
 

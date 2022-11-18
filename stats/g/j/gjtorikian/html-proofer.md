@@ -1,10 +1,10 @@
 # gjtorikian/html-proofer - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 201
 
-★ Stars: 1466
+★ Stars: 1467
 
 [Open repository](https://github.com/gjtorikian/html-proofer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1467 | 201 | 
 | 2022-11-16 | 1466 | 201 | 
 | 2022-11-15 | 1466 | 201 | 
 | 2022-11-14 | 1466 | 201 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 1463 | 201 | 
 | 2022-10-21 | 1462 | 201 | 
 | 2022-10-20 | 1462 | 201 | 
-| 2022-10-19 | 1462 | 201 | 
 

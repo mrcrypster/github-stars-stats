@@ -1,10 +1,10 @@
 # aws/eks-charts - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 609
+☋ Forks: 610
 
-★ Stars: 873
+★ Stars: 874
 
 [Open repository](https://github.com/aws/eks-charts)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 874 | 610 | 
 | 2022-11-16 | 873 | 609 | 
 | 2022-11-15 | 872 | 606 | 
 | 2022-11-14 | 871 | 605 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 859 | 598 | 
 | 2022-10-20 | 859 | 597 | 
 | 2022-10-19 | 859 | 597 | 
-| 2022-10-18 | 858 | 596 | 
 

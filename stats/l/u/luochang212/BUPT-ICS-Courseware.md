@@ -1,10 +1,10 @@
 # luochang212/BUPT-ICS-Courseware - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 29
 
-★ Stars: 85
+★ Stars: 86
 
 [Open repository](https://github.com/luochang212/BUPT-ICS-Courseware)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 86 | 29 | 
 | 2022-11-16 | 85 | 29 | 
 | 2022-11-15 | 85 | 29 | 
 | 2022-11-14 | 85 | 29 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 85 | 29 | 
 | 2022-10-20 | 85 | 29 | 
 | 2022-10-19 | 85 | 29 | 
-| 2022-10-18 | 85 | 29 | 
 

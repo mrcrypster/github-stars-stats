@@ -1,10 +1,10 @@
 # Massolari/forem.nvim - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1
 
-★ Stars: 18
+★ Stars: 17
 
 [Open repository](https://github.com/Massolari/forem.nvim)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 17 | 1 | 
 | 2022-11-16 | 18 | 1 | 
 | 2022-11-15 | 18 | 1 | 
 | 2022-11-14 | 18 | 1 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 18 | 1 | 
 | 2022-10-20 | 18 | 1 | 
 | 2022-10-19 | 18 | 1 | 
-| 2022-10-18 | 18 | 1 | 
 

@@ -1,8 +1,8 @@
 # 1357310795/TodoSync - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 76
+☋ Forks: 75
 
 ★ Stars: 40
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 40 | 75 | 
 | 2022-11-16 | 40 | 76 | 
 | 2022-11-15 | 39 | 76 | 
 | 2022-11-14 | 39 | 76 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 36 | 69 | 
 | 2022-10-20 | 35 | 68 | 
 | 2022-10-19 | 35 | 67 | 
-| 2022-10-18 | 35 | 67 | 
 

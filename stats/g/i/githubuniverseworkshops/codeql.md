@@ -1,6 +1,6 @@
 # githubuniverseworkshops/codeql - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 71 | 25 | 
 | 2022-11-16 | 71 | 25 | 
 | 2022-11-15 | 71 | 25 | 
 | 2022-11-14 | 71 | 25 | 

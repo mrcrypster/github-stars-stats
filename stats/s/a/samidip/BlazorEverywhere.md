@@ -1,6 +1,6 @@
 # samidip/BlazorEverywhere - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 7
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 16 | 7 | 
 | 2022-11-17 | 16 | 7 | 
 | 2022-11-15 | 16 | 7 | 
 | 2022-11-14 | 16 | 7 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 12 | 6 | 
 | 2022-10-20 | 10 | 6 | 
 | 2022-10-19 | 10 | 6 | 
-| 2022-10-18 | 10 | 6 | 
 

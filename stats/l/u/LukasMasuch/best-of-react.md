@@ -1,6 +1,6 @@
 # LukasMasuch/best-of-react - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 28
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 339 | 28 | 
 | 2022-11-16 | 339 | 28 | 
 | 2022-11-15 | 337 | 28 | 
 | 2022-11-14 | 338 | 28 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 315 | 27 | 
 | 2022-10-20 | 314 | 26 | 
 | 2022-10-19 | 311 | 26 | 
-| 2022-10-18 | 309 | 26 | 
 

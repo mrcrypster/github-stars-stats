@@ -1,10 +1,10 @@
 # jetmore/swaks - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 74
 
-★ Stars: 526
+★ Stars: 527
 
 [Open repository](https://github.com/jetmore/swaks)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 527 | 74 | 
 | 2022-11-16 | 526 | 74 | 
 | 2022-11-15 | 525 | 74 | 
 | 2022-11-14 | 525 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 517 | 71 | 
 | 2022-10-20 | 517 | 71 | 
 | 2022-10-19 | 517 | 71 | 
-| 2022-10-18 | 516 | 70 | 
 

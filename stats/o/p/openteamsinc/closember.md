@@ -1,10 +1,10 @@
 # openteamsinc/closember - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 5
 
-★ Stars: 59
+★ Stars: 60
 
 [Open repository](https://github.com/openteamsinc/closember)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 60 | 5 | 
 | 2022-11-16 | 59 | 5 | 
 | 2022-11-15 | 59 | 5 | 
 | 2022-11-14 | 59 | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 51 | 5 | 
 | 2022-10-20 | 51 | 5 | 
 | 2022-10-19 | 50 | 5 | 
-| 2022-10-18 | 50 | 4 | 
 

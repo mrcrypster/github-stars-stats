@@ -1,10 +1,10 @@
 # girliemac/a-picture-is-worth-a-1000-words - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 684
+☋ Forks: 686
 
-★ Stars: 10054
+★ Stars: 10061
 
 [Open repository](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 10061 | 686 | 
 | 2022-11-16 | 10054 | 684 | 
 | 2022-11-15 | 10050 | 683 | 
 | 2022-11-14 | 10047 | 683 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 9962 | 671 | 
 | 2022-10-20 | 9959 | 669 | 
 | 2022-10-19 | 9950 | 669 | 
-| 2022-10-18 | 9944 | 669 | 
 

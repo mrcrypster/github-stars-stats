@@ -1,6 +1,6 @@
 # binary-com/perl-Locale-Maketext-ManyPluralForms - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | - | 5 | 
 | 2022-11-16 | - | 5 | 
 | 2022-11-15 | - | 5 | 
 | 2022-11-14 | - | 5 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | - | 4 | 
 | 2022-10-20 | - | 4 | 
 | 2022-10-19 | - | 4 | 
-| 2022-10-18 | - | 4 | 
 

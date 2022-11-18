@@ -1,6 +1,6 @@
 # leanprover-community/mathlib4 - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 53
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 130 | 53 | 
 | 2022-11-16 | 130 | 53 | 
 | 2022-11-15 | 130 | 53 | 
 | 2022-11-14 | 130 | 52 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 116 | 49 | 
 | 2022-10-20 | 115 | 49 | 
 | 2022-10-19 | 115 | 49 | 
-| 2022-10-18 | 115 | 49 | 
 

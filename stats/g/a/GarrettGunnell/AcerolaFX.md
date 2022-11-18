@@ -1,10 +1,10 @@
 # GarrettGunnell/AcerolaFX - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3
 
-★ Stars: 100
+★ Stars: 102
 
 [Open repository](https://github.com/GarrettGunnell/AcerolaFX)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 102 | 3 | 
 | 2022-11-16 | 100 | 3 | 
 | 2022-11-15 | 100 | 3 | 
 | 2022-11-14 | 100 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 89 | 1 | 
 | 2022-10-20 | 88 | 1 | 
 | 2022-10-19 | 87 | 1 | 
-| 2022-10-18 | 87 | 1 | 
 

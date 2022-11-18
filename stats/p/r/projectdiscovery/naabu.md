@@ -1,10 +1,10 @@
 # projectdiscovery/naabu - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 346
 
-★ Stars: 2794
+★ Stars: 2797
 
 [Open repository](https://github.com/projectdiscovery/naabu)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 2797 | 346 | 
 | 2022-11-16 | 2794 | 346 | 
 | 2022-11-15 | 2791 | 344 | 
 | 2022-11-14 | 2789 | 345 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2696 | 341 | 
 | 2022-10-20 | 2692 | 341 | 
 | 2022-10-19 | 2688 | 340 | 
-| 2022-10-18 | 2682 | 339 | 
 

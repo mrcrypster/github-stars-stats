@@ -1,10 +1,10 @@
 # Verisimilitude11/DNAnalyzer - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 53
+☋ Forks: 52
 
-★ Stars: 67
+★ Stars: 68
 
 [Open repository](https://github.com/Verisimilitude11/DNAnalyzer)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 68 | 52 | 
 | 2022-11-16 | 67 | 53 | 
 | 2022-11-15 | 67 | 53 | 
 | 2022-11-14 | 67 | 54 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 48 | 41 | 
 | 2022-10-20 | 47 | 41 | 
 | 2022-10-19 | 46 | 39 | 
-| 2022-10-18 | 44 | 39 | 
 

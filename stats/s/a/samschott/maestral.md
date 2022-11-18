@@ -1,10 +1,10 @@
 # samschott/maestral - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 58
 
-★ Stars: 2536
+★ Stars: 2537
 
 [Open repository](https://github.com/samschott/maestral)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2537 | 58 | 
 | 2022-11-16 | 2536 | 58 | 
 | 2022-11-15 | 2536 | 58 | 
 | 2022-11-14 | 2536 | 58 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2514 | 58 | 
 | 2022-10-20 | 2513 | 58 | 
 | 2022-10-19 | 2512 | 58 | 
-| 2022-10-18 | 2512 | 58 | 
 

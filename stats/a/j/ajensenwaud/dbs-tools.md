@@ -1,6 +1,6 @@
 # ajensenwaud/dbs-tools - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 0
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 24 | - | 
 | 2022-11-16 | 24 | - | 
 | 2022-11-15 | 24 | - | 
 | 2022-11-14 | 24 | - | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 24 | - | 
 | 2022-10-21 | 24 | - | 
 | 2022-10-20 | 24 | - | 
-| 2022-10-19 | 24 | - | 
 

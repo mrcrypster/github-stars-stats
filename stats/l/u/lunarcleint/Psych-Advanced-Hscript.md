@@ -1,6 +1,6 @@
 # lunarcleint/Psych-Advanced-Hscript - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 12 | 5 | 
 | 2022-11-16 | 12 | 5 | 
 | 2022-11-15 | 12 | 5 | 
 | 2022-11-14 | 11 | 4 | 

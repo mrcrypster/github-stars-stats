@@ -1,6 +1,6 @@
 # ethereum/hevm - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 45 | 2 | 
 | 2022-11-16 | 45 | 2 | 
 | 2022-11-15 | 45 | 2 | 
 | 2022-11-14 | 45 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 39 | 2 | 
 | 2022-10-20 | 39 | 2 | 
 | 2022-10-19 | 39 | 2 | 
-| 2022-10-18 | 37 | 2 | 
 

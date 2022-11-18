@@ -1,6 +1,6 @@
 # Runnrairu/Machine-Learning-text - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 124 | 2 | 
 | 2022-11-16 | 124 | 2 | 
 | 2022-11-15 | 124 | 2 | 
 | 2022-11-14 | 123 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 123 | 2 | 
 | 2022-10-20 | 123 | 2 | 
 | 2022-10-19 | 123 | 2 | 
-| 2022-10-18 | 123 | 2 | 
 

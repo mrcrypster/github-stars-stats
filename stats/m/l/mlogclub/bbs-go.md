@@ -1,10 +1,10 @@
 # mlogclub/bbs-go - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 488
+☋ Forks: 490
 
-★ Stars: 2238
+★ Stars: 2248
 
 [Open repository](https://github.com/mlogclub/bbs-go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2248 | 490 | 
 | 2022-11-16 | 2238 | 488 | 
 | 2022-11-15 | 2212 | 485 | 
 | 2022-11-14 | 2198 | 484 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2164 | 478 | 
 | 2022-10-20 | 2159 | 478 | 
 | 2022-10-19 | 2156 | 477 | 
-| 2022-10-18 | 2152 | 478 | 
 

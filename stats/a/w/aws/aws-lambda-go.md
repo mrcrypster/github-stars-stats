@@ -1,10 +1,10 @@
 # aws/aws-lambda-go - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 502
+☋ Forks: 501
 
-★ Stars: 3144
+★ Stars: 3145
 
 [Open repository](https://github.com/aws/aws-lambda-go)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3145 | 501 | 
 | 2022-11-16 | 3144 | 502 | 
 | 2022-11-15 | 3143 | 502 | 
 | 2022-11-14 | 3142 | 502 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 3120 | 496 | 
 | 2022-10-20 | 3118 | 495 | 
 | 2022-10-19 | 3118 | 495 | 
-| 2022-10-18 | 3117 | 495 | 
 

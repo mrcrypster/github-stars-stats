@@ -1,10 +1,10 @@
 # SwiftGen/SwiftGen - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 658
 
-★ Stars: 8289
+★ Stars: 8288
 
 [Open repository](https://github.com/SwiftGen/SwiftGen)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 8288 | 658 | 
 | 2022-11-16 | 8289 | 658 | 
 | 2022-11-15 | 8289 | 657 | 
 | 2022-11-14 | 8286 | 657 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 8252 | 655 | 
 | 2022-10-20 | 8243 | 654 | 
 | 2022-10-19 | 8243 | 653 | 
-| 2022-10-18 | 8242 | 652 | 
 

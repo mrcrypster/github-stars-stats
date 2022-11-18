@@ -1,6 +1,6 @@
 # cserl-iitb/bootcamp2022 - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 74
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 35 | 74 | 
 | 2022-11-16 | 35 | 74 | 
 | 2022-11-15 | 35 | 74 | 
 | 2022-11-14 | 35 | 74 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 34 | 73 | 
 | 2022-10-20 | 34 | 74 | 
 | 2022-10-19 | 34 | 74 | 
-| 2022-10-18 | 34 | 74 | 
 

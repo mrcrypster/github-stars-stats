@@ -1,10 +1,10 @@
 # mochman/Bypass_CGNAT - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 22
 
-★ Stars: 278
+★ Stars: 279
 
 [Open repository](https://github.com/mochman/Bypass_CGNAT)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 279 | 22 | 
 | 2022-11-16 | 278 | 22 | 
 | 2022-11-15 | 277 | 22 | 
 | 2022-11-14 | 277 | 22 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 272 | 20 | 
 | 2022-10-20 | 271 | 20 | 
 | 2022-10-19 | 270 | 20 | 
-| 2022-10-18 | 270 | 20 | 
 

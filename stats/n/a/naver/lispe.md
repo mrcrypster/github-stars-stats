@@ -1,6 +1,6 @@
 # naver/lispe - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 5
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 272 | 5 | 
 | 2022-11-16 | 272 | 5 | 
 | 2022-11-15 | 270 | 5 | 
 | 2022-11-14 | 270 | 5 | 

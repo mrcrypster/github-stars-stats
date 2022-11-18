@@ -1,10 +1,10 @@
 # ithewei/libhv - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 895
 
-★ Stars: 4839
+★ Stars: 4846
 
 [Open repository](https://github.com/ithewei/libhv)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 4846 | 895 | 
 | 2022-11-16 | 4839 | 895 | 
 | 2022-11-15 | 4833 | 894 | 
 | 2022-11-14 | 4829 | 891 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 4756 | 867 | 
 | 2022-10-20 | 4747 | 866 | 
 | 2022-10-19 | 4742 | 866 | 
-| 2022-10-18 | 4741 | 866 | 
 

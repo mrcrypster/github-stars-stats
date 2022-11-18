@@ -1,10 +1,10 @@
 # appwrite/sdk-generator - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 119
 
-★ Stars: 165
+★ Stars: 166
 
 [Open repository](https://github.com/appwrite/sdk-generator)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 166 | 119 | 
 | 2022-11-16 | 165 | 119 | 
 | 2022-11-15 | 165 | 118 | 
 | 2022-11-14 | 165 | 117 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 163 | 114 | 
 | 2022-10-20 | 161 | 114 | 
 | 2022-10-19 | 160 | 113 | 
-| 2022-10-18 | 160 | 113 | 
 

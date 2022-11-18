@@ -1,10 +1,10 @@
 # spatie/laravel-livewire-wizard - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 26
 
-★ Stars: 217
+★ Stars: 218
 
 [Open repository](https://github.com/spatie/laravel-livewire-wizard)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 218 | 26 | 
 | 2022-11-16 | 217 | 26 | 
 | 2022-11-15 | 217 | 25 | 
 | 2022-11-14 | 217 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 209 | 23 | 
 | 2022-10-20 | 209 | 23 | 
 | 2022-10-19 | 209 | 23 | 
-| 2022-10-18 | 209 | 23 | 
 

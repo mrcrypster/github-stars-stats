@@ -1,6 +1,6 @@
 # ChmaraX/forensix - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 20
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 79 | 20 | 
 | 2022-11-16 | 79 | 20 | 
 | 2022-11-15 | 79 | 20 | 
 | 2022-11-14 | 79 | 20 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 78 | 20 | 
 | 2022-10-20 | 78 | 20 | 
 | 2022-10-19 | 78 | 20 | 
-| 2022-10-18 | 78 | 20 | 
 

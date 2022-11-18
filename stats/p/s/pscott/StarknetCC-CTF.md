@@ -1,10 +1,10 @@
 # pscott/StarknetCC-CTF - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 16
+★ Stars: 17
 
 [Open repository](https://github.com/pscott/StarknetCC-CTF)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 17 | 2 | 
 | 2022-11-16 | 16 | 2 | 
 | 2022-11-15 | 16 | 2 | 
 | 2022-11-14 | 16 | 2 | 

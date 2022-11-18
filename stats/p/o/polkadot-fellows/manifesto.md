@@ -1,6 +1,6 @@
 # polkadot-fellows/manifesto - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 48 | 3 | 
 | 2022-11-16 | 48 | 3 | 
 | 2022-11-15 | 47 | 3 | 
 | 2022-11-14 | 47 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 42 | 3 | 
 | 2022-10-20 | 42 | 3 | 
 | 2022-10-19 | 42 | 3 | 
-| 2022-10-18 | 42 | 3 | 
 

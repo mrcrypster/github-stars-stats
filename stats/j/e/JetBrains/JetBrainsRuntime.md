@@ -1,10 +1,10 @@
 # JetBrains/JetBrainsRuntime - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 135
 
-★ Stars: 723
+★ Stars: 724
 
 [Open repository](https://github.com/JetBrains/JetBrainsRuntime)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 724 | 135 | 
 | 2022-11-16 | 723 | 135 | 
 | 2022-11-15 | 722 | 135 | 
 | 2022-11-14 | 721 | 134 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 710 | 133 | 
 | 2022-10-21 | 708 | 133 | 
 | 2022-10-19 | 707 | 133 | 
-| 2022-10-18 | 706 | 132 | 
 

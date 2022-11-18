@@ -1,10 +1,10 @@
 # ACL4SSR/ACL4SSR - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 2430
+☋ Forks: 2433
 
-★ Stars: 8553
+★ Stars: 8559
 
 [Open repository](https://github.com/ACL4SSR/ACL4SSR)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 8559 | 2433 | 
 | 2022-11-16 | 8553 | 2430 | 
 | 2022-11-15 | 8548 | 2429 | 
 | 2022-11-14 | 8541 | 2425 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 8387 | 2381 | 
 | 2022-10-20 | 8381 | 2378 | 
 | 2022-10-19 | 8378 | 2376 | 
-| 2022-10-18 | 8374 | 2376 | 
 

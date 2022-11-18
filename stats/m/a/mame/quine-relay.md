@@ -1,10 +1,10 @@
 # mame/quine-relay - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 562
 
-★ Stars: 12802
+★ Stars: 12804
 
 [Open repository](https://github.com/mame/quine-relay)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 12804 | 562 | 
 | 2022-11-16 | 12802 | 562 | 
 | 2022-11-15 | 12798 | 562 | 
 | 2022-11-14 | 12798 | 562 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 12719 | 560 | 
 | 2022-10-20 | 12715 | 560 | 
 | 2022-10-19 | 12711 | 559 | 
-| 2022-10-18 | 12708 | 558 | 
 

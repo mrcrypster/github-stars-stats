@@ -1,10 +1,10 @@
 # ashelkovnykov/urbit-chess - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 7
+☋ Forks: 8
 
-★ Stars: 19
+★ Stars: 0
 
 [Open repository](https://github.com/ashelkovnykov/urbit-chess)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | - | 8 | 
 | 2022-11-16 | 19 | 7 | 
 | 2022-11-15 | 19 | 7 | 
 | 2022-11-14 | 19 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 17 | 7 | 
 | 2022-10-21 | 17 | 7 | 
 | 2022-10-20 | 17 | 7 | 
-| 2022-10-19 | 17 | 7 | 
 

@@ -1,10 +1,10 @@
 # FastLED/FastLED - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 1484
+☋ Forks: 1485
 
-★ Stars: 5517
+★ Stars: 5519
 
 [Open repository](https://github.com/FastLED/FastLED)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5519 | 1485 | 
 | 2022-11-16 | 5517 | 1484 | 
 | 2022-11-15 | 5515 | 1484 | 
 | 2022-11-14 | 5514 | 1484 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 5475 | 1476 | 
 | 2022-10-21 | 5476 | 1476 | 
 | 2022-10-20 | 5478 | 1475 | 
-| 2022-10-19 | 5478 | 1473 | 
 

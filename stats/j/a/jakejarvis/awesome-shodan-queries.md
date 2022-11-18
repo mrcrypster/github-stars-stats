@@ -1,10 +1,10 @@
 # jakejarvis/awesome-shodan-queries - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 617
 
-★ Stars: 3582
+★ Stars: 3583
 
 [Open repository](https://github.com/jakejarvis/awesome-shodan-queries)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 3583 | 617 | 
 | 2022-11-16 | 3582 | 617 | 
 | 2022-11-15 | 3581 | 616 | 
 | 2022-11-14 | 3579 | 616 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 3514 | 607 | 
 | 2022-10-20 | 3513 | 607 | 
 | 2022-10-19 | 3508 | 607 | 
-| 2022-10-18 | 3504 | 606 | 
 

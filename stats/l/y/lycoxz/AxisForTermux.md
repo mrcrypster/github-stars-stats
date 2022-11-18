@@ -1,8 +1,8 @@
 # lycoxz/AxisForTermux - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 9
+☋ Forks: 10
 
 ★ Stars: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 11 | 10 | 
 | 2022-11-16 | 11 | 9 | 
 | 2022-11-15 | 10 | 9 | 
 | 2022-11-14 | 10 | 9 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 9 | 7 | 
 | 2022-10-20 | 9 | 7 | 
 | 2022-10-19 | 9 | 7 | 
-| 2022-10-18 | 9 | 8 | 
 

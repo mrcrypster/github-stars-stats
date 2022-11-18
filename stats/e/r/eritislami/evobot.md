@@ -1,10 +1,10 @@
 # eritislami/evobot - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 1887
+☋ Forks: 1889
 
-★ Stars: 1403
+★ Stars: 1407
 
 [Open repository](https://github.com/eritislami/evobot)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1407 | 1889 | 
 | 2022-11-16 | 1403 | 1887 | 
 | 2022-11-15 | 1402 | 1887 | 
 | 2022-11-14 | 1401 | 1888 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1382 | 1870 | 
 | 2022-10-20 | 1380 | 1867 | 
 | 2022-10-19 | 1380 | 1866 | 
-| 2022-10-18 | 1380 | 1865 | 
 

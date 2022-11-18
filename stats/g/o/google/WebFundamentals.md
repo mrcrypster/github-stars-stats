@@ -1,6 +1,6 @@
 # google/WebFundamentals - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2721
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 13582 | 2721 | 
 | 2022-11-16 | 13582 | 2721 | 
 | 2022-11-15 | 13581 | 2721 | 
 | 2022-11-14 | 13579 | 2722 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 13556 | 2717 | 
 | 2022-10-20 | 13556 | 2716 | 
 | 2022-10-19 | 13555 | 2716 | 
-| 2022-10-18 | 13555 | 2714 | 
 

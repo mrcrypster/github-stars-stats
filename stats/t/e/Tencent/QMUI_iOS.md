@@ -1,6 +1,6 @@
 # Tencent/QMUI_iOS - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 1322
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 6726 | 1322 | 
 | 2022-11-16 | 6726 | 1322 | 
 | 2022-11-15 | 6727 | 1322 | 
 | 2022-11-14 | 6727 | 1323 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 6701 | 1323 | 
 | 2022-10-20 | 6700 | 1321 | 
 | 2022-10-19 | 6699 | 1321 | 
-| 2022-10-18 | 6696 | 1320 | 
 

@@ -1,10 +1,10 @@
 # cp6/my-idlers - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 19
 
-★ Stars: 119
+★ Stars: 121
 
 [Open repository](https://github.com/cp6/my-idlers)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 121 | 19 | 
 | 2022-11-16 | 119 | 19 | 
 | 2022-11-15 | 119 | 19 | 
 | 2022-11-14 | 119 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 116 | 19 | 
 | 2022-10-20 | 116 | 19 | 
 | 2022-10-19 | 116 | 19 | 
-| 2022-10-18 | 116 | 19 | 
 

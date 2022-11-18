@@ -1,10 +1,10 @@
 # spatie/laravel-medialibrary - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 971
+☋ Forks: 972
 
-★ Stars: 5132
+★ Stars: 5135
 
 [Open repository](https://github.com/spatie/laravel-medialibrary)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5135 | 972 | 
 | 2022-11-16 | 5132 | 971 | 
 | 2022-11-15 | 5132 | 971 | 
 | 2022-11-14 | 5132 | 971 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 5114 | 960 | 
 | 2022-10-20 | 5112 | 960 | 
 | 2022-10-19 | 5111 | 959 | 
-| 2022-10-18 | 5110 | 959 | 
 

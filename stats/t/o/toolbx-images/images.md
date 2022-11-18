@@ -1,10 +1,10 @@
 # toolbx-images/images - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 8
 
-★ Stars: 61
+★ Stars: 63
 
 [Open repository](https://github.com/toolbx-images/images)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 63 | 8 | 
 | 2022-11-16 | 61 | 8 | 
 | 2022-11-15 | 59 | 8 | 
 | 2022-11-14 | 57 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 53 | 7 | 
 | 2022-10-20 | 50 | 7 | 
 | 2022-10-19 | 49 | 6 | 
-| 2022-10-18 | 48 | 6 | 
 

@@ -1,10 +1,10 @@
 # goharbor/harbor-helm - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 719
+☋ Forks: 720
 
-★ Stars: 897
+★ Stars: 899
 
 [Open repository](https://github.com/goharbor/harbor-helm)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 899 | 720 | 
 | 2022-11-16 | 897 | 719 | 
 | 2022-11-15 | 897 | 719 | 
 | 2022-11-14 | 895 | 718 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 889 | 712 | 
 | 2022-10-20 | 887 | 712 | 
 | 2022-10-19 | 886 | 712 | 
-| 2022-10-18 | 885 | 712 | 
 

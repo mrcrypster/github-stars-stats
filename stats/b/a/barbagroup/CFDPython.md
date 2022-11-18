@@ -1,10 +1,10 @@
 # barbagroup/CFDPython - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 998
+☋ Forks: 999
 
-★ Stars: 2571
+★ Stars: 2572
 
 [Open repository](https://github.com/barbagroup/CFDPython)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2572 | 999 | 
 | 2022-11-16 | 2571 | 998 | 
 | 2022-11-15 | 2567 | 998 | 
 | 2022-11-14 | 2565 | 998 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 2519 | 987 | 
 | 2022-10-21 | 2513 | 987 | 
 | 2022-10-20 | 2513 | 986 | 
-| 2022-10-19 | 2512 | 986 | 
 

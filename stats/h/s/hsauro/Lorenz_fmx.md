@@ -1,6 +1,6 @@
 # hsauro/Lorenz_fmx - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 3
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 20 | 3 | 
 | 2022-11-16 | 20 | 3 | 
 | 2022-11-15 | 20 | 3 | 
 | 2022-11-13 | 20 | 3 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 20 | 3 | 
 | 2022-10-20 | 20 | 3 | 
 | 2022-10-19 | 20 | 3 | 
-| 2022-10-18 | 20 | 3 | 
 

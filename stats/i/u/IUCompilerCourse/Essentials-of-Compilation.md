@@ -1,6 +1,6 @@
 # IUCompilerCourse/Essentials-of-Compilation - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 97
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 709 | 97 | 
 | 2022-11-16 | 709 | 97 | 
 | 2022-11-15 | 709 | 98 | 
 | 2022-11-14 | 709 | 98 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 703 | 96 | 
 | 2022-10-20 | 702 | 96 | 
 | 2022-10-19 | 702 | 96 | 
-| 2022-10-18 | 702 | 96 | 
 

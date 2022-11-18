@@ -1,10 +1,10 @@
 # Homebrew/homebrew-core - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 10948
+☋ Forks: 10949
 
-★ Stars: 11847
+★ Stars: 11850
 
 [Open repository](https://github.com/Homebrew/homebrew-core)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 11850 | 10949 | 
 | 2022-11-16 | 11847 | 10948 | 
 | 2022-11-15 | 11844 | 10941 | 
 | 2022-11-14 | 11837 | 10940 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 11753 | 10881 | 
 | 2022-10-20 | 11750 | 10879 | 
 | 2022-10-19 | 11746 | 10878 | 
-| 2022-10-18 | 11743 | 10876 | 
 

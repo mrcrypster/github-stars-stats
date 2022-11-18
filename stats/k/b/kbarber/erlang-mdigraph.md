@@ -1,6 +1,6 @@
 # kbarber/erlang-mdigraph - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 8
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 13 | 8 | 
 | 2022-11-16 | 13 | 8 | 
 | 2022-11-15 | 13 | 8 | 
 | 2022-11-14 | 13 | 8 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 13 | 8 | 
 | 2022-10-20 | 13 | 8 | 
 | 2022-10-19 | 13 | 8 | 
-| 2022-10-18 | 13 | 8 | 
 

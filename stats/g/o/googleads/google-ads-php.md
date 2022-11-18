@@ -1,8 +1,8 @@
 # googleads/google-ads-php - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 213
+☋ Forks: 214
 
 ★ Stars: 195
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 195 | 214 | 
 | 2022-11-16 | 195 | 213 | 
 | 2022-11-15 | 195 | 213 | 
 | 2022-11-14 | 195 | 213 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 193 | 210 | 
 | 2022-10-20 | 192 | 210 | 
 | 2022-10-19 | 192 | 210 | 
-| 2022-10-18 | 192 | 208 | 
 

@@ -1,8 +1,8 @@
 # edbmods/EdBPrepareCarefully - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 82
+☋ Forks: 83
 
 ★ Stars: 193
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 193 | 83 | 
 | 2022-11-16 | 193 | 82 | 
 | 2022-11-15 | 193 | 81 | 
 | 2022-11-14 | 193 | 81 | 

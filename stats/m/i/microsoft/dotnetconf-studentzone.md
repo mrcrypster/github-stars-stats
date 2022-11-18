@@ -1,8 +1,8 @@
 # microsoft/dotnetconf-studentzone - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 44
+☋ Forks: 45
 
 ★ Stars: 83
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 83 | 45 | 
 | 2022-11-16 | 83 | 44 | 
 | 2022-11-15 | 82 | 43 | 
 | 2022-11-14 | 82 | 43 | 

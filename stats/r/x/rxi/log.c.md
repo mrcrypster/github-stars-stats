@@ -4,7 +4,7 @@ Stats updated on Nov 2022, 17
 
 ☋ Forks: 377
 
-★ Stars: 1697
+★ Stars: 1700
 
 [Open repository](https://github.com/rxi/log.c)
 
@@ -13,6 +13,6 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-17 | 1697 | 377 | 
+| 2022-11-17 | 1700 | 377 | 
 | 2022-11-16 | 1696 | 377 | 
 

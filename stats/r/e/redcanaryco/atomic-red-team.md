@@ -1,10 +1,10 @@
 # redcanaryco/atomic-red-team - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 2210
+☋ Forks: 2211
 
-★ Stars: 6774
+★ Stars: 6778
 
 [Open repository](https://github.com/redcanaryco/atomic-red-team)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 6778 | 2211 | 
 | 2022-11-16 | 6774 | 2210 | 
 | 2022-11-15 | 6770 | 2209 | 
 | 2022-11-14 | 6765 | 2207 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 6680 | 2194 | 
 | 2022-10-20 | 6670 | 2193 | 
 | 2022-10-19 | 6660 | 2192 | 
-| 2022-10-18 | 6649 | 2193 | 
 

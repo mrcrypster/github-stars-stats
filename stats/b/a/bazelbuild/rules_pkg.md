@@ -1,10 +1,10 @@
 # bazelbuild/rules_pkg - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 131
 
-★ Stars: 149
+★ Stars: 148
 
 [Open repository](https://github.com/bazelbuild/rules_pkg)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 148 | 131 | 
 | 2022-11-16 | 149 | 131 | 
 | 2022-11-14 | 149 | 131 | 
 | 2022-11-13 | 149 | 130 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 141 | 128 | 
 | 2022-10-20 | 141 | 128 | 
 | 2022-10-19 | 141 | 127 | 
-| 2022-10-18 | 141 | 127 | 
 

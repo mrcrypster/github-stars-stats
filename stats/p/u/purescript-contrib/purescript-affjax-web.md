@@ -1,10 +1,10 @@
 # purescript-contrib/purescript-affjax-web - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 2
 
-★ Stars: 1
+★ Stars: 2
 
 [Open repository](https://github.com/purescript-contrib/purescript-affjax-web)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2 | 2 | 
 | 2022-11-16 | 1 | 2 | 
 | 2022-11-15 | 1 | 2 | 
 | 2022-11-14 | 1 | 2 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1 | 2 | 
 | 2022-10-20 | 1 | 2 | 
 | 2022-10-19 | 1 | 2 | 
-| 2022-10-18 | 1 | 2 | 
 

@@ -1,6 +1,6 @@
 # Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 109 | 4 | 
 | 2022-11-16 | 109 | 4 | 
 | 2022-11-15 | 109 | 4 | 
 | 2022-11-14 | 109 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 109 | 4 | 
 | 2022-10-20 | 109 | 4 | 
 | 2022-10-19 | 109 | 4 | 
-| 2022-10-18 | 109 | 4 | 
 

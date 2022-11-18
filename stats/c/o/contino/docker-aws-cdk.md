@@ -1,6 +1,6 @@
 # contino/docker-aws-cdk - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 22
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 17 | 22 | 
 | 2022-11-16 | 17 | 22 | 
 | 2022-11-15 | 17 | 22 | 
 | 2022-11-13 | 17 | 22 | 

@@ -1,6 +1,6 @@
 # mapbox/mapbox-maps-android - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 92
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 230 | 92 | 
 | 2022-11-16 | 230 | 92 | 
 | 2022-11-15 | 230 | 92 | 
 | 2022-11-14 | 228 | 91 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 217 | 87 | 
 | 2022-10-20 | 217 | 86 | 
 | 2022-10-19 | 217 | 86 | 
-| 2022-10-18 | 216 | 86 | 
 

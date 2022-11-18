@@ -1,6 +1,6 @@
 # nestlabs/nlunit-test - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 4
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 7 | 4 | 
 | 2022-11-17 | 7 | 4 | 
 | 2022-11-15 | 7 | 4 | 
 | 2022-11-14 | 7 | 4 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 6 | 4 | 
 | 2022-10-20 | 6 | 4 | 
 | 2022-10-19 | 6 | 4 | 
-| 2022-10-18 | 6 | 4 | 
 

@@ -1,6 +1,6 @@
 # coloradocolby/thokr - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 436 | 11 | 
 | 2022-11-16 | 436 | 11 | 
 | 2022-11-15 | 436 | 11 | 
 | 2022-11-14 | 436 | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 428 | 11 | 
 | 2022-10-21 | 428 | 11 | 
 | 2022-10-20 | 428 | 11 | 
-| 2022-10-19 | 428 | 11 | 
 

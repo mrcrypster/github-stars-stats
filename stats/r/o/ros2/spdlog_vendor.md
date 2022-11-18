@@ -1,6 +1,6 @@
 # ros2/spdlog_vendor - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 6
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1 | 6 | 
 | 2022-11-16 | 1 | 6 | 
 | 2022-11-15 | 1 | 6 | 
 | 2022-11-14 | 1 | 6 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1 | 5 | 
 | 2022-10-20 | 1 | 5 | 
 | 2022-10-19 | 1 | 5 | 
-| 2022-10-18 | 1 | 5 | 
 

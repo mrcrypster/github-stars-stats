@@ -1,10 +1,10 @@
 # kyleavery/AceLdr - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 95
+☋ Forks: 94
 
-★ Stars: 525
+★ Stars: 526
 
 [Open repository](https://github.com/kyleavery/AceLdr)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 526 | 94 | 
 | 2022-11-16 | 525 | 95 | 
 | 2022-11-15 | 523 | 95 | 
 | 2022-11-14 | 523 | 95 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 500 | 92 | 
 | 2022-10-20 | 498 | 92 | 
 | 2022-10-19 | 494 | 92 | 
-| 2022-10-18 | 494 | 92 | 
 

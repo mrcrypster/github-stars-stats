@@ -1,10 +1,10 @@
 # gigaSecure/Tech-Notes - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 7
 
-★ Stars: 119
+★ Stars: 120
 
 [Open repository](https://github.com/gigaSecure/Tech-Notes)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 120 | 7 | 
 | 2022-11-16 | 119 | 7 | 
 | 2022-11-15 | 119 | 7 | 
 | 2022-11-14 | 119 | 7 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 103 | 7 | 
 | 2022-10-20 | 103 | 7 | 
 | 2022-10-19 | 103 | 7 | 
-| 2022-10-18 | 102 | 7 | 
 

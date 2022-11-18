@@ -1,10 +1,10 @@
 # WeBankFinTech/DataSphereStudio - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 835
 
-★ Stars: 2358
+★ Stars: 2360
 
 [Open repository](https://github.com/WeBankFinTech/DataSphereStudio)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2360 | 835 | 
 | 2022-11-16 | 2358 | 835 | 
 | 2022-11-15 | 2358 | 835 | 
 | 2022-11-14 | 2356 | 836 | 

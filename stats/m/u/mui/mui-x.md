@@ -1,10 +1,10 @@
 # mui/mui-x - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 442
 
-★ Stars: 2081
+★ Stars: 2086
 
 [Open repository](https://github.com/mui/mui-x)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2086 | 442 | 
 | 2022-11-16 | 2081 | 442 | 
 | 2022-11-15 | 2078 | 442 | 
 | 2022-11-14 | 2077 | 442 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2038 | 423 | 
 | 2022-10-20 | 2036 | 422 | 
 | 2022-10-19 | 2032 | 420 | 
-| 2022-10-18 | 2030 | 419 | 
 

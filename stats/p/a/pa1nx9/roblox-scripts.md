@@ -1,6 +1,6 @@
 # pa1nx9/roblox-scripts - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 11
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | - | 11 | 
 | 2022-11-16 | - | 11 | 
 | 2022-11-15 | - | 11 | 
 | 2022-11-14 | - | 11 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | - | 11 | 
 | 2022-10-21 | - | 11 | 
 | 2022-10-20 | - | 11 | 
-| 2022-10-19 | - | 11 | 
 

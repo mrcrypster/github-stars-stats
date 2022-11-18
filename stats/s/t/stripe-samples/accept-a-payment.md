@@ -1,8 +1,8 @@
 # stripe-samples/accept-a-payment - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 265
+☋ Forks: 266
 
 ★ Stars: 320
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 320 | 266 | 
 | 2022-11-16 | 320 | 265 | 
 | 2022-11-15 | 320 | 264 | 
 | 2022-11-14 | 319 | 263 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 304 | 251 | 
 | 2022-10-20 | 305 | 251 | 
 | 2022-10-19 | 305 | 251 | 
-| 2022-10-18 | 304 | 251 | 
 

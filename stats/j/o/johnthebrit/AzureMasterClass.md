@@ -1,6 +1,6 @@
 # johnthebrit/AzureMasterClass - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 268
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 645 | 268 | 
 | 2022-11-16 | 645 | 268 | 
 | 2022-11-15 | 644 | 269 | 
 | 2022-11-14 | 644 | 269 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 634 | 265 | 
 | 2022-10-20 | 634 | 264 | 
 | 2022-10-19 | 634 | 264 | 
-| 2022-10-18 | 633 | 264 | 
 

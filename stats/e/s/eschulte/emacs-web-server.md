@@ -1,6 +1,6 @@
 # eschulte/emacs-web-server - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 25
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 163 | 25 | 
 | 2022-11-16 | 163 | 25 | 
 | 2022-11-15 | 163 | 25 | 
 | 2022-11-14 | 164 | 25 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 164 | 25 | 
 | 2022-10-20 | 164 | 25 | 
 | 2022-10-19 | 164 | 25 | 
-| 2022-10-18 | 164 | 25 | 
 

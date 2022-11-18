@@ -1,10 +1,10 @@
 # eProsima/Fast-DDS - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 517
+☋ Forks: 518
 
-★ Stars: 1345
+★ Stars: 1346
 
 [Open repository](https://github.com/eProsima/Fast-DDS)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1346 | 518 | 
 | 2022-11-16 | 1345 | 517 | 
 | 2022-11-15 | 1344 | 516 | 
 | 2022-11-14 | 1344 | 515 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-22 | 1308 | 505 | 
 | 2022-10-21 | 1308 | 505 | 
 | 2022-10-20 | 1305 | 503 | 
-| 2022-10-19 | 1303 | 502 | 
 

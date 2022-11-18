@@ -1,10 +1,10 @@
 # trussworks/terraform-aws-cloudtrail - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 26
+☋ Forks: 27
 
-★ Stars: 42
+★ Stars: 43
 
 [Open repository](https://github.com/trussworks/terraform-aws-cloudtrail)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 43 | 27 | 
 | 2022-11-16 | 42 | 26 | 
 | 2022-11-15 | 42 | 26 | 
 | 2022-11-14 | 42 | 26 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 41 | 27 | 
 | 2022-10-20 | 41 | 27 | 
 | 2022-10-19 | 41 | 27 | 
-| 2022-10-18 | 41 | 26 | 
 

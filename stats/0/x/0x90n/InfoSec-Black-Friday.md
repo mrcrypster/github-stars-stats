@@ -2,9 +2,9 @@
 
 Stats updated on Nov 2022, 17
 
-☋ Forks: 152
+☋ Forks: 158
 
-★ Stars: 1203
+★ Stars: 1220
 
 [Open repository](https://github.com/0x90n/InfoSec-Black-Friday)
 
@@ -13,7 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-17 | 1203 | 152 | 
+| 2022-11-17 | 1220 | 158 | 
 | 2022-11-16 | 1202 | 152 | 
 | 2022-11-15 | 1188 | 151 | 
 | 2022-11-14 | 1154 | 145 | 

@@ -1,10 +1,10 @@
 # boostorg/boost - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 1479
 
-★ Stars: 5299
+★ Stars: 5301
 
 [Open repository](https://github.com/boostorg/boost)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 5301 | 1479 | 
 | 2022-11-16 | 5299 | 1479 | 
 | 2022-11-15 | 5298 | 1479 | 
 | 2022-11-14 | 5295 | 1479 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 5254 | 1472 | 
 | 2022-10-20 | 5250 | 1472 | 
 | 2022-10-19 | 5248 | 1471 | 
-| 2022-10-18 | 5246 | 1471 | 
 

@@ -1,10 +1,10 @@
 # joamag/boytacean - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
-☋ Forks: 4
+☋ Forks: 5
 
-★ Stars: 110
+★ Stars: 165
 
 [Open repository](https://github.com/joamag/boytacean)
 
@@ -13,5 +13,6 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
-| 2022-11-17 | 110 | 4 | 
+| 2022-11-18 | 165 | 5 | 
+| 2022-11-17 | 158 | 5 | 
 

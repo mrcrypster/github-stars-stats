@@ -1,10 +1,10 @@
 # w181496/Web-CTF-Cheatsheet - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 476
 
-★ Stars: 2037
+★ Stars: 2038
 
 [Open repository](https://github.com/w181496/Web-CTF-Cheatsheet)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 2038 | 476 | 
 | 2022-11-16 | 2037 | 476 | 
 | 2022-11-15 | 2037 | 475 | 
 | 2022-11-14 | 2036 | 475 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 2016 | 474 | 
 | 2022-10-20 | 2015 | 472 | 
 | 2022-10-19 | 2012 | 472 | 
-| 2022-10-18 | 2012 | 472 | 
 

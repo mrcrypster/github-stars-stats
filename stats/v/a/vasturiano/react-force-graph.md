@@ -1,10 +1,10 @@
 # vasturiano/react-force-graph - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 192
+☋ Forks: 193
 
-★ Stars: 1278
+★ Stars: 1279
 
 [Open repository](https://github.com/vasturiano/react-force-graph)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1279 | 193 | 
 | 2022-11-16 | 1278 | 192 | 
 | 2022-11-15 | 1273 | 191 | 
 | 2022-11-14 | 1269 | 191 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1236 | 188 | 
 | 2022-10-20 | 1233 | 188 | 
 | 2022-10-19 | 1233 | 187 | 
-| 2022-10-18 | 1233 | 186 | 
 

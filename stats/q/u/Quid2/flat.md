@@ -1,10 +1,10 @@
 # Quid2/flat - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
-☋ Forks: 19
+☋ Forks: 20
 
-★ Stars: 51
+★ Stars: 55
 
 [Open repository](https://github.com/Quid2/flat)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 55 | 20 | 
 | 2022-11-16 | 51 | 19 | 
 | 2022-11-15 | 51 | 19 | 
 | 2022-11-14 | 51 | 19 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 51 | 19 | 
 | 2022-10-20 | 51 | 19 | 
 | 2022-10-19 | 51 | 19 | 
-| 2022-10-18 | 51 | 19 | 
 

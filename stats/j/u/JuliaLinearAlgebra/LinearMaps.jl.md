@@ -1,6 +1,6 @@
 # JuliaLinearAlgebra/LinearMaps.jl - stars & forks statistics
 
-Stats updated on Nov 2022, 17
+Stats updated on Nov 2022, 18
 
 ☋ Forks: 33
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 17
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-18 | 268 | 33 | 
 | 2022-11-17 | 268 | 33 | 
 | 2022-11-15 | 268 | 33 | 
 | 2022-11-14 | 268 | 33 | 
@@ -42,5 +43,4 @@ Stats updated on Nov 2022, 17
 | 2022-10-21 | 266 | 33 | 
 | 2022-10-20 | 266 | 33 | 
 | 2022-10-19 | 263 | 33 | 
-| 2022-10-18 | 263 | 33 | 
 

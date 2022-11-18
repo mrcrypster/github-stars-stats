@@ -1,10 +1,10 @@
 # pharo-graphics/Bloc - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 25
 
-★ Stars: 66
+★ Stars: 65
 
 [Open repository](https://github.com/pharo-graphics/Bloc)
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 65 | 25 | 
 | 2022-11-16 | 66 | 25 | 
 | 2022-11-15 | 66 | 25 | 
 | 2022-11-14 | 65 | 25 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 64 | 25 | 
 | 2022-10-20 | 64 | 25 | 
 | 2022-10-19 | 64 | 25 | 
-| 2022-10-18 | 64 | 25 | 
 

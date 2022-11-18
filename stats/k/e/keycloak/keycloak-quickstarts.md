@@ -1,6 +1,6 @@
 # keycloak/keycloak-quickstarts - stars & forks statistics
 
-Stats updated on Nov 2022, 16
+Stats updated on Nov 2022, 17
 
 ☋ Forks: 800
 
@@ -13,6 +13,7 @@ Stats updated on Nov 2022, 16
 ## Historical data
 | Date | Stars | Forks |
 |------|-------|-------|
+| 2022-11-17 | 1336 | 800 | 
 | 2022-11-16 | 1336 | 800 | 
 | 2022-11-15 | 1334 | 797 | 
 | 2022-11-14 | 1333 | 796 | 
@@ -41,5 +42,4 @@ Stats updated on Nov 2022, 16
 | 2022-10-21 | 1312 | 784 | 
 | 2022-10-20 | 1311 | 784 | 
 | 2022-10-19 | 1310 | 784 | 
-| 2022-10-18 | 1309 | 783 | 
 
